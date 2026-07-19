@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l6019-l6087
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: MAHAVAGGA. V, 13, 8. / V, 13, 10. RULES FOR FOOT-CLOTIIING, SEATS, ETC. '37
+    / SIXTH KHANDHAKA. / QO MAHAVAGGA. VI, 25, 2.; lines 6019-6087
+  start: '6019'
+  end: '6087'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents disciplinary reasoning about things not expressly
+    allowed, then records the Bhikkhus asking whether foods or medicaments with different
+    permitted consumption periods remain lawful when mixed. The Blessed One rules
+    that mixed items are lawful only up to the shorter relevant time limit. A note
+    reports Buddhaghosa's explanation that the rule applies when the taste has become
+    one.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states a rule for matters not expressly allowed by the formula
+    "This beseems you," relating permissibility to what accords with lawful or unlawful
+    categories.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhikkhus wonder whether foods permitted for different time periods remain
+    lawful when mixed with other foods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The time categories discussed include food to be eaten before noon, food permitted
+    until the first watch of the night, food permitted within seven days, and food
+    permitted during life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The Bhikkhus report their question to the Blessed One, who gives a ruling.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Food from longer-permitted categories mixed with food to be eaten before noon
+    is lawful only until noon and not after noon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Food permitted within seven days or during life, when mixed with food permitted
+    until the first watch of the night, is lawful only until the first watch and not
+    after it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Food permitted during life, when mixed with food permitted within seven days,
+    is lawful within seven days and not beyond seven days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A note attributes to Buddhaghosa the explanation that the rule applies when
+    two items are so mixed that their taste has become one; if not so mixed, they
+    may be divided and the longer-permitted part used for its full period.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monks who consider the problem of mixed foods and report it to the
+    Blessed One.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Blessed One
+  description: The addressed authority who rules on the lawfulness of mixed foods
+    according to time limits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Buddhaghosa
+  description: Named in a note as explaining that mixture means the tastes have become
+    one.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioning monastic community
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhus formulate questions about mixed foods and bring the matter to
+    the Blessed One.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: authoritative rule-giver
+  assigned_to:
+  - fig:2
+  basis: The Blessed One states which mixtures are lawful and until what time.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: commentarial explainer
+  assigned_to:
+  - fig:3
+  basis: The note reports Buddhaghosa's interpretation of when substances count as
+    mixed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: regulated food and medicaments
+  literal_form: food or medicaments classified by permitted consumption period
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: one taste as sign of mixture
+  literal_form: two items mixed so that the taste has become one
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rule for unexpressed allowances
+  summary: A general principle is stated for judging matters not expressly allowed
+    by the formula "This beseems you."
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhikkhus question mixed foods
+  summary: The Bhikkhus consider several cases where foods with different allowed
+    consumption periods are mixed, and they bring the matter to the Blessed One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ruling by shorter time limit
+  summary: 'The Blessed One rules that mixtures involving differently timed foods
+    are lawful only until the shorter relevant deadline: noon, the first watch of
+    the night, or seven days.'
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Commentarial clarification of mixing
+  summary: A note reports Buddhaghosa's clarification that the rule applies when tastes
+    have become one, while separable items may be divided and used according to their
+    own time limits.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mixed substances governed by the shorter allowance
+  taxonomy_refs: []
+  basis: The ruling repeatedly treats a mixture of differently permitted foods as
+    lawful only until the shorter relevant consumption period expires.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a monastic disciplinary/legal pattern rather than a mythological
+    motif; no available taxonomy motif family clearly applies.
+- id: motif:2
+  label: authoritative resolution of monastic uncertainty
+  taxonomy_refs: []
+  basis: The Bhikkhus raise a technical uncertainty, report it to the Blessed One,
+    and receive a formal ruling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The narrative frame is minimal and formulaic; it should not be overread
+    as a broader comparative myth pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6019-6027
+  quote_or_summary: Opening rule discusses things not explicitly allowed with the
+    words "This beseems you" and evaluates them in relation to lawful and unlawful
+    categories.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source path indicates a public-domain collection; explicit rights metadata
+    was not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 6028-6057
+  quote_or_summary: The Bhikkhus ask whether foods permitted until the first watch,
+    within seven days, or during life remain lawful when mixed with foods to be eaten
+    before noon, or when mixed with one another, and they tell the matter to the Blessed
+    One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source path indicates a public-domain collection; explicit rights metadata
+    was not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 6058-6077
+  quote_or_summary: The Blessed One rules that mixtures with before-noon food are
+    lawful only until noon, mixtures with first-watch food only until the first watch,
+    and life-permitted food mixed with seven-day food only within seven days.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source path indicates a public-domain collection; explicit rights metadata
+    was not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 6078-6087
+  quote_or_summary: A note says Buddhaghosa explains the rule as applying when the
+    tastes have become one; if the items are not so mixed, they may be divided and
+    the part allowed for the longer period used to the end of that period.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source path indicates a public-domain collection; explicit rights metadata
+    was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal content and narrative sequence are explicit. Motif candidates are
+    retained as disciplinary patterns only; no comparative claims are supported by
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or listed symbol was assigned because the passage concerns monastic regulations for mixed foods/medicaments rather than mythic imagery.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l6019-l6087
+  passage_sha256=e84ed61b4d0e580cdc97c3d265c53426b038dedceb9c6e6dc911f9a3fcb75f04
+

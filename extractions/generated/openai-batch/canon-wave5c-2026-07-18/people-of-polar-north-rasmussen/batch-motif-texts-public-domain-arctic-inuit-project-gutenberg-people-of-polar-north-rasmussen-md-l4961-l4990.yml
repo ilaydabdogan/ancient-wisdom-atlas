@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l4961-l4990
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: QULUTINGUAQ, A WELL-KNOWN ESKIMO GUIDE / RELIGIOUS BELIEFS / TONGIGUAQ, WIFE
+    OF QULUTINGUAQ / PAPIK, WHO MURDERED HIS BROTHER-IN-LAW; lines 4961-4990
+  start: '4961'
+  end: '4990'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Papik hunts seals with his brother-in-law Ailaq, but Ailaq succeeds while
+    Papik returns empty-handed and becomes increasingly envious. Ailaq later fails
+    to return, and Papik says nothing. Ailaq's mother accuses Papik of killing him;
+    Papik denies it. The mother declares that Papik has hidden the murder, threatens
+    that she will one day eat him alive, and prepares to die so that she may avenge
+    Ailaq as a revenant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies Papik as one who murdered his brother-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Papik used to go seal-catching with his brother-in-law Ailaq.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ailaq repeatedly brought home seals, while Papik repeatedly returned empty-handed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Papik's envy grew because of the contrast between Ailaq's success and his
+    own lack of success.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One day Ailaq did not return, and Papik returned without saying anything about
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ailaq's mother accused Papik of killing Ailaq, and Papik denied the accusation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ailaq's mother declared that Papik had kept the murder secret and threatened
+    that she would one day eat him alive.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ailaq's mother prepared herself to die because she intended to avenge Ailaq
+    as a revenant.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Papik
+  description: A man who hunted seals with his brother-in-law Ailaq; he returned empty-handed
+    while Ailaq brought home seals, became envious, later returned without Ailaq,
+    denied killing him, and is identified in the heading as the murderer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ailaq
+  description: Papik's brother-in-law and seal-hunting companion; he repeatedly brought
+    home seals, later did not return, and is named as the person Papik killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ailaq's mother / the old woman
+  description: Ailaq's mother; she accuses Papik of killing Ailaq, declares that he
+    kept the murder secret, threatens to eat him alive, and prepares to die so she
+    can avenge Ailaq as a revenant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: envious unsuccessful seal-hunter
+  assigned_to:
+  - fig:1
+  basis: Papik returned empty-handed while Ailaq brought home seals, and his envy
+    grew.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: accused and identified murderer
+  assigned_to:
+  - fig:1
+  basis: The heading identifies Papik as the murderer of his brother-in-law; Ailaq's
+    mother accuses him, says he kept the murder secret, and Papik denies it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: successful brother-in-law and murder victim
+  assigned_to:
+  - fig:2
+  basis: Ailaq is Papik's brother-in-law, repeatedly succeeds in seal-catching, does
+    not return, and is named as the person killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: accuser and would-be revenant avenger
+  assigned_to:
+  - fig:3
+  basis: Ailaq's mother accuses Papik, threatens future vengeance, and prepares to
+    die so she can avenge Ailaq as a revenant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: seal-catching success and failure
+  literal_form: Seals brought home by Ailaq contrasted with Papik's empty-handed returns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: revenant avenger
+  literal_form: Ailaq's mother intending to die and act as a revenant to avenge Ailaq.
+  associated_figures:
+  - fig:3
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: eating alive threat
+  literal_form: The old woman's spoken threat that she will one day eat Papik alive.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Seal-hunting rivalry
+  summary: Papik and Ailaq hunt seals together; Ailaq succeeds and Papik fails, causing
+    Papik's envy to grow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ailaq's disappearance
+  summary: Ailaq fails to return, while Papik returns without explanation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Accusation and denial
+  summary: Ailaq's mother accuses Papik of killing Ailaq, and Papik denies it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Threatened revenant revenge
+  summary: Ailaq's mother says Papik has concealed the murder, threatens to eat him
+    alive, and prepares to die so she can avenge Ailaq as a revenant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: envy of a successful kinsman leading to murder
+  taxonomy_refs: []
+  basis: Papik envies Ailaq's repeated seal-hunting success, Ailaq disappears, and
+    the heading and old woman's accusations identify Papik as the killer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied passage does not narrate the killing itself; it gives the
+    heading, disappearance, accusation, and denial.
+- id: motif:2
+  label: concealed murder revealed by accusation
+  taxonomy_refs: []
+  basis: Ailaq's mother directly accuses Papik and says he has kept the murder secret,
+    while Papik denies killing Ailaq.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The accusation is explicit, but the passage segment does not include independent
+    eyewitness evidence.
+- id: motif:3
+  label: revenant revenge for murdered kin
+  taxonomy_refs: []
+  basis: Ailaq's mother prepares herself to die because she intends to avenge Ailaq
+    as a revenant.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The supplied passage ends mid-sentence before describing any completed
+    revenant action.
+- id: motif:4
+  label: threat to eat the murderer alive
+  taxonomy_refs: []
+  basis: Ailaq's mother threatens that a day will come when she will eat Papik alive
+    because he killed Ailaq.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: At this point in the passage the threat is spoken but not yet enacted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: '4961'
+  quote_or_summary: The heading names Papik as the one who murdered his brother-in-law.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 4963-4967
+  quote_or_summary: Papik went seal-catching with his brother-in-law Ailaq; Ailaq
+    always brought home seals, Papik returned empty-handed, and Papik's envy grew.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 4968-4970
+  quote_or_summary: Ailaq did not come back one day, and Papik returned home with
+    no word to say.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 4971-4980
+  quote_or_summary: Ailaq's mother accuses Papik of killing Ailaq, and Papik replies
+    that he did not kill him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 4981-4987
+  quote_or_summary: The old woman says Papik has kept the murder secret and threatens
+    that she will one day eat him alive because he killed Ailaq.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 4988-4990
+  quote_or_summary: The old woman prepares herself to die, intending to avenge Ailaq
+    as a revenant; the supplied passage ends mid-sentence.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. The ending is incomplete
+    at line 4990, so later outcome is not inferred. No comparison claims are made
+    because the passage itself does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; none was directly supported by the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l4961-l4990
+  passage_sha256=00c1d30ccb598a3ad31e5b3767887ae140734fbf7d832652c9072fe21dc57ac4
+

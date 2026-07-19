@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l26010-l26019
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SECRET SOCIETIES. / FETICHISM. / PRIVATE OR PERSONAL FETICHES. / D0B8BY.J
+    SORCERY AND JUGGLERY. 499; lines 26010-26019
+  start: '26010'
+  end: '26019'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: If any accident befalls an idol or charm, if it is broken or lost, it is
+    enough to arrest the most intrepid chief or warrior in his expedition...
+  summary: The passage states that personal idols or charms are believed to protect
+    from misfortune, and that breaking or losing such an object can halt a chief or
+    warrior’s expedition. It also lists a warrior’s wohdiize, the initipi or sweat
+    lodge, and wild sage or Artemisia as personal fetich-related means of purification.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An idol or charm is described as protecting its possessor from misfortunes.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If an idol or charm is broken or lost, this can stop a chief or warrior during
+    an expedition and make him abandon an enterprise.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wohdiize of each warrior is reckoned among personal fetiches.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The initipi or sweat lodge is mentioned as possibly used for personal purification.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Wild sage or Artemisia is mentioned as possibly used for personal purification.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: chief or warrior
+  description: A chief or warrior whose expedition may be halted if his idol or charm
+    is broken or lost.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: each warrior
+  description: A warrior associated with a personal wohdiize.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: expedition leader or participant affected by charm-loss
+  assigned_to:
+  - fig:1
+  basis: The passage says a broken or lost idol or charm can arrest a chief or warrior
+    in his expedition and cause abandonment of an enterprise.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possessor of personal fetich
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the wohdiize of each warrior among personal fetiches.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: idol or charm
+  literal_form: idol or charm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: broken or lost charm
+  literal_form: idol or charm that is broken or lost
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wohdiize
+  literal_form: wohdiize of each warrior
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sweat lodge
+  literal_form: initipi or sweat lodge
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wild sage
+  literal_form: wild sage or Artemisia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Loss or breakage of protective object halts expedition
+  summary: A chief or warrior abandons an expedition or important enterprise when
+    an idol or charm is broken or lost.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Personal purification by objects or places
+  summary: The passage lists a warrior’s wohdiize, the initipi or sweat lodge, and
+    wild sage or Artemisia among personal fetich-related means by which purification
+    is supposed to be effected.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: protective personal fetich
+  taxonomy_refs: []
+  basis: The passage describes idols or charms as protecting from misfortune and treats
+    warrior-associated objects as personal fetiches.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage reports the belief in general terms and does not narrate a
+    specific individual episode.
+- id: motif:2
+  label: loss or damage of charm causes abandonment of undertaking
+  taxonomy_refs: []
+  basis: The passage states that breaking or losing an idol or charm can halt a chief
+    or warrior’s expedition and cause abandonment of an important enterprise.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a described pattern rather than a full mythic narrative.
+- id: motif:3
+  label: personal purification through sweat lodge and sage
+  taxonomy_refs: []
+  basis: The passage says personal purification is supposed to be effected by the
+    initipi or sweat lodge and by wild sage or Artemisia.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage says these may perhaps be reckoned among personal fetiches,
+    so the classification is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26010-26013
+  quote_or_summary: The passage says idols or charms protect “from all misfortunes.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request; excerpt is brief and taken
+    from user-provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 26010-26014
+  quote_or_summary: If an idol or charm is broken or lost, it can stop an intrepid
+    chief or warrior during an expedition and make him abandon an important enterprise.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request; summary based on user-provided
+    passage.
+- id: ev:3
+  type: quote
+  locator: lines 26016-26017
+  quote_or_summary: "“the wohdiize of each warrior” is counted among personal fetiches."
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request; excerpt is brief and taken
+    from user-provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 26017-26019
+  quote_or_summary: The initipi or sweat lodge, and wild sage or Artemisia, are mentioned
+    as possible means by which personal purification is supposed to be effected.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request; summary based on user-provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and mostly descriptive. Object and ritual-pattern extraction
+    is well supported, while motif-family mapping is limited because the supplied
+    taxonomy has no direct fetich or purification category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l26010-l26019
+  passage_sha256=0845e671f5e805d48f9d11f5e0c795bfeb334bf51af520c4416b5c7646a9ff77
+

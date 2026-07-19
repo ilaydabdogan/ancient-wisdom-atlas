@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md-l3774-l3874
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: ANTANANARIVO, THE CAPITAL. 4I / ANTANANARIVO, THE CAPITAL. / CHAPTER IV.
+    / CHAPTER V.; lines 3774-3874
+  start: '3774'
+  end: '3874'
+  translation: madagascar-before-conquest-sibree
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a chapter on the crater lake of Tritriva and the
+    volcanic regions of Madagascar, describes extinct craters, hot springs at Antsirabe,
+    fossil hippopotamus remains, vague reports of a large animal, half-mythical Malagasy
+    creature stories, and the nearby crater lake Andraikiba.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter heading and contents list frame the section around Tritriva Lake,
+    its physical features, legendary history, mythical monsters, and volcanic regions
+    of the interior.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says Madagascar is not presently subject to volcanic disturbances
+    but contains numerous extinct craters indicating geologically recent subterranean
+    activity.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Two central clusters of old volcanic cones and vents are described: one near
+    Lake Itasy and one in Vakinankaratra, south-west of Ankaratra.'
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Vakinankaratra volcanic region is said to contain numerous named extinct
+    craters, and Dr. Mullens is reported to have counted about sixty cones and craters
+    there.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hot mineral springs at Antsirabe are described as lime-charged and used by
+    visitors and local people for bathing, including curative bathing for rheumatic
+    and other complaints.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Excavations for the bath-house foundations uncovered skeletons of an extinct
+    Madagascar hippopotamus with well-preserved crania and tusks.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator reports vague accounts of a large animal in southern Madagascar
+    and says half-mythical stories of Songomby, Tokandla, Lalomena, and other strange
+    creatures are current among the Malagasy.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Within a few miles of Antsirabe there are two crater lakes; the nearer and
+    larger, Andraikiba, is described as a blue sheet of water with an irregular square
+    shape.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Songomby, Tokandla, Lalomena, and other strange creatures
+  description: Named beings or creature-types mentioned as subjects of half-mythical
+    stories current among the Malagasy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Madagascar hippopotamus
+  description: An extinct smaller hippopotamus species whose remains were found at
+    Antsirabe; the narrator speculates that such pachyderms may underlie later creature
+    traditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Reported large animal in southern Madagascar
+  description: An unspecified large animal reported vaguely from the southern parts
+    of the island; the narrator suggests it could possibly be a surviving hippopotamus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: half-mythical strange creature
+  assigned_to:
+  - fig:1
+  basis: The named beings are explicitly introduced as part of half-mythical Malagasy
+    stories about strange creatures.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: possible remembered water-dwelling pachyderm
+  assigned_to:
+  - fig:2
+  basis: The narrator links the extinct hippopotamus to a possible remembered period
+    when huge pachyderms were seen in lakes, streams, and marshes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: reported possibly surviving large animal
+  assigned_to:
+  - fig:3
+  basis: The passage reports vague accounts of a large animal and speculates that
+    the hippopotamus may not be absolutely extinct there.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Water features
+  literal_form: Hot springs, mineral water, crater lakes, lakes, streams, and marshes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: Volcanic mountain and crater landscape
+  literal_form: Ankaratra mountain mass, old volcanic cones, vents, and extinct craters
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Crater lake
+  literal_form: Tritriva Lake and Andraikiba crater lake
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:8
+scenes:
+- id: scene:1
+  label: Volcanic regions introduced
+  summary: The passage frames central Madagascar as a landscape of extinct craters,
+    volcanic cones, vents, and recent geological volcanic activity.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Antsirabe hot springs and bathing
+  summary: Hot springs at Antsirabe are described as lime-depositing mineral waters
+    used for bathing and considered beneficial for ailments.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Fossil discovery and creature traditions
+  summary: Fossil hippopotamus remains are described, followed by reports and half-mythical
+    stories of large or strange creatures that the narrator speculatively connects
+    to former pachyderms in Malagasy waters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Crater lakes near Antsirabe
+  summary: The passage introduces two crater lakes near Antsirabe and describes Andraikiba
+    as a blue, irregularly shaped sheet of water.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:1
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Half-mythical large water-creature traditions
+  taxonomy_refs: []
+  basis: The passage names Songomby, Tokandla, Lalomena, and other strange creatures
+    as half-mythical Malagasy stories and associates them speculatively with huge
+    pachyderms formerly seen in waters and marshes.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No actual legend is narrated in this excerpt; the link to hippopotami
+    is explicitly speculative.
+- id: motif:2
+  label: Curative mineral waters
+  taxonomy_refs: []
+  basis: The Antsirabe springs are described as mineral waters used for bathing, with
+    reported benefit for rheumatic and other complaints.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as practical bathing and natural history, not
+    as a ritual or mythic episode.
+- id: motif:3
+  label: Legendary crater-lake setting
+  taxonomy_refs: []
+  basis: The chapter heading announces Tritriva Lake's legendary history and mythical
+    monsters, and the passage introduces nearby crater lakes as notable water features.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: low
+  cautions: The excerpt gives only the heading and setting; it does not yet provide
+    the legendary narrative or monster details.
+comparison_claims:
+- id: claim:1
+  claim: The narrator cautiously proposes that half-mythical Malagasy stories of Songomby,
+    Tokandla, Lalomena, and other strange creatures may preserve traditions of earlier
+    hippopotami or large pachyderms in Madagascar's waters.
+  claim_level: same_function
+  target: Traditions remembering huge pachyderms formerly seen in Malagasy lakes,
+    streams, and marshes
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage uses tentative language such as vague reports, possibly,
+    and perhaps; it provides no full myth narrative and no external comparative evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3774-3874, chapter heading and contents list
+  quote_or_summary: The heading presents Tritriva crater lake, its legendary history,
+    mythical monsters, and the volcanic regions of the interior.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3774-3874, opening geological overview
+  quote_or_summary: Madagascar is described as not currently volcanically disturbed,
+    yet marked by numerous extinct craters from recent geological outbursts.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3774-3874, central volcanic clusters paragraph
+  quote_or_summary: 'Two central volcanic clusters are described: one near Lake Itasy
+    and another in Vakinankaratra, south-west of Ankaratra.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 3774-3874, Vakinankaratra crater paragraph
+  quote_or_summary: The region contains named craters, and Dr. Mullens is said to
+    have counted “about sixty cones and craters.”
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 3774-3874, Antsirabe springs paragraph
+  quote_or_summary: Hot springs at Antsirabe have lime deposits, a mission bath-house,
+    mineral waters, and are used for curative bathing.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3774-3874, bath-house excavation paragraph
+  quote_or_summary: Excavations uncovered skeletons of an extinct Madagascar hippopotamus,
+    with crania and tusks in very good preservation.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+- id: ev:7
+  type: quote
+  locator: lines 3774-3874, creature stories paragraph
+  quote_or_summary: The passage mentions “half-mythical stories of the Songomby, Tokandla,
+    Lalomena” and speculates they may recall huge pachyderms in lakes, streams, and
+    marshes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 3774-3874, crater lakes paragraph
+  quote_or_summary: Two crater lakes are noted near Antsirabe; Andraikiba is the nearer
+    and larger, blue in colour and irregularly square in shape.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: rights_status not supplied in metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The physical and geographical extraction is well supported. Mythic content
+    is limited to headings and a brief speculative paragraph naming half-mythical
+    creatures, so motif and comparison claims require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs were assigned beyond available symbol refs for water and mountain; available motif-family refs did not clearly fit the excerpt.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md__l3774-l3874
+  passage_sha256=798887161f97cee7a3c14e0c6078c1c87335e0cacc03bf9c514000084a572f9a
+

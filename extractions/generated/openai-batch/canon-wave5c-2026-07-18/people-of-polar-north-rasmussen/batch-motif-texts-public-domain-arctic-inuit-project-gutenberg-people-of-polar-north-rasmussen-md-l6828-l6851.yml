@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l6828-l6851
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE MAN WHO TOOK A FOX TO WIFE / HOW THE NARWHAL CAME / THE ICE-MAN / THE
+    CATERPILLAR; lines 6828-6851
+  start: '6828'
+  end: '6851'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: A woman adopted a caterpillar, and nursed it.
+  summary: A woman adopts and nurses a caterpillar until it grows large and dangerous.
+    After it eats a child, the woman refuses to kill it because she regards it as
+    her baby. Men lure it out by making children scream and then kill it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman adopted and nursed a caterpillar, causing it to grow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The caterpillar became very big and had to be fastened to the sleeping-place
+    because it wanted to go out.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The caterpillar was covered with hair and was frightful to look upon.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the caterpillar heard children crying, it broke its fastenings, chased
+    them, and ate a little child.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The village people were horrified, but the woman would not kill the caterpillar
+    because she considered it her baby.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Men waited outside the entrance passage, made children scream, and killed
+    the caterpillar when it came out.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: woman
+  description: A woman who adopts, nurses, and protects the caterpillar as her baby.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: caterpillar
+  description: An adopted caterpillar that grows very big, is hairy and frightening,
+    breaks its fastenings, eats a child, and is killed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: children and little child
+  description: Children whose crying draws the caterpillar; one little child is eaten,
+    and children are later made to scream to lure the caterpillar out.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: people in the village
+  description: The people are horrified after the caterpillar eats a child.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: men
+  description: Men wait outside the entrance passage and kill the caterpillar after
+    luring it out.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: adoptive mother and protector
+  assigned_to:
+  - fig:1
+  basis: She adopts and nurses the caterpillar and refuses to kill it because it is
+    her baby.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: nursed adopted creature
+  assigned_to:
+  - fig:2
+  basis: The caterpillar is adopted and nursed by the woman and grows under her care.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dangerous child-eating creature
+  assigned_to:
+  - fig:2
+  basis: The caterpillar becomes frightening, breaks free, chases children, and eats
+    a little child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: victims and lure
+  assigned_to:
+  - fig:3
+  basis: A little child is eaten, and children’s screaming is used to lure the caterpillar
+    out.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: horrified community
+  assigned_to:
+  - fig:4
+  basis: The village people are horrified after the caterpillar eats the child.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: killers of the dangerous creature
+  assigned_to:
+  - fig:5
+  basis: The men lie in wait and kill the caterpillar after it comes out.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: caterpillar
+  literal_form: A hairy, frightening caterpillar that grows very large after being
+    nursed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fastenings at the sleeping-place
+  literal_form: Fastenings used to secure the caterpillar to the sleeping-place.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: children’s crying or screaming
+  literal_form: Children crying or screaming, first heard by the caterpillar and later
+    used to draw it out.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: entrance passage
+  literal_form: The entrance passage outside which the men wait for the caterpillar.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Adoption and growth of the caterpillar
+  summary: A woman adopts and nurses a caterpillar until it grows so large that it
+    must be fastened to the sleeping-place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Caterpillar breaks free and eats a child
+  summary: The hairy, frightening caterpillar hears children crying, breaks its fastenings,
+    chases them, and eats a little child.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Community response and refusal to kill
+  summary: The village people are horrified, but the woman refuses to kill the caterpillar
+    because she regards it as her baby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Luring and killing the caterpillar
+  summary: Men wait outside the entrance passage, make children scream, and kill the
+    caterpillar when it comes out.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: adopted nonhuman creature becomes dangerous
+  taxonomy_refs: []
+  basis: A woman adopts and nurses a caterpillar; it grows large and later eats a
+    little child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not state an origin explanation or transformation for
+    the caterpillar.
+- id: motif:2
+  label: mother protects monstrous child
+  taxonomy_refs: []
+  basis: After the caterpillar eats a child, the woman refuses to kill it because
+    she considers it her baby.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The maternal bond is adoptive and stated in simple narrative terms; no
+    divine or symbolic status is given.
+- id: motif:3
+  label: dangerous being lured out and killed
+  taxonomy_refs: []
+  basis: Men lie in wait, use children’s screams to draw out the caterpillar, and
+    kill it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives no ritual or heroic framing for the killing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6828-6831
+  quote_or_summary: "“A woman adopted a caterpillar, and nursed it. In this way she
+    made it grow.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text excerpt supplied by user.
+- id: ev:2
+  type: summary
+  locator: lines 6831-6834
+  quote_or_summary: The caterpillar grew very big and was fastened to the sleeping-place
+    because it wanted to go out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text summarized from user-supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6836-6837
+  quote_or_summary: The caterpillar was covered with hair and frightening to look
+    upon.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text summarized from user-supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6839-6841
+  quote_or_summary: After hearing children crying, the caterpillar broke its fastenings,
+    chased them, and ate a little child.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text summarized from user-supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6843-6845
+  quote_or_summary: The village people were horrified, but the woman would not kill
+    it because it was her baby.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text summarized from user-supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6847-6850
+  quote_or_summary: Men waited outside the entrance passage, made children scream,
+    and killed the caterpillar when it came out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text summarized from user-supplied passage.
+- id: ev:7
+  type: citation
+  locator: line 6851
+  quote_or_summary: Told by TATERAQ.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Public-domain source text excerpt supplied by user.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal narrative actions and figures are clear. Motif labels are descriptive
+    rather than linked to a supplied taxonomy family. No comparison claims are made
+    because the passage itself does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied title label includes several neighboring tale titles, but the provided passage text is only “THE CATERPILLAR.”
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l6828-l6851
+  passage_sha256=8f126ad3b5213765df211873170ca7e31ae6ec1ad7ca3c844782a3ed302db1e7
+

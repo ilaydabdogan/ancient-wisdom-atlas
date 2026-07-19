@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l9439-l9484
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: SINITIC (?) / A MONASTERY. / SPECIMEN OF SHAN WRITING. / THE FISHERMAN AND
+    HIS WIFE; lines 9439-9484
+  start: '9439'
+  end: '9484'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor fisherman marries a poor girl described as very wise. On the way
+    to set nets in the river, she agrees when he describes a crow as white and an
+    egret as black. The couple works together, catches many fish, and becomes rich.
+    Envious poor neighbours try to imitate them, but the second wife contradicts the
+    same color statements; the couple quarrels and catches nothing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poor fisherman fell in love with a girl who was also poor and was described
+    as very wise; they married.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife went with her husband to help set nets in the river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fisherman described a crow as very white, and his wife agreed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fisherman described an egret as very black, and his wife agreed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The first couple helped each other sink the nets, worked all day, and caught
+    more fish than they could carry home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the successful fishing, the first couple prospered and grew rich.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Poor neighbours knew of the first couple's good fortune, envied them, and
+    decided to go fishing in imitation of them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The second husband described a crow as very white, but his wife answered that
+    it was black as coal.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The second husband described an egret as very black, but his wife called him
+    a fool and said it was perfectly white.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The second couple quarrelled continually, worked all day at the stream, and
+    caught nothing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: poor fisherman
+  description: A poor fisherman who marries the wise poor girl, speaks about the crow
+    and egret, sets nets, catches many fish, and prospers.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: wise wife of the fisherman
+  description: A poor girl described as very wise; she marries the fisherman, accompanies
+    him to the river, affirms his statements, and helps with the nets.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: neighbouring poor man
+  description: A poor neighbour who envies the first couple's good fortune, proposes
+    imitating their fishing trip, and repeats the color statements about the crow
+    and egret.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: wife of the neighbouring poor man
+  description: The wife of the poor neighbour; she contradicts her husband's color
+    statements, quarrels with him, and is part of the unsuccessful fishing attempt.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: crow
+  description: A bird used in both couples' road-side exchanges; the husbands call
+    it white, while the second wife says it is black as coal.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: egret
+  description: A bird used in both couples' road-side exchanges; the husbands call
+    it black, while the second wife says it is perfectly white.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: fisherman husband
+  assigned_to:
+  - fig:1
+  basis: The passage introduces him as a poor fisherman and husband who goes to set
+    nets in the river.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wise affirming wife
+  assigned_to:
+  - fig:2
+  basis: The passage calls her very wise and shows her agreeing with her husband's
+    statements about the crow and egret.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: prospering working pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They help each other with nets, catch many fish, and then prosper and grow
+    rich.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: envious imitator husband
+  assigned_to:
+  - fig:3
+  basis: He is among the poor neighbours who envy the first couple and proposes doing
+    as they did.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: contradicting wife in quarrel
+  assigned_to:
+  - fig:4
+  basis: She contradicts her husband's statements about the crow and egret, and the
+    passage says they quarrelled incessantly.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: unsuccessful fishing pair
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: They go to the stream, toil all day, and catch nothing.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: birds named in color statements
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The crow and egret are each named in repeated color-description exchanges
+    between husband and wife.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: river or stream
+  literal_form: river; stream
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: nets
+  literal_form: fishing nets sunk in the river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fish catch
+  literal_form: immense number of fish; nothing caught
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: crow with disputed color
+  literal_form: crow called very white by husbands and black as coal by the second
+    wife
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: egret with disputed color
+  literal_form: egret called very black by husbands and perfectly white by the second
+    wife
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: First couple's road-side color exchanges
+  summary: The fisherman and his wife go toward the river; he describes a crow as
+    white and an egret as black, and she agrees both times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Successful fishing and prosperity
+  summary: The first couple works together sinking nets, catches more fish than they
+    can carry, and afterward becomes rich.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Neighbours decide to imitate
+  summary: Poor neighbours envy the first couple's good fortune, and a poor man proposes
+    going fishing and doing as the neighbours did in hope of similar luck.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second couple's contradiction, quarrel, and failed fishing
+  summary: The second husband repeats the crow and egret color statements, but his
+    wife contradicts him; they quarrel, toil at the stream, and catch nothing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wisdom shown through spousal agreement before good fortune
+  taxonomy_refs:
+  - wisdom
+  basis: The first wife is explicitly described as wise; she agrees with her husband's
+    unusual color statements, and the couple then cooperates, catches many fish, and
+    prospers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as narrative sequence but does not explicitly
+    state that agreement causes the prosperity.
+- id: motif:2
+  label: Unsuccessful imitation of fortunate neighbours
+  taxonomy_refs: []
+  basis: The poor neighbours envy the successful couple and try to do as they did,
+    but the second couple quarrels and catches nothing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific supplied taxonomy reference directly names this pattern.
+- id: motif:3
+  label: Cooperation contrasted with quarrel
+  taxonomy_refs: []
+  basis: The first couple helps each other and succeeds, while the second couple contradicts
+    and quarrels before failing at the stream.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The contrast is strongly structured in the passage, but any moral explanation
+    remains implicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9439-9445
+  quote_or_summary: A poor fisherman marries a poor girl described as very wise; she
+    goes with him to help set nets in the river.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 9447-9456
+  quote_or_summary: On the way, the husband calls a crow very white and an egret very
+    black; his wife agrees both times.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 9458-9464
+  quote_or_summary: At the river the first couple helps each other with the nets,
+    catches an immense number of fish, and afterward prospers and grows rich.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 9464-9469
+  quote_or_summary: Poor neighbours know of the couple's good fortune, envy them,
+    and decide to go fishing and do as they did in hope of good luck.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 9469-9481
+  quote_or_summary: The second husband calls a crow white and an egret black; his
+    wife answers that the crow is black as coal and the egret perfectly white, calling
+    him a fool.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 9481-9484
+  quote_or_summary: The second couple quarrels incessantly, toils all day at the stream,
+    and catches nothing.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain,
+    while rights_status metadata is not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious;
+    the passage does not explicitly explain causation or compare itself to other traditions,
+    so no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs beyond supplied available references were used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l9439-l9484
+  passage_sha256=00ba70bc7a1721a5df2a02df482bb3a0f91a27eb88c6e33c0072b24a8d6d7c85
+

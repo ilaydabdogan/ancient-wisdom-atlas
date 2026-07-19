@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l6667-l6690
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: SIZE OF ASI AND LAKATOI. / S. N. G. / LAKATOI CARGOES AND CREW. / Part of
+    interior of a lakatoi showing packages of sago; lines 6667-6690
+  start: '6667'
+  end: '6690'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage moves from a lakatoi/sago caption and cargo figures to an account
+    of stone adze blades as pre-European trade goods among Motu, Koiari, and inland
+    groups. It records a Motu origin tradition in which specialist men catch ready-made
+    adzes from streams with nets while the adzes swim like fish and scar the catchers'
+    legs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies part of the interior of a lakatoi showing packages
+    of sago.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cargo amounts are given for asi returning with 34 tons and two others with
+    30 tons each.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before Europeans came to British New Guinea, stone adze blades were taken
+    to the Gulf as trade articles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Motu obtained stone adze blades from the Koiari; the Koiari were said
+    to obtain them from people farther inland, and the original source was unknown
+    locally.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A large stone adze was valued as equal to a large toia.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the Motu tradition, only certain men among the source tribe were able to
+    procure adze blades.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The specialist procurers waded in streams with a hand-net like a bushman's
+    fishing-net.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stone adzes were already made and swam like fish before being caught in
+    nets.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A helaga stone-adze catcher was said to be recognizable by legs covered with
+    scars inflicted by adzes evading the net.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Motu people
+  description: People described as receiving stone adze blades from Koiari and as
+    preserving the tradition about their origin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Koiari
+  description: People from whom the Motu obtained stone adze blades; they were said
+    to obtain the blades from people farther inland.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed inland people or source tribe
+  description: People farther inland, including the tribe from which the adze blades
+    were said to come; only certain men among them could procure the blades.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Helaga stone-adze catchers
+  description: Specialist men who procured adze blades by wading in streams with nets
+    and were recognizable by leg scars.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: tradition-bearers and trade recipients
+  assigned_to:
+  - fig:1
+  basis: The Motu are said to have obtained adzes from Koiari and to tell the origin
+    tradition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: intermediary suppliers
+  assigned_to:
+  - fig:2
+  basis: The Koiari are described as the Motu's source for adzes and as receiving
+    them from people farther inland.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: remote source community
+  assigned_to:
+  - fig:3
+  basis: The passage places the deeper origin of the adzes among unnamed inland people
+    or a source tribe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: specialist procurers
+  assigned_to:
+  - fig:4
+  basis: Only certain men could procure the blades by netting them in streams; their
+    scars marked them as catchers.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: lakatoi
+  literal_form: lakatoi interior
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sago packages
+  literal_form: packages of sago inside a lakatoi
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stone adze blades
+  literal_form: large stone adze blades, ready made, traded and netted in the tradition
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: hand-net
+  literal_form: hand-net like a bushman's fishing-net
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: streams
+  literal_form: streams in which the adze catchers waded
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: leg scars
+  literal_form: scars on the legs of helaga stone-adze catchers
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lakatoi and sago cargo context
+  summary: The passage identifies a lakatoi interior with sago packages and gives
+    cargo amounts for returning asi.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pre-European stone-adze trade chain
+  summary: Stone adze blades are described as trade articles taken to the Gulf; Motu
+    received them from Koiari, Koiari from farther inland people, and the original
+    source was unknown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Motu tradition of catching adzes
+  summary: In the Motu origin tradition, only certain men could obtain ready-made
+    stone adzes by wading in streams and catching them with nets as they swam like
+    fish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Scars identifying the adze catcher
+  summary: A helaga stone-adze catcher is said to be recognizable by leg scars made
+    by the adzes when they tried to escape the net.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: valued trade object of unknown inland origin
+  taxonomy_refs: []
+  basis: The passage traces stone adzes through Motu, Koiari, and unnamed inland sources,
+    while stating that the original source was not known locally.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is partly an ethnographic trade description rather than a fully developed
+    mythic episode.
+- id: motif:2
+  label: ready-made tools as living fish caught from water
+  taxonomy_refs: []
+  basis: The Motu tradition states that ready-made stone adzes swam like fish and
+    were caught in nets by specialist men wading in streams.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available motif-family taxonomy reference directly matches this pattern.
+- id: motif:3
+  label: specialist procurer marked by wounds from evasive object
+  taxonomy_refs: []
+  basis: The helaga stone-adze catcher is recognized by leg scars inflicted by the
+    adzes as they tried to evade the net.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief explanatory tradition and no wider narrative
+    context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6667-6673
+  quote_or_summary: A lakatoi interior is described as showing packages of sago; cargo
+    figures include asi returning with 34 tons and two others with 30 tons each.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 6674-6682
+  quote_or_summary: Before Europeans came to British New Guinea, stone adze blades
+    were traded to the Gulf; Motu got them from Koiari, Koiari from people farther
+    inland, and the original source was unknown; a large adze equaled the value of
+    a large toia.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 6682-6687
+  quote_or_summary: The Motu tradition says only certain men from the source tribe
+    could procure adze blades by wading in streams with a hand-net like a bushman's
+    fishing-net.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: 6687-6689
+  quote_or_summary: '"The stone adzes, ready made, swam like fish, and they caught
+    them in their nets."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Short excerpt used for evidence; rights status not supplied in source
+    metadata.
+- id: ev:5
+  type: summary
+  locator: 6689-6690
+  quote_or_summary: A helaga stone-adze catcher was said to be recognizable because
+    his legs were covered with scars inflicted by adzes trying to evade the net.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif labels are cautious because
+    the passage is a brief ethnographic report and does not provide a fuller narrative
+    or direct comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond the local Motu tradition and trade context.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l6667-l6690
+  passage_sha256=f2e36841396b6ca1ecba832eaeb631b689c12f7900272eea2cb0583339217903
+

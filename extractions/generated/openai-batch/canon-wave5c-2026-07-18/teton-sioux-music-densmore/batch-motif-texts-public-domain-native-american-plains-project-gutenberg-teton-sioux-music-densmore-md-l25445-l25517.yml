@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l25445-l25517
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TETON  6I0UX  MUSIC / TWO  SHIELDS / BUBEAU  OF  AMERICAN  ETHNOLOGY / BUBEAU   OF   AMEBICAN   ETHNOLOGY;
+    lines 25445-25517
+  start: '25445'
+  end: '25517'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A musical entry is labeled as a duplication of No. 132 and as sung by Two
+    Shields. The glossed song text refers to the north, streams, a bed, roaming, and
+    coming again. A prose note says the words differ slightly from those sung by One
+    Feather with the same melody.
+  language: English with Teton Sioux/Dakota song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entry is identified as a duplication of No. 132.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry is described as sung by Two Shields, with voice and drum tempo markings
+    shown as 96.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The glossed words refer to the north and to streams that are there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first-person gloss includes a bed, roaming, and coming again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that these words are slightly different from those sung by One
+    Feather with the same melody.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Two Shields
+  description: Named as the singer of the entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person song speaker
+  description: The glossed song text uses first-person expressions such as having
+    roamed and coming again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: One Feather
+  description: Named in a prose note as the singer of another version with the same
+    melody.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage says the entry was sung by Two Shields.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: first-person lyric speaker
+  assigned_to:
+  - fig:2
+  basis: The glossed song text speaks in the first person about roaming and coming
+    again.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: singer of compared version
+  assigned_to:
+  - fig:3
+  basis: The note says One Feather sang words with the same melody, though slightly
+    different.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: streams
+  literal_form: streams
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: north
+  literal_form: the north
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: song performance attribution
+  summary: The song entry is presented as a duplication of No. 132 and is attributed
+    to Two Shields as singer.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: first-person return in a northern stream setting
+  summary: The glossed lyric places the first-person speaker in relation to the north
+    and streams, mentions a bed, and says the speaker has roamed and comes again.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: variant note comparing singers
+  summary: A prose note compares this wording with a version sung by One Feather,
+    saying the melody is the same but the words are slightly different.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: return after roaming
+  taxonomy_refs:
+  - return
+  basis: The glossed first-person lyric says the speaker has roamed and comes again.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short song text, not a full narrative; the return pattern
+    is present only in compressed lyric language.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly relates this entry to a version sung by One Feather,
+    stating that the melody is the same while the words are slightly different.
+  claim_level: linguistic_similarity
+  target: One Feather's version of the same melody / No. 132
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The available claim level is approximate because the passage primarily
+    asserts musical sameness and slight verbal variation, not a broader mythic motif
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25445-25517; heading and performance metadata
+  quote_or_summary: The entry is labeled “Duplication of No. 132,” “Sung by Two Shields,”
+    and gives voice and drum tempo markings of 96.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; source metadata rights_status
+    is null.
+- id: ev:2
+  type: summary
+  locator: 25445-25517; song text and interlinear gloss
+  quote_or_summary: The glossed words include the north, streams that are there, “my
+    bed,” “I have roamed,” and “again I myself come.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; source metadata rights_status
+    is null.
+- id: ev:3
+  type: quote
+  locator: 25445-25517; closing prose note
+  quote_or_summary: "“the words are slightly different from those sung by One Feather
+    with the same melody.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; source metadata rights_status
+    is null.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but motif interpretation is limited
+    by the brief, fragmented song text and OCR-like transcription. The comparison
+    claim is explicit in the passage, though the schema has no dedicated musical-variant
+    claim level.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, motifs, or comparisons beyond those directly supported by the supplied passage were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l25445-l25517
+  passage_sha256=866eac15777d878f8b1b35fc6c46aebc2cf927a066ad162dd64a23beebeae624
+

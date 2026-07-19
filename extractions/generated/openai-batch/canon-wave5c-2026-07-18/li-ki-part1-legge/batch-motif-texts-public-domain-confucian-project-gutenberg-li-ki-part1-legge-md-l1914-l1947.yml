@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l1914-l1947
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XXIV. Ar Kunc WAn. / Book XXV. KUNG-Nit YEN KAU. / ARE K. / BooK XXVI.
+    KHUNG-3ZE HSIEN KU.; lines 1914-1947
+  start: '1914'
+  end: '1947'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XXVI, explaining that its title presents Confucius
+    as Khung-3ze, at home and at leisure. It summarizes a conversation in which one
+    disciple is present and the Master discourses on a sovereign as parent of the
+    people and on the virtue of the founders of Hsia, Shang, and Kau, with quotations
+    from the Book of Poetry. It also records editorial doubts about the speeches'
+    authenticity and suggests, on internal analogies, that this Book and the preceding
+    one may have had the same unknown writer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title of Book XXVI is explained as presenting Confucius, called Khung-3ze,
+    as being at home and at leisure.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Book is said to relate a conversation with only one disciple present.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master discourses on describing a sovereign as parent of the people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Master discourses on the virtue of the founders of the Hsia, Shang, and
+    Kau dynasties and illustrates his views by quotations from the Book of Poetry.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor describes the attributed language as strange and startling, the
+    ideas as subtle and ingenious, and the poetical quotations as inapplicable to
+    their subjects.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The editor supposes that this Book and the preceding Book may have been made
+    by the same unknown writer because of internal analogies in form and sentiment.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Khung-3ze / Confucius
+  description: The philosopher Khung, or Confucius, presented by the title as at home
+    and at leisure and by the summary as the Master who discourses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed disciple
+  description: The single disciple said to be present for the conversation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sovereign described as parent of the people
+  description: A sovereign discussed under the description of being the parent of
+    the people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Founders of Hsia, Shang, and Kau
+  description: The founders of the three dynasties whose virtue is a subject of the
+    Master's discourse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: philosopher and Master-discourser
+  assigned_to:
+  - fig:1
+  basis: The passage names him Khung-3ze, glossed as philosopher Khung or Mr. Khung,
+    and says the Master discourses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: disciple-listener
+  assigned_to:
+  - fig:2
+  basis: The passage states that only one disciple is present for the conversation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: parental sovereign
+  assigned_to:
+  - fig:3
+  basis: The sovereign is described as parent of the people in the topic of discourse.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: virtuous dynastic founders
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the founders of Hsia, Shang, and Kau as figures whose
+    virtue is discussed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: parent of the people image
+  literal_form: The description of a sovereign as the parent of the people.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Title and leisure framing
+  summary: The introductory note explains that the Book's title presents Confucius,
+    here called Khung-3ze, as at home and at leisure.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reported discourse to one disciple
+  summary: A conversation is summarized in which the Master speaks before one disciple
+    about the sovereign as parent of the people and about the virtue of dynastic founders,
+    using quotations from the Book of Poetry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Editorial assessment and authorship supposition
+  summary: The editor questions the attribution of the speeches to Confucius and supposes,
+    from internal analogies, that this Book and the preceding one may have had the
+    same unknown writer.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: teacher-disciple wisdom discourse
+  taxonomy_refs:
+  - wisdom
+  basis: The passage summarizes a conversation with one disciple present in which
+    the Master discourses on moral-political themes and illustrates them with poetry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial summary, not the dialogue itself; the motif
+    candidate is based on reported content only.
+- id: motif:2
+  label: parental model of sovereignty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The discourse topic describes a sovereign as parent of the people and connects
+    rulership with the virtue of dynastic founders.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage does not narrate a coronation, descent claim, or explicit
+    legitimating rite; the royal_legitimacy taxonomy link is approximate.
+- id: motif:3
+  label: virtuous founders as exemplars
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The passage identifies the founders of Hsia, Shang, and Kau as subjects whose
+    virtue is discussed in the Master's instruction.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The founders are mentioned only in summary, with no detailed narrative
+    of their deeds in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly compares this Book with the preceding Book, stating
+    that internal analogies in form and sentiment suggest both may have been made
+    by the same writer.
+  claim_level: linguistic_similarity
+  target: the preceding Book in the same corpus
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial supposition within the passage; the writer is
+    unidentified and the comparison is textual rather than a direct mythic-motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1918-1927
+  quote_or_summary: Book XXVI is titled KHUNG-3ZE HSIEN KU; the note says the title
+    suggests Confucius was at home and at leisure and names him Khung-3ze, the philosopher
+    Khung or Mr. Khung.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights_status not supplied; passage provided for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1928-1932
+  quote_or_summary: The Book relates a conversation with only one disciple present;
+    the Master discourses on the description of a sovereign as parent of the people.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights_status not supplied; passage provided for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1932-1936
+  quote_or_summary: The Master discourses on the virtue of the founders of the three
+    dynasties of Hsia, Shang, and Kau, illustrating his views by quotations from the
+    Book of Poetry.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights_status not supplied; passage provided for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1936-1942
+  quote_or_summary: The editor says the language is sometimes strange and startling,
+    the ideas subtle and ingenious, the poetical quotations inapplicable, and the
+    attributed speeches difficult to receive as Confucius's.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights_status not supplied; passage provided for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1943-1947
+  quote_or_summary: The editor supposes, from internal analogies in form and sentiment,
+    that the two Books were made by the same writer, while noting that no guess is
+    available as to who the writer was.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights_status not supplied; passage provided for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is an editorial introduction
+    rather than a mythic narrative; motif candidates are therefore tentative and require
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol such as cave, fire, milk, mountain, serpent, tree, or water appears in the passage. The only symbol-like item extracted is the stated political image of the sovereign as parent of the people.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l1914-l1947
+  passage_sha256=a970d1dcb5a748c43c0dcc39d672e63102118cedf352e9ef041e06f028de0040
+

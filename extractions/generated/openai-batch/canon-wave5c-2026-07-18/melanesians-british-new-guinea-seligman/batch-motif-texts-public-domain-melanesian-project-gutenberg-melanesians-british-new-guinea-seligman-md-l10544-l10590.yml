@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l10544-l10590
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: HUNTING CHARMS. / FISHING CHARMS. / DUGONG AND TURTLE CHARMS. / WAR CHARMS.;
+    lines 10544-10590
+  start: '10544'
+  end: '10590'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists war charms: ginger is applied to spears and carried
+    with cartridges so weapons will shoot straight; tough tree bark is held with a
+    shield to strengthen it; and a prayer reported by Chalmers and associated with
+    Mabata is used before battle to weaken fighters.'
+  language: English; prayer/incantation language not identified in metadata
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spears are rubbed with ginger, or stabbed into ginger roots, with the stated
+    purpose of making them go straight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After guns were introduced, the belief in ginger's efficacy was extended to
+    guns.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ahuia, when described as a shooting boy, carried a small piece of ginger root
+    in his pouch with cartridges so that his gun might shoot straight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that no amount of magic would turn a poor spearsman into
+    an accurate thrower.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In fighting, a piece of bark from a tree with specially tough wood is held
+    with the shield handle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bark is said to make the shield strong and prevent it from splitting.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Chalmers is cited as giving a prayer used before battle by Mabata.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mabata is described as a great man in the tribe, kind-hearted, and a sorcerer.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The prayer is said to make fighters' hands hang down with weakness and their
+    knees tremble.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage gives multiple lines of untranslated prayer or incantation text
+    after the description of its use.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahuia
+  description: Named person described as having been a shooting boy who carried ginger
+    root with cartridges for straight shooting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mabata
+  description: Named person described as a great man in the tribe, kind-hearted, and
+    a sorcerer; associated with a prayer used before battle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Chalmers
+  description: Person cited as giving the prayer used before battle by Mabata.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: fighters
+  description: The persons whose hands and knees are said to be weakened by the pre-battle
+    prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: weapon charm user
+  assigned_to:
+  - fig:1
+  basis: Ahuia carried ginger root with cartridges so his gun might shoot straight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reported sorcerer and prayer user
+  assigned_to:
+  - fig:2
+  basis: Mabata is described as a sorcerer and as the person using the prayer before
+    battle.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: reported source of prayer
+  assigned_to:
+  - fig:3
+  basis: Chalmers is cited as giving the prayer.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: target of weakening effect
+  assigned_to:
+  - fig:4
+  basis: The prayer is said to make fighters' hands weak and knees tremble.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ginger root
+  literal_form: ginger root or small piece of ginger root
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: projectile weapons
+  literal_form: spears; gun; cartridges
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tough tree bark
+  literal_form: piece of bark from a tree with specially tough wood
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shield
+  literal_form: shield and shield handle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: battle prayer
+  literal_form: prayer or incantation recited before battle
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ginger charm for straight shooting
+  summary: Ginger is applied to spears and later carried with gun cartridges so projectile
+    weapons will go straight, though the passage limits the claim by noting that magic
+    cannot make an unskilled spearsman accurate.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bark charm for shield strength
+  summary: A fighter holds bark from a tough-wooded tree with the shield handle so
+    the shield will be strong and not split.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pre-battle weakening prayer
+  summary: Chalmers reports a prayer used before battle by Mabata, which is said to
+    weaken fighters' hands and knees; the passage then gives the prayer text.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: weapon-accuracy charm using ginger
+  taxonomy_refs: []
+  basis: Ginger is rubbed on or associated with spears and later guns to make them
+    shoot straight.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports a belief and also notes a limit to magical efficacy
+    for poor spearsmen.
+- id: motif:2
+  label: charm adapted from spear to gun
+  taxonomy_refs: []
+  basis: The passage states that when guns were introduced, the belief in ginger's
+    efficacy was extended to them.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an intra-passage pattern only; no broader historical comparison
+    is established here.
+- id: motif:3
+  label: shield-strengthening charm using tough bark
+  taxonomy_refs: []
+  basis: Bark from a tough-wooded tree is held with the shield handle to make the
+    shield strong and prevent splitting.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No wider taxonomy reference is supplied for this charm type.
+- id: motif:4
+  label: pre-battle prayer to weaken opponents
+  taxonomy_refs: []
+  basis: A prayer used before battle is said to make fighters' hands weak and knees
+    tremble.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The prayer text is not translated in the passage; the stated effect is
+    reported through Chalmers' account of Mabata.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the ginger charm used to make spears go straight is said
+    to have the same function when applied to guns after their introduction.
+  claim_level: same_function
+  target: ginger weapon-accuracy charm applied to spears and guns
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: high
+  limitations: This is only a within-passage functional comparison; it does not establish
+    external historical contact or broader motif distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10544-10552
+  quote_or_summary: Spears are rubbed with ginger or stabbed into ginger roots to
+    make them go straight; after guns are introduced, Ahuia carries ginger root with
+    cartridges so his gun might shoot straight.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 10552-10555
+  quote_or_summary: The passage qualifies the belief by stating that magic cannot
+    make a poor spearsman an accurate thrower.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 10557-10560
+  quote_or_summary: A piece of bark from a tree with specially tough wood is held
+    with the shield handle to make the shield strong and prevent splitting.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 10562-10567
+  quote_or_summary: Chalmers reports a prayer used before battle by Mabata, described
+    as a great man, kind-hearted, and a sorcerer; the prayer is said to make fighters'
+    hands weak and knees tremble.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: 10569-10590
+  quote_or_summary: The passage gives multiple lines of the prayer or incantation
+    text, beginning after the description of its pre-battle use.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based directly on the supplied passage. Exact sub-line locators
+    are approximate within the supplied stable line range. The prayer language is
+    not identified or translated in the provided metadata.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy motif family was assigned because the supplied motif list has no direct war-charm or battle-incantation category.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l10544-l10590
+  passage_sha256=fbd0346bee2ac9b5e7524d089ae528e57db5d153014292161e5fa726fabb164d
+

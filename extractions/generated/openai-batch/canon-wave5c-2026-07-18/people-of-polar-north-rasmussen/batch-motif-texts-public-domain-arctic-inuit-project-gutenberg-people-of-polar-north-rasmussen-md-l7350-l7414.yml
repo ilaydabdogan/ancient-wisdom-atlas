@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l7350-l7414
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE GLUTTON / ISERAQ, WHO STOLE / ARNALUK, THE STORY-TELLER / THE ORIGIN
+    OF THE FOG; lines 7350-7414
+  start: '7350'
+  end: '7414'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A tale explains fog: a man has himself buried alive to catch a hill spirit
+    that steals corpses from graves. After being carried to the spirit''s house, the
+    man kills the spirit and children, flees from the pursuing wife, raises mounds
+    and overflows a stream to delay her, and finally tricks her so that she bursts;
+    steam from her becomes fog among the hills.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hill spirit fetches bodies out of graves and eats them after bringing them
+    home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man who wants to discover the thief has himself buried alive, and the hill
+    spirit opens the new grave and drags off the body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man has a flat stone under his fur because he fears the spirit may stab
+    him.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While being carried, the man makes himself heavy and catches hold of willow
+    twigs, forcing the spirit to exert more strength.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the spirit's house, the spirit throws the carried body inside, lies down
+    to sleep, and the wife goes out to gather sticks for cooking.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The children cry out that the dead man is opening his eyes; the hill spirit
+    dismisses this as a dead body affected by catching in twigs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man rises, kills the hill spirit and the children, and runs away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The hill spirit's wife first thinks the fleeing man is her husband, then becomes
+    suspicious and pursues him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: On a level plain, the fugitive calls for mounds to rise, and the pursuing
+    wife loses ground when she must climb uphill.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The fugitive jumps over a little stream and commands it to overflow its banks,
+    making crossing impossible.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The fugitive tells the woman that he crossed by drinking the water and instructs
+    her to drink it dry; she begins to gulp it up.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The man tells the woman to look at the tail of her fur-coat between her legs;
+    when she bends to look, she bursts.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: As the woman bursts, steam rises from her and becomes fog that drifts among
+    the hills.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: hill spirit
+  description: A spirit associated with a hill who steals bodies from graves, eats
+    them, carries the buried-alive man home, and is later killed by the man.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the man / fugitive
+  description: A man who has himself buried alive to discover the grave thief, protects
+    himself with a stone, escapes from the spirit's house, and deceives the pursuing
+    wife.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: hill spirit's wife
+  description: The hill spirit's wife gathers sticks, pursues the fleeing man after
+    becoming suspicious, is tricked at the stream and fur-coat tail, bursts, and produces
+    steam that becomes fog.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: hill spirit's children
+  description: The children notice the supposedly dead man opening his eyes, call
+    to their father, and are later killed by the man.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: corpse-eating grave thief
+  assigned_to:
+  - fig:1
+  basis: The hill spirit fetches bodies from graves and eats them at home.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: buried-alive investigator and decoy
+  assigned_to:
+  - fig:2
+  basis: The man causes himself to be buried alive in order to discover the thief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fugitive deceiver
+  assigned_to:
+  - fig:2
+  basis: After killing the spirit and children, the man flees, commands obstacles
+    to appear, and deceives the pursuing wife.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:4
+  label: pursuing spirit-wife
+  assigned_to:
+  - fig:3
+  basis: The wife becomes suspicious of the fleeing man and follows him across the
+    plain and stream.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:5
+  label: source of fog through bursting steam
+  assigned_to:
+  - fig:3
+  basis: When the wife bursts, steam rises from her and becomes fog among the hills.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: children who warn the father
+  assigned_to:
+  - fig:4
+  basis: The children cry to their father that the dead man is opening his eyes.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: killed by the man
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage states that the man rose up and killed the hill spirit and his
+    children.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: grave and new grave
+  literal_form: graves; new grave opened by the hill spirit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flat stone under fur
+  literal_form: flat stone hidden under the man's fur
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: willow twigs
+  literal_form: willow twigs caught by the carried man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: rising mounds
+  literal_form: mounds that rise up on the plain after the man calls to them
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: overflowing stream
+  literal_form: little stream or brook commanded to overflow its banks
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: fur-coat tail
+  literal_form: tail of the woman's fur-coat between her legs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: steam becoming fog
+  literal_form: steam rising from the bursting woman and becoming fog among the hills
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: grave theft and buried decoy
+  summary: The hill spirit steals bodies from graves and eats them; a man has himself
+    buried alive so the thief will take him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: carried to the spirit's house
+  summary: The man protects himself with a hidden flat stone, makes himself heavy,
+    catches willow twigs, and is brought to the spirit's house as the spirit tires
+    and sleeps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: awakening body and killings
+  summary: The children notice the supposed dead body opening its eyes, the spirit
+    dismisses their warning, and the man rises, kills the spirit and children, and
+    flees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: pursuit across mounds and stream
+  summary: The spirit's wife pursues the fugitive; he calls mounds up from the plain,
+    leaps a stream, commands the stream to overflow, and tricks her into trying to
+    drink it dry.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: bursting wife and origin of fog
+  summary: The man distracts the woman by telling her to look at her fur-coat tail;
+    she bends, bursts, and steam from her becomes fog drifting among the hills.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: corpse-stealing and corpse-eating hill spirit
+  taxonomy_refs: []
+  basis: The spirit repeatedly removes bodies from graves and eats them after bringing
+    them home.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage identifies the being only as a hill spirit; no wider taxonomy
+    is supplied in the passage.
+- id: motif:2
+  label: buried-alive decoy exposes a supernatural thief
+  taxonomy_refs: []
+  basis: The man intentionally has himself buried alive so that the grave thief will
+    take him and reveal itself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The man is alive throughout; this is not presented as literal death and
+    resurrection.
+- id: motif:3
+  label: escape by commanded landscape obstacles
+  taxonomy_refs: []
+  basis: During pursuit, the fugitive calls mounds to rise and commands a stream to
+    overflow so the pursuer is delayed or blocked.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives no explicit explanation for how the fugitive can command
+    the landscape.
+- id: motif:4
+  label: deceptive destruction of the pursuer
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fugitive deceives the pursuing wife at the stream and again with the
+    fur-coat tail, leading to her bursting.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage does not call the fugitive a trickster; the taxonomy reference
+    is based only on boundary-crossing pursuit and deception.
+- id: motif:5
+  label: etiological origin of fog from a bursting supernatural woman
+  taxonomy_refs: []
+  basis: The story explains that steam rising from the burst wife became fog that
+    still drifts among the hills.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: No available motif-family taxonomy ref directly names fog or etiological
+    origin myths.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7354-7357
+  quote_or_summary: A hill spirit fetches bodies from graves and eats them; a man
+    has himself buried alive to discover the thief, and the spirit opens the new grave
+    and drags off the body.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7359-7360
+  quote_or_summary: The man hides a flat stone under his fur because he fears the
+    spirit may stab him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7362-7364
+  quote_or_summary: As the spirit carries him, the man makes himself heavy and catches
+    hold of willow twigs, making the spirit exert itself.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7366-7369
+  quote_or_summary: At the spirit's house, the spirit throws the carried body inside,
+    lies down to sleep, and the wife goes out to gather cooking sticks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 7371-7375
+  quote_or_summary: The children say the dead man is opening his eyes, but the father
+    replies that it is only a dead body that caught in twigs on the way.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 7377-7378
+  quote_or_summary: The man rises up, kills the hill spirit and his children, and
+    runs away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 7380-7386
+  quote_or_summary: The hill spirit's wife sees the fleeing man, first thinks he is
+    her husband, asks where he is going, then becomes suspicious and follows him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:8
+  type: summary
+  locator: lines 7388-7392
+  quote_or_summary: On a level plain the fugitive calls, 'Rise, mounds!' and mounds
+    rise; the wife loses ground climbing uphill.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:9
+  type: summary
+  locator: lines 7394-7397
+  quote_or_summary: The fugitive jumps over a little stream, commands it to overflow
+    its banks, and it becomes impossible to cross.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:10
+  type: summary
+  locator: lines 7399-7404
+  quote_or_summary: The woman asks how he crossed the brook; he says he drank the
+    water and tells her to drink it dry, and she begins gulping it up.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+- id: ev:11
+  type: summary
+  locator: lines 7406-7410
+  quote_or_summary: The man tells her to look at the tail of her fur-coat; when she
+    bends down she bursts, and steam rises from her and becomes fog among the hills.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Supplied source path is under a public-domain collection; rights_status
+    field was not otherwise specified in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative elements are clear in the supplied passage. Motif labels
+    are candidate abstractions and need human review, especially the optional trickster_boundary
+    taxonomy reference. No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Sub-line evidence locators are derived from the supplied line range and passage formatting.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l7350-l7414
+  passage_sha256=9a242f2a47040467717901d5d7f84d6ad43902945799349a8ec9383e3a949023
+

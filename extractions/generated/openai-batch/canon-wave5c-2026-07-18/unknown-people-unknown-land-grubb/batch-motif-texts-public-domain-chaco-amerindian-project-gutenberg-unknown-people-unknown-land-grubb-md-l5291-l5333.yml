@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l5291-l5333
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / DREAMS; lines 5291-5333
+  start: '5291'
+  end: '5333'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“If you had been there, you would have taken them”"
+  summary: The passage describes a man demanding payment after dreaming that the narrator
+    carried away pumpkins, explains a doctrine that dream-soul acts reveal embodied
+    intention, connects this doctrine to Poit's attempted murder and execution, and
+    begins an example of men planning a hunting expedition after the narrator wakes
+    before dawn in an Indian village.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed man dreamed that the narrator was in his garden at night, behind
+    tall plants, and carried away three pumpkins.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unnamed man wanted payment for the pumpkins despite admitting that the
+    narrator had not physically taken them.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The man said that if the narrator had been there, he would have taken the
+    pumpkins.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says the man regarded the act of the narrator's soul in the dream
+    as the narrator's real will in the body.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator states that the theory of dream-soul action as bodily intention
+    was exemplified in motives that prompted an Indian named Poit to attempt the narrator's
+    murder.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Poit was executed, and that Indians justified their extreme
+    measures because chance alone prevented Poit from killing the narrator.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator awoke before first light in an Indian village and saw men sitting
+    around a fire in animated conversation.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The men were planning a hunting expedition to open plains to the north, where
+    they expected to find ostriches.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: First-person narrator
+  description: The narrator is accused in another man's dream of taking pumpkins,
+    discusses the doctrine of intention, and later wakes in an Indian village and
+    joins men around a fire.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed dreamer and garden owner
+  description: An unnamed man dreams that the narrator carried away three pumpkins
+    from his garden and seeks payment for them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Poit
+  description: An Indian named Poit is said to have attempted the narrator's murder
+    and to have been executed in connection with the doctrine of intention.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Indians who executed or justified action against Poit
+  description: A collective group described as executing for murder and justifying
+    extreme measures against Poit because his intention was to kill the narrator.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Men around the fire
+  description: A number of men in an Indian village sit around a fire before first
+    light and plan a hunting expedition.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: first-person observer and narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated in the first person and reports the dream dispute,
+    the doctrine of intention, and the pre-dawn village scene.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: accused dream actor
+  assigned_to:
+  - fig:1
+  basis: The dreamer says the narrator was seen carrying away pumpkins in a dream
+    and treats the dream action as the narrator's will.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dream claimant seeking compensation
+  assigned_to:
+  - fig:2
+  basis: The unnamed man dreamed of the pumpkin-taking and wanted payment for the
+    pumpkins.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: attempted killer whose intention is emphasized
+  assigned_to:
+  - fig:3
+  basis: Poit is named as attempting the narrator's murder, and the passage emphasizes
+    his intention to cause the narrator's death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: collective executors and justifiers
+  assigned_to:
+  - fig:4
+  basis: The passage says Indians took extreme measures and justified them because
+    chance alone prevented Poit from killing the narrator.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: hunting expedition planners
+  assigned_to:
+  - fig:5
+  basis: The men around the fire are described as laying plans for a hunting expedition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: three pumpkins
+  literal_form: Three pumpkins carried away in the dream from the garden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: garden at night
+  literal_form: A garden at night with tall plants, the setting of the dream action.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dream-soul action
+  literal_form: The narrator's soul, supposed by the dreamer to have met his soul
+    in the garden and acted there.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire
+  literal_form: A fire around which men sit before first light while conversing.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ostriches
+  literal_form: Ostriches expected to be found on open plains to the north during
+    the planned hunt.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dream theft and payment demand
+  summary: An unnamed man reports dreaming that the narrator carried away three pumpkins
+    from his garden and asks for payment, even while admitting the narrator did not
+    bodily take them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Doctrine of intention and Poit
+  summary: The narrator generalizes the case into a theory that dream-soul actions
+    show bodily intention and links this doctrine to Poit's attempted murder and execution.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pre-dawn hunting plans
+  summary: Before first light, the narrator finds men around a fire in an Indian village
+    planning a hunting expedition to northern plains for ostriches.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dream-soul action treated as real intention
+  taxonomy_refs: []
+  basis: The passage states that the dreamer treated the narrator's soul-action in
+    the garden as the narrator's real will, and the narrator presents this as a general
+    theory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is reported through the narrator's ethnographic interpretation; the
+    passage does not provide an Indigenous term for the doctrine.
+- id: motif:2
+  label: Dream theft producing a compensation claim
+  taxonomy_refs: []
+  basis: The dreamer asks for payment for pumpkins taken only in a dream and maintains
+    that the narrator would have taken them bodily if present.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage provides one example and does not state a formal legal procedure
+    for dream-theft compensation.
+- id: motif:3
+  label: Intention judged like completed violence
+  taxonomy_refs: []
+  basis: In Poit's case, the passage says the narrator survived by chance and that
+    Poit's intention to kill was not mitigated by the failure of the murder attempt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The full Poit narrative is outside the supplied passage, which refers
+    the reader to another chapter.
+- id: motif:4
+  label: Dreams influencing pursuit of physical desires
+  taxonomy_refs: []
+  basis: The narrator introduces the hunting-planning scene as an illustration of
+    dreams influencing physical desires, then describes men planning a hunt for ostriches.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage ends before the specific dream content or causal link for
+    this hunting expedition is fully given.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself says the local doctrine of intention was useful in teaching
+    Christianity, implying a functional compatibility with Christian moral teaching
+    about intention, but it does not identify a specific Christian text or doctrine.
+  claim_level: same_function
+  target: Christian teaching about intention, unspecified in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is made only by the narrator and is not developed with
+    textual or doctrinal detail in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5296-5300
+  quote_or_summary: The man dreams the narrator is in his garden at night, behind
+    tall plants, carrying away three pumpkins, and wants payment for them.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+- id: ev:2
+  type: quote
+  locator: 5300-5305
+  quote_or_summary: The dreamer admits the narrator did not take them bodily, but
+    says, “If you had been there, you would have taken them”; the narrator explains
+    this as the soul's act revealing bodily will.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+- id: ev:3
+  type: summary
+  locator: 5307-5310
+  quote_or_summary: The narrator states that the theory that a soul's act in dreams
+    is the body's intention is exemplified in motives prompting Poit to attempt his
+    murder.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+- id: ev:4
+  type: summary
+  locator: 5312-5321
+  quote_or_summary: The narrator says the doctrine of intention aided Christian teaching,
+    that Indians held the doctrine beyond dreams, and that Poit's execution was justified
+    because his intent was to kill.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+- id: ev:5
+  type: summary
+  locator: 5323-5329
+  quote_or_summary: The narrator introduces an example of dreams influencing physical
+    desires, wakes before dawn in an Indian village, and finds men around a fire planning
+    a hunting expedition.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+- id: ev:6
+  type: summary
+  locator: 5330-5333
+  quote_or_summary: The men had not discussed the project the previous night and propose
+    going to open plains to the north where they expect to find ostriches.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata for this extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is clear for the dream-pumpkin and intention examples. The hunting
+    example is truncated before the dream cause is fully described. The comparison
+    to Christianity is narrator-supplied but unspecified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external cultural identification or taxonomy mapping was added beyond the literal fire symbol present in the available symbol list.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l5291-l5333
+  passage_sha256=b6c10136ccdc38bfd3affffecef0cbbc81a402881a301c21a3ebf9f1567a9afb
+

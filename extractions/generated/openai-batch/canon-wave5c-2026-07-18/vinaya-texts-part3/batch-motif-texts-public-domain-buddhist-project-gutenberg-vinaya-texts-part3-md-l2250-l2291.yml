@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2250-l2291
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IV, 14, 19- THE SETTLEMENT OF DISPUTES. / JOJLLAVAGGA. / IV, 14, 20. THE
+    SETTLEMENT OF DISPUTES. / VULLAVAGGA.; lines 2250-2291
+  start: '2250'
+  end: '2291'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a formal procedure by which the Saṅgha appoints named
+    Bhikkhus to a committee to settle a case. Approval is indicated by silence and
+    dissent by speaking. If the appointed Bhikkhus settle the case, it is settled
+    by the Proceeding in Presence, with the Dhamma, Vinaya, and the particular person
+    represented. Reopening such a settled dispute is classified as a Pācittiya offence.
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Saṅgha may appoint named Bhikkhus to a committee to settle a case.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the appointment formula, approval is indicated by remaining silent, and
+    disapproval by speaking.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The appointment is declared valid because the assembly is silent.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the appointed Bhikkhus are able to settle the case on reference or on the
+    committee, the case is called settled.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The settlement is described as occurring by the Proceeding in Presence.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In the Proceeding in Presence, the Dhamma, the Vinaya, and the particular
+    person are represented.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If a settled dispute is reopened by a disputant, the reopening is a Pācittiya
+    offence.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Saṅgha
+  description: The venerable community that appoints Bhikkhus to a committee for settlement
+    of a case.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Appointed Bhikkhus
+  description: Named Bhikkhus appointed by the Saṅgha to a committee to settle a case.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Disputant
+  description: A disputant who may reopen a dispute after it has been settled.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: appointing assembly
+  assigned_to:
+  - fig:1
+  basis: The Saṅgha appoints named Bhikkhus to a committee and validates the appointment
+    through its procedural response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: committee for settlement
+  assigned_to:
+  - fig:2
+  basis: The named Bhikkhus are appointed on a committee to settle the case.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: re-opener of settled dispute
+  assigned_to:
+  - fig:3
+  basis: The passage specifies the consequence if a disputant reopens a dispute that
+    has been settled.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: silence as assent
+  literal_form: silence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Appointment of a dispute-settlement committee
+  summary: A motion is made for the Saṅgha to appoint named Bhikkhus to a committee
+    for settlement of a case; members are asked to remain silent if they approve and
+    speak if they disapprove.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Settlement by Proceeding in Presence
+  summary: If the appointed Bhikkhus settle the case, the settlement is defined as
+    made by the Proceeding in Presence, involving representation of the Dhamma, the
+    Vinaya, and the particular person.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Penalty for reopening a settled dispute
+  summary: A disputant who reopens a dispute after it has been settled incurs a Pācittiya
+    offence.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: communal adjudication by appointed committee
+  taxonomy_refs: []
+  basis: The passage centers on a Saṅgha procedure for appointing named Bhikkhus to
+    a committee that settles a case.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a disciplinary/legal procedure rather than a mythic narrative
+    motif; no supplied taxonomy family is directly supported.
+- id: motif:2
+  label: silence as formal approval
+  taxonomy_refs: []
+  basis: The appointment procedure explicitly makes silence the sign of approval and
+    speech the sign of dissent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is procedural and institutional; it should not be generalized
+    beyond this passage without further evidence.
+- id: motif:3
+  label: finality of settled dispute
+  taxonomy_refs: []
+  basis: The passage states that reopening a dispute after it has been settled is
+    a Pācittiya offence.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage describes a rule within a Vinaya context, not a broader comparative
+    mythological pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2250-2260
+  quote_or_summary: The passage gives the motion that the venerable Saṅgha appoint
+    named Bhikkhus on a committee to settle a case.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:2
+  type: quote
+  locator: lines 2260-2266
+  quote_or_summary: "“Whosoever ... approves ... let him be silent. Whosoever approves
+    not thereof, let him speak.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 2267-2271
+  quote_or_summary: The formula declares that the named Bhikkhu has been appointed
+    by the Saṅgha and explains the conclusion from the assembly's silence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 2272-2277
+  quote_or_summary: If the appointed Bhikkhus are able on the reference or committee
+    to settle the case, it is called a settled case.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 2277-2281
+  quote_or_summary: The case is settled by the Proceeding in Presence, in which the
+    Dhamma, the Vinaya, and the particular person are represented.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 2285-2287
+  quote_or_summary: If a dispute has been settled in this way and a disputant reopens
+    the question, that reopening is a Pācittiya offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural content is clear in the supplied passage. Motif candidates
+    are treated as institutional/legal patterns rather than mythological motifs. No
+    comparison claims are made because the passage itself does not support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol is directly applicable to the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2250-l2291
+  passage_sha256=fdf6eb4729a0e1e2e5a2c2f534b51eb36aa45f96e77586832274fb0ddd828889
+

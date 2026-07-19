@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l7359-l7408
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VI, I, 2. / SIXTH KHANDHAKA. / STULL AVAGGA. / VI, I, 3.; lines 7359-7408
+  start: '7359'
+  end: '7408'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“I allow you, O Bhikkhus, abodes of five kinds”"
+  summary: A householder of Ragagaha sees Bhikkhus arriving from various places and
+    offers to have dwellings built for them. The Bhikkhus say dwellings have not yet
+    been allowed and consult the Blessed One. The Blessed One allows five kinds of
+    abodes, after which the householder has sixty dwelling-places put up in one day.
+  language: English with transliterated Pali terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The householder or Seṭṭhi of Ragagaha sees Bhikkhus coming from various places,
+    including the woods, and takes pleasure in seeing them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The householder asks the Bhikkhus whether they would dwell in residences if
+    he had such dwellings erected for them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bhikkhus answer that they cannot accept because dwellings have not been
+    allowed by the Blessed One.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The householder asks the Bhikkhus to inquire of the Blessed One and report
+    back to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Bhikkhus go to the Blessed One, salute him, sit to one side, and ask what
+    should be done about the householder’s wish to erect dwellings for them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'The Blessed One delivers a religious discourse and allows five kinds of abodes:
+    Viharas, Addhayogas, storied dwellings, attics, and caves.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Bhikkhus report the permission to the householder, who has sixty dwelling-places
+    put up in one day.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic figures arriving from different places; they decline the initial
+    offer, consult the Blessed One, and report the permission to the householder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Seṭṭhi or householder of Ragagaha
+  description: A householder who takes pleasure in seeing the Bhikkhus, offers to
+    have dwellings erected for them, asks them to consult the Blessed One, and later
+    has sixty dwelling-places put up.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: The Blessed One
+  description: The religious authority consulted by the Bhikkhus; he delivers a discourse
+    and allows five kinds of abodes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Monastic recipients and intermediaries
+  assigned_to:
+  - fig:1
+  basis: The dwellings are proposed for the Bhikkhus; they ask the Blessed One and
+    carry his answer back to the householder.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Lay patron or householder donor
+  assigned_to:
+  - fig:2
+  basis: The householder offers to have dwellings built for the Bhikkhus and then
+    has sixty dwelling-places put up.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Religious rule-giver authorizing abodes
+  assigned_to:
+  - fig:3
+  basis: The Blessed One is asked what should be done and explicitly allows five kinds
+    of abodes.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Dwellings or abodes
+  literal_form: Residences for Bhikkhus, including Viharas, Addhayogas, storied dwellings,
+    attics, and caves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Cave
+  literal_form: Caves listed as one of the five allowed kinds of abodes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sixty dwelling-places
+  literal_form: Sixty dwelling-places put up in one day.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Householder’s offer and initial refusal
+  summary: The householder sees the Bhikkhus, asks whether he may have dwellings erected
+    for them, and is told that dwellings have not yet been allowed by the Blessed
+    One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consultation and permission
+  summary: The Bhikkhus ask the Blessed One about the proposed dwellings; after a
+    discourse, he allows five types of abodes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Construction after authorization
+  summary: The Bhikkhus inform the householder that dwellings have been allowed, and
+    the householder has sixty dwelling-places erected in one day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Authorized lay patronage of monastic dwellings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A lay householder offers material support to the monastic community; the
+    Bhikkhus seek religious authorization before accepting, and the patron builds
+    once permission is granted.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a Vinaya regulatory narrative rather than a mythic tale;
+    no explicit reciprocal divine reward or supernatural exchange is stated.
+- id: motif:2
+  label: Origin or authorization of permitted abodes
+  taxonomy_refs: []
+  basis: The passage explains how five types of dwellings become allowed for Bhikkhus
+    through a request, consultation with the Blessed One, and formal permission.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an institutional or legal origin pattern; it is not tied in the
+    passage to a broader mythic taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at a functional level to sacred-exchange patterns
+    because a lay patron offers material support to a religious community and the
+    exchange is mediated by religious authorization.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The text does not describe a reciprocal gift from a deity, a vow, sacrifice,
+    or supernatural reward; the comparison is limited to the patronage function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7359-7377
+  quote_or_summary: The householder of Ragagaha sees Bhikkhus arriving from various
+    places, offers to have dwellings erected for them, and is told that dwellings
+    have not been allowed by the Blessed One; he asks them to consult the Blessed
+    One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Short summary from supplied Project Gutenberg public-domain source
+    path.
+- id: ev:2
+  type: summary
+  locator: 7378-7394
+  quote_or_summary: 'The Bhikkhus ask the Blessed One what should be done; after a
+    religious discourse, he allows five kinds of abodes: Viharas, Addhayogas, storied
+    dwellings, attics, and caves.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Short summary from supplied Project Gutenberg public-domain source
+    path.
+- id: ev:3
+  type: summary
+  locator: 7395-7403
+  quote_or_summary: The Bhikkhus report the permission to the householder, who has
+    sixty dwelling-places put up in one day.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Short summary from supplied Project Gutenberg public-domain source
+    path.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main narrative sequence is clear, but the supplied text contains OCR-like
+    distortions in proper names and technical terms. Motif classification is cautious
+    because the passage is primarily monastic regulation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or comparisons beyond those supported by the supplied passage were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l7359-l7408
+  passage_sha256=3e9a025da0a5e824ae66f4b25f55e05750bbf61c6da0f59d8060ab7810d07edf
+

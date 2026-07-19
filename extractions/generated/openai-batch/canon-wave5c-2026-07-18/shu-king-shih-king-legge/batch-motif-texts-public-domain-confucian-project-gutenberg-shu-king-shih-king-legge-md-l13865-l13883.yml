@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l13865-l13883
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: THE CULTIVATION OF THE GROUND FROM THE FIRST BREAKING OF IT / UP, TILL IT
+    YIELDS ABUNDANT HARVESTS ; AVAILABLE SPECIALLY / ODE 7, THE SACRIFICIAL ODES OF
+    KAU. 2)33 / CELEBRATING THE MERIT AND SUCCESS OF KING WU.; lines 13865-13883
+  start: '13865'
+  end: '13883'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: There is peace throughout our myriad regions. There has been a succession
+    of plentiful years
+  summary: A prose note describes the ode as connected with a dance, declarations
+    of war, and sacrifice to God and the Father of War. The ode itself celebrates
+    peace across many regions, plentiful years, Heaven's continuing favour, King Wu's
+    command of officers throughout the kingdom, the establishment of his family, and
+    Heaven's role in making him king in place of Shang.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The prefatory note says the piece was sung in connection with the dance of
+    Wu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prefatory note says the piece was used in declarations of war and in sacrifice
+    to God and the Father of War.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ode states that there is peace throughout the speaker's myriad regions.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ode states that there has been a succession of plentiful years.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ode states that Heaven does not weary in its favour.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: King Wu maintained the confidence of his officers and employed them throughout
+    the kingdom.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: King Wu thereby secured the establishment of his family.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The ode says King Wu was glorious in the sight of Heaven, which made him king
+    in place of Shang.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King Wu
+  description: A martial king whose merit and success are celebrated; he maintains
+    his officers, establishes his family, and is made king in place of Shang by Heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Heaven
+  description: An agency that continues in favour, sees King Wu as glorious, and makes
+    him king in place of Shang.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Officers
+  description: King Wu maintains their confidence and employs them throughout the
+    kingdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: God
+  description: Named in the prefatory note as a recipient of sacrifice associated
+    with the ode's later use.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Father of War
+  description: Named in the prefatory note as a recipient of sacrifice associated
+    with the ode's later use.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Shang
+  description: The prior ruling house or place of rule in whose room King Wu is made
+    king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Heaven-legitimated king
+  assigned_to:
+  - fig:1
+  basis: King Wu is described as glorious before Heaven and as made king by Heaven
+    in place of Shang.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: Legitimating heavenly power
+  assigned_to:
+  - fig:2
+  basis: Heaven is said to continue its favour and to make King Wu king.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: Royal officers
+  assigned_to:
+  - fig:3
+  basis: The officers' confidence is maintained by King Wu, and they are employed
+    across the kingdom.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Sacrificial recipient
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The prefatory note names God and the Father of War in connection with sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Displaced ruling house
+  assigned_to:
+  - fig:6
+  basis: King Wu is said to be made king in the room of Shang.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Heavenly favour
+  literal_form: Heaven's favour and sight
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: Plentiful years
+  literal_form: succession of plentiful years
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Myriad regions
+  literal_form: myriad regions under peace
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ritual and martial framing of the ode
+  summary: The prose note reports that the piece was associated with a dance, declarations
+    of war, and sacrifice to God and the Father of War.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peace, abundance, and heavenly legitimation
+  summary: The ode presents widespread peace and plentiful years, then attributes
+    enduring favour to Heaven and describes King Wu's successful rule through officers,
+    establishment of his family, and accession in place of Shang by Heaven's action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Heavenly royal legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: King Wu's rule is represented as favoured by Heaven and as granted by Heaven
+    in place of Shang.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage gives a brief celebratory statement rather than a full accession
+    narrative.
+- id: motif:2
+  label: Sacrificial performance for divine and martial powers
+  taxonomy_refs:
+  - sacrifice
+  basis: The prefatory note says the piece was used in sacrificing to God and the
+    Father of War.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is information about the ode's reported ritual use, not an action
+    narrated within the ode itself.
+- id: motif:3
+  label: Peace and abundance under rightful rule
+  taxonomy_refs: []
+  basis: The ode links peace across many regions and plentiful years with Heaven's
+    favour and King Wu's established rule.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No specific available taxonomy family directly names this prosperity-under-rule
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13867-13868
+  quote_or_summary: The piece is said to have been sung in connection with the dance
+    of Wu.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 13868-13870
+  quote_or_summary: The Preface says the ode was used in declarations of war and in
+    sacrificing to God and the Father of War.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 13873-13875
+  quote_or_summary: There is peace throughout our myriad regions. There has been a
+    succession of plentiful years
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 13875-13876
+  quote_or_summary: Heaven does not weary in its favour.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 13876-13879
+  quote_or_summary: The martial King Wu maintained his officers' confidence and employed
+    them throughout the kingdom.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: quote
+  locator: lines 13879-13880
+  quote_or_summary: securing the establishment of his family
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 13880-13883
+  quote_or_summary: King Wu is described as glorious in Heaven's sight, and Heaven
+    is said to have made him king in place of Shang.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and primarily celebratory; royal legitimation is directly
+    supported, while ritual sacrifice is supported by the prefatory note rather than
+    by the ode's narrative content. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; OCR-like forms in the provided text were not normalized beyond the visible names in the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l13865-l13883
+  passage_sha256=4f394bb59f54174d5d28e0adb38a6b6750a2ee9abe9557a1436b9df847d1f4a7
+

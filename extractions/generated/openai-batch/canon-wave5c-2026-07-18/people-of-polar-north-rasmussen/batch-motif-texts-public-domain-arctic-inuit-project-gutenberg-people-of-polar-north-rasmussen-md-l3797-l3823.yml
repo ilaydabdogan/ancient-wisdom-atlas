@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l3797-l3823
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: LANCE / WEATHERBOUND / PART II / PRIMITIVE VIEWS OF LIFE; lines 3797-3823
+  start: '3797'
+  end: '3823'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes a preceding narrative fragment with a friendship rift
+    and a report that Qisunguaq married Kujapik and travelled north. It then introduces
+    a section on primitive views of life by stating that tales preserve human experience,
+    should not be beautified at the expense of truth, and convey the wisdom of forefathers
+    through the narrator.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A friendship is described as having suffered a rift that was never healed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the group left the neighbourhood, rumour said that Qisunguaq had taken
+    Kujapik as wife and travelled north.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator states that tales are men's experiences and that what is heard
+    is not always lovely.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator states that a tale cannot be altered to make it pleasant if it
+    is also to be true.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says the tongue must echo the event and not adapt itself to taste
+    or caprice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says little credence is given to the words of the newly born.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says the experience of older generations contains truth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator says that when he narrates legends, the wisdom of forefathers
+    speaks through him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Qisunguaq
+  description: Person whom rumour says had taken Kujapik to wife and travelled north.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Kujapik
+  description: Person whom rumour says Qisunguaq had taken to wife.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Narrator
+  description: First-person speaker who explains how tales and legends should convey
+    truth and ancestral wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Older generations / forefathers
+  description: Collective ancestral source whose experience is said to contain truth
+    and whose wisdom speaks through the narrator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Newly born
+  description: Collective group whose words are said to receive little credence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: reported husband and northward traveller
+  assigned_to:
+  - fig:1
+  basis: Rumour says Qisunguaq had taken Kujapik to wife and travelled north.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reported wife
+  assigned_to:
+  - fig:2
+  basis: Rumour says Kujapik was taken to wife by Qisunguaq.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: legend narrator and transmitter
+  assigned_to:
+  - fig:3
+  basis: The first-person speaker describes narrating legends and says forefathers'
+    wisdom speaks through him.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: ancestral source of truth and wisdom
+  assigned_to:
+  - fig:4
+  basis: The passage says older generations' experience contains truth and forefathers'
+    wisdom speaks through the narrator.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: low-credence speakers
+  assigned_to:
+  - fig:5
+  basis: The passage says the words of the newly born are not given much credence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tongue as echo of event
+  literal_form: the tongue must be the echo of the event
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: forefathers' wisdom speaking through narrator
+  literal_form: the wisdom of our forefathers, speaking through me
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rumour of marriage and northward travel
+  summary: Before departure from the neighbourhood, rumour reports that Qisunguaq
+    married Kujapik and travelled north.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Statement on truthful narration and ancestral wisdom
+  summary: The narrator explains that tales record human experience, should remain
+    true rather than pleasant, and transmit the wisdom of forefathers through the
+    narrator.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ancestral wisdom transmitted through the legend-teller
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator contrasts low credence for the newly born with the truth contained
+    in older generations' experience and says forefathers' wisdom speaks through him
+    when he narrates legends.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is a reflective introduction to narration rather than a full
+    mythic episode.
+- id: motif:2
+  label: truthful tale as faithful echo of event
+  taxonomy_refs: []
+  basis: The narrator says a tale cannot be made pleasant if it is to be true, and
+    that the tongue must echo the event rather than adapt to taste or caprice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a narrative principle or poetics of truth rather than a specific
+    named motif from the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3797-3800
+  quote_or_summary: '"Our friendship had suffered a rift never healed."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not supplied in request.
+- id: ev:2
+  type: summary
+  locator: 3801-3806
+  quote_or_summary: Rumour said Qisunguaq had taken Kujapik to wife and had travelled
+    north before the group left the neighbourhood.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not supplied in request.
+- id: ev:3
+  type: summary
+  locator: 3811-3815
+  quote_or_summary: The narrator says tales are men's experiences, sometimes unlovely,
+    and must not be decorated to be pleasant if they are to be true.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not supplied in request.
+- id: ev:4
+  type: quote
+  locator: 3816-3818
+  quote_or_summary: '"The tongue must be the echo of the event" and must not adapt
+    to taste or caprice.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not supplied in request.
+- id: ev:5
+  type: summary
+  locator: 3819-3823
+  quote_or_summary: The narrator says the newly born receive little credence, older
+    generations' experience contains truth, and forefathers' wisdom speaks through
+    him when he narrates legends.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit. Motif extraction is limited because much
+    of the passage is a reflective statement about narration rather than an episode
+    with developed mythic action. No comparison claims are made because the passage
+    itself does not support a specific comparison beyond the supplied taxonomy reference
+    for wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided list.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l3797-l3823
+  passage_sha256=211570d419e62d93f35b31b93379a3c1785cb660c75a130742cf0bc74e295e6b
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l8292-l8366
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: RELAY RACES / SWIMMING / GAMES / KIKTS; lines 8292-8366
+  start: '8292'
+  end: '8366'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Pima game ki°ts/kikts, noting a Papago comparison,
+    the four playing sticks and their names, throwing procedure, scoring combinations,
+    a rectangular ground diagram with holes, houses, doors, and named positions, and
+    the marker stick called a slave or horse.
+  language: English with Pima/Papago terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the game as Pima ki°ts/kikts and states that a game
+    under the name “ghing-skoot” had been described among the Papagos.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Four sticks are used; the collected set is described as made of giant cactus
+    wood.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The four sticks have Pima names or labels: Ki-ik, Tco-otp'', Si-ika, and
+    Ki"ts, with meanings supplied for the first two and unknown for the last two.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Players sit about ten feet apart and set the sticks in play by striking them
+    from below with a flat stone held in the left hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sticks are held nearly vertical, inclined forward so that they fall between
+    the players, and are raked back with a long stick after each throw.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Scoring depends on which faces or backs are up and on which named stick faces
+    upward; recorded counts include 2, 3, 4, 5, 6, 10, 14, and 15.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The score is kept on a rectangle marked on the ground, usually about twelve
+    by eight feet, with holes or pockets along each side.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two alternate corners of the rectangle have quadrants called ki, translated
+    as “houses,” and the corner holes are called ut'pa, translated as “doors.”
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Each player or side uses a marking stick called rsAika, translated as “slave”
+    or “horse.”
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When a player is “coming home” and the count carries the marker only to the
+    last hole of the house, the marker is said to be “in the fire” and remains “burnt”
+    until a number less than 14 or 15 is thrown.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage lists names for the rectangle’s corner, side, and house holes,
+    including labels translated as hip, near the corner, middle, above the end, last,
+    above the hip, four-hole end, three-hole end, right end/place, and fire end/in
+    the fire.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pima players or sides
+  description: Participants in the game who sit apart, throw or strike the sticks,
+    keep count, and move a marking stick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Papagos
+  description: A neighboring group for whom a game under the name “ghing-skoot” is
+    said to have been previously described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: game participants
+  assigned_to:
+  - fig:1
+  basis: The passage describes players sitting apart, throwing the sticks, and using
+    a marker to keep score.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: comparative ethnographic reference group
+  assigned_to:
+  - fig:2
+  basis: The passage compares the Pima game and count to a game described as played
+    by the Papagos.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: four named sticks
+  literal_form: Four wooden sticks used for play, named Ki-ik, Tco-otp', Si-ika, and
+    Ki"ts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ground rectangle with holes
+  literal_form: A rectangle marked on the ground with holes or pockets along each
+    side for keeping count.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: houses and doors on the game diagram
+  literal_form: Quadrants called ki, “houses,” and corner holes called ut'pa, “doors.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: slave or horse marker
+  literal_form: The stick used by each player or side to mark its throw, called rsAika,
+    “slave” or “horse.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire-end position
+  literal_form: The last hole of the house, called tai-r utra, “fire end” or “in the
+    fire,” where the marker may remain “burnt.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Stick-throwing play
+  summary: Players sit apart, strike the nearly vertical sticks from below with a
+    flat stone, let them fall between the players, and rake them back after each throw.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Counting on the ground diagram
+  summary: The results of stick throws are counted by face/back combinations and marked
+    on a ground rectangle with holes, houses, doors, and a marker stick.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Coming home and in the fire
+  summary: When a player is coming home, the marker may reach only the last house
+    hole, where it is described as in the fire and burnt until a qualifying lower
+    throw occurs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-game or closely similar-game comparison
+    between the Pima ki°ts/kikts and the Papago game called “ghing-skoot,” because
+    it states that the Pima count is similar to the Papago game when Pima names are
+    substituted.
+  claim_level: same_function
+  target: Papago “ghing-skoot” game
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not give the full Papago rules here and only states
+    similarity of count and prior description; it does not establish origin, borrowing,
+    or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8292-8366; KIKTS opening description
+  quote_or_summary: The game is identified as Pima ki°ts/kikts, and a game named “ghing-skoot”
+    is said to have been described as played by the Papagos.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8292-8366; stick description and names
+  quote_or_summary: Four sticks are used; the collected set is of giant cactus wood,
+    and the sticks are named Ki-ik, Tco-otp', Si-ika, and Ki"ts, with meanings or
+    unknown meanings noted.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 8292-8366; play procedure
+  quote_or_summary: Players sit about ten feet apart, strike the sticks from below
+    with a flat stone in the left hand, let them fall between the players, and rake
+    them back after each throw.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8292-8366; count list
+  quote_or_summary: The count is said to be similar to the Papago game with Pima names
+    substituted, and the listed values depend on backs, faces, and particular named
+    sticks facing up.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8292-8366; ground rectangle description
+  quote_or_summary: Counts are kept on a ground rectangle, usually about twelve by
+    eight feet, with ten holes or pockets along each side and two alternate corner
+    quadrants called houses; corner holes are called doors.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 8292-8366; marker and fire rule
+  quote_or_summary: Each player or side uses a marker stick called “slave” or “horse”;
+    when coming home, if it reaches only the last house hole, it is “in the fire”
+    and remains “burnt” until a lower number than 14 or 15 is thrown.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 8292-8366; named holes
+  quote_or_summary: The passage lists names and translations for the corner, side,
+    and house holes, ending with tai-r utra, translated as “fire end” or “in the fire.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; passage provided for extraction.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is a descriptive ethnographic account of a game rather than a
+    mythic narrative. Literal extraction is strong; motif-family assignment is withheld
+    because the supplied taxonomy does not include a clear game-board or divination/game
+    motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or origin claim is made; the only comparison retained is the passage’s explicit comparison to a Papago game.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l8292-l8366
+  passage_sha256=a39b2e27511820c1a08c76b5935cfc4b2324df7a757bd7a390b1b4c79e1ac8b5
+

@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l576-l586
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: PREFACE. XXI / XXIV PREFACE. / PREFACE. XXV / XXVI PREFACE.; lines 576-586
+  start: '576'
+  end: '586'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“sacrificial observances paid to the five Tis are distributed through the
+    four seasons”"
+  summary: The passage describes the fourth Book of the Li Ki, the Yueh Ling or Monthly
+    Record, as assigning sacrificial observances to five Tis across the four seasons.
+    It lists the five Tis with their styled titles and states that each Ti is ceremonially
+    associated with a lower-ranking Shan, glossed as a Spirit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fourth Book of the Li Ki is identified as Yueh Ling, translated as the
+    Monthly Record of the Proceedings of Government.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that sacrificial observances paid to the five Tis are distributed
+    through the four seasons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The five Tis are named as Fii-hsi, Shan-nang, Yu-hsiung or Hsien-yuan, Inn-thien,
+    and Kaoyang.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The five Tis are respectively styled Thai Hao, Yen Ti, Hwang Ti, Shao Hao,
+    and Twan Hsii, with English glosses supplied in parentheses.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each Ti has an associated ceremonial personage of inferior rank styled Shan,
+    glossed as Spirit.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The descriptive language of the ceremony is said to be the same in all cases
+    except for the names and related particulars at the end of the passage fragment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Five Tis
+  description: A group to whom sacrificial observances are paid and whose rites are
+    distributed through the four seasons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fii-hsi / Thai Hao
+  description: One of the five Tis, styled Thai Hao, glossed as the Greatly Resplendent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Shan-nang / Yen Ti
+  description: One of the five Tis, styled Yen Ti, glossed as the Blazing Ti.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Yu-hsiung or Hsien-yuan / Hwang Ti
+  description: One of the five Tis, styled Hwang Ti, glossed as the Yellow Ti.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Inn-thien / Shao Hao
+  description: One of the five Tis, styled Shao Hao, glossed as the Less Resplendent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Kaoyang / Twan Hsii
+  description: One of the five Tis, styled Twan Hsii, glossed as the Solely Correct.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Shan Spirit
+  description: A personage of inferior rank associated with each Ti in the ceremony
+    and styled Shan, glossed as Spirit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of sacrificial observances
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage says sacrificial observances are paid to the five Tis.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: associated inferior-ranking ceremonial spirit
+  assigned_to:
+  - fig:7
+  basis: The passage says each Ti has an associated personage of inferior rank styled
+    Shan, a Spirit.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: four seasons
+  literal_form: four seasons
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fivefold Ti grouping
+  literal_form: five Tis
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sacrificial observances
+  literal_form: ceremonial observances paid to the five Tis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Seasonally distributed rites to the five Tis
+  summary: The Monthly Record assigns sacrificial observances to the five Tis across
+    the four seasons, lists the Tis and their styled names, and notes that each Ti
+    is paired in the rite with a lower-ranking Shan Spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial observance to named divine or august figures
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly describes sacrificial observances paid to the five
+    Tis.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a preface-like description of ritual distribution rather
+    than a narrative myth episode.
+- id: motif:2
+  label: ritual distribution across the seasons
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that the observances to the five Tis are distributed through
+    the four seasons.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not narrate seasonal transformation; it only describes
+    seasonal allocation of rites.
+- id: motif:3
+  label: hierarchical divine-attendant pairing
+  taxonomy_refs: []
+  basis: Each Ti is said to have an associated lower-ranking Shan Spirit in the ceremony.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No taxonomy reference is assigned because the available motif families
+    do not directly name this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 576-579
+  quote_or_summary: The Li Ki's fourth Book is called Yueh Ling, and “sacrificial
+    observances paid to the five Tis are distributed through the four seasons.”
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Short excerpt from the provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 579-584
+  quote_or_summary: The passage lists the five Tis as Fii-hsi, Shan-nang, Yu-hsiung
+    or Hsien-yuan, Inn-thien, and Kaoyang, with styled titles Thai Hao, Yen Ti, Hwang
+    Ti, Shao Hao, and Twan Hsii and English glosses.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Summary based on the provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 584-586
+  quote_or_summary: For each Ti, the ceremony associates an inferior-ranking personage
+    styled Shan, glossed as Spirit; the ceremony's descriptive language is otherwise
+    the same except for names and related details.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Summary based on the provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and compact; extraction of named figures and ritual
+    structure is direct. Motif assignment is limited because the passage is not a
+    narrative myth and offers little symbolic elaboration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not make an explicit comparative claim.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l576-l586
+  passage_sha256=8b9d6aa736c696d32347489b7c3a52e74e21aa262cfcd607cf9497ac19676f66
+

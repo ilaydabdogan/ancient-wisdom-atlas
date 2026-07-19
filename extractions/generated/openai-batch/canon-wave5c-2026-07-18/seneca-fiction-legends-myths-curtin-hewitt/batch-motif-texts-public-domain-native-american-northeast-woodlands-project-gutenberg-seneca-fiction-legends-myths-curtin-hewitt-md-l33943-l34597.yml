@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md-l33943-l34597
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    33943-34597
+  start: '33943'
+  end: '34597'
+  translation: seneca-fiction-legends-myths-curtin-hewitt
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a heavily corrupted interlinear passage, a figure glossed as the Great
+    Child is associated with a canoe and a group of geese or goose-servants. He sends
+    the servants to seek food. A human being appears near the canoe; dialogue identifies
+    kinship or resemblance between the two figures, including brother-language and
+    an uncle reference. The two agree to test themselves with bows and arrows. Their
+    arrows fly together and are caught in flight. The figures then return toward the
+    canoes.
+  language: Seneca with English interlinear gloss; OCR/transcription appears corrupted
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage repeatedly identifies a figure glossed as a great child and places
+    him beside or in connection with a canoe.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A group of geese or a goose-group is described near the canoe, with glosses
+    indicating bodily attachment and number.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Great Child tells servants to go seek food, and the geese fly up.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the geese fly up, the Great Child remains in or by the canoe and is
+    described as quiet or alone.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A human being appears or comes near the canoe after a call or invitation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dialogue uses kinship language, including brother-language between the
+    two figures and an uncle reference, and states that the two resemble one another.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The two figures agree to test themselves using bows or arrows.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The two arrows are shot, fly along together, are seen above by the Great Child,
+    and are caught in flight; the arrows are described as alike.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the arrow episode, the human being says they should turn back, and the
+    figures return toward the canoes.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Great Child
+  description: A figure repeatedly glossed as a great child; he is associated with
+    the canoe, commands servants, and participates in the kinship dialogue and arrow
+    test.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Geese or goose-servants
+  description: A group described with goose terminology; they are connected with the
+    canoe and fly up after the Great Child commands servants to seek food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Human being / kin counterpart
+  description: A human being who comes near the canoe; the dialogue around this figure
+    includes uncle and brother terminology, resemblance, and participation in the
+    bow-and-arrow test.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: child protagonist
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly glosses the figure as a great child and centers actions
+    around him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: animal servants or food-seekers
+  assigned_to:
+  - fig:2
+  basis: The Great Child tells servants to seek food, and the geese fly up immediately
+    afterward.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: kin-pair or brother-counterpart
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The dialogue uses brother-language, an uncle reference, and says the two
+    figures resemble each other.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: matched archery-test participants
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The two figures agree to test themselves with bows or arrows, shoot, and
+    interact with the paired arrows.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: geese as accompanying animals
+  literal_form: goose/geese connected with the canoe and flying up
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: bow and paired arrows
+  literal_form: bows and two arrows that fly together and are caught in flight
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Great Child by the canoe with geese
+  summary: The Great Child is introduced beside or in connection with a canoe, while
+    geese are described as attached or grouped nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Servants sent to seek food
+  summary: The Great Child orders servants to go seek food; the geese fly up, and
+    he remains in or by the canoe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kinship and resemblance dialogue
+  summary: A human being appears near the canoe, and the dialogue states kinship terms
+    and resemblance between the human being and the Great Child.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Bow-and-arrow test
+  summary: The two figures test themselves with bows or arrows. The arrows fly together,
+    are observed above, and are caught in flight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Return to canoes
+  summary: After the arrow test, the human being says they should turn back, and the
+    figures return toward the canoes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal helpers sent to seek food
+  taxonomy_refs: []
+  basis: The Great Child commands servants to seek food, and the geese fly up in response.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is OCR-corrupted; the connection between the geese and the
+    servant-command is based on adjacent glosses.
+- id: motif:2
+  label: brother-pair recognition through resemblance
+  taxonomy_refs:
+  - sibling_pair
+  basis: The dialogue includes brother-language and says the two figures resemble
+    each other.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Kinship terms are difficult to parse because the same passage also includes
+    an uncle reference and corrupted glosses.
+- id: motif:3
+  label: test of matched powers with arrows
+  taxonomy_refs: []
+  basis: The two figures agree to test themselves, use bows or arrows, shoot paired
+    arrows, and catch them in flight.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a contest or test, but does not clearly state a broader
+    ritual or initiation frame.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33943-34020, approximate within supplied range
+  quote_or_summary: The opening glosses identify haks&"g6wa as a great child, mention
+    a canoe, and describe goose/geese with bodily attachment and number language.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:2
+  type: summary
+  locator: lines 34020-34110, approximate within supplied range
+  quote_or_summary: The Great Child tells servants to go seek food; the goose/geese
+    fly up; he remains quiet or alone in the canoe.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:3
+  type: summary
+  locator: lines 34110-34210, approximate within supplied range
+  quote_or_summary: A human being comes near the canoe; the dialogue includes peace/health
+    wording, the name or term Okteondon, and an uncle reference.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:4
+  type: summary
+  locator: lines 34210-34310, approximate within supplied range
+  quote_or_summary: The dialogue states that the two are brothers and that they resemble
+    or are equal to one another.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:5
+  type: summary
+  locator: lines 34310-34420, approximate within supplied range
+  quote_or_summary: The human being proposes that the two test themselves; bow and
+    shooting language follows, including a plan for both to shoot and run.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:6
+  type: summary
+  locator: lines 34420-34550, approximate within supplied range
+  quote_or_summary: Both arrows are shot and fly along together; the Great Child looks
+    upward and sees two arrows; both are caught in flight and described as very alike.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+- id: ev:7
+  type: summary
+  locator: lines 34550-34597, approximate within supplied range
+  quote_or_summary: The human being says that the two should turn back; they return
+    to the canoes, and the Great Child walks around or continues speaking.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted
+    at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The line range is an OCR-corrupted interlinear Seneca-English passage. Extraction
+    relies on repeated English glosses and is therefore tentative, especially for
+    kinship terms and scene sequence. No external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Generated from the supplied passage and metadata only; no external edition or context was used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md__l33943-l34597
+  passage_sha256=221d00092302ddfaf61dd42c75c443e785945e5d1ce207773e1855aaa3f13a8e
+

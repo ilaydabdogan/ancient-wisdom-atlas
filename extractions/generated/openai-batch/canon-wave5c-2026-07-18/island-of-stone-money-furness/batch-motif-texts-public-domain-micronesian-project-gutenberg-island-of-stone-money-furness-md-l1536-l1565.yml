@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l1536-l1565
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / SONGS AND INCANTATIONS / SONGS AND INCANTATIONS
+    / THE ISLAND OP STONE MONET; lines 1536-1565
+  start: '1536'
+  end: '1565'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: the forbidden song was droning away on the phonograph
+  summary: The narrator accidentally plays a forbidden song on a phonograph. Women
+    in the audience recognize it and react with amusement, while Lian and several
+    other men watch from a distance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator states that many songs and tunes sounded alike and that he accidentally
+    played a forbidden song on the phonograph.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Women before the narrator reacted with gestures, smiles, amusement, raised
+    brows, and suppressed giggling when the song was recognized.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lian stood in the doorway of the house, both smiling and scowling, and watched
+    the women's faces while they listened.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A few other men stood farther off behind rows of women seated cross-legged
+    on the ground.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: The speaker who accidentally plays the forbidden song on the phonograph.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: women audience
+  description: Women seated before the narrator who recognize the song and react with
+    amusement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lian
+  description: A man standing in the doorway of the house, smiling and scowling, while
+    watching the women's faces.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: other men
+  description: Several men standing farther off behind the seated women.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: accidental performer or operator
+  assigned_to:
+  - fig:1
+  basis: The narrator reports unintentionally playing the forbidden song on the phonograph.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recognizing audience
+  assigned_to:
+  - fig:2
+  basis: The women recognize the song and respond with visible amusement.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: watcher of audience reaction
+  assigned_to:
+  - fig:3
+  basis: Lian watches the women's faces while they listen to the song.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: distant observers
+  assigned_to:
+  - fig:4
+  basis: The men stand farther off behind the women.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: forbidden song
+  literal_form: song
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: phonograph
+  literal_form: phonograph
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: doorway of the house
+  literal_form: doorway
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Accidental playing of a forbidden song
+  summary: The narrator accidentally plays a forbidden song on a phonograph because
+    the songs and tunes seem indistinguishable to him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Audience recognition and watched reaction
+  summary: Women recognize the forbidden song and respond with amusement, while Lian
+    watches them from the doorway and other men stand behind them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: forbidden song publicly heard
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage explicitly calls the song forbidden and describes its public
+    playback and recognition by listeners.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage does not explain the nature of the prohibition, who is forbidden
+    to hear or perform the song, or whether it concerns knowledge in a strict mythic
+    sense.
+- id: motif:2
+  label: concealed social knowledge revealed through performance
+  taxonomy_refs: []
+  basis: The women's knowing amusement and Lian's attentive watching suggest that
+    the song carries socially marked or restricted significance within the immediate
+    scene.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The content and cultural meaning of the song are not provided in this
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1536-1544
+  quote_or_summary: The narrator says the songs seemed alike and that, before he realized
+    it, “the forbidden song was droning away on the phonograph.”
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1544-1559
+  quote_or_summary: Women before the narrator smile, recognize the song, giggle, and
+    exchange expressive looks of amusement.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1547-1553
+  quote_or_summary: Lian stands in the doorway of the house, smiling and scowling,
+    and watches the women's faces while they listen.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1553-1556
+  quote_or_summary: A few other men stand farther off behind rows of women who are
+    seated cross-legged on the ground.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal scene extraction is straightforward, but motif interpretation is
+    limited because the passage gives no explanation of the forbidden song’s content
+    or taboo.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line appears to introduce an image caption for Lian; extraction uses only the readable narrative passage and does not infer from the damaged caption text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l1536-l1565
+  passage_sha256=e2c3f0ba6800e3dd4d2448c0e1791ecd0015ad552e4ed108e5f1b3babd173bcc
+

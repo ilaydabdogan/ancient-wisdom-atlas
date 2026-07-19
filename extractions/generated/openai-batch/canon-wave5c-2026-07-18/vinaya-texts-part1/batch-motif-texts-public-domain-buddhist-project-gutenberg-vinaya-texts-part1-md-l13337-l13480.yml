@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l13337-l13480
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: I, 64, I. ADMISSION TO THE ORDER OF BHIKKHUS. / I, 75. ADMISSION TO THE ORDER
+    OF BHIKKHUS. 22Q / SECOND KHANDHAKA. / IT, 34, 2. UPOSATHA CEREMONY, AND PATIMOKKHA.
+    2QI; lines 13337-13480
+  start: '13337'
+  end: '13480'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya passage gives procedural rules for resident and incoming Bhikkhus
+    when they disagree about the Uposatha day, when they must accommodate one another
+    or hold Uposatha outside a boundary, how they must respond to signs of other monks'
+    presence, and when holding Uposatha together or apart is an offence.
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Resident and incoming Bhikkhus may count the Uposatha day differently, including
+    as the fourteenth, fifteenth, or first day of a pakkha.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: When resident and incoming Bhikkhus count the fourteenth and fifteenth differently,
+    the prescribed accommodation depends on which group is greater or whether the
+    groups are equal in number.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When one group counts the first day and the other the fifteenth, the rules
+    allow refusing communion in some cases and instruct a group to go outside the
+    boundary to hold Uposatha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Prepared beds, chairs, mats, pillows, food, water, and swept cells are treated
+    as visible signs of resident Bhikkhus' presence.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If incoming Bhikkhus are doubtful about resident Bhikkhus' presence, the passage
+    distinguishes outcomes based on whether they search, see the residents, and hold
+    Uposatha together or apart.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Footsteps, rehearsal of the Dhamma, clearing the throat, and sneezing are
+    treated as audible signs of resident Bhikkhus' presence.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Unknown bowls, robes, seats, traces of foot-washing, and sprinkled water are
+    treated as visible signs of incoming Bhikkhus' presence.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sounds of arrival, shaking out shoes, clearing the throat, and sneezing are
+    treated as audible signs of incoming Bhikkhus' presence.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The distinction between Bhikkhus of the same district and a different district
+    affects whether holding Uposatha together or apart is free from offence or a dukkaṭa
+    offence.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Holding Uposatha apart after seeing resident Bhikkhus and acting with risk
+    of schism is described as a thullaccaya grave offence.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: resident Bhikkhus
+  description: Bhikkhus resident in the place; they count the day, may be more numerous
+    or fewer than incoming Bhikkhus, and may have signs of their presence detected
+    by incoming Bhikkhus.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: incoming Bhikkhus
+  description: Bhikkhus arriving from elsewhere; they count the day, may be more numerous
+    or fewer than resident Bhikkhus, and must respond to signs of resident Bhikkhus'
+    presence.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Bhikkhus belonging to a different district
+  description: Resident Bhikkhus whom incoming Bhikkhus may identify correctly or
+    incorrectly as belonging to the same or a different district.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Bhikkhus belonging to the same district
+  description: Resident Bhikkhus whom incoming Bhikkhus may identify correctly or
+    incorrectly as belonging to the same district.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: resident ritual group
+  assigned_to:
+  - fig:1
+  basis: They are resident Bhikkhus who count the day, may admit or not admit incoming
+    Bhikkhus to communion, and may hold Uposatha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: incoming ritual group
+  assigned_to:
+  - fig:2
+  basis: They are incoming Bhikkhus who count the day, accommodate or are accommodated,
+    search for resident Bhikkhus, and hold Uposatha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: participants in Uposatha communion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both groups may hold Uposatha together, hold it apart, or hold it outside
+    the boundary under specified conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: district-classified monastic participants
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage classifies Bhikkhus as belonging to the same or a different district,
+    affecting the permitted mode of Uposatha.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: boundary
+  literal_form: the boundary outside which a group may go to hold Uposatha
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water as sign of presence
+  literal_form: water well provided for, foot-washing traces, and water sprinkled
+    about
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: prepared lodging and seating as signs
+  literal_form: well prepared beds, chairs, mats, pillows, unknown seats, and swept
+    cells
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: monastic belongings as signs
+  literal_form: unknown bowls and unknown robes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: audible signs of presence
+  literal_form: footsteps, rehearsal of the Dhamma, clearing the throat, sneezing,
+    arrival sounds, and shaking out shoes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: calendar-day count
+  literal_form: fourteenth, fifteenth, and first day of the pakkha
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Disagreement over fourteenth and fifteenth day
+  summary: Resident and incoming Bhikkhus count the day differently, and the rules
+    prescribe which group accommodates the other according to relative numbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First-day and fifteenth-day conflict at the boundary
+  summary: When one group counts the first day and the other the fifteenth, the passage
+    gives rules for admitting or not admitting the other group to communion and for
+    holding Uposatha outside the boundary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Incoming monks investigate signs of residents
+  summary: Incoming Bhikkhus notice visible or audible signs of resident Bhikkhus,
+    become doubtful, and must search; the offence status depends on whether they find
+    the residents and hold Uposatha together or apart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Resident monks encounter signs of incoming monks
+  summary: Resident Bhikkhus notice visible or audible signs of incoming Bhikkhus,
+    including belongings, water traces, and sounds of arrival; the same doubt-and-search
+    procedure is applied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Same-district and different-district determinations
+  summary: Incoming Bhikkhus assess whether resident Bhikkhus belong to the same or
+    a different district; asking, investigating, and holding Uposatha together or
+    apart determine whether there is an offence.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: communal ritual synchronization by calendar and number
+  taxonomy_refs: []
+  basis: The passage regulates how resident and incoming Bhikkhus synchronize Uposatha
+    when they count the day differently, using relative numbers to determine accommodation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal-ritual procedure rather than a mythic narrative motif.
+- id: motif:2
+  label: ritual boundary separation
+  taxonomy_refs: []
+  basis: When communion is not established under specified day-count conditions, a
+    group may be instructed to go outside the boundary and hold Uposatha there.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The boundary is procedural and monastic; no cosmological boundary is stated.
+- id: motif:3
+  label: presence inferred from signs before ritual action
+  taxonomy_refs: []
+  basis: The passage lists visible and audible signs of resident or incoming Bhikkhus
+    and requires action based on doubt, search, seeing, and ritual performance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The signs are practical indicators, not necessarily symbolic in a mythological
+    sense.
+- id: motif:4
+  label: protection of communal unity against schism
+  taxonomy_refs: []
+  basis: The passage assigns offence status to holding Uposatha together or apart
+    and describes risking schism after seeing resident Bhikkhus as a grave offence.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames this as Vinaya discipline; broader social or mythic
+    meanings are not stated.
+- id: motif:5
+  label: ritual validity through inquiry and correct classification
+  taxonomy_refs: []
+  basis: Rules about asking, investigating, and correctly distinguishing same-district
+    from different-district Bhikkhus determine whether Uposatha together or apart
+    is allowed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This motif is procedural and juridical, not a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13348-13363; Mahāvagga II, 34.1-2
+  quote_or_summary: When resident and incoming Bhikkhus count the Uposatha day as
+    fourteenth or fifteenth differently, accommodation is prescribed according to
+    whether the resident group, incoming group, or neither is greater in number.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 13379-13404; Mahāvagga II, 34.3-4
+  quote_or_summary: When one group counts the first day and the other the fifteenth,
+    rules govern admission to communion or going outside the boundary to hold Uposatha,
+    again depending on relative numbers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 13406-13429; Mahāvagga II, 34.5-6
+  quote_or_summary: Incoming Bhikkhus see signs of resident Bhikkhus, including prepared
+    bedding and seating, food and water, and swept cells; if doubtful, searching or
+    not searching and holding Uposatha together or apart leads to specified offence
+    outcomes, including a grave offence when risking schism.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 13431-13436; Mahāvagga II, 34.7
+  quote_or_summary: Incoming Bhikkhus hear signs of resident Bhikkhus, such as footsteps,
+    rehearsal of the Dhamma, clearing the throat, and sneezing; the same doubt-and-search
+    rules apply.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 13438-13447; Mahāvagga II, 34.8-9
+  quote_or_summary: Resident Bhikkhus see or hear signs of incoming Bhikkhus, including
+    unknown bowls, robes, seats, foot-washing traces, sprinkled water, footsteps of
+    arrival, shaking out shoes, clearing the throat, and sneezing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 13449-13463; Mahāvagga II, 34.10
+  quote_or_summary: Incoming Bhikkhus see resident Bhikkhus of a different district
+    but take them as of the same district; the passage distinguishes cases of not
+    asking, asking without investigating, and holding Uposatha together or apart,
+    with corresponding offence status.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+- id: ev:7
+  type: summary
+  locator: lines 13465-13480; Mahāvagga II, 34.11
+  quote_or_summary: Incoming Bhikkhus see resident Bhikkhus of the same district but
+    take them as of a different district; not asking, asking and investigating, and
+    holding Uposatha together or apart are assigned offence or non-offence outcomes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; excerpt summarized from provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal procedural extraction is well supported. Motif labels are cautious
+    because the passage is monastic law and ritual procedure rather than mythic narrative.
+    No passage-supported comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; taxonomy references were limited to the explicit literal occurrence of water.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l13337-l13480
+  passage_sha256=d1ebed8e1613c4f896ea62e7d45e2242e6e737251d4c118ba2d55207f072c299
+

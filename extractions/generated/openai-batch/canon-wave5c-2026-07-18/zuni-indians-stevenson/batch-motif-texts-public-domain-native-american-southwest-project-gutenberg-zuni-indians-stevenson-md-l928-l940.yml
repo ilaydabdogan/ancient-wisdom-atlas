@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md-l928-l940
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: KOW'WITUMA APPOINTS YA'NUWWULUHA DKPUTV TO THK SUN / FATHEE / COMIXC; OF
+    TIIK WITCHES AND THE INTRODUCTION OF CORN / A'SHIWI COXTINUK THEIR JOURNEYING;
+    lines 928-940
+  start: '928'
+  end: '940'
+  translation: zuni-indians-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: quest for the Middle of the world
+  summary: The A'shiwi journey over soft earth for many years, building and abandoning
+    villages as they seek the Middle of the world. They leave settlements because
+    of the corruption of their dead and the unbearable odor of their own bodies. Repeated
+    divisions send some people north and others south, which the passage says accounts
+    for ruins along both sides of their line of march.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The earth is described as not muddy but so soft that the A'shiwi have difficulty
+    proceeding.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The A'shiwi spend long years journeying, building many villages and then abandoning
+    them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated goal of the journey is a quest for the Middle of the world.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the A'shiwi stay in towns they have built, they are driven away by the
+    corruption of their dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says they also desire to escape the unbearable effluvium of their
+    own bodies, described as like burning sulphur and as a killing odor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Repeated divisions of the people occur during the years of migration, with
+    some going north and others south.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the Zunis account for many ruins north and south of
+    the line of march through these divisions and migrations.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: A'shiwi
+  description: A collective people who journey, build and abandon villages, seek the
+    Middle of the world, and divide during migration.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Zunis
+  description: The collective group named in the passage as accounting for ruins north
+    and south of the line of march.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: journeying people
+  assigned_to:
+  - fig:1
+  basis: The A'shiwi proceed through soft earth and continue migrating for long years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: seekers of the Middle of the world
+  assigned_to:
+  - fig:1
+  basis: Their journey is described as a quest for the Middle of the world.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: explainers of ruins
+  assigned_to:
+  - fig:2
+  basis: The passage says the Zunis account for ruins north and south of the line
+    of march by reference to the migrations and divisions.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Middle of the world
+  literal_form: A destination or place sought by the A'shiwi.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: deadly odor
+  literal_form: The effluvium of bodies, compared to burning sulphur and described
+    as an odor that killed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: ruins north and south
+  literal_form: Ruins located north and south of the line of march.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Difficult journey toward the Middle
+  summary: The A'shiwi move with difficulty over soft earth and continue for many
+    years in a quest for the Middle of the world, building and abandoning villages
+    along the way.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Abandonment because of corruption and effluvium
+  summary: Even when the A'shiwi remain in towns they built, they are driven away
+    by the corruption of their dead and by an unbearable odor associated with their
+    own bodies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Divisions and ruins
+  summary: During the migrations, the people repeatedly divide, some going north and
+    others south; the passage says this explains many ruins north and south of their
+    route.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Quest for the Middle of the world
+  taxonomy_refs:
+  - world_center
+  basis: The passage explicitly describes the A'shiwi as pushing on in a quest for
+    the Middle of the world.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names the destination but gives no further cosmological description
+    in this excerpt.
+- id: motif:2
+  label: Successive migration with settlements built and abandoned
+  taxonomy_refs:
+  - departure
+  basis: Long years are spent in movement, during which many villages are built and
+    then abandoned.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The listed taxonomy reference is broad; the passage gives migration and
+    abandonment but not a formal departure-return cycle.
+- id: motif:3
+  label: Corruption of the dead drives departure
+  taxonomy_refs: []
+  basis: The A'shiwi are driven from built towns by the corruption of their dead and
+    by unbearable bodily effluvium.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this death-odor departure
+    pattern.
+- id: motif:4
+  label: Migration divisions explain ruins
+  taxonomy_refs: []
+  basis: The passage says repeated divisions of the migrating people, with groups
+    going north and south, account for many ruins north and south of the route.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an etiological function stated in the passage, but no specific
+    supplied taxonomy reference matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 928-930
+  quote_or_summary: The earth is not muddy but is so soft that the A'shiwi have difficulty
+    proceeding.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 930-933
+  quote_or_summary: Long years are consumed; many villages are built and abandoned
+    as the A'shiwi push on in their quest for the Middle of the world.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 933-936
+  quote_or_summary: When they tarry in the towns they built, they are driven away
+    by the corruption of their dead and desire to escape the unbearable effluvium
+    of their own bodies.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: quote
+  locator: lines 936-937
+  quote_or_summary: '"It was like burning sulphur; it was an odor that killed."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 937-940
+  quote_or_summary: 'Repeated divisions occur during the migrations: some go north
+    and others south; the Zunis account for many ruins north and south of their line
+    of march in this way.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is based only on the supplied line range. Motif candidates are
+    mostly literal passage patterns; taxonomy mapping is limited except for the explicit
+    Middle of the world/world-center pattern. No comparison claims were added because
+    the passage does not itself compare this account to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata fields for tradition, culture, language, and rights were not supplied; language is inferred from the provided English passage text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md__l928-l940
+  passage_sha256=79d140ccd390e88db2fe6618cb318b54d1387c71321aca2a2753e2697125c309
+

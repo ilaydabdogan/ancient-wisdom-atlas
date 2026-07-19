@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l1344-l1368
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book VII. Li Yun. / Book VIII. Li Xz. / Book IX. AIAO THEH SANG. / Book XI.
+    Yw 3Ao.; lines 1344-1368
+  start: '1344'
+  end: '1368'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that the title of Book XI, Yii 340, comes from characters
+    denoting jade-beaded pendants on a royal cap. It describes twelve such pendants
+    hanging from the cap and notes that the book’s contents range beyond royal dress
+    to rulers, officers, and miscellaneous matters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The book name Yii 340 is said to be taken from the first clause of the first
+    paragraph.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two characters of the title denote pendants of the royal cap worn on great
+    occasions.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beads of jade were strung on the cap pendants.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Twelve pendants hung down before and behind from the ends of the square or
+    rectangular top of the cap.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says nothing more is read of the cap or its pendants after the
+    first paragraph.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kang Hsiian said the book was named Yii 340 because it recorded the dresses
+    and caps worn by the son of Heaven.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the book is not confined to the king, but also introduces
+    rulers and officers generally.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes the contents of the book as varied and difficult to
+    summarize briefly.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kang Hsiian
+  description: A cited commentator or authority who explains the naming of the book.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: son of Heaven
+  description: The royal figure whose dresses and caps Kang Hsiian says the book recorded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: rulers and officers
+  description: Additional social ranks said to be introduced by the book.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cited explainer of the book title
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Kang Hsiian an explanation of why the book was
+    named Yii 340.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: royal wearer of ceremonial dress and caps
+  assigned_to:
+  - fig:2
+  basis: Kang Hsiian says the book recorded the dresses and caps worn by the son of
+    Heaven.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: additional ranks treated in the book
+  assigned_to:
+  - fig:3
+  basis: The passage says the book introduces rulers and officers generally, not only
+    the king.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: royal cap
+  literal_form: royal cap worn on great occasions
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: jade-beaded pendants
+  literal_form: twelve pendants on which beads of jade were strung
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: square or rectangular cap top
+  literal_form: square or rectangular top of the cap from which the pendants hung
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Explanation of the book title through ceremonial headgear
+  summary: The passage explains that the book title derives from characters referring
+    to jade-beaded pendants on a royal cap, with twelve pendants hanging from the
+    cap.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kang Hsiian’s account of the book’s subject matter
+  summary: Kang Hsiian explains the title as referring to records of the son of Heaven’s
+    dresses and caps, while the passage adds that the book also treats rulers, officers,
+    and other matters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ceremonial royal regalia
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers the book title on royal ceremonial headgear and links
+    the book to the dresses and caps of the son of Heaven.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The passage is introductory commentary rather than a narrative of royal
+    legitimation; the taxonomy link is thematic and requires human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1344-1350
+  quote_or_summary: The book name Yii 340 is taken from the first clause; its two
+    characters denote pendants of the royal cap worn on great occasions, with jade
+    beads strung on them.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+- id: ev:2
+  type: summary
+  locator: lines 1350-1353
+  quote_or_summary: There were twelve pendants hanging before and behind from the
+    ends of the square or rectangular top of the cap.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+- id: ev:3
+  type: summary
+  locator: lines 1353-1358
+  quote_or_summary: The passage notes that nothing more is read about the cap or pendants
+    after the first paragraph and that the book’s contents are too various to summarize
+    briefly.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+- id: ev:4
+  type: summary
+  locator: lines 1359-1362
+  quote_or_summary: Kang Hsiian said the book was named Yii 340 because it recorded
+    the dresses and caps worn by the son of Heaven.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+- id: ev:5
+  type: summary
+  locator: lines 1362-1364
+  quote_or_summary: The passage states that the book is not confined to the king,
+    but introduces rulers and officers generally.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+- id: ev:6
+  type: summary
+  locator: lines 1364-1368
+  quote_or_summary: The passage says the book treats matters besides dress, includes
+    material difficult to categorize, and leaves only a vague impression as a whole.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source metadata rights status not supplied; passage identified as public-domain
+    Project Gutenberg in path.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is editorial commentary with clear literal details about ritual
+    headgear, but it contains little narrative or explicit comparative mythology material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support a comparison to another text, tradition, or motif family beyond the tentative ceremonial regalia theme.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l1344-l1368
+  passage_sha256=3e2771b8b258c97d9e3e50c0353fefb2aba146b30906c59ce98fe5b196897fa7
+

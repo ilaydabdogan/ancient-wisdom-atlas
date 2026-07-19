@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l2259-l2309
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: GIRL FIVE YEARS OLD. / A CHILD'S LIFE / LITTLE GIRL. / A CHILD'S LIFE; lines
+    2259-2309
+  start: '2259'
+  end: '2309'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes copper and wooden bells worn by cows and oxen, the
+    distinctive form and carving of wooden bells, reluctance to sell them because
+    of feared bad luck to cattle, and children spending days in the jungle climbing
+    trees and using toy or pellet bows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cows and oxen wear both copper and wooden bells.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wooden bells are described as original in shape, with two tongues that
+    strike outside the bell, and are sometimes carved with a rough monkey outline.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Shans are described as unwilling to sell wooden cow-bells; each man carves
+    his own, and selling one is feared to bring bad luck to the cattle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note recounts a Shan magistrate fining a man more heavily for stealing a
+    wooden bell than for stealing a copper bell, because he could have made the wooden
+    bell himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Children spend long days in the jungle, with some sleeping while others watch,
+    and they play games and climb trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The children climb trees without external aids, using a strong grip of fingers
+    and toes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Some children carry small cross-bows with wooden arrows that have neither
+    barb nor feather and are described as harmless toys.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Another type of bow uses clay pellets the size of marbles and sends them with
+    considerable force.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shans
+  description: People described as owners and makers of wooden cow-bells who are reluctant
+    to sell them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Cows and oxen
+  description: Domestic animals that wear copper and wooden bells.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Children
+  description: Children who spend days in the jungle, play, climb trees, and carry
+    small bows.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Shan magistrate
+  description: A magistrate in the note who fines a man for stealing a wooden bell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unnamed man who stole a wooden bell
+  description: A man in the note who is fined for stealing a wooden bell.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: bell owner-carver
+  assigned_to:
+  - fig:1
+  basis: The passage says each man carves his own wooden cow-bell and Shans are unwilling
+    to sell them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bell-wearing cattle
+  assigned_to:
+  - fig:2
+  basis: Cows and oxen wear bells, and bad luck is feared for the cattle if the wooden
+    bells are sold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: jungle players and tree-climbers
+  assigned_to:
+  - fig:3
+  basis: Children spend days in the jungle, play games, and climb trees.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: child bow users
+  assigned_to:
+  - fig:3
+  basis: Many children carry small bows, including cross-bows and pellet bows.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: adjudicator
+  assigned_to:
+  - fig:4
+  basis: The note describes the magistrate fining a man for stealing a wooden bell.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: bell thief
+  assigned_to:
+  - fig:5
+  basis: The note describes the man as having stolen a wooden bell.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wooden cow-bell
+  literal_form: Wooden cow-bell with two tongues, individually carved, sometimes with
+    a monkey outline, and not willingly sold because of feared bad luck to cattle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: monkey carving
+  literal_form: Rude outline of a monkey carved on some wooden cow-bells.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tree
+  literal_form: Trees climbed by children in the jungle.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: children's bows
+  literal_form: Small bows, including cross-bows with harmless wooden arrows and double-stringed
+    bows for clay pellets.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cattle bells and reluctance to sell wooden bells
+  summary: Cows and oxen wear copper and wooden bells; wooden bells are individually
+    made and are retained because selling them is feared to bring bad luck to cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Magistrate's anecdote about a stolen wooden bell
+  summary: A note recounts a magistrate fining a man more heavily for stealing a wooden
+    bell than he would have for a copper bell, on the grounds that the wooden bell
+    could have been made by the thief himself.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Children in the jungle
+  summary: Children spend long days in the jungle, sleep and watch in turns, play
+    games, and climb trees with fingers and toes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Children's toy and pellet bows
+  summary: Children carry small bows; one cross-bow type has harmless wooden arrows,
+    while another double-stringed bow shoots hard clay pellets with force.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Retained livestock object associated with avoiding bad luck
+  taxonomy_refs: []
+  basis: The passage states that wooden cow-bells are not willingly sold because the
+    owners fear bad luck may come to their cattle if they part with them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic custom in the passage, not a myth narrative; no
+    available motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: Children's jungle play and tree-climbing skill
+  taxonomy_refs: []
+  basis: Children are described as spending days in the jungle, playing games, and
+    climbing trees with strong finger and toe grip.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a social-life pattern rather than an explicitly mythological motif.
+- id: motif:3
+  label: Child use of toy and practice weapons
+  taxonomy_refs: []
+  basis: The passage describes children carrying cross-bows with harmless wooden arrows
+    and another bow that shoots clay pellets with force.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents this as childhood practice or play; no ritual or
+    mythic function is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2259-2271
+  quote_or_summary: Cows and oxen wear copper and wooden bells; the wooden bells have
+    two tongues that strike outside and are sometimes carved with a rough monkey outline.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2271-2281
+  quote_or_summary: Shans are unwilling to sell wooden cow-bells; they are not available
+    in bazaars, each man carves his own, and owners fear bad luck to cattle if they
+    part with them.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: footnote within lines 2297-2302
+  quote_or_summary: A Shan magistrate fined a man five rupees for stealing a wooden
+    bell, saying he would have fined less for a copper bell because the man could
+    have made the wooden one himself.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 2282-2287
+  quote_or_summary: Children spend long days in the jungle; some sleep while others
+    watch; they play games and are fond of climbing trees.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 2287-2291
+  quote_or_summary: The children climb well without outside help, rarely touching
+    knees to the trunk and gripping with fingers and toes.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 2291-2296
+  quote_or_summary: Many children carry small bows; one kind is a cross-bow with wooden
+    arrows lacking barb or feather and described as purely toy-like and harmless.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 2296-2309
+  quote_or_summary: A different double-stringed bow uses a central twist as a pocket
+    for marble-sized clay pellets, which travel with considerable force.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; explicit
+    rights_status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic details are clear. Motif candidates are framed cautiously
+    because the passage is descriptive social observation rather than a mythic narrative.
+    No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available motif-family taxonomy reference was assigned; the only supported taxonomy symbol reference is tree.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l2259-l2309
+  passage_sha256=dea996844dfb568dbafdce00e9755c30fccc3e97462b1e885f43a91a13b3c596
+

@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l11058-l11095
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: TURKEB.1 OUTDOOR LIFE. 205 / TATTOOING. / CLOTHING. / OWRLLINIIK.; lines
+    11058-11095
+  start: '11058'
+  end: '11095'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes summer tent life, household space assignment, the
+    central fireplace, seasonal movement by umiak, the social importance and vulnerability
+    of tent ownership, storage and decay of tent skins, and remembered ruins of earlier
+    permanent winter houses attributed to ancestors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Guests and temporary residents are assigned portions of the tent chosen by
+    the host, and high honor may be shown by assigning the place recently occupied
+    by the host.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The central portion of the tent is reserved for a fireplace used for cooking
+    and heating.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Seasonal work is carried on in the tent, and the tent is moved by umiak when
+    local food is exhausted or another area offers more abundance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many people may dwell in one tent because summer occupations require multiple
+    persons; adults may walk along shore to drag the boat or reduce its load.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The owner of a tent is considered important, and others attempt to retain
+    his favor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Illness may cause a tent owner to lose his belongings, requiring him to begin
+    again and spend seasons collecting enough skins for another tent.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: During winter, tent skins are stored on posts or rock piles to protect them
+    from small animals, but mice and ermines may damage them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If the owner is far from the previous autumn hunting place by spring, the
+    tent may be left unrecovered and become useless through rain and decay.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Former inhabitants are said to have lived in permanent winter houses, with
+    ruins of sod and stone houses remaining in various places.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Present inhabitants say their ancestors lived in the old huts but cannot explain
+    why the huts were deserted or are no longer built.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: host
+  description: Person controlling assignment of space within the tent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: guests and temporary residents
+  description: Persons temporarily abiding with the host and assigned tent space by
+    the host.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: tent owner
+  description: Owner of the tent, described as an important individual whose favor
+    is sought and who may lose belongings through illness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: adults dwelling in the tent
+  description: Adults who may walk along shore to drag the boat or relieve it of weight
+    during movement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: present inhabitants
+  description: People who report that their ancestors lived in the old huts but cannot
+    explain their abandonment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: ancestors
+  description: Earlier people said by present inhabitants to have dwelt in the old
+    huts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: space-assigning host
+  assigned_to:
+  - fig:1
+  basis: The host chooses what portion of the tent guests and temporary residents
+    occupy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: assigned guest or temporary resident
+  assigned_to:
+  - fig:2
+  basis: Guests and others temporarily staying with the host receive assigned tent
+    space.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: important tent owner
+  assigned_to:
+  - fig:3
+  basis: The tent owner is considered important, and his favor is retained by every
+    means.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: boat-dragging or load-relieving adults
+  assigned_to:
+  - fig:4
+  basis: Adults may walk along shore to drag the boat or relieve it of their weight.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: keepers of present report
+  assigned_to:
+  - fig:5
+  basis: Present inhabitants relate that ancestors lived in the huts while lacking
+    an explanation for their desertion.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: former hut dwellers
+  assigned_to:
+  - fig:6
+  basis: Ancestors are said to have dwelt in the old huts.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: central fireplace
+  literal_form: Fireplace in the central portion of the tent for cooking and heating.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: summer tent
+  literal_form: Movable tent used for dwelling and seasonal work.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: umiak
+  literal_form: Boat used to transport the tent from place to place.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: tent skins
+  literal_form: Skins used to make the tent and stored during winter on posts or rock
+    piles.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: sod and stone winter houses
+  literal_form: Ruins of former permanent winter houses with stone walls, turf or
+    earth filling, roof timbers, and excavated floors.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Allocation of tent space
+  summary: Within the tent, the host assigns space to guests and temporary residents,
+    and the central area is reserved for the fireplace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seasonal movement of the tent
+  summary: The tent supports seasonal work and is moved by umiak when food conditions
+    require relocation; adults may assist by walking along shore.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vulnerability of tent ownership
+  summary: A tent owner may lose belongings during illness and then must spend seasons
+    collecting skins for another tent; stored skins may also be damaged by animals
+    or decay.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Remembered winter houses
+  summary: Ruins of permanent sod and stone winter houses are described, and present
+    inhabitants say ancestors lived in them but cannot explain their abandonment.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the former permanent winter houses to winter
+    houses used by Eskimo elsewhere.
+  claim_level: visual_similarity
+  target: permanent winter houses used by Eskimo elsewhere
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to structural resemblance stated in the passage;
+    no historical contact, origin, or mythic relationship is established.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11058-11063
+  quote_or_summary: Guests and temporary residents receive tent space chosen by the
+    host; the central portion is reserved for a fireplace for cooking and heating.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11063-11070
+  quote_or_summary: The tent is used for seasonal work and transported by umiak when
+    food supply changes; multiple residents support summer occupations, and adults
+    may walk along shore to drag or lighten the boat.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11071-11079
+  quote_or_summary: The tent owner is important; illness may cause loss of belongings,
+    forcing him to start again and collect enough skins over several seasons for a
+    new tent.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11080-11088
+  quote_or_summary: Tent skins are stored in winter on posts or rock piles to protect
+    them, though mice and ermines can damage them; if unrecovered, rain and decay
+    can make the tent useless.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11089-11094
+  quote_or_summary: Former people inhabited permanent winter houses like those used
+    by Eskimo elsewhere; ruins of sod and stone houses show stone walls, turf or earth
+    filling, roof timbers, and depressed or excavated floors.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11095-11095
+  quote_or_summary: Present inhabitants relate that ancestors dwelt in these huts
+    but cannot explain why the huts were deserted or why such structures are no longer
+    erected.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is ethnographic and material-cultural rather than mythic; no
+    mythological motif candidates were extracted. The single comparison claim is based
+    on an explicit structural comparison in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata fields such as tradition, culture, language, and rights status were not supplied. Apparent OCR errors in the passage were not normalized except through neutral summary.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l11058-l11095
+  passage_sha256=551a22d4471b6c46953b4fdaf03af710286d074eb2e0d266886118b15e6fa5ea
+

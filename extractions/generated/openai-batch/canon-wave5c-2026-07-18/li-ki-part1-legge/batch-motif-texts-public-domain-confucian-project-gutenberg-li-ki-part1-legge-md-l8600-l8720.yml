@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l8600-l8720
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: BOOK Il. THE THAN KUNG. / SECT. I. PT. II, THE THAN KUNG. IAI / SECT. II.
+    PT. II. THE THAN KUNG. IOI / APPENDIX, TO BOCK UL; lines 8600-8720
+  start: '8600'
+  end: '8720'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An appendix introduces W. H. Medhurst’s account of Chinese mourning dress,
+    kinship categories, and ritual tables. The passage explains distinctions between
+    male-line kin and affinal or maternal kin, describes marriage incorporation of
+    women into another stock, and outlines mourning habits and tables used to classify
+    relationships and prohibited marriage degrees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The appendix is introduced because the Than Kung contains many references
+    to mourning degrees and mourning dress.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Chinese kinship ideas divide relationships into two classes
+    named Néi kin and Wai yin.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Néi kin is described as common-stock kindred through the male line, while
+    Wai yin includes mother’s kin, wife’s kin, and daughter’s kin.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states a principle that a woman leaves her own kin on marriage
+    and becomes part of the stock into which she is grafted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The indication of prohibited marriage degrees is said to depend on a genealogical
+    arrangement of family members with respect to mourning worn for deceased relatives.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Ritual prescribes five kinds of mourning to be worn for relatives within
+    a defined proximity and grades the habit according to nearness of kin.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Names of mourning habits are applied to the relationships themselves, and
+    plans or tables show the specific habit suitable for each kinsman.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The principal table for a married or unmarried man includes male-line relatives
+    from a common great-great-grandfather down through several descendant generations.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Six tables are said to prescribe mourning for several mourner categories,
+    including a man, a wife, a married female, and a concubine.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A seventh table concerns stepfathers, adoptive fathers, stepmothers, and foster
+    mothers, but the quoted paper does not treat it further.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Unless otherwise specified, the indicated relationship is male and through
+    the male line; the example says cousin means a father’s brother’s son.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: 'The five named mourning kinds are given with durations: Kan-zui, Sze-zui,
+    Ta-kung, Hsiao-kung, and Sze-ma.'
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the Chinese
+  description: The cultural group whose kinship ideas and mourning classifications
+    are being described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: woman on marriage
+  description: A generic woman described as leaving her own kin and becoming part
+    of another stock on marriage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: individual in the kinship table
+  description: The reference person around whom common-stock and descendant relationships
+    are arranged.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: married or unmarried man
+  description: The subject of the principal mourning table and one of the mourner
+    categories in the six tables.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: wife
+  description: A mourner category for whom a table prescribes mourning for her husband’s
+    kinsfolk.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: married female
+  description: A mourner category for whom a table prescribes mourning for her own
+    kinsfolk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: concubine
+  description: A mourner category for whom a table prescribes mourning for her master’s
+    kinsfolk.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: step, adoptive, and foster parents
+  description: Kin categories named as the subject of a seventh mourning table not
+    further treated in the paper.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: kinship system bearers
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the described kinship ideas and divisions to the Chinese.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maritally incorporated figure
+  assigned_to:
+  - fig:2
+  basis: The passage states that a woman alienates herself from her own kin on marriage
+    and becomes part of the stock into which she is grafted.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: genealogical reference point
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The tables are arranged around an individual or a married/unmarried man and
+    his male-line relatives.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: mourning-table subject
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The six tables prescribe mourning to be worn by these categories of persons.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: mourner for another household’s kin
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The wife mourns her husband’s kinsfolk, and the concubine mourns her master’s
+    kinsfolk.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: additional kin category in omitted table
+  assigned_to:
+  - fig:8
+  basis: The passage names a seventh table for stepfathers, adoptive fathers, stepmothers,
+    and foster mothers, then says it is not treated further.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mourning dress as relationship marker
+  literal_form: five kinds of mourning habit worn for deceased relatives and graded
+    by nearness of kin
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: sym:2
+  label: genealogical mourning tables
+  literal_form: plans or tables showing the specific mourning habit suitable for each
+    kinsman
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: male-line stock
+  literal_form: common stock and descent through the male line, with marital grafting
+    into another stock
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Appendix source framing
+  summary: The appendix explains why an external paper on Chinese mourning dress is
+    inserted and identifies the paper’s basis in ritual and penal code material.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kinship classification
+  summary: Relationships are divided into male-line common-stock kin and several forms
+    of maternal or affinal kin, with marriage described as moving a woman into another
+    stock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Mourning degrees and tables
+  summary: The passage explains that mourning dress, arranged in tables, marks kinship
+    nearness and helps define marriage-prohibition degrees.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+- id: scene:4
+  label: Boundary cases and omitted table
+  summary: The passage clarifies that relationships are normally male-line unless
+    specified and notes an additional table for step, adoptive, and foster parents.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: mourning dress marks kinship degree
+  taxonomy_refs: []
+  basis: The passage states that five mourning habits are graded by nearness of kin
+    and that their names are used to indicate relationship degrees.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: This is a ritual and legal classification pattern rather than a mythic
+    narrative motif.
+- id: motif:2
+  label: patrilineal boundary with affinal reclassification
+  taxonomy_refs: []
+  basis: The passage distinguishes male-line Néi kin from Wai yin kin and describes
+    a woman’s marriage as incorporation into another stock.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage reports a social-ritual rule; it does not narrate an origin
+    myth for the rule.
+- id: motif:3
+  label: genealogical table as ritual map
+  taxonomy_refs: []
+  basis: The passage describes plans or tables that arrange kin and assign the correct
+    mourning habit for each relationship category.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage refers to tables but does not reproduce the table diagrams
+    in the supplied excerpt.
+- id: motif:4
+  label: marriage prohibition derived from mourning classification
+  taxonomy_refs: []
+  basis: The passage says prohibited marriage degrees depend on genealogical disposition
+    with respect to mourning worn for deceased relatives.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt states the dependency but does not enumerate the prohibited
+    marriages themselves.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Néi kin and Wai yin to the terms consanguinity
+    and affinity while warning that the associations differ.
+  claim_level: same_function
+  target: Western consanguinity and affinity terminology
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited by the passage’s own caution that the Chinese
+    terms carry different associations.
+- id: claim:2
+  claim: The passage says mourning-habit names are used somewhat like first-degree
+    and second-degree relationship terms.
+  claim_level: same_function
+  target: numbered relationship-degree terminology
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns classificatory use of terms, not identical
+    kinship structures.
+- id: claim:3
+  claim: The passage describes ritual plans for mourning as similar to genealogical
+    tables.
+  claim_level: visual_similarity
+  target: genealogical tables
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt describes the tables but does not include the
+    visual diagrams.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8600-8615
+  quote_or_summary: The appendix notes frequent references in the Than Kung to mourning
+    degrees and dress and introduces Medhurst’s paper based mainly on the Ritual and
+    Penal Code of China, especially material on mourning dress.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 8616-8637
+  quote_or_summary: Chinese relationships are divided into Néi kin and Wai yin, compared
+    to consanguinity and affinity but with different associations; Néi kin is male-line
+    common-stock kin, while Wai yin includes mother’s, wife’s, and daughter’s kin.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 8638-8648
+  quote_or_summary: The principle is that a woman alienates herself from her own kin
+    on marriage and becomes part of the stock on which she is grafted.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 8649-8660
+  quote_or_summary: Prohibited marriage degrees depend on a genealogical disposition
+    of family members in relation to mourning; the Ritual prescribes five kinds of
+    mourning graded by nearness of kin.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 8661-8668
+  quote_or_summary: Mourning-habit names are applied to relationships and used somewhat
+    like degree terms; plans similar to genealogical tables show the proper habit
+    for each kinsman.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 8669-8680
+  quote_or_summary: The principal table for a married or unmarried man includes male-line
+    relatives from a common great-great-grandfather and specified descendant lines;
+    it contains only Néi kin, while few Wai-yin relations receive mourning and they
+    are low in degree.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:7
+  type: summary
+  locator: lines 8681-8692
+  quote_or_summary: Six tables prescribe mourning worn by a man for his kin, a wife
+    for her husband’s kin, a married female for her own kin, a man for his mother’s
+    kin, a man for his wife’s kin, and a concubine for her master’s kin.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:8
+  type: summary
+  locator: lines 8693-8698
+  quote_or_summary: A seventh table covers stepfathers, fathers by adoption, stepmothers,
+    foster mothers, and similar categories, but the author says this portion will
+    not be included.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:9
+  type: summary
+  locator: lines 8699-8709
+  quote_or_summary: The reader is told that, unless specified otherwise, relationships
+    are male and through the male line; for example, cousin means a father’s brother’s
+    son, not a father’s sister’s child.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:10
+  type: summary
+  locator: lines 8710-8720
+  quote_or_summary: 'The five mourning kinds are listed: Kan-zui, nominally three
+    years but actually twenty-seven months; Sze-zui, one year, five months, or three
+    months; Ta-kung, nine months; Hsiao-kung, five months; and Sze-ma, three months.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about ritual classifications, kinship categories,
+    and comparisons to Western terminology. Motif confidence is lower because the
+    excerpt is an explanatory appendix on ritual/legal practice, not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the supplied excerpt supports ritual kinship and mourning patterns rather than the listed mythic motif families or literal symbols.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l8600-l8720
+  passage_sha256=043f42db420dff932cca268b9e352769e2158ade3871c27afe02b04ac9e768af
+

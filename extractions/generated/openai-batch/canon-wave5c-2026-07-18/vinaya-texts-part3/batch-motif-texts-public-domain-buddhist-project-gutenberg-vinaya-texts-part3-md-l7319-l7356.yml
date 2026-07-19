@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l7319-l7356
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: L 33) 3- / JTULLAVAGGA. / VI, I, 2. / SIXTH KHANDHAKA.; lines 7319-7356
+  start: '7319'
+  end: '7356'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a section on dwellings and furniture. The Blessed Buddha
+    is staying at Rct^agaha in the Ve/uvana, Kalandaka Nivapa. Since permission for
+    dwellings has not yet been given to the Bhikkhus, they live in various outdoor
+    or marginal places such as woods, tree-roots, hillsides, grottoes, mountain caves,
+    cemeteries, open plains, and heaps of straw. In the early morning they come in
+    from these places with restrained and dignified deportment. A S&ttki of Ra^agaha
+    goes early in the morning to his garden. Editorial notes compare one formula with
+    other Buddhist texts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Blessed Buddha is staying at Rct^agaha in the Ve/uvana, in the Kalandaka
+    Nivapa.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Permission concerning dwellings has not yet been given to the Bhikkhus by
+    the Blessed One.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bhikkhus dwell in multiple places including woods, tree-roots, hillsides,
+    grottoes, mountain caves, cemeteries, forests, open plains, and heaps of straw.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At early morning the Bhikkhus come in from those various dwelling places.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bhikkhus are described as decorous in movement, restrained in looking
+    around and moving their arms, with eyes cast down and dignified deportment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The S&ttki of Ra^agaha goes early in the morning to his garden.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Blessed Buddha
+  description: Named figure staying at Rct^agaha in the Ve/uvana, Kalandaka Nivapa;
+    permission concerning dwellings has not yet been given by the Blessed One.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monastic group who lack authorized dwellings, live in various outdoor
+    or marginal places, and come in at early morning with dignified deportment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: S&ttki of Ra^agaha
+  description: Person from Ra^agaha who goes early in the morning to his garden.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: source of monastic permission
+  assigned_to:
+  - fig:1
+  basis: The passage says permission with respect to dwellings had not been given
+    to the Bhikkhus by the Blessed One.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: unhoused monastic dwellers
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus dwell in woods, at tree-roots, on hillsides, in caves, cemeteries,
+    open plains, and heaps of straw because no dwelling permission has yet been given.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: decorous early-morning entrants
+  assigned_to:
+  - fig:2
+  basis: They come in early in the morning with eyes cast down and dignified deportment.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: garden-goer
+  assigned_to:
+  - fig:3
+  basis: The passage states that the S&ttki of Ra^agaha went early in the morning
+    to his garden.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree-root dwelling place
+  literal_form: foot of trees used as places where Bhikkhus dwell
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cave and mountain dwelling place
+  literal_form: grottoes and mountain caves among the Bhikkhus' dwelling places
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cemetery dwelling place
+  literal_form: cemeteries listed among the Bhikkhus' dwelling places
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: garden
+  literal_form: the S&ttki's garden
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Buddha at Ve/uvana before dwelling permission
+  summary: The Blessed Buddha is located at Rct^agaha in the Ve/uvana, Kalandaka Nivapa,
+    at a time when permission for Bhikkhu dwellings has not yet been given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bhikkhus dwell in outdoor and marginal places
+  summary: Because authorized dwellings have not yet been permitted, the Bhikkhus
+    live in woods, at tree-roots, on hillsides, in grottoes, in mountain caves, in
+    cemeteries, in forests, in open plains, and in heaps of straw.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Early-morning entrance with dignified deportment
+  summary: The Bhikkhus come in early in the morning from their various dwelling places,
+    moving and looking around in a decorous, restrained, and dignified manner.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: S&ttki goes to his garden
+  summary: A S&ttki of Ra^agaha goes early in the morning to his garden; the supplied
+    passage ends before any further action is given.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ascetic residence outside built dwellings
+  taxonomy_refs: []
+  basis: The Bhikkhus have no permitted dwellings and live in woods, at tree-roots,
+    on hillsides, in caves, cemeteries, open plains, and heaps of straw.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive monastic-regulatory pattern rather than a myth narrative
+    motif.
+- id: motif:2
+  label: disciplined deportment of renunciants
+  taxonomy_refs: []
+  basis: The Bhikkhus enter from their dwelling places early in the morning with restrained
+    gestures, eyes cast down, and dignified deportment; an editorial note says this
+    wording recurs elsewhere in Buddhist texts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The recurrence is supported only by the supplied editorial note; the comparison
+    passages are not included here.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note states that the dignified-deportment formula is also found
+    at Mahavagga I, 23, 2 and frequently in the Suttas.
+  claim_level: linguistic_similarity
+  target: Mahavagga I, 23, 2 and the Suttas
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editor's note is supplied; the target passages are not present,
+    so this supports a cautious textual-formula comparison, not an independent historical
+    or motif-development claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7327-7330
+  quote_or_summary: The Blessed Buddha is said to be staying at Rct^agaha in the Ve/uvana,
+    in the Kalandaka Nivapa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: No rights metadata supplied in request; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:2
+  type: summary
+  locator: lines 7330-7337
+  quote_or_summary: Permission regarding dwellings has not yet been given to the Bhikkhus,
+    who therefore dwell in woods, at tree-roots, on hillsides, in grottoes, in mountain
+    caves, in cemeteries, in forests, in open plains, and in heaps of straw.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: No rights metadata supplied in request; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:3
+  type: summary
+  locator: lines 7337-7343
+  quote_or_summary: At early morning the Bhikkhus come in from those places, described
+    as decorous in walking, turning, looking, moving their arms, with eyes cast down,
+    and dignified in deportment.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: No rights metadata supplied in request; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:4
+  type: summary
+  locator: lines 7345-7347
+  quote_or_summary: The S&ttki of Ra^agaha goes early in the morning to his garden;
+    the supplied passage then breaks off mid-sentence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: No rights metadata supplied in request; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:5
+  type: summary
+  locator: lines 7354-7356
+  quote_or_summary: An editorial note says the same deportment wording also appears
+    in Mahavagga I, 23, 2 and frequently in the Suttas.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: No rights metadata supplied in request; source path indicates public-domain
+    Project Gutenberg material.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the supplied passage is short
+    and ends as the next paragraph begins. Motif labels are descriptive and should
+    be reviewed for atlas taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, events, or comparisons beyond the supplied passage and editorial notes were inferred. OCR/transliteration irregularities in proper names were retained where relevant.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l7319-l7356
+  passage_sha256=8b3186acd80c392d4e216b2e070eeda653ea1cb02afe29cab903e4e56b0b40af
+

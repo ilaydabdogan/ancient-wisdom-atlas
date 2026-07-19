@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l1806-l1840
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XIX. SAnG TA Ki. / Book XX. XT FA. / Book XXII. At THUNG. / Book XXIII.
+    KING XIEH.; lines 1806-1840
+  start: '1806'
+  end: '1840'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial introduction to Book XXIII, King Xieh/King
+    Kieh. It reviews proposed translations of the title, reports Hwang Khan's explanation
+    that the title concerns separation or division among subjects of the Classics,
+    rejects Confucian authorship of the opening paragraphs, discusses the later enumeration
+    of six Classics, questions the existence of a Classic of Music, and states that
+    the compiler is unknown.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces Book XXIII, King Xieh/King Kieh, and discusses proposed
+    translations of its title.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hwang Khan is reported as explaining in A.D. 538 that 'Kieh' should be understood
+    as separation or division, and that the treatise describes differences among subjects
+    in different King.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor states that the book is ingenious but not entitled to much attention.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor states that the first two paragraphs, though assigned to Confucius,
+    could not have come from him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor says the first two paragraphs assume six King, but that this enumeration
+    originated with scholars of the Han dynasty.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says the KZun K hid was Confucius's own work, compiled only a
+    year or two before his death, and later raised to the rank of a King.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The editor doubts whether there was ever a Yo King, or Classic of Music, while
+    noting that treatises on music existed under the au dynasty.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The compiler of King Kieh is described as ingenious but uncritical, and is
+    said to be unknown.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hwang Khan
+  description: A commentator or authority cited as giving the meaning of King Kieh
+    in A.D. 538.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Callery
+  description: A translator cited as rendering the title as 'Sens Général des Livres
+    Canoniques.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Confucius
+  description: The first two paragraphs are said to be assigned to him, but the editor
+    rejects this attribution; he is also said to have compiled the KZun K hid near
+    the end of his life.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Scholars of the Han dynasty
+  description: A group said to have originated the enumeration of six King.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Unknown compiler of King Kieh
+  description: The compiler is described as ingenious but uncritical, and his identity
+    is said to be unknown.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: title interpreter
+  assigned_to:
+  - fig:1
+  basis: Hwang Khan is cited as giving the meaning of King Kieh as separation or division.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: Callery is cited as giving a French rendering of the title.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: disputed attributed author
+  assigned_to:
+  - fig:3
+  basis: The first two paragraphs are assigned to Confucius, but the editor says they
+    could not have come from him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: compiler of KZun K hid
+  assigned_to:
+  - fig:3
+  basis: The passage says Confucius compiled the KZun K hid only a year or two before
+    his death.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: canonical enumerators
+  assigned_to:
+  - fig:4
+  basis: The passage says the enumeration of six King originated with scholars of
+    the Han dynasty.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: unknown compiler
+  assigned_to:
+  - fig:5
+  basis: The passage says the compiler of King Kieh was ingenious but uncritical and
+    is unknown.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Explanation of the title King Kieh
+  summary: The passage reviews translations of the book title and cites Hwang Khan's
+    explanation that the title refers to separation or division among subjects handled
+    in the different King.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Critique of Confucian attribution and six-King enumeration
+  summary: The editor rejects the attribution of the opening paragraphs to Confucius
+    because they assume a six-King classification said to have originated with Han
+    scholars, and because the KZun K hid was Confucius's own late work later elevated
+    to canonical status.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Doubt about Classic of Music and compiler identity
+  summary: The editor questions whether a Yo King or Classic of Music ever existed,
+    distinguishes this from earlier music treatises, and states that the compiler
+    of King Kieh is unknown.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1806-1817
+  quote_or_summary: The introduction says earlier translations of King Kieh are incorrect
+    and reports Hwang Khan's A.D. 538 explanation that 'Kieh' means separation or
+    division, describing differences among subjects in the different King.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain.
+- id: ev:2
+  type: summary
+  locator: lines 1818-1828
+  quote_or_summary: The editor judges the book ingenious but of limited value, rejects
+    Confucian authorship of the first two paragraphs, and discusses the six-King enumeration,
+    Han scholars, and the KZun K hid as Confucius's late work later raised to canonical
+    status.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain.
+- id: ev:3
+  type: summary
+  locator: lines 1829-1836
+  quote_or_summary: The passage doubts that there was ever a Yo King or Classic of
+    Music, while noting that music treatises existed under the au dynasty and that
+    a collection appears only in later attempts referenced elsewhere.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain.
+- id: ev:4
+  type: summary
+  locator: lines 1837-1839
+  quote_or_summary: The passage states that the ingenious but uncritical compiler
+    of King Kieh is unknown.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is editorial and textual-critical rather than mythic or narrative.
+    No candidate mythology motifs, symbols, or comparison claims are supported by
+    the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Names and titles retain the spellings as supplied in the passage, including apparent OCR/transliteration forms.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l1806-l1840
+  passage_sha256=8d9aac787bf18595dab9c82a69238fad903d09c822d88fda11e8b3cd3fcb40db
+

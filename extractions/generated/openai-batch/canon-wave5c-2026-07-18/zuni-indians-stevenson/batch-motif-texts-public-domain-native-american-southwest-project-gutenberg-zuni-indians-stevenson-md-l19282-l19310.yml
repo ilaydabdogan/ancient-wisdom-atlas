@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md-l19282-l19310
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: OAMKS / ARTS AND INDUSTRIES / HOUSE BUILDING / AGRICULTURE AND HORTICULTURE;
+    lines 19282-19310
+  start: '19282'
+  end: '19310'
+  translation: zuni-indians-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how agricultural field assistance is organized through
+    fraternity, household, and clan networks; how laborers are fed after work; and
+    how corn and bean colors are cultivated to correspond with six directional regions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fraternity member may ask the mo'sona for field help, and the mo'sona designates
+    fraternity members to assist.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The female head of the house, the daughter, or both may ask clan people for
+    the assistance of sons of families.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Paternal heads of houses also provide services, so the work is not confined
+    to a single clan.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People of a ki'wi'sine are called for this work only when a house is to entertain
+    a Sha'lako.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Laborers are entertained with an evening meal after returning from the fields
+    each day by the family for whom they work.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The clans of the heads of the house also aid in the entertainment of the laborers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Corn and beans are developed in colors that harmonize with six regions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The color-region correspondences named are yellow with North, blue with West,
+    red with South, white with East, variegated with Zenith, and black with Nadir.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fraternity member requesting help
+  description: A member of a fraternity asks the mo'sona for field assistance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mo'sona
+  description: The mo'sona is identified parenthetically as a director and designates
+    fraternity members to assist.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: designated fraternity assistants
+  description: A certain number of fraternity members are designated to assist their
+    fellow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: female head of the house and daughter
+  description: The female head of the house, the daughter, or both go to clan people
+    to ask for assistance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: sons of clan families
+  description: The sons of families are asked to assist in field work.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: paternal heads of houses
+  description: Paternal heads of houses also give their services.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: people of a ki'wi'sine
+  description: They are called for such work only under the stated Sha'lako-hosting
+    condition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Sha'lako
+  description: Named as something a house may entertain, creating the condition under
+    which people of a ki'wi'sine are called for the work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: family for whom the laborers work
+  description: This family entertains the laborers at an evening meal after field
+    work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: clans of the heads of the house
+  description: These clans aid in the entertainment of the laborers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: agriculturists
+  description: The passage describes them as developing corn and bean colors to harmonize
+    with the six regions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: requester of assistance
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: These figures ask designated people or clan members for help in field work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: director of assistance
+  assigned_to:
+  - fig:2
+  basis: The mo'sona is called a director and designates fraternity members to help.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: field labor assistant
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures are described as assisting or giving services in field work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: hosts or aiders of post-work entertainment
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The family provides an evening meal, and clans of house heads aid in the
+    entertainment.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: conditional recipient of household entertainment
+  assigned_to:
+  - fig:8
+  basis: The passage says a house may entertain a Sha'lako, which triggers the calling
+    of people of a ki'wi'sine for work.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: crop color cultivators
+  assigned_to:
+  - fig:11
+  basis: The passage says these agriculturists take care in developing color in corn
+    and beans to harmonize with six regions.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fields
+  literal_form: agricultural fields where assistance is given
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: evening meal after field work
+  literal_form: meal given to laborers after return from the fields
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: corn and beans
+  literal_form: cultivated crops whose colors are developed
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: six regions with color correspondences
+  literal_form: North-yellow, West-blue, South-red, East-white, Zenith-variegated,
+    Nadir-black
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mobilizing agricultural assistance
+  summary: Field assistance is arranged through fraternity leadership, household women
+    asking clan members, paternal heads, and, under a Sha'lako-hosting condition,
+    people of a ki'wi'sine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Post-work entertainment of laborers
+  summary: After returning from the fields, laborers are given an evening meal by
+    the family for whom they work, with aid from the clans of the house heads.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Crop colors harmonized with six regions
+  summary: The agriculturists cultivate corn and bean colors to correspond with named
+    directional and vertical regions.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: organized reciprocal field labor through fraternity and clan networks
+  taxonomy_refs: []
+  basis: The passage describes multiple social channels for obtaining field assistance,
+    including fraternity designation, clan requests, and paternal household service.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic social practice rather than an explicit mythic
+    narrative motif.
+- id: motif:2
+  label: hospitality meal following collective labor
+  taxonomy_refs: []
+  basis: Laborers are fed an evening meal by the family for whom they worked, with
+    additional clan support.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states a practice of hospitality but does not explicitly frame
+    it as sacred exchange.
+- id: motif:3
+  label: directional color correspondence in cultivated crops
+  taxonomy_refs: []
+  basis: 'Corn and bean colors are deliberately associated with six regions: four
+    cardinal directions plus Zenith and Nadir.'
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage provides the correspondence scheme but does not explain its
+    ritual or mythological meaning here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19282-19286
+  quote_or_summary: A fraternity member asks the mo'sona, identified as a director,
+    for help; the mo'sona designates fraternity members to assist.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public-domain source metadata supplied; short neutral summary used.
+- id: ev:2
+  type: summary
+  locator: 19286-19290
+  quote_or_summary: The female head of the house or daughter asks clan people for
+    help from sons of families; paternal heads of houses also give services, so the
+    work is not confined to one clan.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public-domain source metadata supplied; short neutral summary used.
+- id: ev:3
+  type: summary
+  locator: 19290-19292
+  quote_or_summary: People of a ki'wi'sine are called for such work only when a house
+    is to entertain a Sha'lako.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public-domain source metadata supplied; short neutral summary used.
+- id: ev:4
+  type: summary
+  locator: 19292-19294
+  quote_or_summary: Laborers are entertained with an evening meal after returning
+    from the fields; the clans of the house heads also aid in the entertainment.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public-domain source metadata supplied; short neutral summary used.
+- id: ev:5
+  type: summary
+  locator: 19295-19299
+  quote_or_summary: 'Corn and beans are developed in colors corresponding to six regions:
+    yellow-North, blue-West, red-South, white-East, variegated-Zenith, and black-Nadir.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public-domain source metadata supplied; short neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports extraction of social-practice and
+    color-direction patterns. No external comparison claims are made because the passage
+    itself does not compare the material to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote material in the supplied range was not treated as motif-bearing except where it clarifies references to ki'wi'sine and Sha'lako.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md__l19282-l19310
+  passage_sha256=07e17b0f2a9608d0c373475af81bf900fae807f04838aca2f88c349a61df09af
+

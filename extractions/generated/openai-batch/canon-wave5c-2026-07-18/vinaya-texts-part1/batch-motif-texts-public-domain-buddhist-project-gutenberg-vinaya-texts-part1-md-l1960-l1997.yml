@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l1960-l1997
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: SAMGHADISESA DHAMMA. / SAMGHADISESA DHAMMA. / IO PATIMOKKHA. / SAMGHADISESA
+    DHAMMA. II; lines 1960-1997
+  start: '1960'
+  end: '1997'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a monastic disciplinary procedure: a Bhikkhu who knowingly
+    conceals an offense must undergo probation for the same number of days as the
+    concealment, then six days of Manatta penance, and then be reinstated only by
+    a community of twenty Bhikkhus. A smaller community cannot validly reinstate him.
+    The recitation then asks the venerable ones three times whether they are pure
+    in the matter; their silence is understood as purity, and the recitation of the
+    Samghadisesas ends.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bhikkhu who has committed one of the specified offenses and knowingly concealed
+    it must remain in probation for as many days as he concealed the sin, even against
+    his will.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After probation, the Bhikkhu must undergo six further days of the Manatta
+    discipline, glossed as penance.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the penance is removed, the Bhikkhu must be reinstated in a place where
+    the community of Bhikkhus forms a body of twenty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a community of fewer than twenty Bhikkhus reinstates the Bhikkhu, even
+    lacking only one member, he is not reinstated and the community is blameworthy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The venerable ones are asked three times whether they are pure in this matter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The silence of the venerable ones is understood as indicating that they are
+    pure, and the recitation of the Samghadisesas ends.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu who committed and concealed an offense
+  description: A Bhikkhu who committed one of the specified offenses and knowingly
+    concealed his sin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Community of Bhikkhus forming a body of twenty
+  description: A community of Bhikkhus required to form a body of twenty for valid
+    reinstatement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Venerable ones
+  description: The assembly addressed by the recitation and asked three times whether
+    they are pure in the matter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Offending monk under probation and penance
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Bhikkhu who knowingly concealed the offense must
+    undergo probation, six days of penance, and reinstatement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Reinstating quorum
+  assigned_to:
+  - fig:2
+  basis: The community must form a body of twenty for the Bhikkhu's reinstatement
+    to be valid.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Respondents in purity recitation
+  assigned_to:
+  - fig:3
+  basis: The venerable ones are asked three times whether they are pure, and their
+    silence is interpreted as purity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Quorum of twenty
+  literal_form: A community of Bhikkhus forming a body of twenty
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Silence indicating purity
+  literal_form: Silence after a threefold question about purity
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Probation, penance, and reinstatement procedure
+  summary: A Bhikkhu who concealed an offense must undergo probation corresponding
+    to the concealment, then six days of penance, and then valid reinstatement by
+    a community of twenty Bhikkhus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Threefold purity inquiry
+  summary: The venerable ones are asked three times whether they are pure in the matter;
+    their silence is taken as confirmation of purity.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Penance followed by communal reinstatement
+  taxonomy_refs: []
+  basis: The passage sets out a sequence in which an offending Bhikkhu undergoes probation,
+    penance, and reinstatement by a properly constituted community.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a monastic legal and disciplinary procedure rather than a mythic
+    narrative; no supplied taxonomy family directly fits the pattern.
+- id: motif:2
+  label: Purity confirmed by threefold inquiry and silence
+  taxonomy_refs: []
+  basis: The recitation asks the assembly three times whether they are pure, then
+    interprets their silence as confirmation of purity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pattern is ritual or liturgical rather than explicitly mythological;
+    no comparison is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1960-1966
+  quote_or_summary: A Bhikkhu who knowingly conceals one of the offenses must remain
+    in probation for the same number of days as the concealment, then undergo six
+    further days of Manatta penance.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1967-1974
+  quote_or_summary: After penance is removed, the Bhikkhu must be reinstated where
+    a community of Bhikkhus forms a body of twenty; reinstatement by fewer than twenty
+    is invalid and blameworthy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1983-1992
+  quote_or_summary: The venerable ones are asked three times, 'Are you pure in this
+    matter?'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1993-1997
+  quote_or_summary: The venerable ones are said to be pure because they keep silence;
+    the recitation of the Samghadisesas ends.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal disciplinary sequence is clear. Motif candidates are framed as procedural
+    patterns, with caution because the passage is legal-liturgical rather than narrative
+    mythology. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs apply directly; no passage-supported cross-tradition comparison is present.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l1960-l1997
+  passage_sha256=6970e795324e9fe0037c54a89d65176ec5ca1e776ff3a5a1641e9b4c228b1a9c
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l12128-l12164
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: CHILDREN OF CLOUD / SKULL AND HIS MAGIC / ORIGIN OF THE HORSE / COYOTE AND
+    THE QUAILS; lines 12128-12164
+  start: '12128'
+  end: '12164'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the tale titled “Coyote and the Quails,” quails cut fat meat from a
+    sleeping Coyote, cook it, and feed it to him. After they tell him he has eaten
+    his own meat, he realizes his loss and pursues them. The quails flee into a hole
+    after inserting a feather-covered cholla cactus branch. Coyote releases the quails
+    one by one after questioning them, then mistakes the cactus branch for the guilty
+    quail, bites it hard, and dies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote is sleeping soundly when many quails come along and cut pieces of fat
+    meat out of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quails cook the meat and give some to Coyote when he asks for it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The quails twice call after Coyote that he has eaten his own meat, then deny
+    or deflect when he asks what they said.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote eventually feels his loss, understands what the quails meant, and says
+    he will eat them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The quails fly above ground while Coyote runs beneath them in pursuit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At a hole, one of the smartest quails picks a cholla cactus branch, pushes
+    it into the hole, and the quails run in after it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coyote digs out the hole, questions each quail, and lets each go after it
+    denies telling him he ate his own meat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The cactus branch is covered with feathers and looks like a quail.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Coyote asks the cactus branch the same question, receives no answer, decides
+    it is guilty, bites it hard, and is killed.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: A figure who sleeps, unknowingly eats meat cut from his own body, pursues
+    the quails, questions them, mistakes a feather-covered cactus branch for a quail,
+    bites it, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the quails
+  description: A group of quails who cut meat from Coyote, cook it, feed him some,
+    tell him what he has eaten, flee from him, and escape from the hole one by one.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: one of the smartest quails
+  description: A quail singled out as smart who picks a cholla cactus branch and pushes
+    it into the hole before the quails enter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sleeping victim of bodily theft
+  assigned_to:
+  - fig:1
+  basis: Coyote is asleep when quails cut pieces of fat meat from him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unwitting eater of his own meat
+  assigned_to:
+  - fig:1
+  basis: Coyote eats meat that the quails later identify as his own.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: angry pursuer and fatal misidentifier
+  assigned_to:
+  - fig:1
+  basis: Coyote pursues the quails after realizing the loss, then mistakes the cactus
+    branch for a quail and bites it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: collective meat thieves
+  assigned_to:
+  - fig:2
+  basis: The quails cut fat meat from Coyote and cook it.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: fleeing quarry who escape questioning
+  assigned_to:
+  - fig:2
+  basis: The quails flee, enter the hole, deny responsibility when questioned, and
+    are released.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: decoy planner
+  assigned_to:
+  - fig:3
+  basis: The singled-out smart quail places the cholla cactus branch in the hole before
+    the escape.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fat meat from Coyote
+  literal_form: pieces of fat meat cut from Coyote while he sleeps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cholla cactus branch decoy
+  literal_form: a cholla cactus branch pushed into the hole and later covered with
+    feathers so that it looks like a quail
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: hole refuge
+  literal_form: a hole into which the quails run and which Coyote digs out
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Meat taken from sleeping Coyote and fed to him
+  summary: While Coyote sleeps, quails cut fat meat from him, cook it, and give him
+    some when he asks for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quails reveal the meat’s source
+  summary: The quails call after Coyote that he ate his own meat, but they deflect
+    when he asks what they said.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Coyote pursues the quails
+  summary: After feeling his loss and realizing what happened, Coyote threatens to
+    eat the quails and chases them as they fly above him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hole escape and cactus death
+  summary: A smart quail places a cholla cactus branch in a hole. The quails enter;
+    Coyote digs them out, releases the quails after denials, then bites the feather-covered
+    cactus branch and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Unwitting consumption of one’s own body
+  taxonomy_refs: []
+  basis: Coyote eats meat that the quails had cut from him while he was sleeping,
+    and the quails later tell him it was his own meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the event literally but does not supply an explicit
+    symbolic interpretation.
+- id: motif:2
+  label: Pursued animals escape by decoy substitution
+  taxonomy_refs: []
+  basis: The quails flee into a hole after placing a cholla cactus branch there; Coyote
+    releases the quails and focuses on the feather-covered branch.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly call the cactus branch a decoy, but its
+    placement and later resemblance to a quail support the functional description.
+- id: motif:3
+  label: Fatal misrecognition of disguised object
+  taxonomy_refs: []
+  basis: Coyote interprets the silent feather-covered cactus branch as the guilty
+    quail, bites it hard, and is killed.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the supplied taxonomy
+    does not include a precise match.
+- id: motif:4
+  label: Angry pursuer outwitted by quarry
+  taxonomy_refs: []
+  basis: Coyote pursues the quails to eat them, but their hole-and-cactus strategy
+    leads to their escape and his death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a functional motif label derived from the episode; the passage
+    does not state a general tale type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12128-12136
+  quote_or_summary: The tale is titled “Coyote and the Quails.” Coyote sleeps soundly;
+    many quails cut fat meat from him, cook it, and give him some when he asks for
+    it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: 12136-12148
+  quote_or_summary: The quails call after Coyote that he ate his own meat, but when
+    he asks what they said, they claim they heard something else.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: 12149-12155
+  quote_or_summary: Coyote feels his loss, understands the quails’ statement, threatens
+    to eat them, and pursues them while they fly above ground.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: 12156-12162
+  quote_or_summary: At a hole, a smart quail places a cholla cactus branch inside;
+    the quails enter, and Coyote digs the hole out, questioning and releasing the
+    quails one by one after they deny responsibility.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:5
+  type: summary
+  locator: 12162-12164
+  quote_or_summary: After the quails are gone, Coyote comes to the feather-covered
+    cactus branch, takes its silence as guilt, bites it hard, and is killed.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not matched to supplied taxonomy families because no precise listed family
+    is directly supported by the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another named text, tradition, or motif family.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l12128-l12164
+  passage_sha256=0ba41e5e3eec9e5f6809c31ceee1437a372af57dcc291d6a6ca3dafd71f29a03
+

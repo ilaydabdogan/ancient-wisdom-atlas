@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l16982-l17147
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: X, 4, 5' SCHISMS AMONG THE SAMGUA. 3! I / A'ULLAVAGGA. / SECOND KHANDHAKA.
+    / C C 2; lines 16982-17147
+  start: '16982'
+  end: '17147'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An editorially noted, textually confused Vinaya passage enumerates disciplinary
+    cases for a Bhikkhu who has committed numerous named offences. The cases distinguish
+    concealment and non-concealment of offences before and after renewed upasampada,
+    then repeat the pattern for awareness, recollection, certainty, and for conditions
+    involving novice status, mental weakness, loss of mind, diseased sensations, and
+    recovery.
+  language: English translation with Pali technical terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial note states that the manuscripts are confused and that four concealed/not-concealed
+    case distinctions are required for the full set of cases.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage repeatedly treats a Bhikkhu who has committed numerous named disciplinary
+    offences, with some offences concealed and others not concealed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bhikkhu is described as having thrown off the robes and then received
+    upasampada again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cases distinguish whether previously concealed and previously not concealed
+    offences are concealed or not concealed after the renewed upasampada.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the awareness cases, the Bhikkhu conceals offences of which he is aware
+    and does not conceal offences of which he is not aware.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After renewed upasampada, previously unknown offences may become known, and
+    later concealment or non-concealment determines the stated penalty reference.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Two later sections repeat the awareness arrangement while substituting recollection
+    and certainty for awareness.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage extends the repeated cases to a Bhikkhu who becomes a Samawera,
+    goes out of his mind, becomes weak in mind, or becomes diseased in sensations.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When the Bhikkhu recovers power over his sensations, the passage resumes assessment
+    of certainty and concealment of offences.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The conditional rules are addressed with the formula “O Bhikkhus.”
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:11
+  text: A note points to related material above in chapter 27 and in the Mahavagga.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu subject to disciplinary cases
+  description: A Bhikkhu who has committed numerous named offences and is assessed
+    across concealment, awareness, recollection, certainty, reordination, and impairment
+    or recovery scenarios.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Bhikkhus addressed
+  description: The addressee group invoked by the repeated disciplinary formula “O
+    Bhikkhus.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Disciplinary offender and penalty subject
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhu has committed numerous offences, and the passage assigns penalty
+    references according to concealment and knowledge conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Renounced-and-reordained monastic subject
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhu is said to have thrown off the robes and again received upasampada.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Impaired and recovered subject
+  assigned_to:
+  - fig:1
+  basis: The repeated cases include going out of mind, becoming weak in mind, diseased
+    sensations, and later recovery of power over sensations.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Addressees of rule formulation
+  assigned_to:
+  - fig:2
+  basis: The cases are introduced with the address “O Bhikkhus.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Robes cast off
+  literal_form: robes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Concealment cases after renewed upasampada
+  summary: A Bhikkhu with numerous offences, some concealed and some not, throws off
+    robes, receives upasampada again, and is assessed under several later concealment
+    and non-concealment combinations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Awareness, recollection, and certainty variants
+  summary: The disciplinary pattern is repeated for offences known or unknown to the
+    Bhikkhu, then for offences recollected or not recollected, and certain or not
+    certain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mental or sensory impairment and recovery
+  summary: The repeated cases are applied to a Bhikkhu who becomes a Samawera, loses
+    or weakens his mind, or becomes diseased in sensations; after recovery, certainty
+    and concealment are again considered.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Enumerated concealment and non-concealment permutations
+  taxonomy_refs: []
+  basis: The passage organizes disciplinary rulings around combinations of offences
+    concealed or not concealed before and after a later point.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal-disciplinary pattern, not a mythic narrative motif.
+- id: motif:2
+  label: Renunciation and renewed ordination before judgment
+  taxonomy_refs:
+  - initiation
+  basis: The Bhikkhu throws off the robes and again receives upasampada before later
+    disciplinary assessment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The initiation taxonomy reference is only partial; the passage treats
+    procedural reordination and penalties rather than an initiatory myth.
+- id: motif:3
+  label: Knowledge, memory, and certainty as conditions for accountability
+  taxonomy_refs: []
+  basis: The cases turn on whether the Bhikkhu is aware, recollects, or is certain
+    about offences, and whether those offences are concealed later.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted as a procedural pattern within monastic law.
+- id: motif:4
+  label: Impairment and recovery before renewed adjudication
+  taxonomy_refs: []
+  basis: The passage includes loss or weakness of mind, diseased sensations, recovery
+    of power over sensations, and then renewed assessment of offences.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a rule-case sequence, not an extended narrative of illness
+    and restoration.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links these repeated disciplinary cases to nearby Vinaya
+    material by saying the last chapter is repeated and by citing chapter 27 and Mahavagga
+    passages.
+  claim_level: same_function
+  target: Previous chapter, chapter 27, and Mahavagga II, 22, 3; IX, 4, 7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only internal cross-reference and repetition;
+    it does not establish a broader historical or mythological comparison.
+evidence:
+- id: ev:1
+  type: note
+  locator: 16982-17025
+  quote_or_summary: 'Editorial note: the manuscripts are said to be confused; four
+    concealed/not-concealed case distinctions are required, with a supplied bracketed
+    first case and corrections.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+- id: ev:2
+  type: summary
+  locator: 17026-17075
+  quote_or_summary: Cases introduced with “In case, O Bhikkhus” concern a Bhikkhu
+    who has committed numerous Sa?;/ghadisesa offences, some concealed and some not;
+    after throwing off robes and receiving upasampada again, later concealment/non-concealment
+    combinations lead to the same penalty reference.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+- id: ev:3
+  type: summary
+  locator: 17076-17124
+  quote_or_summary: A second set divides offences by whether the Bhikkhu is aware
+    or unaware; he conceals known offences and not unknown ones; after renewed upasampada
+    and later awareness, penalties vary according to later concealment or non-concealment.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+- id: ev:4
+  type: summary
+  locator: 17125-17132
+  quote_or_summary: Sections 4 and 5 are stated to be the same as section 3, replacing
+    awareness/not-awareness with recollection/not-recollection and certainty/not-certainty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+- id: ev:5
+  type: summary
+  locator: 17133-17145
+  quote_or_summary: The last chapter is repeated for a Bhikkhu who becomes a Samawera,
+    goes out of his mind, becomes weak in mind, or becomes diseased in sensations;
+    after recovery of power over sensations, certainty and concealment are considered
+    again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+- id: ev:6
+  type: citation
+  locator: 17146-17147
+  quote_or_summary: 'Cross-reference note: “See above, chap. 27, and Mahavagga II,
+    22, 3 ; IX, 4, 7.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Passage supplied in request; source path indicates public-domain Project
+    Gutenberg, while rights_status metadata is null.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is procedural Vinaya material with OCR/editorial confusion and
+    bracketed restorations. Extracted motifs are legal-disciplinary patterns; only
+    one taxonomy mapping is partial and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures or cosmological symbols are present in this passage; the extraction emphasizes procedural patterns of concealment, knowledge, status change, and recovery.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l16982-l17147
+  passage_sha256=af65ac766f60f3e0af46b7b07ef20429ac89ca6d87d5ba728130da9411c4b2a4
+

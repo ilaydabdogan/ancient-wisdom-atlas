@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.texts-public-domain-andamanese-project-gutenberg-aboriginal-inhabitants-andaman-man-md-l10166-l10178
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: ANDAMANESE EQUIPPED FOR JOURNEY. / ANDAMANESE SHOOTING, DANCING, SLEEPING,
+    AND GREETING. / PLATE IX. / SHOOTING FISH IN TIDAL CREEK NEAR PORT BLAIR.; lines
+    10166-10178
+  start: '10166'
+  end: '10178'
+  translation: aboriginal-inhabitants-andaman-man
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage quotes or paraphrases Mouat on Mincop''ie/Mineopie canoes:
+    they are praised as potentially excellent lifeboats, but outsiders skilled in
+    ordinary boats are said to capsize them when attempting to paddle. It also reports
+    an allusion that Mineopie people attach an outrigger to a boat when going to sea,
+    resembling the outrigger used by Cingalese fishermen.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mouat is cited as saying the boats would make excellent lifeboats.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People skilled at rowing, steering, and guiding ordinary boats are described
+    as being at a loss in a Mincop'ie canoe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Outsiders who attempted to paddle a Mincop'ie canoe a little way to sea are
+    said to have capsized and been drenched in the water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the Mineopie go to sea, they are reported to attach an outrigger to some
+    part of the boat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The outrigger attachment is said to resemble, in some respects, the outrigger
+    attached by Cingalese fishermen to their boats.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mincop'ie / Mineopie
+  description: People associated in the passage with canoes and with going to sea
+    in boats fitted with an outrigger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: outsiders skilled in ordinary boats
+  description: Men described as adept in ordinary rowing, steering, and guiding, but
+    unable to handle a Mincop'ie canoe without capsizing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cingalese fishermen
+  description: Fishermen cited as attaching an outrigger to their boats, in comparison
+    with the Mineopie practice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mouat
+  description: Quoted writer whose statements about lifeboats, canoes, and outriggers
+    are cited in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: canoe users at sea
+  assigned_to:
+  - fig:1
+  basis: The passage says the Mineopie go to sea in boats and attach an outrigger.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: unsuccessful canoe paddlers
+  assigned_to:
+  - fig:2
+  basis: The passage says these men attempted to paddle a Mincop'ie canoe and capsized.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: comparative outrigger users
+  assigned_to:
+  - fig:3
+  basis: The passage compares the Mineopie outrigger to one attached by Cingalese
+    fishermen.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cited observer or writer
+  assigned_to:
+  - fig:4
+  basis: The passage cites Mouat as the source for the lifeboat and outrigger remarks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mincop'ie canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: outrigger
+  literal_form: boat outrigger
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sea and water
+  literal_form: sea; water in which capsized paddlers are drenched
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lifeboat
+  literal_form: lifeboat
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Assessment of canoes as lifeboats
+  summary: Mouat is cited as praising the boats as excellent potential lifeboats,
+    while the passage notes possible practical consequences for lifeboat institutions.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Outsiders capsize a Mincop'ie canoe
+  summary: Men experienced with ordinary boats attempt to paddle a Mincop'ie canoe
+    out to sea, capsize, and are drenched.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mineopie outrigger comparison
+  summary: The passage reports Mouat's statement that Mineopie people attach an outrigger
+    to a boat when going to sea, and compares this to the practice of Cingalese fishermen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly reports a resemblance between the Mineopie sea-going
+    boat outrigger and the outrigger attached by Cingalese fishermen to their boats.
+  claim_level: visual_similarity
+  target: Cingalese fishermen's boat outrigger
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states only that the resemblance is partial and does not
+    establish historical contact, shared origin, or mythic significance.
+- id: claim:2
+  claim: The passage presents both Mineopie and Cingalese fishermen as using outriggers
+    in connection with boats.
+  claim_level: same_function
+  target: outrigger use on boats
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The function of the outrigger is not explained in detail, and the comparison
+    is based only on the cited allusion.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10166-10169
+  quote_or_summary: Mouat is cited as saying the boats would make excellent lifeboats.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10169-10174
+  quote_or_summary: Experienced handlers of ordinary boats are said to be at a loss
+    in a Mincop'ie canoe; men who attempted to paddle one out to sea capsized and
+    were drenched.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10176-10178
+  quote_or_summary: Mouat is cited as saying that when the Mineopie go to sea they
+    attach an outrigger to a boat, resembling in some respects the outrigger used
+    by Cingalese fishermen.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is ethnographic/technological rather than mythological. Literal
+    extraction is limited by OCR irregularities and variant spellings of Mincop'ie/Mineopie.
+    No mythic motif candidate is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological motif family is assigned. The only comparison claims are limited to the passage's explicit outrigger comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-andamanese-project-gutenberg-aboriginal-inhabitants-andaman-man-md__l10166-l10178
+  passage_sha256=111b0f0bab28de1ffd1f115b348063dffde3c8c4603a542427d2ccc8c38702db
+

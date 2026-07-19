@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l886-l930
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: JTULLAVAGGA. / IV, 4, 9- / TV, 6, 2 . / TIIE SETTLEMENT OF DISPUTES.; lines
+    886-930
+  start: '886'
+  end: '930'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage sets out cases concerning a monastic dispensation for those
+    who are no longer insane. A sane monk who has committed an offence and deceptively
+    acts like an insane person when warned is not validly granted the dispensation.
+    A monk who was insane and out of his mind, committed improper acts or speech while
+    in that state, and genuinely does not remember the offences may validly receive
+    the dispensation.
+  language: English translation with Indic monastic terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bhikkhu who has committed an offence may be warned about it by the Saṅgha,
+    by several Bhikkhus, or by a single Bhikkhu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The warning asks whether the Bhikkhu calls to mind that he has been guilty
+    of a specified offence.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: A Bhikkhu who is not insane but acts in a deceptive way like an insane person
+    is not validly granted the dispensation for those who are no longer insane.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that there are three cases in which the grant of this dispensation
+    is not valid.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Bhikkhu described as insane and out of his mind may have committed many
+    things unworthy of a samana in speech and act.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the formerly insane Bhikkhu truly does not remember the offence and says
+    he does not remember, the dispensation is validly granted.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu accused of an offence
+  description: A monk who has committed or is said to have committed an offence and
+    is warned about it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Saṅgha, several Bhikkhus, or a single Bhikkhu
+  description: The monastic body or individual monks who warn the accused Bhikkhu
+    and may grant the dispensation.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Sane Bhikkhu acting deceptively like an insane person
+  description: A monk who is not insane but acts in the deceptive way of an insane
+    person when warned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Insane and out-of-his-mind Bhikkhu
+  description: A monk who was insane and out of his mind when he committed improper
+    things in speech and act and later genuinely does not remember them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Accused offender
+  assigned_to:
+  - fig:1
+  basis: The figure is warned about a specified offence and asked whether he remembers
+    being guilty of it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Admonishing authority
+  assigned_to:
+  - fig:2
+  basis: The Saṅgha, several Bhikkhus, or a single Bhikkhu warn the monk about the
+    offence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Dispensation-granting body
+  assigned_to:
+  - fig:2
+  basis: The Saṅgha grants the dispensation in the examples of invalid and valid grants.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: Deceptive claimant of insanity
+  assigned_to:
+  - fig:3
+  basis: The monk is explicitly said not to be insane while acting in the deceptive
+    way of an insane person.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Genuinely incapacitated offender without memory
+  assigned_to:
+  - fig:4
+  basis: The monk is described as insane and out of his mind when committing acts
+    and as really not remembering the offence.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Invalid dispensation after deceptive conduct
+  summary: A monk who has committed an offence is warned by monastic authorities.
+    Although not insane, he behaves deceptively like an insane person. If the Saṅgha
+    grants him the dispensation for those who are no longer insane, the grant is declared
+    invalid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Statement of invalid cases
+  summary: The passage summarizes that there are three cases in which a grant of the
+    dispensation for those who are no longer insane is not valid.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Valid dispensation after genuine insanity and lack of memory
+  summary: A monk was insane and out of his mind when he committed improper acts and
+    speech. When warned, he truly does not remember the offence. If the Saṅgha grants
+    him the dispensation for those who are no longer insane, the grant is declared
+    valid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Validity of dispensation based on genuine mental incapacity
+  taxonomy_refs: []
+  basis: The passage contrasts an invalid dispensation for a sane monk feigning insanity
+    with a valid dispensation for one who was genuinely insane and lacks memory of
+    the offence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a legal-monastic procedural pattern rather than a mythological
+    motif in the supplied taxonomy.
+- id: motif:2
+  label: False madness as deceptive avoidance of responsibility
+  taxonomy_refs: []
+  basis: The passage describes a monk who is not insane but acts in the deceptive
+    way of an insane person after being warned about an offence, resulting in an invalid
+    grant.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives this as a disciplinary case, not as a narrative mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 894-911
+  quote_or_summary: A Bhikkhu who has committed an offence is warned by the Saṅgha,
+    several Bhikkhus, or one Bhikkhu. Though not insane, he acts deceptively like
+    an insane person; if the Saṅgha grants the dispensation for those no longer insane,
+    the grant is not valid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 912-914
+  quote_or_summary: The passage states that there are three cases in which a grant
+    of the dispensation for those no longer insane is not valid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 916-928
+  quote_or_summary: A Bhikkhu who was insane and out of his mind committed many things
+    unworthy of a samana in speech and act. When warned, he truly does not remember
+    and says he does not remember; if the Saṅgha grants the dispensation, the grant
+    is valid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: note
+  locator: lines 929-930
+  quote_or_summary: A note glosses the term for acting in the way of an insane person
+    and says the word recurs in the following section.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural content is clear, but motif classification is limited because
+    the passage is monastic legal material and no supplied taxonomy motif family closely
+    matches it. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in this passage. No cross-tradition comparison is supported by the passage itself.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l886-l930
+  passage_sha256=538b6109d0e23e3c14aae6a521f2384a7b54f585508e04d5d5f095222abf8ac4
+

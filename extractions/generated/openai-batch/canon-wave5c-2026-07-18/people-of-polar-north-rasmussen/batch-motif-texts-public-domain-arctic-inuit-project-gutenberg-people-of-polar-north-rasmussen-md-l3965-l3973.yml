@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l3965-l3973
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: PART II / PRIMITIVE VIEWS OF LIFE / OSARQAQ. / THE CREATION; lines 3965-3973
+  start: '3965'
+  end: '3973'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two newly married travelers without children make drinking-cups from musk-ox
+    horns from the same head, set off in different directions with sledges, plan to
+    meet again, take a long time to go round the world, have children, and become
+    so old that their children guide them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two persons are described as anxious to begin traveling.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two travelers have recently taken wives and have no children at the start
+    of the passage.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each traveler cuts a drinking-cup from musk-ox horns, with both cups cut from
+    the same head.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The two travelers depart in separate directions with the intention of meeting
+    again someday.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They travel with sledges and make camp when summer comes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Their journey around the world takes a long time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During the long journey they have children; both the parents and the children
+    grow old.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the parents become unable to walk alone, the children guide them.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the two travelers
+  description: A pair who are anxious to travel, newly married, initially childless,
+    and later parents on a long journey.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: wives of the two travelers
+  description: The wives recently taken by the two travelers before the journey begins.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children of the travelers
+  description: Children born during the long journey; they grow old and eventually
+    guide their aged parents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: departing travelers
+  assigned_to:
+  - fig:1
+  basis: They set out in different directions with sledges after preparing cups.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: aging parents
+  assigned_to:
+  - fig:1
+  basis: They have children during the journey and later become too old to walk alone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: wives
+  assigned_to:
+  - fig:2
+  basis: The passage says the two travelers had just taken wives.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: children and guides
+  assigned_to:
+  - fig:3
+  basis: The children grow old and guide the parents when the parents cannot walk
+    alone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: paired drinking-cups from one musk-ox head
+  literal_form: drinking-cups cut from musk-ox horns, one for each traveler, from
+    the same head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sledges
+  literal_form: sledges used for travel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: world-circling route
+  literal_form: a journey described as going round the world
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation for departure
+  summary: The two newly married, childless travelers prepare drinking-cups from musk-ox
+    horns from the same head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Separate departure
+  summary: The two travelers set out in different directions, each with his own route,
+    expecting to meet again someday.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Long journey and generational aging
+  summary: The journey around the world lasts so long that the travelers have children,
+    the children grow old, and the aged parents are guided by them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: departure of paired travelers
+  taxonomy_refs:
+  - departure
+  basis: The two travelers prepare objects and leave in separate directions with an
+    intention to reunite later.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a departure sequence but does not explain the larger
+    purpose of the journey in this excerpt.
+- id: motif:2
+  label: world-circling journey across generations
+  taxonomy_refs: []
+  basis: The passage describes a long journey around the world during which children
+    are born and both generations grow old.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No available taxonomy reference directly matches a world-circling, multi-generational
+    travel motif.
+- id: motif:3
+  label: separation with promised reunion
+  taxonomy_refs: []
+  basis: The two travelers set off in different directions while expecting to meet
+    again someday.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reunion itself is not narrated in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3965-3967
+  quote_or_summary: Two people who want to travel have just taken wives and do not
+    yet have children.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3967-3968
+  quote_or_summary: Each of the two cuts a drinking-cup from musk-ox horns, both from
+    the same head.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3968-3970
+  quote_or_summary: They set out separately, each in his own direction, with a plan
+    to meet again someday.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3970-3971
+  quote_or_summary: They travel with sledges and encamp when summer comes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3971-3972
+  quote_or_summary: It takes them a long time to get around the world; they have children
+    and both generations grow old.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 3972-3973
+  quote_or_summary: The parents become so old they cannot walk alone, and their children
+    guide them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Provided passage from repository path marked public-domain; source
+    metadata rights_status not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the passage. Motif labels are cautious
+    and limited to the supplied excerpt; no external comparisons are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No tradition or culture metadata was supplied beyond the repository path and passage context.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l3965-l3973
+  passage_sha256=2bad762df99372c6351e10952aa048a87d5922fa63c12b6dc5cc9bfcbb7bf317
+

@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md-l33116-l33126
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: TWENTY-THIRD ANNUAL REPORT PL. CXXXVI / SCALP CUSTODIAN / THE ZUNI INDIAKS
+    / ROAD OK DAY; lines 33116-33126
+  start: '33116'
+  end: '33126'
+  translation: zuni-indians-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The author states that a comparative study of the Pueblos is needed before
+    explaining the origins of religious organizations and rituals. The passage says
+    villages are losing old landmarks and people are adapting to a changed environment.
+    It describes Zuni religion as teaching unified speech, gentleness, and restraint
+    of passions to win the favor of the gods, but says modern conditions are weakening
+    this religious restraint.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A comparative study of the Pueblos is said to be necessary before explaining
+    the origins of fundamental religious organizations and rituals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Villages are described as losing old-time landmarks.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people are described as changing and adapting to a suddenly and profoundly
+    altered environment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Zuni religion is described as teaching the people to speak with one tongue,
+    be gentle to all, and subdue the passions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The practices taught by the religion are said to win the favor of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Modern conditions are said to weaken the restraining power of this religion,
+    with the result that the people are changing for the worse.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Pueblos
+  description: The group or communities for which the author says a comparative study
+    must be made.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Zuni people
+  description: The people whose religion is described as teaching unified speech,
+    gentleness, and restraint of passions, and who are said to be affected by modern
+    conditions.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: gods
+  description: Divine beings whose favor is said to be won through the religious conduct
+    described in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: subject of proposed comparative study
+  assigned_to:
+  - fig:1
+  basis: The passage states that a comparative study of the Pueblos must be made before
+    exposition of origins and rituals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: community taught by religion
+  assigned_to:
+  - fig:2
+  basis: The passage describes Zuni religion as teaching speech, gentleness, and passion-restraint.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine favor granters
+  assigned_to:
+  - fig:3
+  basis: The passage says the described religious conduct wins the favor of the gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: community undergoing modern change
+  assigned_to:
+  - fig:2
+  basis: The passage says modern conditions are weakening the restraining power of
+    religion among the Zuni.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: one-tongue speech formula
+  literal_form: speak with one tongue
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Need for comparative Pueblo study amid change
+  summary: The author says that explaining origins of religious organizations and
+    rituals requires a comparative study of the Pueblos, especially because villages
+    and people are changing.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Zuni religious restraint and its weakening
+  summary: The passage describes Zuni religion as teaching unified speech, gentleness,
+    and restraint to win divine favor, then says modern conditions are eroding this
+    restraining power.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Moral-religious discipline linked to divine favor
+  taxonomy_refs: []
+  basis: The passage says the religion teaches unified speech, gentleness, and passion-restraint,
+    thereby winning favor from the gods.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic statement about religious teaching, not a narrated
+    myth episode; no ritual details are provided in the passage.
+- id: motif:2
+  label: Weakening of religious restraint under modern change
+  taxonomy_refs: []
+  basis: The passage says modern conditions are causing the people to lose the restraining
+    power of their religion and change for the worse.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a historical-social pattern in the author’s commentary rather
+    than a traditional mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 33116-33121
+  quote_or_summary: Before explaining origins of religious organizations and rituals,
+    the author says a comparative study of the Pueblos is needed; villages and people
+    are changing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata; summarized evidence used.
+- id: ev:2
+  type: summary
+  locator: 33121-33124
+  quote_or_summary: Zuni religion is described as teaching the people to speak with
+    one tongue, be gentle to all, and subdue passions, thereby winning favor of their
+    gods.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata; summarized evidence used.
+- id: ev:3
+  type: summary
+  locator: 33124-33126
+  quote_or_summary: Under modern conditions, the Zuni are said to be losing the restraining
+    power of their religion and changing for the worse.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Rights status not supplied in metadata; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about religious teaching and social change, but it
+    contains no narrative myth episode and no concrete comparison beyond the author’s
+    call for comparative study.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif refs were assigned because the passage does not clearly support one of the provided motif-family categories. The symbol entry records a literal speech formula from the passage without assigning a broader taxonomy.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md__l33116-l33126
+  passage_sha256=fcf96dc04894180df512e23fc04903c253578e1a650e7ec19551309382e4da5c
+

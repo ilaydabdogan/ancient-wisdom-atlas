@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md-l86-l99
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: 'FROM COAST TO CAPITAL : NOTES OF A JOURNEY FROM MA- / HANORO TO ANTANANARIVO
+    I / CHAPTER n. / IMERINA THE CENTRAL PROVINCE : ITS PHYSICAL FEATURES AND; lines
+    86-99'
+  start: '86'
+  end: '99'
+  translation: madagascar-before-conquest-sibree
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A chapter heading and topical outline for a section on Imerina, the central
+    province of Madagascar, listing physical geography, settlements, Hova associations,
+    houses, tombs, trees, children’s games, chapels, and schools.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as concerning Imerina, the central province,
+    and its physical features.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The outline lists geographic features including coast lagoons, forest, climbing
+    plants, Ankay Plain, an upper forest belt, mountains, prominent peaks, bare uplands,
+    extinct volcanoes, the island watershed, and lakes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Imerina or Ankova is glossed as the home of the Hova.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The outline lists human settlement and cultural topics including population,
+    sacred towns, village fortifications, an Imerina village, ancient villages on
+    high hills, Hova houses, ox-fattening pits, native tombs, trees, Hova children
+    and games, village chapels, and schools.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Imerina or Ankova
+  description: The central province discussed in the chapter outline; glossed as the
+    home of the Hova.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Hova
+  description: A people or group associated with Imerina or Ankova as their home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hova children
+  description: Children mentioned in connection with games in the topical outline.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: central province setting
+  assigned_to:
+  - fig:1
+  basis: The chapter heading names Imerina as the central province under discussion.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: home-place relationship
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage glosses Imerina or Ankova as the home of the Hova.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: children associated with games
+  assigned_to:
+  - fig:3
+  basis: The outline includes Hova children and games among its topics.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain landscape
+  literal_form: Mountains, prominent peaks, and high hills
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: water landscape
+  literal_form: Coast lagoons, watershed, and lakes
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: trees and forest vegetation
+  literal_form: Forest, climbing plants, and trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: sacred towns
+  literal_form: Sacred towns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: native tombs
+  literal_form: Native tombs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Topical overview of Imerina
+  summary: The passage presents a chapter outline moving from Madagascar geography
+    and journey topics to Imerina’s physical landscape and then to settlement, domestic,
+    funerary, educational, and religious structures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred settlement landscape
+  taxonomy_refs: []
+  basis: The outline explicitly includes sacred towns and ancient villages on high
+    hills within the discussion of Imerina settlements.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a topical chapter outline rather than a mythic narrative; the
+    passage gives no ritual, narrative, or doctrinal details about the sacred towns.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 86-88
+  quote_or_summary: Chapter heading identifies the topic as Imerina, the central province,
+    and its physical features.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain corpus; no additional rights metadata
+    supplied.
+- id: ev:2
+  type: summary
+  locator: 90-96
+  quote_or_summary: The topical outline lists journey and geography subjects including
+    lagoons, scenery, forest, climbing plants, plains, forest belt, mountains, uplands,
+    geology, soil, extinct volcanoes, watershed, and lakes.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain corpus; no additional rights metadata
+    supplied.
+- id: ev:3
+  type: quote
+  locator: '94'
+  quote_or_summary: Imerina or Ankova " Home of the Hova "
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain corpus; no additional rights metadata
+    supplied.
+- id: ev:4
+  type: summary
+  locator: 97-99
+  quote_or_summary: The outline lists population, sacred towns, village fortifications,
+    maps, villages, high-hill ancient villages, Hova houses, ox-fattening pits, native
+    tombs, trees, children and games, village chapels, and schools.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain corpus; no additional rights metadata
+    supplied.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage being a chapter heading and
+    contents-style outline, not a narrative passage. Motif identification is therefore
+    tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md__l86-l99
+  passage_sha256=013b1ccdc9b09e6df3a07b827dd4404f0c10611d6fd752b1a72fbc8408647cb3
+

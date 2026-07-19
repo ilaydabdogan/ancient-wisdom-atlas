@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l3714-l3765
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: ON THE DAILY LIFE OF THE BHIKKHUS. / STULLAVAGGA. / Y 9. 3- / ON THE DAILY
+    LIFE OF THE BHIKKI-IUS.; lines 3714-3765
+  start: '3714'
+  end: '3765'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya passage describes several cases in which monks' bowls are damaged
+    because they are left unsupported in the open air, placed on edges, or set upside
+    down on the ground. Each incident is reported to the Blessed One, who permits
+    supports for bowls and prohibits unsafe placements, assigning a dukkaṭa offence
+    for violations.
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several bowls were left in the open air without supports.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A whirlwind turned the unsupported bowls over and broke them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The matter of the broken bowls was reported to the Blessed One.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Blessed One allowed monks to use supports for bowls when bowls are left
+    out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Monks placed bowls at the edge of sleeping-benches in verandahs, and the bowls
+    fell and broke.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Blessed One prohibited placing bowls on the edge of sleeping-benches in
+    the verandah and stated that doing so incurs a dukkaṭa offence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Monks placed bowls on the edge of the Paribhaṇḍa, and the bowls fell and broke.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Blessed One prohibited placing bowls on the edge of the Paribhaṇḍa and
+    stated that doing so incurs a dukkaṭa offence.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Monks turned bowls upside down on the ground, and the lips of the bowls wore
+    out.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A note glosses Paribhaṇḍa, in the context of a house, as probably a plastered
+    flooring of scented earth or dried cowdung.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Blessed One
+  description: Authority to whom the incidents are reported and who issues permissions
+    and prohibitions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monks who leave, place, or turn bowls in ways that result in damage,
+    and who receive the rules.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: rule-giving authority
+  assigned_to:
+  - fig:1
+  basis: The Blessed One allows bowl supports and prohibits unsafe bowl placements
+    with a stated offence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: regulated monastic community
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus perform the actions that lead to damaged bowls and are addressed
+    by the rules.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: bowls
+  literal_form: monastic bowls
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: supports for bowls
+  literal_form: supports permitted for bowls left out
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: whirlwind
+  literal_form: wind event that turns bowls over
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: verandah sleeping-bench edge
+  literal_form: edge of sleeping-benches in verandahs where bowls are placed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Paribhaṇḍa edge
+  literal_form: edge of the Paribhaṇḍa where bowls are placed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: ground
+  literal_form: ground on which bowls are turned upside down
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Bowls broken by whirlwind
+  summary: Bowls left outside without supports are overturned by a whirlwind and break;
+    after the matter is reported, the Blessed One permits supports for bowls left
+    out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bowls fall from verandah benches
+  summary: Monks place bowls on the edge of sleeping-benches in verandahs; the bowls
+    fall and break, and the Blessed One prohibits that placement with a dukkaṭa penalty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bowls fall from the Paribhaṇḍa edge
+  summary: Monks place bowls on the edge of the Paribhaṇḍa; the bowls fall and break,
+    and the Blessed One prohibits that placement with a dukkaṭa penalty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Bowl lips worn on the ground
+  summary: Monks turn bowls upside down on the ground, causing the lips of the bowls
+    to wear out.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Practical mishap becomes monastic rule
+  taxonomy_refs: []
+  basis: The passage repeatedly presents bowl damage, a report to the Blessed One,
+    and a resulting permission or prohibition governing monastic practice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a regulatory narrative pattern within Vinaya material rather than
+    a mythological motif from the supplied taxonomy.
+- id: motif:2
+  label: Protection of ritual or monastic implements
+  taxonomy_refs: []
+  basis: The rules concern preventing damage to monks' bowls through supports and
+    restrictions on where bowls may be placed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage treats bowls as practical monastic possessions; any broader
+    symbolic meaning is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3716-3720
+  quote_or_summary: A number of bowls left in the open air without supports are turned
+    over by a whirlwind and broken.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 3721-3726
+  quote_or_summary: The matter is reported to the Blessed One, who allows supports
+    for bowls when they are left out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 3728-3731
+  quote_or_summary: Monks put bowls at the edge of sleeping-benches in verandahs;
+    the bowls fall and break.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 3732-3738
+  quote_or_summary: After the matter is reported, the Blessed One says monks are not
+    to put bowls on the edge of sleeping-benches in the verandah; doing so is a dukkaṭa
+    offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 3740-3743
+  quote_or_summary: Monks put bowls on the edge of the Paribhaṇḍa; the bowls fall
+    and break.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: 3744-3750
+  quote_or_summary: After the matter is reported, the Blessed One says monks are not
+    to put bowls on the edge of the Paribhaṇḍa; doing so is a dukkaṭa offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: 3752-3755
+  quote_or_summary: Monks turn bowls upside down on the ground, and the lips of the
+    bowls wear out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+- id: ev:8
+  type: note
+  locator: 3761-3765
+  quote_or_summary: A note states that Paribhaṇḍa, used of a house, probably means
+    a plastered flooring of scented earth or dried cowdung and cites related Vinaya
+    passages and commentary.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Supplied passage; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are limited to local
+    regulatory patterns because the passage does not support broader mythological
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because none of the supplied taxonomy items is directly supported by this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l3714-l3765
+  passage_sha256=df688c21ac091b6ee163d802d8f5ff2abb278e52a6482fa447e38a7e104ae540
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l412-l436
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: NATIVE HOUSES / NATIVE HOUSES / NATIVE HOUSES / NATIVE HOUSES; lines 412-436
+  start: '412'
+  end: '436'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes the quiet surroundings of a native house, with coconut
+    fronds, murmuring voices inside, and coconut husks floating in an inlet. The narrator
+    leaves through a bamboo wicket gate to explore and then notices a small seven-year-old
+    girl watching with awe, fear, and curiosity, her hands pressed to her chest and
+    her curls standing in spirals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes over-arching coconut fronds near a house.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No birdsong is heard; the audible sounds are murmuring voices from a crowd
+    inside the house and a rhythmic swish from coconut husks floating in an inlet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator turns out through a bamboo wicket gate, intending to explore.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator describes the feeling of exploration through a literary simile
+    about a lone watcher seeing a new planet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A small seven-year-old girl is seen gazing at the narrator with solemn black
+    eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The girl's expression combines awe, fear, and curiosity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The girl presses her hands on her bare chest as if to quiet fright.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The girl's black curls stand up in short spirals over her head.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person observer who leaves the bamboo gate to explore and then
+    notices the child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Seven-year-old girl
+  description: A coffee-coloured, curly-headed little girl with solemn black eyes,
+    watching the narrator with awe, fear, and curiosity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Crowd within the house
+  description: An unseen group whose murmuring voices are heard from inside the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: exploring observer
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator leaves the gate eager for exploration and notices
+    the child.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: watching child
+  assigned_to:
+  - fig:2
+  basis: The child gazes at the narrator with awe, fear, and curiosity.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: unseen house occupants
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a crowd within the house heard through murmuring voices.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: coconut fronds
+  literal_form: over-arching coconut fronds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inlet with floating coconut husks
+  literal_form: a little inlet with innumerable coconut husks floating in an almost
+    solid mass
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bamboo wicket gate
+  literal_form: bamboo wicket gate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: new planet simile
+  literal_form: comparison to a lone watcher seeing a new planet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: hands pressed to chest
+  literal_form: the girl's hands pressed one upon the other on her bare chest
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quiet house surroundings
+  summary: The passage presents a quiet outdoor setting around a house, marked by
+    coconut fronds, lack of birdsong, voices from inside, and coconut husks swishing
+    in a nearby inlet.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure through the gate
+  summary: The narrator leaves through a bamboo wicket gate to explore, framing the
+    moment with a simile of discovery.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Encounter with watching child
+  summary: The narrator becomes aware of a small girl gazing at them with awe, fear,
+    and curiosity; her hands are pressed to her chest and her curls stand up in spirals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: threshold departure for exploration
+  taxonomy_refs:
+  - departure
+  basis: The narrator passes out through a gate eager for exploration, marking a literal
+    movement from one space into another.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is a travel-description episode, not a mythic narrative; the departure
+    taxonomy reference is only a weak structural resemblance.
+- id: motif:2
+  label: first encounter with awestruck watcher
+  taxonomy_refs: []
+  basis: After leaving to explore, the narrator suddenly becomes aware of a child
+    watching with awe, fear, and curiosity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage supports this as a narrative situation, but not as a formal
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 412-419
+  quote_or_summary: The surroundings include coconut fronds, silence from birds, murmuring
+    voices inside the house, and a rhythmic swish from coconut husks floating in a
+    nearby inlet.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Source indicated as public-domain Project Gutenberg text in request
+    metadata.
+- id: ev:2
+  type: quote
+  locator: lines 419-425
+  quote_or_summary: The narrator turns out of the bamboo wicket gate eager for exploration
+    and compares the feeling to being like a lone watcher when a new planet appears.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Short excerpt/summary from public-domain Project Gutenberg text as
+    indicated in request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 426-431
+  quote_or_summary: The narrator suddenly notices a small seven-year-old girl gazing
+    with solemn black eyes, awestruck and spellbound; her expression shows awe, fear,
+    and curiosity.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Source indicated as public-domain Project Gutenberg text in request
+    metadata.
+- id: ev:4
+  type: summary
+  locator: lines 431-436
+  quote_or_summary: The girl's hands are pressed on her bare chest as if to quiet
+    fright, and her glossy black curls stand in short spirals over her head.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Source indicated as public-domain Project Gutenberg text in request
+    metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are weak because
+    the passage is descriptive travel prose and does not itself present a mythic or
+    ritual narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, or broader comparative claims are supported by the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l412-l436
+  passage_sha256=518aa4c911e373bf9c993a9ac9ef3d676f1ce717ec85d68c7043db219a34bd0c
+

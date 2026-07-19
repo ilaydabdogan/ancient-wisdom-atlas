@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l36915-l37020
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: LEGEND   OF  GHOST  HHX / TETQN   BIOXJX  MUSIC / BUREAU   OP  AMERICAN  JITHNOLOGY
+    / BUBEAU   OF  AMEBICAN   ETHNOLOGY; lines 36915-37020
+  start: '36915'
+  end: '37020'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents two songs, No. 228, “They Depend Upon You,” sung by
+    Silent Woman, and No. 229, “I Donated a Horse,” sung by Shooter. Both are analyzed
+    as praise or honor songs. Their words address Two White Buffalo, urging courage
+    and referring to donations of money and a horse.
+  language: English with transcribed Dakota/Lakota song text and English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Song No. 228 is titled “They Depend Upon You” and is attributed as sung by
+    Silent Woman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The glossed words of Song No. 228 address Two White Buffalo, urge courage,
+    say that the committee depends upon the addressee, and state that money was donated.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis identifies Song No. 228 as one of the tribe’s praise songs or
+    honor songs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Song No. 229 is titled “I Donated a Horse” and is attributed as sung by Shooter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The glossed words of Song No. 229 address Two White Buffalo, urge courage,
+    and state that a horse was donated.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The analysis states that Song No. 229, like the preceding song, is a praise
+    song with new words inserted.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage gives musical analysis for the songs, including tonality, scale,
+    intervals, progressions, renditions, and rhythmic unit.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Silent Woman
+  description: Named singer of Song No. 228.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shooter
+  description: Named singer of Song No. 229.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Two White Buffalo
+  description: Named addressee in the glossed words of both songs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: the committee
+  description: Group mentioned in the gloss of Song No. 228 as depending upon Two
+    White Buffalo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the songs were sung by Silent Woman and Shooter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: addressed recipient of praise or exhortation
+  assigned_to:
+  - fig:3
+  basis: The glossed song words address Two White Buffalo and urge courage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: dependent group
+  assigned_to:
+  - fig:4
+  basis: The gloss of Song No. 228 says the committee depends upon the addressee.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: money / white metal
+  literal_form: money, literally glossed as “white metal”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: horse
+  literal_form: a horse donated in Song No. 229
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: praise or honor song
+  literal_form: song identified as a praise song or honor song
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Song No. 228 honors and exhorts Two White Buffalo
+  summary: A song sung by Silent Woman addresses Two White Buffalo, urges courage,
+    says the committee depends upon the addressee, and mentions donated money; the
+    analysis classifies it as a praise or honor song.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Song No. 229 mentions donation of a horse
+  summary: A song sung by Shooter addresses Two White Buffalo, urges courage, and
+    states that a horse was donated; the analysis classifies it as another praise
+    song with new words inserted.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: honor song recognizing donation
+  taxonomy_refs: []
+  basis: Both songs are identified as praise or honor songs, and their glosses mention
+    donations of money or a horse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the material as song performance and musical analysis,
+    not as a narrative myth.
+- id: motif:2
+  label: exhortation to take courage
+  taxonomy_refs: []
+  basis: Both glossed song texts address Two White Buffalo with an instruction to
+    take courage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a repeated lyric formula in the supplied passage; broader ritual
+    or mythic significance is not supplied.
+- id: motif:3
+  label: gift or donation acknowledged in public song
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage presents praise songs whose words refer to donations of money
+    and a horse.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The available taxonomy ref “sacred_exchange” is only partially applicable;
+    the passage does not explicitly call the exchange sacred.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Song No. 229 with the preceding song by stating
+    that both are praise songs with new words inserted.
+  claim_level: same_function
+  target: Song No. 228 and Song No. 229 as praise-song pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a local comparison within the passage and does not establish
+    a wider historical or cross-cultural motif relationship.
+- id: claim:2
+  claim: The musical analysis states that Song No. 229 has the same rhythmic unit
+    as the first unit in the preceding song.
+  claim_level: visual_similarity
+  target: Rhythmic-unit similarity between Song No. 229 and Song No. 228
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns musical structure in the source analysis; it is
+    not a mythological or symbolic comparison.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 36915-36939
+  quote_or_summary: Song No. 228 is titled “They Depend Upon You” and is listed as
+    sung by Silent Woman.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; excerpt kept minimal.
+- id: ev:2
+  type: summary
+  locator: lines 36940-36958
+  quote_or_summary: Glosses for Song No. 228 identify Two White Buffalo, “take courage,”
+    the committee, “depend upon you,” money or “white metal,” and “you donated.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 36960-36970
+  quote_or_summary: The analysis says the melody is one of the tribe’s praise or honor
+    songs and gives musical details including renditions, tonality, structure, octave
+    tones, and upward/downward progressions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; summarized.
+- id: ev:4
+  type: citation
+  locator: lines 36974-36978
+  quote_or_summary: Song No. 229 is titled “I Donated a Horse” and is listed as sung
+    by Shooter.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; excerpt kept minimal.
+- id: ev:5
+  type: summary
+  locator: lines 36990-37004
+  quote_or_summary: Glosses for Song No. 229 identify Two White Buffalo, “take courage,”
+    “you said this,” “a horse,” and “I donated.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37006-37018
+  quote_or_summary: The analysis says this song, like the preceding song, is a praise
+    song with new words inserted, and adds musical details including scale, tonality,
+    minor thirds, and a rhythmic unit shared with the preceding song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source rights metadata not supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnomusicological song documentation. Literal extraction
+    is strong; mythic motif classification is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external cultural, linguistic, or historical information was added beyond the supplied passage and metadata.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l36915-l37020
+  passage_sha256=d3d0329ca2b649fe286e47e332e0f49e387def11c4b462296887329f2bcbeffb
+

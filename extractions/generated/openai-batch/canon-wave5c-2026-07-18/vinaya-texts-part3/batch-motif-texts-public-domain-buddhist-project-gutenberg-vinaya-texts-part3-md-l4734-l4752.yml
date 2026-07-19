@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l4734-l4752
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: JSTULLAVAGGA. / V, II, 4. / XULLAVAGGA. / ON THE DAILY LIFE OF THE BHIKKHUS.
+    IOI; lines 4734-4752
+  start: '4734'
+  end: '4752'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that the Blessed One permits the use of a balustrade.
+    It then reports that Bhikkhus fell while walking up and down in the cloister,
+    told the matter to the Blessed One, and received permission to provide a railing
+    for the cloister. Editorial notes describe such architectural features as later
+    improvements and cross-reference the term for balustrade/railing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Blessed One allows the Bhikkhus to use a balustrade.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhikkhus fell down while walking up and down in the cloister.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bhikkhus reported the matter to the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Blessed One allows the Bhikkhus to provide a railing for the cloister.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An editorial note says it is not probable that the cloister originally had
+    a roof, stairs, and balustrade, and describes these as later improvements.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An editorial note identifies the term for the balustrade/railing and cross-references
+    other textual locations.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monks who walk in the cloister, fall, report the matter, and receive
+    the allowance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Blessed One
+  description: Authority addressed by the Bhikkhus who grants permission for a balustrade
+    or railing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: authoritative permitter
+  assigned_to:
+  - fig:2
+  basis: The Blessed One grants the stated allowances for a balustrade and railing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: monastic walkers and reporters
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhus walk in the cloister, fall, and report the matter to the Blessed
+    One.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: balustrade or railing
+  literal_form: Architectural barrier described as a balustrade and as a railing for
+    the cloister.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: cloister
+  literal_form: Cloister used by the Bhikkhus for walking up and down.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cloister accident and allowance of railing
+  summary: After an allowance for a balustrade is stated, the Bhikkhus are described
+    as falling while walking in the cloister. They report this to the Blessed One,
+    who permits a railing for the cloister.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: authorized architectural safeguard after accident
+  taxonomy_refs: []
+  basis: The sequence moves from monks falling in the cloister, to reporting the matter,
+    to an authoritative allowance for a railing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a practical Vinaya regulation rather than a mythic narrative motif;
+    no supplied taxonomy motif directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: 'The editorial notes support only a textual or terminological parallel: similar
+    paragraphs are said to occur in an earlier section, and the term for balustrade/railing
+    is cross-referenced to other textual locations.'
+  claim_level: linguistic_similarity
+  target: Earlier section V, u, 6; Mahā-sudassana Sutta I, 60; below VI, 2, 2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target passages are not included in the provided text, so no motif
+    equivalence, historical contact, or broader comparative claim can be assessed.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '4734'
+  quote_or_summary: "‘ I allow you, O Bhikkhus, the use of a balustrade.’"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; brief excerpt used for
+    identification.
+- id: ev:2
+  type: summary
+  locator: 4736-4737
+  quote_or_summary: The Bhikkhus, while walking up and down in the cloister, fell
+    down.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; summary used.
+- id: ev:3
+  type: quote
+  locator: '4739'
+  quote_or_summary: They told this matter to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; brief excerpt used for
+    identification.
+- id: ev:4
+  type: summary
+  locator: 4741-4742
+  quote_or_summary: The Blessed One allows the Bhikkhus to provide a railing for the
+    cloister.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; summary used.
+- id: ev:5
+  type: note
+  locator: 4744-4750
+  quote_or_summary: Editorial notes state that following paragraphs are the same as
+    an earlier section and that the cloister likely did not first have a roof, stairs,
+    and balustrade, which are described as later improvements.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; summary used.
+- id: ev:6
+  type: note
+  locator: 4751-4752
+  quote_or_summary: An editorial note glosses the term for the balustrade/railing
+    and points to Mahā-sudassana Sutta I, 60 and another later section.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and roles are clear. Motif identification is limited
+    because the passage is regulatory and architectural, not a mythic narrative. The
+    comparison claim is based only on editorial cross-references in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol directly matches the balustrade, railing, or cloister in this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l4734-l4752
+  passage_sha256=741c94a55df515da3f3855a566eebe73cae65b760e3d8cbfdd7f6127c6102554
+

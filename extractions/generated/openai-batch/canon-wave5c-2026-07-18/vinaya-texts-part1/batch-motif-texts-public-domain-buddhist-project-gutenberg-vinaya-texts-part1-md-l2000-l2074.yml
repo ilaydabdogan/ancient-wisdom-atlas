@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l2000-l2074
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: IO PATIMOKKHA. / SAMGHADISESA DHAMMA. II / ANIYATA DHAMMA1. / RULES REGARDING
+    UNDETERMINED MATTERS.; lines 2000-2074
+  start: '2000'
+  end: '2074'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recites two Patimokkha rules concerning undetermined disciplinary
+    matters involving a bhikkhu seated privately with a woman. Depending on the setting,
+    the report of a trustworthy believing woman, and the bhikkhu's acknowledgment,
+    the matter may be handled under specified classes of rules. The recitation closes
+    by asking the assembled venerable ones three times whether they are pure in this
+    matter and interpreting their silence as purity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two rules regarding undetermined matters are announced for recitation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first rule concerns a bhikkhu sitting with a woman, one man with one woman,
+    in secret on a secluded seat described as suitable for sexual intercourse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'In the first rule, a believing woman trustworthy in speech who has seen the
+    pair may lay a charge under one of three rule categories: Parajika, Samghadisesa,
+    or Pacittiya.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the bhikkhu acknowledges that he sat in the described way, he is to be
+    dealt with according to the reported circumstances or under the rule charged by
+    the trustworthy woman.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second rule concerns a seat that is not secluded and not convenient for
+    sexual intercourse, but is convenient for addressing a woman with wicked words.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the second rule, a trustworthy believing woman who has seen the pair may
+    lay a charge under either the Samghadisesa or Pacittiya rule.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The reciter asks the venerable ones three times whether they are pure in this
+    matter.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The silence of the venerable ones is understood as indicating purity.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu
+  description: A monk who may sit privately with a woman and be subject to disciplinary
+    handling if the described circumstances are acknowledged or charged.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Woman seated with the bhikkhu
+  description: A woman with whom the bhikkhu is described as taking a seat, one man
+    with one woman, in secret.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Believing woman trustworthy in speech
+  description: A woman described as believing and trustworthy in speech, who has seen
+    the bhikkhu and woman and may lay a charge under specified rules.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Venerable ones
+  description: The assembled monastic audience addressed during the recitation and
+    asked whether they are pure in the matter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: potentially accused monastic
+  assigned_to:
+  - fig:1
+  basis: The bhikkhu may be charged and dealt with under disciplinary rule categories
+    if he acknowledges the described sitting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: private female companion in the disciplinary scenario
+  assigned_to:
+  - fig:2
+  basis: The rules describe the bhikkhu sitting with a woman, one man with one woman,
+    in secret.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: trustworthy witness and charge-maker
+  assigned_to:
+  - fig:3
+  basis: The believing woman trustworthy in speech has seen the pair and may lay a
+    charge under specified rules.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: recitation audience
+  assigned_to:
+  - fig:4
+  basis: The venerable ones are addressed during the recitation and asked three times
+    about their purity.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Announcement of two undetermined rules
+  summary: The recitation introduces two rules concerning undetermined matters.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Secluded sitting and possible threefold charge
+  summary: A bhikkhu sits with a woman in secret on a secluded seat suitable for sexual
+    intercourse; a trustworthy believing woman who has seen them may charge him under
+    one of three rule categories, and the bhikkhu is to be handled according to acknowledgment
+    and charge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Non-secluded sitting and possible twofold charge
+  summary: A bhikkhu sits secretly with a woman on a seat not secluded or suited for
+    sexual intercourse but suited for wicked speech; a trustworthy believing woman
+    may charge him under one of two rule categories, and he is to be handled accordingly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Purity inquiry and silence
+  summary: After the two rules are recited, the venerable ones are asked three times
+    whether they are pure in the matter, and their silence is understood as purity.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: trustworthy witness determines disciplinary handling
+  taxonomy_refs: []
+  basis: Both rules give procedural force to the report of a believing woman trustworthy
+    in speech who has seen the situation and lays a charge under specified rule categories.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a legal-disciplinary pattern in a monastic rule passage, not a
+    mythological motif from the supplied taxonomy.
+- id: motif:2
+  label: ritualized public purity inquiry by repeated questioning
+  taxonomy_refs: []
+  basis: The reciter asks the assembled venerable ones three times whether they are
+    pure, and silence is treated as confirmation.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a liturgical or procedural pattern within the recitation; no comparative
+    or mythological claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2000-2006
+  quote_or_summary: The passage announces that two rules regarding undetermined matters
+    come into recitation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source passage supplied in request; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: lines 2007-2012
+  quote_or_summary: The first rule describes a bhikkhu taking a seat with a woman,
+    one man with one woman, in secret on a secluded seat suitable for sexual intercourse.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source passage supplied in request; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2012-2025
+  quote_or_summary: A believing woman trustworthy in speech who has seen them may
+    charge the bhikkhu under Parajika, Samghadisesa, or Pacittiya; if he acknowledges
+    the sitting, he is to be dealt with according to the circumstances or the charged
+    rule.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source passage supplied in request; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2029-2058
+  quote_or_summary: The second rule applies when the seat is not secluded or convenient
+    for sexual intercourse but is convenient for wicked words; a trustworthy believing
+    woman may charge the bhikkhu under Samghadisesa or Pacittiya, and he is to be
+    dealt with accordingly.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source passage supplied in request; summarized without extended quotation.
+- id: ev:5
+  type: summary
+  locator: lines 2060-2074
+  quote_or_summary: After the two uncertain rules are recited, the venerable ones
+    are asked three times whether they are pure; their silence is understood as purity,
+    ending the Aniyata recitation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source passage supplied in request; summarized without extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural content and figures are explicit. Motif candidates are framed
+    as internal legal-liturgical patterns rather than taxonomy-linked mythology. No
+    comparison claims are made because the passage itself provides no comparative
+    basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol is directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l2000-l2074
+  passage_sha256=2e52138f8bc3b119157c5e4587cc9ef427d5c1eb2a415e239ba9dce3edb3fbee
+

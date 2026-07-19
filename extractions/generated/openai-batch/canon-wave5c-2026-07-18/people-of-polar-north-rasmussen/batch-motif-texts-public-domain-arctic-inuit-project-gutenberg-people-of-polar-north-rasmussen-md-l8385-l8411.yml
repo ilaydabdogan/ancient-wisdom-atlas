@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l8385-l8411
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: PLAN AND ELEVATION OF AN ESKIMO HUT / IGGIENGUAQ, A VERY HANDSOME ESKIMO
+    TYPE / THE ORPHAN WHO BECAME A GIANT / MITSIMA, WHO FROZE TO DEATH; lines 8385-8411
+  start: '8385'
+  end: '8411'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A reported tale says that the very old man Mitsima is seal-catching with
+    others in midwinter when a snowstorm separates the hunters. After the storm he
+    returns crawling on the ice with frozen hands and feet. His children see him but
+    are afraid because he is almost dead; he collapses at the house entrance, is left
+    to die outside, and is later covered with snow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage title identifies Mitsima as someone who froze to death.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the story was told by people who came from the other side
+    of the sea; the final attribution names Inaluk as teller.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Mitsima is described as a very old man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mitsima is out seal-catching with many others in the middle of winter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A snowstorm prevents visibility; the seal-catchers lose each other, and the
+    sledges return home without finding Mitsima.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the storm, Mitsima appears crawling along the ice, and his hands and
+    feet have been frozen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mitsima's children see him coming but do not go to meet him because they are
+    afraid of him and he is almost dead.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mitsima collapses at the entrance to the house, and his children let him die
+    outside.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: After Mitsima dies, the children go out and cover him with snow.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mitsima
+  description: A very old man who is seal-catching in winter, becomes separated in
+    a snowstorm, returns frostbitten, collapses at the house entrance, and dies outside.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Seal-catchers
+  description: The many others with whom Mitsima is seal-catching; they lose one another
+    in the snowstorm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mitsima's children
+  description: They see Mitsima coming, do not go to meet him because they are afraid,
+    let him die outside, and later cover him with snow.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: People from the other side of the sea
+  description: People said to have told the narrator the story.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Inaluk
+  description: The named teller in the passage's final attribution.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: old man
+  assigned_to:
+  - fig:1
+  basis: Mitsima is introduced as a very old man.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: frostbitten victim left outside
+  assigned_to:
+  - fig:1
+  basis: Mitsima returns with frozen hands and feet, collapses at the entrance, and
+    is allowed to die outside.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: storm-separated hunting companions
+  assigned_to:
+  - fig:2
+  basis: The seal-catchers are with Mitsima during the winter hunt and lose each other
+    in the snowstorm.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: children who do not assist
+  assigned_to:
+  - fig:3
+  basis: They see Mitsima approaching but do not meet him because they fear him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: children who cover the dead with snow
+  assigned_to:
+  - fig:3
+  basis: After his death, they go out and cover him with snow.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: reported source of narration
+  assigned_to:
+  - fig:4
+  basis: The narrator says these people told him what he is narrating.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: named teller
+  assigned_to:
+  - fig:5
+  basis: The passage ends with the attribution 'Told by INALUK.'
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: winter snowstorm
+  literal_form: a snow-storm in the middle of winter that prevents people from seeing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ice
+  literal_form: the ice along which Mitsima crawls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: house entrance
+  literal_form: the entrance to the house where Mitsima collapses
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: snow covering
+  literal_form: snow used to cover Mitsima after his death
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sea of tale transmission
+  literal_form: the sea whose other side is associated with the people who told the
+    story
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Reported source of the tale
+  summary: The narrator states that people from the other side of the sea told him
+    the story; the passage later attributes it to Inaluk.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Winter seal-catching and storm separation
+  summary: Mitsima and other seal-catchers are out in midwinter when a snowstorm prevents
+    visibility; the group loses one another and the sledges return without finding
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mitsima's frostbitten return
+  summary: After the storm, Mitsima comes into sight crawling along the ice with frozen
+    hands and feet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Abandonment at the house entrance
+  summary: Mitsima's children see him but do not meet him because they are afraid;
+    he collapses at the entrance and is left to die outside.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Covering with snow
+  summary: After Mitsima dies, his children cover him with snow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: winter storm separation during a hunt
+  taxonomy_refs: []
+  basis: The seal-catchers are out in midwinter, a snowstorm prevents sight, and the
+    hunters lose one another.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Identified as a passage-level narrative pattern; no supplied taxonomy
+    family directly matches it.
+- id: motif:2
+  label: near-dead return from exposure
+  taxonomy_refs: []
+  basis: Mitsima reappears after the storm crawling on ice with frozen hands and feet
+    and is described as almost dead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no supernatural return or recovery; it is a literal
+    return before death.
+- id: motif:3
+  label: aged parent left to die by fearful children
+  taxonomy_refs: []
+  basis: Mitsima is a very old man; his children see him, fear him because he is almost
+    dead, do not meet him, and let him die outside.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state a moral judgment beyond the children's speech
+    and actions.
+- id: motif:4
+  label: covering the dead with snow
+  taxonomy_refs: []
+  basis: After Mitsima dies, the children cover him with snow.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a single literal action and may be funerary, practical, or narrative
+    closure; the passage does not explain its meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8385-8389
+  quote_or_summary: The passage title names 'Mitsima, who froze to death,' and the
+    narrator says people from the other side of the sea told him the story.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8391-8395
+  quote_or_summary: Mitsima is a very old man out seal-catching with many others in
+    midwinter; a snowstorm prevents sight, the seal-catchers lose one another, and
+    the sledges go home without finding him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8397-8399
+  quote_or_summary: When the storm is over, Mitsima comes into sight crawling along
+    the ice, with hands and feet frozen.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8401-8403
+  quote_or_summary: His children see him coming but do not go to meet him; they are
+    afraid because he is almost dead, and he collapses at the house entrance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 8405-8406
+  quote_or_summary: '"Oh! he is an old man after all," said his children, and let
+    him die out there.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8408-8410
+  quote_or_summary: Afterwards the children go out and cover Mitsima with snow; the
+    passage closes by saying that this is how he died.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: quote
+  locator: line 8411
+  quote_or_summary: Told by INALUK.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The plot events and figures are explicit in the provided passage. Motif labels
+    are passage-level candidates without external comparison. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the supplied taxonomy list does not directly match the literal passage patterns.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l8385-l8411
+  passage_sha256=a30bac3f20c8a824d24dc579056ab509b4a832d6f3f338c04f889ef8d22e09f9
+

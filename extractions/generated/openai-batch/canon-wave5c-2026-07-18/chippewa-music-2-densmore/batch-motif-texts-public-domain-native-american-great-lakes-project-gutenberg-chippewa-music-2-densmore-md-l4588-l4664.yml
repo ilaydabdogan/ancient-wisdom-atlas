@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md-l4588-l4664
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: OM   . / T-(        (N / S  3  5!  2 / MOCCASIN     GAME    DRUM; lines 4588-4664
+  start: '4588'
+  end: '4664'
+  translation: chippewa-music-2-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes musical features of woman's dance songs, noting tonal,
+    melodic, and rhythmic traits and the importance of gifts in the woman's dance.
+    It then introduces begging dance songs, reports that the begging dance, like the
+    woman's dance, was said to derive from the Sioux, and describes a large drum carried
+    by two or three men as a begging party goes from tent to tent. The passage continues
+    with musical statistics for the begging dance songs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman's dance songs are described through musical statistics, including
+    a high proportion of minor tonality, frequent beginnings on the dominant, common
+    octave and twelfth ranges, five-toned scales in half the songs, and mostly melodic
+    structure.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman's dance songs are said to have evenly divided upward and downward
+    progressions, prominent minor thirds, definite beginnings, continuous measure
+    lengths, and a triple drum rhythm in all songs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rhythm of the woman's dance songs is described as pleasing, and gifts
+    are identified as an important feature of the woman's dance.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The begging dance song group is identified as comprising specified song numbers
+    from Bulletin 45 and the present work.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The begging dance, like the woman's dance, is said to have been derived from
+    the Sioux, and the writer reports observing it among both Chippewa and Sioux.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In the begging dance, a large drum is used and is carried by two or three
+    men while the begging party goes from tent to tent.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The begging dance songs are described through musical statistics, including
+    72 percent major tonality, frequent beginnings on the dominant, relatively few
+    endings on the tonic, frequent downward progression, and voice-drum metric comparisons.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: begging party
+  description: A group that goes from tent to tent during the begging dance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: two or three men
+  description: Men who carry the large drum in the begging dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: writer
+  description: The observer who reports seeing the begging dance among both Chippewa
+    and Sioux.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Chippewa
+  description: One of the peoples among whom the writer observed the begging dance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sioux
+  description: The people from whom the begging dance and woman's dance are reported
+    to have been derived, and among whom the writer also observed the dance.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: processional begging group
+  assigned_to:
+  - fig:1
+  basis: The party goes from tent to tent during the begging dance.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: drum carriers
+  assigned_to:
+  - fig:2
+  basis: Two or three men carry the large drum.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: ethnographic observer
+  assigned_to:
+  - fig:3
+  basis: The writer states that the dance was observed among both Chippewa and Sioux.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: observed communities
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The writer reports observing the begging dance among both Chippewa and Sioux.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reported source tradition
+  assigned_to:
+  - fig:5
+  basis: The begging dance, like the woman's dance, is said to have been derived from
+    the Sioux.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: large drum
+  literal_form: large drum
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: gifts
+  literal_form: gifts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tents
+  literal_form: tents visited from tent to tent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: woman's dance song analysis
+  summary: The passage summarizes musical characteristics of woman's dance songs and
+    notes that gifts were important in the woman's dance.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: begging dance procession
+  summary: The begging dance is described as using a large drum carried by two or
+    three men while a begging party goes from tent to tent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: reported Sioux derivation and observation
+  summary: The begging dance is reported to derive from the Sioux, like the woman's
+    dance, and the writer states that it was observed among both Chippewa and Sioux.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: begging dance song analysis
+  summary: The passage gives musical statistics for the begging dance songs, including
+    tonal, melodic, interval, time, and voice-drum relationships.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: gift-associated dance performance
+  taxonomy_refs: []
+  basis: The passage states that gifts were an important feature of the woman's dance
+    and compares the woman's dance songs in tonality with gift songs.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe a mythic narrative or sacred exchange; it
+    only notes the social feature of gifts and a musical correspondence.
+- id: motif:2
+  label: begging procession with carried drum
+  taxonomy_refs: []
+  basis: The begging party goes from tent to tent while a large drum is carried by
+    two or three men.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a brief ethnographic description and does not explain
+    the symbolic meaning of the drum, tents, or begging action.
+- id: motif:3
+  label: dance attributed to neighboring tradition
+  taxonomy_refs: []
+  basis: The begging dance, like the woman's dance, is reported to have been derived
+    from the Sioux and was observed among both Chippewa and Sioux.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage uses reported attribution and does not provide the traditional
+    origin narrative in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious historical-contact comparison by reporting
+    that the begging dance, like the woman's dance, was said to have been derived
+    from the Sioux and was observed among both Chippewa and Sioux.
+  claim_level: historical_contact
+  target: Sioux tradition in relation to Chippewa begging and woman's dances
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the passage's reported derivation statement; the
+    detailed origin account is said to occur elsewhere and is not included in this
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4588-4601
+  quote_or_summary: 'The passage gives musical statistics for woman''s dance songs:
+    high minor tonality, common dominant beginnings, ranges of octave or twelfth,
+    five-toned scales in half the songs, one accidental, and melodic structure.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 4601-4621
+  quote_or_summary: The passage describes progression, intervals, definiteness of
+    beginning, continuity of measure lengths, triple drum rhythm in all woman's dance
+    songs, and voice-drum metric relationships.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 4623-4631
+  quote_or_summary: The passage says the rhythm of woman's dance songs is pleasing,
+    notes a correspondence with gift songs, states that gifts were important in the
+    woman's dance, and relates the group to pipe dance and children's entertainment
+    songs.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 4637-4640
+  quote_or_summary: A new section identifies the begging dance songs and says the
+    group comprises song numbers from Bulletin 45 and the present work.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 4642-4645
+  quote_or_summary: The passage reports that the begging dance, like the woman's dance,
+    is said to have been derived from the Sioux, and that the writer observed it among
+    both Chippewa and Sioux.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 4644-4647
+  quote_or_summary: The passage describes the use of a large drum, carried by two
+    or three men as the begging party goes from tent to tent.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: 4648-4664
+  quote_or_summary: The passage analyzes begging dance songs by tonality, beginnings
+    and endings, scale types, accidentals, melodic structure, interval patterns, time,
+    rhythmic units, and voice-drum metric units.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ethnographic and musical observations are explicit. Motif candidates
+    are limited because the passage is mainly musicological and gives only brief social-performance
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the passage does not clearly support the available taxonomy labels as mythic or symbolic categories.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md__l4588-l4664
+  passage_sha256=da35a1c62195503c5b6b639608f62b26ccd5d68827d6ec38909a5ecb2477e6f1
+

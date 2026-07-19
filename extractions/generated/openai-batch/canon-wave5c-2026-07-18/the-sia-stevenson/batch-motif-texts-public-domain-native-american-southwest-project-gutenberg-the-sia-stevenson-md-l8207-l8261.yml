@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l8207-l8261
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: INTRODUCTION. / CLIMATE. / AUBOBAS. / VEGETATION.; lines 8207-8261
+  start: '8207'
+  end: '8261'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes aurora visibility and the northern tree limit in
+    Labrador-region geography, including tree distribution near rivers, coasts, and
+    bays; the dependence of northern Eskimo residents on stunted shrubs and scarce
+    large wood; timber use near a fort; shrub growth under varying protection; and
+    the short growing season for flowering plants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Auroras are said to be visible on most clear nights of the year, with June
+    excepted because of light nights.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The northern limit of trees on the Labrador coast is placed at latitude 67°,
+    where conifers are described as stunted and straggling.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tree growth and distance from the sea vary around George's river, Whale river,
+    False river, the Koksoak, the Leaf river, a large lake, and Hudson bay.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: At the mouth of False river, a large amphitheater-like landform is said to
+    protect trees from cold winds from the bay.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:5
+  text: Eskimo residents north of the described tree-limit line depend on stunted
+    willows and alders growing in sheltered ravines and valleys.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Large wood is sought by the Eskimo of the northwest portion for kaiaks, umiaks,
+    paddles, spear shafts, and smaller requirements that willow and alder stems cannot
+    supply.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: South of the northern tree limit, tree growth gradually becomes larger and
+    more extensive, though timber north of the Height of Land remains comparatively
+    small.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Selected larger logs near the named fort are used as wall material for buildings
+    there.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Alders, willows, and other bushes vary in size depending on situation and
+    protection.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Flowering plants are sparse in northern areas; the ground remains frozen from
+    late October to late May or mid-June, and annuals appear suddenly, mature rapidly,
+    and are stopped by autumn winds.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eskimo residents north of the tree-limit line
+  description: People described as dwelling north of the northern tree-limit line
+    and relying on stunted shrubs and scarce large wood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Northern residents and wood users
+  assigned_to:
+  - fig:1
+  basis: The passage says these people dwell north of the tree-limit line, depend
+    on stunted willows and alders, and seek larger wood for watercraft, paddles, spear
+    shafts, and other needs.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Trees and usable wood
+  literal_form: Conifers, spruce, larch, willows, alders, logs, and large pieces of
+    wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Waterways and coast
+  literal_form: Labrador coast, George's river, Whale river, False river, Koksoak,
+    Leaf river, a large lake, and Hudson bay
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Aurora
+  literal_form: Auroras visible on clear nights except during June light nights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Short growing season
+  literal_form: Frozen ground, sparse flowering plants, sudden annual growth, and
+    chilling autumn winds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Aurora visibility
+  summary: The passage states that auroras can usually be observed on clear nights,
+    except in June because of light nights.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree-line geography
+  summary: The passage maps the northern limit and local distribution of trees across
+    coastal, riverine, and lake regions, noting stunted or larger growth depending
+    on place and protection.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: scene:3
+  label: Wood scarcity and material use north of the tree line
+  summary: Eskimo residents north of the tree-limit line rely on small shrubs and
+    seek larger wood for boats, paddles, spear shafts, and other practical uses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Seasonal plant growth
+  summary: The passage describes sparse flowering plants, a long frozen season, rapid
+    annual growth after thaw, and autumn winds ending the growth period.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Literal seasonal vegetation cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage describes a repeated annual pattern: frozen ground from late
+    October into late May or June, sudden appearance and rapid growth of annual plants,
+    and their decline before autumn winds.'
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is an ecological description rather than a mythic narrative motif;
+    it is included only as a literal seasonal pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8207-8212
+  quote_or_summary: Auroras are observable on most clear nights of the year; June
+    is excluded because its nights are too light for observation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 8214-8218
+  quote_or_summary: '"The northern limit of trees on the Labrador coast is in latitude
+    67o." Conifers at this limit are described as stunted and straggling.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; short excerpt from the provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 8218-8234
+  quote_or_summary: Tree distribution is described around George's river, Whale river,
+    False river, the Koksoak, the Leaf river, and a large lake, with varying distance
+    from shore and varying tree size.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8235-8243
+  quote_or_summary: A line toward the eastern shore of Hudson bay is given as the
+    northern tree limit; Eskimo north of it depend on stunted willows and alders and
+    seek large wood for kaiaks, umiaks, paddles, spear shafts, and other needs.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 8244-8253
+  quote_or_summary: South of the tree-limit line, growth becomes larger and more extensive;
+    spruce and larch sizes are described, and selected larger logs near the named
+    fort are used for building walls.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 8254-8257
+  quote_or_summary: Alders, willows, and other bushes attain differing sizes depending
+    on situation and protection; the observer compares stems near Fort Ghimo with
+    those at Davis inlet or Eigolet.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 8258-8261
+  quote_or_summary: Flowering plants are sparse; the ground remains frozen from late
+    October to late May or mid-June; annuals appear suddenly, grow quickly, and are
+    checked by autumn winds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 8223-8227
+  quote_or_summary: At False river, a huge amphitheater-like formation is said to
+    protect tree growth from cold winds coming from the bay.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal environmental and ethnographic details are clear. Motif extraction
+    is limited because the passage is descriptive rather than narrative or mythic.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, or intertextual comparison is asserted. OCR-like forms in the passage were not normalized except where summaries use plain descriptive wording.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l8207-l8261
+  passage_sha256=fade4950482ecb8e8d321def29acac694eb068808b231d0b61d98d8e88cceeda
+

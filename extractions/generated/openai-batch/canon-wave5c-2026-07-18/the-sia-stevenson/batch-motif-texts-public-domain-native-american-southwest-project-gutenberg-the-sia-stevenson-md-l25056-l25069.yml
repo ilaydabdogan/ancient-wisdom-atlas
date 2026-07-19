@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l25056-l25069
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE WOLF. / HORSES. / SPIDERS. / SNAKE LORE.; lines 25056-25069
+  start: '25056'
+  end: '25069'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a section headed “Snake Lore,” the passage reports that some Dakota
+    avoid killing snakes by hitting them. A person who violates this law is said to
+    have terrible dreams about snakes, and sometimes such a person''s horse is bitten
+    by a snake. The passage names the SiijteUla tayka, or Ancient of Eattlesnakes,
+    as an enemy of the Thunder-beings. It also says snake dreams are unlucky: snakes
+    in dreams seek to enter a man''s ears, nose, or mouth, and successful entry is
+    treated as a sign of death.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the heading “SNAKE LORE.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some Dakota are said not to kill snakes by hitting them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who violates the snake-killing law is said to dream horrible dreams
+    about various kinds of snakes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that such a person may occasionally have a horse bitten by
+    a snake.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The SiijteUla tayka, identified as the Ancient of Eattlesnakes, is described
+    as one of the enemies of the Thunder-beings.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says there are some things about which it is most unlucky to dream.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Snakes in dreams are said to seek entry into a man's ears, nose, or mouth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: If a snake succeeds in entering during the dream, this is described as a sure
+    sign of death.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Some Dakota
+  description: A group said to avoid killing snakes by hitting them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Violator of the snake-killing law
+  description: A generic person who violates the prohibition against killing snakes
+    by hitting them and then has horrible snake dreams.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Horse of the violator
+  description: A horse that may be bitten by a snake after the person violates the
+    law.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: SiijteUla tayka / Ancient of Eattlesnakes
+  description: Named as the Ancient of Eattlesnakes and one of the enemies of the
+    Thunder-beings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Thunder-beings
+  description: Beings described as having the Ancient of Eattlesnakes among their
+    enemies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Snakes in dreams
+  description: Snakes described as terrible and as seeking to enter a man's ears,
+    nose, or mouth in dreams.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: observers of snake-killing prohibition
+  assigned_to:
+  - fig:1
+  basis: They are said not to kill snakes by hitting them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: taboo violator and dreamer
+  assigned_to:
+  - fig:2
+  basis: The person who violates the law is said to dream horrible dreams about snakes.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal affected after violation
+  assigned_to:
+  - fig:3
+  basis: The violator's horse may be bitten by a snake.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: enemy of Thunder-beings
+  assigned_to:
+  - fig:4
+  basis: The Ancient of Eattlesnakes is described as one of the enemies of the Thunder-beings.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: opposed beings
+  assigned_to:
+  - fig:5
+  basis: The Thunder-beings are named in relation to an enemy, the Ancient of Eattlesnakes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: dangerous dream beings
+  assigned_to:
+  - fig:6
+  basis: Snakes in dreams are said to seek entry into a man's body openings, with
+    death as the sign if one succeeds.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: snake
+  literal_form: Snakes, including various kinds of snakes and rattlesnakes.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: dream snake body-entry
+  literal_form: A snake entering a man's ears, nose, or mouth in a dream.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: horse bitten by snake
+  literal_form: A horse bitten by a snake after its owner violates the law.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prohibition against killing snakes by hitting
+  summary: Some Dakota are said to avoid killing snakes by hitting them; a violator
+    is said to suffer horrible snake dreams and may have a horse bitten by a snake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ancient of Eattlesnakes opposed to Thunder-beings
+  summary: The SiijteUla tayka, or Ancient of Eattlesnakes, is named as one of the
+    enemies of the Thunder-beings.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Unlucky dream of snakes entering the body
+  summary: The passage says snake dreams are especially unlucky; snakes are terrible
+    and seek to enter a man's ears, nose, or mouth, with successful entry indicating
+    death.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: snake-killing prohibition with dream punishment
+  taxonomy_refs:
+  - serpent
+  basis: The passage states that some Dakota will not kill snakes by hitting them
+    and that a violator will dream horrible dreams about snakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief ethnographic statement and does not explain
+    the full law or ritual context.
+- id: motif:2
+  label: snake bite affecting the violator's horse
+  taxonomy_refs:
+  - serpent
+  basis: The passage says that after violating the snake-killing law, a man may occasionally
+    have a horse bitten by a snake.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The causal relation is implied by sequence within the report but not elaborated.
+- id: motif:3
+  label: serpent enemy of thunder beings
+  taxonomy_refs:
+  - serpent
+  basis: The Ancient of Eattlesnakes is explicitly described as one of the enemies
+    of the Thunder-beings.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage provides no narrative episode beyond the stated opposition.
+- id: motif:4
+  label: death-omen dream of snake entering body openings
+  taxonomy_refs:
+  - serpent
+  basis: Snakes in dreams are said to seek entry into a man's ears, nose, or mouth,
+    and successful entry is described as a sure sign of death.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The statement is limited to dream lore and does not specify a named narrator
+    or ritual response.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25056-25056
+  quote_or_summary: "“SNAKE LORE.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 25058-25058
+  quote_or_summary: "“Some Dakota will not kill snakes by hitting them.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 25058-25061
+  quote_or_summary: A person who violates the law against killing snakes by hitting
+    them will dream horrible dreams about various snakes, and sometimes such a person's
+    horse is bitten by a snake.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 25061-25062
+  quote_or_summary: "“The SiijteUla tayka, or the Ancient of Eattlesnakes, was one
+    of the enemies of the Thunder-beings.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 25064-25064
+  quote_or_summary: "“There are some things about which it is most unlucky to dream.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 25066-25068
+  quote_or_summary: Snakes are called terrible; in dreams they seek to enter a man's
+    ears, nose, or mouth, and if one succeeds it is described as a sure sign of death.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif labels are descriptive
+    and use only the available serpent taxonomy where supported. No comparison claims
+    were made because the passage itself does not compare this lore with another corpus
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR spellings such as “Eattlesnakes” and “SiijteUla tayka” are retained where quoted from the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l25056-l25069
+  passage_sha256=4573eecf2601af712c6626581df96911ed3f8afe0c30bfcfd6eb1a97471dbdc0
+

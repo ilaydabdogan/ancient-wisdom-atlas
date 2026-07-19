@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l541-l557
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER XLII / CHAPTER XLIII / CHAPTER XLV / CHAPTER XLVI; lines 541-557
+  start: '541'
+  end: '557'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents style listing for chapters on feasts,
+    dances, songs, the Walaga feast and mango cult, death and burial, mourning, mourning
+    feasts, present-day burial, avoidance of the names of the dead, destruction of
+    houses of the dead, and named ceremonies in several localities including Wagawaga,
+    Tubetube, Bartle Bay, and Diwari.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter XLV is listed as covering feasts, dances, songs, the Walaga feast,
+    and the cult of the mango.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The localities named for Chapter XLV topics include Wagawaga, Tubetube, Bartle
+    Bay, and Diwari.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chapter XLVI is listed as covering death and burial, mourning, mourning feasts,
+    present-day burial, avoidance of the names of the dead, destruction of the houses
+    of the dead, and named ceremonies.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The localities named for Chapter XLVI topics include Wagawaga, Tubetube, and
+    Bartle Bay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Named ceremonies or topics in Chapter XLVI include Toreha, Wapa Ceremony,
+    and Dabadabagigira.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the dead
+  description: Persons referred to collectively in headings concerning avoidance of
+    their names and destruction of their houses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deceased persons
+  assigned_to:
+  - fig:1
+  basis: The headings explicitly refer to the names and houses of the dead.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mango
+  literal_form: mango
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: houses of the dead
+  literal_form: houses of the dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: names of the dead
+  literal_form: names of the dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Chapter XLV ritual and performance topics
+  summary: A contents listing groups feasts, dances, songs, the Walaga feast, and
+    the cult of the mango by locality.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chapter XLVI death and mourning topics
+  summary: A contents listing groups death and burial, mourning, mourning feasts,
+    present-day burial, avoidance of the dead's names, destruction of the dead's houses,
+    and named ceremonies by locality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ritual feasts with dances and songs
+  taxonomy_refs: []
+  basis: The Chapter XLV heading explicitly lists feasts, dances, and songs for named
+    localities.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a contents heading and gives no narrative or ritual
+    details.
+- id: motif:2
+  label: cult centered on mango
+  taxonomy_refs: []
+  basis: The Chapter XLV heading names the cult of the mango in connection with the
+    Walaga feast at Bartle Bay.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe the cult, its symbolism, participants, or
+    ritual actions.
+- id: motif:3
+  label: death, burial, and mourning rites
+  taxonomy_refs: []
+  basis: The Chapter XLVI heading explicitly lists death and burial, mourning, mourning
+    feasts, and present-day burial.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index-like heading and does not provide mythic narrative
+    or detailed ritual sequence.
+- id: motif:4
+  label: avoidance of names of the dead
+  taxonomy_refs: []
+  basis: The Chapter XLVI heading explicitly lists avoidance of the names of the dead.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the topic is named; no practice details are supplied in the passage.
+- id: motif:5
+  label: destruction of houses of the dead
+  taxonomy_refs: []
+  basis: The Chapter XLVI heading explicitly lists destruction of the houses of the
+    dead.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the topic is named; no practice details are supplied in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 541-548
+  quote_or_summary: Chapter XLV lists feasts, dances, songs, the Walaga feast, and
+    the cult of the mango, with associated localities including Wagawaga, Tubetube,
+    Bartle Bay, and Diwari.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 550-557
+  quote_or_summary: Chapter XLVI lists death and burial, mourning, mourning feasts,
+    present-day burial, avoidance of the names of the dead, destruction of the houses
+    of the dead, and named ceremonies including Toreha, Wapa Ceremony, and Dabadabagigira.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a contents-style heading rather than a narrative or ritual
+    description, so motif extraction is limited to explicitly named topics.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific comparison beyond listing chapter topics.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l541-l557
+  passage_sha256=d82e5626def1148f351daede9c65e6dcdf19eae06d9ce0ba29609614309dbfab
+

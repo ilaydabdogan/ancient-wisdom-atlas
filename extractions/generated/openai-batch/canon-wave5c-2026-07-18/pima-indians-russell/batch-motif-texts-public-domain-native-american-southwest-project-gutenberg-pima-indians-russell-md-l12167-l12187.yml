@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l12167-l12187
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: SKULL AND HIS MAGIC / ORIGIN OF THE HORSE / COYOTE AND THE QUAILS / THE WOMAN
+    AND COYOTE; lines 12167-12187
+  start: '12167'
+  end: '12187'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A river floods the land. An Indian woman carrying tortillas wades through
+    the water. Coyote, afraid of the water and sitting in a cottonwood tree, asks
+    her for tortillas and then threatens to shoot her if she does not come. She tells
+    him to come down for them, falsely says the water is only ankle-deep while standing
+    on a stump, and Coyote jumps down and drowns. The woman continues on.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The river rose high and spread over the land.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Indian woman traveled with tortillas in a basket on her head and waded
+    through waist-deep water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coyote was afraid of the water and was up in a cottonwood tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote asked the woman to come to the tree and give him some tortillas.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman refused, saying the tortillas were for somebody else.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Coyote threatened to shoot the woman if she did not come to the tree; the
+    passage says he was supposed to have a bow.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The woman told Coyote he must come down to get the tortillas because she could
+    not climb trees.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The woman stood on a large stump and told Coyote the water was only up to
+    her ankles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Coyote believed the water was shallow, jumped down, and drowned.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After Coyote drowned, the woman went on.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indian woman
+  description: A woman carrying tortillas in a basket on her head while wading through
+    flooded land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Coyote
+  description: A figure afraid of water, sitting in a cottonwood tree, asking for
+    tortillas, threatening the woman, and then drowning after jumping into the water.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: traveler carrying food
+  assigned_to:
+  - fig:1
+  basis: The woman is described as going along with tortillas in a basket on her head.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver about water depth
+  assigned_to:
+  - fig:1
+  basis: She stands on a stump and tells Coyote the water is only ankle-deep, leading
+    him to jump down.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: threatening requester
+  assigned_to:
+  - fig:2
+  basis: Coyote asks for tortillas and threatens to shoot the woman if she does not
+    come to the tree.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: drowned figure
+  assigned_to:
+  - fig:2
+  basis: Coyote jumps down after judging the water shallow and is drowned.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: floodwater
+  literal_form: river water spread over the land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: cottonwood tree refuge
+  literal_form: cottonwood tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tortillas in basket
+  literal_form: tortillas carried in a basket on the woman's head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: stump concealing water depth
+  literal_form: large stump under the woman in the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: supposed bow
+  literal_form: bow attributed to Coyote by the passage when he threatens to shoot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Flooded travel with tortillas
+  summary: The river floods the land, and a woman wades through the water carrying
+    tortillas in a basket.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote in the tree asks and threatens
+  summary: Coyote, afraid of the water and sitting in a cottonwood tree, asks the
+    woman for tortillas; after she refuses, he threatens to shoot her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: False shallow water and drowning
+  summary: The woman tells Coyote to come down and get the tortillas, then misrepresents
+    the depth while standing on a stump. Coyote jumps down and drowns, and the woman
+    continues on.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: threatening requester outwitted and drowned
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote demands food, threatens the woman, is deceived about the water depth,
+    and drowns after jumping from the tree.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage names Coyote and presents deception and reversal, but it does
+    not explicitly label Coyote as a trickster; the taxonomy link is therefore provisional.
+- id: motif:2
+  label: false report of shallow water causes drowning
+  taxonomy_refs: []
+  basis: The woman stands on a stump, says the water is only ankle-deep, and Coyote
+    believes her and drowns.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Plain motif label based only on this passage; no external motif index
+    number is supplied.
+- id: motif:3
+  label: tree refuge above dangerous floodwater
+  taxonomy_refs: []
+  basis: Coyote is afraid of the water and stays in a cottonwood tree while the river
+    has spread over the land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The episode includes floodwater and a tree refuge, but no renewal or world-flood
+    frame is present in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12167-12171
+  quote_or_summary: The river rises high and spreads over the land; an Indian woman
+    goes along with tortillas in a basket on her head and wades waist-deep in the
+    water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 12172-12175
+  quote_or_summary: Coyote, afraid of the water, is in a cottonwood tree and asks
+    the woman to come to the tree and give him tortillas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 12176-12178
+  quote_or_summary: The woman refuses, saying she cannot give the tortillas to Coyote
+    because they are for someone else.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 12179-12183
+  quote_or_summary: Coyote threatens to shoot the woman if she does not come to the
+    tree; the passage says he was supposed to have a bow. The woman says he must come
+    down to get the tortillas because she cannot climb trees.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 12183-12187
+  quote_or_summary: Coyote comes down cautiously. The woman, standing on a big stump,
+    says the water is only up to her ankles. Coyote thinks it is shallow, jumps down,
+    drowns, and the woman goes on.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif labels are descriptive;
+    the trickster taxonomy reference is provisional because the passage does not explicitly
+    identify Coyote as a trickster.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-tradition comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l12167-l12187
+  passage_sha256=6aca1d5c8cfa7e457aa860f630a3b60809400ff41fea249e6e50d692d909d1ed
+

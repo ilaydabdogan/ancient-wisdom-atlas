@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1804-l1845
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IT, 14, 6. / IV, 14, 10. THE SETTLEMENT OF DISPUTES. / JOJLLAVAGGA. / IV,
+    14 , II.; lines 1804-1845
+  start: '1804'
+  end: '1845'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage classifies legal questions concerning offences as wrong or
+    undetermined depending on whether a transgression was committed knowingly, consciously,
+    and deliberately. It then classifies legal questions of business according to
+    the state of mind of the Bhikkhus performing the business. It also distinguishes
+    disputes, legal questions arising from disputes, disputes that are not legal questions,
+    legal questions that are not disputes, and matters that are both; quarrels among
+    Bhikkhus over matters such as Dhamma or grave offences require formal settlement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A transgression committed knowingly, consciously, and deliberately is classified
+    as a legal question whether an offence is wrong.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A transgression committed not knowingly, not consciously, and not deliberately
+    is classified as a legal question whether an offence is undetermined.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Legal questions of business may be right, wrong, or undetermined according
+    to the mind of the Bhikkhus performing the business.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage distinguishes disputes, legal questions arising out of disputes,
+    disputes that are not legal questions, legal questions that are not disputes,
+    and matters that are both legal questions and disputes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When Bhikkhus discuss matters such as whether something is Dhamma or whether
+    an offence is most grave, resulting quarrel or strife is treated as a dispute
+    requiring formal settlement.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic participants who perform business and discuss disputed matters.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: Performers of legal business
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Bhikkhus performing specified business, whose state
+    of mind determines whether the legal question of business is right, wrong, or
+    undetermined.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Participants in dispute
+  assigned_to:
+  - fig:1
+  basis: The passage describes Bhikkhus discussing disputed points, with quarrel or
+    strife on such matters requiring formal settlement.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Classification of offences and business questions
+  summary: Legal questions are categorized by intentionality in transgression and
+    by the mental state of Bhikkhus performing legal business.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dispute requiring formal settlement
+  summary: Bhikkhus discuss contested matters such as Dhamma or the gravity of an
+    offence, and resulting quarrel or strife is identified as a dispute and legal
+    question requiring formal settlement.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Formal settlement of disputes
+  taxonomy_refs: []
+  basis: The passage repeatedly classifies disputes and legal questions and identifies
+    quarrels among Bhikkhus over doctrinal or disciplinary matters as requiring formal
+    settlement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a procedural/legal pattern rather than a mythological motif; no
+    supplied taxonomy motif family is directly supported by the passage.
+- id: motif:2
+  label: Intentionality determines fault classification
+  taxonomy_refs: []
+  basis: The passage contrasts knowingly, consciously, deliberately committed transgression
+    with unknowing, unconscious, non-deliberate transgression to classify legal questions
+    about offences.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical-legal classification pattern, not a symbolic or narrative
+    myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1804-1817
+  quote_or_summary: The passage defines a legal question whether an offence is wrong
+    as a transgression committed knowingly, consciously, and deliberately, and an
+    undetermined offence as one committed not knowingly, not consciously, and not
+    deliberately.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights status not supplied; passage provided by user.
+- id: ev:2
+  type: summary
+  locator: lines 1818-1823
+  quote_or_summary: Legal questions of business are categorized as right, wrong, or
+    undetermined depending on whether the Bhikkhus performing the business are right-minded,
+    wrong-minded, or of undetermined mind.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights status not supplied; passage provided by user.
+- id: ev:3
+  type: summary
+  locator: lines 1824-1836
+  quote_or_summary: The passage lists categories involving disputes and legal questions,
+    including disputes that are legal questions, disputes that are not legal questions,
+    legal questions that are not disputes, and matters that are both.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights status not supplied; passage provided by user.
+- id: ev:4
+  type: summary
+  locator: lines 1837-1845
+  quote_or_summary: The passage says that when Bhikkhus discuss contested matters
+    such as Dhamma or whether something is a most grave offence, any resulting quarrel
+    or strife is a dispute and legal question requiring formal settlement.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights status not supplied; passage provided by user.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal classifications and actors are explicit. Motif extraction is limited
+    because the passage is procedural Vinaya material and contains no clear mythological
+    symbols from the supplied symbol list. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif family was directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1804-l1845
+  passage_sha256=3339d8614e9418f75eb8421b8958cfdfc909b7deadcfa11860632640a04c1426
+

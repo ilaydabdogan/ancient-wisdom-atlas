@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l10025-l10069
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE TALISMANS. / THE TALISUANB. / AUULETS. / OUTDOOR LIFE.; lines 10025-10069
+  start: '10025'
+  end: '10069'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes outdoor knowledge attributed to the Eskimo: memory-based
+    navigation learned through hunting travel, descriptive naming of landforms, finding
+    cached objects despite snow-altered terrain, guiding by routes and the north star,
+    weather prediction, and a seasonal calendar structured by solstices and by recurring
+    environmental and subsistence events.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children are described as acquiring country knowledge by accompanying parents
+    on hunting trips and relying on memory and observation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Memory is described as being cultivated to a high degree and as helping ensure
+    individual safety in severe weather.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An individual is described as relocating a ramrod placed among tall grass
+    after several hours without hesitation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rises of land, stream curves, and seashore coves are described as having descriptive
+    names known to those who visit the places.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A hunter is described as going directly to a cached deer carcass months later,
+    even after snow has changed the appearance of the land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Eskimo are described as faithful guides who lead a party by the best route
+    when trusted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At night travel, the north star is used as a guide.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Experience is said to teach weather prediction, with some reliance placed
+    on those predictions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The year is described as beginning at the winter solstice, and summer at the
+    summer solstice.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Solstices are recognized by the sun’s bearing in relation to fixed landmarks.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Seasons have distinctive names and many subdivisions, with more subdivisions
+    in warm weather than in winter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Seasonal periods are associated with events such as the return of the sun,
+    lengthening days, snowmelt, ice breakup, open water, animal births and arrivals,
+    whaling, fishing, berry ripening, reindeer crossing, trapping, and hunting.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo people described in the passage
+  description: The group described as possessing extensive landscape knowledge, memory-based
+    navigation, guiding skill, weather prediction, and detailed seasonal knowledge.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Native who placed a ramrod
+  description: An individual described as placing a ramrod among tall grass and finding
+    the spot again after several hours.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hunter locating cached deer
+  description: A hunter described as going directly to a cached deer carcass months
+    later despite snow covering smaller objects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: memory-based landscape navigator
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage emphasizes memory, observation, named places, and the ability
+    to relocate objects or caches in the landscape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: trusted guide
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Eskimo are faithful guides who take pride in
+    leading a party by the best route when trusted.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: seasonal observer and weather predictor
+  assigned_to:
+  - fig:1
+  basis: The passage describes experience-based weather prediction and detailed knowledge
+    of solstices, seasons, and named seasonal periods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: north star as travel guide
+  literal_form: north star used for guidance during night travel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sun at solstice
+  literal_form: sun’s lowest point and its bearing relative to fixed landmarks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: named landscape markers
+  literal_form: rises of land, stream curves, seashore coves, and fixed landmarks
+    with descriptive associations
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: water and ice as seasonal markers
+  literal_form: snowmelt, breaking ice, open water, stream, seashore, whaling, fishing,
+    and related seasonal events
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Learning country through hunting travel
+  summary: Children accompany parents on hunting trips and learn the country through
+    observation, memory, and attention to surroundings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wayfinding in a remembered landscape
+  summary: 'The passage gives examples of precise relocation and guiding: a ramrod
+    is found again, a cached deer is reached despite snow, parties are led by the
+    best route, and the north star is used at night.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Solstice and seasonal calendar
+  summary: The year and summer are defined by solstices, recognized through the sun
+    and fixed landmarks, while named seasonal periods correspond to environmental
+    changes and subsistence activities.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: landscape wisdom and memory-based wayfinding
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents extensive knowledge of country, memory training, named
+    landmarks, route guidance, and successful relocation of places or objects.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic outdoor-life description rather than a mythic
+    narrative; the motif label identifies a functional knowledge pattern.
+- id: motif:2
+  label: seasonal cycle organized by solstices and ecological events
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly describes the year beginning at winter solstice, summer
+    at summer solstice, and numerous named seasonal periods tied to environmental
+    and animal events.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes calendrical knowledge, not a narrated myth of seasonal
+    renewal.
+- id: motif:3
+  label: celestial guide for night travel
+  taxonomy_refs: []
+  basis: The passage states that travelers use the north star as a guide at night.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage provides only a brief practical statement and does not develop
+    a symbolic or mythological role for the star.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10027-10032
+  quote_or_summary: The passage says the Eskimo acquire extended country knowledge
+    early by accompanying parents on hunting trips, relying on memory, observing surroundings,
+    and cultivating memory for safety in severe weather.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10032-10037
+  quote_or_summary: A native relocates a ramrod placed among grass after several hours;
+    land rises, stream curves, and seashore coves have descriptive names known to
+    visitors.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10038-10046
+  quote_or_summary: Despite snow changing the landscape, a hunter can find a deer
+    cache months later; the Eskimo guide parties by best routes, use the north star
+    at night, and make experience-based weather predictions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: lines 10048-10052
+  quote_or_summary: The year begins at the winter solstice and summer at the summer
+    solstice; solstices are recognized by the sun’s bearing relative to fixed landmarks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:5
+  type: summary
+  locator: lines 10054-10069
+  quote_or_summary: The seasons have distinctive names and many subdivisions, especially
+    in warm weather, including periods tied to the return of the sun, day length,
+    thaw, open water, animal births and arrivals, whaling, salmon fishing, berries,
+    reindeer crossing, trapping, and hunting.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif candidates
+    are cautious because the passage is ethnographic and practical rather than a mythic
+    narrative. No comparison claims are made because the passage itself does not compare
+    traditions or corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage text contains OCR-like irregularities; extraction follows the supplied passage without correction beyond neutral summarization.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l10025-l10069
+  passage_sha256=2659e0c4d0d5e0c872a1a9b529bb40dd53b3583461e2f2e805005d22de4f899e
+

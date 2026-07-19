@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l220-l264
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: INTRODUCTORY / INTRODUCTORY / CHAPTER II / NATIVE HOUSES; lines 220-264
+  start: '220'
+  end: '264'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes district divisions on the island, the absence of
+    village streets or roads, the social use of bachelor houses by men, the lack of
+    a comparable common space for women, and the construction and setting of houses
+    in coastal coconut groves on raised coralline-rock platforms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The island is divided into districts that are described as remnants of former
+    hostile tribal divisions, though now under one government they are little regarded
+    as tribal divisions.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Houses are scattered in small groups, with no village street or road between
+    rows of dwellings.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Large bachelor houses serve as meeting places for men.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Women are described as lacking a common ground for daily gossip or social
+    exchange.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Houses stand in coconut groves forming a broad coastal band around the island,
+    each with a neatly swept clearing.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The clearings are brightened by variegated crotons and shaded by tall palms.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Houses are always built on platforms about two and a half to three feet high,
+    made of masses of coralline rock.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The coralline rock is described as soft when first taken from the water and
+    suitable for smoothing and fashioning with native implements.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The platform tops are leveled with rubble and earth or covered with large
+    flat stones.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The raised foundation is interpreted by the narrator as serving to keep the
+    floor and domestic bed high and dry above rain-soaked ground.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Men have large bachelor houses available as meeting places.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: women
+  description: Women are described as not having a common ground for social exchange.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Uap housewife
+  description: The narrator links the neat swept clearing and crotons to the neatness
+    of the Uap housewife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: natives
+  description: The passage refers to native implements used to smooth and fashion
+    coralline rock when newly taken from the water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: users of male meeting houses
+  assigned_to:
+  - fig:1
+  basis: The bachelor houses are said to be adequate meeting places for men.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: group without common social ground
+  assigned_to:
+  - fig:2
+  basis: The passage states that women have no common ground for exchanging daily
+    gossip.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: household neatness figure
+  assigned_to:
+  - fig:3
+  basis: The neatness of the clearing and crotons is associated by the narrator with
+    the Uap housewife.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: builders or material workers
+  assigned_to:
+  - fig:4
+  basis: The passage says native implements are used to smooth and fashion the soft
+    coralline rock.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: coconut groves
+  literal_form: Broad band of coconut groves along the coast around the island, containing
+    the houses.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: raised house platform
+  literal_form: Two-and-a-half- to three-foot platform of coralline rock supporting
+    each house.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: coralline rock
+  literal_form: Soft lime-like rock taken from the water and fashioned into house
+    platforms.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: palms and crotons
+  literal_form: Tall palms casting chequered shade and variegated crotons brightening
+    the house clearing.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: District layout and settlement pattern
+  summary: The island is described as divided into districts that once marked hostile
+    tribal divisions, while present houses are scattered in small groups without streets
+    or roads.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gendered social spaces
+  summary: Men have bachelor houses as meeting places, while women are described as
+    lacking a comparable common gathering place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: House setting in coastal groves
+  summary: Houses sit within coconut groves along the coast, each surrounded by a
+    swept clearing with crotons and palm shade.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Construction of raised platforms
+  summary: Houses are built on raised coralline-rock platforms, leveled with rubble,
+    earth, or flat stones, apparently to keep the floor and bed dry during heavy rain.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 220-228
+  quote_or_summary: The island is divided into districts, described as remnants of
+    former hostile tribal divisions, but now under one government they are little
+    regarded as tribal divisions.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 228-236
+  quote_or_summary: Houses are scattered in small groups; the passage states that
+    no village street or road between rows of dwellings exists.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 237-244
+  quote_or_summary: Large bachelor houses are adequate meeting places for men, while
+    women are described as having no common ground for daily gossip.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 244-253
+  quote_or_summary: In coastal coconut groves, each house has a neatly swept clearing,
+    with variegated crotons and shade under tall palms.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 253-258
+  quote_or_summary: Houses are built on platforms about two and a half to three feet
+    high, made of masses of coralline rock resembling pumice.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 258-261
+  quote_or_summary: When newly taken from the water, the soft lime-like rock can be
+    smoothed and fashioned with native implements.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 261-263
+  quote_or_summary: The platform is made level on top by filling with rubble and earth
+    or by covering with large flat stones.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:8
+  type: summary
+  locator: lines 263-264
+  quote_or_summary: The narrator says the raised foundation likely keeps the floor,
+    also used as the domestic bed, high and dry above rain-deluged ground.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: rights_status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is descriptive ethnography about settlement and house construction
+    rather than a mythic narrative. No supported taxonomy motif candidates or comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family is directly supported by the passage. Literal place and construction elements were recorded as symbols without assigning taxonomy references.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l220-l264
+  passage_sha256=5a4d511cdb6f12260f41bf7374550bdc3187e8df4caf19a37c2868aef3ab784c
+

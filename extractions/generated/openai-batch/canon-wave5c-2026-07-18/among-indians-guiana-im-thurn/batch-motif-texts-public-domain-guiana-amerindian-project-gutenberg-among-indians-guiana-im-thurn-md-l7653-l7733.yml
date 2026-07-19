@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l7653-l7733
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: 'FLOWER-PICTURES. : 91. / CLASSIFICATION OF GUIANA INDIANS. . 16) / CHAPTER
+    VII. / FAMILY-SYSTEMS AND MARRIAGE-SYSTEMS.; lines 7653-7733'
+  start: '7653'
+  end: '7733'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports difficulty recovering meanings of Arawak family names,
+    notes that many names appear to derive from animals or plants, gives two Arawak
+    explanations for their origin, and describes matrilineal descent and marriage
+    restrictions among the named families.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author reports that information on the original meanings of Arawak family
+    names was difficult to obtain because many names came from obsolete expressions
+    or were remembered only by very aged persons.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two Arawaks from the same settlement reportedly disagreed about the meanings
+    of some family names, and the disagreement caused severe strife in that settlement.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the family names are generally names of animals or
+    plants common in Guiana.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One Arawak explanation says that, as families increased, heads of families
+    met and arbitrarily chose distinctive family names from nearby or immediately
+    perceived natural objects, including trees, a bird, and an insect.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second Arawak explanation, said to be held by most Arawaks, denies arbitrary
+    naming and says each family is descended from its eponymous animal, bird, or plant,
+    though the author found no examples of the descent legends.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that family names are more fixed than ordinary words, while
+    common language changes rapidly and can cause the meanings of family names to
+    become unknown.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that descent is, or was, solely in the female line and
+    that intermarriage with relations on the mother's side is not permitted.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Under the described rules, a man's children belong to his wife's family and
+    bear her name, while a woman's children belong to her family and therefore to
+    her mother's family.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Arawak families in Guiana
+  description: Named family groups whose names are discussed as deriving largely from
+    animals or plants and whose descent is described through the female line.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Heads of Arawak families
+  description: Family heads who, in one explanation, met and chose distinctive family
+    names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Eponymous animal, bird, or plant
+  description: The natural being or plant from which a family is said, in one Arawak
+    explanation, to be descended and after which it is named.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mother's-side relatives
+  description: Relatives on the mother's side with whom intermarriage is described
+    as forbidden.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named descent group
+  assigned_to:
+  - fig:1
+  basis: The passage describes Arawak families as having fixed family names and descent
+    regulated through the female line.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: name-choosing family heads
+  assigned_to:
+  - fig:2
+  basis: One tradition says the heads of families met and each chose a distinctive
+    family name.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: matrilineal family group
+  assigned_to:
+  - fig:1
+  basis: The passage states that descent is solely and rigidly in the female line.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: eponymous ancestor or source
+  assigned_to:
+  - fig:3
+  basis: Most Arawaks are said to assert that each family descends from its eponymous
+    animal, bird, or plant.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: forbidden marriage category
+  assigned_to:
+  - fig:4
+  basis: The passage states that intermarriage with relations on the mother's side
+    is not permitted.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: natural-object family name
+  literal_form: Animal or plant name used as a family name
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: arara tree
+  literal_form: The tree called arara, whose leaves were on the ground where one chief
+    sat
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bird heard at the moment
+  literal_form: A bird whose call or presence was heard when a family name was chosen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: insect seen at the moment
+  literal_form: An insect visible when a family name was chosen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: female line
+  literal_form: Descent traced through the mother and mother's family
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Recovery of family-name meanings
+  summary: The author circulates lists of family names and receives fragmentary information,
+    while correspondents report obsolete language, uncertain meanings, and disagreement
+    among informants.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arbitrary naming meeting
+  summary: In one Arawak explanation, heads of increasing families meet and choose
+    distinctive family names from natural objects encountered nearby or at that moment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Eponymous descent explanation
+  summary: In the explanation attributed to most Arawaks, each family is said to descend
+    from the animal, bird, or plant that gives it its name, although detailed descent
+    legends are not supplied.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Matrilineal descent and marriage restriction
+  summary: The passage describes descent through the female line, forbids marriage
+    with mother's-side relatives, and assigns children to the wife's or mother's family.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Family names derived from natural eponyms
+  taxonomy_refs: []
+  basis: The passage states that Arawak family names are generally those of animals
+    or plants common in Guiana and that the eponymous objects are prominent in Indian
+    life.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives a general pattern rather than detailed individual naming
+    legends.
+- id: motif:2
+  label: Descent from an eponymous animal, bird, or plant
+  taxonomy_refs: []
+  basis: Most Arawaks are said to deny arbitrary naming and to assert descent of each
+    family from its eponymous animal, bird, or plant.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The author explicitly says he was unable to find examples of the actual
+    legends of descent.
+- id: motif:3
+  label: Clan or family names chosen from immediate natural signs
+  taxonomy_refs: []
+  basis: One explanation says family heads selected names from leaves on the ground,
+    a tree behind a chief, a bird heard, or an insect seen at the moment.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage says most Arawaks emphatically deny this account.
+- id: motif:4
+  label: Matrilineal descent with maternal-side exogamy
+  taxonomy_refs: []
+  basis: The passage describes descent solely in the female line and forbids intermarriage
+    with relations on the mother's side, thereby preserving distinct family lines.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is presented as a social rule rather than a mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents two Arawak explanations with the same etiological function:
+    both explain the origin of family names, but one attributes them to arbitrary
+    selection by family heads and the other to descent from eponymous natural beings
+    or plants.'
+  claim_level: same_function
+  target: Two Arawak traditional explanations of family-name origins within the passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage only; it does not
+    establish contact, inheritance, or comparison with an external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7653-7670
+  quote_or_summary: The author circulated printed lists of Arawak family names to
+    missionaries or magistrates and reports that many names were obsolete or known
+    only to a few very aged persons.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7671-7678
+  quote_or_summary: Two correspondents consulted Arawaks from the same settlement;
+    the informants differed over meanings of some names, causing strife that nearly
+    broke up the settlement.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7680-7681
+  quote_or_summary: The passage states that the names are generally those of animals
+    or plants common in Guiana.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7682-7693
+  quote_or_summary: One Arawak explanation says family heads met and chose distinctive
+    names from natural objects immediately present, including the arara tree, another
+    tree, a bird heard, and an insect seen.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 7693-7702
+  quote_or_summary: Most Arawaks deny the arbitrary-choice account and assert that
+    each family descends from its eponymous animal, bird, or plant; the author regrets
+    not finding examples of these descent legends.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 7703-7720
+  quote_or_summary: The passage says ordinary language changes rapidly, while family
+    names remain more fixed, so some family-name meanings become unknown and are treated
+    as meaningless names.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 7721-7733
+  quote_or_summary: The passage states that descent is solely in the female line,
+    marriage with mother's-side relations is forbidden, and children belong to the
+    wife's or mother's family line.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly reports social and etiological traditions about Arawak
+    family names, but it provides no detailed individual descent legends and no external
+    comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unsupported taxonomy motif IDs were added. The only taxonomy symbol reference used is the literal tree example supplied in the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l7653-l7733
+  passage_sha256=331df162f7a6658766446c149a635b0b9ee202ddecfe4a11a403e7a74d454b78
+

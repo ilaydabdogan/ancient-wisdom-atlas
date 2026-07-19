@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1672-l1712
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: D 2 - / KULLAVAGGA. / IT, 14, 4. / IY, 14, 5.; lines 1672-1712
+  start: '1672'
+  end: '1712'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage classifies causes that give rise to legal questions of dispute
+    and censure. It distinguishes wrong-doing and right-doing, names mental dispositions
+    connected with wrongful censure, lists kinds of accusations, and states that body
+    and speech can also give rise to legal questions of censure.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three causes of wrong-doing are said to give rise to legal questions of dispute.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Three causes of right-doing that give rise to legal questions of dispute are
+    introduced; the first wording given is men not of greedy mind, with an editorial
+    cross-reference for the rest.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Legal questions of censure are said to arise from six causes of censure, three
+    causes of wrong-doing, three causes of right-doing, the body, and speech.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An editorial note says the six causes are the same as in the preceding section,
+    with censure substituted for dispute.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Men of greedy mind, evil mind, and foolish mind are described as given to
+    censure.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The censuring men accuse others of breaches of morality, breaches of behaviour,
+    error in doctrine, or adopting a wrong means of livelihood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the three causes of right-doing follow by reading
+    men not of greedy mind and related omitted wording as before.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage begins an explanation of how the body gives rise to legal questions
+    of censure by introducing the case of a man who is ill-favoured.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic audience addressed directly in the teaching formula.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men of greedy, evil, or foolish mind
+  description: Men described as given to censure and as accusing others of moral,
+    behavioural, doctrinal, or livelihood faults.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: men not of greedy mind
+  description: Men named in the abbreviated description of the causes of right-doing;
+    additional details are supplied only by editorial cross-reference.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: ill-favoured man
+  description: A man introduced at the end of the passage in the opening of an explanation
+    of bodily causes of censure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: addressed monastic audience
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly addresses the hearers as Bhikkhus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: agents of wrongful censure
+  assigned_to:
+  - fig:2
+  basis: These men are described as given to censure and as making accusations against
+    others.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: agents associated with right-doing
+  assigned_to:
+  - fig:3
+  basis: The passage introduces causes of right-doing using the wording men not of
+    greedy mind, with omitted parallel material.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: example in bodily censure case
+  assigned_to:
+  - fig:4
+  basis: The man is introduced when the text asks how the body gives rise to legal
+    questions of censure.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: body
+  literal_form: body
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: speech
+  literal_form: speech
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Causes of dispute summarized
+  summary: The passage closes a prior discussion by stating that three causes of wrong-doing
+    give rise to legal questions of dispute and then introduces three causes of right-doing
+    for dispute.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Causes of censure enumerated
+  summary: The passage asks what gives rise to legal questions of censure and lists
+    six causes, three wrong-doing causes, three right-doing causes, body, and speech.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wrongful censure described
+  summary: Men of greedy, evil, and foolish mind are said to censure and accuse others
+    regarding morality, behaviour, doctrine, and livelihood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Right-doing causes referenced
+  summary: The text states that the causes of right-doing follow in abbreviated form
+    by substituting men not of greedy mind and related wording from the prior section.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Bodily censure explanation begins
+  summary: The passage begins to explain how the body gives rise to legal questions
+    of censure with the case of an ill-favoured man, but the supplied excerpt ends
+    before the case is completed.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: enumerated causes of legal dispute and censure
+  taxonomy_refs: []
+  basis: 'The passage organizes legal questions by repeated numbered and categorical
+    causes: wrong-doing, right-doing, body, and speech.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a juridical and disciplinary classification rather than a mythic
+    narrative motif.
+- id: motif:2
+  label: mental dispositions as sources of wrongful accusation
+  taxonomy_refs: []
+  basis: Greedy, evil, and foolish minds are identified as causes behind censure and
+    accusations against others.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives an ethical-legal pattern; no broader comparative claim
+    is made here.
+- id: motif:3
+  label: body and speech as sources of censure
+  taxonomy_refs: []
+  basis: The passage explicitly states that body and speech give rise to legal questions
+    of censure, and then begins to explain the bodily case.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The supplied excerpt breaks off before the body example is completed,
+    and speech is not further explained in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1674-1676
+  quote_or_summary: The text states that three causes of wrong-doing give rise to
+    legal questions of dispute.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:2
+  type: quote
+  locator: lines 1678-1683
+  quote_or_summary: "“And which are the three causes of right-doing which give rise
+    to legal questions of dispute? ... men not of greedy mind [&c.]”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:3
+  type: summary
+  locator: lines 1685-1692
+  quote_or_summary: The text says legal questions of censure arise from six causes,
+    three wrong-doing causes, three right-doing causes, the body, and speech.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:4
+  type: quote
+  locator: lines 1694-1695
+  quote_or_summary: "“The six are word for word the same as in the last section, reading
+    ‘censure’ for ‘dispute.’”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:5
+  type: summary
+  locator: lines 1697-1705
+  quote_or_summary: Men of greedy, evil, and foolish mind are given to censure, accusing
+    others of breaches of morality or behaviour, error in doctrine, or wrong livelihood;
+    these are called three wrong-doing causes of legal questions of censure.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:6
+  type: quote
+  locator: lines 1707-1709
+  quote_or_summary: "“There follow the three causes of right-doing, reading ‘men not
+    of greedy mind,’ &c., as before.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:7
+  type: quote
+  locator: lines 1711-1712
+  quote_or_summary: "“And how does the body give rise to legal questions of censure?
+    In case a man be ill-favoured,”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The disciplinary categories are explicit. Motif labels are kept local and
+    descriptive because the passage is juridical rather than mythic. No comparison
+    claims were created.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The excerpt contains editorial abbreviations and cross-references to prior material not included in the supplied passage; omitted material was not reconstructed.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1672-l1712
+  passage_sha256=6198258b5fe54e18c014d4649b51d39dc1ecb877fe4cd78e001bd7181f67d476
+

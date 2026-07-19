@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l4276-l4375
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: 'AGEL(IEUS IMTHURNI / PLATE VI. / THE KAIETEUR IN FLOOD. V7 / FLOWER-PICTURES.
+    : 91.; lines 4276-4375'
+  start: '4276'
+  end: '4375'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the interior of a Guiana forest, including buttressed
+    and varied tree-trunks, creepers, epiphytes, sparse ground vegetation, the forest
+    roof as seen from a hill, and swamp or valley settings dominated by eta and troolie
+    palms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Very large buttressed trees require a platform above the buttresses so woodcutters
+    can cut the trunk where it is narrower and more pillar-like.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The forest contains moras, varied trunk forms, prickles on bark, flowers and
+    pods growing from bark, isolated tendrils, and small palms.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Looking upward along the trunks reveals epiphytal clumps, branch forkings,
+    a dark roof of leaves, hanging creeper masses, and epiphytes perched on creeper-ropes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The forest floor is often bare mud or covered by dead leaves, fruits, and
+    branches, with only small patches of seedlings, ferns, club-mosses, and tiny parasitic
+    gentians.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A huge fallen tree-trunk is half-buried under epiphytal plants, orchids, wild
+    pine-apples, and aroids.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: From a steep-sided hill above the forest, the forest roof appears as a level
+    sea of closely woven tree-tops and creepers, with some flowering trees and orchids
+    visible only at a distance.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Eta palms grow especially in large numbers in swampy forest areas or moist
+    savannah valleys, where their trunks, fan-leaves, fallen-leaf hillocks, black
+    mud, and dark red water streams create a gloomy scene.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Troolie palms occupy large stretches of land in the north-western part of
+    the colony; their huge uncut leaves meet overhead and maintain gloom, humidity,
+    palm debris, and conditions favorable to small ferns.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Buttressed forest trees and moras
+  description: Large buttressed trees, especially moras, appear among trunks of many
+    sizes and forms in the forest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Creepers and epiphytal plants
+  description: Creepers, epiphytes, orchids, wild pine-apples, and aroids grow on
+    trunks, hang from the canopy, perch on creeper-ropes, and cover fallen wood.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Eta palm
+  description: The eta palm grows socially in swamps or moist valleys, with massive
+    trunks, giant fan-leaves, and fallen-leaf hillocks in black mud crossed by dark
+    red water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Troolie palm
+  description: The troolie palm dominates large stretches of land; its immense uncut
+    leaves meet overhead and produce gloom and damp humidity around the stems.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dominant buttressed forest tree
+  assigned_to:
+  - fig:1
+  basis: The passage identifies moras as the largest buttressed trees and the commonest
+    tree of the colony, with multiple other trunk forms nearby.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: climbing and epiphytal vegetation
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly describes creepers and epiphytes on trunks, in the
+    canopy, on creeper-ropes, and on a fallen trunk.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: swamp- or valley-dominating palm
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The eta palm fills swampy forest areas or moist valleys, and the troolie
+    palm occupies large stretches almost exclusively.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Buttressed trees, moras, tree-trunks, a roof of leaves, fallen trunks,
+    eta palms, and troolie palms.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: Swampy ground, bare mud, moist valleys, and narrow streams of dark
+    red water between eta-palm hillocks.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Interior forest view
+  summary: The observer describes large buttressed trees, varied trunks, small palms,
+    tendrils, epiphytes, a dark leaf-roof, sparse ground plants, and a fallen trunk
+    covered by plants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Forest roof from above
+  summary: From a hill rising above the forest, the observer sees a level mass of
+    tree-tops closely woven by creepers, with flowers and orchids present but visually
+    distant.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Eta palm swamp
+  summary: A swamp or moist valley dominated by eta palms contains massive trunks,
+    fan-leaves, fallen-leaf hillocks, bare black mud, and winding dark red water.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Troolie palm forest
+  summary: A troolie palm area is marked by enormous leaves meeting overhead, constant
+    gloom, damp humidity, palm debris underfoot, and small ferns.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4276-4300
+  quote_or_summary: The passage describes platforms used for cutting large buttressed
+    trees, identifies moras as large and common buttressed trees, and notes varied
+    trunks, bark prickles, bark-growing flowers and pods, tendrils, and small palms.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4301-4330
+  quote_or_summary: The observer looks upward to epiphytes, branch forkings, a dark
+    leaf-roof, hanging creepers, and perched epiphytes, then downward to bare mud,
+    dead leaves, seedlings, ferns, club-mosses, parasitic gentians, and a fallen trunk
+    covered with epiphytal plants.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4331-4345
+  quote_or_summary: From a steep hill above the forest, the forest roof is seen as
+    a level sea of tree-tops woven together by creepers; flowering trees and orchids
+    grow there but are small and distant.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4346-4364
+  quote_or_summary: The eta palm grows socially in swampy forest or moist savannah
+    valleys; an eta swamp is described as gloomy, with massive trunks, fan-leaves,
+    fallen-leaf hillocks, bare black mud, and winding streams of dark red water.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4365-4375
+  quote_or_summary: The troolie palm occupies large north-western stretches almost
+    exclusively; its huge uncut leaves meet overhead, maintaining gloom and humidity,
+    with palm debris underfoot and small ferns around the stems.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a natural-history landscape description. Literal vegetation
+    and water imagery can be extracted, but no mythic narrative, ritual action, named
+    mythic figures, or passage-supported comparative motif claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythology motifs or comparison claims were added because the passage itself does not support them.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l4276-l4375
+  passage_sha256=6265c95ed20e6c609d435ab5bf697ed156dc6cec971682fa204fa6b534b982b2
+

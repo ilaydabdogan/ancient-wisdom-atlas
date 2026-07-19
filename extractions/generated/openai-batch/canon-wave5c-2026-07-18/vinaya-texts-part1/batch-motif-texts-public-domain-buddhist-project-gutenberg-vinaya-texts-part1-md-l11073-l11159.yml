@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l11073-l11159
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: I, 39, 2. ADMISSION TO THE ORDER OF BHIKKHUS. IQI / I, 54, 5. ADMISSION TO
+    THE ORDER OF BHIKKHUS. 2OQ / I, 64, I. ADMISSION TO THE ORDER OF BHIKKHUS. / I,
+    75. ADMISSION TO THE ORDER OF BHIKKHUS. 22Q; lines 11073-11159
+  start: '11073'
+  end: '11159'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A monk who had been expelled for refusing to acknowledge an offence returns
+    from lay life and asks for higher ordination. The Blessed One gives a conditional
+    procedure: the community should ask whether he will acknowledge, atone for, or
+    renounce the relevant offence or false doctrine before admitting, ordaining, restoring,
+    or again expelling him. Parallel rules are given for refusal to atone and refusal
+    to renounce false doctrine.'
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bhikkhu under expulsion for refusing to see an offence committed by himself
+    returned to the world, later came back to the Bhikkhus, and asked for upasampada
+    ordination.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhikkhus reported the case to the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: For a returning monk expelled for refusal to see an offence, the Blessed One
+    instructs the community to ask whether he will see that offence before admitting
+    him to pabbajja ordination; an affirmative answer permits admission and a negative
+    answer prevents it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After pabbajja ordination, the same question and conditional answer govern
+    admission to upasampada ordination.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After upasampada ordination, the same answer governs whether the monk is restored.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After restoration, the community is to ask whether he sees the offence; if
+    he does not, he may be expelled again if unanimity can be obtained, while if unanimity
+    is impossible there is no offence in dwelling together with him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'A parallel rule is given for a Bhikkhu expelled for refusing to atone for
+    an offence: he is to be asked whether he will atone, and after restoration he
+    is to be told to atone.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'A parallel rule is given for a Bhikkhu expelled for refusing to renounce
+    a false doctrine: he is to be asked whether he will renounce it, and after restoration
+    he is to be told to renounce it.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: expelled returning Bhikkhu
+  description: A Bhikkhu against whom expulsion had been pronounced, who returned
+    to the world and later sought ordination again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Bhikkhus
+  description: The monastic community that receives the returning monk, reports the
+    matter to the Blessed One, questions the candidate, admits or refuses ordination,
+    restores, or expels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the Blessed One
+  description: The authority to whom the Bhikkhus report the case and who states the
+    disciplinary procedure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: returning disciplinary applicant
+  assigned_to:
+  - fig:1
+  basis: The monk had been expelled, returned to the world, came back to the Bhikkhus,
+    and asked for upasampada ordination.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: monastic admitting and disciplinary body
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus are instructed to question the returning monk, admit or refuse
+    ordination, restore him, and potentially expel him again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: authoritative rule-giver
+  assigned_to:
+  - fig:3
+  basis: The Blessed One responds to the reported case by prescribing the conditional
+    procedure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: return from the world and request for ordination
+  summary: An expelled Bhikkhu returns from lay life to the Bhikkhus and asks for
+    upasampada ordination; the Bhikkhus report the case to the Blessed One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: conditional admission and restoration
+  summary: The Blessed One directs that the returning monk be asked whether he will
+    see the offence; affirmative replies permit pabbajja, upasampada, and restoration,
+    while negative replies prevent them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: post-restoration verification
+  summary: After restoration, the community checks whether the monk actually sees
+    the offence; failure may lead to renewed expulsion if unanimity is possible, with
+    a stated exception if unanimity cannot be obtained.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: parallel procedures for atonement and false doctrine
+  summary: The same disciplinary pattern is extended to monks expelled for refusing
+    to atone for an offence or refusing to renounce a false doctrine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: conditional initiation into the monastic order
+  taxonomy_refs:
+  - initiation
+  basis: Entry through pabbajja and upasampada ordination is made conditional on the
+    applicant’s stated willingness to acknowledge the offence, with further restoration
+    dependent on the same condition.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an institutional ordination rule rather than a mythic initiation
+    narrative.
+- id: motif:2
+  label: restoration through acknowledgment, atonement, or renunciation
+  taxonomy_refs: []
+  basis: 'A formerly expelled monk may be restored only through the appropriate corrective
+    act: seeing the offence, atoning for it, or renouncing a false doctrine.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents formal monastic discipline; broader symbolic or mythological
+    interpretation should be reviewed by a human.
+- id: motif:3
+  label: threshold question before admission
+  taxonomy_refs:
+  - initiation
+  basis: At successive stages of admission and restoration, the community poses a
+    question whose yes-or-no answer determines whether the candidate may proceed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The threshold pattern is procedural and legal; no explicit mythic threshold
+    image is present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11073-11088
+  quote_or_summary: A Bhikkhu expelled for refusing to see an offence returns to the
+    world, later comes back to the Bhikkhus, asks for upasampada ordination, and the
+    Bhikkhus report the matter to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg collection.
+- id: ev:2
+  type: summary
+  locator: lines 11089-11108
+  quote_or_summary: The Blessed One instructs the Bhikkhus to ask the returning monk
+    whether he will see the offence; an affirmative answer allows pabbajja, upasampada,
+    and restoration, while a negative answer prevents each step.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg collection.
+- id: ev:3
+  type: summary
+  locator: lines 11109-11119
+  quote_or_summary: After restoration, the Bhikkhus are to ask whether the monk sees
+    the offence; if he does not, they should expel him again if unanimity can be achieved,
+    but if unanimity is impossible, dwelling together is not an offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg collection.
+- id: ev:4
+  type: summary
+  locator: lines 11120-11129
+  quote_or_summary: The same procedure is applied to a Bhikkhu expelled for refusing
+    to atone for an offence; the question and response are changed to willingness
+    to atone, and after restoration he is told to atone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg collection.
+- id: ev:5
+  type: summary
+  locator: lines 11130-11135
+  quote_or_summary: The same procedure is applied to a Bhikkhu expelled for refusing
+    to renounce a false doctrine; the question and response concern willingness to
+    renounce it, and after restoration he is told to renounce it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg collection.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The disciplinary sequence and figures are explicit. Motif extraction is less
+    certain because the passage is monastic legal instruction rather than mythic narrative.
+    No comparison claims are made because the passage itself does not support a specific
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol was directly present in the passage; symbol extraction is left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l11073-l11159
+  passage_sha256=9e52b9a7415e02cfcb6ac47d5f2eb56f302a5d7d1cd7c34db18d930b673a28df
+

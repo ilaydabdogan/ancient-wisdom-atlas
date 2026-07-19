@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l3155-l3195
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: 1 P h awaken & ti dantamayadisu yena kena^i (B.). / Y, 2, 6. ON THE DAILY
+    LIFE OF THE BHIKKHUS. / AULLAVAGGA. / ON THE DAILY LIFE OF THE BHIKKHUS.; lines
+    3155-3195
+  start: '3155'
+  end: '3195'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives two disciplinary incidents from the daily life of the
+    Bhikkhus: some Bhikkhus wear woollen cloth with long fleece and are forbidden
+    by the Blessed One to do so; later, after King Seniya Bimbisara permits the monks
+    to take mangoes from his park, some Bhikkhus pluck and eat even the young fruits.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The AYabbaggiya Bhikkhus are said to have worn woollen cloth with long fleece.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People murmured about the matter and it was reported to the Blessed One.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Blessed One states that Bhikkhus are not to wear woollen cloth with long
+    fleece, and that one who does so is guilty of a dukka/a.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mangoes were ripe in the park of Seniya Bimbisara, king of Magadha.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seniya Bimbisara commanded that the venerable ones could have as much fruit
+    as they liked.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The AAabbaggiya Bhikkhus plucked even the young fruits and ate them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Seniya Bimbisara later wanted a mango and gave an order to go, but the quoted
+    passage breaks off before the command is completed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: AYabbaggiya / AAabbaggiya Bhikkhus
+  description: A group of Bhikkhus who wear woollen cloth with long fleece and later
+    pluck and eat young mango fruits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The people
+  description: People who murmur about the Bhikkhus' conduct and whose report reaches
+    the Blessed One.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Blessed One
+  description: The authority who forbids Bhikkhus to wear woollen cloth with long
+    fleece and declares a dukka/a penalty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Seniya Bimbisara, king of Magadha
+  description: The king whose park contains ripe mangoes and who permits the venerable
+    ones to take fruit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: disciplinary offenders
+  assigned_to:
+  - fig:1
+  basis: 'They are described performing actions that lead to correction or imply misuse:
+    wearing prohibited cloth and plucking young fruit.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: public complainants
+  assigned_to:
+  - fig:2
+  basis: They murmur and the matter is told to the Blessed One.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rule-giving religious authority
+  assigned_to:
+  - fig:3
+  basis: He states the prohibition and penalty for wearing woollen cloth with long
+    fleece.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal donor
+  assigned_to:
+  - fig:4
+  basis: He commands that the venerable ones may have as much fruit as they like from
+    his park.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: woollen cloth with long fleece
+  literal_form: woollen cloth with long fleece
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mangoes and fruit
+  literal_form: ripe mangoes, fruit, and young fruits in the king's park
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: king's park
+  literal_form: the park of Seniya Bimbisara, king of Magadha
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Prohibition of woollen cloth with long fleece
+  summary: The AYabbaggiya Bhikkhus wear woollen cloth with long fleece; after public
+    murmuring and report to the Blessed One, he forbids Bhikkhus to wear such cloth
+    and assigns a dukka/a penalty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mangoes in the royal park
+  summary: Ripe mangoes are present in King Seniya Bimbisara's park. The king permits
+    the venerable ones to take as much fruit as they like, and the AAabbaggiya Bhikkhus
+    pluck and eat even young fruits.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The king wants a mango
+  summary: Seniya Bimbisara wants a mango and begins to issue an order, but the passage
+    ends before the order is completed.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: public complaint leading to monastic rule
+  taxonomy_refs: []
+  basis: A reported public complaint about the Bhikkhus' conduct is followed by a
+    rule and penalty from the Blessed One.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a disciplinary narrative pattern, not a mythological motif in
+    the supplied taxonomy.
+- id: motif:2
+  label: royal donation and misuse of permission
+  taxonomy_refs: []
+  basis: The king gives broad permission for the venerable ones to take fruit, and
+    some Bhikkhus take even young fruits.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage excerpt does not include the ensuing judgment or rule, so
+    the pattern is incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3155-3167
+  quote_or_summary: The AYabbaggiya Bhikkhus wear woollen cloth with long fleece;
+    people murmur and the matter is reported to the Blessed One, who forbids Bhikkhus
+    to wear such cloth and assigns a dukka/a penalty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in request
+    metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3169-3179
+  quote_or_summary: Mangoes are ripe in the park of Seniya Bimbisara, king of Magadha;
+    he commands that the venerable ones may have as much fruit as they like; the AAabbaggiya
+    Bhikkhus pluck and eat even young fruits.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in request
+    metadata.
+- id: ev:3
+  type: summary
+  locator: lines 3181-3183
+  quote_or_summary: Seniya Bimbisara wants a mango and gives an order beginning with
+    'Go,' but the excerpt breaks off before the command is completed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in request
+    metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by OCR-like spellings in the passage and by the excerpt
+    ending mid-sentence during the mango episode. No comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol was directly applicable. Motif labels are descriptive passage-level patterns rather than assigned taxonomy motifs.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l3155-l3195
+  passage_sha256=7befdccb63840ad58401c5cd08c926c9a8ab57ffdad1e53df22d85ea138bc894
+

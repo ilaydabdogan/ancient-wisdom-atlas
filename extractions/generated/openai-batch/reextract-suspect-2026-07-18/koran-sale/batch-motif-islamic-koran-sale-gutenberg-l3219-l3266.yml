@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3219-l3266
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3219-3266
+  start: '3219'
+  end: '3266'
+  translation: koran-sale
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: The passage explains how chapters of the Koran are titled, how Meccan and
+    Medinan revelation locations may be noted, how chapters are subdivided into verses
+    called Ayt or signs/wonders, and how editions differ in verse division while being
+    said to preserve the same word and letter counts. It also compares some Muslim
+    textual practices with Jewish practices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter titles are described as sometimes taken from a particular matter or
+    person in the chapter, but usually from a notable word, in a manner compared to
+    Jewish Sedrim.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some chapter-title words may occur in the middle or end of a chapter because
+    the verse containing the word was said to have been revealed and written before
+    preceding verses in the present order.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some chapters have two or more titles because of differences among copies.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some chapters are said to have been revealed at Mecca, some at Medina, some
+    partly at both, and the place of revelation for others is disputed among commentators.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Each chapter is described as subdivided into smaller unequal portions customarily
+    called verses; the Arabic word Ayt is equated with Hebrew Ototh and said to signify
+    signs or wonders.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The signs or wonders are described as including the secrets, attributes, works,
+    judgments, and ordinances of God delivered in the verses.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The author states that manuscripts he has seen do not set down the number
+    of verses after each chapter title, and that he has added such information in
+    a table.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Muslims are described as reluctant to make an actual verse distinction in
+    copies because editions disagree chiefly about division and number of verses.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'Seven principal editions or ancient copies are listed by place or label:
+    two of Medina, one of Mecca, one of Cufa, one of Basra, one of Syria, and a common
+    or vulgar edition.'
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The listed editions are said to differ in total verse count but to contain
+    the same number of words and letters, with alternative computations noted in footnotes.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The author states that Muslims imitated Jews by numbering the words and letters
+    of their law.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: Named as the one whose secrets, attributes, works, judgments, and ordinances
+    are delivered in the verses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Mohammedans
+  description: Described as having scruples about making verse distinctions in copies
+    and as numbering words and letters in imitation of Jews.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Jews
+  description: Described as naming their Sedrim in a comparable manner and as having
+    numbered the words and letters of their law.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: Commentators
+  description: Described as disputing whether some chapters belong to Mecca or Medina.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine source of revealed contents
+  assigned_to:
+  - fig:1
+  basis: The verses are described as delivering God's secrets, attributes, works,
+    judgments, and ordinances.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: custodians of textual division practices
+  assigned_to:
+  - fig:2
+  basis: The passage describes Muslim reluctance to mark verse divisions because editions
+    disagree in division and number.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: comparative precedent for naming textual divisions
+  assigned_to:
+  - fig:3
+  basis: Chapter naming is explicitly compared to the Jewish naming of Sedrim.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: enumerators of sacred textual words and letters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that Muslims numbered the words and letters of their law
+    in imitation of Jews.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: disputants over place of revelation
+  assigned_to:
+  - fig:4
+  basis: Commentators are said to dispute whether some chapters belong to Mecca or
+    Medina.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Ayt as signs or wonders
+  literal_form: Arabic Ayt, equated with Hebrew Ototh, signifying signs or wonders
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Mecca and Medina as revelation-place markers
+  literal_form: Mecca and Medina noted as places associated with chapter revelation
+    and titles
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seven principal editions
+  literal_form: Seven principal editions or ancient copies of the Koran associated
+    with Medina, Mecca, Cufa, Basra, Syria, and a common edition
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: counted words and letters
+  literal_form: 77,639 words and 323,015 letters, with alternative computations in
+    footnotes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Explanation of chapter titles
+  summary: The passage explains that Koranic chapter titles may come from matters,
+    persons, or notable words, and that title placement can reflect the sequence of
+    revelation and writing rather than the present chapter order.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Classification by place of revelation
+  summary: The passage states that chapter titles may note whether chapters were revealed
+    at Mecca or Medina, while some chapters are mixed or disputed.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Verses as signs or wonders
+  summary: The passage explains that chapters are subdivided into verses called Ayt,
+    interpreted as signs or wonders containing divine secrets, attributes, works,
+    judgments, and ordinances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Editions and textual enumeration
+  summary: The passage describes disagreement in verse divisions among editions, lists
+    seven principal editions, gives different verse totals, and reports shared word
+    and letter counts with comparison to Jewish practice.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: revealed sacred text as signs or wonders
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes verses as Ayt, signs or wonders, delivering divine
+    secrets, attributes, works, judgments, and ordinances.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a metatextual description of scripture rather than a narrative
+    myth episode.
+- id: motif:2
+  label: sacred textual enumeration and preservation
+  taxonomy_refs: []
+  basis: The passage emphasizes differing verse counts across editions but reports
+    the same word and letter counts, with word-and-letter enumeration treated as a
+    sacred textual practice.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: No matching supplied motif-family taxonomy ID directly covers textual
+    enumeration; the pattern is documentary and editorial rather than mythic.
+- id: motif:3
+  label: divine judgments contained in revelation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage names God's judgments among the contents delivered in the verses.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage mentions divine judgments as contents of verses but does not
+    narrate a judgment event.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Koranic chapter naming from notable words as functionally
+    analogous to the Jewish naming of Sedrim.
+  claim_level: same_function
+  target: Jewish Sedrim naming practice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the translator's preliminary discourse and does
+    not provide independent examples from the Jewish corpus.
+- id: claim:2
+  claim: The passage asserts that Muslim numbering of words and letters imitates Jewish
+    numbering of the words and letters of their law.
+  claim_level: historical_contact
+  target: Jewish word-and-letter enumeration of the law
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording asserts imitation, but the passage does not supply historical
+    evidence demonstrating direct contact or transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3219-3225
+  quote_or_summary: Chapter titles are usually taken from a notable first word, "exactly
+    in the same manner as the Jews have named their Sedrim."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3226-3232
+  quote_or_summary: The passage explains that a title word may appear later in a chapter
+    because the verse containing it was revealed and written earlier; some chapters
+    have multiple titles due to copy differences.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3233-3237
+  quote_or_summary: Some chapters are said to be revealed at Mecca, others at Medina,
+    some partly at both, and some are disputed by commentators.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:4
+  type: quote
+  locator: lines 3238-3243
+  quote_or_summary: Verses are called Ayt, equated with Hebrew Ototh, and said to
+    signify "signs, or wonders" including God's secrets, attributes, works, judgments,
+    and ordinances.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3244-3250
+  quote_or_summary: The author says he has not seen manuscripts listing verse numbers
+    after chapter titles and says Muslims avoid actual verse distinctions because
+    editions differ in verse division and number.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:6
+  type: summary
+  locator: lines 3251-3258
+  quote_or_summary: 'Seven principal editions or ancient copies are listed: two at
+    Medina, one at Mecca, one at Cufa, one at Basra, one in Syria, and one common
+    or vulgar edition, with verse totals ranging from 6,000 to 6,236.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:7
+  type: summary
+  locator: lines 3258-3261
+  quote_or_summary: All editions are said to contain 77,639 words and 323,015 letters;
+    the author says Muslims imitated Jews by numbering the words and letters of their
+    law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+- id: ev:8
+  type: summary
+  locator: lines 3264-3266
+  quote_or_summary: Footnotes report alternative computations of 99,464 words and
+    330,113 letters, with bibliographic references.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path labels this as public-domain; no additional rights metadata
+    supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is an editorial and comparative description of scripture rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are limited to the supplied passage. Archaic and polemical phrasing in the source has been summarized neutrally where possible.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3219-l3266
+  passage_sha256=6a18e9446e28d148b8f3e8f6a14c999d855f7433d6d7ae8a56fea772641b35f6
+

@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l12265-l12302
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: THE WOMAN AND COYOTE / THE PIMA BOY AND THE APACHES / THE BIRDS AND THE FLOOD
+    / THE BLUEBIRD AND COYOTE; lines 12265-12302
+  start: '12265'
+  end: '12302'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Bluebird, once ugly in color, bathes repeatedly in an isolated lake while
+    singing and becomes blue. Coyote observes, asks how to become blue, learns the
+    song, and repeats the bathing. He becomes blue, grows proud, fails to watch the
+    road, strikes a stump, falls in dirt, and becomes dust-colored; the tale concludes
+    that coyotes remain dirt-colored.
+  language: English, with a short transcribed song and English rendering
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bluebird is described as once having a very ugly color.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The transformation occurs at a lake with no river flowing into or out of it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bluebird bathes in the lake four times every morning for four mornings and
+    sings while doing so.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: On the fourth morning Bluebird sheds all its feathers and comes out in bare
+    skin; on the fifth morning it comes out with blue feathers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coyote watches Bluebird, wants to jump in and get it, but is afraid of the
+    water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Coyote asks how Bluebird's ugly color has come out and says he wants to be
+    blue too; Coyote is described as bright green at that time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Bluebird teaches Coyote the song, and Coyote repeats the bathing sequence,
+    coming out blue on the fifth time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After becoming blue, Coyote is proud and looks around to see whether anyone
+    notices him and whether his shadow is blue.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Because he is not watching the road, Coyote runs into a stump, falls in the
+    dirt, becomes dust-colored, and the passage says all coyotes are dirt-colored
+    to this day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage includes an editorial note stating that a sentence is clearly
+    inspired by Christian teachings.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bluebird
+  description: A bird initially described as ugly in color; it bathes in an isolated
+    lake, sings, sheds feathers, and receives blue feathers; it teaches Coyote the
+    song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Coyote
+  description: An animal initially described as bright green; he watches Bluebird,
+    asks to become blue, imitates the bathing and song, becomes blue, grows proud,
+    collides with a stump, falls in dirt, and becomes dust-colored.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: transforming animal
+  assigned_to:
+  - fig:1
+  basis: Bluebird changes from an ugly color to blue through repeated bathing and
+    song.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: teacher of song and procedure
+  assigned_to:
+  - fig:1
+  basis: Bluebird tells Coyote it went in four times and teaches him the song.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: observer and imitator
+  assigned_to:
+  - fig:2
+  basis: Coyote watches Bluebird, asks how the change occurred, learns the song, and
+    repeats the bathing.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: proud transformed animal
+  assigned_to:
+  - fig:2
+  basis: After becoming blue, Coyote feels proud and looks around to see whether he
+    is being noticed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: etiological example for coyote color
+  assigned_to:
+  - fig:2
+  basis: Coyote becomes dust-colored after falling in dirt, and the passage concludes
+    that all coyotes are the color of dirt.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: isolated lake / blue water
+  literal_form: A lake where no river flowed in or out; the song refers to blue water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: blue feathers and blue body color
+  literal_form: Blue feathers gained by Bluebird and blue coloration gained by Coyote.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: shed feathers and bare skin
+  literal_form: Bluebird sheds all feathers and emerges in bare skin before receiving
+    blue feathers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fourfold bathing and fifth emergence
+  literal_form: Bathing four times over repeated mornings, followed by a fifth-morning
+    emergence in changed color.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: stump and dirt
+  literal_form: A stump in the road and dirt into which Coyote falls, making him dust-colored.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bluebird's repeated bathing and transformation
+  summary: Bluebird bathes repeatedly in an isolated lake while singing; after shedding
+    feathers and appearing bare-skinned, it emerges with blue feathers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Coyote learns and imitates the transformation
+  summary: Coyote watches Bluebird, asks about the color change, learns the song,
+    and repeats the water ritual, becoming blue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Coyote's pride and loss of blue color
+  summary: Coyote becomes proud of being blue, looks around instead of watching the
+    road, strikes a stump, falls in dirt, becomes dust-colored, and the tale explains
+    present-day coyote color.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: transformative bathing with song
+  taxonomy_refs: []
+  basis: Bluebird's repeated bathing and song produce a change from ugly coloration
+    to blue feathers; Coyote later repeats the same procedure and becomes blue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states a color transformation, not a broader initiation or
+    purification rite.
+- id: motif:2
+  label: animal imitates another animal's transformation
+  taxonomy_refs: []
+  basis: Coyote observes Bluebird's transformation, asks for the method, learns the
+    song, and imitates the bathing to become blue.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly frame Coyote as a trickster in this episode.
+- id: motif:3
+  label: vanity causes loss of acquired beauty
+  taxonomy_refs: []
+  basis: After becoming blue, Coyote is proud and distracted by his appearance, leading
+    to a collision and loss of the blue color.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The causal link is narrative and moralizing, but no explicit moral statement
+    is given.
+- id: motif:4
+  label: origin of an animal's present coloration
+  taxonomy_refs: []
+  basis: The tale concludes that Coyote's fall in dirt explains why all coyotes are
+    now dirt-colored.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No specific external parallel or historical relationship is supplied in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The conclusion functions like an etiological animal-trait origin tale because
+    it explains why coyotes are dirt-colored today.
+  claim_level: same_function
+  target: etiological animal-trait origin tale pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; the passage does not provide
+    evidence for historical contact, common inheritance, or a specific parallel text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12265-12270
+  quote_or_summary: Bluebird is introduced as once ugly in color; it bathes in a lake
+    with no river flowing in or out, four times every morning for four mornings.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 12270-12277
+  quote_or_summary: The bathing is accompanied by a song rendered in transcription
+    and translated as referring to blue water and becoming all blue.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 12278-12280
+  quote_or_summary: On the fourth morning Bluebird sheds all feathers and comes out
+    in bare skin; on the fifth morning it comes out with blue feathers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 12281-12288
+  quote_or_summary: Coyote watches, is afraid of the water, asks how Bluebird became
+    blue, says he wants to be blue, learns the song, bathes four times, and on the
+    fifth time comes out blue.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 12289-12293
+  quote_or_summary: Coyote is proud of becoming blue and looks around to see whether
+    anyone notices and whether his shadow is blue.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: 12294-12302
+  quote_or_summary: Coyote fails to watch the road, runs into a stump, falls in the
+    dirt, becomes dust-colored, and the tale says all coyotes are the color of dirt
+    to this day.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+- id: ev:7
+  type: note
+  locator: '12273'
+  quote_or_summary: An editorial note in the passage says that a sentence is clearly
+    inspired by Christian teachings.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates a public-domain collection; explicit rights_status
+    was not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied passage. Motif taxonomy assignment
+    is left empty where available taxonomy labels would require broader interpretation.
+    The editorial note is recorded as paratext and not used to infer a comparative
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No tradition, culture, language, or explicit rights metadata beyond the source path was supplied. The passage label includes multiple tale headings, but the supplied passage text is the Bluebird and Coyote tale.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l12265-l12302
+  passage_sha256=7299a922792d8a0989c05c6341643784550976f6ac4d1cba10ba1351bf536f03
+

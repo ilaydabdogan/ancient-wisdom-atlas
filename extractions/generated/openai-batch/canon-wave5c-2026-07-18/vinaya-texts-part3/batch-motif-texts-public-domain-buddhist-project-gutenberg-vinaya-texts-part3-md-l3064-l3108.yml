@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l3064-l3108
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: STULLAVAGGA. / V, 2, 4- / 1 P h awaken & ti dantamayadisu yena kena^i (B.).
+    / Y, 2, 6. ON THE DAILY LIFE OF THE BHIKKHUS.; lines 3064-3108
+  start: '3064'
+  end: '3108'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives monastic rules for Bhikkhus: facial and bodily cosmetic
+    practices are prohibited, with an exception for disease; attendance at dancing,
+    singing, and music is prohibited after some Bhikkhus attend a mountain-top festival
+    at Rajagaha and the public criticizes them as worldly.'
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhikkhus are instructed not to anoint, rub, whiten, color, or paint their
+    faces or bodies as cosmetic practices.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A certain Bhikkhu has an eye disease, and the Blessed One allows face-anointing
+    on account of disease.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A festival is described as taking place on the mountain-top at Rajagaha.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Chabbaggiya Bhikkhus go to see the mountain-top festival.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people object that Sakyaputtiya Samanas are going to see dancing, singing,
+    and music like people still enjoying worldly pleasures.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Blessed One prohibits Bhikkhus from going to see dancing, singing, or
+    music, with a dukkaṭa offense for doing so.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note explains the festival term as probably connected with ancient local
+    worship or custom, specifically worship in high places, and not closely allied
+    to Vedic Brahmanism or Buddhism.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: The authority who gives the rules and allowances to the Bhikkhus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: The monastic community addressed by the rules about bodily adornment
+    and festival entertainments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: A certain Bhikkhu with eye disease
+  description: A monk whose eye disease prompts an exception allowing face-anointing
+    for illness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Chabbaggiya Bhikkhus
+  description: A group of Bhikkhus who go to see the mountain-top festival at Rajagaha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The people
+  description: Public observers who murmur and criticize the monks for attending dancing,
+    singing, and music.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: monastic rule-giver
+  assigned_to:
+  - fig:1
+  basis: The Blessed One grants a medical allowance and later prohibits attending
+    dancing, singing, and music.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: monastic addressees
+  assigned_to:
+  - fig:2
+  basis: The prohibitions are addressed to the Bhikkhus.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: medical exception case
+  assigned_to:
+  - fig:3
+  basis: The monk's eye disease leads to an allowance for face-anointing on account
+    of disease.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: occasioning offenders or example group
+  assigned_to:
+  - fig:4
+  basis: The Chabbaggiya Bhikkhus attend the festival, prompting public criticism
+    and a rule.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: public critics
+  assigned_to:
+  - fig:5
+  basis: The people complain that the monks are attending worldly entertainments.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain-top festival place
+  literal_form: festival on the mountain-top at Rajagaha
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: face and body adornment
+  literal_form: anointing, rubbing ointment, applying chunam, smearing red arsenic,
+    and painting faces or bodies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: performance entertainments
+  literal_form: dancing, singing, and music
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bodily adornment rule with medical exception
+  summary: Cosmetic treatment of the face and body is forbidden for Bhikkhus, but
+    an exception is allowed when a monk has disease in his eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mountain-top festival and entertainment prohibition
+  summary: The Chabbaggiya Bhikkhus attend a mountain-top festival at Rajagaha. Public
+    criticism follows, and the Blessed One forbids monks from going to see dancing,
+    singing, or music.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ascetic restraint of bodily adornment
+  taxonomy_refs: []
+  basis: The passage prohibits cosmetic use of ointment, whitening, red pigment, and
+    body or face painting, while allowing treatment for illness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a monastic disciplinary pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: renunciation of worldly entertainment
+  taxonomy_refs: []
+  basis: The public criticizes monks for attending dancing, singing, and music as
+    if they were still enjoying worldly pleasures, and the rule forbids such attendance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states a disciplinary rule; broader symbolic interpretation
+    should be reviewed.
+- id: motif:3
+  label: high-place festival or worship custom
+  taxonomy_refs: []
+  basis: The event is a mountain-top festival at Rajagaha, and the note links the
+    festival term to ancient local worship or custom in high places.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The connection to worship in high places comes from the note and is explicitly
+    presented as probable, not certain.
+comparison_claims:
+- id: claim:1
+  claim: The note cautiously relates the mountain-top festival term to ancient local
+    worship or custom, specifically worship in high places, while distinguishing it
+    from Vedic Brahmanism and Buddhism.
+  claim_level: same_function
+  target: ancient local worship/custom; high-place worship
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is based on an editorial note within the passage, not on an explicit
+    canonical comparison or a named parallel tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3066-3070
+  quote_or_summary: Bhikkhus are told not to anoint or rub ointment into their faces,
+    apply chunam or red arsenic, or paint their bodies or faces.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3072-3077
+  quote_or_summary: A Bhikkhu with eye disease is reported, and the Blessed One allows
+    face-anointing on account of disease.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 3079-3082
+  quote_or_summary: A festival occurs on the mountain-top at Rajagaha, and the Chabbaggiya
+    Bhikkhus go to see it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 3084-3090
+  quote_or_summary: The people object that Sakyaputtiya Samanas are going to see dancing,
+    singing, and music like those enjoying worldly pleasures.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 3092-3095
+  quote_or_summary: The Blessed One forbids Bhikkhus from going to see dancing, singing,
+    or music and states that doing so is a dukkaṭa offense.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: note
+  locator: lines 3101-3108
+  quote_or_summary: The note explains Giragga-samagga as a mountain-top gathering
+    and says it is probably connected with ancient local worship or custom, a worship
+    in high places, not closely allied to Vedic Brahmanism or Buddhism.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal disciplinary content is clear. Motif labels are descriptive and need
+    human review because the passage is regulatory rather than mythic. The comparison
+    claim relies only on the included note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied symbol reference for mountain were used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l3064-l3108
+  passage_sha256=c3de8036899df83d30bd2d81f1d02f23b8613556238d572b825c1e1be7a08317
+

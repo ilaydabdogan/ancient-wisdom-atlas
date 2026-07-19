@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l25371-l25442
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: MN8M01R1 / TETON  6I0UX  MUSIC / TWO  SHIELDS / BUBEAU  OF  AMERICAN  ETHNOLOGY;
+    lines 25371-25442
+  start: '25371'
+  end: '25442'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A short Sioux song text, with English glosses, places the speaker in relation
+    to the north and northern hills, says the speaker climbed them, roamed, and came
+    again. The accompanying analysis describes the song as a favorite recorded by
+    three singers, notes a variant mentioning streams rather than hills, and gives
+    musical and duplication details for versions including one sung by One Feather.
+  language: Teton Sioux/Dakota-Lakota transliteration with English glosses and English
+    commentary
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song text refers to the north and to hills.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker says that they climbed the hills.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song text includes roaming.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The song text includes the first-person statement of coming again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The analysis says the song was recorded by three singers on widely separated
+    parts of the reservation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The analysis says the first two singers' words are practically the same, while
+    the third singer mentions streams instead of the hills of the north country.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage identifies the rendition by Many Wounds as the one used in the
+    tabulated analyses.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage identifies a duplication of No. 132 as sung by One Feather.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage says the One Feather duplication has the same words as No. 132
+    except that the word glossed as “I climbed” is omitted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The passage says this duplication and the following duplication begin and
+    end on the same tone.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person song speaker
+  description: The voice indicated by the glosses “I climbed,” “roaming,” “I myself,”
+    and “come.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Many Wounds
+  description: A singer whose rendition is identified as the one used in the tabulated
+    analyses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: One Feather
+  description: The singer of the duplication of No. 132 in this passage.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: unnamed third singer
+  description: The singer whose version is said to mention streams instead of the
+    hills of the north country.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: first-person traveler or roamer
+  assigned_to:
+  - fig:1
+  basis: The song speaker is associated with climbing hills, roaming, and coming again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: song singer or performer
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The analysis discusses the song as recorded by three singers and names specific
+    singers for renditions or duplications.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: source rendition for tabulated analysis
+  assigned_to:
+  - fig:2
+  basis: The passage states that the rendition by Many Wounds is the one used in the
+    tabulated analyses.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: duplication singer
+  assigned_to:
+  - fig:3
+  basis: The duplication of No. 132 is explicitly marked as sung by One Feather.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: variant-text singer
+  assigned_to:
+  - fig:4
+  basis: The third singer is distinguished by a text variant that mentions streams
+    instead of hills.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: north
+  literal_form: the north / north country
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hills
+  literal_form: those hills; hills of the north country
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: streams
+  literal_form: streams mentioned in the third singer's variant
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: climbing
+  literal_form: the action glossed as “I climbed”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: speaker in the northern landscape
+  summary: The song speaker refers to the north and hills, says the hills were climbed,
+    mentions roaming, and says the speaker comes again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: recorded song variants compared
+  summary: The analysis compares multiple recorded renditions, noting three singers,
+    a variant with streams in place of hills, the Many Wounds rendition used for analysis,
+    and the One Feather duplication that omits the climbed word.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: musical duplication feature
+  summary: The passage notes that this duplication and the following duplication begin
+    and end on the same tone.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: climbing or ascent in a northern landscape
+  taxonomy_refs:
+  - ascent
+  basis: The song text includes a first-person speaker saying they climbed hills in
+    the north.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief song text and does not provide a larger mythic
+    narrative or ritual interpretation for the ascent.
+- id: motif:2
+  label: return after roaming
+  taxonomy_refs:
+  - return
+  basis: The song text combines roaming with the first-person statement of coming
+    again.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The glossed words are fragmentary, and the destination or meaning of the
+    return is not specified.
+- id: motif:3
+  label: landscape variant between hills and streams
+  taxonomy_refs: []
+  basis: The analysis reports that one singer's version mentions streams instead of
+    the hills of the north country.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a textual variant rather than a clearly developed mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25371-25378
+  quote_or_summary: Song words with glosses refer to the north, those hills, “I climbed,”
+    roaming, again, “I myself,” and “come.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; supplied rights_status
+    metadata is null.
+- id: ev:2
+  type: summary
+  locator: 25380-25395
+  quote_or_summary: Analysis describes the song as a favorite Sioux song recorded
+    by three singers; the first two singers' words are practically the same, the third
+    mentions streams instead of northern hills, and Many Wounds' rendition is used
+    in tabulated analyses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; supplied rights_status
+    metadata is null.
+- id: ev:3
+  type: summary
+  locator: 25403-25427
+  quote_or_summary: The passage labels the item as a duplication of No. 132, sung
+    by One Feather, and says its words are the same as No. 132 except that the word
+    glossed as “I climbed” is omitted.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; supplied rights_status
+    metadata is null.
+- id: ev:4
+  type: summary
+  locator: 25429-25442
+  quote_or_summary: The passage states that this and the following duplication of
+    No. 132 begin and end on the same tone, and lists other songs in the series with
+    the same peculiarity.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Repository path indicates public-domain source; supplied rights_status
+    metadata is null.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by OCR/transliteration irregularities and the
+    brevity of the song text. Motif candidates are cautious because the passage mainly
+    provides song words, variants, and musicological commentary rather than an explicit
+    mythic narrative. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external context was used beyond the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l25371-l25442
+  passage_sha256=7a069c9a6aa549904c258dd59d9396cc6491d27e6ae387bc26c442f15056c802
+

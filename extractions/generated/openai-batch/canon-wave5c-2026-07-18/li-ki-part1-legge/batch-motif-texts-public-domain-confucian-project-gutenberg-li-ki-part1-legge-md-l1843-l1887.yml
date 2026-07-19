@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l1843-l1887
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XX. XT FA. / Book XXII. At THUNG. / Book XXIII. KING XIEH. / Book XXIV.
+    Ar Kunc WAn.; lines 1843-1887
+  start: '1843'
+  end: '1887'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial introduction to Book XXIV, explaining the title as “Questions
+    of Duke Ai,” describing two conversations between Duke Ai of Lu and Confucius
+    on ceremonies and government, noting doubts about the conversations’ genuineness
+    and other recensions, and discussing a disputed comparison between Confucius’s
+    use of Thien Tao, the Way of Heaven, and Lao-jze/Taoist language.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the Book’s title as a translation of opening characters
+    meaning “Duke Ai asked.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Book is described as containing two conversations on ceremonies and the
+    practice of government between Duke Ai of Lu and Confucius.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Confucius is described as an old minister of the state who retained a right
+    of entrance to the court after retiring from public life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says Confucius may have conversed with the marquis on these subjects,
+    but questions whether the particular transmitted conversations are genuine.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the Treatise appears in other recensions, including
+    the Li of the Greater Tai and the collection called Narratives of the School.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: P. Callery translates Thien Tao as “La Vérité Céleste” and notes a perceived
+    resemblance between Confucius’s discussion of Tao and Lao-jze in the Tao Teh Xing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editor rejects the proposed resemblance to the Taoist classic and says
+    that, if Taoist-seeming phraseology existed, it would suggest composition in the
+    time of Qin or early Han.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Duke Ai / marquis Jiang of Lu
+  description: The marquis of Lu, posthumously called Duke Ai, whose question opens
+    the Book and who is described as conversing with Confucius.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Confucius
+  description: The sage and former minister of Lu described as conversing with Duke
+    Ai on ceremonies and government.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: P. Callery
+  description: A translator-commentator who renders Thien Tao as “La Vérité Céleste”
+    and comments on its resemblance to Lao-jze’s Tao.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Lao-jze
+  description: A philosopher named in the reported comparison between Confucius’s
+    treatment of Tao and the Tao Teh Xing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ruler-questioner
+  assigned_to:
+  - fig:1
+  basis: The title is explained as meaning “Duke Ai asked,” and the contents are described
+    as conversations between Duke Ai and Confucius.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sage and retired minister
+  assigned_to:
+  - fig:2
+  basis: Confucius is called the sage and is described as an old minister with access
+    to court after retirement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: translator-commentator
+  assigned_to:
+  - fig:3
+  basis: P. Callery is cited for translating Thien Tao and adding a note comparing
+    Confucius and Lao-jze.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: referenced philosopher in Tao comparison
+  assigned_to:
+  - fig:4
+  basis: Lao-jze is named as the comparison point for Confucius’s way of speaking
+    about Tao in the Tao Teh Xing.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Duke Ai questions Confucius
+  summary: The passage frames the Book as two conversations in which Duke Ai of Lu
+    asks or converses with Confucius about ceremonies and government.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recension notice
+  summary: The editor lists other textual recensions and collections in which the
+    Treatise or its conversations appear, with variations and alternative titles.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Disputed Taoist resemblance
+  summary: The editor reports Callery’s comparison between Confucius’s Thien Tao and
+    Lao-jze/Tao Teh Xing, then rejects the existence of a real resemblance to the
+    Taoist classic.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ruler questions sage about rites and government
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes conversations between Duke Ai, a ruler-questioner,
+    and Confucius, the sage, on ceremonies and the practice of government.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial introduction rather than the conversation
+    itself, and it explicitly raises doubts about the genuineness of the transmitted
+    conversations.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a proposed resemblance between Confucius’s speech about
+    Thien Tao, the Way of Heaven, and Lao-jze/Tao Teh Xing, but the editor states
+    that close examination does not support the resemblance.
+  claim_level: linguistic_similarity
+  target: Tao Teh Xing / Taoist classic associated with Lao-jze
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: This is a secondary editorial discussion, not the underlying paragraph
+    itself; the passage expressly disputes the comparison it reports.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1843-1852
+  quote_or_summary: The Book’s title is explained as meaning “Duke Ai asked,” and
+    its contents are described as two conversations on ceremonies and government between
+    Duke Ai of Lu and Confucius.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:2
+  type: summary
+  locator: lines 1853-1863
+  quote_or_summary: Confucius is described as an old minister with access to court
+    after retirement; the editor allows that conversations may have occurred but questions
+    the genuineness of the particular accounts.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:3
+  type: summary
+  locator: lines 1864-1875
+  quote_or_summary: The Treatise is said to appear in other recensions, including
+    the Li of the Greater Tai and the Narratives of the School, with variations and
+    alternate article titles.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:4
+  type: summary
+  locator: lines 1876-1882
+  quote_or_summary: Callery translates Thien Tao as “La Vérité Céleste” and says Confucius
+    speaks of this Tao in a way not unlike Lao-jze in the Tao Teh Xing.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+- id: ev:5
+  type: summary
+  locator: lines 1883-1887
+  quote_or_summary: The editor says close examination shows that the resemblance to
+    the Taoist classic does not exist, and that Taoist-seeming phraseology would suggest
+    a Qin or early Han composition date.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    collection.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is mostly editorial and textual-critical. The wisdom motif is
+    supported only at the framing level, and the only comparison claim is explicitly
+    disputed by the editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No concrete mythic symbols from the supplied taxonomy are present in this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l1843-l1887
+  passage_sha256=d292732c7d0d79b1f57eb2d282d14e0b43546e7a1a0c7b8febd98b6a7540e6d1
+

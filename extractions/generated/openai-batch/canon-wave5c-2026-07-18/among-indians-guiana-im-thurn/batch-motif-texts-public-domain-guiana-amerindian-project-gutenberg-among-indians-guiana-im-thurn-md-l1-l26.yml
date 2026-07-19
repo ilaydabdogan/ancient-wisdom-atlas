@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l1-l26
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: among-indians-guiana-im-thurn; lines 1-26
+  start: '1'
+  end: '26'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person narrator recalls landing in British Guiana in 1877, spending
+    about two and a half years between Indigenous communities and the colony’s chief
+    town, and leaving in 1879. During the following two years in England, fine days
+    in English countryside seemed superior to tropical days, but gloomy days caused
+    his thoughts to turn westward with longing for Guianese forests, rivers, and savannahs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person narrator says he first landed in British Guiana in July 1877.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the intervening two and a half years were spent partly wandering
+    among the Indigenous people referred to in the passage as Indians and partly in
+    the chief town of the colony.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says he left the country on Christmas Day 1879, thinking at the
+    time that he was leaving forever.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: During the following two years in England, the narrator describes spending
+    fine days wandering in down-country, English lanes and woods, and by the river
+    near Oxford.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator says he felt that such fine English days surpassed the pleasant
+    days and years that a man might spend in the tropics.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On gloomy days, the narrator says his thoughts turned westward and he longed
+    to be once more among Guianese tropical landscapes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The longed-for landscapes include deep shadows and broken lights of tropical
+    forests, sunlit waters of broad rivers, and rolling limitless savannahs.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: First-person narrator
+  description: The speaker who landed in British Guiana, lived there for about two
+    and a half years, left for England, and later remembers and longs for Guianese
+    landscapes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Indians of British Guiana (passage term)
+  description: The Indigenous people among whom the narrator says he wandered during
+    part of his time in British Guiana.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: traveler or sojourner in British Guiana
+  assigned_to:
+  - fig:1
+  basis: The narrator reports landing in British Guiana, spending two and a half years
+    there, and later leaving.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recollecting narrator in England
+  assigned_to:
+  - fig:1
+  basis: The narrator describes his later years in England and his changing thoughts
+    on fine and gloomy days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: people among whom the narrator wandered
+  assigned_to:
+  - fig:2
+  basis: The narrator states that part of his time was spent wandering among them.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Rivers and water
+  literal_form: The river near Oxford and the sunlit waters of broad rivers in the
+    remembered Guianese landscape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Tropical forest imagery
+  literal_form: Deep shadows and broken lights of gigantic tropical forests.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Savannah imagery
+  literal_form: Rolling, limitless savannahs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Westward direction
+  literal_form: The narrator’s thoughts turn westward on gloomy days.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Landing, residence, and departure from British Guiana
+  summary: The narrator lands in British Guiana, spends about two and a half years
+    divided between wandering among Indigenous communities and staying in the colony’s
+    chief town, and leaves on Christmas Day 1879 thinking the departure permanent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fine days in England
+  summary: In England, the narrator wanders through countryside, lanes, woods, and
+    by the Oxford river, and judges such fine days as surpassing tropical days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gloomy-day longing for Guiana
+  summary: On gloomy days, the narrator’s thoughts turn westward and he longs for
+    tropical forests, broad rivers, and savannahs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Departure from a lived-in land
+  taxonomy_refs:
+  - departure
+  basis: The narrator describes leaving British Guiana after a substantial stay and
+    believing the departure to be forever.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an autobiographical travel-preface passage, not a mythic or supernatural
+    narrative.
+- id: motif:2
+  label: Longing to return to an absent landscape
+  taxonomy_refs:
+  - return
+  basis: While in England, the narrator says gloomy days turned his thoughts westward
+    and made him long to be once more among Guianese forests, rivers, and savannahs.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage expresses desire or mental return only; it does not narrate
+    an actual return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6-10
+  quote_or_summary: The narrator first lands in British Guiana in July 1877, spends
+    about two and a half years partly among Indians and partly in the colony’s chief
+    town, and leaves on Christmas Day 1879 thinking he is leaving forever.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Path indicates a public-domain Project Gutenberg source; rights_status
+    metadata was not otherwise supplied.
+- id: ev:2
+  type: summary
+  locator: lines 12-18
+  quote_or_summary: During two later years in England, fine days allow the narrator
+    to wander through countryside, lanes, woods, and by the river near Oxford, and
+    he judges such days superior to tropical ones.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Path indicates a public-domain Project Gutenberg source; rights_status
+    metadata was not otherwise supplied.
+- id: ev:3
+  type: summary
+  locator: lines 19-26
+  quote_or_summary: On gloomy days, the narrator’s thoughts turn westward and he longs
+    for deep-shadowed tropical forests, sunlit broad rivers, and rolling limitless
+    savannahs.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Path indicates a public-domain Project Gutenberg source; rights_status
+    metadata was not otherwise supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal travel and landscape observations are clear. Motif candidates are
+    broad and non-mythic because the passage is prefatory autobiographical prose.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supernatural beings, ritual actions, or explicit comparative mythology claims appear in the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l1-l26
+  passage_sha256=180210d82d6fe54a938f67e5bef7565597803196b0f415776ba3c6fc20886eb8
+

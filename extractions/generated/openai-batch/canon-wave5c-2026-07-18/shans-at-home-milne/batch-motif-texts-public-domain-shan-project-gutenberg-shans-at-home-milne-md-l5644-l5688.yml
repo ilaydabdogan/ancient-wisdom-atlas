@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l5644-l5688
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE HOME / EMBROIDERED BANNER. / MEMORIAL BANNERS. / BUDDHIST TEMPLE.; lines
+    5644-5688
+  start: '5644'
+  end: '5688'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: the image is completely overlaid with pure gold
+  summary: The passage describes a Buddhist temple with Buddha and disciple statues,
+    the application of gold leaf to images, Buddhists' explanation that the images
+    are reverenced as portraits rather than adored, temple architecture and scripture
+    storage, guardian animal figures, and bells sounded by wind or struck after prayers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The central figure in the temple is described as made of white marble, wood,
+    or brick covered with plaster; smaller images are sometimes metal.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Statues of the Buddha represent him sitting or standing, while statues of
+    disciples stand or kneel.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A person may apply gold leaf to any part of a statue; over time the patches
+    of gold may expand until the image is completely covered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Buddhists in the passage explain that they do not worship the images but regard
+    them as portraits of their great Teacher, to be reverenced and not adored.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The temples are shadowy, with high roofs supported by teak columns and decoration
+    in dark red and gold.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Buddhist Scriptures are written on rolls of native paper or on palm leaves
+    from Burma, wrapped in embroidered covers, and kept in large wooden chests.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Temples and pagodas are guarded by grotesque stone or stucco animals described
+    as Chinese in type, with open mouths and a diabolical grin.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pagoda bells are silent on calm days and peal when wind rises; larger monastery
+    court bells are struck with a deer antler after prayers or recitations.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Buddha image or statue
+  description: A statue representing the Buddha sitting or standing, regarded as a
+    portrait of the great Teacher and subject to the application of gold leaf.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Disciple statues
+  description: Statues representing disciples, described as standing or kneeling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Buddhist practitioner or gold-leaf applier
+  description: A person who may apply gold leaf to a statue; Buddhists are described
+    as explaining that images are reverenced portraits, not objects of adoration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Guardian animals
+  description: Grotesque stone or stucco animals guarding temples and pagodas, Chinese
+    in type, with open mouths and a diabolical grin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reverenced teacher portrait
+  assigned_to:
+  - fig:1
+  basis: The image represents the Buddha and is explained as a portrait of the great
+    Teacher to be reverenced rather than adored.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: represented disciples
+  assigned_to:
+  - fig:2
+  basis: The passage says statues of disciples stand or kneel.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: devotional/reverential actor
+  assigned_to:
+  - fig:3
+  basis: A person may apply gold leaf to the statue, and Buddhists explain the reverential
+    status of images.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sacred-structure guardian
+  assigned_to:
+  - fig:4
+  basis: The animals are said to guard temples and pagodas.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Buddha image
+  literal_form: Temple statue representing the Buddha, sitting or standing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: gold leaf
+  literal_form: Gold leaf applied in patches to the statue until it may become fully
+    gilded
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Buddhist Scriptures
+  literal_form: Scriptures on rolls of native paper or palm leaves, wrapped in embroidered
+    covers and kept in wooden chests
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: guardian animals
+  literal_form: Grotesque stone or stucco animals with open mouths and a diabolical
+    grin
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: pagoda bells
+  literal_form: Bells on pagoda tops that peal in wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: deer antler bell striker
+  literal_form: Antler of a deer used to strike large monastery court bells after
+    prayers or recitations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Images and gold-leaf reverence
+  summary: The passage describes Buddha and disciple statues in the temple, explains
+    the reverential status of the images, and describes gold leaf being applied until
+    an image may become fully covered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Temple interior and scripture storage
+  summary: The temple interior is shadowy and decorated in dark red and gold; scriptures
+    are written on paper or palm leaves, wrapped in embroidered covers, and stored
+    in large wooden chests.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Guarded sacred buildings
+  summary: Temples and pagodas are described as guarded by grotesque stone or stucco
+    animal figures with Chinese-type features.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Bells in wind and ritual closure
+  summary: Pagoda bells sound when the wind rises, while larger court bells are struck
+    with a deer antler after prayers or recitations.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Devotional gilding of a sacred image
+  taxonomy_refs: []
+  basis: A practitioner may apply gold leaf to any part of a Buddha statue, and repeated
+    applications can eventually cover the whole image.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents a ritual practice rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: Reverenced image as teacher portrait
+  taxonomy_refs: []
+  basis: The passage states that Buddhists explain the images as portraits of the
+    great Teacher, to be reverenced but not adored.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The statement is doctrinal/ethnographic within the passage and should
+    not be generalized beyond it without further sources.
+- id: motif:3
+  label: Animal guardians of sacred structures
+  taxonomy_refs: []
+  basis: Temples and pagodas are described as guarded by grotesque stone or stucco
+    animals.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not identify the animals by species or give a mythic
+    origin.
+- id: motif:4
+  label: Ritual sound marking prayer or recitation
+  taxonomy_refs: []
+  basis: Large bells in the monastery court are struck with a deer antler at the end
+    of prayers or recitations.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the ritual meaning of the sound beyond its
+    timing.
+- id: motif:5
+  label: Scriptures wrapped and housed in chests
+  taxonomy_refs: []
+  basis: Buddhist Scriptures are described as carefully wrapped in embroidered covers
+    and kept in large wooden chests.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes storage practice, not a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the temple and pagoda guardian animals with
+    a Burmese pattern, saying they guard the structures 'as in Burma.'
+  claim_level: same_function
+  target: Burmese temple and pagoda guardian animals
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide a historical mechanism, chronology, or
+    detailed Burmese comparison.
+- id: claim:2
+  claim: The guardian animals are described as Chinese in type, supporting a limited
+    visual-similarity comparison to Chinese-style guardian figures.
+  claim_level: visual_similarity
+  target: Chinese-type guardian animal figures
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No specific Chinese text, image type, or iconographic tradition is
+    named in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5644-5652
+  quote_or_summary: The central image is made of white marble, wood, or plastered
+    brick; smaller images may be metal; Buddha statues sit or stand and disciple statues
+    stand or kneel.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in source metadata; evidence is summarized
+    from the supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 5652-5667
+  quote_or_summary: Buddhists say the images are 'portraits of their great Teacher,
+    to be reverenced, but not adored'; gold leaf may be applied until 'the image is
+    completely overlaid with pure gold.'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in source metadata; brief quotation is
+    from the supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5668-5676
+  quote_or_summary: The temple is shadowy, with teak columns and dark red and gold
+    decoration; scriptures are on native paper or palm leaves from Burma, wrapped
+    in embroidered covers and kept in wooden chests.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in source metadata; evidence is summarized
+    from the supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 5676-5680
+  quote_or_summary: Temples and pagodas are guarded, 'as in Burma,' by grotesque stone
+    or stucco animals; they are 'Chinese in type' with open mouths and a 'diabolical
+    grin.'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in source metadata; brief quotation is
+    from the supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5681-5688
+  quote_or_summary: Pagoda bells are silent in calm weather but peal as wind rises;
+    large monastery court bells are struck with a deer antler at the end of prayers
+    or recitations.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in source metadata; evidence is summarized
+    from the supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels describe ritual and iconographic
+    patterns in an ethnographic passage rather than myth narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the passage did not clearly support the listed motif-family or symbol IDs beyond generic ritual/iconographic patterns.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l5644-l5688
+  passage_sha256=6cea32f7d0120f470c677702aaa85930f48d3c9f31398ec4730adecacf4e17f8
+

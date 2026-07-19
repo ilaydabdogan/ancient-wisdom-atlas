@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md-l11858-l11972
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: CHAPTER XIII. / DIVINATION AMONG THE MALAGASY. / DIVINATION AMONG THE MALAGASY.
+    / ARRANGEMENT OF COLUMN'S IN THE SIKIDY DIVINATION.; lines 11858-11972
+  start: '11858'
+  end: '11972'
+  translation: madagascar-before-conquest-sibree
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how a Malagasy mpisikidy erects the sikidy divination
+    by arranging beans, seeds, or dots in named columns; derives later columns by
+    parity rules; validates the arrangement through the Andriamanitra column; and
+    then begins procedures for answering questions or identifying remedies.
+  language: English with Malagasy terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sikidy arrangement is described as figures placed in columns; the diagram
+    uses dots instead of beans or seeds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mpisikidy fills the first four columns by taking random handfuls of beans,
+    removing them two by two, and placing either one or two beans in each square according
+    to the remainder.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first four columns are named Tale, Harena, Fahatelo, and Vohitra, and
+    one of them can represent the person or thing for whom or for which the sikidy
+    is made.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: 'The remaining eight columns are filled by combining earlier figures square
+    by square: an odd result receives one bean, and an even result receives two beans.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage gives a fixed sequence of named combinations, ending with Andriamanitra
+    and Tale forming Trano.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the sikidy is erected, it is worked to answer questions, identify causes
+    of evils, and indicate cures, medicines, or charms.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The ordinary sikidy is said to deal properly with questions, though some other
+    kinds prescribe remedies without a question.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The first check after erection is the figure in the column named Andriamanitra,
+    translated as God.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Only eight of the sixteen figures are said to agree with Andriamanitra; these
+    are called the Nobles or Kings of the sikidy, while the others are called Slaves.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: If a Slave figure enters the Andriamanitra column, the sikidy is invalid and
+    must be broken up and begun again.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The reason given for invalidity is that the sikidy has not done proper honour
+    to God and cannot be expected to tell truth in His name.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: After the Andriamanitra check, one of the first four columns is selected to
+    represent the question or its referent.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The subsequent procedures are divided into sikidy of identical figures, different
+    figures, and combined figures.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: For the sikidy of identical figures, the operator identifies the figure in
+    the question-representing column and then examines other figures except the other
+    first-four columns.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: mpisikidy
+  description: The diviner who erects and works the sikidy by handling beans and arranging
+    figures in columns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Andriamanitra / God
+  description: The divine name attached to a column whose contents determine whether
+    the sikidy is valid.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: question referent
+  description: The person or thing represented by one of the first four columns when
+    the sikidy is made.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:10
+roles:
+- id: role:1
+  label: diviner and arranger
+  assigned_to:
+  - fig:1
+  basis: The mpisikidy takes beans at random, fills columns, and works the sikidy
+    to obtain answers.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: divine validation authority
+  assigned_to:
+  - fig:2
+  basis: The Andriamanitra column must contain a figure that agrees with God; otherwise
+    the sikidy is invalid and cannot tell truth in His name.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:3
+  label: represented subject of inquiry
+  assigned_to:
+  - fig:3
+  basis: One of the first four columns is chosen to represent the question or the
+    person or thing it concerns.
+  evidence_refs:
+  - ev:3
+  - ev:10
+symbols:
+- id: sym:1
+  label: beans, seeds, or dots as divinatory counters
+  literal_form: beans, seeds, or dots placed in squares and columns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: named columns of the sikidy
+  literal_form: columns such as Tale, Harena, Fahatelo, Vohitra, Lalana, Mpanontany,
+    Andriamanitra, and Trano
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+- id: sym:3
+  label: parity rule
+  literal_form: odd combinations produce one bean; even combinations produce two beans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Andriamanitra column
+  literal_form: the column named Andriamanitra, translated as God
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: Nobles or Kings of the sikidy
+  literal_form: eight listed figures that agree with Andriamanitra
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Slaves of the sikidy
+  literal_form: the eight figures that do not agree with Andriamanitra
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: question-representing column
+  literal_form: one of the first four columns selected to represent the question,
+    person, or thing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Erecting the first four columns
+  summary: The mpisikidy takes random handfuls of beans, removes pairs, and fills
+    the four initial columns square by square with one or two beans according to the
+    remainder.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Deriving the remaining columns
+  summary: Later sikidy columns are formed by comparing earlier figures square by
+    square and applying an odd-even rule to place one or two beans in each new square.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Seeking answers and remedies
+  summary: Once erected, the sikidy is used to answer questions and may indicate causes
+    of trouble, cures, medicines, or charms, though its ordinary function is question-answering.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Validation through the Andriamanitra column
+  summary: The operator checks the Andriamanitra column; if it contains a figure classed
+    as Noble or King, the process may continue, but if it contains a Slave, the arrangement
+    is invalid and must be restarted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Selecting the question column and reading identical figures
+  summary: One of the first four columns is chosen to represent the question or referent,
+    and in the identical-figures procedure the figure in that column is compared with
+    other relevant columns.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: divination by randomized counters and columnar signs
+  taxonomy_refs: []
+  basis: The passage describes a diviner using random handfuls of beans and arranging
+    resulting one-or-two counter patterns in named columns to obtain answers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a procedural divination pattern; no exact supplied taxonomy motif
+    family corresponds to it.
+- id: motif:2
+  label: oracle validated by divine column
+  taxonomy_refs: []
+  basis: The sikidy must pass a check in the column named Andriamanitra; a disallowed
+    figure invalidates the whole arrangement because it dishonors God and cannot tell
+    truth in His name.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents this as a rule of sikidy operation, not as a narrative
+    episode of divine judgment.
+- id: motif:3
+  label: hierarchy of divinatory signs
+  taxonomy_refs: []
+  basis: The sixteen figures are divided into those called Nobles or Kings, which
+    agree with Andriamanitra, and those called Slaves, which invalidate the Andriamanitra
+    position.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: These are technical classifications within the described divination system.
+- id: motif:4
+  label: divination as diagnosis and remedy-finding
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says sikidy answers questions and, when asked about the root
+    or removal of an evil, can point to a cure, medicine, or charm.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage concerns practical
+    divinatory knowledge rather than a narrative wisdom figure.
+- id: motif:5
+  label: question embodied in a selected sign position
+  taxonomy_refs: []
+  basis: One of the first four columns is selected to stand for the question, person,
+    or thing, and its figure becomes the basis for further examination.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This is an operational pattern rather than an independent mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11858-11872
+  quote_or_summary: The passage introduces the erecting of the sikidy as placing figures
+    in columns; the given diagram is like a mpisikidy's arrangement except that dots
+    are used instead of beans or seeds.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11873-11883
+  quote_or_summary: The first four columns are filled by taking beans at random from
+    a heap, removing them two by two, and putting one or two beans in each square
+    from top downward according to what remains.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11884-11889
+  quote_or_summary: The first four columns include one that represents the person
+    or thing regarding whom or which the sikidy is made.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11886-11900
+  quote_or_summary: The remaining eight columns are formed by combining earlier figures
+    square by square; dissimilar one-and-two pairs are odd and produce one bean, while
+    like pairs are even and produce two beans.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11901-11918
+  quote_or_summary: 'The rules list named combinations: Tale with Harena forms Lalana;
+    Fahatelo with Vohitra forms Asoroiany; Lalana with Asoroiany forms Mpanontany;
+    further combinations produce Nia, Fahasivy, Masina, Andriamanitra, and Trano.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11926-11935
+  quote_or_summary: After erection, the sikidy is worked to answer questions and may
+    provide a medicine for sickness or a charm against feared evils.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11936-11948
+  quote_or_summary: The ordinary sikidy deals with questions; answers about the root,
+    removal, or averting of evil can point to cures, while other kinds prescribe remedies
+    without a question.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11949-11958
+  quote_or_summary: The first post-erection task is to see the figure in the Andriamanitra/God
+    column; eight listed figures agree with Andriamanitra and are called Nobles or
+    Kings, while the other eight are called Slaves.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:9
+  type: summary
+  locator: lines 11958-11966
+  quote_or_summary: If a Slave figure appears in the Andriamanitra column, the sikidy
+    is invalid, must be broken up and restarted, and is said not to have properly
+    honored God or to be able to tell truth in His name.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:10
+  type: summary
+  locator: lines 11967-11972
+  quote_or_summary: After validation, one of the first four columns is chosen to represent
+    the question or the person or thing it concerns; proceedings then divide into
+    identical, different, and combined figures.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:11
+  type: summary
+  locator: lines 11969-11972
+  quote_or_summary: In the sikidy of identical figures, the operator finds the figure
+    in the question-representing column and examines other relevant figures, excluding
+    the other first four columns.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural details are explicit in the passage. Motif labels are descriptive
+    because the supplied taxonomy lacks a direct divination family. No cross-tradition
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR in the passage appears to distort some Malagasy names; extracted labels preserve the most legible forms where possible and avoid unsupported normalization.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md__l11858-l11972
+  passage_sha256=62625edd6e9947dbd54219f17edfa6502833513cfba3dff311302b092013350b
+

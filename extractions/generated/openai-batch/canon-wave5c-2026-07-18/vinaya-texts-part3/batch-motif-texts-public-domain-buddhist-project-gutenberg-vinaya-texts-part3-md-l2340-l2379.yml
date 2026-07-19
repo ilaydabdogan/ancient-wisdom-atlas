@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2340-l2379
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IV, 14, 20. THE SETTLEMENT OF DISPUTES. / VULLAVAGGA. / IV, 14, 24 - / IY,
+    14, 25.; lines 2340-2379
+  start: '2340'
+  end: '2379'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Vinaya procedure for settling a legal question:
+    a voting-ticket taker collects votes, the case is decided according to the larger
+    number of Dhamma-guided Bhikkhus, the settlement is defined as occurring by proceeding
+    in presence and by majority vote, and reopening or complaining after consent is
+    treated as a Pācittiya offense. It then notes that a legal question had arisen
+    at Savatthi.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bhikkhu appointed as taker of the voting tickets is to collect the votes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The case is to be decided according to the larger number of Bhikkhus who are
+    guided by the Dhamma.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The settled legal question is said to have been settled by the Proceeding
+    in Presence and by the vote of the majority.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Proceeding in Presence includes the presence of the Samgha, the Dhamma, the
+    Vinaya, and the particular person.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The vote of the majority is described as carrying out and accepting the official
+    act by majority vote.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If a disputant reopens a legal question settled in this way, the reopening
+    is a Pācittiya.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If someone who has conveyed consent complains of the decision, the complaint
+    is a Pācittiya.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A certain legal question had arisen and developed at Savatthi.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic participants whose larger Dhamma-guided number determines
+    the case.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhikkhu taker of the voting tickets
+  description: The Bhikkhu appointed to collect the voting tickets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Samgha
+  description: The monastic community whose presence is part of the Proceeding in
+    Presence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: particular person
+  description: The particular person whose presence is included in the Proceeding
+    in Presence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: disputant
+  description: A disputant who may reopen a settled legal question.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: one who has conveyed consent
+  description: A person who has conveyed consent and may complain of the decision.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Dhamma-guided voting participants
+  assigned_to:
+  - fig:1
+  basis: The decision follows the larger number of Bhikkhus who are guided by the
+    Dhamma.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vote collector
+  assigned_to:
+  - fig:2
+  basis: The appointed taker of the voting tickets collects the votes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: required assembly presence
+  assigned_to:
+  - fig:3
+  basis: The presence of the Samgha is listed as part of the Proceeding in Presence.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: required individual presence
+  assigned_to:
+  - fig:4
+  basis: The presence of the particular person is listed as part of the Proceeding
+    in Presence.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: reopening disputant
+  assigned_to:
+  - fig:5
+  basis: A disputant who reopens a settled legal question incurs a Pācittiya.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: consenting complainant
+  assigned_to:
+  - fig:6
+  basis: One who has conveyed consent and then complains of the decision incurs a
+    Pācittiya.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: voting tickets
+  literal_form: voting tickets
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: majority vote
+  literal_form: the larger number; the vote of the majority
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: formal presence
+  literal_form: presence of the Samgha, Dhamma, Vinaya, and particular person
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Settlement by collected votes
+  summary: The appointed Bhikkhu collects voting tickets, and the legal question is
+    decided according to the larger number of Dhamma-guided Bhikkhus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Definition of valid settlement
+  summary: A settled legal question is defined as settled by Proceeding in Presence
+    and by majority vote, with required presences named and the official act accepted
+    by majority.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sanctions against reopening or complaint
+  summary: After such settlement, a disputant reopening the question or a consenting
+    person complaining of the decision commits a Pācittiya.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Legal question at Savatthi
+  summary: The passage introduces a certain legal question that had arisen and developed
+    at Savatthi.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dispute settlement by formal assembly and majority vote
+  taxonomy_refs: []
+  basis: The passage presents a legal question settled through required presences
+    and the vote of the majority.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a procedural Vinaya pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: sanction against reopening a settled communal decision
+  taxonomy_refs: []
+  basis: The passage states that reopening a settled legal question or complaining
+    after conveying consent is a Pācittiya.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a disciplinary rule, not a mythic symbol or narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2340-2347
+  quote_or_summary: The appointed Bhikkhu who is taker of the voting tickets collects
+    the votes, and the case is decided according to the larger number of Dhamma-guided
+    Bhikkhus.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Public-domain source indicated by path; passage summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2348-2350
+  quote_or_summary: "“By the Proceeding in Presence and by the vote of the majority.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Short quotation from public-domain source indicated by path.
+- id: ev:3
+  type: summary
+  locator: lines 2350-2358
+  quote_or_summary: Proceeding in Presence is defined by the presence of the Samgha,
+    the Dhamma, the Vinaya, and the particular person.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Public-domain source indicated by path; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2360-2365
+  quote_or_summary: The vote of the majority is described as carrying out, accomplishing,
+    undertaking, accepting, and pacifying by the official act through majority vote.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Public-domain source indicated by path; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2367-2370
+  quote_or_summary: If a disputant reopens the settled question, or if one who has
+    conveyed consent complains of the decision, the act is a Pācittiya.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Public-domain source indicated by path; passage summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2372-2376
+  quote_or_summary: A certain legal question had arisen and developed at Savatthi.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Public-domain source indicated by path; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The procedural content is explicit, but motif classification is limited because
+    the passage is legal-disciplinarian rather than mythological. No comparison claims
+    were made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned; the passage concerns Vinaya legal procedure rather than mythic narrative.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2340-l2379
+  passage_sha256=3810e0aaa45e6bef6500ef924e125d0beeb74ab851d60fd94c3b7b29303a8ff6
+

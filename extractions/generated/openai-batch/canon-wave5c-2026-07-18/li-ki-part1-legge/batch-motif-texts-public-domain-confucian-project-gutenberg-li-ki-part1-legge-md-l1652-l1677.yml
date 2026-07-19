@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l1652-l1677
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: BOOK AVI HstO AL / BOOK XOVil. Yo. AG / Book XVIII. 3A At. / Book XIX. SAnG
+    TA Ki.; lines 1652-1677
+  start: '1652'
+  end: '1677'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XIX, described as the Greater Record of Mourning
+    Rites. It says the book treats major mourning observances in ancient China, including
+    preparations for death for different ranks, dressing of the dead, coffining, burial,
+    and actions in palace or official residences before the coffin is committed to
+    the grave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Book XIX is described as dealing with major points in mourning, especially
+    the two dressings of the dead, coffining, and burial.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The book begins with preparations for death in the cases of a ruler, a Great
+    officer, or an ordinary officer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The book methodically covers observances at and after death until burial has
+    taken place.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The described settings include the palace, the mansion, and the smaller official
+    residence.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes steps occurring between death and the committing of
+    the coffin to the grave.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that some observances differ in minor points from details
+    in other Books and in the Than Kung or Book II.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Wa Kang is cited as saying that the book relates the greater rules observed
+    in each event it mentions.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ruler
+  description: A rank for whom preparations for death are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Great officer
+  description: A rank for whom preparations for death are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: ordinary officer
+  description: A rank for whom preparations for death are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the dead
+  description: Persons whose dressing, coffining, and burial are treated in the book.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Wa Kang
+  description: A commentator or cited speaker who characterizes the book as relating
+    greater rules.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ranked subject of death preparations
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage names a ruler, a Great officer, and an ordinary officer as cases
+    in which preparations for death are treated.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceased subject of mourning rites
+  assigned_to:
+  - fig:4
+  basis: The passage refers to dressing the dead, coffining, and burial.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cited authority on the book's scope
+  assigned_to:
+  - fig:5
+  basis: Wa Kang is quoted explaining that the book relates greater rules for each
+    event mentioned.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coffin
+  literal_form: coffin
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mourning dressings of the dead
+  literal_form: two dressings of the dead
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: palace
+  literal_form: palace
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mansion
+  literal_form: mansion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: smaller official residence
+  literal_form: smaller official residence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Scope of mourning rites
+  summary: The passage states that Book XIX treats major mourning observances, including
+    dressings of the dead, coffining, and burial.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparations and observances by rank
+  summary: The passage says the book begins with preparations for death for a ruler,
+    a Great officer, or an ordinary officer and proceeds through observances at and
+    after death until burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Process from death to grave in elite residences
+  summary: The passage describes the book as showing what was done in the palace,
+    mansion, and smaller official residence during the steps between death and committing
+    the coffin to the grave.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: formal mourning rites from death preparation to burial
+  taxonomy_refs: []
+  basis: The passage centers on a methodical sequence of death preparations, dressing
+    of the dead, coffining, and burial, presented as major mourning rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a ritual-procedural pattern rather than a narrative myth motif;
+    no available taxonomy reference directly fits without overinterpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1652-1660
+  quote_or_summary: Book XIX is introduced as dealing with greater points in mourning,
+    especially the two dressings of the dead, coffining, and burial.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; request
+    metadata did not provide a separate rights_status value.
+- id: ev:2
+  type: summary
+  locator: lines 1660-1664
+  quote_or_summary: The book begins with preparations for death for a ruler, a Great
+    officer, or an ordinary officer and proceeds through observances at and after
+    death until burial.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; request
+    metadata did not provide a separate rights_status value.
+- id: ev:3
+  type: summary
+  locator: lines 1666-1670
+  quote_or_summary: The text says the book takes the reader into the palace, mansion,
+    and smaller official residence and shows the steps between death and committing
+    the coffin to the grave.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; request
+    metadata did not provide a separate rights_status value.
+- id: ev:4
+  type: summary
+  locator: lines 1670-1674
+  quote_or_summary: Some observances differ in minor points from other Books and from
+    the Than Kung or Book II, but together they provide a minute account of ancient
+    Chinese mourning rites.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; request
+    metadata did not provide a separate rights_status value.
+- id: ev:5
+  type: quote
+  locator: lines 1674-1677
+  quote_or_summary: Wa Kang says, “This Book relates the greater rules observed in
+    each event which it mentions.” The passage explains the title as “The Greater
+    Record of Mourning Rites.”
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; request
+    metadata did not provide a separate rights_status value.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an editorial introduction to a ritual text, so literal extraction
+    is strong, while motif identification is limited to a broad ritual pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage only notes internal textual relationships and does not itself support broader comparative mythology claims.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l1652-l1677
+  passage_sha256=03e8f01bb7bb903913357a263a182b5ea4d2c2db517715189d5882255cd3ac7f
+

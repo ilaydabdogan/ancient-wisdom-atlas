@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l10693-l10748
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: WAR CHARMS. / LOVE CHARMS. / WEATHER CHARMS. / DIVINATION.; lines 10693-10748
+  start: '10693'
+  end: '10748'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says divination was used to discover thieves. An injured person
+    may consult a sorcerer, who pulls his own fingers while reciting names; if a joint
+    cracks, the last name spoken is identified as the thief. Another method has the
+    sorcerer place bush medicine under his sleeping mat and dream of the thief that
+    night. The excerpt also includes a plate caption reading “Urita and sese offering.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Divination is described as being used to discover thieves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An injured individual may consult a sorcerer.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In one divinatory procedure, the sorcerer pulls his own fingers while calling
+    out a series of names.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If a finger joint cracks, the last name mentioned is taken to be the thief's
+    name.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In another procedure, the sorcerer collects bush medicine and places it under
+    his sleeping mat.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sorcerer dreams of the thief that night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage includes a plate caption: “Urita and sese offering.”'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: injured individual
+  description: A person harmed by theft who may consult a sorcerer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: sorcerer
+  description: A ritual specialist consulted to discover a thief by finger-cracking
+    divination or by dreaming after placing bush medicine under a sleeping mat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: thief
+  description: The person sought through divination and identified by a cracked joint
+    or by the sorcerer's dream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: injured consulter
+  assigned_to:
+  - fig:1
+  basis: The injured individual may consult a sorcerer to discover a thief.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divining sorcerer
+  assigned_to:
+  - fig:2
+  basis: The sorcerer performs the finger-pulling name procedure or uses bush medicine
+    under a sleeping mat to dream of the thief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: identified thief
+  assigned_to:
+  - fig:3
+  basis: The procedures aim to identify the thief by a cracking joint or by dream
+    revelation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: finger-joint crack
+  literal_form: A joint cracking while the sorcerer pulls his own fingers and recites
+    names.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: bush medicine under sleeping mat
+  literal_form: Bush medicine placed under the sorcerer's sleeping mat before dreaming
+    of the thief.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dream identification
+  literal_form: A dream in which the sorcerer sees or learns the thief.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: consulting a sorcerer to discover a thief
+  summary: An injured person consults a sorcerer for divination aimed at finding a
+    thief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: finger-crack name divination
+  summary: The sorcerer pulls his own fingers while reciting names; if a joint cracks,
+    the last name spoken is identified as the thief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: dream divination with bush medicine
+  summary: The sorcerer places bush medicine under his sleeping mat and dreams of
+    the thief during the night.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divination to identify a thief
+  taxonomy_refs: []
+  basis: The passage explicitly describes divination as a means of discovering thieves,
+    including finger-crack name divination and dream divination with bush medicine.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy motif directly matches this passage-level motif.
+- id: motif:2
+  label: dream revelation after ritual preparation
+  taxonomy_refs: []
+  basis: The sorcerer places bush medicine under his sleeping mat and then dreams
+    of the thief that night.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief procedural description and does not elaborate
+    the dream mechanism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10693-10700
+  quote_or_summary: "“divination was only used to discover thieves.”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10696-10698
+  quote_or_summary: The injured individual may consult a sorcerer.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10697-10701
+  quote_or_summary: The sorcerer pulls his own fingers while reciting names; a cracking
+    joint marks the last name spoken as the thief.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 10701-10704
+  quote_or_summary: The sorcerer collects bush medicine, places it under his sleeping
+    mat, and dreams of the thief that night.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: quote
+  locator: lines 10706-10748
+  quote_or_summary: "“Urita and sese offering”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short passage with clear divination procedures.
+    Motif labels are descriptive because no supplied taxonomy motif directly matches
+    the thief-identification procedures. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The plate material is mostly non-verbal or garbled in the supplied OCR; only the legible caption is recorded.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l10693-l10748
+  passage_sha256=cec491c4ccf85f2d7e542749ef262838c76b55aec8ffa62ec8adf47930857617
+

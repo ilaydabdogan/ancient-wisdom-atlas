@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l20425-l20479
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: BOOK V. THE QUESTIONS OF 3ANG-3ZE1 / SECT, II. THE KIAO THEH SANG. A353 /
+    THE PATTERN OF THE FAMILY14 / SECT..1. THE NEI 3EH. 455.; lines 20425-20479
+  start: '20425'
+  end: '20479'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives prescribed life-stage training and social duties for
+    males and females: male education in music, odes, dances, archery, chariot-driving,
+    capping, ceremonies, marriage, office, administration, retirement, and left-hand
+    precedence in salutations; female seclusion from age ten, instruction by a governess
+    in speech, obedience, textile work, ceremonial provisioning, hair-pin assumption,
+    marriage rules, and right-hand precedence in salutations.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At thirteen, the male subject learns music, odes, and a dance; later he dances
+    another dance and learns archery and chariot-driving.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At twenty, the male subject is capped, learns classes of ceremonies, may wear
+    furs and silk, dances the ta hsia, attends to filial and fraternal duties, and
+    is described as receiving learning rather than teaching others.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At thirty, the male subject has a wife and begins men's business; at forty,
+    he is first appointed to office; at fifty, he becomes a Great officer; at seventy,
+    he retires from duties.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In male salutations, the upper place is assigned to the left hand.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At ten, a girl stops going out from the women's apartments and is instructed
+    by a governess in speech, manners, obedience, textile work, garment furnishing,
+    and assistance with sacrifices and ceremonies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At fifteen, the female subject assumes the hair-pin; at twenty, or at twenty-three
+    if delayed, she is married.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage distinguishes becoming a wife through betrothal rites from becoming
+    a concubine if she goes without those rites.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In female salutations, the upper place is assigned to the right hand.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: male life-stage subject
+  description: A male person described from age thirteen through seventy, including
+    education, capping, marriage, office, and retirement.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: female life-stage subject
+  description: A girl or woman described from age ten through marriage, including
+    instruction, hair-pin assumption, and possible status as wife or concubine.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: governess
+  description: The instructor who teaches the girl speech, manners, obedience, work
+    skills, and ceremonial assistance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: learner and recipient of instruction
+  assigned_to:
+  - fig:1
+  basis: The male subject learns arts, ceremonies, filial and fraternal duties, and
+    is described as receiving rather than teaching.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: capped ritual adult
+  assigned_to:
+  - fig:1
+  basis: At twenty he is capped and begins learning different classes of ceremonies.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: office-holder and retiree
+  assigned_to:
+  - fig:1
+  basis: The male subject is appointed to office at forty, becomes a Great officer
+    at fifty, and retires at seventy.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: instructed girl in women's apartments
+  assigned_to:
+  - fig:2
+  basis: At ten she ceases to go out from the women's apartments and is taught by
+    a governess.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: marriage-status subject
+  assigned_to:
+  - fig:2
+  basis: The passage says that with betrothal rites she becomes a wife and without
+    them a concubine.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: female instructor
+  assigned_to:
+  - fig:3
+  basis: The governess teaches the girl prescribed skills and conduct.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: capping
+  literal_form: cap or capping at age twenty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hair-pin assumption
+  literal_form: hair-pin assumed at age fifteen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: left hand in male salutation
+  literal_form: left hand given the upper place
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: right hand in female salutation
+  literal_form: right hand given the upper place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ceremonial provisions
+  literal_form: liquors, sauces, stands, dishes, pickles, and brine used in sacrifices
+    and ceremonies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: male education and capping
+  summary: The male subject progresses through learning music, odes, dances, archery,
+    chariot-driving, and at twenty is capped and instructed in ceremonies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: male marriage, office, administration, and retirement
+  summary: The male subject takes a wife, undertakes men's business, receives office,
+    administers a department as Great officer, and retires at seventy.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: female instruction in domestic and ceremonial work
+  summary: The girl remains within the women's apartments and is instructed by a governess
+    in conduct, textile work, garment work, and preparation for sacrifices and ceremonies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: female hair-pin, marriage status, and salutation
+  summary: The female subject assumes the hair-pin, marries at the prescribed age
+    or after delay, is classified by the presence or absence of betrothal rites, and
+    female salutations give precedence to the right hand.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: age-graded initiation and social incorporation
+  taxonomy_refs:
+  - initiation
+  basis: The passage organizes prescribed transitions by age, including capping at
+    twenty for males and hair-pin assumption at fifteen for females, followed by adult
+    social roles.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a ritual-social prescription rather than a mythic initiation narrative.
+- id: motif:2
+  label: gendered ritual differentiation
+  taxonomy_refs: []
+  basis: The passage assigns different training, life-stage markers, and salutation
+    precedence to males and females.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader comparative taxonomy reference is asserted from the supplied
+    data.
+- id: motif:3
+  label: ordered transmission of learning before public function
+  taxonomy_refs:
+  - wisdom
+  basis: The male subject is described as learning extensively while not yet teaching,
+    then later communicating plans in office; the female subject is taught prescribed
+    conduct and ritual work by a governess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage concerns education and social training; it does not present
+    esoteric or divine wisdom.
+- id: motif:4
+  label: domestic participation in sacrificial rites
+  taxonomy_refs:
+  - sacrifice
+  basis: The girl is taught to watch sacrifices, supply liquors and sauces, fill stands
+    and dishes, and assist with ceremonial appurtenances.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions sacrificial service as a domestic duty, not a sacrificial
+    myth or narrative event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20425-20442, section 34
+  quote_or_summary: Male education from age thirteen through twenty includes music,
+    odes, dances, archery, chariot-driving, capping, ceremonial learning, furs and
+    silk, and filial and fraternal duties; he receives learning rather than teaching.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 20443-20453, note to section 34
+  quote_or_summary: The note states that the dances are difficult to describe exactly
+    and distinguishes civil and military dances, with the ta hsia said to combine
+    two dances.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 20454-20467, section 35
+  quote_or_summary: Male adult stages include wife and men's business at thirty, office
+    at forty, Great officer at fifty, retirement at seventy, and left-hand precedence
+    in male salutations.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 20468-20476, section 36
+  quote_or_summary: At ten, a girl remains within the women's apartments and is taught
+    by a governess in speech, manners, obedience, textile work, garment furnishing,
+    and assisting sacrifices and ceremonies with provisions and dishes.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 20477-20479, section 37
+  quote_or_summary: At fifteen the female subject assumes the hair-pin; at twenty
+    or delayed to twenty-three she marries; betrothal rites distinguish wife from
+    concubine; female salutations give precedence to the right hand.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because the passage is prescriptive ritual and family-order material rather than
+    mythic narrative. No comparison claims were generated because the passage itself
+    gives no explicit comparative basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No passage-internal historical or cross-cultural comparison is asserted.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l20425-l20479
+  passage_sha256=a0563f392a14cea66a58b3639ac6c44863d8155cec4be90cb0cf638bc4a29a4e
+

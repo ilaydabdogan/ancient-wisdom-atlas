@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md-l117-l164
+source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+passage_locator:
+  label: The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
+    / INTRODUCTION.; lines 117-164
+  start: '117'
+  end: '164'
+  translation: questions-of-king-milinda-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an introductory scholarly discussion praising Siwhalese
+    vernacular literature, describing prospects for editing it, and reporting several
+    places where Buddhaghosa mentions or quotes material involving conversations between
+    Milinda and Nagasena. It includes a damaged/OCR Pali quotation in which Milinda
+    asks Nagasena a question and an answer follows.
+  language: English with embedded Pali/OCR transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that Siwhalese vernacular literature surpasses other Indian
+    vernacular literatures in literary excellence, variety, age, and historical value.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator estimates that modest annual funding over ten years could suffice
+    to edit and publish the whole body of literature under discussion, following the
+    Pali Text Society system.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A great Indian writer associated with a beautiful and peaceful island is said
+    to have mentioned the book at least four times in his commentaries.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Buddhaghosa is said to refer, in his commentary on the Book of the Great Decease,
+    to a quotation from a conversation between Milinda and Nagasena.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Buddhaghosa is also said to quote words of a conversation between Milinda
+    and Nagasena in his commentary on the Ambaṭṭha Sutta; the narrator says the wording
+    differs from Mr. Trenckner's text but is the same in substance.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dr. Morris is said to have identified two additional references, and in those
+    cases also Buddhaghosa's quoted words differ from Mr. Trenckner's text.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the quoted Pali/OCR fragment from the Manoratha Purani, Milinda is presented
+    as asking Nagasena a question, followed by an answer.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Buddhaghosa
+  description: Named commentator described as having mentioned the book multiple times
+    and as quoting or referring to conversations between Milinda and Nagasena in commentaries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Milinda
+  description: Named participant in conversations with Nagasena; in the Pali/OCR fragment
+    he is presented as asking Nagasena a question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Nagasena
+  description: Named participant in conversations with Milinda; in the Pali/OCR fragment
+    he is the addressed party in Milinda's question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Dr. Morris
+  description: Named scholar reported as pointing out two additional references in
+    Buddhaghosa.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: commentator citing the book
+  assigned_to:
+  - fig:1
+  basis: Buddhaghosa is described as mentioning the book in commentaries and quoting
+    or referring to conversations involving Milinda and Nagasena.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: dialogue participant and questioner
+  assigned_to:
+  - fig:2
+  basis: Milinda is named in conversations with Nagasena and appears in the quoted
+    fragment as asking a question.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: dialogue participant and addressee
+  assigned_to:
+  - fig:3
+  basis: Nagasena is named in conversations with Milinda and is addressed in the quoted
+    question.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: scholarly identifier of references
+  assigned_to:
+  - fig:4
+  basis: Dr. Morris is said to have pointed out two additional references.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Assessment of Siwhalese literature
+  summary: The narrator praises Siwhalese vernacular literature and proposes that
+    its editing and publication would require limited annual funding over ten years.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Buddhaghosa's commentarial references
+  summary: The passage reports that Buddhaghosa mentions the book and cites or refers
+    to Milinda-Nagasena conversations in multiple commentaries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Quoted question-and-answer fragment
+  summary: A damaged Pali/OCR quotation introduces Milinda as asking Nagasena a question,
+    after which an answer is supplied.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: learned question-and-answer dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly identifies conversations between Milinda and Nagasena
+    and includes a fragment where Milinda asks Nagasena a question and an answer follows.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is introductory and textual-critical rather than a full narrative
+    presentation of the dialogue; the quoted Pali/OCR fragment is damaged.
+- id: motif:2
+  label: commentarial transmission of teaching material
+  taxonomy_refs:
+  - wisdom
+  basis: Buddhaghosa is described as mentioning the book and quoting or referring
+    to conversation material in commentaries, with later scholars identifying these
+    references.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This is a scholarly transmission pattern rather than a mythic episode;
+    the passage does not present doctrinal content in full.
+comparison_claims:
+- id: claim:1
+  claim: The narrator reports that Buddhaghosa's quotation in the Ambattha Sutta commentary
+    corresponds in substance to the matching passage in Mr. Trenckner's text, though
+    the actual words differ.
+  claim_level: same_function
+  target: Corresponding passage of Mr. Trenckner's text, pp. 168-169; IV, 3, 11
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The passage supplies only the narrator's report of correspondence and
+    difference; the compared passage from Mr. Trenckner's text is not included here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 117-121
+  quote_or_summary: The narrator praises Siwhalese vernacular literature as incomparable
+    among Indian vernacular literatures and says a modest ten-year publication effort
+    could edit and publish the whole.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source path indicates public-domain; rights metadata was not supplied
+    in the request.
+- id: ev:2
+  type: summary
+  locator: lines 123-130
+  quote_or_summary: A great Indian writer associated with a beautiful and peaceful
+    island is said to have mentioned the book at least four times in his commentaries.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source path indicates public-domain; rights metadata was not supplied
+    in the request.
+- id: ev:3
+  type: summary
+  locator: lines 130-142
+  quote_or_summary: Buddhaghosa's commentaries on the Book of the Great Decease and
+    the Ambattha Sutta are said to refer to or quote conversations between Milinda
+    and Nagasena; one quoted passage differs in wording from Mr. Trenckner's text
+    but is said to be the same in substance.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source path indicates public-domain; rights metadata was not supplied
+    in the request.
+- id: ev:4
+  type: summary
+  locator: lines 143-151
+  quote_or_summary: The narrator says he pointed out two references and Dr. Morris
+    pointed out two others, including one in Buddhaghosa's Manoratha Purani commentary
+    on the Anguttara, with wording differing from Mr. Trenckner's text.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source path indicates public-domain; rights metadata was not supplied
+    in the request.
+- id: ev:5
+  type: summary
+  locator: lines 152-164
+  quote_or_summary: A damaged Pali/OCR quotation presents Milinda asking Nagasena
+    a question, followed by an answer whose wording is only partially legible in the
+    provided passage.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source path indicates public-domain; rights metadata was not supplied
+    in the request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is mostly clear for the English introduction, but the
+    embedded Pali/OCR quotation is damaged. Motif identification is cautious because
+    the passage is primarily scholarly and textual-critical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned. The extraction avoids interpreting the numerical or doctrinal content of the damaged Pali/OCR quotation.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md__l117-l164
+  passage_sha256=e96907ca758e0db8c4f9c22209b13cd572768878aef60b81618a3eed9ada5363
+

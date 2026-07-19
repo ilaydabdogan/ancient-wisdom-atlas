@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l13953-l13965
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: 'ANTON, FROM GODTHAABSFJORD / THE PTARMIGAN AND THE LONG-TAILED DUCK / MARKUS
+    : WEST GREENLANDIC TYPE / THE BACHELOR WHO MARRIED A FOX; lines 13953-13965'
+  start: '13953'
+  end: '13965'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After an unnamed man's facial wounds have healed, he can take revenge.
+    The passage then describes insult-duels as challenges undertaken by especially
+    strong and courageous men, requiring strength and self-control. Before such duels,
+    men hardened their foreheads by repeatedly striking a bearded seal skull bound
+    to a house post; Christian is reported as saying that some could split a seal
+    skull this way.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed man's day for revenge comes when the wounds on his face are healed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Only specially strong and courageous men are said to challenge each other
+    to the described insult-duel.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The insult-duel is said to demand strength and unusual self-control.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During the interval before a duel, men used to harden their foreheads.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A bearded seal skull would be bound fast to the post of the house.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A man would practise running his head against the seal skull until the skin
+    of his forehead became hard enough that it no longer hurt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Christian declared that some men became dexterous enough to split the skull
+    of a seal.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed man with healed facial wounds
+  description: A male figure whose facial wounds heal before he can take revenge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men who challenge insult-duels
+  description: Specially strong and courageous men who challenge one another to insult-duels
+    and prepare by hardening their foreheads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Christian
+  description: A named declarant who reports that some men could split a seal skull.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: revenge-taker
+  assigned_to:
+  - fig:1
+  basis: The passage states that after his facial wounds were healed, he could take
+    his revenge.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: insult-duel challenger and preparer
+  assigned_to:
+  - fig:2
+  basis: The passage describes strong and courageous men challenging insult-duels
+    and hardening their foreheads before duels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: reported source of claim
+  assigned_to:
+  - fig:3
+  basis: The passage attributes the claim about splitting a seal skull to Christian.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bearded seal skull
+  literal_form: the skull of a bearded seal bound to a house post for impact practice
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: house post
+  literal_form: the post of the house to which the seal skull is bound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hardened forehead
+  literal_form: the skin of the forehead hardened through repeated impacts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: healed wounds and revenge
+  summary: An unnamed man's facial wounds heal, making it possible for him to take
+    revenge.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: requirements of the insult-duel
+  summary: The passage describes insult-duels as challenges undertaken by especially
+    strong and courageous men, requiring strength and unusual self-control.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: forehead-hardening before a duel
+  summary: Before a duel, men harden their foreheads by repeatedly striking a bearded
+    seal skull bound to a house post; Christian reports that some could split a seal
+    skull.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: revenge delayed until healing
+  taxonomy_refs: []
+  basis: The passage links the healing of facial wounds with the moment when revenge
+    can be taken.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The reason for the prior wounds and the revenge context lie outside the
+    supplied passage.
+- id: motif:2
+  label: formal insult-duel requiring strength and self-control
+  taxonomy_refs: []
+  basis: The passage describes an insult-duel as a challenge limited to specially
+    strong and courageous men and requiring strength and unusual self-control.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief explanation of the duel and not the full
+    duel procedure.
+- id: motif:3
+  label: pre-duel bodily hardening with animal skull
+  taxonomy_refs: []
+  basis: The passage describes men preparing for a duel by repeatedly striking their
+    heads against a bearded seal skull until the forehead no longer hurts.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader symbolic meaning is stated in the passage.
+- id: motif:4
+  label: extraordinary head-impact feat
+  taxonomy_refs: []
+  basis: Christian is reported as saying that some men became able to split a seal
+    skull through this practice.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The feat is attributed to Christian's declaration and is not independently
+    elaborated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13953-13954
+  quote_or_summary: When the wounds on his face were healed, the unnamed man could
+    take his revenge.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 13956-13960
+  quote_or_summary: The passage says that only specially strong and courageous men
+    could challenge each other to this kind of insult-duel, which required strength
+    and unusual self-control.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 13960-13964
+  quote_or_summary: Before a duel, men hardened their foreheads by binding a bearded
+    seal skull to a house post and repeatedly running their heads against it until
+    the forehead skin no longer hurt.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 13964-13965
+  quote_or_summary: Christian declared that some men attained enough dexterity to
+    split a seal skull.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not provided in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied lines. Motif labels are descriptive
+    and not linked to a supplied taxonomy because the passage does not support a specific
+    listed motif-family assignment. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata fields such as tradition, culture, language, and rights status were not supplied; language is inferred from the provided passage text only.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l13953-l13965
+  passage_sha256=4e1f50cb3b8fa6c8068c760422f526db2d5ad2e1dc38da9afb6e52174e2f4c9c
+

@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l25810-l25866
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: WOKDS / WAR  SHIELD  (REVERSE) / BULLETIN  SI      PLATE  SO / TETON   STOUX   MUSIC;
+    lines 25810-25866
+  start: '25810'
+  end: '25866'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes men on the warpath seeking high points to observe
+    enemies and distances, using stone piles for concealment, and rejecting the idea
+    that such piles were landmarks for return. Dog Eagle reports that a camp song
+    was sung at night on the warpath to strengthen the men's hearts, sung very low
+    and sometimes with owl imitation. The passage then gives the title and performance
+    attribution for No. 185, Song of the Camp.
+  language: English with transcribed Indigenous-language song text and names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men on the warpath sought high points to spy on the enemy and estimate distances.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The men often piled stones to shield themselves from the sight of the enemy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Heaps of stones are described as still visible in the Sioux country.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage rejects the statement that the stone heaps were landmarks for
+    guiding a war party back to its rendezvous.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dog Eagle said that, when he went on the warpath, the song was sung at night
+    in camp to strengthen their hearts.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The singing was very low, and the singers sometimes imitated an owl.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The song is identified as No. 185, Song of the Camp, sung by Dog Eagle.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Men on the warpath
+  description: A group of men engaged in warpath activity, seeking high points, using
+    stone piles for concealment, and singing in camp at night.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Enemy
+  description: The opposing group observed from high points and avoided by concealment
+    behind stone piles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dog Eagle
+  description: Named informant and singer who said the song was sung at night on the
+    warpath and is listed as the singer of No. 185.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: warpath participants
+  assigned_to:
+  - fig:1
+  basis: They are described as men on the warpath.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: camp singers
+  assigned_to:
+  - fig:1
+  basis: Dog Eagle reports that the song was sung at night in camp to strengthen hearts,
+    with low singing and owl imitation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: enemy observed and avoided
+  assigned_to:
+  - fig:2
+  basis: The enemy is spied on from high points, and the stone piles shield the men
+    from the enemy's sight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: informant about warpath song practice
+  assigned_to:
+  - fig:3
+  basis: Dog Eagle is quoted as explaining when and why the song was sung.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: singer of Song of the Camp
+  assigned_to:
+  - fig:3
+  basis: The song entry states that No. 185, Song of the Camp, was sung by Dog Eagle.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: high point lookout
+  literal_form: highest points used to spy on the enemy and estimate distances
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stone heap shield
+  literal_form: heaps or piles of stones used to hide men from enemy sight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: night camp song
+  literal_form: song sung at night in camp to strengthen hearts
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: owl imitation
+  literal_form: vocal imitation of an owl during low singing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Observation and concealment on the warpath
+  summary: Men on the warpath seek high points to observe enemies and distances, and
+    they pile stones to hide from the enemy's sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explanation of stone heaps
+  summary: The passage notes that stone heaps remain visible in Sioux country and
+    states that the claim they served as landmarks for return to a rendezvous is erroneous.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Night camp singing on the warpath
+  summary: Dog Eagle says that the song was sung at night in camp to strengthen the
+    men's hearts; the singing was very low and sometimes included owl imitation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: warpath lookout from high ground
+  taxonomy_refs: []
+  basis: The passage describes men on the warpath seeking the highest points to spy
+    on the enemy and estimate distances.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a practical warpath practice in an ethnographic music passage,
+    not a mythological narrative motif.
+- id: motif:2
+  label: stone concealment on the warpath
+  taxonomy_refs: []
+  basis: The passage describes men piling stones to shield themselves from enemy sight
+    and notes surviving heaps in Sioux country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage explicitly rejects one alternative interpretation of the stone
+    heaps as return landmarks.
+- id: motif:3
+  label: night song to strengthen hearts
+  taxonomy_refs: []
+  basis: Dog Eagle says the camp song was sung at night on the warpath to strengthen
+    the men's hearts.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The function is stated in the passage, but no broader mythic taxonomy
+    reference is supported by the provided text.
+- id: motif:4
+  label: owl imitation in low camp singing
+  taxonomy_refs: []
+  basis: The passage states that the singers sang very low and sometimes imitated
+    an owl.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain the meaning or purpose of the owl imitation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: Men on the warpath sought the highest points to spy on the enemy
+    and estimate distances.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: They often piled stones to shield themselves from the enemy's
+    sight.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: Many heaps of stones are said to still be seen in Sioux country.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: The author states that it is erroneous to say the stone heaps
+    were made as landmarks to guide a war party back to its rendezvous.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:5
+  type: quote
+  locator: lines 25810-25866
+  quote_or_summary: Dog Eagle said the song was sung at night in camp to "strengthen
+    their hearts."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: The singers sang very low and sometimes imitated an owl.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+- id: ev:7
+  type: summary
+  locator: lines 25810-25866
+  quote_or_summary: The following item is No. 185, Song of the Camp, sung by Dog Eagle,
+    with a drum rhythm noted as similar to No. 6.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; request
+    rights metadata not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear ethnographic details about warpath practices and
+    song performance. Broader symbolic or comparative interpretation is limited because
+    the passage does not explain meanings beyond the stated practical and emotional
+    functions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family or symbol refs were assigned because the supplied taxonomy terms are not directly supported by the passage wording. No comparison claims were added because the passage does not itself support a comparison to another motif family, text, or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l25810-l25866
+  passage_sha256=b49a367095d4ba8ceab4815ad90ad6389975e6d4d7ed82ea6f9fc7b1e16ceb93
+

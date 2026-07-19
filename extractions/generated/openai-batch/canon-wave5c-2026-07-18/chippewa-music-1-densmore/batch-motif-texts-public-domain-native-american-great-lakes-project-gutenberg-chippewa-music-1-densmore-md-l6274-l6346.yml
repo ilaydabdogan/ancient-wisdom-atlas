@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md-l6274-l6346
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: C3   .2 / P.-S  33 / CO       U / S  S  5!  S; lines 6274-6346
+  start: '6274'
+  end: '6346'
+  translation: chippewa-music-1-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a comparative musical analysis of Chippewa dream songs,
+    then introduces war songs, their performance contexts, drums, and four broad classes.
+    It notes that some war songs are connected with dreams, war charms, medicines,
+    and a supernatural element, while others concern the conduct or success of a war
+    expedition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dream songs are described as more harmonic in feeling than Mide' songs and
+    war songs in the stated statistical comparison.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The structure of the dream songs is described as more centralized than that
+    of the Mide' songs, with harmonic form and five-toned scales referring tones to
+    a keynote.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contrasts a general purpose of Mide' songs, affecting persons
+    other than the singers, with a general purpose of dream songs, securing a more
+    or less personal advantage, except for doctor's songs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: War songs on the warpath were accompanied by a small drum; village dances
+    before departure and after return used a large drum with drummers seated around
+    it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In recent years, war songs are said to be sung at tribal social dances with
+    a drum similar to that used in the Drum-presentation Ceremony, though less elaborately
+    decorated according to the writer's observation.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage divides war songs into four broad kinds: dream songs of individual
+    warriors; songs concerning war charms and medicines; songs of the conduct of a
+    war expedition; and songs commemorating its success.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The first two kinds of war songs are described as having a connection with
+    the supernatural element, while the last commemorative kind is described as having
+    no supernatural element.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A quoted statement says that in old days no warrior would have dared sing
+    a war song that was not composed in a dream, referring to the first two classes
+    of war songs.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The third class of war songs includes songs of the war messenger, the dog
+    feast, and the departure of the war party; the fourth class includes songs composed
+    by a returning war party or in victory dances after a successful expedition.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The boundaries between the four classes of war songs are said not to be strongly
+    marked, and the division is described as general.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: singers
+  description: Persons who sing Mide' songs or dream songs in the passage's functional
+    comparison.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: persons other than the singers
+  description: Persons described as affected by Mide' songs in the general comparison.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: individual warriors
+  description: Warriors associated with dream songs, including the statement that
+    warriors would not dare sing certain war songs not composed in a dream.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: war party
+  description: A group associated with departure, return, successful expedition, and
+    composition of commemorative songs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: drummers
+  description: Persons seated around the large drum at village dances before departure
+    and after return.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: war messenger
+  description: A figure named as the subject or context of songs in the third class
+    of war songs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage discusses songs being sung and contrasts singers with persons
+    affected by songs; it also states that warriors would not dare sing certain war
+    songs unless composed in a dream.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: affected person
+  assigned_to:
+  - fig:2
+  basis: Mide' songs are described as used for affecting persons other than the singers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: warrior
+  assigned_to:
+  - fig:3
+  basis: The passage names individual warriors and refers to what a warrior would
+    dare to sing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: war-party group
+  assigned_to:
+  - fig:4
+  basis: The passage refers to a war party departing, returning, and composing or
+    participating in successful-expedition songs.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: drummer
+  assigned_to:
+  - fig:5
+  basis: Drummers are described as seated around the large drum at village dances.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: war messenger
+  assigned_to:
+  - fig:6
+  basis: The third class of war songs includes songs of the war messenger.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: small drum
+  literal_form: A small drum accompanying songs on the warpath.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: large drum
+  literal_form: A large drum used at village dances before departure and after return,
+    with drummers seated around it.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: war charms and medicines
+  literal_form: War charms and medicines named as subjects of one class of war songs.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dream song musical comparison and function
+  summary: The passage compares dream songs with Mide' songs, war songs, woman's dance
+    songs, and songs connected with gifts, then states a general contrast between
+    Mide' songs affecting others and dream songs securing personal advantage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: War song performance settings
+  summary: 'War songs are described in performance contexts: on the warpath with a
+    small drum, in village dances before departure and after return with a large drum,
+    and in recent social dances with a related drum type.'
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Classification of war songs
+  summary: War songs are grouped into four general classes involving individual warriors'
+    dream songs, war charms and medicines, expedition conduct, and commemoration of
+    success, with supernatural association specified for the first two classes.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Dream-composed war song authorization
+  taxonomy_refs: []
+  basis: The passage states that, for the first two classes of war songs, a warrior
+    in old days would not have dared sing a war song that was not composed in a dream.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage reports an ethnomusicological classification and a quoted
+    tradition; it does not narrate the dream event itself.
+- id: motif:2
+  label: Supernatural war charms and medicines
+  taxonomy_refs: []
+  basis: One class of war songs concerns war charms and medicines, and the passage
+    says this class has a connection with the supernatural element.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the class and supernatural association but gives no
+    detailed account of particular charms or medicines.
+- id: motif:3
+  label: War-party departure and return song sequence
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The passage places war songs in dances before the departure and after the
+    return of a war party, and lists songs of departure, returning war parties, and
+    victory dances after a successful expedition.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage concerns song use and classification
+    rather than a full mythic journey narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6274-6297
+  quote_or_summary: Dream songs are statistically compared with Mide' and war songs,
+    including harmonic feeling, downward progressions, minor thirds, beginnings, time
+    changes, drum rhythm, and metric units.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:2
+  type: summary
+  locator: 6299-6303
+  quote_or_summary: The structure of dream songs is described as more centralized
+    than Mide' songs, with harmonic form and five-toned scales referring tones to
+    a keynote.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:3
+  type: summary
+  locator: 6303-6310
+  quote_or_summary: Mide' songs are described as generally affecting persons other
+    than the singers, while dream songs in this group, except doctor's songs, are
+    described as securing a more or less personal advantage.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:4
+  type: summary
+  locator: 6322-6331
+  quote_or_summary: War songs were accompanied by a small drum on the warpath; village
+    dances before departure and after return used a large drum with drummers seated
+    around it; recent social dances use a similar but less decorated drum.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:5
+  type: summary
+  locator: 6333-6339
+  quote_or_summary: 'War songs are divided into four kinds: individual warriors''
+    dream songs, songs concerning war charms and medicines, songs of war-expedition
+    conduct, and songs commemorating success; the first two are linked with a supernatural
+    element and the last is not.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:6
+  type: quote
+  locator: 6339-6342
+  quote_or_summary: '"in the old days no warrior would have dared sing a war song
+    that was not composed in a dream"'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Short quote from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:7
+  type: summary
+  locator: 6342-6345
+  quote_or_summary: The third class includes songs of the war messenger, dog feast,
+    and departure of the war party; the fourth includes songs by a returning war party
+    or in victory dances after success.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+- id: ev:8
+  type: summary
+  locator: 6345-6346
+  quote_or_summary: The passage says the boundaries between the classes of war songs
+    are not strongly marked and that the division should be understood as general.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary from supplied passage; source path indicates public-domain
+    collection.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is clear, but motif classification is limited because
+    the passage is primarily ethnomusicological prose rather than a narrative myth.
+    No comparison claims were generated because the passage's explicit comparisons
+    are musical-structural and do not fit the available comparison claim levels well.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not match passage objects, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md__l6274-l6346
+  passage_sha256=cbb86778db97582534c61e06d9055b1121dc28bec00449a7ae8c624412f2a98a
+

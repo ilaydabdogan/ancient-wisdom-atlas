@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l7303-l7326
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE GIRL WHO WAS TURNED TO STONE / THE WOMAN WHO MADE CLOTHES OF RAVEN'S
+    / FEATHERS / THE GLUTTON; lines 7303-7326
+  start: '7303'
+  end: '7326'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man named Narrajina, a skilled reindeer-hunter, tightens his belly with
+    thongs to run lightly while hunting. After returning, he unstraps his belly, cooks
+    meat, and eats alone until his stomach grows so large that he digs a hole for
+    it and warns passers-by not to come near. He repeatedly hunts, eats without stopping,
+    buries surplus meat, and never gives any away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is described as a great reindeer-hunter who often goes hunting.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before hunting, the man tightens his belly with thongs to make himself light
+    and fleet on his feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After hunting, he cooks meat and begins eating alone after unstrapping his
+    belly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: His stomach grows larger while he eats, and he digs a hole in the ground for
+    it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When people pass, he screams for them to keep away from his stomach because
+    he fears they will push against it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the meat is gone, he goes reindeer-hunting again and gets many reindeer.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: He eats without stopping, buries what he cannot devour, and gives nothing
+    away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The story identifies the man as Narrajina, the great eater.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrajina
+  description: A man described as a great reindeer-hunter and great eater who eats
+    alone, has a growing stomach, buries surplus meat, and gives nothing away.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: passing people
+  description: People who pass by while Narrajina's stomach is enlarged and are warned
+    to keep away from it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: reindeer-hunter
+  assigned_to:
+  - fig:1
+  basis: The passage calls the man a great reindeer-hunter who often hunts and gets
+    many reindeer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: great eater
+  assigned_to:
+  - fig:1
+  basis: The passage says he eats without stopping and identifies him as Narrajina,
+    the great eater.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: withholder of food
+  assigned_to:
+  - fig:1
+  basis: The passage says he buries what he cannot devour and never gives anything
+    away.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: passers-by
+  assigned_to:
+  - fig:2
+  basis: The passage mentions people passing while Narrajina warns them away from
+    his stomach.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: belly tightened with thongs
+  literal_form: Narrajina's belly bound with thongs before hunting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: expanding stomach
+  literal_form: A stomach that grows so large during eating that a hole must be dug
+    for it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: buried surplus meat
+  literal_form: Meat that Narrajina cannot devour and buries instead of giving away.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: reindeer meat
+  literal_form: Meat obtained from repeated reindeer-hunting and eaten by Narrajina.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: hunting preparation
+  summary: Narrajina is introduced as a great reindeer-hunter and tightens his belly
+    with thongs to make himself light and fleet before hunting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: solitary eating and enlarged stomach
+  summary: After returning from hunting, Narrajina cooks meat, eats alone after unstrapping
+    his belly, and his stomach grows so large that he digs a hole for it and warns
+    passers-by away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: repeated hunting and hoarding
+  summary: When the meat is gone, Narrajina hunts again, obtains many reindeer, eats
+    without stopping, buries surplus meat, and gives nothing away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gluttonous eater with enlarging stomach
+  taxonomy_refs: []
+  basis: Narrajina eats alone and without stopping; his stomach grows so large that
+    he digs a hole for it and warns others to keep away.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches gluttony or bodily enlargement.
+- id: motif:2
+  label: food hoarding and refusal to share
+  taxonomy_refs: []
+  basis: The passage says Narrajina buries what he cannot devour and never gives anything
+    away.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the behavior but does not state a moral explanation
+    or consequence.
+- id: motif:3
+  label: body binding for hunting speed
+  taxonomy_refs: []
+  basis: Before hunting, Narrajina tightens his belly with thongs to become light
+    and fleet on his feet.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This may be a narrative detail rather than a recurrent motif; no external
+    comparison is supplied by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7303-7306
+  quote_or_summary: The passage introduces a man as a great reindeer-hunter who often
+    hunts and tightens his belly with thongs to be light and fleet.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7308-7315
+  quote_or_summary: After returning, he cooks meat and eats alone after unstrapping
+    his belly; his stomach grows, he digs a hole for it, and he warns passers-by to
+    keep away from it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7317-7318
+  quote_or_summary: When the meat is gone, he goes reindeer-hunting again and always
+    gets many reindeer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7320-7321
+  quote_or_summary: He eats without stopping, buries what he cannot devour, and never
+    gives anything away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 7323-7326
+  quote_or_summary: The passage closes by naming the figure as Narrajina, the great
+    eater, and attributes the telling to Tateraq.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    none of the supplied taxonomy motif families directly matches the central gluttony
+    and hoarding pattern. No comparison claims are made because the passage itself
+    provides no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label includes adjacent title information, but the provided passage text for this extraction is only the tale titled “THE GLUTTON.”
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l7303-l7326
+  passage_sha256=c44d1600de845d8d5b7f8c37ff14bf10487b9a5fbbbb5eb60d66087ad19f1812
+

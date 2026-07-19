@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l581-l630
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION / TO THE READER.;
+    lines 581-630
+  start: '581'
+  end: '630'
+  translation: koran-sale
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: Introductory prose evaluates Mohammed's reported virtues while rejecting
+    his religion, then discusses the history and perceived accuracy of Latin, Italian,
+    and Arragonian translations of the Koran and related materials.
+  language: English, with Latin and Italian footnote excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that, despite judging Mohammed as imposing a false religion,
+    his real virtues should not be denied.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spanhemius is reported to call Mohammed a wicked impostor while also acknowledging
+    his natural endowments and social virtues.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: Mohammed is described as showing liberality to the poor, courtesy to everyone,
+    fortitude against enemies, and high reverence for the name of God.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:4
+  text: Mohammed is described as severe against several offenses and as a preacher
+    of patience, charity, mercy, beneficence, gratitude, honoring parents and superiors,
+    and divine praises.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:5
+  text: The passage says that only one extant translation of the Koran tolerably represents
+    the original, and because that one is Latin a new English version became necessary.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Bibliander's published Latin version is described as not deserving the name
+    of a translation because of liberties, omissions, and commissions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Latin version is said to have been finished in 1143 by Robertus Retenensis
+    with Hermannus Dalmata, at the request and payment of Peter, Abbot of Clugny.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Andrea Arrivabene's Italian version is said to have been taken from the Latin
+    version despite claims in his dedication that it came directly from Arabic.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:9
+  text: Johannes Andreas, a former Mohammedan doctor and later Christian priest, is
+    said to have translated the Koran, its glosses, and seven books of the Sonna from
+    Arabic into Arragonian at Martin Garcia's command.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The author states that he does not know whether Johannes Andreas's translation
+    was published, but presumes it may have been better because of his background.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Described as condemned by the narrator for imposing a false religion,
+    but also as possessing real virtues and, in Spanhemius's account, natural endowments,
+    social virtues, reverence for God, and moral preaching.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Spanhemius
+  description: A pious and learned writer whose candor is praised; he is reported
+    to judge Mohammed an impostor while acknowledging his virtues.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: GOD
+  description: The deity whose name Mohammed is said to revere and whose praises he
+    is said to celebrate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Bibliander
+  description: Associated with a published Latin version of the Koran that the passage
+    criticizes as highly defective.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Robertus Retenensis
+  description: An Englishman said to have finished a Latin translation in 1143.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Hermannus Dalmata
+  description: Said to have assisted Robertus Retenensis with the Latin translation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Peter, Abbot of Clugny
+  description: Said to have requested and paid for the Latin translation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Andrea Arrivabene
+  description: Associated with an Italian version said to derive from the Latin translation
+    despite claims of direct Arabic source.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:9
+  name_or_label: Johannes Andreas
+  description: Native of Xativa; described as a former Mohammedan doctor who became
+    a Christian priest and translated the Koran and related materials into Arragonian.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Martin Garcia
+  description: Bishop of Barcelona and Inquisitor of Arragon, said to have commanded
+    Johannes Andreas's translation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subject of contested moral appraisal
+  assigned_to:
+  - fig:1
+  basis: The narrator condemns Mohammed's religion but says his virtues should not
+    be denied, citing Spanhemius's mixed appraisal.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: moral preacher
+  assigned_to:
+  - fig:1
+  basis: Mohammed is described as severe against offenses and as a preacher of virtues
+    and divine praises.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: scholarly witness
+  assigned_to:
+  - fig:2
+  basis: Spanhemius is invoked as a pious and learned authority whose candor is applauded.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: object of reverence and praise
+  assigned_to:
+  - fig:3
+  basis: The passage says Mohammed had high reverence for God's name and celebrated
+    divine praises.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: publisher of criticized Latin version
+  assigned_to:
+  - fig:4
+  basis: Bibliander's published Latin version is criticized as scarcely resembling
+    the original.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: translator or translation assistant
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:9
+  basis: Robertus Retenensis and Hermannus Dalmata are linked to the Latin translation;
+    Johannes Andreas is linked to an Arragonian translation from Arabic.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: commissioner of translation
+  assigned_to:
+  - fig:7
+  - fig:10
+  basis: Peter is said to have requested and paid for the Latin translation; Martin
+    Garcia is said to have commanded Johannes Andreas's translation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: author of derivative Italian version
+  assigned_to:
+  - fig:8
+  basis: Arrivabene's Italian version is described as taken from the Latin version
+    despite stated claims of Arabic derivation.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:9
+  label: convert translator
+  assigned_to:
+  - fig:9
+  basis: Johannes Andreas is described as having been a Mohammedan doctor before becoming
+    a Christian priest and translating Islamic materials.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Appraisal of Mohammed's virtues
+  summary: The narrator and the cited Spanhemius distinguish condemnation of Mohammed's
+    religious role from acknowledgment of personal virtues, reverence for God, and
+    moral preaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Evaluation of Latin translation history
+  summary: The passage criticizes Bibliander's published Latin version and recounts
+    the 1143 translation by Robertus Retenensis with Hermannus Dalmata at Peter of
+    Clugny's request.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Derivative Italian translation claim
+  summary: Andrea Arrivabene's Italian version is presented as derived from the Latin
+    translation despite claims that it was translated from Arabic.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: scene:4
+  label: Arragonian translation by Johannes Andreas
+  summary: Johannes Andreas is described as a former Muslim scholar turned Christian
+    priest who translated the Koran, glosses, and Sonna books from Arabic into Arragonian
+    under Martin Garcia's command.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: religious teacher as preacher of virtues
+  taxonomy_refs:
+  - wisdom
+  basis: Mohammed is described as preaching patience, charity, mercy, beneficence,
+    gratitude, honor toward parents and superiors, and divine praises.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is an introductory biographical and polemical appraisal rather than
+    a mythic narrative episode; the taxonomy link to wisdom is broad and requires
+    review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 581-591
+  quote_or_summary: The narrator says Mohammed's real virtues should not be denied
+    despite condemning his religion; Spanhemius is cited as acknowledging Mohammed's
+    endowments, social virtues, reverence for God, severity against vice, and preaching
+    of virtues.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:2
+  type: summary
+  locator: 592-597
+  quote_or_summary: The author says only one extant Koran translation tolerably represents
+    the original and that, since it is Latin, an English version is needed; Bibliander's
+    published Latin version is criticized for liberties, omissions, and commissions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:3
+  type: summary
+  locator: 597-600
+  quote_or_summary: The Latin version is said to have been completed in 1143 by Robertus
+    Retenensis with Hermannus Dalmata, at the request of Peter, Abbot of Clugny, who
+    paid them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:4
+  type: summary
+  locator: 601-604
+  quote_or_summary: Andrea Arrivabene's Italian version is said to have been taken
+    from the Latin version despite claims in the dedication of direct translation
+    from Arabic; the author calls the derivative more faulty than its source.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:5
+  type: summary
+  locator: 605-614
+  quote_or_summary: Johannes Andreas, native of Xativa and a former Mohammedan doctor
+    turned Christian priest, translated the Koran, glosses, and seven books of the
+    Sonna from Arabic into Arragonian at Martin Garcia's command; the author is unsure
+    whether it was published.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:6
+  type: summary
+  locator: 615-623 footnote *
+  quote_or_summary: Latin footnote cites Spanhemius's ecclesiastical history and repeats
+    the account of Mohammed's natural gifts, virtues, reverence for the divine name,
+    severity against offenses, and preaching of moral qualities and divine praises.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+- id: ev:7
+  type: citation
+  locator: 624-630 footnotes ? and subsequent citation
+  quote_or_summary: Footnotes quote Arrivabene's Italian claims about Arabic translation
+    and cite Scaliger, Selden, and Johannes Andreas's preface.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Source path supplied as public-domain Project Gutenberg; no separate
+    rights metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif content is limited because the
+    passage is introductory and textual-historical rather than a mythic narrative.
+    No comparative mythology claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is explicitly present in the passage. Translation-history material was treated as literal context rather than comparative motif evidence.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l581-l630
+  passage_sha256=6a3161dd9b13d58593d8f080f434eea64414694c38b004cf2c7645b2ad957aa4
+

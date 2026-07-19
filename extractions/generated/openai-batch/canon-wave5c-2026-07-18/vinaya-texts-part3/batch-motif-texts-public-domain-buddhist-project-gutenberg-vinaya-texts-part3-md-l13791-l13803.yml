@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l13791-l13803
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VIII, 4 , 1. / XTTLLAVAGGA. / VIII, 4 , 5- / K ULLAVAGGA.; lines 13791-13803
+  start: '13791'
+  end: '13803'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial note explains the term Angana as an open space within an Arama
+    in front of a hut or Vihara, maintained by sweeping and keeping growth off it.
+    It gives the Sinhalese name midula, compares related Pali usages meaning open
+    space or clearing forest into open space, and notes a procedural addition about
+    observing where floor coalings lay when removed.
+  language: English with Pali and Sinhalese terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage rejects the rendering of Angana as “courtyard” and defines it
+    as a part of the Arama immediately in front of a hut or Vihara.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Angana is described as an open space that is swept daily.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sinhalese name for the space is given as midula.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who sleep in the hut are said to spend the greater part of the day in
+    the midula/Angana.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that growth is not allowed on the space, using the wording
+    that not even “glass” is allowed to grow upon it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The note compares related usages in which a form means becoming one open space,
+    and another usage means clearing a forest and turning it into an open space.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A following editorial note says the order is slightly different while details
+    remain the same, with an addition that when taking out the floor coalings, the
+    person is directed to notice where they lay.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Those who sleep in the hut
+  description: A group described as spending the greater part of the day in the midula/Angana.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed instructed person
+  description: An unspecified person referred to as “he,” directed to notice where
+    the floor coalings lay when taking them out.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: habitual users of the open space
+  assigned_to:
+  - fig:1
+  basis: They sleep in the hut and spend much of the day in the Angana/midula.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: person handling removed floor coalings
+  assigned_to:
+  - fig:2
+  basis: The note says he is directed to notice where the floor coalings lay when
+    taking them out.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Angana / midula open space
+  literal_form: A part of the Arama immediately in front of the hut or Vihara, kept
+    open and swept daily.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Hut or Vihara
+  literal_form: The building in front of which the Angana lies; those sleeping in
+    the hut use the open space during the day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Arama
+  literal_form: The larger place or enclosure of which the Angana is described as
+    a part.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Floor coalings
+  literal_form: Objects or materials taken out, with an instruction to notice where
+    they lay.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Forest cleared into open space
+  literal_form: A lexical comparison in which clearing a forest turns it into an open
+    space.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Definition and maintenance of Angana
+  summary: The note explains Angana/midula as an open space within an Arama, in front
+    of a hut or Vihara, kept swept and free of growth, and used during the day by
+    those sleeping in the hut.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lexical comparison for open space
+  summary: The passage compares Pali usages involving becoming one open space and
+    clearing a forest into an open space.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Instruction about floor coalings
+  summary: A procedural note states that when the floor coalings are taken out, the
+    person is directed to notice where they lay.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: maintained cleared monastic open space
+  taxonomy_refs: []
+  basis: The passage repeatedly defines Angana as an open space, describes its daily
+    sweeping and absence of growth, and compares a usage in which forest is cleared
+    into open space.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: This is a lexical and procedural editorial note rather than a mythic narrative;
+    no supplied motif-family taxonomy entry is directly supported.
+comparison_claims:
+- id: claim:1
+  claim: The note makes a linguistic comparison between Angana/related forms and cited
+    Pali usages to support the sense of an open or cleared space.
+  claim_level: linguistic_similarity
+  target: Cited Pali usages in the referenced Pataka/Jataka book passages
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a philological comparison of terminology,
+    not a historical-contact or mythological-motif claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13791-13795
+  quote_or_summary: Angana is explained as not a courtyard but part of the Arama immediately
+    in front of the hut or Vihara, kept as an open space and swept daily.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata did not supply rights status.
+- id: ev:2
+  type: summary
+  locator: 13795-13798
+  quote_or_summary: The Sinhalese name is given as midula; hut sleepers spend much
+    of the day there, and the text says not even “glass” is allowed to grow on it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata did not supply rights status.
+- id: ev:3
+  type: citation
+  locator: 13798-13801
+  quote_or_summary: The note cites related book passages and explains forms meaning
+    to become one open space and to clear a forest into an open space.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata did not supply rights status.
+- id: ev:4
+  type: summary
+  locator: 13802-13803
+  quote_or_summary: A note says the order differs slightly but details are the same,
+    with an added instruction to notice where floor coalings lay when taking them
+    out.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata did not supply rights status.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mainly philological and procedural, not mythological. Extraction
+    is limited by OCR-like spellings such as “glass” and “floor coalings,” which have
+    been retained rather than normalized.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l13791-l13803
+  passage_sha256=9ffddacadf0722b48a9669f81089e6d5c7b2b4427ad2ca86445dd7bc1ce72397
+

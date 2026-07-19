@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l5494-l5510
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER VI / WOMEN IN RELATION TO LAND. / PERSONAL PROPERTY. / INHERITANCE
+    OF PERSONAL PROPERTY.; lines 5494-5510
+  start: '5494'
+  end: '5510'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes customary treatment and inheritance of personal
+    property after death: a deceased person''s worn bandage or petticoat is burnt
+    months later during a ceremony, while a dead man''s personal property passes to
+    specified relatives, with no personalty going to the widow, some reserved for
+    young children, and division handled by an adult eldest son or substitute male
+    kin.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A perineal bandage or petticoat that belonged to and had been worn by a dead
+    man or woman was burnt some months after death during the robumomomo ceremony
+    of the ita feast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dead man's nana and roro take his ornaments, canoes, spears, and other personal
+    property.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dead man's widow receives none of his personal property.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the dead man has young children, some property is kept for them and given
+    to them later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An adult eldest son divides the property that passes to the nana and roro
+    and thereby acts as his father's executor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the eldest son is too young, a brother of the dead man acts as executor;
+    if neither is available, a cousin divides the property.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: dead man or woman
+  description: Deceased person whose worn perineal bandage or petticoat is burnt months
+    after death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: dead man
+  description: Male deceased whose personal property is distributed according to custom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: nana and roro
+  description: Relatives of a dead man who take his ornaments, canoes, spears, and
+    other personal property.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: widow
+  description: Widow of the dead man who receives none of his personal property.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: young children
+  description: Young children of the dead man for whom some property may be kept and
+    later given.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: eldest son
+  description: Adult eldest son of the dead man who divides property and becomes his
+    father's executor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: dead man's brother
+  description: Brother of the dead man who acts as executor if the eldest son is too
+    young.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: cousin
+  description: Cousin who divides the property if the eldest son and brother do not
+    act.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceased former wearer
+  assigned_to:
+  - fig:1
+  basis: The garment belonged to and had been worn by a dead man or woman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased property owner
+  assigned_to:
+  - fig:2
+  basis: The passage describes distribution of a dead man's personal property.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: customary property recipients
+  assigned_to:
+  - fig:3
+  basis: The nana and roro take the dead man's personal property, and property passes
+    to them by custom.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: widow excluded from personalty
+  assigned_to:
+  - fig:4
+  basis: The widow receives none of the dead man's personal property.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: deferred child beneficiaries
+  assigned_to:
+  - fig:5
+  basis: If there are young children, some property is kept for them and later given
+    to them.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: primary executor and divider
+  assigned_to:
+  - fig:6
+  basis: An adult eldest son divides the property and becomes his father's executor.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: substitute executor
+  assigned_to:
+  - fig:7
+  basis: If the eldest son is too young, a brother of the dead man acts in that capacity.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: fallback property divider
+  assigned_to:
+  - fig:8
+  basis: Failing the eldest son and brother, a cousin divides the property.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: worn mortuary garment
+  literal_form: perineal bandage or petticoat worn by a deceased person
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: personal property of the dead man
+  literal_form: ornaments, canoes, spears, and other personal property
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Burning of the deceased person's garment
+  summary: Months after death, the garment formerly worn by a dead man or woman is
+    burnt during the robumomomo ceremony of the ita feast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Customary division of a dead man's personal property
+  summary: The dead man's nana and roro receive his personal property; the widow receives
+    none; some property may be reserved for young children; and an adult eldest son,
+    brother, or cousin divides the property according to kin precedence.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mortuary destruction of the deceased's worn clothing
+  taxonomy_refs: []
+  basis: A garment that belonged to and was worn by a dead man or woman is burnt months
+    after death during a named ceremony.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports a mortuary custom rather than a narrative myth; no
+    broader symbolic meaning is stated.
+- id: motif:2
+  label: customary inheritance by specified kin rather than widow
+  taxonomy_refs: []
+  basis: The dead man's nana and roro take his personal property, while the widow
+    receives none and young children may receive reserved property later.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The specific meanings of nana and roro are not defined in the supplied
+    passage.
+- id: motif:3
+  label: kin-ranked executor succession
+  taxonomy_refs: []
+  basis: Property division is assigned first to an adult eldest son, then to a brother
+    if the son is too young, and finally to a cousin if both prior relatives fail.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an inheritance-order pattern in an ethnographic description, not
+    a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5494-5500
+  quote_or_summary: A perineal bandage or petticoat formerly worn by a dead man or
+    woman is burnt some months after death during the robumomomo ceremony of the ita
+    feast.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 5500-5505
+  quote_or_summary: Certain relatives, named as a man's nana and roro, take his ornaments,
+    canoes, spears, and other personal property; his widow receives none, while some
+    property is kept for young children and given later.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 5506-5510
+  quote_or_summary: Property passing to the nana and roro is divided by an adult eldest
+    son as executor; if he is too young, a brother acts, and failing these, a cousin
+    divides the property.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The inheritance and mortuary actions are explicit, but motif labels are descriptive
+    cultural-pattern candidates rather than taxonomy-linked mythic motifs. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were applied because the passage does not directly support them.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l5494-l5510
+  passage_sha256=54956006ffad067f28461bb3c7b423267d708727af5492543994ea8bfb253c6d
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l3518-l3547
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: MAP OF BRITISH GUIANA / PLATE III. / PORTAGING THE BOAT, / AGEL(IEUS IMTHURNI;
+    lines 3518-3547
+  start: '3518'
+  end: '3547'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: seems carried into a new, hardly formed universe
+  summary: The narrator describes clouds, mist, rain, wind, a cliff-edge camp, a ravine,
+    a rushing river falling through mist, birds descending into cloud, and the sound
+    of the waterfall. The scene is experienced as unreal and as if it were a newly
+    forming universe. Heavy rain later drives the party to wet hammocks for the night.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Heavy low-lying clouds gather around the camp on the edge of a cliff.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mist, cloud, rain, and wind fill the ravine and obscure most of the view.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Occasional wind separates clouds and briefly reveals cliff-ledges and tree-covered
+    rocks that appear suspended in cloud.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A river rushes to the cliff edge, goes over the edge, and falls through white
+    mist rising from it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Swifts fall headlong from the sky and disappear into the cloud as night comes
+    on.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The waterfall makes both a rustling sound of falling water and a deep boom
+    from an unseen pool below.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says the whole world seemed unreal, grandly fantastic, and like
+    a new, hardly formed universe.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Heavier rain drives the party to hammocks, where they lie awake, cold and
+    wet, for nearly the whole night.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Narrator and party
+  description: The observing group camped on the edge of the cliff and later driven
+    to hammocks by rain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Swifts
+  description: A few swifts identified as Acanthyllis collaris descend headlong from
+    the sky and disappear into cloud.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Witnesses in storm landscape
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated from the perspective of a party observing the clouded
+    ravine and waterfall, then sheltering in hammocks.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Birds disappearing into cloud
+  assigned_to:
+  - fig:2
+  basis: The swifts fall from the sky and are gone into the cloud.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Waterfalling river
+  literal_form: A great river rushing over the cliff edge and falling through mist.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Cloud world
+  literal_form: Rolling clouds, mist, and rain filling the ravine and obscuring the
+    landscape.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Suspended rock and trees
+  literal_form: Projecting cliff-ledge or tree-covered rock appearing suspended in
+    cloud.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Unseen pool below
+  literal_form: An unseen pool below the fall, known by the deep boom rising from
+    it.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Hammocks in rain
+  literal_form: Hammocks and hammock covers that give little protection from wind-driven
+    rain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Storm over cliff ravine
+  summary: At a cliff-edge camp, low clouds, mist, rain, and wind enclose the ravine,
+    while gaps in cloud briefly reveal ledges and tree-covered rocks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: River falling into mist and cloud
+  summary: The river rushes over the cliff, falls through white mist, and disappears
+    into dense cloud below while the waterfall sounds from an unseen pool.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Night and retreat to hammocks
+  summary: As night falls, swifts vanish into cloud; later, heavy rain forces the
+    party into hammocks, where they remain cold and wet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Unformed or newly forming world vision
+  taxonomy_refs:
+  - chaos
+  basis: The narrator explicitly describes the storm-filled landscape as unreal and
+    as if it carried him into a new, hardly formed universe.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a travel-writer's aesthetic description, not a narrated mythic
+    cosmogony.
+- id: motif:2
+  label: Descent into obscuring cloud and hidden water below
+  taxonomy_refs: []
+  basis: The falling river, birds, and view all disappear into cloud or the unseen
+    space below the cliff.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage presents a natural scene; any mythic pattern of descent is
+    only a candidate visual pattern, not an explicit narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3518-3522
+  quote_or_summary: Heavy low clouds gather around the camp on the edge of the cliff;
+    mist, cloud, rain, and wind make a striking scene.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:2
+  type: summary
+  locator: 3523-3529
+  quote_or_summary: Cloud masses fill the ravine and hide the view except when wind
+    briefly opens gaps showing ledges or tree-covered rocks apparently suspended in
+    cloud.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:3
+  type: summary
+  locator: 3530-3535
+  quote_or_summary: The river rushes to the cliff edge, rolls over, falls through
+    white mist rising from it, and is hidden in dense cloud below.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:4
+  type: summary
+  locator: 3536-3539
+  quote_or_summary: As night comes on, a few swifts fall headlong from the sky and
+    disappear into the cloud.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:5
+  type: summary
+  locator: 3540-3542
+  quote_or_summary: The waterfall's sound includes falling water and a deep boom from
+    the unseen pool below.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:6
+  type: quote
+  locator: 3542-3546
+  quote_or_summary: '"The whole world seemed unreal and grandly fantastic" and the
+    narrator seems carried into "a new, hardly formed universe."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+- id: ev:7
+  type: summary
+  locator: '3547'
+  quote_or_summary: Increasing rain drives the party to hammocks; they lie awake,
+    cold and wet, with covers nearly useless against the rain and wind.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; rights metadata not supplied in
+    request.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The physical scene and stated perception are clear; mythological motif assignment
+    is tentative because the passage is descriptive travel writing rather than an
+    indigenous mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No culture or tradition metadata was supplied. Comparison claims were left empty because the passage itself does not establish a comparative link.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l3518-l3547
+  passage_sha256=0c5f6f419129c76ca8613bd8ce47aac7930059afdf59536ed0831d3583b5cfa5
+

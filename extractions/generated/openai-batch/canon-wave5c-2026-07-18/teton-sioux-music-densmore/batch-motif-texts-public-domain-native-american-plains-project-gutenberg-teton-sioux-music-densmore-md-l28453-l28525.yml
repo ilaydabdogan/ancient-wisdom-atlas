@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l28453-l28525
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: WOBOB / TETOK  SIOUX  MU8I0 / BUREAU  OF   AMEBICAN  ETHNOLOGY / BUBEAU  OP  AMEBICAN  ETHNOLOGY;
+    lines 28453-28525
+  start: '28453'
+  end: '28525'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Printed song No. 160, “Owls Hoot At Me,” sung by One Feather, gives two
+    renditions. In the first, owls hoot at the first-person speaker; in the second,
+    wolves howl at the speaker. Each rendition closes with the speaker saying that
+    this is what he hears in his life. A note explains the song idea as being accustomed
+    throughout life to owls hooting and wolves howling. The passage also includes
+    a brief musical analysis of the melody.
+  language: English with transcribed song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies song No. 160 as “Owls Hoot At Me,” sung by One Feather.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the first rendition, owls hoot at the first-person speaker.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first rendition says that this is what the speaker hears in his life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the second rendition, wolves howl at the first-person speaker.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second rendition repeats that this is what the speaker hears in his life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note summarizes the idea of the song as the speaker being accustomed throughout
+    life to owls hooting and wolves howling at him.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The musical analysis states that the melody progresses chiefly by whole tones,
+    with major seconds and minor thirds prominent among the intervals.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: One Feather
+  description: Named as the singer of song No. 160.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person speaker
+  description: The “me” or “I” in the song who hears animal cries in life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: owls
+  description: Animals named in the first rendition as hooting at the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: wolves
+  description: Animals named in the second rendition as howling at the speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: named performer
+  assigned_to:
+  - fig:1
+  basis: The heading says the song was sung by One Feather.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: first-person hearer
+  assigned_to:
+  - fig:2
+  basis: The song voice says animals vocalize at “me” and that this is what “I hear”
+    in life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: hooting animals
+  assigned_to:
+  - fig:3
+  basis: The first rendition identifies owls and glosses their action as hooting at
+    the speaker.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: howling animals
+  assigned_to:
+  - fig:4
+  basis: The second rendition identifies wolves and glosses their action as howling
+    at the speaker.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: owls
+  literal_form: Owls hooting at the speaker.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: wolves
+  literal_form: Wolves howling at the speaker.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: 'First rendition: owls hoot'
+  summary: The first rendition presents owls hooting at the first-person speaker,
+    followed by the statement that this is what the speaker hears in life.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: 'Second rendition: wolves howl'
+  summary: The second rendition presents wolves howling at the first-person speaker,
+    followed by the same statement that this is what the speaker hears in life.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Repeated animal calls heard throughout life
+  taxonomy_refs: []
+  basis: Both song renditions describe animal cries directed at the speaker and close
+    with the statement that the speaker hears this in life; the note says the speaker
+    is accustomed to these sounds throughout life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a song text with musical analysis, not a narrative myth.
+    No supplied taxonomy motif family directly matches the owl/wolf animal-call pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'The owl rendition and the wolf rendition have the same lyric function: an
+    animal group vocalizes at the speaker, and the speaker says this is what he hears
+    in life.'
+  claim_level: same_function
+  target: first and second renditions of song No. 160
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage only; it does not
+    establish a broader comparative motif, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28453-28525, heading
+  quote_or_summary: Song No. 160 is titled “Owls Hoot At Me” and is sung by One Feather.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 28453-28525, first rendition
+  quote_or_summary: The first rendition names owls, glosses their action as hooting
+    at the speaker, and closes with the speaker saying this is what he hears in life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 28453-28525, second rendition
+  quote_or_summary: The second rendition names wolves, glosses their action as howling
+    at the speaker, and closes with the speaker saying this is what he hears in life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 28453-28525, footnote
+  quote_or_summary: The footnote explains the idea of the song as owls hooting and
+    wolves howling at the speaker, to which the speaker is accustomed throughout life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 28453-28525, analysis
+  quote_or_summary: The analysis says the melody progresses chiefly by whole tones,
+    with major seconds comprising about 62 percent of intervals and minor thirds about
+    22 percent.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main lyric pattern is clear, but the passage is OCR-noisy and the Indigenous-language
+    transcription is not independently normalized here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied; owl and wolf are retained as passage-specific literal symbols only.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l28453-l28525
+  passage_sha256=d539e21cf90968d283291daf14a5e34e25da61c6b7958a0bdca6e5d8476269de
+

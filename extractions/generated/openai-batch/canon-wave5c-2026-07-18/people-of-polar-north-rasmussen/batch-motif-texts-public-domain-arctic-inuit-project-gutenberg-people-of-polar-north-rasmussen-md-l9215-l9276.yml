@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l9215-l9276
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: BLIND AMBROSIUS, / LIFE IN A COLONY / THE SHOP AT TASIUSSAQ, THE MOST NORTHERLY
+    SPOT IN GREENLAND / INHABITED BY A EUROPEAN; lines 9215-9276
+  start: '9215'
+  end: '9276'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Greenlandic dance gathering at Tasiussaq. Guests
+    and musicians assemble, but custom delays the beginning while girls and men feign
+    reluctance. The narrator and an artist observe the sea, ice, and dancers from
+    a cliff, then join the dance. The dancing becomes energetic and continues until
+    midnight, ending when the harmonica player's finger is numb. The passage closes
+    with the next day's departure on an egg-collecting cruise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ball guests were gathered and musicians began playing before the dancing started.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the dance, girls hid behind one another and men appeared indifferent
+    or unwilling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator states that traditional custom prescribes nearly an hour of delay
+    before the dance begins.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The outdoor setting includes shining sea, strong sun, ice packed near the
+    land, and pale green water around floes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator and the artist stopped on a cliff and looked down at the dancing
+    and out over the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator pulled the artist away from sketching and toward the dance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The artist had given a promise to the daughter of the Udligger.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The narrator and artist each took a girl as a dance partner and joined the
+    dance floor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The dancers jumped, tramped, and performed reels; women laughed and men shouted.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The dance continued through the afternoon and evening until midnight.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The dancing stopped when the harmonica player's first finger had become numb.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Early the next day the party went on an egg-collecting cruise to the Cook
+    Islands.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person speaker who calls himself the frivolous member of the
+    party, brings the artist to the dance, and joins the dancing.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Artist
+  description: An industrious artist who had been sketching, observed the dance and
+    sea with the narrator, and then joined the dance.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Girls and women at the dance
+  description: Female dance participants; the girls initially hid behind one another,
+    and women later tittered and laughed during the dancing.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Men at the dance
+  description: Male dance participants who first appeared indifferent or unwilling,
+    then shouted to put spirit into the dancing.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Musicians and harmonica player
+  description: Musicians played dancing tunes during the delay; the harmonica player's
+    numb finger later causes the dance to stop.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Daughter of the Udligger
+  description: A pretty daughter of the Udligger to whom the artist had given a promise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Narrating observer-participant
+  assigned_to:
+  - fig:1
+  basis: The narrator observes the scene from the cliff and then joins the dance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Artist-observer
+  assigned_to:
+  - fig:2
+  basis: The artist had been making a sketch and looked over the scene with the narrator
+    before joining the dance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Participants in customary pre-dance reluctance
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Girls hid and men looked indifferent while the dance was delayed according
+    to custom.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Music providers
+  assigned_to:
+  - fig:5
+  basis: The musicians played dancing tunes before and during the dance.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: Recipient of the artist's promise
+  assigned_to:
+  - fig:6
+  basis: The passage says the artist had given a promise to the daughter of the Udligger.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Reel dancers
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The narrator and artist enter the dance, and the assembled dancers jump,
+    tramp, and perform reels.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sea and water
+  literal_form: The shining sea and pale green water around the floes.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Ice and floes
+  literal_form: Ice packed close to land, with floes and hollows eaten away by the
+    sea.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Dancing floor
+  literal_form: The swaying dancing-floor on which the narrator, artist, and dance
+    partners swing out.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Reel dancing
+  literal_form: Stamping, sprawling, jumping, and tramping in reels.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Harmonica
+  literal_form: The harmonica played by the musician until his first finger becomes
+    numb.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Customary delay before the dance
+  summary: Guests and musicians assemble, but the dance is delayed while participants
+    feign reluctance according to custom.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cliffside observation of sea and dance
+  summary: The narrator and artist stand on a cliff, looking down at the dancing and
+    out over the sea, ice, and water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Energetic communal dancing
+  summary: The narrator and artist join the dance, after which the dancers jump, tramp,
+    laugh, shout, and perform reels until midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Next-day egg-collecting departure
+  summary: The following morning the party leaves on an egg-collecting cruise to the
+    Cook Islands.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Customary hesitation before communal dance
+  taxonomy_refs: []
+  basis: The passage emphasizes that, although everyone is eager, traditional custom
+    requires a long delay in which no one is first to dance.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a social-custom pattern in a travel narrative, not a mythological
+    motif from the available taxonomy.
+- id: motif:2
+  label: Communal dance as energetic social release
+  taxonomy_refs: []
+  basis: After the delay, the dance quickly becomes lively, with jumping, tramping,
+    reels, laughter, shouting, and continuation until midnight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports the dance pattern descriptively; no explicit ritual,
+    mythic, or comparative interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9215-9236
+  quote_or_summary: Guests and musicians gather for the dance; participants delay
+    beginning through coquettish reluctance, and custom requires nearly an hour of
+    waiting while musicians play.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 9237-9245
+  quote_or_summary: The afternoon setting is described with shining sea, harsh sun,
+    ice close to land, and pale green water around floes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 9246-9258
+  quote_or_summary: The narrator and artist stop on a cliff to look at the dance and
+    sea; the narrator pulls the artist from sketching toward the dance, mentioning
+    a promise to the Udligger's daughter.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 9259-9268
+  quote_or_summary: The narrator and artist each take a girl as partner and enter
+    the dance; the dancers jump, tramp, perform reels, laugh, and shout.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 9269-9273
+  quote_or_summary: Round dances are described as restful, reels as exertion; the
+    dancing continues until midnight and stops because the harmonica player's finger
+    is numb.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 9274-9276
+  quote_or_summary: Early the next day the party begins an egg-collecting cruise to
+    the Cook Islands.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Passage supplied for extraction; source path indicates public-domain
+    Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography/travel narrative rather than mythic
+    narrative. Literal extraction is straightforward; motif candidates are limited
+    to social and scenic patterns explicitly described. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, archetypal, or cross-tradition comparison is asserted because the passage itself does not support such claims.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l9215-l9276
+  passage_sha256=0c1a94045cb984c347a20917b6f0c03851701a4d60c3d8a222ef11325df5ee16
+

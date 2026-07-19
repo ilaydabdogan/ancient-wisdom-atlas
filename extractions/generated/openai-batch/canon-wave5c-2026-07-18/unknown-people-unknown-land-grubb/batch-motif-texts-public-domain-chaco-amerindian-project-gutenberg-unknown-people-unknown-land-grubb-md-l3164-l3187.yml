@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l3164-l3187
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / A
+    DECORATED WOODEN WHISTLE WORN ROUND THE NECK,; lines 3164-3187
+  start: '3164'
+  end: '3187'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Lengua reed-mat shelters built on stick frameworks,
+    their adjustment for heat, rain, and wind, and their arrangement in village lines.
+    It also notes a Lengua woman completing a clay water-jar with a half-gourd vessel
+    nearby. When moving to a new site, the Indians abandon or burn grass-houses, while
+    women roll up and carry the reed matting with other possessions. The passage ends
+    by noting that some Chaco industries are declining as British manufactured goods
+    reach Indian villages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A class of Lengua shelter consists of reed matting tied to a long framework
+    of sticks, with mats stretched on both sides to meet at a ridge.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shelter form can be altered in response to heat, rain, or wind by raising
+    one side or lowering the roof on the weather side.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mat-houses in such villages are arranged in one or more long lines.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Lengua woman is described as completing a clay water-jar, with a half gourd
+    nearby used as a basin or drinking-vessel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Indians move to a new site, the grass-house is abandoned or often
+    burned.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Reed matting is taken down, rolled up, and carried by women on top of bundles
+    of possessions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that many Chaco industries are slowly disappearing as contact
+    with civilization increases and British manufactured goods become common in villages.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lengua Indians
+  description: The people whose shelters, movement to new sites, and use of reed matting
+    are described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Lengua woman
+  description: A woman shown completing a clay water-jar.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Women carrying possessions
+  description: Women who carry rolled reed matting on top of bundles of possessions
+    when the group moves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Chaco Indians
+  description: The broader group whose industries are described as slowly dying out
+    under increasing contact with civilization.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: shelter builders or users
+  assigned_to:
+  - fig:1
+  basis: The shelters are identified as Lengua shelters and are described in detail.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mobile settlement group
+  assigned_to:
+  - fig:1
+  basis: The passage says the Indians remove to a new site and abandon or burn the
+    grass-house.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: pottery maker
+  assigned_to:
+  - fig:2
+  basis: The woman is described as completing a clay water-jar.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: carriers of reed matting and possessions
+  assigned_to:
+  - fig:3
+  basis: Women take down, roll up, and carry the reed matting with bundles of possessions.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: bearers of changing industries
+  assigned_to:
+  - fig:4
+  basis: The passage states that many Chaco industries are slowly dying out as manufactured
+    goods enter villages.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: reed-mat shelter
+  literal_form: reed matting tied to a stick framework, forming a ridged shelter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: grass-house
+  literal_form: grass-house abandoned or burned when moving to a new site
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: clay water-jar
+  literal_form: clay water-jar being completed by a Lengua woman
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: half gourd vessel
+  literal_form: half gourd used as a basin or drinking-vessel
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: British manufactured goods
+  literal_form: goods of British manufacture found in Indian villages
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Construction and arrangement of Lengua reed-mat shelters
+  summary: Lengua reed-mat shelters are described as mats tied to long stick frames,
+    with ridged roofs and village placement in long lines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Weather adjustment of shelter
+  summary: The shelter is modified for fine weather, heat, rain, or wind by keeping
+    the ridge form, raising one side, or lowering the weather side.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pottery and vessel use
+  summary: A Lengua woman completes a clay water-jar, while a half gourd nearby is
+    identified as a basin or drinking-vessel.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Moving to a new site
+  summary: When the Indians move, the grass-house is abandoned or burned, while reed
+    matting is carefully taken down, rolled, and carried by women with other possessions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Changing Chaco industries
+  summary: The passage states that many Chaco industries are declining as contact
+    with civilization increases and British manufactured goods appear in villages.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3164-3167
+  quote_or_summary: A Lengua shelter is made of reed matting tied to a long framework
+    of sticks, with mats stretched along both sides and meeting at the ridge.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:2
+  type: summary
+  locator: 3167-3173
+  quote_or_summary: The ridged roof is kept in fine weather; one side may be raised
+    in heat, and the weather side lowered in wet or windy weather. Mat-houses are
+    arranged in one or more long lines.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:3
+  type: summary
+  locator: 3175-3177
+  quote_or_summary: A Lengua woman is described as completing a clay water-jar, with
+    a half gourd in the foreground used as a basin or drinking-vessel.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:4
+  type: summary
+  locator: 3179-3183
+  quote_or_summary: When the Indians move to a new site, the grass-house is abandoned
+    or often burned, while reed matting is taken down, rolled, and carried by women
+    with the bundles of possessions.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not provided in source metadata.
+- id: ev:5
+  type: summary
+  locator: 3185-3187
+  quote_or_summary: Many Chaco industries are described as slowly dying out as contact
+    with civilization increases, with British manufactured goods present in many Indian
+    villages.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not provided in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive ethnography rather than a mythic narrative; no
+    candidate mythological motifs or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological motif candidate was inferred beyond literal material-culture and settlement observations.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l3164-l3187
+  passage_sha256=eac1bef2981d8551e6ac6a3fbef42caf3c4c74bb0c85c662959b83bd5e714c40
+

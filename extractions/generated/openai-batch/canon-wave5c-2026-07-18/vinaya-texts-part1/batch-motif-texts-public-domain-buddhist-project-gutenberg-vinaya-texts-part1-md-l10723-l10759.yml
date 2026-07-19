@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l10723-l10759
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: T54 MAHAVAGGA. 1,25,7. / I, 39, 2. ADMISSION TO THE ORDER OF BHIKKHUS. IQI
+    / I, 54, 5. ADMISSION TO THE ORDER OF BHIKKHUS. 2OQ / I, 64, I. ADMISSION TO THE
+    ORDER OF BHIKKHUS.; lines 10723-10759
+  start: '10723'
+  end: '10759'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A fragment permits a person who cannot obtain nissaya to live without
+    it while intending to take nissaya if a proper giver appears. Subsequent cases
+    concern upasampada ordination: Mahakassapa asks Ananda to recite a proclamation
+    for a candidate; Ananda refuses to pronounce Mahakassapa''s name because of his
+    reverence; the Blessed One allows use of the family name in the proclamation.
+    When two candidates quarrel over who will be ordained first, the Blessed One allows
+    two persons to be ordained by one proclamation. The passage ends as another quarrel
+    among candidates seeking ordination from different Theras begins.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person unable to obtain nissaya is permitted to live without nissaya while
+    intending to take it if a proper person to give nissaya arrives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unidentified person desires to receive upasampada ordination from the venerable
+    Mahakassapa.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mahakassapa sends a messenger to Ananda asking him to recite the upasampada
+    proclamation for the candidate.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ananda says he cannot pronounce Mahakassapa's name because Mahakassapa is
+    too venerable compared with him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the matter is reported to the Blessed One, he allows use of a family
+    name instead of a proper name in the proclamation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Two persons desire upasampada ordination from Mahakassapa and quarrel over
+    which of them will receive the ordination first.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Blessed One allows two persons to be ordained by one proclamation.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Persons desiring upasampada ordination from different Theras quarrel; the
+    supplied passage ends during the report of their dispute.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unidentified person without nissaya
+  description: A person who can get no nissaya in the stated circumstances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: proper person to give nissaya
+  description: A proper person who could give nissaya if such a person came there.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: venerable Mahakassapa
+  description: A Thera from whom persons desire to receive upasampada ordination;
+    Ananda regards him as very venerable.
+  role_refs:
+  - role:3
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: messenger
+  description: A messenger sent by Mahakassapa to Ananda.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: venerable Ananda
+  description: The monk asked to recite the upasampada proclamation, who says he cannot
+    pronounce Mahakassapa's name.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Blessed One
+  description: The authority to whom the disputes are reported and who issues allowances
+    concerning proclamation procedure.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: single upasampada candidate
+  description: A person desiring to receive upasampada ordination from Mahakassapa.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: two upasampada candidates
+  description: Two persons desiring upasampada ordination from Mahakassapa who quarrel
+    over priority.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: persons desiring ordination from different Theras
+  description: Persons who desire upasampada ordination from different Theras and
+    quarrel with one another.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: different Theras
+  description: The different Theras from whom some persons desire to receive upasampada
+    ordination.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Bhikkhus
+  description: The addressed recipients of the Blessed One's allowances.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: person lacking nissaya
+  assigned_to:
+  - fig:1
+  basis: The passage refers to one who can get no nissaya and may live without it
+    under a stated condition.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: potential nissaya-giver
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a proper person who could give nissaya if that person
+    came.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ordination-requested Thera
+  assigned_to:
+  - fig:3
+  - fig:10
+  basis: Candidates desire to receive upasampada ordination from Mahakassapa and from
+    different Theras.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:4
+  label: messenger
+  assigned_to:
+  - fig:4
+  basis: Mahakassapa sends a messenger to Ananda.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: requested proclamation reciter
+  assigned_to:
+  - fig:5
+  basis: Ananda is asked to recite the upasampada proclamation for a candidate.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: deferential responder
+  assigned_to:
+  - fig:5
+  basis: Ananda refuses to pronounce Mahakassapa's name because Mahakassapa is too
+    venerable compared with him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rule-giver
+  assigned_to:
+  - fig:6
+  basis: The Blessed One issues allowances after the matters are reported to him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:8
+  label: ordination candidate
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These persons are described as desiring to receive upasampada ordination.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:9
+  label: quarrelling candidate
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The candidates quarrel with one another over ordination priority or context.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:10
+  label: addressed monastic audience
+  assigned_to:
+  - fig:11
+  basis: The Blessed One's permissions are addressed to the Bhikkhus.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:11
+  label: venerated elder whose name is avoided
+  assigned_to:
+  - fig:3
+  basis: Ananda says he cannot pronounce Mahakassapa's name because the Thera is too
+    venerable compared with him.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Conditional living without nissaya
+  summary: A person unable to obtain nissaya may live without it while intending to
+    accept it if a proper giver appears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ananda declines to recite Mahakassapa's proper name
+  summary: A candidate seeks ordination from Mahakassapa; Mahakassapa sends a messenger
+    asking Ananda to recite the proclamation; Ananda declines because he considers
+    Mahakassapa too venerable for him to pronounce his name.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Allowance to use family name in proclamation
+  summary: After the matter is reported, the Blessed One allows the family name to
+    be used instead of the proper name in the ordination proclamation.
+  figure_refs:
+  - fig:6
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Quarrel over first ordination and allowance for joint proclamation
+  summary: Two candidates quarrel over who will receive upasampada first; the Blessed
+    One allows two persons to be ordained by one proclamation.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:8
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Beginning of another ordination quarrel
+  summary: Persons desiring upasampada from different Theras quarrel, but the supplied
+    passage ends before the case is completed.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ordination as religious initiation
+  taxonomy_refs:
+  - initiation
+  basis: The passage repeatedly concerns upasampada ordination, including candidates
+    seeking admission and procedural proclamations for ordaining them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a monastic procedural/legal account rather than a mythic
+    narrative; the motif label captures the ritual-initiation pattern only.
+- id: motif:2
+  label: Authoritative adjustment of ritual speech
+  taxonomy_refs: []
+  basis: The Blessed One modifies proclamation procedure by allowing use of a family
+    name when a proper name is not pronounced and by allowing two ordinations through
+    one proclamation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is an institutional rule pattern; no supplied taxonomy family directly
+    names ritual-speech adjustment.
+- id: motif:3
+  label: Rivalry over precedence at initiation
+  taxonomy_refs:
+  - initiation
+  basis: Two candidates quarrel over which will receive upasampada first, and the
+    following incomplete case also reports quarrelling among candidates seeking ordination
+    from different Theras.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The second quarrel is truncated in the supplied passage, so its outcome
+    and precise issue are not fully available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10723-10727
+  quote_or_summary: A person who can get no nissaya may live without nissaya while
+    thinking that if a proper giver comes, he will take nissaya from that person.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 10731-10736
+  quote_or_summary: A person desires upasampada ordination from Mahakassapa; Mahakassapa
+    sends a messenger asking Ananda to recite the upasampada proclamation for that
+    person.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 10736-10740
+  quote_or_summary: Ananda says he cannot pronounce the Thera Mahakassapa's name because
+    Mahakassapa is too venerable compared with him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 10742-10746
+  quote_or_summary: The matter is reported to the Blessed One, who allows the Bhikkhus
+    to use the family name in the proclamation instead of the proper name.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 10748-10755
+  quote_or_summary: Two persons desiring upasampada ordination from Mahakassapa quarrel;
+    each claims that he will receive the ordination first.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 10756-10757
+  quote_or_summary: The Blessed One allows two persons to be ordained by one proclamation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 10758-10759
+  quote_or_summary: The passage begins a further case in which persons desiring upasampada
+    ordination from different Theras quarrel, but the supplied excerpt ends mid-report.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Metadata rights_status is null; source path indicates a public-domain
+    Project Gutenberg collection; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main procedural sequence is clear, but the passage begins with a fragment
+    about nissaya and ends in a truncated ordination dispute. No passage-supported
+    external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy items were not used because none of cave, fire, milk, mountain, serpent, tree, or water occurs in the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l10723-l10759
+  passage_sha256=35bdc227183b703f027971440270d726c102681d8ebcac15a346c28e5b60f4f0
+

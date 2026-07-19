@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l3227-l3268
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: CLAY WATER-BOTTLE. / CHAPTER VIII / HUNTING / HUNTING; lines 3227-3268
+  start: '3227'
+  end: '3268'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes practical methods for obtaining fish in swamps,
+    streams, and shallow or deeper water: short-line hooks, homemade nets, dams, wicker
+    traps, bow-and-arrow fishing, biting smaller fish, and spearing eel and mud-fish
+    among reed roots.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The methods for obtaining a fish supply are described as varying according
+    to environmental conditions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In overgrown swamp areas, the fisher uses a short-line hook while sitting
+    in a canoe or standing in the water; hooks may be made of bone, wood, or transformed
+    nails.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In open water, a homemade net held open by two sticks is drawn along the bottom,
+    closed with the sticks, and the captured fish are moved into a shoulder net-bag.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Small streams entering the swamps are dammed as the swamp begins to fall,
+    allowing many fish to be captured by hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In larger streams, wicker-work fish-traps are pressed into the mud so that
+    fish enter and cannot escape.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In clear deeper water, larger fish are shot with bow and arrow; for very large
+    fish, a longer arrow with a detachable point tied to the shaft by string is used
+    so the floating shaft helps recover the tired fish.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Smaller fish up to about the size of a mackerel are killed by biting the head.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Eel and mud-fish are pursued in shallow water with a thin pointed spear by
+    prodding reed roots and watching for slight quivers in the water.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A good hunter may capture ten to twelve mud-fish in a day, and each is described
+    as weighing several pounds.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Unnamed hunter-fishers
+  description: People described as obtaining fish by hooks, nets, dams, traps, bow
+    and arrow, biting, and spearing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Fish
+  description: Fish caught in swamp, open water, and streams; larger fish are shot,
+    and smaller fish may be killed by biting the head.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Eel and mud-fish
+  description: Eel and mud-fish are pursued in shallow water with a thin pointed spear
+    among reed roots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: Fisher or hunter
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the unnamed person or group as using varied
+    fishing and hunting techniques to obtain fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:2
+  label: Aquatic prey or catch
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Fish, eel, and mud-fish are the animals captured, shot, trapped, bitten,
+    or speared in the described methods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Water environments
+  literal_form: swamp, open water, small streams, larger streams, deeper water, shallow
+    water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: Fishhook
+  literal_form: short-line hook made of bone, wood, or transformed nails
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Canoe
+  literal_form: canoe used while hook-fishing in overgrown swamp areas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Net and net-bag
+  literal_form: homemade net held open by two sticks and a net-bag slung on the shoulders
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Dam
+  literal_form: small streams dammed as the swamp begins to fall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Wicker-work fish-trap
+  literal_form: lobster-pot-like wicker trap pressed into mud
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Bow and detachable arrow
+  literal_form: bow and arrow, including a longer arrow with detachable point tied
+    by string to the shaft
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Head-biting kill method
+  literal_form: biting the head of smaller fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Thin pointed spear
+  literal_form: thin pointed spear used in shallow water for eel and mud-fish
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: Reed roots
+  literal_form: roots of reeds prodded while searching for eel and mud-fish
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hook and net fishing in swamp and open water
+  summary: The hunter-fisher uses short-line hooks in overgrown swamp areas and a
+    stick-held homemade net in open water, moving caught fish to a shoulder net-bag.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Stream damming and wicker traps
+  summary: As swamps fall, small streams are dammed for hand capture, while larger
+    streams use wicker traps that prevent fish from escaping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Projectile fishing and head-biting
+  summary: Larger fish in clear deeper water are shot with arrows, including detachable-point
+    arrows for very large fish; smaller fish are killed by biting the head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Spearing eel and mud-fish
+  summary: The hunter-fisher walks slowly through shallow water, prods reed roots
+    with a pointed spear, watches for water quivers, and spears eel or mud-fish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Condition-dependent fish capture techniques
+  taxonomy_refs: []
+  basis: The passage explicitly frames fish procurement methods as varying according
+    to conditions and then lists different techniques for swamps, open water, streams,
+    deeper water, and shallow reed areas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a practical ethnographic pattern rather than a mythological motif;
+    no available mythic motif-family reference is directly supported.
+- id: motif:2
+  label: Entrapment and containment of fish
+  taxonomy_refs: []
+  basis: Fish are contained or prevented from escape by nets closed with sticks, dammed
+    streams, and wicker-work traps.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The pattern is technological and subsistence-oriented; no symbolic or
+    mythic interpretation is stated in the passage.
+- id: motif:3
+  label: Retrieval of struck fish by attached floating shaft
+  taxonomy_refs: []
+  basis: For very large fish, the arrow point detaches from the shaft but remains
+    connected by string, and the floating shaft helps recover the fish after it tires.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a literal fishing technique, not a demonstrated mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3227-3268; opening of passage
+  quote_or_summary: The passage states that methods of obtaining fish are many and
+    vary according to conditions.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 3227-3268; hook-fishing description
+  quote_or_summary: In overgrown swamp areas, the fisher uses a very short-line fishhook
+    while in a canoe or standing in water; hooks are made of bone, wood, or sometimes
+    old nails.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 3227-3268; net-fishing description
+  quote_or_summary: In open water, a homemade net held open by two sticks is drawn
+    along the bottom, closed, and the fish are transferred to a shoulder net-bag.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 3227-3268; damming small streams
+  quote_or_summary: Small streams running into swamps are dammed when the swamp begins
+    to fall, enabling many fish to be caught by hand.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 3227-3268; wicker-trap description
+  quote_or_summary: In larger streams, wicker-work traps similar to lobster-pots are
+    pressed into mud; fish enter and cannot escape because of the trap formation.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: 3227-3268; bow-and-arrow fishing description
+  quote_or_summary: In clear deeper water, larger fish are shot with bow and arrow;
+    very large fish are shot with a longer arrow whose detachable point is tied by
+    string to the shaft, allowing the floating shaft to aid recovery.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: 3227-3268; smaller fish killing method
+  quote_or_summary: Smaller fish, up to about mackerel size, are killed by biting
+    the head.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:8
+  type: summary
+  locator: 3227-3268; eel and mud-fish pursuit
+  quote_or_summary: Eel and mud-fish are caught in shallow water with a thin pointed
+    spear by walking slowly, prodding reed roots, watching for slight water quivers,
+    and thrusting.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+- id: ev:9
+  type: summary
+  locator: 3227-3268; mud-fish yield statement
+  quote_or_summary: A good hunter may catch ten to twelve mud-fish in a day, each
+    weighing several pounds.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: No quotation used; rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Candidate motifs are framed as practical
+    subsistence patterns only; no mythological or comparative claim is made. Confidence
+    for comparison claims is high because the passage supplies no support for such
+    claims and the field is left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available mythic motif-family taxonomy reference is directly supported by this passage. The only supplied taxonomy symbol directly supported is water, treated here as a literal environmental element rather than as an interpreted symbol.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l3227-l3268
+  passage_sha256=808491bb82752879aaef617d93488a2e17f4098688165aab0115c35a18cbd29e
+

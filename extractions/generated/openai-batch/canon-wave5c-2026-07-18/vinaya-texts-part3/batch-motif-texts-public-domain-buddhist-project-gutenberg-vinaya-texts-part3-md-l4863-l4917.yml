@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l4863-l4917
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: ON THE DAILY LIFE OF THE BHIKKHUS. IOI / V, 14 , 3- ON THE DAILY LIFE OF
+    THE BHIKKHUS. / XULLAVAGGA. / OX THE DAILY LIFE OF THE BHIKKHLS; lines 4863-4917
+  start: '4863'
+  end: '4917'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage records practical bath-room problems in the monastic community
+    and the Blessed One''s permissions for repairs or equipment: brick facing for
+    a damp-damaged wall, a chimney, appropriate fire-place placement, clay for protecting
+    the face from heat, and a trough for moistening clay.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lower part of the bath-room wall decayed because of damp.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhikkhus reported the decayed wall to the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Blessed One allowed the lower half of the wall to be faced with bricks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bath-room had no chimney, and the Blessed One allowed the use of a chimney.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bhikkhus made a fire-place in the middle of a small bath-room, leaving
+    no room to get to the bath.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Blessed One allowed the fire-place to be made at one side of a small bath-room
+    and in the middle of a large one.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The fire in the bath-room scorched the Bhikkhus' faces.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Blessed One allowed clay to be spread over the face.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Bhikkhus moistened the clay in their hands, and the Blessed One allowed
+    a trough for moistening the clay.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: Authority who receives reported matters and grants permissions to the
+    Bhikkhus concerning bath-room repairs and equipment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monastic community using the bath-room; they report problems, make
+    a fire-place, are affected by the fire, and moisten clay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Authority granting practical allowances
+  assigned_to:
+  - fig:1
+  basis: The repeated formula of allowance is attributed to the Blessed One in response
+    to bath-room problems.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Monastic recipients and practitioners
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus report a problem, construct or use bath-room fittings, and receive
+    the permissions.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Bath-room
+  literal_form: bath-room
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Decayed wall and brick facing
+  literal_form: lower part of the wattle-and-daub wall; lower half faced with bricks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Chimney
+  literal_form: chimney
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Fire-place
+  literal_form: fire-place in a bath-room
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Bath-room fire
+  literal_form: fire in the bath-room
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Clay for the face
+  literal_form: clay spread over the face
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Trough for moistening clay
+  literal_form: trough to moisten the clay in
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Repair of damp-damaged bath-room wall
+  summary: The lower part of the bath-room wall decays from damp; after the matter
+    is reported, the Blessed One permits the lower half to be faced with bricks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Addition of a chimney
+  summary: The bath-room lacks a chimney, and the Blessed One permits the Bhikkhus
+    to use one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Placement of the fire-place
+  summary: A fire-place made in the middle of a small bath-room blocks access to the
+    bath; the Blessed One permits side placement in small bath-rooms and central placement
+    in large ones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Protection from bath-room fire
+  summary: The bath-room fire scorches the Bhikkhus' faces, and the Blessed One permits
+    clay to be spread over the face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Trough for moistening clay
+  summary: After the Bhikkhus moisten clay in their hands, the Blessed One permits
+    a trough for moistening the clay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Practical problem answered by authoritative permission
+  taxonomy_refs: []
+  basis: The passage repeatedly presents a material or procedural problem in monastic
+    bath-room use followed by an allowance from the Blessed One.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a Vinaya regulatory pattern rather than a mythological motif;
+    no historical or cross-cultural comparison is implied.
+- id: motif:2
+  label: Regulation of monastic bathing infrastructure
+  taxonomy_refs: []
+  basis: The passage concerns wall repair, ventilation, fire-place placement, face
+    protection, and a trough, all within the bath-room setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pattern is practical and institutional; symbolic meaning is not stated
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4863-4917; opening bath-room wall incident
+  quote_or_summary: The lower part of the bath-room wall decayed through damp, and
+    the Bhikkhus reported the matter to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 4863-4917; permission for wall repair
+  quote_or_summary: The Blessed One permits the Bhikkhus to face the lower half of
+    the bath-room wall with bricks.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 4863-4917; chimney incident
+  quote_or_summary: The bath-room had no chimney, and the Blessed One permits use
+    of a chimney.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 4863-4917; fire-place placement incident
+  quote_or_summary: A fire-place in the middle of a small bath-room left no room to
+    get to the bath; the Blessed One permits side placement in a small bath-room and
+    central placement in a large one.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 4863-4917; fire scorching faces incident
+  quote_or_summary: The bath-room fire scorched the Bhikkhus' faces, and the Blessed
+    One permits clay to be spread over the face.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 4863-4917; trough for clay incident
+  quote_or_summary: The Bhikkhus moistened clay in their hands, and the Blessed One
+    permits a trough for moistening clay.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The practical sequence and figures are explicit. Motif labels are limited
+    to administrative/regulatory patterns because the passage does not state mythological
+    symbolism or comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes in the passage mainly clarify terminology and parallels; this extraction focuses on the main bath-room regulations. No comparison claims are made because the passage itself does not support cross-textual or cross-cultural comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l4863-l4917
+  passage_sha256=1da0bfac1314e4d15521fb2747b1d7e6bdddc563f2b1555b019dac8d1c8c97db
+

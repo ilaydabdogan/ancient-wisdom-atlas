@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l2077-l2099
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE BABY / LITTLE NURSES. / GIRLS AGED EIGHT AND THREE. / GIRL FIVE YEARS
+    OLD.; lines 2077-2099
+  start: '2077'
+  end: '2099'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    tooth must be hidden among the ashes of the
+    hearth
+  summary: The passage describes a child-related tooth custom involving hearth ashes
+    and an appeal to little mice, then describes boys' and girls' play, age-based
+    separation, funeral play, imitation of older boys, shared meals around the rice-pot,
+    and equal treatment of small boys and girls in the home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A tooth is to be hidden among the ashes of the hearth while an appeal to little
+    mice is made.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Small boys play with girls until about five or six years old, then join bigger
+    boys and drift away from girl playmates.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After this change, boys' and girls' games are different, but they sometimes
+    meet and play together at funerals.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Little boys try to imitate bigger boys and follow and watch their games.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Small boys and girls meet at meal-times around the rice-pot and eat together.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that there is no difference in the home treatment of small
+    boys and girls.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: small boys
+  description: Young boys who play with girls until about five or six, then join bigger
+    boys.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: girls
+  description: Girl playmates of small boys and children who share meals with boys
+    in the home.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: bigger boys
+  description: Older boys whose games are joined, watched, and imitated by little
+    boys.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: little mice
+  description: Animals addressed in an appeal during the tooth custom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: child playmates
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Small boys play with girls until about five or six years old.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: age-transitioning boys
+  assigned_to:
+  - fig:1
+  basis: Small boys later join bigger boys and drift away from girl playmates.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: equal household children
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Small boys and girls eat together and are treated without difference in the
+    home.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: older models for play
+  assigned_to:
+  - fig:3
+  basis: Little boys imitate bigger boys and follow and watch their games.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressees of appeal
+  assigned_to:
+  - fig:4
+  basis: The tooth custom includes making an appeal to the little mice.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tooth
+  literal_form: tooth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hearth ashes
+  literal_form: ashes of the hearth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: little mice
+  literal_form: little mice addressed in an appeal
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rice-pot
+  literal_form: rice-pot around which children meet at meal-times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tooth hidden in hearth ashes
+  summary: A tooth is hidden among hearth ashes while an appeal is made to little
+    mice.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Age-based change in children's play
+  summary: Small boys play with girls until about five or six, then move toward bigger
+    boys and different games.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Funeral play meeting
+  summary: Boys and girls whose games are otherwise different sometimes meet at funerals
+    and play with one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Shared meal around the rice-pot
+  summary: Small boys and girls eat together at meal-times around the rice-pot, with
+    no stated difference in home treatment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Child tooth disposal with animal appeal
+  taxonomy_refs: []
+  basis: The passage describes a tooth being hidden in hearth ashes while an appeal
+    is made to little mice.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wording says 'same appeal,' implying context outside the supplied
+    passage; the exact content and purpose of the appeal are not provided here.
+- id: motif:2
+  label: Age-graded separation of boys' and girls' play
+  taxonomy_refs: []
+  basis: Small boys play with girls until about five or six years old, then join bigger
+    boys and play different games.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic social pattern rather than a mythological narrative
+    motif.
+- id: motif:3
+  label: Shared household eating as equal treatment of children
+  taxonomy_refs: []
+  basis: Small boys and girls meet around the rice-pot at meal-times and are said
+    to receive no different home treatment.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as domestic practice; no mythic or ritual significance
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2081-2083
+  quote_or_summary: '"tooth must be hidden among the ashes of the hearth, while the
+    same appeal to the little mice is made."'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2085-2089
+  quote_or_summary: Small boys play with girls until about five or six, then join
+    bigger boys; their games become different, though they sometimes meet and play
+    at funerals.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 2089-2091
+  quote_or_summary: Little boys imitate bigger boys and follow and watch their games.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 2091-2094
+  quote_or_summary: Small boys and girls meet around the rice-pot at meal-times, eat
+    together, and are treated without difference in the home.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal social observations are clear. Motif labeling is cautious because
+    the passage is ethnographic and the tooth custom refers to prior context not included
+    in the supplied excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not directly support one of the supplied taxonomy IDs.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l2077-l2099
+  passage_sha256=d5053923e885929c80f41f5b8abc1cd077c870a17878831815dceed319905c09
+

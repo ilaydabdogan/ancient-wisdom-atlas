@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l2520-l2554
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XXXVI. SHAN f. / Book XXXVIII. Zt HsIna. / Book XL. Kwan f. / Book XLI.
+    Hwan f.; lines 2520-2554
+  start: '2520'
+  end: '2554'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XLI as treating marriage after capping, notes
+    sources and age-related commentary, states that the Book’s duties concern the
+    wife and obedience, and describes marriage as mystically analogous to paired cosmic
+    and natural relations such as heaven and earth, sun and moon, and masculine and
+    feminine energies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Capping is presented as preceding the ceremony of marriage in a natural order.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first portion of the Book is said to describe the objects of marriage,
+    the manner of the ceremony, and later proceedings by which the union is declared
+    established.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The writer is said to have used chapters on marriage in the Li, and the passage
+    compares age-at-marriage information with other textual references and the case
+    of Confucius.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A name of maturity given at capping is described as commonly said to be the
+    name taken at marriage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The duties discussed in the Book are identified as duties of the wife rather
+    than of the young husband, and are summarized under obedience.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the tenth paragraph, the text is said to discuss the different establishments
+    of the king and queen and their functions.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the marriage union is mystically set forth as analogous
+    to the relations of heaven and earth, sun and moon, and masculine and feminine
+    energies of nature.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says a response is made by those cosmic or natural relations to
+    the conduct of the human parties in wedded union.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young man / young husband
+  description: A male marriage party whose marriage age and maturity name are discussed;
+    the passage says the duties set forth are not his duties.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: wife
+  description: The female marriage party whose duties are said to be set forth under
+    the general virtue of obedience.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: king
+  description: A royal figure with an establishment and functions discussed after
+    the marriage section.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: queen
+  description: A royal figure with an establishment and functions discussed after
+    the marriage section.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: human parties in wedded union
+  description: The married human parties whose conduct is said to receive a response
+    from the cosmic or natural relations named in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Confucius
+  description: Named as an example from which the passage infers that marriage could
+    occur earlier in ancient times.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: marital party
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: The passage discusses marriage, the young husband and wife, and the conduct
+    of human parties in wedded union.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: wife under obedience duties
+  assigned_to:
+  - fig:2
+  basis: The duties set forth are described as those of the wife, all comprised in
+    obedience.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: royal paired counterpart
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage mentions the different establishments of the king and queen and
+    their functions.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: recipient of maturity name
+  assigned_to:
+  - fig:1
+  basis: The maturity name given at capping is said to be the name taken at marriage.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: example for marriage timing
+  assigned_to:
+  - fig:6
+  basis: The passage uses the case of Confucius to suggest earlier marriage in ancient
+    times.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: capping ceremony
+  literal_form: The ceremony of capping, placed before marriage and associated with
+    receiving a name of maturity.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: marriage union
+  literal_form: The ceremony and subsequent proceedings by which a marriage union
+    is declared established.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: name of maturity
+  literal_form: The maturity name given at capping and said to be taken at marriage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heaven and earth
+  literal_form: The paired relation of heaven and earth used as an analogy for marriage
+    union.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sun and moon
+  literal_form: The paired relation of sun and moon used as an analogy for marriage
+    union.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: masculine and feminine energies
+  literal_form: The masculine and feminine energies of nature used as an analogy for
+    marriage union.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Capping followed by marriage
+  summary: The passage presents capping as preceding marriage and describes the marriage
+    section as treating the aims, ceremony, and proceedings by which the union is
+    established.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maturity name and marriage timing commentary
+  summary: The passage comments on textual sources for marriage, mentions age-related
+    material, cites Confucius as an example, and connects the maturity name from capping
+    with marriage.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wife’s duties under obedience
+  summary: The passage states that the Book’s duties concern the wife, not the young
+    husband, and that they fall under obedience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Royal and cosmic analogy for marriage
+  summary: The passage says later material on king and queen bears on marriage by
+    presenting wedded union as analogous to heaven and earth, sun and moon, and masculine
+    and feminine natural energies, with a response to the conduct of the human married
+    parties.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: rite of passage before marriage
+  taxonomy_refs:
+  - initiation
+  basis: Capping precedes marriage, and the maturity name given at capping is connected
+    with the name taken at marriage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is introductory and ritual-expository rather than a mythic
+    narrative; the capping rite is only briefly described.
+- id: motif:2
+  label: marriage union established by ritual procedure
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage describes a marriage ceremony and subsequent proceedings by which
+    union is declared established, and later frames that union through cosmic analogies.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The union described is human marriage; the passage does not narrate a
+    divine marriage.
+- id: motif:3
+  label: cosmic duality as analogue of human marriage
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly analogizes marriage union to paired relations of heaven
+    and earth, sun and moon, and masculine and feminine energies of nature.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The claim is limited to the passage’s stated analogy and does not establish
+    a broader historical relationship.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares human wedded union with paired cosmic and natural
+    relations, treating marriage as analogous to heaven-earth, sun-moon, and masculine-feminine
+    pairings.
+  claim_level: same_function
+  target: cosmic duality pattern in which paired opposites model or respond to human
+    union
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy stated by the passage; it is not evidence
+    by itself for historical contact, common inheritance, or a universal archetype.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2520-2526
+  quote_or_summary: Capping is said to be followed naturally by marriage; the first
+    portion of the Book accounts for the aims, ceremony, and proceedings establishing
+    the union.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2527-2538
+  quote_or_summary: The writer used Li chapters on marriage; the passage discusses
+    age-at-marriage information from other parts of the collection and the Kau Li,
+    and refers to Confucius as evidence for earlier marriage in ancient times.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 2538-2541
+  quote_or_summary: The maturity name given at capping is described as commonly said
+    to be the name taken at marriage.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 2542-2545
+  quote_or_summary: The duties set forth are said to belong to the wife rather than
+    the young husband, and are summarized by the virtue of obedience.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 2545-2548
+  quote_or_summary: After the tenth paragraph, the author turns from marriage to the
+    different establishments and functions of the king and queen.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 2548-2554
+  quote_or_summary: The king-and-queen material is said to bear on marriage by mystically
+    setting wedded union as analogous to heaven and earth, sun and moon, and masculine
+    and feminine energies of nature, with these responding to the conduct of the human
+    parties.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal structure and stated analogies are clear, but motif classification
+    is cautious because the passage is editorial and ritual-expository rather than
+    narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol IDs directly match heaven, earth, sun, moon, capping, or maturity name, so symbol taxonomy references are left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l2520-l2554
+  passage_sha256=8da7bdbbb56f50e793e14133992ec56a7f75ad29c8cd254845952ba5f89fb985
+

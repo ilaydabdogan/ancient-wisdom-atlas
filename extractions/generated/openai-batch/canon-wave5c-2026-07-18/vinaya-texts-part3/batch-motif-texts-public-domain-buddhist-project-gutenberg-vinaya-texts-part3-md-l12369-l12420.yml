@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l12369-l12420
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VII, 4 , 3 . / VII, 4 , 4 - / K ULLAVAGGA. / ZULLAVAGGA.; lines 12369-12420
+  start: '12369'
+  end: '12420'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An admonitory passage warns against wicked desire by presenting Devadatta
+    as formerly reputed wise and trained, then given to vanity and attack on the Tathagata,
+    and finally fallen into Aviki hell. It states that sin pervades the injurer of
+    the good or wrongless person, and uses an analogy of an ocean that cannot be befouled
+    by one pot of poison when speaking of attempted verbal injury against the Tathagata.
+    Notes gloss the fourfold guarding of hell and point to a comparison with the Kokaliya
+    Sutta.
+  language: English translation with Pali terms in notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage tells the hearer not to let any wicked desire arise and to learn
+    the outcome from the example that follows.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Devadatta is described as known as wise, reputed to be trained, and standing
+    aglow with glory.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Devadatta is said to have given himself to vanity and to attacking the Tathagata.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Devadatta is said to have fallen into Aviki hell, which is described as guarded
+    fourfold and terrible.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:5
+  text: The passage states that sin pervades the injurer of the good and of the person
+    who does no wrong, described as cruel-hearted and void of love.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says one poison pot could not befoul the ocean because the sea
+    is great, and then introduces a comparison to injuring the Tathagata by words.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note explains the fourfold guarding as gates and ramparts on all four sides.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note says the general sentiment of the stanzas, especially the line about
+    fourfold guarding, should be compared with the Kokaliya Sutta in the Sutta Nipata.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Devadatta
+  description: A figure described as formerly known as wise and trained, then vain
+    and attacking the Tathagata, and as falling into Aviki hell.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tathagata
+  description: The figure whom Devadatta attacks and whom the passage mentions in
+    relation to attempted injury by words.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: injurer of the good
+  description: A generic injuring figure described as cruel-hearted, void of love,
+    and pervaded by sin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: admonitory negative example
+  assigned_to:
+  - fig:1
+  basis: The warning against wicked desire is followed by Devadatta’s example and
+    its stated outcome.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: attacker or injurer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Devadatta is said to attack the Tathagata, and the passage also describes
+    the injurer of the good.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: target of attempted injury
+  assigned_to:
+  - fig:2
+  basis: The Tathagata is named as the object of Devadatta’s attack and of attempted
+    injury by words.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: fallen into hell
+  assigned_to:
+  - fig:1
+  basis: Devadatta is said to fall into Aviki hell.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Aviki hell
+  literal_form: A hell described as guarded fourfold and terrible.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: fourfold guarding
+  literal_form: Gates and ramparts on all four sides, according to the note.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: ocean or sea
+  literal_form: The ocean or sea, described as great and unable to be befouled by
+    one poison pot.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: poison pot
+  literal_form: A single pot of poison used in the ocean analogy.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Warning against wicked desire
+  summary: The passage instructs the hearer not to let wicked desire arise and to
+    learn its outcome from the following example.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Devadatta’s vanity and fall
+  summary: Devadatta is presented as formerly wise, trained, and glorious, then as
+    vain and attacking the Tathagata, and finally as falling into guarded Aviki hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Injury, sin, and ocean analogy
+  summary: The passage generalizes that the injurer of the good is pervaded by sin,
+    then compares the impossibility of befouling the great sea with one poison pot
+    to attempted verbal injury against the Tathagata.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wicked desire and vanity leading to infernal downfall
+  taxonomy_refs: []
+  basis: The passage warns against wicked desire and presents Devadatta’s vanity and
+    attack on the Tathagata as leading to a fall into Aviki hell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the outcome but does not narrate a full causal sequence
+    beyond the admonitory framing.
+- id: motif:2
+  label: injury against the good brings sin upon the injurer
+  taxonomy_refs: []
+  basis: The passage states that sin pervades the cruel-hearted injurer of the good
+    or wrongless person.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The figure of the good or wrongless person is expressed generically in
+    the cited lines.
+- id: motif:3
+  label: vast sea resists pollution as analogy for failed verbal injury
+  taxonomy_refs: []
+  basis: The passage says a poison pot cannot befoul the great sea and then applies
+    the comparison to attempted verbal injury against the Tathagata.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage excerpt ends immediately after introducing the comparison,
+    so the full conclusion of the analogy is not present here.
+comparison_claims:
+- id: claim:1
+  claim: A note explicitly directs comparison between the general sentiment of these
+    stanzas, especially the fourfold guarded hell line, and the Kokaliya Sutta in
+    the Sutta Nipata.
+  claim_level: same_function
+  target: Kokaliya Sutta in the Sutta Nipata, III, 10
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target passage is not supplied here, and the note indicates comparison
+    rather than demonstrating historical contact or dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12371-12374
+  quote_or_summary: "“let no wicked desire whatever arise / within you” and “Know
+    rather from this what is the outcome / thereof.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 12375-12378
+  quote_or_summary: "“Known was he as wise, reputed to be trained” and “Aglow with
+    glory did Devadatta stand.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 12379-12380
+  quote_or_summary: "“He gave himself to vanity, to attacking the Tathagata.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 12381-12382
+  quote_or_summary: "“He fell into the Aviki hell, guarded fourfold and / terrible.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:5
+  type: quote
+  locator: lines 12383-12386
+  quote_or_summary: "“The injurer of the good, of the man who does no / wrong, / Him
+    sin pervades, the man of cruel heart, and void / of love.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:6
+  type: quote
+  locator: lines 12387-12393
+  quote_or_summary: "“Though one should think the ocean to befoul with / but one poison
+    pot,” yet could not; “Just so though one should injure the Tathagata by / words.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 12411-12416
+  quote_or_summary: The note explains “guarded fourfold” as having gates and ramparts
+    on all four sides.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+- id: ev:8
+  type: quote
+  locator: lines 12416-12418
+  quote_or_summary: "“On the general sentiment of these stanzas, and especially of
+    this line, compare the Kokaliya Sutta m the Sutta Nipata (III, 10).”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by fragmentary line range, OCR-like typography, and
+    interleaved notes. The main figures, actions, and images are explicit, but the
+    ocean analogy appears incomplete in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied available symbol ref for water were used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l12369-l12420
+  passage_sha256=a9fe141e3d460a9026c8c00b4b90cc7f9dcac32be0bd62fc67ef5433c6c67275
+

@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l3960-l3972
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: STULLAVAGGA. / Y 9. 3- / ON THE DAILY LIFE OF THE BHIKKI-IUS. / V, 9, 4-;
+    lines 3960-3972
+  start: '3960'
+  end: '3972'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Bhikkhus carried odd bits, bones, and dirty water
+    in their bowls. People reacted with murmuring, shock, and indignation, beginning
+    to object that this was the same vessel from which something was done or used,
+    but the quoted objection is cut off in the supplied excerpt. Footnotes identify
+    related Pali terms and note that the list recurs in an Old Commentary on the tenth
+    Pācittiya in the Bhikkhunī-vibhaṅga.
+  language: ''
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhikkhus carried odd bits, bones, and dirty water in their bowls.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bowls are the vessels used to carry the listed refuse-like materials.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: People murmured and expressed shock and indignation at the Bhikkhus' action.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people's spoken objection begins by referring to the vessel but is incomplete
+    in the supplied excerpt.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A footnote says the list recurs in the Old Commentary on the tenth Pācittiya
+    in the Bhikkhunī-vibhaṅga.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic figures who carry odd bits, bones, and dirty water in their
+    bowls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: People
+  description: Observers who murmur and are shocked and indignant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: monastic actors carrying materials in bowls
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Bhikkhus carried odd bits, bones, and dirty water
+    in their bowls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: public critics or objectors
+  assigned_to:
+  - fig:2
+  basis: The passage states that people murmured, were shocked, and were indignant,
+    and began a spoken objection.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bowls or vessel
+  literal_form: Bowls described by the people as a vessel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bones
+  literal_form: Bones carried in the bowls.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dirty water
+  literal_form: Dirty water carried in the bowls.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: odd bits
+  literal_form: Odd bits carried in the bowls.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Bhikkhus carry refuse-like materials in bowls and receive public criticism
+  summary: Bhikkhus carry odd bits, bones, and dirty water in their bowls. People
+    react with murmuring, shock, and indignation and begin to object about the vessel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3960-3962
+  quote_or_summary: "“the Bhikkhus carried out odd bits, and bones, and dirty water
+    ... in their bowls.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in supplied
+    metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3963-3965
+  quote_or_summary: People murmured, were shocked, and were indignant, beginning a
+    complaint about the vessel; the quoted complaint is cut off in the supplied excerpt.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in supplied
+    metadata.
+- id: ev:3
+  type: summary
+  locator: lines 3970-3972
+  quote_or_summary: A note says this list recurs in the Old Commentary on the tenth
+    Pācittiya in the Bhikkhunī-vibhaṅga and cites Buddhaghosa's explanation of a Pali
+    term.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source identified as public-domain Project Gutenberg text in supplied
+    metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The supplied passage is fragmentary and includes footnotes. Literal extraction
+    is limited to the visible excerpt. No comparative motif claim is made because
+    the passage does not itself support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythology motif was extracted beyond literal monastic-discipline imagery. The available taxonomy symbol 'water' is applied only to the literal dirty water item, without symbolic interpretation.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l3960-l3972
+  passage_sha256=3dc091cbfac348c8ab7b3a055a87e24d9b20daaaced8c8601b3ad3302b1776d6
+

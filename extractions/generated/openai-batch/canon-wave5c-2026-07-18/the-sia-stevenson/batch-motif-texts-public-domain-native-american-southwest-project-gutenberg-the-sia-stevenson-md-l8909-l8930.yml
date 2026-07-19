@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l8909-l8930
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE ESKIMO. / THE INDIANS. / SPKCIAL ACCOUNT OP THE PEOPLE AROUND PORT CHIMO.
+    / TURNM.J ABOUND PORT CHIMO. 185; lines 8909-8930
+  start: '8909'
+  end: '8930'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports suicide methods and causes in a northern locality,
+    then describes scarcity-related violence and survival crises: a husband blocks
+    his wife inside a snow hut after discovering her hidden fish, where she dies of
+    starvation; other families are reported to resort to cannibalism after consuming
+    dogs and skin-made goods; and unlucky or disliked women may be expelled from camp
+    and left to seek relief or die.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Suicide is described as not rare relative to the small local population.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Reported suicide methods include jumping from a cliff, strangulation, and
+    sometimes use of a gun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies remorse and disappointed love as the only stated causes
+    of suicide.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: During a period of food scarcity, a man discovered that his wife had secretly
+    stored fish and eaten them while he was away seeking food.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man blocked the entrance to the snow hut after finding his wife eating
+    the stored fish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wife remained inside the snow hut and died of starvation because she believed
+    she would be killed if she came out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In reported cases of great scarcity, families resorted to cannibalism after
+    eating their dogs and skin-made clothing or other articles.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Unlucky or disliked women are described as often being driven from camp and
+    forced to journey until they find relief or die.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: A man who searched for food during scarcity, found his wife eating
+    hidden fish, and blocked the snow hut entrance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed wife
+  description: A woman who secretly stored and ate fish during her husband's absence
+    and later died of starvation inside the blocked snow hut.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: families in scarcity
+  description: Families reported to have eaten dogs, skin-made goods, and then resorted
+    to cannibalism in times of great scarcity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: unlucky or disliked women
+  description: Women described as being driven from camp and forced to travel until
+    relief or death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: food seeker and punitive blocker
+  assigned_to:
+  - fig:1
+  basis: He goes in search of food, discovers hidden fish, and blocks the hut entrance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: secret food keeper and starvation victim
+  assigned_to:
+  - fig:2
+  basis: She secretly stores and eats fish and then dies inside the blocked hut.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: scarcity-driven cannibalism participants
+  assigned_to:
+  - fig:3
+  basis: Families are reported to turn to cannibalism after exhausting dogs and skin-made
+    articles as food.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: expelled women
+  assigned_to:
+  - fig:4
+  basis: Women described as unlucky or disliked are driven from camp and must seek
+    relief or perish.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cliff
+  literal_form: cliff used as a place from which some people throw themselves in suicide
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hidden fish
+  literal_form: fish secretly stored and eaten during scarcity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snow hut with blocked entrance
+  literal_form: snow hut whose entrance is blocked by the husband
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dogs and skin-made articles as emergency food
+  literal_form: dogs, clothing, and other skin-made articles eaten before cannibalism
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: camp expulsion
+  literal_form: being driven from camp and forced to journey away
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: reported suicide practices
+  summary: The passage reports common suicide methods and the stated causes of suicide
+    in the locality.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hidden fish discovered during scarcity
+  summary: A man returns unexpectedly from seeking food and discovers his wife eating
+    fish she had secretly stored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: wife trapped in snow hut
+  summary: The man blocks the snow hut entrance; the wife remains inside and dies
+    of starvation because she fears being killed if she comes out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: cannibalism in great scarcity
+  summary: Families in severe scarcity are reported to eat dogs and skin-made articles
+    before turning to cannibalism.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: women driven from camp
+  summary: Unlucky or disliked women are expelled from camp and must travel until
+    they find help or die.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: suicide from remorse or disappointed love
+  taxonomy_refs: []
+  basis: The passage explicitly links suicide to remorse and disappointed love and
+    lists several methods.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic report, not a narrative myth episode; no available
+    taxonomy family directly matches.
+- id: motif:2
+  label: scarcity leads to lethal domestic punishment
+  taxonomy_refs: []
+  basis: Food scarcity frames the episode in which a hidden store of fish is discovered
+    and the wife dies after the hut is blocked.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a reported incident rather than a mythic narrative;
+    motives beyond those stated should not be inferred.
+- id: motif:3
+  label: famine cannibalism after exhausting ordinary and emergency foods
+  taxonomy_refs: []
+  basis: The passage reports families driven to cannibalism after consuming dogs and
+    skin-made goods during great scarcity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No comparative or mythological function is stated in the passage.
+- id: motif:4
+  label: expulsion of unlucky or disliked women
+  taxonomy_refs: []
+  basis: The passage states that such women are driven from camp and must journey
+    until finding relief or perishing.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not provide a named ritual, mythic framing, or comparative
+    context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8909-8913
+  quote_or_summary: Suicide is described as not rare; methods include falling from
+    a cliff, strangulation, or a gun, and causes are given as remorse and disappointed
+    love.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 8914-8918
+  quote_or_summary: During a period of food scarcity, a man seeking food discovers
+    that his wife has secretly stored and eaten fish during his absence.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 8918-8925
+  quote_or_summary: The man blocks the snow hut entrance; the wife stays inside and
+    dies of starvation because she believes she would be killed outside.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 8926-8928
+  quote_or_summary: In severe scarcity, families are reported to turn to cannibalism
+    after eating their dogs and skin-made clothing or other articles.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 8928-8930
+  quote_or_summary: Unlucky or disliked women are described as being driven from camp
+    and forced to journey until relief or death.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. The passage appears ethnographic
+    rather than mythic, and no passage-supported comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not directly support those controlled terms.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l8909-l8930
+  passage_sha256=f717e99b3f9ab2a29953bce985c50cf172a522a8d0be1930aa8cad01ebc96bce
+

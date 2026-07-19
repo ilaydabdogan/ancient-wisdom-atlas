@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l8263-l8305
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: AUBOBAS. / VEGETATION. / ANIMAL LIFE. / MAMMALS.; lines 8263-8305
+  start: '8263'
+  end: '8305'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a descriptive natural-history and subsistence account of
+    mammals in a northern region. It notes marine mammals, spring pursuit of phocids,
+    white-whale capture and processing by Indians and Eskimo at Little Whale river
+    and Fort Chimo, the importance of reindeer for subsistence and winter protection,
+    regional distributions of bears, and the presence of smaller mammals according
+    to food availability.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Marine mammals are described as the best-known mammal group in the region,
+    while the number of cetaceans is said likely to exceed common reports.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phocids are especially known because species of that family are pursued off
+    southeast Labrador each spring on a very large scale.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the mouth of Little Whale river, about 500 white whales are taken each
+    year, though the capture is described as steadily decreasing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Indians at Little Whale river perform much of the driving, killing, flaying,
+    and preserving of white whales.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At Fort Chimo, Eskimo perform the driving and killing of white whales, while
+    Indians remove and render the blubber for oil tanks.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The skin of the white whale is tanned into a durable leather noted as nearly
+    waterproof.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Reindeer are described as probably the most abundant land mammal, a principal
+    source of subsistence for many inhabitants, and a necessary source of skins for
+    winter protection for nearly all residents.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Black, white, and brown bears are described with different geographic ranges;
+    the brown or barren-ground bear is said to inspire Indian dread when enraged.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Smaller mammals are said to occur in abundance according to food availability,
+    with wolves, foxes, and wolverines broadly distributed and hares divided between
+    wooded and barren regions by species size.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: Human group described as performing whale-processing labor at Little
+    Whale river and Fort Chimo, and as fearing the enraged brown or barren-ground
+    bear.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Eskimo
+  description: Human group described as driving and killing white whales at Fort Chimo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: White whale
+  description: Marine mammal taken annually at Little Whale river and pursued at Fort
+    Chimo; its blubber is rendered for oil tanks and its skin is tanned into nearly
+    waterproof leather.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Reindeer
+  description: Land mammal described as abundant, central to subsistence for many
+    inhabitants, and a source of skins needed for winter protection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Phocids
+  description: Marine mammals described as well known because of large-scale spring
+    pursuit off southeast Labrador.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Bears
+  description: Black, white, and brown or barren-ground bears are described by regional
+    range and abundance; the brown bear is associated with danger when enraged.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Smaller mammals
+  description: Wolves, foxes, wolverines, and hares are described in terms of distribution
+    and food availability.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: whale-hunting and processing laborers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage assigns driving, killing, flaying, preserving, blubber removal,
+    and rendering tasks to Indians and Eskimo at Little Whale river and Fort Chimo.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: pursued marine mammals
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: White whales and phocids are described as animals taken or pursued in organized
+    seasonal or station-based activity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: subsistence and winter-protection resource
+  assigned_to:
+  - fig:4
+  basis: Reindeer are described as a principal subsistence source and as providing
+    skins necessary for winter protection.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: regionally distributed land mammals
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Bears and smaller mammals are discussed primarily through their geographic
+    distribution and abundance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: feared dangerous animal in human perception
+  assigned_to:
+  - fig:6
+  basis: The brown or barren-ground bear is said to keep the Indian in dread of its
+    vicious disposition when enraged.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Marine mammal pursuit and processing
+  summary: The passage describes large-scale spring pursuit of phocids and the annual
+    taking and processing of white whales at Little Whale river and Fort Chimo, including
+    a division of labor between Indians and Eskimo at Fort Chimo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Land mammals as resources and regional fauna
+  summary: The passage describes reindeer as abundant and vital for subsistence and
+    winter skins, then summarizes the ranges and abundance of bears and smaller mammals
+    such as wolves, foxes, wolverines, and hares.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8263-8271
+  quote_or_summary: The section introduces mammal life, stating that marine mammals
+    are well known and that cetacean numbers likely exceed ordinary reports for the
+    bordering waters.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8272-8275
+  quote_or_summary: Phocids are described as especially well known because species
+    of this family are pursued off southeast Labrador each spring on an unusually
+    large scale.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8276-8285
+  quote_or_summary: At Little Whale river about 500 white whales are taken annually,
+    with Indians doing much of the driving, killing, flaying, and preserving; at Fort
+    Chimo, Eskimo drive and kill while Indians remove and render blubber for oil tanks;
+    white-whale skin is tanned into nearly waterproof leather.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8286-8291
+  quote_or_summary: Reindeer are described as probably the most abundant land mammal,
+    a principal subsistence source for many inhabitants, and a necessary source of
+    skins for winter protection.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 8292-8300
+  quote_or_summary: Black, white, and brown bears are described by range; white bears
+    occur in northern sea-bordering areas and sometimes farther south on ice, while
+    the brown or barren-ground bear is limited but feared when enraged.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8301-8305
+  quote_or_summary: Smaller mammals occur in varying abundance according to food;
+    wolves, foxes, and wolverines are broadly distributed, while smaller hares occur
+    in wooded tracts and larger hares in barren regions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is descriptive natural history and subsistence reporting rather
+    than a mythic or ritual narrative. Literal extraction is high confidence, but
+    no supported mythology motif or comparison claim is identified from the supplied
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs, taxonomy symbol references, or comparison claims were extracted because the supplied passage does not itself present symbolic, mythic, or comparative material.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l8263-l8305
+  passage_sha256=5006534e00428fbdc75f29a9cb2b8a7af751f6054a07f6c0c1ac54d2d4368e28
+

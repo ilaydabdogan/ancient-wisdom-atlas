@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l10695-l10848
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: SEVENTH KHANDHAKA. / VIII, 12, 2. / VH, 3. THE KATIIINA CEREMONIES. T59 /
+    NINTH KHANDHAKA.; lines 10695-10848
+  start: '10695'
+  end: '10848'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya narrative recounts how Kassapa-gotta, a resident monk at Vasabha-gama,
+    hospitably receives visiting monks, later stops providing some provisions, is
+    wrongly expelled by them, travels to the Buddha for judgment, is declared innocent,
+    and returns while the visiting monks become remorseful and decide to confess.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Buddha is said to dwell at Campa on the brink of the lotus-pond Gaggara.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kassapa-gotta resides at Vasabha-gama in Kasi and is described as bound to
+    that place by religious duties, working so that capable monks might come and the
+    residence might prosper.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A group of travelling monks arrive at Vasabha-gama, and Kassapa-gotta prepares
+    seats, water for washing their feet, a foot-stool, and a towel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kassapa-gotta meets the travelling monks, takes their bowls and robes, offers
+    drinking water, and provides a bath, rice-milk, and hard and soft food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The travelling monks judge Kassapa-gotta to be good-natured and decide to
+    stay at Vasabha-gama because of the provisions he gives them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After thinking that the travelling monks are rested and know their way, Kassapa-gotta
+    stops providing rice-milk and hard and soft food for them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The travelling monks interpret the stopped provisions as anger, assemble,
+    accuse Kassapa-gotta of an offence, and ask whether he sees the offence.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kassapa-gotta says there is no offence for him to see, and the travelling
+    monks pronounce expulsion against him for refusing to see the alleged offence.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kassapa-gotta is uncertain whether there is an offence and whether the expulsion
+    is valid, so he travels to Campa to ask the Buddha.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: obs:10
+  text: The Buddha declares that Kassapa-gotta has committed no offence, is not guilty,
+    has not been expelled, and that the expulsion sentence is unlawful, objectionable,
+    and invalid.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Kassapa-gotta accepts the Buddha’s instruction, respectfully salutes him,
+    walks around him with his right side toward him, and returns to Vasabha-gama.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The travelling monks become remorseful, describe Kassapa-gotta as pure and
+    guiltless, and decide to go to the Buddha to confess their sin.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Blessed Buddha
+  description: The teacher dwelling at Campa who receives Kassapa-gotta, hears the
+    matter, and declares the expulsion invalid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Bhikkhu Kassapa-gotta
+  description: A resident monk at Vasabha-gama who hosts travelling monks, later stops
+    some provisions, is expelled by them, and appeals to the Buddha.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Stranger Bhikkhus
+  description: A group of travelling monks in Kasi who receive hospitality at Vasabha-gama,
+    stay there, pronounce expulsion against Kassapa-gotta, and later resolve to confess.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:11
+roles:
+- id: role:1
+  label: resident host and caretaker
+  assigned_to:
+  - fig:2
+  basis: Kassapa-gotta resides at Vasabha-gama, works for the progress of the residence,
+    and prepares hospitality for visiting monks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: travelling monastic guests
+  assigned_to:
+  - fig:3
+  basis: The monks are described as making pilgrimage in Kasi and arriving at Vasabha-gama
+    from elsewhere.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: authoritative adjudicating teacher
+  assigned_to:
+  - fig:1
+  basis: The Buddha is approached for judgment and declares the accused monk innocent
+    and the sentence invalid.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: accused and wrongfully expelled monk
+  assigned_to:
+  - fig:2
+  basis: Kassapa-gotta is accused of an offence and expelled, but the Buddha declares
+    that there was no offence and no valid expulsion.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:5
+  label: petitioner seeking clarification
+  assigned_to:
+  - fig:2
+  basis: Kassapa-gotta doubts the status of the alleged offence and expulsion, then
+    travels to ask the Buddha.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:6
+  label: accusers and remorseful offenders
+  assigned_to:
+  - fig:3
+  basis: The travelling monks pronounce expulsion and later become remorseful and
+    decide to confess their wrongdoing.
+  evidence_refs:
+  - ev:5
+  - ev:11
+symbols:
+- id: sym:1
+  label: water for hospitality
+  literal_form: Water for washing feet, drinking water, and a bath provided to arriving
+    monks.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lotus-pond Gaggara
+  literal_form: The lotus-pond beside which the Buddha is dwelling at Campa.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rice-milk and food
+  literal_form: Rice-milk and hard and soft food provided by Kassapa-gotta and later
+    withheld.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: alms-bowl and robe
+  literal_form: Kassapa-gotta takes up his alms-bowl and robe before travelling to
+    Campa.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening residences and obligations
+  summary: The Buddha is located at Campa, while Kassapa-gotta resides at Vasabha-gama
+    and works for the benefit and progress of the monastic residence there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality to travelling monks
+  summary: Travelling monks arrive at Vasabha-gama, and Kassapa-gotta receives them
+    with seats, water, a bath, rice-milk, and food; they decide to stay.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Withholding provisions and expulsion
+  summary: Kassapa-gotta stops giving rice-milk and food after deciding the visitors
+    are rested; the visiting monks accuse him and pronounce expulsion when he denies
+    wrongdoing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Appeal to the Buddha
+  summary: Uncertain about the alleged offence and the validity of the sentence, Kassapa-gotta
+    travels to Campa, salutes the Buddha, and recounts the dispute.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Invalidation and remorse
+  summary: The Buddha declares the expulsion invalid and sends Kassapa-gotta back;
+    the visiting monks become remorseful and decide to confess before the Buddha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: hospitality to travelling religious guests
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A resident monk receives travelling monks with ritualized hospitality objects
+    and provisions, and the visitors decide to stay because of that care.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy mapping is broad; the passage frames the exchange as monastic
+    hospitality rather than as a mythic or supernatural exchange.
+- id: motif:2
+  label: wrongful expulsion of an innocent member
+  taxonomy_refs: []
+  basis: The travelling monks pronounce expulsion for a supposed offence, but the
+    Buddha later states that Kassapa-gotta is innocent and that the sentence is invalid.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is a disciplinary-legal narrative rather than an explicitly mythological
+    episode.
+- id: motif:3
+  label: journey to an authoritative teacher for judgment
+  taxonomy_refs:
+  - wisdom
+  basis: Kassapa-gotta, uncertain about offence, guilt, and validity, travels to the
+    Buddha and receives a definitive ruling.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The wisdom taxonomy is used for adjudicative clarification; the passage
+    does not present an esoteric quest.
+- id: motif:4
+  label: remorse and confession after unjust action
+  taxonomy_refs: []
+  basis: After the Buddha’s ruling, the travelling monks are overcome by scruples
+    and remorse and resolve to confess their sin before him.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage states the remorse and intended confession, but the actual
+    confession is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Ninth Khandhaka I.1, opening setting
+  quote_or_summary: The Buddha dwells at Campa by the lotus-pond Gaggara; Kassapa-gotta
+    resides at Vasabha-gama in Kasi and works for the welfare and progress of the
+    residence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:2
+  type: summary
+  locator: Ninth Khandhaka I.1, arrival and reception
+  quote_or_summary: Travelling monks arrive at Vasabha-gama; Kassapa-gotta prepares
+    seats, foot-washing water, a foot-stool, a towel, drinking water, a bath, rice-milk,
+    and food.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:3
+  type: summary
+  locator: Ninth Khandhaka I.1, visitors decide to stay
+  quote_or_summary: The visiting monks regard the resident monk as good-natured because
+    of the bath, rice-milk, and food, and decide to stay at Vasabha-gama.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:4
+  type: summary
+  locator: Ninth Khandhaka I.2, provisions cease
+  quote_or_summary: Kassapa-gotta thinks the visitors are rested and now know the
+    way; he regards continued service to unrelated people as troublesome and stops
+    providing rice-milk and food.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:5
+  type: summary
+  locator: Ninth Khandhaka I.2-I.3, accusation and expulsion
+  quote_or_summary: The visiting monks infer that Kassapa-gotta is angry, accuse him
+    of an offence, receive his denial, and pronounce expulsion for his refusal to
+    see the alleged offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:6
+  type: summary
+  locator: Ninth Khandhaka I.3-I.4, decision to appeal
+  quote_or_summary: Kassapa-gotta is unsure whether there is an offence, whether he
+    is guilty, and whether the sentence is lawful or valid; he decides to go to Campa
+    and ask the Buddha, then departs with bowl and robe.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:7
+  type: summary
+  locator: Ninth Khandhaka I.4, greeting
+  quote_or_summary: The Buddha greets the incoming monk and asks about his welfare,
+    living, journey, and place of origin.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:8
+  type: summary
+  locator: Ninth Khandhaka I.5, report to the Buddha
+  quote_or_summary: Kassapa-gotta recounts the situation at Vasabha-gama, the expulsion
+    pronounced against him, and his reason for coming to ask the Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:9
+  type: summary
+  locator: Ninth Khandhaka I.6, ruling
+  quote_or_summary: The Buddha states that there is no offence, that Kassapa-gotta
+    is innocent and not expelled, and that the sentence is unlawful, objectionable,
+    and invalid; he tells him to return to Vasabha-gama.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:10
+  type: summary
+  locator: Ninth Khandhaka I.6, return
+  quote_or_summary: Kassapa-gotta assents, rises, salutes the Buddha, walks around
+    him with his right side toward him, and goes back toward Vasabha-gama.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+- id: ev:11
+  type: summary
+  locator: Ninth Khandhaka I.7, remorse of the visiting monks
+  quote_or_summary: The visiting monks are overcome by scruples and remorse, recognize
+    that they expelled a pure and guiltless monk without cause, and decide to confess
+    before the Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Summarized from the passage supplied in the request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is primarily a Vinaya disciplinary narrative, not an explicitly mythological
+    tale. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l10695-l10848
+  passage_sha256=9f2fa2b558c48307e9796d85e399c9a3d7b5866355bf8486bd83cce39b665c70
+

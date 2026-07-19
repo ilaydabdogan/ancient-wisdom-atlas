@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l21914-l21978
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUFFALO   SOCIETT / BUBEAU  OF  AMERIGAK  ETHNOLOGY / BUBEAU  OF  AMEBICAN   ETHNOLOGY
+    / ELK   SOCIETY; lines 21914-21978
+  start: '21914'
+  end: '21978'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Elk Society as a group of men who had dreamed
+    of the elk, identifies Two Shields as a singer and drummer, gives the title and
+    words of a society song said to have been handed down for many generations, states
+    that the song is still sung at dances and must be paid for by the requester, and
+    provides musical analysis of recorded renditions.
+  language: English with transliterated song words and English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men who had dreamed of the elk banded together and called themselves the Elk
+    Society.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two Shields was one of the singers and drummers in the Elk Society, whose
+    last meeting was said to have been about 30 years earlier.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two Shields sang a song used in the Elk Society and said it had been handed
+    down for many generations.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The song is still sung at dances, and the man who asks that it be sung must
+    always pay for it; such a man is usually an elk dreamer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The glossed song text says that whoever considers themselves beautiful after
+    seeing the speaker has no heart.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Three renditions of the song were recorded, and the analysis notes vibrato
+    tone, not absolutely regular time, and clearly distinguished D-flat and D-natural
+    tones with imperfect intonation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The musical analysis states that most intervals are seconds, the melody uses
+    a fourth five-toned scale with a flatted sixth as an accidental, the tonality
+    is major, and the drum metric unit is slightly slower than the voice.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Elk dreamers / Elk Society men
+  description: Men who had dreamed of the elk and banded together as the Elk Society.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Two Shields
+  description: A singer and drummer in the Elk Society who sang the recorded society
+    song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Man who asks for the song
+  description: A man who asks that the song be sung at dances, must pay for it, and
+    is usually an elk dreamer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: elk-dream society members
+  assigned_to:
+  - fig:1
+  basis: The group is defined as men who had dreamed of the elk and then formed the
+    Elk Society.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: singer and drummer
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Two Shields as one of the singers and drummers and
+    names him as the singer of the song.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: song requester and payer
+  assigned_to:
+  - fig:3
+  basis: The requester of the song must always pay for it and is usually an elk dreamer.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: elk
+  literal_form: The elk appears as the dreamed animal that defines the members and
+    name of the Elk Society.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Song of the Elk Society
+  literal_form: No. 104, Song of the Elk Society, Catalogue No. 538, sung by Two Shields.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: payment for song performance
+  literal_form: The required payment by the man who asks that the song be sung.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Elk Society and transmitted song
+  summary: The passage identifies the Elk Society as composed of men who dreamed of
+    the elk, names Two Shields as a singer and drummer, and describes a society song
+    said to have been handed down for many generations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Song at dances with required payment
+  summary: The song continues to be sung at dances, and a requester, usually an elk
+    dreamer, must pay for it.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Musical analysis of recorded renditions
+  summary: The analysis describes three recorded renditions and notes features of
+    tone, intonation, intervals, scale, rhythm, and relation between drum and voice.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dream-based ritual association
+  taxonomy_refs: []
+  basis: Membership and group identity are tied to men who had dreamed of the elk
+    and banded together as the Elk Society.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports dream-based association but does not describe initiation
+    rites or dream contents.
+- id: motif:2
+  label: Generational transmission of a society song
+  taxonomy_refs: []
+  basis: The song used in the Elk Society is said to have been handed down for many
+    generations and remains in use at dances.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify the chain of transmission or the circumstances
+    of original composition.
+- id: motif:3
+  label: Ritual song as paid exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The song must always be paid for by the man who asks that it be sung, and
+    the requester is usually an elk dreamer.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a required payment but does not explicitly explain
+    the religious or ceremonial rationale for the exchange.
+- id: motif:4
+  label: Beauty, seeing, and absence of heart in song text
+  taxonomy_refs: []
+  basis: The translated song text links someone considering themselves beautiful,
+    seeing the singer, and having no heart.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The song text is brief and lacks explanatory context, so its symbolic
+    meaning is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21914-21920
+  quote_or_summary: Men who had dreamed of the elk formed the Elk Society; Two Shields
+    was one of its singers and drummers, and its last meeting was about 30 years earlier.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights
+    metadata was not otherwise supplied.
+- id: ev:2
+  type: summary
+  locator: 21920-21925
+  quote_or_summary: Two Shields sang a song used in the society, said it had been
+    handed down for many generations, and stated it is still sung at dances and must
+    be paid for by the requester, usually an elk dreamer.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights
+    metadata was not otherwise supplied.
+- id: ev:3
+  type: citation
+  locator: 21927-21931
+  quote_or_summary: No. 104, Song of the Elk Society, Catalogue No. 538, sung by Two
+    Shields.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights
+    metadata was not otherwise supplied.
+- id: ev:4
+  type: quote
+  locator: 21939-21951
+  quote_or_summary: 'Glossed sense: “whoever” considers themselves “beautiful” after
+    “seeing me” “has no heart.”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Short excerpt from supplied public-domain passage.
+- id: ev:5
+  type: summary
+  locator: 21953-21977
+  quote_or_summary: The analysis describes three recorded renditions, tone and intonation
+    features, interval patterns, scale, tonality, rhythmic-unit variation, and a drum
+    metric unit slightly slower than the voice.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights
+    metadata was not otherwise supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is ethnographic and musical, with limited narrative context. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated cultural context were used beyond the supplied passage and metadata.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l21914-l21978
+  passage_sha256=b28bf2d1c9f47fbbb4babb3f53f54d7d1b6ef581b8b6bc6c6c4e5899a6d30efa
+

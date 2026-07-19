@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l13968-l14120
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: I, 64, I. ADMISSION TO THE ORDER OF BHIKKHUS. / I, 75. ADMISSION TO THE ORDER
+    OF BHIKKHUS. 22Q / SECOND KHANDHAKA. / IT, 34, 2. UPOSATHA CEREMONY, AND PATIMOKKHA.
+    2QI; lines 13968-14120
+  start: '13968'
+  end: '14120'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural cases in which Bhikkhus should respond to
+    summonses concerning doubts, false doctrine, sickness, disciplinary proceedings,
+    rehabilitation, ordination, taking precepts, or questions about Vassa. In repeated
+    cases, those who go are instructed to return within seven days.
+  language: English with transliterated Indic monastic terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a Bhikkhu has doubts of conscience and sends for Bhikkhus, the addressed
+    Bhikkhus are told to go with the aim of dispelling the doubts or composing him
+    by religious conversation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When a Bhikkhu takes to a false doctrine and sends for Bhikkhus, the addressed
+    Bhikkhus are told to go with the aim of discussing that doctrine, causing it to
+    be discussed, or composing him by religious conversation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When a Bhikkhu is subject to grave-offence discipline, recommenced penal discipline,
+    manatta discipline, or rehabilitation, the addressed Bhikkhus are told to assist
+    with the relevant disciplinary or rehabilitative procedure, including resolution
+    or quorum where stated.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the Saṅgha is going to proceed, or has proceeded, against a Bhikkhu,
+    the addressed Bhikkhus are told to consider prevention, mitigation, proper conduct
+    by the Bhikkhu, and revocation of the sentence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Parallel cases are given for a Bhikkhuni, including sickness, grave offence
+    requiring manatta discipline, recommenced discipline, rehabilitation, and Saṅgha
+    proceedings.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A sikkhamana who has violated her training precepts may send for assistance
+    so that she may take the precepts again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A sikkhamana desiring upasampada ordination may send for assistance with receiving
+    ordination, proclamation of the formula, or completion of the quorum.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cases involving a samanera and a samaneri include sickness, inquiry concerning
+    Vassa, desire for upasampada ordination, and desire to take precepts.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The instruction to return within seven days recurs across the cases in the
+    passage.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Addressed Bhikkhus
+  description: The Bhikkhus addressed by the rule are instructed to go when summoned
+    and to return within seven days.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Bhikkhu requiring assistance or discipline
+  description: A Bhikkhu may have doubts, take to false doctrine, be guilty of a grave
+    offence, require penal discipline or rehabilitation, or face Saṅgha proceedings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Saṅgha
+  description: The community is described as proceeding against a Bhikkhu or Bhikkhuni,
+    instituting proceedings, imposing sentences, or revoking a sentence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Bhikkhuni
+  description: A Bhikkhuni may be sick, guilty of a grave offence requiring manatta
+    discipline, subject to recommenced penal discipline, eligible for rehabilitation,
+    or subject to Saṅgha proceedings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sikkhamana
+  description: A female trainee may be sick, may have violated precepts, or may desire
+    upasampada ordination.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Samanera
+  description: A male novice may be sick, may ask concerning Vassa, or may desire
+    upasampada ordination.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Samaneri
+  description: A female novice may be sick or may desire to take precepts.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Messenger
+  description: A messenger is sent by a person seeking the Bhikkhus' or noble ones'
+    coming.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: summoned monastic responders
+  assigned_to:
+  - fig:1
+  basis: They are instructed to go in response to summonses and to assist through
+    conversation, discipline, ordination procedure, or other stated action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: person requesting or needing assistance
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage repeatedly frames the person in need as one who sends a messenger
+    for help, guidance, discipline, ordination, or restoration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: disciplinary community authority
+  assigned_to:
+  - fig:3
+  basis: The Saṅgha is described as proceeding against persons, instituting proceedings,
+    imposing or revoking sentences, and requiring quorum or resolution in some procedures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: intermediary messenger
+  assigned_to:
+  - fig:8
+  basis: The passage repeatedly states that a person sends a messenger asking the
+    Bhikkhus or noble ones to come.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: candidate for precepts or ordination
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The sikkhamana, samanera, and samaneri are described in relation to taking
+    precepts or receiving upasampada ordination.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: seven-day return period
+  literal_form: seven days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Summons for doubts or false doctrine
+  summary: A Bhikkhu with doubts of conscience or false doctrine sends for Bhikkhus,
+    who are to go for discussion, dispelling doubt, or composing him by religious
+    conversation, and then return within the stated period.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Disciplinary sentencing and rehabilitation of a Bhikkhu
+  summary: A Bhikkhu requiring parivasa, recommenced discipline, manatta, or rehabilitation
+    may be assisted by Bhikkhus through disciplinary procedure, resolution, or quorum,
+    followed by return within seven days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:3
+  label: Saṅgha proceedings against a Bhikkhu
+  summary: When the Saṅgha is about to proceed or has proceeded against a Bhikkhu,
+    he may call for Bhikkhus, who consider mitigation, proper conduct, or revocation
+    of sentence before returning within seven days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: scene:4
+  label: Parallel procedures for a Bhikkhuni
+  summary: Similar cases are applied to a Bhikkhuni, including sickness, manatta discipline
+    for grave offence, recommenced discipline, rehabilitation, and Saṅgha proceedings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: scene:5
+  label: Trainee and novice precepts or ordination
+  summary: A sikkhamana, samanera, or samaneri may send for assistance concerning
+    sickness, Vassa inquiry, taking or retaking precepts, or upasampada ordination,
+    with return within seven days.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: summoned communal assistance
+  taxonomy_refs: []
+  basis: The passage repeatedly presents a person in difficulty sending a messenger
+    so that Bhikkhus or noble ones will come and provide doctrinal, disciplinary,
+    medical-context, or ordination-related assistance.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a monastic legal-procedural pattern rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: initiation through ordination or taking precepts
+  taxonomy_refs:
+  - initiation
+  basis: The passage includes cases where a sikkhamana or samanera desires upasampada
+    ordination and where a sikkhamana or samaneri takes or retakes precepts, with
+    formula and quorum mentioned for ordination.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes formal Buddhist monastic admission procedures; it
+    does not present a symbolic initiation narrative.
+- id: motif:3
+  label: discipline, penance, and rehabilitation
+  taxonomy_refs: []
+  basis: Several cases concern grave offence, parivasa, manatta, recommenced penal
+    discipline, rehabilitation, mitigation of proceedings, and revocation of sentence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned because the passage
+    is procedural and specific to monastic law.
+- id: motif:4
+  label: required return after temporary departure
+  taxonomy_refs:
+  - return
+  basis: The repeated instruction states that those who go in response to the summons
+    should return within seven days.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The return is a practical rule about absence, not a narrative homecoming
+    or mythic return episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The ordination and precept-taking cases have the same basic function as
+    an initiation pattern: a person is formally admitted or restored to a regulated
+    religious status through prescribed procedure.'
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a Vinaya rule text and does not itself develop mythic
+    imagery, ordeal, or transformation beyond the stated ordination and precept procedures.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§§4-5 within lines 13968-14120"
+  quote_or_summary: A Bhikkhu with doubts or false doctrine may send for Bhikkhus;
+    they should go to dispel doubts, discuss doctrine, or compose him by religious
+    conversation, then return within seven days.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: "§§6-9 within lines 13968-14120"
+  quote_or_summary: Cases for a Bhikkhu include grave offence requiring parivasa,
+    recommenced penal discipline, manatta discipline, and rehabilitation, with assistance
+    through sentence, resolution, quorum, or related procedure.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: "§§10-11 within lines 13968-14120"
+  quote_or_summary: When the Saṅgha is about to proceed or has proceeded against a
+    Bhikkhu, he may send a messenger asking the Bhikkhus to come; they consider mitigation,
+    proper conduct, and possible revocation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: "§§12-20 and notes within lines 13968-14120"
+  quote_or_summary: Parallel cases are listed for a Bhikkhuni, including sickness,
+    grave offence requiring manatta, recommenced discipline, rehabilitation, and Saṅgha
+    proceedings; notes distinguish Bhikkhuni procedures from Bhikkhu procedures.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: "§§21-23 within lines 13968-14120"
+  quote_or_summary: A sikkhamana may be sick, may have violated precepts and need
+    to take them again, or may desire upasampada ordination with assistance concerning
+    the formula and quorum.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: "§§24-29 within lines 13968-14120"
+  quote_or_summary: A samanera may be sick, ask concerning Vassa, or desire upasampada
+    ordination; a samaneri may be sick or desire to take precepts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+- id: ev:7
+  type: quote
+  locator: Repeated refrain within lines 13968-14120
+  quote_or_summary: '"Within seven days you ought to return."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path is in a public-domain Project Gutenberg collection; rights_status
+    field was not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The procedural content is clear, but its relevance to comparative mythology
+    is limited; motif labels should be reviewed for fit against the Atlas taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cave, fire, milk, mountain, serpent, tree, or water symbol appears in the supplied passage. The main extractable patterns are monastic summons, discipline, ordination/precepts, and repeated seven-day return.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l13968-l14120
+  passage_sha256=e36a7dc1fccbaaa79ff631c6fcad1b8bef5f2354076967e257633577d2b911f0
+

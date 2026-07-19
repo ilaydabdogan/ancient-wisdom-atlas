@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l2486-l2517
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: BK. XXXV. INTRODUCTION. AQ / Book XXXVI. SHAN f. / Book XXXVIII. Zt HsIna.
+    / Book XL. Kwan f.; lines 2486-2517
+  start: '2486'
+  end: '2517'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XL on the ceremony of capping, describing it
+    as a rite marking a youth’s transition from immaturity into the privileges and
+    responsibilities of manhood. It explains the title as concerning the meaning or
+    signification of the ceremony, compares the Chinese cap of manhood with the Roman
+    toga virilis, and notes differences in age and social maturity between the two
+    customs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Book XL concerns the ceremony of capping, though fuller details
+    are found incidentally in other books.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unknown writer’s stated object is described as glorifying the rite as
+    the occasion when a youth passes from immaturity into the privileges and responsibilities
+    of a man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The title is explained as indicating the meaning, signification, or ideas
+    underlying the ceremony.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Chinese cap of manhood is compared with the Roman toga virilis.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Roman age for assuming the toga was fourteen,
+    while the Chinese age for receiving the cap was twenty.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The capped Chinese youth is described as having grown to man’s estate, while
+    the gowned Roman is described as little more than a boy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: youth receiving the cap
+  description: A youth who steps from immaturity into the privileges and responsibilities
+    of a man through the capping rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unknown writer
+  description: The writer of the treatise, described as aiming to glorify the capping
+    rite and explain its usages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: capped Chinese youth
+  description: A young Chinese man who receives the cap at twenty and is described
+    as grown to man’s estate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: gowned Roman youth
+  description: A Roman youth who assumes the toga at fourteen and is described as
+    little more than a boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: coming-of-age participant
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The youth receives the cap as a transition from immaturity to manhood, with
+    the Chinese recipient described as grown to man’s estate.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: ritual expositor
+  assigned_to:
+  - fig:2
+  basis: The writer is said to glorify the rite and explain usages marking its importance.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: comparative coming-of-age participant
+  assigned_to:
+  - fig:4
+  basis: The Roman youth is introduced for comparison through the toga virilis custom.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cap of manhood
+  literal_form: Chinese cap received in the ceremony of capping
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: toga virilis
+  literal_form: Roman toga assumed at fourteen
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of the capping rite
+  summary: The passage explains that the capping rite marks a youth’s movement from
+    immaturity into adult privileges and responsibilities and that the treatise concerns
+    the meaning of the ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Comparison of Chinese cap and Roman toga
+  summary: The passage compares the Chinese cap of manhood with the Roman toga virilis,
+    distinguishing the ages and levels of social maturity associated with each.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: coming-of-age initiation through ritual clothing
+  taxonomy_refs:
+  - initiation
+  basis: The rite is described as marking a youth’s passage from immaturity into the
+    privileges and responsibilities of manhood, with the cap serving as the ceremonial
+    marker.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is explanatory and ritual-historical rather than narrative
+    myth; the motif identification is limited to the rite-of-passage pattern explicitly
+    described.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Chinese cap of manhood and the Roman toga virilis
+    as comparable markers of male coming-of-age, while explicitly noting differences
+    in age and degree of maturity.
+  claim_level: same_function
+  target: Roman toga virilis
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The comparison is made by the passage’s commentator and is functional
+    rather than a claim of historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2486-2496
+  quote_or_summary: Book XL is introduced as concerning the ceremony of capping; the
+    writer’s object is to glorify the rite as the occasion when a youth moves from
+    immaturity into adult privileges and responsibilities.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 2496-2506
+  quote_or_summary: The title is explained as referring to the meaning, signification,
+    or ideas underlying the ceremony.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 2507-2514
+  quote_or_summary: The Chinese cap of manhood is compared to the Roman toga virilis,
+    with the Roman age given as fourteen and the Chinese age as twenty; the Chinese
+    recipient is described as grown to man’s estate, the Roman as little more than
+    a boy.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 2515-2517
+  quote_or_summary: The passage notes that understanding the object of the treatise
+    helps make otherwise intricate and heavy paragraphs clearer.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The rite-of-passage pattern and the comparison with the toga virilis are
+    stated directly in the passage. No historical-contact claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs apply directly to the cap or toga; symbol taxonomy refs are therefore left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l2486-l2517
+  passage_sha256=2e8d173c7438e10d5fe17d2efccd592ff186a8e4ffa7d9acf461c93405353d89
+

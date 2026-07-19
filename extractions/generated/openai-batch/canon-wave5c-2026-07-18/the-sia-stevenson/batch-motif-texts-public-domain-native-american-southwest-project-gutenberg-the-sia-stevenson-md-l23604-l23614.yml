@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l23604-l23614
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: MEN SELECTED T() SEEK THE MYSTERY THKR, / TENT OF PREPARATION. / TENT OF
+    PREPARATION. / TENT OF PREPARATION.; lines 23604-23614
+  start: '23604'
+  end: '23614'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt reports Fletcher's statement that a tent set apart for consecrating
+    ceremonies after sunset on the first day was pitched within the line of tents
+    on a former sacred-tent site. It adds that the author learned from a Ponka chief
+    in 1873 about a medicine described as a bulbous root growing near the place where
+    the sun pole is planted. The fragment also mentions trailing grass and wild sage
+    on which a buffalo skull is laid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tent is described as set apart for consecrating ceremonies after sunset
+    of the first day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tent is reported to have been pitched within a line of tents on a site
+    formerly assigned to one of the sacred tents.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author reports hearing about a medicine in 1873 from a Ponka chief.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ponka chief is described as one of the leaders of a dancing society.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The medicine is described as a bulbous root growing near the place where the
+    sun pole is planted.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Trailing grass and wild sage are mentioned as materials on which a buffalo
+    skull is laid.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Miss Fletcher
+  description: Cited as stating information about the tent for consecrating ceremonies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the author
+  description: Reports having heard about the medicine in 1873.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ponka chief
+  description: Unnamed Ponka chief who told the author about the medicine and is described
+    as a leader of a dancing society.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed actors referred to as "they"
+  description: Unspecified actors who lay the buffalo skull on grass and wild sage;
+    the antecedent is not present in the fragment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cited reporter
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Miss Fletcher as stating the details about the consecrating
+    tent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient and reporter of medicine account
+  assigned_to:
+  - fig:2
+  basis: The passage says the author heard about the medicine in 1873.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: medicine informant
+  assigned_to:
+  - fig:3
+  basis: The medicine account is attributed to a Ponka chief.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: dancing-society leader
+  assigned_to:
+  - fig:3
+  basis: The Ponka chief is described as one of the leaders of a dancing society.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: unspecified skull placers
+  assigned_to:
+  - fig:4
+  basis: The passage says that "they" lay the buffalo skull on the plant materials,
+    but the antecedent is not included in the fragment.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: consecration tent
+  literal_form: tent set apart for consecrating ceremonies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: former sacred-tent site
+  literal_form: site formerly assigned to one of the sacred tents
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: medicine root
+  literal_form: bulbous root
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: sun pole
+  literal_form: place where the sun pole is planted
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: grass and wild sage
+  literal_form: trailing grass and wild sage
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: buffalo skull
+  literal_form: buffalo skull
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reported placement of consecration tent
+  summary: Miss Fletcher is cited for the statement that a tent for consecrating ceremonies
+    after sunset of the first day was pitched within the line of tents on a former
+    sacred-tent site.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Account of medicine root
+  summary: The author reports hearing from a Ponka chief, a leader of a dancing society,
+    about a medicine described as a bulbous root growing near the sun pole.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Buffalo skull on plant materials
+  summary: Unspecified actors lay a buffalo skull on trailing grass and wild sage.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Designated tent for consecrating ceremonies
+  taxonomy_refs: []
+  basis: The passage explicitly describes a tent set apart for consecrating ceremonies
+    after sunset on the first day.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment does not explain the full ceremony or its purpose beyond
+    consecration.
+- id: motif:2
+  label: Medicine plant associated with a planted sun pole
+  taxonomy_refs: []
+  basis: The passage identifies the medicine as a bulbous root growing near the place
+    where the sun pole is planted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wider ritual significance of the root and sun pole is not provided
+    in the excerpt.
+- id: motif:3
+  label: Buffalo skull placed on grass and sage
+  taxonomy_refs: []
+  basis: The passage mentions trailing grass and wild sage as the surface on which
+    a buffalo skull is laid.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The antecedent of "they" and the ritual context are absent from the fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23604-23606
+  quote_or_summary: Miss Fletcher states that a tent set apart for consecrating ceremonies
+    after sunset of the first day was pitched within a line of tents on a former sacred-tent
+    site.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 23608-23609
+  quote_or_summary: The author reports hearing about a medicine in 1873 from a Ponka
+    chief, described as one of the leaders of a dancing society.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 23610-23611
+  quote_or_summary: The medicine is described as a bulbous root growing near the place
+    where the sun pole is planted.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 23613-23614
+  quote_or_summary: Trailing grass and wild sage are mentioned as materials on which
+    a buffalo skull is laid.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short, fragmentary, and affected by OCR errors. Motif candidates
+    are limited to literal ritual objects and actions named in the excerpt; no comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the excerpt does not clearly support any of the supplied motif-family or symbol taxonomy IDs.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l23604-l23614
+  passage_sha256=7c6b40d1a94d4927a64ae719befb734b9b31057cdbb9c81269b2084c57ddf65b
+

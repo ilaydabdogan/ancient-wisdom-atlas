@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l37650-l37735
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: DANCERS  ON  SISSETON / PRAIRIE  ON  BISSETON  RESERVATION / TETON   SIOUX  MTJSIO
+    / BUBEAU  OF  AMEBIGAN   ETHNOLOGY; lines 37650-37735
+  start: '37650'
+  end: '37735'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: No. 240. Song of the Famine (Catalogue No. 647)
+  summary: The passage gives translated fragments from a song, followed by a musical
+    analysis describing its interval, renditions, range, missing tones, and recent
+    composition. It then introduces a catalog entry titled “Song of the Famine,” names
+    the singer as Holy-facb Bbaf in the OCR text, and gives voice, drum-rhythm, notation,
+    and song-text syllables.
+  language: English with romanized song text and OCR artifacts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The translated song fragments contain first-person statements: loving, having
+    said something, and having helped to keep up the old ways.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis says the song has a remarkable opening interval, given uniformly
+    in three renditions, while the fourth rendition begins on the last part of the
+    first measure.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis describes the song as melodic in structure, with a range of ten
+    tones, lacking the sixth and seventh tones of the complete octave, and recently
+    composed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A catalog entry identifies “No. 240” as “Song of the Famine” with catalogue
+    number 647.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The “Song of the Famine” entry states that it was sung by a named person rendered
+    in the OCR text as “Holy-facb Bbaf.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The entry gives a voice marking and says the drum rhythm is similar to No.
+    6.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The later portion of the passage contains musical notation and romanized song-text
+    syllables or words without translation in the supplied passage.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person song speaker
+  description: A first-person voice in the translated song fragments says “I love,”
+    “I said,” and “I have helped” in relation to keeping up old ways.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Holy-facb Bbaf
+  description: Named in the OCR text as the singer of “Song of the Famine.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person lyric voice
+  assigned_to:
+  - fig:1
+  basis: The translated song fragments are phrased in the first person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: singer or performer
+  assigned_to:
+  - fig:2
+  basis: The catalog entry states that the song was sung by this named person.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: First-person translated song fragment
+  summary: An unnamed first-person voice says that they love, that they said something,
+    and that they helped to keep up the old ways.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Musical analysis of preceding song
+  summary: The passage analyzes a song’s opening interval, renditions, melodic structure,
+    tone range, omitted tones, and recent composition.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalog entry for Song of the Famine
+  summary: A new numbered catalog item is introduced as “Song of the Famine,” with
+    singer attribution, voice and drum-rhythm notes, notation, and romanized text.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: preservation of old ways
+  taxonomy_refs: []
+  basis: The translated lyric fragment says the speaker has helped to keep up the
+    old ways.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is only a short translated lyric fragment; no mythological narrative
+    or symbolic elaboration is supplied.
+- id: motif:2
+  label: famine song
+  taxonomy_refs: []
+  basis: The catalog title identifies the item as “Song of the Famine.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage provides the title but no translated narrative content explaining
+    famine imagery or function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37650-37654
+  quote_or_summary: Translated fragments include “I love,” “I said,” “therefore,”
+    and “I have helped (to keep up the old ways).”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Supplied source path indicates a public-domain/Project Gutenberg context;
+    explicit rights_status metadata is null.
+- id: ev:2
+  type: summary
+  locator: lines 37656-37662
+  quote_or_summary: The analysis describes the song’s opening interval, renditions,
+    melodic structure, range of ten tones, omitted sixth and seventh tones, and recent
+    composition.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Supplied source path indicates a public-domain/Project Gutenberg context;
+    explicit rights_status metadata is null.
+- id: ev:3
+  type: summary
+  locator: lines 37666-37677
+  quote_or_summary: The passage introduces “No. 240. Song of the Famine (Catalogue
+    No. 647),” says it was sung by “Holy-facb Bbaf,” and gives voice and drum-rhythm
+    notes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Supplied source path indicates a public-domain/Project Gutenberg context;
+    explicit rights_status metadata is null.
+- id: ev:4
+  type: summary
+  locator: lines 37678-37735
+  quote_or_summary: The passage presents musical notation and romanized song-text
+    syllables or words for the cataloged song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Supplied source path indicates a public-domain/Project Gutenberg context;
+    explicit rights_status metadata is null.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is limited by OCR artifacts and by the absence of translated narrative
+    content for the “Song of the Famine.” No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is primarily musical documentation rather than a mythological narrative; motifs are therefore recorded cautiously as lyric or title-based candidates.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l37650-l37735
+  passage_sha256=38ef547d3cb4a0c1e3c71c587f1f1f0630cb628efd8f8e62363dabacbf17f256
+

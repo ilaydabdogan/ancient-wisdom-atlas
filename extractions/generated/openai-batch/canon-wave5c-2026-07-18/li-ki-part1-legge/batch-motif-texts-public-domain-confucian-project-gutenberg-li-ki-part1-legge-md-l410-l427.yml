@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l410-l427
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: X1V PREFACE. / INTRODUCTION. / CHAP TERS I.; lines 410-427
+  start: '410'
+  end: '427'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an assembly connected with recovered classics, naming
+    Hsiang as a prominent member with charge of repositories and Tai Shang in connection
+    with Li works. It then recounts a later imperial search for overlooked books,
+    Hsiang's examination and collation of repository contents, the preparation of
+    a catalogue, and the delegation of unfinished work to Hsiang's youngest son Hsin
+    after Hsiang's death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A prominent member of the assembly, named Hsiang in the passage, is described
+    as a celebrated writer and a scion of the imperial house.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hsiang is said to have had principal charge of all the repositories.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tai Shang is named among the other members and is specially connected with
+    the Li works.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The results of the Great Scholars' deliberations are stated to be unknown.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Twenty-five years later, emperor Khang caused a search throughout the empire
+    for books that may have escaped notice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the search, Khang ordered Hsiang to examine repository contents and
+    collate the various copies of the classics.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The examination and collation led to the preparation of a catalogue.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hsiang died at age seventy-two in B.C. 9 before the catalogue was completed,
+    and the work was delegated to his third and youngest son Hsin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hsiang
+  description: A prominent member of the assembly, described as a celebrated writer,
+    a scion of the imperial house, and the person ordered to examine and collate repository
+    contents.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tai Shang
+  description: A member named in special connection with the Li works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: emperor Khang
+  description: The emperor who caused another empire-wide search for books and ordered
+    Hsiang to examine and collate the classics.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hsin
+  description: Hsiang's third and youngest son, to whom the unfinished catalogue work
+    was delegated.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Great Scholars
+  description: A scholarly group whose deliberations are mentioned; their results
+    are stated to be unknown.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: repository overseer
+  assigned_to:
+  - fig:1
+  basis: The passage says Hsiang had principal charge of all the repositories.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: member connected with Li works
+  assigned_to:
+  - fig:2
+  basis: Tai Shang is named among members in special connection with the Li works.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: imperial sponsor of book search
+  assigned_to:
+  - fig:3
+  basis: Khang caused an empire-wide search for books and ordered collation of classics.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: collator of classics
+  assigned_to:
+  - fig:1
+  basis: Hsiang was ordered to examine repository contents and collate copies of the
+    classics.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: successor cataloguer
+  assigned_to:
+  - fig:4
+  basis: After Hsiang died, the work was delegated to Hsin.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: deliberating scholarly assembly
+  assigned_to:
+  - fig:5
+  basis: The passage refers to deliberations of the Great Scholars.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: recovered classics
+  literal_form: classical texts described as recovered and later collated in various
+    copies
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: repositories
+  literal_form: repositories holding contents to be examined
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: catalogue
+  literal_form: catalogue prepared from the examination and collation of classical
+    texts
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: books that escaped notice
+  literal_form: books sought throughout the empire because they may have been overlooked
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Scholarly assembly and repositories
+  summary: An assembly connected with recovered classics is described; Hsiang is prominent
+    and charged with repositories, and Tai Shang is named in connection with Li works.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imperial search for overlooked books
+  summary: Emperor Khang causes a search throughout the empire for books that may
+    not yet have been noticed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Collation and catalogue succession
+  summary: Khang orders Hsiang to examine repository contents and collate copies of
+    the classics, leading to a catalogue; after Hsiang dies before completion, the
+    work is delegated to Hsin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Recovery and preservation of classical texts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on recovered classics, an empire-wide search for overlooked
+    books, collation of copies, and cataloguing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historical-literary account rather than a mythic narrative;
+    the taxonomy reference to wisdom is broad and should be reviewed.
+- id: motif:2
+  label: Imperial patronage of textual preservation
+  taxonomy_refs: []
+  basis: The emperor initiates the search for books and orders Hsiang to examine and
+    collate classical texts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No explicit sacred or mythological function is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 410-416
+  quote_or_summary: The passage refers to recovered classics, an assembly, Hsiang
+    as prominent member and repository overseer, and Tai Shang in special connection
+    with Li works.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 418-423
+  quote_or_summary: The results of the Great Scholars' deliberations are unknown;
+    twenty-five years later emperor Khang caused an empire-wide search for books that
+    may have escaped notice.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 423-425
+  quote_or_summary: Khang ordered Hsiang to examine repository contents and collate
+    copies of the classics, from which came the preparation of a catalogue.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 425-427
+  quote_or_summary: Hsiang died at age seventy-two in B.C. 9 before the catalogue
+    was completed, and the work was delegated to his youngest son Hsin.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; passage
+    supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the provided lines. Motif identification
+    is limited because the passage is introductory historical scholarship rather than
+    a mythic or ritual narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and wording follow the supplied passage; no external correction of possible OCR or transliteration issues has been applied.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l410-l427
+  passage_sha256=3bcacbf9c55e907dc557a96dc5e3e336cf39d70ae5e2c17cccd9b08203e784cf
+

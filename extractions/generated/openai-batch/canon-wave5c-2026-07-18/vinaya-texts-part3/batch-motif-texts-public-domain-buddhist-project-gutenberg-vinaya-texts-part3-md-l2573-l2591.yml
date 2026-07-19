@@ -1,0 +1,171 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2573-l2591
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IY, 14, 25. / IV, 14, 25- / ZULLAVAGGA. / IV, 14, 2 6 .; lines 2573-2591
+  start: '2573'
+  end: '2591'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“Has the venerable one been guilty of such and such a grievous offence”"
+  summary: A rule-form passage describes one Bhikkhu warning another Bhikkhu before
+    the Sangha about a grievous offence and asking him to recollect whether he committed
+    it. The questioned Bhikkhu denies remembering such an offence, and the other urges
+    him to ascertain the matter with certainty.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: One Bhikkhu warns another Bhikkhu in the midst of the Sangha about a grievous
+    offence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The warning Bhikkhu asks the other to recollect whether he has committed a
+    Parajika offence or an offence equivalent to a Parajika offence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The questioned Bhikkhu replies that he does not call to mind having been guilty
+    of the specified grievous offence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the denial, the other Bhikkhu insists that he ascertain for certain
+    whether he is conscious of having committed the offence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The exchange takes place in the midst of the Sangha.
+  category: setting
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: warning Bhikkhu
+  description: A Bhikkhu who warns another Bhikkhu before the Sangha and presses him
+    to recollect or ascertain whether he committed a grievous offence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: questioned Bhikkhu
+  description: A Bhikkhu who is warned about a grievous offence and replies that he
+    does not remember being guilty of it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Sangha
+  description: The communal setting or assembly in whose midst the warning occurs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: admonisher or examiner
+  assigned_to:
+  - fig:1
+  basis: This Bhikkhu warns another, asks whether he has committed a grievous offence,
+    and insists that he ascertain the matter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: respondent or accused monk
+  assigned_to:
+  - fig:2
+  basis: This Bhikkhu is asked about a grievous offence and denies recalling guilt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: communal assembly
+  assigned_to:
+  - fig:3
+  basis: The passage states that the exchange occurs in the midst of the Sangha.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Public warning and denial before the Sangha
+  summary: One Bhikkhu publicly warns another about a grave offence, asks him to recollect
+    whether he committed it, receives a denial of recollection, and then urges him
+    to ascertain the truth with certainty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: formal accusation and compelled recollection before a community
+  taxonomy_refs: []
+  basis: The passage presents a structured exchange in which an alleged grave offence
+    is raised publicly, the respondent denies memory of guilt, and the examiner presses
+    for certainty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a monastic disciplinary rule passage rather than a mythic narrative;
+    the motif label identifies a procedural pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2573-2582
+  quote_or_summary: A Bhikkhu warns another Bhikkhu in the midst of the Sangha about
+    a grievous offence and asks whether he has been guilty of a Parajika offence or
+    equivalent offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2582-2586
+  quote_or_summary: The questioned Bhikkhu replies that he does not call to mind having
+    been guilty of the specified grievous offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 2586-2591
+  quote_or_summary: The other Bhikkhu insists that the respondent ascertain for certain
+    whether he is conscious of having been guilty of the offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural actions and roles are explicit. Motif identification is cautious
+    because the passage is disciplinary and non-mythic. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs or motif-family refs were assigned because the passage does not support them directly.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2573-l2591
+  passage_sha256=cca2749dad92db1fa396650dcde2c54844dc8fd5109c7c409d523edba1428e7e
+

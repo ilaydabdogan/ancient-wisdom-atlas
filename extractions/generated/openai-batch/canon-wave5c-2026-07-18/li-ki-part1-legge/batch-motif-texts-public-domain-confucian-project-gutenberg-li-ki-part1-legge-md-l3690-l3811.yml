@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l3690-l3811
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XLIV. YEN f. / Book XLV. Purine Tf. / Book XLVI. SAnc FO SZE AIH. /
+    Part IV.; lines 3690-3811
+  start: '3690'
+  end: '3811'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual and conduct rules: a capped young man should
+    restrain ordinary habits while a parent is ill; sad or mourning persons should
+    sit in separated or reduced fashion; and presenters and recipients should handle
+    gifts, animals, weapons, documents, food, captives, and valuables according to
+    specified gestures and orientations.'
+  language: English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A capped young man whose father or mother is ill is instructed not to use
+    his comb, speak on idle topics, or take up musical instruments.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same young man is instructed to limit eating, drinking, laughter, and
+    anger while the parental illness continues, and may resume former habits when
+    the illness is gone.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sad and anxious person sits with his mat spread apart from others, while
+    a person mourning a death sits on a single mat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After heavy rains, fish or tortoises should not be presented to a superior.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several presentations require an accompanying object or document, such as
+    a whip and mounting strap for carriage and horses, a helmet for mail, an account
+    or measure for grain, sauce and pickles for cooked food, and writings for fields
+    and tenements.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: A captive being presented should be held by the right sleeve.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bows, swords, spears, birds, animals, stools, staves, pearls, jade, lambs,
+    and geese are to be given or received with specified hand positions, orientations,
+    coverings, or preliminary wiping.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The chapter overview describes the presentations in this section as presentations
+    from inferiors to superiors.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: capped young man
+  description: A young man who has been capped and whose father or mother is ill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: father or mother
+  description: The ill parent of the capped young man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: sad and anxious person
+  description: A person described as sad and anxious, instructed to sit apart from
+    others on his mat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mourner
+  description: A person mourning a death, instructed to sit on a single mat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: presenter or giver
+  description: A person making formal presentations of objects, animals, food, land
+    records, weapons, or a captive.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: superior or recipient
+  description: The person to whom presentations are made or who receives valuable
+    or formal objects.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: captive
+  description: A captive who is presented and held by the right sleeve.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: filial son under parental illness
+  assigned_to:
+  - fig:1
+  basis: His conduct is regulated because his father or mother is ill.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ill parent
+  assigned_to:
+  - fig:2
+  basis: The father or mother is the person whose illness prompts the young man's
+    restraint.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sad and anxious person
+  assigned_to:
+  - fig:3
+  basis: The passage names a person who is sad and anxious and prescribes his seating.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mourner
+  assigned_to:
+  - fig:4
+  basis: The passage names one mourning for a death and prescribes sitting on a single
+    mat.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ritual presenter or giver
+  assigned_to:
+  - fig:5
+  basis: The passage repeatedly describes how one presenting or giving specified things
+    should handle them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: recipient or superior
+  assigned_to:
+  - fig:6
+  basis: The overview identifies the presentations as from inferiors to superiors,
+    and the rules describe receiving items.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: captive being presented
+  assigned_to:
+  - fig:7
+  basis: The captive is the person held by the right sleeve during presentation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: separated or single mat
+  literal_form: mat
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: representative presentation implements
+  literal_form: whip and mounting strap carried for carriage and horses
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: documentary token of property transfer
+  literal_form: writings about fields and tenements
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: covered or two-handed reception
+  literal_form: receiving pearl or jade with both hands; receiving bow or sword with
+    sleeves
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: embroidered animal covering
+  literal_form: embroidered cloth for the ornamental covering of a lamb or a goose
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Restraint during parental illness
+  summary: A capped young man changes ordinary conduct, amusements, eating, drinking,
+    laughter, and anger while his father or mother is ill, then resumes former habits
+    after the illness ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seating for sorrow and mourning
+  summary: A sad and anxious person sits with a mat spread apart from others, and
+    a mourner sits on a single mat.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Formal presentations to a superior
+  summary: The passage lists rules for presenting fish, tortoises, birds, vehicles,
+    mail, a staff, a captive, grain, cooked food, land records, and other items, often
+    specifying an accompanying object or gesture.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:4
+  label: Handling and receiving formal gifts
+  summary: The passage prescribes orientations and hand positions for giving bows,
+    swords, spears, stools, staves, animals, birds, pearls, jade, and covered offerings.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Filial self-restraint during parental illness
+  taxonomy_refs: []
+  basis: The young man alters grooming, speech, music, eating, drinking, laughter,
+    and anger because a parent is ill.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a ritual-ethical conduct pattern, not a narrative mythic episode.
+- id: motif:2
+  label: Solitary or reduced posture in mourning
+  taxonomy_refs: []
+  basis: Sadness and mourning are marked by distinct seating arrangements involving
+    separation or a single mat.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states etiquette rules and does not develop an afterlife or
+    death-rebirth narrative.
+- id: motif:3
+  label: Ritualized gift presentation and reception
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage gives detailed rules for presentations from inferiors to superiors,
+    including required objects, gestures, hand positions, and orientations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: 'The taxonomy link is broad: the passage concerns formal ritual etiquette,
+    and it does not explicitly frame the exchange as mythic or divine.'
+- id: motif:4
+  label: Token object representing a larger transfer
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Some presentations involve carrying a smaller associated item or document,
+    such as a whip and strap for carriage and horses or writings for fields and tenements.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives practical ritual procedure; symbolic representation
+    is explicit or implied only within the transfer rules.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3690-3706
+  quote_or_summary: When a capped young man's father or mother is ill, he should avoid
+    combing, idle talk, music, varied meats and drink until altered in taste or appearance,
+    tooth-showing laughter, and reviling anger; he may resume former habits when the
+    illness is gone.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 3707-3748
+  quote_or_summary: A sad and anxious person should sit with his mat spread apart
+    from others; a mourner should sit on a single mat. A note glosses grief as solitary
+    and the mourner as afflicting himself.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 3749-3766
+  quote_or_summary: After heavy rains, fish or tortoises should not be presented.
+    A bird's head is turned aside unless tame. Presenting carriage and horses involves
+    carrying whip and mounting strap; mail involves helmet; a staff is held by its
+    end; a captive is held by the right sleeve.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 3766-3774
+  quote_or_summary: Unhulled grain is presented with the left side of the account,
+    hulled grain with a measure-drum, cooked food with sauce and pickles, and fields
+    and tenements with their writings handed over.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 3774-3797
+  quote_or_summary: In giving a bow, its string or horn is oriented according to whether
+    it is bent, the giver uses specified right and left hand positions, the parties
+    bow, and the host receives it from the visitor in a prescribed stance.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 3797-3811
+  quote_or_summary: A sword is given with the hilt on the giver's left; spears are
+    oriented by shaft, metal end, and sharp edge; a stool or staff is wiped; horse
+    or sheep are led with the right hand, dog with the left; birds, lambs, geese,
+    pearl, jade, bow, and sword have prescribed handling or coverings.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+- id: ev:7
+  type: summary
+  locator: chapter overview within lines 3690-3811
+  quote_or_summary: The chapter overview states that paragraphs 3-26 concern rules
+    in giving and receiving and messages connected with them, and that the presentations
+    mentioned are from inferiors to superiors.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Rights status not supplied in metadata; source path indicates public-domain
+    Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is prescriptive ritual etiquette rather than mythic narrative. No
+    comparison claims were added because the passage itself does not make comparative
+    links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided list and applied only where broadly supported.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l3690-l3811
+  passage_sha256=a4727c3bf5348835ff45860b9daac15b7a2e0918ef71350eb7bce2994fd9120f
+

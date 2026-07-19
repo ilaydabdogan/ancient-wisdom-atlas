@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.egyptian-book-of-the-dead-budge-gutenberg-l66-l108
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: The Book of the Dead / THE BOOK OF THE DEAD. / CHAPTER I; lines 66-108
+  start: '66'
+  end: '108'
+  translation: book-of-the-dead-budge
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that “Book of the Dead” is a modern title for a miscellaneous
+    collection of ancient Egyptian funerary texts composed for the benefit of the
+    dead. It describes their contents as spells, incantations, hymns, litanies, magical
+    formulae, names, words of power, and prayers, and notes that they were inscribed
+    or painted on tomb and pyramid walls, coffins, sarcophagi, and papyrus rolls.
+    It further explains that the modern title derives from nineteenth-century Egyptologists’
+    translations of an Arabic term used by tomb-robbers for inscribed papyrus rolls
+    found with mummies or in coffins, rather than from an ancient Egyptian title.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title “Book of the Dead” is described as the modern common title for a
+    collection of funerary texts composed by ancient Egyptian scribes for the benefit
+    of the dead.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The texts are described as including spells, incantations, hymns, litanies,
+    magical formulae, names, words of power, and prayers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The texts are said to be cut or painted on pyramid and tomb walls, painted
+    on coffins and sarcophagi, and written on rolls of papyri.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the texts do not form a connected work, do not belong
+    to one period, are miscellaneous, and do not describe the lives and works of the
+    dead with whom they were buried.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Egyptians had many funerary works that might be
+    called “Books of the Dead,” but that none bore a name translatable as “Book of
+    the Dead.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nineteenth-century Egyptologists adopted titles such as “Le Livre des Morts,”
+    “The Book of the Dead,” and “Das Todtenbuch.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Egyptian tomb-robbers are said to have used Arabic terms meaning “book of
+    the dead man” or “book of the dead” for inscribed papyrus rolls found with mummies
+    or in coffins.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ancient Egyptian scribes
+  description: Scribes who composed funerary texts for the benefit of the dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the dead / deceased persons
+  description: Dead persons for whose benefit the funerary texts were composed and
+    with whom such texts could be buried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: pioneer and French Egyptologists
+  description: Modern scholars, including Champollion le Jeune, who used translated
+    titles such as “Le Livre des Morts” and “The Book of the Dead.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Egyptian tomb-robbers
+  description: Men who used Arabic terms for inscribed papyrus rolls found with mummies
+    or in coffins, without knowing the rolls’ contents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: funerary-text composers
+  assigned_to:
+  - fig:1
+  basis: The passage says ancient Egyptian scribes composed the funerary texts for
+    the benefit of the dead.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased beneficiaries and burial-associated persons
+  assigned_to:
+  - fig:2
+  basis: The texts are described as composed for the benefit of the dead and buried
+    with dead persons or found with mummies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: modern title adopters and translators
+  assigned_to:
+  - fig:3
+  basis: The passage attributes the modern title and its European-language forms to
+    nineteenth-century Egyptologists.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: vernacular find-context namers
+  assigned_to:
+  - fig:4
+  basis: The passage says tomb-robbers called inscribed papyrus rolls found with mummies
+    a dead man’s book or book of the dead.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: funerary text collection
+  literal_form: A collection of spells, incantations, hymns, litanies, magical formulae,
+    names, words of power, and prayers composed for the dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: inscribed papyrus roll
+  literal_form: Rolls of papyrus inscribed in hieroglyphic or hieratic characters
+    and found with mummies or in coffins.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: burial structures and containers
+  literal_form: Walls of pyramids and tombs, coffins, and sarcophagi bearing funerary
+    texts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: words of power and names
+  literal_form: Verbal formulae, names, and words of power included among the funerary
+    texts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Composition and burial placement of funerary texts
+  summary: Ancient Egyptian scribes compose funerary texts for the dead; the texts
+    include ritual and magical verbal materials and are placed or inscribed in burial
+    contexts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Modern naming of papyrus rolls found with mummies
+  summary: Modern Egyptologists adopt European titles for the corpus, while the passage
+    explains that these titles translate Arabic terms used by tomb-robbers for inscribed
+    papyrus rolls found with mummies or in coffins.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Description of the corpus as miscellaneous funerary literature
+  summary: The passage characterizes the texts as a miscellaneous funerary corpus
+    rather than a single connected work or an anciently titled book.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: funerary texts for the benefit of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that the texts were composed for the benefit of the dead
+    and consisted of ritual verbal materials preserved in burial contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not itself narrate an afterlife journey, judgment, or
+    map; the taxonomy link is only a cautious fit to funerary textual aid for the
+    dead.
+- id: motif:2
+  label: magical and ritual words as aid to the deceased
+  taxonomy_refs: []
+  basis: The contents are listed as spells, incantations, magical formulae, names,
+    words of power, and prayers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage lists the verbal materials but does not describe their ritual
+    effects in detail.
+- id: motif:3
+  label: burial text accompanying the dead
+  taxonomy_refs: []
+  basis: The passage describes funerary texts on coffins, sarcophagi, tomb and pyramid
+    walls, papyrus rolls, and rolls found with mummies or in coffins.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is presented as a material funerary practice rather than as a narrated
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a same-function comparison between the so-called “Book
+    of the Dead” and other Egyptian funerary works, since it says many Egyptian funerary
+    works might rightly be called “Books of the Dead.”
+  claim_level: same_function
+  target: other Egyptian funerary works mentioned in the passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name or summarize those other funerary works,
+    so the comparison is limited to general funerary function.
+- id: claim:2
+  claim: The passage supports a linguistic-similarity claim that European titles such
+    as “Le Livre des Morts,” “The Book of the Dead,” and “Das Todtenbuch” are translations
+    of Arabic terms used for papyrus rolls found with the dead.
+  claim_level: linguistic_similarity
+  target: European titles for the corpus and the Arabic terms “Kitb-al-Mayyit” / “Kitb
+    al-Mayyitun”
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This concerns naming history, not evidence of an ancient Egyptian title
+    or shared mythic content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-108
+  quote_or_summary: The title “Book of the Dead” is applied to a collection of funerary
+    texts composed by ancient Egyptian scribes for the benefit of the dead.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Rights status not supplied in source_metadata; source path is under
+    texts/public-domain.
+- id: ev:2
+  type: summary
+  locator: lines 66-108
+  quote_or_summary: The texts consist of spells, incantations, hymns, litanies, magical
+    formulae, names, words of power, and prayers, and are found on pyramid and tomb
+    walls, coffins, sarcophagi, and papyrus rolls.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Rights status not supplied in source_metadata; source path is under
+    texts/public-domain.
+- id: ev:3
+  type: summary
+  locator: lines 66-108
+  quote_or_summary: The passage says the texts are miscellaneous, not a connected
+    work or a single-period work, and that no ancient Egyptian title translates as
+    “Book of the Dead.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Rights status not supplied in source_metadata; source path is under
+    texts/public-domain.
+- id: ev:4
+  type: summary
+  locator: lines 66-108
+  quote_or_summary: The modern title was given by nineteenth-century Egyptologists,
+    who used forms including “Le Livre des Morts,” “The Book of the Dead,” and “Das
+    Todtenbuch.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Rights status not supplied in source_metadata; source path is under
+    texts/public-domain.
+- id: ev:5
+  type: summary
+  locator: lines 66-108
+  quote_or_summary: Egyptian tomb-robbers used “Kitb-al-Mayyit” or “Kitb al-Mayyitun”
+    for any inscribed papyrus roll found with mummies or in coffins, meaning a dead
+    man’s book or book of the dead.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Rights status not supplied in source_metadata; source path is under
+    texts/public-domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and historically oriented rather than a mythic
+    narrative. Literal extraction is clear, but motif tagging is cautious because
+    afterlife events, deities, journeys, and ritual outcomes are not described in
+    this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs were assigned because the passage does not mention the supplied symbols cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:egyptian-book-of-the-dead-budge-gutenberg__l66-l108
+  passage_sha256=88183d174fa98787d4044767c915b3bac1d2400d94867f1f831f5fd30141598b
+

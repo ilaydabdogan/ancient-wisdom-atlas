@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l4920-l5081
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: XULLAVAGGA. / OX THE DAILY LIFE OF THE BHIKKHLS / JTULL AV AGGA. / V, 14,
+    , 4 -; lines 4920-5081
+  start: '4920'
+  end: '5081'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya passage lists practical problems in the bath-room, antechamber,
+    and cell, followed by allowances for scenting clay, pouring and managing water,
+    roofing, flooring, drainage, stools, and enclosure. It then reports bhikkhus performing
+    salutations, services, exchanges, and eating or drinking while naked; the Blessed
+    One prohibits these acts while naked and assigns a dukkaṭa penalty. The passage
+    ends by noting that robes placed on the bath-room ground became dirty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Clay used in the setting had a bad smell, and scenting it was allowed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fire in the bath-room scorched the bhikkhus' bodies, and water being poured
+    over them was allowed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Water had been poured from dishes and almsbowls, after which a water stand
+    and saucers for pouring were allowed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A thatched bath-room roof did not produce perspiration, and covering the roof
+    with skins and plastering it inside and outside was allowed.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bath-room became swampy and water settled on the floor; flooring, washing
+    the floor, and a drain were allowed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Bhikkhus sitting on the bath-room ground had pins and needles in their limbs,
+    and stools for the bath-room were allowed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The bath-room lacked an enclosure, and brick walls, stone walls, and wooden
+    fences were allowed.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: An antechamber was absent; an antechamber was allowed, and a low basement
+    is described as being inundated with water.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The cell became swampy; gravel, stone flags, and a drain were allowed as remedies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: When naked, bhikkhus saluted and received salutes, did and received services,
+    gave and accepted items, ate hard and soft food, tasted, and drank.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The matter of naked conduct was reported to the Blessed One, who prohibited
+    those acts while naked and assigned a dukkaṭa offense.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:12
+  text: Bhikkhus put robes on the bath-room ground, and the robes became dirty.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monastic persons addressed by the allowances and described as using
+    the bath-room, acting while naked, and placing robes on the ground.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: The Blessed One
+  description: Named recipient of the report about naked conduct and speaker of the
+    prohibitive rule in that section.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Monastic addressees and bath-room users
+  assigned_to:
+  - fig:1
+  basis: The bhikkhus are addressed in repeated allowance formulas and are described
+    in bath-room and cell contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Actors subject to nakedness restriction
+  assigned_to:
+  - fig:1
+  basis: The bhikkhus perform salutation, service, exchange, eating, tasting, and
+    drinking while naked, and those acts are then forbidden.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Named disciplinary authority
+  assigned_to:
+  - fig:2
+  basis: The matter is told to the Blessed One, who states what a naked man is not
+    to do and specifies the offense.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire in the bath-room that scorched bodies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water
+  literal_form: Water poured over bhikkhus, poured from vessels, held on a stand,
+    settling on floors, and carried away by drains.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Bath-room
+  literal_form: A regulated bath-room with roof, floor, drain, stools, and enclosure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: Robes
+  literal_form: Robes placed on the bath-room ground and becoming dirty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Nakedness
+  literal_form: The state of being naked while performing salutations, services, exchange,
+    eating, tasting, and drinking.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Initial bath-room discomforts and implements
+  summary: Bad-smelling clay, scorching fire, and unsuitable water-pouring vessels
+    are addressed by allowances for scenting, pouring water, and using a water stand
+    with saucers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bath-room construction and drainage remedies
+  summary: Problems with perspiration, swampiness, settled water, sitting on the ground,
+    and lack of enclosure are addressed through roof covering, plastering, flooring,
+    washing, drainage, stools, and walls or fences.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Antechamber and cell water control
+  summary: An antechamber is allowed where absent, and a swampy cell is addressed
+    with gravel, stone flagging, and drainage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Naked conduct prohibited
+  summary: Bhikkhus are reported for communal and bodily acts while naked; the Blessed
+    One prohibits the acts while naked and assigns a dukkaṭa offense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Dirty robes in the bath-room
+  summary: Bhikkhus place robes on the bath-room ground, and the robes become dirty.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Practical problem followed by allowance
+  taxonomy_refs: []
+  basis: The passage repeatedly states a physical or architectural problem and then
+    gives an allowance formula permitting a remedy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a Vinaya regulatory pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: Regulated nakedness in communal practice
+  taxonomy_refs: []
+  basis: A series of social, service, exchange, and consumption acts performed while
+    naked is reported and then prohibited with a specified offense.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage states a disciplinary rule; no broader symbolic meaning of
+    nakedness is given.
+- id: motif:3
+  label: Bathing space governed by fire and water management
+  taxonomy_refs: []
+  basis: The bath-room is organized through control of fire heat, poured water, vessels,
+    floors, and drains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: Fire and water are literal elements here; any symbolic polarity is not
+    stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The embedded notes support only a lexical or functional comparison between
+    this passage's water-management and antechamber terms and cited Buddhist corpus
+    passages; they do not establish a shared mythic motif.
+  claim_level: linguistic_similarity
+  target: Cited Mahavagga, Gataka/Jataka, Dhammapada, and later Xullavagga parallels
+    in the translator notes
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Based solely on translator/editorial notes included in the supplied
+    passage; no independent narrative parallel or historical claim is established.
+evidence:
+- id: ev:1
+  type: summary
+  locator: V, 14, 4; lines 4920-4940
+  quote_or_summary: The passage states that clay smelled bad, fire in the bath-room
+    scorched bodies, and water had been poured from dishes and almsbowls; allowances
+    follow for scenting clay, pouring water over the bhikkhus, and using a water stand
+    with saucers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:2
+  type: summary
+  locator: V, 14, 4-5; lines 4941-4995
+  quote_or_summary: 'The bath-room roof, floor, drainage, seating, and enclosure are
+    addressed: roof covering and plastering, brick/stone/wood flooring, washing the
+    floor, drains, stools, and brick, stone, or wooden enclosures are allowed.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:3
+  type: summary
+  locator: V, 14, 4; lines 4996-5020
+  quote_or_summary: Where there was no antechamber, an antechamber is allowed; a low
+    basement is then described as inundated with water, with omitted material referred
+    back to an earlier section.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:4
+  type: summary
+  locator: V, 14, 5; lines 5021-5044
+  quote_or_summary: The cell becomes swampy; gravel is allowed, then stone flagging
+    when gravel is unavailable, and a drain is allowed when water settles on the floor.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:5
+  type: summary
+  locator: V, 15, 1; lines 5045-5060
+  quote_or_summary: Bhikkhus, when naked, salute and receive salutes, do and receive
+    services, give and accept, eat hard and soft food, taste, and drink; this matter
+    is told to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:6
+  type: summary
+  locator: V, 15, 1; lines 5061-5070
+  quote_or_summary: The Blessed One states that a man, when naked, is not to give
+    or receive salutations, do or accept services, give or receive, eat, taste, or
+    drink; doing so is a dukkaṭa offense.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:7
+  type: summary
+  locator: V, 16, 1; lines 5078-5081
+  quote_or_summary: Bhikkhus in the bath-room put robes on the ground, and the robes
+    became dirty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+- id: ev:8
+  type: note
+  locator: Translator notes to V, 14-15; lines 4953-5077
+  quote_or_summary: The notes compare terms and usages with Mahavagga, Gataka/Jataka,
+    Dhammapada, and later Xullavagga passages, including water-drain terminology,
+    antechamber terminology, and services to a bhikkhu in the bath.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied; source path indicates public-domain
+    Project Gutenberg material.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the regulatory and architectural content.
+    Motif candidates are framed as practical/legal patterns, not mythic interpretations.
+    The comparison claim is limited to embedded translator notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic narrative episode is present; extracted patterns concern Vinaya regulation of bathing, water management, and nakedness.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l4920-l5081
+  passage_sha256=9f071c154db3275cc109a60733bd70e37a68442d09ab399ac605bd2779dea9d0
+

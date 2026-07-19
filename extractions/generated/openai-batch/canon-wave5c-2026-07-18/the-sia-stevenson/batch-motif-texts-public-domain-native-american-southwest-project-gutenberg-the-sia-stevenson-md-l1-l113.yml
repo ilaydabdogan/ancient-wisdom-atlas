@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l1-l113
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: INTRODUCTION.; lines 1-113
+  start: '1'
+  end: '113'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“journeying from the north to the center of the earth”"
+  summary: The introduction describes the present Sia pueblo as a small remnant amid
+    extensive ruins, summarizes historical warfare, pestilence, Spanish subjection,
+    and continued adherence to aboriginal religion, and briefly notes Sia cosmogony
+    and legends concerning earlier homes, mountain-top villages, and a journey from
+    the north to the center of the earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The present Sia community is described as a small group of houses and a handful
+    of people amid extensive ruins.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Sia cosmogony and myths identify the present site as a home
+    before the people resorted to the mesa.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Sia legends refer to numerous villages on mountain tops during
+    a journey from the north to the center of the earth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Sia are said to have fled to a mesa and built a village to avoid replacement
+    of their ancestral religion with Roman Catholic faith.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited report of Vargas describes a pueblo on the mesa of Cerro Colorado,
+    a steep rocky approach, a buried convent bell, a new village near ruins, and people
+    meeting Spaniards with crosses and chiefs at their heads.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After an outward show of submitting to the new faith, the Sia are said not
+    to have wavered in devotion to their aboriginal religion.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mesa ruins northwest of the present village are described as rectangular stone
+    structures covering many acres; the Indians identify them as farming districts
+    of Pó-shai-yan-ne rather than the village itself.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Sia returned to their old home because of distance from water and fields.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The village is situated on an elevation near the Jemez River, whose waters
+    are made salty by the Rio Salado and may become undrinkable in summer.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Sia people
+  description: The pueblo community described as a small surviving remnant, bearers
+    of cosmogony, myths, legends, and ancestral religion.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Spanish adversary / Vargas and troops
+  description: The passage describes an adversary associated with taking possession
+    of villages, imposing Roman Catholic faith, and the Vargas visit to the mesa pueblo.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pó-shai-yan-ne
+  description: Named parenthetically as a “quasi messiah” and associated by the Indians
+    with the great farming districts on the mesa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Chiefs of the Sia
+  description: In the Vargas report, chiefs march at the heads of the people who come
+    to meet the Spaniards carrying crosses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tradition-bearing community
+  assigned_to:
+  - fig:1
+  basis: The passage attributes cosmogony, myths, legends, and devotion to aboriginal
+    religion to the Sia.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: journeying community
+  assigned_to:
+  - fig:1
+  basis: Their legends refer to mountain-top villages in a journey from the north
+    to the center of the earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: displaced and returning community
+  assigned_to:
+  - fig:1
+  basis: The passage says the Sia fled to the mesa, were later induced by distance
+    from water and fields to return to the old home, and suffered wars, pestilence,
+    and oppression.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: colonial-subjugating force
+  assigned_to:
+  - fig:2
+  basis: The adversary is described as taking possession of villages and seeking to
+    replace ancestral religion, while the Vargas report describes ceremonies of possession,
+    baptism, and absolution.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: named religious or culture-associated figure
+  assigned_to:
+  - fig:3
+  basis: The passage names Pó-shai-yan-ne as a quasi messiah and says the mesa stone
+    divisions were farming districts associated with him.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: leaders in formal reception
+  assigned_to:
+  - fig:4
+  basis: The chiefs are described as marching at the heads of the people during the
+    reception of Vargas and his troops.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain-top villages
+  literal_form: numerous villages on mountain tops
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: center of the earth
+  literal_form: the center of the earth as the stated destination or orientation point
+    of the legendary journey
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mesa refuge
+  literal_form: mesa village built after flight from the adversary
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: crosses
+  literal_form: crosses carried in the hands and erected with arches in the plaza
+    reception scene
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: convent bell
+  literal_form: bell of the convent ordered to be buried
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: river water made salty
+  literal_form: Jemez River water impregnated with salt by the Rio Salado
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: mesa farming districts
+  literal_form: stone-walled fields said to be the farming districts of Pó-shai-yan-ne
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sia remnant amid ruins
+  summary: The passage opens by describing the present Sia as a small surviving community
+    living among extensive ruins.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Legendary journey to the earth center
+  summary: Sia cosmogony and legends are summarized as placing the present site among
+    earlier homes and recalling mountain-top villages during a journey from the north
+    to the center of the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flight to mesa under religious threat
+  summary: The Sia flee to the mesa and build a village to avoid an adversary who
+    is described as seeking to replace ancestral religion with Roman Catholic faith.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vargas reception and possession rites
+  summary: The cited report describes the destroyed mesa pueblo, the new village near
+    ruins, the Sia meeting the Spaniards with crosses, and ceremonies of possession,
+    baptism, and absolution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return to old home and difficult water
+  summary: The passage says distance from water and fields induced the Sia to return
+    to the old home, where the Jemez River water is affected by salt from the Rio
+    Salado.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: scene:6
+  label: Mesa ruins and Pó-shai-yan-ne fields
+  summary: Mesa ruins are described, and the Indians identify the stone-walled areas
+    as farming districts of Pó-shai-yan-ne.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey from the north to the center of the earth
+  taxonomy_refs:
+  - departure
+  - world_center
+  basis: The passage explicitly reports Sia legends of mountain-top villages during
+    a journey from the north to the center of the earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is only a brief ethnographic summary of legends, not a narrated myth
+    episode.
+- id: motif:2
+  label: mountain or mesa refuge under threat
+  taxonomy_refs:
+  - ascent
+  - departure
+  basis: The passage says the Sia fled to a mesa and built a village to avoid an adversary
+    seeking to replace their ancestral religion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The scene is presented as historical/ethnographic rather than as a mythic
+    narrative.
+- id: motif:3
+  label: outward conversion with hidden continuity of ancestral religion
+  taxonomy_refs: []
+  basis: The passage says the Sia made an outward show of submitting to the new faith
+    but did not waver in devotion to their aboriginal religion.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches this pattern; it should be
+    reviewed as a historical-religious pattern rather than a mythic motif.
+- id: motif:4
+  label: named quasi-messianic figure associated with cultivated fields
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage names Pó-shai-yan-ne as a quasi messiah and says the mesa stone
+    divisions were his farming districts.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage provides no narrative actions for Pó-shai-yan-ne and does
+    not establish a culture-hero episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: INTRODUCTION; approximately lines 6-12
+  quote_or_summary: The present Sia are described as a small group of houses and people
+    amid extensive ruins, compared with imagined ancient cave and cliff dweller villages.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: INTRODUCTION; approximately lines 14-17
+  quote_or_summary: The passage states that Sia cosmogony and myths point to the present
+    site as a home before the mesa, and that legends refer to mountain-top villages
+    in a journey from the north to the center of the earth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized with only minimal
+    exact phrasing in canonical excerpt.
+- id: ev:3
+  type: summary
+  locator: INTRODUCTION; approximately lines 19-28
+  quote_or_summary: The passage describes warfare and a common adversary who took
+    possession of villages and sought to replace ancestral religion with Roman Catholic
+    faith; to avoid this, the Sia fled to the mesa and built a village, but the mesa
+    village came under subjection.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: INTRODUCTION; Vargas excerpt, approximately lines 30-52
+  quote_or_summary: The cited Vargas report says the pueblo on Cerro Colorado had
+    been destroyed, was approached by a steep rocky road, contained a convent bell
+    ordered buried, and was near a new village whose inhabitants met the Spaniards
+    with crosses and chiefs, then underwent possession, baptism, and absolution ceremonies.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: INTRODUCTION; immediately after Vargas excerpt, approximately lines 54-57
+  quote_or_summary: The passage states that the Sia were again under Spanish thraldom,
+    but despite outward submission to the new faith they did not waver in devotion
+    to aboriginal religion.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: INTRODUCTION; approximately lines 59-65
+  quote_or_summary: The passage describes large mesa ruins with rectangular stone
+    structures and says the Indians identify them as the great farming districts of
+    Pó-shai-yan-ne, while placing their village eastward of the present one.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: INTRODUCTION; approximately lines 67-78
+  quote_or_summary: The passage says distance from water and fields induced the Sia
+    to return to the old home, and that wars, pestilence, oppression, murders, and
+    epidemics reduced their numbers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:8
+  type: summary
+  locator: INTRODUCTION; approximately lines 88-95
+  quote_or_summary: The passage says the Sia resemble other pueblo Indians in physical
+    structure, complexion, and customs, while philological investigation distinguishes
+    pueblo languages into four stocks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+- id: ev:9
+  type: summary
+  locator: INTRODUCTION; approximately lines 97-104
+  quote_or_summary: The passage locates Sia on an elevation near the Jemez River and
+    says the Rio Salado makes the waters salty and sometimes undrinkable in summer.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in metadata; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an introductory historical and ethnographic section with only
+    brief references to cosmogony and legend; motif candidates should be reviewed
+    against fuller Sia myth passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative mythology claim beyond general references to pueblo resemblance and language classification.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l1-l113
+  passage_sha256=bab4a327f9d1258cc5f33091dcdc74c2a88328ec2301a04f501695b86d19d5f0
+

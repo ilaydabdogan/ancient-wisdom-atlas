@@ -1,0 +1,360 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave5c-2026-07-18
+created_at: '2026-07-18T20:47:51Z'
+updated_at: '2026-07-19T00:26:13Z'
+artifacts:
+  passages_path: data/batches/canon-wave5c-2026-07-18/passages.jsonl
+  requests_index_path: data/batches/canon-wave5c-2026-07-18/requests/index.yml
+  request_map_path: data/batches/canon-wave5c-2026-07-18/request-map.jsonl
+  results_dir: data/batches/canon-wave5c-2026-07-18/results
+  ingested_results_path: data/batches/canon-wave5c-2026-07-18/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave5c-2026-07-18
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-19T00:25:53Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-19T00:26:13Z'
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+    - texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+    - texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+    - texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+    - texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+    - texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+    - texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+    - texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+    - texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md
+    - texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+    - texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+    - texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+    - texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+    - texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+    - texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md
+    - texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+    - texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+    - texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave5c-2026-07-18
+counts:
+  source_texts_segmented: 31
+  passages: 5636
+  requests_prepared: 5636
+  request_shards: 6
+  skipped_ingested_requests: 0
+  ingested_records: 5619
+  failed_ingestions: 10
+source_texts:
+- path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  source_text_id: texts-public-domain-andamanese-project-gutenberg-aboriginal-inhabitants-andaman-man-md
+  title: aboriginal-inhabitants-andaman-man
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 415c2d903246677f8de09c080c1389ee0feb9f34dbdac0c3690013f88ed791e1
+  passage_count: 107
+- path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  source_text_id: texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md
+  title: across-arctic-america-rasmussen
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 3e9048afb86317536c98f379d26ccd124f23103de8903553112cfc85706c6322
+  passage_count: 83
+- path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  source_text_id: texts-public-domain-arctic-inuit-project-gutenberg-eskimo-baffin-hudson-boas-part1-md
+  title: eskimo-baffin-hudson-boas-part1
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: c73cbdfe9e39904791028df6c9932ad52f8f1798cb85903b1990c18b58f9fe2a
+  passage_count: 112
+- path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  source_text_id: texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md
+  title: people-of-polar-north-rasmussen
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 2fa15d200f705d423b9ca87fab8d80857e7801e6e726c5927e26c60be9e29d5c
+  passage_count: 185
+- path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  source_text_id: texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md
+  title: questions-of-king-milinda-part1
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 7136fb630ba751dc7faec214b5c7ef495fb894026a89547f23e2c2704512e90f
+  passage_count: 115
+- path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+  source_text_id: texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part2-md
+  title: questions-of-king-milinda-part2
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 6a8ff0c22976df9a3d600bc139eba06bc05bbea86129c8bed23b77699c5b51a0
+  passage_count: 118
+- path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  source_text_id: texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md
+  title: vinaya-texts-part1
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 4e7e24d9273021c1f4aa2964a312360a4d7e4f379ef9458ce9c1797ca08f20ad
+  passage_count: 133
+- path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  source_text_id: texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md
+  title: vinaya-texts-part2
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 902ce0666f405173aee27129d263d9c51a4be188d042cb179f13b4612810ab8b
+  passage_count: 122
+- path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  source_text_id: texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md
+  title: vinaya-texts-part3
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 59b19c301bc4e6ee3b814f0e6709f0f251e1d74c1ab4ea33dfbb44c2c63b0a16
+  passage_count: 242
+- path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  source_text_id: texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md
+  title: unknown-people-unknown-land-grubb
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: ae58dc2fa29b1acfdf06528d5fa124e4e67e23d11e9f36008a7ee695277de486
+  passage_count: 236
+- path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  source_text_id: texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md
+  title: li-ki-part1-legge
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: eea109a5abcc2c9941763ae8d7109e5bfa803ed1ce11d0077aead95933e962e3
+  passage_count: 178
+- path: texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md
+  source_text_id: texts-public-domain-confucian-project-gutenberg-li-ki-part2-legge-md
+  title: li-ki-part2-legge
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: f6bc0afe63edd766ce23177c0129d77defa68942a00fdadc47922ea56ece19b9
+  passage_count: 137
+- path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  source_text_id: texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md
+  title: shu-king-shih-king-legge
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 5e29cbffaaf22eb2b54258d2a8155e82de65114ac67d104914ef57b380014240
+  passage_count: 210
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  source_text_id: texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md
+  title: among-indians-guiana-im-thurn
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 11857d33f0c03a40dedfd3695c0bd37213d7bed8cd6f0bd610e5dbad76126b14
+  passage_count: 176
+- path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  source_text_id: texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md
+  title: madagascar-before-conquest-sibree
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: '0242820da954efd69f3b6df5f2812be8572a2c4ce1e21d6b7be4e972380d3c50'
+  passage_count: 174
+- path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  source_text_id: texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md
+  title: melanesians-british-new-guinea-seligman
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 256b73ab4e1bac41c30164f51ab3dc85038b78ab2c9bce41930a97e5f38ceed4
+  passage_count: 424
+- path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  source_text_id: texts-public-domain-micronesian-project-gutenberg-caroline-islands-christian-md
+  title: caroline-islands-christian
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 357edbc83b6cad74c1626ed60ae0b2f4226b30b1f438a07365944473fd235021
+  passage_count: 132
+- path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  source_text_id: texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md
+  title: island-of-stone-money-furness
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: d8893857cba78c6ff84ac53c0c351772352083de5a187ecac7ea2ba4998e2b97
+  passage_count: 89
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  source_text_id: texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md
+  title: chippewa-music-1-densmore
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: e171705fc78bb50e17e423a4e5e85023be804ca91fa22ee8d681b9c1c8757d38
+  passage_count: 199
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  source_text_id: texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md
+  title: chippewa-music-2-densmore
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 3ca357c960abb3b914ef6cbecf01a12a4d3e9d3c669641a8e05e9cdefc16d43e
+  passage_count: 189
+- path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  source_text_id: texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md
+  title: seneca-fiction-legends-myths-curtin-hewitt
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 29e385cb6300e49e11a4c64c943128cbc90a1538ab818ac5ce35b24450cb23f1
+  passage_count: 386
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md
+  source_text_id: texts-public-domain-native-american-northwest-coast-project-gutenberg-tsimshian-mythology-boas-tate-md
+  title: tsimshian-mythology-boas-tate
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 1172f589941509ac28a78e9a24f29c7d2244ee2d6dc7797b8da0f9f465e1d92a
+  passage_count: 168
+- path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  source_text_id: texts-public-domain-native-american-plains-project-gutenberg-myths-traditions-crow-lowie-md
+  title: myths-traditions-crow-lowie
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 1b898adc01415651bd76f72317168d6a950e2c1165035eaa29fffeb6ca1c88a0
+  passage_count: 155
+- path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  source_text_id: texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md
+  title: teton-sioux-music-densmore
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 70ddb17903c2beb2e3e872ceda9bf2d47b3dc06782c9243141d3fe4326a8e4c5
+  passage_count: 346
+- path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-jicarilla-apache-texts-goddard-md
+  title: jicarilla-apache-texts-goddard
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 16e9a8ec6df9251359112bf3f5675b73c84dbe0d78eb8c6bca0c723c1aee08ec
+  passage_count: 43
+- path: texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-myths-tales-san-carlos-apache-goddard-md
+  title: myths-tales-san-carlos-apache-goddard
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 3233cb9139ed24b296a55988fec1128e926f4fad10382c0a6cb176b987b249d9
+  passage_count: 46
+- path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md
+  title: pima-indians-russell
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 545087b8e22a0a92b4d7f16ac947e7aa7f646be42fd3f3d5b9fbe49715b95492
+  passage_count: 169
+- path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md
+  title: the-sia-stevenson
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 468142d4d1eaf056ea91768c617b3647849bfe852c1bd140a7f3da4e4994cf10
+  passage_count: 415
+- path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-tusayan-migration-traditions-fewkes-md
+  title: tusayan-migration-traditions-fewkes
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 0f72222f23e32cd59f7421b7e7610a16b8106120b99d5426ba6830084693eb4e
+  passage_count: 39
+- path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  source_text_id: texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md
+  title: zuni-indians-stevenson
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: c461377238013f22bbf4cf7b9879b86cb1fe8f2ec83211ffb93fb2dc796f43c9
+  passage_count: 385
+- path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  source_text_id: texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md
+  title: shans-at-home-milne
+  tradition:
+  culture:
+  text_language:
+  rights: {}
+  sha256: 455fde4fa74d1033b37faf4a57d6653493f252f55d3c30c5d02c9327c8cc4ebe
+  passage_count: 123
+

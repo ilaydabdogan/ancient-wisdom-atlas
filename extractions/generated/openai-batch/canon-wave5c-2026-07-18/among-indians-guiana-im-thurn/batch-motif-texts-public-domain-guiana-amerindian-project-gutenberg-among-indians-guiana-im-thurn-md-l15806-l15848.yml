@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l15806-l15848
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: FOLK-LORE. / CHAPTER XIX. / INDIAN ANTIQUITIES. / PICTURED ROCKS.; lines
+    15806-15848
+  start: '15806'
+  end: '15848'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: these engravings had some meaning no longer apparent
+  summary: The passage argues that rock-engravings were not made merely from idleness
+    and may have had meanings now obscure. It compares recurring simple forms in rock-drawings
+    and gives Schoolcraft’s example of Lake Superior picture-writing, where canoes,
+    people, animals, and circular signs encode an expedition narrative.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author argues that extensive rock-engravings were unlikely to have been
+    made only to occupy idle time.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that the engravings had some meaning that is no longer apparent.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says figures such as men, animals, circles, and waving lines are
+    similar across rock-drawings of the world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Schoolcraft’s cited picture-writing includes five canoes containing fifty-one
+    men, a kingfisher, a man on horseback, a land-tortoise, and a figure of three
+    concentric semicircles arched over three small circles.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The picture-writing is explained as a record of an expedition of fifty-one
+    men in five canoes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The expedition is explained as led by a chief on horseback with an ally named
+    Kingfisher.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The land-tortoise is explained as signifying land.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The arched semicircles over three small circles are explained as a sign of
+    the heavens over three suns, indicating three days.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: fifty-one men in five canoes
+  description: A group represented in five canoes, containing fifty-one men in all.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: man on horseback / chief
+  description: A man on horseback, interpreted in the passage as the chief leading
+    the expedition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Kingfisher
+  description: A kingfisher figure, interpreted in the passage as an ally named Kingfisher.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: land-tortoise
+  description: A land-tortoise figure, interpreted in the passage as signifying land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: expedition party
+  assigned_to:
+  - fig:1
+  basis: The drawing is explained as recording an expedition of fifty-one men in five
+    canoes.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: expedition leader
+  assigned_to:
+  - fig:2
+  basis: The man on horseback is explained as a chief who led the expedition.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ally
+  assigned_to:
+  - fig:3
+  basis: The kingfisher is explained as representing an ally named Kingfisher.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sign of land
+  assigned_to:
+  - fig:4
+  basis: The land-tortoise is explicitly explained as signifying land.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rock-engravings
+  literal_form: Engraved drawings on rocks.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: five canoes
+  literal_form: Five canoes containing fifty-one men.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: kingfisher sign
+  literal_form: A kingfisher represented in the picture-writing.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: land-tortoise sign
+  literal_form: A land-tortoise represented in the picture-writing.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: heavens over three suns
+  literal_form: Three concentric semicircles arched over three small circles.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: circles and waving lines
+  literal_form: Simple circular and waving-line figures in rock-drawings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Argument about the purpose of rock-engravings
+  summary: The author rejects the idea that extensive rock-engravings were made merely
+    from idleness and says there is evidence that they had meanings now obscure.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of Lake Superior picture-writing
+  summary: The passage describes a rock picture-writing example with five canoes,
+    fifty-one men, a kingfisher, a horseman, a land-tortoise, and arched semicircles
+    over three small circles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interpretation of the expedition record
+  summary: The drawing is interpreted as recording an expedition of fifty-one men
+    in five canoes, led by a chief on horseback, aided by Kingfisher, and taking three
+    days before reaching land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: pictorial signs encoding a journey record
+  taxonomy_refs: []
+  basis: The Lake Superior picture-writing is said to encode an expedition by canoe,
+    leadership, alliance, landfall, and a three-day duration through pictorial signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an example of pictographic record-keeping rather than a mythic
+    narrative in the passage.
+- id: motif:2
+  label: obscure meanings in rock-engravings
+  taxonomy_refs: []
+  basis: The author states that rock-engravings had meanings no longer apparent and
+    uses the picture-writing example to show that simple-looking figures can carry
+    intended meanings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage argues for lost or hidden meaning but does not specify the
+    original meanings of the Guiana rock-engravings.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes a cautious visual comparison among rock-drawings worldwide,
+    noting recurring simple forms such as men, animals, circles, and waving lines.
+  claim_level: visual_similarity
+  target: rock-drawings of the world
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage itself says such forms may naturally occur to an untaught
+    artist; it does not claim shared origin, contact, or identical meaning.
+- id: claim:2
+  claim: The Lake Superior picture-writing is used as a functional comparison showing
+    that simple rock figures can encode a narrative or record beyond their surface
+    appearance.
+  claim_level: same_function
+  target: Schoolcraft’s Lake Superior picture-writing and other simple rock figures
+    discussed in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison supports the possibility of intended meaning, not a
+    specific shared code or historical connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15806-15828
+  quote_or_summary: The author argues that rock-engravings were not made from mere
+    idleness, says they had meanings no longer apparent, and notes similarities in
+    figures such as men, animals, circles, and waving lines across world rock-drawings.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 15829-15838
+  quote_or_summary: Schoolcraft’s example from a rock near Lake Superior is described
+    as showing five canoes with fifty-one men, a kingfisher, a man on horseback, a
+    land-tortoise, and three concentric semicircles arched over three small circles.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 15838-15846
+  quote_or_summary: The drawing is explained as recording an expedition of fifty-one
+    men in five canoes, led by a chief on horseback, with an ally named Kingfisher;
+    the land-tortoise signifies land, and the arched heavens over three suns signify
+    three days before reaching land.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates public-domain; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is discursive and antiquarian rather than a myth narrative. The
+    Lake Superior pictographic example is explicit, but the Guiana rock-engraving
+    meanings remain unspecified in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available motif families do not directly match pictographic record-keeping or rock-engraving interpretation. The available symbol taxonomy was not used because the passage’s main signs are canoes, birds, tortoise, circles, and heavenly/sun marks rather than the listed symbol terms.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l15806-l15848
+  passage_sha256=7c4579e54912471ab8eca802aacd2b87f41541a16454a59f36a35c1c28147e35
+

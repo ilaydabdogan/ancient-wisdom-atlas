@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l9590-l9632
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE FISHERMAN AND HIS WIFE / THE HARE AND THE SNAIL / THE MONKEY AND THE
+    CROCODILE / THE KING OF THE DOVES; lines 9590-9632
+  start: '9590'
+  end: '9632'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A wise and good king of the doves warns his flock against leaving the jungle
+    for abundant paddy lands. They ignore him and are caught in a net. The king instructs
+    them to act together and lift the net by flying at the same time. Still trapped
+    under the net after reaching the jungle, the king calls a mouse friend, who summons
+    other mice to gnaw the net apart and free the doves.
+  language: ''
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The doves live far from men in the heart of the jungle and have a king described
+    as wise and good.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One dove reports paddy lands in the valley with abundant food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dove-king warns the doves that the valley may contain dangers, but they
+    do not listen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dove-king follows the heedless doves because he regards them as his children
+    and hopes to save them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The doves are caught in the meshes of a great net after eating and sleeping
+    in the paddy lands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The trapped doves call on their king to save them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king tells the doves they must obey him and act unitedly at the same moment
+    to escape.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The king flies upward against the net, the other doves follow, and the net
+    rises on their wings as they fly back to the jungle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The doves remain prisoners under the net after returning to the jungle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The king calls on a little mouse with whom he has been friendly.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The mouse summons other jungle mice, and they gnaw the net into pieces, freeing
+    the doves.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dove-king
+  description: The king of the doves, described as wise and good, loved by creatures,
+    protective toward the doves, and friendly to a little mouse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: doves
+  description: The flock who leave the jungle for paddy lands, become trapped in a
+    net, obey the king, lift the net, and are freed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: one dove
+  description: A dove who flies into the valley and reports abundant paddy lands to
+    the others.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: little mouse
+  description: A mouse friendly to the dove-king who comes when called and summons
+    other mice to gnaw the net.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: jungle mice
+  description: Mice called by the little mouse who help gnaw the net into pieces.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wise ruler
+  assigned_to:
+  - fig:1
+  basis: The king is explicitly called wise and good and gives warning and escape
+    instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: protector of the flock
+  assigned_to:
+  - fig:1
+  basis: He follows the heedless doves to save them and directs their escape from
+    the net.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: heedless captives
+  assigned_to:
+  - fig:2
+  basis: The doves ignore the warning, go to the paddy lands, are trapped in a net,
+    and need rescue.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: bearer of tempting news
+  assigned_to:
+  - fig:3
+  basis: This dove reports abundant paddy lands where the flock might eat all day.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: animal helpers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The mouse and other jungle mice gnaw the net apart and free the doves.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: net
+  literal_form: great net spread in the paddy lands
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: paddy lands
+  literal_form: valley paddy lands with abundant food
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: jungle home
+  literal_form: heart of the jungle, far from men
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Warning against the valley
+  summary: The doves hear of abundant paddy lands, but the wise dove-king tells them
+    they are happier in the jungle and warns of dangers in the valley.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Capture in the net
+  summary: The doves go to the paddy lands, are caught in a great net, and call on
+    their king to save them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: United flight with the net
+  summary: The king instructs the flock to act together; he flies up against the net,
+    they follow, and their combined flight lifts the net back to the jungle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mice free the doves
+  summary: The king calls a friendly mouse, who summons other jungle mice to gnaw
+    the net into pieces and release the doves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wise ruler saves heedless followers
+  taxonomy_refs:
+  - wisdom
+  basis: The dove-king is described as wise, warns the doves, follows them to save
+    them, and directs their escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a moralized animal
+    tale rather than an explicit wisdom doctrine.
+- id: motif:2
+  label: collective action frees captives
+  taxonomy_refs: []
+  basis: The trapped doves escape immediate danger only by obeying the king and flying
+    upward together at the same moment.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:3
+  label: small animal helper releases the trapped
+  taxonomy_refs: []
+  basis: A little mouse and other jungle mice gnaw the net into pieces and free the
+    doves.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The helper role is literal in the passage; broader comparative placement
+    would require outside evidence.
+- id: motif:4
+  label: danger hidden beneath abundance
+  taxonomy_refs: []
+  basis: The paddy lands are described as abundant in food, but the doves who go there
+    are caught in a net.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an inferred narrative pattern from the sequence, not an explicit
+    label in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9590-9600
+  quote_or_summary: The doves have a wise and good king and live in the jungle; one
+    dove returns from the valley with news of paddy lands and abundant food.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata supplied no rights status; evidence summarized from
+    provided passage.
+- id: ev:2
+  type: summary
+  locator: 9601-9609
+  quote_or_summary: The king warns that the valley may hold dangers; the doves ignore
+    him and fly to the paddy lands, and he follows them because he hopes to save them.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata supplied no rights status; evidence summarized from
+    provided passage.
+- id: ev:3
+  type: summary
+  locator: 9610-9625
+  quote_or_summary: The doves are trapped in a great net, call on the king, and escape
+    the paddy lands when he instructs them to fly together so the net rises on their
+    wings; they reach the jungle still under the net.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata supplied no rights status; evidence summarized from
+    provided passage.
+- id: ev:4
+  type: summary
+  locator: 9626-9632
+  quote_or_summary: The king calls a friendly little mouse; she summons jungle mice,
+    and they gnaw the net into pieces, freeing the doves.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata supplied no rights status; evidence summarized from
+    provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is self-contained and supports the figures, sequence, and candidate
+    motifs. Motif taxonomy assignment is limited because the available taxonomy contains
+    only one broad relevant family, wisdom. No comparison claims were made because
+    the passage itself does not supply comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Source language and rights status were not supplied in metadata.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l9590-l9632
+  passage_sha256=c2a11f703f15dac7dc47ce0d58bcaca70f76448a8ddc125be045f2d3743b9ca3
+

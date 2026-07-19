@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l11051-l11065
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VII, I, 2. / VII, 1 , 3 . / JPULLAVAGGA. / VII, I, 6.; lines 11051-11065
+  start: '11051'
+  end: '11065'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“had just died, and had appeared again in a certain spiritual body”"
+  summary: A Koliyan named Kakudha, formerly a Bhikkhu attendant on Moggallana, has
+    died and reappeared in a spiritual body described as having a personality as large
+    as two or three common rice-fields of a Magadha village. Notes gloss a Pali expression
+    for the spiritual body and point to related textual expressions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kakudha is identified as a Koliyan by name.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kakudha had been a Bhikkhu attendant on Moggallana.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kakudha had just died.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After dying, Kakudha appeared again in a certain spiritual body.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The spiritual body or personality is described as large as two or three common
+    rice-fields of a Magadha village.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An editorial note glosses the Pali expression for the body as possibly indicating
+    a mode of existence in which the body was changeable at will.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kakudha
+  description: A Koliyan, formerly a Bhikkhu attendant on Moggallana, who died and
+    appeared again in a spiritual body.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Moggallana
+  description: Named as the person on whom Kakudha had been attendant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: deceased and reappearing figure
+  assigned_to:
+  - fig:1
+  basis: Kakudha had just died and appeared again in a spiritual body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: former Bhikkhu attendant
+  assigned_to:
+  - fig:1
+  basis: The passage says Kakudha had been, as Bhikkhu, the attendant on Moggallana.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: person attended by Kakudha
+  assigned_to:
+  - fig:2
+  basis: Moggallana is named as the person on whom Kakudha had been attendant.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spiritual body
+  literal_form: a certain spiritual body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: vast rice-field measure
+  literal_form: a personality as large as two or three common rice-fields of a Magadha
+    village
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Kakudha’s death and spiritual reappearance
+  summary: Kakudha, formerly attendant on Moggallana, has died and has appeared again
+    in a spiritual body with an unusually large personality or bodily extent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: post-mortem reappearance in a spiritual body
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that Kakudha died and then appeared again in a spiritual
+    body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe a full rebirth narrative, journey, judgment,
+    or return to ordinary embodied life; the taxonomy link is a broad candidate only.
+- id: motif:2
+  label: enlarged post-mortem form
+  taxonomy_refs: []
+  basis: The reappeared body or personality is described by an expansive size comparison
+    to two or three rice-fields.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This may be a descriptive attribute rather than a recurring motif; no
+    external comparison is provided in the passage.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note indicates that the expression in this passage should be
+    compared with Mahavagga V, 1, 22 and with a later section below, suggesting textual
+    or formulaic similarity rather than an established motif equivalence.
+  claim_level: linguistic_similarity
+  target: Mahavagga V, 1, 22; below § 5
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The compared passages are not supplied here, and the note concerns
+    an expression; it does not establish historical contact, common inheritance, or
+    a shared mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11051-11054
+  quote_or_summary: A Koliyan named Kakudha, formerly a Bhikkhu attendant on Moggallana,
+    had just died.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights metadata not supplied; summary derived from provided
+    passage.
+- id: ev:2
+  type: quote
+  locator: lines 11054-11056
+  quote_or_summary: "“had appeared again in a certain spiritual body”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Short excerpt from the provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 11056-11058
+  quote_or_summary: The reappeared body or personality is described as being as large
+    as two or three common rice-fields of a Magadha village.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights metadata not supplied; summary derived from provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 11059-11065
+  quote_or_summary: Notes compare the expression to Mahavagga V, 1, 22 and below §
+    5, give the Pali expression for the spiritual body, and suggest it may mean a
+    mode of existence in which the body was changeable at will.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights metadata not supplied; summary derived from provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal extraction is straightforward, but motif classification is limited
+    because the passage is brief and mostly descriptive. The comparison claim rests
+    only on an editorial note without the compared text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external taxonomy IDs beyond the provided list were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l11051-l11065
+  passage_sha256=d725719ace26b65ea3bb3ce9fe3e916630d1aa378da9e2df8856d7556d81ce50
+

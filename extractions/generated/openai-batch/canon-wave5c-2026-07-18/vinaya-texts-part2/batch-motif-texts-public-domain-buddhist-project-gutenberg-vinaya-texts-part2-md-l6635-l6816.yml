@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l6635-l6816
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: QO MAHAVAGGA. VI, 25, 2. / SEVENTH KHANDHAKA. / VIII, 12, 2. / VH, 3. THE
+    KATIIINA CEREMONIES. T59; lines 6635-6816
+  start: '6635'
+  end: '6816'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya regulatory passage enumerates cases after the Kaṭhina ceremony
+    in which a Bhikkhu takes or expects a robe, goes beyond a boundary, forms or does
+    not form an intention about returning, has the robe made up, and thereby has Kaṭhina
+    privileges suspended on specified grounds.
+  language: English translation with transliterated Indic terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage concerns Kaṭhina ceremony cases in which a Bhikkhu's Kaṭhina privileges
+    may be suspended.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: obs:2
+  text: A repeated case describes a Bhikkhu taking a robe after the ceremony, going
+    beyond a boundary, and having the robe made up there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: The stated grounds for suspension include being beyond the boundary, the common
+    suspension of the whole Saṅgha's privileges, having a robe ready for wear, and
+    having heard news.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: obs:4
+  text: 'The cases distinguish the Bhikkhu''s stated or unstated intention: intending
+    to return, intending never to return, or taking no resolution either way.'
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:5
+  text: The passage classifies variants by whether the robe is ready for wear or not
+    ready, and by whether the Bhikkhu 'takes' it or 'takes it with him.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: One case describes a Bhikkhu expecting to receive a robe, acting toward that
+    expectation, obtaining a robe where he had not expected it, and not obtaining
+    one where he had expected it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: A Bhikkhu
+  description: A generic monastic figure whose actions with a robe after the Kaṭhina
+    ceremony determine whether Kaṭhina privileges are suspended.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Whole Saṅgha
+  description: The monastic community named in connection with the common suspension
+    of privileges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: monastic rule subject
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhu is the person whose robe-taking, boundary-crossing, intention,
+    and robe-completion are evaluated by the rule cases.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: community subject to common suspension
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the common suspension of the privileges of the whole
+    Saṅgha.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: robe seeker or recipient
+  assigned_to:
+  - fig:1
+  basis: In one case the Bhikkhu expects a robe to be presented and acts so that the
+    expectation may be realized.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Robe
+  literal_form: Robe; robe ready for wear; robe not ready; robe made up
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: Boundary
+  literal_form: The boundary beyond which the Bhikkhu goes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Taking a robe away after the Kaṭhina ceremony
+  summary: After the ceremony, a Bhikkhu takes a robe and goes away thinking he will
+    return; after crossing the boundary he has the robe made up, delays return until
+    the common suspension, and his privileges are suspended on stated grounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Variant rule-sets for robe status and carrying
+  summary: The passage groups repeated cases according to whether the Bhikkhu takes
+    or takes with him a robe, and whether that robe is ready for wear or not ready.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Resolution variants beyond the boundary
+  summary: 'A set of cases varies the Bhikkhu''s intention about return: he may resolve
+    never to return, intend to return, or make no resolution before or after crossing
+    the boundary.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Expected robe obtained elsewhere
+  summary: A Bhikkhu goes away expecting a robe to be presented, acts to realize that
+    expectation, obtains a robe where he did not expect it, and then has the robe
+    made up while resolving not to return.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Boundary-crossing changes ritual privilege
+  taxonomy_refs: []
+  basis: The Bhikkhu's crossing beyond the boundary is repeatedly tied to the suspension
+    of Kaṭhina privileges.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a monastic legal pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: Ritual garment completion determines status
+  taxonomy_refs: []
+  basis: Having the robe made up or ready for wear is repeatedly named as a condition
+    affecting the Bhikkhu's privileges.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage treats the robe juridically and ritually, not as an explicitly
+    symbolic garment.
+- id: motif:3
+  label: Intention or resolution governs ritual outcome
+  taxonomy_refs: []
+  basis: The passage distinguishes outcomes and variants by whether the Bhikkhu thinks
+    he will return, thinks he will never return, or forms no resolution.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The rule cases preserve intention as a legal factor; broader motif interpretation
+    requires external comparison not present here.
+- id: motif:4
+  label: Regulated robe presentation and monastic privilege
+  taxonomy_refs:
+  - sacred_exchange
+  basis: One case concerns the expectation of a robe being presented and the procedural
+    consequences when the robe is obtained elsewhere and made up.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy match is tentative; the passage is regulatory and does not
+    narrate an exchange myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6635-6638
+  quote_or_summary: The passage opens with a ruling that a Bhikkhu's Kaṭhina privileges
+    are suspended on the ground of having heard news.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:2
+  type: summary
+  locator: lines 6639-6658
+  quote_or_summary: A Bhikkhu takes a robe after the Kaṭhina ceremony, leaves intending
+    to return, crosses the boundary, has the robe made up, delays return until the
+    common suspension, and his privileges are suspended on boundary or common-suspension
+    grounds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:3
+  type: summary
+  locator: lines 6659-6682
+  quote_or_summary: A section repeats cases with a robe ready for wear and identifies
+    a set of seven cases in which the Bhikkhu takes a robe with him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:4
+  type: summary
+  locator: lines 6683-6723
+  quote_or_summary: Sections describe cases involving a robe not ready for wear, including
+    a Bhikkhu going beyond the boundary, deciding to have the robe made up there,
+    and never going back; notes describe six-case sets.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:5
+  type: summary
+  locator: lines 6724-6786
+  quote_or_summary: 'Chapter 6 gives variations in which the Bhikkhu takes a robe,
+    crosses the boundary, has it made up, and differs in resolution: never to return,
+    no resolution, or intending to return; suspension may be on the ground of having
+    a robe ready for wear.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:6
+  type: summary
+  locator: lines 6787-6799
+  quote_or_summary: Chapter 7 repeats the preceding chapter with wording variations
+    such as taking the robe with him, taking a robe not ready, and combining these
+    modifications; the section ends the 'Taking away' Bhāṇavāra.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+- id: ev:7
+  type: summary
+  locator: lines 6800-6816
+  quote_or_summary: Chapter 8 describes a Bhikkhu who goes away expecting a robe to
+    be presented, acts to realize that expectation, obtains a robe where he did not
+    expect it, does not obtain one where expected, has it made up, and has privileges
+    suspended because the robe is ready for wear.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Source metadata rights_status not supplied; passage supplied in prompt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal regulatory content is clear. Motif candidates are limited because
+    the passage is a monastic legal enumeration rather than a mythic narrative. No
+    comparison claims are made because the passage itself provides no explicit comparative
+    material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR-like forms in the supplied passage were normalized only in summaries; no external text was used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l6635-l6816
+  passage_sha256=ac9a92478877e25a2c38b75e1c35c9998106823a61610ab61b615679435590c0
+

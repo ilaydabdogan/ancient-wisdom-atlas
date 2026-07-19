@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l3416-l3439
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: JORGEN BRONLUND / UMANAQ, SEEN FROM THE BEACH / THE DARK DRAWS NEAR / WEATHERBOUND;
+    lines 3416-3439
+  start: '3416'
+  end: '3439'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a cold cave during a storm, the narrator and Qisunguaq rest in reindeer
+    skins. A faint greenish noon light enters the cave. Qisunguaq remembers the dogs,
+    and the two men light a blubber torch, cut frozen walrus meat, chew a little themselves,
+    and carry mostly blubber out to the hungry animals, which have fasted for more
+    than thirty-six hours.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A travelling companion falls asleep and snores while the narrator remains
+    in the cold cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dull greenish glimmer enters through the cave entrance and makes a narrow
+    strip of light reaching the resting-place.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator infers that it is twelve o'clock, described as the lightest part
+    of the day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Qisunguaq calls attention to the dogs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The men crawl out of reindeer skins, light a blubber torch, and chop frozen
+    walrus meat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The men cut thin slices for themselves and chew them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Most of the meat they hack off is blubber, and they are careful because the
+    storm seems to be rising.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Fat blubber is said to generally give the dogs stomach-ache, but the dogs
+    will not need to work for the time being.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The men bring the food outside, and the animals attack it ravenously after
+    fasting for over thirty-six hours.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: First-person speaker travelling and sheltering in the cave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Qisunguaq / travelling companion
+  description: The narrator's travelling companion; he sleeps, then speaks about the
+    dogs and helps attend to them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: dogs / animals
+  description: Hungry dogs outside the cave, fasting for over thirty-six hours and
+    fed walrus meat and blubber.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: first-person traveller
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to a travelling companion, shares the cave shelter, and
+    helps prepare and carry food to the animals.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: travelling companion
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a travelling companion and later names Qisunguaq as
+    the one who speaks about the dogs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: dependent travel animals
+  assigned_to:
+  - fig:3
+  basis: The dogs have fasted for more than thirty-six hours and are fed by the travellers;
+    the passage notes they will not need to work for the time being.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: cave shelter
+  literal_form: cold cave with an entrance admitting a narrow strip of light
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: blubber torch
+  literal_form: blubber torch lit by the travellers while preparing food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: faint noon light
+  literal_form: dull greenish glimmer entering through the cave entrance at the lightest
+    part of the day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: frozen walrus meat and blubber
+  literal_form: frozen walrus meat, mostly blubber, chopped for men and dogs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: reindeer skins
+  literal_form: reindeer skins used by the travellers before they crawl out to prepare
+    food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Resting in the cold cave
+  summary: Silence falls; the narrator's companion falls asleep in the cold cave while
+    imagining or dreaming of warm huts and seal-soup.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Noon glimmer in the cave
+  summary: A faint greenish light enters the cave, allowing the travellers to see
+    each other and indicating the lightest part of the day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feeding the fasting dogs
+  summary: Qisunguaq mentions the dogs; the travellers leave their skins, light a
+    torch, chop frozen walrus meat and blubber, eat a little, and bring the rest outside
+    to the ravenous dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: shelter in a cave during dangerous weather
+  taxonomy_refs: []
+  basis: The travellers are in a cold cave while the storm seems to be rising and
+    they conserve effort and resources.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is travel narrative rather than a mythic episode; the motif
+    label is descriptive and not tied to a supplied motif-family taxonomy reference.
+- id: motif:2
+  label: maintenance of dependent animals during hardship
+  taxonomy_refs: []
+  basis: Qisunguaq remembers the dogs; the travellers prepare food for animals that
+    have fasted over thirty-six hours, despite the food being mostly blubber and the
+    storm rising.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a practical survival pattern in the passage, not explicitly presented
+    as a symbolic or mythological motif.
+- id: motif:3
+  label: light and fire in darkness or stormbound shelter
+  taxonomy_refs: []
+  basis: A faint natural light enters the cave, and the travellers light a blubber
+    torch to act within the shelter.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage gives literal light sources only; no explicit symbolic interpretation
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3416-3420
+  quote_or_summary: Silence returns; the narrator's travelling companion snores, described
+    as far away from the cold cave and imagining well-lighted huts with women serving
+    warm seal-soup.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3421-3425
+  quote_or_summary: A dull greenish glimmer enters through the cave entrance, forms
+    a narrow strip of light at the resting-place, lets the travellers see each other,
+    and is interpreted as noon, the lightest part of the day.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: quote
+  locator: lines 3426-3427
+  quote_or_summary: '"The dogs!" said Qisunguaq.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 3427-3430
+  quote_or_summary: The travellers crawl out of their reindeer skins, light a blubber
+    torch, chop frozen walrus meat, cut a few thin slices for themselves, and begin
+    to chew.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 3430-3432
+  quote_or_summary: Most of what they hack off is blubber; the storm appears to be
+    rising, so they need to be careful.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 3434-3435
+  quote_or_summary: Fat blubber generally gives dogs stomach-ache, but for the time
+    being they will not need to work.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 3437-3438
+  quote_or_summary: The travellers take the food outside; the animals attack it ravenously
+    after fasting for more than thirty-six hours.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are descriptive because the passage is a travel account and does not explicitly
+    frame events as mythic. No comparison claims are made because the passage itself
+    does not support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage ends mid-sentence at line 3439; extraction is limited to the visible text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l3416-l3439
+  passage_sha256=9e3191ca5e593831a56b8cede2760438d23ce57f5917d59e51825922526323ba
+

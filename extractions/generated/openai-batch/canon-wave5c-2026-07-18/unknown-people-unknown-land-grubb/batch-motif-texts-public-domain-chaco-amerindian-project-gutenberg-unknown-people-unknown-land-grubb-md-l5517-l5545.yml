@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l5517-l5545
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / DREAMS; lines 5517-5545
+  start: '5517'
+  end: '5545'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a reported dream-belief in which a sleeper's soul
+    may leave the chest, go seeking adventures, and be seized by kilyikhama hovering
+    over the sleeping body. The narrator frames such beliefs as producing supernatural
+    dread and says the Mission brings relief from that dread.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator refers to a man who may assert that his soul is at a distance
+    and may be connected with notice given to a witch-doctor, though the passage begins
+    mid-sentence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The soul is described as emerging from the chest of the sleeper.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A kilyikhama is described as seizing the soul as soon as it emerges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kilyikhama are described as hovering over the sleeping form and waiting for
+    the soul to issue from the sleeper's chest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The soul is described as going forth to seek adventures.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator attributes such dreams to imagination influenced by superstitious
+    belief.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator states that the described beliefs contribute to constant supernatural
+    dread and that the Mission brings relief from it.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indian dreamer or sleeper
+  description: A sleeping person whose soul is said to issue from the chest; also
+    connected with the narrator's earlier mention of a person claiming the soul is
+    at a distance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Soul
+  description: The soul of the sleeper, described as leaving the chest, being at a
+    distance, seeking adventures, and being vulnerable to seizure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Kilyikhama
+  description: Beings described as hovering over the sleeper and seizing the soul
+    when it emerges.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Witch-doctor
+  description: A ritual specialist mentioned as receiving notice in the passage's
+    opening fragment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mission
+  description: The Mission is described by the narrator as bringing relief from supernatural
+    dread.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sleeper whose soul departs
+  assigned_to:
+  - fig:1
+  basis: The sleeping form is described as the body from which the soul issues.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: separable wandering soul
+  assigned_to:
+  - fig:2
+  basis: The soul is said to emerge from the chest, be at a distance, and go forth
+    seeking adventures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: soul-seizing hovering being
+  assigned_to:
+  - fig:3
+  basis: Kilyikhama are described as hovering over the sleeper and seizing the soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: witch-doctor or ritual specialist
+  assigned_to:
+  - fig:4
+  basis: The passage mentions notice being given to the witch-doctor, though the context
+    is fragmentary.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: reliever of supernatural dread
+  assigned_to:
+  - fig:5
+  basis: The narrator says the Mission brings relief from constant supernatural dread.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: separable soul
+  literal_form: soul at a distance; soul issuing from the chest
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: chest as departure point
+  literal_form: chest of the sleeper
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sleeping form
+  literal_form: sleeping body over which beings hover
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hovering kilyikhama
+  literal_form: kilyikhama hovering above the sleeping form
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Soul at a distance and witch-doctor notice
+  summary: In a fragmentary opening, the narrator describes a person apparently conscious
+    and vigorous who asserts that his soul is away and is somehow connected with notice
+    to a witch-doctor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kilyikhama wait for the sleeper's soul
+  summary: The soul emerges from the chest of the sleeper and goes forth; kilyikhama
+    hover over the sleeping body, wait for the soul, and may seize it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Narrator's conclusion about dread and relief
+  summary: The narrator interprets the beliefs as producing supernatural dread and
+    states that the Mission has brought relief from that dread.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dream-soul departure from the body
+  taxonomy_refs:
+  - departure
+  basis: The sleeper's soul is said to emerge from the chest and go forth seeking
+    adventures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term is broad; the passage describes an ethnographic
+    dream-belief rather than a full mythic departure narrative.
+- id: motif:2
+  label: spirit beings ambush or seize the wandering soul
+  taxonomy_refs: []
+  basis: Kilyikhama are described as hovering over the sleeper, waiting for the soul
+    to issue from the chest, and seizing it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the kilyikhama beyond this soul-seizing behavior.
+- id: motif:3
+  label: supernatural dread attached to dream-spirit beliefs
+  taxonomy_refs: []
+  basis: The narrator links the described dream beliefs with a state of constant supernatural
+    dread and relief from that dread.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is mainly the narrator's interpretive framing, not a narrative action
+    within the reported belief itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5517-5523
+  quote_or_summary: The passage opens fragmentarily with the narrator saying it seems
+    contradictory that a vigorous man would doubt whether he is himself and assert
+    that his soul is at a distance, with mention of notice to a witch-doctor.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not specified in metadata; source path indicates public-domain.
+- id: ev:2
+  type: quote
+  locator: 5524-5527
+  quote_or_summary: '"the soul emerge from the chest" and is "seized upon by a kilyikhama"'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not specified in metadata; source path indicates public-domain.
+- id: ev:3
+  type: quote
+  locator: 5527-5531
+  quote_or_summary: '"hover over the sleeping form, and wait for the soul to issue"'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not specified in metadata; source path indicates public-domain.
+- id: ev:4
+  type: summary
+  locator: 5531-5534
+  quote_or_summary: The soul is said to go forth seeking adventures; the narrator
+    calls such dreams the result of imagination influenced by superstitious belief.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not specified in metadata; source path indicates public-domain.
+- id: ev:5
+  type: summary
+  locator: 5535-5545
+  quote_or_summary: The narrator says these religious views burden the Indian with
+    constant supernatural dread and that the Mission brings relief by enlightenment.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not specified in metadata; source path indicates public-domain.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main dream-soul pattern is explicit, but the passage begins mid-sentence
+    and includes the narrator's evaluative missionary framing. No passage-internal
+    comparative claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction separates the reported belief content from the narrator's interpretive comments. No external information about kilyikhama or source culture has been added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l5517-l5545
+  passage_sha256=2318b8340c78149e4f7b313d2bb2dece186c45c71d7624bb2c78415314bc090b
+

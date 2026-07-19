@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md-l19525-l19703
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM / CHIPPEWA    MEDICINE    POLES
+    / WOMAN'S    DANCE; lines 19525-19703
+  start: '19525'
+  end: '19703'
+  translation: chippewa-music-2-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives musical analysis and transcribed song texts for songs
+    sung by Ki'miwun, including "The Sky Will Resound," "One Wind," and the beginning
+    of "An Overhanging Cloud." The lyrics mention the sky resounding when the singer
+    comes making noise, a claim of being master of one wind, and an overhanging cloud
+    title with partial untranslated text.
+  language: English with Chippewa/Ojibwe song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A musical analysis states that a rhythmic unit contains six measures, occurs
+    five times, and constitutes the entire song.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis identifies a prominent D flat tone that forms a minor triad and
+    minor seventh group in connection with the tonic triad.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents song No. 148, titled "The Sky Will Resound," sung by
+    Ki'miwun.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The glossed text of song No. 148 says that the sky will resound finely when
+    the speaker comes making a noise.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The analysis of song No. 148 says the song is harmonic in structure and based
+    on the chord of B flat major.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage presents song No. 149, titled "One Wind," sung by Ki'miwun.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The glossed text of song No. 149 says there is one wind and that the speaker
+    is master of it.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The analysis of song No. 149 says three renditions were recorded and that
+    exact time was not steadily maintained.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage begins song No. 150, titled "An Overhanging Cloud," sung by Ki'miwun.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ki'miwun
+  description: Named singer for songs No. 148, No. 149, and No. 150.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: song speaker in "The Sky Will Resound"
+  description: First-person speaker who comes making a noise while the sky resounds
+    finely.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: song speaker in "One Wind"
+  description: First-person speaker who says he or she is master of one wind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Ki'miwun as the singer for the listed songs.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: role:2
+  label: noisy arrival speaker
+  assigned_to:
+  - fig:2
+  basis: The gloss says "when I come making a noise."
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: master of wind
+  assigned_to:
+  - fig:3
+  basis: The gloss says "I am master of it" in relation to one wind.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: resounding noise
+  literal_form: the sky resounding finely when the speaker comes making a noise
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: one wind
+  literal_form: one wind
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: overhanging cloud
+  literal_form: overhanging cloud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: minor triad and minor seventh group
+  literal_form: musical group formed by prominent D flat with the tonic triad
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sky resounds during noisy arrival
+  summary: In the song text, the speaker says the sky will resound finely when the
+    speaker comes making a noise.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Speaker claims mastery of one wind
+  summary: In the song text, the speaker names one wind and says that the speaker
+    is master of it.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Overhanging cloud title
+  summary: The passage gives the title of song No. 150 as "An Overhanging Cloud,"
+    but the included excerpt does not provide a full English translation of its song
+    text.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Musical pattern comparison in analysis
+  summary: The analysis notes a minor triad and minor seventh group and says this
+    group has been noted in Chippewa songs and music of other peoples, including several
+    numbered songs in the present work.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: sky resounding at speaker's arrival
+  taxonomy_refs: []
+  basis: The song text states that the sky will resound finely when the speaker comes
+    making a noise.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a short song text and does not explain ritual,
+    mythic, or narrative context.
+- id: motif:2
+  label: mastery of wind
+  taxonomy_refs: []
+  basis: The song text says "one wind" and "I am master of it."
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not identify the speaker's identity or explain the nature
+    of the claimed mastery.
+- id: motif:3
+  label: overhanging cloud image
+  taxonomy_refs: []
+  basis: The song title is "An Overhanging Cloud."
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: Only the title and partial untranslated song text are present in the supplied
+    passage.
+- id: motif:4
+  label: recurring minor triad and minor seventh musical pattern
+  taxonomy_refs: []
+  basis: The analysis states that this tonal group has been noted in Chippewa songs
+    and music of other peoples, and lists additional numbered songs in the present
+    work.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a musical pattern rather than a narrative mythic motif; no taxonomy
+    reference is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The analysis compares the minor triad and minor seventh group in this song
+    with the same group in other Chippewa songs and in music of other peoples.
+  claim_level: same_motif
+  target: minor triad and minor seventh musical group in other Chippewa songs and
+    other music mentioned by the analyst
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the analyst's brief comparison and does not
+    provide the compared examples here; the claim concerns musical structure, not
+    a narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19525-19527
+  quote_or_summary: The rhythmic unit is described as six measures, occurring five
+    times, and making up the entire song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 19535-19542
+  quote_or_summary: The analysis states that D flat is prominent and forms a minor
+    triad and minor seventh group, also noted in Chippewa songs, other music, and
+    specific numbered songs in the work.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 19546-19547
+  quote_or_summary: No. 148. "The Sky Will Resound" ... Sung by Ki'miwun
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 19573-19575
+  quote_or_summary: 'Glosses translate the song text as: it will resound finely; the
+    sky; when I come making a noise.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 19577-19582
+  quote_or_summary: The analysis says song No. 148 is harmonic, based on B flat major,
+    has a pleasing rhythmic effect, and maintains the metric unit regularly.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:6
+  type: quote
+  locator: lines 19586-19589
+  quote_or_summary: No. 149. "One Wind" ... Sung by Ki'miwun
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 19615-19617
+  quote_or_summary: 'Glosses translate the song text as: one; wind; I am master of
+    it.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:8
+  type: summary
+  locator: lines 19619-19629
+  quote_or_summary: The analysis says three renditions of song No. 149 were recorded,
+    time was not steadily maintained, and no rhythmic unit occurs although the whole-song
+    rhythm is strongly marked.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:9
+  type: quote
+  locator: lines 19633-19635
+  quote_or_summary: No. 150. "An Overhanging Cloud" ... Sung by Ki'miwun
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source rights status not supplied; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly musical transcription and analysis, with only short
+    song-text glosses. Motif extraction is therefore limited to literal images and
+    claims present in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the supplied passage does not explicitly support the listed motif-family or symbol taxonomy items.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md__l19525-l19703
+  passage_sha256=0598a89479da18ceebc92dbddbf5d6339d0266ff6d825cc48c6cffde0cefeef0
+

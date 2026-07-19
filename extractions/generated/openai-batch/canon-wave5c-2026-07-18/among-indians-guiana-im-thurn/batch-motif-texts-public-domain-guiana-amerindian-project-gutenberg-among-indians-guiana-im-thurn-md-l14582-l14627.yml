@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l14582-l14627
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: ZZOLIAN HARP. / ATHLETIC SPORTS. . 327 - / TT TT / WRESTLING SHIELD.; lines
+    14582-14627
+  start: '14582'
+  end: '14627'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes the author''s account of Guiana Indian animism:
+    humans and perceptible objects have bodies and separable spirits; spirits may
+    survive after death, differ in activity or malice, and may be contacted by a peaiman
+    in ecstasy. It also mentions belief in the reality of dreams, a country beyond
+    the sky attainable by living people, spirits in natural phenomena such as water,
+    and ancestral spirits.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage attributes to the Indians a belief in the reality of dreams:
+    in sleep they regard themselves as present among dream surroundings, and when
+    they close their eyes to avoid objects they regard themselves as not present among
+    the surroundings they no longer see.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says every human being and every object perceptible to the senses
+    consists of a body and a spirit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the spirits of humans and objects are separable from their
+    bodies both during life and at death.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says spirits separated after death continue to exist on earth
+    for an indefinite period.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage distinguishes spirits that are malignant and active from spirits
+    that are entirely quiescent.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says spirits can be communicated with by the peaiman when he is
+    in an ecstatic condition, not by the ordinary individual.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The author characterizes the system as a simple form of animism with no connection
+    to the Indian's code of morality.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says the Indians know of a country beyond the sky that is difficult
+    but not impossible for a living man to attain.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says the Indians believe in a separate spirit in each portion
+    of any natural phenomenon, including every portion of water.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says the Indians believe in ancestral spirits.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Indians described in the passage
+  description: The human group to whom the passage attributes beliefs about dreams,
+    spirits, the sky country, natural phenomena, and ancestral spirits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: peaiman
+  description: A ritual specialist who, according to the passage, can communicate
+    with spirits when in an ecstatic condition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: spirits
+  description: Separable spirits of humans and perceptible objects; some are malignant
+    and active, others quiescent, and they may be communicated with by the peaiman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: ancestral spirits
+  description: Spirits of ancestors mentioned as part of the Indians' belief system.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: living man
+  description: A living human being described as able, with difficulty, to attain
+    a country beyond the sky.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bearers of the described animist beliefs
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the summarized beliefs to the Indians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ecstatic spirit-communicator
+  assigned_to:
+  - fig:2
+  basis: The peaiman is the one who can communicate with spirits when in an ecstatic
+    condition.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: separable spirit presences
+  assigned_to:
+  - fig:3
+  basis: Spirits are described as separable from bodies, as surviving after death,
+    and as having varying activity or malignancy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: ancestral spirits
+  assigned_to:
+  - fig:4
+  basis: The passage directly mentions belief in ancestral spirits.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: possible traveler to sky country
+  assigned_to:
+  - fig:5
+  basis: The passage says the country beyond the sky is difficult but not impossible
+    of attainment by living man.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: body and spirit composition
+  literal_form: body and spirit
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: country beyond the sky
+  literal_form: country beyond the sky
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: water with separate spirits
+  literal_form: every portion of water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: dream surroundings
+  literal_form: surroundings of a dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dream presence and visual absence
+  summary: The passage describes belief that a sleeping person is present among dream
+    surroundings, while a person who shuts the eyes to avoid objects is not present
+    among the surroundings no longer seen.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summary of body-spirit animism
+  summary: The passage states that humans and perceptible objects consist of bodies
+    and spirits, and that spirits can separate during life or at death and continue
+    after death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peaiman communicates with spirits
+  summary: The peaiman, unlike an ordinary individual, communicates with spirits when
+    in an ecstatic condition.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Beyond-sky country and natural spirits
+  summary: The passage mentions a country beyond the sky attainable by a living man
+    and a belief in separate spirits in each portion of natural phenomena, including
+    water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: body-spirit dual composition of beings and objects
+  taxonomy_refs:
+  - duality
+  basis: The passage says every human and every perceptible object consists of a body
+    and a spirit, with the spirit separable from the body.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference captures the body/spirit pairing only broadly;
+    the passage frames it specifically as animism.
+- id: motif:2
+  label: postmortem persistence of separable spirits
+  taxonomy_refs: []
+  basis: Separated spirits after death are said to continue existing on earth for
+    an indefinite period.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe a journey, judgment, resurrection, or final
+    afterlife destination for these spirits.
+- id: motif:3
+  label: ecstatic specialist communicates with spirits
+  taxonomy_refs: []
+  basis: The peaiman can communicate with spirits when in an ecstatic condition, while
+    ordinary individuals cannot.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives no ritual procedure beyond the ecstatic condition.
+- id: motif:4
+  label: country beyond the sky attainable by a living person
+  taxonomy_refs:
+  - ascent
+  basis: The passage says there is a country beyond the sky that is difficult but
+    not impossible for a living man to attain.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not narrate an actual ascent or route; the taxonomy reference
+    is supported only by the beyond-sky location and attainability.
+- id: motif:5
+  label: spirits in portions of natural phenomena
+  taxonomy_refs: []
+  basis: The passage says every portion of a natural phenomenon, for example every
+    portion of water, has a separate spirit.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Only water is given as an example in this passage.
+- id: motif:6
+  label: dream experience treated as real presence
+  taxonomy_refs: []
+  basis: The passage describes dream surroundings as treated as places where the dreamer
+    is present, and unseen real surroundings as places where the person is not present.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The dream-related sentence is interrupted in the supplied passage, so
+    the extraction relies on the visible fragments.
+comparison_claims:
+- id: claim:1
+  claim: The passage asserts that the comparatively pure form of animism described
+    for Guiana is common to a very large number of Indigenous peoples elsewhere in
+    the Americas.
+  claim_level: same_motif
+  target: animism among a large number of Redmen elsewhere, as generalized by the
+    author
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no specific comparative examples or named groups,
+    and the wording reflects the author's broad historical generalization.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14582-14586, 14623-14627
+  quote_or_summary: 'The passage refers to belief in the reality of dreams: a sleeper
+    is considered present among dream surroundings, and a person who shuts the eyes
+    to avoid objects is considered not present among real surroundings because they
+    are not seen.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 14588-14596
+  quote_or_summary: Every human being and every perceptible object consists of a body
+    and a spirit; spirits are separable during life and at death, and after death
+    continue to exist on earth for an indefinite period.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 14596-14599
+  quote_or_summary: Some spirits are malignant and active while others are quiescent;
+    all spirits may be communicated with by the peaiman in an ecstatic condition,
+    not by ordinary individuals.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 14599-14602
+  quote_or_summary: The author describes this as a very simple form of animism and
+    says it has no connection with the Indian's code of morality.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 14602-14608
+  quote_or_summary: The author says belief in continued existence of the spirit after
+    bodily death could develop into belief in everlasting spirit, and that knowledge
+    of a country beyond the sky, difficult but possible for living man to attain,
+    could develop into belief in a separate place for departed spirits.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 14609-14616
+  quote_or_summary: The passage says there is a separate spirit in each portion of
+    natural phenomena, for example every portion of water, and it also mentions belief
+    in ancestral spirits.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 14618-14622
+  quote_or_summary: The author states that the pure form of Indian animism in Guiana
+    is common to a very large number of Redmen elsewhere and is more primitive than
+    many students of religious evolution have suspected.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source path indicates a Project Gutenberg public-domain text; rights_status
+    is not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The animism summary is explicit, but the dream material is interrupted by
+    surrounding text and the comparison claim is a broad authorial generalization
+    without specific examples.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, objects, or comparisons beyond those directly present in the supplied passage were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l14582-l14627
+  passage_sha256=8cd24f84f56dca6abbddfb2863920b3fb14277be0c859d61b9d68e271fd3269f
+

@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l2069-l2118
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: MONEY AND CURRENCY / MONEY AND CURRENCY / MONEY AND CURRENCY / MONEY AND
+    CUREENCY; lines 2069-2118
+  start: '2069'
+  end: '2118'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An informant describes a nearby family whose wealth is acknowledged although
+    its enormous fei stone money has rested unseen on the sea floor for generations.
+    The stone was lost from a raft in a storm after an ancestor acquired it; witnesses
+    affirmed its size, quality, and blameless loss, so the community continued to
+    recognize its purchasing power. The passage also notes that the weight of fei
+    discourages theft.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A nearby family is described as having unquestioned wealth acknowledged by
+    everyone, although neither the family nor others have seen or handled that wealth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wealth consists of an enormous fei whose size is known by tradition and
+    which has lain at the bottom of the sea for two or three generations.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An ancestor of the family acquired a large and valuable stone on an expedition
+    after fei and placed it on a raft to be towed home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A violent storm arose, and the party cut the raft adrift to save their lives;
+    the stone then sank out of sight.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After reaching home, the party testified that the fei was large, of extraordinary
+    quality, and lost through no fault of the owner.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The community accepted that the stone's accidental loss overboard and its
+    being under offshore water did not affect its marketable value because it had
+    been properly formed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stone's purchasing power remains valid as if it were visibly leaning against
+    the owner's house.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Because fei are heavy, theft is described as difficult; the passage says several
+    strong men would be needed to steal the price of a pig, and thefts of fei are
+    almost unknown.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage notes that Uap has no wheeled vehicles or cart roads, but has
+    clearly defined paths between settlements.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed nearby family
+  description: Family whose wealth is acknowledged, though its fei wealth is unseen
+    and underwater.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: ancestor of the family
+  description: Ancestor who went on an expedition after fei and secured the valuable
+    stone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: expedition party
+  description: Group that transported the fei, cut the raft adrift during the storm,
+    survived, and later testified about the stone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: local community
+  description: The people who acknowledge the family's wealth and accept the continued
+    value of the lost fei.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: acknowledged wealth-holder
+  assigned_to:
+  - fig:1
+  basis: The family's wealth is described as unquestioned and acknowledged by everyone
+    despite being unseen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: acquirer of the fei
+  assigned_to:
+  - fig:2
+  basis: The ancestor secured the large and valuable fei during an expedition.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: survivors and witnesses
+  assigned_to:
+  - fig:3
+  basis: The party cut the raft adrift to save their lives and later testified about
+    the fei's size, quality, and loss.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: communal validators of value
+  assigned_to:
+  - fig:4
+  basis: The community acknowledges the wealth and concedes that the stone's loss
+    does not reduce its marketable value.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: enormous fei
+  literal_form: Large stone money, chipped in proper form, lost at the bottom of the
+    sea but still treated as possessing purchasing power.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sea water over the lost stone
+  literal_form: The bottom of the sea and a few hundred feet of offshore water where
+    the fei lies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: raft
+  literal_form: Raft on which the fei was placed for towing home and then cut adrift
+    during the storm.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Unseen sea-bottom wealth is acknowledged
+  summary: A family is recognized as wealthy because of an enormous fei known by tradition,
+    although the stone has been underwater and unseen for generations.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Acquisition, storm, and sinking
+  summary: An ancestor acquires a valuable fei and has it towed on a raft, but a storm
+    forces the party to cut the raft loose, causing the stone to sink.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Testimony preserves value
+  summary: The returning party testifies to the fei's quality and blameless loss,
+    and the community accepts that its marketable value remains unchanged.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Weight deters theft
+  summary: The passage explains that the heaviness of fei makes theft difficult and
+    that thefts of fei are almost unknown.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Absent or inaccessible wealth retains recognized value
+  taxonomy_refs: []
+  basis: The family's fei lies unseen at the bottom of the sea, yet its purchasing
+    power and marketable value remain socially recognized.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an economic and social pattern in ethnographic prose, not a divine
+    or mythic episode; no taxonomy mapping is asserted.
+- id: motif:2
+  label: Communal testimony validates value after loss
+  taxonomy_refs: []
+  basis: The expedition party's testimony about the stone's size, quality, and blameless
+    loss is followed by communal acceptance of its continued value.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports a local social validation pattern; it does not establish
+    a broader mythic motif by itself.
+- id: motif:3
+  label: Valuable object lost at sea during storm transport
+  taxonomy_refs: []
+  basis: A valuable fei is placed on a raft, a violent storm arises, and the raft
+    is cut adrift, causing the stone to sink.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The storm-loss sequence is clear, but the passage treats it as an explanatory
+    anecdote about currency rather than a full voyage myth.
+- id: motif:4
+  label: Immovable or heavy wealth deters theft
+  taxonomy_refs: []
+  basis: The passage states that fei's weight makes burglary discouraging and thefts
+    of fei almost unknown.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a practical observation about material currency rather than a
+    symbolic mythic claim.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the accepted purchasing power of the unseen
+    sea-bottom fei to the function of unseen reserve wealth represented by certificates.
+  claim_level: same_function
+  target: hoarded inactive gold and silver dollars stacked in a treasury and traded
+    through printed certificates
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the author's economic analogy only; it does not imply historical
+    contact, common inheritance, or mythic equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2069-2078
+  quote_or_summary: 'A nearby family is said to possess unquestioned wealth: an enormous
+    fei known by tradition, unseen and lying at the bottom of the sea for generations.'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2078-2088
+  quote_or_summary: An ancestor secured a very large and valuable fei, placed it on
+    a raft for towing home, but a violent storm forced the party to cut the raft adrift
+    and the stone sank.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2088-2098
+  quote_or_summary: The returning party testified to the fei's magnificent proportions
+    and quality and said it was lost through no fault of the owner; the community
+    accepted that the loss did not affect its marketable value.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2099-2108
+  quote_or_summary: The stone's purchasing power remains valid as if it were visibly
+    at the owner's house; the author compares this to inactive gold or treasury silver
+    dollars represented by printed certificates.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2109-2115
+  quote_or_summary: 'The passage says weighty fei make burglary discouraging: multiple
+    strong men would be needed to steal the price of a pig, and thefts of fei are
+    almost unknown.'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2116-2118
+  quote_or_summary: The passage notes that Uap has no wheeled vehicles or cart roads,
+    but has clearly defined paths connecting settlements.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic and economic rather than mythological. Motif
+    candidates are therefore framed as social-pattern motifs, and taxonomy mappings
+    are mostly left empty except for the literal water symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No divine figures or explicit mythic narrative are present in the supplied passage; extraction focuses on acknowledged value, testimony, loss at sea, and material currency patterns.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l2069-l2118
+  passage_sha256=7d45033f8cc3dac68b0b94ed7f198c63b356e3526f622f9ab8dece3ab76d2c5a
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l44-l89
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: INTEODUCTORY / THE ISLAND OF STONE MONET / INTRODUCTORY; lines 44-89
+  start: '44'
+  end: '89'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person traveler aboard the steamer Oceana approaches the island
+    of Uap after a month at sea. The narrator anticipates landfall and the sensory
+    atmosphere of Pacific island houses, but at dawn the vessel is caught in dense
+    fog near reefs and breakers. The captain orders the engines reversed, and the
+    ship discovers reefs encircling it after a night of heavy clouds, starless darkness,
+    and strong variable currents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator has spent a month on the 500-ton steamer Oceana traveling between
+    Sydney, the Marshall and Caroline Islands, and Hongkong, and is within one night's
+    sail of Uap.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator intends to remain on Uap for nearly two months and wait for the
+    steamer's return trip.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At sunset, the narrator describes colorful sea and sky and anticipates smells
+    of palm groves, coconut oil, and fires of sappy wood associated with island houses.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator expects to wake to the vessel gliding through a calm lagoon and
+    to smell land and lush vegetation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At gray dawn, the captain signals the engine room to stop and then go full
+    speed astern.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator goes to the deck and sees dense fog while the sound of breakers
+    rises around the ship.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the fog lifts, reefs and breakers are visible less than 150 feet ahead;
+    as the ship backs away, reefs are found to encircle it.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Heavy clouds, a starless black sky, and strong variable currents are given
+    as conditions that affected the captain's course.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person narrator / traveler
+  description: A traveler aboard the steamer Oceana who plans to stay on Uap and describes
+    the approach to the island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: captain
+  description: The captain of the steamer who signals the engine room and is described
+    as falling victim to strong, variable currents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: traveler-observer
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator reports the voyage, planned stay, expectations,
+    and visual and sensory impressions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ship captain / navigator
+  assigned_to:
+  - fig:2
+  basis: The captain gives engine-room commands and is associated with the vessel's
+    navigation amid currents and poor visibility.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: destination island
+  literal_form: the island of Uap
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea and lagoon waters
+  literal_form: open sea, calm lagoon, and surrounding waters
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fog-bound reef barrier
+  literal_form: thick fog, reefs, and breakers encircling the vessel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: fires of sappy wood
+  literal_form: fires of sappy wood whose scent forms part of the expected island
+    atmosphere
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: starless sky and variable currents
+  literal_form: inky black sky with no star and strong variable currents
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: approach to Uap after a month at sea
+  summary: The narrator and voyaging party near Uap aboard the Oceana after a month
+    of rough travel and plan for an extended stay on the island.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: sunset anticipation of landfall
+  summary: From the deck, the narrator watches a colorful sunset and imagines the
+    smells of palm groves, coconut oil, wood fires, land, and vegetation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: dawn danger among fog, breakers, and reefs
+  summary: At dawn the captain reverses the engines; the narrator reaches the deck
+    and sees fog, hears breakers, and then discovers reefs close ahead and around
+    the ship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: night of obscured navigation
+  summary: Heavy clouds, starless darkness, and strong variable currents precede the
+    dawn hazard and explain the ship's dangerous position.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: perilous sea approach to an island
+  taxonomy_refs: []
+  basis: The passage presents a sea journey nearing an island, followed by fog, breakers,
+    reefs, and a forced reversal of the vessel's course.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a travel-narrative episode, not a mythic tale in the provided
+    passage; the motif label is descriptive and should not be treated as a confirmed
+    mythological motif without review.
+- id: motif:2
+  label: failed or obstructed landfall
+  taxonomy_refs: []
+  basis: The narrator expects calm lagoon entry and landfall, but the vessel instead
+    encounters fog, reefs, and encircling breakers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a literal navigational hazard; any symbolic threshold
+    reading would be interpretive and is not asserted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 44-54
+  quote_or_summary: After a month on the small steamer Oceana, the narrator is within
+    one night's sail of Uap and intends to remain there nearly two months until the
+    steamer returns.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+- id: ev:2
+  type: summary
+  locator: lines 55-68
+  quote_or_summary: At sunset the narrator describes the colorful sea and sky and
+    anticipates the scents of damp palm groves, rancid coconut oil, and fires of sappy
+    wood in Pacific Islander palm-thatched houses.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+- id: ev:3
+  type: summary
+  locator: lines 69-74
+  quote_or_summary: The narrator expects morning arrival through the calm lagoon,
+    accompanied by the smell of land and lush vegetation.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+- id: ev:4
+  type: summary
+  locator: lines 74-82
+  quote_or_summary: At gray dawn the captain rings the engine-room signals for stop
+    and full speed astern; the narrator goes to the deck, sees thick fog, and hears
+    breakers around the vessel.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+- id: ev:5
+  type: summary
+  locator: lines 82-86
+  quote_or_summary: The fog briefly lifts, revealing reefs and breakers less than
+    150 feet ahead; as the ship backs away, reefs are found to encircle it completely.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+- id: ev:6
+  type: summary
+  locator: lines 86-89
+  quote_or_summary: After the previous sunset, heavy clouds arose; by midnight the
+    sky was black and starless, and the captain is said to have fallen victim to strong,
+    variable currents.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in provided metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are descriptive only
+    because the passage is a travel account and does not present an explicit mythic
+    or ritual narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, common-inheritance, or cross-tradition comparison is asserted from this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l44-l89
+  passage_sha256=b5b4489c20d829c250b486630cfdf7b941385d1784cb883f881e1e892c6c3520
+

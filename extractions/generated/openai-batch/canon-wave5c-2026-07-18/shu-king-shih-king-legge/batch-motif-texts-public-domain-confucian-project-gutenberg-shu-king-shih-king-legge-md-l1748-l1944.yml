@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l1748-l1944
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: INTRODUCTION. / INTRODUCTION. I I / Chapter III. / B.C. 2300.; lines 1748-1944
+  start: '1748'
+  end: '1944'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A modern explanatory passage describes how to use a movable cardboard horizon
+    on an astronomical chart to reconstruct the night sky at sunset during the equinoxes
+    and solstices around B.C. 2300. It compares the resulting star positions with
+    indications attributed in Chinese records to Yao and his astronomers Hsi and Ho,
+    then discusses precession and a calculated table of principal star positions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage instructs the reader to cut paper or cardboard so that its upper
+    edge fits a curved chart line and to draw a line matching the chart's hour-line.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For sunset at the Vernal Equinox, the cardboard is moved until the Sun's equinoctial
+    position touches the horizon curve, revealing which stars are above the horizon.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Vernal Equinox calculation is said to correspond with Yao's indication
+    to Hsi and Ho that Shun Hwo, identified in the passage with a Hydrae, would culminate
+    at sunset.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: For sunset at the Summer Solstice, moving the cardboard to the Sun's solstitial
+    position shows a Serpentis and Antares culminating, with other named stars and
+    constellations setting or rising.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Summer Solstice calculation is said to correspond with Yao's indication
+    that Scorpio would be culminating.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: For sunset at the Winter Solstice, the chart position shows Aries, Taurus,
+    and the Pleiades near culmination, described as a third correspondence with the
+    sovereign's indications.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: For sunset at the Autumnal Equinox, the chart position shows stars in Aquarius
+    culminating, and the passage states that all such indications together fit an
+    epoch around B.C. 2300.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage explains precession by comparing three marked positions of the
+    Pleiades at B.C. 2300, A.D. 1, and A.D. 1878.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A table is introduced as giving calculated apparent positions of principal
+    stars for B.C. 2300, B.C. 1500, A.D. 1, and A.D. 1000.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: reader
+  description: The person instructed to operate the cardboard against the astronomical
+    chart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Yao
+  description: A sovereign alleged in Chinese records to have flourished about B.C.
+    2300 and to have indicated seasonal stellar culminations to his astronomers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hsi and Ho
+  description: Astronomers associated with Yao in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: chart operator
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly instructs the reader to move the cardboard horizon
+    along the chart to test seasonal sky positions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: astronomical sovereign
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Yao as a sovereign and refers to his seasonal astronomical
+    indications.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: astronomers receiving indications
+  assigned_to:
+  - fig:3
+  basis: The passage says Yao indicated the expected stellar condition to his astronomers,
+    named Hsi and Ho.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: movable horizon chart
+  literal_form: A cut sheet of paper or cardboard with a curved upper edge and a marked
+    hour-line used against an astronomical chart.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Sun at seasonal points
+  literal_form: The Sun's positions at the Vernal Equinox, Summer Solstice, Winter
+    Solstice, and Autumnal Equinox.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: seasonal star culminations
+  literal_form: Named stars and constellations, including Shun Hwo/a Hydrae, Scorpio,
+    Aries, Taurus, the Pleiades, and Aquarius, used to mark seasonal sunset conditions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Pleiades under precession
+  literal_form: Three charted positions of the Pleiades marked for B.C. 2300, A.D.
+    1, and A.D. 1878.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparing the movable chart horizon
+  summary: The reader is instructed to cut and mark cardboard so that it can be moved
+    along the chart's hour-line and horizon curve.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vernal Equinox sky correspondence
+  summary: The reader uses the chart to reconstruct the sky at sunset at the Vernal
+    Equinox; the result is presented as matching Yao's indication about Shun Hwo/a
+    Hydrae culminating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Summer Solstice sky correspondence
+  summary: The chart is moved to the Summer Solstice position, producing a stellar
+    configuration said to match Yao's indication that Scorpio would culminate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Winter Solstice sky correspondence
+  summary: The chart is moved to the Winter Solstice position, where Aries, Taurus,
+    and the Pleiades are near culmination; this is called a third correspondence with
+    the sovereign's indications.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Autumnal Equinox sky correspondence and dating
+  summary: The chart is moved to the Autumnal Equinox position, where Aquarius stars
+    culminate; the passage argues that the combined indications fit an epoch near
+    B.C. 2300.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Precession and calculated stellar positions
+  summary: The passage explains precession using the Pleiades and introduces a table
+    of calculated apparent positions of principal stars at several epochs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Seasonal cycle mapped by stellar culminations
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes observations around the Vernal Equinox, Summer Solstice,
+    Winter Solstice, and Autumnal Equinox, each associated with specific stars or
+    constellations culminating at sunset.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an astronomical and scholarly passage rather than a mythic narrative;
+    the motif is a calendrical pattern.
+- id: motif:2
+  label: Wise astronomical ruler
+  taxonomy_refs:
+  - wisdom
+  basis: Yao is presented as an ancient sovereign whose astronomical indications to
+    Hsi and Ho are tested against reconstructed sky positions and repeatedly described
+    as corresponding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not narrate a myth or explicitly state divine wisdom;
+    it presents a scholarly correlation with records attributed to Yao.
+- id: motif:3
+  label: Ancient record validated by celestial correspondence
+  taxonomy_refs: []
+  basis: The passage repeatedly states that calculated stellar positions correspond
+    to the indications attributed to Yao and argues that their simultaneous correctness
+    points to an epoch around B.C. 2300.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a historiographical or astronomical validation pattern, not a
+    named taxonomy motif in the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the results of a modern chart reconstruction with the
+    seasonal astronomical indications attributed to Yao in Chinese records and presents
+    them as corresponding.
+  claim_level: same_function
+  target: Yao's Chinese-record indications of seasonal stellar culminations
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and concerns astronomical
+    correspondence; it does not by itself establish broader mythological transmission
+    or historical causation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1748-1754
+  quote_or_summary: The reader is told to cut paper or cardboard to fit the chart's
+    curved line and to draw a line matching the chart's hour-line.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1755-1768
+  quote_or_summary: At the Vernal Equinox sunset, chart use reveals named stars above
+    the horizon; the passage says this matches Yao's indication to Hsi and Ho that
+    Shun Hwo/a Hydrae would culminate.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1769-1778
+  quote_or_summary: At the Summer Solstice sunset, the chart shows a Serpentis and
+    Antares culminating and other stars rising or setting; the passage says this corresponds
+    to Yao's indication that Scorpio would culminate.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1779-1785
+  quote_or_summary: At the Winter Solstice sunset, the chart shows Aries, Taurus,
+    and the Pleiades near culmination and calls this a third correspondence with the
+    astronomical sovereign's indications.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1786-1794
+  quote_or_summary: At the Autumnal Equinox sunset, stars in Aquarius are shown culminating;
+    the passage states that all these seasonal indications together fit an epoch near
+    B.C. 2300.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1795-1804
+  quote_or_summary: The passage explains precession using three marked positions of
+    the Pleiades at B.C. 2300, A.D. 1, and A.D. 1878, and describes shifting stars
+    parallel to the ecliptic.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1805-1944
+  quote_or_summary: A calculated table of apparent positions of principal stars is
+    introduced for B.C. 2300, B.C. 1500, A.D. 1, and A.D. 1000, followed by tabular
+    data.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The astronomical instructions and named figures are explicit. Motif identification
+    is more tentative because the passage is scholarly exposition rather than narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR-heavy tabular material in the latter part of the passage was summarized only at a high level.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l1748-l1944
+  passage_sha256=d88b070cf1569046386f2512a30abcdff62481b9860c7988470b321c703c06da
+

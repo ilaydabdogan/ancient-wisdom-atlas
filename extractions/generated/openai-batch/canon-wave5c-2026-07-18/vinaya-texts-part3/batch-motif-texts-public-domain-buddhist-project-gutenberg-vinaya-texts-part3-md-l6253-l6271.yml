@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l6253-l6271
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: V, 20, 7- OX THE DAILY LIFE OF THE BHIKKHUS. 12 C / Y, 20, 7. / Y, 21, 2.
+    / KULLAVAGGA.; lines 6253-6271
+  start: '6253'
+  end: '6271'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    has but lately fallen
+    from the condition of being an ox
+  summary: A first-person authority addresses bhikkhus, states that a bhikkhu had
+    lately fallen from the condition of being an ox, permits a ruminator to chew cud,
+    forbids chewing material brought outside the mouth, and says violators are to
+    be dealt with according to law. The passage then begins a new fragment about a
+    certain multitude.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A bhikkhu is described as having lately fallen from the condition of being
+    an ox.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker allows a ruminator to chew cud.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker forbids chewing anything brought from the door of the mouth to
+    the outside of it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anyone who does the forbidden act is to be dealt with according to the law.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Footnotes identify the term Romanthaka and refer to rule breaches and legal
+    provisions, though the supplied text is partly garbled.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A new numbered section begins fragmentarily with the phrase that a certain
+    multitude had.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person speaker
+  description: A speaker who addresses bhikkhus, permits chewing cud for a ruminator,
+    states a prohibition, and prescribes legal handling for violation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: this Bhikkhu
+  description: A bhikkhu described as lately fallen from the condition of being an
+    ox.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhikkhus
+  description: The monks addressed by the speaker as "O Bhikkhus."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: ruminator
+  description: A ruminator to whom the speaker allows the chewing of cud.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: whosoever does so
+  description: A generic person who performs the prohibited chewing act and is subject
+    to legal handling.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: certain multitude
+  description: A group introduced in the fragmentary start of the next numbered section;
+    no completed action is provided in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: rule-giving speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker uses first-person legal language, allowing one act, forbidding
+    another, and stating a consequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: bhikkhu with former ox condition
+  assigned_to:
+  - fig:2
+  basis: The passage states that this bhikkhu had lately fallen from the condition
+    of being an ox.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressed monastic audience
+  assigned_to:
+  - fig:3
+  basis: The speaker repeatedly addresses the hearers as "O Bhikkhus."
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: permitted ruminator
+  assigned_to:
+  - fig:4
+  basis: The speaker explicitly allows a ruminator the chew of the cud.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: possible violator subject to law
+  assigned_to:
+  - fig:5
+  basis: The passage says whosoever performs the prohibited act shall be dealt with
+    according to the law.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: fragmentary group subject
+  assigned_to:
+  - fig:6
+  basis: The next section begins by introducing a certain multitude, but the sentence
+    is incomplete in the supplied passage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ox
+  literal_form: ox
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cud
+  literal_form: chew of the cud
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mouth boundary
+  literal_form: door of the mouth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Instruction on ruminating and mouth-boundary rule
+  summary: The speaker explains the bhikkhu's former ox condition, permits a ruminator
+    to chew cud, forbids chewing matter brought outside the mouth, and states that
+    violators are to be dealt with by law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fragmentary beginning of next case
+  summary: A new numbered section begins with an incomplete statement about a certain
+    multitude.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: former animal condition explaining present conduct
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage links a bhikkhu's present status with having lately fallen from
+    the condition of being an ox, immediately before a rule about ruminating and cud-chewing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: 'The taxonomy reference is uncertain: the excerpt states a former ox condition
+    but does not explicitly narrate death, birth, reincarnation, or transformation.'
+- id: motif:2
+  label: regulated bodily boundary at the mouth
+  taxonomy_refs: []
+  basis: The passage distinguishes permitted cud-chewing from prohibited chewing of
+    material brought from the mouth to the outside, and attaches legal consequences
+    to the prohibited act.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is primarily a disciplinary rule pattern rather than a developed
+    mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6253-6255
+  quote_or_summary: '"This Bhikkhu, O Bhikkhus, has but lately fallen / from the condition
+    of being an ox."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path labels the text public-domain; brief quotation used for
+    extraction.
+- id: ev:2
+  type: quote
+  locator: lines 6254-6258
+  quote_or_summary: '"I allow, O / Bhikkhus, to a ruminator the chew of the cud. /
+    But nothing ... brought from the door / of the mouth to the outside thereof is
+    to be so / chewed."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path labels the text public-domain; brief quotation used for
+    extraction.
+- id: ev:3
+  type: quote
+  locator: lines 6258-6259
+  quote_or_summary: '"Whosoever does so, shall be dealt with / according to the law."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path labels the text public-domain; brief quotation used for
+    extraction.
+- id: ev:4
+  type: note
+  locator: lines 6265-6269
+  quote_or_summary: Footnotes identify "Romanthaka" and refer to rule breaches and
+    legal handling; the supplied OCR text is partly garbled.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path labels the text public-domain; evidence summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6261-6263
+  quote_or_summary: '"26 . / 1. Now at that time a certain multitude had."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path labels the text public-domain; brief quotation used for
+    extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif tagging is cautious because
+    the passage is a brief disciplinary excerpt with a fragmentary next section. No
+    comparison claims were made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external identifications, such as naming the first-person speaker, were added beyond the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l6253-l6271
+  passage_sha256=8ad72d7dcece51a3f42cb041db85e4f133a8897ea2963c9f5aab983934b8ede0
+

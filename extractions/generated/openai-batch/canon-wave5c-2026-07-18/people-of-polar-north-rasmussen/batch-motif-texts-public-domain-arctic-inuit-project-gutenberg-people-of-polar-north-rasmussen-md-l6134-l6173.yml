@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l6134-l6173
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: MAGICIANS / OTAQ, THE MAGICIAN / OTAQ'S WIFE / THE INTERIOR OF OTAQ'S HOUSE,
+    FACING THE ENTRANCE; lines 6134-6173
+  start: '6134'
+  end: '6173'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: '"qildka nauk ? — where are my spirits ?"'
+  summary: The passage first lists alternate terms and glosses for body parts, animals,
+    natural elements, tools, and household items. It then describes a magician calling
+    spirits in a less serious case by laying a person on a sleeping-place, binding
+    a seal-leather thong around the person's head, pulling it, asking where his spirits
+    are, and identifying the helping spirit when the bound head becomes too heavy
+    to lift. The final sentence is incomplete in the supplied excerpt.
+  language: English with Inuit lexical terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives alternate lexical forms for babies, head, headache, and
+    lungs.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists terms or glosses for dog, puppy, sledge, kayak, seal, walrus,
+    bearded seal, white whales or narwhals, bears, reindeer, and fox.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists seal-skin thong, walrus or narwhal tusks, earth, world or
+    air, snow, ice, wind, stone, sea, and birds with alternate names or glosses.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists house, larder, food, clothes, and tent with alternate names
+    or glosses.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The text states that a magician does not always need spirit songs and vehement
+    conjurations to call up spirits.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In a less serious case, a person may be placed on the back on the sleeping-place.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A seal-leather thong is bound around the person's head and pulled up and down.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The magician asks where his spirits are.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When the tightly bound head is too heavy for the magician to raise from the
+    pallet, he declares that it is his helping spirit.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The helping spirit is said to be on the spot and to inspire the magician,
+    but the supplied passage ends before the inspired content is completed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: magician
+  description: A ritual practitioner who calls up spirits, binds and pulls the thong,
+    speaks to the spirits, and identifies the helping spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: person on the sleeping-place
+  description: A person laid on the back on the sleeping-place, with a seal-leather
+    thong bound around the head.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: spirits
+  description: Spirits called up by the magician and addressed in the magician's question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: helping spirit
+  description: The spirit identified by the magician when the bound head becomes too
+    heavy to lift; it is said to be present and to inspire him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: magician or ritual practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes actions performed by a magician in calling
+    spirits.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: ritual subject
+  assigned_to:
+  - fig:2
+  basis: The person is placed on the sleeping-place and has a thong bound around the
+    head during the procedure.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: called spirits
+  assigned_to:
+  - fig:3
+  basis: The magician is said to call up spirits and asks where his spirits are.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: helping spirit and inspirer
+  assigned_to:
+  - fig:4
+  basis: The magician declares the heavy-head sign to be his helping spirit, which
+    is then present and inspires him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: seal-skin or seal-leather thong
+  literal_form: Seal-skin thong named in the lexical list and seal-leather thong bound
+    around a person's head in the rite.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: bound heavy head
+  literal_form: The person's tightly bound head, which becomes too heavy for the magician
+    to lift from the pallet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: sleeping-place or pallet
+  literal_form: The sleeping-place or pallet on which the person is laid during the
+    procedure.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: spirit-calling question
+  literal_form: The magician's spoken question, "where are my spirits?"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lexical list of alternate terms
+  summary: The passage lists ordinary and alternate terms for body parts, animals,
+    conveyances, natural elements, tools, and household items.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Spirit call by head-binding
+  summary: A magician, in a less serious case, calls spirits by placing a person on
+    a sleeping-place, binding a seal-leather thong around the person's head, pulling
+    it, asking where his spirits are, and taking the head's unliftable heaviness as
+    the arrival of his helping spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Spirit-calling without full conjuration
+  taxonomy_refs: []
+  basis: The passage states that a magician does not always require spirit songs and
+    vehement conjurations and may instead use a simpler procedure to call spirits.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage limits this procedure to a less serious case.
+- id: motif:2
+  label: Bodily heaviness as sign of helping-spirit arrival
+  taxonomy_refs: []
+  basis: The tightly bound head becoming too heavy to lift is followed by the magician's
+    declaration that his helping spirit is present.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the mechanism behind the heaviness.
+- id: motif:3
+  label: Magician inspired by helping spirit
+  taxonomy_refs: []
+  basis: After the helping spirit is identified, it is said to be on the spot and
+    to inspire the magician.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The supplied passage ends mid-sentence, so the content or purpose of the
+    inspiration is not available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6134-6136
+  quote_or_summary: Opening lines give alternate forms for babies, head, headache,
+    and lungs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; quote avoided.
+- id: ev:2
+  type: summary
+  locator: lines 6138-6148
+  quote_or_summary: The passage lists terms or glosses for dog, puppy, sledge, kayak,
+    seal, walrus, bearded seal, white whales or narwhals, bears, reindeer, and fox.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; quote avoided.
+- id: ev:3
+  type: summary
+  locator: lines 6150-6158
+  quote_or_summary: The passage lists seal-skin thong, tusks, earth, world or air,
+    snow, ice, wind, stone, sea, and birds with alternate names or glosses.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; quote avoided.
+- id: ev:4
+  type: summary
+  locator: lines 6160-6163
+  quote_or_summary: The passage lists house, larder, food, clothes, and tent with
+    alternate names or glosses.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; quote avoided.
+- id: ev:5
+  type: summary
+  locator: lines 6165-6167
+  quote_or_summary: A magician does not always require spirit songs and vehement conjurations
+    to call up spirits.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; summarized from passage.
+- id: ev:6
+  type: quote
+  locator: lines 6167-6170
+  quote_or_summary: The less serious procedure places a person on the back, binds
+    a seal-leather thong round the head, pulls it, and asks, "where are my spirits?"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; quote kept brief.
+- id: ev:7
+  type: summary
+  locator: lines 6171-6173
+  quote_or_summary: When the bound head is too heavy to raise from the pallet, the
+    magician says it is his helping spirit; the spirit is present and inspires him,
+    though the excerpt ends mid-sentence.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; summarized from passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the excerpt ending mid-sentence. No comparison claims
+    were extracted because the passage itself provides no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage combines a vocabulary list with a short ritual description. No figures named Otaq or Otaq's wife appear in the provided passage text despite the passage label.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l6134-l6173
+  passage_sha256=461a6e865818fc3246d04f283525556c6d94e163c0b23036275c1e394e1a16c4
+

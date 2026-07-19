@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l12665-l12686
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: AVIAJA AND HIS FAMILY / OLD HUNTER, WEST GREENLAND / WHEN RAVENS COULD TALK
+    / THE RAVEN AND THE GREAT NORTHERN DIVER; lines 12665-12686
+  start: '12665'
+  end: '12686'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A tale explains why the raven is entirely black. In a time when birds were
+    receiving their colours, the raven and the Great Northern Diver agree to decorate
+    each other. The raven paints the Diver black with a white pattern, and the Diver
+    paints the raven the same way. The raven becomes angry and calls the pattern ugly,
+    so the annoyed Diver daubs him black all over.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames the story as an explanation for why the raven is entirely
+    black and links this result to the raven's impatience.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:2
+  text: The events occur in a time when birds were receiving their colours and feather
+    patterns.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The raven and the Great Northern Diver meet and agree to decorate each other.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The raven paints the Great Northern Diver black with a white pattern.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Great Northern Diver finds the decoration pretty and paints the raven
+    to match his own pattern.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The raven becomes angry and declares the pattern ugly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The annoyed Great Northern Diver daubs the raven black all over.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The raven's final all-black appearance is presented as the outcome of this
+    exchange.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A bird whose all-black colour is explained by the tale; he first paints
+    the Great Northern Diver and later rejects his own matching pattern.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Great Northern Diver
+  description: A bird who is painted black with a white pattern by the raven, then
+    paints the raven similarly, and finally daubs the raven black all over.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: reciprocal decorator
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two birds agree to decorate each other and each paints the other.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: impatient dissatisfied figure
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the raven's blackness to impatience and describes
+    him becoming angry and rejecting the pattern.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: annoyed responder
+  assigned_to:
+  - fig:2
+  basis: The Great Northern Diver is annoyed by the raven's fussiness and daubs him
+    black all over.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: black colour
+  literal_form: black coloration on birds' feathers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: white feather pattern
+  literal_form: beautiful white pattern painted on black feathers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: decorated feather coat
+  literal_form: painted bird coat or feather pattern
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Birds receive colours
+  summary: In an earlier time, birds are receiving their colours and feather patterns,
+    and the raven and the Great Northern Diver agree to decorate each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reciprocal painting
+  summary: The raven paints the Diver black with a white pattern, and the Diver, liking
+    the result, paints the raven in the same pattern.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Raven made all black
+  summary: The raven angrily rejects the pattern as ugly; the annoyed Diver responds
+    by daubing the raven black all over, producing the raven's present colour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin of an animal's present coloration
+  taxonomy_refs: []
+  basis: The passage explicitly explains why the raven is all black by narrating how
+    he was daubed black during the first distribution of bird colours.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal-colour
+    tales.
+- id: motif:2
+  label: reciprocal animal decoration with unequal outcome
+  taxonomy_refs: []
+  basis: Two birds agree to decorate each other; the Diver keeps the black-and-white
+    pattern while the raven's complaint results in his being made wholly black.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not elaborate beyond this single exchange.
+- id: motif:3
+  label: impatience or fussiness causes a permanent mark
+  taxonomy_refs: []
+  basis: The introduction attributes the raven's blackness to impatience, and the
+    narrative shows his anger and complaint leading to the permanent all-black result.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage uses both impatience and fussiness as causes; it does not
+    state a broader moral formula.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12665-12669
+  quote_or_summary: The passage asks why the raven is entirely black and says it is
+    because of his impatience.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 12670-12674
+  quote_or_summary: In the days when birds were receiving colours and feather patterns,
+    the raven and the Great Northern Diver met and agreed to decorate each other.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 12675-12676
+  quote_or_summary: The raven painted the Diver black with a beautiful white pattern.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 12677-12679
+  quote_or_summary: The Diver liked the result and painted the raven's coat just like
+    his own.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 12680-12683
+  quote_or_summary: The raven grew angry and called the pattern ugly; the annoyed
+    Diver daubed him black all over.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: 12684-12686
+  quote_or_summary: The tale concludes that this is how the raven came to be all black.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and internally clear. Motif labels are descriptive because
+    the supplied taxonomy does not include a direct etiological-animal-colour category.
+    No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no external tradition or taxonomy assumptions added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l12665-l12686
+  passage_sha256=1be02893ad166240cbb45cb92c0033c24105350401a69633e5097cb2c732685e
+

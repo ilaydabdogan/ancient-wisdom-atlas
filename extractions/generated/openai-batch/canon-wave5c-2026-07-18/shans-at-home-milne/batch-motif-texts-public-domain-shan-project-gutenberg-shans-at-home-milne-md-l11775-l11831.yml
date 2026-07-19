@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l11775-l11831
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE STORY OF LITTLE THUMB / THE WOLF AND THE MAN / THE KIND CROW / THE MONKEY
+    AND THE MAN; lines 11775-11831
+  start: '11775'
+  end: '11831'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man herding cattle becomes lost in the jungle while looking for a strayed
+    cow and falls into a deep hole. A monkey rescues him by lowering its tail and
+    then asks to sleep on his lap before guiding him home. The man, disgusted by the
+    monkey's face, strikes it with a stone. The wounded monkey still keeps its promise
+    and guides him to the village from the trees by the drops of blood from its head.
+    After the monkey returns to the jungle, the earth opens and swallows the man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man herding cattle in the jungle searches for a strayed cow and becomes
+    lost after sunset.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man cannot see his tracks, wanders in darkness, falls into a deep hole,
+    and cries aloud through the night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At dawn a monkey looking for fruit hears the man, comes to the edge of the
+    hole, and sees him below.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The monkey asks why the man is at the bottom of the hole, and the man says
+    he cannot climb out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The monkey hangs its tail over the edge of the hole, the man catches it, and
+    the monkey pulls until the man can climb out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The man asks the monkey to show him the way to the village.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The monkey says it is tired from pulling the heavy man, asks to sleep on his
+    lap, and promises afterward to show him the way home.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The monkey curls on the man's lap and sleeps.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The man looks at the monkey's face, is disgusted by its ugliness, forgets
+    its kindness, and strikes the monkey on the head with a stone.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The frightened monkey leaps from the man's lap into a tree and says humans
+    are foolish to forget kindness so quickly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Although afraid to come near the man, the monkey says it will keep its promise
+    and guide him by leaping from branch to branch while the man follows its falling
+    blood drops.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The monkey leads the man to his village, turns back to the jungle, and the
+    earth opens and swallows the man.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A cattle-herding man who becomes lost, is rescued by a monkey, strikes
+    the monkey, is guided home, and is swallowed by the earth.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the monkey
+  description: A monkey searching for fruit that rescues the man with its tail, asks
+    to rest on his lap, is struck on the head, and still guides him home from the
+    trees.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the strayed cow
+  description: One of the man's cows that strays and prompts his search into the forest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cattle herder
+  assigned_to:
+  - fig:1
+  basis: The man is introduced as herding cattle in the jungle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lost trapped person
+  assigned_to:
+  - fig:1
+  basis: The man loses his way, falls into a deep hole, and cannot climb out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: animal rescuer
+  assigned_to:
+  - fig:2
+  basis: The monkey lowers its tail and pulls the man out of the hole.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: promised guide
+  assigned_to:
+  - fig:2
+  basis: The monkey promises to show the man the way home and later guides him to
+    the village.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: beneficiary who harms benefactor
+  assigned_to:
+  - fig:1
+  basis: After being rescued, the man forgets the monkey's kindness and strikes it
+    with a stone.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: wounded guide
+  assigned_to:
+  - fig:2
+  basis: After being struck on the head, the monkey guides the man from the trees
+    by its blood drops.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: strayed animal
+  assigned_to:
+  - fig:3
+  basis: One of the man's cows strays, causing him to seek it in the forest.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: person swallowed by earth
+  assigned_to:
+  - fig:1
+  basis: At the end of the passage the earth opens and swallows the man.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: deep hole
+  literal_form: A deep hole in the forest into which the man falls and from which
+    he cannot climb out.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: monkey's tail as rescue line
+  literal_form: The monkey's tail hanging over the edge of the hole for the man to
+    catch.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stone weapon
+  literal_form: A stone used by the man to hit the monkey on the head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tree and branches
+  literal_form: A tree whose branches the monkey climbs into and from which it leaps
+    while guiding the man.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: blood drops as trail
+  literal_form: Drops of blood falling from the monkey's wounded head for the man
+    to follow.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: earth opening
+  literal_form: The earth opens and swallows the man after he reaches the village.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lost in the jungle and trapped in a hole
+  summary: While searching for a strayed cow, the man becomes lost in the forest at
+    night, falls into a deep hole, and cries aloud.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Monkey rescues the man
+  summary: At dawn the monkey hears the man, lowers its tail into the hole, and pulls
+    until the man can climb out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Request for guidance and rest
+  summary: The man asks to be shown the way to the village, and the tired monkey asks
+    to sleep on his lap before guiding him home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Assault on the sleeping helper
+  summary: The man becomes disgusted by the monkey's face and hits the sleeping monkey
+    on the head with a stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Wounded monkey keeps its promise
+  summary: The monkey flees into a tree, rebukes humans for forgetting kindness, and
+    guides the man from the branches by the drops of blood from its head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Return to village and earth swallowing
+  summary: The monkey leads the man to his village and turns back to the jungle; then
+    the earth opens and swallows the man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Lost human rescued from a pit by an animal helper
+  taxonomy_refs: []
+  basis: The man is trapped in a deep hole and the monkey rescues him by lowering
+    its tail and pulling him out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives no broader mythic classification for the helper beyond
+    the literal monkey.
+- id: motif:2
+  label: Ingratitude toward a benefactor
+  taxonomy_refs: []
+  basis: After the monkey rescues him and asks only to rest, the man forgets the monkey's
+    kindness and strikes it with a stone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is inferred from the explicit sequence and the passage's wording
+    about forgotten kindness.
+- id: motif:3
+  label: Wounded helper keeps a promise
+  taxonomy_refs: []
+  basis: After being wounded, the monkey remains afraid to approach the man but still
+    guides him to the village because it had promised to do so.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No external comparison is asserted.
+- id: motif:4
+  label: Wrongdoer swallowed by the earth after harming a benefactor
+  taxonomy_refs: []
+  basis: The man harms the monkey after receiving aid, and after the monkey leads
+    him home the earth opens and swallows him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state the cause of the earth opening or
+    name a divine agent; the punitive reading rests on narrative sequence.
+- id: motif:5
+  label: Moral warning not to forget kindness
+  taxonomy_refs:
+  - wisdom
+  basis: The wounded monkey explicitly says that humans are foolish to forget the
+    kindness of others so quickly.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wisdom classification is based on the passage's explicit moral speech,
+    not on an external taxonomy citation in the text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11775-11785
+  quote_or_summary: The man herds cattle in the jungle, searches for a strayed cow,
+    becomes lost after sunset, falls into a deep hole, and cries through the night.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 11786-11802
+  quote_or_summary: At dawn a monkey looking for fruit hears and sees the man in the
+    hole, asks why he is there, lowers its tail, and pulls him out.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 11803-11813
+  quote_or_summary: The man asks to be shown the way to the village; the monkey says
+    it is tired from pulling him and asks to sleep on his lap before guiding him home.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 11815-11818
+  quote_or_summary: Seeing the monkey's face, the man is disgusted, forgets its kindness,
+    takes a stone, and hits the monkey on the head.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 11820-11828
+  quote_or_summary: The frightened monkey climbs into a tree, says humans foolishly
+    forget kindness, and says it will guide the man from branch to branch by the blood
+    falling from its wounded head.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 11829-11831
+  quote_or_summary: The monkey leads the man to his village and returns to the jungle;
+    then the earth opens and swallows the man.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage-level events are clear. Motif labels are candidate analytic descriptions
+    based only on the passage. No comparison claims are made because the passage itself
+    does not cite another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Taxonomy references are limited to the provided available taxonomy list.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l11775-l11831
+  passage_sha256=27ce694c10352bb2d4f9282df6300695e144f15a52391314607688f6c34c5e84
+

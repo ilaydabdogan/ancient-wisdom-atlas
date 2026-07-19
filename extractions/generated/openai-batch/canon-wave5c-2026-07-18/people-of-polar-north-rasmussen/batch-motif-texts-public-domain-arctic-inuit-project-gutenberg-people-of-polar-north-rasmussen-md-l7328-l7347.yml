@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l7328-l7347
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE WOMAN WHO MADE CLOTHES OF RAVEN'S / FEATHERS / THE GLUTTON / ISERAQ,
+    WHO STOLE; lines 7328-7347
+  start: '7328'
+  end: '7347'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage tells of Iseraq, who has one natural leg and one leg made from
+    a walrus rib, yet can run well. He steals meat from other people's meat-pits,
+    hides it under stones, and retrieves it at night. A man hides in a meat-pit to
+    catch the thief, seizes Iseraq by the wrist, and cuts off his hand. Iseraq remarks
+    that his wrist tingles, and afterward stops stealing from meat-pits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Iseraq is described as having only one leg, with his other leg made from the
+    rib of a walrus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Despite his unusual leg, Iseraq can run and is said to catch foxes on foot.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Iseraq steals from other people's meat-pits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Iseraq buries what he steals in the ground and covers it with stones.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Iseraq brings the stolen goods home at night while other people are asleep.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A man has himself fastened up in a meat-pit in order to discover the thief.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When Iseraq reaches into the meat-pit, the man seizes him by the wrist and
+    cuts off his hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Iseraq says that his wrist tingles after his hand is cut off.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the incident, Iseraq no longer steals from meat-pits.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Iseraq
+  description: A one-legged man whose other leg is made of a walrus rib; he is able
+    to run, steals from meat-pits, and later loses a hand when caught.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man in the meat-pit
+  description: A man who hides or is fastened in a meat-pit to discover the thief
+    and cuts off Iseraq's hand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Qisunguaq
+  description: Named as the young man who told the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: thief
+  assigned_to:
+  - fig:1
+  basis: The passage states that Iseraq is a great thief who steals from other people's
+    meat-pits.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: physically unusual runner
+  assigned_to:
+  - fig:1
+  basis: Iseraq has one leg made from a walrus rib but can still run and catch foxes
+    on foot.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: thief-catcher
+  assigned_to:
+  - fig:2
+  basis: The man has himself fastened in a meat-pit to discover the thief and seizes
+    Iseraq when he comes to steal.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: storyteller
+  assigned_to:
+  - fig:3
+  basis: The passage ends by attributing the tale to Qisunguaq, identified as a young
+    man.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: walrus-rib leg
+  literal_form: a leg made of the rib of a walrus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: meat-pit
+  literal_form: other people's meat-pits and the meat-pit where the man waits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: buried stolen meat under stones
+  literal_form: stolen goods buried in the ground and covered with stones
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cut-off hand
+  literal_form: Iseraq's hand cut off at the wrist
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: night theft
+  literal_form: bringing stolen goods home at night while others sleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Iseraq's bodily description and running ability
+  summary: Iseraq is introduced as having one natural leg and one walrus-rib leg,
+    yet he can run and catch foxes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Theft from meat-pits
+  summary: Iseraq steals from other people's meat-pits, hides the stolen goods under
+    stones, and retrieves them at night.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ambush in the meat-pit
+  summary: A man waits inside a meat-pit to identify the thief, seizes Iseraq by the
+    wrist when he reaches in, and cuts off his hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: End of meat-pit thefts
+  summary: Iseraq comments on the tingling of his wrist and afterward stops stealing
+    from meat-pits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: thief steals hidden food stores
+  taxonomy_refs: []
+  basis: Iseraq repeatedly steals from other people's meat-pits and hides the stolen
+    goods before taking them home at night.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents ordinary theft from stored meat, not a clearly sacred
+    or culture-founding theft.
+- id: motif:2
+  label: trap set for an unknown thief
+  taxonomy_refs: []
+  basis: A man has himself fastened in a meat-pit in order to discover the thief and
+    catches Iseraq when he reaches inside.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe how the man learns to set the trap or any
+    ritual context for it.
+- id: motif:3
+  label: mutilation as deterrent to theft
+  taxonomy_refs: []
+  basis: Iseraq's hand is cut off when he is caught stealing, and afterward he no
+    longer steals from meat-pits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the sequence but does not explicitly frame the act
+    as punishment beyond its deterrent outcome.
+- id: motif:4
+  label: extraordinary mobility despite bodily alteration
+  taxonomy_refs: []
+  basis: Iseraq has one leg made from a walrus rib but is still able to run and catch
+    foxes on foot.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the bodily detail and ability without explaining its
+    origin or wider significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7328-7332
+  quote_or_summary: Iseraq is said to have only one leg, with the other made of a
+    walrus rib; he can still run and catch foxes on foot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7334-7338
+  quote_or_summary: Iseraq is called a great thief; he steals from other people's
+    meat-pits, buries the stolen goods under stones, and brings them home at night
+    while others sleep.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7340-7343
+  quote_or_summary: A man has himself fastened in a meat-pit to discover the thief;
+    when Iseraq reaches in to steal, the man seizes his wrist and cuts off his hand.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in request metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7345-7346
+  quote_or_summary: Iseraq remarks that his wrist tingles, and after that he never
+    steals from meat-pits.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in request metadata.
+- id: ev:5
+  type: citation
+  locator: line 7347
+  quote_or_summary: The tale is attributed to Qisunguaq, identified as a young man.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not specified in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and concrete, supporting high confidence for figures,
+    actions, and sequence. Motif labels are descriptive and not assigned to taxonomy
+    families because the available taxonomy does not directly fit the non-sacred theft
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l7328-l7347
+  passage_sha256=4fab1eab472131b69fcf3105b4acfbda37d59c3e5af00312542ee13c640a438f
+

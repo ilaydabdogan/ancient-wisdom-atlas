@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l10598-l10633
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: KV LLAVAGGA. / CTJLLAVAGGA. / SEVENTH KHANDHAKA. / I 1 .; lines 10598-10633
+  start: '10598'
+  end: '10633'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens the Seventh Khandhaka on dissensions in the Order. The
+    Blessed One is staying at Anupiya, a town associated with the Mallas. Distinguished
+    young men of the Sakya clan have renounced the world in imitation of the Blessed
+    One. Two Sakyan brothers, Mahinama and Anuruddha, are introduced; Anuruddha is
+    described as delicately nurtured and as having three storeyed residences for the
+    cold, hot, and rainy seasons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as the Seventh Khandhaka and concerns dissensions in
+    the Order.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blessed One was staying at Anupiya.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Anupiya is described as a town belonging to the Mallas.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Distinguished young men of the Sakya clan had renounced the world in imitation
+    of the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mahinama the Sakyan and Anuruddha the Sakyan are identified as two brothers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Anuruddha the Sakyan is described as delicately nurtured.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Anuruddha had three storeyed residences: one for the cold season, one for
+    the hot season, and one for the season of the rains.'
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: A revered figure staying at Anupiya; Sakya youths renounce the world
+    in imitation of him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Distinguished young men of the Sakya clan
+  description: A collective group who had renounced the world in imitation of the
+    Blessed One.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mahinama the Sakyan
+  description: One of two Sakyan brothers, paired with Anuruddha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Anuruddha the Sakyan
+  description: One of two Sakyan brothers; described as delicately nurtured and as
+    having three seasonal storeyed residences.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Resident at Anupiya
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Blessed One was staying at Anupiya.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Exemplar for renunciation
+  assigned_to:
+  - fig:1
+  basis: The Sakya youths are said to have renounced the world in imitation of the
+    Blessed One.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Renunciants from the Sakya clan
+  assigned_to:
+  - fig:2
+  basis: The group is described as having renounced the world.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Brothers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Mahinama and Anuruddha are introduced as two brothers.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Delicately nurtured youth with seasonal residences
+  assigned_to:
+  - fig:4
+  basis: Anuruddha is described as delicately nurtured and as possessing three residences
+    for different seasons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Three seasonal residences
+  literal_form: 'Three storeyed residences: one for the cold season, one for the hot
+    season, and one for the rainy season.'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Blessed One at Anupiya
+  summary: The Blessed One is situated at Anupiya, described as a town belonging to
+    the Mallas.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Sakya youths renounce in imitation
+  summary: Distinguished young men from the Sakya clan renounce the world in imitation
+    of the Blessed One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Introduction of Mahinama and Anuruddha
+  summary: The passage introduces the brothers Mahinama and Anuruddha; Anuruddha is
+    characterized by delicate upbringing and three residences fitted to the seasons.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Renunciation as departure from worldly life
+  taxonomy_refs:
+  - departure
+  basis: The passage states that distinguished Sakya youths renounced the world in
+    imitation of the Blessed One.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives the renunciation in summary and does not narrate individual
+    departure episodes.
+- id: motif:2
+  label: Sibling pair introduced before religious narrative development
+  taxonomy_refs:
+  - sibling_pair
+  basis: Mahinama and Anuruddha are introduced explicitly as two brothers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt establishes the sibling relation but does not yet show a shared
+    action, conflict, or paired mythic function.
+- id: motif:3
+  label: Sheltered or privileged youth marked by seasonal residences
+  taxonomy_refs: []
+  basis: Anuruddha is described as delicately nurtured and as possessing separate
+    residences for cold, hot, and rainy seasons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a recognizable narrative characterization in the passage, but
+    the excerpt does not complete its later function.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note says the whole following story may be compared with a fuller
+    account in the Dhammapada commentary.
+  claim_level: same_motif
+  target: Dhammapada commentary account noted by the editor, Fausboll pp. 139 and
+    following
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared account is not included in the provided passage; the claim
+    rests only on the passage's editorial note.
+- id: claim:2
+  claim: An editorial note compares the detail of Anuruddha's seasonal residences
+    with a similar detail said of Yasa in Mahavagga I.7.1.
+  claim_level: same_function
+  target: Mahavagga I.7.1 detail about Yasa
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared Mahavagga passage is not included; the claim is limited
+    to the editor's statement that the same thing is said there.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10598-10603
+  quote_or_summary: The section is titled Seventh Khandhaka, with the subject heading
+    'Dissensions in the Order,' and begins I.1.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10604-10606
+  quote_or_summary: The Blessed One is said to be staying at Anupiya, which is described
+    as a town belonging to the Mallas.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10606-10609
+  quote_or_summary: The most distinguished young men of the Sakya clan had renounced
+    the world in imitation of the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 10610-10614
+  quote_or_summary: Mahinama the Sakyan and Anuruddha the Sakyan are introduced as
+    two brothers; Anuruddha is described as delicately nurtured.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 10614-10618
+  quote_or_summary: Anuruddha had three storeyed residences, one for the cold season,
+    one for the hot season, and one for the rainy season.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: note
+  locator: footnote 1 within lines 10598-10633
+  quote_or_summary: The editor notes that the whole following story may be compared
+    with a fuller account in the Dhammapada commentary, Fausboll pp. 139 and following.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: note
+  locator: footnote 4 within lines 10598-10633
+  quote_or_summary: The editor notes a comparison with Mahavagga I.7.1, where the
+    same thing is said of Yasa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the excerpt is introductory and does not include the later development of the
+    narrative. Comparison claims rely only on editorial notes in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No culture, tradition, text language, or rights metadata were supplied beyond the source path and passage text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l10598-l10633
+  passage_sha256=816a61db8bac113e844bbacbebb84909255bcbc5839e92eb1e5049e7198423b0
+

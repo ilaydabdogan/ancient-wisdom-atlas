@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l8861-l8969
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: BOOK Il. THE THAN KUNG. / SECT. I. PT. II, THE THAN KUNG. IAI / SECT. II.
+    PT. II. THE THAN KUNG. IOI / APPENDIX, TO BOCK UL; lines 8861-8969
+  start: '8861'
+  end: '8969'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary and OCR-corrupted kinship or mourning chart lists relatives
+    by descent, collateral relation, marriage, and marital status, with several mourning
+    durations such as one year, six months, and three months attached to particular
+    relatives.
+  language: English, with OCR corruption
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a chart or diagram rather than as a narrative,
+    with repeated labels such as “Married” and “Single” alongside kinship terms.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Female kin labels appear, including cousin categories, sister, niece, grand-niece,
+    and great-grand-niece.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The chart includes descendant or younger-family labels such as sons, grandsons,
+    great-grandson’s wife, and great-grandson’s son.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An ancestor sequence appears with labels for great-great-grandmother, great-grandfather,
+    grandfather, and father, with mourning periods attached to several of them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Some relatives have explicit durations attached: great-great-grandmother
+    is associated with three months, great-grandfather with six months, grandfather
+    with one year, eldest son of wife with one year, and uncle and wife with one year.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Collateral and affinal relatives are listed, including great-grand-uncle and
+    wife, grandfather’s first cousin and wife, grand-uncle and wife, uncle and wife,
+    father’s first cousin and wife, sister-in-law, father’s first cousin once removed
+    and wife, first cousin once removed, and wife of first cousin once removed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ancestor kin categories
+  description: 'Grouped kinship labels in the passage: great-great-grandmother, great-grandfather,
+    grandfather, and father.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Descendant kin categories
+  description: 'Grouped kinship labels in the passage: sons, grandsons, great-grandson’s
+    wife, and great-grandson’s son.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Collateral and affinal kin categories
+  description: Grouped kinship labels in the passage include uncles, cousins, wives
+    of relatives, and sister-in-law.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ancestor relation
+  assigned_to:
+  - fig:1
+  basis: The passage lists father, grandfather, great-grandfather, and great-great-grandmother
+    as kin categories.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: descendant relation
+  assigned_to:
+  - fig:2
+  basis: The passage lists sons, grandsons, and great-grandson-related categories.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: collateral or affinal relation
+  assigned_to:
+  - fig:3
+  basis: The passage lists cousins, uncles, wives of relatives, and sister-in-law.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Non-narrative kinship and mourning chart fragment
+  summary: The passage presents a diagram-like listing of kinship categories, marital-status
+    markers, and mourning durations; no narrative action is described.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Kinship-graded mourning obligations
+  taxonomy_refs: []
+  basis: Several kin categories are paired with mourning durations, including one
+    year, six months, and three months.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a ritual or social classification pattern rather than a mythic
+    narrative motif.
+- id: motif:2
+  label: Genealogical classification by descent, collateral relation, and marriage
+  taxonomy_refs: []
+  basis: The passage arranges ancestor, descendant, cousin, uncle, wife, and in-law
+    categories, with repeated married/single status labels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The chart is heavily OCR-corrupted, so the exact structure and some kin
+    labels are uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8861-8880
+  quote_or_summary: "“Married, Married, Married. (1 year.) ... 1st Cousin once removed.
+    1st Cousin (female.) Sister. ... Married. Single. Married. Single.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain; rights_status metadata was not
+    supplied.
+- id: ev:2
+  type: quote
+  locator: lines 8881-8900
+  quote_or_summary: "“2nd Cousin (female.) Niece. ... Sons ... Wife ... Grand-sons
+    ... Great-grand-niece ... Great-grand-son’s ... Great-grand-son’s Son’s”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain; rights_status metadata was not
+    supplied.
+- id: ev:3
+  type: quote
+  locator: lines 8901-8916
+  quote_or_summary: "“Great-great-grand- / Sother. / (3 months.) ... Great-grand-father.
+    / (6 months.) / Grandfather. / (1 year.) / Father.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain; rights_status metadata was not
+    supplied.
+- id: ev:4
+  type: quote
+  locator: lines 8917-8945
+  quote_or_summary: "“Eldest Son / of Wife. / (1 year-) ... Great-grand-uncle and
+    Wife. ... Grandfather's lat Cousin / and Wife. ... Grand-uncle and Wife. ... Uncle
+    and Wife. / (1 year.) ... Father’s 1st Cousin / and Wife.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain; rights_status metadata was not
+    supplied.
+- id: ev:5
+  type: quote
+  locator: lines 8946-8969
+  quote_or_summary: "“Sister-in / law. ... Father’s 1st Cousin once / removed, and
+    Wife. ... 1st Cousin / once / removed. ... Wife of 1st / Cousin once / removed.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source path indicates public-domain; rights_status metadata was not
+    supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly a non-narrative kinship/mourning diagram and is substantially
+    OCR-corrupted. Literal kinship and duration patterns are extractable, but exact
+    chart structure is uncertain. No cross-traditional comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif-family or symbol reference was assigned; the extracted candidate motifs are local ritual/social patterns from the passage only.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l8861-l8969
+  passage_sha256=054b826408bc3c8d060e0c41469c49c58f2a8d39278d756c47786b15d2b29dc3
+

@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l11297-l11444
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: SEVENTH KHANDHAKA. / VIII, 12, 2. / VH, 3. THE KATIIINA CEREMONIES. T59 /
+    NINTH KHANDHAKA.; lines 11297-11444
+  start: '11297'
+  end: '11444'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives Vinaya procedural rules for when a protest in an assembly
+    is effectual, when expulsion is duly or unduly pronounced, when restoration after
+    expulsion is duly or unduly granted, and when expulsion for refusing to acknowledge,
+    atone for, or renounce something is unlawful.
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A protest raised in an assembly is described as effectual when notice of the
+    protest is given at the meeting under the stated condition.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage divides expulsion into duly and unduly pronounced cases when expulsion
+    had not previously been pronounced against a person.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the Saṅgha pronounces expulsion against a pure, guiltless Bhikkhu, the
+    expulsion is described as unduly pronounced.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the Saṅgha pronounces expulsion against an ignorant, unlearned Bhikkhu
+    who is a constant offender, cannot discern offences, and lives in lay society,
+    the expulsion is described as duly pronounced.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage divides restoration into duly and unduly granted cases when restoration
+    had not previously been granted to a person.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Restoration granted by the Saṅgha to a eunuch or to a person who has furtively
+    attached himself to the Saṅgha is described as unduly granted.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A Bhikkhu may be reproved by the Saṅgha, by a number of Bhikkhus, or by a
+    single person and asked whether he sees an offence, should atone for an offence,
+    or should renounce a false doctrine.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:8
+  text: When there is no offence or false doctrine to acknowledge, atone for, or renounce,
+    and the Bhikkhu denies that there is one, expulsion for refusal is called an unlawful
+    act.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: When there is an offence and the Bhikkhu says that he sees it, expulsion for
+    a pretended refusal to see that offence is called an unlawful act.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Saṅgha
+  description: The monastic community that can pronounce expulsion, grant restoration,
+    and reprove a Bhikkhu.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monks addressed in the passage and also named as possible reprovers
+    when acting as a number of Bhikkhus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Reproved Bhikkhu
+  description: A Bhikkhu who is told that he has committed an offence and who replies
+    about whether there is an offence to see or atone for.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Pure, guiltless Bhikkhu
+  description: A Bhikkhu whose expulsion is unduly pronounced if the Saṅgha expels
+    him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ignorant, unlearned constant offender
+  description: A Bhikkhu described as ignorant, unlearned, a constant offender, unable
+    to discern what is an offence, and living in lay society.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Eunuch
+  description: A person whose restoration by the Saṅgha is described as unduly granted
+    when restoration had not previously been granted.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Person furtively attached to the Saṅgha
+  description: A person who has furtively attached himself to the Saṅgha and whose
+    restoration is described as unduly granted.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Single reproving person
+  description: A single person who may reprove a Bhikkhu and ask him to acknowledge
+    or atone for an offence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: Adjudicating communal body
+  assigned_to:
+  - fig:1
+  basis: The Saṅgha pronounces expulsion and grants restoration.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: Subject of disciplinary act
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These persons are described as being reproved, expelled, or restored.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:3
+  label: Wrongly expelled innocent party
+  assigned_to:
+  - fig:4
+  basis: The expulsion of a pure, guiltless Bhikkhu is said to be unduly pronounced.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Offender subject to duly pronounced expulsion
+  assigned_to:
+  - fig:5
+  basis: The ignorant, unlearned constant offender is the example of a person against
+    whom expulsion is duly pronounced.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Person ineligible for restoration in the stated cases
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The restoration of these persons is described as unduly granted.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Reprover
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:8
+  basis: The passage says that the Saṅgha, a number of Bhikkhus, or a single person
+    may reprove the Bhikkhu.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols: []
+scenes:
+- id: scene:1
+  label: Effectual protest in assembly
+  summary: A person gives notice of protest at the meeting, and the protest raised
+    in the assembly is described as effectual under the stated condition.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Duly and unduly pronounced expulsion
+  summary: The passage distinguishes unduly pronounced expulsion of a pure, guiltless
+    Bhikkhu from duly pronounced expulsion of an ignorant, unlearned constant offender.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Duly and unduly granted restoration
+  summary: The passage states that restoration may be duly or unduly granted and gives
+    examples of persons whose restoration is unduly granted.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Unlawful expulsion after denial of a nonexistent offence
+  summary: A Bhikkhu is reproved about an offence or false doctrine; when no such
+    matter exists and he denies it, expulsion for refusal to see, atone for, or renounce
+    is called unlawful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Unlawful expulsion after acknowledgement
+  summary: When an offence exists and the Bhikkhu says he sees it, expulsion for a
+    pretended refusal to see the offence is called unlawful.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Validity and invalidity of communal disciplinary acts
+  taxonomy_refs: []
+  basis: The passage repeatedly classifies expulsion and restoration as duly or unduly
+    performed, and classifies some expulsions as unlawful acts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a legal-procedural pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: Wrongful exclusion of the innocent
+  taxonomy_refs: []
+  basis: The expulsion of a pure, guiltless Bhikkhu is described as unduly pronounced,
+    and expulsion based on a nonexistent offence is described as unlawful.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage treats the issue as monastic legal procedure, not as a narrative
+    of exile or persecution.
+- id: motif:3
+  label: Exclusion and readmission governed by eligibility rules
+  taxonomy_refs: []
+  basis: The passage pairs expulsion rules with restoration rules and names persons
+    whose restoration is unduly granted.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text gives procedural categories; it does not frame restoration as
+    a symbolic rebirth or initiation.
+- id: motif:4
+  label: Accusation, denial, acknowledgement, and lawful consequence
+  taxonomy_refs: []
+  basis: The passage presents formal reproof dialogues in which a Bhikkhu is asked
+    to see or atone for an offence, and the legality of expulsion depends on whether
+    the offence exists and how the Bhikkhu replies.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is extracted as a procedural pattern; no broader symbolic meaning
+    is asserted.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note connects the expulsion rules in this passage with other
+    Vinaya rules regarding pabbajaniyakamma, supporting only a same-function comparison
+    within the Vinaya legal corpus.
+  claim_level: same_function
+  target: Cullavagga I,13 seq. and note at I,79,1, as cited in the passage note
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an editorial cross-reference and does not establish
+    a mythological motif, historical contact, or common inheritance claim.
+- id: claim:2
+  claim: An editorial note states that the list of persons whose restoration is valid
+    is the same as at another cited Vinaya passage, supporting a same-function comparison
+    for restoration eligibility lists.
+  claim_level: same_function
+  target: Vinaya I,71,1, as cited in the passage note
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The actual list is not reproduced in the supplied passage, so the comparison
+    is limited to the note's statement.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11297-11444; opening paragraph before §9
+  quote_or_summary: A protest raised in the assembly is described as effectual when
+    notice of the protest is given at the meeting under the stated condition.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 11297-11444; §9 opening
+  quote_or_summary: 'The passage states that there are two cases of expulsion: some
+    pronounced duly and others unduly when no prior expulsion had been pronounced.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 11297-11444; §9, unduly pronounced expulsion
+  quote_or_summary: If the Saṅgha pronounces expulsion against a pure, guiltless Bhikkhu,
+    the expulsion is called unduly pronounced.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 11297-11444; §9, duly pronounced expulsion
+  quote_or_summary: If the Saṅgha pronounces expulsion against an ignorant, unlearned
+    Bhikkhu who is a constant offender, unable to discern offences, and living in
+    lay society, the expulsion is called duly pronounced.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 11297-11444; §10 opening
+  quote_or_summary: 'The passage states that there are two cases of restoration: some
+    granted duly and others unduly when no prior restoration had been granted.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 11297-11444; §10, unduly granted restoration
+  quote_or_summary: Restoration of a eunuch and of a person who has furtively attached
+    himself to the Saṅgha is described as unduly granted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:7
+  type: summary
+  locator: lines 11297-11444; §11
+  quote_or_summary: The passage asks which person has been restored duly, but the
+    formality is abbreviated with a note saying the repetition is not supplied in
+    full.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:8
+  type: summary
+  locator: lines 11297-11444; [n] §1
+  quote_or_summary: When no offence exists for a Bhikkhu to see, atone for, or no
+    false doctrine exists to renounce, reproof followed by denial and expulsion for
+    refusal is described as unlawful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:9
+  type: summary
+  locator: lines 11297-11444; [n] §2
+  quote_or_summary: When there is no offence to see or atone for, and the Bhikkhu
+    replies that there is none, expulsion for refusal to see or atone is described
+    as unlawful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:10
+  type: summary
+  locator: lines 11297-11444; [n] §§6-7
+  quote_or_summary: When an offence exists and the Bhikkhu says he sees it, expulsion
+    for his pretended refusal to see the offence is described as unlawful; an analogous
+    atonement case follows.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:11
+  type: note
+  locator: lines 11297-11444; footnote to §9
+  quote_or_summary: The note directs the reader to compare rules regarding pabbajaniyakamma
+    in Cullavagga I,13 seq. and a note at I,79,1.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+- id: ev:12
+  type: note
+  locator: lines 11297-11444; footnote to §11
+  quote_or_summary: The note says the formality and repetitions are the same as in
+    §10 and that the list of persons whose restoration is valid is the same as at
+    I,71,1.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: No explicit rights status supplied in metadata; source path identifies
+    a public-domain Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is procedural Vinaya material, so literal extraction is strong,
+    while motif identification is limited to legal and communal-order patterns rather
+    than mythic symbols.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied taxonomy were identified in this passage. Taxonomy motif references were left empty because the passage does not directly support the listed mythological motif families.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l11297-l11444
+  passage_sha256=cc92c86514e508d59319a157f0e436f945387baa056f0db069279d087ef4fb35
+

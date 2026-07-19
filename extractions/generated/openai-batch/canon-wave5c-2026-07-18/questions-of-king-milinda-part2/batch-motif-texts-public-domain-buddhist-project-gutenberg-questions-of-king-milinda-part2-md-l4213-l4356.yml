@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part2-md-l4213-l4356
+source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+passage_locator:
+  label: KING MI LIN DA. / BOOK IV. / Chapter 5. / P-5)-; lines 4213-4356
+  start: '4213'
+  end: '4356'
+  translation: questions-of-king-milinda-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: there is no soul, neither being, in water
+  summary: A dialogue argues that water's sounds and movements under heat, in vessels,
+    and in the ocean do not show an indwelling soul or being; they are attributed
+    to external physical causes such as heat, fire, or force.
+  language: English with some Pali and Sinhalese terms in notes
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An opening note says the belief in such a soul is attributed to referred-to
+    teachers and not to Buddhists.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says water affected by hot winds may vanish away without hissing
+    or simmering.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker concludes from the example that there is no soul or being in water
+    and that heat causes water to make sounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Water with grains of rice in a covered vessel, not placed over a fireplace,
+    is said to remain quiet and unmoved.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same water placed over a fireplace and heated is described as moving,
+    becoming agitated, forming waves, boiling over, and producing foam.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Water kept in closed water-pots in houses is described as remaining still
+    and quiet.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The ocean is described as moving, roaring, breaking against the strand, and
+    lifting itself high toward the sky.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage is structured as a question-and-answer exchange between a speaker
+    and the king.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A royal interlocutor addressed as “O king,” who answers the speaker's
+    questions and says he has heard and seen the ocean's waters rise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the speaker addressed as Sir
+  description: The interlocutor who questions the king, gives examples involving water,
+    heat, vessels, and the ocean, and states the conclusion that there is no soul
+    or being in water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: questioned royal respondent
+  assigned_to:
+  - fig:1
+  basis: The figure is addressed as king and replies to questions with answers such
+    as “Certainly not, Sir.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: reason-giving interlocutor
+  assigned_to:
+  - fig:2
+  basis: The figure presents successive examples and draws the stated inference about
+    water lacking a soul or being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water in holes, ponds, vessels, water-pots, and the ocean
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: fire and heat
+  literal_form: Heat of fire, hot winds, fireplace, and lit fire beneath a vessel
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: vessel and water-pot
+  literal_form: A covered vessel with water and rice; closed water-pots in houses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: ocean surge
+  literal_form: Great ocean water roaring, breaking against the strand, and lifting
+    high toward the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Water affected by heat without being alive
+  summary: The speaker asks whether water affected by hot winds gives forth sounds;
+    the king denies this, and the speaker says this supports the conclusion that water
+    has no soul or being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Vessel over the fireplace
+  summary: The speaker contrasts unheated water with rice in a covered vessel, which
+    remains still, with the same water over a lit fireplace, which becomes agitated,
+    makes sounds, and foams; the conclusion again rejects a soul in water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Still water-pots and roaring ocean
+  summary: The speaker contrasts still household water-pots with the great ocean,
+    which is said to roar, break on the shore, and rise high toward the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dialogic refutation through examples of water
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker uses repeated questions and examples to lead the king toward
+    a doctrinal conclusion about water not containing a soul or being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is philosophical and didactic rather than a mythic narrative;
+    the supplied taxonomy ref “wisdom” is broad.
+- id: motif:2
+  label: Animated appearance explained as non-sentient elemental motion
+  taxonomy_refs: []
+  basis: Moving, sounding, boiling, foaming, and roaring water is repeatedly explained
+    or framed as caused by external conditions rather than by life or soul in the
+    water itself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a recurring argumentative pattern in the passage, not a named
+    taxonomy motif in the supplied motif-family list.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note explicitly directs comparison between the belief in such
+    a soul and heretical opinions described in Digha II, 20 and 26.
+  claim_level: same_function
+  target: Digha II, 20 and 26, described in the note as heretical opinions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by an editorial note; the referenced Digha
+    passages are not included here, so the content of the comparison cannot be independently
+    assessed from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4213-4222
+  quote_or_summary: 'Opening notes state that belief in such a soul is held by referred-to
+    teachers, not Buddhists, and add: “Compare the heretical opinions described in
+    the Digha II, 20, and 26.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+  rights_note: Source path labels public-domain; supplied rights_status metadata is
+    empty.
+- id: ev:2
+  type: summary
+  locator: 4223-4247
+  quote_or_summary: Water in holes, ponds, pools, lakes, reservoirs, wells, and lotus-tanks
+    may vanish under hot winds without hissing or simmering; the speaker concludes
+    that there is “no soul, neither being, in water” and that heat causes sounds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+  rights_note: Source path labels public-domain; supplied rights_status metadata is
+    empty.
+- id: ev:3
+  type: summary
+  locator: 4248-4317
+  quote_or_summary: Water with rice in a covered vessel is quiet when unheated, but
+    over a lit fireplace it becomes agitated, forms waves, boils over, and foams;
+    the king attributes the sound to the heat of fire, and the speaker repeats that
+    there is no soul in water.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+  rights_note: Source path labels public-domain; supplied rights_status metadata is
+    empty.
+- id: ev:4
+  type: summary
+  locator: 4318-4356
+  quote_or_summary: Household water in closed water-pots remains still, while the
+    great ocean is said to rear up, roar, break against the shore, and lift itself
+    a hundred or two hundred cubits high toward the sky.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+  rights_note: Source path labels public-domain; supplied rights_status metadata is
+    empty.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the dialogue and water/fire examples. Motif
+    labeling is cautious because the passage is doctrinal argument rather than mythic
+    narrative. The single comparison claim is based only on the passage's own note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, taxonomy identifiers, or cross-text comparisons were added beyond what the supplied passage and available taxonomy support.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part2-md__l4213-l4356
+  passage_sha256=1c5ceba4a0e95776bd2f8a36619224b0761fc8b6b13c8aec0bc9b62bb18e4181
+

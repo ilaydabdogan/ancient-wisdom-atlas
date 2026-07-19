@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l4755-l4805
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: V, II, 4. / XULLAVAGGA. / ON THE DAILY LIFE OF THE BHIKKHUS. IOI / V, 14
+    , 3- ON THE DAILY LIFE OF THE BHIKKHUS.; lines 4755-4805
+  start: '4755'
+  end: '4805'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes practical allowances for monks: a cloister hall
+    is permitted when monks suffer from heat and cold while walking in the open air;
+    coverings, plastering, coloring, decorative work, hooks, cupboards, and robe-hanging
+    fixtures are allowed; the same provisions are repeated for a hot-bath house; and
+    a door with structural fittings is allowed for a bath house that lacked one.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhikkhus walking up and down in the open air are described as distressed by
+    heat and cold.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhikkhus report the matter to the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Blessed One permits the use of a hall for the cloister.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Straw and plaster fall from the walls and roof into the cloister-hall.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Blessed One permits covering the walls and roof before plastering them
+    and permits whitewash, blacking, red coloring, wreath-work, creeper-work, bone
+    hooks, cupboards, bamboos, and strings for hanging robes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that the preceding material is repeated for the hot-bath
+    house.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The bath house is said to have no door.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Blessed One permits a door for the bath house with door-posts, lintel,
+    pivot hollows, and projections.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: Monks who walk in the open air, experience heat and cold, report the
+    matter, and receive permissions concerning monastic buildings and fixtures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Blessed One
+  description: Authority figure who grants allowances for the cloister hall, wall
+    and roof treatments, fixtures, and bath-house door.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: monastic recipients of practical allowances
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhus report practical problems and are addressed in the permissions
+    granted.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:2
+  label: rule-giving authority
+  assigned_to:
+  - fig:2
+  basis: The Blessed One repeatedly states what he allows the Bhikkhus to use.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: cloister hall
+  literal_form: hall for the cloister
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: monastic wall and roof treatments
+  literal_form: covering, plaster, whitewash, blacking, red coloring, wreath-work,
+    and creeper-work
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: robe storage fixtures
+  literal_form: bone hooks, cupboards, bamboos, and strings for hanging robes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: hot-bath house
+  literal_form: hot-bath house or bath house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: bath-house door
+  literal_form: door with door-posts, lintel, pivot hollows, and projections
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: distress during open-air walking and allowance of cloister hall
+  summary: Bhikkhus suffer from heat and cold while walking in the open air, report
+    the issue, and are permitted to use a hall for the cloister.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: repair and furnishing allowances for the cloister hall
+  summary: After straw and plaster fall from the walls and roof, the Blessed One permits
+    covering and plastering, surface treatments, decorative work, and fixtures for
+    robes and storage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: application to hot-bath house and permission for door
+  summary: The preceding construction allowances are repeated for the hot-bath house;
+    when the bath house lacks a door, the Blessed One permits a door and related structural
+    fittings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: practical hardship leading to institutional allowance
+  taxonomy_refs: []
+  basis: A concrete hardship experienced by monks is reported to the Blessed One,
+    who grants a practical architectural allowance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a regulatory monastic pattern rather than a mythological motif;
+    no supplied taxonomy motif family is directly supported.
+- id: motif:2
+  label: authorization of monastic built space and fixtures
+  taxonomy_refs: []
+  basis: The passage lists permissions for halls, wall and roof treatments, storage,
+    robe-hanging fixtures, and a bath-house door.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The motif is descriptive and institutional; symbolic or comparative meaning
+    is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4759-4762
+  quote_or_summary: Bhikkhus walking in the open air are distressed by heat and cold.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 4764-4764
+  quote_or_summary: They tell the matter to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 4766-4768
+  quote_or_summary: "“I allow you, O Bhikkhus, the use of a hall for the cloister.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 4770-4771
+  quote_or_summary: Straw and plaster fall from the walls and roof into the cloister-hall.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 4773-4779
+  quote_or_summary: The Blessed One permits covering and plastering walls and roofs,
+    adding colors and decorative work, and using hooks, cupboards, bamboos, and strings
+    for robes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 4781-4783
+  quote_or_summary: The preceding provisions are stated to be repeated for the hot-bath
+    house.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:7
+  type: quote
+  locator: line 4785
+  quote_or_summary: "“The bath house had no door.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 4787-4805
+  quote_or_summary: The Blessed One permits a bath-house door with door-posts, lintel,
+    pivot hollows, and projections; the footnote explains the likely pivot arrangement.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily regulatory and practical. Literal extraction is
+    straightforward; motif candidates are framed as institutional patterns, not mythological
+    parallels. No comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l4755-l4805
+  passage_sha256=1aa3e6fff7dd7672ef6fba931ddc7c437b37c43592d3424e004ae891cd329ea7
+

@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md-l23223-l23369
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: DENSMORKJ / IHILL.  53 / DENSMORK / BUEEAU    OF    AMERICAN    ETHNOLOGY;
+    lines 23223-23369
+  start: '23223'
+  end: '23369'
+  translation: chippewa-music-1-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: bine'siwiig the (thunder) birds; ixikoc'koigog^ startle me
+  summary: The passage contains song text and analysis from Densmore's Chippewa music
+    collection. One fragment mentions being around the sky and coming with sound.
+    No. 153, titled "The Thunderbirds," is sung by Awun^akum^igickun' and its translated
+    words say that the thunder birds startle the speaker. The surrounding prose analyzes
+    melodic progressions, tonality, and rhythmic features, comparing them with other
+    numbered songs.
+  language: English with Ojibwe/Chippewa song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A song fragment includes the translated phrases "around the sky" and "I come
+    to you with my sound."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No. 153 is titled "The Thunderbirds" and is identified by Catalogue No. 322.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: No. 153 is described as sung by Awun^akum^igickun'.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translated song words identify the thunder birds and state that they startle
+    the speaker.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The analysis says the first three measures of No. 153 contain a downward progression
+    G-E-C-A and relates this pattern to several other numbered songs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The analysis says a distinctive rhythmic division in No. 153 also occurs in
+    other numbered songs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person song speaker
+  description: The speaker referred to by "I" in the translated song fragment and
+    by "me" in the Thunderbird song translation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Thunderbirds / thunder birds
+  description: The beings named in the song title and translated text as "the (thunder)
+    birds."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Awun^akum^igickun'
+  description: Named singer of No. 153, "The Thunderbirds."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named singer
+  assigned_to:
+  - fig:3
+  basis: The passage states that No. 153 was "Sung by Awun^akum^igickun'."
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: first-person speaker or experiencer
+  assigned_to:
+  - fig:1
+  basis: The translated phrases include "I come to you with my sound" and "startle
+    me."
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: startling birds
+  assigned_to:
+  - fig:2
+  basis: The translated Thunderbird song states that the thunder birds startle the
+    speaker.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sound
+  literal_form: my sound
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Thunderbirds
+  literal_form: the (thunder) birds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Around the sky and coming with sound
+  summary: A song fragment places an unnamed figure around the sky and has a first-person
+    speaker say that they come to someone with their sound.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thunderbirds startle the speaker
+  summary: The translated words of No. 153 name the thunder birds and state that they
+    startle the first-person speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Thunderbirds startling a first-person speaker
+  taxonomy_refs: []
+  basis: The song title and translated words name the Thunderbirds and say they startle
+    the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief song text, without a narrative explanation
+    of the Thunderbirds' role or wider mythological context.
+- id: motif:2
+  label: Sky setting with approach through sound
+  taxonomy_refs: []
+  basis: A song fragment mentions being around the sky and the first-person statement
+    "I come to you with my sound."
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The fragment is too brief to establish a full narrative motif; it is retained
+    as a possible symbolic pattern only.
+comparison_claims:
+- id: claim:1
+  claim: The musicological analysis compares the downward progression in No. 153 with
+    a similar progression in other numbered songs in the same collection.
+  claim_level: same_motif
+  target: Songs Nos. 133, 147, 151, and 152 in the same Densmore collection
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison of musical pattern, not a demonstrated mythological
+    motif comparison.
+- id: claim:2
+  claim: The analysis states that a distinctive rhythmic division in No. 153 also
+    appears in other numbered songs in the same collection.
+  claim_level: same_motif
+  target: Songs Nos. 152, 157, 159, 161, and 163 in the same Densmore collection
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a music-structural comparison within the corpus and does not
+    by itself imply shared mythic content.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23223-23226
+  quote_or_summary: '"ki''witagi^jig around the sky" and "ka^bidebwe^widamon^ I come
+    to you with my sound."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Short excerpt from supplied passage; repository path indicates public-domain
+    source.
+- id: ev:2
+  type: quote
+  locator: lines 23245-23249
+  quote_or_summary: '"No. 153. ''The Thunderbirds'' (Catalogue No. 322)" and "Sung
+    by Awun^akum^igickun''."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Short excerpt from supplied passage; repository path indicates public-domain
+    source.
+- id: ev:3
+  type: quote
+  locator: lines 23311-23314
+  quote_or_summary: '"bine''siwiig the (thunder) birds" and "ixikoc''koigog^ startle
+    me."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Short excerpt from supplied passage; repository path indicates public-domain
+    source.
+- id: ev:4
+  type: summary
+  locator: lines 23317-23323
+  quote_or_summary: The analysis states that the first three measures of No. 153 contain
+    the downward progression G-E-C-A, comprising a minor triad with minor seventh
+    added, and refers the reader to Nos. 133, 147, 151, and 152.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary of supplied passage; repository path indicates public-domain
+    source.
+- id: ev:5
+  type: summary
+  locator: lines 23324-23330
+  quote_or_summary: The analysis states that the rhythm of No. 153 has a distinctive
+    division of the first count of the measure and notes this also in Nos. 152, 157,
+    159, 161, and 163.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Summary of supplied passage; repository path indicates public-domain
+    source.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the mythological content is very
+    brief and embedded in musicological analysis. Comparison claims are supported
+    as musical-pattern comparisons only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not directly support one from the supplied lists.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md__l23223-l23369
+  passage_sha256=71e423cd883e6ffbefe4741c79f8ed8adef90d39bffe404f95e9299367aac761
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1060-l1108
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: TIIE SETTLEMENT OF DISPUTES. / XULLAVAGGA. / XULLAVAGGA. / TV, 9.; lines
+    1060-1108
+  start: '1060'
+  end: '1108'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“settle such a dispute by the vote of the majority”"
+  summary: The passage gives a monastic procedure for settling a dispute by majority
+    vote, including the appointment of a qualified Bhikkhu to take voting tickets
+    and the formal motion by which the Saṅgha appoints him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A disputed question has been brought before a group, and the matter is reported
+    to the Blessed One.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blessed One permits Bhikkhus to settle this kind of dispute by the vote
+    of the majority.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Bhikkhu with specified qualifications is to be appointed as taker of the
+    voting tickets.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The listed qualifications are not walking in partiality, malice, folly, or
+    fear, and knowing which votes have and have not been taken.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The proposed voting-ticket taker is first to be requested before the matter
+    is brought before the Saṅgha.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An able and discreet Bhikkhu is to present a formal motion asking the Saṅgha
+    to appoint a named Bhikkhu as taker of the voting tickets.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: A note states that the judicial qualifications are elsewhere associated with
+    one who rightly fills judicial office and with a good king sitting as judge.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Blessed One
+  description: Authority to whom the matter is reported and who gives the procedural
+    allowance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monastic recipients of the instruction for settling disputes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Bhikkhu appointed as taker of the voting tickets
+  description: A qualified Bhikkhu appointed to handle voting tickets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Able and discreet Bhikkhu
+  description: A Bhikkhu designated to bring the appointment matter before the Saṅgha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Saṅgha
+  description: The assembly that hears the motion and appoints the named Bhikkhu as
+    taker of the tickets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: procedural authority
+  assigned_to:
+  - fig:1
+  basis: The matter is reported to the Blessed One, who allows the dispute to be settled
+    by majority vote and gives appointment instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: monastic community addressed
+  assigned_to:
+  - fig:2
+  basis: The instruction is addressed to Bhikkhus concerning how they may settle disputes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: voting-ticket taker
+  assigned_to:
+  - fig:3
+  basis: The passage specifies appointment of a qualified Bhikkhu as taker of the
+    voting tickets.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: motion presenter
+  assigned_to:
+  - fig:4
+  basis: An able and discreet Bhikkhu is instructed to bring the matter before the
+    Saṅgha.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: appointing assembly
+  assigned_to:
+  - fig:5
+  basis: The formal wording states that the Saṅgha appoints the named Bhikkhu as taker
+    of the tickets.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: voting tickets
+  literal_form: tickets used for votes in the majority decision procedure
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: five qualifications
+  literal_form: a list of five qualifications for the voting-ticket taker
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Report of dispute and permission for majority vote
+  summary: The dispute is reported to the Blessed One, who permits Bhikkhus to settle
+    such a dispute by majority vote.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Qualifications for the voting-ticket taker
+  summary: The Blessed One states that a Bhikkhu appointed as voting-ticket taker
+    must possess five qualifications related to impartiality and knowledge of votes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Formal appointment by the Saṅgha
+  summary: After the candidate is requested, an able and discreet Bhikkhu presents
+    a formal motion to the Saṅgha for appointing the named Bhikkhu as taker of the
+    voting tickets.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dispute settled by majority vote
+  taxonomy_refs: []
+  basis: The Blessed One explicitly allows this kind of dispute to be settled by the
+    vote of the majority.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-procedural pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: impartial official selected for adjudicative procedure
+  taxonomy_refs: []
+  basis: The voting-ticket taker must avoid partiality, malice, folly, and fear, and
+    must know the state of the votes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage concerns monastic discipline and does not frame the official
+    as a mythic or supernatural figure.
+- id: motif:3
+  label: formal communal motion appointing an office-holder
+  taxonomy_refs: []
+  basis: The passage prescribes a request to the candidate and a formal motion before
+    the Saṅgha to appoint the named Bhikkhu.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is extracted as a ritualized institutional procedure, not as
+    a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The note links the same type of impartiality qualifications to wider judicial-office
+    functions, including a good king sitting as judge and other officials of the order.
+  claim_level: same_function
+  target: judicial-office qualification formula in related Vinaya contexts and royal
+    judging
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the passage note; it does not by itself
+    establish historical development, transmission, or a mythological motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1064-1073
+  quote_or_summary: The matter is reported to the Blessed One; he allows Bhikkhus
+    to settle such a dispute by the vote of the majority.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1073-1081
+  quote_or_summary: 'A Bhikkhu with five qualifications is to be appointed as voting-ticket
+    taker: free from partiality, malice, folly, and fear, and aware of votes taken
+    and not taken.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1082-1088
+  quote_or_summary: The candidate is first to be requested, and then an able and discreet
+    Bhikkhu is to bring the matter before the Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1089-1100
+  quote_or_summary: The formal motion asks the Saṅgha to appoint a named Bhikkhu as
+    taker of the voting tickets, if the time seems suitable to the Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: note
+  locator: lines 1101-1108
+  quote_or_summary: A note says these qualifications are ascribed to one rightly filling
+    judicial office, are called the four Agatis, are attributes of a good king sitting
+    as judge, and are mentioned elsewhere for officials of the order.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The procedural content is explicit. Motif labeling is cautious because the
+    passage is legal-disciplinary rather than mythic narrative. The comparison claim
+    is limited to the supplied note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied; available refs such as water, tree, serpent, ascent, and wisdom were not directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1060-l1108
+  passage_sha256=5cd54b8ad413ab7dca6a0e29717fd5756c99b65d6e6a712de27726591bd93e1d
+

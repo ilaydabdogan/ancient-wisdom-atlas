@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l22453-l22809
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: HORSE   SOCIETY / BITKEAIT   OF   AMERICAN   ETHNOLOGY / TETON   STOUX   MUSIC
+    / BUBEAU  OF  AMERICAN  ETHNOLOGY; lines 22453-22809
+  start: '22453'
+  end: '22809'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents song texts, glosses, and musical analyses for Horse
+    Society/Dream Society songs. Two songs describe a Horse nation or herd moving,
+    prancing, neighing, and chasing or walking. Another song, titled “A Root of Herb,”
+    refers to a sacred herb root used by a first-person speaker toward the tribe of
+    men. A concluding note explains that this group contains songs of societies composed
+    of men with similar dreams, whose society names indicate the animal that appeared
+    in the dream; many songs are said to have been received in dreams and later became
+    common society songs.
+  language: English with Teton Sioux/Dakota-Lakota transliterated song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Song No. 111 describes seeing a Horse nation prancing, coming, and neighing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Song No. 112 describes the Horse nation or herd in terms of chasing and walking,
+    and the analysis says the words refer to the free, almost playful action of a
+    herd of horses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song titled “A Root of Herb” identifies a sacred root of herb as something
+    the first-person speaker has used toward the tribe of men.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The concluding note says the societies in this group are composed of men who
+    had similar dreams.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The concluding note says the society name indicates the animal that appeared
+    in the dream, and that many songs in the group were received in dreams before
+    becoming common songs of the societies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Horse nation / herd of horses
+  description: A collective named in the song glosses as the Horse nation and described
+    in analysis as a herd of horses moving freely or playfully.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: First-person speaker of “A Root of Herb”
+  description: The lyric speaker who says the sacred herb root is what has been used.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tribe of men
+  description: A human collective named in the gloss of “A Root of Herb” and associated
+    with the direction or group toward whom the herb has been used.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Men of the dream societies
+  description: Men described as having similar dreams and belonging to societies whose
+    names indicate the animal appearing in the dream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: moving animal collective
+  assigned_to:
+  - fig:1
+  basis: The horse collective is described as prancing, coming, neighing, chasing,
+    and walking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: user of sacred herb root
+  assigned_to:
+  - fig:2
+  basis: The lyric speaker says the sacred root of herb is what has been used.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: human collective toward whom the herb is used
+  assigned_to:
+  - fig:3
+  basis: The gloss names the tribe of men and says the use is directed toward them.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dream-society members
+  assigned_to:
+  - fig:4
+  basis: The note describes societies composed of men having similar dreams.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Horse nation
+  literal_form: Horse nation or herd of horses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Sacred herb root
+  literal_form: A root of herb described as sacred
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Dream-received song
+  literal_form: Songs said to have been received in dreams
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Animal appearing in dream
+  literal_form: The animal that appeared in the dream and gives the society its name
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prancing arrival of the Horse nation
+  summary: In Song No. 111, the song text presents the Horse nation as seen prancing,
+    coming, and neighing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chasing and walking of the horse herd
+  summary: In Song No. 112, the words and analysis present the herd of horses in free,
+    almost playful motion.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Use of the sacred herb root
+  summary: In “A Root of Herb,” the speaker names a sacred herb root and says it has
+    been used toward the tribe of men.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dream Society song context
+  summary: The concluding note frames the group as songs of societies whose members
+    share similar dreams, with society names tied to animals appearing in dreams and
+    many songs described as dream-received.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Horse nation in rhythmic motion
+  taxonomy_refs: []
+  basis: Two songs describe a Horse nation or herd as prancing, coming, neighing,
+    chasing, and walking; the analysis identifies the action as free and almost playful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local lyric image in the passage and is not mapped to the supplied
+    taxonomy references.
+- id: motif:2
+  label: Sacred herb root used for people
+  taxonomy_refs: []
+  basis: The herb song names a sacred root of herb and says the speaker has used it
+    toward the tribe of men.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the ritual procedure, effect, or full social
+    context of the herb use.
+- id: motif:3
+  label: Dream-received songs and animal-named dream societies
+  taxonomy_refs: []
+  basis: The concluding note says societies are composed of men with similar dreams,
+    that the society name indicates the animal appearing in the dream, and that many
+    songs were received in dreams.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The note gives a general pattern for the group; it does not narrate individual
+    dream episodes for each song in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The Horse Society songs can be cautiously compared within this same local
+    corpus to the Dream Society song pattern described in the passage: a society is
+    associated with an animal appearing in dreams, and songs may be received in dreams
+    and later shared as common society songs.'
+  claim_level: same_function
+  target: Old Songs—Songs of Dream Societies / animal-named dream societies in this
+    passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the passage and does not establish historical
+    contact, common inheritance, or an external cross-cultural motif. The passage
+    does not provide a specific dream narrative for the individual horse songs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22453-22809, Song No. 111 “Prancing They Come”
+  quote_or_summary: The glosses for Song No. 111 describe seeing them prancing, coming,
+    and neighing, and identify the subject as a Horse nation.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path labels the text as public-domain/Project Gutenberg; rights_status
+    was not separately supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 22453-22809, Song No. 112 “Chasing, They Walked”
+  quote_or_summary: The glosses for Song No. 112 include chasing, walking, and the
+    Horse nation; the analysis says the words refer to the free, almost playful action
+    of a herd of horses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path labels the text as public-domain/Project Gutenberg; rights_status
+    was not separately supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 22453-22809, Song No. 118 “A Root of Herb” as printed in passage
+  quote_or_summary: The glosses identify a root of herb as sacred, say it is what
+    the speaker has used, and refer to the tribe of men and movement or direction
+    toward them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path labels the text as public-domain/Project Gutenberg; rights_status
+    was not separately supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 22453-22809, concluding note on Dream Societies
+  quote_or_summary: The note says this group contains songs of societies composed
+    of men with similar dreams, that the society name indicates the animal appearing
+    in the dream, and that many songs were received in dreams before becoming common
+    society songs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path labels the text as public-domain/Project Gutenberg; rights_status
+    was not separately supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is usable but contains OCR noise and mixed transliteration/gloss
+    formatting. The herb song number appears as No. 118 in the excerpt, while the
+    concluding note refers to songs Nos. 95-113; no correction has been applied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol exactly matches horse, dream, song, or herb root; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l22453-l22809
+  passage_sha256=bb0316fde86192ba97e09214168de5ebf826585456f86f67b47f52db0457182f
+

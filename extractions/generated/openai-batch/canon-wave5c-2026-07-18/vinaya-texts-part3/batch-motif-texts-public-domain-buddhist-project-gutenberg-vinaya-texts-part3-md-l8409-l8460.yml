@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l8409-l8460
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: KULLAVAGGA. / VT, 3 . 6. / VI, 3, 9 - / KULLAVAGGA.; lines 8409-8460
+  start: '8409'
+  end: '8460'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya passage reports practical matters to the Blessed One, who allows
+    a separate fire-room, fencing and gateways for Aramas to prevent goats and cattle
+    from damaging plantations, and related architectural provisions. The passage ends
+    by introducing King Seniya Bimbisara of Magadha wanting to build a residence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A matter is reported to the Blessed One, and he permits the Bhikkhus to make
+    a separate room for fire at one side.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fire-room is described as having too low a basement, with the text referring
+    to earlier rules for flooring, stairs, balustrade, door, and facing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aramas are said to lack fences, and goats and cattle injure the plantations.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The Blessed One permits three kinds of fencing: bamboo fences, thorn fences,
+    and ditches.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The absence of a gateway allows goats and cattle to continue injuring the
+    plantations.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Blessed One permits a gateway with interlaced stakes and thorny brakes,
+    akka-plant fencing across the gateway, ornamental screen-work, and bars.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage refers to further allowances for roofing and drains for the gateway
+    and Arama by cross-reference to earlier sections.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Seniya Bimbisara, king of Magadha, is introduced as wanting to build a pasada,
+    glossed in the passage as a residence.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Blessed One
+  description: The authority to whom matters are reported and who grants permissions
+    to the Bhikkhus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: The monastic addressees of the Blessed One’s permissions concerning
+    fire-room, fencing, and gateway construction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: goats and cattle
+  description: Animals that injure the plantations when Aramas lack fences or gateways.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Seniya Bimbisara, king of Magadha
+  description: A king who wants to build a pasada or residence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: authoritative permitter
+  assigned_to:
+  - fig:1
+  basis: The Blessed One responds to reported matters by allowing specific architectural
+    measures.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: monastic recipients of permission
+  assigned_to:
+  - fig:2
+  basis: The permissions are addressed to the Bhikkhus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: plantation-damaging animals
+  assigned_to:
+  - fig:3
+  basis: Goats and cattle are twice described as injuring the plantations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: royal prospective builder
+  assigned_to:
+  - fig:4
+  basis: Seniya Bimbisara is identified as king of Magadha and as wanting to build
+    a residence.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire-room
+  literal_form: a separate room for the fire at one side
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fencing around the Aramas
+  literal_form: bamboo fences, thorn fences, and ditches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: gateway and barriers
+  literal_form: gateway with interlaced stakes, thorny brakes, akka-plant fencing,
+    ornamental screen-work, and bars
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: plantations
+  literal_form: plantations within or associated with the Aramas
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: residence
+  literal_form: pasada, glossed as residence
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Permission for a separate fire-room
+  summary: A matter is reported to the Blessed One; he permits the Bhikkhus to make
+    a separate room for the fire, and the passage notes associated architectural details
+    by cross-reference.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Protection of Arama plantations
+  summary: Because unfenced Aramas and the absence of a gateway allow goats and cattle
+    to injure plantations, the Blessed One permits fences, ditches, a gateway, barriers,
+    and related architectural provisions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Bimbisara’s intended residence
+  summary: The passage begins a new case in which Seniya Bimbisara, king of Magadha,
+    wants to build a residence.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: authoritative solution to monastic infrastructure problems
+  taxonomy_refs: []
+  basis: The passage repeatedly presents a practical problem being reported to the
+    Blessed One, followed by an allowance for a concrete architectural remedy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a regulatory Vinaya pattern rather than a clear mythological motif;
+    human review should decide whether it belongs in a comparative motif index.
+- id: motif:2
+  label: bounded enclosure protecting cultivated religious space
+  taxonomy_refs: []
+  basis: The Aramas require fencing, ditches, gateways, and bars to protect plantations
+    from animals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is literal and practical; any symbolic reading of boundary
+    or enclosure is not stated directly.
+- id: motif:3
+  label: segregated place for controlled fire
+  taxonomy_refs: []
+  basis: The Blessed One permits a separate room for fire at one side, and the passage
+    discusses architectural features of the fire-room.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: Only the practical fire-room is stated; broader symbolic or ritual significance
+    is not explicit in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8411-8415
+  quote_or_summary: A matter is reported to the Blessed One; he allows the Bhikkhus
+    to make a separate room for the fire at one side.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8416-8420
+  quote_or_summary: The fire-room has too low a basement; the passage cross-references
+    earlier provisions for flooring, stairs, balustrade, door, and facing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8421-8424
+  quote_or_summary: Aramas have no fences, and goats and cattle injure the plantations.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8426-8428
+  quote_or_summary: The Blessed One allows bamboo fences, thorn fences, and ditches
+    around the Aramas.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 8430-8432
+  quote_or_summary: Because there is no gateway, goats and cattle still injure the
+    plantations.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8433-8437
+  quote_or_summary: The Blessed One allows a gateway with thorny interlaced stakes,
+    akka-plant fencing, ornamental screen-work, and bars.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 8439-8441
+  quote_or_summary: The passage refers to allowances for roofing of the gateway and
+    drains for the Arama by cross-reference.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 8443-8460
+  quote_or_summary: Seniya Bimbisara, king of Magadha, wants to build a pasada, glossed
+    here as a residence; the passage then enters a footnote on the term.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal architectural and regulatory content is clear. Motif assignment is
+    less certain because the passage is primarily monastic legal/institutional material
+    rather than narrative mythology. No comparison claims are made because the passage
+    itself supplies no cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only to the explicit fire symbol; no comparison claims were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l8409-l8460
+  passage_sha256=ee06381bb19a76368d0dbe5094b8e8abec26a3c92d4b41bbc7872e99c6342f8e
+

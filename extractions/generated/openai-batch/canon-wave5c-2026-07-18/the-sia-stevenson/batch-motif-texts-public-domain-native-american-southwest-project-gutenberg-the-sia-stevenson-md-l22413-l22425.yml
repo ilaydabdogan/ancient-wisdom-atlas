@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l22413-l22425
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: GREEN CORN DANCE. / BUFFALO DANCING SOCIETY. / XOIWEEB TRADITIONS. / BELIEF
+    IN FUTURE LIFE.; lines 22413-22425
+  start: '22413'
+  end: '22425'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports that the xoiwere believed in a ghost or spirit after
+    death. This belief is evidenced by mortuary practices: placing provisions, water,
+    and cooking utensils on the grave for the spirit; dressing or ornamenting the
+    corpse and placing needed items beside it; placing a child''s playthings with
+    the child; and keeping weeds and grass down around the grave for a period after
+    burial.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the xoiwere believed in the existence of a ghost or
+    spirit after death.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Provisions, a pitcher of water, and cooking utensils were placed on the grave
+    for the spirit's use for some time after burial.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At burial, new clothing and ornaments could be put on the corpse, and things
+    considered necessary could be placed by its side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A little child was seen with playthings that its mother had placed by it,
+    thinking they would be pleasing to it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The grave area was generally kept clear of weeds and grass for a year or so,
+    perhaps for about ten feet around.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: xoiwere
+  description: Group described as believing in a ghost or spirit after death and as
+    observing mortuary practices involving grave goods and grave maintenance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: ghost or spirit after death
+  description: Postmortem being whose continued existence is stated and for whose
+    use provisions, water, and cooking utensils are placed on the grave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: corpse or deceased person
+  description: Body at burial that may receive new clothing and ornaments, with necessary
+    things placed by its side.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: little child
+  description: A deceased child described as being placed with some of its playthings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: mother of the little child
+  description: The mother who placed playthings by the child, thinking they would
+    please it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mortuary-practicing community
+  assigned_to:
+  - fig:1
+  basis: The group is described as placing items on or beside the grave and maintaining
+    the grave area.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: postmortem recipient
+  assigned_to:
+  - fig:2
+  basis: The provisions, water, and cooking utensils are said to be for the use of
+    the spirit after burial.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceased body furnished at burial
+  assigned_to:
+  - fig:3
+  basis: The corpse is dressed or ornamented and has necessary things placed by its
+    side.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deceased child accompanied by playthings
+  assigned_to:
+  - fig:4
+  basis: The child is described with playthings placed by it.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mourner or caregiver placing objects
+  assigned_to:
+  - fig:5
+  basis: The mother places playthings by the child because she thinks they would be
+    pleasing to it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: provisions
+  literal_form: provisions placed on the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: a pitcher of water placed on the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cooking utensils
+  literal_form: cooking utensils placed on the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: clothing and ornaments
+  literal_form: new clothing and ornaments put on the corpse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: child's playthings
+  literal_form: playthings placed by a little child
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: cleared grave area
+  literal_form: weeds and grass kept down about the grave, perhaps for ten feet around
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Statement of belief in postmortem spirit
+  summary: The passage frames the practices as evidence that the xoiwere believed
+    in a ghost or spirit after death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Provisioning the grave for the spirit
+  summary: Provisions, a pitcher of water, and cooking utensils are placed on the
+    grave for the spirit's use after burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Furnishing the corpse at burial
+  summary: At burial, the corpse may be dressed in new clothing and ornaments, and
+    necessary things may be placed by its side.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Child burial with playthings
+  summary: A little child is described with playthings that its mother placed by it
+    because she thought they would please it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Maintenance of the grave area
+  summary: The grave area is kept free of weeds and grass for a year or so, perhaps
+    for about ten feet around.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: postmortem survival of the spirit
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly says the xoiwere believed in the existence of a ghost
+    or spirit after death, and describes goods placed for the spirit's use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage supports afterlife belief but does not describe an afterlife
+    journey, route, destination, or map.
+- id: motif:2
+  label: grave goods for the spirit's use
+  taxonomy_refs: []
+  basis: Food provisions, water, cooking utensils, clothing, ornaments, necessary
+    things, and a child's playthings are placed on or beside the grave or corpse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is limited to the mortuary objects named in the passage.
+- id: motif:3
+  label: continuing care of the grave
+  taxonomy_refs: []
+  basis: The passage says weeds and grass around the grave are generally kept down
+    for a year or so.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports the practice but does not explicitly state its ritual
+    purpose beyond the broader context of belief in future life.
+comparison_claims:
+- id: claim:1
+  claim: The described practices fit the general mortuary-provisioning pattern in
+    which objects are supplied to or near the dead because a spirit is understood
+    to continue after death.
+  claim_level: same_function
+  target: afterlife provisioning / grave-goods pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external tradition, named parallel text, historical contact, or
+    afterlife itinerary is provided in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22413-22416
+  quote_or_summary: The section is headed 'BELIEF IN FUTURE LIFE' and states that
+    the xoiwere believed in a ghost or spirit after death, as shown by Hamilton's
+    observations.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 22418-22419
+  quote_or_summary: Provisions, a pitcher of water, and cooking utensils are often
+    put on the grave for the spirit's use for some time after burial.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 22420-22421
+  quote_or_summary: At burial, new clothing and ornaments may be placed on the corpse,
+    and things considered necessary may be placed by its side.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 22421-22423
+  quote_or_summary: Hamilton reports seeing a little child with playthings placed
+    by its mother, who thought they would be pleasing to it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: 22424-22425
+  quote_or_summary: The grave area is generally kept clear of weeds and grass for
+    a year or so, perhaps about ten feet around.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit about mortuary practices and belief in
+    a postmortem spirit. Taxonomy mapping to afterlife_journey_map is only partial
+    because no journey is described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR irregularities in the supplied passage were not corrected in quotation; summaries normalize only for readability.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l22413-l22425
+  passage_sha256=fdc2e0454c825053be6ff320e849b3c29f998c0ade820c1f731a60dc7c6107bc
+

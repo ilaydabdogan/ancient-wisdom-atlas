@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l1710-l1732
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / SONGS AND INCANTATIONS / CHAPTER VI / DANCE AND
+    POSTURE SONGS; lines 1710-1732
+  start: '1710'
+  end: '1732'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator wants to film a dance and promises local people tobacco and
+    a feast if they perform a genuine dance outside the failu in daylight. Rehearsals
+    for the dance and song take place outside the failu at night under the full moon,
+    continue toward dawn for at least a week, and disturb Friedlander.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator wants to take a moving picture of one of the dances.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator promises tobacco and a feast of tinned foods if the local people
+    perform a good, genuine dance outside the failu in bright daylight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two affiliated failus are described as being within about one hundred yards
+    of Friedlander's house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rehearsals for the dance and song take place outside the failu during moonlit
+    nights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rehearsals last far toward dawn and continue for at least a week.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator says Friedlander likely reacted negatively to the unmelodious
+    howling connected with the rehearsals.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: First-person narrator
+  description: The speaker who wants to film a dance and offers rewards for a daylight
+    performance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Local people of the narrator's district
+  description: The people asked to perform the dance and associated with the rehearsals
+    for dance and song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Friedlander
+  description: A person whose house is near the affiliated failus and who is described
+    as likely cursing the noise of the rehearsals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: observer and requester of performance
+  assigned_to:
+  - fig:1
+  basis: The narrator desires a moving picture and offers rewards for a staged daylight
+    dance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dance-and-song performers or rehearsers
+  assigned_to:
+  - fig:2
+  basis: They are promised rewards for a dance, and rehearsals for the dance and song
+    are described.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: nearby resident affected by rehearsal noise
+  assigned_to:
+  - fig:3
+  basis: Friedlander's house is near the failus, and the narrator says he likely anathematised
+    the howling sound.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: failu
+  literal_form: failu
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: full moon night
+  literal_form: full moon and bright night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: performance rewards
+  literal_form: tobacco and feast of tinned meats, sardines, salmon, and boned chicken
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Offer for a daylight dance
+  summary: The narrator offers tobacco and a feast if local people perform a good,
+    genuine dance outside the failu in daylight for filming.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moonlit rehearsals outside the failu
+  summary: Rehearsals for the dance and song occur outside the failu on bright moonlit
+    nights, last toward dawn, continue for at least a week, and disturb Friedlander.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: commissioned communal dance performance
+  taxonomy_refs: []
+  basis: A first-person observer requests a genuine dance in daylight and promises
+    rewards to secure the performance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes performance logistics rather than a mythic narrative
+    or sacred rite.
+- id: motif:2
+  label: night rehearsal of dance and song
+  taxonomy_refs: []
+  basis: Rehearsals for dance and song take place outside the failu under the full
+    moon and continue toward dawn over at least a week.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a literal ethnographic pattern; no supplied taxonomy motif directly
+    matches it.
+- id: motif:3
+  label: reward exchange for performance
+  taxonomy_refs: []
+  basis: Tobacco and a feast are promised in exchange for the performance of a dance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not frame the exchange as sacred, so no sacred_exchange
+    taxonomy reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1710-1718
+  quote_or_summary: The narrator says he wants a moving picture of a dance and promises
+    tobacco and a feast if local people perform a genuine dance outside the failu
+    in daylight.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Summary only; rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 1719-1727
+  quote_or_summary: Two affiliated failus are near Friedlander's house; under the
+    full moon, rehearsals for the dance and song occur at night outside the failu.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Summary only; rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 1728-1732
+  quote_or_summary: The rehearsals last far toward dawn for at least a week, and the
+    narrator says Friedlander likely cursed the unmelodious howling; the supplied
+    passage ends mid-sentence.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Summary only; rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and participants are clear, but the passage ends mid-sentence
+    and provides no mythic song text or explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another motif family, text, or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l1710-l1732
+  passage_sha256=e7b89233bb9bb528874608f426a3a83151f2b5767620ba9017b8bb6587ce7aee
+

@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l3808-l3828
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: V, 7, I. RULES FOR FOOT-CLOTHING, SEATS, ETC. / MAHAVAGGA. V, 13, 8. / V,
+    13, 10. RULES FOR FOOT-CLOTIIING, SEATS, ETC. '37 / SIXTH KHANDHAKA.; lines 3808-3828
+  start: '3808'
+  end: '3828'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Blessed One gladdens a Brahma by stanzas, leaves, and later addresses
+    the Bhikkhus after a religious discourse, allowing them to partake of rice-milk
+    and honey-lumps. People hear of this allowance and prepare solid rice-milk and
+    honey-lumps early in the morning. A note explains the term for edible rice-milk
+    or rice pudding made with milk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Blessed One gladdens a Brahma by means of stanzas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blessed One rises from his seat and goes away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After delivering a religious discourse, the Blessed One addresses the Bhikkhus.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Blessed One allows the Bhikkhus to partake of rice-milk and honey-lumps.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: People hear that the Blessed One has allowed the Bhikkhus to partake of rice-milk
+    and honey-lumps.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: People prepare solid rice-milk and honey-lumps early in the morning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note glosses the relevant rice-milk term as edible rice-milk or rice pudding
+    made with milk, distinct from ordinary drinkable rice-milk.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: Religious teacher who gladdens a Brahma, delivers a discourse, and
+    grants the Bhikkhus permission to partake of rice-milk and honey-lumps.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Brahma
+  description: A Brahma gladdened by the Blessed One's stanzas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhikkhus
+  description: Monastic recipients of the allowance to partake of rice-milk and honey-lumps.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the people
+  description: People who hear of the allowance and prepare rice-milk and honey-lumps
+    early in the morning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: religious speaker
+  assigned_to:
+  - fig:1
+  basis: The Blessed One delivers a religious discourse and addresses the Bhikkhus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: grantor of allowance
+  assigned_to:
+  - fig:1
+  basis: The Blessed One states that the Bhikkhus are allowed to partake of rice-milk
+    and honey-lumps.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of stanzas
+  assigned_to:
+  - fig:2
+  basis: A Brahma is gladdened by the Blessed One through stanzas.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: monastic recipients
+  assigned_to:
+  - fig:3
+  basis: The Bhikkhus are addressed and receive permission to partake of specified
+    foods.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: preparers of food
+  assigned_to:
+  - fig:4
+  basis: The people prepare solid rice-milk and honey-lumps after hearing of the allowance.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rice-milk
+  literal_form: rice-milk; solid rice-milk; edible rice-milk or rice pudding made
+    with milk
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: honey-lumps
+  literal_form: honey-lumps
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stanzas
+  literal_form: stanzas spoken or recited by the Blessed One
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: The Blessed One gladdens Brahma and departs
+  summary: The Blessed One gladdens a Brahma by stanzas, then rises from his seat
+    and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Allowance for rice-milk and honey-lumps
+  summary: After a religious discourse, the Blessed One addresses the Bhikkhus and
+    allows them to partake of rice-milk and honey-lumps.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: People prepare allowed foods
+  summary: People hear of the allowance and prepare solid rice-milk and honey-lumps
+    early in the morning.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: authoritative allowance of monastic food
+  taxonomy_refs: []
+  basis: A religious authority formally permits the Bhikkhus to partake of rice-milk
+    and honey-lumps after a discourse.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a Vinaya regulatory episode rather than a clear mythic motif;
+    no supplied motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: lay response to monastic permission
+  taxonomy_refs: []
+  basis: People hear that the food allowance has been granted and prepare the specified
+    foods for the Bhikkhus early in the morning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a practical disciplinary and social pattern, not
+    a distinct comparative-mythology motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3808-3810
+  quote_or_summary: The Blessed One gladdens a Brahma by stanzas, rises from his seat,
+    and goes away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:2
+  type: quote
+  locator: lines 3812-3816
+  quote_or_summary: '"I allow you, O Bhikkhus, (to partake of) rice-milk and honeylumps."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Short excerpt from provided passage; source metadata does not specify
+    rights status.
+- id: ev:3
+  type: summary
+  locator: lines 3820-3826
+  quote_or_summary: People hear of the allowance, prepare solid rice-milk and honey-lumps
+    early in the morning, and the Bhikkhus begin to satiate themselves.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:4
+  type: summary
+  locator: footnote in lines 3828 and following passage note
+  quote_or_summary: The note explains Bhojja-yagu as edible rice-milk, contrasted
+    with drinkable rice-milk, and glosses it as rice pudding made with milk.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Provided source metadata does not specify rights status.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily a monastic rule narrative, and no comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, common-inheritance, or cross-tradition comparison claims are supported by the provided passage alone.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l3808-l3828
+  passage_sha256=1c20cfd7c5e718ca0f37491708116d291203b993f8d3cd8aa90ffb338dd8f55d
+

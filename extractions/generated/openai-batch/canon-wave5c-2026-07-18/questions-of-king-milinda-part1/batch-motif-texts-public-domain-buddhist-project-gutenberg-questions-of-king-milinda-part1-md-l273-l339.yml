@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md-l273-l339
+source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+passage_locator:
+  label: The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
+    / INTRODUCTION. / INTRODUCTION. XV; lines 273-339
+  start: '273'
+  end: '339'
+  translation: questions-of-king-milinda-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction describes the work as a didactic historical romance framed
+    as conversations between King Milinda and Nagasena the Elder. It states that the
+    king's questions and dilemmas serve to elicit Nagasena's doctrinal solutions,
+    and discusses the identification of Milinda with the Greek king Menander through
+    linguistic and historical reasoning.
+  language: ''
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The work is described as consisting of discussions of Buddhist doctrine in
+    conversational form between King Milinda and Nagasena the Elder.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The conversations are described as not real conversations but as an historical
+    romance with a didactic aim.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Questions and dilemmas are put into the mouth of the king, while solutions
+    are put into the mouth of Nagasena.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A preliminary story is said to arouse the reader's interest by anticipation
+    and to lend importance and dignity to the meeting of Milinda and Nagasena.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Milinda is identified by the introducer as Menander, a Greek king of Baktria,
+    because the book describes him as a king of the Yonakas reigning at Sagala.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage discusses possible linguistic adaptation or phonetic change from
+    Menander to Milinda.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King Milinda
+  description: A king who appears in the work's conversations and to whom questions
+    or dilemmas are assigned.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Nagasena the Elder
+  description: An elder, or Thera, who appears as Milinda's conversational counterpart
+    and is assigned the solutions to doctrinal questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Menander
+  description: A Greek king of Baktria whom the introducer identifies with Milinda.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: royal questioner
+  assigned_to:
+  - fig:1
+  basis: The passage states that questions and dilemmas are put into the king's mouth.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: doctrinal respondent
+  assigned_to:
+  - fig:2
+  basis: The passage states that the solutions are put into Nagasena's mouth.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subordinate narrative figure
+  assigned_to:
+  - fig:1
+  basis: The passage says the king himself plays a very subordinate part.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: historical identification for Milinda
+  assigned_to:
+  - fig:3
+  basis: The passage says Milinda is supposed to be Menander and argues that the identification
+    of the names is correct.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Didactic conversation frame
+  summary: The work is presented as doctrinal discussions in the form of conversations
+    between King Milinda and Nagasena, with royal questions leading to Nagasena's
+    answers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Anticipated meeting in preliminary story
+  summary: A preliminary story builds readerly anticipation and lends importance and
+    dignity to the meeting of Milinda and Nagasena.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Historical-linguistic identification of Milinda
+  summary: The introduction identifies Milinda with Menander, a Greek king of Baktria,
+    and explains the name correspondence through adaptation or phonetic change.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wisdom dialogue between king and elder
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes a framed doctrinal conversation in which the king poses
+    questions or dilemmas and Nagasena provides the important solutions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is an introduction describing the literary form rather than
+    narrating a mythic episode directly.
+- id: motif:2
+  label: Didactic fiction used to teach doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: The passage characterizes the work as an historical romance whose didactic
+    aim overshadows the story and whose invented dilemmas elucidate ethical or psychological
+    belief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a literary-pattern extraction, not a claim about a traditional
+    mythic symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 275-279
+  quote_or_summary: The book consists of discussions of Buddhist doctrine in conversational
+    form between King Milinda and Nagasena the Elder.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 280-286
+  quote_or_summary: The conversations are said not to be real; the work is called
+    an historical romance whose didactic aim overshadows the story.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 287-293
+  quote_or_summary: The king has a subordinate role; questions or dilemmas are put
+    into his mouth, while the important solutions are put into Nagasena's mouth.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 294-309
+  quote_or_summary: A carefully constructed preliminary story arouses interest by
+    anticipation and lends importance and dignity to the meeting of Milinda and Nagasena.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 311-318
+  quote_or_summary: Milinda is supposed to be Menander, a Greek king of Baktria, because
+    the book describes him as a king of the Yonakas reigning at Sagala.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 319-339
+  quote_or_summary: The passage argues that the identification of Milinda and Menander
+    is correct and discusses adaptation or phonetic change from the Greek name to
+    an Indian dialect form.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Passage supplied by requester; source indicated as public-domain Project
+    Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository and literary-historical rather than a narrative
+    myth passage. Motif candidates are limited to the wisdom-dialogue and didactic-fiction
+    patterns directly described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No literal symbols from the supplied symbol taxonomy are present in this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md__l273-l339
+  passage_sha256=63086e3277e30ce85b37c6d02b0fd341445f175801864c4f7b8f681c6ecb019e
+

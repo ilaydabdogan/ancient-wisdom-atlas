@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l22385-l22450
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TETOK   SIOUX  MUSIC / HORSE   SOCIETY / BITKEAIT   OF   AMERICAN   ETHNOLOGY
+    / TETON   STOUX   MUSIC; lines 22385-22450
+  start: '22385'
+  end: '22450'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“the four winds are blowing ... some horses ... are coming”"
+  summary: 'The passage analyzes a Teton Sioux song about horses and gives a brief
+    translated text: the four winds are blowing and some horses are coming. The analysis
+    compares its slower tempo and non-galloping rhythm with other horse and war songs
+    and notes a dignified, solemn quality associated with songs of the dawn.'
+  language: English, with transcribed Dakota/Lakota song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the song is compared with other songs concerning the horse,
+    including songs of war numbered 138, 139, 140, and 145.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis states that this song has a slower tempo and does not use the
+    galloping rhythm found in some other songs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The analysis associates the song with dignity and solemnity that the author
+    says seems present when the Sioux sing of the dawn.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translated song text says that the four winds are blowing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translated song text says that some horses are coming.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song is identified as No. 110, titled “Horses Are Coming,” and sung by
+    Brave Buffalo.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Brave Buffalo
+  description: Named singer of No. 110, “Horses Are Coming.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: some horses
+  description: Horses described in the translated song text as coming.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the four winds
+  description: The four winds are described in the translated song text as blowing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The song heading states it was sung by Brave Buffalo.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: arriving beings
+  assigned_to:
+  - fig:2
+  basis: The translated song text says the horses are coming.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: blowing natural forces
+  assigned_to:
+  - fig:3
+  basis: The translated song text says the four winds are blowing.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: four winds
+  literal_form: four winds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: horses coming
+  literal_form: some horses coming
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dawn
+  literal_form: dawn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Four winds and arriving horses
+  summary: The translated song text presents the four winds blowing and some horses
+    coming.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Musical analysis of a horse song
+  summary: The prose analysis places the song among other horse and war songs and
+    distinguishes it by slower tempo, non-galloping rhythm, and a solemn quality associated
+    with dawn songs.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Four winds with arriving horses
+  taxonomy_refs: []
+  basis: The song text links the blowing of the four winds with the coming of horses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a short translated lyric and does not explain a
+    mythic narrative or ritual meaning.
+- id: motif:2
+  label: Horse song associated with war-song corpus
+  taxonomy_refs: []
+  basis: The analysis explicitly compares this horse song with other horse songs and
+    songs of war.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The comparison is musical and corpus-based; the passage does not state
+    a shared mythic episode.
+- id: motif:3
+  label: Dawn solemnity in song
+  taxonomy_refs: []
+  basis: The analysis says the song has dignity and solemnity like that present when
+    the Sioux sing of the dawn.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Dawn is mentioned in the analyst’s musical characterization, not in the
+    translated lyric itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparing No. 110 with other songs concerning horses
+    and with specified war songs, chiefly on musical features such as tempo and rhythm.
+  claim_level: same_function
+  target: Other horse songs in this group and war songs Nos. 138, 139, 140, and 145
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the texts of the compared songs or state
+    a mythological relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22385-22394
+  quote_or_summary: The analysis says it is interesting to compare the song with other
+    horse songs and war songs Nos. 138, 139, 140, and 145; it notes slower tempo and
+    non-galloping rhythm.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not otherwise supplied.
+- id: ev:2
+  type: summary
+  locator: 22394-22398
+  quote_or_summary: The analysis says the song has a little of the dignity and solemnity
+    that seems present when the Sioux sing of the dawn.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not otherwise supplied.
+- id: ev:3
+  type: quote
+  locator: 22427-22431
+  quote_or_summary: "“the four winds are blowing”; “some horses”; “are coming”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not otherwise supplied.
+- id: ev:4
+  type: summary
+  locator: 22408-22413
+  quote_or_summary: The song is labeled No. 110, “Horses Are Coming,” sung by Brave
+    Buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights
+    metadata not otherwise supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal musical and lyric details are explicit. Motif interpretation is limited
+    because the passage contains a short song text and analytical prose rather than
+    a full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol ref was assigned because the supplied taxonomy list does not include horses, wind, or dawn.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l22385-l22450
+  passage_sha256=5bfeb31ab9694d9cc3a4e8a940bf4f6adfaf3e2ca76e9a01d361c16812c88f63
+

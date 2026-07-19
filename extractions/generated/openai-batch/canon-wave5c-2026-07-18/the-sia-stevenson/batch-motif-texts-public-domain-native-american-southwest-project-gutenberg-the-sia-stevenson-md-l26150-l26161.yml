@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l26150-l26161
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: CHAPTER VL / CULTS OP THE MANDAN, HIDATSA, AND SAPONA. / AUTHORITIES. / ALLEGED
+    BELIEF IN A GREAT SPIRIT.; lines 26150-26161
+  start: '26150'
+  end: '26161'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: '"Great Spirit" is synonymous with "Great Medicine," a name applied to everything
+    which they do not comprehend.'
+  summary: 'The passage reports that earlier writers attributed belief in one Great
+    Spirit to the Mandan and Hidatsa, but says this is a misunderstanding: the term
+    Great Spirit is equated with Great Medicine, a designation for things not understood.
+    It also states that among the Mandan each individual chooses a devotional object
+    called medicine, often an animal.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says earlier writers asserted that Mandan and Hidatsa religion
+    consisted in belief in one Great Spirit, in a way compared to claims made about
+    the Dakota.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that admissions following those assertions explain the
+    writer's mistake.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage equates "Great Spirit" with "Great Medicine."
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says "Great Medicine" is a name applied to everything not comprehended.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that among the Mandan each individual selects a particular
+    object of devotion called his medicine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The selected medicine object is described as either some visible being or,
+    more commonly, an animal.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Earlier writers
+  description: Writers who asserted that the religion under discussion consisted in
+    belief in one Great Spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mandan and Hidatsa
+  description: Groups about whom earlier writers are said to have made claims concerning
+    belief in one Great Spirit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mandan individual
+  description: An individual among the Mandan who selects a particular object of devotion
+    termed his medicine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Selected visible being or animal
+  description: The object of devotion selected by a Mandan individual, described as
+    a visible being or more commonly an animal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: assertor of Great Spirit belief
+  assigned_to:
+  - fig:1
+  basis: The passage says earlier writers asserted belief in one Great Spirit among
+    the Mandan and Hidatsa.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: subjects of reported religious claim
+  assigned_to:
+  - fig:2
+  basis: The Mandan and Hidatsa are the groups to whom the earlier writers' claim
+    is applied.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: selector of medicine object
+  assigned_to:
+  - fig:3
+  basis: The passage says each Mandan individual selects the particular object of
+    his devotion.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: medicine or devotional object
+  assigned_to:
+  - fig:4
+  basis: The selected object is termed medicine and may be a visible being or animal.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Great Spirit
+  literal_form: Term "Great Spirit"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Great Medicine
+  literal_form: Name applied to everything not comprehended
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: medicine object
+  literal_form: A selected visible being or animal serving as an individual's object
+    of devotion
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reported Great Spirit assertion
+  summary: Earlier writers are described as asserting that the Mandan and Hidatsa
+    had a religion centered on belief in one Great Spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Correction through Great Medicine terminology
+  summary: The passage explains that the Great Spirit claim is a mistake because Great
+    Spirit is equated with Great Medicine, a term for what is not understood.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Selection of individual medicine
+  summary: Among the Mandan, each individual selects a personal devotional object
+    called medicine, often an animal.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: misidentified Great Spirit terminology
+  taxonomy_refs: []
+  basis: The passage presents the alleged belief in one Great Spirit as a misunderstanding
+    of the term Great Medicine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic interpretive pattern, not a narrative myth motif.
+- id: motif:2
+  label: personal medicine object selection
+  taxonomy_refs: []
+  basis: The passage states that each Mandan individual chooses a devotional object
+    termed medicine, usually a visible being or animal.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a religious practice description without a mythic episode
+    or story sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the Mandan and Hidatsa Great Spirit attribution
+    as parallel to a similar issue reported among the Dakota.
+  claim_level: same_function
+  target: Dakota reports of Great Spirit belief
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison concerns earlier writers' reporting and terminology,
+    not demonstrated shared doctrine, historical contact, or a narrative motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26150-26154
+  quote_or_summary: '"As among the Dakota, so among the Mandan and Hidatsa" earlier
+    writers assert belief in "one Great Spirit."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 26156-26158
+  quote_or_summary: '"Great Spirit" is said to be synonymous with "Great Medicine,"
+    a name for things not comprehended.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: 26158-26161
+  quote_or_summary: Among the Mandan, "each individual selects" an object of devotion
+    called medicine, either a visible being or commonly an animal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit. Motif labels are treated as descriptive
+    patterns rather than taxonomy-backed motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were applied; the passage does not support stronger claims about monotheism, historical contact, or narrative motif inheritance.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l26150-l26161
+  passage_sha256=1c02ee324aeb35f4dcfb71444c8c6680b5551d8f8b9894b17a0cbb98de4f434b
+

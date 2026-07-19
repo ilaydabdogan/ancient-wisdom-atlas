@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md-l15747-l15925
+source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+passage_locator:
+  label: Book IV. Chapter 3. / Book IV. Chapter 4. / IV, 4, 47- OMNISCIENCE. / APPENDIX.;
+    lines 15747-15925
+  start: '15747'
+  end: '15925'
+  translation: questions-of-king-milinda-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: APPENDIX. DEVADATTA IN THE G^ATAKAS.
+  summary: An appendix table lists Jataka character roles associated with Devadatta
+    and corresponding roles associated with the Bodisat, including human, animal,
+    and nature-spirit roles.
+  language: English with transliterated Indic names
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an appendix about Devadatta in the Jatakas.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table has columns for characters filled by Devadatta and by the Bodisat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed roles include human and social positions such as merchant, hunter,
+    minister, king, fisherman, brahman, groom, judge, and elephant trainer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The listed roles include animal forms such as deer, monkey, quail, crocodile,
+    elephant, jackal, chameleon, iguana, crow, hawk, lion, and bird.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listed roles include nature-associated beings, including a water sprite
+    and a tree god.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One listed pair contrasts an unjust judge with a just judge.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Devadatta
+  description: Named in the appendix title and as a column heading for listed Jataka
+    character roles.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Bodisat
+  description: Named as the paired column heading for listed Jataka character roles.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: listed Jataka character-role occupant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The table is organized around character roles filled by Devadatta and by
+    the Bodisat.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: human or social role holder
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both columns include human or social designations such as merchant, king,
+    minister, judge, and elephant trainer.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal role holder
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both columns include animal designations such as deer, monkey, quail, crow,
+    and bird.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: unjust judge
+  assigned_to:
+  - fig:1
+  basis: The table lists an unjust judge in the Devadatta side of a paired entry.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: just judge
+  assigned_to:
+  - fig:2
+  basis: The table lists a just judge paired with the unjust judge entry.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water sprite
+  literal_form: Water sprite
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: tree god
+  literal_form: Tree god
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: animal forms
+  literal_form: Deer, monkey, quail, crocodile, elephant, jackal, chameleon, iguana,
+    crow, hawk, lion, bird
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Appendix table of Jataka role correspondences
+  summary: A reference table pairs roles filled by Devadatta with roles filled by
+    the Bodisat across Jataka entries; it is not a narrative scene.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: paired role correspondence between Devadatta and the Bodisat
+  taxonomy_refs: []
+  basis: The table repeatedly places Devadatta and the Bodisat in corresponding character-role
+    columns.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a reference table, not a narrative episode; many row boundaries
+    are affected by line-break formatting.
+- id: motif:2
+  label: animal-role transposition in Jataka listings
+  taxonomy_refs: []
+  basis: The table lists many animal roles for the figures, including deer, monkey,
+    quail, crocodile, elephant, jackal, crow, hawk, and bird.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The table gives role labels only and does not narrate the stories in which
+    these animal roles occur.
+- id: motif:3
+  label: moral contrast through judicial roles
+  taxonomy_refs: []
+  basis: A paired entry lists an unjust judge on one side and a just judge on the
+    other.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the labels are given; the passage does not provide the judicial narrative
+    or its outcome.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself supports a same-function comparison: Devadatta and the
+    Bodisat are presented as filling corresponding character roles across Jataka entries.'
+  claim_level: same_function
+  target: Jataka character-role correspondence table in this appendix
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt is tabular and lacks full narrative context or complete
+    row numbering.
+- id: claim:2
+  claim: The unjust judge and just judge labels support a cautious comparison of opposed
+    moral functions within a paired Jataka role entry.
+  claim_level: same_function
+  target: paired judicial role labels in the appendix table
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to role labels; no plot details are supplied.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15747-15925
+  quote_or_summary: 'Short title excerpt: “APPENDIX. DEVADATTA IN THE G^ATAKAS.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 15747-15925
+  quote_or_summary: The table headings identify columns for the character filled by
+    Devadatta and the character filled by the Bodisat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 15747-15925
+  quote_or_summary: Human and social role entries include merchant, hunter, minister,
+    king, woodman, fisherman, drunkard, brahman, groom, cripple, countryman, judge,
+    and elephant trainer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 15747-15925
+  quote_or_summary: Animal role entries include deer, monkey, quail, crocodile, elephant,
+    jackal, chameleon, iguana, crow, hawk, lion, and bird.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 15747-15925
+  quote_or_summary: Nature-associated beings listed in the table include water sprite
+    and tree god.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: 15747-15925
+  quote_or_summary: The table includes the paired labels “Unjust judge” and “Just
+    judge.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Rights status not specified in supplied metadata; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an OCR-like table with irregular line breaks, so broad role
+    categories are reliable but exact row alignment should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or inheritance claims are made; extraction is limited to the supplied appendix table.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md__l15747-l15925
+  passage_sha256=de62a81931e5276426fb58e6837e388661097498d77ac088d0c114492a6b29bd
+

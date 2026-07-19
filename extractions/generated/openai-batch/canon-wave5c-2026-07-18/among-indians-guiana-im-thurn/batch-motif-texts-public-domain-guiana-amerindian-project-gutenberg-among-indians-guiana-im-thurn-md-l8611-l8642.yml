@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l8611-l8642
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: APPEARANCE AND DRESS. / ACKAWOI MAN AND WOMAN. / CHAPTER IX. / HOUSES AND
+    SETTLEMENTS.; lines 8611-8642
+  start: '8611'
+  end: '8642'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes portable and locally varied thatching practices for
+    houses or temporary shelters, including palm-leaf materials, trade in prepared
+    thatch, material substitution in trade goods, and the preservative effect of smoke
+    from household fires on thatch durability.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cultivator carried the thatch to and from his field so that the house would
+    not shelter other Indians while he was absent.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some coastal negroes and Creole settlers adopted this kind of thatch and bought
+    laths already set with leaves from Indians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In some coastal trade, Indians substituted manicole palm laths for booba laths,
+    with manicole described as easier to obtain but less durable.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In other regions, thatching used young leaves of cokerite or turu palms, sometimes
+    tied directly to the roof and sometimes plaited together first.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eta palm fan-leaves, wild plantain leaves, and leaves of a common aroid are
+    also described as possible thatching materials.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Smoke from fires kept in inhabited houses makes the thatch last for years,
+    while thatch on deserted houses or temporary benaboos falls apart within months.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed cultivator and house owner
+  description: A person cultivating ground who carries thatch to and from the field
+    to prevent others from using the house as shelter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Indians making or trading thatch materials
+  description: Indians who sell laths set with leaves and, in some trade contexts,
+    substitute one palm material for another.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Negroes and other Creole settlers on the coast
+  description: Coastal settlers who adopted the thatch and bought prepared leaf-set
+    laths from Indians.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: cultivator and house owner
+  assigned_to:
+  - fig:1
+  basis: The passage says the owner carried the thatch while cultivating ground so
+    the house would not shelter others during his absence.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: producers and sellers of thatch laths
+  assigned_to:
+  - fig:2
+  basis: The passage describes Indians selling laths ready set with leaves and participating
+    in a brisk coastal trade.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adopters and buyers of thatch
+  assigned_to:
+  - fig:3
+  basis: The passage says negroes and other Creole settlers adopted the thatch and
+    bought prepared laths from Indians.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: portable thatch
+  literal_form: thatch carried to and from a field
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: leaf-set laths for thatch
+  literal_form: laths ready set with leaves, made from booba or manicole palm
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: palm-leaf roof thatch
+  literal_form: young leaves of cokerite, turu, or eta palms used for roofing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: broad-leaf thatch materials
+  literal_form: wild plantain leaves and common aroid leaves used for thatch
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: household fires and smoke
+  literal_form: fires constantly kept in inhabited houses, producing smoke that preserves
+    thatch
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: inhabited house and temporary benaboo
+  literal_form: a house or temporary benaboo whose thatch durability differs depending
+    on habitation and smoke exposure
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Owner removes thatch to control shelter access
+  summary: An owner cultivating ground takes thatch with him when traveling to or
+    from the field, preventing other Indians from using the house during his absence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coastal trade in prepared thatch
+  summary: Coastal settlers buy prepared leaf-set laths from Indians, and some trade
+    articles substitute a less durable but more accessible palm material.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparation of regional thatching materials
+  summary: Different plant materials are cut, separated, tied, plaited, or strung
+    together for use as roof thatch.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Smoke preserves inhabited-house thatch
+  summary: Smoke from regularly maintained fires extends the durability of thatch
+    on inhabited houses, unlike deserted houses or temporary benaboos.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8611-8616
+  quote_or_summary: A cultivator carries the thatch when going to or from his field
+    so the house will not shelter other Indians during the owner's absence.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: No rights metadata supplied in request.
+- id: ev:2
+  type: summary
+  locator: 8616-8624
+  quote_or_summary: The same thatch is adopted by coastal negroes and Creole settlers,
+    who buy laths set with leaves from Indians; in brisk trade, manicole palm laths
+    may be substituted for more durable booba laths.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: No rights metadata supplied in request.
+- id: ev:3
+  type: summary
+  locator: 8625-8633
+  quote_or_summary: Other areas use young cokerite or turu palm leaves; the leaves
+    may be tied onto the roof or plaited before use.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: No rights metadata supplied in request.
+- id: ev:4
+  type: summary
+  locator: 8633-8639
+  quote_or_summary: Eta palm fan-leaves, wild plantain leaves, and common aroid leaves
+    are also used as thatching materials in certain circumstances.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: No rights metadata supplied in request.
+- id: ev:5
+  type: summary
+  locator: 8639-8642
+  quote_or_summary: Smoke from fires in inhabited houses makes thatch last for years,
+    while thatch on deserted houses or temporary benaboos falls apart within months.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: No rights metadata supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a literal ethnographic description of housing materials and
+    practices rather than a mythic narrative; no motif-family or comparison claim
+    is assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy symbol 'fire' is applied only to the literal fires described in the passage; no broader symbolic interpretation is inferred.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l8611-l8642
+  passage_sha256=31e7f27d023383421616a3843114cfa241b3455037faeb381daa8058655c4e8e
+

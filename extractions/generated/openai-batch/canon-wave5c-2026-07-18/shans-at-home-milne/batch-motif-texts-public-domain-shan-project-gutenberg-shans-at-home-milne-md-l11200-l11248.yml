@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l11200-l11248
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: NATIVE REST-HOUSES. / THE STORY OF AI-KAWK-HO / THE STORY OF A WITCH / THE
+    GOLDEN GOOSE; lines 11200-11248
+  start: '11200'
+  end: '11248'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A chief has three sons and a garden with an apple tree bearing golden apples.
+    A golden goose repeatedly enters at night and eats the apples. The two elder sons
+    are sent to watch but fall asleep. The youngest son stays awake, shoots the goose
+    with a poisoned arrow, brings its body to his father, and is rewarded with gifts
+    and eventual rule while his elder brothers are banished.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A chief has three sons, a palace, a garden, and an apple tree that bears beautiful
+    golden apples.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A golden goose enters the garden at night and eats all the small apples; this
+    happens more than once.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chief is angered by the disappearance of the apples and sends his eldest
+    son to watch the garden at night to discover the thief.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The eldest son does not wish to watch, falls asleep, and the golden goose
+    eats the apples again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second son does not care for his father, also falls asleep in the garden,
+    and the golden goose eats the fruit.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The youngest son loves his father, determines not to sleep during his watch,
+    and takes a bow and arrows.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When the golden goose comes to the apple tree, the youngest son shoots it
+    through the head with a poisoned arrow, killing it, and carries its body to the
+    chief.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The chief rewards the youngest son with silver, gold, and fine clothes, banishes
+    the two elder brothers, gives the youngest the country, and the youngest becomes
+    chief after his father dies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: chief
+  description: Father of three sons; owner of the palace garden and golden-apple tree;
+    rewards the youngest son, banishes the two elder sons, and gives the youngest
+    the country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: eldest son
+  description: The chief's eldest son; sent to watch the garden but does not wish
+    to watch and falls asleep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: second son
+  description: The chief's second son; does not care for his father and falls asleep
+    while watching the garden.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: youngest son / young Prince
+  description: The chief's youngest son; loves his father, stays awake, takes bow
+    and arrows, kills the golden goose, receives rewards, and later becomes chief.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: golden goose
+  description: A golden goose that repeatedly flies into the garden at night and eats
+    the golden apples; it is killed by the youngest son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: father and ruler
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a chief, identifies him as father of three sons, and
+    shows him controlling rewards, banishment, and succession.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: failed night watchman
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both elder sons are sent to watch the garden but fall asleep, allowing the
+    goose to eat the fruit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: loyal successful youngest son
+  assigned_to:
+  - fig:4
+  basis: The youngest son loves his father, resolves not to sleep, and kills the goose
+    during his watch.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: nocturnal fruit-taker
+  assigned_to:
+  - fig:5
+  basis: The golden goose repeatedly enters the garden at night and eats the apples;
+    the chief seeks to discover the thief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: successor to the chief
+  assigned_to:
+  - fig:4
+  basis: The chief gives the youngest son the country, and he becomes chief after
+    his father dies.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: golden-apple tree
+  literal_form: An apple tree in the chief's garden that bears beautiful golden apples.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: golden apples
+  literal_form: Beautiful golden apples borne by the garden apple tree and eaten by
+    the chief or the goose.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: golden goose
+  literal_form: A golden goose that flies into the garden at night and eats the apples.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: poisoned arrow
+  literal_form: A poisoned arrow used by the youngest son to shoot the golden goose
+    through the head.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Golden apples eaten at night
+  summary: The chief's garden contains an apple tree with golden apples, and a golden
+    goose repeatedly comes at night to eat the fruit.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed watches by the elder sons
+  summary: The chief sends the eldest and then the second son to guard the garden,
+    but each falls asleep and the goose eats the fruit again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Youngest son kills the goose
+  summary: The youngest son, determined to stay awake, brings weapons and shoots the
+    golden goose with a poisoned arrow when it comes to the apple tree.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Reward and succession
+  summary: The youngest son brings the goose's body to the chief, receives wealth
+    and clothing, and is given the country while the two elder brothers are banished.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Nocturnal taking of precious fruit
+  taxonomy_refs: []
+  basis: A golden goose repeatedly enters the garden at night and eats all the golden
+    apples from the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes theft-like taking of golden fruit, but does not
+    state that the fruit or tree is sacred.
+- id: motif:2
+  label: Youngest son succeeds where elder brothers fail
+  taxonomy_refs: []
+  basis: The two elder sons fail their night watches by sleeping, while the youngest
+    son stays awake and kills the goose.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives three brothers rather than a pair; no broader comparative
+    type is asserted.
+- id: motif:3
+  label: Loyal service rewarded with rulership
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After killing the goose and bringing its body to his father, the youngest
+    son is rewarded, given the country, and later becomes chief.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports succession as a reward, but does not describe a formal
+    coronation, divine sanction, or legal legitimizing ritual.
+- id: motif:4
+  label: Punishment of negligent elder siblings
+  taxonomy_refs: []
+  basis: The elder brothers fail to watch the garden and are later banished when the
+    youngest son is rewarded and made successor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly state that banishment is solely because
+    of the failed watches, though the sequence links their failure with the youngest
+    son's reward.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11200-11208
+  quote_or_summary: 'Opening setup: a chief has three sons, a palace garden, and an
+    apple tree bearing beautiful golden apples, which he normally eats.'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: 11206-11217
+  quote_or_summary: A golden goose flies into the garden at night and eats all the
+    small apples; it returns on later fruitings and repeats this action.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: 11216-11228
+  quote_or_summary: The angry chief sends his eldest son to watch the garden at night
+    to discover the thief; the eldest son falls asleep and the goose eats all the
+    apples.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: 11229-11234
+  quote_or_summary: The second son does not care for his father, falls asleep in the
+    garden, and the golden goose comes down and eats all the fruit.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:5
+  type: summary
+  locator: 11235-11239
+  quote_or_summary: The youngest son loves his father, determines not to sleep during
+    his watch, and takes a bow and arrows with him.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:6
+  type: summary
+  locator: 11240-11245
+  quote_or_summary: When the golden goose comes to the apple tree, the youngest son
+    shoots it through the head with a poisoned arrow; it dies, and he carries its
+    body to the chief.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+- id: ev:7
+  type: summary
+  locator: 11246-11248
+  quote_or_summary: The chief rewards the youngest son with silver, gold, and clothes;
+    he banishes the two elder brothers, gives the youngest the country, and the youngest
+    becomes chief after his father's death.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: rights_status not supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are literal-pattern
+    based; taxonomy linkage is limited to the explicit succession/rulership outcome.
+    No comparison claims are made because the passage itself provides no comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No source tradition, culture, text_language, or rights_status metadata was supplied beyond the passage and source path.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l11200-l11248
+  passage_sha256=03ae3f4e279156d8e891077b140766daf822a886e559929dd917478bb6d9ab93
+

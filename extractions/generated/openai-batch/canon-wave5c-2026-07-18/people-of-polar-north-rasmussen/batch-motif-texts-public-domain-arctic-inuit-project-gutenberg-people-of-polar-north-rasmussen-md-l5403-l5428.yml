@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l5403-l5428
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE EARTH SPIRIT WHOM THE GIRLS TEASED / THE CHILD-STEALER / INETLIA, WIFE
+    OF IMERARSUNGUAQ / THE SPIRIT OF THE SKIN HANGINGS; lines 5403-5428
+  start: '5403'
+  end: '5428'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: The Spirit of the Skin Hangings.
+  summary: The passage describes a feared spirit said to live behind the skins hung
+    on house walls. It harpoons sleeping people; one cry means the throw only grazed
+    the victim, while another means the harpoon point is embedded and the victim will
+    sicken and die. The narrator reports the old people’s fear and former generations’
+    testimony while stating that he has not personally seen these spirits.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Old people were said to be very much afraid of the Spirit of the Skin Hangings.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: The passage notes that the inside walls of houses are usually hung with skins.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The spirit lived behind the skins hung inside houses.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the spirit saw a person lying asleep on the sleeping-place, it would
+    harpoon him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If the spirit cried “pinguivunga,” the cry meant that the throw had only grazed
+    the person and the person had nothing to fear.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the spirit cried “kitsoraupunga,” the cry meant that the line had broken
+    and the harpoon point had embedded itself in the man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the harpoon point was embedded, the victim would first feel slight smarting,
+    then increasing pains, and would die.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says former generations related what they saw and heard, but
+    he himself has not seen or known these spirits and does not claim they are presently
+    around.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spirit of the Skin Hangings
+  description: A feared spirit said to live behind the skins on house walls and to
+    harpoon sleeping people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Sleeping person or man
+  description: A person lying asleep on the sleeping-place who may be harpooned by
+    the spirit and may sicken and die.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Old people and former generations
+  description: People described as fearing the spirit and as handing down what they
+    saw and heard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Narrating speaker
+  description: The speaker who says he believes the spirits once existed but has not
+    personally seen or known them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: feared harmful spirit
+  assigned_to:
+  - fig:1
+  basis: The spirit is feared by old people, lives behind wall skins, harpoons sleepers,
+    and can cause death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: sleeping victim
+  assigned_to:
+  - fig:2
+  basis: The person is asleep on the sleeping-place when harpooned and may be marked
+    for death by the embedded harpoon point.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: tradition transmitters
+  assigned_to:
+  - fig:3
+  basis: Former generations are said to relate what they saw and heard, and the old
+    people are described as afraid of the spirit.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: cautious narrator
+  assigned_to:
+  - fig:4
+  basis: The narrator accepts the inherited report as truthful while stating that
+    he has no personal experience of these spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: skin hangings
+  literal_form: Skins hung on the inside walls of houses.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: harpoon
+  literal_form: Harpoon used by the spirit against the sleeper, with a point that
+    may embed in the victim.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: sleeping-place
+  literal_form: The place where a person lies asleep when seen by the spirit.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: broken harpoon line
+  literal_form: The spirit’s statement that its line has broken, indicating the harpoon
+    point is embedded.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hidden spirit behind the wall skins
+  summary: The house interior is hung with skins, and the spirit is said to live behind
+    them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Harpooning of the sleeper
+  summary: The spirit sees a person asleep on the sleeping-place and harpoons him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cries that announce the outcome
+  summary: One cry means the harpoon only grazed the sleeper and there is no danger;
+    another cry means the line broke, the point is embedded, and the victim will sicken
+    and die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Transmission and narrator’s qualification
+  summary: The narrator presents the account as handed down by former generations,
+    while saying he has not personally seen or known these spirits.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hidden household spirit attacks sleepers
+  taxonomy_refs: []
+  basis: A spirit lives concealed behind interior skin hangings and harpoons a person
+    lying asleep.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches this household-spirit attack
+    pattern.
+- id: motif:2
+  label: Spirit cry diagnoses the victim’s fate
+  taxonomy_refs: []
+  basis: The spirit’s spoken cries distinguish a harmless graze from an embedded harpoon
+    point that will lead to death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the cries as explanations of injury outcome, not
+    as a broader omen system.
+- id: motif:3
+  label: Initially slight supernatural wound leads to wasting death
+  taxonomy_refs: []
+  basis: A slight smarting after the embedded harpoon point is followed by increasing
+    pains, pining away, and death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The cause is specifically the spirit’s harpoon; broader illness motifs
+    are not asserted by the passage.
+- id: motif:4
+  label: Ancestral testimony about feared spirits
+  taxonomy_refs: []
+  basis: Former generations are said to have related what they saw and heard, and
+    the narrator accepts their truthfulness while qualifying his lack of personal
+    experience.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a framing pattern in the passage rather than an action motif involving
+    the spirit itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5403-5407
+  quote_or_summary: The spirit is named as the Spirit of the Skin Hangings, and old
+    people are said to have been very afraid of it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; explicit rights_status not supplied
+    in request.
+- id: ev:2
+  type: summary
+  locator: lines 5408-5413
+  quote_or_summary: The inside walls of houses are usually hung with skins; the spirit
+    lived behind the skins and would harpoon a person lying asleep on the sleeping-place.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; explicit rights_status not supplied
+    in request.
+- id: ev:3
+  type: quote
+  locator: lines 5414-5417
+  quote_or_summary: "“pinguivunga,” meaning that the throw only grazed him and the
+    person had nothing to fear."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; explicit rights_status not supplied
+    in request.
+- id: ev:4
+  type: summary
+  locator: lines 5417-5423
+  quote_or_summary: The cry “kitsoraupunga” means the line has broken; the harpoon
+    point is embedded, and the victim first feels slight smarting, then increasing
+    pains, and dies.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; explicit rights_status not supplied
+    in request.
+- id: ev:5
+  type: summary
+  locator: lines 5424-5428
+  quote_or_summary: All the old people were afraid; former generations related what
+    they saw and heard, while the narrator says he has not personally seen or known
+    these spirits and cannot say they are present now.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; explicit rights_status not supplied
+    in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear literal details for figures, actions, and setting.
+    Motif labels are descriptive and not tied to supplied taxonomy families because
+    no exact available family is supported. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned; the passage supports local descriptive motifs rather than the listed broader motif families.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l5403-l5428
+  passage_sha256=77ad6b09738b6afc8e74e70779396240ee9dce4f4f752e7fb6aaad88d0beb7ed
+

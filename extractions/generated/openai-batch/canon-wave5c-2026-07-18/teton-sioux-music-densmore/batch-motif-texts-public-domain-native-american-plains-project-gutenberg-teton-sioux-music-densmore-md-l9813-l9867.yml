@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l9813-l9867
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TBTON  SIOUX  MTJSIO / U  OF  AMERICAN  ETHNOLOGY / BULLETIN  61    PLATE  17
+    / BUREAU  OP  AMEBICAN  ETHNTOLOGY; lines 9813-9867
+  start: '9813'
+  end: '9867'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Leader of the Dancers and the Intercessor in
+    connection with the Sun dance, focusing on costume, body paint, animal-skin materials,
+    feather use, and variant individual regalia. It also records the Crier's announcement
+    opening the ceremony and the Intercessor's prominent place in the procession toward
+    the Sun-dance circle.
+  language: English with quoted Dakota/Lakota ceremonial words
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Leader of the Dancers was with the Intercessor in the council tent.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chased-by-Bears said that, when acting as Leader of the Dancers, he was painted
+    white with black streaks across his forehead and down his cheeks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Leader of the Dancers wore a deerskin nite'iyapehe that had been elaborately
+    worked with porcupine quills by women among his relatives.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Intercessor's costume was described as somewhat similar to that of the
+    dancers, but with additional buffalo-skin, buffalo-hair, and buffalo-horn elements.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Intercessor's hair was braided; he wore one white downy eagle feather;
+    his face and hands were painted red.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Red Weasel described an Intercessor costume variant using otter skin on wrists,
+    ankles, and hair braids, plus a buffalo-hide shirt trimmed with human hair said
+    to represent enemy hair.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: On the morning appointed for the Sun dance, the Crier went around the camp
+    circle announcing the opening of the ceremony.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the procession approaching the Sun-dance circle, the Intercessor was the
+    most prominent figure and the others acted as his escort.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A figure caption in the passage identifies a decorated stick worn in the Sun
+    dance.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Leader of the Dancers
+  description: Ritual role located with the Intercessor in the council tent; costume
+    not necessarily different from that of the dancers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Intercessor
+  description: Ritual figure whose costume included buffalo-skin, buffalo-hair or
+    horn elements, braided hair, an eagle feather, and red paint; later described
+    as the most prominent figure in the procession.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Chased-by-Bears
+  description: Person who stated what he wore and how he was painted when acting as
+    Leader of the Dancers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Women among the Leader's relatives
+  description: Women relatives who elaborately worked porcupine quills on the deerskin
+    nite'iyapehe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Dancers
+  description: Group whose costume is used as a point of comparison for the Leader
+    of the Dancers and the Intercessor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Red Weasel
+  description: Person who stated an individual Intercessor costume variant involving
+    otter skin and a buffalo-hide shirt trimmed with human hair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Crier
+  description: Person who went around the camp circle announcing the opening of the
+    Sun dance ceremony.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Escort in the procession
+  description: The others in the procession who acted as the Intercessor's escort.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Leader of the Dancers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage names this office and reports Chased-by-Bears's appearance when
+    acting in it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Intercessor
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The passage describes the Intercessor's costume and gives Red Weasel's individual
+    variant of that costume.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Dancers
+  assigned_to:
+  - fig:5
+  basis: The passage refers to the dancers as a group whose costume is compared with
+    the Leader's and the Intercessor's.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Garment decorators among relatives
+  assigned_to:
+  - fig:4
+  basis: The passage says women among the Leader's relatives worked porcupine quills
+    on the deerskin garment.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Ceremonial announcer
+  assigned_to:
+  - fig:7
+  basis: The Crier went around the camp circle announcing the ceremony's opening.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Processional escort
+  assigned_to:
+  - fig:8
+  basis: The passage states that the others in the procession acted as the Intercessor's
+    escort.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Deerskin nite'iyapehe with porcupine quillwork
+  literal_form: Deerskin garment elaborately wrought with porcupine quills
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: White paint with black streaks
+  literal_form: White body or face paint with black streaks across the forehead and
+    down the cheeks
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Buffalo-skin and buffalo-hair regalia
+  literal_form: Bands of buffalo skin, robe from a buffalo shedding its hair, bits
+    of shed buffalo hair tied to the Intercessor's hair, buffalo horns or a strip
+    of buffalo skin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: White downy eagle feather
+  literal_form: One white downy eagle feather
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Red paint
+  literal_form: Red paint on the Intercessor's face and hands
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Otter-skin bands and hair wrappings
+  literal_form: Otter skin around wrists and ankles and wound around hair braids
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Buffalo-hide shirt trimmed with human hair
+  literal_form: Buffalo-hide shirt trimmed with human hair said to represent the hair
+    of an enemy
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Decorated stick worn in Sun dance
+  literal_form: Decorated stick identified in a figure caption as worn in the Sun
+    dance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Council tent and Leader's regalia
+  summary: The Leader of the Dancers is placed with the Intercessor in the council
+    tent, and Chased-by-Bears describes the Leader's paint and decorated deerskin
+    garment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Intercessor costume description
+  summary: The Intercessor's costume is described through buffalo-skin, buffalo-hair
+    or horn elements, braided hair, one eagle feather, red paint, and Red Weasel's
+    otter-skin and human-hair variant.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Crier opens the Sun dance ceremony
+  summary: On the morning appointed for the Sun dance, the Crier circles the camp
+    and calls people to the ceremony's opening.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Procession to the Sun-dance circle
+  summary: A procession approaches the Sun-dance circle with the Intercessor as the
+    most prominent figure and others serving as his escort; the passage breaks off
+    after saying he held something before him with uplifted stem.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Decorated Sun dance stick caption
+  summary: An embedded figure caption identifies a decorated stick worn in the Sun
+    dance.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritual office marked by costume and body paint
+  taxonomy_refs: []
+  basis: The Leader of the Dancers and the Intercessor are distinguished through paint,
+    hair arrangement, feather use, and garments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic ritual pattern in the passage, not a mythic narrative
+    episode.
+- id: motif:2
+  label: Animal materials incorporated into ceremonial regalia
+  taxonomy_refs: []
+  basis: The passage repeatedly names deerskin, porcupine quills, buffalo skin, buffalo
+    hair, buffalo horns, eagle feather, and otter skin as elements of Sun dance regalia.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No symbolic interpretation of these animal materials is supplied in the
+    passage.
+- id: motif:3
+  label: Public summons to begin ceremony
+  taxonomy_refs: []
+  basis: The Crier goes around the camp circle and announces the opening of the Sun
+    dance ceremony.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the announcement but does not explain its wider ritual
+    meaning.
+- id: motif:4
+  label: Prominent ritual mediator escorted in procession
+  taxonomy_refs: []
+  basis: In the procession approaching the Sun-dance circle, the Intercessor is the
+    most prominent figure and the others act as his escort.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The final sentence is truncated, so details of what the Intercessor carried
+    are incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9813-9821
+  quote_or_summary: The Leader of the Dancers was with the Intercessor in the council
+    tent; Chased-by-Bears said that, when acting as leader, he was painted white with
+    black streaks and wore a deerskin nite'iyapehe decorated with porcupine quills
+    by women among his relatives.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+- id: ev:2
+  type: summary
+  locator: 9822-9846
+  quote_or_summary: The Intercessor's costume was similar to the dancers' but included
+    buffalo-skin bands, a shedding buffalo-skin robe, buffalo hair tied to his own
+    hair, buffalo horns or a buffalo-skin strip, braided hair, one white downy eagle
+    feather, and red paint on face and hands.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+- id: ev:3
+  type: summary
+  locator: 9847-9853
+  quote_or_summary: Red Weasel stated that his Intercessor costume used otter skin
+    around wrists and ankles and wound on hair braids, plus a buffalo-hide shirt trimmed
+    with human hair representing enemy hair.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+- id: ev:4
+  type: quote
+  locator: 9854-9857
+  quote_or_summary: 'The Crier announced: "Wana'' u po. Wana'' yuStanpe. InaK''ni
+    po!" translated in the passage as "Now all come. Now it is finished. Hasten!"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+- id: ev:5
+  type: summary
+  locator: 9859-9867
+  quote_or_summary: In the procession approaching the Sun-dance circle, the Intercessor
+    was the most prominent figure, the others acted as his escort, and the passage
+    begins to say he held something before him with uplifted stem before breaking
+    off.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+- id: ev:6
+  type: summary
+  locator: embedded figure caption within 9822-9846
+  quote_or_summary: An embedded caption identifies a decorated stick worn in the Sun
+    dance.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Passage supplied by user; rights metadata not specified.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily ethnographic description of ritual roles and regalia.
+    Some OCR noise and a truncated final sentence limit certainty, especially for
+    the processional object.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or provided symbol reference was assigned because the passage does not directly support the available taxonomy items such as fire, water, tree, mountain, serpent, initiation, or sacrifice.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l9813-l9867
+  passage_sha256=8e8c73d17e4c28acec61466bf5374480221b49017d173e7a336601b625cdb88b
+

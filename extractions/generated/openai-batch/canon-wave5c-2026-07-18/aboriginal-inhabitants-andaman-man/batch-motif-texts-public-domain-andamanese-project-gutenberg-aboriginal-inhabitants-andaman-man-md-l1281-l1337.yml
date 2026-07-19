@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.texts-public-domain-andamanese-project-gutenberg-aboriginal-inhabitants-andaman-man-md-l1281-l1337
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: INTBODUCTION. / INTRODUCTION. / INTRODUCTION. / INTRODUCTION.; lines 1281-1337
+  start: '1281'
+  end: '1337'
+  translation: aboriginal-inhabitants-andaman-man
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes expansion of the Port Blair penal settlement through
+    cleared land, cultivation, plantations, a large convict population distributed
+    across stations and villages, roads encircling and connecting the harbour, and
+    semaphore signalling posts for emergency communication.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Further tracts of land near Port Mouat and the Southern District were cleared
+    and placed under cultivation, connecting parts of the settlement around Port Blair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cultivation of paddy, sugar-cane, Indian corn, fruits, and vegetables provided
+    occupation for about 1,500 self-supporting people, and additional plantation industries
+    were opened chiefly through Government labour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cotton cultivation had been discontinued because the plants could not survive
+    the dry season without extensive watering, while tobacco experiments were renewed
+    after earlier curing failures.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The aggregate population was stated to be about 15,000, nearly four-fifths
+    including the convict element, distributed among about thirty stations and a similar
+    number of villages.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A main road encircled the harbour for about forty miles, with additional roads
+    intersecting and connecting settlement areas.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Signalling posts at principal police stations allowed messages to be semaphored
+    at any hour for emergencies in the penal settlement.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: self-supporting prisoners or population
+  description: A self-supporting group, including prisoners, associated with cultivation;
+    about 1,500 are occupied by agricultural work, and two-thirds of self-supporting
+    prisoners are located in the Southern District.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: convict element or convict population
+  description: A large convict element forming nearly four-fifths of the aggregate
+    population and distributed among scattered stations and villages.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Government labour
+  description: Labour chiefly used to open further plantation industries in the settlement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: agricultural workforce
+  assigned_to:
+  - fig:1
+  basis: Cultivation is said to afford occupation to a large self-supporting population.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: self-supporting prisoner group
+  assigned_to:
+  - fig:1
+  basis: The Southern District is described as containing two-thirds of all self-supporting
+    prisoners.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: distributed penal population
+  assigned_to:
+  - fig:2
+  basis: The convict element is distributed among scattered stations and villages
+    throughout the cleared area.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: plantation-opening labour force
+  assigned_to:
+  - fig:3
+  basis: Further plantation industries are described as opened chiefly by means of
+    Government labour.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: harbour and coastal settlement area
+  literal_form: Port Blair harbour, Ross Island, Viper Island, Port Mouat, and surrounding
+    west-coast land
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cultivated crops and plantations
+  literal_form: paddy, sugar-cane, Indian corn, fruits, vegetables, cocoanut, tea,
+    coffee, cacao, nutmeg, limes, arrowroot, rubber, tapioca, indigo, vanilla, cotton,
+    and tobacco
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: encircling main road
+  literal_form: main road encircling the harbour for about forty miles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: signalling posts
+  literal_form: signalling posts at principal police stations used for semaphore messages
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: clearing and agricultural expansion
+  summary: Land around Port Mouat and the Southern District is cleared and cultivated,
+    with agricultural work occupying self-supporting people and plantations expanded
+    by Government labour.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: population distribution across the penal settlement
+  summary: The settlement’s population is described numerically, with a large convict
+    element spread among scattered stations and villages around the harbour and Port
+    Mouat.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: road and semaphore communication network
+  summary: A main road encircles the harbour, other roads connect settlement areas,
+    and police-station signalling posts allow semaphore communication during emergencies.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cleared-land cultivation and plantation expansion
+  taxonomy_refs: []
+  basis: The passage repeatedly describes cleared land, cultivation, crop production,
+    and plantation industries supported by self-supporting and Government labour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an administrative and economic pattern, not a mythological motif;
+    no listed motif-family taxonomy is directly supported.
+- id: motif:2
+  label: settlement encirclement and emergency communication network
+  taxonomy_refs: []
+  basis: The passage describes a penal settlement spread around a harbour, connected
+    by roads and semaphore signalling posts for emergency communication.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an infrastructural control pattern in historical prose, not a
+    comparative mythological motif; no comparison is implied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1281-1293
+  quote_or_summary: Land near Port Mouat and the Southern District of Port Blair is
+    described as cleared and placed under cultivation, with the Southern District
+    containing a large share of self-supporting prisoners.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Passage supplied in request; source path indicates a public-domain
+    Project Gutenberg text, while rights metadata was not separately provided.
+- id: ev:2
+  type: summary
+  locator: lines 1294-1313
+  quote_or_summary: The passage lists cultivated crops and plantation products, says
+    cultivation occupies about 1,500 self-supporting people, notes Government labour
+    in opening plantations, and describes cotton and tobacco experiments.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Passage supplied in request; source path indicates a public-domain
+    Project Gutenberg text, while rights metadata was not separately provided.
+- id: ev:3
+  type: summary
+  locator: lines 1314-1322
+  quote_or_summary: The aggregate population is about 15,000; nearly four-fifths include
+    the convict element, distributed among about thirty stations and a similar number
+    of villages throughout the cleared area.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Passage supplied in request; source path indicates a public-domain
+    Project Gutenberg text, while rights metadata was not separately provided.
+- id: ev:4
+  type: summary
+  locator: lines 1323-1331
+  quote_or_summary: The main road encircles the harbour for about forty miles, with
+    many roads intersecting the settlement and connecting its parts; road repair is
+    emphasized.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Passage supplied in request; source path indicates a public-domain
+    Project Gutenberg text, while rights metadata was not separately provided.
+- id: ev:5
+  type: summary
+  locator: lines 1331-1337
+  quote_or_summary: Signalling posts at principal police stations allow messages to
+    be semaphored at any hour of day or night, especially for emergencies in the penal
+    settlement.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Passage supplied in request; source path indicates a public-domain
+    Project Gutenberg text, while rights metadata was not separately provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Candidate motifs are better understood
+    as administrative settlement patterns rather than mythological motifs. No passage-supported
+    comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological figures, divine beings, ritual episodes, or passage-supported cross-cultural comparisons appear in this excerpt.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-andamanese-project-gutenberg-aboriginal-inhabitants-andaman-man-md__l1281-l1337
+  passage_sha256=5e5a914aa56ee9d88768979b069fe6203a73b14a0302b15014daba970f856e73
+

@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l19274-l19316
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: XII, 2 , 7 . / A'ULLAYAGGA. / XII, 2 , 8. / XII, 2 , 9.; lines 19274-19316
+  start: '19274'
+  end: '19316'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: rehearsal of the Vinaya called ‘ That of the seven hundred’
+  summary: A settled legal question is rehearsed again before the Saṅgha. Revata questions
+    Sabbakami on ten points in the midst of the community, and Sabbakami answers each
+    point. The passage states that seven hundred Bhikkhus took part in this rehearsal
+    of the Vinaya, giving it the name “That of the seven hundred.”
+  language: English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A legal question is described as already concluded and settled once for all.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Revata is asked to question Sabbakami on ten points in the midst of the Saṅgha
+    in order to persuade the Bhikkhus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Revata questions Sabbakami on the ten points before the Saṅgha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sabbakami replies to each point as he is questioned.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seven hundred Bhikkhus, neither more nor fewer, take part in the rehearsal
+    of the Vinaya.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rehearsal is called “That of the seven hundred.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Revata
+  description: A venerable Bhikkhu who questions Sabbakami on the ten points in the
+    midst of the Saṅgha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sabbakami
+  description: A venerable Bhikkhu who replies when questioned on the ten points.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Saṅgha
+  description: The monastic community in whose midst the questioning takes place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Seven hundred Bhikkhus
+  description: The full group of seven hundred Bhikkhus who take part in the rehearsal
+    of the Vinaya.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Revata questions Sabbakami on the ten points.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: respondent
+  assigned_to:
+  - fig:2
+  basis: Sabbakami gives replies as he is questioned.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: witnessing community
+  assigned_to:
+  - fig:3
+  basis: The questioning occurs in the midst of the Saṅgha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: participants in Vinaya rehearsal
+  assigned_to:
+  - fig:4
+  basis: Seven hundred Bhikkhus take part in the rehearsal of the Vinaya.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: seven hundred
+  literal_form: The number seven hundred applied to the Bhikkhus who took part in
+    the Vinaya rehearsal.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: rehearsal of the Vinaya
+  literal_form: A formal communal rehearsal or recitation of the Vinaya.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Questioning before the Saṅgha
+  summary: Revata questions Sabbakami on ten settled legal points before the Saṅgha,
+    and Sabbakami replies point by point.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Naming of the rehearsal by its participants
+  summary: The passage states that exactly seven hundred Bhikkhus participated, and
+    therefore the Vinaya rehearsal is named “That of the seven hundred.”
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: authoritative communal adjudication
+  taxonomy_refs: []
+  basis: A settled legal question is publicly rehearsed through questions and answers
+    before the Saṅgha to persuade the Bhikkhus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a legal-monastic procedural pattern rather than an explicitly
+    mythological motif.
+- id: motif:2
+  label: canonical rehearsal named by fixed assembly number
+  taxonomy_refs: []
+  basis: The Vinaya rehearsal is identified by the exact number of participating Bhikkhus,
+    seven hundred.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage treats the number as an identifying title; it does not itself
+    assign symbolic meaning to the number.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19274-19280
+  quote_or_summary: "“This legal question, Sir, has been concluded; and being settled,
+    it is settled once for all. Nevertheless... do you question me on these ten points
+    in the midst also of the Saṅgha... in order to persuade those Bhikkhus.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided passage from source metadata; rights status not specified
+    in request.
+- id: ev:2
+  type: summary
+  locator: lines 19282-19286
+  quote_or_summary: Revata questions Sabbakami on the ten points in the midst of the
+    Saṅgha, and Sabbakami replies to each in turn.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided passage from source metadata; rights status not specified
+    in request.
+- id: ev:3
+  type: quote
+  locator: lines 19288-19292
+  quote_or_summary: "“seven hundred Bhikkhus, without one more, without one being
+    wanting, took part,” so the rehearsal was called “That of the seven hundred.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided passage from source metadata; rights status not specified
+    in request.
+- id: ev:4
+  type: citation
+  locator: lines 19309-19316
+  quote_or_summary: A following note begins a discussion of Bhaṇavāras or Portions
+    for Recitation as relevant to the history of textual transmission.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided passage from source metadata; rights status not specified
+    in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The procedural content is clear, but motif classification is limited because
+    the passage is legal and monastic rather than narrative myth. No comparison claims
+    were made beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the passage does not explicitly support the supplied mythic taxonomy categories.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l19274-l19316
+  passage_sha256=6bd98b477a82b84fa49d1ff6a5b234a3a6198d2c7273343e900c6d148e21be39
+

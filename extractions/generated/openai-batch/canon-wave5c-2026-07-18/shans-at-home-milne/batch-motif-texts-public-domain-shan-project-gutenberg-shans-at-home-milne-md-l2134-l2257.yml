@@ -1,0 +1,558 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l2134-l2257
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: GIRLS AGED EIGHT AND THREE. / GIRL FIVE YEARS OLD. / A CHILD'S LIFE / LITTLE
+    GIRL.; lines 2134-2257
+  start: '2134'
+  end: '2257'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Shan children's household training, girls' domestic
+    work, boys' buffalo riding and herding, food practices, and rainy-season jungle
+    herding. It also reports beliefs about spirit trees, ogres, and a great white
+    tiger said to be the ancestor of the Shan race, accompanied by ghostly leopards.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children are instructed not to touch their father's water-bottle, which is
+    filled daily with pure water even when he is absent for a long journey.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Girls are taught cotton and loom-related tasks in the home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Children help watch a wood fire set on a sand-filled box to keep embers from
+    setting the bamboo floor on fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Little girls are described as dressing exactly like their mothers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Boys may help their mothers bring water and are taught from a young age to
+    ride buffaloes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Buffaloes are said to obey small riders but often resist leaving the stream
+    after bathing.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: During the rains, boys drive cattle and buffaloes to the hillside jungle for
+    grass because paddy lands are under water.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The jungle is described as containing animal dangers and good and bad spirits.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A tree may be identified as a spirit tree when one branch shakes without wind
+    while the rest of the tree is still.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Ogres are described as monsters with curly black hair and long sharp teeth
+    who live on human flesh.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A great white tiger is said in tales to be the ancestor of the Shan race and
+    to pass through the country followed by fifty ghostly leopards.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The white tiger and ghostly leopards are said to leave no footprints, though
+    claw marks may be seen on trees.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Children herd cattle in company because of both real and unreal dangers in
+    the jungle.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: A mother prepares a boy's second meal by wrapping curry and rice separately
+    in banana leaves and tying them with a strip of bamboo stem.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Little girls
+  description: Girls in the home who learn domestic tasks and dress like their mothers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Little boys
+  description: Boys who help with water, learn buffalo riding, herd animals, and carry
+    food to the jungle.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:12
+- id: fig:3
+  name_or_label: Mothers
+  description: Mothers who receive help from boys in bringing water and prepare food
+    packets for sons going herding.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: fig:4
+  name_or_label: Buffaloes
+  description: Large animals ridden and herded by boys; they obey commands but resist
+    leaving stream water after bathing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Spirits
+  description: Good and bad spirits associated with the jungle; a spirit may be inferred
+    to move in a tree.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Ogres
+  description: Terrible monsters with curly black hair and long sharp teeth who live
+    on human flesh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Great white tiger
+  description: A tale figure said to be the ancestor of the Shan race; no one has
+    seen him, but he sometimes passes through the country.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Fifty ghostly leopards
+  description: A ghostly group said to follow the great white tiger and to leave no
+    footprints.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: domestic learner
+  assigned_to:
+  - fig:1
+  basis: Girls are taught household textile tasks and are described as tiny versions
+    of their mothers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: young animal rider
+  assigned_to:
+  - fig:2
+  basis: Boys are taught to ride buffaloes and later mount by using the buffalo's
+    head and horns.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: child herder
+  assigned_to:
+  - fig:2
+  basis: Boys herd cattle and buffaloes together in the hillside jungle during the
+    rains.
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: role:4
+  label: food preparer
+  assigned_to:
+  - fig:3
+  basis: The mother prepares the boy's second meal in banana leaves before he goes
+    herding.
+  evidence_refs:
+  - ev:12
+- id: role:5
+  label: riding and herding animal
+  assigned_to:
+  - fig:4
+  basis: Buffaloes are ridden by boys, obey commands, and are taken to bathe in a
+    stream.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: unseen jungle presence
+  assigned_to:
+  - fig:5
+  basis: The jungle is said to contain good and bad spirits, and tree movement is
+    taken as a sign of a spirit.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: man-eating monster
+  assigned_to:
+  - fig:6
+  basis: Ogres are described as monsters who live on human flesh.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: ancestral animal in tale
+  assigned_to:
+  - fig:7
+  basis: The great white tiger is called the ancestor of the Shan race in local tales.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: ghostly retinue
+  assigned_to:
+  - fig:8
+  basis: The fifty ghostly leopards are said to follow the great white tiger.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: father's water-bottle
+  literal_form: A water-bottle belonging only to the father, filled daily with pure
+    water.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wood fire on sand-filled hearth box
+  literal_form: A wood fire burning on a box filled with deep sand to protect the
+    bamboo floor.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: spirit tree
+  literal_form: A tree whose single branch shakes its leaves when there is no wind
+    and the rest of the tree is still.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: stream water for buffalo bathing
+  literal_form: A stream where children and buffaloes bathe, with buffaloes reluctant
+    to leave the water.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: great white tiger
+  literal_form: A great white tiger said to be the ancestor of the Shan race.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: claw marks without footprints
+  literal_form: Marks scored on tree bark by the white tiger and ghostly leopards,
+    despite their leaving no footprints.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Household training and protected hearth
+  summary: 'Children learn household restrictions and tasks: the father''s water-bottle
+    is kept separate, girls learn textile work, and children help watch a sand-protected
+    wood fire.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boys learn buffalo riding
+  summary: Small boys learn to ride buffaloes, first with help from older boys and
+    later by mounting using the buffalo's head and horns.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Buffalo bathing in the stream
+  summary: Children take buffaloes to bathe in a stream; the animals lie down with
+    satisfaction but resist leaving the water.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rainy-season herding in the jungle
+  summary: Boys herd animals to the hillside jungle during the rains, where dangers
+    include wild animals, spirits, spirit trees, ogres, and tales of a white tiger
+    ancestor with ghostly leopards.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Food prepared for herding
+  summary: Before a boy leaves for the jungle, his mother packs rice and curry separately
+    in banana leaves tied with a strip of bamboo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: reserved water vessel with prohibition
+  taxonomy_refs:
+  - water
+  basis: The father's water-bottle belongs only to him, must not be touched by children,
+    and is filled daily with pure water even during his absence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as household practice; any ritual or symbolic
+    significance beyond the prohibition is not stated.
+- id: motif:2
+  label: spirit tree signaled by unnatural movement
+  taxonomy_refs: []
+  basis: Some trees are known as spirit trees, and a branch moving without wind while
+    the rest of the tree is still is taken as evidence that a spirit is moving in
+    the tree.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage reports children's certainty but does not provide a formal
+    myth narrative.
+- id: motif:3
+  label: man-eating ogre
+  taxonomy_refs: []
+  basis: Children hear of ogres described as terrible monsters with distinctive hair
+    and teeth who live on human flesh.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage summarizes tales rather than narrating a specific ogre story.
+- id: motif:4
+  label: animal ancestor of a people
+  taxonomy_refs: []
+  basis: Tales describe a great white tiger as the ancestor of the Shan race.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage gives only a brief report and does not explain genealogy,
+    cult, or origin story details.
+- id: motif:5
+  label: ghostly animal procession leaving signs but no footprints
+  taxonomy_refs: []
+  basis: The great white tiger is said to pass through the country followed by fifty
+    ghostly leopards; they leave no footprints, but their claw marks may be seen on
+    tree bark.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The motif is inferred from a brief tale summary; no full episode is supplied.
+- id: motif:6
+  label: children avoid haunted wilderness by traveling in company
+  taxonomy_refs: []
+  basis: The passage states that real and unreal jungle dangers make children herd
+    cattle together.
+  evidence_refs:
+  - ev:7
+  - ev:11
+  confidence: medium
+  cautions: This is described as behavior shaped by fear rather than as a developed
+    mythic plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2134-2142
+  quote_or_summary: Children must not touch the father's water-bottle; it belongs
+    only to him and is filled daily with pure water even when he is away for weeks.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 2142-2154
+  quote_or_summary: Girls learn cotton and loom tasks; children watch a wood fire
+    on a sand-filled box; little girls dress like their mothers.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 2155-2166
+  quote_or_summary: Boys may help bring water and are taught to ride buffaloes, which
+    obey slight touches of the riders' toes and commands to walk, run, or lie down.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 2166-2174
+  quote_or_summary: When children take buffaloes to bathe in a stream, the animals
+    lie down willingly but strongly object to leaving the water.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 2175-2191
+  quote_or_summary: A beginner is helped onto a buffalo; later he mounts by pulling
+    down the buffalo's head and climbing by its horns, not by the tail.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 2192-2202
+  quote_or_summary: During the rains, boys herd cattle and buffaloes to the hillside
+    jungle for grass because the paddy lands are under water.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:7
+  type: summary
+  locator: lines 2202-2205
+  quote_or_summary: The jungle is described as full of terrors for children, including
+    leopards, bears, tigers, and good and bad spirits.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:8
+  type: summary
+  locator: lines 2205-2210
+  quote_or_summary: Some trees are known as spirit trees; if one branch shakes without
+    wind while the rest is still, boys believe a spirit is moving in the tree.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:9
+  type: summary
+  locator: lines 2210-2213
+  quote_or_summary: Boys have heard of ogres, monsters with curly black hair and long
+    sharp teeth, who live on human flesh.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:10
+  type: summary
+  locator: lines 2213-2220
+  quote_or_summary: Tales describe a great white tiger, ancestor of the Shan race,
+    who passes through the country followed by fifty ghostly leopards; they leave
+    claw marks on trees but no footprints.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:11
+  type: summary
+  locator: lines 2220-2222
+  quote_or_summary: The passage states that real and unreal jungle dangers make children
+    herd cattle in company.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+- id: ev:12
+  type: summary
+  locator: lines 2223-2234
+  quote_or_summary: Before herding, a mother packs curry and rice separately in banana
+    leaves and ties them with a strip torn from bamboo; sometimes the boy takes only
+    plain rice.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Source metadata rights status not supplied; repository path indicates
+    a public-domain Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic and gives brief belief summaries rather than full
+    myth narratives. No comparison claims were made because the passage does not itself
+    support a comparative mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied symbol or motif-family labels where directly supported by literal passage content.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l2134-l2257
+  passage_sha256=9f52415dab3948331ef59f0830afae6382cfd7854c25ecbe49c84c85546c325f
+

@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l9697-l9709
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: FUNERAL RITES / MOURNING / GENTE8 / SLAVES; lines 9697-9709
+  start: '9697'
+  end: '9709'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pima treatment of enslaved or captive children, chiefly
+    from Apache groups or their allies. Captured Apache children were not killed but
+    were sent to towns and sold to Spaniards or Mexicans. Captives were reportedly
+    treated well, but their origin remained socially marked, and medicine-men sometimes
+    attributed misfortunes to the presence of aliens. In rare cases, captive girls
+    married into the tribe, introducing foreign ancestry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Pima slaves were chiefly taken from Apaches or their allies.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says war with the Yumas did not lead to the capture of many Yuma
+    children.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Captured Apache children were not killed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Captured Apache children were sent to Tucson, Altar, or Guaymas and sold to
+    Spaniards or Mexicans.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that these captives were well treated, but their origin
+    was not forgotten.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Medicine-men sometimes declared that certain misfortunes were caused by the
+    presence of aliens.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says captive girls were rarely married into the tribe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says such marriages introduced an appreciable amount of foreign
+    blood into the tribe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: The group described as taking slaves or captives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Apaches or their allies
+  description: The groups from whose ranks Pima slaves were chiefly taken.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yumas
+  description: A group against whom war was waged, though not in a way that enabled
+    many Yuma children to be captured.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Captured Apache children
+  description: Children who were captured, not killed, sent to towns, and sold.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Spaniards or Mexicans
+  description: The buyers to whom captured Apache children were sold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Medicine-men
+  description: Authorities who sometimes decreed that misfortunes were caused by the
+    presence of aliens.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Captive girls married into the tribe
+  description: Girls who were rarely married into the tribe, introducing foreign ancestry.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: captors
+  assigned_to:
+  - fig:1
+  basis: The passage says slaves taken by the Pimas were chiefly from Apaches or their
+    allies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captives or aliens
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:7
+  basis: The passage identifies captured Apache children and later refers to captives
+    and aliens whose origins were remembered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: persons sold away
+  assigned_to:
+  - fig:4
+  basis: Captured Apache children were forwarded to towns and sold to Spaniards or
+    Mexicans.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: buyers
+  assigned_to:
+  - fig:5
+  basis: The passage says the children were sold to Spaniards or Mexicans.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: misfortune-attributing authorities
+  assigned_to:
+  - fig:6
+  basis: Medicine-men decreed at times that certain misfortunes were caused by the
+    presence of aliens.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: marriage incorporators
+  assigned_to:
+  - fig:7
+  basis: The passage says some girls were married into the tribe.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Captive source groups
+  summary: Pima slaves are described as coming chiefly from Apaches or their allies,
+    while war with the Yumas did not yield many captured Yuma children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sale of captured children
+  summary: Captured Apache children are spared from killing, sent to Tucson, Altar,
+    or Guaymas, and sold to Spaniards or Mexicans.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Alien origin remembered
+  summary: Captives are said to be well treated, but their origins remain remembered,
+    and medicine-men sometimes attribute misfortunes to the presence of aliens.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rare marriage into the tribe
+  summary: Some captive girls are rarely married into the tribe, introducing foreign
+    ancestry.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captive children spared and sold to outsiders
+  taxonomy_refs: []
+  basis: The passage describes captured Apache children as not killed, then forwarded
+    to towns and sold to Spaniards or Mexicans.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic social pattern in the passage, not explicitly
+    a mythic motif.
+- id: motif:2
+  label: alien presence blamed for communal misfortune
+  taxonomy_refs: []
+  basis: The passage says medicine-men sometimes decreed that misfortunes were caused
+    by the presence of aliens.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports attribution of misfortune but does not provide a narrative
+    episode or cosmological explanation.
+- id: motif:3
+  label: captive outsider incorporated through marriage
+  taxonomy_refs: []
+  basis: The passage says captive girls were rarely married into the tribe and introduced
+    foreign blood.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as rare social incorporation, not as a symbolic
+    or mythological marriage motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9697-9701
+  quote_or_summary: Slaves taken by the Pimas were chiefly from Apaches or their allies;
+    war with the Yumas did not enable capture of many Yuma children.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source metadata rights status not specified in request; source path
+    indicates public-domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: 9701-9704
+  quote_or_summary: Captured Apache children were not killed; they were sent to Tucson,
+    Altar, or Guaymas and sold to Spaniards or Mexicans.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source metadata rights status not specified in request; source path
+    indicates public-domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: 9704-9708
+  quote_or_summary: Captives were reportedly well treated, but their origin was remembered;
+    medicine-men sometimes decreed that misfortunes were caused by the presence of
+    aliens.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source metadata rights status not specified in request; source path
+    indicates public-domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: 9708-9709
+  quote_or_summary: Rarely, captive girls were married into the tribe, introducing
+    foreign blood.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source metadata rights status not specified in request; source path
+    indicates public-domain Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labeling is limited because
+    the passage is ethnographic description rather than a mythic narrative, and no
+    explicit comparative claim is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not directly match the passage content.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l9697-l9709
+  passage_sha256=990568014309453c3c3d5056c5929402d6abfff0d272a64ee2a159bda2cfa51a
+

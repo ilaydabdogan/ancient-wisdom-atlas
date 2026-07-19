@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l12954-l12967
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: SHOULDEN-RUFF OF MACAW-FEATHERS. / PAIR OF WOODEN FLUTES. / ZZOLIAN HARP.
+    / ATHLETIC SPORTS. . 327 -; lines 12954-12967
+  start: '12954'
+  end: '12967'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: A challenge is given and accepted. Each of the opponents is provided with
+    a large square shield, called ha-ha...
+  summary: 'The passage describes an athletic contest practiced at paiwari feasts:
+    a challenge is issued and accepted, each opponent receives a large square shield
+    called a ha-ha, and two wrestlers stand behind and grip their shields.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The described athletic sports are practiced at paiwari feasts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A challenge is given and accepted before the contest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each opponent is provided with a large square shield called a ha-ha.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ha-ha is described as about four feet high and three feet wide.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shield is made from parallel strips of eta palm pith lashed together by
+    three long transverse sticks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The transverse sticks have ends ornamented with large tassels of loose fibre.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two wrestlers each stand behind a shield and grasp it with their hands by
+    its two sides.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: opponents
+  description: Contestants in the athletic sport, each provided with a large square
+    shield.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: two wrestlers
+  description: Two wrestlers, each positioned behind his shield and grasping it by
+    the sides.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: challenged opponents
+  assigned_to:
+  - fig:1
+  basis: The passage says a challenge is given and accepted and then describes each
+    opponent receiving a shield.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: shield-bearing wrestlers
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the two participants as wrestlers, each behind a shield
+    and holding it.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ha-ha shield
+  literal_form: Large square shield called ha-ha, about four feet high by three wide,
+    made of eta palm pith strips and ornamented with tassels of loose fibre.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: paiwari feast
+  literal_form: Feast setting in which the athletic sports are practiced.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Athletic contest at a paiwari feast
+  summary: At a paiwari feast, a challenge is issued and accepted. Each opponent receives
+    a decorated square shield called a ha-ha, and two wrestlers stand behind their
+    shields and grip them by the sides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritualized athletic challenge with shields
+  taxonomy_refs: []
+  basis: 'The passage presents a patterned contest setting: a feast, a formal challenge
+    and acceptance, shield equipment, and two wrestlers facing the contest from behind
+    shields.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is ethnographic and fragmentary, and does not frame the contest
+    as a mythic narrative or connect it to a named mythological motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12954-12956
+  quote_or_summary: The athletic sports are described as being practiced at paiwari
+    feasts.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source rights status not supplied in metadata; passage appears from
+    a public-domain Project Gutenberg text path.
+- id: ev:2
+  type: quote
+  locator: lines 12956-12957
+  quote_or_summary: "“A challenge is given and accepted.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source rights status not supplied in metadata; short excerpt used for
+    evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12957-12960
+  quote_or_summary: Each opponent is provided with a large square shield called ha-ha,
+    about four feet high by three feet wide.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source rights status not supplied in metadata; passage appears from
+    a public-domain Project Gutenberg text path.
+- id: ev:4
+  type: summary
+  locator: lines 12960-12964
+  quote_or_summary: The shield is made of parallel strips of eta palm pith lashed
+    by three transverse sticks, whose ends are ornamented with large tassels of loose
+    fibre.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source rights status not supplied in metadata; passage appears from
+    a public-domain Project Gutenberg text path.
+- id: ev:5
+  type: summary
+  locator: lines 12964-12967
+  quote_or_summary: Two wrestlers each stand behind a shield, grasping it with both
+    hands by the shield’s two sides.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Source rights status not supplied in metadata; passage appears from
+    a public-domain Project Gutenberg text path.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material is a concrete ethnographic description, but the line range ends
+    mid-word, so the final positioning of the wrestlers is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the passage does not support one directly.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l12954-l12967
+  passage_sha256=f347253345646fd62689739cd7b923aa5fd23e00573786480c75631fb59a2b9e
+

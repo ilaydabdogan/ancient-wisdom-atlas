@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1848-l1890
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IV, 14, 10. THE SETTLEMENT OF DISPUTES. / JOJLLAVAGGA. / IV, 14 , II. / IV,
+    14, 14. THE SETTLEMENT OF DISPUTES.; lines 1848-1890
+  start: '1848'
+  end: '1890'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage distinguishes ordinary disputes among relatives or friends
+    from legal questions requiring formal settlement by the Saṅgha. It defines legal
+    questions that are not disputes, legal questions of dispute requiring settlement,
+    and classifications involving offences and legal questions of offence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dispute between a mother and son, father and son, siblings, or friends is
+    stated not to be a legal question requiring formal settlement by the Saṅgha.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Legal questions of censure, offence, or business are described as legal questions
+    that are not disputes.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A legal question of dispute requiring formal settlement by the Saṅgha is described
+    as both a legal question and a dispute.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The passage lists possible combinations involving offence and legal question:
+    offence subject to a legal question, offence without legal question, legal question
+    without offence, and both legal question and offence.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The five groups and seven groups of offences are stated to be subjects of
+    legal questions of offence.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mother
+  description: A mother is listed as a possible party in a dispute with her son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Son
+  description: A son is listed as a possible party in disputes with mother or father.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father
+  description: A father is listed as a possible party in a dispute with his son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Brother
+  description: A brother is listed as a possible party in disputes with a brother
+    or sister.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sister
+  description: A sister is listed as a possible party in disputes with a brother.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Friend
+  description: A friend is listed as a possible party in a dispute with a friend.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Saṅgha
+  description: The Saṅgha is named as the body by which certain legal questions may
+    require formal settlement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: party to non-formal dispute
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage lists these kinship and friendship relations as examples of disputes
+    not requiring formal settlement by the Saṅgha.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: formal settlement body
+  assigned_to:
+  - fig:7
+  basis: The Saṅgha is specified as the body involved in formal settlement of legal
+    questions of dispute.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Classification of disputes and legal questions
+  summary: The passage classifies disputes, legal questions, and offences according
+    to whether they require formal settlement by the Saṅgha and whether they overlap
+    with one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: communal adjudication of disputes
+  taxonomy_refs: []
+  basis: The passage distinguishes private disputes from legal questions that require
+    formal settlement by the Saṅgha.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a legal-disciplinary classification rather than a mythic narrative
+    motif; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: classification of offences and legal questions
+  taxonomy_refs: []
+  basis: The passage systematically enumerates categories involving offence, legal
+    question, both, or neither.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an institutional/legal pattern, not a symbolic or narrative mythic
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1848-1858
+  quote_or_summary: Disputes between mother and son, father and son, siblings, or
+    friends are said not to be legal questions requiring formal settlement by the
+    Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:2
+  type: summary
+  locator: lines 1860-1864
+  quote_or_summary: Legal questions of censure, offence, or business are defined as
+    legal questions that are not disputes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:3
+  type: summary
+  locator: lines 1866-1870
+  quote_or_summary: A legal question of dispute requiring formal settlement by the
+    Saṅgha is described as both a legal question and a dispute.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:4
+  type: summary
+  locator: lines 1875-1884
+  quote_or_summary: 'The passage lists categories involving offence and legal question:
+    offence subject to a legal question, offence without legal question, legal question
+    without offence, and both legal question and offence.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided source metadata does not specify rights status.
+- id: ev:5
+  type: summary
+  locator: lines 1885-1890
+  quote_or_summary: The five groups and seven groups of offences are stated to be
+    subjects of legal questions of offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Provided source metadata does not specify rights status.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal classifications are explicit, but their treatment as motif candidates
+    is tentative because the passage is not mythic narrative and no comparison is
+    supported within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is present in the passage. No comparison claims are made because the passage does not itself support a comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1848-l1890
+  passage_sha256=dbc4985de1cab7f83ee4c894340e34ae44a1084214f7c5007e8304b1e3cdd838
+

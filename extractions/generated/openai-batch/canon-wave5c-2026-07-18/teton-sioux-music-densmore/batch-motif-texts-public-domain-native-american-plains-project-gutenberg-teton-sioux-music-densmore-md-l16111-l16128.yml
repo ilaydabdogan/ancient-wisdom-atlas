@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l16111-l16128
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: SACREO  STONE  OWNED  BY  BRAVE  BUFFALO / BUREAU  OF  AMERICAN  ETHNOLOGV
+    / SACRED  STONE  OWNED  BV  CHASED-BV-BEARB / BUBEAU   OF  AMEBICAN   ETHNOLOGY;
+    lines 16111-16128
+  start: '16111'
+  end: '16128'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives song text with English glosses: it names a Horse nation,
+    repeats the statement that the singer sings for them, includes the phrase “out
+    of the earth,” names the animals, and then gives a brief musical analysis and
+    notes about omitted syllables.'
+  language: English glosses with transliterated song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song text names a “Horse nation.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person refrain says that the singer sings for “them.”
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The phrase “out of the earth” appears as a translated song line.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song text names “the animals.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The musical analysis describes the melody as using the tones of the fourth
+    five-toned scale, beginning on the dominant above the tonic and ending on the
+    third in the lower octave.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Editorial notes state that syllables were omitted by the singer in two words.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person singer
+  description: The voice that says “I sing for them.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Horse nation
+  description: A named collective in the song text, glossed as “Horse nation.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the animals
+  description: A named collective in the song text, glossed as “the animals.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer or speaking voice
+  assigned_to:
+  - fig:1
+  basis: The repeated first-person line states “I sing for them.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named recipients of song
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The named collectives occur with the repeated line “I sing for them.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: earth
+  literal_form: earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: horse collective
+  literal_form: Horse nation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animal collective
+  literal_form: the animals
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Song addressed to named collectives
+  summary: The song text names the Horse nation, says “out of the earth,” names the
+    animals, and repeats that the singer sings for them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: singing for animal collectives
+  taxonomy_refs: []
+  basis: The song names the Horse nation and the animals, each in proximity to the
+    repeated statement that the singer sings for them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is a brief song fragment with glosses, not an explanatory
+    narrative.
+- id: motif:2
+  label: emergence or relation to earth
+  taxonomy_refs: []
+  basis: The translated phrase “out of the earth” appears among the song lines.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not specify what comes out of the earth or explain the
+    phrase’s narrative or ritual meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16111-16114
+  quote_or_summary: "“Horse nation” followed by “I sing for them.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 16115-16118
+  quote_or_summary: "“out of the earth” followed by “I sing for them.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for identification.
+- id: ev:3
+  type: quote
+  locator: lines 16119-16122
+  quote_or_summary: "“the animals” followed by “I sing for them.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; short excerpt used for identification.
+- id: ev:4
+  type: summary
+  locator: lines 16123-16126
+  quote_or_summary: The analysis states that the melody uses the fourth five-toned
+    scale, begins on the dominant above the tonic, and ends on the third in the lower
+    octave.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 16127-16128
+  quote_or_summary: Notes report omitted syllables by the singer in two words.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a short song text with minimal context. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not clearly support one of the supplied taxonomy IDs.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l16111-l16128
+  passage_sha256=631dceac09f0b21992919b9af39be442c5960d373d87ec560f911f8b857dbafb
+

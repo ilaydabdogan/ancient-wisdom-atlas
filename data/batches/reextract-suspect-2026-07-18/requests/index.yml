@@ -1,0 +1,27 @@
+---
+batch_request_index_version: '1'
+run_id: reextract-suspect-2026-07-18
+created_at: '2026-07-18T22:15:51Z'
+updated_at: '2026-07-18T22:28:32Z'
+endpoint: "/v1/responses"
+model: gpt-5.5
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/reextract-suspect-2026-07-18/passages.jsonl
+request_map_path: data/batches/reextract-suspect-2026-07-18/request-map.jsonl
+skip_ingested_from_run_id: reextract-suspect-2026-07-18
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/reextract-suspect-2026-07-18/requests/shard-0001.jsonl
+  request_count: 86
+  bytes: 1405135
+  sha256: 883b5e4cbae1e573ebe03dca71d3563d5decd74c80f9ee4666361120708ea88e
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed
+  output_path: data/batches/reextract-suspect-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: 07032407b842d32b74ff24d709b02642722dcf9843161923701d1d3334c218d2
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T22:28:32Z'
+

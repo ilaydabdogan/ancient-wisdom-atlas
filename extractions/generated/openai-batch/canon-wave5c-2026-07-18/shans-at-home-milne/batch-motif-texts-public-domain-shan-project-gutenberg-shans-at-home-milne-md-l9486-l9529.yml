@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l9486-l9529
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: A MONASTERY. / SPECIMEN OF SHAN WRITING. / THE FISHERMAN AND HIS WIFE / THE
+    HARE AND THE SNAIL; lines 9486-9529
+  start: '9486'
+  end: '9529'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A boastful hare challenges a water-snail to a race from a stream mouth
+    to its source. The snail organizes other snails upstream to answer the hare's
+    calls, making it seem as if the same snail is always ahead. The exhausted hare
+    gives up, and the story explains why hares do not talk and avoid rivers and pools.
+    A note says related forms are told across the East, with the water-snail always
+    winning and sometimes racing a bird such as a kingcrow in Malay Peninsula folktales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hare boasts that no one can beat him in a race and asks a water-snail to
+    race.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The water-snail says it can move faster in water than the hare can run on
+    land and warns the hare not to race.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The hare sets stakes: if he wins he will kill the snail''s relations; if
+    the snail wins he will never again drink at a stream.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The race is scheduled for the next day and its route is set from the stream
+    mouth to the stream source.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The water-snail sends messages to the other snails in the stream and arranges
+    for each snail higher upstream to answer the hare's questions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During the race the hare repeatedly stops and calls for the snail, and a snail
+    farther upstream answers each time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The hare becomes exhausted and gives up running.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The story says that from that day hares do not talk, do not go to rivers or
+    pools, and drink dew from grass.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A concluding note states that variants of the story are told across the East;
+    the water-snail wins, and the opponent is sometimes a bird such as a kingcrow
+    in Malay Peninsula folktales.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hare
+  description: A boastful racer who challenges the water-snail, sets severe stakes,
+    repeatedly calls during the race, becomes exhausted, and gives up.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: water-snail
+  description: The challenged racer who warns the hare, consents to the race, organizes
+    other snails, and is the winner in the narrative and in the noted variants.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: other snails in the stream
+  description: Snails upstream who are instructed to answer the hare so that a snail
+    higher in the stream is always ready to respond.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: bird or kingcrow in variants
+  description: A bird, specifically exemplified as a kingcrow, is mentioned as a possible
+    opponent of the water-snail in Malay Peninsula variants.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: boastful challenger
+  assigned_to:
+  - fig:1
+  basis: The hare boasts that no one can beat him and asks the water-snail to race.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exhausted losing racer
+  assigned_to:
+  - fig:1
+  basis: The hare runs, repeatedly checks on the snail, and finally gives up exhausted.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: challenged water racer
+  assigned_to:
+  - fig:2
+  basis: The water-snail is challenged by the hare and claims superiority in water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: race strategist
+  assigned_to:
+  - fig:2
+  basis: The water-snail arranges for other snails upstream to answer the hare's calls.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: substitute responders
+  assigned_to:
+  - fig:3
+  basis: Other snails in the stream are positioned to answer as if the snail were
+    always ahead of the hare.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: variant race opponent
+  assigned_to:
+  - fig:4
+  basis: The note says the water-snail's opponent is sometimes a bird such as a kingcrow
+    in Malay Peninsula folktales.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stream racecourse
+  literal_form: The stream from mouth to source, used as the route of the contest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: dew on grass
+  literal_form: Dew on the grass as the hare's later source of drinking water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: water-land contrast
+  literal_form: The snail contrasts its speed in water with the hare's running on
+    land.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Boast and challenge
+  summary: The hare boasts that no one can beat him and challenges the water-snail
+    to race.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning, wager, and route
+  summary: The water-snail warns the hare against racing; the hare insists, sets stakes,
+    and the course is fixed from the stream mouth to its source.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Snail's preparation
+  summary: The water-snail messages other snails in the stream and arranges a sequence
+    of upstream answers for the next day's race.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Race with repeated upstream answers
+  summary: The hare runs, stops, and calls for the snail; each time a snail higher
+    in the stream answers that it is ahead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Exhaustion and hare etiology
+  summary: 'The hare gives up exhausted, and the tale explains present hare behavior:
+    silence, avoidance of rivers and pools, and drinking dew from grass.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Slower water animal wins race by coordinated substitution
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The water-snail arranges for multiple upstream snails to answer the hare,
+    causing the hare to believe the snail is always ahead until the hare gives up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The trickster-boundary taxonomy is a broad fit based on deception and
+    water/land contrast; the passage does not name a formal motif category.
+- id: motif:2
+  label: Boastful speedster defeated in a race
+  taxonomy_refs: []
+  basis: The hare boasts that no one can beat him, insists on racing despite warning,
+    and loses through exhaustion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family exactly labels this race pattern.
+- id: motif:3
+  label: Etiology of hare behavior
+  taxonomy_refs: []
+  basis: The ending explains why hares do not talk, avoid rivers and pools, and drink
+    dew on the grass.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an etiological pattern, but no matching taxonomy ref was supplied.
+- id: motif:4
+  label: Race wager with kin-threatening stakes and abstention pledge
+  taxonomy_refs: []
+  basis: The hare declares that victory would let him kill the snail's relations,
+    while defeat would oblige him never again to drink at a stream.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wager is explicit, but its broader motif-family status is not established
+    within the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the tale as belonging to a broader set of Eastern
+    variants in which a water-snail wins a race, with some Malay Peninsula versions
+    replacing the hare with a bird such as a kingcrow.
+  claim_level: same_motif
+  target: Eastern variants of the water-snail-wins-the-race tale, including Malay
+    Peninsula kingcrow-opponent versions
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based only on the passage's concluding note; no separate
+    variant texts or detailed parallels are provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9486-9491
+  quote_or_summary: The tale opens with a hare boasting that no one can beat him in
+    a race and asking a water-snail to race.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 9492-9498
+  quote_or_summary: The water-snail refuses at first and says it can go faster in
+    water than the hare can run on land, warning the hare that he will lose.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 9500-9508
+  quote_or_summary: The hare angrily insists on the race, states the stakes, the snail
+    consents, and they agree to race the next day from the mouth of the stream to
+    its source.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 9508-9515
+  quote_or_summary: The snail sends messages to all other snails in the stream, arranging
+    that the snail immediately above the hare should answer any questions.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 9517-9525
+  quote_or_summary: During the race, the hare calls for the snail; each time, a snail
+    higher in the stream answers that it is there and urges the hare to run quickly.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 9525-9529
+  quote_or_summary: The hare gives up exhausted; the tale says hares thereafter do
+    not talk, avoid rivers and pools, and drink dew on grass.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 9530-9534
+  quote_or_summary: A note says different forms are told across the East; the water-snail
+    always wins, and the opponent is sometimes a bird, such as a kingcrow, in Malay
+    Peninsula folktales.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not specified in supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal narrative extraction is straightforward. Motif taxonomy assignment
+    is more tentative because the supplied taxonomy has no exact race-trickery or
+    etiological animal-tale category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Line locators follow the provided stable range, with final comparative note extending beyond the stated end label as included in the supplied passage text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l9486-l9529
+  passage_sha256=30991a0805912a1febdc557c8db064e94c24866be3fb19bae28169b48f485d5e
+

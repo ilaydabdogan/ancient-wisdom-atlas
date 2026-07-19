@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l470-l515
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: VINAYA TEXTS FROM THE PALI. / INTRODUCTION. XV11 / XV111 VINAYA TEXTS FROM
+    THE PALI. / INTRODUCTION. XIX; lines 470-515
+  start: '470'
+  end: '515'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the structure and formation of Vinaya textual sections.
+    It explains that the Sutta-vibhanga is built from a historical basis, an extract
+    from the Patimokkha placed in the Buddha's mouth, an Old Commentary, and Notes.
+    It then describes the Khandhakas as accounts of admission into the Sangha, Uposatha,
+    rainy-season observances, disciplinary proceedings, and daily life, with regulations
+    framed by histories of occasions on which the Buddha was supposed to have made
+    them and often followed by liturgical formularies. It notes that the Upasampada-kammavaca
+    is a principal exception among Khandhaka formularies preserved separately.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The present work is described as made up of three portions: a historical
+    basis, an Old Commentary, and final Notes on exceptions and extensions to the
+    rule.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The extract from the Patimokkha is said to be always placed in the Buddha's
+    own mouth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Khandhakas are described as giving detailed accounts of admission into
+    the Sangha, Uposatha, rainy-season observances, disciplinary proceedings, and
+    details of medicine, food, dwellings, and daily life for Bhikkhus.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: For each regulation in the Khandhakas, the outward form is said to include
+    a history of the occasion on which the Buddha was supposed to have made it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those histories are said, in most cases, to lead up to a liturgical formulary
+    by which the regulation was to be carried out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Upasampada-kammavaca is identified as a principal exception among formularies,
+    recurring in full in the First Khandhaka of the Mahavagga.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Presented as the speaker to whom Patimokkha extracts are attributed
+    and as the one supposed to have made regulations in occasion-histories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: members of the Order / Bhikkhus
+  description: The passage says the Khandhakas include details about the daily life
+    of members of the Order, identified parenthetically as Bhikkhus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sangha
+  description: The passage refers to admission into the Sangha as one subject covered
+    by the Khandhakas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: attributed rule-speaker
+  assigned_to:
+  - fig:1
+  basis: Patimokkha extracts are placed in the Buddha's mouth, and regulation histories
+    describe occasions when the Buddha was supposed to have made them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: regulated monastic members
+  assigned_to:
+  - fig:2
+  basis: The Khandhakas cover medicine, food, dwelling-places, and daily life of members
+    of the Order, identified as Bhikkhus.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: monastic community entered by admission
+  assigned_to:
+  - fig:3
+  basis: The Khandhakas include an account of admission into the Sangha.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Textual layering of the Sutta-vibhanga
+  summary: The passage describes the Sutta-vibhanga as built from a historical basis
+    leading to a Patimokkha extract, then an Old Commentary, and finally Notes on
+    exceptions and extensions.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Khandhaka regulation pattern
+  summary: The passage describes Khandhaka regulations as framed by histories of occasions
+    when the Buddha was supposed to have made them, often leading to liturgical formularies
+    for carrying out the regulation.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Scope of Khandhaka subject matter
+  summary: The Khandhakas are summarized as covering admission, Uposatha, rainy-season
+    observances, discipline, and practical aspects of Bhikkhu life.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: etiological occasion-history for a rule
+  taxonomy_refs: []
+  basis: The passage states that every regulation is given a history of the occasion
+    on which the Buddha was supposed to have made it, and that these histories usually
+    lead to a liturgical formulary.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a textual-legal narrative pattern rather than a mythological motif
+    from the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Sutta-vibhanga and Khandhakas as both
+    arranging regulations with contextual material, while noting differences in the
+    preservation of separate liturgical formularies.
+  claim_level: same_function
+  target: Sutta-vibhanga and Khandhakas within the Vinaya textual tradition
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The comparison is internal to the passage's discussion of textual formation
+    and does not establish a broader mythological or historical-contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 470-483
+  quote_or_summary: The Sutta-vibhanga is described as consisting of a historical
+    basis, a Patimokkha extract placed in the Buddha's mouth, an Old Commentary, and
+    Notes on exceptions and extensions to the rule.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 485-493
+  quote_or_summary: The Khandhakas are said to cover admission into the Sangha, Uposatha,
+    rainy-season observances, disciplinary proceedings, and details concerning medicine,
+    food, dwelling-places, and daily life of Bhikkhus.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 493-499
+  quote_or_summary: For each regulation, a history is given of the occasion on which
+    the Buddha was supposed to have made it; these histories usually lead to a liturgical
+    formulary for carrying out the regulation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 501-509
+  quote_or_summary: The passage says most Khandhaka formularies have not been found
+    separately; the principal exception is the Upasampada-kammavaca, which recurs
+    in full in the First Khandhaka of the Mahavagga.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 501-512
+  quote_or_summary: Unlike the Sutta-vibhanga, whose founding liturgy is preserved
+    separately, Khandhaka formularies generally are not found apart from the Khandhakas,
+    making their gradual formation harder to trace.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is an introductory textual-analysis passage rather than a mythic
+    narrative. Literal extraction is straightforward; motif relevance is limited and
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol clearly applies to this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l470-l515
+  passage_sha256=1abd6486cc16cd1635bd4eda38ea694be83dd13503a58d9394e88feef581838c
+

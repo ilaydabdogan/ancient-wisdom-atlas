@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md-l3492-l3508
+source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+passage_locator:
+  label: KING MILINDA. / THE QUESTIONS / KING MILINDA. / BOOK I.; lines 3492-3508
+  start: '3492'
+  end: '3508'
+  translation: questions-of-king-milinda-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A note explains that a figure was said to have been born in a cowshed,
+    identifies six teachers as contemporaries of the Buddha about five hundred years
+    before Milinda, and comments that the episode echoes the Samañña-phala account
+    of Ajātasattu visiting six famous sophists. The note criticizes the retained old
+    names, the unexplained double birth across five hundred years, and suggests the
+    episode may be an interpolation interrupting the narrative sequence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says a figure received a designation because he was said to have
+    been born in a cowshed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that six teachers were contemporaries of the Buddha and lived
+    about five hundred years before Milinda.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that the passage echoes the opening paragraphs of the Samañña-phala,
+    where Ajātasattu visits six famous sophists.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says old names are retained and no explanation is given for their
+    being born twice at an interval of five hundred years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note suggests that the episode may be an interpolation and describes a
+    proposed narrative sequence from § 15 after § 10, then § 37 resuming the interrupted
+    narrative.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed figure said to be born in a cowshed
+  description: A figure whose designation is explained by a reported birth in a cowshed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: six teachers
+  description: Six teachers described as contemporaries of the Buddha and living about
+    five hundred years before Milinda.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Buddha
+  description: The six teachers are described as contemporaries of the Buddha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Milinda
+  description: Milinda is used as the later chronological point about five hundred
+    years after the six teachers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ajātasattu
+  description: Ajātasattu is described as visiting six famous sophists in the Samañña-phala.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: six famous sophists
+  description: Six famous sophists visited by Ajātasattu in the Samañña-phala account.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: birth-associated figure
+  assigned_to:
+  - fig:1
+  basis: The note explains the figure’s designation through a reported birth in a
+    cowshed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teachers contemporary with the Buddha
+  assigned_to:
+  - fig:2
+  basis: The note explicitly identifies the six teachers as contemporaries of the
+    Buddha.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chronological reference figure
+  assigned_to:
+  - fig:3
+  basis: The Buddha is used to date the six teachers relative to Milinda.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: later chronological reference figure
+  assigned_to:
+  - fig:4
+  basis: Milinda is used as a point about five hundred years after the six teachers.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: visitor of sophists in cited parallel text
+  assigned_to:
+  - fig:5
+  basis: The note says Ajātasattu visits six famous sophists in the Samañña-phala.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: visited sophists in cited parallel text
+  assigned_to:
+  - fig:6
+  basis: The note says six famous sophists are visited by Ajātasattu.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cowshed birth-place
+  literal_form: cowshed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Commentarial explanation of chronology and literary parallel
+  summary: The note explains a cowshed birth designation, dates six teachers as contemporaries
+    of the Buddha and earlier than Milinda, compares the episode to the Samañña-phala
+    account of Ajātasattu visiting six sophists, and proposes that the episode may
+    be an interpolation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The note itself identifies the episode as an echo of the Samañña-phala opening
+    paragraphs, specifically the scene in which Ajātasattu visits six famous sophists.
+  claim_level: linguistic_similarity
+  target: Samañña-phala (D. 2), opening paragraphs
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a translator/editorial note rather than a primary narrative
+    scene; it asserts literary echo or plagiarism but does not provide the full compared
+    text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: '3492'
+  quote_or_summary: A figure is said to have been so called because he was reported
+    to have been born in a cowshed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source metadata rights status not supplied; passage path indicates
+    public-domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: 3493-3495
+  quote_or_summary: All six teachers are described as contemporaries of the Buddha,
+    living about five hundred years before Milinda.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source metadata rights status not supplied; passage path indicates
+    public-domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: 3496-3499
+  quote_or_summary: The note says the material is an echo of the opening paragraphs
+    in the Samañña-phala, where Ajātasattu visits six famous sophists.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source metadata rights status not supplied; passage path indicates
+    public-domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: 3499-3503
+  quote_or_summary: The note criticizes retention of old names and lack of explanation
+    for their being born twice across a five-hundred-year interval.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source metadata rights status not supplied; passage path indicates
+    public-domain Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: 3504-3508
+  quote_or_summary: The note says there are reasons for treating the episode as an
+    interpolation and sketches how § 15 may have originally followed § 10 before §
+    37 resumed the interrupted narrative.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+  rights_note: Source metadata rights status not supplied; passage path indicates
+    public-domain Project Gutenberg text.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is editorial/commentarial rather than a mythic narrative. Literal
+    chronology, named figures, and the stated intertextual comparison are extractable,
+    but motif identification is not supported beyond the stated literary parallel.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motif family was assigned because the passage does not itself present a developed mythic motif; the apparent double birth is discussed as an unexplained anachronism in an editorial note.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-questions-of-king-milinda-part1-md__l3492-l3508
+  passage_sha256=5ccd8064d1bdf62a56e3a498b902c73bd4f54b457ff759b45c3ddfae284c1e0c
+

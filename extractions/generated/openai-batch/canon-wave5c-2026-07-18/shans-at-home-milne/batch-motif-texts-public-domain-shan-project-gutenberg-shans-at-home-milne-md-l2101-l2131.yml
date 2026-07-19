@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l2101-l2131
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: LITTLE NURSES. / GIRLS AGED EIGHT AND THREE. / GIRL FIVE YEARS OLD. / A CHILD'S
+    LIFE; lines 2101-2131
+  start: '2101'
+  end: '2131'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“it must be treated with veneration”"
+  summary: The passage describes Shan children’s early life, girls’ household training,
+    rules about sweeping after sunset, respectful treatment of the father’s seat or
+    place, and the beginning of a lesson in visitor etiquette.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Until about age five or six, boys and girls are described as having little
+    difference in their daily lives.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Children play in dust or paddle in ponds or streams while the mother washes
+    clothes by beating them with a rounded stick on a stone near the bank.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Home-woven cloth is described as strong enough to withstand repeated beating
+    without tearing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The children are described as fair-complexioned, happy, good-tempered, and
+    rarely quarrelsome in games.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Little girls learn household usefulness and are taught to sweep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sweeping after sunset is described as unlucky; if late cleaning is necessary,
+    the sweepings should remain inside until morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A girl or woman must dust the father’s seat respectfully, and no stranger,
+    wife, or child should sit in the father’s place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The father’s place may be a chair, bamboo seat, or mat, but it must be treated
+    with veneration, and the person dusting it bends politely until the sweeping is
+    finished.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: 'Another lesson begins: when visitors arrive and are given a mat to sit on,
+    children should bring them a bottle of something; the supplied passage ends before
+    naming the item.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Shan children
+  description: Children up to about five or six years old, described as playing, paddling,
+    and learning social lessons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Little girls
+  description: Girls who learn household tasks, including sweeping, and rules about
+    respectful conduct.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mother
+  description: The mother washes clothes by beating them with a rounded stick on a
+    stone by the bank.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Father
+  description: The father is associated with a reserved seat or place that others
+    should not occupy and that must be treated with veneration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Girl or woman dusting the father’s seat
+  description: A girl or woman who dusts the father’s place with her body politely
+    bent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Visitors
+  description: Visitors who are given a mat to sit on when they come.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: young children at play and in early instruction
+  assigned_to:
+  - fig:1
+  basis: The passage describes children playing, paddling, and receiving lessons in
+    conduct.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: girls learning household duties
+  assigned_to:
+  - fig:2
+  basis: Little girls are said to learn to be useful in the house and are taught sweeping
+    rules.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: clothes-washer by the water
+  assigned_to:
+  - fig:3
+  basis: The mother washes clothes by beating them on a stone by a bank while children
+    play or paddle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: holder of a reserved venerated place
+  assigned_to:
+  - fig:4
+  basis: The father’s place is not to be occupied by others and must be treated with
+    veneration.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: respectful duster of the father’s place
+  assigned_to:
+  - fig:5
+  basis: The girl or woman dusting the father’s place should bend politely and not
+    stand upright until finished.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: seated guests
+  assigned_to:
+  - fig:6
+  basis: Visitors are described as being given a mat to sit on.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water places
+  literal_form: ponds, streams, and the bank where clothes are washed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: father’s seat or place
+  literal_form: chair, bamboo seat, or mat reserved as the father’s place
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sweepings kept overnight
+  literal_form: floor sweepings kept in the house until morning after late cleaning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sunset as restricted time for sweeping
+  literal_form: after sunset
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: visitor’s mat
+  literal_form: mat given to visitors to sit on
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Children at play while washing is done
+  summary: Young children play in dust or paddle in ponds or streams while their mother
+    washes clothes by the bank.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girls learn sweeping rules
+  summary: Girls are taught to sweep and to avoid sweeping after sunset, or to keep
+    late sweepings indoors until morning.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Respectful care of the father’s place
+  summary: A girl or woman dusts the father’s seat or place with respectful posture;
+    the place is reserved from use by strangers, wife, or child and treated with veneration.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Beginning of visitor etiquette lesson
+  summary: When visitors come, they are given a mat to sit on, and children are expected
+    to bring a bottle of something; the passage ends before the object is identified.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: taboo on sweeping after sunset
+  taxonomy_refs: []
+  basis: The passage explicitly says it is unlucky to sweep after sunset and prescribes
+    keeping late sweepings indoors until morning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic domestic rule in the passage, not a myth narrative.
+- id: motif:2
+  label: veneration of the father’s reserved place
+  taxonomy_refs: []
+  basis: The father’s place is reserved from use by others, dusted with bodily deference,
+    and described as a sacred place treated with veneration.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports a social-ritual pattern of paternal seat veneration,
+    but does not identify it with a listed mythic motif family.
+- id: motif:3
+  label: child instruction in household and hospitality etiquette
+  taxonomy_refs: []
+  basis: Children, especially girls, are described as learning household duties and
+    the passage begins a lesson on what children should do when visitors arrive.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The visitor-etiquette example is incomplete because the supplied passage
+    cuts off before naming what is brought.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2101-2111
+  quote_or_summary: Until age five or six boys and girls have similar lives; children
+    play in dust or paddle in ponds or streams while the mother beats clothes with
+    a rounded stick on a stone by the bank; home-woven cloth withstands beating.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Public-domain source path supplied; evidence summarized from provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 2111-2115
+  quote_or_summary: The children are described as fair-complexioned, charming, happy,
+    good-tempered, and rarely quarrelsome over games.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Public-domain source path supplied; evidence summarized from provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 2115-2121
+  quote_or_summary: Little girls learn household usefulness and sweeping; sweeping
+    after sunset is unlucky, and late sweepings should be kept indoors until morning.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Public-domain source path supplied; evidence summarized from provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 2121-2129
+  quote_or_summary: A girl or woman must dust the father’s seat with respect; no stranger,
+    wife, or child should sit in the father’s place; whether chair, bamboo seat, or
+    mat, it is treated with veneration and dusted while bending politely.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Public-domain source path supplied; evidence summarized from provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 2130-2131
+  quote_or_summary: 'Another lesson begins: when visitors come and are given a mat
+    to sit on, children should bring them a bottle of something, but the passage ends
+    before the item is named.'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Public-domain source path supplied; evidence summarized from provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are domestic and
+    social-ritual patterns rather than explicit mythological motifs. No comparison
+    claims are made because the passage itself does not support cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage ends mid-sentence, so the visitor-etiquette scene is recorded as incomplete.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l2101-l2131
+  passage_sha256=5d1f3ad6e77daaf59330a6ec1fcbbf7832d0cdabb4098e1e02d96c9b426395c0
+

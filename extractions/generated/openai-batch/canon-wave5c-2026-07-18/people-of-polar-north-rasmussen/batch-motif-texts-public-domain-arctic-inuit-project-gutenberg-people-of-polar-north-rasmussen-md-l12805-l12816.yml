@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l12805-l12816
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE RAVEN AND THE GREAT NORTHERN DIVER / THE RAVEN AND THE GOOSE / ELIAS,
+    A WEST GREENLANDER / THE BOY WHO WENT TO THE LAND OF SPIRITS; lines 12805-12816
+  start: '12805'
+  end: '12816'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: There was once a boy whose name was Qalanganguase
+  summary: The passage introduces Qalanganguase, a boy whose parents live near open
+    water kept clear by a strong current. His parents eat seaweed and die. His sister
+    then looks after him, but she also dies, leaving strangers to care for him. Qalanganguase
+    has no strength in his lower limbs, and when the people go hunting he is left
+    alone.
+  language: ''
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading names the story as concerning a boy who went to the land of spirits.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Qalanganguase is identified as a boy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Qalanganguase’s parents live near a place where a strong current keeps the
+    water open.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Qalanganguase’s parents eat seaweed and die.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the parents die, Qalanganguase’s sister is left to look after him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Qalanganguase’s sister also dies.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After his sister dies, only strangers remain to look after Qalanganguase.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Qalanganguase lacks strength in his lower limbs; the lower part of his body
+    is described as dead.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: When the people go out hunting, Qalanganguase is left alone.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Qalanganguase
+  description: A boy whose parents and sister die; he has no strength in his lower
+    limbs and is later left alone.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Qalanganguase’s parents
+  description: They live near open water kept clear by a strong current; they eat
+    seaweed and die.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Qalanganguase’s sister
+  description: She looks after Qalanganguase after the parents die, then dies herself.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: strangers
+  description: After the sister dies, strangers are left to look after Qalanganguase.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the people
+  description: They go out hunting, at which point Qalanganguase is left alone.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: named boy
+  assigned_to:
+  - fig:1
+  basis: The passage names the boy as Qalanganguase.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: orphaned child
+  assigned_to:
+  - fig:1
+  basis: His parents die, and then his sister also dies.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: physically incapacitated child
+  assigned_to:
+  - fig:1
+  basis: He is described as without strength in his lower limbs, with the lower part
+    of his body dead.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: deceased parents
+  assigned_to:
+  - fig:2
+  basis: They eat seaweed and die.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sister caretaker
+  assigned_to:
+  - fig:3
+  basis: After the parents die, she is left to look after Qalanganguase.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: deceased sister
+  assigned_to:
+  - fig:3
+  basis: The passage says she dies too.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: caretakers after family deaths
+  assigned_to:
+  - fig:4
+  basis: After the sister dies, only strangers remain to look after him.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: hunters or hunting community
+  assigned_to:
+  - fig:5
+  basis: The people go out hunting.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: open water at strong current
+  literal_form: water kept open by a strong current
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: seaweed eaten before death
+  literal_form: seaweed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dead lower body
+  literal_form: lower part of the body described as dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Family deaths and loss of caretakers
+  summary: Qalanganguase’s parents eat seaweed and die; his sister then looks after
+    him but also dies, leaving strangers as caretakers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Incapacitated boy left alone during the hunt
+  summary: Qalanganguase is described as without strength in his lower limbs, and
+    when the people go hunting he is left alone.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: orphaned vulnerable child
+  taxonomy_refs: []
+  basis: The boy’s parents die, then his sister dies, leaving strangers to look after
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this motif.
+- id: motif:2
+  label: incapacitated child left alone
+  taxonomy_refs: []
+  basis: Qalanganguase is physically unable to use his lower limbs, and he is left
+    alone when the people go hunting.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The excerpt ends before the result of being left alone is narrated.
+- id: motif:3
+  label: journey to the land of spirits
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The story heading says the boy went to the land of spirits.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Within the provided excerpt, this is supported only by the heading; the
+    narrative action of the journey is not included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '12805'
+  quote_or_summary: THE BOY WHO WENT TO THE LAND OF SPIRITS
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source metadata rights status not supplied; short excerpt used for
+    identification.
+- id: ev:2
+  type: quote
+  locator: '12807'
+  quote_or_summary: There was once a boy whose name was Qalanganguase
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source metadata rights status not supplied; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 12807-12809
+  quote_or_summary: Qalanganguase’s parents lived near a place where a strong current
+    kept the water open.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 12809-12810
+  quote_or_summary: The parents ate seaweed and died.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 12810-12811
+  quote_or_summary: After the parents’ deaths, a sister remained to look after Qalanganguase.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 12811-12813
+  quote_or_summary: The sister died too, leaving only strangers to look after him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 12814-12815
+  quote_or_summary: Qalanganguase was without strength in his lower limbs; the lower
+    part of his body was described as dead.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 12815-12816
+  quote_or_summary: One day, when the people went out hunting, Qalanganguase was left
+    alone.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but motif identification is limited
+    by the short excerpt and by the fact that the land-of-spirits element appears
+    only in the heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage excerpt itself does not support a cautious comparison beyond candidate motif labeling.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l12805-l12816
+  passage_sha256=37f67fd0ce56fab4bfb926dd587cc4b6fbffb3bab3d3ca40b72dbbb1246b542b
+

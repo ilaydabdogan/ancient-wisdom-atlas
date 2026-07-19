@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l23707-l23734
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: TENT OF PREPARATION. / TENT OF PREPARATION. / CAMPING CIRCLE ATT / KXPEDITION
+    TO THE MYSTERY TREE.; lines 23707-23734
+  start: '23707'
+  end: '23734'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“the tree that is to serve as the sun pole”"
+  summary: On the fifth morning, a mounted party prepares to go after a mystery tree
+    intended to become a sun pole. Chosen persons rush at the tree as if attacking
+    an enemy, withdraw, return, tie leaves into a marked bundle, and assault it in
+    turn. At the tree, the chosen persons whisper together, bring forward a person
+    with a child, spread robes and goods on the ground, and seat the child on the
+    pile.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The event occurs on the next morning, identified as the fifth day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group prepares to go after a tree intended to serve as the sun pole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Married men, single men, boys, and women are ordered to go on horseback, and
+    anyone able to move rapidly accompanies the party.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chosen persons rush at the mystery tree as they would rush upon a real
+    enemy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After rushing at the tree, the chosen persons turn, run to the other side
+    of the hill nearest the tree, and then return to the tree.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: They tie leaves together tightly, make a mark of the bundle, and assault it
+    in turn as a foe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The tree is reached by noon, and the chosen persons assemble around it and
+    whisper to one another.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The chosen persons approach someone who has a child and take hold of him.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Robes and other goods are brought, spread on the ground, and used as a pile
+    on which the child is seated.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The child seated on the pile is sometimes described as a small girl or even
+    a large girl.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mounted expedition party
+  description: Married men, single men, boys, women, and others able to move rapidly
+    accompany the party on horseback.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Chosen persons to fell the mystery tree
+  description: Persons chosen to fell the mystery tree rush at it, return to it, tie
+    leaves into a marked bundle, assault the bundle, and later assemble around the
+    tree whispering.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Person who has a child
+  description: A person with a child is approached and taken hold of by the chosen
+    persons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Child seated on goods
+  description: A child, sometimes a small girl or even a large girl, is seated on
+    a pile of robes and other goods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: expedition participants
+  assigned_to:
+  - fig:1
+  basis: They accompany the party on horseback to go after the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: chosen tree-fellers and ritual assailants
+  assigned_to:
+  - fig:2
+  basis: They are selected to fell the mystery tree and perform rushing, retreating,
+    returning, whispering, and assaulting actions around it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: child-holder
+  assigned_to:
+  - fig:3
+  basis: The passage identifies this figure only as someone who has a child and is
+    taken hold of by the chosen persons.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: seated child
+  assigned_to:
+  - fig:4
+  basis: The child is seated on robes and goods spread on the ground.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mystery tree as sun pole
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: leaf bundle mark
+  literal_form: leaves tied tightly into a bundle and marked
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: robes and goods pile
+  literal_form: robes and other goods spread on the ground as a seat for the child
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Fifth-day mounted preparation
+  summary: On the fifth morning, a broad group is ordered to go on horseback after
+    the tree intended to serve as the sun pole.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rushing at the mystery tree
+  summary: The chosen persons rush at the tree as at an enemy, retreat to the other
+    side of the hill, and return to it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Leaf bundle assault
+  summary: Leaves are tied into a tight marked bundle, and the chosen persons assault
+    it in turn as a foe.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Child seated on robes and goods
+  summary: At the tree, the chosen persons whisper together, take hold of a person
+    with a child, spread robes and goods on the ground, and seat the child on the
+    pile.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacred tree prepared as sun pole
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage identifies the sought tree as one that will serve as the sun
+    pole and calls it the mystery tree.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage explicitly names a sun pole but does not explain a cosmological
+    axis function within this excerpt.
+- id: motif:2
+  label: ritual assault on a tree treated as a foe
+  taxonomy_refs: []
+  basis: Chosen persons rush at the mystery tree as at a real enemy and later assault
+    a marked leaf bundle as a foe.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The immediate passage reports the actions but does not explain their meaning.
+- id: motif:3
+  label: child seated on ceremonial goods during tree-felling rite
+  taxonomy_refs: []
+  basis: The chosen persons bring robes and goods, spread them, and seat a child on
+    the pile near the tree.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not state why the child is seated there or what ritual
+    role the child has.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the rushing at the mystery tree to Omaha
+    and Ponka traditions in which people rush on their sacred tree.
+  claim_level: visual_similarity
+  target: Omaha and Ponka sacred tree tradition mentioned in §160
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the shared action of rushing at a sacred tree is described here;
+    the excerpt does not provide fuller details of the Omaha and Ponka rites or establish
+    historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23707-23711
+  quote_or_summary: "“The next morning, which is that of the fifth day, they prepare
+    to go after the tree that is to serve as the sun pole.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; short excerpt used from
+    provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 23711-23713
+  quote_or_summary: Married and single men, boys, and women are ordered to go horseback,
+    and whoever can move rapidly accompanies the party.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:3
+  type: quote
+  locator: lines 23713-23716
+  quote_or_summary: The chosen persons “rush on it as they would upon a real enemy.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; short excerpt used from
+    provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 23716-23718
+  quote_or_summary: They turn quickly, run from the tree to the other side of the
+    hill nearest it, and then return to the tree.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 23718-23720
+  quote_or_summary: They tie leaves together tightly, make a mark of the bundle, and
+    assault it in turn as a foe.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 23722-23725
+  quote_or_summary: The tree is reached by noon; the chosen persons assemble around
+    it and whisper to one another.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:7
+  type: summary
+  locator: lines 23725-23727
+  quote_or_summary: The chosen persons approach someone who has a child and take hold
+    of him.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:8
+  type: summary
+  locator: lines 23727-23730
+  quote_or_summary: Robes and other goods are spread on the ground, and the child,
+    sometimes a small or large girl, is seated on the pile.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; summarized from provided
+    passage.
+- id: ev:9
+  type: quote
+  locator: lines 23713-23716
+  quote_or_summary: The passage says the chosen persons rush on the tree “just as
+    tradition relates that the Omaha and Ponka rushed on their sacred tree.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: rights_status not supplied in source metadata; short excerpt used from
+    provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main sequence is clear, but the text contains OCR artifacts and the passage
+    does not explain the ritual meanings of several actions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external details about Sia, Omaha, Ponka, or Kansa ceremonies were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l23707-l23734
+  passage_sha256=9b7479c2d7768833c202bcbb60da202d489a4b59b185d27fcab16d7f1eefaf52
+

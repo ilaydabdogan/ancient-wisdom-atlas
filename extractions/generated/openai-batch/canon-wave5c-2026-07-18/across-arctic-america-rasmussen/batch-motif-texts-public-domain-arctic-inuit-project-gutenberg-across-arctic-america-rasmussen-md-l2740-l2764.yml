@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md-l2740-l2764
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: CHAPTER V / A PEOPLE BEYOND THE TOUCH / PUKERDLUK, CHIEF OF THE PEOPLE OF
+    THE EDDIES / IGJUGARJUK, CHIEF OF THE WILLOW FOLK AND A NOTABLE WIZARD; lines
+    2740-2764
+  start: '2740'
+  end: '2764'
+  translation: across-arctic-america-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes spring at open lake and river waters, with birds,
+    warm moist earth, plant growth, and a glowing low sun. Igjugarjuk says that a
+    dead youth has gone up into the sky and that the Great Spirit colors earth and
+    sky red to receive his soul.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At open lake waters, gulls, terns, and ducks chatter, and the loon is described
+    as uttering a mournful cry.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spring is described as a time when long-frozen earth becomes warm, soft, and
+    moist, allowing plants to grow roots and branches.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: White sand by the river bank shows the footprints of cranes as they move.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wild geese swoop down and make a commotion in the water, after which the smaller
+    birds become silent.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sun is low on the horizon, and the sky and land glow with flaming color.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Igjugarjuk says that a youth is dead and has gone up into the sky, and that
+    the Great Spirit colors earth and sky red to receive his soul.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Igjugarjuk
+  description: Named speaker who explains the red coloring of earth and sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: dead youth
+  description: A youth said to be dead, gone up into the sky, and received as a soul.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Great Spirit
+  description: Supernatural figure said to color earth and sky red to receive the
+    youth's soul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: spring water birds
+  description: Gulls, terns, ducks, a loon, cranes, wild geese, and smaller birds
+    present around the open waters and river bank.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: speaker and interpreter
+  assigned_to:
+  - fig:1
+  basis: Igjugarjuk speaks the explanation linking the red sky and earth to the dead
+    youth's soul.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: deceased soul
+  assigned_to:
+  - fig:2
+  basis: The youth is described in speech as dead, gone up into the sky, and having
+    a soul to be received.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: supernatural receiver
+  assigned_to:
+  - fig:3
+  basis: The Great Spirit is said to color earth and sky red in order to receive the
+    youth's soul.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: spring birds at water
+  assigned_to:
+  - fig:4
+  basis: The passage lists birds chattering, moving, swooping, and falling silent
+    around lake and river waters.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: open waters
+  literal_form: Open lake waters and water disturbed by landing geese.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: spring growth
+  literal_form: Warm, soft, moist earth with plants stretching roots and branches.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: red glowing sky and earth
+  literal_form: Low sun, flaming color, and joyful red coloring of earth and sky.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: upward sky
+  literal_form: The sky as the place to which the dead youth has gone up.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Spring life at the open waters
+  summary: Birds gather and call around open lake and river waters while spring warmth
+    and moisture support plant growth.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Red sky explained as reception of a soul
+  summary: At a low, flaming horizon, Igjugarjuk says a dead youth has gone up into
+    the sky and that the Great Spirit reddens earth and sky to receive his soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: soul ascent after death
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  basis: The speech says a dead youth has gone up into the sky and that his soul is
+    being received.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives no detailed route, stages, or mapped afterlife geography.
+- id: motif:2
+  label: supernatural welcome of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Great Spirit is said to alter the appearance of earth and sky with red
+    color to receive the dead youth's soul.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is brief and does not describe a ritual, judgment, or extended
+    afterlife scene.
+- id: motif:3
+  label: seasonal spring renewal setting
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The opening description emphasizes spring warmth, moisture, plant growth,
+    open waters, and active birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The spring imagery is mainly descriptive and only indirectly connected
+    to the final statement about death and soul reception.
+comparison_claims:
+- id: claim:1
+  claim: The statement that the dead youth has gone up into the sky cautiously aligns
+    this passage with the ascent and afterlife-journey motif families.
+  claim_level: same_motif
+  target: ascent; afterlife_journey_map
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports an upward postmortem movement but does not provide
+    a fuller comparative narrative or detailed afterlife itinerary.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2740-2744
+  quote_or_summary: Open lake waters are filled with chattering gulls, terns, and
+    ducks; the loon is described as having a mournful cry.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+- id: ev:2
+  type: summary
+  locator: 2744-2749
+  quote_or_summary: Spring brings warmth and moisture to the long-frozen earth, and
+    plants stretch roots into the soil and branches above.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+- id: ev:3
+  type: summary
+  locator: 2749-2752
+  quote_or_summary: White sand by the river bank shows the footprints of moving cranes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+- id: ev:4
+  type: summary
+  locator: 2752-2757
+  quote_or_summary: Birds are talking until wild geese swoop down, disturb the water,
+    and cause the smaller birds to become silent.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+- id: ev:5
+  type: summary
+  locator: 2760-2761
+  quote_or_summary: The sun is low on the horizon, and the surrounding sky and land
+    glow with flaming color.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+- id: ev:6
+  type: summary
+  locator: 2762-2764
+  quote_or_summary: Igjugarjuk says a youth is dead and gone up into the sky, and
+    that the Great Spirit colors earth and sky red to receive his soul.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain Project Gutenberg text; rights_status
+    metadata was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal scene details and speech are clear. Motif assignment is cautious
+    because the passage offers only a short interpretive statement and no extended
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No culture, tradition, language metadata, or rights_status beyond the source path were supplied.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md__l2740-l2764
+  passage_sha256=7822c5139398f471345f21edccf3eb3c96b114850f1b38ba956cbb92fc86af7a
+

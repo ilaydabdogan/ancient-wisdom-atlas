@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l7039-l7127
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: I42 VILLAGE LIFE / PINEAPPLES FOR SALE. / OXEN CARRYING GREAT BELLS. / THE
+    COMING RAINS.; lines 7039-7127
+  start: '7039'
+  end: '7127'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes flooded Shan rice lands, lotus pools, water birds,
+    laws protecting egrets in the breeding season, bird hunting, mountain-separated
+    valleys, and damp forest paths after the rains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Flooded rice fields reflect the sky and sunset colors, with each field framed
+    by green turf walls.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Low ground near rivers holds water for many months, forming pools with lotus
+    plants and surface weeds.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wet grass tussocks are described as a haunt of egrets, and water-fowl nest
+    among reeds.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A law in the Shan States forbids shooting egrets during the breeding season.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the egret-protection law was forgotten or set aside in one village, twenty
+    men shot about two hundred birds each; when the law was obeyed the following year,
+    at least four thousand birds were preserved.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the paddy is cut in early winter, flocks of water-fowl appear in valleys,
+    swamps, and rice-fields.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hunters across the border commonly carry guns; feathers near cooking fires
+    are presented as evidence that wild birds have been shot and eaten.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Shan valleys are separated by mountain spurs, with scrub or bare foothills,
+    forested middle slopes, and hilltops where raspberries and wild limes grow.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the rains, hill paths remain damp, branches fall from trees, trunks
+    support ferns and lichen, insects inhabit these plants, creepers coil around trunks,
+    and white ants come to rotten wood.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Egrets
+  description: Beautiful and harmless wetland birds that haunt wet grass tussocks
+    and are protected from shooting during the breeding season, though they were also
+    shot in one village when the law was not observed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Water-fowl and marsh birds
+  description: Birds including duck, wild geese, grebe, tern, bittern, cormorants,
+    and waders that nest or move among reeds, water plants, marshes, swamps, and rice-fields.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Hunters and armed border populations
+  description: Men described as natives of India, Kachins, Shans, Chinamen, and Yün-nanese
+    who shoot birds or carry guns, with Yün-nanese described as good marksmen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Myosa
+  description: A Shan official under the Chief; a change of Myosa is associated with
+    the law being forgotten or set aside for some months in one village.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: protected breeding birds
+  assigned_to:
+  - fig:1
+  basis: The passage says Shan States law forbids shooting egrets during the breeding
+    season and that obedience preserved many birds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: hunted birds
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Egrets were shot when the law was not observed, and wild bird feathers near
+    cooking fires are cited as evidence of hunting.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: wetland and rice-field birds
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The birds are associated with wet grass, reeds, pools, marshes, swamps, and
+    rice-fields.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: hunters or marksmen
+  assigned_to:
+  - fig:3
+  basis: The passage describes groups of men shooting birds, carrying guns, and being
+    good marksmen.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: local official
+  assigned_to:
+  - fig:4
+  basis: A note identifies the Myosa as one of the Shan officials under the Chief.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Water and flooded land
+  literal_form: Flooded earth, low river ground, pools, swamps, marshes, and rice-fields
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Lotus-covered pools
+  literal_form: Pools covered with lotus plants, with leaves standing above or resting
+    on the water
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Mountain-separated valleys
+  literal_form: Shan valleys separated by mountain spurs, with foothills and forested
+    slopes
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Trees and forest growth
+  literal_form: Great trees, teak, oak, chestnut, ferns, lichen, undergrowth, and
+    creepers
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Snake-like creepers
+  literal_form: Creepers climbing from branch to branch and coiling like great snakes
+    round trunks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Flooded rice-land and lotus pools
+  summary: The passage opens with flooded rice fields reflecting the sky, then describes
+    low river ground forming lotus-covered pools where egrets and water-fowl gather
+    or nest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Egret-protection law and village hunting episode
+  summary: A Shan States law protects egrets in the breeding season; in one village
+    a lapse in enforcement leads to heavy shooting, while renewed obedience preserves
+    many birds the following year.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Winter water-fowl and border hunting
+  summary: After the paddy harvest, water-fowl fill valleys and marshes; across the
+    border, armed hunters shoot and eat birds, as shown by feathers near cooking fires.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Mountain valleys and damp forest after the rains
+  summary: The passage describes mountain-separated Shan valleys and hill paths that
+    remain wet after the rains, with dense undergrowth, trees, ferns, lichen, insects,
+    creepers, and white ants.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Seasonal cycle of rains, harvest, wetland birds, and post-rain forest
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage is structured around rainy-season flooding, early winter after
+    the paddy is cut, and hill paths after the rains.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: This is an ethnographic and environmental description, not a mythic narrative;
+    the motif label is broad.
+- id: motif:2
+  label: Protection of breeding birds contrasted with hunting
+  taxonomy_refs: []
+  basis: The passage contrasts a law protecting egrets during breeding season with
+    a period of heavy shooting and later renewed obedience that preserved birds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a social and ecological pattern, not a listed mythological motif
+    family.
+- id: motif:3
+  label: Watered fertility landscape
+  taxonomy_refs: []
+  basis: Flooded rice lands, long-standing water, lotus pools, nesting birds, and
+    winter water-fowl together present a landscape of water-supported abundance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: low
+  cautions: The passage does not explicitly interpret the landscape symbolically;
+    this is a candidate descriptive pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7039-7048
+  quote_or_summary: "“When the sun shines on the flooded earth each little field reflects
+    the sky.”"
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7049-7059
+  quote_or_summary: Low river ground holds water for months, forming lotus-covered
+    pools; wet grass attracts egrets and water-fowl nest among reeds.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: quote
+  locator: lines 7061-7064
+  quote_or_summary: "“There is a law in the Shan States which forbids the shooting
+    of these birds during the breeding season.”"
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7064-7076
+  quote_or_summary: After a change of Myosa, the law was forgotten or set aside; twenty
+    men shot about two hundred birds each, while obedience the next year preserved
+    at least four thousand birds.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 7077-7088
+  quote_or_summary: In early winter after the paddy is cut, water-fowl fill valleys,
+    swamps, and rice-fields; duck, wild geese, grebe, tern, bittern, cormorants, and
+    waders appear among marsh plants.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 7089-7103
+  quote_or_summary: Across the borders many people carry guns; feathers near path-side
+    or tree-shaded cooking fires show wild birds have been shot, and most kinds of
+    birds are eaten.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 7104-7112
+  quote_or_summary: Shan valleys are separated by mountain spurs; foothills are bare
+    or scrub-covered, middle slopes are forested, and higher ground has raspberries
+    and wild limes.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:8
+  type: summary
+  locator: lines 7113-7127
+  quote_or_summary: After the rains, damp hill paths hold fallen branches and decaying
+    creepers; trees support ferns, lichen, insects, snake-like creepers, and white
+    ants in rotten wood.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The environmental and social details are explicit, but motif identification
+    is limited because the passage is descriptive rather than mythological. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line subranges are approximate within the supplied stable passage range because internal line wrapping may vary.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l7039-l7127
+  passage_sha256=73342c2fd874701f57614c1d328df18e6743dbcf586910d267fc39a0a76e14e7
+

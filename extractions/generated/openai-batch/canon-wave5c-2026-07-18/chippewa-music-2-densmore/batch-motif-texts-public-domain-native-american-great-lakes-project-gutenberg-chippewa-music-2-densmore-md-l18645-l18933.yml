@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md-l18645-l18933
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM / CHIPPEWA    MEDICINE    POLES
+    / WOMAN'S    DANCE; lines 18645-18933
+  start: '18645'
+  end: '18933'
+  translation: chippewa-music-2-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: '"My Body Lies in the East"'
+  summary: The passage gives musicological analyses of several Chippewa dream songs.
+    It states that one set of dream songs was used in the woman's dance, and that
+    another set was used by a Chippewa doctor during treatment of the sick. One song
+    is titled “My Body Lies in the East” and includes translated words identifying
+    the speaker's body as lying in the east. The analysis also compares the vowel-syllable
+    delivery of the doctor's songs to Mide' songs and to other Chippewa songs.
+  language: English with Chippewa/Ojibwe song words and translations
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that a group of dream songs was used in the woman's dance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries are identified as dream songs and are attributed to named
+    singers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:3
+  text: The passage states that one song and the following five dream songs were used
+    by a Chippewa doctor during treatment of the sick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Song No. 138 is titled “My Body Lies in the East” and is attributed to Ki'miwun,
+    translated as “rainy.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The translated song words say that the singer's body lies in the east.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The analysis says the six doctor's songs use distinctly enunciated vowel syllables
+    on tones not supplied with words.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The analysis says the doctor's songs resemble Mide' songs in this use of vowel
+    syllables and differ from the majority of Chippewa songs in tone separation.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage analyzes the songs by scales, triads, intervals, rhythmic units,
+    triplets, tempo, cadence, and pitch or key relations.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Awun'akum'igickun
+  description: Named singer associated with several dream song entries in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ki'miwun (“rainy”)
+  description: Named singer of No. 138, “My Body Lies in the East.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Chippewa doctor
+  description: Unspecified doctor said to have used a set of dream songs during treatment
+    of the sick.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the sick
+  description: Persons receiving treatment in the statement about the Chippewa doctor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The song headings identify named persons as having sung the songs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: doctor or healer
+  assigned_to:
+  - fig:3
+  basis: The passage calls the person a Chippewa doctor and says he used songs during
+    treatment of the sick.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: patients or sick persons
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the sick as the recipients of the doctor's treatment.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: east
+  literal_form: 'directional place: the east'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: body lying in the east
+  literal_form: the singer's body said to lie in the east
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dream songs used in the woman's dance
+  summary: The text states that a set of dream songs was used in the woman's dance.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dream songs sung and analyzed
+  summary: Named singers are associated with dream song entries, and the passage gives
+    musical analysis of their melodic and rhythmic features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Doctor's songs used in treatment
+  summary: The text says that a Chippewa doctor used a group of dream songs during
+    treatment of the sick.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Body located in the east
+  summary: The words of No. 138 state that the singer's body lies in the east.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dream songs used in a woman's dance
+  taxonomy_refs: []
+  basis: The passage explicitly says that a group of dream songs was used in the woman's
+    dance.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the dance's ritual, social, or mythic meaning.
+- id: motif:2
+  label: Healing songs used by a doctor
+  taxonomy_refs: []
+  basis: The passage explicitly says that a Chippewa doctor used a set of dream songs
+    during treatment of the sick.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives no narrative of the treatment and does not describe
+    the doctor's ritual procedure beyond song use.
+- id: motif:3
+  label: Body lying in the east
+  taxonomy_refs: []
+  basis: The title and translated words of No. 138 identify the singer's body as lying
+    in the east.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage provides the image but does not explain its symbolic or mythological
+    significance.
+- id: motif:4
+  label: Ritual-song vocables linked to a named song tradition
+  taxonomy_refs: []
+  basis: The analysis says the doctor's songs use distinctly enunciated vowel syllables
+    and resemble Mide' songs in that respect.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is primarily a performance-feature pattern; the passage does not
+    define it as a mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The doctor's songs are compared to Mide' songs because both use distinctly
+    enunciated vowel syllables on tones not supplied with words.
+  claim_level: linguistic_similarity
+  target: Mide' songs
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to vocal-syllable delivery and does not establish
+    shared origin, identical function, or broader motif equivalence.
+- id: claim:2
+  claim: The doctor's songs are contrasted with the majority of Chippewa songs, which
+    the passage says more often separate tones by muscular action of the throat.
+  claim_level: linguistic_similarity
+  target: majority of Chippewa songs described in the passage
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a broad comparative statement about performance style,
+    not a detailed corpus comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18645-18933; statement before No. 133
+  quote_or_summary: "“This and the following four dream songs are said to have been
+    used in the woman's dance.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source supplied as public-domain Project Gutenberg text; short quotation
+    used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 18645-18933; Nos. 133-137 headings
+  quote_or_summary: The headings identify multiple entries as “Dream Song” and attribute
+    several to Awun'akum'igickun as singer.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Summary of supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 18645-18933; analysis after No. 137
+  quote_or_summary: "“This song and the following five dream songs are said to have
+    been used by a Chippewa doctor during his treatment of the sick.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source supplied as public-domain Project Gutenberg text; short quotation
+    used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 18645-18933; No. 138 heading
+  quote_or_summary: "“No. 138. ‘My Body Lies in the East’ ... Sung by Ki'miwun (‘rainy’).”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Source supplied as public-domain Project Gutenberg text; short quotation
+    used for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 18645-18933; No. 138 song text and gloss
+  quote_or_summary: The gloss gives “in the east,” “lies,” and “my body.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Brief quotation/gloss from supplied public-domain passage.
+- id: ev:6
+  type: summary
+  locator: lines 18645-18933; analysis after No. 138
+  quote_or_summary: In the group of six “doctor's songs,” vowel syllables are distinctly
+    enunciated on tones without words; this is said to resemble Mide' songs and to
+    differ from most Chippewa songs, where tone separation is produced by throat action.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 18645-18933; analyses of Nos. 133-138
+  quote_or_summary: The analyses describe musical features including scales, triads,
+    intervals, rhythmic units, triplets, tempo, cadence, compass, intonation, and
+    pitch/key relations.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif status is less certain because
+    the passage is mainly musicological and gives limited ritual or narrative context.
+    The comparison claims are explicit but limited to performance features.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not directly support any listed taxonomy item.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md__l18645-l18933
+  passage_sha256=c2849cbf95902e7ef3496482aa51fa242ee7aeb5ce64cf14ab21bb3b9bc0a6d6
+

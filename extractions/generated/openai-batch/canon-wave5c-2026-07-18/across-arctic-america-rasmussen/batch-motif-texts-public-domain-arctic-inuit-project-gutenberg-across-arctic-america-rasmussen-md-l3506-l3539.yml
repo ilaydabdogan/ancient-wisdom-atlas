@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md-l3506-l3539
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: THE RAVEN AND THE LOON / THUNDER AND LIGHTNING / THE OWL AND THE MARMOT /
+    IGJUGARJUK'S SONG; lines 3506-3539
+  start: '3506'
+  end: '3539'
+  translation: across-arctic-america-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: But they grew up out of the earth / As I came within shot
+  summary: A song attributed to Igjugarjuk describes a first-person speaker running
+    to meet musk oxen on a flowered plain, first misjudging them as small from a distance,
+    then seeing them as great black giant beasts when close enough to shoot. A separate
+    note names Qingaruvdliaq as a woman who knew all the men's songs and prompted
+    them when they forgot words.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens with vocable syllables in a song attributed by title to
+    Igjugarjuk.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker says he ran quickly and met the animals on a plain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The animals are identified as musk oxen with brilliant black hair.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says this was the first time he had seen them, and that they were
+    grazing on flowers of the plain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: From far away on a hill, the speaker mistakenly thought the animals were small
+    and slight.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: As the speaker came within shooting range, the animals appeared to grow up
+    out of the earth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The animals are described as great black giant beasts far from the dwellings
+    in regions of happy summer hunting.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Qingaruvdliaq is described as a woman who knew all the men's songs and prompted
+    the men when they forgot the words.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker in Igjugarjuk's song
+  description: The speaker says he ran, saw the musk oxen for the first time, approached
+    them, and came within shooting range.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: musk oxen
+  description: Animals with brilliant black hair, grazing on flowers of the plain,
+    later described as great black giant beasts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Qingaruvdliaq
+  description: A woman said to know all the men's songs and prompt them when they
+    forgot the words.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hunting observer-speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker runs toward the animals, observes them from hill and plain, and
+    comes within shot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: summer hunting animals
+  assigned_to:
+  - fig:2
+  basis: The musk oxen are grazing on the plain and are encountered when the speaker
+    comes within shot in regions of happy summer hunting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: song keeper and prompter
+  assigned_to:
+  - fig:3
+  basis: Qingaruvdliaq is explicitly described as knowing all the men's songs and
+    prompting them when words are forgotten.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: black musk oxen
+  literal_form: great Musk Ox with brilliant black hair; great black giant beasts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: flowered plain
+  literal_form: plain where the musk oxen graze on flowers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hill vantage point
+  literal_form: hill from which the speaker first sees the animals far away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth-growth image
+  literal_form: the animals grew up out of the earth as the speaker came within shot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: remembered songs
+  literal_form: men's songs whose words are known and prompted by Qingaruvdliaq
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: First sight of musk oxen on the plain
+  summary: The speaker runs to meet musk oxen on a plain and sees them grazing on
+    flowers, from a hill and at a distance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Approach into shooting range
+  summary: The speaker approaches the animals closely enough to shoot; what had seemed
+    small at a distance is described as growing up out of the earth and becoming great
+    black giant beasts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Song prompting by Qingaruvdliaq
+  summary: A note identifies Qingaruvdliaq as a woman who knew the men's songs and
+    prompted forgotten words.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Distant animals revealed as giant at close range
+  taxonomy_refs: []
+  basis: The speaker first thinks the animals are small and slight when seen far away,
+    then describes them as great black giant beasts when he comes within shot.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage may describe a change in perception caused by distance rather
+    than an actual transformation.
+- id: motif:2
+  label: Hunting encounter in a remote summer plain
+  taxonomy_refs: []
+  basis: The speaker meets musk oxen grazing on the plain and approaches within shot
+    in regions described as happy summer hunting, far from dwellings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literal hunting-song pattern; no broader taxonomy reference
+    is asserted.
+- id: motif:3
+  label: Song keeper who restores forgotten words
+  taxonomy_refs: []
+  basis: Qingaruvdliaq is described as knowing all the men's songs and prompting men
+    when they forgot the words.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief descriptive note, not a full narrative
+    episode.
+- id: motif:4
+  label: Animals growing up out of the earth
+  taxonomy_refs: []
+  basis: The speaker says the musk oxen grew up out of the earth as he came within
+    shot.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The preceding statement that the speaker had ignorantly thought them small
+    suggests the wording may be a poetic image of apparent enlargement rather than
+    literal earth-emergence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3506-3511
+  quote_or_summary: 'Title and opening vocables: "IGJUGARJUK''S SONG" followed by
+    "Yai — yai — yai" and "Ya — ayai — ya."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain collection; detailed rights metadata
+    not supplied in request.
+- id: ev:2
+  type: quote
+  locator: 3512-3518
+  quote_or_summary: '"I ran with all speed / And met them on the plain, / The great
+    Musk Ox with brilliant black hair"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain collection; detailed rights metadata
+    not supplied in request.
+- id: ev:3
+  type: summary
+  locator: 3519-3528
+  quote_or_summary: The speaker says it was the first time he had seen the animals;
+    they were grazing on the flowers of the plain, far from the hill where he stood,
+    and he mistakenly thought them small and slight.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain collection; detailed rights metadata
+    not supplied in request.
+- id: ev:4
+  type: quote
+  locator: 3530-3539
+  quote_or_summary: '"But they grew up out of the earth / As I came within shot" and
+    were "Great black giant beasts" in regions of happy summer hunting.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain collection; detailed rights metadata
+    not supplied in request.
+- id: ev:5
+  type: quote
+  locator: '3529'
+  quote_or_summary: '"QINGARUVDLIAQ, THE WOMAN WHO KNEW ALL THE MEN''S SONGS AND PROMPTED
+    THEM WHEN THEY FORGOT THE WORDS"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path indicates a public-domain collection; detailed rights metadata
+    not supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is a short song and one prose note; no explicit comparative claims
+    are made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the passage does not clearly support one of the supplied motif-family or symbol IDs.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md__l3506-l3539
+  passage_sha256=62190cea20fea7fccb6a30edfc29ede5840f5bc3ff9ec8dcf066ef120bf0bb62
+

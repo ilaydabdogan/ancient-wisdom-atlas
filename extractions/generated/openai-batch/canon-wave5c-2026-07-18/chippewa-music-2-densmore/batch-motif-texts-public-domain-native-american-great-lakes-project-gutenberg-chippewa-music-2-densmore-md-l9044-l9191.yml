@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md-l9044-l9191
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: DEN SMOKE  I / ^» ^- / WOIJDS / I  HULL.; lines 9044-9191
+  start: '9044'
+  end: '9191'
+  translation: chippewa-music-2-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents song No. 35, “They are Playing a Game,” with translated
+    lines describing passing feet on the prairie and men playing a game as they come.
+    It then recounts a context in which a warrior, exhausted while a war party was
+    returning home, is not abandoned by the other warriors; he uses medicine, rises,
+    composes and sings a song, and continues the journey. The passage also gives song
+    No. 36, “Song of the Exhausted Warrior,” whose translated words say that the speaker
+    cannot travel but will borrow something by which to arrive, followed by musical
+    analysis.
+  language: English with transcribed Ojibwe song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Song No. 35 describes the noise of passing feet on the prairie and men playing
+    a game as they come.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A warrior sank exhausted while a war party was returning home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The other warriors stayed with the exhausted warrior because they did not
+    want to leave him vulnerable to a wandering enemy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: It seemed impossible for the exhausted warrior to rise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The warrior used his medicine and, after a time, sprang to his feet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The warrior sang a song that he composed at the time, and he continued singing
+    as he accompanied the war party on its resumed journey.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Song No. 36 says that the speaker cannot travel but will borrow something
+    by means of which he can arrive.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The analysis of song No. 36 notes a contrast between perturbation in the first
+    part of the song and a more regular rhythm in the latter part.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men in song No. 35
+  description: Men associated with passing feet on the prairie and with playing a
+    game as they come.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: exhausted warrior
+  description: A warrior who becomes exhausted during a returning war party, uses
+    medicine, rises, composes and sings a song, and continues the journey.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: other warriors / war party
+  description: The warriors returning home who remain with the exhausted warrior and
+    later resume the journey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: wandering enemy
+  description: A possible enemy mentioned as the danger to which the exhausted warrior
+    might be left as prey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: approaching game-players
+  assigned_to:
+  - fig:1
+  basis: The song translation describes men whose passing feet are heard on the prairie
+    and who are playing a game as they come.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exhausted returning warrior
+  assigned_to:
+  - fig:2
+  basis: The narrative identifies a warrior who sank exhausted while his war party
+    was returning home.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: protective companions
+  assigned_to:
+  - fig:3
+  basis: The other warriors stay with the exhausted warrior rather than leave him
+    exposed to danger.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potential threat
+  assigned_to:
+  - fig:4
+  basis: The wandering enemy is mentioned only as the danger the exhausted warrior
+    might face if abandoned.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: singer-composer in crisis
+  assigned_to:
+  - fig:2
+  basis: The warrior composes and sings a song at the moment of recovery and continues
+    singing while traveling.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: prairie
+  literal_form: prairie
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: passing feet
+  literal_form: noise of passing feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: game
+  literal_form: game being played as the men come
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: medicine
+  literal_form: the warrior's medicine, used before he rises
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: new song
+  literal_form: song composed and sung at the time of the warrior's recovery
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: borrowed means of arrival
+  literal_form: unspecified thing the speaker says he will borrow in order to arrive
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Men coming across the prairie
+  summary: Song No. 35 presents men whose feet are heard on the prairie and who play
+    a game as they come.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhausted warrior on the return journey
+  summary: During the war party's return home, one warrior sinks exhausted, and the
+    others remain with him rather than leave him exposed to an enemy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recovery through medicine and song
+  summary: The exhausted warrior uses his medicine, rises after a time, composes and
+    sings a song, and continues with the war party as it resumes its journey.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lyric of inability and borrowed arrival
+  summary: Song No. 36 voices inability to travel and the intent to borrow an unspecified
+    means of arriving.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: approaching men playing a game
+  taxonomy_refs: []
+  basis: Song No. 35 combines the approach of men, audible passing feet, prairie setting,
+    and game-playing.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The song text gives only a brief image and no extended narrative context
+    for the game.
+- id: motif:2
+  label: returning war party protects an exhausted companion
+  taxonomy_refs:
+  - return
+  basis: The war party is returning home; the other warriors remain with the exhausted
+    warrior and later resume the journey with him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference to return is broad; the passage describes a practical
+    war-party return, not an explicit mythic homecoming cycle.
+- id: motif:3
+  label: medicine restores an immobilized warrior
+  taxonomy_refs: []
+  basis: The warrior appears unable to rise, uses his medicine, and later springs
+    to his feet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the nature of the medicine or specify a supernatural
+    mechanism.
+- id: motif:4
+  label: song composed in crisis accompanies renewed journey
+  taxonomy_refs: []
+  basis: The warrior composes and sings a song at the time of recovery and continues
+    singing as he travels with the party.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage attributes the song to the crisis context but does not describe
+    a formal ritual origin story.
+- id: motif:5
+  label: borrowing a means to arrive
+  taxonomy_refs: []
+  basis: Song No. 36 states that the speaker cannot travel and will borrow something
+    by means of which he can arrive.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The borrowed object or power is not identified in the translated text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: No. 35, interlinear translation within lines 9044-9191
+  quote_or_summary: "“the noise of passing feet”; “on the prairie”; “they are playing
+    a game as they come”; “those men.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: Narrative context before No. 36 within lines 9044-9191
+  quote_or_summary: Odjibwe states that a warrior sank exhausted while a war party
+    was returning home; the other warriors stayed because they were reluctant to leave
+    him as prey to a wandering enemy, and it seemed impossible for him to rise.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: Narrative context before No. 36 within lines 9044-9191
+  quote_or_summary: The exhausted warrior used his medicine, sprang to his feet after
+    a time, sang the song he composed then, and accompanied the war party as it resumed
+    its journey, still singing.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: No. 36, title and interlinear translation within lines 9044-9191
+  quote_or_summary: "“Song of the Exhausted Warrior”; “alas”; “I can not travel”;
+    “I will borrow that”; “by means of which I can arrive.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: No. 36, musical analysis within lines 9044-9191
+  quote_or_summary: The analysis says the relation of rhythm to content is notable,
+    contrasting perturbation in the first part with more regular rhythm in the latter
+    part.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core narrative details and translated song lines are explicit. Motif labels
+    are cautious because the passage is an ethnographic song transcription with brief
+    context, not a full myth narrative. No cross-tradition comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy entries apply directly to the passage. The only taxonomy motif reference used is the broad “return” family for the returning war-party context.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md__l9044-l9191
+  passage_sha256=6a81c21842c640649809cdcc53731ad59698f35775d65ff9bb13720828fd7b00
+

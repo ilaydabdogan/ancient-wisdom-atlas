@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l9541-l9642
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: TI, 9 , 2. / XULLAVAGGA. / VI, II, I. / YI, II, 2.; lines 9541-9642
+  start: '9541'
+  end: '9642'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives Vinaya regulations for allotting communal lodging-places:
+    appointing an impartial Bhikkhu as apportioner, counting Bhikkhus and sleeping-places,
+    using apartments or buildings as allocation units when some remain unallotted,
+    allowing supplementary shares, and addressing a late arrival and a monk outside
+    the district boundary.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Blessed One allows Bhikkhus to allot lodging-places common to the Saṅgha
+    to those who need them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhikkhus ask how lodging-places should be allotted and report the matter
+    to the Blessed One.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Blessed One permits appointing a Bhikkhu as apportioner of lodging-places
+    if he has specified qualifications, including not acting from partiality, malice,
+    stupidity, or fear.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The apportioners ask how lodging-places should be apportioned, and the Blessed
+    One permits first counting the Bhikkhus, then counting the sleeping-places, then
+    apportioning accordingly.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When apportioning by sleeping-places leaves some unallotted, the Blessed One
+    permits apportioning according to the number of apartments; when apartments remain
+    unallotted, he permits apportioning according to buildings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The Blessed One allows a supplementary share to be given to each Bhikkhu.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When another Bhikkhu arrives after more than one share has been allotted,
+    the passage states that a share need not be allotted to him if the Bhikkhus do
+    not wish to do so.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sleeping-places are allotted to a Bhikkhu who is staying outside the boundary
+    of the district in which the building is situated, and this matter is reported
+    to the Blessed One.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: Authoritative speaker who gives permissions and rules for allotting
+    lodging-places.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: Monastic community members who ask about allotting lodging-places and
+    are recipients of lodging shares.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Apportioners of lodging-places
+  description: Bhikkhus appointed or acting to apportion lodging-places.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Another Bhikkhu who arrived
+  description: A Bhikkhu who arrives after more than one share has already been allotted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Bhikkhu outside the boundary
+  description: A Bhikkhu staying outside the district boundary when sleeping-places
+    are allotted to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: rule-giver
+  assigned_to:
+  - fig:1
+  basis: The Blessed One repeatedly responds to reported issues by allowing or specifying
+    procedures for allotting lodging-places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: monastic community and lodging recipients
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus receive the permissions, ask procedural questions, and may receive
+    lodging shares.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: communal apportioner
+  assigned_to:
+  - fig:3
+  basis: An apportioner of lodging-places is appointed from among qualified Bhikkhus
+    and asks how the apportionment should be carried out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: late-arriving monk
+  assigned_to:
+  - fig:4
+  basis: The figure arrives after more than one share has already been allotted.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: boundary-external allottee
+  assigned_to:
+  - fig:5
+  basis: The figure is a Bhikkhu to whom sleeping-places are allotted while he is
+    staying outside the district boundary.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: communal lodging-places
+  literal_form: lodging-places common to the Saṅgha
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: sleeping-places
+  literal_form: sleeping-places counted and apportioned
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: apartments
+  literal_form: apartments or Viharas used as an allocation unit
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: buildings
+  literal_form: buildings or Pariveṇas used as an allocation unit
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: district boundary
+  literal_form: boundary of the district in which the building was situated
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Authorization to allot communal lodging
+  summary: The Blessed One permits the Bhikkhus to allot communal lodging-places to
+    those who need them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appointment of an impartial apportioner
+  summary: After the Bhikkhus ask how lodging should be allotted, the Blessed One
+    allows appointment of a qualified Bhikkhu as apportioner who does not act from
+    partiality, malice, stupidity, or fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Counting and apportioning by lodging units
+  summary: The apportioners ask how to apportion lodging; the Blessed One instructs
+    them to count Bhikkhus and sleeping-places, then permits apportionment by apartments
+    and buildings when some remain unallotted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Supplementary shares and late arrival
+  summary: The Blessed One permits supplementary shares, and the passage states that
+    a later-arriving Bhikkhu need not receive a share if the Bhikkhus do not wish
+    to allot one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Allotment to a monk outside the boundary
+  summary: Sleeping-places are allotted to a Bhikkhu staying outside the relevant
+    district boundary, and the matter is reported to the Blessed One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Impartial officer for communal allocation
+  taxonomy_refs: []
+  basis: The passage specifies that the apportioner of lodging-places must not act
+    from partiality, malice, stupidity, or fear.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an administrative Vinaya rule rather than a mythological narrative
+    motif; no supplied taxonomy motif family directly matches it.
+- id: motif:2
+  label: Allocation by counted shares and surplus units
+  taxonomy_refs: []
+  basis: The passage resolves lodging allocation by counting Bhikkhus and lodging
+    units, then shifting from sleeping-places to apartments and buildings when some
+    remain unallotted, with rules for supplementary and late shares.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pattern is procedural and institutional; it should not be read as
+    a comparative myth motif without further evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9541-9545; YI, II, 2
+  quote_or_summary: The Blessed One allows Bhikkhus to allot lodging-places common
+    to the Saṅgha to those who need them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 9547-9557; YI, II, 2
+  quote_or_summary: The Bhikkhus ask how lodging-places should be allotted; the Blessed
+    One allows appointment of a qualified Bhikkhu as apportioner, one who does not
+    act from partiality, malice, stupidity, or fear.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 9559-9569; VI, II, 3
+  quote_or_summary: The apportioners ask how lodging-places should be apportioned;
+    the Blessed One permits counting Bhikkhus and sleeping-places and apportioning
+    accordingly; some sleeping-places remain unallotted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 9588-9600; VI, II, 3
+  quote_or_summary: The Blessed One permits apportionment according to apartments,
+    and then according to buildings, when previous allotment methods leave units unallotted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 9602-9603; VI, II, 3
+  quote_or_summary: The Blessed One allows a supplementary share to be given to each
+    Bhikkhu.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 9605-9609; VI, II, 3
+  quote_or_summary: After more than one share has been allotted and another Bhikkhu
+    arrives, a share need not be allotted to him if the Bhikkhus do not wish to do
+    so.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 9611-9616; VI, II, 3
+  quote_or_summary: Sleeping-places are allotted to a Bhikkhu staying outside the
+    boundary of the district in which the building is situated, and the matter is
+    reported to the Blessed One.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Summarized from supplied passage; rights status not specified in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on explicit procedural statements in the supplied
+    passage. Motif candidates are limited to administrative patterns because the passage
+    does not present a mythological narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied. The passage is primarily Vinaya legal/procedural material about monastic lodging allocation.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l9541-l9642
+  passage_sha256=bf876f88ed93c5f9c924cf5f05e4c641ab5b46887ab41681d4f7f7f15eb77c59
+

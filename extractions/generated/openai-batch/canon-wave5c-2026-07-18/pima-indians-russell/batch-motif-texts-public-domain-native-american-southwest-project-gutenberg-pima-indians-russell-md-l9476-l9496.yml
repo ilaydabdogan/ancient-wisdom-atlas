@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l9476-l9496
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: FAMILY ORGANIZATION / NAMES / EDUCATION / OLD PERSONS AND THEIR TREATMENT;
+    lines 9476-9496
+  start: '9476'
+  end: '9496'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes treatment of aged persons among the Pimas. It says
+    sedentary life and mild climate prevented abandonment of the aged on marches,
+    but old and helpless people were sometimes neglected until starvation or committed
+    suicide by burning their houses. Youth sometimes threw stones at aged persons.
+    A specific old blind man at Sacaton is described as living alone in a small brush
+    shelter, limited by a rope tied to his doorpost, receiving cooked food from adult
+    grandchildren, and boasting of past victories over Apaches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Pimas' mild climate and sedentary life made the condition
+    of aged persons less severe than among many other Indian tribes, and that abandonment
+    of the aged on a march did not prevail.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Old and helpless people were not killed by active community members, but were
+    sometimes neglected until starvation and sometimes set fire to their houses to
+    commit suicide.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Youth sometimes threw stones at aged persons, with the stated motive of seeing
+    them act like children.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An observed old man at Sacaton was totally blind, scarcely able to walk, and
+    lived in an approximately 8-foot-square brush shelter with a little straw and
+    one blanket.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The old man's travel outside the shelter was limited by a rope attached to
+    his doorpost.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Adult grandchildren living nearby cooked food for the old man, while he spent
+    his time alone in the sparsely furnished shelter.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The old man boasted of a time when he was a man among men and overcame Apaches
+    on their own ground.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: aged persons among the Pimas
+  description: Old and helpless persons discussed collectively in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: active members of the community
+  description: Community members who are said not to kill the old and helpless.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: youth
+  description: Young people whose heartlessness is described through stone-throwing
+    at aged persons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: old man at Sacaton
+  description: A totally blind, barely walking old man living in a small brush shelter.
+  role_refs:
+  - role:1
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: adult grandchildren
+  description: Adult grandchildren living nearby who cooked food for the old man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Apaches
+  description: People named in the old man's boast as those he had overcome on their
+    own ground.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: aged or helpless persons
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage centers on old and helpless persons, including the blind old
+    man at Sacaton.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: non-killing active community members
+  assigned_to:
+  - fig:2
+  basis: The passage states that active members of the community did not kill the
+    old and helpless.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: youth tormentors
+  assigned_to:
+  - fig:3
+  basis: Youth are described as throwing stones at aged persons.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: isolated dependent elder
+  assigned_to:
+  - fig:4
+  basis: The old man is described as blind, barely able to walk, alone in a shelter,
+    and limited by a rope.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: food-providing descendants
+  assigned_to:
+  - fig:5
+  basis: The old man's adult grandchildren cooked his food and lived nearby.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: remembered adversaries
+  assigned_to:
+  - fig:6
+  basis: The Apaches appear in the old man's boast as people he formerly overcame.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: former warrior or proud elder
+  assigned_to:
+  - fig:4
+  basis: The old man boasts of former status and overcoming Apaches.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: house fire
+  literal_form: fire set to houses by some aged persons committing suicide
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: rope tied to doorpost
+  literal_form: rope attached by one end to the old man's doorpost, limiting how far
+    he could travel
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: small brush shelter
+  literal_form: about 8-foot-square brush shelter containing a little straw and one
+    blanket
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: stones thrown at aged persons
+  literal_form: stones thrown by youth at aged persons
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: General treatment of aged persons
+  summary: The passage contrasts Pima conditions with other tribes, says the aged
+    were not abandoned on marches or killed, but notes neglect, starvation, house-burning
+    suicide, and mistreatment by youth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Old man confined near his shelter
+  summary: A blind old man at Sacaton lives in a small, sparse brush shelter; his
+    movement is limited by a rope tied to the doorpost, and nearby adult grandchildren
+    cook his food.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Boast of former strength
+  summary: Despite present helplessness, the old man boasts of having once been a
+    man among men and of overcoming Apaches on their own ground.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Aged persons neglected rather than ritually killed or abandoned
+  taxonomy_refs: []
+  basis: The passage says the old and helpless were not killed and that abandonment
+    on marches did not prevail, but that they could be neglected until starvation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic social pattern, not a mythic narrative; no supplied
+    motif-family taxonomy ref directly applies.
+- id: motif:2
+  label: House-burning suicide of neglected elders
+  taxonomy_refs: []
+  basis: The passage reports that some aged persons set fire to their houses to commit
+    suicide.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only briefly reported; no individual narrative or ritual context is supplied.
+- id: motif:3
+  label: Helpless elder tethered to dwelling
+  taxonomy_refs: []
+  basis: The observed old man's movement outside was limited by a rope attached to
+    his doorpost.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents this as an observed living condition, not as a recurring
+    mythic motif.
+- id: motif:4
+  label: Former warrior reduced to isolated old age
+  taxonomy_refs: []
+  basis: The blind, isolated old man boasts of formerly being a man among men and
+    overcoming Apaches.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The former-warrior element is based on the old man's boast, not on an
+    independently narrated heroic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself contrasts Pima elder treatment with an elder-abandonment-on-the-march
+    pattern attributed generally to other Indian tribes; both concern treatment of
+    dependent aged persons, but the Pima case is described as sedentary neglect rather
+    than abandonment during travel.
+  claim_level: same_function
+  target: elder abandonment on the march among other Indian tribes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and unnamed; the passage gives no specific
+    tribe, narrative, ritual context, or historical contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9476-9496; opening paragraph
+  quote_or_summary: Mild climate and sedentary life are said to make the lot of aged
+    Pimas less severe than among many other Indian tribes; abandonment of the aged
+    on marches did not prevail.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from user-provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 9476-9496; opening paragraph
+  quote_or_summary: The old and helpless were not killed by active community members,
+    though some were neglected until starvation and some set fire to their houses
+    to commit suicide.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from user-provided
+    passage.
+- id: ev:3
+  type: quote
+  locator: lines 9476-9496; opening paragraph
+  quote_or_summary: Youth sometimes committed acts such as "throwing stones at aged
+    persons" to see them act like children.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from user-provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 9476-9496; second paragraph
+  quote_or_summary: An old man at Sacaton is described as totally blind, scarcely
+    able to walk, and living in an approximately 8-foot-square brush shelter with
+    little straw and a single blanket.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from user-provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 9476-9496; second paragraph
+  quote_or_summary: The old man's journeys were limited by a rope attached to his
+    doorpost; adult grandchildren nearby cooked his food, while he spent his time
+    alone in the nearly unfurnished shelter.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from user-provided
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 9476-9496; second paragraph
+  quote_or_summary: The old man boasted of a time when he was a man among men and
+    overcame Apaches on their own ground.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from user-provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is ethnographic rather than mythic and no supplied motif-family taxonomy
+    directly matches the described elder-treatment patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All fields are based only on the supplied passage and metadata. No external tribal, historical, or mythological context has been added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l9476-l9496
+  passage_sha256=6834a39cb042c49cdb63bd55d98e87eac33500ef2bbb2e6debf892ba06f0040a
+

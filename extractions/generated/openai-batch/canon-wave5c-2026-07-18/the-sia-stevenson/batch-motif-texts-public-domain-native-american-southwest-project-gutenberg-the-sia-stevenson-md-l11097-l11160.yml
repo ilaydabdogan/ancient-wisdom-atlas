@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l11097-l11160
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: TATTOOING. / CLOTHING. / OWRLLINIIK. / HOUSEHOLD AIITICLES.; lines 11097-11160
+  start: '11097'
+  end: '11160'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes household articles in snow-house dwellings, emphasizing
+    a soapstone oil lamp as the principal source of heat and light. It explains the
+    lamp’s material, form, oil capacity, moss wick preparation and use, cooking function,
+    and a suspended drying frame for wet clothing items.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dwellings are described as having very little furniture besides bed places.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Housekeeping articles listed include a soapstone lamp, kettles, a suspended
+    drying frame, wooden bowls, buckets, cups, and similar sealskin vessels.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lamp is described as the only source of heat and light in the snow house.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lamp is a large shallow soapstone bowl filled with oil, burned with a
+    moss wick arranged around one edge.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Soapstone for lamps occurs as isolated surface boulders in the region, sometimes
+    very large.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lamps generally have a similar form, while variation is attributed to
+    limits of material.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lamp oil capacity varies from about half a pint to nearly three quarts, but
+    the lamp is not filled to the brim because of overflow risk.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Oil consumption depends on the number of wicks lit and on the character of
+    the wick.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The common wick is made from a kind of moss that grows in matted patches close
+    to the ground.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Pieces of moss are cut, dried, squeezed with the teeth by a woman, trimmed,
+    set in oil, and lit.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: A moss wick gives strong light, and the heat is described as very great.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: For cooking, a larger wick or two smaller wicks are used side by side.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: A frame is placed over the lamp for drying wet boots, mittens, and similar
+    articles.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: woman preparing and lighting the wick
+  description: A woman is described as squeezing the moss fibers together with her
+    teeth, trimming the wick, setting it in oil, and lighting it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: wick preparer and lamp lighter
+  assigned_to:
+  - fig:1
+  basis: The passage assigns the actions of squeezing, trimming, placing, and lighting
+    the wick to a woman.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: soapstone oil lamp
+  literal_form: large shallow soapstone bowl filled with oil and fitted with moss
+    wick
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: lamp fire, heat, and light
+  literal_form: oil burned by a moss wick; wicks lit for heat, light, and cooking
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: moss wick
+  literal_form: cut and dried matted moss used as lamp wick
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: suspended drying frame
+  literal_form: wooden frame or bow with sinew or sealskin strands placed above the
+    lamp
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: household vessels
+  literal_form: wooden bowls, buckets, cups, and similar sealskin vessels
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: snow house
+  literal_form: dwelling in which the lamp is the only source of heat and light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Household inventory in the dwelling
+  summary: The passage lists the limited furnishings and household articles present
+    in the dwellings, including lamp, kettles, drying frame, and vessels.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Soapstone lamp as domestic heat and light source
+  summary: The lamp is described as a soapstone bowl containing oil, with a moss wick
+    burning along one edge, serving as heat and light in the snow house.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Preparation and lighting of the moss wick
+  summary: Moss is cut and dried for wick material; when used, a woman compresses,
+    trims, sets, and lights the wick.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Cooking and drying over the lamp
+  summary: A larger wick or paired smaller wicks are used for cooking, and a frame
+    above the lamp dries wet boots, mittens, and similar items.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11097-11105
+  quote_or_summary: 'Opening paragraph says the dwellings have little furniture besides
+    bed places and lists household articles: soapstone lamp, kettles, drying frame,
+    wooden bowls, buckets, cups, and sealskin vessels.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:2
+  type: summary
+  locator: lines 11106-11112
+  quote_or_summary: The lamp is identified as the only source of heat and light in
+    the snow house and is described as a large shallow soapstone bowl.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:3
+  type: summary
+  locator: lines 11113-11116
+  quote_or_summary: The lamp is filled with oil, which is burned by means of a moss
+    wick arranged around one edge of the bowl.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:4
+  type: summary
+  locator: lines 11117-11124
+  quote_or_summary: The soapstone material for lamps occurs as isolated surface boulders
+    in the region, often of great size.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:5
+  type: summary
+  locator: lines 11125-11136
+  quote_or_summary: The general lamp form is nearly always the same; variations are
+    attributed to material limits. Oil capacity ranges from about half a pint to nearly
+    three quarts, and the lamp is not filled to the brim to avoid overflow.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:6
+  type: summary
+  locator: lines 11135-11138
+  quote_or_summary: Oil consumption depends on how many wicks are lit at once and
+    on the character of the wick.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:7
+  type: summary
+  locator: lines 11139-11147
+  quote_or_summary: The usual wick is made from a moss that grows in matted patches
+    close to the ground; pieces are cut to size and laid away to dry.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:8
+  type: summary
+  locator: lines 11148-11152
+  quote_or_summary: When the wick is used, a woman squeezes the fibers together with
+    her teeth, trims it, sets it in oil, and lights it; the light is strong and the
+    heat very great.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+- id: ev:9
+  type: summary
+  locator: lines 11153-11160
+  quote_or_summary: For cooking, a larger wick or two smaller wicks are used. A frame
+    is placed over the lamp for drying wet boots, mittens, and similar items; the
+    frame is described as a wooden semicircle or bow with sinew or sealskin strands.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Passage supplied in request; source metadata rights_status is null.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The passage is descriptive ethnographic material about household articles.
+    Literal object and action extraction is strong, but no mythic narrative motif
+    or passage-supported comparison is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were added because the supplied passage does not itself support mythological comparison beyond practical domestic descriptions.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l11097-l11160
+  passage_sha256=6e0c0d61e513d2548d216ef2fbd20f1392f3778d528339d44050721558b528b4
+

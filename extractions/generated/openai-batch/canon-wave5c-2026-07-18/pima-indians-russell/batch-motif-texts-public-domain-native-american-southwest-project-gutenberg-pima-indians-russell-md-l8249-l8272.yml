@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l8249-l8272
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: KICKING-BALX. RACES / ATHLETIC SPORTS / RELAY RACES / SWIMMING; lines 8249-8272
+  start: '8249'
+  end: '8272'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage notes Pima and Maricopa swimming and diving to catch fish by
+    hand, then describes Pima gambling practices, including wagering personal or household
+    property and resolving some losses through a foot race.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Parties of Pimas or Maricopas are reported in calendar records as swimming
+    and diving to catch fish with their naked hands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mr Cook is cited as saying he had seen Pimas or Maricopas swim and dive to
+    catch fish by hand.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Pimas had a strong passion for gambling and played
+    many games for that purpose.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the old games were practically abandoned, and gamblers with
+    means and desire used Mexican cards.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Beads, paint, blankets, and personal or family property could be wagered.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Women are described as being as fond of gaming as men and as staking blankets
+    after other property was lost.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A loser who had lost everything might win a stipulated article from her opponent
+    by beating her in a foot race.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A woman might gamble away household property such as the family sleeping mat
+    and metato, though she hesitated to wager the drinking gourd.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: A group named in connection with swimming, diving, and gambling practices.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Maricopas
+  description: A group named in connection with swimming and diving to catch fish
+    by hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mr Cook
+  description: An informant or witness cited as assuring the writer he had seen the
+    swimming and diving practices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pima women gamblers
+  description: Women described as fond of gaming, wagering blankets and household
+    property, and possibly entering a foot race after losses.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Opponent
+  description: The person from whom a loser might win a stipulated article by winning
+    a foot race.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: swimmers and divers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says parties of Pimas or Maricopas swam and dived to catch fish.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: witness or source
+  assigned_to:
+  - fig:3
+  basis: Mr Cook is cited as assuring the writer that he had seen the described swimming
+    and diving.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: gamblers
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes Pimas, including women, as engaged in gambling and
+    wagering property.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: foot-race contestant after gambling loss
+  assigned_to:
+  - fig:4
+  basis: A woman who had lost everything might recover a stipulated article if she
+    beat her opponent in a foot race.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: race opponent
+  assigned_to:
+  - fig:5
+  basis: The stipulated article could be won from an opponent if the loser won the
+    race.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fish caught by hand
+  literal_form: fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wagered property
+  literal_form: beads, paint, blankets, personal property, family property, sleeping
+    mat, metato, drinking gourd
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: Mexican cards
+  literal_form: deck of Mexican cards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: foot race
+  literal_form: foot race
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Swimming and diving for fish
+  summary: Parties of Pimas or Maricopas are described as swimming and diving to catch
+    fish with their hands; Mr Cook is cited as an eyewitness to the practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gambling and wagering property
+  summary: The Pimas are described as strongly inclined to gambling, using games and
+    later Mexican cards, and wagering beads, paint, blankets, and other personal or
+    family property.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: scene:3
+  label: Foot race after losses
+  summary: A woman who had lost everything in gambling might regain a stipulated article
+    from her opponent by winning a foot race.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Swimming and diving to catch fish by hand
+  taxonomy_refs: []
+  basis: The passage records parties swimming and diving to catch fish with naked
+    hands, with an eyewitness statement cited.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic activity pattern, not a mythological motif in
+    the supplied passage.
+- id: motif:2
+  label: Gambling with personal and household property
+  taxonomy_refs: []
+  basis: The passage describes extensive wagering of beads, paint, blankets, personal
+    property, and household goods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No sacred or mythic interpretation is stated in the passage.
+- id: motif:3
+  label: Contest used to recover a gambling loss
+  taxonomy_refs: []
+  basis: A loser could win a stipulated article from an opponent by beating her in
+    a foot race.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives this as a social practice; it does not frame the race
+    as ritual or mythic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8249-8253
+  quote_or_summary: Calendar records mention parties of Pimas or Maricopas swimming
+    and diving to catch fish with their naked hands.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8252-8254
+  quote_or_summary: Mr Cook assures the writer that he has seen the swimming and diving
+    practices described.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8258-8260
+  quote_or_summary: The Pimas are described as deeply imbued with a passion for gambling,
+    with many games played for that desire.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8260-8263
+  quote_or_summary: Old games are said to be practically abandoned; gamblers now use
+    a deck of Mexican cards when they have the means and desire.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 8263-8265
+  quote_or_summary: Beads, paint, blankets, and any personal or family property were
+    wagered.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8265-8268
+  quote_or_summary: Women are described as being as fond of gaming as men and as staking
+    their blankets after other losses.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 8268-8271
+  quote_or_summary: When everything was gone, a loser might win a stipulated article
+    from an opponent by beating her in a foot race.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:8
+  type: summary
+  locator: lines 8271-8272
+  quote_or_summary: A woman might gamble away household property including the family
+    sleeping mat and metato, though she hesitated to wager the drinking gourd.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic rather than mythological. Literal practices are
+    clear, but motif classification is limited to social or activity patterns with
+    no supported taxonomy match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another motif family, text, pattern, or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l8249-l8272
+  passage_sha256=4e4b770b5064ff785cb4d0db758a2159b14946fb5321174ae65e6517cdc67c6d
+

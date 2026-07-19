@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2112-l2151
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: JTU LLAVAGGA. / TV, 14, 18. THE SETTLEMENT OF DISPUTES. / TV, 14, 18. / IV,
+    14, 19- THE SETTLEMENT OF DISPUTES.; lines 2112-2151
+  start: '2112'
+  end: '2151'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural instructions for handling a legal question
+    among Bhikkhus. Incoming Bhikkhus are to explain the origin and progress of the
+    case to the resident Bhikkhus and entrust it to them if they can settle it within
+    a set time according to the Dhamma, the Vinaya, and the Master's teaching; otherwise
+    the incoming Bhikkhus retain custody. If unclear or pointless speech arises during
+    inquiry, the case is to be settled by referral to a jury or commission.
+  language: English translation with Pali terms in notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhikkhus dwelling in a residence are instructed to undertake a legal question
+    once the proper way of putting the legal question has been settled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Incoming Bhikkhus are instructed to tell the resident Bhikkhus how the legal
+    question arose and how it was carried on.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The incoming Bhikkhus may entrust the legal question to the resident Bhikkhus
+    if they can settle it within a stated time according to the Dhamma, the Vinaya,
+    and the teaching of the Master.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the resident Bhikkhus cannot settle the legal question, the incoming Bhikkhus
+    retain custody of the case.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the resident Bhikkhus can settle the case, that is called a settlement
+    of the legal question.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If pointless speeches arise during inquiry and the meaning of an utterance
+    is unclear, the case is to be settled by referring it to a jury or commission.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: incoming Bhikkhus
+  description: Bhikkhus who bring or retain custody of the legal question and address
+    the resident Bhikkhus about it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Bhikkhus dwelling in that residence
+  description: Resident Bhikkhus who may undertake and settle the legal question if
+    able to do so properly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the Master
+  description: The Master is referenced through his teaching as one of the standards
+    for settling the legal question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: jury or commission
+  description: A referred body to which a case may be sent when speech in the inquiry
+    is pointless or unclear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: case custodians and entrusting party
+  assigned_to:
+  - fig:1
+  basis: The incoming Bhikkhus explain the case, entrust it if conditions are met,
+    and otherwise retain custody.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: potential adjudicators
+  assigned_to:
+  - fig:2
+  basis: The resident Bhikkhus are to undertake and, if able, settle the legal question.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: normative authority referenced through teaching
+  assigned_to:
+  - fig:3
+  basis: The case is to be settled according to the teaching of the Master, alongside
+    the Dhamma and Vinaya.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: referral body
+  assigned_to:
+  - fig:4
+  basis: When inquiry becomes unclear, the case is to be settled by referral to a
+    jury or commission.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Entrusting a legal question to resident Bhikkhus
+  summary: Incoming Bhikkhus explain the origin and conduct of a legal question to
+    resident Bhikkhus and conditionally entrust it to them for settlement according
+    to Dhamma, Vinaya, and the Master's teaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Referral when inquiry becomes unclear
+  summary: During inquiry by Bhikkhus, if pointless speech appears and the meaning
+    of an utterance is unclear, the case is to be settled by referring it to a jury
+    or commission.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Conditional entrusting of a dispute to qualified adjudicators
+  taxonomy_refs: []
+  basis: The passage describes a legal question being entrusted to resident Bhikkhus
+    only if they can settle it within a stated time according to recognized standards.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a procedural legal pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: Referral of an unclear dispute to a commission
+  taxonomy_refs: []
+  basis: When the inquiry is obstructed by pointless or unclear speech, the instructed
+    procedure is referral to a jury or commission.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage provides an institutional rule; no broader comparative or
+    symbolic meaning is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2112-2117
+  quote_or_summary: After the proper way of putting the legal question has been settled,
+    the Bhikkhus dwelling in that residence should undertake the legal question.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 2117-2128
+  quote_or_summary: Incoming Bhikkhus address resident Bhikkhus, explain how the legal
+    question arose and was carried on, and state that they will entrust it if it can
+    be settled in time according to the Dhamma, Vinaya, and teaching of the Master.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 2128-2131
+  quote_or_summary: If the resident Bhikkhus cannot settle the case, the incoming
+    Bhikkhus retain custody of it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 2131-2138
+  quote_or_summary: The legal question is to be duly accepted by the resident Bhikkhus;
+    if they are able to settle the case, it is called a settlement of the legal question.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 2140-2146
+  quote_or_summary: If, while Bhikkhus inquire into the case, pointless speeches are
+    brought forth and the sense of an utterance is unclear, the case is to be settled
+    by referring it to a jury or commission.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:6
+  type: note
+  locator: lines 2148-2151
+  quote_or_summary: Footnotes comment on Pali wording and note that related wording
+    recurs elsewhere, but no additional procedure is developed within this passage
+    excerpt.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal procedure is explicit, but motif candidates are procedural patterns
+    rather than mythological motifs. No comparison claims are made because the passage
+    itself does not support comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or listed symbol is clearly supported by this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2112-l2151
+  passage_sha256=df04c6719ec1577a2ddf17dd319771eac12aa7690ddca9831b11f50118bca651
+

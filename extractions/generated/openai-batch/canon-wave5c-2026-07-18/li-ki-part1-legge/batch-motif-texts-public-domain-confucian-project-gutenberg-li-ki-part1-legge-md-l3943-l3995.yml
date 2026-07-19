@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l3943-l3995
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: Book XLIV. YEN f. / Book XLV. Purine Tf. / Book XLVI. SAnc FO SZE AIH. /
+    Part IV.; lines 3943-3995
+  start: '3943'
+  end: '3995'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for conduct at burial grounds, interments, mourning
+    houses, funerals, joyful occasions, martial contexts, carriage etiquette among
+    ranks, and rules concerning common people, officers, punished persons, and the
+    ruler.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person going to a burying-ground is told not to get up on any graves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person assisting at an interment is told to join in holding the rope attached
+    to the coffin.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: obs:3
+  text: In a house of mourning, one should not laugh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On seeing a coffin with a corpse from a distance, one should not sing; among
+    mourners, one should not keep the arms stuck out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At meals with others, one should not sigh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When mourning rites or a shrouded and coffined body are nearby, singing and
+    vocal work accompaniment are prohibited.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When going to a burying-ground, or on the same day as wailing with mourners,
+    one should not sing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A person accompanying a funeral should not take a by-path.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A participant in interment should not try to avoid mud or pools, and a rope-holder
+    should not laugh.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A person presenting himself at a mourning rite should have a sad countenance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: On an occasion of joy, one should not sigh.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: When wearing coat of mail and helmet, one's countenance should project martial
+    readiness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The superior man is said to be careful to maintain the proper expression of
+    his countenance before others.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: If a ruler or great officer bends forward while holding the carriage cross-bar,
+    a lower-ranking officer descends from his carriage.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The passage states that rules of ceremony do not go down to common people,
+    penal statutes do not go up to great officers, and punished men should not be
+    beside the ruler.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Generic ritual participant
+  description: The addressed person who goes to burial grounds, assists interment,
+    attends mourning rites, eats with others, attends joyful occasions, or wears armor.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mourners
+  description: People among whom the participant enters and with whom the participant
+    may wail.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ruler of a state
+  description: A ruler whose carriage gesture requires a great officer to descend,
+    and beside whom punished men should not be allowed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Great officer
+  description: An officer who descends when the ruler performs the carriage gesture,
+    and whose own gesture causes another officer to descend.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Another officer
+  description: An officer who descends from his carriage when a great officer lays
+    hold of the bar and bends forward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Common people
+  description: A group described as not fully reached by the rules of ceremony, with
+    a note explaining limits due to occupations and means.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: Men who have suffered punishment
+  description: Persons said not to be allowed by the side of the ruler.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:8
+  name_or_label: Superior man
+  description: A person described as careful to maintain the proper expression of
+    his countenance before others.
+  role_refs:
+  - role:3
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attendee at mourning or burial rites
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly addresses a person going to a burial ground, entering
+    among mourners, or presenting himself at mourning rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: interment assistant and rope-holder
+  assigned_to:
+  - fig:1
+  basis: The passage says an assistant at interment should hold the rope attached
+    to the coffin and should not laugh while holding the rope.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:3
+  label: person regulating countenance according to occasion
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The passage prescribes sad, joyful-restraint, and martial expressions, and
+    states that the superior man maintains proper expression.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: mourner
+  assigned_to:
+  - fig:2
+  basis: The passage refers to entering among mourners and wailing with mourners.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: ruler requiring deference and protected proximity
+  assigned_to:
+  - fig:3
+  basis: A great officer descends when the ruler performs the carriage gesture; punished
+    men should not be by the ruler's side.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:6
+  label: ranked officer in carriage etiquette
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage describes great officers and other officers descending according
+    to hierarchical gestures.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: population category outside full ceremonial expectations
+  assigned_to:
+  - fig:6
+  basis: The passage states that rules of ceremony do not go down to common people,
+    with a note explaining practical limits.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: excluded punished person
+  assigned_to:
+  - fig:7
+  basis: Men who have suffered punishment should not be allowed beside the ruler;
+    the note cites contamination and revenge as concerns.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:9
+  label: exemplar of propriety
+  assigned_to:
+  - fig:8
+  basis: The superior man is presented as careful about proper facial expression before
+    others.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: burial ground and graves
+  literal_form: burying-ground; graves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: coffin and corpse
+  literal_form: coffin with corpse; body shrouded and coffined
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: interment rope
+  literal_form: rope attached to the coffin or to the low car carrying the coffin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: house of mourning
+  literal_form: house of mourning; mourners
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: mud and pools at burial
+  literal_form: mud or pools encountered during interment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ritual countenance
+  literal_form: sad countenance; proper expression; martial countenance
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: carriage cross-bar
+  literal_form: cross-bar of the carriage held while bending forward
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: armor and helmet
+  literal_form: coat of mail and helmet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Burial-ground and interment conduct
+  summary: The participant is told not to climb graves, to help hold the interment
+    rope, not to avoid mud or pools, and not to laugh while holding the rope.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: scene:2
+  label: Restraint around mourning and coffined bodies
+  summary: The participant must avoid laughter, singing, improper arm posture, sighing
+    at meals, and vocal work accompaniment when mourning rites or coffined bodies
+    are present nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Countenance matched to occasion
+  summary: The text prescribes sad countenance at mourning rites, no sighing at joyful
+    occasions, martial expression in armor, and general care by the superior man over
+    facial expression.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Hierarchical carriage deference
+  summary: When the ruler bends forward holding the carriage bar, a great officer
+    descends; when a great officer performs the gesture, another officer descends.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Boundaries of rank, law, and ruler proximity
+  summary: The passage distinguishes common people, great officers, and punished men
+    in relation to ceremony, penal statutes, and allowed proximity to the ruler.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Mourning restraint before death and burial
+  taxonomy_refs: []
+  basis: Repeated prohibitions on laughter, singing, sighing, casual posture, and
+    inappropriate sound around coffins, mourners, burial grounds, and mourning rites.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a ritual-conduct pattern rather than a narrative myth motif.
+- id: motif:2
+  label: Communal participation in interment
+  taxonomy_refs: []
+  basis: The participant is expected to join in holding the rope, not evade mud or
+    pools, and not take a by-path while accompanying the funeral.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage gives prescriptive conduct rules and does not narrate a specific
+    burial event.
+- id: motif:3
+  label: Proper countenance as ritual alignment
+  taxonomy_refs: []
+  basis: The text coordinates facial expression with mourning, joy, martial readiness,
+    and the superior man's general self-presentation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches this conduct motif.
+- id: motif:4
+  label: Ranked deference and bounded access to rulership
+  taxonomy_refs: []
+  basis: The passage links carriage gestures to hierarchical descent and limits proximity
+    to the ruler by punished persons, while distinguishing common people and great
+    officers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This is a social and ritual hierarchy pattern; the passage does not frame
+    it as mythic kingship or divine rulership.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3943-3946
+  quote_or_summary: 'Rules: do not climb graves when going to a burial ground; assist
+    at interment by holding the rope attached to the coffin.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:2
+  type: summary
+  locator: 3946-3952
+  quote_or_summary: 'Rules: do not laugh in a house of mourning; do not sing at a
+    distant coffin with corpse; do not keep arms stuck out among mourners; do not
+    sigh when eating with others.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:3
+  type: summary
+  locator: 3952-3958
+  quote_or_summary: 'Rules: avoid vocal accompaniment and singing when mourning rites
+    or a shrouded and coffined body are nearby; do not sing when going to a burial
+    ground or on the same day as wailing.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:4
+  type: summary
+  locator: 3958-3964
+  quote_or_summary: 'Rules: do not take a by-path at a funeral; do not avoid mud or
+    pools during interment; have a sad countenance at mourning rites; do not laugh
+    while holding the rope.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:5
+  type: summary
+  locator: 3964-3975
+  quote_or_summary: 'Rules: do not sigh at joyful occasions; in armor, show a martial
+    countenance; therefore the superior man maintains proper expression before others.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:6
+  type: summary
+  locator: 3977-3982
+  quote_or_summary: If the ruler bends forward holding the carriage cross-bar, a great
+    officer descends; if a great officer does the same, another officer descends.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:7
+  type: summary
+  locator: 3982-3986
+  quote_or_summary: The passage says ceremony rules do not go down to common people,
+    penal statutes do not go up to great officers, and punished men should not be
+    beside the ruler.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:8
+  type: note
+  locator: footnote after paragraph 47
+  quote_or_summary: A note explains that the rope may be attached to the coffin or
+    to the low car on which the coffin was drawn to the grave, and compares paragraph
+    45.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+- id: ev:9
+  type: note
+  locator: footnotes after paragraphs 50-52
+  quote_or_summary: Notes explain that common people are not wholly free from rules
+    but have limited means and engrossing occupations; punishment of great officers
+    is qualified; punished men are kept from the ruler because of contamination and
+    risk of revenge.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Supplied metadata gives rights_status as null; no rights determination
+    made.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as prescriptive ritual material. Candidate motifs are
+    ritual and social patterns rather than mythic narrative motifs. No external comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not directly match the passage-level ritual conduct patterns.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l3943-l3995
+  passage_sha256=cb4c84520c6f653a35acc94e198e03068f715d8e7d5144fac3322014aa0c3ebc
+

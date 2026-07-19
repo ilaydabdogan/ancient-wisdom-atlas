@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1111-l1152
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: XULLAVAGGA. / XULLAVAGGA. / TV, 9. / KULLAVAGGA.; lines 1111-1152
+  start: '1111'
+  end: '1152'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A Vinaya passage gives a formal procedure for appointing a Bhikkhu to
+    take voting tickets: approval is shown by silence and objection by speaking. It
+    then states that vote-taking has ten invalid and ten valid cases and begins listing
+    invalid cases, including trivial disputes, incomplete preliminaries, failure formally
+    to remember or call to remember an offence, and the ticket-taker''s knowledge
+    that opinions not in accordance with the law will be in the majority.'
+  language: English translation with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The formula tells those who approve to keep silence and those who do not approve
+    to speak.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Bhikkhu named by the formula is appointed by the Sawgha as taker of the
+    voting tickets.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that there are ten cases in which taking votes is invalid
+    and ten in which taking votes is valid.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The initial invalid cases listed concern a trivial dispute, a case that has
+    not run its course, failure to formally remember or call to remember an offence,
+    and a ticket-taker's knowledge that opinions not in accordance with the law will
+    be in the majority.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note glosses the taker of votes in terms of taking salaka, or voting tickets.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: The addressed monks and participants referred to in the vote-taking
+    rules.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sawgha
+  description: The communal body that appoints a Bhikkhu as taker of voting tickets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhikkhu appointed as taker of voting tickets
+  description: A Bhikkhu named by the formal appointment wording and selected to take
+    the voting tickets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: appointing communal body
+  assigned_to:
+  - fig:2
+  basis: The passage says the Sawgha appoints the Bhikkhu as taker of voting tickets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vote-ticket taker
+  assigned_to:
+  - fig:3
+  basis: The Bhikkhu is appointed to take voting tickets, and the invalid-case list
+    refers to the taker of votes knowing the likely unlawful majority.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: addressed monastic participants
+  assigned_to:
+  - fig:1
+  basis: The passage addresses Bhikkhus and describes conditions involving Bhikkhus
+    in dispute procedures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: voting tickets
+  literal_form: tickets or voting tickets; glossed in a note with salaka
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: procedural silence
+  literal_form: keeping silence to show approval of the appointment
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: spoken objection
+  literal_form: speaking when one does not approve
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Appointment of the vote-ticket taker
+  summary: A formal wording directs approval by silence and objection by speech, and
+    declares that the Sawgha appoints a named Bhikkhu as taker of voting tickets.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Statement of valid and invalid vote-taking
+  summary: The passage announces that there are ten invalid and ten valid cases for
+    taking votes.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Beginning of the invalid cases list
+  summary: 'The passage begins listing invalid vote-taking cases: triviality, incomplete
+    procedural course, failure of formal remembrance concerning an offence, and the
+    ticket-taker''s knowledge that views not in accordance with the law will be the
+    majority.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: assent by silence and dissent by speech
+  taxonomy_refs: []
+  basis: The appointment formula makes silence the sign of approval and speech the
+    sign of non-approval.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a monastic legal-procedural pattern rather than a mythic narrative
+    motif; no taxonomy motif is assigned.
+- id: motif:2
+  label: collective decision constrained by procedure and law
+  taxonomy_refs: []
+  basis: The passage contrasts valid and invalid vote-taking and lists invalid cases
+    involving incomplete preliminaries, unremembered offences, and a majority not
+    in accordance with the law.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: Extracted as an institutional pattern only; the passage does not support
+    a broader mythological comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1115-1119
+  quote_or_summary: 'Appointment formula: approval is by silence, objection by speech,
+    and a named Bhikkhu is appointed by the Sawgha as taker of voting tickets.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1121-1124
+  quote_or_summary: The passage says there are ten cases in which taking votes is
+    invalid and ten in which taking votes is valid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1126-1135
+  quote_or_summary: The first invalid cases include a trivial dispute, a case lacking
+    required preliminaries, failure formally to remember or call to remember an offence,
+    and the ticket-taker knowing unlawful opinions will be in the majority.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: note
+  locator: line 1149
+  quote_or_summary: A note glosses vote-taking with salaka, here treated as voting
+    tickets.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal procedural content is clear, though OCR/romanization appears irregular.
+    Motif candidates are low-confidence because the passage is legal-institutional
+    rather than mythological. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol refs were assigned. Source spellings such as Sawgha and salaka-related notation are reflected cautiously from the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1111-l1152
+  passage_sha256=c83a9b40bd5bdc55c5e235134d4e1cf26af6beb0187a44a35d13ff1070340f39
+

@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md-l211-l226
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: CHAPTER X. / MALAGASY ORATORY, ORNAMENTS OF SPEECH, SYMBOLIC ACTIONS / AND
+    CONUNDRUMS / CHAPTER XL; lines 211-226
+  start: '211'
+  end: '226'
+  translation: madagascar-before-conquest-sibree
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: MALAGASY ORATORY, ORNAMENTS OF SPEECH, SYMBOLIC ACTIONS AND CONUNDRUMS
+  summary: The passage is a contents entry and chapter heading for Chapter X. It lists
+    topics including Malagasy oratory, ornaments of speech, symbolic actions, conundrums,
+    folklore, folktales, proverbs, figures of speech, emotional and social themes,
+    animal-labeled topics, royal topics, and riddles.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies Chapter X as concerning Malagasy oratory, ornaments
+    of speech, symbolic actions, and conundrums.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed chapter contents include folklore, folktales, proverbs, and a phrase
+    rendered in the passage as “Kabhry-Ors.iory and figures of speech.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list names emotional and social topics including the desolate
+    one, mutual love, a divorced wife, transitoriness of life, bereavement, death,
+    filial love, friendship, thanksgiving, and evil speech.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The contents list includes animal-labeled topics: the bird and the crocodile.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The contents list includes symbolic acts, the two kings, the heir to the throne,
+    and riddles and conundrums.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the two kings
+  description: Listed as a chapter-content topic; no actions or attributes are described
+    in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: the heir to the throne
+  description: Listed as a chapter-content topic; no actions or attributes are described
+    in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: listed royal topic figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage includes “The two kings” and “The heir to the throne” as chapter-content
+    topics, without narrative description.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bird
+  literal_form: The bird
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: crocodile
+  literal_form: The crocodile
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Chapter contents listing
+  summary: The passage presents the title and contents topics for a chapter on Malagasy
+    oratory, speech ornaments, symbolic actions, and conundrums.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom speech through proverbs, figures of speech, riddles, and conundrums
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly lists proverbs, figures of speech, riddles, and conundrums
+    as chapter topics under Malagasy oratory and ornaments of speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is a table-of-contents entry, not a mythic narrative or a
+    detailed example of wisdom speech.
+- id: motif:2
+  label: symbolic acts
+  taxonomy_refs: []
+  basis: The title includes symbolic actions and the contents list includes symbolic
+    acts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: No specific symbolic action is described in this passage.
+- id: motif:3
+  label: royal succession topic
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The contents list includes “The two kings” and “The heir to the throne.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only topic labels are present; the passage does not describe a succession
+    episode or royal-legitimating narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 213-217
+  quote_or_summary: "“CHAPTER X. / MALAGASY ORATORY, ORNAMENTS OF SPEECH, SYMBOLIC
+    ACTIONS / AND CONUNDRUMS”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Short excerpt; rights status not supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 219-222
+  quote_or_summary: The contents list begins with introductory historical sketch,
+    folklore, folktales, proverbs, “Kabhry-Ors.iory and figures of speech,” and several
+    social or emotional topics including mutual love, divorce, transitoriness of life,
+    bereavement, death, filial love, friendship, thanksgiving, and evil speech.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Summary based on supplied passage; rights status not supplied in request
+    metadata.
+- id: ev:3
+  type: quote
+  locator: line 221
+  quote_or_summary: "“The bird” and “The crocodile” are listed among the chapter topics."
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Short excerpt; rights status not supplied in request metadata.
+- id: ev:4
+  type: quote
+  locator: lines 223-224
+  quote_or_summary: "“Symbolic acts— The two kings— The heir to the throne— Riddles
+    and conundrums.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Short excerpt; rights status not supplied in request metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The title and listed topics are clear, but this is a contents entry with
+    OCR irregularities and no narrative details. Motif candidates are therefore tentative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external traditions, figures, or comparative claims were added beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-malagasy-project-gutenberg-madagascar-before-conquest-sibree-md__l211-l226
+  passage_sha256=b65cb435db6ef3653020691d1d7ed3829ce31ad750ba913340b5478beb822d8c
+

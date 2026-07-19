@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l26110-l26122
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OMENS. / BOPILY OMENS. / ANIMAL OMEN8. / OMENS FROM DREAM8.; lines 26110-26122
+  start: '26110'
+  end: '26122'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports beliefs about omens: some animals are considered to
+    bring better fortune than others; hawks are lucky; bears are less favorable because
+    they are slow, clumsy, and vulnerable to injury; and among some related tribes,
+    dreaming of the moon is regarded as a grave calamity. A note states that this
+    is also an Omaha belief.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some animals are described as being esteemed as bringing better fortunes than
+    others.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hawks are described as lucky.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bears are described as less favorable because the bear is slow and clumsy,
+    apt to be wounded, and less likely than some animals to escape harm.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Among some tribes in this family of Indians, dreaming of the moon is regarded
+    as a grave calamity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note states that the moon-dream belief is also an Omaha belief.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hawks
+  description: Animals described as lucky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bears
+  description: Animals described as not so good because they are slow, clumsy, apt
+    to be wounded, and not as likely as some animals to escape harm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Moon
+  description: Object of a dream regarded as a grave calamity among some tribes in
+    the described family of Indians.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: lucky animal omen
+  assigned_to:
+  - fig:1
+  basis: The passage states that hawks are lucky.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: less favorable animal omen
+  assigned_to:
+  - fig:2
+  basis: The passage states that bears are not so good and explains this by their
+    slowness, clumsiness, and vulnerability to harm.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: calamitous dream object
+  assigned_to:
+  - fig:3
+  basis: The passage states that dreaming of the moon is regarded as a grave calamity
+    among some tribes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hawk as lucky omen
+  literal_form: hawk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bear as unfavorable omen
+  literal_form: bear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: moon dream as calamity omen
+  literal_form: moon in a dream
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Classification of animal and dream omens
+  summary: The passage classifies hawks as lucky, bears as less favorable, and dreams
+    of the moon as a grave calamity in some tribal contexts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal omen of fortune
+  taxonomy_refs: []
+  basis: The passage explicitly says some animals are esteemed as bringing better
+    fortunes than others and gives hawks and bears as examples with contrasting fortunes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No matching supplied taxonomy family directly covers animal omens.
+- id: motif:2
+  label: dream omen of calamity
+  taxonomy_refs: []
+  basis: The passage reports that dreaming of the moon is regarded as a grave calamity
+    among some tribes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No matching supplied taxonomy family directly covers dream omens or lunar
+    omens.
+comparison_claims:
+- id: claim:1
+  claim: The passage notes that the belief about dreaming of the moon as a grave calamity
+    is also an Omaha belief.
+  claim_level: same_motif
+  target: Omaha belief concerning dreaming of the moon
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note is brief and does not provide details beyond identifying the
+    belief as also Omaha.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26112-26114
+  quote_or_summary: Some animals are esteemed as bringing better fortunes than others;
+    hawks are called lucky.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 26114-26116
+  quote_or_summary: Bears are described as less good omens because the bear is slow,
+    clumsy, apt to be wounded, and less likely than some animals to escape harm.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 26116-26118
+  quote_or_summary: Among some tribes in this family of Indians, dreaming of the moon
+    is regarded as a grave calamity.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request.
+- id: ev:4
+  type: quote
+  locator: line 26120
+  quote_or_summary: '"This is also an Omaha belief."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights metadata not supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about animal and dream omens, but the supplied taxonomy
+    has no direct omen category. The Omaha comparison is supported by a brief note
+    only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy references were applied because the available motif and symbol lists do not include direct categories for hawks, bears, moon dreams, or omens.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l26110-l26122
+  passage_sha256=c8de8103222576901a3ebc3008708ea15b083602aa1f86949b026247db3f3f18
+

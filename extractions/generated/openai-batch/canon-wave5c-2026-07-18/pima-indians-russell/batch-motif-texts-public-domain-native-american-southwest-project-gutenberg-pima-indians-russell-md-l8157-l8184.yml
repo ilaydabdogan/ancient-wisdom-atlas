@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l8157-l8184
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: RATTLES / MUSICAL INSTRUMENTS / KICKING-BALX. RACES / ATHLETIC SPORTS; lines
+    8157-8184
+  start: '8157'
+  end: '8184'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pima kicking balls used in athletic races, including
+    wooden and stone balls covered with black gum. Contestants kick the balls while
+    running, and the Pimas say runners can go faster with the balls. The author speculates
+    that stone balls found in ruins may have contributed to an idea that the balls
+    had magical power to carry runners along, because Hohokam-related things had acquired
+    supernatural significance. The passage also notes paired youths alternating kicks
+    over long distances and states that the custom is disappearing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kicking balls are described as made of mesquite or paloverde wood and sometimes
+    covered with black gum.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Stone balls about 6 cm in diameter are also used and covered with the same
+    black gum.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each contestant kicks one ball ahead while running, with little delay to forward
+    progress.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Pimas state that they can run faster with the balls than without them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author suggests that stone balls found in ruins may have led to the idea
+    that the balls had magical power to carry the runner along.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Things pertaining to the Hohokam are said to have gained supernatural significance.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Two youths sometimes run long distances together, alternately kicking the
+    ball so that it is almost constantly in the air.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The custom of using these balls is described as rapidly disappearing.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pima contestants or runners
+  description: People who run while kicking the balls ahead of them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: The Pimas
+  description: The people who declare that runners can run faster with the balls and
+    whose athletic custom is described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Hohokam
+  description: A group associated with ruins and objects that are said to have supernatural
+    significance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Two youths
+  description: A pair who sometimes run long distances together while alternately
+    kicking the ball.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: runner or contestant
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes contestants and youths running while kicking the balls.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: speakers about running faster with balls
+  assigned_to:
+  - fig:2
+  basis: The Pimas are reported as declaring that they can run faster with the balls
+    than without them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: associated ancestral or ancient group
+  assigned_to:
+  - fig:3
+  basis: The passage associates Hohokam-related things with supernatural significance
+    and mentions stone balls in ruins.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: kicking ball
+  literal_form: Wooden ball made of mesquite or paloverde, sometimes covered with
+    black gum.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: stone ball from ruins
+  literal_form: Stone ball about 6 cm in diameter, covered with black gum, associated
+    by the author with ruins.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: black gum covering
+  literal_form: Black gum used to cover some wooden and stone balls.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ruins
+  literal_form: Ruins where stone balls are said to occur.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Running while kicking balls
+  summary: Contestants kick balls ahead of themselves while running, with little delay,
+    and Pimas say the balls allow faster running.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Stone balls and supernatural significance
+  summary: The passage suggests that stone balls found in ruins may have encouraged
+    an idea that the balls had magical power to carry runners along, in the context
+    of Hohokam-related things having supernatural significance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Two youths alternate kicks over distance
+  summary: Two youths sometimes run long distances together, taking turns kicking
+    the ball so that it remains almost constantly in the air.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Disappearance of the athletic custom
+  summary: The custom of using the balls is described as rapidly disappearing, like
+    other Pima athletic games.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: magical object carries or speeds a runner
+  taxonomy_refs: []
+  basis: The passage reports an idea, attributed through the author's speculation,
+    that stone balls possessed magical power to carry the runner along.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The magical interpretation is presented as the author's speculation about
+    an idea, not as a narrated myth or directly quoted belief.
+- id: motif:2
+  label: athletic race with ritualized kicking object
+  taxonomy_refs: []
+  basis: Contestants and paired youths run while continually kicking balls ahead of
+    them over distance.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic description of an athletic custom rather than
+    a mythic narrative.
+- id: motif:3
+  label: ancient objects acquire supernatural significance
+  taxonomy_refs: []
+  basis: The passage states that things pertaining to the Hohokam have come to have
+    supernatural significance, and connects this to stone balls found in ruins.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a general statement but does not elaborate a specific
+    mythic account about the Hohokam objects.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8157-8164
+  quote_or_summary: The passage identifies kicking balls of mesquite or paloverde
+    wood, with some covered in black gum; stone balls about 6 cm in diameter are also
+    used and covered with the same black gum.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source rights metadata not supplied; passage is from the provided text
+    only.
+- id: ev:2
+  type: summary
+  locator: 8165-8171
+  quote_or_summary: Each contestant kicks one ball ahead while running; the runner's
+    progress is scarcely delayed, and the Pimas declare they can run faster with the
+    balls than without them.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source rights metadata not supplied; passage is from the provided text
+    only.
+- id: ev:3
+  type: summary
+  locator: 8171-8178
+  quote_or_summary: The author suggests that stone balls in ruins may have given rise
+    to the idea that they had magical power to carry the runner along, because things
+    pertaining to the Hohokam have acquired supernatural significance.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source rights metadata not supplied; passage is from the provided text
+    only.
+- id: ev:4
+  type: summary
+  locator: 8178-8182
+  quote_or_summary: Two youths sometimes run long distances together, first one and
+    then the other kicking the ball, so that it is almost constantly in the air.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source rights metadata not supplied; passage is from the provided text
+    only.
+- id: ev:5
+  type: summary
+  locator: 8182-8184
+  quote_or_summary: The passage states that the custom of using the balls is rapidly
+    disappearing, as are other athletic games of the Pimas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source rights metadata not supplied; passage is from the provided text
+    only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily ethnographic and only briefly mentions magical or supernatural
+    significance. No broader comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The provided passage contains OCR irregularities in figure captions and wording; extraction follows the supplied text without correction beyond neutral summarization.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l8157-l8184
+  passage_sha256=01edde287b8dd8720dffc308edd5c68c38c3104ff3e726ca92497099478fa761
+

@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l5430-l5470
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / DREAMS; lines 5430-5470
+  start: '5430'
+  end: '5470'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes reactions to dreams among the people observed by
+    the narrator: a group fears sleeping after a dream involving a ghost, an old man
+    uses a gourd and chant to scare the ghost away, and the narrator speculates on
+    mundane prompts for the dream. It then recounts a journey interrupted by flooding
+    and a feast visit, where one man refuses to go because a reported threat of murder
+    is believed on the basis of a dream.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group remains crowded together and afraid to sleep again after a dream associated
+    with a ghost.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old man uses a gourd and a chant in an attempt to scare off the ghost.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator proposes possible ordinary stimuli for the dream, including recent
+    memory of an aunt’s death, conversation near a fire, thirst, sounds of water,
+    or a request about water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The dreamer and the people with him believe the dream indicates that the ghost
+    was nearby.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator travels with seven men toward the Kyoinamyip clans, but flooding
+    at the River Verde makes progress difficult.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator plans to leave five men at the river and proceed with two men
+    to a village where a feast is being held.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One selected man refuses to go because others report that two men at the village
+    intend to kill him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: At the village, the narrator sees welcome and no clear sign of ill-will or
+    planned violence.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The reported threat against the man is later said to have been made on the
+    strength of a dream.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: dreaming man
+  description: A man whose dream is treated by himself and others as evidence that
+    a ghost is nearby.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: old man with gourd and chant
+  description: An old man who attempts to scare away the ghost using a gourd and chant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: ghost
+  description: A ghost believed by the people to have been in the vicinity because
+    of the dream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: narrator
+  description: The first-person observer who analyzes the dream and recounts the later
+    travel incident.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: travelling party
+  description: Seven men traveling with the narrator toward the Kyoinamyip clans.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: man who refuses to go
+  description: A selected member of the party who refuses to proceed to the village
+    because of a reported threat against him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: two men at the village
+  description: Two men at the village who are reported, on the strength of a dream,
+    to intend to kill the refusing man.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:8
+  name_or_label: village people
+  description: People at the feast village who welcome the narrator despite many being
+    intoxicated.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: dream witness
+  assigned_to:
+  - fig:1
+  basis: His dream is believed to indicate ghostly proximity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ritual ghost-averter
+  assigned_to:
+  - fig:2
+  basis: He uses gourd and chant to try to scare off the ghost.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: feared ghost-presence
+  assigned_to:
+  - fig:3
+  basis: The group fears the ghost and interprets the dream as proof of its vicinity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: observer and interpreter
+  assigned_to:
+  - fig:4
+  basis: He recounts events and offers possible explanations for the dream.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:5
+  label: travel companions
+  assigned_to:
+  - fig:5
+  basis: They accompany the narrator toward the Kyoinamyip clans and some remain at
+    the river.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: dream-warning avoider
+  assigned_to:
+  - fig:6
+  basis: He avoids going to the village because of a reported threat later attributed
+    to a dream.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:7
+  label: reported threateners
+  assigned_to:
+  - fig:7
+  basis: They are named as intending to kill the refusing man, though the narrator
+    sees no sign of this at the village.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:8
+  label: feast hosts
+  assigned_to:
+  - fig:8
+  basis: They welcome the narrator at the village feast.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: gourd
+  literal_form: gourd used with chant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: chant
+  literal_form: chant used to scare off a ghost
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: fire around which people may have been conversing
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: well water, water poured from a jar, and inquiry about available water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: swollen river and flooded country
+  literal_form: River Verde swollen and neighboring country flooded
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: dream
+  literal_form: dream treated as evidence of ghostly presence or threat
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+scenes:
+- id: scene:1
+  label: Ghost dream and protective chant
+  summary: After a dream associated with a ghost, people remain afraid to sleep, and
+    an old man attempts to scare away the ghost with a gourd and chant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Narrator’s naturalistic explanation of dream prompts
+  summary: The narrator suggests that the dream may have arisen from recent bereavement
+    memories, conversation near a fire, thirst, sounds of poured water, or speech
+    about water.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Flooded journey and route change
+  summary: The narrator and seven men are hindered by a swollen river and flooded
+    country, so the narrator changes plans and chooses men to visit a feast village.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dream-based warning of murder
+  summary: One selected man refuses to go to the village because of a report that
+    two men there intend to kill him; the report is later said to rest on a dream,
+    while the narrator sees no sign of hostility at the village.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: dream as evidence of ghostly presence
+  taxonomy_refs: []
+  basis: The passage says the dreamer and companions believe a ghost must have been
+    nearby because of the dream.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The larger dream narrative begins before the supplied excerpt, so the
+    full dream content is not available.
+- id: motif:2
+  label: ritual attempt to avert a ghost through object and chant
+  taxonomy_refs: []
+  basis: An old man uses a gourd and chant to try to scare off the ghost.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief description and no details of the chant
+    or ritual procedure.
+- id: motif:3
+  label: dream-based warning of danger
+  taxonomy_refs: []
+  basis: A man avoids going to a village because of a reported intention to kill him,
+    and the report is later said to be based on a dream.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The excerpt ends before the narrator’s further inquiry, so the later resolution
+    is unavailable.
+- id: motif:4
+  label: naturalistic explanation of visionary dream
+  taxonomy_refs: []
+  basis: The narrator proposes recent memory, overheard conversation, thirst, water
+    sounds, or speech about water as possible causes for the dream.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is the narrator’s interpretive explanation rather than a belief attributed
+    to the people in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5430-5432
+  quote_or_summary: People are crowded together and afraid to sleep again after a
+    dream involving fear of a ghost.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:2
+  type: quote
+  locator: lines 5432-5433
+  quote_or_summary: '"One of the old men, with gourd and chant, endeavoured to scare
+    off the ghost."'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Short excerpt from public-domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 5433-5442
+  quote_or_summary: The narrator suggests the dream may have been prompted by memory
+    of the man’s aunt’s death, companions talking near a fire, thirst, water being
+    poured from a jar, or someone asking about water.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:4
+  type: summary
+  locator: lines 5442-5446
+  quote_or_summary: The man and all the people with him believe that the ghost must
+    have been nearby, otherwise he would not have dreamed of it.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:5
+  type: summary
+  locator: lines 5448-5454
+  quote_or_summary: The narrator travels with seven men toward the Kyoinamyip clans,
+    reaches the swollen River Verde, and finds the surrounding country flooded and
+    difficult to cross.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:6
+  type: summary
+  locator: lines 5454-5458
+  quote_or_summary: The narrator decides to visit a large village holding a feast,
+    leaving five men at the river and proceeding with two others.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:7
+  type: summary
+  locator: lines 5458-5463
+  quote_or_summary: One selected man refuses to go; the others say two men at the
+    village intend to kill him, making it unsafe for him to proceed.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:8
+  type: summary
+  locator: lines 5463-5468
+  quote_or_summary: At the village, people welcome the narrator, and he sees no sign
+    of ill-will or planned violence after mentioning the men left behind.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source provided as public-domain Project Gutenberg text in request
+    metadata path.
+- id: ev:9
+  type: quote
+  locator: lines 5469-5470
+  quote_or_summary: '"Some days later I learnt that the statement had been made to
+    me on the strength of a dream"'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Short excerpt from public-domain Project Gutenberg text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the excerpt beginning and ending mid-context.
+    Motif candidates are based only on the described dream beliefs and actions; no
+    external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy motif family was assigned because the available list does not include a direct dream-omen or ghost-aversion category.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l5430-l5470
+  passage_sha256=6e33de3cd906795d2d5e44e03cbfec24370f86b08492a5a16237a0246c299dbf
+

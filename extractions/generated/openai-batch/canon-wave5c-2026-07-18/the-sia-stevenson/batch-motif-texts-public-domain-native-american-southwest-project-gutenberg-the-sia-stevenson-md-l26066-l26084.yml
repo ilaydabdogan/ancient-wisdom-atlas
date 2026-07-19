@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l26066-l26084
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OBDEALS OB MODES OF SWEABING. / SOECEBY AND JUGGLERY. / OMENS. / BOPILY OMENS.;
+    lines 26066-26084
+  start: '26066'
+  end: '26084'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists bodily omens: ringing ears indicate an arriving person
+    without family or news; involuntary twitching predicts weeping, injury, anger,
+    or striking; a mother''s painful breasts signal a distant son''s sickness or death;
+    and sneezing once or twice indicates that relatives or close companions have named
+    the sneezer.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ringing in one ear is said to signify either that someone will come without
+    his family and must be entertained, or that news will be heard.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ear affected indicates the direction from which the person or news will
+    come.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An involuntary eye twitch is said to mean that someone will weep.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An involuntary twitch in another part of the body is said to mean that the
+    person will be hit, stabbed, or shot in that place.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Frequent twitching of the palm is said to mean that the person will soon strike
+    someone or become angry.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Painful breasts in a woman are said to occur when her son is sick somewhere
+    or has been killed on the way home.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sneezing once is said to mean that the sneezer has been named by a special
+    friend, fellow, son, or wife, and the sneezer calls out to his son.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sneezing twice is followed by the exclamation naming the son and his mother.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: person with ringing ear
+  description: A person whose ringing ear is treated as an omen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: person or news from a direction
+  description: A coming person without his family, or news, whose direction is indicated
+    by the affected ear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: person with twitching body part
+  description: A person whose eye, body part, or palm twitches involuntarily.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: woman with painful breasts
+  description: A woman whose painful breasts are linked to her son's sickness or death.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: son
+  description: The woman's son, described as sick somewhere or killed on the way home;
+    also named in the sneezer's exclamations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: sneezer
+  description: A person who sneezes once or twice and responds with an exclamation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: special friend, fellow, or wife
+  description: Close associates or kin said to have named the person who sneezes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: omen receiver
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: These figures experience bodily sensations or actions treated as omens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: foretold arrival or news
+  assigned_to:
+  - fig:2
+  basis: The ringing ear signifies either a coming person or news, with direction
+    shown by the affected ear.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mother
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the woman with painful breasts as a woman who has
+    a son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: absent son
+  assigned_to:
+  - fig:5
+  basis: The son is described as sick somewhere or killed on the way home, and is
+    named in the sneezer's words.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: namer of sneezer
+  assigned_to:
+  - fig:7
+  basis: The sneeze is explained as occurring because a special friend, fellow, son,
+    or wife has named the sneezer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ringing ear
+  literal_form: one ear ringing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: affected ear as directional sign
+  literal_form: the ear that is affected
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: twitching eye
+  literal_form: involuntary eye twitch
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: twitching body part
+  literal_form: involuntary twitch in any other part of the body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: twitching palm
+  literal_form: palm of the hand twitching often
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: painful breasts
+  literal_form: woman's breasts are often very painful
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: single sneeze
+  literal_form: sneezing once
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: double sneeze
+  literal_form: sneezing twice
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: ringing ear omen
+  summary: A ringing ear indicates either an arriving person without family who must
+    be entertained or coming news, and the affected ear indicates the direction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: twitching omens
+  summary: Different involuntary twitches are linked to weeping, bodily injury at
+    the twitching place, striking someone, or anger.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: mother's painful breasts
+  summary: A woman's painful breasts are linked to her son's sickness elsewhere or
+    death while returning home.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: sneeze and naming
+  summary: A single or double sneeze is explained as caused by relatives or close
+    associates naming the sneezer, who responds with set exclamations.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: bodily sensations as omens
+  taxonomy_refs: []
+  basis: The passage treats ringing ears, twitching body parts, painful breasts, and
+    sneezes as signs of events or relationships beyond the immediate bodily action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No matching supplied taxonomy motif family directly covers bodily omens.
+- id: motif:2
+  label: body part indicates corresponding future event
+  taxonomy_refs: []
+  basis: The affected ear indicates a direction, and a twitching body part indicates
+    where the person will be struck, stabbed, or shot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a localized pattern within the omen list rather than a separately
+    named motif.
+- id: motif:3
+  label: maternal body as sign of absent child's condition
+  taxonomy_refs: []
+  basis: A woman's painful breasts are linked to a son's sickness elsewhere or death
+    on the way home.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only one example and does not elaborate a broader motif.
+- id: motif:4
+  label: sneeze as sign of being named by kin or companion
+  taxonomy_refs: []
+  basis: Sneezing once or twice is said to indicate that a special friend, fellow,
+    son, or wife has named the sneezer, followed by formulaic speech.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy motif family directly corresponds to sneeze omens.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26066-26072
+  quote_or_summary: Under bodily omens, ringing in one ear signifies that someone
+    will come without family and must be entertained, or that news will be heard;
+    the affected ear shows the direction.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 26073-26078
+  quote_or_summary: Involuntary eye twitching means someone will weep; twitching elsewhere
+    means the person will be hit, stabbed, or shot there; frequent palm twitching
+    means the person will strike someone or become angry.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 26078-26080
+  quote_or_summary: A woman's painful breasts are linked to her son being sick somewhere
+    or having been killed on the way home.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 26081-26084
+  quote_or_summary: Sneezing once means a special friend, fellow, son, or wife has
+    named the sneezer, who calls out to his son; sneezing twice prompts an exclamation
+    naming the son and his mother.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a direct list of bodily omens, so literal extraction is strong.
+    Motif labels are descriptive because no supplied taxonomy family directly matches
+    omen interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide cross-textual or cross-tradition comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l26066-l26084
+  passage_sha256=9737a9ba96b275611af94ace9031da46ffb53b848982b3df594c2dec253c41d1
+

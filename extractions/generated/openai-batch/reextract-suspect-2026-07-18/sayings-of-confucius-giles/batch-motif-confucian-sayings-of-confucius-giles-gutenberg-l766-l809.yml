@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l766-l809
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: CONTENTS / EDITORIAL NOTE / INTRODUCTION / LIST OF THE PRINCIPAL DISCIPLES;
+    lines 766-809
+  start: '766'
+  end: '809'
+  translation: sayings-of-confucius-giles
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: The excerpt contains two editorial cross-references, followed by an editorial
+    note headed as a list of principal disciples. The editor explains that names in
+    the Analects may appear in several forms, contrasts Mr. Ku's use of periphrasis,
+    and provides a table of disciples' surname/personal names, styles, and mixed appellations.
+    An asterisk marks the name most frequently used.
+  language: English with romanized Chinese names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two editorial notes refer the reader to page 118 and to a note on page 60.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The section is headed as a list of principal disciples.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor states that the same person in the Analects may be referred to
+    by surname and personal name, by style, by a combination of the two, or by personal
+    name among intimates.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mr. Ku is said to have eliminated almost all proper names from his translation
+    and used periphrasis instead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor says he chose to give the principal disciples' names as they appear
+    in the Chinese and to provide a table of appellations.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An asterisk is used to mark the name most frequently used.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The table is organized by surname and personal name, style, and mixed appellation.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The table lists multiple appellations for the named principal disciples.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mr. Ku
+  description: A translator mentioned as having eliminated almost all proper names
+    from his translation and used periphrasis instead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: editor/translator of this edition
+  description: The first-person editor who says he preserves the Chinese names of
+    the principal disciples and supplies a table of appellations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: principal disciples named in the table
+  description: A collective group of disciples whose names and appellations are listed
+    in the table, including entries such as Yen Hui, Min Sun, Jan Kng, Jan Yung, Jan
+    Chiu, Chung Yu, Tsai Y, Tuan-mu Tz, Yen Yen, Pu Shang, Chuan-sun Shih, Tsng Shn,
+    Fan Hs, Ss-ma Kng, Kung-hsi Chih, and Yu Jo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: subjects of appellation table
+  assigned_to:
+  - fig:3
+  basis: The heading identifies the section as a list of principal disciples, and
+    the table gives their names and appellations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: translator using periphrasis
+  assigned_to:
+  - fig:1
+  basis: The editorial note says Mr. Ku eliminated almost all proper names from his
+    translation, using periphrasis instead.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: editor preserving names and supplying reference table
+  assigned_to:
+  - fig:2
+  basis: The editor states that he judged it better to give the names as they appear
+    in Chinese and provide a table for reference.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: asterisk marking frequent appellation
+  literal_form: "*"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Editorial explanation of naming conventions
+  summary: The editor explains that proper names in the Analects can appear in multiple
+    forms, mentions Mr. Ku's alternate translation method, and states his own decision
+    to preserve the names and provide a reference table.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Table of disciple appellations
+  summary: A table presents principal disciples by surname and personal name, style,
+    and mixed appellation, with an asterisk marking the most frequently used name.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 766-768
+  quote_or_summary: "[2] See p. 118; [3] See note on p. 60."
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Passage supplied in request; rights metadata not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 771-784
+  quote_or_summary: Under the heading LIST OF THE PRINCIPAL DISCIPLES, the editor
+    explains difficulties caused by multiple appellations in the Analects, contrasts
+    Mr. Ku's periphrastic approach, and says this edition keeps the Chinese names
+    and gives a reference table.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Passage supplied in request; rights metadata not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 786-809
+  quote_or_summary: A three-column table gives surname/personal name, style, and mixed
+    appellation for the named disciples.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Passage supplied in request; rights metadata not supplied.
+- id: ev:4
+  type: quote
+  locator: lines 783-784
+  quote_or_summary: '"An asterisk denotes the name most frequently used."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Passage supplied in request; rights metadata not supplied.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is editorial and tabular rather than narrative or mythic. No
+    supported mythological motif candidates or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol was assigned because the passage does not support a mythological motif or listed symbolic object.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l766-l809
+  passage_sha256=fae8e73b7fb5a6e7f9fd2031ae9a98e801d7f0856909c568754365357269827e
+

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l10712-l10775
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OUTDOOR LIFE. / OUTDOOR LIFE. 203 / TURKEB.1 OUTDOOR LIFE. 205 / TATTOOING.;
+    lines 10712-10775
+  start: '10712'
+  end: '10775'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes waterproof hand coverings and rain garments used
+    by men in wet or cold conditions, including black sealskin mittens or gauntlets
+    for seal hunting and a hooded frock made from seal intestines. It also describes
+    preparation of the seal intestines by washing, scraping, inflating, drying, flattening,
+    rolling, splitting, trimming, and sewing into garment parts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Black sealskin mittens are described as worn by men in damp weather or when
+    handling objects that would soil furred mittens.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states that this kind of hand covering appears to be worn exclusively
+    by men and that they have never seen a woman wear it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men who engage in late fall seal hunting protect their hands with waterproof
+    gauntlets reaching well up over the forearm.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gauntlets keep hands from being wet by spray and by drip from the paddle.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One long mitten is described as made of black tanned sealskin and edged with
+    hairy sealskin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The mitten construction is described in parts: a back or upper piece, a palm
+    piece, thumb portions, an underside forearm portion, and a hairy-skin edging.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The waterproof mittens are worn only by men and only when hands would be immersed
+    in water during cold-weather work.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The skin used for these mittens is the same as that used for watertight boots,
+    preventing moisture from reaching the skin of the hand.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: For protection from rain and wet, people wear a waterproof hooded frock over
+    other clothes.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The waterproof hooded frock is made of seal entrails, preferably intestines
+    of the bearded seal.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Intestines of animals killed in October are considered best for making the
+    frock because they are less fat and require less dressing.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The intestine preparation process includes removing contents, washing with
+    water, scraping away fat and fleshy matter, inflating with air, drying on rocks,
+    flattening, rolling, and storing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: 'When needed, the prepared intestine is split lengthwise, spread open, trimmed
+    to uniform width, and sewn into three garment pieces: body and hood as one piece,
+    and two sleeves.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Men are described as the wearers of the black sealskin hand coverings
+    and waterproof mittens or gauntlets.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: women
+  description: Women are mentioned only in the statement that the narrator has not
+    seen a woman wear this kind of hand covering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: late fall seal hunters
+  description: Men engaged in late fall seal hunting are described as using waterproof
+    gauntlets reaching over the forearm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: bearded seal
+  description: The bearded seal is named as the preferred source of intestines for
+    the waterproof hooded frock.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: exclusive male wearer of black sealskin hand covering
+  assigned_to:
+  - fig:1
+  basis: The passage says the covering appears to be worn exclusively by men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cold-weather wet-work or seal-hunting user
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Men, especially those engaged in late fall seal hunting or work where hands
+    are immersed in water, use waterproof gauntlets or mittens.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: non-wearer in narrator observation
+  assigned_to:
+  - fig:2
+  basis: The narrator says they have never seen a woman wear this kind of hand covering.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: animal material source
+  assigned_to:
+  - fig:4
+  basis: The frock is made from seal entrails, preferably intestines of the bearded
+    seal.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water and wetness
+  literal_form: rain, spray, paddle drip, water, and cold-weather immersion
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: waterproof hand covering
+  literal_form: black sealskin mittens or gauntlets reaching over the forearm
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: waterproof hooded frock
+  literal_form: hooded frock made of seal entrails or bearded seal intestines
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: seal-derived waterproof material
+  literal_form: black tanned sealskin, hairy sealskin, and seal intestines
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Use of black sealskin hand coverings
+  summary: Men wear black sealskin mittens or hand coverings in damp weather or when
+    handling objects that would soil furred mittens; the narrator distinguishes this
+    from women’s usage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Late fall seal-hunting hand protection
+  summary: Men engaged in late fall seal hunting wear waterproof gauntlets reaching
+    above the forearm to prevent spray and paddle drip from wetting their hands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Construction and function of long sealskin mitten
+  summary: A long mitten is described as made from a small number of sealskin pieces
+    and designed to keep moisture from reaching the hand during cold-weather wet work.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Preparation of seal-intestine waterproof frock
+  summary: Seal intestines, preferably from bearded seals and especially October-killed
+    animals, are cleaned, dried, stored, later split and trimmed, and sewn into a
+    waterproof hooded frock with sleeves.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10712-10720
+  quote_or_summary: Black sealskin mittens are said to be worn by men in damp weather
+    or when handling objects that would soil furred mittens; the narrator has not
+    seen women wear them and says they appear exclusively male.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10721-10729
+  quote_or_summary: Men engaged in late fall seal hunting use waterproof gauntlets
+    extending over the forearm to keep hands dry from spray and paddle drip.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10730-10749
+  quote_or_summary: A long mitten is described as black tanned sealskin with hairy
+    sealskin edging and as constructed from several shaped skin pieces forming the
+    back, palm, thumb, and forearm portions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 10750-10757
+  quote_or_summary: The mittens are worn only by men during cold-weather work where
+    hands would be in water; their material is like that used for watertight boots
+    and prevents moisture from touching the hand.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 10758-10765
+  quote_or_summary: A waterproof hooded frock worn over other clothing for rain and
+    wet is made of seal entrails, preferably bearded seal intestines; October-killed
+    animals are considered best because the intestines are less fat and need less
+    cleaning.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 10766-10770
+  quote_or_summary: The intestines are emptied, washed with water, scraped clean,
+    inflated with air, dried along rocks, flattened, rolled into bundles, and stored.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 10771-10775
+  quote_or_summary: 'When needed, the intestine is split lengthwise, opened to strips
+    of variable width, trimmed, and made into three garment pieces: body and hood
+    together, and two sleeves.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and material-culture focused rather than mythological.
+    OCR corruption and the excerpt’s abrupt ending reduce confidence for fine construction
+    details, but the main observations are clear. No candidate myth motifs or comparison
+    claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparative mythology motif is extracted because the passage describes outdoor clothing, waterproof materials, and garment preparation rather than narrative, ritual, or mythic patterning.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l10712-l10775
+  passage_sha256=8429ce899077367e50c9455be22b497bfd748b46833fec75dc6c50368c78325c
+

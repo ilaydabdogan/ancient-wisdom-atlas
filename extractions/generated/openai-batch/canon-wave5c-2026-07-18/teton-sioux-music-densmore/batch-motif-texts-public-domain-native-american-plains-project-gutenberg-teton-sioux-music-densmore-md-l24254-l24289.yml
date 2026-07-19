@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l24254-l24289
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: CROW-BKIN  NECKLACE  AND  CASE / BUBEAU   OF  AMERICAN  ETHNOLOGY / STRONQ  HEART  SOCIETY  RATTLE
+    / BAPOEB   SOCIETT; lines 24254-24289
+  start: '24254'
+  end: '24289'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies the Badger Society as the fourth Aki'cita society,
+    notes references to it among several Indigenous groups in cited scholarship, says
+    it had become extinct about 20 years earlier, and introduces an analyzed song
+    of the Badger Society sung by Gray Hawk, including tonal, interval, rhythm, and
+    drum accompaniment observations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the Badger Society as the fourth Aki'cita society according
+    to Wissler.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Badger Society is reported in the passage as noted among the Oglala Sioux,
+    the eastern Dakota, and the Mandan by cited scholars.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage says the Badger Society had become extinct about 20 years before
+    the account.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two songs of the Badger Society were recorded at Standing Rock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Song No. 120 is labeled as a Song of the Badger Society and is marked as sung
+    by Gray Hawk.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The analysis states that the song is minor in tonality and contains the tones
+    of the second five-toned scale.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The analysis states that a minor third occurs frequently and constitutes 40
+    percent of the intervals.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The analysis states that the rhythmic form is good, the rhythmic unit is short
+    and interesting, and the drum was slightly behind the voice in all renditions.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Badger Society
+  description: The fourth Aki'cita society, said to have become extinct about 20 years
+    earlier; two songs of this society were recorded at Standing Rock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Gray Hawk
+  description: Named singer of Song No. 120, a Song of the Badger Society.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Wissler
+  description: Cited authority for identifying the Badger Society as the fourth Aki'cita
+    society and for noting it among the Oglala Sioux.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Lowie
+  description: Cited authority for noting the society among the eastern Dakota and
+    the Mandan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named Aki'cita society
+  assigned_to:
+  - fig:1
+  basis: The passage calls the Badger Society the fourth Aki'cita society.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: singer
+  assigned_to:
+  - fig:2
+  basis: The passage states that Song No. 120 was sung by Gray Hawk.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: cited scholarly source
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names Wissler and Lowie in connection with documentation of the
+    society among named groups.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: badger name
+  literal_form: The society is named Badger Society.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drum accompaniment
+  literal_form: A drum accompanying the song, described as slightly behind the voice
+    in all renditions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: society song
+  literal_form: Song No. 120, labeled as a Song of the Badger Society.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Identification of the Badger Society
+  summary: The passage identifies the Badger Society as the fourth Aki'cita society,
+    notes its documentation among named groups, and states that it had become extinct
+    about 20 years earlier.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Badger Society song and musical analysis
+  summary: The passage introduces Song No. 120 as a Badger Society song sung by Gray
+    Hawk and analyzes its tonality, scale, intervals, rhythm, and drum-voice relation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ceremonial society song
+  taxonomy_refs: []
+  basis: The passage presents a named society and a song belonging to that society,
+    with a named singer and musical analysis.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage is ethnomusicological rather than mythic or narrative; no
+    myth episode, deity, supernatural being, or ritual meaning is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24254-24259
+  quote_or_summary: The passage states that the fourth Aki'cita society, according
+    to Wissler, was the Badger Society.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:2
+  type: summary
+  locator: lines 24258-24261
+  quote_or_summary: The passage says Wissler noted the society among the Oglala Sioux,
+    while Lowie noted it among the eastern Dakota and the Mandan.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:3
+  type: summary
+  locator: lines 24261-24263
+  quote_or_summary: The passage says the society had become extinct about 20 years
+    earlier and that two of its songs were recorded at Standing Rock.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:4
+  type: summary
+  locator: lines 24265-24269
+  quote_or_summary: The passage labels No. 120 as Song of the Badger Society and states
+    that it was sung by Gray Hawk.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:5
+  type: summary
+  locator: lines 24272-24275
+  quote_or_summary: The analysis says the song is minor in tonality and contains the
+    tones of the second five-toned scale.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:6
+  type: summary
+  locator: lines 24275-24279
+  quote_or_summary: The analysis says C natural and C sharp are clearly distinguished
+    and that the minor third occurs frequently, making up 40 percent of the intervals.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+- id: ev:7
+  type: summary
+  locator: lines 24279-24282
+  quote_or_summary: The analysis describes the rhythmic form as good, the rhythmic
+    unit as short and interesting, and the drum as slightly behind the voice in all
+    renditions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status not supplied; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage contains ethnomusicological
+    description rather than mythic narrative. Motif identification is therefore limited
+    to a broad society-song pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference from the provided lists is directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l24254-l24289
+  passage_sha256=d02a340255faed384edf14949b8e9be35b3d5ad293ea67d5f5c8036d6e7d4621
+

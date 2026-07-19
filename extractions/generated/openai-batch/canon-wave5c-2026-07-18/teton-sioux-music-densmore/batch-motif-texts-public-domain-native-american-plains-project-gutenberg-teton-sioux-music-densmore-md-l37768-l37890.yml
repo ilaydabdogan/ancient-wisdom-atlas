@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l37768-l37890
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TETON   SIOUX  MTJSIO / BUBEAU  OF  AMEBIGAN   ETHNOLOGY / WOROS / PLOTS   OF   SONGS   OF   SADNESS;
+    lines 37768-37890
+  start: '37768'
+  end: '37890'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: songs which begin with a large ascending interval are songs ... associated
+    with sadness
+  summary: The passage is a musicological analysis of a class of songs whose melodic
+    plots begin with an ascending relation between the first two accented tones. The
+    author associates this pattern with song titles or contents involving sadness,
+    disappointment, suffering, slain warriors, a ghost, and a buffalo episode involving
+    painful wind. The passage also lists miscellaneous modern, social, game, children's,
+    legend-connected, love, and Sisseton-recorded songs in the analysis group.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Only 13 of the 240 songs under observation contain an ascending relation between
+    the first two accented tones.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Songs beginning with a large ascending interval are described as having an
+    idea associated with sadness, disappointment, or suffering, and this plot type
+    is designated Class E.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The plots of songs Nos. 238 and 239 are said to resemble each other; both
+    are Sisseton songs, with one associated with a tragic incident and the other expressing
+    dissatisfaction.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Song No. 99 is said to concern the driving of buffalo against wind that cut
+    their faces like a lance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Songs Nos. 147 and 148 concern slain warriors; Song No. 149 begins with an
+    ascending fifth and is described as similar in content to them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Song No. 219 is identified as a song of a ghost and as distinctly a song of
+    sadness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The final analysis group includes incidental Sun-dance songs, social dance
+    songs, begging songs, game songs, children's play songs, legend-connected songs,
+    songs in honor of the writer, modern love songs, and miscellaneous Sisseton-recorded
+    songs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: buffalo
+  description: Buffalo are described as being driven against wind that cut their faces
+    like a lance in the content of Song No. 99.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: slain warriors
+  description: Songs Nos. 147 and 148 are described as songs concerning slain warriors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: ghost
+  description: Song No. 219 is identified as a song of a ghost and a song of sadness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: injured animal group in song content
+  assigned_to:
+  - fig:1
+  basis: The buffalo are driven against wind that cuts their faces.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: slain subjects of songs
+  assigned_to:
+  - fig:2
+  basis: The passage states that two songs concern slain warriors.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ghost as song subject
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Song No. 219 as a song of a ghost.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ascending melodic plot
+  literal_form: large ascending interval or ascending relation between the first two
+    accented tones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cutting wind
+  literal_form: wind that cut buffalo faces like a lance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Class E song-plot classification
+  summary: The author identifies a small set of songs with ascending melodic openings
+    and connects the pattern with sadness, disappointment, or suffering.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Buffalo driven against cutting wind
+  summary: A referenced song concerns buffalo being driven against wind that cuts
+    their faces like a lance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Songs concerning slain warriors
+  summary: Several songs are grouped by content concerning slain warriors and by ascending
+    melodic features.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ghost song of sadness
+  summary: A song of a ghost is included among songs with ascending relations and
+    is explicitly described as a song of sadness.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: melodic ascent associated with sadness or suffering
+  taxonomy_refs: []
+  basis: The passage explicitly connects songs beginning with a large ascending interval
+    to sadness, disappointment, or suffering and designates them Class E.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a musicological pattern, not necessarily the mythic ascent motif
+    in the supplied taxonomy.
+- id: motif:2
+  label: slain warriors as sorrowful song subjects
+  taxonomy_refs: []
+  basis: Songs Nos. 147 and 148 are described as concerning slain warriors and are
+    discussed in the same analytical context of songs of sadness.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief content label, not a narrative episode.
+- id: motif:3
+  label: ghost song of sadness
+  taxonomy_refs: []
+  basis: Song No. 219 is identified as a song of a ghost and distinctly as a song
+    of sadness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No further narrative details about the ghost are supplied.
+- id: motif:4
+  label: injuring natural force against buffalo
+  taxonomy_refs: []
+  basis: Song No. 99 is summarized as buffalo being driven against wind that cut their
+    faces like a lance.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage provides only a short paraphrase of song content; the image
+    may be descriptive rather than a recurring motif.
+comparison_claims:
+- id: claim:1
+  claim: Within the analyzed corpus, the plots of songs Nos. 238 and 239 are said
+    to resemble each other, and Song No. 99 is described as similar to them.
+  claim_level: visual_similarity
+  target: song plots Nos. 238, 239, and 99 in the analyzed song corpus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the author's statement about melodic plots
+    and brief content summaries; it does not establish historical relationship or
+    shared mythic narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 37768-37780
+  quote_or_summary: Only 13 of 240 songs have an ascending relation between the first
+    two accented tones; songs beginning with a large ascending interval are associated
+    with sadness, disappointment, or suffering and designated Class E.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 37780-37786
+  quote_or_summary: Songs Nos. 238 and 239 are Sisseton songs whose plots resemble
+    each other; one is linked to a tragic incident and one to dissatisfaction. Song
+    No. 99 is described as similar and concerns buffalo driven against cutting wind.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 37787-37794
+  quote_or_summary: Songs Nos. 147 and 148 concern slain warriors; Song No. 149 begins
+    with an ascending fifth and is similar in content.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 37794-37804
+  quote_or_summary: The passage lists other songs with ascending relations, including
+    Song No. 219, a song of a ghost, and states that the last-named is distinctly
+    a song of sadness.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: lines 37804-37823
+  quote_or_summary: The final analysis group includes incidental Sun-dance songs,
+    social dance songs, begging songs, game songs, children's play songs, legend-connected
+    songs, songs honoring the writer, modern love songs, and miscellaneous Sisseton-recorded
+    songs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily analytical and musicological, with only brief references
+    to song content. OCR noise and lack of full song texts limit motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family was assigned; the available 'ascent' family was not used because the passage concerns melodic ascent rather than a mythic ascent episode.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l37768-l37890
+  passage_sha256=5e86784a7b3a21f8a67f567fc55c42139780999e027f41ae9c2610ef5a3fc8aa
+

@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2075-l2109
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: AULLAVAGGA, / JTU LLAVAGGA. / TV, 14, 18. THE SETTLEMENT OF DISPUTES. / TV,
+    14, 18.; lines 2075-2109
+  start: '2075'
+  end: '2109'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural instructions for resident Bhikkhus receiving
+    incoming Bhikkhus with a legal question. The residents address the incoming group
+    according to relative seniority, take counsel, decide whether they can settle
+    the question according to the Dhamma, Vinaya, and the teaching of the Master,
+    and accept the matter only if the incoming Bhikkhus disclose its origin and course
+    and agree to the proposed mode of settlement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Resident Bhikkhus are instructed to address incoming Bhikkhus differently
+    depending on whether the residents or the incoming Bhikkhus are senior.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The resident Bhikkhus are told to pause and take counsel together before proceeding.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the resident Bhikkhus think they cannot settle the legal question according
+    to the Dhamma, the Vinaya, and the teaching of the Master, the dispute is not
+    to be entrusted to them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the resident Bhikkhus think they can settle the legal question according
+    to those standards, they ask the incoming Bhikkhus to explain how the question
+    arose and how it was carried on.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Acceptance of the legal question is made conditional on the incoming Bhikkhus
+    agreeing that it will be settled in the manner determined by the resident Bhikkhus
+    according to the stated standards.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus dwelling in that residence
+  description: The resident Bhikkhus who address the incoming Bhikkhus, take counsel,
+    assess whether they can settle the legal question, and decide whether to accept
+    it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Incoming Bhikkhus
+  description: The arriving Bhikkhus whose relative seniority affects how they are
+    addressed and who may present a legal question to the resident Bhikkhus.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: The Master
+  description: The figure whose teaching is named as one of the standards for settling
+    the legal question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: resident adjudicating group
+  assigned_to:
+  - fig:1
+  basis: The resident Bhikkhus are directed to determine whether they can settle the
+    legal question and whether to accept it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: incoming presenting group
+  assigned_to:
+  - fig:2
+  basis: The incoming Bhikkhus are asked to wait, then to disclose how the legal question
+    arose and was carried on.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: seniority-marked monastic participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The procedure distinguishes between resident and incoming Bhikkhus according
+    to whether each group is senior or junior.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: authoritative source of teaching
+  assigned_to:
+  - fig:3
+  basis: Settlement is to be in accordance with the teaching of the Master, alongside
+    the Dhamma and Vinaya.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Seniority-based reception and pause for counsel
+  summary: Resident Bhikkhus address incoming Bhikkhus according to relative seniority
+    and ask them to wait while the residents take counsel together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Assessment of capacity to settle the legal question
+  summary: The resident Bhikkhus consider whether they can settle the legal question
+    according to the Dhamma, Vinaya, and the teaching of the Master; if not, the dispute
+    is not entrusted to them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Conditional acceptance of the dispute
+  summary: If the residents think they can settle the matter, they require the incoming
+    Bhikkhus to explain the case and agree to settlement according to the stated standards
+    before accepting the legal question.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Deliberation before adjudication
+  taxonomy_refs: []
+  basis: The resident Bhikkhus require a pause in order to take counsel before deciding
+    how to proceed with the incoming legal question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a procedural legal-religious pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: Authority-bound dispute settlement
+  taxonomy_refs: []
+  basis: The legal question is to be settled only according to the Dhamma, the Vinaya,
+    and the teaching of the Master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy motif family is directly required by the passage.
+- id: motif:3
+  label: Conditional acceptance of a contested matter
+  taxonomy_refs: []
+  basis: The residents accept the legal question only if the incoming Bhikkhus disclose
+    its origin and course and agree in advance to the mode of settlement.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Extracted as a governance pattern; not evidence of a comparative mythological
+    motif by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2075-2087
+  quote_or_summary: Resident Bhikkhus are told to address incoming Bhikkhus according
+    to which group is senior and to ask them to wait while counsel is taken.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; supplied
+    rights metadata is null.
+- id: ev:2
+  type: summary
+  locator: lines 2088-2098
+  quote_or_summary: The resident Bhikkhus consider whether they can settle the legal
+    question according to the Dhamma, Vinaya, and the teaching of the Master; if they
+    cannot, the dispute is not entrusted to them.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; supplied
+    rights metadata is null.
+- id: ev:3
+  type: summary
+  locator: lines 2099-2109
+  quote_or_summary: If the residents can settle the matter, they ask the incoming
+    Bhikkhus to explain how it arose and proceeded and to agree to settlement according
+    to the stated standards before acceptance.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path indicates public-domain Project Gutenberg material; supplied
+    rights metadata is null.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as a procedural Vinaya instruction. Motif candidates
+    are governance or adjudication patterns, not strongly mythological. No comparison
+    claims are made because the passage itself supplies no comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy entries are directly present in the passage; comparison claims were left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2075-l2109
+  passage_sha256=0d2da5cc754643a317d9732198ac4074de91c435bfe3da17decccd042e9c5ea0
+

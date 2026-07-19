@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l12648-l12663
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: A BLUBBER LAMP / AVIAJA AND HIS FAMILY / OLD HUNTER, WEST GREENLAND / WHEN
+    RAVENS COULD TALK; lines 12648-12663
+  start: '12648'
+  end: '12663'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that ravens once could talk, but their words meant the
+    opposite of what they intended. Because this made them full of lies, an old man
+    conjured away their speech, leaving ravens able only to croak while retaining
+    an irascible, lying, thieving nature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In very old days, ravens could talk.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Ravens' words had the opposite meaning from what they intended.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: When ravens wanted to express thanks, they abused instead.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ravens' opposite-speaking made them full of lies.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An old man conjured the ravens' gift of speech away from them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the loss of speech, ravens can only croak.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ravens retained their old nature and are described as irascible, lying, and
+    thieving at the present day.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ravens
+  description: Ravens are described as former talkers whose words meant the opposite
+    of their intentions; after an old man removed their speech, they now croak and
+    retain an irascible, lying, thieving nature.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: old man
+  description: An old man who conjured the ravens' gift of speech away from them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: former speaking animals with reversed meanings
+  assigned_to:
+  - fig:1
+  basis: The passage says ravens once could talk, but their words had exactly opposite
+    meaning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: present-day croaking and deceptive animals
+  assigned_to:
+  - fig:1
+  basis: After speech is removed, ravens can only croak and are described as irascible,
+    lying, and thieving.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: conjurer who removes speech
+  assigned_to:
+  - fig:2
+  basis: The old man conjures the ravens' gift of speech from them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raven
+  literal_form: ravens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ravens speak with opposite meanings
+  summary: In very old days, ravens can talk, but their words mean the opposite of
+    what they intend.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Old man removes raven speech
+  summary: Because the ravens' manner of speech makes them full of lies, an old man
+    conjures away their gift of speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Present condition of ravens
+  summary: Ravens now only croak, yet retain their former nature as irascible, lying,
+    and thieving beings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal speech in primordial time
+  taxonomy_refs: []
+  basis: The passage begins with a time in olden days when ravens could talk.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    list does not contain a specific animal-speech category.
+- id: motif:2
+  label: reversed or opposite speech
+  taxonomy_refs: []
+  basis: Ravens' words are said to have exactly opposite meaning, including abusing
+    when they intend thanks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a verbal pattern in the passage rather than a named taxonomy family
+    in the supplied list.
+- id: motif:3
+  label: loss of animal speech through conjuring
+  taxonomy_refs: []
+  basis: An old man removes the ravens' gift of speech by conjuring, after which ravens
+    can only croak.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the old man's identity beyond calling him
+    an old man.
+- id: motif:4
+  label: etiology of raven croak and temperament
+  taxonomy_refs: []
+  basis: The passage explains why ravens now croak and why they are irascible, lying,
+    and thieving.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The term etiology is an analytical label; the passage itself states the
+    present-day result directly.
+- id: motif:5
+  label: deceptive and thieving raven
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Ravens are associated with lies, opposite speech, and thievery.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the raven a trickster; the taxonomy
+    reference is a cautious broad-family alignment only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '12648'
+  quote_or_summary: 'Title: WHEN RAVENS COULD TALK.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 12650-12651
+  quote_or_summary: The passage states that in very old days there was a time when
+    ravens could talk.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 12653-12656
+  quote_or_summary: Ravens' speech is described as having exactly opposite meaning;
+    when they wanted to say thanks, they abused.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 12658-12660
+  quote_or_summary: Because this made ravens full of lies, an old man conjured their
+    gift of speech from them, so ravens now can only croak.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: 12662-12663
+  quote_or_summary: Ravens retained their old nature and are described as full of
+    irascibility, lies, and thievery at the present day.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are analytical and
+    require review, especially the cautious mapping to trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this account with another text, tradition, or named motif family.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l12648-l12663
+  passage_sha256=49d3271b9bd420f7a4ea527969fbf5e4fb443d2753288e9b8b7399a259525c6d
+

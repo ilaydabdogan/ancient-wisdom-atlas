@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l8265-l8285
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: HOMICIDE. / GAMBLING. / CHAPTER XI / DEATH TABOOS.; lines 8265-8285
+  start: '8265'
+  end: '8285'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: The custom itself is called taubu.
+  summary: 'The passage describes miscellaneous death-related taboos: neighbours of
+    a dead man and strangers visiting nearby houses must avoid going to new gardens
+    until after the lahidairi ceremony, though old gardens may still be visited for
+    food. The avoidance is attributed to proximity to the corpse, which is described
+    as highly aina, or in Motu terms helaga; the custom is called taubu.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Neighbours of a dead man may not go to any new garden until after the lahidairi
+    ceremony.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Neighbours may visit and fetch food from their old gardens.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Strangers visiting houses near the house where the death occurred must observe
+    the same rule.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated reason for avoidance is the actual proximity of the corpse.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The corpse is described as highly aina, and compared to the Motu term helaga.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The custom is called taubu.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dead man
+  description: A deceased man whose neighbours are subject to garden restrictions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: neighbours of a dead man
+  description: People near or socially adjacent to the deceased who may not go to
+    new gardens until after the lahidairi ceremony, but may visit old gardens for
+    food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: strangers visiting nearby houses
+  description: Visitors to houses near the house in which the death occurred who must
+    observe the same restriction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: corpse
+  description: The corpse whose actual proximity is said to be the reason for avoidance
+    and is described as highly aina or helaga.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ahuia
+  description: Named informant or speaker who made clear the reason for the avoidance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceased person
+  assigned_to:
+  - fig:1
+  basis: The passage refers to a dead man whose death triggers restrictions for neighbours.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restricted neighbours
+  assigned_to:
+  - fig:2
+  basis: Neighbours of the dead man are prohibited from going to new gardens until
+    after a ceremony.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: restricted visitors
+  assigned_to:
+  - fig:3
+  basis: Strangers visiting houses near the death house must observe the same rule.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: source of proximity taboo
+  assigned_to:
+  - fig:4
+  basis: The actual proximity of the corpse is given as the reason for avoidance.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: explanatory informant
+  assigned_to:
+  - fig:5
+  basis: Ahuia is said to have made clear the reason for the avoidance.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: corpse as highly aina or helaga
+  literal_form: corpse
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: new garden under death taboo
+  literal_form: new garden
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: old garden permitted for food fetching
+  literal_form: old garden
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: lahidairi ceremony as boundary for restriction
+  literal_form: lahidairi ceremony
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Death-related garden restriction
+  summary: After a death, neighbours of the dead man are barred from going to new
+    gardens until after the lahidairi ceremony, while old gardens remain accessible
+    for obtaining food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Restriction extended to nearby visitors
+  summary: Strangers visiting houses near the house in which the death occurred must
+    follow the same rule.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Corpse proximity explanation
+  summary: Ahuia explains that the avoidance is due to the actual proximity of the
+    corpse, which is considered highly aina, or helaga in Motu terms; the custom is
+    called taubu.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: death-proximity taboo restricting movement to cultivated places
+  taxonomy_refs: []
+  basis: The passage describes a taboo after death in which neighbours and nearby
+    visitors avoid new gardens until a ceremony, with the reason tied to proximity
+    to the corpse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic taboo pattern rather than one of the supplied
+    taxonomy motif families.
+- id: motif:2
+  label: ritual ceremony ending a death restriction
+  taxonomy_refs: []
+  basis: The restriction on visiting new gardens lasts until after the lahidairi ceremony.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names the ceremony but does not describe its actions or full
+    ritual function.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly relates the term aina for the corpse’s dangerous or
+    sacred condition to the Motu term helaga.
+  claim_level: linguistic_similarity
+  target: Motu term helaga
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief terminological comparison and does not
+    explain the semantic range of either term.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8272-8277
+  quote_or_summary: Neighbours of a dead man, regardless of iduhu, may not go to a
+    new garden until after the lahidairi ceremony, though they may visit old gardens
+    and fetch food there.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8277-8279
+  quote_or_summary: Strangers visiting houses near the house where the death occurred
+    must observe the same rule.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8279-8283
+  quote_or_summary: Ahuia explains that the avoidance is due to actual proximity of
+    the corpse, which is considered highly aina, or in Motu terms helaga.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: line 8284
+  quote_or_summary: The custom itself is called taubu.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit about the taboo, its affected persons,
+    and its stated rationale. Motif labeling is descriptive because no supplied motif
+    family directly matches the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol exactly applies to the passage; symbols are descriptive and evidence-based.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l8265-l8285
+  passage_sha256=b27efc6e5c94d8b015248c13b62fa00f2dc198142231ef50b9ce9d54ab075d36
+

@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l22310-l22330
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: TABOOS. / PUBLIC OB TRIBAL FETICHES.' / SYMBOLIC EARTH FORMATIONS OF THE
+    WINNBBAGO.' / PERSONAL FETICHES.; lines 22310-22330
+  start: '22310'
+  end: '22330'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes medicines and personal sacred objects as mysterious
+    or sacred. It reports that a dried enemy heart could be kept in a medicine bag
+    and mixed with other medicines, and describes an Iowa pre-war ritual involving
+    a sacred bag, deer, painting, kneeling, uncovering grass and sticks, placing sacred
+    objects, singing, asking for good luck, and avoiding vulgar speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All medicines are described as mysterious or sacred.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heart of a slain enemy was sometimes dried, placed in a medicine bag,
+    pulverized, and mixed with other medicines.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before an Iowa war party started, the man assigned to carry the sacred bag
+    hid it while others prepared sacred articles, described parenthetically as probably
+    personal fetiches.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hunters often brought in deer; after eating deer, the warriors painted themselves
+    as if expecting to see an enemy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One member measured a set number of steps in front, and each man took his
+    place and knelt down.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At a given word, each man pulled away grass and sticks, moved backward until
+    reaching the poles, and then arose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Each man placed his own sacred objects before him, began his own song, opened
+    the objects, and asked for good luck.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: They sang one song while opening the sacred objects and another while putting
+    them back, with song described as necessary for every ceremony.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: In later conversations, jesting was permitted if common or vulgar terms were
+    avoided.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Iowa warriors
+  description: War-party participants who ate deer, painted themselves, knelt, uncovered
+    grass and sticks, handled sacred objects, sang, and asked for good luck.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: sacred-bag carrier
+  description: The man designated to carry the sacred bag before the Iowa war party,
+    who hid it before departure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: hunters
+  description: Hunters who often brought in deer before the warriors painted themselves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: slain enemy
+  description: An enemy whose heart could be dried and used with medicines.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: sacred-bag carrier
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a man who was to carry the sacred bag and says he
+    hid it before the war party started.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: war-party ritual participants
+  assigned_to:
+  - fig:1
+  basis: The warriors perform the described preparation, painting, kneeling, sacred-object
+    handling, singing, and luck-seeking actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: deer providers
+  assigned_to:
+  - fig:3
+  basis: The hunters are said to have brought in deer that the warriors ate before
+    painting themselves.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: source of heart medicine ingredient
+  assigned_to:
+  - fig:4
+  basis: The slain enemy is referenced through the heart that is dried and mixed with
+    medicines.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: medicines
+  literal_form: Medicines regarded as mysterious or sacred and mixed with pulverized
+    heart in some cases.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: medicine bag
+  literal_form: A bag in which a dried enemy heart could be placed before being pulverized
+    and mixed with other medicines.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dried enemy heart
+  literal_form: The dried heart of a slain enemy used with other medicines.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sacred bag
+  literal_form: A sacred bag carried by a designated man and hidden before the war
+    party started.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: personal sacred objects or fetiches
+  literal_form: Each man’s own sacred objects, placed before him, opened with song,
+    and put back with another song.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Enemy heart added to medicines
+  summary: The passage states that medicines were sacred and that a slain enemy’s
+    dried heart could be put in a medicine bag, pulverized, and mixed with other medicines.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sacred bag hidden before war party
+  summary: Before an Iowa war party left the village, the designated sacred-bag carrier
+    hid the bag while others prepared sacred articles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Warriors arrange themselves and uncover a space
+  summary: After eating deer and painting themselves, the warriors took measured positions,
+    knelt, pulled away grass and sticks, moved backward to poles, and arose.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Opening sacred objects with songs
+  summary: Each warrior placed his sacred objects before him, sang, opened them, asked
+    for good luck, and later sang while putting them back.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Permitted joking with speech restrictions
+  summary: After the ritual actions, conversation and jesting were allowed as long
+    as common or vulgar terms were avoided.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sacred medicines and personal fetiches
+  taxonomy_refs: []
+  basis: The passage explicitly treats medicines as mysterious or sacred and describes
+    personal sacred objects handled in ceremony.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic ritual description, not a mythic narrative episode.
+- id: motif:2
+  label: Enemy body part used as medicine ingredient
+  taxonomy_refs: []
+  basis: A slain enemy’s dried heart is described as being placed in a medicine bag,
+    pulverized, and mixed with medicines.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage says this happened sometimes and gives no further narrative
+    context.
+- id: motif:3
+  label: War-party luck sought through sacred objects
+  taxonomy_refs: []
+  basis: The described pre-war practice includes sacred articles, personal sacred
+    objects, opening them, singing, and asking for good luck.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific deity or named spirit is identified in the passage.
+- id: motif:4
+  label: Ceremonial song required for handling sacred objects
+  taxonomy_refs: []
+  basis: The passage states that one song was sung on opening the sacred objects and
+    another while putting them back, and that song was considered necessary for every
+    ceremony.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The content of the songs is not provided.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the singing of a song while opening sacred
+    objects to a Kansa practice referenced in § 36.
+  claim_level: same_function
+  target: Kansa practice referenced in § 36
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Kansa passage itself is not included here, so the comparison is
+    limited to the author’s brief parenthetical note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22312-22316
+  quote_or_summary: Medicines are described as mysterious or sacred; a slain enemy’s
+    dried heart could be placed in a medicine bag, pulverized, and mixed with other
+    medicines.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 22316-22319
+  quote_or_summary: One or two days before an Iowa war party started, the man designated
+    to carry the sacred bag hid it while others prepared sacred articles, probably
+    personal fetiches.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 22319-22323
+  quote_or_summary: Hunters brought deer; after eating, the warriors painted themselves
+    as they would if expecting an enemy, and then one man measured a number of steps
+    while each man took his place and knelt.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 22323-22325
+  quote_or_summary: At the word, each man pulled away grass and sticks, moved backward
+    to the poles, and arose.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 22325-22327
+  quote_or_summary: Each man placed his own sacred objects before him, began his own
+    song, opened the objects, and asked for good luck.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: quote
+  locator: 22327-22329
+  quote_or_summary: '"They sang one song on opening them (as among the Kansa, see
+    § 36), and another while putting them back into their places"; a song is described
+    as necessary for every ceremony.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: 22329-22330
+  quote_or_summary: Conversation afterward could include jesting if common or vulgar
+    terms were avoided.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about ritual actions and objects. Motif labels are
+    descriptive and not mapped to supplied motif-family taxonomy because no listed
+    family clearly fits. The Kansa comparison is present only as a parenthetical cross-reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Parenthetical uncertainty in the passage about whether the sacred articles are personal fetiches has been retained in summaries.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l22310-l22330
+  passage_sha256=5af3aff30fb350c77da859e7ecf161a4d121309c5160cc1a941e0a4c82db1c35
+

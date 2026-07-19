@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l18051-l18094
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: TWELFTH KHANDHAKA. / C C 2 / XII, I, 2. / XII, I, 3.; lines 18051-18094
+  start: '18051'
+  end: '18094'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a discourse addressed to Bhikkhus, the Blessed One compares four obstructions
+    that affect the sun and moon—clouds, fog, dusty smoke, and Rahu/eclipse—to four
+    stains affecting Samanas and Brahmans: intoxicants, sexual intercourse, accepting
+    silver and gold, and livelihood by low arts. The passage then introduces a verse
+    beginning with Samanas and Brahmans stained by lust and malice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Four obstructions of the sun and moon are named: clouds, fog, dusty smoke,
+    and Rahu, with a note glossing Rahu as eclipse.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the sun and moon are affected by these obstructions, they are described
+    as giving no heat, no light, and no sheen or glory.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states an analogy between obstructions affecting the sun and moon
+    and stains affecting Samanas and Brahmans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The four stains are drinking strong drink and intoxicants, sexual intercourse,
+    accepting silver and gold, and gaining livelihood by low arts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The utterance is attributed to the Blessed One, also called the Happy One
+    and the Master.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A following verse begins by describing some Samanas and Brahmans as stained
+    by lust and malice.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Blessed One / Happy One / Master
+  description: Speaker of the teaching addressed to the Bhikkhus and introducer of
+    the further verse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: The addressed audience of the teaching.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Samanas and Brahmans
+  description: Religious practitioners described as affected by four stains when they
+    engage in certain actions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Rahu
+  description: Named as one of the four obstructions of the sun and moon; the note
+    glosses it as eclipse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: teacher-speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says the Blessed One spoke and calls him the Happy One and the
+    Master.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: addressed audience
+  assigned_to:
+  - fig:2
+  basis: The teaching repeatedly addresses “O Bhikkhus.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: subjects of moral comparison
+  assigned_to:
+  - fig:3
+  basis: Samanas and Brahmans are described as affected by four stains analogous to
+    cosmic obstructions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named celestial obstruction
+  assigned_to:
+  - fig:4
+  basis: Rahu is listed among the four obstructions that affect the sun and moon.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Sun and moon
+  literal_form: Celestial bodies that lose heat, light, and sheen when affected by
+    obstructions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Four celestial obstructions
+  literal_form: Clouds, fog, dusty smoke, and Rahu/eclipse affecting the sun and moon.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Four stains
+  literal_form: 'The stated stains affecting Samanas and Brahmans: intoxicants, sexual
+    intercourse, silver and gold, and low arts as livelihood.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Silver and gold
+  literal_form: Valuables accepted by some Samanas and Brahmans, named as the third
+    stain.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Strong drink and intoxicants
+  literal_form: Substances drunk by some Samanas and Brahmans, named as the first
+    stain.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Cosmic obstruction simile
+  summary: The speaker names four obstructions that affect the sun and moon and make
+    them lack heat, light, and sheen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Four stains of religious practitioners
+  summary: The speaker applies the comparison to Samanas and Brahmans, naming four
+    stains that affect them in an analogous way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Verse opening on lust and malice
+  summary: After the prose teaching, the passage introduces a verse in which some
+    Samanas and Brahmans are described as stained by lust and malice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Celestial obscuration and lost radiance
+  taxonomy_refs: []
+  basis: The sun and moon are said to lose heat, light, and sheen when affected by
+    clouds, fog, dusty smoke, and Rahu/eclipse.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Identified only at passage level; no external mythic comparison is implied.
+- id: motif:2
+  label: Ethical defilement as obscured radiance
+  taxonomy_refs: []
+  basis: The passage explicitly compares cosmic obstructions to four stains that make
+    Samanas and Brahmans lack heat, light, and sheen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an internal didactic analogy, not evidence by itself for historical
+    contact or a broader comparative lineage.
+- id: motif:3
+  label: Fourfold catalogue of religious stains
+  taxonomy_refs: []
+  basis: 'The passage lists four disciplinary or moral stains: intoxicants, sexual
+    intercourse, accepting silver and gold, and livelihood by low arts.'
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not connect this fourfold list to any supplied taxonomy
+    motif family.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself presents a functional analogy: celestial obstructions
+    deprive the sun and moon of radiance, just as moral stains deprive Samanas and
+    Brahmans of comparable radiance.'
+  claim_level: same_function
+  target: Internal pattern of obscuration as moral defilement
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage; it does not establish
+    historical contact, common inheritance, or cross-cultural recurrence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18051-18063
+  quote_or_summary: The Blessed One says four obstructions—clouds, fog, dusty smoke,
+    and Rahu, glossed in a note as eclipse—affect the sun and moon so that they lack
+    heat, light, and sheen.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 18063-18084
+  quote_or_summary: 'The discourse says that, just so, four stains affect Samanas
+    and Brahmans: drinking intoxicants, sexual intercourse, accepting silver and gold,
+    and gaining livelihood by low arts.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 18085-18089
+  quote_or_summary: The passage attributes the teaching to the Blessed One and says
+    the Happy One, the Master, then spoke further.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 18090-18094
+  quote_or_summary: "“Stained by lust and malice, some Samanas and Brahmans,” begins
+    the following verse in the excerpt."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is explicit about its analogy and lists; broader taxonomy placement
+    is left empty because the supplied taxonomy does not contain a directly matching
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external traditions or motif-family links were inferred beyond the passage’s own cosmic-obstruction and moral-stain analogy.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l18051-l18094
+  passage_sha256=a34c44896f81102c88e0f5085065db7944301d76d19f54fd8b4020b0f8762f51
+

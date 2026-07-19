@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l1-l28
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: people-of-polar-north-rasmussen; lines 1-28
+  start: '1'
+  end: '28'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In an author's preface, the narrator recalls hearing an old Greenlandic
+    woman describe a far northern people at the end of the world, dressed in bearskins
+    and eating raw flesh, in a land shut in by ice and darkened by high fjelds. The
+    story says that anyone wishing to go there must travel with the South wind to
+    the Lord of the wild northern gales. The narrator resolves from childhood to find
+    these 'New People' and later joins an expedition to Greenland, spending the winter
+    of 1903-1904 among the Polar Eskimos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old Greenlandic woman tells the narrator about people living far to the
+    north at the end of the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are described as dressed in bearskins and eating raw flesh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Their country is described as shut in by ice, with daylight not reaching over
+    the tops of high fjelds.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A person wishing to go there is said to have to travel with the South wind
+    to the Lord of the wild northern gales.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator decides in childhood that he will go and find the people called
+    'The New People.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: As an adult, the narrator joins the Danish Literary Expedition to Greenland
+    and spends the winter of 1903-1904 among the Polar Eskimos.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who hears the childhood story, resolves to
+    find the people, and later travels with an expedition to Greenland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Old Greenlandic woman
+  description: A woman remembered by the narrator as the teller of the story about
+    the far northern people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Far northern people / New People / Polar Eskimos
+  description: A people said to live far north at the end of the world; later identified
+    by the narrator with the Polar Eskimos among whom he wintered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lord of the wild northern gales
+  description: A named figure or power associated with the route to the far northern
+    country.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Danish Literary Expedition to Greenland
+  description: The expedition of which the narrator becomes a member before wintering
+    among the Polar Eskimos.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker-traveler
+  assigned_to:
+  - fig:1
+  basis: The narrator resolves to go find the people and later travels with an expedition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: storyteller
+  assigned_to:
+  - fig:2
+  basis: She tells the childhood account of the far northern people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: remote people sought
+  assigned_to:
+  - fig:3
+  basis: They are described in the old story and become the object of the narrator's
+    intended search.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: northern wind-lord
+  assigned_to:
+  - fig:4
+  basis: The passage names him as the Lord of the wild northern gales on the route
+    north.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: travel party
+  assigned_to:
+  - fig:5
+  basis: The narrator travels as a member of this expedition.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: end of the world
+  literal_form: A far northern place described as the end of the world.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bearskins
+  literal_form: Clothing made of bearskins.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ice-bound country
+  literal_form: A country always shut in by ice.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: high fjelds
+  literal_form: High fjelds whose tops daylight does not reach over.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: South wind
+  literal_form: The South wind with which one must travel to reach the northern land.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wild northern gales
+  literal_form: Northern gales associated with a named lord.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Story of a remote northern people
+  summary: The old Greenlandic woman tells of people living at the northern end of
+    the world, wearing bearskins and eating raw flesh in an ice-bound, shadowed land.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Route by wind to the northern lord
+  summary: The story says that reaching the far northern country requires traveling
+    with the South wind to the Lord of the wild northern gales.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Narrator's resolve and expedition
+  summary: The narrator decides to find the New People and later joins an expedition
+    to Greenland, wintering among the Polar Eskimos.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey to a remote edge-world people
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The narrator hears of people at the end of the world and resolves to travel
+    to find them; the passage also gives a special wind-route to the northern lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an author's preface and travel recollection, not a complete
+    mythic narrative; taxonomy matches are broad.
+- id: motif:2
+  label: personified or lordly wind power
+  taxonomy_refs: []
+  basis: The story refers to traveling with the South wind to the Lord of the wild
+    northern gales.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain whether the wind-lord is a deity, spirit,
+    metaphor, or story-formula.
+- id: motif:3
+  label: remote people marked by distinctive clothing and food
+  taxonomy_refs: []
+  basis: The far northern people are distinguished by bearskin dress and eating raw
+    flesh.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a descriptive ethnographic image within a remembered story, not
+    necessarily a mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4-6
+  quote_or_summary: The narrator remembers an old Greenlandic woman telling of a people
+    far north at the end of the world who dressed in bearskins and ate raw flesh.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 8-9
+  quote_or_summary: The people's country is described as always shut in by ice, and
+    daylight never reaches over the tops of the high fjelds.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 11-12
+  quote_or_summary: Anyone wishing to go there must travel with the South wind up
+    to the Lord of the wild northern gales.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 14-17
+  quote_or_summary: Before understanding travel, the narrator decides he will one
+    day go find the people whom the storyteller called 'The New People.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 19-25
+  quote_or_summary: As an adult, the narrator joins the Danish Literary Expedition
+    to Greenland and winters in 1903-1904 among the Polar Eskimos, called the most
+    northerly dwelling people in the world.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 27-28
+  quote_or_summary: The narrator says the following recollections date from this sojourn,
+    remote from civilization.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain; metadata rights_status not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is an autobiographical preface containing a remembered story and expedition
+    frame rather than a full mythic episode. No comparison claims were added because
+    the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparisons were inferred beyond the supplied passage. Taxonomy references were used only where directly supportable at a broad level.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l1-l28
+  passage_sha256=b18527c84451195841e4305cdd0298fd457f6fc5ba1072c4c522f9e63d813074
+

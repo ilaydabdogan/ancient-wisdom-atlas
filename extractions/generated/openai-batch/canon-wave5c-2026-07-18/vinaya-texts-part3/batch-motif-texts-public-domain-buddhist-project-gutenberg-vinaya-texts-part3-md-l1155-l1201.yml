@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1155-l1201
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: XULLAVAGGA. / TV, 9. / KULLAVAGGA. / IV, II, I.; lines 1155-1201
+  start: '1155'
+  end: '1201'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that voting is invalid in ten cases, including cases
+    involving possible or doubtful schism in the Saṅgha, irregular votes, unequal
+    voting, and votes not matching the voters' real views. It then says that valid
+    voting consists of the reverse of those ten cases. The next section begins with
+    Bhikkhu Uva/a, also footnoted as Upavala in Burmese manuscripts, being examined
+    before the Saṅgha concerning an offence, alternately denying and confessing it.
+  language: English translation with Pali/Sanskritized monastic terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists ten cases in which voting is invalid.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Invalid cases include situations where voting will result in a schism in the
+    Saṅgha or where there is doubt whether it will do so.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Invalid cases include votes being irregularly given, not all voting equally,
+    and votes not being in accordance with the voters' real view.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage defines the ten valid voting cases as precisely the reverse of
+    the ten invalid cases.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bhikkhu Uva/a is examined in the midst of the Saṅgha concerning an offence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the examination, Bhikkhu Uva/a alternates between denial and confession
+    of the offence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says that Burmese manuscripts write the monk's name as Upavala.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Saṅgha
+  description: The monastic community in which voting may occur and in whose midst
+    Bhikkhu Uva/a is examined.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Bhikkhu Uva/a / Upavala
+  description: A monk examined before the Saṅgha concerning an offence; his name is
+    footnoted as Upavala in Burmese manuscripts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: voting assembly and examining body
+  assigned_to:
+  - fig:1
+  basis: The passage discusses voting that may cause schism in the Saṅgha and describes
+    examination conducted in its midst.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: examined monk
+  assigned_to:
+  - fig:2
+  basis: Bhikkhu Uva/a is described as being examined regarding an offence and as
+    denying and confessing it.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Rules for valid and invalid voting
+  summary: A procedural rule distinguishes ten invalid voting cases from ten valid
+    cases, with invalidity tied to schism, irregular voting, unequal voting, and insincere
+    voting.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Examination of Bhikkhu Uva/a
+  summary: Bhikkhu Uva/a is examined before the Saṅgha about an offence and alternates
+    between denial and confession.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: communal voting threatened by schism
+  taxonomy_refs: []
+  basis: The passage treats voting procedure in relation to the danger or doubt of
+    schism in the Saṅgha and defines such cases as invalid.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a legal-monastic procedural pattern rather than a mythological
+    motif; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: contradictory confession under communal examination
+  taxonomy_refs: []
+  basis: The monk under examination alternates between denying and confessing an offence
+    before the Saṅgha.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is truncated immediately after introducing this episode, so
+    its function in the larger narrative is not available here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1155-1165
+  quote_or_summary: Voting is invalid in ten cases, including when it will or may
+    result in schism in the Saṅgha, when votes are irregularly given, when all do
+    not vote equally, and when votes do not accord with voters' real views.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1167-1172
+  quote_or_summary: The passage asks which ten cases make voting valid and states
+    that they are precisely the reverse of the other ten.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1174-1179
+  quote_or_summary: Bhikkhu Uva/a is examined in the midst of the Saṅgha concerning
+    an offence; after denying he confesses, and after confessing he denies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1198-1201
+  quote_or_summary: A note states that Burmese manuscripts write the monk's name as
+    Upavala.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal procedural content is clear. Motif identification is weak because
+    the passage is legal and monastic rather than mythic, and no direct supplied taxonomy
+    reference applies. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage. No comparison claims are supported by the passage itself.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1155-l1201
+  passage_sha256=e94a22823fa54290e08ce88afec88a24b41781ad089c202814e1cb879946af84
+

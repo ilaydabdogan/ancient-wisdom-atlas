@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l8056-l8077
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: MOTHER, WITH CHILD IN AMAUT (CARRYING-BAG) / ATUNGAIT, WHO WENT VISITING
+    / THE MAN WHO WAS BLOWN AWAY BY THE STORM / KNUD RASMUSSEN (NEW YEAR'S EVE, 1903);
+    lines 8056-8077
+  start: '8056'
+  end: '8077'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After Qivioq marries into a family and goes seal-catching, Eqaitdloq kills
+    and flays her daughter out of envy, then wears the daughter’s skin. When Qivioq
+    returns and asks for the daughter, Eqaitdloq says she has gone to pick berries,
+    while the body is hidden under the sleeping-place. Qivioq leaves, crosses a large
+    sea, returns home, and finds his wife married to another man because of his long
+    absence; he sleeps alone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Qivioq had married into a family and went on hunting journeys after doing
+    so.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While Qivioq was away seal-catching, Eqaitdloq killed her daughter because
+    she envied her daughter’s husband.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eqaitdloq flayed her daughter and drew the skin over herself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Qivioq asked for the daughter, Eqaitdloq said the daughter had gone to
+    pluck berries.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The daughter’s body was hidden under the sleeping-place.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Qivioq despised Eqaitdloq, left her, and went away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On his way home Qivioq came to a big sea, crossed it, and soon arrived home.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At home Qivioq found his wife married to another man because he had been away
+    so long, and he slept alone on the side sleeping-place.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Qivioq
+  description: A man who marries into a family, goes hunting, questions Eqaitdloq
+    about the daughter, leaves, crosses a big sea, returns home, and finds his wife
+    remarried.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Eqaitdloq
+  description: The mother who kills her daughter, flays her, draws the skin over herself,
+    conceals the body, and gives Qivioq a false explanation for the daughter’s absence.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Eqaitdloq’s daughter
+  description: The daughter killed and flayed by Eqaitdloq; her body is hidden under
+    the sleeping-place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Qivioq’s wife at home
+  description: Qivioq’s wife, found married to another man when Qivioq returns home
+    after a long absence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: another man
+  description: The man to whom Qivioq’s wife is married when Qivioq returns home.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: returning hunter and absent husband
+  assigned_to:
+  - fig:1
+  basis: Qivioq is away seal-catching, then returns home after a long absence and
+    finds his wife remarried.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: envious mother
+  assigned_to:
+  - fig:2
+  basis: Eqaitdloq kills her daughter because she envies her daughter’s husband.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: killer and skin-disguiser
+  assigned_to:
+  - fig:2
+  basis: Eqaitdloq kills and flays her daughter, draws the skin over herself, and
+    misleads Qivioq about the daughter’s whereabouts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: daughter-victim
+  assigned_to:
+  - fig:3
+  basis: The daughter is killed and flayed by her mother, and her body is hidden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: remarried wife
+  assigned_to:
+  - fig:4
+  basis: Qivioq finds his wife married to another man because he has been away so
+    long.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: new husband
+  assigned_to:
+  - fig:5
+  basis: The passage says Qivioq’s wife is married to another man on his return.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: flayed skin as disguise
+  literal_form: The daughter’s skin drawn over Eqaitdloq
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: big sea crossing
+  literal_form: A big sea crossed by Qivioq on his way home
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Seal-catching absence and killing
+  summary: Qivioq is away seal-catching after marrying into the family, and during
+    that absence Eqaitdloq kills her daughter out of envy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Flaying, concealment, and false explanation
+  summary: Eqaitdloq flays the daughter, draws the skin over herself, hides the body
+    under the sleeping-place, and tells Qivioq that the daughter has gone to pick
+    berries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return across the sea to a changed home
+  summary: Qivioq leaves Eqaitdloq, crosses a big sea, reaches home, and finds that
+    his wife has married another man because he was away so long.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mother kills daughter from envy of her husband
+  taxonomy_refs: []
+  basis: Eqaitdloq kills her daughter specifically because she envies her daughter’s
+    husband.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only this episode and does not state a wider social
+    or ritual meaning.
+- id: motif:2
+  label: Skin disguise after murder
+  taxonomy_refs:
+  - shapeshifter
+  basis: Eqaitdloq flays the daughter, draws the skin over herself, and then gives
+    Qivioq a false account of the daughter’s absence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes wearing a flayed skin as a disguise; it does not
+    explicitly state bodily transformation.
+- id: motif:3
+  label: Return after long absence to a remarried spouse
+  taxonomy_refs:
+  - return
+  basis: Qivioq crosses a big sea to return home and finds his wife married to another
+    man because he has stayed away so long.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt ends without further resolution of this situation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8058-8061
+  quote_or_summary: Qivioq had married into the family and went on hunting journeys;
+    while seal-catching, Eqaitdloq killed her daughter because she envied her daughter’s
+    husband.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain text; rights metadata was not supplied
+    in the request.
+- id: ev:2
+  type: summary
+  locator: 8061-8063
+  quote_or_summary: After killing her daughter, Eqaitdloq flayed her and drew the
+    daughter’s skin over herself.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain text; rights metadata was not supplied
+    in the request.
+- id: ev:3
+  type: summary
+  locator: 8064-8067
+  quote_or_summary: Qivioq asked for the daughter; Eqaitdloq said she had gone to
+    pluck berries, while the body was under the sleeping-place.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain text; rights metadata was not supplied
+    in the request.
+- id: ev:4
+  type: summary
+  locator: 8067-8070
+  quote_or_summary: Qivioq despised Eqaitdloq, left her, crossed a big sea on his
+    way home, and soon reached home.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain text; rights metadata was not supplied
+    in the request.
+- id: ev:5
+  type: summary
+  locator: 8070-8073
+  quote_or_summary: When Qivioq arrived home, his wife was married to another man
+    because he had been away so long, and he slept alone on the side sleeping-place.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Source path indicates public-domain text; rights metadata was not supplied
+    in the request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions are clear, but the excerpt contains some pronoun and relationship
+    ambiguity because it appears to be the end of a longer tale. No external comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Storyteller attribution and collection heading are present in the passage but are not modeled as in-story figures.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l8056-l8077
+  passage_sha256=bef84ca4c0ddbcd18145e6f91bffa57ad5406abf28d0c44409616052685fe0fb
+

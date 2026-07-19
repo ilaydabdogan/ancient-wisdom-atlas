@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l7666-l7757
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VI, I, 3. / VI, I, 5- / ZULLAVAGGA. / XULLAVAGGA.; lines 7666-7757
+  start: '7666'
+  end: '7757'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya passage reports discomfort from a solid bench, permits bedsteads
+    made from split bamboo laths, lists several types of bedsteads and chairs that
+    came into the possession of the Saṅgha, and records that the matter was told to
+    the Blessed One, who allowed each item. Notes explain some furniture terms and
+    construction details.
+  language: English with Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that limbs ached on a solid bench.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blessed One permits the Bhikkhus to use bedsteads made of laths of split
+    bamboo.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several named bier-like bedsteads and corresponding chairs came into the possession
+    of the Saṅgha.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The matter concerning the listed bedsteads and chairs was told to the Blessed
+    One, who allowed them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A second list of furniture, including rectangular chairs, arm-chairs, sofas,
+    state chairs, cushioned chairs, pedestal chairs, many-legged chairs, reclining
+    boards, and cane- or straw-bottomed chairs, came into the possession of the Saṅgha.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The matter concerning the second list of furniture was told to the Blessed
+    One, who allowed the items.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Explanatory notes describe some furniture forms by construction features such
+    as curved or animal-like legs, cane bottoms, straw bottoms, and multiple legs.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Blessed One
+  description: The authority to whom the matters are reported and who allows the furniture.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Bhikkhus
+  description: The monastic recipients addressed in the allowances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Saṅgha
+  description: The community into whose possession the listed furniture had come.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: authoritative permitter
+  assigned_to:
+  - fig:1
+  basis: The Blessed One is told the matters and responds by allowing the listed items.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: addressed monastic recipients
+  assigned_to:
+  - fig:2
+  basis: The permission formula directly addresses the Bhikkhus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: corporate possessor
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly says the furniture had come into the possession of
+    the Saṅgha.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: solid bench
+  literal_form: solid bench on which limbs ached
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: split-bamboo lath bedstead
+  literal_form: bedsteads made of laths of split bamboo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: listed bedsteads and chairs
+  literal_form: masaraka, bundikabaddha, kulira-padaka, and ahaṭa-padaka bedsteads
+    and chairs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: listed seats and reclining furniture
+  literal_form: rectangular chair, arm-chair, sofa, sofa with arms, state chair, cushioned
+    chair, pedestal chair, many-legged chair, reclining board, cane-bottomed chair,
+    and straw-bottomed chair
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Discomfort on a solid bench and permission for bamboo-lath bedsteads
+  summary: The passage begins with discomfort caused by a solid bench and records
+    permission for Bhikkhus to use bedsteads made from split bamboo laths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First furniture list reported and allowed
+  summary: Named bier-like bedsteads and chairs come into the possession of the Saṅgha;
+    the matter is reported to the Blessed One, who allows them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Second furniture list reported and allowed
+  summary: A broader set of chairs, sofas, boards, and bottomed seats comes into the
+    possession of the Saṅgha; the matter is reported to the Blessed One, who allows
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reported monastic possession followed by authoritative allowance
+  taxonomy_refs: []
+  basis: The passage twice follows the sequence in which furniture comes into the
+    possession of the Saṅgha, the matter is reported to the Blessed One, and he allows
+    the items.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a procedural Vinaya rule-pattern rather than a mythic narrative
+    motif; no supplied taxonomy motif is directly supported.
+- id: motif:2
+  label: regulation of bodily comfort through permitted objects
+  taxonomy_refs: []
+  basis: The passage links discomfort on a solid bench and subsequent permission for
+    alternative bedsteads and seats.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The connection is practical and regulatory; symbolic or mythological interpretation
+    is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7666-7670
+  quote_or_summary: "“On the solid bench their limbs ached.” The passage then says:
+    “I allow, O Bhikkhus, bedsteads made of laths of split bamboo.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7671-7678
+  quote_or_summary: A list of bier-like masaraka, bundikabaddha, kulira-padaka, and
+    ahaṭa-padaka bedsteads and chairs had come into the possession of the Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 7703-7707
+  quote_or_summary: "“They told this matter ... to the Blessed One.” He replies, “I
+    allow you, O Bhikkhus, (each of these things).”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7708-7717
+  quote_or_summary: A rectangular chair, arm-chair, sofa, sofa with arms, state chair,
+    cushioned chair, pedestal chair, many-legged chair, reclining board, cane-bottomed
+    chair, and straw-bottomed chair had come into the possession of the Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 7718-7721
+  quote_or_summary: The matter is again told to the Blessed One, who says, “I allow
+    you, O Bhikkhus, (each of these things).”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 7684-7702
+  quote_or_summary: Notes explain construction details for named bedstead and chair
+    types, including small bolts, curved or animal-foot-like legs, and inserted foot-pieces.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 7722-7757
+  quote_or_summary: Notes explain listed seats and boards, including cushioned, pedestal,
+    many-legged, and cane-bottomed forms.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily regulatory and material, with repeated procedural
+    patterns but no explicit mythic comparison or supplied taxonomy match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif family was directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l7666-l7757
+  passage_sha256=f42a7a1aa6e0e5505bad5239f64af9d83b1a423b8f792993863f149135264f0e
+

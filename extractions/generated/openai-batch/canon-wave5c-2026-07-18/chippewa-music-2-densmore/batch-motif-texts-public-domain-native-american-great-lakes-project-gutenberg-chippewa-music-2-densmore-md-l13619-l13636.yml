@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md-l13619-l13636
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: SONGS  OF  THE  LAC  DU  FLAMBEAU  RESERVATION / PINE    FOREST,     LAC    DU     FLAMBEAU     RESERVATION,    WIS.
+    / DBN'SMOUEI / Part  1; lines 13619-13636
+  start: '13619'
+  end: '13636'
+  translation: chippewa-music-2-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a free translation of a song in which people are talking
+    about the speaker and saying, “come with us.” The accompanying note identifies
+    the singer as Mde'wigi'jlg, father of E'niwub'e, and explains that the song concerns
+    a man urged by friends to join warriors while not fully decided to go.
+  language: English with Ojibwe/Chippewa song words
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The free translation says that people are talking about the speaker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The free translation includes people saying “come with us.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song was sung by the father of E'niwub'e, named Mde'wigi'jlg and translated
+    as “Grand Medicine sky.”
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The singer is described as almost blind, active, using a stout cane, and having
+    a strong voice with no hesitation in singing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The singer said he remembered war parties going out to fight the Sioux and
+    had heard the song at preliminary dances.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The explanatory note says the words concern a man urged by friends to join
+    the warriors but not fully decided to go.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After singing the song twice with the first set of words, the singer repeated
+    it with the second set.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mde'wigi'jlg
+  description: Father of E'niwub'e, named “Grand Medicine sky,” identified as the
+    singer of the song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: E'niwub'e
+  description: Person whose father is identified as the singer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed man in the song
+  description: A man who is urged by friends to join the warriors but is not fully
+    decided to go.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Friends in the song
+  description: Friends who urge the unnamed man to join the warriors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: Warriors or war parties
+  description: The group the unnamed man is urged to join; war parties are also remembered
+    as going out to fight the Sioux.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Sioux
+  description: The people against whom the remembered war parties went out to fight.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: song singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the song was sung by Mde'wigi'jlg.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: elder witness to song context
+  assigned_to:
+  - fig:1
+  basis: The passage says he remembered war parties and had heard the song at preliminary
+    dances.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named child of singer
+  assigned_to:
+  - fig:2
+  basis: The singer is identified as the father of E'niwub'e.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hesitant potential participant
+  assigned_to:
+  - fig:3
+  basis: The song words concern a man urged to join warriors but not fully decided
+    to go.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: inviters
+  assigned_to:
+  - fig:4
+  basis: Friends urge the man to join the warriors, and the translated song words
+    include “come with us.”
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: war party or warrior group
+  assigned_to:
+  - fig:5
+  basis: The man is urged to join warriors, and remembered war parties went out to
+    fight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: opponents in remembered warfare
+  assigned_to:
+  - fig:6
+  basis: The singer remembered war parties going out to fight the Sioux.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Invitation in the song text
+  summary: The translated song presents people talking about the speaker and saying,
+    “come with us.”
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Singer’s remembered performance context
+  summary: Mde'wigi'jlg sings the song and states that he remembered war parties going
+    out to fight the Sioux and had heard the song at preliminary dances.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Repeated performance sequence
+  summary: The singer sings the song twice with the first set of words and then repeats
+    it with the second set.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Invitation to depart with a warrior group
+  taxonomy_refs:
+  - departure
+  basis: The song concerns a man urged by friends to join the warriors, with the free
+    translation including the invitation “come with us.”
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic song note rather than a full mythic narrative;
+    the man has not yet decided to go, so the motif is a candidate rather than a completed
+    departure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13619-13623
+  quote_or_summary: 'Free translation: people are “talking about me” and saying “come
+    with us.”'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: 13625-13627
+  quote_or_summary: The song was sung by the father of E'niwub'e, named Mde'wigi'jlg,
+    translated as “Grand Medicine sky,” and described as a man said to be 00 years
+    of age.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: 13627-13630
+  quote_or_summary: The singer is described as almost blind but active, moving around
+    the reservation with a stout cane; his voice was strong and he showed no hesitation
+    in singing.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: 13630-13632
+  quote_or_summary: The singer said he remembered war parties going out to fight the
+    Sioux and had heard the song at preliminary dances.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: 13632-13635
+  quote_or_summary: The note explains that the words concern a man urged by friends
+    to join the warriors but not fully decided to go.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:6
+  type: summary
+  locator: 13635-13636
+  quote_or_summary: After singing the song twice with the first set of words, the
+    singer repeated it with the second set.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif assignment to
+    departure is cautious because the passage describes an invitation and hesitation,
+    not an actual completed departure. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol references were applied; the passage contains a cane and war-party context but does not present them as symbolic within the supplied text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-2-densmore-md__l13619-l13636
+  passage_sha256=debc8b388e8787d0f61d39d6c03026667a9ed2379d725fc4dbba3fb3bb55ba4f
+

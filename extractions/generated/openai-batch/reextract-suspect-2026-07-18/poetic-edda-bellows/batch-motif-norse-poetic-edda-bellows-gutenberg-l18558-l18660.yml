@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l18558-l18660
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / ATLAKVITHA EN GRNLENZKA / THE GREENLAND LAY OF ATLI / INTRODUCTORY
+    NOTE; lines 18558-18660
+  start: '18558'
+  end: '18660'
+  translation: poetic-edda-bellows
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: 'The introductory note identifies two Atli poems in the Codex Regius and
+    summarizes their shared narrative: the sons of Gjuki visit Atli''s court, die
+    there, and their sister Guthrun, Atli''s wife, avenges them. The prose preface
+    states that Guthrun kills Atli''s sons, then Atli, and burns the hall with his
+    company. The first stanza begins with Atli sending the rider Knefrth to Gunnar
+    at Gjuki''s home.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage identifies two Atli poems in the Codex Regius: Atlakvitha, the
+    Lay of Atli, and Atlamol, the Ballad of Atli.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two poems are described as dealing with the visit of the sons of Gjuki
+    to Atli's court, their deaths, and Guthrun's later revenge on Atli.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Guthrun is identified as Gjuki's daughter, the sister of the brothers she
+    avenges, and Atli's wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The prose preface says Guthrun first kills Atli's sons, then kills Atli, and
+    then burns the hall with Atli's company inside.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Atli sends a rider named Knefrth to Gunnar at Gjuki's home and Gunnar's dwelling.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The messenger's arrival is placed in a hall-like domestic setting with benches
+    around the hearth and sweet beer.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The introductory note characterizes the Atli story as connected with the Attila
+    and Burgundian legends and with South-Germanic origins.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Guthrun
+  description: Gjuki's daughter and Atli's wife; she avenges her brothers by killing
+    Atli's sons, killing Atli, and burning the hall with his company.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Atli
+  description: Husband of Guthrun; his court is the destination of the sons of Gjuki,
+    he sends Knefrth to Gunnar, and he is killed by Guthrun.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: sons of Gjuki
+  description: A brother group who visit Atli's court, die, and are avenged by Guthrun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Gunnar
+  description: Recipient of Atli's message; the rider comes to Gjuki's home and Gunnar's
+    dwelling.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Knefrth
+  description: A keen-witted rider sent by Atli to Gunnar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Atli's sons
+  description: Atli's sons are killed first by Guthrun in her revenge.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Atli's company
+  description: Atli's whole company is burned in the hall after Guthrun kills Atli.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Gjuki
+  description: Named as Guthrun's father and as the person associated with the home
+    to which Knefrth comes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: avenging sister and wife
+  assigned_to:
+  - fig:1
+  basis: Guthrun avenges her brothers and takes revenge on her husband Atli.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: husband killed in revenge
+  assigned_to:
+  - fig:2
+  basis: Atli is Guthrun's husband and is killed by her after she kills his sons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dead brothers avenged by sister
+  assigned_to:
+  - fig:3
+  basis: The sons of Gjuki visit Atli's court, die, and are avenged by Guthrun.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: sender of summons or message
+  assigned_to:
+  - fig:2
+  basis: Atli sends the rider Knefrth to Gunnar.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rider-emissary
+  assigned_to:
+  - fig:5
+  basis: Knefrth is called a keen-witted rider sent by Atli.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: message recipient
+  assigned_to:
+  - fig:4
+  basis: Knefrth is sent to Gunnar and comes to Gunnar's dwelling.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: first victims in Guthrun's revenge
+  assigned_to:
+  - fig:6
+  basis: Guthrun is said to slay Atli's sons first.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: company destroyed in hall-burning
+  assigned_to:
+  - fig:7
+  basis: The hall is burned with Atli's whole company.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: father and household name
+  assigned_to:
+  - fig:8
+  basis: Guthrun is named as Gjuki's daughter, and the messenger comes to Gjuki's
+    home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire of revenge
+  literal_form: The hall is burned with Atli's whole company after Guthrun kills Atli.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hall or court
+  literal_form: Atli's court is the place of the brothers' visit and deaths; the hall
+    is later burned. Gunnar's dwelling is also presented as a hall-like reception
+    setting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: hearth, benches, and beer
+  literal_form: The stanza locates the messenger's arrival among benches around the
+    hearth and sweet beer.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Visit to Atli's court and deaths
+  summary: The introductory note summarizes the shared narrative in which the sons
+    of Gjuki go to Atli's court, die there, and are later avenged by Guthrun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Guthrun's revenge
+  summary: Guthrun avenges her brothers by killing Atli's sons, killing Atli, and
+    burning the hall with his company.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Atli sends Knefrth to Gunnar
+  summary: Atli sends the keen-witted rider Knefrth to Gunnar at Gjuki's home, where
+    the setting includes benches, hearth, and beer.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fatal visit to a hostile court
+  taxonomy_refs: []
+  basis: The sons of Gjuki visit Atli's court and die; the poem begins with Atli sending
+    a rider to Gunnar.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The supplied stanza only begins the summons; the hostile outcome is supplied
+    by the introductory summary.
+- id: motif:2
+  label: sister avenges slain brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Guthrun avenges her brothers after the deaths of the sons of Gjuki.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage describes a
+    sister and a brother group, not a single sibling pair.
+- id: motif:3
+  label: revenge through killing the offender's children and husband
+  taxonomy_refs: []
+  basis: The prose preface states that Guthrun first kills Atli's sons and then Atli.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the sequence but not the emotional or ritual framing
+    of the killings.
+- id: motif:4
+  label: hall-burning vengeance
+  taxonomy_refs: []
+  basis: After killing Atli, Guthrun burns the hall with Atli's whole company.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a localized destructive fire, not a cosmic or world-destroying
+    fire motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage states that Atlakvitha and Atlamol share substantially the same
+    narrative material: the sons of Gjuki visit Atli''s court, die, and Guthrun avenges
+    them.'
+  claim_level: same_motif
+  target: Atlamol / Ballad of Atli compared with Atlakvitha / Lay of Atli
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:8
+  confidence: high
+  limitations: This is based on the editor's introductory summary, not on a side-by-side
+    extraction of both poem texts in the supplied passage.
+- id: claim:2
+  claim: The passage characterizes the Atli material as part of a southern blending
+    of the Attila and Burgundian legends and as going back to South-Germanic origins.
+  claim_level: common_inheritance
+  target: Attila and Burgundian legendary material / South-Germanic tradition
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The same introductory note also says the atmosphere, especially in
+    Atlamol, is essentially Norse; the passage gives an editorial historical-literary
+    assessment rather than primary comparative evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18558-18660, introductory note, opening paragraph
+  quote_or_summary: The passage identifies two Atli poems in the Codex Regius, Atlakvitha
+    and Atlamol, and says they were used extensively by the compilers of the Volsungasaga.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 18558-18660, introductory note, narrative summary paragraph
+  quote_or_summary: The two Atli poems are said to concern the visit of the sons of
+    Gjuki to Atli's court, their deaths, and Guthrun's subsequent revenge on Atli,
+    her husband.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 18558-18660, prose preface before stanza 1
+  quote_or_summary: Guthrun, Gjuki's daughter, avenges her brothers by killing Atli's
+    sons first, then Atli, and then burning the hall with Atli's whole company.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 18558-18660, stanza 1
+  quote_or_summary: Atli sends a keen-witted rider named Knefrth to Gunnar; the rider
+    comes to Gjuki's home and Gunnar's dwelling, where benches surround the hearth
+    and beer is present.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 18558-18660, introductory note, Greenland-origin discussion
+  quote_or_summary: The note says the manuscript superscription calls each Atli poem
+    Greenlandic and argues that both poems probably originated in Greenland.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:6
+  type: summary
+  locator: lines 18558-18660, introductory note, narrative-material discussion
+  quote_or_summary: The note states that the story represents almost exclusively the
+    southern blending of the Attila and Burgundian legends, and that the word Burgundians
+    is used in Atlakvitha.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:7
+  type: summary
+  locator: lines 18558-18660, introductory note, South-Germanic and Norse-atmosphere
+    discussion
+  quote_or_summary: The note says the material goes directly back to South-Germanic
+    origins with little Northern reworking, while also saying the general atmosphere,
+    especially in Atlamol, is essentially Norse.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+- id: ev:8
+  type: summary
+  locator: lines 18558-18660, introductory note, comparison of Atlakvitha and Atlamol
+  quote_or_summary: The note says Atlamol has about the same narrative basis as Atlakvitha
+    but adds many details, and elsewhere notes divergences such as in proper names.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; explicit
+    rights_status was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely an editorial introduction plus a short opening stanza.
+    Narrative sequence and figures are clear, but motif labeling is partly inferred
+    from summaries rather than from the full poem.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to those supplied in the request.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l18558-l18660
+  passage_sha256=03346063f7372e3fecae97935bd9eaddae8d5821a0b5324b227d4f561cb4513d
+

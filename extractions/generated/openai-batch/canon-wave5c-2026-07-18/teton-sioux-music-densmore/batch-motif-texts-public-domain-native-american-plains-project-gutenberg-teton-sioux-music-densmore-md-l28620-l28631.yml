@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l28620-l28631
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TETOK  SIOUX  MU8I0 / BUREAU  OF   AMEBICAN  ETHNOLOGY / BUBEAU  OP  AMEBICAN  ETHNOLOGY
+    / BUREAU  OF  AMERICAN; lines 28620-28631
+  start: '28620'
+  end: '28631'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Jaw''s warpath equipment: a leather pouch holding
+    vermilion paint mixed with grease for use on his face and body, his war whistle,
+    a warrior''s bowl shown in a plate, and a wolf skin worn on his shoulder with
+    the war whistle tied to its nose. Footnotes refer to health regulations for a
+    Chippewa war party and compare the whistle with an undecorated Sun-dance whistle,
+    noting a saw-cut sound hole.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When on the warpath, Jaw carried a leather pouch containing vermilion paint
+    mixed with grease for application to his face and body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pouch is said to be shown in plate 61 together with Jaw's war whistle
+    and a warrior's bowl.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jaw wore a wolf skin on his shoulder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jaw's war whistle was tied to the nose of the wolf skin.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote states that regulations for protecting the health of a Chippewa
+    war party are given in another bulletin.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote states that the whistle has the same dimensions and description
+    as an undecorated Sun-dance whistle except for saw-cut marks at the sound hole.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The footnote reports Mr. E. H. Hawley's statement that this was the first
+    instance of such cutting to come under his observation.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jaw
+  description: A named person described as carrying warpath equipment and wearing
+    a wolf skin on his shoulder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: warpath participant
+  assigned_to:
+  - fig:1
+  basis: Jaw is described as being on the warpath and carrying or wearing war-related
+    equipment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: leather paint pouch
+  literal_form: Leather pouch containing vermilion paint mixed with grease
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vermilion body paint
+  literal_form: Vermilion paint mixed with grease for the face and body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: war whistle
+  literal_form: Jaw's war whistle, shown in plate 61 and tied to the nose of a wolf
+    skin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: wolf skin
+  literal_form: Wolf skin worn on Jaw's shoulder, with the war whistle tied to its
+    nose
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: warrior's bowl
+  literal_form: A warrior's bowl shown in plate 61 with Jaw's pouch and war whistle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Jaw's warpath equipment
+  summary: Jaw is described on the warpath carrying a leather pouch of vermilion paint
+    mixed with grease and wearing a wolf skin on his shoulder with his war whistle
+    tied to its nose.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Plate and footnote description of war objects
+  summary: The source identifies a plate showing the pouch, Jaw's war whistle, and
+    a warrior's bowl, and a footnote compares the whistle with an undecorated Sun-dance
+    whistle while noting saw-cut marks at its sound hole.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: warpath regalia and body paint
+  taxonomy_refs: []
+  basis: 'The passage presents a recurring-style pattern of warpath equipment: body
+    paint in a pouch, a war whistle, a bowl, and an animal skin worn by the named
+    participant.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is an ethnographic object description rather than a myth narrative;
+    no supplied taxonomy motif family is directly supported.
+- id: motif:2
+  label: animal-skin war adornment with attached whistle
+  taxonomy_refs: []
+  basis: Jaw wears a wolf skin on his shoulder, and his war whistle is tied to the
+    nose of that skin.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the literal arrangement but does not explain symbolic
+    meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Jaw's war whistle to an undecorated Sun-dance whistle,
+    stating that the dimensions and description are the same except for saw-cut marks
+    at the sound hole.
+  claim_level: visual_similarity
+  target: undecorated Sun-dance whistle described elsewhere in the same source
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: high
+  limitations: The comparison is limited to physical description; the passage does
+    not establish shared ritual function or symbolic meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28620-28622
+  quote_or_summary: When on the warpath, Jaw carried a leather pouch containing vermilion
+    paint mixed with grease for applying to his face and body.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status is null; no rights assertion beyond the
+    supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 28622-28624
+  quote_or_summary: Plate 61 is said to show the pouch together with Jaw's war whistle
+    and a warrior's bowl.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status is null; no rights assertion beyond the
+    supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 28624-28625
+  quote_or_summary: Jaw wore a wolf skin on his shoulder, and his war whistle was
+    tied to the nose of the wolf skin.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status is null; no rights assertion beyond the
+    supplied passage.
+- id: ev:4
+  type: summary
+  locator: line 28627
+  quote_or_summary: A footnote references regulations for protecting the health of
+    a Chippewa war party in another bulletin.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status is null; no rights assertion beyond the
+    supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 28629-28631
+  quote_or_summary: A footnote states that the war whistle matches the dimensions
+    and description of an undecorated Sun-dance whistle, except that its sound hole
+    bears saw-cut marks; Hawley reports this as the first such instance he observed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source metadata rights_status is null; no rights assertion beyond the
+    supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif confidence is lower because
+    the passage is descriptive ethnography and does not explain symbolic or narrative
+    meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol taxonomy reference was assigned; object and pattern labels are derived only from the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l28620-l28631
+  passage_sha256=ea7566d1e111550058380ba6102954d3acf100e6ccf8fa438da1b16d1dab5423
+

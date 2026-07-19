@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1715-l1757
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: KULLAVAGGA. / IT, 14, 4. / IY, 14, 5. / IT, 14, 6.; lines 1715-1757
+  start: '1715'
+  end: '1757'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage classifies sources of legal questions: censure may arise from
+    bodily traits or speech qualities that lead people to find fault; offences arise
+    from six combinations of deed, word, and thought; legal questions of business
+    arise from the Saṅgha. Footnotes give commentary on a term for dwarf and compare
+    voice epithets with another Vinaya passage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bodily traits such as ugliness, dwarfism, disease, one-eyed blindness, lameness,
+    humpback, or being crippled are described as grounds on which people find fault,
+    producing legal questions of censure.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Speech qualities such as a bad voice, indistinctness, or harshness are described
+    as grounds on which people find fault, producing legal questions of censure.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Legal questions of offence are said to have six origins involving deed, word,
+    and thought in different combinations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The six origins of offence are enumerated as deed alone, word alone, deed
+    and word, deed and thought, word and thought, and deed, word, and thought together.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Legal questions of business are said to arise from one thing: the Sawgha.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote reports that Buddhaghosa explains one term by comparison with other
+    Pāli commentarial passages, and another footnote says three voice epithets are
+    intended as opposites of three epithets in Mahavagga V, 13, 9.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: a man subject to censure
+  description: A generic man whose bodily traits or speech qualities may lead others
+    to find fault.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: people who find fault
+  description: Unspecified people who find fault with a man on account of bodily traits
+    or speech qualities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Sawgha
+  description: The Sawgha is named as the single origin of legal questions of business.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: subject of legal censure
+  assigned_to:
+  - fig:1
+  basis: The generic man is described as having bodily or speech qualities for which
+    people find fault.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fault-finders
+  assigned_to:
+  - fig:2
+  basis: The passage says people find fault with the man on account of body or speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: origin of legal questions of business
+  assigned_to:
+  - fig:3
+  basis: The passage states that the Sawgha gives rise to legal questions of business.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: six origins of offence
+  literal_form: Sixfold enumeration of offences by deed, word, and thought.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: deed, word, and thought triad
+  literal_form: The three categories deed, word, and thought used to classify offences.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bodily basis for censure
+  summary: The text explains that certain bodily traits can lead people to find fault,
+    producing legal questions of censure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Speech basis for censure
+  summary: The text explains that certain speech qualities can lead people to find
+    fault, producing legal questions of censure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Six origins of offence
+  summary: The text enumerates six possible origins of offence through combinations
+    of deed, word, and thought.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Origin of business legal questions
+  summary: The text states that legal questions of business arise from the Sawgha.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Legal classification by deed, word, and thought
+  taxonomy_refs: []
+  basis: The passage classifies offences through all stated combinations of deed,
+    word, and thought.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a monastic legal-doctrinal classification rather than a narrative
+    mythological motif.
+- id: motif:2
+  label: Censure arising from bodily and vocal attributes
+  taxonomy_refs: []
+  basis: The passage states that bodily traits and speech qualities can cause people
+    to find fault and thus give rise to legal questions of censure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage is legal and disciplinary; no mythic or symbolic interpretation
+    is explicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1715-1720
+  quote_or_summary: The text says that bodily conditions or traits can lead people
+    to find fault, and that this is how the body gives rise to legal questions of
+    censure.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1721-1728
+  quote_or_summary: The text says that a bad voice, indistinct speech, or harsh speech
+    can lead people to find fault, and that this is how speech gives rise to legal
+    questions of censure.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1730-1743
+  quote_or_summary: Legal questions of offence are explained through six origins involving
+    deed, word, and thought, separately and in combinations.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:4
+  type: quote
+  locator: lines 1745-1749
+  quote_or_summary: "“There is one thing that gives rise to legal questions of business,
+    that is to say, the Sawgha.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 1751-1755
+  quote_or_summary: A footnote reports Buddhaghosa’s explanation of a term in comparison
+    with Aṅguttara Nikāya III, 2, 3 and Puggala IV, 19.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 1756-1757
+  quote_or_summary: A footnote says three voice epithets are intended as opposites
+    of three epithets in Mahavagga V, 13, 9.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The legal classifications are explicit, but their value as comparative mythological
+    motifs is limited and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Spelling such as “Sawgha” follows the supplied passage text. No comparison claims are made because the passage itself does not support a comparative link.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1715-l1757
+  passage_sha256=acd1ace8cb7deb2715d99702d712fd23d9b78cd8d5be741778be92d41ab20cd2
+

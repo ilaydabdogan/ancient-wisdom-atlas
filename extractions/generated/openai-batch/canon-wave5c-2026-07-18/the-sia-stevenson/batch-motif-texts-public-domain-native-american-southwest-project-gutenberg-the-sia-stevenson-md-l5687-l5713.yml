@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l5687-l5713
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SOCIETY OF THE COUGAR. / SIA MASKS / SOCIETY OF WARRIORS. / BTEVBN80N.) SONGS.
+    123; lines 5687-5713
+  start: '5687'
+  end: '5713'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A song names Ho''chiinni associated with trees and the six directions:
+    north, west, south, east, zenith, and nadir. The free translation petitions them
+    to send their peoples to work so that the waters of the six great springs of the
+    world may impregnate mother earth and cause her to give fruits.'
+  language: Sia language with English free translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists Ho'chiinni associated with spruce of the north, pine of
+    the west, oak of the south, aspen of the east, cedar of the zenith, and oak of
+    the nadir.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks the Ho'chiinni to send all their peoples to work for the
+    speakers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The desired result is that waters from the six great springs of the world
+    impregnate mother earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mother earth is expected to give the fruits of her being.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The spatial setting is organized by six directions: north, west, south, east,
+    zenith, and nadir.'
+  category: setting
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Ho'chiinni
+  description: Named beings or powers associated with directional trees in the free
+    translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: peoples of the Ho'chiinni
+  description: The peoples whom the Ho'chiinni are asked to send to work for the speakers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: mother earth
+  description: A maternal earth figure to be impregnated by waters and to give fruits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: speakers of the song
+  description: The petitioning group who ask that the Ho'chiinni send peoples to work
+    for them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: petitioned directional powers
+  assigned_to:
+  - fig:1
+  basis: They are named by direction and tree and are asked to send their peoples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: requested workers
+  assigned_to:
+  - fig:2
+  basis: They are the peoples to be sent to work for the speakers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fertile mother earth
+  assigned_to:
+  - fig:3
+  basis: Mother earth is to be impregnated by waters and to give fruits.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: petitioners
+  assigned_to:
+  - fig:4
+  basis: The wording asks that the peoples be sent to work "for us."
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: directional trees
+  literal_form: spruce, pine, oak, aspen, cedar, and oak associated with north, west,
+    south, east, zenith, and nadir
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six great springs of the world
+  literal_form: waters of the six great springs of the world
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: six directions
+  literal_form: north, west, south, east, zenith, and nadir
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fruits of mother earth
+  literal_form: fruits of her being
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation of directional Ho'chiinni
+  summary: The song names Ho'chiinni associated with six directions and corresponding
+    trees.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Petition for earth fertility
+  summary: The speakers ask the Ho'chiinni to send their peoples to work so that waters
+    from six world springs may impregnate mother earth and produce fruits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: six-direction invocation
+  taxonomy_refs: []
+  basis: The passage organizes named powers by north, west, south, east, zenith, and
+    nadir.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the wider ritual system or the identity of
+    Ho'chiinni beyond this invocation.
+- id: motif:2
+  label: fertilizing world waters and mother earth
+  taxonomy_refs:
+  - mother_goddess
+  basis: Waters from the six great springs of the world are to impregnate mother earth
+    so she gives fruits.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text says "mother earth" but does not explicitly call her a goddess;
+    the taxonomy reference is therefore interpretive and should be reviewed.
+- id: motif:3
+  label: sacred trees marking cosmic directions
+  taxonomy_refs: []
+  basis: Specific tree species are paired with the four cardinal directions plus zenith
+    and nadir.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage lists associations but does not state their symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5687-5707
+  quote_or_summary: The song and free translation list Ho'chiinni of the spruce of
+    the north, pine of the west, oak of the south, aspen of the east, cedar of the
+    zenith, and oak of the nadir.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 5707-5713
+  quote_or_summary: The Ho'chiinni are asked to send all their peoples to work for
+    the speakers so that waters of the six great springs of the world may impregnate
+    mother earth and she may give fruits.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not specified in supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the free translation is explicit. Motif
+    labels are candidate classifications and require human review, especially the
+    mother_goddess taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l5687-l5713
+  passage_sha256=1716434fa9fbd0703e7387f231fca338a0e93f4a4ae2abc1a1f0abca67e4c8e9
+

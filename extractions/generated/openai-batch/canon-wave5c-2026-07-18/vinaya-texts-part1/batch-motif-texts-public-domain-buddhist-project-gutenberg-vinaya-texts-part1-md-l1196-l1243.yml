@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l1196-l1243
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: INTRODUCTION. XXIX / XXX VINAYA TEXTS FROM THE PALI. / XXX11 VINAYA TEXTS
+    FROM THE PALI. / XXXIV VINAYA TEXTS FROM THE PALI.; lines 1196-1243
+  start: '1196'
+  end: '1243'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“the root of that Suttanta is cut off, and it finds no place of refuge”"
+  summary: The passage argues that early Buddhist textual preservation depended on
+    oral transmission rather than writing. It summarizes cases where monks must travel
+    to learn the Patimokkha by heart, where a lay follower fears a Suttanta may be
+    forgotten and summons monks despite rainy-season travel restrictions, and where
+    the Anguttara Nikaya warns that Suttantas are imperiled if learned monks fail
+    to transmit them before dying.
+  language: English with Pali terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author states that the discussed early Buddhist community did not refer
+    here to inks, pens, styles, leaves, or other writing materials.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says passages show difficulties whenever the oral memorial tradition
+    of sacred texts was interrupted or threatened with interruption.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One case concerns a place where none of the resident Bhikkhus knows the Patimokkha.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In that case, one Bhikkhu is to be sent to a neighbouring fraternity to learn
+    the Patimokkha by heart, either fully or at least in abstract.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another case concerns an Upasaka who knows an important Suttanta and fears
+    that knowledge of it will fade away.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Upasaka sends to a fraternity of Bhikkhus and invites the Brethren to
+    come to him; an exception is made to the rainy-season travel rule if they remain
+    away no longer than seven days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Anguttara Nikaya passage names it as harmful when well-instructed Bhikkhus
+    do not take pains to hand on Suttantas they know.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says that when such Bhikkhus have passed away, the root of that
+    Suttanta is cut off and it finds no place of refuge.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus in a place lacking the Patimokkha
+  description: A group of Brethren among whom no one knows the Patimokkha; one is
+    to be sent elsewhere to learn it by heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Neighbouring fraternity
+  description: A nearby fraternity from which the dispatched Bhikkhu may learn the
+    Patimokkha by heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Upasaka who knows a Suttanta
+  description: A lay follower who knows an important Suttanta and fears that knowledge
+    of it will fade away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Well-instructed Bhikkhus
+  description: Learned monks described as knowing Suttantas and as responsible for
+    handing them on to others.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sent oral learner
+  assigned_to:
+  - fig:1
+  basis: One Bhikkhu is sent to a neighbouring fraternity to learn the Patimokkha
+    by heart.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: source fraternity for memorized teaching
+  assigned_to:
+  - fig:2
+  basis: The neighbouring fraternity is the place where the Bhikkhu is commissioned
+    to learn the Patimokkha.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lay custodian of endangered teaching
+  assigned_to:
+  - fig:3
+  basis: The Upasaka knows an important Suttanta, fears it may fade away, and summons
+    the Brethren.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: monastic transmitters of Suttantas
+  assigned_to:
+  - fig:4
+  basis: The passage says well-instructed Bhikkhus should hand on the Suttantas they
+    know.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Patimokkha as memorized disciplinary text
+  literal_form: Patimokkha to be learned by heart in full or in abstract
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Suttanta as endangered sacred teaching
+  literal_form: Important Suttanta whose knowledge may fade away or fail to be transmitted
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cut root and no refuge image
+  literal_form: The root of a Suttanta is cut off, and it finds no place of refuge
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: seven-day limit
+  literal_form: No longer than seven days away from home during the rainy-season travel
+    exception
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Threat to oral memorial tradition
+  summary: The passage frames the problem as interruption or threatened interruption
+    of oral preservation of sacred texts in a setting where writing materials are
+    not invoked.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhikkhu sent to learn the Patimokkha
+  summary: When no Bhikkhu in a place knows the Patimokkha, one is sent to a neighbouring
+    fraternity to learn it by heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Upasaka summons monks for endangered Suttanta
+  summary: A lay follower who knows an important Suttanta fears its loss and invites
+    monks to come, with a limited exception to rainy-season travel rules.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Warning about failure to transmit Suttantas
+  summary: The Anguttara Nikaya passage warns that if learned monks neglect to hand
+    on known Suttantas before they die, the Suttanta’s root is cut off and it lacks
+    refuge.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: oral preservation of sacred knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly concerns sacred texts preserved by memorization, learned
+    by heart, and handed on by monks or a knowledgeable lay follower.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a scholarly introduction
+    summarizing disciplinary and canonical examples rather than a mythic narrative.
+- id: motif:2
+  label: knowledge endangered by death of transmitters
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says a Suttanta may fade away and that, when knowledgeable Bhikkhus
+    pass away without transmitting it, its root is cut off and it has no refuge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is expressed as a preservation concern and metaphor, not as
+    a narrated supernatural event.
+- id: motif:3
+  label: journey to recover or secure teaching
+  taxonomy_refs: []
+  basis: A Bhikkhu may be sent to a neighbouring fraternity to learn the Patimokkha,
+    and monks may travel to the Upasaka under an exception to normal rainy-season
+    restrictions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The journey is procedural and monastic rather than heroic or mythic; no
+    stronger taxonomy assignment is made.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares Vinaya cases of preserving texts by travel and
+    memorization with an Anguttara Nikaya warning about failure to hand on Suttantas,
+    presenting them as having the same tendency: concern for oral transmission of
+    sacred teaching.'
+  claim_level: same_function
+  target: Vinaya examples and Anguttara Nikaya warning on transmission of Suttantas
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison reported by the modern introductory
+    passage; it does not by itself establish broader historical contact or mythic
+    equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1196-1205
+  quote_or_summary: The passage contrasts lack of reference to writing materials with
+    the difficulties caused when oral memorial tradition of sacred texts was interrupted
+    or threatened.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1206-1216
+  quote_or_summary: If no Bhikkhu in a place knows the Patimokkha, one is sent to
+    a neighbouring fraternity to learn it by heart, fully or in abstract.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1217-1226
+  quote_or_summary: An Upasaka who knows an important Suttanta fears its knowledge
+    will fade, summons Bhikkhus, and an exception is made to the rainy-season travel
+    rule for no more than seven days away.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 1227-1236
+  quote_or_summary: The Anguttara Nikaya passage warns that if learned Bhikkhus neglect
+    to hand on Suttantas, then after they pass away “the root of that Suttanta is
+    cut off, and it finds no place of refuge.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in metadata; brief quotation used for evidence.
+- id: ev:5
+  type: citation
+  locator: lines 1237-1243
+  quote_or_summary: Footnotes cite Mahavagga II, 17, 5-6; Mahavagga III, 5, 9; and
+    Anguttara Nikaya passages in Catukka-Nipata and Pancaka-Nipata manuscripts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Bibliographic citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is expository and institutional rather than a narrative myth passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied available taxonomy references were used.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l1196-l1243
+  passage_sha256=559a0d46af7492088ac54fa8ca5705e0d28c8b9032014508c84af105ea30f3cc
+

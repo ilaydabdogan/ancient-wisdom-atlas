@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l25649-l25655
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OH08T8 NOT ALWAYS VISIBLE. / DEATH AND BURIAL LORE. / GOOD AND BAD GHOSTS.
+    / INTERCOURSE WITH GHOSTS.; lines 25649-25655
+  start: '25649'
+  end: '25655'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports that the group named in the printed text speaks of
+    Tchutka/Catka/Left Hand, a former chief, only with respect. They believe his shade
+    guards a sacred tree and can affect the abundance or absence of buffalo and other
+    animals. When passing, they make sacrifices and present a calumet to tutelary
+    spirits and the manes of Tchatka. He is described in their calendar as the greatest
+    man or genius to have visited their nation.
+  language: English, with Indigenous names and terms as printed
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The group named in the printed text does not pronounce the name of Tchutka/Catka/Left
+    Hand except with respect.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tchutka/Catka/Left Hand is identified as a former chief.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group believes that his shade guards a sacred tree.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The shade is believed to have power to procure abundant buffalo and other
+    animals or to drive animals away from the country.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Whenever they pass, they offer sacrifices.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: They present the calumet to tutelary spirits and to the manes of Tchatka.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tchutka/Catka/Left Hand is described as Wah-kon-tangka par excellence, the
+    greatest man or genius that visited their nation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: AsttiuniboiiieM, as printed
+  description: The group said to speak Tchutka/Catka/Left Hand's name with respect
+    and to make offerings when passing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Tchutka / Catka / Left Hand / Tchatka
+  description: A former chief whose shade is believed to guard the sacred tree and
+    influence the presence of buffalo and other animals.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Tutelary spirits and manes of Tchatka
+  description: Spirits and manes to whom the calumet is presented.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual offerers
+  assigned_to:
+  - fig:1
+  basis: They offer sacrifices and present the calumet when passing.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: former chief
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Tchutka/Catka/Left Hand as a former chief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: shade guarding sacred tree
+  assigned_to:
+  - fig:2
+  basis: His shade is believed to guard the sacred tree.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: controller of animal abundance or absence
+  assigned_to:
+  - fig:2
+  basis: He is believed able to procure abundant buffalo and other animals or drive
+    them away.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ritual recipients
+  assigned_to:
+  - fig:3
+  basis: The calumet is presented to the tutelary spirits and manes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacred tree
+  literal_form: tree described as sacred and guarded by the shade of Tchutka/Catka/Left
+    Hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: calumet
+  literal_form: calumet presented to tutelary spirits and manes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: buffalo and other animals
+  literal_form: animals whose abundance or departure is attributed to the shade's
+    power
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Respect for Tchutka/Catka/Left Hand and his shade
+  summary: The group treats the name of the former chief with respect and believes
+    his shade guards a sacred tree and can influence the availability of animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Offerings when passing
+  summary: When passing, the group offers sacrifices and presents the calumet to tutelary
+    spirits and the manes of Tchatka.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: shade or ancestor guarding a sacred tree
+  taxonomy_refs: []
+  basis: The passage states that the former chief's shade guards a sacred tree.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No axis mundi or world-center function is stated, so the available sacred_tree_axis
+    taxonomy is not applied.
+- id: motif:2
+  label: spirit control over game abundance
+  taxonomy_refs: []
+  basis: The shade is believed to procure abundant buffalo and other animals or drive
+    animals from the country.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports a belief about animal abundance but does not describe
+    a full mythic narrative.
+- id: motif:3
+  label: sacrifice and calumet presentation to tutelary spirits and manes
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says that when passing they offer sacrifices and present the
+    calumet to tutelary spirits and the manes of Tchatka.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exact contents and ritual procedure of the sacrifices are not specified.
+- id: motif:4
+  label: ritual offering to a powerful spirit associated with subsistence
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The offerings are made in a context where Tchutka's shade is believed to
+    control animal abundance or absence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage implies a relationship between offerings and spirit power,
+    but does not explicitly state a negotiated exchange or promised return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25649-25650
+  quote_or_summary: The group named in the printed text pronounces the name of Tchutka/Catka/Left
+    Hand, identified as a former chief, only with respect.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 25650-25653
+  quote_or_summary: They believe his shade guards the sacred tree and can procure
+    abundant buffalo and other animals or drive animals from the country.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 25653-25654
+  quote_or_summary: Whenever they pass, they offer sacrifices and present the calumet
+    to the tutelary spirits and manes of Tchatka.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 25654-25655
+  quote_or_summary: According to their calendar, Tchutka is Wah-kon-tangka par excellence,
+    described as the greatest man or genius to have visited their nation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from provided
+    passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR-distorted names and by the short passage. Motif
+    candidates are based only on explicit statements in the passage; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No comparison claims were added because the passage does not itself support a comparison to another text or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l25649-l25655
+  passage_sha256=15eadf1e67867f61db649602f03dd154af19c5109893345ce82b8582703b1ad8
+

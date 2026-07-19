@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l13094-l13128
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: LANGUAGE / APPENDIX III / APPENDIX III / APPENDIX III; lines 13094-13128
+  start: '13094'
+  end: '13128'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes features of a language: augmentative noun-forming
+    particles, a comparative particle used in word formation, a rich set of movement
+    verbs, several highly specific verbs, a warning expression involving a hen, and
+    stylistic features of speech and narration.'
+  language: English with cited Indigenous-language lexical items
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The particles “yam” and “yat” are described as augmentative prefixes attached
+    to nouns to form new words.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The word “ho,” glossed as “like,” is described as being frequently used in
+    a similar word-forming manner.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The language is described as especially rich in verbs of movement, including
+    multiple distinctions for going, returning, going quickly, going home, and going
+    to examine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One cited verb means going to ask food for a friend or begging for another
+    person.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One cited verb means arriving just in time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One verb describes a man following in the wake of a camp fire to pick up salvage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One verb expresses a warning in which a hen in a fit suggests that the hen
+    must be killed or the addressed person will die.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The language style is described as vivid, terse, rhythmically cadenced, and
+    attentive to euphony in narration.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The described dictionary is said to contain nearly ten thousand words, including
+    modified root verbs and augmentative noun forms.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: A speaker whose voice rises and falls in rhythmic cadence during speech
+    or narration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: man following a camp-fire wake
+  description: A man described in the gloss of a verb as following the wake of a camp
+    fire to pick up salvage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: friend
+  description: A friend for whom someone may go to ask food or beg.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: hen in a fit
+  description: A hen whose fit is used as an example of a warning sign in a verbal
+    expression.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: person addressed by warning
+  description: The implied person told that unless the hen is killed, that person
+    will die.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rhythmic speaker or narrator
+  assigned_to:
+  - fig:1
+  basis: The passage says the speaker’s voice rises and falls in rhythmic cadence,
+    with carefully chosen words in narrating.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: salvage seeker
+  assigned_to:
+  - fig:2
+  basis: The passage describes a man following a camp-fire wake to pick up salvage.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: beneficiary of food request
+  assigned_to:
+  - fig:3
+  basis: A cited verb means to go and ask food for a friend or beg for another.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: warning animal
+  assigned_to:
+  - fig:4
+  basis: A hen in a fit is the example used for an expression of warning.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: endangered addressee
+  assigned_to:
+  - fig:5
+  basis: The warning example states that unless the hen is killed, the addressed person
+    will die.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: camp fire
+  literal_form: camp fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: hen as warning sign
+  literal_form: hen in a fit
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: word formation examples
+  summary: The passage gives examples of particles and comparative forms used to form
+    new words from nouns.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: specialized verbal meanings
+  summary: The passage lists rich movement verbs and specific verbal meanings, including
+    begging food for another, arriving just in time, following a camp-fire wake for
+    salvage, and recognizing a warning involving a hen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: speech style and dictionary
+  summary: The passage describes vivid, terse, rhythmic speech and notes the size
+    and contents of the dictionary.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal condition as death warning
+  taxonomy_refs: []
+  basis: The passage gives an example in which a hen in a fit signals a warning that,
+    unless the hen is killed, the addressed person will die.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is presented as a linguistic example of a verb meaning, not as a
+    mythic narrative; no broader comparative claim is supported by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13094-13100
+  quote_or_summary: The passage states that the augmentative particles “yam” and “yat”
+    are prefixed to nouns to form new words, with examples involving grass/sugar-cane
+    and sheep/goat.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 13101-13104
+  quote_or_summary: The passage states that “ho,” glossed as “like,” is frequently
+    used in a similar manner, with an example comparing a palm-leaf and an accordion.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 13105-13110
+  quote_or_summary: The language is described as rich in terms touching daily life
+    and especially in verbs of movement, including many distinctions for forms of
+    going.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 13110-13112
+  quote_or_summary: 'The passage gives two specific verb examples: one meaning to
+    ask food for a friend or beg for another, and another meaning to arrive just in
+    time.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 13112-13114
+  quote_or_summary: The passage says another verb expresses the idea of a man following
+    in the wake of a camp fire to pick up salvage.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 13114-13116
+  quote_or_summary: 'The passage says another verb expresses a warning: a hen in a
+    fit suggests that unless the hen is killed, the addressed person will die.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 13117-13128
+  quote_or_summary: The passage describes the language as vivid and terse, with rhythmic
+    cadence and careful narration, and says the dictionary contains nearly ten thousand
+    words including modified root verbs and augmentative noun forms.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily linguistic description rather than mythic narrative.
+    Literal extraction is direct, but motif identification is limited to a cautious
+    warning-sign pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, or cross-tradition comparison is supported by the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l13094-l13128
+  passage_sha256=ca6d513e36f3db59bd397122e74136318f8798339497fba483bca1449c2621a0
+

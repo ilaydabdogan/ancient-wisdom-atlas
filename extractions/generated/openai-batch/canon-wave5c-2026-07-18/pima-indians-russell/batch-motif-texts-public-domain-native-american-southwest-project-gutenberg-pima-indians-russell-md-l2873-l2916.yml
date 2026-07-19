@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l2873-l2916
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: SCHOOLS / THE PIMA CALENDAR / NATURE OF THE EVENTS / THE FOOD SUPPLY; lines
+    2873-2916
+  start: '2873'
+  end: '2916'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Pima food supply pressures: foraging beyond villages
+    into Apache land, flood damage to canals and crops, a 1697 report by Padre Kino
+    that overflowed fields left the Pimas without pinole and offering mesquite meal
+    instead, a footnote definition of pinole, and a summary of diverse edible wild
+    plants that supplemented agriculture in a desert-like region.'
+  language: English with an embedded German quotation in a footnote
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When the Pimas went about a mile from their own villages, the passage says
+    they were in Apache land while searching for animal food, roots, berries, and
+    edible agaves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says an abundance of water could be disastrous when floods destroyed
+    canals and swept away crops.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Padre Kino is reported as saying in 1697 that overflowed fields left the Pimas
+    unable to offer him pinole, so they gave mesquite meal instead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pinole is defined in the footnote as parched corn ground into meal and mixed
+    with water to make a thin gruel; the footnote also describes it as field and travel
+    food.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that reliance on uncultivated products did not prevent
+    Pima agricultural proficiency and may often have preserved them from total extinction.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage lists edible wild plant categories: 22 plants with edible stems,
+    leaves, or flowers; 4 with roots or bulbs; 24 with seeds or nuts; and 15 with
+    fruits or berries.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The region is described as appearing to a casual visitor like a desert with
+    a few thorny shrubs and only one tree that would seem worthy of the name.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage contains an illustration caption naming “Fat Louisa.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: People whose food supply is discussed, including foraging, flood-damaged
+    agriculture, pinole, mesquite meal, and use of uncultivated plants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Apache
+  description: People associated with the land beyond the Pima villages in this passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Padre Kino
+  description: Historical reporter cited for a 1697 account of overflowed Pima fields
+    and substitute food offered to him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Papago cousins to the southward
+  description: A related group described as wholly subsisting on uncultivated products.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Fat Louisa
+  description: Named only in the illustration caption “Fig. 2. Fat Louisa.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subsistence community combining agriculture and foraging
+  assigned_to:
+  - fig:1
+  basis: The passage describes Pimas searching for wild foods, losing canals and crops
+    to floods, lacking pinole after overflowed fields, and maintaining agriculture
+    while relying on uncultivated products.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: neighboring territorial reference
+  assigned_to:
+  - fig:2
+  basis: The passage says that about a mile from Pima villages was Apache land.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: historical reporter
+  assigned_to:
+  - fig:3
+  basis: The passage cites Padre Kino’s 1697 report about overflowed fields and food
+    offered by the Pimas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparison group relying on uncultivated products
+  assigned_to:
+  - fig:4
+  basis: The passage compares Pima resort to uncultivated products with Papago cousins
+    to the southward who wholly subsisted on them.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: captioned illustration subject
+  assigned_to:
+  - fig:5
+  basis: The only information supplied is the caption naming Fat Louisa.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water and flood
+  literal_form: Abundant water, overflowed fields, and floods destroying canals and
+    crops; water also mixed with pinole.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: canals and crops
+  literal_form: Agricultural canals and crops destroyed or swept away by floods.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pinole
+  literal_form: Parched corn ground into meal and mixed with water; a thin gruel and
+    field or travel food.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: mesquite meal
+  literal_form: Food given instead of pinole after overflowed fields.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: foraged foods
+  literal_form: Animal food, roots, berries, and edible agaves sought away from Pima
+    villages.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: uncultivated edible plants
+  literal_form: Plants furnishing edible stems, leaves, flowers, roots, bulbs, seeds,
+    nuts, fruits, and berries.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: desert-like region
+  literal_form: A region appearing to a casual visitor as desert, with thorny shrubs
+    and one notable tree.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Foraging beyond the villages
+  summary: The Pimas are described as moving beyond their own villages into Apache
+    land to search for animal food, roots, berries, and edible agaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Flood damage and substitute food
+  summary: Floods destroy canals and crops; Padre Kino’s 1697 report says overflowed
+    fields left the Pimas unable to offer pinole, so they offered mesquite meal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pinole as prepared travel food
+  summary: The footnote defines pinole as parched corn meal mixed with water and describes
+    its use as field and travel food.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wild foods supplement agriculture
+  summary: The passage says uncultivated products did not prevent Pima agricultural
+    proficiency and may have preserved the people; it lists many edible plant categories
+    in a desert-like region.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: subsistence fallback after environmental disruption
+  taxonomy_refs: []
+  basis: Floods damage agricultural infrastructure and crops; a report says the Pimas
+    lacked pinole after overflowed fields and offered mesquite meal instead; the passage
+    later says uncultivated products may have preserved them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern, not a mythological motif
+    in the passage.
+- id: motif:2
+  label: agriculture supplemented by wild plant diversity
+  taxonomy_refs: []
+  basis: The passage says the Pimas attained agricultural proficiency while resorting
+    to uncultivated products and lists numerous edible plant types available in the
+    region.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No sacred or mythic interpretation is stated; the pattern is literal and
+    historical/ethnographic.
+- id: motif:3
+  label: borderland foraging into neighboring territory
+  taxonomy_refs: []
+  basis: The Pimas are described as entering Apache land when a mile from their own
+    villages while seeking animal food, roots, berries, and edible agaves.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a practical territorial and subsistence description,
+    not a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Pima resort to uncultivated products with
+    their Papago cousins to the southward, who are said to have wholly subsisted on
+    such products.
+  claim_level: same_function
+  target: Papago cousins to the southward; uncultivated-product subsistence
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a passage-level ethnographic comparison of subsistence function
+    only; it does not support claims of mythic equivalence, historical contact, or
+    common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2873-2878
+  quote_or_summary: The passage says that when the Pimas went about a mile from their
+    villages they were in Apache land, searching for animal food, roots, berries,
+    and especially edible agaves.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path is supplied under a public-domain collection; summarized
+    evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2879-2886
+  quote_or_summary: 'Abundant water could be disastrous: floods destroyed canals and
+    swept away crops; Padre Kino reportedly said in 1697 that overflowed fields left
+    the Pimas unable to offer pinole and giving mesquite meal instead.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path is supplied under a public-domain collection; summarized
+    evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2887-2907, footnote on pinole
+  quote_or_summary: The footnote defines pinole as parched corn ground into meal and
+    mixed with water as a thin gruel, and includes a German description of maize prepared
+    as field and travel food.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path is supplied under a public-domain collection; summarized
+    evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2908-2916
+  quote_or_summary: The passage says resort to uncultivated products, like those used
+    by Papago cousins to the southward, did not prevent Pima agricultural proficiency
+    and may have preserved them; it lists edible plant categories and describes the
+    region as desert-like to visitors.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path is supplied under a public-domain collection; summarized
+    evidence.
+- id: ev:5
+  type: quote
+  locator: line 2879
+  quote_or_summary: "“Fig. 2. Fat Louisa.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path is supplied under a public-domain collection; short excerpt
+    used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for food supply, flood damage, and plant-use
+    details. Motif candidates are framed as ethnographic patterns rather than mythological
+    motifs because the passage does not present a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures, sacred actions, or explicit cosmological symbols are present in this passage. Available taxonomy symbol ref “water” is used only for the literal water/flood imagery; no motif-family taxonomy refs were applied.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l2873-l2916
+  passage_sha256=a14d8eeb320efe4235df4aaffbc646f048356969961745552aef3ca958eac66c
+

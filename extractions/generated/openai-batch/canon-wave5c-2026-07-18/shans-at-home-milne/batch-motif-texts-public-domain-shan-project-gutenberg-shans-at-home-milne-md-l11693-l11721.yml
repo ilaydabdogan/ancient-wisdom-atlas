@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l11693-l11721
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE STORY OF U-TAIN / THE STORY OF THE RAINBOW / THE STORY OF LITTLE THUMB
+    / THE WOLF AND THE MAN; lines 11693-11721
+  start: '11693'
+  end: '11721'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fox tells a wolf that man is the strongest animal. The wolf doubts this,
+    attacks a hunter in the jungle, and is wounded by the hunter's gun and knife.
+    Afterward the wolf explains the weapons in animal terms and still denies that
+    the man himself is strong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fox tells a wolf that man is the strongest animal, and the wolf does not
+    believe it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox and wolf walk in the jungle and meet a man.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf calls the man a two-legged beast and says he cannot believe the man
+    is stronger than he is.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man is identified as a hunter and has a gun with him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wolf rushes at the hunter and tries to tear his throat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hunter fires small shot at the wolf and then stabs the wolf several times
+    with a knife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolf crawls away badly wounded.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The fox asks the wolf whether he has beaten the man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wolf says the man put a stick into his mouth, blew it toward him, and
+    something came out and stung him like thunder and lightning.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The wolf says the man took a bone from his body and thrust it into him, but
+    he still does not believe the man himself is strong.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fox
+  description: The fox tells the wolf that man is the strongest animal and later asks
+    whether the wolf has beaten the man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: wolf
+  description: The wolf doubts the fox's claim, attacks the hunter, is wounded, and
+    interprets the hunter's weapons in his own terms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: man / hunter
+  description: The man is a hunter carrying a gun; he fires at and stabs the attacking
+    wolf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: informant and questioner
+  assigned_to:
+  - fig:1
+  basis: The fox states that man is the strongest animal and later asks the wolf whether
+    he defeated the man.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: skeptical attacker and wounded animal
+  assigned_to:
+  - fig:2
+  basis: The wolf refuses to believe the claim about man's strength, attacks the hunter,
+    is wounded, and continues to deny the man's strength.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: hunter and defender
+  assigned_to:
+  - fig:3
+  basis: The man is identified as a hunter with a gun and uses both gun and knife
+    against the attacking wolf.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: gun as misunderstood weapon
+  literal_form: hunter's gun; in the wolf's speech, a stick put into the mouth and
+    blown
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: knife as misunderstood weapon
+  literal_form: hunter's knife; in the wolf's speech, a bone taken from the man's
+    body
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: thunder and lightning image
+  literal_form: the wolf compares the gun's effect to thunder and lightning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: claim about human strength and jungle encounter
+  summary: The fox says man is the strongest animal; the wolf doubts this, and the
+    two animals meet a man in the jungle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: wolf attacks hunter and is wounded
+  summary: The wolf attacks the hunter, who shoots and stabs him, forcing the wolf
+    to crawl away badly wounded.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: wolf explains the defeat
+  summary: The fox asks whether the wolf defeated the man; the wolf describes the
+    gun and knife in unfamiliar terms and still denies that man is strong.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal challenges human strength and is defeated by human weapons
+  taxonomy_refs: []
+  basis: The wolf doubts that man is strongest, attacks a hunter, and is defeated
+    by the hunter's gun and knife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif label summarizes
+    the narrative action only.
+- id: motif:2
+  label: animal misinterprets human tools
+  taxonomy_refs: []
+  basis: The wolf describes the gun as a stick put into the mouth and the knife as
+    a bone taken from the man's body.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The interpretation is limited to the wolf's reported description of the
+    weapons.
+- id: motif:3
+  label: defeated skeptic refuses to accept the lesson
+  taxonomy_refs: []
+  basis: Even after being badly wounded, the wolf says he still does not believe the
+    man himself is strong.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage implies persistence in disbelief, but does not provide an
+    explicit narrator's judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11693-11698
+  quote_or_summary: A fox tells a wolf that man is the strongest animal; the wolf
+    does not believe it, and the two go walking in the jungle and meet a man.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Repository path indicates public-domain source; explicit rights_status
+    not provided in metadata.
+- id: ev:2
+  type: quote
+  locator: 11700-11701
+  quote_or_summary: '"I cannot believe that this twolegged beast is stronger than
+    I am."'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Repository path indicates public-domain source; explicit rights_status
+    not provided in metadata.
+- id: ev:3
+  type: summary
+  locator: 11703-11710
+  quote_or_summary: The man is a hunter with a gun; the wolf attacks him, the hunter
+    fires small shot and then stabs the wolf with a knife, and the wolf crawls away
+    badly wounded.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Repository path indicates public-domain source; explicit rights_status
+    not provided in metadata.
+- id: ev:4
+  type: summary
+  locator: 11712-11713
+  quote_or_summary: The fox asks the wolf whether he has beaten the man.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Repository path indicates public-domain source; explicit rights_status
+    not provided in metadata.
+- id: ev:5
+  type: summary
+  locator: 11715-11721
+  quote_or_summary: The wolf says the man used a stick in his mouth that stung like
+    thunder and lightning, then used a bone from his body, yet the wolf still denies
+    that the man himself is strong.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Repository path indicates public-domain source; explicit rights_status
+    not provided in metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage gives clear actions, figures, and objects. Motif candidates are
+    descriptive and passage-internal. No comparison claims are made because the passage
+    itself does not establish a specific external parallel or tradition-level comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned; the supplied taxonomy list did not include a specific match for the passage-level weapon-misrecognition or animal-fable pattern.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l11693-l11721
+  passage_sha256=d9d554572f9a32dc12b3a8f24442c53236ec1e118b497474cb40e924a41895db
+

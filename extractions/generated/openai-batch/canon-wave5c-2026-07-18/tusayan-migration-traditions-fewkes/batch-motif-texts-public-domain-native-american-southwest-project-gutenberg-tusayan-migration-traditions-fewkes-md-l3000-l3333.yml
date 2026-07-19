@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-tusayan-migration-traditions-fewkes-md-l3000-l3333
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+passage_locator:
+  label: TUSAYAN MIGRATION TEADITIONS / HANO CLANS / HANO CLANS / HANO CLANS; lines
+    3000-3333
+  start: '3000'
+  end: '3333'
+  translation: tusayan-migration-traditions-fewkes
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a census-style list of Hano clans. It names clan subsections
+    associated with tobacco, corn, bear, and pine, and gives entries under male and
+    female headings. The excerpt is tabular/list material rather than a narrated migration
+    episode.
+  language: English headings with transcribed Indigenous names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Hano clan material and identifies itself as a census
+    of Hano clans.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Four clan subsections are named in the supplied excerpt: Sa/Tobacco, Kolon/Corn,
+    Ke/Bear, and Teniik/Pine.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: Each named clan subsection separates entries under headings for men and boys
+    and for women and girls.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The passage consists mainly of personal-name or name-like entries in lists,
+    with some repeated or marked entries affected by OCR uncertainty and symbols.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: 'The clan labels include plant and animal terms: tobacco, corn, bear, and
+    pine.'
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: No narrated action, deity, origin event, or migration episode is described
+    within the supplied lines.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hano clans
+  description: Collective subject of the census-style list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sa or Tobacco clan
+  description: A listed Hano clan subsection with entries under male and female headings;
+    the OCR text reads “Sa or Tobacco dan.”
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Kolon or Corn clan
+  description: A listed Hano clan subsection with entries under male and female headings;
+    the OCR text reads “Kolon or Corn dan.”
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ke or Bear clan
+  description: A listed Hano clan subsection with entries under male and female headings.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Teniik or Pine clan
+  description: A listed Hano clan subsection with entries under male and female headings.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: census subject
+  assigned_to:
+  - fig:1
+  basis: The excerpt is headed “HANO CLANS” and “Censtts of Hano Clans.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named clan subsection
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage names separate clan subsections for Tobacco, Corn, Bear, and
+    Pine.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: clan with gender-separated member entries
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each clan subsection is followed by headings for “Men and boys” and “Women
+    and girls.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Tobacco clan label
+  literal_form: Tobacco
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Corn clan label
+  literal_form: Corn
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Bear clan label
+  literal_form: Bear
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Pine clan label
+  literal_form: Pine
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Census enumeration of Hano clans
+  summary: The passage enumerates Hano clan subsections and lists names under male
+    and female headings for each subsection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Eponymous natural-kind clan names
+  taxonomy_refs: []
+  basis: The clan subsections are identified by tobacco, corn, bear, and pine labels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a census list, not a mythic narrative; no ritual, cosmological,
+    or origin interpretation is stated in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3000-3333, heading
+  quote_or_summary: The passage is headed “HANO CLANS” and “Censtts of Hano Clans.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+- id: ev:2
+  type: summary
+  locator: lines 3000-3333, Sa/Tobacco subsection
+  quote_or_summary: A subsection labeled “Sa or Tobacco dan” lists entries under “Men
+    and boys” and “Women and girls.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+- id: ev:3
+  type: summary
+  locator: lines 3000-3333, Kolon/Corn subsection
+  quote_or_summary: A subsection labeled “Kolon or Corn dan” lists entries under “Men
+    and boys” and “Women and girls.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+- id: ev:4
+  type: summary
+  locator: lines 3000-3333, Ke/Bear subsection
+  quote_or_summary: A subsection labeled “Ke or Bear clan” lists entries under “Men
+    and boys” and “Women and girls.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+- id: ev:5
+  type: summary
+  locator: lines 3000-3333, Teniik/Pine subsection
+  quote_or_summary: A subsection labeled “Teniik or Pine clan” lists entries under
+    “Men and boys” and “Women and girls.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+- id: ev:6
+  type: note
+  locator: lines 3000-3333
+  quote_or_summary: The transcription includes uncertain OCR/gender-mark artifacts
+    in repeated entries, including characters such as “?”, “$”, “cf”, “9”, and “d*.”
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  rights_note: Rights status not supplied in metadata; repository path indicates a
+    public-domain Project Gutenberg source.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Clan labels and gender headings are clear, but the passage is OCR-corrupted
+    and largely tabular. The single motif candidate is treated as a social-symbolic
+    naming pattern, not as a narrated mythic motif. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied lines contain census/list material from the Hano clans section. No external cultural identifications, translations, or comparative claims were added.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-tusayan-migration-traditions-fewkes-md__l3000-l3333
+  passage_sha256=4dd5f955bee022d962ed626ba7a4cb2354431bbf0baccebf4c02abecc837b6ec
+

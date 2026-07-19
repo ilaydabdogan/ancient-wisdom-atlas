@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l631-l657
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: PREFACE. XXV / XXVI PREFACE. / PREFACE. XXIX / XXX PREFACE.; lines 631-657
+  start: '631'
+  end: '657'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A preface note explains transliteration choices for Chinese, gives brief
+    pronunciation guidance, states that an asterisk will mark passages in the Shu
+    containing religious ideas, and ends with the editor's initials, place, and date.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage discusses efforts to make transliteration conform to a scheme
+    used across the Sacred Books of the East volumes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chinese is described as having no alphabet, making alphabetic transliteration
+    difficult at first.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The reader is told that not all Chinese diphthongs could be included in the
+    table and is given pronunciation guidance for i before another vowel or diphthong.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reader is told that an asterisk will be appended to passages in the Shu
+    that embody religious ideas more or less distinctly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note is signed with the initials J.L. at Oxford and dated 18 April 1879.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sir T. F. Wade
+  description: Named as the source for the form of the capital in his Hsin Ching Lu
+    and Tzu Erh Chi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Professor Max Müller
+  description: Named in connection with a scheme for transliteration of oriental alphabets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: J.L.
+  description: Initials of the person signing the preface note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: reader
+  description: The addressed recipient of pronunciation and annotation guidance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: cited transliteration authority
+  assigned_to:
+  - fig:1
+  basis: Sir T. F. Wade is cited for forms given in named works.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transliteration scheme author
+  assigned_to:
+  - fig:2
+  basis: Professor Max Müller is named in relation to a transliteration scheme.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: preface signatory
+  assigned_to:
+  - fig:3
+  basis: The initials J.L. appear with place and date at the end of the passage.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: addressee of editorial guidance
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly directs information to the reader.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: asterisk as editorial marker
+  literal_form: asterisk (*)
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of transliteration practice
+  summary: The preface explains the adaptation of Chinese transliteration to named
+    romanization and transliteration schemes, noting the difficulty caused by Chinese
+    lacking an alphabet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explanation of annotation marker
+  summary: The preface states that an asterisk will mark passages in the Shu that
+    contain religious ideas.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Preface signature
+  summary: The note ends with initials, location, and date.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 631-643
+  quote_or_summary: The note refers to Sir T. F. Wade's works and Max Müller's transliteration
+    scheme, and says Chinese has no alphabet.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights metadata was not supplied in the request.
+- id: ev:2
+  type: summary
+  locator: lines 643-648
+  quote_or_summary: The note says not all Chinese diphthongs could be put in the table
+    and gives pronunciation guidance for i, r, and ze.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights metadata was not supplied in the request.
+- id: ev:3
+  type: quote
+  locator: lines 650-652
+  quote_or_summary: '"an asterisk (*) will be found appended" to passages in the Shu
+    containing religious ideas.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights metadata was not supplied in the request.
+- id: ev:4
+  type: summary
+  locator: lines 654-656
+  quote_or_summary: The note is signed J.L., Oxford, 18 April 1879.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights metadata was not supplied in the request.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is editorial preface material rather than mythic or narrative
+    content; no candidate myth motifs or comparison claims are supported by the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or listed symbol is applicable to this editorial passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l631-l657
+  passage_sha256=1bde83ea42af73d8aacd7a6e01494af31f9e205164f2ae7b10855043b21550ce
+

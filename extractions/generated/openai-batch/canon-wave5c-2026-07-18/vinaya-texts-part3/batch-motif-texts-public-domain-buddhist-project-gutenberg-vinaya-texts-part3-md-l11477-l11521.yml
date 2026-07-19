@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l11477-l11521
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VII, 3, 5- / VII, 3, 7 - / DISSENSIONS IN T1IE ORDER. / VII, 3 , 7-; lines
+    11477-11521
+  start: '11477'
+  end: '11521'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: "“Come hither, friend, don’t be afraid.”"
+  summary: An armed man, frightened after approaching with murderous intent, is reassured
+    by the Blessed One. He lays aside his weapons, confesses his wrongdoing, receives
+    acceptance of his confession, hears a discourse, takes refuge as a disciple, and
+    is sent away by a different path.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man is described as terrified, anxious, excited, alarmed, and standing
+    stiffly still.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blessed One sees the man’s fear and tells him to come near and not be
+    afraid.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man lays aside a sword and shield and removes a bow and quiver before
+    approaching the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man falls at the Blessed One’s feet and confesses that he came with evil
+    and murderous intent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Blessed One accepts the confession after stating that recognizing sin
+    as sin, making amends, and future restraint constitute progress in the discipline
+    of the Noble One.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Blessed One gives a discourse in due order to the man.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man asks to be accepted as a disciple who has taken refuge in the Blessed
+    One for life.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Blessed One tells the man not to leave by one path, but to go by another
+    path.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Blessed One
+  description: The teacher who reassures the armed man, accepts his confession, discourses
+    to him, and directs him to depart by another path.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: The man
+  description: A frightened armed man who had come with evil and murderous intent,
+    lays aside his weapons, confesses, and asks to be accepted as a disciple taking
+    refuge.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: reassuring holy teacher
+  assigned_to:
+  - fig:1
+  basis: He tells the frightened man to come near and not be afraid.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: receiver of confession and instructor
+  assigned_to:
+  - fig:1
+  basis: He accepts the man’s confession, explains amendment and restraint, and discourses
+    to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: armed would-be attacker
+  assigned_to:
+  - fig:2
+  basis: The man has sword, shield, bow, and quiver, and confesses that he came with
+    murderous intent.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: penitent confessor
+  assigned_to:
+  - fig:2
+  basis: The man falls at the Blessed One’s feet and asks that his sin be accepted
+    as confessed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: new disciple taking refuge
+  assigned_to:
+  - fig:2
+  basis: After the discourse, the man asks to be accepted as a disciple who has taken
+    refuge for life.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: laid-aside weapons
+  literal_form: sword, shield, bow, and quiver
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: falling at the feet
+  literal_form: gesture of falling at the Blessed One’s feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: alternate path
+  literal_form: a different path by which the man is dismissed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: taking refuge
+  literal_form: verbal commitment to take refuge in the Blessed One for life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fearful armed approach
+  summary: The armed man stands terrified and stiff before the Blessed One, who reassures
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Disarming and confession
+  summary: The man lays aside his weapons, approaches, falls at the Blessed One’s
+    feet, and confesses his murderous intent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Acceptance of confession
+  summary: The Blessed One accepts the confession and states that seeing sin as sin,
+    making amends, and future restraint are progress in the Noble One’s discipline.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Discourse and refuge
+  summary: The Blessed One discourses to the man, and the man asks to be accepted
+    as a disciple taking refuge for the rest of his life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Dismissal by another path
+  summary: The Blessed One instructs the man not to leave by one path but to go by
+    another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: would-be attacker disarmed by encounter with holy figure
+  taxonomy_refs: []
+  basis: The man comes armed and later confesses murderous intent, but after the Blessed
+    One reassures him he lays aside his weapons and approaches in submission.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the transformed behavior but does not explicitly describe
+    a miraculous or supernatural disarming.
+- id: motif:2
+  label: confession, amendment, and future restraint
+  taxonomy_refs: []
+  basis: The man confesses wrongdoing, and the Blessed One accepts the confession
+    while emphasizing recognition of sin, making amends, and restraint in future.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is framed as disciplinary progress rather than a mythic transformation
+    episode in itself.
+- id: motif:3
+  label: conversion through discourse and taking refuge
+  taxonomy_refs:
+  - initiation
+  basis: After the Blessed One’s discourse, the man asks to be accepted as a disciple
+    and declares lifelong refuge.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference to initiation is approximate; the passage’s wording
+    supports conversion and discipleship, while formal initiation details are not
+    supplied here.
+- id: motif:4
+  label: redirected departure by another path
+  taxonomy_refs: []
+  basis: The Blessed One instructs the man not to leave by one path but by another
+    path.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The reason for the alternate path is not explained within the supplied
+    passage, so symbolic or protective significance cannot be asserted.
+comparison_claims:
+- id: claim:1
+  claim: The discourse and taking refuge are presented as part of a recurring conversion
+    pattern within the cited Vinaya material.
+  claim_level: same_function
+  target: standard conversion sequence noted in the passage footnote, with a comparison
+    to another Cullavagga passage
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage note indicates a usual conversion formula but does not
+    reproduce the full parallel text in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11477-11480
+  quote_or_summary: "“terrified, anxious, excited, and alarmed, he stood stark still
+    and stiff”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:2
+  type: quote
+  locator: lines 11481-11483
+  quote_or_summary: 'The Blessed One says to the man: “Come hither, friend, don’t
+    be afraid.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 11484-11493
+  quote_or_summary: The man lays aside his sword and shield, removes his bow and quiver,
+    approaches the Blessed One, falls at his feet, and confesses that he came with
+    evil and murderous intent.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:4
+  type: summary
+  locator: lines 11496-11504
+  quote_or_summary: The Blessed One states that transgression overcame the man, accepts
+    the confession because the man sees his sin as sin and makes amends, and says
+    future restraint is progress in the Noble One’s discipline.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:5
+  type: summary
+  locator: lines 11506-11510
+  quote_or_summary: The Blessed One discourses to the man in due order, and the man
+    asks to be accepted as a disciple taking refuge from that day forth as long as
+    life endures.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:6
+  type: quote
+  locator: lines 11512-11515
+  quote_or_summary: 'The Blessed One says: “Do not, my friend, leave me by that path.
+    Go by this path,” and dismisses him another way.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+- id: ev:7
+  type: note
+  locator: footnote 3, line 11521
+  quote_or_summary: 'The note states: “See, for instance, Cullavagga VI, 4, 5,” referring
+    to the usual conversion formula summarized in the passage.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source metadata rights_status not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is disciplinary and conversional rather than explicitly mythic. The
+    comparison claim relies on the passage’s own editorial note about usual conversions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the available list and applied only where directly supported by conversion/disciple language.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l11477-l11521
+  passage_sha256=f0d8c44dbd42841d201816cb779568092965b69b5103e8de1c07ee005c0e2b57
+

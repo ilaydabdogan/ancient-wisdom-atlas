@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l5336-l5377
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / DREAMS; lines 5336-5377
+  start: '5336'
+  end: '5377'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a man’s dream of ostriches, the group’s confidence
+    that the dream indicated nearby game, and their plan to hunt at dawn. It then
+    gives the author’s explanation that dreams support superstition and witchcraft
+    beliefs, and that nighttime sounds, conversation near fires, bodily discomfort,
+    evening eating, and indigestion may influence dreams or nightmares.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One man had a dream in which he saw ostriches in the district.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The audience was interested because ostrich flesh was liked and ostrich feathers
+    were valued for ornament and barter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group was convinced that they would find the game and began arranging
+    a hunt for daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author states that witchcraft is sustained by superstitions supported
+    by dreams.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author reports that, in his experience, not all occupants of an Indian
+    village slept at the same time during the night.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During sleeping hours, some people conversed around fires in an ordinary tone
+    of voice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Nocturnal sounds and ordinary actions are described as suggestions to sleepers
+    that may give rise to related dreams.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says whispering words in a sleeper’s ear may induce a dream corresponding
+    to those words.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The author connects rheumatism, exposure, evening eating, indigestion, and
+    bodily pain with nightmares or intense sensations during sleep.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dreamer
+  description: One of the men who dreamed of ostriches in the district.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: interested audience / prospective hunters
+  description: The people listening to the dream report, convinced that they would
+    find the game and arranging a hunt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ostriches
+  description: Birds seen in the dream and desired for flesh, feathers, ornament,
+    and barter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: nighttime speakers around fires
+  description: People sitting around fires and conversing during sleeping hours.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sleepers
+  description: Village sleepers who may be influenced by nearby speech, nocturnal
+    sounds, ordinary actions, or bodily discomfort.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: dream recipient
+  assigned_to:
+  - fig:1
+  basis: The man is described as having had a dream of ostriches.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream audience and planned hunters
+  assigned_to:
+  - fig:2
+  basis: They listen with interest, believe the game will be found, and arrange the
+    hunt.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dreamed game animal
+  assigned_to:
+  - fig:3
+  basis: Ostriches appear in the dream and are the object of the proposed hunt.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: nocturnal speakers
+  assigned_to:
+  - fig:4
+  basis: Some people sit around fires and converse while others sleep.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: dreamers affected by sounds or bodily sensations
+  assigned_to:
+  - fig:5
+  basis: Sleepers are described as susceptible to dreams induced by surrounding sounds,
+    whispered words, and physical pains.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ostriches in dream
+  literal_form: ostriches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: night fires
+  literal_form: fires around which people sit and converse at night
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: nocturnal soundscape
+  literal_form: wolves howling, birds crying, wind rustling, sharpening arrow-points,
+    chopping wood, pouring out water
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dream of ostriches and hunt preparation
+  summary: A man reports dreaming of ostriches nearby; the listeners believe the dream
+    indicates game and prepare to hunt at dawn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night village conditions influencing dreams
+  summary: In a village at night, some remain awake and speak around fires while sleepers
+    may be influenced by voices, animal cries, wind, and ordinary tasks.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bodily causes associated with nightmare
+  summary: The author attributes nightmares and intense dream sensations partly to
+    exposure, rheumatism, evening meals, indigestion, and pains felt during sleep.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dream as practical hunting omen
+  taxonomy_refs: []
+  basis: The group treats the dream of ostriches as reliable evidence that game will
+    be found and plans a hunt at dawn.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic description rather than a myth narrative; no supplied
+    taxonomy family directly matches a dream-omen motif.
+- id: motif:2
+  label: dreams sustaining witchcraft belief
+  taxonomy_refs: []
+  basis: The passage explicitly states that witchcraft is supported by superstitions
+    and dreams.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The statement is the author’s general interpretation; the excerpt gives
+    no detailed witchcraft episode.
+- id: motif:3
+  label: environment-induced dream imagery
+  taxonomy_refs: []
+  basis: Voices, nocturnal animal sounds, wind, and ordinary actions are described
+    as suggestions that may generate corresponding dreams in sleepers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is framed as an explanatory pattern rather than a traditional narrative
+    motif.
+- id: motif:4
+  label: bodily distress producing nightmare
+  taxonomy_refs: []
+  basis: The author links rheumatism, indigestion, evening eating, and pains during
+    sleep with nightmares or acute dream sensations.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is explanatory and medicalized; it does not present a symbolic
+    or mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5336-5346
+  quote_or_summary: A man dreams of ostriches in the district; because ostrich flesh
+    and feathers are valued, listeners are excited, believe the game will be found,
+    and plan a dawn hunt.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 5348-5352
+  quote_or_summary: The author says witchcraft would almost cease without superstitions
+    supported by dreams, then introduces examples and remarks on night habits.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 5352-5364
+  quote_or_summary: The author reports that not everyone in an Indian village sleeps
+    at the same time; some converse around fires, and night sounds or ordinary actions
+    may suggest dreams to sleepers.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 5365-5367
+  quote_or_summary: The passage notes that whispering a few words in a sleeper’s ear
+    may induce a dream matching their meaning.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 5369-5377
+  quote_or_summary: The author links rheumatism, exposed living, evening eating, indigestion,
+    and bodily pain with nightmare and intense sensations during sleep.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive because
+    the excerpt is ethnographic commentary on dreams rather than a myth narrative.
+    No comparison claims were generated from the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata does not specify tradition, culture, text language, or rights status. The passage uses the author’s historical terminology and interpretations.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l5336-l5377
+  passage_sha256=19d1c20ccb25912311558537ddec5ceec43dfc075131ac52708479833a997b1a
+

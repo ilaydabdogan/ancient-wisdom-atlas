@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md-l3977-l3991
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: MEDICINAL PIJINTS / ANIMALS USED FOR FOOD / DOMESTICATION OF ANIMALS / METHODS;
+    lines 3977-3991
+  start: '3977'
+  end: '3991'
+  translation: pima-indians-russell
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Pima village located too far from the river for
+    direct water access, its dependence on flood irrigation, the clearing of mesa-slope
+    fields, the building of low dikes to retain runoff from summer rains, and stony
+    rectangular field remains near Santan. A note compares these stone-row field patterns
+    with similar boulder arrangements observed elsewhere in the Southwest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Pima village southwest of the Maricopa wells was too far from the river
+    to obtain water from it and depended on flood irrigation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Kwahadk's, described as kinsfolk and neighbors,
+    also depended on flood irrigation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fields were cleared on mesa slopes so that water from surrounding hills could
+    be conducted over them during summer rains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Low dikes were raised around the lower sides of small fields to catch and
+    retain water.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On slopes of the Santan hills north of the present Pima village of Santan,
+    several hundred acres of stony mesa had been cleared and cultivated.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rocks on the stony mesa had been gathered in rows enclosing rectangular areas
+    only a few square yards in extent.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The described locality enclosed about six clumps of creosote bush and adjoined
+    a large ancient canal.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says the writer had seen extensive areas elsewhere in the Southwest
+    where loose boulders were gathered in heaps or rows dividing ground into rectangles
+    averaging about five meters to a side.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pima village southwest of the Maricopa wells
+  description: A village too far from the river for direct water access and dependent
+    on flood irrigation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Kwahadk's
+  description: Kinsfolk and neighbors of the Pima village, described as also depending
+    on flood irrigation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Writer
+  description: The observing author who reports having seen similar boulder arrangements
+    at various places in the Southwest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: flood-irrigation-dependent community
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the Pima village and the Kwahadk's depended on flood
+    irrigation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mesa-slope field makers or users
+  assigned_to:
+  - fig:1
+  basis: The passage says fields were cleared on mesa slopes and dikes raised to conduct,
+    catch, and retain water.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ethnographic observer
+  assigned_to:
+  - fig:3
+  basis: The note identifies the writer as having observed similar boulder field arrangements
+    in other Southwestern locations.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water and runoff
+  literal_form: River water, water from surrounding hills, and summer-rain runoff
+    used for flood irrigation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mesa-slope fields
+  literal_form: Cleared fields on mesa slopes positioned to receive water from surrounding
+    hills.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dikes and stone rows
+  literal_form: Low dikes and rows of gathered rocks enclosing small rectangular field
+    areas.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: ancient canal
+  literal_form: A large ancient canal adjoining the locality with cleared and cultivated
+    stony mesa fields.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Village dependence on flood irrigation
+  summary: A Pima village far from the river relies on flood irrigation, in a manner
+    compared with the neighboring Kwahadk's.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mesa-slope water capture
+  summary: Fields are cleared on mesa slopes, and low dikes are raised so runoff from
+    summer rains can be conducted over fields and retained.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Stony rectangular fields near Santan
+  summary: Several hundred acres of stony mesa near Santan show cleared and cultivated
+    ground, with rocks arranged in rows enclosing small rectangular areas and an ancient
+    canal nearby.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Southwestern comparison of boulder-row fields
+  summary: The writer notes similar Southwestern sites where loose boulders were gathered
+    into heaps or rows dividing ground into rectangular plots.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: runoff capture for cultivation
+  taxonomy_refs: []
+  basis: The passage repeatedly describes agricultural reliance on flood irrigation,
+    summer-rain runoff, mesa-slope fields, and low dikes for catching and retaining
+    water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic and agricultural pattern, not evidence for a mythological
+    flood motif; no available motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: stone-cleared rectangular field enclosures
+  taxonomy_refs: []
+  basis: The passage describes rocks gathered in rows enclosing small rectangular
+    areas near Santan and notes similar boulder-row rectangles elsewhere in the Southwest.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a material landscape pattern, but it does not establish
+    chronology, cultural transmission, or symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The Pima village and the Kwahadk's are presented as sharing the same dependence
+    on flood irrigation.
+  claim_level: same_function
+  target: Kwahadk's flood-irrigation dependence
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to irrigation dependence; no broader cultural
+    or mythological equivalence is stated.
+- id: claim:2
+  claim: The Santan stone-row field pattern is visually similar to boulder arrangements
+    the writer observed at other Southwestern locations.
+  claim_level: visual_similarity
+  target: Other Southwestern boulder heaps or rows dividing ground into rectangular
+    plots
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports visual similarity only; it does not demonstrate shared
+    origin, contact, date, function, or symbolic interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3977-3980
+  quote_or_summary: A Pima village southwest of the Maricopa wells was too far from
+    the river for direct water access and depended, like the Kwahadk's, on flood irrigation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates public-domain Project Gutenberg; explicit rights_status
+    was not supplied.
+- id: ev:2
+  type: summary
+  locator: 3980-3983
+  quote_or_summary: To use summer-rain runoff, fields were cleared on mesa slopes
+    and low dikes were raised around their lower sides to catch and retain water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates public-domain Project Gutenberg; explicit rights_status
+    was not supplied.
+- id: ev:3
+  type: summary
+  locator: 3984-3988
+  quote_or_summary: On the Santan hills north of the present Pima village of Santan,
+    several hundred acres of stony mesa had been cleared and cultivated, with rocks
+    gathered in rows enclosing small rectangular areas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates public-domain Project Gutenberg; explicit rights_status
+    was not supplied.
+- id: ev:4
+  type: summary
+  locator: '3988'
+  quote_or_summary: The locality contains about six enclosed clumps of creosote bush
+    and adjoins a large ancient canal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates public-domain Project Gutenberg; explicit rights_status
+    was not supplied.
+- id: ev:5
+  type: summary
+  locator: 3989-3991
+  quote_or_summary: A note reports that the writer had seen similar Southwestern areas
+    where loose boulders were gathered in heaps or rows dividing ground into rectangles
+    averaging about five meters to a side; the passage excerpt is incomplete after
+    mentioning a lava-strewn mesa.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Source path indicates public-domain Project Gutenberg; explicit rights_status
+    was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnographic and agricultural rather than mythological.
+    Literal landscape and water-management patterns are clear, but mythological motif-family
+    mapping is not supported by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological beings, sacred narrative actions, or available motif-family taxonomy references are directly supported. The available symbol reference 'water' is used only for the literal water/runoff imagery present in the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-pima-indians-russell-md__l3977-l3991
+  passage_sha256=4bbdb1c5fc0edd6f56daf05f2e7c363f04822f0181df44a4cd62c7c9b34e8e62
+

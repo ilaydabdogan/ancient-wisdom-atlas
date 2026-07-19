@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l264-l294
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER VI / CHAPTER Vn / CHAPTER VIII / THE ANNUAL TRADING EXPEDITION TO
+    THE PAPUAN; lines 264-294
+  start: '264'
+  end: '294'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents passage lists chapter topics: conception, pregnancy,
+    labour, care of child, puerperium, twins; land tenure, women in relation to land,
+    personal property, and inheritance; markets; and an annual trading expedition,
+    including an origin legend, voyage procedures, arrival, return journey, customs
+    during absence, vessel size, cargoes, crew, sago value, return visits, and language.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists topics concerning conception, pregnancy, childbirth, care
+    of a child, puerperium, and twins.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists topics concerning land tenure, women in relation to land,
+    personal property, and inheritance of personal and real property.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A chapter heading identifies markets as a topic.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A chapter heading identifies an annual trading expedition as a topic.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listed subtopics for the trading expedition include a legend of origin,
+    customs and procedures before the voyage, arrival in the Gulf, the return journey,
+    customs during the absence of the Lakatoi, size, cargoes, crew, sago value and
+    price, return visits of Gulf natives, and Lakatoi language.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Women
+  description: Mentioned in relation to land in a chapter topic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gulf natives
+  description: Mentioned as making return visits in the annual trading expedition
+    chapter topics.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Lakatoi crew
+  description: Mentioned as the crew associated with Lakatoi cargoes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: group connected with land relations
+  assigned_to:
+  - fig:1
+  basis: The contents list includes women in relation to land.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: return visitors
+  assigned_to:
+  - fig:2
+  basis: The contents list includes return visits of Gulf natives.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: vessel crew
+  assigned_to:
+  - fig:3
+  basis: The contents list includes Lakatoi cargoes and crew.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Lakatoi
+  literal_form: Named vessel or expedition term associated with arrival, absence customs,
+    cargoes, crew, and language.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Asi
+  literal_form: Named item or vessel type whose size is listed with Lakatoi.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Sago
+  literal_form: Trade good whose value and price are listed as a topic.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Gulf
+  literal_form: Destination or place of arrival for Lakatoi in the expedition chapter
+    topics.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Life-cycle and kinship topics
+  summary: The contents passage lists conception, pregnancy, childbirth, care of a
+    child, puerperium, and twins as topics.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Land and inheritance topics
+  summary: The contents passage lists land tenure, women in relation to land, personal
+    property, and inheritance of personal and real property.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Annual trading expedition outline
+  summary: The contents passage outlines an annual trading expedition with an origin
+    legend, pre-voyage procedures, arrival, return, absence customs, vessel size,
+    cargoes, crew, sago valuation, return visits, and language.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin legend for a trading expedition
+  taxonomy_refs: []
+  basis: The chapter outline explicitly lists a legend of origin for the annual trading
+    expedition, but gives no narrative details.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is only a table-of-contents heading; the actual legend and its motifs
+    are not included in the passage.
+- id: motif:2
+  label: ritualized or customary exchange voyage
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage lists markets and an annual trading expedition with customs,
+    voyage stages, cargoes, price/value, return visits, and language.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage supports exchange and customary voyage topics, but does not
+    provide enough detail to confirm a sacred or mythic exchange motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 264-269
+  quote_or_summary: Chapter V topics include conception and pregnancy, labour and
+    care of child, puerperium, and twins.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Source metadata rights status not supplied; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 271-278
+  quote_or_summary: Chapter VI topics include land tenure, women in relation to land,
+    personal property, and inheritance of personal and real property.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Source metadata rights status not supplied; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 280-282
+  quote_or_summary: Chapter VII is titled Markets.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Source metadata rights status not supplied; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 284-286
+  quote_or_summary: Chapter VIII is titled as the annual trading expedition to the
+    Papuan.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Source metadata rights status not supplied; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 288-294
+  quote_or_summary: The annual trading expedition chapter topics include a legend
+    of origin, pre-voyage customs and procedure, arrival of Lakatoi in the Gulf, return
+    journey, customs during Lakatoi absence, size of Asi and Lakatoi, cargoes and
+    crew, value and price of sago, Lakatoi Ehona, return visits of Gulf natives, and
+    Lakatoi language.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Source metadata rights status not supplied; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage. Literal
+    topic extraction is relatively clear, but motif identification is limited and
+    requires review against the full chapter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself provides no comparative evidence.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l264-l294
+  passage_sha256=560c263b43fa935a1428197e33ede3606d242b667ecfb36eeb84f8bf881a67fc
+

@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l5599-l5640
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: V, 17 , I. / XULLAVAGGA. / Y, 20, 5. ON THE DAILY LIFE OF THE BHXKKHUS. /
+    I 2 I; lines 5599-5640
+  start: '5599'
+  end: '5640'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A formal motion before the Saṅgha states that Vaddha the Licchavi has made
+    a groundless accusation of a breach of morality against Dabba the Mallian. The
+    Saṅgha resolves to turn down the bowl with respect to Vaddha and to treat him
+    as one having no dealings with the Saṅgha. Ananda later goes to Vaddha and informs
+    him of the decision, after which Vaddha faints and falls.
+  language: English translation with transliterated Indic names; passage contains
+    OCR irregularities.
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A formal motion says Vaddha the Licchavi brought a groundless charge against
+    Dabba the Mallian concerning a breach of morality.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The proposed and approved sanction is that the Saṅgha turns down the bowl
+    with respect to Vaddha and makes him as one who has no dealings with the Saṅgha.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Approval is indicated by silence among the venerable ones; dissent would be
+    indicated by speaking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ananda dresses early in the morning, goes duly bowled and robed to Vaddha’s
+    residence, and informs Vaddha of the Saṅgha’s decision.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Upon hearing Ananda’s statement, Vaddha immediately faints and falls.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bowl is the object named in the formal sanction and in Ananda’s visit
+    as part of being duly bowled and robed.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Saṅgha
+  description: The monastic community or assembly that hears the motion, approves
+    by silence, and turns down the bowl with respect to Vaddha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Vaddha the Licchavi
+  description: The person said to have brought a groundless charge against Dabba and
+    against whom the Saṅgha’s sanction is directed; he faints after being informed.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Dabba the Mallian
+  description: The venerable person accused by Vaddha of a breach of morality; the
+    charge is described as groundless.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ananda
+  description: The venerable monk who goes to Vaddha’s residence and tells him that
+    the bowl has been turned down with respect to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: disciplinary assembly
+  assigned_to:
+  - fig:1
+  basis: The Saṅgha hears the motion, approves it, and imposes the sanction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sanctioned accuser
+  assigned_to:
+  - fig:2
+  basis: Vaddha is named as the one who brought the groundless charge and as the one
+    against whom the bowl is turned down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wrongly accused monk
+  assigned_to:
+  - fig:3
+  basis: Dabba is the one against whom the charge of breach of morality was brought,
+    and the charge is called groundless.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: notifier of communal decision
+  assigned_to:
+  - fig:4
+  basis: Ananda goes to Vaddha and states the Saṅgha’s decision to him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipient of distressing news
+  assigned_to:
+  - fig:2
+  basis: Vaddha faints and falls after hearing Ananda’s statement.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: turned-down bowl
+  literal_form: A bowl turned down with respect to Vaddha as part of a Saṅgha sanction.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: robe and bowl of the monk
+  literal_form: Ananda is described as duly bowled and robed when he goes to Vaddha’s
+    residence.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: silence as approval
+  literal_form: The assembly is instructed to keep silence if it approves and to speak
+    if it does not approve.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Formal motion and communal sanction
+  summary: A motion declares Vaddha’s charge against Dabba groundless and proposes
+    that the Saṅgha turn down the bowl with respect to Vaddha and treat him as outside
+    dealings with the Saṅgha. The decision is confirmed by silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ananda informs Vaddha
+  summary: Ananda goes early in the morning to Vaddha’s residence, duly bowled and
+    robed, and tells Vaddha that the bowl has been turned down with respect to him
+    and that he has no dealings with the Saṅgha.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Vaddha faints
+  summary: After hearing Ananda’s statement, Vaddha immediately faints and falls.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritualized communal exclusion
+  taxonomy_refs: []
+  basis: The passage centers on a formal communal act that symbolically marks Vaddha
+    as one with whom the Saṅgha has no dealings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a disciplinary/legal ritual in the passage; no broader mythological
+    taxonomy reference is directly supported.
+- id: motif:2
+  label: false accusation followed by sanction
+  taxonomy_refs: []
+  basis: Vaddha is said to have brought a groundless moral charge against Dabba, and
+    the community responds by imposing a formal sanction on Vaddha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the original accusation in detail, only the
+    formal finding and sanction.
+- id: motif:3
+  label: announcement causing collapse
+  taxonomy_refs: []
+  basis: After Ananda announces the Saṅgha’s sanction, Vaddha immediately faints and
+    falls.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the physical reaction but does not explain Vaddha’s
+    internal state beyond the immediate response.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5599-5613
+  quote_or_summary: The motion states that Vaddha the Licchavi has brought a groundless
+    charge against Dabba the Mallian of a breach of morality and proposes turning
+    down the bowl with respect to Vaddha, making him one with no dealings with the
+    Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata; source path indicates
+    public-domain Project Gutenberg material.
+- id: ev:2
+  type: summary
+  locator: lines 5614-5630
+  quote_or_summary: The formal resolution repeats the charge and sanction; approval
+    is by silence, and the narrator states that the Saṅgha approves and the bowl is
+    turned down with respect to Vaddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata; source path indicates
+    public-domain Project Gutenberg material.
+- id: ev:3
+  type: summary
+  locator: lines 5631-5638
+  quote_or_summary: Ananda dresses early, goes duly bowled and robed to Vaddha’s residence,
+    and tells him that the bowl has been turned down by the Saṅgha and that he has
+    no dealings with the Saṅgha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata; source path indicates
+    public-domain Project Gutenberg material.
+- id: ev:4
+  type: summary
+  locator: lines 5638-5640
+  quote_or_summary: Vaddha, hearing Ananda’s statement, immediately faints and falls;
+    the note glosses the immediacy as literally occurring on that very spot.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not specified in supplied metadata; source path indicates
+    public-domain Project Gutenberg material.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear about figures, formal procedure, sanction, and reaction.
+    Motif labels are descriptive rather than mapped to supplied taxonomy families
+    because no listed taxonomy motif is directly supported. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names have been normalized cautiously from OCR-corrupted forms in the passage: Saṅgha, Vaddha the Licchavi, Dabba the Mallian, and Ananda.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l5599-l5640
+  passage_sha256=d202763d7c1b09fcc446b7a727d48d397725b740e481dd8fac47a6519d5f8004
+

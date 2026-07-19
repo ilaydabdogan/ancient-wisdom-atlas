@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-caroline-islands-christian-md-l1580-l1682
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: CHAPTER I / SYDNEY TO HONG KONG / CHAPTER II / HONG KONG TO MANILLA; lines
+    1580-1682
+  start: '1580'
+  end: '1682'
+  translation: caroline-islands-christian
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: I saw the Shinto sanctuary of Inari-Sama, the Fox-god
+  summary: A first-person traveler describes Hong Kong and onward travel through Shanghai,
+    Kobe, Kyoto, Hong Kong again, Amoy, and Manila. In Kyoto, the narrator visits
+    Buddhist temple spaces and a Shinto sanctuary of Inari-Sama, identifies Inari-Sama
+    as the Fox-god, names Ama-Inu and Koma-Inu as guardian sentinels, compares them
+    to the Lion and Unicorn, and hears temple bells at midnight.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator says the temples of Kyoto were impressive and reports staying
+    there for two days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator wanders through halls, cloisters, and gardens of Nishi-Hongwanji
+    and a sister Buddhist shrine.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator sees a Shinto sanctuary of Inari-Sama, who is described as the
+    Fox-god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ama-Inu and Koma-Inu are described as guardian sentinels.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ama-Inu and Koma-Inu are compared in the passage to the narrator’s Lion and
+    Unicorn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator hears solemn temple bells ringing in the midnight stillness.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: First-person traveler
+  description: The narrator who visits Kyoto temple sites and reports what is seen
+    and heard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Inari-Sama
+  description: A Shinto figure identified in the passage as the Fox-god and associated
+    with a sanctuary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ama-Inu
+  description: One of the named guardian sentinels at the Shinto sanctuary context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Koma-Inu
+  description: One of the named guardian sentinels at the Shinto sanctuary context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: traveler-observer
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator reports visiting Kyoto sites and hearing temple
+    bells.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Fox-god
+  assigned_to:
+  - fig:2
+  basis: The passage directly describes Inari-Sama as the Fox-god.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: guardian sentinel
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names Ama-Inu and Koma-Inu as guardian sentinels.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Shinto sanctuary
+  literal_form: sanctuary of Inari-Sama
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Fox-god
+  literal_form: Inari-Sama, the Fox-god
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Guardian sentinels
+  literal_form: Ama-Inu and Koma-Inu
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Temple bells
+  literal_form: solemn chimes of the Temple bells
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Buddhist shrine spaces
+  literal_form: halls, cloisters, and gardens of Nishi-Hongwanji and her sister Buddhist
+    shrine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Kyoto sacred-site visit
+  summary: The narrator visits Kyoto temple spaces, observes the Shinto sanctuary
+    of Inari-Sama, notes the guardian sentinels Ama-Inu and Koma-Inu, and hears temple
+    bells at midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Animal-associated deity at a sanctuary
+  taxonomy_refs: []
+  basis: Inari-Sama is explicitly identified as the Fox-god and associated with a
+    Shinto sanctuary.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names the deity and shrine but does not narrate a myth involving
+    Inari-Sama.
+- id: motif:2
+  label: Guardian pair at a sacred site
+  taxonomy_refs: []
+  basis: Ama-Inu and Koma-Inu are named together and described as guardian sentinels
+    in the sanctuary context.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no further ritual, mythic, or iconographic detail beyond
+    their names and guardian role.
+- id: motif:3
+  label: Temple bells in nocturnal sacred setting
+  taxonomy_refs: []
+  basis: The narrator hears solemn temple bells ringing in the midnight stillness
+    during the Kyoto temple visit.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a descriptive travel observation; motif status requires human
+    review and broader contextual evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the guardian sentinels Ama-Inu and Koma-Inu
+    to the narrator’s Lion and Unicorn by calling them prototypes.
+  claim_level: visual_similarity
+  target: Lion and Unicorn pair
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is stated by the narrator, but the passage provides
+    no iconographic description or historical argument for the relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1580-1682; Kyoto temples paragraph
+  quote_or_summary: "“The temples of Kyoto... were a glory and a revelation to me.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Source path supplied under public-domain/Project Gutenberg; source
+    metadata rights_status is null.
+- id: ev:2
+  type: quote
+  locator: lines 1580-1682; Kyoto temples paragraph
+  quote_or_summary: "“I wandered in the halls, cloisters, and gardens of Nishi-Hongwanji
+    and her sister Buddhist shrine”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Source path supplied under public-domain/Project Gutenberg; source
+    metadata rights_status is null.
+- id: ev:3
+  type: quote
+  locator: lines 1580-1682; Kyoto temples paragraph
+  quote_or_summary: "“I saw the Shinto sanctuary of Inari-Sama, the Fox-god”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Source path supplied under public-domain/Project Gutenberg; source
+    metadata rights_status is null.
+- id: ev:4
+  type: quote
+  locator: lines 1580-1682; Kyoto temples paragraph
+  quote_or_summary: "“the guardian sentinels Ama-Inu and Koma-Inu, prototypes of our
+    Lion and Unicorn”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Source path supplied under public-domain/Project Gutenberg; source
+    metadata rights_status is null.
+- id: ev:5
+  type: quote
+  locator: lines 1580-1682; Kyoto temples paragraph
+  quote_or_summary: "“the solemn chimes of the Temple bells ringing out in the midnight
+    stillness”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Source path supplied under public-domain/Project Gutenberg; source
+    metadata rights_status is null.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on explicit travel-narrative statements. Motif candidates
+    are limited because the passage gives descriptive observations rather than a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol matched fox, sanctuary, guardian sentinels, or bells; therefore taxonomy_refs are left empty.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-caroline-islands-christian-md__l1580-l1682
+  passage_sha256=a61f99a8e21e2fdf177d591a75a8fd1243a5d0551fe92f0506683a5c7a3c4c1b
+

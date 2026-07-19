@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l1013-l1057
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: TV, 6, 2 . / TIIE SETTLEMENT OF DISPUTES. / XULLAVAGGA. / XULLAVAGGA.; lines
+    1013-1057
+  start: '1013'
+  end: '1057'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage states a monastic legal rule: an official act is invalid if
+    a monk, when warned for one offence, confesses a different offence; it is valid
+    when the charge, confession, and communal action concern the same offence. It
+    then introduces an occasion when assembled Bhikkhus became violent, quarrelsome,
+    and disputatious, wounding one another with sharp words. A note glosses the expression
+    literally as “mouth-javelins.”'
+  language: English translation with Pali terms and OCR/transliteration irregularities
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If a Bhikkhu is warned about one offence but confesses guilt for a different
+    offence, the official act is said to be invalid.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:2
+  text: A valid official act is illustrated by a case in which a Bhikkhu has committed
+    a Parajika-type offence, is warned of that same offence, confesses that same offence,
+    and is dealt with by the Sawgha for that same offence.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same valid-act formula is said to be repeated for each of the other offences
+    previously mentioned.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bhikkhus assembled in chapter are described as violent, quarrelsome, and disputatious.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The assembled Bhikkhus are described as wounding one another with sharp words.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note glosses the expression for the harmful speech literally as “with mouth-javelins.”
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: A Bhikkhu charged with an offence
+  description: A monastic individual who may be warned about an offence, confess,
+    and be subject to an official act.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The Sawgha
+  description: The monastic community or chapter; in the legal example it may warn
+    and deal with the Bhikkhu, and later the assembled Bhikkhus are described as quarrelsome.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: A number of Bhikkhus
+  description: A group of monks that may warn the Bhikkhu about an offence in the
+    valid-act example.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: A single Bhikkhu
+  description: An individual monk who may warn the Bhikkhu about an offence in the
+    valid-act example.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: accused and confessing monk
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhu is warned about an offence and responds by confessing guilt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: warning party
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The Sawgha, a number of Bhikkhus, or a single Bhikkhu may warn the monk of
+    an offence.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adjudicating community
+  assigned_to:
+  - fig:2
+  basis: The Sawgha deals with the Bhikkhu for the offence when the official act is
+    valid.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: quarrelsome assembly
+  assigned_to:
+  - fig:2
+  basis: The Bhikkhus in chapter assembled are described as violent, quarrelsome,
+    disputatious, and wounding one another with words.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wounding speech
+  literal_form: sharp words; glossed literally in the note as “mouth-javelins”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invalid act after non-matching confession
+  summary: A monk warned for one offence confesses a different offence, and the resulting
+    official act is invalid.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Valid act after matching charge and confession
+  summary: A monk is warned by the Sawgha, a group of Bhikkhus, or a single Bhikkhu
+    for a specific offence, confesses that same offence, and the Sawgha deals with
+    him for it; this official act is valid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Quarrelsome chapter assembly
+  summary: Bhikkhus assembled in chapter become violent, quarrelsome, and disputatious,
+    wounding one another with sharp words.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wounding speech as weapon
+  taxonomy_refs: []
+  basis: The passage says the assembled Bhikkhus wound one another with sharp words,
+    and the note glosses the phrase as “mouth-javelins.”
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a local verbal image in a Vinaya procedural passage; no broader
+    taxonomy mapping or cross-cultural comparison is asserted.
+- id: motif:2
+  label: Procedural validity through matched charge and confession
+  taxonomy_refs: []
+  basis: The rule contrasts an invalid act where the confession differs from the charge
+    with a valid act where charge, confession, and communal action concern the same
+    offence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a monastic legal/procedural pattern rather than a clearly mythological
+    motif; included only as a passage-level pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1013-1057, opening bracketed rule
+  quote_or_summary: "“if ... he confesses ... offences different from the one charged,
+    then the official act is invalid”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1013-1057, §2 valid-act example
+  quote_or_summary: A Bhikkhu who has committed a Parajika-type offence is warned
+    by the Sawgha, a number of Bhikkhus, or a single Bhikkhu; he confesses that offence,
+    and the Sawgha deals with him for it, making the official act valid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1013-1057, repetition note after §2
+  quote_or_summary: The whole valid-act formula is repeated for each of the other
+    offences mentioned in the preceding section.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 1013-1057, §3 narrative opening
+  quote_or_summary: "“violent, quarrelsome, and disputatious” and “wounding one another
+    with sharp words”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 1013-1057, note 4
+  quote_or_summary: "“Literally, ‘ with mouth-javelins.’”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: note
+  locator: lines 1013-1057, note 2
+  quote_or_summary: The note explains that a confession to an offence different from
+    the charge cannot be used for a decision on the offence confessed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    limited because the passage is primarily monastic legal procedure, not mythic
+    narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned; the only extracted symbol is a local speech image from the passage and note.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l1013-l1057
+  passage_sha256=604e5ac2866ddb9a03f095f4c1b2939c75c6a9986a8cbcdc5734521ef89988e3
+

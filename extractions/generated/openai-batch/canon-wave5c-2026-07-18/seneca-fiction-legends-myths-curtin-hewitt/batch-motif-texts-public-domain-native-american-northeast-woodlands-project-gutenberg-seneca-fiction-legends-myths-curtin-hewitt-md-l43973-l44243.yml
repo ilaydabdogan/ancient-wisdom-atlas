@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md-l43973-l44243
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: LBQBKDS / SENEOA FICTION, LBOEKDB, AND MYTHS / CUBTIN,! / LEOEKDS; lines
+    43973-44243
+  start: '43973'
+  end: '44243'
+  translation: seneca-fiction-legends-myths-curtin-hewitt
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed male figure descends to earth, speaks about having sufficient
+    strength, makes and straps a bundle involving bodies, bears it with a forehead-strap,
+    and returns home to an indoor place where a fire has been kindled. He casts down
+    the bundle and asks his uncle to care for it. The uncle or old one attends to
+    it, expresses gratitude to his nephew, recalls caring for him when he was small,
+    and the fragment later mentions raccoon, skin, and pouch-making language.
+  language: Mixed Seneca text with English interlinear glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure's body is caused to descend, and he stands on the earth before
+    speaking.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure says that what is present is enough or sufficient and that
+    he is strong enough to bear a body away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure makes a bundle, lays bodies or parts severally, wraps them carefully,
+    and uses a forehead-strap.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bundle is described as standing out in form, and the strap is laid out.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The figure bears the bundle, starts again, and returns home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At an indoor place where a fire has been kindled, the figure casts down his
+    bundle.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The figure addresses a relative as “my uncle” and asks him to care for what
+    lies there with both hands.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old one attends to the bundle or object and addresses the speaker as “my
+    nephew.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The uncle or old one says he cared for and pitied the nephew when the nephew
+    was small and as he grew up.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A later fragment names raccoon near the old one and mentions a task, skin,
+    and making a pouch; the syntax is damaged or unclear.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male actor / nephew
+  description: The principal male figure descends to earth, makes and bears a bundle,
+    returns home, and addresses the old one as his uncle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: uncle / old one
+  description: A figure addressed as uncle; he attends to the bundle, calls the other
+    figure his nephew, expresses gratitude, and recalls having cared for him when
+    small.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: descending bundle-bearer
+  assigned_to:
+  - fig:1
+  basis: He descends to earth, makes a bundle, bears it, and returns home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: nephew
+  assigned_to:
+  - fig:1
+  basis: The old one addresses him as “my nephew” and recalls caring for him when
+    small.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: uncle
+  assigned_to:
+  - fig:2
+  basis: The bundle-bearer addresses him as “my uncle.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: former caretaker
+  assigned_to:
+  - fig:2
+  basis: He says he cared for and pitied the nephew when the nephew was small and
+    growing up.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kindled indoor fire
+  literal_form: fire kindled indoors
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: body bundle
+  literal_form: bodies or parts wrapped carefully into a bundle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: forehead-strap
+  literal_form: forehead-strap used to bear the bundle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: skin pouch fragment
+  literal_form: skin and pouch-making language in the damaged closing fragment
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Descent to earth
+  summary: The male figure is caused to descend, stands on the earth, and states that
+    he has sufficient strength to bear something away.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bundle-making and strapping
+  summary: The figure wraps bodies or parts carefully into a bundle, lays out a forehead-strap,
+    and prepares the burden for carrying.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return to the firelit interior
+  summary: The figure bears the bundle, returns home, reaches an indoor place with
+    a kindled fire, and casts down the bundle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Handover to uncle and kinship speech
+  summary: The bundle-bearer asks his uncle to care for what lies there. The old one
+    attends to it, calls him nephew, gives thanks, and recalls former care given to
+    him when small.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Raccoon, skin, and pouch fragment
+  summary: The closing fragment links the old one with raccoon language and mentions
+    completing a task and making a pouch from skin, though the passage is syntactically
+    unclear.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: descent to earth followed by burden-bearing
+  taxonomy_refs: []
+  basis: The principal figure descends to earth, stands there, declares sufficient
+    strength, and then prepares and bears a bundle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly identify the actor as a hero or explain
+    the place from which he descends.
+- id: motif:2
+  label: return home with a wrapped burden
+  taxonomy_refs:
+  - return
+  basis: After making and strapping the bundle, the figure starts again and returns
+    home carrying it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Only this passage segment is available, so the larger journey context
+    is unknown.
+- id: motif:3
+  label: forehead-strap carrying of a body bundle
+  taxonomy_refs: []
+  basis: The passage repeatedly describes wrapping, the bundle's form, and a forehead-strap
+    used for carrying.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The contents of the bundle are not fully clear because of the interlinear
+    and damaged wording.
+- id: motif:4
+  label: uncle-nephew reciprocal care
+  taxonomy_refs: []
+  basis: The nephew asks his uncle to care for the object, while the uncle recalls
+    caring for the nephew when he was small and growing up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The social or ritual significance of the reciprocal care is not explained
+    in the passage.
+- id: motif:5
+  label: skin made into pouch
+  taxonomy_refs: []
+  basis: The closing fragment mentions raccoon, skin, a completed task, and making
+    a pouch.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The text is fragmentary and OCR/interlinear syntax is unclear; this should
+    be checked against the source edition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 43973-44012
+  quote_or_summary: A male figure's body is caused to descend; when he stands on the
+    earth, he speaks, saying in gloss that it is enough or sufficient and that he
+    is strong enough to bear a body away.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+- id: ev:2
+  type: summary
+  locator: lines 44013-44055
+  quote_or_summary: The figure makes a bundle, lays bodies or parts severally, wraps
+    them carefully, and uses or lays out a forehead-strap; the bundle is described
+    as standing out in form.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+- id: ev:3
+  type: summary
+  locator: lines 44056-44083
+  quote_or_summary: The figure completes the task, bears the bundle with the forehead-strap,
+    starts again, returns home, comes to an indoor place where a fire has been kindled,
+    and casts down his bundle.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+- id: ev:4
+  type: summary
+  locator: lines 44084-44113
+  quote_or_summary: He says, in gloss, “Come, my uncle, here it lies,” and asks that
+    it be cared for with both hands; the old one attends to it.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+- id: ev:5
+  type: summary
+  locator: lines 44114-44208
+  quote_or_summary: The uncle addresses him as “my nephew,” speaks of gratitude, and
+    says he attended to, cared for, and pitied him when he was small and as he grew
+    up.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+- id: ev:6
+  type: summary
+  locator: lines 44209-44243
+  quote_or_summary: The fragment mentions the old one, raccoon, completion of a task,
+    skin, and making a pouch; the passage ending is damaged or incomplete.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata; source path indicates
+    public-domain collection.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Core actions of descent, bundling, carrying, return, and uncle-nephew speech
+    are visible in the English glosses. Details involving raccoon, skin, and pouch
+    are low-confidence because the passage is noisy, fragmentary, and interlinear.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added. Taxonomy references are limited to the provided lists and used only where directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md__l43973-l44243
+  passage_sha256=b47efe2f54e0acde3c8ed3046a36dc5ced8cc90de92fd6c47df0e8ce30be92d5
+

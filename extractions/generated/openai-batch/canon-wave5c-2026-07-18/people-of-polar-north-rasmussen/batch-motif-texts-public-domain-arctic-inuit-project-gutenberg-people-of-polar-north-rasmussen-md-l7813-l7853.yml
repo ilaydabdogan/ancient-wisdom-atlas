@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l7813-l7853
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: KAYAK / HARPOON POINT AND POLE / THE MAN WHO WENT TRAVELLING TO LOOK FOR
+    / HIS SON; lines 7813-7853
+  start: '7813'
+  end: '7853'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man travels along the coast seeking his missing son. He encounters a
+    glacier giant who wants to eat him, summons grampus helping spirits that destroy
+    the giant's house and kill the giant, then meets another man-eater at a chasm
+    and throws him down instead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man begins travelling along the coast through different countries to look
+    for his son, who had gone out in a kayak and not returned.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man sees a giant at the edge of a large glacier and enters the giant's
+    house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The glacier giant brings out a drum whose fell is made from a man's stomach
+    and prepares to give it to the man.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The glacier giant trembles because of a strong desire to eat the man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Large salmon fall through a hole in the roof while the man is afraid, can
+    hardly eat, and cannot get out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man is described as a great magician and calls on his helping spirits.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man's helping spirits are large grampuses, and he calls to them to show
+    themselves because others want to eat him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The grampuses appear, the house is crushed, the giant is killed, and the man
+    travels farther to look for his son.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The man next sees a big man who eats human beings and throws their kayaks
+    into a deep chasm in the rocks.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The second man-eater tells the man to look down into the chasm and tries to
+    throw him backwards into it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The man seizes the man-eater's leg, flings him down, and goes on.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: travelling man
+  description: A man seeking his missing son; he is also described as a great magician
+    who can call helping spirits.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: missing son
+  description: The travelling man's son, who went out in his kayak and did not return.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: glacier giant
+  description: A giant at the edge of a large glacier who brings out a drum made with
+    a man's stomach and wants to eat the travelling man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: grampus helping spirits
+  description: Large grampuses serving as the travelling man's helping spirits; they
+    appear when called and destroy the giant's house, killing the giant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: second big man / man-eater
+  description: A big man who eats human beings, throws their kayaks into a deep chasm,
+    and tries to throw the travelling man into the chasm.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: searching father
+  assigned_to:
+  - fig:1
+  basis: The man travels along the coast to look for his son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: missing son
+  assigned_to:
+  - fig:2
+  basis: The son went out in a kayak and did not return.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: magician and spirit-caller
+  assigned_to:
+  - fig:1
+  basis: The man is called a great magician and summons his helping spirits.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cannibal adversary
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The glacier giant wants to eat the man, and the second big man is said to
+    eat human beings.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: helping spirits
+  assigned_to:
+  - fig:4
+  basis: The grampuses are named as the man's helping spirits and answer his call.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: survivor of attempted killing
+  assigned_to:
+  - fig:1
+  basis: The man survives the glacier giant's threat and the chasm attack, then continues
+    onward.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: chasm attacker
+  assigned_to:
+  - fig:5
+  basis: The second man-eater tries to throw the travelling man backwards into a deep
+    chasm.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: kayak
+  literal_form: The son's kayak and the kayaks of people eaten by the man-eater.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: drum with human-stomach fell
+  literal_form: A lovely drum with its fell made of a man's stomach.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: large glacier and giant's house
+  literal_form: A large glacier at whose edge the giant is seen, with a house entered
+    by the travelling man.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: falling salmon through roof hole
+  literal_form: Large salmon falling through a hole in the roof.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: grampus helping spirits
+  literal_form: Large grampuses appearing as the man's helping spirits.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: deep chasm in the rocks
+  literal_form: A deep chasm where kayaks are thrown and into which the man-eater
+    tries to throw the travelling man.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: departure to seek missing son
+  summary: The man travels along the coast through different countries because his
+    son went out in a kayak and did not return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: glacier giant's house
+  summary: The man enters the glacier giant's house; the giant presents a human-stomach
+    drum and wants to eat him while salmon fall through a roof hole.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: summoning of grampus helpers
+  summary: The magician calls his grampus helping spirits; they appear, crush the
+    house, kill the glacier giant, and the man continues his journey.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: chasm encounter with man-eater
+  summary: A second man-eater shows the man a chasm and tries to throw him into it,
+    but the man seizes the attacker by the leg and throws him down instead.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: search journey for a missing child
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The passage opens with the man travelling along the coast through different
+    countries to look for his missing son, and the journey continues after each danger.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not show whether the son is found or how the journey
+    ends; the taxonomy link to mystical quest rests on the magician and spirit-helper
+    context.
+- id: motif:2
+  label: magician rescued by animal helping spirits
+  taxonomy_refs: []
+  basis: When trapped by the glacier giant, the man calls large grampuses as helping
+    spirits; they appear, crush the house, and kill the giant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names helper spirits or animal
+    spirit aid.
+- id: motif:3
+  label: cannibal giant or man-eater encounter
+  taxonomy_refs: []
+  basis: The glacier giant wants to eat the man, and the later big man is described
+    as one who eats human beings.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The two adversaries are similar in appetite but appear in separate encounters;
+    no historical or broader corpus claim is made.
+- id: motif:4
+  label: intended victim reverses chasm attack
+  taxonomy_refs: []
+  basis: The man-eater tries to throw the traveller into a deep chasm, but the traveller
+    seizes his leg and throws him down instead.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state the final fate of the second man-eater after
+    being flung down.
+comparison_claims:
+- id: claim:1
+  claim: At the motif-family level, the passage can be cautiously compared to a departure
+    or quest pattern because the protagonist leaves on a coastal search for his missing
+    son and continues through dangerous encounters.
+  claim_level: same_motif
+  target: departure; mystical_quest
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives only the middle of the search and does not include
+    completion, return, or recovery of the son.
+- id: claim:2
+  claim: The grampuses function as supernatural or spirit helpers who rescue the threatened
+    magician from a cannibal giant.
+  claim_level: same_function
+  target: supernatural helper-spirit rescue pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific taxonomy ID for helper spirits is available in the supplied
+    list, and no broader tradition comparison is stated in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7813-7823
+  quote_or_summary: A man travels along the coast through different countries seeking
+    his son, who had gone out in his kayak and not returned.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 7824-7832
+  quote_or_summary: The man sees a giant at the edge of a large glacier, enters his
+    house, and the giant brings out a drum made with a man's stomach while desiring
+    to eat him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7833-7836
+  quote_or_summary: Large salmon fall through a hole in the roof; the man is afraid,
+    can hardly eat, and cannot get out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 7837-7843
+  quote_or_summary: The man is a great magician, calls upon his helping spirits, and
+    names them as large grampuses while asking them to appear because others want
+    to eat him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 7844-7847
+  quote_or_summary: The grampuses show themselves, the house is crushed, the giant
+    is killed, and the man continues looking for his son.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 7848-7853
+  quote_or_summary: The man meets another big man who eats human beings and throws
+    their kayaks into a deep chasm; when this man-eater tries to throw him in, the
+    traveller seizes his leg, flings him down, and goes on.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are cautious and mostly local because the excerpt does not include the full tale
+    ending and the supplied taxonomy lacks direct IDs for cannibal giants, helper
+    spirits, or chasm reversal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No harpoon point or pole motif was extracted because those items appear only in the supplied locator label, not in the passage text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l7813-l7853
+  passage_sha256=615a6d9e85aa3dce96d412d0665a3adfff32dab1ad76f5c0deb6e0f0e2f528c9
+

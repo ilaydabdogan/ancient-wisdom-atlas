@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md-l6488-l6518
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: STEPPING OUT / ANARULUNGUAQ, THE YOUNG ESKIMO WOMAN FROM GREENLAND / CHAPTER
+    XIII / GOING PRETTY FAR WITH THE SPIRITS; lines 6488-6518
+  start: '6488'
+  end: '6518'
+  translation: across-arctic-america-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: two men came running up out of the blizzard in front of the hut
+  summary: 'During a blizzard near Pelly Bay, two brothers arrive at a hut without
+    sledges or dogs, carrying only snow knives. After being warmed and fed, they explain
+    that they are from near the Magnetic Pole and are traveling with fox skins to
+    trade for old guns. The elder brother, Qaqortingneq, is returning, and the narrator
+    decides to accompany him to visit his tribe. Qaqortingneq introduces the rest
+    of his party: two wives and a foster son, each described in terms of prior material
+    exchange.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two men came running out of a blizzard to the front of a hut near Pelly Bay
+    east of Boothia Isthmus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two men had no sledge, no dogs, and no weapons except long snow knives;
+    their clothing showed that they had come from a distance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator's group brought the men inside, warmed them, and gave them a
+    meal before hearing their account.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The men were two brothers from the neighborhood of the Magnetic Pole.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The brothers were traveling with fox skins, intending to trade them for old
+    guns with people at Pelly Bay.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Qaqortingneq, the elder brother, was turning back, and the narrator's group
+    decided to go back with him to visit his tribe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The rest of Qaqortingneq's party was camped some distance away and consisted
+    of two wives and a foster son.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Quertilik was said to have cost Qaqortingneq a whole wooden sledge; Qungaq
+    was said to have cost a bit of lead and an old file after her husband had died
+    of hunger.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The foster son was said to have been bought in infancy; the passage breaks
+    off while naming the price after a kayak and another unspecified item.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Qaqortingneq
+  description: The elder of two brothers from near the Magnetic Pole; he arrived from
+    the blizzard, was traveling with fox skins, and was turning back toward his tribe.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed younger brother
+  description: The other of the two brothers from near the Magnetic Pole who arrived
+    from the blizzard without sledge or dogs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Narrator's group
+  description: The group staying in the hut near Pelly Bay; they brought the two men
+    inside, warmed and fed them, and chose to accompany Qaqortingneq.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Quertilik
+  description: One of Qaqortingneq's two wives, described as the prettier of the two
+    women and said to have cost a whole wooden sledge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Qungaq
+  description: One of Qaqortingneq's two wives, said to have been purchased for a
+    bit of lead and an old file after her husband had died of hunger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Foster son
+  description: A boy in Qaqortingneq's party, said to have been bought in infancy;
+    the passage cuts off while giving the price.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: People at Pelly Bay
+  description: The intended trade partners for the brothers' fox skins, described
+    as natives at Pelly Bay.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: brother-travelers from a distance
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the arrivals as two brothers from the neighborhood
+    of the Magnetic Pole whose clothing showed they came from a distance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hosts to unexpected arrivals
+  assigned_to:
+  - fig:3
+  basis: The narrator's group took the men in, warmed them, and fed them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: elder brother returning to his tribe
+  assigned_to:
+  - fig:1
+  basis: Qaqortingneq is named as the elder and is described as turning back, with
+    the narrator's group going with him to visit his tribe.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: visitors to distant tribe
+  assigned_to:
+  - fig:3
+  basis: The narrator's group decided to go back with Qaqortingneq to visit his tribe.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wives described through exchange payments
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both women are introduced as wives, and each is described by the price or
+    goods exchanged for her.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: foster child acquired in infancy
+  assigned_to:
+  - fig:6
+  basis: The boy is called a foster son and is said to have been bought in infancy.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: intended trade counterparts
+  assigned_to:
+  - fig:7
+  basis: The brothers intended to trade fox skins for old guns with the natives at
+    Pelly Bay.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: blizzard arrival
+  literal_form: blizzard outside the hut
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snow knives
+  literal_form: long snow knives carried as the only weapons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fox skins
+  literal_form: load of fox skins carried for trade
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: old guns
+  literal_form: old guns sought in exchange for fox skins
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: wooden sledge payment
+  literal_form: whole wooden sledge said to have been the cost of Quertilik
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: lead and file payment
+  literal_form: bit of lead and an old file said to have been the cost of Qungaq
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: kayak in foster-son exchange
+  literal_form: kayak named as part of the price for the boy, with the rest cut off
+    by the passage ending
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrival from the blizzard
+  summary: Two men run out of the blizzard to the hut without sledge or dogs, carrying
+    only snow knives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality and account
+  summary: The narrator's group brings the men in, warms and feeds them, and learns
+    that they are brothers from near the Magnetic Pole traveling to trade fox skins
+    for old guns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Decision to visit Qaqortingneq's tribe
+  summary: Qaqortingneq turns back, and the narrator's group decides to accompany
+    him to visit his tribe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Introduction of family party and exchange histories
+  summary: Qaqortingneq brings up the rest of his party, introducing two wives and
+    a foster son and explaining the goods exchanged for them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sibling pair travelers
+  taxonomy_refs:
+  - sibling_pair
+  basis: The arrivals are explicitly identified as two brothers traveling together
+    from near the Magnetic Pole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a travel narrative episode, not a mythic tale; the sibling-pair
+    identification is literal and minimal.
+- id: motif:2
+  label: unexpected strangers emerging from a storm
+  taxonomy_refs: []
+  basis: Two men suddenly arrive from the blizzard at the hut without normal means
+    of travel such as sledge or dogs.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supernatural status is assigned to the strangers in the supplied passage.
+- id: motif:3
+  label: hospitality before identification
+  taxonomy_refs: []
+  basis: The narrator's group warms and feeds the men before they give an account
+    of who they are and where they are from.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives this as practical hospitality rather than as a ritual
+    or sacred action.
+- id: motif:4
+  label: household bonds formed through material exchange
+  taxonomy_refs: []
+  basis: The two wives and foster son are introduced with reference to goods exchanged
+    for them, including a wooden sledge, lead, an old file, and a kayak.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes social transactions; it does not state a sacred
+    or mythological meaning for them.
+- id: motif:5
+  label: journey to a distant tribe with a returning guide
+  taxonomy_refs: []
+  basis: Qaqortingneq is turning back, and the narrator's group decides to accompany
+    him to visit his tribe.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative travel pattern in the passage; no broader comparative
+    function is demonstrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6488-6500
+  quote_or_summary: Two men came running out of the blizzard at the hut; they had
+    no sledge, no dogs, and only long snow knives, while their dress showed they came
+    from a distance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path labels public-domain/Project Gutenberg; request metadata
+    does not supply a rights_status value.
+- id: ev:2
+  type: summary
+  locator: 6501-6508
+  quote_or_summary: After being taken in, warmed, and fed, the men explain that they
+    are two brothers from near the Magnetic Pole carrying fox skins to trade for old
+    guns at Pelly Bay.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path labels public-domain/Project Gutenberg; request metadata
+    does not supply a rights_status value.
+- id: ev:3
+  type: summary
+  locator: 6508-6511
+  quote_or_summary: Qaqortingneq, the elder brother, is turning back, and the narrator's
+    group decides to accompany him to visit his tribe.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path labels public-domain/Project Gutenberg; request metadata
+    does not supply a rights_status value.
+- id: ev:4
+  type: summary
+  locator: 6512-6518
+  quote_or_summary: Qaqortingneq introduces two wives and a foster son; Quertilik
+    cost a wooden sledge, Qungaq cost lead and an old file after her husband died
+    of hunger, and the boy was bought in infancy for a kayak and another item not
+    preserved in the supplied excerpt.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Source path labels public-domain/Project Gutenberg; request metadata
+    does not supply a rights_status value.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the supplied passage is an ethnographic travel narrative excerpt and does not
+    itself narrate a mythic or supernatural episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage ends mid-sentence after 'a kayak and a'; no completion of the missing object has been inferred.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-across-arctic-america-rasmussen-md__l6488-l6518
+  passage_sha256=bfad77489447123bc7cfe971354115b9e2a3435464773007faf115b6327a9368
+

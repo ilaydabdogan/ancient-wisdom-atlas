@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l10332-l10348
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: THE CRAFTY LAD / THE STORY OF A POOR BOY / THE HUSBAND WHO LOST HIS WIFE
+    AND CHILDREN / THE TIGER AND THE MISCHIEVOUS HARE; lines 10332-10348
+  start: '10332'
+  end: '10348'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The opening of a tale titled “The Tiger and the Mischievous Hare” describes
+    a hare and a tiger as apparent friends, though the hare’s friendship is only pretence.
+    The hare proposes that they build a small hut instead of living in the open. The
+    tiger agrees, and the next morning they prepare food, take cutting tools, enter
+    the forest, and cut grass beside jungle streams for thatch.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a tale about a tiger and a mischievous hare.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hare and the tiger are described as friends in ancient times, but the
+    hare’s friendship is said to be pretended.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hare says that living in the open is not good and proposes building a
+    little hut.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tiger agrees and says that if their minds are alike, their joint work
+    will succeed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The next morning they prepare rice and curry in green leaves, take knives
+    and sickles, and enter the great forest.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: They spend the day cutting grass that grows beside jungle streams for thatch.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hare
+  description: A hare described as the tiger’s apparent friend, though the friendship
+    is only pretence; the hare proposes building a hut.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: tiger
+  description: A tiger described as the hare’s apparent friend; the tiger agrees to
+    the hare’s proposal and works with the hare in the forest.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: pretended friend and initiator of the hut-building plan
+  assigned_to:
+  - fig:1
+  basis: The passage says the hare’s friendship is pretence, and the hare proposes
+    building a hut.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: agreeing companion
+  assigned_to:
+  - fig:2
+  basis: The tiger accepts the hare’s proposal and speaks of joint success.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: co-worker in cutting thatch grass
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures enter the forest and cut grass for thatch.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: little hut
+  literal_form: a little hut / dwelling-place
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: grass for thatch
+  literal_form: grass cut for thatch
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: green leaves containing food
+  literal_form: rice and curry put into green leaves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cutting tools
+  literal_form: knives and sickles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: jungle streams
+  literal_form: streams beside which the grass grows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: great forest
+  literal_form: the great forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Pretended friendship and proposal to build a hut
+  summary: The hare and tiger are introduced as apparent friends, but the hare’s friendship
+    is pretended. The hare proposes building a small dwelling so they need not live
+    in the open.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tiger agrees to joint work
+  summary: The tiger accepts the hare’s proposal and expresses confidence that shared
+    intention will bring success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Entering the forest and cutting thatch grass
+  summary: The pair pack food in green leaves, take knives and sickles, enter the
+    forest, and spend the day cutting grass beside jungle streams for thatch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deceptive animal companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare is explicitly called mischievous in the title and is said to be
+    only pretending friendship with the tiger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives the setup of deception but does not yet show the outcome
+    or a fully developed trickster episode.
+- id: motif:2
+  label: animal partners preparing a dwelling
+  taxonomy_refs: []
+  basis: The hare proposes building a hut, and both animals prepare tools, enter the
+    forest, and cut grass for thatch.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a literal narrative pattern in the excerpt; no broader taxonomy
+    reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '10332'
+  quote_or_summary: "“THE TIGER AND THE MISCHIEVOUS HARE”"
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 10334-10336
+  quote_or_summary: The passage says that a hare and tiger were friends in ancient
+    times, but that the hare’s friendship was only pretence.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 10336-10340
+  quote_or_summary: The hare tells the tiger that living in the open is not good and
+    proposes building a little hut, beginning with cutting grass for thatch.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 10342-10343
+  quote_or_summary: The tiger answers that if their minds are alike, anything they
+    do together will succeed.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+- id: ev:5
+  type: summary
+  locator: 10345-10347
+  quote_or_summary: Early the next morning they put rice and curry into green leaves,
+    take knives and sickles, and enter the great forest.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: 10347-10348
+  quote_or_summary: They cut grass all day beside jungle streams.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Provided passage; rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the supplied opening passage. Motif
+    identification is limited because the excerpt ends before the trick or conflict
+    develops. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external tradition, culture, or rights metadata was supplied.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l10332-l10348
+  passage_sha256=7645a7b7b768d93347e3fc31f8093dd7e8402a72458510bc212b8d5e3ef1cc5d
+

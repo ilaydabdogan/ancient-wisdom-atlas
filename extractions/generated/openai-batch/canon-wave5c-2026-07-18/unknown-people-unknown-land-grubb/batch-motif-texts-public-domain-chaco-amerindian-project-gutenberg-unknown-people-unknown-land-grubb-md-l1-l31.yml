@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l1-l31
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: unknown-people-unknown-land-grubb; lines 1-31
+  start: '1'
+  end: '31'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface introduces the Chaco as an interior South American region described
+    as little known, difficult to explore, and associated with rumours. It presents
+    the volume as an account of Barbrooke Grubb’s missionary and exploratory work
+    among the Lengua people in the Paraguayan Chaco.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as An Unknown People in an Unknown Land and
+    marks this section as the preface.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage forecasts increased world attention to South America and contrasts
+    coastal development with a mysterious interior.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says exploring expeditions encountered swamps, forests, rivers,
+    and hostile Indigenous groups, and often ended in disaster.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says strange rumours circulate about the nature and inhabitants
+    of the Chaco.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the name Chaco has been interpreted as meaning “a hiding-place,”
+    while also stating that this is a false etymology.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the Church of England South American Missionary Society
+    began work in the Paraguayan Chaco in 1889.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that Barbrooke Grubb lived for twenty years among the Lenguas
+    and recounts his experiences, adventures, studies, and researches.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Exploring expeditions
+  description: Expeditions said to have entered the interior and to have often ended
+    in disaster after encountering environmental and human obstacles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Indigenous tribes encountered by expeditions
+  description: Groups characterized by the passage as among the dangers encountered
+    by expeditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Church of England South American Missionary Society
+  description: Organization said to have begun work in the Paraguayan Chaco in 1889.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Barbrooke Grubb
+  description: Named pioneer missionary and explorer whose experiences, adventures,
+    studies, and researches are introduced as the subject of the following pages.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lenguas
+  description: The tribe among whom Barbrooke Grubb is said to have lived during a
+    twenty-year period.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: expeditionary explorers
+  assigned_to:
+  - fig:1
+  basis: The passage describes exploring expeditions attempting to enter the interior
+    and encountering major obstacles.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: encountered inhabitants characterized as hostile
+  assigned_to:
+  - fig:2
+  basis: The passage includes “hostile tribes of Indians” in its list of expedition
+    obstacles.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: missionary organization
+  assigned_to:
+  - fig:3
+  basis: The passage states that the society began a work in the Paraguayan Chaco.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: pioneer missionary and explorer narrator
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the pioneer missionary and explorer as recounting
+    his experiences and names Barbrooke Grubb.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: host community of Grubb’s residence
+  assigned_to:
+  - fig:5
+  basis: The passage says Grubb lived among the tribe of the Lenguas for a period
+    of twenty years.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hiding-place
+  literal_form: The Chaco described through the interpreted meaning “a hiding-place,”
+    while the passage notes the etymology is false.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mysterious interior
+  literal_form: The interior of South America and the Chaco described as shrouded
+    in mystery and unknown.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: rivers and swamps
+  literal_form: Mighty rivers, impassable malarial swamps, and unnavigable rivers
+    described as features or obstacles of the interior.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: South America and the hidden interior introduced
+  summary: The preface predicts attention to South America, notes coastal development,
+    and presents the interior as still mysterious despite navigable rivers.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Failed or disastrous exploration of the interior
+  summary: Exploring expeditions are described as facing swamps, forests, unnavigable
+    rivers, and hostile Indigenous groups, with many expeditions ending in disaster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Chaco named as unknown land
+  summary: The Chaco is introduced as the subject of the volume, associated with strange
+    rumours and described through the false but apt gloss “a hiding-place.”
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Missionary account introduced
+  summary: The passage states that missionary work began in the Paraguayan Chaco in
+    1889 and introduces Grubb’s twenty years of life and research among the Lenguas.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1-2
+  quote_or_summary: Title and preface heading identify the work and section.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source path labels the text as public-domain; rights_status metadata
+    is null.
+- id: ev:2
+  type: summary
+  locator: lines 4-11
+  quote_or_summary: South America is forecast to receive world attention; development
+    is described as mostly coastal, while the interior is “still shrouded in mystery.”
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source path labels the text as public-domain; rights_status metadata
+    is null.
+- id: ev:3
+  type: summary
+  locator: lines 12-15
+  quote_or_summary: Exploring expeditions are said to have encountered impassable
+    swamps, forests, unnavigable rivers, and hostile Indigenous groups, often ending
+    in disaster.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source path labels the text as public-domain; rights_status metadata
+    is null.
+- id: ev:4
+  type: summary
+  locator: lines 17-20
+  quote_or_summary: The Chaco is introduced as the subject of the volume; rumours
+    surround it, and its name is said to have been interpreted as “a hiding-place,”
+    though falsely.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source path labels the text as public-domain; rights_status metadata
+    is null.
+- id: ev:5
+  type: summary
+  locator: lines 22-31
+  quote_or_summary: In 1889 the Church of England South American Missionary Society
+    began work in the Paraguayan Chaco; Barbrooke Grubb is introduced as a pioneer
+    missionary and explorer who lived among the Lenguas for twenty years.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Source path labels the text as public-domain; rights_status metadata
+    is null.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a preface and travel-missionary introduction rather than a
+    mythic narrative. Literal extraction is strong; no passage-supported mythic motif
+    candidates or comparison claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparative mythology claims are made because the passage itself does not support them.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l1-l31
+  passage_sha256=d8191909c723a67f9e6f35c92b56de34d5e27d53e157f2ebccb28603b2aa3e50
+

@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l27046-l27057
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: FKTICHES. / DHEAMS. / IIERDACHES. / DISPOSAL OF THE DEAD.; lines 27046-27057
+  start: '27046'
+  end: '27057'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Hidatsa treatment of the dead: ordinary good dead
+    are placed on scaffolds so the Lord of Life may see them, while those who quarrel
+    and kill are buried in the earth with a buffalo head on the grave to prevent buffalo
+    herds from avoiding the area. It also states that the Crows do not fear death
+    but dread beings buried in the ground.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hidatsa are described as ordinarily laying their dead upon scaffolds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who quarrel and kill one another are described as buried in the earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A buffalo head is laid on the grave in the case of those buried for killing,
+    so that buffalo herds may not keep away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The good are laid upon scaffolds so that they may be seen by the Lord of Life.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Crows are described as having no fear of death but a horror of beings
+    buried in the ground.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hidatsa dead
+  description: The dead of the Hidatsa, ordinarily laid upon scaffolds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lord of Life
+  description: A being described as displeased when people quarrel and kill one another
+    and as able to see the good dead placed on scaffolds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Those who quarrel and kill
+  description: Persons who are buried in the earth so that they may no longer be seen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Buffalo herds
+  description: Herds that might keep away if they smelled the wicked buried in the
+    ground.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The good
+  description: The good dead, placed upon scaffolds so that they may be seen by the
+    Lord of Life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Crows
+  description: A people described as having no fear of death but horror of beings
+    buried in the ground.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dead placed on scaffolds
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Hidatsa always lay their dead upon scaffolds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine observer displeased by killing
+  assigned_to:
+  - fig:2
+  basis: The Lord of Life is described as displeased when people quarrel and kill,
+    and as seeing the good dead on scaffolds.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: wicked buried in earth
+  assigned_to:
+  - fig:3
+  basis: Those who quarrel and kill are buried in the earth and described in connection
+    with the term wicked.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animals to be kept from avoidance
+  assigned_to:
+  - fig:4
+  basis: A buffalo head is placed on the grave so buffalo herds may not keep away.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: good dead made visible to Lord of Life
+  assigned_to:
+  - fig:5
+  basis: The good are placed on scaffolds so they may be seen by the Lord of Life.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: people with horror of ground burial
+  assigned_to:
+  - fig:6
+  basis: The Crows are described as not fearing death but dreading beings buried in
+    the ground.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: scaffold burial
+  literal_form: scaffolds for the dead
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: earth burial
+  literal_form: burial in the earth
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: buffalo head on grave
+  literal_form: buffalo head laid on the grave
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: grave
+  literal_form: grave of the buried dead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hidatsa scaffold placement of the good dead
+  summary: The Hidatsa dead, specifically the good, are laid on scaffolds so that
+    the Lord of Life may see them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Burial of killers with buffalo head
+  summary: Those who quarrel and kill are buried in the earth, and a buffalo head
+    is placed on the grave to prevent buffalo herds from avoiding the place.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Crow attitude toward death and ground burial
+  summary: The Crows are said not to fear death, while having horror of beings buried
+    in the ground.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: differentiated burial by moral status
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts the good, who are placed on scaffolds to be seen by
+    the Lord of Life, with those who quarrel and kill, who are buried in the earth
+    because the Lord of Life is displeased.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes mortuary treatment and divine displeasure, but does
+    not narrate a formal judgment scene.
+- id: motif:2
+  label: corpse concealment from divine sight
+  taxonomy_refs: []
+  basis: Those who quarrel and kill are buried in the earth so that they may be no
+    longer seen, while the good are placed where the Lord of Life may see them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state whether concealment is from the
+    Lord of Life or from others in the first sentence; the contrast with the good
+    suggests a visibility theme.
+- id: motif:3
+  label: animal avoidance of the wicked dead
+  taxonomy_refs: []
+  basis: A buffalo head is placed on the grave so buffalo herds will not keep away
+    after smelling the wicked.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is available for this pattern in the supplied
+    list.
+- id: motif:4
+  label: horror of ground burial
+  taxonomy_refs: []
+  basis: The Crows are described as having no fear of death but a horror of beings
+    buried in the ground.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the attitude but not a narrative explanation for it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27046-27050
+  quote_or_summary: The Hidatsa are said always to lay their dead upon scaffolds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 27049-27052
+  quote_or_summary: The Lord of Life is displeased when people quarrel and kill one
+    another; such persons are buried in the earth so they may no longer be seen.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 27052-27055
+  quote_or_summary: A buffalo head is laid on the grave so buffalo herds will not
+    keep away after smelling the wicked.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 27055-27056
+  quote_or_summary: The good are laid upon scaffolds so that they may be seen by the
+    Lord of Life.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 27057-27057
+  quote_or_summary: The Crows are said to have no fear of death but a horror of beings
+    buried in the ground.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal mortuary details are clear in the supplied passage. Motif labels
+    are cautious because the passage is ethnographic description rather than a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative link to another text or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l27046-l27057
+  passage_sha256=65b29341e36bff6751c9c435048283ffc727e6fd692b105d8bcec2fec0933ce7
+

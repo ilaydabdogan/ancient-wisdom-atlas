@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l9177-l9199
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: MAHAVAGGA. I, 12, I. / MAHAVAGGA. I, 13. T- / T24 MAHAVAGGA. I, 18. / T54
+    MAHAVAGGA. 1,25,7.; lines 9177-9199
+  start: '9177'
+  end: '9199'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for admitting a person formerly belonging to a
+    Titthiya school into upasampada ordination after satisfying the Bhikkhus. If such
+    a person comes naked, the upajjhaya must get him a robe; if he comes with unshaven
+    hair, the Sangha's permission should be requested before shaving it. Fire-worshippers
+    and CWilas are to receive upasampada directly without parivasa, with the stated
+    reason beginning but cut off in the supplied passage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person formerly belonging to a Titthiya school who has satisfied the Bhikkhus
+    is to receive upasampada ordination.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a former Titthiya-school person comes naked, his upajjhaya is responsible
+    for getting a robe for him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a former Titthiya-school person comes with unshaven hair, permission from
+    the Sangha should be requested before having his hair shaved.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fire-worshippers and CWilas who come to the Bhikkhus are to receive upasampada
+    ordination directly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: No parivasa is to be imposed on fire-worshippers and CWilas in this rule.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage begins to give a reason for the direct ordination rule by referring
+    to a doctrine about actions, but the supplied passage ends before the explanation
+    is complete.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: The monastic audience addressed by the rule and involved in admitting
+    candidates.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Person formerly belonging to a Titthiya school
+  description: A candidate from another school who may be admitted after satisfying
+    the Bhikkhus and who may arrive naked or with unshaven hair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Upajjhaya
+  description: The preceptor responsible for obtaining a robe for a naked candidate.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sangha
+  description: The community whose permission should be asked for shaving the candidate's
+    hair.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Fire-worshippers
+  description: A group named as eligible for direct upasampada ordination without
+    parivasa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: CWilas
+  description: A group named with fire-worshippers as eligible for direct upasampada
+    ordination without parivasa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: addressed monastic rule recipients
+  assigned_to:
+  - fig:1
+  basis: The rule is repeatedly addressed to the Bhikkhus and tells them when ordination
+    should be conferred.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ordination candidate from another school
+  assigned_to:
+  - fig:2
+  basis: The person formerly belonged to a Titthiya school and is described as receiving
+    upasampada after satisfying the Bhikkhus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: preceptor providing robe
+  assigned_to:
+  - fig:3
+  basis: The upajjhaya is required to get a robe for a naked candidate.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: permission-granting community
+  assigned_to:
+  - fig:4
+  basis: The Sangha's permission is to be requested for shaving the candidate's hair.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: directly admitted group exempt from parivasa
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Fire-worshippers and CWilas are to receive upasampada directly, with no parivasa
+    imposed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: robe
+  literal_form: robe obtained for a naked candidate
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hair shaving
+  literal_form: shaving unshaven hair after Sangha permission
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fire
+  literal_form: fire in the group label fire-worshippers
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Former Titthiya candidate admitted after satisfying Bhikkhus
+  summary: A person formerly belonging to a Titthiya school who has satisfied the
+    Bhikkhus should be conferred upasampada ordination.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Robe and hair requirements for the candidate
+  summary: If the former Titthiya candidate arrives naked, the upajjhaya must get
+    a robe; if the candidate has unshaven hair, Sangha permission should be asked
+    for hair shaving.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Direct ordination of fire-worshippers and CWilas
+  summary: Fire-worshippers and CWilas are to receive upasampada directly, with no
+    parivasa imposed; the stated reason begins with their doctrine about actions but
+    is incomplete in the supplied passage.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual initiation into a religious community
+  taxonomy_refs:
+  - initiation
+  basis: The passage prescribes upasampada ordination for former members of another
+    school and specifies admission-related procedures involving robe provision, hair
+    shaving permission, and exemption from parivasa for named groups.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a monastic legal rule rather than a narrative myth; the
+    motif label identifies a broad ritual pattern, not a developed mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9177-9184
+  quote_or_summary: A person formerly belonging to a Titthiya school who has satisfied
+    the Bhikkhus should be conferred upasampada ordination.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata; passage provided by
+    requester.
+- id: ev:2
+  type: summary
+  locator: lines 9186-9189
+  quote_or_summary: If such a person comes naked, the upajjhaya must get a robe for
+    him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata; passage provided by
+    requester.
+- id: ev:3
+  type: summary
+  locator: lines 9189-9191
+  quote_or_summary: If he comes with unshaven hair, the Sangha's permission should
+    be asked for having his hair shaved.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata; passage provided by
+    requester.
+- id: ev:4
+  type: summary
+  locator: lines 9193-9199
+  quote_or_summary: Fire-worshippers and CWilas are to receive upasampada directly
+    with no parivasa imposed; the reason begins by saying they hold a doctrine about
+    actions, but the supplied excerpt cuts off.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata; passage provided by
+    requester.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by OCR/transliteration irregularities, including the
+    form CWilas, and by the passage ending mid-explanation. No comparison claims were
+    generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Literal ritual and disciplinary details were separated from the broader initiation motif candidate.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l9177-l9199
+  passage_sha256=3eef6c846e249d1ac95349766991ef69e6b8bffa6d1ecc362867ab9d8d83a156
+

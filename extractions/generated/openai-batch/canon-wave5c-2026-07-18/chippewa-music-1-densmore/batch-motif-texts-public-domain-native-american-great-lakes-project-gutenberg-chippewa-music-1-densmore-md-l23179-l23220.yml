@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md-l23179-l23220
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: DANCES    OF    WABA'CING    CHIPPEWA / DENSMORKJ / IHILL.  53 / DENSMORK;
+    lines 23179-23220
+  start: '23179'
+  end: '23220'
+  translation: chippewa-music-1-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a short song text or gloss referring to great heaps of
+    clouds in the direction the speaker is looking, followed by Densmore's musical
+    analysis and a note that the song was said to have been composed by a woman. It
+    then begins a new entry, No. 152, titled "Around the Sky," catalogued as No. 318,
+    sung by AwuN^AKUM'itiicKUN^, with an untranslated opening text line.
+  language: English with Ojibwe/Chippewa song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A song text or gloss refers to great heaps of clouds and to the direction
+    in which a first-person speaker is looking.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis states that the song was said to have been composed by a woman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The musical analysis describes features including major tonality, frequent
+    minor-third intervals, a chord described as having strong color, harmonic structure,
+    a five-toned scale, and uncertainty of intonation on the third of the key.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A new song entry is introduced as No. 152, titled "Around the Sky," Catalogue
+    No. 318.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: No. 152 is stated to have been sung by AwuN^AKUM'itiicKUN^.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The visible opening text of No. 152 is given without an English translation
+    in the supplied passage.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed woman composer
+  description: A woman to whom the analyzed song is attributed as composer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: AwuN^AKUM'itiicKUN^
+  description: Named singer of No. 152, "Around the Sky."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: first-person song speaker
+  description: The lyric or gloss includes a first-person reference to the direction
+    in which the speaker is looking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: composer attributed by report
+  assigned_to:
+  - fig:1
+  basis: The passage says the song is said to have been composed by a woman.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: singer
+  assigned_to:
+  - fig:2
+  basis: The passage states that No. 152 was sung by AwuN^AKUM'itiicKUN^.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: observer or looker in song text
+  assigned_to:
+  - fig:3
+  basis: The gloss says "in the direction I am looking."
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: clouds
+  literal_form: great heaps of clouds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sky
+  literal_form: song title "Around the Sky"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Looking toward heaps of clouds
+  summary: The song text or gloss presents a first-person speaker looking in a direction
+    where there are great heaps of clouds.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attribution and musical analysis of song
+  summary: The passage attributes the analyzed song to a woman and describes its melodic,
+    harmonic, scale, and intonation features.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Introduction of No. 152, "Around the Sky"
+  summary: A new song entry titled "Around the Sky" is introduced with catalogue number
+    and named singer.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sky and cloud imagery in song
+  taxonomy_refs: []
+  basis: The supplied passage includes a cloud image in a song gloss and then introduces
+    a song titled "Around the Sky."
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: This is only an image pattern in a musical ethnographic passage, not a
+    developed mythic narrative motif. The line range appears to join the end of one
+    song entry with the beginning of another.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23179-23185
+  quote_or_summary: '"great heaps / of clouds" and "in the direction I am looking"
+    appear as glosses for the song text.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; source path indicates public-domain
+    collection.
+- id: ev:2
+  type: summary
+  locator: 23187-23188
+  quote_or_summary: The analysis says the song was said to have been composed by a
+    woman.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; source path indicates public-domain
+    collection.
+- id: ev:3
+  type: summary
+  locator: 23188-23212
+  quote_or_summary: Densmore analyzes the song's intervals, tonality, chord outline,
+    harmonic structure, five-toned scale, and singer's intonation.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; source path indicates public-domain
+    collection.
+- id: ev:4
+  type: quote
+  locator: 23214-23218
+  quote_or_summary: No. 152 is titled "Around the Sky" and is listed as sung by AwuN^AKUM'itiicKUN^.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; source path indicates public-domain
+    collection.
+- id: ev:5
+  type: summary
+  locator: 23219-23220
+  quote_or_summary: The visible opening text of No. 152 begins with "Ki-wi-ta- gi-jig"
+    and continues into the next line without a supplied translation in this passage.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; source path indicates public-domain
+    collection.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is moderate confidence, but motif identification is low
+    because the passage is chiefly musical analysis and a song-entry transition rather
+    than a mythic narrative. No comparison claims were entered.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy symbols do not include sky or clouds, so symbol taxonomy_refs are empty. No motif-family taxonomy ref was assigned.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md__l23179-l23220
+  passage_sha256=e7f006bb0d05cdfab8c5ce1a3c12f6c8b7f6046796b332007b6a4c875c093679
+

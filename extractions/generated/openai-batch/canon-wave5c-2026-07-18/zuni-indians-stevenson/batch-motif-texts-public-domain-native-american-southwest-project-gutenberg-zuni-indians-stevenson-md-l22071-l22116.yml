@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md-l22071-l22116
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: STEVENSONI PHYSICAL CHARACTERISTICS 383 / MEDICAL PRACTICE / WITCHCRAFT /
+    BTKVENSOX! WITCHCRAFT 399; lines 22071-22116
+  start: '22071'
+  end: '22116'
+  translation: zuni-indians-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy accused in a witchcraft investigation is compelled by warriors to
+    remove plaster and search for prayer plumes. After leading them through dark rooms,
+    two packages of old prayer plumes and a corn fetish are found. He says witches
+    placed the fetish to destroy crops. A further search for plumes said to transform
+    a witch into beast form is unsuccessful.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Warriors command the boy to expose hidden items and one hands him an ax to
+    break plaster.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The room is nearly dark, and the writer lights and holds a candle to illuminate
+    the boy's work.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boy removes plaster and repeatedly examines the fallen plaster for prayer
+    plumes while warriors watch.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: When prayer plumes are not found in the wall, the warriors accuse the boy
+    of deceiving them and lying.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy leads the group through adjoining rooms and a small hatchway into
+    lower, darker rooms.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: In a deep room, the group finds two packages of old prayer plumes beside a
+    concretion fetish about six inches in diameter.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy explains the prayer plumes and says the concretion is a corn fetish
+    placed by witches so crops might be destroyed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The warriors want prayer plumes that they believe were used to transform a
+    witch into beast form.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A young man is lowered into a lower chamber with a candle, but the search
+    does not find the sought prayer plumes.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: accused boy or youth
+  description: A youth accused by the warriors; he breaks plaster, searches for prayer
+    plumes, leads the party into deeper rooms, and explains the discovered objects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: warriors or accusers
+  description: The warriors demand exposure of the hidden items, watch the search,
+    accuse the boy of lying, inspect the plumes, and insist on finding plumes associated
+    with beast transformation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: writer
+  description: The writer lights and holds a candle for the search and follows the
+    youth into the deeper room.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: two young men
+  description: Two young men follow the party; one is lowered into the lower chamber
+    while the other passes the candle through the hatchway.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: witches or witch
+  description: Witches are named in the boy's explanation as having placed the corn
+    fetish; a witch is also the being said to be transformable into beast form by
+    prayer plumes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: accused guide and explainer
+  assigned_to:
+  - fig:1
+  basis: The youth is accused, performs the search, leads the group into deeper rooms,
+    and explains the prayer plumes and fetish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: accusers and examiners
+  assigned_to:
+  - fig:2
+  basis: The warriors demand exposure, accuse the boy of lying, examine the plumes,
+    and continue the search for transformation plumes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: observer and light-holder
+  assigned_to:
+  - fig:3
+  basis: The writer lights and holds the candle and follows the youth into the dungeon-like
+    room.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: lower-chamber search assistants
+  assigned_to:
+  - fig:4
+  basis: One young man is lowered into the lower chamber, and his companion passes
+    the candle through the hatchway.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: alleged crop-destroying and transforming witches
+  assigned_to:
+  - fig:5
+  basis: The boy says witches placed the corn fetish to destroy crops, and the warriors
+    seek plumes used to transform a witch into beast form.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: prayer plumes
+  literal_form: Two packages of old prayer plumes are found; other prayer plumes are
+    sought as objects used to transform a witch into beast form.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: concretion corn fetish
+  literal_form: A concretion fetish about six inches in diameter, described by the
+    boy as a fetish for corn placed by witches to destroy crops.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: candle light
+  literal_form: A candle is lit and held in the dark room, then passed into the lower
+    chamber during the search.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: beast form
+  literal_form: The form into which a witch is said to be transformed through the
+    use of specific prayer plumes.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: breaking plaster in a dark room
+  summary: The warriors compel the accused boy to break wall plaster and search the
+    fallen material for prayer plumes while the writer illuminates the scene with
+    a candle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: descent into deeper rooms and discovery
+  summary: After the wall search fails, the boy leads the party through adjoining
+    rooms and a small hatchway into a deeper dark room, where old prayer plumes and
+    a concretion fetish are found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: explanation and failed lower search
+  summary: The boy explains the discovered plumes and says the corn fetish was placed
+    by witches to destroy crops. The warriors then search unsuccessfully for plumes
+    said to transform a witch into beast form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hidden ritual objects revealed under accusation
+  taxonomy_refs: []
+  basis: The accused youth is forced to search for concealed prayer plumes and eventually
+    leads the accusers to old prayer plumes and a fetish in a deeper room.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an ethnographic narrative fragment and does not provide
+    the surrounding legal or ritual context.
+- id: motif:2
+  label: witchcraft object used against crops
+  taxonomy_refs: []
+  basis: The boy identifies the concretion as a corn fetish placed by witches so that
+    crops might be destroyed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The claim is reported as the boy's explanation within an accusation scene.
+- id: motif:3
+  label: ritual transformation of witch into beast form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The warriors insist on finding prayer plumes described as used to transform
+    the witch into beast form.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No transformation occurs in the passage, and the plumes associated with
+    this transformation are not found.
+comparison_claims:
+- id: claim:1
+  claim: The stated use of prayer plumes to transform a witch into beast form fits
+    a cautious shapeshifter motif classification at the level of reported belief.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports a search for transformation objects, not an enacted
+    transformation; no historical or cross-cultural contact claim is supported.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22071-22078
+  quote_or_summary: The boy fears his mother's anger; warriors demand that he expose
+    hidden items, hand him an ax, and the writer lights a candle in the almost dark
+    room while he breaks plaster.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Source path labels the text as public-domain; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 22079-22089
+  quote_or_summary: The boy searches fallen plaster for prayer plumes; when none are
+    found, warriors accuse him of lying, and he leads them through adjoining rooms
+    and a small hatchway.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Source path labels the text as public-domain; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 22090-22096
+  quote_or_summary: In a deeper, dungeon-like room, the group discovers two packages
+    of old prayer plumes on the floor beside a concretion fetish about six inches
+    in diameter.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Source path labels the text as public-domain; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 22097-22104
+  quote_or_summary: The accused separates and explains each prayer plume, and says
+    the concretion is a corn fetish placed by witches so crops might be destroyed;
+    the warriors deem the explanation complete.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Source path labels the text as public-domain; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 22105-22116
+  quote_or_summary: The warriors still want prayer plumes used to transform a witch
+    into beast form; a young man is lowered into a lower chamber with a candle, but
+    the search is unsuccessful.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Source path labels the text as public-domain; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is clear, but several ritual meanings are reported speech
+    within an accusation scene. The broader context lies outside the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Claims about witches, crop destruction, and beast transformation are treated as reported statements within the passage, not as independent factual assertions.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-zuni-indians-stevenson-md__l22071-l22116
+  passage_sha256=8b8eca8999379001f00c9f0c7a698035918e56fc4728cf7195a5b6b4a98a9422
+

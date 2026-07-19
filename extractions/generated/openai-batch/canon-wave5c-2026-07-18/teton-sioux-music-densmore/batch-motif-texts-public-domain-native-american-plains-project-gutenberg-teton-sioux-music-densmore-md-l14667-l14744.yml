@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l14667-l14744
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU   OP  AMEEICAN   ETHNOLOGY / DREAM  OF  THE   CROW   AND  OWL / SOXGS   CONCERNING  THE   BEAR
+    / I    I; lines 14667-14744
+  start: '14667'
+  end: '14744'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The glossed song text describes an unidentified figure coming from the
+    north to attack. The speaker calls attention to him, says he threw dust upon himself,
+    and says he came with a different heart. A footnote explains that the phrase about
+    a different heart indicates anger in the usage of medicine-men. The editorial
+    analysis discusses recorded renditions, melodic features, and classifies the surrounding
+    section as old songs concerning personal dreams.
+  language: Teton Sioux/Dakota terms with English gloss and English editorial prose
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unidentified figure is described as coming from the north to attack.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The glossed words direct attention toward the attacking figure in that direction.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first-person speaker says that he threw dust upon himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The first-person speaker says that he came with a heart that is different.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: An editorial footnote states that, in the usage of medicine-men, the phrase
+    about a different heart indicates anger.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The editorial analysis reports that two renditions of the song were recorded
+    and that the intonation was wavering, making smaller intervals in the transcription
+    approximate.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The editorial analysis notes prominent large intervals, a prominent fourth,
+    many minor thirds, and a tempo change in both renditions.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The section heading classifies the material as old songs concerning personal
+    dreams.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The voice in the glossed song who says that he threw dust upon himself
+    and came with a different heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unidentified attacker from the north
+  description: A figure described as coming from the north to attack and as the one
+    to be beheld.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: medicine-men
+  description: A referenced group whose usage of the phrase about a different heart
+    is said to indicate anger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: first-person song speaker
+  assigned_to:
+  - fig:1
+  basis: 'The gloss gives first-person actions: throwing dust upon himself and coming
+    with a different heart.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: approaching attacker
+  assigned_to:
+  - fig:2
+  basis: The gloss says he comes from the north to attack.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual specialists referenced by editor
+  assigned_to:
+  - fig:3
+  basis: The footnote identifies medicine-men as users of the phrase that indicates
+    anger.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dust thrown upon oneself
+  literal_form: dust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: north as source direction
+  literal_form: from the north
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: different heart as anger marker
+  literal_form: heart that is different
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Attacker approaches and speaker prepares with dust
+  summary: A figure comes from the north to attack. The song speaker calls attention
+    to him, throws dust upon himself, and describes arriving with a different heart,
+    a phrase glossed by the editor as indicating anger in medicine-men's usage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: attacker approaching from a cardinal direction
+  taxonomy_refs: []
+  basis: The glossed song says that a figure comes from the north to attack.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is a short song gloss; no broader narrative context is supplied.
+- id: motif:2
+  label: self-covering with dust before or during confrontation
+  taxonomy_refs: []
+  basis: The first-person speaker says he threw dust upon himself in the same sequence
+    that describes an approaching attacker.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage does not explain the function of the dust action; any ritual
+    or symbolic meaning beyond the literal act would require external evidence.
+- id: motif:3
+  label: changed heart expressing anger
+  taxonomy_refs: []
+  basis: The song says the speaker came with a different heart, and the footnote states
+    that this phrase indicates anger in the usage of medicine-men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The anger interpretation is editorially supplied for the phrase, not developed
+    as a narrative episode.
+- id: motif:4
+  label: personal dream song pattern
+  taxonomy_refs: []
+  basis: The section heading identifies the material as old songs concerning personal
+    dreams.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a genre or performance classification rather than a fully described
+    mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14667-14702
+  quote_or_summary: 'Glossed song text: a figure comes from the north to attack; the
+    speaker calls attention to him, says he threw dust upon himself, and says he came
+    with a different heart.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized from the provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 14703-14705
+  quote_or_summary: 'Footnote: in the usage of medicine-men, the phrase about a different
+    heart indicates anger.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized from the provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 14708-14724
+  quote_or_summary: 'Editorial analysis: two renditions were recorded; intonation
+    was wavering; the transcription should be regarded as approximate for many smaller
+    intervals.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized from the provided
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 14725-14737
+  quote_or_summary: 'Editorial analysis: broad melodic features include many intervals
+    larger than a major third, a prominent fourth, many minor thirds, and a tempo
+    change in both renditions.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized from the provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 14738-14744
+  quote_or_summary: The passage references analyses of other groups of dream songs
+    and gives the heading 'Old Songs — Songs Concerning Personal Dreams' followed
+    by 'Melodic Analysis.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized from the provided
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based on the provided gloss and editorial notes. Motif
+    labels are tentative because the excerpt is a short song fragment with limited
+    narrative context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not directly support the supplied taxonomy terms.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l14667-l14744
+  passage_sha256=2a670b18310dc96d96fa1c3b8e6344d4617158988046302df6dc950007d7ec89
+

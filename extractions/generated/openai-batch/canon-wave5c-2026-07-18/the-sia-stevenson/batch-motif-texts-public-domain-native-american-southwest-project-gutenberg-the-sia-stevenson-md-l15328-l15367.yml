@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l15328-l15367
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD UTENSILS, ETC. / HOUSEHOLD UTENSILS. / SWEAT HOUSES. / HOUSEHOLD
+    UTENSILS, ETC.; lines 15328-15367
+  start: '15328'
+  end: '15367'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the valuation and cleaning of pipes, decoration on
+    a horn pipe-cleaner, preparation of inferior plug tobacco with a coal of fire,
+    lack of native brewing or fermenting of liquor, holiday spruce beer made by company
+    servants and its effect on a recipient, and the use and regional form of birch-bark
+    canoes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pipes are valued according to the color of the stone and the amount of labor
+    used to make them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Accumulations inside the pipes are removed with a bodkin-shaped instrument
+    made of bone or horn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A broken horn comb is described as a favored material for a decorated pipe-cleaner,
+    and its handle bears cruciform and quadrate figures.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tobacco used for smoking is described as inferior black plug tobacco soaked
+    with molasses and licorice, cut into pieces, and lit by placing a coal of fire
+    on it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people described are said not to know how to brew or ferment liquors,
+    and importation of intoxicants is prohibited.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Company servants make spruce beer for holidays; when a taste is given to a
+    favored individual, he becomes visibly affected, and requests for drink become
+    frequent enough that the barrel is emptied to stop the begging.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: All Indians of the region are said to use birch-bark canoes, and the Little
+    Whale River canoe style is described as having more sheer at the bow and stern.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians/native people of the region
+  description: The people described as using pipes, smoking tobacco, being subject
+    to liquor restrictions, and using birch-bark canoes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: servants of the company
+  description: People said to make spruce beer for holidays.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: favored Indian recipient of spruce beer
+  description: An individual given a taste of spruce beer who is described as easily
+    affected and returning happily to his tent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Little Whale River Indians
+  description: A group on the eastern side of Hudson Bay whose canoe style is mentioned
+    as having more sheer at bow and stern.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pipe users and maintainers
+  assigned_to:
+  - fig:1
+  basis: The passage describes pipe valuation, pipe filth, and cleaning of pipe interiors
+    with a bone or horn tool.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: people without native liquor brewing
+  assigned_to:
+  - fig:1
+  basis: The passage says they do not know how to brew or ferment liquors and have
+    no opportunity for intoxicants because importation is prohibited.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: birch-bark canoe users
+  assigned_to:
+  - fig:1
+  basis: The passage says all Indians of the region use birch-bark canoes.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: holiday spruce-beer makers
+  assigned_to:
+  - fig:2
+  basis: The passage says servants of the company make spruce beer for holidays.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: spruce-beer recipient and drinker
+  assigned_to:
+  - fig:3
+  basis: The passage describes a taste of spruce beer being given to a favored Indian,
+    who is affected by it.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: regional canoe-style group
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the Little Whale River Indians by the style of canoe
+    they use.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tobacco pipe
+  literal_form: Stone tobacco pipe valued by stone color and labor of manufacture.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pipe-cleaner
+  literal_form: Bodkin-shaped pipe-cleaning instrument of bone or horn; a broken horn
+    comb is used for a decorated example.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: cruciform and quadrate figures
+  literal_form: Decorative cruciform and quadrate figures on the handle of a pipe-cleaner.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: coal of fire
+  literal_form: A coal of fire placed on cut tobacco for smoking.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spruce beer
+  literal_form: Mild spruce beer made by company servants for holidays and kept in
+    a barrel.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: birch-bark canoe
+  literal_form: Birch-bark canoe used by regional Indians; Little Whale River examples
+    are described by bow and stern sheer.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pipe valuation, cleaning, and ornamentation
+  summary: The passage describes how pipes are valued, how they are cleaned with a
+    bone or horn instrument, and how a decorated pipe-cleaner can bear cruciform and
+    quadrate figures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Smoking tobacco with fire
+  summary: Inferior black plug tobacco is prepared with molasses and licorice, cut
+    into pieces, and lit with a coal of fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Holiday spruce beer and requests for drink
+  summary: Company servants make spruce beer for holidays; a favored recipient becomes
+    affected by a small amount, news spreads, and repeated requests lead to the barrel
+    being emptied.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Regional birch-bark canoes
+  summary: The passage states that regional Indians use birch-bark canoes and notes
+    a distinctive Little Whale River canoe shape at the bow and stern.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15328-15334
+  quote_or_summary: Pipes are valued by stone color and labor; they are described
+    as filthy, and their interior accumulations are removed with a bodkin-shaped instrument
+    of bone or horn.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 15334-15338
+  quote_or_summary: A broken horn comb is favored for making a decorated pipe-cleaner,
+    and the ornamentation consists of cruciform and quadrate figures on the handle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 15338-15344
+  quote_or_summary: The smoking tobacco is inferior black plug soaked with molasses
+    and licorice; it is cut into pieces, a coal of fire is placed on it, and lighter
+    drier tobacco is used as kindling for the darker sort.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 15345-15350
+  quote_or_summary: The passage states that the people do not know how to brew or
+    ferment liquors, that importation of intoxicants is prohibited, and that earlier
+    supplies had been plentiful.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 15350-15360
+  quote_or_summary: Company servants make spruce beer for holidays; a small amount
+    given to a favored Indian affects him strongly, news of beer spreads, requests
+    for drink increase, and the barrel is emptied to stop the begging.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+- id: ev:6
+  type: summary
+  locator: 15361-15367
+  quote_or_summary: All Indians of the region are said to use birch-bark canoes; the
+    Little Whale River Indians on the eastern side of Hudson Bay are said to use a
+    style with more sheer at bow and stern. The sentence is incomplete at the passage
+    end.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in source metadata; evidence summarized
+    rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Extraction is limited by OCR corruption and an incomplete final sentence.
+    The passage is primarily ethnographic/material-culture description rather than
+    myth narrative, so no mythological candidate motifs or comparison claims were
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used. Literal material objects were recorded under symbols without assigning symbolic interpretation beyond the available taxonomy reference for literal fire.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l15328-l15367
+  passage_sha256=dce3c8676a35166448c655885b9ae601185bd431827dc5e15bcd74ac224eca2a
+

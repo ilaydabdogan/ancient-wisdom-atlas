@@ -1,0 +1,586 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4887-l4981
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4887-4981
+  start: '4887'
+  end: '4981'
+  translation: arabian-nights-lang
+  notes: Generated from OpenAI Batch run reextract-suspect-2026-07-18; human review
+    required.
+canonical_text:
+  quote: ''
+  summary: A Christian merchant is arrested after being found with a motionless hunchback
+    Muslim. The Sultan orders the merchant hanged, but the Sultan's purveyor interrupts
+    at the gallows and confesses. The purveyor is then to be hanged, but a Jewish
+    doctor interrupts and claims responsibility, explaining a dark staircase accident
+    and the disposal of the corpse through the purveyor's chimney. As the doctor is
+    about to be hanged, a tailor interrupts and asks to speak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quarter policeman finds a Christian merchant ill-treating a hunchback Muslim,
+    who does not move, and the merchant is taken into custody.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The merchant cannot understand how the hunchback could have died merely from
+    the blows he received.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chief of police consults the Sultan, who says there is no pardon for a
+    Christian who kills a Muslim, and a gallows is ordered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The merchant is brought from prison to the gallows, and the executioner knots
+    a cord around his neck.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Sultan's purveyor interrupts the hanging and says that he, not the merchant,
+    committed the murder.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The purveyor says the hunchback was already dead before the merchant encountered
+    the body, so the merchant is innocent.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The chief of police orders the merchant released and the purveyor hanged in
+    his place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A Jewish doctor interrupts and says he alone is guilty, recounting that strangers
+    brought a patient, and in darkness he knocked the body down the stairs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The doctor says he and his wife moved the dead body to the roof and lowered
+    it down the purveyor's chimney.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The doctor asks that the purveyor be released and that he himself take the
+    purveyor's place.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: When the doctor is at the gallows with the cord around his neck, a tailor
+    interrupts and asks the executioner to pause.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Christian merchant
+  description: A merchant accused of killing the hunchback; he is imprisoned, led
+    to the gallows, and then released after the purveyor's confession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: hunchback Muslim
+  description: A hunchback identified as one of the Sultan's private jesters; his
+    motionless or dead body is the focus of the accusations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: chief policeman of the quarter
+  description: The officer who finds the merchant with the hunchback and takes him
+    to the inspector of police.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: chief of police
+  description: The authority who questions the accused, consults the Sultan, attends
+    the execution, and orders substitutions at the gallows.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Sultan
+  description: The ruler who refuses pardon and tells the chief of police to do his
+    duty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: executioner or hangman
+  description: The official who knots the cord and is repeatedly stopped before completing
+    the hangings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Sultan's purveyor
+  description: A man who interrupts the merchant's execution, confesses responsibility,
+    explains that he moved the body, and is then ordered to be hanged.
+  role_refs:
+  - role:1
+  - role:6
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Jewish doctor
+  description: A doctor who interrupts the purveyor's hanging, recounts an accidental
+    death on a dark staircase, and asks to be hanged instead.
+  role_refs:
+  - role:1
+  - role:6
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: tailor
+  description: A tailor whose voice interrupts the doctor's hanging and asks for a
+    pause to speak.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: crowd
+  description: The gathered public at the execution who hear the purveyor's confession.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: doctor's wife
+  description: The doctor's wife, who helps take the body onto the roof and lower
+    it down the purveyor's chimney.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: condemned or near-execution subject
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:8
+  basis: Each is placed under sentence or at the gallows after an accusation or confession.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: dead victim and transported body
+  assigned_to:
+  - fig:2
+  basis: The hunchback is motionless or dead, and his body is moved between locations
+    in the accounts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: initial arresting officer
+  assigned_to:
+  - fig:3
+  basis: The quarter policeman discovers the scene and takes the merchant to police
+    custody.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: judicial or penal authority
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Sultan authorizes punishment, and the chief of police administers questioning
+    and execution orders.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: execution agent
+  assigned_to:
+  - fig:6
+  basis: The executioner knots the cord and prepares to hang the condemned persons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:6
+  label: self-accusing substitute
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The purveyor and the doctor each declare themselves guilty and ask that another
+    person be released.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: interrupter at the execution
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Each interrupts or halts a hanging at the gallows to speak.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:8
+  label: public witnesses
+  assigned_to:
+  - fig:10
+  basis: The crowd hears the purveyor's confession, affecting the chief of police's
+    ability to proceed against the merchant.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: corpse transporter or disposer
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:11
+  basis: The purveyor says he carried the body to where the merchant found it; the
+    doctor and his wife move the body by roof and chimney.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: gallows
+  literal_form: execution scaffold erected for public hanging
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: cord or noose
+  literal_form: cord tied around the neck before hanging
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: dead hunchback's body
+  literal_form: motionless or dead body moved from place to place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: dark staircase
+  literal_form: unlit staircase where the doctor collides with something and the body
+    falls down
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: roof and chimney
+  literal_form: route used to lower the corpse into the purveyor's room
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: prison
+  literal_form: place where the merchant is held before being brought to the gallows
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: arrest after the hunchback is found motionless
+  summary: The quarter policeman finds the Christian merchant with the hunchback Muslim,
+    sees that the hunchback does not move, and the merchant is imprisoned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: judgment and gallows preparation
+  summary: The chief of police questions the merchant, consults the Sultan, and has
+    gallows erected after the Sultan refuses pardon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: purveyor's confession at the gallows
+  summary: As the merchant is about to be hanged, the Sultan's purveyor interrupts,
+    confesses, says the hunchback was already dead before the merchant encountered
+    him, and is substituted for the merchant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: doctor's confession and corpse-disposal account
+  summary: The Jewish doctor interrupts the purveyor's hanging and explains that he
+    knocked the body down a dark staircase, found it dead, and moved it with his wife
+    through the roof and chimney into the purveyor's room.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: tailor interrupts the doctor's hanging
+  summary: The doctor is led to the gallows and the cord is placed around his neck;
+    before the hanging is completed, the tailor asks the executioner to pause and
+    listen.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: false culpability from an already-dead body
+  taxonomy_refs: []
+  basis: The merchant and purveyor are successively treated as killers, while confessions
+    assert that the hunchback was already dead before later actions attributed as
+    murder.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the doctor's account as the earliest cause in this excerpt,
+    but the larger tale may add further explanation outside this range.
+- id: motif:2
+  label: last-moment interruption of execution
+  taxonomy_refs: []
+  basis: The purveyor interrupts the merchant's hanging, the doctor interrupts the
+    purveyor's hanging, and the tailor interrupts the doctor's hanging.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No wider comparative claim is made from this passage alone.
+- id: motif:3
+  label: successive substitution of condemned persons
+  taxonomy_refs: []
+  basis: Each confession transfers the place of the condemned from the merchant to
+    the purveyor and then to the doctor.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The sequence is incomplete at the end of the supplied passage because
+    the tailor has not yet given his account.
+- id: motif:4
+  label: corpse relocation to avoid blame
+  taxonomy_refs: []
+  basis: The purveyor says he carried the body to the place where the merchant found
+    it, and the doctor says he and his wife lowered the corpse into the purveyor's
+    room through the chimney.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The purveyor's prior motive is only summarized in this excerpt, while
+    the doctor's disposal is described more fully.
+- id: motif:5
+  label: public confession constraining punishment
+  taxonomy_refs: []
+  basis: The purveyor's loud confession is heard by the crowd, and the chief of police
+    cannot avoid setting the merchant free.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a local narrative pattern in the passage, not a cross-textual
+    comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4887-4906
+  quote_or_summary: A quarter policeman finds a Christian merchant ill-treating a
+    hunchback Muslim; the hunchback does not move, the merchant is imprisoned, and
+    he wonders how the hunchback could have died from his blows.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4907-4916
+  quote_or_summary: The chief of police questions the merchant, consults the Sultan,
+    and receives the answer that there is no pardon for a Christian who kills a Muslim;
+    gallows and public criers are ordered.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4917-4925
+  quote_or_summary: The merchant is brought from prison to the gallows; the executioner
+    knots the cord around his neck, and the Sultan's purveyor rushes through the crowd
+    to stop the hanging and confess.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4926-4938
+  quote_or_summary: The purveyor tells how the hunchback died and how he carried the
+    body to where the merchant found it; he says the merchant is innocent, the crowd
+    hears, and the chief orders the merchant released and the purveyor hanged.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4939-4967
+  quote_or_summary: The Jewish doctor stops the hanging, says strangers brought a
+    patient, and explains that in darkness he knocked the body down the stairs, found
+    it dead, then with his wife lowered it through the purveyor's chimney; he asks
+    to replace the purveyor.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4968-4981
+  quote_or_summary: The doctor is led to the gallows, the cord is put around his neck,
+    and as his feet cease to touch the ground the tailor asks the executioner to pause
+    and listen.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Repository path indicates public-domain Project Gutenberg text; evidence
+    summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage gives clear evidence for the execution-substitution sequence.
+    Motif labels are descriptive and not mapped to the supplied taxonomy because no
+    available motif family is directly supported. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage. Archaic religious labels are retained only where they identify figures as described in the passage.
+  batch_run_id=reextract-suspect-2026-07-18
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4887-l4981
+  passage_sha256=e463ca1ff4a7dca215541e4d0af6a3c33631522bddda92486b30338a112fe42a
+

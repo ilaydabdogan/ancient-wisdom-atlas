@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md-l44867-l45172
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BBWITT / LEOEND6 / CUKTIN,! / UBGBKDS; lines 44867-45172
+  start: '44867'
+  end: '45172'
+  translation: seneca-fiction-legends-myths-curtin-hewitt
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden follows and seeks a male figure after he disappears. She arrives
+    near a large standing tree where he is associated with climbing or working. The
+    passage then describes a raccoon and a sequence of body exchange or piled bodies.
+    The maiden watches Two Feathers, speaks to him about bringing his body down, and
+    a yellowhammer cries out and flies or sings along the forest edge. The maiden
+    then says the situation is discouraging and that he has angered her.
+  language: Seneca with English interlinear glosses, as provided; OCR/text condition
+    is unclear.
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure looks for a male figure after he disappears, pursues him,
+    seeks him, does her best, and follows him far away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The female figure comes to or stands near a large standing tree, and the male
+    figure is described as climbing about it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes a raccoon in connection with exchanging bodies, body
+    after body, and a high or long pile of bodies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The maiden watches Two Feathers while he is working.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The maiden speaks to Two Feathers and asks him to bring his body down, with
+    the gloss indicating exhaustion.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A yellowhammer cries out, is seen by the maiden, and flies or sings along
+    near the forest edge.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The maiden says the situation is discouraging and that he has angered her,
+    according to the English gloss.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the maiden
+  description: A female figure who pursues, seeks, follows, watches, and speaks in
+    the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Two Feathers / pursued male figure
+  description: A male figure pursued by the maiden, associated with climbing at the
+    tree, later named or addressed as Two Feathers and described as working.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: raccoon
+  description: An animal figure mentioned in a sequence involving exchanged bodies
+    and a pile of bodies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: yellowhammer
+  description: A bird that cries out with repeated calls, is seen, and flies or sings
+    along near the forest edge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: seeker, watcher, and speaker
+  assigned_to:
+  - fig:1
+  basis: The maiden pursues and seeks the male figure, watches near the tree, speaks
+    to Two Feathers, sees the yellowhammer, and comments on her anger or discouragement.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: pursued climber or worker
+  assigned_to:
+  - fig:2
+  basis: The male figure is pursued after disappearing, is associated with climbing
+    about a large tree, and Two Feathers is described as working and addressed by
+    the maiden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: animal in body-exchange sequence
+  assigned_to:
+  - fig:3
+  basis: The raccoon is mentioned with exchanged bodies, body after body, and a body
+    pile.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: crying and flying bird
+  assigned_to:
+  - fig:4
+  basis: The yellowhammer cries out, is seen, and flies or sings along near the forest
+    edge.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: large standing tree
+  literal_form: A large tree beside which the maiden stands and around which the male
+    figure is described as climbing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: raccoon body exchange and body pile
+  literal_form: Raccoon-associated exchanged bodies, body after body, forming a high
+    or long pile.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: yellowhammer cry and flight
+  literal_form: A yellowhammer crying repeated calls and flying or singing along at
+    the forest edge.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pursuit after disappearance
+  summary: The maiden looks for a male figure, he disappears, and she pursues, seeks,
+    and follows him far away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree encounter and raccoon body sequence
+  summary: The maiden reaches a large standing tree where the male figure is associated
+    with climbing or working, and the passage describes a raccoon with exchanged bodies
+    and a body pile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Maiden's address and yellowhammer flight
+  summary: The maiden speaks to Two Feathers about bringing his body down; then a
+    yellowhammer cries, is seen, and flies or sings along near the forest edge, after
+    which the maiden expresses discouragement and anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Pursuit and search for a disappearing figure
+  taxonomy_refs: []
+  basis: The passage says the male figure disappears and that the maiden pursues,
+    seeks, follows, and does her best to find him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The OCR and interlinear glossing make the exact relationship between the
+    figures uncertain.
+- id: motif:2
+  label: Animal-associated body exchange or transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The raccoon passage describes exchanged bodies, body after body, and a body
+    pile; this may indicate a transformation or body-changing episode.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not clearly state who changes bodies, and the OCR/interlinear
+    condition makes a shapeshifter reading uncertain.
+- id: motif:3
+  label: Tree-centered encounter
+  taxonomy_refs: []
+  basis: The maiden stops beside a large standing tree, and the male figure is associated
+    with climbing about it before the subsequent animal-body sequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The tree is clearly present, but no explicit sacred or cosmic function
+    is stated in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 44867-45172, opening pursuit sequence
+  quote_or_summary: A female figure looks for where the male figure was; he disappears,
+    and she pursues, seeks, follows, and does her best far away.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:2
+  type: summary
+  locator: 44867-45172, large tree sequence
+  quote_or_summary: The glosses describe a large standing tree; the male figure is
+    described as climbing about it, and the female figure arrives or stands near it.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:3
+  type: summary
+  locator: 44867-45172, raccoon body sequence
+  quote_or_summary: The raccoon is described with exchanged bodies, body after body,
+    and a high or long pile of bodies.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:4
+  type: summary
+  locator: 44867-45172, Two Feathers working
+  quote_or_summary: The maiden watches Two Feathers, who is described as working.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:5
+  type: summary
+  locator: 44867-45172, maiden's speech to Two Feathers
+  quote_or_summary: The maiden speaks to Two Feathers and asks him to bring his body
+    down, with the gloss indicating that he has exhausted it.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:6
+  type: summary
+  locator: 44867-45172, yellowhammer episode
+  quote_or_summary: A yellowhammer cries out with repeated calls, the maiden sees
+    it, and it flies or sings along near the forest edge.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+- id: ev:7
+  type: summary
+  locator: 44867-45172, maiden's closing complaint
+  quote_or_summary: The maiden says, according to the gloss, that the situation is
+    very discouraging and that he has angered her.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source_metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Basic figures and actions are extractable from the English interlinear glosses,
+    but OCR damage and fragmented syntax make role assignments and motif interpretation
+    uncertain. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the provided passage and metadata. Taxonomy references are limited to supplied available refs; tree is recorded as a symbol, and shapeshifter is used only as a low-confidence motif candidate.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md__l44867-l45172
+  passage_sha256=841e8ad17859bbf7c24432ad0780626d4b54fc816f9829cc48a7b4e92526edcb
+

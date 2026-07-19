@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l28177-l28273
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OF  AMERICAN  ETHNOLOOV  BULLETIN  SI     PLATE  G7 / ONE  BUFFALO
+    / BUBEAU  OP  AMERICAN  ETHNOLOGY / WOBOB; lines 28177-28273
+  start: '28177'
+  end: '28273'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: '"May I Be There"'
+  summary: The passage gives song No. 156, sung by One Feather, with a gloss indicating
+    that the speaker addresses friends and asks to be present whenever a friend pursues
+    anything. It then analyzes the melody. A closing sentence introduces the following
+    song as referring to a prairie fire kindled by a war party as a signal of defiance
+    to an enemy.
+  language: English with transcribed song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies song No. 156 as titled "May I Be There" and as sung
+    by One Feather.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The glossed song text addresses friends or a friend and includes the request
+    that the speaker may be there whenever the friend pursues anything.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis describes the melody as having a compass of an octave, lacking
+    the sixth and seventh tones, moving principally by whole tones, changing time
+    with the words, and being rhythmic throughout.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the following song refers to a fire sometimes kindled
+    on the prairie by a war party as a signal of defiance to the enemy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The prairie is named as the setting where the signal fire could be kindled.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: One Feather
+  description: Named singer of song No. 156.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: song speaker
+  description: The voice implied by the translated request, "may I be there."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: friends or friend
+  description: The addressed persons in the glossed song text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: war party
+  description: Collective actor said to sometimes kindle a prairie fire as a signal
+    of defiance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: enemy
+  description: The target toward whom the prairie fire functions as a signal of defiance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The heading states that the song was sung by One Feather.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker requesting presence
+  assigned_to:
+  - fig:2
+  basis: The gloss includes the request "may I be there."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:3
+  basis: The gloss begins with friends/friend as addressed persons.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: kindler of signal fire
+  assigned_to:
+  - fig:4
+  basis: The passage says a war party sometimes kindled the fire on the prairie.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: target of defiance
+  assigned_to:
+  - fig:5
+  basis: The fire is described as a signal of defiance to the enemy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire as signal of defiance
+  literal_form: fire kindled on the prairie
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song request to accompany a friend
+  summary: In the glossed song text, a speaker addresses friends or a friend and asks
+    to be present whenever the friend pursues anything.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: War party signal fire
+  summary: A war party sometimes kindles a fire on the prairie, and the fire serves
+    as a signal of defiance to the enemy.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wish to accompany a friend in an undertaking
+  taxonomy_refs: []
+  basis: The glossed lyric says, in effect, that whenever a friend pursues anything,
+    the speaker wishes to be there.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The lyric is very brief, and the passage does not describe a narrative
+    action beyond the request.
+- id: motif:2
+  label: fire used as a martial signal of defiance
+  taxonomy_refs: []
+  basis: The passage explicitly describes a prairie fire kindled by a war party as
+    a signal of defiance to the enemy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This statement introduces the following song rather than the fully printed
+    contents of that following song within the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 28177-28273, song heading
+  quote_or_summary: Song No. 156 is titled "May I Be There" and is identified as sung
+    by One Feather.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; brief citation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 28177-28273, gloss under song No. 156
+  quote_or_summary: 'The gloss gives friends/friend as addressee and renders the sense
+    as: whenever you pursue anything, may I be there.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized with minimal quotation.
+- id: ev:3
+  type: summary
+  locator: lines 28177-28273, musical analysis
+  quote_or_summary: The analysis describes octave compass, omitted sixth and seventh
+    tones, primarily whole-tone progressions, a time change with the words, and rhythmic
+    structure.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 28177-28273, transition to following song
+  quote_or_summary: The following song is said to refer to a prairie fire sometimes
+    kindled by a war party as a signal of defiance to the enemy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit headings, glosses, analysis, and the closing
+    note. Motif identification is limited by the brief lyric and by the fact that
+    the fire reference introduces the following song.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this material to another named text, motif family, or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l28177-l28273
+  passage_sha256=3a35d575709072c377ebec7609e5d4658618b952099f79aeca6bf9690e1334f0
+

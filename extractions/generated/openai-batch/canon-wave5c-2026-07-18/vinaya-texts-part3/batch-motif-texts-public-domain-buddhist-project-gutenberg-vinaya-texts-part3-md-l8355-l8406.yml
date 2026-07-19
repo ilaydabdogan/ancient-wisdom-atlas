@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l8355-l8406
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VI, 3. 2. / KULLAVAGGA. / VT, 3 . 6. / VI, 3, 9 -; lines 8355-8406
+  start: '8355'
+  end: '8406'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists permitted constructions and fittings for a monastic
+    setting: three kinds of ramparts, a store-room, a high basement to prevent flooding,
+    a detailed door assembly, repairs for falling grass and plaster, and a notice
+    that Bhikkhus had made fireplaces throughout the Parive/ja so that it was covered
+    with fire remains.'
+  language: English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Ramparts are described as having three kinds: brick walls, stone walls, and
+    wooden fences.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there was no store-room and then gives permission
+    for a store-room.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A store-room with too low a basement was flooded with water, and a high basement
+    is permitted.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A store-room lacked a door, and the permitted door is described with posts,
+    lintel, pivot hollows, projections, bolt fittings, key-hole, and closing string.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Grass and plaster fell from the store-room, and the passage permits related
+    construction measures by reference to roofing, flooring, drains, and similar items.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Bhikkhus made fireplaces in various places in the Parive/ja, and the Parive^a
+    was covered with remains of fires.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bhikkhus
+  description: The monastic group addressed in the permissions and described as making
+    fireplaces in the Parive/ja.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Unnamed first-person speaker of the permissions
+  description: The speaker who repeatedly says, 'I allow, O Bhikkhus,' in the quoted
+    regulations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Recipients of permissions
+  assigned_to:
+  - fig:1
+  basis: The allowances are addressed to 'O Bhikkhus.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Makers of fireplaces
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Bhikkhus made fireplaces here and there in the
+    Parive/ja.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Rule-giving speaker
+  assigned_to:
+  - fig:2
+  basis: The repeated first-person formula grants permission for architectural and
+    practical measures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Water flooding
+  literal_form: water flooding the low-basement store-room
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Fire and fire remains
+  literal_form: fireplaces and remains of fires in the Parive/ja
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Store-room deficiencies and permissions
+  summary: The passage moves from absence of a store-room to permissions for a store-room,
+    a higher basement against flooding, a detailed door assembly, and repairs related
+    to falling materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Fireplaces in the Parive/ja
+  summary: The Bhikkhus make fireplaces in various places, leaving the Parive/ja covered
+    with fire remains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Practical allowance following infrastructural deficiency
+  taxonomy_refs: []
+  basis: 'Several items follow a problem-response sequence: no store-room leads to
+    permission for one; flooding leads to a high basement; no door leads to detailed
+    door fittings; falling materials lead to construction measures.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an administrative or legal pattern in the passage, not a mythological
+    motif; no supplied motif-family taxonomy ref clearly applies.
+- id: motif:2
+  label: Fire management problem in a monastic precinct
+  taxonomy_refs: []
+  basis: The Bhikkhus make fireplaces throughout the Parive/ja, which becomes covered
+    with remains of fires.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The excerpt states the problem condition but does not include a resolution
+    within the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself and its notes link these construction allowances to earlier
+    or nearby sections, supporting only a cautious same-function comparison within
+    the same Vinaya translation.
+  claim_level: same_function
+  target: Vinaya-texts-part3, V, 14, 3-5 and nearby §10 references mentioned in the
+    passage notes
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt provides editorial cross-references but not the
+    full compared passages; no broader historical or mythological relationship is
+    established.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8355-8358
+  quote_or_summary: '"ramparts (Pakira) of three kinds — brick walls, stone walls,
+    and wooden fences."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:2
+  type: quote
+  locator: 8359-8362
+  quote_or_summary: '"There was no store-room... ''I allow, O Bhikkhus, a store-room.''"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:3
+  type: quote
+  locator: 8363-8367
+  quote_or_summary: '"The store-room had too low a basement, and it was flooded with
+    water"; a high basement is then allowed.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:4
+  type: summary
+  locator: 8368-8382
+  quote_or_summary: The store-room had no door; a door is allowed with door-posts,
+    lintel, pivot hollows and projections, bolt rings and cavity, pin, connecting
+    bolt, key-hole, string-hole, and string.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:5
+  type: summary
+  locator: 8383-8387
+  quote_or_summary: Grass and plaster fell from the store-room; the passage allows
+    measures by cross-reference to V, 14, 4-5 on roofing, flooring, drains, and related
+    construction.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:6
+  type: quote
+  locator: 8389-8392
+  quote_or_summary: '"the Bhikkhus made fireplaces here and there in the Parive/ja,
+    and the Parive^a was covered with the remains of the fires"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+- id: ev:7
+  type: summary
+  locator: 8394-8401
+  quote_or_summary: The notes compare the store-room/gateway term with allied passages,
+    including V, 14, 4, V, 14, 3, and a closely allied passage in the next section
+    but one (§10).
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: rights_status not supplied in metadata; passage supplied by requester
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is regulatory rather than mythic, and available motif-family taxonomy
+    refs do not clearly apply.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No broader comparative mythology claim is made beyond the passage’s own internal cross-references.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l8355-l8406
+  passage_sha256=d7cfd21344c4ee890f957de347f47de2612767d724795ca8a76f9c3bfb44cda4
+

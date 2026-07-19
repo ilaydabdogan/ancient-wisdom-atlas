@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l1246-l1295
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: XXX VINAYA TEXTS FROM THE PALI. / XXX11 VINAYA TEXTS FROM THE PALI. / XXXIV
+    VINAYA TEXTS FROM THE PALI. / INTRODUCTION. XXXV; lines 1246-1295
+  start: '1246'
+  end: '1295'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that early Buddhists likely did not write down canonical
+    literature because writing had not yet been adapted for literary use, not because
+    writing sacred books was considered irreverent. It then cites Ceylonese chronicle
+    tradition that the Three Piṭakas and their commentary were first handed down orally
+    and later written in books by Bhikkhus who wished the Dhamma to endure amid decay.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author considers and rejects the possibility that writing sacred books
+    was avoided because it would have been irreverent.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Buddhist community is described as adopting the language of the people
+    and disregarding caste distinctions within the community.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author infers that writing was known but used mainly for short messages,
+    notes, private letters, or public advertisements rather than literature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A cited chronicle verse says the text of the Three Piṭakas and the commentary
+    had been handed down by word of mouth by wise former Bhikkhus.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited verse says later Bhikkhus perceived that beings decay, met together,
+    and wrote the texts in books so that the Dhamma might last long.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A footnote states that the stanza is common to both the Dīpavaṃsa and the
+    Mahāvaṃsa and was probably taken from the old Sinhalese commentary preserved at
+    the Mahāvihāra in Anurādhapura.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Buddhist community
+  description: A community described as adopting the language of the people and taking
+    no account of caste within its ranks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wise Bhikkhus of former time
+  description: Bhikkhus said to have handed down the text of the Three Piṭakas and
+    the commentary by word of mouth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: then Bhikkhus
+  description: Bhikkhus who, perceiving decay, met together and wrote the texts in
+    books so that the Dhamma might last long.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Vaṭṭa Gāmaṇi
+  description: A ruler named as beginning to reign in 88 B.C.; his time is associated
+    with the cited Ceylonese chronicle tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: vernacular and non-caste community
+  assigned_to:
+  - fig:1
+  basis: The passage says the Buddhists deliberately adopted the language of the people
+    and did not observe caste within the community.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: textual preservers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Former Bhikkhus preserved the texts orally, and later Bhikkhus wrote them
+    in books to make the Dhamma last long.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chronological ruler
+  assigned_to:
+  - fig:4
+  basis: Vaṭṭa Gāmaṇi is used to date the chronicle tradition cited in the passage.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: books as textual preservation
+  literal_form: books containing the Three Piṭakas and commentary
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: word of mouth
+  literal_form: oral handing down of the text and commentary
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Explanation for non-literary use of writing
+  summary: The author argues that early non-use of writing for Buddhist literature
+    was probably due to writing not yet being used for literature, not to a belief
+    that writing the books was irreverent.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oral transmission and writing of the canon
+  summary: Former Bhikkhus transmit the Three Piṭakas and commentary by word of mouth;
+    later Bhikkhus meet and write them in books so that the Dhamma may endure.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chronicle-source relationship
+  summary: A note identifies the stanza as shared by the Dīpavaṃsa and Mahāvaṃsa and
+    probably derived from an old Sinhalese commentary preserved at the Mahāvihāra.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Oral transmission and codification of sacred teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents sacred teaching as preserved first orally and then in
+    written books so that the Dhamma may endure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is historical and source-critical rather than a mythic narrative;
+    the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: Preservation against decay
+  taxonomy_refs: []
+  basis: The cited verse says Bhikkhus perceived that beings decay and responded by
+    writing the teachings in books to make the Dhamma last long.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a textual-preservation pattern, not a fully developed mythological
+    motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the stanza about writing the Three Piṭakas is common
+    to the Dīpavaṃsa and the Mahāvaṃsa and is probably taken word for word from an
+    old Sinhalese commentary.
+  claim_level: linguistic_similarity
+  target: Dīpavaṃsa XX, 20-21; Mahāvaṃsa p.207; old Sinhalese commentary Sīhalaṭṭhakathā
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a source-critical claim reported in a footnote, not a comparative
+    mythological claim; the passage gives no independent textual excerpts from all
+    compared sources.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1246-1264
+  quote_or_summary: The author asks whether writing sacred books was avoided as irreverent,
+    rejects that explanation for Buddhists who adopted the people's language and ignored
+    caste internally, and suggests writing was then used only for short messages,
+    notes, letters, or public notices.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights_status
+    metadata is null.
+- id: ev:2
+  type: summary
+  locator: lines 1266-1285
+  quote_or_summary: 'The passage cites Ceylonese chronicle tradition for the time
+    of Vaṭṭa Gāmaṇi: the Three Piṭakas and commentary were handed down orally by earlier
+    Bhikkhus; later Bhikkhus, seeing decay, met and wrote them in books so the Dhamma
+    might last long.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights_status
+    metadata is null.
+- id: ev:3
+  type: summary
+  locator: lines 1288-1295
+  quote_or_summary: The notes cite Burnell, the Dīpavaṃsa, and the Mahāvaṃsa, and
+    state that the stanza common to both works was probably taken from the old Sinhalese
+    commentary preserved in the Mahāvihāra at Anurādhapura.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Source path indicates public-domain Project Gutenberg text; rights_status
+    metadata is null.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal content is clear, but the passage is an introduction/source-critical
+    discussion rather than a mythic narrative, so motif identification is necessarily
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is directly attested in this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l1246-l1295
+  passage_sha256=88149dd908f568778276c325a7d9cb4033c7a1655e271ca25d1571ee1d699a6a
+

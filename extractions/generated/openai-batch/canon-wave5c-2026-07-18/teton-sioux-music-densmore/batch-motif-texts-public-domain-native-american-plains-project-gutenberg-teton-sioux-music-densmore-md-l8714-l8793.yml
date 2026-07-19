@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l8714-l8793
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  E1      PLATE  V / E-BUFFALO-WALKINQ / BUREAU  OF  AMERICAN  ETHNOLOOV  BULLETIN  61     PLATE  13
+    / TETON   BIOUX  MUSIC; lines 8714-8793
+  start: '8714'
+  end: '8793'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: No. 8. '' The Many Lands You Fear ''
+  summary: The passage gives a song title, names Siya'ka as the singer, prints a song
+    text with word glosses and an English sense concerning feared lands, fearless
+    walking, and seeking black face-paint, followed by musical analysis of intervals,
+    scale, rhythm, and drum/voice timing.
+  language: English with transcribed Teton Sioux song text as printed
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the item as song No. 8, titled "The Many Lands You
+    Fear," with catalogue number 450.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the song is sung by Siya'ka.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The glossed text addresses friends and refers to many lands that they fear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The glossed text says that the speaker has walked in those lands without fear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The glossed text says the speaker seeks black face-paint.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The analysis emphasizes the song's many minor thirds, its five-toned scale,
+    two rhythmic units, and a drum rhythm in accented eighth notes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Siya'ka
+  description: Named as the singer of the song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: friends
+  description: The addressees named in the gloss of the song text.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: lyric speaker
+  description: The first-person voice in the glossed song text who has walked without
+    fear and seeks black face-paint.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage says the song is sung by Siya'ka.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed companions or friends
+  assigned_to:
+  - fig:2
+  basis: The gloss begins with a term translated as friends and addresses those who
+    fear many lands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fearless walker and seeker
+  assigned_to:
+  - fig:3
+  basis: The first-person voice says that in the feared lands he has walked without
+    fear and seeks black face-paint.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: many feared lands
+  literal_form: many lands feared by the addressed friends
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: black face-paint
+  literal_form: black face-paint sought by the lyric speaker
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: drum rhythm
+  literal_form: drum in accented eighth notes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song statement about feared lands
+  summary: The lyric voice addresses friends, names many lands as feared by them,
+    says he has walked there without fear, and says he seeks black face-paint.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Musical analysis of the song
+  summary: The passage analyzes the melody and rhythm, noting many minor thirds, a
+    five-toned scale, two rhythmic units, and drum timing.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Fearless passage through feared lands
+  taxonomy_refs: []
+  basis: The gloss contrasts lands feared by the addressees with the speaker's claim
+    to have walked in them without fear.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short song gloss, not a full narrative; no journey outcome
+    or mythic setting is supplied.
+- id: motif:2
+  label: Quest for black face-paint
+  taxonomy_refs: []
+  basis: The gloss states that the speaker seeks black face-paint.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not explain the ritual, social, or mythic meaning of
+    the black face-paint; identifying it as a quest motif is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8714-8793; song heading
+  quote_or_summary: '"No. 8. '''' The Many Lands You Fear '''' (Catalogue No. 450)";
+    "Sung by Siya''ka"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source provided as public-domain Project Gutenberg text metadata in
+    request.
+- id: ev:2
+  type: summary
+  locator: lines 8714-8793; glossed song text
+  quote_or_summary: 'The gloss gives: friends; the many lands; you fear; in them without
+    fear I have walked.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source provided as public-domain Project Gutenberg text metadata in
+    request.
+- id: ev:3
+  type: quote
+  locator: lines 8714-8793; glossed song text
+  quote_or_summary: '"the black face-paint"; "I seek"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source provided as public-domain Project Gutenberg text metadata in
+    request.
+- id: ev:4
+  type: summary
+  locator: lines 8714-8793; musical notation and analysis
+  quote_or_summary: The passage notes a drum rhythm in accented eighth notes and analyzes
+    the song as containing many minor thirds, a fourth five-toned scale, two rhythmic
+    units, and differences in voice and drum time-duration.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source provided as public-domain Project Gutenberg text metadata in
+    request.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is moderately reliable despite OCR noise. Motif identification
+    is limited because the passage is a song text and musicological analysis rather
+    than a developed myth narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol was directly applicable to the literal forms in this passage; candidate motifs are therefore left without taxonomy references.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l8714-l8793
+  passage_sha256=d31385e873d08a1de86d37ab638291428aae95769de614508f222777a552696e
+

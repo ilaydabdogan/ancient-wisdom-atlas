@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md-l1195-l1238
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / INTO THE
+    UNKNOWN; lines 1195-1238
+  start: '1195'
+  end: '1238'
+  translation: unknown-people-unknown-land-grubb
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes difficulty learning Indigenous language because
+    interlocutors often provide wrong words, concludes that mission work cannot be
+    based safely on the Paraguay River bank, resolves under Bishop Stilling's orders
+    to enter the Chaco interior despite greater danger, plans a westward journey toward
+    the Pilcomayo, and chooses five river Indians as reluctant guides who begin by
+    obstructing and delaying him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator has difficulty acquiring words because of speech articulation
+    issues and because people often give him wrong words to prevent him learning their
+    language.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator uses a notebook to record sounds and learns a few words useful
+    on early expeditions.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator decides that working from the relatively safe River Paraguay
+    bank is impracticable because few Indians frequent it and the main population
+    is in the interior.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator states that Bishop Stilling orders him to push into the interior
+    to establish a mission in the heart of the Chaco.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator recognizes that personal danger will be greater in the interior
+    than at Riacho Fernandez.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator hears of a populated line westward toward the River Pilcomayo
+    and determines to go in that direction.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator selects five river Indians as guides for his first journey.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The selected guides are reluctant and raise objections; at the outset they
+    purposely try to delay the narrator by pretending to lose something, though the
+    passage cuts off before naming the object.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person speaker planning and undertaking early expeditions into
+    the Chaco interior.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Indians encountered by the narrator
+  description: People whose language the narrator tries to learn and who often give
+    wrong words to prevent him learning it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bishop Stilling
+  description: Authority figure whose orders direct the narrator to push into the
+    interior.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Five river Indians
+  description: Guides selected by the narrator for his first journey; they are reluctant
+    and obstructive.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: language learner
+  assigned_to:
+  - fig:1
+  basis: The narrator records sounds in a notebook and learns a few words.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: expedition leader
+  assigned_to:
+  - fig:1
+  basis: The narrator determines to penetrate westward and selects guides for the
+    journey.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: withholders of language knowledge
+  assigned_to:
+  - fig:2
+  basis: They give wrong words more often than right ones to prevent the narrator
+    learning their language.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mission authority
+  assigned_to:
+  - fig:3
+  basis: His orders send the narrator into the interior to establish a mission.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: guides
+  assigned_to:
+  - fig:4
+  basis: The narrator selects them as guides for the first journey.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: reluctant obstructors
+  assigned_to:
+  - fig:4
+  basis: They are not anxious to go, raise objections, and deliberately try to delay
+    the journey.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: notebook
+  literal_form: note-book used to record sounds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: river boundary and interior destination
+  literal_form: River Paraguay bank contrasted with the interior and the heart of
+    the Chaco
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: westward route
+  literal_form: line running westward toward the River Pilcomayo
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Obstructed language acquisition
+  summary: The narrator tries to learn words, but people often provide wrong words;
+    he records sounds in a notebook and acquires a small vocabulary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Decision to enter the interior
+  summary: The narrator abandons the safer Paraguay River bank as a base, accepts
+    orders to go into the Chaco interior, and acknowledges increased danger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Planning a westward expedition
+  summary: After hearing of a populated route toward the Pilcomayo, the narrator determines
+    to investigate it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Reluctant guides delay departure
+  summary: The narrator chooses five river Indians as guides, but they object to going
+    and deliberately begin to delay him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: departure into a dangerous unknown interior
+  taxonomy_refs:
+  - departure
+  basis: The narrator leaves the relatively safe river-bank position and resolves
+    to enter the Chaco interior despite increased danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a travel-mission narrative rather than a mythic narrative; the
+    taxonomy reference is only a broad structural fit.
+- id: motif:2
+  label: withheld or distorted language knowledge
+  taxonomy_refs: []
+  basis: People intentionally give the narrator wrong words to prevent him learning
+    their language.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a practical social obstruction, not an explicit mythic
+    prohibition or sacred-language motif.
+- id: motif:3
+  label: reluctant guides obstruct the journey
+  taxonomy_refs: []
+  basis: The five selected guides are unwilling, raise objections, and purposely try
+    to delay the narrator at the outset.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is cut off mid-sentence and does not provide the full delaying
+    incident.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1195-1203
+  quote_or_summary: The narrator says it is difficult to learn words and that people
+    often give wrong words to prevent him learning their language.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 1203-1207
+  quote_or_summary: The narrator notes sounds in a notebook and learns a few words
+    useful for early expeditions.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 1208-1217
+  quote_or_summary: The narrator finds the Paraguay River bank too limited as a mission
+    base and identifies the interior as the location of the main population and his
+    goal.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 1217-1221
+  quote_or_summary: The narrator obeys Bishop Stilling's orders to push into the interior
+    to establish a mission in the heart of the Chaco.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: 1221-1224
+  quote_or_summary: The narrator realizes that personal danger will be much greater
+    in the interior than at Riacho Fernandez.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: 1225-1229
+  quote_or_summary: The narrator hears of a populated line westward toward the River
+    Pilcomayo and determines to penetrate in that direction.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: 1235-1236
+  quote_or_summary: For the first journey the narrator selects five river Indians
+    as guides.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+- id: ev:8
+  type: summary
+  locator: 1236-1238
+  quote_or_summary: The guides are reluctant, raise objections, and purposely attempt
+    to delay the narrator by pretending to lose something; the passage ends before
+    the object is identified.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: rights_status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif labeling is limited because
+    the passage is ethnographic/travel memoir prose rather than a mythic episode.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage ends mid-sentence; no completion was inferred.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-chaco-amerindian-project-gutenberg-unknown-people-unknown-land-grubb-md__l1195-l1238
+  passage_sha256=d73cd87511d4b194930d4a95c4144572d767ceafb55efd16631d6c6aca0a8010
+

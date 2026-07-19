@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l25990-l26007
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: MTSTERIOT'S MEN AND WOMEN. / SECRET SOCIETIES. / FETICHISM. / PRIVATE OR
+    PERSONAL FETICHES.; lines 25990-26007
+  start: '25990'
+  end: '26007'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes private or personal fetishes, citing Smet on a Sioux
+    chief's war wakon and on Assinniboin chiefs or warriors who possess a wah-kon.
+    The wah-kon may be a stuffed bird, weasel skin, bone, animal tooth, stone, bead
+    figure, or painted picture; it accompanies its owner in war or hunting, is never
+    laid aside, and is invoked for protection and assistance in danger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Sioux chief is described as having a war wakon consisting of a colored picture
+    of the Russian general Diebitsch.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Assinniboin chief or warrior is described as possessing a wah-kon in which
+    he places confidence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Assinniboin wah-kon may consist of a stuffed bird, weasel skin, small
+    bone, animal tooth, little stone, bead figure, or coarsely painted picture.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The charms or talismans accompany their owners on expeditions for war or hunting
+    and are never laid aside.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In difficulty or peril, owners invoke the protection and assistance of their
+    wah-kon.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sioux chief
+  description: A chief described as possessing a war wakon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Assinniboin chief or warrior
+  description: A person described as possessing a wah-kon and carrying it on war or
+    hunting expeditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: possessor of war wakon
+  assigned_to:
+  - fig:1
+  basis: The passage says the Sioux chief has his war wakon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possessor and invoker of personal wah-kon
+  assigned_to:
+  - fig:2
+  basis: The passage says each Assinniboin chief or warrior possesses a wah-kon, carries
+    it on expeditions, and invokes it in danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: war wakon
+  literal_form: colored picture of the Russian general Diebitsch
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: personal wah-kon
+  literal_form: stuffed bird, weasel skin, small bone, animal tooth, little stone,
+    bead figure, or coarsely painted picture
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Personal fetish carried and invoked
+  summary: Assinniboin chiefs or warriors keep a personal wah-kon, carry it during
+    war or hunting, and invoke it for protection and assistance during difficulty
+    or peril.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sioux chief's war wakon
+  summary: A Sioux chief is cited as having a war wakon in the form of a colored picture.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: personal protective fetish or talisman
+  taxonomy_refs: []
+  basis: The passage describes objects kept by chiefs or warriors, carried on expeditions,
+    and invoked for protection and assistance in peril.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports a non-Indigenous author's terminology and does not
+    provide the owners' own full ritual context.
+- id: motif:2
+  label: war or hunting charm accompanying expeditions
+  taxonomy_refs: []
+  basis: The charms or talismans accompany owners on expeditions for war or hunting
+    and are never laid aside.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe specific rites performed before or during
+    the expeditions beyond invocation in peril.
+comparison_claims:
+- id: claim:1
+  claim: The Sioux chief's war wakon and the Assinniboin wah-kon are presented as
+    analogous personal objects associated with martial or protective confidence.
+  claim_level: same_function
+  target: Sioux war wakon and Assinniboin personal wah-kon
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief Sioux example and a fuller Assinniboin
+    description; it does not establish historical contact, shared origin, or identical
+    ritual meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25990-25994
+  quote_or_summary: Under the heading of private or personal fetishes, Smet is cited
+    as saying that a Sioux chief has a war wakon, described as a colored picture of
+    General Diebitsch.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 25994-26000
+  quote_or_summary: For the Assinniboin, each person considered a chief or warrior
+    is said to possess a wah-kon, such as a stuffed bird, weasel skin, small bone,
+    animal tooth, stone, bead figure, or painted picture, in which he places confidence.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 26000-26004
+  quote_or_summary: The charms or talismans accompany their owners on war or hunting
+    expeditions, are never laid aside, and are invoked for protection and assistance
+    in difficulty or peril.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about objects, owners, and protective use; broader
+    interpretation and intergroup comparison remain limited by the brief excerpt and
+    quoted secondary description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs were applied because the literal objects named in the passage do not match the supplied symbol list.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l25990-l26007
+  passage_sha256=fa6b8de766489f721b4d8b7e04ebaf0c055a727ddb65d0bbf1fe4629fcf2fa06
+

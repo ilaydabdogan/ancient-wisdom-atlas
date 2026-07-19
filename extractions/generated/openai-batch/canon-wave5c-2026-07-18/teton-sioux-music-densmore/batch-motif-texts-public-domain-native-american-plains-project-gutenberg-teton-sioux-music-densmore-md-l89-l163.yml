@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l89-l163
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: INTRODUCTION; lines 89-163
+  start: '89'
+  end: '163'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys historical usage of the names Sioux, Dakota, and related
+    spellings; describes the 1868 treaty between the United States Government and
+    the Sioux and Arapaho; outlines the Great Sioux Reservation, its boundaries and
+    administrative provisions; and notes the later Standing Rock agency and military
+    post at Fort Yates.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a sequence of historical references in which outsiders
+    used forms such as Sioux, Sieux, Dar-co-tars, Dacota, and Dakota for the tribe.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A treaty dated April 29, 1868, is described as being made by the Government
+    with the Sioux and Arapaho Indians.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The treaty language states that war between the parties should cease and that
+    both the Government and the Indians desired and pledged peace.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Great Sioux Reservation is described as comprising about 20,000,000 acres
+    with boundaries including Nebraska, the Missouri River, and the 104th meridian.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Government is described as placing agency buildings and schools on the
+    reservation and allowing, under conditions, patents for 160 acres to individual
+    Indians who would thereby become United States citizens.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The affairs of the Indians were administered at seven agencies, while the
+    Indians continued in large measure their old manner of life.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Part of the present Standing Rock Reservation was included in the Great Sioux
+    Reservation, and an additional tract north to the Cannon Ball River was added
+    by Executive order in 1875.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An agency near the present site of Standing Rock Agency was established in
+    1873, and a military post there was later named Fort Yates and continued until
+    1904.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sioux / Dakota
+  description: The Indigenous group discussed under historical names including Sioux,
+    Sieux or Dar-co-tars, Dacota, and Dakota.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Government of the United States
+  description: The governmental party to the 1868 treaty and the authority described
+    as establishing reservation provisions, agency buildings, schools, and land patents.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Arapaho Indians
+  description: Named with the Sioux as a party to the 1868 treaty with the Government.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Infantry and Cavalry stationed at the post
+  description: Military forces described as stationed at the post near Standing Rock/Fort
+    Yates, increasing during the troubles of 1876.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named ethnographic subject
+  assigned_to:
+  - fig:1
+  basis: The passage centers on the historical naming and description of the Sioux/Dakota
+    group.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: party to peace agreement
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The 1868 treaty is stated to be between the Government and the Sioux and
+    Arapaho, with mutual pledges of peace.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: reservation-establishing authority
+  assigned_to:
+  - fig:2
+  basis: The Government is described as establishing reservation provisions, placing
+    agency buildings and schools, and permitting land patents under conditions.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: reservation inhabitants under agency administration
+  assigned_to:
+  - fig:1
+  basis: The passage says the affairs of the Indians were administered at seven agencies
+    while they continued much of their old manner of life.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: military presence at post
+  assigned_to:
+  - fig:4
+  basis: The passage states that Infantry and Cavalry were stationed at the post near
+    Standing Rock/Fort Yates.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: 1868 treaty agreement
+  literal_form: Treaty or agreement pledging that war should cease between the parties
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Great Sioux Reservation
+  literal_form: A land reservation of about 20,000,000 acres with stated geographic
+    boundaries
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: river boundary markers
+  literal_form: Missouri River and Cannon Ball River named as geographic markers
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: agency buildings and schools
+  literal_form: Government-placed buildings and schools on the reservation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Standing Rock Agency / Fort Yates post
+  literal_form: Agency site and military post later named Fort Yates
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Historical naming of the Sioux/Dakota
+  summary: The passage recounts changing documentary usage of names for the Sioux/Dakota
+    in expedition journals, scientific data, and official documents.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 1868 treaty and Great Sioux Reservation
+  summary: The Government, Sioux, and Arapaho are described as entering a peace treaty;
+    the reservation's extent, boundaries, agency buildings, schools, and land patent
+    provisions are summarized.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Standing Rock agency and military post
+  summary: The passage describes part of the Standing Rock Reservation within the
+    earlier territory, an added tract to the Cannon Ball River, an agency near Fort
+    Yates, and a military post with Infantry and Cavalry.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: solemn peace agreement
+  taxonomy_refs:
+  - covenant
+  basis: The treaty is framed as an agreement between named parties in which war is
+    to cease and each side pledges honor to maintain peace.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is historical and legal rather than mythic; it does not state
+    divine sanction, sacred witnesses, or ritual elements.
+comparison_claims:
+- id: claim:1
+  claim: The 1868 treaty has the same broad function as a covenant pattern insofar
+    as it presents a solemn reciprocal agreement intended to end conflict and bind
+    parties through pledges of honor.
+  claim_level: same_function
+  target: covenant motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a cautious functional comparison only. The passage does not
+    present the treaty as a mythic or sacred covenant.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 89-163, first main historical-naming paragraph
+  quote_or_summary: The passage traces historical references and spellings for the
+    tribe, including Sioux, Sieux or Dar-co-tars, Dacota, and Dakota, in expedition
+    and official contexts.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain material; source metadata rights_status
+    not provided.
+- id: ev:2
+  type: quote
+  locator: lines 89-163, paragraph beginning 'On April 29, 1868'
+  quote_or_summary: '"From this day forward all war between the parties to this agreement
+    shall forever cease." The passage also states that the Government and the Indians
+    desired peace and pledged honor to maintain it.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain material; source metadata rights_status
+    not provided.
+- id: ev:3
+  type: summary
+  locator: lines 89-163, paragraph on the Sioux Reservation
+  quote_or_summary: The Great Sioux Reservation is described as about 20,000,000 acres,
+    bounded by Nebraska, the Missouri River, and the 104th meridian, with Government-provided
+    agency buildings, schools, and possible 160-acre patents.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain material; source metadata rights_status
+    not provided.
+- id: ev:4
+  type: summary
+  locator: lines 89-163, end of reservation paragraph
+  quote_or_summary: The passage states that Indian affairs were administered at seven
+    agencies on the reservation, while the Indians continued much of their old manner
+    of life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain material; source metadata rights_status
+    not provided.
+- id: ev:5
+  type: summary
+  locator: lines 89-163, paragraph beginning 'A part of the present Standing Rock
+    Reservation'
+  quote_or_summary: The passage describes Standing Rock territory, an added tract
+    north to the Cannon Ball River, the 1873 agency near Fort Yates, and a military
+    post staffed by Infantry and Cavalry and continued until 1904.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Source path indicates public-domain material; source metadata rights_status
+    not provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal historical extraction is relatively secure. Motif and comparison
+    fields are limited because the passage is administrative history, not a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic beings, sacred events, or narrative myth episodes are present in the supplied passage; motif extraction is therefore intentionally minimal.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l89-l163
+  passage_sha256=b1e637b11f68cd765ff47026f329a6bf228dcbbce17eb0d9bd09ed5cbe799b57
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md-l8972-l9300
+source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+passage_locator:
+  label: SECT. I. PT. II, THE THAN KUNG. IAI / SECT. II. PT. II. THE THAN KUNG. IOI
+    / APPENDIX, TO BOCK UL / DEGREES,; lines 8972-9300
+  start: '8972'
+  end: '9300'
+  translation: li-ki-part1-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: OCR-derived tabular passage listing mourning degrees and durations for
+    kinship relations, including tables for mourning worn by a wife for her husband's
+    kinsfolk, by a married female for her own kinsfolk, and by a man for his mother's
+    kinsfolk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as tabular material under the heading "DEGREES" and
+    includes mourning durations such as months and one year alongside kinship categories.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One table is titled as mourning worn by a wife for her husband's kinsfolk.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wife-for-husband's-kinsfolk table lists many affinally related categories,
+    including husband's ancestors, parents, aunts or uncles, cousins, nieces or nephews,
+    and further descendants or collateral kin.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: The same table includes a parenthetical entry for a husband mourning for a
+    wife with a duration of one year.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: A second table is titled as mourning worn by a married female for her own
+    kinsfolk.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The married-female table mentions durations for great-great-grandparents,
+    great-grandparents, grandparents, and parents.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A third table is titled as mourning worn by a man for his mother's kinsfolk
+    and lists mother's grandparents and mother's parents.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:8
+  text: Some kinship categories are subdivided by marital status, with entries marked
+    married and single.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Wife
+  description: The mourner named in the heading of Table No. 2, which concerns mourning
+    for her husband's kinsfolk.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Husband's kinsfolk
+  description: The kin group for whom mourning is listed in Table No. 2.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Married female
+  description: The mourner named in the heading of Table No. 3, which concerns mourning
+    for her own kinsfolk.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Own kinsfolk of a married female
+  description: The kin group for whom mourning is listed in Table No. 3.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Man
+  description: The mourner named in the heading of Table No. 4, which concerns mourning
+    for his mother's kinsfolk.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mother's kinsfolk
+  description: The kin group for whom mourning is listed in Table No. 4.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: Mourner specified by table heading
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: The table headings identify the wife, married female, and man as the persons
+    wearing mourning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Kin group for whom mourning is worn
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: 'The table headings identify the relevant kinsfolk groups: husband''s kinsfolk,
+    own kinsfolk, and mother''s kinsfolk.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: 'Table No. 2: wife and husband''s kinsfolk'
+  summary: A tabular rule set lists mourning degrees for a wife in relation to her
+    husband's kinsfolk, with numerous affinal kin categories and durations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: 'Table No. 3: married female and own kinsfolk'
+  summary: A tabular rule set lists mourning degrees for a married female in relation
+    to her own kinsfolk, including ancestors, parents, cousins, and marital-status
+    subdivisions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: scene:3
+  label: 'Table No. 4: man and mother''s kinsfolk'
+  summary: A tabular rule set lists mourning degrees for a man in relation to his
+    mother's kinsfolk, including mother's grandparents and mother's parents.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Kinship-graded mourning obligations
+  taxonomy_refs: []
+  basis: The passage organizes mourning obligations by kinship category, mourner identity,
+    and stated durations or degrees.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a tabular ritual or regulatory passage rather than a mythic narrative;
+    OCR and table-layout corruption limit exact reconstruction of all relationships.
+- id: motif:2
+  label: Mourning distinctions by affinal, natal, and maternal kinship
+  taxonomy_refs: []
+  basis: Separate tables distinguish mourning by a wife for husband's kinsfolk, by
+    a married female for her own kinsfolk, and by a man for mother's kinsfolk.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports the kinship distinction, but the precise table structure
+    is degraded by OCR.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8972-9300; opening DEGREES material
+  quote_or_summary: Opening material under "DEGREES" lists kinship relations and mourning
+    durations, including a visible duration of five months.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8972-9300; Table No. 2 heading
+  quote_or_summary: '"TABLE No. 2. Mourning worn by a Wife for her Husband''s Kinsfolk."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; short excerpt used for
+    identification.
+- id: ev:3
+  type: quote
+  locator: lines 8972-9300; Table No. 3 heading
+  quote_or_summary: '"TABLE No. 3. Mourning worn by a married Female for her own Kinsfolk."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; short excerpt used for
+    identification.
+- id: ev:4
+  type: quote
+  locator: lines 8972-9300; Table No. 4 heading
+  quote_or_summary: '"TABLE No. 4. Mourning worn by a Man for his Mothers Kinsfotk."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; short excerpt used for
+    identification.
+- id: ev:5
+  type: summary
+  locator: lines 8972-9300; Table No. 2 body
+  quote_or_summary: Table No. 2 lists husband's relatives such as great-great-grandmother,
+    mother, grandmother, father-in-law, mother-in-law, aunt, uncle, cousins, niece,
+    nephew, grand-nephew, great-grandnephew, and includes a parenthetical "Husband
+    for Wife" with one year.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8972-9300; Table No. 3 body
+  quote_or_summary: Table No. 3 lists a married female's own kinsfolk, including great-great-grandparents
+    with eight months, great-grandparents with five months, grandparents with one
+    year, and parents with one year, along with uncle and wife, cousins, niece, and
+    self.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8972-9300; Table No. 4 body
+  quote_or_summary: Table No. 4 includes entries for mother's grandparents and mother's
+    parents.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 8972-9300; Table No. 2 and Table No. 3 bodies
+  quote_or_summary: Several entries in the tables are marked by marital status, using
+    labels such as married and single.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md
+  rights_note: Source rights status not supplied in metadata; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The headings and broad kinship-mourning structure are clear, but OCR errors
+    and table-layout loss make individual relationship placements uncertain. No comparison
+    claims are made because the passage itself does not compare this material to another
+    motif family or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family or symbol reference was assigned; available symbol refs are not directly present in this passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-li-ki-part1-legge-md__l8972-l9300
+  passage_sha256=acf1b8aeb47ba603fb8cda7ffa579e1d1daaca133a5edba12c9a316de71cb12b
+

@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md-l5430-l5442
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: PUERPERIUM. / TWINS. / CHAPTER VI / WOMEN IN RELATION TO LAND.; lines 5430-5442
+  start: '5430'
+  end: '5442'
+  translation: melanesians-british-new-guinea-seligman
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes customary rules concerning women and land: women
+    are said not to truly own land, but daughters and certain orphans may cultivate
+    portions of their fathers'' land and keep produce. Children may garden there with
+    kin permission. Land is not transferred as dowry or as part of an adultery payment.
+    A widow-related custom is only cross-referenced.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that no woman really owns land.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A daughter is allowed to use and cultivate a fair share of her father's land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A daughter's children commonly make gardens on that land with the permission
+    of her kinsmen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An orphan brought up by her mother's relatives has, on marriage, the right
+    to cultivate and keep the produce of a portion of her father's land.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Land is never given as a dowry or paid as part of an adultery price.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage refers the reader elsewhere for customs applying to widows in
+    relation to land.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman
+  description: A general category described as not really owning land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: daughter
+  description: A daughter may use and cultivate a fair share of her father's land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: daughter's children
+  description: Children of the daughter may commonly make gardens on her father's
+    land with kin permission.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: kinsmen
+  description: Kinsmen whose permission is needed for the daughter's children to make
+    gardens on the land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: orphan brought up by her mother's relatives
+  description: An orphan who, on marriage, may cultivate and keep produce from a portion
+    of her father's land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: mother's relatives
+  description: Relatives who bring up the orphan mentioned in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: widow
+  description: Widows are mentioned only through a cross-reference to another discussion
+    of land custom.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: non-owner of land
+  assigned_to:
+  - fig:1
+  basis: The passage says that no woman really owns land.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: permitted cultivator of father's land
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The daughter and the orphan are each described as allowed or entitled to
+    cultivate a portion of the father's land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: garden-makers with kin permission
+  assigned_to:
+  - fig:3
+  basis: The daughter's children may make gardens on the land with permission of her
+    kinsmen.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: permission-granting kin
+  assigned_to:
+  - fig:4
+  basis: The passage makes the kinsmen's permission a condition for the children's
+    gardens.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: maternal caretaking relatives
+  assigned_to:
+  - fig:6
+  basis: The orphan is described as being brought up by her mother's relatives.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: subject of separate land custom
+  assigned_to:
+  - fig:7
+  basis: The passage states that the custom applying to widows in relation to land
+    is considered elsewhere.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: land
+  literal_form: father's land; land in general
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: gardens
+  literal_form: gardens made on the father's land
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: produce
+  literal_form: produce kept from cultivated father's land
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dowry or adultery price
+  literal_form: forms of payment from which land is excluded
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Daughter's use of father's land
+  summary: Women are said not to own land, but a daughter may cultivate a fair share
+    of her father's land, and her children may garden there with permission from her
+    kinsmen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Orphan's cultivation right after marriage
+  summary: An orphan raised by her mother's relatives may, after marriage, cultivate
+    and keep produce from a portion of her father's land.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Land excluded from payment transfers
+  summary: Land is not transferred as dowry or as part of an adultery price.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Widow custom cross-reference
+  summary: The passage notes that widow-related land custom is discussed elsewhere.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5430-5437
+  quote_or_summary: The passage states that no woman really owns land; a daughter
+    may use and cultivate a share of her father's land, and her children may make
+    gardens there with her kinsmen's permission.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 5437-5440
+  quote_or_summary: An orphan brought up by her mother's relatives has, on marriage,
+    the right to cultivate and keep produce from a portion of her father's land.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 5440-5441
+  quote_or_summary: Land is never given as dowry or paid as a portion of an adultery
+    price.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: '5442'
+  quote_or_summary: The passage cross-references a separate discussion of the custom
+    applying to widows in relation to land.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is ethnographic customary-law description rather than a mythic
+    narrative. Literal social relations and objects are clear, but no supported comparative
+    mythological motif is assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the passage does not itself support a mythological motif comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-melanesian-project-gutenberg-melanesians-british-new-guinea-seligman-md__l5430-l5442
+  passage_sha256=325f6023558f57b25ac5b0d1e9cc8b84fa8db8d2a377d53e837b0a4fd05e74b3
+

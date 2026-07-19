@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l16590-l16608
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: 'DECADE I. / C C 2 / DECADE I. / THE PRAISE OF KINGS WAN AND WU : HOW THE
+    FORMER DISPLAYED HIS; lines 16590-16608'
+  start: '16590'
+  end: '16608'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A note describes early banquet seating without chairs or tables: guests
+    sat on mats, while stools were provided for the aged. In the ode passage, guests
+    are arranged according to propriety. A distant descendant presides over a feast,
+    pours strong sweet spirits from a large vase into cups, and prays for aged guests
+    that they may support one another in virtue and enjoy blessed old age and increasing
+    happiness.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that chairs and tables were not in use in the early period
+    described; guests sat on mats and feasts were spread on mats on the floor.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that stools were placed for the aged so that they could lean
+    forward.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The guests are arranged according to the humble propriety of their behaviour.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A distant descendant presides over the feast.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The presiding descendant has strong sweet spirits and fills the guests' cups
+    from a large vase.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The presiding descendant prays for the hoary old among the guests.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The prayer asks that the aged, described with hoary age and wrinkled backs,
+    may lead and support one another in virtue.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prayer asks that the aged guests' old age may be blessed and their bright
+    happiness increased.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: distant descendant
+  description: The person who presides over the feast, fills cups, and prays for the
+    aged guests.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: guests
+  description: Guests arranged according to the propriety of their behaviour at the
+    feast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: hoary old among the guests
+  description: Aged guests for whom the presiding descendant prays, described as having
+    hoary age and wrinkled backs.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: feast presider
+  assigned_to:
+  - fig:1
+  basis: The passage states that the distant descendant presides over the feast.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cup-filler and prayer speaker
+  assigned_to:
+  - fig:1
+  basis: The distant descendant fills cups from a large vase and prays for the hoary
+    old guests.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ordered banquet guests
+  assigned_to:
+  - fig:2
+  basis: The guests are arranged according to propriety.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: aged recipients of prayer
+  assigned_to:
+  - fig:3
+  basis: The presider prays for the hoary old among the guests.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mutual supporters in virtue
+  assigned_to:
+  - fig:3
+  basis: The prayer asks that the aged lead and support one another in virtue.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mats and aged persons' stools
+  literal_form: mats on the floor for guests and feast-spreading; stools for the aged
+    to lean on
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cups and large vase
+  literal_form: cups filled from a large vase
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: strong sweet spirits
+  literal_form: sweet spirits described as strong, served at the feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hoary age and wrinkled back
+  literal_form: description of aged guests as hoary and wrinkled-backed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: banquet seating and arrangement
+  summary: The note and ode describe a feast setting in which guests sit on mats,
+    aged persons have stools for support, and guests are arranged according to propriety.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: descendant presides and prays for aged guests
+  summary: A distant descendant presides over the feast, serves strong sweet spirits
+    from a large vase into cups, and prays that aged guests may support one another
+    in virtue and enjoy blessed old age and increased happiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritualized feast with ordered guests and presiding descendant
+  taxonomy_refs: []
+  basis: The passage presents a formal feast with guests arranged by propriety and
+    a distant descendant serving as presider.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is brief and does not explicitly identify the feast as mythic
+    or sacrificial within the supplied excerpt.
+- id: motif:2
+  label: prayer for blessed old age and mutual virtue
+  taxonomy_refs:
+  - wisdom
+  basis: The presider prays for aged guests to lead and support one another in virtue
+    and to have blessed old age with increasing happiness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage gives an ethical blessing
+    rather than an extended wisdom narrative.
+- id: motif:3
+  label: feast vessels and drink associated with blessing speech
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The presider fills cups from a large vase with strong sweet spirits and then
+    prays for the aged guests' virtue, blessing, and happiness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The exchange is ritual-like because drink service and prayer are linked,
+    but the supplied excerpt does not explicitly describe a deity, offering, or reciprocal
+    transaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16590-16593
+  quote_or_summary: The note says chairs and tables were not used in early times;
+    guests and feasts were on mats, while stools were placed for the aged to lean
+    on.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; repository path indicates public-domain
+    Project Gutenberg source.
+- id: ev:2
+  type: quote
+  locator: 16595-16597
+  quote_or_summary: '"the guests are arranged according to the humble propriety of
+    their behaviour."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; repository path indicates public-domain
+    Project Gutenberg source.
+- id: ev:3
+  type: summary
+  locator: 16599-16602
+  quote_or_summary: A distant descendant presides over the feast; his sweet spirits
+    are strong; he fills the guests' cups from a large vase.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; repository path indicates public-domain
+    Project Gutenberg source.
+- id: ev:4
+  type: summary
+  locator: 16602-16608
+  quote_or_summary: 'The presider prays for the hoary old among his guests: that with
+    hoary age and wrinkled backs they may lead and support one another in virtue,
+    their old age blessed and their happiness increased.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata; repository path indicates public-domain
+    Project Gutenberg source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignments are tentative because
+    the excerpt is primarily ceremonial and ethical, with limited mythic narrative
+    context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No figures for Kings Wan or Wu were added because they do not appear in the supplied passage text itself.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l16590-l16608
+  passage_sha256=61d802cf5f9c0921cf087f3bf0560693586b72016760d73fbcf74a42ca671133
+

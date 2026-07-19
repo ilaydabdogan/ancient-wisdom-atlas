@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md-l32651-l33289
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    32651-33289
+  start: '32651'
+  end: '33289'
+  translation: seneca-fiction-legends-myths-curtin-hewitt
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An elder or ancient uncle has a basket of corn and beans and sends a great
+    child or youth to plant the contents in a prepared clearing. The youth accepts,
+    gathers implements and provisions, goes to the clearing, weeds and stirs the earth,
+    but plants only a small amount. After an episode in which the uncle is distressed
+    and is given water to drink, the uncle sends the youth back to plant or gather
+    all the corn. As the youth gathers it again and goes along the path, the corn
+    spills out.
+  language: Seneca with English gloss/translation in OCR form
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ancient one or uncle is associated with a basket containing corn and beans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ancient one instructs the great child or youth to go to prepared clearings
+    and plant all of the contents.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The youth accepts the instruction and prepares or carries items including
+    a bark dish, poker, knife, fire, a bowl or dish, hominy or hulled corn, and bread.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The youth arrives at the clearing, removes weeds, stirs the earth, and plants
+    only a small number or amount.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The youth returns to the lodge and asks the uncle what happened after the
+    uncle experiences distress or weakness.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The youth fetches water, tells the uncle to drink, and the uncle drinks it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The youth tells the uncle to keep lying supine.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The uncle sends the youth back toward the clearing and tells him to plant
+    or gather all the corn and hurry.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the youth gathers the corn again, the corn spills out on the path as
+    he goes homeward.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: great child or youth
+  description: A figure glossed as a great child or youth who is ordered to plant
+    corn, travels to the clearing, cares for the uncle with water, and later gathers
+    the corn again.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: ancient one or uncle
+  description: An elder figure, also addressed as uncle or mother's brother, who gives
+    instructions about planting, suffers distress or weakness, drinks water, and sends
+    the youth back.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: commanded planter
+  assigned_to:
+  - fig:1
+  basis: The youth is told to go to the clearing and plant all the corn or seed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:2
+  label: elder instructor
+  assigned_to:
+  - fig:2
+  basis: The ancient uncle gives the planting instructions and later repeats the command.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: caregiver or helper
+  assigned_to:
+  - fig:1
+  basis: The youth brings water and tells the uncle to drink and lie down.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: distressed elder
+  assigned_to:
+  - fig:2
+  basis: The uncle is described as experiencing a throat or life-threatening distress,
+    then drinks water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: corn
+  literal_form: Corn kept in a basket, ordered to be planted, gathered again, and
+    spilled on the path.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: beans
+  literal_form: Beans mentioned with the corn in the basket.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: basket
+  literal_form: A basket holding the corn and beans.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: clearing
+  literal_form: Prepared clearing where the youth is sent to plant and where he weeds
+    and stirs the earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: water
+  literal_form: Water fetched for the uncle to drink.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fire
+  literal_form: Fire listed among the items associated with the youth's preparation
+    or carrying of supplies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: path
+  literal_form: The path on which the corn spills as the youth goes homeward.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Basket of seed and planting command
+  summary: The ancient uncle has a basket of corn and beans and orders the great child
+    or youth to plant everything in prepared clearings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparation and departure
+  summary: The youth accepts the order and gathers or carries implements and provisions
+    before starting out.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Work in the clearing
+  summary: The youth reaches the clearing, removes weeds, stirs the earth, and plants
+    only a small amount.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Uncle receives water
+  summary: After the uncle is distressed or weakened, the youth asks what happened,
+    brings water, tells him to drink, and tells him to remain lying supine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Return command and spilled corn
+  summary: The uncle sends the youth back to complete the corn task; after the youth
+    gathers the corn again, it spills out on the path as he goes homeward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Elder sends youth to plant seed in a prepared clearing
+  taxonomy_refs: []
+  basis: The ancient uncle commands the great child to take the corn or seed to prepared
+    clearings and plant it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly identify this as an origin of agriculture
+    or a culture-hero episode.
+- id: motif:2
+  label: Incomplete first performance of an assigned task
+  taxonomy_refs: []
+  basis: The youth works in the clearing but plants only a small amount before later
+    being ordered to plant or gather all the corn.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: OCR noise makes the exact cause and sequence of the incomplete planting
+    uncertain.
+- id: motif:3
+  label: Restorative drink given to a weakened elder
+  taxonomy_refs: []
+  basis: The youth fetches water, directs the uncle to drink, and the uncle drinks
+    after a distress or weakness episode.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is unclear about the uncle's precise condition and whether
+    the water has ritual or ordinary significance.
+- id: motif:4
+  label: Seed spills on the homeward path
+  taxonomy_refs: []
+  basis: After the youth gathers the corn again, the corn is described as spilling
+    out on the path while he goes homeward.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The excerpt ends abruptly after the spilling event, so its narrative consequence
+    is not visible in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32651-33289, opening section
+  quote_or_summary: The passage introduces a great child or youth and an ancient one;
+    the ancient one has a basket containing corn and beans.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: 32651-33289, early command sequence
+  quote_or_summary: The ancient one says that clearings have been made and tells the
+    youth to plant all of it and start.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: 32651-33289, preparation sequence
+  quote_or_summary: The youth assents and is associated with prepared items or provisions
+    including bark, a poker, a knife, fire, a dish or bowl, hominy or hulled corn,
+    and bread.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: 32651-33289, clearing work sequence
+  quote_or_summary: At the prepared clearing the youth removes weeds, stirs the earth,
+    works, and plants a small number or amount.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: summary
+  locator: 32651-33289, return-to-lodge sequence
+  quote_or_summary: The youth returns to the lodge and asks the uncle what happened;
+    the ancient one says something about his throat or not being alive, but the OCR
+    is uncertain.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:6
+  type: summary
+  locator: 32651-33289, water-drinking sequence
+  quote_or_summary: The youth gets water and tells the uncle to drink; the ancient
+    one drinks, and the youth tells him to keep lying supine.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:7
+  type: summary
+  locator: 32651-33289, second instruction sequence
+  quote_or_summary: The ancient one tells the nephew to go again to the clearing,
+    plant the corn, gather all of it, and hurry or be brave.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:8
+  type: summary
+  locator: 32651-33289, closing visible sequence
+  quote_or_summary: As soon as the great child gathers everything again, the corn
+    spills out on the path as he goes homeward.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is heavily OCR-corrupted and interlinear, so the broad action
+    sequence is extractable but several details, especially the uncle's distress and
+    the exact handling of the corn, need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the supplied passage itself does not explicitly support comparison with another text, tradition, or motif family beyond local narrative pattern extraction.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md__l32651-l33289
+  passage_sha256=1b6b7d68ab58a748911fdc5fac83317b3b83e04bff2968616187608aea241149
+

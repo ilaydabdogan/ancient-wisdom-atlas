@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l12935-l13026
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: VIII, 1, 1, / THE EIGHTH KHANDHAKA. / JSTULLAVAGGA. / JTULLAVAGGA.; lines
+    12935-13026
+  start: '12935'
+  end: '13026'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives procedural instructions for cleaning a Vihara: removing
+    furnishings and implements, dusting cobwebs and casements, wiping dirty prepared
+    walls or floors, sprinkling and sweeping unprepared floors, and disposing of sweepings.
+    Footnotes relate the section to similar or repeated passages elsewhere in the
+    Vinaya texts.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed person who can do so is instructed to clean the Vihara.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Floor matting, bedstead supports, bolsters, pillows, a seat mat, bedsteads,
+    chairs, a spittoon, and a leaning-board are to be removed or set aside during
+    cleaning.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When removing bedsteads and chairs, the person is instructed to avoid scratching
+    the floor or knocking the objects against the door-posts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: If the Vihara has cobwebs, they are to be removed first with a cloth, and
+    casements are to be dusted especially at corners and joints.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dirty plastered and red-washed walls or prepared black-washed floors are to
+    be wiped with a wetted and wrung-out duster.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a floor has not been prepared in that way, it is to be sprinkled with water
+    and swept so that dust does not spoil the Vihara.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sweepings are to be gathered together and cast aside.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A footnote states that the rest of the section is repeated in full below at
+    VIII, 7, 2.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A footnote states that expressions in this passage are also used in a similar
+    connection at Mahavagga I, 25, 15.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed cleaner of the Vihara
+  description: An unnamed person addressed by the rule, described only as someone
+    who can clean the Vihara.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Vihara cleaner or caretaker
+  assigned_to:
+  - fig:1
+  basis: The figure is instructed to clean the Vihara by removing furnishings, dusting,
+    wiping, sprinkling, sweeping, and disposing of sweepings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Vihara as maintained dwelling
+  literal_form: Vihara
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Water used for cleaning
+  literal_form: water used to wet a duster and to sprinkle an unprepared floor
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Removed dirt
+  literal_form: cobwebs, dust, and sweepings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Removal of furnishings before cleaning
+  summary: The unnamed cleaner is told to take out or set aside mats, bedding-related
+    supports, chairs, bedsteads, the spittoon, and the leaning-board, while avoiding
+    damage to the floor and door-posts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dusting cobwebbed interior surfaces
+  summary: Cobwebs are removed with a cloth, and casements are dusted with attention
+    to corners and joints.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wiping, sprinkling, sweeping, and disposal
+  summary: Dirty prepared walls or floors are wiped with a wet wrung-out duster; unprepared
+    floors are sprinkled with water and swept; sweepings are gathered and cast aside.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Prescribed cleansing of a monastic dwelling
+  taxonomy_refs: []
+  basis: The passage lays out an ordered procedure for cleaning a Vihara, including
+    removal of objects, dusting, wiping, sweeping, and disposal of sweepings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a monastic procedural/legal passage rather than a mythic narrative.
+- id: motif:2
+  label: Water-assisted removal of dirt from a dwelling
+  taxonomy_refs: []
+  basis: The passage instructs that a duster be wetted and wrung out for dirty prepared
+    surfaces and that an unprepared floor be sprinkled with water before sweeping.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives practical cleaning reasons; it does not explicitly frame
+    the water as ritual purification.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison with Cullavagga VIII, 7, 2 because a footnote
+    states that the rest of this section is repeated there in full.
+  claim_level: same_motif
+  target: Cullavagga VIII, 7, 2
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the supplied footnote; the target passage text
+    is not included in the supplied passage.
+- id: claim:2
+  claim: The passage supports linguistic comparison with Mahavagga I, 25, 15 because
+    a footnote states that the same expressions are used there in a similar connection.
+  claim_level: linguistic_similarity
+  target: Mahavagga I, 25, 15
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the supplied footnote; the target passage text
+    is not included in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12935-12946, opening cleaning instructions
+  quote_or_summary: A person able to do so should clean the Vihara by taking out and
+    setting aside floor matting, bedstead supports, bolsters, pillows, a seat mat,
+    bedsteads, chairs, a spittoon, and a leaning-board, while avoiding damage during
+    removal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path identifies a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:2
+  type: summary
+  locator: lines 12947-12950, cobwebs and casements
+  quote_or_summary: If the Vihara is covered with cobwebs, they should first be removed
+    with a cloth, and the casements should be dusted, especially at corners and joints.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path identifies a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:3
+  type: summary
+  locator: lines 12951-13026, walls, floors, water, sweeping, and notes on terms
+  quote_or_summary: Dirty prepared walls or floors are to be wiped with a wetted and
+    wrung-out duster; an unprepared floor is to be sprinkled with water and swept
+    so dust does not spoil the Vihara; sweepings are gathered and cast aside.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path identifies a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:4
+  type: note
+  locator: footnote 1 within supplied passage
+  quote_or_summary: The note says that the rest of this section is repeated in full
+    below at VIII, 7, 2.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path identifies a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+- id: ev:5
+  type: note
+  locator: footnote 5 and related translator notes within supplied passage
+  quote_or_summary: The note says that expressions in this passage are the same as
+    those used in a similar connection at Mahavagga I, 25, 15, with additional translator
+    notes on correcting that passage.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source path identifies a public-domain Project Gutenberg text; explicit
+    rights_status metadata was not supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The practical cleaning sequence is explicit. Motif labels are cautious because
+    the passage is procedural rather than mythic. Comparison claims are based only
+    on the supplied editorial footnotes, not on the full compared passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Symbols are recorded as literal forms present in the passage, not as asserted symbolic interpretations.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l12935-l13026
+  passage_sha256=d6a51be2ec2ced4a9dade4dff8a65dda333fd24c2d13f14b1e1e952967eaa8dd
+

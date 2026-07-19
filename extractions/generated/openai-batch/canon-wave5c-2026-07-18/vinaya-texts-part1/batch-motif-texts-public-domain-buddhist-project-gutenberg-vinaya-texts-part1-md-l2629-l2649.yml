@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md-l2629-l2649
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+passage_locator:
+  label: ANIYATA DHAMMA1. / RULES REGARDING UNDETERMINED MATTERS. / NISSAGGIYA PAA1TTIYA
+    DHAMMA. / PAJTITTIYA RULES INVOLVING FORFEITURE.; lines 2629-2649
+  start: '2629'
+  end: '2649'
+  translation: vinaya-texts-part1
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: The venerable ones are pure herein. Therefore do they keep silence.
+  summary: A note distinguishes calendrical dates and full moons called Kattika. The
+    recitation then repeats a formal question asking whether the venerable ones are
+    pure in the matter. Their silence is taken as confirmation of purity, and the
+    recitation of the Nissaggiyas ends.
+  language: English with transliterated Pali terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note says the date here is different from the date in the preceding rule
+    and is one month later.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that a distinction is evident between Pavarawa and the ^Tatumasini,
+    but that it is not clear how both full moons came to be called Kattika.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks the venerable ones a second time whether they are pure in
+    this matter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks the venerable ones a third time whether they are pure in
+    this matter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The venerable ones are declared pure, and their silence is treated as the
+    basis for that understanding.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the recitation of the Nissaggiyas ends here.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person reciter or questioner
+  description: The speaker who says, “I ask the venerable ones,” during the formal
+    inquiry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the venerable ones
+  description: The addressed group whose purity is questioned and whose silence is
+    interpreted as confirming purity.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ritual questioner
+  assigned_to:
+  - fig:1
+  basis: The speaker formally asks the venerable ones whether they are pure in the
+    matter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: addressed assembly
+  assigned_to:
+  - fig:2
+  basis: The venerable ones are the group addressed by the repeated inquiry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: silent confirming group
+  assigned_to:
+  - fig:2
+  basis: They are said to be pure and to keep silence; the speaker understands this
+    silence as confirmation.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Kattika full moons as calendrical markers
+  literal_form: full moons called Kattika
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: silence indicating purity
+  literal_form: silence
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: calendrical explanatory note
+  summary: The note discusses differing dates, the Vibhanga’s explanation, a distinction
+    between named observances or dates, and uncertainty about two full moons both
+    being called Kattika.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: repeated purity inquiry
+  summary: The reciter asks the venerable ones a second and third time whether they
+    are pure in the matter; their silence is understood as confirmation of purity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: closure of Nissaggiyas recitation
+  summary: The passage closes by stating that the recitation of the Nissaggiyas ends.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: repeated formal inquiry into purity
+  taxonomy_refs: []
+  basis: The speaker asks the venerable ones a second and a third time whether they
+    are pure in the matter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a monastic procedural pattern rather than a mythological motif;
+    no supplied taxonomy reference directly applies.
+- id: motif:2
+  label: silence as confirmation or assent
+  taxonomy_refs: []
+  basis: The passage states that the venerable ones are pure and that they keep silence;
+    the speaker interprets this as confirmation.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports the procedural function of silence, but it does not
+    present an explicit comparative or mythic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2629-2637
+  quote_or_summary: The note distinguishes the date here from the date in the last
+    rule, cites Vibhanga, Samanta-Pasadika, and Mahavagga, and says it is unclear
+    how both full moons came to be called Kattika.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 2639-2641
+  quote_or_summary: "“A second time I ask the venerable ones, ‘Are you pure in this
+    matter?’”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 2643-2644
+  quote_or_summary: "“A third time I ask the venerable ones, ‘Are you pure in this
+    matter?’”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 2646-2647
+  quote_or_summary: "“The venerable ones are pure herein. Therefore do they keep silence.
+    Thus I understand.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:5
+  type: quote
+  locator: line 2649
+  quote_or_summary: "“Here ends the recitation of the Nissaggiyas.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal procedural content is clear. Motif candidates are limited to ritual
+    or procedural patterns because the passage does not present mythic narrative or
+    explicit comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a link to another tradition, corpus, or motif family.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part1-md__l2629-l2649
+  passage_sha256=667b08dd9628552ad9d88ec3ccad18d3daf6a47730cb4c7c0158de3844ff1358
+

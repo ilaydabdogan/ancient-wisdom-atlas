@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md-l464-l508
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: NATIVE HOUSES / THE ISLAND OF STONE MONET / A XATIVK-JI ADK PATH / NATIVE
+    HOUSES; lines 464-508
+  start: '464'
+  end: '508'
+  translation: island-of-stone-money-furness
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes island footpaths and a main road at Dulukan, then
+    recounts the narrator being followed by a small local child. After the narrator
+    speaks to her in English, the child speaks back, asks a notebook phrase meaning
+    “What’s your name?”, and identifies herself as Pooguroo.
+  language: English with a Uap/Yapese phrase
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Footpaths extend from one end of the island to the other and branch toward
+    principal settlements.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some smaller path branches are narrow pavings of rough coral and stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The road past Friedlander’s Station at Dulukan is described as a main, well-kept
+    thoroughfare bordered by coconut palms and bright plants.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator hears tiny feet behind him and sees the same small child following
+    close behind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The child stands beside the narrator, glances sidelong, smiles, and shows
+    her teeth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator speaks to the child in English, inviting her to walk with him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the narrator speaks, the child talks in a childish voice and waits for
+    a reply.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The child says a phrase glossed as “What’s your name?”
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the narrator gives his name, the child attempts to repeat it and then
+    identifies herself as Pooguroo while patting her chest and nodding.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person traveler walking down the road and interacting with the
+    child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Pooguroo / little jungle baby
+  description: A small island-born child who follows the narrator, speaks to him,
+    asks his name, and gives her own name as Pooguroo.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: traveler-observer
+  assigned_to:
+  - fig:1
+  basis: The figure narrates walking along the road, observing the surroundings, and
+    responding to the child.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:2
+  label: encountered child
+  assigned_to:
+  - fig:2
+  basis: The child follows the narrator, comes close, and begins an exchange.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: self-namer
+  assigned_to:
+  - fig:2
+  basis: The child pats her chest and repeats “Pooguroo,” indicating her own name.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: island footpath
+  literal_form: Footpaths and a gray road crossing and branching across the island.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: spoken name exchange
+  literal_form: Question about name, attempted repetition of the narrator’s name,
+    and the child’s self-identification as Pooguroo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: chest-patting gesture
+  literal_form: The child pats her chest with an outspread hand while repeating her
+    name.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Island road and footpaths
+  summary: The passage sets the action among island footpaths, smaller coral-and-stone
+    branches, and a well-kept main road at Dulukan.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Child follows the narrator
+  summary: While walking and thinking, the narrator hears tiny feet, turns, and sees
+    the small child following close behind him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Speech and naming exchange
+  summary: The narrator speaks to the child; she responds, asks his name in a phrase
+    the narrator recognizes, and then identifies herself as Pooguroo through repeated
+    speech and gesture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: meeting on the path
+  taxonomy_refs: []
+  basis: The passage narrates a first-person encounter with a child while traveling
+    along an island road or path.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a travel narrative scene rather than a mythic episode; the label
+    is descriptive and not tied to a supplied taxonomy family.
+- id: motif:2
+  label: recognition through speech
+  taxonomy_refs: []
+  basis: The narrator says that once he spoke, the child no longer treated him as
+    a demon-like being but as a human with articulate speech, leading to dialogue.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The demon reference is the narrator’s characterization of the child’s
+    perception, not an explicit local mythic claim.
+- id: motif:3
+  label: name exchange and self-identification
+  taxonomy_refs: []
+  basis: The child asks the narrator’s name and then gives her own name, Pooguroo,
+    with repeated speech and gesture.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents a social interaction; any broader ritual or mythic
+    significance is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 464-475
+  quote_or_summary: Footpaths run across the island and branch to principal settlements;
+    some smaller branches are rough coral-and-stone pavings.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 476-486
+  quote_or_summary: The narrator turns down the well-kept road past Friedlander’s
+    Station at Dulukan, admiring the sun-flecked road, coconut palms, crotons, and
+    dracaenas.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 486-491
+  quote_or_summary: The narrator hears tiny feet behind him and turns to see the little
+    child trotting close after him.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 491-496
+  quote_or_summary: The child stands close beside the narrator, looks sidelong, smiles
+    coyly and inquiringly, and shows her baby teeth.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: quote
+  locator: lines 497-501
+  quote_or_summary: The narrator says in English, “Come along, little elf, and take
+    a walk.”
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:6
+  type: summary
+  locator: lines 501-505
+  quote_or_summary: The narrator says the spell was broken; the child then spoke in
+    a childish treble and waited for a reply.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:7
+  type: summary
+  locator: lines 505-507
+  quote_or_summary: The child says one of the narrator’s notebook phrases, glossed
+    as “What’s your name?”
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:8
+  type: summary
+  locator: lines 507-508
+  quote_or_summary: The narrator answers; the child tries to repeat his name, then
+    pats her chest and repeats “Pooguroo,” indicating her own name.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive because
+    the passage is ethnographic/travel narrative rather than a mythic or ritual text.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol was assigned because the passage does not clearly support one.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-micronesian-project-gutenberg-island-of-stone-money-furness-md__l464-l508
+  passage_sha256=d2e89142a3fddaa9bccfbbf489dc02d6e74a94c4a5d35e140a83bed6075c7634
+

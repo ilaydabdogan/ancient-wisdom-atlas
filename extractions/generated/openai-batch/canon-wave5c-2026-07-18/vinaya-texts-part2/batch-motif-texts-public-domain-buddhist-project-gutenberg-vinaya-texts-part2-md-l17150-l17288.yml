@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l17150-l17288
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: X, 4, 5' SCHISMS AMONG THE SAMGUA. 3! I / A'ULLAVAGGA. / SECOND KHANDHAKA.
+    / C C 2; lines 17150-17288
+  start: '17150'
+  end: '17288'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vinaya legal passage enumerates cases involving certainty, awareness,
+    concealment, probation, Manatta discipline, throwing off robes, renewed upasampada,
+    and the penalties or disciplinary resets applied to Bhikkhus with Saṃghādisesa
+    offences.
+  language: English translation with Pali technical terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists combinations of prior and later certainty or uncertainty
+    about offences, together with concealment or non-concealment, and assigns the
+    same penalty referenced from an earlier chapter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text marks the end of one hundred cases in which Manatta is imposed after
+    a change of state in a guilty Bhikkhu; a note explains the cases as a combinatorial
+    expansion from earlier chapters.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Bhikkhu undergoing probation who commits multiple Saṃghādisesa offences,
+    does not conceal them, throws off the robes, and later receives upasampada without
+    concealing the offences is to be thrown back to the beginning of probation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the same Bhikkhu conceals the offences after renewed upasampada, he is
+    to be thrown back to the beginning of probation and given inclusive probation
+    measured from the first concealed offence.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If a probationary Bhikkhu conceals multiple Saṃghādisesa offences before throwing
+    off the robes, the penalty includes being returned to the start of probation and
+    inclusive probation; the same judgment applies if concealment also occurs after
+    renewed upasampada.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: For offences of which some had been concealed and some not concealed before
+    the robes were thrown off, the passage gives four combinations of later concealment
+    and non-concealment and states the same judgment applies.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage treats cases where the Bhikkhu is aware of some offences and unaware
+    of others, conceals known offences, does not conceal unknown offences, then throws
+    off the robes and receives upasampada again; the penalty is stated to be the same
+    as in the prior section.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A Bhikkhu liable to Manatta, undergoing Manatta, or fit to be rehabilitated
+    who commits non-concealed Saṃghādisesa offences, throws off the robes, and receives
+    upasampada again is subject to the same rules as a Bhikkhu undergoing probation.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage begins a case in which a Bhikkhu fit to be rehabilitated commits
+    non-concealed offences and then becomes a Sāmaṇera, goes out of his mind, becomes
+    weak in mind, or becomes diseased in sensations; the supplied passage ends before
+    this case is completed.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu undergoing probation
+  description: A monk under probation who commits multiple Saṃghādisesa offences and
+    whose concealment, disrobing, and renewed upasampada determine disciplinary consequences.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Bhikkhu under Manatta or fit for rehabilitation
+  description: A monk liable to Manatta, undergoing Manatta, or fit to be rehabilitated,
+    whose later offences and change of state are governed by the same rules as probationary
+    cases.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Bhikkhus addressed
+  description: The monastic audience repeatedly addressed by the rule formula as 'O
+    Bhikkhus.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: Probationary offender
+  assigned_to:
+  - fig:1
+  basis: The Bhikkhu is described as undergoing probation while becoming guilty of
+    multiple Saṃghādisesa offences.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Recipient of disciplinary judgment
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage assigns penalties, reset probation, inclusive probation, or the
+    same applicable rules to these Bhikkhus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: Addressed monastic audience
+  assigned_to:
+  - fig:3
+  basis: The rule statements are addressed to 'O Bhikkhus.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: role:4
+  label: Manatta or rehabilitation status holder
+  assigned_to:
+  - fig:2
+  basis: The figure is described as liable to Manatta, undergoing Manatta, or fit
+    to be rehabilitated.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: Novice-status transition
+  assigned_to:
+  - fig:2
+  basis: The passage says the Bhikkhu fit to be rehabilitated may become a Sāmaṇera.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Robes
+  literal_form: throwing off the robes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: Upasampada
+  literal_form: again received the upasampada
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Enumeration of certainty and concealment cases
+  summary: The passage concludes a sequence of cases about whether a Bhikkhu was certain
+    or uncertain about offences and whether he concealed them, with the same penalty
+    applied by reference.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Probationer disrobes and receives upasampada again
+  summary: A Bhikkhu under probation commits multiple Saṃghādisesa offences, throws
+    off the robes, later receives upasampada, and is assigned penalties based on concealment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Mixed concealment combinations
+  summary: The text handles cases where some offences were concealed and some were
+    not, then gives alternate later concealment outcomes with the same judgment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Awareness and non-awareness of offences
+  summary: The text considers the Bhikkhu's awareness or non-awareness of offences,
+    concealment of known offences, non-concealment of unknown offences, and the resulting
+    same penalty after disrobing and renewed upasampada.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Manatta and rehabilitation cases after renewed status
+  summary: Bhikkhus liable to Manatta, undergoing Manatta, or fit to be rehabilitated
+    are brought under the same rules as probationers when they commit offences, throw
+    off robes, and receive upasampada again; a further incomplete case describes becoming
+    a Sāmaṇera or undergoing mental or sensory impairment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Concealed transgression leading to extended discipline
+  taxonomy_refs: []
+  basis: The passage repeatedly distinguishes concealed from non-concealed offences
+    and assigns reset probation or inclusive probation when concealment is involved.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a monastic legal pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: Ritual status loss and restoration
+  taxonomy_refs:
+  - departure
+  - return
+  - initiation
+  basis: The repeated sequence of throwing off robes and again receiving upasampada
+    presents loss of monastic status followed by renewed ordination or admission.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy references are only broadly supported by the literal status
+    transition; the passage is juridical, not a mythic departure-return narrative.
+- id: motif:3
+  label: Probation, penance, and rehabilitation
+  taxonomy_refs:
+  - initiation
+  basis: The text centers on probation, Manatta discipline, and fitness for rehabilitation
+    as structured processes governing return to standing after offences.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The initiation reference is broad and should be reviewed; the passage
+    concerns Vinaya discipline, not mythic initiation.
+- id: motif:4
+  label: Combinatorial rule enumeration
+  taxonomy_refs: []
+  basis: The passage and note explicitly organize offences into repeated sets and
+    a hundred cases based on combinations of prior state, concealment, awareness,
+    and later action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a textual/legal pattern rather than a conventional mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17150-17170
+  quote_or_summary: The text lists combinations of certainty or uncertainty about
+    offences and concealment or non-concealment, ending with the same penalty imposed
+    by reference to an earlier section.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 17172-17185
+  quote_or_summary: The section states that the hundred cases end here and explains
+    in a note how the hundred cases are derived from repetitions of earlier chapters.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 17188-17200; section 31.1
+  quote_or_summary: A Bhikkhu undergoing probation commits multiple Saṃghādisesa offences,
+    does not conceal them, throws off robes, receives upasampada again, and is to
+    be returned to the start of probation if he does not conceal them afterward.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: lines 17201-17208; section 31.1
+  quote_or_summary: If, after receiving upasampada again, he conceals the offences,
+    he is returned to the start of probation and inclusive probation is imposed from
+    the first concealed offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:5
+  type: summary
+  locator: lines 17209-17218; section 31.1
+  quote_or_summary: If the probationary Bhikkhu concealed the offences before throwing
+    off the robes, the judgment includes return to the start of probation and inclusive
+    probation; the same judgment is noted for concealment before and after renewed
+    upasampada.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:6
+  type: summary
+  locator: lines 17220-17241; section 31.2
+  quote_or_summary: For a Bhikkhu who concealed some offences and not others before
+    disrobing and renewed upasampada, four later combinations of concealment and non-concealment
+    are stated, with the same judgment applied.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:7
+  type: summary
+  locator: lines 17243-17261; section 31.3
+  quote_or_summary: A case distinguishes offences the Bhikkhu is aware of and unaware
+    of, and says that after throwing off robes and receiving upasampada again the
+    same penalty applies; the rest of the chapter is said to correspond to earlier
+    sections.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:8
+  type: summary
+  locator: lines 17264-17277; section 32.1
+  quote_or_summary: A Bhikkhu liable to Manatta, undergoing Manatta, or fit to be
+    rehabilitated who commits non-concealed Saṃghādisesa offences, throws off robes,
+    and receives upasampada again is governed by the same rules as a Bhikkhu undergoing
+    probation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+- id: ev:9
+  type: summary
+  locator: lines 17278-17288; section 32.1
+  quote_or_summary: The passage begins a further case in which a Bhikkhu fit to be
+    rehabilitated commits non-concealed offences and then becomes a Sāmaṇera, goes
+    out of his mind, becomes weak in mind, or becomes diseased in sensations; the
+    supplied excerpt ends before the case finishes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Rights status not supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Legal and disciplinary content is clear, but motif classification is cautious
+    because the passage is not a mythic narrative. No comparison claims were made
+    because the passage itself does not support comparison to another tradition or
+    corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Pali technical terms are retained where present in the English translation.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l17150-l17288
+  passage_sha256=8c3283652ad847a006439b0feed2823186ca71777f163262d558f351fa3a8496
+

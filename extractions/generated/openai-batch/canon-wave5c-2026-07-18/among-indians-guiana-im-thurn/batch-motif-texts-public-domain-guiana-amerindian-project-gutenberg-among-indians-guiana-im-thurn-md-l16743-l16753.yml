@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md-l16743-l16753
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: SHELL-MOUNDS. / EAR-RINGS. / STONE IMPLEMENTS. / STANDING STONES.; lines
+    16743-16753
+  start: '16743'
+  end: '16753'
+  translation: among-indians-guiana-im-thurn
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports, on the authority of C. Barrington Brown, a circle
+    of square upright stones in the Pacaraima mountains between Mora and Itabay. One
+    stone has a carving. A note says this circle is very like the one on Stanton Moor
+    shown in Ferguson’s Rude Stone Monuments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a circle of standing stones as one of two remaining
+    traces of old Indian life to be mentioned, based on the authority of Mr. C. Barrington
+    Brown.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The stone circle is located in the Pacaraima mountains, between the villages
+    of Mora and Itabay, where a path passes through it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stones are described as square stones placed on one end.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One of the stones is said to have a carving on it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note says the circle of stones is very like the one on Stanton Moor shown
+    in Ferguson’s Rude Stone Monuments.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mr. C. Barrington Brown
+  description: Named authority for the reported trace of old Indian life and source
+    of the description of the stone circle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: cited authority and reporter
+  assigned_to:
+  - fig:1
+  basis: The passage states that the traces are given on Brown’s authority and introduces
+    the description with “Mr. Brown says.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: standing-stone circle
+  literal_form: a circle of square stones placed on one end
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: carved standing stone
+  literal_form: one standing stone with a carving on it
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mountain setting
+  literal_form: the Pacaraima mountains
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Reported Pacaraima stone circle
+  summary: Brown’s report places a circle of square upright stones in the Pacaraima
+    mountains between Mora and Itabay, with a path passing through it and one stone
+    bearing a carving.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Antiquarian comparison with Stanton Moor
+  summary: A note compares the Pacaraima circle of stones to the Stanton Moor stone
+    circle as shown in Ferguson’s Rude Stone Monuments.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: standing-stone circle
+  taxonomy_refs: []
+  basis: The passage describes a circle of square stones set upright, with a path
+    passing through it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides an archaeological description only; it does not explain
+    any ritual, mythic, calendrical, or social function for the stone circle.
+- id: motif:2
+  label: carved stone within stone circle
+  taxonomy_refs: []
+  basis: One stone within the described circle is said to have a carving on it.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The carving is not described, and the passage does not state its meaning
+    or relationship to the circle beyond its presence on one stone.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a visual resemblance between the Pacaraima stone circle
+    and the stone circle on Stanton Moor as shown in Ferguson’s Rude Stone Monuments.
+  claim_level: visual_similarity
+  target: Stanton Moor stone circle as shown in Ferguson’s Rude Stone Monuments
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported only as a brief note saying the circle is
+    “very like” Stanton Moor; no detailed feature-by-feature evidence is supplied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16743-16746
+  quote_or_summary: The passage introduces standing stones and says the remaining
+    traces of old Indian life are given on the authority of Mr. C. Barrington Brown.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 16746-16751
+  quote_or_summary: Brown describes a circle of square stones placed upright in the
+    Pacaraima mountains between Mora and Itabay, with a path passing through it and
+    one stone bearing a carving.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 16751-16753
+  quote_or_summary: A note adds that the circle of stones is very like the one on
+    Stanton Moor shown in Ferguson’s Rude Stone Monuments.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The physical description and reported comparison are clear, but the passage
+    gives no mythic function or interpretation for the stones or carving.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No additional taxonomy motif family was assigned because the passage does not support a specific mythological motif family beyond the literal standing-stone pattern.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-guiana-amerindian-project-gutenberg-among-indians-guiana-im-thurn-md__l16743-l16753
+  passage_sha256=c652220194b38e7c92753ea2888ed24d1191ea1d1de1799ba93d217afa4dde77
+

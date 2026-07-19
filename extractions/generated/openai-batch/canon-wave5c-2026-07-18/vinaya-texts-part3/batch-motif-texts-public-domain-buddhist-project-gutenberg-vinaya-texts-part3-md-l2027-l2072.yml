@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md-l2027-l2072
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+passage_locator:
+  label: IV, 14, 14. THE SETTLEMENT OF DISPUTES. / AULLAVAGGA, / JTU LLAVAGGA. / TV,
+    14, 18. THE SETTLEMENT OF DISPUTES.; lines 2027-2072
+  start: '2027'
+  end: '2072'
+  translation: vinaya-texts-part3
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage sets out procedures for settling legal questions among Bhikkhus:
+    both parties to a dispute must be present; reopening a settled question or complaining
+    after giving consent incurs a Pācittiya offence; unresolved questions may be taken
+    to a residence with more Bhikkhus, and if still unresolved, the resident Bhikkhus
+    are asked to settle the matter according to the Dhamma, Vinaya, and the Master''s
+    teaching.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In a dispute, both the one who disputes and the one with whom he disputes,
+    whether friends or foes, must be present.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a legal question has been settled and a disputant reopens it, the reopening
+    is treated as a Pācittiya offence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a person who has conveyed consent later complains of the decision, the
+    complaint is treated as a Pācittiya offence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If Bhikkhus cannot settle a legal question within their own residence, they
+    should go to another residence where there are more Bhikkhus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the Bhikkhus settle the legal question while traveling to the other residence,
+    that counts as a settlement.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the question remains unresolved upon arrival, the traveling Bhikkhus are
+    instructed to ask the resident Bhikkhus to settle it according to the Dhamma,
+    the Vinaya, and the teaching of the Master.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: disputant
+  description: A person who disputes a legal question and may reopen a settled question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: opposing party in the dispute
+  description: The person with whom the disputant disputes; must be present along
+    with the disputant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhikkhus unable to settle the question
+  description: Bhikkhus whose legal question cannot be settled in their own residence
+    and who may travel to another residence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Bhikkhus at the larger residence
+  description: Bhikkhus dwelling in another residence with a larger number of Bhikkhus,
+    asked to settle the legal question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: the Master
+  description: The Master is named as the source of teaching according to which the
+    legal question should be settled.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: disputing party
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the one who disputes as a necessary person present
+    in the matter and as someone who could reopen a settled question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: opposing party
+  assigned_to:
+  - fig:2
+  basis: The passage requires the person with whom the disputant disputes to be present.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioning community members
+  assigned_to:
+  - fig:3
+  basis: These Bhikkhus carry an unresolved legal question to another residence and
+    request settlement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: requested adjudicating community
+  assigned_to:
+  - fig:4
+  basis: The Bhikkhus at the other residence are asked to settle the legal question
+    according to established standards.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: source of authoritative teaching
+  assigned_to:
+  - fig:5
+  basis: The requested settlement is to follow the teaching of the Master.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Required presence in a dispute
+  summary: The passage defines proper presence for a legal question as including both
+    the disputant and the opposing party, whether they are friends or foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sanctions after settlement
+  summary: After a legal question has been settled, reopening it or complaining after
+    giving consent is classified as a Pācittiya offence.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Referral to a larger residence
+  summary: Bhikkhus who cannot settle a legal question in their own residence are
+    directed to go to another residence with more Bhikkhus; settlement on the way
+    is accepted as settlement.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Request for settlement by resident Bhikkhus
+  summary: If the question is still unresolved after arrival, the traveling Bhikkhus
+    ask the resident Bhikkhus to settle it according to the Dhamma, Vinaya, and the
+    Master's teaching.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: communal settlement of disputes
+  taxonomy_refs: []
+  basis: The passage describes a formal process by which a legal question among Bhikkhus
+    is settled through presence of parties and, if necessary, referral to a larger
+    monastic community.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a disciplinary-procedural pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: prohibition on reopening a settled judgment
+  taxonomy_refs: []
+  basis: The passage states that reopening a settled legal question or complaining
+    after giving consent is a Pācittiya offence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is legal and institutional; no mythic symbolism is explicit
+    in the passage.
+- id: motif:3
+  label: appeal to authoritative teaching for judgment
+  taxonomy_refs: []
+  basis: The resident Bhikkhus are asked to settle the legal question according to
+    the Dhamma, Vinaya, and the teaching of the Master.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides an authority formula but does not elaborate a broader
+    wisdom or judgment myth pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2027-2032
+  quote_or_summary: For the presence of the particular person, both the disputant
+    and the person disputed with, whether friends or foes, must be present.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source provided as public-domain Project Gutenberg text; short summary
+    used.
+- id: ev:2
+  type: summary
+  locator: lines 2034-2040
+  quote_or_summary: Once a legal question has been settled, reopening it by a disputant
+    or complaining after conveying consent is classified as a Pācittiya offence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source provided as public-domain Project Gutenberg text; short summary
+    used.
+- id: ev:3
+  type: summary
+  locator: lines 2042-2053
+  quote_or_summary: If Bhikkhus cannot settle a legal question in their own residence,
+    they should go to a residence with more Bhikkhus; if they settle it on the way,
+    that is called a settlement.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source provided as public-domain Project Gutenberg text; short summary
+    used.
+- id: ev:4
+  type: summary
+  locator: lines 2055-2072
+  quote_or_summary: If the question is not settled on the way, the arriving Bhikkhus
+    ask the resident Bhikkhus to settle the legal question according to the Dhamma,
+    the Vinaya, and the teaching of the Master.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md
+  rights_note: Source provided as public-domain Project Gutenberg text; short summary
+    used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as a Vinaya legal-procedural instruction. Motif candidates
+    are institutional patterns, not explicit mythological motifs. No comparison claims
+    are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned; the passage contains procedural terms and places but no explicit symbolic objects from the available symbol list.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part3-md__l2027-l2072
+  passage_sha256=860deaa595e8926def4dca129ebcc8e8515cec1941d919efb894b4c42100e7ad
+

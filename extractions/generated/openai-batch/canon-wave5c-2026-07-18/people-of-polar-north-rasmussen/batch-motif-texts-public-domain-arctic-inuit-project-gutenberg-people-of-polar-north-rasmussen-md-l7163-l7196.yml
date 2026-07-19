@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l7163-l7196
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: THE GREAT BEAR / VENUS / THE GIANT / THE WOMAN WITH THE IRON TAIL; lines
+    7163-7196
+  start: '7163'
+  end: '7196'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A cannibal woman with an iron tail kills sleeping guests by dropping onto
+    them. A man avoids her attack, causing her tail to strike a stone and break. He
+    flees in a kayak; she pursues and speaks a harmful wish whose words nearly capsize
+    him. He answers with a spoken wish of his own, causing her to fall back on her
+    tail. After this, she no longer murders people because the iron tail is broken.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a woman who has an iron tail and is also a cannibal.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When guests sleep at her house, she leaps up and drops onto them so that they
+    are pierced by her tail.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man comes to her house and lies down, but he is not asleep when she prepares
+    to attack.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman drops toward the man, but he moves aside, and the end of her tail
+    strikes a stone and breaks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man flees into his kayak, and the woman follows him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman voices a wish to drive her hunting knife into the man, and the passage
+    says her words have power, nearly causing his kayak to capsize.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man voices a wish to send his harpoon through the woman, and the passage
+    says his words have power, causing her to fall backward on her tail.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Afterward, the man goes on his way, and the woman murders no more people because
+    her iron tail is broken.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman with the iron tail
+  description: A cannibal woman with an iron tail who murders sleeping guests, pursues
+    the man after her tail breaks, and later murders no more people.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man in the kayak
+  description: A man who comes to the woman’s house, avoids her attack, flees in a
+    kayak, and speaks words that make her fall backward on her tail.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: cannibal attacker
+  assigned_to:
+  - fig:1
+  basis: The woman is described as a cannibal who kills sleeping guests by dropping
+    onto them with her iron tail.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended victim and survivor
+  assigned_to:
+  - fig:2
+  basis: The man is targeted while pretending to sleep, avoids the attack, flees,
+    and ultimately leaves after the woman is disabled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: speaker of powerful words
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the woman and the man utter wishes whose words are said to have power
+    and produce immediate physical effects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: iron tail
+  literal_form: The woman’s iron tail, used to pierce sleeping guests and later broken
+    against a stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: stone
+  literal_form: A stone struck by the end of the woman’s tail, breaking it when the
+    man moves aside.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kayak
+  literal_form: The kayak into which the man jumps while fleeing the woman.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hunting knife
+  literal_form: The hunting knife named in the woman’s spoken wish against the man.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: harpoon
+  literal_form: The harpoon named in the man’s spoken wish against the woman.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: cannibal woman kills sleeping guests
+  summary: The woman with the iron tail receives visitors and kills them after they
+    fall asleep by dropping onto them and piercing them with her tail.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: failed attack and broken tail
+  summary: A man lies down in the woman’s house without sleeping. When she drops toward
+    him, he moves aside, and her iron tail breaks against a stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: kayak pursuit and powerful speech
+  summary: The man flees in a kayak. The woman pursues and speaks a harmful wish that
+    nearly capsizes him; he answers with a wish involving his harpoon, and she falls
+    backward on her tail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: end of the murders
+  summary: The man leaves, and the woman no longer murders people because her iron
+    tail has been broken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cannibal host murders sleeping guests with a body weapon
+  taxonomy_refs: []
+  basis: The woman receives visitors and kills them when asleep by dropping onto them
+    and piercing them with her iron tail.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a short episode and does not connect the pattern
+    to a named external motif type.
+- id: motif:2
+  label: monster’s dangerous appendage broken by evasion
+  taxonomy_refs: []
+  basis: The man avoids the woman’s attack so that her iron tail strikes a stone and
+    breaks, disabling the means by which she kills.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not state that the man planned the stone impact; it only
+    narrates his movement aside and the resulting break.
+- id: motif:3
+  label: efficacious spoken wishes in conflict
+  taxonomy_refs: []
+  basis: Both opponents speak wishes involving weapons, and the passage explicitly
+    says their words have power, producing physical effects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader ritual or cosmological explanation for the power of the words
+    is provided in the passage.
+- id: motif:4
+  label: flight from cannibal pursuer by kayak
+  taxonomy_refs: []
+  basis: After breaking the woman’s tail, the man flees into his kayak while the woman
+    pursues him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The episode is brief, and the passage does not describe a long chase or
+    multiple pursuit obstacles.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7163-7168
+  quote_or_summary: The passage introduces the woman with an iron tail as a cannibal
+    who kills sleeping visitors by leaping and dropping onto them so that her tail
+    pierces them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: 7169-7176
+  quote_or_summary: A man comes to the woman’s house and lies down without sleeping;
+    when she drops toward him, he springs aside, and her tail strikes a stone and
+    breaks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: 7177-7186
+  quote_or_summary: The man flees into a kayak and the woman follows; she calls out
+    a wish to drive her hunting knife into him, and her words have power, nearly capsizing
+    him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: 7187-7194
+  quote_or_summary: The man calls back a wish to send his harpoon through the woman;
+    his words have power, and she falls backward on her tail. The man leaves, and
+    she murders no more because the tail is broken.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:5
+  type: citation
+  locator: '7196'
+  quote_or_summary: The tale is attributed as told by Aisivak.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive and not mapped to external taxonomy refs. No comparison claims
+    are made because the passage itself does not support a specific cross-text or
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy refs were assigned; none were directly supported by the supplied passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l7163-l7196
+  passage_sha256=eacce2587c782df0ebb061d8adddef4b6270d3bde2eade4a8d97cb0a27b8e5d9
+

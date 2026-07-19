@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md-l29340-l29365
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  61    PLATE  66 / BUREAU  OP  AMEBICAN  ETHNOLOGY / BUREAU  OF  AMERICAN  ETHNOLOGV
+    / IMPLEMENTS  USED; lines 29340-29365
+  start: '29340'
+  end: '29365'
+  translation: teton-sioux-music-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Teton Sioux implements, including a clamshell used
+    for skinning buffalo, a skinning knife made from a buffalo shoulder blade, and
+    an account in which Eagle Shield used remembered ancestral knowledge to cook soup
+    without a large utensil by suspending an animal stomach casing on a tripod, filling
+    it with water, and placing heated stones in it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A clamshell is described as an implement for skinning buffalo, and the text
+    says its use may have originated in an emergency.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shell size is said to indicate that it was found some distance from Sioux
+    territory, and slits at the top of its case showed that it was attached to the
+    owner's belt.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The clamshell specimen was purchased from Eagle Shield's mother, who is described
+    as a very old woman.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A skinning knife is described as made from the shoulder blade of a buffalo,
+    with a handle wound with buffalo hide.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wounded man wanted soup, but the party had no utensil large enough for boiling
+    meat.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eagle Shield remembered that his grandfather had told him that warriors of
+    his day cooked meat in the stomach casing of a slain animal, and Eagle Shield
+    resolved to try the experiment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stomach casing was suspended on a tripod, filled with water, and heated
+    stones were placed in the water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A figure caption identifies an apparatus for cooking without a kettle.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: Person who remembered his grandfather's account of cooking meat in
+    an animal stomach casing and resolved to try the experiment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mother of Eagle Shield
+  description: A very old woman from whom the clamshell specimen was purchased.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Grandfather of Eagle Shield
+  description: The person remembered as having told Eagle Shield how earlier warriors
+    cooked meat in the stomach casing of a slain animal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wounded man
+  description: A wounded man who wanted soup.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The party
+  description: The group that carried no utensil large enough for boiling meat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Warriors of Eagle Shield's grandfather's day
+  description: Earlier warriors said to have cooked meat in the stomach casing of
+    a slain animal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Experimenter using remembered technique
+  assigned_to:
+  - fig:1
+  basis: Eagle Shield remembered his grandfather's account and resolved to try the
+    cooking method.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Source of transmitted practical knowledge
+  assigned_to:
+  - fig:3
+  basis: Eagle Shield's grandfather is described as having told him about the older
+    warriors' cooking method.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Requester of soup
+  assigned_to:
+  - fig:4
+  basis: The wounded man wanted soup.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Group lacking suitable cooking utensil
+  assigned_to:
+  - fig:5
+  basis: The party carried no utensil large enough for boiling meat.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Earlier practitioners of animal-casing cooking
+  assigned_to:
+  - fig:6
+  basis: The warriors of the grandfather's day are said to have cooked meat in a slain
+    animal's stomach casing.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Specimen source
+  assigned_to:
+  - fig:2
+  basis: The clamshell specimen was purchased from Eagle Shield's mother.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Clamshell skinning implement
+  literal_form: Clamshell used as an implement for skinning buffalo, carried in a
+    case with slits for attachment to a belt.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Buffalo shoulder-blade knife
+  literal_form: Skinning knife made of the shoulder blade of a buffalo, with the handle
+    wound in buffalo hide.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Animal stomach casing cooking vessel
+  literal_form: Stomach casing of a slain animal used as a container for cooking meat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Water in improvised cooking vessel
+  literal_form: Water placed in the stomach casing used for cooking.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Heated stones
+  literal_form: Heated stones placed in the water inside the suspended casing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Tripod suspension
+  literal_form: Tripod on which the stomach casing was suspended.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of skinning implements
+  summary: The passage describes a clamshell used for skinning buffalo, its carrying
+    case, and a buffalo shoulder-blade skinning knife.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cooking soup without a large utensil
+  summary: When a wounded man wanted soup and the party lacked a large cooking utensil,
+    Eagle Shield recalled his grandfather's account of warriors cooking meat in a
+    slain animal's stomach casing and tried the method using a tripod, water, and
+    heated stones.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Improvised implement in an emergency
+  taxonomy_refs: []
+  basis: The clamshell's use for skinning buffalo is said to possibly originate in
+    an emergency, and the cooking scene centers on solving the absence of a large
+    utensil by using an animal casing, water, heated stones, and a tripod.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The clamshell emergency origin is stated as a possibility, and the passage
+    is ethnographic rather than a mythic narrative.
+- id: motif:2
+  label: Remembered ancestral knowledge solves a present need
+  taxonomy_refs: []
+  basis: Eagle Shield uses a method remembered from his grandfather's account of earlier
+    warriors to address the party's lack of a cooking utensil.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a practical knowledge-transmission pattern, not necessarily a
+    mythological motif.
+- id: motif:3
+  label: Cooking without a kettle by stone boiling in an animal casing
+  taxonomy_refs: []
+  basis: The passage describes meat or soup being prepared without a large utensil
+    by suspending an animal stomach casing, filling it with water, and adding heated
+    stones.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif label describes a material practice; no symbolic or sacred meaning
+    is asserted in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29343-29351
+  quote_or_summary: The passage describes a clamshell used as an implement for skinning
+    buffalo, possibly originating in an emergency; its size and case details are also
+    described.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 29351-29356
+  quote_or_summary: The specimen was purchased from Eagle Shield's mother, described
+    as a very old woman; the passage also describes a buffalo shoulder-blade skinning
+    knife with a buffalo-hide-wound handle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 29356-29363
+  quote_or_summary: A wounded man wanted soup, the party had no utensil large enough
+    for boiling meat, and Eagle Shield remembered his grandfather's account of warriors
+    cooking meat in a slain animal's stomach casing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 29363-29365
+  quote_or_summary: The casing was suspended on a tripod, filled with water, and heated
+    stones were placed in it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: line 29354
+  quote_or_summary: The figure caption identifies an apparatus for cooking without
+    a kettle, though the OCR is garbled.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Rights status not supplied in metadata; source path indicates a public-domain
+    Project Gutenberg text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is mostly clear, but the passage contains OCR errors and
+    is primarily ethnographic material culture rather than mythic narrative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Symbols are recorded as salient literal material forms from the passage; no symbolic or sacred interpretation is asserted beyond the supplied text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-plains-project-gutenberg-teton-sioux-music-densmore-md__l29340-l29365
+  passage_sha256=dc25e0b5c7a5b817f2a9e37c9f369d053fccabc72693b970f7daf0fc0ccd69f4
+

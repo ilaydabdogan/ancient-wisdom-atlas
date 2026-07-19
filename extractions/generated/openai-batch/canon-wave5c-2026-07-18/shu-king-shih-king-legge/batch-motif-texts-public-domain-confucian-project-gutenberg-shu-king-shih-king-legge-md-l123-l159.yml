@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md-l123-l159
+source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+passage_locator:
+  label: XIV PREFACE. / PREFACE. XV / XVI PREFACE.; lines 123-159
+  start: '123'
+  end: '159'
+  translation: shu-king-shih-king-legge
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface describes selected poems associated with the Shang/Yin and
+    Kau dynasties, distinguishes religious pieces from descriptive ones, then introduces
+    the Yi or Book of Changes, its valuation by Confucius, its dating relative to
+    king Wan, and the formation of trigrams and hexagrams from whole and divided lines.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Five pieces are said to belong to the Shang or Yin dynasty, while the others
+    belong to the dynasty of Kau from king Wan to king Ting.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The whole collection is divided into four parts, and the last part is occupied
+    with Odes of the Temple and the Altar.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many pieces are described as religious in character, while a greater number
+    are described as manners, customs, and events of their times; the volume includes
+    pieces illustrating religious views and practices.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Yi is identified as the Book of Changes; Confucius is said to have valued
+    it as fitted to correct and perfect the learner's character.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage rejects the claim that the Yi is the most ancient Chinese classic
+    and states that no portion of the text is older than the time of king Wan.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Eight trigrams in the Yi are ascribed to Fu-hsi, who is described as generally
+    considered the founder of the Chinese nation and assigned probably to the thirty-fourth
+    century B.C.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The eight trigrams are said to be increased to sixty-four hexagrams.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Two base lines, one whole and one divided, are placed over themselves and
+    each other to produce four binograms, then eight trigrams, and through further
+    repetition sixteen, thirty-two, and sixty-four figures.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage describes the lines as increasing by an arithmetical progression
+    and the figures as increasing by a geometrical progression with common ratio two.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: king Wan
+  description: Founder of the dynasty of Kau in this passage; born B.C. 1231 and used
+    as a chronological reference for the Yi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: king Ting
+  description: Ruler whose reign is dated B.C. 606-586 and marks the later end of
+    the dynastic range mentioned for the pieces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Confucius
+  description: Named as valuing the Yi because it could correct and perfect the character
+    of the learner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Fu-hsi
+  description: Person to whom the eight trigrams are ascribed; generally considered
+    the founder of the Chinese nation in the passage.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: dynastic founder and chronological anchor
+  assigned_to:
+  - fig:1
+  basis: The passage calls king Wan the founder of the dynasty of Kau and later states
+    that no Yi text is older than his time.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dated ruler
+  assigned_to:
+  - fig:2
+  basis: King Ting is mentioned with a dated reign that sets part of the dynastic
+    range.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sage evaluator of the Yi
+  assigned_to:
+  - fig:3
+  basis: Confucius is said to set a high value on the Yi for moral formation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ascribed originator of trigrams
+  assigned_to:
+  - fig:4
+  basis: The passage says the eight trigrams are ascribed to Fu-hsi.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: national founder
+  assigned_to:
+  - fig:4
+  basis: Fu-hsi is described as generally considered the founder of the Chinese nation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Odes of the Temple and the Altar
+  literal_form: A named class or part of odes associated with temple and altar.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Yi / Book of Changes
+  literal_form: A named classical work called the Yi or Book of Changes.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eight trigrams
+  literal_form: Eight diagrammatic figures in the Yi ascribed to Fu-hsi.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: sixty-four hexagrams
+  literal_form: Sixty-four figures produced by increasing the trigrams.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: whole line and divided line
+  literal_form: Two primary base lines, one whole and one divided.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: four binograms
+  literal_form: Four figures produced by placing the whole and divided base lines
+    over themselves and each other.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preface classifies dynastic and religious pieces
+  summary: The preface situates pieces in the Shang/Yin and Kau dynastic periods,
+    names king Wan and king Ting as chronological markers, and distinguishes religious
+    odes from more descriptive pieces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preface evaluates and dates the Yi
+  summary: The Yi is identified as the Book of Changes; Confucius values it for character
+    formation, and the preface states that the text is not older than the time of
+    king Wan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preface explains generation of trigrams and hexagrams
+  summary: The eight trigrams are ascribed to Fu-hsi and are explained as generated
+    from whole and divided lines through repeated combination, leading to binograms,
+    trigrams, and sixty-four hexagrams.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dual-line generative pattern
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly presents two primary forms, a whole line and a divided
+    line, as the bases from which the figures are generated.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is expository rather than narrative; the motif label identifies
+    a symbolic pattern, not a mythic episode.
+- id: motif:2
+  label: wisdom text for moral formation
+  taxonomy_refs:
+  - wisdom
+  basis: The Yi is described as valued by Confucius because it is fitted to correct
+    and perfect the character of the learner.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a function of a text, not a narrated wisdom quest or
+    divine instruction scene.
+- id: motif:3
+  label: founder associated with primordial signs
+  taxonomy_refs:
+  - culture_hero
+  basis: Fu-hsi is described as generally considered the founder of the Chinese nation,
+    and the eight trigrams are ascribed to him.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage provides attribution and status only; it does not narrate
+    Fu-hsi creating, receiving, or teaching the signs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 125-136
+  quote_or_summary: Pieces are dated to the Shang/Yin and Kau dynasties; king Wan
+    and king Ting are named; the work is divided into four parts including Odes of
+    the Temple and the Altar, and some pieces illustrate religious views and practices.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:2
+  type: summary
+  locator: lines 138-145
+  quote_or_summary: The Yi is called the Book of Changes; Confucius valued it for
+    correcting and perfecting character; the preface denies that it is the most ancient
+    Chinese classic and says no portion is older than king Wan's time.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:3
+  type: summary
+  locator: lines 146-148
+  quote_or_summary: Eight trigrams in the Yi are ascribed to Fu-hsi, who is described
+    as generally considered founder of the Chinese nation and probably assigned to
+    the thirty-fourth century B.C.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata.
+- id: ev:4
+  type: summary
+  locator: lines 149-159
+  quote_or_summary: The eight trigrams are increased to sixty-four hexagrams; whole
+    and divided lines are used as bases to form binograms, trigrams, and later figures,
+    with the number of figures doubling through the process.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+  rights_note: Rights status not supplied in metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is a preface and technical exposition rather than a mythic narrative.
+    No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata fields for tradition, culture, text language, and rights status were not supplied; extraction uses only the passage text and provided metadata.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-confucian-project-gutenberg-shu-king-shih-king-legge-md__l123-l159
+  passage_sha256=7285acd1101e240dafbd7c1da41cd3c898017c4e42cd4d91347563e3c0141208
+

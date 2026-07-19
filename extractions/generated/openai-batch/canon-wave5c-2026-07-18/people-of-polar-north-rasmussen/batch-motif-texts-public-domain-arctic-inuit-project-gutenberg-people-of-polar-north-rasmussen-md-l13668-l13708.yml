@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l13668-l13708
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: A WEST GREENLANDIC INTERIOR / THE WOMAN WHO ATE MEN / ANTON, FROM GODTHAABSFJORD
+    / THE PTARMIGAN AND THE LONG-TAILED DUCK; lines 13668-13708
+  start: '13668'
+  end: '13708'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: '"the seals offer themselves"; "he was one of the noseless ones"'
+  summary: A wife repeatedly asks her husband why he catches so many seals. He says
+    the seals offer themselves, begins to reveal more, sleeps late, and catches only
+    one seal. Under further questioning, he tells of once rescuing an upset kayaker,
+    who proved to be one of the noseless ones and praised him for not idling near
+    the houses.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wife asks why the man catches so many seals.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man replies that the seals offer themselves and he catches them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After further questioning, the man begins to say "Once" and then goes to lie
+    down.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man sleeps late and goes out paddling when the sun is just over the village
+    houses.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On that day the man catches only one seal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wife questions him again in the evening until he tells more of the earlier
+    event.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man says he once woke late in the evening, paddled out, and heard a man
+    calling for help because he was upset in his kayak.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The man says he righted the other man's kayak.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After righting the kayak, the rescuer sees that the man is one of the noseless
+    ones.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The noseless one says it was good that the rescuer was not idling among the
+    houses.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: bachelor / husband
+  description: A man who catches seals, is questioned by his wife, paddles out, and
+    recounts rescuing an upset kayaker.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: wife
+  description: The man's wife, who repeatedly questions him about why he catches so
+    many seals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: noseless one
+  description: A man found upset in a kayak, later identified as one of the noseless
+    ones, who speaks to the rescuer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: seals
+  description: Animals the man catches; he says they offer themselves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: seal hunter
+  assigned_to:
+  - fig:1
+  basis: He is asked why he catches so many seals and later catches one seal.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: She repeatedly asks the man about his unusually large catch.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: He says he went to the capsized man and righted his kayak.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: rescued noseless being
+  assigned_to:
+  - fig:3
+  basis: The kayaker calls for help, is righted, and is identified as one of the noseless
+    ones.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: self-offering game animals
+  assigned_to:
+  - fig:4
+  basis: The hunter says the seals offer themselves and he catches them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: seals
+  literal_form: seals caught by the hunter and said to offer themselves
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: kayak
+  literal_form: kayak that has upset and is righted by the hunter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: noseless ones
+  literal_form: beings identified by the absence of noses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Questioning about the seal catch
+  summary: The wife asks why the hunter catches so many seals, and he replies that
+    the seals offer themselves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Interrupted disclosure and reduced catch
+  summary: After continued questioning, the hunter begins to reveal something, stops,
+    sleeps late, goes out paddling, and catches only one seal that day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rescue of the noseless kayaker
+  summary: The hunter says he once heard a man calling for help from an upset kayak,
+    righted the kayak, discovered the man was one of the noseless ones, and heard
+    the rescued being praise his timely presence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Self-offering hunted animals
+  taxonomy_refs: []
+  basis: The hunter explains his abundant seal catch by saying that the seals offer
+    themselves.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the explanation but does not provide the wider ritual
+    or cosmological context.
+- id: motif:2
+  label: Rescue of a strange or other-than-ordinary kayaker
+  taxonomy_refs: []
+  basis: The hunter rescues an upset kayaker, then discovers that the rescued man
+    is one of the noseless ones.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage identifies the rescued figure as one of the noseless ones
+    but does not explain their nature within this excerpt.
+- id: motif:3
+  label: Questioning a concealed source of hunting luck
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The wife presses the hunter to explain his unusually large catch; after he
+    begins to disclose the story, he sleeps late and catches only one seal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: A causal link between disclosure and reduced catch is suggested by sequence
+    only, not explicitly stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13668-13669
+  quote_or_summary: '"But why do you catch so desperately much?"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from provided
+    passage.
+- id: ev:2
+  type: quote
+  locator: 13670-13671
+  quote_or_summary: '"the seals offer themselves, and so I catch them"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: 13673-13678
+  quote_or_summary: After further questioning, he begins to say "Once," goes to lie
+    down, sleeps only after a long time, wakes when the sun is over the village houses,
+    and paddles out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: '13680'
+  quote_or_summary: '"That day he only caught one seal."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from provided
+    passage.
+- id: ev:5
+  type: summary
+  locator: 13682-13684
+  quote_or_summary: In the evening the wife begins questioning him again and will
+    not keep quiet, so he tells her more.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 13686-13688
+  quote_or_summary: He says he once woke late in the evening, paddled out, and heard
+    a man calling for help, saying he was upset.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; summarized from provided passage.
+- id: ev:7
+  type: quote
+  locator: 13688-13690
+  quote_or_summary: '"I went up to him and righted his kayak"; "he was one of the
+    noseless ones."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from provided
+    passage.
+- id: ev:8
+  type: quote
+  locator: 13692-13693
+  quote_or_summary: '"It was a good thing that you were not idling about among the
+    houses"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in metadata; short excerpt quoted from provided
+    passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Some lines after the quoted
+    speech appear to contain formatting or image artifacts and were not used for motif
+    extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage alone does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l13668-l13708
+  passage_sha256=cf1c3e19cb7c6f674f33e2521a238af2eb8c5e9e1491ef3989714fba6bf0c7c2
+

@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md-l17290-l17430
+source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+passage_locator:
+  label: X, 4, 5' SCHISMS AMONG THE SAMGUA. 3! I / A'ULLAVAGGA. / SECOND KHANDHAKA.
+    / C C 2; lines 17290-17430
+  start: '17290'
+  end: '17430'
+  translation: vinaya-texts-part2
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: One of them conceals, the other does not conceal it.
+  summary: A Vinaya disciplinary passage classifies cases in which one or more Bhikkhus
+    have committed Sanghadisesa, mixed, or minor offences. It distinguishes concealed
+    and unconcealed offences, gives penalties involving confession, probation, Manatta
+    discipline, and being dealt with according to law, and marks concealment over
+    the watches of the night as becoming a concealed offence after sunrise.
+  language: English translation with Pali disciplinary terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A case is stated in which a Bhikkhu is guilty of multiple Sanghadisesa offences
+    of various classifications and then throws off the robes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several cases involve two Bhikkhus who have both been guilty of an offence,
+    with one concealing it and the other not concealing it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:3
+  text: For the concealing Bhikkhu in the stated Sanghadisesa case, the passage prescribes
+    confession of a dukkata offence, probation corresponding to the period of concealment,
+    and Manatta for both Bhikkhus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage repeats the concealment scenario for doubt about the offence,
+    for mixed offences, and for minor offences, with penalties either stated as the
+    same or as being dealt with according to law.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In one scenario, a Bhikkhu conceals the offence during the first, second,
+    and third watches of the night, and after the sun has arisen the offence is counted
+    as concealed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In another scenario, two Bhikkhus set out intending to tell the Samgha, but
+    on the way one develops a desire to conceal the offence and conceals it through
+    the night watches.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: In a further scenario, two Bhikkhus go out of their minds, later recover their
+    senses, and then one conceals the offence while the other does not.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bhikkhu with multiple offences
+  description: A Bhikkhu guilty of multiple Sanghadisesa offences who then throws
+    off the robes.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Concealing Bhikkhu
+  description: One of a pair of Bhikkhus who conceals an offence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Non-concealing Bhikkhu
+  description: One of a pair of Bhikkhus who does not conceal the offence.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Samgha
+  description: The community that the Bhikkhus intend or do not intend to tell about
+    the offence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: offender under monastic discipline
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage repeatedly describes Bhikkhus as guilty of Sanghadisesa, mixed,
+    or minor offences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: concealer of offence
+  assigned_to:
+  - fig:2
+  basis: One member of the pair conceals the offence and receives specified disciplinary
+    consequences.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: non-concealer of offence
+  assigned_to:
+  - fig:3
+  basis: One member of the pair does not conceal the offence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:4
+  label: recipient of intended disclosure
+  assigned_to:
+  - fig:4
+  basis: The text states that one or both Bhikkhus think of telling the Samgha about
+    the offence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: robe-throwing Bhikkhu
+  assigned_to:
+  - fig:1
+  basis: The chapter 33 case says the Bhikkhu then throws off the robes.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: robes thrown off
+  literal_form: robes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: three night watches
+  literal_form: first watch, second watch, and third watch of the night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: sunrise threshold
+  literal_form: the sun has arisen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Multiple offences and throwing off robes
+  summary: A Bhikkhu guilty of multiple Sanghadisesa offences, all described as not
+    concealed in the listed cases, then throws off the robes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Two offenders divided by concealment
+  summary: Two Bhikkhus have been guilty of an offence; one conceals it and the other
+    does not, producing stated disciplinary consequences.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Concealment through the night
+  summary: A Bhikkhu decides not to tell the Samgha and conceals the offence through
+    the three watches of the night; after sunrise it is treated as concealed.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Intent to disclose changes on the way
+  summary: Two Bhikkhus set out intending to tell the Samgha, but on the way one develops
+    a desire to conceal the offence and conceals it through the night watches.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Recovery of senses followed by concealment contrast
+  summary: After two Bhikkhus go out of their minds and later recover their senses,
+    one conceals the offence and the other does not.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Concealed offence requiring confession and probation
+  taxonomy_refs: []
+  basis: The concealing Bhikkhu is compelled to confess a dukkata offence and receives
+    probation corresponding to the period of concealment; Manatta is imposed on both
+    Bhikkhus in the Sanghadisesa case.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a legal-disciplinary pattern rather than a mythic narrative motif;
+    no supplied taxonomy family is directly assigned.
+- id: motif:2
+  label: Paired offenders with divergent disclosure
+  taxonomy_refs: []
+  basis: The passage repeatedly structures cases around two Bhikkhus who committed
+    an offence together, where one conceals it and the other does not.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The pattern is procedural and casuistic, not mythological in itself.
+- id: motif:3
+  label: Time threshold for hidden transgression
+  taxonomy_refs: []
+  basis: Concealment across the first, second, and third watches of the night leads
+    to the offence being counted as concealed after the sun has arisen.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The night watches and sunrise are literal legal timing markers in this
+    passage; symbolic interpretation should be reviewed before use.
+- id: motif:4
+  label: Disrobing after unresolved offences
+  taxonomy_refs: []
+  basis: Chapter 33 states a case of a Bhikkhu guilty of multiple Sanghadisesa offences
+    who then throws off the robes; the editor’s note says the legal conclusion is
+    supplied from related chapters.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage is abbreviated, and the outcome is partly supplied by editorial
+    note rather than fully stated in the main translated text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17290-17430; chapter 33, section 1
+  quote_or_summary: A Bhikkhu is described as guilty of multiple Sanghadisesa offences
+    and as one who “then throws off the robes.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; short excerpt
+    used.
+- id: ev:2
+  type: quote
+  locator: lines 17290-17430; chapter 34, section 1, opening case
+  quote_or_summary: "“Two Bhikkhus have been guilty of a Sawghadisesa offence ...
+    One of them conceals, the other does not conceal it.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; short excerpt
+    used.
+- id: ev:3
+  type: summary
+  locator: lines 17290-17430; chapter 34, section 1, opening penalty
+  quote_or_summary: The concealer is to confess a dukkata offence, probation matching
+    the period of concealment is imposed on him, and Manatta is imposed on both Bhikkhus.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17290-17430; chapter 34, section 1, subsequent cases
+  quote_or_summary: The same paired concealment scenario is applied to cases of doubt,
+    mixed offences, and minor offences, with the text saying the penalty is the same
+    or that both should be dealt with according to law.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17290-17430; chapter 34, section 2, first timed case
+  quote_or_summary: One Bhikkhu thinks he will tell the Samgha and the other thinks
+    he will not; the latter conceals the offence through the first, second, and third
+    watches of the night, and after sunrise the offence is concealed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17290-17430; chapter 34, section 2, setting-out case
+  quote_or_summary: Two Bhikkhus set out intending to tell the Samgha, but on the
+    way one desires to conceal the offence and conceals it through the three night
+    watches; after sunrise it is concealed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 17290-17430; chapter 34, section 2, loss-and-recovery case
+  quote_or_summary: Two Bhikkhus go out of their minds; after recovering their senses,
+    one conceals the offence and the other does not, with the penalty stated as the
+    same as before.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized.
+- id: ev:8
+  type: note
+  locator: lines 17290-17430; editorial note to chapter 33
+  quote_or_summary: The note explains that chapter 33 is abbreviated and that its
+    conclusion should be supplied from chapter 28, with penalties corresponding to
+    the elapsed period of concealment and with similar pairs recurring in later chapters.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md
+  rights_note: Public-domain Project Gutenberg source supplied in request; summarized
+    editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The disciplinary facts and repeated patterns are explicit, but the material
+    is legal-casuistic rather than mythic. No external comparative claim is made from
+    the passage beyond internal editorial cross-references, so comparison_claims is
+    left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are left empty because no supplied motif family or symbol taxonomy item is directly supported by the passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-buddhist-project-gutenberg-vinaya-texts-part2-md__l17290-l17430
+  passage_sha256=7da8863ec62570ceee8816fad41c249d5bde5b524d52db944d8e4b8c9406e4b4
+

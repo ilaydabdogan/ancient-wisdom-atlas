@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md-l9190-l9273
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: THE   TRAINING    OF   YOUNG   WARRIORS / RECOUNTING   THE  TAKING  OF  THREE  SCALPS
+    / THE    WAR    BADGE / A'KIWEN'21; lines 9190-9273
+  start: '9190'
+  end: '9273'
+  translation: chippewa-music-1-densmore
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the organization of a Chippewa war expedition through
+    songs. A warrior who intends to lead a war party sends a messenger with tobacco
+    to invite warriors. The messenger gathers warriors in villages, explains the expedition,
+    prepares a pipe with tobacco and red willow inner bark, offers the pipe stem to
+    warriors, and sings the War Messenger song. Those willing to join smoke the pipe.
+  language: English with Ojibwe terms and song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that each phase of a war expedition had an appropriate
+    song, from the leader's announcement to the end of victory dances.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A warrior who wished to lead a war party sent an oc'icahe'wis, described as
+    a messenger, with tobacco to ask warriors to join the expedition.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The messenger went to each village, asked warriors to assemble, and explained
+    the purpose of the expedition.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The messenger filled a pipe with a mixture of tobacco and the inner bark of
+    the red willow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The messenger held the bowl of the pipe and offered the stem to one warrior
+    after another.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The messenger sang the War Messenger song while offering the pipe.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Warriors who were willing to join the expedition indicated this by smoking
+    the pipe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage identifies the musical item as No. 11, Song of the War Messenger,
+    sung by Odjibwe, with drum information supplied.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: warrior intending to lead a war party
+  description: A warrior who wished to lead a war party and initiated recruitment
+    by sending a messenger with tobacco.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: oc'icahe'wis messenger
+  description: The messenger sent with tobacco who visited villages, assembled warriors,
+    explained the expedition, prepared and offered the pipe, and sang.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: warriors invited to join
+  description: Warriors asked to join the expedition; those willing signified assent
+    by smoking the pipe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Odjibwe
+  description: Named performer associated with the notated Song of the War Messenger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: war-party leader-planner
+  assigned_to:
+  - fig:1
+  basis: The figure wishes to lead a war party and sends a messenger to recruit warriors.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: messenger and ritual recruiter
+  assigned_to:
+  - fig:2
+  basis: The figure carries tobacco, summons warriors, explains the expedition, offers
+    the pipe, and sings the associated song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: prospective war-party participants
+  assigned_to:
+  - fig:3
+  basis: The warriors are asked to join and may signify willingness by smoking the
+    pipe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: song performer
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Song of the War Messenger was sung by Odjibwe.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tobacco carried for recruitment
+  literal_form: tobacco
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pipe offered to warriors
+  literal_form: pipe with bowl and stem
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tobacco and red willow mixture
+  literal_form: a/pak' osigHn', described as tobacco mixed with inner bark of red
+    willow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: smoking as sign of willingness
+  literal_form: gesture/action of smoking the offered pipe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: War expedition phases marked by songs
+  summary: The passage frames the war expedition as a sequence in which each phase
+    has an appropriate song, from the leader's plan to victory dances.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Messenger summons warriors
+  summary: A would-be war-party leader sends a messenger with tobacco; the messenger
+    visits villages, calls warriors together, and explains the expedition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pipe offering and assent
+  summary: The messenger prepares a pipe mixture, offers the pipe stem to warriors
+    while singing, and warriors willing to join smoke the pipe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Song of the War Messenger notation
+  summary: The passage presents the War Messenger song as a notated musical item sung
+    by Odjibwe with drum information.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: war expedition structured by phase-specific songs
+  taxonomy_refs: []
+  basis: The passage says every phase of a war expedition had an appropriate song,
+    spanning announcement through victory dances.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic musical pattern rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: messenger recruits warriors with tobacco
+  taxonomy_refs: []
+  basis: A would-be leader sends a messenger with tobacco to ask warriors in multiple
+    villages to join the expedition.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader comparison is asserted beyond the passage.
+- id: motif:3
+  label: pipe smoking as assent to join a war party
+  taxonomy_refs: []
+  basis: The messenger offers the pipe while singing, and willingness to join is shown
+    by smoking it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes a specific ceremonial recruitment action; available
+    taxonomy IDs do not include a specific pipe or tobacco motif.
+- id: motif:4
+  label: song performed during recruitment offering
+  taxonomy_refs: []
+  basis: The messenger sings the War Messenger song while offering the pipe to one
+    warrior after another.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The song text is presented without a full translation in the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9190-9198
+  quote_or_summary: The passage introduces a Chippewa war expedition and states that
+    each phase had an appropriate song, from announcement of the leader's plan to
+    the close of victory dances.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 9202-9212
+  quote_or_summary: A warrior wishing to lead a war party sends an oc'icahe'wis messenger
+    with tobacco; the messenger goes to each village, requests assembly of warriors,
+    and explains the expedition.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 9212-9221
+  quote_or_summary: The messenger fills a pipe with tobacco mixed with inner bark
+    of red willow, holds the pipe bowl, offers the stem to warriors, sings, and willing
+    participants signify assent by smoking the pipe.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 9223-9273
+  quote_or_summary: The musical item is identified as No. 11, Song of the War Messenger,
+    sung by Odjibwe, with drum marking and drum-rhythm information.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Rights status not supplied in request; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and local to the passage; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were not applied because the supplied list does not include a specific pipe, tobacco, war-party recruitment, or war-song motif.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-great-lakes-project-gutenberg-chippewa-music-1-densmore-md__l9190-l9273
+  passage_sha256=a8d0b7516c846e8c8a5cb08794e51e408d948849cbfa361d06603eef0a39ae2a
+

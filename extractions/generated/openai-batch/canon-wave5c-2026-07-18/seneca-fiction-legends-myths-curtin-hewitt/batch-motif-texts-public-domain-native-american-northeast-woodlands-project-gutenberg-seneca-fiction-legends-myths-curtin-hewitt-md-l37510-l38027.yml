@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md-l37510-l38027
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    37510-38027
+  start: '37510'
+  end: '38027'
+  translation: seneca-fiction-legends-myths-curtin-hewitt
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: OCR-corrupted interlinear Seneca/English passage in which an ancient male
+    figure hears a dog barking and crying out, becomes afraid, and runs toward a canoe
+    near a lake. A child or great child is involved in the canoe/lake sequence. The
+    ancient one calls wild geese his servants; they arrive beside the canoe, attach
+    their bodies to it, and the canoe moves along the lake with paddling or sound
+    effects. The ancient one tells the child to turn back, but the child does not
+    listen; the child then addresses beings associated with the lake, after which
+    they rejoice. The passage ends fragmentarily.
+  language: Seneca with interlinear English glosses; OCR-corrupted
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ancient male figure hears a dog barking nearby and hears repeated dog cries
+    or sounds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ancient figure becomes afraid after the dog sounds and says his body is
+    affected or endangered, according to the damaged gloss.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ancient figure runs to a place where a canoe lies near water or a lake.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A child or great child is present in the canoe-and-lake episode.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ancient figure identifies wild geese as his servants and calls them to
+    come.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Wild geese arrive beside the canoe and attach their bodies to it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The canoe moves along the lake with repeated paddling or sound-effect syllables.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The ancient figure tells the child to turn back or return, and the child does
+    not listen.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The child speaks to beings associated with the lake or to those in the lake,
+    and the group then rejoices.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: ancient male figure
+  description: An ancient one or old male figure who hears the dog, becomes afraid,
+    runs to the canoe, summons wild geese as servants, and instructs the child to
+    turn back.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: dog or dogs
+  description: A dog is heard barking and crying out; the passage also contains a
+    damaged reference to the speaker's dog or dogs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: child or great child
+  description: A child or great child appears in the lake/canoe sequence, is told
+    to turn back, does not listen, and later speaks to beings associated with the
+    lake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: wild geese
+  description: Wild geese are called the ancient figure's servants; they arrive beside
+    the canoe, attach themselves to it, and participate in the canoe's movement along
+    the lake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: frightened traveler
+  assigned_to:
+  - fig:1
+  basis: The ancient figure becomes afraid after hearing the dog and runs to the canoe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: summoner of animal servants
+  assigned_to:
+  - fig:1
+  basis: The ancient figure calls the wild geese his servants and summons them.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: barking animal presence
+  assigned_to:
+  - fig:2
+  basis: The dog is repeatedly heard barking or crying out near the ancient figure.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: child addressed by command
+  assigned_to:
+  - fig:3
+  basis: The child is told to turn back and does not listen, then speaks in the lake
+    episode.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: animal servants attached to canoe
+  assigned_to:
+  - fig:4
+  basis: The wild geese are called servants, arrive at the canoe, and attach their
+    bodies to it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe lying near water or lake
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: lake or water
+  literal_form: lake and water beside which the canoe lies and through which it moves
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+- id: sym:3
+  label: wild geese
+  literal_form: wild geese serving as helpers at the canoe
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: barking dog
+  literal_form: dog heard barking and crying out
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dog cries and fear
+  summary: The ancient figure hears a dog barking and crying nearby; after the sounds,
+    he becomes afraid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Flight to the canoe
+  summary: The ancient figure runs to the place where a canoe lies near water or a
+    lake, with a child or great child involved in the ensuing episode.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Summoning the wild geese
+  summary: The ancient figure calls the wild geese his servants; they arrive beside
+    the canoe and attach themselves to it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Canoe movement and ignored command
+  summary: The canoe moves along the lake with repeated sounds. The ancient figure
+    tells the child to turn back, but the child does not listen and then addresses
+    beings associated with the lake, after which rejoicing is reported.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: animal servants summoned to aid a canoe journey
+  taxonomy_refs: []
+  basis: Wild geese are explicitly identified as servants, summoned by the ancient
+    figure, and made to attach themselves to the canoe before movement on the lake.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif is clear in outline, but the OCR-corrupted gloss makes the exact
+    mechanics of the geese and canoe uncertain.
+- id: motif:2
+  label: water journey by canoe
+  taxonomy_refs: []
+  basis: The passage repeatedly locates the action at a canoe, lake, and water, and
+    describes movement or paddling along the lake.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The broader narrative purpose of the journey is not fully recoverable
+    from this fragment.
+- id: motif:3
+  label: flight after ominous animal cry
+  taxonomy_refs: []
+  basis: The ancient figure hears dog cries, becomes afraid, and runs to the canoe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not make explicit whether the dog cry is a warning, pursuit
+    signal, or ordinary animal sound.
+- id: motif:4
+  label: ignored command to turn back
+  taxonomy_refs: []
+  basis: The ancient figure commands the child to turn back, but the child is described
+    as not listening.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The consequence of ignoring the command is unclear because the passage
+    is fragmentary and OCR-corrupted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37510-38027; opening dog-barking sequence
+  quote_or_summary: The text glosses repeated dog sounds, including barking nearby
+    and cries such as “Kwafi” and “Wau,” heard by the ancient one.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:2
+  type: summary
+  locator: 37510-38027; after repeated dog cries
+  quote_or_summary: After the dog sounds, the ancient one is glossed as becoming afraid
+    and speaking about his own body and dog or dogs in a damaged sentence.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:3
+  type: summary
+  locator: 37510-38027; canoe near water/lake sequence
+  quote_or_summary: The ancient figure runs to where a canoe lies; the passage places
+    the canoe by water or at the lakeside.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:4
+  type: summary
+  locator: 37510-38027; child/great child references
+  quote_or_summary: The interlinear gloss repeatedly identifies a “child-great” or
+    great child during the canoe and lake episode.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:5
+  type: summary
+  locator: 37510-38027; summoning wild geese
+  quote_or_summary: The speaker calls “my servants,” identified in the gloss as “the
+    wild geese,” and summons them to come.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:6
+  type: summary
+  locator: 37510-38027; wild geese at canoe
+  quote_or_summary: The wild geese arrive beside the canoe and are glossed as attaching
+    their own bodies.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:7
+  type: summary
+  locator: 37510-38027; canoe movement on lake
+  quote_or_summary: The canoe is described as going or moving in the lake, with repeated
+    paddling or sound-effect syllables such as “su.”
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:8
+  type: summary
+  locator: 37510-38027; command to the child
+  quote_or_summary: The ancient one speaks to the child and tells him to turn back;
+    the child is then glossed as not listening.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+- id: ev:9
+  type: summary
+  locator: 37510-38027; child's lake speech and rejoicing
+  quote_or_summary: The child speaks to a plural audience associated with the lake
+    or living in the lake, after which the group is described as rejoicing and having
+    joy.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Source metadata in request does not specify rights status; source path
+    indicates a Project Gutenberg public-domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by heavy OCR corruption and interlinear formatting.
+    Core elements—dog sounds, ancient figure, child, canoe, lake, wild geese servants,
+    and command to turn back—are visible in the supplied passage, but narrative sequence
+    and exact roles require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another tradition or named motif family. Available taxonomy symbol ref “water” was used for the lake/water symbol only.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-northeast-woodlands-project-gutenberg-seneca-fiction-legends-myths-curtin-hewitt-md__l37510-l38027
+  passage_sha256=e2691022cbb4962b5e09c2e9bb52aa9af46aee1028fd313bfdc8d9fa1ee7adf3
+

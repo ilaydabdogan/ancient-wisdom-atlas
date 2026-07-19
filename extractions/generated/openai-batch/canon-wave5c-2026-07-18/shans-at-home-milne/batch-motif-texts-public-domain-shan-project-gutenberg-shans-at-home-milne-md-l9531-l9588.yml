@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l9531-l9588
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: SPECIMEN OF SHAN WRITING. / THE FISHERMAN AND HIS WIFE / THE HARE AND THE
+    SNAIL / THE MONKEY AND THE CROCODILE; lines 9531-9588
+  start: '9531'
+  end: '9588'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A crocodile's wife wants to eat a monkey's heart as a cure. The crocodile
+    repeatedly lures a monkey with promises of fruit across the river, then reveals
+    midstream that he intends to drown him. The monkey claims he left his heart in
+    a tree and offers to fetch two hearts. The crocodile returns him to shore, where
+    the monkey gives two figs that the crocodile's wife eats, believing them to be
+    monkey hearts, and she is cured.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crocodile lives with his wife in a great river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crocodile's wife says she wants to eat the heart of a monkey and that
+    she will die without it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many trees grow by the riverbank, and many monkeys live in the trees.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crocodile tells a monkey that the other side of the river has bananas,
+    mangoes, and other fruit, and offers to carry him across on his back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After hearing the same story repeatedly, the monkey gets onto the crocodile's
+    back and they begin crossing the river.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Halfway across the river, the crocodile begins to sink and tells the monkey
+    he lied and intends to drown him.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The monkey says monkeys do not usually carry their hearts, claiming their
+    hearts are kept on branches or in holes in trees.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The crocodile returns the monkey to shore; the monkey gives two figs; the
+    crocodile's wife eats them, believes they are monkey hearts, and is cured.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: crocodile
+  description: A crocodile living in a great river with his wife; he approaches a
+    monkey, offers transport across the river, reveals a plan to drown him, and returns
+    him to shore.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: crocodile's wife
+  description: The crocodile's wife says she wants to eat a monkey's heart as a cure;
+    later she eats two figs believing them to be monkey hearts and is cured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: monkey
+  description: A monkey in the trees by the river; he accepts the crocodile's transport,
+    is threatened midstream, claims his heart is left in a tree, and gives the crocodile
+    two figs after returning to shore.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: deceptive transporter
+  assigned_to:
+  - fig:1
+  basis: The crocodile offers to carry the monkey across the river, then admits he
+    lied and intends to drown him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: provider for wife's demand
+  assigned_to:
+  - fig:1
+  basis: The crocodile seeks a monkey heart because his wife says she wants one to
+    eat.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: ailing requester of monkey heart
+  assigned_to:
+  - fig:2
+  basis: The wife claims illness and requests a monkey's heart to eat; she later eats
+    the figs and is cured.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: intended victim
+  assigned_to:
+  - fig:3
+  basis: The crocodile says he intends to drown the monkey to obtain a monkey heart
+    for his wife.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: counter-deceiver and escapee
+  assigned_to:
+  - fig:3
+  basis: The monkey claims his heart is not with him, persuades the crocodile to return
+    him to shore, and substitutes figs for hearts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: river crossing
+  literal_form: great river and crossing over the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: trees as monkey habitat and claimed heart-storage place
+  literal_form: trees, branches, and holes in trees
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: monkey heart as desired curative food
+  literal_form: heart of a monkey
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fruit as lure and substitute
+  literal_form: bananas, mangoes, other fruit, and two figs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Demand for a monkey heart
+  summary: The crocodile's wife, living with him in a great river, says she wants
+    a monkey's heart to eat and will die without it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Riverbank lure
+  summary: At the riverbank, where trees and monkeys are present, the crocodile promises
+    fruit on the opposite bank and offers to carry the monkey across.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Midriver threat revealed
+  summary: While carrying the monkey across the river, the crocodile sinks and explains
+    that he lied and plans to drown him for his wife's requested cure.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return to shore and fig substitution
+  summary: The monkey claims his heart is left in a tree, persuades the crocodile
+    to return him to shore, and gives two figs that the wife eats as supposed monkey
+    hearts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ailing spouse demands a monkey heart as food or cure
+  taxonomy_refs: []
+  basis: The crocodile's wife says she wants a monkey heart to eat or she will die,
+    and the crocodile later explains this as the reason for trying to drown the monkey.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: No external tale-type identification is made from the passage alone.
+- id: motif:2
+  label: Predatory river transport as a trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crocodile offers the monkey passage across the river on his back, then
+    reveals midstream that the offer was a lie meant to enable drowning him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link is based on the deception at a crossing boundary; the
+    passage does not use the term trickster.
+- id: motif:3
+  label: Clever prey escapes by claiming the vital organ is elsewhere
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The monkey says he does not carry his heart, claims it is stored in a tree,
+    and thereby induces the crocodile to return him to shore.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The wisdom taxonomy reference is broad and should be reviewed.
+- id: motif:4
+  label: False substitute accepted as the desired body part
+  taxonomy_refs: []
+  basis: The monkey supplies two figs, and the crocodile's wife eats them believing
+    them to be monkey hearts.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level motif description, not a standardized external
+    motif number.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9531-9588, opening paragraph
+  quote_or_summary: A crocodile lives with his wife in a great river; the wife says
+    she wants to eat a monkey's heart or she will die.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:2
+  type: summary
+  locator: 9531-9588, riverbank description
+  quote_or_summary: Many trees stand by the riverbank; many monkeys live in them;
+    one monkey moves among branches overhanging the water.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:3
+  type: summary
+  locator: 9531-9588, crocodile's invitation
+  quote_or_summary: The crocodile tells the monkey that the opposite bank has bananas,
+    mangoes, and other fruit, and offers to take him across on his back.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:4
+  type: summary
+  locator: 9531-9588, crossing begins
+  quote_or_summary: After repeated persuasion, the monkey gets onto the crocodile's
+    back; halfway across, the crocodile begins to sink.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:5
+  type: summary
+  locator: 9531-9588, midriver revelation
+  quote_or_summary: The crocodile tells the monkey that he lied and intends to drown
+    him because his wife believes eating a monkey heart will make her well.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:6
+  type: summary
+  locator: 9531-9588, monkey's reply
+  quote_or_summary: The monkey claims monkeys rarely carry their heavy hearts, saying
+    they hang them on branches or put them in tree holes, and offers to bring two
+    hearts if set ashore.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+- id: ev:7
+  type: summary
+  locator: 9531-9588, ending
+  quote_or_summary: The crocodile returns the monkey to shore; the monkey brings two
+    figs; the wife eats them, thinks they are monkey hearts, and is cured.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized rather
+    than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are clear in the supplied passage. Taxonomy
+    links are broad and require human review. No separate comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote material in the passage was not used for comparative claims beyond identifying the tale as included in the supplied source passage.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l9531-l9588
+  passage_sha256=83427731bfec7a5486c38c4e0133b5ba1812e13730f12d401d2c0ea783fc75aa
+

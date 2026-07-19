@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md-l8751-l8786
+source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+passage_locator:
+  label: DESIGN FROM COVERLET FOR BED. / DESIGN OF PART OF A BED COVER. / KACHIN MARRIED
+    WOMAN. / KACHIN BAG.; lines 8751-8786
+  start: '8751'
+  end: '8786'
+  translation: shans-at-home-milne
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports several Shan explanations for the rainbow, an earth-supporting
+    giant whose movements cause earthquakes, and a thunder-and-lightning explanation
+    involving gods playing ball on horseback. It also notes variation among Shan stories
+    and offers a speculative connection between the thunder explanation and polo or
+    foreign transmission from Tibet or Manipur.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says different Shans tell different stories about the rainbow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One explanation says the rainbow is caused by celestial water dropping to
+    earth when gods feast above Mount Meru and empty their drinking-cups.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another explanation says the rainbow is a great snake or crocodile that comes
+    down to earth to drink; a second fainter rainbow is described as the dragon's
+    wife accompanying him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Another explanation says the rainbow is the halo around the head of the king
+    of the spirits when he comes from Mount Meru to visit earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Some Shans believe the world rests on the body of an enormous giant, whose
+    sleeping movements cause earth tremors and whose rising and shaking causes a great
+    earthquake.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The narrator states that Shan stories vary considerably, even within the same
+    village, and that legends on the same subject may differ completely.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the reported thunder explanation, gods on horseback play ball; galloping
+    horses over the clouds make thunder, and lightning flashes from their hoofs when
+    they strike stars.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator speculates that the thunder-and-ball-game idea may be modern
+    and influenced by polo, or may have been handed down from Tibet or Manipur.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gods
+  description: Celestial beings who feast above Mount Meru, empty drinking-cups, and
+    elsewhere ride horses while playing ball across the clouds.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: great snake or crocodile / dragon
+  description: A being identified in one rainbow explanation as a great snake or crocodile
+    that comes down to earth to drink; the following sentence refers to the figure
+    as a dragon with a wife.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dragon's wife
+  description: A companion figure identified with a second and fainter rainbow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: king of the spirits
+  description: A spirit ruler whose halo is given as one explanation for the rainbow
+    when he comes from Mount Meru to visit earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: enormous giant
+  description: A giant whose body supports the world and whose movements cause tremors
+    or earthquakes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: horses of the gods
+  description: Horses ridden by the gods; their galloping and hoof-strikes are said
+    to cause thunder and lightning.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: celestial cup-emptyers
+  assigned_to:
+  - fig:1
+  basis: Their emptied drinking-cups release celestial water that drops to earth and
+    causes the rainbow.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rainbow-drinking descent being
+  assigned_to:
+  - fig:2
+  basis: The rainbow is described as a great snake or crocodile that descends to earth
+    to drink.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: secondary rainbow companion
+  assigned_to:
+  - fig:3
+  basis: The second, fainter rainbow is described as the dragon's wife accompanying
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: spirit king visitor
+  assigned_to:
+  - fig:4
+  basis: The king of the spirits comes from Mount Meru to visit earth, and the rainbow
+    is his halo.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: earth-supporting sleeper
+  assigned_to:
+  - fig:5
+  basis: The world rests on his body, and his sleep movements or rising are linked
+    to earthquakes.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine mounted ball players
+  assigned_to:
+  - fig:1
+  basis: The gods are said to ride horses and play ball across the clouds, causing
+    thunder.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hoof-striking thunder and lightning agents
+  assigned_to:
+  - fig:6
+  basis: The horses' trampling is identified with thunder, and lightning flashes from
+    their hoofs striking stars.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rainbow
+  literal_form: Rainbow, including a second and fainter rainbow
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: celestial water
+  literal_form: Water dropping to earth from gods' drinking-cups
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mount Meru
+  literal_form: Mount Meru as the place above which gods feast and from which the
+    king of the spirits visits earth
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rainbow snake/crocodile/dragon
+  literal_form: A great snake or crocodile identified with the rainbow, with a dragon's
+    wife identified with the second rainbow
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: giant body supporting the world
+  literal_form: The body of an enormous giant upon which the world rests
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: cloud ball game
+  literal_form: Gods on horseback following a ball across the clouds
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: stars struck by hoofs
+  literal_form: Stars struck by horses' hoofs, producing lightning flashes
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Alternative rainbow explanations
+  summary: 'Several Shan explanations are given for the rainbow: celestial water from
+    gods'' cups, a descending drinking snake or crocodile with a second-rainbow wife,
+    and the halo of the spirit king visiting earth from Mount Meru.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Giant beneath the world
+  summary: The world rests on an enormous giant, whose turning in sleep causes tremors
+    and whose rising and shaking causes a great earthquake.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thunder and lightning from divine mounted play
+  summary: Thunder is explained as the trampling of gods' galloping horses while the
+    gods play ball across the clouds; lightning comes from hoofs striking stars.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Multiple etiologies for the same natural phenomenon
+  taxonomy_refs: []
+  basis: The passage presents several different Shan stories explaining the rainbow
+    and states that Shan legends on the same subject can differ completely.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive pattern in the passage rather than a named taxonomy
+    motif.
+- id: motif:2
+  label: Rainbow caused by divine celestial liquid
+  taxonomy_refs: []
+  basis: One explanation says gods feasting above Mount Meru empty their cups, causing
+    celestial water to fall to earth as the rainbow.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not elaborate the ritual or theological meaning of the
+    celestial water.
+- id: motif:3
+  label: Rainbow as descending drinking serpent or dragon
+  taxonomy_refs:
+  - serpent
+  basis: One explanation identifies the rainbow as a great snake or crocodile coming
+    down to drink, and identifies a second rainbow as the dragon's wife.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage alternates between snake, crocodile, and dragon language;
+    the serpent taxonomy is supported chiefly by the explicit snake/dragon wording.
+- id: motif:4
+  label: Rainbow as spirit ruler's halo
+  taxonomy_refs: []
+  basis: One explanation describes the rainbow as the halo around the head of the
+    king of the spirits when he visits earth from Mount Meru.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the brief etiological statement.
+- id: motif:5
+  label: Earth-supporting giant whose movements cause earthquakes
+  taxonomy_refs: []
+  basis: The world is said to rest on an enormous giant, and his movements produce
+    tremors and great earthquakes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific name or wider myth cycle for the giant is supplied in the
+    passage.
+- id: motif:6
+  label: Thunder and lightning as divine mounted ball game
+  taxonomy_refs: []
+  basis: Thunder is caused by gods playing ball on horseback across the clouds, and
+    lightning by their horses' hoofs striking stars.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The narrator explicitly questions the age and origin of this idea.
+- id: motif:7
+  label: Mount Meru as celestial or spirit mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Mount Meru is linked with the gods' heavenly feasting and with the king of
+    the spirits' departure point for visiting earth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses Mount Meru as a heavenly location but does not explain
+    its full cosmological function.
+comparison_claims:
+- id: claim:1
+  claim: The narrator tentatively connects the thunder-and-ball-game explanation with
+    polo imagery and suggests possible transmission from Tibet or Manipur.
+  claim_level: historical_contact
+  target: polo practices and possible Tibet or Manipur transmission
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is presented as speculation in the passage; no external corroborating
+    evidence is included in the supplied excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8751-8760
+  quote_or_summary: 'Several rainbow explanations are reported: celestial water from
+    gods'' cups above Mount Meru; a great snake or crocodile descending to drink with
+    a second-rainbow wife; and the halo of the king of the spirits visiting from Mount
+    Meru.'
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:2
+  type: summary
+  locator: 8761-8767
+  quote_or_summary: Some Shans say the world rests on an enormous giant; his turning
+    in sleep causes tremors, and his rising and shaking causes a great earthquake.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:3
+  type: summary
+  locator: 8768-8773
+  quote_or_summary: The narrator says Shan stories vary considerably, even in one
+    village, and introduces a thunder explanation different from the usual myth.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:4
+  type: summary
+  locator: 8774-8780
+  quote_or_summary: Thunder is explained as the trampling of gods' galloping horses
+    while they play ball across the clouds; lightning flashes from hoofs striking
+    stars.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+- id: ev:5
+  type: summary
+  locator: 8780-8786
+  quote_or_summary: The narrator speculates that the thunder explanation may be modern
+    from observing polo, while also noting polo's antiquity in the East and possible
+    transmission from Tibet or Manipur.
+  source_text_path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+  rights_note: Rights status not supplied in metadata; evidence summarized from the
+    provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions; only available taxonomy refs directly supported by
+    passage wording were used. The comparison claim is low-confidence because the
+    passage itself frames it as speculation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; extraction is limited to the supplied line range and metadata.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-shan-project-gutenberg-shans-at-home-milne-md__l8751-l8786
+  passage_sha256=fc8c48d3d227e77ad81565f3862f96583235d1e1d82ccd94786b06c2263f3932
+

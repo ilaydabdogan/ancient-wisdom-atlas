@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md-l12689-l12721
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+passage_locator:
+  label: OLD HUNTER, WEST GREENLAND / WHEN RAVENS COULD TALK / THE RAVEN AND THE GREAT
+    NORTHERN DIVER / THE RAVEN AND THE GOOSE; lines 12689-12721
+  start: '12689'
+  end: '12721'
+  translation: people-of-polar-north-rasmussen
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A raven wants to marry a goose. The goose initially refuses because she
+    says he is too heavy a flyer to follow the geese across the sea without rest and
+    may drown. The raven repeatedly boasts that nothing can tire him. The goose becomes
+    his wife, warns of grief if he is lost during the sea passage, and later urges
+    him to rest before the geese depart. He refuses, flies about more, and joins the
+    geese when they set out to cross the great sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A raven falls in love with a goose and wants her as his wife; the goose does
+    not initially consent.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goose says the raven is too heavy a flyer to follow the geese across the
+    sea and warns that he may drown if he grows tired.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The raven says that nothing in the world can tire him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goose yields and becomes the raven's wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The goose says she may grow too fond of the raven and that her grief would
+    be heavy if she lost him during the passage across the great sea.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Before the geese leave, the goose asks the raven to rest for a few days so
+    he will be fresh for the start.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The raven says inactivity is what tires him and flies about more instead of
+    resting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The geese set out with the raven, reach the end of the land, and are about
+    to cross the great sea.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: raven
+  description: A male raven who loves the goose, becomes her husband, boasts that
+    he cannot be tired, refuses to rest, and joins the departing geese.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: goose
+  description: A female goose who initially refuses the raven, warns him about the
+    sea crossing, becomes his wife, and urges him to rest before departure.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: geese
+  description: The migrating group that prepares to fly away, sets out, and reaches
+    the end of the land before crossing the great sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: suitor and husband
+  assigned_to:
+  - fig:1
+  basis: The raven wants the goose for his wife and she later becomes his wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: reluctant spouse
+  assigned_to:
+  - fig:2
+  basis: The goose initially does not consent but later yields and becomes the raven's
+    wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: warning spouse
+  assigned_to:
+  - fig:2
+  basis: The goose warns the raven that he may drown during the sea crossing and later
+    urges him to rest.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: boastful traveler
+  assigned_to:
+  - fig:1
+  basis: The raven repeatedly claims he cannot be tired and refuses preparatory rest
+    before the journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: migrating flock
+  assigned_to:
+  - fig:3
+  basis: The geese fly away and prepare to cross the great sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: great sea
+  literal_form: the great sea crossed by the geese
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: end of the land
+  literal_form: the very end of the land before the sea crossing
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: flight
+  literal_form: migration flight across the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Courtship and refusal
+  summary: The raven falls in love with the goose and wants her as his wife, but she
+    refuses because she says he cannot safely follow the geese across the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Marriage and repeated warning
+  summary: The raven boasts that nothing can tire him; the goose becomes his wife
+    and warns that she would grieve if she loses him during the great sea passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparation for departure
+  summary: As the geese prepare to fly away, the goose asks the raven to rest, but
+    he refuses and flies about more.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Arrival at the sea crossing
+  summary: The geese set out with the raven and reach the end of the land where they
+    are about to cross the great sea.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Interspecies bird marriage
+  taxonomy_refs: []
+  basis: A raven seeks and obtains a goose as his wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the marriage plainly; no divine or sacred-marriage
+    status is indicated.
+- id: motif:2
+  label: Warning ignored before a dangerous journey
+  taxonomy_refs: []
+  basis: The goose warns the raven about exhaustion and drowning during the sea crossing
+    and urges him to rest, but he answers boastfully and does not rest.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The excerpt ends before the result of the warning is narrated.
+- id: motif:3
+  label: Departure across a dangerous sea
+  taxonomy_refs:
+  - departure
+  basis: The geese set out with the raven and are about to cross the great sea, which
+    the goose has described as lacking resting places and dangerous for a tired flyer.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: Only the beginning of the crossing appears in the supplied passage.
+- id: motif:4
+  label: Boast of inexhaustible strength
+  taxonomy_refs: []
+  basis: The raven repeatedly states that nothing can tire him and rejects rest before
+    the migration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied passage has not yet shown whether the boast is disproved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12689-12698
+  quote_or_summary: The title identifies the tale as 'The Raven and the Goose.' A
+    raven loves a goose and wants her as his wife; she refuses, saying he is too heavy
+    a flyer to follow the geese across the sea and could drown if tired.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 12699-12710
+  quote_or_summary: The raven boasts that nothing can tire him. The goose yields and
+    becomes his wife, but warns that she may suffer heavy grief if she loses him during
+    the passage across the great sea; he again says nothing can tire him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 12711-12717
+  quote_or_summary: When the time for the geese to fly away nears, the goose asks
+    the raven to rest for a few days; he says inactivity tires him and flies about
+    more.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 12718-12721
+  quote_or_summary: The geese set out with the raven, come to the end of the land,
+    and are about to cross the great sea.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+  rights_note: Rights status not supplied in source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied excerpt. Motif labels
+    are provisional because the line range stops just before the sea-crossing episode
+    continues. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No source tradition, culture, or rights metadata was supplied beyond the source path and passage text.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-arctic-inuit-project-gutenberg-people-of-polar-north-rasmussen-md__l12689-l12721
+  passage_sha256=631be50f9bb7a543c15cd89bbd01a8ba6f965b040ea99eaa8d7649ec29c456e2
+

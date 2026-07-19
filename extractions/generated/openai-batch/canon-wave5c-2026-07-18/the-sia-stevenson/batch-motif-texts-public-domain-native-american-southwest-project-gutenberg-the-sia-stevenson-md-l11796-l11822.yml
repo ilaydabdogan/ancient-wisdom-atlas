@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md-l11796-l11822
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD AIITICLES. / TUHMR.) HOUSEHOLD AETKLES. 231 / TUKHEB.1 THE KAIAK.
+    239 / ON LAND.; lines 11796-11822
+  start: '11796'
+  end: '11822'
+  translation: the-sia-stevenson
+  notes: Generated from OpenAI Batch run canon-wave5c-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Hudson Bay Eskimo sled dogs, their fear of the whip,
+    their fighting and variable dispositions, sled loads and travel rates under different
+    road and snow conditions, and the driver's role in maintaining order among the
+    team.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eskimo dogs are described as fearing the whiplash more than anything else
+    in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dogs may attack one another fiercely, with several dogs engaged in battles
+    at once.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A whip swish or a stick thrown through the air is described as enough to make
+    the dogs slink away and whine in fear of an expected lash.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A sled load may be as much as 1,200 pounds, and the road condition is said
+    to determine the load, number of dogs, and travel rate.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage gives travel examples ranging from 94 miles in eighteen hours
+    with three men, an empty sled, and seven dogs, to only 3 or 4 miles in ten hours
+    through rough ice or deep new snow.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dogs' dispositions and conditions vary; some are energetic and well behaved,
+    while others are stubborn or lazy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Strange dogs introduced into a team may be attacked by the others, producing
+    an entanglement of traces, dogs, and snow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The driver's skill is shown by keeping dogs in order, promptly separating
+    quarrelling dogs, and maintaining the dogs in proper position to prevent fighting.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Eskimo sled dogs
+  description: Dogs used in sled teams; described as fearful of the whip, prone to
+    fighting, variable in disposition, and affected by road and snow conditions during
+    travel.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Driver
+  description: The person responsible for keeping the dog team in order, separating
+    dogs when quarrelling, and maintaining proper position in the team.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Three men in travel example
+  description: Three men are mentioned in an example of travel with an empty sled
+    and seven dogs over 94 miles in eighteen hours.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Draft animals
+  assigned_to:
+  - fig:1
+  basis: The dogs are attached to sleds and their number affects load and travel rate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Quarrelling team members
+  assigned_to:
+  - fig:1
+  basis: The passage describes dogs attacking one another and quarrelling within the
+    team.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Team handler and disciplinarian
+  assigned_to:
+  - fig:2
+  basis: The driver is judged by the ability to keep dogs in order, separate quarrels,
+    and prevent fighting by positioning the dogs properly.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Travelers in reported example
+  assigned_to:
+  - fig:3
+  basis: The passage reports an instance of three men traveling with an empty sled
+    and seven dogs.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Whiplash or whip
+  literal_form: Whiplash; swish of a whip; expected lash
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Thrown stick
+  literal_form: A stick thrown hurtling through the air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sled
+  literal_form: Sled carrying a load; empty sled in travel example
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Road, ice, and snow conditions
+  literal_form: Smooth surface, rough ice, and deep newly fallen snow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Long traces and lines
+  literal_form: Long traces and entangled lines connecting the dog team
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dogs retreat at sign of the lash
+  summary: Dogs fighting among themselves are described as becoming terrified and
+    slinking away when they hear a whip or encounter a thrown stick associated with
+    an expected lash.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sled travel varies with road conditions
+  summary: The passage describes sled loads, dog numbers, and rates of travel as dependent
+    on road conditions, with examples of fast travel and slow travel through rough
+    ice or new snow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Driver manages quarrelling dog team
+  summary: A strange dog may be attacked by the team and cause entanglement, while
+    the driver is expected to keep dogs in order, separate quarrels, and position
+    dogs to prevent fighting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11796-11800
+  quote_or_summary: Eskimo dogs are described as fearing the whiplash; although they
+    may fight fiercely with one another, the sound of a whip or a thrown stick makes
+    them withdraw and whine in fear of the lash.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence recorded as concise
+    summary.
+- id: ev:2
+  type: summary
+  locator: 11801-11810
+  quote_or_summary: Sled loads may reach 1,200 pounds; road conditions determine load,
+    dog number, and rate of travel, with examples of rapid travel over easier ground
+    and very slow travel through rough ice or deep new snow.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence recorded as concise
+    summary.
+- id: ev:3
+  type: summary
+  locator: 11811-11821
+  quote_or_summary: Dog disposition and condition determine team size; strange dogs
+    may be attacked and entangled in traces, and a good driver keeps dogs in order,
+    separates quarrels, and prevents fighting by proper positioning.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Rights status not supplied in metadata; evidence recorded as concise
+    summary.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is descriptive and ethnographic rather than mythic; no supplied
+    motif-family taxonomy reference is directly supported. Minor OCR irregularities
+    in the passage reduce extraction certainty for some numerical wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support a cautious comparison to another motif family, pattern, text, or tradition.
+  batch_run_id=canon-wave5c-2026-07-18
+  custom_id=motif_extract:texts-public-domain-native-american-southwest-project-gutenberg-the-sia-stevenson-md__l11796-l11822
+  passage_sha256=fb0741b868148b4f07c14d194cbe743aea24aa04390c6730d5931fe0baab74ac
+
