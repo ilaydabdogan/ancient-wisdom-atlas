@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_pawneemythologyp01dors
+  work_id: native_american.pawnee_mythology.dorsey_archive
+  title: The Pawnee - Mythology (Part I)
+  source_url: https://archive.org/details/pawneemythologyp01dors
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/pawneemythologyp01dors-pawnee-mythology-dorsey.txt
+    checksum:
+      algorithm: sha256
+      value: a2cc88356f1ab368fee677c9834d7974c2f55a4253787a60f25b00a57c9e20a8
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/pawneemythologyp01dors-pawnee-mythology-dorsey.md
+    checksum:
+      algorithm: sha256
+      value: 765344cf438bbd289ce72619247e6053a77c1698357a51245d5a034e698f8327
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+    checksum:
+      algorithm: sha256
+      value: f692771935608ee1de755b072858f5e7825670175cc3ed4886ef20a1debd2535
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.pawnee_mythology.dorsey_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1906, US public domain. Verbatim-close - English translations
+      dictated by named Skidi and South Band Pawnee narrators. Distinct from the already-queued
+      Skidi Pawnee (Dorsey) collection; this is the larger star-lore and creation
+      corpus. Colonial salvage context; star/creation cosmology is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

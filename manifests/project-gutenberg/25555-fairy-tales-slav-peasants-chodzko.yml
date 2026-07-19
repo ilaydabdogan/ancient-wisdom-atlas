@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_25555
+  work_id: slavic.fairy_tales_slav_peasants.chodzko_gutenberg
+  title: Fairy Tales of the Slav Peasants and Herdsmen
+  source_url: https://www.gutenberg.org/ebooks/25555
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/25555-fairy-tales-slav-peasants-chodzko.txt
+    checksum:
+      algorithm: sha256
+      value: d4b886aa048771b41d23a1441ac1e15e421b0da82fd68b56559fa9421a331226
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/25555-fairy-tales-slav-peasants-chodzko.md
+    checksum:
+      algorithm: sha256
+      value: 743017acfb5c757282cb8d8e6a541950ba756f2f4853205a47b6e6daa9c43ac2
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+    checksum:
+      algorithm: sha256
+      value: e48beb3ab14763f3f41244cb6a02ed0f6fded73017362b36749ac4cba1f961e8
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids slavic.fairy_tales_slav_peasants.chodzko_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; collected
+      by Alexander Chodzko, translated by Emily J. Harding.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

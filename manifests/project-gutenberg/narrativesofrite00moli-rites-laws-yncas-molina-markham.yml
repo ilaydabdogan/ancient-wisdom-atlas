@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_narrativesofrite00moli
+  work_id: inca.rites_laws_yncas.molina_markham_archive
+  title: Narratives of the Rites and Laws of the Yncas
+  source_url: https://archive.org/details/narrativesofrite00moli
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/narrativesofrite00moli-rites-laws-yncas-molina-markham.txt
+    checksum:
+      algorithm: sha256
+      value: 66b1b2e14aeff0589523ed8176b8fd50d8b47e55471f661d63001cd2c68b04ce
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/narrativesofrite00moli-rites-laws-yncas-molina-markham.md
+    checksum:
+      algorithm: sha256
+      value: b274c9b57f69f661074ba0af6e127e20ce6668f86fadd837e5e4d686253dbdf9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+    checksum:
+      algorithm: sha256
+      value: 5e9d977a45e4225c3670a19c1f2ebdfa92ba0bd8bb813f7691eb1735f3de355b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids inca.rites_laws_yncas.molina_markham_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1873, US public domain. COLONIAL missionary source - Cristobal
+      de Molina's Fables and Rites (with Salcamayhua's account) records Inca creation
+      myth, the Situa purification festival, and verbatim Quechua prayers, but filtered
+      through an evangelizing priest hostile to the religion; flag as colonial-mediated,
+      medium ladder. Preserves rare verbatim Quechua invocations.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

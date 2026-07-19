@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_blackfootlodgeta00grin
+  work_id: native_american.blackfoot_lodge_tales.grinnell_archive
+  title: Blackfoot Lodge Tales
+  source_url: https://archive.org/details/blackfootlodgeta00grin
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/blackfootlodgeta00grin-blackfoot-lodge-tales-grinnell.txt
+    checksum:
+      algorithm: sha256
+      value: a7f73374954ddd2198e3b17d478c4bad2284684eae52ab0cc77703b35a43ab0a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/blackfootlodgeta00grin-blackfoot-lodge-tales-grinnell.md
+    checksum:
+      algorithm: sha256
+      value: 10eda75de96956c9c0b235f23246eef400c91d77c6297ac4cad0685415d8b502
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+    checksum:
+      algorithm: sha256
+      value: efcddb706a3c66c8e95607bdf9b2c5844369895f83c2f4c216ecead5a083bba9
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.blackfoot_lodge_tales.grinnell_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1892, US public domain. PARAPHRASE/literary retelling - Grinnell
+      reworked informant narratives into polished English prose, so flag as non-verbatim;
+      pair with the verbatim Wissler & Duvall Blackfoot texts also in this batch for
+      a paraphrase-vs-verbatim control. Old Man (Napi) creation and trickster cycle;
+      ceremonial material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_sacredbooksofchi00laozuoft
+  work_id: chinese.texts_of_taoism.legge_sbe40_archive
+  title: 'The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of
+    the East, Vol. 40)'
+  source_url: https://archive.org/details/sacredbooksofchi00laozuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/sacredbooksofchi00laozuoft-texts-of-taoism-part2-legge-sbe40.txt
+    checksum:
+      algorithm: sha256
+      value: 41a7c1bb5c7a9e7ee82996bb5b7ef1524306ba8de5a8dead98ae3e4348f2f70e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/sacredbooksofchi00laozuoft-texts-of-taoism-part2-legge-sbe40.md
+    checksum:
+      algorithm: sha256
+      value: fbd100c6c0e7392a40d67df9a0e5de2a53742289109b6f0a3f0f75e04c3ddb4e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+    checksum:
+      algorithm: sha256
+      value: 50400042c42cd435851d5f80fabc322ebc89c77a19d226098ca7b942f6906fad
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.texts_of_taoism.legge_sbe40_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Completes the SBE Texts of Taoism pair.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

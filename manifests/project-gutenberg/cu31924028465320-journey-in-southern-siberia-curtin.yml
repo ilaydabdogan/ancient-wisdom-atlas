@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_cu31924028465320
+  work_id: siberian_mongol.journey_in_southern_siberia.curtin_archive
+  title: A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths
+  source_url: https://archive.org/details/cu31924028465320
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/cu31924028465320-journey-in-southern-siberia-curtin.txt
+    checksum:
+      algorithm: sha256
+      value: 94a1f9edb9c16152810cc0dabb09b6e1ce20ca9c7ada65c9602a1730df68fcfe
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924028465320-journey-in-southern-siberia-curtin.md
+    checksum:
+      algorithm: sha256
+      value: cbef346c8fb3c0c8777ad239b6565784c6d2f52e312ac3164fe2f28aaf40be3f
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+    checksum:
+      algorithm: sha256
+      value: bdf9394d7d4ce2ab70b8cb8b865450c0487a6031c0e1f7663bc8faab842a235a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids siberian_mongol.journey_in_southern_siberia.curtin_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1909, US public domain. Recording context - Curtin collected
+      Buryat myths near Lake Baikal in 1900 through interpreters; the volume mixes
+      travelogue with recorded narratives, and Buryat shamanic religion is a living
+      tradition. Extract the myth and epic chapters (including the Gesir cycle) and
+      skip the travel narrative.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

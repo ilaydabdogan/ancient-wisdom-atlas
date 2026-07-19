@@ -152,7 +152,7 @@ ft
 ft
 r^
 
-<s
+(s
 
 «
 
@@ -199,7 +199,7 @@ S
 ft
 ft
 
->-
+)-
 
 »»
 
@@ -209,15 +209,15 @@ H
 
 «
 
-<S
+(S
 
 ?s
 
 ■S
 
-<s
+(s
 
-*<
+*(
 
 ^o
 a
@@ -269,7 +269,7 @@ s
 
 a
 
->c>
+)c)
 
 «
 
@@ -324,7 +324,6 @@ o
 
 i
 
-2>
 
 §
 
@@ -345,7 +344,7 @@ ft
 
 -
 
->*-,
+)*-,
 
 -
 
@@ -371,14 +370,14 @@ S
 
 -ft:
 
-<;
+(;
 o
 
 K
 
 H
 
-<5j
+(5j
 
 ?.
 
@@ -387,13 +386,13 @@ H
 g
 
 
-<ii
+(ii
 
 "sr
 ft
 ft
 
->r<
+)r(
 
 ^
 
@@ -464,11 +463,11 @@ w
 
 ^^
 
-\<a
+\(a
 l-tt
 ft
 
-^<to
+^(to
 t^
 
 ■"^
@@ -495,7 +494,7 @@ s
 
 ^
 
-<^
+(^
 
 ^
 
@@ -530,7 +529,7 @@ fti
 
 ^
 
-<
+(
 
 (^
 
@@ -542,10 +541,10 @@ Q:;
 
 »-^
 
->o
+)o
 o
 
-<u
+(u
 
 ;
 
@@ -921,15 +920,11 @@ we are going to ? "
 On they went, on they went, on they went, till baby himself took
 up the song :
 
-" Silence Katubi!
-
-" Silence Katubi!
 
 " My brother has become my mother!
 
 " My brother has become my mother!
 
-" Silence Katubi! "
 
 The father said : " Now what sort of language is that, thou little
 child of a tendon ? ^ I am coming to kill thee. What ! As I have
@@ -1072,9 +1067,6 @@ V V V
 stzi
 
 
--dif /fa --/u- dc <? /7ia - /ccue -scz//fa-ta,-6i\ (? miz-Mu^^
-
-
 ^
 
 
@@ -1107,8 +1099,6 @@ Ayi " Ntokujaya."
 
 
 A kubaita.
-
-Ndime Mwana-Rumina.
 
 
 II.— FATHER, WAIT FOR ME.*
@@ -1344,8 +1334,6 @@ karirakeme :
 rukowa."
 
 
-ba-nkambo yakwe.
-
 Rubiro rwenka :
 
 " Tata, mpembe," etc. (as above).
@@ -1535,9 +1523,6 @@ Ma.
 
 
 i6e.
-
-
-" 'Naya/ Marumbe, 'nabwerera,®
 
 
 " Ku Sambe-nsaya. „ „
@@ -1819,12 +1804,6 @@ M'umbidluxe Katuhi and Tata mpembe, the revealers were babies. In all
 " Karaterententa^
 
 
-" Mutungire nungu/^
-
-
-" Mutungire nungu,
-
-
 " Cinsambya-pyororo,
 bailumfwe ayi :
 
@@ -1859,8 +1838,6 @@ kind.
 
 kekara.
 
-
-Banumfwe bulyo :
 
 " A irire ntingini," etc. (as above).
 
@@ -2473,9 +2450,6 @@ iF — y
 ^
 
 
-./Le k3. . /7ZU . lu. ^ /7Z^^ .
-
-
 " Ixi-Mwinsa," etc. (as" above).
 " Ta atulwa."
 
@@ -2679,7 +2653,6 @@ I am MuMBA.3
 
 
 (in bwine-mukuni.)
-KANXI! CITANXI!
 
 
 Bacu! " Mwebo no banakaxi ta mukwatwa ? "
@@ -2723,8 +2696,6 @@ Be " Mubotu, mubotu, ulicite mpande pa mutwi."
 " Mukaxi wanji wa kubesa! " etc. (as above).
 ngoma. . . "
 
-Sombi bapumuna.
-
 
 " Mukaxi wanji wa kubesa! " etc. (as above).
 xingoma."
@@ -2742,19 +2713,13 @@ ayi :
 " Mukaxi wanji wa kubesa! " etc. (as above).
 
 
-" Kanxi! citanxi !
-" Kanxi! citanxi! "
 tayira."
 
 Yaxika ngoma :
 
-" Kanxi! citanxi!
-" Kanxi! citanxi! "
 
 bami :
 
-" Kanxi! citanxi!
-" Kanxi! citanxi! "
 
 Ndime Mumba.
 
@@ -2914,9 +2879,6 @@ V V I
 
 
 ^
-
-
-A<s!a..jiu, -u/£: ^/ta. _ wa. mu?e 6e _ /i& - mi .
 
 
 4-
@@ -3128,9 +3090,6 @@ I am MWANA-MWENDERA.2
 (in bwine-murunl)
 
 
-mwine wakwata.
-
-
 maira."
 
 2 Mwana-Mwendera is a Mukuni boy living on the Buyuni in the Bu-Sori.
@@ -3180,9 +3139,6 @@ bo kwimba."
 
 ** Katona, katona, kayuni (his),
 kembe.
-
-
-Ndime Mwana-Mwendera.
 
 
 X.— LITTLE BEAD ! LITTLE BEAD 1
@@ -3304,7 +3260,7 @@ E
 jlj;;,;.-^^=g
 
 
-.'he u><z- ri^a rrz^z./ui . n^c^, ^ca.-r^.n^u. Ji£uroc,/z^u,/7zu.ia.n^.re-
+.'he u)(z- ri^a rrz^z./ui . n^c^, ^ca.-r^.n^u. Ji£uroc,/z^u,/7zu.ia.n^.re-
 
 
 ^
@@ -3325,9 +3281,6 @@ n\m.
 3.
 
 
-Funkwe, mwine mulonga. — Karungu/' etc.
-
-
 etc.
 
 
@@ -3344,8 +3297,6 @@ etc.
 " Karungu, karungu,'' etc. (as above).
 
 mujaya.
-
-Ndime Xaa-Minda.
 
 
 XL— HOW I SHALL BE ADMIRED!
@@ -3454,7 +3405,7 @@ Vr'rr-r
 §
 
 
-jnbe, M6we.n/e . 6we, tu. _ /lu. - i<z - rrvSe, AfSu/^/y^-^wie jya^v/ta -/u
+jnbe, M6we.n/e . 6we, tu. _ /lu. - i(z - rrvSe, AfSu/^/y^-^wie jya^v/ta -/u
 
 
 ^
@@ -3466,7 +3417,7 @@ JL
 1 ^L
 
 
-■^, ! > fr
+■^, ! ) fr
 li^c . :*:l r^e .
 
 
@@ -3476,7 +3427,7 @@ li^c . :*:l r^e .
 =1
 
 
-6ufe J3a..Aa-ccc -t/<z /uz /ruz .ta 6- n^e . Miu^e . n?e .
+6ufe J3a..Aa-ccc -t/(z /uz /ruz .ta 6- n^e . Miu^e . n?e .
 
 
 tm
@@ -3510,7 +3461,6 @@ Be baye mu kuteka manxi, besa kabaxibulula manda.
 Be bacinjixe-mo, nko bakacinjixa, bami kabaindirira kuya mu
 
 Mpece " No bene kwangn, ka mumwayika mumane kuya. Ono-
-Ndime Xaa-Minda.^^
 
 
 XII.— I AM TEMBWE.i
@@ -3683,7 +3633,6 @@ pumpaula :
 " Ndauleta."
 
 Be baxike, bejana » "O! cafwa catandabara. Ici nee caiinga
-Ndine Mwengwe.
 
 « One may notice here how in the imperative one person is easily used for
 another. The normal form should be here the Ramba fuma " get out " (sin^.)
@@ -4076,7 +4025,6 @@ Ayi " Munana kwisa no bene, ma."
 
 Nkarya katora.
 
-Ngayi kukaita :
 
 " Kacembere-wO' ! ", etc. (as above).
 A rimwi :
@@ -4091,8 +4039,6 @@ Nserere to suck the breast."
 ^ Ramba njise placed in the mouth of the woman for Mukuni ns4 " let me
 come."
 
-
-74 BANTU FOLK^LORE
 
 kuletera nina.
 
@@ -4437,8 +4383,6 @@ NSOMEKA.^
 
 KUBANGWA !
 
-Ncakacita bantu.
-
 
 5 This story, though typical enough, should not be taken as a perfect sample
 of the Mukuni language. The narrator, a man who has lived in different places,
@@ -4462,7 +4406,7 @@ cinunka."
 ' ri bwakaca. More common form bwe buce.
 
 
-/{u _ i>a-n^c.oa.f/iu-iOL.ri /tu. wl _ n .^ /lu . o'a
+/{u _ i)a-n^c.oa.f/iu-iOL.ri /tu. wl _ n .^ /lu . o'a
 
 
 ^
@@ -4500,7 +4444,6 @@ Kwesa uponde, Nangoma. Kobire ! Kobire I
 " Be : Suma,® suma, mama, mama !
 " Be : Suma, suma, mama, mama !
 " Be : Suma kwasu '^^ ku mayoba.^^
-" Ndiwe Songole.
 
 
 rwakwe :
@@ -4735,8 +4678,6 @@ the crow."
 girl, as if she were out of breath.
 
 
-,88 BANTU FOLK-LORE
-
 The crow was called : " Now what will you say ? '*
 Thel crow said : " Kwd ! Kwd ! Kwd !
 
@@ -4826,7 +4767,6 @@ I am Rumba. ^
 
 (in bwine-mukuni.)
 MAMA, BWERA !
-Ncakacita muntu.
 
 
 iiina ? "
@@ -4891,24 +4831,15 @@ Nga bakwinga kutwa- wo, " Sob we."
 " Tu ! Kwesu nxitwa," etc. (as above).
 
 
-cirundula panxi.
-
-
-Ukaambe buyani ? "
-
-
-Waita cikwangara.
-
-
 buyani ? "
 
 
 Banumfwe ayi
 fr-.-r \'\\'}}}jA^\f^nrvf,
-g-f^^ g^'iTr^'^:irr//>;ij
+g-f^^ g^'iTr^'^:irr//);ij
 
 
-— » — y — » w » V — y — f — r — r — r — • — z — » •<■ — «^
+— » — y — » w » V — y — f — r — r — r — • — z — » •(■ — «^
 
 
 " Kuku ! Ku !
@@ -4940,7 +4871,7 @@ Y t f
 E
 
 
-i./ts£2, bti. _ H^,rzjo.iK3-ro ^ re Pt>&,ia. - /^&.
+i./ts£2, bti. _ H^,rzjo.iK3-ro ^ re Pt)&,ia. - /^&.
 
 
 " Mwinsa, buka !
@@ -5093,7 +5024,6 @@ SAND A, SAND A, RWANDO.
 
 Mpece baparikira a bena-bunene a bena-bwanike. Be bemite
 mafumo, bami baya mu rundu. Nko kwacara barutundu, be " Uyi
-akaye akamusowe . "
 
 * In Northern Rhodesia one may hear a great \ ariety of versions of this
 tale. Some were published in Anthropos (Vienna) in 1910, though with some
@@ -5128,14 +5058,8 @@ Banumfwe-ko :
 " Basulwe kumbucira-n ! ^
 
 
-" Wancisa, Ngoma.
-
 " Wancomya-ncomya-n,
 
-
-" Beembere mombe,
-
-" Mombe xapoowera.
 
 3 This final n here and in the following verses is not a characteristic of
 Bwine-Mukuni. It may be that in the mind of the narrator it stands for -ne
@@ -5241,10 +5165,6 @@ goes an endless journey.
 
 At this moment one of the
 wives finds she has given birth
-
-
-WANCISA, NGOMA.
-
 mo."
 
 
@@ -5372,7 +5292,6 @@ rupya."
 
 namata."
 
-" Wancisa, Ngoma."
 
 A irire 1
 " Bama mba-Mwinsa.
@@ -5389,7 +5308,6 @@ of the hero, they all give to his first cousin the name of Ngoma " Drum " or
 
 8 Mwinsa, in Tonga Mwiza. Another version says Bena-Mwinsa " the
 mother of Mwinsa." A variant of the whole verse is " My mother is in the
-town, banid bari mu niuxi."
 
 
 " People came where I was born.
@@ -5451,9 +5369,6 @@ to mean " herd," while for others it means " castrate."
 but in the others it is either a hole in the ground, or a cave in the side of a big
 anthill. Mumba's version must be the oldest, considering that caves in rocks
 are unknown in this country.
-
-
-" Kucingula mombe ?
 
 
 *' No basa, a mutunke-ko a
@@ -5763,9 +5678,6 @@ Lord." 22
 kera-nxi ? "
 
 
-Ndakaamba boobo ?
-
-
 Mpece
 kumulera,
 rrombe.
@@ -5979,9 +5891,6 @@ marry the daughter of the Rain-
 Lord."
 
 
-Bwaca, wabika-ko :
-
-
 mwana ? ' '
 
 
@@ -6043,7 +5952,6 @@ bwenge nxima."
 bera-wo tukuni."
 
 
-Kwaxiya baona..
 ilamuka."
 
 
@@ -6244,9 +6152,6 @@ kujata kapepe
 
 Waxikira
 kakwe :
-
-
-" Mulainda, Fandu,
 
 
 Resa," etc. (as above).
@@ -6470,17 +6375,10 @@ ayi:
 
 " Ndo kapepe !
 
-" lyi manda tun j ire ?
-
 
 Mandu.
 
 " Kandiwo."
-
-kubukwe bwakwe "
-
-
-benjire moomo."
 
 
 " Ndo kapepe !
@@ -6491,8 +6389,6 @@ tun j ire ?
 Mandu." etc. (as above).
 
 waBO."
-
-mupyayire yeeyi."
 
 
 So they called him saying:
@@ -6551,8 +6447,6 @@ kite."
 waiiamuna.
 
 Be bamubambe mu manda
-
-" Iyi manda tun j ire ?
 
 
 Be " Sa, basumina ? "
@@ -6675,8 +6569,7 @@ feather, and sang :
 "It is no wine at all, Master
 
 Mandu,
-" That wine is your father-inlaw and your mother-in-
-law," etc.
+" That wine is your father-inlaw and your mother-inlaw," etc.
 Then the father-in-law and
 the mother-in-law stand up.
 There they are going.
@@ -6691,9 +6584,6 @@ bayansa. Ayi :
 
 
 bacitentemene.
-
-
-munwe-wo funku."
 
 
 funku uyu ? "
@@ -6767,12 +6657,8 @@ Fandu.
 
 Ayi :
 
-" Mutairi, Xa-Fandu
 " Mba bafiokoxara
 nxima."
-
-
-" Mularya, Xa-Mandu.
 
 
 " It is simple porridge," etc.
@@ -6926,9 +6812,6 @@ Ayi " Mbuyani ? "
 
 
 Ayi " Wakaka
-mupyara wakwe."
-
-
 ayi ngu
 
 
@@ -6960,13 +6843,11 @@ Mandu.
 He sees her getting up.
 
 " The sun is gone," said the
-Lord. " Tell him that tomorrow we shall give him with-
-out fail the true lady daughter
+Lord. " Tell him that tomorrow we shall give him without fail the true lady daughter
 of the Rain-Lord."
 
 
 Be " Ono a mufwarike mwana
-kakwe. . . . Kunumfwa
 a}^ :
 
 etc.
@@ -7287,8 +7168,7 @@ themselves of saying :
 
 This they said four times.
 
-Hearing that, the httle sonin-law from his hole said like-
-wise four times :
+Hearing that, the httle sonin-law from his hole said likewise four times :
 
 " Little feather, hold for me my
 father-in-law."
@@ -7469,7 +7349,6 @@ wangu " (tone).
 vtone).
 
 
-" Muliro, ndekere
 wangu " (tone).
 Ayi :
 
@@ -7628,7 +7507,6 @@ The mother-in-law said :
 He said : " With my wife."
 
 
-NDETERE NJARUXI
 YANGU.
 
 
@@ -7696,8 +7574,6 @@ bama."
 " A ! "
 
 
-konkera ibangu."
-
 nxira.
 
 
@@ -7708,12 +7584,6 @@ wa
 
 
 Ximutema-mbaro.
-
-
-njaruxi yangu."
-
-
-BANTU FOLK-LGRE
 
 
 Meanwhile he takes long
@@ -7756,10 +7626,6 @@ again :
 
 
 bakacara a baxa bonse, be
-
-" Kwesu kweroka
-" Kwewa mandondo."
-
 ku mfula.
 
 
@@ -7788,8 +7654,7 @@ the road, puts on speed.
 
 But now she begins to climb
 up a hill, and there, looking behind, she finds that a servant is
-coming over there in the distance, loaded with brass orna-
-ments for her. She then sings
+coming over there in the distance, loaded with brass ornaments for her. She then sings
 again :
 
 " My father has forsaken me,"
@@ -7819,8 +7684,7 @@ joins him : " Now," he says,
 " we are going soon to reach the
 place. . .."
 
-When he saw that the distance was not great, he de-
-spatched one of his wife's men,
+When he saw that the distance was not great, he despatched one of his wife's men,
 saying : " Now go towards our
 kraal to announce us, so that
 when the child of the Rain-Lord
@@ -7931,8 +7795,7 @@ goodj^racious ! she is an impostor with all the cattle and
 some of the slaves, and the
 cat skin.
 
-She says : " Let us go, husband, you have already ex-
-tracted the honey, let us go."
+She says : " Let us go, husband, you have already extracted the honey, let us go."
 
 She puts the honey on her
 head, and they go.
@@ -7966,7 +7829,6 @@ babo. . . .
 " Muli cimparanya
 " Baxa bonse,
 " Nama xonse,
-** Bulungu bonse,
 
 
 In it the daughter of the Rain-Lord calls herself Na-mitembo " Mother-ofloads," probably to show sympathy with her slaves, who by this time feel the
@@ -8020,13 +7882,10 @@ They go to take the cover off,
 and steam comes out.
 
 
-" Rubemba ronse
 " Bubire bonse,
 " Ngubo xonse.
-" Mpembe nkuraye,
 
 " Mulume wangu,
-" Mpembe nkuraye,
 
 " Namitembo ! "
 
@@ -8281,7 +8140,6 @@ I
 
 
 mene " Ntoxikira
-ibabo mubo," ayi
 utoya buyani ?"
 
 nenka."
@@ -8464,8 +8322,6 @@ atuntuke, ayi :
 " Rubona-nsambo."
 
 kulu.
-
-boobo. ... " Mwaboneka ? "
 
 
 bulya."
@@ -8713,9 +8569,6 @@ To the crocodile they gave a cow and a bull, and an ox besides.''
 That is the end of the story. ^
 
 
-WANCISA . . . NGOMA.
-
-
 Sit are wati " Ret a nkusaninine."
 
 • i.e., " Don't you fear God ?
@@ -8749,7 +8602,6 @@ cowries, pearls, and other ornaments found in the water, in the hope of winning
 her as his wife.
 
 
-Wa j oka waba nt eng wa, waya kun j ira mu bwina . Ery o bamuberera
 mu bwina."
 
 karaimba :
@@ -8943,7 +8795,6 @@ ano."
 " Nseyandi," etc.
 
 " Nseyandi," etc.
-Ndime Miyanda.
 
 ^ Covruje for corisje. .See above, note 3.
 
@@ -9109,7 +8960,7 @@ e^
 1^
 
 
-^=>--K=M-
+^=)--K=M-
 
 
 ?
@@ -9123,15 +8974,10 @@ e^
 
 lX}\n }} ;
 tit
-
-
-/32. V/a. _ mt^u^a/Ji .e./tde ^ e ^ n/^ si ^ e . n^ /nu-ftzi .
-
-
 i
 
 
-^ S \ \ >s
+^ S \ \ )s
 
 
 ^
@@ -9142,8 +8988,6 @@ i
 
 _ /iz ^^//Qz^rrzBofSi .e.ncie _ (2 _/z^ J/ . e.ade mu nzi - /zs .^
 
-
-Mwana, ndiyowa
 
 Catara kare.^
 
@@ -9436,15 +9280,10 @@ Syabusu, a man of Sukulumbwe origin, now living on the Chikuni Stream.
 12 Zera, Ila for Tonga zuba " fish."
 
 
-mulyango okuya.
-
-ndijarude, bwene."
-
 " Syaa cinama,
 " Sya Mwiza.
 
 " Me ndime Romba-nguma-3dii ? '"
-" Syaa ciiiama/' etc.
 I tu ! Wajarula, wanjira Sizimwe, wati " Ndabire, bwene,
 
 
@@ -9474,19 +9313,12 @@ is for waza ku kubarongera, lit. " he came to put them into ..." A construction 
 wabeza, wabeza, yamana. Iraane boobo ngoma, wazoo i* kiibaronbamwi,umw i wati kake. A rakwe wamunjizya. Abanjizye boobo,
 
 
-" Ndime Camundari."
-
-" Uyumwide-nzi, bwene ? "
-
-
 " K6ya uciumeume."
 
 Eryo wati :
 
 " Ndum ! Ndum ! Ndum !
 
-
-boobo, bamuzimina.
 
 cenjezya."
 
@@ -9611,9 +9443,6 @@ vocabulary of nature. Hence to interpret with a sure pen even the fragments
 of poetry contained in these tales is not so easy a task as one might imagine.
 
 
-WIRIRYO ! NDARULA.
-
-
 kubwedere.
 
 " Sya-Mwiza !
@@ -9622,8 +9451,6 @@ kubwedere.
 
 " Mu saka.
 
-" Wiriryo ! Ndarula.
-" Wiriryo ! Ndarula."
 
 " Sya-Mwiza," etc.
 
@@ -9876,7 +9703,7 @@ Rabbit.
 " Me mupepe wangu,
 
 
-Kabone kuti 7>u'ba ryabira " Inga ryabira, to bana-sulwe."
+Kabone kuti 7)u'ba ryabira " Inga ryabira, to bana-sulwe."
 
 " Mupepe ngu ndajana kuli nakara mukwesu," etc. (as above) .
 
@@ -10071,10 +9898,8 @@ their legitimate, though poor, lovers or husbands.
 nzi ? "
 
 
-" Ndime Syumbwa. . . .
 " Ndakutanda. . . .
 
-" Ndime munumbwe, . . .
 " Ndakutanda . . .
 mbo ula mabara mabotu. Musimbi uya kukuzumina. No barom-
 
@@ -10237,7 +10062,7 @@ barakamba :
 ^
 
 
-(P.zi,3a. _ /la, xz..6a- ne^ -zz.. <^_ fie/ ^7_^r-<^-
+(P.zi,3a. _ /la, xz..6a- ne^ -zz.. (^_ fie/ ^7_^r-(^-
 
 
 i
@@ -10279,7 +10104,7 @@ rr-iT — \
 S
 
 
-./TZ^Z, <!i7 . 2.C .^a
+./TZ^Z, (!i7 . 2.C .^a
 
 
 /^.
@@ -10308,7 +10133,6 @@ Tonga zwata (used by some tribes, the others saying sama).
 
 
 no basimbi, tuzoo kusobane ku mulonga. A manda mundetere,
-muzoo kundisamike."
 
 
 " Ngu Nambete . . .
@@ -10322,9 +10146,7 @@ rwimbo rumbi . . .
 " Bakabwenga, no mwabwera ! — Bwerani ! Bwerani !
 
 " No mwaninganinga, no mwaninga, no mwaninganinga ! —
-Bwerani ! Bwerani !
 \ "No mwaninganinga, no mwaninga, no mwaninganinga ! —
-Bwerani ! Bwerani ! " ^
 manda.
 
 ^ This song is evidently meant by the narrators to give an idea of the
@@ -10508,9 +10330,6 @@ kitchen Kafir for Tonga tombwe.
 
 
 Ulaimba •
-
-
-" Nakasya mulombe !
 
 
 Baya bwimba :

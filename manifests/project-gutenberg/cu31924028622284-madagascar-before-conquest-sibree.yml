@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_cu31924028622284
+  work_id: malagasy.madagascar_before_conquest.sibree_archive
+  title: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  source_url: https://archive.org/details/cu31924028622284
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/cu31924028622284-madagascar-before-conquest-sibree.txt
+    checksum:
+      algorithm: sha256
+      value: 59662c262b040588c98a488dbe5ac33b6a7b3fb3355b20671e5a57a81ed4dced
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924028622284-madagascar-before-conquest-sibree.md
+    checksum:
+      algorithm: sha256
+      value: 2fda6f899dbb60a1244e90fff86724b3421868477a887a02e687d2aea8576c89
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+    checksum:
+      algorithm: sha256
+      value: f2ddf2f07a823e8a9367c3dadf0e84a7c12448d988a9ae9c8cb6e60e0552ac03
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids malagasy.madagascar_before_conquest.sibree_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1896, US public domain. Recording context - chapters on folk-lore,
+      proverbs, ideas of the supernatural, and native oratory summarize material Sibree
+      and colleagues collected in Malagasy over three decades; paraphrase and translated
+      excerpts rather than full verbatim tales. Best available pre-1930 English Malagasy
+      folklore monograph (satisfies the Malagasy retry).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

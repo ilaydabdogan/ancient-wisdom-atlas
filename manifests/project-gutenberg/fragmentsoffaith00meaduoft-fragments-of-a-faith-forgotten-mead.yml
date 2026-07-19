@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_fragmentsoffaith00meaduoft
+  work_id: gnostic.mead.fragments_of_a_faith_forgotten.archive
+  title: Fragments of a Faith Forgotten
+  source_url: https://archive.org/details/fragmentsoffaith00meaduoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/fragmentsoffaith00meaduoft-fragments-of-a-faith-forgotten-mead.txt
+    checksum:
+      algorithm: sha256
+      value: c267bff79103880247f50e245020a5c1ff6485efcb2975a1c29887bbec31932c
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/fragmentsoffaith00meaduoft-fragments-of-a-faith-forgotten-mead.md
+    checksum:
+      algorithm: sha256
+      value: 80ec4b85e37ba83261c3a0fbf2847c1168dbf08ecd3c0d8bd4ef8922a94ec435
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+    checksum:
+      algorithm: sha256
+      value: bc4d72cc762d3e11463ccdb205aee6be3cf2f93b5be1789d95045b05580db568
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids gnostic.mead.fragments_of_a_faith_forgotten.archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1900, US public domain. Mead's survey of the Gnostic schools
+      with extensive translated fragments; clean readable OCR.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

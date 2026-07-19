@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_mythstalesfromsa00godd
+  work_id: native_american.myths_tales_san_carlos_apache.goddard_archive
+  title: Myths and Tales from the San Carlos Apache
+  source_url: https://archive.org/details/mythstalesfromsa00godd
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/mythstalesfromsa00godd-myths-tales-san-carlos-apache-goddard.txt
+    checksum:
+      algorithm: sha256
+      value: 53230756ee9077aaa111a4f72e3a0a07854c91a487998074ec2f0cccf059ad36
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mythstalesfromsa00godd-myths-tales-san-carlos-apache-goddard.md
+    checksum:
+      algorithm: sha256
+      value: 3233cb9139ed24b296a55988fec1128e926f4fad10382c0a6cb176b987b249d9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md
+    checksum:
+      algorithm: sha256
+      value: 4b21846cdde17d523ff06ed2fb039f402f9ce7ed94cc3785850132849fdce600
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.myths_tales_san_carlos_apache.goddard_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1918, US public domain. Recording context - English translations
+      of dictated texts from named narrators; creation, culture-hero, and coyote cycles
+      of the Western Apache; companion Apache-language volume (part 3, 1919) queued
+      separately.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

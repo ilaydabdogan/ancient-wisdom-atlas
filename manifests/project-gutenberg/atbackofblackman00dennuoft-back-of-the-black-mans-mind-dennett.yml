@@ -1,0 +1,74 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_atbackofblackman00dennuoft
+  work_id: african.back_of_the_black_mans_mind.dennett_archive
+  title: At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West
+    Africa
+  source_url: https://archive.org/details/atbackofblackman00dennuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/atbackofblackman00dennuoft-back-of-the-black-mans-mind-dennett.txt
+    checksum:
+      algorithm: sha256
+      value: 92bc8cc2b764f0cbf11b77a98da21fa7485d4d4288e821c4e652479adec81d61
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/atbackofblackman00dennuoft-back-of-the-black-mans-mind-dennett.md
+    checksum:
+      algorithm: sha256
+      value: 5c29754f4d1580ff4e7f45f4b72d462c5c53e9118419bda7ba852df80c7d95d9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+    checksum:
+      algorithm: sha256
+      value: 67edfcaa2a8547b6c550c03aea230ce8aea94ca8ef031665871d446ae6071ddd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.back_of_the_black_mans_mind.dennett_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1906, US public domain. The period title is offensive by modern
+      standards. This is ETHNOGRAPHIC PARAPHRASE, not verbatim - Dennett documents
+      Bavili (Loango Kongo) cosmology, the Nkici system, sacred kingship, and philosophical
+      categories secondhand through a colonial interpretive lens; his systematizing
+      framework must not be extracted as indigenous self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

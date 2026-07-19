@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_16338
+  work_id: greek.homeric_hymns.lang_gutenberg
+  title: The Homeric Hymns
+  source_url: https://www.gutenberg.org/ebooks/16338
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/16338-homeric-hymns-lang.txt
+    checksum:
+      algorithm: sha256
+      value: e000bcc0f9c409b6e6bc2fb1a2a8536ccae8b22af354c6aa8f994ce2135f0ac1
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/16338-homeric-hymns-lang.md
+    checksum:
+      algorithm: sha256
+      value: db70e79241792b7fe62a39819f5c2693af1f72cb1a4ce3e0ff617e0ecc386dc2
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+    checksum:
+      algorithm: sha256
+      value: 2c7690656a7be444f6069a984af490996851146531bc6a3de262bcbfe555db01
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.homeric_hymns.lang_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Lang's prose translation
+      with introductory essays on each hymn.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

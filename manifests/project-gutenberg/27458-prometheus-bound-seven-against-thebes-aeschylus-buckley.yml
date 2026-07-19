@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_27458
+  work_id: greek.aeschylus.prometheus_bound.buckley_gutenberg
+  title: Aeschylus' Prometheus Bound and the Seven Against Thebes
+  source_url: https://www.gutenberg.org/ebooks/27458
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/27458-prometheus-bound-seven-against-thebes-aeschylus-buckley.txt
+    checksum:
+      algorithm: sha256
+      value: 67a37a50c496476cfaa854cb9418eeeb1ec553179819b371d80dd4ace383be6b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/27458-prometheus-bound-seven-against-thebes-aeschylus-buckley.md
+    checksum:
+      algorithm: sha256
+      value: d1fd64fc69012c6855f082a795e877a81c364baadbdbf0c2524a0b13b76093ac
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md
+    checksum:
+      algorithm: sha256
+      value: 6c7900c1bc3bcf45ce70b474826d3ead4876d941dd1de44a2c76bfb42b2f5f57
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.aeschylus.prometheus_bound.buckley_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Buckley's literal prose
+      translation.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_mythstraditionso0025lowi
+  work_id: native_american.myths_traditions_crow.lowie_archive
+  title: Myths and Traditions of the Crow Indians
+  source_url: https://archive.org/details/mythstraditionso0025lowi
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/mythstraditionso0025lowi-myths-traditions-crow-lowie.txt
+    checksum:
+      algorithm: sha256
+      value: 39d9a7fc4b5d478d746fdaeec017feaddf9e4aa4915906b09aff45b062a2e0c9
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mythstraditionso0025lowi-myths-traditions-crow-lowie.md
+    checksum:
+      algorithm: sha256
+      value: b6f976617c595094c7033ac1822e0fcdad30780b26cb15afb4f0c4a27014ff61
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+    checksum:
+      algorithm: sha256
+      value: 4af7cc151a6e2f4f0999278a9daa83a75cd2f9a75412998f9e4d82b63bb25406
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.myths_traditions_crow.lowie_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1918, US public domain. Recording context - texts collected through
+      interpreters from named narrators over nine field seasons, translations close
+      to dictation; Old Man Coyote creation cycle, Lodge Boy and Thrown Away, and
+      vision-quest origin narratives.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

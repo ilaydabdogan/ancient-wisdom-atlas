@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_1210
+  work_id: japanese.kwaidan.hearn_gutenberg
+  title: 'Kwaidan: Stories and Studies of Strange Things'
+  source_url: https://www.gutenberg.org/ebooks/1210
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/1210-kwaidan-hearn.txt
+    checksum:
+      algorithm: sha256
+      value: 7a65d208d24f0cae80afb1b8ae2787df7f40b331d6d28f4c3eb5166a70928fb2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/1210-kwaidan-hearn.md
+    checksum:
+      algorithm: sha256
+      value: a574ed5cf368e24c45801e8d1792114ee5bb8cc15864c6b931744367e46ae89b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+    checksum:
+      algorithm: sha256
+      value: f5038dab0b81feb2b9719da904c9e948d6224e7d9d8bbadd1196287f993387e3
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids japanese.kwaidan.hearn_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Hearn's
+      1904 collection is long out of copyright. Retellings of Japanese oral tales
+      gathered by Hearn.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

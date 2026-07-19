@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mythsandfolklore00speciala
+  work_id: native_american.timiskaming_algonquin.speck_archive
+  title: Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa
+  source_url: https://archive.org/details/mythsandfolklore00speciala
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/mythsandfolklore00speciala-timiskaming-algonquin-speck.txt
+    checksum:
+      algorithm: sha256
+      value: 9c02a685b905c58ddc879d6e2391a065107304a0525940eebc475ff903d1d929
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mythsandfolklore00speciala-timiskaming-algonquin-speck.md
+    checksum:
+      algorithm: sha256
+      value: 3dc2da9eda78f5b3fba21fc253ff308014e76877eb1b739603d586bff27efce3
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md
+    checksum:
+      algorithm: sha256
+      value: 4761cd624b67cb5600b573abbada921819cd58c2eafaf653463975e8d2904c5a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.timiskaming_algonquin.speck_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1915, US public domain. Verbatim-close English tellings recorded
+      from named Timiskaming Algonquin and Timagami Ojibwa narrators. Trickster and
+      cannibal-giant cycles; conjuring material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

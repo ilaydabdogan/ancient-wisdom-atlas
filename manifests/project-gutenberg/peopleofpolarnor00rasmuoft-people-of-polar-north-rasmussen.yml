@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_peopleofpolarnor00rasmuoft
+  work_id: arctic_inuit.people_of_polar_north.rasmussen_archive
+  title: 'The People of the Polar North: A Record'
+  source_url: https://archive.org/details/peopleofpolarnor00rasmuoft
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/peopleofpolarnor00rasmuoft-people-of-polar-north-rasmussen.txt
+    checksum:
+      algorithm: sha256
+      value: a8f62c2375ae4345cc6eef25a5693ccaaffe6f1c581ca70b4436cefc67406667
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/peopleofpolarnor00rasmuoft-people-of-polar-north-rasmussen.md
+    checksum:
+      algorithm: sha256
+      value: 2fa15d200f705d423b9ca87fab8d80857e7801e6e726c5927e26c60be9e29d5c
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md
+    checksum:
+      algorithm: sha256
+      value: 7b53f0d2263e23897b90340d033aa62848a4fd3ca6289e1baa18f809a26ed192
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids arctic_inuit.people_of_polar_north.rasmussen_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1908, US public domain. Recording context - Rasmussen recorded
+      folk-tales and shamanic accounts directly in Greenlandic from named Inughuit
+      informants; double translation (Greenlandic to Danish to English) but narrative
+      units preserved intact. Complements the already-ingested Rasmussen Eskimo Folk-Tales.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

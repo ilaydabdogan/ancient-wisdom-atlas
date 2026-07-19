@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_sacredbooksofch03conf
+  work_id: chinese.shu_king_shih_king.sbe3.legge_archive
+  title: 'The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King,
+    the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East,
+    Vol. 3)'
+  source_url: https://archive.org/details/sacredbooksofch03conf
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/sacredbooksofch03conf-shu-king-shih-king-legge.txt
+    checksum:
+      algorithm: sha256
+      value: 19262c62dfc30f0858dd8035d80870d242d7c95558339ea7bc59894b80dd2377
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/sacredbooksofch03conf-shu-king-shih-king-legge.md
+    checksum:
+      algorithm: sha256
+      value: 7d1130b3adf0dd3b686ba1974dd8dc99dcd9066e9e1bad592fe593d88e584ae0
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md
+    checksum:
+      algorithm: sha256
+      value: 896b05be87c4d2535ae6ad3787d5c08f97c2b450f5ad425ede0ddc18a3a26c25
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.shu_king_shih_king.sbe3.legge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1879, US public domain. Legge's introductions and notes interleave
+      with the classics; extraction should separate apparatus from text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

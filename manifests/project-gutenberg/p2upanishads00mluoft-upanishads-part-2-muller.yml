@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_p2upanishads00mluoft
+  work_id: hindu.upanishads.sbe15.muller_archive
+  title: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  source_url: https://archive.org/details/p2upanishads00mluoft
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/p2upanishads00mluoft-upanishads-part-2-muller.txt
+    checksum:
+      algorithm: sha256
+      value: 712f65b66588e411cbd55bcca72afa6d9ae55165ef1d1de3b785bf98a5a2ee45
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/p2upanishads00mluoft-upanishads-part-2-muller.md
+    checksum:
+      algorithm: sha256
+      value: febdd4967dab1d49d8ff92c9fca9016a614685947f533e9370822180143a925b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+    checksum:
+      algorithm: sha256
+      value: 4d7b8e5ed77ec417081b2907a2410c030656ff261d158578f5fc0dd447037054
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.upanishads.sbe15.muller_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1884, US public domain. OCR of diacritic-heavy transliteration
+      needs cleanup before extraction.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_vedichymns01mulluoft
+  work_id: hindu.vedic_hymns.muller_sbe32_archive
+  title: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  source_url: https://archive.org/details/vedichymns01mulluoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/vedichymns01mulluoft-vedic-hymns-part1-muller-sbe32.txt
+    checksum:
+      algorithm: sha256
+      value: 36fd6ad66dfaddcb5270bcb35d728db2c7cf182bbc6328256b24b673c63cfd9a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/vedichymns01mulluoft-vedic-hymns-part1-muller-sbe32.md
+    checksum:
+      algorithm: sha256
+      value: 57b12016aac85fe570346b0a5626c4ab7f9871917a2acf91f00c3e7a69240d5d
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+    checksum:
+      algorithm: sha256
+      value: 297a8450f8ec2f157c1e375929622e6dd82fd8daaaed83aa45b2446bd4aa9da7
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.vedic_hymns.muller_sbe32_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

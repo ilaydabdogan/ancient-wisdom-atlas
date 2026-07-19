@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_23639
+  work_id: greek.plutarch.morals.shilleto_gutenberg
+  title: Plutarch's Morals
+  source_url: https://www.gutenberg.org/ebooks/23639
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/23639-plutarch-morals-shilleto.txt
+    checksum:
+      algorithm: sha256
+      value: 357a67ebc1c3618283db2d0a8314eaca1b75a4bed6441d376951ba1fb7d8e5e1
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/23639-plutarch-morals-shilleto.md
+    checksum:
+      algorithm: sha256
+      value: 8edf9f21b6697262136941f098395e62a2f57438cab7a84c8487fa8e6e537d68
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+    checksum:
+      algorithm: sha256
+      value: 7e82a2fa76a7de543afb0cb65233ca62283ed95f381fcf123b0c41342cb53032
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.plutarch.morals.shilleto_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. This is Shilleto's selection
+      of the Moralia ethical essays; it does NOT include the separate "Isis and Osiris"
+      treatise, which was sought but has no standalone public-domain Gutenberg text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

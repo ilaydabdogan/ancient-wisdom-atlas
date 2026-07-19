@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_cu31924023500543
+  work_id: micronesian.island_of_stone_money.furness_archive
+  title: 'The Island of Stone Money: Uap of the Carolines'
+  source_url: https://archive.org/details/cu31924023500543
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/cu31924023500543-island-of-stone-money-furness.txt
+    checksum:
+      algorithm: sha256
+      value: b4843989fb87605eda6808d83cdc6944794e7ebc676f2918965a48bc238f96ad
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924023500543-island-of-stone-money-furness.md
+    checksum:
+      algorithm: sha256
+      value: e2c07349325e1062656124fd6ca7fb812aba5ef74fc9f3860fb43f20e2b0ab77
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+    checksum:
+      algorithm: sha256
+      value: 87b94e3f4d81844839504c09fbefb6dd1459b23a9f21774e645e60ee373d9ed5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids micronesian.island_of_stone_money.furness_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1910, US public domain. Recording context - chapters on Yapese
+      religion, afterlife (falraman), creation legends, and folk-tales collected through
+      a resident interpreter; short residence, paraphrased narratives - treat as secondary-grade
+      field record. Pairs with Christian for the Micronesia target.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

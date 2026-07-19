@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mythologyblackf00duvagoog
+  work_id: native_american.mythology_blackfoot.wissler_duvall_archive
+  title: Mythology of the Blackfoot Indians
+  source_url: https://archive.org/details/mythologyblackf00duvagoog
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/mythologyblackf00duvagoog-mythology-blackfoot-wissler-duvall.txt
+    checksum:
+      algorithm: sha256
+      value: fb05a64e60327ee8c6828d974a007b20926a06bad0da87ed5f1f604e75eb816e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mythologyblackf00duvagoog-mythology-blackfoot-wissler-duvall.md
+    checksum:
+      algorithm: sha256
+      value: 3729accca6f600af48c09e596aa7c0d680e7d02b4a840fbdebb20f825c1d65e6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md
+    checksum:
+      algorithm: sha256
+      value: 9c98b7008641c918aa65cc55ea67fd8d54402a9d0be7235e061ec8a1aad59dc5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.mythology_blackfoot.wissler_duvall_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1908, US public domain. Verbatim-close - narratives collected
+      and translated by David C. Duvall, a Blackfoot-speaking Metis, giving close
+      renderings from named narrators; a strong verbatim counterpart to Grinnell's
+      retelling. Google-scanned OCR carries a boilerplate header. Sun Dance and bundle-origin
+      material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

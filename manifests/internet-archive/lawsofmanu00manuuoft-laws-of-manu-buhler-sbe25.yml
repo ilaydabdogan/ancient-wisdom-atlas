@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_lawsofmanu00manuuoft
+  work_id: hindu.laws_of_manu.buhler_sbe25_archive
+  title: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  source_url: https://archive.org/details/lawsofmanu00manuuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/lawsofmanu00manuuoft-laws-of-manu-buhler-sbe25.txt
+    checksum:
+      algorithm: sha256
+      value: 134b336846f2a2d8ffc61e8b8fd371a6a8ca9691cb7825b022f642d067a4ac20
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/lawsofmanu00manuuoft-laws-of-manu-buhler-sbe25.md
+    checksum:
+      algorithm: sha256
+      value: 6235d55a411f8444aa1ae6b88e8a3378a71daa20afa4be1f2e99cbc470ac3dda
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+    checksum:
+      algorithm: sha256
+      value: 987138b5cd4031ea396c8e0c45fb6cfc3ebdfbd494725a38e78134b551243c7d
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.laws_of_manu.buhler_sbe25_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1886 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

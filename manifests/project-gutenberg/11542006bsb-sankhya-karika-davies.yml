@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_11542006bsb
+  work_id: hindu.samkhya_karika.davies_archive
+  title: 'Hindu Philosophy: The Sankhya Karika of Iswara Krishna'
+  source_url: https://archive.org/details/11542006bsb
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/11542006bsb-sankhya-karika-davies.txt
+    checksum:
+      algorithm: sha256
+      value: c317e9ab1ee9467b26dceac94116aeac2470d8cff9a7b9e0c65eef48ac00ff55
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/11542006bsb-sankhya-karika-davies.md
+    checksum:
+      algorithm: sha256
+      value: bbbc31c693d403e8863581d01335d27552f930e21bff4134b3f82376d7b72d9e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+    checksum:
+      algorithm: sha256
+      value: f9c60e668894082e3c932edb5570b9fc924b31c24a572d290ae3d76b3eaeea8e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.samkhya_karika.davies_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1881, US public domain. Volume interleaves karika verses with
+      Davies's exposition; extraction should separate verse text from commentary.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

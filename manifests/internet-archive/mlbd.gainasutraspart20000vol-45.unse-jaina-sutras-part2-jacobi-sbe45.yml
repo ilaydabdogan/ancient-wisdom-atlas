@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mlbd.gainasutraspart20000vol-45.unse
+  work_id: jain.jaina_sutras.jacobi_part2_sbe45_archive
+  title: 'Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred
+    Books of the East, Vol. 45)'
+  source_url: https://archive.org/details/mlbd.gainasutraspart20000vol-45.unse
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/mlbd.gainasutraspart20000vol-45.unse-jaina-sutras-part2-jacobi-sbe45.txt
+    checksum:
+      algorithm: sha256
+      value: ab21afbbe18ff2e57f68b42ab6d665c6edc9b12127373ab2cb5ecb586c8033c9
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/mlbd.gainasutraspart20000vol-45.unse-jaina-sutras-part2-jacobi-sbe45.md
+    checksum:
+      algorithm: sha256
+      value: 25aa0cce43b5f746a1313f35830e567b9b943056f40ee3921de1ed41b612975a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+    checksum:
+      algorithm: sha256
+      value: 9140b40c9b20d9d578d7883ff210409dfdc3c70a953ee0f50d1ed3c051f5cebd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids jain.jaina_sutras.jacobi_part2_sbe45_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1895 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Completes the SBE Jaina Sutras pair (Part I already held).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_54036
+  work_id: armenian.armenian_legends_and_poems.boyajian_gutenberg
+  title: Armenian Legends and Poems
+  source_url: https://www.gutenberg.org/ebooks/54036
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/54036-armenian-legends-and-poems-boyajian.txt
+    checksum:
+      algorithm: sha256
+      value: ed3b77eba5c3e0cf0381ac8ca06bd7dd5005d89ad5601ec3b632c6aa8f6e586a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/54036-armenian-legends-and-poems-boyajian.md
+    checksum:
+      algorithm: sha256
+      value: e4b3f1405efec343d671bf6e5bf6e30754cd1cf5c68e77a2a70c0fd89ca94596
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+    checksum:
+      algorithm: sha256
+      value: 02332053a4139b02b77a2d2ee67cd24d9520f79a432826db0f536ce69e08021f
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids armenian.armenian_legends_and_poems.boyajian_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; anthology
+      compiled and translated by Zabelle Boyajian with an essay by Aram Raffi.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

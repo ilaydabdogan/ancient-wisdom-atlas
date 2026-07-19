@@ -1,0 +1,16197 @@
+# The Pre- and Proto-historic Finns, Volume 1
+
+Google
+
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world’s books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difficult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book’s long journey from the
+publisher to a library and finally to you.
+
+
+Usage guidelines
+
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
+personal, non-commercial purposes.
+
+
++ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
+
++ Maintain attribution The Google “watermark” you see on each file is essential for informing people about this project and helping them find
+additional materials through Google Book Search. Please do not remove it.
+
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any specific use of
+any specific book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+
+About Google Book Search
+
+
+Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+ai[http: //books . google. com/|
+
+
+RADCLIFFE COLLEGE LIBRARY
+
+
+Grimm ULtbhrarp
+
+
+No. 9
+
+
+THE PRE- AND PROTO-HISTORIC FINNS
+
+
+Che Grimm Librarp.
+
+
+I. GEORGIAN FOLK-TALES. Translated by MARJORY WARDROP.
+Cr. 8vo, pp. xii +175. 55. net.
+
+
+II. THE LEGEND OF PERSEUS. By Epwin SIDNEY
+HARTLAND, F.S.A.
+Vout. 1 THE SUPERNATURAL BIRTH.
+Cr. 8v0, Pp. xxxiv+228. 75. 6d. net.
+
+
+Ill. THE LEGEND OF PERSEUS. By Epwin SIDNEY
+HARTLAND, F.S.A.
+Vow. 1. THE LIFE-TOKEN.
+Cr. 8v0, pp. viiit445. as. 6d. neb.
+
+
+IV. THE VOYAGE OF BRAN, SON OF FEBAL. Edited by Kuno
+MEYER. With an Essay upon the Happy Otherworld in Irish
+Myth, by ALFRED Nutr. Vol. 1.
+
+Cr. 8v0, pp. xvii+ 331. ros. 6d. net.
+
+
+V. THE LEGEND OF PERSEUS. By Epwin SIDNEY
+HARTLAND, F.S.A.
+Vou. mt. ANDROMEDA. MEDUSA.
+Cr. 8v0, pp. xxxvii+225. 75. 6d. net.
+
+
+VI. THE VOYAGE OF BRAN, SON OF FEBAL. Edited by
+Kuno MEYER. With an Essay on the Celtic Doctrine of Rebirth,
+by ALFRED Nutt. Vol. U1.
+
+Cr. 8vo, pp. Xiit+ 352. 105. 6d. net.
+
+
+VII. THE LEGEND OF SIR GAWAIN. = Studies upon its Original
+Scope and Significance. By Jessrzt L. WeEsTON, translator of
+Wolfram von Eschenbach's ‘ Parzival.’
+
+Cr. 8vo, pp. xiv+-III. 45. net.
+
+
+All rights reserved
+
+
+nou
+THE® 90
+
+
+Pre- and Proto-historic Finns
+
+
+BOTH EASTERN AND WESTERN
+WITH
+
+
+The Magic Songs
+
+
+OF THE WEST FINNS
+
+
+By the Honourable
+JOHN ABERCROMBY
+
+
+COR, MEMBER OF THE FINNO-UGRIAN SOCIETY
+
+
+IN TWO VOLUMES
+vol. Ll
+
+
+Published by David Nutt
+in the Strand, London
+1898
+
+
+13567
+
+
+Edinburgh : T. and A, ConsTasie, Printers to Her Majesty
+
+
+PREFACE
+
+
+IN this country the term Finn is generally restricted
+to the natives of Finland, with perhaps those of
+Esthonia thrown in. But besides these Western
+Finns there are other small nationalities in Central
+and Northern Russia, such as the Erza and MokSa
+Mordvins, the Ceremis, Votiaks, Permians, and
+Zirians, to whom the term is very properly applied,
+though with the qualifying adjective — Eastern.
+Except by Folklorists, little attention is paid in
+Great Britain to these peoples, and much that is
+written of them abroad finds no response here, the
+‘silver streak’ acting, it would seem, as a non-con-
+ductor to such unsensational and feeble vibrations.
+Although the languages of the Eastern and
+Western Finns differ as much perhaps among them-
+selves as the various members of the Aryan group, the
+craniological and physical differences between any
+two Finnish groups is very much less than between
+the Latin and the Teutonic groups, for instance. All
+the Finns live nearly under the same latitudes, and
+in pre- and proto-historic times, which are not so very
+
+
+vi PRE- AND PROTO-HISTORIC FINNS
+
+
+remote, the differences in customs, religious and other
+beliefs, could not have been very great. This is
+important; it allows us to supplement what is
+missing or defective in one Finnish group by what is
+more complete in another, with far greater certainty
+than when dealing under similar circumstances with
+the Aryan-speaking groups. In the first five chapters
+of the first volume I have tried, with the combined
+aid of craniology, archzology, ethnography, and
+philology, brought up to date, to sketch as succinctly
+as possible the pre- and proto-historic history of the
+Eastern and Western Finns, showing the various
+stages of civilisation to which they successively
+advanced after contact with higher civilisations, at
+different periods of their evolution from neolithic
+times to the middle ages. Chapters six and seven
+contain an analysis of the beliefs of the Western
+Finns, so far as they can be gathered from the text
+of the Magic Songs in the second volume; and a
+perusal of them will facilitate the comprehension
+of the Magic Songs themselves. The second volume,
+containing 639 magic songs, some of considerable
+length, classed under 233 headings, is a translation
+of a very large portion of the Sxomen kansan
+muinaisia Lottsurunoja, edited and published by the
+late Dr. Lénnrot in 1880. As the translation was
+made for Folklorists it is as literal as possible,
+
+
+PREFACE vii
+
+
+without additions, without subtractions, and the
+vocabulary employed is in conformity with the
+subject, with the humble social status and homely
+surroundings of the original composers. The metre
+of the original is the same as in the Kalevala, which
+cannot be reproduced in a language like English,
+where the ictus of the metre has to coincide with
+the natural stress-accent of the words. But where
+it could be done without loss of exactness a certain
+rhythm, generally three beats to a line, is given in
+the translation, though to save space the lines are
+printed in prose form.
+
+In the work of translating the Magic Songs I owe
+a debt of gratitude to Lektor Raitio, with whom I
+. first began to study them a good many years ago,
+for much friendly assistance. Finally, I acknowledge
+with thanks the reproduction of four illustrations
+borrowed from Mr. J. R. Aspelin’s Antiquités du
+Nord Finno-ougrien, four from Mr. Kudriavtsev,
+three from Mr. Inostrantsev, one from Mr. Spitsin,
+and twelve from photographs given me by Mr.
+NovokreSéennikh. The six illustrations from sketches
+made by myself were made hurriedly, and are not
+absolutely correct, though adequate, I hope, for the
+purpose.
+
+
+EDINBURGH, August 1898.
+
+
+CONTENTS
+
+
+Value of Additional Letters of the Alphabet .
+Full Titles of Books consulted and referred to
+Illustrations .
+
+
+CHAPTER I
+
+
+GEOGRAPHICAL POSITION AND CRANIOLOGY
+OF THE FINNS
+
+
+Geographical Position of the Western Finns .
+Geographical Position of the Eastern Finns
+The Cudes . .
+Physical Features of the Country .
+Physical and Mental Characteristics of the Finns
+The Mordvins
+
+The Ceremis .
+
+The Votiaks .
+
+Permians and Zjrians
+
+Table I. .
+
+Finnish Crania
+
+Tables IT. and III.
+
+Crania from the Baltic Provinces
+
+Table IV.
+
+Table V. . . . . .
+Table VI... ° . . . ;
+
+
+PAGE
+xill
+xiv
+
+xxiii
+
+
+X PRE- AND PROTO-HISTORIC FINNS
+
+
+CHAPTER II
+
+; PAGE
+The Neolithic Age in Finland oe 53
+Neolithic Man on the Shores of Lake Ladoga and Bastwards . 538
+Table VII. . . . . . . . . . 59
+The Station of Kolomts} : . . . . . . 65
+Finds in Olénets . . . . . . : . . 66
+The Valley of the Oké& . . . . . . . . 68
+The Valley of the Volga. . . . . . . . 73
+The Government of Viatka . . . . . . . 76
+The Government of Perm . . : . . 78
+Neolithic Period in the Baltic Provinces . . . . . 80
+
+
+General Conclusions . . . . . . . . 84
+The Bronze Age in Finland . . . . . . . 87
+
+
+The Bronze Age in Northern Russia. . . . . 89
+Fatianovo Crania . . . . . . . 92
+The Bronze Age in the Baltic Provinces . . . . . 95
+The Transition from Bronze to Iron . . . . . 96
+The Earlier Iron Age in Finland . . . . . . IOI
+The Earlier Iron Age in the Baltic Provinces . 2  » 103
+Table VIII. . . . . . facing 109
+The Earlier Iron Age in Eastern Russia . . . . . 117
+
+
+CHAPTER III
+Historical Notices of Classical Authors, etc. . . . . 126
+
+
+CHAPTER IV
+THE PREHISTORIC CIVILISATION OF THE FINNS
+The Gods and Divinities © 26 «© © « «6 -¢ 150
+ClanGods . .~ .© +-© «© +» 2© «© «6. 4 162
+Beliefs, Wizards . «© © » 6+ eee 168
+
+
+Ancestral Worship - 8 so 8 ew . 176
+
+
+CONTENTS
+
+
+The Family . .
+
+Classifactory System of Relationship
+
+Mutual Avoidance . . : .
+
+Personal Names
+
+The House, Domestic Occupations, etc. .
+
+The Metals . . . .
+
+Domestic Animals .
+
+Tree-Names .
+
+Reasons for supposing that the Finns have ‘been in Europe
+since the beginning of the Neolithic Period in North
+Central Russia . :
+
+Table IX., showing the Range of forty-nine Culture-Words
+
+
+CHAPTER V
+The Third or Iranian Period . . . : . . .
+The Volga, the old Trade Route
+
+
+The Fourth or Lithuanian Period .
+
+The Fifth or Proto-Scandinavian Period .
+Geographical Position of the West Finns at this time
+The Sixth or Early Slav Period
+
+The Seventh or Tatar Period .
+
+Loan- Words of the Mordvins .
+
+Loan-Words of the Ceremis .
+
+Loan- Words of the Votiaks .
+
+
+CHAPTER VI
+
+
+BELIEFS OF THE WEST FINNS AS EXHIBITED
+IN THE MAGIC SONGS
+
+
+Spirits . : ; . ° 2 . . . .
+Ukko .
+Ilmarinen . . . . . . . . : .
+
+
+271
+
+
+273
+278
+
+
+xi oPRE- AND PROTO-HISTORIC FINNS
+
+
+Vainamdinen . ‘ ‘
+Tapio and the Divinities of the Forest
+Hiisi .
+Lempo . ‘
+Water-Spirits—Ahti, Vellamo, ete.
+Earth-Spirits, Sdmpsd Pellervoinen
+Luonto (Nature)—Luonnotar . :
+Maidens of the Air, of Spring® etc. .
+Pohjola. . . ‘
+Lapland, Turja
+Personifications of Death—Kalme, Tuoni, Mana
+Sun, Moon, Great Bear . . :
+Elves, Brownies . .
+Giants—Tursas, Turilas .
+Rahkoi . e .
+Perkele, Piru
+God, the Creator .
+Jesus, Mary .
+Saints
+Kaleva . . ; .
+Wizards, Sorcerers, etc. .
+Disease . ‘ . .
+Inducements to depart -
+Places whither Diseases are conjured .
+Instruments . . .
+
+
+Defensive Precautions
+Helpers. . ‘ °
+Precedents .
+
+
+Blessing and Cursing . .
+Offerings, Worship
+
+
+THE VALUE OF ADDITIONAL LETTERS OF
+THE ALPHABET
+
+
+¢ in East Finnish =?¢s.
+
+@ =Eng. ch in choose.
+
+£ =.
+
+J =Eng. / in joke.
+
+#, #= Eng. ag in bring.
+
+3 =Eng. s& in shall.
+
+4 =French 7 in jour.
+
+x =k or ch in Sc. loch.
+
+Consonants with a dash over or beside them, «.g. 3’, ¢’, a’,
+are soft and followed by a slight y sound.
+
+g=a thick guttural s, the Russian yersé.
+
+y in Finnish words=4%.
+
+é before another vowel in Russian words=y in yam, yield.
+
+
+FULL TITLES OF BOOKS CONSULTED AND
+REFERRED TO
+
+
+ABou-EL-CassIM, Voyage d’, par M. C. D’Ohsson. Paris, 1828.
+AHLOQVIST, A. (1) Unter Vogulen u. Ostjaken. Hielsingfors, 1883.
+
+
+. (2) Muistelmia matkoilta Vendjilla vuosina 1854-58.
+Helsingissi, 1859.
+
+9 (3) Journ. de la Société Finno-ougrienne viii. Hel-
+singfors, 1890.
+
+
+AKIANDER, M. Utdrag ur Ryska annaler. Suomi, 1848. Helsing-
+fors, 1849.
+muinaismuisto-yhdistyksen aikakaus kirja V. Helsingissd, 1882.
+ARVOITUKSIA (Suomen Kansan). Helsingissii, 1851.
+ASPELIN, J. R. (1) Suomi, 1883.
+
+
+9 (2) Antiquités du nord Finno-ougrien. Helsingfors,
+1877-1884.
+
+” (3) Suomalais-ugralaisen muinaistutkinnon alkeita.
+Helsingissi, 1875.
+
+a (4) Du groupe arctique et les Lapons. Congrés
+intern. d’anthrop. et d’archéol. préhist. Buda-
+pest, 1876.
+
+- (5) Sur VPage de la pierre, etc. Congrés intern.
+
+
+d’anthrop. et d’archéol. Stockholm, 1874.
+
+
+BIELENSTEIN, Dr. A. Die Grenzen des Lettischen Volkstammes in d.
+Gegenwart u. in 13 Jabrhund. St. Petersburg, 1892.
+BoGDANOV, A. Congrés internat. d’archéol. préhist. et d’anthrapo-
+logie & Moscou. 1892, vol. i. pp. 1-23 (Supplément).
+BOHTLINGK, O. Ueber d. Sprache der Jakuten. St. Petersburg,
+1848.
+xiv
+
+
+=o — -
+
+
+BOOKS CONSULTED xv
+
+
+BRENNSOHN, Is. Zur anthropologie der Litauer. Dorpat, 1883.
+
+Bucu, Dr. Max. Die Votjaken, eine ethnolog. Studie. Helsingfors,
+1882.
+
+BucceE, Sopuus. Norges Indskrifter med. de zldre Runer. Chris-
+tiania, 1891.
+
+
+CasTrin, A. (1) Vorlesungen tiber die Finnische Mythologie. St.
+- Petersburg, 1853.
+(2) Nordiska Resor och forskingar. Helsingfors, 1852.
+CHWOLSSON Vv. KHVOLSON.
+
+
+De Frieury, ComTe Louis. Les cimetieres 4 compartiments de
+Pancien pays des Jadzwingues. Congr. intern. d’archéol. et
+d’anthropol. préhist., T. ii. Moscou, 1893.
+
+De HarRwzz, Cu. La religion nationale des Tatares orientaux, etc.
+1887.
+
+DONNER, QO. Suomalaisten ja Mordvalaisten yhteinen sivistyskanta
+ennen heidan eroamistaan toisistansa. Suomi, toinen jakso, 15 Osa.
+Helsingissa, 1882.
+
+Don, B. Mélanges asiatiques tirés du bull. de l’Acad. imp. des
+sciences de St. Pétersbourg, T. vii. 1873.
+
+DUsen, BARON von. Om Lappland och Lapparne. Ethnograf.
+Studier. Stockholm, 1873.
+
+
+Eprist, géographie d’, trad. par P. Amddée Jaubert. Paris, 1836.
+
+
+ForsMAN, A. V. Tutkimuksia suomen kansan persoonallisen nimis-
+ton alalla. Suomi, 1894.
+Friss, J. A. Lappisk Mythologi. Christiania, 1871.
+
+
+GANANDER, Cok. Mythologia Fennica. Abo, 1879.
+
+GAVRILOV, B. (1) Proizvedeniya narodnoi slovesnosti, obriadj i
+povieria Votiakav Kazanskoi i Viatskoi
+gubernii. Kazan, 1880.
+
+9 (2) Povieria, obriadi, i objéai Votiakov Mamadiésk.
+
+uiezda. Trudj tetvert. arkheolog. siezda v
+Rossii, Tom ii. Kazan, 1891.
+
+GENETZ, ARVID. (1) Worterbuch d. Kola-Lapp-Dialekte. Helsing-
+fors, 1891.
+
+
+xvi PRE- AND PROTO-HISTORIC FINNS
+
+
+GENETZ, ARVID. (2) Ost Tcheremissische Sprachstudien. Journ.
+de la Société Finno-ougrienne, Tom. vii.
+Helsingfors, 1889.
+» (3) Ensi tavaun vokaalit suomen, lapin ja mordvan.
+Suomi, Osa 13. Helsingissd, 1897.
+GEORGI. Description de toutes les nations de l’Empire de la Russie.
+2vols. St. Pétersbourg, 1776.
+GREWINGK, C. (1) Die Neolithische Bewohner v. Kunda in Estland.
+Verhandl. d. Gel. Est. Gesell. zu Dorpat.
+Bd. xii. Dorpat, 1884.
+” (2) Der schifformige Aschenfriedhof bei Tirsel in
+Estland. Verhandl. d. g. Est. Ges. Bd. xiii.
+Dorpat, 1888.
+- ' (3) Erliuterungen zur Karte d. Stein-, Bronze-, und
+ersten Eisenalters von Liv-, Est-, und Kurland.
+Dorpat, 1884.
+(4) Verhandl. d. g. Est. Gesell. Bd.ix. 1879.
+GRIEsBACH, A. La végétation du globe, trad. par P. de Tchihatcheff.
+Paris, 1875.
+GROTENFELD, K. Herra Martin maanlain suomennos. Virittaja
+ii. Porvossa, 1886.
+
+
+HARKAVI, A. Y. Skazaniya musulmansk. pisatelef o Slavianakh i
+Russkikh. S,. Peterburg, 1870.
+HAUSMANN, Dr. (1) Grabfunde aus Estland. Revel, 1896.
+
+
+»» (2) Katalog d. Ausstellung z, X archdolog. Kon-
+gress in Riga, 1896.
+HEIKEL, Dr. A. O. (1) Suomen Museo, 1894. Helsingissi, 1894.
+> (2) Antiquités de la Sibérie occidentale dans les
+musées de Tomsk, Tobolsk, etc. Hel-
+singfors, 1894.
+HEIN, RICHARDOS. Incantamenta magica graca latina. Lipsiee,
+MDCCCXCII.
+
+
+HYLTEN-CAVALLIUS, G. O. Warend och Wirdarne. Stockholm,
+1864.
+
+
+InN BATUTA’S Travels in Egypt. Translated by Professor Lee. 1829.
+INOSTRANTSEV, A. Doistori¢eskii ¢eloviek kamennago vieka pober-
+eZia ladotskago ozera. S. Peterburg, 1882.
+
+
+BOOKS CONSULTED xvii
+Jaxnes, A. Virittaja ii. p. 171. Porvossa, 1886.
+
+
+KALEVALA. Stereotyped edition with notes. Helsingsfors, 1894.
+
+Kyarouzin, A. Obzor doistorideskol arkheologii v Estlandskol,
+Liphlandskof i Kurlandsko! guberniakh. Vremennik Estlandsk.
+Gubernii, Kn. i. Revel, 1894.
+
+KHVOLSON. (Ibn Dasta, izdal, perevel i obiasit D, A.) S. Peter-
+burg, 1869.
+
+KILLINEN, K. Muinaisjannéksid ja muistoja Sortavalan Kihlakun-
+nassa, Suomen muinaismuisto-Yhdistyksen Aikauskirja, xi.
+Helsingfors, 1890.
+
+Kress, Dr. R. Der Bernsteinschmuck d. Steinzeit v. Schwartsort,
+etc. Kénigsberg, 1882. ,
+
+KosertT, Dr. RUDOLF. Historische Studien aus d. Pharmakolog.
+Institute d. K. Univers. Dorpat. Halle a. S., 1894.
+
+KOSKINEN, Y. Suomalaisten heimokuntain siirtymisestd Itameren
+rannikoille, historialliset tiedot. Suomi, Toinen jakso, 15 Osa.
+Helsingissa, 1882.
+
+KuprgiavTsev. Les Vestiges de l’homme préhist. de l’Age de pierre
+prés du Volosovo. Congres intern. d’arch. et d’anthrop. préhist.,
+vol. ii. Moscou, 1893. .
+
+
+LissavgER, Pror. (1) Crania Prussica.  Zeitschr. f. Ethnologie,
+Berlin. Bd. vi. 1874.
+
+3° (2) Crania Prussica. Zeitschr. f. Ethnologie,
+Berlin. Bd. x. 1878.
+
+
+Marxov, L. N. Velikorusskiya zaklinaniya. Zapiski imp. russk.
+geogr. obitestva, Tom ii. S. Peterburg, 1869.
+Marnov, V. (1) Rezult. antrop. izslied. sredi Mordvj-Erzi. Zapiski
+imp. russk. geogr. ob&testva, Tom xi. S. Peter-
+burg, 1883.
+- (2) Mordvalaiset kisitteet sukulaisuuksista. Suomi,
+1890. Helsingissa.
+» (3): O&erk yuridiéesk. vita Mordvj. S. Peterburg,
+
+
+1874.
+MAa.igv, N. (1) Antropologiteskif oferk plemeni Permiakov. Kazan,
+1887.
+I
+
+
+xviii PRE- AND PROTO-HISTORIC FINNS
+
+
+MALIRv, N. (2) Materiali dlia sravitelnoi antropologii. Kazan,
+1874.
+MANNHARDT, W. (1) Der Baumkultus d. Germanen u. ihrer Nach-
+barstimme. Berlin, 1885.
+(2) Antike Wald- und Feld-Kulte. Berlin, 1877.
+
+MARCIANUS, HERAKLEOT#. Periplus. Geog. minores Greci, Edid.
+Hoffmann. Lipsis, 184r.
+
+MARTIN, F. R. (1) L’age du bronze au Musée de Minoussinsk.
+
+Stockholm, 1893.
+* (2) Die Sammlung F. R. Martin. Stockholm,
+1895.
+
+MIKHAILOVSKII, Pror. V. M. Shamanism in Siberia and Europ.
+Russia. Journ. of the Anthrop. Institute, vol. xxiv. London,
+1894.
+
+MIKKOLA, Dr. J. J. Beriihrungen zwischen d. West Finnisch. u.
+Slavischen Sprachen. Helsingfors, 1894.
+
+MIKLOSICH, Fr. Etymolog. Worterbuch d. Slavischen Sprachen.
+Wien, 1886.
+
+MONTELIUs, O. (1) Les temps préhistoriques en Suéde, trad. par
+
+S. Reinach. Paris, 1895.
+
+
+” (2) Congrés intern. d’anthrop. et d’archéol. préhist.
+Stockholm, 1876.
+9 (3) Sur le prem. Age du fer dans les prov. Baltiques
+
+
+et en Pologne. Congrés intern. d’anthrop. et
+d’archéol. préhist. Budapest, 1876.
+MULLER, S. Vor oldtid, en populzr fremstilling af Danmarks arkeo-
+logi. Kobenhavn, 1894.
+MonkKAcsi, Dr. B. (1) Ueber die heidn. Religion d. Vogulen.
+Ethnolog. Mitteilungen aus Ungarn,
+Bd. iii. Budapest, 1894.
+(2) Prehistorisches in d. magyarisch. Metall-
+namen, Eth. Mitt. aus Ungarn. Bd. iv.
+Budapest, 1895.
+(3) Votjak nyelvmutatvdnyok. Budapest, 1884.
+
+
+Nyman, A. L. Kuinka Suomen kivikauden kalusto jakaantuu
+muototutkimusten mukaan. Suomi, Helsingissi, 1882.
+
+
+O, K.=(OLD) KALEVALA, Ist edition. Helsingfors, 1835.
+
+
+BOOKS CONSULTED xix
+
+
+Osrrovsx!. Votjakit. Kieletir, toinen nidos. 1 annos. Helsingissd,
+1875.
+
+
+PAASONEN, H. (1) Kielellisid lisii suomalaisten sivistyshistoriaan.
+Suomi 3 jak. 13 Osa. Helsingissd, 1897.
+* (2) Die tiirkischen Lehnworter im Mordwinischen.
+Journ. de la Soc. Finno-ougrienne xv. Hel-
+singfors, 1897.
+> (3) Proben d. mordwin. Volkslitteratur. Journ. de
+la Soc. Finno-ougrienne xii. Helsingfors,
+1894.
+PApal, Dr. Der Typus der Ugrier. Ethnolog. Mitteilungen aus
+Ungar, Bd. iii. Budapest, 1894.
+Paris, L. La chronique de Nestor. Paris, 1834.
+PATKANOV, S. (1) Tip ostiatskago bogatjria po ostiatsk. bjlinam i
+geroicesk. skazaniyam. S. Peterburg, 1891.
+9 (2) Die Irtysch Ostjaken. Th. i. St. Peterburg,
+1897.
+PERVUKHIN, N. G. Materiali po arkheologii vostoénjkh gubernii
+Rossii, Vipusk ii. Moskva, 1896.
+Pourakov, J. S. (1) Ethnog. nabliud. na yugo-vostok Olonets.
+gub. Zapiski I. Russk. geogr. obédéestva,
+Tom iii. S. Peterburg, 1873.
+
+” (2) Izsliedovania po kamenn. vieku v Olonetsko!
+gubernii. Zap. imp. Russk. geog. obséestva
+po otd. Etnog. Tom x. S. Peterburg,
+1882.
+
+PorRKKA, V. Tscheremissische Texte mit Uebersetsung. Journ. de
+la Société Finno-ougrienne xiii. Helsingfors, 1895.
+
+PTOLEM#I, CLAUDII. Geographiz. Edid. Dr. Fr. G. Wilberg.
+Essendiz, MDCCCXXXVIII.
+
+
+Raptorr, Dr. Wm. Aus Siberien. 2 vols. Leipzig, 1884.
+Retsius, G. (1) Finska kranier. Stockholm, 1878.
+
+” (2) Matériaux pour servir 4 la connaissance des cha-
+ractéres ethniques de la race Finnoise. Congrés
+intern. d’anthrop. et d’archéol. préhist. 7° session.
+Stockholm, 1874.
+
+
+XX PRE- AND PROTO-HISTORIC FINNS
+
+
+RyGH, O. Sur la groupe arctique de l’4ge de la pierre polie en
+Norvége. Congrés intern. d’anthrop. et d’archéol. préhist.
+Stockholm, 1874.
+
+
+SAVENKOV, J. Congrés intern. d’archéol. et d’anthrop. préhist. &
+Moscou, Tom. ii. 1893.
+
+SCHIEMANN, Dr. CH. Russland Polen u. Livland bis ins 17 Jahrh.,
+vol. i. Berlin, 1886.
+
+SEMENOV, T. Ceremisj. Etnograficeski oterk. Moskva, 1893.
+
+SETALA, E. N. (1) Yhteissuomalaisten klusiilien historia. Hel-
+
+
+singissi, 1890.
+
+(2) Ueber quantitatswechsel im finnisch-ugrischen.
+Journ. de la Soc. Finno-ougrienne, xiv.
+1896.
+
+SrEvers, Count C. G. (1) Ausgrabungen des Rinnehiigels. Zeit-
+schr. f. Ethnologie. Bd. vii. (1875).
+Berlin.
+
+(2) Forschungstour im Lett. Gebiet an der
+Oger u. Ewst. Zeitschr. f. Ethnologie.
+Bd. xi. (1879). Berlin.
+
+SJGGREN, J. AND. Gesammelte Schriften. St. Petersburg, 1861.
+
+SMIRNOV, J. N. (1) Ceremisj. Istoriko-etnograf. oerk. Kazan, 1889.
+
+
+2» (2) Votiaki. 9 » » 1890.
+” (3) Permiaki. ry) ” », 189%.
+” (4) Mordva. ”9 Y) » 1895.
+
+
+SNELLMAN, A. H. Itameren suomalaiset itseniisyytensd aikana.
+Suomen muinaismuisto-yhdistyksen aikakauskirja, xvi. Helsin-
+gissd, 1896.
+
+SOMMIER, S. (1) Sirieni, Ostiacche e Samoiedi dell’ Ob. Firenze,
+
+1887.
+(2) Note di viaggio (Arch. per l’antrop. e la Etnologia,
+xviii. and xix.), Firenze, 1889.
+” (3) Un’ estate in Siberia. Firenze, 1885.
+
+SPITs{N, A. Materialj po arkheologiY vostoénjkh gubernif Rossif-
+Priuralskii kraY¥. Moskva, 1893.
+
+SpROGIS, J. Pamiatniki latiiskago narodnago tvordcestva. Vilna,
+1868.
+
+Sruxenperc, A. iN. Vjsotskji. Materialj dlia izuceniya kamen-
+nago vieka v Kazanskof gubernii. Kazan, 1885.
+
+
+BOOKS CONSULTED xxi
+
+
+TaRgneTzKY, A. Beitrage zur Craniologie d. Grossrussischen Be-
+volkerang. Mém. de l’Acad. imp. des sciences de St. Péters-
+bourg, vii serié., Tom. xxxii. No. 13. St. Pétersbourg, 1884.
+
+TEPLOUKHOV, TH. A. (1) VeSéestvennie pamiatniki kamenn. i
+
+bronzov. vieka v zapad. éasti Permsk.
+gubernii. Trudj Permsk. Uéen. Arkhiv.
+Komissii, vjp. 1. 1892.
+
+” (2) Drevnosti Permsk. ¢Cudi iz serebra i
+zolota i eya torgov. puti. Permskif
+Krai, Tom. iii. Perm, 1895.
+
+99 (3) Drevnosti Permsk. cudi v vidie bas-
+nolovnikh liudel i Zivotnjkh. Permskil
+Krai, Tom. ii. Perm, 1893.
+
+Texnvo, W. M. Metsastys tietoja Kajaanin kihlakunnasta ja etinkin
+Sotkamon pitajasta. Helsingissa, 1893.
+
+THOMSEN, VILH. (1) Beréringer mellem de finske og de baltiske
+
+(litauisk-lettiske) Sprog. Kébenhavn, 1890.
+» (2) Ueber d. Einfluss d. german. Sprachen auf d.
+Finnisch-Lappischen. Halle, 1870.
+
+TiscHLER, Dr. O. Die neuesten Entdeckungen aus d. Steinzeit im
+ostbaltisch. Gebiet. Schrift. d. phys.-dkonom. Gesells. xxiii.
+
+TOMASCHEK, WM. (1) Sitsungs Berichte d. k. Ac. d. Wissensch.
+
+phil. hist. Classe Bd. cxvi. (1888). Wien.
+” (2) Bd. cxvii. (1889). Wien.
+
+
+UsraLvy De Mxrz6-K6vesp, E. pz. Les Bachkirs, les Vépses et les
+antiquités finno-ougriennes et altalques. Paris, 1880.
+
+
+VERESCAGIN, G. Votiaki sosnovskago kraya. S. Peterburg, 1886.
+VircHow, Dr. (1) Archdolog. Reise nach Livland. Zeitschr. f.
+Ethnologie, Bd. ix. (1877). Berlin.
+- (2) Livlandischer Schidel. Z. f. Ethnol., Bd. x.
+(1878). Berlin.
+. (3) Zeitschrift f. Ethnologie, Bd. xi. (1879). Berlin.
+VisKOVATOV, P. Piukhtitskoe drevnee kladbi&e. Vremennik Est-
+liandsk. gubernii. Revel, 1894.
+
+
+WICHMAN, Y. (1) Tietoja Votjaakien Mytologiiasta. Suomi. Hel-
+singissa, 1893.
+
+
+xxii PRE- AND PROTO-HISTORIC FINNS
+
+
+WIcHMAN, Y. (2) Suom. vaski sanan vastineet permiliisissé Kielissa.
+Virittaja, 2. Helsingissa, 1897.
+» (3) Wotjakische Sprachproben. Journ. de la Soc.
+Finno-ougrienne, xi. Helsingfors, 1893.
+YANTCHOUK, N. L’Anthropologie, Tome 3 (1892). Paris, 1892.
+
+
+YuLE, COLONEL H. The Book of Ser Marco Polo, the Venetian.
+London, 1875.
+
+
+Zeuss, K, Die Deutschen u. die Nachbarstamme. Milinchen, 1837.
+
+
+ILLUSTRATIONS
+
+
+. Silhouette of a Seal from Ladoga. Inostrantsev, Table x1. No. 1.
+
+
+Muzzle of a Dog or Bear from Ladoga. Inostrantsev, p. 210.
+
+A Carved Piece of Bone from Ladoga. Inostrantsev, Table x1.
+No. 2.
+
+Human Silhouette in Flint from Volésovo. Kudriavtsev, Fig. 17.
+
+Human Silhouette in Flint from Volésovo. Kudriavtsev, Fig. 18.
+
+Silhouette of a Goose in Flint from Volésovo. Kudriavtsev, Fig. 19.
+
+Silhouette of a Badger in Flint from Volédsovo. Kudriavtsev,
+Fig. 20.
+
+
+- Modern Vogul Idol in Wood. From a Sketch by the Author.
+
+
+Copper Human Mask from Galit. From Aspelin, No. 299.
+
+Bird-God from a Grave in the Government of Tomsk. Sketch
+by the Author.
+
+Copper Statuette of a Man from Galig. From Aspelin, No. 299.
+
+
+- Copper Statuette of a Man from the Government of Perm.
+
+
+Aspelin, No. 304.
+Ormmamented Bronze Knife. From a Photograph.
+
+
+. Bronze Button from Ananino. From a Sketch by the Author.
+. Bronze Button from Koban. From a Sketch by the Author.
+
+. Earring from Gliadénova. From a Photograph.
+
+. Head of a Man in Bronze. From a Sketch by the Author.
+
+. Ornamented Stone Whorl. Spitsjn, Table x. No. 12.
+
+. Bronze Cheek of a Bit from Ananino. From Aspelin, No. 474.
+. Two Human Figures in Bronze. From a Photograph.
+
+. Human Figure.
+
+. Head and Shoulders of a Bear. From a Photograph.
+
+. Bird with Human Face on its Breast. ,, ”
+
+. A Bear in Bronze. From a Sketch by the Author.
+
+. Upper Part of a Water-Bird. From a Photograph.
+
+
+xxiii
+
+
+XXIV PRE- AND PROTO-HISTORIC FINNS
+
+
+FIG.
+
+26. Bird with Human Face on its Breast. From a Photograph.
+27. Double Bird. » y
+
+28. Three-headed Bird (?). - ys
+
+29. Double Bronze Button. ” -
+
+30. Man on Horseback. - ¥
+
+31. Man riding on an Animal. " -
+
+32. Circular Disc with Rings. ”
+
+
+33. Circular Bronze Disc, with incised Ornaments.
+Excavations at Gliadénova, with Mr. Novokre&ennjkh in Middle |
+Distance. From a Photograph by the Author. (Opp. p. 68.)
+Excavations at Gliadénova, with the Kama in the Distance. From
+
+a Photograph by the Author. (Opp. p. 118.)
+The Sand-Dunes of Volésovo. From a Photograph by the Author.
+
+
+(Opp. p. 118.)
+
+
+MAPS
+
+
+. Finland.
+
+. The Baltic Provinces, showing where Crania have been discovered .
+. The Baltic Provinces, showing Archzological Finds.
+
+. Russia in Europe.
+
+
+PW WH om
+
+
+ak
+FINLAND
+Scale of Miles
+= = |
+» ad
+3 7 on,
+- iar
+
+
+Foes
+.
+%
+$
+i
+
+
+N ° ;
+° ; .
+
+
+Best 26 of Greenwich 2A
+
+
+WRAs -ometen Raeveh
+
+
+STA Fo Seog
+
+
+AGAI oy wasqe pana weeq axed wyUBE) OTK
+
+
+SAHONIAOUd OLLTVE
+
+
+or Margrwi, af A "
+ant. —t~—- -- _ ~~ On A)
+
+
+Fic. 1
+
+
+Fic. 2. Fie. 3.
+
+
+Fic. «
+
+
+Fic. 5.
+
+
+Fic. 8.
+
+
+Fic. 9.
+
+
+Fic, 10.
+
+
+Fis.
+
+
+13
+
+
+Fi. 14.
+
+
+Fra
+
+
+Fic. 17.
+
+
+Fig. 15.
+
+
+Fic, 38.
+
+
+Fic. 19.
+
+
+Fie. 23.
+
+
+Fic. 25.
+Fie. a4.
+
+
+Fig 26.
+
+
+Fic, 28.
+
+
+Fic. a7.
+
+
+Fic. 29.
+
+
+Fig. 30.
+
+
+Fic. 31.
+
+
+Fic. 32.
+
+
+op (|
+
+
+PRE- AND PROTO-HISTORIC FINNS
+
+
+CHAPTER I
+
+
+GEOGRAPHICAL POSITION AND CRANIOLOGY OF
+THE FINNS
+
+
+As the main object of this work is an examination of the
+magic songs of the Finns, it may seem at first sight that
+most of the first volume is little more than a superfluity,
+unnecessarily heavy baggage that had better have been
+left behind. But from a point of view that may quite
+legitimately be held this is not the case. The Finns of
+Finland form only a large fraction of the Western
+Finns, and eastward of these live several groups that are
+commonly termed Eastern Finns, such as the Ceremis,
+Mordvins, Votiaks, and Zirians. Philologists maintain,
+that to account for a certain community of structure and
+vocabulary, the different languages spoken by these peoples
+must originally derive from a common source; that once
+they must have lived much closer together than they do
+at present. But as community of speech does not
+necessarily carry with it community of race, it Is necessary
+to give some of the craniological data that have accumu-
+lated during the last few years, not only to show how far
+race and language coincide, but also to help to determine
+whether certain prehistoric skulls, found in an area now
+inhabited by Finns, belonged to a Finnish or to a
+I A
+
+
+2 PRE- AND PROTO-HISTORIC FINNS
+
+
+European race. It is a commonplace remark that to
+understand and appreciate the present we must know as
+much as possible about the past. Properly to understand
+the magic songs of the Finns, to be able to separate the
+contents into something like a chronological series, to be
+able to say for certain that such and such a portion is
+of genuine Finnish origin and growth, while another is
+merely a Finnish graft on a foreign stock, necessitates
+some general notion of the past history of the Eastern
+and Western Finns. In the narrower sense of the word
+history this is impossible. But with the help afforded by
+philology and archeology it is possible to distinguish
+certain broad phases in their past career. Merely with
+their aid we are enabled to discriminate seven epochs,
+each marking some advance in ideas and civilisation in
+the past history of the Eastern and Western Finns. The
+first of these epochs may take us back some three thousand
+years, whereas documentary history only accounts for about
+a quarter of that time, and for our purpose can almost be
+left out of consideration. In Folk-lore the Finns take an
+important place, and as I believe that in this country
+not very much is known about the Eastern groups and
+their exact relation to the Western, the first volume of
+this work may serve as a general introduction to a
+knowledge of all the pre- and proto-historic Finns in
+Europe, viewed as an organic whole, though now broken
+up into isolated groups. It need hardly be said that in
+trying to reconstruct the unrecorded history of a people
+on the basis of facts furnished by philology, archeology,
+and other branches of knowledge, there is nearly always
+an ill-starred vein of uncertainty traversing every con-
+clusion at which we may arrive; and it affords only a
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 3
+
+
+modicum of comfort to remember that the same is true
+of nearly all documentary history that reposes on the
+evidence of only one or two witnesses. All that we can
+
+
+_generally expect, then, is to reach conclusions that are
+
+
+probable from the present standpoint of knowledge, and
+to feel fortunate when that humble aim can be attained;
+for in the course of our inquiry many questions will present
+themselves that can only be answered, if at all, with many
+reserves. The only consolation is that it will not always
+be so. The work of the trained students now labouring in
+the fields of prehistoric archeology and Finnish philology
+will some day bear fruit, and to future generations much
+that is now obscure, or even quite dark, in the history of
+the past, will become distinct, or at least comparatively
+clear.
+
+
+GEOGRAPHICAL POSITION OF THE WESTERN FINNS.
+
+
+The Finns of Finland (Swom#) call themselves Suoma-
+faiset, and are broadly divided into two branches, the
+Tavastlanders (Hdmdldiset) and the Karelians (Xarya-
+faiset). The former occupy the south-west of Finland;
+the latter fill not only the northern and eastern parts of
+the country, but stretch into Russia as far east as the
+west coast of Lake Onega, and thence in a straight line
+northwards to the White Sea. The Finns, however, are
+not the only inhabitants of the Grand Duchy. Along
+the west coast from Bothnia, southwards and along the
+south coast as far as the Russian frontier, there is a
+fringe of country inhabited by a Swedish-speaking people,
+forming about 14 per cent. of the whole population, the
+descendants, for the most part, of Swedish settlers that
+
+
+4 PRE- AND PROTO-HISTORIC FINNS
+
+
+have arrived at various unrecorded periods. Though there
+is no natural boundary to the north between the Finns and
+Lapps, the latter are not now found within the limits of the
+Grand Duchy save in the district round Lake Enare.
+
+Formerly the Finns covered a still larger area than at
+present. In the middle of the ninth century we learn
+from Ohthere’s account to King Alfred that Qvens (Kainu-
+daisef, a Karelian tribe) lived somewhere in the north of
+Sweden. Using light portable boats, they took advantage
+of the long narrow lakes to get far up country, then crossed
+the Fells and made raids upon the Northmen, who some-
+times retaliated. In the north of Sweden the old name
+survives in the Kalix river, which is known to the Finns as
+Kainuhunjoki, or the Qven river. Far to the east the same
+explorer found the mouth of the Northern Dvina well
+populated by a people he calls Beormas, who are generally
+believed to have been Karelians. At any rate, according
+to Sjogren an examination of the place-names in the
+government of Archangel reveals the fact that Karelians
+once resided not only at the mouth of the river, and as far
+south as the district of Senkursk, the most southern district
+in the above government, but also as far east as the basins
+of the Pinega and the Mezen, and that as late as the
+fifteenth century the south coast of the White Sea was
+termed by the Russians ‘the Karelian coast.’?! Under
+various names three small groups of Karelians are found
+in Ingria, which forms the northern and north-western part
+of the government of St. Petersburg. They are believed
+to have migrated from Finland at the end of the eleventh
+or the beginning of the twelfth century.
+
+Beyond the limits of the Grand Duchy live three other
+
+
+1 Sjogren, pp. 290, 292, 323, 390.
+
+
+oe
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 5
+
+
+divisions of the Finns: the Vepsas or Northern Cudes, the
+Votes (Vatjalaiset) or Southern Cudes, and the Esthonians
+(Virolaiset). The Northern Cudes occupy the north-west of
+the Bielozersk and the west of the Tikhvinsk districts, all
+the upper basin of the Ojat, and eastwards into Vitegorsk.
+Sjogren estimated their number at fully 21,000, though
+formerly they were more numerous. From documentary
+and other evidence there is reason to believe, that, in the
+eleventh century, Finns, known to the Russian chronicler
+as Em, Yem, lived on the east side of Lake Onega, where
+abundant traces of their presence have been left in local
+names. There is written testimony to the effect that as late
+as the middle of the thirteenth century Cudes (Vepsas) and
+Karelians lived on the north-east of Lake Kubinsk, in the
+government of Vologda. And in the middle of the four-
+teenth century a Russian monk, who founded a monastery
+at the south-east corner of Lake Onega, mentions that
+Cudes and Lapps lived in the vicinity of the lake.?
+
+It is generally believed that the Vepsas, from their
+name and geographical position, represent the Ves of the
+Russian chronicle, a people that dwelt near Lake Bielozero.
+This seems probable enough, but since the time of Fraehn’s
+edition of Ibn Fozlan they are also identified with the
+Visu of Arab travellers of the tenth and eleventh centuries.
+Fraehn, however, was misled by the similarity of the names
+Ves, Visu (Isu, Isui). Ibn Fozlan merely says that the
+Visu lived at a distance of three months’ journey from
+Bolgari, but Abu el Kassim, who visited Bolgari later,
+relates that he had been informed by the king of the
+Bolgars that a people called Visu lived at a distance of
+three months’ journey to the orth of his country, and that
+
+1 Sjgren, pp. 469, 292, 507, 509.
+
+
+6 PRE- AND PROTO-HISTORIC FINNS
+
+
+with them the night in summer did not last even an hour
+He adds that the Visu are adjacent to the country of the
+Yura (Ugra, Ugrians), which is bounded by the Sea ot
+Darkness.! The only possible route to the north from
+Bolgani lay up the Kama, the Kolva, the ViSerka, through
+Lake Cusovoe to the head of the Vogulka, where a short
+portage (volok) of about four and a half miles brings the
+traveller to the Voldsnitsa, a navigable tributary of the
+Petéra. Descending the river, he would at length reach
+the Usa, about lat. 66° N. As at lat. 66° 19’ the night at
+the summer solstice is just about an hour long, the position
+of the Usa suits to a nicety the position of the Isu or
+Visu, according to the indications of Abu el Kassim. It
+may also be observed that up the Usa lies the regular route
+to Obdorsk, at the mouth of the Ob, then in the hands
+of the Yura or Ugrians of whom he makes mention. In
+all probability, then, the Isu or Visu were the same as the
+Petérans of Nestor and early Russian chroniclers, and are
+now represented by the Zirians.
+
+The Votes are now restricted to about thirty parishes in
+the north-west of Ingria. They are first mentioned by
+Nestor in 1069, and probably occupied the whole of Ingna
+till partly dispossessed by Karelians from Finland and by
+Russians from the south. The Esthonians call themselves
+‘Country people’ (ma més, ma rakvas), and are found in
+Esthonia (Vivo) and the north of Livland nearly as far
+south as the river Salis, as well as in the islands of Dago
+and Oesel. The old Finnish inhabitants of West Livland
+and North Kurland have been almost entirely absorbed by
+the Letts, and their language is almost extinct, save along a
+narrow fringe of coast between Domesness and Lyserort.
+
+1 Abou el Cassim, pp. 8r, 82.
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 7
+
+
+GEOGRAPHICAL POSITION OF THE EASTERN FINNS.
+
+
+From a linguistic point of view the Mordvins (Mordod)
+stand nearest to the Western Finns. Though now in a
+highly dispersed condition they occupy a considerable area
+in the governments of Nizegorod, Kazdn, Tambov, Penza,
+Simbirsk, and Sardtov on the west side of the Volga, and
+of Ufa and Orenburg on the east side. They are divided
+into two great divisions, the Mok&a and the Erza, who
+predominate numerically. The latter occupy the south
+part of Nizegorod and Simbirsk, and extend into the govern-
+ments of Tambov and Penza. They also constitute the
+principal contingent of the Mordvin population in the
+steppes beyond the Volga in the governments of Samara,
+Ufa, and Orenburg. The country on the west side of the
+Volga, where the Mordvins dwell, is still partly covered
+with huge forests, largely composed of deciduous trees, such
+as the oak, lime, maple, ash, etc.; and as late as the
+seventeenth century elks were hunted in the forest and
+beavers tenanted the streams.!
+
+From an examination of the place-names Professor
+Smimov has arrived at the conclusion that the original
+territory of the Mordvins was bounded on the north by the
+Volga, on the west by the Oka, the MokSa, and the Tsna,
+on the east by the Sura, while southwards they once
+occupied the governments of Orél, Kursk, and Vordénez.?
+Under the form ‘Mordens’ the Mordvin name first
+appears about the middle of the sixth century in a catalogue,
+given by Jordanes, of the peoples subjugated by Ermanaric,
+king of the Goths, about two hundred years earlier.
+Though their geographical position is in no way defined, it
+
+4 Smirnov, (4) pp. 117, 118. 3 Jbsd. (4) p. 15; (x) p. 12.
+
+
+8 PRE- AND PROTO-HISTORIC FINNS
+
+
+seems likely that at any rate as early as the fourth century
+the Mordvins lived west of the Volga, though perhaps a
+little further south than at present. A proof that they
+have long been settled in the vicinity of the Volga is the
+fact that they call it the Rav, evidently the same as the
+Rha of Ptolemy.
+
+The Ceremis call themselves Mari, ‘people.’ According
+to Zolotnitski the word Ceremis is from the Turkish
+Cirmes, ‘warlike,’ which corresponds formally with the
+Cuva’ Syarmis, the term this people applies to the Ceremis.
+This name, under the form Tsarmis, is believed to occur
+for the first time in a letter addressed by Joseph, prince of
+the Khozars, to the vezir of the Khalif Abdurrahman 11. in
+the year 960. No details, however, are given; they are
+merely mentioned in a list of tributary peoples living
+along the Volga! For the most part they live on the
+left or low bank of the Volga, with the Vetluga as their
+western boundary; along the Volga they extend nearly to
+Kazan, then northwards to the Vidtka in the neighbour-
+hood of Urzum, and thence westwards to the Vetluga.
+The Hill Ceremis, so called from living on the high or right
+bank of the Volga, are confined to the south-west corner
+of the government of Kazan. Besides these there are
+small isolated groups on the Kama in the districts of
+Elabuga and Sarapul; also in the government of Perm, as
+well as on the Biélaya and its tributaries. Altogether they
+are believed to number over 242,000 souls. Their name
+for the Volga is the Yul.
+
+Professor Smirnov, basing himself on the chronicle of
+Nestor, places the original seat of the Ceremis on the Okd,
+and brings them as far southwards as Spask (Riazan), and
+
+1 Semenov, p. 1.
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 9
+
+
+eastwards as far as Saransk (Penza). Their eastern boundary
+was the Sura. Within this area he finds a number of
+place-names ending in -mar, ‘people,’ -nur, ‘field,’ -iner,
+-ener, ‘tavine, river,’ and Aust, which he ascribes to this
+people. From this position he supposes they were
+gradually pushed north by the Mordvins, who lay imme-
+diately to the south of them; for an examination of the
+place-names shows that the Ceremis formerly covered
+almost the whole of the existing government of Kostroma
+north of the Volga at a time when their eastern boundary
+was the Vetluga. In the fourteenth and fifteenth centuries
+some of the Geremis probably still lived in the northern
+part of the government of Kostroma, but from the four-
+teenth century they began to be dislodged by the in-
+coming Russians. The new country finally settled by the
+is was not a desert. Before their arrival all larger
+rivers had received names which are not Ceremisian.?
+
+The Votiaks, who call themselves Ud-murt, or Urt-murt,
+occupy a large tract of county east of the Vidtka, in
+the upper basin of the river Ceptsa as far west as the
+Kosa, and a large portion of the south-east corner of the
+government of Vidtka. They are also found in the govern-
+ment of Ufd, but appeared as new-comers from the banks
+of the Kama not earlier than the sixteenth century. An
+examination of the placenames shows, according to
+Smirnov, that the Votiaks originally lived further north,
+south, and west than we find them at present; within the
+government of Vidtka as far north as the district of
+Slobodsk, and west of the Vidtka as far as Yaransk, where
+
+mis are now found. Their villages extended even be-
+yond the limits of Vidtka as far north as Sisolsk (Vologda)
+
+
+1 Smirnov, (1) pp. 10-19.
+
+
+10 PRE- AND PROTO-HISTORIC FINNS
+
+
+and as far west as Nikolsk (Kostroma). From their
+older positions west of the river Vidtka and the adjoining
+districts in the governments of Vologda and Kostroma, they
+gradually moved east and south-east, where they met Cudes,
+whom they partly absorbed and partly drove beyond the
+western limit of Perm. The appearance of Russian
+colonists in the government of Vologda belongs to the end
+of the eleventh century, and probably caused the eastward
+migration of the Votiaks.}
+
+The Permians and Zirians to all intents and purposes
+may be treated as one people. They speak a language
+mutually intelligible, and both call themselves Xoms.
+But Permian is more strictly applied to those settled on
+the right bank of the Upper Kama, in the districts of
+Cérdin and Solikamsk, called Great Perm collectively,
+but by the natives Kom-mu, or ‘land of the Komi.’
+Zirlans are met with at various points on the upper course
+of the Vitegda, with its tributaries as far west as Ust-Vim,
+formerly known as Old Perm ; in a north-westerly direction
+on the upper course of the Mezen and its tributary the
+VaSka ; also on the [Sma and the Petéra as far north as
+Ust-I8ma. There are also some on the Lower Ob beyond
+the Ural chain. According to older estimates they num-
+bered over 162,000, but Dr. Sommier only allows them
+about 85,000 on this side the Urals and ro0o on the Ob.
+
+Formerly the Zirians seem to have extended much
+further west and north-west than at present. Both Sjogren
+and Smirnov, relying mainly on river-names, find traces of
+the Permians in the south-west corner of the government
+of Vologda in the districts of Totma, Vologda, Gridzovets,
+and Velsk, though mixed with Finnish traces; northwards
+
+1 Smirnov, (2) pp. 8-13.
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 11
+
+
+in the basin of the Pinega, where Sjogren found Permian
+names that were afterwards altered by Finns; and thence
+northwards to the ocean. Both authors find Permian
+names attached to western tributaries of the Dvina; in fact
+SjOgren would derive the Finnish name for it—Viena—
+from a Zir. ovina, ‘powerful.’ Everywhere in the region
+of the Lower Dvina Finnish and Permian names seem to
+be found side by side. The southern boundary of the
+Permians is harder to fix, though towards the east there
+are no traces of them south of the Silva or of the Volga.
+In a south-westerly direction the difficulty really begins.
+Smirnov, who receives some support from Sjogren, believes
+that river-names in the government of Kostroma, Vlad{mir,
+and Moscow, such as Kostroma (there is another in the
+government of Vidtka), Vidzma, Ukhtoma, Klidzma, Moskva,
+Protva (another in Ust-Sisolsk), etc., are of Permian origin.?
+Though it is very unsafe to rely solely on terminations like
+-ma and -va in attempting to fix ethnic boundaries, it is a
+fact that a bone arrow-head, metallic brooches, beads, and
+other objects reminding us of those found in graves in the
+government of Viatka, Perm, and Kazan, have been dis-
+covered in the prehistoric fort of Didkovo near Moscow.?
+That the Zirians were not the only inhabitants of the
+eastern part of the government of Vologda when the
+Russians first came to know the province, is shown by the
+fact that the same river may bear two names; for instance,
+the Vitegda is in Zirian the Ezva,
+
+
+99 Vim 99 9 Yemva,
+
+» sisola ,, ” Siktilva,
+» Ukhta  ,, 9 Sikva,
+
+» Keltma ,, » Kot-jem.
+
+
+1 Sjégren, pp. 300, 316, 320; Smirnov, (2) pp. 91, 93.
+3 L Anthropologie (Paris, 1892), p. 499:
+
+
+12 PRE- AND PROTO-HISTORIC FINNS
+
+
+Without necessarily ascribing the names in the left-hand
+column to Ugrians, we know that at any rate as early as
+the end of the eleventh century there were Ugrians in the
+north-east of European Russia, for Nestor, who died about
+1112,mentions them with the Petérans and Yems as occupy-
+ing part of ‘Japhet’s portion’ ; if they had inhabited Asia
+he would certainly have placed them in ‘Shem’s portion.’
+In 1185 they are mentioned as living on the Petéra, and
+with the Petérans (Zirians) paying tribute to Novgorod.
+In the fifteenth century Voguls and Ostiaks carried on
+constant war with the Permians and Russians. In 1445
+the Novgorodans were beaten by the Ugrians through
+treachery, and ten years later the Voguls are mentioned
+as fighting on the banks of the Vitegda and killing the
+missionary bishop Pitirim, who had converted certain
+Voguls to Christianity, at his residence at Ust-Vim.! That
+the Voguls lived permanently in the neighbourhood of Ust-
+Vim, and did not merely make forays from beyond the
+Urals, is proved by documentary evidence. As the Russians
+advanced eastwards they continued to encounter Voguls,
+for in 1481 Andrew MiSnev beat them in an engagement
+below Cérdin, in Great Perm, and a document of 1607
+proves that the Voguls along the banks of the ViSera in
+the above district were then paying tribute. After a time,
+however, they found such difficulty in paying it that they
+dispersed, and some crossed over into Siberia. From the
+life of Trifon it is clear that Ostiaks nomadized on the spot
+where the town of Perm now stands, and possessed the
+whole of the Cusovaya. Ostiaks as well as Voguls are
+mentioned in the district of Cérdin, and the name of the
+later people is given to a tributary of the Inva and of the
+
+
+1 Sjégren, pp. 308, 309; Smirnov, (3) p. 110; (2) p. 5.
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 13
+
+
+Kosva. In fine, undoubted proofs exist that at any rate
+from the middle of the fifteenth to the end of the seventeenth
+century, Ugrians resided in the region situated between
+Ust-Vim and the Urals, on the Vitegda, the Petéra and
+the eastern tributaries of the Kama, such as the Kolva,
+ViSera, Yaiva, Kosva, and Cusovaya.! But at what period
+
+
+the Ugrians first appeared in Europe cannot now be
+decided.
+
+
+Tur CupEs.
+
+
+With regard to the Cudes much uncertainty exists.
+There are historical and mythical Cudes. The term was
+first applied by the Russians to the Esthonians. Then
+by extension it was used of another Finnish tribe, more
+especially of one behind the vo/ok, or portage across a
+watershed, which seems to refer to the Karelians on the
+Lower Dvina. The word vo/ok also means ‘a great unin-
+habited forest,’ and that was the sense preferred by Sjogren,
+but ‘portage’ is the older meaning, and Nestor in his in-
+troduction uses it in that sense. He mentions that there
+was a road from the Variags to the Greeks, and from the
+Greeks along the Dniepr and across the portage (20/02) of the
+Dniepr to the Lovat, and so to Lake Ilmen—or IImer, as he
+calls it. As the Russians gradually extended eastwards the
+term Cude, Cudish, by degrees lost its ethnic signification
+and became far more general. It could now be applied
+to any non-Russian people that seemed to be aborigines ;
+ancient mining-shafts, ‘wué, and prehistoric forts far into
+Siberia, far beyond any region that could have been in-
+habited by a Finnish people, were now called Cudish, and
+
+
+1 Sjégren, pp. 308, 309; Smirnov, (3) pp. 108, 109.
+
+
+14  PRE- AND PROTO-HISTORIC FINNS
+
+
+assigned to an extinct race of people. Legends were told
+of them, of their manner of life, and how they had vanished.
+To avoid error it is evident that we must distinguish clearly
+between the historical and the mythical or semi-mythical
+Cudes. The first were Finns, the second may sometimes
+have been so, but not necessarily. In the mouth of illiter-
+ate Russians the word had no ethnic value. The types of
+antiquities termed ‘Permian’ by Mr. J. R. Aspelin and
+‘Cudish’ by Russian archzologists, are attributed by the
+former, and by all Finnish archeologists, to the Permian
+groups, the Votiaks and Zirians, because they are found in
+the government of Perm in districts occupied by these
+peoples. The distribution of these archzological types is
+limited to certain areas. They are found in the govern-
+ment of Perm, on the Petora, on the right bank of the
+Kama in the government of Vidtka, on the upper course
+of the Ceptsa and on the Pizma, both in the government of
+Vidtka, but not in other parts of the government. They
+are therefore not co-extensive with the diffusion of the
+Zirians by any means. Mr. Teplotikhov of Ilinsk (Perm),
+who possesses the largest collection of Permian antiquities
+in Russia, attributes them to the Permian Cudes, by whom
+he understands Ugrians, more especially Voguls. In a
+paper published by him in 1893 he believed that he had
+proved that the Permian Cudes already existed on the
+Central and Upper Kama in the fifth century a.p.! But
+since the recent finds at Gliadénova, near Perm, described
+in the next chapter, it becomes possible to maintain that
+the Cudes were in Perm about the second century. If
+his arguments hold good, as I believe they do, it means
+that the eastern frontier of Russia in Europe from about
+
+
+1 Teploukhov, (3) p. 37.
+
+
+GEOGRAPHICAL POSITION OF THE FINNS 15
+
+
+lat. 57° N. northwards was in the hands of Ugrians as early
+as the second or third century, and therefore that all the
+eastern Finns must have occupied territory to the west of
+them. In the preceding pages it has been seen that the
+Russians have gradually pushed the Eastern Finns further
+and further eastward, their original seat having been nearer
+the centre of European Russia than nowadays. Later
+on we shall find craniological and archeological reasons
+which make it probable that several centuries before the
+present era a small body of Ugrians had established them-
+selves as far west as the government of Yaroslav.
+
+
+PHYSICAL FEATURES OF THE COUNTRY.
+
+
+As regards the physical features of North Central Russia
+from Finland and the Baltic Provinces to the Urals, the
+immense region inhabited by Finnish tribes in bygone
+days, must have been tolerably uniform. Everywhere the
+country was a broken, undulating plain, densely covered
+with trackless forests of pine and fir, interspersed with birch
+and alder, a gloomy wilderness only relieved by open
+tracts of swamp and morass, impassable save when frozen
+hard in winter. In summer the only possible means of
+communication was by water, as is still the case in the
+northern governments. Only in the south-east of the
+region, in what are now the southern parts of the govern-
+ments of Kazd4n and Nizegorod, and in those of Simbirsk,
+Samdara, and Tambov, were there any natural open plains,
+occasionally broken, where water was abundant, by large
+forests of useful trees like the oak and the lime. In early
+times the immense plain of European Russia, so beset with
+forests and natural obstacles as to be wellnigh impassable
+
+
+16 PRE- AND PROTO-HISTORIC FINNS
+
+
+for large bodies of men travelling by land with all their
+belongings, was nevertheless provided by nature with two
+royal highways from east to west, and vice versa. Along
+the south was the grassy steppe fringing the north coast
+of the Black Sea, with room enough for a whole nation
+to march abreast. By a nomad people this route could
+best be traversed in summer, as there was then abundance
+of grass for their horses and cattle ; rivers were more easily
+crossed than in spring, and the clumsy wagons were less
+likely to stick in the mud of the soft, earthy ravines that
+seamed the steppe. The other highway was the treeless
+tundra that borders the Arctic Ocean ; winter was the best
+time for using it, when the rivers and morasses were frozen,
+the snow hard and fairly smooth. The only means of
+transport was a sleigh drawn by reindeer or by dogs, but
+when the Jatter were employed their masters had to follow
+on snow-shoes. The winters were long and rigorous,
+lasting nearly half the year. But for a hardy race of men,
+whose only desire was to live, there were compensations :
+the rivers and lakes were full of fish, some of them, like
+the sterlet, so foolish as to allow themselves to be taken
+with a bare, unbaited hook. The forests were well stocked
+with large game, such as elks, wild oxen, bison, bears,
+beavers, and other smaller animals. As fish are obtained
+more easily and with less trouble than large game, all
+_ human habitations were disposed along the banks of the
+larger rivers or on the shore of a lake. The watersheds
+and the tracts traversed merely by small streams were
+untenanted by man. And the permanent settlements along
+the rivers had always to be at some height above the
+ordinary surface of the water, as every spring, with the
+melting of the snow and ice, the rivers were enormously
+
+
+CHARACTERISTICS OF THE FINNS 17
+
+
+swollen, and rose many feet above their normal level, inun-
+dating the low land for a very considerable distance.
+
+With regard to metals the region is decidedly poor. All
+the best gold and copper mines lie on the east side of the
+Urals, where the ore is found in lodes. On the west side
+there are copper-bearing beds of sedimentary origin, and
+sometimes the metal is found in a native state. But there
+is no copper west of the mines near TaiSevo, between
+Mamadis and Malmiz on the Vidtka, or of a parallel of
+longitude drawn through it; none, indeed, till we come to
+Pitkaranta, on the north coast of Lake Ladoga. In insig-
+nificant quantities oxide of tin with galena is also found
+there, but there is no tin or silver in the Urals. Iron is
+worked near Murom and in the neighbourhood of Petro-
+zavodsk, on the west side of Lake Onega.
+
+
+THE PHYSICAL AND MENTAL CHARACTERISTICS
+OF THE FINNS.
+
+
+Having briefly described in general outlines the geo-
+graphical distribution of the East and West Finns now
+and in the past, so far as it can be inferred from place-
+names, we have now to pass on to their physical and
+mental characteristics.
+
+Professor Retsius defines the Tavastland or Hame type
+as follows :—
+
+‘In physique it is strong, solid, broad-shouldered ; in
+general, thickset and plump, with coarse limbs ; of medium
+height, though individuals are found above and below the
+average.
+
+‘The flesh is firm, generally without disposition to fat
+or to leanness ; the muscular system is strong.
+
+I B
+
+
+18 PRE- AND PROTO-HISTORIC FINNS
+
+
+‘The skin is white, but often greyish inclining to olive
+grey; it is rarely as clear and pure with a transparent rosy
+hue as among blonde Teutons (Scandinavians and English).
+
+‘The head is usually large, short and broad (brachy-
+cephalous), but not particularly high, often rather square
+with well-developed ‘udera parietalia.
+
+‘The face is large, long, but above all comparatively
+broad both in the frontal region and still more so in those
+of the zygomatic arch and the jaws; the lower jaw is
+strongly developed.
+
+‘The nose is small, rather wide, obtuse, or more often
+with a small point, just a little refroussé; the nostrils are
+rather wide. The mouth is also rather wide.
+
+‘The eyes have small slits, are rather narrow, and some-
+times slightly oblique. The iris is light, grey-blue, or more
+often blue-grey, even grey or bluish-white. The eyebrows
+are feebly developed and light.
+
+‘The expression is rather morose and little sympathetic.
+
+‘The hair on the crown is blonde, oftener flaxen, other-
+wise ash-grey ; in women it is often yellow or yellowish-red
+at the tips, straight, never curly, and very silky. In children
+it is nearly always flaxen, sometimes almost whity-yellow;
+in adults it often becomes darker, assuming an ashy hue ;
+it maintains, however, very often a dark flaxen hue.
+
+‘The beard as a rule is small, with hair that is relatively
+sparse, short, coarse, and light, with a tendency to red,
+especially on the chin; in general, the beard is shaven, and
+therefore rarely seen at its full length.
+
+‘From a psychological point of view the characteristic
+Tavastlander is serious, manly, melancholy, meditative,
+little communicative, taciturn, neither enthusiastic, lively,
+or alert physically or morally; but on the contrary slow,
+
+
+CHARACTERISTICS OF THE FINNS 19
+
+
+torpid, ungainly, and heavy in his movements, very con-
+servative in all respects, and little inclined to reforms and
+changes ; he is not the man to take the initiative for a good
+or bad undertaking, and is not inclined to rebel against
+authority. He is suspicious and does not appear to be
+exempt from jealousy or vindictiveness; he cherishes a
+grudge for a long time, and postpones his revenge till the
+propitious moment arrives; hence grave, premeditated
+crimes are not altogether uncommon. In a high degree
+he is a fatalist; he is content with very little, enduring
+suffering and privation with admirable fortitude and
+patience. Though slow by nature he is very assiduous at
+his work, and with inborn tenacity never gives in so long
+as he sees a possibility of gaining his point. He is inclined
+to assist a neighbour, and is hospitable when civilly treated.
+Taken all in all he is an honest fellow. He is absolutely
+faithful, even if not lavish in his expressions of tenderness
+and goodwill, preferring to translate them into deeds rather
+than into words and demonstrations; in general he never
+expresses himself in the superlative, or in a positive and
+peremptory manner, but with diplomatic prudence and
+reserve. As regards his other psychical qualities he is not
+hasty, but sure in his judgment ; he goes to the root of the
+matter slowly but thoroughly. He is neither musical nor
+poetical, at least he is not creative in these directions, and
+he is seldom heard to sing.
+
+‘Thus in spite of its sterling merits the Hame type does
+not as a rule possess an exterior either beautiful or at-
+tractive ; at least one seldom meets persons that answer to
+our ideas of beauty. This remark applies not only to men,
+but also to women ; the latter have generally less angular and
+more rounded features, but beauties are extremely rare ; at
+
+
+20 PRE- AND PROTO-HISTORIC FINNS
+
+
+least we have not found a single woman that merited this
+name among the thousands that we have seen. If then
+this Hame race is not distinguished by external beauty, it
+possesses at any rate, owing to its physical and moral
+solidity, its tenacity and meditative nature, the traits of
+character that make it a strong race that can hold its own
+in the struggle for existence. It is also on the whole
+fertile ; from the point of view of sexual morality it is not,
+however, commendable, but rather the contrary.
+
+‘The Karelian type is distinguished as follows :—
+
+‘The physique is less strong than that of the Hame; it
+is less broad-shouldered, less thickset and plump, with less
+powerful limbs, but more slender, and the proportions more
+comely. As a rule it exceeds the average height, and often
+presents individuals of considerable stature.
+
+‘The flesh is tolerably firm, with little disposition to fat,
+rather to leanness.
+
+‘The colour of the skin is darker brunette, or rather ash-
+grey.
+
+‘The head is not large, but in proportion, rather short
+(brachycephalous), but less so than the Hame type. The
+length of the neck is proportionate.
+
+‘The face is in length proportionate, generally with a
+relatively small breadth both in the frontal and zygomatic
+regions and in the maxillary parts; these, however, are
+rather strongly developed, chiefly in height, especially the
+lower jaw.
+
+‘The nose is long, straight, proportionate, and pointed.
+
+‘The mouth is well proportioned.
+
+‘In the eyes the apertures are in good proportion, and
+never or very seldom oblique. The iris is dark-grey blue.
+
+‘ The eyebrows are dark, strongly developed, often slightly
+bushy.
+
+
+ria, ‘ad
+
+
+CHARACTERISTICS OF THE FINNS 21
+
+
+‘The expression is generally animated, open, and attrac-
+tive, though with a certain air of seriousness.
+
+‘The hair on the crown is dark, usually chestnut, some-
+times dark ash, neither straight nor rough, but generally
+curly, and often abundant.
+
+* The beard seems to be rather small, but is usually shaved
+off.
+
+‘From a psychological point of view the Karelian is more
+lively, brisk, and enterprising ; he is not reserved, but expan-
+sive, gayer, and inclined to take the initiative, but less
+persevering and tenacious; less deep, penetrating, and
+fatalistic ; he is more friendly, attentive, and obliging. He
+conducts himself like a gentleman, has a good, often a
+noble deportment, moves with a certain elegance, and
+produces in general an agreeable impression. Handsome
+types of men and women are often met; the latter, with
+usually an oval face, very regular features, a straight, pointed
+nose, large blue eyes, a pretty mouth, a rather animated
+expression, and a well-proportioned, sometimes slim figure,
+are decidedly pretty ; and genuine beauties may sometimes
+be found among them.’!
+
+
+THE MOoRDVINS.
+
+
+According to Mr. Mainov, who measured 225 Erza
+Mordvins of both sexes, in several districts and govern-
+ments, the average height of the men is 5 ft. 6 in.; of the
+women 5 ft. 2# in.; 86 per cent. of the men and 7o per
+cent. of the women have dark hair—he recognises three
+shades—but the shade is generally less dark in the fair sex.
+The lightest shade is found in 12°6 per cent. of the women,
+and in only 2°4 per cent. of the men. With regard to
+
+1 Retsius (1), pp. 161, 162.
+
+
+22 PRE- AND PROTO-HISTORIC FINNS
+
+
+colour 86 per cent. of the men and 81 per cent. of the
+women have cinnamon-coloured hair; the remainder ig
+nearly equally divided between olive and dark mud-colour,
+and none is reddish. And 8g per cent. of the people have
+straight hair; 8°2 per cent. wavy, and only 2°7 per cent.
+have really curly hair. Dr. Sommier, who only visited
+one village—probably Mok&an, though he does not say
+so—in the government of Saratov, found two types among
+the Mordvins, corresponding to the Hame and Karelian
+types in Finland. The former was blonde, broad, and
+squat ; the latter type was darker and brisker, with more
+Aryan features. On the whole, blonde hair predominated,
+and the beard was usually scanty. The colour of the iris
+was usually grey, inclining to blue or chestnut. He found
+the people extremely shy and difficult to deal with. But
+the women were less coy than the men, for none of the
+latter would let themselves be measured, while seven of the
+fair sex allowed him to take a few measurements. ‘Though
+Pallas termed the Mordvins the dirtiest people in Russia,
+Dr. Sommier’s experience led him to believe that in this
+respect they are surpassed by several others, such as the
+Ostiaks, BaSkirs, Votiaks, and Ceremis. Besides being
+cleaner than the last two, the Mordvins are healthier, more
+robust, more wide-awake and less intellectually torpid. In
+fact he assigns them the second place after the Zirians,
+who stand first among the Eastern Finns in activity of
+mind and body.? According to Professor Smirnov, the
+MokSas offer greater variety of types than the Erzas, and
+contain a considerable percentage of persons with black
+hair, dark eyes, and a swarthy, yellowish skin. They are
+more thickset, and consequently more clumsy in their
+1 Mainov, pp. 186, 386, 103, 104. 2 Sommier, (2) pp. 118-122.
+
+
+CHARACTERISTICS OF THE FINNS 23
+
+
+movements. Without displaying any grace of movement,
+the MokSan girls and women exhibit in their gait, speech,
+and gestures a remarkable self-confident strength and
+energy. The excellent physique of the Mordvins, their
+stature, and the healthy colour of the skin, which dis-
+tinguishes them sharply from the Ceremis, Votiaks, and
+Permians, is the result of having lived for centuries in
+a fertile region where food is abundant.1 At the last
+census they numbered rather less than 800,000 souls.
+
+
+It has been supposed by some that the Erza Mordvins, by
+others that the Biarmians, are referred to by various Arab
+travellers and writers of the tenth century. They mention
+nearly in the same words that the Rus were divided into three
+tribes. The first lived nearer to Bolgar, and its king had his
+seat at Kuyaba (v. Kutaba, Karbaya), a town larger than
+Bolgar ; the second were called Slawiya, or Salawiya ; and the
+third were the Arthaniya, the king of which dwelt at Artha
+(v. Arta, Arba, Abarka, Abarma). This latter people killed
+any foreigners that entered their country, but did a good trade
+with Kiev, the Khozars, and Bolgars, the exports being the fur
+of the black sable, the black fox, and lead. Dorn and Fraehn
+read Artha, Arthaniya as Erza, Ertsa, and identified the people
+with the Erza Mordvins, who, if they had black sables, had
+certainly no lead to export. Chwolson thought the name of
+the third tribe should be read Barmaniya, and identified it
+with the Biarmians of Scandinavian legend; Mr. Snellman,
+the latest Finnish writer on the early history of the Finns since
+the beginning of the present era, is inclined to agree with him.
+But apart from the fact that by Rus we generally have to
+understand Swedes and Northmen, not Finns, there are other
+notices of the Arthaniya which show that they dwelt far to the
+South, at no great distance from the coast of the Black Sea.
+Istakhri vaguely states that Artha lay between the Khozars
+
+
+1 Smirnov, (4) pp. 115, 121.
+
+
+24 PRE- AND PROTO-HISTORIC FINNS
+
+
+and Great Bulgaria, which bounds Rum to the north.’ Idrisi
+is more explicit, though some of his geographical statements
+are hard to reconcile, and his place-names still more difficult to
+identify. Starting from Trebizond, he describes what seems to
+be a coasting journey round the east end of the Black Sea as
+far as the large town of Matrika, or Matrakha, by which
+Tmutarakhan, or Old Taman, is intended. Nevertheless it is
+said to be situated on the river Sakir, which branched off from
+the Athil (the Volga), the chief affluent of which passed near
+Athil, a town near the Caspian. One day’s sail, or 100 miles
+before reaching Matrika, he places the considerable town of
+Matluka or White Comania. Its situation weuld therefore be
+near the port of Novorossisk. He then mentions four towns in
+Comania: Kirah, Narus, Nui, and Kiniow or Kiniu, and their
+relative positions may be given diagramatically as follows :—
+
+
+Nai Kirah Naruf Slava
+25m. 50 Mm. 335 mM.
+Kiniu
+N roo|m. 100 /m.
+w—fi—_——E
+“
+Nui.
+m.
+Matluka
+
+
+1 Chwolson, pp. 171-176; Harkavi, pp. 193, 199, 200, 220, 276; Dorn,
+Pp. 57; Snellman, p. 54.
+
+
+CHARACTERISTICS OF THE FINNS = 25
+
+
+Before proceeding further, we must hear what Idrisi has to
+say of the Rus. ‘Kokania,’ he says, ‘is inhabited by the Turks
+known as Rusa. They are divided into three hordes, one of
+which is called Beraws, and its king resided at Kokania; the
+second is called Slawia, and its king resided at Slava, a town
+on the top of a hill; the third is the Arthania, and its king
+lived at Arthan, a pretty town built on an abrupt hill between
+Slawa and Kokania, that is to say, four days (100 m.) from
+each. Musulman merchants went to Kokania, but it was
+reported that any stranger entering Arthania was infallibly put
+to death. One of their exports was lead.’ Referring back to
+the diagram, we have to imagine Artha as situated 100 miles
+from Slava, though the direction is not mentioned, and 100
+miles beyond this was Kokania. Further on, Kokania is stated
+to be about twenty stations from Bolgar, though I do not know
+what this distance implies. With regard to Nai, the most
+westerly point, in mentioning some of the towns on the
+Danabros or Dniepr, Idrisi states that from Kaw (Kiev?) to
+Nai, ‘a town of Comania,’ was six days’ journey, apparently in
+a southerly direction, as he describes the places in a descending
+order. Though the position of the Arthaniya cannot be
+exactly laid down from the indications given by Idrisi, it could
+not have been far removed from the coast, and lay somewhere
+in Comania, in the steppe between the Dniepr and the Don,
+or not far from it, so that the idea that these people were
+Biarmians or Erza Mordvins is without foundation. The next
+witness is Ibn Batuta, who made a land journey from Astra-
+khan to Constantinople. He mentions that at one day’s
+journey from Ukak are the Hills of the Russians, who are
+Christians with red hair and blue eyes, an ugly and perfidious
+people. They possessed silver mines, and from their country
+were brought ingots of silver called sum, som, each weighing
+five ounces. He gives the position of Ukak as ten days’
+journey from Sardi (near Tsarev, and east of Tsarftsin), and
+ten days from Sudak on the east coast of the Crimea. Colonel
+
+
+1 Erisi, vol, ii, pp. 399-402, 405, 398.
+
+
+26 PRE- AND PROTO-HISTORIC FINNS
+
+
+Yule has shown that there were two places called Ukak; one
+lay about six miles south of Sardtov, and the other on the Sea
+of Azov, a little to the east of Mariipol. In some medizval
+maps it appears as Locac, #.e. L’Ocac. He also mentions that
+there are mines of argentiferous lead ore, containing 60 per cent.
+of lead, near the river Mius, which. falls into the Sea of Azov
+about twenty-two miles west of Taganrog.! As mines of silver
+and lead, so far as my knowledge extends, are found in no
+other part of European Russia, save in the Central Caucasus,
+it seems extremely likely that the Arthaniya, or however the
+name is to be written, occupied the valley of the Mius. The
+steep and craggy sides of this valley are composed of stratified
+limestone, and afford admirable sites for a town such as Artha
+or Arthan, which was perched on the top of a precipitous hill,
+while the landscape, as a whole, corresponds with Ibn Batuta’s
+expression, ‘the Hills of the Russians.’
+
+
+THe CEREMIS.
+
+
+Dr. Sommier describes the Ceremis as for the most part
+of slender build, and in appearance weak, though there are
+also sturdy fellows among them that reminded him of the
+Hame type. After eliminating what he considered to be
+the result of a Slav and Tatar intermixture of blood, he
+believed he could find in the pure Ceremis the Hime and
+Karelian types of Retzius. They are generally of low stature;
+the average of twenty-eight men was 1°60 m. (5 ft. 2} in.) ;
+of eight women 1°50 m. (4 ft. rof4in.). Their hands and feet
+are small, and the skin is white. Their hair is soft and
+abundant, neither curly nor stiff, and in colour from blonde
+to dark chestnut. A light blonde inclining to red is not
+uncommon, but black is very rare. Small children have
+nearly always light flaxen hair. The beard is scanty,
+
+1 Ibn Batuta; Yule, vol. ii. pp. 488, 489.
+
+
+_—
+
+
+CHARACTERISTICS OF THE FINNS 27
+
+
+appears late, and is usually blonde. The colour of the
+iris varies from blue to dark chestnut, but is more often
+yellowish grey and chestnut. The eyes are usually small,
+and sometimes a little oblique. In character the Ecremis
+are mild and of a good disposition ; the Russians praise
+their honesty ; but they are poor and dirty, shy, mistrustful,
+extremely obstinate, and endowed with a slow, limited
+intellect.1_ Dr. Papai observed that their skin is white, and
+in uncovered places bronzed. Their hair is dark, and very
+dark tones predominate, though lighter ones often occur.
+The eyes are generally dark, though medium and lighter
+tones are common, and among women predominant.?
+
+There is a marked difference between the Hill Ceremis
+and those on the left bank of the Volga, the former being
+taller and stronger. Yet the type of face on the whole is
+the same, and in both we find prominent cheek-bones, with
+the same admixture of dark- and light-haired persons with
+dark or light skins. The difference of physique between
+the two groups is entirely due to physical causes. The
+Ceremis on the left bank live among huge swamps and
+boundless forests, drink bad water, suffer from insufficient
+and improper food, and are consequently subject to fevers,
+lung disorders, goitre, and premature old age.®
+
+From the resemblance between the names M/é7i and
+Méria, as well as from their geographical position, it is
+generally believed that the latter people, whose name is
+now extinct, were of the same stock as the Ceremis.
+About the end of the eleventh century they are mentioned
+by Nestor as paying tribute to Novgorod, and having their
+centres at Lake Rostov and Lake KleStino. But their
+
+1 Sommier, (2) pp. 245-250, 238.
+2 PApai, p. 264. 3 Smirnov, (x) pp. 84, 85.
+
+
+28 PRE- AND PROTO-HISTORIC FINNS
+
+
+territory embraced a far larger area, and included at least
+the whole of the governments of Vladimir, Yaroslav, and
+the western part of Kostroma. Their old position, there-
+fore, lay between the Ceremis and Mordvins to the east,
+and the Finns to the west or north-west. The earliest
+mention of them is in the catalogue of names given by
+Jordanes in the middle of the sixth century, where, under
+the name of Merens, they are placed immediately before
+the ‘ Mordens.’
+
+
+THe VOoTIAKS.
+
+
+The Votiaks number about 276,000 persons. According
+to Dr. Buch their muscular system is only moderately
+developed, and their muscular force is small, though of
+course there are exceptions, and strong-built men are not
+uncommon. The trunk compared with the legs is longer
+than among Europeans. The skin is white, though in |
+about twenty per cent. of instances it is brown; it is
+smooth and comparatively hairless on the body and the
+extremities. As regards colour, the hair of the head is
+of various shades of brown, but is sometimes reddish
+or yellow, very rarely black. The growth of the beard is
+scanty, and in colour usually reddish. The eyes, which
+are of average size, are generally blue, but also brown, grey,
+and occasionally green. The face is oval ; the forehead low
+and narrow; the mouth of average size, with lips not
+unduly thick; the nose is usually straight and not very
+wide. Sometimes the younger women are not bad-looking,
+but the older ones are hideous. In general, the Votiaks are
+said to bear a great resemblance to the Esthonians.
+
+In character they are described as extremely peaceful,
+very industrious and hard-working. Amongst themselves
+
+
+CHARACTERISTICS OF THE FINNS = 29
+
+
+they hardly ever come to blows, even in their cups. They
+are of a very retiring disposition, and keep themselves as
+much as possible apart from the other stranger nations that
+surround them, such as, Tatars, Bagkirs, Ceremis, etc., but
+especially from the Russians. On the whole, they struck
+Dr. Buch as being a dull, heavy people, for they take a
+long time to answer a very simple question. On feast-days
+the men drink to excess, but the women, though far from
+being teetotalers, manage to keep sober.! The low
+stature and feeble frame of the Votiak lies in close
+connection with his physical surroundings. It has been
+observed that inhabitants of low marshy ground are every-
+where of lower stature than those living on high ground.
+The contrast already noticed between the Hill Ceremis and
+those on low ground is found between the Votiaks in the
+Viatka government and those in the government of Ufa.
+When the latter migrated into the fertile black soil of the
+BaSkirs, they became physically regenerated and in no
+way inferior in appearance to their Russian and Baskir
+neighbours.?
+
+
+PERMIANS AND ZJRIANS.
+
+
+From measurements taken by Dr. Sommier the average
+height of twenty male adult Zirians was found to be 1°636 m.
+(5 ft. 4 in.), and of eight women 1°536 m. (5 ft. 4in.). Both
+sexes are well made, well fed, muscular and healthy. The
+colour of the skin is white, and the young people have
+fresh, rosy cheeks. Dark eyes are rare, the prevailing
+colour being grey. The hair is abundant and often curly,
+the predominant colour being blonde, which often tends to
+
+
+1 Buch, pp. 21-29. 3 Smirnov, (2) pp. 81, 83.
+
+
+30 PRE- AND PROTO-HISTORIC FINNS
+
+
+reddish or golden. None had black hair. After twenty-
+five years the beard never fails to appear on men; some-
+times it is scanty, but more often thick and abundant, and
+nearly always curly. The face is sometimes broad and
+somewhat massive, with large cheek-bones and a small but
+well-formed nose. It reminded him of the Hime type in
+Finland, and seems to be more frequent in women than in
+men. Sometimes, however, the face is oval, with cheek-
+bones neither large nor prominent; with a long, high nose,
+either straight or aquiline, and deep-set eyes, a type that
+resembles the Scandinavian rather than the Finnish face.
+In men this type is oftenest seen with a thick curly beard.
+The young women are rather pleasing, though they can
+rarely be termed pretty. All have the impression of being
+smart and intelligent; they seem well-to-do, clean and
+well dressed, especially when contrasted with the Ostiaks
+among whom they live.}
+
+Another observer also gives them a very good character,
+as being religious, obedient, peaceful and reliable, sober,
+of few words, and, above all, honest. Thieving is detested.
+They are slow, but not lazy; on the contrary, they are
+diligent, laborious, and not dirtier than their Russian
+neighbours.?
+
+Assuming that the above inventories of the physical,
+moral, and mental qualities of the East and West Finns are
+accurate, or not less incorrect than all generalisations must
+necessarily be, we find remarkable correspondences and
+yet considerable differences. Except the Karelians, and
+to a less extent the Zirians, all branches of the Finns are
+distinguished by a certain sluggishness of mind and body,
+by shyness and suspicion of strangers, by obstinacy, great
+
+
+1 Sommier, (1) pp. 10-14. 2 Sjogren, pp. 436, 437.
+
+
+CHARACTERISTICS OF THE FINNS 31
+
+
+tenacity of purpose, and an unfailing power of enduring
+privations and suffering as a matter of course. With these
+are united honesty and fidelity. No doubt it is chiefly on
+account of these qualities that they have been able to
+maintain themselves for many centuries in the inhospitable
+climate of North Central Russia before civilisation made
+life comparatively easy. The brisker, more wide-awake,
+nature of the Karelians and Zirians may be due to local
+causes—the latter, for instance, were civilised and Chris-
+tianised more than a hundred years earlier than the
+Votiaks and Permians,—which have sharpened their wits
+to a greater extent than other Finns; yet the darker,
+curly hair of the former, compared with the straight towy
+hair of the Hame, suggests a blending of different stocks.
+The hair of the Mordvins is also dark, but only a small
+percentage have wavy, and a very small number curly hair.
+With the Ceremis, too, darkish hair prevails, and the eyes
+are generally dark, though lighter tones are common, and
+predominate among women.
+
+In Table I. (p. 32) are brought together the height and
+cephalic index of living Finns, and for purposes of com-
+parison they are placed between the Ugrians that lie to
+the east of them, and the Letto-Lithuanians to the south-
+west. It shows that stature increases towards the west,
+and it may be assumed that till civilisation improved the
+physique of the more advanced Finns, like the Mordvins,
+the Hame, and the Karelians, they were all an under-sized
+people. It appears, further, that all the Finns are sub-
+brachycephalous (Broca), save the Ceremis, Esthonians,
+and Livs, who are mesocephalous. The presumption lies
+near at hand, therefore, that the Finns are not quite
+homogeneous, but that at some period two different stocks
+
+
+32 PRE- AND PROTO-HISTORIC FINNS
+
+
+came in collision and amalgamated. The almost exact
+correspondence, as regards stature and cephalic index
+between the Hime and the Lithuanians on the one hand,
+
+
+TABLE I.
+
+
+bos]
+
+
+SM Pirie
+
+
+ie Be:
+
+
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5 7
+5
+
+
+a
+
+
+and the Karelians and Letts on the other, is worth noting,
+as it shows what small value stature and a single index
+possess when attempting to solve an ethnological pro-
+blem.
+
+
+1 Pépai, pp. 257, 261. 2 Maliev, pp. 51-69.
+3 Sommier, (1) pp. 62, 65. 4 Sommier, (2) pp. 246-248.
+5 Mainov, pp. 186, 386. 6 Retzius, (x) pp. 163-165.
+
+
+? Brennsohn, pp. 27, 28, 42. 8 Yantchouk, p. 476.
+
+
+CRANIOLOGY OF THE FINNS 33
+
+
+FINNISH CRANIA.
+
+
+Though the results to be gained by craniological
+measurements for ethnological purposes are not very
+satisfactory, they cannot be passed over in silence, and
+I have felt bound to lay before the reader some little of
+the material collected by G. Retzius, Virchow, Maliev,
+and others, with regard to Finnish crania. It is certainly
+an important matter to try to form some idea of a
+typical Finnish skull, as a considerable number of ancient
+crania have been unearthed in the Baltic Provinces, and
+elsewhere in Russia, in regions that have been or still
+are inhabited by Finns. From a historical point of view
+it is needful to decide, if possible, whether they are
+Finnish or otherwise. Professor G. Retzius has described
+and measured 94 adult West Finnish crania, preserved
+partly at Helsingfors, partly at Stockholm. The Hel-
+singfors collection consists of 68 crania from various
+parts of Finland, except Karelia; of these, 41 are of
+males, chiefly malefactors; 3 are of women; the sex
+of the remainder, which came from old cemeteries, is
+not stated, but if the sexes were equally divided,
+about 72 per cent. of the 68 skulls may be considered
+male. The Stockholm collection consists of 26 adult
+West Finnish crania, obtained chiefly from parts of the
+country inhabited by Hame or people of Tavastland.! In
+comparing his measurements with those of Russian
+anthropologists it must be remembered that he uses the
+maximum height to obtain the vertical index, whereas the
+Russians use the bregma height recommended by Broca ;
+his vertical index is therefore higher than it would be if
+
+1 Retzius, (2) Table v. ; (1) p. 176, Table v.
+
+T Cc
+
+
+* wed
+sTUI219-)
+
+
+* woos
+* S10jZUIS|O}{
+
+
+wma As WH
+
+
+* WTOTIIOIS
+* SIOJSUISTOH
+* FENSO
+* wed
+SIMI9I9-)
+
+
+HN ECONO A
+
+
+° wWOTPOS
+* si0j3uTspoH
+
+
+|
+
+
+I
+4
+I
+€
+4
+¥
+L
+
+
+* Wied
+sTulela)
+* wyjoqyD0IS °
+* siojZulspayy | Teqdsooorop-qns °
+
+
+PRE- AND PROTO-HISTORIC FINNS
+
+
+° SIUIAI9 :
+: srodunspoyy * yeydssogorod °
+
+
+MOMADI ONAAW HAD
+
+
+ese gg. €Z ean . bg I .
+439A XL) ‘ONs0, | Teqded | 3ySpPH “CIpwerg(“qI3U97]
+“SHIIANI
+
+
+34
+
+
+‘II Fav LE
+
+
+35
+
+
+CRANIOLOGY OF THE FINNS
+
+
+ES | es | Ne
+
+
+‘HAMIXVPE ZOVURAY
+
+
+TIT T1avVL
+
+
+AUS OMO MM ;
+
+
+t
+
+
+e 6é cé s J°2POH Ft 4
+°  - guoynay, Seawld-MOY S.-H “OZ
+qsinay| ° ‘oysop “= = “61
+ceé "yoeig-qus é¢ 8 I
+&¢ *ydoo0seur ¢ e Z I
+“s "yoyop-qns ff = “91
+ft *oysijop ce ¢ I
+if r Cf “by
+droqzuaney yonessry “fr
+“Goyop *ssny s a |
+cé ¢é "YI
+O9l| BssnYy TUON * Aysyouorey, ‘or
+qsraur yg MOUDITA “6
+« 6¢ c¢ °g
+6¢ e fj e yA
+° ws d ° ce 2
+sju1a19°) . AIS °
+66 * ¢¢ >
+° 6¢é e 6é ¢
+. W]OYAIOIS e e te 4
+* s1ojdurspayy |} * 0 * 0 SAIZIOY “FT
+
+
+36 PRE- AND PROTO-HISTORIC FINNS
+
+
+using the French method. Maliev has measured 17
+Ceremis crania from an old burial-place at the village of
+Little Sundir in the district of Kozmodemiansk (Kazan),
+and 26 Permian taken from a cemetery at Kudimkor
+in the district of Solikamsk (Perm).! Dr. Sommier has
+measured 36 Ostiak crania.? All these I have arranged
+in Table II. in five groups according to the classifica-
+tion of Broca, while the totals are given on the upper
+part of Table III. In the lower part, I add, for the purpose
+of comparison, 184 North Russian crania measured by
+Dr. Tarenetsky ; on line 12 the dolichocephals are shown
+separately. On lines 13-18 are the indices of 23 skulls—3
+hyperdolichos are omitted—from a row-grave cemetery at
+Laurenzberg on the right bank of the Vistula, near Kaldus
+in the district of Kulm, all of which were measured by Dr.
+Lissauer. Their date may be placed at the end of the last
+millennium, and to judge from the funeral furniture and
+pottery they belonged to a Slav-speaking population.®
+
+An inspection of the two Tables shows that the Finns are
+not a homogeneous race, as it includes both dolichocephals
+and brachycephals. Beginning with the former class, and
+comparing the Hime with the Ceremis, we see that the
+former have shorter, narrower heads; that comparing the
+Hime with the Ostiak, taking the sexes together, there is
+little difference in the length and breadth of the head,
+though the former have a much higher head ; that, taking
+both sexes together, the head of the Ceremis is rather
+larger and broader, and about 12 mm. (4 in.) higher than
+that of the Ostiak; that in length and breadth the crania
+of Permian and Ostiak women are almost the same, but
+
+1 Maliev, (2) xvii. Table xi.; (1) Appendix, § 2% Sommier, (1) pp. 90-93.
+
+3 Lissauer, (2) Table opp. p. 134, 106.
+
+
+CRANIOLOGY OF THE FINNS 37
+
+
+the latter are platycephalous. Comparing next the Hame
+with the dolichocephalous Russians in Table ITI. |. 12, we
+see that the length and breadth of the skull, and, therefore,
+the cephalic index is the same; the vertical index unfor-
+tunately is not given, but the orbital index of the Hame is
+a little higher. Compared with the above Russians the
+Ceremis head is longer, broader, and higher, but compared
+with the Teutonic crania (Table ITI. 1. 20) it is consider-
+ably shorter, nearly the same breadth, but lower.
+
+In the sub-dolicho group we find a change. Instead of
+being longer and broader than the Hime head, the
+Ceremis skull is now considerably shorter and rather
+narrower, though about the same height. Compared with
+the Permian male, the Hime head is longer and broader,
+but not so high; yet in the female skull the Hame is
+higher than the Permian. As regards the orbital index
+the Hame is mesoseme, but the Permian megaseme.
+
+In the mesocephalous group the same relation between
+the Hime and the Ceremis is perhaps maintained, though
+there is only one skull to judge by. Though the Permian
+female skull is higher than the Hame it 1s decidedly
+shorter and narrower. In the sub-brachycephalous class
+the male Hame skull is longer and broader than any
+other in the group, and is only exceeded in height by the
+Permian ; but the female head is much shorter, narrower,
+and higher than the Permian female head. In the
+brachycephalous group the male Hame head is longer and
+higher than the Permian, while both are nearly equally
+wide ; the female Hime head is about the same length as
+the Permian, but narrower and lower, though after all the
+observation is made on a single instance.
+
+The main difference on the average between North
+
+
+38 PRE- AND PROTO-HISTORIC FINNS
+
+
+Russian crania and those of the West Finns, seems to be that
+the latter have a lower cephalic but rather higher vertical
+index—in the case of female crania the difference is very
+decided—and considerably higher transverse vertical and
+orbital indices; though in the three sub-brachycephalous
+crania of Laurenzberg Slavs, the vertical and transverse
+vertical indices are even higher than the Hame, yet the
+orbital index of the latter always remains higher. It is
+perhaps the best test of all the indices here given. The
+Permian crania, taken on an average, in spite of the
+differences we have noticed above in the separate groups,
+have indices a little higher than the Hame, but on the
+whole agreeing with the latter, save in having a lower
+orbital index. But when the sexes are taken separately
+a great difference is observable; the males are brachy-
+cephalous, the women mesocephalous; whereas, taken on
+the average, the sex-differences in the Hame type are nearly
+smoothed over. The Ceremis being dolichocephalous, in
+the wider sense of the term, have maturally a low vertical
+index, which agrees nearly with that of the purely dolicho-
+cephalous Letts and Russians (Table ITI. ll. 9, 11), but is
+still far removed from the platycephaly of the Ostiaks.
+
+As the West Finns contain a percentage of long-heads
+that cannot entirely be accounted for by crossing with
+Scandinavians, and the Permians and Votiaks also contain
+a few, while the Ceremis may be regarded as mainly long-
+headed, the question arises, How did they acquire this
+dolichocephaly, and what was the race with which they
+were crossed? Later on, when dealing with the archzology
+of North Russia, we shall find that a small tribe of small-
+headed dolichocephalous people lived on the Lower
+Volkhov, where it debouches into Lake Ladoga, far back
+
+
+- we ower
+
+
+CRANIOLOGY OF THE FINNS 39
+
+
+in the neolithic period; that at the source of the river
+the tribe included at least one short-headed member;
+that on the Okd two crania, one sub-brachycephalous
+and the other sub-dolichocephalous, belonging to the
+same early period, were found in two graves in the
+neighbourhood of Murom; that several short-headed and
+one long-headed cranium belonging to a much later time,
+though still in the neolithic age, have been taken from a
+shell mound in Livland. I shall be able to show, I hope,
+the considerable likeness that exists between the Ladogan
+and the Ceremisian crania, and to establish the probability
+that the Ceremis are in part descended from this pre-
+historic tribe.
+
+As the Ladogan population was, comparatively speaking,
+small-headed, and had probably dark chestnut, not blonde,
+flaxen hair, it could not have been an Eastern prolongation
+of the Scandinavian blonde dolichocephals, though it had
+been so long in Europe that it almost deserves the term
+European. It will be seen, too, later on, that archeology
+speaks in the same sense. From the distant affinity
+between the Finnish or Ugrian languages, it is natural to
+suppose there might also be affinity of blood between this
+long-headed race, that seems to survive in the Ceremis,
+and the Ostiaks. It is true the latter are, almost without
+exception, chamecephalous, but this perhaps is only a
+local variation, for in other respects these two peoples
+agree in possessing a white skin, dark chestnut hair,
+darkish eyes, short stature, small hands and feet. The
+question can be settled only by experts, though it may be
+pointed out that Virchow has measured fifteen male and
+female platycephalous crania, presumably Teutonic, from
+@ row-grave cemetery near Alsheim (Rheinhessen), with
+
+
+qo
+
+
+40 PRE- AND PROTO-HISTORIC FINNS
+
+
+which were found a coin of Antoninus Pius and one of
+Constantine the Great. The indices were as follows :—
+Cephalous index 6M. 72°7 9F. 74°2
+Vertical 5, ry) 67°95,  68°9!
+Platycephalous crania have also been found in the long
+barrows in England and elsewhere.
+
+If the Ceremis are really the descendants in part of the
+old Ladogan population, and the short-headed men of the
+neolithic period were of a different stock, the latter may
+have been Finns, and, if so, may be regarded as having
+lived for a very long time in Europe. The question then
+presents itself: To which race belonged originally the
+languages now known as Finnish and Ugrian? In other
+words, did the short-headed men impose their tongue on
+the long-headed men, or was it vice vers4? The question
+cannot at present be answered. Yet considering the great
+interval of time during which these two types of crania
+have been in close contact, it is possible to believe that
+the original congeries of human beings, from which by
+hypothesis sprang the united Finno-Ugrians or the united
+Finns alone, was not composed of a homogeneous cranial
+type. Even if this period is set back for a myriad of years
+there were still several myriads of years behind the human
+race, during which several allophyl elements had time to
+unite.
+
+
+CRANIA FROM THE BALTIC PROVINCES,
+
+
+The whole of Esthonia is and has been inhabited by
+Finns, at any rate in part, since the beginning of the later
+Iron Age, or about 500 a.p. The north of Livland is still
+
+
+1 Virchow, (x) p. 495.
+
+
+CRANIOLOGY OF THE FINNS 41
+
+
+peopled by Esthonians, but in the middle of the thirteenth
+century, when the German knights took possession of the
+country, the Finns or Livs, as they were called, extended
+further south, and also occupied the western portion of
+the province ; the central and south-eastern divisions being
+at that time in the hands of the Letts. In Kurland the
+Kurs held the northern part of the great promontory that
+ends in Domesness, and perhaps a strip along the sea-coast
+that united them with the Livs. The rest of the province
+was and still is tenanted by Letts and Lithuanians. The
+question to be settled is whether Finns were the first
+occupants of Esthonia and Livland, or whether they were pre-
+ceded by another people. Now that we have learnt a few
+facts concerning the Hame skull in Finland, it is possible
+to take a glance at the crania that have been brought to
+light in the Baltic Provinces, so as to form an opinion how
+far they belong to the Hame type of Western and Central
+Finland.
+
+In Table IV. are brought together the indices of 91
+crania; 87 of them measured by Professor Virchow,
+4 by Dr. Kharuzin, who uses Broca’s method, and all
+arranged in geographical order from north to south,
+Though no age is assigned to several of these crania,
+the presumption is that none of them belong to a very
+remote age, for, on the whole, before the introduction of
+Christianity cremation prevailed. Hence it is more than
+probable that they belong to a time when the population
+was the same as in the thirteenth century. The only
+certain prehistoric crania are those of the lower series,
+found in excavating the Rinnekaln in Livland, while the
+upper series from the same mound can only be from three
+hundred to four hundred years old.
+
+
+PRE- AND PROTO-HISTORIC FINNS
+
+
+42
+
+
+Lg oo.
+#389 57 9s mr
+-éqoun-ang |{ coe «oe
+ompeqd: a I{ ey “ “
+vopnop-ans |{ 172 “oe
+soup 6.gh (sours
+Dev sakes |{ 98.96 Joddn) upeyouupy
+Ben pena
+£59 woe
+(sous
+90.82 FaKo}]) UTEASUUTY
+21g g TMP PUB sTES
+1 .
+ae : H “ed
+sees ; |; pues
+*. ; 1| x FA
+sono 26] tat] © rio : “
+ssmpra toy ca] 0g] res] gisj rf fe |e a
+*g.98| ogb| 1.06 | £14] Lec} a] ca | & 1 PRO! OTT
+spor | oog| ~~ | 96 | pec} oss) r}-a| «|: -  «
+vor 1938] g.vg| 69h] ooor] Ze] 2EZ} 1 | wl] “
+soyspunys Tq] y0.2g| 0.6¢| g.Sor] ofé| Let) 1] wat): * enue
+“reas | Teen | aa ak | onsen |oneedea|
+cerevers swy| os | ona sworn
+‘soIaNT
+
+
+“AI 21EVL
+
+
+43
+
+
+CRANIOLOGY OF THE FINNS
+
+
+Sex -d (2) ‘sonessr] , orzx “d (£) ‘pugz 9 "039 ‘seb “dd (1) ‘MOqINA ¢
+063-Eb: “dd (8) “prey » "1gE “d (1) “pros ¢ ELE-2LE “dd (1) ‘moqon,a ¢ 6$e-t6e ‘dd ‘uznsmyy _
+
+
+EE a Kem Re as
+
+
+oB1oquinzjoyy
+MOU Ud}2AII
+
+
+* daqqzis
+é¢ €é
+BInqlP?sS UV
+
+
+gees 9 ee | ee | eeewen § come | oem 9 ecommerce
+
+
+oe £.96 | 0.2) 6.22] 1
+6.gb| 9.06 | 9.14] 9.94] 8
+1.18} 9.66 | 6.2£| 2.££] g
+se | $.Zor] £19] 092] 1
+8.09 eee eee 1.2 I
+00S} £.10r| 92] z.£2) 1
+eb) ve 120.82) 2
+ae 8:86 | 9. sf 5.94 I
+982 | 9- 8 8:94) I
+ove e ZvL| L&g| 1
+
+
+"OSZI Ur
+
+
+pur mou 4513327]
+
+
+oSz1 eof ayy
+
+
+jhoqe pues MoU YsNIF]
+
+
+VINOAT‘I
+
+
+44  PRE- AND PROTO-HISTORIC FINNS
+
+
+The Lettish and Lithuanian crania are given without
+indication of sex, though probably both sexes are included.
+For purposes of comparison it is often useful to know the
+average maximum length, breadth, and height of a set of
+crania, and as there was no room for this in Table IV. the
+measurements are appended below :—
+
+
+Mod Lettish Length. Breadth. Height. Ceph. ind. Vert.ind. Tr. vert.
+50 Skulls $4796 140° 130°9 78S 72°99 93°43
+
+
+15 Modern Lithus- \i79°3 1406 133°4 78°45 74°45 94°87
+
+
+Both sets of crania seem very similar in length and
+breadth, but the Lettish is about an eighth of an inch
+lower, and therefore its vertical and transverse vertical
+indices are also lower than the Lithuanian. For a meso-
+cephalous type 72°9 or 73° is a low vertical index, since about
+one unit must be subtracted to reduce them to the scale
+of Broca, which seems to imply that the group contains a
+large proportion of dolichocephals. Though the vertical
+index of two sub-dolichocephalous men of Hame type is
+only 72's, the actual average height of their crania is
+7 mm. higher than the Lettish; on the other hand,
+the vertical index of two sub-dolichocephalous Hame
+women is as much as 77°6. As the sub-dolichocephalous
+Ceremis and Permians have also a rather high vertical
+index, a low sub-dolichocephalous head in the Baltic
+Provinces cannot be regarded as Finnish, but must be
+considered as belonging either to a Lett or to a Finnicised
+Lett.
+
+Though the modern Lettish skull is mesocephalous, it
+would seem that this has not always been the case. Pro-
+fessor Virchow, basing his opinion on crania of almost
+
+
+CRANIOLOGY OF THE FINNS 45
+
+
+certain Lettish attribution, such as the 16 from the
+Gulbern district, 3 from Terveten, 2 from Alt Pebalg,
+and 2 from elsewhere, arrives at the conclusion that the
+Lettish type is dolichocephalous, as the following Table
+exhibits : !—
+
+TABLE V.
+
+
+Comparing these indices with the modern crania above,
+we see that the vertical index is practically unchanged, but
+that the transverse vertical index is lower in the latter. To
+account for this difference, supposing the actual height to
+have remained constant, the older skull must have been
+narrower than the modern one. No doubt it was also a
+little longer. What is true of the onginal Lettish type
+seems to be true of the old Lithuanian type. In the large
+and numerous Pagan cemeteries of the eleventh century
+that exist in the neighbourhood of Bielsk and Drohiczyn
+(government of Grodno), between the Bug and the Narev,
+that is to say, in a region inhabited at that time by
+Yatvings, a Lithuanian tribe, dolichocephalous crania alone
+have been disinterred.?
+
+To the crania in Table IV. must be added ro more
+from the three Baltic Provinces, for which there was
+no room before, as they are drawn up in another form.
+
+
+1 Sievers, (2) pp. 122-128, with observations by Virchow.
+2 Count Louis de Fleury, pp. 331-334.
+
+
+46 PRE- AND PROTO-HISTORIC FINNS
+
+
+They were measured by Dr. Weinberg, and were taken
+from burial-places dating from the tenth to the twelfth
+century.! As he has calculated the vertical and trans-
+vertical indices from the maximum height of Virchow, I
+have added two columns in which the dregma height is
+used, and enclosed the figures in square brackets.
+
+It is now time to pass in review the contents of Tables
+IV. and VI. to ascertain how far the Finnish type of skull
+prevails in the northern half of the Baltic Provinces.
+Beginning with Esthonia, we find that out of 23 adult
+crania, from seven different places, not one accords
+with the average Hame type in Table III.; either the
+cephalic or the vertical index is too low, though the high
+orbital indices from 86 to 88x in some instances are
+certainly an indication of Finnish rather than of Lettish
+origin. Yet on that account alone we are not to suppose
+that the owners of these crania, when alive, did not speak
+a Finnish dialect. In all probability they did so; at any
+rate most of them. With regard to the 4 crania from
+Piihtitsa, which lies near the Russian frontier, Dr. Kharuzin,
+who measured them, is almost sure they could not have
+belonged to a Finnish people, and Professor Viskovatov,
+who conducted the excavations, says there is no doubt,
+judging from their family names, that the present in-
+habitants are Esthonianised Russians.* The high orbital
+index of the Hallist group may perhaps be attributed to
+crossing with Finns, while that of the Fellin triplet is low—
+rather lower, in fact, than the average Lettish male orbital
+index in Table V. That miscegenation on a great scale
+between Finns and a long-headed orthocephalous popula-
+tion, like the Letts, has taken place, seems quite evident.
+
+
+1 Weinberg, pp. Ir-13. 2 Viskovatov, p. 239.
+
+
+47
+
+
+CRANIOLOGY OF THE FINNS
+
+
+g.£5 | g.1g | §.98 |[4.£6
+
+
+Se eel eee! le Cree eed feel
+
+
+eco
+
+
+6. ZS +61
+
+
+Lg | ¢.96
+ce | 458 ce 6.28
+
+
+6.1 | | ¥-08
+
+
+eco eee ¥.08 og
+
+
+g-66
+
+
+1.96
+¥.68
+
+
+6.zZ01
+
+
+1L} €.%2 | 6z1| rE
+
+
+8.99 | £.49 | zz1 | Sz1
+. ee 1 ofr | 6E1
+02) S.£2 | Lex | Let
+-69 | 6.42 | ver | 921
+
+
+v.S£ | 6.€2 | o€1
+
+
+1.92 | £.92 | 11
+g.94| 9.€2 | rb1
+
+
+a | AS | a | | oS fc
+epee | eee |
+
+
+| ee | ee | ee | ee | ee fe Fe
+
+
+IA Fave
+
+
+* Popuaqqn’]
+
+
+' asway
+
+
+Hopspouramyy
+*  STTOy
+
+
+° AD-SEITY
+
+
+“HSIATI
+
+
+"NVINOHLSG | “HSILLGT
+
+
+48 PRE- AND PROTO-HISTORIC FINNS
+
+
+We know that in the twelfth century, when the Livs ha:ried
+the Letts, they killed the men, and generally carried off the
+women and children as prisoners.1_ No doubt they were in
+the habit of doing so in still earlier times. Such a practice
+would lead not only to frequent crossing of blood between
+the two races, but to the incorporation of a considerable
+number of pure Letto-Lithuanians into the Finnish popula-
+tion, for the Lett boys and girls that were spared no doubt
+became Finnicised before they became adults. Though
+we have already found reason to believe that from a very
+remote time there must have been a certain percentage of
+long-heads among the brachycephal Finns, it would not
+account for the absolute absence of even a single sub-
+brachycephalous skull in the province of Esthonia. The
+only inference seems to be that Esthonia, before the arrival
+of the Finns in any great body, had already been colonised,
+though not very densely, by a long-headed orthocephalous
+people like the ancient Letts and Lithuanians. Another
+fact pointing in the same direction is the name of
+Esthonians, applied to the Finns of Esthonia. By the
+Scandinavians they were termed Zis#r. This name is
+identical with that of the Aistii of Tacitus, the Estas of
+Wolfstan, a people that lived on the Baltic coast, east of
+the Vistula, and are identified with the Old Prussians, who
+were of Lithuanian stock. Letto-Lithuanian tribes may
+therefore be supposed to have held East Prussia and the
+Baltic Provinces, and to have been collectively known to
+the older Scandinavians as Aistiz, to those of the Viking
+period as Eistir. When the Finns made their way into the
+northern part of the provinces, and absorbed the native
+population, they also inherited the name of Eistir, and the
+1 Wiedemann, p. Lxiii,
+
+
+CRANIOLOGY OF THE FINNS 49
+
+
+country they occupied received the name of Estland, or the
+land of the Lists.
+
+Crossing the political, though not the linguistic, fron-
+tier into Livland, and leaving aside for the moment the
+crania from Rinnekaln, we find 5 crania from Salis and
+2 from Ikul See that certainly belong to the Lettish type
+established by Professor Virchow. ‘The low vertical and
+orbital indices seem decisive on this point. The
+four Livish skulls in Table VI. are of varied types, but
+Finnish blood may well have run through the veins of at
+least one of these brain-pans. So far then as the scanty
+evidence goes, the Livs must have been a mixed breed,
+at any rate in later times, when we first hear of them in
+history.
+
+The crania from Rinnekaln in Liviand require special
+notice and attention, for, if Professor Virchow is correct,
+a Finnish people frequented the spot in a neolithic period
+when all instruments were of stone or bone. On the south
+bank of the Salis, where it issues in a stream about 25
+feet wide from Lake Burtneek, is a natural elevation about
+198 feet long, 49 feet wide, and 8 feet high, known as the
+Rinnekaln. Its upper surface for a depth of about 3 feet
+is composed of mussel-shells, bones and scales of fish,
+with other food refuse. The archzological contents will be
+described in greater detail in another chapter. For the
+present it is sufficient to say that the upper part of the
+mound consists of the débris left by a prehistoric people that
+went there periodically to fish, to eat mussels, to hunt, and to
+trap beavers. With the exception of three or four stone
+implements, including a polished diorite axe found on the
+upper layer of mussel-shells, the harpoons, scrapers, arrow-
+heads, etc., were all of bone. The remains of wild mam-
+
+x D
+
+
+50 PRE- AND PROTO-HISTORIC FINNS
+
+
+malia included those of the Greenland seal, the beaver,
+elk, boar, Bos primigenius, the bison, etc., but not the rein-
+deer. The domestic animals were the dog and the sheep,
+it being uncertain whether the few bones of a larger and
+smaller breed of cattle had belonged to domesticated
+animals or not. The presence of the horse is somewhat
+doubtful, as only one tooth was found near the top of the
+mound. A few sherds of pottery indicate that the potter’s
+art was known and practised. In excavating the mound
+two series of crania were uncovered. The upper series lay
+at a depth of from 1 to 2 feet, and had been deposited
+there not more than three or four centuries ago, as coins
+and other objects lying beside the skeletons abundantly
+proved. The six crania of the lower series lay at different
+depths from 4 feet 2 inches to 2 feet 5 inches below the
+surface. Three of them reposed in the black earth under-
+lying the shell-mound, and below layers of mussels and
+refuse that had not previously been broken through with
+pickaxe and spade. With one exception these six crania
+were brachycephalous. The indices of these five short-
+headed skulls, without distinction of sex—in Table IV. the
+sexes are given separately—were :—
+Ceph. ind. Vert. ind. Orbit. ind. Nasal ind.
+83°0 74°1 82°7 48°3
+
+
+In some instances the skeletons were preserved. Two
+of those in the black earth below untouched layers of
+shells, and one in the lower part of the shell-mound, had
+been deposited with the head to the north-east and the
+feet to the south-west. This last skeleton lay surrounded
+by quantities of splinters of bone and sherds of pottery.
+On the breast of the long-headed skeleton, which belonged
+
+
+CRANIOLOGY OF THE FINNS 51
+
+
+to a woman, lay a curious-looking ornament of bone; at
+her head was a bone arrow-head, at her feet lay two others,
+one of bone, the other of mica schist.
+
+Out of the 29 crania of the upper series only 5 were
+sub-brachycephalous. Taking both sexes together—in
+Table IV. they are given separately—the indices were :—
+
+
+Trans.
+* | vert. Nasal. Orbit.
+
+
+48°7
+
+
+76°9 | 94°2 | [2 p.J85°0 se
+Pp
+
+
+73°7 937 [5 plt9"2 (5
+93°6
+
+
+Comparing the short-headed crania of the upper and
+lower series, Professor Virchow finds they closely resemble
+each other; that they do not differ ethnologically, and
+there is nothing to prevent their being classed together.
+With regard to nationality he believes we need hardly
+hesitate to consider the short heads as the Finnish and the
+long heads as the Lettish element. The first stand very
+near the Saarhof skull, the second closely resemble the
+crania from Alt Selburg, Alt Pebalg, Gulbern, and Ter-
+veten. With regard to the mesocephals he is uncertain
+whether they belong to a pure or to a hybrid race, and also
+whether the Livs are of mixed blood or not. The meso-
+cephalous crania from Rinnekaln are not separable from
+those of Launekaln, Ascheraden, and Gulbern. If these
+are held to be Livish something is to be said in favour of
+the belief. But it must be remembered that Lithuanian
+and Lettish skulls, such as those, for instance, in Table IV.,
+are also mesocephalous. For the present it is an open
+
+
+52 PRE- AND PROTO-HISTORIC FINNS
+
+
+question whether the Livs are a mixed Letto-Finnish people
+or not.!
+
+Assuming with Professor Virchow that the brachycephals
+of the lower series were Finns at a neolithic stage of
+civilisation, though the vertical and orbital indices of the
+males are lower than might be expected, it does not follow
+that they were the first settlers in what is now Livland.
+It would seem they were not permanently living on the
+shore of the lake, and one of the skulls of the series
+appears to have belonged to a sub-dolichocephalous old
+woman of Lettish type. Whether a captive or not, after
+death she was treated with respect. She was buried with
+a curious carved bone ornament on her breast, arrow-heads
+at her head and feet, and her body was laid in the same
+direction as a genuine member of the tribe. It is im-
+possible to fix a precise date to the shell-mound at Rinne-
+kaln, but it was rather late in the neolithic period, as the
+presence of sheep and of two breeds of oxen sufficiently
+show. It is also later than the stations at Kunda in
+Esthonia, of which we shall have to speak in another
+chapter.
+
+
+1 Virchow, (1) pp. 411-432; Sievers, (1) pp. 217-222.
+
+
+CHAPTER II
+THE NEOLITHIC AGE IN FINLAND
+
+
+By a brief study of the archeology of Finland and the
+north centre of Russia, we may form an idea when man
+first came into these northern climes, and make more or
+less well-founded conjectures as to his manner of life and
+civilisation, as well as the quarter of the compass from
+which he proceeded. The north of Russia must have been
+habitable for a long time before man thought it worth while
+to try his fortunes in the wintry land, for traces of the
+mammoth have been found in almost every part of
+European Russia, from north to south and from east to
+west. Yet no handiwork of man is found associated
+with the tusks of Eiephas primigenius in any part where
+it is likely that Finns have ever resided. It is true
+the late Count Uvarov believed he had discovered flint
+implements of palzolithic type with tusks of the mammoth
+at Kara¢drovo, near Mirom, but the antiquity of the flint
+implements has been disputed, and the presence of sherds
+of pottery clearly relegates the find to the neolithic period.
+The history of man in the north and centre of Russia
+begins with the neolithic age, when he had learnt to grind
+and polish his stone implements, though he often neglected
+to do so. _ As illustrations of archzological objects would
+
+
+be somewhat out of place in a work of this sort, I have
+68
+
+
+54 PRE- AND PROTO-HISTORIC FINNS
+
+
+referred, whenever possible, to the well-known and very
+useful atlas of Mr. J. R. Aspelin, Antiguités du nord finno-
+ougrien, under the shorter form of Asp. No.
+
+Perhaps the earliest type of stone implement found in
+Finland is a crowbar-shaped tool, a foot or two long,
+the point alone of which is usually ground smooth.
+This simple tool, supposed to have been used for boring
+holes in ice, is found in greatest abundance just above
+and below the arctic circle on the banks of the Kemi,
+on the shores of Lake Kemi, and even further northwards.
+In smaller numbers it is met with across the centre of
+Finland, in Karelia and Oldénets, but not in the south-west
+of Finland, nor in Sweden and Norway (Asp. No. 28, 29).
+Another hacking instrument, sometimes as much as 17 in.
+long by 24 in. wide, with one side carefully ground flat, the
+back rounded like a keelless boat, and the two ends ter-
+minating in a point (Asp. No. 34) or a short straight edge,
+seems to have had its focus of manufacture in Oldnets.
+Thence it spread in no great numbers westwards, though
+not so far as Satakunta or to the south-west corner of
+Finland, and northwards without reaching lat. 64° N.
+Examples have also been found near the mouth of the
+Volkhov in the great Ladogan find, and there is a broken
+specimen in the University Museum at Kazan from the
+district of UrZum (Vidtka). In a variety of this instru-
+ment, found in Oldnets, the upper flat surface is concave
+(Asp. No. 32, 33). A flat, wedge-shaped axe of oblong
+section, made of the native stone of the country, and of the
+same type as one widely distributed in the centre and
+south of Sweden, in the south of Norway, and the north of
+Germany, is also found in the Grand Duchy (Asp. No. 17,
+19). It occurs in greatest profusion in the south-west
+
+
+THE NEOLITHIC AGE IN FINLAND 55
+
+
+corner of the country ; it does not extend so far north as
+lat. 64° N., or further east than the western shore of
+Lake Ladoga, occurring there in only trifling quantities. A
+longer axe, generally of quadrangular but also of oval
+section, is also thinly distributed over much the same
+area, though reaching eastwards into Oldnets (Asp. No. 31).
+Some of the chisels are of almost triangular section, and are
+mainly confined to Karelia and Oldnets; they are not
+found in Scandinavia or on the Baltic coast. Chisels no
+doubt were mainly used for cutting wood, though they
+could serve for other purposes, for stone chisels were still
+used not many years ago by the Lapps, in the parish of
+Kuusamo (Kemi), for removing the hair from the moistened
+hides of reindeer.! Of gouges there are two types. The
+first has a flat face, in which the groove is made at one end,
+and the short sides and back are rounded. With the
+exception of the extreme south-west corner, such gouges
+are common over the whole of Finland up to the Arctic
+Circle, but most of all in Karelia and Hame or Tavastland.
+They are also common enough in the governments of
+Kazdn and Vidtka ; and one from Andnino, near Elabuga,
+in the University Museum at Kazan, may serve in dating
+some of these instruments. The other type has a flat back,
+does not taper, and the short sides are also flat and
+parallel. It is chiefly confined to Central Finland, and
+hardly touches Karelia (Asp. No. 47, 48).
+
+The most interesting archzological objects, however,
+are the perforated, boat-shaped hammer-axes of the same
+general forms, though with slight differences, as those
+known in Sweden (Asp. No. 64, 65). More than a
+hundred are recorded, and their distribution is worthy of
+
+1 Montelius, (2) p. 197.
+
+
+56 PRE- AND PROTO-HISTORIC FINNS
+
+
+notice. They occur only in the south-west angle of the
+Grand Duchy, and are not found east of a line drawn from
+about the mouth of the Kymmene, on the south coast, to
+Ny Karleby, on the west coast.! A couple of flint daggers
+with neat serrated ridges along the haft, of well-known
+Scandinavian type (Asp. No. 57), have likewise been found
+in the south-west of Finland. As there is no flint in the
+country, they must have been imported from Sweden.
+Like the boat-shaped hammer-axes, they belong to the
+fourth or latest period of the neolithic age, according to the
+classification of Mr. O. Montelius.
+
+Very different from the perforated hammer-axe of South-
+west Finland is a rude perforated instrument, pointed at
+both ends, the body of which may be lozenge-shaped, or
+more or less elongated, but is always provided with a pivot-
+like protuberance, on each side of the hole, at right angles
+to the long diameter (Asp. No. 66-70). It has its chief
+development in Olénets, but it has also been found in
+Bothnia and in Satakunta, where both the lozenge and the
+narrow type occur. A lozenge-shaped axe or double pick,
+but without the lateral pivots, was found near the village
+of Volédsovo near Mifrom.? Not unconnected with these
+are the perforated picks of various forms, including that
+of the lozenge, but all terminating in the head of an animal.
+Five are known from Olénets, one from Karelia, and two
+from the government of Archangel, of which one came
+from as far north as the district of Mezen (Asp. 71,
+73-76).8 Though these instruments certainly belong to a
+stone age, it is very probable, as Mr. J. R. Aspelin supposes,
+that they are imitated from bronze weapons of the later
+
+
+1 Nyman, pp. 303-337. 3 Uvirov, vol. ii. Pl. 25, No. 369
+8 Jbid., vol. ii. Pl. 34, No. 4736.
+
+
+a
+
+
+THE NEOLITHIC AGE IN FINLAND 57
+
+
+bronze period, such as are found on the Lower Kama.
+Stone lance- and arrow-heads have also been found in
+small numbers, chiefly in Bothnia and Hame.
+
+The art of pottery was also practised in the later stone
+age. At Hankasalmi, east of Jyvaskyla, in the heart of
+Finland, were discovered by Dr. Heikel in 1894 several
+large fragments of an urn which he found possible to re-
+unite, and so to restore in part the original vessel. In
+diameter it was about 15 inches, and the bottom was
+evidently round. It was ornamented with several alternate
+bands of holes in three rows and diagonally arranged
+punch-marks, made with a square-toothed, comb-like in-
+strument, and the inner edge of the rim, which was bevelled,
+was adorned with similar punch-marks. In the neighbour-
+hood of Lake Ule& ornamented clay vessels, partly finished,
+partly incomplete, were found with stone chisels, and at least
+two clay moulds for celts of East Russian and Siberian type.
+The ornament on the sherds consisted of rows of impressed
+points and diagonal punctured grooves, a very character-
+istic ornament often observed in the neolithic pottery from
+the mouth of the Volkhov, from Oldénets, the Valdai, and the
+Oka. Sherds have also been discovered elsewhere, in the
+parish of Virdois north of Tammerfors, near Lake Kynsivesi
+in Hime, and in some profusion on the Vuoksi river.!
+
+From the above résumé several important deductions can
+be drawn with more or less probability. It is evident that
+during the stone period, which lasted to all intents and
+purposes to the beginning of the Christian era, Finland was
+inhabited by two, if not three, distinct peoples. Which of
+these first appeared upon the scene it is impossible to
+conjecture. Finnish archeologists are unanimous in be-
+
+2 Heikel, (x) p. 13x, Fig. 16; Hackman, pp. 368, 369.
+
+
+58 PRE- AND PROTO-HISTORIC FINNS
+
+
+lieving that the south-west part of the country, where the
+flat wedge-shaped axes and the boat-shaped hammer-axes
+are found, was inhabited by a Scandinavian people that
+arrived there from Sweden. According to Mr. O. Montelius,
+the beginning of the Bronze Age in Sweden may be dated
+about 1700 B.c., and these hammer-axes belong to the
+period immediately previous. But as doubtless they were
+in use for a long time after the introduction of bronze, the
+first appearance of the Swedish colonists might be placed
+about 1500 B.c. Yet as the wedge-shaped axes are of a
+still older type, the hardy adventurers may have found their
+way to the coast of Finland at a still earlier date. The
+second people are generally supposed to have been the
+ancestors of the Lapps. But as the Ladogan people at
+the mouth of the Volkhov were certainly not Lapps, and
+the hacking instrument with a back like a keelless boat
+was known to them, and has not been found very far to the
+north, it seems likely that some of their tribes made at
+least hunting expeditions and fishing excursions to the fishy
+lakes and rivers of Finland.
+
+
+NEOLITHIC MaN ON THE SHORES OF LAKE LADOGA
+AND EASTWARDS.
+
+
+As no crania of neolithic man are known in Finland,
+it is fortunate that several have been brought to light in a
+region so near at hand as the south shore of Lake Ladoga.
+In 1878, while digging the new Sids canal from the mouth
+of the Volkhov eastwards to the river Sids, 10 crania, 8
+portions of skeletons, numerous bones of animals, and
+many specimens of human industry, were uncovered. The
+majority of these lay on the level of the bottom of the
+
+
+59
+
+
+THE NEOLITHIC AGE IN FINLAND
+
+
+S
+
+
+"dQ0UQ) VIR]
+
+
+1.$Z[€]] 6.92 | e€: [€] vLt bv |* oyorop-qns
+EZ [£)| S.1Z | 9€1 [z] €g1 9 | feqdssoyo0g
+qdep)] WPH | Tpecg | -qBu9] oFesy | -on
+
+
+* qyauey]
+
+°  —« Xopuy
+
+. ape |
+
+>  peag) EB
+eee eee eve eon e Tea} e
+601 | °" “ * — * PRIEQIOIT J 9
+zos ‘~~: Feyaozr0yy
+eee ore | eee * Suey ‘oUNe sidns
+gof *  —-Feqrd1990-03001,7
+PII 7% * peqtdra9
+gel "8  * [eee
+gzr e e e [sza01 |
+- 16.69 | *
+zg.1Z |02.29 |Lb.9£
+
+
+or
+9
+
+
+* [enn
+QSIDASUBI]
+
+
+cal
+JOLI9}s0d-or9]uy
+
+
+JoWIVIGG °*x9
+
+
+ &
+
+
+VINVE) NVOOaV]
+
+
+"40085 GKxOoES
+
+
+TIA 318v.L
+
+
+60 PRE- AND PROTO-HISTORIC FINNS
+
+
+canal, in a thin bed of alluvial peat overlying a thin layer
+of red clay, itself overlaid by about ten feet of strati-
+fied sand and peat, which was again covered by seven feet
+of blown sand. The depth at which these human remains
+were found is therefore very considerable.
+
+The crania have been described and figured by the
+late Professor Bogdanov, some of whose measurements
+are reproduced on Table VII.! Prehistoric Ladogan man
+was distinguished by the thickness of the walls of the skull
+in male crania ; by small development of the forehead and
+by small-headedness. The femoral bones were also of
+small dimensions, but the attachments of the muscles show
+that his muscular system generally, especially in the upper
+part of the body, was well developed. Though Bogdanov
+found indubitable traces of relationship between the
+Ladogan crania and those of the Aurgan type of Central
+Russia, yet in his opinion the former belonged to a type
+that was neither Slav, nor Finnish, nor Mongol.?
+
+Comparing the Ladogan dolichocephals with those on
+Tables ITI. and ITI., we find their indices agree best with
+the Ceremisian dolichocephals, though the latter have a
+longer and broader head, the height being nearly the same.
+In actual size these small Ladogan skulls come very near
+those of three Permian women, though the indices work
+out differently. Taking next the sub-dolichocephalous
+Ladogans, we again find an agreement, but still more
+close, with the indices of the sub-dolichocephalous Ceremis
+and with a single Permian man, though in all respects
+the Ladogans have a much smaller head—about the same
+size, in fact, as that of sub-dolichocephalous Permian
+women. ‘Though we have only 10 Ladogan and 12 Cere-
+
+
+1 Inostrantsev, pp. 105, 106, 3 Jéid. pp. 221-223; PP. 128, 237.
+
+
+THE NEOLITHIC AGE IN FINLAND 61
+
+
+misian crania to compare, yet taking into consideration
+the difference of size between the two sets, and that they
+are separated in time by fully three thousand years, it is
+remarkable that four pairs should be found that are not
+sO very dissimilar.
+
+
+Ant. post. diam..|179 180 |170 172 |x8r 184 | 183 187
+
+
+Transverse ,, ./|137 137 |130 132 [130 133 [132 135
+Vertical » © {332 126 -- 138 we 140 |137 134
+Horizont. circum. | 485 509 | 470 484 |502 503 | 495 SI3
+Cephalic index . | 76°5 76°31] 76°4 76°7| 71°82 70°7| 72°t 72°2
+Vert. rT) 73°'7 7° woe see 748 71 6
+Trans. vert. ,, 96°3 91°9 103°7. 99°9
+
+
+As I am not an anthropologist myself, it must be left to
+experts to decide whether a sufficient case has been made
+out for connecting these two series of crania—though, of
+course, it is not contended that the Ladogans were Ceremis,
+but merely that the latter are partly descended from the
+same stock as the former, though, with lapse of time and
+crossing, it may be, with other stocks, they have gradually
+acquired a longer and broader skull.
+
+When prehistoric man lived on the south shore of Lake
+Ladoga, the dense forests and the broad swamps that
+hemmed it in to the south were better stocked with game
+than is now the case. Sos lati/rons, bison, elk, reindeer,
+wild boar, beaver, and the tiny sable, tenanted the region.
+The two former are nearly extinct species, the others have
+disappeared into remoter districts; the northern limit of
+the wild boar, which grew to a large size, is now five degrees
+further south. Of dogs there were two breeds, a larger and
+a smaller; the former might have been used for draught,
+
+
+62. PRE- AND PROTO-HISTORIC FINNS
+
+
+the latter for purposes of the chase—though it should
+be mentioned that Count Uvdrov doubted whether the
+dog was domesticated and was not used only as an article
+of food. Though seals are still found in the lake, they
+are small compared with the prehistoric phoce. To find
+the puffin, which formerly frequented the solitudes of
+Ladoga, we must go to the extreme north of Norway.
+The climate, on the whole, must have been rather milder
+than now, for the predominant hard wood was the oak,
+which grew to a large size; at present it does not thrive so
+far north, but remains scrubby and stunted. As beavers
+live on hard wood, and elks prefer the foliage of such
+trees, the forests must have been largely composed of
+deciduous trees such as the oak, maple, willow, poplar,
+and alder.
+
+The objects of human industry made of bone are more
+than twice as numerous as those of stone, though this was
+usually a kind of slate, and not difficult to work. There is
+no flint in the vicinity. Of bone and horn the Ladogans
+made lance- and arrow-heads, daggers, knives, scrapers,
+shovels, hooks (1), harpoons, needles, awls, and ornaments.
+Of stone they made scrapers, carefully ground axes, short
+flat-sided chisels with parallel sides of ,various types, that
+show symmetry and signs of care in their manufacture,
+gouges, wedges, mallets, whetstones, awls, knives, and
+ornaments. Some of the bones show clear traces of saw-
+ing, which was probably effected by a stone wedge with
+the assistance of coarse quartz sand and water. That
+these tools were well fitted for their purpose is shown by
+a dug-out canoe of oak, which must have given some
+trouble to hew, and by heads and outlines of animals
+carved in bone.
+
+
+THE NEOLITHIC AGE IN FINLAND 63
+
+
+From the illustrations given by Inostrantsev, it is not
+very easy to say how far the Ladogan objects agree with
+those found in Finland, though the chisels, with straight
+short sides, and some of the gouges, seem tolerably similar
+in both regions, as well as the hacking instrument men-
+tioned above. Some of the carved work is specially deserv-
+ing of notice, as it may be supposed to possess a distinct
+ethnological value. One piece, Fig. 1, represents what is
+supposed to be the silhouette of a seal, carved in bone,
+with short strokes upon the surface to represent the fur.
+The eye is formed by a hole of suspension, and the plaque
+may have been worn as an amulet to bring luck to the
+bearer. The next, Fig. 2, is the muzzle of a dog or a bear
+carved at the end of a bone-scraper; the illustration, un-
+fortunately, is not very distinct, but is interesting as the
+precursor of the stone picks with animal heads. Fig. 3
+was compared by Inostrantsev to the handle of a dagger,
+but it was afterwards recognised by Dr. Tischler as ‘the
+figure of a man, without a shadow of a doubt.’ He con-
+sidered these Ladogan carvings as belonging to the same
+category as the sculptured figures in bone and amber from
+East Prussia and Galicia, and regarded them as the begin-
+ning of plastic art in the north and east of Europe.’ If
+this view is correct, it militates against the theory that the
+Ladogans were not a European people in the ordinary
+usage of the word; but I see very little likeness between
+the amber carving of East Prussia and the bone carving
+of Ladoga. The main likeness lies in this, that the human
+figures in both regions have a hole of suspension under
+each armpit, though the Prussian examples have sometimes
+another pair of holes on the level of the wrist, but never
+
+1 Tischler, p. 116,
+
+
+64 PRE- AND PROTO-HISTORIC FINNS
+
+
+is the head rendered as it is in the Ladogan figure. The
+carving of the human figures and of two horses’ heads in
+amber is coarse, rude work, clumsy in the last degree,
+without a shadow of skill or taste in design or execution.
+The art and technique of the Cracow figure is on a par
+with that of East Prussia. The firm, clear outlines of the
+Ladogan carving, the careful handling of the fur on the
+seal, and the general symmetry of Fig. 3, point to qualities
+that the amber-cutters never possessed. That Fig. 3 is
+intended for a human figure seems to me doubtful, for if
+the double row of vertical dots is taken to represent the
+separation of the arms and legs, how are the diagonals that
+connect these, and the vertical line through the centre of
+the neck, to be explained ?
+
+The pottery was coarse, thick, uneven in thickness, and
+the clay was often mixed with pounded granite or mussel-
+shells. The size of the vessels was considerable, for the
+largest must have had a diameter of 224 inches at the
+top and the smallest 13 inches, but the idea of attaching
+a handle to a clay pot had not yet occurred. Only about
+ten per cent. of the sherds were ornamented, which pro-
+bably means that the lower part of the vessel was left
+undecorated. The ornamentation consisted of single and
+double rows of holes, arranged horizontally ; of diagonal
+rows of punch-marks; of parallel grooves; and of com-
+binations of these elements. We have already seen that
+the Ladogan pottery has a great resemblance to that of
+Finland.
+
+No date can be assigned to the Ladogan station, though
+It is certainly very ancient, and is prior to the introduction
+of perforated axes and hammers.
+
+
+THE NEOLITHIC AGE IN FINLAND | 65
+
+
+THE STATION OF KOLOMTsI.
+
+
+More than one hundred miles to the south, at Kolomtsi,
+on the right bank of the Volkhov where it issues from Lake
+Ilmen, Mr. Peredolsky found abundant traces of prehistoric
+man. Though he considers the station to belong to the
+palzolithic age, there is no doubt it is neolithic. Several
+crushed and broken skulls were found, eight of which he
+was able to restore, with the result that seven proved to be
+dolichocephalous and one brachycephalous. Unfortunately
+no details are given. The bed of dark earth in which the
+crania lay was about 5 feet thick, and rested partly on a
+glacial deposit, partly on blue clay. This bed was itself
+covered by a stratum of brick-clay about 64 feet thick, and
+above it came layers of sand and vegetable earth from
+3 to 4 inches thick. In his opinion the remains of man
+and his industry present an evident resemblance to what
+was found at the Ladogan station. They were evidently
+of the same primitive tribe, and their crania show features
+of likeness with those from the Xurgans of Novgorod, and
+generally of Western and Southern Russia. But here again
+details are wanting. Like the Ladogans, they had a taste
+for carving. One piece of bone was carved into the head
+of a bird; another represented the head of a man witha
+pointed chin, a very long nose, and a head-dress in shape
+like a fez. The clay of the pottery was mixed with gravel,
+bits of quartz, and broken shells, and was often orna-
+mented. One design is the same as on a Ladogan sherd ;
+another is found on sherds from Lake Onega. The bottom
+of the pots was either round or flat. The implements con-
+sisted of knives, scrapers, flat wedge-shaped axes, hammers,
+straight and concave saws, arrow-heads of various types
+
+I E
+
+
+66 PRE- AND PROTO-HISTORIC FINNS
+
+
+with and without a tang, and awls of flint; axes, chisels,
+arrow-heads, and whetstones of schist; lance- and arrow-
+heads, awls, harpoons, hooks, gouges, and small axes of
+bone. Small pieces of cornelian, jade, agate, etc., with
+traces of having been used by man, must have been brought
+from a distance. Perforated teeth of the bear, lynx, and
+other carnivore were worn as ornaments or amulets.!
+
+
+FINDS IN OLONETs.
+
+
+More than two hundred miles east of the Volkhov, on the
+south-east shore of Lake Onega, on Lakes Tud, Kumbas,
+Laé, and other places in the south-eastern part of the govern-
+ment of Oldnets, numerous articles of human industry,
+some perhaps earlier, some certainly later than the Ladogan
+station, have been brought to light. They were found in
+recent deposits of peat formed on the site of dried-up lakes,
+or in sand and clay on the shores of existing lakes and
+river valleys. No human remains were ever found with or
+near them. As flint is found on the east side of Lake
+Onega the arrow-heads were made of that miineral.
+
+These weapons are very abundant, and of various types,
+very generally lancet- or almond-shaped ; they show various
+degrees of skill from very coarse to very fine workmanship.
+The knives and scrapers are also of flint. Other instru-
+ments, such as axes, hammers, chisels, and gouges were
+made usually of hard clay slate, or of diorite, greenstone,
+or quartzite. The axes were often flat with the two faces
+ground and the short sides also ground flat, others were
+of nearly triangular section, like those in Finland and at
+KartaSikha on the Volga, in the government of Kazan.
+
+1 Peredolsky, pp. 139-144.
+
+
+THE NEOLITHIC AGE IN FINLAND _ 67
+
+
+Some of the gouges are characteristic of Olénets and
+Finland, and one very narrow type is met with at Karta-
+Sikha. At the Ladogan station no instruments perforated
+to receive a handle were discovered, but on the Kinema
+river, and a few other places in Oldénets, a few polished
+and perforated axe hammers and round hammers were
+found belonging to a later time. Poliakov states that two
+instruments—the material is not mentioned—have been
+found in Olénets, one ornamented with the head of an elk,
+the other with the head of a bear in relief. He gives
+references, to which I am unable to refer, but I suspect
+these instruments are of the same class and material as
+the picks ornamented with animal heads, already mentioned
+at p. 56 as having been found in Olénets.
+
+The clay of which the pottery was made was largely mixed
+with sand, and at Lake Tud they strengthened the mass by
+the addition of some strong fibrous mineral which toughened
+it, so that the pattern is scarcely visible on such vessels.
+As none were ever found entire, their original shape cannot
+be determined. The exterior of the pots was decorated
+with diagonal, parallel rows of squarish impressions made
+with a comb-like instrument. Sometimes these bands
+were separated by a belt of small pit-holes from two to five
+deep. At other times the impressed lines or furrows took
+the form of a zigzag round the rim of the vessel. In
+character this style of ornament greatly resembles what is
+found in Finland and at the Ladogan station. Only one
+bone instrument seems to have been found, a lance-head
+6 inches long, that was picked up at the mouth of the
+river Kinema. An indication of the age of some of
+these finds is given by the fact that at the mouth of the
+Tikhmangia, which falls into Lake Lat, not far from sherds
+
+
+68 PRE- AND PROTO-HISTORIC FINNS
+
+
+of pottery, broken bones of beavers, elks, reindeer, birds,
+and fish, were also found the bones of a seal, of a breed
+as large as a Greenland seal. Hence when neolithic man
+lived on the banks of the river there must have been large
+seals in that lake, which, though united by the river Onega
+with the White Sea, is more than 180 miles distant from it
+as the crow flies, and the lake must have been larger and
+deeper than is now the case.!
+
+
+THE VALLEY OF THE OKA.
+
+
+Several stations of the neolithic age are known in the
+valley of the Oka, on both sides the river, above and below
+the historic town of Mtrom. The most important and
+richest of all is that of Voldsovo on the right bank of the
+river, some five or six miles to the east of Miirom, which
+lies on the left bank. The station lies on a ridge of white
+blown sand of sufficient altitude to protect the inhabitants
+from the spring floods which cover the level ground be-
+tween the ridge and the Oka to a considerable height. A
+few years ago the ridge was covered with fir-trees, and in
+front of it runs a brook, so that at all times the inhabitants
+could get water, fish,and mussels without much trouble.
+On removing the white sand is found a stratum of black
+sand up to 34 feet thick, in which an immense number of
+stone implements have been discovered. On the ridge,
+but at a little distance to the south of the great area where
+these objects of neolithic man lay, the late Count Uvarov
+found five graves and several sepulchral urns.
+
+The bodies lay east-south-east, and west-north-west,
+and the head was turned so that the left cheek was sup-
+
+
+1 Poliakov, (1) pp. 340, 364, 367, 368; (2) pp. 32, 35, 36, 19, 10.
+
+
+THE NEOLITHIC STATION AND SAND-DUNES OF VOLOSOVO.
+
+
+To face page 63.
+
+
+THE NEOLITHIC AGE IN FINLAND _ 69
+
+
+ported by the palm of the right hand. The depth of the
+graves was from 1°20 to 1°30 m., and the skeletons lay ina
+bed of wood ashes. On this layer, at the place where the
+head lay, was placed a clay urn filled to the brim with the
+burnt bones of animals and surrounded also with burnt
+bones of like nature. In the centre of the bones in the
+urn was laid a flint arrow-head of beautiful workmanship.
+The graves were filled up to the level of the ground, and
+there was nothing on the surface to betray their pre-
+sence below. No trace of human handiwork was to be
+found in the immediate vicinity of the graves, but never-
+theless they are probably neolithic.
+
+Three crania, two of them very imperfect, were measured
+by Bogdanov, who compared them with three from the
+government of Smolensk, and found points of likeness
+between them. But below I have compared the complete
+skull with a male Permian skull, in which the points of
+likeness are much greater :—
+
+
+Volésovo. Kudimkor (Perm).
+
+Horizontal curve . . 530 ove wee 529
+Long diameter . . 180 180? ~=169? 180
+Trans. diameter . - 144 140? eee 146
+Vertical diameter - 135? wee oes 134
+Cephalous index . - 80 £~497°77 ese Sr°1
+Vertical index . - 75 ev eee 74°4
+Trans. verticalindex . 93°7_ ... see gI°7
+Orbital index . . 8182... eee 78
+Nasal index . » §6°52! ... ose 56°5?
+
+
+So far as I can offer an opinion, the Volésovan popula-
+tion contained a sub-brachycephalous element that has
+analogies in the existing Permian Finns; of the other
+
+
+1 Uvarov, pp. 299, 300, 309. + Maliev, (1) Appendix, skull No. 1.
+
+
+7o PRE- AND PROTO-HISTORIC FINNS
+
+
+element nothing definite can be said, though it seems to
+have had a tendency towards dolichocephaly.
+
+Sherds of pottery are extremely numerous, and can still
+be picked up in quantities. As all fragments show a
+curved surface, they were certainly more or less globular,
+and some of considerable size, the diameter of the largest
+being about 18 inches in diameter and the smallest 1}
+inches. But none were found intact save the sepulchral
+urns, which are very small, almost without ornament, and
+flat-bottomed. In size and shape, though ruder in manu-
+facture, one of these urns resembles somewhat two
+sepulchral urns from a2 much later neolithic station near
+Kazan, where again the great difference between sepulchral
+and household pottery is also observable.! Before being
+used the clay was mixed with gravel, broken shells, and
+feathers. The walls of the vessels were thick, but unequal
+in thickness ; the top was always wide, and the lip seems
+sometimes to have turned a little inwards or was slightly
+everted. No ears or handles were attached, for these
+means of lifting or suspending were replaced by holes
+through which a cord was run, but this only in the case of
+the larger vessels. When finished, the bow! was burnt,
+but only incompletely. The decoration presents consider-
+able variety of design, combined with a certain regularity
+and symmetry; in many ways it recalls that of Oldnets.
+There is no trace of the cord ornament as at the Ladogan
+station and the neolithic stations on the Central Volga; nor
+of simple or concentric circles and semicircles like the
+neolithic pottery of the amber coast in East Prussia, where
+the amber figures referred to by Dr. Tischler were dis-
+covered. The axes were wedge-shaped, made of diorite,
+
+
+1 Uvarov, vol. ii. Pl. 16, No, 4053-4.
+
+
+THE NEOLITHIC AGE IN FINLAND _ 71
+
+
+and were usually very carefully polished, the chipped and
+unground specimens, of which there were many, being
+merely unfinished. The largest was 94 inches long, and
+in section ellipsoidal. Hammer-axes perforated to receive
+a handle were very rare, and the hole was unskilfully bored.
+Besides boring they also knew how to saw stones, for some
+of the flat, schiefer pendants were evidently produced by
+such means. The flint arrow-heads were very numerous,
+and sometimes of beautiful finish; the chief forms being
+oval, lancet-shaped, rhomboidal, and tanged: a few were
+triangular, or with a notch at the base. Out of about thirty
+flint saws one was semicircular.
+
+Of particular interest are silhouettes of men, birds, and
+animals chipped out of a piece of flint. I reproduce four
+from the drawings of Mr. Kudriavtsev ; Figs. 4 and 5 are
+human figures ; another, almost the same as Fig. 4, and also
+from Voldésovo, is figured by Count Uvadrov;! Fig. 6
+represents a goose, and Fig. 7 might be a boar or a badger;
+Fig. 8 is a modern Vogul idol of wood in the Museum at
+Ekatrinburg, which may be compared with Fig. 4. The
+practice of chipping flattish pieces of flint into something
+approaching an animal shape is not confined by any means
+to the valley of the Oka. Far to the north, near the mouth
+of the Zolotitsa, which falls into the White Sea some hun- |
+dred miles north of Archangel, there was a neolithic work-
+shop for the manufacture of flint implements, and among
+the small saws, knives, and arrow-heads there was found
+the silhouette of a seal in flint, now in the Historical
+Museum at Moscow. And two flint outlines are figured
+by the Count Uvarov, the actual finding-place of which is
+unknown, though they were bought in the government of
+
+1 Uvarov, vol. ii. Pl. 14 A, described vol. i. p. 324.
+
+
+42 PRE- AND PROTO-HISTORIC FINNS
+
+
+Kaz4n.! One has a large thick neck and head, a short
+thick body, four short legs, and a broad tail. It might be
+taken for the skin of an animal, such as a beaver, dried
+and stretched. What the other represents I cannot even
+hazard a guess, though it is doubtless an animal form.
+The Voldésovans also carved in bone. Mr. Kudriavtsev
+has in his collection the head of a swan in full relief, carved
+at the end of a long bone, the rest of which was left
+untouched. Another piece represents the head of a duck ;
+a third a very small fish with a small hole of suspension
+through the tail. As it is difficult to believe that neolithic
+man in a low state of civilisation, when it is not certain
+that even the dog was domesticated, should take the
+trouble to hew out of flint and bone representations of
+men and animals merely to satisfy his artistic and creative
+instincts and faculties, some other reason must be sought
+for. It is more consonant with the extreme laziness of
+uncivilised man to sappose that he had a practical object
+in view, that the human and animal figures served as
+household gods or as personal amulets to secure luck when
+fishing or hunting.
+
+Bone implements, such as awls of bird- or fish-bone, har-
+poons barbed on one side only, axes, knives, fish-hooks—
+though some of these were of flint made in two parts and
+tied together—and perforated teeth, were very numerous,
+though bone arrow-heads were rare. Besides fish-hooks
+they must also have had nets, as the impression of one has
+been found on a sherd of pottery. The commonest animal
+bones found were those of the martin, fox, hare, wild boar,
+and beaver ; less common were the remains of the badger,
+wolf, bear, elk, wild ox, otter, reindeer, and dog. In fact,
+
+1 Uvarov, vol. ii. Pl. 14 C D.
+
+
+THE NEOLITHIC AGE IN FINLAND _ 73
+
+
+canine bones were only found once, and then as an entire
+skeleton that resembled the smaller Ladogan dog. This
+makes it doubtful whether the dog was domesticated at all.!
+
+A good many miles down the Oka from Murom is the
+station of Plekhanov Bor. The people lived largely on
+mussels ; in fact, no animal bones were found there at all.
+But the identity of the ceramic ornament with that at
+Voldésovo shows that people of the same tribe lived at both
+places synchronously.”
+
+
+THE VALLEY OF THE VOLGA,
+
+
+On the left bank of the Volga from Kazan to a little
+south of the inflow of the Kama several neolithic stations
+are known, eight of them not very far from Kazan itself.
+Neolithic instruments, pottery, and animal bones are also
+found in considerable abundance above Kazan, but on the
+right bank near the mouth of the Sviaga. Most of the
+implements are of flint, which is very plentiful, but a few
+are of eocene sandstone, which is not found in the govern-
+ment of Kazan, but might be obtained by descending the
+Volga to the Singilei river in the adjoining government of
+Simbirsk. Either the stone or the ready-made instruments
+must, therefore, have been imported, and these it should
+be noted are of excellent work and beautifully ground.
+In places the sherds are extremely numerous; near Novo
+Mordovo, in the district of Spassk, they are spread over an
+area of about eighty-one acres, where they can be collected
+by the bushel. The clay was generally mixed with com-
+minuted fresh-water shells, small stones, feathers, and at
+
+
+1 Kudriavtsev, pp. 234-255; Uvarov, pp. 314, 322.
+* Uvarov, pp. 329, 318.
+
+
+74 PRE- AND PROTO-HISTORIC FINNS
+
+
+Novo Mordovo with mica; in place of mica, talc is found
+in the neolithic pottery from Galkina near the mouth of
+the Cusovaya and from Turbina on the right bank of the
+Kama nearly opposite, as well as in numerous sherds from
+the district of Ekaterinburg beyond the Ural chain.! After
+completion the vessels were either left unbaked or the
+burning was incomplete. The decoration is endlessly
+varied, very complicated at times, and consists of different
+combinations of linear ornament. It is generally placed
+below the rim, and never covers the whole height of the
+vessel ; the inner surface is seldom decorated. A curious
+but very rare method of adornment was to impress the
+clay with a small spiral shell, probably that of a snail, and
+thus form horizontal bands of spiral depressions, separated
+by horizontal lines of small dots. This novel mode of
+decoration is also found on neolithic sherds from Le&vina,
+a mile and a half above the junction of the Cusovaya with
+the Kama.? The cord ornament was also used as at
+LeSvina and beyond the Urals. No handles were used,
+but sometimes a vessel could be suspended by means of
+two large round holes placed opposite each other. The
+bottom was always flat, and, with one exception, never
+rounded. The commonest implements were scrapers,
+knives, axes, chisels, mallets, spear- and arrow-heads; the
+scarcest were picks, awls, saws, and hammers. The arrow-
+heads were of various types—leaf-shaped, lancet-shaped,
+rhomboidal, tanged, and triangular, the latter being very
+rare. Some of the arrow-heads are so tiny—from 8 mm.
+(4 inch) to ro mm. long—that Professor Visotski supposes
+they would have been useless unless poisoned.
+1 Teplotkhov, (1) p. 24. 2 Teplotkhov, (1) p. 15.
+® Stukenberg i Visotski, pp. 10, 13, 15, 18, 28, 37.
+
+
+THE NEOLITHIC AGE IN FINLAND 75
+
+
+Practically nothing is known of the people who left these
+traces of their presence behind them. For although at
+two places interments have been brought to light that are
+supposed to belong to the neolithic period, the human
+remains were so shattered that almost nothing can be learnt
+from them. Near the village of Novo Mordovo was found
+the skeleton of a woman who had been laid with her head
+to the north and her feet to the south ; near her right wrist
+lay the upper shell of a tortoise, on the inside of which
+were traces of red colour. The skull was round-headed,
+and showed marks of a primitive type. At the station of
+Great Bugér, near Kazan, traces of three interments were
+found, but so destroyed that only fragments of two
+skeletons and the funeral urns could be recovered. The
+bodies had been buried at a depth of about three feet, and
+had been placed on their backs with the head to the west
+and feet to the east, and in each grave was a small urn.
+There was nothing above ground to indicate the presence
+of graves. At this station, as well as flint implements, there
+were found bones of the domestic horse, cow, sheep, and
+swine, also of the elk; at two other stations bones of the
+horse, cow, and swine ; at Tabaevo, near the junction of the
+Kama, those of the horse, bull, and swine.! The fact that
+neolithic man had now become acquainted with the most
+important domestic animals shows that these stations
+belong to a latish period. It is unfortunate, however, that
+we have no particulars about these animal bones, as
+something might be learnt from them. At present we
+have no clue as to whence the animals originally came,
+whether from the south or from the east. It would be in-
+structive to know whether the Volgan horse of those days
+
+
+1 Stukenberg i Visotski, pp. 53, 54, 56, 65, 72.
+
+
+76 PRE- AND PROTO-HISTORIC FINNS
+
+
+was at all like the horse the remains of which have been
+found in many places in the east part of the government
+of Perm, beyond the Urals, sometimes as deep as ten feet
+and more below the surface, and which are now preserved in
+the Museum at Ekaterinburg. But as no vestiges of the
+domestic sheep or pig have been found in that region,
+it seems likely that the domestic animals came from the
+south or south-east.
+
+
+THE GOVERNMENT OF VIATKA.
+
+
+As flint of good quality is nowhere found in masses, the
+inhabitants made use of an inferior kind of whitish, clayey
+flint or chert, but never turned to use the erratic blocks
+which occur in the northern half of the province. In fact,
+the extreme north of it does not seem to have been in-
+habited at all, for no stone implements of any sort or kind
+have as yet been found along the course of the Vidtka above
+Slobodsk, or on its upper tributaries, the Velfkaya, the
+Letka, and the Kobra. Very few too are known from the
+valley of the Ceptsa, and these are chiefly wedges and
+nuclei. On the other hand, on the upper course of the
+Kama, where it flows through the province, finds of flint
+implements are so numerous as to induce Mr. Ivanov to
+believe the district was thickly inhabited during the
+neolithic period. The west of the province too was not
+without its inhabitants. A few arrow-heads of triangular
+and quadrangular section, and considerable quantities
+of knives, scrapers, and nuclei, have been unearthed at
+the mouth of the Moloma and higher up its course near
+the village of Okdtievo, as well as at several places on the
+upper and central course of the Yum, and the central
+
+
+THE NEOLITHIC AGE IN FINLAND 77
+
+
+course of the Pizma, into which the Yum falls. On the
+central course of the Vidtka a few finds have also been
+made, which increase at its junction with the Kilmez
+and further southwards. At none of the above-mentioned
+places and districts have any polished stone implements
+been brought to light. They are not however unknown
+in the province; in the southerly districts of Urfum and
+Yaransk a considerable number of polished flint and stone
+axes, wedges, chisels, and gouges have been discovered.
+At Origut near Ernur, close to the boundary between the
+governments of Vidtka and Kazdn, was a workshop, the
+most typical instrument of which was a stone chisel with
+one side flat or slightly convex, while the opposite side
+had three faces like certain bronze celts, which are in
+Mr. Spitsin’s opinion the prototypes of these stone chisels.
+Along the right bank of the Central Kama, where it forms
+the southern boundary of the province, isolated finds of
+polished stone implements have also been made. But the
+only station is at the mouth of the Toima, not far from
+Elabuga, over which in later times accumulated the great
+cemetery of Andnino, so that Mr. Spitsin believes that
+many of the stone implements said to have come from
+the graves at Andanino really belong to the underlying
+neolithic station. Here have been found flint arrow-
+heads, a fragment of a stone chisel of the OriSut type,
+bones, and sherds of pottery. The pottery is of two sorts:
+one is of thick yellow clay, the other of black clay, often
+mixed with bits of shells, for vessels of smaller dimensions.
+These sherds seem to be the only examples of neolithic
+pottery in the whole province, and from this it may almost
+be concluded that there were no real permanent settlements
+1 Spitsjn, pp. 11-23.
+
+
+78 PRE- AND PROTO-HISTORIC FINNS
+
+
+in it during the earlier neolithic age, though it was traversed
+by hunters, who made flint implements of the simplest kind
+as occasion required.
+
+
+THE GOVERNMENT OF PERM.
+
+
+Up to the present the finds of the neolithic stage in the
+Upper Kama have been very few, leading us to suppose
+that the population was very scanty. In fact, settlements
+that can be exclusively attributed to this age have not
+been discovered. The flint and other stone implements
+are of local stone, and the workmanship 1s often very good.
+Beginning from the north, on the banks of the little river
+Velva, a left-hand tributary of the Kama in the district
+of Solikamsk, there have been found at various places
+scrapers, flakes, some of which are slightly toothed and
+could be used as a knife or a saw, nuclei, a well-made,
+tanged arrow-head, two spear-heads, a well-polished flat axe
+tapering towards the butt-end, a well-polished net-sinker,
+a gouge with a flat face in which the groove was made
+and with a rounded back. From the description it seems
+to resemble a type common in the Volga district of the
+last section, and is also found at Andnino near Eldbuga,
+on the Kama; lastly a chisel of quadrangular section,
+the upper end of which is worked round like a handle
+2 cm. long and 2 cm. wide. Further south near Sdrdin
+on the Inva, a westerly tributary of the Kama, were found
+a leaf-shaped arrow- or spear-head, 9 cm. long, with a
+notch at the base, and another of similar shape, but
+smaller, and with a flat truncated base. Its long edges
+were distinctly toothed. In the valley of the Obva a bone
+harpoon, stuck into a log of wood, which probably belongs
+
+
+THE NEOLITHIC AGE IN FINLAND 79
+
+
+to this period, was washed up from the bed of the river
+by the spring floods. It had four barbs on one side and
+a fifth reversed on the opposite side to facilitate attachment
+to a handle. In the same valley was also found a heavy
+stone hammer, weighing eight lbs., near one end of which
+was a shallow transverse groove running round the body of
+the hammer, the better to fasten it to a forked handle.
+From Ust Gareva, further south, comes a perforated axe-
+hammer of serpentine. At LeSvina, on the right bank of
+the Cusovaya, near its junction with the Kama, were found
+three arrow-heads, one of them leaf-shaped and greatly
+resembling another from the station of KartaSikha (Kazan)
+on the Volga; flint flakes with a serrated edge to serve as
+a saw; a broken, polished, flat axe, and a flat roundish
+hand-mallet with a hollow on each flat side to allow the
+stone to be held easier. It is very like a similar tool from
+Great Bugér near Kazan.
+
+About thirty sherds of earthenware were ornamented
+with different patterns. From their small degree of
+curvature some must have belonged to large vessels ;
+others of thinner clay were more curved, and probably
+belonged to vessels more or less spherical. But it is
+impossible to say what the shape of the bottom might
+have been. The patterns ran in zones parallel to the
+rim, and were produced with a stamp toothed like a
+comb. The cord-pattern was also in use, and less often
+the ornament consisted of a row of holes; on two sherds
+it consisted of diagonal impressions.of a small spiral object,
+evidently the shell of a snail. Not far off is the pre-
+historic fort (gorodisce) of Galkina, in which a nucleus,
+splinters, and a net-sinker were found. At no great
+distance outside were flint flakes and a couple of arrow-
+
+
+80 PRE- AND PROTO-HISTORIC FINNS
+
+
+heads, one of bone, and not differing from those found in
+the so-called Cudish ‘ossiferous areas’ that are generally to
+be dated from the eighth to the eleventh centuries. The
+sherds of pottery differ in material and pattern from those
+at LeSvina, and were partly baked. The last settlement
+is at Turbina, on the right bank of the Kama, nearly
+opposite the inflow of the Cusovaya. It belongs, at any
+rate in part, to a late period. Here were found a scraper,
+a narrow chisel, merely formed by chipping and fragments
+of glass beads with an inside layer of gold-leaf, like those
+found in large quantities in the ossiferous areas on the
+Obva, at Gliadénova near Perm, and the north side of the
+Caucasus. The sherds of pottery resemble those from
+Galkina both in material and pattern. Generally the
+clay was unmixed with foreign substances, but one sherd
+contained largish pieces of talc, which had probably been
+brought from the other side of the Ural chain.!
+
+
+NEOLITHIC PERIOD IN THE BALTIC PROVINCES.
+
+
+In the north of Esthonia, about two miles inland from
+the Gulf of Kunda, and about 180 miles west of the mouth
+of the Volkhov, remains of human industry were found in
+excavating the marl beds that once formed the bottom of
+what was formerly a lake. The harpoons, barbed on one
+side only, the spear- and arrow-heads, the daggers, knives,
+scrapers, and chisels, are all of bone, generally that of the
+elk. With the exception of one well-chipped flint arrow-
+head and a knife, no bone implements were discovered.
+But small, narrow flakes of flint were inserted into grooves
+cut into the sides of bone arrows, and were firmly cemented
+
+1 Teplodkhov, (1) pp. 5-26.
+
+
+THE NEOLITHIC AGE IN FINLAND _ 81
+
+
+with a preparation of pitch. Similar weapons are known
+from Lake Sigir in the district of Ekaterinburg (Perm),
+in East Prussia, Denmark, and the south of Sweden. The
+almost total absence of flint is easily accounted for. It is
+not found in beds anywhere in the Baltic provinces, save
+on the east shore of Lake Burtneek, and even there in no
+great quantity. No pottery or personal ornaments were
+unearthed, but this may be explained by the fact that all
+the objects lay from 100 to 200 yards from the shore, and
+were lost either in the water or on the ice. Reindeer still
+roamed in the neighbourhood as well as the bison and
+the elk, but no trace was found of the dog. Grewingk
+calculated for these finds an age of only 1650 years, which
+would place them in the third century of the present
+era.! But little confidence can be placed in calculations
+founded on the rate at which deposits accumulate under
+water, and he himself believed that the date must be
+increased.
+
+About 140 miles in a bee-line to the south-south-west
+of Kunda, on the left bank of the Salis, where it issues
+from Lake Burtneek, is Rinnekaln. In connection with
+the crania exhumed there this station has already been
+mentioned. Comparatively few fishing implements and
+weapons were found. The spear-heads and daggers of
+bone were of coarser make than at Kunda; the harpoons
+were smaller, with only one or two barbs on one or both
+sides. Stone implements and arrow-heads were in incon-
+siderable quantities, the more remarkable as a flint work-
+shop is known to exist near Sveineck on the opposite side
+of the lake. The coarse, gritty pottery, the clay of which
+was mixed with broken mussel-shells, was either not baked,
+
+1 Grewingk, (1) pp. 1-36.
+
+I F
+
+
+82 PRE- AND PROTO-HISTORIC FINNS
+
+
+or but slightly. In form the vessels were probably more
+or less cylindrical, and seem sometimes to have been
+furnished with a lid; but apparently they had no handles,
+neck, or feet, and were of considerable dimensions. The
+ornament had some variety of design. It consisted of
+double and triple horizontal rows of holes alternating with
+diagonal lines of prick-marks ; of short incisions at intervals,
+made sometimes with the finger-nail, and distributed either
+over the whole surface or in zones round the vessel.
+Decoration was also applied to the inner side of the rim,
+as at Hankasalmi. -Grewingk remarks that the design is
+much more varied than at Ladoga, and resembles what has
+been found at Volésovo. Needles were made of bird-bone,
+chiefly of the swan. Carving in bone was practised with a
+skill and talent superior to that of the Ladogans, and the
+figures were either in full relief at the end of a long bone or
+silhouettes incised out of a flat plaque. Among the former
+are the head and neck of swans and geese, which remind
+one of Volésovan work, and the heads of a bear and an
+elk carved at the end of a bone, as at the Ladogan station.
+Among the latter are two silhouettes of birds, one of
+which has two holes of attachment. Some of the bone
+arrow-heads are of a very peculiar make. The upper part
+consists of a sharp-pointed cone, to which is attached a stalk
+of lesser diameter than the base, and somewhat flattened.
+In the other type the pointed cone projects from a four-
+sided base rather larger than the base of the cone, and this
+quadrangular base gradually reduces in size till it passes
+into a short flat stalk. The only analogies for such arrow-
+heads, so far as I know, are found in the sub-district of
+the Upper Isset in the district of Ekaterinburg. One quite
+like the first is in the University Museum of Kazan, but
+
+
+THE NEOLITHIC AGE IN FINLAND 83
+
+
+came from the Upper Isset. Inthe Museum at Ekaterinburg
+there is another like it, but with a long stalk; others are
+more like the second type, but the upper cone rises from
+a reversed cone, which passes into a long thin stalk
+of circular section, which gradually becomes flattened.
+Wooden arrow-heads shaped like a double cone are still
+used by Ostiak children.! Several pieces of amber, one
+of them bored with a hole, were lying in the shell-
+mound; the usual ornament, however, seems to have
+been the perforated teeth of animals strung on a string.
+Grewingk considered the station at Rinnekaln to be younger
+than that at Kunda, as no reindeer-bones were found at the
+former, the presumption being that the animal was extinct
+in Livland when the shell-mound was formed.? During
+one period of the neolithic period the reindeer seem to
+have ranged as far south as the district of Preusisch Eylau,
+or about lat. 54°30° N.
+
+Considering the great area of the Baltic Provinces, the
+neolithic age is not very strongly represented. The chisels
+so common in Finland are rare; gouges, knives, spear- and
+arrow-heads are almost wanting. The infrequence of spear-
+and arrow-heads is doubtless owing to the rarity of flint,
+and the few well-formed lance-heads and daggers of such
+material were probably imported. Nearly all the axes are
+perforated for a shaft, and number about five hundred, of
+which about twenty are boat-shaped. The latter may have
+been imported from the south-west of Finland or from
+Sweden. Virchow believes the majority of the polished
+stone implements in the Baltic provinces belong to the
+Iron Period, for they are sometimes found in the same
+
+1 Martin, (2) p. ro, Fig. 5-13.
+
+2 Grewingk, (1) pp. 36, 37: Virchow,(z) pp. 398-433; Kharuzin, pp. 100-103.
+
+
+84 PRE- AND PROTO-HISTORIC FINNS
+
+
+grave with bronze and iron as late as the younger Period of
+Iron. The distribution of stone tools and weapons over
+the three provinces is far from uniform. With the ex-
+ception of the islands of Oesel and Mohn, few finds have
+been made in Esthonia. They become more numerous in
+Livland, especially on the banks of the Dvina, but are
+more plentiful in Kurland, especially in the central and
+eastern districts. With regard to their type, Mr. J. R.
+Aspelin considers that the stone implements of the older
+and newer periods in the Baltic provinces so resemble
+those from Lithuania, Vitebsk, Kovno, Grodno, and. Minsk,
+that they can scarcely be distinguished.}
+
+Though the evidence is scanty, there seems reason to
+believe that in the earlier part of the neolithic age the
+Baltic Provinces were uninhabited, at least permanently.
+No one had thought it worth while to peg out tribal claims
+to any part of them; they formed a sort of No Man’s
+Land into which short-headed men from the east or long-
+headed men from the south could make temporary hunting
+or fishing excursions, but they did not come to stay.
+
+
+GENERAL CONCLUSIONS.
+
+
+The results, then, ofa survey of the archzology of Northern
+and North Central Russia from the Gulf of Finland to the
+foot of the Ural chain may be summed up as follows.
+Along the lower course of the Oka dwelt a people whose
+pottery, sculpture, and methods of art connect them with
+tribes inhabiting what is now the government of Oldnets,
+the west coast of the White Sea, part of Finland, the course
+
+
+1 Aspelin, (3) p. 6; Grewingk, (4) pp. 92-96.
+
+
+THE NEOLITHIC AGE IN FINLAND 85
+
+
+of the Volkhov, the north coast of Esthonia, and Lake
+Burtneek in Livland. But though the civilisation of this
+huge region is practically the same, it covers a great space
+in time. It is difficult for us, who live in an age of new
+discoveries of the most extraordinary kind, and of great
+social changes, to realise that bodies of men can live
+century after century, millennium after millennium, with-
+out any sensible change in their mode of life. But it is so.
+Uncultivated human nature is so constituted that having
+once accommodated itself to circumstances, and shaken
+down into a groove, it is content to rub on as best it can,
+and to pass on the heritage of life to another generation
+without further thought. Isolated as the tribes were that
+inhabited Central Russia, empires might and did rise and
+fall without their knowledge; nations might and did pass
+along the great natural highway of the steppe that fringes
+the Black Sea, but no echo of the event reached the
+solitudes of Central Russia. It is not surprising, then, that
+we must believe that a long interval existed between the
+first settlement of Voldsovo and the temporary station at
+Lake Burtneek, just as a great space of time must be
+imagined between the former and the stations on the
+Volga below Kazdn. In the south-west of Finland we
+seem to have a Scandinavian people that could hardly
+have arrived later than 1500 B.c., a period when bronze
+was already known in ‘Scandinavia and Central Europe.
+The Ladogan station may be quite as ancient, while
+the settlements on the Oka have all the appearance of
+being considerably older. About s00 B.C. is perhaps not
+too early to set the animal-headed picks of Oldénets and
+Mezen. As perforated stone implements seem unknown
+at Rinnekaln this station is older than that date; while the
+
+
+86 PRE- AND PROTO-HISTORIC FINNS
+
+
+station at Kunda is still older than the last, but less ancient
+than that on the south shore of Lake Ladoga. The
+stations on the Volga, and certainly some in the Upper
+valley of the Kama, are very much later than that at
+Volésovo. The Volgan pottery differs from that found on
+the Oka and further west ; it seems to have more affnity
+with the ceramic products of the Kama valley, and the
+people of the Volga may have been somewhat different
+from those on the Oka and to the west of it. It is not
+unlikely that the domestic animals came from the steppe to
+the north and north-east of the Caspian, and with them
+would naturally come the owners, who might belong to
+different, though not absolutely alien, tribes. Though the
+civilisation and arts of the fishers and hunters on the Oka,
+as well as to the north and to the west of it, were at such a
+low stage that they were almost the same everywhere, the
+aborigines were not all of the same stock: some were
+long-headed, others short-headed. Yet considering the
+antiquity of man on the globe, an amalgamation of stocks
+could have taken place ages before any tribes took posses-
+sion of any part of Eastern Europe. What language or
+languages, if more than one, these aborigines spoke it is
+impossible to say, though no doubt it belonged to the
+agglutinating class, and if there were several they had
+much in common. That some of the direct descendants
+of these people, both the long-headed and the short-
+headed, still exist among the Eastern Finns, I have tried to
+make highly probable. That both stocks originally issued
+from Asia seems almost certain, though we cannot prick
+off on the map the course of their migrations by pointing
+to a succession of archzological finds.
+
+
+THE BRONZE AGE IN FINLAND 87
+
+
+THe Bronze AGE IN FINLAND.
+
+
+The belief that a Scandinavian population existed in the
+south-west of Finland in neolithic times is strengthened by
+finding objects of the Bronze Age in that part of the
+country, though they are few in number. With the
+exception of two useful omaments, all of them are weapons,
+consisting of five swords, seven daggers, one lance-head,
+two knives, six palstaves, eight socketed celts, two spectacle
+fibulz, all of bronze, and one large copper arrow-head. As
+all are quite Swedish in character, and no moulds have been
+found, they must have been imported from Sweden. The only
+apparent exceptions are three swords of Central European
+type, but as these types are also known in Sweden, the
+weapons were probably brought to Finland by way of
+Scandinavia. Nearly all the objects came from the south-
+west corner of Finland, including the Aland Islands ; from
+near the lower course of the river Kumo; from the lower
+course of the river Kyro in the district of Vasa; or
+between Viborg and the west coast of Lake Ladoga. All
+were found south of lat. 64° N., save the large copper
+arrow-head, which was picked up as far north as about
+lat. 69°30° N., only about a couple of dozen miles south
+of the Varanger Fjord. Nearly a third of these bronzes
+were found in cairn graves. Using the classification of Mr.
+O. Montelius, twelve of the weapons belong to his second
+period (1450-1250 B.c.); one socketed celt to the third
+period (1250-1050); four socketed celts to the fourth period
+(1050-850); and the remainder, including the spectacle
+fibulz, to the fifth period (850-650). It is evident, then,
+that there existed an intermittent communication between
+
+
+88 PRE- AND PROTO-HISTORIC FINNS
+
+
+Finland and Sweden for several centuries, and it is to be
+noted that all the weapons of the second period, with one
+exception, came from the Aland Islands or from the
+extreme south-west angle of the country, from what is
+called Proper Finland. But these importations are not
+the only reasons for believing the south-west of Finland to
+have been settled by a Scandinavian people. Hundreds
+of cairn graves are found in a broad belt along the coast
+of the gulfs of Bothnia and Finland, in the islands of the
+southern and south-western coast, and in the Aland Islands.
+In smaller numbers they occur along the shores of lakes
+in the interior. The correspondence in external form, and
+partly in the internal structure, of these cairn graves in
+Finland and Sweden, especially in Uppland, is very strik-
+ing. The cairns are found singly, in groups, or in a long
+row; they vary in size and height, the diameter ranging
+from 20 feet to 81 feet, and the height from 3 feet to 10 feet.
+In internal structure there are also differences. Many
+are disposed round a tall upright central stone, quite the
+same as in Uppland, Sweden, where the arrangement is
+characteristic of the Bronze Age. Others contain one
+or more kists of flagstones or of largish angular stones.
+Cineration was practised as a rule, if not always. At
+least, no skeletons have been found in any exploration
+conducted in a scientific manner, though in 1896 some
+peasants reported that on removing eighteen cairns pre-
+paratory to ploughing, two kists were laid bare containing
+unburnt human skeletons. In opening cairns unburnt
+bones of domestic and wild animals have often been met
+with, but unfortunately they have never been sufficiently
+examined. Not nearly all the cairns, however, are to be
+attributed to the Bronze Age, for a number of finds prove
+
+
+THE BRONZE AGE IN FINLAND 89
+
+
+that such sepulchres were still used in the older Iron
+Age.!
+
+As in neolithic times we found stone implements of
+certainly two distinct peoples, occupying on the whole
+different areas of Finland, so in the Bronze Age we find a
+few implements of a totally different type from anything in
+Scandinavia. They consist of two socketed celts with a
+socket of quadrangular or hexagonal section of Uralian or
+Siberian type, and at least four moulds, whole or frag-
+mentary, for casting celts of similar type. Beginning
+from the north, one mould, resembling the type of celts
+from Andnino, was found almost on the Polar Circle, in the
+parish of Upper Tornea; half of another about half-way
+down the Ulea; and fragments of at least two moulds for
+celts, together with fragments of three other moulds, stone
+implements, flint flakes, sherds of pottery, and traces of fire-
+places, were discovered near Lake Ule4. One celt comes
+from Lucksele on the Umeda in Swedish Lapmark (Asp.
+No. 158), and another from the parish of Laukas in the
+government of Wasa, in the very centre of the country.
+But this last and most southerly example is much less
+characteristically Uralian or Siberian than any of the
+others.?
+
+
+THE BRONZE AGE IN NORTHERN RUSSIA.
+
+
+Though in Russia, as in Finland, there was no Bronze
+Age, strictly speaking, yet a few objects of this period have
+been discovered there, of which it is right to take notice.
+
+
+? Hackman, pp. 355-359, 361-364, 400.
+® 1did. pp. 367, 368, 394-399
+
+
+90 PRE- AND PROTO-HISTORIC FINNS
+
+
+There were found on the banks of the Pinega, not far
+from the White Sea, two socketed bronze battle-axes,
+ornamented with the head of a dragon at the hammer end,
+and at the end of the socket the head of a bird, probably
+an eagle, with its head turned in an opposite direction
+from that of the dragon (Asp. No. 240, 241). Though
+extremely alike, these weapons are not exactly the same.
+Another, hardly differing from No. 241, now in the collec-
+tion of Count Uvarov, came from Eldbuga,! where a fine
+socketed bronze pick, one end terminating in a boar’s
+head (Asp. No. 242), was also found. In form none of
+these weapons, so far as I know, are quite like any that
+have been found in Siberia. But a head not unlike the
+dragon’s is to be seen on a carved piece of wood from a
+grave of the early Iron Age in the Altai,? also on the
+handle of a knife from Baikalova on the Yenisei, and
+the ears are similarly treated on a double head forming
+the loop of a pendant, also from the district of Minus-
+sinsk.§
+
+Not far from the village of Fatidnovo, about twenty-four
+miles north of Yaroslav, on the Volga, an ancient settlement
+and cemetery were uncovered, where all the implements
+were of stone, though the presence of a green stain of
+oxide of copper, a piece of bronze wire, a round copper
+disk, and three pieces of glass, show that it did not belong
+to the genuine neolithic age. The skeletons lay on their
+backs on a layer of ashes; at the head and feet were urns,
+generally placed mouth downwards. On investigation it
+turned out that the copper disk, which was thinner in the
+
+
+1 Uvarov, Katalog, Fig. 90, opp. p. 80.
+2 Radloff, vol. ii. Tafel 9, No. 1.
+3 Martin, PL. 15, No. 20; Pl. 30, No. rz.
+
+
+7 hee
+
+
+THE BRONZE AGE IN N. RUSSIA gt
+
+
+middle and thicker at the rim, and about the size of a thick
+halfpenny, contained a core of iron, and that the copper
+was alloyed with 1°90 per cent. of lead. The copper wire
+seemed to have been hammered out without preparatory
+fusion, and then curled into a loop and passed through a
+bear’s tooth (Asp. No. 132). Grinding and polishing stone
+had reached a high degree of development. Most of the
+perforated hammer-axes have a cutting edge that curves
+under in such a way that it terminates much nearer the
+axis of the hole than the upper angle (Asp. No. 97, 98).
+In form and decoration the pottery is very different from
+any that has hitherto been described. The urns have no
+handles or holes for suspension, and are generally globular,
+with a short neck of less diameter than across the centre
+of the greatest swell, and an everted lip. The largest found
+entire was 5°5 in. high, but some fragments must have
+belonged to much larger vessels. The decoration is con-
+fined to the upper part of the vessel, and consists of
+horizontal rows of short diagonal strokes, each row at a
+different angle from the one above and below it; of short
+vertical strokes in horizontal rows; rows of dog-tooth or
+of short crossed lines ; sometimes the lines are made with
+a comb-like punch. The skulls were measured by Bog-
+danov, who remarked that as regards dimensions the
+Fatidnovan crania are nearer the long-headed Kurgan
+type than the small heads of the Ladogan station. The
+vertical diameter could only be measured in three instances,
+and these show a platycephalous skull. These crania are
+not essentially different from the long skulls in the Merian
+graves, though they do not belong to the type he considers
+Merian.!
+
+
+1 Uvarov, pp. 399-411, 416-419.
+
+
+92 PRE- AND PROTO-HISTORIC FINNS
+
+
+In consequence of the platycephaly of the Fatidnovan
+crania I have compared them with three Ostiak crania
+measured by Dr. Sommier. The second female skull
+
+
+Fatr£novo CRania. Osriax Crania. !
+No1F. 2F. 3M. 4M. 5 M./2726 F. 2727M. 2729M.
+
+Horizontal curve . 515 495 530 540 520] 506 s17_ SaZ
+Long diameter - x2 182 196 192 194/ 183 I9gr 19%
+Trans. diameter . 137 134 +4136 13146 134| #41395 133% 135
+Vert. diameter. - %ray7 <u a... . 133) 20 134 128
+Orbit. width . - 40 4 4m 4 ..,. 4! 41 39
+Orbit. height . . 33 37 38 38 ~... 36 35 35
+Nasal width . - 47 #«§r #58 53 .«. 5
+Nasal height . - 24 2 25 =a... 3 24
+Cephal. index . - 752 736 69°3 760 69'0| 73°7 68°5 706
+Vert. index. - 697 63°r ... 3... 68°5| 65°5 o'r 67°0
+Trans. vert. index . 92°7 858... ... 99'2| 88°83 102°2 94°8
+Orbit. index. . 82°5 go'2 92°6 83°93... 87°8 85°3 89'7
+Nasal index . - §52°O 49°0 43°% 4572... 57°70 §648°549°5
+
+
+seems to be very like the female Ostiak skull, save that the
+latter is platyrhine and mesoseme, while the former is
+mesorhine and megaseme. But as the oscillations of
+orbital and nasal indices in a given group of crania are
+generally very considerable, too great stress need not be
+laid on these differences. The first Ostiak male skull is
+the only orthocephalous example in the twelve measured
+by Sommier, their average height being 127 mm. and the
+vertical index 67°5; the average height of the female skull
+is 122 mm. and the vertical index is the same as in the
+male skull. On the whole, then, there seems to be a kin-
+ship between the two sets of crania. The pottery is
+certainly not European. In form, and even in ornament,
+these small globular pots resemble the small globular pots
+found by Mr. Heikel in excavating Kurgans on the river
+Tobol and at the old fort of Cuva’, close to Tobolsk, just
+
+
+1 Sommier, (x) pp. 90-93.
+
+
+THE BRONZE AGE IN N. RUSSIA _ 93
+
+
+below the junction with the Irtis,! though these latter
+belong to a much later time than the pots from Fatidnovo.
+The district in which they were found is very near the
+Ostiak country still, and in former days the Ostiaks
+probably occupied it. The peculiar form of the cutting
+edge of the axe-hammers mentioned above was also noticed
+on an example or two from a prehistoric fort on the Sar in
+the same government of Yaroslav ; another came from the
+district of Rietitsk (Minsk) ;?7 from Insarsk (Penza) ;* from
+Yaransk (Vidtka) ;° from LaiSebsk (Kazan) ;* and from
+Bobruisk (Mogilev),‘ though this last differs from the
+others in the rapid slope backwards of the cutting edge
+from its upper angle. The backward curve of the cutting
+edge is also characteristic of the battle-axes of the copper
+period in Hungary® and of the axes from Koban in the
+Caucasus. The presence of an Ugrian people resembling
+the modern Ostiaks so far to the west in Russia at so early
+a date, before the end of the last era, has hardly been
+suspected hitherto; at least any belief of the sort was based
+on more or less doubtful etymologies of place-names, but
+now it seems to me fairly well established both on cranio-
+logical and archeological grounds.
+
+About eighty miles due east of Fatidnovo, near the town of
+Galié, in the adjacent government of Kostroma, there were
+found in a clay pot six objects of pure copper of non-
+European types. They consist of a human figure (Fig. 11) ;
+a human mask surmounted by what looks like a flat disk,
+
+1 Cf. Uvaérow, Pl. 28, figs. 322, 315, 316, with Heike], Pl. xxvii. No.
+11, 12; Pi. v. No. 6, ro,
+
+2 Uvarov, Pl. 40, No. 5078. 3 In the University Museum at Kazan.
+4 Historical Museum, Moscow, Zala 2, Skaf 9, No. 340.
+
+
+5 Fr. von Pulszky, Die Kupferzeit in Ungarn, pp. 404-406.
+6 E, Chantre, Recherches antropol, dans le Caucase, vol. ii. Pl. i. ii. iii.
+
+
+94 PRE- AND PROTO-HISTORIC FINNS
+
+
+on which are reclining two animals with their heads turned
+outwards (Fig. 9); a knife with a handle ending in the
+head of a reptile, the grip being @ jour and ornamented with
+horizontal and diagonal incisions; a long-backed, smooth,
+long-headed animal with a short tail, short legs, an open
+mouth and hollow inside (Asp. No. 299-303) ; a long, solid
+bead ; a bracelet of round wire pointed at the ends and
+not closed ; and an axe of a type found in several places
+in Eastern Russia. The human figure is ithyphallic, with
+arms bent and the hands meeting in front§ of the body;
+the knees are also bent and separated, being united at the
+feet by a cross bar. The head is large, the chin rather
+pointed and beardless, the mouth somewhat open, the eyes
+staring to the front, and the general expression is satur-
+nine. The ears are projecting and pointed ; on the top of
+the head lies what looks like a circular disk or a broad
+fillet, and from the centre of this, and on each side of the
+head, above the ears, issue projections shaped somewhat
+like the head of an axe.
+
+A figure very similar to the above was found some-
+where in the government of Perm, whether on the west or
+east side of the Urals is equally unknown (Fig. 12) (Asp.
+No. 304). The attitude is the same, the hands meeting in
+front of the body, the legs separated, the knees bent and
+the feet united by a transverse bar as in the last. The
+head is also large, with a pointed beardless chin ; the mouth
+is also somewhat open, but the eyes seem to be shown by
+two lense-shaped holes. The ears are more like projecting
+knobs. The head is also surmounted by what looks like a
+flat disk or a fillet, out of which spring three broad ray-like
+projections, as well as on each side of the head above the
+eyes, at the point of each shoulder, and from the outside of
+
+
+_ FF
+
+
+THE BRONZE AGE IN N. RUSSIA 95
+
+
+each upper arm about half-way down. It is of ruder and
+probably later work than the figure from near Gali¢, but it
+belongs to the same type, and no doubt was made by people
+of common origin, probably Ugrian, like those we seem to
+have found at Fatidnovo. A head-dress, the lower part of
+which resembles that of the two figures and the human
+mask, is also found on a semi-human-headed bird-god
+from a grave in the government of Tomsk (Fig. 10). Very
+similar representations of birds with a human face, some-
+times with a full-length human figure on the breast of the
+bird, are far from uncommon in the government of Perm,
+where they are attributed to the Eudes. These _bird-
+idols have been well discussed in great detail by Mr.
+Teplotkhov.
+
+In the government of Perm no settlement has been found
+belonging to the period of Bronze ; only a few objects have
+been found, several of which are of copper, and none of
+them come from places north of the Obva, or about lat.
+58° 30°. N. The only remarkable piece is a large, slightly
+curved bronze knife, the haft of which terminates in figures
+of three mountain sheep (Fig. 13). It belongs to a Yeni-
+sean type, and as it was found at Turbina, nearly opposite
+the inflow of the Cusovaya, it may have been imported
+by way of that river. The other objects are mostly of rude
+work and of local manufacture.}
+
+
+THE Bronze AGE IN THE BALTIC PROVINCES.
+
+
+Strictly speaking there was no age of Bronze in the Baltic
+Provinces, for there was no metal in the country from
+which it could be made. But the nine objects assigned
+
+1 Teplodkhov, (z) pp. 26-29.
+
+
+96 PRE- AND PROTO-HISTORIC FINNS
+
+
+to this period are interesting, in so far that they prove the
+country was visited by foreigners several centuries before
+the present era, and at various times. All the objects,
+consisting of a flanged celt, a palstaff, a socketed celt,
+two lance-heads, a tutulus, a spiral, and two massive arm-
+rings, were found near the coast, including the islands of
+Oesel and Mohn, or on the Dvina. Not all of them are
+of Scandinavian type. The flanged celt, with a cutting
+edge like a cheese-knife, from Altona on the Dvina (Asp.
+No. 401), is exactly like one from the Kurische Nehrung,
+and like another from Schillingen in the district of Tilsit.
+This, the palstaff of Swedish type from the island of Oesel
+(Asp. No. 399), the eared and socketed celt from Tuckum
+in Kurland, and perhaps the tutulus from Thula in Esthonia,
+belong to the second period of Montelius. The others
+are later, and perhaps the two massive arm-rings do not
+belong to the Bronze Period at all. From the rarity of
+bronze objects in the Baltic Provinces, as well as in East
+Prussia, though in a less degree, it is evident the stream
+of material civilisation, that flowed from south to north
+and fertilised Scandinavia to such a wonderful degree, left
+* the north-east of Europe to all intents and purposes un-
+touched. The little that found its way into the Baltic
+Provinces seems to have come for the most part from
+Scandinavia. 1
+
+
+THE TRANSITION FROM BRONZE TO IRON.
+
+
+In Finland, the Baltic Provinces, and Central Russia
+west of the longitude of Kazdn, there are no cemeteries
+in which we’ can trace a distinct passage from the use of
+
+3 Hausmann, (2) pp. xii, xiii.
+
+
+TRANSITION FROM BRONZE TO IRON 097
+
+
+bronze to the use of iron. But eastwards, in that part of
+the valley of the Kama which forms the southern boundary
+of the government of Vidtka, the case is otherwise. Near
+the old mouth of the Toima, where it fell into the Kama
+a little below the town of Eldbuga, is the cemetery of
+Andnino, the approximate date of which is placed by Mr.
+Aspelin in the fourth century B.c. Here objects both of
+bronze and iron are found together, and, what is most
+important, with hardly an exception the types of the iron
+weapons and instruments are simply continuations of the
+older bronze forms. As we have seen above, the cemetery
+seems to overlie or, at any rate, to be in very close juxta-
+position with, a still older neolithic settlement. Externally
+the site presented the appearance of an irregularly-shaped
+ridge of no great height or size, lying east and west, and
+without any indication that there were graves below;
+though the surface seems to have been strewn with flat
+slabs, on some of which human figures and inscriptions
+were carved. The first excavations were unfortunately
+executed in the most haphazard manner by persons ignor-
+ant of archzology and of the vast importance of the finds.
+In 1859 Mr. Alabin commenced operations by unearthing
+about fifty skeletons, most of them lying in groups of two
+and three. With four exceptions all had been laid with
+the head to the south, and only six were inhumed, while
+the others had undergone incomplete cremation. Traces
+of the action of fire on some of the objects showed that
+the deceased had been cremated with his clothes, weapons,
+and ornaments upon him. By the side of the male skeletons
+was placed a knife and a bronze socketed celt or a spear-
+head, on the breast arrow-heads; with women were de-
+posited necklaces, beads, and other ornaments. Some had
+I G
+
+
+98 PRE- AND PROTO-HISTORIC FINNS
+
+
+bronze, others iron weapons, and the knife was usually at
+the left side, while the celt lay near the right hand. In the
+poorer graves only a knife and some clay vessels were
+found. In 1881 excavations were resumed, when an un-
+touched sepulchre was opened containing ten skeletons,
+by the side of which were objects of stone, bronze, iron,
+and even silver, but no detailed account of the find has
+as yet been published.! The bronze axes and picks, the
+bronze and iron daggers, the bronze socketed celts and
+arrow-heads, the bronze and iron snaffles, the bronze
+scabbard-tips, and the small iron rather sickle-shaped
+knives, have all a Siberian facies, and all or most of them
+can be matched by types or examples from the valley of
+the Yenisei. Bronze buttons, ornamented almost as in
+Fig. 14, are also found at Koban, at the north end of the
+pass of Dariel (Fig. 15). The pottery is made of a black,
+rather compact clay, often with an admixture of com-
+minuted shells. The vessels are bowl-shaped, with a
+rounded bottom, and the ornament is disposed below the
+rim. The decoration is given by a row of small holes at
+intervals ; by several rows of short gashes; by a zone of
+punch-marks alternately vertical and horizontal; by
+parallel lines of fine prick-marks arranged in zigzags or
+horizontally. On one small bowl, however, in the Univer-
+sity Museum at Kazan, below the cord pattern and a
+row of small holes that run under the rim, is a row of
+quadrupeds, perhaps horses, with their heads to the right.
+The form of the animals is rendered by lines that imitate
+the cord pattern, and in shape the animals are perfectly
+geometrical, as if they had been copied from a piece of
+embroidery. The head is triangular, connected by two
+1 Spitsin, pp. 26-30.
+
+
+TRANSITION FROM BRONZE TO IRON 99
+
+
+vertical lines with a parallelogram, which represents the
+body, and the whole is supported by four vertical lines
+to represent the legs. The tail is formed by a vertical
+prolongation of the hindmost leg. A few bone arrow-
+heads and flint implements seem also to have been found
+in the graves. Two partly polished whitish flint gouges,
+now in the University Museum at Kazan, are quite like
+others from the neolithic settlements on the Volga below
+Kazan, but there appears to be a doubt whether they may
+not belong to the older neolithic station that underlay the
+cemetery.
+
+So far as metallic objects are concerned, the finds at
+Andnino still stand alone in the valley of the Kama, but
+along that portion of the river that fringes the southern
+boundary of the government of Vidtka, and up the Vidtka
+river as far as the junction of the PizZma, there is a series
+of prehistoric forts, where the instruments and ornaments
+are almost entirely of bone, which, in Mr. Spitsin’s opinion,
+belong to the same civilisation as that of Andnino, and
+approximately to the same period. The inhabitants of
+these forts seem to have been chiefly hunters, though they
+were partly pastoral, and from the immense accumulation
+of bones within the forts these are distinguished by the
+term ‘ossiferous’ forts. The commonest bones are those of
+the reindeer, elk, horse, bear, and beaver ; less frequent are
+those of the pig, horned cattle, hare, otter, fox, wolf, martin,
+sheep, dog, of birds and fish. Though by far the greater
+number of archzological objects, such as battle-hammers,
+arrow-heads, knives, knife-handles, spoons, awls, fish-hooks,
+needles, combs, beads, and playthings, were of bone, yet
+bronze, copper, and iron were not unknown. Six bronze,
+earless, socketed celts, one of Andnino type, and most of
+
+
+100 PRE- AND PROTO-HISTORIC FINNS
+
+
+them devoid of ornament were found; also several iron
+knives and awls of quadrangular section, but only one
+arrow-head and one lance-head of that metal. Part of
+a mould for a celt and crucibles of clay show that metal-
+lurgy was understood, though little practised from dearth
+of metal ; for there are no indications that the copper mines
+in the government of Vidtka were worked in prehistoric
+times. Bone arrow-heads were in great abundance; the
+commonest were of quadrangular or triangular section with
+a short stem. Fish-hooks were not uncommon, but har-
+poons were rare, and of different forms. Spoons and combs
+were also rare, but the latter were always decorated. For
+ornament they used bear’s teeth, small knuckle-bones, per-
+forated bone beads, as well as beads of bronze, glass, and,
+at one place, of nephrite. The carving in bone is very skil-
+fully executed, and is even artistic. For decorating a knife-
+handle or other object the favourite animal head was that of
+the elk, though also of the bear, fox, boar, horse, and even
+of the dragon. In the forts along the river Vidtka objects
+of stone were few in number, and chiefly confined to flint
+arrow-heads, but the forts along the Kama were much richer
+in this respect, and yielded a considerable number of wedge-
+shaped axes and chisels of the OriSut type. Yet no flint
+scrapers, knives, or nuclei were found, showing that the
+genuine neolithic civilisation was a thing of the past. In
+Mr. Spitsin’s opinion, the stone chisels, the bone battle-
+hammers, the bone arrow-heads, especially those of trian-
+gular section, and the bone awls, are simply reproductions
+in bone of bronze prototypes, more especially of Andnino
+type. Be this as it may, it cannot be denied that one of
+the perforated stone disks or whorls, on which an animal
+is carved (Fig. 18) bears a wonderful likeness to the bronze
+
+
+TRANSITION FROM BRONZE TO IRON 1or1
+
+
+cheek of a bit from Andnino (Fig. 19) (Asp. No. 474). Yet
+the pottery from the forts is very unlike what is found at An-
+anino; the former is large, strong, resonant when struck, and
+coarse as regards ornament, while the latter is fine, fragile,
+and often provided with a complicated and ingenious design.
+The vessels found in the forts have a round bottom, a
+mouth like a caldron, with a diameter of from 34 feet
+to 2 feet, though there were also smaller vessels, the
+smallest of which had a diameter of only 24 inches.
+The ornament on the large vessels was usually made
+with a six-cogged punch; the cord pattern was rarely
+used, and was sometimes accompanied by small circles.
+Mr. Spitsin gives no illustrations of these designs, but
+probably the small circles are the same as are sometimes
+found on the pottery of the so-called Cudish forts in the
+upper part of the Ceptsa valley, where they have a diameter
+of from 6 to 7 mm., and seem to be formed by hand with
+a pointed tool. Small circles of similar dimensions, but
+formed by small dots, are to be seen on a sherd from
+Kudimkor, in the district of Solikamsk, Perm. But other-
+wise no antiquities of ‘Cudish’ type are found in the
+ossiferous forts, showing that they belong to an earlier
+period,! that approximately corresponds with the older
+Iron Age in Finland and the Baltic Provinces, though it
+may have begun rather earlier.
+
+
+THE EARLIER [RON AGE IN FINLAND.
+
+
+In the earlier Iron Age of Europe, what is known as
+the Hallstadt and La Téne periods, extending from about
+Soo B.C. to about the end of the last era, though fairly well
+
+
+1 Spitsin, pp. 41-47.
+
+
+102 PRE- AND PROTO-HISTORIC FINNS
+
+
+represented in Denmark and Scandinavia, scarcely touched
+East Prussia, and never penetrated into the Baltic Pro-
+vinces or into Finland. Except in Finland, it was not till
+after the beginning of the present era that these outlying
+countries began to be regularly visited by traders, who
+bartered arms and ornaments for the products of the
+country, which must have mainly consisted in furs and
+pelts. By means of this trade these remote regions were
+ultimately won over to a completely European civilisation.
+The oldest objects of the Iron Age are three bronze neck-
+rings from the village of Panelia in the government of Abo.
+Similar rings are known in Uppland, Oland, Gotland, and
+also in Denmark. In Sweden they belong to the begin-
+ning of the Age of Iron (S00—300 B.c.).!_ Then there is a
+gap till the beginning of the Christian era.
+
+In J. R. Aspelin’s opinion the population whose cairn
+graves are found in the south-west of Finland must be
+considered a branch of the contemporary inhabitants of
+Sweden.?, The oldest relics of the Iron Age in Finland
+are so similar to those of the Iron Age in Scandinavia
+before 700 a.p. that it is impossible to explain the fact
+otherwise than by a Gothic settlement. For no people
+can borrow a completely foreign civilisation without modi-
+fying the forms in some way or other in conformity with
+their own peculiar genius. These forms may be improved
+upon, or they may become deteriorated, but they cannot
+remain exactly the same.’ It was formerly believed that
+from about the seventh to the middle of the ninth century
+a gap existed in the archeological record, for there were
+no finds to connect the older with the totally new types of
+the later Iron Age. This barren interval was explained
+
+
+1 Hackman, pp. 402-404. % Aspelin,(z)p.355. 3 Aspelin, (3) p. 140.
+
+
+THE EARLIER IRON AGE IN FINLAND 103
+
+
+by supposing that a great change had taken place in the
+population; that the old Scandinavian population had
+migrated and their place had been taken by the ancestors
+of the existing Finns, who now entered the country for
+the first time. But Mr. Hackman, writing in 1897, and
+well conversant with the unceasing discoveries of new
+archzological material in Finland, says that a study of the
+antiquities of the Iron Age shows us a continual local
+development, and therefore no break that might be referred
+to a sudden and tumultuous immigration of a foreign
+people. We can only prove in the later finds a gradual
+weakening of Scandinavian characteristics. Yet the finds
+of the latest heathen period still exhibit a Scandinavian
+influence. The immigration of the Finns can therefore
+have only taken place slowly in the course of several
+centuries. The old Scandinavian culture that existed since
+the Stone and Bronze Ages was therefore not abruptly
+broken and replaced by a new civilisation. Archzologically
+speaking, the Finns have far rather appropriated in part
+the forms of the first and then further developed them
+during continual contact with Scandinavian neighbours.?
+
+
+THE EARLIER [RON AGE IN THE BALTIC PROVINCES,
+
+
+Here, as in Finland, Roman coins from Augustus to the
+- year 364 A.D. occasionally assist the archzologist in
+approximately dating some of the finds. No more money
+is found till the eighth century, when Arabic coins between
+725 and ro11 A.D. begin to make their appearance. These
+are followed by Anglo-Saxon coins from 802 to 1040; by
+Byzantine coins from 868 to 1014; and by German money
+1 Hackman, pp. 366, 367.
+
+
+104 PRE- AND PROTO-HISTORIC FINNS
+
+
+struck at Utrecht, Cologne, Tréves, Strasburg, etc., dating
+from 823 to1180. For the most part the Roman coins were
+found in places near the coast, as at Reval, at Werder opposite
+the Isle of Mohn, in the islands of Mohn, Oesel, and Filsund,
+at Dreimannsdorf north of the Salis, at the mouth of the
+Dvina, at Hasau, Kapseden, Grobin, and Libau; or along
+the banks of the larger rivers that served as water-ways into
+the interior, as at Kabbina on the Lower Embach, near
+Treyden on the Livlandish Aa, at Riga, at Lennewaden on
+the Dvina, and at Bornsmiinde on the Kurlandish Aa.
+
+In Esthonia, the most northerly of the Provinces, the
+archzological record of the first Iron Period, dating from
+about 100 to 600 A.D. is still lamentably incomplete, the
+entire western half of it being practically a blank sheet.
+But in the north-east corner of the province four interest-
+ing finds have been made at Malla, Tiirpsal, Kuckers, and
+Tiirsel ; at Facht, a few miles east of Reval; at Ottenkiill
+in the east centre, and at Waetz in the south centre. All
+these finds, save the one from Malla, came from ancient
+cemeteries. According to Dr. Hausmann, Director of the
+Museum at Dorpat, the cemetery at Kuckers belongs to the
+second century, and perhaps partly to the third ; Ottenkiill
+to the second; Tiirpsal was used from the second to the
+fifth century ; the greater part of the find at Malla belongs
+to the third and fourth centuries,? and Tiirsel also begins
+about the third century.
+
+As considerable ethnological importance is attached to
+the manner in which a people disposes of its dead and
+constructs its graves, it is necessary to give a brief account
+of one or two of the burial-places. For it must be pre-
+mised that only the one at Tiirpsal has been explored and
+
+1 Grewingk, (4) map; Kharuzin, p. 94. | 2 Hausmann, (1) pp. 48, 53.
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 105
+
+
+recorded with anything like scientific accuracy. The burial-
+place found here was ina low natural mound, running east
+and west, about 4o yards long, 12 yards wide, and close
+to the high-road from Reval to Narva. On removing the
+upper layer of soil were disclosed three areas, marked off by
+large blocks of granite. The easterly compartment was
+oblong, the central one was of irregular form, but approxi-
+mated a narrow oblong figure, and was the smaller of the
+three ; the westerly area was also of irregular form, the
+north side being considerably longer than the south side,
+so that the long sides, running north and south, were not
+parallel. The eastern compartment measured 19 feet
+6 inches long by 9 feet 9 inches wide, and all three were
+paved with blocks of stone. Between the three compart-
+ments were borders of gravel about 3 feet 3 inches wide,
+containing no sepulchral remains.
+
+In the western and central compartments the dead were
+buried at no great depth, almost without any accompany-
+ing ornaments, sometimes singly, sometimes piled one on
+the top of the other. Over them was laid a pavement of
+large stones. In the eastern and probably later area there
+were no skeletons, but between the stones of the pavement
+ornaments and numerous bones and teeth of young and
+old were scattered in confusion. Most of these had not
+been cremated, though a few burnt bones were found
+among them. In the case of two skeletons in the western
+and central compartments it was possible to observe that
+they had been laid with the head to the south and the feet
+to the north, and that one of them, a robust man of
+about thirty years of age, only measured 4 feet 104 inches
+in height. The skulls, unfortunately, were all crushed.!
+
+1 Hausmann, (1) pp. 3-7.
+
+
+106 PRE- AND PROTO-HISTORIC FINNS
+
+
+The cemetery of Tiirsel, about sixteen miles west of
+Narva, and less than a mile from the coast, lies by the
+side of the highway from Narva to Reval. It consisted of
+an oval stone heap, lying east and west, about 50 feet
+long by 20 feet wide and 3 feet high, overgrown with
+turf. The area over which the mound was raised seems
+first to have been paved with stones, for between them
+were found cremated human remains, as well as the orna-
+ments and other objects they had used when alive. The
+outline of the cemetery appears to have been marked
+by a row of stones, and two rows of stones running north
+and south divided it into compartments.! From an
+archeological point of view the finds from the two con-
+tiguous cemeteries of Tiirpsal and Kuckers are closely
+related, though also distinguished by well-marked differ-
+ences; so too those of Tiirsel and Malla. The most
+interesting fact connected with Kuckers and Tiirpsal is the
+geographical distribution of some of the fibulze found there.
+Most of them are absent from contemporary grave-finds in
+Livland and Kurland, are hardly known in Sweden, but
+were common in the Roman provinces north of the Alps
+in the first century, are plentiful in the island of Bornholm,
+and not infrequent in West Prussia. Again, one fibula from
+Tiirpsal is not known elsewhere in the Baltic Provinces,
+nor apparently in East Prussia, but analogies are to be
+found for it at Darzau in Hannover. So too object No. 6
+in Table VIII.,? a bangle of thick bronze wire, thicker in
+the middle, terminating in round knobs, ranging as far
+south as Auzeem in Livland, only recurs at Rondsen, near
+Graudentz in West Prussia, in a grave of the second cen-
+tury. And a semicircular knife or razor from Tiirpsal,
+
+
+1 Grewingk, (2) pp. 9, ro. 2 Opp. p. 110.
+
+
+Ni ae Cae
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 107
+
+
+though the only one known in the Baltic Provinces, is
+common in Prussian graves.1 This has suggested the idea
+that some of the objects found near the north coast of
+Esthonia were imported by a sea route from the south-west
+part of the Baltic as early as the second century. That
+this is not impossible will be touched upon in a subsequent
+chapter. But some of the articles may have come by land
+from the south. In Table VIII. it will be seen that object
+No. 1, a hook fibula of the earliest type known in the
+Baltic Provinces, is found at several intermediate stations
+in Livland, as well as at Santen in Kurland. In the
+Museums at Konigsberg and Dantzig I have noticed
+several of the same type, with the same ornamentation on
+the arch, only differing in having the upper end of the’
+fibula undecorated and more splayed at the top—the foot,
+according to the quaint but erroneous terminology of the
+late Dr. Tischler,—from Kainsvikus (Insterburg), Hol-
+landerie (Wehlau), from three places in Samland, and from
+Kleschkau near Dantzig. They are also found elsewhere
+in East Prussia.
+
+None of the graves in the province show any signs of
+transition from a stone to an iron age. Of course it is
+possible that future exploration may introduce us to graves
+in which stone weapons are also present, but so far as the
+evidence as yet goes the change seems to have been made
+by totally discarding the old order and plunging headlong
+into the new civilisation with all the fervour of new con-
+verts. The presence of the tooth of a sheep and a pig at
+Tiirpsal shows that these domestic animals were bred in
+the country, no doubt before the introduction of iron; and
+the fibulz, apart from a shred or two of cloth from Malla,
+
+
+1 Hausmann, (z) pp. 25-29, 35, 39-
+
+
+108 PRE- AND PROTO-HISTORIC FINNS
+
+
+are enough to prove that the natives wore woollen clothes,
+and that the women could spin, weave, and sew. Pottery
+was little used; only a very few sherds, one piece orna-
+mented with very shallow irregular lines, were picked up
+at Tiirsel, but not elsewhere. The chief objects deposited
+with the dead were ornaments: fibule of diverse forms,
+finger-rings in abundance, neck- and arm-rings of different
+patterns and sizes for children and adults, but pendants
+and glass beads were few in number. The traders that
+brought them had probably parted with most of their stock
+before getting so far north. Arms and tools of iron were
+rare. At Kuckers there were only knives of simple form,
+but at Tirpsal, Tiirsel, and Ottenkill, besides these, were
+one or two lance-heads and celts, a semicircular knife or
+razor, an awl and a needle of iron, but no axes. Perhaps
+the stone axe was still in use, though none was deposited
+with the dead. About the fifth century arms were more
+abundant ; at Haakhof, nearly half way between Tiirsel and
+Kunda, a hoard of that period was discovered, buried
+about a foot below the surface. It consisted of forty-eight
+socketed lance-heads, twenty-two sickle-shaped knives,
+with short, bent tangs, nine celts, two axes, and a fragment
+of a double-edged sword. So, even as late as the fifth
+century, the iron axe seems to have been far from common.
+
+From Dr. Hausmann’s Catalogue of the Archeological
+Congress, held at Riga in 1896, I have compiled Table VIII.
+to give an idea of the distribution over the three provinces
+of various types of fibulz, neck- and finger-rings, arm-rings
+or bangles, large pins, etc., ranging in date from about the
+second to the fifth or sixth century. From this it appears
+that out of twenty-one objects from finds in Esthonia, five
+are confined to that province, sixteen pass the modern
+
+
+Poe ge
+
+
+an
+- a mw wewcewny woe sus e . eo If .s . | . e .
+. Unnipiht, src 8 . . . |e | He (ed.
+. Camby, s.7.c. . . ~Jefedie del.
+Ayakar, s.7.¢. . . ~|- | it.
+
+
+1
+|
+|
+. Langensee, s.7.¢. . . otebeW ed et ede feted ede]e,-]-
+. Strickenhof, s.s.¢. . . ~|Xle| lebetetetefepede | ol.
+- Ronneburg Kangar, 1.5.5. . | -| + |||. | . .
+|
+
+
+. Gr. Roop, $.7.¢. . . - |X). | .
+. Auzeem, 5.7.6. ; . . x | . ! .
+
+. Golgovsky . . . efefeiedede fel fet pede
+. Eschenhof . . . wfefefixlyepey eee te|-
+ Kajenhof rere sae
+
+. Selsau . . . . we
+
+. Praulen . . ale
+
+. Dahlen.
+
+. Alt Kalzenau
+
+. Lennewaden.
+
+. Odsen ry |
+
+
+. Santen, ms. .
+
+. Frauvenburg .
+
+. Kapseden. . . ~feleli,
+. Dobelsberg . . . olele
+
+. Fockenhof . . . ~ lel.
+
+. Selbur . . ~ fel.
+. N. Selburg, 7.2. . . - |. .
+
+
+. Herbergen, 7.2. .
+
+
+Gertrudenof, s.7.¢.
+
+
+* » ii. S.5. oll]epetedel.
+» Strante, s.5.c. a eo ee) | en ed
+” Vellakravand,s.s.c.|X|-|/ix|.]-
+Slavek, s.5.¢. offletededede|.
+» Viksnas . efededi et. -}.[xr.
+Muhsin
+
+
+e e s
+oe
+e e e
+e
+
+
+Pixten . . .
+Gr. Sonnaxt, ms.4..
+Renneburg, .% .
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 1ro9
+
+
+frontier, though two of these do not go far beyond it; only
+two reach the south of Livland, and only two cross over
+into Kurland. In Livland, out of thirty-nine objects,
+seventeen are confined to the province, sixteen are likewise
+common to Esthonia, and only eight also occur in Kurland.
+But in Table VIII. both the objects No. 18, 20, one of
+which stops at Vellakravand and the other at Dahlen,
+after skipping Kurland, reappear at Oberhof in East
+Prussia, in the district of Memel. And the pendant No. 26,
+which stops short at Ayakar, crops up with very slight
+change at Heydenkrug in East Prussia, but north of the
+Niemen. Lastly, in Kurland, out of twelve objects, four
+are peculiar to the province, seven also belong to Livland,
+and only two to Esthonia. Hence we find from the very
+beginning of the new Iron Age civilisation certain provincial
+differences in the ornamental objects used in the three
+provinces, and that the connection between Esthonia and
+Livland was closer than between Livland and Kurland.
+As there are no iron ores in the Baltic Provinces, and none
+nearer than in the government of Vilna, all the earlier
+objects of iron or bronze, now alloyed with zinc and lead,
+must have been imported from abroad. After a time the
+natives learnt to work.in metal on their own account, but
+before they began to do so objects of the second century
+that are special to one province—such as Table VIII.
+Nos. 8,.9, 10, 11,—can only be accounted for on the sup-
+position either that they came from quite different trade
+centres, or from the same centre on different occasions
+separated by a few years.
+
+In Livland the sepulchral arrangements are not quite
+the same as in Esthonia. Lying mainly in the north and
+centre of the province, there are cemeteries from 80 feet to
+
+
+110 PRE- AND PROTO-HISTORIC FINNS
+
+
+325 feet long, running east and west, surrounded by a low
+wall of dry stones, and divided into a good many compart-
+ments by parallel rows of stones, running north and south,
+that were successively added as occasion required.! The
+cremated remains, and the objects damaged by fire that
+accompanied them, seem sometimes to have been paved
+over with stones, over which was heaped a low cairn from
+4 feet to 5 feet high. Grewingk termed these ‘ship-graves,’
+under the mistaken impression that the external form of these
+burial-places had the form of a hull, and that the shorter
+transverse rows were intended to represent rowing benches.
+More accurate measurements and more exact plans have
+now shown that he was mistaken, and archzologists have
+therefore abandoned the term. They are now termed
+stone row-graves with cremation, and stone settings with
+cremation. No cinerary urns are found in these cemeteries,
+though there are sometimes sherds of pottery. An ex-
+ception to this mode of burial is known at Auzeem (Gr.
+Roop), where a kist grave was opened containing merely
+an amber button.
+
+In Kurland there are again differences. In the north-
+west corner of the province, not far from the coast of the
+Gulf of Riga, at Musching, Widser, and Nogallen (parish of
+Erwahlen) there are cairns about 60 feet long, 18 feet broad,
+and from 1 to 4 feet high, running north-west and south-east,
+and known to the natives as Vella /aiva, or Devil’s Ships.
+When some of them were explored by Professor Grewingk
+they were found to contain small kists about 10 inches
+square, in each of which stood a cinerary urn containing ashes
+and fragments of charred human bones. The only object
+found with them lay in an urn at Widser, and was supposed
+
+
+1 Hausmann, (3) p. xix.
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 111
+
+
+to be a metallic blade about a finger in length. But it is now
+lost, and doubts are thrown upon its existence at all.! At
+New Selburg mention is also made of a kist grave, covered
+with a large stone, in which stood eighteen cinerary urns
+containing burnt bones, while at Santen (Kandau district)
+the uncremated skeleton lay on the level of the ground in
+the direction from west to east under a mound from 5 feet to
+6 feet high, and each body had a grave to itself.2, But onthe
+whole our knowledge of sepulchral arrangements in Kurland
+is very uncertain and incomplete. It is certain that graves
+were sometimes surrounded or covered over with stones,
+and though cremation is proved at some places, such as
+Kapseden and Schlagunen, yet on the whole inhumation
+under mounds, such as are found at Herbergen, Renneberg,
+Selburg, and Sonnaxt, seems to have prevailed in the
+province.* So too further south, in the district of Memel,
+in the great cemeteries of Oberhof and Schernen, inhuma-
+tion was practised in the first five centuries of the Christian
+era. But here the cemeteries present a network of stone
+circles and compartments, sometimes touching each other,
+and with the enclosed areas unpaved, wherein they differ
+from the cemeteries in Samland, in which the areas are
+paved with stones. All these places of burial are flat fields
+without any mound to mark the presence of a grave.
+
+It has already been noticed that very little pottery
+was used in Esthonia. ‘The same remark applies not
+only to Livland and Kurland, the urns at Kapseden and
+Musching being a rare exception, but also to the cemetery
+of Oberhof on the north side of the Niemen. It is quite
+otherwise in the rest of East Prussia south of that river;
+
+
+1 Grewingk, (4) PP. 227. ¥ Kharuzin, PP. 154, 159.
+ausmann, (2) p. xix.
+
+
+112 PRE- AND PROTO-HISTORIC FINNS
+
+
+there large, well-made urns of many diverse shapes are of
+constant occurrence in the graves of the first four or five
+centuries of the present era.
+
+From about 600 to 800 a.p. there is almost a gap in
+the archzological record of the Baltic Provinces, just as
+in East Prussia, though in each of the three provinces
+there are common places of burial in which objects of the
+earlier and later period are found. For instance, the
+cemetery of Tiirsel in Esthonia was used for many centuries.
+Subsequent excavations to those already mentioned showed
+that cremation, which prevailed in the older period, was
+gradually replaced by inhumation, and coincident with this
+there was a change, of course, in the character of the objects
+deposited with the dead. Mr. Viskovatov, who conducted
+the excavation, came to the conclusion that Tiirsel was
+used as late as the thirteenth, perhaps down to the fifteenth
+century,! though we have seen that it originated in the
+third century. It is possible, however, that the place was
+not used quite uninterruptedly for ten or more centuries as
+a place of burial, for the area over which it extends is of
+small size. ‘The stone row-grave with cremation at Waetz
+has also furnished objects belonging to both periods.?
+
+In North Livland, in the part inhabited by Finns in the
+twelfth century, there are likewise cemeteries with a mixed
+inventory of old and new. The northern part of the great
+cairn grave at Pajus showed two or three distinct stone rows,
+and within them were objects dating from about the third
+to the fifth century. The larger remaining sepulchral area
+was surrounded by a very strong dry wall of large stones,
+and within it no transverse rows could be traced. This
+enclosed space was afterwards heaped over with stones.
+
+1 Kharuzin, pp. 149, 1785. 2 Hausmann, (2) p. Lxiii.
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 113
+
+
+Though a few articles of the older period were found here,
+the great majority of them belonged to the later period.
+At Allats-Kivi there is a large stone-row cemetery with
+cremation, the long axis of which lies east and west, while
+most of the transverse rows run north and south. Between
+these lay many bones, most of them showing marks of
+fire. But here there were few objects of the older time; all
+the other numerous ornaments, etc., belonged to the newer
+period. This cemetery is of great interest, as it is the
+latest known of its class. Close beside this cemetery lay
+another, belonging entirely to the later period (700-1200
+A.D.), in which one or more bodies were laid uncremated
+in a shallow grave over which a mound was raised. One
+male skeleton lay with the head to the north and the feet
+to the south, another was orientated from west to east.!
+Two skulls from this cemetery have already been spoken
+of at p. 47, and shown to be far removed from the
+Finnish type. Although Dr. Hausmann attributes this
+cemetery positively to the Ests, it seems to me somewhat
+doubtful, not only on account of the skulls, but also of the
+mode of burial, which resembles that found on undoubted
+Lettish territory, such as at Ludsen in the government of
+Vitebsk and in Kurland.
+
+Transition finds which seem to point to uninterrupted
+occupation in Lettish Livland have been found at Kaipen
+and Kajenhof, both in the district of Sissegal, at Ronneburg
+Strante, Odensee, and Odsen, as well as at JasmuiSa and
+Ludsen in the government of Vitebsk, which formed part
+of Livland till 1660. In Kurland, too, they are known in
+several places, such as Preekuln, Autz, Ilen, Fockenhof,
+Schlagunen, Alt Raden, Zeemalden, and Selburg. At all
+
+1 Hausmann, (2) pp. Ixi, 1xii.
+
+I H
+
+
+114 PRE- AND PROTO-HISTORIC FINNS
+
+
+these places, so far as is known, the mode of burial was
+inhumation, which helps to connect them with the older
+graves, where a similar method of interment was practised.?
+
+It is unnecessary to pursue the subject further, for during
+the later period there were certainly Finns in the Baltic
+Provinces. The problem to be solved is, When did they
+arrive? and does the archeology of this region for the first
+five centuries of the present era lead us to suppose they
+made their first appearance during that interval of time or
+subsequently? Grewingk attributed to Goths and Scandi-
+navians the Vella latva at Musching and the thirty or
+more ‘ship-graves’ in Esthonia and Livland. But as the
+‘ship-grave’ theory was founded on inexact plans and
+preconceived ideas, apart from the fact that the Scandi-
+navian ‘ship-graves’ belong to much later time, his
+arguments fall to the ground. Mr. O. Montelius and
+J. R. Aspelin believe the Baltic Provinces to have been
+solely inhabited by a Gothic or Teutonic people till about
+the year 400 A.D., because on the whole the types of the
+archeological objects found in these Provinces are also
+known on Teutonic soil. Professor Hausmann considers
+this theory unproved, and Dr. Kharuzin is inclined to
+believe some of the graves in Esthonia belonged to an
+Esthonian (Finnish) people. It is clear, however, that,
+in a non-metalliferous country, when a new civilisation
+that includes the use of metals is introduced, the natives
+for a long time must depend on strangers for every
+metallic object they possess, for it would not be in the
+interest of strange traders to teach the natives the art
+of metallurgy. As from a study of archeological objects
+alone we cannot solve the question, we must next take
+
+1 Hausmann, (2) pp. xlvii, xlviii, xxv.
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 115
+
+
+into consideration the modes of burjal that prevailed
+in various parts of the Provinces. Comparing the descrip-
+tion given above of the cairn graves in Finland, that
+lasted through the Bronze into the Iron Age, and were
+constructed by a Scandinavian people, with the description
+of the compartment graves at Tiirpsal and Tiirsel in
+Esthonia, we find little in common, and many important
+differences. But the structure of the graves in North
+Livland does not seem to differ much from those in
+Esthonia, and the method prevalent in Livland can be
+traced as far south as Ronneburg to the east and Auzeem
+to the west. A line drawn between these two places is
+only about twenty miles south of the boundary between
+the Esthonians and the Letts about the year 1250. An
+inspection, too, of Table VIII. shows there was considerably
+more intercourse between Esthonia and Livland north of
+this line than between the northern and southern halves
+of the latter province. Unfortunately little or nothing
+seems to be known of the mode of sepulchre south of this
+line till we reach Kurland, though the single kist grave at
+Auzeem points to a very different type from that which
+exists in the northern half of Livland. Though contem-
+porary, the mound graves with inhumation in Kurland are
+evidently of a very different character from the compart-
+ment graves in Esthonia and the northern half of Livland.
+We seem then to be in the presence of two distinct
+peoples, that divided the Baltic Provinces nearly equally
+between them. And what is more, they seem tranquilly
+to have remained there from the beginning of the Christian
+era till the present time. For the passage from the older
+to the younger Iron Age brought with it no change of
+sepulchral construction at Allats-Kivi, while at Tiirsel,
+
+
+116 PRE- AND PROTO-HISTORIC FINNS
+
+
+Waets, and Pajus the old places of interment were used
+in the younger period. In Kurland, too, there are transition
+finds that seem to attest that no alteration had taken place
+in the native population. With regard to this province,
+and perhaps the south of Livland, it seems highly probable
+that the population was of Letto-Lithuanian stock, as is
+now the case. With regard to the northern half of the
+Provinces, the population was probably Finnish—at any
+rate in part. Though this view is entirely opposed to
+that held by Finnish historians and archeologists of the
+highest repute, it does not seem to me impossible, when
+we remember that, if Dr. Virchow is correct, there were
+Finns at Rinnekaln, though only temporarily, in the
+neolithic age, at a time to which we have found reason to
+assign a date earlier than 500 B.c. The main objection
+to this theory is that nothing attributable to the earlier
+Iron Age has been found east of the Narva, though Finns
+were probably living near the head of the Gulf of Finland
+all the time. But it may be there was an uninhabited
+tract for a considerable distance east of the Narva, which
+prevented trade articles from being distributed in that
+direction. And at any rate, in the future, finds of this
+period may be brought to light. That a Finnish people
+were not the earliest settlers in this region was shown in
+the last chapter, and also that from their practice of
+carrying off the women and children there must have been
+in every clan a certain percentage of Finnish-speaking
+lads and grown-up girls that had no Finnish blood in
+their veins at all. A practice of this kind carried on for
+generations, till the whole non-Finnish people had been
+absorbed, would work immense changes on the craniology
+of the invaders. The Finns that first entered the province
+
+
+EARLIER IRON AGE IN BALTIC PROVINCES 117
+
+
+probably filtered in silently and imperceptibly in small
+parties round both ends of Lake Peipus, the country being
+so spacious and thinly populated that they could live in
+many parts of it without even attracting the attention of
+the original inhabitants. But in course of time, when
+their numbers increased, they began to attack the earlier
+settlers, and eventually supplanted them altogether. If, as
+I believe probable, the population of the northern half of
+the Baltic Provinces was partly, perhaps predominantly,
+Finnish in the second century a.pD., the first appearance
+of the Finns must be placed earlier. Corroboration of this
+view will be found in a subsequent chapter.
+
+
+Tue EARLIER IRON AGE IN EASTERN RUSSIA.
+
+
+So far as our present knowledge extends, traces of the
+early Iron Age in that part of Russia proper where we have
+found remains of a neolithic, and bronze or copper period,
+are very scanty. Isolated specimens may have been dis-
+covered here and there, but no cemetery, no great hoard
+of objects. At MokSansk and Saransk, in the government
+of Penza, Roman coins of the first two centuries have
+been dug up at various times, showing that the inhabitants,
+who may possibly have been Mordvins, were not quite out
+of touch with the outer world. With Roman money no
+doubt other products of civilisation found their way into
+the country. But on the whole the huge region stretching
+diagonally from the head of the Gulf of Finland to the
+great bend of the Volga seems to have been destitute of
+iron, or nearly so, till introduced by a trade that may have
+arisen about the seventh or eighth century, which flourished
+vigorously in the ninth and tenth centuries, and was
+
+
+118 PRE- AND PROTO-HISTORIC FINNS
+
+
+directed along the Volga from Bolgari westwards to the
+head of the Gulf of Finland. Before this time the Finnish
+population that lived between these two geographical points
+were probably in a transition state, such as we have found
+on the river Vidtka and on a portion of the Kama. We
+may suppose that mainly they still employed instruments
+of stone and bone, though they were glad to acquire at
+rare intervals articles of copper and iron from more ad-
+vanced Eastern neighbours, for they had not yet learned
+to extract iron directly from the ore. The find at Diakovo,
+near Moscow, already referred to, belongs perhaps to this
+period. That iron was known earlier on the Kama than
+elsewhere in Northern and Central Russia we have already
+seen. So it is not surprising that on the same river,
+though a good deal higher up, and on the opposite bank,
+is the only station of the earlier Iron Age as yet known
+in the centre and east of Russia in Europe. It is situated
+close to the hamlet of Gliadénova, some fifteen miles west
+of Perm. Within the ditch and rampart of a prehistoric
+or Cudish fort constructed on a projecting tongue of high
+ground with precipitous slopes on all sides but one, the
+northern slope being formed by the ancient bank of the
+Kama, now some two miles to the north, is an open space,
+covering about 270 square metres, thickly covered with
+ashes and burnt animal bones.
+
+During the excavations conducted by Mr. NovokreS-
+éennikh in 1896 and 1897 about 23,000 objects were brought
+to light. They were found at no great depth, amid
+_ fragments of bone and the ashes of burnt wood. The site
+seems to have been a place of sacrifice, and the objects dis-
+covered may have been votive offerings ; they were of gold,
+bronze, iron, flint, bone, and included innumerable glass
+
+
+‘THE EXCAVATIONS
+
+
+AT GLIADENOVA: MR. NOVOKRESCENNIKH IN
+MIDDLE DISTANCE.
+
+
+SGLIADENOVA WITH THE KAMA IN THE DISTA}
+
+
+\CE-LOOKING NORTH.
+
+
+To face page 118
+
+
+EARLIER IRON AGE IN E. RUSSIA rig
+
+
+beads. The most interesting discovery consisted in two
+Indo-Bactrian coins. One is of Kadphises 1., whose reign
+is placed in the last half of the century preceding the
+Christian era, the other is of later date, but they allow the
+finds to be placed in the second or third century A.D.
+The gold objects were only three in number, the last found
+being a small ear-ring. The bronze ear-rings were generally
+of thin wire. In one of them the pendant is of wire coiled
+into a slightly truncated cone (Fig. 16). Most of the
+bronze objects are of the rudest possible art, consisting of
+human and animal figures, or representations of birds,
+snakes, and bees cut out of sheet bronze. Those in cast
+bronze are greatly superior. Sometimes the figure of
+two human figures, or of an animal, is given in low relief
+on a round flat disk of bronze provided with a ring of
+suspension. The best of the cast objects is the head of
+a beardless man (Fig. 17) with a singular head-dress and
+two—one is broken off—depending bands, ornamented
+with horizontal grooves at intervals. Were it not for the
+horizontal direction of the grooves one might be tempted
+to take them for two plaits of hair, such as are given ina
+ruder form in Fig. 20. Formerly the Ostiaks and Voguls
+wore their hair in two tails, men as well as women.
+There are also several good castings, such as Fig. 22,
+representing the head and shoulders of a bear in high relief,
+enclosed in a frame with a cord pattern running round the
+outer edge. ‘These figures are of various dimensions, and
+some have aring of suspension. One of these, in which
+none of the metal is cut through, resembles, as indeed
+they all do in general type, a bear’s head and shoulders,
+figured by Aspelin, No. 569, also from Perm. The con-
+ventional mode of showing the muscles of the fore-arm and
+
+
+120 PRE- AND PROTO-HISTORIC FINNS
+
+
+hind-quarters of a bear (Fig. 24) is also found in two later
+and still more conventionalised Permian examples figured
+by Aspelin, No. 551, 552, both from the Petora. The best
+of the representations of birds, generally with a human face
+on its breast, are also cast. The horned owl (Fig. 23) with
+a human face on its breast, the single bird (Fig. 26), and
+the double birds (Fig. 27), all belong to the same general
+type as the single-headed birds (Asp. No. 529-531) from
+the district of Perm and from the Petora, the two-headed
+bird (Teplotkhov, (1) Fig. 3) from the district of Cerdin
+(Perm), and Fig. 10 from Tomsk. Fig. 28, though difficult
+to make out, when complete may have represented a triple-
+headed bird, though the head on the right is more like
+that of an animal—with a human face between its two
+legs, and two clawed feet. Mr. Teplovikhov also figures
+a three-headed bird with a human face between its
+legs, and taloned feet, which was found in the district of
+Cerdin. Fig. 25 is the upper part of a water-bird in full
+relief, and resembles a form that is not unusual in the
+Cudish antiquities of a much later time. Other bird-
+forms cut out of sheet bronze might stand for the proto-
+types from which highly debased forms such as Aspelin
+No. 588-sgo originally sprang. There are several repre-
+sentations of men on horseback (Fig. 30), but all of very
+rude workmanship ; the bar that unites the feet of the
+horse is noteworthy, as it recalls the bar that unites the feet
+of the human statuettes from Galit and the government of
+Perm (Figs. 11 and 12). Sometimes the rider is shown
+sitting sideways, as in Fig. 31, though here the animal is
+not a horse, and the rider has a boss on his chest in
+the form of a coiled snake. One of the large circular
+disks with a ring of suspension represents a human figure
+
+
+EARLIER IRON AGE IN E. RUSSIA 121
+
+
+with his hair in two thick plaits, like two ropes, on each
+side of his head, holding in his arms a large fish and
+standing on a quadruped of very uncertain species. In
+one instance two detached human figtres, cast in full
+relief, are enclosed in a frame slightly arched at the top.
+The human figures cut out of sheet bronze are very rude,
+e.g. Fig. 21; sometimes they are in pairs of a man and
+woman ; sometimes singly, when the phallus is occasionally
+a salient feature. In the same material are silhouettes of
+bears, horses, elks without horns, nondescript animals,
+snakes coiled and in other positions, birds and bees or
+large flies. Other objects of bronze are arrow-heads ; flat
+buttons of various sizes with loop underneath; double
+buttons coupled by a short bar, each boss of the button
+being surrounded by a cord pattern in relief (Fig. 29);
+round metal disks about an inch in diameter with a hole in
+the centre, and occasionally ornamented with a few incised
+lines (Fig. 33) or a rude human figure. One ornament isa
+circular disk with seven small rings distributed round its
+circumference (Fig. 32). Flat bronze ribbons rolled into
+spiral cylinders an inch or more long were also destined
+for ornament.
+
+The iron objects were arrow-heads, some with three
+flanges, and very small iron knives with a straightish back,
+a blade that curved slightly inwards, and a short tang.
+Similar knives are found at Cmi, near Vladikavkas, and
+they closely resemble a type very common at a later
+period in the government of Perm, as well as at Bolgari
+and Bilidrsk. The large and small glass beads, containing
+a film of gold leaf, are quite like those from the Cudish
+finds of a later period in the government of Perm, and
+have also been met with at Kombulta and Digori on the
+
+
+122 PRE- AND PROTO-HISTORIC FINNS
+
+
+north side of the Caucasus. The bone arrow-heads are
+of types found in other parts of the government.
+Comminuted shells were generally, if not always, mixed
+with the clay of which vessels were made. The pieces
+found entire are of small size, with a round bottom, no
+handle, and generally have but little decoration, which is
+disposed horizontally below the rim. In one or two
+instances the rim forms a wavy line, as is also the case
+in an example from the neolithic station of Great Bugdr
+near Kazan. The ornament consists of a row of short
+diagonal or curved incisions in pairs; or of small oval
+depressions to the right and left of an imaginary line, like
+small leaves issuing from a stalk, as on a sherd from the
+neolithic station of Novo Mordovo near the site of Old
+Bolgari; or of a couple of rows of small triangular
+depressions at intervals; or of rows of shallow, nearly
+parallel lines; or of a couple of rows of bold zigzags
+made with a pointed instrument, etc. In the opinion of
+Mr. NovokréS¢ennikh, the site he excavated was a Cudish
+place of sacrifice, and the Cudes were probably Voguls.
+A statement made by Dr. B. Munkacsi with regard to
+the modern Voguls seems to throw light on the numerous
+small and rude representations of animal forms, cut out
+of thin bronze leaf, it may be on the spur of the moment.
+He says that when the will of the gods is once known
+through a Shaman it must be executed at once. ‘The
+offering I demand in the evening do not postpone till
+morning ; the offering I demand in the morning do not
+postpone till evening,’ is the exhortation of the gods in
+the invocation songs of the Shamans. If the rapid fulfil-
+ment is impossible, a figure of the animal to be sacrificed
+(horse, reindeer) is cut out of a piece of birch bark and
+
+
+EARLIER IRON AGE IN E. RUSSIA 123
+
+
+placed near the idol as an I.0.U., and destroyed when
+the vow is fulfilled.1 Why these promises to pay, if such
+they were, were not destroyed at Gliadénova, can be
+explained by supposing that the vows were often made
+before going on a dangerous journey or raid, and that
+many of those that had made vows lost their lives and
+were thus unable to fulfil their promise.
+
+Most of the metallic objects enumerated or described
+above are of local manufacture, but now it becomes
+necessary to notice briefly a series of silver vessels and
+coins, all of which were imported from a great distance
+during the fifth, sixth, and seventh centuries, and are found
+solely in the government of Perm. The silver vessels,
+some sixty in number, consisting of large dishes, bowls,
+ewers, chargers, etc., are for the most part specimens of
+Persian art during the Sassanide dynasty. A very few
+are of late Greek or of Greco-Roman work, somewhat
+earlier than the Persian. The former can be dated in
+some measure by the Sassanide coins struck in the reigns
+of seven kings from Yezdegerd I. (397-417) to Chosroes 11.
+(590-628), the last of the dynasty. Though it is unknown
+in what spot most of the vessels were found, in some
+instances the places are ascertained, and it is well to
+enumerate them, as it is an important point of history to
+determine, if possible, the routes by which they were
+brought within reach of the natives of the province.
+Beginning from the south, silver coins have been found
+near Sestakova in the district of Krasnouffmsk; silver
+vessels near Kliiti in the above district; silver vessels
+and coins near Vereino in the sub-district of Cusovsk
+on the Cusovaya; coins near Kovina, sub-district of Ust
+
+1 Munkdcsi, (1) p. 68.
+
+
+124 PRE- AND PROTO-HISTORIC FINNS
+
+
+Gdreva in the district of Perm; coins from the sub-
+district of Sludsk in the district of Perm; coins from the
+sub-district of Filatovsk in the district of Perm; a silver
+dish from the sub-district of RoZdestvensk in the district
+of Solikamsk; silver vessels from the sub-district of
+Kuvinsk in the above district ; coins from the sub-district
+of Koéebsk in the district of Cerdin; coins near Glazov
+in the government of Viadtka, a district that was formerly
+occupied by Cudes. The commerce that brought these
+precious commodities from Persia to Perm was interrupted
+for a time by the fall of the Sassanide dynasty, but was
+afterwards resumed by the victorious Arabs, and lasted for
+four centuries longer. This last fact is only mentioned
+because if the Arab trade-route can be ascertained the
+older Persian route was probably the same. Mr. Teplot-
+khov, from whom I have taken the information with regard
+to the finds of Sassanide treasures in the province of Perm,
+considers it probable that in the ninth and tenth centuries
+the merchandise of the Arabs was chiefly transported by
+water across the Caspian and up the Volga, but that in
+the eighth century, when this route was partly in the hands
+of the Khozars, they most likely used a road that actually
+existed to the east of the Caspian. Starting from the
+Amu Daria it skirted the Sea of Aral, passed through
+Ust Urt, the Kirgiz steppe, and then through the country
+of the BaSkirs to Bolgari. By this caravan route arrived
+Ibn Fozlan with a mission to the king of the Bolgars in
+922; and Abu Ahmed Andalusi, speaking of mammoth
+tusks, says they were brought from Bolgari to Khwaresm
+(Khiva), whither caravans constantly arrived from the
+above town. Mr. J. R. Aspelin, who was the first to call
+attention to the route by which such a number of objects
+
+
+C—O
+
+
+EARLIER IRON AGE IN E. RUSSIA 125
+
+
+of Persian art found their way to Perm, believes that the
+prehistoric trade-route from Persia to the Upper Kama led,
+not by the Volga, but along the IrtiS, that is to say through
+South-western Siberia. But Mr. Teplotikhov opines it is
+more probable the Persian wares came by the same caravan
+route, leading from the south of the Sea of Aral to the
+north-west, which was afterwards used by the Arabs. Start-
+ing somewhere near the Sea of Aral, it led through Ust Urt
+and the Kirgiz steppe, then went west to the Urals through
+the land of the BaSkirs, keeping along the northern course
+of the Biélaya and up the valley of its tributary the Ufa.
+The find of Sassanide vessels at Kliuti, in the district of
+Krasnoufimsk, where other Cudish antiquities are not
+found, evidently points to the latter direction.) From
+the last-named locality it was not far to the Silva, which
+falls into the Cusovaya at no great distance from the con-
+fluence of the latter with the Kama.
+
+
+1 Teplotikhov, (2) pp. 5-25, 39-42.
+
+
+CHAPTER III
+HISTORICAL NOTICES OF CLASSICAL AUTHORS
+
+
+‘As the sections on the earlier Iron Age in Russia have
+brought us down to historic times in the south of Europe,
+it is well, before proceeding to sketch the prehistoric
+history of the Finnish peoples, so far as it can be deduced
+from the culture-words in their vocabularies, to see what
+light the brief notices of classical and post-classical authors
+throw upon the huge territory in which we are interested,
+or upon its inhabitants. Herodotus, about the middle
+of the fifth century B.c., is the earliest writer that deals
+with any part of Russia, but as his knowledge was almost
+entirely confined to the north coast of the Euxine, he is
+of no great assistance. Indeed, it would be quite out of
+place to mention him at all here, were it not for the fact
+that several writers, including so well known and good a
+scholar as W. Tomaschek, identify several nations named
+by Herodotus with different Finnish peoples. For instance,
+the Budini are often identified with the Votiaks, who call
+themselves Ud-murt. W. Tomaschek does so, brings them
+as far south as Sardtov, and supposes they extended north-
+wards as far as the lower course of the Kama and the
+Biélaya, eastwards to the Urals and westwards to the Sura.
+
+
+Yet, except in the passage in which Herodotus assigns the
+126
+
+
+NOTICES OF CLASSICAL AUTHORS 127
+
+
+Budini a geographical position three hundred geographical
+miles north of the Sauromate and east of the Don, the
+context of the other places in which they are mentioned
+all point to a ‘more westerly position, somewhere near the
+upper waters of the Dniester or the Bug, where Ptolemy
+locates the Bodini The father of history expressly states
+the Budini dwelt in a densely wooded country, though in
+his time, just as now, from Sardtov northwards and west-
+wards the country for a great distance must have been very
+bare of timber. Along the banks of streams, and where
+the subsoil was damp, trees doubtless flourished, but it is
+well known that the ‘black earth’ districts were never
+covered with primeval forest. On these two grounds it
+seems to me doubtful if the Budini lived east of the Don
+at all. To connect the vocable Budini either with Votiak
+or Ud-mort seems questionable for several reasons. First,
+we do not know that this was the name they applied to
+themselves. Secondly, there is no assignable cause for
+dropping the 4, which itself is an impossible initial sound
+in original Finnish. Thirdly, an original Permian dental,
+unless supported by another consonant, seems to fall out
+or turns into /: eg. Ai=F. kale-; ku=F. hele-; ma,
+mu=F¥. mete-; va, vu=F. vete-; ku-ni=¥. kuto-a; s'ulem
+=F, sydame-, etc.
+
+W. Tomaschek also connects the name Thyssagetse with
+the Cusovaya, and identifies the people with the Voguls.
+The identification is ingeniously worked out, though hardly
+convincing, while to explain the four rivers that flowed
+through their territory into the Mzotis he has to do great
+violence to the text he is trying to elucidate. Nor can I
+find sufficient ground for believing that the Melanchlaine
+were Ceremis and that the Cannibals were Mordvins, for
+
+
+128 PRE- AND PROTO-HISTORIC FINNS
+
+
+both these nations seem to have lived too far south to be
+connected with any Finnish people.}
+
+The next authority is Ptolemy, who wrote about the
+middle of the second century a.D., but sometimes in-
+corporated into his geography information of considerably
+earlier date. By this time the interior of Russia must have
+been partly explored. The geographical position of the
+sources of the Volga or Rha, a name still preserved by the
+Mordvins, and of the Don are given, as well as the points
+where they make a sharp, protracted bend, and the course
+of the Kama is also laid down. If, as seems probable,
+Ptolemy has taken the source of the Mologa for that of
+the Volga, his longitude is nearly right, though the latitude
+is a full degree too far north. But the point where the
+Kama falls into the Volga is 2}° too far west, and over 3°
+too far north, while the length he assigns to the Kama falls
+short of its real length, though it may reach to the con-
+fluence of the Cusovaya. The length of the Don is also
+too short, though the lower course below the bend is fairly
+exact. The neck where the Don and the Volga approach
+nearest each other was known, though it was placed fully
+7° too far north and about 24$° too far west. The mouth
+of the Volga is fairly accurate as regards longitude, but a
+full degree too far, north, while the mouth of the Don is
+about 24° too far west, and fully 7° too far north.
+
+At the bend made by the Don were the Perierbidi, who
+were a great people; above them Ptolemy names three
+others ; above them Royal Sarmatians, Modocz, and Horse-
+eating Sarmatians, and north of these the Hyperborean
+Sarmatians. All these tribes, including the most northerly,
+are expressly said to be a pastoral people, so that, starting
+
+1 Tomaschek, Bd. cxvii. pp. 8-r0, 17, 19-aI, 32-34.
+
+
+ar
+
+
+NOTICES OF CLASSICAL AUTHORS 129
+
+
+from the bend of the Don northwards, they could not have
+extended beyond the Volga, and, if the information is
+correct, some of these tribes roamed over a region where
+Mordvins are now found. Whether any of them are
+ancestors of the Mordvins is a question that cannot be
+answered, though it does not seem impossible. Near the
+supposed source of the Kama, but really about the con-
+fluence of the Cusovaya, were the Robosci, and to them
+perhaps belonged the objects of stone and copper that
+have been found near its mouth (p. 79), as well as the
+place near Gliadénova where they sacrificed to their gods.
+East of the Volga, but south of the Kama, were the Lice-
+eaters, the Materi, and the district Nesiotis.
+
+Although nothing definite can be learnt from a perusal
+of the ethnic names of Ptolemy, we have the assurance that
+the Don, the Volga, and the Kama were known for the
+greater part of their respective lengths by the middle of
+the second century, and possibly earlier. That means they
+had been traversed by persons of sufficient intelligence to
+measure roughly the length of the rivers on which they
+were travelling, and to note down the names of the nomadic
+tribes that lived on the banks. Along the Volga the note-
+book seems not to have been used after reaching the Okd,
+for pastoral tribes, owing to the forests, could hardly have
+pastured large herds west of that river. The left bank of
+the Volga appears to have been imperfectly known, which
+may mean that all the stopping-places were on the right
+or high bank. Along the banks of the Kama, which must
+have been thickly wooded, no notice is taken of the in-
+habitants, not even of the people who buried their dead in
+the cemetery at Andnino, till we reach the supposed source
+of the river. East of the Urals Ptolemy knew of no rivers
+
+I I
+
+
+130 PRE- AND PROTO-HISTORIC FINNS
+
+
+that drain into the Siberian Ocean, a sufficient proof that
+his knowledge did not extend much beyond the 55th parallel
+of north latitude, and that no caravan route could have
+existed in the time of Herodotus that led up the valley of
+the Kama, across the Urals and up the IttiS, as W. Toma-
+schek maintains!
+
+As nothing was known of Central Russia, taking Moscow
+as a centre and describing a circle with a radius of at least
+two hundred miles, it is more convenient to leave Ptolemy for
+a while and hear what Tacitus at the end of the first century
+has to relate about the Atstii and the Fenni. He places
+the Asti, or Aistii, on the coast to the right of the Suevian
+Ocean, by which we have to understand somewhere on the
+east side of the Vistula, for his descriptive geography is
+hazy in the extreme. In dress and manners they resembled
+the Suevi, but they cultivated the earth with a patience
+that was hardly consistent with the natural laziness of
+Germans. They searched the sea for amber, which they
+termed g/ésum, and were the only people that gathered it.
+Being possessed of little iron, their favourite weapon was
+the club. They worshipped the mother of the gods, and
+in war placed the greatest reliance on carrying about with
+them the figure of a wild boar; by doing so they were
+perfectly secure. With regard to their language it had
+more affinity with that of Britain.
+
+In this brief account there are certainly discrepancies.
+In one breath the 4éstii are classed with Germans, in
+another their language is said to resemble rather that of
+Britain, while the only word quoted is a genuine Teutonic
+vocable. In the next section, however, Tacitus hesitates
+whether to collocate the Venedi and the Fenni with Ger-
+
+1 Tomaschek, (1) p. 780.
+
+
+ae
+
+
+NOTICES OF CLASSICAL AUTHORS | 131
+
+
+mans or Sarmatians, though he finally arrives at the con-
+clusion that the former must be ascribed to Germany, since
+they had settled habitations, knew the use of shields, and
+travelled on foot, while the Sarmatians lived on horseback
+or in wagons. His classification of ethnic groups was
+based therefore more on ethnography than on language.
+But if the introduction of the word g/sum was made
+through inadvertence, as might well be the case, the sub-
+stantial fact remains that the language of the Aéstii and
+the Suevi differed more than dialectically ; it belonged, in
+fact, to a different group. Tacitus further mentions in
+order from north to south the Fenni, the Venedi, and the
+Peucini without defining exactly their geographical position,
+though all must certainly be placed to the east of the
+Vistula. The Venedi led a wandering life and supported
+themselves by plunder, but at the same time they had
+settled abodes, used shields, and travelled on foot, not
+on horseback like the Sarmatians. The Fenni were ex-
+tremely ferocious, poor, and dirty; they possessed no
+weapons, save bows and arrows tipped with bone, no
+horses, and no fixed abode. They slept on the ground,
+lived partly on herbs, and dressed in the skins of wild
+animals. As Tacitus hesitated whether to class the Fenni
+among the Germans or not, there may be some exaggera-
+tion in his picture of them, and it does not correspond
+with what we have reason to believe was the civilisation
+of the Finns at the beginning of the present era.
+
+To Ptolemy the Vistula was the boundary between Ger-
+many and Sarmatia. He places the Venedic Gulf east of
+the mouths of the Vistula, and continues the coast in an
+easterly and north-easterly direction for several hundred
+miles. Along this stretch of sea coast he mentions four
+
+
+132 PRE- AND PROTO-HISTORIC FINNS
+
+
+rivers—the Khronos, Rhubon (Rhudon), Turuntos, and
+Khesinos (Khersinos, Khesynos). In contradistinction to
+the rivers west of the Vistula, most of which bear names
+that recall the ancient designations, none of these four
+can now be recognised. This circumstance might arise
+either from a complete migration of the older population,
+which was succeeded by another that renamed the rivers,
+or from the information that Ptolemy used having been
+obtained from a foreign, perhaps a German, source. To
+the watershed, lying 800 to goo feet above the sea, from
+which these rivers descended, the Greek geographer and
+his successors gave several names; east of the Vistula it
+was termed the Venedic Hills; further east, but on the
+same parallel, it bore the name of Bodinon, and still further
+east, of Alaunon ; 24 degrees north and a little to the east
+came the hills called Rhipaia. According to Marctan of
+Heracleia the Khronos was the smallest of the four rivers,
+and both it and the Rhudon debouched into the Venedic
+Gulf, but the first rose in the Venedic Hills and the other
+in the hill Alanos (Alaunos). The two other rivers had
+their rise in the Rhipaian Hills. Smaller tribes near the
+Vistula and south of the Venedai were the Guthones, then
+the Phinnoi, then the Sulones. East of these, and also
+south of the Venedai, were the Galindai, Sudinoi, and
+Stavanoi. It has been suggested that the names Galindai,
+Sudinoi are perhaps preserved in the old Prussian districts
+of Galindia and Sudovia, the first lying west, the other
+north-east, of the Spirding See, though Ptolemy seems to
+place them south of the watershed. On the coast adjoin-
+ing the Venedic Gulf were the Veltai, north of them the
+Ossioi (Hosioi), and north of all the Carbones. East of
+the latter were the Karestai and Saloi, south of them the
+
+
+NOTICES OF CLASSICAL AUTHORS 133
+
+
+Agathursoi. Marcian makes the remark that the Agathosoi
+(Agathursoi) were a Sarmatian people in Europe that lived
+on the Khesynos.
+
+As the longitude of the mouth of the Vistula given by
+Ptolemy is only a little east of the true longitude, it may
+be the result of an astronomic observation ; but he places
+its latitude more than a degree and a half too far north.
+Every point on his map east of this river is extremely
+doubtful, for when his data are protracted to scale on a
+modern map his furthest point falls to the west of the
+north end of Lake Onega. As this point was supposed
+to be in the same latitude as Thule, which Ptolemy placed
+three degrees of latitude too far north, it must be lowered
+by that amount and set on the 6oth parallel, which runs
+through the head of the Gulf of Finland. And as the base
+point at the mouth of the Vistula is too far north, another
+degree or so must be subtracted, which places the furthest
+known point somewhere on the north-west coast of Esthonia.
+That Ptolemy’s knowledge should have extended so far
+north, if not further, is corroborated by the archeological
+objects found in Esthonia, some of which had evidently
+been brought there by a maritime route. Between the
+furthest point on the Esthonian coast and the Vistula
+the four rivers above mentioned must be sought. As
+the Khronos was the smallest of the four, and rose in the
+Venedic Hills, it might be the Pregel, which at various
+times has been known as the Pregora, Lipza, Lipsa, and
+Skarra ; the Rhubon, which also fell into the Venedic Gulf,
+must be the Niemen, Lith. NemG6nas ; the Turuntos is very
+difficult to identify, but I suppose it to be the Windau,
+Lith. Venta, though it does not rise anywhere near the
+Rhipaian Hills; the Khersinos is probably the Dvina.
+
+
+134 PRE- AND PROTO-HISTORIC FINNS
+
+
+The Venedai occupied the south coast of the Gulf of
+Dantzig as far, perhaps, as the Niemen, a territory that
+in historic times belonged to the Old Prussians, a people
+of Lithuanian stock. The Veltai, who came next, may
+have been on the coast of Kurland, the Ossioi in Livland,
+and the Carbones in Esthonia. The only evidence we
+have regarding the nationality of the tribes hereabouts is
+of a negative nature, the chance remark that the Agathyrsi
+on the Khesynos (Dvina ?) were a Sarmatian people imply-
+ing at any rate that they were not Germans. Of course it
+is astonishing to find such well-known ethnical names as
+Agathyrsi and Aorsi, who came next below them, so far to
+the north, but a probable explanation is that local names
+resembling these in form have been transmuted into the
+above by a rash and thoughtless scribe. As the Agathyrsi
+were not on the coast, they may have lived about the
+Drissa, a northern affluent of the Dvina, and the four
+tribes mentioned by Ptolemy as occupying the country
+between the Agathyrsi and the Rhipaian Hills, in which
+the Khersinos or Khesynos took its rise, were possibly
+cantoned along its banks. If that is so the Dvina was
+navigated in boats that may have been taken as far as the
+site of Bieli in the government of Smolensk, where naviga-
+tion begins, and some, if not all, of the inhabitants of the
+valley were Sarmatians.
+
+If Ptolemy is to be credited, most, if not all, of the in-
+habitants of East Prussia in the middle of the second
+century were Slavs, for he calls them Venedai, or Wends.
+As he omits the Atstii he probably included them among
+the Venedai, who are expressly stated to have been a very
+great people. South of these, and presumably south of
+the Venedic Hiils, he sets Guthones, who are generally
+
+
+NOTICES OF CLASSICAL AUTHORS 135
+
+
+taken to be Goths, and whose position would therefore be
+in the north of Poland. South of them were the Phinnoi.
+Zeuss did not accept the Ptolemian account; he assumed
+that the name of Venedic Gulf was an entire misnomer,
+placed the Guthones on the coast instead of the Venedai,
+and affirmed it was impossible Ptolemy could have located
+the Phinnoi in their true position.! If by these we have
+to understand Lapps or Finns, it may certainly be granted
+that they never permanently lived near the right bank of
+the Vistula, and this position does not quite tally with that
+assigned to them by Tacitus. His Peucini inhabited the
+region north of the Carpathians, what is now Galicia ; north
+of them were plundering Venedi, who may be placed in
+Volhynia, and north of them were the Fenni, in what is
+now the government of Minsk. Both authorities place the
+latter people in the same latitude, or nearly so, but Ptolemy
+sets them about two degrees further west. Although it is
+difficult to believe that any Western Finns ever resided
+permanently so far to the west and south as the govern-
+ment of Minsk, and although their civilisation in the
+second century A.D. was very different from that portrayed
+by Tacitus, it is not impossible to suppose that they made
+hunting or predatory excursions in that direction. To
+judge from the practice of modern Zirians and Samoyedes,
+a hunting or trading expedition to a place several hundred
+miles distant from their headquarters is no great matter ;
+and the former, even in winter, travel very lightly attired,
+with no more property than can be placed on a light sledge
+and dragged along by its owner. At certain seasons, when
+wild fowl were in abundance, the Pinsk marshes may have
+presented great attractions, and they were well within
+1 Zeuss, pp. 266, 274.
+
+
+136 PRE- AND PROTO-HISTORIC FINNS
+
+
+reach of Finns near the sources of the Volga, the Valda
+Hills, and other places where they can with certainty be
+postulated. On these excursions all the members of a
+large family or small clan would not take part ; some would
+be left behind to look after the few horses and cattle they
+possessed, to protect the huts, and till the ground. As
+iron was scarcely known, at any rate was very rare, the
+arrow-heads were tipped with bone. Supposing, as we are
+bound to do, that such respectable authorities as Tacitus
+and Ptolemy had sufficient warrant for the statements they
+advanced, it is only by a hypothesis of this kind that we
+can explain the presence of Finns not more than one
+hundred geographical miles from the banks of the Vistula.
+
+To return to the Aistii: they are mentioned in the sixth
+century by Jordanes, who speaks of them as a very peaceful
+people, living on the coast to the east of the Vidivarii, an
+aggregate of diverse nationalities that dwelt between the
+three mouths of the Vistula. They were therefore posted
+along the amber coast of East Prussia. In the ninth
+century, under the name of Estas, they are mentioned by
+Wulfstan in the description he gave to King Alfred of his
+voyage along the south coast of the Baltic. He sets them
+east of the mouth of the Vistula, and speaks of the Frische
+Haf as the Estmere. Estland is said to be very extensive,
+and to contain many towns, with a king over each. Honey
+and fish were there in abundance. The kings and the
+richest people drank mare’s milk, while the poor had to
+content themselves with mead, as beer was entirely un-
+known.! When a man died his body was left unburnt
+
+
+1 Ibn Dustah, about the year 912, says much the same of the Slavs.
+Only the great prince drank mare’s milk, the rest of the people drank
+mead (Khvolson, pp. 31, 32).
+
+
+Ne re i tel COCs
+
+
+NOTICES OF CLASSICAL AUTHORS | 137
+
+
+with his relations for a month, or even six months, accord-
+ing to the wealth and status of the defunct. During the
+whole of this interval the friends and relations were con-
+tinually feasting and amusing themselves till the day of
+cremation. All that was left of the deceased’s property
+after the long jollification was divided into several lots,
+and placed at different distances from the dead man’s
+home. The relatives and friends then raced for the
+lots, and the man with the best horse carried off the
+best share, which was also the furthest off. When this
+excitement was over the corpse was burnt with the
+weapons and clothing. As neither drinking mare’s milk
+nor racing in connection with funeral rites have been
+recorded as Teutonic customs, but are compatible with
+a people of Sarmatian descent or mode of life, the Aéstii
+of Tacitus may be regarded as the progenitors of the
+Estas of the ninth century. And as the Est name was
+eventually transferred to the Finnish Esthonians, it is
+probable that, taken in connection with the craniological
+and archzological data of previous chapters, the whole
+of the Baltic Provinces were once possessed by tribes of
+Lithuanian or Lettish stock.
+
+In a previous chapter it was mentioned that some of
+the best archeologists believe that the Baltic Provinces
+up to the fifth century were occupied by a Teutonic
+people who disappeared without leaving any trace of their
+presence, save the archeological finds of the earlier Iron
+Age. But as Ptolemy and other authorities make the
+Vistula the boundary between Germany and Sarmatia,
+and several indications seem to show that part of the
+information was received from German sources, such as
+words like Fenni, Asti, glesum, Khronos, Khersinos,
+
+
+138 PRE- AND PROTO-HISTORIC FINNS
+
+
+it is singular that none of the intelligence from such
+sources led Ptolemy to suppose that Germans lived along
+the Baltic coast east of the Vistula. It is remarkable,
+too, that the so-called ‘face-urns’ of the Hallstadt period,
+so common and characteristic of the region west and
+south of Dantzig, are only known in one place east of
+the Vistula, quite close to the right bank. This is easily
+explained by the hypothesis that the river was the
+boundary between two distinct nationalities, though not
+otherwise. The question whether the Lithuanian peoples
+are recent intruders might be definitely answered, if we
+knew of any grounds for believing them to have been
+settled for a very long time on the south-east shores of
+the Baltic, where they can certainly be traced for the
+last eighteen centuries. Two words show they have not
+materially changed their abode for a long period of time.
+They have native words for the ‘eel’ and the ‘salmon,’
+both of which have to migrate annually to the sea, and
+are found ir rivers that drain into the Baltic, but not in
+those that find an outlet in the Black Sea. This places
+the old home of the Lithuanian peoples north of the -
+watershed of all rivers that run southwards; an area that
+includes East Prussia, Poland, the Baltic Provinces, and
+the governments of Kovno, Suvalki, Vilna, Vitebsk, Pskov,
+and Petersburg. But Poland and East Prussia west of
+the Pregel may be excluded, as the word for ‘beech’ is
+a Teutonic loan word, and the eastern limit of the tree
+at present is formed by a line drawn from Konigsberg
+to Podolia. The original home of the Letto-Lithuanians
+may be sought chiefly in the valleys of the Niemen and
+the Dvina, with their tributaries. Though there are eels,
+there are no salmon in the Velfkaya, the Embach, or
+
+
+NOTICES OF CLASSICAL AUTHORS 139
+
+
+Lake Peipus, as their progress is stopped by the Falls
+of the Narva; but they are caught in the Narva below
+the Falls, in the Salis, and all other rivers that fall into
+the Baltic. Whether salmon are found in Lake Ilmen
+or the Volkhov I have no information, but a variety of
+the salmon frequents Lake Ladoga, and there is no
+obstacle to prevent their ascending the Volkhov to Lake
+Ilmen. Yet it is curious that at the prehistoric station
+on Lake Ladoga no salmon bones were observed.
+According to Professor Y. Koskinen, the first reliable
+information of a Finnish people being settled in the Baltic
+Provinces belongs to the middle of the ninth century.
+In his Life of St. Ansgarius, Rimbert mentions that the
+Kurs (Cori) had formerly been subjected to Sweden,
+though they had shaken off her yoke a long time ago.
+He then narrates how the Danes, about 853 a.p., had
+made an unlucky raid into the land of the Kurs, which
+was divided into six districts (evifates), and how after-
+wards the Swedes with better luck and the aid of Christ
+had again brought them into subjection. This shows
+
+
+- that in Rimbert’s time the Kurs were already settled on
+
+
+the Baltic coast, and this settlement must have occurred
+at least by the end of the eighth century, probably earlier.
+There is no doubt that the Livs and Kurs were one and
+the same people, and evidently about the same period the
+Ests settled in Esthonia and the Finns proper in Finland.!
+Against part of this statement Pastor Bielenstein raises an
+objection. Though he grants that the Kurs were un-
+doubtedly Finns, and that the name was probably given
+them by the Scandinavians, he considers it a mistake to
+suppose that a Finnish people must have covered the
+1 Koskinen, p. 360.
+
+
+140 PRE- AND PROTO-HISTORIC FINNS
+
+
+whole area where the name Kur is found. For instance,
+the Kurs of the Kurische Nehrung have always been
+Letts, and the Lithuanians call the Letts that live among
+the Finnish Kurs—KurSei. In his opinion the Cori of
+St. Ansgarius, who fought with King Olaf in Apulia, not
+far from Schoden on the Bartau, were most likely Letts
+or Lithuanians, as no Finnish place-names occur in that
+part of Kurland.}
+
+This seems rather to invalidate the proposition that
+in the middle of the ninth century the Scandinavians
+knew of a Finnish people in the north-west of Kur-
+land. But as about 12 per cent. of Finnish place-
+names are to be found in the old province of Bihavelanc,
+through which the lower half of the Bartau flows, some
+Finnish Kurs must have been settled there. It is possible
+then that the Finnish (?) Cori on this occasion, when
+attacked by a stronger force of Swedes, were compelled
+to retire up the river, and were actually on Lithuanian
+ground when, feeling themselves cornered, they delivered
+battle.
+
+Although the first reliable notice of the Kurs is by
+Ansgarius, they are named by Saxo as having taken part in
+the great battle of Bravalla between the Swedes and
+Danes about the year 775, in which the former were
+victorious. On this notable occasion Kurlanders and
+Esthonians are said to have fought on the side of the
+Swedes, while Livonians and Slavs had sided with the
+Danes. It is possible, perhaps likely, that these names
+are the additions of a later time, but it shows the Finns
+were a fighting people and were accustomed to face the
+sea at the time when these names became attached to the
+
+
+1 Bielenstein, pp. 350, 351.
+
+
+a 3
+
+
+NOTICES OF CLASSICAL AUTHORS 141
+
+
+legend of the great battle. The Slavs here mentioned are
+the Wends of Pomerania, and it is to be remarked that
+the Letts and Lithuanians are passed over in silence;
+either they were not a very warlike people, or they were
+not distinguished from the Wends, as Ptolemy seems also
+to have done.
+
+Almost contemporaneous with the first notice of the
+Cori is the mention of the Ests, or Esthonians, under
+the name of Cudes, by Nestor, the earliest Russian
+annalist. In 859 he records that the Variags came from
+the other side of the sea and levied on the Cudes, Slavs,
+Merians, etc., a tribute of one white squirrel-skin per
+
+
+-head. Three years later they again visited Russia. But
+
+
+on this occasion the above-mentioned peoples refused to
+pay the tax, drove the enemy back across the sea, and
+made an interesting experiment in self-government. It
+did not however prove a success, Internal quarrels were
+so numerous that a deputation of Cudes, Slavs, etc., was
+sent to the country of the Variags to solicit the loan of an
+impartial prince, strong enough to keep the peace. The
+result was that Rurik and his two brothers came to Russia,
+built the town of Ladoga, and became the founders of the
+Russian Empire.! So far as we can judge from the brief
+entries of the annalist, the Cudes and Slavs were apparently
+on a footing of equality. Both peoples rose against the
+Variags, and both took part in the council that determined
+to summon a foreign prince who could hold the balance
+evenly between the conflicting interests of Finns, Slavs,
+etc. - The Cudes were probably as well, if not better,
+armed than the Slavs. If Ibn Dustah’s information is to
+be relied upon, the latter fought on foot, and were only
+1 Akiander, pp. 12-24.
+
+
+142 PRE- AND PROTO-HISTORIC FINNS
+
+
+armed with javelins, spears, and shields. In addition
+to these, the Cudes might have had swords as well as
+bows and arrows. At any rate they and the Merians
+took part with the Variags and Slavs, not only in Oleg’s
+expedition that led to the capture of Smolensk in 882,
+but also in his far more important campaign against the
+Greeks in Constantinople in 907. Those of the Finns
+that lived to return to their homes no doubt brought back
+their share of the ransom that the Greeks had to pay
+to Oleg to avoid the complete sack of the imperial city.
+He had demanded and obtained twelve grivnas, or about
+six lbs., of silver for each of his fighting men. For more
+than a hundred years afterwards the Finns and Slavs seem
+to have lived together on friendly terms. It is not till the
+year 1030 that this happy state of things was disturbed by
+Yaroslav, who invaded the country of the Cudes, conquered
+them, and laid the foundations of Yiiriev (Dorpat). Twelve
+years later his son Vladimir made a campaign against the
+Yems, now mentioned for the first time, subdued them,
+and took many prisoners. The Russians were not however
+always successful, for in 1054, when Ostromir and his
+Novgorodan soldiers made an incursion upon the Cudes,
+he was killed, and many of his followers. Generally
+speaking, however, the Cudes came off second-best, and
+no doubt were greatly outnumbered.! As the entries in
+the Chronicle are extremely brief, and tell us nothing of
+the customs or social life of the Finnish tribes, and often
+leave their geographical position uncertain, it is unneces-
+sary to pursue them further.
+
+Though mentioned earlier, not much is known of the
+Livs till the arrival of the Germans at the mouth of the
+
+
+1 Akiander, pp. x5, 19; Paris, i. pp. 35, 36
+
+
+NOTICES OF CLASSICAL AUTHORS 143
+
+
+Dvina in 1159. When Meinhart arrived in 1186 he found
+them paying tnbute to King Vladimir of Polotsk, and the
+same winter the Lithuanians devastated the country and
+carried away many captives. His well-intentioned efforts
+to convert the Pagan Livs were not crowned with im-
+mediate success; when by promises of protection against
+their enemies a few had been enticed to accept baptism,
+even these few persons took the first convenient oppor-
+tunity of washing it off in the waters of the Dvina. The
+German chroniclers tell us almost nothing of the Paganism
+of the Livs. A Bull of Pope Innocent in 1190 avers that
+
+
+_the Livs paid the honour due to God to brute beasts, to
+
+
+leafy trees, to clear water, to verdant herbs, and to unclean
+spirits. ‘They seem to have cut the images of their gods
+on the boughs of the sacred trees, and it is known that the
+Esthonians had images of their gods in a beautiful wood
+in Wierland. The offerings to the gods consisted of a dog
+or a ram, occasionally of a man. ‘To discover the will of
+the gods before important undertakings different modes of
+sortilege were employed; and to this punctilious observ-
+ance of the Livs a German missionary bishop once owed
+his life. They were under the impression that the sacrifice
+of the bishop would have a beneficial effect upon the
+crops. But they first consulted the oracle by making a
+horse step over a lance. As it crossed the spear with the
+foot that showed the victim was unsuitable—probably the
+left foot—the life of Bishop Theodorich was spared. How
+the Livs disposed of their dead is not recorded, but the
+Kurs practised cremation, and the funeral ceremony was
+accompanied with loud lamentation. The Livs did not
+form a connected state under a common head, but were
+under a number of small elders, whom Henry of Lettland
+
+
+144 PRE- AND PROTO-HISTORIC FINNS
+
+
+generally terms ‘senzores.’ Besides these there was a class
+of wealthier people, called by the chronicler ‘frimores,
+meliores,’ from whose families hostages were taken. Some of
+the elders were entitled kings—without meaning, however,
+that they exercised authority over the other elders. And
+the district over which an elder ruled was termed ‘f7o-
+vincia, or in the language of the Ests— ‘ kylegunda,’
+originally a loan word from the Scandinavians. The
+Livs were armed with swords, lances, javelins, bows, and
+shields, and fought both on foot and on _ horseback.
+Their many wars were chiefly predatory expeditions
+against their neighbours; at first against the Letts, whom
+they despised, and in later times against the Esthonians,
+Zemgalls, Lithuanians, and Russians. These incursions
+were carried on with great barbarity and devastation of
+property, the men being all killed, while the women and
+children were generally led captive. In this, however, they
+were no worse than their neighbours, and not so bad as
+the Letts, whom Henry describes as the most cruel of all
+people. The Livs, when not fighting and marauding,
+occupied themselves with agriculture, fishing, hunting,
+cattle-rearing, and bee-keeping. Before the arrival of the
+Germans they had some trade to boast of, for Adam of
+Bremen, writing of Livland some one hundred years before
+that event, says that it was rich in gold. Henry, too, relates
+that the sons of Lettish elders, after a raid into Esthonia,
+brought back three lispunds (sixty lbs.) of silver, besides
+other booty. Though the Livs used ships and boats, it
+is never mentioned that they used them for piratical ex-
+peditions. In this they differed from the Kurs, who, before
+the advent of the Germans, had the reputation of being
+noted pirates, and in conjunction with the islanders of
+
+
+—————— OO
+
+
+NOTICES OF CLASSICAL AUTHORS 145
+
+
+Oesel extended their depredations as far as Denmark and
+Sweden.?
+
+Although the Kurs are mentioned earlier than the Letts
+in Kurland, it does not follow that they were the older
+inhabitants. There is ground for believing them to be
+intruders. Both in Kurland and Livland, to judge from
+the evidence of place-names, the Finns only occupied a
+fringe of territory along the coast, for Finnish names on
+the map gradually diminish in number as we recede from
+the sea. Their name, too, for the Dvina (Véna, Viaina)
+seems borrowed from a Slav dialect.?
+
+
+1 Wiedemann, pp. xxx, lvi, 1xi-lxiv.
+3 Bielenstein, pp. 348, 357, 365.
+
+
+CHAPTER IV
+THE PREHISTORIC CIVILISATION OF THE FINNS
+
+
+Havinc reviewed some of the craniological, archxological,
+and historical facts that bear more or less directly on the
+Finns, we have now to turn to comparative ethnography
+and philology for any help they may afford towards
+enabling us to form a slight picture of their prehistoric
+condition. Theoretically the prehistoric past may be
+divided into two divisions, hereafter to be mentioned as
+the first and second periods. To the first belong words
+that are common to the Ugrian and the various Finnish
+groups ; these originated in Asia, when Finns and Ugrians
+seem to have lived in close contact, for the physical and
+craniological differences between the Finns and Ugrians
+are too great to allow us to suppose they are descended
+from a common stock. But they were neighbours, living
+under conditions of life precisely similar. Though we
+have to believe that once the remotest ancestors of the
+Finnish peoples lived in Asia, it is, I think, impossible to
+trace them there; the inference is made purely on lin-
+guistic grounds. In the craniological chapter we have
+found that the crania at Voldésovo, and at the Ladogan
+station seem to have analogies with existing Eastern
+Finnish skulls. So there is ground for assuming that
+
+
+the earliest neolithic inhabitants of Central Russia were
+146
+
+
+THEIR PREHISTORIC CIVILISATION 147
+
+
+ancestors of Finns that had somehow reached Europe
+and settled on the Oka. Having done so, it is difficult
+to imagine any external cause that could oblige them to
+leave it. For though they had nomadic instincts, like
+all other nomads they did not roam at large, but over
+a certain more or less defined district, which they regarded
+as their own. They were so isolated from the rest of the
+world that no direct outside pressure could be brought to
+bear upon them. The only influences that could touch
+them and induce some of them to move were of an internal
+nature: the natural increase of population, famine, pestil-
+ence. Of these the most efficient factor would be the first ;
+to a people living only on fish, shell-fish, and wild animals,
+famine of a very severe kind would probably be of rare
+occurrence ; but when too many members of a clan died
+at one time the remainder would very likely abandon the
+locality, at any rate for a time, and migrate elsewhither.
+I assume, therefore, for the present—the reasons can best
+be brought forward at the end of this chapter,—that at
+the end of the first period the undivided Finns had
+entered Europe, bringing with them, of course, various
+simple notions embodied in the language they had
+acquired in Asia; and that the earliest neolithic settle-
+ments in the Volga region of Central Russia belong to
+this time. As the settlements on Lake Ladoga and the
+Upper Volkhov are later than those on the Oké, the move-
+ment of the Finns was evidently westward, and the finds
+at Fatidnovo and Galit seem to show that, even on Euro-
+pean soil, Finns and Ugrians lived at no great distance
+from each other for part of the second period.
+
+The second period embraces the time between the first
+settlements in Europe and the first contact with an Iranian
+
+
+al
+
+
+148 PRE- AND PROTO-HISTORIC FINNS
+
+
+civilisation, which may have taken place from four hundred
+to six hundred years before the present era. It covers a
+long lapse of time, and may be divided into an earlier and
+later half. The first half is characterised by a series of
+words common to all, or nearly all, the East and West
+Finnish groups, and we have to suppose they had not yet
+split into different linguistic groups, though various frac-
+tions of the united body may have lived at very consider-
+able distances apart. The second half is marked by words
+that are confined to two or three members of the Finnish
+family. As all know, numerous words in every language
+die out and are replaced by others for reasons that can
+only be guessed at. So it would be wrong to maintain
+that all new additions to a language exactly coincide with
+the new ideas conveyed by these new words. For instance,
+the Lapps have borrowed a word for ‘moon’ from the
+Scandinavians, the Finns a word for ‘neck’ from the
+Lithuanians, and yet these new words conveyed no new
+ideas. Sometimes in certain classes of words, such as the
+names of spirits, divinities, sacred animals, animals and
+fish caught for food, we can perceive a reason for borrowing
+a new term from a foreign language. There was a distinct
+reluctance, amounting to fear, that prevented a native from
+using these names, so that either an epithet or allusive
+term was employed, or a word borrowed from a foreigner.
+Hence we readily understand how it came to pass that to
+certain powerful spirits, whose real name the Lapps were
+afraid to use, were given the Norwegian name of Svor
+Junkare, and why the Finns gave a name of Scandinavian
+origin to their spirits of nature—Aa/fa, It is probably
+some such reason that has caused the want of common
+terms for sun, moon, sky, spirits, and for most of the
+
+
+ee aA
+
+
+THEIR PREHISTORIC CIVILISATION 149
+
+
+common wild animals among the Eastern and Western
+Finns. But nevertheless on the whole the new words of
+the second period must be taken to mean increase of ex-
+perience, modification of the ancient mode of life, and a
+slight forward development of the different groups made
+independently of each other during the latter half of it.
+They are also to be considered as older than the first
+contact with an Iranian or European civilisation. But of
+many genuine words confined to the West Finns alone we
+cannot always be quite sure whether they came into use
+before or after this event in the history of their civilisation.
+
+The late Professor Ablayist.has.already drawn us a picture
+of the prehistoric civilisation of the Finns that has often
+been referred to, but now I propose to supplement it in
+some respects by drawing upon the existing customs and
+beliefs of the Eastern Finns, and laying more emphasis on
+the psychological element. But in doing so it must be
+borne in mind that they too are more or less civilised, for
+the most part Christianised, and living under conditions
+very different from those of their prehistoric ancestors.
+From about the eighth to the thirteenth century they were
+exposed to the civilising influence of Bolgars and Turks,
+who have left many traces of their superior civilisation and
+higher religion in a series of loan words. All that is known
+of their sacrificial rites, their ‘divinities, their ideas about
+the phenomena of nature, cannot therefore be accepted
+without considerable reduction and allowance for sub-
+sequent growth and accretion. The mere passage from a
+hunting and fishing stage to one that is almost purely
+agricultural, the change from a nomad to a settled mode
+of life, undoubtedly affected the class of gods to whom
+they paid especial worship. ‘To a hunting nomad the idea
+
+
+150 PRE- AND PROTO-HISTORIC FINNS
+
+
+of a great and benevolent earth-mother that gave forth of
+the fruits of the earth in due season, of a beneficent sun-
+god that ripened them, could never occur. Hence all
+notice of gods whose being and worship entirely depends
+on the practice of agriculture by their worshippers may be
+excluded from our survey. The beliefs, customs, and so
+forth, of the Ostiaks, Voguls, Samoyedes, and Altaian Turks
+are on the whole more likely to tally with those of the
+prehistoric Finns than any other people on the globe,
+though they too have been subjected to various civilising
+influences for which allowance must be made.
+
+
+THE Gops AND DIVvINITIES.
+
+
+Had the Finns of the first and second periods any notion
+of the supernatural? This question, as it seems to me,
+must be answered in the negative. At the first beginning
+of humanity on the globe there could have been no such
+notion, for before it can be formed at all some idea must
+exist of nature and the natural. As an idea, Nature is so
+complex that a long time must have elapsed before man
+could form the least conception of it. Yet at a very early
+period the human mind, working unconsciously, must have
+framed categories and separated the phenomena of nature
+into those of daily occurrence and those that happen at
+longer or shorter intervals. Under the first category would
+fall the relative weights of common things, such as stones
+and feathers, the fact that if a thing dropped from one’s hand
+it fell to the ground, the recurrence of night and day, the
+heat of the sun, etc. These being facts of daily experience
+excited no astonishment. Under the second category
+would come the distinction between a hot and cold or dry
+
+
+THEIR PREHISTORIC CIVILISATION 151
+
+
+and wet portion of the year; the phases of the moon; the
+fact that fish run up rivers at a certain season and return at
+another ; that certain animals frequent particular parts of
+the country at one time more than other. These and
+many other similar observations that they made would
+seem to them, no doubt, what we should now call natural ;
+that is to say, these phenomena excited no astonishment.
+But others of uncertain periodicity, and recurring at long
+intervals, such as eclipses, earthquakes, comets, famines,
+and the like, would certainly create wonder, sometimes
+fear, and might therefore be termed wonders, marvels, or
+miracles in the old sense of the word, but not supernatural,
+for they had no conception of nature as a starting-point
+from which the idea of supernatural could be deduced.
+Their gods even, conceived probably as invisible beings
+with purely human attributes, the attributes of humanity at
+a very slow stage, could in no sense be considered super-
+natural. Men could also render themselves invisible.
+The gods too were so human that they could be forced to
+act in accordance with the wishes of their worshippers,
+and could likewise be punished. But in course of time,
+though not everywhere at the same time, to the worship of
+the older gods, that resided chiefly in trees, wells, rivers,
+and animals, was added the worship of a higher order of
+divinity whose seat was in the sky. This was the result
+of the gradual development of a new order of ideas. Just
+as a man in need of anything applies first to his friends or
+neighbours nearest at hand before turning to a distant
+stranger, sO man in the early stages of his history had
+recourse, when in danger or trouble, to the helpers that
+seemed nearest at hand, that dwelt, as he believed, in the
+trees and waters at his very door, rather than to the distant
+
+
+152. PRE- AND PROTO-HISTORIC FINNS
+
+
+heaven, to which no human voice could be expected to
+reach.
+
+At last a change took place in this respect. Some men,
+resolving to leave no stone unturned, ventured to seek aid
+from the sky-god, who in time would gain a large circle of
+worshippers. The intellectual energy and development
+of these adherents of the new god would no doubt be
+superior to that of the adherents of the older gods. Yet
+to them the sky-god was not supernatural, though a step
+was taken in that direction; he was now supermundane:
+Partly from his elevated position, partly perhaps from
+regarding the sun as his eye, the sky-god would in time
+acquire the attribute of omniscence; though at first this
+would merely be superhuman, not supernatural knowledge ;
+it would exceed the knowledge of any one man, but would
+only be equal to the sum of knowledge of all men, what
+each man knew of his own actions. Again, instead of attri-
+buting storms, thunder, lightning, rain, and drought to the
+anger of witches, sorcerers, or of the inferior order of gods
+that dwelt in trees and stones, these phenomena were now
+ascribed to the will of the god in the sky above. This
+tended to produce the impression that he was all-powerful
+as well as omniscient. Still, with all this, his power was
+merely superhuman in the sense that it exceeded the
+capacity of any one man or body of men. The idea of
+his being a supernatural personage could only arise when
+his omnipotence was raised to such a pitch that he became
+thought of as the creator of the world, of nature as we
+perceive it. As the creator is necessarily greater than the
+created, it now for the first time became possible to regard
+him as a being transcending nature in every conceivable
+way—as supernatural, in fact. The notion ofa supernatural
+
+
+THEIR PREHISTORIC CIVILISATION 153
+
+
+being or god, wielding supernatural power, must, if this
+view is correct, be of late origin. It never could develop
+among a people in whose pantheon there was no creator
+of the world. If such a people possess a notion of the
+supernatural they must have borrowed it.
+
+It cannot be doubted that the prehistoric Finns, when
+they stood in the open air and gazed around, were under
+the impression that nearly every object in nature was the
+habitation of a spirit. This cosmological theory naturally
+accounted for the life and movement they perceived around
+them ; even inanimate objects, like rocks and stones, re-
+quired an active cause to account for their presence, for
+their difference in size, and for their often strange shapes.
+Of course, all spirits were not of equal value or of equal
+strength: that would depend in some measure on the size
+of their habitation. The spirit of the sky was greater than
+an ordinary tree, stone, or house spirit. So a Samoyede
+wizard in addressing his familiar spirit says: ‘I cannot
+approach Num’ (the god or spirit of the sky), ‘he is too
+far away; if I could reach him I should not beseech thee,
+but should go myself, but I cannot.’? The Samoyedes
+of the government of Tomsk, who are partly Christianised,
+fear Num to such an extent that they pronounce his name
+with evident trembling, and prefer the use of an epithet
+meaning ‘the watcher over reindeer.’ Tiirm, the sky-
+god of the Northern Ostiaks, who only speaks in thunder
+and the angry voice of the storm, is an inexorable being
+whom no prayers can reach, whom no offerings can pro-
+pitiate. He is therefore not the object of any worship, and
+Ostiaks in need of help must turn to a spirit of lower
+degree. Here we see that the physical remoteness of
+
+
+2 Castrén, (2) i. 207. 9 [bid., (2) ii, 162. 3 /did., (2) i. 30%, 909.
+
+
+154 PRE- AND PROTO-HISTORIC FINNS
+
+
+the sky from the earth gave rise to the idea of an inacces-
+sible god. Like the Ostiaks, the Turks of the Altai do
+not turn for help to the highest god, but to deities of lower
+rank.! Some Votiaks allege another reason for not paying
+full honour to Inmar, the god of the sky. He is very good,
+‘and so they do not fear him, worshipping him with prayers,
+but not with sacrifices. Though, in the above instances,
+the sky is conceived mainly as a spirit, the latter was not
+quite incorporeal. To the Samoyede the rainbow is ‘Num’s
+mantle’; to a Ceremis it is ‘the bow of Jumo’ (sky, god),
+the thunderbolt is his stone (/umon ki); to a Vogul the
+lightning is ‘the arrow of Tarim.’ Compared with the
+Northern Ostiaks, the Voguls have greatly modified their
+view of the sky-god Numi Tarim. He is a great hunter,
+the bear is his dear daughter, and they pray to him as ‘our
+father’ to let down fish and wild animals from above.’ He
+is therefore no longer inaccessible to direct entreaty, which
+shows a later stage in religious development ; the fear of
+using his name has passed away, and the feeling of distance
+from him is removed or lessened. The ascription of the
+epithet ‘father’ is not, as might be supposed, the result of
+Christian influence, for in the heroic poems of the Irti§
+Ostiaks, which go back to about the thirteenth or fourteenth
+century, a prince who is hard pressed in battle calls to his
+god in the following terms: ‘Is it possible the Golden
+Light (the Sky-god), my father, has decreed that common
+soldiers should take my iridescent scalp?’* Judging from
+their poetry, the Tiirim of the Southern Ostiaks on the
+IrtiS was very different from the Tiirm of the Northern
+Ostiaks described by Castrén. The former is rather a
+
+
+1 Radloff, ii. 8. 2 Ostrovski, p. 33.
+3 Munkacsi, (1) pp. 185, 186.' 4 Patkanov, (1) pp. 48, 49.
+
+
+ee
+
+
+THEIR PREHISTORIC CIVILISATION 155
+
+
+mild god ; ‘father’ is his constant epithet, and he dispenses
+good solely from his merciful nature and his love for man.
+And judging from the epic poetry he does not seem to
+have demanded any worship, sacrifice, or prayers. Even
+animals in danger cry for help to him, and never in vain.
+It would be interesting to know whether this revolution
+of ideas with respect to the character of the sky-god was
+independent of all foreign influence ; it is difficult to believe
+that it could have taken place spontaneously.
+
+Num, like the Turk. fefirs, means ‘sky’ and ‘god,’ and
+among the Finns we find the same confluence of two
+distinct ideas in a single word.
+
+
+1 sky. 4 god. 3 air. 4 Prop. name.
+
+
+Though F. jumala now means ‘god,’ the. corresponding
+word in Ceremis also means ‘sky,’ and the Mordvin for
+‘lightning,’ jondo/, stands for jom-dol, ‘the fire of jom.’?
+On the other hand, the F. s/ma, ‘air,’ corresponds with
+the Permian words for ‘air,’ ‘sky,’ ‘god,’ and the proper name
+Ilmari, lL. Iimaris, who is sometimes substituted for the
+native wind-god, is formally the equivalent of V. s#mar,
+‘sky,’ ‘god.’ It can hardly be doubted that ‘sky’ is the older
+meaning, though it may always have been associated with
+the idea of ‘sky-spirit,’ and that ‘god’ is secondary. It
+would be interesting to know at what stage in the history
+1 Patkanov, (2) pp. 100, ro. 2 Paasonen, (x) p. 12.
+
+
+156 PRE- AND PROTO-HISTORIC FINNS
+
+
+of the Finns this differentiation of meaning took place.
+With the Western Finns it seems to have taken place as
+early as the fourth period, for otherwise it is unintelligible
+why they should have borrowed from the Lithuanians a
+word for the physical sky, /aévas, unless Jumala had ceased
+to bear this meaning, and meant only the sky-spirit, the
+personality that seemed to be behind all aérial phenomena.
+At first, there was only one god, jumala, jumo, inmar, the
+spirit of the sky, but in course of time these words were
+used in the plural, and employed as epithets to a number
+of deities. As god of the sky, Jumala, like Num, no doubt
+sent forth thunder, rain, snow, and wind on luckless mortals,
+but whether he received worship is doubtful; at any rate,
+most of the worship appears to have been reserved for
+deities that seemed nearer at hand.
+
+The question may be raised whether all aérial pheno-
+mena, such as thunder, lightning, wind, snow, and rain,
+were Originally attributed to the will of the one sky-spirit,
+or whether the earlier belief was that they were due to the
+action of separate and independent spirits. At present
+the Eastern Finns specialise most of these phenomena,
+so that each has its father, mother, ruler, or other function-
+ary who directs its activity. They also specialise their
+‘domestic tutelary deities in the minutest way; there is
+one for the hearth, another for the courtyard, one for the
+cowhouse, another for the stable, for the sheep-pen, etc.
+As the names for these buildings are for the most part
+loan words of comparatively recent origin, the specialisa-
+tion of guardian spirits goes hand in hand with the increase
+of civilisation. But the Samoyedes, whose lack of culture
+is much greater than that of the most backward of the
+Eastern Finns, take the above phenomena en d/o, and
+
+
+THEIR PREHISTORIC CIVILISATION 157
+
+
+. refer all to the will of a single spirit. Hence there is
+
+
+reason to assume that in prehistoric times the Finns gene-
+
+
+. rally attributed these diverse operations of nature to the
+
+
+active will of a single being, the spirit that dwelt in the
+sky. In fact, to some of them, such as rain and wind,
+short of a hurricane, they must have been from their mode
+of life comparatively indifferent.
+
+What conception the prehistoric Finns had of the
+spirits of nature we do not know, and there is no common
+term by which they were designated. By the Eastern
+Finns at present they are simply called the ‘father, mother,
+uncle, aunt, ruler, prince, or god’ of each particular
+element, which shows that they are generally thought of as
+anthropomorphic, and they do sometimes appear in human
+shape. Once when a Votiak shot a water-spirit, ou-murt,
+the water was tinged with his blood.! And if the blood of
+a forest spirit, known as favs murt, is shed, from each
+drop a fresh spirit comes into existence.? The Mordvins
+sometimes picture to themselves the water-mother as a
+beautiful woman with silky hair and girt with a silver
+girdle ; but sometimes she is seen in the shape of a huge
+fish, surrounded by much smaller fish, which she sends
+away to different rivers and lakes. At times her children
+fall into the fisherman’s net, and if he has pity on the
+weeping water-spirit he will be rewarded with a good catch
+of fish. At other times she has been seen as a bird
+skimming over the surface of the water. The ‘forest-
+wife’ of the Mordvins may appear as a beautiful woman,
+but she can change her shape and become manifest in the
+form of fire or a whirlwind ; occasionally she comes to a
+
+
+1 Smirnov, (2) p. 20. # Wichman, (1) p. 9.
+3 Smirnov (4), p. arr.
+
+
+158 PRE- AND PROTO-HISTORIC FINNS
+
+
+village as a cat, dog, horse, or wolf.! By the Votiaks the
+vu-murt or water-spirit is sometimes seen as a huge pike,?
+a fish that is held sacred by the Voguls,® and was probably
+sacred to the prehistoric Finns. But these anthropomor-
+phic and animal shapes assumed by spirits may be later
+developments, for originally spirits seem to have been
+invisible. ‘Transition forms of the belief are seen in the
+Votiak house-spirit, korka murt, who is an aged man in
+a sheepskin coat, whom it is possible to feel and to seize,
+and who yet is invisible ; # as also in the Lapp belief that the
+spirits of the dead are visible, but not in corporeal form ; and
+that they cannot be squeezed or tired, and move at a terrible
+rate.5 The Permian superstition that a man can steal
+without being seen, if he provide himself first with the
+hand, tooth, or shirt of a dead man, is only explicable by
+a belief that the spirits of the dead are invisible. But
+the Samoyede belief is that spirits, for which there are
+several names, are only visible to wizards, not to ordinary
+mortals, except so far that some of them have their habita-
+trons in queer-looking stones, trees, natural objects, or in rude
+dolls dressed like aSamoyede.’ Toacertain extent it would
+seem that all spirits were not considered immortal, for the
+Samoyedes in the government of Tomsk have each a
+special idol god, who, at the death of his worshipper, is
+supposed to die too, and at any rate is thrown into the
+river.2 So too the household and clan gods of the Ostiaks
+are to all appearance merely artificial dolls, decked out in
+their best. But that originally the spirit was thought of as
+
+
+1 Smirnov, (4) p. 218. 2 Verestagin, p. 79.
+3 Munkacsi, (x) pp. 67, 186. 4 Smirnov, (2) p. 194.
+5 Von Diiben, p. 247. 6 Smirnov, (3) p. 247.
+
+
+7 Castrén, (2) i, 209; ii, 162. 8 Castrén, (2) ii. 164.
+
+
+THEIR PREHISTORIC CIVILISATION 159
+
+
+distinct from the stone, branch, or idol in which he was
+located, is shown by the belief of the Voguls. According
+to this, the ghosts or manes of the heroes dwell in the
+place of their former exploits, where they are represented
+under the form of images. These images are called pupy,
+while the indwelling spirit, which appears with lightning
+speed when summoned by the magic power of an incanta-
+tion, is termed aafiy, ‘the prince,’ or #ai, ‘the princess.’
+The images of the gods are often replaced by a natural
+stone or rock formation, which the people believe to be
+transformations of the heroes. And when the Voguls are
+preparing a place of sacrifice, they set up in the front part
+of it a birch sapling to serve as a sacred resting-place for
+the god who is to be invoked.! So too the Votiak house-
+hold god, vorsud, ‘the giver of luck,’ is supposed to live
+either in a special chest or basket, in which the offerings
+are laid, or in branches of fir specially strewn in a particu-
+lar place, but is otherwise invisible. The household spirit
+of the Ceremis is also embodied in a fagot of sticks,? and
+the se#fa of the Lapps, as a rule, are only to be seen in a
+pile of stones or in a human figure rudely blocked on a
+wooden post. Yet in spite of the invisibility of the spirits,
+they were so far cast in a human mould that they needed
+to be fed, though not with the same regularity as human
+beings. The Samoyedes, Ostiaks, Voguls, and Lapps all
+smear the mouths of their idols with blood and fat. If the
+spirit was not embodied in an idol, the food-offerings had
+to be made in other ways. For instance, when the fishing
+on the Ob is bad, the Ostiaks throw a reindeer into it to
+propitiate the spirit. Generally speaking, when an animal
+is sacrificed, most of the flesh is eaten by the worshippers,
+1 Munkacsi, (1) p. 67, 68. 3 Smirnov, (1) 174.
+
+
+160 PRE- AND PROTO-HISTORIC FINNS
+
+
+though some is set aside for the god. The sacrifice is in
+the nature of a feast, at which the god is an invited guest.
+Among the Southern Ostiaks, when a god has received an
+offering he is bound to fulfil the request of the Ostiak. If
+he refuses he must be chastised by man. Thus the shaman
+exhorts the tribal god to be compliant, and its owner does
+the same to his house-god. If the warning is of no avail,
+and the god remains obdurate, he is threatened with pun-
+ishment, and this is executed forthwith. The image is
+thrown on the ground, beaten, and trampled under foot;
+sometimes it is burnt and replaced by a new one that has
+witnessed the chastisement.! Little wonder then that
+prayers and offerings were made by preference to the lower
+divinities who could thus be coerced by worshippers, whose
+actions were regulated by the Bismarckian maxim, do ut
+des.
+
+To a people that lives. by fishing and hunting the
+elements are clearly of far less importance than to an
+agricultural people. To the former wind, snow, and rain
+come as a matter of course, and are regarded with stoicism
+and indifference. The spirit that lives in a large river,
+that gives or withholds fish; the spirit of the forest that
+owns the wild animals with which it abounds; the house-
+hold spirit that looks after the welfare of the family ;—these
+are the divinities the hunter and fisherman is most inclined
+to worship with sacrifices and offerings. So it is not sur-
+prising the Ostiaks should esteem the river Ob above all
+other gods, should address it with their warmest prayers,
+and approach it with their richest offerings.2 The Lapps
+made prayers and offerings to the water-spirits, cacZe olmak,
+to obtain fish, though in East Finmark there was a special
+
+1 Patkanov, (2) p. 112, 2 Castrén, (2) ii. 108.
+
+
+,
+
+
+Oe ee, A
+
+
+THEIR PREHISTORIC CIVILISATION | 161
+
+
+fish-god, eu/s shme/,1 a term which is evidently of later date.
+As the household god looked after the general interests of
+the family he could be prayed to give so important an
+article of food as fish, and accordingly the Samoyedes turn
+to their Aake when they want a good haul? But a water-
+spirit can be looked upon from another point of view: he
+it is that causes people to be drowned. To the Ostiaks,
+the water-spirit, Xu/’, is an evil and destructive being ;® to
+the Votiaks the ou-murt (water-man) is a thoroughly evil
+spirit.4 The water-spirits, vu-murt, ou-kuo, who live in
+rivers, brooks, and lakes, are a numerous family, and their
+number is increased by men that are drowned, who sub-
+sequently become their servants ® or have to act as their
+horses.6 After bathing the Mordvins say: ‘Thanks to
+the Ved afa (water-father), the silver-bearded,’ and in a
+story he is represented as seizing by the beard a man who
+was drinking, and not releasing him till he had promised
+to give his son to his assailant.’
+
+The forest-god of the Lapps, Zaid olmat, ruled over all
+forest animals, which were regarded as his herds, and luck
+in hunting, or the reverse, depended on his will. His favour
+was so important that, according to one author, they made
+prayers and offerings to him every morning and evening.
+Under his special protection was the bear.’ The ‘forest
+men’ of the Votiaks send game to the hunter and food to
+cattle.® All the forest animals are in the power of the
+‘forest-uncle’ or the ‘forest-man.’ He is of human shape,
+and is inclined to be bad-tempered ; to see him brings mis-
+
+
+1 Friis, p. 100, 3 Castrén, (2) i. 209. 3 {bsd., (2) i. 307.
+
+4 Ostrovski, p. 33. 5 Wichman, (1) p. 10.
+
+6 Smirnov, (2) p. 202. 7 Smirnov, (4) pp. 210, 2x1, 213.
+
+8 Friis, pp. 94, 95; Von Diiben, p. 244. ® Smirnov, (2) p. 198,
+I L
+
+
+162 PRE- AND PROTO-HISTORIC FINNS
+
+
+fortune, usually sickness or death. In time of old sacrifices
+were made to him oftener than now, but in the district of
+Sarapul they are still made in autumn under a pine in the
+forest. The offerings consist of brandy, bread, a bull, and
+a greyram. In some places the bread is placed on the
+branches of a tree for the master of the forest, and he is
+implored to give of his forest animals, his squirrels, foxes,
+or wild boars. The Ceremis bring offerings to the forest-
+spirit that he shall not entangle them in the forest.?
+
+Like the Samoyedes, the Ostiaks are divided into many
+small clans (séégt), each composed of a number of families,
+having a common ancestry, that do not intermarry. Each
+clan has a common cult, and from time immemorial has had
+its own images, which are worshipped by the clan with offer-
+ings and other religious ceremonies.® The separate families,
+and even individuals, have also their little wooden images,
+rudely representing a male or female personage, but not
+differing from the clan images, except in being less elabor-
+ately dressed. The clan keeps its images in a house or a
+tent, or on some remote hill in the forest. The private
+and family gods, however, are not always small wooden
+images with a human face and a pointed head. They are
+sometimes odd-looking stones, or some other natural object.
+Every family and individual owns one or more such idols,
+which serve as tutelary gods, and when on the march they
+are transported on a special sleigh. Often each image is
+credited with a special function: one protects the reindeer,
+another provides a good haul of fish, others care for the
+health, the wedded life, etc., of the family. When wanted
+they are set up in the tent, on the pasture-ground, or at the
+
+
+1 Wichman, (1) pp. 9, 10, 31; Veres¢agin, p. 53.
+§ Smirnov, (1) p. 187. 3 Castrén, (3) i. 299, 300.
+
+
+————
+
+
+rr
+
+
+eee ee a To —_
+
+
+THEIR PREHISTORIC CIVILISATION 163
+
+
+places where animals and fish are caught.! Professor De
+Harlez thinks it possible that the small domestic idols of
+felt and rags, used by the Mongols, and mentioned as early
+as the year 1200 by Armenian authors, may have been
+introduced by the Buddhist preachers, as Vartan states
+without hesitation.2 Household gods of this description
+may have passed from the Mongols to the Ostiaks. But,
+be this as it may, the doll-like idols of the Ostiaks are
+certainly of later date than the queer stones and other
+natural objects that serve the same purpose. The house-
+hold gods, Aake, of the Samoyedes are curious-looking
+stones, trees, or other natural objects, or they may
+consist of rude images. Of these they ask help in all
+undertakings, especially when they want a good catch of
+fish, and the idols follow the migrations of the family on
+a sleigh.®
+
+The clan and family gods of the Lapps seem to have
+been known in different parts of the country under the
+name of Seita or Storjunkare. Each family or clan (s/ég?)
+had its Sforyunkare standing in the district where it lived.
+Every Lapp settlement had its ses¢a, which had no regular
+shape, and might consist of smooth or odd-looking stones
+picked out of a stream, of a small pile of stones, of a tree-
+stump, or of a simple post. They were set up on a high,
+prominent place, or in a rich meadow. Under and round
+such seifas they strewed green fir twigs in winter, and in
+summer green leaves. The sesfas protected their wor-
+shippers against misfortune to the herds of reindeer, gave
+instructions how to catch wild reindeer, and in return
+offerings were made to them of the hides and hoofs of
+
+
+1 Castrén, (2) i. 301-303. 3 De Harlez, pp. 178, 179.
+3 Castrén, (2) i. 208, 209.
+
+
+164 PRE- AND PROTO-HISTORIC FINNS
+
+
+reindeer, calves, and sometimes of a dog. But a private
+person might also have his own sesfa, to whom he prayed
+for good luck. The Storjunkare are described sometimes
+as stones, having some likeness to a man or an animal,
+that were set up on a mountain top, or in a cave, or
+near rivers and lakes. Honour was done to them by
+spreading fresh twigs under them in winter, and in
+summer leaves or grass. The Storjunkare had power
+over all animals, fish, and birds, and gave luck to those
+that hunted or fished for them. Reindeer were offered up
+to them, and every clan and family had its own hill of
+sacrifice.!
+
+The Votiaks have a family and clan god, known generi-
+cally as the Vorsud, or ‘ protector of good luck,’ who protects
+the fortunes of the family. His clan character is shown by
+the fact that two persons bearing the same Vorsud name
+cannot marry, or, what comes to the same thing, if they
+worship in the same large 4ua/a or hut where the clan vorfud
+is kept.2, The vorsud is represented in different places in
+different ways. In one place it is described as an idol
+placed on a shelf or raised place in the front corner of the
+kuala or outhouse used in summer for cooking purposes.
+The idol itself is a roughly made wooden head, with a beard
+of marsh grass. In another Aua/a it is a box, with a small
+opening like a window on one side, in which stands an
+image made of dough, the box being placed on a table or
+stand. Elsewhere it is a small quadrangular basket, con-
+taining a bundle of birch or fir twigs, a few bits of money,
+squirrel-skins, a pie, honey, etc., and sometimes the box is
+laid upon fresh branches of pine. The bundle of birch
+
+
+1 Von Diiben, pp. 233-235. 3 Smirnov, (2) p. 145.
+3 Smirnov, (2) pp. 212, 213.
+
+
+Ne
+
+
+THEIR PREHISTORIC CIVILISATION 165
+
+
+twigs, and sometimes the squirrel-skins and the pie, are
+changed annually in spring.’ It is evident that the wooden
+head and the dough image are later modifications: the
+vorsud was originally thought of as an invisible spirit, but
+residing in the bundle of twigs instead of in a stone, like
+the house gods of the Lapps, Ostiaks, and Samoyedes.
+By the Ufimsk Ceremis the term uda vodid, or ‘house-
+spirit,’ is applied to a fagot of twigs kept in the front
+corner of the house. By the Vidtkan Ceremis the twigs
+are renewed annually. Towards evening on a fixed day
+in spring all the men of the village mount their horses, and
+carry away from each house in the place the old fagot,
+and transport it separately to a certain field, where it is
+left. A new fagot is cut and taken home. The}master
+of the house then says: ‘Old one, go away! let another,
+a good one, come! Whenever anything happens, preserve
+me, do not bring evil!’? But to return to the Votiaks: the
+most important family sacrifices are those held in the kuala
+which each family possesses, and is the home of the vorsud.
+Besides the family Aua/a there is a clan kuala in every
+village. If there is more than one clan in a village, an
+event of rare occurrence, there is a corresponding number
+of additional £ua/as. The clan 4ua/a forms part of the
+farm-buildings of the oldest man directly descended from
+the ancestor of the clan, but differs in nothing from a
+family Auala. Sacrifices in these buildings are held
+on fixed and on accidental occasions. The family and
+clan sacrifices are held regularly twice a year, at the
+beginning of summer, and autumn when the field-work is
+over. The offerings consist of bread, groats, beer, spirits,
+1 Wichman, (1) p. 20; Gavrilov, (1) pp. 161, 162.
+2 Smirnov, (1) pp. 174, 175-
+
+
+166 PRE- AND PROTO-HISTORIC FINNS
+
+
+and a duck. The man on whose farm the clan sacrifice is
+made acts as priest, and the office is hereditary.1 Though
+these facts seem clear enough there is much uncertainty as
+to the origin of the vorsud names. Only a few of them
+can now be explained by the modern Votiak and Zirian
+languages, which is not surprising if they are family or clan
+names. Out ofa short list given by Gavrilov, Bigva might
+be explained as the adjective of Biger, ‘a Tatar,’ ‘a Bolgar.’
+Durga is a ‘beetle,’ Selfa might be a derivative of se/#, ‘a
+horse-hobble,’ Ufa, of #/ ‘a branch’; Purga is (1) a tributary
+of the Vitegda, (2) the name of a village, (3) a snow-
+storm. The other names he gives are inexplicable. Out
+of a list of Votiak patronymics written down at the end of
+the last century occur Birgin, Z’um‘in, Kibin, Sudziir,
+derived from the still existing Vorsud names Birga, Z’um’a,
+Kib’a, Sudz’a. Some river-names are identical with voriud
+names, such as Lekma, Yumia, Cabia, Dokia, Niria, Modga,
+which last is also a village name.? As rivers were
+worshipped by the Votiaks, it is possible that the spirits of
+these rivers had been adopted as tutelary spirits, and so
+became clan names, though other equally plausible reasons
+might be urged for other explanations. And as village
+names are often called after their founder, there is no
+difficulty in explaining the similarity of village and voriud
+names. But still it remains uncertain whether the vorsud
+took its name from the clan that worshipped it, or whether
+it gave its name to the clan.
+
+The Mordvins being more civilised than the other
+Eastern Finns, seem to have no tutelary family and clan
+gods corresponding to those above mentioned, though they
+have several divinities that protect the house, the hearth,
+
+1 Wichman, pp. 20, 21. * Smirnov, (2) pp. 38, 39.
+
+
+-"C -
+
+
+THEIR PREHISTORIC CIVILISATION 167
+
+
+the threshing-floor, the corn-kiln, etc., to whom small
+sacrifices are made.
+
+From the above examples of existing beliefs among the
+Ugrians and Eastern Finns, we may safely assume that the
+prehistoric Finns also had gods of the family and the clan,
+who were supposed to be domiciled in quaint-looking
+stones, in small stone piles, in fagots of twigs, and in
+sacred trees. Further, that they worshipped the spirit that
+inhabited and personified every large river. Whether they
+revered a god of the forest is not certain, for, as we have
+seen, all that he could bestow could also be given by the
+personal or family god.
+
+As in the course of the second period the Finns be-
+came acquainted with domestic animals, to which grass is
+essential, and practised a little agriculture, it is possible
+they occasionally paid homage and made sacrifices to the
+sun. The Samoyedes at dawn and sunset turn towards
+the sun and utter a few words of prayer, though otherwise
+they do not seem to pay any special regard to it.1 But the
+Lapps offered white male animals to it so that it should
+shine and promote the growth of grass. Every year the
+sun ought to have the so-called ‘sun’s groats,’ which both
+sexes ate in honour of the sun when they prayed it to
+cast a gracious sunshine on their reindeer. After the feast
+they fell a second time on their knees, and begged the sun
+to give them a good milking year, and to let their herds of
+reindeer thrive. It was only to the sun that burnt-offerings
+were made, and, being a male deity, only male animals were
+sacrificed to him. The moon was also a male divinity, for
+to him likewise only male animals were offered.2 The
+Votiaks pray to the ‘sun-mother’ to give warm days; but
+
+1 Castrén, (2) i. 207. 4 Friis, pp. 81, 151.
+
+
+168 PRE- AND PROTO-HISTORIC FINNS
+
+
+she is not an important divinity. On the other hand, to
+the purely agricultural Mordvins the sun-god, E.M. Cipas,
+M.M. Sf davas, is the supreme deity.?
+
+
+BELIEFS, WIZARDS.
+
+
+A brief mention of some of the beliefs of the Ugrians
+and Eastern Finns will help to show what the general
+mental attitude of the prehistoric Finns might have been
+when face to face with the incidents and vicissitudes of
+daily life. ‘The Samoyedes think that if a hunter eat bear’s
+flesh he would run the risk of being eaten himself. At
+any rate fish and bear’s meat must not be eaten at the same
+meal, or all the fish would disappear from the river. The
+Ostiaks suppose that any one who has been eaten by a bear,
+who has been drowned, injured by fire, or has met with any
+accident, most likely has committed perjury, a crime always
+punished during a man’s lifetime.* The Votiaks say that
+the bear originated from man, and so understands human
+speech, though he cannot speak himself. In their opinion
+the dog is so tenacious of life that if you kill one with a
+stick, and do not leave the weapon upon its body, it will
+come to life again. And if it were not for the milky way,
+the wild geese flying from west to north, and vice versé,
+would lose their way and perish. The Samoyedes are of
+opinion that sickness can be sent by an evilly disposed
+man as well as by God.5 The Votiaks hold that fever
+and ague are sent by an evil spirit, Per2ino, who has to be
+appeased with offerings of bread, butter, and gruel, and is
+entreated not to be angry. The Ceremis imagine that
+
+2 ‘Wichman, (1) pp. 7, 124; Smirnov (4), p. 212. 3 Castrén, (2) ii. 18s.
+
+
+8 Castrén, (2) i. 309.  VereStagin, pp. 70, 77, 79.
+5 Castrén, (2) i. 206. 6 Wichman, p. 33.
+
+
+——ee | eee
+
+
+THEIR PREHISTORIC CIVILISATION 169
+
+
+the spirits that cause illness, especially fever and ague, are
+continually recruited on the death of old maids, murderers,
+and those that have died a violent death.! The Mordvins
+suppose that sterility, or the sickness of a member of the
+family without apparent cause, results from having neglected
+his ancestors. Plague among the cattle is attributed to
+the same cause. When any one becomes dangerously ill
+the Lapps feel sure that one of his deceased relatives wants
+his company in the region of the dead, /Jadms atmo, either
+from affection or to punish him for some trespass.* The
+Turks of the Altai have a similar belief. The soul after
+death willingly lingers for some time in the house, leaves
+it unwillingly, and often takes with it other members of the
+family or some of the cattle.‘
+
+The Votiaks of Sarapul say that the body after being
+committed to the earth sees visions, as persons that are
+asleep do.5 A dead Votiak is believed to hear all that is
+said around him till he has been washed and buried. The
+Ceremis imagine that the dead still preserve the sensations
+of heat and cold, and can see until lowered into the grave.
+If a lad or a girl dies unmarried, it is thought they can
+marry in the next world.’ When a respected Ostiak dies
+his nearest relations make a figure of him, which is kept
+in the tent of the deceased, and enjoys the same honour as
+himself when alive. At every meal the figure is brought
+in; every evening it is undressed and put to bed; every
+moming it is dressed and set in the usual seat of the
+deceased. The figure is honoured in this way for three
+
+
+: Smimov, (7) P. 164. ‘ Smimors (4) PP. 193, 194.
+riis, pp. 126, 127. off, ii. 52.
+$ Smirnov, (2) p. 180. 6 Wichman, (1) p. 39.
+
+
+7 Smirnov, (1) pp. 148, 149.
+
+
+170 PRE- AND PROTO-HISTORIC FINNS
+
+
+or four years and then thrown into the grave. By that time
+the corpse is supposed to have mouldered into dust, and
+when that is accomplished even immortality comes to an
+end.!
+
+The prehistoric Finns, judging from the beliefs of their
+descendants and successors, were a simple folk. By them,
+no doubt, sudden sickness was attributed to any cause but
+the right one,—to the ill wishes of a neighbour, to the
+violation of an oath or a taboo, to inattention to the
+legitimate needs of deceased ancestors. When a man was
+dead they probably supposed, knowing nothing to the
+contrary, that he continued to see, hear, and feel for a
+considerable time. Something of the man lived on, but not
+for ever. When his memory was forgotten, when food
+supplies failed, or when the body had turned into dust and
+ashes, the spirit was thought to perish likewise, and nothing
+of the man remained. It would seem too that the stuff of
+which spirits were composed was much the same whether
+they were human spirits or the spirits that give apparent
+vitality to the phenomena of nature. After death some
+human spirits increased the host of spirits of disease, or
+became the servants of water-spirits, and when a worshipper
+died his private tutelary spirit became functionless and
+ceased to exist.
+
+Believing as they did in various supernatural, invisible
+powers who were inaccessible to ordinary men, the pre-
+historic Finns no doubt had recourse to wizards and
+exorcists, who were credited with possessing the power
+of communicating with the unseen world, and of interpret-
+ing and explaining the will of the gods and the invisible
+spirits. ‘The reason why this power was attributed to
+
+1 Castrén, (2) i. 308.
+
+
+THEIR PREHISTORIC CIVILISATION 171
+
+
+certain men was simply the fact that they were partially
+demented, were queer in their behaviour and appearance,
+and when young were subject to fits, spasms, hysteria,
+incoherent raving, and other signs that clearly showed they
+were possessed by a spirit, and therefore fit and natural
+interpreters of the invisible world of spirits. Such are the
+signs by which the Buriats, the Turks of the Altai, and the
+Yakuts know that a youth has been specially chosen by
+the gods to act as a Jaman, a ham, or an ojun.' As partial
+mental alienation is apt to run in families, the wizard’s
+power would generally be handed down from father to
+son, as is the case with the above-mentioned Siberian
+peoples ; and judging from what is related of it, the amount
+of education given to the young saman was not very great.
+But he had to be a good mimic; he must know how to
+imitate the screech of the eagle, the cackle of the goose,
+the croak of the raven, the hissing of the snake, the neigh-
+ing of the horse, and many other natural sounds, when
+pretending to ascend to the sky or to descend to the
+lower regions. For such journeys were not related in mere
+words; they were vivid dramatic representations of a
+primitive kind, in which the saman played the part of many
+invisible characters and animals, changing his voice to suit
+each part. Such a performance could not fail to leave on
+the simple unquestioning minds of the spectators a deep
+impression of the reality of the whole affair. These ex-
+hibitions are best preserved by the Turks of the Altai,
+but considerable traces of similar performances were to be
+found among the Lapps a couple of centuries ago.
+Originally the wizards and seers were not what we should
+nowadays call magicians: they did not employ magic
+1 Mikhailovskij, pp. 85, 86, 90; Radloff, fi. 16.
+
+
+172 PRE- AND PROTO-HISTORIC FINNS
+
+
+means to thwart the will of a god, or even to exert external
+force upon him. From their own point of view, their
+actions were perfectly rational, and their words both natural
+and harmless in themselves. Their functions were to find
+out why any one had been taken ill; whether a certain
+animal destined for sacrifice would be acceptable to the
+god, where lost animals were to be found, and practical
+questions of that sort. To fulfil their tasks they had at
+their beck and call certain friendly familiar spirits who
+could inquire of the higher spirits with whom even the
+wizard was unable to converse. To summon the familiar
+spirits who lived a long way off a drum had to be used,
+and when they arrived they were supposed to place
+themselves inside the drum. It was a most important
+instrument, and in the hands of a skilful wizard produced
+a variety of tones: hollow, muffled sounds that seemed to
+come from the depths of the earth; sharp incisive raps
+showing that a decisive point had been reached in the
+dramatic performance ; loud, rapid, tumultuous sounds that
+pictured a terrible conflict. But the drum, perhaps only
+in later times, was also used as a divining instrument, and
+so the Altaian Turks, the Ostiaks, and the Lapps drew rude
+designs in red on the surface of their drums. The figures
+on the upper part pictured the gods and the sky, those in
+the lower part referred to the lower world, while a central
+horizontal band represented the earth. By causing a ring
+or something of the sort to move freely over the surface of
+the drun, and observing on what figure it stopped, a wizard
+could manage to give information about persons and things
+both above, below, or upon the surface of the earth.
+Speaking of the Samoyedes,’ Castrén tells us that the
+wizard can do little of himself, he is only the interpreter of
+
+
+THEIR PREHISTORIC CIVILISATION § 173
+
+
+the spirit-world, and his whole power consists in being able
+to place himself in correspondence with certain spirits, and
+receive from them the necessary information. At the
+same time he must be young and strong, or the spirits will
+make a fool of him. His office is hereditary, and the sound
+of his drum penetrates to the world of spirits, and awakens
+them from sleep.
+
+The clan gods of the Ostiaks are often kept in a certain
+house which is under the charge of a spiritual man, who
+is at once seer, priest, doctor, and enjoys a religious
+respect. The advice of such seers or shamans is taken
+in all doubtful cases, but the seer answers no question
+directly. He refers it first to the decision of the gods,
+and explains the reply to the interrogator. Questions
+however cannot be put to Tiirm, who is inaccessible to
+mortals. In the event of a general sacrifice to the gods,
+or when their advice is asked, a shaman is necessary, as
+he alone can open the hearts of the gods and converse
+with them. The drum is indispensable, for an ordinary
+voice does not reach the ear of the gods. Sometimes
+the image of the god, placed in front of the seer, speaks,
+but only the seer can understand what is said.?
+
+When the Voguls desire to sacrifice to a divinity, the
+sort and quality of the offerings are determined by the
+wizard (“dji=F. noifa), who serves as a medium between
+god and man. He is prepared for his office from earliest
+childhood, not only by strict observance of religious
+precepts, and taking part in ceremonies, but also by
+learning religious songs, legends, and the proper con-
+jurations. In all important religious acts he is the leader,
+and among the instruments he uses are the drum (hoi, cf.
+
+
+1 Castrén, (2) i. 199-201. 3 Jbéd., (2) i. 300-303.
+
+
+174 PRE- AND PROTO-HISTORIC FINNS
+
+
+L. kobdas, khomdas, ¥. kannus >*kamdus), the drumstick,
+swords, arrows, and other weapons. His hardest work
+is conjuring the gods. It is he that leads out the animal
+to be sacrificed and cries forth his entreaties towards the
+sky, though the actual slaughter of the animal is performed
+by assistants on his giving the sign.!
+
+In very important matters the Lapps summoned a
+wizard (scaide=F. noifa), who, using his drum as a
+divining apparatus, explained the will of the gods and
+answered different questions. But when necessary he
+was also able to make a journey to the house of the
+dead, Jabmi atmo, to appease its inhabitants, and engage
+
+
+them not to pursue a sick man down to the grave, On
+
+
+to get a deceased relative to come up to the earth again
+to tend the reindeer. Striking his drum, and singing as
+loud as he could, he began to summon his sazvvo
+followers or helpful spirits. First he summoned the
+satovo bird, and told it to bring from that region some
+of its inhabitants, but first of all the satvvo fish or snake.
+When all who intended to assist at the ceremony had
+arrived, the wizard took off his cap, loosened his belt,
+placed his hands on his face, knelt down, swayed to
+and fro on his knees, and began, drum in hand, to run
+round on his knees with wonderful rapidity and with
+curious gestures. Now and then he cried out: ‘ Harness
+the reindeer! launch the boat!’ Then he threw hot
+ashes from the fire with his naked hands, pretending fire
+did not hurt him, drank brandy, and struck himself on
+the knee with an axe. Finally, from the effects of previous
+fasting and his violent exertions he fell into a swoon,
+during which no one might touch him, for his spirit
+1 Munkacsi, (1) p. 68,
+
+
+THEIR PREHISTORIC CIVILISATION 175
+
+
+was now travelling on the sazvvo fish to Saivvo or to
+Jabmi aimo. When he came to himself he related what
+he had seen, what arrangements he had made with the
+dead, and announced in an oracular manner what ought
+to be done.!
+
+Among some Votiaks the seer (funo) enjoys great
+authority ; the animals to be sacrificed are selected on
+his recommendation; he shows the spot where the
+sacrifice to each god is to be made; where an illness
+has seized a sick man, who is guilty of it, who it was
+that damaged the invalid, what he is like and the colour
+of his hair, etc. And in general he is respected by
+the people.? In other places he has a bad reputation,
+is a habitual sot, and is therefore despised. Of less
+importance is the exorcist, pe//askis’, so called because
+while pronouncing his exorcisms he accompanies the words
+with blowing, fe//‘askon.®
+
+As regards the Samoyedes and Ostiaks, it does not
+seem certain who or what the spirits were that assisted
+and protected the wizards. Among the Lapps, however,
+these spirits were called sazevo people, who lived in a
+saivvo home, which was said to lie close under the surface
+of the ground. Directly after death souls were believed
+to pass into sasvvo atbmo, the inhabitants of which lived
+exactly as on earth, but in a higher degree of prosperity
+and happiness, and they became the guardian spirits of
+the living. Every adult Lapp, especially moaides, could
+have several sasvvo people as tutelary spirits. If this
+is correct, the helpful spirits of the Lapp wizards were
+really those of their deceased ancestors, though perhaps
+
+
+1 Friis, pp. 24, 129, 130. 2 VereStagin, p. 37.
+3 Buch, pp. 126, 127. 4 Friis, pp. 113, 115.
+
+
+176 PRE- AND PROTO-HISTORIC FINNS
+
+
+the Saizvo people were not wholly composed of human
+spirits, and certainly not of all human souls, for most
+of the dead went to /Jabmi aihmo, which is sometimes
+confused with satvvo aibmo, though the places were
+different. It seems to have been the same with the
+Altaian Turks. The intermediaries between the am
+or wizard and the lower spirits, the /@r-sw, are the spirits
+of ancestors. But not all can give help; only shamans
+that transmit their power from father to son are able
+through the power of their ancestors to invoke these
+lower spirits of nature, the /dr-su.1 So too with the
+Jakuts, the emekhet or helpful spirit of the wizard, ojus,
+is generally a defunct shaman, though occasionally a
+secondary deity, who comes at call, helps, defends, and
+gives him advice.?
+
+
+ANCESTRAL WORSHIP.
+
+
+There is reason to believe that at any rate to some
+extent the prehistoric Finns worshipped their deceased
+ancestors. Castrén mentions that the Ostiaks and Samo-
+yedes make offerings to the dead, and that this service
+is founded on the belief that the dead retain the same
+needs and follow the same occupations as in life.® Among
+the Lapps the dead were held in great honour. The
+relatives sacrificed reindeer in memory of them for several
+years, and believed themselves to be still in such close
+relations that the luck they enjoyed was regarded as a gift
+from the deceased.* At the annual commemoration the
+Votiak priest invites the deceased to take part, in the
+
+1 Radloff, ii. 8. # Mikhailovskij, p. 133.
+3 Castrén, (2) i. 308. 4 Von Diiben, p. 249.
+
+
+THEIR PREHISTORIC CIVILISATION 177
+
+
+following words: ‘Thy anniversary has arrived, we give
+thee a bloody sacrifice, a roan stallion with a thick mane.
+Don’t be angry ; look well after our good cattle, and do not
+lay hold of us from before or behind. Gather all the dead
+around thyself. Be healthy. Come forward to eat and
+drink with the people around thee. Your grandfathers
+and grandmothers came forth to eat and drink.’! The
+Permians in the district of Glazov bring food in birch
+baskets to the cemetery, hang them on branches of the
+trees there, and call to the deceased to come and eat.?
+
+Among the Mordvins, on the eve of the day for com-
+memorating the deceased, forty or forty-nine days after
+death, the nearest relative who most resembles the
+defunct is asked to personify him on the following day.
+Next day he comes to the house, puts on the clothes in
+which the dead man died, and sits on the bed on which
+he breathed his last. All the relations assemble to
+welcome him. Each brings a present of flour, bread,
+pancakes, or mutton, lays it with a bow on the table in
+front of the impersonator, and inquires how he is getting
+on in the other world. At night a very noisy feast is held,
+during which the personator tells of the life beyond the
+grave, and about the crops there. To the visitors that
+inquire after their dead relatives he gives the most circum-
+stantial news. ‘Your relation keeps good horses, and drives
+about the forest in a carriage’; ‘Yours ruined himself? ;
+‘Yours keeps bees’; ‘ Yours is given to drink’; ‘ Yours has
+married a beautiful wife.’ About midnight all gather
+round to listen to the wishes of the dead man. His
+personifier then advises them to live peacefully, to look
+after the cattle, not to thieve, and hopes they will have
+
+1 Smirnov, (2) p. 183. 9 /bid., (3) p. 245.
+
+I M
+
+
+178 PRE- AND PROTO-HISTORIC FINNS
+
+
+abundance of beer and brandy. Later on a bull is
+slaughtered with some ceremony, its flesh is boiled in
+kettles, and the whole is consumed by the guests. When
+‘this repast is over the personator announces it is time to
+re-enter the grave. All present kneel down and beg his
+blessing. A cart is made ready, on which is placed a vat
+containing viands of various kinds. The personifier, after
+being embraced by the old women, is laid on the bed,
+which is now placed in the cart, and the whole company
+goes off to the cemetery. Here they set him and the bed
+on the grave, then lay a variety of food before him, and beg
+him to eat for the last time. To keep him company the
+escort also partakes. They then take leave of the imper-
+sonator and invite him to return in summer when the
+corn is ripe and they will reap his share. The ceremony
+is now over; the personifier makes a bow, suddenly
+springs up from the grave, throws the bed upon the cart,
+and vanishes from the scene.! The Mordvins ask the
+deceased ancestors to give them a long life, to increase
+their prosperity, to give a good harvest, increase of cattle,
+etc.—in fact, to accomplish all that is usually the function
+of the gods. Sometimes it happens that the ancestors
+are neglected and left to starve. Such conduct is not
+left unpunished. They warn the relations in a dream,
+and, taking the hint, the latter bake pancakes, kill a hen
+and make a feast, the greater part of which they eat them-
+selves, but the remains are taken to a place near the
+cemetery.2_ The ascription by the Mordvins of what may
+be called divine power to their ancestors, such as the ability
+to dispense prosperity, health, increase of cattle, etc., is
+closely paralleled by the capabilities in this respect of the
+1 Smirnov, (4) pp. 176-179. 3 {bid., (4) pp. 184, 193.
+
+
+THEIR PREHISTORIC CIVILISATION 179
+
+
+family and clan gods of the Ostiaks and Lapps mentioned
+above. It opens up the question whether the latter are
+not, at any rate partly, the spirits of ancestors, though
+there is not enough evidence to arrive at a definite
+conclusion.
+
+
+THe FamMILy.
+
+
+Though the Eastern and Western Finns seem to have
+no word for ‘clan,’ ‘tribe,’ we have already found reason
+to believe that the prehistoric Finns were acquainted
+with these ideas, and it must be supposed that the words,
+being no longer wanted, have fallen into disuse, and are
+buried in oblivion. Georgi, in the last century, says the
+Votiaks were formerly divided into tribes, and we have
+already seen that those that worship the same voriud
+cannot intermarry, and that the Ostiaks are divided into
+many small clans, composed of several families descended
+from a common ancestor. Unfortunately Castrén nowhere
+gives the Ostiak word which he translates by séég¢. There
+is also no word for ‘family’ common to the Eastern and
+Western Finns. The latter use ferhke, which has been
+adopted by the Lapps, while the Permian group and the
+other eastern groups generally employ loan words from
+Russian or Tatar. In fact there is a great difference at
+present between the two branches in the constitution of the
+family. The usual conception of a family among the West
+Finns is a household consisting of a man and wife with
+their children, as in Western Europe. But among the East
+Finns it is different. With them the family is large, con-
+sisting of from twenty to forty, and even sixty, persons
+living under the same roof and governed by a single head.
+Among the Votiaks it is not uncommon to find ten or
+
+
+180 PRE- AND PROTO-HISTORIC FINNS
+
+
+more adults in a single family, not including children ; for
+there may be three or four married brothers living with
+their parents in one large family.! A family of from twenty-
+five to thirty persons in one house is not uncommon, and
+north of the Ceptsa, in the government of Vidtka, there are
+families of even forty persons.2 Among the Mordvins
+several families live together in one house, though this is
+composed of several buildings, and constitute a large family.
+Though households consisting of a single family are to be
+found, they are still uncommon, and are the result of
+Russian influence. Not long ago there were families
+among the Erza of from fifty to sixty souls.? Although
+there are obvious economic reasons that may account for
+the enormous size of some Mordvin families that live
+entirely on agriculture, these would hardly hold good for
+the smaller but still large families of the Votiaks on the
+Ceptsa, where soil and climate place agriculture in a
+subordinate position as a means of subsistence. The
+modern practice of several married sons living together
+as one family must be referred to an older instinctive
+feeling of greater security that kept all those of the same
+stock together. It is not too much to assume that in
+prehistoric times the family was also large, consisting of
+three or four generations, living, if not under one roof,
+yet in huts so contiguous as to form a single home-
+stead.
+
+At the. present time the family is everywhere on a patri-
+archal basis. Though the head of a Votiak family has
+unlimited power over the other members of it, we are
+told that the natural good-nature of the people is such
+
+
+Ostrovski, p. 26. ® Smirnov, (2) p. x51.
+ Mainov, (2) p. 58; (3) p. 153.
+
+
+THEIR PREHISTORIC CIVILISATION 181
+
+
+that his authority is wielded in a milder fashion than we
+should expect, and the members of the family, even the
+women, enjoy greater freedom than in a Russian family.?
+Among the Mordvins, too, there are, properly speaking,
+no bounds to the power of the husband over the wife, so
+that he can beat her at pleasure and no one blame him for
+doing so as a punishment. Though the power of the father
+over his children is specially great, it never exceeds certain
+bounds. A Mordvin takes great care that no member of
+the family shall become estranged, but, on the contrary,
+shall feel solidarity with it, and he reluctantly eliminates
+members really guilty of crimes. Nor is the parental
+authority of short duration. Even among the Erza it lasts
+till a son is thirty years of age, for a father can always
+make himself so respected that sons of that age do not
+usually think of evading his wishes. And the Mordvin
+like the Votiak father does not misuse his authority.?
+
+The position of women among the prehistoric Finns
+could have been neither high nor enviable. An Ostiak
+woman is a slave in the strictest sense of the word; she is
+regarded as unclean, and lives in the deepest degradation.
+She gives no expression to her own will, but must humbly
+submit to every caprice of her husband. Her wishes are
+never consulted ; she is treated like a piece of goods, and
+can never inherit property. Vogul women in general may
+not approach idols or holy places. If a woman treads upon
+or steps over a man’s clothes, weapons, or instruments of
+any sort, they are rendered unclean, and must be purified
+by fumigation with castoreum.4 Among the Lapps woman
+still takes a very low place in the social organisation.
+
+
+1 Ostrovski, p.27.  ® Mainov, (2) pp. 23, 23-35; (3) PP. 12%, 13%, 132
+3 Castrén, (2) i. 310, 312. 4 Munkacsi, (i) p. 70.
+
+
+182 PRE- AND PROTO-HISTORIC FINNS
+
+
+Formerly she might not touch a soaia’s drum, or eat the
+least bit of any offering made to the thunder-god, Hora-
+gales; nor might she look in the direction of the sef#a on
+the holy places.! Similarly a Votiak woman may not be
+present at the sacrifices made to the /vd, or evil spirit that
+dwells in certain groves, nor may she approach such a
+grove.?_ Even with the more civilised Mordvins the power
+of the house-mother while her husband is alive is not very
+great; when he dies it ceases altogether.? And as late as
+the eighteenth century there was a lively recollection of
+a time when a man could sell his wife and the children
+begotten by her, if she ceased to please him.‘
+
+At present the Eastern and Western Finns, as well as
+the Ostiaks, are exogamous, though Mainov argues that,
+as the gods of the Mordvins marry their own daughters,
+the nearest: relationship was no bar to marriage, and that
+only a deficient supply of women led the Mordvins to seek
+wives among strange clans. Among the Erza of the
+district of Sergatésk in the government of Nizegorod, as
+well as in the government of Simbirsk, a tradition is pre-
+served that in the old days a brother could marry a sister.
+Not long ago there lived in the village of Dubensk a very
+pretty and hard-working girl. Her parents were reluctant
+to part with her and give her in marriage to a stranger.
+So they sent her to pay a long visit to her relatives at a
+distance, and on her return they received her as a com-
+plete stranger. From that day forth they obliged her to
+consider her brother as her husband.® In answer to a
+direct question, a heathen Ceremis told Professor Smirnov
+
+
+1 Friis, pp. 86, 27, 70, 137. 2 Wichman, (x) p. 17.
+> Mainov, (2) pp. 35, 36; (3) p. 133. 4 Smirnov, (4) p. 158.
+5 Mainov, (3) p. 6, 6 Smirnov, (4) pp. 144, 145
+
+
+THEIR PREHISTORIC CIVILISATION 183
+
+
+that it was possible to marry a sister, though it was not
+done, from which he draws the conclusion that formerly
+the Ceremis were endogamous, there being no formal pro-
+hibition against marrying sisters. He also quotes a custom
+that iorbids a Ceremis marrying a girl from a place where
+the women wear a costume different from that worn in his
+own village. He finds traces, too, of endogamy in some
+of the marriage customs.! With regard to the Permians,
+one author states that in out-of-the-way places cases occur
+of brothers and sisters cohabiting, and another writer
+mentions that in the district of Glazov sexual relations
+between very near kindred are not uncommon, while it is
+not considered blameworthy to have children begotten in
+incest2 Among the Votiaks in some places there is a
+custom that forbids a girl walking with a lad from another
+village. Yet, in spite of these exceptions, the probability
+is great that in the main the prehistoric Finns were exo-
+gamous, though under stress of circumstances the nearest
+relationship was no bar to cohabitation.
+
+Before attempting to discover the constitution of the
+Finnish family in prehistoric times by an examination of
+the words that denote relationship, it may be mentioned
+that not one of these ranges through all the groups. Some
+are widely diffused, but none universally. Still, from this
+it would be erroneous to argue that in the second period
+something like group-marriage or general hetairism pre-
+vailed. The absence of common terms for natural pheno-
+mena like ‘sun’ and ‘moon,’ etc., are enough to show that
+old words could be discarded and new terms substituted.
+It may also be noted that as a rule no distinction is drawn
+between boy and son, girl and daughter, woman and wife,
+
+1 Smirnov, (z) p. 128. 3 bid. , (3) p. 209. 3 Jééd., (2) p. 145.
+
+
+4
+}
+{
+
+
+184 PRE- AND PROTO-HISTORIC FINNS
+
+
+woman and mother; each doublet is usually expressed by
+a single word. As a rule, too, there is no word for brother
+or sister, only for elder brother, elder sister, and these are
+nearly always coupled with the connotations of uncle and
+aunt. Native words, too, for nephew, grandson, and Arst-
+cousin are generally absent. Professor Smirnov maintains
+that these facts can only be explained by assuming the
+existence of communal marriage or general hetairism as
+the basis of the family, and presupposes a state of society
+in which every adult woman of a group was the concubine
+or potential wife of every adult man in it; the chidren
+being children of the group, no distinction could be crawn
+between boy and son, girl and daughter, woman and wife.
+In his opinion, the absence of a word for ‘widow’ shows
+that a woman was never left without a husband, while the
+want of a juridical term for ‘adultery’ proves that regular
+marriage did not exist. He finds a corroboration of his
+theory in the freedom of sexual relations that exists
+between lads and girls before marriage in all branches of
+the Eastern Finns. But Darwin, Dr. Westermarck, and
+others, have pointed out and laid stress on the fact
+that jealousy, especially in sexual matters, is and always
+must have been a very strong passion in man, as it
+in all the higher gregarious animals. The strongest men
+in each small group would therefore always keep their
+women to themselves so long as they were able to do so.
+Their children would therefore have a known father as well
+as a mother, and could not be regarded as merely children
+ofa group. As the supply of women became restricted by
+the action of the stronger men, the weaker ones were forced
+to have recourse to various expedients, and thus polyan-
+drous types of marriage or concubinage, and incestuous
+
+
+THEIR PREHISTORIC CIVILISATION 185
+
+
+intercourse, would arise simultaneously with the polygamy
+of the stronger men.
+
+The oldest type of family that we can trace among the
+Finns is one composed of several adult males, probably
+related by blood, living with several women and their
+children in one hut. With the exception of his two
+parents, to any member of the dwelling all male and female
+members older than himself were his elder brothers and
+sisters; all younger than himself were younger brothers
+or sisters, or some analogous term. Traces of a classifi-
+catory system, founded on seniority, are still found among
+the Eastern Finns. It is best displayed among the
+Ceremis. Exclusive of the father and mother, all blood-
+relations are divided, with regard to oneself or to a
+given person, into two categories of older and younger
+persons,
+
+Zs'a designates and is the term ot address for an uncle
+younger than one’s father, an elder brother, his son if older
+than oneself, and a first cousin if also older.
+
+Solé is a younger brother, a nephew, a grand-nephew, a
+younger first cousin, and the son of a first cousin.
+
+| @ka is an aunt younger than one’s father, an elder sister,
+a niece, and a first cousin older than oneself.
+
+Susar is a younger sister, a niece, a grand-niece, a first
+cousin younger than oneself, and the daughter of a first
+cousin.
+
+The wife of an #s’a is addressed as engai; of a solo—
+Seske.
+
+The husband of an aka is called kurska; of a Susar—
+verge}
+
+As it stands this nomenclature is probably not very
+
+1 Smirnov, (1) pp. 122, 123.
+
+
+186 PRE- AND PROTO-HISTORIC FINNS
+
+
+ancient, for some of the terms seem to be loan words of ne)
+very ancient date; but the principle on which it is based ‘s
+undoubtedly old.
+
+The nomenclature of the modern Ceremis exactly fits the
+case of a father, mother, and their married sons with their
+families, living under a single roof and numbering say
+twenty persons. It may be illustrated by the following
+diagram :—
+
+
+A——A’ 5 c a’
+| | | |
+b ée i n
+c f k o
+d g§ 1 p
+h m q
+
+
+Here A J’ represents a man and wife with their three
+sons b, c, d. In course of time their wives J’, ¢, d’, bear
+families, shown in three columns to the right and lettered
+from e—g, the italics marking the girls. It is possible, and
+we therefore suppose that niece ¢ is older than her uncle d;
+that 1 is older than his first cousin h, and that n is older
+than his first cousins h,m. Then with regard to d, we see
+that b, c are his elder brothers (és’a), his niece e is his
+elder sister (4a), and his remaining nephews and nieces
+from f—g are younger brothers (fo/¢) and younger sisters
+(susar). With regard to h his two uncles c, d, and his first
+cousins 1, n are his elder brothers, his full sisters ¢, g are
+his elder sisters, and his first cousins &, 0, g are his younger
+sisters. In conversation 4 would be addressed as engaz’,
+and c,d as Sefke. As there is no native term for grandson
+in the Finnish groups, the father must have called his
+grandsons ‘sons,’ but all the grandchildren from e—g
+
+
+THEIR PREHISTORIC CIVILISATION 187
+
+
+address A, 4’ as the ‘ great father,’ the ‘great mother.’ In
+a family circle of this description the terminology of the
+family may be reduced to a minimum, though in course of
+time it will gradually enlarge; we see, too, that words
+for nephew, niece, grandson, granddaughter, first cousin,
+and even younger sister—younger aunt answers the pur-
+pose,—can easily be dispensed with, and need only develop
+after a long period of time, or after contact with a more
+civilised people. It is manifest, of course, that the above
+diagram can be adapted to a stage of family life far less
+advanced than that of the modern Ceremis, and at the
+beginning of the second period no doubt the relations be-
+tween the sexes was different from what nowholds. Very
+likely when the head of the household died, or became
+infirm, if he was ever allowed to reach that stage, his
+eldest or strongest son inherited his wife or wives, if
+young enough. And until the sons were strong enough
+for each to keep a wife to himself, they may have kept
+one in common, so that for a season polygyny and
+polyandry might exist under the same roof. The girls, .
+too, in a household, till appropriated by a single man,
+may often have had intercourse with the younger men
+who had no households of their own. But the principle
+always remained that there was a head of each house-
+hold, however humble the dwelling might be, and any
+children born under his roof were regarded as his and
+formed his family.
+
+Hitherto we have only found in the prehistoric family
+a certain number of males living with a certain number of
+females, but we have not learnt how the women were
+acquired, whether by violence or in some peaceful manner,
+such as exchange, early betrothal, purchase, or personal
+
+
+188 PRE- AND PROTO-HISTORIC FINNS
+
+
+service; or what sort of relations existed between the
+families of the husband and wife. If we could find wide-
+spread terms for any of the bride’s relations, that imply
+marriage of some sort, we might reasonably infer that
+after taking a wife the relations between the husband
+and wife’s families were not hostile, implying that she
+had been obtained on the whole by pacific means.
+There are two words that point in this direction, those
+for ‘son-in-law’ and ‘ father-in-law,’ though the latter
+is a dubious term meaning ‘ wife’s father’ and ‘ husband’s
+father’ :—
+
+
+Fin Lapp Mord. | Cer. | Ost. | Vog. | Magy.
+
+F ather-in- apps | vuoppa ase oba | up | up ip
+aw
+
+Son-in-law | vavy | oivva, 0j5 | ov woe | ee | DGPS | vO
+
+
+In the above equations, though four of the words for
+father-in-law are used in the double sense, yet to the
+Voguls and Ostiaks the word #f only means ‘ wife’s father,’
+hence there is the presumption that this was the original
+meaning of the others. It is evident that to a household
+framed on the Ceremisian system there could never be
+occasion for one member to address another as ‘son-in-
+law,’ though there might be several in the family. The
+term could only be used by a man or woman in a different
+dwelling—by the father and mother, in fact, of one of the
+wives in the first-mentioned household. The fact that the
+word for ‘son-in-law’ covers nearly the same area as that
+for ‘father-in-law,’ and that the first necessarily connotes
+the existence of a wife and her parents, immensely increase
+
+
+/
+
+
+THEIR PREHISTORIC CIVILISATION 189
+
+
+the probability that the words for ‘father-in-law’ once
+meant ‘ wife’s father’ and nothing else, for then both words
+point in the same direction, towards the old home of the
+wife. If this is so, we find tewms for ‘wife’s father’ and
+‘son-in-law’ among the Western Finns, the Lapps, some of
+the Eastern or rather Central Finns, and the Ugrian groups
+in what at first sight seems to be the first period, though
+probably, for reasons that will be exhibited at the close of
+the chapter, not before the middle of the second period.
+Now if the method of obtaining a wife had been solely by
+hostile capture it seems hardly likely she would ever see
+her father again, even if he had not been killed in the
+affray, and so her husband’s family would have no occasion
+to give him a special name; and as he would have no
+occasion to speak of his son-in-law, such a term would
+never arise. The probability is, therefore, that in pre-
+historic times wives were largely, though not exclusively,
+obtained without fighting. So far as can be learnt from
+language, the mother-in-law was subordinate to the father-
+in-law, for in Vogul and Ostiak the bride’s mother is merely
+known as the ‘wife of the « (father of the bride),’ and in
+N. Ostiak the bridegroom’s mother is distinguished as the
+‘great woman,’ showing that the young husband’s mother
+was regarded with greater respect than the bride’s. So
+too the Finnish avop#i, ‘mother-in-law,’ seems to mean
+‘wife of the off: (father-in-law),’ or something of the sort,
+and so to indicate a position in the family that derived all
+its authority from the man. In fact, there is nothing in
+these words for ‘ father- and mother-in-law,’ or in the other
+terms used by the East Finnish groups, to lead us to sup-
+pose that the headship of the family rested in other hands
+than those of a male.
+
+
+190 PRE- AND PROTO-HISTORIC FINNS
+
+
+Another word with a wide range is that for ‘ daughter-
+in-law,’ ‘ bride’ :—
+
+
+Fin. Lapp. Votiak. Zr. Ost. Vog. Magy.
+minté manna itsimon' ifmon' men ii man’ meny
+
+
+There is a remarkable difference in the distribution of
+this word compared with the terms for father- and son-
+in-law. It is unknown to the Mordvins and Ceremis,
+and retained by the Permian groups, unless indeed they
+have borrowed from the Voguls (#, #s¢=little), as I
+think is probable, for reasons to be stated hereafter.
+The next to be noticed has several meanings: (1) wife of
+brother, (2) wife of husband’s brother, (3) sister of wife,
+(4) daughter-in-law :—
+
+
+Fin. M.M.  Erza. Votiak. Zirian. Ost.
+Kaly 1,3,| Kel2 Kijalo2 | Kaliag Keli, Keljaz | Kili3
+
+
+Here the third meaning is interesting, as it implies that
+friendly relations were maintained between the families
+of the husband and of the wife, so that a term of address
+for her sisters had to be formed, which is identical with
+that for a ‘brothers wife’ or the ‘wife of a husband’s
+brother.’ Yet this meaning, though found in groups so
+widely separated as the West Finns and Ostiaks, cannot
+reach back to the first period, for the Mordvins, Ostiaks,
+and Zirians have borrowed an expression for ‘ wife’s sister’
+from the Turkish, Cuva’, and Russian respectively.
+Though F. Xé/y can also be used in the sense of ‘husband’s
+sister,’ it is a later usage, for the West Finns and the
+Ceremis have a special term for this: F. nato,C. nuda. A
+
+
+eh
+
+
+THEIR PREHISTORIC CIVILISATION 191
+
+
+term for ‘uncle’ is widely distributed, though it does
+not extend to the Ugrians :—
+
+
+Fin. Lapp. Enza. Cer. Votiak. Zir.
+selé cacce (ie CUE Cuz cos}
+
+
+The first three mean ‘father’s brother,’ the last ‘mother’s
+brother,’ and the remaining two refer to either uncle.
+
+Not much light is thrown on the method of obtaining
+a wife by examining the various verbs for ‘to marry’ in
+the Finno-Ugrian groups, for on the whole they are
+ambiguous. The Voguls say ‘to take a wife,’ the Ostiaks
+‘to take as wife,’ which might mean after paying for her,
+or after capture, or after her parents’ consent. In the epic
+poetry of the Ostiaks the word for ‘to marry a daughter’
+is Omdem, literally ‘to cause to sit, to seat,’ a meaning
+which Mr. Patkanov believes may have arisen from the
+father seating his daughter in the boat or sleigh of his
+son-in-law when taking her home after the marriage feast.”
+For ‘to marry’ the Zirlans use several verbs derived from
+the nouns ‘woman, wife, bride,’ which do not in the least
+explain the mode in which the action takes place; ‘to
+marry a daughter’ is ‘to give behind a man,’ and when
+a woman marries she is said ‘to go behind or after a man.’
+When a Votiak parent marries his daughter he is said ‘to
+give (her) to a man,’ and of a woman marrying she is said
+‘to go away to a man,’ or ‘to run away to a man,’ or simply
+bisini, ‘to run away.’ Here, at any rate, there is no trace
+of capture; a girl flies to her lover’s arms and saves him
+all further trouble. For a man marrying, the Erza and the
+MokSa Mordvins use a derivative of the noun ‘ wife, woman,’
+which gives us no information ; for a woman, the Erza use
+
+1 Paasonen, (1) p. 30. 3 Patkanov, (1) p. 60.
+
+
+192 PRE- AND PROTO-HISTORIC FINNS
+
+
+the expression ‘to go out or away to a man’ or ‘to go toa
+man.’ The Western Finns also use a colourless derivative
+of nat-, ‘woman,’ when speaking of a man marrying, but of a
+woman they say mennd michelle, ‘to go to a man or husband.’
+Though not much enlightened by this survey, it seems on
+the whole to corroborate the view expressed above, that in
+the second period wives were obtained by pacific means.
+
+Though of course monogamy is now the rule among the
+Eastern and Western Finns, the Ceremis in certain districts
+of the governments of Perm and Ufa, when circumstances
+permit, are polygamous, and take two, more rarely three,
+wives. With the wealthy each wife has a separate house;
+the position of the wives is identical, and in their rights no
+distinction is made between the children of the different
+wives. For though those of the eldest wife enjoy greater
+respect, in the matter of inheritance they have no privilege.
+In the eighteenth century polygamy was the custom among
+the Ceremis, and it still happens with them that several
+sisters live with one husband.! In an indirect manner
+polygamy was also practised by the Ceremis, Votiaks,
+Zirians, Mordvins, and Ostiaks, for it was not unusual as
+late as the last century for a father to acquire for his infant
+son an adult wife who lived in the same house as himself.
+This of course led to concubinage with the father-in-law,
+for which the Russians have a special term—snokhacestvo.*
+The levirate also existed, for in the year 1501 Bishop
+Simon reprehended the newly converted Zirians for break-
+ing the ecclesiastical law, and instances that a brother
+married his deceased brother’s wife.®
+
+
+1 Smirnov, (1) pp. raz, 124.
+
+
+2 /bid., (1) p. 124; (2) pp. 142, 143; (3) p. 21a; (4) pp. x52, x55;
+Ablqvist, (x) p. 160. 8 /bd., (3) p. xz.
+
+
+THEIR PREHISTORIC CIVILISATION 193
+
+
+The usual mode of obtaining a wife among the Eastern
+Finns at present is by purchase, for which the Mordvins
+have a native word, though some of the Eastern Finns have
+borrowed the word kafim from the Turks. This loan word,
+however, is insufficient to prove that the custom was first
+introduced with the new word. In the thirteenth or four-
+teenth century, before the Ostiaks came in contact with the
+Tatars, marriage by purchase was a recognised institution,
+and forcible capture was only resorted to when the paternal
+claims were too exorbitant. Yet marriage by hostile and
+formal capture still exists, and was still more in vogue a
+couple of centuries ago. Among the Ceremis, in the
+governments of Viatka, Perm, and Ufa, capture is still
+practised, and marriage by match-making in the govern-
+ment of Ufa is extremely rare. In fact all the terms used
+in arranging a marriage by contract are said to be of Cuva’
+origin. In the district of MalmizZ (Vidtka) the bride is
+carried off from the dance at a festival, or in the woods
+while picking berries and mushrooms, or from the bank of a
+stream while engaged in washing clothes.1_ But among the
+Votiaks in the district of Sarapul capture only takes place
+to avoid the expense of a wedding ; or if the girl is willing,
+but the parents refuse their consent ; or if the parents wish
+to marry their daughter to a rich suitor whom she detests.?
+
+Though hostile capture as a means of obtaining a wife has
+no doubt existed from the earliest times, it was only a con-
+current method for attaining the end, and only undertaken
+under stress of circumstances as a last resort. Among the
+Yakuts, whose mode of living and habitat greatly resembles
+that of the ancient Finns, marriage is by purchase, though
+the husband cannot bring his wife home till he has paid
+
+
+1 Smirnov, (1) pp. 129, 133. 3 Verestagin, p. 27.
+I N
+
+
+194 PRE- AND PROTO-HISTORIC FINNS
+
+
+the whole price. If he is a poor man he pays by instal-
+ments, and is allowed to visit his wife at her home till the
+balance is paid; sometimes three years may elapse before
+he is able to do so.!_ Writing in the last century, Georgi
+relates of the Barabints Tatars that instead of giving
+money for his wife, a man might work for his father-in-law,
+hunting, fishing, and ploughing with him for a certain
+length of time. Of the Katints Tatars he relates that
+if a suitor is too poor he guards his father-in-law’s herds
+for from three to five years, hunts, and gets wood for him,
+etc.2 Though it is of rare occurrence for a Zirian son-in-
+law to settle for good in his wife’s home, it is sometimes
+done in the government of Viatka. In such cases he
+severs connection with his own people, abandons his family
+name, and assumes that of his wife’s father. His children
+augment the family of his father-in-law, and bear the name
+of the latter. Though not expressly stated, it is probable
+that some economic motive, such as inability to pay the
+bride’s price, induces the Zirian to abandon his home and
+take up house entirely with his father-in-law. It is im-
+possible to say whether such a custom was ever the rule,
+but it may point to an older state of things when the bride-
+groom had to live at his father-in-law’s house for a limited
+time in a menial capacity, and under special circumstances
+prolonged the period for life. The only other sign-post
+that points in the same direction is the custom of ‘mutual
+avoidance,’ as Dr. Tylor terms it, by which the wife
+avoids her husband’s relations and he hers. He regards
+it as having arisen in the transition period between the
+maternal and paternal system, when the husband, after a
+
+
+1 Béhtlingk, p. 73. 2 Georgi, vol. ii. pp. 130, 190. —~enth
+
+
+3 Smirnov, (3) p- 215. 4 Jour. of Anth. Inst., Feb. 1889, pp. 246-252.
+
+
+— ~«
+
+
+THEIR PREHISTORIC CIVILISATION 195
+
+
+limited residence in the wife’s house, subsequently shifts
+to his father’s abode. But it was continued into the later
+period, when a man takes his wife home at once, and it
+is in this last stage that we find it among the Votiaks.
+Among them a bride must hide from her father-in-law,
+and in his presence must conceal her face with a kerchief.
+For a whole year she must not say a word to him, or even
+mention his name. In his presence, or in that of her elder
+brother-in-law and the eldest sister-in-law, she may not
+appear bare-headed or bare-footed. The same takes place
+in the behaviour of the son-in-law towards his wife’s father
+and mother.!
+
+
+PERSONAL NAMES.
+
+
+Though the prehistoric Finns had no surnames or family
+names, no doubt they had something corresponding to
+clan names, and gave names to their children. It is not
+easy to ascertain on what principle they did so, as the
+light thrown on the subject by existing or recent practice
+is far from clear. But, on the whole, it would seem that
+the element of chance was an important factor in deciding
+the momentous question how a child was to be called.
+The first person or natural object fortuitously encountered
+by the name-giver was accepted as a supernatural coincid-
+ence, so that the imposition of his or its name on the new-
+born child would naturally be accompanied by luck. In
+the middle of the last century, according to Le Brun, a
+Samoyede child was named after the first man or beast
+that entered the hut, or after the first they met on going
+
+
+en (Out, OF after the first object they set eyes upon, whether
+
+
+1 Smirnov, (2) p. 160.
+
+
+196 PRE- AND PROTO-HISTORIC FINNS
+
+
+beast, bird, river, or tree.! In the heroic ballads of the
+Ostiaks the name of an old prince was, ‘The rotten elderly
+hero, the chick of a large grebe, a little grebe’s chick that
+has rotted for three hundred years.’? But a name of this
+sort could not have been given at birth. More than one
+hundred years ago, speaking of the Ceremis, Georgi states
+that a name was given toa male child by the first. male
+friend that arrived, and to a female infant by the first
+female friend or neighbour that looked in. Further, that
+a husband never called his wife by her name, but simply
+‘woman,’ vata, and she called him mari, ‘man, Ceremis.’®
+To the Mordvins of former times the naming of a child
+was a very important matter, and one had to be chosen
+that would bring luck. The father went out of the house,
+and the first living or inanimate object that caught his eye
+was given as a name. Hence such names as ‘Splinter,’
+‘Leaf,’ ‘Grass,’ etc. The name Smith is common enough,
+which shows the first person met was of that trade; Fiddle,
+for a similar reason, is likewise common.* Among the
+Votiaks the name of a new-born child was formerly given
+by the midwife. At present this has fallen into desuetude
+in the district of Glazov, unless the babe is female. In that
+case the midwife gives it the name of the vorsud to which
+the child’s father belongs. Till her marriage she is never
+called by this name, but at her husband’s house she is
+always called by it till death, and her children are called
+after the vorsud of their father. In the government of
+Kazan a child born in the ploughing season might be
+called Gere, from geri, ‘a plough’; if in harvest-time, a
+suitable name is Uvakat, from surak, ‘a sickle.’ To break
+1 Le Brun, p. 14. 2 Patkanov, (x) p. 11.
+3 Georgi, ii. 840. 4 Mainov, (2) pp. 13, 14; (3) pp. r2, 13.
+
+
+THEIR PREHISTORIC CIVILISATION 197
+
+
+the run of ill-luck, when several children have died in
+succession, the name Zukéar, ‘Stay!’ is given.! Another
+author mentions that Wolf, Bear, Squirrel, Thrush are
+common male names, and are given to children born at
+the season when these are hunted or caught; but that
+nowadays women, till married, are called by their Russian
+baptismal names, and after that by the name of the village
+they come from.? In some parts of the district of Glazov
+the practice is different. The husband does not call his
+wife by her own name—a woman has two names—but by
+a maternal one that she inherited from her mother, and
+she in turn from hers. At birth the midwife who gives
+the name to the new-born daughter says, for instance:
+‘Be good Cabia, Ebga’ (the mother’s name). Professor
+Smirnov sees here an undoubted survival of the maternal
+system. The mother yields her right to the father to
+transmit his name to his son, but keeps her right to hand
+down her name to his daughter.’ But as the second name
+is of the nature of a surname, and the wife in ancient times
+had practically no rights, this use has all the appearance
+of a very modern development, dating from a time when,
+with the increase of civilisation, some freedom of will was
+allowed to married women. If a Lapp child became ill,
+or cried excessively, the reason was that it had been given
+a wrong name. It was therefore rebaptized, and from this
+cause a Lapp might have three or four additional names.‘
+
+
+THE Hovusst, DoMEsTic OCCUPATIONS, ETC.
+
+
+The settlements of the prehistoric Finns must always
+have been on or near the bank of a river, or along the
+
+
+t Gavrilov, (1) pp. 168, 169. 2 Buch, p. 108.
+8 Smirnov, (2) pp. 137, 138 . 4 Friis, p. 127.
+
+
+198 PRE- AND PROTO-HISTORIC FINNS
+
+
+shore of a lake, as everywhere traces of neolithic man are
+found in such obviously suitable localities. The dwelling
+in which the prehistoric patriarch lived and ruled his family
+was far from luxurious. That used in summer was little
+more than a screen for the fire that burned in the centre.
+It was a more or less conical structure of light poles, cut
+or broken from trees, the lower ends of which rested on
+the ground, while the upper ends inclined towards the top,
+leaving an aperture for the escape of the smoke. This
+framework was covered with bark, hides of wild animals or
+with sods of turf and was entered by a door that very likely
+faced towards the south. Such a primitive dwelling still
+survives as an Outhouse for cooking in the F. ofa and
+the portable Lapp tent, goatfe. The name, though not
+the original shape and structure of the house, is still
+preserved by the Mordvins, Ceremis, the Permian group,
+and the Ostiaks, and therefore takes us back to the first
+period. For the rngorous winters of the north such a
+habitation was manifestly quite insufficient, and to protect
+themselves better against cold they lived in winter in huts
+that were partly underground. An excavation of suitable
+size was dug with some kind of rude implement to a
+. sufficient depth, was roofed over with poles and then
+covered with sods of turf. Such a dwelling is termed gort
+by the Permian and is found in great numbers in the
+government of Vologda in groups of from ten to fifteen ;
+it is also known to the Ostiaks under the name of ¢a/
+xot or ‘winter hut.’ As the F. Auone ‘a house, a room,’
+seems to have meant ‘a warm, snug place,’! it may
+originally have been an underground winter hut.
+
+Though there is no common word for village, it is not
+
+
+1 Settill, (x) p. 270.
+
+
+THEIR PREHISTORIC CIVILISATION 199
+
+
+likely the ancient Finns lived permanently in isolated
+dwellings far from neighbours.
+
+As a word for ‘fire’ (F. sss) is common to all the
+Ugrians, the East and West Finns, it may almost be
+inferred that it was neither sacred nor an object of worship,
+though its warmth must have been appreciated. For
+‘door’ there are two sets of words: F. 00%, Vog. dvs, ex,
+Ost. ow, and F. wkst, Lap. wks, ufsa, Z. 6ds'ds, 0s, 6bds, V. Os.
+The only common words for an enclosure of any sort
+outside the house seems to be F. piha ‘courtyard,’ C. pede
+‘a fence.’! For outhouses and storehouses, though there
+are often native words, yet each term is confined to a single
+group. Ai place fortified by a rampart and ditch to serve
+as a refuge from attack was unknown in remote prehistoric
+times, though in the protohistoric period forts were much
+used by the Ugrians and by both branches of the Finns.
+The furniture of the hut was almost #7; tables, chairs,
+stools, etc., were unknown, but they had prepared skins
+of animals to spread on the ground for sleeping and sitting
+upon, and were therefore not so badly off after all.
+
+Besides looking after the children the women had a
+variety of occupations. With half-closed eyes smarting
+from the smoke that filled the hut, they plied their coarse
+bone needles (F. dima, L. athme, C. im, Z. jem) threaded
+with sinew, (F. suonz, L. suodna, M. san, V. and Z. sén,
+Vog. tan) while making boots (F. kenkd, L. gam, M.
+hima, C. hem, Z. kém) or other articles of dress. Or
+taking up a bundle of fibre made from some kind of nettle
+by means of a spindle and whorl, (F. etyd, M. istir,
+
+. Sidir, V. ers, Z. dors) they span (F. punoa, L. padnam,
+M. fonan) it into thread (F. syy. V. and Z. s#) and wound
+
+1 Settila, (1) p. 274.
+
+
+zoo PRE- AND PROTO-HISTORIC FINNS
+
+
+it into a ball (F. Revd, M. kirnd). This could be used
+in two ways; for ‘sewing with wide stitches,’ (F. Aseria,
+E. M. &urje)! or for weaving (F. kutoa, L. godse4, M
+hodams, C. kuo, V. kuni, Z. kini). The loom of cours
+was a very rude and simple apparatus, but they attached
+the threads of the warp (F. /oimi, M. ima) to one end of
+it, worked in the woof (F. Aude, L. goda, V. kuon, 1.
+hian; M. afks=ats in Esth. ats-gol ‘a shuttle’*) and thus
+manufactured woven stuff (F. kutéama, M. kotf, V. zuon,
+Z. kian). Perhaps the shuttle was not used as there is
+no common term for it, though several native ones are
+to be found. Though sewing and making boots must have
+been practised in the first period, the existing words all
+belong to the first half of the second period, as well as the
+terms for spinning and weaving.
+
+The cookery was decidedly plain. Fish and flesh were
+generally eaten raw, but fat meat must have formed the
+basis of the ‘ broth’ (F. dems, L. Hebma, M. M. dim, E. M.
+lem ‘grease,’ Vog. lom) they had learnt to prepare, and
+this must have been boiled in some kind of pot that would
+resist fire or into which hot stones could be dropped. For
+holding liquids there were wooden bowls (F. mafa, M.
+mal'anka),’ and for solids they had plaited baskets (F. vakka,
+M. vakan(?)). Like all inhabitants of the north the pre-
+historic Finns of the first period, when they could get it,
+ate fat (F. v0%, M. vat, C. ad, V. 06%, Z. vii, O. vot, Vog.
+vot); in later times the word was also used for ‘butter.’
+There is no common word for ‘milk,’ showing there were
+no domestic milking animals in the first period. But
+before the end of the second period the Mordvins and
+
+
+1 Paasonen, (1) p. 316. 2 /bid., (1) p. Be
+8 /did., (1) p. 20.
+
+
+ag
+
+
+THEIR PREHISTORIC CIVILISATION 201
+
+
+West Finns had learnt how ‘to milk’ (F. 4saé, Z.
+listint'=M. lofsa, ‘milk’), and to churn (F. pydhtad, M.
+pistoms)* the milk into butter.
+
+The oldest prehistoric weapons were the bow and arrow,
+the words for which with little change are found in the
+Ugrian, East and West Finnish languages. Whether the
+bow was simple or compound we do not know. At any
+rate the Ostiaks, who are far from being a progressive
+or inventive people, used in the thirteenth or fourteenth
+century and still use a bow composed of two kinds of
+wood fastened together with fish glue and then bound
+round with birch bark. The lower half was of very hard
+pine, the upper part of birch. Though the string is now
+made of hemp, in ancient times it was doubtless of sinew.®
+Besides the pointed arrow they also used the blunt-headed
+kind, F. vasama, though there is no common word for it.
+F. veitst ‘a knife,’ which corresponds with M. z#ks ‘a
+scraper,’* and F. ora, M. ura, uvo ‘an awl’ or instrument
+for boring holes may originally have been flint or bone
+instruments.
+
+In winter the hunting expeditions were made on long
+wooden snow-skates (F. suksi, M. soks, Ost. fox, Vog. tout).
+In summer they travelled in ‘boats’ (F, veneh, L. vanas,
+M. vens) which they ‘rowed’ (F. soutaa, Vog. tovantam)
+and steered with a ‘paddle or steering oar,’ (F. mela, L.
+mlle, M. mila). But this class of boat and paddle belongs
+to the later half of the second period. The sleigh appears
+to have come into use at a much later time as there is
+
+
+1 The original meaning of these words, preserved in Zjrian, is ‘to press
+out,’ so that ‘to milk’ is a secondary and more specific meaning.
+
+2 Paasonen, (1) p. 22.
+
+3 Patkanov, (1) p. 29 4 Paasonen, (1) p. 41.
+
+
+202 PRE- AND PROTO-HISTORIC FINNS
+
+
+nothing in common between the East and West Finns in
+this respect, though F. ofja, M. vogja, ‘a rein’ if genuine
+and not loan words,! indicate that driving was known by
+the close of the second period. A primitive mode of
+catching fish would be to dam up a small stream with a
+‘dam or weir’ (F. pato, N. Ost. pot), and capture them as
+they passed through a small opening. Nets were probably
+unknown in the first period, but in the first half of the
+second they invented ‘wicker traps’ (F. merta, M. mereta,
+C. murda, V. murdo, Z. morda) for catching fish, which
+undoubtedly formed a most important article of food.
+About the middle of the second period agriculture began
+to be practised, for though there are no common terms to
+express ploughing and sowing, those employed are taken
+from the native stock of words. The earliest grain may
+have been the humble variety of wheat known as ‘spelt’
+(M. of5, C. vist < * vi¥n, V. vaz’), forms that correspond
+with F. vehnd, ‘wheat,’ though the Hame have another
+word for the same grain, #fsv. Besides these the East and
+West Finns have several apparently native words for
+cereals, which are confined to one, or at most two groups :
+M. fo72'uro, ‘ wheat,’ is evidently a compound of s‘wro, ‘corn’;
+M. sus, C. sok, ‘barley’; Vtk. sid, Zir. id, ‘barley,’ perhaps
+connected with F. ide, ‘a growing shoot’; F. ofva, okra,
+‘barley’; M. pineme, ‘oats,’ and Vtk. s‘est, ‘oats.’ As
+Mr. Paasonen equates F. swurima, ‘groats,’ with M. s‘uvo,
+s‘ora, ‘corn, grain,’ (Zir. sdér, ‘oats’); F. sét-kanen, ‘the
+beard on grain, chaff,’ with M. s‘iva, C. s'w, ‘chaff,’ and
+Z. s', ‘corn, rye’; F. Ayrsd, ‘a loaf, bread,’ with M. &sa,
+ki, ‘bread,’? there can be little doubt that one or two
+cereals were known and used as food about the middle of
+1 Paasonen, (x) p. az. 2 [bid., (x) pp. 34, 30, 17.
+
+
+THEIR PREHISTORIC CIVILISATION 203
+
+
+the second period. The cultivation of the soil must have
+been of a very primitive description and no doubt was left
+to the women and ‘slaves’ (F. ovja, M. M. u#é), who
+scratched the surface of a plot of ground near the dwelling
+with a pointed stick, threw in a few handfuls of grain,
+covered it over with earth and waited till it grew up. When
+ripe the grain was separated from the ‘straw’ (F. ofkt,
+M. olgo) and ‘ground’ (F. jaukoa, M. jazams) between a
+couple of stones. :
+
+In the first period the year was only divided into ‘ winter’
+(F. talvi, L. daluve, M. fala, C. tele, V. tol, Z. tél, Vog. and
+Ost. fa/) and ‘summer’ (F. esd, suvi, L. gesse, M. hiza,
+Z. gosim, Vog. tuv). It was only in the second period
+when the state of the crops drew their attention to it that a
+word for ‘autumn’ (F. syésy, L. cakéa, M. soks) was found
+to be necessary. Some of the natural measures of length
+seem to have been in use at a very early period. The
+‘fathom’ has a very wide range (F. sy, L. sai, M. sel,
+V. and Z. s#/, Vog. tal, Ost. dal); the ‘ell’ (F. kyyndrd,
+M. kener, C. kun‘er, V. gir (?)) and the ‘span’ (F. vaaksa,
+L. vuopse, M. vaksa, Z. ves't) have a less range. In the first
+period they could only count up to seven; by the time
+they needed a term to express ten, they were already
+divided into four groups—a West Finnish-Mordvin, a Lapp-
+Ceremis-Vogul, a Votiak-Zirian, and an Ostiak group. The
+last two groups borrowed their terms from a Persian and
+Turkish source respectively. It was only at a later time
+that much was done in the way of ‘counting’ (F. dskea,
+L. lokkat, M. luvan), ‘paying’ (F. maksaa, L. makset, M.
+maksan (I give), and ‘selling’ (F. myydé, L. mieggaé, M.
+mijan, Vog. migam).
+
+
+204 PRE- AND PROTO-HISTORIC FINNS
+
+
+THE METALS.
+
+
+One of the great turning-points in the history of a people
+is the introduction of the use of metal and the gradual
+disuse of stone implements. The first metal that became
+known to the Finns may have been copper, though no
+distinction was made between this and bronze.
+
+
+Copper, 1
+
+Metal, 2 F. Lapp. Mord. Vog. Ost. Magy.
+Wire, 3 [| vaski,1,2 vetk, us'k'd, VOX, 2 vax, vase
+Iron, 4 vetkke,1,2 vis'k'a,) 3 vex, 2,4 val,4
+
+
+At the present time the Ostiaks use vax, vox in the
+general sense of ‘metal, money,’ and in some places ‘iron.’
+When they wish to be explicit they prefix patar or vosta,
+‘green, yellow,’ when they mean ‘copper’; sav#, ‘ white,’
+when they mean ‘silver’ ; and ef, which Castrén translated
+by ‘simple,’ when speaking of iron.’ Among the Voguls
+vox has also the meaning of ‘money, metal,’ though in
+some places it means ‘copper.’ Taking everything into
+consideration it seems best to suppose that the original
+meaning of vox, vax was ‘bronze,’ with its necessary con-
+notation of ‘metal.’ Another word for ‘copper’ alone is
+confined to Vogul, Ceremis and the Permian group.
+
+Cer. Vik. Zir. Vog.
+voirgen'e i7g0n ivgin Grgin
+
+As this set of words has only one meaning and is
+never used in the sense of metal it is probably of later
+origin than the vashs-group.
+
+The next metal to be noticed is ‘silver,’ for which the
+West Finns have a special name, Aogea < Sopeda, not
+found, however, in the Eastern groyps or among the
+
+1 Paasonen, (1) p. 40; Wichman, (3) p. 23.
+
+
+ee Se
+
+
+THEIR PREHISTORIC CIVILISATION 205
+
+
+Ugrians. But the Permian and Ugrian groups have a
+very interesting and puzzling series of words for this metal
+which cannot well be separated from the terms for ‘tin,
+lead.’ Some of them have the appearance of being com-
+pounds, the last part of which is believed by Mr. Wichman
+to be of the same origin as F. vaskz, Vog. Ost. vox.}
+
+
+Ost.
+
+
+navi-vox, in| dlin ash, exist dvteste,
+
+
+avusist
+
+
+atued, atkues | dlom, én \<asvist
+gaim atuci | dn
+
+
+Dr. Munkacsi maintains that the Osetan is the original
+source from which the Permian group and the Magyars
+obtained their word for ‘silver,’ but this is denied by
+Schrader, Hiibschmann, and Wichman, who consider, on
+the contrary, that the Osetan form is borrowed from an East
+Finnish source. The latter, starting from the Vtk. asves’,
+analyses it into az, ‘ white,’ and ves’, ‘ metal,’ the equivalent
+of F. vaskt. But the grounds on which he makes az to
+mean ‘white’ seem to me very precarious. Dr. Munkdcsi
+took down a Votiak magic song in which the word aziz
+occurred as an epithet of a ‘hill’ and a ‘prince.’ The
+word was unintelligible to him, but his Votiak teacher
+explained it by what looks very much like a piece of folk-
+etymology. As #z means a ‘stone,’ he explained that zz
+was a ‘stone’ and az ‘a very heavy white stone.’ The ex-
+planation not being very intelligible, Mr. Wichman supposes
+that as must mean ‘white,’ and azés ‘white stone.’? But it
+seems to me that the teacher did not really understand the
+
+
+1 Wichman, (2) p. 23. 9 /id., (2) pp. 23, 24.
+
+
+206 PRE- AND PROTO-HISTORIC FINNS
+
+
+word and merely hazarded a guess. As a good many
+Arabic and Persian words have crept into Votiak through
+a Tatar source, I rather suspect this is the Arabic-Persian-
+Turkish ’azsz, ‘precious, respected, powerful,’ a fitting
+epithet for a ‘prince’ and one that under certain circum-
+stances might be applied to a ‘hill.’
+
+Referring back to the list above, we notice: (1) that the
+word for ‘silver,’ common to the Permian group, to
+Magyar and Osetan, is not found in Vogul or Ostiak ; (2)
+that the Ostiaks use a compound word meaning ‘white
+metal’ instead, and the Voguls a word that corresponds
+with the Magyar for ‘lead’; (3) that in the Permian group,
+lead and tin are either distinguished as black and white
+usves or no distinction is made at all; (4) that the Vogul
+for ‘lead’ seems to be the same as the Permian, Magyar
+and Osetan for ‘silver,’ as Vog. # is often the equivalent of a
+common Finnish s, s; (5) that the Permian, Magyar, and
+Osetan for ‘silver’ seem to be compound words; (6) and,
+that as the words for ‘tin’ in Vogul-Ostiak mean ‘white
+lead,’ ‘male lead,’ much as in the Permian groups, we may
+neglect the word for ‘tin,’ and confine our attention to
+‘silver’ and ‘ lead.’
+
+From the fourth observation we are led to suppose that
+the older meaning of Vog. atves was ‘silver,’ not ‘lead,’
+though it is by no means certain. It might also be
+imagined that afves was borrowed from the Vtk. asves, s
+being replaced by 4, a phonetic change that certainly might
+take place. But this does not account for the form atkues,
+where ues seems to be the Ost. Sam. mes ‘iron, metal,’ a
+word that in other Samoyede dialects appears as ese’, vese,
+bese, basa, basa. In the short excursus at the end of this
+section it will be seen that all these forms, including ues,
+
+
+THEIR PREHISTORIC CIVILISATION = 207
+
+
+go back to an original form beginning with vor 7. The
+Osetan and Permian forms seem to show that the original sibi-
+lant was an s not an s sound, as in Magy. ezist, Vog, atveé.
+If this is so, still the probability that Vog. atves< atves is
+a loan from the Votiak is considerably lessened by the con-
+sideration that there is also a Sam. vese.
+
+Corresponding to and probably of the same origin as
+the Samoyede words for ‘iron, metal,’ are ‘Magyar vas
+‘iron,’ Vog. Ost. vox ‘copper, metal’ and F. vas&i ‘ copper.’
+The word in Northern Asia and Siberia that corresponds
+best with the Samoyede forms is undoubtedly the Turk.
+jes, Mong. dzes, Burj. sef (<jes, jet) ‘bronze, copper,
+metal.’ As the Turks have a word for ‘copper’ only, the
+oldest meaning may have been ‘bronze’; and as in one
+Samoyede dialect we find that initial 7, v, are equipollent,
+it seems possible to suppose that ;@se’ was borrowed directly
+from a T. es and dialectically became vese, vasa.
+
+If this is correct the West Finnish, Vogul, and Ostiak
+for ‘copper, metal,’ the Magyar for ‘iron’ and the second
+part of the words for ‘silver’ in Permian are all referrible
+ultimately to a common form jes, which is also found in
+Turkish and Mongolian. Whether the last two peoples
+obtained it from a still more remote source must be left
+undecided. I imagine that the diffusion of the word took
+place in this way. From the Altai region, where copper is
+abundant and tin is also found, jes, with the meaning
+‘bronze,’ gradually spread through the medium of Samo-
+yede tribes to the Ugrians living chiefly on the east side,
+but also in considerable numbers on the west side of the
+Urals, reaching them not later than the sixth century B.c.
+and possibly a good deal earlier. From the Ugrians, under
+the form vas, it was passed on to the West Finns, Mordvins
+
+
+208 PRE- AND PROTO-HISTORIC FINNS
+
+
+and Lapps, who added the suffix-ke, 4'é, perhaps merely a
+diminutive that did not essentially affect the meaning.
+This hypothesis receives support from the facts recorded
+in chapter ii., for the earliest bronze socketed celts, found
+in the north of Finland, in Lapland, at Andnino, as well
+as in other parts of the government of Viatka, are all of
+transuralian form, the aperture of the socket being always
+angular, never circular in section. The battle-axes from
+the coast of the White Sea and Andnino are also of
+Siberian type. While the crania from Fatidnovo, associated
+with minute pieces of copper and iron, seem to be Ugrian.
+
+As the Magyar for iron is vas, and the Vogul-Ostiak for
+‘copper, metal,’ is vox, vuax, it is clear that the second
+part of their words for ‘silver,’ ‘lead’ (-sést, -ves) are
+borrowed. And if Vog. -ves, -kues are borrowed, as sug-
+gested above, from Samoyede dialects, they do not stand
+alone. Ahlqvist has noted eighteen Vogul or Ostiak words
+borrowed from the Samoyedes and among them aftkues.}
+Perhaps, too, the Ost. satay, which has no meaning by
+itself, in pafar-vox ‘copper’ is the Ost. Sam. pada/ ‘ green,’
+probably ‘yellowish green’ as it is a derivative of fad ‘the
+gall.’ The Mordvin word for copper also means ‘green.’
+It still remains to explain the suffix -/e, -¢ found in the
+Magyar and Osetan words for silver. In Samoyede, the
+breathing marked by ’ as in ;ése’? can sometimes be traced
+back to lost dental as in the Jur. 7#’. Tav. 42’, Jen. 32’,
+‘water’ compared with Knd. os¢. O. wt ‘water.’ The
+older forms of 7ése’, vese may therefore have been *jese¢,
+*yeset, or *jesete, *vesefe, and from this would arise the
+Magyar -tést < *veste, which occurs as a loan from the
+Magyar in the Osetan -vs¢, -veste.
+
+
+1 Ahiqvist, (3) pp. 5-8.
+
+
+———_—~ ir
+
+
+THEIR PREHISTORIC CIVILISATION 209
+
+
+The origin of the prefixes ¢s-, az-, a¢-, in the words for
+‘silver’ requires explanation, if we reject that of Mr.
+Wichman, and I offer the following suggestion instead.
+
+Castrén explained the Ost. e#-v0x ‘iron’ as ‘simple metal.’
+Owing to its form and meaning it is difficult to separate
+this from the Ost. s¢-vuay ‘steel,’! the first part of which
+is evidently connected with Vog. semfan, Vtk. andan, Os.
+andan ‘steel,’ all from a N. Pers. hAundwani, hindawani,
+hindi, ‘Indian steel,’ see p. 234. As initial 4 is regularly
+dropt in Osetan, and the Permian group has no 4, it is
+uncertain whether Vtk. andan is a direct loan from Osetan
+or vice versé, or whether both borrowed from a common
+source. Here the za#-is clearly adapted from one of the
+N. Pers. forms, and i#t-vway is a folk-etymology containing
+as an ingredient wuay ‘metal,’ the s## being unintelligible.
+This being the case it is possible to suppose that dialectically
+the # may have dropt out and the result was efvox ‘iron,’
+‘steel(?)’ The first member of this compound is perhaps
+the same as the af- in Vog. atves, atkues ‘lead.’ If the
+last part of this is a loan from the Samoyede, and a¢?- is
+not of Samoyede origin we must suppose that at one time
+the Voguls used ves, *ves, *veste concurrently with vox as an
+independent word, and the Magy. wsf ‘silver’ seems to
+confirm this, though the old meaning is changed. The
+loans voy <<* vas, ve¥<* vesfe must also have been made
+at different epochs, From some such form as *efvesfe the
+Magyars formed ezveste, in which form it was taken by
+the Osets, and subsequently ezii7. If there is anything |
+in this suggestion, the Magyar word for ‘silver’ once meant
+‘Indian metal,’ and the Permian equivalents of F. vaskz
+
+1 Tomaschek, (2) p. 42, gives this form, which was unknown to Castrén
+and Ahlqvist.
+
+I O
+
+
+210 PRE- AND PROTO-HISTORIC FINNS
+
+
+viz. -ves’, is’ were introduced quite independent of the
+Finnish and at a much later date, but also through an
+Ugrian channel.
+
+To account for the Permian words for ‘lead,’ ‘tin,’ there
+is the N. Pers. arsiz, ‘lead, tin,’ from which they might
+be borrowed with the loss of 7, as in Vtk. Juges, ‘an eagle,’
+from Os. cdérgds (¢=ts), N. Pers. kargas. In this case the
+inserted » in seves’ would have followed the analogy of
+asves’, while the original is better preserved in the Zir.
+osis, As the N. Pers. arsiz is itself a loan word from the
+Ar. vasas, ‘lead, tin,’ the Permian words, if this view is
+correct, cannot be older than the seventh century a.D.
+There is no silver or tin in the Ural Mountains, so that in
+any case the East Finns and Ugrians can only have seen
+these metals as imported articles. Galena, on the contrary,
+is found in a good many places in the above region, though
+it does not appear to have been utilised in prehistoric times,
+all the so-called Cudish mines being of copper or gold.
+
+The next metal that followed in the wake of bronze and
+copper in North-eastern Russia was probably iron, how
+long after we cannot say, though the interval may not have
+been very great, for a small piece, evidently very precious
+and embedded in a disk of copper, was discovered at
+Fatidnovo. As all the names for it are borrowed, they will
+be mentioned in a later section. Gold may have followed
+next, as the loan words for it in East Finnish and Ugrian
+were borrowed about the same time as those for ‘iron’ and
+from the same source. On @ frtori grounds we should
+expect gold to be known much earlier than silver, the ore
+of which is difficult to reduce, while the other metal is
+often found in nuggets. But at present the place at
+which the earliest finds of gold objects have been made is
+
+
+THEIR PREHISTORIC CIVILISATION 11
+
+
+Gliadénova, though only to the number of three out of about
+23,000, while a few silver articles were obtained not only
+there, but also at Andnino. The introduction of terms for
+‘metal,’ ‘bronze,’ and ‘copper’ may therefore be set in the
+latter part of the second period ; for ‘iron,’ ‘gold,’ ‘silver,’
+and ‘lead’ in the third period for the East Finns, but not
+till the fifth period for the West Finns, with the exception
+perhaps of silver.
+
+Though there are forms in Mordvin and Ugrian cor-
+responding to F. vaéaa, ‘to cast (metal), to pour out
+(any fluid),’ there are no common words for ‘mine,’
+‘crucible, ‘ bellows,’ ‘moulds,’ and other apparatus neces-
+sary for an artificer in bronze, when casting alone was
+employed. This is to be explained by the very simple
+appliances used, which scarcely required a technical expres-
+sion, and by working as a rule on a small scale. For
+instance Ostiak women still cast their own tin ornaments
+in moulds of pine bark made by themselves,! and a recent
+English visitor of the Island of Kolguev describes how he
+saw a Samoyede make a ring. Round a stick he cut a
+groove, fitted a piece of paper over it, and then ran in
+some white-looking metal which he had heated in the fire
+in a hollow piece of wood. The wood of the stick was cut
+away, the ring removed, and finished with a knife and sand.
+He worked away till he had a ring as well and accurately
+shaped as any plain gold signet ring. Though this mould
+was of wood, the Samoyedes use bullet moulds of stone set
+in a pair of wooden scissors. As the anvil, the sledge-
+hammer, the forge-fire, and the smith himself only became
+a necessity when iron was abundant, it is not surprising
+
+
+1 Martin, (2) Tafel, 4.
+2 Trevor-Battye, /cebound on Kolguev (Westminster, 1895), pp. 172, 298.
+
+
+212 PRE- AND PROTO-HISTORIC FINNS
+
+
+that though for some of these expressions there are native
+words, none of them are common to two groups unless
+
+
+they are loan words. .
+
+It might be supposed that Aves is either a different word or
+that it retains an original 4 that the other dialects have lost.
+This, however, is not the case. There are at least a dozen
+words in which Jurak 7, v, Jenisei, Tavgj, and Kamasin 4 are
+represented in Sam. Ostiak by 2 And@ first it must be observed
+that the Tavgj and Jenisei dialects have no wv, J, so that the
+equivalent of an initial v, f, in Jurak is perforce 4, 7, in these
+two dialects. In Sam. Ostiak no word can begin with a soft
+consonant or with 7. In Kamasin v is not an initial sound,
+and sonant stop consonants in that position are rare. The
+instances in which Ost. & correspond with Jur. /, v, Jen. Tav.
+Kam. 4 are to be explained by 4 being exchanged for g which
+hardened initially into &. There are a good many words in
+which Jur. has initial 4 and all the others 4, showing that the
+latter was the original sound. There are also a good many in
+which Jur. Jen. Tav. begin with 7, but Ost. with 7, & and Kam.
+with 7; here the original initial was doubtless 7.
+
+
+| Jurak. | Jenes. | Tevei. | Kamasin on |
+r. Fish-hook bat buda kote
+
+
+2. Dog . _| ganda, ) tn buno bafi | men<ben! kanak
+
+
+jéd’u, .
+3. Bowel, gut vet je bere<bede | beatufi | bedti kiite
+4. Ten. . ane br bied kt
+s. Sturgeon {ten \! bean bakuna kuagan
+6. Ariver .j| jaha jaba bigoi ‘aga ki’, kege
+7. Superfluous| vata, va' | bodadde badatua kue, kuefi
+
+
+8. Left (side) | vadisei | bodi'o badi'e kuedagi
+9. Acrow . | varia bari kuere
+
+
+id
+
+
+THEIR PREHISTORIC CIVILISATION 213
+
+
+No. I is an interesting example, the original being the White
+Russian vuda, Gr. Rus. uda, ‘fish-hook.’ Fish-hooks were
+probably early import articles of the Great-Novgorodian mer-
+chants trading in Siberia, and were found more serviceable
+than the old native ones of bone.
+
+No. 3 may be compared with M. gefesdn, Burj. gefehef, ‘bowel,
+guts,’ but the relations between Mongol and Samoyede have not
+yet been worked out, so that it proves nothing. No. 6 is not
+quite regular; the Kam. “aga and Jen. jaka come from aga,
+not from vaga as we should expect; all the forms may be
+compared with N.O. jogan, F. jokt. In No. 9 varfia is the
+same as N.O. vorga, vorfia, ‘a crow’; the Vog. uerex, judging
+from the vowels, is borrowed from the Sam. Ost. éuere, and
+this may be compared with Mng. éertje, ‘a raven,’ though the
+resemblance is possibly accidental. From the above it is quite
+evident that the initial £ in 4ues is not original, and that most
+likely it was v, as initial 7 in a number of instances becomes in
+Kam. 7, in Sam. Ost. #, 2, and even occasionally &. There is
+just one exception in the 7 and the ~ series.
+
+
+Water j,uvit bb bf bu wut, ot.
+Fat jer jo jir uér, Or.
+Comparing the first set with Mng. usus, ‘ water’<*ufun (?), it is
+
+
+likely that the original initial was «, #, which has been retained
+by Sam. Ostiak intact ; the same may be true of the next line.
+
+
+DoMESTIC ANIMALS.
+
+
+The animal first domesticated or enslaved, and that in
+the first period, was the dog. There is a term for him
+common to all the East and West Finns as well as to all
+the Ugrians. Whether he was used for drawing burdens
+cannot be stated with certainty as there is no common
+expression for ‘sledge,’ but every hunter must have been
+followed by a woolly-haired, sharp-nosed, savage, and ill-
+
+
+ne
+
+
+214 PRE- AND PROTO-HISTORIC FINNS
+
+
+fed dog. If he was used for draught the burden was
+probably attached to two light poles, the upper ends of
+which were fastened to a sort of collar, while the lower |
+ends trailed along the snow.
+
+In the archzological chapter we learnt that before the |
+close of the neolithic age, that is to say, towards the end |
+of the second period, the principal domestic animals, the ~,
+horse, ox, sheep, and pig were known to the settlers on |
+the Central Volga, between Kaz4n and the mouth of the
+Kama, and that at the Station of Burtneek in the far west,
+the ox, sheep, and, perhaps, the horse, were also known.
+
+As by hypothesis the East and West Finns were in pos-
+session of the upper Volga valley at a still earlier PCT ries
+it follows they must have acquired the knowledge of ~
+domestic animals from some other more civilised people,
+for though there were wild cattle and wild swine in the
+region they inhabited, there were no wild sheep or wild
+horses. If the Finns had brought the domestic animals
+with them from Asia into Europe, they must have entered
+the country by a much more southerly route than is
+generally supposed. The country east of the Urals, in
+the governments of Perm and Tobolsk, was densely
+forested, was studded with impassable morasses, and was
+quite unsuited for sheep, horses, and horned cattle. Even
+at the present day the Ostiaks hardly keep any, and in
+their epic poetry, though much is related of lifting herds
+of reindeer as well as of feasting, the sheep is never once
+mentioned, and the horse appears rather as a legendary
+animal. In fact, till the Finns became civilised and pro-
+vident enough to cut and stack a supply of hay for the
+long winters they could have kept neither sheep, cattle,
+nor horses in such a region. The only possibility of keeping
+
+
+THEIR PREHISTORIC CIVILISATION 215
+
+
+these animals in high latitudes is when certain conditions
+are fulfilled. It is necessary that large tracts of pasture
+should be free from snow all the year round. In a flat,
+forested region like the valleys of the Central Ob and the
+Irtish the snow lies far too deep for horses and cattle to
+reach the herbage below. It is only in mountainous tracts
+like the Altai, where hillside terraces and shallow valleys
+are exposed to violent blasts of wind, that sweep away the
+snow, that animals can be maintained in the winter months
+without the necessity of providing them with artificial
+fodder. The northern limit of the sheep under natural
+conditions starts from near the north corner of the Caspian
+and passes through the intersections of Lat. 50° N. Long.
+60° E. and Lat. 57° N. Long. go” E.}, or roughly speaking
+from the north-east corner of the Caspian to Yeniseisk.
+
+Next to the dog the name for ‘sheep’ has the widest
+range among the Finno-Ugrians, and its natural habitat
+shows the Finns could not have known it before they
+entered Europe.
+
+
+Fin. |M. M.| E. M. | Vtk.| Zjr. | N.’Ost.| S. Ost. | Vog. | Magy.
+
+
+ee | ES |
+
+
+Sheep 1] ué#éu 2 | wcax | utsat
+
+
+Ewe2 | uxuhi< | ... oe «| $32 Bx o}, os OF, ax of | wht
+ase 2
+
+
+The Ostiaks and Voguls used of as a generic term, and
+to distinguish the sexes prefix ‘male,’ ‘female,’ while a
+lamb is a ‘sheep’s young one.’ Asa rule such a nomen-
+clature is not that of a pastoral people, who generally
+have a special term for each sex and each age, though
+
+
+Murray, map 35.
+
+
+216 PRE- AND PROTO-HISTORIC FINNS
+
+
+it is true the sheep-breeding Turks use a compound
+of koi ‘sheep’ to denote a ‘ewe.’ The Ceremis seem
+to have borrowed all their words from a Cuva’ and
+Turkish source, and in Zirian, with the one exception of
+#¥, all the words have a CuvaS, Iranian and Russian origin.
+The Mordvins have perhaps borrowed a word for ‘lamb’
+from an Iranian people, and certainly for ‘ram’ from a
+Turkish and a Russian source. The West Finns borrowed
+a term for ‘ram’ in the fourth or Lithuanian period, but
+they have two native words for ‘lamb,’ one of which
+merely means a ‘yearling,’ and the other (aritsa) is
+evidently formed from avi, a call-word used for attract-
+ing lambs, so neither of these terms is necessarily of
+any great age. It is clear then that sheep-breeding at
+first was on a very small scale, and the Finns could in
+no sense be called a pastoral people. It is also to be
+noted that the West Finns borrowed a special term for
+‘wool’ at the same time that they adopted a new term
+for ‘ram.’
+The terms for ‘horse’ have a much narrower range :—
+
+
+Mord. | Vtk. | Zjr.
+
+
+Professor Setaéla connects the Permian #3 with F. sveh,
+while Dr. Munkacsi equates the former with Os. urs, ours,
+‘a stallion.’! The West Finns have another native word
+for ‘stallion,’ 0774, as well as for ‘mare’ (samma), and
+
+
+1 Setiili, (2) p. 6; Munkacsi, (2) p. 195¢
+
+
+THEIR PREHISTORIC CIVILISATION 217
+
+
+‘colt’ (varsa), but they are not found in the Eastern
+branches. The origin of F. Aevonen, ‘a horse,’ is not
+quite certain, though it is probably a loan word. As
+L. alddo could hardly have been borrowed from the
+Mordvins, I suspect it was really taken from the West
+Finns, who subsequently lost the word, and that the
+older meaning of F. Zhmd was ‘horse,’ not ‘cow.’ The
+Mordvins have also a native word for a ‘foal,’ vase, vasend.
+The Ceremis Bu/o ‘mare,’ Vtk. val, Zir. vél ‘horse,’ if
+not connected with M. d/dé, L. alddo, might be compared
+with Tat. wlak, ula, Cuv. vilix, ‘a draught animal, a
+post horse,’ and if Bz/o is really a loan word, as I
+suppose, then the Ceremis have no native word for a
+horse, for imne ‘a horse,’ jaBaga ‘a foal,’ are of Tatar
+Origin and the Permian group have only one term, all
+the others being Turkish or Russian loan words. The
+Ugrian groups have a special word for ‘horse’ which
+never penetrated westwards :—
+Ost. Vog. Magy.
+fovi, lox, fau (f{=#) bu, lo, & lg
+
+
+Perhaps these are remotely connected with Mong. fagi,
+‘a wild horse,’ otherwise they stand alone. Dr. Munkacsi
+believes that the rich equine terminology of the Voguls
+
+
+and Ostiaks, their preference for horse-sacrifices and horse-
+
+
+flesh shows that once they lived further south in the wilder-
+ness between the Urals, the Caspian and the Sea of Aral.?
+The northern limit of the extinct horse in Europe, is said
+to be a line drawn from the mouth of the Elbe, to where
+Lat. 50° N. cuts the Ural River. Where it has not been
+introduced, the northern limit of the horse is from near
+
+
+1 Munkacsi, (2) pp. 156, 187.
+
+
+218 PRE- AND PROTO-HISTORIC FINNS
+
+
+the point where Lat. 44° N. cuts the Caspian Sea to the
+source of the Yenisei and then eastwards.! If this is
+correct it shows that, till they arrived in Europe, the Finns
+could never have seen a horse.
+
+Though it is probable that horned cattle became known,
+at any rate to some of the Finnish peoples, as early as
+the horse, the terms for ‘ox, cow’ have only a limited
+extension.
+
+
+ee | ee | eee | eee fee | oe
+
+
+Cow r Reindeer
+calf (m. or f.) 2
+
+
+Cowr Horse2_ | lekomnd: ee difmd 2
+Ox, bull .
+
+
+Calfx Reindeer
+calf s Maer OGS2 1,2 oe Vasa I
+
+
+iJ Est.
+Heifer . {| ese. .. |vedaka
+
+
+Dr. Munkdcsi compares Vog. Ost. mis with Zend macst
+N.P. mes, ‘a ewe,’ but as he also compares Zir. med, ‘a
+sheep’ with the same Iranian forms, and the Zinan term
+for ‘cow’ is més, these two Zirian words cannot have a
+common origin, unless Z. més is a direct loan from the
+Ugrian mis Though Z. me¥ might easily be referred
+to a N.P. mes, with the same meaning, the difficulty of
+comparing Ost. Vog. mis ‘a cow’ with N.P. mef is con-
+siderable, apart from the difference of meaning, and I
+suppose it has an independent origin, though borrowing
+may have taken place from Ugrian to Permian, or wice
+vers. He also compares the Permian 05, of, Vog. uska,
+us'ka ‘ox,’ with a Kabardin v5, ‘young bull’ and Znd.
+
+
+1 Murray, map 42. 2 Munkacsi, (2) pp. 186, 192, 196.
+
+
+oe ee
+
+
+THEIR PREHISTORIC CIVILISATION 219
+
+
+ukhéan, Gth. athsa, ‘ox, bull,’ adding that these indo-
+European words agree with the common Turk. dkéz, dgiis
+‘ox, bull.’! As Ost. uges is certainly a loan from the
+Turk. dgis, it is probable that Vog. w#ska, us'ka has
+the same origin, either by metathesis or by contraction
+(us <dgiis) with a diminutive sufix—a. In that case the
+Permian forms seems to be derived from the Ugrian and
+not vice-versa, as the original final s is preserved in the
+latter, while the Permians have first borrowed a softened form
+us'ka and further changed it into oS, of, ofka. Another
+word for ‘cow’ is perhaps also of Turkish origin :—
+
+
+E. Mord. Cer. Vik. S. Ost.  Vog. Turk.
+Cow skal wuthal  sthkaljiskal sadgar sajr <sigir
+
+
+The Ugrian words are certainly Turkish; the East
+Finnish forms are less certain, but if borrowed, the group
+that turned the final » into 4, perhaps the Erza, must
+have handed on the word to the other groups. ‘Tomaschek
+compares with hesitation F. vasa, M. vasa ‘calf’ with Skr.
+vatsa, Ost. vdss ‘calf,’ but as the medial consonant s, 2
+is single, the equation must be considered doubtful.?
+Professor Thomsen is inclined to believe that F. Aechho,
+hehvo, Vote dhkva ‘a heifer’ may be derived from the
+Lith. asva (gen. -ds) ‘horse,’ an older form of which was
+efva, though an intermediate form *ehvo, ehva.2 The West
+Finns have a native word for ‘bull’ sozms, which in
+Esthonian carries the meaning of ‘stallion colt,’ but it does
+not extend further.
+
+The Permians have also several isolated words: Vtk. vais,
+‘a cow in calf’? which may have the same origin as Vtk.
+
+
+1 Munkacsi, (2) p. 186. 2 Tomaschek, p. 13.
+3 Thomsen, (1) p. 146, note 4.
+
+
+220 PRE- AND PROTO-HISTORIC FINNS
+
+
+val ‘a horse’; Zir. foros ‘a bull,’ 4i#* ‘a small ox,’
+probably from the Russian, and s#/’um, ‘an ox, a boar.’
+
+The words for ‘reindeer’ are not widely diffused and in
+some instances borrowing from a neighbour is tolerably
+certain.
+
+
+eee | eee fl ef ee | eee
+
+
+Rein. «i sarda, | vordo
+see wee x, 2
+
+
+The West Finns have several words for reindeer; foro
+‘a tame reindeer,’ fetva, peura ‘a wild reindeer, a stag,’
+which last with great reservation and a note of interrogation
+is derived by Professor Thomsen from Lith. évédts ‘elk’ ;1
+the equation is therefore doubtful. Fin. Aévvas ‘ male rein-
+deer, stag,’ and Fin. Airvé ‘elk’ are referred by him with a
+note of interrogation to a hypothetical Lith. *sirvss,
+Strvas, based on O. Pr. sirvis (or sirnis) ‘a roe.’ He
+regards Lap. serva ‘stag, elk,’ as undoubtedly a loan from
+Fin. Aévvi and Lap. sarves ‘a reindeer bull’ as a loan from
+Fin. Airvas.2 The Fin. vaadin gen. vaatmen, ‘a three or
+four-year-old reindeer calf,’ is connected with Lap. uaj.
+gen. vacem ‘a reindeer cow’ and with Lap. saja, gen.
+vacama ‘a two-year-old reindeer calf? Whether Vtk.
+pusei ‘a reindeer’ is a loan word or not I am not sure,
+
+
+1 Thomsen, (rz) p. 162. 9 Jbéd., (1) Pe 225
+
+
+*o —
+
+
+THEIR PREHISTORIC CIVILISATION 221
+
+
+but Zir. pes ‘a reindeer calf,’ and Zir. fiy ‘a reindeer’ are
+almost certainly borrowed from a Ugrian source. The
+Lap. a/ddo, ‘a reindeer cow’ has already been mentioned ;
+the Mordvin and Ceremis forms seem to standalone. At
+
+
+_the present time Finland cannot be termed a reindeer
+
+
+country, though in winter wild ones wander as far south as
+the central districts and the north shore of Lake Ladoga,
+so that they are known to hunters and to the Finns who
+live as neighbours of the Lapps in the extreme north
+of the country. But they are not bred by the Finns unless
+perhaps in Lapland. Further east and north of the Volga
+they are not kept by the Ceremis, the Votiaks, or the
+Zirians, save such of the latter as have got possession by
+foul or by fair means of the herds of the unfortunate Samo-
+yedes. The Mordvins live too far south for reindeer, and
+can only know of them by hearsay. At the present time
+reindeer are not kept in the valley of the Ob, south of
+Berezov, or about Lat. 64° N., though a few centuries
+ago when the epic songs were composed these animals were
+bred along the whole central course of the Irtish to within
+200 miles north of Tobolsk or about Lat. 59° N., perhaps
+even further to the south.! According to Andrew Murray
+the southern limit of the reindeer, starting from about
+Lat. 62° N. on the west coast of Finland, takes a line
+about a degree north of the general course of the Volga
+before it turns south, about as far as where Lat. 55° N.
+cuts Long. 60° E., thence it continues eastwards towards
+Akmolinsk, but south of it, as far as Kobdo, north of the
+great Altai mountains.? The southern limit east of the Urals
+is certainly brought too far south, though it may correspond
+fairly well with the range of this animal in prehistoric
+1 Patkanov, (1) pp. 34, 35. 3 Murray, map 32,
+
+
+222 PRE- AND PROTO-HISTORIC FINNS
+
+
+times. From the above we may conclude that the reindeer
+was never a domestic animal of the prehistoric Finns.
+
+The only other domestic animal to which the East and West
+Finns can lay claim is the ‘pig,’ Fin. sika, Mord. tuva,! though
+Professor Genetz refers it eventually to an Indo-European
+*swi- with a Finnish diminutive suffix -ka.2_ The Permian
+group, the Voguls and Ostiaks have all borrowed from the
+Russian, though the Zirians have three native words for
+‘boar,’ of which one has also the meaning of ‘bull.’ The
+West Finns have also native words for ‘boar’ (kavyu,
+uvosa); for ‘a gelded boar’ (Fin. ovas, Mord. uris), which
+has been compared with the Zd. vareza and for ‘a sow’ Fin.
+tmiséd. In a wild state the pig must have been known
+to the Finns from the very beginning of their history.
+
+
+TREE-NAMES.
+
+
+Beside the above culture words there is yet another small
+series to consider, as they show the class of trees that grew
+in the country inhabited by the Finns in the second period.
+Soft-wood trees and indeed a good many hard-wood trees
+being of no use in this inquiry, it is only necessary to
+enumerate a few of the latter.
+
+
+LS | a | | ES fp f wrateite
+
+
+Bird- } tuomt fom | lomba fim |Fim | Lom, lom
+Elm . vee salt Sole | str-pu?| str-pu? wee sil-fa
+
+
+Lime .| ntint-puu| ... ves vee nin-
+noe ee pekse | piiti ose "oe
+
+
+| |
+
+
+1 Setil#, pp. 8, 9; Paasonen, p. 31. 2 Genetz, (3) p. 42.
+
+
+THEIR PREHISTORIC CIVILISATION 223
+
+
+The ‘bird-cherry’ no doubt belongs to the first period
+and therefore was known to the Finns before they left Asia.
+The same cannot be said of the ‘elm,’ even if the above
+equations are correct, as this tree does not grow on the
+eastern slopes of the Urals, For this tree the West Finns
+have another word—ja/ava, In the West Finnish dialects
+there are several names for the ‘lime’ and more than one
+in Mordvin, so there is no doubt it was known during the
+whole of the second period. In the Zirian country both
+this and the elm grow along the Sisola about as far north
+as Latitude 62° N., but the trees are stunted and of small
+size. The lime however grows well in the neighbourhood
+of Perm and in the south-western part of the government
+is a forest tree, yet the finest forests are found on the right
+bank of the Volga in the country of the Mordvins. The
+northern limit of the ‘oak’ passes along the south coast
+of Finland at no great distance from the sea, then
+approximately through St. Petersburg and Vologda east-
+wards to Long. 50° where it turns south-east to about Slato-
+ust in the Urals and from here it turns south-west to about
+Orenburg. As it does not cross the Urals and does not
+reappear in Siberia till we reach the distant valley of the
+Amur, the Finns who know the tree must have named it
+after their arrival in Europe. The Zirians have borrowed
+their word from the Russian and the Vtk. #%1-f% seems
+to have the same origin. The northern limit of the
+maple, which does not grow east of the Urals, and of
+wheat, is nearly the same as that of the oak. The ‘ash,’
+which appears to be only known to the West Finns,
+covers a much more restricted area than the oak. Its
+northern limit skirts the south coast of Finland, passes
+through St. Petersburg and about 1° north of Moscow to
+
+
+224 PRE- AND PROTO-HISTORIC FINNS
+
+
+half or quarter of a degree north of Penza and thence,
+passing about 1° north of Saratov to the river Ural. All
+these indications seem to point to some district in the
+valley of the Volga from the mouth of the Kama west-
+wards as the original home of the undivided Finns.
+Archeological considerations had previously led us to a
+similar conclusion. As the Permian group gradually
+pushed northwards they would lose their word for oak
+and possibly, nay probably, they never lived within the
+area where the ash flourishes.
+
+At the beginning of the chapter it was mentioned that
+reasons would be given at the close of it in support of the
+propositions that at the end of the first period the Finns
+were in Europe and formed the earliest settlers in the
+valley of the Oka, and therefore that the life of the still
+undivided Finns, embraced by the first portion of the
+second period, was passed in the valley of the Volga.
+During this epoch the Finns of course were at a stage
+of pure neolithic civilisation without knowledge of any
+domestic animals but the dog. In order to make the
+matter clearer forty-nine of the words already discussed
+above are arranged in Table [X. in a way that displays
+at a glance the range that each possesses. We have first
+to show that the lapse of time between the beginning of
+the second period and the beginning of the Christian era
+cannot be less than one thousand years, and that about
+fifteen hundred years is a better estimate ; secondly, that
+though absolute proof is wanting that the whole of this
+period was passed in Europe, there is proof that a large
+portion of it was so spent, and a considerable probability
+that this whole epoch was European not Asiatic. The
+table shows that a word for ‘ten’ was not found necessary
+
+
+eT
+
+
+THEIR PREHISTORIC CIVILISATION
+TABLE IX.
+
+
+1. Winter °
+
+
+OP SY ANHY Pt
+>
+
+
+Fire.
+Fat (butter) .
+
+
+Cloth oat
+pelt (wheat
+An ell
+
+
+. Oak and maple
+
+
+. Astallion .
+. To spin
+
+. To count
+
+. To pa
+
+. To sel
+
+. An awl
+
+. A boat
+
+
+. A paddle
+
+
+Autumn
+Cow (horse).
+Ten .
+
+
+Ten
+
+
+Ten a 8 sister .
+Knife scraper)
+
+
+s e . e e e
+errs ce en re a Sa PS eS
+
+
+Perr: Pee: :
+
+
+ir Bo Be Be Ao BO BB a BG BA BG BG BB BSB BB
+
+
+88 NN Od dd:
+
+
+Pere: Pere: Pr
+
+
+et Ore
+
+
+DP PE PSeereer: :
+
+
+"S| SSSSS55: Bi SESSESREE: :
+
+
+Zi SERRESEEREE: : :
+
+
+SS55
+
+
+SEEREKE! :
+
+
+~~
+
+
+SSASSSS) SSS<e
+: NNNNNNNN: NNN: N
+
+
+CH:
+
+
+a
+: NNNNN:: :
+
+
+NOME 2 O&K :
+
+
+CML LLPiipi::egdi:
+
+
+i SAS: :
+
+
+Ni:
+
+
+: IN:
+
+
+7 9: OOOO99S
+
+
+OO: iii:
+
+
+225
+
+
+<
+0
+: RRSSSSS
+
+
+Vg e
+
+
+Ve.
+
+
+226 PRE- AND PROTO-HISTORIC FINNS
+
+
+till the Finns had broken up into three larger groups. In
+the third period, which may have begun between 400~—600
+B.C., a term for ‘one hundred’ was borrowed. It is not
+too much to suppose that the word for ‘ten’ became
+current a hundred years earlier, or about 500-700 B.C.
+Then for the first half of the second period and the earlier
+part of the second half, during which time they taught
+themselves to weave, to make wicker fish-traps, to cultivate
+spelt on a small scale and to give a name to the horse,
+not less than five hundred years can be assigned, thereby
+bringing the beginning of the second period to 1000-1200
+B.C. But this is a low estimate; the interval between
+learning a word from ‘ten’ and for ‘100’ might well be
+increased, as well as the period of the undivided life and
+the interval between this and the genesis of a term for ‘ten.’
+So that from 1500 to 1800 B.c. does not seem to me an
+excessive estimate, and that is probably sufficient to meet
+all archzeological requirements. The reason for supposing
+that the whole of this time was passed in Europe is based
+on the nearly undivided Finns having learnt the use of
+spelt, which it seems impossible to believe could have
+been cultivated in their Asiatic home, and in the fairly
+wide range of the word for ‘oak,’ a tree that could not
+have been seen beyond the Urals and may once have been
+known to the Permian groups, though they subsequently
+lost it in a way that can very naturally be explained.
+
+It is generally supposed that the West Finns knew
+‘copper’—the ‘sheep’ may be added—before leaving
+Asia, as the terms employed are common to the Ugrian
+family. But in that case the words must have come into
+use more than eleven hundred, more likely fifteen hundred,
+years before the present era, a date that no one will try
+
+
+THEIR PREHISTORIC CIVILISATION 227
+
+
+to justify. The conclusion therefore is that though a
+word is common to West Finnish and to one or more
+members of the Ugrian group it does not necessarily
+belong to the first period. Some other explanation must
+be offered. With regard to ‘copper’ I have already tried to
+show that the West Finns borrowed their word from an
+Ugrian source and the same may hold true, though I do
+not absolutely assert it, for ‘bride, father-in-law, son-in-
+law, sheep,’ which must otherwise be referred to the first
+period.
+
+
+CHAPTER V
+
+
+Tue THIRD OR IRANIAN PERIOD.
+
+
+Tue third or Iranian period is of special interest. Now,
+for the first time, the Finns and Ugrians, emerging from
+their sombre, impenetrable forests and trackless swamps,
+came in contact with a civilised people, speaking an Iranian
+dialect, and now for the first time it becomes possible to
+assign an approximate date to the epoch. The new things
+and the new ideas now introduced may be divided into two
+categories ; those found in West Finnish and those confined
+to the East Finns and Ugnrians. The first list of words,
+on the whole, favours the idea that these civilised foreigners
+had no hostile intentions, but were rather traders who
+wished to do business with the natives. ll that the latter
+would have to barter at first would be the pelts of wild
+animals, though after they had been taught the art of bee-
+keeping, wax and honey may have been added to the list.
+The earliest trading-place would be the banks of a large
+river, and a survival of this fact is found in the Vogul vaéa-
+kum, ‘a trader,’ literally the ‘bank of a river man.’ Small
+trading-posts or factories may also have been established
+in various parts of the country by the foreign merchants,
+just as used to be done a couple of centuries or so ago
+in the territory of the Hudson’s Bay Company, of the Niger
+Company, and by the Russians in Siberia. But if all the
+228
+
+
+THIRD OR IRANIAN PERIOD 229
+
+
+words of the second category were certain, which, however,
+is not the case, we should rather have to suppose that the
+civilised foreigners formed part of the wandering Scythians
+and Skolots that nomadised along the north shores of the
+Black Sea, of the Caspian, and for a considerable distance
+inland. ‘These Scythians are believed by the most reliable
+authorities to have been in the main an Iranian people,
+a few of whom still survive as the Osets of the north central
+Caucasus. Wm. Tomaschek has noted over thirty words
+in Mordvin, and about thirteen in the Permian group,
+which he believes have an Iranian origin. Dr. Munkacsi
+gives a list of forty-two words in the Ugrian and Finnish
+languages which, in his opinion, are derived from a similar
+source.! Some of these are very doubtful, others are con-
+fined to the Ugrian branches, others have no cultural signi-
+ficance, so that it is only necessary here to give a selection.
+
+These words, it would seem, were not all adopted exactly
+at the same time. Some are older loans than others, and
+if taken from an [Iranian people, the language was at an
+earlier stage than any existing record of it. For instance,
+judging from the first vowel in the West Finnish and
+Mordvin words for ‘honey,’ these are supposed to go back
+to an Indo-Eur. médhu, while the other East Finnish forms
+might come from a Zend or Bactrian form, and therefore
+be of later date. So, too, the front vowels in all the words
+for ‘name’ correspond best with the O. Sl. [#]#me", though
+the wide diffusion of the word makes it probable that the
+loan is earlier than any distinctly Slav word, besides the fact
+that it is unknown to the Letto-Lithuanian branch of the
+Slavs. It may strike one at first as singular that an Iranian
+word for ‘fly’ should be uniformly accepted as an appro-
+
+1 Tomaschek, pp. 12-14; Munkacsi, (2) pp. 191-197.
+
+
+PRE- ANB PROTO-HISTORIC FINNS
+
+
+230
+
+
+| |
+
+
+suns DASDB oes ace see eee eee ese | 2498R | DAvsvn iY
+-"° nANS| DAs ‘nAS| asvas| °* °re ans| ans Ans | DANS 22408 *
+mee ¥2g04 "te ssunva| °° 7° na |\ 1913p $7924 sae ogas
+
+
+I synus vem { t “nou
+
+
+nus
+
+
+4
+geen | eee | ee 9 eee | eee, | ee ee | eee | ee ee ee
+
+
+THIRD OR IRANIAN PERIOD 231
+
+
+priate term for ‘bee.’ The explanation is that in Sanskrit
+and Osetan, so probably in Old Bactrian as well, ‘bee’ is
+expressed by ‘honey-fly’; the Finns therefore adopted the
+word in an apocopated form. It is hardly to be supposed
+that traders would bring bees with them, but they may
+have taught the natives how to domesticate wild bees, or
+at any rate how best to take their wax and honey, which
+may subsequently have become an article of barter as
+well as the skins of black foxes. As the words for ‘100,
+horn, hammer (axe)’ come directly from an Iranian source
+at the same stage as the Zend, supposing, of course, that
+the latter two equations are correct, they must either be
+later than the words for ‘honey, bee, fox,’ or they were
+introduced by strangers speaking a different and _ less
+ancient dialect. The original meaning of the Z. vasra,
+‘mace, club,’ is best preserved by the West Finns; whether
+the head was of stone or metal it is impossible to say.
+
+The second list embraces a still larger number of words.
+(Table on next page.)
+
+The special interest attached to the words in the first
+line 1s that if they really are derived from zarayafh, the
+borrowing must have taken place at a time when the
+original final s had not developed into #4. The same
+remark applies to lines 3 and 4. If Vg. s‘ofery stands for
+s‘oser, as it might do, the 4 and # in Aasafira must have
+sounded s, as in the Skr. sahkasra, ‘1000’; and ahkura must
+have been pronounced aswva. Dr. Munkacsi estimates
+that these loan words may be placed as far back as
+the sixth or seventh century B.c. If that is true, the
+words for ‘ro’ and ‘100’ must be quite as old, though
+from their present form they might easily be taken for :
+comparatively recent loans. It is odd, though, that if the
+
+
+PRE- AND PROTO-HISTORIC FINNS
+
+
+232
+
+
+{
+os & pass © vyands) “| gpgusos] x apgog xsagn2| °° aes {ile Sug AN
+
+
+1 Wwaqyy 61
+€ mony
+€ 47 € seysisy | ecg) a 1492| 1 43} & 1383¢ec7
+I axV ‘gt
+* pred
+pars- | oysay- "Ug | Leay| opavy | — njsvy yoos  yanS| ee ~um07)
+* asnopzy ‘Zr
+I ogame Losspml | esta | oe sim I gous} **° noe ne {. Tomy or
+(3803) pfo 14S] yrl| go ‘sp | = so ‘so] #2 sz] ron} * days Sr
+upyyn | - pysn, {2 go} wee 8 "XG
+earat wee  papnt wee wee pana|aopna| = - + pO tz
+pysrs vee eee eee aes eee ses one nee pips ° 3e0r) ‘EI
+Sisva DL40Q soaaf qurvy ‘Ir
+ak ese vavhi - vee ose ees nl ves eee *  ureis ‘or
+‘suapun unjutal \Xonaguz uopusal | unpun “te “ve ‘ * pos 6
+psvy vjaevy |(pavy)| 49y | Davy 1497 | psoy| o,spany | (t74P7)| * * Uosy ‘g
+CT 40% Dhuvevs | Auviv| 8us0s| 4uADdi $ULDE | Su4DE| VuMpeOS| Buses} * * pros) <2
+paous { phanw ‘dO. aes oe ves ysons| yanse| | ppamel + + weg
+(ey, } eee t0sy TIS 428490 eee oes isy¥o rasyo eon ooe ry . p10-] ¢
+cea DYRD "ITd DARYD eee 4340 74n eee eee ene OLOED Py e ploy] od
+“7 AUEDY Daypspy | 43%3| 49705 | sv4vZ $a4n,s| sans|  °"° 7 * * 9001 €
+asop spp uDsop 3,13 see eee SDp sop @acs aes e e . or at 4
+eee visvp ¥YHDADADS eee $2405 $2408 4408 ‘E05 fa4a08 ooo eas e ° BIS "ry
+
+
+eles | | eG ee | i | eee 9 ee | es] ES | oo |
+
+
+THIRD OR IRANIAN PERIOD 233
+
+
+Ostiaks had learned to count up to a thousand some 2500
+years ago, their arithmetical ideas should still be so hazy ;
+a single word does duty for 80 and 800, another for go
+and goo. A thousand, therefore, can seldom be used
+except as a round number, and perhaps was never more
+than that. In the last chapter I made a rough calculation
+that the West Finnish and Mordvin words for ‘10’ may
+have originated about 500 B.c., but if they borrowed a term
+for ‘100’ between 600 and 700 B.c. the ‘1o’-word must
+be still older. Online 5 Dr. Munkdcsi traces the Permian
+words for ‘lord, master’ to a Skolotan or Scythian 4sai,
+preserved by Herodotus in the words Leipo-xais, Arpo-xais
+the old Bactrian equivalent of which is 4Afaya ‘ powerful,
+master’ from &4S# ‘to rule.” In Hiibschmann’s opinion
+the connection between Zir. £457 and Os. dysin ‘a lady’ is
+very problematical, so the equation of the Permian words
+with an Osetan or Scythian form is not thoroughly estab-
+lished, though the identification is attractive. The words
+for ‘gold’ in line 7 are evidently a good deal later than
+those in line 1, 3, 4, for now the initial O. B. is repro-
+duced as s, s not by §, as the older aspirated %, from which
+z originated, would lead us to expect. A term for ‘iron’
+came into use about the same time no doubt; and the
+new metal was introduced in the form of a ‘knife or short
+sword,’ for that is the meaning of the O. B. kavefa, from
+which are derived most of the East Finnish and Ugrian
+terms for ‘iron.’ The Magyars have retained the original
+sense of the word, but the Mordvins, more peaceably
+inclined, have turned the sword into a ‘plough-share.’
+The latter have a special word for ‘iron,’ &£§#'é which may
+have an East Persian origin. In the Pamir dialects we
+find i”, spin ‘iron’; an older form of the first would be
+
+
+234 PRE- AND PROTO-HISTORIC FINNS
+
+
+*¢§$in, *o§pinaand from this by rejection of the initial vowel,
+by metathesis of #, § and mutation of # into &, all which
+phenomena are possible in Mordvin, we should obtain
+hiina king. The word for ‘steel’ is later and probably
+belongs to the end of the Iranian period. Professor
+Schrader believes the origin of the Osetan word is to be
+found in East Finnish, Dr. Munkdcsi on the contrary
+regards the Osetan as the original word ; but Colonel Yule
+has pointed out that the ondanigue of Marco Polo, and-
+anicum in the Latin text, is to be referred to the N. P.
+hundwénty, ‘Indian steel’ and quotes an Arabic dictionary
+of about 1200 a.D. in which Hunduwdn is explained by
+ensts.1 The identity of Os. dadén with the ondanique of
+Marco Polo is certain and the Osetan form is therefore
+from the N. P. kundwani, hindawdnt ‘made of Indian
+steel; a sword’; Osetan always rejects initial 4. The
+Permian words for ‘otter’ may go back to an Iranian form,
+‘but might equally well be referred to a European word.
+It is tempting to believe that in line 14 Vg. #s-2@ comes
+from an O. B. “san > us, which became #s in consequence
+of the & of the suffix (cf. pesken<R. puska) and perhaps
+it is so rather than the explanation given in the last chapter.
+But in the next line the equation is very doubtful as we
+can hardly suppose a Sanskrit-speaking people, even as
+traders, were ever in contact with the protohistoric Finns-
+ugrians, and the O. Bactrian equivalent is za. Still the
+possibility of a Scythian original for the word is by no
+means excluded, for nothing is known of the Scythian
+dialects. Forms like Lith. o%¢s ‘he-goat,’ ofka ‘she-goat’
+leave room for the presumption, till positive proof to the
+contrary is adduced, that the Finno-ugrian words for
+
+
+1 Yule, vol. i. pp. 93, 94-
+
+
+THIRD OR IRANIAN PERIOD 235
+
+
+‘sheep’ and very likely for ‘ox, bull’ were borrowed from
+some of the nomads that wandered over the s#effe on the
+north side of the Black Sea and perhaps far inland. The
+equation, however, of Z. me¥ ‘sheep’ with N. P. mesa,
+hardly with an older maézfa, seems tenable. Munkdacsi
+further connects the words in line 17 with a Parthian-Zerza
+found in place-names, but it is more likely they belong to
+a much later time and were borrowed from the Cuwas or
+some Tatar source. The attempt to derive the Permian
+words for ‘wheat’ from a Persian word for ‘white’ is, I
+think, certainly wrong. By ‘ wheat-coloured’ the modern
+Persians understand ‘brown,’ the colour of the grain when
+ready to be cut. A fuller and better Vtk. form is /ad/i
+which is evidently borrowed from the Tatar 4af/2 ‘ spelt,’
+an inferior sort of wheat.
+
+From the above we deduce the conclusion that the
+Iranian period may have begun about 600 B.c., and lasted
+for several centuries. In the east of Russia we have
+already learnt that intercourse was kept up with Persia
+till the overthrow of the Sassanide dynasty in the seventh
+century. For the West Finns however its duration was
+very much shorter, perhaps not more than 100 or 200
+years. When the Finno-ugrians first came in contact with
+Indo-Europeans though they had particular names for
+many things, they had no word for the abstract idea of
+‘name’ apart from a particular object. The more advanced
+Finns, having already taught themselves a word for ‘ro,’
+now learnt to count up to ‘100,’ while the more backward
+Permians had even to borrow a word for ‘10’ though
+apparently they and some of the Ugrians, outstripping the
+more advanced West Finns and Mordvins, borrowed a
+word for ‘1000’ several hundred years earlier than the
+
+
+236 PRE- AND PROTO-HISTORIC FINNS
+
+
+latter. About the same time they took to beekeeping
+and their foreign superiors were given a title of honour for
+which they had no native term and accordingly had to
+borrow one. The westerly Finns became acquainted with
+a new and better form of hammer or hammer-axe which I
+imagine was only of polished stone and all the Finns
+borrowed a term for ‘horn,’ which perhaps may be taken
+to mean that up to that time they had no knowledge of
+horned cattle. A good deal later, perhaps about 300
+B.Cc., gold and iron were introduced among the East Finns
+and Ugrians, who thus became acquainted with these
+metals several centuries earlier than the West Finns, The
+trade in iron swords seems to have continued for a long
+time. Abu el Kassim relates that it was said the Bolgars
+conveyed to the Yugra (Voguls, or Ostiaks) swords fabricated
+in Mohammedan countries. Though these swords had no
+handles or ornament, and were simply blades as they left
+the hands of the blacksmith, they were bought at a great
+price by the Yugra, who threw them into the Sea of
+Darkness. God then causes a huge fish, the size of a
+mountain, to issue from the bosom of the ocean anda
+still larger fish to pursue it. The first fish directs its flight
+towards the coast of the Yugra and gets into shoal water
+near the shore. Those that threw the sword into the sea
+surround the fish in their boats and cut off its flesh. They
+maintain that if they did not throw a sword into the sea
+no fish would come and they would suffer famine.
+
+We have now to consider the questions whether in all
+cases the East Finns and the Ugrians received the same
+word from the fountain-head independently, or whether
+only one received and then passed it on, perhaps after a
+
+1 Abu el Kassim, p. 83.
+
+
+THIRD OR IRANIAN PERIOD 237
+
+
+considerable lapse of time; and whether the East Finns
+and Ugrians were both on the east side of the Urals. Dr.
+Munkacsi holds that, at the beginning of the Iranian period
+when the Persian civilising element was introduced, the
+Magyars and the people nearest them, especially the
+Voguls, Ostiaks, Zirlans and Votiaks, formed a connected
+whole, and that this separation had not taken place in the
+sixth or seventh century B.c. And as the beginning of the
+Iranian influence affected the West Finns and Lapps, but
+did not bring them a knowledge of gold and iron, the
+separation of the West Finnish-Lapp branch from the
+original home and communion with the Ugrians cannot
+be later than the third century B.c. at the latest. A glance
+down the columns of Ugrian words in two lists above,
+shows not only a good many words common to the
+Permians and the Vogul-Ostiaks that are wanting in
+Magyar, but that when there are corresponding words in
+Magyar their form is so different that the Vogul-Ostiaks
+and the Magyars must have borrowed at different times
+and presumably in different places. As it seems to me,
+the separation of the Magyars from the rest of the Ugrians
+had already taken place before the commencement of the
+Iranian period. The Mordvin loan-word for ‘lord, master’
+being also found in Vogul-Ostiak, suggests that the latter
+were also on the west side of the Urals when they borrowed
+the word ; though I do not suppose the whole body of
+them lived in Europe, only that they wandered on both
+sides of the Chain. Certainly the reverse could not have
+been the case, that the Mordvins dwelt east of the Urals.
+For earlier than this loan the Mordvins and West Finns
+had invented a word for ‘10,’ and presumably about the
+
+
+1 Munkdcsi, (2) p. 88.
+
+
+238 PRE- AND PROTO-HISTORIC FINNS
+
+
+same time the Voguls, Ceremis, and Lapps agreed upon
+another word. Some two hundred or three hundred years
+later the West Finns, after adopting a word for ‘100,’
+were so far to the west, that the words for gold and iron
+never reached them. So short a space of time would not
+allow of the West Finns traversing the great extent of
+country that stretches between Western Siberia and the
+region of the Waldai Hills or thereabouts. The West
+Finns and Mordvins were therefore certainly in Europe
+before the beginning of the Iranian period. No doubt the
+Permians have for a long time been nearer to the general
+mass of the Ugrians than other members of the Finnish
+family, and this, together with their living on the same
+trade route, accounts for the greater number of words they
+have in common, compared with the Central Finns. Still
+it is possible that sometimes a word has been borrowed
+by the Ugrians and subsequently passed on to the Permians
+or vce versé. In the term for ‘1000,’ apparently one of
+the oldest loan-words, the Voguls have preserved the old
+form best in so far that metathesis has taken place in
+: Ostiak and in the Permian groups. The probability is that
+this only once took place, and most naturally among the
+Ostiaks ; the conclusion being that in this instance the
+Permians borrowed from the Ostiaks and not directly from
+an Iranian source. So too the exact likeness between the
+Ostiak and Permian words for ‘gold’ makes it probable
+that both were not drawn from the fountain-head. The
+fact that the Permian forms show what looks like the
+original initial z proves nothing, for initial s can in
+Permian readily become 3, a sound with which no Vogul-
+Ostiak word can begin; and in the word for ‘sea’ the
+Zirian form begins with s, the Votiak with s, which is
+
+
+THIRD OR IRANIAN PERIOD 239
+
+
+therefore to be considered a later change. The adoption
+of a word for ‘man’ by both Mordvins and Permians,
+though perhaps at different times, also tends to the belief
+that the Permians lived west of the Urals.
+
+If we could show that the Volga and the Kama were
+the most likely routes by which Iranian traders penetrated
+among the Finns and Ugrians, we should go far to prove
+that on the Volga, at the beginning of the new period,
+there were Mordvins who may in fact have borrowed their
+name for it from Iranians; that there were Permians and
+Ugrians partly perhaps on the Volga, partly on or near
+the Kama. About 500 B.c. Hecatzus and, about three
+hundred years later, Eratosthenes were both under the
+impression that the Caspian was connected with the cir-
+cumambient ocean. In geographical, as in other myths,
+there is often a substratum of truth or of physical fact.
+In this instance it really exists. With the exception of a
+short portage of a little over four miles, it is possible to
+travel by natural waterways from the north coast of Persia
+to the Arctic Ocean, by ascending the Volga, the Kama,
+and its tributaries, to the watershed between it and the
+basin of the Petéra. The myth seems to repose on the
+fact that before 500 B.c. the Volga and the Kama had been
+previously ascended for a very considerable distance by
+traders, for no one else travelled in those days, who
+learnt from the reports of the natives, that at the north
+end of the world there was a great Sea of Darkness
+which was accessible by water. In a previous chapter
+it was made clear that the works of Arabian art found
+in the province of Perm came there by a road leading
+along the west side of the Urals, and the presumption was
+great that the Arabs followed the old route of the Persian
+
+
+240 PRE- AND PROTO-HISTORIC FINNS
+
+
+merchants whom they had supplanted. Arab writers hint
+at two routes to Bolgari—one by water, the other by land
+—but both of course lay west of the Urals, which is the
+really important point. As it is nearly certain that from
+the fourth century A.D. for several hundred years there was
+a trade between Persia and the valley of the Kama either
+by the Volga or by a land route a little to the east of it,
+but west of the Urals, it is more likely than not that any
+earlier traffic between these two regions must have followed
+the same routes. The Yugra mentioned by Abu el Kassim
+were probably living at the mouth of the Ob. Yet all their
+swords came @ Bolgari, though actually manufactured, as
+another writer mentions, in Aderbaijan, where they cost
+four pieces of gold. The same author states it was the Isu
+or Zirians of the Petora basin who acted as middlemen
+and transmitted the swords to the Yugra. Here we have
+direct evidence that an Ugrian tribe on the east side of the
+Urals obtained Persian wares wid the Volga, not sé the
+IrtiS or the Ob valley.
+
+The earliest known settlement on the Kama belong-
+ing to this period is at Andnino. Though most of the
+objects found there are of Central Siberian type, some
+are Kobanian, and it is not impossible that the place was
+at first a small Iranian trading post established among
+natives of uncertain affinities. A very late Arab writer,
+Sherif ed din, mentions that the old name of Eldbuga,
+which lies close to Andnino, was suddum or sodum, and
+that in the Yunani language it meant a ‘perch-fish,’ in
+Tatar alabuga.! Though yunani means ‘ Greek’ in Arabic,
+it cannot have that meaning here, but possibly it meant
+the language of the Bolgars, some of whom clung to the
+
+
+Spitsjn, p. 88.
+
+
+THIRD OR IRANIAN PERIOD 241
+
+
+baseless belief that Bolgari had been founded by Alexander
+of Macedon. Otherwise it must have referred to the
+natives of the neighbourhood. Though suddum, sodum
+does not mean ‘a perch’ in any Finnish or Ugrian lan-
+guage, Wiedemann catalogues a Zir. Suim as ‘ein Fisch (?)’,
+a word which comes near it in form. As the name of a
+fish is compatible with a river-name, we may note here
+a Sodom-ka river in the district of Kotelnits (Vidtka), and
+the Ostiak name for the Salim, a tributary of the Irti§, is
+the Sodom. Though Spitsin does not quote the word in
+Arabic, the double d@ may be a transcription of the letter
+dad, which does not correspond, I believe, with any Finno-
+ugrian dental, yet might be used perhaps to represent an
+Ugrian d/sound. With regard to the late tradition of the
+Bolgars that their chief town was founded by Alexander of
+Macedon, it seems just credible that when they first arrived
+there they found a tradition current that the spot had
+previously been occupied as a trading post by some Iranian
+people whom the Bolgars, after acquiring a knowledge of
+Arabic, identified with the Greeks and Alexander of Mace-
+don. None of the above inferences to demonstrate that
+the Iranian influence penetrated to the Permians and
+Ugrians by the valley of the Volga may be very conclusive
+in themselves, yet on the other hand, so far as I am aware,
+there is no evidence, archzological or historical, to indicate
+the existence of any trade route northwards from Khor-
+asmia, Sogdiana, or Bactria to the ISim, the Irtis, or any
+other great tributary of the Ob, into the heart of the
+Ugrian territory. The ancient geographers knew nothing
+of these rivers.
+
+
+242 PRE- AND PROTO-HISTORIC FINNS
+
+
+THE FouRTH OR LITHUANIAN PERIOD.
+
+
+In the Iranian period it is not necessary to believe that
+the West Finns ever came personally into contact with
+Iranians. All the words in the first list might have been
+transmitted to them by some intermediate tribe like the
+Mordvins, even though the West Finns have sometimes
+preserved an older form than the tribe from whom they
+borrowed can now show. In the fourth period it was quite
+different. The general mass of the West Finns seem to
+have shifted their centre of gravity somewhat west or north-
+westwards and broken away from the Mordvins before 300
+B.C., or whenever it was that the words for ‘iron’ and
+‘gold’ reached the latter. In course of time the West
+Finns had become neighbours for the first time in their
+history with a so-called Indo-European people speaking a
+Lithuanian dialect.
+
+The Europeans whom the West Finns now met could
+not have been very highly civilised themselves, though in
+most respects they were certainly more advanced than the
+latter. It is not certain that the former knew iron or even
+bronze, for we have already seen that iron was unknown
+in the Baltic Provinces before the second century, and
+there was strictly speaking no bronze age at all in that
+part of the world. So the inland tribes that lived far from
+trade routes would most likely to all intents and purposes
+be still in a neolithic stage of civilisation. The Baltic
+people possessed flocks and herds of sheep and goats,
+cattle and horses, and led to a great extent a roving life.
+In winter they travelled in sledges, but in summer they
+seem to have used carts or wagons, the wheels of which
+no doubt were solid, being made of two or more thick
+
+
+FOURTH OR LITHUANIAN PERIOD 243
+
+
+planks clamped together with wooden pegs. Such cum-
+brous vehicles could only have been drawn by several yoke
+of oxen. When a deep and narrow water-course had to
+be traversed, they knew how to throw a light bridge of
+planks across it.
+
+Professor W. Thomsen estimates that the date of the
+first contact between the two peoples certainly cannot be
+later than the first centuries of the present era, perhaps
+rather earlier. And they may have been in touch till about
+500 A.D., at all events not later than 800 ap.) It is to
+his labours that we are indebted for the best and most
+thorough explanation of the loan words made by the Finns
+from the Letto-Lithuanian or Baltic peoples, and from him
+I have taken all those that are found in this section ;?
+those marked with an * are not quite certain.
+
+Into the nomenclature of the family several new terms
+were now introduced, such as ‘sister,’ ‘ daughter,’ ‘ cousins,’
+‘bride,’ and * ‘son-in-law.’ None of these words were
+accompanied by wholly new ideas. There had always
+been a term for ‘elder sister,’ but it was associated with
+other meanings, while ‘younger sister’ may have been
+included under ‘girl’; but now blood relationship was
+emphasised, and the mere rank or status that the sister
+held in the family fell into the background. A ‘daughter,’
+too, was now distinguished from a mere ‘girl,’ and a ‘bride’
+from a ‘young daughter-in-law.’ Here the first instance
+again shows a greater insistance on blood kinship, and the
+second might point to some change in the marriage cere-
+monies in which the bride played a more important part
+than before. ‘Relationship’ eimo; ‘a comrade, a person
+of the same name’ haima ; * ‘society, company’ sezva, and
+
+
+1 Thomsen, (1) pp. x51, 152. * Jdid., (x) pp. 145-148.
+
+
+244 PRE- AND PROTO-HISTORIC FINNS
+
+
+‘a social gathering at which neighbours, in consideration
+of being supplied with food and drink, give their help on
+certain occasions’ ¢a/ka, were partly new ideas, partly old
+ones from new points of view.
+
+The Finns had never been without a knowledge of ‘ fire,’
+though apparently without attaching any sacred quality to
+it; now they borrowed a fresh term (anu), which has
+acquired a personal and mythical character, though the
+original word from which it comes seems to have been of
+the neuter gender. The ‘hut’ maja, ‘bath or out-house’
+pirtti; *‘room’ tupa, ‘wall’ seind, all constructed of
+** boards’ /auéa, with a ‘wooden roofing’ madka, outside
+which lay an ‘enclosure’ farhka, fenced round with ‘stakes’
+seivas, as well as the wooden ‘bridge’ ss//a, were certainly
+additions to the civilisation of the Finns.
+
+Some of the instruments now introduced may have been
+of new forms, or better in some respect than those that
+they supplanted, such as the ‘axe’ 2ivves, and its * ‘shaft’
+varsi, the * ‘ice-pick’ tuura ; ‘ distaff’ kuontalo,! and ‘comb,
+brush, curry-comb’ suka, as well as ‘string or ribbon,’ for
+tying things together. But the ‘wedge’ vaaja, * ‘spade’
+lapio, ‘besom’ Justa, for sweeping out the house, ‘ladle’
+kauha, and ‘butter-dash’ mdnfd, were probably new ; for
+though butter was known the more primitive way of making
+it is to shake the milk and cream ina leather bag. Though
+weaving was also an old occupation, the ‘thrums’ 251,
+received a name for the first time. For transport purposes
+they had now a ‘sledge’ vedi, and an unwieldy ‘cart or
+wagon, as the word for ‘wheel’ rafas has that meaning
+when used in the plural.
+
+Articles of dress were the ‘tall cap’ dyfdrd, of a new
+
+1 Mikkola places this loan in the Proto-Slav or sixth period.
+
+
+een
+
+
+FOURTH OR LITHUANIAN PERIOD 245
+
+
+shape, * ‘boots of raw hide’ kurpponen, and some sort of
+‘trimming’ paarre.
+
+Without our being able to explain exactly why, the
+Finns of the fourth period borrowed terms for various
+parts of the body, such as, ‘tooth,’ ‘ neck,’ navel,’ * ‘ thigh,’
+‘the tendon Achilles,’ ‘the os sacrum,’ and * ‘ beard.’
+
+In relation to out-door life stand words for ‘forest’
+meisé, ‘woody island’ sal/o, ‘branch’ haara, ‘birch-bark’
+tuohi, ‘tar’ terva, ‘juniper’ kafaja, *‘lichen’ arve,
+* ‘moss’ sammal, and ‘burdock or thistle’ ¢akiainen.
+New varieties of instruments for catching birds and wild
+animals were the ‘snare’ asa, and the ‘bird-trap’ /ahéo.
+Among the new names for wild animals, birds, and insects
+were *‘elk’ hirvi, petra, ‘wild ox (?)’ farvas, the exact
+meaning of which in old Finnish is now lost, but the
+Lithuanian word from which it is taken means ‘Jos prims-
+genius,’ and sometimes the ‘buffalo’; ‘goose,’ ‘magpie,’
+‘cuckoo,’ ‘thrush,’ ‘heath-cock,’ ‘snake’ £édrme, though
+there was already a native word, ‘hornet’ and ‘ wasp.’
+
+In connection with domestic animals the following terms
+were now introduced: ‘ox’ Adrké@—the Lithuanian word
+means ‘horse ’—‘ram’ sdédrd, ‘wether’ oinas, ‘pig’ porsas,
+‘goat’ ouoki, *‘draught-ox, or horse’ juhkfa; ‘a grey
+animal’ 4al/i, ‘an animal with a star on its forehead’
+laukki, ‘a polled ox’ mulii; *‘udder’ uéar, ‘fresh milk’
+rieska ; ‘blubber, fat’ ihra, ‘mane’ havja; ‘hair, colour’
+karva; ‘thong’ hikna, ‘wool’ villa, and ‘hide’ ouota.
+The animals were put in charge of a ‘herdsman or shep-
+herd’ aimen, who may have been provided with a
+*‘herding-horn’ forvi. During the long winters the
+beasts could now be fed on ‘hay’ 4eiad, in connection
+with making which the Finns learnt what the ‘aftermath’
+
+
+246 PRE- AND PROTO-HISTORIC FINNS
+
+
+dtelé, meant; also the ‘water-meadow’ /véfa, ‘rushes’
+whoa, * ‘clover’ afi/a, and * ‘ dried-up grass’ Rudo.
+
+The adoption of several of these new terms which are
+not evidence of increased civilisation may be explained by
+a change in the mode of life of many of the Finns. They
+had become more pastoral, and now observed things that
+formerly escaped their notice. It was not necessary to
+be in the neighbourhood of the Baltic to hear the thrush
+and the cuckoo; in the valley of the Volga they might
+have listened to the song of these birds. And if they had
+looked they might have observed hornets and wasps, clover,
+burdocks, juniper, rushes, and water-meadows, ages ago.
+But evidently they had cared for none of these things ;
+they were of no use.
+
+In agricultural matters improvements were also effected.
+A regular ‘furrow’ vako, was now made, into which the
+‘seed’ stemen, of some kind of ‘corn or grain’ jyudf, was
+sown. The grain had a ‘beard’ oka, and outside the
+kernel was the ‘husk’ fedut. ‘Peas’ 'herne, were quite a
+new article of food and now came into use. After the
+sowing was completed the furrows may have been filled in
+with a * ‘harrow’ des, or a ‘bush-harrow’ 4ava. Out of
+barley or millet they may also have brewed * ‘ale’ olut, which
+Professor Thomsen now refers to the Lithuanian period,
+though formerly and, I think, with greater probability, to
+the Proto-Scandinavian or fifth period, when they learnt
+the use of ‘hops’ and how to make ‘malt.’ According to
+Wulfstan the Eastas knew mead, but not ale, and the final
+# is better explained by a Teutonic than by a Lithuanian
+original.
+
+Connected with boating and fishing we find terms for
+such words as ‘sea’ meri, ‘ship’ éaiva, ‘sail’ ‘purye,’
+
+
+_— pe,
+
+
+FOURTH OR LITHUANIAN PERIOD 247
+
+
+*‘coracle’ kavvas, *‘the side of a ship’ /atfa; ‘crab,’
+‘eel,’ and ‘salmon’ which could now be caught with a
+‘leister’ and ‘torch’ or by a new sort of ‘fish wear’ /ve,
+and perhaps *‘a pole for driving fish into the net’ /avfa,
+was also employed. The first three words, however, do
+not necessarily imply that the Finns had reached the sea,
+for the Lithuanian mares can be applied to a large inland
+lake, and in fact usually means the Frische Haf. For the
+‘sea’ the Lithuanians use a different word.
+
+With regard to external nature, the Finns now noticed
+things from a different point of view and began to differen-
+tiate. They had always known the sun, but the word also
+meant ‘day’; now they seem to have borrowed a word
+that meant * ‘dawn’ or the * ‘morning star’ and used that
+for ‘the sun’ aurinko, alone. So, too, they had always
+known night frosts and hoar frost, but till they took more
+seriously to agriculture such natural phenomena hardly
+attracted notice; at any rate they were harmless. But now
+all this was changed; premature ‘night frost’ Aa//a, and
+‘hoar frost’ Adrmd, resulting in hard ‘frozen ground’
+routa, could, and often did, ruin their prospects of harvest
+in a single night; the new experience demanded a new set of
+terms. Having good sleighs, too, they now noticed whether
+‘the state of the road’ 4e/s, was propitious for travelling
+upon or the reverse. From time immemorial they had
+seen the sky above their heads and had given ita name
+that perhaps always included a personality or spirit in-
+habiting it. But at the very beginning of the fourth period
+the physical aspect of the sky seems to have dropt out of
+sight and they now borrowed from the Lithuanians a new
+word that meant ‘ god,’ but which is now used by the Finns
+simply as the ‘physical sky or firmament’ Zatvas. No
+
+
+248 PRE- AND PROTO-HISTORIC FINNS
+
+
+doubt the Lithuanian word implied ‘the god that dwells in
+the sky,’ and was therefore at first almost synonymous with
+F. Jumala and Jimavi; but the personality implied by the
+native words prevailed in the native mind, so that even-
+tually nothing was left of the foreign divinity but his
+tabernacle, the physical sky. Another personal name of
+foreign origin has also entirely changed its meaning without
+leaving a trace of its ancient signification. F. jerkele
+‘devil,’ is borrowed from L. serkunas, the thunder-god of
+the Baltic peoples, who is still regarded as a beneficent
+being. To the Letts he is of little less importance than
+God himself; he drives away evil spirits; is invoked to
+strike and destroy a stitch in the side; to hurl forth light-
+ning and close a dam that has been made to stop the
+bleeding of a wound; to break and reduce a swelling or
+tumor; and in a song he is addressed quite like a national
+god and the defender of his people :-—
+
+
+Thunder, thunder, Pérkoniti,
+
+Split the bridge o’er the Daugava, (Dvina)
+Lest the Poles and the Lithuanians
+Should cross to my father-land.’?
+
+
+Various abstract terms, adjectives, etc., were also intro-
+duced during the fourth period, such as ‘custom, manner’
+fapa, ‘order, state, condition, quality’ /afa, ‘a turn, a
+time’ kerfa, ‘narrow, tight’ akdas, ‘greyish, green’ Aalea,
+‘grey’ harmaa, ‘yellow’ kelia, ‘loose, unbound’ srfainen,
+‘thin,’ ‘lazy,’ ‘flat,’ ‘wet,’ *‘skew’ arsas, ‘empty,’ ‘all,’
+‘always,’ ‘still, yet,’ and the important word for ‘ 1000.’
+
+A Lithuanian influence can also be traced among the
+Mordvins and Ceremis. Professor W. Thomsen gives a
+
+
+1 Kobert, pp. 172, 270, 245, 251, 259, 260; Sprogis, p. 326.
+
+
+FOURTH OR LITHUANIAN PERIOD 249
+
+
+list of twenty Lithuanian words which seem to be found as
+loan words in one or other or both the above peoples. Of
+these all but three were also adopted by the West Finns.
+The more important Mordvin loans are ‘ daughter,’ ‘ younger
+sister’—the original of which is simply ‘sister’—“‘stall,
+courtyard,’ ‘ pig,’ ‘ udder,’ ‘ thong,’ ‘knife,’ ‘ millet ’—neither
+of these two last are found in W. Finnish ;—‘ goose,’ and
+‘tooo.’ The Ceremis have also borrowed * ‘heath-cock’ and
+‘ out-house’ or, a word that has travelled as far east as the
+country of the Cuva’.!_ Whether these words came directly
+or indirectly to the East Finns is necessarily uncertain.
+Some of the links that once served to connect the East and
+West Finns, such as the Meriens and the people of Murom,
+no longer exist. There is nothing improbable in supposing
+that the words were transmitted mediately through these
+now vanished tribes. Articles like knives and millet, which
+are easily carried, may have found their way to the Mord-
+vins directly through the medium of Lithuanian traders ;
+though, possibly, as Professor Thomsen suggests, in’ a
+southerly direction the Lithuanians and Mordvins may
+once have been in contact.
+
+
+THE FirtH OR PROTO-SCANDINAVIAN PERIOD.
+
+
+Though, as Professor W. Thomsen supposes, the Lithu-
+anian and the Proto-Scandinavian or East Teutonic
+influence may have been partly contemporaneous, both
+belonging to the early centuries of the present era, the
+former certainly began earlier and the new civilisation it
+introduced was far less important. In loan-words of the
+fourth period the voicless explosives 2, 4, 9, and the voiced
+
+1 Thomsen, (rz) p. 153.
+
+
+250 PRE- AND PROTO-HISTORIC FINNS
+
+
+& @, 6, were treated as identical and reproduced in the
+Finnish by &, 4, 9. But in the fifth period a difference
+made itself felt. Now a Teutonic g, d, 4, was rendered
+in Finnish by &, 4, 9, while a Teutonic 2, 4 /, was, when
+possible, doubled, appearing as &&, t#, £p, each explosive
+being sounded twice. This gemination also took place
+exceptionally in the fourth period, showing that its duration
+was considerable. In the fourth period there-are several
+examples of a passage from # to st, as in F. st/fa<L.
+tslias ‘a bridge,’ a phonetic change which is not found in
+loan-words of the fifth period. But though on the whole
+the Proto-Scandinavian loan-words are later than the
+Lithuanian, they nevertheless belong to a stage of East
+Teutonic as old, often older than the Gothic of the -fourth
+century. They show no trace of the vowel change caused
+by ¢ or # in the second syllable reacting on the vowel or
+diphthong in the root syllable; the original diphthongs az,
+au, tu, as well as initial 7, v, are retained; where a Gth.
+é answers to O. N. a, the Finnish agrees with the former ;
+and in a word like F. aufuas<Gth. dudags<*audagas
+‘blessed,’ the original final -as is retained, while in the
+Gothic the @ has disappeared. Dialectically however
+the vowel maintained itself much later than in Gothic; in
+the runic inscription on the By stone, Buskerud Amt, in the
+south of Norway, attributed by Professor Bugge to about
+the middle of the seventh century, the nominative of
+masculine nouns still ends in -2®.2? According to Pro-
+fessor Bugge the um/aut caused by 7 had already taken
+place about 500 a.p.; the final s did not become , till
+after that time; initial 7 was already lost in the sixth
+century, and initial v had vanished by the middle of the
+
+
+Thomsen, (1) pp. 72-76, 151. 3 Jbid., (2) p. 118; Bagge, p. 115.
+
+
+FIFTH OR PROTO-SCANDINAVIAN PERIOD 251
+
+
+seventh century.1 It may be assumed then that most of
+the loan-words about to be enumerated? are earlier than
+600 A.D. or thereabouts.
+
+For the first time in their history the West Finns began
+to acquire the notion of a ‘king’ with persons of lower
+dignity, such as ‘princes’ and local ‘governors’ (Aa/ha),
+whose prerogative it was ‘to govern’ and ‘to judge’ the
+‘nation’ and the ‘state,’ which for convenience was
+divided into smaller ‘ provinces or administrative districts’
+(kihlakunta), the various villages of which were bound
+together for mytual protection by giving ‘ pledges or hos-
+tages’ (A:h/a) to that effect. In connection with these
+dignitaries was the ‘herald’ and the ‘guard.’ The judge
+dealt with cases of ‘ murder,’ had to pass sentence on the
+‘thief,’ perhaps on the ‘harlot,’ had to decide on the
+merits of the case when two men were at ‘strife’ and one
+brought an ‘action’ against the other, and had authority
+to inflict a ‘fine.’ If a ‘trader’ in order to promote and
+augment ‘trade’ obtained a ‘loan’ from a ‘rich’ neighbour
+he had now to pay ‘interest’ for it. Communication was
+rendered easier over marshy ground by laying down a
+‘bridge of felled trees or planks’ and ‘rafts of timber’
+were now floated down stream. In the family circle it
+was now considered derogatory to use the old native word
+for mother, as that was also used for the females of animals,
+and a new term for ‘mother,’ free from such a stigma, was
+accordingly adopted. The ‘bride’ was also distinguished
+from the new daughter-in-law and a more formal ‘betrothal’
+(kikla) belongs perhaps to this period, though it is not the
+earliest sense in which the word was used.
+
+
+1 Bugge, pp. 107, 71, 103.
+2 These will be found in Thomsen, (3) pp. 121, 128, 18s.
+
+
+252 PRE- AND PROTO-HISTORIC FINNS
+
+
+Among the new arms introduced were the ‘spear’ and
+the ‘sword’ (miekka). As the Gothic meékeis translates
+paxaipa the new weapon must have been a short, one-
+edged sword about two feet long, such as was used in
+Scandinavia and the East Baltic area during the first four
+centuries of the present era. The natural complement of a
+sword was its ‘sheath.’
+
+Besides giving each article of dress a special name, a
+general term for ‘clothes’ was now introduced as well as
+words for ‘coat, petticoat,’ ‘shirt,’ ‘ breeches,’ ‘ gloves,’ the
+‘upper shoe-leather’ of a boot as well as its ‘sole.’ The
+‘combs’ and ‘rings’ now introduced were doubtless im-
+provements on the old ones, were more ornamental, were
+of new shapes, and far more fashionable.
+
+The ‘farm-house’ (4artano) was now built of ‘beams,’
+contained ‘rooms’ and ‘sleeping-rooms,’ was provided with
+a ‘floor,’ a ‘hearth’ of improved construction, and if need
+be the door could be fastened with a ‘lock.’ Inside the
+house stood a ‘chest’ or two for keeping clothes; at the
+head of the bed lay a ‘bolster,’ and on the hearth was the
+‘kettle.’ In other parts of the house stood the ‘churn’
+which might have ‘hoops’ round it, the ‘milk-pail,’ the
+‘weavers reed,’ and, if the house belonged to 2 small
+merchant, ‘weighing scales’ which registered a ‘pound
+weight.’ Outside the house was the ‘well,’ and on the
+roof of the house the ‘stork’ may now have perched. It
+is hardly likely the ‘hawk’ was trained for hawking as the
+country was too forested. In summer when the house
+was oppressively hot they could take refuge in a ‘tent.’
+
+Among the instruments that came into use were the
+*axe-hammer,’ which was certainly of iron and so required
+a new name, the * ‘wedge,’ ‘borer,’ ‘saw,’ and ‘needle,’
+
+
+FIFTH OR PROTO-SCANDINAVIAN PERIOD 253
+
+
+all of which would now be of metal. In connection with
+the needle was the ‘seam.’
+
+Fresh names were adopted for the ‘he-goat,’ the ‘bullock’
+and the ‘sheep,’ which was now ‘shorn’ instead of being
+plucked, as was probably the case in the fourth period.
+Plucking, it may be remarked, instead of shearing was
+resorted to by the Shetlanders as late as the last century.
+The horse was already known, but the ‘ headstall,’ ‘ halter,’
+and ‘saddle’ made riding more comfortable. By means
+of a ‘yoke’ the oxen were attached to a ‘plough’ of a
+better description than the old native one, the coulter being
+doubtless of iron. ‘ Uncultivated or desert’ land was now
+distinguished from the ‘field,’ on which ‘manure’ was also
+thrown, and after being ploughed could be sown with
+‘oats,’ ‘rye,’ ‘hops,’ ‘flax,’ or ‘hemp,’ from which last
+‘ropes’ and ‘hawsers’ were manufactured. In the ‘mould’
+of the garden, which was already known, they planted
+‘leeks’ and borrowed a general term for a ‘shoot or
+sprout.’ After being threshed and freed from ‘chaff’ the
+grain was gathered into a ‘barn.’ In hay-making, after
+cutting the grass it was piled up in ‘hay-cocks.’ Barley
+was already known; now they learnt to make ‘malt,’ and
+with the addition of ‘hops’ to brew it into ‘ale.’ The
+‘wine’ must have been imported. From ‘dough’ they
+made a better kind of ‘bread’ than before, and it could
+also be eaten with ‘honey,’ though this certainly was no
+new luxury.
+
+Although the ‘cod’ frequents the Baltic, the ‘whale,’ I
+believe, is unknown in those waters. The introduction
+of the latter term seems to show that some of the West
+Finns had by this time penetrated as far as the ‘shore’
+of the White Sea and the Arctic Ocean. Boats had
+
+
+254 PRE- AND PROTO-HISTORIC FINNS
+
+
+now ‘seats,’ well-defined ‘bows,’ and were propelled
+by regular ‘oars.’ Fishing was practised with a ‘line’ or
+with a ‘net.’ Now they became acquainted with the
+special dangers of the sea, its great ‘waves,’ its ‘rocks,’
+and ‘reefs,’ its narrow ‘sounds’ and ‘high tides,’ as well
+as with its more or less fabulous ‘ monsters’ (¢#rsas).
+
+The new metals were ‘iron,’ ‘gold,’ and ‘tin,’ and it
+may be observed that the Finns did not borrow the
+ordinary word for iron, but one that meant ‘red iron ore,
+hematite.’ It looks rather as if the West Finns first
+learnt to know the ore before seeing the metal, which was
+ultimately extracted from it, and that may mean that the
+Scandinavians compulsorily employed their Finnish cap-
+tives in the hzematite mines. The prisoners, after becoming
+familiar with the term for ore, subsequently transferred the
+meaning to the metal extracted from the hzematite, for at
+first they would not know that a metal could be obtained
+from it. On the escape or release of some of the cap-
+tives, the word gradually would reach the main body of the
+West Finns. Besides learning these new metals the heat
+of the ‘forge fire’ was augmented by the use of ‘ bellows.’
+
+To various parts of the body were now given fresh
+names, such as ‘bosom,’ ‘the back of the shoulders,’
+‘ belly,’ the ‘hips.’ And the body became subject, though
+not for the first time in the history of the Finns, to
+‘disease,’ ‘pain,’ ‘sudden spasms,’ ‘wounds’ and the
+‘scars’ that accompany them. If, in course of time,
+pursued by a remorseless fate, the ‘sick man’ died, the lot
+of the ‘ deceased’ (vainaja) was regarded as wretched, for
+Professor Setali derives the word from the Gth. vainags
+‘unhappy, miserable!’ The Finns were no pessimists,
+
+
+2 Setili, p. 60.
+
+
+FIFTH OR PROTO-SCANDINAVIAN PERIOD 255
+
+
+they preferred to live as long as possible; the life beyond
+the grave was anticipated with anything but pleasure.
+
+Some confused notion of a spirit distinct from the body
+the Finns always possessed ; towards the end of the period
+they adopted a more distinctive word for ‘soul.’ Various
+abstract terms also became current, such as ‘necessity’;
+the notion of making a ‘mistake’ or falling into ‘error’;
+asking ‘permission’ from a superior and ‘ vexation’ of any
+kind. By natural disposition it was recognised that a man
+might be ‘just,’ ‘wise,’ ‘merciful,’ ‘gracious,’ ‘ willing,’
+‘assiduous or eager’; that he might be ‘blessed,’ deserve
+‘merit’ and be worthy of ‘renown’; on the other hand, he
+might also be ‘timid.’ Other abstract terms were appli-
+cable to man, and to natural or artificial objects such
+as ‘rich,’ ‘abundance,’ ‘worth,’ ‘precious,’ ‘beautiful,’
+‘unique.’ Though some sort of singing must have accom-
+panied the zither in the previous period, a new word was
+introduced for a ‘song’ runo.
+
+The word for ‘ Russia’ ( Vendjd) is very interesting as it
+represents the Venedi of Tacitus, the A. Sax. Wined and
+the modern Wend, In Ohthere’s time Wendland meant
+Pomerania, but in the second century there were Venedi
+on the east side of the Vistula and along the north of
+the Carpathians. By the sixth century some of these had
+pressed northwards, though without coming into contact
+with the West Finns. As the word Wend is not applied
+by the Slavs to themselves, but only by Teutons to their
+Slav neighbours, the Finns borrowed the term from the
+East Teutons, and originally, though not now, F. vendja
+must have meant the Wendish people as well as Wendland.
+The Scandinavians in their journeys to and fro between
+their native land and the country occupied by the Goths,
+
+
+256 PRE- AND PROTO-HISTORIC FINNS
+
+
+that lay north of the lower Danube, or in the south-west
+corner of modern Russia, would have to pass through the
+land of the Wends, In this way it came to pass that the
+Finns heard of Wends and a great Wendland to the south
+of themselves, and in course of time, as the Slavs or Wends
+pressed closer upon them from the south, the idea of
+Vendjaé expanded, till it included the whole area occupied
+by the people they had learnt to call Wends from the
+Eastern Teutons, but whom we call Russians.
+
+Partly to account for the Proto-Scandinavian influence
+several writers on the subject have supposed that the Baltic
+Provinces were inhabited by Scandinavians, at any rate in
+part, but the most recent results of archzology lend a very
+uncertain support to this theory. With much greater show
+of reason, archzeology can point to the south-west of Fin-
+land as having been inhabited by a prehistoric Scandi-
+navian people from a very early date down to about the
+sixth century. It also leads us to conclude that before
+they took their departure—they may have gone south to
+join their kinsmen the Goths—they had taught so much
+metallurgy to the West Finns that there is no absolute
+breach of continuity between the civilisation of the first
+and second periods of iron in that region. The passage
+is gradual, clearly showing the Finns had entered far
+enough into Finland to get within reach of the new civilisa-
+tion at an early date, perhaps as early as the second or
+third century a.D. Before reaching Finland the Finns had
+lived further south, had apparently touched on Lithuanians
+in Esthonia and eventually dispossessed them altogether,
+though they may have migrated with the East Teutons of
+Finland to the sunny south, to the great Eldorado where
+plunder was easily obtained. But this event, if it ever
+
+
+FIFTH OR PROTO-SCANDINAVIAN PERIOD 257
+
+
+really took place, is still very obscure. How far inland
+the West Finns were spread cannot of course be deter-
+mined, but probably as far as the Waldai Hills. It is not
+necessary to suppose that more than the outer fringe of
+the main body were in actual contact either with the
+Lithuanians or with the East Teutons. If a sufficient
+length of time is allowed, all the culture-words of the new
+civilisations would gradually permeate and leaven the
+whole mass of the people. The Finns still lived an un-
+settled, half-roving life, and no doubt annually there were
+great gatherings for some special object to which some
+members of the most remote clans inevitably flocked. To
+people that live such a mode of life, a journey of several
+weeks’ duration to attend a national festival is nothing ;
+time has absolutely no value. Another way in which new
+ideas with corresponding new words could travel very far
+from their source is to suppose that escaped prisoners, or
+even such as voluntarily had entered the service of the
+foreigners, eventually returned to their native homes.
+Again, the Finns, when they had an opportunity, would
+make prisoners of their enemies, who might be sent far
+inland, and from them the Finns living at a distance would
+learn many new arts of civilisation.
+
+
+Tue SIxtH OR EARLY SLAV PERIOD.
+
+
+Although there are no actual records of the event, it
+is certain that for several centuries after the present era
+various Slav tribes, subsequently known collectively as
+Russians, were gradually pushing up from the south in the
+direction of Lake Ilmen. In course of time they met
+some of the West Finns, such of them as still lived outside
+
+
+q R
+
+
+258 PRE- AND PROTO-HISTORIC FINNS
+
+
+Finland and formed the southern fringe of the nation.
+The date of this occurrence cannot of course be accurately
+fixed, but it was later than the fifth period and earlier than
+the earliest literary documents of the Slavs. The test of
+the antiquity of the loan-words of the sixth period lies in
+the retention of a vowel + instead of the nasal vowel of
+the earliest manuscripts and the treatment of the vowels
+yert, yer. Mr. Mikkola, who has collected and discussed
+the loan-words of this period, and from whom I have taken
+all the words given below, is of opinion that they were
+borrowed before the Finns entered Finland, an event
+which was completed at any rate about a.p. 800.2 This
+statement is, I believe, far too sweeping. If there is any
+truth in what has been advanced in the last section, some
+of the West Finns were in Finland perhaps as early as
+the second or third century, while the more southerly
+tribes may have extended as far as the Waldai Hills and
+Lake Ilmen. According to my interpretation these more
+southerly Finns borrowed a considerable number of new
+words from the Slavs, but ultimately were pushed north-
+wards, partly into Finland to amalgamate with the earlier
+settlers there, partly north-westwards to swell the numbers
+of the Esthonians, and partly perhaps to the north-east in
+the direction of Lake Bielézero. The result of this late
+movement was that a number of words of Slav origin
+passed into all groups of the West Finns much quicker
+than they otherwise would have done.
+
+As a social body the Finns lived in different ‘communi-
+ties or parishes,’ separated from each other by definite
+‘boundaries,’ From time to time they assembled in the
+‘market-place,’ which might be several ‘versts’ from their
+
+1 Mikkola, pp. 32, 36-180. 3 /bid., pp. 28, 29.
+
+
+SIXTH OR EARLY SLAV PERIOD 259
+
+
+respective homes, and there transacted business, not by
+barter, but in silver currency, using the old Russian erivna
+(F. riuna). Originally this was a silver torque, or collar,
+worn round the neck; then it was used as a unit of value
+with a weight, at Novgorod, of thirteen ounces ; finally it
+became a coin, and now has a value of only ten kopeks,
+or about threepence. For buying and selling there was a
+definite ‘measure’ of quantity or of weight ; ‘goods’ were
+distinguished by their ‘quality or sort,’ and agricultural
+produce could be kept or transported in ‘sacks.’
+
+The house was now provided with a regular ‘ window’
+and an outside ‘ gate’ ; besides stools there was the ‘bench’
+and the ‘bench fixed into the wall’ in the vicinity of the
+‘stove.’ As an offset to this increasing comfort they had
+
+
+‘now to put up with ‘cockroaches.’ Outside in the court-
+
+
+yard was the ‘cow-house,’ and the ‘sparrow’ for the first
+time seems to have attracted notice. Inside the house the
+women plied the ‘distaff,’ the ‘spindle,’ and a new sort of
+‘weavers reed,’ with which they wove ‘linen,’ and perhaps
+* ‘homespun cloth’ and * ‘sackcloth.’ It would be their
+business, too, to make the ‘footless socks’ to protect the
+feet in walking through snow, the ‘linen drawers’ and
+‘cloaks’ that now became the fashion. ‘Boots’ were now
+sewed with ‘waxed or pitched thread,’ and for summer wear
+‘bast-shoes’ were found advantageous.
+
+The only new weapon was a ‘battle-axe’ of iron; for
+lopping off branches ‘twigs’ and ‘ rods’ they used a ‘bill-
+hook’; for carpenters’ work a * ‘chisel’; for reaping a
+‘sickle,’ and for spearing fish a new kind of ‘leister.’
+The hunter was followed by some new breed of ‘hunting dog.’
+
+The boatmen perhaps navigated the inland waters and
+narrow ‘sounds’ in * ‘barges,’ and learnt the use of the
+
+
+260 PRE- AND PROTO-HISTORIC FINNS
+
+
+‘fire beacon.’ The ‘walrus’ could only have been known
+by hearsay, though they may have seen its tusks or the
+strong ropes and tackle that were made from its hide.
+
+Although the Finns had already borrowed a number of
+words for various parts of the body, they now augmented
+the number by re-naming the ‘throat.’
+
+New articles of food from the kitchen garden were
+‘beans’ and ‘carrots.’ On feast days the bill of fare was
+increased by the addition of a ‘pie or pasty.’ After a
+drinking bout they learnt, hardly for the first time in their
+history, the disastrous effects of ‘drunkenness and hot
+coppers.’
+
+Murder as a crime was known in the previous epoch,
+now they borrowed a term for the ‘thief’ and the ‘ wizard.’
+A new ailment, or one with a fresh name, was the ‘itch.’
+
+Among the new abstract ideas were the sensations of
+feeling ‘free,’ of being ‘clean and decent’ or ‘sorrowful’ ;
+the deeper-seated sensations of ‘pity’ and ‘anguish’; and
+the more advanced conceptions involved in the notions of
+‘insight, comprehension,’ and ‘counsel, reflection.’
+
+Among the very latest of the loan-words are several
+ecclesiastical terms, showing that Christianity had been
+preached at a fairly early date, though hardly before the
+beginning of the tenth century. The words are ‘cross,’ to
+‘christen,’ ‘ priest,’ the ‘ Holy Scriptures,’ and ‘ heathen.’
+
+
+THE SEVENTH OR TATAR PERIOD.
+
+
+Between the third or Iranian, and the seventh or Tatar
+Period, there seems to have been an interregnum of stag-
+nation among the East Finns, though the former may have
+lasted to the fall of the Sassanide empire. The oldest
+
+
+i ———”,l SS
+
+
+¢
+
+
+SEVENTH OR TATAR PERIOD 261
+
+
+Mordvin loan-words of this period, according to Mr.
+Paasonen, to whom I am indebted for all the loan-words
+given below,! seem to have been taken from the Cuva3,
+some of them when it was at an older stage than at
+present.2 Dr. Radloff, Vambéry, and Paasonen all hold
+that the Cuvas are descendants of the ancient Bolgars. They
+speak a strongly marked Tatar dialect, presenting certain
+phonetic peculiarities which led Dr. Radloff to believe
+that they are a Tatarised people; the physical aspect of
+the people points to the same conclusion. Several Arab
+authors aver that the language of the Bolgars and Khozars
+was the same, and was different from the Turkish and
+Persian. ‘The former first appeared in Europe in the fifth
+century, and, if they called themselves Bolgars or Bulgars,
+must have been Tatarised before entering Europe. They
+may have settled on the central Volga as early as the sixth
+or seventh century, where they maintained themselves till
+the capture of Bolgari in 1238 by the Mongols. The earlier
+CuvaS loans are about sixteen in number, and are indicated
+below by a (C.) in brackets; the later ones date from the
+thirteenth century onwards, and were made from the MiSar
+Tatars, now found in the governments of NiZni, Simbirsk,
+Penza, and Saratov.
+
+The Mordvins now adopted two fresh terms for digni-
+taries, the ‘prince’ and the ‘Kan.’ The ‘assembly of the
+community’ took place in the street, for that is the meaning
+of the Tatar original. Hospitality seems to have been a
+new ‘custom,’ and was marked by receiving the ‘stranger’
+and treating him as a ‘guest’ or as a ‘ friend or comrade.’
+As a counterpoise to the exercise of this virtue the ‘glutton’
+came into existence.
+
+1 Paasonen, pp. 26-57. 3 Jdid., p. S.
+
+
+262 PRE- AND PROTO-HISTORIC FINNS
+
+
+Merchants and traders, braving ‘storms’ and ‘ waves,’
+assembled in the ‘ market-place or bazar,’ and had ‘scales’
+weighing up to a ‘weight of ro lbs.’ They ‘tested’ the
+quality of an article to see if it was ‘ bad or spoilt,’ and it was
+‘good luck’ for them to buy ‘cheap.’ Among the foreign
+articles they traded in were ‘pepper,’ ‘paper,’ ‘brass,’
+‘chains,’ ‘silk,’ and many other articles.
+
+In the family new terms were borrowed for ‘(C.) mother,
+wife, woman,’ and ‘(C.) elder sister or aunt (on either side).’
+Marriage customs took a new turn or were conducted with
+greater ceremony and etiquette, for ‘match-makers’ appear
+on the stage, and haggling took place over the ‘ price of the
+bride’ or the bridal feast, as the word means in the original.
+Fresh terms of address and respect were adopted for the
+‘husband’s sister older than the husband,’ ‘husband of
+elder sister or brother-in-law,’ ‘husband of sister’s wife,’
+‘wife’s younger sister,’ ‘ younger brother,’ ‘son, young man,’
+and ‘child.’ A ‘sense of shame or decorum in girls’ was
+now required, and a stigma was attached to ‘leading an
+immoral life.’
+
+Men wore a ‘(C.) long coat or kaftan,’ with a ‘ pocket’
+in it, as well as a ‘cap.’ The ‘pretty’ women adorned
+themselves with ‘necklaces of glass beads’ and ‘coins worn
+as an ornament.’ The best clothes of both sexes might be
+of ‘ (C.) suk,’ embroidered with ‘gold and silver thread,’
+and the colour of their garments was sometimes ‘ white.’
+Against ‘cold, wind, or weather,’ they had ‘coverings of
+felt.’
+
+A ‘ beard,’ when it could be grown, was now the fashion,
+and fresh terms were borrowed for the ‘lower part of the
+back,’ and the ‘left (hand).? They now suffered from
+‘skin disease’ and ‘itch,’ and the ‘blind’ excited com-
+
+
+SEVENTH OR TATAR PERIOD 263
+
+
+passion ; in the old days they were perhaps put away as
+soon as the blindness was remarked.
+
+The ‘house’ no doubt was an improvement on the
+older dwelling ; the furniture included a ‘chest’ and part
+of the building could be partitioned off with a ‘curtain.’
+The warmth and comfort of the establishment however
+invited the ‘(C) bug.’ Increased notions of cleanliness
+necessited the use of ‘soap.’ Outside was the ‘enclosed
+courtyard,’ where ‘turkey cocks’ now displayed themselves,
+the ‘cultivated field’ and the ‘ portion of a field or forest.’
+In the cultivated ground grew ‘(C.) hops,’ ‘cucumbers,’
+‘horse radish,’ ‘male hemp,’ and ‘fruit’ as well ‘dry
+grass’ and weeds like ‘darnel.’ Beyond the cultivated
+fields by the ‘steep bank’ of some stream grew the ‘(C.)
+willow’ and the “e) elm or ash,’ the original of which last
+meant the alder; a fresh term too became current for a
+‘(C.) branch or twig.’ In the open fields the ‘hare’
+crouched in its form and the ‘ mole’ threw up mole-hills.
+With regard to wild birds they borrowed a name for the
+‘hawk’ and two for the ‘ jackdaw.’
+
+The dietary was improved by the introduction of
+‘dumplings,’ ‘(C.) round cakes’ which could be eaten with
+‘honey-comb,’ ‘cream,’ and ‘sour milk’; ‘pepper’ was used
+as a seasoning. With the hops ‘small beer’ was brewed
+which sometimes would lead to ‘intoxication’ and fighting
+with ‘clubs.’ For holding liquids there was the ‘trough.’
+
+As the Tatars were a horse-loving people, the Mordvins
+adopted new terms for ‘stallion,’ ‘gelding,’ a ‘refractory
+horse’ and a ‘hired horse and conveyance’ as well as for
+a ‘saddle girth’ and ‘halter.’
+
+‘(C.) Brass’ was the only new metal, and this as well as
+iron could be wrought into ‘chains.’
+
+
+264 PRE- AND PROTO-HISTORIC FINNS
+
+
+In the religious life, besides learning ‘to fast’ and to
+keep ‘pure and holy,’ they were taught the existence of
+‘Satan,’ of an ‘evil spirit of Keremet,’ of a ‘sorcerer or
+evil spirit,’ and they acquired some new way of ‘divining’
+the future to see what their ‘luck’ would be.
+
+Among the more abstract ideas were ‘free will, freedom,’
+‘clean, well, strong,’ ‘to assist,’ ‘to prepare,’ ‘to despise,’
+and a ‘contour or outline,’ the original word meaning the
+ghost of a dead person.
+
+The Ceremis were quite as much indebted to the Cuvas
+and to the Tatars. All the loan-words below are taken from
+Professor Smirnov.! The new civilisation introduced the
+‘chimneyless hut’ with its ‘hearth’ and ‘escape for the
+smoke.’ Inside the house was a ‘loft’ and the furniture
+consisted of ‘stools,’ ‘chairs,’ ‘cushions,’ ‘featherbeds,’
+and even ‘bed curtains’ to keep out the midges and mos-
+quitoes. New ideas of cleanliness led the people to adopt
+the ‘tub’ and the use of ‘soap.’ Women span thread
+with a ‘distaff,’ and learnt ‘to embroider.’ Round the
+house were distributed the ‘cellar,’ the ‘bath house,’ and
+the ‘cattle shed,’ and these were contained within a ‘ com-
+pound or fenced enclosure,’ in one side of which was a
+‘gate.’ They bred ‘ cattle,’ ‘horses,’ and ‘sheep,’ for which
+there are several names. ‘The hay was kept in a ‘ covered
+structure’ for that purpose, and ‘ enclosures for cattle’ were
+now made in the woods or in the fields. The ‘herds’ were
+in charge of a ‘herdsman,’ and a ‘trough’ for the cattle
+to drink out of in winter was found useful.
+
+Agriculture took a new development. The ‘ploughed
+fields’ were manured with ‘dung,’ and ploughed with a
+‘hook plough’ into ‘strips,’ with a ‘boundary’ between
+
+1 Smirnov, (1) pp. 24-29.
+
+
+SEVENTH OR TATAR PERIOD 265
+
+
+each, and might be sown with ‘oats.’ After being reaped
+the corn was bound into ‘sheaves’ and the ‘straw’ was
+separated from the grain by threshing. ‘Hay’ was cut
+with a ‘scythe’ and turned with a ‘fork’ before being
+housed. Near the house was the ‘kitchen garden’ in which
+vegetables and fruit such as ‘onions,’ ‘garlic,’ ‘radishes,’
+and ‘apples’ were cultivated. For transporting the corn
+and agricultural produce there was a ‘wagon’ to which
+horses were attached by means of a ‘collar,’ and to
+separate the shafts they used a ‘bow or arch’ which rose
+immediately above the collar. The horses were ridden
+and driven with a ‘bit’ and in connection with the wagon
+and its harness they made use of ‘nails,’ ‘hooks,’ ‘chains,’
+and ‘cords.’
+
+As a consequence of turning their attention largely to
+agriculture the Ceremis were now able to indulge in
+‘ porridge’ and to eat ‘ pancakes.’
+
+The people were no longer on an equal level of modest
+competence ; they had to recognise the difference between
+‘rich’ and poor,’ between ‘master and mistress’ on the
+one hand and ‘work-people’ on the other. A trader
+brought his ‘goods’ to the ‘ bazaar or market place,’ put a
+sufficient ‘ price’ upon them to make a ‘profit’ and secure
+himself against ‘loss’ and was ‘paid’ in ‘money.’ If
+his stock ran short he could apply to a ‘usurer’ for a
+‘loan.’
+
+From Mohammedan missionaries, who first came to
+Bolgari in’ the tenth century, the Ceremis imbibed a
+number of totally new ideas, such as ‘religion’ and ‘sin.’
+He trembled at the idea of the ‘ Judge in the other world,’
+of ‘hell’ and of ‘Satan.’ Their immediate surroundings,
+they heard, were only a small part of the ‘world’ and the
+
+
+266 PRE- AND PROTO-HISTORIC FINNS -
+
+
+sky itself only formed a part of ‘nature’ asa whole. They
+adopted a word for ‘man,’ which placed him in a new
+light ; which differentiated him entirely from animals and
+made him a special creation of the Almighty with whom
+he might ultimately expect to dwell in ‘paradise.’ For
+man was possessed of a ‘soul’ and ‘spirit’ which directed
+his ‘mind’ and ‘ will.’
+
+The Votiaks have borrowed still more largely than the
+Ceremis and the Mordvins from their Tatar and Cuva%
+neighbours. Dr. Munkdcsi, from whom I have taken all
+the words given below,! has enumerated a list of over 800
+Votiak words of Tatar, Persian, and Arabic origin, many
+of them verbs. But as they all came through a Tatar
+source and belong to the same period as the loan-words in
+Mordvin and Ceremis, it is not necessary to separate them
+into three categories or to enumerate the whole of them.
+
+In their social life the Votiaks now recognised a ‘lord’
+and ‘prince’ in ‘authority’ over them, to whom they paid
+‘tribute’ and ‘taxes,’ who would preside at their ‘assem-
+blies,’ issue his ‘commandments’ and govern a ‘district.’
+The ‘judge’ administered the ‘law’ and the ‘statutes,’
+tried the ‘robber,’ and the ‘thief,’ the ‘debtor’ and the
+‘calumniator’ that had ‘told lies’ about the prosecutor ;
+and heard the ‘ witnesses’ ‘give evidence’ on ‘ oath.’
+
+Of lower rank than the prince was the ‘master,’ for
+which there are a couple of terms. The mass of the
+‘people’ was still lower in the social scale and they were
+subdivided according to their vocation. There was now
+the ‘artisan or handicraftsman,’ the ‘workman,’ ‘herds-
+man,’ ‘watchman,’ ‘messenger,’ ‘servant,’ and also the
+‘harlot.’ A distinction was thus drawn between ‘rich’
+
+
+1 Munkacsi, (3) pp. 79-152.
+
+
+SEVENTH OR TATAR PERIOD 267
+
+
+and ‘poor,’ and in other ways the old social equality
+was impaired, for a ‘strong man or hero’ could now
+make a name for himself and raise himself above his
+fellows in a way that formerly had not been possible.
+The new laws of hospitality brought in a word for a
+‘guest,’ who was treated as a ‘friend’ and ‘comrade.’
+
+In the ‘family’ a considerable number of new terms
+were adopted, showing that its old constitution had
+undergone a change. Such were ‘grandmother,’ ‘elder-
+brother,’ ‘brother,’ ‘elder sister,’ ‘elder sister on the
+father’s side,’ ‘elder sister or aunt,’ ‘husband of wife’s
+sister,’ ‘ wife’s brother or sister’; ‘step-father, step-mother ;
+‘relation.’ Marriages were arranged by a ‘match-maker’;
+the young couple were formally ‘betrothed’ and the ‘ price
+of the bride’ was agreed upon beforehand. With the
+stricter marriage laws a definite, legal term for ‘ adultery’
+was added to the vocabulary. At the wedding feast and
+other festivities was to be heard the ‘singer’ accompany-
+ing himself on the ‘zither,’ as well as the player on the
+‘ fiddle,’ ‘ bagpipes,’ and ‘horn.’
+
+The new ‘farm-house’ was built on a ‘foundation,’ and
+was provided with a ‘hearth’ and a ‘chimney flue,’ besides
+being divided into separate ‘rooms’; a ‘staircase’ led to
+the upper chambers. As furniture there were ‘mats,’
+‘cushions,’ ‘ pillows,’ and ‘coverings.’ Outside, enclosed
+by a ‘fence’ of some sort for which there are two words,
+was the ‘courtyard,’ ‘bath-house,’ ‘shed’: and ‘granary,’
+including the ‘well’ and ‘bucket’ for drawing water.
+Within the yard, to which there was access by a ‘gate,’
+could be heard the gobbling of the ‘turkey-cock,’ the
+crowing of the ‘cock,’ the cackling of the ‘hens’ and
+‘chickens,’ the cooing of the ‘dove,’ the lowing of the
+
+
+268 PRE- AND PROTO-HISTORIC FINNS
+
+
+‘calf’ and bleating of the ‘sheep, lambs’ and ‘he-goats.’
+Some birds were kept in ‘ cages.’
+
+As a means of transport there was the ‘wagon’ to which
+a ‘gelding’ could be harnessed. Some riders preferred the
+‘ambling horse’ with ‘a saddle,’ ‘stirrups,’ and ‘halter,’
+Others the ‘ass.’ Excepting as a name and by vague
+report the ‘camel’ could hardly have been known. For
+fodder in winter they made hay which was heaped into
+‘ hay-cocks’ with a ‘ pitch-fork.’
+
+The ‘fields,’ for which there are two expressions, were
+tilled and might be sown with ‘flax’ or ‘corn’ of some
+kind such as ‘millet’; when cut it was tied up in ‘sheaves’
+and the ‘grain’ was separated from the ‘straw’ by thresh-
+ing. In the ‘kitchen garden’ they grew ‘lentils,’ ‘ gourds,’
+‘radishes,’ ‘turnips,’ ‘onions’ and ‘garlic,’ as well as
+‘ fruit,’ such as ‘apples’ and ‘cherries.’ They even took
+a fancy to ‘roses,’ perhaps to other ‘flowers’ by reason of
+their ‘colour’ and smell. Agriculture of a more advanced
+type was introduced and with it the artificial ‘ beehive’ in
+which better ‘honey-combs’ were produced.
+
+‘Bread’ was now baked and the above vegetables,
+including ‘rice’ which of course was imported, could now
+be made into ‘soup and food’ of various sorts by cooking
+them in a ‘pan’; ‘meat’ was ‘roasted’ before the fire.
+The meal was washed down with ‘beer’ and ‘brandy,’
+drunk out of a ‘glass’ or ‘bowl’; the results of drinking
+too much led to ‘drunkenness and hot coppers.’
+
+Spinning and weaving had already been learnt, but a
+different sort of ‘weaver’s sley’ was introduced. The
+dress for great occasions was of greater splendour than of
+yore. ‘Women’s cloaks’ could be of ‘silk,’ embroidered
+with ‘gold thread,’ for ‘gold’ was now known. They also
+
+
+SEVENTH OR TATAR PERIOD 269
+
+
+wore ‘pearls,’ ‘shoes,’ ‘stockings,’ and a ‘cap.’ Men let
+their ‘ moustaches’ grow, and new terms were substituted for
+various parts of the body, such as ‘foot or leg,’ ‘loin,’
+* throat,’ ‘cheek,’ and ‘ belly.’
+
+New instruments, all of course of metal, were ‘shears,’
+‘saws,’ ‘knives,’ ‘wire,’ ‘anvils,’ and ‘weighing scales.’
+With the latter was associated a ‘weight of 24 drachms’
+(miskal); Munkdcsi does not give the word, but it is
+certainly the Ar. méithgal, which weighed about 74
+grains, or nearly ro grains in excess of the modern
+weight. Metallic ‘money’ was now current and with it
+came the ideas of ‘gain’ and ‘profit.’ ‘Paper’ was used
+for writing and drawing upon, for some of the natives had
+learnt ‘to read’ and could recognise a ‘picture or portrait.’
+Formerly the divisions of ‘time’ were of ample dimensions,
+nothing less than a month; now they divided the month
+into ‘ weeks.’
+
+Though the Votiaks had always lived in a cold country
+and were acquainted with meteorological and other natural
+phenomena, they thought fit to enlarge their vocabulary
+by new terms such as ‘frost and cold,’ ‘fog,’ ‘storms’ (two
+words), the ‘s/epe,’ ‘steep bank,’ ‘island,’ ‘chalk’ and ‘reeds.’
+
+So too they found it advisable to incorporate into their
+language several words for animals, some of which they
+knew before, and in certain instances they have changed
+the original meaning of the loan-word. Such are ‘elk’;
+‘beaver or otter,’ but musk-rat in Tatar; ‘rat,’ but beaver
+in Tatar ; ‘squirrel,’ but hare in Tatar ; ‘ martin’ and ‘lion.’
+New bird-names are ‘eagle,’ the ‘great horned owl,’ ‘gull,’
+‘jackdaw,’ ‘crane,’ ‘lark,’ and ‘quail.’ Among cold-
+blooded animals are the ‘serpent’ as a mythological fancy,-
+‘leech,’ ‘frog,’ besides two words for ‘ flies.’
+
+
+270 PRE- AND PROTO-HISTORIC FINNS
+
+
+A new malady may have been ‘small-pox’: a man
+might be ‘ deaf,’ ‘blind,’ ‘crippled,’ or in ‘pain’ from a
+‘wound,’ but instead of the old charms for banishing the
+evil spirits of disease he could now resort to the use of
+‘medicine.’
+
+In the ‘street’ besides ‘shops’ could now be seen the
+‘mosque’ with its slender and picturesque ‘minaret.’
+Here was proclaimed the ‘religion or creed’ of the
+‘Prophet,’ bringing with it new notions of the nature of
+‘sin’ and ‘guilt’; of the deceptions of ‘Satan’ and the
+manifold ‘evil spirits’ which pervade the ‘world,’ though
+their machinations could be thwarted by the good offices
+of ‘angels’; of the virtues of ‘fasting,’ ‘alms,’ ‘offerings,’
+‘ prayer,’ ‘ penance,’ and ‘compassion’ for the ‘poor.’ Now
+they cherished a ‘hope’ of ‘eternal life’ in ‘ Paradise’ and
+shuddered at the idea that their ‘fate’ should lead them
+to ‘Hell’ to abide with the ‘accursed.’ The ‘place of
+sacrifice’ of their own native gods also acquired a new
+name.
+
+Lastly, the mental horizon of the Votiaks was enlarged
+by abstract terms such as ‘honour,’ ‘duty,’ ‘true and right,’
+‘good,’ ‘righteous,’ ‘ generous,’ ‘ beautiful,’ ‘joyful,’ ‘ peace,’
+‘friend,’ ‘friendly,’ ‘freedom’ and ‘free.’ The opposites of
+these were ‘treachery,’ ‘treacherous,’ ‘deceit,’ ‘deception,’
+‘ dissolute,’ ‘ lust,’ ‘wickedness,’ ‘ hatred,’ ‘derision,’ ‘enemy ’
+‘unclean’ and ‘unfree.’ They also borrowed words de-
+noting ‘intelligence,’ ‘insight,’ ‘advice, counsel,’ ‘ watchful,
+careful’ and many verbs such as ‘to remember,’ ‘to for-
+give,’ ‘to honour,’ ‘to advise,’ ‘to take counsel,’ ‘to make a
+vow,’ ‘to boast,’ ‘to regret,’ ‘to fall in love or to take up
+with any one,’ ‘to bless’; ‘to rob,’ ‘to be vexed,’ ‘to curse
+and to swear.’
+
+
+CHAPTER VI
+
+
+BELIEFS OF THE WEST FINNS AS EXHIBITED IN
+THE MAGIC SONGS
+
+
+SPIRITS.
+
+
+In the previous chapters enough has been said to allow us
+to gain some idea of the civilisation of the Finns as a
+whole at various stages of their history. And now that
+our attention has to be turned solely to the West Finns we
+shall be in a better position to estimate the amount of
+change and evolution that has taken place in their ideas
+_ from their first appearance in Europe to the beginning of
+‘the present century. For the sake of convenience no notice
+was taken of the West Finns in that part of chapter iv.
+relating to the existing beliefs of the Eastern Finns and
+Ugrians. The reason is that as the following chapters contain
+an analysis of the beliefs of the West Finns, so far as they
+can be extracted from the Magic Songs in vol. ii., it is
+better to keep this matter together, referring back, when
+necessary, to any coincidences of belief and practice in
+chapter iv. The references in brackets refer to the
+numbered sections of the Magic Songs in vol. ii.
+
+Till recent times it may be said that the West Finns
+held the same belief in spirits as the East Finns. They
+were of opinion that every lake, stream, forest, heath and
+swamp, every tree and flower, as well as every living being,
+
+o71
+
+
+a
+_ “
+
+272 PRE- AND PROTO-HISTORIC FINNS
+
+was inhabited or ruled by a spirit, sometimes called a
+haltia, who might be of either sex, as among the East
+Finns. We have already learnt that Aa/ia is an early
+Scandinavian loan-word meaning ‘governor, ruler.’ For
+instance, in Genesis, Joseph is termed the Aa/#ta or steward
+of Pharaoh’s household. In the Magic Songs it occurs
+several times as the spirit-ruler, or wielder of authority.
+An exorcist declares that God is his Aa/tra, who assisted
+him against sorcerers (2 f). The Creator is the 4a/ta of
+the heavens (59 2). Old mother Zine, life’s kalfta, is in-
+voked to rouse herself before a sorcerer rises, to help a
+beloved son, by whom the exorcist himself is intended
+(176 a). A hunter begs Annikki, Tapio’s daughter, to
+awake with shouts the king of the forest, the Aaltia of the
+backwoods (139 2). A herdsman beseeches ‘the old wife’
+of cattle, the Aa/fia of kine, to awake before any sorcerer
+or jealous person rises (132 ¢). A treasure-seeker exclaims :
+‘Kinsmen of Hiisi, now arise! awake, thou mountain
+haltia\’? (111). A prayer begins: ‘Welcome! O Earth,
+welcome! Earth’s Aa/#ia’ (102 a). A hunter sadly com-
+plains that with other men luck does the work, their Aa/ta
+fetches them coin, but his luck, his 4a/f#a, lies confused
+under a stone with gloves on his hands, or as we should
+express it colloquially, with his hands in his pockets (89 e).
+A snake is addressed as a ghost or phantom that looks like
+a haltia (29 c). Again, a wizard in working himself into an
+ecstasy invokes his Aa/fia to rise from its hole, from under
+a fallen tree, or stone, or moss, or wherever it may be, and
+mentions its brilliant eyes and spotted cheek, as if he had
+a snake in his mind’s eye (12 a, 4). The technical term for
+being in an ecstasy (olla haltiossansa 1. ‘haltioisansa) means
+literally ‘to be in one’s Aa/tia or among one’s halta,’ in
+
+
+BELIEFS OF THE WEST FINNS 273
+
+
+other words, ‘to be in the spirit or among the spirits.’
+From the above examples we see that the heavens, the
+earth, the forest, the mountain, and individual men, have
+each their spirit, ruler, or guardian. Such an idea goes
+back to the earliest times. That the word ‘hal#a’ is a
+loan-word is of no moment, it merely related to function
+and carried with it no connotation of spirit. Nearly
+parallel with this is the usage of the native terms sania,
+emdnta, ‘house-father, master,’ ‘ house-mother, mistress.’
+
+
+”
+a
+
+
+“
+UKKo.
+
+
+Ukko, the ‘old man,’ was the anonymous air- and thunder-
+god. In the text his usual epithets are ‘the god (lord,
+father) on high,’ ‘the god above the clouds,’ ‘the aerial
+god,’ ‘the great lord of the air,’ ‘the god that rules over
+journeys,’ ‘the god known everywhere,’ ‘the golden king,’
+‘the mighty father of the sky,’ ‘the father of the rulers of
+the sky,’ ‘the ancient father of the sky’ ‘who lives at the
+midpoint of the sky,’ ‘ at the edge of a thunder-cloud,’ ‘the
+ruler of thunder-clouds,’ ‘the white-headed.’ The Finns,
+therefore, assigned him many honorific epithets, but no
+wife or children. He remained a spirit almost without any
+anthropomorphic tendency. He is not, like the thunder-
+god of the Mordvins, amorously inclined, first making love
+to and then carrying off the fair maidens that live on the
+earth.
+
+In the older period Ukko appears armed with a club or
+axe, uSually of gold, and it is by no means certain that
+these were intended to symbolise the thunderbolt. He
+merely carries the indispensable weapons used by the
+ordinary Finns of that period. It might be supposed that
+
+I S
+
+
+274 PRE- AND PROTO-HISTORIC FINNS
+
+
+the club was 2 metaphorical expression for a thunderbolt
+when he is said to strike down with his club the spirit of
+disease (17 x), or when he splits with it the head of rust in
+corn (95 4). But it cannot be so when he is invoked in
+child-birth to bring his golden axe or club to remove
+obstructions and allow a child to be delivered in safety
+(166 a, 5); or when a wizard asks for the loan of his golden
+scraping knife or his silver axe to remove a tumour with
+(129 a); or when a trapper wants the loan of his axe to fell
+a honeyed aspen with which to make an attractive trap
+(151 a). Instead of a scraping knife Ukko, on one occa-
+sion, is requested to drop his pincers from the clouds into
+the right hand of an exorcist, who will then proceed to
+extract the arrows of a sorcerer (149 @). And as the
+golden king he is begged by a hunter to take his golden
+club and beat the woods, so that pine branches may turn
+into squirrels and the wooded wilds into otters (139 7). In
+these last six examples it is clear the speaker is not think-
+ing of a thunderbolt, but of some appropriate instrument
+which Ukko would be sure to have.
+
+When armed with a sword, which became known in the
+fifth Period, Ukko appears more clearly as a god of light-
+ning, though not always. By striking fire in the sky with
+his fiery-pointed sword he gave humanity the great blessing
+of household fire (226 a). Another time when the great
+lord of the air struck fire, a spark shot down into the sea
+and turned into rock-salt for the benefit of man (223). As
+ruler of thunder-clouds he is asked to thresh out his fiery
+barns, to thunder and clatter in the bellows of the air, and
+to pour down fire to destroy jealous persons and witches
+(176 p). Sitting on the edge of a thunder-cloud he is
+implored to destroy with his fiery sword all injuries caused
+
+
+BELIEFS OF THE WEST FINNS 275
+
+
+by spells (154 4); or to lend an exorcist his fiery sword
+with which to scatter and destroy such injuries (154 a); or
+to give a sufferer a fiery sword with which he can slash and
+for ever destroy the spirit of disease (154 ¢).
+
+As god of the air he causes snow to fall (89 4), and is
+invoked to let fresh snow descend and form a good road
+for a sleigh to glide along (152). By a cautious soldier he
+is requested to bring the clouds together to rain on the
+touch-holes or let snow cover up the locks of the enemies’
+guns (162 a). As golden king of the air he is begged to
+raise a storm to destroy the boats of a dreaded enemy
+(180 a). With drops from the clouds, with iron hail Ukko
+condescends to break the head of the destructive cabbage
+grubs (119); and with sharp needles and iron hail he is
+invoked to pain the head of disease (17 /). As the kindly
+god, Ukko is implored by a husbandman to create a cloud
+and let water and honey drizzle down on the newly-sown
+seed (130 a). On the other hand when too much rain has
+fallen he is besought to take his clouds to Russia, his
+rainbows to Karelia where they want water to baptize a
+child (156). As powerful father of the sky he is asked to
+join the clouds and rain down honey and water to make
+a goodly salve (181 ¢); or to bring a bottle of pure water
+and luscious juice to make a salve to promote the delivery
+of a child (166 ¢). As god above the clouds he is prayed
+to roll a huge cloud down on the foaming surge of certain
+rapids, that the boatman may not be observed and eaten
+up by witches or sorcerers (127 ¢). From always having
+water at command Ukko is invited to fling himself into a
+fire with water in his mouth and a water-hat on his neck ;
+to throw water on burns and cause an icy blast to blow on
+the burnt skin to prevent suppuration (171 2). As god
+
+
+276 PRE- AND PROTO-HISTORIC FINNS
+
+
+of the air it is within his province to protect cattle;
+accordingly he is invoked to watch over the herds at
+pasture (123 5); or to make the summer beautiful, the
+marshes placable and the forest amiable; to hide the
+flock under a cloud and if a greedy bear comes prowling
+round to turn the cdws temporarily into stumps and stones
+(123 2).
+
+Hitherto Ukko has been asked to do nothing more that
+is compatible with the character of a god or spirit ruling
+over the air and the thunderbolts. But in the instances
+that follow Ukko is rather regarded as an all-powerful god
+that can grant any request, a mode of viewing him that
+may be attributed partly to the Scandinavian belief in an
+all-father, partly to the permeation of Christian doctrine.
+There is a gradual confusion perceptible between him and the
+Almighty which ended in complete amalgamation. Ukko,
+the god that rules over journeys and governs the clouds is
+invoked by the leader of a bridal party to come as quick
+as fire from the sky, and having the size of a huge forest
+fir to protect the procession against enemies (117 4); or
+to give away a maiden’s hand and lead a man about to
+be betrothed (117 2). A prudent soldier going into battle
+implores the ancient father of the sky to give him fiery furs
+and a flaming shirt, and further to build a wall of six fathoms
+in each direction to protect him against the enemy’s shot
+(162 5); or to bring him the swords of roo men of such
+sort that they will not glance off a bone, nor break against
+a skull (163 a). A suppliant begs him to build an iron
+fence reaching from the sky to the earth to shelter him
+and his people from sorcerers (176 m, ”); or to let fall
+from the sky a copper horn, a golden shield which the
+petitioner can put on and guard himself with against the
+
+
+Meme —e--
+
+
+BELIEFS OF THE WEST FINNS 277
+
+
+arrows of sorcerers (176 0). The dear father in the sky is
+invoked to free a man from the effects of spells (165 4);
+or to watch jealous people, remove witches, and take care
+that the supplicant is not killed before his time (176 /). A
+hunter asks him for a straight and swift pair of snow-
+skates, on which he can scud rapidly to the heaths of
+the north where game is to be found (164). Ukko of the
+air is besought to stop a flow of blood with turf; failing
+that he is to thrust his thick thumb into the wound to
+serve as a stopper (177g). Or as the white-headed one,
+he is asked to plough up a bit of turf to staunch the flow
+of blood, and then let skin grow over the wound during
+the night (177 4). As the Creator up above, Ukko is
+desired to boil water and honey to make a goodly salve.
+He is to take a bit of salmon, some butter, fat and a rasher
+of bacon, and make of the compound a potent ointment
+for healing fractures (181 @). Lastly, it was Ukko, the
+aerial god, the Creator on high, that by rubbing his hands
+against his left knee gave birth to three Luonnatars that
+they should become the mothers of iron (214 a). Here
+we find Ukko with the new epithet of Creator, an attribute
+that was not applied to him in purely heathen times.
+
+Among the Voguls, Ostiaks, and some of the Votiaks,
+as we have already learnt, no sacrifices are made to the
+sky god, Num, Inmar, and there was no special worship
+of him. The same seems to have held true of the West
+Finns. Ukko is asked to assist, but nothing is offered
+or promised him in return and that was the old traditional
+standpoint. The idea of appealing to him at all is perhaps
+not earlier or not much earlier than the fourth period.
+
+
+278 PRE- AND PROTO-HISTORIC FINNS
+
+
+ILMARINEN.
+
+
+As the name implies, Ilmarinen, the diminutive of Imari,
+was connected with the air and weather -(//ma). And
+there is reason, I think, to believe that he was the old air
+and sky god of the Finns before they ever came in contact
+with Europeans. J/mari corresponds formally with the
+Votiak /nmar, whose name is now used to denote the
+monotheistic god of the Russians and of the Tatars, but
+in one district the word has its older meaning of the ‘sky
+or heaven’ as well, just as ¢dngri signifies ‘god and sky’
+among the Turkish tribes of the Altai. In other places
+in(m) is employed without the suffix -ar for ‘God’ and ‘sky.’?
+Inm is therefore the equivalent of s/ma, which, before the
+Lithuanian term faivas ‘sky’ was borrowed, included this
+meaning as well as ‘air’ and ‘weather.’ Then the Lapps
+at a comparatively recent period borrowed the name of
+Ilmarinen under the form of Ilmaris, and sometimes drew
+his portrait on their magic drums. But it is to be observed
+that they did not regard him as a smith, but as a god that
+could produce storms and bad weather. On a magic drum
+he takes the place usually occupied by the native wind
+god.2 This conception of him agrees on the whole with
+Bishop Agricola’s description in the middle of the sixteenth
+century. He terms him a god of the Tavastlanders who
+made calm and weather (s/ma) and led travellers forward.
+
+It would seem then that though Ilmarinen was best
+known as the wonderful smith, he was still regarded as
+an air and storm god as late as the middle of the sixteenth
+century. The transference from one character to another
+is not difficult to imagine. We may suppose that at some
+
+1 Wichmann, (1) p. 5. ? Friis, p. 37.
+
+
+a ne
+
+
+BELIEFS OF THE WEST FINNS ~~ 279
+
+
+time not earlier than the fourth or fifth century, when
+the Finns had become familiar with the smith’s craft, the
+clang of the hammer on the anvil and the sparks flying
+from the hot iron struck some one as something like the
+rattling of thunder accompanied by flashes of lightning.
+So the air god, when thundering in the clouds and
+launching forth his fire, became gradually assimilated with
+a human smith working in his forge. In this way he
+acquired a new anthropomorphic character and eventually
+became more and more separated from his aspect of the
+thunder and storm spirit, which was continued under the
+newer appellation of Ukko the ‘old man.’
+
+The original character of Ilmarinen comes out when he,
+together with Vaindmoinen and the aerial god, is invoked
+by an exorcist to come to crush a malady, personified as
+the evil spirit, Hiisi (15 @). Again, fire is said to have
+originated from a spark struck in the sky by Ilmarinen and
+Vainimoinen, which afterwards fell to the earth (226 ¢).
+And a riddle runs thus: ‘Ilmarinen struck fire, Vaindmoinen
+caused a flash? Answer. A flash of lightning.’! These
+two companions together with Lemminkdinen are mentioned
+as rowing in a red boat towards the north, Ilmarinen taking
+the bow oar and Vainamdinen steering (107 d). The story
+is recited as a charm by persons travelling by water and
+so has a certain mythological character, but otherwise it
+has only a slight bearing upon I]marinen as an air god.
+
+In the remaining instances in which he is mentioned
+in the text he appears only in the character of a smith,
+though not as a man living on the earth at the time he is
+invoked. He is appealed to rather as a divinity. The
+weapons and instruments he is asked to forge are purely
+
+1 Arvoituksia, No. 245.
+
+
+tls,
+
+
+280 PRE- AND PROTO-HISTORIC FINNS
+
+
+imaginary and unreal. The exorcist uses his own instru-
+ments, but assumes by a figure of speech that they are the
+manufacture of the divine smith. This mere assumption
+imparted all the virtue of reality. As the everlasting
+hammerer he is implored to make little pincers with which
+a wizard can extract ‘Lempo’s arrow,’ that is some physical
+ailment or disorder, from a man’s body (149 4); or as
+the skilful hammerer, to forge a new sword, a dozen pikes
+and several spears for a soldier going to the wars (163 4).
+A best-man boasts that Ilmarinen himself shod the horse
+that was to carry him to woo the girls in Hiisi’s castle
+(65). An exorcist threatens to place ‘Tuoni’s grub,’ which
+generally means the tooth-worm, under the forge of
+Ilmarinen (21 ¢). Once upon a time the smith Ilmarinen
+was walking along a ‘tinkling’ road when he saw a variegated
+stone. He threw it into his forge fire, plied the bellows
+for three days, and ultimately saw the ore pouring out as
+copper. This he moulded into kettles (227 a). Again
+he finds iron sprouts in the tracks of a bear or a wolf, sets
+up his bellows, makes white iron, and forges it into axes,
+spears, etc., (214 @). In a couple of variants it is a god
+or else Vainadmoinen that finds the iron sprouts, or seeds,
+and takes them to Ilmarinen to be forged into iron (214
+bd, e). On one occasion Pakkanen (sharp frost) attempted
+to freeze the smith Ilmari, but the latter plunged him into
+the fire till he swore that he would not do so again (93 a);
+in the Kalevala R. 30, 174 this fact is related of Ahti.
+
+
+VAINAMOINEN.
+
+
+What part Vaindmoinen played originally in the myth-
+ology of the Finns it is hard to determine. There is evi-
+
+
+a
+
+
+—
+
+
+BELIEFS OF THE WEST FINNS 281
+
+
+dence, however, that he was more than a personification
+and embodiment of magic wisdom and of song. He
+possessed these attributes certainly, especially in the later
+tradition, but various functions are attributed to him that
+cannot be explained by supposing him to have been an
+ideal wizard and nothing more. Writing in 1551, Bishop
+Agricola spells the name Ainimidinen, and simply records
+that he was a god of the Tavastlanders, who hammered out
+z.e. composed songs. From this, it would appear that
+about 350 years ago he was looked upon chiefly as the
+divinity of magic song, which would likewise include
+supernatural wisdom. In current ballads relating his
+adventures, he is generally a human hero endowed with
+wonderful magic power. He must either have been a
+real, historical wizard of whom were related wondrous
+stories, which gradually became so overlaid with fabulous
+matter that the hero of them became a completely mythical
+personage; or he was the spirit of some natural phenomenon
+that in course of time became anthropomorphized like
+Ilmarinen. I hold to the latter opinion, and suspect that
+he is the sky-god under a new appellation. The differ-
+entiation would come about in this way. The sky-god was
+also the Thunderer; thunder is the voice of the god
+speaking; but speaking can easily be turned, if the god
+is thought of as in a joyous mood, into singing. In fact
+one Cuvas expression for thundering is As? ad¢ avdat ‘the
+great father (or old man) is singing’; more common, how-
+ever, are such phrases as ‘the cock is crowing,’ ‘the
+cuckoo on the top of a golden post is cuckooing.’! The
+Creator's golden wattled cock mentioned in the Magic
+Songs (124) is perhaps a recollection of the old thunder-
+1 Zolotnitski, pp. 199, 200.
+
+
+282 PRE- AND PROTO-HISTORIC FINNS
+
+
+bird. We have already seen that he and Ilmarinen gave
+fire to mankind, which seems to connect him with the sky-
+god. As the diviner as ‘old as time’ he is besought to
+utter incantations on behalf of an exorcist and to bring an
+iron-coloured dog to eat up the spells of sorcerers. Or he
+is to send some of the old folk that have long been dead
+and buried, to support and assist the exorcist. And he is
+to bring the fiery-edged sword of the air with which the
+supplicant will chase away corpses and frighten Hiisi’s
+people (176s). Here Vainimdinen is almost identified
+with the thunder-god, for the fiery-edged sword of the air
+in this passage can only mean a thunderbolt. In the next
+example he receives the same title of skho, ‘the old man.’
+As the old man, the diviner as old as time, Vainadmoinen
+is begged to bring a scythe from Esthonia, a reaping-hook
+from hell with which the exorcist can facilitate a child-birth
+(166 7). We have seen above, that Ukko is desiretto
+perform a similar function with his golden axe or his golden
+club. In the next example he appears rather as a god or
+spirit of vegetation or of trees, though he retains the
+stereotyped epithet of the ‘diviner as old as time.’ He is
+said in a variant to have put six or seven seeds into a
+martin-skin bag and then gone to sow the earth with trees
+(212 a). In one riddle he figures rather as the sun. ‘Once
+upon a time VaindmGinen’s milk-bowl upset upon a rock,
+its contents can never be picked up? Ans. Sunshine.’?!
+On the other hand, in popular language the streamers that
+form on the sea after a storm are called ‘the tracks of
+Vainamdinen’s boat,’ or ‘the path of Vainimdinen,’ as though
+he were regarded as a storm-god. In various parts of the
+parish of Sordavala there are sandy heaths where the surface
+1 Arvoituksia, No. 2006.
+
+
+BELIEFS OF THE WEST FINNS 283
+
+
+presents huge natural ridges and furrows, like the waves
+of the sea. These are termed the ‘ploughing of the
+Vaindmoinens,’ the word being used in the plural. In
+this part of the country Vdindmdinens, giants, Hiisis and
+Lapps all mean the same supernatural beings.! His name,
+too, is borne by two celestial bodies. Orion’s belt is his
+scythe ; the Pleiades are his bast-shoe. When he and his
+wife set to work to sweep the sea, to mop the waves with
+a broom (185 4), a figure of speech is used which seems to
+refer to a storm sweeping over it.
+
+He was clearly regarded as a god of the healing art, which
+was mainly exercised by reciting incantations, but not
+always. He was therefore the special friend of the wizard or
+exorcist summoned to eject the evil spirits that cause disease.
+Accordingly his strength and assistance are very justifiably
+invoked by exorcists when they are about to set to work
+(2 5,3 a). He is implored to help a well-beloved son (i.e.
+the exorcist) to be the comrade of a famous man, when the
+latter is about to divine a ‘deep origin’ or to battle with
+disease (157 a). A fisherman invokes Ahti, the god of the
+sea, to send a swarm of fish to listen to the music of
+Vadindmoinen (120 a), which evidently means the charms
+and incantations sung by the fisherman himself, but at-
+tr uted to the immortal singer. There is much virtue in
+w at belongs to him. The Virgin Mary is requested to
+t. ce Vadindmdinen’s belt and his yellow cloak with which
+tu bind up a cut vein (177 4). A bee is told to fly to old
+Vadinamoinen’s residence and snatch from his belt a honeyed
+wing with which to stroke a sick man (1817). An exorcist
+in raising steam to make a vapour bath, salutes the steam
+
+
+- as ‘Vdindmdinen’s sweat’ (87 ¢), a figure of speech which
+
+
+1 Killinen, p. 88.
+
+
+284 PRE- AND PROTO-HISTORIC FINNS
+
+
+implies that it possessed highly remedial qualities. Kivu-
+tar (sickness and pain personified as a woman) is invoked
+to take a plume from the Creator’s mouth or a feather
+from Vainamdinen’s belt with which to sweep away pains
+and sores (128 ¢). A soldier bound for the wars prays for
+old Vadindmoinen’s cloak, for the mantle of the distant
+Lapp (99), an expression which only means a wizard in
+this instance. In the last five examples we note that cures
+or protection from danger were anticipated from the use
+of external means independent of Vdindmdinen’s power of
+magic song. In the next three instances he himself is
+expected to heal and protect from harm by purely physical
+agencies. Reliable old Vainamdinen, the diviner as old
+as time, is invited to raise his paddle [v. sword] from the
+sea and destroy the abscesses and scabs on a human body
+(146 d); or to clip wool from a stone, hair from a rock
+and make of it a shirt of war in which a soldier can fight
+in safety (162 ¢); or to take a bath-switch and a honied
+wing from his belt with which to sweep away to the land
+of Lapps the fearful pains of a sufferer (157 4). But it is
+purely as a magician that the reliable old diviner makes
+a boat from the fragments of an oak by singing a series of
+magic songs, one for each part of the boat (229) In
+another passage the outside chip of a gigantic oak, when
+struck with an axe, flew into the sea to serve as a boat for
+Vaindmoinen, the singer, without further ado on his part
+211 0).
+‘ He Is also known as Vainé, and his daughter is coupled
+with Kivutar, the Pain-maiden, (10 ¢) because both were
+helpful in removing all sorts of pains and diseases. A
+soldier begs Vaino’s girl, who wears golden ornaments on
+her temples, a copper petticoat, and a silver belt, to dash
+
+
+~—w*
+
+
+BELIEFS OF THE WEST FINNS 285
+
+
+water on the pan of a touch-hole to prevent his enemy’s
+gun going off (162 f/). Their home is Vainold, which is
+collocated with Pohjola, Ulappala, Lapland or Turja (17 <,
+26 5, 149 d, 154 ¢, 198 a), for the far north was pre-eminently
+the land of wizards, sorcerers, and magic. But it is as a
+warrior and the old son of Kaleva, not as a singer relying
+on the force of magic songs, that Vainimoinen sharpens
+his spears and arrows before going into battle (205 /) or
+when he tests his sword by striking it against an iron hill
+(202 0).
+
+
+TAPIO AND THE DIVINITIES OF THE FOREST.
+
+
+One of the most popular of Finnish gods was certainly
+Tapio. The hunter depended on him for game; not so
+much for consumption as for their valuable furs which
+could be sold or bartered. The sheep and cattle, of which
+every family had a few, were pastured in the forest and
+their welfare and safety from wild beasts was therefore
+largely contingent on the goodwill of the forest divinities.
+The chief of these was Tapio, the golden king of the
+forest with a mossy beard and who wears a hat of fir twigs ;
+though also known as old Ukko with the rumpled beard,
+the feather-hatted lord of the woods. Sometimes he was
+simply called ‘the Forest’ (139 a, c) or Kuippana ‘the long-
+necked,’? Kuitua, Kuittola, Nikki Nakki, or Hitsi Hatsi.
+The wild animals that belong to him are figuratively spoken
+of as his flocks and herds, his ewes and rams, or ‘ drooping
+
+
+1 So it is explained in Renvali's Dict. who adds that it is the same as
+Kuikkana. It seems to mean something long and hollow for there is a
+riddle: ‘Kuippana on the stove-bench? Ans. A dough-trough or tub,’
+Arvoituksia, No. 544.
+
+
+286 PRE- AND PROTO-HISTORIC FINNS
+
+
+ears’; as his ‘gold and silver,’ and even as his ‘sheaves
+of flax.’ But in a riddle ‘Tapio’s bull’ is a ‘ fir-tree.’?
+
+His wife has several appellations which depend partly
+on her frame of mind as it seemed to a suppliant hunter
+when invoking her. When kindly disposed she was
+Mielikki (the amiable) and was pictured as wearing rings
+and bracelets of gold ; when unkind and deaf to his prayers
+she was Kuurikki (the deaf), was black and terrible in
+appearance, being horribly dressed in rags while the rings
+and bangles on her arms were mere withes (89 /). The
+name of Hiiletar (the charcoal wife) may have been assigned
+her for a similar reason as the last, though perhaps it
+was given her by charcoal-burners as she is not connected
+with wild animals in the one passage where she is men-
+tioned (52 d). Hongas or Hongatar ‘Fir’s daughter’ was
+a natural name for the wife of the king of the forest, who
+himself seems to be described as a ‘ hollow fir’ with a fir-
+twig hat (139 &). This hollowness is also a feature in
+Teutonic folklore. In Sweden, Denmark, and Stiermark,
+the Forest-wife (Skogsnufva) or Elf-girl (Ellepige) or ‘ Wild-
+frau’ is pictured in the popular imagination as being
+hollow behind like a hollow tree-stem or a dough-trough.?
+As Simanter she wears a tin sheath and a silver belt; the
+word perhaps is another form of Simatar (virgin honey
+wife), an epithet that would be given to show her sweet
+disposition. Mimerkki is dressed in the same way and
+was also of a conciliatory nature. When out of spirits and
+dejected she may have acquired the name of Nyrkitar.
+As directress of the droves (juont) of forest cattle, the
+mistress of the forest receives the appellation of Juonetar.
+
+
+1 Aruvottuksia, No. 1745.
+2 Mannhardt, (1) pp. 120-126 ; Hyltén-Cavallius, vol. i. p. 19.
+
+
+BELIEFS OF THE WEST FINNS 287
+
+
+As ermines, stoats, and other furry animals frequent stony
+places, it was natural enough to call the chief in charge of
+the ‘money’ by the name of their favourite haunts,
+Raunikko (full of stone heaps) (153 4). As Elina, she is
+invoked by a snarer of hares (118 a). And another name
+for her is Kuuritar.
+
+Tapio does not seem to have had many sons, as only three
+are mentioned. Nyypetti is asked to act as herding-boy
+to a herd of cattle on the summer pasturage (123 /).
+Nyyrikki, so called, perhaps, from being slow in his move-
+ments, is pictured as wearing a blue cloak and a tall red
+hat, and on one occasion as having a white beard. Pinneys
+is desired not to hold back the wild animals from a hunter
+in search of them (139 7); for his name seems to imply
+that he was likely to keep a firm grip (pinne) on the
+paternal property.
+
+.Tapio’s daughters are more numerous. ‘Tellervo tinkles
+in a gold and silver dress. Lumikki is so called because in
+charge of snow-white animals, such as the ermine, and she
+is besought to let them wander towards the trap of a hunter
+(118 4). Ristikko seems to receive her name from animals
+with a white cross (7is#z) on their breast which were under
+her special care. ‘Flax-stalk’ (pdrstdér), as a figurative
+name for a long-backed and small furry animal like the
+ermine or the weasel, is the basis of the name Paistarys.
+She is requested to strew her ‘ flax-stalks’ and ‘cloaks’
+about, and let them run without ‘suspicion into a peti-
+tioner’s trap (153 ¢). Vitsari (the whipper) is the lively
+woman who drives out game from Tapio’s Hill. Tuulikki,
+the famous beauty of the woods, must have been compared
+in some sort of way with the wind (fs). Annikki is a
+diminutive of the christian name Anni, ‘ Anne,’ but it may
+
+
+288 PRE- AND PROTO-HISTORIC FINNS
+
+
+have been selected from suggesting the idea of a gift (ax#)
+giver. Two other daughters were Tapiotar and Tyytikki.
+The tiny lassie Pihlajatar (Rowan), the lovely Katajatar
+(Juniper), and the short Tuometar (Birdcherry) are three
+tree-spirits, but also daughters of Tapio, whose office some-
+times is to herd cattle.
+
+The daughters-in-law of the forest are Mikitar—the
+daughter of Mikki (Michael), a word also used as an
+epithet for the fox—and Varvutar (Twig’s daughter), who
+give game to the hunter (118 ¢). Miiritar, whose name
+seems to mean that she was a very small creature, is asked
+by a hunter to get up a tree and listen to his songs and
+tell him if they are suitable (139 @). Huijutar and Siilikki,
+from s#tls, ‘a hedgehog,’ take charge of the wasps that
+haunt the woods (113). Two other forest-spirits, who are
+not directly connected with Tapio, should be mentioned
+here. The chosen Kunnotar, or the golden Kdrehetar
+is asked to leave off melting gold or silver as a trapper
+has already put some into her bowl (173 a). According
+to Ganander (p. 36), Kareitar was the patroness of foxes
+who brought them to the hunter’s traps.
+
+Tapio’s abode is Tapiola or Metsola (Forest-home) or
+Havulinna (Brushwood Castle) or the famous village of
+the woods (17 4, 89 a). It was sometimes imagined
+that in the forest there were three forts or castles
+of wood, bone, and stone. In the first lived the forest
+lassies, in the second the mistresses and the master of the
+forest in the fort of stone (89 /). A mere prayer was not
+always enough to propitiate Tapio and his numerous family ;
+he needed an offering. Accordingly a trapper asks them
+to take a fancy to his groats and salt, and in return to
+send quantities of animals into his traps (153 4). Kuippana,
+
+
+BELIEFS OF THE WEST FINNS 289
+
+
+the king of the forest, the brisk man of the woods, with
+a beard of tree-moss, or the liberal mistress of the forest,
+is desired to accept the hunter's tribute of salt and groats
+and send game into his traps (153 @). A hunter beseeches
+the grey-bearded old man of the forest and his wife,
+Mimerkki, to make an exchange of gold. The hunter’s
+is Swedish gold obtained by fighting in the wars, while
+Tapio’s, as we have seen, consists in his wild animals with
+precious furs (173 4, ¢).
+
+The bear, as a forest animal, was naturally enough
+nursed by Hongatar and rocked by Tuometar at the foot of
+a stunted fir (193 4). And the woodland sprites, Mielikki,
+Annikki, and Tellervo, are requested by a bear-hunter to
+muzzle their ‘dogs’ (#.¢. bears) till he can approach them
+(121). In order to obtain the game he covets, the hunter
+is ready to adopt any device. He is willing to go as
+Tapio’s man-servant, or even as the boy who picks up
+the arrows, if Tapio will only be propitious (139 @). Or
+he asks the forest to marry his (the hunter’s) men to the
+pleasant daughters of the woods, to the downy-breasted
+little chicks (139 ¢). If Tapio happens to be asleep he
+desires Annikki of the fair complexion, who wears a down-
+like shirt, to awake the king of the forest, or to wake up
+the forest-mistress by playing a tune in her ear (139 2).
+On one occasion he invites the forest to play the zither
+(Aantele), so that the wild animals shall lend an ear and
+be attracted towards himself (139 4). He invokes the old
+man of_the knoll with a golden breast and who wears a
+hat of twigs, Mielikki, Tellervo, and Nyyrikki with the
+tall red cap, to show him the direction he ought to take
+by setting up posts and landmarks (139 ¢). He implores
+old Ukko with the rumpled beard, the ‘hollow fir’ with
+
+I T
+
+
+290 PRE- AND PROTO-HISTORIC FINNS
+
+
+a fir-twig hat, to beat the wilderness and make the trees
+resound with thuds in order to drive out the game for
+him (139 4). Or Tuulikki, the delightful forest-girl, is
+invited to chase out the animals from the slopes of the
+Forest Fort, and to make a fence with her hands on each
+side of them to keep them on the right track. If obstacles
+intervene she is to remove them (139 0). He beseeches
+the famous beauty Tuulikki, Pihlajatar, short Tuometar,
+and kindly Hongatar to chase wild animals in front of
+him, and if none are near to fetch them from Lapland
+(139 £). He desires the forest-youth with a golden hat
+and the forest-mistress Juonetar to send the best of their
+flock to his trapping places (139 #). If the animals are
+sluggish he implores the lively Vitséri and Tellervo to take
+from Tapio’s Hill a whip of rowan, or a cattle-scourge of
+juniper, with which to drive out the game (139 7). Lastly,
+he prays Mielikki to send plenty of animals so near him
+that he can knock them over with a stick, or seize them
+with his hands. If that is out of the question she is to
+support his bow or steady his gun, and thus enable him
+to shoot a squirrel and pay his tax (144 4).
+
+The wild animals are represented as being kept in a
+magazine or storehouse. So Mielikki, the famous ‘golden
+buckle of the woods,’ is invoked to take the golden key
+at her side, to open Tapio’s storehouse, and let the ‘silver’
+and ‘gold’ escape towards a hunter dressed in white (139 /).
+Or Mielikki, the mother with the lovely face, is asked to
+open the honeyed chest and let loose a file of animals
+in front of a hunter. Should she be disinclined to do this
+herself, she is to send one of her servants (139 g). The
+queen of the forest, Kuuritar, is requested to open her
+money magazine and let out the animals for a hunter to
+
+
+BELIEFS OF THE WEST FINNS 29!
+
+
+catch in his traps (139 4). Annikki, the girl with honeyed
+mouth, is asked to open the storehouse door and throw
+out the hunter’s share on the bough of a tree. Then she
+is to spin a thread along which an arrow can travel straight
+to the brow of a little squirrel (144 2). The forest mistress,
+Simanter, is begged to make a din in the copper hills, and
+to let the mountain storehouse be opened for the ‘moun-
+tain cattle’ to run out and enter the hunter’s traps (151 ¢).
+Annikki, who keeps the keys, and Eva, the little serving-
+maid, are desired to open the magazine and let out the
+animals (139 #). In one instance, Tapio is humorously
+represented as carrying the game about with him on his own
+person.. The good and splendid old man, the golden
+forest king, is implored to take his best and fattest ‘ewes
+and rams’ from out of his shirt or his waistcoat, and to
+poke his ‘sheaves of flax’ into the traps of the supplicating
+hunter (151 4).
+
+In a lesser degree Tapio, as lord of wild beasts, or one
+o. his people, was implored to watch over flocks and herds
+gr: ing in the woods, and protect them from the attacks
+of L:ars. Thus Mielikki and Tuonetar are requested to
+anoint a bear’s paws with wort and its teeth with honey
+that it may not hurt the cattle (122 4). The king of the
+forest, Kuitua, and the benevolent Hongas are solicited
+to restrain their ‘dog’ (#.¢. a bear) from injuring the herds
+(122 6, 123.¢). The forest king, Kuippana, is supplicated
+to control his ‘bastard son’ (%.e. a bear), and to stick a
+mushroom up its nose to prevent its getting scent of the
+pasturing kine (122 ¢). The good mistress, Hongatar, and
+the observant Tapiotar are urged to keep a bear in check
+and prevent it doing harm (122 @). . The forest Nikki
+Nakki [v. Hitsi Hatsi], the golden king of the woods, and
+
+
+292 PRE AND PROTO-HISTORIC FINNS
+
+
+the kindly mistress are invoked to take care of the herds
+grazing in the forest (123 g). In the capacity of herd-
+girls the tiny lassie Pihlajatar and the lovely Katajatar
+are desired to cut a branch from the back of Tapio’s Hill,
+and with it drive the cattle from the woods back to their
+own home (123 /).
+
+Although evil might come from Metsola (17 2), its usual
+epithet is the delightful Metsola, and it was full of honey.
+A bee is asked to fetch honey from Metsola, luscious stuff
+from Tapiola from which an ointment may be made (181 /).
+And Vuotar, the maker of salves, concocted them a whole
+summer in Metsola, for delightful honey is there from which
+she made the unguents (232 /).
+
+
+Huis.
+
+
+Originally Hiisi was a spirit of the forest that dwelt in
+wooded hills. In the middle of the sixteenth century
+Bishop Agricola describes him as a Karelian god ‘who
+allowed profit to be made out of the beasts of the forest.’
+But the Bishop also used the word in the plural (Ase?) to
+translate ‘high places’ in the passage: ‘And the Asgh
+places of Isaac shall be desolate’ (Amos vii. 9); and
+‘groves’ in the passage: ‘I will cut off the groves out of
+the midst of thee’ (Micah v. 14). When the Bishop wrote,
+the word was therefore applicable to a ‘sacred grove’
+where sacrifices were made. The corresponding word in
+Esthonian, 43’, is also used in the sense of a sacred grove
+or thicket, which is usually on elevated ground. In several
+passages in the Magic Songs, Hiisi is found as a parallel
+word to ‘hill, mountain,’ showing that the two words are
+in a certain measure synonymous (9 4, 14 #, 65, 187).
+
+
+en
+
+
+BELIEFS OF THE WEST FINNS 293
+
+
+He is often represented as dwelling in or being connected
+with a hill. Thus a treasure-seeker invokes a kinsman of
+Hiisi, the ruler (4a/#a) of the mountain, to show him where
+to go (111). A best-man boasts that he has wooed the
+girls of Hiisi’s fort, the cousins of Rakko Vuori (65). And
+the origin of the horse is said to be from Hiisi, that of the
+splendid foal from the mountain (187). The recollection
+that Hiisi was a forest divinity is retained in the following
+examples. Hiisi’s little boy, that rides a good two-year-
+old, is told to take a golden spur from a golden chest, and
+with it to tickle and prick the flanks of wild animals to
+make them run in the direction of the hunter (139 a). In
+order to quicken the pace of the sluggish animals of the
+forest another hunter desires that Hiisi’s hottest coals may
+be placed under their hind feet (151 ¢). And to the hare is
+given the nickname of ‘the bandy-legged of Hiisi’ (67 4).
+That Hiisi in the popular mind was intimately associated
+with trees and forest is shewn by various riddles in which
+‘ Hiisi’s elk’ or his ‘elk with one hundred horns’ is a ‘ pine
+tree,’ and ‘Hiisi’s land’ is the ‘forest.’ And though in
+three others ‘the neighing of Hiisi’s horse in Hiisi’s land’
+stands for ‘thunder,’ we must not connect him in any
+vay with the thunder-god. The noise made by wind
+rushing through trees, thought of as horses, had sufficient
+resemblance to the whinnying of a horse and to thunder,
+to invite a concocter of conundrums to regard them as
+identical. So too Hiisi’s elk, horse, and ox, mentioned in
+the Magic Songs, seem to have been originally playful
+names for a large coniferous tree, though the terms were
+sometimes employed with only a faint or more usually
+complete want of perception of their proper signification.
+1 Arvottuksia, No. 176, 257, 1586; 129-131.
+
+
+294 PRE- AND PROTO-HISTORIC FINNS
+
+
+The original animal assigned to Hiisi must have been the
+elk, reindeer, or ox; the horse is manifestly a later
+substitution. For instance, Hiisi’s ox, that ascends the
+Hill of Pain, has one hundred horns on his forehead and
+one thousand nipples on its breast, each full of ointments
+(109 #); here the branches and multitudinous small pro-
+jections on a resinous pine-tree seem to form the basis of
+the imagery. Hiisi’s chestnut horse with a fire [coloured}
+forelock and an iron [coloured] mane is so tall that it
+must be bridled from the top of a house and saddled
+standing ona fence. On its croup is a lake from which
+sorcerers drink, and it does not sweat (9 4) or slip on the
+ice-like path of the air (9 a, 65). Several points in this
+description appear to be reminiscences of a dendrous
+prototype; the chestnut or reddish brown colour, the
+extraordinary height and the quality of not sweating, while
+the lake on the croup suggests the idea that the tree was
+partly hollow like Tapio. A pond of water on the croup
+is, however, characteristic of other horses (14 4, 52 @)
+besides Hiisi’s, and in modern songs has become a
+commonplace epithet for a wonderful horse. Again, in
+Hiitola there is an ox [v. elk] with one hundred horns,
+with a mouth one hundred fathoms wide, and a throat like
+three cataracts that can extract the arrows of a sorcerer
+(37 ¢). Here the mouth and awful throat are amplifica-
+tions of the singing exorcist, while the meaning of an elk
+with one hundred horns is found in the riddles. In the
+next example the imagination of the singer has carried him
+so far that only in describing the back does he remain
+faithful to the prototype. The head of Hiisi’s horse is
+said to be of stone, its shanks of copper, its back of tarry
+wood, its feet of iron, and its muzzle of fire (9 a). Ina
+
+
+BELIEFS OF THE WEST FINNS 295
+
+
+' still later example, as I suppose, Hiisi’s elk or reindeer is
+invoked to drive away the snakes and adders that drink the
+ale of the mistress of the house (91), where nothing is
+remembered but the fact that he owns such animals.
+
+In course of time Hiisi acquired a very bad character,
+and in modern times he is more or less synonymous with
+the devil. The date of this change is to be placed, I
+imagine, in the twelfth and thirteenth centuries, when
+Christianity began to spread. That the missionaries
+fixed upon him specially is an indication that he was held
+in great estimation by the heathen Finns, and that his
+worship in the sacred groves was a special thorn in the
+sides of the preachers of the new religion. Sacrifices to
+Hiisi would be placed under a ban, and the native converts
+would gradually come to think of him as a very evil spirit,
+hardly distinguishable from the devil himself. In the
+Magic Songs he is sometimes called the humpback from
+the home of gods (1 ¢, 128 4, 166 g). The spirit of
+disease, or sickness of any kind, is addressed as ‘ Hiisi!’
+(5 5, 8 5, 22, 56) or as ‘hound of Hiisi!’ (8 d). A tumour
+is his toadstool; a snake is Hiisi’s scourge or Piru’s whip ;
+a spell-sent injury is his cancerous sore (154 4); toothache
+is his son or his cat (114 @, ¢); a stye in the eye is Hiisi’s
+blemish (46 2); and rash owes its origin to a water-Hiisi
+(206 4). As a bird of ill-omen the body, legs and guts of
+the raven are made of Hiisi’s glove, spinning-staff, and
+belt appendages (200 4). The snake originated from his
+saliva (203 a); or he gave life to the spittle of Syojatar
+and made it into a black snake (203 ¢). The tremulous
+aspen is his harlot son (212%). And nightmares are
+termed ‘ Hiisi’s corpses.’
+
+As diseases and maladies were often thought of as the
+
+
+296 PRE- AND PROTO-HISTORIC FINNS
+
+
+bolts, spears, arrows, or Jagged spikes of a sorcerer or of
+some evil spirit like Hiisi, Lempo and Piru, this armoury
+of weapons had to be forged somewhere. Accordingly,
+Hiisi’s home, Hiitola, is provided with a smithy where
+such instruments are manufactured. There Piru, Aijé’s
+son, forges bolts and jagged spikes to launch into some
+wretched man’s body, and even there an exorcist can give
+an order for pincers for extracting them again (37 a). In
+a charm against pleurisy it is related that Hiisi’s little girl
+saw the chips of a huge oak floating on the sea and carried
+them home. In reply to her brothers’ question she says
+that sorcerer’s arrows might be made of them. Hiisi
+overheard this, and sent his son to the smithy to make
+them into spears and arrows (211 4). In a variant Hiisi’s
+iron-toothed dog sees an oak-chip floating on the water,
+snaps it up and brings it to Hiisi’s daughter who thought
+that arrows for a sorcerer might be made of it if taken to a
+smith (211 a). Once when the people of Hiitola celebrated
+a wedding and held a drinking-bout, they killed a horse
+and sprinkled the blood at the back of the forge of Hiitola
+(z10¢). The idea of a smithy of course suggested coals
+and soot. So a man wishing to ward off a jealous eye
+expresses a hope that it may be filled with Hiisi’s slag and
+soot or flow like butter into Hiisi’s bin of coals (3 64).
+From his coals and fire comes the whooping-cough (23).
+An exorcist consigns the toothache into Hiisi’s coals, into
+the fire of the evil power (114 4). A jealous person
+adjures Hiisi to poke his pole for stirring coals between
+two lovers in order to separate them (134). And a hunter
+desires that Hiisi’s hottest coals may be put under the
+hind feet of reluctant wild animals to hasten their move-
+ment towards himself (151 ¢).
+
+
+‘ BELIEFS OF THE WEST FINNS 297
+
+
+This association of Hiisi with fire and coals made the
+transition ‘easy to identify Hiitola with Hell and Hiisi with
+Piru and the Evil Power. And in the following examples
+it is rather as an infernal power, perhaps in despair of other
+assistance, that he is invoked as a helper, just as the devil
+was invoked by witches and sorcerers in other parts of
+Europe in the Middle Ages. The old man and old wife of
+Hiisi, the fiery-bearded of Hell, is requested to bring people
+from the hill to hold down a horse about to be castrated
+(158 a). An exorcist invokes the aid of the terrific heroes
+of Hiitola, the tall men of Pirula, to extract ‘arrows’
+(37 ¢). Fiery Hiisi is desired to come from fiery Hell
+with his three sons and two daughters and to press his
+shaggy glove against a torn vein ; failing that he is to tear
+a collop from his fleshy thigh to plug the hole with (177 &).
+Hiisi, the Pirulainen (devil’s son), is asked to remove his
+‘sting’ or ‘goad’ from a human skin and plunge it instead
+into the hard bones of a bear (149 g). As the humpback
+he is invited to come from Hiitola, from the home of gods
+with his sons and servant girls to destroy an evil. He is
+to bring a scythe from Hell and give it to an exorcist who
+will then cut out the evil that causes the sick man pain
+(128 4). Again the humpbacked of Hiitola is asked to
+come in a golden sleigh in which is a golden axe and with
+it to remove obstructions and facilitate a child-birth (166 g).
+A man wishes that the bloody cloak of Hiitola, that Huisi’s
+gory rug, needing five men to lift, may be bound across the
+eyes of an envious person (3 4d). Hiisi or Lempo is re-
+quested by a soothsayer to lend his linen cap, his broad-
+brimmed hat, into which to throw the alder slips used for
+divining (59 ¢). Hiisi is invoked to close a dog’s mouth
+with his tall hat, or Lempo is to do so with his broad-
+
+
+298 PRE- AND PROTO-HISTORIC FIN?S
+
+
+brimmed hat (126 ¢). A man wishing to pass a ‘Sg unob-
+served desires that the bloody cloak of Hiitola « Lempo’s
+gory rug may envelop its head and ears so t.iat it shall
+neither see nor hear (72 a). A man hoping to render an
+enemy’s gun useless desires that the hide of an elk from
+Hiisi’s land may take possession of the gun, may twist the
+touch-hole pan, and smash the ‘egg,’ #.¢. the bullet, so that
+it shall do him no harm (150). Probably to account for
+something bad in the nature of copper, its origin is derived
+from Hilahatar, Hiisi’s girl, Huisi’s old wife, or Hiisi’s mare
+having staled on a rock. The stale dried up and became
+copper ore (227 4).
+
+His daughter Hippa, and his cat Kipinatar, are requested
+to tear and torture a thief till he restores the stolen pro-
+perty (174). His maiden Hiki-tytto is implored by an
+operator to sharpen a knife with sweat (4242), so that he
+may excise a tumour without hurt to the patient (135).
+But his girl Hiki-tukka (sweaty hair) steals milk, and takes
+it to Mana or to Tuonela (88 a).
+
+Though originally Hiisi had nothing to do with water, an
+evil water-spirit could be called a water-Hiisi. As we have
+seen before, a water-Hiisi was the cause of rash (206 4).
+An exorcist asks whether a certain malady has come from
+the homes of Nixies (/umme-koiva, ‘dog with ears like a
+water-lily leaf’), from the dens of water-Hiisis (5 4).
+And the daughter of Tuoni (Death), when in the pangs of
+labour, rushes into the sea, into the den of a water-Hiisi
+
+216 3).
+
+It is not quite certain whether the word Hiisi can be
+identified formally with the Lapp Sies#e, Seta (p. 163).
+Whether they have the same origin or not, they have
+several points in common. The position of the seséa was
+
+
+BELIEFS OF THE WEST FINNS 299
+
+
+often on high ground like Hiisi’s Hill, and consisted of a
+tree-stump, post, or small pile of stones, which in a treeless
+district might be taken to represent the stump of a tree.
+The fresh twigs and leaves spread under them, and renewed
+annually, might also be taken to mean the seifa was origin-
+ally a tree-spirit. The same may be said of the birch or fir
+twigs, changed every spring, that sometimes represent the
+Votiak vorsud ; and of the fagot of twigs, also replaced by a
+new fagot once a year, in which the £uda vodi% or house-
+spirit of the Ceremis had his habitation. Before becoming
+a forest-spirit, Hiisi no doubt was a tree-spint. Judging from
+the Lappish, Ceremisian, and Votiak analogies, it is pro-
+bable that at one time he was a very favourite divinity of
+the protohistoric West Finns, and in some measure a family
+or clan god, like the Seitas and the Stor Junkares of the
+Lapps, who give liberally of the wild animals of the bound-
+less forests, or, as they expressed it in later days, of his
+‘forest gold and silver.’
+
+
+LEMPO.
+
+
+Though there is no direct trace of it in the Magic Songs,
+Lempo seems to have been originally a forest-spirit of a
+malignant kind. For among the Vepsas living between
+Lakes Ladoga and Onega the Lempos are still regarded as
+evil spirits of the forest, in stature as tall as trees, who do
+their best to lead travellers astray. As the Vepsish form
+of the word, /emdot, means not only ‘devil’ but also ‘ fire,
+flame,’} it is possible that Lempo was at one time a per-
+sonification of an ignis fatuus, or Will o’ the Wisp, a
+phenomenon that in Finnish is generally termed virva,
+
+1 Ujfalvy, pp. 82, 125.
+
+
+300 PRE- AND PROTO-HISTORIC FINNS
+
+
+virva-tuls. In many respects he is synonymous, or nearly
+so, with Hiisi, Piru, and Evil in general. Disease is ad-
+dressed as ‘Lempo’ (5 ¢); a tumour is Lempo’s lump
+(28 4, 129 a), or his whorl, his ball (zor); a hornet is his
+cat or Hiisi’s bird (214) ; stitch and pleurisy are termed the
+arrows of Piru, the leaf-headed spears of Lempo (37 2), or
+it is his arrow, his bloody knife (149 4); toothache is
+Lempo’s dog or Hiisi’s cat (114 4). Piru made arrows,
+Lempo leaf-headed spears from the boughs of a fiery oak,
+from the splinters of an evil tree, and then shot them into
+a human body (211 ¢). Lempo, Piru the limping fellow,
+is asked to extract his arrows, made perhaps from an evil
+oak, and shoot them down the throat of a raven, which
+will carry them to Lempo’s family and place of birth, never
+to be seen again (149 f). For the raven is also Lempo’s
+bird, and its breast-bone, tail and guts were made of his
+spinning-wheel, sail, and needle-case (200 a). If a knife
+slips in the hand of an operator, it is the work of Lempo,
+though he is made to suffer for it by being cut in two with
+a knife made by himself even though sitting at the time on
+his mother’s knee (31, 55 a, 4). Homma, the most brisk
+of kings, is invoked to take a piece of flesh from Lempo’s
+thigh, from the groin of the evil spirit, and with it plug a
+severed vein (177 /).
+
+
+WATER-SPIRITS—AHTI, VELLAMO, ETC.
+
+
+Living so much as they did either on the sea or near
+large lakes the Finns had often occasion to invoke the aid
+of the chief water-spirit, Ahti, or of his wife Vellamo. Thus
+a man travelling by water implores Ahti and Vellamo to
+tranquillise the waves and the force of the water (107 3).
+
+
+BELIEFS OF THE WEST FINNS 301
+
+
+When descending dangerous rapids a boatman prays the
+golden king of the water, the gracious Ahti of the waves,
+to come and steer with his sword, so that the boat may
+keep clear of rocks (127 5). Litvetti or Livetti, the king
+of the waters beneath the stream, is invoked to make the
+rocks that lie in the rapids as soft as moss (127 a). If,
+when journeying by water, the oars are too short, the
+rowers feeble, and the coxswain is as helpless as a babe,
+Ahti is besought to give better oars. And if the waves run
+too high, he and his sons are to still them (178 a). The
+old woman below the waves, that lives near foam, is asked
+to ascend to the surface to collect the foam and take
+charge of the foam-capped waves in front of a sailing boat
+(178 c). But danger at sea, or on a lake or river, did
+not arise solely from storms and rapids; peril was to be
+anticipated from spells and witchcraft. Hence a man
+beseeches Ahti, the master of the water, to give him his
+oars and a boat before the petitioner ventures to cruise
+over waters inhabited by witches, and also to allow the
+boat to glide smoothly along (178 4). Melatar (Oar-wife),
+the gracious woman, is asked for her steering oar (me/a) to
+steer with, while passing along spell-bound streams (127 a).
+
+Help in other ways was also to be obtained from water-
+spirits. An exorcist implores the blue-capped mistress of
+the waters to rise from the waves to strengthen and support
+a weak, unsupported man. She is to raise men from the
+sea and land-locked lakes, bowmen from streams, and
+swordsmen from wells, to help the petitioner against his
+enemies (176 7). Another exorcist invokes the men of the
+sea, the heroes of inland lakes, the ‘scaly cloaks’ from the
+gravel, the ‘sandy shirts’ from the pool, who are as tall as
+pillars of cloud or as huge forest firs, and a thousand
+
+
+302 PRE- AND PROTO-HISTORIC FINNS
+
+
+armed men to follow him and overthrow his enemies
+(176 4).
+
+As lord of the waters Ahti and his wife ruled over the
+fish, and were therefore invoked by fishermen. Thus
+foam-mantled Ahti of the sea, the reedy-bearded old man,
+is requested to put on his gift-giving clothes and draw a
+crowd of fish to listen to Vainimdinen’s music (120 a2), by
+which we have to understand the magic songs of the fisher-
+- man. Another man desires Ahti, the master of the waves,
+the ruler of a hundred caves, to send fish into his net
+(x20 5). Or a fisherman implores the damp-bearded,
+golden king of the water, who wears a slouching hat, to
+come and fish with him as a sure means of getting plenty
+(120 d). The old wife of the sea with a reedy breast is
+besought to send perch to tug the lines set by the petitioner
+(r20¢). Another fisherman asks the assistance of Vellamo,
+who has a reedy breast and wears a shirt of reeds, and he
+will give her in return a beautiful linen shirt spun by the
+daughters of the Moon and Sun (120 ¢). Lastly, the
+beautiful old wife Juolehetar, the benevolent mistress of
+the water, is implored to send shoals of fish in the direc-
+tion of the fisherman’s nets (120 /).
+
+On one occasion it is related that when Sharp Frost
+tried to freeze the sea, the warship of Ahti remained un-
+affected. It then tried to freeze the god, who however
+knew a trick or two, for he shore moss and fluff from a
+stone, made it into socks and mitts, and so was able to
+hold Sharp Frost and prevent his getting away (93 4).
+
+
+EARTH SPIRITS, SAMPSA PELLERVOINEN.
+
+
+The earth spirits were not very prominent personalities
+in the mythology of the Finns and are not often invoked.
+
+
+BELIEFS OF THE WEST FINNS 303
+
+
+When this happens it is sometimes to obtain the assistance
+of the dead, who had been buried in the earth, but whose
+spirits still continue to live. So Earth’s daughter, the girl
+of dry land (manwue), is asked to listen to the golden words
+of an exorcist and to raise from the earth 100 men without
+swords and 1000 men with swords to help him against
+wizards and sorcerers (176 4). The old crone beneath the
+earth (manner), the boy of the lowest depths of the earth,
+is invoked to extract the arrows ofa sorcerer with her fingers
+or her back teeth. If that is of no avail she is to raise her
+men from the earth, her heroes from the hard dry land
+(mantu), (149 ¢). The old man of the earth is invited to
+rise from out the earth, the son of the field from out the
+headrig, or from the side of a church with roo planks, to
+help a man to work, to make a fence, or to row over the
+water (176 #). A wayfarer implores the old wife of dry
+land (manfw) and the primeval master ( fert-isdénta) to rise
+from the earth to aid a well-beloved son and to be his
+comrade while travelling (138). Before lying down to
+sleep a man salutes the earth, the dry land (manner), and
+_ the master of the dry land (137).
+
+As the earth also causes trees, herbage and seed to grow,
+we find it stated that grass is made to sprout by Peler-
+moinen, to grow from the earth by the soil, mantu (45 5).
+A tree is the creation of God, a shoot made to sprout by
+earth’s daughter, Maatar (87 ¢). A sower beseeches the
+old wife below the ground (manner), the earth’s mistress,
+the old wife of the soil (m#antu) to cause herbage to grow ;
+for the earth never fails if the food-mothers (einetfen emda?)
+so desire (130 ¢). Skin eruptions (maahinen) were
+popularly supposed to result from the anger of an insulted
+earth-elf (maakinen), who revenged himself by sending a
+
+
+304 PRE- AND PROTO-HISTORIC FINNS
+
+
+rash on his insulter. An exorcist declares that a rash is
+from the earth by birth and arises from the anger of the
+earth or of water. Its legs are even shorter than those of
+a worm or snake. If it has come from the earth, fire or
+water, it is to return there (206). Again, a rash (maa-
+hinen) took its origin from a water-Hiisi, who was rowing
+in a boat, reached the land like a strawberry, #.e. unob-
+trusively, bashfully, and fell down like a lump of wheaten
+dough, #.e. helplessly and clumsily (206 4).
+
+The earth’s mistress, Manuhutar, is said to have made a
+dog’s head from a grassy knoll, its legs from stakes, its
+nose of wind, etc. (198 3).
+
+Among the earth-spirits must be included, as a later de-
+velopment after the introduction of agriculture, Peller-
+voinen or Pellermoinen—a diminutive of fe/fo ‘a ploughed
+field,’ who is solely associated with the growth of vegetation.
+Thus grass is made to grow from the earth by Mantu (the
+soil), and to sprout or become bushy by Pellermoinen
+(45 4). The Fir, the useless boy, was brought forth by
+Sydjatér, was formed from the earth by Maajatar, was
+made bushy by Pellervoinen and nailed down, #.e. fast
+rooted, by Naservoinen or Natulainen (212 g). Bent-grass
+is said to have sprung from a pearl that fell from the Lord,
+from the hand of Jesus on the unploughed edge of Peller-
+voinen, on the edge of Osmo’s field (220).
+
+In the remaining examples he appears rather as a
+spirit of vegetation who performs his functions by sowing
+the ground. Thus Pellervoinen, the boy or son of the
+field, Sampsa the tiny little boy, sowed swamps and firm
+land and succeeded in getting other trees to grow, but not
+the oak. At last, after the lapse of a week it struck root,
+was drawn upwards by Jesus and made to grow by the soil
+
+
+A ee ee a ee oe)
+
+
+BELIEFS OF THE WEST FINNS 305
+
+
+(224 ¢). Again, Sampsa, the boy Pellervoinen, put six or
+seven grains or seeds into a mafrtin-skin bag and went to
+sow the land. He sowed firm land, swamps, sandy clear-
+ings run to waste, and stony places. ll sorts of different
+trees grew up, each adapted to the soil on which it was
+sown (212 a2). The same is told in different words of
+Semmer, the limping or stooping boy—an epithet that
+probably has reference to the action of sowing—who is
+evidently Sampsa or Pellervoinen under a different name
+(212 3).
+
+In an interesting song, collected in Ingria by the late
+Mr. V. Porkka, Sampsa Pellervoinen appears very clearly
+as the spirit of vegetation that sleeps all winter, but is
+awoke in summer by the genial warmth. I give it here in
+a slightly curtailed form:—
+
+‘Why do our oats and rye not grow at all in the clearings
+and in the vales, on the hillock of Sdmpsi, on the hill of
+Pellervo ?
+
+‘Sampsa is asleep in bed with seven crosses on his back
+with ten finger rings at his side. His shins are visible in
+the bed, his red stockings in the straw.
+
+‘There is no one to awake Saémpsa, to cause Pellervo to
+rise.
+
+‘The manly Winter-lad jumped up to awake Sampsi, to
+cause Pellervo to rise.
+
+‘He took a horse of the Wind, a young horse of Ahava
+and began to drive with the Wind, to dash forwards with
+Ahava.
+
+‘He drove up to Sampsa’s bed: “Get up, Simpsa, from
+your bed to excite the rye, to hurry the growing corn.”
+
+‘Sampsa forthwith replied: “I shan’t get up for you. I
+shall get up for another man. You did wrong to come,
+
+I U
+
+
+306 PRE- AND PROTO-HISTORIC FINNS
+
+
+did worse when you returned. You blew the leaves off
+the trees, the catkins off the grass, and blood from the
+maidens.”
+
+‘Who summoned Sampsa to appear, who cause Pellervo
+to rise?
+
+‘The manly Summer-lad jumped up, etc.
+
+‘He took a horse, etc.
+
+‘He drove up, etc.
+
+‘Sampsa forthwith replied: “I shall get up for you, but
+not for another man. You did well to come, better when
+you went away. You blew leaves upon the trees, catkins
+upon the grass, and blood into the maidens.” ’!
+
+
+Luonto (NATURE)—LUONNOTAR.
+
+
+The word for nature (/uonto), like /uoja ‘ Creator,’ is a
+derivative of /uo ‘to make a beginning,’ ‘to throw up or
+off,’ ‘to create.’ And by ‘nature’ we have to understand,
+not external nature, but, the force behind it, a female
+personification of the energy of nature. An abstract idea
+of this kind is far from original and no great age can be
+assigned to the passages in which /vonto or Luonnotar
+‘the daughter of nature’ occur. As personifications of a
+creative energy the birch-tree is said to have been created
+by three Luonnotars (212 4). And Ukko, the aerial god,
+the Creator on high, after rubbing his palms against his
+left knee, produced three Luonnotars to be mothers of
+iron, which they afterwards milked from their breasts
+(214 a). The daughter of nature (/sonfo), Udutar, and the
+sharp maiden Terhetar sifted mist in a sieve at the end of
+a misty promontory, thereby giving origin to fevers and
+
+1 Kuvalehti, 1894, p. 91.
+
+
+BELIEFS OF THE WEST FINNS 307
+
+
+pleurisy (211 @). The three sisters have a home given
+them in the sky in a story in which the bear is said to have
+been born on the horns of the moon, on the back of the
+seven stars, beside the maidens of the air, near Nature’s
+daughters (193 4). But the original idea underlying their
+name is quite lost in the narrative in which three Luon-
+notars walking by the sea observe the spittle of Syojatar
+on the shore and wonder what would become of it if the
+Creator gave it life. Eventually Hiisi—not the sisters—
+turns it into a snake (203 ¢).
+
+The recuperative power of nature would naturally occur
+to exorcists and wizards when healing the sick, and in a
+more objective form would be appealed to for assistance.
+Old mother Kave (the woman), the daughter of nature
+(4uonto), the oldest of womankind, the first mother of
+individuals, is therefore invoked to come and see pains
+and remove them (128 g). Almost in the same terms she
+is implored to help an exorcist (1 ¢). And under the same
+title she is invited to allay the pains of child-birth because
+she formerly freed the moon from imprisonment in a cell,
+and the sun from a rock (166 @). But the original idea is
+on the wane in a charm for relieving pain, in which it is
+related that three Luonnotars sit where three roads meet
+and gather pains into a speckled chest or a copper box,
+and feel annoyed if pains are not brought to them (10 4).
+And the old idea of her functions is missing where the
+the woman (ave), the old wife Luonnotar, the darling and
+beautiful, is asked to point out the path to a bridal pro-
+cession (117 a). Or when she is invited to bewitch
+sorcerers and crush witches; to weave a cloth of gold and
+silver, and make a defensive shirt under which an exorcist
+can live safely with the help of the good God (176 ¢). In
+
+
+308 PRE- AND PROTO-HISTORIC FINNS
+
+
+the next two examples Nature can scarcely be separated
+from God the Creator and seems only another term for
+him. A soldier in time of war implores the Creator,
+Nature (/vonfo), the God on high, to save men armed with
+swords, and crews with their freights from the murderous
+waves of men (162 ¢). And to avert danger from spells
+a man beseeches the Creator, Nature, the God on high, to
+save him from the spells of villagers with words (s.¢. counter-
+spells) framed by the Creator and prescribed by the Holy
+Ghost (165 a).
+
+She appears in a very different character when described
+in two instances as the furious old wife, the portly woman
+Luonnotar, who began to sweep the sea, to mop the waves
+with a broom, with a cloth of sparks on her head and with
+a cloak of foam over her shoulders. Eventually some of
+the sweepings stick in her teeth and become the origin of
+toothache (185 4, c). Ina variant, as we have seen above,
+the same is told of Vdindmdinen and his wife. Perhaps
+in both instances we should rather read Louhiatar, the
+mistress of Pohjola, as the events related would be in
+harmony with her character.
+
+In another group of instances the wife or daughter of
+Nature appears as the personification of the warm, genial,
+growing weather that accompanies a southerly wind and re-
+ceives the appellations of Suvetar ‘the wife or daughter of
+summer, or of the south wind,’ and Etelatar ‘the wife or
+daughter of the south (wind).’ She is invoked in this
+capacity by the husbandman and the owner of herds. Thus
+Etelatar the youthful, the boisterous and jolly girl, is asked to
+cause a honeyed cloud in the sky and to rain honey and water
+down on the growing corn (130 4). Suvetar and Etelatar,
+the old wife of nature, is implored to bring her horn from
+
+
+BELIEFS OF THE WEST FINNS 309
+
+
+the sky or from the depths of the earth and then blow it, so
+that lakes of milk and streams of butter may issue forth.
+By blowing she is to beflower knolls, make beautiful the
+sandy heaths and turn swamps into honey on which the
+supplicant can feed his herds (123 ¢). Excellent Suvetar,
+Nature’s old wife Etelatar, is besought to bore holes in the
+fields and cause liquid honey to flow on each side of the
+pasturage ; she is further to sink a splendid well from
+which the herd can drink and then give rivers of milk
+(132 a). The same personalities are requested to feed the
+cows from the moist hillocks and verdant knolls that they
+may yield abundance of milk. If the milk has been
+carried away she is to blow a horn that came from the sky
+and let the milk run back through the horn (132 4). The
+distinguished Suvetar, Nature’s old wife Etelatar, is desired
+to feed and tend a herd of swine when it is sent into
+the woods (161). In the last example the original
+conception of Nature is quite obliterated though she still
+remains beneficent. The distinguished woman Suvetar,
+Nature’s old wife Etelatar, that watches herds, is in-
+voked to clean out the byre and to bring good luck.
+She is then to make a golden comb or a silver brush
+and attach it to the doorpost for the cattle to rub against
+
+
+(123 2).
+
+
+MAIDENS OF THE AIR, OF SPRINGS, ETC
+
+
+The Maidens of the air, of springs, dells, swamps, etc., are
+beneficent beings, and were often invoked for extinguish-
+ing fire and cooling burns. The four anonymous maidens
+first mentioned are perhaps the Luonnotars. Four maidens,
+three celebrated daughters, were formerly mowing grass on
+
+
+310 PRE- AND PROTO-HISTORIC FINNS
+
+
+a misty cape in a foggy island and making it into hay.
+After spreading it out a fiery Tursas from Turjaland came
+and burnt it to ashes. It happened opportunely that they
+were short of ash and in need of lie to wash the head of the
+sun’s son, but before they could collect the ash a north-easter
+whisked it away to the banks of a holy stream and from it
+a splendid oak sprang up (224 a). In another version
+the four maidens, a triplet of brides, are making hay when
+a boy from Pohjola or an eagle from Turja came and
+burnt the hay, put the ash into his wallet and carried it to
+Lapland where it was sown in black mud and from it
+sprang a huge oak (224 4). Again, four maidens find a
+sapling oak and plant it in an island formed where
+three rivers had flowed from a tear shed by a Kyytdéldinen
+(224 ¢). ,
+
+In a charm against injuries from fire, Ismo, one of the
+daughters of the air, is asked to come with the speed of
+thought and pour herself out like foam upon her son’s evil
+work and throw water from her apron on the bums (140 6).
+Nunnus or Munnus of the daughters of the air is requested
+to bring frost and ice, as there is frost enough in the air,
+to freeze the fingers of an exorcist and allow him to handle
+fire unhurt (172 @). After Ukko had struck fire in the sky
+and put it into a golden bag he gave it to an Air-maiden to
+rock, who carelessly let it fall to the earth (226 a). Aholy
+maiden on a cloud, a woman (4aZo) on the rim of a rainbow
+with a golden box under her arm and a golden wing in her
+hand,wiped away the pain caused by burns and salved the
+injuries of fire (52 ¢). A maiden standing by a little pond
+in a drop of water in a cloud carries slush and ice in her
+arms with which she extinguished fire and cooled the
+burns it had caused (52 /). Again, in order to extinguish
+
+
+BELIEFS OF THE WEST FINNS Kpe
+
+
+fire an exorcist says he will raise up Sumutar (daughter of
+Mist), the portly woman, from the swamp and she will
+repair the injury done (52 4). In the next example the
+character of the Air-maiden changes, though she still
+belongs to cloud-land. A little girl, a woman (kao),
+appeared on the edge of a rainbow and while smoothing
+her hair the milk in her breast overflowed, fell on a honey-
+dropping meadow, and from it salves and ointments are
+obtained (232 @). In the next two examples her function
+is entirely different. A maiden lives in the air, on the
+edge of a little cloud, with a skein of veins on her lap and
+a roll of skin under her arm. She let them fall on the
+earth and from them bits of skin are taken to place on
+wounds from the tooth of a wolf or the claws of a bear
+*(25). A maiden from above the air, from the middle of
+the sky, is desired to come in a copper boat and row with
+honeyed oars round a wound caused by iron; to row in a
+boat made of veins through the bones and joints; to
+lengthen short veins, shorten those that are too long and
+arrange them in their proper places. Then with a needle and
+silk thread she is to stitch up the ends of the veins (140 4).
+These last two Air-maidens cannot be very different from
+Suonetar, where the beauteous woman of veins (soni), the
+beautiful Suonetar, who spins veins from a golden tuft on
+a copper spinning-rock and weaves a cloth of veins,
+is invoked to approach and tie up the ends of broken
+veins (140 ¢).
+
+An exorcist requests a maiden to rise from a dell, from
+inside a frosty spring, with her clothes all over frost and
+rime in order to gag Fire’s mouth and weigh down the
+head of Panu (171 f). A dear, clean-faced girl is desired
+to rise from a dell, from the corner of a swamp, and bring
+
+
+312 PRE- AND PROTO-HISTORIC FINNS
+
+
+some cooling stuff to lay upon a burn (171 g). A frosty
+maiden, an icy girl crouching at the mouth of a frosty spring
+with a golden ladle in her hand is invoked to throw water
+upon burns (171 4). In a charm to excite love a grey-eyed
+maiden is besought to rise from a spring and help a
+darling wife. She is to fetch water from the spring of
+Love that the wife may wash her baby, her little bullfinch,
+and make it very beautiful so as to be admired by every
+one (133 ¢). Ina charm to fortify water and give it virtue
+a slender-fingered maiden is invoked to rise from a spring
+or from the gravel and to fetch energetic serviceable water
+from Jordan in which Christ was baptized (179). Lastly, a
+maiden from a dell, from the humid earth, or a warm
+maiden from a spring, a ‘blue socks’ from a swamp, a
+swarthy girl with shaven head and skinless teats was hold
+ing a copper box containing a golden comb. One of the
+teeth of the comb fell out and from it sprang a splendid
+oak the head of which seized the sky and its branches held
+the clouds (224 4).
+
+The Mist- and Fog-Maidens differ considerably from
+their sisters of the air. The Mist- and Fog-Maiden and
+the Air-maiden Auteretar is asked to sift down mist and
+fog to prevent an enemy seeing either to attack or to
+escape (180 4). The Maid of Mist and Fog is invited to
+clip wool from a rock and make a shirt of mist, a copper
+cloak, which an exorcist can wear day and night as a
+protection against sorcerers and Lapps (168 /). With the
+epithets of ‘leaf-bud,’ ‘ ship-borne yarn,’ #.e. dressed in fine
+linen, she is invoked to scatter fog from a sieve before
+the wild animals of the forest, when they approach a
+hunter, so that he may have time to get his bow ready
+
+
+(139 5).
+
+
+BELIEFS OF THE WEST FINNS 313
+
+
+Fire is the offspring of Hoyhenes of the Panutars (Fire’s
+daughter), of Lemmes of the Lentohatars, who gave birth
+to her child in the sea. She could not hold or touch it
+and from that she knew it must be fire (226 2). Hdyhenes
+of the Panutars is invoked with Nunnus mentioned above
+to bring frost and ice to freeze an exorcist and allow him
+to handle fire without hurt (172 d). Panutar, the best of
+girls, is asked to come and quench a fire by putting
+it into her clothes and keeping it safe there (172 ¢). An
+anonymous Maid of Fire is desired to extinguish Fire
+and repair Panu’s work. She is to bring frost, ice, and
+iron hail to apply upon the burns. If that is not enough
+she is to poke a heifer’s hide into Fire’s mouth or throw it
+over Panu’s head (171 &).
+
+The Maid of Pain and Sickness, Kivutar, in spite of her
+name, is always invoked as a kindly, benevolent person-
+ality. Kivutar has a kettle, the daughter of Vaino a pot,
+in which she boils pains on the Hill of Pain and then
+flings them into a hole nine fathoms deep, so that they
+cannot possibly escape (10 ¢). The vehement maid of
+Kipula, sitting on a speckled stone, spins pains on a
+copper spindle, winds them into a ball and hurls them into
+the sea (10 ¢). The good mistress Kivutar, the dis-
+tinguished Vammotar (daughter of Wounds), is asked to
+take a feather, and sweep away wounds, to put them into
+her glove, which she is then to throw down on the Hill
+of Pain, on which is a big stone. Then she is to break
+the stone, to poke the glove inside and roll it into the depths
+of the sea (128 ¢). The lovely old wife of Pains, the good
+mistress Kivutar is requested to come and see the suffer-
+ings in a human body and make them cease. She is to
+wrap them up in a bundle and throw them into a mountain
+
+
+314 PRE- AND PROTO-HISTORIC FINNS
+
+
+cleft, into a blue stone, into a liver-coloured chink, where
+they will never be heard of again (128 ¢). Kirsti, the
+maid of Pains, sits on a stone of pain where three rivers
+flow, grinding the stone of pain, twirling the hill of pain.
+She is asked to gather the pains into a hole of a blue or
+speckled stone and then roll them into the water (128 a).
+An exorcist wishes that certain pains may be shot into the
+cup of Kivutar, into the box of Vammotar, into the bed of
+Vaivatar (daughter of Suffering), or down on the pillow of
+Paivatar (17 s). The Maid of Swellings, Kullatar, the
+active girl, the packer-up, is desired to pack up her pack-
+ages, to remove her needless and monstrous things and take
+them to an apple or an oak tree (129 4). The beautiful
+old mother of Pains, the great mistress of the Hill of Pain,
+the old maker of Salves, that makes the best of magic
+cures, is requested to try if certain ointments are good
+and if so to bring them and anoint a sick man’s wounds
+(181 ¢). It is only when we come to origins that the old
+wife or daughter of pain and sickness is regarded as an evil
+spirit. Inflammatory wounds result from the fire that fell
+from a fiery horn which Kivutar, the old wife of Pain, was
+carrying (10 @). The daughter of Pain, the daughter of
+Death, fell asleep on a meadow, was made pregnant by an
+east wind and gave birth to a snake (203 d). And the
+daughter of Pain and Tuoni’s son are the parents of
+snails (184).
+
+
+POHJOLA.
+
+
+The word Pohjola means‘ the home of the north (#04/a),’
+though the term is quite vague, indeterminate, and without
+geographical significance. Another and older meaning of
+
+
+BELIEFS OF THE WEST FINNS 315
+
+
+pohja is ‘the bottom or lower end of anything,’ for instance,
+of a cask, sack, or haystack. Pohjola is described as
+murky, and with a speckled lid, where there is neither sun
+nor moon; the gate of the north is immense, the pass
+of the atmosphere (s/ma) is hingeless (17 m). In dark
+Pohjola, in strong Sarentola, there is a fiery river throwing
+off sparks, and this is drunk by a dry-throated man of
+Pohjola (52 2). But there is an eternal bridge across the
+river of Pohjola for a traveller to reach that gloomy place.
+It is formed by a gigantic oak felled by a little man who
+emerged from the sea (211 2).
+
+Though this dark, gloomy land of the north is quite
+mythical and unreal, it was a fact that the farther north a
+hunter penetrated, the more likely he would be to find
+game, for there the country was wild and uninhabited.
+From this point of view Pohjola would naturally be associ-
+ated with wild animals and regarded much in the same
+way as Tapiola and Metsola. So a hunter desires that the
+scent of game may reach the nose of his dog from gloomy
+Pohjola, from under the window of Tapio (125). Another
+hunter requests Laaus, the master of Pohjola, to give him
+a bird to take home, for if so he will be thanked (136 c).
+Annikki, the daughter of Tapio, is asked to twist a red
+thread on her rosy cheek and draw it across the stream of
+Pohjola for wild animals to run along and so reach the
+hunter (139 #). The open-handed wife of Pohja, Laaus,
+master of Pohjola, Sinisirkki, maid of Pohja, the son and
+daughter of Pohja, and others, are desired by a hunter to
+frighten away the animals sleeping in the forest that they
+may come in great quantities in his direction (139 5).
+Raunikko, that regulates the ‘money,’ Louhi, mistress of
+Pohjola, is requested to rattle her hand that is full of
+
+
+316 PRE- AND PROTO-HISTORIC FINNS
+
+
+‘money’ and to send plenty animals to a trapper (153 4).
+A bear-hunter implores Louhi, mistress of Pohjola, to
+thrust out her woolly fist, her hairy palm, in front of him
+(121). If Jokiatar has no otters to give a trapper, she is
+to get some from Lake Imatra, or from a river of Pohjola
+(155).
+
+The women of Pohjola have also to do with dogs,
+especially sporting-dogs. Louhi, mistress of Pohjola, the
+distinguished Penitar, ‘Puppy’s daughter,’ is desired to
+remove impediments from her son, 7.e. from the hunter’s
+dog (125). Another hunter implores Raani, mistress of
+Pohjola, to prevent his dog giving tongue at the wrong
+time (126 a). And the best maiden in Pohjola smeared the
+teeth of a dog with sweet stuff, and thereby rendered it
+tame, useful, and not liable to bite (198 a) It was possibly,
+however, that from bad qualities in a dog its origin is
+attributed to the old woman Louhiatar, the harlot mistress
+of Pohjola, having slept with her back to the wind, become
+pregnant thereby, and eventually giving birth to a pup
+(198 a). For under the name of Loveatar, the harlot
+mistress of Pohjola also gave birth to a wolf (222 ¢).
+Perhaps from her connection with animals the blind whore
+of Pohjola, the wholly blind of Ulappala, is invoked to let
+fall some of her milk on the wound caused by the opera-
+tion of castration (158 8).
+
+As the north is by nature a cold region, Sharp Frost,
+after narrowly escaping destruction in the forge of Ilmari
+the smith, very naturally moved off to Pohjola, to strong
+Sarentola (93 4). And cold can sometimes be turned to
+good account. A boy is desired to come from Pohjola,
+from the cold village, and bring ice with him to cool
+burns (171 #). The Virgin Mary is requested to go to
+
+
+BELIEFS OF THE WEST FINNS 317
+
+
+murky Pohjola, to a snowy mountain top, and bring with
+her ice and snow to apply upon a burn (171 4). Porotytts,
+a maid of Pohjola, who had burnt herself, cooled and
+healed the injury with slush taken from the mouth of a
+stallion of Pohjola that had on its croup a pool of slush
+(52 d). The crone of the north, with crooked jaw and
+scanty teeth, is asked to bring slush and ice to lay upon
+injuries from fire (171 4). And it was a girl from Pohjola,
+from the middle of an icy spring, that stood godmother to
+Fire, as she alone could hold him (226 c).
+
+In other ways, too, assistance was obtainable in Pohjola.
+A boy from there, with iron knees, is invoked to crush and
+shoot down the tooth-worm that produces toothache (114 a).
+The blind old wife of Pohjola, the blind hag of Ulappala, is
+asked to extract spears and arrows, #.¢e. pleurisy from a
+naked skin. Failing her, an old man in the land of the
+north, who has strong nails and iron teeth, 1s requested to
+draw out the spears and arrows and then break them (149 @).
+A boy from Pohjola, from the real land of Lapps, is invited
+to poke his fleshy thumb down the barrel of a gun to
+prevent the bullet being discharged against the petitioner
+(150). An exorcist, that feels himself weak, asks the help
+of a boy from Pohjola, of a tall man from Pimentola, to
+prevent his being overwhelmed with shame when near
+sorcerers (176 7). Or an old woman is invited to come
+from Pohjola with a basket containing a dish, in which is
+a golden feather, to anoint wounds (159 4). Lastly, Louhi,
+mistress of Pohjola, is implored by an exorcist to help
+him (x ¢). But in this, as in the examples immediately
+preceding, it is possible that these helpful personages were
+invoked for the same reason that Hiisi was sometimes
+appealed to; because they were strong, and, though of an
+
+
+318 PRE- AND PROTO-HISTORIC FINNS
+
+
+evil disposition, might be appeased and mellowed by suit-
+able offerings.
+
+Pohjola had also a bad aspect, for all sorts of evils could
+come from it.. What is said of Tuonela, ‘the home of
+Death,’ in one version, may be told of Pohjola in a variant
+(216 4). The powerful Louhiatar, mistress of Pohjola,
+was made pregnant by a violent east wind and gave birth
+to Boil, Scab, Pleurisy, Gout, Gripes, Fits, Sudden Death,
+Rickets, a nameless boy, and a daughter Tuuletar (216 a).
+Raani, the swarthy old wife of Pohja, was got with child
+by a wind, was confined in an outhouse of Pohjola, and
+gave birth to Tuuletar, Viimatar, and Pakkanen, ‘Sharp
+Frost’ (210 6). The cold-throated old wife of Pohja, after
+sleeping a long time in the cold, rubbed her hands together
+so hard that blood was produced, and from it originated
+rust in corn (217). A furious old crone fv. the strong
+woman Louhiatar] ate iron groats, pounded by Tuoni’s girl,
+became heavy with child and brought forth a numerous
+progeny consisting of all sorts of maladies and injuries
+(216 @). And when the huge Pain-maiden, Akahatar, whose
+hair-plait reached to her heels and whose breasts hung
+down to her knees—like those of a Swedish Skogsnufva,
+of a Danish sea-woman, or of a Wildfraulein of the Eifel 1—
+was about to be confined she goes to Pohjola, to a bath-
+house in Sariola, where she was delivered of Wind, Fire,
+Sharp Frost, Snow-fall, Atrophy, Worms, Cancer, Heart-
+eater, Gout, and Pleurisy (216 ¢).
+
+
+LAPLAND, TURJaA.
+
+
+Though Lapland is a real country the term is generally
+used in quite a vague sense as the dark, northern land of
+Mannhardt, (x) pp. 88, 123, 128; Hyltén-Cavallius, vol. i. p. 14.
+
+
+ae 0.
+
+
+BELIEFS OF THE WEST FINNS 319
+
+
+sorcery and magic, in a pre-eminent degree. And the
+word Lapp is often only another term for a wizard or
+sorcerer. Turja also has a place on the map. It is the
+eastern portion of the Kola Peninsula, the Tarje of the
+Russian Lapps. In the narrative, recorded by King Alfred
+of Ohthere’s voyage of discovery in the ninth century to
+the White Sea and the mouth of the Dvina, mention is
+made of the Ter-Finnas or Lapps of the Tarje district.
+
+From their remote northern situation, Lapland and
+Turja were both thought of as abounding in game and
+sometimes as densely wooded. If game is not to be found
+near at hand, a hunter desires the forest divinities to bring
+some from Lapland’s gloomy wooded wilds, from near
+Lake Imantra, or from the boundary of the Turja Fells
+(139 £). The origin of the reindeer is to be found in
+Lapland, and the old crone of the north is requested to
+send plenty of game from the north, from Lapland’s level
+tracts, into the traps of a supplicating hunter (148).
+
+More usually help was expected from these countries
+because their inhabitants were associated in the popular
+mind with the practice of magic arts. It is related that
+an old man from Turja, a little man from Pimentola
+(home of darkness), came with a roll of skin, a skein
+of sinews, some spare flesh and a ladle of blood, and
+repaired the injured portions of a wounded man (32 2).
+A maiden from Turja, from Lapland, sails in a red boat
+all over icicles and with a kettle full of ice, which she is
+asked to give to a person that has been burnt or scalded
+(52 &). An eagle dwells in Turja, in Lapland, with a beak
+of steel and iron claws; with one wing it grazed the water,
+with the other the sky; its beak is like five sickles. It is
+invoked to devour the pain from which a man is suffering
+
+
+320 PRE- AND PROTO-HISTORIC FINNS
+
+
+(128 2). An eagle from Turja with five talons like sickles,
+with eyes at the tips of its wings, is besought to come and
+extract Keito’s spears from the body of a sick man (149 e).
+Again, in the north-east, in Turja, dwells a famous eagle.
+Under its wings are a hundred men, at the tip of its tail
+a thousand men all girt with swords. It is invoked to
+remove injury caused by spells (154 ¢). A fiery-throated
+Lapp, that has drunk up rivers of fire, is invited to come
+to sip blood and stop a flow of blood. He is to fetch a
+stopper from the Fells or a nail from Pohjola to serve as
+a plug ; then he is to make a copper or tin pipe and draw
+back the blood to its proper place, to the lungs and heart
+(177 #). Only once is Turja connected with violence or
+outrage; that is when a fiery Tursas, a Lapp, came from
+Turja and burnt some hay that four celebrated maidens
+were in process of making (224 a).
+
+
+PERSONIFICATIONS OF DEATH—KALMA, TUONI, MANA.
+
+
+Though Kalma may sometimes be taken as a proper
+name, it signifies ‘a grave, the smell of a corpse, a corpse,’
+and a cemetery or collection of graves is a kaénisto. In
+the sense of grave the word may belong to the end of the
+second period, for the Mordvin £a/ma also means a ‘grave,’
+and there is a verb ka/man, ‘I bury.’ As a proper name,
+then, Kalma is a mere abstraction or personification of the
+grave, and therefore of no great antiquity. Tuoni origin-
+ally meant the ‘ deceased,’ and is the same as the Lapp
+duodna, ‘miserable.’ From TZwonela, ‘the place of the
+dead or miserable,’ was afterwards formed by analogy a
+personal name, Tuoni. Mana was also formed by analogy
+from Manala, ‘the place of the dead under ground,’ which
+
+
+A eee = en See
+
+
+BELIEFS OF THE WEST FINNS 321
+
+
+is shortened from maan ala, ‘under ground, below the
+ground,’ Léonnrot seems to have been the first to use it
+in the nominative as a proper name.!
+
+The abode of Death was under ground, and a river is
+sometimes mentioned in connection with it. Some chips
+of an awful oak, felled by a boy from Pohjola, drifted into
+the black river of Tuoni, into the subterranean waters of
+Manala (211 ¢). An old witch rolls fire up into a ball and
+hurls it along through the earth and soil (manue) into the
+river of Tuonela, into the depths of Manala (226 4). But
+a man must not go there without being killed by disease
+or removed by ordinary death (149 4). The huts of
+Manala are eternal (5 a).
+
+Disease in general, sometimes toothache in particular,
+is termed ‘Tuoni’s hound’ (13, 15 @, 21 5), or his ‘grub,’
+or the ‘worm of Manala’ (21 ¢). But a snake is also the
+‘worm of Manala,’ or ‘Tuoni’s grub,’ or a ‘grub the
+colour of Tuoni’ (29 a), while a real grub or caterpillar
+is ‘Tuoni’s rag.’ Injuries from spells are ‘ the bit of death
+(surma),’ ‘the chains of Manala,’ or ‘ Tuont’s reins’ (154 ¢).
+Disease or sickness sometimes comes from the house of
+the spectral host (4a/malaiset) (5 a), from the armpit of
+a spectral form (ka/malainen), from Kalma’s heath (5 3),
+or it rushes forth from a grave (alma) (17 ¢). A place
+of burial is ‘Kalma’s heath’ (5 4), ‘Kalma’s sleeping-
+chambers,’ ‘the huts of the manalaiset’ (17 5). Ukko is
+invoked to fix Tuoni’s lock on the jaws of a bear, or to
+thrust a stone of Manala down its throat (123 7). When
+milk had been taken by means of spells from some owner
+of cows it was said to have gone to Tuonela or to Mana
+(132 ¢).
+
+Kalevala, vol. ii. pp. 165, 171.
+
+I x
+
+
+322 PRE- AND PROTO-HISTORIC FINNS
+
+
+Although the personifications of death were naturally
+dreaded as evil beings, they were also invoked to remove
+harm. Tuoni’s short girl is requested to take her cur, the
+toothache, from a sufferer’s jaws, and to press her injuries
+down into Hiisi’s coals (114 4). And Tuoni’s girl, the
+Maid of Pains or Sickness, collected pains with gloved
+hands and boiled them in a small kettle that no one should
+receive hurt from them in future (10 d). Tuoni’s girl
+Kipu-tytto, ‘the Pain-maiden,’ the huge Akahatar, is asked
+to winnow and sift torments, and to make stones suffer
+instead of human beings (128 d). An exorcist requests
+Tuoni’s red-cheeked boy to twist a red cord against his
+left thigh that the petitioner may tie up a severed vein
+with it. If he is unsuccessful Tuoni’s son is to perform
+the operation for him (140 d). Again Tuoni’s son, wear-
+ing a red hat, with eyes askew and crooked-jawed, is
+invited to knock down sorcerers, to shoot them in the
+belly, to gouge out the eyes of the envious and drag a
+gory rug over their eyes (176 2). And a son asks his
+dead mother to rise from the earth, from the cemetery,
+and to bring him from Tuoni’s land a fur coat, which he
+will put on to protect himself against sorcerers and witches
+
+176 5).
+‘ When the origin of anything possessed of evil qualities
+is related, its parentage, or origin, is sometimes ascribed
+to the evil spirits of the lower world. The blind daughter
+of Tuonela, the hideous child of Manala, was made preg-
+nant by a wind, was with child for nine years, and sub-
+sequently gave birth to Wolf, Snake, Cancer, Ringworm,
+Thrush, Cripple, Toothworm, Heart-eater, and Woman’s
+Enemy (216 4). Once when Tuoni’s iron-toothed old wife,
+the crooked-fingered and crumpled-jawed, was spinning,
+
+
+- ee
+
+
+BELIEFS OF THE WEST FINNS 323
+
+
+some blood spirted from the distaff and turned into a
+snake (203 f). Iron is capable of doing harm, because
+when Holma came from Tuonela, the son of Manala from
+under the earth, he found purple melic grass growing on
+a swamp, and took it to Ilmarinen, who forged it into iron
+implements (214). Probably because nets are deadly to
+fish the origin of nets is assigned to Tuoni’s three-fingered
+girl, to a three-fingered crone of Lapland, who span a net
+of one hundred fathoms in a summer’s night (230 ¢).
+Again, because flax can be turned to bad uses, a huge flax
+plant is said to have grown up from a flax seed found in
+the storage place of Tuoni’s grub, and sown in the ashes
+of an incinerated boat (204 a).
+
+
+Sun, Moon, GREAT BEAR.
+
+
+The heavenly bodies received some attention from the
+Finns, and were personified; but there is not much in
+the Magic Songs to suggest that the sun and moon were
+held in any special honour, or were regarded as very
+powerful personalities, though Agricola mentions that the
+Finns in his time served the sun, moon, and stars. There
+is a vague reference in the text to a share being offered
+to the moon, sun, and Great Bear, while nothing is given
+to the disease called thrush (44). And the sun is asked
+to rise in proper time, to give gifts, health, success in
+hunting and fishing (110). This, of course, may be due
+to losses of traditional material incurred during the lapse
+of centuries ; for there are passages in the songs that seem
+to be fragments of older nature myths that have otherwise
+
+
+_ disappeared, but were formerly current. For instance, it
+
+
+is twice mentioned that after the son of the sun (fazva)
+
+
+324 PRE- AND PROTO-HISTORIC FINNS
+
+
+had been enclosed in a rock, in an iron mountain, and the
+moon shut up in an enclosure, in an iron barn by Kuume,
+by a Pirulainen, they were released by a woman (fave),
+by Paivatdér (8 d, 42 4). In another passage the release
+is effected by the daughter of nature (166 d@), and it is
+quoted as a precedent why another release of a different
+nature—the delivery of a child—~should take place. The
+exorcist in this as in the two other instances must there-
+fore be apptaling to a well-known myth, though he has
+only occasion to refer to a small portion of it. Ina much
+more modern version it is vaguely stated that the Creator
+formerly freed moons, released suns, and with a curse sent
+Satan away to hills of steel, to rocks of iron (42 a). None
+of these passages seem to refer to an eclipse, or to the
+waning of the moon, for the Finns express that by Aus
+syddéan, ‘the moon is being eaten.’ And Agricola men-
+tions that ‘animals (afee?) ate the moon,’ by which
+expression one or both of these phenomena must be
+intended. As Finnish poetical art requires the two lines
+in each pair to be synonymous, or nearly so, it is quite
+possible that though two different heavenly bodies are
+named, only one is intended. It is, therefore, not im-
+probable that the sun alone is referred to, and its relative
+concealment in winter is the natural phenomenon really
+hinted at. But when it is related that half the sun and
+a third of the earth were darkened and concealed by a
+gigantic oak (211 a), or that the sun and moon were
+hidden by the growth of a lovely oak (211 4), it is not
+at all certain that we are in presence of a nature myth.
+Evidently the same tree is intended in a variant, in which
+no mention is made of its extreme height, or of its obscur-
+ing the heavenly bodies (211 ¢). So all this may simply be
+
+
+|
+
+
+BELIEFS OF THE WEST FINNS 325
+
+
+due to the lively personal imagination of individual singers,
+and not be in the least mythical. No more so than in a
+lyrical Lettish ballad, where a girl says:—‘I would not
+enter a village where oaks grow on the ploughed fields ;
+the oak has thick foliage, you don’t see when the sun
+rises.’ }
+
+In her character of the ‘releaser,’ Paivatar, the doughty
+maiden, together with other powers, is invoked by an
+exorcist to effect deliverance and to release a sufferer
+from the effects of spell-sent sickness (1 ¢). As givers
+of light the sun, moon, and the great bear (ofava) are
+not unnaturally requested to guide a child from the womb
+into the open air that it may see and rejoice at the sun,
+moon, and stars (166 #). And Otavatar, the maid of
+night, the steady watcher during the night, is desired to
+watch over the petitioner’s property, to notice if anything
+is stolen, and if so to have it returned (175).
+
+Their primitive character is less evident when Kuutar
+and Pdivatér are implored by a hunter to bake a suet
+cake, a honeyed bannock, with which he may propitiate
+the forest (139 4). Indeed, the appeal to Kuutar may
+have been suggested by a play of words, for Aus means
+both ‘moon’ and ‘suet,’ and in offering a suet cake, it
+would: be only a playful figment of the imagination to
+aver that it was baked by the moon’s daughter. Or when
+a fisherman promises to give Vellamo a linen shirt, woven
+by Kuutar and spun by Paivatar, as an inducement to her
+to give him a good haul of fish (120 ¢). It is less easy
+to understand why in a charm against wasps the same
+pair are desired to conceal their children, #.e. wasps, and
+not to follow the wish of a sorcerer, or be made jealous
+
+
+1 Sprogis, p. 92.
+
+
+326 PRE- AND PROTO-HISTORIC FINNS
+
+
+by jealous people (113). Once when Paivatér was be-
+wailing her gold, and Kuutar her silver, a tear trickled
+from her eyes and rolled into a dell. From it sprang a
+lovely oak (205 ¢).
+
+In what appears to be a song of late date, Fire (Pans)
+is said to be the offspring of the Sun (Auringo), and to
+have been made in the centre of the sky, on the shoulder
+(z.e. close to, near) of the Great Bear (226 f). Elsewhere
+Panu is the son of Aurinkoinen and Auringatar, and lives
+under forge-fires (172 5). Three or four famous maidens
+are credited with washing with lie the head of the son of
+the sun ( parva) (224 a).
+
+
+ELVES, BROWNIES.
+
+
+There is a class of beings occasionally mentioned in the
+Magic Songs for whom the Finns seem to have had no
+special name, but who may be grouped under the com-
+prehensive title of Elves or Brownies. Though they are
+always pictured as emerging from the sea they do not
+appear to be water-sprites. The stone boots and hat they
+sometimes wear belong rather to earth- or stone-elves, and
+the power of suddenly assuming a gigantic height is a
+characteristic of the Russian LieSi or forest-spirits, who
+change their stature according to circumstances.!_ Perhaps
+the fact that one of them is summoned to fell a gigantic
+tree, being the only person capable of doing so, points in
+the same direction.
+
+Once when a huge oak hid the sun and moon from
+shining and obstructed the course of the stars, a man
+was sought for from all parts to fell it, but none was to
+
+1 Mannhardt, (2) p. 145.
+
+
+oe  ,,lC—ri— EE, | 6|Oee eee.  li—i™
+
+
+BELIEFS OF THE WEST FINNS 327
+
+
+be found. At last there emerged from the sea a [z.2.
+small, black, old, iron} man, a quarter of an ell high, as
+tall as a woman’s span, who could stand under a sieve.
+His hair reached to his heels, his beard to his knees) He
+wore a hat, boots, sleeves and a belt, all of them of iron,
+and he also had an iron axe and shaft. He sharpens his
+axe for a long time on five or six whetstones. By this trme
+he had become huge; his head touched the clouds and
+his beard shone like a leafy grove upon aslope. Then in
+three blows he felled the gigantic oak (211 4). In another
+version a swarthy or black man rises from the sea, who is
+as tall as a straightened thumb, three fingers high [v. the
+height of an ox’s hoof]. He carries on his shoulder an
+ornamented axe with a decorated shaft; on his head he
+wears a tall stone hat, on his feet stone boots. With
+three blows of his axe he fells the gigantic oak (211 a).
+From the sea rose a wee man, scarcely a quarter ell in
+height and carrying an axe. With it he fells the oak that
+sprang from a tear shed by Paivatér or Kuutar (205 ¢).
+Once a huge ox was bred up in Finland. With its head
+it roared in Tavastland, it wagged its tail in Tornio. A
+swallow took a day to fly from its withers to the end of its
+tail, and in a month a squirrel could not run from one
+horn to the other. No one could be found to slaughter
+it, tilla swarthy man emerged from the sea, who was but
+a quarter of an ell high, the height of a woman’s span.
+He overturned and killed the ox, from the carcase of
+which ointments and salves were obtained (232 g). On
+the other hand, a small man rose from the sea, only three
+fingers high, wearing an icy hat and gloves, who knew
+how to recite ‘the ravages of fire,’ and by doing so healed
+burns (52 7).
+
+
+_ 328 PRE- AND PROTO-HISTORIC FINNS
+
+
+The origin of toothache is twice attributed to the
+Brownie. A black or swarthy (2. iron) man the length
+of a thumb, rose from the sea; from his beard a worm
+grew which became a tooth-worm (185 a). A wee man,
+axe in hand, emerged from the sea. He came across an
+oak which he felled. In doing so a chip stuck in his teeth
+and became a tooth-worm (185 /).
+
+
+GIANTS—TuRSAS, TURILAS.
+
+
+(
+
+
+Like elves, giants play but a small part in the Magic
+Songs. Tursas as a proper name is derived by Thomsen
+from O. N. ¢hurs ‘a giant.’ But the word has also a
+meaning in Finnish. According to Lonnrot it signifies
+‘tumid, swollen’; according to Renvall ‘a snout or muzzle,’
+as that of a horse, an ox, or a pig. In acouple of riddles
+tursas and turtlas are both used with reference to a pig
+routing up the earth with its snout.! In the middle of the
+sixteenth century Martin uses /wri//as in the sense of ‘a
+dog that bites animals.’ 2
+
+Once upon a time a lovely girl rose from a damp dell,
+who gave no heed to suitors. Soa giant (4uri/as), a sea-
+Tursas in shirt-sleeves sent a nightmare upon her, and
+while she slept ravished her. He then took his departure
+(215). On another occasion there came from Turja a
+Lapp, named the fiery Tursas, who burnt the hay that had
+been cut by three celebrated maidens (224 a). From
+these two brief references it would seem that giants were
+destructive rather than stupid, the character they have
+assumed in later Scandinavian folklore. And the action
+of the first mentioned is quite in accordance with the
+
+
+Arvoituksia, No. 1849, 1853. 2 Grotenfelt, p. 19.
+
+
+BELIEFS OF THE WEST FINNS 329
+
+
+lustful nature assigned to many half-brutish forest-spirits
+in European folklore.
+
+The somewhat similar name of Turisas is ascribed by
+Agricola to a god of the Tavastlanders who gave victory
+in war.
+
+
+RAHKOI.
+
+
+According to Agricola Rahkoi was a god of the Tavast-
+landers who darkened the moon, but the Rahko of the
+Magic Songs seems to be a different person. In a couple
+of charms against nightmare Rahko, who wears iron boots
+and makes a ‘stony hill revolve,’ is desired to put the night-
+mare under a beam, an iron roof, a tongueless bell (35,
+145). Almost in the same terms he is mentioned in two
+riddles, but in a way that throws little light upon the
+subject. ‘Rahko in iron boots makes a stony hill revolve,
+it bows to the rapids?’ Aas. ‘A mill-wheel, a mill-sail.’
+Or ‘Iron-booted Rahko hurries over a stony hill, he treads
+on a gravelly one?’ Ans. ‘A plough—a poker.’! The
+‘stony hill’ of the text seems to mean a mill-stone, and the
+exorcist probably wishes Rahko to put the nightmare under
+the stone of his mill which is termed a_ tongueless
+‘bell’ from the clatter it makes. As vakk means ‘gravel,
+hard limestone’ in Esthonian, it seems likely that Rahko
+was a stone-ha/fia.
+
+
+PERKELE, PIRU.
+
+
+Perkele< Perkene is from the Lith. Perkunas, ‘the god
+of thunder,’ and Piru from the Russ. Perin ‘a thunderbolt,
+
+
+1 Arvoituksia, No. 1508, 1509,
+
+
+330 PRE- AND PROTO-HISTORIC FINNS
+
+
+lightning,’ but formerly ‘the thunder-god.’ The Mordvins
+at an early period have also borrowed the word under the
+form Purgene, and use it in its old sense. But in the
+Magic Songs Perkele, Piru only signifies an evil spirit and
+answers more particularly to the biblical and modern devil.
+There is not the slightest trace of the older meaning ; and
+in estimating the approximate period to which the Magic
+Songs in the main belong, this complete change of front
+cannot be overlooked. It may also be observed that the
+Letts have retained the old tradition of Pérkons and still
+regard him as beneficent, though capable of doing harm
+when asked to do so. A couple of stanzas of a modern
+Lettish ballad run thus :—
+
+
+Thundering gently, gently,
+Pérkons crosses the sea,
+He hurts not the bloom of the bird cherry tree
+Nor the work of the husbandman.
+O Pérkons, rumble and thunder,
+Split the bridge o’er the Daugava,
+That no Poles or Lithuanians
+Shall enter my fatherland.!
+
+
+Perkele, often coupled with Piru, Hiisi or Juutas, is a
+name given to the fearful spirit of disease that an exorcist
+is summoned to combat and exorcise (1 @, 5 4, 13, 17 ™,
+1544). Ina charm to silence a dog, Perkele is invoked
+to do so (126). Ina variant Hiisi is invited to rise from
+Hell, Perkele from Pimentola to crush or devour the
+violent pain a wretched man is suffering (128 4). Here
+he is desired to perform a benevolent action, perhaps from
+the old feeling that seems to have prevailed among the
+Finns that no spirit was by nature entirely good or entirely
+
+
+1 Sprogis, p. 316.
+
+
+BELIEFS OF THE WEST FINNS 331
+
+
+bad even though bad on the whole. But Tuoni’s girl is
+invoked to fling toothache into an iron baking-pan or at
+the end of Piru’s tongs or among Hiisi’s coals (114 4).
+And in the ‘ origins’ Piru is regarded as a source of evil.
+Piru made arrows in a steel mountain, in a smithy without
+a door and windowless. He made the heads of steel, the
+shafts of oak, and plumed them with swallow’s plumes
+bound on with locks of Hiisi’s girl, and poisoned with the
+venom of a snake. He then shot his arrows and the third
+recoiled against a steel mountain and entered a human
+being (211 a). The alder buckthorn was made from the
+hair of a Pirulainen’s beard and the rowan is the creation
+of Piru (212 2).
+
+
+GoD, THE CREATOR.
+
+
+We have already seen in Chapter rv. that the term ‘ god,’
+F, Jumala, originally meant the ‘sky, the sky-spirit,’ and
+that in course of time it came to mean ‘god’ in a general
+sense, applicable to a variety of deities. Thus Ahti is
+termed a god (93 4). Hiisi is the humpback from the
+home of gods (1 ¢). An exorcist exclaims: ‘may help
+from the gods arrive, from the nourishing mother aid’
+(102 a). In acharm to be used when heating a vapour-
+bath it is said that the gods above and the earth-mothers
+down below use hot baths (87 a). The Virgin Mary is
+implored to restore health before the rising of the sun,
+the dawning of the god of dawn (169 a). And the lord
+of horses, Tahvanus [v.2. Timanter, Rukotiivo] is called
+a god that cleans out mangers (115 4).
+
+Asarule, however, the word god, especially when qualified
+by the terms Creator, Almighty, seems to refer to the
+
+
+332. PRE- AND PROTO-HISTORIC FINNS
+
+
+Christian God. Whenever this is so the exorcism is not
+
+older than the middle of the twelfth century, unless the
+
+term is a substitution for an older heathen name, as
+
+undoubtedly is sometimes the case. A fragment of some
+
+lost legend appears to be preserved in a charm against
+
+hemorrhage where it says: when countries were upheaved,
+
+when hard dry land was lifted up from beneath the sea,
+
+our great Creator then made an incision in his flesh, in
+
+his left foot (55 /). This perhaps includes a reminiscence
+
+of Vainaiméinen who cut his left knee when making a boat
+
+--+—*» also was said to have taken part in the creation
+
+‘orld. When a hunter exclaims: ‘Why is the great
+
+wroth, the giver of game enraged, that he never
+
+all’ (89 ¢), he is probably thinking of Tapio, though
+
+ne of the forest god is replaced by that of the
+
+Or, when another hunter beseeches dearest God,
+
+ar of the earth, to give him abundance of wild
+
+, Mentioning at the same time that he does not
+
+e himself merely to be given stumps of trees ; he
+
+ve animals (139 m). Again, when God the Creator
+
+ed to watch over a herd at pasture (123 d), it is
+
+sible that new names have been worked into an
+cantation.
+
+of the songs in which the name of God is em-
+
+ippear to belong to the transition period between
+
+dom and Christianity. For His name is invoked
+
+y that clearly shows the exorcist was no profes-
+
+‘eologian. The aerial God, the spirit Lord Jesus,
+
+d to harness his colt, to take a seat in his orna-
+
+sleigh, and drive through bones and loosened
+
+order to join them together, and where a bone
+
+ten to fasten in another (140 a). God the father,
+
+
+BELIEFS OF THE WEST FINNS 333
+
+
+Jesus the Lord of air, that knows how to throw a bullet
+and to recite a charm for stopping bullets, is invited to
+let water fall on the touch-hole of an enemy’s gun so that
+it will not flash and go off (150). God the Creator is
+desired to recite a charm to heal a sick man, and to
+assuage his pain with formulas that are holy and well
+arranged (157 @). Ina charm for making a healing vapour-
+_ bath, God, the father of the air, is asked to enter the
+steam, to restore health to the sick person and give him
+repose. But he is to do it secretly, without being heard
+by a worthless wretch, and without the knowledge of the
+village people (169 ¢). God the Creator is prayed to give
+luck and contentment. He is to build round the sup-
+plicant’s property an iron fence, a stone castle, reaching
+from the earth to the sky (143). God is called the oldest
+of spell-reciters, and the Creator the oldest of wizards
+(106). The Creator is desired to come and exorcise, God
+to come and speak, and aid a man in overthrowing his
+enemies and envious persons (176 @). And the Creator’s
+cock with golden wattles is implored to come and speak
+on a man’s behalf, but it is also to stop the judge’s ears,
+to bribe the jurymen, and bind silk across the sheriff’s eyes
+(124). Why the Creator has a cock with golden wattles
+is explained perhaps by a riddle. ‘One cock is an iron
+cock, the second a copper cock, the third a golden cock.
+The iron cock split the ground, the copper cock cut the
+sea, the golden one divided the sky?’ Answer—‘A plough,
+a ship, the sun.’ Though it may be a reminiscence of
+the thunder-bird, as mentioned above.
+
+At a later period in order to staunch blood an exorcist
+could say: ‘May the word of God become a bar, may
+
+Arvoituksia, No. 2026.
+
+
+334 PRE- AND PROTO-HISTORIC FINNS
+
+
+trust in the Maker be a plug. If blood should flow in
+rapid drops, may the Creator hold it fast, may God seize
+hold of it (55 ¢). But when he continues: ‘Let some of
+kindly Jesus’ flesh, a bit from the side of the Lord be a
+plug for the fearful hole, a dam for the evil gap,’ he is only
+adapting an older heathen formula to the new terminology.
+So, too, when the Lord is asked to fling his gloves down
+as a stopper on the fearful hole from which ‘the milk’? is
+flowing, the idea was not a newone. But the end of the
+charm certainly belongs to the new faith, ‘May the
+Maker’s lock be a lock, may the Lord’s word be a bar,
+that the “milk” to the ground shan’t flow nor the guiltless
+blood upon the dirt, despite the nature of God, against the
+intention of the Blest’ (1777). An exorcist declares he
+can do nothing without the grace and help of God the
+Creator (1 a, 42 5). He throws himself on his God, who
+abandons not the good and virtuous (5 a). He declares
+that the arrows of a sorcerer can be extracted by virtue of
+the word of God, by the spirit of the Lord’s decree (37 ¢).
+The breath that he exhales is the breath of the Lord, the
+warmth that he emits is that of the Creator, the water he
+employs is the blood of Jesus (102 a). And he asks, Isa
+man to be put to death without God’s mercy, without the
+true Creator’s leave? (42 a). <A diviner begins: ‘I crave
+from the Creator leave, assistance from the Lord I beg.
+Tell the divining gear, O God. Divining gear! declare to
+me whence the calamity has come’ (59 a). And he
+finishes: ‘If the divining gear speaks truth, its reputation
+is enhanced, the divining gear is raised aloft to the knees
+of the holy God’ (59 4). A charm to quiet a child begins:
+‘Lull the child to sleep, O God, cause it to slumber, Mary
+dear’ (79). On going to bed one may repeat a /orica like
+
+
+BELIEFS OF THE WEST FINNS 335
+
+
+the following: ‘May the Earth be a good defence, the
+Omnipotent a guard, may the Creator lock the door, may
+a saint draw-to the bolt, may Jesus be a shield, Mary
+a sword’ (137). In preparing a bandage an exorcist says:
+‘Let the Maker's silk be a ligature, the cloak of the Lord
+be a covering, let the word of God be a bolt, the furs of
+the Lord be a coverlet; may the Creator’s mercy grant,
+may God’s word bring about that the wound shall not
+inflame’ (159 a). The Creator, Nature, God that dwells
+above, is invoked to save a person from incantations and
+spells by means of words framed by the Creator prescribed
+by the Holy Ghost (165 a). Fire is said to have been
+created by God, to be born of Jesus’ word and rocked by
+the Virgin Mary (226 ¢). And as salves are said to be
+prepared behind the stars, they are desired to trickle down
+from the mouth of the gracious God or from the beard of
+the Blessed One (2332 ¢).
+
+
+Jesus, Mary.
+
+
+The names of Christ and of Jesus are often mentioned,
+but never together. Jesus is desired to consecrate the
+flocks and watch the herds of the petitioner when they are
+sent out to graze (123 4). Christ is said to have christened
+Tapio’s son, Pinneys, in the middle of the forest field to
+tend the animals of the forest (139 7). Jesus is asked to
+send a good barley year that the people of Bothnia and
+Savolax may have plenty of good ale to drink (182).
+Jesus is invoked to wash a small child clean with water
+made by the Creator and ordained by the ‘ Holy Birth,’ a
+term used in Karelia for Christ (168). Or he is to wash
+a girl clean from the harm caused by evil gossip and bad
+
+
+336 PRE- AND PROTO-HISTORIC FINNS
+
+
+reports (133 a2, 4). The water an exorcist uses for healing
+purposes is feigned to be taken from Jordan, in whic
+Christ was baptized (106, 228 ¢). Or it is the washing
+water of Jesus, the tears of the Son of God, brought from
+Jordan by the Virgin Mary (228 d). A maiden from a
+spring is requested to bring serviceable water from Jordan,
+in which Christ was baptized (179). An exorcist declares
+that he uses the guiltless blood of Jesus, the sweet milk
+of Mary, which had come rippling down from the sky, as
+an ointment for wounds (109 a). As lord of the air, the
+God that dwells in the sky, Jesus is desired to come and
+see his son who is sick, and to spit some of his spittle on
+him as an ointment and thus to restore him to health
+(157 ¢). Jesus is besought to take anxious care of a child
+created by himself, to build a wall of stone, an iron
+enclosure, behind which a soldier can shelter himself
+against the weapons of an enemy (162 d@). He is implored
+to help a man in danger, who addresses him: ‘ Lord Jesus,
+do not cast me off, do not abandon me, good God, to
+the magic spells of whores,’ but ‘bring him a fiery sword
+with which he will slash the wicked men and crush the
+foul persons at a blow’ (176 ¢). Once when Jesus was
+travelling over a red sea in a red sloop with red sails, a
+red ointment trickled from the sails and yards and formed
+the best of salves for every kind of injury (10g 4). Jesus
+and Mary are asked to taste and see whether certain salves
+are the magic remedies of the Almighty with which the
+Creator was salved, the Omnipotent was healed when
+pierced and tortured by a devil (181 #). Once when Jesus
+and Mary were driving to church the horse fell and
+sprained its leg, which was healed by Jesus (34a). A
+cow-house snake bit Christ’s horse, killed the foal of the
+
+
+BELIEFS OF THE WEST FINNS 337
+
+
+Almighty, through the bony floor of the stall (205 ¢). If
+a snake will not remove its venom from a bite, an exorcist
+will loudly shout to his father, to Jesus, and to his mother
+Mary (29 d). Once when Jesus was walking along a road
+with Peter he encountered a Cancer. He asked the Cancer
+where it was going, and on learning that it was bent on
+visiting a village to bewitch people’s bones and make their
+flesh putrify, he ordered it under a thick flat stone, to
+shriek and yell where the sun and moon never shine (39 4).
+
+The ordinary epithets of the Virgin Mary are the dear
+mother, the compassionate, or the holy handmaid of the
+sky, the holy little serving-maid. In some instances she
+merely replaces the Air, Spring, or other maidens of an
+older period. The Virgin Mary, the pure mother, beauti-
+ful of shape, wandering along the edge of the air witha
+skein of veins on her back, a can of blood under her arm,
+a longish piece of bone in her hand, and a lump of flesh
+on her shoulder, came and spliced a vein, poured in blood
+where some had leaked, fastened a bone that was loose,
+and added flesh where a bit had been removed (32 4).
+The Virgin Mary, the holy little serving-maid, sits on the
+surface of the sea, wearing a golden ring on which are six
+horns full of magic cures, with which she once salved the
+Creator and healed the best of Lords (109 d). Once the
+dear mother, the Virgin Mary, threw herself down to sleep
+on a turfy knoll. Milk exuded from her breasts, and
+became an ointment good to apply upon a wound (109 ¢).
+As the dear mother she is invoked to bring a golden cup
+and a honeyed wing, and then to prepare a healing vapour-
+bath (169 4). As the holy handmaid of the sky, she is
+asked to weave a gold or silver belt to serve as a bandage
+(159 a). As the kind, compassionate mother, she is desired
+
+I Y
+
+
+338 PRE- AND PROTO-HISTORIC FINNS
+
+
+to go to gloomy Pohjola to fetch snow with which to
+quench fire (172 a). As the compassionate mother, or as
+the holy little serving-maid, she is asked to stop a flow of
+blood with her thumb, or with turf, or with a handful of
+flax, or with a slice of birch-bark, and then to sew up the
+wound with a needle and silk thread (177 a, 5,c). The
+beloved and merciful mother, the Virgin Mary, is implored
+to come in her fleet shoes to seize pains, to remove plagues,
+etc.; then to throw them into the sea or to the wind
+(128 f). As the dear, compassionate mother, she is re-
+quested to give a soft fur coat as a protection against bitter
+cold, and to throw fire into the socks and tatters of the
+suppliant so that he may not be nipt by the frost. The
+frost-bites she is to anoint with butter and fat (147 4). As
+the eternal mother of the earth, the benefactor of all time,
+she is to let water pour from a rock by means of her golden
+staff and wash a girl in it in order to remove the effects of
+spells and to make her irresistibly attractive to young men
+(133 @). The Virgin Mary, the dear mother, is desired to
+heal a sufferer by virtue of the word of God, through the
+mercy always of the Lord (169 a2). She is invoked too to
+bring honey and water from the sky, or to take milk from
+her breasts and anoint a sick man; if that is insufficient,
+she is to anoint him with the blood of Jesus (181 a). Or
+she is to use the salves with which Jesus was salved, with
+which the Omnipotent was healed when tortured by Pilate
+(18: 4). An operator beseeches the beloved and com-
+passionate mother to let her skilful fingers be transformed
+into his, that he may snatch a bit of chaff out of a person’s
+eye (160 a). Or she is to take from her golden box a
+golden hook, and with it fish out the chaff that irritates a
+man’s eye (160 4). To get rid of an attack of gout it is
+
+
+BELIEFS OF THE WEST FINNS 339
+
+
+addressed with flattering words: ‘Good Gout, thou lovely
+Gout, Mary’s sweet Gout, depart!’ (30). Before going to
+bed one may repeat at the end of other formulas: ‘ May
+Mary lull to sleep, may Jesus raise me up to thank my
+God, to give Jesus praise’ (137). Dear Mary and good
+Peter are implored to give a man a small plot of ground
+gratis, on which he may build a new house (167). After
+gelding a horse the operator gives it water, and says: ‘ Now
+of this water drink, of Mary’s washing-water sip’ (96).
+
+
+SAINTS,
+
+
+In an ale-charm it is related that a little boat was being
+rowed on a little pond in a drop of water ina cloud. St.
+Andrew (Antti) pulled, little Peter steered, and Jesus sat
+in the middle. There they were occupied in combing
+Hiisi’s elks, and the housewife reciting the charm invokes
+these animals to drive away the snakes that are drinking
+her ale (91). Christopher, the river chief, the golden king
+of rivers, together with Nokiatar [v. Jokiatar] is desired to
+send a whole host of otters into the traps of a trapper
+(155). St. Anni, the gracious maid, the beauteous maiden
+of the veins, span a red thread and bound it round the
+sprained or dislocated limb of man or beast (34d). The
+dear mother St. Catharine is asked to come in her best
+attire and see the harm her creature, the ram, has done
+by butting some unfortunate fellow (141). Expert St.
+Stephen (Tapani) or Tahvanus, lord of horses, a god that
+cleans out mangers, is desired to watch carefully over
+horses sent out to grass (115 a, 5). As the father and -
+mother of a boy that has been gored by an ox, St. Saitari
+
+
+340 PRE- AND PROTO-HISTORIC FINNS
+
+
+and the lovely Pullukka are invoked to take care that the
+lad does not die of the injury before his time (116).
+
+Besides these references to saints there are allusions to
+biblical subjects and persons as well as to ecclesiastic
+ceremonies, which it is well to record. Man is made of a
+cake of mould to which the Lord gave breath and life
+(191.) Kalma is asked if he is of the stock of Adam and
+Eve (24). The Creator cursed the snake to crawl on its
+belly along the ground (29 a). Hecursed Satan and made
+him enter hills of steel, rocks of iron (42 a). There is a
+vague mention of the temple of the Lord (102 a), and to
+stand still like the wall of Jerusalem, is used as a simile
+to express the utmost immobility (61). A hunter declares
+that he does not praise a stone or worship a boulder-stone,
+or hunt on holy days or exert himself on Sabbath days
+(89 d). Juhannes, the priest of God, concocted unguents
+for a year in a tiny kettle, and with them he stroked and
+healed the wound of the Lord while being tortured by
+Pilate (109 ¢). The same priest of God plucked herbs by
+the thousand, boiled them all summer and thus made
+useful salves (232 4). An old man in riding to church on
+an elk-like horse as fat as a seal, crosses the brook Kedron
+(34 4). A stone is described as being as high as a church
+(28 5, 99). In expelling an evil spirit, an exorcist says :
+‘now is the precious time of grace, the solemn festival of
+God, the priests are going to the Mass, proceeding to the
+preaching-house’ (8 ¢). Another exorcist asks the evil
+spirit of disease if it has been torn from the base of a cross,
+has been conjured up from women’s graves (5 4).
+
+To an evil spirit an exorciser exclaims: ‘If thou should
+injure a Christian man, destroy a man that is baptized,
+christening perhance will injure thee, thee will a baptism
+
+
+BELIEFS OF THE WEST FINNS 341
+
+
+destroy’ (16 4), And he banishes another spirit to priest-
+less places, to unchristian lands (17 w). He tells an evil
+spirit of disease to cease injuring a Christian man, destroy-
+ing one that is baptized (22, 36 2, 39 a). Ukko is asked
+to let rain fall in Russia, in Karelia, where a woman has a
+child of two months, that has not been baptized for want
+of water (156). The bear was christened by the king of
+Himmerkki (é.¢e. the kingdom of heaven) himself, while
+the Virgin Mary not only carried him to baptism, but also
+stood godmother (193 2). Juhannes, the priest of God,
+the holy knight, was desired by Louhiatar to christen her
+children, but as he absolutely declined to do so, she pro-
+fanely did it herself (210 2). But it was Juhannes, the
+best of priests that christened Fire and gave him the name
+of Panu (226 ¢). Raani, the old wife of Pohjola, asked
+God the Creator to baptize and name her children, but as
+he riever came, she, too, did it herself (210 4). Tuoni’s
+girl also baptized her children as the two priests and the
+sacristans, whom she had asked to perform the ceremony,
+firmly declined the invitation (216 4). After searching in
+ten villages, the mother of Rickets, being unable to find
+any one to baptize him does it herself on a water-girt stone,
+but in filthy water (215). Sharp Frost was christened by
+his mother at a bubbling stream in the centre of a golden
+cliff (219 a). Or, according to another version in a silver
+stream, in a golden spring (210 ¢).
+
+
+KALEVA,
+
+
+There is so little to be learned from the text about
+Kaleva, that we may suppose either that the tradition
+about him was dying out, or that his importance has been
+
+
+342 PRE- AND PROTO-HISTORIC FINNS
+
+
+exaggerated. In the last century, he is described by
+Lencqvist as a giant, the father of twelve sons, all the
+names of whom were not remembered, though Hiuisi, Soint,
+Vainiméinen and Ilmarinen were among the number.
+Their great height, according to popular imagination, 1s
+the notion that underlies a couple of riddles. ‘Two sons
+of Kaleva reside in the bath-house, their heads are washed
+in the yard.’ ‘The sons of Kaleva are in the bath-house,
+their heads are washed in the yard.’ Ans. ‘The rafters of
+the roof,’ the projecting ends of which are well soused by
+falling rain.}
+
+In the middle of the sixteenth century, Agricola regarded
+the sons of Kaleva as benevolent divinities of the Tavast-
+landers, who mowed meadows and suchlike. In this
+they resemble the Selige Fraulein of the Tyrol who mow
+grass and cut corn for upland farmers and are comparable
+with the gigantic Fanggen or Wild Women of the Tyrol,
+who are willing to enter man’s service and to perform work
+for him. An anonymous author who wrote in 1778 tells
+us ‘the good Kaleva covered fields with verdant grass and
+filled the barns of country people with new hay.’ And
+sheet-lightning, which in folk-belief is often considered
+beneficial to growing corn, is termed in the south of
+Finland ‘the sword of Kaleva.’ He seems, therefore, in
+one aspect at least to have favoured the growth of vegeta-
+tion, before helping to cut it down. Several passages in
+the Magic Songs, in which he is coupled, and therefore
+more or less identified with Osmo, favour this view. Hops
+were planted at the side of Kaleva’s well, on the headland
+of Osmo’s field and grew flourishingly. An old man sowed
+Osmo’s barley in Osmo’s new field and splendidly it grew
+
+1 Arvottuksia, No. 334, 1368. 2 Mannhardt,’(r) pp. 107, ga
+
+
+—
+
+
+ee EEE et ee
+
+
+BELIEFS OF THE WEST FINNS 343
+
+
+in Osmo’s new field, in the clearing of Kaleva’s son (209 a).
+The origin of bent-grass is said to be from a pearl that
+fell from the Lord, from Jesus’ hand, on the edge of
+Osmo’s field, on Pellervoinen’s unploughed edge (220).
+Osmotar is described as the brewer of ale, who took barley,
+hops and water, and began making beer. In the course
+of the narrative she is aided by Kalevatar (209 a). On
+the other hand, when Jesus and Mary were driving to
+church, they crossed the heath of Kaleva, the unploughed
+edge of Osmo’s field (34 a). In the parish of Ilamants in
+Finnish Karelia a ‘field of Kaleva’ (Xa/evan pelto) means
+a place where nothing grows.
+
+In the text, the sons of Kaleva are Vainimdinen [o.
+Kullervo] in his capacity of a warrior, and Suoviitta
+(Swamp-cloak). In giving the origin of water, it is said
+that Vesiviitta (Water-cloak) the son of Vaitta, (or)
+Suoviitta, the son of Kaleva, dug water from a rock, let
+water gush from a mountain, with a golden staff (228 a).
+In a variant, that Vesiviitto, son of Vaito, (or) the offspring
+of Sinervatér [v. Suoviitta, son of Kaleva], slept a while
+in a mountain, grew for a long time in a rock while bring-
+ing forth water, though at last it spirted forth to be the
+death of fire (228 4). In a charm to quench fire Vesiviitta,
+the son of a mountain, the lovely offspring of a rock [z.
+Suoviitta, the son of Kaleva], that has slept for a year in
+the mountain, is asked to tether himself to the glowing ash
+and to cast himself down on Fire, so as to render him
+powerless for doing harm (171 m). In the last example
+Kaleva is coupled with God. Iron swears his solemn oath
+in the presence of the well-known God on the shoe of
+Kaleva, not to harm his brother (40 ¢).
+
+
+344 PRE- AND PROTO-HISTORIC FINNS
+
+
+WIZARDS, SORCERERS, ETC.
+
+
+The Finns possess a considerable number of words and
+epithets for wizard, sorcerer, witch, seer, ecstatic and the
+like. Some of these are native words like motfa ‘a sor-
+cerer,’ fsefo-mies or tetaja ‘the knower,’ Joitsija ‘the reciter
+of a magic song (doitss), arpoja ‘a diviner,’ ndkija ‘a seer,”
+myrrys-mies OY into-mies ‘an ecstatic,’ dumoja ‘a stupefier,
+lukija ‘a reciter,’ katse#ija ‘an observer,’ dau/u-mies ‘a song:
+man,’ ampuja ‘an archer,’ Aukkaro-mies ‘a bag-man.’ Othes
+are of foreign origin like mahti-mies or mahtaja< Goth.
+mahts or Sw. magt ‘might,’ tatkuri ‘he that uses fatka’<
+Goth. faikns ‘a token, a wonder,’ ve/hko ‘a witch,’ is pro-
+bably an early Slav loan, while a latter one is poppa-mies
+‘priest-man’ from the Rus. fof. Though between these
+appellations no hard and fast line can be drawn, dividing
+them into good and bad categories, yet on the whole,
+injurious or black magic would generally be the work of
+the otfa, the ampuja, the velko, and the kukkavro-mies.
+Beneficial or white magic, like the great bulk of the Magic
+Songs, was used for ejecting evil spirits of disease, etc., and
+would be practised by a Josfstja, a Hetdjd, a lukija, or a
+laulu-mies ; in some instances by a dumoja, ndkijaé or an
+arpoja. Yet we have an example of an exorcist terming
+himself a zoifa and a Lapp (12 4). As a rule there is
+nothing in a Magic Song to show what sort of wizard the
+reciter of it might be; so as his function is to drive away
+disease, I shall term him the exorcist.
+
+The sorcerer (#o##a), the fortune-teller (arfoja), is said
+to have been born behind the limits of the north, on the
+flat land of the Lapps, on a bed of fir boughs, on a pillow
+of stone (207). The sorcerer has a nose like an eagle’s
+
+
+BELIEFS OF THE WEST FINNS 345
+
+
+beak (2 @) and wears a tall hat (14 ¢, ce), as the Lapps do
+still. Sorcerers, when they exercise their arts, are naked
+and without a stitch of clothes (14 2). They are said to
+drink water from a pool in the croup of Hiisi’s horse, and
+in drinking to make it hiss (9 4, 14 4). The offensive
+weapons of the sorcerer, the wizard (#e/djé) and the
+‘archer,’ are knives of iron, pointed iron and shooting
+instruments (2 a, 5, 14 ¢, 37 4, 6). Sorcerers and wizards
+use arrows, and witches (ve/io) have knives of steel (176 0).
+But these expressions are not usually to be understood
+literally ; they imply sickness, disease, or any injury caused
+by the spells of a sorcerer at the instigation of some
+jealous neighbour; though, sometimes, a sorcerer no
+doubt would drive a knife or a nail into the footprint of
+an enemy to do him harm, and there is a vague allusion
+to roasting and melting an image (46), into which pins or
+nails would first be stuck. The arrows of a sorcerer are
+said to be made of the wood of a tall fir growing on the
+Hill of Pain, and he is quite indifferent where he shoots
+them (208 a). Or they were made from chips of a huge
+oak that were taken to a smithy by a scoundrel, who made
+the arrows to be stitch and pleurisy in men, sudden
+sickness in a horse and elf-shots (F. jagged spikes) in
+kine (211 a). Or from the chips of a fiery oak they were
+made into arrows by Hiisi’s son (211 4). Wizards, sorcerers,
+witches, and diviners, are to be found at every gate, at
+every fence, along every road, in damp dells, near water,
+and in fact everywhere (2 ¢, @).
+
+A cursing spell may be repeated in a whining or a
+mumbling voice and is said to be bitten off with the
+teeth (46), just as one might bite off a length of thread
+from a clew held in the mouth. Words, #.e. spells or
+
+
+346 PRE- AND PROTO-HISTORIC FINNS
+
+
+Magic Songs, are brought from the north, from Lapland
+(28 a).
+
+An exorcist requires a fluent mouth, a ready tongue and
+pliant fingers (1 2). In order to make him into a wizard,
+a wkilful man and a singer, an exorcist was washed naked
+three: times one summer night on the nether stone of a
+handmill by his mother (14 ¢), probably to harden and
+strengthen him, the stone itself being hard and strong.
+Another bomsts that he is the son of a Northerner
+(Pohjolainen), was rocked by a girl of Turja, and was
+cradled by a Lapya (14). The vaunt of another is that
+he is the youngest sin of a sorcerer, the ‘calf’ of an old
+diviner (14 @). He cah repeat a spell learnt from his
+father to obtain a favourable winch (107 a). He depends
+on his father’s strength of mind and ents (12 4, 14 8).
+But he also inherits power from his mofger- An exorcist’s
+mother could bring back stolen milk from Mana, from
+Tuonela, from sorcerers, etc., and what sh& did he can
+do likewise (88 ¢). Another brags that Shar,} Frost has
+no effect on him or on any of his family an kin. In
+fact he kills Frost and takes from it clothing with which
+to protect himself (93 2). If he has need of Magic Songs
+he will go and learn them from the old wife of }Pohjola
+and also how to use an eagle’s claws (28 a): At, @ later
+date an exorcist wishes the Creator, whose wo
+phrases are holy and well-arranged, to speak fv
+(157 2). And God is asked to save a person fr
+effect of village spells and incantations with words ,
+by the Creator and prescribed by the Holy Ghost
+By his song an exorcist boasts he can split the sh
+of a witch or of a sorcerer, by his lay can bisect hi
+bone and feed him on snakes and toads (14.4). By
+
+
+BELIEFS OF THE WEST FINNS 347
+
+
+ing he can bring a pigskin over the eyes of sorcerers and
+a dogskin over their ears (14 ¢). By means of his song
+he turns the best singers into the worst and puts strong
+gloves and shoes on their hands and feet (14 ¢), meaning
+that they are now bound and helpless. He sings sorcerers,
+wizards, witches and ‘archers’ with their knives, arrows, etc.’
+into the mighty Rutja or Turja Rapids (14 ¢). By the
+power of his song a wolf is bitted or a bear is chained
+(16 4). He boasts that he can milk adders, handle snakes,
+can arm one thousand men in one night, can bit wolves
+and shackle bears (14 /). As a comrade he has one of
+Hiisis’s people, who is of great strength and will give him
+hardness of body (14 4). Elsewhere he brags that he has a
+sandy skin, a hide of iron slag, a body made of steel, or one
+taken from the branches ofa fir (14 ¢). In fact, from his
+possessing a sandy skin, an iron-coloured hide, it is useless
+for a wasp to try to sting him (19 a). One exorcist
+describes how skilful he is at surgical operations (31);
+another vaunts that he is a man without his like and a
+famous son (176 2).
+
+But the exorcist is not always in a boasting mood, and
+does not rely solely upon bounce. Sometimes he is far
+from being over-confident (1 2, 38 a). In his diffidence
+he refers to himself as an unfortunate lad, as a poor boy,
+(28 a). He lays great stress on the difficulty of the task
+of ejecting evil spirits of disease (1 @, 4, d, 3 a, 15 @, 65,
+75). He asks how he is to proceed (1 a, 13, 1§ a, 37 ¢
+etc.), how he is to protect himself (2 a). He pleads com-
+plete ignorance of the cause of an illness or accident
+(5 a, 5, ¢, 23). And if he is not afraid it is because he
+has put on a shirt of defence (2 ¢) or something of the
+sort (12 4, 14 4). In the latest period he can do nothing
+
+
+348 PRE- AND PROTO-HISTORIC FINNS
+
+
+without the grace and aid of God the true Creator. Or
+he speaks with the Lord’s good breath and washes the sick
+man with the blood and tears of Jesus (ror). He acts
+with the Creator’s leave and by the mercy of the Lord
+
+
+(1 a, 42 4).
+
+
+DISEASE.
+
+
+The disease an exorcist has to drive away is either sent
+by God the Creator—an idea evidently of late date—or is
+caused by the spells of a sorcerer for reward (§ 2), which
+is undoubtedly the older belief. When an illness is
+effected by the spells of an enemy it is said to be the
+result of human art (17 g, 4, 7, &) and is thus distinguished
+from a natural malady. Disease in general is pictured as
+a huge and hideous devil (1 a) or as a bogie, riend (1 €).
+It is termed a Hiisi, a devil (5 4,8 4, 13, 15a), a filthy
+Lempo (5 ¢), an uninvited shape, msdfo (8 c), a hound of
+Hiisi, a monster of the earth (8 2). An exorcist is quite
+astonished that a mouthless, eyeless, toothless, tongueless
+creature like Rickets can see to suck or to eat (41).
+
+Sometimes an illness may have been ordered to attack
+a man by its father, mother, brothers or sisters (11). On
+the other hand it is invited to approach and recognise the
+evil it has done, on pain of a report being made to its
+mother, who would be greatly vexed thereby (6 a). For,
+after seeing the harm it has wrought, it is capable of
+feeling ashamed (6 4, 8 d@), and of repairing and making
+amends for it (6 4, 36a). An exorcist may even treat it
+as he would a boy and threaten to flog it with rowan
+shoots and tips of fir (16 a). The person who sends an
+illness or disease by means of spells is called its master or
+
+
+BELIEFS OF THE WEST FINNS 349
+
+
+mistress, and so the malady may be told to go home and
+break the head of its master or mistress (17 g). Or to
+injure in some terrible way the individual that sent it, such
+as by ‘giving her veins a sudden squeeze, making her
+blood-pipes pipe a tune’ (17 4). A sickness may also
+come from a grave or from the spirits of the departed
+(17 4, ¢). From this may be inferred that the Finns
+sacrificed to the manes of their ancestors, who were
+occasionally dissatisfied and then avenged themselves
+by sending disease etc., on their descendants. Ailments
+are also brought by wind and water (17 9). Once upona
+time three attacks of sickness came along a swamp, along
+firm ground and by water. The first had a neck like a
+pole, the second a neck like an arch, the third was the
+worst attack, but is not further described (14 4). Or three
+attacks of sickness came along a swamp, along a winter-
+road and along springs of water, but on this occasion the
+worst had come along the swamp (20 8).
+
+Though pain, disease and sickness of any kind were
+generally thought of as evil spirits with human propensities,
+yet they can be wound up into a ball and thrown into
+the sea (10 a). An exorcist puts them into his wallet and
+takes them to three Luonnotars who collect them in a
+copper box (10 4). And Kivutar, the maid of pains and
+sicknesses, boils these in a little kettle on the top of the
+Hill of Pain (10 ¢, d).
+
+
+Inducements to depart.
+
+
+When an exorcist did not feel quite strong enough to
+drive away a disease by force he sometimes parleyed with
+it, tried the arts of persuasion and offered a substantial
+inducement to it to retire to some other place. If it will
+
+
+350 PRE- AND PROTO-HISTORIC FINNS
+
+
+only go he will provide it with a splendid horse (9 a, 4)
+and he urges that the road is good and there is moonlight
+to travel by (8 4). But as it was regarded as a ravenous,
+flesh-eating monster an appeal is generally made to its
+grosser appetites. It is invited to go to a cemetery where
+there is plenty bread of sifted flour, plenty elbows and
+much fat flesh (17 ¢); to Pohjola, where there is a sea
+beach to scamper along, both cooked and raw flesh,
+the boneless meat of an elk, a fat ox or of a reindeer
+already slaughtered and only waiting to be eaten (17 ms) ;
+to the North, as blazes have been cut on the trees making
+it easy to find the way, and once there it will find a good
+bed, plenty to eat and drink, boneless flesh, blood to drink,
+elk, reindeer, and bear’s meat and to crown all a pig stye
+to sleep in (17 #); to battlefields, where it is easy to visit
+relatives, to eat raw flesh and drink warm blood in
+abundance (17 0); in front of a cannon, where there is
+blood to drink and flesh to eat, that never grows less
+(17 £); to the sea, to be gently swayed by it, where there
+is plenty fish and roast meat for a hungry fellow to eat
+(17 y). To Metsola, to the stone heap of a bear, to eat
+a bear or a horse (27 4). To Lapland, where it is nice
+and cold and where it can eat reindeer meat without
+trouble (36 4). To go home, where a bitch has littered
+two pups, the heart’s core of which Colic is welcome to
+devour (58). To Hell, where a horse has died, the foot
+of which Small-Pox can bite (27 4). To Metsola where
+there is a butter bed, a milky sleeping-place, a bacony
+resting-place and a soft pillow (17 2).
+
+Occasionally an appeal is made to the finer feelings. A
+disease ought to go home because his family is alarmed
+and vexed at his absence and his son is lying sick (17 3):
+
+
+BELIEFS OF THE WEST FINNS 351
+
+
+Or a Pain ought to go into the sea where all his relatives,
+his brothers and sisters, his nephews and nieces reside
+(45 a). If there is any vanity in him, he may go to the
+stars ‘to flame like a fire, to sparkle like a spark’ (17 ¢).
+The principle of offering an inducement to pursue a
+certain line of action is extended by exorcists or other
+reciters of Magic Songs to birds and animals as well as to
+spirits of disease. A raven, instead of injuring snares, is
+advised to fly to Pohjola, to Lapland, where there is elk
+meat and boneless flesh for a hungry fellow to devour (94).
+Instead of attacking cows, a bear is advised to mature his
+claws and strengthen the muscle of his forearm by shaking
+a rotten tree, by throwing down trees and twisting bushes
+(69 ¢). Or he should retire into the forest where there is
+always a bed ready for a bear (69 @). An ermine is re-
+commended to enter a trap because the bait is made with
+cunning skill, tastes salty and is honey to the mind (73).
+A game bird should not fly away at the sight of a hunter’s
+snares or it will certainly be killed by a hawk (83 a). A
+cabbage grub is advised to go into the sea where there is
+plenty sea-sand and water to eat and drink (66 5). A bug
+ought to withdraw into the crevices of a wall where there
+is plenty of fat, instead of biting the tarry back of a man
+(85). An attempt is even made to persuade Ukko, the
+god of the sky, to send rain to some other place on the
+ground that a mother is there with a child of two months
+old that has seen no water and is still unbaptized (156).
+
+
+Places whither Diseases are conjured.
+
+
+The exorcist conjured the spirits of disease to all sorts
+of localities, and at times gave the reins to his fancy in im-
+
+
+352 PRE- AND PROTO-HISTORIC FINNS
+
+
+agining out-of-the-way places. And once there they cannot
+escape unless the exorcist comes himself to set them free
+(18 a, 6),a most unlikely event. He banishes them to ther
+own country (9 a, 17 g, #); to Metsola (17 /); todeep gloomy
+forests whence no man returns (50); to the north (17 #,
+36 a); to a snowy mountain peak (17 5); to the Hill of
+Pain (9 4); to the top of a copper hill, into the rift in an
+iron mountain (17 7); below the earth, under a copper
+mountain (15 4); to Manala’s eternal huts (43) ; to Sariola,
+to unploughed land, to a nameless meadow (17 a); to
+damp dells and swamps (17 a, #); to the sky (17 ¢, 36 4);
+into a variegated stone (17 #); into stones that feel no
+pain, to swamps, deserted clearings, into moving gravel and
+sand (17 #); to priestless places, to unchristened lands
+(17 w); into the hole of an ermine (17 a); into a nine-
+fathom deep hole in a stone lying in a spring in a field
+(10 ¢); to the middle of the open sea (10 a4); into the
+violent rapids of Ihari, Kalari, Vuoksi, Turja or Rutja
+(17 4, ¢, f, 43) ; down the mouth of Antero Vipunen (17 a);
+into the sleigh of a brindled cat, the cart of a black cock
+to be carried to gaol, or into the sleigh of a fox to be
+carried into the water (17 @); into the skin of a kindly
+seal to be carried out to sea (17 #); into the eye of a blue
+gwyniad, to the tail of a red salmon or into the mouth of
+an iron burbot (17 x); into the mouth of an iron stallion,
+of a wolf or a crow, under the tongue of a reindeer or
+under the tail of a black dog (17 a); to fiery rapids, to a
+holy stream, where there is a reef on which stands a bull
+with a burning mouth that will carry the disease to Tuonela
+(17 @); or into an apple or an oak tree (129 4), as is
+common enough in European folklore.
+
+
+a
+
+
+, ane
+rn eS ee
+
+
+BELIEFS. OF THE WEST FINNS 353
+
+
+Instruments.
+
+The belief in the power of magic song was great, but it
+did not preclude the use of instruments, either real or
+imaginary. If the voice of an exorcist is not strong enough,
+he takes a horn or a pipe and blows on it towards the sky
+in order to be better heard (1 @). He thrusts his herding-
+horn towards the sky and brings down milk from there
+(88 ¢). In order to claw Disease, the hideous thing, he
+uses the claws of a bear or of an eagle (14 4, 16 a, 20 4, 28 a),
+or the hands of a dead man (15 4, 16 a). To extract the
+‘arrows of a sorcerer’ or ‘Tuoni’s grub,’ he employs little
+tongs or pincers made expressly by a smith (15 4, 21 ¢, 37 a).
+He asks Ukko to drop into his hand pincers, the points
+and shafts of which are made of snakes, that he may draw
+out the ‘arrows’ and ‘bloody needles’ of a sorcerer
+(1494). Smith Ilmarinen is desired to make tiny tongs and
+pincers for him that he may extract Lempo’s arrow or his
+bloody knife from the body of a sufferer (149 4). In order
+to bite Colic, he goes for the teeth of a bear and squeezes
+the ailment with its paws (58). Before tackling Disease
+he puts on his viperous gloves, his snaky mitts, and smears
+his hands with the fat of snakes (16 4). He has a willow
+bough and an alder shaft with which he shoots down
+Tuoni’s grub, or he grinds the animal with his pestle and
+mortar (21 ¢). To press down tumours he uses three
+stones taken from the river of Tuonela, or one as high as
+a church and as thick as a tower (28a). He lops off
+tumours and excrescences with his axe (28 a), or uses a
+knife with a silver blade and a golden haft that fell into
+his hand from the sky (31). He requests Hiisi to bring a
+scythe from Esthonia or from Hell and lend it to him that
+he may cut out the disorder from which a patient is suffer-
+
+I Z
+
+
+354 PRE- AND PROTO-HISTORIC FINNS
+
+
+ing (128 4). Nightmares he places on his steelyard (35) |
+that they may exhaust themselves in weighing it down.
+
+
+Defensive Precautions.
+
+
+Besides employing instruments, an exorcist has often to
+take measures to protect his person, but their description
+also must not be understood too literally. From his point
+of view the mere recitation of a magic formula, in which
+he describes himself as putting on armour, was tantamount
+to really doing so. He drew no hard and fast line between
+fact and figment ; the simulation of performing a certain
+act was potentially equivalent to its performance in reality.
+For at one period it is very possible that he, like the
+Shamans of Siberia, actually donned a particular dress for
+the occasion, and during the operation repeated a charm,
+such as one of those termed ‘ Taking defensive measures.’
+In the first of these the exorcist says he will put on an iron
+shirt, an iron helmet, iron gloves, copper socks, and iron
+boots, so that neither the arrows of a sorcerer nor the
+knives of a witch can injure him (2 a). These instruments,
+as we have often remarked, are figurative expressions, not
+to be taken in their ordinary sense. Again, he wishes the
+fiery shirt of his father and mother may be brought from
+Tuonela and put on him to guard him against the ‘shoot-
+ing instruments’ of an ‘archer’ (2 4). He asks his dead
+mother to rise from the grave and bring from Tuoni’s land
+a fur coat, which he will don, to protect himself against
+sorcerers, witches, etc. (176 4). Old wife Kave, Nature’s
+daughter, is invoked by him to weave a cloth of gold and
+silver and make a shirt of defence, a copper cloak, which
+he can wear as a protection against spells and witches
+(176 ¢). He himself clips wool and fluff from a stone, hair
+
+
+BELIEFS OF THE WEST FINNS 355
+
+
+from a rock, and makes of them a shirt of defence against
+sorcerers and witches (2c). Or he asks the Maid of Mist
+and Fog to pluck wool from a rock and make a shirt of
+mist, a copper cloak, which he can wear day and night as
+a defence against sorcerers and Lapps (176 /). Ukko, the
+old father of the sky, is to build an iron fence, a steel
+screen, reaching from the sky to the earth, to shelter an
+exorcist and his people. It is to be interlaced with lizards
+and snakes, which will keep an eye on sorcerers and eat up
+spells, etc. (176 m, 2). Ukko is further requested to let
+fall from the sky a pipe, a copper horn, a golden shield
+which the exorcist will use to prevent the arrows of a
+sorcerer from sticking into him (176 0). Lastly, he im-
+plores the Virgin Mary to give him her blue silk scarf to
+bind round his hand, that he may be able to quench a fire
+unhurt (172 a).
+
+
+Helpers.
+
+
+When an exorcist, or other reciter of magic songs, felt
+himself powerless and in need of assistance he had no lack
+of helpers. He received or hoped to obtain aid not only
+from the multitude of spiritual beings that seem to animate
+nature, but also from animals, birds, fish, insects, and trees.
+Sufficient examples of aid from the former class have
+already been given. Before enumerating instances that
+come under the latter headings, it is only necessary to add
+that help was to be expected from ancestors, from forests
+with their men, and from lakes with their armed men
+(15 a, 124); from a deceased mother (176 4); from horse-
+men and swordsmen in the sand, that have lain for long in
+the earth (1 4, 15 a).
+
+An exorcist avers that he saddles snakes, and puts a bit
+
+
+356 PRE- AND PROTO-HISTORIC FINNS
+
+
+in the mouth of a bear and a wolf, that they may run along-
+side him and gobble up the spells sent by village people
+(14g). He threatens to raise a ram with twisted horns, or
+an ox with horns, to butt at and push away a disease or
+ailment such as colic (16 a, 58). He wishes an iron-
+hoofed mare, reared in Karelia, to kick a Hiisi away (22).
+The powerful black Vento ox, or a wolf of Manala, a bear
+of Kalma’s, is invoked to extract the arrow of a sorcerer
+(37 ¢). He threatens to set his father’s voracious, hairy-
+nosed, black dog at Disease—a dog with fiery mouth,
+with teeth like rakes, and with an iron heart that ere now
+has devoured a thousand men (16 4). And Hiisi’s elks
+and reindeer, after being combed by Jesus, St. Andrew,
+and St. Peter, are desired to drive away the snakes and
+adders that drink the mistress’s ale (gr).
+
+According to his own account, an exorcist owns three
+eagles, with iron, copper, and silver claws respectively, that
+will eat up the pain caused by burns (52 4). An eagle
+from Turjaland, with five talons like sickles, with a burning
+mouth, and eyes at the tip of its wings, is invoked by him
+to extract Keito’s spears from the body of a suffering man
+(149 e). A famous eagle with a beak like five scythes, a
+throat like three cataracts, with iron claws, and eyes at the
+ends of its wings, is invited to come from Turja, from Lap-
+land, to devour the pain caused by burns (128 #). An eagle
+from Turja is asked to lend three feathers to serve as a
+bulwark to a boat when about to shoot rapids (107 ¢). In
+the north-east, in Turjaland, dwells a famous eagle, under
+its wings are a hundred men, above them another hundred,
+at the tip of its tail are a thousand men, all girt with swords.
+This wonderful bird is invoked by an exorcist to remove the
+harm caused by spells (154 ¢). An iron-crested cock is
+
+
+BELIEFS OF THE WEST FINNS 357
+
+
+desired to claw Dropsy, here spoken of as ‘toads’ and
+‘ Hiisis’ (56). An iron cock and hen are invited to rise
+from the ground to eat up burns and sip ‘fire’s broth,’
+another name for scalds and injuries from fire (171 @). A
+black cock and an iron hen are told to rise from the earth
+to help an exorcist by pecking out the eyes of jealous
+people and tearing the noses of sorcerers (176 #). The
+Creator's golden wattled cock is requested to come to speak
+on behalf of a defendant, to stop the judge’s ears, to bribe
+the jurymen, and bind silk across the eyes of the sheriff
+(124). And a yellow wren is sent on an unsuccessful
+mission to Pohjola to fetch an old woman who could heal
+burns, though the errand was afterwards effected by a bee
+(52g). Another bee is sent to a distant island to fetch
+honey for fermenting beer (142 a). And a spider is re-
+quested to spin a web to staunch a flow of blood (55 ¢).
+A golden burbot is to come from the mouth of a copper
+burbot to restore health and seize the pains from which a
+sick man is suffering, so that he may sleep in peace (102 4).
+In folklore-medicine it is a well-known remedy to catch
+a fish, convey to it symbolically the malady from which a
+patient is suffering, and then return it to the water. As
+this belief is also current in Finland, it seems likely that
+this song to restore health might have been sung during
+the performance of such an act.
+
+
+An unfortunate mistress who has no one to herd her -
+
+
+cows asks a willow, an alder, a rowan, and a bird-cherry
+tree, to do the work for her, and menaces them with dire
+punishment should they refuse (7o 4). If a man cannot
+obtain the assistance he otherwise expected, he goes to a
+rock, to a boulder on a hill, for there is help in a hill, there
+are supplies in Hiisi’s castle (65).
+
+
+358 PRE- AND PROTO-HISTORIC FINNS
+
+
+Precedents.
+
+
+As will be seen below, when we come to examine the
+structure of the Magic Songs, there are a multitude of
+instances in which the exorcist or other reciter of charms
+tells a short story, the incidents of which have reference
+to what he wishes to do or to get. By implication this is
+used as a precedent why a similar event should happen
+again. Butin seven instances a previous event is explicitly
+cited as a precedent and reason why something analogous
+should again occur. In a couple of charms against in-
+juries from spells, after narrating how formerly the Creator
+freed moons and suns, released men with swords, horses
+with saddles, and priests with their parishioners, from mighty
+battle-fields, the exorcist adds: ‘ May He effect deliverance
+on this occasion, remove the harm wrought by magic, and
+dispel the spell-sent injury’ (42 a). After describing how
+Kuume formerly had enclosed the moon in an iron barn,
+and the sun in a mountain of steel, and how Kapo had
+released them, the exorcist continues, ‘So I too now
+release this man from the spell-brought harm of villagers,
+enchantments of the long-haired ones, charms spoken by
+the women-kind. Just as the son of the sun escaped when
+freed by Pdivadtar, so may this person too escape when
+freed by me’ (42 4). An exorcist relates that formerly the
+solid gates of a castle moved, its iron hinges shook, the
+copper hills quaked, the earth was shaken out of joint
+and the sky riven into holes at the coming of the dour of
+God, when help from the Lord approached. So he asks
+the Disease—here spoken of as an uninvited shape, an evil
+one—why it does not move and withdraw before an dour
+has elapsed (8 c¢). After recounting how father Lempo
+
+
+BELIEFS OF THE WEST FINNS 359
+
+
+had received a cut, and mother Lempo and all the
+Lempos had cut themselves with their own knives, and
+stating that their veins were afterwards knotted up, the
+wizard summoned to stop the hemorrhage exclaims, ‘So
+why not this vein too? why is the blood not stopped, the
+deadly cataract not plugged?’ (55 4.) A charm for
+making a vapour-bath to heal some malady begins with the
+statement that the gods above and the earth-matrons down
+below have baths that are heated up, new rooms that give
+forth whirls of smoke, and this is used as a reason for steam
+being given off on the present occasion, of such quality
+that it will serve as an ointment for injuries and an em-
+brocation for wounds (87 a). A hunter after reciting his
+misfortunes asks, ‘Why was the great Creator wroth, the
+giver of game enraged, that he never gives at all? He fed
+the tribe, gave the race to drink, he nourished the first
+ancestor, so why does he not feed me too with the great
+morsels of the tribe, or with the titbits of the race?’
+(89 ¢.) At the close of a brief charm to make bread
+rise, a despairing housewife cries to the yeast, ‘The sun
+and moon have visenx both, yet thou hast not begun to
+rise’ (74).
+
+
+Blessing and Cursing.
+
+
+The exorcist did not often have recourse to blessing,
+though on one occasion he says: ‘Whoever without envy
+looks, may Jesus bless him so that he shall honeyed eyes
+possess, shall wend his way with a honeyed mind’ (3 2).
+He was stronger in curses. In a charm to guard against
+envy he says: ‘Whoever looks with jealousy, may his
+eyes shed blood, let them run with rheum; into his eyes
+
+
+360 PRE- AND PROTO-HISTORIC FINNS
+
+
+may the lashes grow, as thick as a hatchet-haft, a bow-
+string long; may these pour blood along and across his
+cheeks’ (3 a). ‘Whoever looks with an envious glance,
+may the slag of Hiisi fill his eyes, the soot of Hiisi soil
+his face, may a fiery bung plug up his mouth, may
+Lempo’s lock clinch fast his jaws, may his mouth get
+overgrown with moss, the root of his tongue be broken
+off, may his head dry into stone and skin grow on the top’
+(3 5). ‘If envious persons look, if cock-eyed people pry,
+may a branch tear out their eyes; may a withered fir-tree
+grow, an iron-branched tree, before the envious person's
+house, throw out thick shoots, on which he shall fix his eyes,
+that unless set free he won’t get free during the space
+of earthly time’ (3 ¢). Or the exorcist wishes that the
+bloody cloak of Huisi, that takes five men to lift, may
+be bound round the heads of jealous, envious, prying
+people, so that they may neither see nor hear (3 ¢).
+An exorcist hopes that for any one that repeats his
+private spells, ‘the root of his tongue may be twisted
+round and his hair rubbed off’ (4 a). ‘Whoever hath
+bewitchment used, on him may death bewitchment use;
+may his tongue rot off, his mouth get overgrown with
+moss’ (4 4). After consigning all sorts of necromancers
+and warlocks to. the mighty Rutja Rapids, the exorcist
+wishes they may there fall asleep till the grass grows
+through their heads, shoulders, and tall hats (14 ¢). Or
+after banishing a spirit of disease to the violent Vuoksi
+Rapids he says: ‘If thou raise thy head from there, or
+exalt thy snout, may Ukko pain thy head with sharply
+pointed needles or with iron hail’ (17 f). ‘May all the
+sorcerers in dells, through their own arrows, come to
+nought ; those that use witchcraft—through their knives;
+
+
+—
+
+
+BELIEFS OF THE WEST FINNS 361
+
+
+diviners—through their tools of steel; all other strong
+men through their strength’ (2 d@). ‘May all the
+spells that sorcerers cast, all things that the seers see,
+return to their proper homes; may they cast their spells
+upon themselves, over their children sing their charms ;
+may they destroy their families, may they dishonour kith
+and kin’ (14 2). An exorcist addresses a poor frog in
+language like this: ‘If thou raise thy head from there,
+may thy shins be smashed, thy thighs be rent, may thy
+marrow be withdrawn, from which an ointment will be
+cooked and unguents be prepared’ (97). In @ charm
+against bears: ‘May the forest bear be choked with a
+honey ball in its mouth, so that its jaws won’t open up,
+that its teeth won’t come apart, that its tongue sha’n’t
+freely wag’ (122 a).
+
+Sometimes flattering words were used. The spirit of
+the grave is thus addressed: ‘Kindly Kalma, lovely
+Kalma, Kalma of the fair complexion’ (24). Gout or
+heartburn: ‘Good Gout, thou lovely Gout, Mary’s sweet
+Gout, depart!’ (30.) The spirit of pain and sickness:
+‘Good mistress, Kivutar, distinguished woman, Vammotar’
+(128 ¢), or ‘Lovely old wife of pains, good mistress
+Kivutar’ (128 ¢). A hornet: ‘O hornet, thou complaisant
+man, don’t shoot thine arrows forth’ (19 4). A snake:
+‘My sweetheart, my wee bird, my beauty, my wee duck!’
+(75.) An ermine: ‘Furred beauty of the winter-time,
+dear little hen of fields run wild, flower dwelling at the
+root of firs’ (73). In raising steam to make a vapour-
+bath: ‘O welcome, welcome, my dear Steam, my darling
+Steam, my darling Warmth, thou steam of wood, dear
+water’s warmth, old Vainimdinen’s sweat!’ (87 ¢.)
+
+
+I 2A
+
+
+362 PRE- AND PROTO-HISTORIC FINNS
+
+
+Offerings, Worship.
+
+
+In former times, as the Finns did not expect to get
+benefits gratis, they made offerings of various kinds to their
+divinities to propitiate them, and sometimes to harmful
+spirits to induce them to desist. In later times the offerings
+were very small, and when a hunter speaks of the gold
+and silver that he is offering to the forest deity, it probably
+means that he has scraped a little silver off a silver coin,
+or at most has laid a small silver coin or two at the foot
+of a tree. A trapper tells Kunnotar and the golden
+woman Ka4rehetir, the divinity of foxes, to cease melting
+gold and silver, as he is putting bits of gold and silver into
+her bowl. The gold is as old as the moon, the silver as
+old as the sun, and was brought by his father from the
+wars when the speaker was a child (173 a). The mistress
+of Metsola and the Forest’s golden king are asked by a
+hunter to enter upon an exchange of gold and silver.
+The ‘gold’ of Metsola is more coloured and darker, that
+of the hunter is more glistening (173 4). A hunter asks
+the master and mistress of Tapio’s farm to make an
+exchange of gold and silver. His gold is as old as the
+moon, his silver as old as the sun, and is Swedish silver
+brought from Tornio after a battle (173 ¢). Another hunter
+requests the mistress of the Forest and its golden king
+to take his gold and silver, and to give theirs, as it will
+be for the benefit of Tapio’s farm, and will give delight to
+Metsola (173 2). A disconsolate hunter laments that the
+Forest does not care for his silver or ask for his gold (89 ¢).
+
+Sometimes the offerings were of food. <A _ trapper
+implores Kuippana, the king of the forest, to take a fancy
+to and approve of his salt and groats, and to give instead
+
+
+BELIEFS OF THE WEST FINNS 363
+
+
+his ‘sweet rye cakes’ and ‘groats,’ Ze. game (153 a).
+Kuutar (Moon’s daughter) and Padivatar (Sun’s daughter)
+are requested by a hunter to bake a suet cake, a honeyed
+bannock, with which he may propitiate the Forest when he
+goes hunting (139 4). A trapper invites Tapio to take a
+fancy to his groats and salt (153 4). If Para brings good
+luck he is to get a calf as a reward (153 @). A man asks
+Water and Water’s mistress to make him well, as he prays
+with chosen words, and gives blood and salt as offerings
+to appease and reconcile them (157 ¢). Chaff in the eye is
+invited to take a fancy to the sea in exchange for pleasant
+fat (45 5).
+
+The references to worship are very rare, but they are
+worth noting. A hunter declares that he does not worship
+boulder stones, or praise a stone, or hunt on holy days
+and Sabbaths. Other men’s offerings of gold, silver, and
+tin are not more glittering than his, and if they say a
+prayer he brings more solid offerings, and says the best
+of prayers to the donors that are best (89 @). Another
+hunter does not bow down to firs, but bows to the
+‘flowers’ of a fir, #.e. to squirrels (72 5). A third hunter
+prays for ‘hoofs and feet,’ and will not give thanks for
+a stone or prostrate himself for stumps, or serve for
+willows (139 7).
+
+A stone where festivities of some sort, no doubt partly
+of a religious nature, were held, is referred to in the ex-
+pression ‘ Jesus’ stone of joy, the Creator’s rock of sports’
+
+
+(203 4).
+
+
+END OF VOL. I.
+
+
+Printed by T. and A. Constaste, Printers to Her Majesty
+at the Edinbergh University Press
+
+
+THE GRIMM LIBRARY
+
+
+A Series of Folk-Lore Monographs under the general editorship
+of Mr. ALFRED Nutr. In crown 8vo volumes, elegantly
+printed at the Constable Press, on laid paper, half-bound in
+art linen, edges uncut. Limited issue.
+
+
+GEORGIAN FOLK-TALES. Translated by MARJORY WARDROP.
+Pp. xii+175. 5s. net.
+
+
+THE LEGEND OF PERSEUS. By EDWIN SIDNEY HARTLAND,
+F.S.A.
+Vow. I. THE SUPERNATURAL BIRTH. Pp. xxxiv+228.
+7s. 6d. net.
+VoL. II. THE LIFE-TOKEN. Pp. vill+445. 12s. 6d. net.
+VoL. III. ANDROMEDA. MEDUSA. Pp. xxxvii+225. 7s. 6d.
+net.
+
+
+THE VOYAGE OF BRAN, SON OF FEBAL. Edited by
+KUNO MEYER. With Essays upon the Happy Otherworld
+in Irish Myth, and upon the Celtic Doctrine of Rebirth, by
+ALFRED NUTT.
+
+VoL, I. THE HAPPy OTHERWORLD. Pp. xvii+ 331. 108. 6d.
+net.
+
+VoL. II. THE CELTIC DOCTRINE OF REBIRTH. Pp. xii+ 352.
+Ios. 6d. net.
+
+
+THE LEGEND OF SIR GAWAIN. Studies upon its Original
+Scope and Significance, by JESSIE L. WESTON. Pp. xiv+117.
+4s. net. |
+
+
+(TURN OVER
+
+
+- —0—0UltCt
+
+
+The volumes hitherto issued in the Grimm Library have been
+cordially welcomed alike by folk-lore students and by the most
+representative organs of the general press.
+
+
+The following expressions of opinion may be cited :—
+
+
+Concerning Mr. HARTLAND’S ‘LEGEND OF PERSEUS.
+
+
+The Antiquary.—‘ Folk-lore, treated as it is in the scientific method employed
+in the present work, is raised at once to a high level of importance, and is full
+of possibilities in the near future.’
+
+
+The Athenwum—‘A notable study in the early psychological history of
+man."
+
+
+The Academy.—‘ There will be agreement as to the skill with which be has
+disentangled a mass of valuable material.’
+
+
+The Manchester Guardian.—‘A book that no one interested in the early
+history of religion in folk-lore or in anthropology can safely neglect. Probably
+the best book touching the study of folk-lore—that is, on the growth and develop-
+ment of primitive human ideas—published since the '‘ Golden Bough.”’
+
+
+The Westminster Gasette.—‘Mr. Frazer’s ‘‘Golden Bough” began a new
+epoch in the modern treatment of mythology. . . . Mr. Hartland is one of our
+most learned and competent workers in this novel field, and he ably follows
+Mr. Frazer's footsteps.’
+
+
+The Nation (New York).—‘A most scholarly and fascinating work. Those
+who have not followed the progress of similar investigations will be startled by
+its suggestiveness..’
+
+
+The Speaker.—' Mr. Hartland writes with a scholar’s modesty and a scholar’s
+ease.’
+
+The Literary World.—‘ We can find nothing but praise for this able and
+systematic inquiry into a subject fraught with interest to student and reader
+alike.’
+
+Notes and Queries, in mentioning the issue of Vol. III.—‘ The ambitious and
+scholarly task of Mr. Hartland is now accomplished, and the world is the richer
+by an all-important contribution to comparative folk-lore.’
+
+
+The Daily Chronicle.—‘A work which as an authoritative exposition of the
+
+
+anthropological exposition of folk-lore has taken its place by the side of Mr.
+Frazer's ‘‘Golden Bough.”’
+
+
+Concerning ‘THE VOYAGE OF BRAN.’
+
+
+Monsieur H. D’Arbois de Jubainville in the ‘Revue Celtique.’—‘Cuvre
+@‘une grande valeur scientifique et d’une lecture agréable.’
+
+
+Monsieur H. Gaidoz in ‘ Mélusine.’—‘ Edition, tradition et commentaire philo-
+logique sont d'une critique irréprochable. ... M. Nutt est bien informé: ses
+matériaux sont pris aux meilleures sources: son exposition est nette et précise :
+
+
+son livre est une ceuvre d’histoire générale 4 la fois des croyances et des
+littératures.’
+
+
+Monsieur Gaston Paris in ‘Romania.’—‘Trés savante étude . . . qui sera
+
+
+lue avec grand profit par tous ceux qui s’occupent de littérature comparée ou
+histoire religieuse.’
+
+
+Professor Ernst Martin in the ‘Zeitechrift fir deutsches Alterthum.’—
+‘ Ueberall verwertet Nutt die besten und neuesten Hilfsmittel, aber er vermehrt
+auch selbststiindig das Material und zieht eine Reihe von Schltissen welche er
+methodisch begriindet und zugleich klar und fesselnd vortriigt.’
+
+
+Professor F. York Powell in ‘Folk-Lore.’—‘ The most valuable contribution
+
+
+to the history of religion and religious ideas that, so far as my knowledge goes,
+last year gave us.’
+
+
+Monsieur L. Marillier in the ‘Revue de l’Histoire des Religions.’—' M. Nutt
+aura rendu un éminent service en portant a la connaissance des mythologues des
+documents dont beaucoup malheureusement ne sont mis 4 profit que dans le
+cercle étroit des celtisants; il en aura rendu un plus grand encore en faisant avec
+tant de sureté critique et de solide érudition l'analyse et l'histoire des conceptions
+complexes qui y sont contenues.’
+
+
+Notes and Queries.—‘ This notable contribution to the history of Celtic myth
+and religion.’ ;
+
+
+Manchester Guardian.—' The book is important, because it is a carefully
+reasoned constructive effort to get a working-theory of Aryan religious history.’
+
+
+Inverness Northern Chronicle.—‘A reconstruction of pre-Christian Irish
+theology. . . . Professor Meyer's translations are admirable. .. . It is impossible
+to give in this notice an idea of Mr. Nutt’s painstaking gathering of materials, or
+of the scientific use he makes of them in the work of restoration.’
+
+
+Modern Language Notes (Baltimore).—‘The field has been thoroughly
+examined for material, the material has been well and clearly worked over. The
+statements of fact are always fair; the reasoning is usually clear, forcible, and
+just, and the conclusions sane.’
+
+
+Literature.—‘ Must for some time to come form the starting-point for future
+inquiry into the varying views of man about the life after death.
+
+
+The Nation (New York).—'‘Of Professor Meyer's part as editor and commen-
+tator, we can speak only in terms of the highest praise. . . . The same praise
+should be extended to Mr. Nutt’s disquisitions . . . which prove him to be a
+master of his complicated theme."
+
+
+Concerning ‘THE LEGEND OF SIR GAWAIN.’
+
+
+Manchester Guardian.—‘A careful, readable, and suggestive study which
+adds substantially to the results obtained by Madden’s well-known book.’
+
+
+Academy.—‘ Invaluable in clearing the path for a final survey of the tangled
+wood of Arthurian legend.’
+
+
+LONDON: DAVID NUTT, 270 STRAND
+
+
+T"NARNY
+
+
+are
+ga
+
+
+: 47 RADCLIFFE COLLEGE,
+: CAMBRIDGE, MASS.
+
+
+&
+
+
+This book may be kept out a calendar month, subject to a
+fine of FIVE CENTS A DAY thereafter.
+
+
+peocz[aa. 8

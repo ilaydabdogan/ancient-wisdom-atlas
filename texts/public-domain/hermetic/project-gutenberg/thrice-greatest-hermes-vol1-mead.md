@@ -1,0 +1,26110 @@
+---
+id: hermetic.mead.thrice_greatest_hermes.archive_v1
+title: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+alternate_titles:
+- Thrice-Greatest Hermes
+- Studies in Hellenistic Theosophy and Gnosis
+text_status: complete
+tradition: hermetic
+culture: greco_egyptian_hermetism
+region: roman_egypt
+source_language: Koine Greek
+text_language: English
+date_range: Greco-Egyptian Hermetic corpus; 1906 public-domain study and translation
+source_type: text
+provenance:
+  source_id: source.internet_archive.thricegreatesth01meadgoog
+  edition: G. R. S. Mead, Thrice-Greatest Hermes, Vol. I (Theosophical Publishing
+    Society, London, 1906); Internet Archive scan with OCR plain text
+  translator: G. R. S. Mead
+  editor: ''
+  publication_year: 1906
+  publisher: Theosophical Publishing Society
+  source_url: https://archive.org/details/thricegreatesth01meadgoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://archive.org/about/terms.php
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1906, US public domain. Volume I (Prolegomena) of Mead's three-volume
+    set; complements Vol. II already in the queue. Clean readable OCR.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- hermes_trismegistus
+- hermetica
+- gnosis
+- theosophy
+- egyptian_greek_religion
+- rebirth
+motifs:
+- divine_gnosis
+- regeneration
+- ascent_of_the_soul
+- mystical_rebirth
+- hidden_wisdom
+figures:
+- Hermes Trismegistus
+- Tat
+- Poimandres
+---
+
+# Thrice-Greatest Hermes, Vol. I: Prolegomena
+
+Thrice-Greatest Hermes
+
+Studies in Hellenistic Theosophy
+and Gnosis
+
+Being a Translation of the Extant Sermons and
+
+Fragments of the Trismegistic Literature, with
+
+Prolegomena, Commentaries, and Notes
+
+
+By
+
+G, R. S. Mead
+
+
+Volume I. — Prolegomena
+
+
+London and Benares
+
+The Theosophical Publishing Society
+
+1906
+
+Hosted by VjOOQIC
+
+
+Hosted by
+
+
+Google
+
+
+Preface
+
+These volumes, complete in themselves as a series of
+studies in a definite body of tradition, are intended to
+serve ultimately as a small contribution to the prepara-
+tion of the way leading towards a solution of the vast
+problems involved in the scientific study of the Origins
+of the Christian Faith. They might thus perhaps be
+described as the preparation of materials to serve for
+the historic, mythic, and mystic consideration of the
+Origins of Christianity, — where the term " mythic " is
+used in its true sense of inner, typical, sacred and
+'' logic," as opposed to the external processioning of
+physical events known as "historic," and where the
+U3rm "mystic" is used as that which pertains to
+initiation and the mysteries.
+
+The serious consideration of the matter contained in
+these pages will, I hope, enable the attentive reader to
+outline in his mind, however vaguely, some small
+portion of the environment of infant Christianity, and
+illow him to move a few steps round the cradle of
+Jhristendom.
+
+Tliough the material that we have collected, has, as
+-0 its externals, been tested, as far as our hands are
+uipable of the work, by the methods of scholarship and
+uiticism, it has nevertheless at the same time been
+Jlovved ungrudgingly to show itself the outward
+
+
+Hosted by
+
+
+Google
+
+
+VI PREFACE
+
+expression of a truly vital endeavour of immense
+interest and value to all who are disposed to make
+friends with it. For along this ray of the Trismegistic
+tradition we may allow ourselves to be drawn back-
+wards in time towards the holy of hoHes of the
+Wisdom of Ancient Egypt. The sympathetic study
+of this material may well prove an initiatory process
+towards an understanding of that Archaic Gnosis.
+
+And, therefore, though these volumes are intended to
+show those competent to judge that all has been set
+forth in decency according to approved methods of
+modern research, they are also designed for those who
+are not qualified to give an opinion on such matters,
+but who are able to feel and think with the writers of
+these beautiful tractates.
+
+The following abbreviations have been used for
+economy of space:
+
+G, J9r. = Corpus Hermeticiun.
+
+D. J, L. = Mead (G. R S.), Did Jesus Live 100 b.c. 2 An Enquiry
+into the Talmud Jesus Stories, the Toldoth Jescliu, and
+Some Curious Statements of Epiphanius : being a Contri-
+bution to the Study of Christian Origins (London, 1903).
+
+F. F, F. = Mead (G. R. S.), Fragments of a Faith Forgotten, Some
+Short Sketches among the Gnostics, mainly of the First
+Two Centuries : a Contribution to the Study of Christian
+Origins based on the most recently recovered Materials
+(London, 1900 ; 2nd ed. 1906).
+
+6if. = Gaisford (T.), Joannis Stobcei Flm^ilegium (Oxford, 1822), 4
+vols. ; lo. Stoh. Ec. Phys. et Ethic. Libri Duo (Oxford.
+1850), 2 vols.
+
+ir. = Hense (0.), J. Stoh. Anth. Lib. Tert. (Berlin, 1894), 1 vol.,
+incomplete.
+
+K. Z. = " The Virgin of the World " (Kdpi? Ktio-^ou).
+
+ikf. = Meineke(A.), Joh. Stoh. Flm\ (Leipzig, 1855, 1856), 3 vols.
+Joh. Stoh. Ec. Phys. et Ethic. Lib. Duo (Leipzig, 1860), 2 vols
+
+P. = Parthey (G.), Hermetis Trismegisti Pcemander ad Fidem Godi-
+cum Manu Scriptorum recognovit (Berlin, 1854).
+
+Pai. = Patrizzi (F.), Nova de Universis Philosophia (Venice, 1593).
+
+P. S. ^. = "The Perfect Sermon, or Asclepius."
+
+
+Hosted by
+
+
+Google
+
+
+PREFACE Vll
+
+/*'. = Reitzenstein (R.), Poimandres : Studien zur griechisch-agyptis-
+
+chen und frnchristlichen Liter atur (Leipzig, 1904).
+/tt. — Ricliter (M. C. E.), Philonis Judcei Opera Omnia, in Biblio-
+
+theca Sacra Patnim Ecclesim Grcecorum (Leipzig, 1 828-1 830)>
+
+8 vols.
+N. /. K = '' The Sermon of Isis to Horns."
+/F, = Wachsmnth (C), lo. Stob. Anthologii Lib. iHio Priores . . ,
+
+Ec. Phys, et Ethic, (Berlin, 1884), 2 vols.
+
+G. R. S. M.
+
+Chelsea, 1906.
+
+
+Hosted by
+
+
+Google
+
+
+Hosted by
+
+
+Google
+
+
+Contents
+
+
+Preface ......
+
+1. The Remains of the Trismegistic Literature
+Writer and Reader ....
+The Extant Trismegistic Literature
+The Original MS. of onr Corpus
+Texts and Translations
+
+li. The History op the Evolution of Opinion
+
+The Chief Points of Interrogation .
+
+T]ht.e ,Opini^n« ef-th^Humanists
+^^he Fir st Doubt ^
+^ 'Htie Laui'iciiing oftiie Theory of Plagiarism
+
+The Only Argument Adduced
+
+The Theory of Hilgers ...
+
+The German Theory of Neoplatonic " Syncretismus '
+
+The French Theory of Egyptian Origin
+
+The Views of Menard
+
+English Encyclopsedism
+
+Chambers' Opinion ....
+
+German Encyclopsedism
+
+A Recent Article by Granger
+
+Reitzenstein and the Dawn of Right View.s
+
+A Key to Egypt's Wisdom .
+
+The Answers to our Questions
+
+HI. Thoth the Master op Wisdom
+
+Thoth-Tehuti ....
+
+Thoth according to Pietschmann
+
+The Three Grades of the Egyptian Mysteries
+
+Thoth according to Reitzenstein
+
+Thoth according to Budge .
+
+
+PAGK
+V
+
+1-16
+1
+3
+6
+
+8
+
+
+17
+
+
+-46
+17
+18
+20
+21
+22
+25
+26
+27
+27
+33
+34
+35
+36
+40
+44
+44
+
+
+47-81
+47
+48
+50
+51
+52
+
+
+Hosted by
+
+
+Google
+
+
+CONTENTS
+
+
+His Deific Titles
+
+His Symbols and Name
+
+The Shrine of Thoth
+
+Thoth and his Company of Eiglit, .
+
+The "House of the Net"
+
+Thoth the Logos
+
+The Words of Thoth .
+
+Thoth and the Osirified
+
+Thoth the Measurer .
+
+The Title " Thrice-greatest "
+
+The Supremacy of Thoth
+
+The Views of a Scholar-Mystic
+
+The Spiritual Nature of the Inner Tradition of
+
+Egyptian Wisdom
+The Holy Land of Egypt and its Initiates
+Thoth the Initiator .
+Some of the Doctrines of Initiation .
+The Temples of Initiation .
+The Mystery of the Birth of Horns .
+" The Book of the Master " .
+The Steps of the Path
+An Illuminative Study
+
+
+PAGE
+
+53
+54
+56
+57
+58
+63
+63
+65
+66
+66
+67
+68
+
+69
+70
+71
+73
+
+74
+75
+77
+79
+80
+
+
+IV. The Popular Theuruic Hermes -Cult in the
+
+Greek Magic Papyri .... 82-98
+
+The " Religion of Hermes " . . . .82
+
+i. An Invocation to Hermes as the Good Mind . 84
+
+ii An Invocation to Lord Hermes . . 86
+
+iii. An Invocation to Lord Hermes . . 87
+
+iv. An Invocation to Thoth as Logos . . 90
+
+V. An Invocation to Hermes as the Spiritual Light 90
+
+vi. The Mystic Rite of the Flame . . .93
+
+vii. A Prayer of Consecration . . .97
+
+
+V. The Main Source op the Trismegistic Litera-
+ture ACCORDING l-O'MANETJEiQjElG^^^^ PrIEST
+
+^'-'"- oFEGrPT^--- . . . . '^
+
+"^-^Hermes at the^eginnhigjol^e Hellenistic Period
+Petosiris and Nechepso . ''"^'^"-^-7— - -^^--^— -
+
+Manetho the Beloved of Thoth
+The Letter of Manetho to Ptolemy Philadelphus
+The Importance of Manetho's Statement in hi;
+"Sothis" ....
+
+
+^-127
+
+99
+
+IOC
+
+102
+
+103
+
+105
+
+
+Hosted by
+
+
+Google
+
+
+CONTENTvS
+
+
+XI
+
+
+Is " Sotlii^ " a Forgery 1
+
+Tlie Argnments of Eiicyclopiedisni refuted
+
+The Seriadic Land
+
+The SteLc of Hermes
+
+The Sons of Seth- Hermes
+
+The Epithet " Thrice-greate{?t ''
+
+The Clue of Griffiths.
+
+The Earliest Trismegistic Literature
+
+Philo Byblius
+
+Are his " Phcenician Histories " a Forgery 'i
+
+Sanchuniathon and the " Books of Hermes "
+
+
+VAQK
+
+107
+108
+110
+112
+113
+116
+118
+121
+122
+123
+124
+
+
+\M. An Egyptian Prototypk of the Main Features
+
+OF THE POSMANDRES' CoSMOGONY . 128-138
+
+The Higher Criticism of the " Pcemandres " .128
+
+V A Prototype of its Cosmogenesis . . .129
+
+A Praise-giving to Ptah . . . .131
+
+V Ptah-Thoth the Wise One . . . .132
+
+Egyptian Syncretism 1000 B.C. . . . 135
+
+The Doctrine of " P<emandres " Compared with that
+
+of its Prototype . . , . .136
+
+Tlie Man-Doctrin(' ..... 138
+
+VI}. The Myth of Man in the Mysteries; . 139-198
+
+The Gnostic Tradition . . . .139
+
+The " Philosophumena " of Hippolytiis . . 140
+
+Tlie Naassenes , . . . .141
+
+Analysis of Hippolytus' Account of tha Naassene
+
+Document . . . . .142
+
+Hippolytus' Introduction . . . .146
+
+The Material for the Recovery of the Original
+
+Hellenistic Document . . . .148
+
+Hippolytus' Conclusio]i . . . .186
+
+Conclusion of Analysis . . . .192
+
+The Hellenist Commentator . . . .193
+
+The Jewish and Christian Overwriters *. . 194
+
+^osimus and the Anthropos-Doctrine . .196
+
+Philo of Alexandria on tlie Man-Doctrine . .197
+
+
+\11}. Philo op Alexandria and thk Hellenistic
+
+Theology .... 199-254
+
+Concerning Philo and his Method . . . 1 99
+
+. 204
+
+
+The Great Importance of his 'Writinj
+
+
+Hosted by
+
+
+Google
+
+
+Xll
+
+
+PAGE
+
+
+Concerning the Mysteries , . . , 205
+
+
+Concerning the Sacred Marriage
+
+
+. 216
+
+
+Concerning the Logos
+
+
+225
+
+
+The Son of God
+
+
+226
+
+
+The True High Priest
+
+
+227
+
+
+The Elder and Younger Sons of Goc
+
+
+229
+
+
+Yet God is One
+
+
+230
+
+
+The Logos is Life and Light .
+
+
+231
+
+
+The Divine Vision .
+
+
+233
+
+
+The Sons of God on Earth .
+
+
+233
+
+
+The City of God
+
+
+235
+
+
+God's Shadow
+
+
+236
+
+
+The Mother-City of Kefuge .
+
+
+237
+
+
+The True Shepherd .
+
+
+238
+
+
+The Apostles of God .
+
+
+239
+
+
+The Ladder of the "Words''
+
+
+239
+
+
+The Logos the Spiritual Sun
+
+
+241
+
+
+The Disciples of the Logos .
+
+
+243
+
+
+The River of the Divine Reason
+
+
+244
+
+
+Jerusalem Above
+
+
+245
+
+
+The Logos is as Manna and Coriander Seed
+
+
+246
+
+
+The Logos is the Pupil of God's Eye
+
+
+247
+
+
+" Man shall not Live by Bread Alone '^
+
+
+248
+
+
+The Logos-Mediator .
+
+
+249
+
+
+The Yoga of Plotinus
+
+
+251
+
+
+The Race of God
+
+
+253
+
+
+IX. Plutarch : Concerning the Mysteries op Isis
+
+AND Osiris .... 255-368
+
+Foreword . . . . . .255
+
+Concerning Isis and Osiris . . . 261-366
+
+Address to Klea concerning Gnosis and the Search
+
+for Truth . . . . .261
+
+The Art of Knowing and of Divinising . . 262
+
+The True Initiates of Isis .... 263
+Why the Priests are Shaven and wear Linen . 265
+
+Of the Refraining from Flesh and Salt and Super-
+
+lauities . . , . . .267
+
+On the Drinking of Wine .... 268
+On Fish Taboos . . . . .269
+
+The Onion and Pig Taboos . . . .271
+
+The Kings, the Riddles of the Priests and the
+
+Meaning of Amoun . . . .273
+
+
+Hosted by
+
+
+Google
+
+
+CONTENTS
+
+
+XUl
+
+
+Of the Greek Disciples of EgyiDtiaiis and of Pytha
+
+goras and his Symbols .
+Advice to Klea concerning the Hidden Meaning of
+
+the Myths
+The Mystery-Myth .
+The Undermeaning, a Reflexion of a Certain Reason
+Concerning the Tombs of Osiris
+Concerning the Theory of Evemerus
+The Theory of the Daimones
+Concerning Sarapis " ;
+Concerning Typhon . . ^''^-^^^
+
+^Slj^eTheory of the Physicists . >,
+
+ConcermngT^M^fts''anH"iriMysus
+V The Theory of the Phxsicistsjgesiinied
+x^he Theory of The Mathematici""^ .
+N^~~The"TheGTy^'of''th&"Bmd:ists-r^ .
+The Proper Beason according to Plutarch
+The Symbolism of the Sistrum
+The True " Logos " again according to Plutarch
+Against the Weather and Vegetation God Theories
+Concerning the Worship of Animals and Totemism
+Concerning the Sacred Robes
+
+Concerning Incense .....
+Afterword ......
+
+
+274
+
+276
+278
+291
+292
+295
+298
+301
+304
+307
+310
+312
+318
+328
+333
+344
+345
+346
+353
+361
+363
+367
+
+
+X. " Hermas " AND " Hermes " .
+
+An Anticipation ....
+The Higher Criticism of " The Shepherd of Hermas
+The Introduction of the " Pastoral Hermas "
+Comparison with our *' Poemandres "
+The Popular Symbolic Representation of the Shepherd
+The Name " Hermas "
+An Early Form of the " Pcemandres "
+The Holy Mount ....
+" Gnostic ''' Elements ....
+The Vices and Virtues
+The Early Date of the Original " Hermas " .
+The Dependence Theory to be used with Caution
+The Visions of Crates
+"^-^^^^^Jllil ^JS}^!2^ Christian " Many " and the Gnostic
+
+The Story of Abbot Olympius
+A Final Word / .
+
+
+369-386
+. 369
+370
+370
+371
+372
+374
+374
+375
+376
+377
+378
+379
+-380
+
+
+382
+384
+385
+
+
+Hosted by
+
+
+Google
+
+
+XIV
+
+
+CONTENTS
+
+
+XI. Concerning the ^Eon-Doctrine
+The Scope of our Essay
+The Orphic Tradition of the Genesis of the World
+
+Commentary .....
+The Sethian Gnosis ....
+The Mithriac Mon ....
+Probable Date of Origin of the Hellenistic Moiv
+
+Doctrine .....
+Abraxas .....
+
+The Feast of the Moii
+The Quintessence and the Monad
+The ^on in Plato ....
+Concerning the Hellenistic Origin of iEonology
+The iEon the Logos ....
+The Roman Sseculum Cult derived from Egypt
+The -^onic Immensities of Egypt
+A Song of Praise to the ^on
+The Demiurgic ^on ....
+The ^on in Theur^ic Literature
+
+
+PAGE
+
+387-412
+387
+
+
+388
+392
+393
+399
+
+401
+402
+403
+403
+404
+405
+406
+407
+407
+408
+410
+410
+
+
+XII. The Seven Zones and their Characteristics 413-428
+Macrobius on " The Descent of the Soul from the
+
+Heights of Cosmos to the Depths of Earth " . 413
+The Tradition of Servius . . , .418
+
+Criticism of the Evidence . . . .419
+
+The " Ophite " Hebdomad . . . .421
+
+The Simpler Form of the Trismegistic Gnosis . 423
+
+Concerning Leviathan and Behemoth . . 423
+
+The "Fence of Fire" . . . .427
+
+
+XIII. Plato : Concerning Metempsychosis . 429-436
+
+The Soul and her Mysteries in the " Phsedrus " . 429
+Plotinus on Metempsychosis .... 434
+Proclus on the Descent of Souls into Irrational
+
+Natures ...... 435
+
+
+XIV. The Vision of Er
+Er Son of Armenius
+From the Mysteries
+The Cylinder .
+'The Vision .
+Commentary .
+
+
+437-449
+. 437
+. 438
+. 439
+. 440
+. 448
+
+
+Hosted by
+
+
+Google
+
+
+CONTENTS XV
+
+PAGE
+
+XV. Concerning the Crater or Cup . . 450-456
+
+The Crater in Plato ..... 450
+In " Orpheus," Macrobius, and Proclns . ,451
+
+The Vision of Aridaeiis .... 452
+
+The Origin of the Symbol to be sought in Orphic
+
+Tradition . . . . . 456
+
+XVI. The Disciples op Thrice-Greatest Hermes 457-481
+Ptah, Sekhet and I-em-hetep (Asclepius) . . 457
+Nefer-Tem ...... 458
+
+Imhotep-Imuth-Asclepius .... 459
+
+Thath-Tat ...... 461
+
+The Incarnations of Thoth . . . 4^3
+The Disciples of Lord Hermes in Petosiris and
+
+Nechepso ..... 464
+
+Tosothros-Asclepius ..... 465
+
+Imuth- Asclepius the Master-Mason and Poet . 466
+
+JEsculapius the Healer .... 467
+
+Asclepius in Trismegistic Tradition . , . 469
+
+Concerning Amnion . . . . .471
+
+Prophet and King ..... 472
+
+Amenhotep- Asclepius .... 473
+
+The Sacred Group of Four .... 474
+
+James, John and Peter .... 475
+
+The Triad of Disciples .... 476
+
+Chnum the Good Daimon .... 477
+
+Osiris Disciple of Agathodaimon the Thrice-greatest 478
+
+Logos-Mind the Good Daimon . . . 473
+
+Chnum Good Mind the jEon . . . 430
+
+Isis, Lady of Wisdom, Disciple of Thrice-greatest
+
+Hermes ...... 48]
+
+
+Hosted by
+
+
+Google
+
+
+Was he one or many, merging
+
+Name and fame in one,
+Like a stream, to which, converging,
+
+Many streamlets run ?
+
+
+Who shall call his dreams fallacious ?
+
+Who has searched or sought
+All the unexplored and spacious
+
+Universe of thought ?
+
+Who in his outi skill confiding,
+
+Shall with rule and line
+Mark the border-land dividing
+
+Human and divine 1
+
+Trismegistus ! Three times greatest !
+
+How thy name sublime
+Has descended to this latest
+
+Progeny of time 1
+
+Longfellow, Hermes Trismegistus.^
+
+
+1 This poem is dated January 1882. Chambers (p. 155, n.) says ;
+" It is noteworthy that the last poem of Longfellow was a lyrical ode in
+celebration of Hermes Trismegistus. "
+
+
+Hosted by
+
+
+Google
+
+
+Thrice-Greatest Hermes
+
+
+I
+
+THE REMAINS OF THE TEISMEGISTIC
+LITERATUEE
+
+Writer and Reader
+
+Little did I think when, years ago, I began to translate
+some of the Trismegistic tractates, that the undertaking
+would finally grow into these volumes. My sole object
+then was to render the more important of these beautiful
+theosophic treatises into an English that might, perhaps,
+be thought in some small way worthy of the Greek
+originals. I was then more attracted by the sermons
+themselves than by the manifold problems to which they
+gave rise; I found greater pleasure in the spiritual
+atmosphere they created, than in the critical considera-
+tions which insistently imposed themselves upon my
+mind, as I strove to realise their importance for the
+history of the development of religious ideas in the
+Western world.
+
+And now, too, when I take pen in hand to grapple
+with the diSiculties of '* introduction '' for those who
+will be good enough to follow my all-insutEcient labours,
+it is to the tractates themselves that I turn again and
+again for refreshment in the task; and every time I
+turn to them I am persuaded that the best of them are
+worthy of all the labour a man can bestow upon them,
+
+VOL. t "^
+
+Hosted by VjOOQIC
+
+
+Z THRIOE-GREATEST HERMES
+
+Though it is true that the form of these volumes,
+with their Prolegomena and Commentaries and numer-
+ous notes, is that of a technical treatise, it has never-
+theless been my aim to make them throughout accessible
+to the general reader, even to the man of one language
+who, though no scholar himself, may yet be deeply
+interested in such studies. These volumes must, there-
+fore, naturally fall short of the precision enjoyed by
+the works of technical specialists which are filled with
+direct quotations from a number of ancient and modern
+tongues ; on the other hand, they have the advantage
+of appealing to a larger public, while at the same time
+the specialist is given every indication for controlling
+the statements and translations.
+
+Nor should the general reader be deterred by an
+introductory volume under the imposing sub-title of
+Prolegomena, imagining that these chapters are neces-
+sarily of a dull, critical nature, for the subjects dealt
+with are of immense interest in themselves (at least
+they seem so to me), and are supplementary to the
+Trismegistic sermons, frequently adding material of a
+like nature to that in our tractates.
+
+Some of these Prolegomena have grown out of the
+Commentaries, for I found that occasionally subjects
+lent themselves to such lengthy digressions that they
+could be removed to the Prolegomena to the great
+advantage of the Commentary. The arrangement of
+the material thus accumulated, however, has proved a
+very difficult task, and I have been able to preserve
+but little logical sequence in the chapters ; but this is
+owing mainly to the fact that the extant Trismegistic
+literature itself is preserved to us in a most chaotic
+fashion, and I as yet see no means of inducing any sure
+order into this chaos.
+
+
+Hosted by
+
+
+Google
+
+
+UiixMAINS OF THE TRISMEGISTIC LITERATURE
+
+
+The Extant Trismegistic Literature
+
+To distinguish our writings both from the Egyptian
+"Hooks of Thoth'' and the Hermes Prayers of the
+popular Egyptian cult, as found in the Greek Magic
+ra,pyri, and also from the later Hermetic Alchemical
+literature, I have adopted the term Trismegistic litera-
+I lire in place of the usual designation Hermetic.
+
+Of this Greek Trismegistic literature proper, much is
+lost; that which remains to us, of which I have en-
+deavoured to gather together every fragment and scrap,
+falls under five heads:
+
+A. The Corpus Hermeticum.
+
+B. The Perfect Sermon, or the Asclepius.
+
+C. Excerpts by Stobseus.
+
+D. Eeferences and Fragments in the Fathers.
+
+E. Eeferences and Fragments in the Philosophers.
+
+A. The Corpus Hermeticum includes what has, pre-
+vious to Eeitzenstein,^ been known as the ''Poimandres'' ^
+collection of fourteen Sermons and the " Definitions of
+Asclepius.*'
+
+Ix The Perfect Sermon, or the Asclepius, is no longer
+extant in Greek, but only in an Old Latin version.
+
+0. There are twenty-seven Excerpts, from otherwise
+lost Sermons, by John Stobteus, a Pagan scholar of the
+
+' lleity.enstein (R.), Poimandres : Studien zur griechisch-
+^"■Iijl>tii>che7i lond friVichrisf'lichen Literatur (Leipzig ; 1904).
+
+- Variously translated, or metamorphosed, as Pcemandres
+I'ii'mander, Poemandre, Pymandar, Pimander, Pimandre, Piman-
+' I vi). Already Patrizzi, in 1591, j)oii^ted out that only one treatise
+< nil Id be called by tins title ; but, in spite of this, the bad habit
+ni.iugurated by the editio pri7iceps (in Latin translation) of
+M.u'siglio Ficino has persisted to the last edition of the text by
+I'archey (1854) and the last translation by Chambers (1882).
+
+
+Hosted by
+
+
+Google
+
+
+4 THEIOE-GREATEST HERMES
+
+end of the fifth or beginning of the sixth century, who
+was an immense reader and made a most valuable
+collection of extracts from Greek authors, though
+studiously avoiding every Christian writer. Some of
+these Excerpts are of great length, especially those
+from the Sermon entitled " The Virgin of the World " ;
+these twenty-seven Excerpts are exclusive of extracts
+from Sermons still preserved in our Corpus.
+
+D. From the Church Fathers we obtain many refer-
+ences and twenty-five short Fragments, otherwise
+unknown to us, and considerably widening our ac-
+quaintance with the scope of the literature.
+
+E. From Zosimus and Fulgentius we obtain three
+Fragments, and from the former and lamblichus, and
+Julian the Emperor-Philosopher, we obtain a number
+of valuable references.
+
+Such are what at first sight may appear to be the
+comparatively scanty remains of what was once an
+exceedingly abundant literature. But when we re-
+member that this literature was largely reserved and
+kept secret, we cannot but congratulate ourselves that
+so much has been preserved; indeed, as we shall see
+later on, but for the lucky chance of a Hermetic apolo-
+gist selecting some of the sermons to exemplify the
+loyal nature of the Trismegistic teaching with respect
+to kings and rulers, we should be without any Hermetic
+Corpus at all, and dependent solely on our extracts and
+fragments.
+
+But even with our Hermetic Corpus before us we
+should never forget that we have only a fraction of the
+Trismegistic literature — the flotsam and jetsam, so to
+say, of a once most noble vessel that sailed the seas of
+human endeavour, and was an ark of refuge to many a
+pious and cultured soul.
+
+Eeferences to lost writings of the School will meet
+
+
+Hosted by
+
+
+Google
+
+
+REMAINS OF THE TRISMEGISTIC LITERATURE 5
+
+US abundantly in the course of our studies, and some
+attempt will be made later on to form a notion of the
+main types of the literature.
+
+As for the rest of the so-called Hermetic works,
+medico-mathematical, astrological and medico-astro-
+logical, and alchemical, and for a list of the many
+inventions attributed to the Thrice-greatest — inven-
+tions as numerous as, and almost identical with, those
+attributed to Orpheus by fond posterity along the
+line of "pure" Hellenic tradition — I would refer the
+student to the Bihliotheca Grmca of Joannes Albertus
+i^'abricius.^
+
+For the Alchemical and Mediaeval literature the two
+magnificent works of Berthelot (M. P. E.) are indispens-
+able — namely, Collection des cmiciens Alchimistes greos
+(Paris, 1888), and La Chimie an Moyen Age (Paris,
+1893).
+
+In close connection with the development of this
+form of '' Hermetic " tradition must be taken the
+Hermes writings and traditions among the Arabs. See
+r^eausobre's Ilistoire Critigiie de Manichee et du Mani-
+ch6wniG (Amsterdam, 1734), i 326; also Fleischer (H..^
+L.), Hermes Trisrnegisius an die menschliche Seele, Ara-
+bisch imd JDeutsch (Leipzig, 1870); Bardenhewer (0.),
+/lermetis Trismegisti qui apud Arahes fertur de Oasti-
+(jrdione Animm Liter (Bonn, .1873) ; and especially E.
+Pietschmann, the pupil of Georg Ebers, who devotes
+i he fourth part of his treatise, entitled Hermes Trisme-
+gistics nach dgyptischen v/nd orientalischen tjherlieferungen
+(Leipzig, 1876), to a consideration of the Hermes
+tradition, " Bei Syrern und Araben."
+
+^ Vol. i., Hb. 1., cap. vii. See the fourth and last edition
+(Leipzig, 1790), with up to that time unedited supplements by
+Fal^ricius and G. C. Heumann, and very numerous and im-
+])()rtant additions by G. C. Harles.
+
+
+Hosted by
+
+
+Google
+
+
+6 THRICE-GREATEST HERMES
+
+Eeitzenstein treats very briefly of the development of
+this later Hermetic literature on pp. 188-200 of his
+Poimandres}
+
+The Oeiginal MS. of our Corpus
+
+From the fragmentary nature of the remains of the
+Trismegistic literature that have come down to us, it
+will be at once seen that a critical text of them is a
+complicated undertaking; for, apart from the Corpus,
+the texts have to be collected from the works of many
+authors. This, however, has never yet been done in
+any critical fashion ; so that a translator has first of all
+to find the best existing critical texts of these authors
+from which to make his version. This, I hope, I have
+succeeded in doing ; but even so, numerous obscurities
+still remain in the texts of the excerpts, fragments, and
+quotations, and it is highly desirable that some scholar
+specially acquainted with our literature should collect
+all these together in one volume, and work over the
+labours of specialists on the texts of Stobaeus and the
+Fathers, with the added equipment of his own special
+knowledge.
+
+Even the text of our Corpus is still without a
+thoroughly critical edition ; for though Eeitzenstein has
+done this work most admirably for C, H., i., xiii. (xiv.),
+and (xvi.)-(xviii.), basing himself on five MSS. and
+the printed texts of the earlier editions, he has not
+thought fit to give us a complete text.
+
+A list of the then known MSS. is given in Harlea'
+edition of Fabricius' BiUiotheca GrcBca (pp. 51, 52);
+while Par they gives notes on the only two MSS. he
+used in his edition of fourteen of the Sermons of
+
+^ For the Hermetic writing in Pitra, Analeda Sacra et Glasdca,
+pt. ii., see R., pp. 16, n. 4, and 259, n. 1 ; and for reference to the
+Arabic literature, pp. 23, n. 6, and 172, n. 3.
+
+
+Hosted by
+
+
+Google
+
+
+REMAINS OF THE TRISMEGISTIO LITERATURE 7
+
+our Corpus. It is, however, generally believed that
+there may be other MSS. hidden away in Continental
+libraries.
+
+All prior work on the MSS., however, is entirely
+superseded by Eeitzenstein in his illuminating ** History
+of the Text'* (pp. 319-327), in which we have the
+whole matter set forth with the thoroughness that
+characterises the best German scholarship.
+
+From him we learn that we owe the preservation of
+our Hermetic Corpus to a single MS. that was found
+in the eleventh century in a sad condition. "Whole
+quires and single leaves were missing, both at the
+beginning (after ch. i.) and the end (after ch. xvi.) ;
+even in the remaining pages, especially in the last
+third, the writing was in a number of places no longer
+legible.
+
+In this condition the MS. came into the hands of
+Michael Psellus, the great reviver of Platonic studies at
+Byzantium, probably at the time when his orthodoxy
+was being called into question. Psellus thought he
+would put these writings into circulation again, but at
+the same time guard himself against the suspicion that
+their contents corresponded with his own conclusions.
+This accounts for the peculiar scholion to (7. H., i. 18,
+which seems at first pure monkish denunciation of
+Poemandres as the Devil in disguise to lead men from
+the truth, while the conclusion of it betrays so deep
+an interest in the contents that it must have been
+more than purely philological.
+
+And that such an interest was aroused in the
+following centuries at Byzantium, may be concluded
+from the fact that the last three chapters, which directly
+justify polytheism or rather Heathendom, were omitted
+in a portion of the MSS., and only that part of the
+Corpus received a wider circulation which corresponded
+
+
+Hosted by
+
+
+Google
+
+
+8 THRICE-GREATEST HERMES
+
+with what might be regarded at first sight as a
+Neoplatonism assimilated to Christianity. The text
+was reproduced with thoughtless exactitude, so that
+though its tradition is extraordinarily bad, it is uniform,
+and we can recover with certainty the copy of Psellus
+from the texts of the fourteenth century.
+
+These Trismegistic Sermons obtained a larger field of
+operation with the growth of Humanism in the West.
+Georgius Gemistus Pletho, in the latter part of the
+fourteenth and beginning of the fifteenth century,
+brought Neoplatonism from Byzantium into Italy as a
+kind of religion and made a deep impression on Cosimo
+Medici ; and Marsiglio Ficino, who was early selected by
+the latter as the head of the future Academy, must have
+made his Latin translation of our Corpus, which
+appeared in 1463, to serve as the first groundwork of
+this undertaking. Cosimo had the Greek text brought
+from Bulgaria (Macedonia) by a monk, Fra Lionardo
+of Pistoja, and it is still in the Medicean Library.
+
+It was not, however, till the middle of the sixteenth
+century that the Greek text was printed; and meantime,
+with the great interest taken in these writings by the
+Humanists, a large number of MSS. arose which sought
+to make the text more understandable or more elegant ;
+such MSS, are of no value for the tradition of the
+text.
+
+Texts and Translations
+
+We will now proceed to give some account of the
+texts and translations of the Trismegistic writings, a
+bibliographical labour which the general reader will
+most probably skip, but which the real student will
+appreciate at its proper value.^
+
+1 This study was published in the Theosophical Eeview, May
+1899, and is independent of Reitzenstein's work.
+
+
+Hosted by
+
+
+Google
+
+
+REMAINS OF THE TRISMEGISTIC LITERATURE 9
+
+The best account of the texts and translations up to
+1790 is that of Harles, who has entirely rewritten
+the account of Fabricius (ojp. cit,, pp. 52 ff.).^
+
+The editio princeps was not a text but a Latin trans-
+lation by Marsiglio Ficino (Marsilius Ficinus), published
+in quarto in 1471.2 Both the name of the publisher
+and place of publication are lacking, but the British
+Museum catalogue inserts them in parenthesis as " G.
+de Lisa, Treviso,'* presumably on the authority of
+Harles. This translation consisted of the so-called
+'* Poemandres," in fourteen chapters, that is to say
+fourteen treatises, under the general title, Mercurii
+Trismegisti Liber de Potestctie et Sapientia Dei (or The
+Book of Mercury Trismegist concerning tlu Power and
+Wisdom of God). The enormous popularity of this
+work is seen by the fact of the very numerous editions
+(for a book of that time) through which it ran. No
+I cms than twenty- two editions have appeared, the first
+Bight of them in the short space of a quarter of a
+century.^
+
+In 1548 there appeared an Italian translation of
+Picinus' Latin version of the *' Pcemandres " collection,
+on titled H Pimandro di Mercurio Trismegisto, done into
+Florentine by Tommaso Benci, printed at Florence in
+t2rao. A second edition was printed at Florence in
+Iv549 in 8vo, with numerous improvements by Paitoni.
+
+^ S. F. W. Hoffmann's Bihliographisches Lccicon der gesammten
+idUeratur der Oriechm (2nd ed., Leipzig, 1839) simply copies
+Ifarlee, ^yMle his appendix of " Erlauterungsschriften " is of no
+value.
+
+^ R. (p. 320), as we have seen, gives the date as 1463, but I
+Imvo found no trace of this edition.
+
+3 The dates of these editions are as follows, though doubtless
+Umre were other editions of which we have lost record : 1471, '72,
+ftl, '83, '91, '93, '94, '97 ; 1503, '05, '16, '22, '32, '49, '52, '54, '61,
+no, '76, '77 ; 1611, '41. They were printed at Venice, Paris,
+Umhy Lyons, and London.
+
+
+Hosted by
+
+
+Google
+
+
+10 THRICE-GREATEST HERMES
+
+The first Greek text was printed at Paris,, in 1554,
+by Adr. Turnebus ; it included the '* Pcemandres " and
+"The Definitions of Asclepius," to which the Latin
+version of Ficino was appended. The title is, Mercurii
+Trismegisti Pc&moMder seu de Potestate ac Sapientia
+Divina: Aescula^ii Definitiones ad Ammonem Begem]
+the Greek was edited by P. Angeio da Barga (Angelus
+Vergecius).
+
+In 1557 appeared the first French translation by
+Gabriel du Preau, at Paris, with a lengthy title,
+Deux Livres de Mercure Trismegiste Kermis tres ancien
+Theologien^ et excellant PMlozophe, L'un de la puissance
+et sapience de Dieu, L' autre de la volonte de Dieu,
+Auecq'un Dialogue de Loys Lojzarely poete Ghrestien,
+intitule le Bassin d'Herm^s,
+
+This seems to be simply a translation of an edition
+of Ficinus' Latin version published at Paris by Henr.
+Stephanus in 1505, to which a certain worthy, Loys
+Lazarel, who further rejoiced in the agnomen of
+Septempedanus, appended a lucubration of his own of
+absolutely no value,^ for the title of Estienne's edition
+runs : Pimander Mercurii Liher de Sapientia et Potestate
+Dei, AsclepiuSy ejusdem Mercurii Liher de Vohmtate
+Divina. Item Crater Hermetis a Lazarelo Septempedano.
+
+In 1574 Franciscus Flussas Candalle reprinted at
+Bourdeaux, in 4to, Turnebus* Greek text, which he
+emended, with the help of the younger Scaliger and
+other Humanists, together with a Latin translation,
+under the title, Mercurii Trismegisti Pimander sive
+Pcemander, This text is still of critical service to-day.
+
+This he followed with a French translation, printed
+in 1579, also at Bourdeaux in folio, and bearing the
+title, Le Pimandre de Mercure Trismegiste de la Philo-
+
+1 The writer has painfully perused it, for, more fortunate thai
+the British Museum, he possesses a copy of this rare work.
+
+
+Hosted by
+
+
+Google
+
+
+HEMAINS OF THE TRISMEGISTIC LITERATURE 11
+
+mpkie Ghrestienne, Oognoissance du Verh Diving et de
+I* Ktxellence des (Euvres de Dieu» This we are assured
+itt translated ^^ de Vexem'plaire Grec^ avec collation de
+irt^s-nmples commentaires,'^ ^ all of which is followed by
+i\m full name and titles of Plussas, to wit, " TranQois
+Monsieur de Foix, de la famille de Candalle, Captal
+d«i liuchs, etc., Evesque d'Ayre, etc.,*' the whole being
+tl<H Heated to "Marguerite de France, Eoine de Navarre."
+
+'twelve years later Franciscus Patricius (Cardinal
+Francesco Patrizzi) printed an edition of the text of
+tho Sermons of the Corpus, of "The Asclepius," and
+iilrto of most of the Extracts and of some of the Frag-
+tmnilH ; he, however, has arranged them all in a quite
+iirl>itrary fashion, and has as arbitrarily altered the
+ipxt, which generally followed that of Turnebus and
+ikniialle, in innumerable places. To this he appended
+^^ Latin translation, in which he emended the versions
+cjf Ficino and de Foix, as he tells us, in no less than
+1 040 places. These were included in his Nova de
+ihii/vcrsis Philosojphia, printed at Ferrara, in folio,
+U>iH, and again at Venice by R Meiettus, in 1593, as
+>n a|)|)cndix to his Nov, de Tin, Phil, now increased to
+si fly books.
+
+1 his Latin translation of Patrizzi was printed apart,
+f^^Knthor with the Ghaldcean Oracles , at Hamburg in
+L.!uin, also, in 1593, under the title Magia Philosophica.
+Hk* latter edition bears the subscription on the title-
+imm, "ja77i nunc primum ex BiUioteca Manzoviana h
+t^mbriH eruta,'' which Harles explains as a reprint
+i*y plain lienr. Eanzou, who is, however, described in
+I lift volume itself as '^ produx,'' It seems to have
+hmw figain reprinted at Hamburg in 1594 in 8vo.
+
+Mcfintime the Carmelite, Hannibal Eossellus,^ had
+
+^ These on perusal prove of little value.
+'^ R. 322 calls him a Minorite.
+
+
+Hosted by
+
+
+Google
+
+
+12 THRICE-GREATEST HERMES
+
+been laboriously engaged for many years on an editioi
+of the " Poemandres *' with most elaborate commen
+taries. This was printed at Cracow by Lazarus, in si3
+volumes in folio, from 1585 to 1590. Eossel treati
+of philosophy, theology, the Pope, the scriptures, an(
+all disciplines in his immanihus commentariis, inepte a
+some say, while others bestow on him great praise
+His title is Pymomder Mercurii Trismegisti. This wa
+reprinted with the text and translation of de Foix ii
+folio at Cologne in 1630, under the title Divinu
+Pimander Hermetis Mercurii Trismegisti.
+
+Hitherto nothing had been done in England, but i
+1611 an edition of Ficinus' translation was printed i
+London. This was followed by what purports to 1:
+a translation of the " Poemandres " from Arabic,^ *' b
+that learned Divine, Doctor Everard," as the title-pag
+sets forth. It was printed in London in 1650 in 8v
+with a preface by "J. F.," and bears the title T)
+Divine Pymander of Hermes Mercurius Trismegistus, i
+xviL Boohs, Translated formerly out of the ArahicJc in
+Greek [!] and thence into Latin, and Dutch, and no
+out of the Original into English, There was a secor
+edition of Everard's version printed at London in 165
+in 12mo. There are also reprints of the 1650 editic
+by Fryar of Bath, with an introduction by Hargra^
+Jennings, in 1884 ; ^ by P. B. Eandolph, Toledo, Ohi
+1889 ; and by the Theosophical Publishing Society,
+the Collectanea Hermetica, edited by W. Wynn Westco
+in 1893.
+
+To what Dutch translation Everard refers I cann
+discover, for the only one known to me is that print'
+
+1 It is clear, however, that Everard translated from Ficin
+Latin version, and that the " Arabick " is a myth.
+
+2 Of which only 200 copies were issued to subscribers, as thou|
+forsooth, they were to come into great "occult" secrets thereby,
+
+
+Hosted by
+
+
+Google
+
+
+REMAINS OF THE TRISMEGISTIC LITERATURE 13
+
+at Amsterdam in 1652 in 12mo. It is a translation of
+}*atrizzi's text, and bears the title, Sestien Boecken van
+den Hermes Trismegistus. . . . uyt het Griecx ghehracht
+. . . met eene . . . Voorede uyt het Latijn von F,
+Patricius in de welche hij hewijsi dat desen . . .
+Philosojph heeft gebleoyt voor Moyses, etc. Harles says
+nothing of this edition, but speaks of one printed at
+Amsterdam in 1643 in 4to, by Nicholas van Eauenstein,
+but I can find no other trace of it.
+
+The first German translation was by a certain Aletho-
+philus, and was printed at Hamburg in 1706 (8vo) under
+tfie title Hermetis Trismegisti Erhdntnuss der Natur,
+etc., containing seventeen pieces ; this was reprinted at
+Stuttgart in 1855, in a curious collection by J. Schieble,
+entitled Kleiner Wunder-Schauplatz.^ The title reads
+Hermetis Trismegisti Einleitung in's hochste Wissen von
+Erhentniss der Natur und der darin sich offenharenden
+yrossen Gottes, with an appendix concerning the person
+of Hermes, etc.
+
+But why Schieble should have reprinted Aletho-
+[)hilus' translation is not clear, when in 1781 a new
+translation into German, with critical notes and
+valuable suggestions for emending the text, had
+appeared by Dieterich Tiedemann (Berlin and Stettin,
+in 8vo), entitled Hermes Trismegists Pcemander, oder
+von der gottlichen Macht und Weisheit, a rare book
+which, already in 1827, Baumgarten-Crusius^ laments
+
+* Part of the full title runs: K, W,S. d. Wissenschaften,
+Mysterien, Theosophie, gottlichen und margenldndischen Magie^
+Naiurhrafte, hermet. u, magnet Phil., Kahhala, u, and. hohern
+Kentnissen^ and much more in the same strain, but I have no
+tioubt the reader has already had enough of it. From 1855 to
+1857 fourteen parts appeared, mostly taken up with German
+translations of Hermes, of Agrippa's Philosophia Occulta from the
+l,alin, and of The Telescope of Zoroaster from the French,
+
+'^ Op. inf. dt., p. 10.
+
+
+Hosted by
+
+
+Google
+
+
+14 THRICE-GREATEST HERMES
+
+as almost unfindable in the republic of letters, and
+of which the British Museum possesses no copy.^
+
+It is remarkable that of a work which exhausted
+so many editions in translation and was evidently
+received with such great enthusiasm, there have been
+so few editions of the text, and that for two centuries
+and a quarter ^ no attempt was made to collate the
+different MSS. and editions, until in 1854 Gustav
+Parthey printed a critical text of the fourteen pieces
+of " Pcemandres," at Berlin, under the title Hermetis
+THsmegisti Fo^mander, to which he appended a Latin
+translation based on the original version of Ficino
+successively revised by de Foix and Patrizzi, Parthey's
+promise to edit reliqua Hermetis scripta has not been
+fulfilled, and no one else has so far attempted this
+most necessary task.
+
+Eeitzenstein's (p. 322) opinion of Parthey's text,
+however, is very unfavourable. In the first place,
+Parthey took Patrizzi's arbitrary alterations as a
+true tradition of the text ; in the second, he himself
+saw neither of the MSS. on which he says he relies.
+The first of these was very carelessly copied for him
+and carelessly used by him; while the second, which
+was copied by D. Hamm, is very corrupt owing to very
+numerous "corrections" and interpolations by a later
+hand — all of which Parthey has adopted as ancient
+readings. His text, therefore, concludes Beitzenstein,
+is doubly falsified — a very discouraging judgment for
+lovers of accuracy.
+
+In 1866 there appeared at Paris, in 8vo, a complete
+translation in French of the Trismegistic treatises and
+
+1 I liave, therefore, not been able to avail myself of Tiede-
+mann's labours. R. 322 speaks bigbly of them,
+
+2 The last edition prior to Parthey's was the reprint of Flussas'
+text, at Cologne in 1630, appended to Rossel's lucubrations.
+
+
+Hosted by
+
+
+Google
+
+
+REMAINS OP THE TRISMEGISTIC LITERATURE 15
+
+fragments by Louis Menard, entitled Hermh Trismigiste,
+preceded by an interesting study on the origin of the
+Hermetic books, of which a second edition was printed
+in 1867. This is beyond question the most sympathetic
+version that we at present possess.
+
+Everard's version of the " Poemandres *' being re-
+printed in 1884 by Fryar of Bath, the rest of the
+treatises were retranslated by Anna Kingsford and
+Edward Maitland from Menard's French version
+(including his notes), and appeared in 1885 (in 4to),
+published by Fryar, but bearing a publisher's name
+in India, under the general title The Hermetic Wm-^Jcs :
+The Virgin of the World of Hermes Mercurim Trisme-
+gisim. Meantime, in 1882, J. D. Chambers had pub
+lished (at Edinburgh, in 8vo) a crabbed and slavishly
+literal translation of the "Poemandres," together with
+the Excerpts from Stobaeus and the Notices of Hermes
+in the Fathers, with an introductory Preface, under
+the title, The Theological and Philosophical Works of
+Hermes Trismegistus, Christian Neoplaionist Indeed,
+the loose and erroneous version of Everard is far more
+comprehensible than this fantastically literal translation.
+
+For the last six years I have myself been publishing,
+in the pages of The Theosophical Eeview, translations of
+the Trismegistic Sermons and also a few of the studies
+now included in these Prolegomena; all of the
+former, however, have been now carefully revised,
+and the latter have for the most part been greatly
+enlarged and improved.
+
+Finally, in 1904, E. Eeitzenstein of Strassburg
+published at Leipzig his illuminating study, Poimandres,
+in which he gives the critical text of O. H.,i., xiii. (xiv.),
+(xvi.)-(xviii.),^based on five MSS. and the best early
+printed editions, with all that minute care, knowledge
+of palaeography, and enthusiasm for philology which
+
+
+Hosted by
+
+
+Google
+
+
+16 THBICE-GREATEST HERMES
+
+characterises the best textual-critical work of modern
+scholarship. Why, however, Eeitzenstein has not done
+the same good service for the whole of the Corpus as he
+has done for the selected sermons, is a mystery. He
+is the very man for the task, and the service he could
+render would be highly appreciated by many.
+
+So much, then, for the existing partial texts and
+translations of the extant Trismegistic literature. Of
+the translations with which I am acquainted,^ Everard's
+(1650), the favourite in England, because of its
+dignified English, is full of errors, mistranslations, and
+obscurities ; it is hopeless to try to understand *' Hermes "
+from this version. Chambers's translation (1882,
+from the text of Parthey) is so slavishly literal that
+it ceases to be English in many places, in others goes
+wide of the sense, and, in general, is exasperating.
+Menard's French translation (1866, also from Parthey's
+text) is elegant and sympathetic, but very free in many
+places ; in fact, not infrequently quite emancipated from
+the text. The most literally accurate translation is
+Parthey's Latin version (based on the Latin translation
+of Ficino, as emended by Candalle and Patrizzi) ; but
+even in such literal rendering he is at fault at times,
+while in general no one can fully understand the Latin
+without the Greek. To translate "Hermes" requires
+not only a good knowledge of Greek, but also a know-
+ledge of that Gnosis which he has not infrequently so
+admirably handed on to us.
+
+^ As already remarked, I have not been able to see a copy of
+the German of Tiedemann.
+
+
+Hosted by
+
+
+Google
+
+
+II
+
+THE HISTORY OF THE EVOLUTION OF
+OPINION
+
+Thb Chief Points of Intekkogation
+
+We have now to consider the following interesting
+points :
+
+The early Church Fathers in general accepted the
+Trismegistic writings as exceedingly ancient and autho-
+ritative, and in their apologetic writings quote them in
+support of the main general positions of Christianity.
+
+In the revival of learning, for upwards of a century
+and a half, all the Humanists welcomed them with
+open arms as a most valuable adjunct to Christianity,
+and as being in accord with its doctrines ; so much so
+that they laboured to substitute Trismegistus for
+Aristotle in the schools.
+
+During the last two centuries and a half, however,
+a body of opinion was gradually evolved, infinitesimal
+in its beginnings but finally well-nigh shutting out
+every other view, that these writings were Neoplatonic
+forgeries and plagiarisms of Christianity.
+
+Finally, with the dawn of the twentieth century, the
+subject bas been rescued from the hands of opinion,
+and has begun to be established on the firm ground of
+historical and critical research, opening up problems
+of the greatest interest and importance for the history
+of Christian origins and their connection with Hellen-
+
+VOL. I, 17 2
+
+Hosted by VjOOQIC
+
+
+18 THRICE-GREATEST HERMES
+
+istic theology and theosophy, and throwing a brilliant
+light on the development of Gnosticism.
+
+The firsfc point will be brought out in detail in the
+volume in which a translation of all the passages and
+references to Thrice-greatest Hermes in the writings
+of the Church Fathers will be given; while the last
+will be made abundantly apparent, we hope, in the
+general course of our studies. The second and third
+points will now demand our immediate attention,
+especially the third, for we have endeavoured with
+great labour to become acquainted with all the
+''arguments" which have tended to build up this
+opinion ; and unless we have to change all our ideas
+as to the time-frame of so-called Neoplatonism, we are
+entirely unconvinced ; for we find that it has been
+evolved from unsupported assertions, and that not one
+single work exists which ventures in any satisfactory
+fashion to argue the question (most writers merely
+reasserting or echoing prior opinions), or in which the
+statements made may not as easily prove the priority
+of the Trismegistic school to the Neoplatonic as the
+reverse.
+
+We will then proceed to give some account of this
+chaos of contradictory opinions, picking out the most
+salient points.
+
+The Opinions of the Humanists
+
+That the early scholars of the revival of learning
+were all unanimously delighted with the Trismegistic
+writings, is manifest from the bibliography we have
+already given, and that they should follow the judgment
+of the ancient Fathers in the matter is but natural to
+expect; for them not only were the books prior to
+Christianity, but they were ever assured that Hermes
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OJ THE EVOLUTION OF OPINION 19
+
+had been a really existent personality, like any of the
+Biblical worthies, such as Enoch and Noah (as was
+unquestionably believed in those days), and further,
+that he was prior to, or a contemporary of, Moses.^
+
+Thus in the editio princejos of Ficino we read : " Who-
+ever thou art who readest these things, whether
+grammarian, or rhetorician, or philosopher, or theo-
+logian, know thou that I am Hermes the Thrice-greatest,
+at whom wondered first the Egyptians and the other
+nations, and subsequently the ancient Christian theo-
+logians, in utter stupefaction at my doctrine rare of
+things divine/'
+
+The opinion of Eicino, that the "writer" of the
+" Poemandres " tractates was one who had a knowledge
+both of Egyptian and Greek, is of interest as being
+that of a man uncontaminated by the infinite doubts
+with which the atmosphere of modern criticism is filled,
+and thus able to get a clean contact with his subject.
+
+Of the same mind were Loys Lazarel and du Preau,
+the first French translator ; while the Italian Cardinal
+Patrizzi appends to his labours the following beautiful
+words (attributed by some to Chalcidius -), which he
+puts in the mouth of Hermes :
+
+*' Till now, my son, I, banished from my home, have
+lived expatriate in exile. Now safe and sound I seek
+my home once more. And when bat yet a little while
+I shall have left thee, freed from these bonds of body,
+see that thou dost not mourn me as one dead. For I
+return to that supreme and happy state to which the
+universe's citizens will come when in the after-state.
+
+1 For a list of those who thought Hermes was prior to Moses,
+and even identical with Joseph, or even Adam, see Harles, p. 49
+ff. and notes.
+
+2 A Platonic philosopher who lived probably in the 4th
+century a.d.
+
+
+Hosted by
+
+
+Google
+
+
+20 THRICE-GREATEST HERMES
+
+Por there the Only God is supreme lord, and He will
+fill His citizens with wondrous joy, compared to which ■
+the state down here which is regarded by the multitude
+as life, should rather be called death." ^
+
+Patrizzi believed that Hermes was contemporary
+with Moses, basing himself upon the opinion of Eusebius
+in his Chronieum^ and thought that it would be to the
+greatest advantage of the Christian world, if such
+admirable and pious philosophy as was contained in
+the Trismegistic writings were substituted in the public
+schools for Aristotle, whom he regarded as overflowing
+with impiety.
+
+The First Doubt
+
+And that such opinions were the only ones as late as
+1630, is evident from the favour still shown to the
+voluminous commentaries of de Foix and Kossel Never-
+theless some fifty years previously, a hardy pioneer of
+scepticism had sturdily attacked the validity of the
+then universal Hermes tradition on one point at least
+— and that a fundamental one. For Patrizzi (p. la)
+declares that a certain Jo. Goropius Becanus was the
+first after so many centuries to dare to say that Hermes
+(as a single individual) never existed ! But the worthy
+Goropius, who appears to have flourished about 1580,
+judging by an antiquarian treatise of his on the race
+and language of the " Cimbri or Germani " published at
+Amsterdam, had no followers as yet in a belief that
+is now universally accepted by all critical scholarship.
+But this has to do with the Hermes-saga and not
+directly with the question of the Trismegistic works,
+
+^ Op, cit,y p. 3a.
+
+2 In which Patrizzi did but echo the opinion of his pre-
+decessors, such as Vergecius, the editor of the first edition of the
+Greek text, Candalle and many more.
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 21
+
+and so we may omit for the present any reference to
+the host of contradictory opinions on " Hermes " which
+are found in all the writers to whom we are referring,
+and none of which, prior to the decipherment of the
+hieroglyphics, are of any particular value.
+
+The Launching of the Theory of Plagiarism
+
+It was about the middle of the seventeenth century
+that the theory of plagiarism and forgery was started.
+Ursin (Joh. Henr. Ursinus), a pastor of the Evangelical
+Church at Ratisbon, published at Nlirnberg in 1661, a
+work, in the second part of which he treated of " Hermes
+Trismegistus and his Writings,*'^ and endeavoured to
+show that they were wholesale plagiarisms from
+Christianity, but his arguments were subjected to a
+severe criticism by Brucker some hundred years later.^
+
+This extreme view of Ursin was subsequently modified
+into the subsidiary opinions that the Trismegistic works
+were composed by a half-Christian (semi-chrisiiano) or
+interpolated by Christian overworking.
+
+The most distinguished name among the early holders
+of the former opinion is that of Isaac Casaubon,^ who
+dates these writings at the beginning of the second
+
+^ De Zoroastre Badriano Hermete Trismegisto Sanchoniathone
+Phcenicio eorumque Scriptis, et Aliis contra Mosaicm Scripturm Anti-
+quit aiem ; Exei'citationes Familiar es, pp. 73-180 — a book now very-
+scarce.
+
+2 Jacob] Bruckeri, Historia Criiica Philosophic^ (2nd ed., Leipzig,
+1 767), i. 252 ff. Lib. ii., cap, vii., " De Philosophla ^gyptiorum,"
+See also Meiners' Versuch ilher die Beligionsgeschichte der dltesten
+VolJcer besonders der Egyptier (Gottingen, 1775).
+
+^ De Rebus Sacris . . . Exercitationes ad Card, Baronii Prole-
+gomena, i., n. 10 (London, 1614). Casaubon concludes that the
+whole book, i.e. the " Poemandres," is a pseudepigraph, the pure
+invention of some Christian or other, or perhaps better, of some
+.^emi-Christian (p. 56).
+
+
+Hosted by
+
+
+Google
+
+
+22 THRICE-GREATEST HERMES
+
+century ; Casaubon's opinions, however, were promptly
+refuted by Cudworth in his famous work The True,
+Intellectual System of the Universe, the first edition of
+which was printed at London, in folio, 1678.^ Cud-
+worth would have it, however, that Casaubon was right
+as far as the treatises entitled " The Shepherd of Men "
+and " The Secret Sermon on the Mountain " are con-
+cerned, and that these treatises were counterfeited by
+Christians since the time of lamblichus — a very curious
+position to assume, since a number of the treatises
+themselves look back to this very *' Shepherd " as the
+original document of the whole ** Poemandres " cycle.
+
+But, indeed, so far we have no arguments, no really
+critical investigation ,2 so that we need not detain the
+reader among these warring opinions, on which the cap
+was set by the violent outburst of Colberg in defence of
+orthodoxy against the Alchemists, Eosicrucians, Quakers,
+Anabaptists, Quietists, etc., of which fanaiici, as he
+calls them, Hermes, he declares, was the Patriarch.^
+
+
+The Only Argument Adduced
+
+One might almost believe that Colberg was an incarna-
+tion of a Church Father continuing his ancient polemic
+against heresy ; in any case the whole question of heresy
+
+1 See liis dissertation on Hermes and the Hermetic writings
+in the edition of 1820, vol. ii., pp. 128-155.
+
+2 Though Reitzenstein (p. 1) speaks of the ^^ schneidende
+Kriiili^^ of Casaubon.
+
+3 Vol. i., p. 89, of the following amply entitled work, Das
+Platonisch-Hermetisches [sic] Ghristenthumy hegriffend die historische
+Erzehltmg vom Urspriing und vielerley Seden der heutigen Fanatischen
+Theologie, unterm Namen der Paracelsisten, Weigelianer^ Bosen-
+creutMT^ Quaker, Bohmisten, Wiedertduffer, Bourignisten, Lahadisten
+und Quietisten, by M. Ehre Gott Daniel Colberg, 2 vols. (Frank-
+furt and Leipzig, 1690, 1691).
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 23
+
+was now revived, and the eighteenth and nineteenth
+century criticism of the Trismegistic works almost invari-
+ably starts with this prejudice in mind and seeks (almost
+without exception) to father the Trismegistic writings
+on Neoplatonism, which it regards as the most powerful
+opponent of orthodoxy from the third century onwards.
+Harles (1790) gives the references to all the main factors
+in the evolution of this opinion during the eighteenth
+century;^ but the only argument that the century
+produced — indeed, the only argument that has ever been
+adduced — is that the doctrines of the Trismegistic
+writings are clearly Platonic, and that too of that type
+of mystical Platonism which was especially the
+characteristic of the teaching of lamblichus at the end
+of the third century a.d., and which is generally called
+Neoplatonism ; therefore, these writings were forged by
+the Neoplatonists to prop up dying Paganism against
+the ever more and more vigorous Christianity. We
+admit the premisses, but we absolutely deny the
+conclusion. But before pointing out the weakness of
+this conclusion of apologetic scholarship, we must deal
+with the literature on the subject in the last century.
+The eighteenth century produced no arguments in
+support of this conclusion beyond the main premisses
+which we have admitted.^ Has the nineteenth century
+
+1 Op. swpr. cit. ; the most " advanced ^' writer on the subject
+being Tiedemann, to whose work we have already referred ; but
+unfortunately we have not been able to procure a copy, and the
+British Museum is without it. Tiedemann thinks that none of
+the Trismegistic writings existed before the fourth century, while
+Fabricius himself, whose summary of prior opinion is overworked
+by Harles, assigns them to the time of Porphyry and lamblichus,
+though Harles dates the earliest of them from the end of the first
+to the middle of the second century (p. 48, n.).
+
+2 It may be worth while here to record the opinion of Gibbon,
+who would ascribe a Christian origin to some of the Trismegistic
+
+
+Hosted by
+
+
+Google
+
+
+24 THRICE-GREATEST HERMES
+
+produced any others so as to justify the position taken
+up by the echoes of opinion in all the popular encyclo-
+paedias with regard to these most valuable and beautiful
+treatises ? ^
+
+If our encyclopaedias deign to rest their assertions
+on authority, they refer us to Fabricius (Harles) and
+Baumgarten-Crusius. We have already seen that Harles
+will not help us much ; will the latter authority throw
+any more light on the subject ? We are afraid not ;
+for, instead of a bulky volume, we have before us a thin
+academical exercise of only 19 pp.,^in which the author
+puts forward the bare opinion that these books were
+invented by Porphyry and his school, and this mainly
+because he thinks that Orelli^ had proved the year
+before that the Cosmogony of Sanchoniathon was
+invented by the ** Platonici." Moreover, was not
+Porphyry an enemy of Christ, for did he not write XV.
+Books against the Christians? All of which can
+scarcely be dignified with the name of argument, far
+less with that of proof.
+
+
+writings, and impatiently dismisses the subject by classing
+Hermes with Orpheus and the Sibyls as a cloak for Christian
+forgery (vol. ii. p. 69, Bury's ed.).
+
+1 How the public is catered for may be seen from any popular
+" knowledge "-digest. The following will serve as a specimen,
+taken from the article " Hermes Trismegistus," in The American
+Encyclopedia : a Popular Dictionary of General Knowledge^ edited
+by Ripley and Dana (New York, 1874) : " In the conflict
+between Neoplatonism and Christianity, the former sought to
+give a profounder and more spiritual meaning to the pagan
+philosophy, by combining the wisdom of the Egyptians and
+the Greeks, and representing it as a very ancient, divine
+revelation."
+
+2 Delivered before the University of Jena at Pentecost, 1827, by
+Lud. Frid. Otto Baumgarten-Crusius.
+
+3 Orelli (J. C), Sanchoniathonis Fragmenta de Gosmogonia et
+Theologia Plwenicorum (Leipzig, 1826).
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 25
+
+
+The Theoey of Hilgers
+
+The same may be said of the short academical thesis
+of Hilgers,^ who first shows the weakness of Mohler's
+strange opinion ^ that the author was a Christian who
+pretended to be a Pagan and inserted "errors" on
+purpose. Hilgers finally ends up with the lame con-
+clusion that Christian doctrine was known to the
+author of the *' Poemandres " cycle, especially the Gospel
+of ** John " and Letters of Paul ; but how it is possible to
+conjecture anything besides, he does not know. Of
+the possibility of the priority of the *' Poemandres " to
+the writings of *'John" and Paul, Hilgers does not
+seem to dream ; nevertheless this is as logical a de-
+duction as the one he draws from the points of contact
+between the two groups of literature. But Hilgers has
+got an axe of his own to grind, and a very blimt one at
+that; he thinks that "The Shepherd of Men" was
+written at the same time as " The Shepherd of Hermas,"
+that simple product of what is called the sub-apostolic
+age — a document held in great respect by the early
+outer communities of General Christianity, and used
+for purposes of edification. Our "Shepherd," Hilgers
+thinks, was written in opposition to the Hermas
+document, but he can do nothing but point to the
+similarity of name as a proof of his hypothesis. This
+topsyturvy opinion we shall seek to reverse in a
+subsequent chapter on " * Hermes ' and * Hermas/ "
+
+As to the author of our " Shepherd," Hilgers thinks
+he has shown that "he was not a follower of the
+
+1 Hilgers (B. J.), De Hermetis Trismegisti Poimandro Commen-
+tatio (Bonn, 1855), suggested by the appearance of Partliey's text
+in 1854.
+
+2 Mohler (J. A.), Patrologie, pp. 950-951 — a brief note on
+Hermes. Ed. by F. X. Reithmayr (Regensberg, 1840).
+
+
+Hosted by
+
+
+Google
+
+
+26 THRICE-GREATEST HERMES
+
+doctrines of the Christ, but of the so-called Neoplaton-
+ists, and among these especially of Philo Judaeus " ; in
+fact he seems, says Hilgers, to have been a Therapeut.^
+
+The German Theory of Neoplatonic " Syncretismus "
+
+Here we have the first appearance of another ten-
+dency ; the more attention is bestowed upon the
+Trismegistic writings, the more it is apparent that
+they cannot be ascribed to Neoplatonism, if, as generally
+held, Neoplatonism begins with Ammonius Saccas,
+Plotinus, and Porphyry in the third century. There-
+fore, in this subject, and in this subject alone, we find a
+tendency in later writers to push back the Neoplatonists
+so as to include Philo JudsGus, who flourished in the
+first half of the first century ! On these lines we
+should soon get iV^o-platonism back to Plato and
+Pythagoras, and so be forced to drop the '' Neo " and
+return to the old honoured name of simple " Platonici."
+
+But already by this time in Germany the theory of
+Neoplatonic Syoicretismus to prop up sinking Heathen-
+dom against rising Christianity had become crystallised,
+as may be seen from the article on "Hermes,
+Hermetische Schriften" in Pauly's famous Ileal En-
+cyclopddie der classischen Alierthumswissenshaft (Stutt-
+gart, 1844), where this position is assumed from the
+start.
+
+Parthey, however, in 1854, in his preface, ventures
+on no such opinion, but expresses a belief that we may
+even yet discover in Egypt a demotic text of the
+*' Poemandres," which shows that he considered the
+original to have been written in Egyptian, and there-
+fore not by a Neoplatonist.
+
+1 Op. cit, pp. 16-1 "Z.
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 27
+
+
+The French Theory of Egyptian Origin
+
+In France, moreover, the Egyptian paternity of the
+Trisniegistic writings, and that too on very sensible
+lines, was asserted about the same time, namely, in
+1858, by Artaud in his article on "Hermes Trisme-
+giste," in Hoeffer's NouvelU Biographic Gdn^rale,
+published at Paris by Messrs Firmin Didot. Artaud
+writes :
+
+" In the mystic sense Thoth or the Egyptian Hermes
+was the symbol of the Divine Mind ; he was the incar-
+nated Thought, the living Word — the primitive type of
+the Logos of Plato and the Word of the Christians. . . .
+
+*' We have heard Champollion, the younger, giving ex-
+pression to the formal opinion that the books of Hermes
+Trismegistus really contained the ancient Egyptian
+doctrine of which traces can be discovered from the
+hieroglyphics which cover the monuments of Egypt.
+Moreover, if these fragments themselves are examined,
+we find in them a theology sufficiently in accord with the
+doctrines set forth by Plato in his Timceus — doctrines
+which are entirely apart from those of the other schools
+of Greece, and which were therefore held to have been
+derived by Plato from the temples of Egypt, when he
+went thither to hold converse with its priests." ^
+
+Artaud is also of the opinion that these Trismegistic
+treatises are translations from the Egyptian.
+
+The Views of Menard
+
+Nowadays, with our improved knowledge of Egypt-
+ology, this hypothesis has to be stated in far more
+
+1 The whole of tliis article has been hfted, without acknowledg-
+ment, by M'Clintock and Strong in their Gyclopcedia of Biblical,
+Theological^ andj Ecclesiastical Literature (New York, ISVS).
+
+
+Hosted by
+
+
+Google
+
+
+28 THRICE-GREATEST HERMES
+
+careful terms before it can find acceptance among the
+learned; nevertheless it was evidently the conviction
+of Deveria, who in a work of which he only succeeded
+in writing the first two pages, proposed to comment on
+the entire text of the Trismegistic Books from the point
+of view of an Egyptologist. For these Books, he
+declared, offered an almost complete exposition of the
+esoteric philosophy of ancient Egypt.^
+
+But by far the most sympathetic and really intelligent
+account of the subject is that of Menard,^ who gives us
+a pleasant respite from the chorus of the German
+Neoplatonic syncretism theory. And though we do
+not by any means agree with all that he writes, it will
+be a relief to let in a breath of fresh air upon the
+general stuffiness of our present summary of opinions.
+
+The fragments of the Trismegistic literature which
+have reached us are the sole surviving remains of that
+" Egyptian philosophy " which arose from the congress
+of the religious doctrines of Egypt with the philo-
+sophical doctrines of Greece. In other words, what
+the works of Philo were to the sacred literature of the
+Jews, the Hermaica were to the Egyptian sacred
+writings. Legend and myth were allegorised and
+philosophised and replaced by vision and instruction.
+But who were the authors of this theosophic method ?
+This question is of the greatest interest to us, for it is
+one of the factors in the solution of the problem of the
+literary evolution of Christianity, seeing that there are
+intimate points of contact of ideas between several
+of the Hermetic documents and certain Jewish and
+Christian writings, especially the opening verses of
+Genesis, the treatises of Philo, the fourth Gospel
+
+1 Pierret, Melanges d^ Arclieologie egyptienne et assyrienne^ i. (1873),
+p, 112; R. 1, n. L
+
+2 Op. $np. cit.j 1866.
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 29
+
+(especially the Prologue), and beyond all the writings
+of the great Gnostic doctors Basilides and Valentinus.
+
+Such and similar considerations lead Menard to
+glance at the environment of infant Christianity and
+the various phenomena connected with its growth, and
+this he does from the point of view of an enlightened
+independent historical scholar.
+
+" Christianity/' he writes, ** did not fall like a thunder-
+bolt into the midst of a surprised and startled world.
+It had its period of incubation, and while it was en-
+gaged in evolving the positive form of its dogmas, the
+problems of which it was seeking the solution were the
+subject of thought in Greece, Asia, and Egypt. Similar
+ideas were in the air and shaped themselves into all
+sorts of propositions.
+
+" The multiplicity of sects which have arisen in our
+own times under the name of socialism, can give but
+a faint idea of the marvellous intellectual chemistry
+which had established its principal laboratory at Alex-
+andria. Humanity had set in the arena mighty philo-
+sophical and moral problems : the origin of evil, the
+destiny of the soul, its fall and redemption ; the prize
+to be given was the government of the conscience.
+The Christian solution ^ won, and caused the rest to be
+forgotten, sunk for the most part in the shipwreck of
+the past. Let us then, when we come across a scrap
+of the flotsam and jetsam, recognise in it the work of
+a beaten competitor and not of a plagiarist. Indeed,
+the triumph of Christianity was prepared by those
+very men who thought themselves its rivals, but who
+were only its forerunners. The title suits them, though
+many were contemporaries of the Christian era, while
+others were a little later ; for the succession of a religion
+only dates from the day when it is accepted by the
+
+1 The popular Christian solution, Menard should have said.
+
+
+Hosted by
+
+
+Google
+
+
+30 THRICE-GREATEST HERMES
+
+nations, just as the reign of a claimant to the throne
+dates from his victory " (pp. ix., x.).
+
+Menard distinguishes three principal groups in the
+Trismegistic treatises, which he assigns to Jewish, Greek,
+and Egyptian influences. In them also he finds a link
+between Philo and the Gnostics.
+
+"Between the first Gnostic sects and the Hellenic
+Jews represented by Philo, a link is missing ; this can
+be found in several of the Hermetic works, especially
+'The Shepherd of Men' and "The Sermon on the
+Mountain.' In them also will perhaps be found the
+reason of the differences, so often remarked upon,
+between the first three Gospels and the fourth"
+(p. xliv.).
+
+Next, the direction in which that " link " is to be looked
+for is more clearly shown, though here Menard is, I
+think, too precise when writing:
+
+"It seems certain that *The Shepherd' came from
+that school of Therapeuts of Egypt, who have been
+often erroneously confounded with the Essenians of
+Syria and Palestine " (p. Ivi.),
+
+But "instead of the physical discipline of the
+Essenians, who, according to Philo, practised manual
+labour, put the product of their toil into the common
+fund, and reduced philosophy to ethics, and ethics to
+charity, the * monasteries ' of the Therapeuts contri-
+buted to Christian propaganda a far more Hellenised
+population, trained in abstract speculations and mystic
+allegories. From these tendencies, combined with the
+dogma of the incarnation, arose the Gnostic sects.
+* The Shepherd ' should be earlier than these schools "
+(p. Iviii.).
+
+As to "The Sermon on the Mountain," "it can be
+placed, in order of ideas and date, between 'The
+Shepherd ' and the first Gnostic schools ; it should be
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 31
+
+a little earlier than the founders of Gnosticism,
+Basilides, and Valentinus " (p. Ixv.),
+
+If Gnosticism be taken with Menard to mean the
+Christianised theosophy of Basilides and Valentinus
+from the first quarter of the second century onwards,
+the oldest Trismegistic treatises are demonstrably earlier,
+for their Gnosticism is plainly a far simpler form ; in
+fact, so much more simple that, if we could proceed
+on so crude an hypothesis as that of a straight-lined
+evolution, we should be forced to find room for inter-
+mediate forms of Gnosticism between them and the
+Basilidian and the Valentinian Gnosis. And of this
+Menard seems to be partly conscious when writing:
+*' We can follow in the Hermetic books the destiny of
+this Judaeo-Egyptian Gnosis, which, during the first
+century, existed side by side with Christianity without
+allowing itself to be absorbed by it, passing insensibly
+from the Jewish school of Philo to the Greek school
+of Plotinus" (p. Ixvii.).
+
+M&ard here used the term Christianity for that
+tendency which afterwards was called Catholic or
+General Christianity, the body to which these very
+same Gnostics gave the principal dogmas of its sub-
+sequent theology.
+
+But if the Gnostics were Therapeuts, and the Tris-
+megistic writers Therapeuts, why should Menard call
+them Jews, as he appears to do in his interesting
+question, "Where are the Jewish Therapeuts at the
+end of the second century ? " Certainly Philo laboured
+to give his readers the impression that the Therapeuts
+were principally Jews, perhaps to win respect for his
+compatriots in his apology for his nation ; but the Thera-
+peuts were, evidently, on his own showing, drawn from
+all the nations and scattered abroad in very numerous
+communities, though many Jews were doubtless in
+
+
+Hosted by
+
+
+Google
+
+
+32 THRICE-GREATEST HERMES
+
+their ranks — indeed, Philo probably knew little about
+their communities other than the Mareotic. If, then,
+the term "Therapeut" will explain some of the
+phenomena presented by these writings, the combination
+"Jewish Therapeuts" will certainly not do so. The
+very answer of Menard himself to his question shows
+that even these Mareotic Therapeuts could not have
+been orthodox Jews, for the French scholar proceeds to
+surmise not only that, " some, converted to Christianity,
+became monks or Gnostics of the Basilidian or Valen-
+tinian school," but that " others more and more assimi-
+lated themselves to Paganism/'
+
+And by "Paganism" our author says he does not
+mean "polytheism," for "at this period all admitted
+into the divine order of things a well-defined hierarchy
+with a supreme God at the head : only for some this
+supreme Deity was in the world, for others outside it "
+(p. Ixxiv.).
+
+Menard's introduction meets with the general
+approval of Reitzenstein (p. 1), who characterises it as
+feinsinnige, and agrees that he has rightly appreciated
+many of the factors, especially from the theological
+side; he, however (p, 116, n. 2), dissents, and rightly
+dissents, from Menard as to any direct Jewish influence
+on the Trismegistic literature, and refuses to admit that
+the " Poemandres " can in any way be characterised as a
+vTewish-Gnostic writing.
+
+But the sensible views of Menard were impotent to
+check the crystallisation of the German theory, which
+was practically repeated by Zeller,^ and once more by
+
+1 Gesch, d. griech, Philos., III., ii., 225 ff. Zeller, while recognismg
+the Gnostic nature of G. H, i. and G. E, xiii. (xiv.), treats the rest
+of our Corpus as an expression of declining Paganism. So also
+Erdmann {Hist, Fhilos.^ i. 113, 2, Tr.), who deals with our Corpus
+only, and assigns its sermons to diiferent authors and times.
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OP OPINION 33
+
+Pietschmann in his learned essay/ based in part on A.
+G. Hoffmann's article '' Hermes " in Ersch and Gruber's
+Allgemeine Uncyclopddie der Wissenscliaften und Kilnste,^
+An exception to this tendency, however, is to be
+found in the opinion of Aall ; ^ who, though he adduces
+no proof, would on general grounds place the composition
+of the Hermetic literature (though whether or not by
+this he means our extant Trismegistic sermons is not
+clear) as far back as the second century B.C., and
+would see in it an offshoot from the same stem which
+later on supplied the ground - conceptions of the
+Johannine theology.*
+
+English ENCYCLOPiEDisM
+
+In England, as we have seen, the subject, like so many
+others of a similar nature, has been almost entirely
+neglected, but with the encyclopaedic activity of the
+past generation we find it touched upon, and in the
+usual encyclopaedic fashion. The German position is
+assumed, without one word of proof or reference to any,
+as an " acquired fact of science " ! The " last effort of
+expiring Heathendom" theory is trotted out with
+complacency and wdth that impressive air of official
+knowledge which makes the pronouncements of the
+family physician a law unto all its members, from
+baby to father — until the specialist is called in. And
+
+He contends that G. H, xiii. (xiv.) shows a Neo-pythagorean
+tendency, — a term far vaguer than Neo-platonic even.
+
+^ Hermes Trismegistos n. Hgyp-i griech. u. oriental, Uberlieferungen
+(Leipzig, 1875).
+
+2 A laborious article replete with references, but dealing solely
+with the HermeiB-saga and not with our writings.
+
+3 Aall (A.), GescMchte der Logosidee in der Philosophie (Leipzig,
+vol. i. 1896, vol. ii. 1899), ii. 78, n. 4.
+
+^ Of, Reitzenstein, Zwei religionsgeschichtliche Fragen (Strassbuig,
+1901), p. 93, n. 3.
+
+VOL. I. 3
+
+Hosted by VjOOQIC
+
+
+34 THRIOE-GEEATEST HERMES
+
+unfortunately these ex cathedrd encyclopaedic pronounce-
+ments are all the general reader will ever hear. This
+is the case with all those three indifferent articles in our
+current dictionaries of reference.^ We are assured that,
+**as all are generally agreed," the writings are Neo-
+platonic, and this without any qualification or definition
+of the term, and that too in dictionaries where the
+term *' Neoplatonic," in articles on the subject, is
+applied solely to the ** Chain '* from Ammonius Saccas
+and Plotinus onwards. The presumption is plain that
+by Neoplatonic forgeries we are to understand a date of
+at earliest from the middle of the third century
+onwards.
+
+Chambers's Opinion
+
+And this although Justin Martyr (ezV. 150 a.d.)
+bestows emphatic praise on these very same writings
+and classes .their writer, ** Hermes," among the '* most
+ancient philosophers," a point which the German
+theorists and their English copiers have all discreetly
+shirked, but which, together with other considerations,
+has forced Chambers, in the preface to his translation
+(London, 1882), to give quite a new meaning to the
+term Neoplatonist, which he uses of Hermes in his
+title,^ and to declare that our Hermes is entitled *' to
+
+1 Art. " Hermes and Hermes Trismegistus,'^ by L. Schmitz, in
+Smith's Dictionary of Greek and Boman Biography and Mythology
+(London, 1870), a work which is now entirely out of date ; Jowett's
+art., '* Hermes Trismegistus," in the Encyclopcedia Britannica
+(9th ed., London, 1880), repeated in the recent reprint without
+alteration ; and Mozley's art., " Hermes Trismegistus," in Smith
+and Wace's Dictionary of GJiristian Biography (London, 1882);
+bo both of which articles, if not to the works themselves, the above
+remark also applies.
+
+2 The Theological and Philosophical Works of Hermes Trismegistus
+Christian Neoplatonist,
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 35
+
+be considered the real founder of Neoplatonism/'i
+Chambers would still, in spite of Justin's clear testi-
+mony, wedge in the earliest deposit of Trismegistic
+literature immediately between the time of composition
+of the new canonical books and Justin, and devotes
+nearly all his notes to fishing out every verse of the
+New Testament he can which bears the slightest
+resemblance to the Trismegistic text.^ But if we
+closely compare these so-called parallels, we are
+compelled to acknowledge that if there be any
+plagiarism it is not on the side of Hermes ; nay,
+more, it is as plain as it can be that there is no
+verbal plagiarism at all, and that the similarity of
+ideas therefore pertains to quite another problem,
+for the distinctive dogmas of Common Christianity
+are entirely wanting ; there is not a single word
+breathed of the historical Jesus, not a syllable concern-
+ing the nativity, the crucifixion, resurrection, ascension
+or coming of Christ to judgment, as Chambers admits.
+
+German ENCYCLOPiEDisM
+
+Let us now turn to the pronouncements of German
+encyclopsedism on the subject. F. A. Brockhaus*
+Conversations-Lexikon (Leipzig, 1884) does but repeat
+the old hypothesis. The Trismegistic writings are
+*'the last monuments of Heathendom*'; the writer,
+however, grudgingly takes in the date of Justin Martyr
+in the sentence, "presumably the majority of these
+writings belong to the second century," but not a
+word is breathed of how this conclusion is arrived at.
+
+A most valuable article, in fact far and away the
+
+* Of. cit, p. xii.
+
+^ In this repeating de Foix, who attempted the same task more
+tban three hundred years before.
+
+
+Hosted by
+
+
+Google
+
+
+36 THRICE-GREATEST HERMES
+
+very best that has yet been done, containing innumerable
+references to all the articles in the most recent trans-
+actions of learned societies and to the papers in scien-
+tific periodicals, is that of Chr. Scherer on " Hermes,"
+in W. H. Eoscher's Aufilhrliches Lexihon der griecMschen
+%i. romischen Mythologie (Leipzig, 1884, etc.). Un-
+fortunately this article deals solely with the Hermes
+of the Greeks, while for " Hermes Trismegistos " we
+are referred to " Thoth," an article which has not yet
+appeared. This brings our summary of opinions down
+to the close of the last century; we have probably
+omitted reference to some minor opinions, for no up-
+to-date bibliography exists on the subject, but we
+doubt that any work of importance has escaped our
+notice.
+
+A Eecent Article by Granger
+
+The most recent work done in England on the
+subject, in the present century, is an article by Frank
+Granger,^ who, in spite of some useful criticisms and
+suggestions on some points, is nevertheless in the main
+reactionary, and contends for a Christian origin of our
+most important tractates. The scope of his enquiry
+may be seen from his preliminary statement when he
+writes :
+
+" We shall have little difficulty in showing, as against
+Zeller, that the book [? our Corpus, or the first Sermon
+only] is in the main homogeneous and of Christian
+origin. Not only so, our discussion will bring us into
+contact with the later Greek culture as it developed
+amid Egyptian surroundings, and will raise several
+problems of considerable importance. Among other
+
+1 " The Poemandres of Hermes Trismegistus,*' in The Journal
+of Theological Studies, vol. v. No. 19, April 1904 (London).
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 37
+
+things we shall have to trace the way in which Hermes
+passes over into Christian tradition, and how the
+Greek representations of Hermes furnished Christian
+art with one of its earliest motives.^ We shall further
+find in it a bridge by which we may pass over from
+Greek philosophy and science to modes of thought
+which are properly Christian. And yet the writer
+retains so much of the antique spirit that he can
+hardly be mistaken for an apologist of Paganism."
+
+When, however, Granger attempts to prove his case,
+he breaks down utterly, being able to point to little
+besides the popular phrase "increase and multiply/'
+Towards the end of his enquiry, however, he sees that
+the traditional values of many factors will have to be
+altered by a study of our literature, as, for instance,
+when he writes :
+
+"The traditional estimate of Gnosticism, then, re-
+quires to be reconsidered, in the light of the Poemandres.
+It belongs to a time when religious definitions were
+still in the making — a time, therefore, when the
+limits of free discussion were not yet straitly drawn.
+Hence the various permutations of religious belief
+which we find in Irenseus, Hippolytus, Tertullian,
+would not be admitted by their exponents to be in
+conflict with the Christian faith, but would rather be
+regarded as exhibiting new and fruitful applications of
+principles common to all. Ecclesiastical opinion ulti-
+mately settled down in one direction rather than
+another. But until this process was complete, each
+living system of belief might count upon a possible
+victory,^ and so, among others, the system which may
+be traced in the Foemandres. And the Poemandres is
+so far from being a merely heretical production, that
+
+^ Namely, that of the Good Shepherd.
+
+2 This is a reflection of Menard's sensible view.
+
+
+Hosted by
+
+
+Google
+
+
+38 THEICE-GREATEST HERMES
+
+its relation to orthodox belief may fairly be indicated
+by saying that it answers to the earlier intellectual
+position of Clement of Alexandria/' ^
+
+We should say rather that the difficulties in which
+our essayist is evidently involved by his hypothesis of
+Christian origin, would be considerably lessened by
+accepting the evidence on all hands which a more
+extended study of the Trismegistic and allied literatures
+affords, and by treating what he refers to as Gnosticism
+without qualification as the Christianised Gnosis, and
+not as Gnosticised Christianity.
+
+We thus find Granger compelled, in keeping with the
+above, to guess the date of the " Poemandres '' as
+towards the end of the second century ; but even so,
+he feels dissatisfied with himself, for he has to add:
+*' Nor does this date preclude us from finding occasional
+traces of even earlier material."
+
+However we may dissent from Granger's conclusions
+as to the " Poemandres," we agree with him in the
+importance he ascribes to the Gospel according to the
+MgyptianSy in connection with which he writes ^ :
+
+" It is instructive to note that Salome, who plays so
+prominent a part in the Gospel according to the Egyp-
+tians, is the mother of St John,^ and that the same
+Gnostic circles in which this gospel is current were
+also those in which we hear for the first time of the
+Fourth Gospel. That is to say, the Fourth Gospel
+comes to us from the hands of the Alexandrine Gnostics.
+The system of Valentinus is really a somewhat fanci-
+
+1 Ibid.,, p. 406.
+
+2 Ibid,, p. 411.
+
+3 I have never come across this statement before, and so regret
+thafc G. has not given his authority. If such were the tradition,
+it would be exceedingly instructive. Salome, however, in the
+fragments of this Gospel preserved to us, says categorically that
+ahe has never "brought forth."
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 39
+
+fill commentary upon the opening chapters of St John's
+Gospel.^ Heracleon, the first great commentator ^ upon
+St John, was both a Gnostic and at the same time was
+really the master of Origen, and through him helped to
+determine the development of the orthodox theology.
+Now, the key to the interpretation of the Fourth
+Gospel is to be found in the Gnostic ideas which
+underlie the Foemandres, ideas to which Heracleon
+furnishes the clue. But the commentators have refused
+the help which the Gnostics could give, and the Fourth
+Gospel has been consistently misunderstood owing to
+the exaggerated stress which has been laid upon the
+doctrine of the Xoyo^'^
+
+1 am not quite clear what the last sentence is
+intended to mean. Too great stress cannot be laid
+upon the doctrine of the Logos, for it is, as we shall
+show, the fundamental concept of Hellenistic theology ;
+but too great stress can and has been laid upon the
+illegitimate claim that the Proem of the Fourth Gospel
+embodies a peculiarly Christian doctrine.
+
+Moreover, if the Fourth Gospel emerges in Alexan-
+drine circles and is so essentially Gnostic, how can it
+be ascribed, as Granger appears to ascribe it, to " St
+John''? A very different conclusion seems to follow
+from Granger's premisses.
+
+The conclusion of the most recent study by English
+scholarship on our " Poemandres " is as follows :
+
+" The Poemandres, then, is a very striking exponent
+of the religious and philosophical ideas amid which
+
+^ It is not, even if the " opening chapters " be reduced to the
+Proem. Heracleon, one of the disciples of Valentimis, comments
+directly on this Proem, but from the point of view of a quite
+independ en t trad i tion.
+
+2 The first commentator of any kind of which we have any
+knowledge, rather.
+
+
+Hosted by
+
+
+Google
+
+
+40 THRICE-GREATEST HERMES
+
+Alexandrine theology arose. On the one hand it is
+in touch with Greek mythology and science; on the
+other, with Jewish and Christian literature. The
+author is naore sober than most of Ms Gnostic con-
+temporaries; he is a more consistent reasoner than
+Clement." i
+
+But if, as we shall show, the date of the " Pcemandres "
+must be pushed back demonstrably at least a hundred
+years, and if, as is exceedingly probable, it must go
+back still further, the whole problem is changed, and the
+relationship of all the factors alters proportionately.
+
+Eeitzenstein and the Dawn of Right Views
+
+But in the present century, by the publication
+of Eeitzenstein's Poimandres, the whole subject has
+been placed on a different footing and brought into a
+clearer light. Eeitzenstein attacks the problem of the
+Trismegistic writings from an entirely objective, his-
+torical, philological, and literary standpoint. Being
+entirely emancipated from any theological preconcep-
+tions, he is always careful to point out that his
+conclusions are based solely on critical research in the
+domain of philology proper ; he cannot, however,
+refrain at times from adding (somewhat slily) that
+these results are of the deepest interest to the theo-
+logian — indeed, we might say highly embarrassing if
+the theologian happens to be a traditionalist.
+
+The general scope of Eeitzenstein's essay may be
+gathered from his sub-title, " Studies in Greek-Egyptian
+and Early Christian Literature.'' Our Trismegistic
+writings form part of a large number of Greek written
+texts, the remains of a once exceedingly extensive
+Hellenistic theological literature; and by Hellenistic
+1 Ibid,, p. 412.
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION Or OPINION 41
+
+theology is meant the blending of Greek and Oriental
+religious thought and experience. This Hellenistic
+theology was most strongly influenced by Egyptian
+conceptions and traditions. The Egyptian religion is
+known to have spread itself over the Hellenistic world,
+and every scholar will at once recall to mind how
+many Greek writers have treated expressly of the
+Egyptian religion, and how many passages in Greek
+literature refer to Egyptian beliefs, as compared with
+the very few which treat of Babylonian, Persian, or
+even Syrian.
+
+Nevertheless, the remains of this Hellenistic theo-
+logical literature have never been treated as a whole
+from the point of view of philology ; the cause of this
+has been the entire disregard of the subject by Chris-
+tian theologians, coupled with the grotesque grounds
+on which the consideration of the Hellenistic-Egyptian
+religion is usually set aside — one famous theologian
+lately going so far as to assert that the Egyptian
+worship was despised on all sides, both by Jews and
+Greeks, as the lowest depth of human superstition.
+
+As then Egypt had a provably dominant position
+in Hellenistic literature, so also must she have had
+in some sort a correspondingly strong influence on
+Hellenistic culture, and consequently on the develop-
+ment of Hellenistic religious experience. The evidence
+of this is afforded by the Early Christian literature.
+
+We have, therefore, here in these Greek-Egyptian
+and Early Christian documents the possibility of
+methodical work, seeing that it is a question of the
+comparative study of two contemporaneous literatures ;
+moreover, the language and typology of the Christian
+literature is bound to betray traces of the general
+Hellenistic theology of the time (pp. v., vi.).
+
+The study of Eeitzenstein is thus a consideration of
+
+
+Hosted by
+
+
+Google
+
+
+42 THRICE-GREATEST HERMES
+
+our Trismegistic literature as a whole, and the analysis
+and comparison of two of the most typical sermons with
+other Hellenistic documents and with Early Christian
+writings.
+
+This he does with praiseworthy and painstaking
+industry, with great acumen and admirable scholarly
+equipment; but his work is of no service to any but
+scholars, and that, too, to scholars who are specialists.
+It is a work bristling with technicalities of every
+description, and crammed with untranslated texts. In-
+deed, Eeitzenstein belongs to that school of philological
+purists who think it a loss of dignity to translate
+anything ; this is a very convenient convention, and I
+myself have often wished that I could have availed
+myself of it when face to face with innumerable diffi-
+culties of translation.
+
+Eeitzenstein, then, translates nothing, but busies
+himself with texts and the higher criticism of the
+subject. He, however, does not give us the text of
+our literature as a whole, or even of the Corpus
+Hermeticum, but only of four chapters and the frag-
+ments of a fifth. Moreover, the results of his in-
+vestigations are very difficult to summarise; indeed,
+be nowhere summarises them himself in any certain
+fashion, his chapters being on the whole of the nature
+of studies in the Trismegistic literature rather than a
+complete exposition.
+
+Nevertheless these studies are, beyond comparison, the
+most important and suggestive work that has yet been
+done on the subject ; and as I shall avail myself of his
+labours on so many occasions in the sequel, I cannot
+refrain from acknowledging here the special debt of
+gratitude which all lovers of our sermons must feel to
+him, for compelling the attention of scholars to the
+first importance of the Trismegistic literature in the
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OF THE EVOLUTION OF OPINION 43
+
+domain of the history of the development of religious
+thought in the first centuries.
+
+The general scope of his studies will be seen from
+the titles of the main chapters : — I. Age of the " Poi-
+mandres " ; by '' Poimandres " R means G. H., i. only.
+II. Analysis of the *' Poimandres " ; III. Fundamental
+Conception of the " Poimandres *' ; IV. *' Poimandres *
+and the Egyptian Apocalyptic Literature ; V. Expansion
+of the Hermetic Literature ; VL The Hermetic Corpus ;
+"VII. The Later " Poimandres" Document (The Prophet-
+Initiation).
+
+The theory of plagiarism from Christianity must for
+ever be abandoned. The whole literature is based on
+the "Poemandres" as its original gospel, and the
+original form of this scripture must be placed at least
+prior to the second century A.D. How much earlier it
+goes back we cannot at present say with any exactitude ;
+before the beginning of the second century is the
+terminus ad qiiem — that is to say it cannot possibly
+be later than this; to seek, therefore, for traditional
+Christian thoughts in this document is henceforth
+deprived of any prospect of success (p. 36).
+
+Eeitzenstein tells us (p. 2) that these writings in the
+first place interested him solely through their literary
+form, but that this interest became deepened as he
+gradually learned to value them as important records of
+that powerful religious movement which, like a flood,
+overflowed the West from the East, and, after preparing
+the way for Christianity, subsequently bore it along
+with it ; the best and surest evidence of this religious
+revival is to be found in the literary form of Hellenistic
+theology.
+
+This in itself is of interest enough and to spare ; and
+at a time when every scrap of contemporary literature
+is being so eagerly scanned for the smallest side-light it
+
+
+Hosted by
+
+
+Google
+
+
+44 THRICE-GREATEST HERMES
+
+can throw on the environment and development of
+Christian origins, it is amazing that the Trismegistic
+writings should have been hitherto so studiously
+neglected.
+
+A Key to Egypt's Wisdom
+
+But there is another and still more profoundly
+interesting side of the subject which we cannot expect
+to find treated in a purely philological, technical, and
+critical treatise. The more one studies the best of
+these mystical sermons, casting aside all prejudice,
+and trying to feel and think with the writers, the nearer
+one is conscious of approaching the threshold of what
+may well be believed to have been the true Adytum of
+the best in the mystery-traditions of antiquity. In-
+numerable are the hints of the greatnesses and
+immensities lying beyond that threshold — among other
+precious things the vision of the key to Egypt's wisdom,
+the interpretation of apocalypsis by the light of the
+sun-clear epopteia of the intelligible cosmos.
+
+Such greatnesses and such mysteries have a power
+and beauty which the most disreputable tradition of
+the texts through unknowing hands cannot wholly
+disguise, and they are still recognisable, even though
+thus clad in the rags of their once fair garments, by
+those who have eyes to see and ears to hear.
+
+But to return to the points we raised in the opening
+of this chapter.
+
+The Suggested Answees to our Questions
+
+If we now re-state the problems we are considering
+in the interrogative form, we shall have to find answers
+to the following questions :
+
+Why did the early Church Fathers accept the Trie-
+
+
+Hosted by
+
+
+Google
+
+
+HISTORY OP THE EVOLUTION OP OPINION 45
+
+megistic writings as exceedingly ancient and authorita-
+tive, and in their apologetic writings quote them in
+support of the main impersonal dogmas of Christianity ?
+
+Why, in the revival of learning, for upwards of a
+century and a half did all the Humanists welcome them
+with open arms as a most valuable adjunct to Chris-
+tianity, and as being in accord with its main doctrines,
+so much so that they laboured to substitute Trismegistus
+for Aristotle in the schools ?
+
+Finally, why during the last two centuries and a
+half has a body of opinion been gradually evolved,
+infinitesimal in its beginnings, but well-nigh shutting
+out every other view, that these writings are Neo-
+platonic forgeries ?
+
+The answers to these questions are simple: — The
+Church Fathers appealed to the authority of antiquity
+and to a tradition that had never been called in question,
+in order to show that they taught nothing funda-
+mentally new — that, in brief, they taught on main points
+what Hermes had taught. They lived in days too
+proximate to that tradition to have ventured on bring-
+ing any charge of plagiarism and forgery against it
+without exposing themselves to a crushing rejoinder
+from men who were still the hearers of its "living
+voice'* and possessors of its *' written word."
+
+The scholars of the Eenaissance naturally followed
+the unvarying tradition of antiquity, confirmed by the
+Fathers of the Church.
+
+Gradually, however, it was perceived that, if the old
+tradition were accepted, the fundamental originality
+of general Christian doctrines — that is to say, the
+philosophical basis of the Faith, as apart from the
+historical dogmas peculiar to it — could no longer be
+maintained. It, therefore, became imperatively neces-
+sary to discredit the ancient tradition by every possible
+
+
+Hosted by
+
+
+Google
+
+
+46 THRICE-GREATEST HERMES
+
+means. With what success this policy has been
+attended we have already seen ; we have also reviewed
+this growth of opinion, and shown its baseless character
+and the straits to which its defenders have been put.
+
+From the clouds of this obscurantism the sun of
+Thrice-greatest Hermes and the radiance of his Gnosis
+have once more shone forth in the skies of humanistic
+enquiry and unprejudiced research. He is no longer to
+be called bastard, and plagiarist, and thief of other
+people's property, but must be regarded as a genuine
+teacher of men, handing on his own, and giving freely
+of his substance to all who will receive the gift.
+
+
+Hosted by
+
+
+Google
+
+
+Ill
+
+THOTH THE MASTEE OF WISDOM
+
+Thoth (Tehuti)
+
+The present chapter will be devoted to a brief considera-
+tion of the nature, powers, and attributes of the divine
+personification Thoth (Tebuti), the Master of Wisdom
+and Truth, on the ground of pure Egyptian tradition.
+As I have unfortunately no sufficient knowledge of
+Egyptian, I am not in a position to control by the texts
+the information which will be set before the reader ;
+it will, however, be derived from the works of specialists,
+and mainly from the most recent study on the subject,
+the two sumptuous volumes of Dr E. A. Wallis Budge,
+the keeper of the Egyptian and Assyrian antiquities in
+the British Museum.
+
+First of all, however, let us see what the German
+scholar Pietschmann has had to say on Thoth in his
+monograph specially devoted to Thrice-greatest Hermes
+according to Egyptian, Greek, and Oriental traditions.^
+
+The first part of Pietschmann's treatise, in which he
+seems to be content, as far as his own taste and feeling
+are concerned, to trace the original of the grandiose
+concept of the Thrice-greatest to the naive conception
+of an "ibis-headed moon-god," is devoted to the con-
+sideration of what he calls the god Te;(;-Te]:iuti among
+
+1 Hermes Trismegistos, nach agypHschen, griechischen und oriental-
+ischen tlherlieferungen (Leipzig, 1875),
+
+47
+
+Hosted by VjOOQIC
+
+
+48 THRICE-GREATEST HERMES
+
+the Egyptians. Why Pietschmann should have chosen
+this double form of the name for his sub-title is not
+very clear. The variants appear to be Teh, Tetiu, Te^iut,
+and Te^iuti — of which it would seem that the Greek
+form Thoth is an attempt to transliterate Teiiut. There
+are, however, it may be remarked, no less than eighteen
+variants of the name found in Greek and Latin. I
+should thus myself be inclined to use the form Tebut
+if it were permissible ; but of this I am not quite sure,
+as the weak-sounding though undoubtedly more common
+form Tehuti, is usually employed by scholars. As,
+however, Tehuti, to my ears at any rate, is not a very
+dignified sounding cognomen, I shall use the Greek
+form Thoth as being the more familiar to English
+readers.
+
+Thoth accoeding to Pietschmann
+
+HorapoUo tells us that the ibis was the symbol of
+Thoth as the " master of the heart and reason in all
+men,"^ though why this was so must remain hidden
+in the mystery of the " sacred animals," which has not
+yet to my knowledge been in any way explained.
+
+And as Thoth, the Logos, was in the hearts of all,
+so was he the heart of the world whose life directed
+and permeated all things.^
+
+Thus the temple, as the dwelling ^of the God, was
+regarded as a model of the world, and its building as
+a copy of the world-building. And just as Thoth had
+ordained measure, number, and order in the universe,
+so was he the master-architect of temple-building
+and of all the mystic monuments. Thus, as the or-
+dering world-mind, a text addresses Thoth as follows :
+
+^ irdcTTjs Kapdlas Kal XoyicrfjLOV ^cffTrdrTjSj p. 40, ed, Leemans.
+2 Der Gott, ^^ der in pantheistischer Anschauungsweise die ganze
+Welt helehrend durchdrang" writes Pietschmann, p. 14.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 49
+
+" Thou art the great, the only God, the Soul of the
+Becoming." ^
+
+To aid him in the world Thoth has a spouse, or
+syzygy, ISTehe-maut. She is, among the Gnostics, the
+Sophia-aspect of ilie Logos. She is presumably the
+JSTature of our Trismegistic treatises. Together Thoth
+and Nehe-maut are the initiators of all order, rule, and
+law in the universe.
+
+Thus Thoth is especially the representative of the
+Spirit, the Inner Keason of all things ; he is the
+Protector of all earthly laws, and every regulation of
+human society .^ Says a text :
+
+" His law is firmly established, like that of Thoth." ^
+
+As representative of the Eeason immanent in the
+world, Thoth is the mediator through whom the world
+is brought into manifestation. He is the Tongue of
+Ea, the Herald of the Will of Ea,^ and the Lord of
+Sacred Speech.^
+
+"What emanates from the opening of his mouth,
+that Cometh to pass ; he speaks, and it is his command ;
+he is the Source of Speech, the Vehicle of Knowledge,
+the Eevoaler of the Hidden/'^
+
+^ Pleyte, Zeitschrifi fur Ugyptische Sprache und Altei'thumskunde,
+1867, 10. Tlie text is taken from a papyrus in the Leyden Musenm.
+
+2 See Pietschmann, p. 16.
+
+3 From an ostrakon in the Louvre, De Horrack, Zeitschrifi fiir
+a S. u. A., 1868, 2. And again at Denderah, the King is said
+to ** establish the laws like Thoth the twice-great one." See
+Dtimichen, ibid., 1867, 74.
+
+4 Lepsius, Erster GoUerhreis, Taf. 1, 2. Text S. 181.
+
+^ Brugsch, IVorterhuch, 803, and many other references.
+
+^ For a long list of references, see Pietschmann in loco. I have
+so far cited some of these references to show that the statements
+of Pietschmann are based upon very ample authority. In what
+follows, however, these references may be omitted as they are not
+owing to my own industry, and the scholar can obtain them from
+Pietschmann's book for himself.
+
+VOL. I. 4
+
+Hosted by VjOOQIC
+
+
+50 THRICE-GREATEST HERMES
+
+Thoth is thus the God of writing and all the arts and
+sciences. On a monument of Seti I. he is called " Scribe
+of the nine Gods." He writes " the truth of the nine Gods,"
+and is called " Scribe of the King of Gods and men."
+
+Hence he is naturally inventor of the hieroglyphics,
+and patron and protector of all temple-archives and
+libraries, and of all scribes. At the entrance of one
+of the halls of the Memnonium at Thebes, the famous
+" Library of Osymandias," called " The great House of
+Life," we find Thoth as "Lord in the Hall of Books." ^
+
+In the Ebers papyrus we read : " His guide is Thoth,
+who bestows on him the gifts of his speech, who makes
+the books, and illumines those who are learned therein,
+and the physicians who follow him, that they may
+work cures."
+
+We shall see that one of the classes of priests was
+devoted to the healing of the body, just as another
+was devoted to the healing of the soul.
+
+These books are also called " The Great Gnoses of
+Thoth." 2 Thoth was thus God of medicine, but not so
+much by drugs as by means of mesmeric methods and
+certain '* magic formulae." Thus he is addressed as
+" Thoth, Lord of Heaven, who givest all life, all health." "
+
+The Three Grades of the Egyptian Mysteries
+
+Moreover, Thoth was also Lord of Eebirth : ^ " Thou
+hast given life in the Land of the Living ; Thou hast
+
+^ Op. cit, p. 16.
+
+2 Compare this title, die grossen ErJcentnisse des Tehuti^ with
+the Coptic Codex Brucianus — Voici le livre des gnoses de V Invis-
+ible divin" Amelineau, Notice sur le Papyrus gnostique Bruce, p.
+83 (Paris, 1891). See also Carl Schmidt, Gnostische Schriften
+in koptischer Sprache aus dem Godex Brucianus (Leipzig, 1892).
+
+3 Op. cit, p. 20.
+
+* Herr der Metempsychose (Lord of Palingenesis), says
+Pietschmann, p. 23.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 51
+
+made them live in the Eegion of Flames; Thou hast
+given respect of thy counsels in the breasts and in
+the hearts of men — mortals, intelligences, creatures
+of light."
+
+The Land of the Living was the Invisible World, a
+glorious Land of Light and Life for the seers of ancient
+Egypt. Mortals, Intelligences, Creatures of Light,
+were, says Pietschmann, the " three grades of the
+Egyptian mysteries." ^ These grades were, one may
+assume from our treatises: (1) Mortals — probationary
+pupils who were instructed in the doctrine, but who
+had not yet realised the inner vision ; (2) Intelligences
+— those who had done so and had become " men," that
+is to say who had received the *' Mind " ; (3) Beings (or
+Sons) of Light — those who had become one with the
+Light, that is to say those who had reached the nirvdnic
+3onsciousness.
+
+So much for what Pietschmann can be made to tell
+us of Thoth as Wisdom-God among the Egyptians.
+
+Thoth according to Eeitzenstein
+
+To the information in Pietschmann may be added that
+^hich is given by Reitzenstein in the second of his two
+.mportant studies, Zwei religionsgescMchtliche Frageri
+lach ibQigedruchten Texten der StrasshuvgeT Bihliotheh
+Strassburg, 1901). This second study deals with
+' Creation-myths and the Logos-doctrine," the special
+>eation-myths treated of being found in a hitherto
+mpublished Greek text, which hands on purely
+Egyptian ideas in Greek dress and with Greek god-
+lames, and which is of great interest and importance
+!or the general subject of which our present studies
+orm part.
+
+^ pp. at., p. 24 n.
+
+
+Hosted by
+
+
+Google
+
+
+52 THRICE-GREATEST HERMES
+
+The writer of this cosmogonical fragment was a
+priest or prophet of Hermes, and Hermes plays the
+most important part in the creation-story. Eeitzenstein
+^ then proceeds to show that in the oldest Egyptian
+cosmogony the cosmos is brought into being through the
+Divine Word, which Thoth, who seems to have origi-
+nally been equated with the Sun-god, speaks forth.
+This gives him the opportunity of setting down the
+attributes ascribed to Thoth in Egypt in pre-Greek
+times.^ As, however, the same ground is covered more
+fully by Budge, we will now turn to his Gods of the
+Egyptians^ or Studies in Egyptian Mythology (London,
+1904), vol. i. pp. 400 ff., and lay under contribution the
+chapter entitled "Thoth (Tehuti) and Maat, and the
+other Goddesses who were associated with him," as the
+most recent work on the subject by a specialist in
+Egyptological studies, whose opinions, it is true, may
+doubtless on many points be called into question by
+other specialists, but whose data must be accepted by
+the layman as based on prolonged first-hand study of
+the original texts. In using the material supplied by
+Dr Budge, however, I shall venture on setting it forth
+as it appears to me — that is to say, with the ideas
+awakened in my own mind by the study of his facts.
+
+Thoth according to Budge
+
+., In the Hymns to Ea in the Eitual or Book of the Dead,
+f^and in works of a similar nature, we find that Thoth
+and Maat stand one on either side of the Great God in
+his Boat, and that their existence was believed to be
+coeval with his own. Maat is thus seen to be the
+feminine counterpart, syzygy or shakti, of Thoth, and
+her name is associated with the idea of Truth and
+1 0^. cU,, pp. 71 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 53
+
+Eighfceousness — that which is right, true, real, genuine,
+upright, righteous, just, steadfast, unalterable.
+
+
+His Deific Titles
+
+From the inscriptions of the later dynastic period,
+moreover, we learn that Thoth was called "Lord of
+Khemennu (Hermopolis), Self-created, to whom none,,
+hath given birth, God One." He is the great Measurer,
+t^§_LQgps^ '' He who reckons in Heaven, the Counter
+of the Stars, the Enumerator of the Earth and of what
+is therein, and the Measurer of the Earth."
+
+He is the " Heart of Ra which cometh forth in the
+form of the God Thoth."
+
+As Lord of Hermopolis, where was his chief shrine,
+and of his temples in other cities, he was called " Lord
+of Divine Words," " Lord of Maat," '' Judge of the two
+Combatant Gods " — that is, of Horus and Set. Among
+other titles we find him called "Twice-great," and
+"Thrice-great." "From this last," says Budge, "were
+derived the epithets ' Trismegistus ' and ' Termaximus '
+of the classical writers." We, however, doubt if this is
+so, and prefer the explanation of Griffith, as we shall
+see later on.
+
+In addition to these deific titles, which identify him
+with the Logos in the highest meaning of the term, he
+was also regarded as the Inventor and God of all arts
+and sciences ; he was " Lord of Books," " Scribe of the
+Gods," and "Mighty in speech" — that is to say, "his
+words took effect," says Budge ; his was the power of
+the "Spoken Word," the Word whose language is
+action and realisation. He was said to be the author
+of many rf the sn-callpd "funeral works'' by means of
+which the "deceased" gained everlasting lite. These
+books were, however, rather in their origin sermons of
+
+
+Hosted by
+
+
+Google
+
+
+54 THRICE-GREATBST HERMES
+
+initiation for living men, setting forth the "death
+unto sin and the new birth unto righteousness." Thus
+in the Book of the Dead he plays a part to which are
+assigned pQwers greater than those of Osiris or even of
+Ea himself.
+
+His Symbols and Name
+
+He is usually depicted in human form with the head of
+an ibis, or sometimes as an ibis ; but why he is so
+symbolised remains a mystery even unto this day. It
+is also of little purpose to set down the emblems he
+carries, or the various crowns he wears, without some
+notion of what these hidden symbols of a lost wisdom
+may purport. The meanings of these sacred signs
+were clear enough, we may believe, to those who were
+initiated into the ^' Language of the Word " ; to them
+they revealed the mystery, while for the profane they
+veiled and still veil their true significance.
+
+Tehuti, the Egyptian name of Thoth, it has been
+suggested, is to be derived from telm^ the supposed
+oldest name of the ibis in Egypt; the termination ii
+thus signifying that he who was thus called possessed
+the powers and qualities of the ibis.
+
+But if this is the true derivation, seeing that Tehuti
+in his highest aspect is a synonym for the Logos of
+our system at the very least, I would suggest that we
+should rather exalt the " ibis " to the heavens than drag
+down the sublime concept of that Logos to considera-
+tions connected with a degenerate fowl of earth, and
+believe that the Egyptians chose it in wisdom rather
+than folly, as being some far-off reflection of a certain
+Great Bird of the Cosmic Depths, a member of that
+circle of Sacred Animals of which the now conventional
+Signs of the Zodiac are but faint sky-glyphs.
+
+But the derivation of the name Teliuti which seems
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 55
+
+to have been favoured by the Egyptians themselves was
+from tekh, which usually means a " weight," but is also
+found as the name of Thoth himself. Now the determina-
+tive for the word tekh is the sign for the "heart";
+moreover, Horapollo (i. 36) tells us that when the
+Egyptians wish to write "heart" they draw an ibis,
+adding, ** for this bird was dedicated to Hermes (Thoth)
+as Lord of all Knowledge and Understanding." Is it
+possible, however, that in this Horapollo was either
+mistaken or has said less than he knew ; and that the
+Egyptians once wrote simply '* heart " for Thoth, who
+presided over the " weighing of the heart," but subse-
+quently, in their love of mystery, and owing to the
+name-play, substituted the bird tekh or teknUi which
+we know closely resembled the ibis, for the more
+sacred symbol ?
+
+The now commonest name for Thoth, however, is Egy.
+hah, Copt, hihoi, Gk. His ; and it is the white ibis {AbH
+Hannes) which is the Ihis religiosa^ so say Liddell and
+Scott. Another of the commonest symbolic forms of
+Thoth is the dog-headed ape. Thus among birds he is
+glyphed as the ibis, among animals as the cynocephalus.
+The main apparent reason for this, as we shall see
+later on, is because the ibis was regarded as the wisest
+of birds, and the ape of animals.^
+
+In the Judgment Scene of the Book of the Dead the
+dog-headed ape (Aan) is seated on the top of the beam
+of the Balance in which the heart of the deceased is
+weighed ; his duty apparently is to watch the pointer
+and tell his master Thoth when the beam is level.
+Brugsch has suggested that this ape is a form of Thoth
+
+1 And this is the case with the latter even to-day, where in the
+Sudan the natives " believe that its intelligence is of the highest
+order, and that its cunning is far superior to that of man.'' (Op.
+cit., i. 21.)
+
+
+Hosted by
+
+
+Google
+
+
+56 THRICE-GREATEST HERMES
+
+as God of " equilibrium/' and that it elsewhere sym-
+bolises the equinoxes; but this does not explain the
+ape. Thoth is indeed, as we have seen, the Balancer —
+" Judge of the two Combatant Gods," ^ Horus and Set ;
+he it is who stands at the meeting of the Two Ways, at
+the junction of Order and Chaos; but this by no
+means explains the puzzling cynocephalus. It was
+in one sense presumably connected with a certain state
+of consciousness, a reflection of the true Mind, just as
+were the lion and the eagle (or hawk) ; it *' mimicked "
+that Mind better than the rest of the " animals/*
+
+Horapollo (i. 16), basing himself on some Hellenistic
+sources, tells us that the Egyptians symbolised the
+equinoxes by a sitting cynocephalus. One of the reasons
+which he gives for this is delightfully " Physiologic " ;
+he tells us that at the equinoxes once every two hours,
+or twelve times a day, the cynocephalus micturates.^
+From this as from so many of such tales we learn what
+the " sacred animal " did in heaven, rather than what
+the physical ape performed on earth. (Cf, E. 265, n. 3.)
+
+The Shkine of Thoth
+
+*' The principal seat of the Thoth-cult was Khemennu,
+or Hermopolis, a city famous in Egyptian mythology
+as the place containing the "high ground on which
+Ea rested when he rose for the first time."
+
+Dare I here speculate that in this we have the
+mountain of our " Secret Sermon on the Mountain,"
+
+1 This is one of the most interesting of his titles: "Judge of
+the Reliehui, the Pacifier of the Gods, who dwelleth in Unnu "
+(Hermopolis). (Op. cit.^ i. 405.)
+
+2 This must have been the mystery folk-tale circulated by the
+priests, for Marius Victorinus repeats it (Halm, Ehet, Lat, Min.,
+p. 223), and it is preserved in the Physiologos (xlv. p. 275 —
+Lauchert).
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 57
+
+and that it was in the Thoth mystery-tradition of
+Hermopolis that the candidates for initiation were
+taught to ascend the mountain of their own inner
+natures, on the top of which the Spiritual Sun would
+rise and rest upon their heads " for the first time," as
+Isis says in our " Virgin of the World " treatise ?
+
+Thoth and His Company of Eight
+
+At Khemennu ^ Thoth was regarded as the head of a
+Company of Eight — four pairs of divinities or divine
+powers, each a syzygy of male and female powers,
+positive and negative, active and passive, the oldest
+example of the Gnostic Ogdoad.
+
+This was long ago the view of Brugsch, and it is
+now strongly supported by Budge, on the evidence of
+the texts, as against the opinion of Maspero, who
+would make the Hermopolitan a copy of the Heliopolitan
+Paut, or Company, which included Osiris and Isis.
+Budge, however, squarely declares that "the four
+pairs of gods of Hermopolis belong to a far older
+conception of the theogony than that of the company
+of gods of Heliopolis/'
+
+If this judgment is well founded, we have here a
+most interesting parallel in the Osirian type of our
+Trismegistic literature, in which Osiris and Isis look to
+Hermes (Thoth) as their teacher, as being far older
+and wiser than themselves.
+
+The great struggle between Light and Darkness,
+of the God of Light and the God of Darkness, goes
+back to the earliest Egyptian tradition, and the fights
+of Ra and Apep, Heru-Behutet and Set, and Horus,
+son of Isis, and Set, are *Mn reality only different
+versions of one and the same story, though belonging
+
+1 Which means " City of the Eight [Gods ]." {Op, cit, i. 113.)
+
+
+Hosted by
+
+
+Google
+
+
+58 THRICE-GREATEST HERMES
+
+to different periods." The Horus and Set version is
+apparently the most recent. The names of the Light
+God and Dark God thus change, but what does not
+change is the name of the Arbiter, the Mediator,
+" whose duty it was to prevent either God from gaining
+a decisive victory, and from destroying one another."
+This Balancer was Thoth, who had to keep the opposites
+In equilibrium.
+
+^^'l/^'k '"k^ The House of the Net
+
+The name of the Temple of Thoth at Khemennu, or
+the City of Eight, was Het Abtit, or " House of the
+Net" — a very curious expression. From Ch. ciiii of
+the Eitual, however, we learn that there was a mysterious
+Net which, as Budge says, " was supposed to exist in
+the Under World and that the deceased regarded it
+with horror and detestation. Every part of it — its poles,
+and ropes, and weights, and small cords, and hooks — had
+names which he was obliged to learn if he wished to
+escape from it, and make use of it to catch food for
+himself, instead of being caught by * those who laid
+snares.' "
+
+Interpreting this from the mystical standpoint of
+the doctrine of Eebirth, or the rising from the dead —
+that is to say, of the spiritual resurrection of those
+who had died to the darkness of their lower natures
+and had become alive to the light of the spiritual
+life, and this too while alive in the body and not
+after the death of this physical frame — I would
+venture to suggest that this Net was the symbol of a
+certain condition of the inner nature which shut in
+the man into the limitations of the conventional life of
+the world, and shut him off from the memory of his true
+self. The poles, ropes, weights, small cords, and hooks
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 59
+
+were symbols of the anatomy and physiology, so to say,
+of the invisible "body" or "carapace'' or ''egg" or
+" envelope " of the soul. The normal man was emeshed
+in this engine of Fate; the man who received the
+Mind inverted this Net, so to speak, transmuted and
+transformed it, so that he could catch food for himself.
+"Come ye after me and I will make you fishers of
+men." The food with which the " Christ " nourishes his
+" body " is supplied by men.
+
+Thus in a prayer in this chapter of the Eitual we
+read: "Hail, thou *God who lookest behind thee,'^
+thou *God who hast gained the mastery over thine
+heart,' ^ I go a-fishing with the cordage [? net] of the
+' Uniter of the earth,' and of him that maketh a way
+through the earth.^ Hail ye Fishers who have given
+birth to your own fathers,^ who lay snares with your
+nets, and who go round about in the chambers of the
+waters, take ye not me in the net wherewith ye ensnare
+the helpless fiends, and rope me not in with the rope
+wherewith ye roped in the abominable fiends of earth,
+which had a frame which reached unto heaven, and
+weighted parts that rested upon earth." ^
+
+1 Perhaps suggesting two-faced or Janus-hke — before and be-
+hind, without and within. With this, however, may be compared
+the symboHc headdress or mask worn by the virgin Kore
+(Proserpina) in tlie Eleusinian Mysteries ; she had, Athena-
+goras (xx. 292) tells us, " two ordinary eyes, and two in her fore-
+head, with her face at the back of her neck."
+
+2 Suggesting Thoth.
+
+3 Suggesting the powder of him who can either wrap the Net
+round the man or open it in a new direction, so that the man can
+*'pass right through his body," as Hermes says to Tat in one
+of our Sermons.
+
+* Suggesting " Chriists " who have given birth to their Father, the
+Mind, in their hearts.
+
+^ The fiends of a once mighty frame suggest beings of a dai-
+monic nature. Perhaps ther^^ is a formal distinction intended
+
+
+Hosted by
+
+
+Google
+
+
+60 THRICE-GREATEST HERMES
+
+And in another chapter (cxxxiii.) the little man says
+to the G-reat Man within him : '' Lift thyself up, thou
+Ea, who dwellest in this divine shrine ; draw thou unto
+thyself the winds, inhale the North wind, and swallow
+thou the ieqem of thy net on the day wherein thou
+breathest Maat."
+
+" On the day wherein thou breathest Maat " suggests
+the inbreathing or inspiration of Truth and Eighteous-
+ness, the Holy Ghost, or Holy Breath or Life, the
+Spouse of the Ordering Mind or Logos. The winds
+are presumably the four great cosmic currents of the
+Divine Breath, the North wind being the ''down-
+breath " of the Great Sphere.
+
+The term heqesu has not yet been deciphered (can it
+mean knots ?) ; but the swallowing of the Net seems to
+suggest the transformation of it, inwardly digesting of
+it, in such a fashion that the lower is set free and
+becomes one with the higher.
+
+And that this idea of a net is very ancient,
+especially in its macrocosmic significance, is evidenced
+by the parallel of the Assyrian and Babylonian
+versions of the great fight between the Sun-god Mar-
+duk and the Chaotic Mother Tiamat and her titanic
+and daimonic powers of disordered motion and in-
+stability—both Egyptian and Babylonian traditions
+probably being derived from some primitive common
+source.
+
+"He (Marduk) set lightning in front of him, with
+burning fire he filled his body. He made a net to en-
+close the inward parts of Tiamat, the Four Winds he set
+so that nothing of her might escape ; the South wind
+and the North wind, and the East wind and the West
+
+by the epithet "helpless" and "abominable," corresponding
+with the rational and irrational aspects of the soul as set forth in
+our sermons.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 61
+
+wind, he brought near to the net which his father Ann
+had given him." ^
+
+Now in the Hymns of the popular Hermes-cult found
+in the Greek Magic Papyri, one of the most favourite
+forms of address to Hermes is "0 thou of the four
+winds." Moreover, we may compare with the rope with
+which the Fishers "rope the abominable fiends of
+earth," the passage of Athenagoras to which we have
+already referred, and in which he tells us concerning
+the Mysteries that the mythos ran that Zeus, after
+dismembering his father, and taking the kingdom, pur-
+sued his mother Ehea who refused his nuptials. '' But
+she having assumed a serpent form, he also assumed the
+same form, and having bound her with what is called
+the 'Noose of Hercules' (rw /caXov/xei/w'H/oa/cXeicori/cw
+ajj.jj.aTL), was joined with her. And the symbol of this
+transformation is the Eod of Hermes/'
+
+Here again it is the symbolic Caduceus that repre-
+sents the equiliFriiim between the opposed forces ; it
+is^tlie power of Thoth that binds and loosens ; he holds
+the keys of heaven and hell, of life and death. It is
+further quite evident that Athenagoras is referring to
+a Hellenistic form of the Mysteries, in which the
+influence of Egypt is dominant. The " Noose of Her-
+cules " is thus presumably the " Noose of Ptah." Now
+Ptah is the creator and generator, and his " Noose " or
+" Tie " is probably the Ankh-tie or symbol of life, the
+familiar cmx ansata, of which the older form is
+a twisted rope, probably representing the binding
+together of male and female life in generation. Ptah
+is also the God of Fire, and we should not forget that it
+is Hephaistos in Greek myth who catches Aphrodite and
+Ares in a Net which he has cunningly contrived — at
+which the gods laughed in High Olympus.
+
+1 King (L. W.), Babylonian Eeligion, p.-71.
+
+
+Hosted by
+
+
+Google
+
+
+62 THRICE-GREATEST HERMES
+
+In the list of titles of the numerous works belonging
+to the cycle of Orphic literature, one is called The Veil
+(JUifKo^) and another The Net {AIktvov)}
+
+In the Panathensea the famous Peplum, Veil, Web,
+or Eobe of Athena, the Goddess of Wisdom, was borne
+aloft like the sail of a galley ; but this was the symbol
+only of the Mysteries, Mystically it signified the
+Veil of the Universe, studded with stars, the many-
+coloured Veil of Nature,^ the famous Veil or Eobe of
+Isis, that no " mortal '' or '' dead man '' has raised, for
+that Veil was the spiritual nature of the man himself,
+and to raise it he had to transcend the limits of
+individuality, break the bonds of death, and so become
+consciously immortal.
+
+Eschenbach ^ is thus quite correct when, in another
+of its aspects, he refers this Veil to the famous Net of
+Vulcan. Moreover Aristotle, quoting the Orphic writ-
+ings, speaks of the " living creature born in the webs
+of the Net " ; ^ while Photius tells us that the book of
+Dionysius ^Egeensis, entitled Netting, or Concerning Nets
+(AiKTvaKa), treated of the generation of mortals.^
+And Plato himself likens the intertwining of the nerves,
+veins, and arteries to the " network of a basket '' or a
+bjlrd-cage.^
+
+All of which, I think, shows that Thoth's Temple of
+the Net must have had some more profound significance
+in its name than that it was a building in which
+"the emblem of a net, or perhaps a net itself, was
+venerated,'' as Budge lamely surmises.
+
+1 See my Orpheus (London, 1896), pp. 39 and 44 ff.
+
+2 Of, Philo, De Som., i. (v. 92— Pfeiff}— rb tra^iroiKiKoy t,4>a<TtJL<x.
+rovrovl rhv KScfxoy.
+
+3 Eschenbach (A. C), Epigems de Foesi OrpMca (Niirnberg,
+1702), p. 61.
+
+* Le Gen. Anim., II, i. 613c.
+
+* Bihl, clxxxv. « Tim,, 1079P.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 63
+
+Thoth the Logos
+
+But to resume. We have seen that Thoth was con-
+sidered to be the " heart '' and " tongue " of Ea the
+Supreme — that is, not only the reason and mental
+powers of the god Ka, and the means whereby they
+were translated into speech, but rather the Controller
+of the life and Instrument of the utterance of the
+Supreme Will ; He was the Logos in the fullest sense
+of that mysterious name, the Creative Word. He it is
+who utters the " words" whereby the Will of the Supreme
+is carried into effect, and his utterance is that of
+Necessity and Law ; his " words " are not the words of
+feeble human speech, but the compelling orders of
+the Creative Will.
+
+** He spoke the words which resulted in the creation
+of the heavens and the earth, and he taught Isis the
+words which enabled her to revivify the dead body of
+Osiris, in suchwise that Osiris could beget a child by
+her ; and he gave her the formulae which brought back
+her son Horus to life after he had been stung to death
+by a scorpion.''
+
+All of which, I believe, refers microcosmically to the
+mystery of the resurrection from the dead, by the
+power of the Logos. " Osiris " must die before he can
+be raised, and beget a son, who is himself, by im-
+maculate conception within his own spiritual nature.
+" Horus " must be poisoned to death by the scorpion of
+" Typhon " before he can be raised by the baptism of
+the pure waters of Life.
+
+The Words of Thoth
+
+Thoth's "knowledge and powers of calculation
+measured out the heavens and planned the earth, and
+
+
+Hosted by
+
+
+Google
+
+
+64 THRICE-GREATEST HERMES
+
+everything which is in them ; his will and power kept
+the forces in heaven and earth in equilibrium ; it was his
+skill in celestial mathematics which made proper use of
+the laws (madt) upon which the foundation and main-
+tenance of the universe rested ; it was he who directed
+the motions of the heavenly bodies and their times and
+seasons ; and without his words the gods, whose exist-
+ence depended upon them, could not have kept their
+place among the followers of Ea '' — but would presum-
+ably have disappeared into another universe.
+
+Thoth is the Judge of the dead, the Eecorder and
+Balancer of all " words," the Eecording Angel ; for the
+testing of the soul in the Balance of the Hall of Osiris
+is called the " weighing of words " and not of " actions."
+But these "words'' were not the words a man uttered,
+nor even the " reasons " he thought he had for his deeds,
+but the innermost intentions of his soul, the ways of the
+will of his being.
+
+This doctrine of "words" as expressions of will,
+however, had, in addition to its moral significance, a
+magical application. *'The whole efficacy of prayer
+appears to have depended upon the manner and tone of
+voice in which the words were spoken."
+
+It was Thoth who taught these words-of-power and
+how to utter them; he was the Master of what the
+Hindus would call mantra-vidyd, or the science of in-
+vocation or sacred chanting. These mantrdh were held
+in ancient Egypt, as they were and are to-day in India,
+and elsewhere among knowers of such matters, of
+special efficacy in affecting the "bodies" and con-
+ditions of that fluid nature which exists midway
+between the comparative solidity of normal physical
+nature and the fixed nature of the mind.
+
+These " words " were connected with vital " breath *'
+and the knowing use of it ; that is to say, they were
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 65
+
+only really efficacious when the spoken words of
+physical sound corresponded naturally in their vowels
+and consonants, or their fluid and fixed elements, with
+the permutations and combinations of the inner
+elements of Nature; they then and only then were mad
+or true or authentic or real — that is to say, ,thej were
+" words-of -power " in that they compelled matter to
+shape itself according to true cosmic notions.
+""TEus in a book called The Book of Breathings, it is
+said : " Thoth, the most mighty God, the Lord of
+Khemennu, cometh to thee, and he writeth for thee The
+Booh of Breathings with his own fingers.^ Thus thy
+soul shall breathe for ever and ever, and thy form
+shall be endowed with life upon earth, and thou shalt
+be made a God, along with the souls of the Gods, and
+they shall be the heart of Ea [for thee], and thy
+members shall be the members of the Great God.**
+
+
+Thoth and the Osirified
+
+In the Eitual we learn of the services which Thoth
+performs for "Osiris/' that is for the Osirified, for
+he repeats them for every man who has been acquitted
+in the Judgment. Of three striking passages quoted by
+Budge, we will give the following as the mosfc compre-
+hensible, and therefore the seemingly most important
+for us. It is to be found in Ch. clxxxiii. and runs as
+follows, in the words placed in the mouth of the one
+who is being resurrected into an Osiris.
+
+" I have come unto thee, son of Nut, Osiris, Prince
+of everlastingness ; I am in the following of God Thoth,
+and I have rejoiced at everything which he hath done
+Por thee. He hath brought unto thee sweet air for thy
+nose, and life and strength for thy beautiful face, and
+
+
+^ The symbol of his actualising power.
+VOL, I. 5
+
+
+Hosted by
+
+
+Google
+
+
+66 THRICE-GREATEST HERMES
+
+the North wind which cometh forth from Tern for
+thy nostrils. ... He hath made God Shu to shine
+upon thy body ; he hath illumined thy path with rays
+of splendour; he hath destroyed for thee [all] the evil
+defects which belong to thy members by the magical
+power of the words of his utterance. He hath made
+the two Horus brethren to be at peace for thee ; ^ he
+hath destroyed the storm wind and the hurricane ; he
+hath made the Two Combatants to be gracious unto thee,
+and the two lands ^ to be at peace before thee ; he hath
+put away the wrath which was in their hearts, and each
+hath become reconciled unto his brother.''
+
+
+Thoth the Measurer
+
+Budge then proceeds to give the attributes of Thoth
+as connected with time-periods and the instruments of
+time, the sun and moon. As Aah-Tehuti, he is the
+Measurer and Eegulator of times and seasons, and is
+clearly not the Moon-god simply — though Budge says
+that he clearly is — for Thoth as Aah is the " Great Lord,
+the Lord of Heaven, the King of the Gods "; he is the
+"Maker of Eternity and Creator of Everlastingness."
+He is, therefore, not only the ^Eon, but its creator;
+and that is something vastly different from the Moon-
+god.
+
+The Title "Thrice-Greatest''
+
+On p. 401 our authority has already told us that
+one of the titles of Thoth is " Thrice-great, " and that
+the Greeks derived the honorific title Trismegistus
+from this; but on p. 415 he adds: *'The title given
+to him in some inscriptions, ' three times great, great '
+
+1 Showing that Set is Horns in his form of darkness.
+
+2 Mystically, the upper and lower kingdoms in man.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 67
+
+[that is, greatest], from which the Greeks derived
+their appellation of the god 6 rpiajuLeyLa-Tog, or 'ter
+maximus,' has not yet been satisfactorily explained,
+and at present the exact meaning which the Egyptians
+assigned to it is unknown."
+
+If this title is found in the texts, it will settle a
+point of long controversy, for it has been strenuously
+denied that it ever occurs in the hieroglyphics;
+unfortunately, however, Dr Budge gives us no
+references. To the above sentence our distinguished
+Egyptologist appends a note to the effect that a
+number of valuable facts on the subject have been
+collected by Pietschmann in the book we have already
+made known to our readers. We have, however, not
+been able to find any valuable facts in Pietschmann
+which are in any way an elucidation of the term Thrice-
+greatest; but to this point we will return in another
+chapter.
+
+The Supremacy of Thoth
+
+The peculiar supremacy ascribed to Thoth by the
+Egyptians, however, has been amply demonstrated, and,
+as the great authority to whom we are so deeply indebted,
+says in his concluding words : '' It is quite clear that
+Thoth held in their minds a position which was quite
+different from that of any other god, and that the
+attributes which they ascribed to him were unlike the
+greater number of those of any member of their com-
+panies of gods. The character of Thoth is a lofty and
+a beautiful conception, and is, perhaps, the highest idea
+of deity ever fashioned in the Egyptian mind, which,
+as we have already seen, was somewhat prone to dwell
+on the material side of divine matters. Thoth, how-
+ever, as the personification of the Mind of God, and as
+the all-pervading, and governing, and directing power
+
+
+Hosted by
+
+
+Google
+
+
+68 THRICE-GREATEST HERMES
+
+of heaven and earth, forms a feature of the Egyptian
+religion which is as sublime as the belief in the
+resurrection of the dead in a spiritual body, and as the
+doctrine of everlasting life."
+
+Thoth is then the Logos of God, who in his relation
+to mankind becomes the Supreme Master of Wisdom,^
+the Mind of all masterhood.
+
+We will now turn to one whose views are considered
+heterodox by conservative and unimaginative critics,^
+who confine themselves solely to externals, and to the
+lowest and most physical meanings of the hiero-
+glyphics — to one who has, I believe, come nearer to
+the truth than any of his critics, and whose labours
+are most highly appreciated by all lovers of Egyptian
+mystic lore.
+
+The Views of a Scholak-Mystic
+
+The last work of W. Marsham Adams ^ deserves the
+closest attention of every theosophical student. Not,
+however, that we think the author's views with regard
+to a number of points of detail, and especially with
+regard to the make-up of the Great Pyramid, are to be
+accepted in any but the most provisional manner, for
+as yet we in all probability do not know what the full
+contents of that pyramid are, only a portion of them
+being known to us according to some seers. The chief
+merit of the book before us is the intuitional grasp of
+
+1 " Thoth the Wise " of the « Inscription of London " § 4 (R.
+64), to which we shall refer later on.
+
+2 See the reviews on the below-mentioned work in The Athenmim,
+of 31st December 1898, and The Academy of 31st December 1898
+and 7 th January 1899.
+
+3 The Book of the Master, or The Egyptian Doctrine of the Light
+horn of the Virgin Mother (London, 1898) — a sequel to his study
+entitled The House of the Hidden Places, a Glue to the Greed of
+Early Egypt from Egyptian Sources (London, 1895).
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 69
+
+its author on the general nature of the mystery-cultus,
+as derived from the texts, and especially those of the
+Eitual or the so-called Book of the Dead, as Lepsius
+named it, setting a bad fashion which is not yet out of
+fashion. The Egyptian priests themselves, according
+to our author, called it The Book of the Master of tlis
+Secret House, the Secret House being, according to
+Adams, the Great Pyramid, otherwise called the " Light."
+
+The Spiritual Nature of the Inner Tradition
+OF Egyptun Wisdom
+
+In his Preface the author gives us clearly to understand
+that he regards the Wisdom of Egypt as forming the
+main background of some of the principal teachings
+of Early Christianity; and that this view is strongly
+confirmed by a careful study of the Trismegistic
+literature and its sources, will be made apparent in the
+course of our own labours. But before we proceed to
+quote from the former Fellow of New College, Oxford,
+whose recent death is regretted by all lovers of Egypt's
+Wisdom, we must enter a protest.
+
+Mr Adams has severely handicapped his work;
+indeed, he has destroyed nine-tenths of its value for
+scholars, by neglecting to append the necessary references
+to the texts which he cites. Such an omission is
+suicidal, and, indeed, it would be impossible for us to
+quote Mr Adams were it not that our Trismegistic
+literature permits us — we might almost say compels us
+— to take his view of the spiritual nature of the inner
+tradition of Egyptian Wisdom. Not, however, by any
+means that our author has traversed the same ground ;
+he has not even mentioned the name of the Thrice-
+greatest one, and seems to have been ignorant of our
+treatises. Mr Adams claims to have arrived at his
+
+
+Hosted by
+
+
+Google
+
+
+70 THRICE-GREATEST HERMES
+
+conclusions solely from the Egyptian texts themselves,
+and to have been confirmed in his ideas by personal
+inspection of the monuments. In fact, he considers it
+a waste of time to pay attention to anything written in
+Greek about Egyptian ideas, and speaks of " the distor-
+tion and misrepresentation wherein those ideas were
+involved, when filtered through the highly imaginative
+but singularly unobservant intellect of Greece." ^ Thus
+we have a writer attacking the same problem from a
+totally different standpoint — for we ourselves regard the
+['Greek tradition of the Egyptian Gnosis as a most
+invaluable adjunct to our means of knowledge of the
+jjMind of Egypt — and yet reaching very similar con-
+clusions.
+
+The Holy Land of Egypt and its Initiates
+
+The Holy Land of those who had gone out from the
+
+body," w^afereij^^b^ the Eiver of
+
+, jjggi^jj "j^j;^|^j[^]^-]^^ ^ symbol and
+
+parallel^ was divided into three regions, or states:
+
+(1) Eusta, the Territory of Initiation ; (2) Aahlu, the
+
+Temlior]r"of~"Iltumination ; and (3) Ameriti, the Place.
+
+of tJnion with the tJnseen Father .^
+
+_.._j„^__^_^ Egypt, the deepest and most
+
+fascinating mystery of antiquity, the visible creation,
+
+was conceived as the counterpart of the unseen world.^
+
+\ 'And the substance consisted not of a mere vague belief
+
+; in the life beyond the grave, but in tracing out the
+
+Path whereby the Just, when the portal of the tomb is
+
+lifted up,^ passes through the successive stages of
+
+1 Op, dt., pref. V.
+
+2 Op. ciL, 13. Compare with this the three grades of Initia-
+tion given by Pietschmann (p. 24 n.), as cited above, p. 51.
+
+3 The image-doctrine of our treatises.
+
+^ This is an error ; true initiation consisted in the fact that
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 71
+
+Initiation, of Illumination, and of Perfection, necessary
+to fit him for an endless union with Light, the Great
+Creator/* 1
+
+Thus we are told that at a certain point in Aahlu,
+the Territory of Illumination, the Osirified, the purified
+soul, has achieved the " Passage of the Sun '' — that is
+to say, has passed beyond the mortal mind-plane ; he
+opens the Gates of the Celestial Nile and receives the
+Atf -crown of Illumination, " fashioned after the form
+of the Zodiacal light, the glory of the supreme heaven."
+This is presumably the " crown of lives " referred to in
+our sermons, which he receives in the sphere called
+'* Eight," and with which he goes to the Father.
+
+The Guide and Conductor through all these grades
+was Thoth the Eternal Wisdom ; ^ and we are told
+that:
+
+Thoth the Initiator
+
+" Thoth the Divine Wisdom, clothes the spirit of the
+Justified ^ a million times in a garment of true linen,^ of
+
+cosmic consciouvsness was realised in the body, while a man still
+lived. This consciousness naturally included the after-death
+consciousness as part of its content.
+
+1 Op. cit, p. 24.
+
+2 Op, cit, pp. 14, 15.
+
+3 That is, he who has the " balanced " nature.
+
+^ In my Did Jesus Live 100 b.c. ? — in treating of the Elxai tradition
+and the wild statements of the puzzled and puzzling Epiphanius,
+I asked : " May there not have been a mystery-teaching behind the
+beautiful historicised story of the sisters Mary and Martha, and of
+Lazarus, their brother, who was ' raised from the dead ' after being
+' three days ' in the grave ? Was not Lazarus raised as a * mummy '
+swathed in grave-clothes ? " In this connection it is interesting
+to find TertuUian {De Corona, viii. ; Oehler, i. 436) referring to
+the " linen cloth " with which Jesus girt himself in John xiii. 4, 5,
+as the " proper garment of Osiris." The proper garment of Osiris
+at one stage consisted most probably of the symbolic linen
+wrappings of the '* mummy."
+
+
+Hosted by
+
+
+Google
+
+
+72 THRICE-GREATEST HERMES
+
+that substance, that is to say, which by its purity and
+its brilliancy reminds us of the mantles, woven out of
+rays of light, wherewith the sun enwraps the earth
+afresh each day as she rotates before him ; just as the
+soul of man is invested with new radiance each „ time
+that he turns, to the presence of his Creator." Again,
+''in the harmonious proportion of the universe," the
+Egyptians saw " the Eternal Wisdom, Thoth, * the Mind
+and Will of God/" 1
+
+We have seen that Pietschmann considers the original
+of Thoth, the God of Wisdom, to be nothing more than
+the ibis-headed moon-god, thus intentionally deriving
+the origin of the Great Initiator from what he considers
+to be the crude beginnings of primitive ideas. But Thoth
+was the Great Eeckoner, the Eecorder of the Balance
+of Justice, the Teller of the Karmic Scales. Now the
+mortal time-recorder for the Egyptians was the moon,
+" for if we consider the motion of the moon relatively
+to the sun, we shall find that the time that it takes
+in covering a space equal to its own disc is just an
+hour. . . . Now, that measure of the 'Hour' was
+peculiarly sacred in Egypt ; each of the twenty-four
+which elapse during a single rotation of the earth being
+consecrated to its own particular deity, twelve of
+light and twelve of darkness. ' Explain the God in
+the hour,* is the demand made of the adept in the
+Eitual when standing in the Hall of Truth. And that
+God in the hour, we learn, was Thoth, the ' Lord of the
+Moon and the Eeckoner of the Universe.' " ^
+
+Again, with regard to the moon-phases, the first day
+of the lunar month was called " the conception of the
+moon," the second its ' ' birth," and so on step by step
+till it was full. Now the time of all lower initiations
+was the full moon. Thus " in the lunar representations
+1 Op. cit, p. 23. 3 Op. city p. 30.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 73
+
+on the walls of the temple of Denderah we have fourteen
+steps leading up to the fifteenth or highest, whereon
+was enthroned Thoth, the Lord of the Moon." i
+
+For some such reasons was Thoth called Lord of the
+Moon, not that the moon gave birth to the idea of Thoth.
+We must not seek for the origin of the Wisdom-tradition
+in its lower symbols. For in the inscription on the
+cofiSn of Ankhnes-Ra-Weferab — that is of her "whose
+life was the Sacred Heart of Ea " — we read : " Thy name
+is the Moon, the Heart of Silence, the Lord of the
+Unseen World "^ — of the space *' as far as the moon,"
+or the "sublunary region," as the old books say, the
+first after-death state, where souls are purified from
+earthly stains.
+
+Some of the Doctrines of Initiation
+
+The end set before the neophyte was illumination,
+and the whole cult and discipline and doctrines insisted
+on this one way to Wisdom. The religion of Egypt
+was essentially the Religion of the Light.
+
+But " most characteristic of all was the omnipotent
+and aH-dorQinating sense of the fatherhood of God,
+producing the familiar and in some respects even joyous
+aspect which the JEgyplo^ns^^^^^^^^ of
+
+death." And *' to the sense which the priests at least
+possessed, both 6T the divine personality and of their
+own ultimate union with the personal deity [the Logos],
+f aflnore probably than to any artificial pretension to a
+supposed exclusiveness, may be ascribed the mystery
+enshrouding their religion."^
+
+And as Light was the Father of the Religion of
+Illumination, so was Life, his consort or syzygy, the
+Mother of the Religion of Joy. '' Life was the centre,
+
+Op, ait, p. 194. 2 Q^^ cit,, p. 161. ^ q^^ cit., pp. 18, 20.
+
+
+Hosted by
+
+
+Google
+
+
+74 THRICE-GREATEST HERMES
+
+the circumference, the totality of Good. Life was the
+sceptre in the hand of Amen ; life was the richest * gift
+of Osiris.' ' Be not ungrateful to thy Creator,' says the
+sage Ptah-Hotep, in what is perhaps the oldest document
+in existence, 'for he has given thee life.' 'I am the
+Fount of Light,' says the Creator in the Eitual ' I
+pierce the Darkness. I make clear the Path for all ;
+the Lord of Joy.' " ^ Or again, as the postulant prays
+to the setting sun : " height of Love, thou openest
+the double gate of the Horizon." ^
+
+Here we have the full doctrine of the Light and Life
+which is the keynote of our treatises. Again, the
+doctrine of the endless turning of the spheres, which " end
+where they begin,'' in the words of '*The Shepherd,"
+is shown in the great fourth year festival of Hep-Tep or
+" Completion-Beginning," when " the revolution and the
+rotation of our planet were simultaneously completed
+and begun afresh." ^
+
+The Temples of Initiation
+
+That the ancient temples of initiation in Egypt were
+models of the Sophia Above, or of the *' Heavenly
+Jerusalem," to use a Jewish Gnostic term, or, in other
+Words, of the Type of the world-building, we may well
+believe. Thus it is with interest that we read the re-
+marks of Adams on the temple of Denderah (or Annu),
+rebuilt several times according to the ancient plans,
+and an important centre of the mystery-cultus. The
+temple was dedicated to Hat-Hor, whose ancient title
+was the Virgin- Mother.
+
+'' In the centre of the temple is the Hall of the Altar,
+with entrances opening east and west ; and beyond it
+lies the great hall of the temple entitled the Hall of
+
+^ Ojp. cit, p. 36. 2 Op, cit, p. 163. 3 Qp. cit, p. 3*7.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OP WISDOM 75
+
+the Child in his Cradle, from whence access is obtained
+to the secret and sealed shrine entered once a year by
+the high priest, on the night of mid-summer." ^
+
+There were also various other halls and chambers
+each having a distinctive name, " bearing reference, for
+the most part, to the Mysteries of the Light and of a
+divine Birth." We have such names as : Hall of the
+Golden Kays, Chamber of Gold, Chamber of Birth,
+Dwelling of the Golden One, Chamber of Flames.
+
+Now as the famous planisphere of Denderah — a wall-
+painting transferred bodily from the temple to Paris,
+early in the last century — " contains the northern and
+southern points, we are enabled to correlate the parts
+of that picture with the various parts of the temple,
+and thereby to discover a striking correspondence
+between the difiPerent parts of the inscription and the
+titles of the chambers and halls occupying relative
+positions." ^
+
+Thus we have in the planisphere corresponding to
+the halls and chambers such names as: Horus, the
+Entrance of the Golden Heavens, the Golden Heaven
+of Isis, Horizon of Light, Palace Chamber of Supreme
+Light, Heavenly Flame of Burning Gold. "And as
+the chief hall of the temple was the Hall of the Child
+in his Cradle, so the chief representation on the plani-
+sphere is the holy Mother with the divine Child in her
+arms. ''
+
+The Mystery of the Birth of Horus.
+
+N"ow the great mystery of Egypt was the second
+birth, the " Birth of Horus." In " The Virgin of the
+World," a long fragment of the lost Trismegistic
+treatise, "The Sacred Book," preserved by Stobaeus,
+Isis says to Horus: I will not tell of this birth; I
+^ Op. cit, p. 71. 2 Op, ciU, p. YS.
+
+
+Hosted by
+
+
+Google
+
+
+76 THRICE-GREATEST HERMES
+
+must not, mighty Horus, reveal the origin of thy race,
+lest men should in the future know the generation of
+the Gods. Of the nature of this rehirth we are familiar
+from our treatises. But in spite of such clear indica-
+tions the mystery of the Golden Horus has not yet
+been revealed.
+
+In another passage from the same book Isis declares
+that the sovereignty or kingship of philosophy is in the
+hands of Harnebeschenis. This transliterated Egyptian
+name is given by Pietschmann^ as originally either
+Sot neb en x^^^*?^ (Horus the Lord of Xennu), or as
+Hot nut en -^ennu (the Golden Horus of Xennu). His
+hieroglyph was the golden hawk, who flies nearest the
+sun, and gazes upon it with imwinking eyes, a fit
+symbol for the new-born, the " man " illuminate.
+
+Indeed, says Adams, *' throughout the sacred writings
+of Egypt, there is no doctrine of which more frequent
+mention is made than that of a divine birth." *
+
+In what circle of ideas to place the Birth of Horus
+the theosophical student may perhaps glean by reversing
+the stages given in the following interesting passage of
+our author :
+
+** In the Teaching of Egypt, around the radiant being,
+which in its regenerate life could assimilate itself to
+the glory of the Godhead, was formed the * khaibit,' or
+luminous atmosphere, consisting of a series of ethereal
+envelopes, at once shading and diffusing its flaming
+lustre, as the earth's atmosphere shades and diffuses
+the solar rays. And at each successive transformation
+(Eitual, Ixxvii.-lxxxvii.) it descended nearer to the moral
+[? normal] conditions of humanity. From the form of
+the golden hawh, the semblance of the absolute divine
+substance of the one eternal self-existent being, it
+passes to the * Lord of Time,' the image of the Creator,
+1 Op, cit, p. 44. a Op. dt, p. 89.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 11
+
+since with the creation time began. Presently it
+assumes the/or??! of a lily, the vignette in the Eitual
+representing the head of Osiris enshrined in that flower ;
+the Godhead manifested in the flesh coming forth from
+immaculate purity. *I am the pure lily/ we read,
+' coming forth from the lily of light. I am the source
+of illumination and the channel of the breath of
+immortal beauty. I bring the messages; Horus
+accomplishes them.' Later the soul passes into the
+form of the urceus, ' the soul of the earth.' . . .
+And finally it assumes the semblance of a crocodile i
+becoming subject, that is, to the passions of humanity.
+For the human passions, being part of the nature
+wherein man was originally created, are not intrinsically
+evil but only become evil when insubordinate to the
+soul."^
+
+"The Book of the Masteb"
+
+And not only was the Deity worshipped as the Source
+of Light and Life, but also as the Fount of Love. " I
+am the Fount of Joy," says the Creator in the Eitual,
+and w^hen the Atf-crown of illumination is set upon the
+head of the triumphant candidate after accomplishing
+the *' Passage of the Sun," as referred to above, the
+hymn proclaims that " north and south of that crown
+is Love." ^ Into this Love the catechumen was initiated
+from the Secret Scroll, whose name is thus given in
+one of the copies: "This Book is the Greatest of
+Mysteries. Do not let the eye of anyone look upon it
+— that were an abomination. ' The Book of the Master
+of the Secret House ' is its name." ^
+
+1 Op. cit., pp. 163, 164. 2 Qp^ cit, p. 95.
+
+3 Op. cit, p. 96. The title seems to be found only in the
+latest recension of the twenty-sixth Saite dynasty — the time of
+our King Ammon-— but certainly no better one can be suggested.
+
+
+Hosted by
+
+
+Google
+
+
+78 THRICE-GREATEST HERMES
+
+The whole conception of the doctrine exposed in its
+chapters is instruction in Light and Life.
+
+But are we to suppose that the majority were really
+instructed in this wisdom ? — for we find it customary to
+wrap up some chapters of this Secret Scroll with almost
+every mummy. By no means. It seems to me that
+there are at least three phases in the use of this scrip-
+ture, and in the process of degeneration from knowledge
+to superstition which can he so clearly traced in the
+history of Egypt. First there was the real instruction,
+followed by initiation while living; secondly, there
+was the recitation of the instruction over the uninitiated
+dead to aid the soul of the departed in the middle
+passage ; and thirdly, there was the burying a chapter
+or series of chapters of the Booh of the Master as a
+talisman to protect the defunct, when in far later
+times the true meaning of the words written in the
+sacred characters had been lost, though they were
+still " superstitiously '' regarded as magical "words of
+power."
+
+The recitation of some of the chapters over the dead
+body of the uninitiated, however, is not to be set down
+as a useless " superstition," but was a very efficacious
+form of " prayers for the dead." After a man's decease
+he was in conscious contact with the unseen world,
+even though he may have been sceptical of its existence,
+or at any rate unfit to be taught its real nature, prior
+to his decease. But after the soul was freed from the
+prison of the body, even the uninitiated was in a con-
+dition to be instructed on the nature of the path he
+then perforce must travel. But as he could not even
+then properly pronounce the " words " of the sacred
+tongue, the initiated priest recited or chanted the
+passages.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OP WISDOM 79
+
+The Steps of the Path
+
+" For the doctrine contained in those mystic writings
+was nothing else than an account of the Path pursued
+by the Just when, the bonds of the flesh being loosed,
+he passed through stage after stage of spiritual growth
+— the Entrance on Light, the Instruction in Wisdom,
+the Second Birth of the Soul, the Instruction in the
+Well of Life, the Ordeal of Fire, and the Justification
+in Judgment ; until, illumined in the secret Truth and
+adorned with the jewels of Immortality, he became
+indissolubly united with Him whose name, says the
+Egyptian Eitual, is Light, Great Creator." ^
+
+It should, however, be remembered that this must
+not be taken in its absolute sense even for the initiate,
+much less for the uninitiated. For even in the mystic
+schools themselves, as we may see from our treatises,
+there were three modes in which knowledge could be
+communicated — *' By simple instruction, by distant
+vision, or by personal participation." ^ For indeed
+there were many phases of being, many steps of the
+great ladder, each in ever greater fullness embracing
+the stages mentioned, each a reflection or copy of a
+higher phase.
+
+Thus, for example, " the solemn address, described in
+the Sai-a7i-Sinsin, of the * Gods in the House of Osiris,'
+followed by the response of the * Gods in the House of
+Glory ' — the joyous song of the holy departed who stand
+victorious before the judgment-seat, echoed triumph-
+antly by the inner chorus of their beloved who have
+gone before them into the fullness of life " ^ — must be
+taken as indicative of several stages. Such, for instance,
+as the normal union of the man's consciousness with that
+
+
+1 Op. ciL, pp. 103, 104.
+2 Op. cit, p. 148. 3 Qp^ cit.j p. 120.
+
+
+Hosted by
+
+
+Google
+
+
+80 THRICE-GREATEST HERMES
+
+of his higher ego, after exhausting his spiritual aspira-
+tions in the intermediate heaven-world — this is the
+joining the " those-that-are " of " The Shepherd " treatise,
+in other words, the harvest of those past lives of his
+that are worthy of immortality; or again the still
+higher union of the initiated with the *' pure mind " ;
+or again the still sublimer union of the Master with the
+nirvanic consciousness; and so on perchance to still
+greater Glories.
+
+Thus we are told that the new twice-born, on his
+initiation, "clothed in power and crowned with light,
+traverses the abodes or scenes of his former weakness,
+there to discern, by his own enlightened perception,
+how it is ' Osiris who satisfies the balance of Him who
+rules the heavens'; to exert in its supernal freedom
+his creative will, now the lord, not the slave of the
+senses; and to rejoice in the just suffering which
+wrought his Illumination and Mastery." ^
+
+But higher and still higher he has yet to soar beyond
+earth and planets and even beyond the sun, " across the
+awful chasms of the unfathomable depths to far-off
+Sothis, the Land of Eternal Dawn, to the Ante-chamber
+of the Infinite Morning." ^
+
+An Illuminative Study
+
+Many other passages of great beauty and deep
+interest could we quote from the pages of Marsham
+Adams' illuminative study, but enough has been said
+for our purpose. The Wisdom of Egypt was the main
+source of our treatises without a doubt. Even if only
+one-hundredth part of what our author writes were the
+truth, our case would be established ; and if Egypt did
+not teach this Wisdom, th® we must perforce bow
+I Op. dt,, p. 185. 2 Qp^ cit, p. 186.
+
+
+Hosted by
+
+
+Google
+
+
+THOTH THE MASTER OF WISDOM 81
+
+down before Mr Adams as the inventor of one of the
+most grandiose religions of the universe. But the
+student of inner nature knows that it is not an inven-
+tion, and though, if he be a scholar at the same time,
+he cannot but regret that Mr Adams has omitted his
+references, he must leave the critics to one or other of
+the horns of the dilemma; they must either declare
+that our author has invented it all and pay homage to
+what in that case would , be his sublime genius, or admit
+that the ancient texts themselves have inspired Mr
+Adams with these ideas. And if this be a foretaste of
+what Egypt has preserved for us, what may not the
+future reveal to continued study and sympathetic
+interpretation I
+
+
+VOL. 1. 6
+
+
+IV
+
+THE POPULAR THEUEGIC HEEMES-CULT IN
+THE GEEEK MAGIC PAPYEI
+
+The "Eeligion of Hermes"
+
+That at one period the " Eeligion of Hermes " was not
+only widely spread, but practically supreme, in popular
+Hellenistic circles, may be seen from a study of the
+texts of the numerous magic papyri which have been
+preserved, and made accessible to us by the industry
+of such immensely laborious scholars as Leemans,
+Dieterich, Wessely, and Kenyon.
+
+The Greek Hermes prayers, as with many others of
+a similar nature, are manifestly overworkings of more
+ancient types, and, as we might expect, are of a strongly
+syncretistic nature. In them we can distinguish in
+popular forms, based on the ancient traditions of
+Egyptian magic, most interesting shadows of the philo-
+sophic and theosophic ideas which our Trismegistic
+literature has set forth for us in the clear light of
+dignified simplicity.
+
+But just as we now know that the once so-called
+"Gnostic," Abraxas and Abraxoid amulets, gems, and
+rings pertained to the general popular magical religion
+and had nothing to do with the Gnosis proper, so we
+may be sure that the circles of high mysticism, who
+refused to offer to God even so pure a sacrifice as
+
+82
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 83
+
+the burnt offering of incense, and deemed naught
+worthy of Him, short of the " prayers and praises of
+the mind," had nothing directly to do with the
+popular Hermes prayers, least of all with the invoca-
+tory rites of popular theurgy, and phylactery or amulet
+consecration.
+
+Nevertheless, there is much of interest for us in these
+invocations, and much that can throw side-lights on the
+higher teaching and practice which transformed all
+external rites into the discipline of inner spiritual
+experience.
+
+The following prayers, which, as far as I know, have
+not been previously translated, are rendered from the
+most recently revised texts of Eeitzenstein, who has
+omitted the magic names, and emended the previous
+editions. I cannot but think, however, that these texts
+might be submitted to a more searching analysis than
+has yet been accorded them. They seem to present
+somewhat similar phenomena to the recensions of the
+Book of the Dead: that is to say, fragments of
+material from the tradition of a greater past have been
+adapted and overworked for the needs of a lesser age.
+Indeed, the whole effort of the Trismegistic schools
+seems to have been to restore the memory of that
+greater past ; it had been forgotten, and its dim record
+had become a superstition instead of a living faith, a
+degenerate magic instead of a potent theurgy. The
+theurgy of our prayers is that of dwarfs ; the theurgy
+of the past was believed to have been that of
+giants.
+
+
+Hosted by
+
+
+Google
+
+
+84 THRICE-GREATEST HERMES
+
+
+I. An Invocation to Hermes as the Good Mind ^
+
+[Revised text, R. 15-18 ; Leemans (C), Papyri Grmc. Mus, Ant,
+Pub. Lug. Bat (Leyden, 1885), II. 141, 14 ff., and V. 27, 27 ff. ;
+Dietericla (A.), Alrraxas (Leipzig, 1891), 195, 4 ff. ; and JaMucher
+f, class. PM.,ISiippl. XVI. 808 ff. (Papyrtis Mag. Mus. Lug. Bat.).]
+
+1. Come unto me, thou of the four winds,^ al-
+mighty one,^ who breathest spirit into men to give
+them life;
+
+2. Whose name is hidden, and beyond the power of
+men to speak ; ^ no prophet [even] can pronounce it ; yea,
+even daimons, when they hear thy name, are fearful !
+
+3. thou, whose tireless eyes are sun and moon,^ —
+[eyes] that shine in the pupils ® of the eyes of men !
+
+4. thou, who hast the heaven for head, aether for
+body, [and] earth for feet, and for the water round thee
+ocean's deep!"^ Thou the Good Daimon art, who art
+the sire of all things good, and nurse of the whole world.^
+
+6. Thy everlasting revelling-place ^ is set above.
+6. Thine the good emanations ^^ of the stars, — those
+daimons, fortunes, and those fates by whom are given
+
+^ I have supplied the titles.
+
+^ Perhaps originally spirits or breaths.
+
+3 iravTOKpdrcop, used of Hermes, Anth, P., append., 282.
+
+^ Compare Lactantius, i. 6 (Frag, II.) ; and especially iv. 7
+(Frag. VI.).
+
+^ The " eyes and light of Horus," according to Plutarch, De Is.
+et Os., lii, ; mystically, the higher and lower " ego " and much else.
+
+6 4v Tois nSpais — compare the dissertation on the meaning of the
+title of our treatise generally translated "Virgin (/cJpr?) of the
+World," in the commentary thereto.
+
+^ Sc. the Ocean of Space, the " Great Green " of the Ritual.
+
+^ That is, father-mother of the universe.
+
+^ KcafAatrr^piov — that is, heaven. See vii. 3 below.
+
+50 htf6ppoiai — or personified influences. See Plutarch, Be Is. et
+Os., xxxviii., liii., Iviii. ; and especially Pistis Sophia, where it
+occurs over and over again. Compare also K. K., 1 ; Stob., p. 405,
+17 (W.).
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THBITRGIG HEBMES-OULT 85
+
+wealth, good blend [of nature],^ and good children, good
+fortune, and good burial. For thou art lord of life, —
+
+7. Thou who art king of heavens and earth and all
+that dwell in them ;
+
+8. Whose Eighteousness is never put away ; whose
+Muses hymn thy glorious name ; whom the eipht
+Wardens guard, — thou the possessor of the Truth *^ pure
+of all lie !
+
+9. Thy Name and Spirit rest upon the good.^
+
+10., mayst thou come into my mind and heart for
+all the length of my life's days, and bring unto
+accomplishment all things my soul desires!
+
+11. For thou art I, and I am thou.* Whatever I
+speak, may it for ever be ; for that I have thy Name ^
+to guard me in my heart.^
+
+1 iVKipaoria — referring apparently to the composition of
+"body" and "soul."
+
+'^ That is, the Pleroma or JEon (see vi. 9 below). Reitzen-
+stein (p. 18) says rightly, as we have seen, that Egyptologists
+have long recognised that the God here identified with Agatho-
+daimon was originally the Hermes or Thoth of Hermopolis
+Magna, Lord of the Eight Wardens (the Ogdoad), symbolised by
+apes, hymned by the Muses ( 1 the Nine or Emiead), and spou.?e
+of Isis-Righteousness (cf. Pint., De Is. et O5,, iii.).
+
+•" See 13 below.
+
+^ Compare the extra- canonical logos : " I stood on a lofty
+mountain and saw a gigantic man, and another, a dwarf ; and I
+heard as it were a voice of thunder, and drew nigh for to hear ;
+and He spake unto me and said : I am thou, and thou art I ;
+and wheresoever thou mayest be I am there. In all am I scattered
+[that is, the Logos as seed or ** members "], and whencesoever thou
+wiliest, thou gather est Me ; and gathering Me, thou gatherest
+Thyself." (From the Gospel of Eve, quoted hj Ej)iphanius, Hceres.,
+xxvi. 3.) Cf. 11. 7.
+
+^ In the Egyptian sense — that is, thy true "person" or
+"presence." See R. 17, n. 6, for many references to this funda-
+mental concept of Egyptian religion.
+
+^ ^vKanrTipiov — lit., as a phylactery or amulet. See R. 18, n. 8,
+for Egyptian origin of Jewish phylacteries.
+
+
+Hosted by
+
+
+Google
+
+
+86 THRICE-CREATEST HERMES
+
+12. And every serpent^ roused shall have no power
+o'er me, nor shall I be opposed by any spirit, or
+daimonial power, or any plague, or any of the evils in
+the Unseen World ; ^ for that I have thy Name within
+my soul.
+
+13. Thee I invoke ; come unto me, Good, altogether
+good, [come] to the good,^ — thou whom no magic can
+enchant, no magic can control,* who givest me good
+health, security,^ good store, good fame, victory, [and]
+strength, and cheerful countenance ! ^
+
+14. Cast down the eyes of all who are against me,
+and give me grace on all my deeds ! "^
+
+II. An Invocation to Lord Hbkmes
+
+[Revised and restored text, stripped of later overworkings, R.
+20, 21. Wesaely (C), DenJcschriften der Jcaiserlichen AJcademie der
+WissBTischaften, "Nene griechische Zauberpapyri " (Vienna, 1893),
+vol. xlii. p. 55 ; Kenyon (F. G.), Greek Papyri in the British
+Museum (London, 1893), i. 116.]
+
+1. Come unto me, Lord Hermes, even as into women's
+wombs [come] babes ! ^
+
+2. Come unto me, Lord Hermes, who dost collect the
+food of gods and men ! ^
+
+3. Lord Hermes, come to me, and give me grace,
+
+1 Spc^j — here the symbol of any hostile elemental force.
+Compare K, iiT.,— Stob., 402, 22 (W.).
+
+3 See 9 above.
+
+* afidcKavros, a^dtrnavros.
+
+^ (r«T7?p/av, or salvation.
+
+6 See II. 2 below.
+
+7 Compare with this prayer for the descent of the Mind into
+the heart, the ascent of the man into the Mind of G. H., xiii.
+(xiii.) 3.
+
+^ This is an echo of spiritual rebirth or regeneration.
+9 In its highest sense the heavenly food, or wisdom, the " super-
+substantial bread," or " bread of life."
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-OULT 87
+
+[and] food, [and] victory, [and] health and happiness,
+and cheerful countenance,^ beauty and powers in sight
+of all !
+
+4. I know thy Name that shineth forth in heaven ;
+I know thy forms ^ as well ; I know thy tree ; ^ I know
+tSy ' woocP~ai~w^^
+
+5. I know thee, Hermes, who thou art, and whence
+thou art, and what thy city is.
+
+6. I know thy names in the Egyptian tongue,^ and
+thy true name as it is written on the holy tablet in the
+holy place at Hermes' city, where thou dost have thy birth.
+
+7. I know thee, Hermes, and thou [knowest] me;
+[and] I am thou, and thou art I.^
+
+8. Come unto me ; fulfil all that I crave ; be favour-
+able to me together with good fortune and the blessing
+of the Good. 7
+
+III. An Invocation to Lord Hermes
+
+[Revised and restored text, R. 21. It is worked in with the
+preceding, but is of later date.]
+
+1. Gome unto me. Lord Hermes, thou of many
+names, who know'st the secrets hidden both beneath
+the poles [of heaven] and underneath the earth !
+
+1 iiracppodKriav Trpoori&Trov. See I. 13 above.
+
+2 The symbols of which are : the ibis in the east, ape in the
+west, the serpent in the_north^ the wolf (or jackal) in the south.
+So says"The"overworking of the text ; but perhaps wolf should
+rather be dog.
+
+2 The terebinth, or turpentine palm. Compare this with the
+story of Terebinthus, from whose four Books Manes is said, in
+the Acta Archelai, to have derived his system.
+
+4 The ebony ; perhaps symbolic of the " dark " wisdom, the
+initiation " in the black " of the K. K, Fragments.
+
+o ra 0ap$aptKa ov6iJLaTa — lit., barbarous, that is, non-Greek.
+
+6 Cf, I. 11.
+
+7 Lit., with Agathodaimon ; compare chv e^^ — " with God's
+blessing."
+
+
+Hosted by
+
+
+Google
+
+
+88 THRICE-GREATEST HERMES
+
+2. Come unto me, Lord Hermes, thou benefactor, who
+doest good to all the world !
+
+3. Give ear to me, [and] give me grace with all that
+are on earth ; open for me the hands of all that give
+like thee ; ^ [and] make them give me what their hands
+contain !
+
+4. Even as Horus,^ if e'er he called on thee,
+greatest of all gods, in every trial, in every space,
+'gainst gods, and men, and daimones, and things that
+live in water and on earth, — had grace and riches with
+gods, and men, and every living thing beneath the
+earth ; — so let me, too, who call on thee ! So give
+me grace, form, beauty !
+
+6. Hear me, O Hermes, doer of good deeds, thou
+the inventor of [all] incantations,' speak me good
+words ! *
+
+7. Hear me, O Hermes, for I have done all things
+[that I should do] for thy black dog-ape,^ lord of the
+nether ones !
+
+8. 0, soften all [towards me], and give me might
+
+^ ffvv^wKdvrfav — a dira^ K^y6ij,€vov — 5c6«to (5^5«jut) may be com-
+pared with arr-fiKw {'lcrTr}fxi). The image may be taken from tbe
+well-known symbolical representation of the sun sending forth
+rays, each, furnished with a band for giving and blessing, especially
+in the frescoes of the Atem-cult period. Of. K. K., 11 and 31.
+
+2 In the mystery-myth.
+
+3 Orig., medicines or philtres.
+
+* €vBid\€KTos yivov — a unique and inelegant expression in Greek,
+and of uncertain translation into English.
+
+^ This appears here to refer to Anubis, the '' dog '^ of Hades, or
+' the "death-genius," the attendant on Thoth. "Black" is lit.
+"Ethiopian." But compare in Pistis Sophia^ 367, "^thiopic
+Ariouth," a ruler among the infernal daimonials, who is " entirely
+black." The Ethiopians were famous for their sorcery and black
+magic. They were the traditional opponents of the "white
+magicians " of Egypt. Compare " Hor, son of the Negress" in the
+'* Second Story of Khamuas," in GriJQith's (F. LI.) Stones of the
+High Priests of Memphis (Oxford, 1900), pp. 61 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 89
+
+[and] form,^ and let them give me gold, and silver [too],
+and food of every kind continually.
+
+9. Preserve me evermore for the eternity from spells,
+deceits, and witchery of every kind, from evil tongues,
+from every check and every enmity of gods and
+men!
+
+10. Give unto me grace, victory, success, and satis-
+faction !
+
+11. For thou art I, and I am thou; thy Name
+is mine, and mine is thine; for that I am thy
+likeness.2
+
+12. Whatever shall befall me in this year, or month,
+or day, or hour, — it shall befall the Mighty God, whose
+symbol is upon the holy vessel's prow.^
+
+1 This is nob necessarily a prayer for physical form and the rest,
+but a prayer tliat the subtle ka of the man, the plastic soul-
+substance, may take a form of power and beauty, in the unseen
+world.
+
+2 eXZoiKov, or image or double. The theurgist is endeavouring
+to identify his ha with that of the god. It was with his ha also,
+presumably, that the consecrated statue of the god was " animated."
+Compare the exposition of this theory as given in P. S. A., and
+the " image " or " likeness of God " in Lactantius, ii. 10. Accord-
+ing to the Egyptians, man possessed : (1) a physical body (khat) ;
+(2) a soul (ba) ; (3) a heart (db) ; (4) a double (ka) ; (5) an
+intelligence (hhu) ; (6) a power (sekhem) ; (7) a shadow (hhaibit) ; (8)
+a spiritual body (sdh [sici) ; (9) a name (ren). See Budge, Gods of
+the Egyptians^ ii. 299, 300. These are, of course, not arranged in
+any natural order or in a scientific distribution. The precise
+meaning of most of these terms is not known. Budge {of. cit., i.
+163, 164), however, writes : " Related intimately to the body, but
+with undefined functions, as far as we can discover, was the sekhem^
+a word which has been translated ^ power,' and ' form,' and even
+* vital force ' ; finally the glorified body, to which had been united
+the soul, and spirit and power, and name of the deceased, had its
+abode in heaven. This new body of the deceased in heaven was
+called sdhu"
+
+3 Thoth and Maat are represented as sitting on either side of
+Ra in his boat.
+
+
+Hosted by
+
+
+Google
+
+
+90 THRICE-GREATEST HERMES
+
+IV. An Invocation to Thoth as Logos
+
+[Revised text, R. 22. Leemans, op. cit, II. 103, 7 ; Dietericli,
+02?. cit, 189.]
+
+1. Thee I invoke alone, thou who alone in all the
+world imposest order upon gods and men,^ who dost
+transform thyself in holy forms,^ making to be from
+things that are not, and from the things that are
+making the not to be.
+
+2. O holy Thoth,^ the true sight of whose face none
+of the gods endures 1
+
+3. Make me to be in every creature's name^ — wolf,
+dog, [or] lion, fire, tree, [or] vulture,^ wall,^ [or] water,^
+or what thou will'st, for thou art able [so to do].
+
+
+V. An Invocation to Hermes as the Spiritual Light
+
+[Revised text, R. 22, 23. Leemans, ibid., II. 87, 24 ; Dietericli,
+ibid., 176, 1.]
+
+1. Thee I invoke who hast created all, who dost
+transcend the whole, the self-begotten God, who seest
+all and hearest all, but who art seen by none.
+
+2. For thou didst give the sun his glory and all
+might, the moon her increase and her decrease, and
+[unto both] their ordained course. Though thou didst
+not diminish aught the [powers of] darkness, the still
+
+^ That is, Hermes as the cosmic Logos.
+
+2 Thoth changes Ms form in every heaven-space or sphere.
+Compare G, H., i. 13 ; and also the same idea in the descent of
+the Christos in a number of Gnostic systems, where the Saviour
+and King conceals himself in the forms of his servants in every
+phase of his descent. Gf. also G. H.^ xi. (xii.) 16.
+
+* That is, essence, or may be type.
+
+^ Presumably a symbol for air.
+
+^ Presumably a symbol for earth.
+
+7 Compare G, H., xi. (xii.) 20 ; and P. S, A,, vi.
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 91
+
+more ancient [than the sun and moon], thou mad'st
+them equal [with it].^
+
+3. For when thou didst shine forth, Cosmos came
+into being, and light appeared, and all things were
+dispensed through thee ; wherefore they all are under
+thee.
+
+4. thou, whose actual form none of the gods can
+see, who dost transform thyself into them all in visions
+[that men see], O thou Eternity of the eternity.^
+
+5. Thee I invoke, Lord, that thy true form may
+manifest to me, for that I am in servitude below thy
+world,^ slave to thy angel and unto thy fear.^
+
+6. Through thee the pole and earth are fixed.
+
+7. Thee I invoke, Lord, e'en as the gods whom
+thou hast made to shine, that they may have their
+power.
+
+The above prayers afford us some striking examples
+of the popular Hellenistic form of the Hermes religion,^
+
+^ With the Egyptians, Darkness was the mystery of all
+mysteries. As Damascius {On First Principles) says : " Of the
+first ])rinciple the Egyptians said nothing ; but characterised it
+as a darkness beyond all intellectual conception, a thrice unknown
+Darkness " (o-kStos ^'yvtatTTOV r^\s rovro iiri^7)iJLl(ovT€s). See my
+Orpheus (London, 1896), p. 93, and for "Night," pp. 154 and
+170 ff. Perhaps this may again give some clue to the initiation
+" in the black " of the K. K. excerpt. The " dark wisdom " was
+the hidden of the hidden.
+
+'-^ aliijv alcovos. In another hymn, Hermes, as Logos, is called
+"Cosmos of cosmos" (R. 23, n. 1) — that is, the spiritual world or
+order.
+
+3 That is the spiritual cosmos, or cosmos of Mind.
+
+* Compare Isaiah xlv. 7 : ** I form the light and create dark-
+ness : I make peace and create evil : I the Lord do all these
+things." Gf. 0. H"., i. 23, "the avenging daimon" ; and ibid., 15,
+"Within the Harmony he hath become a slave."
+
+^ Called in the Trismegistic literature the "Eeligion of the
+Mind " {Mentis religio). See P, S. A.y xxv.
+
+
+Hosted by
+
+
+Google
+
+
+92 THRICE-GREATEST HERMES
+
+in its theurgic phase. In it Hermes is regarded as the
+Mind^ or Logos. The Mind is invoked to enter the
+mind and heart (I. 10).'^ With the shining out of the
+Mind, the Spiritual or Intelligible Light shines forth in
+the world and man (v. 3). The Mind is thus the guide
+of souls.^ He is also identified with the Good Daimon
+(of whom Chnuphis or Horus are variants), with the
+Great Ocean, the Heaven-Space or Celestial Nile, the
+Great Green, the Light, the ^on.
+
+In connection with the above invocations Keitzenstein
+gives the text of a very interesting ritual of lower theurgy,
+or rite of the sacred flame, which he characterises by the
+term " mystery of lychnomancy or lamp-magic." This
+is the lower side of such high vision as is referred to in
+"The Shepherd of Men'' treatise and in the rite de-
+scribed in the following passage of the Pistis Sophia,
+272, 373 :
+
+" Jesus said unto his disciples : Come unto me ! And
+
+1 Compare the cosmogony in Dietericli, Abraxas, 17, 43 :
+" Through the Bitterness of God, there appeared Mind . . . that
+restrains the heart, and was called Hermes." With this peculiar
+phrase " Bitterness of God " compare the " Bitter Chaos " of the
+hymn at the end of the J. source of the Naassene Document in
+"The Myth of Man" chapter; also the "Bitter Water" or
+Chaos of the Sethian System (Hipp., Philos.y v. 19) ; so also Julian,
+in Oration F., who writes : " The oracles of the gods declare that
+through purification not only our soul but also our bodies are
+judged worthy of being greatly helped and preserved, for it is
+said in them that 'the mortal vesture of bitter matter is pre-
+served.'" Is it thus possible that the "Bitterness" of Jacob
+Bohme may be a reminiscence of the ancient Gnosis?
+
+2 For pure Egyptian parallels see R. 24, n. 1.
+
+3 See the theogony in Dietericli, 02^ cit, 18, 75: "And the
+soul came into being. And God said : * Thou shalt move all
+things . . . Hermes guiding thee.' " Compare G. if., x. (xi.) 21 :
+" But on the pious soul the Mind doth mount, and guide it to
+the Gnosis' light ;" also xii. (xiii.) 12, ix. (x.) 10, iv. (v.) 11, vii.
+(viii.) 2.
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 93
+
+they came unto him. He turned to the four quarters
+of the world, and spake the Great Name over their heads,
+and blessed them, and breathed on their eyes.
+
+" Jesus said unto them : Look, see what ye may see !
+
+" And lifting up their eyes they saw a great Light,
+exceeding vast, which no dweller on earth could
+describe.
+
+" He said to them again : Gaze into the Light, and
+see what ye may see !
+
+"They said: We see fire and water, and wine and
+blood."
+
+VI. The Mystic Eite of the Flame
+
+[Revised text, R. 25-27. Wessely, op. cit, " GriecMsche zauber-
+papyrus von Paris und London" (Vienna, 1888), 68,930 ff,]
+
+(a) Imocation to the Light ^
+
+1. I invoke thee, God, the living one,^ who dost
+show forth thy splendour in the fire, thou unseen
+Father of the Light ! ^ Pour forth thy strength ;
+awake thy daimon, and come down into this fire ;
+inspire it with [thy] holy spirit ; show me thy might,
+and let the house of the almighty God, which is within
+this light, be opened for me! Let there be light, —
+
+1 These rubrics I have added, following the example of Reitzen-
+stein, but not his wording.
+
+^ Compare the expression "Jesus the living [one]" found
+frequently in the Introduction to the " First Book of leou " (Carl
+Schmidt, Gnostische Schriften in hoptischer Sprache aus dem Codex
+Brucianus (Leipzig, 1892), 142-145 — reprinted with his recent
+translation of the Pistis Sophia in Band I. of his Koptisch gnostische
+Schriften (Leipzig, 1905) ; and also the Preface to the newest
+found logoi : " These are the . , . words which Jesus, the living
+[one], spake " (Grenf ell and Hunt, New Sayings of Jesus, London,
+1904).
+
+3 Compare in the same writings the oft-repeated " Father of all
+fatherhood, Boundless Light."
+
+
+Hosted by
+
+
+Google
+
+
+94 THRICE-GREATEST HERMES
+
+[thy] breadth-depth-length-height-ray ; ^ and let the
+Lord, the [God] within, shine forth !
+
+(h) A Stronger Form to he used if the Flame dies down
+
+2. I adjure thee, Light, holy ray, breadth-depth-
+length-height-ray, by the holy names which I have
+uttered,2 and am now about to speak . . . abide with
+me in this same hour, until I have besought thy God,
+and learnt about the things that I desire !
+
+(c) The Theagogy or Invocation of the God proper
+
+3. Thee I invoke, thou mightiest God and Master
+. . . thou who enlightenest all and pour's t thy rays by
+means of thine own power on all the world, God of
+gods !
+
+4. Word {Logos) that orderest night and day, who
+guid'st the ship,^ and hold'st the helm, thou dragon-
+slayer,* Good Holy Daimon . . . !
+
+5. To whom the East and West give praise as thou
+dost rise and set, thou who art blest by all the gods,
+angels, and daimones !
+
+6. Come, show thyself to me, God of gods . . . !
+
+7. Enter, make manifest thyself to me, O Lord ; for I
+invoke as the three apes invoke thee — who symbol-wise
+name forth thy holy Name.
+
+1 See Dieterich, Jahrb. /. Phil., Suppl, xvi. 802, 171, and
+706. Compare also Ephes. iii. 18, and the Valentinian interpreta-
+tion of the terms in this text as given by Hippolytus, PMlos,, vi.
+34 (Dunker and Schneidewin, p. 248) ; also the interpretation of
+the Light Hymn in Pistis Sophia, 146, where the "height" is
+identified with the " home " of the Light.
+
+2 The magic names of power are omitted, as in the other prayers.
+
+3 Horus is often represented as pilot of the sun-ship in its
+voyage across the ocean of space, the " Great Green."
+
+* The dragon here undoubtedly meaning darkness. Cf, 0, H.,i. 4.
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 95
+
+8. In thy ape-form^ enter, appear to me, Lord;
+for I name forth thy mightiest names !
+
+9. thou who hast thy throne about the height of
+cosmos,^ and judgest all, encircled with the sphere of
+Surety and Truth 1^
+
+10. Enter, appear to me, Lord, for that I was
+before the fire and snow, and shall be after [them] ;
+
+11. I am the one who has been born from heaven.*
+
+12. Enter, appear to me, Lord of mighty names,
+whom all have in their hearts,^ who dost burst open
+rocks,^ and mak'st the names of gods to move !
+
+13. Enter, appear to me, O Lord, who hast thy power
+
+and strength in fire, who hast thy throne within the
+
+seven poles.^
+
+^ ws KvpoK4(f)a\os. Can it be possible that behind this strange
+symbolism tbere may once have been some such idea as this — that
+as the ape is to man, so was this great elemental to the God ?
+
+2 Lit., art seated on the head of cosmos,
+
+3 That is the Eternity or ^on, called elsewhere the Pleroma
+or "fullness of grace," and identified with Agathodaimon (see
+prayer, R. 30). See also Wessely, op. cit, 186 (R. 362) ; and com-
+pare John i. 14, " full of grace and truth " ; and 16, " Of his
+fullness have we received, and grace for grace."
+
+^ The regenerate, or spirit-born — that is of " virgin-birth " or the
+" birth of Horus." But compare the declaration of the soul on its
+entrance into the unseen world after death, as given on an inscrip-
+tion found in the tomb of an Orphic or Pythagorean initiate, at
+Petiiia, in what was once Magna Grtecia : " Of Earth and starry
+Heaven child am I ; my race is of the Heavens ! " (See Inscr,
+Gr. SicilicB et Italioe^ 638 ; and my " Notes on the Eleusinian
+Mysteries," Theosophical Review, xxii. 317.)
+
+^ These are the logoi hidden in the hearts of all.
+
+6 This may be merely a figurative expression in praise of the
+might that can not only dissolve the most stable things on earth,
+but also set in motion the centre of stability of spiritual essences ;
+or it may refer to the idea of the "God born from the rock,"
+which is most familiar to us from the Mithriac mystery-tradition,
+where the rock is said to symbolise in physics the " firmament,"
+which was thought of as solid or rigid by the ancients.
+
+7 That is, the seven cosmic spheres.
+
+
+Hosted by
+
+
+Google
+
+
+96 THRICE-GREATEST HERMES
+
+14. And on thy head a golden crown, and in thy
+hand a staff . . .^ by which thou sendest forth the gods !
+
+15. Enter, Lord, and give me answer with thy
+holy voice, that I may clearly hear and truthfully about
+this thing 1
+
+{d) A Stronger Form of Adjuration if (c) fails
+
+16. He doth enjoin thee, He the great living God,
+who is for the eternities of the eternities, the shaker
+and the thunderer, who doth create each soul and every
+birth. Enter, appear to me, Lord, joyous, benignant,
+gentle, glorious, free from all wrath ; for I adjure thee
+by the Lord [of all] !
+
+(e) The Cheeting when the Presence of ths God
+is manifested
+
+17. Hail Lord, God of gods, thou benefactor . . . !
+Hail to thy glories ^ ever more, Lord !
+
+(/) The Farewell to the God
+
+18. I give thee thanks, O Lord. Depart, O Lord, to
+thine own heavens, thine own realms, and thine own
+
+^ fiefjipoivrip — an untranslatable reading. Is it Egyptian 1-— or
+is it intended for fi€fip6viiav ? If the latter, it would presumably
+be connected with the Egyptian myth and cult of Memnon (see
+Roscher's Lexikon, coll. 2661 ff.). The Memnon cult was somehow
+connected with Hermes, for in the ruins of the temple were
+still (at the beginning of the third century) to be seen " statues
+of Hermes," according to Philostratus {Vit Apoll, vi. 4), who
+also {Imag., i. 7) tells us that the Memnon statue was as a lyre
+which was struck by the rod (trXvKrpoy), that is the ray (^ uktIs),
+of the sun. If so, " the rod [of power], by which thou sendest
+forth the gods," that is thy rays, each god being a ray of the
+spiritual sun, might have the epithet Memnonian applied to it.
+But in our present lack of information, this interpretation
+seems very strained.
+
+"■* 5<f|ai — here meaning powers.
+
+
+Hosted by
+
+
+Google
+
+
+THE POPULAR THEURGIC HERMES-CULT 97
+
+ourse, preserving me in health, free from all harm,
+
+ree from all fear of any Tca^ free from all stripes, and
+
+,11 dismay, hearkening to me for all the days of [all]
+ay life !
+
+{g) The Farewell to the Flame
+
+19. Depart, holy ray ; depart, fair and holy light
+►f highest God !
+
+In connection with the above, we may also take the
+ollowing ritual-prayer used in the consecration of an
+imulet ring.
+
+
+VII. A Peayer of Consecration
+
+[Revised text, R. 28, 29. Wessely, ihid,, 84, 1598 iff.]
+
+1. Thee I invoke, greatest God, Lord everlasting,
+,hou world-ruler, above the world, beneath the world,
+nighty sea-ruler ;
+
+2. Who shinest forth at dawn, out from the East
+•ising for all the world, and setting in the West !
+
+3. Come unto me, thou who dost rise from the four
+;vinds, joyous Good Daimon, for whom the heaven is
+;hy revelling-place ! ^
+
+4. I call upon thy holy, mighty, hidden names which
+3hou dost joy to hear.
+
+5. When thou dost shine the earth doth sprout
+ifresh, the trees bear fruit when thou dost laugh, the
+mimals bring forth when thou dost turn to them.
+
+6. Give glory, honour, grace, fortune and power ... I
+
+7. Thee I invoke, the great in heaven . . . ,
+iazzling Sun, who shed*st thy beams on all the world 1
+
+8. Thou a£t Jhe jmdghty serpen^^^^
+
+^ KUfxaa-T'fipioy. Of. I. 5 above.
+VOL. I. 7
+
+Hosted by VjOOQIC
+
+
+98 THRICE-GREATEST HERMES
+
+gods/^ thou who dost possess Egypt's beginning,^ and.
+the end^oFail the world !
+
+9. jPKou art the [God] who saileth o'er the ocean ;
+thou art the [God] who doth come into sight each day.
+
+10. thou who art above the world, and art beneath
+the world, mighty ruler of the sea, give ear unto my
+voice this day, this night, these holy hours [of thine],
+and through this amulet let that be done for which I
+consecrate it !
+
+1 The serpent was a symbol of the Logos, and this is the J.dea
+unJ^SFTy n^16h"e sb-^^^ "OpEite systems" of the Gnosis,
+-s^fpgj^g yqIqj.q ^q the first nome of Upper "Egypt, whose metro-
+polis, Elephantine, was once the chief seat of the popular Agatho-
+daimon cult (R. 29, n. 4). The " world " was thus the Egyptian
+civilised world, beyond which was the darkness of Ethiopia.
+
+
+Hosted by
+
+
+Google
+
+
+THE MAIN SOUKCE OF THE TEISMEGISTIC
+LITEEATURE ACCOEDING TO MANETHO,
+HIGH PRIEST OF EGYPT
+
+Hermes at the Beginning of the Hellenistic
+Period
+
+The more intimate contact of Greek thought and
+philosophy with Egyptian lore and mystic tradition
+began immediately with the brilliant era of the Lagides,
+who gradually made Alexandria the intellectual and
+religious, philosophic and scientific, centre of the
+Hellenistic world.
+
+Thoth- Hermes, as we have seen, had been for the
+Egyptians from the earliest times the teacher of all
+ancient and hidden wisdom ; he was far excellence the
+writer of all sacred scripture and the scribe of the
+gods. We should then naturally expect that his
+dominating influence would play a leading part in the
+new development ; and this, indeed, is amply demon-
+strated by the evidence of the religious art of the time,
+which presents us with specimens of statues of the
+Greek type of Hermes, bearing at the same time either
+the feather of truth (the special symbol of Maat) on the
+head, or the papyrus-roll in the hand ^ — both symbols of
+Thoth in his dual character as revealer and scribe.
+
+
+1 E. 3, nn. 1, 2.
+99
+
+
+Hosted by
+
+
+Google
+
+
+100 THRICE-GREATEST HERMES
+
+Of the complex nature of the mystic and apocalypti
+literature that thus came into existence we have ver;
+distinct testimony.^ In keeping with its Egyptian
+prototype it was all cast in a theological and theo
+sophical mould, whether it treated of physics, o:
+medicine, or astrology. Thus we learn that Pamphilus
+the grammarian,^ was intimately acquainted with (
+Greek- Egyptian literature dealing with "sacrec
+plants" and their virtues as determined by the
+influences of the thirty-six Decans ; this lore, he tells
+us, was derived from the "Books ascribed to the
+Egyptian Hermes."^
+
+
+Petosiris and Neohepso
+
+Of still greater interest are the Greek fragments of
+Petosiris and Nechepso which have come down to us.^
+These Greek fragments are to be dated at least before
+the end of the second century B.o.,^ and afford us
+striking parallels with our extant Trismegistic literature.
+
+In them we find the Prophet Petosiris represented
+as the teacher and counsellor of King Nechepso, as
+Asclepius of Ammon in one type of our literature;
+while it is Hermes who reveals the secret wisdom to
+two younger gods, Asclepius and Anubis, as in our
+sermons he does to Asclepius and Tat.
+
+As to Petosiris himself, Suidas (s.v.) tells us that he
+was an Egyptian philosopher who wrote on comparative
+
+1 See B. 3-7, to whom I am indebted for the indications.
+
+2 Of the school of Aristarchue (fl. 280--264). The great Lexicon
+of Pamphilus is supposed by some to have been the basis of that
+of Hesychius.
+
+3 Apud, Galen, wepl a-nKcov (papfi.t vi. Procem. (torn. ix. p. 798 k).
+
+* See Kiess, PMlologus Supplem., Fragg. 27-29.
+
+* See Kroll, "Aus der Geschichte der Astrologie," Neue
+Jahrhb.f. Phil, u. Pad., vii. 669 ff.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 101
+
+Greek and Egyptian theology, making selections from
+the "Holy Books," and treating of astrology and the
+Egyptian Mysteries. Moreover, Proclus ^ tells us that
+Petosiris had an intimate knowledge of every order of
+the Gods and Angels, and refers to a hieratic formula
+of theurgic invocation to the greatest of the goddesses
+(Necessity), for inducing the vision of this Power, and
+the ritual of the manner of addressing her when she
+appeared, as handed on by the same Petosiris.
+
+The mystical nature of this literature is still more
+clearly shown in what Vettius Valens^ tells us of
+Nechepso, who surpassed the Ammon of our literature
+and attained to direct knowledge of the Inner Way.
+
+Vettius, in the first half of the first century a.d.,
+laments that he did not live in those days of initiate
+kings and rulers and sages who occupied themselves
+with the Sacred Science, when the clear ^ther spake
+face to face with them without disguise, or holding
+back aught, in answer to their deep scrutiny of holy
+things. In those days so great was their love of the
+holy mysteries, so high their virtue, that they left the
+earth below them, and in their deathless souls became
+" heaven-walkers " ^ and knowers of things divine.
+
+Vettius then quotes from a Greek apocalyptic treatise
+of Nechepso, where the King tells us that he had
+remained in contemplation all night gazing into the
+aether ; and so in ecstasy he had left his body,* and had
+then heard a heavenly Voice ^ addressing him. This
+Voice was not merely a sound, but appeared as a
+
+1 KroU, ii. 344 ; Riess, Frag. 33.
+
+2 Riess, Frag. 1.
+
+^ So R. (6) completes a lacuna.
+
+^ j3oi^-~presumably a parallel with the Bath-kol of Talmudic
+Rabbinism.
+
+
+Hosted by
+
+
+Google
+
+
+102 THRICE-GREATEST HERMES
+
+substantial presence, who guided Nechepso on his way
+through the heaven-space.
+
+It is, moreover, exceedingly probable that the mag-
+nilBcent spectacle of the star-spheres ^ to which Vettius
+refers, speaking of it as "the most transcendent and
+most blessed vision (Oeoopla) of all," was taken directly
+from the same source.
+
+With this we may compare the wish of Trismegistus
+that Tat might get him the wings of the soul and
+enjoy that fair sight,^ and the seeing of it by Hermes
+himself through the Mind.^
+
+All of which proves the existence of books in Greek
+in middle Ptolemaic times treating in the same
+manner of identical subjects with those contained in
+our Trismegistic literature.
+
+Manetho the Beloved of Thoth
+
+When, then, the sovereignty of Egypt passed into the
+hands of the Diadochi of Alexander, and the Ptolemies
+made Alexandria the centre of learning in the Greek
+world, by the foundation of the ever-famous Museum
+and Library and Schools in their capital, there arose
+an extraordinary enthusiasm for translating, para-
+phrasing, and summarising into Greek of the old
+scriptures and records of the nations. The most famous
+name of such translators and compilers and comparative
+theologians is that of Manetho,^ who introduced the
+
+^ The same rapturous vision of the soul after death is trans-
+lated by Seneca {Cons, ad Marciam, 18, 2) from Poseidonius
+(135-(?)51 B,o.), who also clearly derived it from the same
+Egyptian Hellenistic literature.
+
+2 a K, V. (vi.) 6.
+
+3 (7. Jff., xi. (xii.) 6, 7 ; also Stob., Eel, i. 49 (386, 3, W.),
+
+* There are some dozen variants in the spelling and accenting
+of this name in Greek transliteration ; in Egyptian we arefiold
+it means " Beloved of Thoth " (Mai en Thoth).
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 103
+
+treasures of Egyptian mysticism, theology, mythology,
+history, and chronology to the Grecian world. More-
+over, seeing that the veracity and reliability of Manetho
+as a historian is with every day more and more
+accepted as we become better acquainted with the
+monuments, he seems to have done his work loyally
+enough.
+
+Manetho was contemporary with the first two
+Ptolemies; that is to say, he lived in the last years
+of the fourth and the first half of the third century B.c.
+He was a priest of Heliopolis (On),i and was thoroughly
+trained in all Greek culture ^ as well as being most
+learned in the ancient Wisdom of Egypt.^ Manetho
+not only wrote on historical subjects, but also on the
+mystic philosophy and religion of his country, and it
+is from his books in all probability that Plutarch and
+others drew their information on things Egyptian.
+Manetho derived his information from the hieroglyphic
+inscriptions in the temples^ and from the rest of the
+priestly records ; but unfortunately his books are almost
+entirely lost, and we only possess fragments quoted by
+later writers.
+
+The Letter of Manetho to Ptolemy Philadelphus
+
+One of these quotations is of great importance for
+our present enquiry. It is preserved by Georgius
+
+1 Phitarcii, De Is, et Osir., ix. and xxviii.
+*^ Joseplius, 0. Apion,, i. 14.
+
+3 jElian, De Ammalium Natura^ x. 16.
+
+4 Budge, op, sup, cit, i. 332, says: '*A tradition says Solon,
+Thales, and Plato all visited the great college at Heliopolis, and
+that the last-named actually studied there, and that Manetho
+the priest of Sebennytus, who wrote a history of Egypt in Greek
+for Ptolemy II., collected his materials in the library of the
+priesthood of Ra."
+
+Hosted by VjOOQIC
+
+
+104 THRICE-GREATEST HERMES
+
+Syncelliis,^ and is stated to be taken from a work of
+Manetho called Soihis? a work that has otherwise
+entirely disappeared. The passage with the introduc-
+tory sentence of the monk Syncellus runs as follows :
+
+'* It is proposed then to make a few extracts concern-
+ing the Egyptian dynasties from the Books of Manetho.
+[This Manetho,] being high priest of the Heathen
+temples in Egypt, based his replies [to King Ptolemy]
+on the monuments ^ which lay in the Seriadic country.
+[These monuments,] he tells us, were engraved in the
+sacred language and in the characters of the sacred
+writing by Thoth, the first Hermes ; after the flood they
+were translated from the sacred language into the then
+common tongue,^ but [still written] in hieroglyphic
+characters, and stored away in books by the Good
+Daimon's son and the second Hermes, father of Tat
+— in the irn^^- chambers of the temples of Egypt.
+
+**In the Booh of Sethis Manetho addresses King
+Philadelphus, the second Ptolemy, personally, writing
+as follows word for word:
+
+" * The Letter of Manetho, the Sebennyte, to Ptolemy
+Philadelphus.
+
+**'To the great King Ptolemy Philadelphus, the
+venerable : I, Manetho, high priest and scribe of the
+holy fanes in Egypt, citizen of Heliopolis but by birth
+a Sebennyte,^ to my master Ptolemy send greeting.
+
+1 Ghron., xl. See Cory (I. P.), Ancient Fragments, pp. 173,
+174 — mispaged as 169 (2nd ed. ; London, 1832) ; and Mliller,
+Fragmenta Historicorum Grcecorum, pp. 511 fF. (Paris, 1848).
+
+3 (TTTjKwpj generally translated " columns" ; but the term is quite
+a general one and denotes any monument bearing an inscription.
+
+* Syncellus has " into the Greek tongue," an evident slip, as
+many have already pointed out.
+
+^ Sebennytus was the chief city of the Sebennyte province,
+situated about the centre of the Delta. Heliopolis or On, the
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 105
+
+*"We^ must make calculations concerning all the
+points which you may wish us to examine into, to answer
+your questions 2 concerning what will happen to the
+world. According to your commands, the sacred books,
+Written by our forefather Thrice-greatest Hermes, which
+I study, shall be shown to you. My lord and king,
+farewell'"
+
+The Importance of Manetho's Statement in his
+
+" SOTHIS "
+
+Here we have a verbal quotation from a document
+purporting to be written prior to 250 B.C. It is evi-
+dently one of a number of letters exchanged between
+Manetho and Ptolemy II. Ptolemy has heard of the
+past according to the records of Egypt ; can the priests
+tell him anything of the future ? They can, replies
+Manetho ; but it will be necessary to make a number
+of calculations. Ptolemy has also expressed a strong
+desire to see the documents from which Manetho
+derived his information, and the high priest promises
+to let him see them.
+
+These books are ascribed to Hermes, the Thrice-
+greatest, and this is the first time that the title is used
+in extant Greek literature. This Hermes was the
+second, the father of Tat, we are told elsewhere by
+Manetho, and son of the G-ood Spirit (Agathodaimon),
+who was the first Hermes. Here we have the precise
+grading of the degrees in our treatises: (i.) The
+Shepherd of Men, or The Mind ; (ii.) Thrice-greatest ;
+(iii.) Tat This refers to the ever-present distinction of
+pupil and master, and the Master of masters.
+
+City of the Sun, was situated some thirty miles north of
+Memphis.
+
+^ Presumably Manetho and his fellow priests.
+
+'■^ Lit., " for you questioning."
+
+
+Hosted by
+
+
+Google
+
+
+106 THRICE-GREATEST HERMES
+
+If, however, we seek for historical allusions, we may
+perhaps be permitted to conclude that the first Hermes,
+that is to say the first priesthood among the Egyptians,
+used a sacred language, or in other words a language
+which in the time of the second Hermes, or second
+priesthood, was no longer spoken. It was presumably
+archaic Egyptian. The two successions of priests and
+prophets were separated by a " flood." This " flood "
+was presumably connected with, if not the origin of, the
+flood of which Solon heard from the priest of Sa'is,
+which happened some nine thousand years before his
+time, and of which we have considerable information
+given us in the Timceus and Critias of Plato.^ The
+Good Angel is the same as the Mind, as we learn from
+the Trismegistic literature, and was regarded as the
+father of Hermes Trismegistus. This seems to be a
+figurative way of saying that the archaic civilisation of
+Egypt before the flood, which presumably swept over the
+country when the Atlantic Island went down, was
+regarded as one of great excellence. It was the time
+of the Gods or Divine Kings or Demi-Gods, whose
+wisdom was handed on in mystic tradition, or revived
+into some semblance of its former greatness, by the lesser
+descendants of that race who returned from exile, or
+reincarnated on earth, to take charge of the new
+populations who had gradually returned to the lower
+Nile plains after the flood had subsided.
+
+Thus we have three epochs of tradition of the
+Egyptian mystery-cultus : (i.) The first Thoth or Agatho-
+daimon, the original tradition preserved in the sacred
+language and character in the stone monuments of the
+
+1 See my article on " The Sibyl and her Oracles," in The Theo-
+sopMcal Review, vol. xxii. pp. 399 ff. See also the passage preserved
+from the Ethiopian Histm^ of Marcellus by Proclus in his com-
+mentary on the Timceus of Plato ; Cory, Ancient Fragments, p. 233.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 107
+
+Seriadic land, presumably the Egypt prior to the
+Atlantic flood ; (ii.) the second Thoth, the Thrice-
+greatest, the mystery-school after the period of the
+great inundation, whose records and doctrines were
+preserved not only in inscriptions but also in MSS.,
+still written in the sacred character, but in the Egyptian
+tongue as it was spoken after the people reoccupied
+the country ; and (iii.) Tat, the priesthood of Manetho's
+day, and presumably of some centuries prior to his time,
+who spoke a yet later form of Egyptian, and from
+whose demotic translations further translations or
+paraphrases were made in Greek.
+
+Is " SoTHis " A Forgery ?
+
+This natural line of descent of the fundamental
+doctrines in the tradition of the Trismegistic litera-
+ture, however, is scouted by encyclopsedism, which
+would have our sermons to be Neoplatonic forgeries,
+though on what slender grounds it bases its view we
+have already seen. It will now be interesting to see
+how the testimony of Manetho is disposed of. Our
+encyclopaedias tell us that the book Sothis is obviously a
+late forgery ; parrot-like they repeat this statement ;
+but nowhere in them do we find a single word of proof
+brought forward. Let us then see whether any scholars
+have dealt with the problem outside of encyclopsedism.
+Very little work has been done on the subject. The
+fullest summary of the position is given by C. Miiller.^
+Miiller bases his assertion on Bockh,^ and Bockh on
+Letronne.^
+
+* Frag, Hist, Grcec, ut sup. cit, p. 512.
+
+2 A. Bockh, Manetho und die Hundsternperiode : ein Beitrag
+%UT Geschichte der Pharaonen^ pp. 14-17 (Berlin, 1845).
+
+^ M. Letronne, Becueil des Inscriptions grecques et latines de
+V:^gypte, torn, i., pp. 206, 280 ff. (Paris, 1842).
+
+
+Hosted by
+
+
+Google
+
+
+108 THRICE-GREATEST HEBMES
+
+The arguments are as follows: (L) That the term
+" venerable " (are^acrro?) is not used prior to the time of
+the Eoman emperors ; (ii.) that Egypt knows no flood ;
+(iii.) that the ancient mythology of Egypt knows no
+first and second Hermes; (iv.) that Egypt has no
+Seriadic land ; (v.) that the term '* Trismegistus " is of
+late use.
+
+
+The Arguments of ENOYCLOPiEDiSM Refuted
+
+Let us take these arguments in order and examine
+them, bearing in mind, however, that the whole
+question has been prejudiced from the start, and that
+encyclopaedism, in order to maintain its hypothesis of
+the spuriousness of our Trismegistic writings, is hound
+to argue the spuriousness of Manetho's Sothis, The cate-
+gorical statements of Manetho are exceedingly distressing
+to the former hypothesis ; in fact, they give it the lie
+direct. As to the arguments, then :
+
+(i.) The term cre^acrrog is in later times equated
+with "Augustus," the honorific title of the Eoman
+emperors. Therefore, it is argued, it could not have
+been used prior to their times. But why not? The
+king to an Egyptian was divine — every inscription
+proves it — and the term "venerable" was in early
+times always applied to the Gods. Why not then
+apply it to the " Great King " ? Indeed, what could be
+more natural than to do so ?
+
+(ii.) We have already shown that, according to Plato,
+Egypt knew most accurately of a Flood ; Plato further
+tells us that Solon got his information from the priests
+of Sais, who told him that all the records were
+preserved in the temple of Neith.
+
+It is not here the place to discuss the Atlanticum of
+Plato and the long history of opinion connected with
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 109
+
+it, for that would require a volume in itself. I have,
+however, acquainted myself with all the arguments for
+and against the authenticity of at least the germ of this
+tradition, and with the problems of comparative
+mythology and folklore involved in it, and also with
+the recent literature of the subject which seeks to
+corroborate the main conceptions of Plato by the
+researches of seership. All this, taken in conjunction
+with the general subject of the " myths " of Plato, and
+the latest views on this subject, has convinced me that
+the greatest of Greek philosophers did not jest when,
+his dialectic having gone as far as it could, he sought
+refuge in the mystery-traditions for corroboration of
+those intuitions which his unaided intellect could not
+demonstrate.
+
+It can of course be argued that every reference to a
+flood in Egyptian Hellenistic literature is but a repeti-
+tion of what the incredulous must regard as Plato's
+brilliant romance ; but in this connection, as in many
+others, it is equally arguable that all such references
+— Plato's included — are derivable from one and the
+same source — namely, Egypt herself.
+
+And, indeed, on 9th November 1904, at a meeting of
+the Society of Biblical Archaeology, a paper by Pro-
+fessor Naville was read by Mr F. Legge on " A Mention
+of a Flood in the Book of the Dead.'' The flood in
+question is that described in the Leyden version as
+Ch. clxxv.^
+
+(iii.) Cicero (106-44 B.C.) speaks of five Mercurii, th6
+last two of whom were Egyptian.^ One was the " son
+of Father Nile," whose name the Egyptians considered
+it impiety to pronounce — and for whom, presumably,
+they substituted the term Agathodaimon ; and the
+
+
+^ See The Athenceum, 12th. November 1904.
+2 De Nat Deorum^ iii. 22.
+
+Hosted by
+
+
+Google
+
+
+110 THRICE-GREATEST HERMES
+
+second was the later Thoyth, the founder of Hermopolis.^
+Cicero could hardly have invented this ; it must have
+been a commonplace of his day, most probably derived
+in the first instance from the writings of Manetho,
+from which generally the Greeks, and those imbued
+with Greek culture, derived all their information about
+Egypt.
+
+And, indeed, Eeitzenstein (p. 139), though he refers
+the information given by Syncellus to a Pseudo-
+Manetho (without a word of explanation, however),
+admits that the genealogy of Hermes there given is in
+its main features old.^
+
+
+The Seriadic Land
+
+(iv,) The statement that Egypt knew no Seriadic
+land or country seems to be a confident assertion, but
+the following considerations may perhaps throw a
+different light on the matter.
+
+In the astronomical science of the Egyptians
+the most conspicuous solar system near our own,
+represented in the heavens by the brilliant Sirius, was
+of supreme interest. Cycles of immense importance
+were determined by it, and it entered into the highest
+mysticism of Egyptian initiation. Sirius was, as it
+were, the guardian star of Egypt. Now ancient Egypt
+was a sacred land, laid out in its nomes or provinces
+according to the heavens, having centres in its body
+corresponding to the centres or ganglia of the heavens.
+lAs the Hindus had a Heavenly Ganges (Akasha-Ganga)
+and an earthly Ganges, so had the heavens a Celestial
+
+^ Ursin, De Zoroasire, etc., p. 73.
+
+^ For a permutation of tlie elements in this genealogy, in the
+interests of Heliopolis, see Varro, De Genie Pop, Bom,, as quoted
+by Augustine in De Giv. Dei, xviii. 3 and 8.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN vSOURCE OF TRISMEGISTIC LITERATURE 111
+
+Nile, and Egypt a physical Nile, the life-giver of the land.
+The yearly inundation, which meant and means every-
+thing for ancient and modern Khem, was observed witlj
+great minuteness, and recorded with immense pains, the
+basis of its cycle being the Sothiac or Siriadic ; Sirius
+(Seirios) being called in Greek transliteration Sothis
+and Seth (Eg. Sept). What more natural name, then,
+to give to the country than the Seriadic Land ?
+
+The Nile records in ancient times were self-registered
+by pyramids, obelisks, and temples, and in later times
+nearly all monuments were built according to the type
+of the masonic instruments of the Egyptian astro-
+geological science. This science has been studied in
+our own times by an Egyptian, and the results of his
+researches have been printed " for private circulation,"
+and a copy of them is to be found in the British
+Museum. In his Preface the author writes as
+follows : ^
+
+*' The astrogeological science gave birth to a monu-
+mental system, by means of which the fruits of the
+accumulated observations and experience of the human
+race have been preserved, outliving writings, inscrip-
+tions, traditions, and nationalities. The principal
+monuments had imparted to them the essential property
+of being autochronous landmarks of a geochronological
+nature. Many of them recorded, hydromathematically,
+the knowledge in astronomy, in geography, and in the
+dimension and figure of the earth obtained in their
+respective epochs. They were Siriadic monuments,
+because their magistral lines were projected to the scale
+
+1 Hekekyan Bey, C. E,, ^ Treatise on the Ghronology of Siriadic
+Monuments, demonstrating tJiat the Egyptian Dynasties of Manetho
+are Records of Astrogeological Nile Observations which have been con-
+tinued to the Present Time — Preface, p. v. (London, 1863). The
+book deserves careful study, and cannot be hastily set aside with
+the impatience of prejudice.
+
+
+Hosted by
+
+
+Google
+
+
+112 THRICE-GREATEST HERMES
+
+of the revolutions of the cycles of the star Surios (sic)
+in terms of the standard astrogeological cubit."
+
+Doubtless our author flogs his theory too severely, as
+all such writers do ; but nilometry and the rest was
+certainly one of the most important branches of the
+priestly science.
+
+The STELi^E OF Hermes
+
+But before we deal with the last objection urged
+against the authenticity of Manetho's Soihis, we will
+add a few words more concerning these Seriadic monu-
+ments known in antiquity as the Stelae of Hermes or
+of Seth, and erroneously spoken of in Latin and English
+as the ** Columns " or " Pillars " of Hermes.
+
+The general reader may perhaps be puzzled at the
+variety of spelling of the name of the star, but he should
+recollect that the difficulties of transliteration from one
+language to another are always great, and especially so
+when the two languages belong to different families.
+Thus we find the variants of Tehuti, the Egyptian name
+of Hermes, transliterated in no less than nineteen
+various forms in Greek and two in Latin — such as Thoy th,
+Thath, Tat, etc.^ Similarly we find the name of the
+famous Indian lawgiver transliterated into English as
+Manu, Menu, Menoo, etc.
+
+With regard to these **Mercurii Columnae," it was
+the common tradition, as we have already pointed out,
+that Pythagoras, Plato, and others got their wisdom
+from these columns, that is to say, monuments.^ The
+
+1 See Pietschmann, op. cit,, pp. 31, 32 ; also Spiegelberg,
+Becueil des Travaux relatifs a la Philologie et cc VArMologie
+egyptiennes et assyriennes, xxiii. 199. R. 117, n. 1.
+
+2 See the last chapter of the book from which the following
+passage is quoted. See also lamblichus, Be Mysteriis^ cap. ii.,
+who in a very clear statement of the sources of his information^
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 113
+
+historian Ammianus Marcellinus,^ the friend of the
+Emperor Julian, has preserved for us a peculiarity of
+the construction of some of these pyramids or temples
+which is of interest. The passage to which we refer
+runs as follows :
+
+"There are certain underground galleries and
+passages full of windings, which, it is said, the adepts
+in the ancient rites (knowing that the flood was coming,
+and fearing that the memory of the sacred ceremonies
+would be obliterated) constructed in various places,
+distributed in the interior [of the buildings], which were
+mined out with great labour. And levelling the walls,^
+they engraved on them numerous kinds of birds and
+animals, and countless varieties [of creatures] of another
+world, which they called hieroglyphic characters."^
+
+We are thus told of another peculiarity of some of
+the Seriadic monuments, and of the " Books preserved
+from the Flood " of which there were so many traditions.
+These are the records to which Sanchuniathon and
+Manetho make reference.
+
+The Sons of Seth-HermIs
+
+The Egyptian account is straightforward enough ; but
+when Josephus, following the traditional practice of his
+race in exploiting the myths of more ancient nations
+for the purpose of building up Jewish history — for the
+
+and the method of treating the numerous points raised by
+Porphyry, says : " And if thou proposest any philosophical
+problem, we will resolve it for thee according to the ancient
+monuments of Hermes, on the thorough study of which Plato,
+and prior to him Pythagoras, founded their philosophy."
+
+1 Who flourished in the early second half of the fourth
+century a.d.
+
+2 The passages and chambers being hewn out of the solid rock.
+
+3 Ammiani Marcellini Rerum Gestarwm Libri qui swpersmit,
+xxii. XV, 30 ; ed. V. Gardthausen (Leipzig, 1874), p. 301.
+
+VOL. I. 8
+
+Hosted by VjOOQIC
+
+
+114 THRICE-GEEATEST HERMES
+
+Mosaic Books supply innumerable examples of the
+working-up of elements which the Jews found in the
+records of older nations — runs away with the idea that
+Seth (the Egyptian Sirius) was the Biblical patriarch
+Seth, the Jewish ** antiquarian " enters on a path of
+romance and not of history. Tis thus he uses the
+Egyptian Seriadic tradition for his own purposes :
+
+"All of these [the Sons of Seth] being of good
+disposition, dwelt happily together in the same country
+free from quarrels, without any misfortune happening
+to the end of their lives. The [great] subject of their
+studies was that wisdom which deals with the heavenly
+bodies and their orderly arrangement. In order that
+their discoveries should not be lost to mankind and
+perish before they became known (for Adam had foretold
+that there would be an alternate disappearance of all
+things ^ by the force of fire and owing to the strength and
+mass of water) — they made two monuments,^ one of
+brick and the other of stone, and on each of them en-
+graved their discoveries. In order that if it should
+happen that the brick one should be done away with
+by the heavy downpour,^ the stone one might survive
+and let men know what was inscribed upon it, at the same
+time informing them that a brick one had also been
+made by them. And it remains even to the present day
+in the Siriad land." *
+
+This passage is of great interest not only as affording
+a very good example of the method of inventing Jewish
+'*■ antiquities," but also as permitting us to recover the
+outlines of the original Egyptian account which Josephus
+purloined and adapted. The Sons of Seth were the
+initiates of the archaic priesthood of the First Hermes.
+
+^ ray *6\av, 2 ctt^Aos.
+
+3 iTTo/LL^piaSf a downpour or flood of rain.
+
+4 Josephns, Antt., I. ii. ; Cory's An, Fragg,^ pp. 171, 172.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OP TRISMEGISTIC LITERATURE 115
+
+Adam has been substituted for the First Man, in the
+sense of our " Shepherd " tradition ; and the two kinds
+of monuments (which Josephus seems to regard as
+two single structures and not as relating to two classes
+of buildings) may refer to the brick structures and
+temples of that age, and to specially constructed and
+more lasting monuments of stone — perhaps rock-cut
+temples, or the most ancient pyramids. I have also
+asked myself the question as to whether there may
+not be some clue concealed in this " brick monument "
+reference to the puzzling statement in the Babylonian
+Talmud^ that Jesus set up a " brick-bat " and worshipped
+it. Jesus is said in the Talmud Jeschu Stories to have
+" learned magic in Egypt," and the magical wisdom of
+ancient Egypt is here said to have been recorded on
+monuments of brick.^
+
+Eeitzenstein (p. 183), after pointing to the similarity
+of tradition as to the Seriadic Land contained in Josephus,
+and in what he characterises as Pseudo-Manetho,^ adds
+the interesting information that the Seriadic Land is
+borne witness to by an inscription as being the home
+and native land of Isis ; indeed, the Goddess herself is
+given the name of Neilotis or Seirias; she is the
+fertile earth and is Egypt.*
+
+To continue, then, with the consideration of the
+arguments urged against the authenticity of Manetho's
+Sothis. With regard to objection (iv.), we have given
+very good reasons for concluding that so far from
+Egypt " knowing no Seriadic land," Egypt was the
+Seriadic Land par excellence^ and the Books of Hermes
+
+^ Sanhedrin, 107 B ; Sota^ 47 a.
+
+2 See my Did Jesus Live 100 B,c, ?— pp. 137 ff. and 147 ff.
+
+3 A similarity already pointed out by Plew, Jahrh, /. PhiL
+(1868), p. 839.
+
+^ Drexler in Reseller's Lex. d. Myth., ii. 388, 408, 445.
+
+
+Hosted by
+
+
+Google
+
+
+116 THRICE-GEEATEST HERMES
+
+were the direct descendants of the archaic stone monu-
+ments of that land. And further, we have shown that
+our Trismegistic writings are a step or two further
+down in the same line of descent. The whole hangs
+together logically and naturally.
+
+We have thus removed four of the five props which
+support the hypothesis of forgery with regard to the
+Sothis document. Let us now see whether the remain-
+ing prop will bear the weight of the structure.
+
+The Epithet "Thrice-greatest"
+
+(v.) We are told that the term " Trismegistus " is of
+late use. This assertion is based entirely on the
+hypothesis that all our extant Trismegistic writings are
+Neoplatonic forgeries of the third or at best the second
+century, before which time the name Thrice-greatest
+was never heard of. The term Trismegistus must go
+as far back as the earliest of these writings, at any rate,
+and where we must place that we shall see at the end
+of our investigations.
+
+That the peculiar designation Trismegistus was known
+in the first century even among the Komans, however,
+is evident from the famous Latin epigrammatist Martial
+(v. 24), who in singing the praise of one Hermes, a famous
+gladiator, brings his paean to a climax with the line :
+
+Hermes omnia solus et ter wius.^
+
+A verse which an anonymous translator in 1695 freely
+
+renders as :
+
+Hermes engrosses all men's gifts in one,
+And Trismegistus' name deserves alone.
+
+Such a popular reference shows that the name
+
+Trismegistus was a household word, and argues for
+
+^ Pietschmann misquotes this line, giving " ter maximus " for
+" ter unus " (op, cit, p. 36).
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 117
+
+many years of use before the days of Martial (a.d.
+43-104 ?). But have we no other evidence ?
+
+In the trilingual inscription (hieroglyphic, demotic,
+and Greek) on the famous Eosetta Stone, which sings
+the praises of Ptolemy Epiphanes (210-181 B.a), Hermes
+is called the '* Great-and-Great." ^ Letronne renders
+this deux fois grand ; ^ and in his notes ^ says that
+the term " Trismegistus " was not known at this date,
+thus contemptuously waving aside Manetho's Sothis.
+Had it been known, he says, it would undoubtedly have
+been used instead of the feebler expression " great-and-
+great."* But why undoubtedly? Let us enquire a
+little further into the matter. The Egyptian re-
+duplicated form of this attribute of Hermes, da ddy
+the " great-great," is frequently elsewhere found with a
+prefixed sign which may be transliterated ur,^ So
+that if the more simple form is translated by " great,
+great," the intensive form would naturally be rendered
+"great, great, great," or "three times great." But
+we have to deal with the form "thrice-greatest," a
+superlative intensive. We have many examples of
+adjectives intensified with the particle rpU in Greek,^
+
+1 Kaddircp 'Ep/i77s 6 fi4yas Koi fi4yas, line 19 ; the reading is
+perfectly clear, and I cannot understand the remark of Chambers
+(op. cit., Pref. vii.) that Hermes is called " fi^yas, fiiyas^ fieyas "
+on the Rosetta Stone.
+
+2 " Inscription grecque de Rosette," p. 3, appended to Mliller,
+Frag. Hist Grcec. (Paris, 1841).
+
+3 Ibid., p. 20.
+
+^ Recueil des Inscriptions grecques et latines de VSgypte, i. 283
+(Paris, 1842).
+
+s See Pietschmann, op. sup. cit., p. 35.
+
+6 In Greek not only is the term rpitrfxaKap (thrice-blessed)
+applied to Hermes in the inscriptions of Pselcis (see Letronne's
+Recueil, i. 206 n.), but also in a Magical Prayer (Wessely, 1893—
+p. 38, 11. 550 ff, ; Kenyon, p. 102) he is addressed as rpi<rix4yas, or
+"thrice-great" simply.
+
+
+Hosted by
+
+
+Google
+
+
+118 THRICE-GREATEST HERMES
+
+but no early instances of their superlatives ; therefore,
+what ? Apparently that the term '' Trismegistus " is a
+late invention.
+
+But may we not legitimately suppose, in the absence
+of further information, that when the Egyptian had
+intensified his reduplicated form he had come to an
+end of his resources — it was the highest term of great-
+ness that he could get out of his language? Not so
+when he used Greek. He could go a step further in
+the more plastic Hellenic tongue. Why, then, did he
+not use " thrice-greatest " instead of " great-and-great '*
+on the Kosetta Stone ?
+
+Because he was translating da da and not its
+intensified form. But why did he not use the
+intensified form in the demotic inscription ? Well,
+" whys " are endless ; but may we not suppose that, as
+Ptolemy was being praised for his jtostice, which he is
+said to have exercised '' as Hermes the great-and-great,"
+the reduplicated form was sufficient for this attri-
+bute of the idealised priesthood, while the still more
+honorific title was reserved for Hermes as the per-
+sonified Wisdom? Or, again, may it not have been
+politic to refrain from adjectives which would have
+dimmed the greatness of Ptolemy?
+
+The Clue of Gkiffiths
+
+So I wrote in November 1899, when the major part
+of this chapter was first published in The Theosophical
+Review. Shortly afterwards, however, I came across an
+entirely new clue. In his Stories of the High Priests of
+Memphis : the Sethon of Herodotus and the Demotic Tales
+of Khamuas (Oxford, 1900), F. LI. Griffiths presents
+us with the translation of an exceedingly interesting
+demotic text, found on the verso of two Greek docu-
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 119
+
+ments, the contents of which prove them to be official
+land-registers of the seventh year of Claudius (a.d.
+46-47). There is also '* strong evidence for attributing
+the demotic text to some time within thirty years from
+that date" (p. 41). So much for the copy of the
+original ; but what of its contents ? As they belong to
+the most important cycle of folk-tales of Egypt, it is to
+be assumed that their form and substance is old.
+
+In this papyrus we are told that on an occasion of
+great need when the Pharaoh of Egypt was being over-
+come at a distance by the sorceries of the Ethiopian en-
+chanters, he was saved, and the magic of the Black Ones
+sent back upon them, by a certain Hor, son of Pa-neshe,
+most learned in the Books. Before his great trial of
+strength with the Ethiopian spells, we read of this
+Hor that:
+
+" He entered the temple of Khmun ; he made his
+offerings and his libations before Thoth, the Eight-times-
+great, the Lord of Khmun, the Great God " (p. 58).
+
+To this Griffiths appends the following note :
+
+"* Thoth, eight times great'; the remains of the
+signs indicate this reading. The title, which here
+appears for the first time in Egyptian literature, is the
+equivalent of Tpia-jULeyLcrrog [thrice - greatest], a late
+epithet first used about the date of this MS.^ 6 is
+fjiiyag [great], which we may represent algebraically by
+a; 6 6 (2<x), a common title of Thoth in late hiero-
+glyphic, is /x€ya9 koI fxeyag [great and great] on the
+Eosetta Stone, but probably represents juLeytcrTog
+[greatest], and So is therefore rpio-jUieyiaTo? [thrice-
+greatest], ie. (2af. The famous epithet of Hermes
+which has puzzled commentators thus displays its
+mathematical formation. 66 = 3(2a) would not fill the
+
+1 Griffitlis here refers to Pietschmann as his authority for this
+statement.
+
+
+Hosted by
+
+
+Google
+
+
+l20 THRICE-GiREATEST HERMES
+
+lacuna on the papyrus, nor would it give the obviously
+intended reference to the name of Thoth's city, *the
+Eighth,' and the mythological interpretation of that
+name."
+
+The mythological interpretation of that name, namely
+Khmun (Khemen-nw\ which Budge transliterates
+Khemennu, Griffiths says is " the eighth city," ie,
+" the eighth in Upper Egypt going up the river. " ^
+
+We are loth to deprive any one of a so fair
+adaptation to environment in the evolution of purely
+physical interpretation ; but we are afraid that our
+readers will have already learned for themselves that
+Khemennu was the City of the Eight, the City of the
+Ogdoad, and will expect some less mundane explanation
+of the name ; not that we altogether object to Khemennu
+being the " Eighth City up the Elver," if that river is
+interpreted as the Celestial Nile on which the soul of
+the initiated sailed in the solar boat.
+
+Eeitzenstein then is wrong in supposing (p. 117, n. 6)
+that Griffiths connects the honorific title Trismegistus
+with the eight cynocephali who form the paut of Thoth ;
+but we may do so.
+
+The nature of this symbolic Ogdoad is most clearly
+seen in the inscription of Der-el-Bahari, of the time of
+the Twenty-second Dynasty which Maspero has lately
+published.^
+
+In it the Osirified says to the Supreme :
+
+"I am One who becomes Two; I am Two who
+becomes Four ; I am Four who becomes Eight ; I am
+the One after that."
+
+So also in the first Hermes Prayer, quoted in a
+preceding chapter, addressed to Hermes as Agatho-
+
+1 Of. Proc. Soc. Bib. Arch. (1899), p. 279.
+
+2 Eecueil des Travdux relat. a la Phil, et a VArcheol. egypt. et
+assyr., xxiii. 196. Gf. R. 54.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 121
+
+daimon, Thoth is he ** whom the Eight Wardens
+guard."
+
+These Eight, we may perhaps be permitted to specu-
+late, were generated Two from One, acu aa, Greatest ;
+Four from Two, Twice-greatest; Eight from Four,
+Thrice-greatest.
+
+Such a combination would specially commend itself
+to men trained in Pythagorean mathematical symbols,
+as were doubtless many who took part in compiling the
+Egyptian Hellenistic theosophical literature.
+
+I, therefore, conclude that the honorific title Thrice-
+greatest can very well go back to early Ptolemaic times ;
+and therefore, as far as I can see, the authenticity of
+Manetho's Sothis stands unimpugned as far as any
+arguments so far brought against it are concerned. I
+therefore regard the quotation of Syncellus as a most
+valuable piece of information in tracing the genesis of
+the Trismegistic literature. Whether or not any of our
+extant sermons can be placed among these earlier forms
+of this literature will be discussed later on.
+
+
+The Earliest Trismegistic Literature
+
+That, however, literature of a similar nature existed
+in early and middle Ptolemaic times we have already
+seen from the material adduced at the beginning of
+this chapter ; we may therefore fitly conclude it by
+pointing out that in later Ptolemaic times, and down
+to the first century a.d., we find in the same litera-
+ture specimens of cosmogenesis closely resembling the
+main elements of the world-formation given in our
+" Shepherd " treatise.
+
+An excellent example is that of the fragmentary
+cosmogonical poem, the text of which Eeitzenstein has
+printed in his Zwei religioTtsgesch, Fragen, to which we
+
+
+Hosted by
+
+
+Google
+
+
+122 THRICE-GREATEST HERMES
+
+have already referred. This poem Eeitzenstein (p. 92)
+dates as belonging to the first century B.C., though it
+may probably be earlier ; it declares itself to be of the
+Hermes tradition, both in its statement about itself
+and also in the fact that it is Hermes, the Beloved
+Son of Zeus, who is the Logos-Creator of the cosmos,
+and also the progenitor or "father" of the prophet-
+poet who writes the vision,
+
+Philo Byblius
+
+But not only did the tradition of Egyptian Hermes
+dominate the Greek forms of cosmogony which
+emanated from Alexandria and spread through the
+Hellenic world, but it also imposed itself upon the
+forms of cosmogony and the history-writing of other
+nations; the most striking example of this is to be
+found in the Phoenician Histories of Philo Byblius, who
+lived in the second half of the first century a.d.
+
+The fragments of this work are of great interest to
+our present enquiry, as they tend to show that both
+Egypt and Phoenicia, the two most sacred nations,
+derived their cosmogonical knowledge and mystery-
+traditions from the same source; that source being
+traced to the most archaic Books of Thoth.
+
+This is all, no doubt, an overwriting of Phoenician
+records in the light of Egyptian tradition; Philo,
+however, would have us regard his work as a Greek
+translation or paraphrase of a compilation made by an
+ancient and learned Phoenician priest, Sanchuniathon,
+based immediately upon archaic Phoenician records by
+one who was also learned in the oral tradition of his
+own mysteries.
+
+The initial question as to whether Philo had a
+genuine Phoenician document before him or not, need
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 123
+
+not occupy us here, save in the most superficial fashion,
+as we are at present interested in the Egyptian
+elements of his account solely, and not in disentangling
+the native Phoenician substratum.
+
+It must, however, in fairness be said that though
+the Byblian prefaces his account with an introduction
+and intersperses it with occasional remarks, all this is
+transparently his own, and is clearly distinguishable
+from what have every appearance of being translated
+passages.
+
+Are his " Phcenician Histoeies " a Forgery ?
+
+The general theory, however, since the time of Orelli ^
+has been that Philo forged the whole of this cosmogony
+and history. On the contrary, it was made considerable
+use of by Porphyry in his criticism of Christianity, and
+Eusebius^ quotes the passages used by Porphyry.^
+The whole work of Philo, moreover, is claimed to be
+recovered by Wagenfeld, who has elaborately defended
+its genuineness.^ There indeed seems no reason to
+
+^ J. C. Orelli, Sanchoniathonis Berytii qitm ferimtiir Fragmenta
+(Leipzig, 1826).
+
+^ Prceparatio Evangelica, I. vi., \'ii.
+
+^ These are collected by Gory in his Ancient Fragments^ pp.
+3 Iff. (London, 1832) ; and they may also be found in C. Mtlller,
+Fragmenta Historicorum Grmcorum, " Philo Byblius," iii. pp. 560
+ff. (Paris, 1848).
+
+^ F. Wagenfeld, Sanchuniathon's UrgescMchte der Phonizier in
+einem Auszuge a^is der wieder aufgefundenen Handschrift von Philo's
+voUstandiger (Jbersetzung (Hanover, 1836). In the following year
+Wagenfeld published the Greek text with a Latin translation
+under the title Sanchoniathonis Historiarum Phmiicice Libri IX,
+(Bremse, 1837). For the further consideration of the reliability
+of Sanchuniathon, see Gount (Wolf Wilhelm) Baudissin's Stud.ien
+zur semitischen Religionsgeschichte, Heft ii., " Uber den religions-
+geschichtlichen Werth der phonicischen Geschichte Sanchuni-
+athon's^' (Leipzig, 1876).
+
+
+Hosted by
+
+
+Google
+
+
+124 THRICE-GREATEST HERMES
+
+accept the forgery-hypothesis, which apparently rests
+on an even flimsier basis than the forgery-theory of
+the Trismegistic writings. The work, on the contrary,
+considered as a specimen of Phoenician story strongly
+influenced by Egyptian tradition, is a most interest-
+ing document for understanding the ancient Semitic
+mystery-tradition as distinguished from Jewish adapta-
+tions of general Semitic legend — in other words, the
+distinction of Semitismus and Israelitismus, Porphyry
+was not only a Semite himself but also a good critic,
+and not likely to base his arguments on a forgery;
+nor would Philo have ventured to put forward a
+forgery when there were thousands of learned and
+fanatical Jews who would have been only too glad to
+expose it.
+
+Philo tells us that the Phoenician public traditions
+being chaotic, " Sanchuniathon, a man of great learning
+and a busy searcher [after knowledge], who especially
+desired to know the first principles from which all
+things are derived, most carefully examined the Books
+of Taaut, for he knew that Taaut was the first of all
+under the sun who discovered the use of letters and
+the writing of records. So he started from him, making
+him as it were his foundation — from him the Logos
+whom the Egyptians called Thouth, the Alexandrians
+Thoth,^ but whom the Greeks have turned into Hermes.''^
+
+
+Sanchuniathon and the Books of Hermes
+
+This evidently means that the source of Sanchuni-
+athon's information as to the mystic beginning of
+things was derived from the Books of Thoth, and
+
+1 Perhaps attempts at transliterating the dialectic variants of
+Upper and Lower Egypt of the name Tehnti.
+
+2 Wagenf eld's text, Prooem., p. 2 ; Euseb., Prcep. Ev.y I. ix. 29.
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 125
+that this was so may be seen from the following
+
+
+" He supposes the beginning of all things to consist
+of a Dark Mist of a spiritual nature, or as it were a
+Breath of dark mist, and of a turbid Chaos black as
+Erebus ; ^ that these were boundless, and for many an
+age ^ remained without a bound. * But when,' he ^ says,
+' the Spirit fell in love with his own principles,* and
+they were interblended, that interweaving was called
+Love ; ^ and this Love was the origin of the creation of all
+things. But [Chaos] did not know its own creation.^
+From its embrace with Spirit Mot was born.^ From
+her [Mot, the Great Mother] it was that every seed of
+the creation came, the birth of all the cosmic bodies.
+
+" * [First of all] there were [Great] Lives ^ devoid of
+sensation, and out of these came subsequently [Great]
+
+1 This is the beginning of the out-breathing of the universe or
+of any system ; it is the Great Breath or Spirit moving on the
+Waters of Chaos, the primal nebula. Erebus was fabled to be a
+region of nether darkness separating Earth and Hades (not Hell).
+It was the Dark Side of Heaven.
+
+^ Lit., ason.
+
+2 That is, Sanchuniathon ; so that we may take this passage as
+a direct quotation, or rather translation.
+
+^ Or sources ; that is, the primal states of Matter or Chaos.
+
+^ Pothos, ir6eos ; yearning, longing — love for all that lives and
+breathes. This union was symbolised not only among the
+Phoenicians but also among most of the other nations by an egg,
+round which a serpent twines. When the egg and serpent are
+represented apart they stand for " Chaos " and " Ether," matter
+and spirit ; but when united they represent the hermaphrodite or
+male-female first principle of the universe, spirit-matter, called in
+Greek translation Pothos or Eros.
+
+^ Of, " The Darkness comprehended it not " of the Proem to the
+Fourth Gospel.
+
+^ Here Philo, the translator, volunteers the information that
+some call this prime plasm of Chaos, " Slime," others explain it as
+" Fermentation," in a watery sort of medium.
+
+^ The primal elements and their subdivisions.
+
+
+Hosted by
+
+
+Google
+
+
+126 THRICE-GREATEST HERMES
+
+Lives possessed of intelligence.^ The latter were called
+Zophasemin (that is to say, *' Overseers of the Heavens ").
+The latter were fashioned in the form of eggs, and shone
+forth as Mot, the Sun and Moon, the Stars and the
+great Planetary Spheres.
+
+"*ISrow as the [original] nebula began to lighten,
+through its heat mists and clouds of sea and earth ^
+were produced, and gigantic downpours and torrents of
+the waters in the firmaments. Even after> they were
+separated,^ they were still carried from their proper
+places by the heat of the sun, and all the [watery and
+earthy elements] met together again in the nebula one
+with the other, and dashed together, amid thunder and
+lightning ; and over the crash of the thunderings the
+[Great] Eational Lives before-mentioned watched,^ while
+on the land and sea male and female cowered at their
+echo and were dismayed.'
+
+" After this our author proceeds to say : ' These
+things we found written in the Cosmogony of Taaut,
+and in his commentaries, based on his researches and
+the evidences which his intelligence saw and discovered,
+and so enlightened us.' " ^
+
+There are many other points of interest in Philo's
+translation, but we need not elaborate them here. One
+point, however, must not be omitted, because of its
+importance with regard to the Hermes-^^sculapius
+tradition, an important factor in the Trismegistic
+writings.
+
+1 The same distinction is made in the cosmogonic account in
+" The Shepherd," but with more detail,
+
+^ Presumably still mingled together, as in the account in '* The
+Shepherd."
+
+3 That is to say, after the land and water were separated.
+
+4 iyp7iy6pr}(r€y. The same expression is used in the Greek transla-
+tion of The Book of Enoch, in speaking of the Watchers (Egregores).
+
+^ Op. cit., i. ii.j pp. 8 ff .
+
+
+Hosted by
+
+
+Google
+
+
+MAIN SOURCE OF TRISMEGISTIC LITERATURE 127
+
+"And Cronus [Ammon] going to the land of the
+South gave the whole of Egypt to the God Taaut to be
+his kingdom. All these things were first recorded by
+the Seven Sons of Sydyk, the Cabiri, and their eighth
+brother, Asclepius, as it was commanded them by the
+God Taaut"!
+
+-^sculapius is here at once identified with the cult
+of the " Great Gods " (m;}, KBE, Kabirim), who were,
+according to the old Semitic tradition, the Sons of King
+Sydyk (? Melchizedec). The whole subject of the very
+ancient mysteries of these Great Gods is one of immense
+interest, but we must not be tempted to follow this
+alluring bye-path.^ Enough has been said to show
+that both Sanchuniathon and the writer of "The
+Shepherd " drew their accounts of cosmogony from the
+same sources, namely, the " Books of Thoth," or, in other
+words, the Egyptian mystery-tradition.
+
+1 Op. cit.^ viii. p. 26.
+
+'2 The best source of information is the art. " Megaloi Theoi,"
+in Roscher's AusfilhrUches Lexihon der griechischen u. romischen
+Mythologie, II. ii. (Leipzig, 1894-97).
+
+
+Hosted by
+
+
+Google
+
+
+VI
+
+AN EGYPTIAN PEOTOTYPE OF THE MAIN
+FEATUEES OF THE PGEMANDEES' COSMOGONY
+
+The Highee Criticism of the "Pcemandres"
+
+One has only to read through the remains of the
+Trismegistic literature preserved to us to assure him-
+self that the whole of it looked back to the Poemandres
+instruction as the most primitive form of the tradition
+in the language of Greece. The extant form of our
+" Poemandres " sermon is clearly not the most primitive
+form ; but whatever that form was, it must have con-
+tained the cosmological part.
+
+Now, if we regard this cosmogenesis as a purely
+literary compilation, the task of the higher criticism will
+be to try to sift out the various elements in it, and if
+possible to trace them to their sources.
+
+But before making any attempt of this nature, it will
+be as well to consider the nature of the literary art of
+our document. It purports itself to be an apoca-
+lypse, or rather the record of an apocalyptic vision, and
+not a purely literary compilation from already existing
+literary sources. It declares itself to be the work of a
+seer and prophet and not of a scribe or commentator ; it
+claims to be an inspired document, a scripture, and not
+the work of a schoolman.
+
+. Of this class of writing we have very many examples
+in other scriptures, and it will be as well to consider
+
+128
+
+
+Hosted by
+
+
+Google
+
+
+A PEOTOTYPE OF THE PGEMANDREs' COSMOGONY 129
+
+briefly the nature of such documents. In the original
+form of apocalypses we do not as a rule find that
+prior formal literary material is used — that is to say, we
+do not find that previously existing written sources are
+incorporated ; what we do find is that in almost every
+case the seer uses the forms and terms of previously
+existing ideas to express what he sees. These forms
+and terms are found in already existing written and
+oral traditions, and the prophetical writer is compelled
+to use the thought-language of his own mind and of
+that of his age to express himself. This, however, does
+•not negate the possibility of his having seen a true
+vision, of his having been inspired.
+
+It is evident that whoever wrote the " Poemandres "
+must have been saturated with the religious, mystical,
+philosophic, and scientific thought of his age, clothed in
+the forms of the thought-language of his day ; and it
+is also clear that whatever ** newness " there may have
+been in him, was owing to the nature of the " touch "
+of inspiration he had received. This striking of a new
+keynote, as it were, in his inner nature, enabled him to
+regroup and reconstruct the previous ideas he had
+imbibed from his studies.
+
+A Peototype of its Cosmogenesis
+
+Now as far as our cosmogenesis is concerned, it has
+not yet been found possible to trace the exact verbal
+forms of its elements to any precise literary sources,
+but it has been found possible to point to written
+sources which contain similar ideas ; and not only so,
+but with regard to the main features of it, a distinct
+prototype has been found in Egypt itself. This dis-
+coveryis due to Keitzenstein (pp.69 ff.),and the prototype
+is to be found in an Egyptian inscription in the British
+
+VOL. I. 9
+
+Hosted by VjOOQIC
+
+
+130 THRICE-GREATEST HERMES
+
+Museum, which was first read correctly and interpreted
+by Dr J. H. Breasted.^ Before using it, however, Eeit-
+zenstein got his colleague Professor Spiegelberg to go
+through it; and again when Maspero, in reviewing^
+Breasted's work, had further confirmed the view of it
+which Eeitzenstein had in his mind, Spiegelberg again
+revised certain points in the translation owing to
+Maspero's suggestions.
+
+The inscription itself is dated about the eighth
+century B.C., but it states that it is the reproduction of
+a then old written text from the temple of Ptah at
+Memphis.
+
+The chief content has to do with the Osiris-myth, but
+into this is inserted the distinctive Ptah-doctrine.
+Ptah is supposed by some to have originally been
+simply the god of hajidicr aft, seem
+by the GreeK interpreters of god-names with Hephaistos.
+He was, however, MtherthBBemiurgus, for in very
+early times He is found in the closest connection with
+the Gfods of Heaven and Gods of Light, and is conceived
+as the Dispehser of all life..
+
+In our text Ptah is brought into the closest relations
+with the Supreme Deity (Atum). This "God the
+Father " emanates from himself eight deities (the
+Ogdoad). Each one of these is Ptah with a distinctive
+epithet. To the fourth ^ of them, "Ptah the Great,"
+a theological system is attached, which, though not
+entirely ignoring the former presentation, is but loosely
+interwoven with it.
+
+Before, however, Eeitzenstein proceeds to deal with
+this, he gives Professor Spiegelberg*s translation of a
+
+1 Zeitschr.f, ag, Sprache (1901), pp. 39 ff.
+
+2 " Sur la Tout-puissance de la Parole,'' Eecueil des Travaux rel
+a la Phil. . . . egypt, xxiv. 168 ff.
+
+3 The God of Fire and Mind.
+
+
+Hosted by
+
+
+Google
+
+
+A PROTOTYPE OF THE POSMANDRES' COSMOGONY 131
+
+Prayer to Ptah, of the time of Eamses III. (c. 1233
+B.C.), from the Papyrus Harris (I. 44, 3 ff.), in order
+to make clearer the circle of ideas into which we
+shall be introduced. This Prayer is as follows :
+
+A Praise-giving To Ptah
+
+" Hail to thee ! Thou art great, thou art old,
+
+Tatenen,^ Father of the gods,
+God ancient from the beginning ;
+Who fashioned men,
+Who made the gods,
+
+Who began with the creation as the first creator,
+Who created for all who came after him,
+Who made the heaven ; as his heart ^ he created it ;
+Who hanged it up,
+As God Shu raised himself ; ^
+Who founded the earth of thy own power,
+Who circled in the primal water of the Great Green,'^
+Who created the invisible world, which brings the
+
+dead bodies to rest ;
+
+^ An epithet of Ptah. But compare the Hymn to Ra given by
+Budge {o'p. cit, i. 339) : " Praise to thee Ra, exalted Sekhem,
+Ta-thenen, Begetter of his Gods." Sekhem is vital " power " ;
+Tathenen is, therefore, presumably Creative Life, or the Demiurgic
+or Creative Power. On page 230 Budge tells us that Tathenen
+is elsewhere symbolised as a fire-spitting serpent armed with a
+knife.
+
+2 The Heaven is the Great Heart of the Great Cosmos ; in man
+the little cosmos, the heart, was the seat of the true understanding
+and will.
+
+3 Shu generally represents the dry air between the earth and
+sky. Of, the Hymn to Amen-Ra : " Thou art the One God, who
+did'st form thyself into two gods ; thou art the creator of the egg,
+and thou did'st produce thy Twin-gods " (Budge, op. cit.^ ii. 89).
+Shu's twin or syzygy is Tefnut, who in terrene physics represents
+the moist air ; but Shu is elsewhere equated with the Light.
+
+* The Ocean of Heaven.
+
+
+Hosted by
+
+
+Google
+
+
+132 THRICE-GREATEST HERMES
+
+Who let Ea come to make them glad,
+
+As Prince of Eternity,
+
+Lord of Eternity,
+
+Lord of Life ;
+
+Who fills the lungs with air,
+
+Who gives breath to every nostril,
+
+Who vivifies all beings with his gifts.
+
+Length of life, fortune, and fate are subject unto him
+
+They live by that which goeth forth out of his
+
+mouth.^
+Who made contentment for all the gods,
+In his form of ancient primal water ; ^
+Lord of Eternity, to whom Eternity is subject,
+Breath of Life for all beings."
+
+There are other hymns of an exactly similar nature
+in which other gods are praised, especially Thoth and
+Horus. And now to turn to our inscription, and to
+that part of the text assigned to the fourth of the
+Forms of Manifestation, or Aspects or Persons, of Ptah.
+
+Ptah-Thoth the Wise One
+
+L 52. Ptah the Great is the heart and tongue of the
+god-circle.^
+
+§ 1, Z. 53. (Two gods)* are they, the one as heart,
+the other as tongue, emanations of Atum. Exceeding
+great is Ptah; if he . . . then are their ka's in this
+heart and tongue [of his].
+
+L 54. When Horus arose in him (Atum) as Ptah, and
+when Thoth arose in him as Ptah, the power of heart
+
+* The life or breath of the Creator.
+
+2 Be, the water of the Great Green.
+
+3 Paut, sphere, or group, or company, or hierarchy, or pleroma,
+— here an Ogdoad.
+
+4 Namely, Thoth and Horus,
+
+
+Hosted by
+
+
+Google
+
+
+A PROTOTYPE OP THE PCEMANBREs' COSMOGONY 133
+
+and tongue came into being through him. (It is Atum)
+who brings forth his being out of every body and out
+of every mouth of all the gods. All men, all quadru-
+peds, all creeping things live through his thinking and
+uttering whatsoever he will.
+
+§ 2, 1. 55. His god-circle is before him ; he is teeth
+[and] lips, vessels [and] hands. Atum (is in his) god-
+circle ; Atum is in his vessels, in his hands ; the god-
+circle is also teeth and lips in that mouth which hath
+uttered the name of everything, and out of which Shu
+and Tefnut have proceeded.^
+
+L 56. Then the god-circle organised the seeing of
+the eye, the hearing of the ear, the smelling of the nose,
+wherewith they made the desire of the heart to arise.
+And this [heart] it is which accomplishes every desire, but
+it is the tongue which repeats ^ what the heart desires.
+
+§ 3. He (Ptah) gives existence^ unto all gods, to
+Atum and his god-circle, for every god-word* comes
+into existence through the desire of the heart and the
+command of the tongue.
+
+L 57. He makes the ^a . . . ; he makes all nourish-
+ment and all offerings ^ with this word ; he makes what
+
+1 That is, the heart (Horus) rules action by fingers (and toes),
+by means of the ducts or vessels (arteries, veins, and nerves)
+leading to them, and all that these mean on the hidden side of
+things ; while the tongue in the mouth (Thoth), by means of
+teeth and lips, is the organ of speech, or intelligent or meaning
+utterance.
+
+2 This appears to be a mistranslation ; it seems by what follows
+to mean " commands " or " gives expression to."
+
+3 Not being ; that is, brings them into manifestation. He is the
+Demiurge.
+
+* R. glosses this as hieroglyph ; but it should perhaps mean
+" word of the language of the gods " — the language shown by action
+in the world.
+
+^ That is to say, apparently, the fruit of actions on which gods
+and men feed. Gf. Hermes-Prayer, II. 2, where Hermes is said to
+" collect the nourishment of gods and men."
+
+
+Hosted by
+
+
+Google
+
+
+134 THRICE-GREATEST HERMES
+
+is loved and what is hated. He gives life to the pious,
+death to the impious. He makes every fabric, and every
+fabrication.
+
+I. 58. The doing of the arms, the going of the feet,
+the movement of all limbs, is accomplished by the
+utterance of the word, because of the desire of the
+heart, [the word] which comes from the tongue and
+effects the whole of all things. So arises the
+teaching: Atum has made the gods to become Ptah
+Tatenen^ so soon as the gods come into existence.
+All things proceed from him : sacrifice and food as well
+as oblation and all fair things.
+
+§ 4, Z. 59. He is Thoth the Wise, whose power is
+greater than that of the other gods. He (Thoth)
+at-oned himself with Ptah, after he had brought forth
+all things and all god-words ;2 after that he had
+fashioned the gods, had made the cities, settled the
+nomes, established the gods in their shrines,
+
+L 60. When he had ordained their sacrifices, founded
+their shrines, and had made statues of [?for] their
+bodies for their contentment.
+
+§ 5. If the gods enter into their body, so is he
+(Ptah) in every wood, in every jewel, in every metal.^
+All things thrive after him if they [the gods] are there.
+To him all gods and their ka's make oblation, uniting
+and binding themselves together [for him who is] Lord
+of the Two Lands.*
+
+1 That is, as we have seen above, Ptah as the Demiurgic Power.
+
+2 Hieroglyphics ; showing that the oldest hieroglyphics were
+symbols of the words of action — that is to say, modes of expression
+of being in action.
+
+3 Lit., copper.
+
+^ That is, the worlds of gods, or immortals, and of men, or mortals.
+But Reitzenstein says : " Thus the God of Memphis \i.e, Ptah]
+is the divinity or Hhe God' of all Egypt"— meaning thereby the
+physical upper and lower lands ; but I prefer a wider sense.
+
+
+Hosted by
+
+
+Google
+
+
+A PROTOTYPE OF THE PCEMANDRES' COSMOGONY 135
+
+With these words the special theological system
+attached to the fourth person of Ptah is concluded, and
+the text returns to the Osiris-myth.
+
+
+Egyptian Syncretism 1000 b.c.
+
+From this most interesting inscription copied from
+an ancient written document, we learn in the first place
+that in Egypt already, a good thousand years before the
+date of our *' Poemandres," we have what the critical
+mind would call a distinct specimen of syncretism ;
+namely, an attempt to combine three God-myths, or
+traditions, into a single system. These, if we persist in
+taking a purely traditional view, are : (i.) The Hermo-
+politan myth of Thoth as the Logos-Demiurge, who also
+in it frequently appears as an aspect of the Supreme ;
+(ii.) The doctrine of the Ptah-priests of Memphis,
+according to which Ptah as the Primal Deity creates
+himself and all gods and men, and fashions the world ;
+and (iii.) The Heliopolitan theology, in which Atum as
+the first of an ennead of gods unites his eight fellow-
+gods in himself and is the Primal God and Primal Basis
+of all things.
+
+In all this the scribe or prophet has employed very
+early conceptions : on the one hand, that the plurality of
+gods are but " members " of a One and Only God ; and
+on the other, that a sharply-defined and in some respect
+special God is similar to another more-general God in
+some particular attribute of his. Thus Atum is really
+the Primal God; but the God-circle, his "Body" (or
+Pleroma), consists of Eight different Forms of Ptah.
+Atum has emanated them ; he is therefore " he who him-
+self creates himself " ; but equally so has Ptah created
+Atum and himself. The most important Member of this
+universal Ptah-Being or Cosmic God is Ptah the Great,
+
+
+Hosted by
+
+
+Google
+
+
+136 THRICE-GREATEST HERMES
+
+who is Heart and Tongue — the former as Horus, the
+latter as Thoth. Thoth proceeds into manifestation
+as Tongue or Word to accomplish the cosmic purpose ;
+but the Word is only the thought which has proceeded,
+or in a certain fashion emanated, out of the Person.
+Thoth and Horus are inseparably united with Ptah.
+
+Eeitzenstein thinks that the occasion for introducing
+the whole of this system into an exposition which other-
+wise deals with the Osiris-myth, was afforded by the parts
+played by Horus and Thoth in that myth. But it is
+evidently in itself a special system in which Thoth was
+the One God, the Word by whom all things were made.
+
+All of this must be quite manifest to any careful
+reader, and therefore there is no reason. for its further
+elaboration. But though we have recovered one speci-
+men of this kind of syncretism only, it is not to be
+supposed that it was unusual ; indeed, it was a necessity
+in. Egypt, where, beyond all other lands, the idea of a
+number of divinities united in one, each showing forth
+in separation some attribute dominantly, but in union
+possessing simultaneously the attributes of all the
+others, was the only key possible to a state of affairs
+where a plurality of gods existed side by side with
+the doctrines of the One and the All.
+
+The Doctrine of '* Pcemandres " Compared wiTk
+
+THAT OF ITS PROTOTYPE
+
+Nevertheless, our inscription is not only of general
+use, but of special use for an elucidation of the main
+elements in the "PcBmandres" cosmogony. Any
+attempt to translate the ideas of the Atum-Ptah-Thoth
+combination into Greek could have resulted in no
+other nomenclature than Oeo? (God) — Sf]jULiovpy69 or
+S7}juiovpyo9 V0V9 (Demiurge or Demiurgic Mind) — vovg
+
+
+Hosted by
+
+
+Google
+
+
+A PROTOTYPE OF THE PCEMANJDRES' COSMOGONY 137
+
+and Xoyog (Mind and Word), as is the case in our
+treatise.
+
+This argument is all the stronger if we reflect that
+if Thoth, after the ordering of the cosmos, at-oned him-
+self again with Ptah, then he must have completed
+this ordering which was emanated from Ptah. It is
+thus that the writer has brought to clear expression
+the conception that the Word is the Proceeding
+Thought of Ptah, and that both are inseparably united
+with one another.
+
+So, too, we find in the " PcBmandres " that the Logos,
+after the completion of the cosmic ordering, returns to
+the Demiurgic Mind and is at-oned with him.
+
+This similarity of fundamental conception cannot be
+due to chance, and we must therefore conclude that a
+doctrine essentially corresponding with the theology of
+our inscription is the main source of the '* Poemandres "
+cosmogony. This fairly establishes the main content
+of our cosmogony on an Egyptian ground.
+
+If bo this we add the general Egyptian belief that
+a man's soul, after being " purified " in the after-death
+state, goes back to God, to live for the eternity as a god
+with the gods,i then we have established the chief part
+of the " Poemandres " treatise as the Hellenised doctrine
+of the Egyptian priests — the mystery-tradition.
+
+With all of this agrees the thought that the God as
+Mind dwells in the pious, as we learn from the Hermes
+Prayers. So also it is Ptah in our inscription who
+gives life to the pious and death to the impious. In
+very early accounts we find Ptah, the Mind, is the
+
+1 This does not mean, I hold, that there was no "reincar-
+nation," that is, that the "being" of the man did not emanate
+other " souls," but that the " soul " of a particular life did not
+return — that all of it deserving of immortality became a god with
+the gods, or " those-that-are," and do not only ^cc-ist.
+
+
+Hosted by
+
+
+Google
+
+
+138 THRIGE-GREATBST HERMES
+
+imparter of the gnosis for the gods — that is, as a
+Greek would say, he was the inventor of philosophy,
+as indeed Diogenes Laertius tells us (Prooem. 1) : " The
+Egyptians declare that Hephaistos was the source of
+philosophy, the presidents of which are priests and
+prophets/' Ptah, the Mind, reveals himself to his own
+and gives them good counsel; ''Ptah hath spoken to
+thee," Suidas tells us (s.v.), was a Greek-Egyptian saying,
+which is best elucidated by the Stele of Intef, which
+tells us that the people say of the heart of Intef : " It is
+an oracle of the god which is in every body." ^
+
+All of this and much more of a like nature make it
+indubitably clear that the fundamental conceptions of
+the "Poemandres" are Egyptian, and that the theory
+of Neoplatonic forgery must be for ever abandoned;
+so that even the dreams of D^veria are nearer the
+truth than the confident assertions of many a great
+name in scholarship.
+
+The Man-Doctrine
+
+But what, says Eeitzenstein (p. 69), is not Egyptian,
+is the doctrine of the Man, the Heavenly Man, the
+Son of God, who descends and becomes a slave of the
+Fate-Sphere ; the Man who, though originally endowed
+with all power, descends into weakness and bondage, and
+has to win his own freedom and regain his original state.
+
+This doctrine seems to have been in its origin part
+and parcel of the Chaldsean mystery-tradition; but it was
+widely spread in Hellenistic circles, and had analogies
+in all the great mystery-traditions, as we shall now
+proceed to see, and chiefly by the analysis of what has
+hitherto been regarded as one of the most chaotic and
+puzzling documents of Gnosticism.
+
+1 Cf. Breasted, Zeitf, ag. Spr. (1901), p. 47.
+
+
+Hosted by
+
+
+Google
+
+
+VII
+THE MYTH OF MAN IN THE MYSTEEIES
+
+The Gnostic Teadition
+
+" But All-Father Mind, being Life and Light, did bring
+forth Man CAvOpooTrov) co-equal to Himself." ^
+
+So runs the opening paragraph of what we may call
+the soteriological part of the " Poemandres " treatise of
+our Trismegistic literature. This Man or Anthrdpos is
+the Spiritual Prototype of humanity and of every
+individual man, and is a technical term found in a
+number of the early Christianised Gnostic systems.
+
+For instance, in a system some outlines of which are
+preserved in the polemical Refutation of Irenaeus,^ and
+which the Bishop of Lyons seems to associate with an
+Ophite tradition, while Theodoret^ ascribes it to the
+Sethians, we are told that in the Unutterable Depth
+were two Great Lights, — the First Man, or Father, and
+His Son, the Second Man; and also the Holy Spirit,
+the First Woman, or Mother of all living.
+
+In this tradition, moreover, the Son^of Jhe Mother — -.
+the chief^ FormatxYe.- Power__of Jjfche _seven Demiurgjc
+Potencies of the sensible cosmos — is called laldabaoth
+(?"the Child of the Egg), who boasts himself to be
+
+1 a H., i. 12.
+
+2 Contra Om. Hcer., I. xxx. ; ed. A. Stieren (Leipzig, 1853),
+i. 263 ff.
+
+3 HcBr. Fah., I. xiv.
+
+139
+
+
+Hosted by
+
+
+Google
+
+
+140 THRICE-GREATEST HERMES
+
+supreme. But his mother, Wisdom, reproves his pride,
+saying unto him : " Lie not, laldabadth, for above thee
+is the Father of All, First Man, and Man Son of Man." i
+
+The *' Philosophumena " of Hippolytus
+
+But the main source of our information on this
+Anthropos tradition, in its Christianised Gnostic form,
+is to be found in Hippolytus* Philosophumena ; or.
+Refutation of all IIe7^esies.
+
+In 1842, Mino'ides Mynas, a learned Greek, sent on
+a literary mission by the French Government, dis-
+covered in one of the monasteries on Mount Athos the
+only MS. (generally ascribed to the fourteenth century)
+which we possess of this extremely valuable work. It
+was originally in ten books, but, unfortunately, the first
+three and the beginning of the fourth are missing from
+our MS. The first book, however, was already known,
+though previously erroneously ascribed to Origen, and
+was accordingly prefixed to the text of the editio princeps
+of our work by Emmanuel Miller (Oxford, 1851).
+
+The missing Books II. and III. dealt respectively
+with the doctrines and mysteries of the Egyptians and
+with those of the Chaldaeans. Hippolytus (Prooem.)
+boasts that he has divulged all their mysteries, as well
+as the secrets of those Christian mystics whom he
+stigmatises as heretics, and to whom he devotes
+Books V.-IX.
+
+It is a curious fact that it is precisely those Books
+wherein this divulging of the Mysteries was attempted,
+which should be missing; not only have they dis-
+appeared, but in the Epitome at the beginning of
+Book X. the summary of their contents is also omitted.
+This seems almost to point to a deliberate removal of just
+
+1 F, F. F,, pp. 188 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 141
+
+that information which would be of priceless value to
+us to-day, not only for the general history of the
+evolution of religious ideas, but also for filling in an
+important part of the background of the environment
+of infant Christianity.
+
+Why, then, were these books cut out? Were the
+subsequent Christian Orthodox deterred by religious
+scruples, or were they afraid to circulate this informa-
+tion ? Hippolytus himself seems to have had no such
+hesitation ; he is ever delightedly boasting that he is
+giving away to the multitude the most sacred secrets of
+others ; it seems to have been his special metier to cry
+aloud on the house-tops what had been whispered in
+their secret chambers. It was for him a delicious
+triumph over " error '' to boast, " I have your secret
+documents, and I am going to publish them ! "
+
+Why, then, should those who came after him
+hesitate ? Surely they were like-minded with Hip-
+polytus, and would have been as delighted as himself in
+humbling the pride of the hated Mystery-institutions
+in the dust ? Can it possibly be that they saw far more
+clearly than he did that quite other deductions might
+be drawn from his " startling revelations " ?
+
+The Naassenes
+
+That far other deductions could be drawn from the
+Mystery-rites and Mystery-myths was at anyrate the
+view of a tradition of early Jewish and Christian mystics
+whom Hippolytus calls Kaassenes. The claim of
+these Gnostics was practically that Christianity, or
+rather the Good News of the Christ, was precisely the
+consummation of the inner doctrine of the Mystery-
+institutions of all the nations ; the end of them all was
+the revelation of the Mystery of Man.
+
+
+Hosted by
+
+
+Google
+
+
+142 THRICE-GREATEST HERMES
+
+It is further to be noticed that these Naassenes, ** who
+call themselves Gnostics " (v. 2), are the very first school
+of Christian "heresy" with which Hippolytus deals;
+he puts them in the forefront of his Befutation^ as
+being, presumably, in his opinion, the oldest, or, at any-
+rate, as representing the most ancient form of Christian
+" heresy."
+
+Although the name Naassene (^aacrarnvol) is derived
+from the Hebrew Nahash (Serpent), Hippolytus does
+not call them Ophites ; indeed, he reserves the latter
+name to a body to which he also gives (viii. 20) the
+name Cainites and Nochaitse (Noxaira/) — ? Nachaitae,
+again, from Nachash'^ — and considers them of not
+sufficient importance for further mention.
+
+These Naassenes possessed many secret books or
+apocrypha — that is, books kept back from general
+circulation — and also regarded as authoritative the
+following scriptures: The Gospel of Perfection, The
+Gospel of Eve, The Questions of Mary^ Concerning the
+Offspring of Mary, The Gospel of Philip, The Gospel
+according to Thomas, and The Gospel according to the
+\Ugyptians, All of which points somewhat to an
+Alexandrian or Egyptian circle.
+
+Analysis of Hippolytus' Account of the
+Naassene Document
+
+One of their secret MSS. had fallen into the hands of
+Hippolytus, It is in the Bishop of Portus! quotations
+
+1 Both h and ch being transliteration devices for the same
+Hebrew letter n in the word riij.
+
+2 We know of the two titles, The Greater and The Lesser
+Questions of Mary ; the general title is thought by some to be
+the proper designation of one of the sources of the composite
+document known as Pistis Sophia, and has been suggested as its
+more appropriate general epigraph.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 143
+
+from this document that Eeitzenstein (pp. 81 ff.) seeks
+to discover what he calls the *' Hellenistic Myth of the
+God Anthropos." His theory is that, by eliminating
+the Christian citations and thoughts of the Naassene
+writer, we are face to face with a purely Heathen
+document.
+
+The reproduction of their views, as given by Hippo-
+lytus,^ falls according to Eeitzenstein into three divisions.
+
+(i.) The first begins with the explanation of the name
+'' Naassene" (S. 131, 1 ; C. 139, 1 2), and, after giving a
+few brief headings, ends (S. 134, 8 ; 0. 141, 2) with the
+statement that the writer of the MS. said they had
+their tradition from James, the Brother of the Lord, who
+had delivered it to Mariamne.
+
+(iii.) The third begins (S. 170, 64; C. 178, 1) with
+another explanation of the name. In both of these
+parts are found remains of hymns from some liturgical
+collection.
+
+(ii.) Between i. and ii. lies a longer exposition in
+which Hippolytus tries to show that the Naassene
+doctrines are taken from the Mysteries, culminating in
+the assertion that the Naassenes, as a matter of fact,
+were nothing else than sectaries of the Mysteries of the
+Mother of the Gods, in proof of which he quotes at
+length from a secret document of their school.
+
+Our interest in these quotations, however, is very
+different from that of Hippolytus, for, as Eeitzenstein
+has now shown, it is manifest on inspection that the
+Christian quotations and thoughts in this document
+
+^ Philos.^ V, 1-11, of which I published a preliminary translation,
+under the heading " Selections from the * Philosophumena,' " in
+The Theosophical Review (August and September 1893), xii. 559-
+569, xiii. 42-52, and a summary in F. F. jP., pp. 198-206.
+
+2 Ed. L. Duncker and F. G. Schneidewin (Gottingen, 1859) ;
+and ed. P. Cruice (Paris, 1860).
+
+
+Hosted by
+
+
+Google
+
+
+144 THRICE-GREATEST HERMES
+
+violently disrupt its underlying continuity, and that
+they are for the most part easily removable without
+damage to the sense.
+
+With regard to the Old Testament quotations it is
+not always so easy to disentangle them from the
+Hellenistic source, much less from the New Testament
+quotations; the phenomena, however, presented by
+them are of such a nature that, in my opinion, there is
+ample evidence before us that there was a Jewish
+working-over of the matter before it came into the
+hands of the Christian overwriter. Eeitzenstein, how-
+ever, does not venture so far.
+
+Even, then, if we were content with Eeitzenstein's
+analysis only, it is quite clear that the quotations from
+the Old Testament formed no part of the original ; and
+that we have, therefore, before us what was once a purely
+Heathen text, with Gnostic Christian scholia, or rather
+overworked by a Christian Gnostic. The original Pagan
+text had, accordingly, been cut up by the ISTaassene
+overwriter before ever it came into the hands of
+Hippolytus.
+
+Now, as the Christianised text must have been
+for some time in private circulation before it reached
+the library of the Bishop of Portus ^ — even if we make
+no allowance for a Jewish Hellenistic stratum of over-
+writing, still seeing that Hippolytus' own view was
+that, in the Naassene MS., he had before him a basic
+document of those whom he regarded as the earliest
+Christian " heretics " — ^it is quite evident that if we were
+to place the date of the original Hellenistic source in
+the first century, we should not be doing violence even
+to the ecclesiastical traditional absurdity that Gnosti-
+cism first sullied the orthodox purity of the Church only
+
+1 The date of the writing of the Philosophumena is placed some-
+where about 222 a.d.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 145
+
+in the reign of Trajan (96-117 A.D.). But we will re-
+turn to the question of date later on.
+
+As the whole matter is not only one of considerable
+interest for the student of our treatises, but also of the
+greatest importance for the student of the history of
+Gnosticism, I shall give a translation of Hippolytus'
+introductory and concluding sections, as well as of the
+intermediate section which specially concerns us, so that
+the reader may have a view of the whole medley as it
+comes to us from the hands of the heresy-hunting bishop.
+
+I shall, moreover, proceed a stage further in the
+analysis of the material of Hippolytus than Reitzenstein
+has done, and hope, when the evidence has been laid
+before the reader, to win his assent to what appears to
+me to be the natural sifting out of the various elements,
+with resultant phenomena which are of the greatest
+importance for the history of Gnosticism, and, therefore,
+of the evolution of Christian dogmatics, and which
+lead to conclusions that are far too serious to be treated
+in the short space of a single chapter of our present
+
+
+In the following analysis H. stands for Hippolytus ;
+C. for the Christian Gnostic final overwriter, the " Naas-
+sene " whose MS. lay before H. ; J. for the jSTaassene
+Jewish mystic who preceded C. and overworked the
+original ; S. for the original Heathen Hellenistic Source.
+
+As H. and C. are of secondary importance for our
+immediate enquiry, though of themselves of the
+greatest value and interest, I shall print them in smaller
+type. J. I shall print in the same type as S., as
+nearer in contact with S. than C, and as being some-
+times more difficult to detach from S. than from C.
+
+The reader, to have the text of Hippolytus before
+him, must neglect all the critical indications and read
+straight on.
+
+VOL. I. 10
+
+Hosted by VjOOQIC
+
+
+146 THRICE-GREATEST HERMES
+
+With these brief preliminary indications we will,
+then, present the reader with a translation of the first
+section, or introductory part,i of Hippolytus' exposure
+or exposition of the Naassene doctrines, begging him to
+remember throughout that it is a portrait painted by
+the hand of one of their bitterest foes.
+
+Hippolytus' Introduction
+
+H. The priests and chiefs of [this] doctrine ^ were first of all
+those who were called Naasseni — so named in Hebrew, [in
+which] " serpent " is called naas.^ But subsequently they called
+themselves Gnostics, pretending that they alone knew the Depths.
+
+From these many separated themselves and [so] turned the
+school, which was originally a single one, into numerous sects,
+setting forth the same ideas in various doctrinal forms, as our
+argument will show as it advances.
+
+These [Naassenes] honour as the Logos (Reason) of all
+universals ^ Man, and Son of Man. This Man is male-female, and
+is called by them Adamas.^ And they have many intricate ^ hymns
+in his honour. These hymns — to dispose of them briefly — run
+somewhat as follows :
+
+J. '^^From Thee '[is] Father, and * Through Thee ' ^
+Mother — the two Immortal Names,® Parents of -^ons,
+Thou who hast the Heaven for Thy City, Man of
+Mighty ISTames.'' ^
+
+1 S. 132, 1—134, 80 ; C. 139, 1—141, 2.
+
+2 The worship of the serpent, according to H.
+
+3 Cf. the strange logos, preserved in Matt. x. 16 alone : " Be ye
+therefore wise as serpents,"
+
+* The reading can be slightly emended by H.'s epitome in
+X. 9 ; but the phrase irapk rhu avrwv \6yov still remains an enigma.
+
+^ The Celestial Adam, the Adam Kadmon of Kabalistic
+tradition, or the Intelligible Cosmos of Hellenistic theology.
+See Cruice, note in loc.
+
+^ Or hymns of subtle meaning.
+
+"' That is, Man as Cause and Substance of all things.
+
+^ 8c, Powers.
+
+^ That is, presumably, " names of power " (Egyptice) ; the Adam
+who gave their " names " to all the " animals."
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 147
+
+H. And they divide him into three, like Geryones ; ^ for, they
+say, he has a mental, psychic, and choic [aspect] ; 2 and they
+think that the Gnosis of ^ this [Man] is the beginning of the
+possibility of knowing God, saying :
+
+J. The beginning of Perfection [is] the Gnosis of Man,
+but the Gnosis of God is perfected Perfection."^
+
+H. All these, he says^ — mental, psychic, and earthy — descended
+together into one man — Jesus, born of Mary.
+
+And these three Men, he says, spake each from their own
+special essences to their own special folk.
+
+For of the imiversal principles there are three kinds [or races]
+— the angelic, psychic, and earthy ; and three churches— angelic,
+psychic, and earthy — named the Elect, Called, and Bound.
+
+These are the chief heads from a very large number of
+doctrines,^ which, he says, James, the Brother of the Lord, handed
+on to Mariamne.'^
+
+^ Geryon, the triple-headed or triple-bodied Giant, who plays
+a prominent part in the myth of Hercules.
+
+2 Or spiritual, psychic, and earthy.
+
+3 That is, the learning to know\
+' Of. § 25, J.
+
+" That is, as we shall see later, G.
+
+^ Celsus (c. 150-175 a.d.) knows of groups of Harpocratians —
+that is, worshippers of Horns — some of whom derived their
+tradition from Salome, others from Mariamne, and others again
+from Martha (Origen, 0. Gelsum, v, 62). This suggests an
+Egyptian setting. (For Salome and Maria or Miriam (Mariamne),
+the Sisters of Jesus, see D. J. L., 405 f . ; for Martha, Our Lady, see
+ibid. J 375 fF.) In the Gnostic Acts of Philip, Mariamne, or
+Mariamme (both forms being found in the MSS., according to
+R. A. Lipsius, Die apokr. Apostelgeschichten — Brunswick, 1884 —
+iii. 12), is the "virgin sister" of Philip, and plays an important
+role as prophetess. She is to Philip as Thekla to Paul, or Helen
+to Simon. Compare with this the "sister wife" whom Paul
+demands the right to take about like " the rest of the Apostles and
+the Brethren of the Lord and Cephas '' (1 Corinth, ix. 5 ; D.J. L.,
+229). Salmon (art. " Mariamne " in Smith and Wace's D. of Christ.
+Biog., iii. 830) refers to the Mary (Magdalene) of the Pistis Sophia,
+the chief questioner of the Master and His favourite disciple, the
+
+
+Hosted by
+
+
+Google
+
+
+148 THRICE-GREATEST HERMES
+
+But in order tliat we may put an end to tlie lying accounts of
+these impious [heretics] concerning Mariamne, and James, and the
+Saviour Himself,^ let us come to the Initiations from which
+they get this myth — if you like [to call it so] — to the non-Grecian
+and Grecian [Initiations] ; and let us see how, by combining
+together the secret Mysteries of all the Gentiles which must not
+be spoken of, and by telling lies about the Christ, they take in
+those who do not know that these things are the Orgies of the
+Gentiles.
+
+Now, since the foundation of their system is Man Adamas,
+and they say it has been written of him, " Who shall declare his
+generation ? '' ^ — learn how they have taken the undiscoverable and
+contradictory generation of Man and plastered it on the Christ.
+
+
+The Material for the Recovery of the Original
+Hellenistic Document
+
+(1) S. "Earth (say the Greeks s) first brought forth
+]\Ian — bearing a fair gift, desiring to be mother
+not of plants without feeling, nor of brutes without
+reason, but of a tamed God-loving life.
+
+** Difficult is it (H. he says^) to discover whether
+it was among the Boeotians that Alalkomeneus rose
+from the Kephisian Lake as first of men ; or whether
+
+sister of Martha. The tradition of the Gnosis from James, the
+Brother of the Lord, is asserted by Clement of Alexandria in
+Book VI. of his lost work, The Institutions, where he writes :
+** The Lord imparted the Gnosis to James the Just, to John and
+Peter, after His resurrection ; these delivered it to the rest of the
+Apostles, and they to the Seventy " (Euseb., Hist. Eccles., ii. 1 ;
+cf, D, J. L., 226).
+
+1 From here onwards we use the revised critical text of Reitzen-
+stein (pp. 83-98), who appends what we may call an apparatus
+criticus of the emendations and conjectures of the various editions
+of our solitary MS. R., as usual, however, gives no translation.
+
+2 Is. hii. 8 — same reading as LXX. Gf. also § 25 J.
+
+^ A remark of the writer of S., which, as we shall see at the end,
+is divided into Texts and Commentary.
+
+4 The "he says'' may be ascribed to any subsequent hand ; I
+have marked them all H. to avoid further complication.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 149
+
+it was the Idsean Kuretes, race divine, or the Phrygian
+Korybantes, whom Helios saw first sprouting forth
+tree-like; or whether Arkadia brought forth Pelasgos
+[first], older than the Moon ; or Eleusis Diaulos, dweller
+in Earia; or Lemnos Kabeiros, fair child of inefifable
+orgies;^ or whether Pallene Phlegraean Alkyoneus,
+eldest of Giants.
+
+" The Libyans say that Garamas,*^ rising from parched
+plains, first picked sweet date of Zeus ; while JSTeilos,
+making fat the mud of Egypt to this day (H. he
+says), breeds living things, and renders from damp heat
+things clothed in flesh." ^
+
+The Assyrians say it was with them Cannes, the
+Fish-eater; while the Chaldseans [say that it was]
+Adam,
+
+(2) J. And this Adam they [the Chaldaeans] say was
+the man that Earth produced — a body only, and that
+he lay breathless, motionless, immovable, like a statue,
+being an image of that Man Above —
+
+^ " Burstings forth," inspirations, reveahngs, or mysteries.
+
+'^ In Greek transformation, son of ApoUo and the daughter
+of Minos, born in Libya. This points to a very ancient myth-
+connection with the old Cretan civilisation. Garamas was also
+called Amphithemis (q.v. in Roscher's Lex.) ; he appears also, ac-
+cording to one tradition, to have been the father of Ammon. (See
+" Garamantis Nympha," ibid.)
+
+^ This passage is doubly interesting, for it is not only a source,
+but a source within a source. Already a number of scholars have
+recognised it as an Ode ; and not only so, but conjectured with
+much probability that it is by no less a master than Pindar himself.
+Nay, further, it is part of a Hymn to Jupiter Ammon — an
+additionally interesting point for us as showing strong Egyptian
+influence. It is true that in our text of Hippolytus the order of
+the words has been frequently changed to bring it into prose form ;
+but the reconstruction of most of it is not difficult, and quite
+convincing. I translate from the text of Bergk's final revision, as
+given S. 134, 135 ; C. 142. R., for some reason or other, does not
+refer to this interesting side-light.
+
+
+Hosted by
+
+
+Google
+
+
+150 THRICE-GREATEST HERMES
+
+H. — of wliom they sing, and bronght into existence by the
+many Powers,^ concerning which there is much detailed teaching.
+
+J. In order, then, that the Great Man from Above —
+
+0. From whom, as is said, every fatherhood has its name on
+earth or in the heavens.^
+
+J. — might be completely brought low, there was
+given unto him ^ Soul also, in order that through the
+Soul the enclosed plasm of the Great, Most-fair, and
+Perfect Man might suffer and be chastened.
+
+H. For thus they call Him. They seek to discover then
+further what is the Soul, and whence, and of what nature, that by
+entering into man and moving him, it should enslave and chasten
+the plasm of the Perfect Man ; but they seek this also not from
+the Scriptures, but from the Mysteries.
+
+(3) S. And they^ say that Soul is very difficult to
+discover, and hard to understand ; for it never remains
+of the same appearance, or form, or in the same state,
+so that one can describe it by a general type/ or com-
+prehend it by an essential quality.
+
+H. These variegated metamorphoses they ^ have laid down in
+the Gospel, superscribed " According to the Egyptians." ^
+
+S. They are accordingly in doubt —
+H. —like all the rest of the Gentiles —
+
+J. — whether it [sc. the Soul] is from the Pre-existing
+[One], or from the Self-begotten, or from the Streaming
+Chaos.^
+
+1 Sc. of the Fate-Sphere.
+
+2 This looks back, though with variants, to Ephes. iii. 15.
+2 Sc. the image-man, or Adam of " red " earth.
+
+* Sc. the Chaldeeans.
+
+6 Sc. the Naassenes.
+
+■^ This is a further indication of the environment of the Naas-
+senes. Of. G. H., X. (xi.) 7.
+
+® That is from Man (Father), Man Son of Man (Son), or Flow-
+ing Chaos (Mother) — corresponding in Hellenic mythology to
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 151
+
+H. And first of all, in considering tlie triple division of Man,
+they fly for help to the Initiations of the Assyrians ; for the
+Assyrians were the first to consider the Soul triple and [yet]
+one.
+
+(4) S. Now every nature (H. he says) yearns after
+Soul — one in one way and another in another.
+
+For Soul is cause of all in Genesis. All things that
+are sustained and grow (H. he says) need Soul.
+Indeed, no sustenance (H. he says) or growth is
+possible without the presence of Soul.
+
+Nay, even stones (H. he says) are ensouled ;i for
+they have the power of increase [or growth] ; and
+growth could not take place without sustenance;
+for it is by addition that things which increase
+grow ; and addition is the sustenance of that which is
+sustained.2
+
+(5) Now the Assyrians call this [Mystery] Adonis
+(or Endymion). And whenever it is called Ad5nis
+(H. he says), it is Aphrodite who is in love with and
+desires Soul so-called.
+
+H. And Aphrodite is Genesis according to them.^
+
+But when Persephone (that is, Kore) is in love with
+Adonis, Soul becomes subject to Death, separated from
+Aphrodite (that is, from Genesis).
+
+But if Selene is impassioned of Endymion, and is in
+
+Kronos, Zeus, and Rhea. For Rhea (from phtv, " to flow ") is the
+Moist or Liquid Nature, as with the Stoics ; she is the a-cosmic
+or unordered Earth, the Prima Materia (the First Earth, the
+Spouse of Heaven — Uranus), Hyle Proper, who carries in her
+bosom the Logos. For references, see R., p. 99, n. 2.
+
+1 Cf. Ex. viii. 8.
+
+2 The preceding paragraph is evidently composed of selections
+from S. R. (p. 86, n. 1) thinks that we have here the description
+of only one aspect of Soul, and that the description of the
+remaining two aspects has been omitted by H.
+
+^ Sc. the Naassenes, in H.'s view.
+
+
+Hosted by
+
+
+Google
+
+
+152 THRICE-GREATEST HERMES
+
+love with [formal] beauty ,i it is the Nature of the
+higher [spaces ^] (H. he says) which desires Soul.
+
+(6 s) But if (H. he says) the Mother of the Gods
+emasculate Attis — she, too, regarding him as the object
+of her love — it is the Blessed Nature Above of the
+supercosmic and seonian [spaces] which calls back the
+masculine power of Soul to herself.^
+
+H. For Man, lie says, is male-female. According, then, to this
+theory of theirs, the intercourse between man and woman is
+exhibited as most mischievous, and is forbidden according to
+their teaching.
+
+J. For Attis (H, he says) is emasculated — that is
+[Soul is separated] from the earthy parts of the creation
+[tending] downwards, and ascends in quest of the
+Ionian Essence Above —
+
+1 lj.op(f)7js — ^lit., either form or beauty.
+
+2 Sc. of cosmos.
+
+3 This paragraph and § 7, together with the accompanying
+overworkings, seem to have been misplaced by H., according to
+R. (pp. 99, 100).
+
+The sudden introduction of the name Attis without any prelimin-
+aries, indicates another lacuna ; the transition from the Assyrian
+to the Phrygian Mysteries of the Great Mother is too brusque.
+
+4 The threefold nature of the Soul is thus distinguished by :
+(i.) The union (or marriage) which joins it to generation, or to earth-
+life — the nature of things on earth ; (ii.) The union which joins
+it with death — the nature of the things " beneath " the earth ;
+(iii.) The union which joins it with formal beauty, or beauty in
+form {fiopcpii) — the nature of super-terrene (or sublunary) things,
+here regarded as the Elysian state.
+
+The love of the Mother of the Gods for the Soul represents the
+*' fourth state " (the turlya of Vedantic mystic psychology), or the
+absorption of the masculine power of the Soul by its own higher
+Feminine Nature. Of. in Damascius' " Life of Isidorus " (Photius,
+BihL, ed. Bekker, 345 a. 5 : "I fell asleep, and in a vision Attis
+seemed to appear to me, and, on behalf of the Mother of the
+Gods, to initiate me into the feast called Hilaria — a mystery
+which discloses the way of our salvation from Hades." Hades,
+the realm of Selene, is not Tartarus, the realm of Death.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 153
+
+C. — where (H. he says) is " neither male nor female," ^ but a
+new creature, a new man, who is male-female.
+
+H. What they call "Above" I will explain when I come to
+the proper place. And they say that this theory is supported not
+simply by [the myth] of Bhea, but also, to put it briefly, by
+universal creation.
+
+Nay, they make out that this is [even] what was said by the
+Word (Logos) : ^
+
+C. "For the invisible ^ things of Him [God] — namely, His
+Eternal * Power and Godhead — are clearly seen from the creation
+of the world, being understood by His things that are made ; so
+that they [men] are without excuse. Because that, though
+knowing God, they glorified Him not as God, nor did they give
+[Him] thanks, but their non-understanding heart was made foolish.^
+
+^ Compare the so-called Second E'pistle of Clement (an early
+homily incor]3orating extra-canonical Gospel-materials), xii. 2 :
+" For the Lord Himself being asked by some one when his King-
+dom should come, said : When the two shall be one, and the
+outside as the inside, and the male with the female neither male
+nor female " ; and also the well-known logoi, from The Gospel
+according to the Egyptians, quoted several times by Clement of
+Alexandria : " When Salome asked how long Death should
+prevail, the Lord said : So long a.s ye women bear children ; for
+I am come to destroy the work of the Female. And Salome said
+to Him : Did I therefore well in bearing no children 1 The Lord
+answered and said : Eat every Herb, but eat not that which hath
+bitterness. When Salome asked when these things about which
+she questioned should be made known, the Lord said : When ye
+trample uj)on the Garment of Shame ; when the Two become One,
+and Male with Female neither male nor female." And with 'the
+last logos of the above compare the new-found fragment of a lost
+Gospel: "His disciples say unto Him: When wilt thou be
+manifest to us, and when shall we see Thee ? He saith : When ye
+shall be strij^ped and not be ashamed." — Grenfell and Hunt, New
+Sayings of Jesus (London, 1904), p. 40. The environment is
+Egyptian and ascetic ; it is a saying addressed to a community,
+as may be seen from one of the jDrevious logoi : " Having one
+garment what do ye [lack] ? "
+
+2 See Bom. i. 20-23, 25-27.
+
+^ a6paTa,
+
+4 at8ios — evidently a word-play.
+
+^ The received Pauline text is slightly shortened here.
+
+
+Hosted by
+
+
+Google
+
+
+154 THRICE-GREATEST HERMES
+
+" Professing themselves to be wise, they convicted themselves
+of folly, and changed the Glory of the Incorruptible God into the
+likeness of an image of corruptible man, and of birds, and of
+four-footed beasts, and creeping things.^ . . .^
+
+" Wherefore also God gave them up to passions of dishonour ;
+for both their females did change their natural use to that which
+is against nature —
+
+H. And what the natural use is, according to them, we will say
+later on.
+
+C. — " and likewise also their males, leaving the natural use of
+the female, burned in their lust for one another, males with males
+working unseemliness ^ —
+
+H. And "unseemliness," according to them, is the First and
+Blessed Formless Essence, the Cause of all forms for things
+enformed.*
+
+C. — " and receiving in themselves the recompense of their
+Error which was meet."
+
+H. For in these words which Paul spake is contained, they say,
+the whole of their hidden and ineffable Mystery of the Blessed Bliss.
+
+For what is promised by the [rite of the] bath ^ is nothing else,
+according to them, than the introduction into "Unfading Bliss of
+him who, according to them, is washed with Living Water, and
+anointed with the Chrism that no tongue can declare.^
+
+1 Evidently a reference to the Chaldaean fourfold (man-eagle-
+lion-bull) glyph of what Later Orphicism and Platonism called
+the Autozoon, representing the four main types of Animal
+Life ; the same mystery which Ezekiel saw in the Vision of the
+Mercabah, or Celestial Chariot — a reflected picture, I believe,
+from the Chaldaean Mysteries.
+
+2 Verses 24 and 25 of the Received Text are omitted.
+^ affxrifioa-T^PTj — meaning also " formlessness.''
+
+4 Of. Ex. v. 2.
+
+5 That is, baptism.
+
+^ We wonder what "they" really did say? They may have
+argued in their private circles that even in the foulest things the
+clean soul could recognise the reversed signs of the Mysteries of
+Purity ; for certainly these things require an explanation — nay,
+more urgently do they require an interpretation in proportion to
+their foulness. The hateful suggestion of Hippolytus that these
+ascetic and spiritually-minded folk — for their doctrines plainly
+show them to be so — were as foul as those of the Flood, only
+shows the ineradicable prejudice of unwitting self-righteousness.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 155
+
+(7) And they say that not only the Mysteries of the Assyrians
+and Phrygians substantiate this teaching (^o^fos) concerning the
+Blessed Nature, which is at once hidden and manifest [but also
+those of the Egyptians ^ ].
+
+C.2 [The Nature] which (H. he says) is the Kingdom of the
+Heavens sought for within man —
+
+H. — concerning which [Nature] they hand on a distinct
+tradition in the Gospel entitled According to Thomas, saying as
+follows :
+
+C. " He who seeketh shall find me in children from the age
+of seven years ^ ; for in them at the fourteenth year ^ [lit. aeon] I
+hidden am made manifest."
+
+H. But this is not Christ's Saying but that of Hippocrates :
+
+"A boy of seven years [is] half a father."^
+
+Hence as they place the Original Nature of the universals
+in the Original Seed, having learned the Hippocratian dictum
+that a child of seven is half a father, they say at fourteen years,
+according to Thomas, it is manifested. This ^ is their ineffable
+and mysterious Logos.'^
+
+(8 ^) S. (H. — At anyrate they say that) the Egyptians
+— who are the most ancient of men after the Phrygians,
+who at the same time were confessedly the first to
+communicate to mankind the Jilystery-rites and Orgies
+of all the Gods, and to declare their Forms and Energies
+— have the mysteries of Isis, holy, venerable, and not to
+be disclosed to the uninitiated.
+
+^ Completion of B.
+
+2 Picking up "Blessed Nature" from the first paragraph
+of §6.
+
+3 Cf. Ex. viii. 6, note.
+
+* At fourteen a boy took his first initiation into the Egyptian
+priesthood.
+
+^ Of. Littr^, Traduct. des (Euvres d^ Hippocrate, tom. i. p. 396.
+
+^ Presumably referring to Seed.
+
+^ Perhaps, however, they meant something very difterent, and
+perhaps even their analogies are not so foolish as they seemed
+toH.
+
+^ The material here seems to follow directly on § 5. It is a
+summary by H. ; but seeing that there is more in it of S. than of
+H., we will print it as S., indicating H. when possible.
+
+
+Hosted by
+
+
+Google
+
+
+156 THRICE-GREATEST HERMES
+
+H. And these are nothing else than the robbing of the member
+of Osiris, and its being sought for by the seven-robed and black-
+mantled ^ [Goddess],
+
+And (they [the Egyptians] say) Osiris is Water.^
+And Seven-robed Nature —
+
+H. — having round her, nay, robing herself in seven aetheric
+vestures — for thus they ^ allegorically designate the planet-stars,
+calling [their spheres] aetheric vestures —
+
+S. — being metamorphosed, as ever-changing Genesis,
+by the Ineffable and Uncopiable and Incomprehensible
+and Formless, is shown forth as creation.
+
+J. And this is what (H. he says) is said in the
+Scripture :
+
+"Seven times the Just shall fall and rise again/'*
+
+For these ** fallings'' (H. he says) are the changes
+of the stars,^ set in motion by the Mover of all
+things.
+
+(9) S. Accordingly they^ declare concerning the
+Essence of the Seed which is the cause of all things in
+
+* Isis, or Nature, as the seven spheres and the eighth sphere
+{% the "black "earth).
+
+2 That is the Celestial Nile or Heaven-Ocean, which fructifies
+Mother Nature. " The Alexandrians honoured the same God as
+being both Osiris and Adonis, according to their mystical god-
+blending {syncraday^ Damascius, "Life of Isidorus" (Phot.,
+Bill, 242 ; p. 342 a. 21, ed. Bek.).
+
+2 Sc, the Egyptians.
+
+* Prov. xxiv. 16 — same reading as LXX. Cf. Luke xvii. 4. ;
+" If he trespass against thee seven times in a day and turn again
+to thee, saying, * I repent ' ; thou shalt forgive." This saying is
+apparently from the " Logia " source ; cf. Matt, xviii. 21, and
+compare the idea with the scheme of the "repentance'^ of the
+Pistis Sophia,
+
+^ The seven planetary spheres ; but it may also connect with
+the idea of the falling "stars" as the souls descending into
+matter, according to the Platonic and Hermetic doctrine.
+
+^ Probably the Egyptians in their Mysteries, connecting with
+what is summarised by H. at end of § 6 and beginning of § 7.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 157
+
+Genesis, that it is none of these things, but that it
+begets and makes all generated things, saying :
+" I become what I will, and am what I am/' ^
+Therefore (H. he says) That which moves all is
+unmoved ; for It remains what It is, making all things,
+and becomes no one of the things produced.
+(H. He says that) This is the Only Good —
+
+C. And concerning this was spoken what was said by the
+Saviour :
+
+" Why callest thou me Good ? One is Good 2 — my Father in
+the Heavens, who maketh His sun to rise on righteous and
+unrighteous, and sendeth rain on saints and sinners." ^
+
+H. And who are the saints on whom He sendeth rain and the
+sinners on whom He also sendeth rain — this also he tells subse-
+quently with the rest.
+
+S. — and (H. that) This is the Great, Hidden, and
+Unknown Mystery of the Egyptians, Hidden and [yet]
+Revealed.
+
+For there is no temple (H. he says) before the
+
+^ Evidently a logos from some Hellenistic scripture. In the
+evidence of Zosimus which we adduce at the end of our Tris-
+megistic Fragments, he quotes (§§ 15 and 7) from the " Inner
+Door" — a lost treatise of Hermes Trismegistus — as follows : "For
+that the Son of God having power in all things, becoming all
+things that He willeth, appeareth as He willeth to each." Thus
+we have S. quoting the original logos, which, I suggest, belongs to
+the " Pccmandres " type of Trismegistic literature. Therefore
+that type was in existence before S. This confirms our attribu-
+tion of the *'they declare" to the Egyptians and their Mysteries
+(Trismegisticism being principally the Hellenised form of those
+Mysteries), and also the completion of R. at the end of the first
+paragraph of § 7 above.
+
+2 Of, Matt. xix. 17 = Mark x. 18 = Luke xviii. 19. The first
+clause agrees with Mark and Luke, the second with Matthew
+(omitting **the" before "Good"). The presumably primitive
+reading of the positive command, " Call me not Good," has dis-
+appeared entirely from this phase of tradition.
+
+3 A different form from Matt. v. 45, but the same idea ; for
+the other tradition, see Luke vi. 36.
+
+
+Hosted by
+
+
+Google
+
+
+158 THRICE-GREATEST HERMES
+
+entrance of which the Hidden [Mystery] does not
+stand naked, pointing from below above, and crowned
+with all its fruits of generation.
+
+(10) And (H. they say) it stands so symbolised
+not only in the most sacred temples before the statues,
+but also set up for general knowledge —
+
+C. — as it were "a light not under the bushel, but" set
+"on the candlestick"^ — a preaching "heralded forth on the
+house-tops."^
+
+S. — on all the roads and in all the streets, and along-
+side the very houses as a boundary and limit of the
+dwelling ; (H. that) This is the God spoken of by
+all, for they call Him Bringer-of-good, not knowing what
+they say.
+
+H. And this mystery [-symbol] the Greeks got from the
+Egyptians, and have it [even] to this day.
+
+At anyrate, he says, we see the " Hermes " ^ honoured by them
+in this form.
+
+(11) S. And the Cyllenians, treating [this symbol]
+with special honour, [regard it as the] Logos. ^
+
+For (H. he says) Hermes is [the] Logos, who, as
+being the Interpreter and Fabricator of all things that
+have been and are and shall be, was honoured by them
+under the symbolism of this figure, namely an ithy-
+phallus.
+
+And that he (H. that is Hermes, so symbolised) is
+
+1 Cf, Matt. V. 15 = Mark iv. 21=Luke viii. 16 and xi.. 33.
+
+2 Gf. Matt. X. 27 = Luke xii. 3.
+
+3 That is, symbolically distinguished statues of Hermes.
+
+4 The text is faulty ; but compare Fausanias, VI. xxvi. 5, where,
+speaking of Cyilene, he says : " The image of Hermes which tbe
+people of the place revere exceedingly, is nothing but an ithy-
+pliallus on a pedestal." This famous symbohc figure at Cyilene
+is mentioned also by Artemidorus, Oneirocr., i. 45 ; and by Lucian,
+Jupiter Tmgcedus, 42. Gf, J. G. Frazer's Pauscmias (London,
+1898), iv. up.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 159
+
+Conductor and Eeconductor of souls,^ and Cause of
+souls, has not escaped the notice of the poets (H. of the
+Gentiles), when saying :
+
+" But Cyllenian Hermes summoned forth the souls
+Of men mindful " ^ —
+
+— not the " suitors " of Penelope (H. he says), hapless
+wights! but of those who are roused from sleep, and
+have their memory restored to them —
+
+" From what honour and [how great] degree of
+blessedness." ^
+
+J. That is, from the Blessed Man Above —
+
+H. — or Original Man, or Adamas, as they ** think —
+
+J. — they ^ have been thus brought down into the
+plasm of clay, in order that they may be enslaved to
+the Demiurge of this creation, Esaldaios ^ —
+
+H. — a fiery God, fourth in number, for thus they call the
+Demiurge and Father of this special cosmosJ
+
+^ Psychagogue and psychopomp — or leader and evoker of souls
+— apparently here meaning him who takes souls out of body and
+brings them back again to it.
+
+2 fxp-ncrriiptav — lit., meaning " recalling to mind " ; and also
+''suitors." Cf. Od,, xxiv. 1 ff.
+
+2 Empedocles, On Purifications (Diels^ 119 ; Stein, 390 ; Karsten,
+1 1 ; Fairbanks, First Philosophers of Greece, 206) ; Empedocles
+continues :*'... have I fallen here on the earth to consort with
+mortals 1 "
+
+^ The Naassenes, in H.'s opinion.
+
+" The souls.
+
+c Some editors think this is a mistake for laldabaoth. The
+name, however, appears in the system of Justinus (Hipp., Philos.,
+V. 26) as Esaddaios, evidently the transliteration of El Shaddai,
+as one of the twelve Paternal Angels, the Sons of Elohim, the
+Demiurge of the sensible world, and of Eden, the Maternal
+Potency or Nature.
+
+7 rod ISiKov K6(rfxov — the cosmos of species and not of wholes.
+(7f. § 17 below for the passage of C. from which H. takes this.
+
+
+Hosted by
+
+
+Google
+
+
+160 THEICE-GBEATEST HERMES
+
+p (13) S. "And he^ holds a rod in his hands,
+
+Beautiful, golden ; and with it he spell-binds the
+
+eyes of men,
+Whomsoever he would, and wakes them again too
+
+from sleep/' ^
+
+This (H. he says) is He who alone hath the power
+of life and death.^
+
+J. Concerning Him it is written: "Thou shalt
+shepherd them with a rod of iron." *
+
+But the poet (H. he says), wishing to embellish the
+incomprehensibility of the Blessed Nature of the Logos,
+bestowed upon Him a golden instead of an iron rod.
+
+S. " He spell-binds the eyes " of the dead (H. he says),
+and "wakes them again too from sleep" — those who
+are waked from sleep and become " mindful," ^
+
+C. Concerning tliem the Scripture saith : " Awake thou that
+sleepest, and rise, and Christ will give thee light." ^
+
+This is the Christ, the Son of Man (H. he says), expressed in
+all who are born from the Logos, whom no expression can express.
+
+S. This (H. he says) is the Great Ineffable Mystery
+of the Eleusinia : " Hye Kye." ^
+
+Compare Ptah-Hephaistos, the Demiurge by Fire, the Fourth, in
+the Inscription of London given in Chap. VI. above.
+
+^ Sc. Hermes,
+
+2 The continuation of the above quotation — Od., xxiv. 2 ff.
+
+2 Cf, G. if., i. 14: "he who hath power over the lives of
+cosmos."
+
+* Ps. ii. 9 — same reading as LXX.
+
+^ Or " get back memory," or " become suitors."
+
+^ Eph. V. 14 — a shortened form of the present Pauline text ;
+Paul himself, however, seems to be quoting from some older
+writing. If the intermediate reading (eViif/atJo-ci for iicKpaifcrei)
+can stand (see W. H., Ap. 125), it would mean "Christ shall
+touch thee " with His rod.
+
+"^ Gf. Plutarch, De Is. et Os., xxxiv. After saying that Osiris,
+or the Logos, is symbolised as Ocean and Water, and that Thales
+took his idea of Primal Water, as the cause of things, from the
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 161
+
+J. And that (H. he says) all things have been put
+under Him, this too has been said : " Into all the earth
+hath gone forth their sound.*' ^
+
+(14) S. And ''Hermes leads them, moving his rod,
+and they follow, squeaking " ^ — the souls in a cluster, as
+the poet hath shown in the following image :
+
+'' But as when bats into some awesome cave's recess
+Fly squeaking — should one from out the cluster
+
+fall
+Down from the rock, they cling to one another." ^
+
+J. The *' rock " (H. he says) means Adamas. This
+(H. he says) is the " corner-stone " —
+
+C. — ''tliat hath become the head of the corner."^ For in the
+
+Egyptians, the initiated priest of Apollo and learned comparative
+mytliologist continues : " The Greeks say that * son ' {{ff,6v) comes
+from 'water' {vZaros) and 'to moisten' (Scai), and they call
+Dionysus 'Hyes' {^nv) as Lord of the Moist {typas) Nature, he
+being the same as Osiris." StoU in Eoschers Lex, (sub vv.) says
+that "Hyes" and "Hye" were respectively designations of
+Dionysus and Semele, and that the meaning is the "Moistener"
+and the *' Moistened" (references loc, cit.). The nymphs who
+reared Bacchus were also called Hyades {PherecydeSy 4:6 ; p. 108,
+ed. Sturz). Hyes was also a popular epithet of Zeus as god of
+rain. See also Lobeck, Aglaophamus, 782 and 1045 ff. ; Anecd,,
+Bekk., p. 202 : Some say that Hyes==Attis, others that Hyes =
+Dionysus ; " for Zeus poured (vo-e) ambrosia upon him." One of
+the names of Bacchus was Ambrosia (Pherecy., ibid. ; Non., xxi.
+20). I would therefore suggest that the mystic cry " Hye Kye "
+meant " Moistener beget ! "
+
+1 Ps. xix. 4. That is the Sound ( = Word) of the Heavens ;
+quoted also in Rom. x. 18.
+
+2 Cf, Od.y xxiv. 5. And compare also Hamlet^ I. i. :
+
+" The sheeted dead
+Did squeak and gibber in the Roman streets."
+
+3 Od., ibid. flP.
+
+^ Ps. cxviii. 22. Quoted in Matt. xxi. 42 ; Mark xii. 10 ;
+Luke XX. 17 ; Acts iv. 11.
+
+VOL. L 11
+
+
+162 THRICE-GREATEST HERMES
+
+" Head " is the expressive Brain ^ of the Essence, from which
+[Brain] " every fatherhood " 2 has its expression —
+
+J. — which ^' I insert in the foundation of Zion."^
+[By this] (H. he says) he^ means, allegorically,
+the plasm of man. For the Adamas who is " inserted "
+is [the inner man, and the " foundations of Zion '' are ^]
+the " teeth '' — the " fence of the teeth," as Homer says
+— the Wall and Palisade ^ in which is the inner man,
+fallen into it from the Primal JVIan, the Adamas Above
+— [the Stone] "cut without hands "^ cutting it, and
+brought down into the plasm of forgetfulness, the
+earthy, clayey [plasm],
+
+(15) S. And (H. he says that) they followed Him
+squeaking^ — the souls, the Logos.
+
+"Thus they went squeaking together; and he led
+
+them on,
+
+Hermes, the guileless, down the dark ways." ^
+
+That is, (H. he says) [He led them] into the eternal
+
+lands free from all guile. For where (H. he says)
+
+went they ?
+
+(16) "They passed by the streams of Ocean, and by
+the White Ptock,
+
+By the Gates of the Sun, and the People of Dreams." ^^
+For He (H. he says) is Ocean — "birth-causing of
+
+1 Taken by C. from S. and J., § 20 ; but I think that C. has
+missed the true meaning of the " corner-stone " in the brain.
+
+2 a/. Eph. iii. 15.
+
+3 Is. xxviii. 16 — reading eVrcto-o-w for ififidww of LXX. ; quoted
+also in Eph. ii. 20 and 1 Pet. ii. 7.
+
+* Sc. Isaiah.
+
+^ Completion of the lacuna by B.
+
+^ xaptiKcofxa — a technical term also for the " Gnostic " supernal
+Horos or Boundary.
+7 Dan. ii. 15.
+
+* Compare the "complaints of the souls" in the K,K. fragments.
+
+9 Od., xxiv. 9 f.
+
+10 Od., ibid.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 163
+
+gods and birth-causing of men " ^ — flowing and ebbing
+for ever, now up and now down.
+
+J. When Ocean flows down (H. he says), it is the
+birth-causing of men ; and when [it flows] up, towards
+the Wall and Palisade, and the "White Eock,'' it is
+the birth-causing of gods.
+
+This (H. he says) is what is written :
+
+"'I have said ye are Gods and all Sons of the
+Highest ' 2 — if ye hasten to flee from Egypt and get you
+beyond the Eed Sea into the Desert " ; that is, from
+the intercourse below to the Jerusalem Above, who is
+the Mother of the Living.^ " But if ye turn back again
+into Egypt" — that is, to the intercourse below — "*ye
+shall die hke men.' '' ^
+
+For (H. he says) all the generation below is subject
+to death, but the [birth] begotten above is superior
+to death.
+
+C. For from water alone — that is, spirit — is begotten tlie
+spiritual [man], not the fleshly ; the lower [man] is fleshly.
+That is (H. he says) what is written : " That which is born
+of the flesh is flesh, and that which is born of the sj)irit is
+spirit." ^
+
+H. This is their ^ spiritual birth.
+
+J. This (H. he says) is the Great Jordan, which,
+flowing downwards and preventing the sons of Israel
+
+1 Cf, IL, xiv. 201, 246 ; Hymn. Orph., Ixxxiii. 2,
+
+2 Ps. Ixxxii. 6.
+
+3 Cf. Gal. iv. 27 : " But Jerusalem Above is free, which is
+our Mother." (W. and H, text.)
+
+^ The final quotation within the quotation is also from Ps
+Ixxxii. 6. Here, then, we have a quotation from a scri]3ture (" what
+is written "), glossed by J. with his special exegesis, but already
+being an exegesis of an Old Testament logos. It is not only a
+halacha, to use a term of Talmudic Rabbinism^ but it is an
+authoritative aj)ocalypse of the Jewish Gnosis.
+
+^ John iii. 6.
+
+^ Sc. the Naassenes, according to H.
+
+
+Hosted by
+
+
+Google
+
+
+164 THRICE-GKEATEST HERMES
+
+from going forth out of Egypt, or from the intercourse
+
+below —
+
+H. — for Egypt is the body, according to thera —
+
+J. — was turned back by Jesus ^ and made to flow
+
+upwards.
+
+H. Following after these and such like [follies], these most
+wonderful " Gnostics," discoverers of a new grammatical art,
+imagine that their prophet Homer showed forth these things
+arcanely ; and, introducing those who are not initiated into the
+Sacred Scriptures into such notions, they make a mock of them.
+
+And they say that he who says that all things are from One,
+is in error, [but] he who says they are from Three is right, and
+will fui^nish proof of the first principles [of things].^
+
+J. For one (H. he says) is the Blessed Nature of
+the Blessed Man Above, Adamas : and one is the
+[ISTature] Below, which is subject to Death ; and one is
+the Eace without a king^ which is born Above —
+where (H. he says) is Mariam the sought-for, and
+Jothdr the great sage, and Sepphora the seeing, and
+Moses whose begetting is not in Egypt — for sons
+were born to him in Madiam.^
+
+S. And this (H. he says) also did not escape the
+notice of the poets :
+
+1 I am persuaded that this stood originally in J., and not in C.
+— being LXX. for Joshua.
+
+2 This paragraph summarises S. See next S.
+
+3 a$(rl\€vros — that is, presumably, those who have learned to
+rule themselves, the " self-taught " race, etc., of Philo.
+
+4 Eusebius {Prcep. Evang., IX. xxviii. and xxix. 5 ff. ; ed. Dind.
+i. 505 ff, and 508 ff.), quoting from Alexander Cornelius (Poly-
+histor), who flourished about 100 B.C., has preserved to us a
+number of verses from a tragedy (called The Leading Forth)
+on the subject of Moses and the Exodus story, by a certain
+Ezechiel, a (? Alexandrian) Hebrew poet writing in Greek, In
+these fragments of EzechiePs tragedy, Mariam, Sepphora, and
+Jothor are all dramatis personce. These spellings and that of
+Madiam are, of course, all LXX. (that is, Greek Targum) forms
+of our A.V. Miriam, Jethro, Zipporah, and Midian.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 165
+
+" All things were threefold divided, and each received
+his share of honour/' ^
+
+C. For tlie Greatnesses (H. he says) needs must be spoken, but
+so spoken by all everywhere " that hearing they may not hear,
+and seeing they may not see." ^
+
+J. For unless (H. he says) the Greatnesses^ were
+spoken, the cosmos would not be able to hold together.
+These are the Three More-than-mighty Words {Logoi) :
+Kaulakau, Saulasau, Zeesar; — Kaulakau, the [Logos]
+Above, Adamas ; Saulasau, the [Logos] Below ; Zeesar ,^
+the Jordan flowing upwards.^
+
+(17^) S. He (H. he says) is the male-female Man
+
+1 11, XV. 189.
+
+2 Of. Luke viii. 10. Luke seems to preserve the reading of
+tbe source more correctly than Matt. xiii. 13 or Mark iv. 12.
+The Saying looks back to Is. vi. 9.
+
+3 Of. § 30 J.
+
+* These three names are based on the Hebrew text of Is. xxviii.
+13, A.V. : " But the Word of the Lord was unto them precept
+upon precept, precept ixpon precept; line upon line, line upon
+line ; here a little, there a little." LXX. : " koX %(rrai ahroh rb
+
+fxiKpoyJ^ That is : " And the logion [oracle, the Urim-and-
+Thummim, or instrument of the Logos, according to Philo] of God
+shall be to them tribulation on tribulation, hope on hope, still
+little still little." See Epiphanius, Hcer,^ xxv. 4. ^^ Saulasau
+saw^asaw " = " tribulation on tribulation, tribulation on tribula-
+tion;" ^^ kaulakau kaulakau" — ^^ho^Q on hope, hope on hope;"
+" zeesar \^eesar'] " = " still little still little " — that is, the " Height of
+Hope,'^ the "Depth of Tribulation," and the « As yet Very Little "—
+evidently referring to the as yet small number of the Regenerate.
+Cf. Pistis Sophia, 354 : " One out of a thousand, and two out of
+ten thousand." See Salmon's article, " Caulacau," in Smith and
+Wace's D. of Ch, Biog., i. 424 f. It is also to be noticed that
+Epiphanius ascribes the origin of these names to the Nicolaitans.
+In Hebrew the corresponding name would be Balaamites ; and
+Balaam or Bileam (Nico-laus) was one of the Rabbinical by-names
+for Jeschu (Jesus). See D. J". L., p. 188.
+
+s This and the following paragraph seem to have been mis-
+
+
+Hosted by
+
+
+Google
+
+
+166 THRICE-GREATEST HERMES
+
+in all, whom the ignorant call three-bodied Geryones —
+Earth-flow-er, as though flowing from the earth ; ^ while
+the Greek [theologi] generally call Him the " Heavenly
+Horn of Men," ^ because He has mixed and mingled ^
+all things with all.
+
+C, For " all things (H. he says) were made through Him, and
+without Him no one thing was made that was made. In Him
+is Life.'' 4
+
+This (H. he says) is " Life," the ineffable Race of perfect men,
+which was unknown to former generations.
+
+And the " nothing " ^ which hath been made "without Him,"
+is the special cosmos ; ^ for the latter hath been made without
+Him by the third and fourth [? Ruler]."^
+
+placed by J. or C, for § 19 connects directly with the exposition
+concerning the ithyphallic Hermes. See R. 100, n. 4.
+^ a»s Sk yris peopra Tr}-pv6y-7}v,
+
+2 Men was the Phrygian Deus Lunus. See Drexler's admirable
+art. s.v. in Roscher, ii. 2687-27*70.
+
+3 KiK€paKi — a word-play on wepas (horn), unreproducible in
+English.
+
+* John i. 3, 4. So the present text ; but it must have been
+" nothing " in the text which lay before C.
+
+^ Of. the logos ) from The Booh of the Great Logos according to the
+Mystery : '* Jesus, the Living One, answered and^ said : Blessed
+is the man who knoweth this [Word (Logos)}, and hath brought
+down the Heaven, and borne the Earth and raised it heavenwards,
+and he becometh the Middle, for it (the Middle) is ' nothing.' " —
+Schmidt (C), Gnostische Schriften in Jcoptischer Sprache aus dem
+Codex Brucianus (Leipzig, 1892), p. 144 ; and Koidtisch-gnostische
+Schriften (Leipzig, 1905), p. 259.
+
+6 That is the world of phenomena, or cosmos of species (IBtKos)
+and not of genera or wholes,
+
+7 The fourth Demiurgic Power of the Sensible World was
+Esaldaios, as we have already seen from J., § 12. The indications
+are too vague to recover the "measures" and "numbers" of the
+system. But the " third and fourth " are apparently both " fiery " —
+the former giving " light," the latter "heat." Compare § 23 0.,
+who speaks of the third Gate, or entrance to the third Heaven.
+This Heaven, the third from below, would correspond with the
+first setheric sphere — there being, presumably, -three before the
+fourth or middle, the " Fiery Ruler."
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 167
+
+J. Thisi (H. he says) is the drinking-vessel — the
+Cup in which " the King drinketh and divineth." 2
+
+This (H. he says) was found hidden in the **fair
+seed " of Benjamin.
+
+(18) S. The Greeks also speak of it (H. he says)
+with inspired tongue, as follows :
+
+*' Bring water, bring [me] wine, boy !
+Give me to drink, and sink me in slumber ! ^
+My Cup tells me of what race I must be born,
+[Speaking with silence unspeaking]." ^
+
+C. This (H. he says) would be sufficient alone if men would
+understand — the Cup of Anacreon speaking forth speechlessly the
+Ineffable Mystery.
+
+J. For (H. he says) Anacreon's Cup is speech-
+less — in as much as it tells him (says Anacreon) with
+speechless sound of what Eace he must be born —
+
+C. — that is, spiritual, not carnal —
+
+J. — if he hear the Hidden Mystery in Silence.
+
+C, And this is the Water at those Fair Nuptials which Jesus
+turned and made Wine.
+
+"This (H. he says) is the great and true beginning of the
+signs which Jesus wrought in Cana of Galilee, and made manifest
+His Kingship [or Kingdom] of the Heavens." ^
+
+This (H. he says) is the Kingship [or Kingdom] of the
+Heavens within us,^ stored up as a Treasure,"^ as '* Leaven hid
+in three measures of Flour.*' ^
+
+1 Sc, " Heavenly Horn of Men."
+
+2 Of. Gen. xUv. 5.
+
+3 Bergk includes these verses among the Anacreontica, n. 63,
+p. 835. Cf. Anacr., i. 10 (Bergk, 60, 10).
+
+* The last line is reconstructed by Cruice (not. in loc). Cf,
+Anacr.j xxvi. 25, 26. Was Omar Khayyam, then, "Anacreon
+palingenes" or was the same spirit in each 1
+
+^ Of, John ii. 11. The reading of our quotation, however, is
+very different from that of the familiar Textus Eeceptus.
+
+6 Of. Luke xvii. 21. 7 Qf^ Matt. xiii. 44.
+
+8 Cf. Matt. xiii. 33 = Luke xiii. 20.
+
+
+Hosted by
+
+
+Google
+
+
+168 THRICE-GREATEST HERMES
+
+(191) s. This is (H. he says) the Great Ineffable
+Mystery of the Samothracians, —
+
+C. — which it is lawful for the perfect alone to know — [that
+is] (H. he says) for us.
+
+J. For the Samothracians, in the Mysteries which
+-are solemnised among them, explicitly hand on the
+tradition that this Adam is the Man Original.
+
+S. Moreover,^ in the initiation temple of the Samo-
+thracians stand two statues of naked men, with both
+hands raised to heaven and ithyphallic, like the statue
+of Hermes in Cyllene.^
+
+J. The statues aforesaid are images of the Man
+Original.^
+
+C. And [also] of the regenerated ^ spiritual [man], in all things
+of like substance with that Man,
+
+This (H. he says) is what was spoken by the Saviour :
+
+" If ye do not drink My Blood and eat My Flesh, ye shall not
+enter into the Kingdom of the Heavens.^
+
+" But even if ye drink (H. he says) the Cup which I drink,^
+where I go, there ye cannot come." ^
+
+1 This seems to connect immediately with the end of § 16. See
+R. 100, n. 4.
+
+2 S. probably had "For," which was glossed by J. into
+" Moreover."
+
+3 But this "statue," as we have seen, was the ithyphallus
+simply.
+
+4 Or Typal Man.
+
+^ Or, generated or born from Above.
+
+6 Of. John vi. 63, which reads in T. R. : " Amen, Amen, I
+say unto you, if ye eat not the Flesh of the Son of Man and drink
+His Blood, ye have not Life in yourselves."
+
+7 Gf. Matt. XX. 22 = Mark x. 38 (where the phrase is put in a
+question).
+
+8 Gf. John viii. 21 and xiii. 33. It is remarkable tbat in the
+text of our Gospels these logoi are addressed to the Jews j C,
+however, takes them as sayings addressed to the disciples. It
+is possible that we may have here a "source" of the Fourth
+Gospel !
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IlvF, THE MYSTERIES 169
+
+For He knew (H. he says) of which nature each of His
+disciples is, and that it needs mnst be that each of them should go
+to his own nature.
+
+For from the twelve tribes (H. he says) He chose twelve
+disciples, and through them He spake to every tribe .^ .
+
+On this account (H. he says) all have not heard the preach-
+ings of the twelve disciples ; and even if they hear, they cannot
+receive them. For the [preachings] which are not according to
+their nature are contrary to it.
+
+S. This [Man] (H. he says) the Thracians who
+dwell round Haimos call Korybas,^ and the Phrygians
+in like manner with the Thracians ; for taking the
+source of His descent from the Head Above ^ —
+
+J. — and from the expressive Brain ^ —
+
+S. — and passing through all the sources of all things
+beneath — how and in what manner He descends we do
+not understand.
+
+J. This is (H. he says) what was spoken :
+
+" His Voice we heard, but His Form we have not
+seen." ^
+
+For (H. he says) the Voice of Him, when He hath
+been delegated and expressed, is heard, but the Form
+that descended from Above, from the Inexpressible
+[Man] — what it is, no one knows. It is in the earthy
+plasm, but no one has knowledge of it.
+
+This [Man] (H. he says) is He who " inhabiteth the
+
+1 These " tribes," then, were not the Jewish tribes, ten of which
+did not return, but twelve typical natures of men, and something
+else.
+
+2 See Immisch's excellent art, " Kureten u. Korybanten," in
+Roscher, ii. 1587-1628.
+
+3 Kopvfias, the Lord of the Corybantes, or frenzied priests of
+Cybele, is thus feigned by mystical word-play to be 6 aTrh-Kopv<p7js'
+^as, " he who descends from the head."
+
+' Cf, C, § 14.
+
+^ Apparently a quotation from some Jewish apocryphon. Of.
+John V. 37 ; " Ye have never at any time heard His voice nor
+have ye seen His form."
+
+
+Hosted by
+
+
+Google
+
+
+170 THRICE-GREATEST HERMES
+
+Flood/' ^ according to the Psalter, who cries and calls
+from " many waters." ^
+
+The " many waters *' (H. he says) are the manifold
+genesis of men subject to death, from which He shouts
+and calls to the Inexpressible Man, saying :
+
+" Save my [? Thy] alone-begotten from the lions/' ^
+
+To this [Man] (H. he says) it hath been spoken :
+
+" Thou art my Son, Israel,^ fear not ; should'st
+thou pass through rivers, they shall not engulph thee ;
+should'st thou pass through fire, it shall not consume
+thee." s
+
+By "rivers" (H. he says) he^ means the Moist
+Essence of Genesis, and by "fire" the impulse and
+desire towards Genesis.
+
+And : " Thou art mine ; fear not." ^
+
+And again he ^ says :
+
+" If a mother forget her children so as not to takev
+pity on them or give them suck, [then] I too will
+forget you " ^ — saith Adamas (H. he says) to his own
+men.
+
+" Nay, even if a woman shall forget them, I will not
+forget you. Upon my hands have I graven you." ^^
+
+And concerning His Ascent —
+
+C. — that is his regeneration in order that he may be born
+spiritual, not fleshly.
+
+J. — the Scripture saith (H. he says) :
+
+'* Lift up the gates, ye who are rulers of you, and be
+
+1 Gf. Ps. xxviii. 10. 2 jj^ici., 3.
+
+3 Conflation of LXX. of Ps. xxiv. 17 and Ps. xxi. 21.
+
+4 A paraphrase of LXX. — Is. xli. 8.
+
+s A paraphrase of LXX. — Is. xliii. 1.
+
+^ Isaiah ; or the Word speaking through the prophet.
+
+7 Is. xliii. 1.
+
+8 Sc, Isaiah.
+
+^ Paraphrase of LXX. — Is. xlix. 15.
+10 Is. xlix. 16.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 171
+
+ye lift up ye everlasting gates, and the King of Glory
+shall come in." ^
+
+This is a wonder of wonders.
+
+"For who (H. he says) is this King of Grlory?^
+A worm ^ and no man, the scorn of men, and the con-
+tempt of the people.^ He is the King of Glory, the
+Mighty in War." ^
+
+By " War " he ^ means the " [war] in the body," for
+the plasm is compounded of warring elements, as it is
+written (H. he says) :
+
+" Eemember the war that is [warred] in the body." ^
+
+This (H. he says) is the Entrance, and this is the
+Gate, which Jacob saw, when he journeyed into Meso-
+potamia.^
+
+C. Which is the passing from childhood to puberty and man-
+hood ; that is, it was made known to him who journeyed into
+Mesopotamia.
+
+J. And Meso-potamia (H. he says) is the Stream
+
+of Great Ocean flowing from the middle of the Perfect
+
+Man.
+
+And he ^ marvelled at the Heavenly Gate, saying :
+" How terrible [is] this place ! This is naught else
+
+than the House of God ; yea, this [is] the Gate of
+
+Heaven." 10
+
+C. On this account (H. he says) Jesus saith ;
+
+" I am the True Door." "
+
+J. And he 12 ^Jjq g^yg these things is (H. he
+
+I Ps, xxiii. 7 and 9. ^ pg, xxiii. 10.
+3 Sc. 8L " Serpent." * pg. xxi. 6.
+
+^ Ps. xxiii. 10 and 8.
+
+6 Sc. the psalmist ; or, rather, the Logos through the psalmist.
+
+7 Job xl. 27. ^ Gen. xxviii. 7.
+
+Sc. Jacob. 1^ Gen. xxviii. 17.
+
+II Of. John X. 9 — " true " not appearing in the traditional text.
+12 Sc. " Jacob " — using the name in the Philonean sense.
+
+
+Hosted by
+
+
+Google
+
+
+172 THRICE-GREATEST HERMES
+
+says) the [one] from the Inexpressible Man, expressed
+from Above —
+
+C. — as the perfect man. The not-perfect man, therefore,
+cannot be saved unless he be regenerated passing through this
+Gate.
+
+(21) S. This same [Man] (H. he says) the Phrygians
+call also Papa;^ for He calmed ^ all things which,
+prior to His own manifestation, were in disorderly
+and inharmonious movement.
+
+For the name Papa (H. he says) is [the] Sound-
+of -all-things- together in Heaven, and on Earth, and
+beneath the Earth, saying : " Calm, calm '' ^ the discord
+of the cosmos.
+
+G. And: Make "peace for them that are far" — that is, the
+material and earthy — "and peace for them that are near"* —
+that is, the spiritual and knowing and perfect men.
+
+(22) S. The Phrygians call Him also Dead — when
+buried in the body as though in a tomb or sepulchre.
+
+C. This (H. he says) is what is said :
+
+"Ye are whited sepulchres, filled (H. he says) within with
+bones of the dead,^ for Man, the Living [One] ^ is not in you."
+
+And again He says :
+
+" The dead shall leap forth from their graves " ^ —
+— that is, from their earthy bodies, regenerated spiritual, not
+fleshly.
+
+This (H. he says) is the Resurrection which takes place
+
+1 This is the Zeus Phrygius of Diodor. iii. 58, and Eustathius,
+565, 3. Gf, R. 163, n. 3, and Zwei relig. Fragen, 104, n. 3.
+
+3 iraOe TraiJe, a mystical WOrd-play on nd-Tra,
+
+* 0/. Eph. ii. 17.
+
+^ Of, what underlies Matt, xxiii. 27, Luke xi. 44, and Acts
+xxiii. 3.
+
+^ Of, "Jesus, the Living [One]" in the Introduction to the
+newest found Sayings ; and also passim in the Introduction
+(apparently an excerpt from another document) to the First
+Booh of leouy in the Codex Brucianus.
+
+7 Cf. what underlies Matt, xxvii. 52, 53.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 173
+
+through the Gate of the Heavens, through which all those who
+do not pass (H. he says) remain Dead.
+
+S. The same Phrygians again call this very same
+[Man], after the transformation, God [or a God].^
+
+C, For he becomes (H. he says) God when, rising from the
+Dead, through such a Gate, he shall pass into Heaven.
+
+This is the Gate (H. he says) which Paul, the Apostle, knew,
+setting it ajar in a mystery, and saying that he was caught up by
+an angel and came to the second, nay the third heaven, into
+Paradise itself, and saw what he saw, and heard ineffable words,
+which it is not lawful for man to utter,^
+
+These (H. he says) are the Mysteries, ineffable [yet] spoken
+of by all, —
+
+" — which [also we speak, yet] not in words taught of human
+wisdom, but in [words] taught of Spirit, comparing things
+spiritual with sj)iritual things. But the psychic man receiveth
+not the things of God's Spirit, for they are foolishness unto him." ^
+
+And these (H. he says) are the Ineffable Mysteries of the
+Spirit which we alone know.
+
+Concerning these (H. he says) the Saviour said :
+
+" No one is able to come to Me, unless my Heavenly Father
+draw him." *
+
+For it is exceedingly difficult (H. he says) to receive and
+accej)t this Great Ineffable Mystery.
+
+And again (H. he says) the Saviour said :
+
+" Not every one that saith unto Me, Lord, Lord ! shall enter
+into the Kingdom of the Heavens, but he who doeth the Will of
+My Father who is in the Heavens " ^ —
+
+— which [Will] they must do, and not hear only, to enter into
+the Kingdom of the Heavens.
+
+1 Some words have apparently been omitted, corresponding to
+the final clause of the last sentence in S. See E., p. 101.
+
+2 Gf. 2 Cor. xii. 2-4.
+
+3 Gf. 1 Cor. ii. 13, 14.
+
+4 Gf, John vi, 44. Instead of " Heavenly Father," T. R. reads
+" the Father who sent me." Compare with this the longest of the
+newest found logoi, concerning "them who draw us" towards
+self-knowledge or the " kingship within." (Grenfell and Hunt,
+op. cit, p. 15.) 2 Gf Matt. vii. 21.
+
+
+Hosted by
+
+
+Google
+
+
+174 THRICE-GREATEST HERMES
+
+And again He said (H. he says) :
+
+" The tax-gatherers and harlots go before you into the Kingdom
+of the Heavens." ^
+
+For by "tax-gatherers" [rcXmai) are meant (H. he says)
+those who receive the consummations 2 (rexrf) of the universal
+[principles] ; and we (H. he says) are the " tax-gatherers " ^
+[" upon whom the consummations of the seons have come " * ].
+
+For the "j consummations " (H. he says) are the Seeds dis-
+seminated into the cosmos from the Inexpressible [Man], by
+means of which the whole cosmos is consummated ; for by means
+of these also it began to be.
+
+And this (H. he says) is what is said :
+
+" The Sower went forth to sow. And some [Seeds] fell by the
+way -side, and were trodden under foot ; and others on stony
+places, and they sprang up (H. he says), but because they had
+no depth, they withered and died.
+
+" Others (H. he says) fell on the fair and good ground, and brought
+forth fruit — one a hundred, another sixty, and another thirty.
+
+" He who hath (H. he says) ears to hear, let him hear ! " ^
+
+That is (H. he says), no one has been a hearer of these
+Mysteries, save only the gnostic, perfect [man].
+
+This (H. he says) is the " fair and good ground " of which
+Moses saith :
+
+" I will bring you into a fair and good land, into a land flowing
+with milk and honey." ^
+
+This (H. he says) is the " honey and milk " by tasting
+which the perfect [men] become free from all rule,^ and share in
+the Fullness.
+
+This (H. he says) is the Fullness whereby all things that are
+generated both are and are full-filled from the Ingenerable [Man].
+
+1 Of. Matt. xxi. 31. T. R. reads " The Kingdom of God."
+
+2 Or perfectionings, or completions, or endings, or initiations ;
+also taxes — here a mystical synon3nni for pleromata (fullnesses) or
+logoi (words),
+
+2 Or, collectors of dues.
+
+4 1 Cor. X. 11.
+
+^ Gf. the logos underlying Matt. xiii. 3 ff. = Mark iv. 3 fif. = Luke
+viii. 5 ff.
+
+^ Slightly paraphrased from LXX. — Deut. xxxi. 20.
+
+7 In that they are rulers of themselves, members of the " self-
+taught" Race — a$acri\^vTovSy that is, free from the Rulers of
+Destiny, or Karmlc bonds.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 175
+
+(23) S. This same [Man] is called by the Phrygians
+Unfruitful,
+
+G. For He is unfruitful as long as He is fleshly and works
+the work of the flesh.
+
+This (H. he says) is what is said : " Every tree that beareth
+not good fruit, is cut down and cast into the fire." ^
+
+For these "fruits" (H. he says) are the logic^ living men
+only who pass through the third Gate.^
+
+J. At anyrate they * say :
+
+"If ye have eaten dead things and made living
+ones, what will ye make if ye eat living things V^
+
+And by " living things " they mean logoi and minds
+and men — the "pearls" of that Inexpressible [Man]
+cast into the plasm below.^
+
+C, This is what He saith (H. he says) :
+
+"Cast not the holy thing to the dogs nor the pearls to the
+swine." ^
+
+H. For they say that the work of swine is the intercourse of man
+with woman.
+
+(24 ^) S. This same [Man] (H. he says) the Phrygians
+also call Ai-polos ; ^ not because (H. he says) He feeds
+
+1 Gf. Matt. iii. 10 = Luke iii. 9. Gf. also Hipp., PUlos., vi. 16,
+in his maltreatment of the " Simonian ^' Gnosis.
+
+2 That is. Sons of the Logos.
+
+3 Gf, note on the third Ruler in § 17 C.
+^ Presumably the Phrygians.
+
+^ If our attribution of this to J. is correct (R. gives it to C), we
+have perhaps before us a logos from the Phrygian Mysteries.
+
+^ This may possibly be assigned to C. ; but C. usually comments
+on J. and does not lead, and the terminology is that of J. and not
+of G.
+
+7 A simple form of Matt. vii. 6. Is it by any means possible
+an underlying mystical word-play on the Eleusinian logos *' 06
+Kue " ; hence Is (pig) — a synonym of xo*po^ — and Kv<av (dog) ?
+
+8 This section seems to be misplaced, and § 25 probably
+followed § 23 immediately in the original ; the antithesis of Fruit-
+ful and Unfruitful following one another, as above (§ 22), the
+antithesis of Dead and God.
+
+^ al-n6xos, -yi^. = " goat-herd>"
+
+
+Hosted by
+
+
+Google
+
+
+176 THRICE-GREATEST HERMES
+
+she-goats and he-goats, as the (C. — psychics ^ ) interpret
+the name, but because (H. he says) He is Aei-polos —
+that is, "Always-turning" (Aei-polon),^ revolving and
+driving round the whole cosmos in [its] revolution ;
+for ^olein is to " turn " and change things.
+
+Hence (H. he says) all call the two centres^ of
+heaven poles. And the poet also (H. he says) when
+he says : " Hither there comes and there goes (poleitai)
+Old Man of the Sea, whose words are e'er true — Egypt's
+undying Proteus." ^
+
+^ S. had probably " ignorant."
+
+2 a€nr6\0Si rovriffTi dei iroKwy. Cf. Plato, Cratylus, 408 C, D.
+
+3 This is not very clear. But see Mozley's article, " Polus," in
+Smith, Wayte, and Marindin's D. of Gk. and Bom. Antiquities
+(London, 1891), ii. 442, 443: "Both in [Plato's] Timceus, 40 b.
+and [Aristotle's] De Gcelo, ii. 14, trSxos is used, not for the entire
+heaven, but for the axis of heaven and earth, around which the
+whole revolved. Again in the De Gcelo, ii. 2, the 'ir6?.oi are the
+poles, north and south, in our sense of the word.'^ Compare also
+the rubric in one of the rituals in the Greek Magic Papyri— C.
+Wessely, Griechische Zmiherpapyrus, in Denkschr. d. Akad.j ph. hist.
+KL, xxxvi. (Vienna, 1888) — where it is said that the Sun will
+then move towards the Pole, and the theurgist will see Seven
+Virgins (the Seven Fortunes of Heaven) approach, and Seven
+Youths, with heads of bulls (the Pole-lords of Heaven), who make
+the axis turn (661-670). Compare this with the " cylinder "
+idea in the fragment of K. K. Then there will appear the Great
+God *^ in a white robe and trowsers, with a crown of gold on his
+head, holding in his right hand the golden shoulder of a heifer,
+that is the Bear that sets in motion and keeps the heaven turning
+in due seasons." This God will pronounce an oracle, and the
+theurgist will then receive the gift of divination. The special
+interest of this tradition is that it contains a Magian element (to
+wit, the "trowsers''), and this connects closely with Phrygia
+and the cult that was wedded most closely with the Mithriaca,
+namely, that of the Mother of the Gods.
+
+* Od, iv. 384. In the Proteus myth Egypt is the Nile — that is,
+the " Great Green," the Heaven Ocean, Proteus was also said to
+have been the messenger or servant of Poseidon, the special God,
+it will be remembered, of Plato's Atlantis.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 177
+
+[By 2^oleitai] he does not mean '* he is put on sale/' ^
+but " he turns about " [or conies and goes] there, — as
+though it were, [he spins] and goes round.
+
+And the cities in which we live, in that we turn
+about and circulate in them, are called poleis.
+
+Thus (H. he says) the Phrygians call Aipolos this
+[Man] who turns all things at all times all ways, and
+changes them into things kin.
+
+(25) The Phrygians, moreover (H. he says), call Him
+Fruitful.
+
+J. For (H. he says) :
+
+"Many more are the children of the desolate
+[woman] than of her who hath her husband.''^
+
+C. That is, the regenerated, deathless, and ever-continuing
+[children] are many, although few are they [thus] generated ;
+but the fleshly (H. he says) all perish, though many are they
+[thus] generated.
+
+1 7ri7rpc{(r/f€Tat, a synonym of irwXurai, which, besides the meaning
+of " coming and going," or " moving about," also signifies " is
+sold " ; but I do not see the apjDOsiteness of the remark, unless the
+** ignorant" so understood it.
+
+2 Is. Hv. 1 ; quoted also in Gal. iv. 27. Gf, Philo, De Execrat.^
+§ 7 ; M. ii. 435, P. 936 (Pi. v. 254) ; "For when she [the Soul]
+is a multitude of passions and filled with vices, her children
+swarming over her — pleasures, aj)petites, folly, intemperance,
+unrighteousness, injustice — she is weak and sick, and lies at
+death^s door, dying ; but when she becomes sterile, and ceases to
+bring them forth, or even casts them from her, forthwith, from
+the change, she becometh a chaste virgin, and, receiving the
+Divine Seed, she fashions and engenders marvellous excellencies
+"■hat Nature prizeth highly — prudence, courage, temperance,
+justice, holiness, piety, and the rest of the virtues and good
+dispositions."
+
+There are, thus, seen to be identical ideas of a distinctly
+marked character in both J. and Philo. Did J., then, belong to
+Philo's " circle " ? Or, rather, did Philo represent a propagandist
+side of J.'s circle ? In other words, can we joossibly have before
+us in J. a Therapeut allegorical exercise, based on S., by an
+exceedingly liberal-minded Hellenistic Jewish mystic?
+VOL. I. 12
+
+Hosted by VjOOQIC
+
+
+178 THRICE-GREATEST HERMES
+
+C. For this cause (H. lie says) :
+
+" Rachel bewailed her children, and would not (H. he says) be
+comforted weexDing over them ; for she knew (H. he says) that
+they are not." ^
+
+J. And Jeremiah also laments the Jerusalem Below
+— not the city in Phoenicia,^ but the generation below —
+which is subject to destruction.
+
+C. For Jeremiah also (H. he says) knew the perfect man, re-
+generated from water and spirit, not fleshly.
+
+J. At anyrate the same Jeremiah said :
+*' He is man, and who shall know him ? "^
+
+C. Thus (H. he says) the knowledge of the perfect man is
+deep and hard to comprehend,
+
+J. For " The beginning of Perfection (H. he says)
+is Gnosis of man, but Gnosis of God is perfect
+Perfection.'' 4
+
+(26) S. And the Phrygians (H. he says) call Him
+also " Plucked Green Wheat-ear " ; and after the Phry-
+gians the Athenians [so designate Him], when, in the
+secret rites at Eleusis, they show those who receive in
+silence the final initiation there into the Great —
+
+C. — and marvellous and most perfect —
+
+S. — Epoptic Mystery, a plucked wheat-ear.^
+
+1 Cf. Matt. ii. 18, which dej)ends on Jer. xxxi. 15 (LXX.
+xxxviii. 15), In T. R., however, the reading is by no means the
+same as in LXX. C. favours the Gospel text rather than that of
+LXX.
+
+2 This shows a very detached frame of mind on behalf of J.
+Perhaps it may be an interpolation of C
+
+^ Jer. xvii. 9.
+
+^ This has all the appearance of a quotation from some mystic
+apocryphon of the Gnosis.
+
+s See Cumont (F.), Mysteres de Mithra (Brussels, 1898). In
+the monuments representing the bull-slaying myth of the
+Mithriaca, the bull's tail is frequently terminated in " une trujfe
+d^epis^' — the number varies, being either one, three, five, or seven.
+In the BundaMsh all things are generated from the body,
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OP MAN IN THE MYSTERIES 179
+
+And this Wheat-ear is also with the Athenians the
+Light -giver^ —
+
+C — ^perfect [and] miglity —
+
+J, — from the Inexpressible —
+
+S. — as the hierophant himself — not emasculated like
+the " Attis," ^ but made eunuch with hemlock juice —
+0. — and divorced from all fleshly generation —
+
+S. — in the night, at Eleusis, solemnising the Great
+Ineffable Mysteries, when the bright light streams
+f orth,^ shouts and cries aloud, saying :
+
+especially from the spinal marrow, of the slain bull. Sometimes
+the wheat-ears are represented as flowing like blood from tlie
+wound above the heart inflicted by the dagger of Mithras, the
+Bull-slayer (op. cit., i. 186, 187). The constellation of the Wheat-
+ear in the Virgin, which, was supposed to give good harvests,
+presumably refers to the same idea (cf, Eratosth., Gataster., 9).
+See op. cit.y i. 202, 205, n. 2. The wheat-ear, therefore, symbolised
+in one aspect the " generative seed " — in animals and men-animals
+the spermatozoa, in man a mystery. Mithraicism had the closest
+connection with the Phrygian Mystery Cult ; indeed, the Magna
+Mater Mysteries were used by it for the initiation of women,
+who were excluded from the Mitliriaca proper,
+
+1 The Light-s]3ark of Pistis Sophia nomenclature.
+
+2 That is, the hierophant initiate of the Great Mother.
+
+3 virh '}ro\K<}> irvpi, lit., " to the accompaniment of much fire.'^
+This refers, I believe, to the brilliant illumination of the Temple,
+or, as it was variously called, the Initiation Hall (reAeo-T^ptoy),
+the Mystic Enclosure (yuucTt/c^s o-tikSs) — though this was probably
+the inner court surrounding the Temple proper — the Great Hall
+{lj.4yapov)j ov Palace (aydKTopov). As Hatch says, in the tenth of
+his famous Hibbert Lectures for 1888 : " And at night there were
+the mystic plays : the scenic representations, the drama in
+symbol and for sight. The torches were extinguished ; they
+stood outside the Tem23le [in the Mystic Enclosure, presumably] in
+the silence and darkness. The door opened — there was a blaze
+of light — before them was enacted the drama." — Hatch (E.), The
+Influence of Greek Ideas and Usages upon the Christian Church
+(4th ed., London, 1892). See also my "Notes on the Eleusinian
+Mysteries," in The Theosoph. Rev, (April 1898), xxii. p. 151.
+
+
+Hosted by
+
+
+Google
+
+
+180 THRICE-GREATEST HERMES
+
+" [Our] Lady hath brought forth a Holy Son : Brim5
+[hath given birth] to Brimos " —
+
+— that is, the Strong to the Strong.
+
+(27) J. And " [Our] Lady '' (H. he says) is the
+Genesis —
+
+C. —the Spiritual, Heavenly [Genesis] —
+
+J. — Above. And the Strong is he who is thus
+generated.
+
+For it is the Mystery called " Eleusis " and " Anak-
+toreion '' ; — '* Eleusis," because we —
+
+C. — the spiritual —
+
+J. — come^ from Above, streaming down from
+Adamas, for eleus-estJwd (H. he says) is " to come " ; and
+" Anaktoreion " [from anag-estliai, '' leading back," that
+is ^ ] from *' returning '* ^ Above.^
+
+This [Eeturn] (H. he says) is that of which
+those who are initiated into the great Mysteries of the
+Eleusinia speak.
+
+(28) S. And the law is that after they have been
+initiated into the Little Mysteries, they should be
+further initiated into the Great.
+
+'' For greater deaths do greater lots obtain." ^
+
+The Little (H. he says) are the Mysteries of
+
+^ See especially Lobeck, Aglaophamus, 58*7 ff.
+
+2 i^Kdo/jL^v, this verb forming its tenses from V«p and \/€hve,
+and €K€vcns meaning also " coming."
+
+3 Emend, by Keil.
+
+^ It need hardly be said that this is all mystical word-play ;
+apaKrSpetoy is pliilologically derived from the same stem as &va^,
+"a king." Of. the Anaktoron or Palace as the name of the
+Eleusinian Temple of Initiation.
+
+^ Heracleitus, Fr. (25, Diels ; 101, Fairbanks, First Philosophers
+of Greece). "Deaths" may also be rendered destinies, fates, or
+dooms.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 181
+
+Persephone Below ; concerning which Mysteries and
+the way leading there and —
+
+C. — being broad and wide, —
+
+— taking [men] to Persephone, the poet also speaks :
+
+*' Beneath this there is another path death-cold,
+Hollow and clayey. But this ^ is best to lead
+To grove delightsome of far-honoured Aphrodite/' ^
+
+These ^ are (H. he says) the Little Mysteries —
+C. — those of the fleshly generation —
+
+S. — and after men have been initiated into them,
+they should cease for a little, and become initiated in
+the Great —
+
+C. — heavenly [Mysteries],
+
+S. For they to whom the ''deaths'* in them^ are
+appointed, ** receive greater lots."
+
+J. For this [Mystery] (H. he says) is the Gate of
+Heaven, and this is the House of God, where the Good
+God dwells alone; into which [House] (H. he says)
+no impure [man] shall come —
+
+C. — no psychic, no fleshly [man] —
+
+J. — but it is kept under watch for the spiritual
+alone; — where when they come, they must cast away
+their garments, and all become bridegrooms, obtaining
+their true manhood ^ through the Virginal Spirit.
+
+1 Sc. the first path.
+
+2 These verses are from some unknown poet, who is con-
+jectured variously to have been either Parmenides or PamiDhus of
+Athens. See notes in loc, in both Schneidewin and Cruice.
+
+^ Sc. those of Persephone.
+
+* Sc. the Greater Mysteries ; in which, presumably, the candidate
+went through some symbolic rite of death and resurrection.
+
+^ Or true virility, a-rnipcr^vw^ivovs, which equates with dir-
+av^povixevovs, I believe, and does not mean demasculati, or exuta
+viriliUtjte^ as translated respectively by Schneidewin and Cruice.
+
+
+Hosted by
+
+
+Google
+
+
+182 THRICE-GREATEST HERMES
+
+For this (H. he says) is the Virgin big with child,
+conceiving and bearing a Son ^ —
+
+C. — not psychic, not fleshly, but a blessed iEon of JEons. ^
+Concerning these [Mysteries] (H. he says) the Saviour hath
+
+explicitly said that :
+
+"Narrow and strait is the Way that leadeth to Life, and
+
+few are they who enter it ; but broad and wide [is] the Way
+
+that leadeth to Destruction, and many are they who journey
+
+thereby." ^
+
+S.* Moreover, also, the Phrygians say that the Father
+of wholes^ is Amygdalos ^ —
+
+J. — no [ordinary] tree ^ (H. he says) ; but that He
+is that Amygdalos the Pre-existing, who having in
+Himself the Perfect Fruit, as it were, throbbing ^ and
+moving in [His] Depth, He tore asunder ^ His Womb,
+and gave birth to His own Son ^^ —
+
+For the " death " mentioned above and the " casting away of the
+garments," see the Mystery Ritual in The Acts of John (F. F.F.,431-
+434) ; and for the latter and the ** Virginal Spirit," the passages
+on the Sacred Marriage which I have collected in the chapter on
+the main doctrines of Philo.
+
+1 A loose reference to LXX. — Is. vii. 14.
+
+2 Or Eternity of Eternities.
+
+3 Cf. Matt. vii. 13, 14 ; our text, however, is an inversion of
+the clauses, with several various readings, of T. R.
+
+4 This seems to connect with the Fruitful of § 25. See below,
+in the Hymn " Whether blest Child," the "cwi wheat-ear" that
+Amygdalos brought forth.
+
+^ This refers to the First Man.
+
+6 Vulg., Almond-tree.
+
+7 In the Mithriaca, Mithras, in the most ancient myth, was
+represented as in (1 born from) a Tree. See Cumont.
+
+s Reading otovel Ziacf>vCovra with S., C, and R. ; but the Codex
+has oiov Uia. a-cpvCopTa. If we read 4)6v for the corrupt oiov, we get
+" the Egg throbbing apart" or in separation— and so link on with
+the Orphic (Chaldaean) tradition.
+
+9 Sf^/iv|6, the synonym of a term which occurs frequently in
+the Pistis Sophia, " I tore myself asunder."
+. i<> That is, to Man Son of Man.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTEKIES 183
+
+C. — the Invisible, Unnameable, and Ineffable [One] of whom
+we tell.i
+
+S. For '' amyxai " ^ is, as it were, '* to break " and
+*'cut open"; just as (H. he says) in the case of in-
+flamed bodies and those which have some internal
+tumour, when physicians lance them, they speak of
+'* amychasy ^
+
+Thus (H. he says) the Phrygians call him Amygdalos.
+
+C. From whom proceeded and was born the Invisible —
+
+"Through whom all things were made, and without whom
+nothing was made." *
+
+(30) S. The Phrygians also say that that which is
+generated from Him is Syriktes.^
+
+J. For that which is generated is Spirit in harmony.^
+
+C. For « God (H. he says) is Spirit." ^
+Wherefore He says :
+
+"Neither in this mountain do the true worshippers worship,
+nor in Jerusalem, but in Spirit." ^
+
+^ The somewhat boastful tone, shown in several passages already,
+probably betrays C. ; it may, however, be assigned to J.
+
+2 afiv^aij a play on Amygdalos.
+
+3 That is, " scarifications."
+
+^ Gf. John i. 3., reading, however, ovdh and not thfi ou5e eV of
+W. H.
+
+^ The Piper ; properly, the player on the syrinx or seven-reeded
+Pan-pipe. Compare the Mystery Ritual in The Acts of John : " I
+would pipe ; dance all of you 1 " (F. F, F., p. 432) ; and, " We
+have piped unto you and ye have not danced " (Matt. xi. 1'7 =
+Luke vii. 27).
+
+6 Or harmonised ; that is, cosmic or ordered. Gf. G. H., i. 15 :
+" For being above the Harmony, He became a slave enharmo-
+nised" ; also Orph. Hymn.j viii. 11 ; and also Acts of John, where
+the Logos is spoken of as " Wisdom in harmony " (F. F, F., 436).
+
+7 Gf John iv. 24.
+
+8 A conflation of John iv. 21 and 23. The " mountain," when
+used mystically, signifies the inner " Mount of initiation." Jeru-
+salem in the text signifies the Jerusalem Below. The true wor-
+shippers worship in the Jerusalem Above.
+
+
+Hosted by
+
+
+Google
+
+
+184 THRICE-GREATEST HERMES
+
+For the worship of the perfect [men] (H. he says) is spiritual,
+not fleshly.
+
+J. And "Spirit" (H. he says) is there where both
+Father and Son are named, generated there from Him ^
+and the Father.
+
+S. He 2 (H. he says) is the Many-named, Myriad-
+eyed, Incomprehensible, whom every nature desires,
+some one way, some another.
+
+J. This (H. he says) is the Word ^ of God, which is :
+
+** The Word of Announcement of the Great Power.
+Wherefore It shall be sealed, and hidden, and concealed,
+stored in the Habitation, where the Root of the Uni-
+versals has its foundation —
+
+" Of iEons, Powers, Intelligences, Gods, Angels,
+Spirits Delegate, Existing Non-existences, Generated
+Ingenerables, Comprehensible Incomprehensibles, —
+Years, Months, Days, Hours, — of [the] Boundless
+Point, from which the most minute begins to increase
+by parts.*
+
+'' For (H. he says) the Point which is nothing and
+is composed of nothing, though partless, will become by
+
+1 Sc. the Son.
+
+2 Sc. the Piper.
+
+3 pTjfjia — used also by Philo and LXX.
+
+* With slight verbal omissions the opening lines down to
+" foundation " are identical with the beginning of The Great Apoca-
+lypse or Announcement of the " Simonian " tradition, an exceedingly
+interesting document from which some quotations have been
+preserved to us by Hippolytus elsewhere (Philos,, vi. 9). The
+" Simonian " tradition was regarded by all the Church Fathers as
+the source of all " heresy " ; but modern criticism regards The
+Great Announcement as a late document of the Christian Gnosis.
+The quotation of this document by J., however, makes this opinion,
+in my view, entirely untenable. If my analysis stands firm, The
+Great Announcement is thus proved to be ]3re-Christian, according
+to the traditional date. I am also inclined to think that in this
+quotation itself we have already the work of a commentator and
+not the original form of the Apocalypse.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 185
+
+means of its own Thought a Greatness ^ beyond our own
+comprehension. "
+
+C. This [Point] (H. he says) is the Kingdom of the Heavens,
+the " grain of mustard seed," '^ the partless point, the first existing
+for the body ; which no one (H. he says) knows save the spiritual
+[men] alone.
+
+J. This (H. he says) is what is said :
+"They are neither words nor languages whereby
+their ^ sounds are heard.'' *
+
+H. These things, [then,] which are said and done by all men,
+they thus interpret off-hand to their peculiar theory (vovif\ pre-
+tending that they are all done with a spiritual meaning.
+
+For which cause also they^ say that the performers in the
+theatres — they, too, neither say nor do anything without Design.^
+
+S. For example (H. he says), when the people
+assemble in the theatres, and a man comes on the stage,
+clad in a robe different from all others, with lute "^ in
+hand on which he plays, and thus chants the Great
+Mysteries, not knowing what he says : ^
+
+" Whether blest Child of Kronos, or of Zeus, or of
+Great Ehea, — Hail, Attis, thou mournful song ^ of Ehea !
+
+1 Of. §16 J.
+
+2 Gf. Matt. xiii. 31 = Mark iv. 30= Luke xiii. 18.
+
+3 Sc. the Heavens of the Psalm, that is, the ^Eons and the
+rest above.
+
+* Ps. xviii. 3.
+
+^ The Naassenes, in H.'s view.
+
+6 airpoPoiiTcos.
+
+7 KiBdpav — the ancient cithara was triangular in shape and
+had seven strings.
+
+8 The text of the following Ode has been reconstructed by
+AVilamowitz in Hermes, xxxvii. 328 ; our translation is from his
+reconstruction.
+
+^ tKovcfjxa — a hearing, an instruction, lesson, discourse, sermon,
+applied to the public lectures of Pythagoras (Jamb., V. P., 174).
+It means also a song or even a "singer," a "bard." "Their
+singers {aKovfffiara) are thus called * bards ' " (Posid. ap. Athen., vi.
+49). The Hearers {ol aKovcrfxariKoi) were the Probationers in the
+
+
+Hosted by
+
+
+Google
+
+
+186 THRICE-GREATEST HERMES
+
+Assyrians call thee thrice-longed-for Adonis ; all Egypt
+[calls thee] Osiris ; the Wisdom of Hellas [names thee]
+Men's Heavenly Horn ; the Samothracians [call thee]
+august Adama; the Hsemonians, Korybas; the
+Phrygians [name thee] Papa sometimes, at times again
+Dead, or God,^ or Unfruitful, or Aipolos, or Green
+Reaped 2 Wheat-ear, or the Fruitful that Amygdalos
+brought forth, Man, Piper . . . Attis ! "
+
+H. He [S.] says that this is the Attis of many forms of whom
+they [NN., in H/s opinion] sing as follows :
+
+S. " Of Attis will I sing, of Ehea's [Beloved] ; — not
+with the boomings ^ of bells, nor with the deep-toned ^
+pipe of Idaean Kuretes ; but I will blend my song with
+Phoebus' music of the lyre. Evoi ! Evan ! — for [thou
+art] Pan, [thou] Bacchus [art], and Shepherd of bright
+stars ! "
+
+HippoLYTus' Conclusion
+
+H. For these and suchlike reasons these [Naassenes] frequent
+what are called the Mysteries of the Great Mother, believing that
+they obtain the clearest view of the Universal Mystery from the
+things done in them.
+
+For they have nothing beyond the [mysteries] therein enacted
+except that they are not emasculated. Their sole "accomplish-
+ment," [however,] is the business of the Eunuch, for they most
+severely and vigilantly enjoin to abstain, as though emasculated,
+from intercourse with women. And the rest of their business, as
+we have stated at length, they carry out just like the Eunuchs.
+
+School of Pythagoras (see s.vv. in Sophocles' Lex,). Schneidewin
+and Cruice adoj)t Hermann's " emendation," ^Kpto-fia (mutilation),
+but I prefer the reading of the Codex, as referring to the " mournful
+piper," or Logos, in the flowing " discord " of Rhea or Chaos, and
+therefore the " song " that Rhea is beginning to sing as she changes
+from Chaos to Cosmos.
+
+1 Perhaps Quick, for O^hs is from 0e-€tv, "to run," to imitate the
+word-play of our mystics.
+
+2 Or cut. 3 $6/i0ots. ^ Lit., " bellower."
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 187
+
+And they honour nothing else but "Naas,"^ being called
+Naasseni. And Naas is the Serpent —
+
+J.2 — from whom (H. he says) are all those [things]
+called naous ^ under heaven, from naas.
+
+To that Naas alone every shrine and every rite of
+initiation and every mystery (H. he says) is dedicated ;
+and, in general, no initiation can be found under heaven
+in which a naos does not play a part, and [also] the
+Naas in it, from which it has got the name of naos.
+
+(H. Moreover, they say that) the Serpent is the
+Moist Essence —
+
+H. —just as [did] also Thales the Milesian ^ —
+
+J. — and (H. that) navight at all of existing things,
+immortal or mortal, animate or inanimate, can hold
+together without Him.
+
+[And they say] (H. that) all things are subject to
+Him, and (H. that) He is Good, and has all things in
+Him as in " the horn of the one-horned bull " ; ^ so that
+He distributes beauty and bloom to all that exist
+according to each one's nature and peculiarity, as
+though permeating all, just as [the Eiver] " proceeding
+forth out of Eden and dividing itself into four sources."^
+
+H. And they say that Eden is His Brain, as though it were
+bound and constricted in its surrounding vestures like heavens ;
+while Paradise they consider to be the Man as far as His Head only.
+
+This Eiver, then, coming forth out of Eden (H, that
+is, from His Brain), is divided into four streams.
+
+1 The Hebrew Nahash, as we have already seen.
+
+2 There being more of J. than of H. in this, I have printed it
+as J. though it is a defaced J. I am also persuaded that in what
+follows we have a quotation from a " Simonian " document by J.
+rather than J. himself.
+
+^ That is, temples.
+
+4 Who derived all things symbolically from " Water."
+
+s Of. Deut. xxxiii. 11 « Qf^ Qen. ii. 10 (LXX.).
+
+
+Hosted by
+
+
+Google
+
+
+188 THRICE-GREATEST HERMES
+
+And the name of the first river is called Pheison.
+" This is that which encircles all the land of Evilat,
+there where is the gold, and the gold of that land is
+fair ; there too is the ruby and the green stone." ^
+
+This (H. he says) is His Eye — by its dignity and
+colours bearing witness to what is said.
+
+The name of the second river is Geon. '* This is that
+which encircles all the land of ^Ethiopia." 2
+
+This (H. he says) is [His organ of] Hearing ; for it
+is labyrinth-like.
+
+And the name of the third is Tigris. " This is that
+which flows the opposite way to the Assyrians." ^
+
+This (H. he says) is [His organ of] Smell, for the
+current of it is very rapid ; and it " flows the opposite
+way to the Assyrians," because after the breath is
+breathed out, on breathing in again, the breath that
+is drawn in from without, from the air, comes in more
+rapidly, and with greater force. For this (H. he says)
+is the nature of respiration.
+
+*' And the fourth river [is] Euphrates." *
+
+This (H. they say) [is] the mouth, through which by
+the utterance of prayer and entrance of food, the (? C. —
+spiritual, perfect) man is rejoiced, and nourished and
+expressed.^
+
+This [Eiver] (H. he says) is the Water above the
+Firmament.®
+
+C. Concerning which (H. he says) the Saviour hath said :
+
+" If thou hadst known Who it is Who askelh, thou wouldst have
+
+asked from Him [in return], and He would have given thee to
+
+drink of Living Water bubbling [forth]." ^
+
+1 Of. Gen. ii, 11, 12. 2 jud., 13.
+
+3 Ibid., 14. 4 lUd.
+
+^ The substance of this is also to be found in the " Simonian "
+tradition " refuted " by Hippolytus.
+
+6 Cf. Gen. i. 7. ^ Qf, John iv. 10.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 189
+
+J. To this Water (H. he says) every nature comes,
+each selecting its own essence, and from this Water
+there comes to each nature what is proper [to it] (H.
+he says), more surely than iron to magnet,^ and gold to
+the bone ^ of the sea-hawk, and chaff to amber.
+
+C. And if any man (H. he says) is " blind from birth," ^ and
+hath not seen " the True Light, which lighteth every man that
+cometh into the world," ^ — let him see again through us, and let
+him see as it were through —
+
+J.^ — Paradise, planted with Trees and all kinds of
+seeds, the Water flowing amid all the Trees and Seeds,
+and [then] shall he see that from one and the same
+Water the Olive selects and draws Oil, and the Vine
+Wine, and each of the rest of the Trees according to
+its kind.
+
+^ Lit., the Heracleian stone.
+
+2 KcpKiSt. Of, Hipp., Phil.^ V. 17, on system of Sethiani (S. 198,
+36). Both S. and C. translate it correctly as " s^jma," meaning
+" backbone " ; it has, however, been erroneously translated as
+" simr." Plutarch, De Is. et Os., Ixii. 3, tells us that the load-stone
+was called by the Egyptians " bone of Horus " ; and Horus is the
+"hawk" par excellence, the "golden hawk." Cf. Budge, Gods of
+the EgyptianSy ii. 246, who says that we are informed by Manetho
+(thus making Manetho the main source of Plutarch) that the
+" load-stone is by the Egyptians called the ' bone of Horus,' as
+iron is the 'bone of Typho.'" In the chapter of the Kitual
+dealing with the deification of the members, the backbone of the
+deceased is identified with the backbone of Set (xlii. 12). Else-
+where (cviii. 8) the deceased is said " to depart having the harpoon
+of iron in him." This seems to suggest the black backbone of
+death and the golden backbone of life.
+
+^ Cf. John ix. 1 ; rv(f>Khs 4k jiverris, perhaps mystically meaning
+" blind from (owing to) genesis." Of. the " blind accuser " in the
+Trismegistic treatise quoted by Zosimus in our Fragments.
+
+* John i. 9.
+
+s This is evidently to be attributed to J., or rather his
+" Simonian " source, as it follows directly on the sentence about
+" every nature selecting." Either 0. has suppressed the opening
+words of J.'s paragraph and substituted his own gloss, or H. has
+mangled his text.
+
+
+Hosted by
+
+
+Google
+
+
+190 THRICE-GREATEST HERMES
+
+But (H. he says) that Man is of no honour in the
+World, though of great honour [in Heaven, betrayed ^]
+by those who know not to those who know Him not,
+being accounted " as a drop from a cask/' ^
+
+But we (H. he says) —
+
+0. — are the spiritual [men] who —
+
+J. — choose for ourselves from —
+
+C. — the Living Water —
+
+J. — the Euphrates, that flows through the midst of
+Babylon, what is proper [to each of us] — journeying
+through the True Gate —
+
+C. — which is Jesus the Blessed.
+
+And of all men we alone are Christians,^ accomplishing the
+Mystery at the third Gate —
+
+J. — and being anointed with the Ineffable Chrism
+from the Horn,^ like David [was], not from the flask ^
+of clay, like Saul —
+
+C. — who was fellow-citizen with an evil daemon of fleshly-
+desire.
+
+H. These things, then, we have set down as a few out of many.
+For innumerable are the attempts of their folly, silly and crazy.
+But since we have, to the best of our ability, exposed their
+unknowable Gnosis, it seems best to set down the following also.
+
+This is a Psalm which they have improvised ; by means of
+which they fancy they thus sing the praises of all the mysteries
+of their Error. ^
+
+
+^ A lacuna in the Codex which is thus completed by S. and C.
+
+2 Of. Is. xl. 15.
+
+3 That is, Messiah-ites, or Anointed-ones.
+
+4 Cf. 1 Sam. xvi. 13.
+s 1 Sam. X. 1.
+
+^ The text of this Hymn is in places very corrupt; I have
+followed Gruice's emendations mostly. Schneidewin, for some
+reason or other which he does not state, omits it bodily from his
+Latin translation.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 191
+
+"First [was there] Mind the Generative ^ Law
+
+of All; s
+Second to the Firstborn was Liquid Chaos ;
+Third Soul through toil received the Law.
+Wherefore, with a deer's ^ form surrounding her,
+She labours at her task beneath Death's rule.
+Now, holding sway,^ she sees the Light ;
+And now, cast into piteous plight, she weeps ;
+Now she weeps, and now rejoices ;
+Now she weeps, and now is judged ;
+Now is judged, and now she dieth ;
+Now is born, with no way out for her ; in misery
+She enters in her wandering the labyrinth of ills.
+(? C. — And Jesus ^ said) : Father, see !
+[Behold] the struggle still of ills on earth !
+
+
+1
+
+
+This attribution may be tlionglit by some to be questionable ;
+but as it is far more similar to the thought-sphere of J. than to
+that of C, I have so assigned it. It belonged to the same circles
+to which we must assign the sources of J.
+
+2 yeviKhs — perhaps " general " simply.
+
+3 Or, of the Whole.
+
+* The Codex has €\a<povt which, with Miller, we correct into
+ihd(t>ov. Is this a parallel with the " lost sheep " idea ? Can it
+l^ossibly connect with the conception underlying the ^Dhrases on
+the golden tablets found in tombs of " Orphic " initiates, on the
+territory of ancient Sybaris : " A kid thou hast fallen into the
+milk " (" Timpone grande " Tablet a, Naples Museum, Kaibel,
+CI.G.I.S., 642) ; and, *' A kid I have fallen into milk" ("Cam-
+pagno" Tablet a, ibid., 641, and Append., p. 668)? But this
+connection is very hazy ; it more probably suggests the nehris or
+"fawn-skin" of the Bacchic initiates (see my Orpheus, "The
+Fawn-skin," pp. 243 ff., for an explanation). Cruice proposes to
+substitute v^aphu (" watery ") ; but there seems no reason why we
+should entirely reject the reading of the Codex, especially as C.'s
+suggestion breaks the rule of the " more difficult " reading being
+the preferable.
+
+^' $a(ri\iiau — kingdom or kingship.
+
+^ The Codex reads eltrcp Sitjo-ovs 4(rhp. Can this possibly be a
+glossed and broken-down remains of 'law Z^rjirap (lao Zeesar) ?
+
+
+Hosted by
+
+
+Google
+
+
+192 THRICE-GREATEST HERMES
+
+Far from Thy Breath ^ away she ^ wanders !
+
+She seeks to flee the bitter Chaos,^
+
+And knows not how she shall pass through.
+
+Wherefore, send me, Father !
+
+Seals in my hands, I will descend ;
+
+Through ^ons universal will I make a Path ;
+
+Through Mysteries all 111 open up a Way !
+
+And Forms of Gods will I display ; ^
+
+The secrets of the Holy Path I will hand on,
+
+And call them Gnosis." ^
+
+
+Conclusion of Analysis
+
+All this may have seemed, quite naturally, con-
+temptible foolishness to the theologipal prejudices of
+our worthy Church Father ; but it is difficult for me,
+even in the twentieth century, not to recognise the
+beauty of this fine Mystic Hymn, and I hope it may be
+equally difficult for at least some of my readers.
+
+But to return to the consideration of our much over-
+written Source.
+
+This Source is plainly a commentary, or elaborate
+paraphrase, of the Recitation Ode, " Whether, blest Child
+of Kronos," which comes at the end (§ 30) and not, as
+we should expect, at the beginning, and has probably
+been displaced by Hippolytus, It is an exegetical
+
+^ Cruice thinks this refers to the breath of God's anger ; bxit
+surely it refers to the Holy Spirit of God ?
+
+2 Sc. the soul, the " wandering sheep."
+
+3 Cf. *' the bitter Water," or « Darkness," or " Chaos," of the
+Sethian system in Hipp., Philos,^ v. 19 ; and see the note to the
+comments following Hermes-Prayer v., p. 92.
+
+^ The Logos in His descent through the spheres takes on the
+Forms of all the Powers.
+
+^ Is it, however, possible that the original Hymn had Naas
+(Mdau) and not Gnosis (Tyw<rty) ?
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 193
+
+commentary written from the standpoint of the
+Anthrdpos-theory of the Mysteries (? originally Chal-
+dsean), the Man-doctrine.
+
+This commentary seems for the most part to run on
+so connectedly, that we can almost persuade ourselves
+that we have most of it before us, the lacunce being
+practically insignificant. Paragraphs 6 and 7 S., how-
+ever, are plainly misplaced, and §§ 17 and 18 S. also
+as evidently break the connection.^
+
+The Hellenist Commentator
+
+The writer is transparently a man learned in the
+various Mystery -rites, and his information is of the
+greatest possible importance for a study of this ex-
+ceedingly obscure subject from an historical standpoint.
+
+With § 8 S., and the Egyptian Mystery-doctrine, we
+come to what is of peculiar interest for our present
+Trismegistic studies. Osiris is the Heavenly Man, the .
+Logos; not only so, iDuFln^TffaTtesT connection "with |
+this ""tradi tlogT we hO'Ve .an exposition^bf the Hermes- -
+do^rmeTset forth by a system of allegorical interpreta- 1
+tions of the Bible of Hellas — the Poems of the |
+Homeric cycle. Here we have the evident syncrasia \
+Thoth = Osms = Hermes, a Hermes of the "Greek
+Wisdom," as the Eecitation Ode phrases it, and a
+doctrine which H., basing himself on the commentator
+(§ 10), squarely asserts the Greeks got from Egypt.
+
+Nor is it without importance for us that in closest
+connection with Hermes there follow the apparently
+misplaced sections 17 and 18, dealing with the
+"Heavenly Horn," or drinking-horn, of the Greek
+Wisdom, and the " Cup '' of Anacreon ; with which we
+may compare the Crater, Mixing-bowl or Cup, in which,
+
+1 Cf, R. 99, 100 ; and 100, n. 4.
+VOL. L 13
+
+Hosted by VjOOQIC
+
+
+194 THRIOE-GREATEST HERMES
+
+according to Plato's Timceus^ the Creator mingled and
+mixed the elements and souls, and also the spiritual
+Cup of the Mind in our Trismegistic treatise, ''The
+Crater or Monas," 0. H., iv, (v.).
+
+But above all things is it astonishing that we should
+find the commentator in S. quoting (§ 9) a logos from
+a document which, as we have shown in the note
+appended to the passage, is in every probability a
+Trismegistic treatise of the Poemandres type.
+
+The Jewish and Christian Overwriters
+
+This commentary S. was worked over by a Jewish
+Hellenistic mystic J., whose general ideas and method
+of exegesis are exactly paralleled by those of Philo.
+In my opinion, he was a contemporary of that period
+and a member of one of those communities whom Philo
+classes generally as Therapeut. He was, moreover,
+.not a worshipper of the serpent, but a worshipper of
+that Glorious Eeality symbolised as the Serpent
+of Wisdom, and this connects him with initiation
+into Egypto-Chaldsean or Chald^o-Egyptian Mysteries.
+These he finds set forth allegorically in the prophetical
+scriptures of his race. His quotations from the LXX.
+show him to be, like Philo, an Alexandrian Hellenistic
+Jew ; the LXX. was his Targum.
+
+J. again was overwritten by C, a Christian Gnostic,
+no enemy of either J. or S., but one who claimed that
+he and his were the true realisers of all that had gone
+before ; he is somewhat boastful, but yet recognises
+that the Christ-doctrine is not an innovation but a
+consummation. The phenomena presented by the New
+Testament quotations of C. are, in my opinion, of extra-
+ordinary interest, especially his quotations from or
+parallels with the Fourth Gospel. His quotations from
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 195
+
+or parallels with the^Synoptics are almost of the same
+nature as those of Justin; he is rather dealing with
+" Memoirs of the Apostles " than with verbatim quota-
+tions from our stereotyped Gospels. His parallels
+with the Fourth Gospel also seem to me to open up the
+question as to whether or no he is in touch with
+*' Sources *' of that " Johannine '' document.
+
+On top of all our strata and deposits, we have — to
+continue the metaphor of excavation, and if it be not
+thought somewhat uncharitable — the refutatory rubbish
+of Hippolytus, which need no longer detain us here.
+
+1 would, therefore, suggest that C. is to be placed
+somewhere about the middle of the second century A.D.;
+J. is contemporary with Philo — say the first quarter of
+the first century a.d. ; the Pagan commentator of S. is
+prior to J. — say somewhere in the last half of the first
+century B.C. ; while the Eecitation Ode is still earlier,
+and can therefore be placed anywhere in the early
+Hellenistic period, the termini being thus 300-50 B.c.i
+
+And if the redactor or commentator in S. is to
+be placed somewhere in the last half of the first
+century B.C. (and this is, of course, taking only the
+mi7himum of liberty), then the Poemandres type of
+our literature, which J. quotes as scripture, must, in its
+original Greek form, be placed back of that — say at
+least in the first half of the first century B.C., as a
+moderate estimate.^ If those dates are not proved,
+
+^ Wilamowitz' hesitating attribution of it to the reign of
+Hadrian (117-138 a.d.) is, in my opinion, devoid of any objec-
+tive support whatever. (See R., p. 102.) Reitzenstein himself
+(p. 165) would place it in the second century b.g.
+
+2 Incidentally also it may be pointed out that this analysis
+gives the coup de grdce to Salmon's contention (" The Cross-refer-
+ences in the Philosophumena," Rermathena, 1885, v. 389 ff.)
+that the great systems of the Gnosis made known to us only by
+Hippolytus are all the work of a single forger who imposed
+
+
+Hosted by
+
+
+Google
+
+
+196 THRICE-GREATEST HERMES
+
+I am at anyrate fairly confident they cannot be
+disproved.
+
+
+ZOSIMUS AND THE AnTHROPOS- DOCTRINE
+
+That, moreover, the Anthropos-doctrine, to the spirit
+of which the whole commentary of our S. exegete is
+accommodated, was also fundamental with the ad-
+herents of the Trismegistic tradition, may be clearly
+seen from the interesting passage (which we give in the
+Fragments at the end of the third Volume) of Zosimus,
+a member of what Eeitzenstein calls the Poemandres
+Community, who flourished somewhere at the end of
+the third and beginning of the fourth century a.d.i
+
+The sources of Zosimus for the Anthropos-doctrine,
+he tells us, are, in addition to the Books of Hermes,
+certain translations into Greek and Egyptian of books
+containing traditions (mystery-traditions, presumably)
+of the Chaldaeans, Parthians, Modes, and Hebrews on
+the subject. This statement is of the very first im-
+portance for the history of Gnosticism as well as for
+appreciating certain elements in Trismegisticism.
+Though the indication of this literature is vague, it
+nevertheless mentions four factors as involved in the
+Hebrew tradition ; the Gnostic Hebrews, as we should
+
+upon the credulity of the heresy-hunting Bishop of Portus.
+This contention, though to our mind one of the most striking
+instances of "the good Homer nodding," was nevertheless practi-
+cally endorsed by Stahelin (Die gnostische Quellen Hippolyts in
+seiner Hauptschrift gegen die Haeretiken, 1890 ; in Texte u. Unter-
+sidchungen, VI.), who went over the whole ground opened up
+by Salmon with minute and scrupulous industry. The general
+weakness of this extraordinary hypothesis of forgery has, how-
+ever, been well pointed out by De Faye in his Introduction a
+VMude du Gnosticisme au IF et au III^ Si^cle (Paris, 1903),
+pp. 24 ff.; though De Faye also maintains a late date,
+1 R. p. 9.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYTH OF MAN IN THE MYSTERIES 197
+
+expect, were handing on elements from Chaldaean,
+Parthian, and Median traditions. Translations of these
+books were to be found ^scattered throughout Egypt,
+and especially in the great library at Alexandria.
+
+There is, in my opinion, no necessity precisely, with
+Eeitzenstein (p. 106, n. 6), to designate these books the
+" Ptolemaic Books," and so to associate them with a
+notice found in the apocryphal "Eighth Book of
+Moses,'' where, together with that of the Archangelic
+Book of Moses, there is mention of the Fifth Book of the
+" Ptolemaic Books," described as a book of multifarious
+wisdom under the title " One and All," and containing
+the account of the " Genesis of Fire and Darkness." ^
+
+Another source of Zosimus was the Pinax of Bitos
+or Bitys, of whom we shall treat in considering the
+information of Jamblichus.
+
+From all of these indications we are assured that
+there was already in the first centuries B.C. a well-
+developed Hellenistic doctrine of the descent of man
+from the Man Above, and of his return to that heavenly
+state by his mastery of the powers of the cosmos.
+
+Philo of Alexandria on the Man-Doctrine
+
+This date is further confirmed by the testimony of
+Philo (c. 30 B.G.-45 A.D.).
+
+For, quoting the verse : " We are all sons of One
+Man," 2 he addresses those who are "companions of
+wisdom and knowledge " as those who are " Sons of
+one and the same Father — no mortal father, but an
+immortal Sire, the Man of God, who being the Eeason
+{Logos) of the Eternal, is of necessity himself eternal." ^
+
+And again, a little further on :
+
+1 Dieterich, Abraxas, 203 ff. 2 Qen. xlii. 11.
+
+3 De Gonfus. Ling., § 11 ; M. i. 411, P. 326 (Ri. ii. 257).
+
+
+Hosted by
+
+
+Google
+
+
+198 THRICE-GREATEST HERMES
+
+'*And if a man should not as yet have the good
+fortune to be worthy to be called Son of God, let him
+strive manfully to set himself in order ^ according to
+His First-born Eeason {Logos), the Oldest Angel, who is
+as though it were the Angel-chief of many names ; for
+he is called Dominion, and Name of God, and Eeason,
+and Man-after-His-Likeness, and Seeing Israel.
+
+" And for this reason I was induced a little before
+to praise the principles of those who say: *We are
+all sons of One Man.' For even if we have not yet
+become fit to be judged Sons of God, we may at any
+rate be Sons of His Eternal Likeness, His Most Holy
+Eeason {Logos)] for Eeason, the Eldest of all Angels,
+is God's Likeness [or Image]." 2
+
+Thus Philo gives us additional proof, if more were
+needed, for the full Anthropos-doctrine was evidently
+fundamental in his circle — that is to say, in the
+thought-atmosphere of the Hellenistic theology, or the
+religio-philosophy, or theosophy, of his day, the be-
+ginning of the first century a.d.
+
+This date alone is sufficient for our purpose ; but it
+is not too bold a statement even to say that the
+Man -Mystery was a fundamental concept of the
+brilliant period of the Hellenistic syncretism which
+succeeded to the founding of Alexandria — the period
+of the expansion of Hellas beyond her national borders ;
+in other words, her birth into the greater world.
+
+It is enough to know that the Mystery was hidden
+and yet revealed in the shadow-garments of Chaldaean,
+Babylonian, Magian, Phoenician, Hebrew, Egyptian,
+Phrygian, Thracian, and Greek mystery-traditions. It
+was, in brief, fundamental in all such wisdom-shows,
+and necessarily so, for it was the Christ-Mystery.
+
+^ To make himself a cosmos like the Great Cosmos.
+2 Ibid., § 28 ; M. i. 426, 427, P. 341 (Ri, ii. 279).
+
+
+Hosted by
+
+
+Google
+
+
+VIII
+
+PHILO OF ALEXANDEIA AND THE
+HELLENISTIC THEOLOGY
+
+CONCEENING PhILO AND HIS METHOD
+
+Seeing that a study of the Trismegistic literature is
+essentially a study in Hellenistic theology, no introduc-
+tion to this literature would be adequate which did not
+insist upon the utility of a careful review of the writings
+of Philo, the famous Jewish Hellenist of Alexandria,
+and which did not point to the innumerable parallels
+which are traceable between the basic principles of the
+Jewish philosopher-mystic and the main ideas embodied
+in our tractates. To do this, however, in detail would
+require a volume, and as we are restricted to the narrow
+confines of a chapter, nothing but a few general outlines
+can be sketched in, the major part of our space being
+reserved for a consideration of what Philo has to say
+of the Logos, or Divine Eeason of things, the central
+idea of his cosmos.
+
+In perusing the voluminous writings ^ of our witness,
+the chief point on which we would insist at the very
+outset, is that we are not studying a novel system
+devised by a single mind, we are not even face to face
+with a new departure in method, but that the writings
+
+1 In all, upwards of sixty Philonean tractates are preserved to
+us ; and in addition we have also numerous fragments from lost
+works.
+
+199
+
+
+Hosted by
+
+
+Google
+
+
+200 THRICE-GREATEST HERMES
+
+of our Alexandrian^ came at the end of a line of
+predecessors; true that Philo is now, owing to the
+preservation of his writings, by far the most dis-
+tinguished of such writers, but he follows in their steps.
+
+■ His method of allegorical interpretation is no new
+
+; invention,^ least of all is his theology.
+
+In brief, Philo is jBrst and foremost an " apologist " ;
+his writings are a defence of the Jewish myths and
+prophetic utterances, interpreted allegorically, in terms
+not of Hellenic philosophy proper, but rather of Hellen-
+istic theology, that is, of philosophy theologised, or of
+theology philosophised ; in other words, in the language
+of the current cultured Alexandrian religio-philosophy
+of his day.
+
+As Edersheim, in his admirable article,^ says, speaking
+
+^ Philo is known to the Jews as Yedidyah ha-Alakhsanderi.
+
+2 Thus, in D. F. a, § 3 ; M. ii. 475, P. 893 (Ri. v. 309, C. 65),
+referring to his beloved Therapeuts, he himself says; "They
+have also works of ancient authors who were once heads of their
+school, and left behind them many monuments of the method
+used in allegorical works." Nor was this " allegorising " Jewish
+only ; it was common. It was applied to Homer ; it was the
+method of the Stoics. Indeed, this " treatment {Bepairda) of
+myths " was the only way in which the results of the philosophy
+and science of the time could be brought into touch with
+popular faith.
+
+The text I use is that of Richter (M. C. E.), Philonis Judmi
+Opera Omnia, in Bihliotheca Sacra Pairum EcclesiB Grmcormn
+(Leipzig, 1828-1830), 8 vols. M. refers to the edition of Mangey ;
+P. to the Paris edition ; Ei. stands for that of Kichter — thus
+abbreviated so as not to be confused with E., which elsewhere
+stands for Eeitzenstein ; C. stands for Conybeare's critical text of
+the D. V. G. (Oxford, 1895), the only really critical text of any
+tractate which we so far possess.
+
+3 " Philo," in Smith and Wace's Diet, of Christ. Biog. (London,
+1887), iv. 357-389— by far the best general study on the subject
+in English. Drummond's (J.) two volumes, Philo Judceus, or The
+Alexandrian Philosophy (London, 1888), may also;be consulted, but
+they leave much to be desired. The only English translation
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 201
+
+of this blend of the faith of the synagogue with the
+thinking of Greece: "It can scarcely be said that in
+the issue the substance and spirit were derived from
+Judaism, the form from Greece. Eather does it often
+seem as if the substance had been Greek and only
+the form Hebrew."
+
+But here Edersheim seems to be not sufficiently
+alive to the fact that the *' Greek thinking '' was already
+in Hellenistic circles strongly theologised and firmly
+wedded to the ideas of apocalypsis and revelation.
+How, indeed, could it have been otherwise in Egypt,
+in the face of the testimony of our present work ?
+
+Philo, then, does but follow the custom among the
+cultured of his day when he treats the stories of the
+patriarchs as myths, and the literally intractable
+narratives as the substance of an ethical mythology.
+It was the method of the religio-philosophy of the time,
+which found in allegorical interpretation the *' antidote
+of impiety,'* and by its means unveiled the supposed
+under-meaning {vTrovoia) of the myths.
+
+The importance of Philo, then, lies not so much in
+his originality, as in the fact that he hands on much
+that had been evolved before him; for, as Edersheim
+says, and as is clear to any careful student of the
+Philonean tractates : " His own writings do not give
+the impression of originality. Besides, he repeatedly
+refers to the allegorical interpretation of others, as
+well as to canons of allegorism apparently generally
+recognised. He also enumerates differing allegorical
+interpretations of the same subjects. All this affords
+evidence of the existence of a school of Hellenist
+[Hellenistic, rather] interpretation " (p. 362).
+
+is that of Yonge (C. D.), The TForJcs of Philo Judceus (London,
+1854) in Bohn's Library ; but it is by no means satisfactory, and
+I have in every instance of quotation made my own version.
+
+
+Hosted by
+
+
+Google
+
+
+202 THRICE-GREATEST HERMES
+
+But this does not hold good only for the interpreta-
+tion of " the myths of Israel " by Hellenistic Jews ; it
+holds good of the whole cultured religious world of the
+time, and pre-eminently of the Hellenistic schools of
+every kind in Egypt. In brief, Philo's philosophy was
+often already philosophised myth before he ingeniously
+brought it into play for the interpretation of Hebrew
+story.
+
+In short, the tractates of Philo and our Trismegistic
+sermons have both a common background — Hellenistic
+theology or theosophy. Both use a common language.
+
+Philo, of course, like the rest of his contemporaries,
+had no idea of criticism in the modern sense ; he was
+a thorough - going apologist of the Old Covenant
+documents. These were for him in their entirety the
+inerrant oracles of God Himself ; nay, he even went to
+the extent of believing the apologetic Greek version to
+be literally inspired.^
+
+Nevertheless he was, as a thinker, confronted with
+the same kind of diflficulties as face us to-day with im-
+measurably greater distinctness. The ideas of God, of
+the world-order, and of the nature of man, were so far
+advanced in his day beyond the frequently crude and
+repugnant representations found in the ancient scrip-
+tures of his people, that he found it impossible to claim
+for them on their surface-value the transcendency of
+the last word of wisdom from God to man, at anyrate
+among the cultured to whom he addressed himself.
+These difficulties he accordingly sought to remove by
+an allegorical interpretation, whereby he read into them
+the views of the highest philosophical and religious
+environment of his time.
+
+Having no idea of the philosophy of history, or of
+the history of religion, or of the canons of literary
+1 Or " divinely prompted " (De Vit. Mos., ii. 6-7).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 203
+
+criticism, as we now understand these things, he never
+stopped to enquire whether the writers of the ancient
+documents intended their narratives to he taken as
+myths embodying an esoteric meaning ; much less did
+he ask himself, as we ask ourselves to-day, whether
+these writers had not in all probability frequently
+written up the myths of other nations into a history
+of their own patriarchs and other worthies ; on the
+contrary, he relieved them of all responsibility, and
+entirely eliminated the natural human element, by his
+theory of prophecy, which assumed that they had acted
+as impersonal, passive instruments of the Divine
+inspiration.
+
+But even Philo, when he came to work it out, could
+not maintain this absolutism of inspiration, and so we
+find him elsewhere unable to ascribe a consistent level
+of inspiration to his " Moses," who of course, in Philo's
+belief, wrote the Pentateuch from the first to the last
+word. • Thus we find him even in the " Five Fifths "
+making a threefold classification of inspiration : (i.) The
+Sacred Oracles "spoken directly of God by His in-
+terpreter the prophet''; (ii.) Those prophetically de-
+livered '• in the form of question and answer " ; and
+(iii.) Those "proceeding from Moses himself while in
+some state of inspiration and under the influence of the
+deity."!
+
+But what is most pleasant is to find that Philo
+admitted the great philosophers of Greece into his holy
+assembly, and though he gives the pre-eminence to
+Moses, yet it is, as it were, to a first among equals — a
+wide-minded tolerance that was speedily forgotten in
+the bitter theological strife that subsequently broke
+forth.
+
+1 De Vit, Mos,, iii. 23, 24.
+
+
+Hosted by
+
+
+Google
+
+
+204 THRICE-GREATEST HERMES
+
+The Great Impoktance of his Writings
+
+But what makes the writings of our Alexandrian so
+immensely important for us is, that the final decade
+of his life is contemporary with the coming into
+manifestation of Christianity in the Grseco-Eoman
+world owing to the energetic propaganda of Paul.
+
+Philo was born somewhere between 30 and 20 B.C.,
+and died about 45 A.D. There is, of course, not a single
+word in his voluminous writings that can in any way
+be construed into a reference to Christianity as tradi-
+tionally understood ; but the language of Philo, if not
+precisely the diction of the writers of the New Testa-
+ment documents, has innumerable points of resemblance
+with their terminology ; for the language of Hellenistic
+theology is largely, so to speak, the common tongue of
+both, while the similarity of many of their ideas is
+astonishing.
+
+Philo, moreover, was by no means an obscure member
+of the community to which he belonged ; on the contrary,
+he was a most distinguished ornament of the enormous
+Jewish colony of Alexandria, which occupied no less
+than two out of the five wards of the city.i His brother,
+Alexander, was the head of the largest banking firm of
+the capital of Egypt, which was also the intellectual
+and commercial centre of the Grseco-Roman world.
+Indeed, Alexander may be said to have been the Roth-
+schild of the time. The operations of the firm embraced
+the contracting of loans for the Imperial House, while
+the banker himself was a personal friend of the Emperor,
+and his sons intermarried with the family of the Jewish
+King Agrippa.
+
+Philo, himself, though he would have preferred the
+solitude of the contemplative life, took an active part
+
+1 For a sketcli of ancient Alexandria, see F. F. F,, pp. 96-120.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 205
+
+in the social life of the great capital ; and, at the time
+of the greatest distress of his compatriots in the city,
+when they were overwhelmed by a violent outbreak of
+anti - semitism, their lives in danger, their houses
+plundered, and their ancient privileges confiscated, it
+was the aged Philo who was chosen as spokesman of
+the embassy to Cains Caligula (a.d. 40).
+
+Here, then, we have a man in just the position to
+know what was going on in the world of philosophy, of
+letters, and religion, and not only at Alexandria, but
+also wherever Jewish enterprise — which had then, as
+it now has, the main commerce of the world in its
+hands — pushed itself. The news of the world came to
+Alexandria, and the mercantile marine was largely
+owned by Hebrews.
+
+Philo is, therefore, the very witness we should choose
+of all others to question as to his views on the ideas we
+find in our Trismegistic tractates, and this we may now
+proceed to do without any further preliminaries.
+
+Concerning the Mysteries
+
+Speaking of those who follow the contemplative
+life,^ Philo writes :
+
+'* Now this natural class of men [lit. race] is to be
+found in many parts of the inhabited world ; for both
+the Grecian and non-Grecian world must needs share
+in the perfect Good." ^
+
+In Egypt, he tells us, there were crowds of them in
+every province, and they were very numerous indeed
+about Alexandria. Concerning such men Philo tells
+us elsewhere:
+
+^ For a translation of the famous tractate on this subject, from
+the recent critical text of Conybeare, see F. F. F.^ pp. 66-82.
+2 IX V. a, § 3 ; M. ii. 474, P. 891 (Ri. v. 308, C. 56).
+
+
+Hosted by
+
+
+Google
+
+
+206 THRICE-GREATEST HERMES
+
+"All those, whether among Greeks or non-Greeks,
+who are practisers of wisdom {aa-Krirat cro^/a?), living a
+blameless and irreproachable life, determined on doing
+injury to none, and on not retaliating if injury be
+done them," avoid the strife of ordinary life, " in their
+enthusiasm for a life of peace free from contention."
+
+Thus are they "most excellent contemplators of
+nature (Oewpoi t% ^vcrecog) and all things therein ;
+they scrutinise earth and sea, and air and heaven, and
+the natures therein, their minds responding to the
+orderly motion of moon and sun, and the choir of all
+the other stars, both variable and fixed. They have
+their bodies, indeed, planted on earth below; but for
+their souls, they have made them wings, so that they
+speed through aether (aWepo^arovpregX and gaze on
+every side upon the powers above, as though they
+were the true world-citizens, most excellent, who dwell
+in cosmos as their city ; such citiasens as Wisdom hath
+as her associates, inscribed upon the roll of Virtue,
+who hath in charge the supervising of the common
+weal. . . .
+
+"Such men, though [in comparison] but few in
+number, keep alive the covered spark of Wisdom
+secretly, throughout the cities [of the world], in order
+that Virtue may not be absolutely quenched and
+vanish from our human kind."^
+
+Again, elsewhere, speaking of those who are good
+and wise, he says :
+
+" The whole of this company (Olacroi) have voluntarily
+deprived themselves of the possession of aught in
+abundance, thinking little of things dear to the flesh.
+Now athletes are men whose bodies are well cared for
+and full of vigour, men who make strong the fort, their
+body, against their soul ; whereas the [athletes] of
+1 De Sept., §§ 3, 4 ; M. ii. 279, P. 1176 (Ri. v. 21, 22).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 207
+
+[this] discipline, pale, wasted, and, as it were, reduced to
+skeletons, sacrifice even the muscles of their bodies to
+the powers of their own souls, dissolving, if the truth
+be told, into one form — that of the soul, and by their
+mind becoming free from body.
+
+"The earthly element is, therefore, naturally dis-
+solved and washed away, when the whole mind in its
+entirety resolves to make itself well-pleasing unto
+God. This race is rare, however, and found with
+difficulty ; still it is not impossible it should exist." ^
+
+And in another passage, when referring to the small
+number of the "prudent and righteous and gracious,"
+Philo says :
+
+" But the * few,' though rare [to meet with], are yet
+not non-existent. Both Greece and Barbary [that is,
+non-Greek lands] bear witness [to them].
+
+" For in the former there flourished those who are
+pre-eminently and truly called the Seven Sages — though
+others, both before and after them, in every probability
+reached the [same] height — whose memory, in spite
+of their antiquity, has not evanished through the length
+of time, while that of those of far more recent date
+has been obliterated by the tide of the neglect of their
+contemporaries.
+
+"While in non-Grecian lands, in which the most
+revered and ancient in such words and deeds [have
+flourished], are very crowded companies of men of
+worth and virtue; among the Persians, for example,
+the [caste] of Magi, who by their careful scrutiny of
+nature's works for purpose of the gnosis of the truth,
+in quiet silence, and by means of [mystic] images of
+piercing clarity (rpavcorepaig ifKpdcrea-iv) are made
+initiate into the mysteries of godlike virtues, and in
+their turn initiate [those who come after them]; in
+1 De Mut. Norn,, § 4 ; M. i. 583, P. 1049 (Ri. iii. 163, 164).
+
+
+Hosted by
+
+
+Google
+
+
+208 THRICE-GREATEST HERMES
+
+India the [caste] of the Gymnosophists, who, in addition
+to their study of the lore of nature, toil in [the fields
+of] morals, and [so] make their whole life a practical
+example of [their] virtue.
+
+"Nor are Palestine and Syria, in which no small
+portion of the populous nation of the Jews dwell,
+unfruitful in worth and virtue. Certain of them are
+called Essenes, in number upwards of 4000, according
+to my estimate. " ^
+
+Philo then proceeds to give an account of these
+famous mystics.
+
+In Egypt itself, however, he selects out of the many
+communities of the Therapeutee and Therapeutrides
+(which the Old Latin Version renders Oultores et
+CuUrices pietatisy- only one special group, with which
+he was presumably personally familiar and which was
+largely Jewish. Of this order {crvcrTrjiuLaf Philo gives
+us a most graphic account, both of their settlement
+and mode of life. By means of this intensely interest-
+ing sketch of the Contemplative or Theoretic Life, and
+by the parallel passages from the rest of Philo's works
+which Conybeare has so industriously marshalled in his
+**Testimonia," we are introduced into the environment
+and atmosphere of these Theoretics, and find ourselves
+in just such circumstances as would condition the
+genesis of our Trismegistic literature.
+
+The whole of Philo's expositions revolve round the
+idea that the truly philosophic life is an initiation into
+the Divine Mysteries ; for him the whole tradition of
+Wisdom is necessarily a mystery-tradition. Thus he
+tells us of his own special Therapeut community, south
+of Alexandria :
+
+1 Quod Om. Prob, X., § 11 ; M. ii. 456, P. 876 (Ri. v. 284, 285).
+
+2 C, p. 146, 1. 13.
+
+3 D. V. a, § 9 ; M. ii. 482, P. 900 (Ri. v. 319, C. 111).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OP ALEXANDRIA 209
+
+" In every cottage there is a sacred chamber,^ which
+is called semneion and monasterion^ in which, in soli-
+tude, they are initiated into the mysteries of the solemn
+life/' 3
+
+With this it will be of interest to compare Matt,
+vi. 6 : '* When thou prayest, enter into thy closet, and
+when thou hast shut thy door, pray to thy Father who is
+in the Hidden ; and thy Father who seeth in the Hidden,
+shall reward thee. "
+
+It is said that among the '* Pharisees " there was a
+praying-room in every house.
+
+We may also compare with the above reference to
+the Mysteries Luke xii. 2 = Matt. x. 26, from a
+" source " which promised the revelation of all mysteries,
+following on the famous logos also quoted in Mark iv. 22
+and Luke viii. 17 :
+
+"For there is nothing veiled which shall not be
+revealed, and hidden which shall not be made known."
+" Therefore, whatsoever ye (M., I) have spoken in dark-
+ness, shall be heard in the light, and what ye have
+spoken (M., heard) in the ear in the closets, shall be
+heralded forth on the house-tops."
+
+Both Evangelists have evidently adapted their
+*' source " to their own purposes, but the main sense of
+the original form is not difficult to recover.
+
+It is further of interest to compare with the first
+clause of the above passages the new-found logos:
+
+" Jesus saith, Everything that is not before thy face
+and that which is hidden from thee, shall be revealed
+to thee. For there is nothing hidden that shall
+
+1 Or shrine — a small room or closet.
+
+2 That is, a sanctuary or monastery, the latter in the sense of a
+place where one can be alone or in solitude. This is the first use
+of the term " monastery " known in classical antiquity, and, as we
+see, it bears a special and not a general meaning.
+
+3 lUd,, § 3 ; M. ii. 476, P. 892 (Ri. v. 309, C. 60).
+VOL. I. 14^
+
+Hosted by VjOOQIC
+
+
+210 THRICE-GREATEST HERMES
+
+not be made manifest, nor buried that shall not be
+raised." ^
+
+But there are other and more general mysteries
+referred to in Philo ; for, in speaking of the command
+that the unholy man who is a speaker of evil against
+divine things, should be removed from the most holy
+places and punished, our initiated philosopher bursts
+forth:
+
+" Drive forth, drive forth, ye of the closed lips, and
+ye revealers ^ of the divine mysteries,^ the promiscuous
+and rabble crowd of the defiled — souls unamenable to
+purification, and hard to wash clean, who wear ears
+that cannot be closed, and tongues that cannot be kept
+within the doors [of their lips] — organs that they ever
+keep ready for their own most grievous mischance,
+hearing all things and things not law [to hear]." *
+
+Of these "ineffable mysteries,*' ^ he elsewhere says,
+in explaining that the wives of the patriarchs stand
+allegorically as types of virtues :
+
+" But in order that we may describe the conception
+and birth-throes of the Virtues, let bigots ® stop their
+ears, or else let them depart. For that we give a
+higher teaching of the mysteries divine, to mystae who
+are worthy of the holiest rites [of all].
+
+"And these are they who, free from arrogance,
+practise real and truly genuine piety, free from display
+
+1 Grenfell and Hunt, New Sayings of Jesus (London, 1904),
+p. 18.
+
+2 Lit., ye mystae and Merophants.
+
+2 Lit., orgies — that is, " burstings forth " of inspiration, or
+revealings.
+
+4 De Prof., § 16 J M. i. 558, P. 462 (Ri. iii. 128).
+
+^ Leg, Alleg.f i. 39, 4.
+
+^ deiart^alfxoves — here meaning the literalists ; it generally
+signifies the religious in a good sense, and the superstitious in a
+bad one.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 211
+
+of any kind. But unto them who are afflicted with
+incorrigible ill — the vanity of words, close-sticking unto
+names, and empty show of manners, who measure purity
+and holiness by no other rule [than this] — [for them]
+we will not play the part of hierophant." ^
+
+Touching on the mystery of the Virgin-birth, to which
+we will refer later on, Philo continues :
+
+" These things receive into your souls, ye mystae, ye
+whose ears are purified, as truly sacred mysteries, and
+see that ye speak not of them to any who may be
+without initiation, but storing them away within your
+hearts, guard well your treasure-house; not as a
+treasury in which gold and silver are laid iip, things
+that do perish, but as the pick and prize of all posses-
+sions — the knowledge of the Cause [of all] and Virtue,
+and of the third, the child of both," ^
+
+Now the " Divine Spirit" (Oetov 7rj/e5)aa), says Philo,
+does not remain among the many, though it may dwell
+with them for a short time.
+
+** It is [ever] present with only one class of men —
+with those who, having stripped themselves of all the
+things in genesis, even to the innermost veil and
+garment of opinion, come unto God with minds
+unclothed and naked.
+
+"And so Moses, having fixed his tent outside the
+camp — that is, the whole of the body ^ — that is to say,
+having made firm his mind, so that it does not move,
+begins to worship God; and, entering into the dark-
+ness, the unseen land, abideth there, being initiated into
+the most holy mysteries. And he becomes, not only
+a mystes, but also a hierophant of revelations,^ and
+
+1 De Gheruh., § 12 ; M. i. 146, P. 115 (Ri. i. 208).
+
+2 Ibid., § 14 ; M. i. 147, P. 116 (Ri. i. 210).
+
+3 Gf, Leg, Alleg., ii. § 15 ; M. i. 76, P. 1097 (Ri. i. 105).
+* Lit., orgies.
+
+
+Hosted by
+
+
+Google
+
+
+212 THRICE-GREATEST HERMES
+
+teacher of divine things, which he will indicate to those
+who have had their ears made pure.
+
+" With such kind of men, then, the Divine Spirit is
+ever present, guiding their every way aright." ^
+
+Eeferring to the ritual sacrifices of a heifer and two
+rams, Philo declares that the slaying of the second ram,
+and the symbolic rite of sprinkling certain portions of
+the bodies of the priests with its blood, was ordained
+**for the highest perfectioning of the consecrated by
+means of the purification of chastity 2 — which [ram] he
+[* Moses '] called, according to its meaning, the ' [ram]
+of perfectioning,' since they [the priests] were about to
+act as hierophants of mysteries appropriate to the
+servants (depaTrevraig) and ministers of God." ^
+
+So also Philo's language about the Therapeuts proper,
+and not the allegorically interpreted temple-sacrificers,
+is that of the Mysteries, when he writes :
+
+"Now they who betake themselves to this service
+(OepaTrelav) [of God do so], not because of any custom,
+or on some one's advice and appeal, but carried away
+with heavenly love, like those initiated into the Bacchic
+or Corybantic Mysteries, they are a-fire with God until
+they see the object of their love." ^
+
+These Mysteries were, of course, not to be revealed
+except to the worthy. Therefore he says :
+
+"Nor because thou hast a tongue and mouth and
+organ of speech, shouldst thou tell forth all, even things
+that may not be spoken." ^
+
+1 De Gigan,, § 12 ; M. i. 270, P. 291 (Ri. ii. 61).
+
+2 Philo, apparently, would have it that the sacrifice of the ram,
+which was a symbol of virility, signified the obligation of chastity
+prior to initiation into the higher rites.
+
+3 De Vit, Mos., iii. § 17 ; M. ii. 157, P. 676 (Ri. iv. 216). The
+Therapeuts, with Philo, then do not mean " Healers," as has been
+sometimes thought, but " Servants of God."
+
+^ D, V. a, § 2 ; M. ii. 473, P. 891 (Ri. v. 306, C. 41, 42).
+
+: Det Pot, Insid., § 27 ; M. i. 211, P. 174 (Ri. i. 295).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 213
+
+And in the last section of the same treatise he
+writes :
+
+"Wherefore I think that [all] those who are not
+utterly without [proper] instruction, would prefer to be
+made blind than to see things not proper [to be seen],
+to be made deaf than to hear harmful words, and to
+have their tongue cut out, to prevent them divulging
+aught of the ineffable Mysteries. . . . Nay, it is even
+better to make oneself eunuch than to rush madly into
+unlawful unions." ^
+
+With which we may usefully compare Matt. v. 29 :
+"If thy right eye offend thee, cut it out and cast it
+from thee"; and Matt. xix. 12: "There are some who
+have made themselves eunuchs for the sake of the
+kingdom of the heavens; he that can receive it, let
+him receive it." Both passages are found in the first
+Gospel only.
+
+For the comprehension of virtue man requires the
+reason only ; but for the doing of ill, the evil man re-
+quires the organs of the body, says our mystic dualist ;
+" for how will he be able to divulge the Mysteries, if he
+have no organ of speech ? " ^
+
+This continual harping on the divulging of the
+Mysteries, shows that Philo considered it the greatest
+of all enormities ; we might almost think that he had
+in view some movement that was divulging part of the
+mystery-tradition to the untrained populace.
+
+Elsewhere, speaking of those "who draw nigh unto
+God, abandoning the life of death, and sharing in
+immortality," he tells us these are the "Naked" —
+(that is, " naked " of the trammels of the flesh) — who
+sacrifice all to God. And he adds that only these " are
+permitted to see the ineffable Mysteries of God, who
+
+1 lUd., § 48 ; M. i. 224, P. 186 (Ei. i. 314).
+
+2 Leg, Alleg., i. § 32 ; M. i. 64, P. 69 (Ri. i. 87).
+
+
+Hosted by
+
+
+Google
+
+
+214 THRICE-GREATEST HERMES
+
+are able to cloak them and guard them '* from the un-
+worthy.i
+
+With regard to these Mysteries, they were, as we
+might expect, divided into the Lesser and the Greater
+— ^in the former of which the neophytes " worked on the
+untamed and savage passions, as though they were
+softening the [dough ^ of their] food with reason
+{logos)r
+
+The manner of preparing this divine food, so that it
+becomes the bread of life, was a mystery.^
+
+One of the doctrines revealed in these Lesser Mysteries
+was plainly that of the Trinity ; for, commenting on
+Gen. xviii. 2 : " And he lifted up his eyes and looked,
+and, lo, three men stood by him " — Philo writes :
+
+" ' He lifted up his eyes,' not the eyes of his body, for
+God cannot be seen by the senses, but by the soul
+[alone] ; for at a fitting time He is discovered by the
+eyes of wisdom.
+
+'' Now the power of sight of the souls of the many
+and unrighteous is ever shut in, since it lies dead in
+deep sleep, and can never respond and be made awake
+to the things of nature and the types and ideas within
+her. But the spiritual eyes of the wise man are awake,
+and behold them ; nay, they are sleeplessly alert, ever
+watchful from desire of seeing.
+
+" Wherefore it is well said in the plural, that he raised
+not one eye, but all the eyes that are in the soul, so
+that one would have said that he was altogether all eye.
+Having, then, become the eye, he begins to see the holy
+and divine vision of the Lord, in such a fashion that the
+one vision appeared as a trinity, and the trinity as a
+
+unity." ^
+
+1 Leg, Alley,, ii. § xv. ; M. i. 76, P. 1097 (Ri i. 106).
+
+2 Which they brought out of Egypt — that is, the body.
+
+3 De Bacrif., § 16 ; M. i. 174, P. 139 (Ri. i. 245).
+
+4 Quasi, in Gen,, iv. § 2 ; P. Auch. 243 (Ri. vii. 61).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 215
+
+Elsewhere, referring to the same story, and to the
+words of Abraham to Sarah ** to hasten and knead three
+measures of fine meal, and to make cakes upon the
+hearth,"! Philo expounds the mystery at length as
+follows. It refers to that experience of the inner life :
+
+"When God, accompanied by His two highest
+Potencies, Dominion (apxv) and Goodness, making One
+[with Himself] in the midst, produces in the seeing soul
+a triple presentation, of which [three persons] each
+transcends all measure ; for God transcendeth all
+delineation, and equally transcendent are His Potencies,
+but He [Himself] doth measure all,
+
+*' Accordingly, His Goodness is the measure of things
+good, and His Dominion is the measure of things subject,
+while He Himself is chief of all, both corporeal and
+incorporeal.2
+
+" Wherefore also these Potencies, receiving the Eeason
+(Logos) of His rules and ordinances, measure out all
+things below them. And, therefore, it is right that
+these three measures should, as it were, be mingled and
+blended together in the soul, in order that, being per-
+suaded that He is Highest God, who transcendeth His
+Potencies, both making Himself manifest without them,
+and also causing Himself to be seen in them, it [the
+soul] may receive His impressions (x^paKTtipag\ and
+powers, and blessings, and [so] becoming initiate into
+the perfect secrets, may not lightly disclose the divine
+Mysteries, but, treasuring them up, and keeping sure
+silence, guard them in secret.
+
+"For it is written: 'Make [them] secret,'— for the
+sacred sermon (\6yov) of initiation (juLva-Tfjp) about the
+Ingenerable and about His Potencies ought to be kept
+
+* Gen. xviii. 6.
+
+2 That is, apparently, the " good "= the "incorporeal," and the
+"subject" ==the "corporeal."
+
+
+Hosted by
+
+
+Google
+
+
+216 THRICE-GEJEATEST HERMES
+
+secret, since it is not within the power of every man to
+guard the sacred trust (TrapaKarad^Kfjv) of the divine
+revelations (Spyicop)" ^
+
+Concerning the Sacred Marriage
+
+But the chief of all the mysteries for Philo was,
+apparently, the Sacred Marriage, the mystic union of
+the soul, as female, with God, as male (Deo nuhere). In
+this connection he refers to Gen. iv. 1 :
+
+" And Adam knew his wife. And she conceived and
+bare Cain. And she said : / have gotten a man hy
+means of the Lord. And He caused her also to bring
+forth Abel his brother." ^
+
+We are, of course, not concerned with the legitimacy
+or consistency of Philo*s allegorising system, whereby
+he sought to invoke the authority of his national
+scriptures in support of his chosen doctrines ; but we
+are deeply concerned with these doctrines themselves,
+as being the favourite dogmas of his circle and of
+similar circles of allied mystics of the time.
+
+His views on the subject are clearly indicated, for he
+tells us in the same passage that he is speaking of a
+secret of initiation, not of the conception and parturi-
+tion of women, but of Virtues — that is, of the virtuous
+soul. Accordingly he continues in § 13 :
+
+" But it is not lawful for Virtues, in giving birth to
+their many perfections, to have part or lot in a mortal
+husband. And yet they will never bring forth of
+themselves, without conceiving their offspring of
+another.
+
+" Who, then, is He who soweth in them their glorious
+[progeny], if not the Father of all universal things —
+
+1 De Sacrif., § 15 ; M. i. 173, 174 ; P. 139 (Ri. i. 244, 245).
+
+2 De Cherub., § 12 ; M. i. 146, P. 115 (Ri. i. 208).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANBBIA 217
+
+the God beyond all genesis, who yet is Sire of every-
+thing that is ? For, for Himself, God doth create no
+single thing, in that He stands in need of naught ; but
+for the man who prays to have them [He creates]
+all things.*'
+
+And then, bringing forward Sarah, Leah, Eebecca, and
+Sepphora, as examples of the Virtues who lived with
+the great prophets of his race, Philo declares that
+" Sarah " conceived, when God looked upon her while
+she was in solitary contemplation, and so she brought
+forth for him who eagerly longed to attain to wisdom
+— namely, for him who is called *' Abraham."
+
+And so also in the case of " Leah," it is said " God
+opened her womb," which is the part played by a
+husband ; and so she brought forth for him who under-
+went the pains of labour for the sake of the Beautiful —
+namely, for him who is called "Jacob"; "so that
+Virtue received the divine seed from the Cause [of
+all], while she brought forth for that one of her lovers
+who was preferred above all other suitors."
+
+So also when the " all- wise," he who is called " Isaac,"
+went as a suppliant to God, his Virtue, " Rebecca," that
+is Steadfastness, became pregnant in consequence of his
+supplication.
+
+Whereas" Moses,'' without any supplication or prayer,
+attained to the winged and sublime Virtue " Sepphora,"
+and found her with child by no mortal husband.^
+
+Moreover, in § 14, in referring to Jeremiah, Philo
+writes :
+
+"For I, having been initiated into the Great
+Mysteries by Moses, the friend of God, nevertheless
+when I set eyes upon Jeremiah, the prophet, and learned
+that he is not only a mystes, but also an adept hiero-
+phant, I did not hesitate to go to him as his disciple.
+1 Ihid., § 13 ; M. i. 147, P. 116, 117 (Ri. i.
+
+
+Hosted by
+
+
+Google
+
+
+218 THRIOE-GREATEST HERMES
+
+" And he, in that in much [he says] he is inspired by
+God, uttered a certain oracle [as] from the Face of God,
+who said unto the Virtue of Perfect Peace : * Hast thou
+not called Me as 'twere House and Father and Husband
+of thy virginity ? ' ^ — suggesting in the clearest [possible]
+fashion that God is both Home, the incorporeal land of
+incorporeal ideas, and Father of all things, in that He
+did create them, and Husband of Wisdom, sowing for
+the race of mankind the seed of blessedness into good
+virgin soil.
+
+''For it is fitting God should converse with an
+undefiled, an untouched and pure nature, with her who
+is in very truth the Virgin, in fashion very different
+from ours.
+
+"For the congress of men for the procreation of
+children makes virgins women. But when God begins
+to associate with the soul, He brings it to pass that she
+who was formerly woman becomes virgin again. For
+banishing the foreign and degenerate and non-virile
+desires, by which it was made womanish. He substitutes
+for them native and noble and pure virtues. . . .
+
+" But it is perhaps possible that even a virgin soul
+may be polluted by intemperate passions, and so
+dishonoured.
+
+" Wherefore the oracle hath been careful to say that
+God is husband not of 'a virgin' — for a virgin is
+subject to change and death — but of ' virginity ' [that
+is of] the idea which is ever according to the same
+[principles], and in the same mode.
+
+" For whereas things that have qualities, have with
+their nature received both birth and dissolution, the
+[archetypal] potencies which mould them have obtained
+a lot transcending dissolution.
+
+1 Jer. iv. 3 — where A.V. translates : " Wilt thou not from this
+time cry nnto me, My father, thou art the guide of my youth ? "
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 219
+
+'' Wherefore is it not fitting that God, who is beyond
+all generation and all change, should sow [in ns] the
+ideal seeds of the immortal virgin Virtues, and not those
+of the woman who changes the form of her virginity ? " ^
+
+But, indeed, as Conybeare says :
+
+" The words, virgin, virginity, ever-virginal, occur on
+every other page of Philo. It is indeed Philo who first ^
+formulated the idea of the Word or ideal ordering
+principle of the Cosmos being born of an ever-virgin
+soul, which conceives, because God the Father sows
+into her His intelligible rays and divine seed, so beget-
+ting His only well-beloved son, the Cosmos." ^
+
+Thus, speaking of the impure soul, Philo writes :
+
+'* For when she is a multitude of passions and filled
+with vices, her children swarming over her — pleasures,
+appetites, folly, intemperance, unrighteousness, injustice
+— she is weak and sick, and lies at death's door, dying ;
+but when she becomes sterile, and ceases to bring them
+forth or even casts them from her, forthwith, from
+the change, she becometh a chaste virgin, and, receiving
+the Divine Seed, she fashions and engenders marvel-
+lous excellencies that nature prize th highly — prudence,
+courage, temperance, justice, holiness, piety, and the rest
+of the virtues and good dispositions." ^
+
+So also, speaking of the Therapeutrides, he writes :
+
+** Their longing is not for mortal children, but for a
+deathless progeny, which the soul that ife in love with
+God can alone bring forth, when the Father hath sown
+into it the spiritual light-beams, by means of which it
+
+1 De Ghemh,, § 14, 15 ; M. i. 148, P. 116, 117 (Ri. i. 210, 211).
+
+^ In this, however, I venture to think that Conybeare is mis-
+taken ; it was a common dogma of the Hellenistic theology of the
+time.
+
+3 Op. sup, cit, pp. 302, 303.
+
+4 De Execrat, § 7 ; M. ii. 435, P. 936 (Ri. v. 254). See " Myth
+of Man in the Mysteries, '^ S. § 25 J.
+
+
+Hosted by
+
+
+Google
+
+
+220 THRICE-GREATEST HERMES
+
+shall be able to contemplate (Oewpeip) the laws of
+wisdom." 1
+
+And as to the progeny of such virgin-mothers, Philo
+elsewhere instances the birth of " Isaac " — " which
+could not refer to any man," but is " a synonym of Joy,
+the best of the blessed states of the soul — Laughter,
+the spiritually conceived (evSidOerog) ^ Son of God, Who
+bestoweth him as a comfort and means of good cheer
+on souls of perfect peace." ^
+
+And a little later on he adds :
+
+" And Wisdom, who, after the fashion of a mother,
+brings forth the self-taught Eace, declares that God is
+the sower of it." *
+
+And yet, again, elsewhere, speaking of this spiritual
+progeny, Philo writes :
+
+" But all the Servants of God (Therapeuts), who are
+lawfully begotten, shall fulfill the law of [their] nature,
+which commands them to be parents. For the men
+shall be fathers of many sons, and the women mothers
+of numerous children." ^
+
+So also, in the case of the birth of Joseph, when his
+mother, Eachael, says to Jac6b : " Give me children ! " —
+*' the Supplanter, disclosing his proper nature, will
+reply: *Thou hast wandered into deep error. For I
+am not in God's place, who alone is able to open the
+wombs of souls, and sow in them virtues, and make
+them pregnant and mothers of good things.'"®
+
+So too, again, in connection with the birth of Isaac,
+referring to the exultant cry of Sarah : *' The Lord hath
+
+1 1). V. a, § 8 ; M. ii. 482, P. 899 (Ri. v. 318, G. 108).
+
+2 Elsewhere an epithet of the Logos.
+
+3 De Mut. Nom., § 23 ; M. i. 598, P. 1066 (Ri. iii. 183).
+
+4 Ibid,, § 24 ; M. i. 599, P. 1065 (Ri. iii. 184).
+
+5 De Prmm, et Pcen., § 18 ; M. ii. 425, P. 927 (Ri. v. 241).
+
+6 Leg. Alleg., iii. § 63 ; M. i. 122, 123, P. 94 (Ei. i. 175). Gf,
+Gen. XXX. 2 : " Am I in God's stead 1 "
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 221
+
+made me Laughter; for whosoever heareth, rejoiceth
+with me"^ — Philo bursts forth:
+
+" Open, then, wide your ears, ye mystse, and receive
+the most holy mysteries. 'Laughter' is Joy, and
+' hath made ' is the same as ' hath begotten ' ; so that
+what is said hath the following meaning: *The Lord
+hath begotten Isaac ' — for He is Father of the perfect
+nature, sowing in the soul and generating blessedness." ^
+
+That all of this was a matter of vital moment for
+Philo himself, may be seen from what we must regard
+as an intensely interesting autobiographical passage, in
+which our philosopher, speaking of the happy child-
+birth of Wisdom, writes :
+
+" .For some she judges entirely worthy of living with
+her, while others seem as yet too young to support such
+admirable and wise house-sharing; these latter she
+hath permitted to solemnise the preliminary initiatory
+rites of marriage, holding out hopes of its [future]
+consummation.
+
+** * Sarah,' then, the Virtue who is mistress of my soul,
+hath brought forth, but hath not brought forth for me
+— for that I could not, because I was too young, receive
+[into my soul] her offspring — wisdom, and righteousness,
+and piety — because of the brood of bastard brats which
+empty opinions had borne me.
+
+" For the feeding of these last, the constant care and
+incessant anxiety concerning them, have forced me to
+take no thought for the legitimate children who are
+the true citizens.
+
+" It is well, therefore, to pray Virtue not only to
+bear children, who even without praying brings her fair
+
+1 Gen. xxi. 6. A.V. : " God hath made me to laugh, so that
+all that hear will laugh with me."
+
+2 Leg. Alleg., iii. § 77 ; M. i. 131, P. 101 (Ri. i. 187). Of. also
+De Qheruh,, § 13 ; M. i. 147, P. 115 (Ri. i. 209).
+
+
+Hosted by
+
+
+Google
+
+
+222 THRICE-GREATEST HERMES
+
+progeny to birth, but also to bear sons for us, so that
+we may be blessed with a share in her seed and offspring.
+
+" For she is wont to bear to God alone, with thank-
+fulness repaying unto Him the first-fruits of the things
+she hath received, [to Him] who, Moses says, *hath
+opened ' her ever-virgin * womb.' " ^
+
+But, indeed, Philo is never wearied of reiterating this
+sublime doctrine, which for him was the consumllktion
+of the mysteries of the holy life. Thus, then, again he
+sets it forth as follows :
+
+" We should, accordingly, understand that the True
+Reason (Logos) of nature has the potency of both father
+and husband for different purposes — of a husband,
+when he casts the seed of virtues into the soul as into
+a good field ; of a father, in that it is his nature to
+beget good counsels, and fair and virtuous deeds, and
+when he hath begotten them, he nourisheth them with
+those refreshing doctrines which discipline and wisdom
+furnish.
+
+**And the intelligence is likened at one time to a
+virgin, at another to a wife, or a widow, or one who has
+not yet a husband.
+
+**[It is likened] to a virgin, when the intelligence
+keeps itself chaste and uncorrupted from pleasures and
+appetites, and griefs and fears, the passions which
+assault it ; and then the father who begot it, assumes
+the leadership thereof. ^
+
+" And when she (intelligence) lives as a comely wife
+with comely Reason {Logos\ that is with virtuous
+Reason, this self-same Reason himself undertakes the
+care of her, sowing, like a husband, the most excellent
+concepts in her.
+
+** But whenever the soul is bereft of her children of
+
+1 Gen. xxii. 31. Cmg, Erud, GraU, § 2 ; M. i. 520, P. 425
+(Ri. iii. 72).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OP ALEXANDRIA 223
+
+prudence, and of her marriage with Eight Reason,
+widowed of her most fair possessions, and left desolate
+of Wisdom, through choosing a blameworthy life —
+then, let her suffer the pains she hath decreed against
+herself, with no wise Eeason to play physician to her
+transgressions, either as husband and consort, or as
+father and begetter."^
+
+Eeferring to Jacob's dream of the white, and spotted,
+and ring-straked, and speckled kine, Philo tells us that
+this, too, must be taken as an allegory of souls. The
+first class of souls, he says, are " white."
+
+'*The meaning is that when the soul receives the
+Divine Seed, the first-born births are spotlessly white,
+like unto light of utmost purity, to radiance of the
+greatest brilliance, as though it were the shadowless
+ray of the sim's beams from a cloudless sky at noon." -
+
+With this it is of service to compare the Vision of
+Hades seen by Thespesius (Aridaeus), and related by
+Plutarch. Thespesius' guide in the Unseen World
+draws his attention to the " colours " and " markings "
+of the souls as follows :
+
+" Observe the colours of the souls of every shade and
+sort : that greasy, brown-grey is the pigment of sordid-
+ness and selfishness ; that blood-red, inflamed shade is
+a sign of a savage and venomous nature ; wherever
+blue-grey is, from such a nature incontinence in
+pleasure is not easily eradicated; innate malignity,
+mingled with envy, causes that livid discoloration, in
+the same way as cuttle-fish eject their sepia.
+
+'*Now it is in earth-life that the vice of the soul
+(being acted upon by the passions, and re-acting upon
+the body) produces these discolorations ; while the
+purification and correction here have for their object
+
+
+1 De Spec. Leg^ § 7 ; M. ii. 275, P. 774 (Ki. v. 16, 16).
+
+2 De Som., i. § 35 ; M. i. 651, P. 595 (Ri. iii. 267).
+
+
+Hosted by
+
+
+Google
+
+
+224 THRICE-GREATEST HERMES
+
+the removal of these blemishes, so that the soul may
+become entirely ray-like and of uniform colour." ^
+
+Again,ingivingtheallegoricalmeaning of the primitive-
+culture story of Tamar,2 Philo not only interprets it by
+the canon of the Sacred Marriage, but also introduces
+other details from the Mysteries. Thus he writes :
+
+"For being a widow she was commanded to sit in
+the House of the Father, the Saviour ; for whose sake
+for ever abandoning the congress and association with
+mortal [things], she is bereft and widowed from [all]
+human pleasures, and receives the Divine quickening,
+and, full-filled with the Seeds of virtue, conceives, and
+is in travail with fair deeds. And when she brings
+them forth, she carries off the trophies from her
+adversaries, and is inscribed as victor, receiving as a
+symbol the palm of victory." ^
+
+And every stage of this divine conception is but the
+shadow of the great mystery of cosmic creation, which
+Philo sums up as follows :
+
+'' We shall, however, be quite correct in saying that
+the Demiurge who made all this universe, is also at the
+same time Father of what has been brought into
+existence; while its Mother is the Wisdom of Him
+who hath made it — with whom God united, though
+not as man [with woman], and implanted the power of
+genesis. And she, receiving the Seed of God, brought
+forth with perfect labour His only beloved Son, whom
+all may perceive* — this Cosmos/'^
+
+^ De Ser. Num. Vind., 565 c. ; ed. Bern. iii. 459. See, for a
+translation of the whole Vision, my "Notes on the Eleusinian
+Mysteries," Theosophical Eevieio (April, May, June, 1898), xxii.
+145 ff., 232 ff., 312 fF.
+
+2 Gen. xxxviii. 11 ff.
+
+3 Quod Deus Immut, § 29 ; M. i. 293, P. 313 (Ri. ii. 94).
+
+4 Lit, "sensible."
+
+5 De Ehriet, § 8 ; M. i. 361, P. 244 (Ri. i. 189).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 225
+
+Concerning the Logos
+
+The idea of God found in Philo is that of the more
+enlightened theology of his time. God is That which
+transcends all things and all ideas. It would, of course,
+be a far too lengthy study to marshal the very numerous
+passages in which our philosopher sets forth his view
+on Deity; and so we shall select only two passages
+simply to give the reader who may not be acquainted
+with the works of the famous Alexandrian, some notion
+of the transcendency of his conception. For, as he
+writes :
+
+*' What wonder is it if That-which- [really ]-is trans-
+cends the comprehension of man, when even the
+mind which is in each of us, is beyond our power of
+knowing? Who hath ever beheld the essence of
+the soul?"i
+
+This Mystery of Deity was, of necessity, in itself
+ineffable ; but in conception, it was regarded under two
+aspects — the active and the passive causative principles.
+
+" The Active Principle, the Mind of the universals, is
+absolutely pure, and absolutely free from all admixture ;
+It transcendeth Virtue ; It transcendeth Wisdom ; nay.
+It transcendeth even the Good Itself and the Beautiful
+Itself.
+
+"The Passive Principle is of itself soulless and
+motionless, but when It is set in motion, and enformed
+and ensouled by the Mind, It is transformed into the
+most perfect of all works — namely, this Cosmos/' ^
+
+This Passive Principle is generally taken by com-
+mentators to denote Matter; but if so, it must be
+equated with Wisdom, which we have just seen was
+regarded by Philo as the Mother of the Cosmos,
+
+1 De Mut. Norn,, § 2 ; M. i. 579, P. 1045 (Ri. iii. 159).
+
+2 De Mund. Op,, § 2 ; M. i. 2, P. 2 (Ri. i. 6).
+
+VOL. I. 15
+
+Hosted by VjOOQIC
+
+
+226 THRICE-GREATEST HERMES
+
+But beyond all else Philo is useful to us in record-
+ing the views of contemporary Hellenistic theology
+concerning the concept of the Logos, the Mystery of
+the Heavenly Man, the Son of God. Even as this word
+of mystic meaning comes forward in almost every
+tractate and fragment of our Trismegistic literature, so
+in Philo is it the dominant idea in a host of passages.
+
+It should, however, never be forgotten that Philo is
+but handing on a doctrine ; he is inventing nothing.
+His testimony, therefore, is of the greatest possible
+value for our present study, and deserves the closest
+attention. We shall accordingly devote the rest of
+this chapter exclusively to this subject, and marshal
+the evidence, if not in Philo's own words, at anyrate
+in as exact a translation of them as we can give ; for
+although much has been written on the matter, we
+know no work in which the simple expedient of letting
+Philo speak for himself has been attempted.
+
+The Son of God
+
+The Logos, then, is pre-eminently the Son of God,
+for Philo writes :
+
+"Moreover God, as Shepherd and King, leads [and
+rules] with law and justice the nature of the heaven,
+the periods of sun and moon, the changes and har-
+monious progressions of the other stars — deputing [for
+the task] His own Eight Eeason {Logos), His First-
+born Son, to take charge of the sacred flock, as though
+he were the Great King's viceroy." ^
+
+Of this Heavenly Man, who was evidently for Philo
+the Celestial Messiah of God, he elsewhere writes :
+
+" Moreover, I have heard one of the companions of
+Moses uttering some such word {logos) as this : * Behold
+1 De Agric, § 13 ; M. i. 308, P. 195 (Ri. ii. 116).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 227
+
+Man whose name is East/ ^ — a very strange appellation,
+if you imagine the man composed of body and soul to
+be meant; but if you take him for that Incorporeal
+Man in no way differing from the Divine Image, you
+will admit that the giving him the name of East exactly
+hits the mark.
+
+"For the Father of things that are hath made him
+rise as His Eldest Son, whom elsewhere He hath called
+His First-born, and who, when he hath been begotten,
+imitating the ways of his Sire, and contemplating His
+archetypal patterns, fashions the species [of thiugs]." ^
+
+Here we notice first of all Philo's graphic manner
+(a commonplace of the time) of quoting Ezekiel as
+though he were still alive, and he had heard him speak ;
+and, in the second place, that the First-born Son is
+symbolically represented as the Sun rising in the East.
+
+The True High Pkiest
+
+That, moreover, the Logos is the Son of God, he
+explains at length in another passage, when writing of
+the true High Priest:
+
+" But we say that the High Priest is not a man, but
+the Divine Eeason {Logos), who has no part or lot in
+any transgressions, not only voluntary errors, but also
+involuntary ones. For, says Moses, he cannot be defiled
+either 'on account of his father,' the Mind, nor *on
+account of his mother,'^ the [higher] Sense — in that,
+as I think, it is his good fortune to have incorruptible
+
+^ Or Rising. Cf. Zecli. vi. 12 — where A.V. translates : "Behold
+the man whose name is The Branch." Philo, however, follows
+LXX., but reads ^vQpcaiFos instead of aviip. The Man-doctrine of
+the " Poemandres " and of the Naassene Document was a funda-
+mental one with Philo.
+
+2 De Oonfii^s. Ling., § 14 ; M. i. 414, P. 329 (Ri. ii. 262).
+
+3 Of. Lev. xxi. 11.
+
+
+Hosted by
+
+
+Google
+
+
+228 THRICE-GREATEST HERMES
+
+and perfectly pure parents,— God for father, who is as
+well Father of all things, and for mother AVisdom,
+through whom all things came into genesis ; and because
+*his head hath been anointed with oil,' — I mean his
+ruling principle 1 shineth with ray-like brilliance, so
+that he is deemed fit for robing in his vestures.
+
+"Now the Most Ancient Reason {Logos) of That-
+which-is is vestured with the Cosmos as his robe ; — for
+he wrappeth himself in Earth and Water, Air and Fire,
+and what comes from them; the partial soul [doth
+clothe itself] in body ; the wise man's mind in virtues. »
+" And ' he shall not take the mitre from off his head/
+[signifies] he shall not lay aside the royal diadem,
+the symbol of his admirable rule, which, however, is
+not that of an autocrat-emperor, but of a viceroy.
+
+"Nor 'will he rend his garments,' — for the Reason
+{Logos) of That-which-is, being the bond of all things, as
+hath been said, both holds together all the parts, and
+binds them, and does not suffer them to be dissolved or
+separated." ^
+
+In another passage Philo treats of the same subject
+still more plainly from the point of view of the
+Mysteries, writing as follows:
+
+" For there are, as it seems, two temples of God ;— ^
+the one is this Cosmos, in which there is also the High
+Priest, His First-born Divine Reason {Logos) \ the
+other is the rational soul, whose [High] Priest is the
+True Man, a sensible copy of whom is he who rightly
+performs the prayers and sacrifices of his Father, who
+is ordained to wear the robe, the duplicate of the
+
+1 rh 7}y%fioviK6y — that is, the authoritative or responsible part of
+the soul, namely, the reason — a Stoic technical term.
+
+2 Be Prof., § 20 ; M. i. 562, P. 466 (Ri. iii. 133). The quota-
+tions look back to Lev. xxi. 10, but the readings in the first two
+differ from the LXX.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 229
+
+universal heaven, in order that the cosmos may work
+together with man, and man with the universe." ^
+
+
+The Elder and Younger Sons of God
+
+The Cosmic Logos is not the sensible cosmos, but the
+Mind thereof. This Philo explains at length.
+
+"It is then clear, that He who is the generator of
+things generated, and the artificer of things fashioned,
+and the governor of things governed, must needs be
+absolutely wise. He is in truth the father, and
+artificer, and governor of all in both the heaven and
+cosmos.
+
+"Now things to come are hidden in the shade of
+future time, sometimes at short, and sometimes at
+long distances. But God is the artificer of time as
+well. For He is father of its father ; and time's father
+is the cosmos, which manifests its motion as the
+genesis of time ; so that time holds to God the place
+of grandson.
+
+" For that this cosmos ^ is the Younger Son of God,
+in that it is perceptible to sense. The Son who's older
+than this one, He hath declared to be no one [perceiv-
+able by sense], for that he is conceivable by mind
+alone. But having judged him worthy of the elder's
+rights, He hath determined that he should remain with
+Him alone.
+
+" This [cosmos], then, the Younger Son, the sensible,
+being set a-moving, has caused time's nature to appear
+and disappear ; so that there nothing is which future is
+with God, who has the very bounds of time subject to
+Him. For 'tis not time, but time's archetype and
+paradigm. Eternity (or ^on), which is His life. But
+
+
+1 Be Som., § 37 ; M. i. 653, P. 697 (Ri. ill. 260).
+
+2 That is the sensible and not the inteUigible cosmos.
+
+
+Hosted by
+
+
+Google
+
+
+230 THRICE-GREATEST HERMES
+
+in Eternity naught's past, and naught is future, but all
+is present only." ^
+
+Yet God is One
+
+The Logos, then, is not God absolute, but the Son of
+God 'par excellence, and as such is sometimes referred to
+as " second," and once even as the " second God." Thus
+Philo writes :
+
+" But the most universal [of all things] is God, and
+second the Eeason {Logos) of God." 2
+
+In his treatise entitled Questions and Answers,
+however, we read :
+
+" But why does He say as though [He were speaking]
+about another God, *in the image of God I made
+** man ",' ^ but not in His own image ?
+
+" Most excellently and wisely is the oracle propheti-
+cally delivered. For it was not possible that anything
+subject to death should be imaged after the supremest
+God who is the Father of the universes, but after the
+second God who is His Eeason {Logos).
+
+" For it was necessary that the rational impress in the
+soul of man should be stamped [on it] by the Divine
+Eeason {Logos), since God, who is prior even to His own
+Eeason, transcendeth every rational nature ; [so that] it
+was not lawful that aught generable should be made like
+unto Him who is beyond the Eeason, and established in
+the most excellent and the most singular Idea [of all]." *
+
+1 QuodBeiLS Im., § 6 ; M. i. 27*7, P. 298 (Ri. ii. 72, 73).
+
+2 Leg. Alleg., § 21 ; M. i. 82, P. 1103 (Ri. i. 113).
+
+3 Cf. Gen. i. 27. Philo reads iv dK6vi instead of the Kar"* tUopa
+of LXX., and ivolrjcra instead of ivolrjo'e.
+
+* Namely, in His Reason. The Greek text is quoted by
+Ensebius, Prcep. Evang., vii. 13 (M. ii. 626, Ri. vi. 175), who gives
+it as from Bk. i. of Qumst. et Solut. The original text is lost, but
+we have a Latin Version — q.v. ii. § 62 (Ri. vi. 356)— which, how-
+ever, in this instance, has made sorry havoc of the original.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 231
+
+From this passage we see that though it is true Philo
+calls the Logos the " second God," he does not depart
+from his fundamental monotheism, for the Logos is not
+an entity apart from God, but the Eeason of God.
+Nevertheless, this solitary phrase of Philo's is almost
+invariably trotted out in the forefront of all enquiry
+into Philo's Logos-doctrine, in order that the difference
+between this phrase and the wording of the Proem to
+the Fourth Gospel may be insisted on as strongly as
+possible for controversial apologetical purposes.
+
+That, however, Philo is a strict monotheist may be
+seen from the following passage, in which he is com-
+menting on the words of Gen. xxxi. 13 : " I am the God
+who was seen by thee in the place of God " ^ — where,
+apparently, two Gods are referred to.
+
+'' What, then, should we say ? The true God is one ;
+they who are called gods, by a misuse of the term, are
+many. On which account the Holy Word ^ has, on the
+present occasion, indicated the true [God] by means of
+the article, saying : * I am the God ' ; but the [one so
+named] by misuse of the term, without the article,
+saying : ' who was seen by thee in the place,' not of the
+God, but only 'of God.' And what he (Moses) here
+calls ' God ' is His Most Ancient Word (Logos)" ^
+
+
+The Logos is Life and Light
+
+This Logos, moreover, is Life and Light. For,
+speaking of Intelligible or Incorporeal " Spirit " and
+** Light," Philo writes :
+
+1 Philo and LXX. both have : " 67<6 €tV* ^ O^^s 6 ocpe^ls trot
+iv r6ir(i) 0€ov" ; whereas A.V. translates: "I am the God of
+Beth-el"— that is, the " House or Place of El or God."
+
+2 Here meaning the Inspiration of Scripture.
+
+3 De Som., i. § 39 ; M. i. 665, P. 599 (Ri. iii. 262. 263).
+
+
+Hosted by
+
+
+Google
+
+
+232 THRICE-GREATEST HERMES
+
+" The former he [* Moses '] called the Breath of God,
+because it is the most life-giving thing [in the universe],
+and God is the cause of life ; and the latter the Light
+[of God], because it is by far the most beautiful thing
+[in the universe],
+
+** For by so much more glorious and more brilliant is
+the intelligible [Light] than the visible, as, methinks,
+the sun is than darkness, and day than night, and the
+mind, which is the guide of the whole soul, than the
+sensible means of discernment, and the eyes than the
+body.
+
+"And he calls the invisible and intelligible Divine
+Eeason {Logos) the Image of God. And of this [Image]
+the image [in its turn] is that intelligible light, which
+has been created as the image of the Divine Eeason
+who interprets it [that is, Light's] creation.
+
+" [This Light] is the [One] Star, beyond [all] heavens,
+the Source of the Stars that are visible to the senses,
+which it would not be beside the mark to call All-
+brilliancy, and from which the sun and moon and the
+rest of the stars, both errant and fixed, draw their
+light, each according to its power." ^
+
+The necessity and reason of forming some such
+concept of the Logos is that man cannot bear the utter
+transcendency of God in His absoluteness. And apply-
+ing this idea further to theophanies in human form,
+Philo writes :
+
+**For just as those who are unable to look at the
+sun itself look upon its reflected rays as the sun, and
+the [light-] changes round the moon, as the moon itself,
+so also do men regard the Image of God, His Angel,
+Eeason (Logos), as Himself." ^
+
+1 De Mund. Op., § 8 ; M. i. 6, 7, P. 6 (Ri. i. 11),
+- 2 De Som., § 41 ; M. i. 657, P. 600 (Ri. iii. 264).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 233
+
+The Divine Vision
+
+Such Divine Vision is the object of the contemplative
+life, for :
+
+" It is the special gift of those who dedicate them-
+selves to the service (OepaTrevovrm) of That-which-
+is . . . to ascend by means of their rational faculties
+to the height of the aether, setting before themselves
+' Moses * — the Eace that is the friend of God,^ as the
+leader of the way.
+
+" For then they will behold * the place that is clear,' ^
+on which the immovable and unchangeable God hath
+set His feet, and the [regions] beneath His feet, as it
+were a work of sapphire stone, and as it might be the
+form of the firmament of heaven, the sensible cosmos,
+which he [' Moses '] symbolises by these things,
+
+"For it is seemly that those who have founded a
+brotherhood for the sake of wisdom, should long to see
+Him ; and if they cannot do this, to behold at least
+His Image, Most Holy Eeason {Logos)^ and after him
+also the most perfect work in [all] things sensible,
+[namely] this cosmos.
+
+" For the work of philosophy is naught else than the
+striving clearly to see these things." ^
+
+The Sons of God on Earth
+
+And later on, in the same treatise (§ 28), Philo writes
+still more interestingly and instructively as follows :
+
+^ This is tlie Eace of the Logos.
+
+2 Cf. Ex. xxiv. 10. A.V. does not render this reading, but
+LXX. gives " The place where the God of Israel stood."
+
+3 Which here, as also above, Philo would equate with the " Place
+of God."
+
+4 De Gonfus, Ling., § 20 j M. i. 419, P. 333, 334 (Ri. ii.
+268, 269).
+
+
+Hosted by
+
+
+Google
+
+
+234 THRICE-GREATEST HERMES
+
+*' But they who have attained unto wisdom, are, as they
+should be, called Sons of the One God, as Moses admits
+when he says : * Ye are the Sons of the Lord God,' ^ and
+* God who begat thee,' 2 and ' Is not He Himself thy
+father?'^ . . .
+
+" And if a man should not as yet have the good for-
+tune to be worthy to be called a Son of God, -let him
+strive manfully to set himself in order according to
+His First-born Eeason (Logos), the Oldest Angel, who is
+as though it were the Angel-chief, of many names ; for
+he is called Dominion,* and Name of God, and Eeason,
+and the Man-after-the-likeness, and Seeing Israel.
+
+" And for this reason I was induced a little before
+to praise the principles of them who say : * We are all
+Sons of One Man.* ^ For even if we have not yet become
+fit to be judged Sons of God, we may at anyrate be Sons
+of His Eternal Likeness, His Most Holy Eeason; for
+Eeason, the Eldest [of all Angels], is God's Likeness [or
+Image]." ®
+
+And so also we read elsewhere :
+
+" But the Eeason (Logos) is God's Likeness, by whom
+[sc, Eeason] the whole Cosmos was fashioned."^
+
+This Divine Eeason of things, then, was the means by
+which the Cosmos came into existence. And so we
+find Philo writing :
+
+"But if anyone should wish to make use of naked
+
+1 Deut. xiv. 1. A. V. : ** Ye are the children of the Lord your
+God." LXX. : "Ye are the sons of the Lord your God."
+
+2 Deut. xxxii. 18. A.V. : " God that formed thee." LXX. has
+the same reading as Philo.
+
+3 Deut. xxxii. 6.
+
+^ O'PX'h, or Source, Beginning, as in the Proem to the Fourth
+Gospel.
+
+^ Gen. xlii. 11.
+
+6 De Gonfus. Ling,, § 28 ; M. i. 426, 427, P. 341 (Ri. ii. 279).
+
+7 De Monarch., ii. § 5 ; M. ii. 225, P. 823 (Ri. iv. 302).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDBIA 235
+
+terms, he might say that the intelligible order of things ^
+is nothing else than the Reason {Logos) of God per-
+petually creating the [sensible] world-order.
+
+The City of God
+
+"For the Intelligible City is nothing else but the
+reasoning of the Architect determining in His Mind to
+found a city perceivable by the senses after [the model
+of] the City which the mind alone can perceive.
+
+" This is the doctrine of Moses and not [only] mine.
+At any rate in describing the genesis of man he ex-
+pressly agrees that he [man] was fashioned in the image
+of God. And if this is the case with the part — the
+image of the Image — it is plainly also the case with the
+whole Form, that is the whole of this sensible cosmos,
+which is a [far] greater imitation of the Divine Image
+than the human image is.
+
+"It is plain, moreover, that the Archetypal Seal,
+which we call Cosmos which is perceptible only to the
+intellect, must itself be the Archetypal Pattern,^ the
+Idea of ideas, the Eeason (io^os) of God."^
+
+And elsewhere also he writes :
+
+"Passing, then, from details, behold the grandest
+House or City, namely, this cosmos. Thou shalt find
+that the cause of it is God, by whom it came into exist-
+ence. The matter of it is the four elements, out of
+which it has been composed. The instrument by means
+of which it has been built, is the Eeason (Logos) of God.
+And the object of its building is the Gooduess of the
+Creator."^
+
+And again :
+
+1 Or the cosmos, which is comprehensible by the intellect alone.
+
+2 Or Paradigm.
+
+^ De Mund. Op., § 6 ; M. i. 5, P. 5 (Ri. i. 9).
+
+4 De Cherah., § 35 ; M. i. 162, P. 129 (Ri. i. 228).
+
+Hosted by VjOOQIC
+
+
+236 THRICE-GREATEST HERMES
+
+God's Shadow
+
+" Now the Eeason {Logos) is the Likeness of God, by
+which the whole cosmos was made." ^
+
+And still more clearly :
+
+"But God's Shadow is His Eeason {Logos), which
+using, as it were an instrument, He made the cosmos.
+And this Shadow is as it were the Archetypal Model of
+all else. For that as God is the Original of His Image,
+which he [' Moses '] now calls [His] Shadow, so, [in its
+turn] that Image is the model of all else, as he [* Moses ']
+showed when, at the beginning of the law-giving, he
+said : ' And God made man according to the Image of
+God/ 2 — this Likeness being imaged according to God,
+and man being imaged according to this Likeness,
+which received the power of its Original." ^
+
+Moreover, the Divine Eeason, as an instrumenfc, is
+regarded as the means of separation and division :
+
+" So God, having sharpened His Eeason {Logos), the
+Divider of all things, cut off both the formless and
+undifferentiated essence of all things, and the four
+elements of cosmos which had been separated out of
+it,* and the animals and plants which had been com-
+pacted by means of these." ^
+
+With this we may compare the following passage
+from The Acts of John, where we read of the Logos :
+
+" But what it is in truth, as conceived of in itself,
+and as spoken of to thee,^—it is the marking-off [or
+delimitation] of all things, the firm necessity of those
+
+1 De Monarch., ii. § 5 ; M. ii. 225, P. 823 (Ri. iv. 302).
+
+2 Gen. i. 26.
+
+3 Leg. Alleg., iii. § 31 ; M. i. 106, 107, P. 79 (Ri. i. 152, 153).
+
+4 Sc. the essence.
+
+6 Sc. elements. Quis Ber, Div. Her,, § 27 ; M. i. 492, P. 500
+(Ri. iii. 32).
+
+^ John, to whom the Master is speaking.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 237
+
+things that are fixed and were unsettled, the Harmony
+of Wisdom." i
+
+But to return to the concept of the Logos as symbolised
+by the idea of a City ; speaking of the six " cities of
+refuge," Philo allegorises them as follows :
+
+" Is not, then, the most ancient and most secure and
+best Mother-city, and not merely City, the Divine Season
+{Logos) y to which it is of the greatest service to flee first ?
+
+" The other five, as though they were colonies [from
+it], are the Powers of the Speaker [of this Word
+{Logos) ], of which the chief is the Creative [Potency],
+according to which He who creates by Eeason [or Word],
+fashioned the cosmos. The second is the Sovereign
+[Potency], according to which He who created, ruleth
+that which is brought into existence. The third is the
+Merciful [Potency], by means of which the Artist hath
+compassion and hath mercy on His own work. The
+fourth is the Legislative Providence, by means of which
+He doth forbid the things that may not be. . . ."^
+
+Philo then regards these " cities " as symbolising the
+refuges to which the various kinds of erring souls
+should flee to find comfort. If the Divine Eeason, and
+the Creative and Sovereign (Kingly) Powers are too
+far off for the comprehension of the sinner's ignorance,
+then he should flee to other goals at a shorter distance,
+the "cities" of the Necessary Powers, namely, the
+Powers of Mercy and of the Law, which latter are
+twofold, Enjoining and Forbidding, the latter again of
+which is referred to vaguely, at the end of the chapter,
+as the *' averting of evils " without further definition.
+
+1 F, F. F., 436.
+
+2 De Prof., § 18 ; M. i. 560, P. 464 (Ri. iii. 130). There is un-
+fortunately a lacuna in the text, so that we do not learn the char-
+acteristics of the fifth potency ; but this is explained elsewhere, —
+the Legislative Providence being a twofold potency, namely, the
+Enjoining and the Forbidding.
+
+
+Hosted by
+
+
+Google
+
+
+238 THRICE- GREATEST HERMES
+
+Moreover, Philo continues, there are symbols of these
+five Potencies mentioned in the Scriptures :
+
+" [The symbols] of Command and Prohibition are the
+[two tables of the] laws in the ark ; of the Merciful
+Potency, the top of the ark, which he ['Moses'] calls
+the Mercy -seat; of the Creative and Sovereign
+[Potencies], the winged Cherubim, who are set over it.
+
+" But the Divine Reason {Logos) above them did not
+take any visible shape, inasmuch as no sensible object
+answers to it, for it is the very Likeness of God, the
+Eldest of all beings, one and all, which are cognisable by
+mind alone, the nearest to the [One and] Only One-
+that-is, without a space of any kind between, copied
+inerrantly.
+
+" For it is said : * I will speak to thee from above
+the Mercy-seat, from between the two Cherubim/^
+
+" So that he who drives the Chariot ^ of the Powers is
+the Word {Logos), and He who is borne in the Chariot
+is He who speaks [the Word], giving commandment to
+the Driver for the right driving of the universe. '* ^
+
+The True Shepherd
+
+Again, speaking of God as the True Shepherd of the
+universe and all things therein, the elements and all
+therein, the sun, moon, and planets, the stars and
+heavens, Philo writes :
+
+"[He placed] at the head His own True Eeason
+{Logos), His First-born Son, who shall succeed unto the
+care of this sacred flock, as though he were the lieutenant
+of the Great King" ^
+
+1 Ex. XXV. 22.
+
+2 This plainly refers to the Mercabah or Chariot of the Vision
+of Ezechiel.
+
+3 De Prof., § 19 ; M. i. 561, P. 465 (Ri. iii. 131).
+
+4 De Agric, § 12 ; M. i. 308, P. 196 (Ri, ii. 116).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 239
+
+The Divine Eeason of things, moreover, is regarded
+as the Pleroma or Fullness of all powers, — ideal space,
+and ideal time, if such terms can be permitted. The
+Logos is the ^on or Eternity proper. And so Philo
+speaks of :
+
+"The Divine Eeason {Logos) whom God Himself
+hath full-filled entirely and throughout with incorporeal
+powers." ^
+
+The Apostles of God
+
+This Supreme Logos, then, is filled full of powers —
+words, logoi, in their turn, energies of God. As Philo
+writes :
+
+" For God not disdaining to descend into the sensible
+world, sends forth as His apostles His own * words' (logoi)
+to give succour to those who love virtue ; and they act
+as physicians and expel the diseases of the soul/' ^
+
+These " words '* or " reasons " are men's angels ; they
+are the "light-sparks" or "rays" in the heart — of
+which we hear so much in " Gnostic " and allied litera-
+ture — all from the Father-Sun, the Light of God, or
+Logos proper, which Philo calls " the Light of the
+invisible and supremest Deity that rays and shines
+transcendently on every side."
+
+The Ladder of the "Words"
+
+"When this Light shineth into the mind, the
+secondary beams of the * words ' (logoi) set [or are
+hidden]." ^
+
+In treating of the allegorical Ladder set up from
+earth to heaven, Philo first gives what he considers to
+
+1 De Som., i. § 11 ; M. i. 630, P. 574 (Ei. iii. 227).
+
+2 Ibid., § 12 ; M. 1. 631, P. 575 (Ri. iii. 229).
+hlhid., § 13.
+
+
+Hosted by
+
+
+Google
+
+
+240 THRICE-GREATEST HERMES
+
+be its cosmic correspondences and then applies the
+figure to the little world of man :
+
+" The ladder {KKlfxa^), then, symbolically spoken of,
+is in the cosmos somewhat of the nature I have
+suggested. But if we turn our attention to it in man,
+we shall find it is the soul ; the foot of which is as it
+were its earthly part — namely, sensation, while its head
+is as it were its heavenly part — the purest mind.
+
+" Up and down through all of it the * words ' Qogoi)
+go incessantly; whenever they ascend, drawing it up
+together with them, divorcing it from its mortal nature,
+and revealing the sight of those things which alone are
+worth the seeing; — not that when they descend they
+cast it down, for neither God nor yet God's Word
+{Logos) is cause of any loss.
+
+"But they accompany them^ [in their descent] for
+love of man and pity of our race, to succour, and give
+help, that they, by breathing into them their saving
+breaths, may bring the soul to life, tossed as it is upon
+the body ['s waves] as on a river f s bosom].
+
+" It is the God and Governor of the uni^jerse alone
+who doth, transcending sound and sight, walk 'mid the
+minds of them who have been throughly purified. For
+them there is an oracle, which the sage prophesied, in
+which is said : ' I will walk amid you ; and I will be
+your God/ ^
+
+"But in the minds of them who are still being
+washed, and have not yet had throughly cleansed the
+life that is befouled and stained with bodies' grossness,
+it is the angels, the ' words ' Qogoi) divine, making them
+bright for Virtue's eyes." ^
+
+This Light of God is, as has repeatedly been said
+before, the Divine Eeason of things.
+
+1 Sc, tlie souls. 2 Lgy^ xxvi. 12..
+
+3 De Som., § 23 ; M. i. 642, 643, P. 587 (Ri. iii. 245, 246).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 241
+
+*' ' For the Lord is my Light and my Saviour/ ^ as is
+sung in the Hymns ; — [He is] not only Light, but the
+Archetype of every other light ; nay rather more ancient
+and sublime than the Archetypal Model [of all things],
+in that this [latter] is His Word {Logos). For the
+[Universal] Model is His all-full 2 Word, the Light,
+while He Himself is like to naught of things created/'^
+
+The Logos the Spiritual Sun
+
+This Word, or Logos, is further symbolised among
+phenomena as the sun. The Spiritual Sun is the Divine
+Eeason — "the intelligible Model of the [sun] that
+moves in heaven/'
+
+** For the Word (Logos) of God, when it enters into
+our earthly constitution, succours and aids those who
+are Virtue's kinsmen, and those that are favourably
+disposed to her, affording them a perfect place of refuge
+and salvation, and shedding on their foes * destruction
+and ruin past repair." ^
+
+The Logos is thus naturally the panacea of all ills.
+
+"For the Word {Logos) is, as it were, the saving
+medicine for ail the wounds and passions of the soul,
+which [Word], the lawgiver declares, we should restore
+* before the sun's going down'^ — that is, before the
+
+1 Ps. xxvii. 1. A.V. "salvation." LXX. reads <p(aTia-fx6s,
+"illumination" — a technical term among the mystics of Early
+Christendom for baptism — instead of the 0«s of Philo.
+
+2 That is, the Logos as Pleroma.
+
+3 De Som., § 13. ^ Sc. the vices of the soul.
+
+5 Bid., § 15 ,• M. i. 363, R 5*78 (Ri. iii. 232).
+
+6 This seems to be somewhat reminiscent of the custom of
+evening prayer in the Therapeut and other similar communities,
+when, at the time of the setting of the sun, it was enjoined that
+" rational " praises should be restored or given back to God, for
+benefits received.
+
+Philo, however, is here somewhat laboriously commenting, in
+VOL. I. 1 6
+
+Hosted by VjOOQIC
+
+
+242 THRICE-GREATEST HERMES
+
+most brilliant rays of God, supremest and most mani-
+fest, go down [or set] — [rays] which through His pity
+for our race He has sent forth from [His high] Heaven
+into the mind of man.
+
+" For whilst that Light most Godlike abideth in the
+soul, we shall restore the ' word ' (logos) that hath been
+given to us in pledge, as though it were a garment,
+that it may be to him who doth receive it, the special
+property of man — [a garment] both to cover up the
+shame ^ of life, and to enjoy the gift of God and have
+respite in quietude, by reason of the present help of
+such a counsellor, and of a shielder such as will never
+leave the rank in which he hath been stationed." ^
+
+From all of which it seems that Philo is drawing a
+distinction between the Pure Light of the Logos and
+the reflection of that Light in the reason of man, for
+he goes on to say :
+
+" Indeed we have prolonged this long excursus for no
+other reason than to explain that the trained mind,
+moved by irregular motions to productiveness and its
+contrary, and, as it were, continually ascending and
+descending [the ladder] — when it is productive and
+raised into the height, then is it bathed in radiance of
+the archetypal immaterial rays of the Logic ^ Source of
+God who bringeth all unto perfection ; and when it
+doth descend and is barren, it is illumined by their
+
+allegorical fashion, on the j)awnbroking bye-law in Ex, xxii. 26,
+27 : " But if thou takest in pledge thy neighbour's garment, thou
+shalt give it him back before the going down of the sun. For
+this is his covering ; this is the only garment of his indecency.
+In what [else] shall he sleep ? If, then, he shall cry unto me, I
+will give ear to him ; for I am pitiful." (See § 16.) The A.V,
+translates otherwise.
+
+^ Cf, the well-known logos from the Gospel according to the
+Egyptians, "Unless ye tread on the garment of shame."
+
+2 De Som.y § 18 ; M. i. 637, P. 582 (Ri. iii. 238).
+
+3 Or Bational.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 243
+
+images, the * words ' (logoi) immortal, whom it is custom
+to call angels." ^
+
+
+The Disciples of the Logos
+
+And a little later on Philo proceeds to speak of those
+who are disciples or pupils of the Holy Word or Divine
+Eeason.
+
+"These are they who are truly men, lovers of
+temperance, and orderliness, and modesty," — whose life
+he proceeds further to describe in similar terms to those
+he uses of the Therapeuts.
+
+Such a life, he concludes, "is adapted not for
+those who are called men, but for those who are
+truly so." 2
+
+For those, then, who consciously set their feet upon
+the ladder of -true manhood, there is a Way up even to
+Deity Itself, for Philo writes :
+
+" Stability, and sure foundation, and eternally abid-
+ing in the same, changeless and immovable, is, in the
+first place, a characteristic of That-which-is ; and, in
+the second, [a characteristic] of the Eeason {Logos)
+of That-which-is — which Eeason He hath called his
+Covenant ; in the third, of the wise man ; and in the
+fourth, of him who goeth forward [towards wisdom]." ^
+
+How, then, continues Philo, can the wicked mind
+think that it can stand alone — " when it is swept
+hither and thither by the eddies of passion, which carry
+the body forth to burial as a corpse ? "
+
+And a little later on he proceeds to tell us that Eden
+must be taken to stand for the Wisdom of God.
+
+1 Ihid,, § 19 ; M. i. 638, P. 582 (Ri. iii. 239).
+
+2 lUd., 20 ; M. i. 639, P. 584 (Ri. iii. 241). Of. G. JBT., x. (xi.)
+24.
+
+3 De Som,, ii. § 36 ; M. i. 690, P. 1140 (Ri. iii. 312).
+
+
+Hosted by
+
+
+Google
+
+
+244 THRICE-GREATEST HEKMES
+
+'* And the Divine Eeason {Logos) jflowetli down like
+a river, from Wisdom, as from a source, that it may
+irrigate and water the heavenly shoots and plants of
+Virtue-lovers, that grow upon the sacred Mountain of
+the Gods,^ as though it were a paradise.
+
+The Eiver of the Divine Reason
+
+" And this Holy Eeason is divided into four sources
+— I mean it is separated into four virtues — each of
+which is a queen. For its being divided into sources ^
+does not bear any resemblance to division of space, but
+rather to a sovereignty,^ in order that, having pointed
+to the virtues, as its boundaries, he ['Moses'] may
+immediately display the wise man, who makes use of
+these virtues, as king, elected to kingship, not by the
+show of men's hands, but by choice of that Nature
+[namely. Virtue] which alone is truly free, and genuine,
+and above all bribes. . . .
+
+"Accordingly, one of the companions of Moses,
+likening this Word {Logos) to a river, says in the
+Hymns : * The river of God was filled with water.' *
+
+" Now it is absurd that any of the rivers flowing on
+earth should be so called ; but, as it seems, he [the
+psalmist] clearly signifies the Divine Eeason {Logos),
+full of the flood of Wisdom, having no part of itself
+bereft or empty [thereof], but rather, as has been said,
+being entirely diffused throughout the universe, and
+[again] raised up to the height [thereof], by reason of
+
+1 Lit., Olympian.
+
+2 apxoX mean sources, but also principles and sovereignties.
+It is, however, impossible to keep the word-play in English.
+
+3 Or kingdom, namely, " of the heavens," or rulership of the
+celestial realms, or rather of one's self.
+
+4 Ps. Ixv. 9. So also LXX. ; but A.V., " Thou greatly en-
+richest it with the river of God, which is full of water."
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 245
+
+the perpetual and continuous [circling] course of that
+eternally flowing fountain.
+
+" There is also the following song-verse : ' The rapid
+flow of the river maketh glad the city of God.' ^
+
+Jerusalem Above
+
+" What kind of city ? For what is now the holy
+city ,2 in which is the holy temple, was founded at a
+distance from sea and rivers ; so that it is clear that
+[the writer] intends to represent by means of an under-
+meaning something different from the surface-senSe.
+
+'' For indeed the stream of the Divine Eeason (Logos)
+continually flowing on with rapidity and regularity,
+diffuses all things through all and maketh them glad.
+
+" And in one sense he calls cosmos the City of God,
+inasmuch as, receiving the whole cup^ of the Divine
+draught it . , .,^ and, being made joyous, it shouteth
+with a joy that can never be taken away or quenched
+for the eternity.
+
+'' But in another sense [he uses it of] the soul of the
+wise man, in which God is said to walk as in a city, for
+* I will walk in you and I will be your, God/ ^
+
+" And for the happy soul that stretches forth its
+own reasoning ^ as a most holy drinking vessel '^ — who
+is it that poureth forth the sacred measures of true joy,
+if not the cup-bearer of God, the [Divine] Eeason (Logos),
+who is master of the feast ? — he who differs not from
+
+1 Ps. xlvi. 4 LXX. lias the plural, rivers or streams. A.V.
+translates : " There is a river the streams whereof shall make glad
+the city of God."
+
+2 The physical Jerusalem in Palestine.
+
+3 KpaTTjpa — lit., crater or mixing-bowl.
+* A lacuna occurs here in the text.
+
+^ A loose quotation of Lev. xxvi. 12, as already cited above.
+^ Xoyifffiov. ' iK-nwfia.
+
+
+Hosted by
+
+
+Google
+
+
+246 THRICE-GREATEST HERMES
+
+the draught, but is himself unmingled delight, and
+sweetness, f orthpouring, good-cheer, the immortal philtre
+of all joy and of contentment, — if we may use the words
+of poetry.
+
+" But the City of God the Hebrews call Jerusalem,
+which by interpretation signifies the ' Sight of Peace.'
+Wherefore seek not the City of That-which-is in
+regions of the earth — for 'tis not made of stocks and
+stones ; but [seek it] in the soul that doth not war, but
+offers unto them of the keen sight a life of contemplation
+and of peace." -^
+
+This, then, is how Philo understands the New Jeru-
+salem (or Ogdoad), so familiar to us from the writings
+of the " Gnostic " schools, beyond which was the Pleroma
+or Treasure of Light. For elsewhere he writes :
+
+" He will offer a fair and fitting prayer, as Moses did,
+that God may open for us His Treasure, yea [His]
+Keason {Logos) sublime, and pregnant with lights divine,
+which he [* Moses '] has called Heaven." 2
+
+These "lights" are "reasons" {logoi), for a little
+further on he says :
+
+**Thou seest that the soul is not nourished with
+things earthly and contemptible, but by the reasons
+God rains down from His sublime and pure nature,
+which he [' Moses '] calls Heaven." ^
+
+The Logos is as Manna and Coriander Seed
+
+And a little further on, referring to the allegorical
+" manna,'' or heavenly food, " the bread which the Lord
+hath given you to eat " (Ex. xvi. 13), he writes :
+
+1 De Som., ii. §§ 37-39 ; M. i. 690-692, P. 1141, 1142 (Ri. iii.
+312-315).
+
+2 Leg, Alleg., iii. § 34 ; M. i. 108, P. 80 (Ei. i. 155).
+
+3 Ibid., g 56 ; M. 1. 119, P. 90 (Ri. i. 170).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 247
+
+" Dost thou not see the food of the soul, what it is ?
+It is the Continuing Eeason {Logos) of God, like unto
+dew, encircling the whole of it [the soul] on all sides,
+and suffering no part of it to be without its share of
+it [the Logos],
+
+"But this Eeason is not apparent everywhere, but
+[only] in the man who is destitute of passions and vices ;
+yea, subtle is it for the mind to distinguish, or to be
+distinguished by the mind, exceedingly translucent and
+pure for sight to see.
+
+"It is, moreover, as it were, a coriander seed.^ For
+agriculturalists declare that the seed of the coriander
+can be divided and dissected infinitely, and that every
+single part and section [thereof], when sown, comes up
+just as the whole seed. Such also is the Eeason {Logos)
+of God, profitable in its entirety and in every part,
+however small it be." ^
+
+And he adds a little further on :
+
+" This is the teaching of the hierophant and prophet,
+Moses, who will say : * This is the bread, the food
+which God hath given to the soul,'^ that He hath
+given [us] for meat and drink, His own Word,^ His
+own Eeason,^ for this [Eeason] is the bread which He
+hath given us to eat ; this is the Word." ^
+
+The Logos is the Pupil of God's Eye
+
+Philo also likens the Divine Eeason to the pupil of
+the eye — a figure that will meet us later in considering
+the meaning of the Kopn K6<riuLov ("Virgin of the
+World") treatise — for he writes:
+
+1 The grain of mustard seed of the Gospels and of the " Gnostics."
+'^ Ibid,, § 69 ; M. i. 121, 122, P. 92 (Hi. i. 172, 173).
+3 A gloss on Ex. xiv. 15.
+
+
+* p7}ij.a, ° \6yos,
+
+6 Leg, Alleg., iii., § ; M. i. 121, P. 92 (Ri. i. 173),
+
+
+Hosted by
+
+
+Google
+
+
+248 THRICE-GREATEST HERMES
+
+" May not [this Eeason] be also likened to the pupil
+of the eye? For just as the eye's pupil, though the
+smallest part [of it], does yet behold all of the zones of
+things existing — the boundless sea, and vastness of the
+air, and all of the whole heaven which the sun doth
+bound from east to west, — so is the sight of the Divine
+Eeason the keenest sight of all, so that it can behold
+all things ; by which [men] shall behold things worthy
+to be seen beyond white [light] ^ itself.
+
+" For what could be more bright or more far-seeing
+than Eeason Divine, by shining in which the other
+[lights] drive out all mist and darkness, striving to
+blend themselves with the souFs light." ^
+
+*'Man shall not Live by Bread Alone"
+
+And again, in a passage of intense interest we read :
+
+"For He nourisheth us with His Eeason (Logos) —
+the most general [of all things]. . . . And the Eeason
+of God is above the whole cosmos; it is the most
+ancient and most general of all the things that are.
+
+" This Eeason the ' fathers ' ^ knew not, — ^not [our]
+true [eternal] fathers, but those hoary in time, who
+say : ' Let us take a leader, and let us return unto ' —
+the passions of — * Egypt.' ^
+
+"Therefore let God announce His [good] tidings to
+the soul in an image : * Man shall not live by bread
+alone, but by every word ^ that proceedeth out of the
+mouth of God,' ^ — that is, he shall be nourished by the
+whole of Eeason (Logos) and by [every] part of it.
+For 'mouth' is a symbol of the [whole] Logos, and
+' word ' is its part." ^
+
+1 The reading seems to be faulty. 2 JUd., § 59,
+3 Of. Deut. viii. 13. ^ j^um. xiv. 4.
+
+5 P'fuxaTi. 6 Deut. viii. 3.
+
+7 Leg. Alleg., iii. § 61 ; M. i. 121, P. 93 (Ri. i. 174).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA . 249
+
+These " fathers/' then, are those of the lower nature,
+and not our true spiritual parents ; it is these " fathers "
+that we are to abandon.
+
+Compare with this Matt, x, 37 : " He who loveth
+father and mother more than Me is not worthy of Me " ;
+and the far more striking form of the tradition in Luke
+xiv. 26 : " If any man cometh unto Me, and doth not
+hate his own father and mother and wife and children
+and brethren and sisters, yea and his own soul also, he
+cannot be My disciple."
+
+In the Gnostic gospel, known as the Pistis Sophia
+(341), the mystic meaning of these parents is given at
+length, as signifying the rulers of the lower nature,
+and the Master is made to say : '* For this cause have I
+said unto you aforetime, * He who shall not leave father
+and mother to follow after Me is not worthy of Me.'
+What I said then was, ' Ye shall leave your parents
+the rulers, that ye may be children of the First Ever-
+lasting Mystery.' "
+
+But the most arresting point is that Matt. iv. 4, in
+the story of the Temptation, quotes precisely the same
+words of the LXX. text of Deut. viii. 3 which Philo
+does, beginning where he does and finishing where he
+does, both omitting the final and tautological -'shall
+man live" — a very curious coincidence, Luke iv. 4
+preserves only the first half of the sentence; but it
+evidently lay in exactly the same form in which Philo
+uses it before the first and third Evangelists in their
+second or ** Logia " source. It was, then, presumably a
+frequently quoted text.
+
+
+The Logos-Mediator
+
+The Divine Eeasonis further figured as a true "Person,"
+the Mediator between God and man. Thus Philo writes :
+
+
+Hosted by
+
+
+Google
+
+
+250 THRICE-GREATEST HERMES
+
+" And on His angel-ruling and most ancient Eeason
+{Logos), the Father who created all, hath bestowed
+a special gift — that standing between them us a
+Boundary,^ he may distinguish creature from Creator.
+
+** He [the Eeason] ever is himself the suppliant unto
+the Incorruptible on mortal kind's behalf in its distress,
+and is the King's ambassador to subject nature.
+
+"And he exulteth in his gift, and doth majesticly
+insist thereon, declaring: 'Yea, have I stood between
+the Lord and you,'^ — not increate as God, nor yet
+create as ye, but in the midst between the [two]
+extremes, hostage to both: to Him who hath created
+him, for pledge that the creature never will remove itself
+entirely [from Him], nor make revolt, choosing disorder
+in order's place ; and to the thing created for good hope
+that God, the Merciful, will never disregard the work
+of His own hands. ' For I will herald forth the news
+of peace to the creation from Him who knows how to
+make wars to cease, from God the Everlasting Peace-
+keeper.' " ^
+
+In considering what is claimed to be the elaborate
+symbolism of the sacred vestments of the High Priest,
+and the nature of this symbolical ofBce, Philo declares
+that the twelve stones upon the breast of the High
+Priest, in four rows of three each, are a symbol of the
+Divine Eeason {Logos), which holds together and regu-
+lates the universe ; this breastplate, then, is the logion
+or sacred oracle of God.
+
+" For it was necessary that he who was consecrated
+to the Father of the cosmos, should have [His] Son,
+
+1 Gf. the "Gnostic" Horos (not the Egyptian Hdrus) as
+referred to previously.
+
+2 Perhaps a reflection of Num. xvi. 48.
+
+3 Quis Rer, Div. Her., § 42 ; M. i. 501, 502, P. 604 (Ri. iii.
+45, 46).
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 251
+
+the most perfect in virtue, as intercessor,^ both for the
+forgiveness^ of sins, and for the abundant supply of
+the most unstinted blessings.
+
+" It probably also imparts the preliminary teaching
+to the Servant of God,^ that if he cannot be worthy of
+Him who made the cosmos, he should nevertheless
+without ceasing strive to be worthy of that cosmos;
+for when he has [once] been clothed with its likeness,*
+he is bound forthwith, by carrying about the image of
+the model ^ in his head, of his own self to change him-
+self as though it were from man into the nature of the
+cosmos, and, if we ought to say so^ — nay, he who
+speaks on truth ought to speak truth ! — be [himself] a
+little cosmos/' ^
+
+The Yoga op Plotinus
+
+With these most instructive indications we may
+compare the intensely interesting passage of Plotinus
+in his essay " On Intelligible Beauty/' where he gives
+his yoga-system, so to speak. It is perhaps the most
+important passage that has come down to us from the
+coryphaeus of Later Platonism, giving, as it does, in
+every probability, the method of the school whereby
+ecstasis was attained.
+
+1 irapaKX-fiTcp — as paraclete, or intercessor, or defender (a term
+of the law courts), or comforter.
+
+2 afivTja-niap — lit., amnesty, or forgetfulness of wrong.
+
+3 rhv rov O^ov eipairevr^p — the Therapent.
+
+'^ The dress of the High Priest, then, symbolised the cosmos —
+the elements, etc. May we deduce from this that in one of the
+Therapeut initiations the approved candidate was clothed in such
+a symbolic robe 1
+
+5 Sc. the Logos as cosmos.
+
+^ Signifying a religious scruple as referring to a matter of
+initiation.
+
+7 De Vit. Mos., iii. § 14 ; M. ii. 155, P. 673 (Ri. iv. 212, 213).
+
+
+Hosted by
+
+
+Google
+
+
+252 THRICE-GREATEST HERMES
+
+" Let US, then, form a mental image of this cosmos
+with each of its parts remaining what it is, and yet
+interpenetrating one another, [imagining] them all
+together into one as much as we possibly can, — so that
+whatsoever one comes first into the mind as the ' one '
+(as for instance the outer sphere), there immediately
+follows also the sight of the semblance of the sun, and
+together with it that of the other stars,^ and the earth,
+and sea, and all things living, as though in [one]
+transparent sphere, — in fine, as though all things
+could be seen in it.
+
+" Let there, then, be in the soul some semblance of
+a sphere of light [transparent], having all things in it,
+whether moving or still, or some of them moving and
+others still.
+
+" And, holding this [sphere] in the mind, conceive in
+thy self another [sphere], removing [from it all idea of]
+mass; take from it also [the idea of] space, and the
+phantom of matter in thy mind ; and do not try to image
+another sphere [merely] less in bulk than the former.
+
+"Then invoking God who hath made [that true sphere]
+of which thou boldest the phantom [in thy mind], pray
+that He may come.
+
+" And may He come with his own cosmos,^ with all
+the Gods therein — He being one and all, and each one
+all, united into one, yet different in their powers, and
+yet, in that one [power] of multitude all one.
+
+" Nay, rather the One God is all [the Gods] for that
+He falleth not short [of Himself] though all of them
+are [from Him] ; [and] they are all together, yet each
+again apart in [some kind of] an unextended state,
+possessing no form perceptible to sense.
+
+1 Presumably the seven "planetary spheres" of "difference,"
+as set forth in Plato's Timmus.
+
+2 Sc, the intelligible or spiritual world-order.
+
+
+Hosted by
+
+
+Google
+
+
+PHILO OF ALEXANDRIA 253
+
+*' For, otherwise, one would be in one place, another
+in another, and [each] be ' each,' and not * all ' in itself,
+without parts other from the others and [other] from
+itself.
+
+"Nor is each whole a power divided and proportioned
+according to a measurement of parts ; but this [whole]
+is the all, all power, extending infinitely and infinitely
+powerful; — nay, so vast is that [divine world-order^],
+that even its ' parts ' are infinite." ^
+
+The Eace of God
+
+But to return to Philo. The rational soul or mind
+of man is potentially the Intelligible Cosmos or Logos ;
+thus he writes :
+
+"The great Moses did not call the species of the
+rational soul by a name resembling any one of the things
+created, but he called it the image of the Divine and
+Invisible, deeming it a true [image] brought into being
+and impressed with the soul of God, of which the
+Signet is the Eternal Eeason {Logos)!' ^
+
+All of which the disciplined soul shall realise in
+himself. Of such a man Abraham is a type, for :
+
+"Abandoning mortal things, he 4s added to the
+people of God/^ plucking the fruit of immortality,
+having become equal to the angels. For the angels are
+the host of God, incorporeal and happy souls."
+
+1 Intelligible cosmos.
+
+^ Ennead, V. viii. (cap. ix.), 550 a-d.; Plot. Op. Om., ed. F.
+Creiizer (Oxford, 1835), ii. 1016, 1017. M. N. Boiiillet— in Les
+Enneades de Plotm (Paris, 1861), iii. 122, 123 — gives, as usual, an
+excellently clear rendering, but it is not easy to recognise some of
+his sentences in the text.
+
+3 De Plant. Noe, § 5 ; M. i. 332, P. 216, 217 (Ri. ii. 148).
+
+4 A gloss on Gen. xxv. 8 : " And was added (A.V. gathered) to
+his people."
+
+
+Hosted by
+
+
+Google
+
+
+254 THRICE-GREATEST HERMES
+
+The angels are the '* people " of God ; but there is a
+still higher degree of union, whereby a man becomes
+one of the " Race " or " Kin " of God. This " Race " is an
+intimate union of all them who are ** kin to Him " ; they
+become one. For this Race " is one, the highest one, but
+* people' is the name of many.''
+
+" As many, then, as have advanced in discipline and
+instruction, and been perfected [therein], have their lot
+among this * many.'
+
+" But they who have passed beyond these intro-
+ductory exercises, becoming natural Disciples of God,
+receiving wisdom free from all toil, migrate to this
+incorruptible and perfect Race, receiving a lot superior
+to their former lives in genesis." ^
+
+And that the mind is immortal may be shown alle-
+gorically from the death of Moses, who, says Philo,
+migrated " by means of the Word {Logos) of the Cause,^
+by whom the whole cosmos was created,"
+
+This is said " in order that thou mayest learn that
+God regards the wise man as of equal honour with the
+cosmos ; for it is by means of the same Reason {Logos)
+that He hath made the universe, and bringeth back the
+perfect man from earthly things unto Himself again." ^
+
+But enough of Philo for the moment. Sufficient has
+been given to let the reader hear the Alexandrian
+speak for himself on the central idea of his cosmos.
+Much else could be added — indeed, volumes could be
+written on the subject — for it gives us one of the most
+important backgrounds of Christian origins, and with-
+out a thorough knowledge of Hellenistic theology it is
+impossible in any way to get our values of many
+things correctly.
+
+1 De Sacrif., § 2 ; M. i. 164, P. 131 (Ri. i. 233).
+
+2 Deut. xxxiv. 5. A.V. : " According to the word of the Lord."
+
+3 De Sacrif,, § 3 ; M. i. 165, P. 131 (Ri. i. 233).
+
+
+Hosted by
+
+
+Google
+
+
+IX
+
+PLUTAECH: CONCEENmG THE MYSTEKIES
+OF ISIS AND OSIEIS
+
+Foreword
+
+In the chapter on Philo we attempted to set before the
+reader some outlines of the central doctrine of Hellen-
+istic theology — the sublime concept of the Logos
+
+as envisaged by a learned Jew of the Diaspora, steeped
+in Hellenism, and living in the capital of Egypt and
+the centre of the intellectual life of Greater Greece.
+
+In the present chapter we shall endeavour to give the
+reader a further insight into this master-idea from
+another standpoint, and shall reproduce the views of a
+learned Greek, who, while remaining on the ground of
+Hellenic traditions proper, turns his eyes to Egypt, and
+reads what part of its mysterious message he can
+decipher, in Greek modes of thought.
+
+Plutarch, of Chaeroneia in Boeotia, flourished in the
+second half of the first century A.D., and so follows
+immediately on Philo and on Paul ; like Philo, however,
+he knows nothing of the Christians, though like the
+Alexandrian he treats of precisely those problems and
+questions which were and are of pre-eminent interest
+for Christians.
+
+Plutarch chooses as his theme the myth and mysteries
+of Osiris and Isis. He gives the myth in its main
+outlines, and introduces us into the general religious
+
+
+255
+
+Hosted by
+
+
+Google
+
+
+256 THRICE-GREATEST HERMES
+
+atmosphere of the Egyptian belief of what we may,
+perhaps, be allowed to call " Demotic " times. But he
+does far more than this. Initiated himself into the
+Osiriaca, of which there was apparently a thiasos at
+Delphi, though on the one hand he possesses more
+knowledge of formal details than he feels himself per-
+mitted to disclose, on the other hand he is aware that
+the '* true initiate of Isis " is one who goes far beyond
+any formal reception of the symbolic mysteries; the
+true initiate must of his own initiative for ever keep
+searching and probing more deeply into the intimate
+reason of things, as adumbrated by the ''things said
+and done '* in the sacred rites (iii. 3).
+
+For this task Plutarch is well equipped, not only by
+his wide knowledge of the philosophy and theology and
+science of his day, but also by the fact that he held a
+high ojffice at Delphi in the service of Apollo and also
+in connection with the Dionysiac rites. He was almost
+certainly a hierophant, and no merely formal one at
+that.
+
+Plutarch accordingly gives a most instructive ex-
+position, which should enable us, if only we are content
+to put ourselves in his place, and condescend to think
+in the terms of the thought of his day, to review the
+ancient struggle between physical reason and formal
+theology which was then in full conflict — a conflict
+that has been renewed on a vastly extended scale for
+the last few centuries, and which is still being fought
+to a finish or honourable truce in our own day.
+
+Our initiated philosopher is on the side neither of
+atheism or pure physicism, nor on that of superstition,
+as he understood those terms in his day ; he takes a
+middle ground, and seeks final refuge in the fair vision
+of the Logos; and that, too, in all humility, for he
+knows well that whatever he can say is at best but a
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 257
+
+dim reflection of the glory of the Highest, as indeed he
+expressly tells us when writing :
+
+"Nor can the souls of men here on the earth,
+swathed as they are in bodies and enwrapped in
+passions, commune with God, except so far as they
+can reach some dim sort of a dream of Him with the
+perception of a mind trained in philosophy " (Ixxiii. 2).
+
+We accordingly find Plutarch discussing the various
+theories of his day which professed to explain the
+mythological and theological enigmas of the ancients,
+with special reference to the Osiris myth.
+
+He discusses the theory of Evemerus, that the gods
+were nothing but ancient kings and worthies, and
+dismisses it as no really satisfactory explanation (xxiii.).
+
+He then proceeds to consider the theory that these
+things refer to the doings of daimones, — which he
+thinks a decided improvement on that of Evemerus
+(xxv.).
+
+Thence he passes to the theories of the Physicists
+or natural phenomenalists (xxxil), and of the Mathe-
+matici — that is to say, the Pythagorean speculations as
+to the celestial spheres, and their harmonies (xli.).
+
+In each of these three latter theories he thinks there
+is some truth ; still each by itself is insufficient ; they
+must be combined (xlv.), and even then it is not enough.
+
+He next considers the question of first principles,
+and discusses the theories of the One, the Two, and
+the Many ; again finding something to be said for each
+view, and yet adopting none of them as all-sufficient.
+
+But of all attempted interpretations he finds the
+least satisfactory to be that of those who are content
+to limit the hermeneutics of the mystery-myths simply
+to the operations of ploughing and sowing. With this
+"vegetation god" theory he has little patience, and
+stigmatises its professors as that "dull crowd" (Ixv.).
+
+VOL. I. 17
+
+Hosted by VjOOQIC
+
+
+258 THRICE-GREATEST HERMES
+
+And here, perhaps, some of us may think that Plutarch
+is not out of date even in the twentieth century of
+grace, and his arguments might be recommended to the
+consideration of those anthropologists who are just
+now with such complacency running to death what
+Mr Andrew Lang humourously calls the "Covent
+Garden " theory.
+
+Further on, dealing as he does with the puzzling
+question of Egyptian "animal worship," Plutarch is
+brought face to face with many problems of " taboo "
+and '' totemism,'' and he is not without interest in what
+he says on these subjects (Ixxii. f.), and in the theories
+of utilitarianism and symbolism which he adduces
+(Ixxiv.).
+
+Finally, he gives us his view of the rationale of the
+custom of incense-burning (Ixxix.), which should be
+of some concern to many in present-day Christian
+communities.
+
+But the whole of this complex of custom and rites,
+puzzling and self-contradictory as they may appear,
+and the whole of the riddles and veiled enigmas of
+Egyptian priestly tradition, are, Plutarch believes,
+resolvable into transparent simplicity by a proper
+understanding of the true nature of man and of his
+relation to Divine Nature, that Wisdom who is the
+eternal and inseparable spouse of Divine Beasbn, the
+Logos.
+
+It would perhaps have been simpler for some of my
+readers-— it certainly would have been shorter — had
+I condensed what Plutarch has to say ; but my desire
+is rather to let this student of the comparative
+theology of his day speak for himself, and not to give
+my own views; for I still believe, in spite of the
+superior formal education of the twentieth century,
+that we cannot normally know more about the ancient
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 259
+
+mysteries and their inner purport than the best
+minds who were initiated into them while they still
+flourished.
+
+For not only are we without the precise data which
+these ancients possessed, but also the phase of thought
+through which we have recently been passing, and in
+which we mostly still are, is not one which can
+sympathetically tolerate those very considerations
+which, in my opinion, provide the most fertile ground
+of explanation of the true inwardness of what was
+best in those mystery-traditions.
+
+Moreover, I have thought it of service to give a full
+version of this treatise of Plutarch's from a decent
+critical text,^ for the only translation in English read
+by me is by no means a careful piece of work,^ and mani-
+festly rendered from a very imperfect text ; also, the
+language of Plutarch in some passages appears to me
+to be deserving of more careful handling than has as
+yet been accorded it, for a number of sentences seem
+to have been purposely phrased so as to be capable
+of conveying a double meaning.
+
+Finally, with regard to his own interpretation, I
+would suggest that Plutarch, as was natural to a Greek,
+has more insisted on intellectual modes of thought than
+perhaps an Egyptian priest would have been inclined
+to do ; for it seems probable that to the Egyptian mind
+the chief interest would lie in the possibility of the
+realisation of immediate contact with the Mystery in
+all those modes which are not so much intellectual as
+
+1 I use the texts of Parthey, Plutarch: t/ber Isis und Osiris
+(Berlin, 1850), and of Bernardakis, Flutarchi Ghaeronensis Moralia
+('* Bibliotheca Tenbneriana " ; Leipzig, 1889), ii. 471 ff.
+
+2 See King (C. W.), Plutarch's Morals: Th'eosophical Essays
+(London, 1889), pp. 1-71. S. Squire's Plutarch's Treatise of Isis
+and Osiris (Cambridge, 1744) I have not read, and few can pro-
+cure a copy nowadays.
+
+
+Hosted by
+
+
+Google
+
+
+260 THRICE-GREATEST HERMES
+
+sensible ; in other words, it would be by making himself
+a vehicle of the Great Breath in his body rather than
+a mirror of the Mystery in his mind, that the son of the
+Nile Land would seek for union.
+
+It is, moreover, of interest to find that Plutarch
+addresses his treatise to a lady. For though we have
+extant several moral tractates addressed to wives —
+such as Porphyry's Letter to Marcella, ^and Plutarch's
+Consolation to his own wife, Timoxena — ^it is rare to
+find philosophical treatises addressed to women, and
+nowadays many women are once more interested in
+such " philosophy,"
+
+Plutarch wrote his essay at Delphi (Ixviii. 6), and
+ijaddressed it to Klea, a lady who held a distinguished
+osition among the Delphic priestesses, and who had
+erself been initiated into the Osiriac Mysteries — her
+very name Klea being, perhaps, her mystery-name
+(xxxv.). The treatise is, therefore, addressed to one
+who was prepared to read into it more than appears on
+the surface.
+
+It should also be remembered that in all probability
+the main source of Plutarch's information was the now
+lost treatise of Manetho on the Egyptian Eeligion, and
+in this connection it is of interest to record Granger's
+opinion, who, in referring to Plutarch's De Iside et
+Osiride, says :
+
+"First he deals with those opinions which identify
+the Egyptian gods with natural objects — Osiris with
+the Nile, Isis with the land, and so on. Then he con-
+siders the interpretations of those who identify the gods
+with the sun and moon, etc. (ch. Ixi.). These specula-
+tions summarise for us, at first or second hand, some of
+the Hermetic books current in Plutarch's time." ^
+
+1 Granger (F.), " The Poemander of Hermes ^rismegistus,"
+Jour, Theol, Stud,, vol. v. No. 19, p. 399.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 261
+
+
+CONCERNING ISIS AND OSIEIS
+
+Address to Klea concerning Gnosis and the
+Search for Truth ^
+
+L 1.2 While all who have mind, Klea, should ask
+for all their blessings froD[i the Gods — let us, by pur-
+suing after them, pray to obtain from them those
+[blessings] of gnosis^ concerning them, as far as 'tis
+within the reach of men ; in that there's nothing
+greater for a man to get, nor more majestic for a God
+to give, than Truth.
+
+2. Of other things their God gives men what they
+require, whereas of mind and wisdom He gives a share *
+to them — since He [Himself] possesses these and uses
+[them].
+
+For the Divine is neither blest through silver and
+through gold, nor strong through thunderings and
+lightnings, but [blest and strong] by gnosis and by
+wisdom.
+
+3. And thus most finely of all things which he hath
+said about the Gods — sounding aloud :
+
+Yea have they both a common source and one [fair] native
+
+land ;
+But Zeus came into being first and he knew more —
+
+hath Homer made pronouncement of the primacy of
+Zeus as more majestic, in that in gnosis and in wisdom
+it ^ is older.
+
+4. Nay, I believe that the good fortune of aeonian
+life — the which the God hath gotten for his lot — is
+
+^ I have added some sub-headings as an indication of contents.
+2 I have numbered the paragraphs for greater convenience of
+reference. ^ iiriffTiifxris,
+
+A play on ZiBaxriv and iJLsra-Udoxriy, ^ Sc, the primacy.
+
+
+Hosted by
+
+
+Google
+
+
+262 THRICE-GREATEST HERMES
+
+that by reason of His gnosis the things in genesis
+should not entirely die; for when the knowing of
+existing things and being wise is taken from it, freedom
+from death is Time — not Life.
+
+
+The Art of Knowing and of Divinising
+
+II, 1. Wherefore the longing for the Godly state is
+
+a desire for Truth, and specially the [truth] about the
+
+Gods, in so much as it doth embrace reception of the
+
+sacred [things] — instruction and research;^ a work
+
+more holy than is all and every purging rite and
+
+temple-service, and not least pleasing to that Goddess
+
+whom thou servest, in that she is particularly wise and
+
+; wisdom-loving, seeing her very name doth seem to
+
+; indicate that knowing and that gnosis ^ is more suitable
+
+ito her than any other title.
+
+2. For that " Isis" is Greek,^ and [so is] " Typhon"—
+in that he's foe unto the Goddess, and is " puffed up " ^
+through [his] unknowing and deceit, and tears the Holy
+Eeason {Logos) into pieces and makes away with it ; the
+which the Goddess gathers up again and recomposes,
+and transmits to those perfected in the art of divinis-
+ing,^ — which by the means of a continually sober life
+
+^ rT]v fidOricriv , , , Kal ("hrtifftv. Mathesis was the technical
+Pythagorean term for gnosis.
+
+2 rh d^'€vai KoX t^v eir-ttr-T^juTjy — word-plays on Iffis,
+
+3 Cf. Ix. 2. The Egyptian of Isis is Ast.
+
+* r€rv<pwfx4uos — a play on rvfpcov — lit., "wrapped in smoke
+(tD0os)j" and because one so wrapped in smoke or clouds has his
+intelligence darkened, hence " puffed up with conceit," crazy and
+demented. Typhon is the dark or hidden side of the Father.
+
+^ 06ic6cr€ws (not in L. and S. or Soph.) ; it presumably comes
+from the stem of e^iSa, which means : (i.) to smoke with sulphur
+and so purify ; (ii.) to make divine {duos), and so transmute into
+godship. The sentence may thus also mean "those initiated
+into the sulphur rite" — a not impossible rendering when we
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 263
+
+and by [their] abstinence from many foods and sexual
+indulgences, tempers intemperate pleasure-love, and doth
+accustom [them] to undergo, without being broken down,
+the rigorous tasks of service in the sacred [rites], the
+end of which is gnosis of the First and Lordly One, the
+One whom mind alone can know,^ for whom the
+Goddess calls on [them] to seek, though He is by her
+side and one with her.
+
+3. Nay more, the very appellation of the holy [place]
+doth plainly promise gnosis, that is eidesis, of That-
+which-is ; for it is named Iseion, as though " of them
+who shall know''^ That-which-is, if that with reason
+{logos) and with purity^ we enter in the holy [places] of
+the Goddess.
+
+The True Initiates of Isis
+
+III. 1. Yet many have set down that she is Hermes'
+daughter, and many [that she is] Prometheus's, —
+holding the latter as discoverer of wisdom and fore-
+knowledge, and Hermes of the art of letters and the
+Muses' art.
+
+2. Wherefore, in Hermes-city, they call the foremost
+of the Muses Isis, as well as Eighteousness,^ in that she's
+
+remember the Alchemical literature which had its source in
+Chemia-Egypt. It will also permit us to connect brimstone with
+Typhon — ^hoofs and all !
+
+^ Or the Intelligible — votirov.
+
+2 eis'Ofxevcov rh ov — a play on iot-c't-ov — fut. of \/Ti^ (vid) from
+which comes also eXdvo-ts above. This may also mean "seeing " as
+well as " knowing," and thus may refer to the Epopteia or Mystery
+of Sight, and not the preliminary Mystery of Hearing (Muesis).
+
+3 daiois — another play on Jats ; cf. Ix. 3.
+
+4 SiKaioo-vynv, OV Justice (Maat), that is, the "power of the
+Judge," Hermes being Judge of the Scales. The Nine are the Paut
+of Hermes, he being the tenth, the mystery being here read
+differently from the Ogdoad point of view — that is to say, macro-
+cosmically instead of cosmically.
+
+
+Hosted by
+
+
+Google
+
+
+264 THRICE-GREATEST HERMES
+
+wise,^ as has been said,^ and shows ^ the mysteries of
+the Gods to those who are with truth and justice called
+the Carriers of the holy [symbols] and Wearers of the
+holy robes>
+
+3. And these are they who carry the holy reason
+{logos) about the Gods, purged of all superstition and
+superfluity, in their soul, as in a chest, and cast robes
+round it^ — in secret disclosing such [things] of the
+opinion^ about the Gods as are black and shadowy, and
+such as are clear and bright, just as they are suggested
+by the [sacred] dress.
+
+4. Wherefore when the initiates of Isis at their
+"death" are adorned in these [robes], it is a symbol
+that this Eeason {Logos) is with them ; and with Him
+and naught else they go thereJ
+
+5. For it is not the growing beard and wearing cloak
+that makes philosophers, Klea, nor clothing in linen
+and shaving oneself that makes initiates of Isis ; but a
+true Isiac is one who, when he by law ^ receives them,
+searches out by reason {logos) the [mysteries] shown and
+
+^ Or, perhaps, the reading shoiQd be "Wisdom."
+
+2 Cy. ii. 1.
+
+3 $€iKy{fov(rav — probably a play on diKaio(ri>v7)p,
+
+4 Upo(f>6pois Kal Upo(rr6Kois. Plutarch by his "with truth and
+justice" warns the reader against taking these words to mean
+simply the carriers of the sacred vessels and instruments in the
+public processions, and the sacristans or keepers of the sacred
+vestments.
+
+s ir^picrriwovns^ which also means componere — that is, to lay
+out a corpse and so to bury.
+
+6 ol^trews = 5(J|77s, appearance, seeming — that is, the public myth ;
+as opposed to \6yos=iiTi(rr'fiix'n, knowledge or reality.
+
+7 Or "walk there" — that is, in "Hades." Or, again, the
+" death" is the death unto sin when they become Alive and walk
+among the " dead " or ordinary men.
+
+8 That is, when the initiation is a lawful one, or really takes
+effect ; when a man's karma permits it, that is, after passing the
+proper tests.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 265
+
+done concerning these Gods, and meditates upon the
+truth in them.
+
+Why the Priests are Shaven and Wear Linen
+
+IV. 1. Now, as far as the " m^ny " are concerned, even
+this commonest and smallest [secret] is hid from them,
+— namely, why the priests cut off their hair, and wear
+linen robes ; for some do not at all care to know about
+these things, while others say that they abstain from
+[the use of] the sheep's wool, as they do from its flesh,
+because they hold it sacred, and that they shave their
+heads through being in mourning, and wear linen things
+on account of the colour which the flax in flower sends
+forth, resembling the eetherial radiance ^ that surrounds
+the cosmos.
+
+2. But the true cause, [the] one of all, is, as Plato says,
+[because] : *' It is not lawful for pure to touch not pure." *
+
+Now, superfluity^ of nourishment and excretion is
+nothing chaste or pure ; and it is from superfluities that
+wool and fur and hair and nails spring up and grow.
+
+3. It would, thus, be laughable for them to cut off
+their own hair in the purifications, shaving themselves,
+and making smooth their whole body evenly, and [then]
+put on and wear the [hair] of animals.*
+
+4. For indeed we should think that Hesiod, when he
+
+says :
+
+Nor from five-branched at fire-blooming of Gods
+Cut dry from green with flashing blade ^ —
+
+1 XP^av — also meaning surface, skin, and tone in melody.
+
+2 Phced,, 67 b.
+
+3 Tr^pliTcrcafia — also probably here a play on that which is " round
+the body " (-n-epl o-w/ta) — namely, the hair.
+
+4 epefXfxdTay — lit., "things nourished" (from rp4<p&>)y presum-
+ably a play on the " nourishment" {rpo(l)ii) above.
+
+^ Of. et Dies, 741 f. This scrap of ancient gnomic wisdom
+Hesiod has preserved, I believe, from the "Orphic" fragments
+
+
+Hosted by
+
+
+Google
+
+
+266 THRICE-GREATEST HERMES
+
+teaches that [men] ought to keep holy day only when
+pure of such [superfluities], and not at the sacred
+operations themselves have need of purification and the
+removal of superfluities.
+
+5. Again, the flax grows out of the deathless earth,
+and yields a fruit that man may eat, and offers him a
+smooth pure raiment that does not weigh upon the
+watcher,^ but is well joined for every hour,^ and is the
+least cone - bearing,^ as they say, — concerning which
+things there is another reason (logos).
+
+still in circulation in his day in Boeotia among the people from an
+Older Greece. I have endeavoured to translate it according to
+the most primitive meaning of the words. In later days it was
+thought that " five-branched " was the hand, and that the couplet
+referred to a prohibition against paring the nails at a feast of the
+Gods ! In this sense also Plutarch partly uses it. But if I am
+right in my version, we have in the lines a link with that very
+early tradition in Greece which in later times was revived by the
+Later Platonic School, in a renewed contact with the ancient
+Chaldaean mystery - tradition of the Fire, " Five - branched "
+would thus mean man, or rather purified man, and the saying
+referred to the ** pruning of this tree." In it also we have an
+example of a " Pythagorean symbol " three hundred years before
+Pythagoras. Finally, I would remind the reader of the Saying
+which the Master is said to have uttered as He passed to the Passion
+of the Crucifixion (Luke xxiii. 31) : "For if they do these things
+in the moist stock [A.V. green tree], what shall be done in
+the dryl" — presumably the quotation of an old gnomic saying
+or mystery logos. The "moist nature" is the feminine side of the
+" fiery " or " dry."
+^ Reading uKoirovvri for (tk^itovti — that is, the soul.
+
+2 eh&pfiocTTov 56 irphs -jraorav Sopav — "well adapted for every
+season " is the common translation ; the " hour," however, is a
+technical astrological term.
+
+3 Vulg,, "lice-producing" — but <pe^ip also means a special kind
+of pine producing small cones ; and the great cone was a symbol
+of the Logos, and the small cone of physical generation. It is
+also connected with <pe^ip<a, meaning to corrupt, and so to breed
+corruption.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 267
+
+Of the Eefbaining from Flesh and Salt and
+Superfluities
+
+V. 1. And the priests handle so hardly ^ the nature
+of superfluities, that they not only deprecate the many
+kinds of pulse, and of meats the sheep-flesh ^ kinds
+and swine-flesh kinds, as making much superfluity, but
+also at their times of purification they remove the salts
+from the grains,^ having other further reasons as well
+as the fact that it makes the more thirsty and more
+hungry sharpen their desire the more.
+
+2. For to argue that salts are not pure owing to the
+multitude of small lives ^ that are caught^ and die in
+them when they solidify themselves, as Aristagoras
+said,^ is naive.
+
+3. They are, moreover, said to water the Apis also
+from a special well, and by all means to keep him from
+the Nile, — not that they think His^ water stained
+with blood because of the Crocodile,^ as some think
+(for nothing is so precious to Egyptians as the Mle),
+
+1 Vulg., "endure with such difficulty" or "feel such disgust
+at."
+
+2 Referring usually to small animals of the sheep and goat
+kind, and more generally to all sacrificial animals.
+
+3 Or, perhaps, more generally, " the salt from their food." It
+more probably refers to mineral and not to vegetable salts.
+
+* That is animalculce.
+
+5 aXto-K^/xei/a— -probably a word-play on a\as (salts).
+
+6 Miiller, ii. 99. Aristagoras was a Greek writer on Egypt,
+who flourished about the last quarter of the 4th century B.C.
+
+7 Namely the Nile, as Osiris, or the Great Deep,
+
+s Mystically the " Leviathan " (e,g. of the " Ophites ") who lived
+in the Great Deep. Gf. also Ps. civ. 26, where, speaking of the
+Great Sea (25), it is written : " There go the ships [the harides,
+boats, or vehicles of souls], and there is that Leviathan [LXX.
+Dragon] whom thou hast fashioned to take his pastime [LXX.
+sport or mock] therein."
+
+
+Hosted by
+
+
+Google
+
+
+268 THRICE-GREATEST HERMES
+
+but that the water of Nile's superfluity^ on being
+drunk seems to make fat, nay, rather to make much
+too much of flesh.
+
+4. And [so] they do not wish the Apis to be so nor
+yet themselves, but [wish] to wear their bodies on
+their souls compact and light, and neither to com-press
+nor op-press them by the mortal part prevailing and its
+weighing down of the divine.
+
+On the Drinking of Wine
+
+VI. 1. And as for wine, the servants of the God in
+Sun-city ^ do not at all bring it into the sacred place,
+as 'tis not right [for them] to drink by day while He,
+their Lord and King, looks on.
+
+2. The rest [of them ^] use it indeed, but sparingly.
+They have, however, many times of abstinence at
+
+which they drink no wine, but spend them in the
+search for wisdom, learning and teaching the [truth]
+about the Gods.
+
+3. The kings used to drink it, though in certain
+measure according to the sacred writings, as Hecatseus
+has narrated,^ for they were priests [as well].
+
+4. They began to drink it, however, only from the
+time of Psammetichus ; ^ but before that they used not
+to drink wine.
+
+Nor did they make libation of it as a thing dear to
+the Gods, but as the blood of those who fought against
+the Gods,^ — from whom, when they fell and mingled with
+
+1 T^ Nii\^ov SBoop — Th NciXya was the Feast of the Overflowing
+of the Nile.
+
+2 Heliopolis— the God being the " Sun."
+
+3 Sc, the priests.
+
+* Miiller, ii. 389. H. flourished last quarter of 6th and first
+5th century B.C.
+6 Reigned 671-617 B.C.
+^ Sc. the Titans or Daimones as opposed to the Gods.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 269
+
+the earth, they think the vines came, and that because
+of this wine-drenching makes men to be out of their
+minds and struck aside,^ in that, forsooth, they are
+full-filled with the forefathers of its ^ blood.^
+
+5. These things, at any rate Eudoxus says, in Book II,
+of his Circuit,^ are thus stated by the priests.
+
+On Fish Taboos
+
+VII. 1. As to sea-fish, all [Egyptians] abstain gener-
+ally (not from all [fish] but) from some; — as, for
+example, those of the Oxyrhynchus nome from those
+caught with a hook, for as they venerate the sharp-
+snouted fish,^ they fear that the hook ^ is not pure when
+"sharp-snout" is caught by it ; ^ while those of the Syene
+nome [abstain from] the " devourer," ^ for that it seems
+that it appears together with the rising of the Nile,
+and that it shows their ^ growth to those in joy, seen
+as a self-sent messenger,
+
+1 Or "de-ranged" — irapa.'nXriyas, Paraplex is the first of the
+daimonian rulers in The Boohs of the Saviour {Pistis Sophiay 367).
+
+2 Sc. the vine's.
+
+2 Or " with the blood of its forefathers."
+
+^ Or Orbit, Eudoxus flourished about the middle of the 4th
+century B.C. ; he was initiated into the Egyptian mysteries, and a
+great astronomer, obtaining his knowledge of the art from the
+priests of Isis.
+
+^ rbv Q^vpvyxov — perhaps the pike.
+
+® HyKKTrpov — dim. of &yKos^ meaning a '* bend " of any kind.
+Perhaps it may be intended as a play on the anhh tie or " noose
+of life," the well-known Egyptian symbol, generally called the
+crux ansata.
+
+7 If we read avr^ for avr^ it would suggest a mystic meaning,
+namely, " falls into his own snare."
+
+8 (paypov — Vulg., sea-bream ; but Hesychius spells it <pdywpos,
+connecting it with <paye7v, to devour.
+
+9 Or " his " (the Nile's) ; but the " self - sent messenger "
+(aifT<iyy€\o$) seems to demand " their," and so suggests a mystical
+sense.
+
+
+Hosted by
+
+
+Google
+
+
+270 THRICE-GREATEST HERMES
+
+2. Their priests, upon the other hand, abstain from
+all ; and [even] on the ninth of the first month,^ when
+every one of the rest of the Egyptians eats a broiled
+fish before his front door,^ the priests do not taste it,
+but burn their fishes to ashes before the doors [of the
+Temple].^
+
+3. And they have two reasons [for this], of which I
+will later on take up the sacred and extraordinary [one],
+according with the facts religiously deduced concerning
+Osiris and Typhon. The evident, the one that's close
+at hand, in showing forth the fish as a not necessary
+and a not unsuperfluous cooked food, bears witness
+unto Homer, who makes neither the Phaeacians of
+luxurious lives, nor yet the Ithakesian Island men, use
+fish, nor yet Odysseus's Companions^ in so great a
+Voyage and on the Sea before they came to the last
+Strait.^
+
+4. And generally [the priests] think that the sea's
+from fire and is beyond the boundaries — nor part nor
+element [of earth], but of another kind, a superfluity
+cor-rupted and cor-rupting.
+
+1 Copt. Thoth — corr. roughly with September.
+
+2 Ttph Ti)s avXiiov Qvpas — that is, the outside door into the a.v\i]^
+or court of the house. Gf, the title of the Trismegistic treatise
+given by Zosimus — " The Inner Door." There may, perhaps, be
+some mystical connection.
+
+3 Gf, Luke xxiv. 42 : " And they gave Him a piece of broiled
+fish." This was after His " resurrection." Also cf, Talmud Bah.^
+" Sanhedrin," 103a : " That thou shalt not have a son or disciple
+who burns his food publicly, like Jeschu ha-Notzri" {D. J, X.,
+189).
+
+* Compare the Companions of Horus in the Solar Boat.
+^ I fancy there must be some under-meaning here, and so I
+have put the key- words in capitals.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OE ISIS AND OSIRIS 27 1
+
+
+The Onion and Pig Taboos
+
+VIIL 1. For nothing reasonless, or [purely] fabulous,
+or from [mere] superstition, as some suppose, has been
+incorporated into the foundation of the sacred opera-
+tions, but some things have moral and needful causes,
+while others are not without a share in the embellish-
+ment of science and physics, — as, for instance, in the
+case of the onion.
+
+2. [The story] that Diktys,^ the nursling of Isis,^
+fell into the river and was drowned, in trying to catch
+the onions with his hands,^ [is] utterly incredible.
+
+3. The priests, however, keep themselves pure of the
+onion, and treat it hardly, being [ever] on the watch
+against it, because it is the only thing whose nature is to
+be well nourished and to flourish when the moon's a- wane.
+
+It's food ^ for neither fast nor feast, — neither for the
+former in that it makes those feeding^ on it thirst,
+while for the latter it makes them weep.
+
+4. And in like manner also they consider the sow an
+unholy animal, because it seems to be covered especially
+when the moon is on the wane, while the bodies of
+those who drink its milk burst forth ^ into leprosy'''
+and scabrous roughnesses.
+
+1 Diktys=the Netter. In other myth-cycles Diktys was son
+of Poseidon, and is often called simply the Fisher.
+
+2 Gf. xvi., xvii.
+
+3 iTn^pa(r(T6fji.^vov. The Fisher-soul, therefore, presumably fell
+out of the celestial boat or haris of Isis, and the myth may not
+be quite so airiBavov as Plutarch would have us think. Of, xvii. 3.
+Ordinary onions do not grow in rivers.
+
+4 Or '^W—Trp6(T(f>opov,
+
+^ rovs ivpo(r(f>€pofJi4vovs — a word-play on " food."
+
+6 e'^av/^cr— lit., " flower."
+
+7 \iTtpav — that which makes the skin scaly and rough {xt-irphsj
+as opposed to XeTos, smooth) ; there being also, I believe, a
+mystical under-meaning in it all.
+
+
+Hosted by
+
+
+Google
+
+
+272 THRICE-GREATEST HERMES
+
+5. And the tale {logos) they tell after once only^
+sacrificing and eating pig at the full-moon — [namely]
+that Typhon when pursuing pig towards full-moon found
+the wooden coffin in which the body of Osiris lay dead,
+and scattered it in pieces ^ — they do not all receive,
+thinking it is a trifling mis-hearing [of the true tale]
+
+♦like many more.^
+
+6. But they say their ancients so protected themselves
+against softness [of living] and extravagance and
+agreeable sensations, that they said a slab was set up in
+the holy place at Thebes with deprecations in-lettered
+on it against Meinis ^ the King, who first changed the
+Egyptians from the way of life without riches and
+without needs and plain.
+
+7. Moreover, Technactis, father of Bocchoris,^ is said,
+when marching on the Arabs,^ when his baggage was
+delayed,^ to have used with joy the food nearest at
+hand, and afterwards to have fallen into deep sleep on
+a bed of straw,^ and so embraced frugality; and in
+
+1 Apparently once a year.
+
+2 Cf. xviii. 1.
+
+2 This makes us doubt whether there may not be a number of
+similar " mis-hearings " in the myth as handed on by Plutarch.
+
+* Probably this should be yivevis (Mnevis), the sacred black bull,
+venerated as the symbol of the ka of Ra, and so it may contain
+some mystical allusion. Qf. xxxiii. 5.
+
+^ T^xvaKris is, perhaps, a word-play on rex {\/r€K, rUruX
+" creative " or " generative," and anris, " ray " ; while fioKx^pts
+may also be a play — such as, if one is allowed to speculate wildly,
+jSovs, " kine," and x^P^h " dance," reflecting the celestial ^ovkqKos
+or Cowherd.
+
+6 It is to be noticed that there was an Arab nome in Egypt,
+and that Egypt was mapped out into a mystic body ; and farther,
+that the different surrounding nations were regarded as repre-
+sentative each of certain powers.
+
+7 Or it may mean "when his filth delayed him," aad sq
+contain a mystical implication.
+
+s cVi ffTi^dBos, It may also mean " on the way,"
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 273
+
+consequence of this [he is said] to have execrated the
+Meinian, and, with the approval of the priests, to have
+graven his execration on stone.
+
+The Kings, the Eiddles of the Priests, and
+THE Meaning of Amoun
+
+IX, 1. The kings were appointed from the priests or
+from the warriors, — the one caste possessing worth and
+honour through manliness, and the other through
+wisdom.
+
+2. And he who was appointed from the warriors
+immediately became [one] of the priests and shared in
+their philosophy, — which for the most part was hidden
+in myths and words (logoi), containing dim reflections
+and transparencies of truth, as, doubtless, they them-
+selves make indirectly plain by fitly setting sphinxes
+up before the temples, as though their reasoning about
+the Gods possessed a wisdom wrapped in riddle.^
+
+3. Indeed, the seat^^ of Athena (that is Isis, as they
+think) at Sais used to have the following inscription
+on it:
+
+"I am all that has been and is and shall be, and no
+mortal has ever re-vealed^ my robe."^
+
+4. Moreover, while the majority think that the proper
+name of Zeus with the Egyptians is Amoun (which
+we by a slight change call Ammon), Manetho, the
+Sebennyte, considers it His hidden [one], and that His
+[power of] hiding is made plain by the very articulation
+of the sound.
+
+1 Of. M. L. ridelluSf F. rideau, a curtain or veil.
+
+2 The technical term for the sitting statue of a god or goddess.
+
+3 aveKdxvrlfip — that is, no one within duality has expressed or
+shown that in which 'this aspect of feminine life veils itself.
+
+* For this mystical logos of Net (Neith), the Great Mother, cf.
+Budge, op. cit.j i.*459 f.
+
+VOL. I. 18
+
+Hosted by VjOOQIC
+
+
+274 THRICE-GBEATEST HERMES
+
+5. Hecateeus^ of Abdera, however, says that the
+Egyptians use this word to one another also when they
+call one to them, for that its sound has got the power
+of " calling to." 2
+
+6. Wherefore when they call to the First God —
+who they think is the same for every man — as unto the
+Unmanifest and Hidden, invoking Him to make Him
+manifest and plain to them, they say *^ Amoun ! "
+
+So great, then, was the care Egyptians took about
+the wisdom which concerned the mysteries of the Gods.
+
+Of the Gkeek Disciples of Egyptians and of
+Pythagoras and his Symbols
+
+X. 1. And the most wise of the Greeks also are
+witnesses — Solon, Thales, Plato, Eudoxus, Pythagoras,
+and, as some say, Lycurgus as well — through coming to
+Egypt and associating with her priests.
+
+2. And so they say that Eudoxus was hearer of
+Chonouphis ^ of Memphis, and Solon of Sonchis of Sais,
+and Pythagoras of (Enuphis of Heliopolis.
+
+3. And the last especially, as it appears, being con-
+templated and contemplating,* brought back to the
+
+1 H. flourished 550-475 B.C. A. was a town on the southern
+shore of Thrace.
+
+2 TrpoffKk-nriK'hv, H. thus seems to suggest that it (1 Amen) was
+a "word of power," a word of magic for evoking the ha of a
+person, or summoning it to appear. It does not seem very-
+probable that the Egyptians shouted it after one another in the
+street.
+
+3 That is, presumably, Knouph or Knef.
+
+4 BaviiaffQ^h koX Bavfxdo-as, passive and active of the verb of Oadjxaj
+generally translated "wonder," but meaning radically "look at
+with awe " ; hence contemplate religiously (the art of ectopia), and
+hence the Platonic (? Pythagorean) saying : " The beginning of
+philosophy is wonder." Compare the variants of the new-found
+Jesus logos (" Let not him who seeks," etc.), which preserve both
+
+6a(x$-q6e]s and Oavfj^daras.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 275
+
+memory of his men their ^ symbolic and mysterious
+[art], containing their dogmas in dark sayings.
+
+4. For most of the Pythagoric messages leave out
+nothing of what are called the hieroglyphic letters;
+for instance : " Eat not on what bears two "; ^ " Sit not
+down on measure "; ^ " Plant not phoenix "; ^ " Stir not
+fire with knife ^ in house."
+
+5. And, for myself at least, I think that his men's
+calling the monad Apollo,^^ and the dyad Artemis, and
+the hebdomad Athena, and the first cube^ Poseidon,
+also resembles those whose statues preside over the
+sacred places, and whose dramas are acted [there],
+yea and [the names] painted ^ [there as well].
+
+^ That is, to the men of Greece the art of the Egyptians.
+
+2 iTcl Bicppov { = Bi-(p6pov) — variously translated "off a chair,"
+" in a chariot," hence *' on a journey." "That which bears two"
+is that which either carries two or brings forth two ; the logos is
+thus, perhaps, a warning against faUing into duality of any kind,
+and hence an injunction to contemplate unity.
+
+2 The x^iV*^ was a dry measure, the standard of a man's
+(slave's) daily allowance of corn. Hence, perhaps, in one sense the
+symbol may mean : " Be not content with your * daily bread '
+only " ; yet any meaning connected with " that which measures "
+would suit the interpretation, such as, "Rest not on measure,
+but move in the unimmeasurable."
+
+^ 4>o7pt^ means a " Phoenician " (as opposed to an Egyptian), a
+" date palm " (as opposed to a " pine "), and a " phoenix " ; in
+colour this was " purple red," " purple," or " crimson." The
+phoenix loro^per rose again from its ashes ; its colour was golden.
+<pvT{f€iv means " plant," but also " engender," " beget."
+
+^ fidxaipa was, in Homeric times, the technical term for the
+sacred sacrificial knife — the knife that kills and divides the
+victim's body, while the fire transmutes and consumes it. There
+may, perhaps, be some connection between the symbol and the
+gnomic couplet of Hesiod quoted above (iv. 3) ; it is, however,
+generally said to mean, "Do not provoke an angry man," but
+this leaves out of consideration the concluding words " in house."
+
+c Cf. Ixxv. 14.
+
+^ Presumably the ogdoad or eight.
+
+^ Or " written " or " engraved."
+
+
+Hosted by
+
+
+Google
+
+
+276 THRICE-GREATEST HERMES
+
+6. For they write the King and Lord, Osiris,^ with
+" eye " and " sceptre." ^ But some interpret the name
+also as " many-eyed," since in the Egyptian tongue os
+means " many,*' and iri " eye."
+
+7. And they write Heaven, as unageing through
+eternity,^ with "heart," [that is] spirit,^ [rising] from
+*' altar " ^ underneath.
+
+8. And at Thebes there used to be set up hand-less
+statues of judges, while the [statue] of the chief judge
+had its eyes tight shut, — seeing that Justice neither
+gives nor takes gift, and is not worked on.
+
+9. And for the warriors, " scarab " was their seal-em-
+blem ; — for the scarab is not female, but all [scarabs]
+are male,^ and they engender their seed into matter [or
+material] which they make into spheres, preparing a
+field not so much of nourishment "^ as of genesis.
+
+Advice to Klia concerning the Hidden Meaning
+OF the Myths
+
+XL 1. When, therefore, thou hearest the myth-sayings
+of the Egyptians concerning the Gods — wanderings and
+
+1 Eg. Asar.
+
+2 Generally a "throne" in the hieroglyphs. But for the
+numerous variants, see Budge, Gods of the Egyptians, ii. 113.
+Gf, li. 1 below.
+
+3 aini6r'nTa — lit., form -(or idea-) less-ness ; transcending all
+forms.
+
+4 ev/xhy, one of tlie most primitive terms of Greek psychology —
+spirit or soul, or more generally life-principle.
+
+s iarxdpa, an altar for burnt offerings; here probably sym-
+bolising Earth as the syzygy of Heaven.
+
+^ It is to be remembered that the " mark " of the warriors was
+their manliness (ix. 1).
+
+^ Matter (fi\v) being the Nurse, "according to Plato." The
+legend was that the scarab beetle deposited its seed into dung
+which it first made into balls (Ixxiv. 5).
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 277
+
+dismemberings, and many such passions^— thou shouldst
+remember what has been said above, and think none of
+these things spoken as they [really] are in state and
+action.
+
+2. For they do not call Hermes " Dog *' as a proper
+name, but they associate the watching and waking
+from sleep of the animal,^ who by knowing and not
+knowing determines friend from foe (as Plato says^),
+with the most Logos-like of the Gods.
+
+3. Nor do they think that the sun rises as a new-born
+babe from a lotus, but so they write " sun-rise," riddling
+the re-kindling of the sun from moist [elements].*
+
+4. Moreover, they called the most crude and awe-
+some King of the Persians (Ochus)^ — who killed
+many and finally cut the throat of Apis and made a
+hearty meal off him with his friends — **Knife,"^ and
+they call him so unto this day in the Catalogue"^ of
+their kings, — not, of course, signifying his essence by
+its proper name,^ but likening the hardness of his
+mood^ to an instrument of slaughter.
+
+1 trad-fifxara — the technical mystery-term for such experiences, or
+sensible knowing.
+
+2 Or "of the Animal" — the Living One or Animal Itself or
+World Soul, if Dog is taken to mean the genus or Great Dog,
+
+3 iJe^?., ii. 376f.
+
+* Tiiat is, the ideogram of a new-born child with its finger on
+its lips seated on tbe bosom of the lotus signified " sun-rise," and
+"sun-rise" within as well as without. The "re-kindling" or
+" lighting up again " was presumably also a symbol of the " new
+birth from above."
+
+^ Artaxerxes III. ; the priests, however, presumably used
+this incident to illustrate some more general truth. A similar
+story is also related of Cambyses (xliv. 8) ; they also called
+Ochus "Ass" (xxxi. 4).
+
+6 The sacrificial knife again, as in x. 2. "^ Of. xxxviii. 6.
+
+^ Perhaps even meaning by " his name of power."
+
+9 Or "of the turn," where it might refer to the turn of
+Egypt's fate-wheel.
+
+
+Hosted by
+
+
+Google
+
+
+278 THRICE-GREATEST HERMES
+
+5. So too shalt thou, if thou hearest and receivest
+the [mysteries] about the Gods from those who interpret
+the myth purely and according to the love of wisdom,
+and if thou doest ever and keepest carefully the customs
+observed by the priests, and if thou thinkest that
+thou wilt offer neither sacrifice nor act more pleasing
+to the Gods than the holding a true view concerning
+them, — thou shalt escape an ill no less than being-
+without-the-gods,^ [that is to say] the fearing-of-the-
+daimones.2
+
+XII, 1. The myth which is told is — in its very
+shortest possible [elements], after the purely useless
+and superfluous have been removed — as follows :
+
+The Mystery-Myth
+
+2. They say that when Khea ^ secretly united with
+Kronos, Helios on sensing^ it imprecated her not to
+bring forth in month or year.^
+
+3. That Hermes being in love with the Goddess,
+came to conjunction [with her] ; then playing draughts ^
+against Selene,*^ and winning^ the seventieth of each
+
+1 Or "atheism."
+
+2 Generally rendered " superstition."
+
+3 The Mother of the Gods — "Flowing," that is, motion pure
+and simple, unordered or chaotic.
+
+4 In the most primitive meaning of the word aitrdo/x^vov —
+from \Jai(rf lengthened form of at (compare dt«).
+
+5 firjvl fj.Tt}T iptavT^, Both words are connected with roots
+meaning "one" in ancient dialects ; fi^v=fi-ils (Moh) and eyos=
+an-nus (Lat.). Cf, els, fx-ia, eV ; hence ei/t-avT(J5 = " one-same."
+The Goddess, therefore, apart from the Sun, could only bring forth
+in a day.
+
+6 TTCTTm, — ir€(rar6s was an oval-shaped stone for playing a game
+hke our draughts ; it was also used for the board on which the
+game was played, divided by 5 straight lines each way, and
+therefore into 36 squares.
+
+7 Sc. the moon. ^ Or " taking away."
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 279
+
+of the lights, he con-duced from all^ five days and
+in-duced them into the three hundred and sixty
+[days] — which Egyptians call the "now in-duced," ^
+and keep as birthdays of the Gods.^
+
+4. [And they say] that on the first Osiris was born,
+and that a voice fell out^ together with him on his
+being brought forth — to wit: "The Lord of all forth
+comes to light."
+
+5. But some say that a certain Pamyle,^ being
+moistened ^ from the holy [place] of Zeus, heard a voice
+directing her to proclaim with outcry that " Great King
+Good-doing Osiris is born " ; and that because of this
+she nursed Osiris, Kronos entrusting him to her, and
+they keep with mystic rites the Pamylia in his honour,
+similar to the Phallephoria.^
+
+6. And on the second [they say] Aroueris [was born]
+— whom they call Apollo, and some call Elder Horus.^
+
+On the third that Typhon, neither in season nor in
+place, but breaking through with a blow, leapt forth
+through her side.^
+
+On the fourth that Isis was born in all moist
+[conditions],
+
+1 Sc. the lights. 2 itrayofxiuais — or " now intercalated."
+
+3 This is an exceedingly puzzling statement. The "lights"
+cannot be the ** lights" of the moon, of which there were 30
+phases. It more probably has some connection with 360, the
+70th of which works out at 5142857 — a number not so very far
+removed from our own calculations. The " each " in the text may
+thus be an error.
+
+4 A voice from heaven, a Bath-kol, proceeding from the Womb
+of Rhea.
+
+^ iraixiKTi — presumably a play on itav (all) and u'Xtj (matter).
+
+6 h^p^vofxivfiv — presumably by the Great Moistener ; it is, how-
+ever, generally translated " drawing water."
+
+7 That is the « Phallus-Bearing." s Eg. Heru-ur.
+
+9 TrAeCpa — meaning in man radically "rib"; also side of a
+square, and root of a square (or cubic) number. Typhon would be
+represented by the diagonal.
+
+
+Hosted by
+
+
+Google
+
+
+280 THRICE-GREATEST HERMES
+
+On the fifth Nephthys, whom they name End and
+Aphrodite, while some [call] her also Victory.
+
+7. And [they say] that Osiris and Aroueris were from
+Helios, Isis from Hermes, and Typhon and Nephthys
+from Kronos, and therefore the kings considering the
+third ^ of the "induced" [days] nefast, used neither
+to consult nor serve themselves till night.^
+
+8. And [they say] that Nephthys was married to
+Typhon ; ^ but Isis and Osiris being in love with each
+other, united even before they were born, down in the
+Womb beneath the Darkness.*
+
+9. Some, moreover, say that Aroueris thus came to
+birth, and that he is called Elder Horus by Egyptians,
+but Apollo by Greeks.
+
+XIII. 1. And [they say] that when Osiris was king,
+he straightway set free the Egyptians from a life from
+which they could find no way out and like unto that of
+wild beasts,^ both setting fruits before them, and laying
+down laws, and teaching them to honour the Gods,
+
+2. And that subsequently he went over the whole
+earth, clearing it,^ not in the least requiring arms,
+but drawing the multitude to himself by charming
+them with persuasion and reason {logos)^ with song
+and every art the Muses give;^ and that for this
+
+1 That is, the birthday of Typhon.
+
+2 A strange sentence ; but as the kings were considered Gods,
+they probably worshipped themselves, or at least their own fca,
+and consulted themselves as oracles.
+
+3 Presumably as being opposite, or as hating one another.
+* Cf. liv. 4.
+
+^ Metaphors reminiscent of the symbolism of the so-called Book
+of the Dead.
+
+^ Sc. of wild beasts ; but may also mean " softening it,^^ when
+Osiris stands for Water, and again "making it mild," or
+" civilising it." ^ He himself being the Logos.
+
+^ fjLovariKris — music, in the modern meaning of the term, was only
+one of the arts of the Muses, the nine daughters of Zeus.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS ANB OSIRIS 281
+
+cause he seems to the Greeks to be the same as
+Dionysus.^
+
+3. And [they say] that while he was away, Typhon
+attempted no revolution, owing to Ms keeping very
+careful guard, and having the power ^ in her hands,
+holding it fast ; but that when he [Osiris] came back,
+he made with art a wile for him, con-juring seventy-two
+men, and having as co-worker a queen coming out of
+Ethiopia, whom they call As5.^
+
+4. But that after measuring out for himself in secret
+the body of Osiris,* and having devised, according to
+the size,^ a beautiful and extraordinarily ornamented
+chest,^ brought it into the banqueting hall.^
+
+1 AiS-vvcros — that is, " he of the Mount (vv(ra) of Zeus."
+
+2 That is " sovereignty."
+
+3 Probably the prototype of the Alchemical Azoth. Ethiopia
+was the land of the black folk south of Egypt, the land par excellence
+of the black magicians as opposed to the good ones of the Egyptians
+(this, of course, being the Egyptian point of view). The Osiris-myth
+was in Egyptian, presumably, as easily interpretable into the language
+of magic and con-juration as into other values. Compare the Demotic
+folk-tales of Khamuas, in Griffith's Stories of the High Priests of
+Memphis f for how this view of it would read in Egyptian. ^Ethiopia
+would also mean the Dark Earth as opposed to the Light Heaven.
+
+* The " body of Osiris " may mean the cosmos (great or little),
+as the " body of Adam," its copy in the Kabalah.
+
+5 Or, "according to the greatness" — using "greatness" in its
+Gnostic signification, as here meaning the great cosmos and also
+the cosmic body of man.
+
+6 In Pythagorean terms, " an odd-ly ordered rectangular encase-
+ment" — referring, perhaps, to a certain configuration of cosmic
+permanent atoms. But see the plate which Isaac Myer calls " A
+Medieval Idea of the Makrokosm, in the Heavenly Zodiacal Ark,"
+but which intitles itself "Forma Exterior Arcce Noe ex Descriptione
+Mosis." This is a coffin, and within it lies the dead Christ. The
+plate is prefixed to p. 439 of Myer's Qa66ak^ (Philadelphia, 1888).
+It also presumably refers to the " germ " of the cosmic robe of the
+purified man, the " robe of glory." In mysticism the metaphors
+cannot be kept unmixed, for it is the apotheosis of syncretism.
+
+7 Lit., the "drinking together," referring perhaps to the con-
+
+
+Hosted by
+
+
+Google
+
+
+282 THRICE-GREATEST HERMES
+
+5. And that when they were delighted at the sight
+and wondered, Typhon, in sport, promised to give the
+chest to him who could make himself exactly equal
+to it by laying himself down in it.^
+
+6. And that when all were trying, one after another,
+since no one fitted, Osiris stepped in and laid himself
+down.
+
+7. And they who were present running up, dashed
+on the lid, and, after some [of them] had closed it down
+with fastenings, and others had poured hot lead over it,
+they carried it out to the Kiver,^ and let it go into the
+Sea by way of the Tanitic ^ mouth, which [they say]
+Egyptians call even to this day by a hateful and
+abominable name.
+
+8. These things they say were done on the seven-
+teenth of the month Athur,^ in which [month] the
+Sun passes through the Scorpion ; it being the eight-
+and-twentieth year of Osiris' reign.
+
+9. Some, however, say that he had lived and not
+reigned so long.^
+
+XIV. 1. And as the Pans and Satyrs^ that in-
+habit round Chemmis'^ were the first to sense the
+
+junction of certain cosmic forces, and also microcosmically to souls
+in a state of joy or festivity or bliss, prior to incarnation.
+
+^ That is, prove the " permanent atoms " were his own — if we
+think in terms of reincarnation.
+
+2 Sc. the Sacred Nile, Great Jordan, etc., the Stream of Ocean,
+which, flowing downwards, is the birth of men, and upwards, the
+birth of Gods.
+
+3 ravtriKov — probably a word-play connected with \/Toy, "to
+stretch," and so make tense or thin, or expand, and so the " wide-
+stretched mouth of the Great River." Cf. the Titans or Stretchers.
+
+* Copt. Hatli5r — corr. roughly to November.
+
+5 Of. xlii. 4.
+
+^ Two classes of elemental existences.
+
+7 That is Apu, the Panopolis of the Greeks ; the name Cheramis,
+the modern Akhmim, is derived from an old Egyptian name.
+See Budge, op. cit., ii. 188.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 283
+
+passion ^ [of Osiris], and give tongue concerning what
+was being done, [they say] that on this account sudden
+disturbances and emotions of crowds are even unto
+this day called "panics/'
+
+2. But when Isis ^ sensed it, she cut off one of her
+curls, and put on a mourning dress, whence the city to
+this day bears the name Kopto.^
+
+But others think the name signifies privation,^ for
+they say that koptein is to de-prive.
+
+3. And [they say] that she, wandering about in
+every direction, and finding no way out, never ap-
+proached any one without accosting him; nay, she
+asked even little children whom she happened to meet,
+about the chest.
+
+4. And they happened to have seen, and showed the
+mouth ^ through which the friends of Typhon let the
+vessel^ go into the Sea.
+
+5. Because of this [they say] Egyptians believe that
+little children have prophetic power, and they especially
+divine from the sounds of their voices, when playing
+in the holy places and shouting about anything.
+
+6.^ And [they say] that when [Isis] was aware that
+
+^ trddos — the technical term of what was enacted in the
+mystery-drama.
+^ As Mother Nature.
+
+3 Meaning " I cut" ; and in mid. " I cut or beat the breast," as
+a sign of mourning.
+
+4 " The depriving things of their power " or " negation " ;
+Osiris being the fertilising or generative or positive power.
+
+^ Sc. the way or passage. In little children the life force is not
+sexually polarised.
+
+6 ayye7ov — a vase or vessel of any kind, hence funerary urn or
+even coffin ; but /jLirayyiCnv means " to pour from one vessel into
+another," and fierayyia-fxhs is the Pythagorean technical term for
+metempsychosis^or palingenesis.
+
+^ This paragraph, which breaks the narrative, is introduced to
+give the myth of the birth of Anubis.
+
+
+Hosted by
+
+
+Google
+
+
+284 THRICE-GREATEST HERMES
+
+Osiris in ignorance had fallen in love and united him-
+self with her sister ^ as with herself, and seeing as proof
+the honey-clover 2 wreath which he had left behind
+with Nephthys, she sought for the babe— (for she [N.]
+exposed it immediately she bore it, through fear of
+Typhon^).
+
+7. And after it was found with toil and trouble —
+dogs ^ guiding Isis to it — it was reared and became her
+guard and follower, being called Anubis, and is said to
+guard the Gods, as their dogs men.
+
+XV. 1. It was from him she got intelligence about
+the chest : — that after it had been wave-tossed out by
+the Sea to the By bios ^ country, the land-wash had
+gently brought it to rest in a certain heather-bush." ^
+
+2. And the heather-bush, in a short time running up
+into a most beautiful and very large young tree, en-
+folded, and grew round it,^ and hid it entirely within
+itself.
+
+3. And the King,^ marvelling at the greatness of the
+
+1 8c. Nephthys.
+
+2 Meli-lote — lotos in Greek stands for several plants ; it might
+be translated as " honey -lotus." Gf, xxxviii. 5.
+
+3 Her legitimate spouse.
+
+* A term used frequently among the Greeks (who presumably
+got the idea elsewhere) for the servants, agents, or watchers of
+the higher Gods; thus the Eagle is called the "winged dog"
+of Zeus (^sch., Pr.y 1022). "Dog," as we have seen (xi. 1, n.)
+signifies a power of the World, Soul or Great Animal, also of
+individual souls.
+
+5 That is, " Papyrus." This Byblos was a " city in the Papyrus
+Swamps of the Delta." (So Budge, op. cit, ii. 190.)
+
+6 ipdKv — ^probably a play on the root-meaning of epiUuv, " to
+quiver," is intended. The Egyptian erica was taller and more
+bushy than ours. Or it may be the tamarisk; elsewhere it is
+called a mulberry -tree.
+
+7 Sc, the "coffin" — perhaps here signifying what has lately
+been called the "permanent atom*' in man.
+
+^ The ruler of the form-side of things. .
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 285
+
+tree, after cutting off the branches, and rounding off
+the trunk that surrounded the coffin without its being
+seen,^ set it up as the prop of his roof.
+
+4. And they say that on her hearing of these things
+by the daimonian spirit of a voice,^ Isis came to Byblos,
+and, sitting down at a fountain-head, downcast and
+weeping, held converse with no one else, but she
+embraced and showed affection to the maids of the
+Queen, curling ^ their hair and exhaling from herself on
+their skiu a marvellous fragrance.
+
+5. And when the Queen saw her maids, longing for
+the ambrosia-smelling hair and skin of the stranger
+came upon her.
+
+And so when she had been sent for and had become
+an inmate [of the palace, the Queen] made her nurse of
+her little one.
+
+6. And the name of the King, they say, was
+Malkander,* while her name according to some was
+Astarte, according to others Saosis, and according to
+others Nemanous,^ — or whatever is the name for which
+the Greek equivalent would be Athenai's.^
+
+^ On the erroneously called " Gnostic " gems, the lopped trunk
+is a frequent symbol ; the lopped " five-branched," presumably.
+
+2 Notice the three stages of awareness : (i.) the babbling of
+children ; (ii.) the intelligence given by the dog ; (iii.) the
+daimonian spirit of a voice (Heb. Bath-hol),
+
+3 Isis, when she first lost Osiris, cut off a curl (xiv. 2).
+
+* Apparently, though curiously, a play on the Semitic MLK or
+Maleh, "king," and the Greek a^w^r, "man"— -that is, "king of
+men."
+
+^ Or " Nemanos." The names seem to have been impartially
+maltreated by the copyists ; thus we find such variants as Asparte,
+Sooses, Neimanoe.
+
+^ There was among the ancients an art of name-translation, as
+Plato tells us in the Story of Atlantis, in which the Atlantic names
+he says, were translated into Greek by Solon or by the priests of
+Sais, Here, I believe, there is also a word-play intended. Isis, as
+we have seen, was pre-eminently Nurse, rlrdt), a further intensifica-
+
+
+Hosted by
+
+
+Google
+
+
+286 THRICE-GREATEST HERMES
+
+XVI. 1. And [they say] that instead of giving it^ the
+breast, Isis reared the little one by putting her finger ^
+into its mouth, and that at night she burnt round ^ the
+mortal [elements] of its body, and, turning herself into
+a swallow, flew round the pillar and twittered a dirge ;
+until the Queen, through spying [on her] and cry-
+ing out^ when she saw the babe being burnt round,
+deprived it of its immortality.^
+
+2. That when the Goddess revealed herself, she
+claimed for herself the pillar of the roof ; and, taking
+it down with the greatest care, she cut away the heather-
+tree from round it, then wrapping this ^ up in fine linen,
+and pouring the juices of sweet herbs over it,^ she placed
+it in the hands of the royal couple ; and even unto this
+day the people of By bios venerate the wood ^ lying in
+the holy place of Isis.
+
+tion of the intensified rt'Orj from \/6a, " suckle " ; the common form
+of " nurse " was n-Bii-vq. On the contrary, h.Bi[]vais is a daughter or
+derivative of d-9^-yr?, one who does not give suck ; for Athena was
+born from the head and was the virgin goddess 'par excellence,
+Mythologically, Athenais was wife of Alalkomeneus, the epony-
+mous hero of a city in Boeotia, where was a very ancient temple of
+Athena. In the Pindaric ode quoted in S. (1) of chapter, " Myth
+of Man in the Mysteries," Alalkomeneus is given as one of the
+equivalents for the " first man."
+
+1 The child's name was Diktys, according to viii. 2.
+
+2 The V5«« in. ^^ktvKos is said to be the same as that in 5e«a,
+" ten," and " ten" is the number of "perfection."
+
+2 Or " away."
+
+4 Lit., " croaking " like a raven, to match the " twittering " of
+the swallow.
+
+^ This presumably hints that Isis, as the Divine Mother,
+endeavours to make all perfect and sound, while the earthly
+mother prevents this.
+
+^ 8c. the erica.
+
+■^ Cf, John xix. 40 : " So they took the body of Jesus and
+wrapped it in fine linen together with sweet herbs."
+
+^ rh ^{iKov — the term used repeatedly in the New Testament
+for the cross.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 287
+
+3. As for the coffin, she flung herself round it, and
+kept moaning so long, that the younger of the little ones
+of the king died away ; ^ and, taking the elder with her-
+self, and placing the coffin on a boat, she sailed away.
+
+4. And when the Eiver Phsedrus ^ raised too rough a
+wind ^ just after dawn,^ waxing wrath, she dried up his
+stream.
+
+XVII. 1. And [they say] that when first she found soli-
+tude and was by herself, she opened the chest, and laying
+her face on his face, she kissed [him] and shed tears.
+
+2. And that when the little one came up in silence
+from behind and understood, on sensing it she turned
+herself about, and passionately gave him an awe-ful
+look. And the little one could not hold himself up
+against the awe of her, and died.
+
+3. But some say [it was] not thus, but, as it has been
+said before,^ that he fell out ^ into the river.
+
+4. And he has honours owing to the Goddess, for the
+Maneros*^ whom Egyptians hymn at their symposia is he.
+
+5. While others relate that the boy was called
+Palaestinos^ or Pelousios, and that the city^ was
+named after him when it was founded by the Goddess ;
+and that the Maneros who is hymned was the first to
+discover the art of the Muses. ^^
+
+1 Or " swooned," or lost consciousness.
+
+2 (jxxLnpos — lit., Bright, Beaming, Shining — that is, the Sun-
+stream.
+
+2 Or " breath" {irv^v^a). * That is "at sun-rise,"
+
+^ Cf. viii. 2. ^ Sc. of the boat of Isis.
+
+7 yiav-4p(as. I fancy this is a play, in conjunction with the
+Kara-fiav-Odv-opTa and airo-Bdv-ovra (the "understanding" and
+"dying away") above; the name would then mean either "love
+of understanding " or " understanding of love."
+
+s TraKai(T'Tiv6s — perhaps a play on itaXaiar^s, "a wrestler";
+hence a " rival " or " suitor."
+
+^ Pelusiura ; the Pelusian was the eastern mouth of the Nile.
+
+'^^ See note on xxi. 1.
+
+
+Hosted by
+
+
+Google
+
+
+288 THRICE-GREATEST HERMES
+
+6. But some say that it is the name of no one, but a
+manner of speech for men drinking and feasting, — with
+the meaning " May such and such things be present in
+becoming measure ! " For the Egyptians on every
+such occasion shout out this, it being indicated to them
+by " Maneros."
+
+7. Just as, doubtless, also their being shown the
+image of a dead man carried round in a small wooden
+coffin, is not a reminder of the Osirian passion, as
+some suppose ; but it is in order to exhort them while
+filled with wine to make use of things present, in that
+all will very presently be such [as it], that they bring
+in an unpleasing after-revel.
+
+XVIII. 1. And [they say] that when Isis had gone a
+journey to her son Horus, who was being reared at
+Boutos,^ and had put away ^ the chest,^ Typhon, taking
+his dogs * out by night towards the moon, came upon it ;
+and recognising the body, tore it into fourteen pieces,
+and scattered them abroad.
+
+2. And Isis [they say] on learning this, searched for
+them in a papyrus skiff (baris) sailing away through the
+marshes ; ^ whence those who sail in papyrus hulls are
+not injured by the crocodiles, either because they ® fear
+or rather revere the Goddess J
+
+^ Generally supposed to stand for the city Buto, but may be
+some word-play. Can it be connected with Bootes, the Plough-
+man — the constellation Arcturus — the voyage being celestial ;
+that is, a movement of the world-soul or change of state in the
+individual soul ? Budge (p. 192) gives its Egyptian equivalent as
+Per-Uatchit, i.e, " House of the Eye."
+
+2 Lit., from her feet.
+
+3 Lit., vessel ; may also mean " celL"
+* F-M?^,, "hunting."
+
+s €\7i — a probable play on the St-cActv (" tear to pieces ") above.
+^ Sc. the crocodiles.
+
+"^ It is remarkable how that every now and then Plutarch in-
+serts apparently the most naive superstitions without a word of
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 289
+
+3. And it is because of this [they say] that many
+tombs of Osiris are spoken of in Egypt ^ — through her
+performing burial rites on meeting with each piece.
+
+4. Some, however, say no ; but that making herself
+images [of them] she distributed these to each city ,2 as
+though she were giving it the [whole] body, in order
+that it might have honours from the multitude, and
+that even if Typhon should get the better of Horus,
+he might renounce his search for the true tomb when
+many were spoken of and pointed out,
+
+5. Now, the only one of the parts of Osiris which
+Isis did not find was that which causes awe ; for that
+it was cast straightway into the Eiver, and the scaly-
+coat,^ and the devourer,^ and the sharp-snout^ ate it
+up — which [they say] among fishes are considered
+specially expiate;^ and that Isis, making herself a
+counterfeit instead of it, consecrated the phallus; in
+honour of which the Egyptians keep festival even to
+this dayj
+
+XIX. 1. Thereafter Osiris, coming to Horus out of
+
+explanation. They cannot be all simply irresponsible on dits.
+It is, perhaps, not without significance that the " chest " is first of
+all drifted to the Papyrus country, and that the haris of Isis
+should be made of papyrus. It seems almost as if it symbolised
+some " vehicle " that was safe from the " crocodile " of the deep.
+In other words, the skiffs are not paper boats and the crocodiles
+not alligators.
+
+1 "And Egypt they say is the body" — to quote a refrain
+from Hippolytus concerning the " Gnostics."
+
+2 Presumably of the fourteen sacred ones.
+
+^ XeiridwrSv. ^ <pdypoy, ^ 6^{>pvyxov.
+
+^ Anthropologically, " taboo."
+
+"* What these " fourteen parts " of Osiris may be is beyond the
+sphere of dogmatism. I would suggest that there may be along one
+line some connection with those seeds of life which have lately-
+been called " permanent atoms " ; and along another line, that
+of the birth of the Christ-consciousness, there may be a series of
+powers derived from past incarnations.
+
+VOL. I. 19
+
+Hosted by VjOOQIC
+
+
+290 THRICE-GREATEST HERMES
+
+the Invisible/ worked through him and trained him for
+the fight.
+
+2. He then put this test question to him: "What
+does he consider fairest ? " And when he said : " Help-
+ing father and mother in ill plight," — he asked a
+second: "What animal does he think most useful for
+those who go out to fight ? "
+
+3. And when Horus said "Horse," he marvelled
+at him, and was quite puzzled why he did not say
+" Lion " rather than " Horse." ^
+
+4. Accordingly Horus said : " * Lion ' is a needful
+thing to one requiring help, but ' Horse ' [can] scatter in
+pieces the foe in flight and consume him utterly." ^
+
+Thus hearing, Osiris rejoiced that Horus was fitly
+prepared.
+
+5. And it is said that as many were changing over
+to the side of Horus, Thtieris,^ Typhon's concubine,
+came too; and that a certain serpent pursuing after
+her was cut in pieces by those round Horus.^ And
+to-day on this account they cast down a small rope and
+cut it in pieces for all to see,^
+
+6. The fight lasted for many days, and Horus won.
+Nevertheless, when I sis received Typhon in bonds, she
+did not make away with him. Far from it; she
+unbound him and let him go.
+
+1 Hades.
+
+2 The " Horse " may symbolise purified passion, and " Lion '* a
+certain receptive power of the mind.
+
+3 The white " Horse " was presumably opposed to the red " Ass "
+of Typhon, as the purified vehicle of the soul contrasted with the
+impure. " Lion " was one of the grades in the Mithriac Mysteries ;
+it was a sun-animal.
+
+* Eg. Ta-urt (Budge, op. cit, p. 193).
+
+^ That is, by the Companions of Horus (or Disciples of the
+Christ) — a frequent scene in the vignettes of the Book of the
+Dead.
+
+^ That is, in the public mystery processions.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 291
+
+7. Horus, however, did not bear this temperately;
+but, laying hands on his mother, he drew off the crown
+from her head. Whereupon Hermes^ crowned her
+with a head-dress of cow-horns.
+
+8. And [they say] that also when Typhon got the
+chance of bringing a bastardy suit against Horus, and
+Hermes was counsel for the defence, Horus was judged
+legitimate by the Gods.^
+
+And that [afterwards] Typhon was fought under in
+two other fights.
+
+9. And that Isis brought forth from her union with
+Osiris after his death ^ Harpocrates * — who missed the
+month and was weak in his limbs from below upwards.^
+
+The Under-meaning a Eeflexion of a
+Certain Eeason
+
+XX. 1. These are approximately the chief headings of
+their myth, after the most ill-omened have been removed,
+— such as, for instance, the one about the cutting up
+into pieces of Horus, and the beheading of Isis.
+
+2. That, however, if people suppose and say these
+things about that Blessed and Incorruptible ISTature
+according to which especially the Divine conceives
+itself, as though they were actually enacted and really
+took place, ** thou shouldst spit out and cleanse mouth,"
+according to ^schylus,^ there is no need to tell thee ; ^
+for of thyself thou showest displeasure at those who
+hold illegitimate and barbarous notions about the Gods.
+
+1 The symboliser as well as the interpreter of the Gods.
+
+2 Gf. liv. 3.
+
+3 Or it may mean " completion " (reXevr^*').
+
+* In Eg. Heru-p-khart, i.e.^ " Horus the Younger."
+
+5 rois KoirwOiv yvlois — but, presumably, not from above down-
+wards.
+
+6 Ed. Nauck, p. 84. 7 Sc, Klea.
+
+
+Hosted by
+
+
+Google
+
+
+292 THRICE-GREATEST HERMES
+
+3. But that these things are not at all like lean tales
+and quite empty figments, such as poets and prose-
+writers weave and expand as though they were spiders
+spinning them out of themselves from a source that has
+no basis in fact, but that they contain certain informa-
+tions and statements, — thou knowest of thyself.
+
+4. And just as the Mathematici ^ say that " Iris " ^
+is the sun's reflexion many-coloured by the return of its
+visual impression to the cloud, so the myth down here
+is a reflexion of a certain reason {logos) that bends its
+thinking back on other things ; as both the sacred
+offerings suggest by the reflected element of mournful-
+ness and sadness they contain, and also the dispositions
+of the temples which in one direction open out into
+side-walks and courts for moving about in, open to the
+sky and clear of objects, while in the other they have
+hidden and dark robing-rooms under ground, like places
+for putting coffins in and burying-spots.
+
+Concerning the Tombs of Osiris
+
+5. And not least of all does the belief of the Osirians
+— since the body [of Osiris] is said to be in many places
+— [suggest this].
+
+6. For they say that both Diochite is called Polichne,^
+because it alone has the true one ; and [also] that it
+is at Abydos that the wealthy and powerful of the
+Egyptians are mostly buried, — their ambition being to
+have a common place of burial with the body of Osiris ;
+and [again] that it is at Memphis that the Apis is
+
+^ Presumably, again, tlie Pythagorean grade above the Hearers.
+
+2 Sc. the rainbow.
+
+2 Either the reading is at fault, or some word-play is intended.
+Dio-chite is probably Zeus-something ; but I cannot resolve it.
+While Polichne is a rare diminutive of ir<^Atj, and would thus
+mean " Little City."
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 293
+
+reared as the image of the soul of Osiris, because it is
+there also that his body lies.
+
+7. And as for the City/ some interpret it as " Harbour
+of Good Things," but others give it the special meaning
+of " Tomb of Osiris " ; it is, however, the little island one ^
+at Philae [they say] which is in other respects inaccessible
+and inapproachable by all, and that not even the birds
+light on it or fish come near it, but at a certain season
+the priests cross over [to it] and make offerings to the
+dead, and place wreaths on the monument which is
+overshadowed by a . . . ^ tree, which is greater in size
+than any olive.
+
+XXI. 1. Eudoxus, however, [says] that, though many
+tombs are spoken of in Egypt, the body lies at Busiris,
+for that this had been the native city of Osiris ; never-
+theless Taphosiris requires no further reason [to
+establish its claim], for the name explains itself —
+namely, " Burying of Osiris,"
+
+" But I rede of cutting of wood, of rending of linen,
+and pouring of pourings, because many of the mystery-
+[meanings] have been mixed up with them.'* *
+
+1 ? Memphis ; or, perhaps, as contrasted with the Little City above .
+
+2 Be, city ; vKrmavriv is a hopeless reading, and as the editors
+can make nothing out of it, I suggest vncrlriha. or vtiffiZdvnv {'t6\iv).
+
+3 ^fidih-ns — apparently an error ; Bernardakis suggests ixivBris
+(Lat. mentha\ " mint.'' Can the right reading be m^ikyis (ir<Jas) ?
+The herha medica was, however, the sainfoin or lucerne, which,
+though reminding us of the melilote of xiv., is hardly capable of
+overshadowing a tomb even in the most intricate symbolical sense.
+
+* Evidently a verbal quotation from Eudoxus. The " cutting
+of wood " presumably refers to tbe trunk with lopped branches,
+which, as we have already mentioned, occurs so frequently on so-
+called "Gnostic" gems ; the "rending of linen" {\ivov) might also
+be made to refer to Linus, the Bard, and his being torn to pieces
+like Osiris ; Linos also means the " Song of Linus," so called, it is
+supposed by some, because in earliest times the strings of the
+cithara were made of flax. For other names of singers used for
+lays or modes of song, compare Maneros and Paean ; though, of
+
+
+Hosted by
+
+
+Google
+
+
+294 THRICE-GREATEST HERMES
+
+2. But the priests say that not only of these Gods,
+but also of all the other gods also who are not ingener-
+able and indestructible, the bodies lie buried with them
+when they^ have done their work, and have service
+rendered them, while their souls shine in heaven as
+
+course, the modern way is to regard the singer as the personifica-
+tion of the lay. Thus in Emil Naumann's History of Music
+(trans, by F. Praeger ; London, 1882), p. 3, we read : " The
+Greek tribes of Peloponnesus and Hellas, as well as the Egyptians,
+Phoenicians, the Greeks inhabiting the isles of the ^^gean Sea,
+and especially those of Cyprus, had a primitive * Lament ' which
+seems to have come originally from PhcBnicia. It was a funeral
+chant on the death of the youthful Adonis. . . . The Egyptians
+changed its signification into a lament of Isis for Osiris. The
+Greeks called it Linos, and the Egyptians Maneros.^' The
+beginning of the " Maneros," or the Lament of Isis for her
+Beloved, is given as follows by Naumann (p. 40) :
+
+" Return, oh, return !
+God Panu, return 1
+
+Those that were enemies are no more here.
+Oh lovely helper, return,
+That thou may'st see me, thy sister,
+Who loves thee.
+And com'st thou not near me ?
+
+beautiful youth, return, oh, return !
+When I see thee not
+
+My heart sorrows for thee,
+My eyes ever seek thee,
+
+1 roam about for thee, to see thee in the form of the Nai,
+To see thee, to see thee, thou beautiful loVd one.
+
+Let me the Radiant, see thee
+
+God Panu, All-Glory, see thee again I
+
+To thy beloved come, blessed Onnofris,
+
+Come to thy sister, come to thy wife,
+
+God Urtuhet, oh, come I
+
+Come to thy consort ! "
+
+Unfortunately, Naumann does not give any references by
+which we can control his statements.
+
+1 The bodies ; presumably referring to the mummies of those
+men and women who were believed to have reached the god-stage
+while living.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 295
+
+stars; and that [of the former] the [soul] of Isis is
+called Dog by the Greeks, but S5this by the Egyptians,
+while the [soul] of Horus [is called] Orion/ and Typhon's
+Bear.2
+
+3. And [they say] that for the burials of the animals
+to whom honour is paid, the rest [of the Egyptians]
+pay the [dues which are] mutually determined; but
+that those alone who inhabit the Thebaid give nothing,
+since they believe that no God is subject to death, and
+that he whom they themselves call Kneph is ingener-
+able and immortal.
+
+Concerning the Theory of Evemerus
+
+XXII. 1. Now, since many of such [? tombs] are
+spoken of and pointed out, those who think these
+[myths] commemorate the awe-inspiring and mighty
+works and passions of kings and tyrants who, through
+surpassing virtue and power, put in a claim for the
+reputation of divinity, and afterwards experienced
+reverses of fortune, — employ a very easy means of
+escape from the [true] reason (logos), and not unworthily
+transfer the ill-omened [element in them] from Gods
+to men, and they have the following to help them from
+the narratives related.
+
+2. For instance, the Egyptians tell us that Hermes
+had a short-armed^ body, that Typhon was red-skinned,
+
+1 Of. xxii. 3.
+
+2 Probably all name-plays : K^iay (dog), ^s/kv (conceive) — see
+Ixi. 6 ; H-or-os, Or-ion ; &pk-tos (bear), ^JapK (suffice, endure,
+bear) ; Ursa Major is called the Wain.
+
+3 yaKi'dyKwya — lit., weasel-amied. Now, as we are told further
+on (Ixxiv. 3) that the weasel {ya\7i\ or marten, was fabled to
+conceive through the ear and bring forth through the mouth,
+this animal was evidently a symbol of mind-conception. " Weasel-
+armed" may thus symbolise some faculty of the interpretative
+mind (Hermes).
+
+
+Hosted by
+
+
+Google
+
+
+296 THRICE-GREATEST HERMES
+
+Horus white, and Osiris black, as though they were
+[men] born in the course of nature.
+
+3. Moreover, also, they call Osiris "General" and
+Kanobus ^ " Pilot," — from whom, they say, the star got
+its name.
+
+And [they say] that the ship which Greeks call Arg5
+is an image of the bark of Osiris, constellated in his
+honour, and that it sails not far from Orion and Dog,
+the former of which Egyptians consider the sacred
+[boat] of Horus and the latter of Isis.^
+
+XXIII. 1. But I am afraid that this is ** moving the
+immoveable," and " warring " not only " against many
+centuries," according to Simonides,^ but ''against
+many nations of men " and races held fast by religious
+feeling towards these Gods — when people let nothing
+alone but transfer such mighty names from heaven
+to earth, and [so] banish and dissolve the sense of
+worship and faith that has been implanted in nearly
+all [men] from their first coming into existence,
+opening up wide entrances for the godless folk,* and
+reducing the divine [mysteries] to the level of men*s
+doings, and giving a splendid licence to the charla-
+tanries of Evemerus^ the Messenian, who of himself
+composing the counterpleas of a baseless science of
+myths unworthy of any credit, flooded the civilised
+world with sheer atheism, listing off level all those who
+are looked on as gods into names of generals and
+admirals and kings, who (he is good enough to say)
+
+1 Canopus was fabled to be the pilot of the bark of Osiris ; in
+Greek mythology he was the pilot of the General Menelaos on
+his return from Troy.
+
+2 Gf. xxi. 2. 3 Bergk, iii. 522.
+
+* Or " atheists." " An evident allusion to the Christians," says
+King {in loc) ; but we think Plutarch was more impersonal than
+his commentator.
+
+^ E. flourished in the last quarter of the 4th century B.C.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 297
+
+existed in bygone days, and are recorded in letters of
+gold at Panchon,^ — which [records] neither any non-
+Greek nor any Greek has ever come across, but Evemerus
+alone, when he went his voyage to the Panchoans and
+Triphyllians, who never have been nor are anywhere
+on earth.
+
+XXIV. 1. And yet mighty deeds of Semiramis are
+sung of among Assyrians, and mighty [deeds] of
+Sesostris in Egypt. And Phrygians even unto this day
+call splendid and marvellous doings " manic," owing to
+the fact that Manes, one of their bygone kings, proved
+himself a good and strong man among them — the one
+whom some call Mazdes.^ Cyrus led Persians and
+Alexander Macedonians, conquering to almost the
+ends of the earth ; still they have the name and
+memory of good kings [only].
+
+2. "And if some elated by vast boastfulness," as
+Plato says,^ "concomitant with youth and ignorance,
+through having their souls inflamed with pride," have
+accepted titles like gods and dedications of temples,
+their glory has flourished for a short time [only], and
+afterwards they have incurred the penalty of vanity
+and imposture coupled with impiety and indecency : *
+
+Death coming swift on them, like smoke they rose and fell.^
+
+And now like runaway [slaves] that can be lawfully
+
+1 The capital, presimiably, of the mythical island of Panchsea,
+which was supposed to be somewhere on the southern coast of
+Asia, and to which Evemerus pretended he had sailed on a voyage
+down the Red Sea.
+
+2 King notes : " The common title of the Sassanean kings was
+* Masdesin ' — * servant of Ormazd.' "
+
+3 Legg., 716 a.
+
+4 A bold thing to write in an age of Emperor-divinising,
+
+^ Apparently from an otherwise unknown poet. See Bergk,
+iii. 637.
+
+
+Hosted by
+
+
+Google
+
+
+298 THRICE-GKEATEST HERMES
+
+taken, torn from the temples and altars, they have
+naught but their tombs and graves.
+
+3. Wherefore Antigonus the Elder, when a certain
+Hermodotus, in his poems, proclaimed him " Son of the
+Sun and God," remarked : " My night-stool boy has not
+so exalted an opinion of me."
+
+And with reason also did Lysippus, the sculptor,
+blame Apelles, the painter, for putting a thunderbolt
+in Alexander's hand when painting his portrait ; whereas
+he himself gave him a spear-head, — from which not
+even time itself shall take away the glory, for it is true
+and really his.
+
+The Theory of the Daimones
+
+XXV.^ 1. They, therefore, [do] better who believe
+that the things related about Typhon and Osiris and
+Isis are passions neither of gods nor of men, but of
+mighty daimones, who — as Plato and Pythagoras and
+Xenocrates and Chrysippus say, following the theologers
+of bygone days — have been born more manful than
+men, far surpassing us in the strength of their nature,
+yet not having the divine unmixed and pure, but pro-
+portioned with the nature of soul and sense of body,
+susceptible of pleasure and pain and all the passions,
+which as innate to such metamorphoses trouble some
+[of them] more and others less.
+
+2. For the Gigantic and Titanic [Passions] sung of
+among the Greeks, and certain lawless deeds of Kronos
+and antagonisms of Python against Apollo, and fleeings
+of Dionysus, and wanderings of Demeter, in no way fall
+behind the Osiric and Typhonic [Passions], and others
+which all may hear unrestrainedly spoken of in myth.
+
+And all these things which, under the veil of mystic
+
+1 This chapter is quoted by Eusebius, Prmp. Ev.y V. v. 1.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 299
+
+sacred rites and perfectionings, are carefully kept from
+being spoken of to, or being allowed to be seen by, the
+multitude, have a similar reason {logos)}
+
+XXVI. 1. Moreover, we hear Homer also on every
+occasion calling the good variously "godlike" and
+" equal to gods," and as " having directions ^ from gods '* ;
+whereas he employs epithets connected with the
+daimones to both worthy and unworthy in common :
+
+Draw nigh thou daimonian ! Why so f earest the Argives 1 ^
+
+And again :
+
+But when indeed for the fourth time he charged, a daimon's
+equal.*
+
+And:
+
+thou daimonian ! what so great ills do Priam now
+And Priam's sons to thee, that thou dost hotly rage
+Troy's well-built town to rase 1 ^
+
+— as though the daimones possessed a mixed and an
+unbalanced nature and propensity.
+
+2. For which reason Plato ^ refers unto the God
+upon Olympus' height things '' right " and " odd," ^ and
+to the daimones those that respond to these.^
+
+3. Moreover, Xenocrates^ thinks that the nefast
+days, and all the holy days on which are strikings or
+beatings or fastings or blasphemies or foul language,
+have nothing to do with honours paid to gods or to
+beneficent daimones; but that there are natures in
+
+1 Sc. to the mysteries of the Egyptians.
+
+2 /u^Seo — also meaning virilia.
+
+3 11.^ xiii. 810. 4 II, V. 438.
+
+6 IL, iv. 311 6 Legg.,1llA,
+
+" Pythagorean technical terms.
+
+8 Ttt apri<p(ava — the meaning seeming to be rather that of
+" concord " than of " discord."
+'•^ An immediate pupil of Plato's,
+
+
+Hosted by
+
+
+Google
+
+
+300 THRICE-GREATEST HERMES
+
+the circumambient/ mighty and powerful indeed, but
+difficult to turn and sullen, who take pleasure in such
+things, and when they get them turn to nothing worse.
+
+4. The beneficent and good ones, again, Hesiod also
+calls "holy daimones" and "guardians of men" —
+"wealth-givers and possessors of this sovereign pre-
+rogative." 2
+
+5. Plato ^ again gives to this race the name of
+hermeneutic and of diaconic* 'twixt Gods and men,
+speeding up thitherwards men's vows and prayers,
+and bringing thence prophetic answers hitherwards
+and gifts of [all] good things.
+
+6. Whereas Empedocles ^ says that the daimones have
+to amend whatever faults they make, or discords they
+may strike :
+
+"For aether's rush doth chase them seawards; sea
+spews them on land's flat ; and earth into the beams of
+tireless sun ; and he casts [them again] into the swirls
+of aether. One takes them from another, and all abhor
+[them] " ® — until after being thus chastened and purified
+they regain their natural place and rank.
+
+XXVII. 1. Born from the self-same womb as these
+and things like them, they say, are the legends about
+Typhon : how that he wrought dire deeds through envy
+and ill-will, and after throwing all things into confusion
+and filling the whole earth and sea as well with ills,
+he afterwards did make amends.
+
+^ The air or ether that surrounds the earth.
+
+2 Op. et Dies, 126. ^ Symp,, 202 B.
+
+4 That is, " interpretative and ministering."
+
+s E. flonrished 494-434 B.c.
+
+6 Stein, 377 ff. ; Karsten, 16 ff. ; Fairbanks, p. 204. The
+quotation appears to me inapposite, for Empedocles seems to be
+speaking of " any who defile their bodies sinfully " and not of
+daimones ; but perhaps the " received " recombination of the
+fragments is at fault.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 301
+
+2. But the sister- wife^ of Osiris who upheld his
+honour, after she had quenched and laid to rest
+Typhon's frenzy and fury, did not allow forgetfulness
+and silence to overtake the struggles and trials he had
+endured, and her own wanderings and many [deeds] of
+wisdom, and many [feats] of manliness ; but inter-
+mingling with the most chaste perfectionings images
+and under-meanings and copies of the passion she then
+endured, she hallowed at one and the same time a
+lesson of religion and a consolation to men and women
+placed in like circumstances.
+
+3. And she and Osiris, being changed through virtue
+from good daimones into gods ^ — as [were] subsequently
+Heracles and Dionysus — possess the dignities of gods
+and daimones at one and the same time, fitly combined
+everywhere indeed but with the greatest power among
+those above earth and under earth.
+
+
+Concerning Sarapis
+
+4. For they say that Sarapis is no other than Pluto,
+and Isis Persephassa, as Archemachus of Euboea has
+said,^ and Heracleides of Pontus, when he supposes that
+the seat of the oracle at Canopus is Pluto's.
+
+XXVIII. 1. And Ptolemy the Saviour* saw in a
+dream the gigantic statue of Pluto — though he had not
+previously seen or known what form it was — ordering
+him to bring it to Alexandria.
+
+1 See the note on " sister- wife '' in comment on Mariamne
+(Hipp., Philos. — Introd.) in chapter on " Myth of Man." — Prolegg.,
+p. 147, n. 7.
+
+2 That is to say, according to this theory the myth represented
+the degree of initiation by which a man passed from the stage of
+daimon into the state of god, or from super-man to christ.
+
+3 Miiller, iv. 315.
+
+* The first Greek King of Egypt, 324-285 B.C.
+
+
+Hosted by
+
+
+Google
+
+
+302 THRICE-GREATEST HERMES
+
+2. And when he did not know and had no idea
+where [the statue] was set up even after he had
+described his vision to his friends, there was found a
+man, a great traveller, by name Sosibius, who said he
+had seen at Sinope just such a colossus as the King
+seemed to have seen.
+
+3. He [PtolemyJ accordingly sent Sdteles and Dio-
+nysius, who, after expending much time and pains, not,
+however, without the help of God*s providence, removed
+it secretly and brought it away.
+
+4. And when it had been brought [to Alexandria]
+and set up publicly, the assistants of Timotheus, the
+intrepreter, and of Manethds, the Sebennyte, coming to
+the conclusion that it was a statue of Pluto — ^judging
+by its Cerberus and huge serpent — convinced Ptolemy
+that it was that of no other of the Gods than Sarapis ;
+for it did not come from Sinope with this designation,
+but after it had been brought to Alexandria it received
+the Egyptian name for Pluto, namely, Sarapis.
+
+5. And yet people sink into the opinion of Heracleitus
+the physicist, when he says: " Hades ^ and Dionysus
+are the same, for whomsoever they rage and riot."
+
+For those who postulate that Hades means the body,
+because the soul is as it were deranged and drunken
+in it, put forward a [too] meagre interpretation.
+
+6. But [it is] better to identify Osiris with Dionysus,
+and Sarapis^ with Osiris, so designated after he had
+changed his nature.^ Wherefore " Sarapis " is common
+to all,* just as, you know, those who share in the
+sacred rites know that " Osiris " is.
+
+1 That is, Pinto.
+
+2 Sar-apis — a combination of Osiris and Apis, the soul of
+Osiris ; c/. xxix, 5. In Eg. Asar-Hapi.
+
+3 Presumably from that of a daimon to that of a god.
+^ That is, apparently, a common principle in all men.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 303
+
+XXIX. 1. For it is not worth while paying attention
+to the Phrygian writings, in which Isis is said to have
+been the daughter of Charops,^ son of Heracles, and
+Typhon [son] of -^acus,^ [also] son of Heracles.
+
+2. Nor [is it worth while] refraining from disregarding
+Phylarchus,^ when he writes that "it was Dionysus
+who first brought two oxen from India to Egypt, of
+which the name of one was Apis, and of the other
+Osiris ; and Sarapis is the name of Him who orders [or
+adorns] the universe from sairein [* sweep,* * clean'],
+which some say [means] ' beautifying ' and * adorning ' " ;
+— for these [remarks] of Phylarchus are absurd.
+
+3. But still more so are those of them who say that
+Sarapis is not a god, but that the coffin of Apis* is
+thus named, and that certain brazen gates at Memphis,
+called " Gates of Oblivion and Wailing," open with a
+deep mournful sound, when they bury Apis, and that
+therefore at every sounding of brass ^ we are plunged
+into oblivion.
+
+4. More moderate are they who claim that the
+
+1 Lit. " Bright- (or Glad-) eyed."
+
+2 Lit., "Waller.^'
+
+2 A historian ; flourished c. 215 B.C.
+
+'^ *'Ain5os orc^poj'— another word-play, " sor-opis."
+
+^ Tixo^'VTos . . . xa^«^/"«To^. This has, nevertheless, pre-
+sumably some mystic meaning. In the myths, cymbals were said
+to have been used to protect the infant Bacchus, and infant Zeus,
+and to keep off the Titans— so, presumably, plunging them into
+oblivion. Compare also 1 Corinth, xiii. 1, where Paul, speaking
+of the exercise of the " gift of tongues " (glossalaly) without love
+{aydTTTi), uses precisely the same term, when saying: "I am
+become as sounding brass {xa\Khs ^x^v) or tinkling cymbal"— the
+latter being, perhaps, a reference to the sistrum, while the former
+is perhaps a metaphor, derived from the hardness and colour
+(" red ") of brass, or rather bronze or copper, referring to a state
+
+of mind which plunges us into oblivion of our better part
+
+namely, spiritual love.
+
+
+Hosted by
+
+
+Google
+
+
+304 THRICE-GREATEST HERMES
+
+simultaneous motion of the universe is thus called [sc,
+Sarapis\ from seuesthai and sousthai ^ ['* speed "].
+
+6. But the majority of the priests say that " Osiris "
+and "Apis" have been woven together into the same
+[name], explaining and teaching that we should look
+on the Apis as an en-formed image of the soul of Osiris.
+
+6. If, however, the name of Sarapis is Egyptian, I
+for my part think it denotes **Good Cheer" and
+** Delight," — finding a proof in the fact that Egyptians
+call the feast " Delights " — Sairei,
+
+And, indeed, Plato says that Hades has been so called
+as being " sweet '' ^ and gentle to those with him.
+
+7. And with Egyptians both many other of their
+names are logoi,^ and they call subterrene space, to
+which they think the souls depart after death, Amenthe
+— the name signifying "the [space] which takes and
+gives." ^
+
+8. But whether this, too, is one of the names that
+left Hellas long ago and have been brought back again,^
+we will examine later on ; for the present, let us continue
+with the remainiag [points] of the belief we have in
+hand.
+
+Concerning Typhon
+
+XXX. 1. Osiris and Isis have, then, changed from
+good daimones into gods. While as for the dimmed
+and shattered power of Typhon, though it is at the last
+
+1 A contracted form of the former — from \/<TFe or \/<r€Tj with
+idea of " swiftness." (?) Serapis — sev-a-this — sevesthai,
+
+2 ado^/ffiop — unknown to the lexicons. I suggest that it may
+be connected with ^5os, from \/aFad of avddifca — hence "sweet."
+
+3 Presumably "words of deep meaning" — another technical
+use of this Proteus-like term.
+
+4 Budge (op. cit.^ ii. 200) says : " The Egyptian form of the
+word is Amentet, and the name means * hidden place.'"
+
+^ How very Greek 1 Cf. Ixi. 4.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 305
+
+gasp and in its final death-throes, they still appease
+and soothe it with certain feasts of offerings.
+
+2. Yet, again, every now and then at certain festivals
+they humiliate it dreadfully and treat it most despite-
+fully, — even to rolling red-skinned men in the mud,
+and driving an ass over a precipice (as the Koptos folk),
+because Typhon was born with his skin red and ass-like.
+While the Busiris folk and Lycopolitans do not use
+trumpets at all, as they sound like an ass [braying],
+
+3. And generally they think that the ass is not clean,
+but a daimonic animal, on account of its resemblance to
+that [god] ; and making round-cakes for feasts of offer-
+ings on both the month of Payni and that of Pha5phi,^
+they stamp on them an '' ass tied." ^
+
+4. And on the Feast of Offerings of the Sun, they
+pass the word to the worshippers not to wear on the
+body things made of gold nor to give food to an ass.^
+
+5. The Pythagorics also seem to consider Typhon a
+daimonic power ; for they say that Typhon was produced
+on the six-and-fif tieth even measure ; and again that
+the [power ^] of the equilateral triangle is that of Hades
+and Dionysus and Ares ; that of the square is that of
+Ehea and Aphrodite and Demeter and Hestia (that is,
+Hera) ; that of the dodecagon, that of Zeus ; and that of
+the fifty-six angled [regular polygon], that of Typhon —
+as Eudoxus relates.^
+
+* Copt. Paoni and Paopi — corr. roughly with June and October.
+
+2 ovov d^defjLci'ov, Of, Matt. xxi. 2 : ovov ^€B€fx€y7]v ; cf. also 1. 3,
+where it is a hippopotamus.
+
+3 That is, presumably, not to weigh down their minds with the
+superfluity of riches, nor to feed up the stupid and lustful energies
+of their souls.
+
+^ A "power" in Pythagorean technology is the side of a
+square (or, perhaps, of any equilateral polygon) in geometry ; and
+in arithmetic the square root, or that which being multiplied into
+itself produces the square.
+
+^ Eudoxus seems to have been Plutarch's authority for his
+VOL. I. 20
+
+Hosted by VjOOQIC
+
+
+306 THRIOE-GREATEST HERMES
+
+XXXI. 1, And, as Egyptians believe that Typhon was
+born red-skinned/ they offer in sacrifice even the red
+ones of the oxen [only] after making the scrutiny so close,
+that if [the beast] has even a single hair black or white,
+they consider it ought not to be offered ; for if it were
+sacrificed, it would not be an acceptable offering to the
+gods, but the contrary, [as are] all those animals which
+have seized on the souls of impure and unrighteous men
+in the course of their fcransformation into bodies other
+[than human].
+
+2. Wherefore after uttering imprecations on the head
+of the victim,^ and cutting off its head, they used to
+cast it into the river in olden days, but nowadays
+they give it to strangers.
+
+3. But as to the one that is to be sacrificed, those of
+the priests who are called Sealers, set a mark upon it —
+the seal (as Kastor ^ relates) having the impression of a
+man forced down on one knee with his hands drawn
+round behind him, and a sword sticking in his throat.^
+
+4. And they think that the ass also has the distinction
+of its resemblance [to Typhon], as has been said, owing
+to its aversion to being taught and to its wantonness,
+no less than on account of its skin.^
+
+5. For which cause also since they especially detested
+
+statements regarding Pythagorean doctrine ; c/. vi., lii., Ixii. The
+Typhonic figure might be generated by " sevening " the interior
+angles of a regular octagon and producing the radii to the circum-
+ference of the circumscribed circle, or by "eighting" the interior
+angles of a regular heptagon.
+
+1 Or " fire-coloured."
+
+2 Compare the Ritual of Azazel (the scape-goat), one of the
+two goats set apart on the Great Day of Atonement among the
+Jews (Lev. xvi. 8 if.).
+
+3 Of. also Plut., JStia Bomana, x. Castor was a Greek historian
+who was a contemporary of Cicero and Julius Csesar.
+
+4 The ox was, therefore, the vicarious atonement of the man.
+
+5 It was a red ass, then, which symbolised the Typhonic power.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 307
+
+Ochus ^ of [all] the Persian kings as being blood-polluted
+and abominable, they gave him the nickname of " Ass."
+
+But he, with the retort: "This Ass, however, will
+make a fine feast off your Ox " — slaughtered the Apis,
+as Deinon has told us.^
+
+6. Those, however, who say that Typhon's flight from
+the fight on an ass lasted seven days, and that after
+reaching a place of safety he begat sons — Hierosolymus
+and Judseus — are instantly convicted of dragging Judaic
+matters into the myth.^
+
+The Theory of the Physicists
+
+XXXII. 1.* The above [data] then afford [us] such
+and such suggestions. But from another start let us
+consider the simplest of those who seem to give a more
+philosophical explanation.
+
+2. These are those who say that, just as the Greeks
+allegorise time as Kronos, and air as Hera, and the
+changes of air into fire as the generation of Hephaestus,
+so, with the Egyptians, Osiris uniting with Isis (earth)
+is Neilos, and Typhon is the sea, into which Neilos
+falling vanishes and is dispersed, except such part [of
+him] as the earth takes up and receives, and so becomes
+endowed with productiveness by him.
+
+3. And there is a sacred dirge made on Kronos ^ — and
+it laments " him who is born in the left-hand and died
+in the right-hand parts/'
+
+1 a/, xi. 4.
+
+2 Miiller, ii. 95. Deinon was a contemporary of Alexander the
+Great, and wrote a history of Persia.
+
+3 This item of ancient scandal would almost seem to have come
+from the pen of an Apion ; it is an interesting specimen of theo-
+logical controversy in story -form.
+
+* This paragraph and the next is quoted by Eusebius, Prcep,
+Ev,, III. iii. 11. ^ That is Nile.
+
+
+Hosted by
+
+
+Google
+
+
+308 THRICE-GREATEST HERMES
+
+4. For Egyptians think that the eastern [parts] of
+cosmos are " face," the northern '' right hand," and the
+southern " left hand."
+
+5. The Nile, accordingly, since it flows from the
+southern [parts] and is consumed by the sea in the
+northern, is naturally said to have its birth in the left
+hand and its death in the right hand.
+
+6. Wherefore the priests both pronounce the sea
+expiate and call salt " Typhon*s foam " ; and one of the
+chief prohibitions they have is: "Not to set salt on
+table." And they do not give greeting to sailors,^
+because they use the sea, and get their living from it.
+And for this cause chiefly they accuse fish of being a
+cause of offence, and write up : " Hate fish ! "
+
+7. At anyrate at Sais, in the entrance of the temple
+of Athena, there used to be chiselled up " babe," " old
+man," and after that " hawk," then *' fish," and last of all
+" hippopotamus."
+
+8. This meant in symbols : " O ye who are being
+born and are dying, God hates shamelessness."
+
+9. For " babe " is the symbol of birth, and " old man "
+of death, and by " hawk " they mean God, and by " fish "
+hatred — as has been said on account of the sea — and
+by "hippopotamus" shamelessness, for it is fabled that
+after it has killed its sire it violates its dam.
+
+10. Moreover, what is said by the Pythagorics,
+namely, that the sea is the tears of Kronos, would seem
+to riddle the fact of its not being pure and cognate
+with itself.
+
+11. Let these things then be stated from outside
+sources as matters of common information.
+
+XXXTII. 1. But the more wise of the priests call not
+only the Nile Osiris, and the sea Typhon ; but [they
+
+^ Lit., " pilots " ; but presumably liere used in a more general
+sense.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 309
+
+call] without exception every source and power that
+moistens, Osiris — considering [him] cause of generation
+and essence of seed, and Typhon everything dry and
+fiery, and of a drying nature generally and one hostile
+to moisture.
+
+2. And for this cause also, as they think he [Typhon]
+was born with a reddish-yellow body, somewhat pale,
+they do not by any means readily meet or willingly
+associate with men that look like this.
+
+3. On the other hand, again, they say in the language
+of myth that Osiris was born black, because all [Nile]
+water blackens both earth and garments and clouds
+when mixed [with them], and [because] moisture in
+the young makes their hair black, whereas greyness
+comes on those past their prime, as though it were a
+turning pale owing to its drying up.
+
+4. The spring, too, is blooming and productive and
+balmy; but autumn, through lack of moisture, is
+inimical to plants and baneful to animals.
+
+5. And the ox that is kept at Sun-city which they
+call Mnevis — sacred to Osiris, while some also consider
+it ure of Apis — is black [also] and has second honours
+after Apis.
+
+6. Moreover, they call Egypt, since it is especially
+black-soiled, just like the black of the eye, Chemia, and
+liken it to a heart; for it is warm and moist, and is
+mostly confined in, and adjacent to, the southern part
+of the civilised world, just like the heart [is] in man's
+left-hand side.
+
+XXXIV. 1. Moreover, they say that sun and moon
+do not use chariots for vehicles, but sail round in boats
+— [thus] riddling their being nourished by and being
+born in the " Moist."
+
+2. And they think that Homer also, like Thales, set
+down Water as source and birth of all things, after
+
+
+Hosted by
+
+
+Google
+
+
+310 THRICE-GREATEST HERMES
+
+learning [it] from Egyptians ; for that Oceanns is Osiris,
+and Tethys ^ Isis, as nursing all things and rearing them
+all up together.
+
+3. For Greeks also call ** emission of seed " aTr-ovarlav
+and ** intercourse " a-vv-ovcrlavy and '*son'' (ulov) from
+''water" (vSarog) and "moisten" (vcrai);^ and [they
+call] Dionysus Hues, as lord of the Moist Nature, in
+that he is no other than Osiris.
+
+4. In fact, Hellanicus^ seems to have heard Osiris
+called Hu-siris by the priests ; for he persists in thus
+calling the god, presumably from his nature and power
+of invention.*
+
+Concerning Osikis and Dionysus
+
+XXXV. 1. That, however, he is the same as Dionysus
+— who should know better than thou thyself, O Klea,
+who art Archi-charila ^ of the Thyiades at Delphi,
+
+1 As connected with T-h^v, the Nurse of all, and identified by
+some with the Primal Earth ; and so signified by the word-play
+Ttjdbv and ri6r}t/-ovfi€yrjp ("nursing").
+
+2 The word-play runs : ap-oits-ia, sun-ows-ia, hu-ion, Md-atos^
+hus-Sii,
+
+3 The most eminent of the Greek logographers ; fl. 553-504 b.c.
+'^ ivp^a-icos — probably another word-play, heuresis and htisiris,
+
+° The text reads apxiKXa — an apparently impossible collection
+of letters. As no one has so far purged the reading, I would
+suggest x'^P'-^^^ ov apxt-x^^P^^^y- Stending (in Roscher, s.v.)
+reminds us of the myth of the orphan maid Charila, who during
+a famine begged alms at the gate of the palace of the King of
+ancient Delphi ,• the King not only refused her, but drove her
+away slapping ber face with his shoe. Whereupon the little
+maid for shame hanged herself. After the famine was over the
+Oracle decreed an atonement for her death. And so every
+nine years an effigy made to represent Charila was done to
+death, and then carried off by the leader of the Thyiades (or
+priestesses of Bacchus), and buried, with a rope round its neck,
+in a gorge. Cf. Harrison (Jane E.), Prolegomena to the Study of
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 311
+
+and wast dedicated to the Osiriaca before thou
+wert born?^
+
+But if for the sake of others we must quote testi-
+monies, let us leave the things that must not be spoken
+of in their proper place.
+
+2. The rites, however, which the priests perform in
+burning the Apis, when they transport its body on a
+raft, in no way fall short of a Bacchic Orgy. For they
+put on fawn-skins and carry thyrsuses,^ and shout and
+dance just like those inspired at celebrations of the
+Mysteries of Dionysus.
+
+3. Wherefore many of the Greeks make Dionysus
+also bull-formed; while the women of the Eleians
+invoke him praying **the god with the bull's foot to
+come " to them.
+
+4. The Argives, moreover, give Dionysus the epithet
+of " bull-born," and they call him up out of the water
+with the sound of trumpets, casting a lamb into the
+abyss for the Gate-keeper.^ The trumpets they hide
+in thyrsi, as Socrates has said in his " [Books] on
+Pdtes."^
+
+5. The Titanic [Passions] also and the [Dionysian]
+Night-rites agree with what we are told about the
+tearings-in-pieces and revivings and ;palingeneses of
+Osiris ; and similarly the [stories] of the burials.
+
+Greek Religion (Cambridge, 1903), p. 106. As Klea was leader of
+the Thyiades, tliis office fell to her ; it may, therefore, even be
+that her name is some play on Charila.
+
+1 Lit., " from father and mother."
+
+2 Symbolic wands, generally cane-like or knotted like a
+bamboo, and sometimes wreathed in ivy and vine leaves, with a
+pine-cone at top.
+
+3 rq} TrvKa6x({}'
+
+4 Miiller, iv. 498. This was probably Socrates of Cos, who is
+known to have been the author of a work entitled 'EiriKXiio'^is dewy
+(e.g. Dion. Laert., ii. 4), meaning either " Prayers to the Gods,"
+or " Surnames of the Gods."
+
+
+Hosted by
+
+
+Google
+
+
+312 THRICE-GREATEST HERMES
+
+6. For both Egyptians point to tombs of Osiris
+everywhere, as has been said,^ and [also] Delphians
+believe the relics of Dionysus are deposited with them
+by the side of the Oracle, and the Holy Ones offer an
+offering, of which we must not speak, in the fane of
+Apollo, when the Thyiades awake "Him of the
+winnowing fan."
+
+7. And that Greeks consider Dionysus to be lord and
+prince not only of wine, but of every moist nature,
+Pindar witnesses sufficiently when he sings :
+
+May gladsome Dionysus make tlie pasturage of trees to grow —
+Pure light of autumn.^
+
+8. For which cause also they who give worship to
+Osiris are forbidden to destroy a cultivated tree or to
+stop up a water-source.
+
+The Theory of the Physicists Resumed
+
+XXXVI. 1. And they call not only the Nile, but also
+without distinction all that is moist, ** Osiris' efflux '' ;
+and the water-vase always heads the processions of the
+priests in honour of the God.
+
+2. And with "rush''^ they write "king" and the
+** southern climate" of the cosmos; and "rush'' is
+interpreted as "watering" and "conception" of all
+things, and is supposed to resemble in its nature the
+generative member.
+
+3. And when they keep the feast Pamylia, which is
+phallic^ as has been said/ they bring out and carry
+round an image having a phallus three times the size
+of it.
+
+1 Of, XX. 5. 2 Bergk, i. 433.
+
+3 ep{)ov — confounded by King {in loc.) with 6p7oyj "fig leaf"
+(perhaps connected with rpJs, from the three lobes of the leaf) ;
+the "rush" is presumably the papyrus. ^ Cf, xii.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 313
+
+4 For God is source, and every source by the power
+of generation makes manifold that which comes from
+it. And "many times" we are accustomed to call
+" thrice," as, for instance, " thrice-blessed," and ** three
+times as many, endless, bonds "^ — unless, indeed,
+** three fold'* was used in its authentic meaning by
+those of old ; for the Moist Nature, as being source and
+genesis of all, moved from the beginning the first three
+bodies — earth, air, and fire.
+
+5. For the logos that is superadded to the myth —
+how that Typhon cast the chief part of Osiris into the
+river, and Isis could not find it, but after dedicating an
+object answering to it, and having made it ready, she
+commanded them to keep the Phallephoria in its honour
+— comes to this : namely, an instruction that the
+generative and spermatic [powers] of the God had
+moisture as their first matter, and by means of moisture
+were immingled with those things which have been
+produced to share in genesis.
+
+6. But there is another logos of the Egyptians — that
+Apophis, as brother of the Sun, made war on Zeus, and
+that when Osiris fought on his [Zeus'] side and helped
+him to conquer his foe, Zeus adopted him as his son
+and called him Dionysus.
+
+7. Moreover, the mythical nature of this logos goes
+to show that it connects with the truth about nature.
+For Egyptians call [Cosmic] Breath ^ Zeus — to which
+Dry and Fiery is hostile ; this [latter] is not the Sun,
+but it has a certain kinship with him. And Moisture,
+by quenching the excess of Dryness, increases and
+strengthens the exhalations by which the Breath
+nourishes itself and waxes strong.
+
+XXXVII. 1. Moreover, both Greeks consecrate the
+
+^ Bernardakis gives the references as IL, vi. 154 and viii. 340,
+but I am unable to verify them. ^ Qr "Spirit" (irvcG/ita).
+
+
+Hosted by
+
+
+Google
+
+
+314 THRICE-GREATEST HERMES
+
+ivy to Dionysus and [also] among Egyptians it is said
+to be called chen-osiris — the name meaning, they say,
+" Osiris-plant/'
+
+2. Further, Ariston, who wrote Colonies of the
+Athenians, came across some Letter or other of Alex-
+archus's,-^ in which it is related that Dionysus, as son
+of Osiris and Isis, is not called Osiris but Arsaphes by
+the Egyptians — ([this is] in Ariston's first book) — the
+name signifying ** manliness."
+
+3. Hermeeus also supports this in the first book of
+his Concerning the Egyptians^ for he says that " Osiris "
+is, when translated, *' Strong." *^
+
+4. I disregard Mnaseas,^ who associated Dionysus
+and Osiris and Sarapis with Epaphos ; ^ I also disregard
+Anticleides,^ who says that Isis, as daughter of Pro-
+metheus,® lived with Dionysus; for the peculiarities
+which have been stated about the festivals and ofierings
+carry a conviction with them that is clearer than the
+witnesses [I have produced].
+
+XXXVIIL 1. And of the stars they consider Sirius
+to be Isis's^ — as being a water-bringer. And they
+honour the Lion, and ornament the doors of the
+temples with gaping lions' mouths; since Nilus over-
+flows :
+
+When first the Sun doth with the Lion join.^
+
+1 Ariston and Alexarchus and Hermaeus (c/. xlii. 7) seem to be
+otherwise unknown to fame.
+
+2 6jx^piixos = o^pifios — strong, virile, manly. Of. the Eleusinian
+sacred name Brimos for lacchos.
+
+3 Flourished latter half of 3rd century B.C.
+
+4 Son of Zeus and lo, born in the Nile, after the long wander-
+ings of his mother. He is fabled by the Greeks to have been
+subsequently King of Egypt and to have built Memphis. Hero-
+dotus (ii. 153 ; iii. 27, 28) says that Epaphos = Apis.
+
+^ A Greek writer subsequent to the time of Alexander the Great.
+6 Cf. iii. 1. " But cf. Ixi. 5. ^ Aratus, Phoinom.^ 351.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 315
+
+2| And as they hold the Nile to be " Osiris's efflux,"
+so too they think earth Isis's body — not all [of it], but
+what the Nile covers, sowing [her] with seed and
+mingling with her; and from this intercourse they
+give birth to Horus.
+
+3. And Horus is the season (<Spa) and [fair] blend of
+air that keeps and nourishes all in the atmosphere —
+who, they say, was nursed by Leto in the marshes
+round Buto ; for the watery and soaked-through earth
+especially nourishes the exhalations that quench and
+abate dryness and drought.
+
+4. And they call the extremities of the land, both on
+the borders and where touching the sea, Nephthys;
+for which cause they give Nephthys the name of
+'* End," ^ and say she lives with Typhon.
+
+5. And when the Nile exceeds its boundaries and
+overflows more than usual, and [so] consorts with the
+extreme districts, they call it the union of Osiris with
+Nephthys — proof of which is given by the springing
+up of plants, and especially of the honey-clover,^ for it
+was by its falling [from Osiris] and being left behind
+that Typhon was made aware of the wrong done to his
+bed. Hence it is that Isis conceived Horus in lawful
+wedlock, but Nephthys Anubis clandestinely.
+
+6. In the Successions of the Kings,^ however, they
+record that when Nephthys was married to Typhon,
+she was at first barren ; and if they mean this to apply
+not to a woman but to their Goddess, they enigmatically
+refer to the utterly unproductive nature of the land
+owing to sterility.
+
+XXXIX. 1. The conspiracy and despotism of Typhon,
+moreover, was the power of drought getting the
+mastery over and dispersing the moisture which both
+generates the Nile and increases it.
+
+1 Cf. xii. 6. 2 Of, xiv. 6. ^ (7/. xi. 4.
+
+
+Hosted by
+
+
+Google
+
+
+316 THRICE-GREATEST HERMES
+
+2. While his helper, the Ethiopian queen,^ riddles
+southerly winds from -Ethiopia. For when these prevail
+over the Annuals ^ (which drive the clouds towards
+jSEthiopia), and prevent the rains which swell the Nile
+from bursting, — Typhon takes possession and scorches ;
+and thus entirely mastering the Nile he forces him out
+into the sea, contracted into himself through weakness
+and flowing empty and low.
+
+3. For the fabled shutting-up of Osiris into the
+coffin is, perhaps, nothing but a riddle of the occultation
+and disappearance of water. Wherefore they say that
+Osiris disappeared in the mouth of Athyr,^ — when,
+the Annuals ceasing entirely, the Nile sinks, and the
+land is denuded, and, night lengthening, darkness
+increases, and the power of the light wanes and is
+mastered, and the priests perform both other melan-
+choly rites, and, covering a cow made entirely of gold *
+with a black coat of fine linen as a mask of mourning
+for the Goddess — for they look on the *'cow" as an
+image of Isis and as the earth — they exhibit it for
+four days from the seventeenth consecutively.
+
+4. For the things mourned for are four: first, the
+Nile failing and sinking ; second, the northern winds
+being completely extinguished by the southern gaining
+the mastery ; third, the day becoming less than the
+night; and, finally, the denudation of the earth,
+together with the stripping of the trees which shed
+their leaves at that time.
+
+5. And on the nineteenth, at night they go down to
+the sea; and the keepers and priests carry out the
+
+^ Aso ; cf» xiii. 3.
+
+2 The " Etesian " winds, which in Egypt blew from the N.W.
+during the whole summer.
+
+3 Copt. Hathor — corr. roughly with November.
+
+•* Gf, " the golden calf " incident of the Exodus story.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 317
+
+sacred chest, having within it a small golden vessel,
+into which they take and pour fresh water ; and shouts
+are raised by the assistants as though Osiris were found.
+
+6. Afterwards they knead productive soil with the
+water, and mixing with it sweet spices and fragrant
+incense, they mould it into a little moon-shaped image
+of very costly stuffs. And they dress it up and deck
+it out, — showing that they consider these Gods the
+essence of earth and water.
+
+XL. 1. And when again Isis recovers Osiris and
+makes Horus grow, strengthened with exhalations and
+moist clouds, — Typhon is indeed mastered, but not
+destroyed.
+
+2. For the Mistress and Goddess of the earth did
+not allow the nature which is the opposite of moisture to
+be destroyed entirely, but she slackened and weakened
+it, wishing that the blend should continue ; for it was
+not possible the cosmos should be perfect, had the fiery
+[principle] ceased and disappeared.
+
+3. And if these things are not said contrary to proba-
+bility, it is probable also that one need not reject that
+logos also, — how that Typhon of old got possession of the
+share of Osiris ; for Egypt was [once] sea.^
+
+4. For which cause many [spots] in its mines and
+mountains are found even to this day to contain shells ;
+and all springs and all wells — and there are great
+numbers of them — have brackish and bitter water, as
+though it were the stale residue of the old-time sea
+collecting together into them.
+
+5. But Horus in time got the better of Typhon, —
+that is, a good season of rains setting in, the Nile driving
+out the sea made the plain reappear by filling it up
+again with its deposits, — a fact, indeed, to which our
+
+1 Another proof of the common persuasion that there had been
+a Flood in Egypt.
+
+
+Hosted by
+
+
+Google
+
+
+318 THRICE-GREATEST HERMES
+
+senses bear witness ; for we see even now that as the
+river brings down fresh mnd, and advances the land
+little by little, the deep water gradually diminishes,
+and the sea recedes through its bottom being heightened
+by the deposits.
+
+6. Moreover, [we see] Pharos, which Homer ^ knew
+as a day's sail distant from Egypt, now part [and parcel]
+of it; not that the [island] itself has sailed to land,^
+or extended itself shorewards, but because the inter-
+vening sea has been forced back by the river's reshaping
+of and adding to the mainland.
+
+7. These [explanations], moreover, resemble the theo-
+, logical dogmas laid down by the Stoics, — for they also
+
+say that the generative and nutritive Breath [or Spirit]
+is Dionysus ; the percussive and separative, Heracles ;
+the receptive, Ammon [Zeus]; that which extends
+through earth and fruits, Demeter and Kore ; and that
+[which extends] through sea, Poseidon.^
+
+The Theory of the Mathematici
+
+XLI. 1. Those, however, who combine with the
+above [considerations] of the Physicists some of the
+Mathematic [doctrines] derived from star-lore, think that
+the solar cosmos is called Typhon and the lunar Osiris.*
+
+2. For [they think] that the Moon, in that its light
+is generative and moistening, is favourable both for
+breedings of animals and sproutings of plants ; whereas
+the Sun, with untempered and harsh fire, burns and
+
+1 J7., iv. 365.
+
+2 A play on the "day's sail" (SpJ/Aov) and ava-^pafxod<ray.
+
+3 It is, of course, a very poor interpretation of the myth to talk
+only about floods and desert, sea and rain, etc. These are all
+facts illustrating the underlying truth, but they are not the real
+meaning.
+
+"^ This is a worse guess than even that of the Physicists. Of. li. 5.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 319
+
+withers up [all] that are growing and blowing, and
+with fiery heat renders the major part of the earth
+entirely uninhabitable, and in many places utterly
+masters the Moon.
+
+3. For which cause Egyptians always call Typhon
+Seth,-^ — that is, ''that which oppresses and constrains
+by force."
+
+4. And they have a myth that Heracles is settled in
+the Sun and accompanies him in his revolutions, while
+Hermes does the same with the Moon.
+
+5. For the [revolutions] of the Moon resemble works
+of reason {logos) and super-abundant wisdom, while
+those of the Sun are like penetrating strokes [given]
+with force and power.^
+
+6. Moreover, the Stoics say that the sun is kept
+burning and nourished from the sea,^ whereas to the
+Moon the waters of springs and lakes send up a sweet
+and mild exhalation.
+
+XLII. 1. The Egyptian myth runs that the death of
+Osiris took place on the seventeenth, when the full-
+moon is most conspicuously at the full.
+
+2. Wherefore the Pythagoreans call this day also
+'' Interception," ^ and regard this number as expiable.
+
+3. For the *' sixteen " being square and the " eighteen "
+oblong ^ — which alone of plane numbers happen to have
+their perimeters equal to the areas contained by them ^
+— the mean, " seventeen," coming between them, inter-
+cepts and divorces them from one another, and divides
+
+1 Cf. Ixii. 2 et al,
+
+2 Cf, the Stoic attributes of Heracles in xl. 7.
+
+3 If this is intended for the Great Sea of Space, it would be
+credible. ^ aPTi<ppa^iy.
+
+^ Square and Oblong were two of the fundamental " pairs of
+opposites " among the Pythagoreans. Cf, xlviii. 6.
+
+
+• ft^-^^
+
+
+Hosted by
+
+
+Google
+
+
+320 THRICE-GKEATEST HERMES
+
+the ratio of "nine" to ** eight '*^ by being cut into
+unequal intervals.
+
+4. And eight-and- twenty is the number of years
+which some say Osiris lived, and others that he reigned ; ^
+for this is the number of the lights of the Moon, and it
+rolls out its own circle in this number of days.
+
+5. And at what they call the Burials of Osiris they
+cut the tree-trunk and make it into a crescent-shaped
+coffin, because the Moon, when it approaches the Sun,
+becomes crescent-shaped and hides itself away.
+
+6. And the tearing of Osiris into fourteen pieces
+they refer enigmatically to the days in which the
+luminary wanes after full-moon up to new-moon.
+
+7. And the day on which it first appears, escaping
+from his beams and passing by the Sun, they call
+" Imperfect Good."
+
+8. For Osiris is ** Good-doer." The name, indeed,
+means many things, but chiefly what they call " Might
+energising and good-doing.'^ And the other name of
+the God, — Omphis, Hermaeus ^ says, means [also] when
+translated, " Benefactor."
+
+XLIII. 1. Moreover, they think that the risings of the
+Nile have a certain analogy with the lights of the
+Moon.
+
+2. For the greatest [rising], about Elephantine, is
+eight-and-twenty cubits, the same number as are the
+lights and measures of its monthly periods; and the
+least, about Mendes and Xoi's, is of six cubits,
+[analogous] to the half-moon; while the mean, aboiit
+Memphis, when it is the right quantity, [is] of fourteen
+cubits, [analogous] to the full-moon.
+
+1 The sesquioctave. In areas 8 is half of 16, and 9 of 18 ;
+while in a proportional measuring-rod or canon of 27 units, inter-
+vals of 8, 9, and 10 units succeeding one another complete the 27.
+Cf, xiii. 8, 9. 3 cy. xxxviii. 2.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 321
+
+3. And [they consider] the Apis the animated image
+of Osiris, and that he is conceived whenever generative
+light from the Moon fastens on a cow in heat.
+
+4. For which cause also many of the markings of
+the Apis — lights shading off into darks — resemble the
+configurations of the moon.
+
+5. Moreover, on the new-moon of the month
+Phamendth ^ they keep festival, calling it " Entrance '' ^
+of Osiris into the Moon, as it is the beginning of
+spring.
+
+6. By thus placing the power of Osiris in the Moon,
+they mean that Isis consorts with him while being [at
+the same time] the cause of his birth.^
+
+7. For which cause also they call the Moon Mother
+of the cosmos, and think that she has a male-female
+nature, — for she is filled by the Sun and made pregnant,
+and again of herself sends forth and disseminates into
+the air generative principles.
+
+8. For [they say] she does not always overmaster
+the destruction wrought by Typhon;^ but, though
+frequently mastered, even when bound hand and foot
+she frees herself again by her generative power, and
+fights the way through to Horus.
+
+9. And Horus is the cosmos surrounding the earth —
+not entirely exempt from destruction either, nor yet
+from generation.
+
+XLIV. 1. Some, moreover, make out of the myth a
+riddle of the phenomena of eclipses also.
+
+2. For the Moon is eclipsed at the full, when the
+Sun has the station opposite it, she entering the shadow
+of the earth, — just as they say Osiris [entered] the
+
+1 Copt, the same — roughly corr. to March.
+
+2 eti&ao-iy — or perhaps "Embarking."
+
+3 That is, is both wife and mother.
+
+* Typhon being the Sun according to this theory.
+VOL. I. 21
+
+Hosted by VjOOQIC
+
+
+322 THRICE-GREATEST HERMES
+
+coffin. And she again conceals the Sun and causes
+him to disappear, on the thirtieth [of the month],
+though she does not entirely destroy him, as neither
+did Isis Typhon.
+
+3. And when Nephthys conceives Anubis, Isis adopts
+him. For Nephthys is that which is below the earth
+and non-manifest, while Isis [is] that which is above the
+earth and manifest.
+
+4. And the circle just touching them and called
+" Horizon," as being common to both of them, has been
+called Anubis, and is likened to a dog for its character-
+istic; for the dog has the use of its sight both by
+day and nightalike.
+
+5. And Anubis seems to possess this power among
+Egyptians — just as Hecate with Greeks — being at one
+and the same time chthonian and olympian.^
+
+6. Some, however, think that Anubis is Kronos;^
+wherefore as he breeds all things out of himself and
+conceives {kvwv) [all] in himself, he got the name of Dog
+(jcvdv),
+
+7. There is, then, for the worshippers of Anubis some
+[mystery] or other that may not be spoken of.^
+
+8. In olden times, indeed, the dog enjoyed the
+highest honours in Egypt; but seeing that when
+Cambyses ^ slew the Apis and cast it out, no [animal]
+approached or touched its carcase but only the dog, he
+[thus] lost the [distinction of] being first and most
+honoured of the rest of the animals.
+
+9. There are some, however, who call the shadow of
+the earth into which they think the Moon falls and is
+eclipsed, Typhon.
+
+1 That is, infernal and celestial. ^ j^i the sense of Time.
+
+3 This seems to suggest that Plutarch, though he faithfully
+records what *' people say," by no means wishes his readers to
+believe them. ^ g^^ gg^ ^i. 4 and xxxi. 4.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 323
+
+
+The Theory of the Dualists i<.^
+
+XLV. 1. From [all of ] which it seems not unreasonable
+to conclude that no simple [explanation] by itself gives
+the right meaning, but that they all collectively do so.
+
+2. For neither drought nor wind nor sea nor dark-
+ness is the essential of Typhon, but the whole hurtful
+and destructive [element] which is in nature.
+
+3. For we must neither place the principles of the
+whole in soulless bodies, as [do] Democritus and Epi-
+curus, nor yet assume one Eeason {Logos) [only] and
+one Providence that prevails over and masters all
+things as demiurge [or artificer] of quality-less matter,
+as [do] the Stoics.
+
+4. For it is impossible either that anything at all of
+no worth should exist where God is cause of all, or of
+worth where [He is cause] of nothing.
+
+5. For " reciprocal '' [is] cosmos' " harmony, as that
+of lyre or bow,'' according to Heracleitus,^ and ac-
+cording to Euripides:
+
+There could not be apart good things and bad,
+
+But there's a blend of both so as to make things fair.^
+
+6. Wherefore this exceedingly ancient doctrine also
+comes down from the theologers and law-givers to poets
+and philosophers — [a doctrine] that has its origin set
+down to no man's name, and yet possessed of credit,
+strong and not so easy to efface, surviving in many
+places not in words or voices ^ only, but also in [secret]
+
+1 Mullach, i. 319 ; Fairbanks (45), p. 37. The whole logos of
+Heracleitus runs : " They know not how differing agrees with
+itself, — back-flying {iraxivrovos) harmony as though of lyre or
+bow." That is, as a stretched string flies back again to its original
+position. 2 Nauck, p. 294.
+
+3 That is, presumably, " in logoi and voices from heaven."
+
+
+Hosted by
+
+
+Google
+
+
+324 THRICE-GREATEST HERMES
+
+perfectionings and [public] offerings, both non-Greek
+and Greek [ones] — that neither does the universe mind-
+less and reason-less and guidance-less float in "That
+which acts of its own will," nor is there one Keason
+[only] that rules and guides, as though with rudder as
+it were and bits obedient to the reins ; but that [the
+universe] is many things and these a blend of evil
+things and good.
+
+7. Or, rather, seeing that Nature produces nothing,
+generally speaking, unmixed down here, it is not that
+from two jars a single mixer, like a tavern-keeper,
+pouring things out like drinks, mixes them up for us,
+but that from two opposite principles and two antago-
+nistic powers — the one leading [things] to the right
+and on the straight [road], the other upsetting and
+undoing [them] — both life has been made mixed,
+and cosmos (if not the whole, at anyrate this [cosmos]
+which surrounds the earth and comes after the Moon)
+irregular and variable, and susceptible of changes of
+every kind.
+
+8. For if nothing has been naturally brought into
+existence without a cause, and Good cannot furnish
+cause of Bad, the nature of Bad as well as Good must
+have a genesis and principle peculiar to itself.
+
+XLVI.^ 1. And this is the opinion of most of the
+most wise.
+
+2. For some think there are two craft-rival Gods, as
+it were, — one the artificer of good [things], the other of
+[things] worthless. Others call the better " God " and
+the other " Daimon," as Zoroaster the Mage, who, they
+tell us, lived five thousand years before the Trojan
+War.
+
+1 For a criticism and notes on this chapter and the following,
+see Cumont (F.), Textes et Monuments Figures relatifs aicx Mysteres
+de Mithra (Bruxelles, 1896), ii. 33-35.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 325
+
+3. Zoroaster, then, called the one Oromazes, and the
+other Areimanios, and further announced that the one
+resembled light especially of things sensible, and the
+other, contrariwise, darkness and ignorance, while that
+between the two was Mithres ; wherefore the Persians
+call Mithres the Mediator.
+
+4. He taught them, moreover, to make offerings of
+gladsome prayers to the one, and to the other of
+melancholy de-precations.
+
+5. For bruising a certain plant called *' moly " ^ in a
+mortar, they invoke Hades and Darkness ; then mixing
+it with the blood of a wolf whose throat has been cut,
+they carry it away and cast it into a sunless spot.
+
+6. For they think that both of plants some are of
+the Good God and others of the Evil Daimon ; and of
+animals, dogs, for instance, and birds ^ and hedgehogs
+of the Good, and water-rats of the Bad; wherefore
+they consider fortunate the man who kills the largest
+number [of the last].
+
+XLVII. 1. JS^ot that they also do not tell many mythic
+stories about the Gods ; such as are, for example, the
+following :
+
+Oromazes, born from the purest light, and Areimanios,
+of the nether darkness, are at war with one another.
+
+2. And the former made six Gods : the first of good
+mind, the second of truth, the third of good order, and
+of the rest, one of wisdom, one of wealth, and the producer
+of things sweet following things fair ; while the latter
+[made] craft-rivals as it were to those equal in number.
+
+3. Then Oromazes having tripled himself, removed
+himself from the sun so far as the sun is distant from
+the earth, and adorned the heaven with stars ; and he
+
+1 Thought by some to be the Cappadocian equivalent of the
+haoma or soma plant.
+
+2 That is « cocks."
+
+Hosted by VjOOQIC
+
+
+326 THRICE-GREATEST HERMES
+
+established one star above all as warder and look-out,
+[namely] Sirius.
+
+4» And having made four-and-twenty other gods, he
+put them into an egg.
+
+Whereupon those that were made from Areimanios,
+just the same in number, piercing through the egg . . .^
+— ^whence the bad have been mingled with the good.
+
+5. But a time appointed by Fate will come when
+Areimanios's letting loose of pestilence and famine
+must be utterly brought to an end, and made to vanish
+by these [good gods], and the earth becoming plane and
+level, there must ensue one mode of life and one way of
+government for men, all being happy and one-tongued.^
+
+6. Theopompus, however, says that, according to the
+Magi, for three thousand years alternately one of the
+Gods conquers and the other is conquered, and for yet
+another three thousand years they fight and war, and
+each undoes the work of the other.
+
+7. But that in the end Hades fails, and men shall be
+happy, neither requiring food nor casting shadow ; ^
+while the God who has contrived these things is still
+and at rest for a time — not otherwise long for a God,
+but proportionate to a man's sleeping.
+
+8. The style of myth among the Magi, then, is some-
+what after this manner.
+
+^ A lacuna occurs here in the text.
+
+2 This may refer to the consciousness of the spiritual life.
+
+^ There are thus three thousand years in which Ahura Mazda
+has the upper hand, three thousand in which Ahriman is
+victorious, three thousand in which the forces are balanced, and
+in the tenth thousand years comes the Day of Light. Cf. Pistis
+8o;phia, 243: "Jesus answered and said unto Mary: 'A Day
+of Light is a thousand years in the world, so that thirty -six
+myriads of years and a half myriad of years of the world make a
+single Year of Light.' " The not casting of a shadow was supposed
+to be a characteristic of souls not attached to body; but it refers
+here rather to those who are " straight " with the Spiritual Sun.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 327
+
+XLVIII. 1. Moreover, Chaldaeans declare that of the
+planets — which they call birth-presiding gods — two are
+good workers, two ill-doers, while three are inter-
+mediates and common.
+
+2. As for the dogmas of the Greeks, they are, I take
+it, plain to all, ascribing as they do the good allotment
+to Olympian Zeus, and that which has to be averted to
+Hades.
+
+3. Moreover, they have a myth that Harmony is the
+child of Aphrodite and Ares, the latter of whom is
+harsh and strife-loving, while the former is gentle and
+a lover of love-striving.
+
+4. For Heracleitus plainly calls '* War " — " father and
+king and lord of all," ^ and says that Homer, when he
+prays " that strife and hatred cease from gods as well," ^
+forgets that he is imprecating the means of birth of
+all, in that they have their genesis from conflict and
+antipathy; that:
+
+" Sun will not o'erstep his proper bounds, for if he do.
+Furies, Eight's bodyguard, will find him out."^
+
+5. The Pythagorics [also], in a list of names, set
+down the predicates of Good as — One, Finite, Abiding,
+Straight, Odd, Square, Equal, Eight, Light; and of
+Bad as — Two, Infinite, Moving, Curved, Even, Oblong,
+Unequal, Left, Dark, — on the ground that these are the
+underlying principles of genesis.
+
+6. Aristotle [also predicates] the former as Form and
+the latter as Privation.
+
+7. While Plato, though in many passages disguising
+himself and hiding his face, calls the former of the
+opposite principles Same and the latter Other.
+
+1 Fairbanks, (44) pp. 34, 35.
+
+2 Of. II, xviii. 107 ; Fairbanks, (43) pp. 34, 35.
+
+3 Fairbanks, (29) pp. 32, 33.
+
+Hosted by VjOOQIC
+
+
+328 THRICE-GREATEST HERMES
+
+8. But in his Latos, being now older, no longer in
+riddles and in symbols, but with authentic names, he
+says ^ cosmos is moved not by one soul, but probably
+by several, in any case not less than two, — whereof the
+one is good-doing, the other the opposite to this and
+maker of things opposite.
+
+9. He leaves out, however, a certain third inter-
+mediate nature, neither soul-less nor reason-less nor
+motion-less of itself, as some think,^ but depending on
+both of them, and for ever longing for and desiring and
+following after the better, as the following [passages]
+of the argument {logos\^ combining as it does for the
+most part the theology of the Egyptians with their
+philosophy, show.
+
+XLIX. 1. For though the genesis and composition of
+this cosmos has been blended from opposing, though
+not equal-strengthed, powers, the lordship is neverthe-
+less that of the Better [one].
+
+2. Still it is impossible the Worse should be entirely
+destroyed, as it is largely innate in the body and largely
+in the soul of the universe, and ever in desperate
+conflict with the Better,
+
+3. In the Soul [of cosmos], then, Mind and Eeason
+{Logos), the guide and lord of all the best in it, is
+Osiris ; and so in earth and air and water and heaven
+and stars, that which is ordered and appointed and in
+health, is the efflux of Osiris, reflected in seasons and
+temperatures and periods.
+
+4. But Typhon is the passionate and titanic and
+reasonless and impulsive [aspect] of the Soul, while of
+
+1 This is a very brief summary of the argument in Legg,, x.
+896 ff. (Jowett, V. 282 ff.).
+
+2 Of. xlv. 6.
+
+3 This "argument" is Plutarch's own treatise and not Plato's
+dialogue, as King supposes.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 329
+
+its corporeal [side he is] the death-dealing and
+pestilent and disturbing, with unseasonable times and
+intemperate atmospheres and concealments of sun and
+moon, — as though they were the charges and oblitera-
+tions of Typhon.
+
+5. And the name is a predicate of Seth, as they call
+Typhon ; for [Seth] means " that which oppresses and
+constrains by force ;''^ it means also, frequently,
+" turning upside down," and, again, " overleaping."
+
+6. Some, moreover, say that one of the companions
+of Typhon was Beb5n;2 while Manethos [says] that
+Typhon himself was also called Bebon, and that the
+name signifies "holding back" or "hindering," since
+the power of Typhon stands in the way of things
+going on their way and moving towards what they
+have to.
+
+L. 1. Wherefore also of domestic animals they ap-
+portion to him the least tractable — the ass ; while
+of wild ones, the most savage — the crocodile and
+hippopotamus.
+
+2. As to the ass, we have already given some ex-
+planation. At Hermes-city, however, as image of
+Typhon, they show us a hippopotamus on which stands
+a hawk^ iSghting a snake, — indicating by the hippo-
+potamus Typhon, and by the hawk power and rule, of
+which Typhon frequently possessing himself by force,
+ceases not from being himself in and throwing [others]
+into a state of disorder by means of evil.
+
+3. Wherefore also when they make offerings on the
+seventh of the month Tybi,* — which [day] they call
+
+1 Of. xli. 2.
+
+2 ^effcoya^ but perhaps rather $€$coya — and so )86j8»s, a play on
+Bifiwy, "steadying" or "straining." In Eg. Bebi or Baba ; cf.
+Budge, op. cit., ii. 92.
+
+Cf, li. 2. ^ Copt. Tobi — corr. roughly to January,
+
+
+3
+
+
+Hosted by
+
+
+Google
+
+
+330 THRICE-GREATEST HERMES
+
+"Arrival of Isis from Phoenicia," they mould on the
+cakes a bound hippopotamus.^
+
+4. And at Apollo-city it is the custom for absolutely
+everyone to eat a piece of crocodile. And on one
+[particular] day they hunt down and kill as many [of
+them] as they possibly can, and throw them down
+right in front of the temple, saying that Typhon
+escaped Horus by turning himself into a crocodile, —
+considering as they do that all animals and plants and
+experiences that are evil and harmful are Typhon's
+works and parts and movements.
+
+LI. 1. Osiris, again, on the other hand, they write
+with " eye " and " sceptre," 2 the former of which [they
+say] shows his providence, and the latter his power ;
+just as Homer, when calling him who is ruler and king
+of all '' Zeus supreme counsellor,"^ seems by '* supreme "
+to signify his supremacy, and by '* counsellor " his good
+counsel and providence.
+
+2. They frequently write this god with " hawk " * as
+well ; for it excels in tension of sight and swiftness of
+flight, and can naturally support itself on the smallest
+quantity of food.
+
+3. It is said, moreover, to hover over the bodies of
+the unburied dead and to cast earth upon them.^ And
+when it drops down on the river to drink, it sets its
+wings upright, and after drinking it lowers them again,
+— by which it is evident it saves itself and escapes
+from the crocodile, for if it is caught its wings remain
+fixed as they were set.^
+
+1 Cf, " bound ass " above, xxx. 3.
+
+2 Cf. X. 6.
+
+3 IZ., viii. 22 ; xvii. 339.
+
+4 Gf. 1. 2. Compare the Eagle of Zeus.
+^ More of the " Physiologus."
+
+6 "In the crocodile's gullet,'' comments King, "and so pre-
+vents him gulping down the bird." We are, however, inclined
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 331
+
+4. And everywhere they exhibit a man-shaped image
+of Osiris, — ithyphallic, because of his generative and
+luxuriant [nature].
+
+And they dress his statue in a flame-coloured robe,
+— since they consider the sun as body of the power of
+the Good, as it were a visible [sign] of an essence that
+mind only can conceive.
+
+5. Wherefore also we should pay no attention to
+those who assign the sphere of the sun to Typhon,^ — -to
+whom nothing light or salutary, neither order nor
+genesis, nor any motion that has measure and reason,
+belongs, but [rather] their contraries.
+
+6. And we should not set down drought which
+destroys many of the animals and plants, as the sun's
+work, but [rather as that] of the breaths and waters
+in earth and air not being seasonably blended when
+the principle of disorderly and unbounded power makes
+discord and quenches the exhalations.
+
+LIT. 1. And in the sacred hymns to Osiris, they in-
+voke him who is hidden in the Arms of the Sun ; ^ and
+on the thirteenth of the month of Epiphi ^ they keep
+with feast the Birthday of the Eye of Horus, when moon
+and sun are in the same straight line ; as they think
+that not only the moon but also the sun is eye and light
+of Horus.
+
+2. And on the eighth of the waning [half] of Paophi *
+they keep the Birthday of the Sun's Staff, after the
+autumnal equinox, — signifying that he needs an under-
+prop, as it were, and strengthening, deficient as he is
+
+to tliink that Pliitarcli is a bit of a humourist, and that there is
+no necessity for commenting seriously on his on dits.
+
+1 Of. xli. 1 ; also § 9 below.
+
+2 That is the Sun's Rays.
+
+3 Copt. Epep — corr. roughly with July.
+
+4 Copt. Paopi — corr. roughly with October.
+
+
+Hosted by
+
+
+Google
+
+
+332 THRICE-GREATEST HERMES
+
+in heat and light, declining and moving obliquely
+from us.
+
+3. Moreover, just after the winter solstice they carry
+the Cow round the shrine [seven times], and the circuit
+is called the Seeking for Osiris, as in winter the
+Goddess longs for the " water '' of the Sun.
+
+4. And she goes round this number of times, because
+he completes his passing from the winter to the summer
+solstice in the seventh month.
+
+6. Moreover, Horus, son of Osiris, is said to have
+been the first of all to make offerings to the Sun on the
+fourth of the waxing moon, as is written in the [books]
+entitled Birthdays of Rorus.
+
+6. Though indeed every day they offer incense to
+the Sun in three kinds — resin at his rising, myrrh at
+mid-heaven, and what is called '' kuphi ''' at his setting ;
+the reason for each of which I will explain later on.^
+And with all these they think to make the Sun pro-
+pitious to them and to do him service.
+
+7. But what need is there to collect many such
+indications ? For there are those who say point-blank
+that Osiris is Sun and is called Sirius by Greeks — though
+with Egyptians the addition of the article has caused
+the name to be mistaken ^ — and who declare Isis to be no
+other than Moon ; whence also [they say] that the horned
+ones of her statues are representations of her crescent,
+while by the black-robed ones are signified the occulta-
+tions and overshadowings in which she follows Sun
+longing after him.
+
+8. Accordingly they invoke Moon for affairs of love;
+and Eudoxus ^ says that Isis decides love-affairs.
+
+1 Gf. Ixxix., Ixxx.
+
+2 That is Q a-eipios—oa-ipis — an absurd contention, of course,
+though flattering to Greek vanity.
+
+3 Gf, vi., X., XXX., Ixii., Ixiv.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 333
+
+9. And these [explanations] have in a modified way
+some share of plausibility; whereas it is not worth
+while even listening to those who make the Sun Typhon.
+
+10. But let us ourselves again take up the proper
+reason (logos).
+
+
+The Proper Eeason according to Plutarch
+
+LIII. 1. For Isis is the feminine [principle] of Nature
+and that which is capable of receiving the whole of
+genesis ; in virtue of which she has been called " Nurse "
+and " All-receiving '' by Plato,-^ and, by the multitude,
+" She of ten - thousand names," through her being
+transformed by Eeason (Logos) and receiving all forms
+and ideas [or shapes].
+
+2. And she hath an innate love of the First and
+Most Holy of all things (which is identical with the
+Good), and longs after and pursues it. But she flees
+from and repels the domain of the Bad, and though she
+is the field and matter of them both, yet doth she ever
+incline to the Better of herself, and offers [herself] for
+him to beget and sow into herself emanations and
+likenesses, with which she joys and delights that she is
+pregnant and big with their generations.
+
+3. For Generation is image of Essence in Matter and
+Becoming copy of Being.
+
+LIV. 1. Hence not unreasonably do they say in the
+myth that [while] the Soul of Osiris is eternal and
+indestructible, Typhon often tears his Body in pieces
+and makes it disappear, and that Isis seeks it wandering
+and puts it together again.
+
+2. For the Keal and Conceivable-by-the-mind-alone
+and Good is superior to destruction and change; but
+the images which the sensible and corporeal imitates
+^ Timceus, 51 a.
+
+
+Hosted by
+
+
+Google
+
+
+334 THRICE-GREATEST HERMES
+
+from it, and the reasons {logoi) and forms and likenesses
+which it receives, just as seal-impressions in wax, do
+not last for ever, but are sei2ed upon by the disorderly
+and turbulent [elements], expelled hither from the field
+above, and fighting against the Horus whom Isis brings
+forth as the sensible image of that cosmos which mind
+alone can conceive.
+
+3. Wherefore also [IJorus] is said to have a charge
+of bastardy brought against him by Typhon — of not
+being pure and unalloyed like his sire, Eeason {Logos),
+itself by itself, unmixed and impassible, but bastardized
+with matter on account of the corporeal [element].^
+
+4. Nevertheless, Horus gets the best of it and wins,
+through Hermes — that is, the Reason {Logos) ^ — bearing
+witness and showing that Nature reflects the [true]
+Cosmos by changing her forms according to That-which-
+mind-alone-can-conceive.^
+
+5. For the genesis of Apollo * from Isis and Osiris ^
+that took place while the Gods were still in the womb
+of Ehea, is an enigmatical way of stating that before this
+[sensible] cosmos became manifest, and Matter was
+perfected by Reason {Logos), Nature, proving herself
+imperfect, of herself brought forth her first birth.
+
+6. Wherefore also they say that that God was lame^
+in the dark, and call him Elder Horus ; for he was not
+cosmos, but a sort of image and phantasm of the world
+which was to beJ
+
+1 Gf, G. if., X. (xi.) 10 ; Lact., iv. 6 (Frag. v.).
+
+2 This shows that in one tradition Hermes and Osiris were
+identified.
+
+3 Gf. xix. 4. * 8c. Horus.
+
+o The sequel I think shows that " and Osiris " is a gloss ; but see
+xii. 8.
+
+^ Gf. Ixii.
+
+"* These two paragraphs are, in my opinion, of the utmost value
+for the critical investigation of the sources of the famous Sophia-
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 335
+
+LV. 1. But this Horus [of ours] is their Son,^
+horizoned ^ and perfect, who has not destroyed Typhon
+utterly, but has brought over to his side his efficacy
+and strength; hence they say it is that the statue
+of Horus at Coptos grasps in one hand Typhon's
+mrilia,
+
+2. Moreover, they have a myth that Hermes cut out
+the sinews of Typhon and used them for lyre strings, —
+[thus] teaching [us] how Reason {Logos) brought the
+universe into harmony, and made it concordant out of
+discordant elements. He did not destroy the destruc-
+tive power but lamed it.
+
+3. Hence while weak and ineffective up there, down
+here, by being blinded and interwoven with the passible
+and changeable elements, it is cause of shakings and
+tremors in earth, of droughts and tempests in air, and
+again of lightnings and thunderings.
+
+4. Moreover, it infects waters and winds with pesti-
+lences, and shoots up and rears itself as far as the
+moon, frequently blurring and blackening its light, as
+Egyptians think.
+
+mythus of Gnosticism. The imperfect birth (Abortion) of the
+Sophia (Wisdom, Nature, Isis), as the result of her effort to bring
+forth of herself, without her consort, or syzygy, while still in the
+Pleroma (Womb of Rhea), paves the way for the whole scheme
+of one of the main forms of Gnostic cosmology and subsequent
+soteriology, the Creator Logos and Saviour having to perfect
+the imperfect product of Nature. This is, I believe, the first
+time that the above passage of Plutarch has been brought into
+connection with the Sophia-mythus, and all previous trans-
+lations with which I am acquainted accordingly make havoc of
+the meaning. See F. F, F,^ pp. 339 ff.; and for the Pauline use
+of the technical term "Abortion," D. J. L., pp. 355 ff.; for
+" Balaam the Lame Man " (? a by-name for Jeschu-Horus), see
+ibid., p. 201. Beitzenstein (pp. 39, 40) quotes these two chapters,
+and adds some parallels from the Trismegistic literature.
+
+1 Adopting the suggestion of Bernardakis— o vlhs for avrSs.
+
+2 Or " defined," u)pi(rixho$ — a play on wpos,
+
+
+Hosted by
+
+
+Google
+
+
+336 THRICE-GREATEST HERMES
+
+5. And they say that Typhon at one time strikes
+the Eye of Horus, and at another takes it out and
+swallows it. By '* striking " they refer enigmatically
+to the monthly diminution of the moon, and by
+"blinding" to its eclipse, which the sun remedies by
+immediately shining on it after it has passed out of the
+shadow of the earth.-^
+
+LVI. 1. Now the better and diviner Nature is from
+these : — [to wit] the Intelligible and Matter, and that
+from them which Greeks call Cosmos.
+
+2. Plato,2 indeed, was wont to call the Intelligible
+Idea and Model and Father ; and Matter Mother and
+Nurse — both place and ground of Genesis; and the
+offspring of both Genesis.
+
+3. And one might conjecture that Egyptians [also
+revered^] the fairest of the triangles, likening the
+nature of the universe especially to this ; for Plato
+also, in his BepuUiCj^ seems to have made additional
+use of this in drawing up his marriage scheme.^
+
+4. And this triangle has its perpendicular [side] of
+" three," its base of " four," and its hypotenuse of
+"five"; its square being equal to the [sum of the]
+squares on the containing sides.^
+
+5. We must, accordingly, compare its perpendicular
+to male, its base to female, and its hypotenuse to the
+offspring of both ; and [conjecture] Osiris as source,
+Isis as receptacle, and Horus as result.
+
+^ All this according to the Mathematici, presumably ; the
+" eye " of Horus would rather signify " mentality."
+
+2 Tmmus, 50 c.
+
+3 There is a lacuna in the text.
+
+^ Bep,, 545 D ff. See also Adam (J.), The Nuptial Number of
+Plato: its Solution and Significance (London, 1891).
+
+^ That is to say, that in Plutarch's opinion Plato derived the
+idea originally from Egypt.
+
+6 That is, 94-16=25.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OP ISIS AND OSIRIS 337
+
+6. For the " three " is the first '* odd " ^ and perfect ; 2
+while the '' four " [is] square from side ** even " two ; ^
+and the " five " resembles partly its father and partly
+its mother, being composed of "three " and *' two."
+
+7. And panta [all] is only a slight variant of pe7hte
+[five] ; and they call counting pempasasthai [reckoning
+by fives].
+
+8. And five makes a square equal to the number of
+letters among Egyptians,^ and a period of as many years
+as the Apis lives.
+
+9. Thus they usually call Horus also Min ^ — that is,
+" being seen " ; for cosmos is a sensible and see-able
+thing.
+
+10. And Isis is sometimes called Muth,^^ and again
+Athyri ^ and Methyer. And by the first of the names
+they mean *' Mother " ; by the second, " Cosmic House "
+of Horus, — as also Plato [calls her] '* Ground of Genesis "
+and " She who receives " ; and the third is compounded
+from "Full" and "Cause,'— for Matter is full of
+
+1 '* One " being reckoned neither odd nor even.
+
+2 That is, divisible by itself and " one " only.
+^ rerpdycayos airh TrX^vpas apriov rrjs SvdBos,
+
+* That is, the Egyptian alphabet consisted of 25 letters.
+
+^ In the Eitnal (chap. xvii. 30), the deceased is made to say :
+" I am the God Amsu (or Min) in his coming forth ; may his
+two plumes be set upon my head for me." And in answer to
+the question : " Who, then, is this 1 " — the text goes on to say :
+"Amsu is Horus, the avenger of his father, and his coming
+forth is his birth. The plumes upon his head are Isis and
+Nephthys when they go forth to set themselves there, even as
+his protectors, and they provide that which his head lacketh ;
+or (as others say), they are the two exceeding great uraei which are
+upon the head of their father Tem, or (as others say), his two
+eyes are the two plumes which are upon his head." (Budge, op.
+dt, ii. 258.)
+
+6 Eg. Mut, the syzygy of Amen. Mut means "Mother" ; she
+was the World-mother. See Budge, op. cit.^ ii. 28 if.
+
+7 Cf. Ixix. 4, " Athyr " probably meaning Hathor.
+VOL. I. 22
+
+Hosted by VjOOQIC
+
+
+338 THRICE-GREATEST HERMES
+
+Cosmos, and consorts with the Good and Pure and
+Ordered.
+
+LVII. 1. And Hesiod ^ also, when he makes all the
+first [elements to be] Ghaos and Earth and Tartarus and
+Love, might be thought to assume no other principles
+than these, — if at anyrate in substituting the names we
+assign to Isis that of Earth, to Osiris that of Love, and
+to Typhon that of Tartarus ; for his Chaos seems to be
+subsumed as ground and place of the universe.
+
+2. Our data also in a way invite as witness Plato's
+myth which Socrates details in the Symposium ^ about
+the Birth of Love, — telling [us how] that Poverty wanting
+children lay down by the side of sleeping Means, and
+conceiving by him brought forth Love of a mixed nature
+and capable of assuming every shape, in as much, in-
+deed, as he is the offspring of a good and wise father
+and one sufficient for all, but of an incapable mother
+and one without means,^ who on account of her need is
+ever clinging to some one else and importuning some
+one CISC'*
+
+3. For his Means is no other than the First Beloved
+and Desirable and Perfect and Sufficient ; and he calls
+Matter Poverty, — who is herself of herself deficient of
+the Good, but is ever being filled by Him and longing
+for and sharing in [Him].
+
+4. And the Cosmos, that is Horus, is born from these ;
+and Horus, though neither eternal nor impassible nor
+indestructible, but ever-generable, continues by means
+of the changes and periods of his passions to remain ever
+young and ever to escape destruction.
+
+LVIIL 1. Now, we should make use of the myths not
+
+1 Theog., 116-122.
+
+2 Symp., 203 b ; Jowett, i. 573 ff.
+
+3 a-n-Spov — a play on 'n-Spos.
+* Cf. Iviii. 6, last clause.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 339
+
+as though they were altogether sacred sermons (logoi),
+but taking the serviceable [element] of each according
+to its similitude [to reason].
+
+2. When, then, we say Matter, we should not be
+swept into the opinions of *some philosophers, and
+suppose some body or other of itself soul-less and
+quality-less, and inert and inefficient; for we call oil
+the " matter " of a perfume, [and] gold that of a statue,
+though they are not destitute of every quality.
+
+3. [Nay,] we submit the soul itself and [even] the
+thought of man as the "matter" of knowledge and
+virtue to the reason (logos) to order and bring into
+rhythm.
+
+4. Moreover, some have declared the mind [to be]
+*' region of ideas," and, as it were, the " impressionable
+substance ^ of the intelligibles."
+
+5. And some think that the substance of the woman ^
+is neither power nor source, but matter and nutriment
+of birth.
+
+6. If, then, we attach ourselves to these, we ought
+thus also to think of this Goddess as having eternally
+her share in the First God, and consorting [with Him]
+for love of the goodness and beauty that surround Him,
+never opposed to Him, but, just as we say that a lawful
+and righteous hueband loves [his wife] righteously, and
+a good wife though she has her husband and consorts
+with him, still desires [him], so [should we] think of
+Her as clinging to Him, and importuning Him,^ though
+[ever] filled full with His supremest and purest parts.
+
+LIX. 1. But where Typhon steals in, laying hold of
+the last [parts, we should think of Her as] then seeming
+to wear a melancholy countenance, and being said to
+
+1 4Kfxay^7ov. Gf, Plat., Tim., 50 c ; Thseet, 191 c, 196 a.
+
+2 T^ cnrepfia ttjs ywaiKSs — lit., " the seed of the woman."
+
+3 Cf. Ivii. 2.
+
+
+Hosted by
+
+
+Google
+
+
+340 THRICE-GREATEST HERMES
+
+mourn, and to be seeking after certain relics and frag-
+ments of Osiris, and enfolding them in her robes,
+receiving them when destroyed into herself, and
+hiding them away, just as She also produces them
+again when they are born, and sends them forth
+from herself.
+
+2. For while the reasons (logoi) and ideas and
+emanations of the God in heaven and stars remain [for
+ever], those that are disseminated into things passible —
+in earth and sea and plants and animals — being
+dissolved and destroyed and buried, come to light over
+and over again and reappear in their births.
+
+3. For which cause the myth says that Typhon lived
+with IsTephthys, but that Osiris had knowledge of her
+secretly.
+
+4. For the last parts of Matter, which they call
+Nephthys and End, are mainly in possession of the
+destructive power ; nevertheless the Generative and
+Saving One distributes into them weak and faint seed
+which is destroyed by Typhon, except so much as
+Isis by adoption saves and nourishes and compacts
+together.
+
+LX. 1. But He is on the whole the Better one, as
+both Plato and Aristotle suppose ; and the generative
+and moving [power] of Nature moves to Him and towards
+being, while the annihilating and destructive [moves]
+from Him and towards non-being.
+
+2, Wherefore they derive the name Isis from hastening
+{'UcrOai) and coursing with knowledge, since she is
+ensouled and prudent motion.
+
+3. For her name is not foreign ; ^ but just as all the
+Gods have a common name from two elements — ** that
+which can be seen" and "that which runs"^ — so we
+
+1 That is, non-Greek — fiap^aptK6v, Gf, ii. 2.
+
+2 The word-play being ^ebs— ^earbs — Qiov,
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 341
+
+call this Goddess " Isis " from '' knowledge," ^ and
+Egyptians [also] call her Isis.^
+
+4. And thus Plato also says the ancients signified the
+''Holy^ [Lady]" by calling her **Isia" — and so also
+" Mental Perception " and " Prudence," in as much as
+she is [the very] course and motion of Mind hastening ^
+and coursing, and that they placed Understanding — in
+short, the Good and Virtue — ^in things that flow ^ and
+run.
+
+5. Just as [he says] again, the Bad is railed at with
+corresponding names, when they call that which hinders
+nature and binds it up and holds it and prevents it
+from hastening and going, "badness,"^ "difficulty,"^
+" cowardice " ^ [and] '^ disbress."
+
+LXI. 1. And Osiris has had his name from a combina-
+tion of ocrio? (holy) and Upo^ (sacred) ; for there is a
+common Eeason (Logos) of things in Heaven and of
+things in Hades, — the former of which the ancients were
+accustomed to call sacred, and the latter holy.
+
+2. And the Eeason that [both] brings [down] to light
+the heavenly things and is [also] of things that are
+
+^ Gf. ii. 3 for the word-play, and also for dcia in the next
+paragraph.
+
+2 They, however, probably called her something resembling
+Ast.
+
+3 ryjy bffidv — but Plutarcli is mistaken, for in Cratylus, 401 c
+it is a question of ovo-idv and icridv and not of da-idv and la-iav.
+
+^ Ufxcpov, picking up the Ua-dai above in paragraph 2.
+
+^ Gf. Grat, 415 D, where the word-play is ap^r^ and aei-peiri)
+(ever-flowing).
+
+^ Gf. Grat., 415 c — where the plaj"- is KaK-ia= KaK&s Ibv {Uvai) —
+badly going.
+
+'' cLTTop-la — the word-play being d (not) and irop-evea-eai (going)
+— ibid., c, D.
+
+s " d€i\ia signifies that the soul is bound with a strong chain
+(Seo-fihs), for \lav means strength, and therefore 8si\ia expresses
+the greatest and strongest bond of the soul" (ibid.). See Jowett,
+i. 359 f.
+
+
+Hosted by
+
+
+Google
+
+
+342 THRICE-GREATEST HERMES
+
+mounting upwards/ is called Anubis, and sometimes
+also Hermanubis,^ belonging in his former capacity to
+things above and in his latter to things below [them],
+
+3. Wherefore also they offer him in his former capacity
+a white cock,^ and in his latter a saffron-coloured one,
+— thinking that the former things are pure and the
+latter mixed and manifold.
+
+4. Nor ought we to be surprised at the manipula-
+tion of the names back into Greeks For tens of
+thousands of others that disappeared with those who
+emigrated from Greece, continue unto this day and
+sojourn with foreigners ; for recalling some of which
+they blame the poets' art as " barbarising," — I mean
+those who call such words " glosses/' ^
+
+5. Further, they relate that in what are called the
+"Books of Hermes," it is written that they call the
+Power that rules the ordained revolution of the Sun,
+Horus, while the Greeks [call it] Apollo ; and the Power
+that rules the Breath [or Spirit], some [call] Osiris,
+others Sarapis, and others S5this in Egyptian.
+
+6. The last means *' conception " {Kvrjortv) or "con-
+ceiving " (to Kvetp).^ Wherefore also, by inversion of
+the name, the star [Sothis] which they consider the
+special one of Isis, is called Dog (kvoov) in Greek.
+
+7. We should, however, least of all be jealous about
+the names ; still if we were, I would sooner give up
+
+^ That is, things in Hades (the Invisible) — ^not Tartarus.
+
+2 Horus was endowed with many characteristics of other gods.
+Thus with Anpu or Anubis he becomes Heru-em-Anpu, i.e.
+Horus as Anubis, and is said to dwell in the " divine hall." This
+is the Hermanubis of Plutarch. Cf. Budge, op, dt., i. 493.
+
+3 " A cock to ^sculapius."
+
+4 Cf, xxix. 8.
+
+5 y\d>Tras—a> technical term for obsolete or foreign words that
+need explanation.
+
+6 Cf. xxi. 2.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 343
+
+"Sarapis'' than "Osiris'*; for though I think tlie
+former is a foreign one and the latter Greek, yet are
+they both [names] of One God and One Power.
+
+LXII. 1. The Egyptian [names] also resemble these
+[Greek ones]. For they often call I sis by the name
+of Athena, which expresses some such meaning as " I
+have come from myself" — ^which is [again] indicative
+of self-motive course.
+
+2. While " Typhon," as has been said,^ is called Seth
+and Bebon and Smu, — the names being intended to
+signify a certain forcible and preventative checking,
+opposition or reversing,
+
+3. Moreover, they call the loadstone " Bone of
+Horus," 2 and iron " [Bone] of Typhon," as Manethos
+relates ; for just as iron often resembles that which
+is attracted to and follows after the loadstone, and often
+is turned away from it, and repelled to an opposite
+direction, so the saving and good and reason-possessing
+motion of the Cosmos both turns towards itself and
+makes more gentle by persuasion that harsh and
+typhonean [motion] ; and then again after raising it into
+itself, it reverses it and plunges it into the infinitude.
+
+4. Moreover, Eudoxus ^ says that the Egyptians tell
+a myth about Zeus that, as in consequence of his having
+his legs grown together,* he could not walk, for shame
+he lived in solitude ; and so Isis, by cutting in two
+and separating these limbs of his body, made his going
+even-footed.^
+
+5. By those things, moreover, the myth enigmatically
+
+1 Cf. xli., xlix. (end).
+
+2 Of. the " bone of the sea-hawk " in Hipp., Philo.^ v. 9 and 17 ;
+and note to J., in " Myth of Man in the Mysteries," p. 189.
+
+3 Cf. XXX., Ixix., et al.
+
+^ The invisible serpent-form of the God.
+5 Cf. Plat., Tim.^ 4,4: D and 46 a ; and liv. 5 above concerning
+the birth of the Elder Horus.
+
+Hosted by VjOOQIC
+
+
+344 THRICE-GREATEST HERMES
+
+hints that the Mind and Eeason {Logos) of God after it
+had progressed ^ in itself in the invisible and unmani-
+fest, came forth into genesis by means of motion.
+
+
+The Symbolism of the Sistrum
+
+LXIII. 1. The sistrum (orcia-rpop) also shows that
+existent things must be shaken up (creiecrOai) and never
+have cessation from impulse, but as it were be wakened
+up and agitated when they fall asleep and die away.
+
+2. For they say they turn aside and beat off Typhon
+with sistra, — signifying that when corruption binds
+nature fast and brings her to a stand, [then] generation
+frees her and raises her from death by means of motion.
+
+3. Now the sistrum has a curved top, and its arch
+contains the four [things] that are shaken. For the
+part of the cosmos which is subject to generation and
+corruption, is circumscribed by the sphere of the moon,
+and all [things] in it are moved and changed by the
+four elements — fire and earth and water and air.
+
+4. And on the arch of the sistrum, at the top, they
+put the metal figure of a cat with a human face, and at
+the bottom, below the shaken things, the face some-
+times of Isis and sometimes of Nephthys, — symbolis-
+ing by the faces generation and consummation (for
+these are the changes and motions of the elements), and
+by the cat the moon, on account of the variable nature,^
+night habits, and fecundity of the beast.
+
+1 Or " walked," suggesting some idea of single motion in itself
+— the motion of "sameness," symbolised by a serpent with its
+tail in its month. The serpent was one of the most favourite
+symbols of the Logos, and this perhaps accounts for the "legs
+grown together.''
+
+2 rh TToiKiKov, King translates this " pied colour," and deduces
+that "the original colour of the cat was tabby" ; but, as the
+school-boy says, I don't see it.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 345
+
+5. For it is fabled to bring forth one, then two, and
+[then] three, and four, and five [at a birth], and then
+adds one by one until seven ;^ so that in all she brings
+forth eight-and-twenty, the number of lights of the
+moon.
+
+6. This, however, is probably somewhat too mythical ;
+anyway, the pupils of its eyes seem to become full
+and dilate at the full-moon, and to contract and shut
+out the light during the wanings of that luminary.
+
+7. And by the human face of the cat is signified the
+intellectual and reasonable nature of the changes that
+take place in connection with the moon.
+
+
+The True "Logos," again, accokding to Plutarch
+
+LXIV. 1. But, to speak concisely, it is not correct to
+consider either water or sun or earth or heaven as Osiris
+or Isis, or, again, fire or drought or sea as Typhon ; but
+if we were to assign simply that [nature] to the latter
+which is not subject to measure or rule owing to excesses
+or insufiBciencies, and should reverence and honour
+that which has been subjected to order and is good
+and beneficent, as the work of Isis, and the image
+and copy and reason of Osiris, we should not miss the
+mark.
+
+2. Moreover, we shall make Eudoxus^ cease to dis-
+believe and be perplexed, how it is neither Demeter
+who has charge of love-affairs but Isis, nor Dionysus
+who has the power either to make the Nile increase or
+to rule over the dead [but Osiris].
+
+^ More " Physiologus " j or rather, there was a mystical theory
+about other things which was adapted to a popular natural
+history of the cat, and then the fable was cited as " proof " of the
+original theory.
+
+2 0/. Ixii. et al.
+
+
+Hosted by
+
+
+Google
+
+
+346 THRICE-GREATEST HERMES
+
+3. For we think that by one Common Eeason (Logos) ^
+these Gods have been ordained over every domain of good;
+and every fair and good thing possible for nature owes
+its origin to their means, — [Osiris] giving [them] their
+origins and [Isis] receiving and distributing [them].
+
+
+Against the Weather and Vegetation God
+Theokies
+
+LXV. 1. And we shall also get our hands on the dull
+crowd who take pleasure in associating the [mystic
+recitals] about these Gods either with changes of the
+atmosphere according to the seasons, or with the genera-
+tion of the corn and sowings and ploughings, and in
+saying that Osiris is buried when the sown corn is
+hidden by the earth, and comes to life and shows
+himself again when it begins to sprout.
+
+2. For which cause also [they declare] that Isis, on
+feeling she is pregnant, ties an amulet round her [neck]
+on the sixth day of the first half of the month Phaophi ;2
+and that Harpocrates is brought forth about the winter
+solstice imperfect and infant in the things that sprout
+too early .^
+
+3. For which cause they offer him first-fruits of
+growing lentils, and they keep the days of thanks for
+safe delivery after the spring equinox.
+
+4. For they love to hear these things and believe
+them, drawing conviction from things immediately at-
+hand and customary.
+
+LXVI. 1. Still there is nothing to complain of if
+
+1 Parallel to " Common Sense."
+
+2 Copt. Paopi — corr. roughly with October.
+
+3 Cf, Ixviii. 2, 3. Heru-p-Khart, Horus the Younger, or the
+"Child,'"' so called to distinguish him from Heru-ur, or Horus
+the Elder. Of. Budge, o^. cit, i. 468 f .
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 347
+
+[only], in the first place, they cherish the Gods in common
+with ourselves, and do not make them peculiar to Egyp-
+tians, either by characterising Nile and only the land
+that Nile waters by these names, or, by saying that
+marshes and lotuses and god-making [are their mono-
+poly], deprive the rest of mankind who have no Mle
+or But5 or Memphis, of [the] Great Gods.
+
+2. Indeed, all [men] have Isis and know her and the
+Gods of her company ; for though they learned not long
+ago to call some of them by names known among the
+Egyptians, still they knew and honoured the power of
+each [of them] from the beginning.
+
+3. In the second place, and what is more important —
+they should take very good heed and be apprehensive lest
+unwittingly they write-off the sacred mysteries and
+dissolve them into winds and streams, and sowing and
+ploughiugs, and passions of earth and changes of seasons.
+
+4. As those who [say] that Dionysus is wine and
+Hephaestus flame, and Persephone, as Cleanthes says
+somewhere, the wind that drives through the crops and
+is killed ; and [as] some poet says of the reapers :
+
+Then when they, lusty, cut Demeter's limbs.^
+
+6. For these in nothing differ from those who regard
+a pilot as sails and ropes and anchor, and a weaver as
+yarns and threads, and a physician as potions and
+honey-brew and barley-water ; nay, they put into men's
+minds dangerous and atheistic notions, by transferring
+names of Gods to natures and to things that have no
+sense or soul, and which are necessarily destroyed by
+men according to their need and use. For it is not
+possible to consider such things in themselves as Gods.
+
+LXVII. 1. For a God is not a thing without a mind
+or soul, or one made subject to the hand of man ; but it
+
+1 Gf. Ps. Plut., De Vita Homeri, § 23.
+
+
+Hosted by
+
+
+Google
+
+
+348 THRICE-GREATEST HERMES
+
+is from these things that we deduce that those who
+bestow them on us for our use and offer them [to us] in
+perpetual abundance, are Gods.
+
+2. Not different [Gods] for different peoples, not
+non-Greek and Greek, not southern and northern
+[Gods] ; but just as sun and moon and earth and sea
+[are] common to all [men], though they are called by
+different names by different peoples, so of the Eeaison
+{Logos) that orders all things, and of one Providence
+that also directs powers ordained to serve under her for
+all [purposes], have different honours and titles been
+made according to their laws by different [nations].
+
+3. And there are consecrated symbols, some obscure
+ones and others more plain, guiding the intelligence
+towards the mysteries of the Gods, [though] not without
+risk.
+
+4. For some going entirely astray have stepped into
+superstitions, while others, shunning superstition as a
+quagmire, have unwittingly fallen into atheism^ as
+down a precipice.
+
+LXVIII. 1. Wherefore especially with regard to such
+things, should we, taking with us Eeason {Logos) as our
+mystic guide out of philosophy, reverently meditate
+upon each of the things said and done ; in order that,
+[we may avoid what] Theodorus said, [namely] that
+when he offered his words with his right hand some of
+his hearers took them with their left, — and so not miss
+the mark by taking in another sense what laws on
+offerings and feasts have well ordained.
+
+2. For that all [these things] must be referred to the
+Reason {Logos), we may learn from themselves also.
+
+For on the nineteenth of the first month,^ when they
+
+' King again, erroneously in my opinion, refers this to the
+Christians.
+
+2 Copt. Thoth — corr. roughly with September.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 349
+
+keep a feast to Hermes, they eat honey and figs, saying
+when so doing, *' Truth is sweet." And the amulet of
+Isis which the myth says she put round her [neck] ^ is,
+when interpreted, '' True Voice."
+
+3. And we should not consider Harpocrates either
+as an imperfect or infant god, or a [god] of pulse,^ but
+as protector and chastener of the babyish and imperfect
+and inarticulate reason that men have about Gods. For
+which cause he has his finger laid upon his lips as a
+symbol of reticence and silence.
+
+4. And in the month of Mesore^ when they make
+offerings of pulse, they say : " Tongue [is] fortune ;
+tongue is daimon."
+
+5. And they say that of the trees in Egypt the persea
+especially has been made sacred to the Goddess, because
+its fruit resembles a heart and its leaf a tongue.
+
+6. For of all man's natural possessions nothing is
+more godlike than logos [word or reason], and especially
+that concerning the Gods, nor is there anything that
+decides more weightily for happiness.
+
+7. Wherefore we commend him who goes down to
+consult the Oracle here ^ to think religiously and speak
+reverently. But the many act ridiculously when, after
+they have in the processions and feasts made proclama-
+tion to speak reverently, they subsequently speak and
+think the most irreverent things about the Gods
+themselves.
+
+LXIX. 1. What use, then, must one make of those
+melancholy and laughterless and mournful sacrifices, if
+it is not right either to omit the rites of custom, or to
+confound our views about Gods and throw them into
+confusion with absurd suspicions ?
+
+1 Of. Ixv. 2. 2 cf^ iud., 3.
+
+^ Copt. Mesore — corr. rouglily with August.
+* 8c. at Delphi.
+
+
+Hosted by
+
+
+Google
+
+
+350 THRICE-GREATEST HERMES
+
+2. Yea, among Greeks, too, many things are done,
+just about the same time also, similar to those which
+Egyptians perform in the sacred [rites].
+
+3. For instance, at Athens, the women fast at the
+Thesmophoria, sitting on the ground. While Boeotians
+move the palace of Achsea,^ giving that festival the
+name of Epachthe [the Grief-bringing], as though
+Demeter were in grief (axOei) on account of the Descent ^
+of Kore.
+
+4. And this month is the one for sowing when the
+Pleiades rise, which Egyptians call Athyr,^ Greeks
+Pyanepsion, and Boeotians Damatrios.**
+
+5. Moreover, Theopompus ^ tells us that the Western
+peoples^ consider and name the winter Kronos, the
+summer Aphrodite, and the spring Persephone; and
+[say] that all things are born from Kronos and
+Aphrodite.
+
+6. While the Phrygians, thinking that the God sleeps
+in winter, and wakes in summer, celebrate in his
+honour the Orgies of his " Going to sleep '^ at one time,
+and at another of his "Waking up"; while the
+Paphlagonians pretend that he is bound hand and foot
+and imprisoned in winter, and in spring is set in
+motion and freed from his bonds.
+
+LXX. 1. And the season of the year suggests that the
+appearance of mourning is assumed at the hiding away
+of grains [in the earth], — which the ancients did not
+
+1 A surname of Demeter, by which she was worshipped at
+Athens by the Gephyraeans who had emigrated thither from Bceotia
+{Herod,, v. 61).
+
+2 Sc. into Hades.
+
+2 Copt. Hathor — corr. roughly to November, or rather last half
+of October and first of November. Cf, also Ivi. 10.
+^ That is, the month of Demeter.
+
+^ Miiller, i. 328. T. flourished 2nd half of 4th century B.C.
+^ That is, presumably, the Celts.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 351
+
+consider gods, but gifts of the Gods, indispensable
+[indeed] if we are to live otherwise then savagely and
+like the brutes.
+
+2. And at the season when, you know, these
+[ancients] saw the [fruits] entirely disappearing from
+the trees and ceasing, and those they had sown them-
+selves still scanty and poor, — in scraping away the
+earth with their hands, and pressing it together again,
+and depositing [the seed] in uncertainty as to whether
+it would come up again and have its proper consumma-
+tion, they used to do many things similar to those who
+bury and mourn.
+
+3. Then, just as we say that one who buys Plato's
+books " buys Plato,'' and that one who presents the
+creations of Menander " acts Menander," so did they not
+hesitate to call the gifts and creations of the Gods by
+the names of the Gods — honouring them and reverencing
+them by use.
+
+4. But those [who came] after, receiving [these names]
+like boors and ignorantly misapplying what happens ^
+to the fruits to the Gods [themselves], and not merely
+calling but believing the advent and hiding away of the
+necessaries [of life] generations and destructions of gods,
+filled their heads with absurd, indecent, and confused
+opinions, although they had the absurdity of their un-
+reason before their eyes.
+
+5. Excellent, however, was the view of Xenophanes ^
+of Colophon that Egyptians don't mourn if they believe
+in Gods and don't believe in Gods if they mourn ; nay,
+that it would be ridiculous for them in the same breath
+to mourn and pray for the seed to appear again, in order
+that it might again be consumed and mourned for,
+
+1 T^ irder} — lit., " the passions."
+
+2 X. flourished about end of 6th and beginning of 6th
+century B.C.
+
+Hosted by VjOOQIC
+
+
+352 THRICE-GREATEST HERMES
+
+LXXI. 1. But such is not really the case; but,
+while mourning for the grain, they pray the Gods,
+the authors and givers [of it], to renew it again
+and make other grow up in the place of that which
+is consumed.
+
+2. Whence there is an excellent saying among the
+philosophers, that those who do not learn how to hear
+names rightly, use things wrongly. Just as those of the
+Greeks who have not learned or accustomed themselves
+to call bronzes and pictures and marbles images in
+honour of the Gods, but [call them] Gods, [and] then
+make bold to say that Lachares stripped Athena, and
+Dionysius cut off Apollo's golden curls, and that
+Capitoline Zeus was burnt and perished in the Civil
+Wars, — these without knowing it find themselves drawn
+into adopting mischievous opinions following [directly]
+on the [abuse of] names.
+
+3. And this is especially the case of Egyptians with
+regard to the honours they pay to animals. For in this
+respect, at anyrate, Greeks speak rightly when they
+consider the dove as the sacred creature of Aphrodite,
+and the dragon of Athena, and the raven of Apollo, and
+the dog of Artemis, as Euripides [sings] :
+
+Thou shalt be dog, pet of torch-bearing Hecate. ^
+
+4. Whereas most of the Egyptians, by the service
+and cult they pay to the animals themselves as though
+they were Gods, have not only covered their sacred
+rites entirely with laughter and ridicule — which is the
+least evil of their fatuity ; but a dangerous way of
+thinking grows up which perverts the weak and simple
+to pure superstition, and, in the case of the shrewder
+and bolder, degenerates into an atheistic and brutal
+rationalism.
+
+^ Naiick, p. 525.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OE ISIS AND OSIRIS 353
+
+5. Wherefore, also, it is not unfitting to run through
+the conjectures about these things.^
+
+
+Concerning the Worship of Animals, and
+totemism
+
+LXXIL 1. As for the [theory] that the Gods out
+of fear of Typhon changed themselves into these
+animals — as it were hiding themselves in the bodies
+of ibises and dogs and hawks — it beats any juggling or
+story-telling.
+
+2. Also the [theory] that all the souls of the dead
+that persist, have their rebirth ^ into these [animals]
+only, is equally incredible.
+
+3. And of those who would assign some reason
+connected with the art of government, some say that
+Osiris upon his great campaign,^ divided his force
+into many divisions — (they call them companies and
+squadrons in Greek) — and gave them all ensigns
+of animal figures, and that each of these became
+sacred and venerated by the clan of those banded
+together under it.
+
+4. Others [say] that the kings after [Osiris], in order
+
+1 Dr Budge (op. cit.y i. 29) writes : " Such monuments and
+texts as we have . . . seem to show that the Egyptians first
+worshipped animals as animals, and nothing more, and later as
+the habitations of divine spirits and gods ; but there is no reason
+for thinking that the animal worship of the Egyptians was
+descended from a system of totems and fetishes as Mr J. F.
+McLennan {Fortnightly Review, ISeQ-lSYO) believed." I believe
+myself that the Egyptian animal-cult depended chiefly on the
+fact that life flowed differently in different animal forms, corre-
+sponding with the life-currents in the invisible forms or aspects
+of the Animal-Soul of the Cosmos.
+
+3 Sc. for civilising the world.
+
+VOL. I. 23
+
+Hosted by VjOOQIC
+
+
+354 THRICE-GREATEST HERMES
+
+to strike terror into their foes, used to appear dressed
+in wild beasts* heads of gold and silver.
+
+5. While others tell us that one of the clever and
+crafty kings, on learning that, though the Egyptians
+were fickle by nature and quick for change and innova-
+tion, they nevertheless possessed an invincible and
+unrestrainable might owing to their numbers when in
+agreement and co-operation, showed them and implanted
+into their minds an enduring superstition, — an occasion
+of unceasing disagreement.
+
+6. For in as much as the beasts — some of which he
+enacted some [clans] should honour and venerate
+and others others — are hostile and inimical to one
+another, and as each one of them by nature likes
+different food from the others, each [clan] in protecting
+its own special [beasts] and growing angry at their
+being injured, was for ever unconsciously being drawn
+into the enmities of the beasts, and [so] brought into
+a state of warfare with the others.
+
+7. For even unto this day the people of Wolf-town
+are the only Egyptians who eat sheep, because the
+wolf, whom they regard as god, [does so].
+
+8. And the people of Oxyrhynchus-town, in our
+own day, when the folk of Dog-town ate the oxyrhyn-
+chus ^ fish, caught a dog and sacrificing it as a sacred
+victim, ate it ; and going to war because of this, they
+handled one another roughly, and subsequently were
+roughly handled by the Eomans in punishment.^
+
+LXXIII. 1. Again, as many say that the soul of
+Typhon himself was parted among these animals, the
+myths would seem enigmatically to hint that every
+irrational and brutal nature is born from a part of the
+
+1 Lit., "sharp-snout."
+
+2 And such things occur " even to this day " in India under
+the British Raj.
+
+Hosted by VjOOQIC
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 355
+
+Evil Daimon, and that to appease and soothe him they
+pay cult and service to them.
+
+2. But if he fall upon them mighty and dire, bringing
+on them excessive droughts, or pestilent diseases, or
+other unlooked-for strange mischances, then the priests
+lead away at dark in silence quietly some of the
+venerated [beasts], and threaten and try to scare
+away the first [one] of them ; if, however, it stops, they
+consecrate and sacrifice it, as though, I suppose, this
+were some kind of chastisement of the Daimon, or
+some specially great means of purification in the
+greater [emergencies].
+
+3. For in the Goddess-of-child-bed-town ^ they used
+to burn living men to ashes, as Manethos has told us,
+calling them Typhoneian ; and the ashes they win-
+nowed away and scattered.^
+
+4. This, however, was done publicly, and at one
+special time, in the Dog-days ; whereas the consecrat-
+ings of the venerated beasts, which are never spoken of
+and take place at irregular times, according to the
+emergencies, are unknown to the multitude, except
+when they have burials, and [the priests] bringing out
+some of the others, cast them in [to the grave with
+them] in the presence of all, — in the belief that they
+annoy Typhon in return and curtail what gives him
+pleasure. For only the Apis and a few other [animals]
+seem to be sacred to Osiris; while they assign the
+majority to him [Typhon].
+
+5. And if he [Osiris] is really Reason {Logos), I
+think that the object of our enquiry is found in the
+case of these [animals] that are admitted to have common
+honours with him, — as, for instance, the ibis, and hawk,
+and dog-headed ape; [while] Apis himself [is his
+
+^ Over the fields ?
+
+
+Hosted by
+
+
+Google
+
+
+356 THRICE-GREATEST HERMES
+
+soul . . .]/ for thus, you know, they call the goat at
+Mendes.
+
+LXXIV. 1. There remain of course the utilitarian and
+symbolical [reasons], of which some have to do with
+one of the two [Gods], but most [of them] with both.
+
+2. As for the ox and sheep and ichneumon,^ it is
+clear they paid them honours on account of their
+usefulness and utility, — ^just as Lemnians crested larks
+which seek out and break the eggs of locusts, and
+Thessalians storks, because when their land produced
+multitudes of snakes, they came and destroyed them all —
+(wherefore they made a law that whoever killed a stork
+should be banished ^) — so with the asp and weasel and
+scarab, because they discerned in them certain faint
+likenesses of the power of the Gods, as it were [that]
+of the sun in water-drops.
+
+3. For as to the weasel, many still think and say
+that as it is impregnated through the ear and brings
+forth by the mouth, it is a likeness of the birth of
+reason {logos),^
+
+4. Again [they say] the species of scarab has no
+female, but all, as males, discharge their seed into the
+stuff they have made into balls,^ which they roll along
+by pushing, moving [themselves] in the opposite
+direction, just as the sun seems to turn the heaven
+round in the opposite direction, while it is [the heaven]
+itself that moves from west to east.^
+
+1 A lacuna occurs here which I have partially filled up,
+conjecturally, as above.
+
+2 An Egyptian animal of the weasel kind which was said to
+hunt out crocodiles' eggs ; also called " Pharaoh's rat."
+
+3 Cf. Arist., Mirab.y xxiii.
+
+4 Of. xxii. 1 — "Physiologus" again. For a criticism of this
+legend, see R. 43. « Of, x. 9.
+
+6 Budge {op. dt., ii. 379 f .) writes : " The beetle or scarabseus . . .
+belongs to the family called Scarabacidas (Coprophagi), of which
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 357
+
+5. And the asp, because it does not age, and moves
+without limbs with ease and pliancy, they likened to
+a star.
+
+LXXV. 1. Nay, not even has the crocodile had honour
+paid it without some show of credible cause, for it
+alone is tongue-less.-^
+
+For the Divine Keason (Logos) stands not in need
+of voice, and :
+
+*' Moving on a soundless path with justice guides [all]
+mortal things.'* ^
+
+2. And they say that it alone, when it is in the water,
+has its eyes covered by a smooth and transparent mem-
+brane that comes down from the upper lid,^ so that they
+see without being seen, — an attribute of the First God.*
+
+3. And whenever the female lays her eggs on the land,
+it is known that this will be the limit of the Nile's
+
+the Scarabd&us sacer is the type. ... A remarkable peculiarity
+exists in the structure and situation of the hind legs, which are
+placed so near the extremity of the body, and so far from each
+other as to give the insect a most extraordinary appearance when
+walking. This peculiar formation is, nevertheless, particularly
+serviceable to its possessors in rolling the balls of excrementitious
+matter in which they enclose their eggs. . . . These balls are at
+first irregular and soft, but, by degrees, and during the process of
+rolling along, become rounder and harder ; they are propelled by
+means of the hind legs. Sometimes these balls are an inch and a
+half, or two inches in diameter, and in rolling this along the
+beetles stand almost upon their heads, with the heads turned from
+the balls." The scarabseus was called kheprerd in Egyptian, and
+was the symbol of Khepera the Great God of creation and resurrec-
+tion ; he was the *' father of the gods," and the creator of all things
+in heaven and earth, self -begotten and self-born ; he was usually
+identified with the rising sun and new-birth generally.
+
+1 <*Physiologus" again, doubtless; it might, however, be said
+that its tongue is rudimentary.
+
+2 Euripides, Tro., 887.
+2 Lit., "brow."
+
+^ That is, the First-born Reason.
+
+
+Hosted by
+
+
+Google
+
+
+358 THRICE-aREATEST HERMES
+
+increase. For as they cannot lay in the water, and iei
+to do so far from it, they so accurately fore-feel wb
+will be, that they make use of the rise of the river k
+laying their eggs and hatching them, and yet keep the]
+dry and beyond the danger of being wetted.
+
+4. And they lay sixty [eggs] and hatch them out i
+as many days, and the longest-lived of them live a
+many years, — which is the first of the measures for thos
+who treat systematically of celestial [phenomena].^
+
+5. Moreover, of those that have honours paid them fo
+both [reasons]^ — of the dog, we have already treatec
+above.^
+
+6. As for the ibis, while killing the death-dealing o
+the reptiles,* it was the first to teach them the use o:
+me Ucinal evacuation, when they observed it being thuj
+rinsed out and purged by itself.^
+
+7. While those of the priests who are most punctilious
+in their observances, in purifying themselves, take th€
+water for cleansing from a place where the ibis hae
+drunk ; for it neither drinks unwholesome or poisoned ^
+water, nor [even] goes near it.
+
+8 Again, by the relative position of its legs to one
+another, and [of these] to its beak, it forms an equilateral
+triangle ; and yet again, the variegation and admixture
+of its black with its white feathers suggest the gibbous
+moon.^
+
+9. Nor ought we to be surprised at Egyptians being
+so fond of meagre likenesses ; for Greeks too in both their
+
+^ That is, presumably, either the 60 of the Chaldgeans, or the
+3 X 4 X 5 of the " most perfect " triangle of the Mathematici.
+
+2 Namely, the utilitarian and symbolical ; cf. Ixxiv. 1.
+
+3 Of. xiv. 6.
+
+* Cf. Rawlinson's Herodotus^ ii. 124, 125.
+
+^ There is a similar legend in India, I am told.
+
+6 May also mean "bewitched."
+
+^ That is, the moon in its third quarter.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 359
+
+pictured and plastic resemblances of Gods use many
+such [vague indications],
+
+10. For instance, in Crete there was a statue of Zeus
+which had no ears, — for it behoves the Euler and Lord
+of all to listen to no one.
+
+11. And Pheidias used the serpent in the [statue] of
+Athena, and the tortoise in that of Aphrodite at Elis,
+— because on the one hand virgins need protecting, and
+on the other because keeping-at-home and silence are
+becoming to married women.
+
+12. Again, the trident of Poseidon is a symbol of the
+third region, which the sea occupies, assigned [to him]
+after the heaven and air. For which cause also they
+invented the names Amphi-trite and Trit-ons.^
+
+13. And the Pythagoreans have embellished both
+numbers and figures with appellations of Gods.
+
+For they used to call the equilateral triangle Athena
+— Head-born and Third-born ^ — because it is divided
+by three plumb-lines ^ drawn from the three angles.
+
+14. And [they called] " one " Apollo, from privation
+of multitude,* and owing to the singleness^ of the
+monad ; and " two " Strife and Daring, and ** three "
+Justice [or Eightness], — for as wronging and being
+wronged were according to deficiency and excess, right-
+ness [or justice] was born to equality between them.^
+
+1 From rptrhs, " third."
+
+2 Kopv4>ay€vi/rj koI rpiToyey^taVi — that is, Koryphagennes and
+Tritogeneia.
+
+5 Tpia-l KaOerois, — a KdOeros (sc, ypajxjj.'f)) is generally a perpen-
+dicular ; but here the reference must be to this appended iigiire :
+
+
+^ That is, presumably, a"ir6\\uy, from a (priv.) and iroWol
+(many).
+
+5 5i' aiTx6rrira, — the play being apparently a-iroK {irKoyms.
+^ Lit., in the midst.
+
+
+Hosted by
+
+
+Google
+
+
+360 THRICE-GREATEST HERMES
+
+15. And what is called the Tetraktys, the six-and-
+thirty, was [their] greatest oath (as has been said over
+and over again), and is called Cosmos, — which is produced
+by adding together the first four even and [the first]
+four odd [numbers].^
+
+LXXVI. 1. If, then, the most approved of the philo-
+sophers, when they perceived in soulless and bodiless
+things a riddle of the Divine, did not think it right to
+neglect anything or treat it with disrespect, still more
+liking, I think, we should then have for the peculiarities
+in natures that are endowed with sense and possess soul
+and passion and character, — not paying honour to these,
+but through them to the Divine ; so that since they are
+made by Nature into mirrors clearer [than any man
+can make], we should consider this as the instrument
+and art of God who ever orders all things.
+
+2. And, generally, we should deem that nothing
+soulless is superior to a thing with soul, nor one with-
+out sense to one possessing it ; not even if one should
+bring together into one spot all the gold and emeralds
+in the world.
+
+3. For that which is Divine does not reside in
+colours or shapes or smoothnesses; nay, all things
+that either have no share or are not of a nature to
+share in life, have a lot of less value than that of
+dead bodies.^
+
+4. Whereas the Nature that lives and sees, and
+has its source of motion from itself, and knowledge of
+things that are its and those that are not, has appro-
+
+1 The Tetraktys was ordinarily considered to be the sum of the
+first four numbers simply, that is 1+2 + 3 + 4=10; but here we
+have it given as 1+3 + 5 + 7 = 16, and 2 + 4 + 6 + 8 = 20, and 16 +
+20 = 36. The oath is said to have been: "Yea, by Him who
+did bestow upon our soul Tetraktys, Ever-flowing Nature, Source
+possessing roots " — the " roots " being the four elements.
+
+2 Sc. which have at least been the vehicle of life.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 361
+
+priated both an " efflux of the Good/' ^ and a share of
+the Thinker "by whom the universe is steered," as
+Heracleitus says.^
+
+5. For which cause the Divine is not less well
+pourtrayed in these [sc. animals] than by means of
+works of art in bronze and stone, which while equally
+susceptible of decay and mutilations,^ are in their
+nature destitute of all feeling and understanding.
+
+6. With regard to the honours paid to animals, then,
+I approve this view more highly than any other that
+has been mentioned.
+
+Concerning the Sacred Eobes
+
+LXXVII. 1. ISTow as to robes: those of Isis [are]
+variegated in their dyes, for her power [is] connected
+with matters producing all things and receiving [all] —
+light darkness, day night, fire water, life death, beginning
+end ; while the [robe] of Osiris has neither shade nor
+variegation, but one single [property] — the light-like,*
+for the Source is pure and the First and Intelligible
+unmixed.
+
+2. Wherefore when they have once and once only
+received this [robe],^ they treasure it away and keep it
+from all eyes and hands ; whereas they use those of Isis
+on many occasions.
+
+3. For it is by use that the things which are sensible
+and ready to hand, present many unfoldings and views
+of themselves as they change now one way now another ;
+
+1 Plat., PAcec^r., 251 B.
+
+2 Mullacli, i. 328.
+
+^ Reading Tnjpdtxreis.
+
+i rh 0wToetS€s. Of. the better -known term rh aityoeidh, " the
+ray-like " (augoeides).
+
+^ Presumably in the initiation symbolising the investiture with
+the Robe of Glory.
+
+
+Hosted by
+
+
+Google
+
+
+362 THRICE-GBEATEST HERMES
+
+whereas the intelligence of the Intelligible and Pure
+and Single, shining through the soul, like lightning-
+flash, once and once only perchance allows [us] to
+contact and behold [It].
+
+4. For which cause both Plato ^ and Aristotle call
+this part of philosophy " epoptic," 2 from the fact that
+they who transcend by the reason {logos) these mixed
+and multiform things of opinion, are raised unto that
+Primal [One], Simple and Matter-less, and [so] contact-
+ing in its singleness the pure truth concerning It, they
+think philosophy has as it were [its] perfect end.
+
+LXXVIII. 1. The fact, moreover, which the present
+priests cautiously hint at by expiatory sacrifices and
+covering their faces — [namely] that this God is ruler
+and king of the dead, being no other than him who is
+called Hades and Pluto among Greeks — in that they
+do not know how it is true, confuses the multitude, who
+suppose that the truly sacred and holy Osiris lives on
+earth and under earth, where the bodies of those who
+seem to have [reached their] end are hidden [away].
+
+2. But He Himself is far, far from the earth, un-
+spotted and unstained, and pure of every essence that
+is susceptible of death and of decay. Nor can the souls
+of men here [on the earth], swathed as they are with
+bodies and enwrapped in passions, commune with God,
+except so far as they can reach some dim sort of a
+dream [of Him], with the perception of a mind trained
+in philosophy.
+
+3. But when [their souls] freed [from these bonds]
+pass to the Formless and Invisible and Passionless and
+Pure, this God becomes their guide and king, as though
+they hung on Him, and gazed insatiate upon His Beauty,
+
+1 Symp,^ 210 A.
+
+2 In its highest sense— that is, intelligible or spiritual " seership,"
+not the symboHc *' sight" in the formal Greater Mysteries.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 363
+
+and longed after it — [Beauty] that no man can declare
+or speak about.
+
+4. It is with this the ancient tale (logos) makes Isis
+e'er in love, and, by pursuit [of it], and consort [with
+it], makes [her] full-fill all things down here with all
+things fair and good, whatever things have part in
+genesis.
+
+5. Thus, then, these things contain the reason (logos)
+that's more suitable to God.
+
+
+Concerning Incense
+
+LXXIX. 1. And must I also speak of the daily incense-
+offerings, as I promised,^ the reader should first of all
+have in mind the fact, that not only have men [in
+general] always paid most serious attention to things
+that conduce to health, but that especially in sacred
+ceremonies and purifications and prescribed modes of
+life " healthy '' is not less important than ** holy " ; for
+they did not think it right to render service to the Pure
+and perfectly Harmless and Unpolluted with either
+bodies or with souls festering and diseased.
+
+2. Since, then, the air — of which we make most use,
+and with which we have most to do — does not always
+keep the same disposition and blend, but at night is
+condensed, and weighs down the body, and brings the
+soul into a desponding and anxious state, as though it
+had become mist-like and heavy ; [therefore] as soon as
+they get up they incense with pine resin, sanifying
+and purifying the air by its ^ disintegration, and fanning
+up again the [fire of the] spirit connate with body^
+
+1 Cf. Hi. 5.
+
+2 Sc, the resin's.
+
+3 That is, presumably, what was called the " bodily or animal
+spirits" — the ethers or prdna's.
+
+
+Hosted by
+
+
+Google
+
+
+364 THRICE-GREATEST HERMES
+
+which had died down, — since its perfume possesses a
+vehement and penetrating [force].
+
+3. And, again, at mid-day, perceiving that the sun
+draws from the earth by force an exceedingly large and
+heavy exhalation, and commingles it with the air, they
+incense with myrrh.^ For its heat dissolves and dis-
+perses the turbid and mud-like combination in the
+atmosphere.
+
+4. And, indeed, physicians seem to relieve sufferers
+from plague by making a great blaze, as though it
+cleared the air. But it clears it better if they burn
+fragrant woods, such as [those] of cypress, juniper, and
+pine.
+
+5. At any rate, they say that at Athens, at the time
+of the Great Plague, Akron the physician became
+famous through ordering them to keep fires burning by
+the side of the sick, for he [thus] benefitted not a few.
+
+6. And Aristotle says that the sweet-smelling odours,
+given off by perfumes and flowers and meadows, conduce
+no less to health than to enjoyment ; because by their
+warmth and softness they diffuse themselves gently
+through the brain, which is naturally cold and as though
+congested.
+
+7. And if, moreover, they call myrrh lal among
+Egyptians — and in translation this comes pretty near
+to meaning the dispersion of silly talk — this also affords
+some evidence for the reason why [they use it].
+
+LXXX. 1. And [finally] huphi^ is a mixture com-
+posed of sixteen ingredients : — of honey, and wine,
+and raisins, and cyperus; ^ of pine-resin, and myrrh,
+
+^ The resinous gum of an Arabian tree ; probably a kind of
+acacia.
+
+2 This was also used as a medicine.
+
+3 Kvtreipovj — Cyperus comosuSya.n aromatic plant used in embalm-
+ing, a sweet-smelling marsh plant. Cf. F. cyph-e and E. cypres.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 365
+
+and aspalathus,^ and seseli;^ and further of mastich,^
+and bitumen,* and nightshade,^ and sorrel ; and in
+addition to these of both junipers ^ (of which they call
+the one the larger and the other the smaller), and
+cardamum, and sweet-flag.''
+
+2. And these are not compounded in a haphazard
+way, but with the sacred writings being read aloud ^ to
+the perfume-makers when they mix them.
+
+3. And as to their number, — even though it has all
+the appearance of square from square, and [that too]
+the only one of equally equal numbers that has the
+power of making the perimeter equal to the area,^ it
+must be said that its serviceableness for this purpose
+at least is of the slightest.
+
+4. But the majority of the ingredients, as they possess
+aromatic properties, liberate a sweet breath and healthy
+exhalation, by which both the air is changed, and the
+body being gently and softly moved by the vapour,
+falls asleep ^^ and loosens the distressing strain of the
+day's anxieties, as though they were knots, [and yet]
+without any intoxication.
+
+1 a<TiraXdeovj — a prickly shrub yielding a fragrant oil ;
+mentioned in the Apocrypha and in some old herbalists. Cf^
+"I gave a sweet smell like cinnamon and aspalathus" — Ecclus.
+xxiv. 15. It was not the Genista acanthoclada,
+
+2 cecrexetasj — the Tordylium officinale ; formerly called in
+English also " cicely."
+
+2 (Txlyov, — or may be " squill."
+
+'' ep^ov, — or may be " rush."
+
+^ Lit., juniper-berries.
+
+7 K<i\afjLovy — probably A corns calamus (of. Ex. xxx. 23 et aL).
+It is to be noticed that the ingredients are arranged in four sets of
+four each.
+
+^ That is to the sound of mantrdh, as a Hindu would say^
+
+^ Of. xlii. 2 and figure in note.
+
+^^ The kuphi being used at sundown.
+
+
+Hosted by
+
+
+Google
+
+
+366 THRICE-GKEATEST HERMES
+
+5. Moreover, they polish up the image-making and
+receptive organ of dreams like a mirror, and make it
+clearer, no less than the playing on the lyre which the
+Pythagoreans used to use before sleep, thus charming
+away and sanifying the passionate and reason-less
+nature of the soul.
+
+6. For things smelt call back the failing sense, and
+often, on the other hand, dull and quiet it by [their]
+soothing [effect], when their exhalations are diffused
+through the body ; just as some of the physicians say
+that sleep is induced when the vaporisation of the
+food, as it were creeping gently round the inward parts
+and groping about, produces a kind of tickling.
+
+7. And they use ku'phi both as draught and mixture ;
+for when it is drunk it is thought to purge the intestines,
+[but when applied externally ^] to be an emollient.
+
+8. And apart from these [considerations], resin is a
+work of the sun ; and myrrh [comes from] the exuda-
+tion of the trees under the sun-heat; while of the
+ingredients of huphi, some flourish more at night, like
+all things whose nature it is to be nourished by cool
+breezes and shade and dew and damp.
+
+9. Seeing that the light of day is one and single, and
+Pindar tells us that the sun is seen ** through empty
+sether'';^ while air is a blend and mixture of many
+lights and properties, as it were of seeds dropped from
+every star into one [field].
+
+10. Naturally, then, they use the former as incenses
+by day, as being single and having their birth from the
+sun ; and the latter when night sets in, as being mixed
+and manifold in its qualities.
+
+1 A lacuna of 8 or 9 letters occurs here in E,
+
+2 Olym'p,, i. 6.
+
+
+Hosted by
+
+
+Google
+
+
+THE MYSTERIES OF ISIS AND OSIRIS 367
+
+Afterwokd
+
+So ends this exceedingly instructive treatise of
+Plutarch, which, in spite of the mass of texts and monu-
+ments concerning Asar and Ast which have already been
+deciphered by the industry of Egyptologists, remains
+the most complete account of the root mystery-myth of
+ancient Egypt. The myth of Osiris and Isis goes back
+to the earliest times of which we have record, and is
+always found in the same form. Indeed the " Ritual,"
+the '' Book of the Dead," which should rather be called
+the "Book of the Living," might very well be styled
+" The Gospel of Osiris."
+
+It would be out of place here to seek for the
+historical origin of this Great Mystery ; certainly Osiris
+was originally something greater than a " water sprite,"
+as Budge supposes. Osiris and Isis were and are
+originally, as I believe, cosmic or super-cosmic beings;
+for the Elder and Younger Horus, regarded macrocos-
+mically, were the Intelligible and Sensible Worlds, and,
+regarded microcosmically, pertained to the mystery of
+the Christ-stage of manhood.
+
+It may, of course, be denied that the ancient Egyp-
+tians were capable of entertaining any such notions;
+we, however, prefer the tradition of our Trismegistic
+tractates to the " primitive-culture " theories of anthro-
+pological speculation. That, however, such views were
+entertained in the first centuries is incontrovertible, as
+may be seen from a careful study of Philo of Alexandria
+alone. Thus to quote one passage out of many with
+regard to the two Horoi :
+
+" For that this cosmos is the' Younger Son of God, in
+that it is perceptible to sense. The Son who's older
+than this one, He hath declared to be no one [perceptible
+by sense], for that he is conceivable by mind alone.
+
+
+Hosted by
+
+
+Google
+
+
+368 THRICE-GREATEST HERMES
+
+But having judged him worthy of the Elder's rights,
+He hath determined that he should remain with Him
+alone." 1
+
+When, moreover, we speak of the Christ-stage of
+manhood, we mean all that mystery that lies beyond the
+normal stage of man, including both the super-man
+stage and that of the Christ.
+
+In any case, Plutarch is of the greatest service for
+understanding the atmosphere and environment in
+which the students of the Trismegistic tradition moved,
+and we have therefore bestowed more care upon him
+than perhaps the general reader may think necessary.
+
+1 Quod Deus Im,, § 6 ; M. 1, 277, P. 298 (Ri. ii. 72, 73).
+
+
+Hosted by
+
+
+Google
+
+
+X
+'' HEEMAS " AND " HEKMES "
+
+An Anticipation
+
+When, in a recent book,^ I was treating of the Early
+Church document The Shepherd of Hermas, in con-
+nection with the ancient and mysterious Book of Mxa%
+which, according to Epiphanius, circulated among the
+Essenes, Nazorenes, Ebionites, and Sampsseans, I wrote
+as follows :
+
+" It is also of very great interest to notice the many
+intimate points of contact between the contents of
+the Apocalyptic Hermas and the teaching of the Early
+* Shepherd of Men ' tractate of the mystic school who
+looked to Hermes the Thrice-Greatest as their inspirer,
+that is to say, the earliest deposit of the Trismegistic
+literature. But that is another story which has not
+yet been told."
+
+At the same time, all unknown to me, Eeitzenstein
+must have written, or have been writing, his learned
+pages on ** Hermas and Poimandres,'' coming to practi-
+cally the same conclusion as I had in cruder form
+expressed several years earlier, when commenting on
+Hilgers' theory ^ that the "Shepherd of Men" was
+
+^ Did Jesus Live 100 B.C. .? — An Enquiry into the Talmud Jesus
+Stories, the Toldoth Jeschu, and Some Curious Statements of
+Epiphanius (London, 1903), pp. 365 ff.
+
+2 See Hilgers (J.), De Hermetis Trismegisti Poimandro Com-
+mentatio (Bonn, 1855).
+
+VOL. I. 369 24
+
+
+Hosted by
+
+
+Google
+
+
+370 THRICE-GREATEST HERMES
+
+written in opposition to the "Shepherd of HermaB/*
+and suggesting that if there were any dependence of
+one on the other, it was in exactly the reverse sense
+to that of Hilger's assumption.^
+
+The Higher Criticism of '' The Shepherd of Hermas "
+
+Like all the other extant extra-canonical documents
+of the Early Church, and especially the Antilegomena,
+as Eusebius calls them, that is to say books disputed
+in his day but earlier admitted by wide circles into the
+canon, The Shepherd of Hermas has been submitted to
+the most searching analysis by modern criticism.
+Though its unity is still strenuously defended by some
+scholars, the majority are convinced of its composite
+nature ; and I follow Hilgenfeld,^ who detects in the
+present form of this document three elements, or, so to
+say, three deposits : (i.) The Apocalyptic — Viss. i.-iv. ;
+(ii.) The Pastoral — Vis. v.-Sim. vii. ; (iii.) The Secondary,
+or appendix of the latest redactor — Simm. viii.-x.
+** Hermas i." and '* Hermas ii/' cite nothing from any of
+the canonical books of the New Testament, and this
+should be, for most scholars, a striking indication of
+their early date.
+
+The Introbuction of the "Pastoral Hermas"
+
+" Hermas ii./' the " Pastoral Hermas,'* begins as
+follows : ^
+
+1. " Now when I had prayed in my house, and sat me
+
+1 See The Theosophical Review, xxiv. 302, 303 (June 1899).
+
+- Hilgenfeld (A.), Hermce Pastor (2nd ed. : Leipzig, 1881).
+
+^ 'A-rroKahv^is €, — the fifth revelation or vision of our composite
+document, which for all we know may have stood first in some
+earher " source.^'
+
+
+Hosted by
+
+
+Google
+
+
+" HERMAS " AND ** HERMES " 371
+
+down upon my couch, there entered a man of glorious
+appearance, in the guise of a Shepherd, clad in a white
+skin,i with a wallet on his shoulders, and a staff in
+his hand. And he embraced me, and I embraced him.^
+
+2. " And straightway he sat down by my side. He
+saith to me : I am sent by the most Sovereign
+Angel, that I may dwell with thee for the rest of the
+days of thy life.
+
+3. " I thought that he had come to tempt me ; ^ and I say
+unto him : Who art thou ? For I do know (say I) into
+whose charge I have been given. He saith to me : Dost
+thou not know ? Nay — answer I. I am (saith he) the
+Shepherd ^ into whose charge thou hast been given.
+
+4. " E'en as he spoke, his aspect changed, and I knew
+him, that it was he to whom I had been given in
+charge."
+
+COMPAEISON WITH OUR " PCEMANDRES "
+
+If we now compare the Greek text of this interesting
+passage with that of the introductory paragraphs of the
+" Poemandres," it will be found impossible to refer their
+striking similarities merely to a common type of ex-
+pression; the verbal agreements are too precise, and
+
+^ Presumably a sheep's skin of white wool.
+
+2 Compare the Story of the Spirit Double who came down unto
+Jesus when a boy, as told by Mary the Mother, in the PisHs Sophia^
+121 : " He embraced thee and kissed thee, and thou also didst kiss
+him ; ye became one." Compare this with the common mystic
+belief of the time in the possibility of union with such a spiritual
+presence ; and also the possession by a daimon (\rj^ts Baifioyos),
+which is treated of at length by Reitzenstein, and particularly
+referred to this pasage in Hermas (R. 230).
+
+2 Compare PisHs Sophia, 120 : " I was in doubt and thought it
+was a phantom tempting me."
+
+* On this Gebhardt and Harnack, in their edition (Leipzig,
+1877), can only comment : " In visionihus angelicus pastor nusquam
+memoratur."
+
+
+Hosted by
+
+
+Google
+
+
+372 THRICE-GREATEST HERMES
+
+stand out convincingly at the first glance, without need-
+ing the assistance of the large type in which Keitzenstein
+(pp. 11, 12) has had them printed in his reproduction
+of the texts.
+
+Most remarkable of all, however, is the similarity of
+ideas ; for " Hermas " as for ** Hermes " the Shepherd
+is not only a shepherd but a " shepherd of men,'' even
+as in a different connection but in the same circle of
+ideas Peter and others were to become " fishers of men." ^
+
+ISTow, not only on general grounds is it difficult for
+any one who has carefully studied the two documents,
+to believe that the writer of the philosophic-mystical
+treatise not only had the Christian apocalyptic writing
+before him but took it as his point of departure ; but,
+even if we are still strongly dominated by what has
+hitherto been the traditional view in all such questions,
+and cling to the theory that when there is similarity
+the Christian scripture must necessarily have been first
+in the field, it is very difficult to believe that a copier
+of *' Hermas " should have left no traces of an acquaint-
+ance with the very distinctive feature of the robe and
+staff and wallet of the shepherd, and of the conversation
+which follows in what, on this theory, would be the
+presupposed original.
+
+The Populae Symbolic Kepresentation of
+THE Shepherd
+
+The mystical representation and thought-atmosphere
+of the writer or redactor of our present " Poemandres "
+are far removed from any direct traces of contact with
+the folk-consciousness, in which the appurtenances men-
+tioned by " Hermas " were the typical literary description
+
+1 Compare the interesting inscription from Sakkara quoted
+from Erman (note, below).
+
+
+Hosted by
+
+
+Google
+
+
+'' HERMAS " AND ** HERMES " 373
+
+of a shepherd since the time of Theocritus ; ^ not only
+so, but this was the symbolic representation of the
+" Shepherd of Men " in the general Hellenistic religious
+consciousness. Indeed, we find unquestionable proofs
+that Hermes was pre-eminently regarded as the " Good
+Shepherd,'* and a figure of him with staff and wallet and
+single robe was a great favourite in the popular cult.^
+
+In one passage ^ in which mention is made of this
+wallet and staff:*, further details are given showing that
+these simple symbols were well understood. The right
+hand is raised, and the left holds staff and wallet.
+Moreover, the staff has a serpent entwined round it, '
+and Hermes is clad in a single robe. Like Isis, he ,
+stands upon the world-sphere, which has also a serpent
+twined round it. Hermes here represents the Mind or
+Logos, the father-mother (staff and wallet) force of
+nature ; with the " left " he brings into generation, with
+the " right " he leads souls out of genesis, either to death,
+or regeneration. In this prayer, Hermes (as the sun) is
+called '' the Shepherd who hath his fold in the West."^
+
+It is to be further remarked that Hermes is in the
+dress of the *'Poor,"^ and of the " Naked." ^
+
+1 R. 11, n. 3.
+
+2 Compare Wessely, IJenkschr, d, K. K. Ahad. (1888), 103, 2359 ff.
+
+3 Ibid., 104, 2373.
+
+* Erman (Agypten, 516) refers to an inscription from Sakkara,
+in which a mystical shepherd says to his flock : " Your Shepherd
+is in the West with the fishes," — an interesting conjunction of
+ideas for students of archaic Christian symbolism. The idea is
+also Babylonian, the Star-flocks of the Gods being fed beyond the
+Ocean in the West.
+
+° Compare the dress of the Essenes, and the account of the send-
+ing forth of the disciples, Matt. x. 9 = Mark vi. 8 = Luke ix. 3.
+The direct contradiction of the account in Mark to the statements
+in Matthew and Luke, makes it exceedingly probable that not only
+the one robe, and staff, but also the wallet, were the typical signs
+of those who went forth to " raise the dead."
+
+^ He is clad in the ireplCcofia^ the working dress (or apron),
+
+
+Hosted by
+
+
+Google
+
+
+374 THRICE-GREATEST HERMES
+
+
+The Name "Hekmas"
+
+But to return to Hermas, Why " Hermas " of all
+names in the world in this connection ? We have a
+large literature in which " Hermes " plays the part of
+seer, and prophet, and revealer, and writer of sacred
+scriptures; in it, moreover, he figures as the beloved
+disciple of the Heavenly Mind, the Shepherd of Men.
+But what have we in Christian tradition to explain the
+name " Hermas " ? Nothing, absolutely nothing, but
+contradictory hypotheses which try to discover a
+historic Hermas so as to authenticate the provenance
+of what is manifestly, like nearly every similar
+document of the time, pseudepigraphic. In my
+opinion, indeed, the very name Hermas betrays more
+clearly than anything else the *' Hermes " source of
+the Christian writer's setting of part of his most
+interesting apocalyptic. *' Hermas " is because of
+"Hermes," rather than *'Hernies" in answer to
+"Hermas," as Hilgers would have it.
+
+An Early Form of the " Pcemanbres "
+
+This, however, does not mean to say that " Hermas '*
+took the setting of the introduction of his Pastoral
+apocalypses from precisely the same text of the
+" Poemandres " which now lies before us, for our
+present text is manifestly the redaction of an earlier
+form ; so that if we could recover the other form we
+should in all probability find some additional verbal
+agreement of " Hermas " with " Hermes."
+
+in which men were said to work "naked" {nudus^ yv/upds) — that
+is, clad in one robe. See also note on the sentence : '* And naked
+I sought the Naked," in treating of the Gymnosophists (or Naked
+Philosophers), in my Apollonius of Tyana (London, 1901), p. 100.
+
+
+Hosted by
+
+
+Google
+
+
+" HERMAS AND ** HERMES 375
+
+That the ideas of the " Poemandres " treatise were
+the mystical and philosophical side of much that
+appears in the popular cult of the time, may be seen
+by an inspection of the prayers from the Magic Papyri
+which we have translated.^ In them the Mind, as the
+Shepherd of Men, and the Eevealer of the Light, is
+clearly set forth. Keitzenstein*s view (p. 32), ac-
+cordingly, is that the Christian writer must have taken
+his description of the Shepherd from what originally
+was a fuller text of the *' PcBmandres " than the one
+preserved to us, and that this will account for several
+features which would otherwise be peculiar to " Hermas."
+This text was in closer verbal agreement with the
+general language of the popular Hermes religion as
+preserved to us in the Hermes- Prayers.^
+
+The Holy Mount
+
+But the direct points of contact between "Hermas"
+and the Trismegistic literature are not confined to the
+** PcBmandres " document. As the original writer of
+" Hermas " was dependent on " Hermes " for the setting
+of the introduction to his Pastoral apocalypses, so also
+it is highly probable that the redactor was influenced
+by a lost treatise referred to in the introduction of
+" The Sacred Sermon on the Mountain," G, H,, xiii. (xiv.).
+
+In this treatise reference is made to one of the now
+lost '' General Sermons," ^ the scene of which also took
+
+^ See "The Popular Theurgic Hermes Cult in the Greek
+Magic Papyri."
+
+2 Compare Hermas^ Vis. v. 2 : " I am sent . , . that I may
+dwell with thee for the rest of the days of thy life," with Prayer
+i. 10 : "for all the length of my life's days" ; and v, 3 : "I know
+into whose charge I have been given," with Prayer ii. 7 : "I
+know thee, Hermes."
+
+
+Hosted by
+
+
+Google
+
+
+376 THRICE-GREATEST HERMES
+
+place on a mountain. For in connection with it
+mention is made by Tat of his passing over a moun-
+tain, or ascending a mountain, at the beginning of his
+noviciate, when he became a '* suppliant " ; ^ while it is
+further stated by Tat that at that stage the doctrine
+was not clearly explained, but rather hidden in riddles ;
+for that as yet he was not sufficiently purified, and
+made " a stranger to the world-illusion/'
+
+Now, it is remarkable that " Hermas,'' in the appendix
+to the book (Sim. ix.), tells us that after these revela-
+tions the Shepherd came to him again, and told him
+that much had not been explained because of his
+*' weakness in the flesh"; but now that he has been
+strengthened by the Spirit, the Shepherd will explain
+all " with greater clearness." He then takes him away
+into Arcadia (a very unexpected locality for a Chris-
+tian writer in Eome to choose), to a " breast-like moun-
+tain,'* where he has the further teaching revealed
+to him.
+
+But, strangely enough, it was precisely in Arcadia
+that the chief Hellenic cult of Hermes existed, as stated
+by Lactantius, basing himself on the common belief at
+Rome ; ^ and from Arcadia it was that Hermes, according
+to a tendency-legend that even at Eome went back at
+least to the second century B.C., set forth to teach the
+Egyptians.
+
+"Gnostic" Elements
+
+Moreover, " Hermas " is throughout strongly tinged
+with " Gnostic " elements. As I wrote in my last
+book,^ it is practically one of the very numerous
+
+^ A term used by Philo as a synonym of Therapeiit.
+
+2 IHv. Institt.y i. 6— as cited among Evidences from the Fathers,
+where see my note on Pheneus.
+
+3 Op, sup. cit, p. 365.
+
+
+Hosted by
+
+
+Google
+
+
+*' HERMAS " AND *' HERMES '' 377
+
+permutations and combinations of the Sophia-mythus
+— one of the many settings-forth of the mystic lore and
+love of the Christ and the Sophia, or Wisdom, of the Son
+of God and His spouse or sister, the Holy Spirit, of the
+King and Queen, of the Lord and the Virgin Church.
+In its most instructive series of visions are depicted the
+mystic scenes of the allegorical drama of man's inner
+nature — the mystery-play of all time.
+
+But when we say ''Gnostic" we mean much that is
+also Hellenistic mysticism, and therefore much that is
+also " Hermetic," for in the Trismegistic literature there
+is set forth a Gnosis of a far simpler type than in any
+of the Christian systems technically called " Gnostic."
+
+The Vices and Virtues
+
+A striking example of the similarity of ideas of this
+nature is found in comparing the list of twelve vices
+and ten (seven and three) virtues, given in (7. JT., xiii.
+(xiv.) 7-10,1 with " Hermas," Sim. ix. 16, 1-3, where
+twelve '' virgins," each bearing the name of a virtue, are
+set over against twelve " women clothed in black," each
+bearing the name of a vice ; and with " Hermas," Vis. iii.
+8, 7, where seven women, each in turn the mother of
+the other, are called by the names of seven virtues.
+
+We need not, of course, necessarily suppose any direct
+contact in this case, though it is curious that the list
+of virtues occurs precisely in the sermon "On the
+Mountain " ; but both writers clearly move in, or are
+influenced by, the same circle of ideas, and that, too,
+ideas of a very special nature.
+
+The above points are sufficient for our purpose, and
+throw a most interesting light on one element in the
+
+^ The very treatise to which we have previously referred in
+connection with the " mountain."
+
+
+Hosted by
+
+
+Google
+
+
+378 THRICE-GREATEST HERMES
+
+composition of the very ancient Christian document
+whose exclusion from the canon, after enjoying for so
+many years practically canonical authority, is to be
+regretted.
+
+The Early Date of the Original '' Hermas "
+
+Now, " Apocalyptic Hermas " is distinctly " anti-
+Pauline,'' and perhaps this more than anything else
+accounts for the final exclusion of the book from the
+canon ; it is therefore in vain to seek in it quotations
+from any of the Pauline Letters. But what is still more
+remarkable, neither it nor the " Pastoral Hermas " quote
+from any of the Canonical Gospels. This argues a very
+early date.
+
+If, then, we are inclined to accept the statement of
+the writer of the Muratorian Fragment (c. 170 a.d.)
+that " Hermas " was written at Home during the -bishop-*
+ric of Pius (140-c. 155 A.D.), this must refer to the
+completed work of the last redactor who is held re-
+sponsible for "Hermas iii.," and who was acquainted
+with several books of the canon. The "Pastoral
+Hermas" may thus be fairly pushed back to the be-
+ginning of the first century.
+
+We have also to remember — a point which Eeitzen-
+stein does not seem to have taken into consideration —
+not only that the Greek original of our form of
+" Hermas " is lost, but that the Old Latin version has
+also disappeared, and that we possess only a Greek
+re translation from the Latin.^ Under these circum-
+stances, it is still more surprising that such strong traces
+of direct literary dependence on the original form of
+the "Poemandres" introduction should still remain in
+our " Hermas.'*
+
+i See Gebhardt and Hamack, op. ciL, Prolegg. xi. n. 2.
+
+
+Hosted by
+
+
+Google
+
+
+HERMAS " AND " HERMES " 379
+
+
+The Dependence Theory to be used with
+Caution
+
+It would, however, in my opinion be a grave mistake
+to push the theory of literary dependence too far, and
+to seek to account for the main content of " Hermas "
+on any theory of direct borrowing from allied sources,
+or even solely of direct external conditioning by the
+mystical and theological ideas of the time. There is
+no a priori reason against the high probability that
+the original writer was recording some genuine inner
+experiences, however much, as was the fashion of the
+time, and of other times and climes, they may have been
+expanded, interpolated, and polished by literary art.
+
+It is true that all such inner experiences would be
+strongly conditioned by the prior conceptions, thought-
+tone, and theological beliefs of the writer, and by the
+current and traditional types of such experiences known
+in his day. Indeed, it is very difficult anywhere to meet
+with the record of visions or apocalyptic utterances
+which are not so conditioned. The Buddhist seer, sees
+in the mode of traditional Buddhist conceptions of the
+unseen ; the Hellenic mantis and sibyl find themselves
+in an invisible world of the familiar nature known to
+them from the mythologists, and poets, and mystery-
+traditions; the Egyptian prophet moves amid the
+familiar topography and schematology of the Amenti
+of his nation ; even an Ezekiel sees in the symbols of
+the Babylonian cultus; while the Christian mystic
+invariably finds himself in the conventional heaven of
+the saints and the hell of the sinners.
+
+It is not, therefore, necessary to follow Eeitzenstein
+(pp. 8-11) in detail, when he seeks to show the strong
+influence of heathen mystical literature on the early
+
+
+Hosted by
+
+
+Google
+
+
+380 THRICE-GREATEST HERMES
+
+Christian document we are discussing, and to point to
+striking parallels between the setting of the first four
+visions of "Hermas," and the visions of Zosimus, as
+preserved in the fragments of his " Acts," ^ or the " Visit
+to Hades" of Setme and Si-Osiri, and their passing
+through the Seven Halls,^ as partially preserved in the
+Demotic " Tales of Khamuas/' ^
+
+It is true that Zosimus, who flourished towards
+the end of the third century, was a member of the
+Poemandres community, and, therefore, what he has
+to say is of great interest to us, for doubtless his
+visions were strongly conditioned by the Trismegistic
+tradition and especially by the Isis-type of its literature,
+and the cognate Egyptian " Books of Hermes " ; but
+the points on which Reitzenstein lays stress seem
+somewhat too general to allow of our drawing any
+direct conclusion with regard to " Hermas " and
+" Hermes."
+
+There is a certain similarity; but our information
+is too scanty to permit of any precise drawing of
+general conclusions. There is, however, a valuable
+piece of information which prevents us from attribut-
+ing all the similarities which may be noticed purely
+to the general thought-atmosphere of the times. In
+one particular at least, we can be more definite.
+
+The Visions of Crates
+
+Zosimus is not the only follower of Thrice-greatest
+Hermes whose visions are still on record. Crates also
+
+1 The texts are given by Berthelot (M. P. S.), Le$ Alchimistes
+grecs.
+
+2 See The Book of the Dead, cxliv., cxlvii.
+
+3 Griflath (F. LL), Stories of the High Priests of Memphis (Oxford,
+1900), pp. 45 ft".
+
+
+Hosted by
+
+
+Google
+
+
+" HERMAS " AND *' HERMES " 381
+
+has left an account of his mystic experiences, though
+unfortunately transmitted to us only in Arabic transla-
+tion from the original Greek.^
+
+Crates leaves his body and enters the unseen world.
+"While I was praying," he writes, "I felt myself
+suddenly carried into the airs [of heaven], following the
+same path as the sun and moon." Here he meets with
+Thrice-greatest Hermes in the guise of "an old man,
+the most beautiful of men, seated on a chair ; he was
+clad in white raiment, and held a book in his hand
+resting on the arm of the chair."
+
+Compare this with " Hermas " (Vis. ii. 2, 2) : " I see
+opposite me a chair, and on it a covering of wool white
+as hail ; ^ then came there an old woman, in shining
+white raiment, having a book in her hand, and sat
+down alone."
+
+After this revelation, and when the "old woman"
+had ceased reading from the book, four young men
+came and carried off the chair, and departed with it to
+the East (ibid., 4, 1),
+
+Here again it is of interest to compare this with the
+introduction to a magical " light-ritual," where the seer
+has a vision of four men with crowns on their heads
+who bring in the " throne of the god. " ^
+
+Crates is taught from the book and bidden to write
+what he is told. ** Make thy book according to the
+instructions which I have given ; and know that I am
+with thee and will never leave thee till thou hast
+accomplished all."
+
+So also "Hermas"; compare also the last sentence
+
+1 Berthelot (M. P. S.), La C%imie au Moyen Age, iii. 44 ff., 268,
+n. 1 ; R. 361.
+
+2 According to tlie Ethiopic translation. See The Apostolic
+Fathers, p. 325, n. 4, in the "Ante-Nicene Christian Library,"
+vol. i. (Edinburgh, 1867).
+
+3 Kenyon (F. G.), Greek Pap, Cat., p. 65 ; R. 280, n. 3.
+
+
+Hosted by
+
+
+Google
+
+
+382 THBICE-GREATEST HERMES
+
+with the phrase in the Introduction to the " Pastoral
+Hermas": "I am sent . . . that I may dwell with
+thee for the rest of the days of thy life."
+
+In another vision. Crates is instructed in a dialogue
+which strongly reflects the style and substance of our
+Trismegistic sermons. And in yet another he moves in
+the psychic reflection of the setting of the now for the
+most part lost Isis-type of the literature, which has a more
+strongly Egyptian colouring. He is transported to yet
+another heaven and firmament, and there sees the temple
+of Ptah (Hephaestus), and the statue of Venus (Isis),
+which holds converse with him.
+
+He was then evidently saturated with the Tris-
+megistic tradition, and had access to treatises which
+are now, unfortunately, lost to us, for it is just this type
+of the literature which shows signs of the more direct
+influence of Egyptian ideas, and the mention of the
+temple of Ptah is a striking confirmation that Eeitzen-
+stein is on the right track in his analysis of the oldest
+deposit of the " Poemandres," which he connects with
+the Ptah-tradition.
+
+
+The General Christian '*Many" and the
+Gnostic *'Few"
+
+That the end and aim of the later Egyptian religion,
+and of all Hellenistic religious circles in general,
+was a Gnosis, or definite mystical experience in the
+form of visions and apocalypses, is manifest on all
+sides ; and that this also was the chief interest of very
+numerous circles in the Early Church is a fundamental
+fact in the study of Christian origins which should not
+be impatiently brushed on one side, or minimised
+almost to extinction as of no real importance, but
+which should be restored to the first rank in seeking
+
+
+Hosted by
+
+
+Google
+
+
+" HERMAS " AND " HERMES " 383
+
+an explanation of the many obscure problems of these
+early days which no purely objective considerations
+will solve.
+
+That the General Christian of these days, as of all
+subsequent centuries, had naturally much to learn in
+these matters from the trained Mystic, whether of his
+own faith or of another, is saying nothing to his dis-
+credit, for he naturally belonged to the " many " who
+were striving to become the "few." General Chris-
+tianity, however, spread so rapidly that the definite
+cultivation of the spiritual faculties practised by the
+early contemplatives of the faith soon gave place to a
+fanatical enthusiasm for a misunderstood monkdom,
+which swamped the monasteries with a flood of the
+'' many," who were often without any true vocation for
+the holy life, and not unfrequently quite ignorant of
+the elements of contemplation.
+
+We need not speak of the wild fanaticism of warrior
+monkdom let loose with pick and hatchet and fire-brand
+to destroy the treasures of religious art throughout the
+beautiful Hellenic world, but even among the quiet
+and peaceable brethren there was much ignorance.
+How unknowing some of these good folk were, we may
+learn from a naive story, the very simplicity of which
+convinces the reader of its genuineness.
+
+Perhaps some one may here interject : But this has
+nothing to do with '' Hermas " ! Perhaps not ; but it
+has a great deal to do with a proper understanding of
+the history of the development of General Christianity
+and its relationship to the deeper religious conscious-
+ness of the first centuries. When, then, I read the
+Greek text of this simple story, as reproduced by
+Eeitzenstein,^ I thought that some who could not read
+
+^ R, 34 — from Apophthegmata Patrum^ in Cotelerius' Ecclesice
+Grcecce Monumenta. i. 582.
+
+
+Hosted by
+
+
+Google
+
+
+384 THRICE-GREATEST HERMES
+
+Greek, but who take a very deep interest in such
+matters, might like to hear it, and so I have set it down
+in English.
+
+The Story of Abbot Olympius
+
+The story runs as follows :
+
+*' Abbot Olympius ^ said that one day a priest of the
+[Heathen] Greeks came down to Scetis ; ^ he came to
+my cell and passed the night there.
+
+" Seeing the manner of life of the monks, he saith to
+me : ' Living in this way, do ye not enjoy visions from
+your God ? ' * Nay ! ' I answer.
+
+" Then saith the priest to me : * So long as we duly
+serve our God with holy deeds, he hideth nought
+from us, but revealeth unto us his mysteries. And
+ye, in spite of all your great labours — watchings, keep-
+ing silence, disciplines — sayest thou, ye see nought ?
+Assuredly, then, if ye see nought, ye have let evil
+reasonings come into your hearts which shut you from
+your God ; and 'tis for this cause his mysteries are not
+revealed to you.'
+
+" And I went and told the elder [brethren] the
+words of the priest; and they were astonished and
+agreed that so it was. For impure reasonings do shut
+off God from man."
+
+1 do not exactly understand what is the precise
+meaning of XoyiarjuLovg, which usually means *' reason-
+
+^ I do not know who this Olympius was, unless, perchance,
+he may have been the monk referred to by Niius (ii. 77), the
+famous ascetic of Sinai, who flourished in the first quarter of the
+fifth century.
+
+2 Again, I can find no information about this place ; it was,
+however, presumably in the Nitriote nome south of the Delta —
+for the priest " came down."
+
+
+Hosted by
+
+
+Google
+
+
+" HERMAS '' AND *' HERMES " 385
+
+ings," and seems on the face of it to suggest that the
+monks' intellectual grasp of the matter was at fault.
+It may, however, mean simply that their " thoughts "
+were impure. But this is not any more satisfactory,
+for the monks must have known already that impure
+thoughts were to be driven out.
+
+What is clear is that the " priest of the Greeks " had
+personal experience of these pious exercises, and came
+from a circle where such things were normally
+practised ; he, moreover, knew what was the reason for
+the monks' non-success in contemplation. He knew
+that it all depended on thought, and that, too, on " good
+thought," so that the " Good " might descend on the
+"good," as the Hermes-Prayer (i. 9, 13) says. But he
+knew more than this; he knew that there was also
+need of ** right thought," of Gnosis as well as of faith,
+of the proper use of the intelligence and the driving
+out of erroneous ideas with regard to the nature of
+God.
+
+A Final Wokd
+
+But for a final word on "Hermas." This early
+document was written at Eome ; so all are agreed. It
+would, then, seem necessary to allow of sufficient time
+for a wide circulation of the older form of the " Poem-
+andres," before it could reach Eome from Egypt. This
+time could not have been short, for it must be reckoned
+not by geographical considerations, which are hardly of
+any consequence in this connection, but by the fact
+that the " Poemandres " was the gospel of a school that
+laid the greatest possible stress on secrecy. How, then,
+could a Christian writer have got possession of a copy ?
+Had the pledge of secrecy already by this time been
+removed ? This is not credible, for later Trismegistic
+documents still lay the greatest stress upon it.
+
+VOL. I. ^^r^ T
+
+Hosted by VjOOQIC
+
+
+386 THRICE-GREATEST HERMES
+
+Were, then, the early Christian mystical writers in
+intimate relationship with such circles as the Poeman-
+dres-community ? Some Gnostics undoubtedly were ;
+was the writer of " Hermas '' ? Was there once friend-
+ship where subsequently was bitter strife ?
+
+Such and many other most interesting questions
+arise, but there is little hope that any satisfactory answer
+will be given them until the work on the mystical
+religious environment of the time has been pushed
+forward to such a point, that men may gradually become
+accustomed to the view that much of the secret of the
+Origins lies concealed in that very environment.
+
+In any case, the way is cleared for pushing back the
+earher " Poemandres '' document well into the first cen-
+tury, and for ranking it, therefore, as at least con-
+temporary with the earliest of the New Testament
+writings.
+
+
+Hosted by
+
+
+Google
+
+
+XI
+
+CONCEENING THE iEON-DOCTEINE
+
+" Hear then, my son, how standeth God and All, God ;
+^on ; Cosmos ; Time ; Becoming." — (7. H.^ xi. (xii.) 1.
+
+The Scope of our Essay
+
+While rigidly excluding any consideration of the
+amazing elaboration of Christo-Gnostic seonology, it
+may not be unserviceable to offer a few notes in
+connection with the simpler idea of the Mon. The
+subject really requires a treatise in itself, but that would,
+of course, be too lengthy an undertaking for these
+Prolegomena.^
+
+Let us, then, first turn to a striking passage which
+purports to give us the Orphic tradition of the Genesis
+of the World-Egg, and of the relation of its Glorious
+Progeny to the ^on.
+
+The passage is of great interest for us in our present
+enquiry, for if it is not a direct quotation from Apion,
+the Alexandrian savant, and bitter opponent of the
+Jews and of Philo, during the first half of the first
+
+1 From Prof. Montet's report {Asiatic Qr. Eev,, Oct. 1904) of
+the "Proceedings of the Second International Congress of the
+History of "Religions" (Bale), Aug. 20-Sept. 2, 1904, I see that
+Eeitzenstein presented a monograph on the "Aion" to the
+Congress. I do not, however, know whether this has yet been
+published.
+
+387
+
+
+Hosted by
+
+
+Google
+
+
+388 THRICE-GREATEST HERMES
+
+century A.D., it at anyrate represents the view of the
+Hellenistic theology of that period.
+
+The passage is found in one of the sources of the
+composite and overworked document known as the
+Clementine Homilies} and runs as follows :
+
+
+The Orphic Tradition of the Genesis of the
+World-Egg
+
+III, " There was when naught was but Chaos and an
+indistinguishable mixture of unordered elements still
+jumbled all together ; both Nature herself being wit-
+ness to it, and great men having thought it must be so.
+
+" And as witness, I will bring forward for you the
+greatest of the great in wisdom, Homer himself,
+speaking about the original con-fusion:
+
+" But may you all become water and earth ^ —
+
+— meaning that thence all things have had their genesis,
+and that after the dissolution of their moist and earthy
+essence they are all restored again to their first nature
+— which is Chaos.
+
+" And Hesiod, in his Theogony, says :
+
+" In truth Chaos came into being the very first.^
+
+" And by ' came into being ' he evidently means that
+
+^ Glement. Horn., VI. iii. ff . ; ed. A. Schwegler (Stuttgart,
+1847), pp. 168 ff. ; ed. P. de Lagarde (Leipzig, 1865), pp. 74 ff.
+See also Lobeck, Aglaophamus, pp. 475, 478 ; and my Orpheus,
+pp. 156 and 162, 163. For the latest critical view on the Apion-
+speeches, see Waitz (H.), Die Pseudoklementinen Homilien und
+Eekognitionen (Texte und UntersuchungeUj Neue Folge, Bd. X.
+Hft. IV.), pp. 251-256, "Der Dialog des Klemens mit Appion
+liber die heidnische Mythologie."
+
+2 11, vii. 99. Cf, the Earth-and-Water of G. K, i. 5.
+
+3 Theog., 116.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE iEON-DOCTRINE 389
+
+it was generated as are things generable, and not that
+it for ever was as are things ingenerable.
+
+*' Orpheus also likens Chaos to an Egg in which was
+the con-fusion of the primordial elements.^
+
+"This is what Hesiod supposes by Chaos, what
+Orpheus calls an Egg — a thing generable, projected
+from the infinity of Matter (Hyle), and brought into
+being as follows :
+
+IV. " Both fourfold Matter 2 being ensouled and the
+whole Infinitude being as though it were a Depth
+(Buflo?), flowing perpetually and indistinguishably
+moving, and over and over again pouring forth
+countless imperfect mixtures, now of one kind and
+now of another, and thereby dissolving them again
+owing to its lack of order, and engulphing so that it
+could not be bound [together] to serve for the genera-
+tion of a living creature — it happened that the infinite
+Sea itself, being driven round ^ by its own peculiar
+nature, flowed with a natural motion in an orderly
+fashion from out of itself into itself, as it were a
+vortex,* and blended its essences, and thus involuntarily
+the most developed part of all of them,^ that which
+was most serviceable for the generation of a living
+creature, flowed, as it were in a funnel, down the
+middle of the universe, and was carried to the bottom
+
+^ Orpheus apparently does nothing of the kind, but draws a
+distinction between Chaos and the Egg.
+
+2 Of. the Pythagorean Tetraktys, in the famous oath — "The
+Fourfold Root of Ever-flowing Nature."
+
+3 Or impelled or pushed in every direction.
+
+^ Thus forming the Vortex Atom of the Cosmos.
+
+^ The text reads : koX oIJtws ^| h.KOv<rrov rSov irdifirtav rh
+vocrrifxdraTop. As i^ aKovcrrov has hitherto proved insoluble for
+all editors, I would suggest e| aKovo-lov, As to vo(Trtfi(l)rarop, L.
+and S. are of little assistance unless it is taken in the sense of
+" ripest." Sophocles gives " essential, valuable, perfect, the best
+part of any thing."
+
+
+Hosted by
+
+
+Google
+
+
+390 THRIOE-OREATEST HERMES
+
+by means of the vortex that swept up everything, and
+drew after it the surrounding Spirit,^ and so gathering
+itself together as it were into the most productive
+[form of all], it constituted a discrete state [of things].
+
+*'For just as a bubble is made in water, so a sphere-
+like hollow form gathered itself together from all sides.
+
+"Thereupon, itself being impregnated in itself.,
+carried up ^ by the Divine Spirit that had taken it to
+itself as consort, it thrust forth its head {ir poeKv\jr€v)
+into the Light — this, the greatest thing perchance that's
+ever been conceived, as though it were out of the Infinite
+Deep's universe a work of art had been conceived and
+brought to birth, an ensouled work [in form] like unto
+the circumference of eggs, [in speed] like to the swiftness
+of a wing,*
+
+V. **I would therefore have you think of Cronus
+(KpoVo?) as Time (XpovoiL^), and of Ehea fPea) as the
+flowing {Top€ov)oi the Moist Essence ; for the whole
+of Matter being moved in Time brought forth, as it
+were, an Egg, the whole surrounding sphere-like Heaven
+('Ovpavo^), which in the beginning was full of the pro-
+ductive marrow,^ so that it might be able to bring
+forth elements and colours of all kinds ; and yet the
+
+1 This probably means the Spirit that ensouled Matter ; or to
+use a more familiar expression, the Spirit of God which " brooded
+over the Deep."
+
+2 Sc. out of the Depth of Matter or Darkness, on to the surface
+of it, where was the Light.
+
+3 Cf. C, H., i. 14 : " bent his face downwards" (^apenvrl^ip), and
+note thereon.
+
+* According to Basilides the "wings" of the Sonship are the
+Holy Spirit. This symbolism is presumably to be connected with
+the Egyptian " Winged Globe." See F. F. F., p. 26.
+
+5 A very ancient word-play.
+
+6 Sometimes used for brain. Cf. G.H., x. (xi.) 11, and the Jewish
+Commentator in the Naassene Document. This is the Spermatic
+Essence of the Logos.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 391
+
+manifold appearances which it was ever presenting, all
+came from One Essence and One Colour.
+
+** For just as in the product of the peacock, although
+the colour of the egg seems to be one, it has neverthe-
+less potentially in it the countless colours of the bird
+that is to be brought to perfection, so also the Ensouled
+Egg conceived from Infinite Matter, when it is set in
+motion from the perpetually flowing Matter below it,^
+exhibits changes of all kinds.
+
+" For from within the circumference a certain male-
+female Living Creature is imaged out by the Fore-
+knowledge of the Divine Spirit that indwells in it,
+whom 2 Orpheus doth call Manifestor (idufj^ — Phanes),
+because when he is manifest ((pavelg) the universe shines
+forth from him, through the lustre of Fire, most
+glorious of elements, perfected in the Moist [Element].
+
+'* Nor is this incredible, for in the case of glow-worms,
+for example. Nature allows us to see a * moist light.'
+
+VI. "Accordingly the First Egg that was ever pro-
+duced being gradually warmed by the Living Creature
+within it, breaks open, and then there takes shape and
+comes forth some such thing as Orpheus says :
+
+"When the skull4ike ^ wide-yawning Egg did break [etc.].*
+
+"So by the mighty power of Him who came forth
+and who made Himself manifest, * the shell ' ^ receives
+its articulation ^ and obtains its orderly arrangement ;
+
+^ It is thought of as floating in this Matter.
+
+2 The Living One.
+
+3 Kpavaiov — an otherwise unknown word. Many emendations
+have been suggested ; but it does not seem to be necessary to go
+beyond Kpat/iov, especially as we have seen (for instance, in the
+Naassene Document) that this was a favourite symbol of the
+Heaven.
+
+4 Unfortunately, the rest of the Orphic quotation is not given.
+^ Or body — the matter in the Egg.
+
+^ apfxoviav- its fitting together, or harmony.
+
+
+Hosted by
+
+
+Google
+
+
+392 THRICE-GREATEST HERMES
+
+while He Himself presides as though it were upon a
+throne on Heaven's height, and in the [realms] ineffable
+sends forth His light all round upon the Boundless
+
+Commentary
+
+This is evidently the Logos — the God from the Egg,
+and the God from the Rock ; for theTnmal Firmament
+was symbolised as Eock, as Adamant; just as in
+physical nature, the life-spark appears from the mineral
+kingdom.
+
+The Logos presides in highest heaven, in the ineffable
+spaces, whence He sends out His rays upon the ^on,
+that Bound of Bounds which is itself Boundless. For
+the Egg may be thought of as the Boundary of some
+special universe or system ; whereas the -^on is the
+Boundary of all universes.
+
+The information given in this quotation purports to
+be the Orphic tradition of cosmogony; with this cos-
+mogony all Hellenistic theologians would be familiar,
+and therefore we are not surprised to find many points
+of contact between it and the general ideas in our
+"Pcemandres" cosmogenesis, which, though doubtless
+having an original nucleus of Egyptian tradition in it,
+is nevertheless strongly overworked by minds that were
+also saturated with the mingled traditions of Plato,
+Pythagoras, and Orpheus.
+
+Indeed, both "Plato" and "Pythagoras," on their
+mystical side, are strongly tinged with "Orpheus."
+Now, Orphicism was the revival of pre-Hesiodic Orphism
+initiated by Onomacritus under the Peisistratidse.
+Original Orphism was, in my opinion, a blend of Hellenic
+Bardic lore with " Chaldaean " elements. It is not sur-
+prising, therefore, that when the " Books of the Chal-
+dseans," collected for the Alexandrian Library, were
+
+
+Hosted by
+
+
+Google
+
+
+CONCEBNING THE JEON-DOCTRINE 393
+
+turned into Greeks great interest should have been
+taken in them by Hellenistic scholars, who found therein
+a confirmation of the Greek "Wisdom of Orpheus, little
+suspecting that that Wisdom was in origin partially
+from the same source.
+
+
+The Sethian Gnosis
+
+In illustration of this Chaldaeo-Orphic symbolical
+cosmogony as " philosophised" in a Hellenistic Gnostic
+environment, we will quote from a system ascribed by
+Hippolytus to the Sethians (a name indicating an
+Egyptian environment), and brought by him into the
+closest connection with those whom he calls the
+Naassenes — that is to say, with what he considers to be
+one of the earliest forms of the Christian Gnosis, but
+which, as we have shown, is a form of the pre-Christian
+Gnosis overworked in Christian terms about the middle
+of the second century. Of these Sethians, Hippolytus ^
+tells us as follows :
+
+"They think that there are Three Principles ^ of the
+universals having certain definite boundaries, and yet
+that each of these Principles possesses boundless
+potentialities.
+
+" Now, the Essences of these Principles (he says) are
+Light and Darkness ; and in the midst of these is pure
+Spirit.
+
+" The Spirit, however, that is set in the midst of the
+Darkness that is below and of the Light that is above,
+is not a spirit [or breath] like a blast of wind or some
+light breeze that can be felt; but is as it were the
+delicate scent of unguent or of incense compounded and
+
+1 Philos,, V. 19 ; ed. C, p. 209 ff.; ed. D. and S., pp. 198 ff. ; ed.
+M., 138 ff.
+
+2 apxois — sources or beginnings.
+
+
+Hosted by
+
+
+Google
+
+
+394 THRICE-GREATEST HERMES
+
+prepared, — a force of fragrance that travels with a
+motion so rapid as to he quite inconceivable and far
+beyond the power of words to express.
+
+" Now, since Light is above and Darkness below, and
+Spirit in some such way as I have said between them,
+— the Nature of the Light is that it shines forth from
+above, like a ray of the sun, into the Darkness beneath,
+while that of the fragrance of the Spirit, which has the
+middle rank, is, contrary wise, that it extends itself and
+is carried in every direction ; just as in the case of in-
+cense on a fire, we see its fragrance carried in every
+direction.
+
+"And such being the Power of the triply divided
+[Principles], the combined Power of the Spirit and Light
+descends into the Darkness which is set beneath them.
+
+" And the Darkness is an awesome Water into which
+the Light together with the Spirit is drawn down and
+transferred.
+
+**The Darkness, however, is not without under-
+standing, but quite intelligent, and it knows that if
+Light were taken from Darkness, Darkness would
+remain isolated, unmanifest,^ splendourless, powerless,
+ineffectual, strengthless.
+
+" Wherefore is it constrained with all its intelligence
+and understanding to hold down to itself the lustre and
+spark of the Light together with the fragrance of the
+Spirit.
+
+" And one can see an image of the nature of the
+latter in a man's face — [namely] the pupil of the eye,^
+which is dark because of the waters underlying it, yet
+illumined by Spirit.
+
+" As, therefore, the Darkness contends for the
+Splendour, in order that it may make a slave of the
+
+1 d0ai/€s — the opposite of Phanes.
+
+2 Have we here any further clue to the title K<Jpi) K6<TfjLov 1
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 395
+
+Light-spark and see, so also the Light and the Spirit
+contend for their own Power; they strive to raise
+and bring back to themselves those powers which
+are mingled with the dark and awesome Water
+beneath.
+
+*' Now all the powers of the three Principles, being
+infinitely infinite in number, are sagacious and intelli-
+gent each according to its own essence. And though
+they are countless in multitude, yet, being sagacious
+and intelligent, as long as they remain by themselves,
+they are all at peace.
+
+" If, however, one power is brought into contact with
+another power, the dissimilarity in their juxtaposition
+brings about a certain motion and energy that takes
+its shape from the concurrent motion of the juxta-
+position of the contacting powers.^
+
+'' Por the con-currence of the powers constitutes as
+it were the impression (tutto?) of a seal struck off by
+concussion 2 so as to resemble the [die] that stamps
+the substances brought into contact with it.
+
+" Since then the powers of the three Principles are
+infinite in number, and from the infinite powers are
+infinite concurrences, images of infinite seals are of
+necessity produced.
+
+"These images, then, are the forms (cSeai) of the
+different kinds of living creatures.
+
+"Now from the first mighty concurrences of the
+three Principles there resulted a mighty type of seal —
+Heaven and Earth.
+
+" And Heaven and Earth have a configuration
+
+1 I may be mistaken, but the ideas involved in this exposition
+seem to be precisely the same as those involved in the most
+modern dynamic theories of atomicity, except that the atoms or
+rather monads of our Gnostics are intelligent.
+
+2 Lit., con-currence.
+
+
+Hosted by
+
+
+Google
+
+
+396 THRICE-GREATEST HERMES
+
+resembling a Womb, with the embryo ^ in the middle ;
+and if (he says) one would bring this to the test of
+sight, let him scrutinise scientifically the gravid womb
+of whatsoever living creature he wishes, and he will
+find the model of Heaven and Earth and of all things
+between them lying before him without any alteration.
+
+" So the configuration of Heaven and Earth was such
+that it resembled a Womb as it were, according to the
+first concourse [of the three Principles].
+
+" And again in the midst of Heaven and Earth infinite
+concourses of powers occurred, and every single con-
+course effected and expressed the image of nothing else
+but a seal of Heaven and Earth — a thing resembling a
+Womb.
+
+'' And in the Earth itself there developed from the
+infinite seals of different kinds of living creatures,
+[living things] still more infinite.
+
+'* And into all this infinity below the Heaven in the
+different kinds of living creatures, the fragrance of the
+Spirit from above together with the Light was sown
+and was distributed.^ . . ,
+
+"Accordingly there arose out of the Water a first-
+born source — Wind vehement and boisterous — and
+cause of all genesis.
+
+"For by making a certain seething^ in the waters
+it ^ raises up waves from the waters.
+
+" And the genesis of the waves, being as it were a
+
+1 Lit., navel ; but the word stands metaphorically for anything
+like a navel— g.^f. the boss of a shield, a knob of any kind ; hence
+any centre, or nucleus.
+
+2 Hippolytus here seems to have omitted some important
+section of his source from his summary ; in any case the text of
+that which follows is very corrupt, and in some important details
+demonstrably imperfect, as may be seen by comparing the
+Epitome, X. iv.
+
+3 Or ferment. ^ 8c. Wind.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE JfiON- DOCTRINE 397
+
+certain pregnant ^ impulse, is the source of the produc-
+tion of man or mind, whenever [this motion] quickens
+under the impulse of the Spirit.
+
+" And whenever this wave, raised from the Water by
+the Wind, and rendering nature pregnant, receives in
+itself the power of production of the female, it keeps
+down the Light from above that has been sown into it
+together with the fragrance of the Spirit, — that is to
+say, mind that takes forms in the various types ; that
+is a perfect god, brought down from the Ingenerable
+Light from above and Spirit into a human nature, as
+into a temple, by the course of Nature and motion of
+the Wind, generated from Water, commingled and
+blended with bodies, as though he were the salt of
+existing things and the light of the Darkness, struggling
+to be freed from bodies, and unable to find liberation
+and the way out of himself.
+
+"For as it were a very minute spark . . . like a
+ray2 . . . .
+
+" Every thought and care of the Light above, there-
+fore, is how and in what way mind may be liberated
+from the Death of the evil and dark Body,^ from the
+Father below, who is the Wind that in ferment and tur-
+moil raised up the waves and brought to birth perfect
+mind, son of himself, and yet not his own in essence.
+
+" For he was a ray from above, from that Perfect Light,
+overpowered in the sinuous * and awesome and bitter ^
+
+1 ijKvixav — a play on Kvfxa, which means embryo as well as wave.
+
+2 The text is here destroyed beyond hope of conjecture.
+
+3 Sc. Darkness.
+
+4 (TKoXiip, Gf, the cTKoXiws of G. H,, i. 4.
+
+5 Gf. the Naassene Hymn : *' She seeks to flee the bitter
+Chaos " ; and compare Jacob Bohme's " Bitterness," and also his
+" three Principles," with those of our system. The analogies are
+striking, and yet Jacob could not possibly have known this
+system physically.
+
+
+Hosted by
+
+
+Google
+
+
+398 THRIGE-GREATEST HERMES
+
+and blood-stained Water ; and that Light is the Spirit
+of Light borne upon the water.^ . . .
+
+" But the Wind, being both boisterous and vehement
+in its rush, is in its whistKng ^ like unto a Serpent — a
+winged one.
+
+"From the Wind, that is from the Serpent, the
+source of generation arose in the way that has been
+said; all things receiving together the beginning of
+generation.
+
+" When then (he says) the Light and the Spirit have
+been received down into the impure and disorderly
+Womb of manifold suffering, the Serpent — the Wind of
+the Darkness, the First-born of the Waters — entering
+in generated man, and the impure Womb neither loves
+nor recognises any other form.^
+
+** And so the Perfect Logos of the Light from above
+having made Himself like unto the Beast, the Serpent,
+entered into the impure Womb, having deceived it*
+through His similitude to the Beast ; in order that
+He may loose the bonds that are laid upon the per-
+fect mind that is generated in the impurity of the
+Womb by the First-born of the Water — Snake, Wind,
+Beast.
+
+" This (he says) is the Servant's Form ; ^ and this is
+
+1 The following lines are destroyed beyond the power of
+reconstruction.
+
+2 In the case of a serpent this would be " hissing " ; a^tpiyfiay
+however, is properly the sound of a pipe, and puts us in mind of
+the Syriktes of the Naassene Document.
+
+3 Sc. than that of the Serpent.
+
+4 8c, the Womb.
+
+^ Of, Philipp., ii. 7 : '' But He emptied Himself, taking on the
+Servant's Form, being made in the likeness of men." The
+"emptying" or Kevcoo-ts was the change from the TrK-fipufia or
+Fullness of Light to the Kevu/ia or Emptiness of Darkness. Paul
+(or the writer of the Epistle, whoever he was) is here usmg the
+technical language of the Gnosis.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 399
+
+the necessity of the Descent of the Logos of God into
+the Womb of the Virgin.
+
+"But it is not sufficient (he . says) that the Perfect
+Man, the Logos, has entered into the Womb of the
+Virgin and loosed the pains that are in that Darkness ;
+nay, but after entering into the foul mysteries in the
+Womb, He washed Himself and drank the Cup of
+Living Water bubbling-forth — a thing that everyone
+must do who is about to strip ofi' the Servant-Form and
+put on the Celestial Garment."
+
+There can be little doubt but that the main ideas
+in the background of this system of the Gnosis are
+closely connected with general Orphic and Chaldaean
+ideas, and also with the main schematology of our
+*' Poemandres " tractate.
+
+From the Orphic tradition handed on by Apion we
+have seen that the JEon is the Circle of Infinitude and
+Eternity illumined by the Logos.
+
+The "Mithriac iEoN"
+
+The whole of this Orphic lore (in other words, the
+Chaldsean wisdom-teaching) seems to me to be summed
+up in one division of the symbolism of the Mithra-cult,
+as may be seen by an inspection of the monuments
+reproduced by Cumont, and especially those of the
+mysterious figure which he calls "Zc& diviniU Uonto-
+c4phale" and the birth of the God from the Rock ; this
+seems to point, as we might very well suspect, to a
+strong Chaldsean element in the Mithriac tradition.
+
+Cumont^ tells us that although some scholars have
+rejected the name of " Mithriac ^on," which was
+
+1 Textes et Monuments Figures relatifs aux Mysthres de Mithra
+(Bruxelles, 1899), i. 76 ff., where all the references are given.
+
+
+Hosted by
+
+
+Google
+
+
+400 THRICE-GREATEST HERMES
+
+given by Zoega to this awe-inspiring mystic figure,^
+in his opinion (and he knows more of the subject
+than any other authority) it may very well have
+been actually called uEon in the sacred books of the
+mysteries.
+
+If, however, this was the case, the mystic meaning,
+says Cumont, was of such a nature that it was concealed
+from the profane.
+
+Our classical authorities inform us that the Magi
+expressed the name of the Supreme God, which was in
+reality ineffable, by various substitutes. The general
+name for the Mystery Deity was Cronus, and Cronus
+in the sense of Time.
+
+"The Mithriac Cronus is a personification of Time,
+and this fact, which is now fairly established, permits
+us immediately to determine the identity of this pseu-
+donymous God.
+
+"There is only one Persian divinity which he can
+possibly represent, and that is Zervan Akarana, Infinite
+Time, whom, from the time of the Achemenides, a sect
+of the Magi placed at the origin of things, and from
+whom they would have both Ormuzd and Ahriman to
+have been born.
+
+" It was this God that the adepts of the mysteries
+placed at the head of the celestial hierarchy, and con-
+sidered as the first principle ; or, to put it differently,
+it was the Zervanist system that the Mazdseans of Asia
+Minor taught to the Western followers of the Iranian
+religion."
+
+This all seems to me to point not to a Persian origin
+
+1 A Being with lion's head, and eagle's wings, and brute's
+feet, and human body, enwrapped with a serpent, standing
+on a globe and holding the keys of life and death in its
+two hands. There are many variants, however, all of them highly
+instructive, as pourtraying the Autozoon, or Living Creature in
+itself, the summation of all forms of life, including man.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-BOCTRINE 401
+
+of the ^on, as Cumont supposes, but to a Chaldaean
+element dominating the Mithriac form of the Magian
+tradition.^
+
+
+Probable Date of Origin of the Hellenistic
+^on-doctrine
+
+Now the Chaldaean and Egyptian wisdom-cultures
+had many root-ideas in common (were they not
+regarded by the Greeks as the wisdom-traditions par
+excellence V)\ we are not therefore surprised to find
+that Egypt, with its ever-recurring grandiose mystery-
+phrases of enormous time-periods, such as " He of the
+millions of years,'' had on its own soil a highly de-
+veloped idea of Eternity and of Eternities — that is, of
+the Mon and of the ^Eons; and indeed the strongly
+Egyptian forms of the Gnosis, which we have preserved
+to us under Christian overworking, are involved in the
+most complex aeonology.
+
+It seems, however, almost as though the evidence
+suggests that this Egyptian element had been revivified,
+and rescued from the oblivion in which it had been
+buried in a decadent age, in the symbolism of an almost
+forgotten past, by a stream of Chaldsean ideas that
+poured into Hellenistic circles in the early Alexandrian
+period. When precisely the ^on-idea forced itself
+upon the philosophic mind of Alexandrian thinkers
+as an unavoidable mystic necessity, it is difficult
+to say with any certainty. It can, however, be said
+without fear of serious contradiction that it may
+have done so from early Ptolemaic times, and with
+certainty that it did so in the first century B.C. as
+truly as in the first century a.d.
+
+That the term ^on was in frequent use in the
+
+' Eeitzenstein (p. 276) is also of this opinion.
+VOL. L 26
+
+Hosted by VjOOQIC
+
+
+402 THRIGE-GREATEST HERMES
+
+popular Hermes-cult may be seen in Hermes -Prayer
+
+■ V. 4, where Thoth is characterised as the "-^on of the
+^ons who changes himself into all forms in visions."
+
+■ So also in Prayer viii. 2, the Good Daimon, who has
+different names given him in the different hours, is
+
+" called " Wealth-giving ^on." So also with Isis, who
+is called Wisdom and iEon in the Papyri.^
+
+In conclusion, we may glance at what Reitzenstein
+(pp. 272 ff.) has to say concerning this "AionenlehreJ'
+
+
+Abkaxas
+
+The name Abraxas, which consisted of seven elements
+or letters, was a mystery-designation of the God who
+combined in himself the whole power of the Seven
+Planets, and also of the Year of 365 days, the sum of
+the number-values of the letters of Abraxas working
+out to 365. This mysterious Being was the '' Year " ;
+but the Year as the Eternity, also conceived of in a
+spatial aspect, as the Spirit or Name that extends from
+Heaven to Earth, the God who pervades and full-fills
+the Seven Spheres, and the Three Hundred and Sixty-
+five Zones, the Inner God, " He who has His seat within
+the Seven Poles— AEHIOYQ," as the Papyri have it,
+and also without them, as we shall see.
+
+The mysterious formula "the Name of which the
+figure is 365" meets us in such connections, that it
+cannot be taken to mean simply the " Year-God," but
+is a synonym of the Highest God, a secret, mysterious
+Being. In brief it was, as we have seen, no other than
+the Lion-headed God, called in Greek Mon.
+
+Indeed, we know from Philo of Byblos ^ that, at least
+in his day, the second half of the first century a.d. (and,
+
+1 R. 270.
+
+2 Ap, Euseb., Prmp. Evang,^ I. 10, *7 ; 34 B.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 403
+
+for all we know, prior to it), there were in Phoenicia
+communities of the ^on — of the Highest and Super-
+celestial One.
+
+The Feast of the Mon
+
+The first dated use of the word in a religious sense is
+found in Messala (who was Consul, 53 B.C.), as Johannes
+Lydus tells us.^ Moreover, Lydus informs us that the
+Ancients (ol TrdXai) celebrated a Feast of the -^on on
+January Sth.^ This can be no other than the Feast of
+which Epiphanius gives us such interesting details in
+treating of the Epiphany, when he writes, after de-
+scribing the festival in the Koreion at Alexandria : ^
+
+** And if they are asked the meaning of this mystery,
+they answer and say : To-day at this hour the Maiden
+(Kore), that is the Virgin, has given birth to the ^on." *
+
+In the next paragraph Epiphanius designates this
+^on as the Alone-begotten. Here, then, we have
+striking evidence that in its Egyptian environment the
+cult of the Mon was associated with mystery-rites
+reminding us strongly of the symbolism of the Christ-
+mystery.
+
+The Quintessence and the Monad
+
+Moreover, Messala^ tells us of this -^on, that He
+"who made all things and governs all things, joined
+
+1 De Mens., iv. (ed. Wiinscli, p. 64, 6).
+
+2 Or rather 6th. Reitzenstein's (p. 274) gloss (irp6 elS&v) to
+iirl TTjs irefxTrTTjs, is erroneous, for this would make the date
+January 11th.
+
+3 For a translation of the passage, see the Commentary on the
+K. K. Excerpts in treating of the term " Virgin of the World."
+
+^ Epiphanius, Haer., li. 22 ; ed. Dindorf, ii. 483. Cf, D. /. L.,
+pp. 410 f., " The Crucifixion and Resurrection Mystery-Rite."
+^» Quoted by Macrobius, Sahmial., I. ix.
+
+
+Hosted by
+
+
+Google
+
+
+404 THRICE-GREATEST HERMES
+
+together by means of the surrounding Heaven the
+power and nature of Water and Earth, heavy and
+downward, flowing down into the Depth, and that oi
+Fire and Spirit, light and rushing upward to the
+measureless Height. It is this mightiest power of
+Heaven that hath bound together these two unequal
+powers."
+
+Lydus {ibid.) furthermore tells us that the idea of
+the Mon was associated by the Pythagoreans with the
+idea of the Monad ; indeed, they seem to have derived
+the word aim from la, the Ionic form of /x/a (one).
+
+Any attempt to refer this Pythagorean identification
+to the earlier Pythagoreans would be at once rejected
+by the majority of scholars, but I believe myself that
+the original Pythagoreans were far too close to the
+Borderland between mythology and philosophy not
+to have personified or at least substantialised their
+"Numbers" and the Source of them. At anyrate it
+is highly instructive to find Plato himself writing in
+the Timceus:
+
+The iSloN in Plato
+
+" And when the Father who begot it [the Cosmos] saw
+that by its motion and its life it had become a likeness
+of the Everlasting Gods, He marvelled, and in delight
+determined further to make it still more like its
+Original.^ And as the latter is an Everlasting Living
+Being, He sought to make this [Sensible] Universe as
+far as possible like it.
+
+''Now the nature of the Living Being was eternal
+(aiwviog — seonian) ; but to bestow this quality entirely
+on a generable creature was not possible.
+
+** Accordingly He determined to make a moving
+
+1 That is, the Ideal Cosmos.
+
+Hosted by VjOOQIC
+
+
+CONCERNING THE ^ON-DOCTRINE 405
+
+image of Eternity (Aioovos)] and so in setting the
+Heaven in order He makes it an everlasting {alwviov)
+image, moving according to number, of Eternity (Aewi/o?)
+that rests in One — an image which we have, you know,
+called Time/' 1
+
+Here it is very plain that ^Eon is not Time, but the
+Paradigm thereof — Eternity. It is the Consummation
+of the Eternal Gods — namely, the Pleroma, the Monad
+par excellence. We, therefore, find already in Plato the
+idea of the ^on fully developed. Did Plato " invent "
+it ? Or did he put an already existing idea into philo-
+sophical terms? He presumably found it already
+existing. Was it then Orphic (Pythagorean), or did he
+learn of it in Egypt ? Who shall say precisely ?
+
+
+Concerning the Hellenistic Origin of -^onology
+
+Seeing, however, that we find the idea of the ^on
+fully developed in Plato, and seeing that Plato was, so
+to speak, scripture for our Hermetic writers, it is
+exceedingly puzzling that we should find it apparently
+introduced at a certain stage into the Trismegistic
+literature as a new doctrine.
+
+It may be, however, that those who had followed
+Plato on purely philosophical lines had hitherto paid
+little attention to the idea of the -<3Eon, except as an
+ultimate principle beyond the reach of speculation.
+When, however, the enthusiastic seership of mysticism
+dared to soar beyond heaven into the Heaven of heavens,
+and so to divide the Simplicity into an Infinitude of
+Multiplicity, the term -^on came to be used no longer
+for a transcendent unity but as the connotation of
+a grade of Being.
+
+1 Tim., 37 0, D.
+
+
+Hosted by
+
+
+Google
+
+
+406 THRICE-GREATEST HERMES
+
+It may then have been that our Hermetic writers
+reasserted the use of the term in its simpler philosophic
+meaning as a check to over-enthusiastic speculation.
+
+But even if it were a reaction against a too great
+luxury of speculation, it must have been contem-
+poraneous with the development of seonology ; so that
+in any case G, H, xi. (xii.) must be dated from this point
+of view.
+
+When seonology arose we cannot say precisely ; but
+seonology in the Gnostic sense of the term was, as we
+have seen, to some extent at least existing as early as
+the earliest Christian documents.
+
+
+The ^on the Logos
+
+Now though the Trismegistic tractate C J?., xi. (xii.)
+is evidently in literary contact with the Timceus} it
+nevertheless purports to give more " esoteric," or at any
+rate more precise, instruction than is to be found in
+Plato's famous cosmogonical treatise. It does not
+follow Plato, but hands on an instruction that has
+already been formulated in a precise and categorical
+fashion. The ladder of existence is God, ^on. Cosmos,
+Time, Genesis ; — each following one from the other.
+
+^on is the Power of God (§ 3), whereas Cosmos is
+God's creation and work (§§ 3, 4). The -^on, standing
+between God and Cosmos, is the Paradigm, and so also
+the Son of God (§ 16), and the final end of man is that
+he should become ^on (§ 20) — that is, Son of God. ^on
+is thus evidently the Logos of God, or the Intelligible
+Cosmos, as distinguished from the Sensible Cosmos. This
+
+^ Cy. § 1 : "As many men say many things, and these diverse
+about the All and Good " ; and 2 tm., 29 c : " If then, O Socrates,
+since many men say many things about the Gods and the
+genesis of the All."
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 407
+
+^on is the Fullness in which all things move, and
+chiefly the Seven Cosmoi (§ 7).
+
+
+The Eoman Speculum-Cult derived from Egypt
+
+Now, Eeitzenstein (pp. 274 ff.) shows very clearly
+that the Cult of the Sseculum or JEon was strongly
+developed in Eoman theology in at least the first
+century B.C. This is too early a date for us to assign this
+development to the influence of the Mithras-cult. Can
+it then be that Eome was influenced by Egypt ? Such
+at anyrate is Eeitzenstein's opinion (p. 277), who points
+to the fact that Messala, who is fully imbued with the
+-^on-idea, was a contemporary of Nigidius, the most
+learned of the Eomans after Varro, and a Pythagorean
+philosopher of high attainments. Now it is remarkable
+that in his work, De Sphcera Barharica, Nigidius treats
+of the Egyptian Sphere.
+
+
+The Momc Immensities of Egypt
+
+Egypt, as we have already remarked, at a very early
+date arrived at the idea of eternal or at anyrate of
+enormously long periods of time, and had symbolised
+this conception in a primordial syzygy or pair of Gods.
+Indeed, the names of the primordial Time-pair, Hhw
+(5ehu) and mit (IJehut), are immediately derived from
+" Hh," generally translated "Million," but byBrugsch and
+others as -^on.^ All the Egyptian Gods were Lords of
+the Eternity or of the Eternities. But not only so, the
+
+^ Budge {oj}. cit, i. 285) writes : " According to the late Dr
+Brugsch {Religion^ p. 132), the name Heh is connected with the
+word which indicates an undefined and unlimited number, i.e.
+heh ; when applied to time the idea suggested is * miiUons of years,'
+and Heh is equivalent to the Greek a/c^v."
+
+
+Hosted by
+
+
+Google
+
+
+408 THRICE-GREATEST HERMES
+
+term " eternity " was used in connection with definite
+time-periods ; for instance, " in a million (or eternity) of
+thirty year periods." And again : " Thy kingdom will
+have the lastingness of eternity and of infinitely many
+hundred-and-twenty-year periods; ten millions of thy
+years, millions of thy months, hundred-thousands of
+thy days, ten-thousands of thine hours." ^
+
+Here we must remark the numbers 120 (that is
+12x10) and 30; all essential numbers of the Gnostic
+Pleroma of ^ons.
+
+It is also of interest in connection with the Time-pair,
+to note that HorapoUo, the Alexandrian grammarian,
+tells us that the Egyptians when they desire to express
+the idea of Mon write " sun and moon " ^ (i 1), and
+when they want to write " year " they draw ** Isis,"
+that is " woman " (i. 3).
+
+We thus see that in Egypt there were ^ons of
+Periods or Years, and Years of ^Eons. Above all these
+ruled the God of the -^ons, the highest God of many a
+mystic community,
+
+A Song of Praise to the Mon
+
+And so we read the following song of praise to the
+^on, inscribed on a '* secret tablet " by some unknown
+Brother of a forgotten Order :
+
+1. " Hail unto Thee, O thou All-Cosmos of 98thereal
+Spirit! Hail unto Thee, Spirit, who doth extend
+from Heaven to Earth, and from the Earth that's in
+the middle of the orb of Cosmos to the ends of the
+Abyss !
+
+2. " Hail unto Thee, Spirit who doth enter into me,
+who clingeth unto me or who doth part thyself from
+
+1 Brugsch, Worterhuch, vi. 839.
+
+- The nsual symbols for " everlasting."
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 409
+
+me, according to the Will of God in goodness of His
+heart !
+
+3. "Hail unto Thee, thou Beginning and thou
+End of Nature naught can move! Hail unto thee
+thou vortex of the liturgy ^ unweariable of [Nature's]
+elements !
+
+4. *' Hail unto Thee, O thou Illumination of the solar
+beam that shines to serve the world. Hail unto Thee,
+thou Disk of the night-shining moon, that shines un-
+equally ! Hail, ye Spirits all of the sethereal statues
+[of the Gods] !
+
+5. " Hail to you [all], whom holy Brethren and holy
+Sisters ought to hail in giving of their praise !
+
+6. " Spirit, mighty one, most mighty circling and
+incomprehensible Configuration of the Cosmos, celestial,
+sethereal, inter-aethereal, water-like, earth-like, fire-like,
+air-like, like unto light, to darkness like, shining as
+do the stars, — moist, hot, cold Spirit !
+
+7. " I praise Thee, God of gods, who ever doth restore
+the Cosmos, and who doth store the Depth away ^ upon
+its throne of settlement no eye can see, who fixest
+Heaven and Earth apart, and coverest the Heaven
+with thy golden everlasting (atcov/ai?) wings, and
+makest firm the Earth on everlasting thrones !
+
+8. "Thou who hangest up the ^ther in the lofty
+Height, and scatterest the Air with thy self-moving
+blasts, who mak'st the Water eddy round in circles !
+
+9. " Thou who raisest up the fiery whirlwinds, and
+
+makest thunder, lightning, rain, and shakings of the
+
+earth, God of ^ons ! Mighty art thou, Lord God,
+Master of the All!" s
+
+1 Or service — xnrovpyia.
+
+2 erjcavpia-as — or treasure away.
+
+3 Wessely, Denhschr. d. K. K. Akad. (1888), p. 72, 11. 1115 ff. ;
+R. 277, 278.
+
+
+Hosted by
+
+
+Google
+
+
+410 THRICE-GREATEST HERMES
+
+Here there is no separation of God as intra-cosmic
+and extra-cosmic ; He is both the one and the other.
+He is both the Fullness of the Godhead and also the
+Fullness of Cosmos. He is both the Cosmos, and He
+who is above the Cosmos and below the Cosmos.^
+
+
+The Demiurgic ^on
+
+Eeitzenstein (p. 278), referring to our Trismegistic
+tractate, C. H,, xi. (xii.), points to the distinction made
+between ^on and God on one side and ^on and
+Cosmos on the other. This, he thinks, shows signs of
+the influence of a fundamental trait of Hellenistic
+theology which makes the Demiurge the Second
+God.
+
+However this may be, there certainly was a distinc-
+tion drawn between the Creative, or rather Formative,
+God and the Supreme Deity, in many a Christian
+Gnostic System, and not unfrequently of a very dis-
+paraging nature to the former. Already in Jewish
+mystic and philosophic (Gnostic) circles a distinction
+had had to be drawn between the idea of God as the
+Creator God, and the idea of God as the Ineffable
+Mystery of Mysteries. This had been necessitated
+by the contact of the Jewish Gnostics with the old
+wisdom-ideas and with the fundamental postulates of
+Greek philosophy.
+
+The ^on in Theurgic Literature
+
+Many examples could be given,^ but we prefer to
+follow Eeitzenstein (p. 279) in his references to the
+Magic Papyri, or Apocryphal literature of the same class,
+
+1 0/. R. 28 ; Hermes-Prayer, vii. 1.
+
+^ See my Fragnnents of a Faith ForgoUe7i.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE ^ON-DOCTRINE 411
+
+and append the translation of two striking quotations,
+as opening up an entirely novel side of the subject.
+
+Thus in the eighth Booh of Moses, we find the
+following passage in which the Jewish Creator God is
+placed in the second rank as compared with the
+Egyptian Supreme Principle.
+
+" And God, looking down unto the earth, said : lAO !
+And all stood still, and then came into being from His
+Voice a Great God, most mighty, who is Lord of all
+things, who caused to stand the things that shall be ;
+and no longer was there any thing without order in the
+sethereal realms." ^
+
+So also in an invocation to an unknown God, most
+probably to the Spirit to whom the Brother of the
+unknown community addressed his praise-giving as
+given above — we meet with the same distinction.
+
+''Thee, the only and blest Father of the ^ons, I
+invoke with prayers like unto Cosmos ! ^
+
+" Come unto me who fillest the whole Cosmos with
+thy Breath, and dost hang up on high the Fire out of the
+Water,^ and dost from out the Water separate the
+Earth. . . . The Lord bore witness to thy Wisdom,
+that is the ^on, and bade thee to have strength as He
+Himself hath strength." *
+
+And, later on, the Theurgist exclaims :
+
+" Eeceive my words as shafts of fire, for that I am
+God's Man, for whom was made the fairest plasm of
+spirit, dew ^ and earth."
+
+He is a Man whose words are effective and bring all
+
+1 Dieterich, Abraxas, 184-99.
+
+2 That is, presumably, " offerings of the reason," as our tractates
+have it ; or prayers that put the mind in sympathy with the true
+order of things.
+
+3 Tlie Heaven Ocean.
+
+4 Wessely, DenJcschr. d. K. K. Akad, (1888), p. 73, 11. 1168 ff.
+•^ Or pure water.
+
+
+Hosted by
+
+
+Google
+
+
+412 THRICE-GREATEST HERMES
+
+things to pass ; for his " words " are compelling " acts,"
+or *Hheurgic,"
+
+Other passages are brought forward by Eeitzenstein
+(pp. 280-286) to show that the idea of the Logos or
+-^on as Second God was a fundamental conception in
+Hellenistic theology.
+
+This may very well have been the case in general
+Hellenistic theology ; but in philosophical circles, as
+we have pointed out in treating of the Logos-idea in
+Philo, the distinction was formal and not essential. So
+also in our Trismegistic treatises, which are saturated
+with transcendental pantheistic or monistic, or rather
+panmonistic, conceptions, if the Logos or ^on is
+momentarily treated of as apart from Supreme Deity,
+it is not so in reality ; for the Logos is the Eeason of
+God, God in His eternal Energy, and the ^on is the
+Eternity of Deity, God in His energic Eternity, the
+Rest that is the Source of all Motion.
+
+For the fullest exposition of the ^on- doctrine in
+our Trismegistic tractates, see The Perfect Sermon,
+xxx.-xxxii., and my commentary thereon.
+
+
+Hosted by
+
+
+Google
+
+
+XII
+
+THE SEVEN ZONES AND THEIE
+CHARACTEEISTICS
+
+" To the first zone he gives the energy of Growth and
+Waning; unto the second zone, Device of Evils now
+de-energized ; imto the third, the Guile of the Desires
+de-energized ; unto the fourth, his Domineering Arro-
+gance also de-energized ; unto the fifth, unholy Daring
+and the Rashness of Audacity de-energized ; unto the
+sixth, Striving for Wealth by evil means deprived of
+its aggrandisement ; and to the seventh zone, Ensnaring
+Falsehood de-energized." — (7. jff"., i. 25.
+
+Macrobius on **The Descent of the Soul from
+THE Height op Cosmos to the Depths of Earth''
+
+Let us first turn to the commentary of Macrobius on
+the famous " Dream of Scipio," which Cicero introduces
+into his BepuUic (Bk. VI,), just as Plato appends the
+Vision of Er to his, Macrobius devotes the twelfth
+chapter of his First Book to a consideration of " The
+Descent of the Soul from the Height of Cosmos to the
+Depths of Earth," and professes to base himself on
+Pythagorean and Platonic traditions. His dissertation
+covers more ground than the precise subject of the
+zones with which we are more immediately concerned ;
+but as the whole scheme is of interest to our present
+
+413
+
+Hosted by VjOOQIC
+
+
+414 THRICE-GREATEST HERMES
+
+studies, we will append a translation of practically the
+whole chapter.
+
+" [According to Pythagoras] when the Soul descends
+from the Boundary where the Zodiac and Galaxy [or
+Milky Way] meet, from a spherical form, which is the
+only divine one, it is elongated into a conical one ^ by
+its downward tendency.
+
+" Just as the line is born from the point and proceeds
+into length out of the indivisible, so the soul from its
+point, that is * monad,' comes into *dyad' — its first
+production [or lengthening].
+
+" And this is the essence which Plato in the Timceus,
+speaking about the construction of the World-Soul,
+describes as indivisible yet at the same time divisible.
+
+"For just as the Soul of the World so also the soul
+of an individual man will be found in one respect
+incapable of division — if it is regarded from the stand-
+point of the simplicity of its divine nature — and in
+another capable [of division] — since the former is diffused
+through the members of the world, and the latter
+through those of a man,
+
+"When then the soul is drawn towards body — in
+this first production of it — it begins to experience a
+material agitation, matter flowing into it.^
+
+" And this is remarked by Plato in the Phcedo [when
+he says] that the soul is drawn to body staggering with
+recent intoxication, — meaning us to understand by this
+a new draught of matter's superfluity, by which it
+becomes defiled and gravid and so is brought down.
+
+" A symbol of this mystic secret is that Starry Cup
+{Grater) of Father Bacchus placed in the space between
+
+1 Not into a mathematical cone, but into an egg-shaped or
+elliptical form resembling that of a pine-cone.
+
+2 This shows that the soul was thought of as being without or
+outside body of every kind, and body was taken into it.
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 415
+
+Cancer and Leo^ — meaning that intoxication is there
+first experienced by souls in their descent by the influx
+of matter into them. From which cause also forget-
+fulness, the companion of intoxication, then begins
+secretly to creep into souls.
+
+"For if souls brought down to body memory of
+the divine things of which they were conscious in
+heaven, there would be no difference of opinion among
+men concerning the divine state. But all, indeed, in
+their descent drink of forgetfulness — some more, some
+less.
+
+"And for this cause on earth, though the truth is not
+clear to all, they nevertheless have all some opinion
+about it ; for opinion arises when memory sinks. Those,
+however, are greater discoverers of truth who have
+drunk less of forgetfulness, because they remember
+more easily what they have known before in that
+state.
+
+'' Hence it is that what the Latins call a * lecture
+(lectio) the Greeks call a ^re-knowing' (repetita cog-
+nitio 2), because when we give utterance to true things,
+we re-cognize the things which we knew by nature
+before the influence of matter intoxicated our souls in
+their descent into body.
+
+*' Now it is this Matter {Hyle) which, after being im-
+pressed by the [divine] ideas, fashioned every body in
+the cosmos which we see. Its highest and purest
+nature, by means of which the divinities are either
+sustained or consist,^ is called Nectar, and is believed to
+be the drink of the gods ; while its lower and more
+
+1 Cf. Pistis Sophia, pp. 371 and 367.
+
+'^ That is, presumably, aydypcafffia — a philosophical discourse, or
+sacred sermon.
+
+3 As distinguished from "exist." Latin, however, is but a
+poor medium for the expression of philosophical distinctions.
+
+
+Hosted by
+
+
+Google
+
+
+416 THRICE-GREATEST HERMES
+
+turbid nature is the drink of souls. The latter is what
+the Ancients called the Eiver of Lethe [or Forgetf ulness],
+
+"The Orphic [initiates], however, suppose that
+Dionysus himself is to be understood as * Hylic
+Nous'^ — [that Mind] which after its birth from the
+Indivisible [Mind] is itself divided into individual
+[minds].
+
+**And it is for this reason that in their Mystery-
+tradition Dionysus is represented as being torn limb
+from limb by the fury of the Titans, and, after the
+pieces have been buried, as coming together again
+whole and one ; for Nous — which, as we have said, is
+their term for Mind — by offering itself for division from
+its undivided state, and by returning to the undivided
+from the divided, both fulfils the duties of the cosmos
+and also performs the mysteries of its own nature.
+
+"The soul, therefore, having by means of this first
+weight [of matter] fallen down from the Zodiac and
+Galaxy into the series of spheres that lie below them,
+in continuing its descent through them, is not only
+enwrapped in the envelope of a luminous body ,2 but
+also develops the separate motions which it is to
+exercise.
+
+"In the sphere of Saturn [it develops] the powers
+of reasoning and theorizing^ — which [the Greeks] call
+TO XoyicTTLKov and to OecoprjTiKOP ', in that of Jupiter,
+the power of putting into practice — which they call to
+TTpaKTiKov] in that of Mars, the power of ardent
+vehemence — which they call to Ovjuikov ; in that of the
+Sun, the nature of sensing and imagining — which they
+call TO alcrOriTiKov and to ^avTacrTiicov ; in that of
+Venus, the motion of desire — which they call to
+
+2 The augoeides.
+
+3 Or of contemplative reason, synthesis as opposed to analysis.
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 417
+
+eTTiOvfxriTLKov] in the sphere of Mercury, the power of
+giving expression to and interpretation of feelings —
+which they call to epurj vevriKov ; on its entrance into
+the sphere of the Moon it brings into activity to (^vtikov
+— that is, the nature of making bodies grow and of
+moving them.
+
+" And this [soul], though the last thing in the divine
+series, is nevertheless the first thing in us and in all
+terrestrial beings ; just as this body [of ours], though
+the dregs of things divine, is still the first substance of
+the animal world.
+
+'' And this is the difference between terrene bodies and
+supernal — I mean those of the heaven and stars and of
+the other elements^ — that the latter are summoned
+upwards to the abode of the soul, and are worthy of
+immunity from death from the very nature of the space
+in which they are and their imitation of sublimity.
+
+** The soul, however, is drawn down to these terrene
+bodies, and so it is thought to die when it is imprisoned
+in the region of things fallen and in the abode of death.
+Nor should it cause distress that we have so often
+spoken of death in connection with the soul, which we
+have declared to be superior to death. For the soul is
+not annihilated by [what is called] its death, but is
+[only] buried for a time; nor is the blessing of its
+perpetuity taken from it by its submersion for a time,
+since when it shall have made it worthy to be cleansed
+clean utterly of all contagion of its vice, it shall once
+more return from body to the light of Everlasting Life
+restored and whole.'' ^
+
+The characteristics of the spheres given by Macrobius
+are according to their simple energies; there is no
+
+1 Tliat is, the elements other than those of earth.
+
+2 Ed. Eyssenhardt (F.), pp. 531 ff. (Leipzig, 1893).
+VOL. 1. 27
+
+Hosted by VjOOQIC
+
+
+418 THRICE-GREATEST HERMES
+
+question of good or bad ; it is the " thinking " of the
+soul that conditions the use of these energies for
+beneficent or maleficent ends.
+
+
+The Tradition of Servius
+
+Servius, however, in his Commentary on VirgiFs
+JEneidj vi. 714, hands on another tradition, in which
+the spheres were regarded as inimical to the good of
+the soul, its evil propensities being ascribed to their
+energies. Some scholars are of opinion that Virgil in
+his famous Sixth Book is largely dependent on the
+ideas of popular Egyptian theology ; ^ however that
+may be, Servius writes as follows :
+
+*' The philosophers tell us what the soul loses in its
+descent through the separate spheres. For which
+cause also the Mathematici imagine that our body
+and soul are knit together by the powers of the
+separate divinities, on the supposition that when souls
+descend, they bring with them the sluggishness of
+Saturn, the passionateness of Mars, the lustfulness of
+Venus, the cupidity of Mercury, and the desire for rule
+of Jupiter. And these things perturb souls, so that
+they are unable to use their own energy and proper
+powers."
+
+It is to be noticed that the characteristics of the Sun
+and Moon are omitted, and this points to a doctrine in
+which Sun and Moon were treated as distinct from
+*' the ^Ye." So also in the *' Books of the Saviour *'
+appended to the Fistis Sophia document we find
+(pp. 360, 366 ff.) mention of only five planets. The
+
+^ Gf., for instance, Maass (E.), Die Tagesgotter in Rom und den
+FrovinzeUy p. 33. See R. 53, n. 1.
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 419
+
+tradition of this doctrine is exceedingly obscure/ and
+does not immediately concern us, as our text works on a
+'* seven '
+
+
+Ckiticism of the Evidence
+
+I have done my best to discover some consistent
+scheme by which the contradictory data in Macrobius,
+Servius, and Hermes might be reconciled, but the
+tabularising of their indications only makes confusion
+worse confounded.
+
+It is evident, however, that the main thing that
+Macrobius hands on, and which he attributes to
+Orphic -Pythagorean -Platonic tradition, contains in
+itself no suggestion that these philosophers attributed
+any evil tendencies to the characteristics of the spheres
+in themselves. The tradition of Macrobius is as
+follows :
+
+
+Saturn
+
+
+f TO OecoprjTiKov
+i TO Xoyia-TiKov
+
+
+intelligentia.
+
+
+ratiocinatio.
+
+
+Jupiter
+
+
+TO TTpaKTlKOV
+
+
+vis agendi.
+
+
+Mars
+
+
+TO OvjlXLKOP
+
+
+ardor animositatis.
+
+
+Sun
+
+
+f TO alcrOyjTiKov
+
+( TO (paVTa(TTLKOV
+
+
+natura sentiendi.
+
+
+natura opinandi.
+
+
+Venus
+
+
+TO eTTlQviJ.riTLKOV
+
+
+motus desiderii,
+r vis pronuntiandi
+
+
+Mercury
+
+
+TO epixrivevTLKOV
+
+
+< et interpretandi
+V quce sentiantur.
+
+
+Moon
+
+
+TO <pVTlKOV
+
+
+f natura plantandi
+I et agendi corpora.
+
+
+The confusion between the " vis agendi '' of Jupiter
+and that of the Moon may be resolved by supposing
+that the former was the application of the reasoning
+
+^ For references, see R. 53, n. 2.
+
+
+Hosted by
+
+
+Google
+
+
+420 THRICE-GREATEST HERMES
+
+faculty to the practical things of life, while the latter
+was the power of moving one's own physical body, if
+indeed the " et agendi '' is not a gloss of Macrobius.
+
+Servius, on the contrary, is following a tradition in
+which the spheres were regarded as the sources of evil
+tendencies; ethical considerations dominate the whole
+conception. Seeing, however, that it is a fivefold dis-
+tribution, we are unable to equate it with the doctrine
+of Hermes, which is sevenfold. Nevertheless, there are
+some parallels.
+
+The lustfulness (libido) of Servius is to be paralleled
+with the " guile of the desires " or '* lustful error "
+(^ €7n6vjuLf]TLKrj airaTrj) of Hermes. This is ascribed to
+the third zone by Hermes, and to Venus by Servius,
+Venus further coming third in Macrobius.
+
+The " desire of rule " (desiderium regni) of Servius is
+clearly the " domineering arrogance '' (^ apxovriKrj
+7r/oo0aj//a) of Hermes. In Hermes this belongs to the
+middle zone (fourth); in Servius it is ascribed to
+Jupiter, presumably as the ruler of the age — the ruler
+of the previous age being Saturn, who has been deprived
+of his energy and so rendered " torpid."
+
+The " passion " or " wrathf ulness " (iracundia) of
+Servius is also to be paralleled to some extent with the
+*' unholy daring" of Hermes. It is ascribed to the
+fifth zone by Hermes and to Jupiter by Servius, Mars
+also coming fifth in Macrobius.
+
+Finally, the *' love of gain " (lum^i cupiditas) of Servius
+may be paralleled by the " striving for wealth by evil
+means " (al afpopjuLai at KaKoi tov ttXovtov) of Hermes.
+Hermes attributes this to the sixth zone, and Servius to
+Mercury.
+
+The remaining quality mentioned by Servius, *' torpor,"
+which he ascribes to Saturn, equates with nothing in
+Hermes, unless we can persuade ourselves that the
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 421
+
+' ensnaring falsehood " or ** falsehood that lies in wait "
+[to eveSpevov \lr€vSoi) of Hermes has some connection
+with it.
+
+The scheme of Hermes is septenary, and connected
+with the ideas of the ascent of the soul through seven
+zones, which we must locate as seven superimposed
+atmospheres extending from the surface of the earth
+to the moon's orbit. There is no question here of the
+Celestial Spheres proper of the Philosophers, the charac-
+teristics of the energies of which are neither good
+nor evil in themselves ; nor is there apparently any
+question of the " animal soul " proper, for the " passions
+and desires " are said to withdraw into the " nature
+which is void of reason." Though nothing more is said
+about this nature in this connection, in the general
+belief of the time its dominion was thought of as located
+below the earth- surf ace — as a Tartarus of seven zones,
+corresponding to those above, in which the " animal
+soul " or '' vehicle of desire '' was thought of as being
+gradually disintegrated, its energies jSnally going back
+to their source in the Depths of the Darkness, while
+the process of such disintegration or metamorphosis
+produced a parallel consciousness of chastisements and
+horrors. The seven zones of our text, however, are
+apparently the region of purification of the lower
+energies of the human soul; the mental energies led
+into error by the animal passions.
+
+The "Ophite" Hebdomad
+
+Now if we turn to Salmon's article on the "Heb-
+domad, " ^ and to his discussion of the tradition of the
+" Ophites " — a mysterious medley of chaotic elements,
+which have not yet been analysed in any satisfactory
+
+1 Smith and Wace's D. of Christ. Biog,, ii. 849-851.
+
+
+Hosted by
+
+
+Google
+
+
+422 THRICE-GREATEST HERMES
+
+fashion, but which have their roots in pre-Christian
+traditions of a very varied nature within the general
+characteristic of a syncretic Gnosticism — we find that
+after treating of the Celestial Hebdomad, he continues
+as follows :
+
+'* Besides the higher hebdomad of the seven angels,
+the Ophite system told of a lower hebdomad. After
+the serpent in punishment for having taught our first
+parents to transgress the commands of laldabaoth was
+cast down into this lower world, he begat himself six
+sons,^ who with himself form a hebdomad, the counter-
+part of that of which his father laldabaoth is chief.
+These are the seven demons, the scene of whose activity
+is this lower earth, not the heavens ; and who delight
+in injuring the human race on whose account their
+father had been cast down. Origen {Adv, Gels., vi. 30)'
+gives their names and forms from an Ophite Diagram ;
+Michael in form as a lion, Suriel as an ox, Eaphael as a
+dragon, Gabriel as an eagle, Thautabaoth as a bear,
+Erataoth as a dog, Onoel as an ass.''
+
+Here, I think, we are on the track of one aspect of
+a general mystery-tradition that Hermes has "philo-
+sophized." I say one aspect, for the " Ophite " tradi-
+tion is not a single form of tradition, but a medley of
+traditions containing a number of forms ; it is a com-
+plex or syncretism of Chaldsean, Persian, and Egyptian
+elements, patched together, or *' centonized," if we may
+use the term, with Jewish industry.
+
+1 In Irenseus {G. Hcer., I. xxx. 5 ; ed. Stieren, i. 266) this
+sevenfold serpent is the son of laldabaoth (the Creative Mind),
+and is said to be " mind," also " crooked mind," coiled up like
+a serpent.
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 423
+
+
+The Simpler Form of the Trismegistic Gnosis
+
+The wealth of symbolism and profusion of mysterious
+personifications with which these systems of subjective
+imagery were smothered, could exercise only a partial
+fascination on the clear-thinking, philosophical mind
+which had been trained in the method of Plato. If
+such a mind was combined with the mystic temperament,
+as was indubitably the case with the writer of our
+"Poemandres" treatise, his main effort would be to
+simplify and categorize in the terms of philosophy at the
+expense of apocalyptic detail ; nevertheless, when a man
+lived in the midst of such ideas, and was presumably in
+intimate relations with mystics and seers of all sorts,
+he could not but be strongly affected by the main
+presuppositions of all such apocalyptic, and the general
+notions of the schematology of the Unseen World, which
+all students of such matters at that period seem to
+have accepted in common.
+
+We thus find that our Trismegistic literature, though
+dealing throughout with the Gnosis, treats it in a far
+more simple way than any other known system of the
+time. Nevertheless, even the complex imagery of the
+Ophite schools is occasionally summed up in a few graphic
+general symbols, and these, too, representing probably
+the oldest elements in them.
+
+
+Concerning Leviathan and Behemoth
+
+From the confused description by Origen^ of the
+famous but exceedingly puzzling Ophite Diagram that
+both Celsus and Origen had before them, though in
+different forms, we can make out with certainty only
+
+1 a Gels., VI. XXV. ff.
+
+
+Hosted by
+
+
+Google
+
+
+424 THRICE-GREATEST HERMES
+
+that this chart of the Unseen Spaces was divided into
+
+■ three main divisions — Upper, Middle, and Lower. The
+
+J Middle Space contained a geometrical diagram of a
+
+i group of ten circles surrounded by one great circle.
+
+^ This Great Circle was called Leviathan, and the grouping
+
+/ of circles within it was apparently divided into a three
+
+and a seven. The Lower Space had in it a grouping of
+
+seven circles, the circles of the seven ruling daimones
+
+(xxx.) — elsewhere called Archontics — and the whole
+
+group was apparently called Behemoth (xxv.).
+
+Celsus, quoted by Origen (xxvii.), tells us that the
+doctrine was that on the death of the body two groups
+of angels range themselves on either side of the soul,^
+the one set being called *' Angels of Light '' and the
+other " Archontics " — evidently intended for " Angels of
+Darkness." Thus the evil soul was thought to be led
+away by the Daimones to Behemoth, and the pure soul
+to Leviathan,
+
+We cannot enter into the endless discussions con-
+cerning these two Great Beasts, mentioned together in
+Job xl. 16-24, and separately in Isaiah and Psalms;
+the most recent research comes to the conclusion that
+" it would seem that Leviathan was regarded as lord of
+the ocean and Behemoth of dry land." ^
+
+But in our diagram Leviathan is Lord of the Heaven -
+Ocean or Great Green or Cosmic Air, and Behemoth
+Lord of the Cosmic Earth.
+
+Indeed, in the Book of Enock^ the apocalyptic writer
+associates these two monsters with precisely the same
+eschatological considerations which Origen tells us were
+the purpose of the Diagram, only '^ Enoch " speaks of
+
+1 Plainly a conflation of Persian and Ghaldeean ideas.
+
+2 Cheyne's article, " Behemoth and Leviathan," in the Encyclo-
+paedia Bihlica.
+
+3 Charles' Trans,, Ix. 7 ff . (Ethiop. V., p. 155).
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 425
+
+the Last Day, while the Ophite writer has in view the
+ascent of the soul of an initiate after death.
+
+At the final separation of Eighteous and Unrighteous,
+*' Enoch " tells us, these Great Creatures, which before
+were united, will be parted. That is to say, at death
+there is a metamorphosis of the soul.
+
+From what is said in " Enoch," moreover, I deduce that
+the Upper Space of the Ophite Diagram was intended
+to represent the Celestial Paradise, that is the state of
+the Pure Mind or of the Eighteous.
+
+Leviathan and Behemoth are figured in IV. Esdras
+vi. 49-52, as Devourers of the Unrighteous; while
+general Jewish apocalyptic in both Apocrypha and
+Talmud believed that these monsters would in their
+turn become the food of the Eighteous in Messianic
+times.^
+
+From all these indications we deduce that Behemoth
+was the Great Beast and Leviathan the Great Fish
+The animal soul, intensified by contact with the human
+mind, then goes back to its source the Great Beast, and
+is devoured by it, and reabsorbed by it, its energies
+returning to the sum total of energies of the Great
+Animal Group-Soul, the whole energy and experience
+of which shall eventually become the "food" of the
+perfected man ; that is to say, presumably, he will in
+his turn devour and so transmute these energies ; the
+perfected man will thrive by transmuting the Body of
+the Great Beast into the Body of the Great Man.
+
+The Great Fish, however, would seem to symbolize
+the higher energies of the soul, which also require
+transmutation. In being born into the stature of the
+Great Man, the Son of Man must needs pass " three
+days" in the Belly of the Whale. This Great Fish is
+of the nature of knowledge ; for does not Cannes come
+1 See Charles, op. dt., p. 155, n. 7.
+
+
+Hosted by
+
+
+Google
+
+
+426 THRICE-GREATEST HERMES
+
+out of the Ocean in fish-form to teach,^ in the Assyrian
+Mystery-tradition, and does not the Ophite tradition in
+another of its phases^ derive the inspiration of the
+great prophets of Israel, in their several degrees, from
+this same Group of Angels which the Diagram calls
+Leviathan ?
+
+It is also of interest to notice that Leviathan and
+Behemoth were believed to have once formed one
+monster, which was subsequently divided into male
+and female, Behemoth being male and Leviathan
+female. This reminds one of the primeval Water-
+Earth of Hermes, which was subsequently divided into
+Water and Earth, just as the animals were first of all
+male-female, and subsequently were separated. More-
+over, in the Vision of Er the arcs of the journeyings of
+the ascending and descending souls end in two orifices
+above in the sky and two below in the earth, as though
+they were the ends of a once great hollow ring or circle
+that had been divided, or as it were two serpents arched
+above and below, with mouths and tails as orifices ; and,
+curiously enough, in the Fistis Sophia the souls of the
+unrighteous enter by the mouth of the Lower Dragon
+and depart by the tail.
+
+Now, Leviathan being female and Behemoth male,
+and both forming together as it were the circumference
+of the Great Wheel of Necessity, the Wheel of Genesis,
+the attribution of the gestation, so to speak, of the
+
+1 Cannes also comes to teach from the Waters of the Euphrates ;
+the Jewish overwriter of the Naassene Document (see "Myth
+of Man in the Mysteries " ) equates Euphrates with Great Jordan,
+and this with the Stream of Ocean ; and, curiously enough, Origen
+(xxviii.) ascribes the Ophite teaching to a certain Euphrates, of
+whom no one else has ever heard. It is, however, a common
+error of the Church Fathers to mistake a principle of the Gnosis
+for the founder of a heresy.
+
+2 See Salmon, loc, sup. cit.
+
+
+Hosted by
+
+
+Google
+
+
+THE SEVEN ZONES AND THEIR CHARACTERISTICS 427
+
+virtues of the soul to the one and the digesting of its
+vices to the other, is not so surprising. Further, they
+could be regarded as the right-hand or left-hand arcs
+or hemispheres of the Wheel, or Sphere, or Egg, accord-
+ing to celestial topography; whereas in Egyptian
+terrestrial parallelism the right hand was to the north
+and the left hand the south, upper and lower Egypt.
+Curiously enough, in Isa. xxx. 6, Behemoth is called the
+monster " of the south land." ^
+
+Whether or no the writer of the " Poemandres " was
+directly influenced by the precise forms of tradition to
+which we have referred, is impossible to determine;
+but that he was influenced by the general ideas as
+symbolized is indubitable, and that he understood the
+esoteric meaning of the "hippopotamus" and "croco-
+dile " symbols in Egyptian mysticism is highly probable.
+
+The '* Fence of Fire "
+
+Origen (xxxi.), moreover, tells us that, according to
+the Ophites, the consciousness of the soul after passing
+through the domain of the animal -formed Eulers,
+broke through what was called the " Fence of Iniquity,"
+and so turned towards the higher spheres, through
+which it also had to pass. In the seventh and highest
+of them, over which ruled the Virtue which was
+called H5r8eus,2 it addresses the Euler thereof with an
+apology or defence of its own innocence, beginning with
+the words : " thou who hast transcended the * Fence
+of Fire ' without fear I "
+
+This Fence of Fire was symbolised in the form of the
+Diagram which Origen (xxxiii.) had before him, as a
+
+1 According to Cheyne's rendering in the above-quoted article.
+
+2 That is, presumably, the Horus-like ; thus showing traces of
+an Egyptian element.
+
+
+Hosted by
+
+
+Google
+
+
+428 THRICE- GREATEST HERMES
+
+circle of fire with a flaming sword lying across its dia-
+meter. This must then have been intended to represent
+the Sphere of Fire, or Angel or Guardian of the Gate,
+which had to be passed before the Celestial Paradise
+could be entered, for the flashing, circling blade is said
+to have guarded the " Tree of Gnosis and of Life."
+
+The same idea of a typical Boundary or Fence meets
+us in the '* Poemandres/' It is Man who breaks
+through the seven spheres and also their enclosing
+Sphere, the Might or Power that circumscribed the
+Fire. The root idea is the same. The point of view
+of Hermes, however, like that of the Ophite Gnostics,
+is not the passage round the Circle of Necessity of the
+souls of the unregenerate, as in the Vision of Er, but of
+the Straight Ascent of the soul of the initiate, his
+breaking through the spheres. It is the ascent of a
+soul who has reached the Hermes-stage, or Thrice-
+greatest grade, the final stage of winning its freedom,
+the Ascent after the last compulsory birth — the Ascent
+" as now it is for me*' (§ 25).
+
+
+Hosted by
+
+
+Google
+
+
+XIII
+
+PLATO: CONCEENING METEMPSYCHOSIS
+
+" And the sours vice is ignorance. For that the soul
+who hath no knowledge of the things that are, or
+knowledge of their nature, or of Good, is blinded by
+the body's passions and tossed about.
+
+"This wretched soul, not knowing what she is,
+becomes the slave of bodies of strange form in sorry
+plight, bearing the body as a load ; not as the ruler, but
+the ruled."— C. H., x. (xi.) S}
+
+For the better understanding of this passage, we
+may appropriately refresh the memory of our readers
+with the Platonic doctrine of the transmigration of
+souls, as given in the Phcedrus, 248 ff., using for this
+purpose the best translation we have in English, namely,
+that of Stewart,^ as a basis, but often departing from it
+for greater clearness.
+
+The Soul and her Mysteries in the "Ph^edrus*'
+
+" This is the life of the Gods. Of the other Souls,
+whosoever followeth God best, and is being made most
+like unto Him, keepeth the Head^ of her Charioteer
+
+^ See commentary thereon.
+
+2 Stewart (J. A.), The Myths of Plato (London, 1905), pp.
+313 ff. ; c/. also Jowett (Oxford, 1892), 1. 454 ff. ; and Taylor
+(London, 1804), iii. 325 ff.
+
+3 Gf. C. H., X. (xi.) 11 : "Since Cosmos is a sphere—that is to
+say, a head."
+
+429
+
+
+Hosted by
+
+
+Google
+
+
+430 THRICE-GREATEST HERMES
+
+lifted up into the Space without the firmament ; so she
+is carried round with the circuit thereof, yet being
+[still] troubled with the Horses,^ and hardly beholding
+the Things- which-are ; so she is now lifted up, now
+sinketh down, and because of the compulsion of the
+Horses, seeth some of the Things-which-are, and some
+she seeth not.
+
+" And the rest of the Souls, you must know, follow
+all striving after that which is above, but unable [to
+reach it], and so are carried round together and sink
+below it,2 trampling upon one another, and running
+against one another, and pressing on for to outstrip one
+another, with mighty great sound of tumult and sweat.
+
+"And here by reason of the unskilf ulness ^ of the
+Charioteers, many Souls are maimed, and many have
+many feathers [of their wings] broken; and all, greatly
+travailing, depart without initiation in the Sight of
+That-which-is, and departing betake them to the food
+of Opinion.
+
+''Now this is why there is so great anxiety to see
+the Space where is the Plain of Truth, — both because
+the pasture suited to the Best Part of the Soul groweth
+in the Meadow there, and the power of wing, whereby
+the Soul is lightly carried up, is nourished by it, and
+that the law of Adrasteia is that whatsoever Soul by
+following after God hath seen somewhat of the true
+things, shall be without affliction till its next journey
+round; and if she can always do this,^ she shall be
+without hurt alway.
+
+1 Cf. 246 B : " For 'tis a Yoke of Horses that the Charioteer of
+Man's Soul driveth, and, moreover, of his Horses the one is well
+favoured and good and of good stock, the other of the contrary
+and contrary."
+
+2 Lit., under water.
+
+3 Lit., evil — that is, ignorance.
+* Viz., behold the truth.
+
+
+Hosted by
+
+
+Google
+
+
+PLATO : CONCERNING METEMPSYCHOSIS 431
+
+" But when through incapacity to follow [God] she
+doth not see, and, overtaken by some evil chance, filled
+with f orgetf ulness and wickedness, she is weighed down,
+and, being weighed down, she sheds the feathers of her
+wings and falls on to the Earth, — then is the law not
+to plant her ^ in her first birth in a beast's nature ; but
+to implant the Soul that hath seen most into the seed
+of one who shall become a Wisdom-lover, or a lover of
+the Beautiful, or a man who truly loves the Muses ; the
+Soul that hath seen second best, into the seed of one
+who shall become a king that loveth law, and is a
+warrior and a true ruler ; the Soul that hath seen third,
+unto the seed of one who shall become busied in civic
+duties, or in some stewardship, or in afifairs; the one
+that hath seen fourth, into the seed of one who shall be
+a hardship-loving master of the body's discipline or
+skilled in healing of the body ; the Soul that hath seen
+fifth, into that which shall have a life connected with
+the oracles or mystic rites some way ; ^ unto the sixth
+a life poetic shall be joined, or that of some one or of
+another of the tribe of copiers ; unto the seventh, the
+life of workman or of husbandman ; unto the eighth,
+that of a sophist or a demagogue ; unto the ninth, that
+of a tyrant.
+
+" In all these lives, whoever lives them righteously
+obtains a better fate ; he who unrighteously, a worse.
+
+'* JSTow to the selfsame state from which each Soul hath
+come, she cometh not again for some ten thousand
+years. For sooner than this period no Soul [re-]gains
+
+1 Sc. as a germ or seed.
+
+2 It is low down in the scale, indeed, that Plato places the
+soothsayers and hierophants ; he is, however, '< ironical," for he
+places poets even lower down, and still lower sophists and tyrants,
+all in keeping with his well-known views about these people as
+known in his own time.
+
+
+Hosted by
+
+
+Google
+
+
+432 THRICE-GREATEST HERMES
+
+its wings, except the Soul of him who has loved wisdom
+naturally or contrary to nature.^
+
+" Such Souls in the third period of a thousand years,
+if they have chosen thrice this life successively, thus
+getting themselves wings, depart in the three thou-
+sandth year.2
+
+"But the other Souls, when they have ended their
+first life, are brought to judgment ; and being judged,
+some go to places of correction below the Earth and
+pay the penalty, while others are rewarded by being
+raised unto a certain space in Heaven where they live
+on in a condition appropriate unto the life they lived in
+a man's form.
+
+" But in the thousandth year both classes come to
+the lottery of lives, and each doth make choice of its
+second life, whatever it may choose.^
+
+"And now is it that a Soul that once had had a
+man's life doth pass into a brute's life,^ and from a
+
+^ ^ iraid^panrriia-ayros /JUrh (t)i\ofro(pias — Stewart, "or loved his
+comrade in the bonds of wisdom " ; Jowett, " or a lover who is not
+devoid of philosophy " ; Taylor, " or together with philosophy has
+loved beautiful forms." I fancy that Plato has used this graphic
+expression simply to designate a man who has not true union
+with wisdom, but is seeking for union though ignorantly.
+
+2 " The numbers three and ten are called perfect ; because the
+former is the first complete number, and the latter in a certain
+respect the whole of number ; the consequent series of numbers
+being only a repetition of the numbers which this contains. Hence ,
+as 10 multiplied into itself produces 100, a plane number, and
+this again multiplied by 10 produces 1000, a solid number ; and
+as 1000 multiplied by 3 forms 3000, and 1000 by 10, 10,000 ;
+on this account Plato employs these numbers as symbols of the
+purgation of the soul, and her restitution to her proper perfection
+and felicity. I say, as symbols ; for we must not suppose that this
+is accomplished in just so many years, but that the soul's restitution
+takes place in a perfect manner." — Taylor, op. cit., iii. 325.
+
+3 Cy. the "Vision of Er."
+
+* We must not understand by this that the soul of a man
+
+
+Hosted by
+
+
+Google
+
+
+PLATO : CONCERNING METEMPSYCHOSIS 433
+
+brute, he who was once a man, passes again into a man ;
+for that indeed the Soul that never hath seen truth,
+will never come into this configuration.^
+
+"For we must understand *man,' in the sense of
+form, as one proceeding from many sensations and
+collected into a unit by means of ratiocination.^ But
+this^ is recollection (avdjuLvrjcrii) of those things which
+our Soul once did see when she journeyed with God,^
+and looked beyond the things we now call things that
+are, by raising her face ^ to That-which-really-is.
+
+" Wherefore of right, alone the understanding of the
+Wisdom-lover hath got wings ; for he is ever engaged
+upon those things in memory as far as he can be,
+on being engaged at which, as being a God, he is
+divine.
+
+becomes the soul of a brute ; but tbat by way of punishment it is
+bound to the soul of a brute, or carried in it, just as daemons
+used to reside in our souls. Hence all the energies of the rational
+soul are perfectly impeded, and its intellectual eye beholds naught
+but the dark and tumultuous phantasms of a brutal life." — Taylor,
+loc. cit.
+
+1 Viz., the form of a man ; it is, however, also an astrological
+term.
+
+2 There seems to be no agreement among translators as to the
+meaning of this sentence : Set yhp dvOpwiroy ^vyi^yai Kal elBos
+KiySfxevoVf €« iroWcav ihv aio'B'fiacioy its ev Xoyicfxcp ^vvaipov/xeyov.
+Stewart translates : " Man must needs understand the Specific
+Form which proceedeth from the perceiving of many things, and
+is made one by Thought ; " Jowett : " For a man must have
+intelligence of universals, and be able to proceed from the many
+particulars of sense to one conception of reason ; " Taylor :
+" Indeed it is necessary to understand man, denominated ac-
+cording to species, as a being proceeding from the information
+of many senses, to a perception contracted into one reasoning
+power."
+
+3 Sc. collecting into one.
+
+4 That is to say, revolved in the Cosmos Order.
+
+6 Gf, G. H.y i. 14 : '* So [Man] . , . bent his face downwards
+through the Harmony."
+
+VOL. I. 28
+
+Hosted by VjOOQIC
+
+
+434 THRICE-GREATEST HERMES
+
+"The man then who doth make a right use of
+memories such as these, ever being made perfect in
+perfect perfectionings, alone becometh really Perfect,^
+
+" But in as much as he eschews the things that men
+strive after, and is engaged in the Divine [alone], he is
+admonished by the many as though he were beside
+himself ,2 for they cannot perceive he is inspired by
+aod."
+
+Plotinus on Metempsychosis
+
+Let us now turn to the genuine disciples of the
+master for further light on this tenet, and first of all to
+Plotinus.
+
+The most sympathetic notice of this tenet in Plotinus
+is to be found in Jules Simon's Histoire de Vtlcole
+d'Alexandrie (Paris, 1845), i. 588 ff., based for the most
+part on Un,, I. i. 12 ; II. ix. 6 ; IV. iii. 9 ; V. ii. 2 ; and
+on Ficinus' Commentary (p. 508 of Creuzer's edition).
+
+After citing some " ironical " passages from Plotinus
+(in which the philosopher disguised the real doctrine
+which in his day still pertained to the teachings of a
+higher initiation), Jules Simon goes on to say :
+
+" Even though admitting that this doctrine of metem-
+psychosis is taken literally by Plotinus, we should still
+have to ask for him as for Plato, whether the human
+soul really inhabits the body of an animal, and whether
+it is not reborn only into a human body which reflects
+the nature of a certain animal by the character of its
+passions.
+
+" The commentators of the Alexandrian school some-
+times interpreted Plato in this sense. Thus, according
+
+1 All these are technical terms of the Mysteries.
+
+2 Of. G. H.J ix. (x.) 4 : " For this cause they who Gnostic are
+please not the many nor the many them. They are thought mad
+and laughed at."
+
+
+Hosted by
+
+
+Google
+
+
+PLATO : CONCERNING METEMPSYCHOSIS 435
+
+to Proclus, Plato in the Phcedrus condemns the wicked
+to live as brutes and not to become them, KarlevaL ek
+l^iov OTjpeiov, KOI ovK €19 cTtojULa drjpeiov (Proc, Comm,
+Tim., p. 329). Chalcidius gives the same interpretation,
+for he distinguishes between the doctrines of Plato and
+those of Pythagoras and Empedocles, qui non naturam
+modo feram, sed etiam formas.'^ Hermes (Comm. of
+Chalcidius on Tim>mus ; ed. Fabric, p. 360) declares in
+unmistakable terms that a human soul can never return
+to the body of an animal, and that the will of the Gods
+for ever preserves it from such disgrace." ^
+
+Pkoclus on the Descent of Souls into Irrational
+
+ITatures
+
+Again, Proclus in his Commentaries on the Timceus,
+writes very definitely with reference to the following
+passage of Plato :
+
+" And if he still in these conditions did not cease from
+vice, he would keep on changing into some brutish
+nature according as he acted in a way resembling the
+expression in genesis of such a mode of vicious living." ^
+
+For he says :
+
+'*With reference to this descent of souls into
+irrational animals, it is usual for men to enquire how
+it is meant.
+
+" And some think that what are called brute-like lives
+are certain resemblances of men to brutes, for that it is
+not possible for the rational essence to become the soul
+of a brute.
+
+" Others allow that even this [human soul] may be
+
+1 Who not only made the soul go into an animal nattire but
+into animal forms.
+
+2 The last sentence of G. if., x. (xi.) being quoted textually by
+Chalcidius.
+
+3 Tim., 42 c.
+
+
+Hosted by
+
+
+Google
+
+
+436 THRICE-GREATEST HERMES
+
+immediately degraded to reason-less creatures, for that
+all souls are of one and the same species, so that they
+may become wolves and panthers and ichneumons.
+
+**But the true reason {logos) asserts that though the
+human soul may be degraded to brutes, it is [only] to
+brutes which possess the life suited to such a purpose,
+while the degraded soul is as it were vehicled on this
+[life], and bound to it sympathetically.
+
+'' And this has been demonstrated by us at great
+length in our lectures on the Phcedrus, and that this is
+the only way in which such de-gradation can take place.
+If, however, it is necessary to remind you that this
+meaning {logos) is that of Plato, it must be added that
+in the Republic^ he says that the soul of Thersites
+assumed an ape [life], but not an ape's hody, and in the
+Phcedrus ^ that [the soul] descends into a brutish life,
+and not into a brutish lody, for the mode of life goes
+with its appropriate soul. And in the passage [from
+the Timceus] he says that it changes into a brute-like
+nature ; for the brutish nature is not the body but the
+life [principle] of the brute." ^
+
+1 Lib. X. 620 c. 2 Phcedr,, 249 b.
+
+3 Comment, in Plat. Tim., 329 D ; ed. Schneider (Warsaw,
+1847), pp. 800, 801. With all of this the views of BasiUdes
+{F. F. F., 275 ff.) may be most instructively compared.
+
+
+Hosted by
+
+
+Google
+
+
+XIV
+
+THE VISION OF EE
+
+" But to the Mindless ones, the wicked and depraved,
+the envious and covetous, and those who murder do
+and love impiety, I am far off, yielding my place to the
+Avenging Daimon." — C. H,, i. 23.
+
+Er Son of Armenius
+
+To this Daimon it is that the " way of life '' of the
+man is surrendered at death (§ 24). In this connection
+we may consider the Story or Vision of *'Er Son of
+Armenius," which Plato tells at the end of the last
+book (X.) of his Republic (614 b ff.), for the symbolism
+is very similar to that of our tractate and the subject
+is more or less the same.
+
+This Er is said by Clement of Alexandria to have
+been Zoroaster, "but no trace of acquaintance with
+Zoroaster is found elsewhere in Plato's writings, and
+there is no reason for giving him the name of Er the
+Pamphylian. The philosophy of Heracleitus cannot
+be shown to be borrowed from Zoroaster, and still less
+the myths of Plato." ^
+
+What the source of the story is, scholarship has
+so far been unable to discover; the vast majority of
+scholars holding it to be an invention of Plato.
+
+
+Jowett, Dialogues^ iii. clxvi.
+
+437
+
+
+Hosted by
+
+
+Google
+
+
+438 THRICE-GREATEST HERMES
+
+It is the story of a man "killed in battle," whose
+body was brought home on the tenth day still fresh and
+showing no sign of decomposition. On the twelfth
+day, when laid on the funeral pyre, Er awakes and tells
+a strange story of his experiences in the invisible world.
+
+This story should be taken in close connection with
+Plutarch's similar but fuller Vision of Aridseus
+(Thespesius), upon which I have commented at length
+in my " IsTotes on the Eleusinian Mysteries." ^
+
+From the Mysteries
+
+I there stated that the experiences of Aridseus were
+either a literary subterfuge for describing part of the
+instruction in certain Mysteries, or the Vision, in popular
+story form, was considered so true a description of
+what was thought to be the nature of the invisible
+world and the after-death conditions of the soul, that
+it required little alteration to make it useful for that
+purpose.
+
+I would now suggest that the Story of Er is also used
+by Plato for a somewhat similar purpose. It is further
+interesting to notice that one of the characters in the
+Vision of Er is called Ardiaeus, while in Plutarch the
+main personage is called Aridaeus. The transposition of
+a single letter is so slight as to make the names
+practically identical, and the subject matter is so
+similar that we are inclined to think that there must
+be some connection between the Visions, r Moreover,
+Aridaeus is said to have been a native of Soli in Cilicia,
+just as Er is said to have been a Pamphylian; the
+tradition of such stories would thus seem to have been
+derived from Asia Minor, and the origin of them may
+
+1 The, Theosophical Review (April, May, June, 1898), xxii. 145 fF.,
+232 ff., 312 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THE VISION OF ER 439
+
+thus be hidden in the syncretism of that land — where
+West and East were for ever meeting. It is, however,
+much safer to assume that, in the Story of Er, Plato
+is handing on the doctrines of Orphic eschatology ; ^
+whether or not the story already existed in some form,
+and was worked up and elaborated by the greatest
+artist in words of all philosophers, will perhaps never
+be known. But to the story itself.
+
+The Cylinder
+
+614 c. — Er, in a certain daimonian or psychic plane
+(To'7ro9 Ti9 SaL/uLovioi), is made a spectator of a turning-
+point or change of course in the ascent and descent of
+souls. He thus seems to have been in a space or state
+midway between Tartarus and Heaven — presumably
+the invisible side of the sublunary space.
+
+The world-engine of Fate, or Karmic World-whorl,
+is represented by seven spheres (surrounded by an
+eighth) whose harmonious spinning is adjusted by the
+three Fates, the Daughters of Necessity.
+
+Jowett (loc. cit) says that the heaven-sphere is
+represented under the symbol of a " cylinder or box."
+Where the " box " comes in I do not know ; the term
+"cylinder" does not occur in the text, and even the
+cylinder idea is exceedingly difficult to discover in any
+precise sense. Indeed, it may be doubted whether the
+"heaven-sphere" is to be so definitely interpreted;
+for then our discussion of the meaning of the term
+" cylinder," which occurs definitely in our K, K. Frag-
+ments, would be greatly simplified.
+
+The matter is hard to understand, and Jowett's
+
+^ And this I find to be the opinion of the last commentator on
+the subject; see Stewart (J. A.), The Myths of Plato (London,
+1905), pp. 152 fF.
+
+
+Hosted by
+
+
+Google
+
+
+440 THRICE-aREATEST HERMES
+
+attempts at exposition are hazy and sketchy in the
+extreme. Either Plato is talking nonsense, or Jowett
+does not understand the elements of his idea. Stewart's
+attempt, which makes use of the latest Platonic research,
+is far more successful, but he also has to abandon many
+points in despair.^ How difficult the solution of the
+problem is may be seen from the text, which gives the
+symbolism of the vision of the spheres somewhat as
+follows :
+
+The Vision
+
+616 B. — " Now when those in the meadow ^ had tarried
+seven days, on the eighth they were obliged to proceed
+on their journey upwards, and, on the fourth day after,^
+he [Er] said they came to a region where they saw light
+extended straight as a column from above through-
+out the whole extent of heaven and earth, in colour
+resembling the rainbow, only brighter and purer.
+
+"Another day's journey brought them to it, and
+there they saw the extremities of the boundaries of the
+heaven extended in the midst of the light ; for this
+light was the final boundary of the heaven — somewhat
+like the under-girdings of ships — and thus confi.ned its
+whole revolution.
+
+"From these extremities depended the spindle of
+Necessity, by means of which all its revolutions are
+made to revolve. The spindle's stalk "^ and its hook are
+made of adamant,^ and the whorl of a mixture of
+adamant and other kinds [of elements].
+
+1 So also Dreyer (J. L. E.), History of the Planetary Systems
+from Tholes to Kepler (Cambridge, 1906), pp. 56 'If.
+
+"^ The daimonian region.
+
+^ That is the eleventh day ; Er, it will be remembered, was
+" unconscious " for twelve days.
+
+4 Or shaft.
+
+^ That which cannot be destroyed or changed.
+
+
+Hosted by
+
+
+Google
+
+
+THE VISION OF ER 441
+
+''And the nature of the whorl is as follows. In
+shape it was like that of the one down here ; but in
+itself we must understand from his description that it was
+somewhat as though in one great hollow whorl clean
+scooped out there lay another similar but smaller one
+fitted into it, as though they were jars ^ fitting into one
+another. And so he said there was a third and a
+fourth, and [also] four others. For in all there are
+eight whorls set in one another — looking like circles
+from above as to their rims,^ [but from below] finished
+off into the continuous belly ^ of one whorl round the
+shaft, which is driven right through the eighth whorl.
+
+" The first and outermost whorl had the circle of its
+rim first in width ; that of the sixth was second ; that
+of the fourth, third ; that of the eighth, fourth ; that
+of the seventh, fifth ; that of the fifth, sixth ; that of
+the third, seventh ; that of the second, eighth.
+
+617. — " And the circle of the largest was variegated ;
+that of the seventh brightest ; that of the eighth had
+its colour from the seventh shining on it ; those of the
+second and of the fifth had [colours] somewhat like one
+another, but yellower than the preceding; the third
+had the whitest colour ; the fourth was reddish ; the
+sixth was second in whiteness.^
+
+1 The shape would thus approximate to an oblate spheroid.
+
+2 To carry out the metaphor of the jars. ^ lj^j^^ "back."
+4 The names of the spheres may be deduced from Tim. 38, and
+
+are as follows : 1. Fixed Stars (all-coloured) ; 2. Saturn (yellow) ;
+3. Jupiter (whitish) ; 4. Mars (reddish) ; 5. Mercury (yellowish) ;
+6. Venus (white) ; 7. Sun (light- colour) ; 8. Moon (light-colour
+reflected). How the above statements as to " width of rim " and
+colours are to be made to work in with the scheme of rates of
+motions and numbers given in Tim. 36, 1 have not as yet been
+able to discover from any commentator. And seeing that Er is
+said to have seen this mystery from a region that transcended
+even the daimonian region, it is perhaps out of place to insist on
+a purely physical interpretation of the data.
+
+
+Hosted by
+
+
+Google
+
+
+442 THRICE-GREATEST HERMES
+
+"Now the spindle as a whole circled round at the
+same rate in its revolution ; and within this revolution
+as a whole the seven circles revolved slowly in a
+contrary direction to the one as a whole ; of these the
+eighth went the fastest of them; the seventh, sixth,
+and fifth came second [in speed, and at the same rate]
+with one another ; the fourth, in a reversed orbit, as it
+appeared to them, was third in speed ; the third was
+fourth and the second fifth.
+
+"The spindle revolved on the knees of Necessity;
+and on its circles above, on each of them, was a Siren
+whom they carried round with them, singing a single
+sound or tone ; and from all eight of them a single
+harmony was produced.
+
+"And there were three others seated at equal
+distances round about, each upon a throne, — the
+Daughters of Necessity, the Fates, clothed in white
+robes, with garlands on their heads, Lachesis and Clotho
+and Atropos ; and they sang to the tune of the Sirens'
+harmony, — Lachesis sang things that have been, Clotho
+things that are, and Atropos things that shall be.
+
+"And Clotho from time to time with her right
+hand gave an extra turn to the outer spin of the
+spindle ; Atropos, with her left, in like fashion to the
+inner ones ; while Lachesis in turn touched the one
+with one hand and the other with the other.
+
+"Now when they [Er and the souls] arrived, they
+had to go immediately to Lachesis. Accordingly a
+prophet [a proclaimer] first of all arranged them in
+their proper order, and taking from the lap of Lachesis
+both lots ^ and samples of lives, he ascended a kind of
+raised place and said :
+
+" * The word (logos) of the Virgin Lachesis, Daughter
+of Necessity ! Ye souls, ye things of a day, lo the
+1 Or mimber-turns.
+
+
+Hosted by
+
+
+Google
+
+
+THE VISION OF ER 443
+
+beginning of another period of mortal birth that brings
+you death. It is not your daimon who will have you
+assigned to him by lot, but ye who will choose your
+daimon. He who obtains the first turn let him first
+choose a life to which he will of necessity have to
+hold. As for Virtue, Necessity has no control over
+her, but every one will possess her more or less just as
+he honours or dishonours her. The responsibility is
+the chooser's; God is blameless.*
+
+" Thus speaking he threw the lots to all of them, and
+each picked up the one that fell beside him, except Er,
+who was not permitted to do so. So every one who
+picked up a lot knew what turn he had got.
+
+618. — "After this he set on the ground before them
+the samples of the lives, in far greater number than
+those present. They were of every kind; not only
+lives of every kind of animal, but also lives of every
+kind of man. There were lives of autocratic power
+[lit., tyrannies] among them, some continuing to the
+end, some breaking off half-way and ending in poverty,
+exile, and beggary. There were also lives of famous
+men, some famed for their beauty of form and strength,
+and victory in the games, others for their birth and the
+virtues of their forebears ; others the reverse of famous,
+and for similar reasons. So also with regard to the
+lives of women.
+
+" As to the rank of the soul, it was no longer in the
+power [of the chooser], for the decree of Necessity is
+that its choosing of another life conditions its change
+of soul-rank. As for other things, riches and poverty
+were mingled with each other, and these sometimes
+with disease and sometimes with health, and sometimes
+a mean between these.''
+
+Thereupon Plato breaks into a noble disquisition on
+what is the best choice, and how a man should take
+
+
+Hosted by
+
+
+Google
+
+
+444 THRICE-GREATEST HERMES
+
+with him into the world an adamantine faith in truth
+and right ; and then continues :
+
+619b. — "And this is precisely what the messenger
+from that invisible world reported that the prophet
+said:
+
+" * Even for him who comes last in turn, if he but choose
+with his mind^ and live consistently, there is in store a
+life desirable and far from evil. So let neither him
+who has the best choice be careless, nor him who comes
+last despair/
+
+"And when he had thus spoken, the one who
+had the first choice, Er said, immediately went and
+chose the largest life of autocratic power, but through
+folly and greediness he did not choose with suflBcient
+attention to all points, and failed to notice the fate
+wrapped up with it, of * dishes of his own children ' ^ and
+other ills. But when he had examined it at leisure, he
+began to beat his breast, and bemoan his choice, not
+abiding by what the prophet had previously told him ;
+for he did not lay the blame of these evils on himself,
+but on ill-luck and daimones, and everything rather
+than himself. And he was one of those who came
+from heaven, who in his former life had lived in a
+well-ordered state, and been virtuous from custom
+and not from a love of wisdom.^
+
+"In brief, it was by no means the minority of
+those who involved themselves in such unfortunate
+choices who came from heaven, seeing that such souls
+were unexercised in the hardships of life. Many of
+those who came from earth, as they had suffered hard-
+ships themselves, and had seen others suffering them,
+did not make their choice off-hand.
+
+1 A literary embellislimeiit from the Tragic Muse of Greece,
+and the mythical recitals of Thyestian banquets.
+
+2 €0€t ^Viv 4*i\oa'o<pias,
+
+
+Hosted by
+
+
+Google
+
+
+THE VISION OF ER 445
+
+"Consequently many of the souls, independently
+of the fortune of their turn, changed good for evil, and
+evil for good. For if a man should always, whenever
+he comes into life on earth, live a sound philosophic
+life, and the lot of his choice should not fall out to him
+among the last, the chances are, according to this news
+from the other world, that he will not only spend his
+life happily here, but also that the path which he will
+tread from here to there, and thence back again, will
+not be below the earth i and difficult, but easy and of a
+celestial nature.
+
+620. — "Yes, the vision he had, Er said, was well
+worth the seeing, showing how each class of souls chose
+their lives.^ The vision was both a pitiful and laughable
+as well as a wonderful thing to see. For the most part
+they chose according to the experience of their former life.
+For Er said that he saw the soul that had once been
+that of Orpheus becoming the life of a swan for choice,^
+through its hatred of womankind, because owing to the
+death of Orpheus at the hands of women, it did not
+wish to come into existence by conception in a woman.
+He further saw the soul of Thamyras ^ choose the life of
+a nightingale. On the contrary, he saw also a swan
+change to the choice of a human life, and other musical
+animals in like fashion.
+
+"The soul that obtained the twentieth lot chose
+
+1 The Tartarean spheres of the invisible world, popularly
+believed to be below the earth ; that is, philosophically, more
+material than earth-life.
+
+2 The vision (0ea) was therefore typical.
+
+3 The birds are typical of souls living in the air—that is, in
+aery bodies and not in physical ones ; or types of intelligence.
+
+4 Or Thamyris, an ancient Thracian bard ; it is said that in his
+conceit he imagined he could surpass the Muses in song, in con-
+sequence of which he was deprived of his sight and the power of
+singing.
+
+
+Hosted by
+
+
+Google
+
+
+446 THRICE-GREATEST HERMES
+
+the life of a lion; it was the soul of Ajax, son
+of Telamon, to avoid being a man, because it still re-
+membered the [unjust] decision about the arms. The
+next soul was Agamemnon's ; and it too, out of hatred to
+the human race on account of its sufferings, changed
+into the life of an eagle.^ The soul of Atalanta
+obtained its lot in the middle, and letting her eye fall
+on the great honours paid an * athlete,' was unable to
+pass it by, and took it. The soul of Epeius,^ son of
+Panopeus, he saw pass into the nature of a woman
+skilful in the arts. And far away among the last he
+saw the soul of the buffoon Thersites putting on an ' ape.'
+
+"By a stroke of luck also he saw the soul of
+Odysseus, which had obtained the last lot of all, come
+to make its choice. From memory of its former labours
+it had given itself a rest from love of renown, and for
+a long time went about to find the life of a man in
+private life with nothing to do with public affairs, and
+with great difficulty found one lying in a corner and
+thus passed over by all the rest ; on seeing it, it de-
+clared that it would have done the same even if it had
+had first turn, and been glad to do it.
+
+" And Er said that of the rest of the brutes also in
+like fashion some of them passed into men, and some
+into one another, the unrighteous ones changing into
+wild ones, and the righteous into tame ; in fact, there
+were intermixings of every kind.
+
+"When, then, all the souls had chosen their lives
+according to the number of their turn, they went in
+order to Lachesis ; and she sent along with them the
+daimon each had chosen, as watcher over his life and
+bringer to pass of the things he had chosen. And
+
+1 Notice the "lion "and "eagle" are selected as types — they
+being typical sun-animals, as we have already seen.
+
+2 The fabled engineer of the Trojan Horse.
+
+
+Hosted by
+
+
+Google
+
+
+THE VISION OF ER 447
+
+the daimon first of all brought the soul to Clotho, set it
+beneath her hand and the whirling of the spindle, thus
+ratifying the fate each soul had chosen in its turn.
+And after he had attached it to her, he brought it to
+the spinning of Atropos, thus making its destinies^
+irreversible.
+
+621. — "Thence [Er] went, without turning, [down]
+beneath the Throne^ of Necessity, and when he had
+passed down through it, and the others had also done so,
+they all passed on to the Plain of Forgetfulness (Lethe)
+in a frightful and stifling heat ; for it was bare of trees
+and vegetation of every kind.
+
+" As it was now evening they camped by the Eiver
+Heedlessness whose water no vessel can hold.^ They
+were all, however, compelled to drink a certain quantity
+of its water ; those who are not safeguarded by prudence
+drink more than their quantity, while he who keeps on
+drinking it forgets everything.
+
+"When they had fallen asleep and midnight had
+come, there was thunder and earthquake, and thence
+suddenly they were carried up into birth [genesis] some
+one way some another, like shooting stars.
+
+" Er, however, was prevented from drinking the water ;
+but in what manner and by what means he got back
+to his body he could not say, only, suddenly waking in
+the morning, he found himself lying on the pyre."
+
+1 ra iTTiKXaxrOePTa-^^SL play OH KhtaBdi.
+
+2 This is probably a symbol of the heaven-plane.
+
+3 ou rh iidwp cLyyeioy ovBey arsyitv, So this is usually translated ;
+but as the souls drink of it, the appropriateness of the rendering
+is not very apparent. On the other hand, (rreysty is used of
+things that are water-tight — e.g, houses and ships ; hence " whose
+water no vessel can keep out." The " vessel " might thus stand
+for the ship of the soul ; and if so, we are in contact with an
+Egyptian idea. The River is in the Desert — the reverse of the
+Nile and Egypt, of Osiris and Isis, their Typhonean counterparts.
+
+
+Hosted by
+
+
+Google
+
+
+448 THRICE-GREATEST HERMES
+
+
+Commentary
+
+The question that one naturally asks oneself is:
+Did Plato conclude his great treatise on the Ideal State
+with a popular legend in jest, or had he some deeper
+purpose? I cannot but think that he was jesting
+seriously. Is it too wild a supposition that he is
+hinting at things which he could not disclose because of
+his oath ? Those who knew would understand ; those
+who did not would think he was jesting simply, and so
+the mysteries would not be disclosed.
+
+In any case we have, I think, got a hint of the part
+played by the Daimon in our treatise. Whether or not
+Hermes " copied " the idea from Plato, or both derived
+it from the same tradition, must be left to the fancy
+and taste of individual scholars. The Daimon is the
+watcher over the " way of life " (vOo?) ; he is not
+necessarily a Kakodaimon, but so to speak the Karmic
+Agent of the soul, appointed to carry out the '* choice "
+of that soul, both good and ill, according to the Law of
+Necessity.^ The choice is man's; Nature adjusts the
+balance.
+
+The Vision is of a typical nature, and the types are
+mythologized in the persons of well-known characters
+in Grecian story. The *' way of life " the souls choose
+^becomes the garment of " habit " they are to wear, their
+form of personality, or karmic limitation. Apparently
+some souls, instead of choosing a reincarnation in a
+human body, prefer to live the *' lives " of certain animal
+natures. Are we then to believe that Plato seriously
+endorsed the popular ideas of metempsychosis ? Or is
+it possible that he is referring to some state of existence
+of souls, which was symbolized by certain animal types
+
+1 For the more intimate teaching on this point, see G. H.,
+X. (xi.)16ff.
+
+
+Hosted by
+
+
+Google
+
+
+THK VISION OF ER 449
+
+in the Mysteries ; as was certainly the case with the
+" lion '' and " eagle," though the " swan " and " nightin-
+gale" and "ape" are, as far as I am aware, never
+mentioned in this connection? Can it be that Plato
+here gives play to his imagination, basing his speculations
+on some general idea he may have learned in Egypt ?
+
+We know from the so-called " Diagram of the Ophites/'
+which is still traceable in a fragmentary form in the
+polemic of Origen against Celsus, that the "seven
+spheres " of the lower psychic nature were characterised
+by the names of animals : lion, bull, serpent, eagle, bear,
+dog, ass. We also know how the whole subject of
+animal correspondences preoccupied the attention of
+the Egyptian priesthood. But not only can we now
+make no reasonable scheme out of the fragmentary
+indications that have come down to us, but we also
+feel pretty well certain that if Plutarch's account of
+the beliefs of the later Egyptians on the subject is
+approximately reliable, the priests themselves of those
+days had no longer any consistent scheme.
+
+We may, therefore, conclude either that the whole
+matter was a vain superstition entirely devoid of any
+basis in reality ; or that there was a psychic science of
+animal natures and their relationship to man which
+was once the possession of the priesthood of the ancient
+civilisation of Egypt, but that it was lost, owing to the
+departure from amongst men of those who had the power
+to understand it, and subsequently only fragments of
+misunderstood tradition remained among the lesser folk
+on earth. This at anyrate is the theory of our Tris-
+megistic treatises.
+
+
+VOL. I. 29
+
+Hosted by VjOOQIC
+
+
+XV
+
+CONCEENING THE CEATEE OE CUP
+
+" He filled a mighty Cup with it [Mind], and sent it
+down, joining a Herald [to it], to whom He gave
+command to make this proclamation to the hearts of
+men : Baptize thyself with this Cup's baptism," etc. —
+a H„ iv. (v.) 4
+
+The Crater in Plato
+
+Whence came this idea of a Crater or Cup into our
+Trismegistic literature? Most scholars will answer
+unhesitatingly : From Plato. The Crater was the Cup
+in which the Creator mixed the Elements of the World-
+Soul ; for we read in Timo&us (41 d), where Plato is
+treating of the formation of human souls :
+
+" Thus spake He, and once again into the Cup which
+He had used in blending and mingling the Soul of the
+Universe, He poured the remains of the Elements He
+had employed, and mingled them in much the same
+manner ; they were not, however, pure as before, but
+in the second and third degree."
+
+I am, however, not inclined to attribute the origin
+of this symbolic expression simply to the imagery of
+Plato's poetic mind, but am far more inclined to be-
+lieve that Plato was using a familiar figure of " Orphic "
+symbolism. The idea of not only an Ultimate Crater,
+
+450
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE CRATER OR CUP 451
+
+but of many subsidiary ones in the celestial and invisible
+realms, is closely connected with the " Orphic " idea of
+a Vortex.
+
+
+In ''Orpheus," Macrobius, and Proclus
+
+Orpheus is said to have called the ^ther the Mighty
+Whirlpool.^ This forms the Egg or Womb of Cosmos ;
+it is a modification of Chaos or Ehea, the Eternally-
+flowing, the Mother of the Gods, the Great Container.
+Thus Proclus, in speaking of Chaos, says :
+
+"The last Infinity, by which also Matter (vX)]) is
+circumscribed, is the Container, the field and plane of
+ideas. About her is ' neither limit, nor foundation, nor
+seat, but excessive Darkness.' " ^
+
+Plato, as we have seen, in his psychogony, speaks
+openly of this Cup or Crater (Mixing Space, or Vortex)
+in two aspects ; in it the Deity mixes the All-Soul of
+universal nature from the purest Cosmic Elements, and
+from it He also " ladles out " the souls of men, composed
+of a less pure mixture of these Elements.
+
+Further, Macrobius tells us that Plato elsewhere
+indirectly refers to another aspect of this Cup.
+
+" Plato speaks of this in the Phcedo, and says that
+the soul is dragged back into body, hurried on by new
+intoxication, desiring to taste a fresh draught of the
+overflow of matter,^ whereby it is weighed down and
+brought back [to earth]. The sidereal [astral] Crater of
+Father Liber [Dionysus, Bacchus] is a symbol of this
+mystery ; and this is what the Ancients called the
+
+^ TceKdopiov x^^o'Ma (Simplicius, Ausc,^ iv. 123) ; magna vorago
+(Syrianus, Metaph., ii. 33a). Of. Prolegg. ch. xi., " The Orphic
+Tradition of the Genesis of the World-Egg."
+
+2 Comment, in Tim.^ ii. 117. See my Orpheus, p. 154.
+
+2 Gnostic^, '* the superfluity of naughtiness.'
+
+
+Hosted by
+
+
+Google
+
+
+452 THRICE-GREATEST HERMES
+
+Eiver of Lethe, the Orphics saying that Father Liber
+was Hylic Mind/' ^
+
+We have here, therefore, a higher and lower Cup.
+Proclus, moreover, speaks of several of such Craters,
+when he writes :
+
+" Plato in the Philebus hands on the tradition of the
+Vulcanic Crater . . . and Orpheus is acquainted with
+the Cup of Dionysus, and ranges many such Cups round
+the Solar Table." 2
+
+Elsewhere, again, Proclus tells us that the Demiurge
+is said "to constitute the psychical essences in con-
+junction with the Crater " ; this " Crater is the peculiar
+cause of souls, and is co-arranged with the Demiurgus
+and filled from Him, but fills souls " ; thus it is called
+the Fountain of Souls.^
+
+If with these indications before us we might venture
+to generalize, we might say that, according to Orpheo-
+Pythagorean, Platonic, and Hermetic ideas, the " matter "
+of every "plane'' was thought of as proceeding from
+such a Crater or Cup, from within without, and the
+elements thereof as being refunded into such a Cup or
+Centre or Receptacle — that is, from a more subtle,
+simpler, and inner phase to a more gross, complex, and
+outer phase, and vice versd. In other words, the Crater
+is the ''monadic" or "atomic" state of the matter of
+any given phase or state of existence.
+
+
+The Vision of Arid^eus
+
+With the above data before us, it will also be in-
+structive to turn to the Vision of Aridaeus (Thespesius)
+
+1 Comment in Som. Scip., XI. ii. 66.
+
+2 Comment in Tim.^ v. 316 (Taylor's trans.).
+
+3 Taylor (T.), Theology of Plato, V. xxxi.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE CRATER OR CUP 453
+
+as related by Plutarch,^ a vision that may be com-
+pared with profit with the Vision of Er as told
+by Plato. Thespesius is being conducted through
+Hades, or the Invisible World in contact with
+earth-life, by a kinsman who has "passed over,'' as
+Spiritists would say, and curiously enough he there
+comes across a Chasm and a Crater — for part of the
+story runs:
+
+"After these explanations he was conducted by
+his kinsman at great speed across an immense space,
+as it seemed, nevertheless easily and directly as
+though supported by wings of light-rays ; until having
+arrived at a Vast Vortex (xda-juLo) extending down-
+wards, he was abandoned by the power that sup-
+ported him.
+
+"He observed also that the same thing happened
+to the rest of the souls there, for checking their
+flight, like birds, and sinking down, they fluttered
+round the Vortex in a circle, not daring to go straight
+through it.
+
+" Inside it seemed to be decked like Bacchic caves ^
+with trees and verdure and every kind of foliage, while
+out of it came a soft and gentle air, laden with
+marvellous sweet scents, making a blend like wine for
+topers, so that the souls feasting on the fragrance were
+melted with delight in mutual embraces, while the
+whole place was wrapt in revelry and laughter and the
+spirit of sport and pleasure.^
+
+"Thespesius' kinsman told him that this was the
+Way by which Dionysus ascended to the Gods and
+
+^ De Sera Numinis Vindicta, xxii. (ed. Bernardakis, iii. 454-
+466).
+
+2 Were the Baccliic Mysteries then celebrated in caves ?
+
+3 This is clearly in correspondence with the " Astral Crater of
+Father Liber " of Macrobius.
+
+
+Hosted by
+
+
+Google
+
+
+454 THRICE-GREATEST HERMES
+
+afterwards took up Semele ; ^ it was called the Place of
+Lethe (Oblivion).^
+
+" Wherefore he would not suffer Thespesius to stay
+there, though he wished to do so, but forcibly dragged
+him away, explaining how that the rational part of
+the soul was melted and moistened ^ by pleasure, while
+the irrational part, and that which is of a corporeal
+nature, being then moistened and made fleshly, awakens
+the memory of the body, and from this memory come
+a yearniug and a desire which drag down the soul into
+
+^ His " mother," from the under- world ; referring to the
+mysteries of generation and the indestructibility of life. Semele
+in giving birth to Dionysus the Son of Zeus (the Creative Power),
+is said to have been killed by the Power of her Lord, but she was
+subsequently restored to life among the Gods by the Power of her
+Son. In reincarnating, it is said that part of the soul in giving
+birth to itself in this state " dies." The " cliild " then born may,
+in his turn, in the case of one perfect, become the saviour of his
+"mother," now become his spouse, and raise her, who is also
+himself, to a higher state.
+
+2 Compare Pistis Sophia (336, 337), which tells us how certain
+karmic agencies " give unto the old soul [prior to reincarnation]
+a Draught of Oblivion composed of the Seed of Iniquity, filled
+with all manner of desire and all forgetfulness. And the moment
+that that soul drinketh of that Draught, it forgetteth all the
+spaces [or regions] through which it hath travelled, and all the
+chastisements through which it hath passed ; and that deadly
+Draught of Oblivion becometh a body external to the soul, like
+unto the soul in every way, and its perfect resemblance, and
+hence they call it the * counterfeit spirit.'"
+
+But in the case of the purified soul it is different ; for a higher
+power " bringeth a Cup full of intuition and wisdom, and also
+prudence, and giveth it to the soul, and casteth the soul into a
+body which will not be able to fall asleep or forget, because of
+the Cup of Prudence which hath been given unto it, but will be
+ever pure in heart and seeking after the Mysteries of Light, until
+it hath found them, by order of the Virgin of Light, in order
+that [that soul] may inherit the Light for ever." (ibid., 392,
+" Books of the Saviour.")
+
+3 Compare the "Moist Essence" of C. if., i. 4, and iii. (iv.) 1.
+
+
+Hosted by
+
+
+Google
+
+
+CONCERNING THE CRATER OR CTJP 455
+
+generation . . • the soul being weighed down with
+moisture.
+
+"Next Thespesius, after travelling another great
+distance, seemed to be looking at a huge Cup,-'- with
+streams flowing into it ; one whiter than the foam of
+the sea or snow, another like the purple which the
+rainbow sends forth, while from a distance the
+others were tinged with other colours, each having
+its own shade,
+
+" But when he came closer, the Cup itself (into which
+they flowed) — the surroundings disappearing, and the
+colours growing fainter — lost its varied colouring and
+only retained a white brilliance/'
+
+Compare also the Hellenist writer in the Naassene
+Document (§ 17 S.) : " The Greek theologi generally
+call Him [the Logos] the *' Heavenly Horn of Men,"
+because he has mixed and mingled all things with all/'
+
+On this the Jewish Gnostic writer comments : " This
+is the Drinking Vessel, — the Cup in which * the King
+drinketh and divineth/ "
+
+It is, says the Hellenist commentator again, " the
+Cup (of Anacreon) speaking forth speechlessly the
+Ineffable Mystery/'
+
+The Jewish commentator was a contemporary of
+Philo's, and the Hellenist was prior to him ; thus we
+see that the Cup symbol was used in precisely the
+same significance as in our text in at least the first
+century B.C., and that the idea was referred to the
+Greek theologers — in other words, the Orphics — and
+not to Plato.
+
+1 Kparifp — bowl or basin.
+
+
+Hosted by
+
+
+Google
+
+
+456 THRICE-GREATEST HERMES
+
+The Origin of the Symbol to be sought
+IN Orphic Tradition
+
+With the above data before us, I think we may be
+persuaded without difficulty that the idea of the Cup,
+or Mixing-Bowl, did not owe its origin to any invention
+of Plato's, but that the greatest of philosophers, when
+he makes use of the symbol, does but employ a familiar
+image well known to his audience — as, indeed, is very
+apparent in the summary fashion in which he intro-
+duces the figure. In other words, the symbol or
+image was a commonplace of the Orphic tradition, and
+doubtless, therefore, familiar to every Pythagorean.
+
+Now, in our treatise it is noticeable that this Cup-
+symbol is equated with the Monad ^ or Oneness — a
+technical Pythagorean term.
+
+1 It is of interest to notice that one of the apocryphal Books of
+Moses was called The Monady and another The Key ; this argues
+an early date and wide renown for our two treatises so entitled.
+See R. 182, n. 3.
+
+
+Hosted by
+
+
+Google
+
+
+XVI
+
+THE DISCIPLES OF THEICE-GEEATEST
+HEKMES
+
+Pta9, Sekhet and I-em-hetep (Asclepius)
+
+Budge, in his Gods of the Egyptians (vol. i. ch. xvi.),
+tells us that the Great Triad of Memphis consisted of
+Ptah, Sekhet, and l-em-^etep.
+
+Ptab, as we have seen, was the "Sculptor or
+Engraver," the Demiurge par excellence. He is called
+the "Very Great God who came into being in the
+earliest time " ; " Father of fathers, Power of powers " ;
+" Father of beginnings and Creator of the Egg[s] of the
+Sun and Moon " ; " Lord of Maat [Truth], King of the
+Two Lands, the God of the Beautiful Face . . . who
+created His own Image, who fashioned His own Body,
+who hath established Maat throughout the Two Lands" ;
+*' Ptah the Disk of Heaven, lUuminer of the Two Lands
+with the Fire of His Two Eyes." The " Workshop of
+Ptali " was the World Invisible.
+
+It was Ptal.i who carried out the commands concern-
+ing the creation of the universe issued by Thoth.
+
+The Syzygy or female counterpart of Ptab was
+Sekhet, " who was at once his sister and wife, and the
+mother of his son Nefer-Tem, and a sister-form of the
+Goddess Bast" {op. cit,, i. 514). She is called:
+" Greatly Beloved One of Ptah, Lady of Heaven,
+Mistress of the Two Lands " ; and one of her commonest
+names is " Nesert," that is " Flame."
+
+467
+
+Hosted by VjOOQIC
+
+
+458 THRICE-GREATEST HERMES
+
+It was Thoth (Tekh) who, with his Seven Wise Ones,
+planned the world (^5., 516). But if Ptah is the
+executive power of Thoth and his Seven Wise Ones, so
+is Thoth the personification of the Intelligence of Ptah.
+It is in this way that Sekhet becomes identified with
+Maat, the inseparable spouse of Thoth.
+
+Nefer-Tem
+
+The third id ember of the Memphite Triad is Nefer-
+Tem, or the *' Young Tern." In the Eitual (Oh. Ixxxi.,
+version B) we read the " apology " : " Hail, thou Lotus,
+thou type of the God Nefer-Tem ! I am he who
+knoweth you, and I know your name among the Gods,
+the Lords of the Underworld, and I am one of you."
+Again, in Oh. clxxiv. 19, Nefer-Tem is compared with
+" the Lotus at the nostrils of Ea " ; also, in Oh. clxxviii.
+36, Nefer-Tem has the same title.
+
+In the later texts Nefer-Tem is identified with
+many Gods, all of them forms of Horus or Thoth
+(ik, 522).
+
+Here we are in contact with the Ptah-tradition of
+Memphis which, we have seen, played an important
+part in the heredity of the cosmogenesis of our
+" Poemandres " tractate. In it the simultaneous identi-
+fication and distinction of Thoth and Ptah and of Maat
+and Sekhet are naturally explained, and the Son of
+these Powers is the Young Tem, identified with the
+Young Horus or Young Thoth who is to succeed his
+Father. Are we here on the track of the ancestry of
+our Tat ?
+
+At Heliopolis (Annu) the Ancient God Tem was
+equated with Ka. Tem was the Father-God, Lord of
+Heaven, and Begetter of the Gods (op. cit., i, 92, 93).
+Usertsen I. rebuilt the sanctuary of Heliopolis about
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE -GREATEST HERMES 459
+
+2433 B.C., and dedicated it to Ea in the two forms of
+Horus and Temu (*., 330).
+
+"Tern was the first living Man-God known to the
+Egyptians, just as Osiris was the first dead Man-God,
+and as such was always represented in human form
+and with a human head. . , .
+
+'' Tem was, in fact, to the Egyptians a manifestation
+of God in human form. ... It is useless to attempt
+to assign a date to the period when the Egyptians
+began to worship God in human form, for we have no
+material for so doing; the worship of Tem must,
+however, be of very great antiquity, and the fact that
+the priests of Ea in the Fifth and Sixth Dynasties united
+him to their God under the name of Ea-Tem, proves
+that his worship was wide-spread, and that the God
+was thought to possess attributes similar to those of
+Ea"(i&., 349, 350).
+
+In the Trismegistic tradition in which Thoth holds
+the chief place, the Young Tem would thus represent
+the Young Thoth who succeeded to his Father when
+that Father ascended to the Gods.
+
+Imhotbp-Imuth-Asclepius
+
+Moreover the Egyptian texts prove that besides
+Nefer-Tem still another Son of Ptah was regarded as
+the third member of the Memphitic Triad. This Son
+was called I-em-betep (or Imliotep), whom the Greeks
+called Imouthes or Imuth, and equated him with their
+Asclepius.
+
+The name I-em-hetep means "He who cometh in
+Peace," and is very appropriate to the God who brought
+the knowledge of Healing to mankind ; but I-em-^etep,
+though specially the God of medicine, was also the God
+of study and learning in general.
+
+
+Hosted by
+
+
+Google
+
+
+460 THRICE-GREATEST HERMES
+
+*'As a God of learning he partook of some of the
+attributes of Thoth, and he was supposed to take the
+place of this God in the performance of funeral cere-
+monies, and in superintending the embalming of the
+dead ; in later times he absorbed the duties of Thoth as
+* Scribe of the Gods/ and the authorship of the words
+of power which protected the dead from enemies of
+every kind in the Underworld was ascribed to him ''
+(ib„ 522, 523).
+
+In the " Ritual of Embalmment " ^ it is said to the
+Deceased: *'Thy soul uniteth itself to I-em-lietep
+whilst thou art in the funeral valley."
+
+The oldest shrine of the God was situated close to
+Memphis, and was called the " Temple of I-em-hetep,
+the Son of Ptah," which the Greeks called the
+Asclepieion.
+
+Under Ptolemy IV., Philopator (222-205 B.C.), a
+temple was built to I-em-betep on the Island of Philae,
+and from the hieroglyphic inscriptions we learn that
+the God was called : " Great One, Son of Ptab, the
+Creative God, made by Thenen, begotten by him and
+beloved by him, the God of divine forms in the temples,
+who giveth life to all men, the Mighty One of wonders,
+the Maker of times [?], who cometh unto him that
+calleth upon him wheresoever he may be, who giveth
+sons to the childless, the wisest and most learned one,
+the image and likeness of Thoth the Wise." ^
+
+Imhotep - Asclepius was thus the "image and
+likeness of Thoth the Wise," even as Nefer-Tem was
+
+1 See Maspero, op, cit, p. 80. Which of the numerous opp. citt
+of Maspero's this may be is not clear from Budge's reference.
+
+2 Cf. Brugsch, Thesaurus^ p. 783 ; Religion^ p. 527. Sethe,
+Imhotep, 1903 — so Budge; but, more accurately, Setlie (K.),
+Untersuchungen zur Geschichte und A Uertumskunde Agyptens, ii. 4
+("Imhotep, der Asklepios der Agj'pter"),
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE-GREATEST HERMES 461
+
+Young Thoth. Here we have precisely the distinction
+drawn between Asclepius and Tat in our Trismegistic
+literature ; Asclepius was trained in all philosophy, Tat
+was young and as yet untrained.
+
+" I-em-hetep/' concludes Budge, " was the God who
+sent sleep to those who were suffering and in pain, and
+those who were afflicted with any kind of disease
+formed his special charge ; he was the Good Physician
+both of Gods and men, and he healed the bodies of
+mortals during life, and superintended the arrangements
+for the preservation of the same after death. ... He was
+certainly the God of physicians and of all those who
+were occupied with the mingled science of medicine
+and magic ; and when we remember that several of the
+first Kings of the Early Empire are declared by
+Manetho, whose statements have been supported by
+the evidence of the papyri, to have written, i.e, caused
+to be edited, works on medicine, it is clear that the
+God of medicine was in Memphis as old as the archaic
+period" (i6., 624).
+
+So much for the more important information that
+Budge has to offer us on the subject of Asclepius-Imuth
+from the side of pure Egyptian tradition — if we can
+use such a phrase of that tradition as strained through
+the sieve of almost purely physical interpretation.^
+
+
+Thath-Tat
+
+And now let us turn to Eeitzenstein and his instruc-
+tive Dissertation, " Hermes u. Schtiler" (pp. 117 ff.).
+
+1 For Asclepius among the Greeks, see Thraemer's article
+"Asklepios" in Roscher's Lex, d, , , , Mythologie (Leipzig, 1884-
+1900), i. 615-641 ; also the '* Cornell Studies in Classical Philo-
+sophy," No. III., The Cult of AsMepios, by Alice Walton, Ph.D.
+(Ithaca, N.Y., U.S.A., 1894).
+
+
+Hosted by
+
+
+Google
+
+
+462 THRICE-GREATEST HERMES
+
+Unquestionably the most general form of sermon
+found in the remains of oar Trismegistic literature is
+that of instruction to Tat the '* Son " of Hermes, who is
+"Father" and Initiator. Of these instructions two
+Corpora existed, namely, '* The General Sermons " and
+*' The Expository Sermons."
+
+The name Tat is, of course, a variant of Thoth (Tehut) ;
+but whereas Hermes himself is always in such sermons
+characterised as Thrice - greatest, Tat has not yet
+reached to this grade of mastership ; he is still " Young."
+
+The name " Tat " occurs in one of the prayers in the
+Magic Papyri, part of which is undecipherable, and
+can only be translated by following the conjecture of
+Eeitzenstein (p. 117, n. 6).
+
+" Show thyself unto me in thy prophetic power God
+of mighty mind, Thrice-great Hermes ! Let him who
+rules the four regions of the Heavens and the four
+foundations of the Earth appear. Be present unto me
+thou in Heaven, be present unto me thou from the
+Egg. . . . Speak, the Two Gods also are round thee, —
+the one God is called Thath and the other Haf." ^
+
+Spiegelberg equates Haf with Hpj, the " Genius of
+the Dead " who appears coupled with Thoth in a Coptic
+Magic Papyrus of the second century a.d.,2 where Isis
+speaks of " my father Ape-Thoth." This thus seems to
+identify Haf with Anubis — that is, Harmanup or Horus
+as Anubis. And Anubis, as Hermes-Tat, was considered
+in Egyptian tradition to be a composer of sacred
+scripture.^
+
+1 Wessely, Denkschr. d. K. K, Akad. (1893), p. 38, U. 650 ff. ;
+Kenyon, Cat, of Gk. Fap.j p. 102.
+
+2 Griffith, in Zeitschr.f. ag. Spmche (1900), p. 90.
+
+^ According to Manetho ; see Miiller, Manetho Fragm., 4.
+
+
+Hosted by
+
+
+Google
+
+
+THE PISCIPLES OF THRICE -GREATEST HERMES 463
+
+
+The Incarnations of Thoth
+
+The prayer just cited appears to put us into contact
+with the atmosphere of some inner mysteries of
+spiritual instruction. The God or Spiritual Master
+contains in himself his disciple, or a duad or triad
+of disciples; the relationship of Master and disciple
+is of the most intimate nature ; not only is it of tThiat
+of father to son, but of mother to child — for the
+disciple is born in the womb of the Master Presence.
+The disciple is as it were his ka.
+
+Thus for the Egyptians, as Sethe and others have
+pointed out, the wise priest, that is a priest truly
+initiated into the Wisdom, was regarded as an incarna-
+tion of Thoth, and such an one after the death of his
+body was worshipped as Thoth.
+
+And so we find at Medinet Habu the remains of a
+shrine, erected in the time of Ptolemy IX. (Euergetes
+IT.)— 146-117 B.C. — to a certain Hiirh Priest of
+Memphis, Teos, who is called "Teos the Ibis,"^ that is
+Thoth, and so identified with Thoth himself.
+
+What we learn from the general tradition of this
+belief in the " incarnation " of Thoth into the perfected
+disciple of Wisdom, and the ascription of sacred
+literature to similar though not identical God-names to
+that of Thoth himself, is that there was on the one
+
+1 Teepliibis. 0/. Gatal, God, Astrol. GrcBC, i. 167: "Hermes
+Phibi the Thrice-greatest." Sethe {op. sup. cit.) would equate this
+Teephibis with Hermes of Thebes, in connection with the state-
+ment of Clement of Alexandria (Strom., I. xxi. 134) : " Of those,
+too, who once lived as men among the Egyptians, but who have
+been made Gods by human opinion, are Hermes of Thebes and
+Asclepius of Memphis." If this is correct, we have our Tris-
+megistus flourishing as Teephibis at the end of the second
+century B.C. But there seems to my mind to be nothing definite
+in Sethe's contention.
+
+
+Hosted by
+
+
+Google
+
+
+464 THRIOE-GREATEST HERMES
+
+hand a firm belief in the unity of the Thoth-tradition,
+and on the other a necessary division of the sacred
+literature into older and later periods. The Thoth of the
+older period was regarded as a God, the Thoth of more
+recent times as a God-man.^ And so we find Plato
+in the famous passage of the Philebus, 18 B, uncertain
+whether to speak of Thoth as God or man.
+
+The Disciples of Lord Hermes in Petosiris and
+Nechepso
+
+In the known oldest references to the Thoth-Hermes
+literature, there has so far not been discovered any-
+thing that suggests the existence of a distinction
+between Hermes [Thoth] and Tat [Thoth] ; but the
+absence of references proves little. Already, however,
+Nechepso and Petosiris, in the second century B.C.,
+make Hermes the teacher of the younger God-disciples
+Anubis and Asclepius; in which connection it is of
+interest to note the following passage from a horoscope
+for the first year of the Emperor Antoninus Pius,^ set up
+by the priests of Hermes at Thebes — the Greek of which
+is very faulty and evidently written by " Barbari " :
+
+"After enquiry based on many books, handed down
+to us by the wise Ancients, the Chaldseans, — both
+Petosiris,and especially King Necheus \sic; -i.e. Nechepso],
+in as much as they also took counsel of our Lord
+Hermes and of Asclepius, that is of Imouthes, son of
+Hephestus. . . ."^
+
+1 There is also an older and younger Isis in the K, K. extracts,
+and also in both these and in P. S. A, an older and younger
+Asclepius.
+
+2 R. (p. 119) has ^^des Kaisers Antonius" ; but I know of no
+Emperor so called. The first years of Antoninus Pius would be
+138-139 A.D.
+
+3 Pap, du Louvre, 19 his, Notices et Extraits, xviii. 2, 136.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE- GREATEST HERMES 465
+
+From this we learn that in the second century a.d.
+the writings of Petosiris and Nechepso, together with
+the " Chaldaean Books/' still formed part of the Temple
+Library at Thebes ; moreover, that Petosiris and
+Nechepso, in the second century B.C., based themselves
+on these Books as well as on Books ascribed to both
+Hermes and Asclepius. Moreover, from the Fragments
+of Nechepso ^ we learn that he had before him a
+sermon of Asclepius called Moirogenesis^ concerning the
+Genesis of Fate, and also Dialogues in which Hermes
+instructs Asclepius and Anubis concerning the mysteries
+of astrology. These Trismegistic works must thus be
+dated prior to the beginning of the second century B.C.
+
+Sethe, in his essay on Asclepius - Imhotep, has en-
+deavoured to show that this Imuth was originally a
+man, and that divine honours were first paid to him in
+the reign of Amasis (Amosis — Aah-mes), about 1700 B.a
+
+TosoTHRUs- Asclepius
+
+Manetho, however, tells us another story, when he
+writes of a certain king of the Third Dynasty (B.C.
+3700) : " Toso[r]thrus reigned twenty-nine years. He
+is called Asclepius by the Egyptians, for his medical
+knowledge. He built a house of hewn stones, and
+greatly patronised literature." ^
+
+Tosothrus is Tcheser or Tcheser-sa (Do^er), the
+second king of the Third Dynasty from Memphis.
+The " house of hewn stones " which he built, received
+remarkable confirmation from the excavations which
+were carried out by the Prussian General Minutoli
+in 1819,^ in the Step-Pyramid of Sakkara. This temple,
+
+1 Riess, Ft. 25.^
+
+2 Cory, An, Frags., p. 100. Budge, A History of Egypt
+(London, 1902), i. 218.
+
+2 Reise zum Tempel des Jupiter Amw,on, pp. 296 ff.
+
+VOL. I. 3a
+
+Hosted by VjOOQIC
+
+
+466 THRICE-GREATEST HERMES
+
+says Budge {op. cit., i. 219) "is cerfcainly the oldest of all
+the large buildings which have successfully resisted the
+action of wind and weather, and destruction by the
+hand of man."
+
+In the Inscription of the Seven Famine Years/
+moreover, belonging in its present form to the later
+Ptolemaic period, but a copy of a far more ancient
+record, we read, in Sethe's restored Greek text :
+
+"Tosothrus, in whose days (lived) Imouthes. He
+was considered by the Egyptians to be Asclepius
+because of his knowledge of the healing art ; he dis-
+covered the art of building with hewn stones, and,
+moreover, occupied himself with literature."
+
+We thus learn that long before Manetho's time there
+was an Asclepian literature, and not only did this deal
+with medicine but also with scripture in general and
+with "masonry."
+
+Imuth- Asclepius the Master Mason and Poet
+
+That Asclepius was specially occupied with the
+sacred building-art, may be seen from Sethe's study,
+whose industry has discovered a book on Temple-build-
+ing ascribed to Imuth, a " Book that came from Heaven
+northwards from Memphis." It was according to this
+Book that Ptolemy X. (Soter II.) and Ptolemy XI.
+(Alexander I.) enlarged the building of their ancestors
+at Edfu, **in agreement with the writing concerning
+the plans of the Temple of Horus, which the chief
+prelector of the priests, Imhotp, the son of Ptah, had
+written."
+
+There were also certain very ancient Sermons (or
+Songs) of Imhotp, and a saying from one of these
+
+^ A rock inscription found on the cataract island Sehel. R.,
+p. 129.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE -GREATEST HERMES 467
+
+Sermons, the " Song from the House of King Intf /' is
+given by Sethe as follows :
+
+'' I have heard the words of Imhotp and Hardadaf ;
+they are still much spoken of, but where are their
+abodes ? "
+
+Perhaps this explains the statement in S, H, I. (Stob.,
+Eg,, i. 49 ; W. p. 467, 4) that Asclepius-Imuth was the
+inventor of poetry. Imuth was to the Egyptians what
+Orpheus, Linus or Musseus was to the Greeks.
+
+And so Keitzenstein (p. 121) concludes that the
+tradition of the old Egyptian and Hellenistic literature
+is unbroken. In Hellenistic times this view of the
+Divine Son of Ptah of Memphis and of his chief Shrine
+at Memphis spread widely, and his cult was extended
+to Thebes and even to Philse. At Thebes he appears
+united with the Theban Thoth and his younger likeness
+or image Amenhotep — the twin-brother of Imhotep
+(Asclepius) — Son of Hapu, who is aaid to have lived
+as a man under King Amenophis III. (Amen-hetep),
+1450 B.C., and who tells us himself how he became
+acquainted with the " Book of God " and saw in vision
+the " Pre-eminence of Thoth." ^
+
+The chief Temple of Asclepius at Memphis was still
+honoured in later times, and even in the days of Jerome
+its priesthood was renowned for its occult wisdom.^
+
+^SCULAPIUS THE HEALER
+
+Of the Cult of iEsculapius in Greece and of the wide-
+spread influence of this ideal there is little need to remind
+the student of the comparative history of religions ; we
+cannot, however, refrain from appending a paragraph
+
+1 R., p. 124. Gf, Sethe, jEgypHaca, Festschrift fiir G. Ebers,
+pp. 106 if.
+
+2 Aramian. Marc, xxii. 14. 7 ; Vit, Hil, 21.
+
+
+Hosted by
+
+
+Google
+
+
+468 THRICE-GREATEST HERMES
+
+from a remarkable address recently delivered by the
+Eev. J. Estlin Carpenter to the students of Manchester
+College, Oxford,^ in which he says :
+
+" Pass beyond the limits of Israel and its hopes, and
+you enter a world of religious phenomena, so varied as
+to be practically inexhaustible, and all the patient
+labour of the last thirty years has only begun to exhibit
+to us its contents. At every turn you are confronted
+with beliefs resembling those which pervade our New
+Testament, so that Prof. Cheyne has recently attempted
+in a very remarkable little volume, BiUe Frohlems, to
+trace archaeologically the roots of four great doctrines
+associated with the person of Jesus — the Virgin Birth,
+the Descent into Hades, the Eesurrection, and the
+Ascension. The inscriptions reveal to you the very
+language of Christianity in the making. The hymns
+and liturgies of other faiths derive their strength from
+similar ideas, and express similar aspirations. Does
+Jesus, according to the Gospels, give sight to the blind,
+and call the dead back to life ? So does -^sculapius.
+He, too, is wondrously born; he, too, is in danger in
+his infancy. He, too, heals the sick and raises the dead,
+till Zeus, jealous of this infringement of his preroga-
+tives, smites him with his thunderbolt, and translates
+him to the world above. But from his heavenly seat
+he continues to exercise his healing power. His worship
+spreads all through Greece. After a great plague in
+Eome, in 291 B.C., it is planted on a sacred island in the
+Tiber. In the first century of our era you may follow
+it all round the Eastern Mediterranean. In Greece
+alone Pausanias mentions sixty-three Asklepieia. There
+were others in Asia Minor, Egypt, Sicily ; nearly two
+hundred being still traceable. They were both sanc-
+
+1 "Christianity in the Light of Historical Science," in The
+Examiner (London), Oct. 21, 1906, pp. 668 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE-GREATEST HERMES 469
+
+tuaries and medical schools. A number of inscriptions
+relate details of cures, or consecrate the ex-votos, which
+are still dedicated at Loretto or Lourdes. The temple
+by the Tiber won special fame in the reign of Anto-
+ninus Pius, for the restoration of the sight of a blind
+man. ^sculapius himself bears the titles *king' and
+Oeog (TWTYipy * divine saviour.' He was even crcorijp twv
+oXcDv, * saviour of the universe.' In his cosmic signi-
+ficance he was thus identified with Zeus himself, and
+on earth he was felt to be ' most loving to man ' (cp. Tit.
+iii. 4). Harnack, in one of the fascinating chapters of
+his Expansion of Ghristianityy has traced the action of
+these influences on later Christianity conceived as a
+religion of healing or salvation, medicine alike of body
+and of mind. It must be enough now to remind you
+that the god was believed to reveal himself to those
+who sought his aid, and Origen affirms that a great
+multitude, both of Greeks and barbarians, acknowledge
+that they ' have frequently seen, and still see, no mere
+phantom, but j^sculapius himself, healing and doing
+good, and foretelling the future.' "
+
+But to pass on to the Trismegistic Asclepius.
+
+
+AscLEPius IN Trismegistic Tradition
+
+Asclepius comes forward in our literature as the type
+of a disciple of Trismegistus already trained in philo-
+sophy. This prior training must presumably be referred
+to the Ptah-tradition — Ptah being himself a God of
+Kevelation, that is of teaching by means of apocalypsis,
+and Asclepius being originally his *' son " and " priest."
+But not only was Ptah a God of apocalypsis generally,
+but also a God of medicine, as he must needs have been
+for his son to have learned his wisdom from him.
+
+
+Hosted by
+
+
+Google
+
+
+470 THRICE-GREATEST HERMES
+
+This view is brought out in a Hellenistic text which
+reads as follows :
+
+" A Eemedy from the shrines of Hephaestus [Ptah] at
+Memphis interpreted by the decision and owing to the
+philanthropy, they say, of Thrice-greatest Hermes ; for
+he decided that it should be published with a view to
+man's saving. It was found on a golden tablet written
+in Egyptian characters." ^
+
+The tradition of the date when Asclepius was admitted
+to the Trismegistic discipline is given in K, K., 3
+(Stob., Ec, i. 49 ; W. p. 387, 1). After the ascension
+of Hermes, we are told:
+
+" To him succeeded Tat, who was at once his son and
+heir unto these knowledges ; and not long afterwards
+Asclepius-Imuth, according to the will of Ptah who
+is Hephaestus."
+
+What precise historical worth this tradition may
+contain, it is impossible to say ; all we can suppose is
+that there was at some early date a union of two
+schools of mystic discipline belonging respectively to
+the Thebaic and Memphitic traditions. This union
+may have been somewhat analogous to that of the
+disciples of John the Baptist and of Jesus. What is
+clear, however, from our Trismegistic writings, is that
+there is no doubt whatever in the writer's mind that
+the Trismegistic tradition is in possession of the higher
+wisdom; and, indeed, G, H.^ xiii. (xiv.) distinctly
+allows us to conclude that though Tat was younger, in
+so far as he had not the technical training of the
+Asclepius-grade, it is nevertheless Tat, when he reaches
+"manhood," and not Asclepius, who succeeds to the
+mastership of the School.
+
+Nevertheless we find a number of Trismegistic
+writings, presupposed especially in " The Definitions of
+^ God, Antinori 101, fol 361.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OP THRICE-GREATEST HERMES 47 1
+
+Asclepius " and in " The Perfect Sermon," in which both
+Tat and Asclepius share in a common instruction —
+Asclepius appearing as the older and riper scholar.
+
+This makes Eeitzenstein (p. 122) suppose that this
+type of what we may call a company of two disciples
+was invented by the Hermes priests at Thebes, and that
+it was later on taken over by the Memphitic Ptah-
+Asclepius priests and developed in their own interest.
+
+This may be so if we must be compelled to speculate
+on the dim shades of history which may be recovered
+from these obscure indications.
+
+
+Concerning Ammon
+
+Of the Trismegistic writings of Asclepius, Lactantius
+{D. J., ii. 15, 7) mentions a " Perfect Sermon " to the
+King (Ammon),^ and also refers to a rich ancient
+literature by Asclepius addressed to the same king.
+
+Eeitzenstein (p. 123), moreover, says that G. H,^
+(xvii.) presupposes writings addressed to the same
+King Ammon by Tat ; but I gather that the persons
+of the dialogue are really Asclepius and the King, and
+not Tat, and that Tat has been substituted for
+Asclepius by some copyist in error.
+
+However this may be, there was a large literature
+addressed by Hermes himself to Ammon, as we may
+see from the distinct statement in P, S. A,, i. 2, and also
+from Stobseus, Exx. xii-xix. The same tradition is
+preserved in the presumably later Hermetic treatise,
+latromathematica, which is also addressed to Ammon.^
+
+^ Probably our (7. H, (xvi.).
+
+2 Camerarius, Astrologica (Niirnberg, 1537) ; Hermetis latro-
+math., ed. Hoescliel (1597) ; Ideler, Physici et Medici Greed MinoreSj
+i. 387 and 430. latromathematici were those who practised
+medicine in conjunction with astrology, as was done in Egypt
+(ProcL, Paraph, Ptol.^ p. 24).
+
+
+Hosted by
+
+
+Google
+
+
+472 THRICE-GREATEST HERMES
+
+
+Prophet and King
+
+Here, then, we have another type of literature, and
+that, too, very ancient, in which the wise Priest and
+Prophet is set over against the King as teacher or
+discoverer of hidden wisdom. This we have already
+seen to have been the relationship between the Priest
+and Prophet Petosiris and King Nechepso. But the
+type goes still further back to pre-Greek times in
+Egypt. It was, as we have learned from Plutarch, who
+probably hands on the information direct from Manetho,
+a necessity that the King, to be a true King, should be
+initiated into the wisdom of the Priests.
+
+As we have already seen, Imuth-Asclepius appears
+in Manetho as an inventor, so also in the charming
+story put into the mouth of Socrates by Plato in his
+Phcedrus (274 c) about '*the famous old God whose
+name was Theuth," — Thoth is the inventor ^ar excellence.
+In this story — which elicits the remark from Phsedrus :
+"Yes, Socrates, you can easily invent tales of Egypt,
+or of any other country '' — Thoth takes his inventions
+to a certain King Thamus for his approval or dis-
+approval, as to whether or no the Egyptians might
+be allowed the benefit of them. This Thamus was
+" King of the whole country of Egypt, and dwelt in
+that great city of upper Egypt which the Hellenes call
+Egyptian Thebes, and the God Himself is called by
+them Ammon."
+
+In Hecateeus, also, Osiris, King of Thebes, has all
+
+inventions laid before him, and gives special honour to
+
+Hermes whose inventions were far and wide renowned.^
+
+In this connection it is to be noted that in the
+
+Theban Thoth-cult, Thoth was regarded as the Eepre-
+
+
+1 Diodor., I 16, 16.
+
+/Google
+
+
+Hosted by ^
+
+
+THE DISCIPLES OF THRICE -GREATEST HERMES 473
+
+sentative of the King and Light-God Ea (or Ammon).
+And so we read on the tomb of Seti I. :
+
+" Thou art in my place, my representative. Wherefore
+are thou moreover called Thoth, Representative of the
+Light-God Ea."i
+
+From these and other indications it is quite possible
+to conclude that Plato has used an ancient Egyptian
+logos as the basis of his story, and that this logos at a
+very early period found an echo in written instructions
+given by Thoth to the King.
+
+All this took place on purely Egyptian ground, and
+hence the type of instruction from Thoth-Hermes to
+Ammon was fairly established in tradition before it was
+taken over by our Hellenistic Trismegistic writers,
+
+Amenhotep-Asclepius
+
+So far, however, I believe, no reference to books
+written by Imhotep (Asclepius) to Ammon in the
+pre-Greek period has been discovered. Sethe,^ how-
+ever, tells us that a certain Amenhotep who lived as
+early as the fifteenth century B.C., was a disciple and seer
+of Thoth. This Amenhotep was famous as a teacher
+of wisdom and discoverer of magic books; he was
+probably also renowned for his own writings as well.
+Gradually this Amenhotep became blended with
+Imhotep-Asclepius as his twin-brother, and finally in
+Ptolemaic times received divine honours at Thebes.
+Here, then, we have the blending in of another tradition,
+of a writer of books who was a disciple of Thoth, and
+was gradually confounded with Asclepius-Imuth, son of
+Ptah. And that there were two Asclepiuses, an older
+and a later, we are told distinctly by P. S, A,, xxxvii. 3.
+
+1 Brugsch, Religion u. Myth, d alt, Ag,, p. 451.
+
+2 Op. sup, cit., ibid.
+
+
+Hosted by
+
+
+Google
+
+
+474 THRICE-GREATEST HERMES
+
+Of the Sayings of this Asclepius a Greek porcelain ^
+gives us some idea. The first three Sayings, however,
+are simply taken from the Sayings of the Seven Sages
+of Greece ; the rest may be partially Egyptian. This
+scrap of evidence, however, is of importance ; for already
+in the third century B.C., Orphic Sayings are known to
+have been worked up with Egyptian material, and here
+we have Greek gnomic material blended with an
+Egyptian Imuth-tradition of Sayings.
+
+Perhaps still more careful research may reward us
+with further side-lights on the development of this
+Asclepius-literature prior to the Greek period, and in
+its earliest Hellenistic forms. As it is, we are left with
+the impression that the traces which have been already
+discovered, justify the remarks made by the writer of
+our Trismegistic "Definitions of Asclepius unto the
+King " or " The Perfect Sermon of Asclepius unto the
+King*' — C. H., (xvi.) — as based upon a well-established
+tradition in the School, concerning the change brought
+about by putting the Egyptian forms of the Asclepian
+writings, which were of a very mystical nature, into
+the more precise forms of the Greek tongue.
+
+The Sacked Gkoup of Eour
+
+What, however, is clear in " The Perfect Sermon '' of
+Hermes himself, where he gives instruction to his three
+disciples, Asclepius, Tat and Ammon, assembled in the
+'*holy place," is that the history of the matter is of
+small moment to the writer of that Sermon. He is
+dealing with the inner and more intimate side of the
+teaching. Asclepius, Tat and Ammon are for him the
+sacred triad, forming with the Master himself the
+*' sacred group of four " (P. 8. A., i. 2).
+
+1 Published by Wilcken in the " Festschrift fiir Ebers," pp. 142 ff.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE -GREATEST HERMES 475
+
+With this we may very well compare the group of
+three made so familiar to us by the Evangelists — the
+three who were always with the Master in the most
+intimate moments of His inner life and exaltation —
+James, John and Peter.
+
+Now, if the reader will refer to my notes on the last
+paragraph of Hippolytus' Introduction to the Naassene
+document, he will see that Clement of Alexandria
+expressly asserts that :
+
+" The Lord imparted the Gnosis to James the Just, to
+John and Peter, after His Eesurrection ; these delivered
+it to the rest of the Apostles, and they to the Seventy."
+
+James, John and Peter
+
+Here I would suggest that we have a similarity of
+conception. Asclepius is the main subsequent teacher,
+even as James is, m Christian tradition ; Peter is the
+organiser, to whom the rulership over the Church is
+given — he represents the king-power, and may be equated
+with Ammon ; while John is the Beloved even as is Tat.
+
+John understands the spirit of the teaching best of all ;
+James is more learned on the formal side ; while Peter
+is the organiser, and in many an apocryphal story is made
+to display lack of control and want of understanding.
+
+A most interesting scrap of Johannine tradition will
+throw some further light on the fact that John
+succeeded to the spiritual directorship, even as Tat, in
+our sermons, succeeds to Trismegistus.
+
+This scrap is an addition to John xvii. 26, from a
+Codex of the Fourth Gospel, preserved in the Archives
+of the Templars of St John of Jerusalem in Paris : ^
+
+1 Given by Thilo, Godex Apocryphus Novi Testainenti (Leipzig,
+1832), p. 880. a/. Pick (B.), The Extra-Ganonical Life of Christ
+(New York, 1903), p. 279.
+
+
+Hosted by
+
+
+Google
+
+
+476 THRICE-GREATEST HERMES
+
+" Ye have heard what I said unto you : I am not of
+this world, the Comforter is among you, teach through
+the Comforter. As the Father has sent Me, even so
+send I you. Amen, I say unto you, I am not of this
+world ; but John shall be your Father, till he shall go
+with Me into Paradise. And He anointed them with
+the Holy Spirit."
+
+So also in an addition to John xix. 26-30, we read :
+
+" He saith to His mother, Weep not ; I go to My
+Father and to Eternal Life. Behold thy son! He
+will keep My place. Then saith He to the disciple,
+Behold thy mother ! Then bowing His head He gave
+up the Ghost."
+
+Here then at the Supreme Crisis the Master con-
+stitutes John the spiritual Father of the School in His
+place. So is it with Tat.
+
+
+The Triad of Disciples
+
+The idea of triads and other groups {e.g, of five and
+seven) united in the Presence of a Master, is familiar to
+the student of Druidical mysticism. In our " Perfect
+Sermon" we have such a triad, each disciple dis-
+tinguished by strongly-marked characteristics ; the
+tuning of these into one harmony, so that, to use
+another and a familiar simile, the disciples may be as
+the fingers of one hand, for the Master's use, is a matter
+of enormous difficulty. One is characterised by Power,
+another by Knowledge, and another by Love. All
+three must sink their individually strongest character-
+istic in a supreme sacrifice, where all blend together
+into the Wisdom of the Master. This seems to me to
+be the inner purport of our "Perfect Sermon," and
+whatever may be the history of the evolution of the
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OF THRICE-GREATEST-HERMES 477
+
+forms of the literature, the eternal fact of the nature of
+the intimate teaching of the Christ to the Three was
+known to our writer.
+
+
+Chnum the Good Daimon
+
+Let us now turn to the type of Trismegistic literature
+in which Osiris and Isis came forward as disciples ; and
+first of all let us take a glance at the God Chnum,
+Chnubis, or Chnuphis (Knuphis), whose name occurs in
+so many of the Abraxas and Abraxoid gems.
+
+Chnum was for Southern Egypt precisely what Ptah
+of Memphis was for Northern Egypt. He was the
+Fashioner of men, even as a potter makes pots on a
+wheel. Chnum was Demiurge and God of the heart.
+The chief centre of his cult was at Syene and the Island
+of Elephantine. Here he was regarded as the Father
+of Osiris. And so we hear of astrological dialogues
+betw^een Chnum and Osiris, as, for instance, when we
+are told :
+
+"And all that Kouphis, who is with them [the
+Egyptians], the Good Daimon, handed on, and his
+disciple Osiris philosophized." ^
+
+These writings were grouped with those of Nechepso,
+and also with our Trismegistic writings. Compare the
+passage in Firmicus Ma tern us which runs :
+
+" All things which Mercurius (Hermes) and Chnubis
+[?] handed on to ^sculapius (Asclepius), which Petosiris
+discovered and Nechepso." ^
+
+1 Cramer, Anecd. Ox,, in. 171, 20.
+
+2 Fir. Mat.j iv. procem. 5 (Skutsch and KroU, p. 196, 21).
+The " and Chnubis " is the emendation of R. for the unintelligible
+letters *' einhnusidx.^''
+
+
+Hosted by
+
+
+Google
+
+
+478 THRICE-GREATEST-HEKMES
+
+OsiKis Disciple of Agathodaimon the
+Thrice-greatest
+
+The Patristic references to our Trismegistic literature
+further imform us that Osiris was regarded as the dis-
+ciple of Agathodaimon, who in them bears the name of
+Thrice-greatest.^ There is, however, nothing to show
+that Hermes himself appears in them as the disciple of
+Chnubis, as Eeitzenstein says (p. 126). The intro-
+ductory phrase of Lactantius to Frag. xix. runs : " But
+1 [L.] will call to mind the words of Hermes the Thrice-
+greatest ; in the * To Asclepius ' he says : ' Osiris said :
+How, then, thou Thrice-greatest, [thou] Good Daimon,
+did Earth in its entirety appear ? ' "
+
+Here we have a sermon of Hermes quoting from a
+tradition in which Osiris appears as the disciple of
+Agathodaimon, who is also called Trismegistus ; that is,
+the Agathodaimon-Osiris Dialogue type was old, and
+presumably pertained to one of the earliest forms of the
+Trismegistic literature, probably contemporary with the
+most ancient Poemandres type. This type seems to have
+borne impressions of the form of the " Books of the
+Chaldaeans " type of cosmogenesis, which we have seen
+to have strongly influenced Petosiris and Nechepso in
+the early second century B.C.
+
+Agathodaimon is to Osiris as Poemandres to Hermes.
+
+LOGOS-MiND THE GOOD DAIMON
+
+So also in the early Alchemical literature there is a
+treatise of Agathodaimon addressed to Osiris, and in
+it others are presupposed.^ These Alchemical teachings
+of the Good Daimon are frequently in close contact with
+
+^ Gf. Lactantius Fragg., xiv., xix., xxi., xxii.
+2 Berthelot, Les AlcMmistes grecs, Texte, p. 268.
+
+
+Hosted by
+
+
+Google
+
+
+THE DISCIPLES OP THRICE-GREATEST HERMES 479
+
+our Trismegistic doctrines ; moreover, in the same litera-
+ture, Hermes refers to Agathodaimon and appears to
+regard himself as his disciple.^ It thus may be sup-
+posed that it was from Chnum that was originally-
+derived the tradition of the Agathodaimonites. So
+thinks Eeitzenstein ; but I do not think that we have
+sufficient evidence as yet for so general a conclusion.
+The term Agathodaimon is a very general one, it is true,
+but the whole idea cannot be refunded into Chnum ; in
+fact, Osiris is quite as much Agathodaimon as Chnum,
+and in C, H., xii. (xiii.), which deals with the General
+Mind, Good Mind, or Good Daimon, Agathodaimon is
+taken in the most general sense, and in the three quota-
+tions there made by Hermes from the " Sayings of the
+Good Daimon" (§§ 1, 8, 13),^ we find that they are in
+the words of Heracleitus as inspired by the Logos ; so
+that in reality Agathodaimon must be equated with
+Logos. The origin of Agathodaimon is then not solely
+Chnum ; and Hermes therefore cannot be spoken of as
+the disciple of Chnubis, unless we can cite texts in
+which Thoth is so described.
+
+In our Trismegistic literature the teaching is quite
+simple and distinct ; as, for instance, in O, H,, x. (xi.) 23 :
+*' He [Mind] is the Good Daimon."
+
+When, however, Eeitzenstein (p. 128) declares that
+the sentence in § 25 of the same sermon, ** For this
+cause can a man dare say that man on earth is God
+subject to death, while God in heaven is man from
+death immune,"^ is a saying belonging to the Chnu-
+
+1 Op. cit, pp. 125, 156-263.
+
+2 We meet with a similar collection of Sayings, or Summaries
+of the chief points of teaching, in the Stobsean Ex. i. 7 ff., belong-
+ing to the Tat-literatnre, and also in C, If., x. (xi.), xiv. (xv.), and
+(xvi.).
+
+3 A very similar phrase occurs in Dio Cassius, Fr. 30 ; i. 87,
+ed. Boiss.
+
+
+Hosted by
+
+
+Google
+
+
+Hosted by
+
+
+Google

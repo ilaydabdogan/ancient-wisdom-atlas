@@ -1,0 +1,74 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_firstpartofroyal02vega
+  work_id: inca.royal_commentaries.garcilaso_markham_archive
+  title: First Part of the Royal Commentaries of the Yncas, Vol. II
+  source_url: https://archive.org/details/firstpartofroyal02vega
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/firstpartofroyal02vega-royal-commentaries-yncas-garcilaso-markham-vol2.txt
+    checksum:
+      algorithm: sha256
+      value: 154f0b2fd4f5eb068a23a7fa4e5a9b1073dc03c8144fb9913c1342d2b69726f6
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/firstpartofroyal02vega-royal-commentaries-yncas-garcilaso-markham-vol2.md
+    checksum:
+      algorithm: sha256
+      value: 0e89b91876e65c31dbf04596c0ddd5620607debd9652d4caa7c93bded98b1100
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+    checksum:
+      algorithm: sha256
+      value: aaa54036b0f6a959ee83ca4adadab6b6aa50ca8387d40de3017ea6b12307da40
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids inca.royal_commentaries.garcilaso_markham_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1871, US public domain (Vol. II of two). PARAPHRASE/memoir -
+      Garcilaso, son of an Inca princess and a Spanish conquistador, retells Inca
+      origin myth, sun theology, and dynastic history from memory and family oral
+      tradition decades later; flag as insider-but-literary colonial chronicle (mid-ladder).
+      Vol. I (firstpartofroyal01vega) is a companion, currently returning transient
+      errors on archive.org.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

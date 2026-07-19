@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mlbd.sacredbooksofeas0000fmax.vol.16
+  work_id: chinese.i_ching.sbe16.legge_archive
+  title: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  source_url: https://archive.org/details/mlbd.sacredbooksofeas0000fmax.vol.16
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/mlbd.sacredbooksofeas0000fmax.vol.16-i-ching-legge.txt
+    checksum:
+      algorithm: sha256
+      value: ede7caa140912ee5604222a788168602d8ddfea18cebed13ed0badaecd82b228
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mlbd.sacredbooksofeas0000fmax.vol.16-i-ching-legge.md
+    checksum:
+      algorithm: sha256
+      value: 93e53bb408594e8d7ad21b133aa0395c85ddae234e55c166bf43469997d3d1b5
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+    checksum:
+      algorithm: sha256
+      value: 9c2136063f812a5ced428bbaae1528068b752cd71b435a0d9f9e71a8a74e0095
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.i_ching.sbe16.legge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Legge's translation published 1882, US public domain. Scan is a modern
+      MLBD reprint; strip ISBN/reprint front matter before conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

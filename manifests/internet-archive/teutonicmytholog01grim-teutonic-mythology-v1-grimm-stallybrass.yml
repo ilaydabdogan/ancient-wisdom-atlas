@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_teutonicmytholog01grim
+  work_id: germanic.teutonic_mythology_v1.grimm_stallybrass_archive
+  title: Teutonic Mythology, Volume 1
+  source_url: https://archive.org/details/teutonicmytholog01grim
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/teutonicmytholog01grim-teutonic-mythology-v1-grimm-stallybrass.txt
+    checksum:
+      algorithm: sha256
+      value: 1fe75d7466e1a6e8fa4be374377de173fc625c6a05cc037807671aa434eb1871
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/teutonicmytholog01grim-teutonic-mythology-v1-grimm-stallybrass.md
+    checksum:
+      algorithm: sha256
+      value: e1707922a4ed0acdfee21f1b8da192107b38307a5b701150ed4e2c7bb78ca14e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+    checksum:
+      algorithm: sha256
+      value: c0f83e492a05e5c01cf7e37f2b8bbb19c21278f155c8d511641965755db6b861
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids germanic.teutonic_mythology_v1.grimm_stallybrass_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Grimm died 1863; Stallybrass translation published 1882 (pre-1930), US
+      public domain. Hosted file is OCR text of a library scan; expect heavy OCR noise,
+      footnotes, and non-Latin characters requiring cleanup during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

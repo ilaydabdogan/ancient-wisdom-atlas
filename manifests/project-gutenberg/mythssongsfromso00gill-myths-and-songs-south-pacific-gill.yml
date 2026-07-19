@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mythssongsfromso00gill
+  work_id: polynesian.myths_songs_south_pacific.gill_archive
+  title: Myths and Songs from the South Pacific
+  source_url: https://archive.org/details/mythssongsfromso00gill
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/mythssongsfromso00gill-myths-and-songs-south-pacific-gill.txt
+    checksum:
+      algorithm: sha256
+      value: df65a910abd70c5c0fb90f29504569e06662b524a8a8c2d34d795ad3e6297b39
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mythssongsfromso00gill-myths-and-songs-south-pacific-gill.md
+    checksum:
+      algorithm: sha256
+      value: cafcb9ace79d8a6c9f7bc7150178dd18f768e9ae97728eb46338832e2aeb3e11
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+    checksum:
+      algorithm: sha256
+      value: aac6baf10e3d715dbb7e5d6468330f876398566587fda2ccd269d0bc2c2630ca
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids polynesian.myths_songs_south_pacific.gill_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1876, US public domain. Gill was a missionary but a careful recorder
+      who prints many chants and songs with parallel Polynesian (Mangaian/Rarotongan)
+      text and English translation, so substantial portions are VERBATIM. His Christian
+      framing in the connecting prose should not be extracted as Mangaian self-description,
+      but the song texts are primary.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

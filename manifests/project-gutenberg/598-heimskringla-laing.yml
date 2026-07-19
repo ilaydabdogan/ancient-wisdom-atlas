@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_598
+  work_id: norse.heimskringla.laing_gutenberg
+  title: Heimskringla; Or, The Chronicle of the Kings of Norway
+  source_url: https://www.gutenberg.org/ebooks/598
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/598-heimskringla-laing.txt
+    checksum:
+      algorithm: sha256
+      value: 1c3850032b20ce159eba4b8dba4b8b5a2647561aede41842f67bd1eaf123af2d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/598-heimskringla-laing.md
+    checksum:
+      algorithm: sha256
+      value: 1e329ccf0a18a49bc8eae21f33c4ab7aca2b922ba9b80cc3652536fa5e8a38f5
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+    checksum:
+      algorithm: sha256
+      value: 5fd1c9f9a3d7365a24805a1e083c0668795aa73e8817d1f8b1eb5e252fa6db2f
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids norse.heimskringla.laing_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Snorri
+      Sturluson's kings' sagas in Laing's classic translation.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

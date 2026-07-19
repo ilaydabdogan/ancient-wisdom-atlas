@@ -1,0 +1,22745 @@
+---
+id: persian.shahnama.warner_v2_archive
+title: The Shahnama of Firdausi, Vol. II
+alternate_titles:
+- Shahnameh
+- Rustam and Suhrab
+text_status: complete
+tradition: persian
+culture: persian_national_epic_later_translation
+region: iran
+source_language: Classical Persian
+text_language: English
+date_range: epic completed c. 1010 CE; Warner verse translation vol. II published
+  1906
+source_type: text
+provenance:
+  source_id: source.internet_archive.shahnama02firduoft
+  edition: Internet Archive full-text OCR (_djvu.txt) of Kegan Paul, Trench, Trubner
+    1906 second volume of the nine-volume Warner verse translation (University of
+    Toronto scan)
+  translator: Arthur George Warner and Edmond Warner
+  editor: ''
+  publication_year: 1906
+  publisher: Internet Archive
+  source_url: https://archive.org/details/shahnama02firduoft
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1906, US public domain. Volume II of nine; covers the Kaianian
+    material including Rustam's Seven Stages, Suhrab, and Siyawush.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- shahnameh
+- rustam
+- suhrab
+- siyawush
+- heroic_trials
+motifs:
+- seven_trials_of_the_hero
+- father_slays_son
+- innocent_prince_martyred
+- fire_ordeal
+- otherworld_journey
+figures:
+- Rustam
+- Suhrab
+- Siyawush
+- Kai_Kaus
+- Afrasiyab
+---
+
+# The Shahnama of Firdausi, Vol. II
+
+1  The  second  edition   of  Part   I.   is  referred  to   unless  otherwise
+specified.
+
+
+6  NOTE   ON  PRONUNCIATION
+
+RP.  Professor  Rawlinson's  Parthia  in  The  Story  of  the  Nations'
+Series.
+
+SAC.  The  Chronology  of  Ancient  Nations  ...  of  Albiruni  .  .  .
+translated  ...  by  Dr.  C.  Edward  Sachau.
+
+WPT.  Dr.  E.  W.  West's  Trans,  of  the  Pahlavi  Texts  in  the  Sacred
+Books  of  the  East.  Reference  to  Parts  and  pages.
+
+ZT.  Chronique  de  Abou-Djafar-Mo'hammed-Ben-Djarir-Ben-
+Yezid  Tabari.  Traduite  sur  la  version  Persane  d'Abou-
+'Ali  Mo'hammed  BePami  par  M.  Hermann  Zotenberg.
+
+
+NOTE   ON   PRONUNCIATION
+
+d  as  in  "  water."
+
+i  as  in  "  pique."
+
+f«  as  in  "  rude."
+
+a  as  in  "  servant."
+
+i  as  in  "  sin."
+
+u  as  in  "  foot."
+
+ai  as  i  in  "time."
+
+au  as  ou  in  "  cloud.'"'
+
+g  is  always  hard  as  in  "  give."
+
+kh  as  ch  in  the  German  "  buch."
+
+zh  as  z  in  "azure."
+
+
+II
+
+THE  KAllNIAN  DYNASTY
+
+
+ARGUMENT
+
+The  poet  continues  and  ends  the  story  of  the  great  feud  between
+the  descendants  of  Iraj  and  Tur.  It  is  set  out  at  large  and  ends
+with  the  triumph  of  the  former.
+
+He  then  tells  of  the  coming  of  Zarduhsht  (Zoroaster),  of  his
+evangel,  and  of  the  religious  wars  that  ensued,  taking  occasion
+in  this  connexion  to  rescue  from  oblivion  the  name  of  the  poet
+Dakiki.
+
+He  next  narrates  the  extinction  of  the  heroic  race  of  Iran,  and
+the  circumstances  that  led  to  the  conquests  of  Sikandar  (Alexander
+the  Greafc),  with  whose  death  the  Kaianian  dynasty  comes  to
+an  end.
+
+
+NOTE
+
+The  word  Kai,  from  which  the  adjective  Kaianian  is  derived,
+is  found  in  the  Vedas  under  the  form  of  Kavi,  where  it  means
+a  seer  or  priest,  and  is  especially  applied  to  the  priest  who,
+by  drinking  the  intoxicating  juice  of  the  Soma  plant,1  became
+inspired.  In  the  Zandavasta  Kai  is  used  in  two  very  different
+senses.  In  one  of  these,  and  particularly  in  the  sacred  hymns
+known  as  the  Gathas,  it1  is  synonymous  with  'heretic,'  in  the  other
+it  forms  a  part  of  the  names  of  a  whole  dynasty  of  Iranian  heroes,
+who  are  known  collectively  as  the  Kavyans  or  Kaians.  This  two-
+fold use  has  been  appealed  to  by  Haug  to  support  his  theory  that
+Zoroastrianism  sprang  from  a  schism  among  the  Brahmins — a
+theory  which  has  been  much  disputed.2
+
+In  the  Shahnama  also  the  word  is  used  in  two  senses,  as  a  general
+term  for  a  great  king  or  ruler,  and  as  the  distinctive  title  of  the
+royal  house  of  Kubad,  the  founder  of  the  Kaianian  dynasty.  This
+consists  of  ten  Shahs,  who  fall  into  two  groups.  The  first  contains
+three  Shahs — Kubad  himself,  his  son  Kaus,  and  his  great  grandson
+
+
+1  See  vol.  i.  p.  8.
+
+2  For  the  above,  see  HEP,  289  seq.  ;  DZA,  i.  xxx.
+
+
+NOTE  9
+
+Khusrau.  With  the  last  of  these  the  old  epic  cycle  of  the  poem
+conies  to  an  end,  and  up  to  this  point  the  Kaidnian  may  be
+regarded  as  the  complement  of  the  Pishdadian  dynasty.  We  are
+then  introduced  to  the  second  group — the  Sh«lhs  of  the  house  of
+Luhrdsp — Luhrasp  himself,  Gusht&sp,  Bahman,  Humiii,  D;ir;il>,
+Dara,  and  Sikandar.  Luhrasp,  though  of  Kaian  race,  is  represented
+as  owing  his  accession  to  the  throne  to  the  nomination  of  Khusrau.
+With  the  accession  of  Luhrasp  a  new  epic  motive  is  introduced —
+a  religious  one — and  the  scene  of  action  is  shifted  to  Balkh.  A
+very  noticeable  feature  of  this  part  of  the  poem  is  the  prevalence
+of  the  termination  'asp,'  the  Persian  word  for  'horse,'  in  the  names
+of  the  chief  characters.  Thus  we  have  Luhrasp  himself,  his  son
+Gushtasp,  and  the  great  minister  Jamasp,  while  we  know  from
+other  sources  that  the  name  of  the  father  of  Zarduhsht  (Zoroaster)
+was  Paurushasp.1  It  is,  however,  still  more  remarkable  to  find  that
+the  reigning  king  of  Tiiran  of  the  period  is  named  Arjasp.2  It
+looks  as  if  the  wars,  admittedly  religious,  between  Gushtasp  and
+Arjasp  were  not  waged  between  the  Iranians  and  Turanians  at  all,
+though  they  came  in  time  to  be  looked  back  upon  as  such,  but
+were  wars  between  the  Iranians  themselves  due  to  the  dissensions
+caused  by  the  evangel  of  Zarduhsht.
+
+Professor  Duncker,  who  is  concerned  to  antedate  the  Zandavasta  as
+far  as  possible,  is  inclined  to  regard  Luhrasp  and  Gushtasp  as  kings
+of  an  ancient  dynasty  nourishing  at  Balkh  about  1000  B.C.3  This
+of  course  is  opposed  to  the  old  notion  which  sought  to  identify  and
+to  synchronise  the  chief  characters  and  events  of  the  Kaianian
+dynasty  with  the  accounts  found  in  Greek  authors  of  the  so-called
+Median,  and  first  Persian,  empires.*'  So  far  as  authentic  history
+is  concerned,  however,  it  may  be  stated  broadly  that  there  is  no
+common  ground  between  the  Shdhnama  and  the  works  of  ancient
+Greek  writers  till  we  reach  the  epoch  of  Sikandar — Alexander  the
+Great — and  even  then  the  consensus  is  due  to  the  fact  that  Firdausi
+derived  his  information  from  the  modified  version  of  the  Pseudo-
+Callisthenes — a  romantic  legendary  history  of  Alexander  the  Great
+— which  he  found  ready  to  his  hand  among  his  other  authorities.
+With  regard  to  legend  the  case  is  different.  The  two  main  Greek
+versions  of  the  youth  of  Cyrus  the  Great  may  be  identified  in  the
+Shahnama,  that  of  Herodotus  in  the  account  of  the  birth  and
+bringing  up  of  Kai  Khusrau,  and  that  of  Ctesias  in  the  account  of
+
+
+1  WPT,  i.  141.
+
+2  An  Arjdsp  appears  among  the  chiefs  of  Afrtisiydb  as  early  as  the
+reign  of  Kai  Kaus.     See  p.  264.
+
+3  DHA,  v.  48.  4  See,  for  instance,  MHP,  i.  512  seq.
+
+
+io  THE   SHAHNAMA    OF  FIRDAUSI
+
+the  early  days  of  Ardshir  Papakan,  the  founder  of  the  Sasanian
+dynasty.1  This  does  not  imply,  as  in  the  case  of  Sikandar,  that
+Firdausi  was  in  any  way  indebted  to  Greek  sources,  but  that  he  and
+the  Greek  writers  both  availed  themselves  of  the  same  cycle  of
+legend  at  intervals  many  centuries  apart.  The  same  may  be  said
+of  the  charming  story  of  Gushtasp  in  Rum,  which  will  appear  in  a
+later  volume  of  this  translation.  A  Greek  version  of  the  love-
+interest  in  this  story  is  preserved  for  us  in  the  Deipnosophistss  of
+AtheneDUs,2  who  quotes  Chares  of  Mytilene — an  official  at  the  court
+of  Alexander  the  Great — as  his  authority.  Similarly  in  Humai,
+the  seventeenth  Shah,  we  may  have  a  reminiscence  of  Semiramis.
+
+With  regard  to  the  Kaianian  dynasty  in  general  we  may  say
+that  in  no  other  part  of  the  poem  is  the  epic  subject-matter  so
+abundant  or  of  finer  quality,  nor  in  any  part  of  this  lom,r  dynasty
+superior  to  what  is  to  be  found  in  the  reign  of  Kai  Kaus  in  this
+volume.
+
+
+1  See  NIN,  3;  GKS,  iii.   133;    and  for  the  accounts  of  Herodotus
+and  Ctesias,  DHA,  v.  335  sefj.
+
+2  Bk.  xiii.,  ch.  35,  eel.  A.  Meineke.
+
+
+ERRATA
+
+
+Page  61,  line  9,  for  '  bears '  read  '  bear.'
+
+Page  69,  line  20,  add  semicolon  at  end.
+
+Page  157,  line  7,  for  'spoken'  read  'unspoken.'
+
+Page  221,  line  13,  for  '  uuled'  read  '  unsoiled.'
+
+Page  257,  line  2  from  bottom,  delete  full  stop  and  insert  comma  at  end.
+
+Page  265,  line  18,  delete  comma  at  end.
+
+Page  281,  line  22,  for  '  Ir^n  '  read  '  Tura'n.'
+
+Page  306,  line  14,  add  comma  at  end.
+
+Page  384,  line  7  from  bottom,  delete  comma  and  insert  full  stop  at  end.
+
+Page  390,  bottom,  delete  "  and  insert '  ".
+
+
+XI
+KAI  KUBAD
+
+HE   REIGNED   ONE    HUNDRED   YEARS
+
+ARGUMENT
+
+Kai  Kubad  ascends  the  throne,  and  defeats  the  Turanians.  Rustam
+in  this  his  first  campaign  greatly  distinguishes  himself,  and  nearly
+takes  Afnisiyab  prisoner.  Pashang,  the  father  of  Afrasiyab  and
+ruler  of  Turan,  sues  for  peace  and  terms  are  arranged.  Kai  Kul.ud
+rewards  Zal,  Rustam,  and  others  for  their  services,  and  makes
+Istakhr  his  capital.  At  the  end  of  a  long  and  glorious  reign  he
+dies  after  appointing  his  son  Kai  Kaus  as  his  successor.
+
+NOTE
+
+Kai  Kubad  is  mentioned  at  least  twice  in  the  Zandavasta,  where
+he  appears  under  the  name  of  Kavata,  or  Kavi  Kavata,  and  the
+name  of  his  son  Kai  Ktius  appears  both  there  and  in  the  Vedas.
+We  have  no  accounts  of  Kai  Kubad's  ancestry  in  the  poem
+beyond  the  vague  statement  that  he  was  descended  from  Faridun.1
+He  is  described  indeed  as  being  brought  by  Rustam  from  Mount
+Alburz — the  great  mythical  range  which  was  supposed  to  encircle
+the  earth.  According  to  the  Bundahish,  Kai  Kubad,  like  Darab
+after  him,  was  exposed  at  birth  and  was  found  and  adopted  by
+Zav,  the  son  of  Tahmasp,  the  ninth  Shah.2  The  same  authority
+describes  him  as  reigning  for  fifteen  years.3
+
+
+How  Kai  Knbdd  ascended  the  Throne  and  waived
+against  Turdn
+
+WHEN  Kai  Kubad  acceded  to  the  throne,  v.  298
+
+And  donned  the  jewelled  crown,  chiefs  such  as  Zal,
+Karan  the  warrior,  Kishwad,  Khan-ad,
+
+*  For  Kai  Kubdd's  genealogy,  see  ZT,  i.  407.
+a  WPT,  i.  136.  3  Id.  150.
+
+ii
+
+
+12  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+And  valorous  Barzin,  flocked  round  and  scattered
+Gems  over  that  new  crown.  They  said :  "  0  Shah
+Prepare  to  fight  the  Turkmans."
+
+Hearing  this
+
+He  went,  reviewed  his  host,  and  on  the  morrow
+Marched  forth  while  shouts  rose  from  his  tent-enclosure.
+Then  Rustam  armed  and  like  an  angry  elephant
+Sent  up  the  dust,  the  troops  arrayed  their  ranks,
+And  girt  their  loins  for  bloodshed.     On  one  wing
+Mihrab  the  master  of  Kabul  was  stationed,
+Upon  the  other  doughty  Gustaham.
+Karan  the  warrior  was  in  the  centre
+With  bold  Kishwad  the  shatterer  of  hosts,
+
+¥."299       While  Rustam  led  the  van  with  chiefs  and  heroes,
+And  Zal  and  Kai  Kubad  as  their  supports.
+Here  there  was  fire,  there  storm,  while  Kawa's  standard
+Amid  the  van  made  earth  red,  violet,
+And  yellow,  and  the  seated  world  was  like
+A  wave-tossed  barque  upon  the  sea  of  Chin.
+The  deserts  and  the  dales  were  carpeted
+By  shields  on  shields,  the  falchions  gleamed  like  lamps,
+And  all  the  world  became  a  sea  of  pitch
+Whereon  a  hundred  thousand  tapers  burned.
+Thou    wouldst    have   said :    "  The   sun    hath    lost   its
+
+way
+
+Frayed  by  the  trumpets'  blare  and  warriors'  shouts  !"
+The  hosts  encountered,  none  knew  van  from  rear.
+
+V.  300       Karan  o'erthrew  ten  warriors  at  each  charge ;
+Now  wheeling  to  the  left,  now  to  the  right,
+And  seeking  to  wreak  vengeance  on  all  sides,
+He  made  earth  mountain-like  with  slain,  astounding
+The  bravest  Turkmans.     Seeing  Shamasas,
+Who  raised  the  war-cry  lion-like,  he  charged,
+Unsheathed   his    sword,   smote   his   foe's    head,   and
+
+shouted : —
+"  The  famed  Karan  am  I,"  while  Shamasas
+
+
+KAI  KUBAD  13
+
+Sank  to  the  ground  and  perished  in  a  breath.
+
+The  manner  of  this  ancient  sky  is  so,
+
+At  whiles  like  arrow  and  at  whiles  like  bow !
+
+
+§2
+How  Rustam  fought  icitTi  Afrasiyab
+
+When  Rustam  saw  the  doings  of  Karan,
+
+And  what  war  is,  he  went  to  Zal  and  said  :—
+
+"  Tell  me,  O  paladin  of  paladins  !
+
+Where  doth  malevolent  Afrasiyab  v-  301
+
+Stand  in  the  fight  ?     Describe  his  garb  and  banner.
+
+I  see  a  fluttering  flag  of  violet.
+
+Describe  him  that  I  may  encounter  him,
+
+And  so  exalt  my  head  among  the  chieftains.
+
+To-day  will  I  lay  hold  upon  his  girdle
+
+And  bring  him  hither  haled  upon  his  face."
+
+Zal  answered  :  "  Hearken  unto  me,  my  son  !
+And  run  no  risks  to-day.     He  is  a  Dragon,
+Whose  breath  is  fire — a  Cloud  of  bale  in  war.1
+His  flag  and  mail  are  black,  his  helm  and  brassards
+Of  iron  flecked  with  gold,  his  plume  is  sable.
+Avoid  him,  he  is  brave,  his  fortune  sleepless."
+
+"  Be  not  concerned  for  me,"  was  Rustam's  answer.
+"  With  God  mine  aid,  heart,  sword,  and  arm  my  ramparts,  v.  302
+Although  he  be  a  Dragon  and  a  div
+Yet  will  I  bring  him  by  the  belt,  and  thou
+Shalt  see  me  make  him  lifeless  in  the  mellay,
+So  dealing  that  Pashang's  troops  shall  bewail  him."
+
+That  lion-youth — the  shelter  of  the  host —
+Urged  on  his  steed — Rakhsh  of  the  brazen  hoofs —
+And  shouting  mid  the  trumpet-blare  approached
+The  army  of  Turan.     Afrasiyab
+Beheld  amazed  the  lad  not  fully  grown
+And  asked :  "  Who  is  he,  for  I  know  him  not —
+1  Cf.  p.  53.
+
+
+14  THE   SH  AH  NAM  A    OF  FIRDAUSI
+
+Yon  Dragon  broken  loose  in  such  a  fashion  ? "
+One  said  :  "  The  son  of  Zal  the  son  of  Sam.
+Dost  thou  not  see  him  with  his  grandsire's  mace  ?
+He  is  a  youth  and  eager  for  distinction."
+Then  like  a  vessel  lifted  by  the  waves
+Afrasiyab  came  forth  while  Rustam  clipped
+Rakhsh  tirmly,  shouldering  his  massive  mace,
+But  hung  it  to  his  saddle  when  he  closed ;
+Then,  having  caught  the  monarch  by  the  belt,
+And  dragged  him  from  his  poplar  saddle,  hoped
+To  carry  him  to  Kai  Kubiid  to  tell
+The  story  of  this  first  day's  fight;  but  through
+The  chieftain's  weight  and  Rustam's  grasp  the  girdle
+Snapped,  and  the  king  came  headlong  to  the  ground,
+Whereat  his  cavaliers  surrounded  him,
+v.  303       While  Rustam,  when  the  chief  escaped  his  clutch,
+Gnawed  at  his  hand's  back  in  chagrin  and  cried : —
+"  Why  did  I  take  him  not  beneath  the  armpit
+And  simply  make  him  handfast  with  his  girdle  ? "
+
+While  from  the  elephants'  backs  the  sound  of  bells
+Rose,  and  the  drums  were  heard  for  miles,  men  brought
+The  Shah  glad  tidings :  "  Rustam,"  they  reported,
+"  Brake  through  the  centre  of  the  Turkman  host
+And  reached  their  general  whose  standard  now
+Hath  disappeared,  for  Rustam  seized  his  girdle
+And  flung  him  easily.     The  Turkmans  yelled,
+The  valiant  chiefs  formed  round  their  fallen  king,
+And  bare  him  off.     When  vanquished  thus  he  mounted
+A  fleet  steed,  fled  toward  the  plain,  and  left
+His  host  to  save  his  life."
+
+At  this  good  news
+
+The  Shah  gave  orders  to  his  troops  to  fall
+In  mass  like  wind  upon  the  enemy
+And  utterly  o'erthrow  them,  fruit  and  root.
+He  rose  himself  like  fire,  and  all  his  host
+Heaved  like  a  stormy  sea.     Zal  and  Mihrab,
+
+
+KAI   KUBAD  15
+
+The  Lion,  went  forth  keen  and  valorous ;
+
+The  din  of  battle  rose  with  falchion-flash
+
+And  thud  of  shaft,  while  heads  grew  dazed  as  axes  v.  304
+
+Crashed   on   gold   helm  and  shield.     Thou   wouldst
+
+have  said : —
+
+"  A  cloud  somewhence  hath  risen  and  is  flecking
+Yon  oranges  with  magic  cinnabar  1 "
+Upon  that  day  of  battle  sank  and  rose
+Blood  to  the  Fish  and  dust-clouds  to  the  Moon,
+While  through  the  horse-hoofs  on  that  spacious  plain
+One  earth  flew  up  to  make  another  heaven ! l
+Heroic  Rustam  in  the  fight  that  day
+With  dirk  and  lasso,  mace  and  scimitar,
+Clave  into  pieces,  rent  and  brake  and  bound
+The  heads,  breasts,  feet,  and  hands  of  warriors,
+For  eight  and  fifty  score  of  gallant  chiefs
+That  Lion  slaughtered  in  a  single  charge.
+Zal  gazing  on  his  son  illustrious
+In  Grace  and  might  felt  his  heart  throb  with  joy
+To  see  such  prowess,  while  the  Turkmans  pressed  V'  3°5
+
+Thus  by  the  Magian  host  sought  Damaghan,
+And  thence  fled  toward  Jihun  with  stricken  hearts,
+With  din  and  dudgeon,  with  their  weapons  broken
+And  girdles  snapped — a  trumpless,  drumless  mob.
+
+The  paladins  that  led  the  Iranian  host
+Turned  from  pursuing  and  drew  near  the  Shah,
+All  plunder- wearied,  bringing  band  on  band
+Of  captive  Turkmans.     When  the  troops  were  back
+In  camp  again  the  mighty  men  approached
+The  monarch  of  the  world,  extolling  him,
+While  Rustam  also  went  before  the  Shah,
+Who  seated  him  on  one  side  of  the  throne
+And  famous  Zal  upon  the  other  one.
+
+1  Literally,  "  The  earth  became  six  and  the  heaven  eight."  Firdausi
+is  speaking  of  the  Seven  Climes,  and  of  the  heavens  of  the  Seven
+Planets  only,  in  this  passage.  Cf.  vol.  i.  pp.  71,  72.
+
+
+1 6  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+s  2
+How  Afrdsiydb  came  to  Ms  Father
+
+Upon  the  Turkman  side  Afrasiyab
+Fled  to  the  river-bank  and  tarried  there
+For  seven  days,  made  ready  on  the  eighth,
+And  gat  him  to  his  sire,  all  rage  and  grief ;
+His  tongue  was  long  although  his  hands  were  shortened.
+"  0  famous  king  ! "  said  he,  "  the  fault  was  thine
+In  seeking  war ;  the  mighty  men  of  old
+Gave  kings  no  precedent  for  breach  of  faith.
+The  offspring  of  fraj  polluteth  still
+The  earth ;  that  poison  gnaweth  yet ;  they  come
+Without  a  break  to  lord  it  o'er  the  world.
+V.  306       Now  'tis  Kubad ;  he  hath  assumed  the  crown
+And  flung  the  gates  of  vengeance  wide  again.
+A  cavalier  of  Sam's  seed  hath  appeared,
+By  Zal  named  Rustam.     Like  a  crocodile
+Enraged  he  charged,  and  thou  hadst  said  :  "  His  breath
+Will  burn  the  world."     He  sped  o'er  hill  and  dale,
+And  plied  mace,  sword,  and  stirrup.     All  the  air
+Rang  with  his  crashing  mace.     Life  was  not  worth
+A  pinch  of  dust  to  me.     He  overthrew
+Our  host ;  none  ever  saw  a  sight  so  strange  !
+He  spied  my  flag,  put  down  his  massive  mace,
+And  snatched  me  from  my  poplar  saddle  so
+That  thou  hadst  said  I  was  not  one  gnat's  weight !
+My  girdle  and  my  hauberk's  fastening  snapped,
+I  tumbled  from  his  grasp  beneath  his  feet.
+No  lion  hath  such  strength,  his  feet  touch  earth,
+His  head  is  in  the  clouds.     My  cavaliers
+Came  up  and  saved  me  from  that  Mountain's  clutches.
+Thou  know'st  how  kingly  are  my  heart  and  hand,
+My  prowess,  deeds,  and  enterprise,  yet  I
+Am  but  a  fibre  in  his  grasp.     Such  worship
+
+
+KAI  KUBAD  17
+
+Perturbeth  ine.     I  saw  a  monstrous  form
+
+With  lion's  claws.     My  wits  and  senses  fled.
+
+Hill,  cave,  and  level  road  were  one  to  him
+
+When  his  mad  Elephant  was  put  to  speed.
+
+A  thousand  maces  in  good  sooth  and  more
+
+Fell  on  his  famous  helm  :  thou  wouldst  have  said : —
+
+'  They  fashioned  him  of  iron,  brought  him  up
+
+On  stones  and  brass ! '     What  is  a  sea  or  mountain,          v  307
+
+Fierce  lion  or  rnad  elephant  to  him  ?
+
+He  pricketh  forth  as  on  a  hunting-day,
+
+And  battle  is  his  pastime.     Had  such  might
+
+Been  Sara's  no  Turkman  chief  would  now  survive.
+
+We  can  but  sue  for  peace,  because  thy  troops
+
+Give  way  before  him.     I,  an  atheling,
+
+Thine  army's  stay  and  thine  own  help  in  need,
+
+Have  no  strength  left  to  fight  with  him.     Go  to,
+
+Take  counsel  and  make  peace.     They  gave  the  land,
+
+Assigned  of  old  by  Faridun  to  Tur,
+
+To  me ;  and  that  apportionment  was  just.1
+
+Revive  not  ancient  feuds  for,  if  we  pass
+
+The  boundary  and  prosecute  the  war,
+
+We  shall  but  make  the  world  strait  to  ourselves.
+
+Thou  know'st  that  sight  is  better  than  report,
+
+For  hearsay's  belly  is  an  empty  one.
+
+To  fight  Iran  appeared  a  jest  to  thee,
+
+The  soldiers  think  that  it  hath  gone  too  far.
+
+Defer  not  to  to-morrow  this  day's  work ;
+
+Who  knoweth  what  to-morrow  may  bring  forth  ?
+
+The  roses  blooming  in  the  garden  now
+
+To-morrow    thou   wouldst   pluck  —  when    they   are
+
+worthless !
+
+Mark  what  a  wealth  of  golden  equipage,
+Of  golden  helmets  and  of  golden  shields,
+How  many  Arab  steeds  with  golden  bits,
+What  Indian  scimitars  with  golden  scabbards,
+
+1  Referring  to  the  partition  in  the  days  of  Zav.     Vol.  i.  p.  371.
+VOL.  II.  B
+
+
+1 8  THE  SHAH  NAM  A    OF  FIRDAUSI
+
+And,  over  and  above  these,  what  famed  chieftains
+The  blast  ha£h  vilely  borne  away — Kulbad,
+And  bold  Barman  who  hunted  lions  only,
+And  Kharzarwan,  whom  Zal  hath  dashed  to  pieces
+And  shown  his  massive  mace's  mastery,
+v.  308        Fierce  Shamasas — the  shelter  of  the  host —
+Slain  by  Karan  upon  the  battlefield,
+And,  in  addition  to  these  famous  men,
+Ten  thousand  others  slaughtered  in  this  war ;
+Worse  still,  observe  the  breach  of  fame  and  honour
+That  we  can  never  bind.     Though  I  have  slain
+One  famous  chief — illustrious  Ighriras—
+Let  fortune's  good  and  ill  cry  quits  to-day,
+And  leave  to-morrow  for  the  reckoning ;
+Because  the  haughty  chiefs  have  come  to  me,
+The  heroes,  each  one  with  his  flag  behind  him,
+And  told  me  much  that  happened  when  I  fled
+In  dudgeon  and  they  followed.     Now  revive  not
+The  memory  of  the  past,  but  strive  to  make
+A  peace  with  Kai  Kubad,  lest  hosts  should  come
+Upon  thee  from  four  sides :  on  this  side  Rustam,
+Whose  prowess  in  the  fight  outshineth  Sol ;
+On  that  Karan,  whose  eye  ne'er  saw  defeat ;
+Upon  the  third  Kishwad,  the  golden-helmed,
+Who  brought  the  captives  from  Amul ;  Mihrab
+Is  on  the  fourth,  next  to  the  Shah  in  place,
+Lord  of  Kabul,  a  man  of  rede  and  Grace."
+
+§4
+
+How  Pashang  sued  to  Kai  KuMd  for  Peace
+
+The  chieftain  of  Tiiran,  whose  eyes  were  tearful,
+Was  all  astonied  at  Afrasiyab
+
+v.  309       That  he  should  have  bethought  him  of  such  words,
+And  that  his  soul  had  turned  to  what  was  just.
+He  chose  a  prudent  envoy  for  Iran,
+
+
+KAI   KUBAD  19
+
+And  wrote  a  letter  worthy  of  the  Artang,1
+
+Decked  with  a  hundred  colours  and  designs : —
+
+"  In  the  name  of  Him  who  ruleth  sun  and  moon,
+
+And  gave  to  us  the  faculty  of  praise  !
+
+May  He  accept  the  soul  of  Faridun,
+
+From  whom  our  race  deriveth,  warp  and  woof.
+
+Hear  now,  0  famous  Kai  Kubad  !  and  I
+
+Will  utter  words  of  kingly  rede  and  right.
+
+Tur  brought  calamity  on  blest  Iraj
+
+Upon  a  question  touching  crown  and  throne.
+
+On  this  I  say  that  feuds  should  not  endure
+
+For  ever,  and  if  vengeance  for  f  raj
+
+Was  owing  it  was  wreaked  by  Miniichihr.
+
+In  that  first  settlement  by  Faridun,  v.  310
+
+Whose  object  was  a  just  apportionment,
+
+It  will  be  well  for  us  to  acquiesce
+
+And  not  transgress  the  precedents  of  kings.
+
+From  Turkestan  to  Ma  wara  'u'n-Nahr,
+
+Whose  boundary  is  Jihun,  that  is  our  share.
+
+When  Faridun  was  Shah  Iraj  ne'er  saw  it,
+
+But  had  from  him  his  blessing  and  fran.
+
+If  we  transgress  these  boundaries  and  fight
+
+We  make  earth  strait  to  us,  the  scimitars
+
+Will  clash,  God  will  be  wroth,  and  we  shall  lose
+
+Our  portion  in  both  worlds.     What  Faridun
+
+Divided  unto  Salm,  Tur,  and  fraj,
+
+Let  us  retain  and  then  be  friends  henceforth,
+
+For  earth  itself  is  worth  not  so  much  bale.
+
+The  reverend  head  of  Zal  hath  grown  like  snow,
+
+The  dust  is  crimson  with  our  warriors'  blood,
+
+And  yet  a  man  will  only  own  at  last
+
+His  body's  length  of  all  that  he  possesseth  !
+
+1  The  name  of  the  house  where  the  famous  Persian  painter  Mani,
+the  founder  of  Manicheism,  lived ;  also  of  a  book  written  by  him.
+Both  house  and  book  were  elaborately  adorned.  Manichean  MSS.
+in  general  were  finely  written  and  illuminated.  Cf.  Professor  Bloom-
+field,  "  The  Long-lost  Mani  Bible,"  in  Harper's  Monthly  Magazine  for
+March  1906.
+
+
+20  THE   SHAHNAMA    OF  FIRDAUSI
+
+We  with  a  shroud  for  robe,  a  grave  for  home,
+
+Shall  own  but  some  five  cubits'  length  of  earth ;
+
+All  other  wishes  are  but  care  and  toil —
+
+A  cause  for  trouble  in  this  Wayside  Inn.
+
+If  Kai  Kubad  doth  acquiesce  in  this,
+
+And  if  that  sage's  head  ensueth  right,
+
+Not  one  of  us  shall  dream  of  the  Jihun,
+
+But  let  the  Iranians  keep  to  their  own  side.
+
+It  may  be  that  good  will  and  intercourse
+
+Will  make  both  realms  contented  with  this  pact."
+
+He  sealed  and  sent  this  to  the  Iranian  host
+With  jewels,  crowns,  gold  thrones,  fair  damsels  girt
+V  311        With  gold,  Arabian  steeds  with  golden  trappings,
+And  Indian  swords  in  silvern  sheaths  besides
+The  goodliest  native  wares.     The  envoy  reached
+Kubad  and  gave  the  letter  and  the  message.
+The  king  of  kings  read  and  replied  at  large : —
+"  We  did  not  recommence ;  this  war  was  caused
+Directly  by  Afrasiyab.     The  wrong
+Began  with  Tur  when  he  bereaved  a  prince
+Such  as  fraj  was  of  the  throne,  and  now
+It  is  Afrasiyab  that  crosseth  over
+The  river  to  invade  us.     Thou  hast  heard
+His  treatment  of  Naudar,  which  filled  wild  beasts
+With  grief  and  pain,  while  on  wise  Ighriras
+He  did  a  deed  unworthy  of  a  man.
+Yet  if  ye  do  repent  I  will  renew
+The  compact,  though  I  well  could  take  revenge,
+Armed  as  I  am  for  all  emergencies,
+Thus  leaving  you  the  lands  beyond  the  river,
+And  then  perchance  Afrasiyab  will  rest."
+
+The  Shah  drew  up  the  treaty  and  thus  planted
+A  fresh  tree  in  the  garden  of  his  greatness.
+The  envoy  went  and  brought  with  leopard's  speed
+The  letter  to  Pashang,  who  packed  his  baggage,
+Marched  back,  and  sent  the  dust-clouds  heavenward.
+
+
+KAI   KUBAD  21
+
+He  crossed  Jihiin  like  wind,  and  news  thereof
+
+Reached  Kai  Kubad,  who  joyed  because  the  foe
+
+Withdrew  without  a  fight,  but  Rustam  said : —
+
+"  Look  not,  0  Shah !  for  peace  in  time  of  war.  v.  312
+
+Of  old  we  ne'er  had  rest  from  their  assaults ;
+
+My  mace  it  was  that  made  them  thus  to-day."
+
+Thus  to  that  noble  chief  spake  Kai  Kubad : —
+"  Naught  have  I  seen  more  goodly  than  the  right.
+Pashang,  a  scion  of  blest  Faridun,
+Avoideth  strife  for  he  hath  had  enough,
+And  men  of  wisdom  must  not  look  upon  him
+Askance  and  with  injustice.     I  will  draw
+A  deed  of  gift  on  silk  for  thee  of  all
+Between  the  Indus  and  Zabulistan.
+Go  take  the  throne  and  crown  too  of  Nimruz,
+And  lighten  all  the  world.     Upon  this  side
+Give  to  Mihrab  Kabul,  and  keep  thy  spearpoints
+Sharp,  for  where'er  a  king  is  there  is  war
+Though  earth  is  broad  enough."
+
+The  Shah  prepared
+
+Gifts  both  for  Rustam  and  for  Zal  whose  head
+He  crowned,  whose  loins  he  girt,  with  gold,  and  gave
+Half  of  the  world  to  him.     He  kissed  the  ground.
+Kubad  the  fortune-favoured  further  said : —
+"  Ne'er  may  the  throne  of  majesty  lack  Zal,
+One  hair  of  whom  outweigheth  all  the  world  ;
+He  is  the  heirloom  left  us  by  the  great."
+
+They  furnished  forth  five  elephants  with  litters
+Inlaid  with  turquoise  brighter  than  Nile-water,
+And  spread  upon  the  litters  cloth  of  gold,
+Besides  unreckoned  wealth,  a  royal  robe
+Of  gold,  a  crown  and  girdle  wrought  of  jewels
+And  turquoise,  all  of  which  he  sent  to  Zal,
+And  said  :  "  I  fain  had  sent  a  greater  gift,
+And,  should  long  life  be  mine,  I  will  not  leave  v.  313
+
+A  wish  of  thine  unsatisfied  on  earth."
+
+
+22  THE  SHAHNAMA    OF  FIRDAUSI
+
+Moreover  on  Karan  the  warrior,
+Upon  Kishwad,  Kharrad,  Barzin,  Pulad,
+He  showered  robes  of  honour  as  was  fit,
+And  to  the  rest  that  seemed  to  him  deserving
+Gave  money,  shields,  and  swords,  or,  if  he  felt
+Their  merit  greater  still,  a  sword  and  belt.
+
+
+K     c
+
+How  Kai  Kuldd  came  to  Istakhr  oj  Pars
+
+Thence  Kai  Kubad  departed  unto  Pars
+
+Where  lay  his  treasury.    The  capital
+
+Was  then  Istakhr — the  glory  of  the  Kaians.
+
+With  general  assent  he  claimed  the  crown
+
+And,  mounted  on  the  Kaian  throne,  held  sway
+
+By  justice  and  the  customs  of  the  wise.
+
+He  thus  addressed  the  chiefs :  "  The  world  is  mine.
+
+For  elephants  to  war  on  gnats  would  make
+
+A  breach  in  Faith  and  justice.     I  will  have
+
+Naught  but  the  right,  for  of  God's  anger  cometh
+
+Disaster.     I  have  brought  men  peace  by  toil
+
+And  justice,  and  where  earth  and  water  are
+
+My  treasure  is.     Kings  are  my  bodyguard ;
+
+I  hold  the  citizen  and  soldier  equal.
+
+Make  God  your  refuge,  be  ye  wise  and  harmless,
+
+Enjoy  what  ye  possess,  give  liberally,
+
+And  thank  me  too  for  that  which  ye  enjoy ;
+
+While  they  that  want  and  cannot  live  by  work
+
+Shall  pasture  at  my  court."
+
+He  gathered  troops,
+
+And  went  about  inspecting  everywhere.
+Thus  for  ten  years  he  roved  and  ministered
+All  justice  publicly  and  privily,
+v.  314       He  built  him  many  cities — jocund  seats —
+
+
+KAI  KUBAD  23
+
+Such  as  the  hundred  that  surrounded  Rai,
+
+But  when  the  hand  of  time  had  fallen  upon  him
+
+He  set  his  face  toward  Pars,  sat  on  the  throne
+
+'Mid  archimages,  readers  of  the  stars,
+
+And  sages,  gathered  too  his  warriors,
+
+And  gazing  on  them  with  a  wounded  heart
+
+Talked  of  the  mighty  who  had  passed  away.
+
+His  gifts  and  justice  made  the  world  rejoice,
+
+And  thus  he  reached  his  hundredth  year  in  joy.
+
+See  if  the  world  hath  any  king  like  him.
+
+He  had  four  sons,  all  men  endowed  with  wisdom,
+
+To  keep  his  memory  alive  on  earth  :
+
+The  first  was  glorious  Kaiis,  the  second
+
+Was  Kai  Arash,  the  third  was  Kai  Pashin,
+
+The  fourth  was  Kai  Armin.     They  walked  the  world
+
+In  peace  and  great  content.
+
+A  century  passed,
+
+A  change  of  fortune  came  to  crown  and  throne,
+For  when  the  Shah  perceived  that  death  drew  near,
+And  that  the  green  leaf  was  about  to  wither,
+He  summoned  noble  Kai  Kails,  spake  much
+Of  justice  and  of  generosity,
+And  said :  "  I  load  the  baggage  to  depart.
+Perform  mine  obsequies  and  take  the  throne,
+Though  as  for  me  I  seem  but  just  arrived
+Rejoicing  with  my  men  from  Mount  Alburz !
+Oh  !  what  a  thing  is  fortune  thus  to  leave  us
+Without  a  warning !     They  that  worship  it
+Lack  wisdom.     Thou,  if  thou  art  just  and  upright,
+Wilt  have  thy  guerdon  in  the  other  world,
+While  if  thy  passions  shall  ensnare  thy  wits
+Thou  wilt  unsheathe  a  sword  whose  edge  is  keen —
+A  sword  wherewith  thou  first  wilt  wound  thyself
+And  afterward  resign  it  to  the  foe  :
+
+Thy  dwelling  there  will  be  a  place  of  fire ;  v  315
+
+Here  bitterness  of  heart  and  grief  be  thine."
+
+
+24  THE   SHAHNAMA    OF  FIRDAUSf
+
+He  spake  these  words  and  leaving  this  wide  world
+Exchanged  his  palace  for  a  sepulchre  :
+It  hath  been  this  world's  way  time  out  of  mind
+To  form  of  dust  and  scatter  to  the  wind.
+
+The  tale  of  Kai  Kubad  is  at  an  end ;
+To  that  of  Kai  Kaiis  attention  lend.
+
+
+XII
+KAI  KAtJS
+
+HE   REIGNED   ONE   HUNDRED   AND   FIFTY
+YEARS
+
+ARGUMENT
+
+Kai  Kaus  on  ascending  the  throne  abandons  the  path  of  wisdom.
+He  invades  Mazandaran  and  is  taken  prisoner,  but  is  rescued
+by  Rustam.  He  wars  against  the  king  of  Hamavaran,  whose
+daughter  he  marries,  and  is  taken  prisoner  again,  this  time  by
+treachery.  Rustam  again  rescues  him.  Afterward  he  attempts
+to  fly  to  heaven,  and  is  a  third  time  saved  by  Rustam.  The  poet
+then  tells  two  episodic  stories,  that  of  the  Seven  Warriors,  and  that
+of  Suhrab,  in  both  of  which  Rustam  takes  a  leading  part.  We
+next  learn  what  evil  came  of  the  marriage  of  Kai  Kaus  with  the
+daughter  of  the  king  of  Hamavaran  as  exemplified  in  the  tragic
+tale  of  Siyawush.  The  poet  then  tells  how  Rustam  took  vengeance
+on  Afrasiyab  for  the  execution  of  Siyawush,  how  Giv  went  to
+Turan  in  quest  of  Kai  Khusrau,  the  son  of  Siyawush,  and  how  Kai
+Khusrau  became  joint  Shah  with  Kai  Kaus.
+
+NOTE
+
+Kai  Kaus  appears  in  the  Vedas  as  Kavya  Ushana,  i.e.  Ushana
+the  son  of  Kavi.  He  is  said  to  have  installed  Agni  (fire)  as  the
+high-priest  of  mankind,  to  have  been  the  leader  of  the  heavenly
+cows  (the  clouds)  to  pasturage,  and  to  have  wrought  the  iron  club
+with  which  the  god  Indra  slew  the  demon  Vritra.1
+
+The  conception  is  therefore  mythological.  In  the  Zandavasta
+Kai  Kaus  appears  as  Kavi  JJsa.  "  We  sacrifice  unto  Verethraghna,2
+made  by  Ahura.  .  .  .  He  carries  the  chariot  of  the  lords  ;  he
+carries  the  chariot  of  the  lordly  ones,  the  chariots  of  the  sovereigns.
+He  carried  the  chariot  of  Kavi  Usa."3  With  the  exception  of  this
+
+1  HEP,  278.  2  The  raven.  3  DZA,  ii.  240-2.
+
+25
+
+
+26  THE  SHAHNAMA    OF  FIRDAUSI
+
+reference  to  his  attempt  to  fly  to  heaven  the  remainder  of  his  legend
+is  lost  so  far  as  the  Zandavasta  itself  is  concerned,  but  a  brief
+summary  of  what  it  once  contained  is  extant  in  the  Dinkard,1
+where  we  also  find  a  strange  story,  of  which  no  trace  is  to  be  found
+in  the  Shahndma,  that  Kai  Kalis  possessed  a  wonderful  ox,  to  whose
+judgment  all  disputes  as  to  the  frontier-line  between  Iran  and
+Turaii  were  referred.  As  the  decision  was  generally  adverse  to
+the  Turanians  they  conceived  the  idea  of  beguiling  Kaus  into
+slaying  the  ox,  and  succeeded  in  their  purpose.-  The  story  is
+characteristic  of  Kai  Kaus,  who  is  represented  in  the  poem  as  a
+very  imperfect  character,  and  easily  led  astray  by  passion,  wrong-
+headedness,  and  evil  counsels.
+
+According  to  the  genealogy  of  the  Bundahish,  Kaus  was  the
+grandson  of  Kai  Kubad.3  Firdausi  omits  the  intermediate  genera-
+tion.
+
+The  length  of  the  reign  is  the  same  in  both  cases,  and  the
+Bundahish  places  Kaus'  attempt  to  reach  the  sky  after  he  had
+been  on  the  throne  for  seventy-five  years,4  and  was,  so  to  speak,
+at  his  meridian.
+
+1  Seep.  Si.  *  WPT,  v.  31.
+
+3  Id.  i.  136.  4  Id.  i.  150.
+
+
+PAET   I
+
+THE   WAR    WITH    MAZANDARAN.
+
+ARGUMENT
+
+The  poet,  after  bewailing  the  death  of  Kai  Kubad  and  that  an
+evil  shoot  should  spring  from  so  good  a  root,  tells  how  Kai  Kaus
+was  seduced  by  a  div  into  invading  Mazandaran,  how  he  and  all
+his  host  were  taken  captive  and  blinded  by  the  White  Div,  how
+Rustam  went  to  their  rescue,  what  adventures  befell  him  by  the
+way,  and  how  he  delivered  the  Shah  and  host.
+
+f     NOTE
+
+Mazandaran,  the  ancient  Hyrcania,  lay,  in  the  scheme  of  the  old
+cosmogony,  beyond  the  limits  of  the  Central  Clime1  from  which
+it  was  cut  off  by  the  great  range  of  the  Alburz  Mountains,  and
+extended  from  their  northern  scarp  to  the  shores  of  the  Caspian.
+Being  abundantly  supplied  with  moisture  by  the  clouds  which
+are  stopped  by,  and  the  snow-fields  which  form  upon,  the  Alburz
+Mountains,  and  the  soil  moreover  being  warmed  by  volcanic  heat,
+the  country  is  extremely  fertile  and  the  climate  semi-tropical  in
+character.  "The  lagunes  of  the  coast  are  succeeded  by  marsh
+forests ;  higher  up  are  fields  of  rice  and  plantations  of  sugar-cane,
+and  beyond  these  fertile  meadows,  above  which  splendid  forests
+of  oaks,  planes,  and  elms  clothe  the  heights  of  Elburz.  There  is
+abundance  of  water  fruits,  figs  and  mulberries,  olives  and  oranges,
+and  the  vigorous  creepers  of  the  vines  run  even  to  the  summits
+of  the  trees."2  On  the  other  hand  the  climate  is  unhealthy  and
+the  air  of  the  marshes  blanches  the  inhabitants,3  who  for  this  reason
+were  known  to  the  Iranians  as  white  divs  or  demons.  They  are
+referred  to  in  the  Zandavasta  and  in  the  Pahlavi  texts.  "  These
+are  the  words,"  we  read  in  the  former,  with  reference  to  a  sacred
+formula  which  had  to  be  recited  several  times,  "  that  smite  down
+
+
+1  Vol.  i.  p.  71.  2  DHA,  v.  9.  3  Id.  10.
+
+27
+
+
+28  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Angra  Mainyu,1  .  .  .  these  are  the  words  that  smite  down  the
+daevas  of  Mazana."2
+
+In  the  Dinkard  they  seem  to  be  described  as  inhabiting  burrows
+and  caves,  and  as  being  of  filthy  habits.3  In  the  Shahnama  we
+find  this  blanched  race  personified  as  the  White  Div  whom  Rustam
+in  his  expedition  into  Mazandaran  encounters  in  the  cave.4
+
+The  approach  to  Mazandaran  from  Iran  was  difficult  and
+romantic.  Communication  between  western  and  eastern  Iran
+depends  on  two  routes  which,  branching  from  Tihran,  run  to  the
+south  of,  and  parallel  to,  the  Alburz  range,  an  outlying  spur  of
+which  they  cross  at  two  passes  named  the  Firiizi  Kuh  and  the
+Girduni  Sirdarra  respectively.  At  a  distance  of  about  seventy
+miles  from  Tihran  the  route  that  runs  through  the  Firiizi  Kuh
+sends  off  a  branch  northward  toward  Mazandaran.  This  branch
+is  a  mere  fissure,  a  few  feet  wide,  in  the  mountain-wall,  with  a
+stream  running  at  the  bottom  and  water  trickling  down  the
+precipitous  sides,  while  here  and  there  the  fissure  opens  out  into
+natural  grottos  and  narrow  valleys.  This  route,  which  abounds
+with  game  and  is  one  of  the  favourite  hunting-grounds  of  the
+Shahs,  is  known  as  the  Girduni  Sawachi.  Subsequently  the  pass
+of  the  Firuzi  Kuh,  six  miles  to  the  east  of  the  mountain  of  that
+name,  after  traversing  a  tremendous  gorge,  sends  off  another  branch
+to  Mazandaran  of  a  somewhat  less  romantic  character  than  that
+of  the  Girduni  Sawachi,  and  runs  on  to  Astrabad,  whence  also
+Mazandaran  may  be  reached.5
+
+It  was  on  emerging  from  the  gloom  of  one  of  these  passes  that
+Rustam,  we  may  imagine,  reached  the  smiling  land  where  he
+encountered  Ulad,  whose  account  of  the  extent .  of  Mazandaran  is
+of  course  enormously  exaggerated.6  The  reader  will  see  on  looking
+at  a  map  of  Persia  that  Mazandaran  is  a  region  of  quite  moderate
+dimensions.  Accuracy  in  matters  geographical  is  not  one  of  Fir-
+dausi's  strong  points.
+
+With  regard  to  Rustam's  route  we  are  told  that  by  Zal's  advice 7
+he  took  the  short  road,  not  the  long  one  taken  by  Kai  Kaiis.  Of
+course  he  would  not  take  the  latter,  for  Kai  Kdus,  we  may  presume,
+started  from  Istakhr  in  Pars,  to  the  west  of  the  central  desert,  while
+Rustam  started  from  Zabul,  to  the  east  of  it.  Firdausi  merely
+means  to  indicate  that  Rustam  did  not  follow  the  ordinary  route,
+but  cut  as  the  crow  flies  across  the  waste.  This  route  took,  we  are
+told,  fourteen  days,  but  Rustam  ran  a  two  days'  journey  into  one
+
+1  i.e.  Ahriman.  2  DZA,  i.  141.
+
+:i  WPT,  iv.  216.  4  §  12.
+
+5  MSJP,  363  seq.    At  p.  349  a  map  of  these  various  routes  is  given.
+
+6  §  10,  and  cf.  NIN,  49.  7  §  5.
+
+
+KA1   KAUS  29
+
+and  made  seven  stages  of  it,  in  the  course  of  each  of  which  he  met
+with  an  adventure.  This  expedition  of  his  is  accordingly  known
+as  the  "  Haft  Khwan,"  the  former  word  meaning  seven  and  tin-
+latter  the  tray  on  which  food  is  served  up.  His  expedition
+therefore  may  be  regarded  as  being  a  meal  with  seven  courses.
+It  has  also  been  suggested  that  in  the  account  of  the  seven  build-
+ings of  Kai  Kiius,  described  in  Part  II.  §  8  of  this  reign,  we  have
+the  origin  of  the  Haft  Khwan  of  Rustam,  and  also  of  the  similar
+expedition,  which  occurs  much  later  in  the  poem,  of  Asfandiyar
+against  Arjasp.1
+
+We  may  add  that  in  the  Pahlavi  the  word  used  for  these  build-
+ings is  "man."  "Man"  comes  from  the  same  root  as  our  word
+"  mansion."  In  the  Pahlavi  form  of  the  legend  Rustam's  expedi-
+tion may  have  been  known  as  the  Haft  Man.  In  the  translations
+from  the  Pahlavi  legend,  if  such  existed,  this  would  naturally
+become  "  Haft  Khan,"  the  seven  stopping-places  or  rest-houses,
+and  this  might  easily  be  corrupted  into  the  "  Haft  Khwan,"  the
+seven  meals  partaken  of  therein.  Our  text,  however,  has  "  Haft
+Khwan,"  which  we  translate  "  The  Seven  Courses,"  keeping  the
+collocation  of  "The  Seven  Stages  "for  the  corresponding  expedi-
+tion of  Asfandiyur.
+
+With  regard  to  the  opposition  of  the  chiefs  to  the  expedition  of
+Kai  Kdus  to  Mazandaran  as  being  unprecedented,2  we  can  only
+suppose  it  to  be  a  rhetorical  flourish  put  into  their  mouths  by  the
+poet,  who  has  already  told  us  that  Faridun  and  Minuchihr  resided
+there.3
+
+At  the  present  day  "  Div  "  is  a  title  of  honour  among  the  nobles
+of  that  region.4
+
+
+§  i
+
+The  Prelude
+
+If  ever  mortal  injury  befall
+
+A  fruitful  tree,  when  it  hath  waxen  tall,
+
+Its  leaf  will  fade,  its  root  become  unsound,
+
+Its  head  begin  to  bend  toward  the  ground ;
+
+And  when  the  stem  is  snapped  off  at  the  root  v.  316
+
+'Twill  yield  its  station  to  some  fresh  young  shoot,
+
+1  WPT,  iv.  220  and  note.  -  §§  2  and  3.
+
+3  See  vol.  i.  pp.  177,  230,  289.  4  DMA,  v.  262.
+
+
+3o  THE   SHAHNAMA    OF  FIRDAUSI
+
+Resign  thereto  the  garden's  burgeoning
+
+And  all  the  lamp-like  lustre  of  the  spring ;
+
+But  if,  my  friend  !  an  evil  shoot  should  rise,
+
+Let  not  the  good  root  suffer  in  thine  eyes.
+
+So  when  a  father  leaveth  to  his  son
+
+The  world,  and  showeth  him  the  course  to  run,
+
+If  he  shall  flout  his  father's  regimen
+
+Call  him  no  longer  son  but  alien.
+
+He  that  abandoneth  his  teacher's  path
+
+Deserveth  every  evil  that  he  hath.
+
+This  ancient  hostelry  is  fashioned  so
+
+That  thou  canst  not  distinguish  top  from  toe,
+
+And  he  that  wotteth  of  its  evil  way
+
+Doth  well  to  quit  it  with  what  speed  he  may.
+
+Now  let  the  stories  which  an  ancient  sage
+Of  prudent  mind  once  told  thy  thoughts  engage. 1
+
+§2
+
+How  Kdus  sat  upon  the  Throne  and  was  tempted  to
+invade  Mdzandardn
+
+Kaiis,  succeeding  to  his  father's  throne
+With  all  the  world  to  serve  him,  looked  upon
+Heaped  hoards  of  treasures  manifold,  and  knew
+That  he  had  not  his  peer  on  earth  for  wealth
+Of  necklaces,  of  earrings,  and  of  thrones,
+High-crested  Arab  steeds,  and  golden  crowns
+Inlaid  with  emeralds.
+
+Now  as  it  chanced
+
+He  sat  one  day  and  quaffed  delicious  wine
+Within  a  pleasure-palace  arabesqued
+With  gold,  and  sat  upon  the  golden  throne,
+Whose  feet  were  crystal,  master  of  the  world,
+Discussing  many  matters  great  and  small
+In  converse  with  the  Iranian  paladins,
+
+1  There  is  no  break  here  in  the  original.
+
+
+KAl  KAUS  31
+
+And  spake  on  this  wise :  "  Who  is  Shah  but  I,  -
+Who  worthy  of  the  throne  except  myself  ?
+I  rule  the  world  with  none  to  say  me  nay."
+
+The  Shah  was  thus  conversing  in  his  cups,
+What  while  the  captains  wondered,  when  a  div
+In  minstrel's  guise  addressed  the  chamberlain.
+"  A  native  of  Mazandaran  am  I,"
+
+He  said,  "  a  noted  bard.     If  I  am  worthy  v.  3,7
+
+To  serve  the  Shah  let  me  approach  his  throne."
+•  The  chamberlain  walked  stately  to  the  Shah,
+And  said :  "  There  is  a  minstrel  at  the  gate —
+A  rare  musician — and  he  hath  his  harp."
+
+The  Shah  bade  fetch  the  man  and  set  him  down
+Among  the  harpers.     When  his  harp  was  tuned
+He  sang  a  ditty  of  Mazandaran : —
+
+"  Mazandaran,  my  native  land  !
+
+May  I  forget  it  never,
+And  may  its  fields  and  fells  abide
+As  populous  as  ever,
+
+"  For  on  its  heights  the  hyacinth
+And  tulip  bloom,  while  roses
+Are  ever  blossoming  anew
+Within  its  garden- closes.
+
+"  The  landscape  is  fulfilled  with  charm,
+
+The  atmosphere  is  pleasant,
+And  there  is  neither  heat  nor  cold,
+But  spring  is  ever  present.
+
+"  While  in  each  garth  the  nightingale
+
+Discourseth  musically,
+The  deer  are  pacing  daintily
+In  every  mountain  valley
+
+
+32  THE   SHAHNAMA    OF  FIRDAUSI
+
+"  Throughout  the  year  without  a  break
+
+Intent  upon  their  questing,
+And  evermore  the  hues  are  bright,
+And  scents  exhale  unresting.
+
+"  As  for  the  rivers  thou  wouldst  say  : —
+
+'  They  run  rose-water  surely ! '
+And  at  the  fragrance  breathing  thence
+The  soul  rejoiceth  purely.
+
+"  There  when  the  year  is  young  and  when
+
+'Tis  many  a  month  the  older,
+A  soil  all  tulips  and  a-bloom
+Saluteth  the  beholder.
+
+
+"  The  livelong  year  the  streamlet's  lips
+
+Are  laughing,  and  the  foray
+Of  hawk  and  hunter  after  game
+Will  never  fail  of  quarry.
+
+*
+"  The  provinces  are  gaily  dight
+
+Throughout  their  whole  dimensions
+With  golden  coins  and  with  brocade,
+And  goodliest  inventions ;
+
+"  The  handmaids  there,  as  idols  fair,
+
+Are  crowned  with  crowns  all  golden,
+And  there  the  loins  of  all  the  great
+With  belts  of  gold  are  holden.
+
+"  He  that  is  not  in  that  fair  land
+
+Of  joy  exceeding  measure,
+Delighting  heart  and  mind  alike,
+What  can  he  know  of  pleasure  ?  "
+
+
+33'
+
+
+KAI  KAUS
+
+The  words  roused  Kai  Kaus,  he  was  resolved
+
+To  lead  a  host  against  Mazandaran,
+
+And  thus  harangued  his  warriors  :  "  We  have  been
+
+Too  fond  of  feast.     The  brave  but  indolent
+
+Will  never  tire  of  leisure  and  of  home.
+
+In  fortune,  Grace,  and  birth  I  pass  Jamshid,  v  318
+
+Zahhak,  and  Kai  Kubad,  and  must  surpass  them
+
+In  prowess  too  :  crowned  heads  should  be  ambitious."
+
+The  nobles  heard  and  liked  it  not,  turned  pale,
+And  frowned,  for  no  one  wished  to  fight  the  divs,
+Though  daring  not  to  say  so  openly.
+They  sadly  sighed — Tiis,  Giv,  Giidarz,  Kishwad,
+Kharrad,  Gurgin,  and  brave  Bahrain — and  said : —
+"  Thy  slaves  are  we  and  walk  earth  by  thy  will."
+
+They  met  thereafter  and  spake  out  their  minds: —
+"  What  is  this  turn  of  fortune  ?     If  the  Shah
+Remembereth  the  words  said  in  his  cups
+'Twill  be  the  ruin  of  us  and  of  Iran,
+And  leave  the  land  not  even  dust  and  water.
+Jamshid  possessed  the  crown  and  finger-ring,
+With  div  and  fowl  and  fay  to  do  his  will,
+Yet  spake  he  never  of  Mazandardn,
+Or  sought  to  fight  against  the  valiant  divs,
+While  Faridun  with  all  his  craft  and  wisdom
+Ne'er  guided  us  to  any  such  desire.
+Had  it  been  something  fitting  to  achieve
+By  dint  of  manliness,  name,  gems,  and  treasure,
+Then  Mimichihr  would  have  forestalled  the  matter
+And  not  repressed  his  wishes.     We  must  find
+Some  scheme  to  turn  this  evil  from  Iran."
+
+Then  Tiis  addressed  the  chiefs  :  "  Brave  veterans !        v.  319
+One  remedy  there  is,  and  let  us  use  it,
+For  'tis  not  hard.     Send  we  a  cameleer
+In  haste  to  Zal  the  son  of  Sam  to  say  :-r-
+'  If  now  thy  head  be  soiled  stay  not  to  wash  it,
+But  whet  thy  wits  and  let  us  see  thy  face.'
+
+VOL.  n.  c
+
+
+34  THE   SHAHNAMA    OF  FIRDAUSI
+
+*  He  may  suggest  some  wise  rede  to  the  Shah,
+And  tell  him :  '  Ahriman  hath  prompted  this :
+The  portal  of  the  divs  must  ne'er  be  opened.'
+Unless  Zal  can  divert  him  from  such  talk
+An  end  will  come  to  all  our  ups  and  downs."
+
+They  talked  it  o'er,  then  sent  a  cameleer,
+Who  went  apace  toward  Nimruz,  and  when
+He  came  to  Zal — the  lustre  of  the  world —
+Gave  thus  the  nobles'  message :  "  High-born  son
+Of  Sam  !  a  parlous  case  confronteth  us,
+And  one  that  knowledge  cannot  estimate  !
+Bestir  thyself  or  else  we  shall  not  have
+Folk,  field,  or  fell.     A  fancy  hath  arisen
+Within  the  Shah's  heart.     Ahriman  hath  turned  him
+From  what  is  right,  he  is  not  satisfied
+
+•  With  travail  such  as  his  forefathers  had,
+
+But  would  have  treasure  where  he  hath  not  toiled,
+And  so  must  throne  it  in  Mazandaran !
+If  thou  delayest  but  to  scratch  thy  head
+He  will  have  gone  and  given  to  the  winds
+Thy  travail  at  the  first  with  Kai  Kubad,
+v.  320  \    When  thou  with  Rustam — that  insatiate  Lion —
+Didst  like  a  valiant  lion  gird  thy  loins  ;
+All  which  is  now  as  wind  to  Kai  Kaiis,
+Whose  evil  purposes  distract  his  mind."
+
+Zal  when  he  heard  grieved  sorely  that  the  leaves
+Upon  the  royal  tree  were  growing  sere,
+And  said :  "  Kaiis,  that  man  of  headstrong  will,
+And  not  approved  in  this  world's  heat  and  cold,
+Will  hearken  not  to  what  the  experienced  say,
+And  sleepeth  not  upon  his  own  designs.
+If  one  who  is  the  monarch  of  the  world,
+Whom  years  and  sun  and  moon  still  circle  o'er,
+One  at  the  thought  of  whose  sword  everywhere
+Alike  the  nobles  and  the  people  tremble,
+Will  not  obey  me  'tis  not  wonderful ;
+
+
+KAI  KAUS  35
+
+Still  it  would  grieve  me  if  he  hearkened  not.
+If  I  think  of  myself,  not  of  the  Shah,
+Then  God,  the  Shah,  and  all  the  warriors
+Throughout  Iran,  will  be  displeased  at  me.
+I  will  set  out  and  offer  mine  advice ;
+If  he  accepteth  it  so  much  is  gained ;
+If  he  is  headstrong  then  our  course  is  clear,
+And  Rustam  now  will  be  among  the  troops."
+
+He  mused  all  night,  and  when  the  sun  displayed
+Its  crown  on  high  begirt  himself  and  journeyed,
+Escorted  by  the  chiefs,  toward  the  Shah.
+Intelligence  reached  Tus,  Giidarz,  and  Giv,
+Bahrain,  Gurgin,  and  others:  "Zal  approacheth;
+E'en  now  his  royal  standard  is  in  sight."
+
+The  army-leaders,  helmed  as  paladins,
+Went  forth  to  meet  him  and,  when  he  was  near,
+Dismounted,  went  to  him  afoot,  and  blessed  him.
+Now,  as  they  fared  together  to  the  Shah,
+Tus  said  to  Zal :  "  So  then,  0  noble  chief !
+Thou  hast  endured  a  journey  of  much  toil,
+And  for  the  sake  of  us  Iranian  nobles  v.  321
+
+Hast  chosen  travail  rather  than  repose  !
+We  are  devoted  to  thee :  all  of  us
+Feel  honoured  by  thy  crown  and  Grace."
+
+Zal  answered  :
+
+"  The  maxims  of  the  men  of  old  recur
+To  one  whom  years  have  worn,  and  later  on
+The  course  of  heaven  will  justify  his  conduct.
+We  must  not  keep  our  counsel  from  the  Shah,
+For  he  hath  need  thereof.     If  he  rejecteth
+The  words  of  wisdom  he  will  rue  it  sorely/'
+
+They  cried :  "  We  are  agreed  and  will  not  hear
+Another's  words,"  then  sought  with  one  accord
+The  crown  and  throne  and  presence  of  their  lord.
+
+
+36  THE  SHAHNAMA    OF  FIRDAUSf
+
+§3
+
+How  Zdl  gave   Counsel  to  •> Kails
+
+Attended  by  the  lords  with  golden  girdles
+Zal  led  the  way  and,  when  he  saw  Kaiis
+Rejoicing  on  the  throne,  approached  the  state
+With  downcast  eyes  and  folded  arms,  then  said  :—
+"  0  worldlord,  who  art  mightiest  of  the  mighty !
+Throne  hath  not  heard  of,  nor  crown  seen,  thy  peer,
+Revolving  heaven  hath  heard  not  of  such  fortune,
+As  thine.     Be  victor  all  thy  years  and  glad
+With  heart  all  wisdom  and  with  head  all  justice."
+
+The  famous  Shah  received  Zal  graciously,
+And,  giving  him  a  seat  upon  the  throne,
+
+v.  322       Asked  him  about  the  toil  of  that  long  journey,
+About  the  chieftains  and  exalted  Rustam.
+He  answered :  "  Ever  live  and  conquer,  Shah  !
+We  all  are  blithe  and  brightened  by  thy  fortune,
+And  have  our  heads  exalted  by  thy  throne."
+
+He  then  began  his  well  considered  speech : —
+"  0  monarch  of  the  world  !  thou  well  deservest
+To  have  the  throne  and  crown  of  mighty  men.
+Thou  art  the  memory  of  Shah  Faridun,
+And  may  this  age  ne'er  rob  thee  of  its  love.
+Now  I  have  heard  grave  tidings  that  the  Shah
+Hath  some  design  upon  Mazandaran.
+
+V.  323        None  of  thy  mighty  predecessors  thought
+Of  such  a  journey.     Minuchihr  in  dying
+Left  here  much  wealth  and  many  palaces ;
+So  too  did  Zav,  Naudar,  and  Kai  Kubad
+(How  many  a  chief  our  memories  recall
+With  massive  maces  and  with  mighty  hosts  !)
+Yet  they  attempted  not  Mazandaran —
+The  home  of  warlock-divs  and  under  spells
+Which  none  hath  power  to  loose ;  so  give  not  thou
+
+
+KAI   KAUS  37
+
+Men,  wealth,  and  money  to  the  winds.     That  land
+
+Can  not  be  conquered  by  the  scimitar,
+
+Nor  will  it  come  to  hand  through  wit  and  treasure.
+
+To  go  or  e'en  to  think  of  going  thither
+
+Is  held  unlucky  !     Thou  must  not  invade
+
+Those  parts  because  no  Shah  hath  thought  it  good,
+
+Who  if  less  great  than  thou  was  still  God's  slave :
+
+Then  do  not  for  the  sake  of  covetise
+
+Plant  with  the  blood  of  such  a  famous  head
+
+A  tree  whose  growth  and  fruit  will  prove  a  curse,
+
+And  break  the  precedents  of  former  Shahs."  J
+
+Kaiis  replied :  "  I  need  thy  views  hereon,
+But  nathless  I  in  courage,  Grace,  and  treasure
+Surpass  Jamshid  and  Faridun  as  well
+As  Mimichihr  and  Kai  Kubad,  who  never
+Made  mention  of  Mazandaran ;  my  heart
+And  host  are  greater,  and  the  world  is  ""neath
+My  trenchant  scimitar.     The  world  was  won
+When  thou  didst  brandish  thine ;  let  it  see  ours.
+I  shall  go  thither,  snare  them  all,  maintaining
+The  credit  of  myself  and  scimitar,
+Then  tax  them  heavily  or  leave  all  dead,
+So  vile  and  wretched  do  I  hold  that  crew  v.  324
+
+Of  divs  and  sorcerers,  and  thou  wilt  hear
+That  earth  is  void  of  them.     Do  thou  and  Rustam
+Be  regents  of  Iran  and  slumber  not.
+God  is  my  Helper  and  the  prince  of  divs
+My  quarry.     Since  thou  wilt  not  go  with  me
+Bid  me  not  dally  on  my  throne."
+
+Zal  heard,
+
+And  baffled  answered :  "  Thou  art  Shah,  and  we
+Are  slaves  who  speak  in  love  and,  right  or  wrong,
+Must  move  and  breathe  according  to  thy  will.
+I  have  relieved  my  heart  as  knowledge  prompted.
+No  one  can  root  out  death,  sew  up  the  eyes  -\
+
+Of  destiny  with  needles,  or  escape
+
+
+38  THE   SHAHNAMA    OF  FIRDAUSI
+
+From  want  by  abstinence ;  in  this  regard
+^_  E'en  princes  must  submit.     May  this  bright  world
+Prove  prosperous  to  thee,  and  mayst  thou  never
+Have  reason  to  recall  these  words  of  mine ;
+May  thine  own  doings  cause  thee  no  remorse,
+And  be  thy  heart  and  Faith  and  rule  resplendent."
+
+Grieved  that  the  Shah  would  go  Zal  took  his  leave
+In  haste,  and  as  he  left  the  monarch's  presence
+Both  sun  and  moon  were  darkened  in  his  eyes.
+The  gallant  nobles — Tiis,  Gudarz,  Bahram,
+And  Giv — went  with  him,  and  Giv  said  to  Zal : —
+"  May  God  direct  us  !     Were  Kalis  not  Shah
+I  should  esteem  him  naught.      May  greed,  death,  want,
+Be  far  from  thee,  foes'  hands  too  short  to  reach  thee.
+v.  325       Where'er  we  be  or  go  we  hear  thy  praises,
+
+And  next  to  God  trust  thee  who  hath  so  toiled
+For  us."
+
+Thus  Giv.     Zal,  clasping  to  his  heart
+The  warriors,  made  ready  to  depart.
+
+
+§4
+How  Kdus  went  to  Mdzandardn
+
+Next  day  arose  the  tymbals'  din,  Gudarz
+And  Tus  led  on  the  troops.     Kaus,  their  lustre,
+Went  with  them,  and  upon  a  shaded  spot
+Set  up  his  throne  before  Mount  Ispuruz
+For  rest  and  sleep,  while  terror  everywhere
+Fell  on  the  brutish  divs.     Upon  the  heights
+The  Shah  spread  cloth  of  gold ;  the  air  was  fragrant
+v.  326       With  luscious  wine  ;  the  favoured  paladins
+
+Sat  by  his  throne  and  spent  the  night  together.
+At  dawn  they  woke  and  entered  helmed  and  armed
+The  presence  of  the  Shah,  who  ordered  Giv  :—
+"  Choose  from  the  warriors  two  thousand  men —
+
+
+KAI  KAUS  39
+
+Mace-wielders — to  prepare  for  us  a  path
+Mazandanin-ward,  slaughter  young  and  old,
+Fire  all  the  settlements,  turn  day  to  night,
+And  slay  the  warlocks  ere  they  are  aware."
+
+Giv  girt  him,  left  the  portal  of  the  Shah,
+Chose  valiant  warriors,  and  when  he  reached
+Mazandaran  showered  scimitars  and  maces.
+The  women,  children,  and  old  men  with  staves,
+Received  no  quarter  from  his  sword ;  he  sacked
+And  burned  the  cities,  scattering  bane  instead
+Of  antidote.     He  lighted  on  a  spot
+Like  Paradise,  replete  with  all  delights,
+And  in  each  street  and  quarter  countless  slaves
+With  necklaces  and  earrings,  and  still  more
+With  casques  and  faces  like  the  shining  moon.
+In  every  place  were  treasures  stored  away,
+Here  gold,  there  gems.     The  cattle  were  past  count.
+Thou  wouldst  have  said :  "  'Tis  Paradise  itself! "
+They  told  Kaiis  the  news,  who  cried  :  "  Live  happy
+The  man  who  said  :  '  Mazandaran  may  match  v.  327
+
+With  Paradise,  and  thou  wouldst  say  that  all
+The  country  is  an  Idols'  temple  decked
+With  wreaths  of  roses  and  brocade  of  Chin  ;
+Its  Idols  come  from  Paradise  with  faces
+Bathed  in  pomegranate-blossoms  by  Rizwan.' "  l
+
+The  Iranians  plundered  for  one  week,  then  ceased.
+The  monarch  of  Mazandaran  received
+The  news ;  his  heart  was  sad,  his  head  was  heavy.
+There  was  a  div  named  Sanja  at  the  court,
+Who  also  grieved.     The  monarch  said  to  him : —
+"  Go  swift  as  Sol  in  yonder  circling  heaven
+And  tell  the  White  Div :  '  There  hath  come  a  host
+Out  of  fran  to  spoil  Mazandaran ;
+They  have  burnt  up  our  cities  and  inflamed
+Our  vengeance  by  the  outrage.     Kai  Kaiis,
+
+1  The  door-keeper  of  Paradise.
+
+
+40  THE   SHAHNAMA    OF  FIRDAUSI
+
+With  many  young  and  brave,  is  in  command
+Without  thy  help  we  shall  be  all  destroyed.' "
+
+When  Sanja  heard  the  message  he  sped  forth
+And  carried  to  the  di'v  the  king's  appeal.
+The  White  Di'v  answered :  "  Be  not  in  despair,
+For  I  am  coming  with  a  mighty  host
+To  cut  the  Shah's  foot  from  Mazandaran."
+
+He  spake  and  like  a  mountain  rose  erect ;
+His  head  was  level  with  the  turning  sky.
+Y.  328  Night  came,  a  cloud  involved  the  Iranian  host,
+
+The  world  grew  like  a  negro's  face  for  blackness,
+And  thou  hadst  said  :  "  'Tis  like  a  sea  of  pitch,
+And  all  its  light  is  lost."
+
+v.  329  The  White  Div  spread
+
+Above  their  heads  a  tent  of  pitchy  smoke,
+Air  dusked  and  eyes  were  darkened.     From  the  sky
+He  showered  stones  and  darts,  the  Iranian  troops
+Dispersed  abroad,  and  many  sought  fran,
+Heart-broken  at  the  doings  of  Kaiis.
+When  day  had  come  the  ambitious  Shah  and  most
+Among  his  warriors  were  blind.     The  nobles
+Were  wroth  with  him,  his  troops  were  prisoners,
+His  treasures  pillaged,  and  his  fortunes  old.
+It  is  a  ne'er  to  be  forgotten  tale,
+For  at  such  wonders  wonder's  self  must  fail !
+Now  when  the  Shah  perceived  his  plight  he  said : —
+"  A  prudent  minister  is  more  than  treasure ;
+Alas  that  I  accepted  not  the  counsel
+Of  Zal  the  worldlord  but  misdoubted  it."
+
+When  he  had  passed  seven  days  in  misery
+And  looked  on  no  Iranian,  on  the  eighth
+The  White  Div  thundered  at  him  :  "  O  thou  Shah,
+As  fruitless  as  a  willow  !  thou  wouldst  have
+Complete  supremacy  and  seize  our  pastures.
+Like  to  a  maddened  elephant's  appeared
+Thy  strength  to  thee,  thou  wouldst  not  yield  to  any !
+
+
+KAI   KAUS  41
+
+Content  not  with  the  crown  above  thy  throne
+
+Thou  hast  perverted  wisdom  and  hast  wrought
+
+111  in  Muzandanin,  and  slaughtered  many
+
+With  massive  mace.     The  news  of  mine  achievements     v.  330
+
+Perchance  ne'er  reached  thee,  such  a  dullard  thou
+
+On  thine  imperial  throne !     Now  thou  hast  gained
+
+The  fitting  outcome  of  thy  heart's  desire."
+
+Then  of  the  valiant  divs  that  drew  the  sword
+He  chose  twelve  thousand,  setting  them  to  guard
+The  Iranians,  and  afflicted  grievously
+Those  headstrong  men.     He  gave  them  food  enough
+To  keep  them  living  on  from  day  to  day,
+While  all  the  treasures  of  the  Shah  and  host,
+The  jewelled  diadems  and  turquoise  thrones,
+All  that  he  saw,  he  gave  o'er  to  Arzhang,
+The  general  of  Mazandaran,  and  said : —
+"  Convey  these  to  the  king  and  say  to  him  : —
+'  Blame  not  thou  Ahriman,  for  I  have  done
+All  that  was  needed,  and  have  brought  yon  folk
+To  dust.     The  Shah  and  paladins  will  never
+Behold  the  bright  sun  or  the  moon  again.
+I  have  not  threatened  him  with  death,  but  taught  him
+The  ups  and  downs  of  fortune.     He  will  grow
+Wise  through  his  troubles,  and  hereafter  none
+Will  listen  to  such  schemes.'  "
+
+Thereat  Arzhang  v.  331
+
+Went  to  the  monarch  of  Mazandaran,
+And  took  with  him  the  treasure  and  the  troops,
+The  captives  and  the  steeds  caparisoned.
+This  done  the  White  Div  went  back  to  his  home
+As  glorious  as  the  sun,  while  Kai  Kaus
+Eemained  within  Mazandaran  to  moan : —
+"  I  was  to  blame  for  this  and  I  alone."
+
+
+42  THE  SHAHNAMA    OF  F1RDAUSI
+
+§5
+
+The  Message  of  Kai  Kdus  to  Zdl  and  Rustam
+
+Kails  with  stricken  heart  sent  to  Zabul
+
+To  Zal  a  warrior,  like  a  bird  that  flew
+
+As  swift  as  smoke,  to  say :  "  What  hap  is  mine  !
+
+My  crown  and  throne  have  tumbled  to  the  dust,
+
+And  heaven  hath  given  to  the  divs  my  treasures
+
+And  troops  arrayed  like  roses  in  the  spring ;
+
+The  wind,  thou  wouldst  say,  rose  and  bore  them  off.
+
+Mine  eyes  are  blinded  and  my  fortunes  shent,
+
+My  crown  and  throne  are  both  o'erturned,  and  I
+
+Lie  stricken  in  the  hand  of  Ahrirnan,
+
+Who  rendeth  me  asunder,  soul  from  body.
+
+I  often  sigh  to  think  on  thine  advice,
+
+Which  I  rejected  foolishly,  thus  causing
+
+The  present  trouble.     If  thou  dost  not  act
+
+Both  capital  and  interest  will  be  lost."
+
+He  went  as  'twere  a  bird  as  swift  as  smoke
+And  told  what  he  had  seen  and  heard  to  Zal,
+Whose  skin  burst  at  the  tidings,  but  he  kept
+V.  332       The   news  from  friend   and  foe.      His   shrewd    heart
+
+showed  him
+
+The  ills  that  fate  would  bring  upon  Kaiis.
+"  The  scimitar  is  all  but  out,"  he  said
+To  Rustam.     "  We  must  not  thus  feed  at  ease,
+But  make  provision  for  the  crown  itself,
+Because  the  Shah  is  in  the  Dragon's  breath :
+How  great  a  bale  is  on  the  Iranians  !
+Thy  part  is  now  to  saddle  Rakhsh  and  seek
+For  vengeance  with  the  world-allotting  sword.
+God  surely  made  thee  for  a  time  like  this,
+And  thou  art  fitted  for  such  labours  now,
+While  I,  I  have  outlived  two  centuries !
+Thou  wilt  gain  high  renown  and  save  the  Shah.
+
+
+KA1  KAUS  43
+
+Thou  must  not  in  this  Ahriman's  own  business
+
+Take  matters  leisurely  or  stop  to  breathe,
+
+But  don  the  tiger-skin  and  purge  thy  head
+
+Of  sleep  and  thought.     When  one  hath  seen  thy  spear
+
+Will  any  say :  '  His  soul  will  rest  ? '     If  thou
+
+Shouldst  fight  the  sea  'twould  turn  to  blood,  thy  voice
+
+Will  level  mountains.     Thou  must  make  Arzhang,
+
+And  the  White  Div  no  less,  despair  of  life.
+
+As  for  the  monarch  of  Mazandarun
+
+Go  smash  him,  neck  and  spine,  with  thy  great  mace."
+
+He  answered  thus :  "  The  way  is  long,  and  I  ...         v.  333
+How  shall  I  go  to  take  revenge  ? "
+
+SaidZal:—
+
+"  There  are  two  routes  both  hard  and  dangerous ;
+One,  which  is  long,  was  taken  by  Kaus ;
+The  other  is  a  journey  of  two  weeks,
+The  haunt  of  div  and  lion,  and  all  gloom  ;
+Its  murk  will  maze  thine  eyes.     Choose  thou  the  short,
+And  see  its  wonders ;  God  will  be  thine  aid.
+What  though  the  way  be  hard  ?     An  end  will  come,
+The  feet  of  glorious  Rakhsh  will  traverse  it,
+And  I  will  pray  all  night  to  see  again
+Thy  limbs  and  iron  mace ;  while  if  the  Worldlord
+Shall  let  the  divs'  grip  close  upon  thy  life,
+Who  can  resist  His  word  ?     Tis  said  and  done.
+None  can  abide  here  though  he  tarry  long,
+And  one  whose  fame  embraceth  all  the  world
+Is  not  cast  down  at  going."
+
+Rustam  answered : —
+"  I  gird  me  to  obey  although  the  great
+Of  yore  walked  not  to  Hell  advisedly,
+And  only  one  grown  sick  of  life  will  counter
+The  rending  lion.     Think  of  me  as  girt
+And  gone.     I  ask  no  help  but  God's,  will  give
+Both  soul  and  body  for  the  Shah,  and  break
+The  talismans  that  guard  those  sorcerers.
+
+
+44  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+All  that  survive  among  the  Iranians  there
+Will  I  bring  back  and  gird  their  loins  again ;
+I  will  not  spare  the  White  Div  nor  Arzhang,
+Nor  Sanja  nor  Piilad  son  of  Ghundi,
+v.  334       Nor  Bid.     I  swear  by  God,  the  only  God,
+
+Not  to  quit  Rakhsh  till  I  have  bound.  Arzhang
+With  yoke  on  neck  and  hands  as  firm  as  rocks,
+Have  trod  the  brains  and  headpiece  of  Piilad,
+And  shaken  earth  beneath  the  feet  of  Rakhsh."
+
+He  donned  the  tiger-skin  and  stretched  himself,
+While  Zal  called  many  blessings  down  on  him,
+Then  mounted  on  his  elephantine  steed
+With  steadfast  heart  and  mien.     Riidaba  came
+With  tearful  cheeks  while  Zal  too  wept.     She  said : —
+"  So  thou  wilt  go  and  leave  me  here  to  grieve !
+How  canst  thou  hope  in  God  ? "
+
+He  said :  "  Good  mother !
+I  did  not  choose  my  course  ;  'tis  destiny.
+Do  thou  commit  to  God  my  soul  and  body."
+
+The  people  came  to  him  to  say  farewell ;
+Who  knew  if  he  should  look  on  Rustam  more  ?
+
+Uncounted  by  the  wise  the  moments  fly,
+And,  when  an  evil  day  hath  passed  thee,  try
+To  reckon  that  the  world  hath  gained  thereby.
+
+
+THE   SEVEN   COURSES   OF  RUSTAM
+
+§6
+
+THE  FIRST  COURSE
+How  Ral-hsh  fought  with  a  Lion
+
+v.  335        Then  Rustam,  that  world-brightening  paladin,
+Departed  from  his  sire  and,  treating  night
+Like  day,  made  two  days' journey  into  one,
+
+
+KAI  KAUS  45
+
+Not  giving  Rakhsh  repose.     Now  as  his  body
+
+Failed  him  through  lack  of  food  he  reached  a  plain
+
+Where  onager  abounded,  and  urged  Rakhsh
+
+To  whom  their  speed  was  slow  :  no  beast  could  'scape
+
+From  Rustam's  lasso  and  his  horse's  feet.
+
+The  Lion  with  his  royal  lasso  caught
+
+A  gallant  onager  and,  striking  sparks
+
+Upon  an  arrow's  point,  enkindled  fire
+
+With  stubble,  thorns,  and  wood  to  roast  the  beast.
+
+He  ate  the  flesh  and  threw  away  the  bones ;
+
+The  onager  itself  was  pot  and  tray.
+
+He  spied  some  pasture,  slipped  off  Rakhsh's  bridle,
+
+Turned  him  out  loose  upon  the  meadow-land,
+
+And  made  himself  a  couch  within  a  reed-bed ;
+
+He  deemed  it  safe  though  it  was  fear's  own  door,
+
+For  in  it  was  a  lion's  lair ;  no  elephant
+
+Dared  pluck  a  reed.     One  watch  passed,  then  the  lion     v.  336
+
+Came  boldly  forth  and  was  amazed  to  see
+
+An  elephantine  form  among  the  reeds,
+
+Reposing  with  a  charger  standing  by.
+
+"  First,"  said  the  lion,  "  I  must  maim  the  steed,
+
+Then  I  can  take  the  rider  when  I  please."
+
+He  sprang  at  glossy  Rakhsh,  who  raged  like  fire
+And  lashed  out  at  the  lion's  head,  then  fixed
+His  sharp  teeth  in  its  back  and  dashed  the  beast
+To  pieces  by  a  shift  that  made  it  shiftless.
+When  Rustam,  deft  of  hand,  awoke  and  saw
+How  earth  was  straitened  to  that  ravening  beast
+He  said :  "  0  foolish  Rakhsh  !  who  bade  thee  fight
+A  lion  ?     Hadst  thou  perished  'neath  its  claws
+Could  I  have  carried  to  Mazandaran
+My  helmet,  tiger-skin,  bow,  lasso,  sword,
+And   massive    mace  ?      Had  my   sweet   sleep    been
+
+broken
+Thy  combat  with  the  lion  had  been  brief."
+
+He  slept  and  rested  long,  and  when  the  sun
+
+
+46  THE   SHAHNAMA    OF  FIRDAUSI
+
+Rose  o'er  the  darksome  hills  awoke  still  drowsy  ;
+
+He  rubbed  down  Rakhsh  and  saddled  him,  then  prayed
+
+To  God,  the  Author  of  all  good,  for  aid.
+
+
+§7
+
+THE  SECOND  COURSE
+How  Rustam  found  a  Spring
+
+He  had  to  face  all  dizzy  as  he  was
+
+A  desert  waterless,  a  heat  intense
+
+That  dried  the  birds  to  powder ;  plain  and  waste
+
+v.  337       Were  as  they  had  been  scorched  thou  wouldst  have  said.
+Rakhsh  was  exhausted,  while  his  rider's  tongue
+Failed   through  the   heat  and   drought,  and   Rustam,
+
+clutching
+
+A  double-headed  dart,  went  staggering
+Like  one  bemused,  and  saw  no  means  of  safety.
+He  looked  up  saying :  "  0  all-righteous  Judge  !
+Thou  bring'st  all  toil  and  hardship  on  my  head,
+And  if  Thou  findest  pleasure  in  my  pains
+My  hoard  is  great  indeed !     I  fare  in  hope
+That  God  will  grant  deliverance  to  the  Shah,
+And  that  the  Ruler  of  the  world  will  free
+The  Iranians  from  the  clutches  of  the  Div,
+Unscathed.     They  sinned,  and  Thou  hast  cast  them  out,
+But  still  they  are  Thy  slaves  and  worshippers."
+
+v.  338  This  said,  that  elephantine  form  became
+
+Weak  and  distraught  with  thirst,  and  fell,  with  tongue
+
+All  cracked  and  blistered,  on  the  burning  dust.
+
+Anon  a  well-fed  ram  passed  by.     The  hero
+
+On  seeing  thought :  "  Where  is  its  watering-place  ?
+
+In  sooth  God's  mercy  is  extended  to  me ! "
+
+Then  in  the  Worldlord's  strength  rose  to  his  feet
+
+And  followed  up  the  ram,  with  scimitar
+
+
+KAI    KAUS  47
+
+In  one  hand  while  the  other  grasped  the  reins,
+
+Until  he  saw  the  spring,  for  thither  went
+
+That  stately  rain.     Then  Rustarn  looked  toward  heaven,
+
+And  said :  "  0  Judge,  that  ever  speakest  sooth !
+
+The  ram  hath  left  no  tracks  about  the  spring !
+
+It  is  no  desert- sheep  of  flesh  and  blood ! "
+
+When  hardships  press  on  thee,  in  thy  concern
+Flee  unto  God,  the  Just  One ;  they  who  turn
+Away  from  Him  have  wisdom  still  to  learn.
+
+He  blessed  that  ram  and  said  :  "  Ne'er  may  mishap
+From  circling  heaven  be  thine ;  green  be  thy  pastures ;
+May  cheetah  never  mark  thee  for  its  prey ;
+Snapped  be  the  bow  and  dark  the  soul  of  him
+That  shooteth  at  thee  who  hath  rescued  Rustam,
+Else  were  he  thinking  of  his  shroud ;  but  now
+He  is  not  in  the  mighty  dragon's  maw
+As  yet,  or  in  the  clutches  of  the  wolf,
+So  that  the  fragments  of  his  clothes  and  limbs
+Should  serve  as  tokens  to  his  enemies."
+
+His  praises  offered  he  unsaddled  Rakhsh,
+Washed  him,  and  made  him  shining  as  the  sun.
+Then  Rustam  much  refreshed  filled  up  his  quiver
+And  as  he  hunted  dropped  an  onager
+Huge  as  an  elephant,  removed  the  entrails,
+The  hide,  and  feet,  lit  up  a  blazing  fire,
+And  having  washed  the  carcase  roasted  it.
+This  done  he  feasted,  breaking  up  the  bones,
+And  having  quenched  his  thirst  prepared  for  sleep.
+He  said  to  Rakhsh :  "  Fight  not  and  make  no  friends.
+If  any  foe  approacheth  run  to  me,
+But  venture  not  to  counter  di'vs  and  lions."
+
+He  lay  and  slept,  his  lips  in  silence  bound,
+While  Rakhsh  till  midnight  grazed  and  strayed  around.
+
+
+48  THE   SHAHNAMA    OF  FIRDAUSI
+
+
+THE  THIRD  COURSE
+
+How  Rustam  fought  with  a  Dragon
+
+A  dragon,  such  an  one  as,  thou  hadst  said,
+No  elephant  could  'scape,  came  from  the  waste.
+Its  haunt  was  there ;  no  div  dared  pass  thereby.
+It  came,  beheld  the  atheling  asleep,
+A  charger  near  him,  and  was  wroth.     It  thought  :—
+"  What  do  I  see  ?     Who  dareth  to  sleep  here  ? "
+Because  no  lions,  divs,  or  elephants
+Dared  pass  that  way  or,  if  they  did,  escaped  not
+The  clutches  of  that  dragon  fierce  and  fell,
+v.  340       It  turned  on  glossy  Rakhsh,  who  ran  to  Rustam,
+Stamped  with  his  brazen  hoofs  upon  the  ground,
+Whisked  with  his  tail,  and  gave  a  thundering  neigh.
+The  hero  woke  up  furious,  looked  about
+Upon  the  waste,  perceived  not  that  fell  dragon,
+And  wreaked  his  wrath  on  Rakhsh  for  waking  him.
+He  slept  again,  again  the  worm  approached
+Out  of  the  gloom ;  Rakhsh  ran  to  Rustam's  couch,
+And  kicked  the  earth  about  and  trampled  it.
+The  sleeper  woke,  his  cheeks  rose-red  with  passion,
+Looked  round  and,  seeing  nothing  but  the  gloom,
+Said  to  affectionate  and  watchful  Rakhsh : —
+"  Thou  canst  not  blink  the  darkness  of  the  night
+Yet  wakest  me  again  impatiently  !
+If  thou  disturb  me  more  I  will  behead  thee
+With  my  sharp  scimitar,  and  carry  it,
+My  helmet,  and  my  massive  mace,  on  foot.
+I  said :  '  Should  any  lion  come  at  thee
+I  will  encounter  it.'     I  never  said  : —
+'  Rush  on  me  in  the  night ! '     Leave  me  to  slumber."
+Then  for  the  third  time  with  his  tiger-skin
+
+
+KAI   KAUS  49
+
+Upon  his  breast  he  set  himself  to  sleep.
+
+The  fearsome  dragon  roared  and,  thou  hadst  said,
+
+Breathed  fire.     Rakhsh  left  the  pasturage  forthwith,
+
+But  dared  not  to  approach  the  paladin.
+
+Yet  was  his  heart  distracted  by  his  fears
+
+For  Rustam  with  that  dragon,  till  at  length,
+
+O'ermastered  by  affection  for  his  lord,
+
+He  rushed  swift  as  a  blast  to  Rustam's  side
+
+And  neighed  and  fretted,  pawed  upon  the  ground,  V.  341
+
+And  stamped  the  earth  to  pieces  with  his  hoofs.
+
+Then  Rustam,  wakened  from  his  sweet  repose,
+
+Raged  at  his  docile  steed ;  but  now  the  Maker
+
+Willed  that  the  dragon  should  be  seen,  and  Rustam,
+
+Perceiving  it  amid  the  gloom,  unsheathed
+
+The  keen  sword  at  his  girdle,  thundered  out
+
+Like  spring-clouds,  and  filled  earth  with  battle-fire.
+
+Then  said  he  to  the  dragon :  "  Tell  thy  name ;
+
+Earth  is  no  longer  thine,  yet  must  not  I
+
+Rob  thy  dark  form  of  life,  thy  name  untold."
+
+The  laidly  dragon  said :  "  None  scape th  me.
+For  centuries  this  waste  hath  been  my  home,
+And  mine  its  firmament ;  no  eagle  dareth
+To  fly  across  or  star  to  dream  thereof."
+It  further  said  :  "  What  is  thy  name,  for  she
+Will  have  to  weep  that  bare  thee  ? "
+
+"  I  am  Rustam,"
+
+He  answered,  "  sprung  from  Zal — the  son  of  Sam —
+And  Nariman  withal.     I  am  myself
+A  host,  and  trample  earth  'neath  dauntless  Rakhsh.
+Thou  shalt  behold  my  prowess ;  I  will  lay
+Thy  head  in  dust."
+
+The  dragon  closed  with  him,
+And  in  the  end  escaped  not  though  it  strove
+So  fiercely  with  the  elephantine  hero
+That  thou  hadst  said  :  "  He  will  be  worsted."     Rakhsh,
+On  seeing  the  dragon's  might,  and  how  it  battled
+
+VOL.  II.  D
+
+
+50  THE   SHAHNAMA    OF  FIRDAUSI
+
+With  Rustam,  laid  his  ears  back,  joined  the  fray,
+Bit  at  the  dragon's  shoulders,  tore  its  hide
+As  though  he  were  a  lion,  and  amazed
+The  valiant  paladin,  who  with  keen  glaive
+Smote  off  the  dragon's  head ;  blood  jetted  out
+In  rivers,  and  its  carcase  hid  the  earth,
+v.  342       The  matchless  one,  astonied  at  the  sight,
+
+Invoked  God's  name  and  bathed  him  in  the  spring.
+Desiring  conquest  through  God's  strength  alone
+He  said :  "  0  righteous  Judge  !  me  Thou  hast  given
+Grace,  might,  and  wisdom  ;  what  care  I  for  lion,
+Div,  elephant,  parched  desert,  and  blue  sea  ?
+When  I  am  wroth  all  foes  are  one  to  me."
+
+
+§9
+THE  FOURTH  COURSE
+
+How  Rustam  slew  a  Witch
+
+Thanksgivings  done,  he  harnessed  rose- cheeked  Rakhsh
+And  mounting  came  in  time  where  sorcerers  dwelt.
+Long  had  he  fared  and  saw,  as  Sol  declined,
+Trees,  grass,  and  stream— the  very  spot  for  youth.
+There  was  a  spring  as  bright  as  pheasant's  eyes ;
+Beside  it  were  a  golden  bowl  of  wine,
+A  roasted  mountain-sheep  with  bread  thereon,
+And  salts  and  sweetmeats.     Rustam  thanked  the  Lord
+For  showing  him  a  place  so  opportune,
+Dismounted  from  his  steed,  took  off  the  saddle,
+And  marvelled  at  the  loaves  and  venison.
+V.  343       It  was  a  sorcerers'  meal,  and  when  he  came
+His  voice  had  caused  those  divs  to  disappear.
+He  sat  beside  the  rushy  stream  and  brimmed
+A  jewelled  cup  with  wine.     A  dainty  lute
+
+
+KAI   KAtiS  51
+
+Was  there,  the  desert  seemed  a  banquet-hall !
+
+He  took  the  lute  up,  touched  the  chords,  and  sang :  —
+
+"  Oh  !  Rustam  is  an  outcast  still
+
+And  hath  no  days  of  pleasure,
+Marked  out  for  every  kind  of  ill
+And  not  a  moment's  leisure.
+
+"  Be  where  he  may  it  is  his  plight
+
+With  battle  still  to  harden,
+And  wilderness  and  mountain-height
+Must  serve  him  for  a  garden.
+
+"  His  combatings  are  never  done
+And  there  is  no  assuagement,
+Tis  dragon,  div,  and  desert — one
+Perpetual  engagement !
+
+"  The  wine  and  cup,  the  scented  rose,
+
+And  where  lush  herbage  groweth —
+Such  things  are  not  at  his  dispose,
+These  fortune  ne'er  bestoweth
+
+"  On  one  that  with  the  crocodile
+
+Is  still  engaged  in  fighting,
+Save  when  the  leopard  for  a  while
+The  combat  is  inviting."
+
+The  sound  of  music  reached  a  witch's  ears ;
+She  made  her  cheeks  like  spring,  although  by  rights
+She  was  not  fair,  and  then,  perfumed  and  decked,
+Approached,  saluted,  and  sat  down  by  Rustam,
+Who  gave  God  thanks  at  finding  in  the  desert
+Board,  wine,  and  lute,  and  youthful  boon-companion.
+Not  knowing  that  she  was  a  wicked  witch,
+An  Ahriman  beneath  her  bravery,
+
+
+52  THE   SHAHNAMA    OF  FIRDAUSI
+
+He  handed  her  a  cup  of  wine,  invoking
+
+The  Giver  of  all  good.     Now  when  he  named
+
+The  Lord  of  love  her  favour  changed ;  no  soul
+
+Had  she  for  gratitude,  no  tongue  for  praise,
+
+But  blackened  at  God's  name,  while  Rustain,  flinging
+
+His  lasso  quicker  than  the  wind,  ensnared,
+
+And  questioned  her :  "  What  art  thou  ?     Speak  and  show
+
+Thy  proper  favour."
+
+In  the  lasso's  coils
+
+There  was  a  fetid  hag  all  guile  and  wrinkle,
+v.  344       Calamitous.     He  clave  her  with  his  blade
+And  made  the  hearts  of  sorcerers  afraid.
+
+§  10
+
+THE  FIFTH  COURSE
+How  Rustam  took   ftldd  captive
+
+He  journeyed  on  and  reached  a  place  of  gloom
+
+Black  as  a  negro's  face — a  murky  night
+
+Without  a  star  or  moon ;  thou  wouldst  have  said : —
+
+"  The  sun  is  captive  and  the  stars  are  lassoed  ! "
+
+He  gave  the  rein  to  Rakhsh  and  journeyed  on,
+
+Not  seeing  height  or  river  for  the  murk.
+
+When  he  emerged  to  light  he  saw  a  land,
+
+Like  painted  silk  with  crops,  where  all  was  verdure
+
+And  streams ;  the  old  world  had  renewed  its  youth.
+
+His  clothes  were  drenched,  and  longing  for  repose
+
+He  took  off  his  cuirass  of  tiger-skin,
+
+And  dripping  helm,  to  dry  them  in  the  sun,
+
+Unbridled  Rakhsh,  and  loosed  him  in  the  corn,
+
+Then,  donning  his  dried  helmet  and  his  breastplate,
+
+Couched  like  a  mighty  lion  in  the  grass,
+
+His  shield  his  pillow  and  his  hand  on  hilt.
+
+The  watchman  of  the  plain,  on  seeing  Rakhsh
+
+Among  the  crops,  ran  up  with  hue  and  cry ;
+
+He  smote  the  hero  smartly  with  a  stick
+
+
+KAI   KAUS  53
+
+Upon  the  foot  and  said,  as  Rustam  woke : —
+
+"  0  Ahriman  !  why  didst  thou  loose  thy  steed
+
+Among  the  corn  to  eat  where  others  toiled  ? "
+
+But  Rustam,  angered,  seized  the  watchman's  ears,
+
+Wrung  them  and  tore  them  off  without  a  word.
+
+The  watchman  howled  and  snatched  them  up,  aghast      v.  345
+
+At  Rustam.     Now  triad  was  marchlord  there —
+
+A  brave  and  famous  youth.     To  him  the  watchman
+
+Went  howling  with  his  hands  and  head  all  bloody,
+
+And  ears  wrung  off,  and  said  :  "  There  is  a  man,
+
+Like  the  Black  Div,  with  leopard-skin  cuirass
+
+And  iron  casque,  a  perfect  Ahriman,
+
+Or  else  a  dragon  was  asleep  in  mail !
+
+I  went  to  drive  his  charger  from  the  corn,
+
+He  would  not  suffer  it  but,  when  he  saw  me,
+
+Rose  without  word,  wrung  off  mine  ears,  and  slept ! "
+
+triad  was  hunting  there  with  other  nobles,
+But  when  he  heard  the  watchman  and  beheld
+The  Lion's  track  in  his  preserves,  they  rode
+Toward  where  the  peerless  Rustam  had  been  seen
+To  find  out  who  he  was,  and  why  he  served
+The  watchman  of  the  plain  so  scurvily.
+Ulad  in  threatening  wise  drew  near  to  Rustarn,
+Who  mounted  Rakhsh,  unsheathed  his  trenchant  sword,
+And  then  came  onward  like  a  thunder-cloud.
+As  they  drew  near  they  questioned  one  another.
+"  What  is  thy  name  ? "  triad  cried.     "  Who  art  thou  ?
+Who  is  thy  king  and  who  is  backing  thee  ?
+Hence  is  no  passage  to  the  warrior-divs.
+Why  didst  thou  tear  away  the  watchman's  ears
+And  turn  thy  charger  loose  among  the  corn  ?
+Just  so  will  I  make  black  the  world  to  thee
+And  lay  thy  helm  in  dust."
+
+"  My  name  is  '  f:oud,' "  l         v.  346
+Said  Rustam,  "  if  a  cloud  hath  lion's  claws,
+
+i  Cf.  p.  13.
+
+
+54  THE   SHAHNAMA    OF  FIRDAUSI
+
+With  swords  and  maces  only  for  its  fruit,
+
+And  beareth  on  its  lap  the  heads  of  chieftains.
+
+My  real  name,  should  it  reach  thine  ears,  would  freeze
+
+Thy  life's  breath  and  heart's  blood.    Hast  thou  not  heard
+
+Of  the  elephantine  warrior's  bow  and  lasso
+
+In  every  company  ?     We  call  the  mothers
+
+Of  sons  like  thee  shroud-stitchers,  wailing- women.
+
+Thou  comest  thus  against  me  with  a  troop,
+
+But  only  throwest  walnuts  on  a  dome."
+
+With  that  he  drew  his  baleful  Crocodile,
+Hung  his  coiled  lasso  to  the  saddle-bow,
+Came  like  a  lion  midst  a  flock,  and  slew
+All  that  were  in  his  reach.     At  every  stroke
+He  sheared  two  chieftains'  heads  and  strewed  the  dust
+Beneath  his  feet  therewith.     The  troops  thus  broken
+Fled  in  dismay,  and  wilderness  and  dale
+Were  filled  with  dust-clouds  by  the  cavaliers
+As  they  dispersed  among  the  rocks  and  hollows.
+Then  Rustam,  like  an  elephant  enraged,
+With  sixty  coils  of  lasso  on  his  arm,
+Pressed  forward  and,  when  Rakhsh  was  near  triad,
+Whose  day  was  darkened,  flung  his  mighty  lasso,
+Ensnared  that  chieftain's  head,  and  then  alighting
+Made  fast  his  hands,  drave  him  in  front  and,  mounting,
+Said :  "  If  thou  speak  the  truth,  and  if  I  find
+No  guile  at  all  in  thee  from  first  to  last,
+If  thou  wilt  show  me  where  the  White  Div  dwelleth,
+Where  dwell  Piilad  son  of  Ghundi  and  Bid,
+And  where  Kaiis,  who  caused  these  ills,  is  bound ;
+V.  347        If  thou  dost  show  this  truly  and  art  faithful,
+Then  from  the  monarch  of  Mazandanin
+Will  I  take  crown  and  throne  and  massive  mace,
+And  thou  shalt  be  the  ruler  of  the  land ;
+But  if  thy  T^rds  prove  guileful  I  will  make
+Thine  eyes  run  blood."
+
+triad  said :  "  Be  not  wroth,
+
+
+KAI  KAUS  55
+
+But  gracious  just  for  once  and  slay  me  not
+
+In  wantonness,  and  I  will  answer  thee.
+
+I  will  point  out  to  thee  the  roads  and  city
+
+Wherein  Kaiis  is  bound,  the  AVhite  Div's  dwelling
+
+And  Bid's,  since  thou  hast  reassured  my  heart.
+
+Know,  0  thou  worshipful  div-hearted  hero  !
+
+That  God  hath  fashioned  thee  of  noble  clay !
+
+There  are  between  us  now  and  Kai  Kaiis
+
+A  hundred  leagues,  O  thou  of  gracious  feet !
+
+Whence  to  the  White  Div  is  another  hundred.
+
+The  road  is  bad  and  dangerous,  through  a  gorge —
+
+A  fearful  spot  o'er  which  no  eagle  flieth.
+
+There  is  a  cavern  midst  two  hundred  others,
+
+A  wondrous  place  beyond  all  measurement,
+
+And  there  twelve  thousand  warriors,  all  divs,
+
+Keep  watch  by  night  upon  the  mountain-top ;
+
+Their  captain  is  Pulad  son  of  Ghundi,
+
+While  Bid  and  Sanja  are  their  outpost-guards.
+
+Of  all  the  divs  the  White  Div  is  the  chief ;
+
+At  him  the  mountains  shake  like  willow-leaves,
+
+And  thou  wilt  find  his  person  mountain-tall,
+
+With  shoulders,  breast,  and  neck  ten  cords  across.
+
+E'en  with  such  arms  and  hands  and  reins  as  thine,
+
+And  though  thou  brandishest  sword,  mace,  and  spear,
+
+And  hast  such  stature,  mien,  and  energy,
+
+It  is  not  well  for  thee  to  fight  that  div.
+
+Beyond  are  rocks  that  no  gazelle  could  pass,
+
+And  then  a  river  two  leagues  wide  and  more  v.  348
+
+Watched  by  the  div  in  charge  of  all  that  province
+
+With  all  the  other  divs  at  his  command.
+
+Call  it  three  hundred  leagues  to  the  Narmpai 1
+
+From  the  Buzgush,2  whence  to  Mazandaran
+
+The  journey  is  a  foul  and  tedious  one.
+
+1  The  name  of  a  tribe,  "  the  Bandy-legged  "  ;  lfj.avr6Trod€s,  loripedes.
+Cf.  p.  63.
+
+2  The  name  of  a  tribe,  "  the  Goat-ears."
+
+
+56  THE   SHAHNAMA    OF  FIRDAUSI
+
+A  myriad  of  cavaliers  at  least
+
+Are  posted  through  the  realm,  so  armed  and  paid
+
+That  thou  wilt  not  see  one  dissatisfied.
+
+There  are  twelve  hundred  elephants  of  war ;
+
+The  city  cannot  hold  them.     Thou'rt  but  one,
+
+Though  iron,  and  but  gratest  on  the  file
+
+Of  Ahriman."
+
+The  words  made  Rustam  laugh.
+tl  If  thou  wilt  be  my  comrade,"  he  replied,
+"  Thou  shalt  see  how  one  elephantine  chief
+Will  treat  yon  famous  band  by  help  of  God,
+The  Prosperer,  and  fortune,  arms,  and  prowess.
+When  they  behold  my  might  of  breast  and  neck,
+And  mace-blows  in  the  fight,  their  feet  and  hides
+Will  burst  in  sheer  dismay,  they  will  not  know
+A  stirrup  from  a  rein ;  so  point  me  out
+Kaiis,  where'er  he  be,  and  step  along."
+
+This  said,  he  sprang  on  Rakhsh,  while  swift  as  wind
+tllad  ran  on  beside  him,  day  or  night
+Not  resting  till  he  reached  Mount  Ispuriiz,
+Where  divs  and  warlocks  had  o'erthrown  Kaus.
+At  midnight  shoutings  went  up  from  the  plain,
+The  folk  lit  watch-fires  in  Mazandaran
+And  torches  everywhere.     Then  matchless  Rustam
+Asked  of  "Olad :  "  What  is  the  cause  that  fires
+Are  springing  up  to  right  and  left  of  us  ? "
+
+"  It  is  the  entrance  to  Mazandaran,"
+tllad  replied.     "  The  more  part  of  each  night
+V.  349       None  dareth  sleep ;  the  div  Arzhang  is  there
+And  he  is  ever  noisy."
+
+Rustam  slept
+
+Till  dawn,  then  took  Iliad,  bound  him  in  anguish
+Against  a  tree,  and,  hanging  on  the  saddle
+The  mace  his  grandsire  had  been  wont  to  use,
+Departed  confident  and  full  of  ruse.
+
+
+KAI  KAVS  57
+
+S"
+
+THE  SIXTH  COURSE
+
+How  Rustam  fought  with  the  D'w  Arzhang
+
+In  royal  helm  and  sweat-soaked  tiger-skin
+
+He  sought,  intent  on  fight,  the  chief  Arzhang,
+
+And  shouted  in  the  middle  of  the  host ;
+
+Thou   wouldst  have  said :    "  The   hills   and    seas   are
+
+rent ! "
+
+The  div  Arzhang  came  leaping  from  the  camp
+At  that  tremendous  shout,  while  Rustam  spurring
+Came  on  him  like  Azargashasp,  grasped  boldly
+His  head  and  ears  and  neck,  then  lion-like
+Tore  off  his  head  and  flung  it  at  his  troops.
+The  divs'  hearts  burst  in  terror  at  the  sight
+Of  Rustam's  iron  mace,  and  son  and  sire,
+Forgetting  land  and  crops,  went  off  pell  mell,
+While  Rustam  drew  his  vengeful  scimitar
+And  cleared  the  neighbourhood.     At  set  of  sun
+He  made  all  speed  back  to  Mount  Ispuriiz,
+Untied  "Clad,  and,  as  they  sat  beneath
+
+The  lofty  tree,  asked  how  to  reach  the  cit}^  v.  350
+
+Where  Shah  Kaus  was,  and  then  hurried  on
+Led  by  triad  afoot.     When  he  arrived
+Rakhsh  gave  a  thundering  neigh,  which  Kai  Kaiis,
+Who  heard  it,  understood  and  told  the  Iranians : —
+"  Our  evil  days  are  all  but  over  now ;
+I  heard  the  neigh  of  Rakhsh ;  it  made  ni}^  heart
+And  spirit  young.     Thus  neighed  he  in  the  wars
+Of  Kai  Kubad  against  the  Turkman  king."
+
+The   soldiers   said :  "  His  mind  hath  gone   through
+
+hardship,
+
+And  he  hath  lost  his  wisdom,  sense,  and  Grace !
+Thou  wouldest  say:  'He  talketh  in  his  sleep/
+
+
+58  THE   SHAHNAMA    OF  FIRDAUSI
+
+But  in  these  grievous  bonds  we  can  do  naught ;
+In  good  sooth  fortune  hath  abandoned  us."
+
+Anon  that  ardent  lover  of  the  fray,
+The  elephantine  chief,  approached  Kaus,
+And  all  the  noble  paladins — Giidarz,
+Tiis,  gallant  Giv,  Bahrain  the  Lion,  Shidush,
+And  Gustaham — nocked  round  while  Kustam  wept
+Right  sorely,  did  obeisance  to  the  Shah,
+And  asked  about  his  longsome  toils.     Kaus,
+Embracing  him,  inquired  concerning  Zal,
+And  all  his  travail,  then  said  privily  : —
+"  Let  not  these  sorcerers  get  sight  of  Rakhsh,
+For  when  the  White  Div  is  apprised :  '  Arzhang
+Is  dead  and  Rustam  is  with  Kai  Kaiis ! '
+The  valiant  divs  will  gather,  earth  will  teem
+With  them,  and  then  thy  toils  will  bear  no  fruit.
+Seek  the  White  Div's  abode,  exert  thyself
+V.  35 1        With  sword  and  arrow  ;  holy  God  may  aid  thee
+In  bringing  to  the  dust  these  sorcerers'  heads.
+O'er  seven  mountains  must  thou  pass,  and  troops
+Of  divs  throng  everywhere.     At  length  a  cavern
+Of  frightful  aspect  will  appear  before  thee,
+A  fearsome  place,  as  I  have  heard  :  the  approach
+Is  held  by  warrior-divs  equipped  like  pards
+For  fight.     That  cavern  is  the  White  Div's  home :
+He  is  the  hope  and  terror  of  his  troops.
+May'st  thou  have  strength  to  put  an  end  to  him
+Because  he  is  that  army's  chief  and  stay.
+My  soldiers'  eyes  are  blinded  by  their  griefs ;
+I  am  in  darkness  too.     Our  leeches  trust
+To  blood  extracted  from  the  White  Div's  vitals,
+In  which  regard  a  wise  physician  said  :—
+'  Let  three  drops  of  his  blood  descend  like  tears
+Upon  the  eyes  and  it  will  banish  blindness.' "
+
+He  made  him  ready,  and  in  setting  forth
+Spake  thus  to  the  Iranians  :  "  Be  alert,
+
+
+KAI  KAUS  59
+
+For  'tis  the  White  Div  that  I  go  against—
+That  Elephant  of  war,  full  of  resource,
+And  compassed  by  a  host  of  warriors.
+If  he  shall  catch  my  body  with  his  noose
+A  shameful  sorry  plight  will  long  be  yours,
+But  if  the  Lord  and  my  good  star  shall  aid  me
+Our  country  and  our  throne  will  we  restore,
+And  this  our  royal  Tree  shall  fruit  once  more."
+
+
+§  12
+
+THE  SEVENTH  COURSE
+How  Rustam  slew  the   White  Div
+
+He  went  girt  up — all  battle  and  revenge ;
+
+He  took  triad  and  made  Kakhsh  go  like  wind.  v.  352
+
+As  soon  as  Rakhsh  had  reached  the  seven  mountains,
+
+With  all  their  troops  of  valiant  divs,  the  chieftain
+
+Drew  near  the  abysmal  cave,  saw  them  on  guard,
+
+And  spake  thus  to  Ulad :  "  Thou  hast  been  faithful,
+
+So  now  that  we  must  act  point  out  the  way."
+
+"Clad  made  answer  :  "When  the  sun  is  hot
+The  divs  will  sleep  and  thou  wilt  overcome  them  ;
+So  bide  thy  time  and  thou  wilt  see  no  divs,
+Except  some  few  on  duty,  and  may'st  triumph
+If  He  that  giveth  victory  shall  aid  thee."
+
+So  Rustam  paused  till  noon,  then,  having  bound
+Ulad  fast  with  the  lasso,  mounted  Rakhsh,
+Unsheathed  his  warlike  Crocodile,  and  shouted
+His  name  like  thunder,  came  like  flying  dust
+Among  the  troops,  and  parted  heads  from  trunks.
+None  sought  for  glory  by  withstanding  him.
+Thence  radiant  as  the  sun  he  went  to  seek
+The  White  Div,  found  a  pit  like  Hell,  but  saw  not
+The  sorcerer  for  the  murk.     There  sword  in  hand
+
+
+60  THE   SHAHNAMA    OF  FIRDAUSl
+
+He  paused ;  no  room  was  there  for  fight  or  flight.
+
+V-  353       He  rubbed  his  eyelids,  bathed  his  eyes,  and  searched
+The  cave  till  in  the  gloom  he  saw  a  Mountain
+That  blotted  all  within,  with  sable  face
+And  hair  like  lion's  mane — a  world  to  see  !
+Now  Rustam  hasted  not  to  slay  the  div
+Asleep,  but  roused  him  with  a  leopard's  roar.
+He  charged  at  Rustam,  like  a  gloomy  mountain
+With  iron  helm  and  brassards,  seized  a  millstone
+And  drave  at  him  like  smoke.     The  hero  quailed,
+And   thought :   "  Mine   end   is   come ! "     Yet   like  a
+
+lion
+
+Enraged  he  struck  full  at  the  div  and  lopped
+From  that  enormous  bulk  a  hand  and  foot,
+So  mighty  was  he  with  his  trenchant  sword !
+As  'twere  some  lofty-crested  elephant
+And  lion  in  its  wrath  the  maimed  div  closed
+With  Rustam,  and  one-footed  wrecked  the  cave.
+They  wrestled,  tearing  out  each  other's  flesh,
+Till  all  the  ground  was  puddled  with  their  blood,
+And  Rustam  thought :  "  If  I  survive  this  day
+I  ne'er  shall  die."
+
+The  White  Div  also  thought  :—
+"  Life  hath  no  hopes  for  me,  for,  should  I  scape
+This  Dragon's  claws,  maimed  as  I  am  and  torn,
+None  great  or  small  within  Mazandaran
+Will  look  at  me."
+
+Such  was  his  wretched  comfort !
+But  still  they  wrestled,  streaming  blood  and  sweat,
+
+v-  354       While  elephantine  Rustam  in  God's  strength
+Strove  mightily  in  anguish  and  revenge,
+Till  sore  bestead,  bold  Lion  that  he  was,
+He  reached  out,  clutched  the  div,  raised  him  neck-
+high,
+
+And  dashed  the  life-breath  from  him  on  the  ground,
+Then  with  a  dagger  stabbed  him  to  the  heart
+
+
+KAI  KAUS  61
+
+And  plucked  the  liver  from  his  swarthy  form  :
+
+The  carcase  filled  the  cave,  and  all  the  world
+
+Was  like  a  sea  of  blood.     Then  Rustam  freed
+
+Ulad,  put  back  the  lasso  in  the  straps,
+
+And,  giving  him  the  liver  of  the  div
+
+To  carry,  went  back  to  Shah  Kai  Kiius.
+
+"  O  Lion  ! "  said  triad,  "  thou  hast  subdued  v.  355
+
+The  world  beneath  thy  sword,  and  I  myself
+
+On  my  bruised  body  bears  thy  lasso's  marks,
+
+So  now  I  hope  that  thou  wilt  keep  thy  promise,
+
+For  lion-fierceness  and  a  royal  mien
+
+Sort  not  with  broken  faith."
+
+"  I  give  thee  all
+
+Mazandaran,"  he  answered.     "  I  have  yet
+Long  toils  before  me,  many  ups  and  downs,
+For  I  must  hale  its  monarch  from  his  throne
+And  fling  him  in  a  ditch,  behead  a  myriad
+Of  sorcerer-divs  with  my  relentless  sword,
+And  then,  it  may  be,  tread  the  ground  again,1
+But  if  not  I  will  still  keep  faith  with  thee."
+
+He  reached  Kaus  while  all  in  gladness  cried : —
+"  The  chief  of  ardent  spirit  hath  returned  ! "
+And  ran  to  him  with  thanks  and  praise  past  count.
+He  said :  "  0  Shah,  thou  seeker  after  knowledge  !
+Rejoice,  thy  foe  is  slain.     I  have  ripped  out  V.  356
+
+The  White  Div's  liver,  and  his  king  hath  naught
+To  hope  from  him.     What  would  my  lord  the  Shah  ? "
+
+Kaiis  blessed  Rustam.     "  Ne'er  may  crown  and  host
+Lack  thee,"  he  said.     "  The  mother  of  such  offspring-
+Must  not  be  mentioned  but  in  terms  of  praise.
+Now  may  a  thousand  blessings  be  on  Zal,
+And  on  the  country  of  Zabulistan,
+Because  they  have  produced  so  brave  a  chief.
+In  sooth  the  age  hath  not  beheld  thy  like,
+
+1  In  war-time  he  would  ride,  and  he  had  sworn  to  ride  till  he  had
+triumphed.     Cf.  p.  44.
+
+
+62  THE  SHAHNAMA    OF  FIRDAUSI
+
+But  brighter  still  is  my  lot  since  I  have
+For  liege  this  lion-slaying  Elephant."
+
+When  he  had  made  an  end  of  praise  he  said : —
+"  0  warrior  of  blessed  steps  !  now  put
+The  White  Div's  blood  upon  mine  eyes  and  those
+Of  all  my  folk ;  God  willing,  we  may  see
+Thy  face  again."
+
+They  anointed  his  dim  eyes,
+
+Which  grew  as  bright  as  Sol,  and  forthwith  Rustarn
+Anointed  all  the  others  with  the  blood.
+Their  eyes  grew  bright,  and  all  the  world  to  them
+A  rosary.     They  hung  the  crown  and  set
+Kaus  beneath  it  on  an  ivory  throne
+As  monarch  of  Mazandaran,  with  Rustam,
+Tus,  Fariburz,  Giidarz,  Ruhham,  and  Giv,
+Gurgm,  and  brave  Bahrain.     One  week  he  revelled,
+The  eighth  day  mounted  with  his  chiefs  and  troops,
+Who  spread  themselves  like  fire  among  dry  reeds
+Throughout  the  land  and  plied  the  massive  mace
+According  to  the  bidding  of  the  Shah.
+They  scorched  the  realm  with  their  keen  scimitars,
+v.  357        And  of  the  warlocks  slew  so  many  that  blood
+
+Flowed  in  a  river.     When  night  fell  the  warriors
+All  rested  and  Kaus  proclaimed :  "  The  wrong
+Hath  been  avenged,  the  divs  have  their  deserts,
+'Tis  time  to  cease  from  slaughter.     Now  we  need
+A  man  of  weight  and  sense,  with  sense  to  wait
+Yet  prompt,  to  work  upon  and  overawe
+The  monarch  of  Mazandaran."
+
+The  son
+
+Of  Zal  and  all  the  other  chiefs  agreed
+On  this  that  such  a  letter  should  be  sent
+To  give  his  darkened  mind  enlightenment.
+
+
+KAI  KAVS  63
+
+§'3
+Hoiv  Kdils  wrote  to  the  King  of  Mdzandardn
+
+A  skilled  scribe  wrote  upon  white  silk  a  letter
+
+Both  kind  and  harsh,  inspiring  hope  and  fear,
+
+First  praising  God,  the  Source  of  every  good,
+
+"  Who  gave  man  wisdom,  made  the  turning  sky,
+
+Revealing  hardship,  cruelty,  and  love,
+
+Who  gave  to  us  to  compass  good  and  ill,
+
+And  ruleth  o'er  the  circling  sun  and  moon.  .  .  .
+
+If  thou  art  upright  and  thy  Faith  is  pure  v.  358
+
+All  men  will  praise  thee,  but  the  curse  of  heaven
+
+Will  fall  on  thee  if  ill-disposed  and  hurtful.
+
+If  God  is  just  why  should  His  laws  be  broken  ?
+
+Observe  how  He  in  punishment  for  sin
+
+Is  sending  dust  from  div  and  sorcerer !
+
+So  now  if  news  hath  reached  thee  of  their  fate,
+
+And  mind  and  wisdom  are  thy  monitors,
+
+Quit  thou  thy  throne  and  from  Mazandaran
+
+Come,  like  our  other  subjects,  to  our  court,
+
+And,  as  thou  canst  not  strive  with  Rustam,  pay
+
+Such  tax  and  tribute  as  we  may  demand.
+
+Thus  haply  thou  mayst  still  retain  thy  throne ;
+
+But  if  thou  wilt  not  pay  despair  of  life,
+
+E'en  as  the  White  Div  and  Arzhang  despaired."
+
+The  letter  done,  the  Shah  affixed  his  seal
+Of  musk  and  spicery,  and  called  Farhad —
+Him  of  the  mace  of  steel,  a  favourite
+Among  the  nobles  of  the  land,  and  one
+Who  had  not  shared  the  warfare  and  the  toil —
+To  whom  he  said :  "  Convey  to  yonder  div
+Escaped  from  bonds  this  letter  of  advice."
+
+He  kissed  the  ground,  bare  the  Shuh's  letter  forth,
+And  reached  the  valiant  horsemen,  the  Narmpai.1
+The  people  there  with  leathern  feet  appear,
+1  cf.  P.  55.
+
+
+64  THE   SHAHNAMA    OF  FIRDAUSI
+
+Hence  their  nickname  Narmpai  for  many  a  year.
+
+There  lived  among  his  chiefs  and  men  of  war
+
+The  monarch  of  Mazandaran  of  yore.
+
+Farhad  sent  on  a  man  to  tell  the  king
+
+Of  his  approach  and  business,  who  on  hearing  : —
+
+"  A  prudent  envoy  cometh  from  the  Shah,"
+
+Sent  forward  to  receive  him  a  great  host,
+
+v.  359       Selected  by  the  king  to  show  his  power,
+
+To  whom  he  said :  "We  must  make  known  to-day
+How  great  the  difference  is  'twixt  man  and  div,
+So  act  the  pard  and  get  these  sages'  leader
+Within  your  clutches  that  he  may  repent
+Himself  in  terror  at  the  sight  of  you."
+
+They  went  forth  frowning  but  their  purpose  failed.
+On  coming  to  Farhad  one  of  the  chiefs —
+A  mighty  man — took  hold  upon  his  hand,
+Wrung  it,  and  pained  him,  yet  he  did  not  blench,
+Or  Hush.     They  carried  him  before  the  king,
+Who  asked  about  Kaiis  and  that  long  journey,
+Then  set  the  document  before  a  scribe,
+And  sprinkled  wine  and  musk  upon  the  silk.
+He  read  the  letter  to  the  king  who  writhed ;
+But  when  he  heard  of  Rustam  and  the  div
+Blood   filled   his    eyes,    his    heart    throbbed,    and    he
+
+thought : —
+
+"  Tis  sunset  and  night  cometh,  'tis  the  time
+For  rest,  but  Rustam  will  not  let  earth  rest,
+His  name  will  always  be  in  evidence."
+
+He  mourned  Arzhang  and  the  White  Div,  the  slaying
+Of  Bid  and  of  Pulad  son  of  Ghundi,
+Then  entertained  the  envoy  for  three  days
+Among  the  warriors  and  men  of  name,
+And  on  the  fourth  said  :  "  Go  back  to  the  Shah,
+That  witless  youth,  and  bear  to  him  this  answer : —
+'  Is  wine  unmingled  in  the  cup  of  fortune  ?
+
+v.  360        A.m  I  such  that  thou  sayest :  "  Quit  thy  land,
+
+
+KAI  KAUS  65
+
+Thy  throne  and  country,  and  attend  my  court  ? "
+
+My  court  is  more  exalted  than  thine  own,
+
+Mine  are  a  thousand  thousand  troops  and  more,
+
+And  wheresoe'er  they  turn  them  in  the  fight
+
+They  leave  not  stone  or  colour  or  perfume.
+
+Prepare  thyself  forthwith ;  I  shall  be  ready ;
+
+I  will  lead  forth  an  army  lion-like
+
+And    rouse    those   heads    of   yours   from    their   sweet
+
+slumbers.
+
+I  have  twelve  hundred  elephants  of  war,
+While  thou  hast  nftne,  and  I  will  send  dark  dust
+Up  from  1  ran  till  hills  and  vales  seem  one.' "
+
+Farhad,  perceiving  his  defiance,  pride,
+And  arrogance,  was  much  concerned  to  get
+An  answer  to  the  letter,  hastened  back,
+And  told  the  Shah  what  he  had  seen  and  heard : —
+"  The  king  is  higher  than  heaven  and  his  purpose
+Is  not  less  high.     He  would  not  listen  to  me ;
+The  world  is  nothing  worth  in  his  regard."
+
+Thereat  Kaus  called  Rustam  and  repeated
+Farhad's  report.     The  Elephantine  said : —
+"  I  will  relieve  our  nation  from  disgrace ;
+Let  me  bear  back  this  answer :  '  I  will  draw
+My  trenchant  sword.'     We  need  a  trenchant  letter,
+A  message  like  a  thundering  cloud.     Myself
+Will  go  to  him  as  envoy  ;  at  my  words  y
+
+The  rivers  shall  run  blood."
+
+The  Shah  replied  :—
+
+"  The  signet  and  the  crown  gain  light  from  thee,
+Who  art  at  once  ambassador,  bold  Tiger,
+And  haughty  Lion  of  the  battlefield."
+
+With  that  he  called  a  scribe,  whose  pen  he  made
+An  arrowhead,  and  wrote :  "  Such  talk  is  futile
+And  cometh  ill  from  one  of  sober  sense.
+If  thou  canst  purge  thy  head  of  arrogance
+Do  as  thou  art  commanded  like  a  slave.
+
+VOL.  n.  E
+
+
+66  THE   SHAHNAMA    OF  FIRDAUSI
+
+Thou  wilt  not  wreck  thy  realm  but  pay  me  tribute
+
+Unvexed  by  war,  enjoy  Mazandaran,
+
+And  'scape  with  life  from  Rustam ;  but  if  thou
+
+Refusest  I  will  march  upon  thee,  stretch
+
+My  host  from  sea  to  sea,  and  then  the  soul
+
+Of  thy  malevolent  White  Div  will  bring
+
+The  vultures  to  enjoy  thy  brains,  0  king !"
+
+
+§   14
+
+&
+
+How  Rustam  went  on  an  Embassy  to  the  King  of  Mazandaran
+
+The  letter  sealed,  aspiring  Rustam  flung
+His  mace  upon  the  saddle  and  approached
+v.  362       Mazandaran,  whose  monarch  heard  :  "  Kaiis
+Hath  sent  another  letter  and  an  envoy —
+One  like  a  savage  lion — with  a  lasso
+Of  sixty  coils  within  the  straps.     Beneath  him
+There  is  a  speedy  charger ;  one  would  say : —
+'  It  bulketh  like  a  mighty  elephant.'  "
+
+On  hearing  this  the  king  selected  chiefs
+And  bade  them  go  to  meet  this  savage  Lion.
+As  Rustam  saw  them  he  beheld  beside
+The  road  a  spreading  tree,  seized  on  two  branches,
+And  twisting  round  the  tree  with  might  and  main
+Uprooted  it,  himself  unscathed  the  while,
+Then  poised  it  like  a  dart,  while  all  the  troops
+Looked  on  astound.     As  they  came  up  he  hurled
+The  tree,  whose  boughs  hid  many  cavaliers.
+One  of  the  chiefest  of  Mazandaran
+Seized  Rustam's  hand  and  squeezed  it  to  assay
+His  fortitude  in  pain,  but  Rustam  laughed
+While  all  the  company  looked  on  in  wonder,
+And  as  he  laughed  he  crushed  the  other's  hand.
+That  strength-assayer  lost  all  strength  himself,
+Paled,  and  fell  off  his  steed.     One  went  before
+
+
+KAI   KAVS  67
+
+And  told  the  monarch  of  Mazandaran
+
+That  which  had  chanced.     There  was  a  cavalier
+
+Hight  Kaldhiir,  whose  fame  rang  through  the  land,
+
+And  who,  like  some  fierce  pard,  loved  fighting  only.
+
+The  king,  who  mightily  esteemed  his  valour,
+
+Called  him  and  sent  him  forth  to  counter  Rustam,
+
+Thus  saying :  "  Meet  the  envoy,  give  fresh  proofs  v-  3^3
+
+Of  prowess,  shame  him,  make  him  weep  hot  tears."
+
+So  Kalahur  came  lion-like  to  Rustam
+With  louring  looks  and  with  a  leopard's  greeting,
+Then  took  and  squeezed  the  Elephantine's  hand
+Till  it  turned  blue  with  pain,  who  bore  it  lightly,
+As  holding  manhood's  patent  from  the  sun,
+And  stoutly  wrung  the  hand  of  Kalahur,
+Whose  nails  fell  off  like  leaves.     He  went  and  showed
+The  king  his  mangled  hand.     "  I  cannot  hide,"
+He  said,  "  the  anguish  that  I  feel.     Enjoy
+Thyself  in  peace ;  thou  canst  not  fight  this  hero.
+If  he  is  willing  let  us  pay  the  tribute,
+Submitting  to  preserve  Mazandaran,
+And  portion  out  the  tax  to  great  and  small
+To  make  this  heavy  travail  light ;  'tis  better
+Than  quaking  for  our  lives."
+
+The  matchless  Rustam
+That  moment  came  like  some  fierce  elephant
+Before  the  king  who,  seeing  him,  assigned  him
+A  place  of  honour,  asked  about  Kaiis,
+The  host,  the  travail  of  the  longsome  road,
+Its  ups  and  downs,  and  then  said :  "  Thou  art  Rustam  ;
+Thy  breast  and  arm  befit  a  paladin."
+
+He  said :  "  I  am  a  slave  if  fit  to  serve.
+Where  Rustam,  that  brave  paladin,  is  present
+There  I  am  useless.     Since  God  made  the  world  v.  364
+
+A  chief  so  eminent  hath  not  appeared.
+In  fight  he  is  a  mountain.     What  and  how
+Am  I  to  speak  about  his  mace  and  Rakhsh  ?
+
+
+68  THE  SHAHNAMA    OF  FIRDAUSI
+
+What  army  can  withstand  him  when  he  warreth  ?
+
+He  maketh  mountains  seas,  and  seas  like  mountains.
+
+What  lion,  elephant,  or  div  will  raise
+
+The  battle-cry  against  him  when  he  fighteth  ?
+
+He  is  a  noble  army  in  himself
+
+And  not  a  messenger ;  'twas  he  that  sent  me
+
+To  say :  '  If  thou  are  prudent  sow  not  seed
+
+Of  evil.     Thou  hast  sown  it  in  abundance,
+
+And  lightly  left  the  path  of  manliness.
+
+How  hast  thou  used  the  monarch  of  Iran,
+
+His  troops,  and  paladins  in  thy  revenge  ?
+
+Thou  hast  not  heard  perchance  of  Rustam's  name,
+
+Who  hath  the  welkin  for  his  meanest  thrall ;
+
+But  if  I  had  permission  from  the  Shah
+
+To  come  to  this  thy  folk  I  would  not  leave
+
+One  of  thy  host  alive,  and  thine  own  head
+
+Should  be  upon  a  spear.' "
+
+He  gave  the  letter —
+A  message  from  ambition  to  self-will —
+And  said :  "  The  scimitar  is  bearing  fruit,
+It  beareth  on  its  lap  the  heads  of  nobles."
+
+The  king  when  he  had  heard  the  embassage,
+And  read  the  letter,  was  displeased  and  marvelled.
+He  spake  to  Rustam,  saying :  "  To  what  end
+Are  all  these  frivolous  demands  of  thine  ?
+Say  to  Kaus :  '  Thou  art  indeed  the  Shah,
+But,  though  thou  hast  the  heart  and  claws  of  lions,
+Still  I  am  monarch  of  Mazandaran,
+Possess  a  host,  sit  on  the  golden  throne,
+And  wear  the  crown.     To  summon  me  absurdly
+Before  thee  thus  is  neither  right  nor  royal.
+Think,  and  ambition  not  the  thrones  of  kings,
+For  in  the  quest  dishonour  will  befall  thee.
+Ride  thou  Iranward  or  a  lance's  point
+Shall  end  thy  days.     If  I  lead  forth  my  host
+v.  365        Thou'lt  know  not  head  from  foot.     'Tis  thy  conceit ;
+
+
+KAI   KAtfS  69
+
+Be  wise  and  cast  away  thy  bow,  for  when
+We  meet  thy  talk  and  violence  will  cease.'
+Say  too  for  me  to  Rustam  :  *  Famous  chief!
+Whatever  Kai  Ktiiis  may  give  to  thee
+I  will  bestow  a  hundred  to  his  one,
+Will  make  thee  chief  of  chiefs,  rich  past  desire,
+Exalt  thy  head  above  the  sun  and  moon,
+And  give  to  thee  command  of  all  my  troops.'  "
+
+But  Rustam,  with  his  shrewd  mind  contemplating
+Throne,  host,  and  court,  esteemed  the  king's  speech
+
+brainless.
+
+Such  insults  angered  him,  and  he  replied : —
+"  0  witless  king !  good  sooth  thy  fortunes  lour !
+Hath  Rustam,  that  exalted  paladin,
+Need  of  thy  treasury  and  of  thy  troops  ?
+The  son  of  Zal  is  monarch  of  Nimruz
+And  hath  no  peer  ;  so  cease  to  wag  thy  tongue
+Or  he  will  pluck  it  out.  "
+
+The  king  was  wroth  ;
+
+His  evil  nature  turned  his  thoughts  to  bloodshed
+He  cried :  "  Arrest  the  envoy  in  my  presence,
+Disseat  him  and  behead  him."
+
+Instantly
+
+An  executioner  approached  the  throne
+To  seize  his  wrists  and  hale  him  from  his  seat,
+But  Rustam,  roaring  like  a  lion,  caught
+The  executioner's  wrists  and  dragged  him  close,
+Then  flung  him  down  and,  holding  one  foot  fast,
+Set  his  own  foot  upon  the  other  one
+
+And  rent  the  man  asunder  !     None  e'er  saw  v.  366
+
+A  sight  like  that !     Then  noble  Rustam  cried : —
+"  If  I  had  but  permission  from  the  Shah
+To  war  against  thine  army  I  would  put  thee
+This  instant  into  pitiable  plight."
+
+He  spake  and  went  forth  from  the  court,  his  eyes
+Like  bowls  of  blood,  while  quaking  at  his  words
+
+
+70  THE  SHAHNAMA    OF  FIRDAUSt
+
+And  might  the  king  made  ready  royal  gifts
+
+Of  raiment,  steeds,  and  gold,  and  proffered  them
+
+To  Rustam,  but  he  would  accept  of  naught,
+
+Because  such  presents  would  involve  disgrace,
+
+And  left  the  country  of  Mazandaran,
+
+Concerned  at  these  grave  doings.    Full  of  vengeance,
+
+And  in  hot  blood,  he  came  before  the  Shah,
+
+Told  his  experience  in  Mazandaran,
+
+And  said  to  him :  "  Be  not  concerned  one  whit,
+
+Show  courage  and  prepare  to  fight  the  divs.
+
+I  do  not  value  them  a  single  grain
+
+Of  dust,  and  I  will  make  this  mace  their  bane."
+
+
+§15
+How  Kdus  fought  wiih  the  King  of  Mazandaran
+
+When  Rustam  left,  the  king  of  sorcerers
+Prepared  for  war,  brought  out  his  tent-enclosure,
+And  led  the  whole  host  forth  upon  the  waste ;
+Their  dust  hid  sun  and  desert,  plain  and  mountain,
+While  earth  reeled  'neath  the  tramp  of  elephants.
+V.  367        He  marched  like  rushing  wind.     Kaiis  on  hearing,
+"  The  divs'  host  is  in  sight,"  first  ordered  Rustam
+To  arm  for  fight  and  then  to  Tiis,  Gudarz,
+Son  of  Kishwad,  and  to  Gurgin  and  Giv,
+Those  men  of  noble  lineage,  he  gave
+The  arraying  of  the  host,  the  ordering
+Of  spear  and  shield.     They  pitched  the  camp-enclosures
+Upon  the  deserts  of  Mazandaran.
+Upon  the  right  was  Tiis,  son  of  Naudar,
+Whose  clarion-blasts  thrilled  to  the  mountains'  hearts  ;
+Gudarz  was  on  the  left  wing  with  Kishwad,
+And  clad  the  heights  in  iron ;  Kai  Kaiis,
+In  chief  command,  was  posted  at  the  centre.
+The  troops  drew  up  while  elephantine  Rustam,
+
+
+KAI  KAUS  71
+
+Who  never  saw  disaster,  led  them  on.
+
+Juya,  a  noble  of  Mazandaran,
+A  fame-ensuer,  a  rnace-brandisher,
+And  bragger  likewise,  by  his  monarch's  leave
+Confronted  Kai  Kaus.     The  warrior's  mail
+Shone  brilliantly,  his  falchion  seared  the  ground  ;
+He  passed  along  the  Iranian  line  with  shouts
+That  plain  and  mountain  echoed :  "  He  must  send
+Dust  up  from  water  who  would  fight  with  me."
+
+Not  one  came  out  against  him,  thou  wouldst  say  :—
+"Their   veins  pulsed  not  with    blood."      Then  cried
+
+Kaiis :—  V.  368
+
+"  Why  hath  this  div's  voice,  valiant  warriors  !
+Thus  dazed  your  hearts  and  made  your  faces  dark  ? "
+
+They  answered  not  a  word,  and  thou  hadst  said  : —
+"  The  host  is  withered  up  before  Juya."
+Then  Rustam  took  the  reins  and  shouldering
+His  shining  spear  said :  "  Will  the  Shah  permit  me
+To  face  this  caitiff  div  ? "
+
+Kaiis  replied : —
+
+"  Be  thine  the  task,  for  none  will  seek  it  else.
+Go !     May  the  Maker  aid  thee,  be  all  divs
+And  sorcerers  thy  quarry."
+
+Rustam  urged
+
+His  gallant  Rakhsh  and  grasped  his  weighty  spear,
+Came  on  the  scene  like  some  mad  elephant,
+A  Pard  beneath  him  and  in  hand  a  Dragon,
+Sent  dust-clouds  flying  as  he  wheeled  about,
+And  shouting  shook  the  battle-field.     "  0  knave ! "
+He  cried,  "  thy  name  is  cancelled  'mong  the  great.
+This  is  no  time  of  peace  and  ease  for  thee,
+But  pity ;  she  shall  weep  who  bare  thee,  nurtured,
+And  chastened  thee."
+
+"  Be  not  too  sure,"  he  answered
+"  About  Juya  and  his  head -reaping  sword ;
+Thy  mother's  liver  shall  be  split  anon,
+
+
+72  THE  SHAHNAMA    OF  FIRDAUSI
+
+And  she  shall  wash  thy  mail  and  casque  with  tears."
+
+When  Rustam  heard  he  raised  his  battle-cry,
+Proclaimed  his  name,  and  as  he  charged  appeared
+A  moving  mountain,  while  his  foe  dismayed
+Wheeled  round  unwilling  to  contend  with  him,
+But  Rustam  following,  swift  as  dust,  and  aiming
+The  spearpoint  straight  against  the  girdlestead,
+
+V-  369       So  speared  the  mail  that  straps  and  buckles  burst,
+Unseated  him,  raised  him  aloft,  and  turned  him
+Like  bird  on  spit,1  then  flung  him  down  dust-choked,
+With  shivered  mail.    The  warriors  of  the  foe
+Looked  on  astound,  faint-hearted,  pale  of  face,
+And  babble  filled  the  field.     Their  king  commanded
+The  whole  host,  saying :  "  Lift  your  heads  and  fight
+Like  leopards  in  this  strife."
+
+The  warriors  heard
+
+His  warlike  words,  and  of  that  countless  host
+A  vengeful  throng  advanced.     The  Shah  perceived  it
+And  came  on  too  in  orderly  array.
+Both  armies  drew  their  swords  and  closed  amid
+The  din  of  trump  and  drum,  the  sky  was  ebon,
+Earth  indigo,  while  swords  and  maces  gleamed
+Like  lightning  flashing  from  a  murky  cloud.
+The  air  was  crimson,  black,  and  violet,
+With  spears  and  flags.     The  shouting  of  the  divs,
+The  clouds  of  dust,  the  roar  of  kettledrums,
+And  neigh  of  steeds,  rent  earth  and  shook  the  moun-
+tains ;
+None  e'er  saw  such  a  fight.     Arose  the  din
+
+V.  370        Of  arrow,  mace,  and  sword,  the  plain  became
+A  pool  of  heroes'  blood,  earth  like  a  sea
+Of  pitch  whose  waves  were  maces,  swords,  and  arrows.
+Swift  steeds  sped  on  like  ships  upon  the  deep.
+And  thou  hadst  said  of  them  :  "  They  founder  fast !  "
+While  maces  rained  upon  the  casques  and  helms
+
+1  Of.  vol.  i.  p.  386  and  note.
+
+
+KAI  KAUS  73
+
+As  autumn-blasts  shower  leaves  from  willow-trees.
+
+Thus  for  a  week  those  glory-seeking  hosts
+
+Encountered,  on  the  eighth  day  Shah  Kiius
+
+Took  from  his  head  the  royal  casque  and  stood
+
+Before  the  Judge  and  Guide  of  this  world,  weeping,
+
+Then  falling  prostrate  he  exclaimed :  "  0  Judge
+
+Whose  word  is  truth,  who  madest  sea  and  land  !  V.  371
+
+Give  me  to  quell  these  divs  who  fear  not  Thee,
+
+And  grace  for  me  the  throne  of  king  of  kings,"
+
+He  donned  his  helm  and  joined  his  famous  troops.
+There  rose  a  shout  and  trumpet-blare,  the  host
+Moved  like  a  mountain.     He  commanded  Giv
+And  Tiis  to  bring  the  tymbals  to  the  front.
+Giidarz  with  Zanga  son  of  Shawaran,
+Ruhham,  Gurgin,  all  eager  for  the  fray,
+Guraza  like  a  wild  boar,  with  a  flag
+Eight  cubits  high,  Farhad,  Kharrad,  Barzin,
+Rushed  on  the  field  to  seek  revenge  anew.
+First,  matchless  Rustam  charging  on  the  centre
+Bathed  earth  with  warriors'  blood.     Upon  the  right
+Giidarz  fetched   with   Kishwad   arms,   drums,   troops,
+
+baggage,
+
+While  from  the  right  wing  to  the  left  Giv  fared —
+A  wolf  among  the  sheep.     From  dawn  till  sunset
+Blood  ran  in  streams,  all  looks  were  fierce  and  grim,
+And  thou  hadst  said :  "  The  sky  is  raining  maces."
+The  slain  were  heaped  on  every  side,  the  grass
+Was  smirched  with  human  brains.     The  drums   and
+
+trumpets
+
+Were  like  a  thunder-clap,  an  ebon  veil
+Concealed  the  sun.     Then  elephantine  Rustam
+Charged  with  a  mighty  power  against  the  quarter
+Where  stood  the  monarch  of  Mazandaran,
+Who  with  his  divs  and  elephants  of  war  v.  372
+
+Awhile  maintained  his  ground.     Then  Rustam  gave
+His  pointed  lance  to  one  to  hold,  invoked
+
+
+74  THE   SHAHNAMA    OF  FIRDAUSI
+
+The  name  of  God,  raised  high  his  mace,  and  raged  ;
+His  voice  filled  all  the  air,  the  divs  became
+Dispirited,  the  elephants  confounded ;
+Their  trunks  were  scattered  over  all  the  plain,
+And  naught  but  corpses  could  be  seen  for  miles.
+Then  calling  for  a  spear  he  charged  the  king ;
+Both  roared  like  thunder.     When  the  king  beheld
+The  spear  of  Rustam  wrath  and  courage  failed,
+While  Rustam,  seething  with  revenge,  sent  up
+
+V.  373       A  mighty  lion's  roar,  struck  the  king's  girdle,
+
+And  pierced  him  through  the  mail.     The  sorcerer
+
+Turned  to  a  boulder  by  his  magic  arts
+
+Before  the  Iranian  host,  while  matchless  Rustam
+
+Stood  in  amaze,  then  shouldered  his  sharp  lance.
+
+The  Shah  came  up  with  drums  and  elephants,
+
+With  standards  and  with  troops,  and  said  to  Rustam  :-
+
+"  Why  tarry  here  so  long,  exalted  chief ! "
+
+He  answered :  "  When  victorious  fortune  showed
+Amid  the  stress  the  monarch  seeing  rne
+Took  up  his  massive  mace,  I  gave  to  Rakhsh
+The  rein  and  speared  the  monarch  through  the  mail.
+Methought :  *  Now  will  he  tumble  from  his  saddle.'
+He  turned  to  stone  before  me,  as  thou  seest,
+And  recketh  not  of  aught  that  I  can  do,
+But  I  will  carry  him  to  camp,  perchance
+He  will  resume  his  shape."
+
+The  Shah  bade  some
+To  bear  and  set  the  stone  before  his  tent.
+Then  all  the  strongest  of  the  host  essayed
+In  vain  to  move  the  mass,  howbeit  Rustam
+Raised  it  unaided  to  the  troops'  amaze,
+Then  shouldering  the  rock  walked  off  therewith
+With  all  the  people  shouting  at  his  back.
+They  praised  the  Almighty,  scattering  gems  and  gold
+O'er  Rustam  as  he  bare  the  stone  and  threw  it
+
+v.  374        Before  the  tent-enclosure  of  the  Shah.
+
+
+KA1   KAUS  75
+
+He  set  a  guard  and  said  :  t:  Quit  these  black  arts
+And  sorceries  to  take  thy  proper  shape,
+Or  else  with  this  sharp  steel  and  battle-ax
+Will  I  break  up  the  stone."
+
+The  sorcerer  heard,
+
+The  stone  dissolved  like  mist,  the  king  was  seen
+In  helmet  and  cuirass,  and  Eustam  seizing
+His  hand  turned  laughing  to  the  Shcah  and  said : —
+"  Permit  me  to  present  this  piece  of  rock,
+Which  feared  mine  ax  and  quaketh  in  my  grasp."
+
+The  Shah  on  looking  saw  him  not  the  man
+For  crown  and  throne ;  he  had  a  loathly  face,
+A  lanky  shape  and  boar's  head,  neck,  and  tushes.
+Kaiis  recalled  the  past  with  pain  and  sighs,
+Then  bade  a  headsman  hew  the  div  in  pieces,
+Whom  matchless  Rustam  taking  by  the  beard
+Haled  from  the  presence  of  Kaiis.     They  hewed
+The  div  to  pieces  as  the  great  king  bade.
+They  gathered  all  the  booty  from  the  camp,
+And  put  together  thrones  and  crowns  and  girdles,
+Steeds,  jewelry,  and  arms.     The  troops  attended,
+And  each  received  according  to  his  meed.
+The  impious  divs,  whom  all  beheld  with  horror,
+Were  then  beheaded  by  the  Shah's  command
+And  flung  beside  the  way.     He  said  in  prayer : —
+"  O  righteous  Judge  !     Thou  hast  not  left  a  wish  v.  375
+
+Of  mine  unsatisfied,  hast  made  me  conquer
+These  sorcerers,  and  revived  my  hoary  fortune."
+
+He  spent  a  week  before  the  Lord  in  prayer,
+Upon  the  eighth  day  oped  the  treasury-door,
+And  gave  to  all  that  lacked ;  another  week
+So  passed  while  every  man  received  his  meed.
+The  third  week  still  within  Mazandaran
+He  called  for  amber  cups  and  ruby  cups,
+And  spent  a  night  in  revel.     Thus  rethroned
+He  said  to  Rustam :  "  Chief  of  paladins !
+
+
+76  THE   SHAHNAMA    OF  FIRDAUSI
+
+Thou  hast  displayed  thy  prowess  everywhere,
+And  now  I  have  received  my  throne  from  thee.
+Bright  be  thy  heart,  thy  Faith,  and  thine  allegiance."
+
+Then  Rustam  answered:  "All  men  have  their  uses.
+Whate'er  I  did  was  owing  to  "Clad,
+My  faithful  guide,  who  hopeth  now  to  rule
+Mazandaran,  for  so  I  promised  him
+If  he  did  well.     Perchance  the  king  of  kings,
+Who  tendereth  lieges,  will  exalt  him  thus  ?
+First  let  the  Shah  grant  him  investiture
+By  solemn  covenant  and  under  seal
+As  monarch  of  Mazandaran,  and  then
+Let  all  the  other  chieftains  do  him  homage.
+He  will  approve  himself  thy  faithful  liege
+And  send  to  thee  the  tribute  that  is  due."
+
+The  Shah,  on  hearing  what  his  servant  said,
+Assented,  summoned  from  Mazandaran
+The  chiefs,  and  said  in  speaking  of  Clad  : —
+"  Do  as  he  counselleth  and  bear  no  grudge."
+
+He  gave  Clad  a  special  robe  of  honour,
+And  said :  "  Good  worketh  constantly  unseen,"
+V.  376       Bestowed  on  him  the  royal  crown,  and  then
+Set  his  own  face  to  go  to  Pars  again.
+
+
+§  16
+
+How  Kdus  returned  to  the  Land  of  Iran  and
+farewelled  Rustam
+
+Now  when  Kaus  was  entering  fran,
+
+And  when  the  army's  dust  concealed  the  world,
+
+The  excitement  reached  the  sun,  and  men  and  women
+
+Met  him  with  loud  acclaim  ;  they  decked  the  land
+
+And  called  for  wine  and  harp  and  minstrelsy.
+
+The  world  grew  young  through  him,  and  there  arose
+
+A  New  Moon  from  Iran.     Glad  and  triumphant
+
+
+KAI  KAUS  77
+
+He  sat  enthroned,  unlocked  his  ancient  hoards,
+
+And  summoned  almoners.     A  shout  went  up
+
+Before  the  gate  of  elephantine  Rustam,
+
+And  all  the  captains  of  the  host  assembled
+
+Rejoicing  in  the  presence  of  the  Shah.
+
+Then  matchless  Rustam,  casque  on  head,  drew  near
+
+And  seated  by  the  Shah  asked  leave  to  go
+
+To  Zal.     The  worldlord  gave  him  costly  gifts,
+
+Such  as  he  merited — a  throne  with  rams'  heads
+
+All  jewelled  in  turquoise,  a  royal  crown
+
+Of  gems,  a  robe  of  gold  worn  by  the  Shah,
+
+A  splendid  torque  and  armlet,  and  withal
+
+A  hundred  moon-faced  boys  with  golden  girdles,
+
+A  hundred  lovely  damsels  musky-haired,
+
+A  hundred  noble  steeds  in  golden  harness,
+
+A  hundred  black-haired  mules  with  golden  bridles
+
+All  laden  with  brocade  of  royal  fashion
+
+From  Rum,  Pahlav,  and  Chin,  a  hundred  purses
+
+Filled  with  dinars,  bright  stuffs,  perfumes,  and  trinkets,
+
+A  ruby  goblet  full  of  purest  musk,
+
+Another  of  turquoise  filled  with  rose-water,
+
+And  therewithal  a  patent  writ  on  silk
+
+With  ink  of  musk,  wine,  ambergris,  and  aloes.
+
+Upon  that  chief — the  Light  of  earth — the  Shah  v.  377
+
+Bestowed  anew  the  whole  realm  of  Nimriiz,
+
+So  that  thenceforth  none  else  should  have  the  throne,
+
+And   blessed   him,  saying:    "May   none   see   sun  and
+
+moon
+
+Without  thee,  be  the  chiefs'  hearts  warm  to  thee,
+And  be  thy  soul  fulfilled  with  love  and  kindness."
+Then  Rustam  leaped  down,  kissed  the  throne,  made
+
+ready
+
+For  his  departure,  and  bound  on  the  baggage.
+The  din  of  kettledrums  rose  from  the  city,
+And  all  partook  his  joy.     They  put  up  garlands
+While  bells  and  clarions  sounded.     Rustam  went,
+
+
+78  THE  SHAHNAMA    OF  FIRDAUSI
+
+The  Shah  remained,  illumining  the  world
+
+With  laws  and  usages.     When  thus  returned
+
+He  portioned  out  the  earth  among  his  chieftains,
+
+Appointing  Tus  the  captain  of  the  host.
+
+"  Avert,"  he  said,  "  disaster  from  Iran,"
+
+While  Ispahan  bestowed  he  on  Giidarz,
+
+Gave  him  the  throne  and  lordship  of  that  march,
+
+And  then  disposed  himself  for  mirth  and  wine,
+
+Displayed  his  majesty  and  smote  the  neck
+
+Of  sorrow  with  the  scimitar  of  justice.
+
+None  thought  of  death,  the  earth  grew  full  of  verdure-
+
+A  garden  of  Iram 1 — with  streams  and  dew,
+
+And  rich  by  justice  and  security;
+
+The  hand  of  Ahriinan  was  stayed  from  ill,
+
+And  day  and  night  the  fruits  and  foliage
+
+Invoked  a  blessing  on  the  crown  and  throne : —
+
+"  A  hundred  thousand  blessings  every  hour
+
+From  the  Creator  be  upon  the  Shah,
+
+Who  by  his  justice  civilizeth  earth
+
+And  in  his  justice  mindeth  bounteousness."
+
+'Twas  noised  abroad  :  "  Kaiis  the  Shah  hath  taken
+The  crown  and  throne  out  of  Mazandaran."
+378        All  wondered  that  he  should  achieve  such  greatness,
+The  loyal  with  their  gifts  and  offerings
+Drew  up  in  rank  before  the  monarch's  door,
+And  all  the  world  was  decked  like  Paradise,
+Fulfilled  with  wealth  and  justice.
+
+Thou  hast  heard
+
+About  the  warfare  with  Mazandaran,
+Now  hear  the  contest  with  Hamavaran.
+
+1  See  vol.  i.  p.  100.
+
+
+PAET  II
+
+THE  DOINGS  OF  KAI  KAtiS  IN  THE  LAND  OF
+BARBARISTAN    AND    OTHER  TALES
+
+ARGUMENT
+
+Kaus  makes  a  progress  through  his  realm.  He  wars  against  the
+kings  of  Barbar,  Misr,  and  Hamavaran  ;  he  marries  Siidaba,  the
+daughter  of  the  king  of  Hamavaran,  and  through  treachery  is
+taken  captive  by  him.  On  this  the  Arabs  and  Afrasiyab  both
+invade  Iran  and  fight  for  its  possession.  The  Iranians  in  despair
+appeal  to  Rustam,  who  rescues  Kai  Karis,  defeats  Afrasiyab,  and
+reinstates  the  Shah,  who,  warned  by  past  experience,  rules  justly
+for  a  time,  rises  to  the  height  of  his  power,  and  builds  himself  great
+palaces  on  Mount  Alburz.  Afterward  he  falls  again  into  tempta-
+tion, tries  to  mount  to  heaven,  is  rescued  again  by  Rustam,  again
+repents,  and  again  is  restored  to  power.  The  Part  concludes  with
+an  account  of  one  of  Rustam's  raids  into  Turan.
+
+
+NOTE
+
+§§  1-6.  In  the  accounts  of  Kai  Kaus'  two  expeditions  to  Bar-
+baristan  we  have  a  duplication  of  tradition.
+
+The  late  Professor  Darmesteter  has  thrown  considerable  light
+on  that  obscure  subject,  Firdausi's  geography  in  this  part  of  the
+poem.1  There  are  several  Barbars,  and  he  points  out  that  the  one
+here  intended  is  the  Berbera  nearly  opposite  Aden  in  the  British
+Somali  Coast  Protectorate.  It  is  the  Pun-t  of  the  Egyptian  hiero-
+glyphs, and  was  then  and  is  still  a  great  trading  station.  When
+the  south-west  monsoon  changes  into  the  north-east  wind  thousands
+of  traffickers  begin  to  arrive,  and  the  place  is  kept  busy  from
+October  to  April.  Further,  he  points  out  with  regard  to  Hamavaran
+that  it  is  a  form  of  the  word  Himyar,  which  is  another  name  for
+Yamaii.  "We  may  therefore  conclude  that  Firdausi's  notion  was
+
+1  DEI,  ii.  221-224.
+
+79
+
+
+8o  THE   SHAHNAMA    OF  FIRDAUSI
+
+that  Kai  Kaus  inarched  from  Nimruz  to  the  sea-coast  of  Makran
+(Baluchistan),  there  built  his  fleet,  sailed  past  the  southern  shores
+of  Arabia,  and  reached  some  spot  north  of  Berbera  on  the  western
+shore  of  the  Red  Sea.  He  would  then,  as  Firdausi  says,  have  Misr
+(Egypt)  on  his  left  hand,  Barbar  on  his  right,  and  the  sea  between
+him  and  his  objective  Hamavaran  (Yaman),  which  confronted  him
+across  it.  The  matter  has  become  confused  from  the  fact  that
+Firdausi  had  just  stated  that  the  people  of  Misr  and  Sham  (Syria)
+had  rebelled  against  Kai  Kaus,  and  therefore  Hamavaran  has  been
+assumed  to  mean  Syria.  We  may  add  that  the  two  historians
+Tabari  and  Mas'udi  both  mention  Kai  Kaus'  expedition  to  Yaman,
+and  so  far,  though  their  accounts  differ  considerably  from  Firdausi's,
+support  Professor  Darmesteter's  elucidation  of  this  episode.1
+
+The  matter  has  been  further  confused  by  Firdausi's  use  of  the
+word  "Zirih"  in  this  part  of  his  work.  The  word  is  usually
+employed  in  connexion  with  the  lakes  and  swamps  of  Sistan,  which
+formally  were  much  more  extensive.2  The  word,  however,  is  merely
+an  older  (Pahlavi)  form  of  the  modern  Persian  "darya,"  a  sea,
+lake,  or  river.  It  has  come,  however,  to  be  regarded  as  a  proper
+name,  and  such  an  expression  as  "the  sea  of  Zirih"  is  not  only
+tautological  but  distinctly  misleading.  We  translate  "  Zirih  "  sea.
+The  expedition  of  Kai  Kaus  looks  like  an  attempt  to  capture  an
+ancient  trade-route.
+
+The  marriage  of  Kai  Kaus  with  the  daughter  of  the  king  of
+Hamavaran  is  the  cause  of  serious  trouble  later  on,  as  will  appear
+in  Part  IV.
+
+The  reference  to  Syria  and  a  certain  similarity  of  circumstance
+suggest  that  in  the  account  of  the  treacherous  capture  of  Kai  Kaus
+by  the  king  of  Hamavaran  we  have  a  distorted  historical  reminis-
+cence of  the  overthrow  of  Antiochus  Sidetes  in  the  early  spring  of
+B.C.  128  or  129.  Mithridates  I.,  in  the  course  of  a  reign  of  thirty-
+eight  years  (B.C.  174-136),  had  extended  the  narrow  bounds  of  the
+Parthian  kingdom  both  eastward  and  westward,  to  the  Hindu
+Kush  and  to  the  Euphrates  respectively.  Westward  the  increase
+had  taken  place  at  the  expense  of  the  Seleucid  kingdom  of  Syria.
+The  successor  of  Mithridates — Phraates  II. — made  no  attempt  to
+enlarge  his  empire,  but  the  king  of  Syria — Antiochus  Sidetes —
+took  the  first  opportunity  to  attempt  to  recover  the  provinces  of
+which  he  had  been  deprived  by  Mithridates.  He  led  a  large  and
+splendidly  equipped  host  into  Babylonia  and  thrice  defeated  Phraates
+II.,  who,  though  worsted,  was  not  conquered,  and  still  maintained
+himself  with  an  army  in  the  country.  The  three  great  cities  of
+Babylon,  Seleucia,  and  Qtesiphon,  however,  fell  into  the  hands  of
+
+1  ZT,  i.  465.     MM,  ii.  119.  2  See  vol.  i.  p.  4.
+
+
+KAI   KAUS  81
+
+the  Syrians.  Winter  came  on,  and  Antiochus  Sidetes,  resolved  to
+maintain  his  advantage,  distributed  his  forces  throughout  the
+cities  and  towns  of  Babylonia  with  the  intention  of  renewing
+operations  in  the  spring.  The  Syrian  troops  with  their  motley
+entourage  of  camp-followers,  cooks,  actors,  etc.,  soon  made  them-
+selves intolerable  to  the  natives  among  and  upon  whom  they  were
+quartered.  An  understanding  was  entered  into  with  Phraates  II.,
+who  promised  to  be  at  hand  with  his  army,  and  at  a  given  signal
+the  Syrian  invaders,  who  were  thoroughly  enjoying  themselves
+after  their  campaign  and  had  been  kept  wholly  ignorant  of  the
+impending  danger,  were  attacked  throughout  Babylonia,  and  either
+massacred  or  taken  captive.  Antiochus  Sidetes  himself  perished,
+his  son  Seleucus  was  taken  prisoner  and  his  niece  as  well,  whom
+Phraates  II.  married.1
+
+§§  4  and  7.  In  the  account  of  the  invasion  of  Iran  by  the  Arabs
+during  the  captivity  of  Kai  Kuiis  in  Hamavaran,  and  their  defeat
+by  Afrasiyab,  we  seem  to  have  a  reference  to  the  invasions  and
+conflicts  that  were  actually  going  on  during  the  period  when  the
+Zandavasta  was  being  compiled  or  reconstructed,  i.e.  during  the
+third  century  after  the  Christian  era.2  In  the  Zandavasta  we  read  :
+"We  sacrifice  unto  the  awful  kingly  Glory,  made  by  Mazda.  .  .  .
+It  was  that  Glory  that  Thraetaona  bore  with  him  when  Azi  Dahaka
+was  killed  ;  that  Glory  that  Frangrasyan,  the  Turanian,  bore  when
+the  wicked  Zainigau  was  killed." 3
+
+In  the  greater  Bundahish  we  read  :  "  There  was  a  fiend  called
+Zinigav  who  had  poison  in  his  eye  :  he  had  come  from  the  country
+of  the  Arabs  to  reign  on  Iran-Shahr :  any  man  he  gazed  at  with
+his  evil  eye,  he  killed.  The  Iranians  called  Frasyav  into  their
+country,  he  killed  that  Zinigav."  4  In  the  Bundahish  Zainigav  is
+said  to  have  been  the  grandfather  of  Zahhdk,5  the  great  protagonist
+of  the  Arab  race  in  the  Shahnama.6  The  Iranians,  when  they  had
+to  choose  between  the  Turanians  and  the  Arabs,  preferred  the
+former.  Even  the  arch-enemy  Afrasiyab  is  allowed  to  have  pos-
+sessed for  a  while  the  divine  Grace  of  kingship 7  when  he  opposed
+the  common  foe,  the  Arabs.8
+
+§§  8-10.  We  are  told  in  the  Dinkard  that  Kai  Kaus  built  him-
+self seven  dwellings  on  Mount  Alburz,  one  of  gold,  two  of  silver,
+two  of  steel,  and  two  of  crystal,  that  he  warred  against  the  divs  of
+Mazandaran  and  fell  into  a  trap  which  they  laid  to  destroy  him.
+To  this  end  one  of  them  undertook  to  tempt  him  by  making  him
+
+1  KP,  91  seq.  2  See  vol.  i.  p.  61  scq.
+
+3  DZA,  ii.  307,  as  amended  in  i.  1.,  note.  4  Id.
+
+5  WPT,  i.  131.  6  See  vol..i.  pp.  54,  141.
+
+7  Id.  p.  82.  8  For  the  Arab  invasions  see  id.  p.  1 1.
+
+VOL.  II.  F
+
+
+82  THE  SHAHNAMA    OF  FIRDAUSI
+
+discontented  with  his  earthly  sovereignty  and  inducing  him  to  aspire
+to  that  of  the  sky  of  the  archangels.  He  yielded  to  the  tempter.
+Consequently  the  divine  Glory  left  him,  and  he  was  only  saved  from
+destruction  by  the  fravashi,  or  immortal  principle,  of  the  as  yet
+unborn  Kai  Khusrau.  Neryosang,  the  messenger  of  Urmuzd,  was
+about  to  smite  Kaus  when  the  fravashi  cried  out :  "  Thou  shouldst
+not  smite  him,  0  Neryosang  ...  for  if  thou  shouldst  smite  this
+man  .  .  .  there  will  not  be  afterwards  ...  a  thorough  destroyer
+of  the  high  priest  of  Turan  ;  because  owing  to  this  man  will  be
+born  him  whose  name  is  Siyavakhsh,  and  owing  to  Siyavakhsh  I
+shall  be  born,  who  am  the  Khusroi  ...  so  that  I  may  accomplish
+the  destruction  of  his  champions  and  troops,  when  I  would  occasion
+a  distant  flight  of  the  sovereign  of  Turan."  Accordingly  Kaus  was
+released  and  became  discreet.1
+
+Underground  dwellings,  such  as  Kai  Kaus  is  said  to  have  exca-
+vated for  stabling  purposes  in  connexion  with  his  buildings,  are
+very  numerous  in  northern  Iran.2
+
+The  reader  will  note  that  in  §  9  we  have  Iblis  where  we  should
+expect  Ahriman,,  showing  that  this  story  came  to  Firdausi  through
+the  Arabic.3
+
+§§  11-14.  In  the  story  of  the  Fight  of  the  Seven  Warriors  with
+which  this  part  concludes  we  have  an  account  of  a  border-foray  of
+the  Chevy  Chase  order.  More  than  seven  Iranian  warriors,  how-
+ever, are  mentioned.
+
+
+How  Kai  Kaus  warred  with  the  King  of  Hdmdvardn
+
+v.  379       We  have  received  it  both  from  archimage
+And  ancient  bard  of  rustic  lineage
+That  afterward  Kaus  resolved  to  make
+A  progress  through  his  kingdom.     From  Iran
+He  journeyed  to  Turan  and  Chin,  and  after
+Passed  to  Makran,  and  thence  down  to  the  sea
+In  state  ;  men's  waists  knew  neither  belt  nor  buckle.
+The  chiefs  all  paid  their  tribute  and  their  dues,
+The  Ox  took  care  not  to  provoke  the  Lion.
+Thence  to  Barbar  they  went — a  brilliant  throng
+With  crown  and  diadem,  intent  on  conquest.
+
+1  WPT,  iv.  220-223.          2  GHP,  i.  25,  note.          3  See  vol.  i.  p.  70.
+
+
+KAI   KAUS  83
+
+The  monarch  of  Barbar  prepared  for  war,
+
+And  matters  changed  their  hue.     A  host  came  forth
+
+And  stayed  the  revels  of  the  great  king's  troops,
+
+The  elephants  were  hidden  by  the  dust,
+
+Men  saw  not  hand  or  rein.     The  hosts  encountered
+
+Like  mighty  waves.     Giidarz  beholding  this
+
+Took  from  the  saddle-bow  his  mighty  mace,
+
+Urged  on  his  steed  and,  with  a  thousand  warriors  v.  380
+
+With  javelins  and  with  breastplate-piercing  arrows,
+
+Closed  with  and  brake  the  centre  of  the  foe.
+
+Behind   him   charged   the   Shah,   thou   wouldst   have
+
+said : —
+
+"  There  is  not  left  a  cavalier  or  spearman
+Within  Barbar."     The  elders  of  the  country,
+On  seeing  that  the  blast  of  war  had  passed,
+Came  to  Kaiis,  heart-broken,  to  seek  peace,
+And  said :  "  We  are  thy  slaves  and  bow  our  necks
+To  tribute ;  we  will  pay  in  gold  and  jewels
+Instead  of  drachms,  and  earn  thy  treasurer's  praise."
+
+Kaiis  received  them  graciously  and  taught  them
+New  laws  and  ways.     Anon  the  sound  of  bells
+And  cymbals  rose  with  shouts  and  clarion-blare,
+And  he  departed  westward  toward  Mount  Kaf.  v.  381
+
+The  people  when  they  heard  about  the  Shah
+Came  forth  to  him  and  proffered  fealty,
+While  all  the  great  men  went  to  welcome  him,
+And  laid  a  heavy  tribute  on  themselves.
+When  men  performed  his  will  with  due  submission
+He  and  his  host  passed  by  and  hurt  them  not.
+He  led  the  army  to  Zabulistan
+As  Eustam's  guests  and  tarried  there  a  month
+With  hawk  and  cheetah,  song  and  minstrelsy.
+
+Ere  long  a  bramble  grew  among  the  roses.
+To  meet  with  trials  is  the  lot  of  all,
+And  he  that  rnounteth  must  expect  a  fall.
+The  Arabs  rose  when  all  seemed  going  well.
+
+
+84  THE   SHAHNAMA    OF  FIRDAUSI
+
+A  wealthy  and  aspiring  man  of  parts
+
+Set  up  his  standard  both  in  Misr  and  Sham,
+
+The  people  turned  away  from  Kai  Kaus,
+
+Renouncing  fealty,  who  when  he  heard
+
+Bade  the  drums  sound  and  marched  forth  from  Nimruz
+
+Light-heartedly,  the  soldiers  wrote  his  name
+
+Upon    their    shields,    their    swords    shook    in    their
+
+scabbards.
+
+Unnoticed  by  the  foe  he  led  his  host
+Down  to  the  sea,  built  ships  of  war  and  transports
+Beyond  compute,  embarked  the  host  and  sailed
+A  thousand  leagues  as  thou  would st  count  on  land
+V.  382       Till  he  arrived  to  win  his  own  again
+
+Where  three  states  met — Misr  on  his  left ;  Barbar
+
+Upon  his  right ;  'twixt  him  and  his  objective
+
+Hamavaran,  which  fronted  him,  the  sea.
+
+Each  had  a  mighty  host.     News  came  to  them : —
+
+"  Kaiis  hath  crossed  the  water  with  his  troops."
+
+The  three  conferred,  their  troops  met  at  Barbar —
+
+An  army  such  that  desert,  sea,  and  mountain
+
+Were  all  aweary  of  the  horses'  hoofs.
+
+There  was  no  room  left  for  the  ravening  lion,
+
+Or  path  for  onager  across  the  plains ;
+
+The  fish  in  water  and  the  pard  on  rock,
+
+The  cloud  and  flying  eagle  in  the  air,
+
+Sought  passage,  but  what  passage  could  there  be
+
+For  wild  things  in  a  region  so  bested  ?
+
+Now  when  Kaiis  had  disembarked  his  host
+One  saw  not  plain  or  mount.     "  The  world  is  mailed,"
+Thou  wouldst  have  said,  "  each  spearpoint  is  a  star ! "
+What  with  the  golden  helms  and  golden  shields,
+And  glittering  axes  borne  upon  the  shoulder,
+Thou  wouldst  have  said :  "  The  earth  is  running  gold,
+And  Indian  scimitars  are  raining  souls."
+The  army's  dust  made  heaven  like  sandarach,
+The  whole  world  turned  as  black  as  ebony,
+
+
+KAI  KAUS  85
+
+The  mountains  shivered  at  the  trumpets'  blast,
+And  earth  was  bent  beneath  the  horses'  hoofs,
+The  din  of  tymbals  would  have  made  thee  say : —
+"  Earth  is  one  camp."
+
+When  from  the  Iranian  host
+
+The  trump  and  drum  were  heard  Bahrain,  Gurgin,
+And  Tiis  came  forth  and,  where  Gudarz  was  stationed,
+Shidiish,  Farhiid,  and  Giv  let  fall  their  reins,  v.  383
+
+And  steeped  the  heads  of  all  their  spears  in  bane.
+The  horsemen  bent  upon  the  saddlebow,
+And  shout  and  crash  of  battle-ax  were  heard ;
+Thou  wouldst  have  said :  "  They  quarry  stone  and  iron,
+Or  dash  down  heaven  to  earth."     When  at  the  centre
+Kaiis  advanced,  and  host  encountered  host,
+The  eyes  of  men  grew  dim,  vermilion  rained
+On  lapislazuli,  and  thou  hadst  said : —
+"  The  air  is  hailing  and  is  planting  tulips
+Among  the  rocks."     The  javelins'  eyes  flashed  fire,
+And  earth  became  as  'twere  a  sea  of  blood.
+The  Iranians  so  dismayed  the  three  allies
+That  end  and  middle  were  all  one  to  them.
+The  monarch  of  Hamavaran  was  first  v.  384
+
+To  drop  the  scimitar  and  massive  mace,
+Saw  that  the  day  was  lost  and  sorrowing  sought
+Peace  with  the  Shah,  agreeing  to  send  tribute,
+Steeds,  implements  of  war,  and  thrones  and  crowns,
+Provided  that  Kaiis,  when  all  was  paid,
+Should  go  and  keep  his  troops  from  harrying.
+Kaiis  replied :  "  I  grant  you  all  protection.
+Seek  not  my  crown  and  throne."
+
+He  then  marched  back
+
+Well  pleased  to  camp,  and  from  Hamavaran
+An  envoy  brought  him  treasures,  stores  of  arms,
+With  emeralds  and  other  gems  and  said : —
+"  0  just  and  mighty  lord !  we  chiefs  and  commons
+Are  dust  upon  thy  feet  and  slaves  of  thine.
+
+
+86  THE   SHAHNAMA    OF  FIRDAUSI
+
+Be  joyful  and  triumphant  all  thy  years,
+And  be  the  heads  and  fortunes  of  thy  foes
+O'erturned."
+
+He  kissed  the  ground  and  bore  to  Tus
+The  store  of  gold  and  gems,  who  therewithal
+Gave  to  each  man  a  largess  great  or  small.
+
+
+How  Kails  asked  to  Wife  Siiddba,  the  Daughter  of  the
+King  of  Hdmdvardn
+
+Anon  one  said  to  Kai  Kaiis  :  "  This  monarch
+Hath  in  his  bower  a  daughter  goodlier
+In  stature  than  a  cypress,  crowned  with  musk,
+With  locks  like  lassos,  dagger-shaped  of  tongue,
+V.  385       With  lips  like  sugar,  decked  like  Paradise
+
+With  charms,  or  like  bright  Sol  in  jocund  spring.
+None  else  should  be  the  consort  of  the  Shah  :
+How  good  it  were  for  him  to  mate  this  Moon  ! "
+
+His  heart  was  stirred,  he  answered :     "  It  is  well.
+I  will  demand  her  from  her  sire  ;  her  beauty
+Will  well  become  my  ladies'  bower."
+
+He  chose
+
+A  man  of  noble  birth,  shrewd,  wise,  and  grave,
+Bade  him  set  forward  to  Hamavaran,
+And  said :  "  Dispose  the  king  to  favour  me,
+And  charm  his  intellect  with  honied  words.
+Say  thus  to  him  :  '  The  most  redoubted  chiefs
+Throughout  the  world  seek  mine  affinity
+Because  the  sun  is  lighted  from  my  crown,
+Earth  is  the  footing  of  mine  ivory  throne,
+And  one  that  sheltereth  not  beneath  my  shade
+Hath  little  standing-room.     I  seek  to  be
+Affined  to  thee  and  wash  the  face  of  peace.
+Now  I  have  heard  that  thou  hast  in  thy  bower
+
+
+KAI   KAOS  87
+
+A  daughter  who  is  worthy  of  my  state,
+Immaculate  in  form  and  countenance,
+Praised  everywhere  by  all.     Thou  wilt  obtain
+The  son  of  Kai  Kubad  as  son-in-law,
+For  know  that  Sol  thus  favoureth  thy  cause.' "
+
+This  shrewd  man  with  the  ready  tongue  approached
+The  ruler  of  Hamavamn,  adorned
+His  tongue  with  eloquence,  his  heart  with  zeal,
+And  furnished  forth  his  lips  with  courtesies.
+He  gave  that  monarch  greeting  from  Kaiis,
+Then  did  the  embassage,  which  pained  the  king,
+Who  thought :  "  Though  he  be  king  of  kings  and  world-
+lord
+
+Victorious  and  obeyed,  I  have  no  daughter
+But  this,  and  she  is  dearer  than  sweet  life  ;
+Yet  if  I  slight  and  spurn  this  messenger
+I  cannot  fight.     'Tis  best  to  shut  mine  eyes  v.  386
+
+To  this  affliction  and  repress  my  wrath."
+
+He  answered  that  fair-spoken  envoy  thus  : —
+"  He  asketh  of  me  much — two  things  unequalled
+In  preciousness ;  my  wealth  is  my  support,
+My  child  my  treasure ;  being  robbed  of  her
+My  very  heart  is  gone,  yet  I  resign  them
+And  yield  to  his  request."
+
+He  called  Siidaba,
+
+And  full  of  sorrow  spake  thus  of  Kaiis : —
+"  A  courteous  envoy  hath  arrived  and  brought
+A  letter  from  that  mighty  lord,  who  lacketh
+Naught  that  is  great  and  good,  to  this  effect : —
+He  would  deprive  me,  though  I  wish  it  not,
+Of  heart-repose  and  all  my  peace  of  mind.
+What  dost  thou  say  now  ?     What  is  thine  own  wish  ?
+What  is  thy  shrewd  decision  in  this  case  ? "
+
+Siidaba  answered :  "  If  this  must  be  so
+There  is  no  need  to  sup  on  grief  to-day.
+Why  grieve  at  union  with  the  king  of  earth,
+
+
+88  THE   SHAHNAMA    OF  FIRDAUSI
+
+Who  can  deprive  the  mighty  of  their  lands  ?
+This  is  not  grief  but  joy."
+
+The  king  perceived
+
+That  she  was  not  unwilling,  called  the  envoy,
+And  gave  him  the  chief  place.      They  made  a  compact,
+Each  with  the  rites  and  sanctions  then  obtaining.
+V.  387       The  broken-hearted  monarch  and  his  chiefs
+
+Were  busied  for  a  week,  and  then  brought  forth
+
+Two  scores  of  litters  and  three  hundred  slaves,
+
+A  thousand  each  of  camels,  steeds,  and  mules,
+
+Whose  loads  were  of  dinars  and  of  brocade,
+
+And  'neath  the  haudahs  hung  embroidered  trappings.
+
+An  escort  was  drawn  up  in  long  defile ;
+
+The  New  Moon  graced  one  litter ;  following  her
+
+There  came  her  marriage-portion,  then  the  escort
+
+Arrayed  like  Paradise ;  thou  wouldst  have  said : —
+
+"  The  heaven  hath  planted  tulips  in  the  earth  ! "
+
+Now  when  that  fair-faced  troop  and  Heart's  Delight
+Approached  the  presence  of  Shah  Kai  Kaiis
+A  New  Moon  issued  from  the  haudah  like
+A  new-throned  monarch  robed.     There  musk  and  rose
+Contrasted,  and  the  earrings  hung  on  civet ;
+Eyes  languished,  cheeks  were  ruby-red,  and  eyebrows
+Sprang  from  a  column  like  a  silvern  reed.
+Kaiis  in  rapt  amaze  invoked  God's  name,
+He  called  the  hoary,  shrewd,  and  wise  archmages,
+And  having  judged  her  fit  to  be  his  consort
+He  sanctioned  his  desires  with  legal  rites.
+"  I  knew  thee  at  first  sight,"  he  told  his  spouse,
+"  Fit  to  adorn  mine  Idols'  golden  house."
+
+§3
+How  the  King  of  Hdmdvardn  made  Kdus  Prisoner
+
+Meanwhile  the  father  grieved  and  sought  a  cure ;
+So  eight  days  afterward  he  sent  at  dawn
+
+
+KAI   KAUS  89
+
+A  messenger  to  Kai  Kaiis  to  say  :—
+
+"  If  now  the  Shah  will  be  mine  honoured  guest
+
+The  people  of  Hamavaran  will  be
+
+Much  honoured  too  when  they  behold  his  face."
+
+In  this  wise  sought  he  to  entrap  Kaiis,  v.  388
+
+And  being  bad  of  heart  and  shrewd  of  wit,
+Thought  to  retain  his  kingdom  and  his  child,
+And  to  escape  all  tribute*     Now  Siidaba
+Knew  that  her  sire  meant  outrage  at  a  feast,
+And  said  to  Kai  Kaiis :  "  This  is  not  well.
+Thou  must  not  be  his  guest,  lest  at  the  banquet
+He  make  a  brawl  and  get  thee  in  his  clutches.
+All  this  ado  is  made  on  mine  account,
+And  must  result  in  thy  discomfiture."
+
+He  heeded  not  her  words  because  he  held
+Her  people  feeble  folk,  and  as  a  guest
+Went  with  his  warriors  and  mighty  men.
+The  ruler  of  Hamavaran  possessed
+A  pleasure-city,  Shaha  hight,  and  had
+A  residence  therein.     He  decked  the  city
+Throughout,  and  when  the  exalted  Shah  arrived
+The  citizens  all  did  him  reverence,
+Showered  gems  and  saffron,  mingled  ambergris
+With  musk,  and  wove  the  sounds  of  harp  and  song
+Like  warp  and  woof.     The  monarch  and  his  nobles
+Descrying  Shah  Kaiis  approached  on  foot.
+The  palace  from  the  gateway  to  the  hall
+Rained  jewels,  pearls,  and  gold  :  men  poured  them  forth
+From  golden  trays  and  sifted  ambergris
+And  musk  o'erhead.     The  king  set  up  a  throne
+Of  gold  within  the  palace  and  Kaiis
+Sat  there  in  joy.     He  revelled  for  a  week ;
+The  place  delighted  and  enchanted  him.
+The  monarch  of  Hamavaran  stood  girded —
+A  subject  in  his  presence  day  and  night —
+With  all  his  troops  to  serve  the  Iranians  v.  389
+
+
+90  THE   SHAHNAMA    OF  FIRDAUSI
+
+Till  each  felt  safe,  and  all  suspicion  ceased ;
+
+But  when  the  week  was  o'er  their  hosts  were  ready
+
+And  rose ;  the  soldiers  of  Barbaristan
+
+Had  been  apprised  and  were  upon  the  march :
+
+Such  was  the  plot.     Their  advent  joyed  the  king.
+
+At  night  came  sound  of  trumpet  and  assault
+
+When  no  Iranian  was  prepared  for  fight.
+
+Forthwith  the  forces  of  Hdmavaran
+
+Seized  on  Kaiis  and  Giv,  Gudarz  and  Tiis,
+
+Gurgin  and  Zanga  son  of  Shawaran,
+
+And  all  the  other  famous  warriors  ;
+
+These  they  took  captive  and  bound  fast  in  bonds,
+
+And  throne  and  Grace  were  shent !  What  saith  the  man
+
+Of  insight  and  0  sage  !  what  thinkest  thou  ?
+
+"  Trust  in  another  man  is  not  secure
+
+Without  the  tie  of  blood  to  make  it  sure,
+
+And  even  one  so  bound  to  thee  may  turn
+
+His  face  away  and  thine  affection  spurn.
+
+If  then  another's  love  thou  fain  wouldst  try
+
+Prove  it  in  weal  and  in  adversity,
+
+For  if  in  rank  thou  art  more  high  than  he
+
+Then  envy  will  abate  his  love  for  thee.
+
+The  course  of  this  pernicious  world  is  so,
+
+It  lightly  changeth  with  all  winds  that  blow."
+
+Kaiis  was  ta'en ;  his  over-confidence
+Achieved  the  purpose  of  Hamavaran.
+There  was  a  mountain  with  a  cloud-capt  head,
+Which  God  had  lifted  from  the  ocean-depths,
+And  on  the  mountain-top  a  fortress  rose ;
+Thou  wouldst  have  said  :  "  The  sky  is  in  its  lap. '
+'Twas  thither  that  the  monarch  sent  Kails,
+Giv,  and  Gudarz,  and  Tus ;  the  other  chiefs
+He  flung  inside  that  stronghold  with  the  Shah
+v.  390       Bound.     Over  it  a  thousand  warriors,
+
+All  swordsmen  of  renown,  kept  watch.     He  gave
+The  camp-enclosure  of  Kaiis  to  spoil,
+
+
+KAI  KAUS  91
+
+Bestowing  on  his  own  chiefs  crowns  and  purses.
+
+Two  files  of  ladies  with  a  covered  litter
+
+Between  them  were  deputed  to  escort
+
+Sudaba  home  and  trampled  on  the  tents.
+
+Now  when  Sudiiba  saw  the  ladies  come
+
+She  rent  her  royal  raiment  and  plucked  out
+
+Her  musky  tresses.     With  her  filbert-nails
+
+She  stained  her  rosy  cheeks  the  hue  of  blood,
+
+Exclaiming  thus  :  "  Men  that  are  men  indeed
+
+Hold  in  contempt  such  tricks  and  outrages.
+
+Ye  should  have  bound  him  on  the  day  of  battle
+
+What  time  his  robe  was  mail,  his  throne  a  steed,
+
+And  chieftains  such  as  Giv,  Giidarz,  and  Tus
+
+Rent   with   their   drums   your   hearts.     Ye   make   the
+
+throne
+Of  gold  an  ambuscade  and  break  your  faith."
+
+She  called  the  servants  "  dogs,"  her  jasmine-skin
+Was  smirched  with  blood,  she  did  not  spare  her  words.  >
+She  said :  "  I  will  not  part  with  Kai  Kaus
+Although  he  shall  be  hidden  in  the  dust,
+And,  since  he  needs  must  drag  his  chain,  behead  me
+All  guiltless  as  I  am."
+
+They  told  her  sire,
+
+Who  was  enraged  and,  eager  for  revenge,
+Dispatched  her  to  his  fortress,  broken-hearted
+With  blood-stained  cheeks  to  join  her  husband  there.
+Thenceforth  she  sat  in  sorrow  with  the  king
+Engaged  in  tending  him  and  comforting.
+
+
+§4
+
+How  Afrdsiydb  invaded  the  Land  of  trdn
+
+The  ambitious  Shah  being  bound,  his  army  made
+
+Toward  Iran,  and  having  passed  the  sea
+
+In  ships  and  transports  crossed  the  desert  homeward.
+
+
+92  THE   SHAHNAMA    OF  FIRDAUSI
+
+V.  391        When  they  arrived  'twas  bruited  through  the  realm  : —
+"  The  Cypress-tree  is  missing  from  the  garden,
+The  throne  of  king  of  kings  is  overturned."
+
+Now  when  men  saw  the  golden  throne  left  void
+They  all  desired  the  crown ;  upon  each  side
+Great  hosts  of  Turkmans  and  of  desert-spearmen
+Approached,  cries  rose  from  both  sides  of  Iran,
+And  peace  was  changed  to  strife.     Afrasiyab
+Joined  battle  fiercely  with  the  Arabian  host;
+They   fought   three   months,   and   many   heads   were
+
+lost
+
+To  win  a  crown,  the  Arabs  were  o'erthrown,
+And  all  their  gain  was  loss.     The  Turkman  troops
+O'er-ran  the  country  and  enslaved  the  folk.
+
+It  is  the  custom  of  this  Wayside  Inn
+That  greed  should  bring  both  travail  and  chagrin ;
+At  last  both  good  and  evil  pass  away ;
+Death  is  the  hunter  and  this  world  his  prey.
+
+V.  392  The  people  said :  "  Our  fortunes  are  o'erturned,
+
+We  are  confronted  with  a  grievous  case.
+Woe  for  Iran,  for  it  is  desolate,
+The  lair  of  pards  and  lions  !     'Twas  erewhile
+All  warrior-horsemen  and  the  seat  of  kings,
+But  now  a  scene  of  hardship  and  of  bale,
+The  dwelling-place  of  dragons  sharp  of  claw  !
+Seek  we  a  remedy  and  banish  care.
+One  fed  on  leopards'  milk  shall  succour  us ;
+Dispatch  we  then  a  sage  in  state  to  Rustain."
+
+An  archmage  went  to  him  and  told  the  tidings,
+And  Rustam,  deeply  moved,  wept  tears  of  gall.
+He  answered  :  "  I  and  mine  are  girt  for  vengeance.
+First  I  will  see  about  Ktiiis,  then  sweep
+The  Turkman  from  Iran."
+
+He  summoned  troops,
+
+V.  393        Who  nocked  to  him  out  of  Zabul,  Kabul,
+
+And  Hindustan.     Throughout  his  wide  domain
+
+
+KAI  KAUS  93
+
+Arose  the  sound  of  trump  and  Indian  bell.
+The  heart  of  Rustam  raged  like  fire  ;  he  led
+The  army  forth  and  like  a  storm-wind  sped.
+
+§5
+
+How  Rustam  sent  a  Message  to  the  King  of  Hdmdvardn
+
+Then  Rustam  sent  a  wary  messenger
+
+To  make  his  way  to  Kai  Kaiis  and  say  : —
+
+"  I  am  approaching  with  a  mighty  host
+
+To  fight  the  ruler  of  Hama varan.
+
+Be  glad  of  heart  and  feed  not  on  thy  grief :
+
+Behold  !  I  am  already  in  the  land."
+
+Withal  a  man  of  name  among  the  chiefs
+Went  to  the  ruler  of  Hamavaran,
+And  Rustam  wrote  to  him  in  warlike  terms
+A  letter  all  mace,  scimitar,  and  fray  : —
+"  Thou  hast  entrapped  our  Shah  and  broken  faith.
+It  is  not  manly  to  use  guile  in  war,
+Nor  art  thou  dour  like  the  bold  crocodile
+Which  never  ambuscadeth  in  the  fight  v  394
+
+Although  its  heart  be  brimming  with  revenge.
+Thou  shalt  escape  the  Dragon's  evil  clutch
+If  Shah  Kaiis  be  set  at  large ;  if  not,
+Prepare  thyself  to  feel  my  weight  in  battle.
+Thou  surely  must  have  heard  the  chieftains  tell
+Of  how  I  fought  against  Mdzandaran,
+Fought  with  Piilad  son  of  Ghundi  and  Bid,
+And  smote  the  White  Div."
+
+As  he  read  the  letter
+
+The  king  turned  dizzy,  and  the  world  grew  dark
+Before  his  eyes.     He  answered  :  "  Kai  Kaiis
+Shall  never  set  foot  on  the  plain,  and  when
+Thou  comest  to  Barbaristan,  and  all
+Thy  cavaliers  have  fled,  a  chain  and  pit
+Are  ready  for  thee  too.     If  these  delights
+
+
+94  THE   SHAHNAMA    OF  FIRDAUSI
+
+Allure  thee  I,  according  to  our  custom,
+Will  meet  thee  with  my  troops."
+
+When  Eustam  heard
+
+The  answer,  and  the  chieftains  had  assembled,
+The  trumpets  sounded  and  he  mounted  Rakhsh.
+He  went  by  sea  because  the  way  by  land
+Was  tedious,  crossing  to  Hamavaran
+With  all  his  mighty  host  in  ships  and  transports.
+The  troops  were  ready  both  to  spoil  and  slay,
+And  banished  all  compunction  from  their  hearts.
+
+Now  when  the  monarch  of  Hamavaran
+Had  news  of  vengeful  Rustam  and  his  host
+
+v.  396       He  raged,  the  war-cry  rose,  and  all  the  world
+
+Seethed  up  in  blood  and  pillage.     Rustam  donned
+
+His  armour,  mounted  on  the  snorting  Rakhsh,
+
+And  shouldering  his  mace  charged  furiously.
+
+Whenas  the  foemen  saw  his  chest  and  arms,
+
+And  how  he  handled  mace  and  battle-ax,
+
+Thou   wouldst  have   said :  "  They  have   no   hearts  at
+
+all."
+
+They  scattered  in  their  fear  of  him,  and  thus
+«•         That  great  host  fled  back  to  Hamavaran.
+
+The  king  in  conclave  summoned  two  young  men
+In  order  to  dispatch  them  to  Barbar
+And  Misr,  like  rushing  wind,  each  with  a  letter
+Penned  in  distress  of  heart  with  blood  for  ink,
+
+v.  397       And  thus  it  ran  :  "  Our  realms  confine,  we  share
+In  good  and  evil,  and  in  fight  and  feast.
+If  ye  will  join  with  me  I  fear  not  Rustam
+In  fight ;  if  not,  the  evil  will  extend,
+And  evil's  hand  extendeth  on  all  sides."
+
+Whenas  the  letter  reached  the  kings,  announcing
+That  Rustam  led  his  host  across  the  desert,
+They  feared,  bestirred  themselves,  arrayed  their  powers
+And  marched  toward  Hamavaran.     The  land
+Became  all  hill,  troops  stretched  from  range  to  range,
+
+
+KAI   KAUS  95
+
+And  dust  obscured  the  moon.     Then  Rustam  sent
+
+A  warrior  in  haste  to  Shah  Kiiiis
+
+By  stealth  to  say :  "  The  monarchs  of  three  realms
+
+Approach  to  fight — brave  men  who  shall  not  know
+
+Their  heads  from  feet  when  I  encounter  them  ;
+
+But  thou  must  not  be  injured  by  our  strife
+
+Since  evil  men  are  prone,  to  outrages,
+
+And  e'en  Barbar's  throne  would  avail  me  not
+
+If  ill  befell  the  person  of  the  Shah."
+
+Kails  made  answer :  "  Have  no  care  for  this  ;
+The  earth  was  not  spread  out  for  me  alone,
+And  bane  will  mix  with  sweets  and  love  with  hate
+While  heaven  turneth.     God  too  is  my  friend,
+My  refuge,  and  my  stronghold  is  His  love.
+Give  Rakhsh  the  rein,  and  level  to  his  ears
+Thy  lance's  point ;  let  not  a  foe  remain
+In  arms  or  hiding."
+
+Matchless  Rustam  heard,  v.  398
+
+Armed,  and  went  forth  to  battle,  urged  fleet  Rakhsh
+Along,  and  challenged  all  the  world  to  fight,
+Then  stood  alone  and  glared  upon  the  foe,
+But  no  one  dared  though  Rustam  waited  long,
+Until  bright  Sol  was  setting  in  the  sea,
+And  dark-hued  night  was  coming  on  apace.
+Then  that  great  elephantine  chief  returned,
+And  rested  in  his  tent  till  night  was  passed ;
+The  next  day,  when  the  sun  grew  bright  again,
+He  came  forth  and  arrayed  his  mighty  men.
+
+
+How  Rustam  fought  with  Three  Kings  and  delivered  Kdus
+
+Next  day  they  set  the  battle  in  array
+
+And  raised  their  standards.     When  the  peerless  Rustam
+
+Had  led  his  forces  to  the  field,  and  viewed
+
+
+96  THE   SHAHNAMA    OF  FIRDAUS1
+
+The  armies  of  three  monarchs  and  three  realms,
+He  thus  harangued  his  noble  warriors  : —
+"  Keep  your  eyelashes  well  apart  to-day,
+And  look  to  rnane  and  forelock,  steed  and  rein,
+With  both  eyes  on  your  spearpoints.     Be  the  foe
+A  hundred  or  a  hundred  thousand  horse
+Their  sum  importeth  not  for,  since  the  All-holy
+Is  our  ally,  I  will  bring  down  their  heads
+To  dust."
+
+V.  399  The  monarchs  on  their  side  were  seated
+
+On  elephants ;  their  forces  stretched  two  miles.
+Barbaristan  sent  eight  score  elephants
+All  foaming  like  the  Nile,  Hamavaran
+Contributed  a  hundred  more — huge  beasts —
+And  had  a  line  of  battle  two  miles  long,
+And  thirdly  was  arrayed  the  power  of  Misr.
+The  atmosphere  was  darkened,  earth  was  hidden,
+And  thou  haclst  said :  "  The  world  is  all  of  iron,"
+Or :  "  Mount  Alburz  hath  donned  a  coat  of  mail."
+Behind  the  warriors'  backs  amid  the  dust
+Waved  flags  of  yellow,  red,  and  violet ;
+The  mountains  echoed  with  the  heroes'  shouts,
+Aud  earth  was  weary  of  the  tramp  of  steeds.
+Then  were  the  claws  and  hearts  of  lions  rent,
+And  lusty  eagles  flung  their  plumes  away,
+The  clouds  of  heaven  melted  in  mid  air,
+For  how  could  anything  oppose  such  troops  ?
+The  Iranians  ranked  the  host  to  right  and  left,
+The  heroes  longed  for  battle  and  revenge.
+Guraza  held  the  right  where  was  the  baggage,
+Upon  the  left  was  glorious  Zawara —
+A  Dragon  and  a  Lion  in  the  fray-
+While  Rustam  at  the  centre,  with  coiled  lasso
+
+v.  400       Hung  to  his  saddlebow,  bade  sound  the  advance.
+
+Then  sword  and  javelin  gleamed  ;  thou  wouldst  have
+said : —
+
+
+KAI  KAUS  97
+
+"Heaven    hath    sown  earth  with   tulips,"  and   where
+
+Rustam
+Urged  Rakhsh :   "  He  spreadeth   fire,"  and :   "  All  the
+
+waste
+
+Is  as  a  Zam  *  of  blood,  not  like  a  field
+Of  elephantine  Rustam's."     Helmed  heads
+Were  smitten  off,  and  plain  and  hollow  strewn
+With  mail.     The  peerless  hero  urged  on  Rakhsh
+And,  deigning  not  to  slaughter  common  folk,
+Charged  at  the  king  of  Sham  and  lassoed  him
+(Thou  wouldst  have  said  the  lasso  crushed  his  waist),
+Then  snatched  him  from  the  saddle,  like  a  ball
+Struck  by  a  polo-stick,  and  flung  him  down.
+Bahram  made  fast  his  hands.     They  captured  sixty
+Of  name  and  deluged  plain  and  hill  with  blood.
+The  monarch  of  Barbar  and  forty  chiefs
+Were  taken  prisoners  by  Guraza's  hand,
+And  when  the  monarch  of  Hamavaran  v.  401
+
+Beheld  his  soldiers  slain  on  every  side,
+Beheld  a  troop  of  wounded  warriors,
+Another  troop  fast  bound  in  heavy  chains,
+And  valiant  Rustam  with  his  trenchant  sword
+Creating  Doomsday  on  the  battlefield,
+He  felt :  "  This  day  is  one  of  bale,"  and  sent
+To  Rustam  to  ask  quarter,  promising
+To  give  up  Kai  Kaiis  and  all  the  leaders,
+And  to  restore  the  treasures,  crowns,  and  jewels,
+The  tent-enclosures,  thrones,  and  golden  girdles,
+And  slaves.     They  made  a  peace  and  then  disbanded
+Three  hosts.     The  monarch  of  Hamavaran
+Went  home  and  sat  in  council,  sent,  and  fetched
+Kaiis,  and  righted  him.     When  Rustam  thus
+Released  the  Shah  with  Giv,  Tus,  and  Gudarz,
+He  stored  three  kingdoms'  arms,  three  monarchs'  riches,
+The  tents,  the  crowns,  and  everything  of  value,  V.  402
+
+1  The  name  of  a  river.
+VOL.  II.  G
+
+
+98  THE   SHAHNAMA    OF  FIRDAUSI
+
+Among  the  treasures  of  Shah  Kai  Kaiis,
+
+Who  then  refulgent  in  his  sun-like  Grace
+
+Prepared  a  gilded  litter  of  brocade
+
+Of  Rum,  a  crown  of  gems,  a  turquoise  seat,
+
+A  sable  housing  decked  with  jewelry,
+
+And  placed  them  on  a  steed  of  easy  pace,
+
+Whose  bridle  was  adorned  with  gold.     He  made
+
+The  litter  out  of  fresh-cut  aloe-wood
+
+Inlaid  with  many  divers  kinds  of  gems,
+
+And  bade  Siidaba  take  her  seat  therein
+
+Secluded  like  the  sun  beneath  the  earth,
+
+Then  led  the  army  campward  from  the  city
+
+To  reassert  his  claims  upon  fran.
+
+A  hundred  thousand  horsemen  from  Barbar,
+
+Hamavaran,  and  Misr  assembled  round  him,
+
+While  his  own  host  was  fifteen  thousand  score
+
+Of  cavaliers  on  barded  steeds  and  more.
+
+
+§7
+How  Kdus  sent  a  Message  to  Afrdsiydb
+
+v.  403        Now  when  the  Arab  spearmen  of  the  desert
+Heard  from  Hamavaran  of  Rustam's  doings
+With  Misr  and  with  Barbar  and  with  their  kings,
+They  chose  a  wise  and  valiant  man,  well  skilled
+In  horsemanship  and  javelin-play,  and  wrote
+A  royal  letter  couched  in  fitting  terms.
+"  We  are,"  they  said,  "  the  servants  of  the  Shah
+And  only  walk  the  world  at  his  command ;
+So  when  a  host  came  from  the  Kargasars
+To  seek  his  throne  our  hearts  were  greatly  grieved
+At  such  presumption.     When  Afrasiyab
+Desired  thy  throne  (may  none  such  dream  thereof)
+We  chiefs  and  swordsmen  went  forth  to  the  field
+
+v.  404       With  our  long  spears  and  turned  his  joy  and  ease
+
+
+KAI  KACS  99
+
+To  bitterness.     On  both  sides  many  fell,
+The  age  grew  conversant  with  good  and  evil,
+And  now  we  hear  of  thee  and  that  the  Grace
+Of  king  of  kings  reviveth.     When  thou  comest
+Back  from  Barbar  we  all  will  shoulder  spears,
+Fill  earth  from  hill  to  hill  with  foemen's  blood,
+And  make  the  world  run  like  Jihun."
+
+The  envoy
+
+Spurred  forth  toward  Barbaristan,  the  Shah
+Received  the  letter  couched  in  such  fair  terms,
+Then  wrote  a  letter  to  Afrasiyab : —
+"  Quit  thou  Iran  and  limit  thine  ambition.
+I  wonder  much  at  what  I  hear  of  thee.
+Thou  hast  no  wants,  thou  joyest  in  Turan;
+Then  be  not  covetous  or  fondly  grasping
+At  ill,  which  soon  will  bring  thee  lengthy  toils.
+A  smaller  matter  is  enough  for  thee —
+To  save  thy  skin.     Dost  know  not  that  f  ran
+Is  my  seat,  earth  all  mine  ?     The  boldest  leopard
+Will  never  dare  to  face  the  lion's  claws."
+
+He  gave  a  paladin  the  letter  sealed,  y.  405
+
+Who  reached  the  monarch  of  Turan  and  Chin
+In  haste,  first  kissed  the  ground  and  did  obeisance.
+And  after  compliments  gave  him  the  letter
+Which,  when  Afrasiyab  had  read  it,  filled
+His  head  with  vengeance  and  his  heart  with  rage.
+He  answered :  "  Only  miscreants  talk  thus.
+In  thy  case,  if  f  ran  had  satisfied  thee
+Thou  hadst  not  coveted  Hamavaran,
+And  now  that  I  have  won  Iran,  and  raised
+My  fluttering  flag,  that  broad  champaign  is  mine
+On  two  accounts  ;  thou  needs  must  hear  the  truth :
+First — I  inherit  all  the  land  from  Tur,  v  4o6
+
+My  grandsire  and  the  son  of  Faridiin ;
+And  secondly — I  cleared  it  of  the  Arabs
+With  my  sword-arm.     I  with  my  scimitar
+
+
+ioo  THE   SHAHNAMA    OF  FIRDAUSI
+
+Behead  the  mountains  and  bring  eagles  down
+From  their  dark  cloud-tops."
+
+He  equipped  his  troops,
+And  marched  in  person  to  oppose  Kaiis,
+Who,  when  he  heard,  arrayed  a  boundless  host
+And  from  Barbar  marched  to  Arabia
+To  meet  Afrasiyab ;  the  world  was  filled
+With  trump  and  tymbal-din,  the  sky  was  ebony,
+
+v.  407        The  earth  was  iron.     What  with  crash  of  ax
+
+And  twang  of  bow  a  blood-wave  swept  the  field,
+
+While  Rustain  thundering  from  the  centre  broke
+
+The  foemen  with  one  charge.     On  that  field  slept
+
+The  fortunes  of  Turan.     Afrasiyab
+
+Boiled,  like  fermenting  must,  without  a  fire,
+
+And  cried  :  "  0  gallant  hearts  of  mine,  my  Lions,
+
+And  chosen  chiefs  !  'twas  for  a  time  like  this
+
+That  ye  were  reared  upon  my  breast,  and  now
+
+Ye  play  at  battle  with  mine  Arab  foes  !
+
+Be  strong,  renew  the  fight,  and  make  the  world
+
+Too  narrow  for  Kaiis,  spear  and  cut  down
+
+His  warriors,  and  behead  his  haughty  chiefs.
+
+As  for  this  lion-hearted  man  of  Sigz,1
+
+Who  maketh  heaven  redden  with  his  sword,
+
+Be  bold  and  take  him  captive  with  your  lassos.
+
+Whoever  on  the  battlefield  shall  bring  him
+
+Down  from  the  pard-skin  to  the  dust  shall  have
+
+A  realm,  a  parasol,  my  daughter's  hand,
+
+And  be  entitled  '  captain  of  the  host ; '
+
+Him  will  I  make  the  lord  of  all  Iran,
+
+And  will  exalt  him  to  revolving  heaven/'
+
+Thereat  the  Turkmans  rallied  to  the  fight.
+With  massive  maces  in  their  hands  the  brave,
+
+v.  408       The  chieftains  of  Iran,  so  slaughtered  them
+
+That  rivers,  plains,  and  hills  were  strewn  with  slain —
+
+1  According  to  C,  glossary  (a.v.),  a  mountain  in  Zabulistan  where
+Rustam  was  born,  but  more  probably  =  Sajistan  =  Sistiln.
+
+
+KAI  KAUS  101
+
+The  more  part  of  their  host — and  earth  was  puddled
+\Vith  blood  to  clay.     The  Turkmans'  fortune  slept.
+Afrasiyab  fled  Rustam  with  the  troops
+From  Ghur ;  he  sought  for  gain  but  gained  a  loss,
+And  seeing  fortune's  bent  left  them  and  stricken
+Marched  toward  Turan,  his  warriors  mostly  slain :
+He  searched  the  world  for  honey  and  found  bane.
+
+
+§8
+How  Kdus  ordered  the  World
+
+Kaiis  arrived  at  Pars,  the  world  began
+
+An  age  of  happiness.     He  acted  justly,
+
+Adorned  the  throne,  and  gave  free  scope  to  feasting ;
+
+He  sent  forth  wise  and  noble  paladins
+
+With  troops  to  all  parts — Marv  and  Nishapiir,
+
+Harat  and  Balkh.     Then  justice  ruled  the  world  ;
+
+The  wolf  eyed  not  the  lamb.     Such  were  his  treasures,
+
+His  state,  and  Grace,  that  fairies,  men,  and  divs
+
+Served  him,  all  were  his  lieges,  other  kings
+
+Were  soldiers  in  his  host.     He  gave  the  office
+
+Of  paladin  of  paladins  to  Rustam —
+
+The  author  of  his  weal — and  wearied  out
+
+The  divs  to  build  himself  on  Mount  Alburz
+
+Two  mansions,  each  ten  lassos  long,  which  they
+
+Constructed  at  his  bidding  of  hard  stone.
+
+He  excavated  stables  in  the  rocks,
+
+The  columns  were  of  stone  with  clamps  of  steel,
+
+And  there  he  kept  the  war-steeds  and  the  camels  v.  409
+
+To  ride  or  carry  litters.     He  erected
+
+A  pleasure-house  of  crystal,  studding  it
+
+With  emeralds  ;  a  cupola  of  onyx
+
+Brought  from  Yatnan,  and  there  installed  archmages
+
+That  learning  might  not  fail ;  two  armouries
+
+Of  virgin  silver  and  a  golden  palace
+
+
+102  THE   SHAHNAMA    OF  FIRDAUSI
+
+Twice  sixty  cubits  high  for  his  own  seat
+With  turquoise  traceries;  he  spared  not  jewels.
+It  was  a  dwelling  after  his  own  heart,
+Where  daily  provand  waxed  continually.
+There  was  no  summertide  or  wintertide,
+The  air  was  ambergris,  the  rain  was  wine,
+The  days  of  springtide  lasted  all  the  year,
+And  roses  there  were  like  a  maiden's  blush,
+The  heart  was  far  from  sorrow,  pain,  and  travail,
+The  divs  were  harmless  being  spent  with  toil.
+So  good  and  just  was  he  that  fortune  slept,
+While  drudging  divs  beneath  his  rigour  wept.
+
+
+How  Kdiis,  beguiled  by  Iblis,  ascended  the  Ski/
+
+One  dawn  Iblis,  unknown  to  Kai  Kaiis,
+Addressed  the  assembled  divs :  "  Our  daily  task
+Is  one  of  cruel  labour  for  the  Shah,
+v.  410       We  need  a  div  shrewd  and  presentable
+
+To  tempt  him,  soil  his  Grace,  wean  him  from  God,
+And  thus  abate  his  tyranny."
+
+They  heard
+
+And  mused.     None  answered,  for  they  feared  Kaiis.
+At  length  a  wicked  div  arose  and  said  :—
+"  Be  mine  this  subtile  task.     I  will  pervert
+His  mind  from  God  as  none  but  I  can  do."
+
+Appearing  as  a  youth  of  good  address
+And  mien,  he  waited  till  the  famous  Shah
+Went  hunting  from  Pahlav.     The  div  approached
+With  roses  to  present,  then  kissed  the  ground,
+And  said  :  "  Thy  glory  and  thy  Grace  are  such
+That  heaven  is  thy  fit  home  and  earth  thy  slave ;
+Thou  art  the  shepherd,  nobles  are  the  sheep.
+One  thing  is  lacking  still — that  thou  shouldst  leave
+
+
+KAl  KAUS  103
+
+Thine  everlasting  mark  upon  the  world.
+
+How  is  it  that  the  sun  concealeth  from  thee
+
+The  secret  of  its  rising  and  its  setting  ?
+
+What  is  the  moon  ?     What  are  the  night  and  day,
+
+And  who  is  master  of  the  turning  sky  ?
+
+Thou  hast  the  earth  and  all  thou  didst  desire  ;
+
+Now  take  the  heaven  also  in  thy  toils."
+
+The  Shah's  heart  strayed,  he  tarried  not  to  think,
+Convinced  that  turning  heaven  favoured  him.
+He  knew  not  that  the  sky  is  ladderless,
+
+Nor  that,  though  stars  be  many,  God  but  One,
+
+What  ever  He  commandeth  must  be  done  v.  411
+
+How  ever  great  the  struggle  and  the  stress.
+The  Maker  hath  no  need  of  sky  and  earth ;
+Twas  for  thy  sake  that  both  of  them  had  birth.
+
+The  Shah  mused  how  to  roam  the  air  though  wing-
+
+
+And  often  asked  the  wise  :  "  How  far  is  it
+From  earth  to  moon  ? "
+
+The  astrologers  replied.
+He  chose  a  futile  and  perverse  device :
+He  bade  men  scale  the  aeries  while  the  eagles
+Were  sleeping,  take  a  number  of  the  young,
+And  keep  a  bird  or  two  in  every  home.
+He  had  those  eaglets  fed  a  year  and  more
+With  fowl,  kabab,  and  at  some  whiles  with  lamb.
+When  they  were  strong  as  lions  and  could  each
+Bear  off  a  mountain-sheep  he  made  a  throne
+Of  aloe  from  Kumar l  with  seats  of  gold.
+He  bound  a  lengthy  spear  at  every  corner,
+Suspended  a  lamb's  leg  from  every  spear-head,
+Brought  four  strong  eagles,  tied  them  to  the  throne,
+And  took  his  seat,  a  cup  of  wine  before  him.
+The  swift- winged  eagles,  ravenous  for  food,
+Strove  lustily  to  reach  the  flesh,  and  raising
+
+1  Cape  Comorin.
+
+
+104  THE  SHAHNAMA    OF  FIRDAUSI
+
+The  throne  above  earth's  surface  bore  it  cloudward.
+Kaus,  as  I  have  heard,  essayed  the  sky
+
+To  outsoar  angels,  but  another  tale
+
+Is  that  he  rose  in  this  way  to  assail
+The  heaven  itself  with  his  artillery.
+The  legend  hath  its  other  versions  too ;
+None  but  the  All-wise  wotteth  which  is  true.
+
+Long  flew  the  eagles,  but  they  stopped  at  last,
+v.  412       Like  other  slaves  of  greed.     They  sulked  exhausted,
+
+They  drooped  their  sweating  wings  and  brought  the
+
+Shah,
+
+His  spears,  and  throne  down  from  the  clouds  to  earth,
+Alighting  in  a  forest  near  Amul.1
+The  world  preserved  him  by  a  miracle,
+But  hid  its  secret  purposes  therein.
+In  answer  to  his  prayers  a  duck2  appeared,
+For  something  must  be  had  to  eat  and  drink,
+And  if  Shah  Kai  Kaus  had  perished  there
+Worldlord  Khusrau  had  not  been  born  from  him.3
+Instead  of  sitting  on  his  throne  in  might
+His  business  then  was  penitence  and  travail.
+He  tarried  in  the  wood  in  shame  and  grief
+Imploring  from  Almighty  God  relief.
+
+§  10
+How  Rustam  brought  back  Kaus
+
+While  thus  the  Shah  sought  pardon  his  own  host
+Was  searching  for  him  everywhere.     When  Rustam
+With  Giv  and  Tus  gat  news  of  him  they  marched
+With  many  troops  and  drums.     Said  old  Giidarz
+To  Rustam  :  "  Since  my  mother  suckled  me
+
+1  Reading  with  P.
+
+2  Siydwush  ;  also  the  name  of  the  yet  unborn  son  of  Kai  Kaus  and
+father  of  Kai  Khusrau.
+
+3  Couplet  inserted  from  C.      See  introductory  note  to  this  Part.
+
+
+KAI   KAUS  105
+
+I  have  been  conversant  with  crown  and  throne,
+
+With  kings  and  great  men  of  unsleeping  fortune,
+
+But  have  not  seen  in  all  the  world  a  man
+
+'Midst  high  and  low  so  self-willed  as  Kaiis.
+
+He  hath  no  wisdom,  common  sense,  or  Faith,
+
+He  is  wrong-headed  and  wrong-hearted  too.
+
+Thou  wouldest  say :  '  He  hath  no  brains,  his  thoughts
+
+Are  all  awry.'     None  of  the  great  of  yore
+
+Hath  e'er  essayed  the  heavens.     Like  witless  madmen     v.  413
+
+He  is  borne  off  his  feet  by  every  wind."
+
+Whenas  the  paladins  arrived  they  rated
+The  Shah.     "  The  madhouse  is  thy  proper  place,"
+Giidarz  said,  "  not  the  city.     Thou  surrenderest
+Thy  seat  to  foes  and  tellest  none  thy  whims.
+Thrice  hast  thou  been  in  trouble,  yet  thy  head
+Is  none  the  wiser !     To  Mazandaran
+Thou  led'st  a  host,  and  look  what  mischief  followed  !
+Again,  thou  madest  merry  with  a  foe,
+Yet  thou — his  idol — hadst  to  worship  him  !
+And  when  none  in  the  world  save  holy  God
+Remained  to  read  the  title  of  thy  sword,
+Since  earth  was  conquered,  thou  must  needs  try  heaven,
+Although  to  soar  one  hand-breadth  is  revolt.
+What  bale  hast  thou  encountered  yet  escaped  !
+Hereafter  folk  will  tell  of  thee :  '  A  Shah
+Went  to  the  sky  to  see  the  sun  and  moon,
+And  count  the  stars.'     Now  do  as  princes  do
+When  prudent,  pious,  and  beneficent —
+Serve  God  and  Him  alone  in  weal  and  woe."
+
+Kaus,  abashed  before  those  famous  heroes,
+Replied  :  "  No  harm  can  come  of  righteous  judgment ;
+Thy  words  are  righteous  and  thou  hast  convinced  me."
+
+He  wept  gall,  called  on  God,  and  took  his  seat
+Distressed  and  penitent  within  the  litter.
+He  reached  his  lofty  throne,  but,  being  troubled  v.  414
+
+Still  at  his  great  offence,  he  quitted  it
+
+
+io6  THE  SHAH  NAM  A    OF  FIRDAUSI
+
+And  entered  not  his  palace  out  of  shame,
+
+But  paced  the  dust  in  prayer  before  his  God
+
+For  forty  days.     Thou  wouldst  have  said :  "  His  skin
+
+Hath   burst."     He   prayed   with   tears   of  blood   and
+
+wailed
+
+For  Grace.     Abashed  to  meet  the  mighty  men
+He  ceased  from  banquetings  and  audiences,
+Repented  and  did  penance,  giving  largess,
+And  laid  his  cheek  upon  the  darksome  dust
+In  prayer  to  God  who  in  a  while  forgave  him.
+His  scattered  troops  assembled  at  his  gate ;
+God's  pardon  gave  him  brightness ;  he  was  ware
+That  penance  had  borne  fruit.     He  took  his  seat
+Crowned  on  the  throne  of  gold,  gave  to  his  troops
+A  donative,  reformed  the  world,  and  grew
+A  Light  to  great  and  small ;  thou  wouldst  have  said : —
+"  The  world,  now  right  is  done,  is  all  brocade,
+The  king  of  kings  illumineth  the  throne."
+From  every  province  those  illustrious  chiefs,
+That  had  assumed  the  crown,  renewed  allegiance
+And  journeyed  to  his  court,  old  times  returned,
+The  monarch  bathed  his  crown  in  love  and  faith,
+The  princes  all  attended  as  his  slaves
+Before  him  while  he  sat  upon  his  throne
+Of  jewel-work  with  crown  and  ox-head  mace.
+v.  415  I  tell  the  tale  as  I  have  heard  it  told,
+
+And  none  hath  such  another  to  unfold.
+Such  were  the  actions  of  the  worldlord  king
+And  Rustam,  chief  of  paladins !     Whene'er
+A  king  is  just  then  all  is  well  and  fair ;
+He  needeth  not  to  cry  for  succouring.
+Kaiis  saw  what  was  right,  did  what  was  right,
+A  breath  of  wind  was  this  world  in  his  sight.
+
+
+KAI   KAUS  107
+
+THE   STORY  OF   THE   FIGHT   OF  THE
+SEVEN  WARRIORS
+
+
+How  Rustam  went  with,  the  Seven    Warriors  to  the
+Hunting-ground  of  Afrdsiydb
+
+To  strive  with  death  is  but  a  bootless  strife,
+Such  is  the  moral  taught  by  Rustam's  life.
+A  minstrel  whom  a  lion  once  surprised  —
+A  man  of  valiant  heart  —  thus  moralised  :  —
+"  If  thou  wouldst  have  the  glory  of  the  brave,
+And  wouldst  imbrue  in  blood  an  Indian  glave,
+Seek  not  to  spare  thyself,  for  destiny
+Will  not  be  balked  when  'tis  the  time  to  die.
+If,  being  wise,  thou  keepest  death  in  sight
+The  brave  will  count  thee  not  a  man  of  might.
+Both  Faith  and  wisdom  sanction  not  this  course,
+But  their  good  teaching  is  enslaved  by  force."
+
+A  goodly  gest  of  Rustam's  next  I  tell.  v.  416
+
+Once  at  Nawand  —  that  place  of  palaces  —
+The  mighty  hero  gave  a  splendid  feast
+Where  tall  Barzin  l  now  beaconeth  the  way.
+The  great  men  of  Iran  —  a  famous  band  —
+Tiis  and  Gudarz  son  of  Kishwad,  Bahrain
+And  Giv  —  both  noble  men  —  Gurgin  and  Zanga,
+Kharrad  and  Gustahain,  that  haughty  swordsman
+Barzin  and,  crown  of  all  the  band,  Guraza,
+Assembled  at  the  place  of  banqueting,
+Each  with  his  meiny  —  an  illustrious  throng.
+They  spent  a  while  at  polo,  wine,  and  hunting,
+And,  when  they  all  were  merry,  Giv  bemused
+Said  thus  to  Rustam  :  "  0  illustrious  chief  !
+
+1  The  name  of  a  fire-temple.
+
+
+io8  THE   SHAHNAMA    OF  FIRDAUS1
+
+Come  let  us,  if  thou  hast  a  mind  to  hunt,
+
+Hide  from  the  great  Afrasiyab's  preserves
+
+The  sun's  resplendent  visage  with  the  dust
+
+Of  horsemen,  cheetahs,  hawks,  and  our  long  spears.
+
+There  let  us  chase  the  rapid  onager,
+
+O'ercome  the  lion  with  the  sword,  and  take
+
+Boars  with  the  spear  and  pheasants  with  the  hawk
+
+Throughout  the  livelong  day.     Come  let  us  go
+
+V.  417       A-hunting  in  yon  desert  of  Turan
+
+To  make  ourselves  a  memory  in  the  world."
+
+Then  Kustam  answered :  "  Be  it  as  thou  wilt,
+And  prosper  thou.     Seek  we  Tiiran  at  dawn
+To  hunt  and  harry  in  the  deserts  there."
+
+They  all  agreed  and,  when  they  rose  next  day,
+Made  ready  eagerly,  and  setting  forth
+With  cheetahs,  hawks,  and  baggage  bravely  sped
+Toward  the  Shahd  across  the  hunting-ground
+Of  great  Afrasiyab,  on  one  side  mountains,
+A  river  on  another  side,  Sarakhs
+Upon  the  third,  a  wilderness  in  front.
+Both   deer   and   sheep   flocked   on   the   plain,  which
+
+soon
+
+Was  occupied  by  tents  and  huts.     The  deer
+Were  frighted  by  the  company,  the  lions
+No  longer  ravened  there,  birds  as  they  flew
+Knew  something  of  the  sport,  for  bird  and  beast
+Lay  everywhere  in  heaps,  some  killed,  some  wounded.
+
+V.  418       The  hunters  were  light-hearted,  full  of  glee,
+With  laughter  constantly  upon  their  lips,
+And  having  spent  a  sennight  wine  in  hand
+Were  jovially  bemused.     The  peerless  Rustam
+Came  as  the  eighth  day  dawned   with  needful  warn-
+ings :—
+
+"  Afrasiyab  no  doubt  hath  heard  of  us
+By  this.     We  must  not  let  that  Ahriman
+Take  counsel  with  his  famous  officers,
+
+
+KAI  KAUS  log
+
+Devise  a  ruse,  come  forth  to  fight,  and  rob  v.  419
+
+Our  cheetahs  of  their  hunting-grounds.     We  need
+An  outpost  on  the  road  to  bring  us  news,
+However  scanty,  of  our  enemies ;
+We  must  not  let  them  cut  us  off."
+
+The  chief
+
+Of  all  the  offspring  of  Givgan — Guraza —
+Girt  him  for  that  emprise.    With  such  a  watchman
+The  ruses  of  the  foe  were  nothing  worth.
+The  others  hunted  in  security.
+At  length  Afrasiyab  gat  news  of  them
+At  sleeping-time  and  called  his  veteran  chiefs,
+Discoursed  to  them  at  large  of  Rustam.  told  them
+About  the  seven  warriors — lion-like
+And  gallant  cavaliers — and  thus  he  said  : —
+"  We  must  not  dally,  but  devise  a  ruse,
+And  fall  upon  them  unawares.     If  we
+Can  seize  these  seven  warriors  we  shall  straiten
+The  world  for  Kai  Kaiis.     We  must  go  forth
+As  if  to  hunt  and  take  them  by  surprise."
+
+He  chose  him  thirty  thousand  famous  swordsmen,
+And  spake  thus :  "  Go  not  by  the  beaten  track,  v.  420
+
+And  slumber  not  but  hasten  night  and  day."
+
+They  hastened  forth  along  the  desert-route.
+And  raised  their  necks  for  strife.     Afrasiyab
+Dispatched  meanwhile  to  cut  those  proud  chiefs  off
+A  countless  host.     As  they  drew  near  the  chace,
+Advancing  quickly  eager  for  revenge,
+The  outpost  saw  them  like  a  darksome  cloud,
+While  dust  arose  like  lapislazuli
+Wherein  a  flag  appeared.     Like  rushing  wind
+He  turned  back  shouting  lustily  and  found
+The  matchless  Rustam  and  his  mates  at  wine,
+Then  cried :  "  O  Rustam,  lion-man  !  away
+With  these  delights,  for  such  a  countless  host
+Appeareth  that  the  plain  and  heights  are  one ;
+
+
+I io  THE   SHAHNAMA    OF  FIRDAUSI
+
+.    The  standard  of  the  fell  Afrasiyab
+
+Is  shining  sun-like  through  the  clouds  of  dust ! "
+
+Then  Rustam,  laughing  heartily,  replied : —
+"  Victorious  fortune  is  with  us,  why  fear
+The  Turkman  king  and  dust  of  Turkman  horse  ?
+All  told  he  is  not  five  score  thousand  strong,
+And  were  I  by  myself  upon  this  plain,
+What  with  my  battle-ax,  cuirass,  and  Rakhsh,
+I  should  not  trouble  for  Afrasiyab
+With  all  his  mighty  army  and  his  dash ;
+Nay,  any  one  of  us  upon  the  field
+Would  over-match  the  whole  host  of  Turan.
+A  battle-ground  like  this  is  all  I  need ;
+I  want  not  I  the  Iranian  warriors.
+We  have  a  band  of  seven  cavaliers,
+Such  men  of  name,  such  swordsmen,  that  each  one
+Will  match  five  hundred,  two  will  match  a  thousand,
+Skilled  cavaliers  and  spearmen  though  they  be.
+y.  421        And  now,  cup-bearer  !  fill  up  to  the  brim
+The  goblet  with  the  vintage  of  Zabul."
+
+They  poured  the  wine,  and  Rustam's  spirits  rose ;
+He  took  a  bowl  and  toasted  Kai  Kaiis.
+"  I  give  the  monarch  of  the  age,"  he  said,
+"  And  may  he  flourish  ever  soul  and  body,"
+Then  kissed  the  ground.     Again  he  took  the  cup,
+And  cried :  "  This  goblet  do  I  drain  to  Tiis."
+
+Thereat  those  princes  of  the  worldlord  rose
+And  prayed  the  paladin  have  them  excused.
+"  We  can  no  more,"  they  said  ;  "  Iblis  himself
+Could  not  drink  fair  with  thee.     Wine,  one-blow  mace,
+And  battlefield  are  thine  and  thine  alone."
+
+Then  from  a  golden  cup  the  hero  drank
+Zawara's  health  in  red  wine  of  Zabul,
+Whereat  Zawara  took  the  cup  in  hand,
+And  he  too  gave  the  health  of  Kai  Kaus,
+Then  quaffed  the  wine  and  kissed  the  face  of  earth,
+
+
+KAI   KAUS  in
+
+
+While  Eustam  fell  to  praising  him  and  said
+"  The  brother  doth  the  brother's  cup  essay  !
+A  Lion  he,  the  wine-cup  is  his  prey."
+
+
+i"
+
+How  Rustam  fought  with  the  Turdnians
+
+"  0  glory  of  the  monarch  and  the  chiefs !  "
+
+Said  Giv  to  Rustam,  "  I  will  seize  and  hold
+
+The  bridge  against  the  foe,  so  that  our  men
+
+May  arm,  for  mirth  is  over."  v.  422
+
+With  strung  bow
+
+He  ran  toward  the  bridge  but  found  the  king
+Across  already  leading  on  his  van.
+Then  matchless  Rustam  donned  his  tiger-skin,
+Bestrode  his  huge  fell  Elephant,  and  went
+With  roarings  like  a  bellowing  crocodile
+Against  the  Turkman  host.     Thou  wouldst  have  said
+That  when  Afrusiyab  caught  sight  of  Rustam
+Mailed,  with  such  hands  and  breast  and  arms  and  neck
+And  shouldered  battle-axe,  he  swooned  away.
+Tils  and  Gudarz,  the  wielders  of  the  lance,
+Gurgin  and  Giv,  the  gallant  cavaliers,
+Bahram,  Barzin,  Farhad,  and  Zanga  son
+Of  Shawaran,  the  warriors,  sprang  up,
+All  with  their  spears  and  Indian  swords  in  hand,
+And  ranged  themselves  like  leopards  for  the  combat.
+Giv,  like  a  lion  that  hath  lost  its  prey,
+Rushed  to  the  fight  and  with  his  whirling  mace
+Laid  many  stalwart  Turkman  chieftains  low.
+Their  fortune  was  averse,  the  fighting-men
+Of  Chin  recoiled.     Afrasiyab  astound  v.  423
+
+Rushed  forth  to  join  the  mellay.     Rustam  saw.
+And,  shouldering  his  massive  mace  and  gripping  v.  424
+
+His  charger  firmly,  came  before  the  host
+
+
+U2  THE   SHAH  NAM  A    OF  FIRDAUS1
+
+With  lion's  roars.     Behind  him  was  Giidarz,
+Son  of  Kishwad,  in  mail  with  mace  of  steel.
+
+When  the  Turanians'  eyes  were  growing  dim,
+And  Rustam's  helm  touched  heaven,  Afrasiyab
+
+v-  425       Spake  to  Piran  the  son  of  Wisa,  saying : —
+"  0  full  of  wisdom  and  my  loyal  chieftain,
+Most  famous  of  the  Lions  of  Tiiran,
+Aspiring  and  redoubted  !  ply  thy  reins,
+Go  forth  with  speed,  and  clear  the  field  of  foes.
+Iran  is  thine  if  thou  dost  conquer  ;  thou
+Hast  elephantine  form  and  lion's  claws."
+
+Piran  departed  like  a  rushing  wind,
+Arrayed  ten  thousand  Turkmans — gallant  swordsmen
+Of  high  renown — and  came  like  fire  on  Rustam,
+For  victory  or  defeat  both  hung  on  him.
+That  hero  foamed  and,  as  thou  wouldst  have  said,
+Eclipsed  the  sun.     He  urged  his  charger  on ;
+A  roar  arose  as  of  the  rising  sea.
+With  shield  o'er  head  and  Indian  sword  in  hand
+He  slew  most  of  those  chiefs.     Afrasiyab
+Saw  this  from  far  and  said  thus  to  his  nobles : —
+"  If  they  fight  thus  till  dark  there  will  not  be
+A  single  horseman  left  !     Think  we  no  more
+Of  battle.     We  came  forth  to  fight  the  Iranians
+And  in  our  own  conceit  were  lions  then,
+
+v.  426       Yet  now  I  seem  a  fox  as  I  survey
+
+The  plain,  and  feel  a  skulker  from  the  fray  ! "
+
+
+§  13
+
+How  Pilsam  fought  wiih  the  Iranians
+
+There  was  a  warrior,  by  name  Pilsam,
+Of  royal  race  and  eager  for  renown,
+His  sire  was  glorious  Wisa  and  his  brother
+Victorious  Piran.     Both  in  Iran
+
+
+KAI  KAUS  113
+
+And  in  Turan  he  had  no  peer  save  Rustain.
+
+On  hearing  what  Afrdsiyab  had  said
+
+He  frowned  with  rage  and,  hasting  to  the  king,
+
+Cried  in  his  eager  longing  for  the  fray :  —
+
+"  A  youthful  warrior  of  this  host  am  I.
+
+What  dust  before  me  are  the  valiant  Tus
+
+And  gallant  Giv — that  Lion  known  to  fame —
+
+Bahrain  and  Zanga  son  of  Shawaran,
+
+And  brave  Guraza  !     At  the  king's  command
+
+I  will  go  lion-like,  smite  off  their  heads,
+
+O'ercloud  their  moon,  and  bring  their  crowns  to  dust."
+
+The  king  replied :  "  0  famous  warrior !
+May  victory  be  thine.     Thou  must  prevail
+And  come  back  conquering  and  glorious."
+
+Thereat  Pilsam  roared  like  a  brazen  trumpet,  v.  427
+
+Charged  the  Iranian  centre  swift  as  dust,
+And  struck  to  right  and  left  with  sword  and  ax,
+With  lion-roars  assailed  Gurgin  like  wind,
+And  smote  upon  the  head  his  foeman's  charger,
+Which  came  down  headlong  in  its  agony.
+This  Gustaham,  the  well  approved  in  war,
+Beheld  and,  swiftly  rushing  from  his  post,
+Made  like  a  raging  lion  for  Pilsam,
+And  closing  with  that  fiercely  blazing  Fire
+Thrust  at  his  foeman's  belt ;  the  buckles  held ;
+The  spear  was  shivered  in  his  grasp ;  he  flung
+The  haft  away.     Pilsam  drew  his  keen  sword,
+Struck  Gustaham  with  fury  on  the  crest,
+And  sent  his  helmet  rolling,  leaving  him
+Stunned  and  disarmed.     When  Zanga  on  the  right
+Saw  that  fierce  struggle  he  advanced  to  help,
+And  marked  the  evil  plight  of  Gustaham.
+Pilsam  the  Crocodile  opposed  the  charge,
+And,  coming  with  an  Indian  sword  in  hand,
+Struck  at  and  clave  the  mail  of  Zanga's  steed,
+Which  tumbled  prone.     The  gallant  warrior  fell,
+
+VOL.  n.  H
+
+
+114  THE   SHAHNAMA    OF  FIRDAUSI
+
+Took  up,  and  knit  his  mail-skirt  round  his  waist
+To  strive  afoot  against  the  great  Pilsam
+Amid  the  dust — the  prey  against  the  lion.
+Dark  clouds  of  dust  rose  from  the  scene  of  strife.
+Giv,  looking  from  the  centre  of  the  host
+And  seeing  earth  dark  in  the  heroes'  eyes,
+
+v.  428       Roared  like  the  thunder  on  the  mountain-top,
+Or  like  the  savage  lion  in  the  fight.
+He  went  to  aid  his  comrades,  and  all  four
+Attacked  Pilsam.     That  hero  blenched  no  jot,
+But  rushed  upon  them  plying  sword  and  mace :
+The  four  chiefs'  hands  were  paralysed  with  wonder.
+Piran,  beholding  from  the  centre,  saw
+His  brother's  desperate  case,  rushed  forth  to  help  him,
+And  shouted  furiously  to  Giv :  "  O  noble !
+It  is  no  glory  for  you  four  to  fight
+One  lion -like  and  famous  warrior."
+
+He  spake  and  charged  amid  a  cloud  of  dust,
+While  Rustam  too  rushed  bravely  to  the  rnellay
+And  smote  with  sword  and  axe  and  massive  mace
+The  captains  of  the  army  of  Tiiran.
+Then  fled  Pilsam,  well  knowing  that  that  Dragon
+Would  have  his  life.     The  Iranian  chiefs  and  warriors
+Slew  with  the  massive  mace  so  many  Turkmans
+That  corpses  were  piled  up  to  reach  the  moon.
+Afrasiyab  looked  on  and  sighing  cried : —
+"  Where  is  Alkiis  the  warrior  who  wished
+So  oft  to  fight  with  Lions,  in  his  cups
+Would  challenge  Giv  and  plan  a  fight  with  Rustam  ?
+Iran  was  all  that  he  would  talk  of  then,
+Where  are  his  ardour  and  his  bluster  now  ? "
+
+v.  429  Alkiis  was  told,  urged  on  his  night-hued  steed,
+
+And  with  his  hands  no  doubt  already  bathed
+In  blood  came  to  the  centre  to  the  king,
+And  cried  aloud  :  "  A  man  of  war  am  I,
+A  Lion  waiting.     At  the  king's  command
+
+
+KAI  KAUS  115
+
+I  will  go  forth  to  battle  single-handed."
+
+The  monarch  said  :  "  Choose  captains  from  the  host."
+More  than  a  thousand  valiant  cavaliers
+Went  with  him,  carrying  head-strewing  lances,
+And  glittering  like  Jupiter  and  Venus.
+Alkus  as  he  approached  the  Iranians
+Obscured  the  sun  and  moon  in  clouds  of  dust,
+And  when  Zawara  showed  and  challenged  fight
+Soon   countered   him   and  thought :  "  This  should   be
+
+Rustam,"
+
+Because  he  knew  the  seed  of  Narimdn.
+Zawara  charged  in  lion- wise,  but  when
+His  lance  snapped,  he  was  frayed  and  drew  his  sword.
+They   veiled   the   world   with   dust.       Both  falchions
+
+shivered.
+
+They  seized  their  maces.     Quick  as  wind  Alkus
+Dealt  such  a  blow  as  left  Zawara  senseless,
+Who  swooned  and  tumbled  speechless  from  his  saddle.
+Alkus  leaped  down  to  take  his  foeman's  head,
+But  Rustam  seeing  how  his  brother  fared
+Rushed  like  a  fire  toward  him  with  a  shout
+Which  shook  Alkus'  hand  and  dulled  his  sword.
+At  hearing  Rustam's  voice  thou  wouldst  have  said : —      V.  430
+"  His  heart  showed  through  his  skin."    Swift  as  the  wind
+He  mounted,  all  forgetful  of  his  manhood,
+And  Rustam  said  :  "  Thou  hadst  not  measured  then
+The  Lion's  claws  and  therefore  wast  so  brave."
+
+Then  while  Zawara,  blood-stained,  sorely  wounded,
+And  battered  by  the  mace,  regained  his  saddle,
+Alkus  encountered  Rustam  and  thereby
+Robed  his  bark-saddle  with  a  winding-sheet,
+For  thrusting  with  a  spear  at  Rustam's  girdle
+He  failed  to  pierce  the  mail,  while  Rustam  thrust
+A  spear  at  his  foe's  head  and  dashed  him  down
+As  'twere  a  mountain-crag  to  earth,  his  helmet
+Drownedin  his  heart's  blood,  while  both  armieswondered.
+
+
+ii6  THE   SHAHNAMA    OF  FIRDAUSI
+
+Then  fear  came  on  the  soldiers  of  Turan,
+
+While  lion-like  the  seven  warriors
+
+Drew,  and  their  gallant  captains  followed  them
+
+With  massive  maces  laid  upon  their  shoulders.
+
+Afrasiyab  beheld  them  with  amaze,
+
+Turned,  gazed  upon  his  mighty  men,  and  said : —
+
+"  The  foe  hath  overcome  you.     Strive  and  battle
+
+Like  valiant  pards."
+
+The  soldiers  heard  his  voice,
+And  fell  on  Rustam  in  a  mass,  while  he
+Charged  them  in  fury  with  the  seven  warriors.
+They  drave  and  routed  all  the  Turkman  host,
+Incarnadined  the  land  with  brave  men's  blood,
+And  laid  so  many  low  that  what  with  corpses
+And  trunkless  heads  no  vacant  space  was  seen
+For  troops  to  fight  on,  wheel,  or  pass  between.
+
+
+§  14
+How  Afrdsiydb  fled  from,  the  Battlefield
+
+V.  431        Afrasiyab  turned  rein  on  seeing  this,
+
+And  fled,  like  some  dark  cloud,  pursued  by  Rustam,.
+Who  thus  exhorted  Rakhsh :  "  My  clever  steed !
+Lag  not  in  battle-time,  for  I  will  slay
+The  monarch  by  thine  aid  and  make  the  plain
+Like  coral  with  his  blood."
+
+The  fiery  charger
+
+Sped  on  so  rapidly  that  thou  hadst  said : —
+"  His  flanks  have  put  forth  wings  ! "     Then  Rustam
+
+loosed
+
+The  lasso  from  the  straps  and  aimed  to  catch
+His  foeman  round  the  waist.     The  leathern  noose
+Fell  on  his  helm  ;  the  Turkmans'  leader  snatched
+His  neck  away;  again  the  wind-foot  steed
+Beneath  him  sped  like  fire.     Afrasiyab
+
+
+KAI  KAUS  117
+
+Escaped,  but  with  wet  cheeks  and  drouthy  mouth,
+
+While  all  his  horsemen  hurried  after  him
+
+With  spirits  broken  and  with  shattered  arms.
+
+He  sped  like  wind  and  overpassed  the  stream
+
+With  stricken  heart,  his  soldiers  mostly  slain  :
+
+He  searched  the  world  for  honey  and  found  poison.
+
+Of  treasures  and  of  thrones,  of  crowns  and  girdles,
+
+Of  swords  and  jerkins,  jewelry  and  helms,
+
+Of  noble  steeds  caparisoned  with  gold,
+
+Of  casques  and  scimitars  with  golden  scabbards,
+
+And  other  gear,  great  store  fell  to  the  Iranians.  V.  432
+
+They  gathered  all  and  left  the  field,  rejoicing,
+
+They  did  not  strip  the  slain  or  seek  the  fallen,
+
+But  went  back  to  the  hunting-ground  and  took
+
+All  kinds  of  steeds  and  equipage.     They  wrote
+
+To  Shah  Kaiis  to  tell  of  hunt  and  fight,
+
+And  how  they  had  not  lost  a  warrior ;
+
+Zawara  had  been  thrown  and  that  was  all.
+
+The  paladin  remained  two  weeks  with  mirth
+
+Upon  the  scene  of  triumph,  on  the  third
+
+They  sought  the  Shah  and  saw  his  glorious  crown.
+
+The  custom  of  our  Wayside  Inn  is  so,
+One  man  hath  quiet  and  another  woe.
+In  this  wise  or  in  that  time  passeth  by  ;
+Why  should  a  wise  man  feel  anxiety  ?
+
+The  legends  of  this  matter  now  are  told,
+•Such  as  have  reached  us  from  the  days  of  old.
+
+
+PAET    III
+
+SUHRAB
+
+ARGUMENT
+
+The  poet,  after  justifying  in  his  prelude  the  ways  of  God  to  man
+in  the  matter  of  early  death,  tells  how  Rustam,  in  the  course  of  one
+of  his  hunting  expeditions  to  Tiiran,  marries  Tahmina,  the  daughter
+of  the  king  of  Samangan.  Rustam  returns  to  Iran  and  is  subse-
+quently informed  by  Tahmina,  who  has  remained  at  Samangan,
+that  she  has  borne  him  a  son — Suhrab.  In  after  years  Suhrab
+joins  the  host  of  Afrasiyab  in  an  invasion  of  Iran  in  the  hope  of
+meeting  his  father,  who  has  been  misled  by  Tahmina  into  forming
+a  false  estimate  of  their  son's  person  and  prowess.  After  a  series
+of  tragic  misadventures  father  and  son  meet  in  single  combat  with
+fatal  results.
+
+NOTE
+
+The  story  of  Suhrab  is  purely  episodic,  it  might  be  omitted  from
+the  present  reign  without  any  apparent  solution  of  continuity,  and
+it  is  the  only  tale  in  the  whole  Shahn&ma  that  is  at  all  familiar  to
+the  English  reader.  It  has  been  translated  into  English  at  least
+twice,  and  has  been  retold  according  to  Western  ideas  by  Matthew
+Arnold,  who  has  also  followed  the  incorrect  account  of  the  episode
+given  in  Sir  John  Malcolm's  'History  of  Persia,'  i.  27,  note,  where
+Tahmina  is  represented  as  having  informed  Rustam  that  she  had
+given  birth  to  a  daughter.  The  improbability  of  the  story  may
+thus  be  lessened  for  the  English  reader,  but  to  the  Oriental  eye  it
+is  the  very  improbability  that  makes  it  so  impressive,  as  being  an
+illustration  of  the  working  out  of  destiny  which  frustrates  the  best
+intentions,  over-rides  all  obstacles,  and  makes  mankind  the  puppets
+of  its  will.  There  is  no  trace  of  this  story  in  Pahlavi  literature  as
+at  present  known  to  us.
+
+§  8.  White  Castle,  known  also  as  Mount  Sipand,1  probably  is
+identical  with  the  Spewtodiita  of  the  Zandavasta 2  and  the  Spendyad
+mountain  of  the  Bundahish.3  It  was  the  scene  of  the  death  of
+
+i  See  vol.  i.  p.  236.  2  DZA,  ii.  289.  3  WPT,  i.  39.
+
+118
+
+
+KAI  KAUS  119
+
+Nariman,  Kustam's  great-grandfather,  of  Rustam's  second  exploit,1
+and  of  the  defeat  and  death  at  the  hands  of  Karau  of  the  Turanian
+hero  Barman,2  who,  it  is  worth  noting,  has  reappeared  as  if  nothing
+had  happened.3  Similarly  Kulbad  reappears.4
+
+We  are  here  introduced  to  a  female  warrior — Gurdafrid — the
+only  one  in  the  poem,  with  the  exception  of  Gurdya,  the  strong-
+minded  and  courageous  sister  of  Bahrain  Chubina.  Gurdya,  how-
+ever, does  not  appear  on  the  scene  till  the  Shahnama  is  near  its
+end.  As  for  Gurdafrid,  she  merely  crosses  Suhrab's  path  for  a
+moment  and  nothing  more  is  heard  of  her.  This  seems  to  show
+that  the  story  of  Suhrab  was,  like  the  rest  of  the  Shahnama,  based
+on  existing  materials.  If  Firdausi  had  invented  the  story  himself
+it  is  almost  inconceivable  that  he  should  not  have  made  more  of
+the  relations  between  Suhrab  and  Gurdafrid.5
+
+
+The  Prelude
+
+The  story  of  Suhrab  and  Rustam  hear :  v
+
+Thou  hast  heard  others ;  let  it  be  thy  part
+To  hear  this  too  :  'tis  fraught  with  many  a  tear,
+
+And  Rustam  will  enrage  thy  gentle  heart.
+Now  if  a  rude  gust  should  arise  and  bear
+
+A  yet  unripened  orange  to  the  dust,
+Shall  I  describe  this  as  unfair  or  fair,
+
+Shall  I  pronounce  it  tyrannous  or  just  ?
+Where  is  the  evil  if  we  all  must  die  ?
+
+Why  clamour  and  appeal  from  what  is  right  ?
+Thy  spirit  wotteth  not  this  mystery ;
+
+Beyond  the  Veil  there  is  no  path  in  sight.
+We  all  must  reach  the  insatiable  door,
+
+The  greedy  door  that  openeth  twice  for  none ;
+Yet  so  a  better  place  may  be  in  store
+
+For  thee,  and  heaven's  eternal  rest  be  won.
+
+1  Vol.  i.  p.  329  seq.  2  Id.  p.  354.  3  §  7,  and  cf.  vol.  i.  p.  48.
+
+4  See  pp.iS,  264,  and  cf.  vol.  i.  p.  361.
+
+5  A  lament  of  Suhrab's  for  the  loss  of  Gurddfrid  is  added  in  C,  but
+the  couplets  are  asterisked  and  V  rejects  them.
+
+
+120  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Unless  death  swallowed  all  men  up  in  turn
+
+Earth  would  be  trampled  down  by  young  and  old ;
+If  fire  in  giving  light  shall  also  burn
+
+The  matter  is  no  marvel  to  behold,
+For  burn  it  will  and  that  as  readily
+
+As  offshoots  issue  from  an  ancient  stem,
+And  whether  young  or  old  the  victims  be
+
+Death's  blast,  like  dread  fire,  hath  no  awe  of  them.
+Should  pleasure  then  a  youthful  mind  engage
+
+Since  years  are  not  the  only  cause  of  death,
+V.  434       Which  is  the  end  alike  of  youth  and  age
+
+Unless  thou  seek  a  passage  in  the  Faith  ?
+While  if  Salvation's  light  be  in  thy  heart
+
+Thy  lot  as  servant  is  to  hold  thy  peace ;
+Be  busied  in  preparing  to  depart,
+
+Let  prayerful  adoration  never  cease.
+In  serving  God  there  is  no  mystery
+
+Unless  the  Div  consorteth  with  thy  soul ;
+Be  fervent  here  below  and  thou  shalt  be
+
+In  perfect  peace  when  thou  hast  reached  thy  goal.
+The  exploits  of  Suhrab  I  next  shall  tell,
+And  how  the  combat  with  his  sire  befell.
+
+
+§2
+
+How  Rustam  went  to  the  Chace
+
+I  tell  what  rustic  bard  and  archimage
+Told  from  the  legends  of  a  bygone  age : —
+One  morn  in  dudgeon  Rustam  rose  to  hunt,
+Girt  him,  filled  up  his  quiver,  mounted  Rakhsh,
+And  hied  him  to  the  marches  of  Turan,
+A  savage  Lion  prowling  after  prey.
+When  he  drew  near  the  marches  and  beheld
+The  plain  well  stocked  with  onager,  he  flushed
+Rose-like  and  smiled,  then  urging  on  his  steed
+
+
+KAI  KAUS  121
+
+He  dropped  much  game  with  arrow,  mace,  and  lasso.
+
+He  lit  a  fire  with  sticks,  dry  grass,  and  thorns,
+
+Chose  out  a  tree  to  serve  him  for  a  spit,
+
+And  set  thereon  a  lusty  onager —  v.  435
+
+A  feather's  weight  to  him  !     He  tore  the  meat,
+
+When  roasted,  from  the  bones  and  sucked  the  marrow,
+
+Drank  of  a  neighbouring  stream  and  wooed  repose,
+
+While  Rakhsh  careered  and  grazed  along  the  mead.
+
+Some  Turkman  horsemen  chanced  upon  the  plain
+And  marked  the  tracks  of  Rakhsh.     These  they  pursued
+Beside  the  stream,  observed  him  in  the  pasture,
+Surrounded  him,  and  with  their  royal  lassos
+Essayed  to  take  him.     Rakhsh  perceiving  this
+Raged  like  a  mighty  lion.     Lashing  out
+He  laid  two  Turkmans  low  and  with  his  teeth
+Tore  off  another's  head.     Thus  three  were  slain,
+And  still  the  head  of  Rakhsh  escaped  the  noose ;
+At  length  the  others  threw  from  every  side
+Their  lassos,  caught  him  round  the  neck  and  took  him,
+Then  walked  him  to  the  city,  all  desirous
+To  have  a  share  in  him.
+
+When  Rustam  woke
+
+From  pleasant  sleep  and  needed  docile  Rakhsh
+He  looked  about  the  mead  but  found  him  not,
+Whereat  in  dudgeon  and  astound  he  hurried
+Toward  Samangan.    "  Now  whither  shall  I  trudge,"
+He  said,  "  to  'scape  my  dark  soul's  shame,  or  how,
+Thus  armed  with  quiver,  mace,  helm,  scimitar,
+And  tiger-skin  cuirass,  shall  I  o'erpass
+
+The  waste  or  make  a  shift  to  deal  with  foes  ?  v.  436
+
+How  will  the  Turkmans  say :    '  Who  stole  his  Rakhsh  ?
+Thus  matchless  Rustam  slept  his  life  away  ! '
+Now  must  I  plod  all  helpless  and  forlorn ;
+Still  let  me  arm,  I  yet  may  trace  him  out."
+
+Thus  with  a  weary,  aching  heart  he  went
+In  evil  case  and  much  discouragement.
+
+
+122  THE   SHAHNAMA    OF  FIRDAUSI
+
+
+How  Rustam  came  to  the  City  of  Samangdn
+
+When  Rustam  drew  near  Samangdn  the  king
+And  nobles  heard :  "  The  Crown-bestower  cometh
+Afoot  for  Rakhsh  escaped  him  in  the  chace."
+
+The  king's  chief  nobles,  who  wore  crowns  themselves,
+Went  forth  to  welcome  Rustam,  and  all  said : —
+"  Can  this  be  Rustam  or  the  rising  sun  ?  "
+
+The  monarch  went  to  him  afoot  attended,
+And  asked :  "  Who  dared  to  meet  thee  in  the  fight  ?
+We  of  this  city  are  thy  friends  and  servants,
+We  and  our  goods  are  both  at  thy  disposal,
+The  heads  and  lives  most  dear  to  us  are  thine."
+
+Then  Rustam,  seeing  that  the  words  were  honest,
+Replied  :  "  In  yonder  meads  my  Rakhsh  while  ranging
+Without  a  rein  or  halter  strayed  from  me,
+And  I  have  traced  him  from  the  river-side
+V.  437       To  Samangan.     If  thou  recoverest  him
+
+My  thanks  are  thine  besides  the  recompense
+Of  one  that  doth  aright ;  should  he  be  lost
+I  will  behead  no  few  among  thy  chiefs."
+
+The  king  made  answer :  "  0  exalted  man !
+None  will  presume  to  thwart  thee.     Come  and  be
+My  guest  and  be  not  wroth ;  all  will  be  well.
+Let  us  refresh  our  hearts  with  wine  to-night
+And  keep  them  free  from  care,  for  wrath  and  passion
+Advantage  not  while  gentleness  will  draw
+The  snake  out  of  its  hole,  and  Rustam's  Rakhsh —
+A  steed  so  known — will  not  continue  hidden.
+We  will  seek  out  thy  Rakhsh  and  bring  him  quickly,
+Thou  doughty  veteran  ! "
+
+Rustam  heard  with  joy,
+And  easy  in  his  mind  agreed  to  pay
+
+
+KAI   KAUS  123
+
+A  visit  to  the  king  who,  greatly  pleased,
+
+Bestowed  him  in  the  palace  and  stood  slave-like
+
+Before  him,  then  invited  from  the  city
+
+And  army  chiefs  to  entertain  with  Rustam,
+
+And  bade  the  cooks  to  spread  the  board.     The  guests
+
+And  minstrels  strove  to  banish  Rustam's  gloom,
+
+While  black-eyed,  rose-cheeked  Idols  of  Taraz
+
+Gave  wine  and  feast  and  music  greater  charm.
+
+At  length  bemused  and  drowsy  Rustam  went
+
+To  where  the  king  had  furnished  for  his  guest
+
+Musk  and  rose-water,  and  a  place  of  rest.
+
+
+§4
+
+How  Tahmina,  the  Daughter  of  tlie  King  of
+Samangdn,  came  to  Rustam
+
+At  noon  of  night,  while  Phosphor  crossed  the  sky,  y.  438
+
+There  came  mysterious  whispers,  Rustam's  door
+
+Was  softly  opened,  and  a  slave  who  bare
+
+A  taper  savouring  of  ambergris
+
+Walked  stately  toward  the  drunken  sleeper's  couch.
+
+Behind  the  slave  there  was  a  moon-faced  girl
+
+Sun-bright,  all  scent  and  hue,  with  arching  eyebrows
+
+And  locks  that  hung  in  tresses  lasso-like,
+
+In  stature  like  a  lofty  cypress-tree,
+
+With  cheeks  carnelians  of  Yaman  in  colour
+
+And  mouth  as  straitened  as  a  lover's  heart.
+
+All  soul  was  she  and  keen  of  intellect,
+
+Thou  wouldst  have  said  :  "  She  is  not  of  the  earth."
+
+The  lion-hearted  Rustam  marvelled  at  her
+
+And  calling  on  the  Maker  asked  :  "  Thy  name  ?
+
+What  seek'st   thou   midst  the  murk  of  night?     Thy
+
+will  ? "
+
+She  said  :  "  Tahmina :  and  thou  well  rnayst  say
+That  mine  affliction  teareth  me  in  twain.
+
+
+124  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Sole  daughter  of  the  king  of  Samangan,
+And  by  descent  half  lion  and  half  pard,
+There  is  no  mate  for  me  among  the  kings,
+Nor  are  there  many  like  me  under  heaven.
+No  one  hath  seen  me  yet  outside  the  bower,
+No  one  hath  ever  heard  me  spoken  of,
+But  many  and  many  a  story  have  I  heard
+Of  thee  from  every  one — just  like  romance  !
+V.  439       How  div  and  lion,  pard  and  crocodile,
+
+Thou  fearest  not,  thou  art  so  deft  of  hand !
+
+How  thou  departest  to  Tiiran  by  night
+
+And  roarnest  there  unsleeping  and  alone,
+
+Dost  roast  an  onager  to  make  a  meal
+
+And  set  air  wailing  with  thy  scimitar !
+
+How  at  the  sight  of  thee  with  mace  in  hand
+
+The  hearts  of  lions  and  the  hides  of  pards
+
+Are  rent !    How  eagles  seeing  thy  naked  sword
+
+Dare  not  to  swoop  upon  their  quarry,  and  how
+
+Great  lions  bear  the  traces  of  thy  lasso,
+
+And  clouds  rain  blood  in  terror  of  thy  spear !
+
+Such  are  the  tales  of  thee  that  I  have  heard  !
+
+Oft  have  I  bit  my  lips  in  wonderment
+
+And  longed  to  see  thy  shoulders,  neck,  and  breast.
+
+God  hath  ordained  thy  sojourn  in  this  city,
+
+And  now  if  thou  wilt  have  me  I  am  thine —
+
+I  who  was  never  seen  by  fowl  or  fish —
+
+Because  for  one  thing  I  adore  thee  so,
+
+Have  sacrificed  my  prudence  to  my  passion,
+
+And  for  another — haply  God  Almighty
+
+May  lay  upon  my  breast  a  child  of  thine.
+
+Oh  !  may  he  be  like  thee  in  might  and  manhood,
+
+And  heaven  assign  to  him  both  Sol  and  Saturn !
+
+Moreover  I  will  bring  back  Rakhsh  to  thee
+
+And  put  all  Samangan  beneath  thy  feet."
+
+The  matchless  Rustam  heard  her  to  the  end.
+He  saw  what  beauty  and  intelligence
+
+
+KAl  KAS  125
+
+Were  hers,  and  that  she  brought  him  news  of  Rakhsh.
+
+Perceiving  that  the  affair  would  turn  out  well
+
+He  bade  an  archimage — a  man  of  worship —
+
+Go  and  demand  the  maiden  from  her  sire.
+
+The  king,  that  noble  Cypress,  was  well  pleased
+
+To  be  affined  to  Rustam,  and  bestowed
+
+Tahmina  on  him  with  the  usual  rites.  v.  440
+
+The  people  all  poured  out  their  souls  with  joy
+
+And  called  down  blessings  on  the  paladin  : —
+
+"  May  this  New  Moon  prove  fortunate  to  thee,
+
+And  be  thy  foes'  heads  plucked  out  by  the  roots."
+
+Night  was  not  longsome  while  his  mate  was  by,
+But  when  the  sun  was  bright  he  longed  to  throw
+The  musky  lasso  off.     He  wore  an  armlet —
+A  famous  one.     That  gave  he  to  Tahmina,
+And  said:  "Keep  this.     If  thou  shalt  bear  a  daughter
+Then  plait  it  in  her  hair,  and  choose  a  time
+Propitious,  and  auspicious  auguries ;
+While  if  the  stars  vouchsafe  to  thee  a  son
+Bind  round  his  arm  this  token  of  his  father.
+He  will  be  like  Sam  son  of  Nariman
+In  stature  and  a  Kariman J  in  manhood
+And  character,  and  bring  down  soaring  eagles.
+The  sun  will  scorch  not  him."
+
+He  passed  the  night
+
+In  converse  with  his  bride,  and  when  the  sun
+Shone  bright,  and  decked  the  earth  with  lovesomeness,    v.  441
+In  taking  leave  he  clasped  her  to  his  breast
+And  showered  kisses  on  her  eyes  and  head,
+But  fair  Tahmina  turned  in  tears  from  him
+To  be  the  spouse  of  pain  and  misery.
+
+The  noble  king  of  Samangan  approached,
+Inquired  of  Rustam  how  the  night  had  sped,
+And,  having  heard,  gave  him  good  news  of  Rakhsh,
+News  that  rejoiced  the  crown-bestower's  heart.
+
+1  The  father  of  Nariman  and  great-great-grandfather  of  Rustam.
+
+
+126  THE   SHAHNAMA    OF  FIRDAUSt
+
+He  came,  caressed  the  steed,  and  saddled  him,
+Pleased  both  with  glossy  Kakhsh  and  with  the  king.
+Then  homeward  to  Zabulistan  he  went,
+But  no  one  heard  him  speak  of  this  event.
+
+§5
+The  Birth  of  Suhrdb
+
+Nine  months  passed  and  a  moon-like  babe  was  born ;
+Thou  wouldst  have  said  :  "  'Tis  elephantine  Rustam,"
+Or  else :  "  Tis  lion-Sam,"  or  "  Nariman,"
+And  since  the  babe  smiled  and  was  bright  of  blee
+Tahmina  gave  to  him  the  name  Suhrab.
+He  looked  a  year  old  in  a  month,  his  chest
+Was  like  his  sire's,  at  three  he  exercised
+In  arms,  at  five  he  had  a  lion-heart,
+At  ten  none  dared  encounter  him  in  fight.
+He  bluntly  asked  his  mother  once :  "  Now  tell  me,
+Since  none  of  my  milk-fellows  can  compare
+With  me,  and  my  head  reacheth  to  the  sky,
+v.  442       Of  what  stock  am  I  and  of  what  descent  ?
+
+What  shall  I  say  when  asked  about  my  father  ?
+Thou  shalt  not  live  unless  thou  answer  me."
+
+His  mother  said :  "Then  listen  and  rejoice,
+But  be  not  rash.     Thou  art  the  son  of  Rustam,
+The  hero  of  the  elephantine  form,
+The  progeny  of  Zal  the  son  of  Sam,
+And  Nariman.     Thy  head  out-toppeth  heaven
+Because  thou  coinest  of  the  famous  stock,
+For  never  since  the  Maker  made  the  world
+Hath  there  appeared  a  cavalier  like  Rustam,
+Nor  one  like  Sam  the  son  of  Nariman,
+Whose  head  the  heaven  itself  dared  not  to  touch."
+
+She  brought  and  showed  a  letter  from  his  sire,
+Three  bright  gems,  and  three  purses  filled  with  gold,
+
+
+KAI  KAUS  127
+
+Sent  to  him  by  his  father  at  his  birth
+
+With  these  words :  "  Guard  these  well,  because  thy  sire
+
+Hath  sent  them  unto  thee,  0  noble  child ! "
+
+His  mother  said  besides :  "  Afrasiyab
+Must  not  know  aught  hereof.     He  is  the  foe
+Of  Rustam  and  the  troubler  of  Turan.
+May  he  ne'er  seek  revenge  upon  thyself
+And  slay  the  son  in  dudgeon  at  the  sire.
+Moreover,  if  thy  father  shall  perceive
+Of  what  a  stamp  thou  art,  so  high  and  proud,
+Then  will  he  summon  thee  and  rend  my  heart."
+
+Suhrab  replied :  "  A  thing  like  this  will  out.  v.  443
+
+Old  chieftains,  warriors  in  the  past,  recount
+His  deeds.     What  right  hadst  thou  to  hide  that  I
+Come  of  such  fighting  stock  ?     Now  will  I  gather
+A  boundless  host  of  Turkman  warriors,
+Drive  from  his  throne  Kaiis,  will  cut  away
+From  Tiis  his  foothold  in  Iran,  and  leave  not
+Gurgin,  Giidarz,  and  Giv,  or  Gustaham
+Son  of  Naudar,  or  warrior  Bahrain,
+But  give  the  treasure,  throne,  and  crown  to  Rustam
+Instead  of  Shah  Kaus ;  then  from  f  ran
+March  forth  to  take  Afrasiyab's  own  seat,
+And  raise  my  spearhead  higher  than  the  sun.
+I  will  do  lion's  deeds  and  make  thee  mistress
+Of  all  f  ran.     Since  Rustam  is  the  sire
+And  I  the  son  none  other  shall  be  king.
+When  sun  and  moon  are  shining  in  the  sky
+Why  should  the  stars  set  up  their  crowns  on  high  ? "
+
+
+§6
+
+How  Suhrdb  chose  his  Charge?-
+
+He  said  moreover :  "  Thou  shalt  see  my  prowess,
+But  I  must  have  a  charger  swift  of  foot
+
+
+128  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+With  hoofs  of  steel  flint-shattering,  in  strength
+v-  444       Like  elephants,  in  flight  like  birds,  in  water
+Like  fish,  and  on  the  land  like  deer,  to  bear
+My  warrior-breast  and  neck,  mine  ax  and  mace  :
+I  must  be  mounted  to  encounter  foes."
+
+His  mother's  head  rose  o'er  the  shining  sun
+At  hearing  this.     She  bade  the  herdsman  bring
+His  herds  of  horses  for  Suhrab  to  choose
+A  charger.     So  they  gathered  to  the  city
+The  herds  that  wandered  over  hill  and  desert,
+And  when  some  large-limbed,  lusty  steed  appeared
+Suhrab  flung  round  its  neck  the  leathern  noose,
+Then  laid  his  hand  upon  the  beast  to  prove  it
+And  made  it  grovel.     Thus  his  might  broke  down
+Full  many  a  noble  steed  ;  he  could  not  find
+One  adequate,  and  grieved.     At  length  a  warrior
+Approached  the  elephantine  youth  and  said : —
+"  I  have  a  colt — one  of  the  breed  of  Rakhsh —
+In  strength  a  lion  and  as  fleet  as  wind.
+He  is  as  'twere  a  valley- treading  mountain
+And  skimmeth  like  a  bird  along  the  waste.
+In  strength  and  swiftness  he  is  like  the  sun  ;
+None  ever  saw  so  fleet  a  roan.     Beneath
+The  stamping  of  his  hoofs  the  Bull-fish  l  quaketh ;
+His  leap  is  like  the  lightning  ;  on  the  mountains
+He  goeth  like  the  raven  ;  on  the  water
+Like  fish  and  water-fowl ;  upon  the  desert
+Like  shaft  from  bow,  pursuing  and  o'ertaking
+The  enemy."
+
+Suhrab  laughed  out  for  joy,
+
+And  when  they  brought  to  him  that  glossy  charger
+v.  445       Both  proved  it  and  approved  it,  coaxed,  caressed,
+Then  saddled  it,  and  mounted.     He  appeared
+Like  Mount  Bistun ;  his  spear  was  pillar-like.
+He  said  :  "  Since  I  have  gotten  such  a  steed
+1  See  vol.  i.  p.  71.
+
+
+KAI  KAUS  129
+
+I  must  ride  forth  at  once  and  turn  the  day
+Of  Kai  Kaiis  to  gloom."
+
+He  made  him  ready
+
+To  fight  the  Iranians,  and  a  host  assembled.
+He  then  approached  his  grandsire,  asking  leave
+To  go,  and  help  in  going :  "  I  am  fain
+To  seek  Iran  and  see  my  glorious  sire."
+
+Thereat  the  king  provided  him  with  arms
+Of  every  kind,  thrones,  diadems,  and  casques,
+Steeds,  camels,  belts,  gold,  gems,  and  Human  jerkins.
+He  marvelled  at  that  youth  of  tender  age
+And  freely  gave  a  royal  equipage.
+
+
+§7
+How  Afrdsiydb  sent  Bdrmdn  and  Humdn  to  Suhrdb
+
+Afrasiyab  had  news  :  "  Suhrab  hath  launched
+
+His  ship,  a  host  hath  gathered  unto  him.
+
+Although  his  mouth  still  savoureth  of  milk
+
+His  mind  is  set  on  shaft  and  scimitar ;
+
+His  sword  will  purge  the  earth,  and  now  he  seeketh
+
+To  fight  Kaiis.     He  feareth  none.     Why  more  ?
+
+His  prowess  hath  shown  higher  than  his  birth."
+
+Now  when  Afrasiyab  had  heard  these  words  V.  446
+
+They  pleasured  him,  he  laughed  and  showed  his  joy.
+Then  from  the  valiant  captains  of  the  host —
+Those  that  were  wielders  of  the  massive  mace —
+He  chose  two  chiefs ;  Human  was  one,  the  other
+Barman ;  no  laggards  they  when  Lions  strove.
+He  gave  to  them  twelve  thousand  valiant  troops,
+And  said  :  "  Be  this  your  secret  policy  :
+The  father  must  not  recognise  his  son
+By  any  ties  of  instinct,  love,  or  race  ;
+So,  when  the  twain  encounter,  in  good  sooth
+The  matchless  Kustam  will  be  put  to  it.
+
+VOL.  II.  I
+
+
+130  THE  SHAHNAMA    OF  FIRDAUSI
+
+It  may  be  that  this  lion-man  will  slay  him.
+Then  will  we  press  Kaus,  seize  on  Iran,
+With  Rustam  gone,  and  settle  with  Suhrab
+Some  night  by  binding  him  in  endless  sleep  ;
+While  should  he  perish  by  his  father's  hand
+That  hero's  heart  will  never  cease  to  burn."
+
+Those  two  shrewd  paladins  went  to  Suhrab,
+Preceded  by  a  present  from  the  king —
+Ten  steeds  caparisoned,  ten  mules  of  burden,
+A  turquoise  throne  with  ivory  steps,  a  crown
+Of  amber  tipped  with  pearls — and  took  a  letter
+Of  adulation  to  the  noble  youth  :—
+"  If  thou  shalt  seize  the  Iranian  throne  the  age
+Y.  447        Will  rest  from  strife.     We  are  not  far  apart ;
+Iran,  Turan,  and  Samangan  are  one.
+I  send  thee  troops  enough,  sit  on  the  throne
+And  don  the  crown.     Tiiran  hath  no  such  leaders
+And  brave  hearts  as  Human  and  as  Barman,
+Whom  I  dispatch  to  thee  as  guests,  to  be
+At  thy  command,  to  fight,  if  thou  wouldst  fight,
+And  make  the  world  strait  to  thine  enemies."
+
+Now  when  Suhrab  was  ware  of  their  approach
+He  girt  his  loins  and  with  his  grandsire  went
+Like  wind  to  meet  Human,  rejoiced  to  see
+Such  troops.     Human  for  his  part  was  amazed
+To  see  the  neck  and  shoulders  of  Suhrab,
+Then  gave  to  him  the  letter  of  the  king,
+The  gifts,  the  horses,  and  the  mules  of  burden,
+And  with  Barman  delivered  the  king's  message.
+Now  when  the  atheling  had  read  the  letter
+He  beat  the  tymbals  and  led  forth  the  host.
+Earth  was  all  troops  and  clamour,  neither  lion
+Nor  crocodile  could  fight  him.     Thus  he  led
+The  host  toward  f ran,  burned  everywhere
+The  cultivated  parts,  and  left  all  bare.
+
+
+KAI   KAUS  131
+
+§8
+
+How  Suhrab  came  to   White  Castle
+
+White  Castle  was  a  stronghold  of  f  ran
+
+And  veteran  Hajir  was  castellan —  y.  44g
+
+A  man  of  might  and  courage,  mace  and  arrow —
+
+For  Gazhdaham  was  failing  though  still  brave
+
+And  venturesome.     His  daughter,1  who  was  proud.
+
+Renowned,  and  malapert,  bore  arms  and  fought
+
+On  horseback.     As  Suhrab  approached,  Hajir
+
+Saw  him  and  mounting  on  his  steed  like  dust
+
+Sped  forth  upon  the  field.     Suhrab  enraged,
+
+And  drawing  forth  the  scimitar  of  fight,
+
+Eushed  from  the  host  as  'twere  a  blast  and  cried  :—
+
+"  0  fool  to  throw  thy  life  away  and  come
+
+Alone  !    Sit  tight  and  firmly  grasp  thy  reins.
+
+What  are  thy  name  and  lineage  ?     She  that  bare
+
+Will  have  to  weep  for  thee."  v  449
+
+Hajir  replied : —
+
+*'  Enough !     I  need  no  help  in  fighting  thee.
+Hajir  am  I,  a  warrior  and  chieftain.
+I  will  take  off  thy  head  to  send  the  Shah
+And  leave  the  vultures  to  consume  thy  body."
+Suhrab  laughed  out  and  charged ;  both  hurled  their
+
+spears
+
+Too  fast  for  eyes  to  follow.     Brave  Suhrab,
+Strong  as  an  elephant,  came  on  like  fire
+Upon  his  moving  mountain  of  a  steed.
+Hajir  thrust  at  his  waist ;  the  spearpoint  glanced.
+Suhrab  the  Lion  drove  the  weapon  back,
+Struck  with  the  butt  his  foe's  waist  lustily,
+And  threw  him  like  a  boulder  to  the  earth,
+As  though  the  matter  were  not  worth  a  thought,
+Astound  in  heart  and  soul.     Suhrab  dismounted,
+
+1  Gurdiifrid.
+
+
+132  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Sat  on  his  foeman's  breast,  and  had  in  mind
+To  cut  his  head  off,  but  Hajir  with  effort
+Turned  on  his  right  side  and  entreated  quarter.
+Suhrab  accorded  it,  well  satisfied,
+Gave  him  some  cautions,  made  him  fast  in  bonds,
+And  sent  him  to  Human.     Those  in  the  hold
+On  hearing  what  had  chanced  cried  mournfully : —
+"  Hajir  is  lost  among  the  enemy  ! "
+
+
+§9
+
+How  Suhrab  fought  with  Gurddfrid
+
+When  she  whose  sire  was  Gazhdaham  had  heard : —
+v.  450       "  The  chief  is  worsted ! "  she  was  grieved,  exclaimed
+In  her  distress,  and  heaved  a  deep  cold  sigh.
+A  woman  like  some  valiant  cavalier
+Was  she  and  ever  famous  in  the  fight.
+Her  name  was  Gurdafrid,  and  none  as  yet
+Had  seen  her  match.     Hajir's  discomfiture
+So  shamed  her  that  her  tulip-cheeks  became
+Like  red  chrysanthemums.1     Time  pressed,  she  armed,
+Concealed  her  tresses  underneath  her  mail,
+Secured  her  Human  casque  upon  her  head,
+And  came  down,  like  a  lion,  from  the  hold
+With  girded  waist  upon  a  wind-foot  steed.
+She  sped  like  dust  and  cried  in  thunder-tones : —
+"  What  are  these  troops  and  who  commandeth  them  ?
+What  lusty  Crocodile  is  there  among  you
+To  match  himself  with  me  in  single  combat  ? "
+
+None  volunteered  until  Suhrab  beheld  her.
+He  bit  his  lips  and  laughed.     "  Again,"  said  "he,
+"  An  onager  hath  come  within  the  toils
+Of  him  that  hath  both  strength  and  scimitar."
+
+He  armed  like  wind,  put  on  a  helm  of  Chin,
+
+1  Khir.     Cf.  WPT,  i.  104.
+
+
+KAI  KAUS  133
+
+And  rushed  out  to  encounter  Gurdafrid,
+
+Who  when  she  saw  him  strung  her  bow  up,  drew  it,
+
+And  broadened  out  her  breast.     No  bird  had  found
+
+A  passage  through  her  shafts ;  she  showered  them
+
+Upon  Suhrab  and  wheeled  to  left  and  right.
+
+He  saw  and  was  abashed,  waxed  wroth  and  charged,
+
+His  shield  above  his  head.     Thus  pressed  she  hung
+
+Her  bow  upon  her  arm  and,  while  her  steed  v.  451
+
+Pranced  to  the  clouds,  couched  at  Suhrab  her  lance,
+
+And  plied  her  reins  with  fury.     He  too  shook
+
+His  reins  and  urged  his  charger  on  like  lightning,
+
+Fierce  as  a  leopard,  at  his  doughty  foe.
+
+He  thrust  a  deadly  dart  with  all  his  strength,
+
+Struck  Gurdafrid  upon  the  belt  and  rent
+
+Her  coat  of  mail,  but  even  as  she  reeled
+
+She  drew  her  sword  and  clave  the  dart  asunder,
+
+Regained  her  seat  and  sent  the  dust-clouds  flying ;
+
+But  liking  not  such  fighting  turned  and  fled.
+
+He  urged  his  dragon-steed,  and  he  too  made
+
+In  wrath  day  dark  with  dust.     He  pressed  upon  her
+
+With  loud  cries,  jostled  her,  and  snatched  her  helm.
+
+Her  hair  escaped,  her  face  shone  like  the  sun.
+
+He  said :  "  It  is  a  girl !     Her  head  of  hair
+
+Is  worthy  of  a  crown.     If  such  a  girl,"
+
+He  said  amazed,  "  come  from  the  Iranian  host
+
+Upon  the  field,  good  sooth  their  cavaliers
+
+Will  send  dust  cloudward  on  the  day  of  battle  ! "
+
+He  loosed  his  coiled  up  lasso  from  the  straps
+And  caught  her  round  the  waist,  then  said  to  her : —
+"  Why  seekest  thou  the  fray,  O  moon-faced  maid  ?
+No  onager  like  thee  hath  ever  come  v.  452
+
+Within  my  toils.     Thou  wilt  not  'scape  my  clutch,
+So  struggle  not."
+
+She  saw  no  other  course,
+So  showed  her  face  and  said :  "  O  warrior,
+Midst  warriors  a  lion !  two  hosts  watch
+
+
+134  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Our  prowess  with  the  mace  and  scimitar,
+
+And  now  that  I  have  shown  my  face  and  hair
+
+The  troops  will  say :  '  He  sent  the  dust-clouds  flymg
+
+And  all  to  fight  a  girl ! '     'Twill  be  disgrace
+
+To  persevere  in  such  a  fight  as  this.
+
+Chiefs  should  be  wise,  so  let  us  keep  it  dark
+
+And  save  thee  from  reproach  on  mine  account.
+
+Our  troops  and  stronghold  are  at  thy  command,
+
+There  is  no  need  to  fight,  the  castle,  treasure,
+
+And  castellan  are  thine  when  thou  shalt  please."
+
+She  showed  her  face,  her  smiles  displayed  the  pearls
+Within  her  jujube-lips,  a  garden  she
+In  Paradise ;  no  villager  e'er  set
+So  tall  a  cypress.     She  had  eyes  like  deer's,
+With    arching    eyebrows,   and    thou   wouldst    have
+
+said : —
+"  She  bloometh  ever."
+
+"  Keep  thy  word,"  said  he,
+"  For  thou  hast  seen  me  on  the  day  of  battle.
+Trust  not  yon  castle-wall,  it  is  not  higher
+Than  heaven,  and  my  mace  will  bring  it  down,
+While  no  foe's  lance  will  ever  reach  my  neck."
+V.  453  She  turned  and  rode  with  him  toward  the  hold,
+
+And  Gazhdaham  himself  came  to  the  gate.
+They  opened  it  and  Gurdafrid  came  in
+Both  bruised  and  bound.     They  shut  it  and  lamented
+For  her  and  for  Hajir.     Then  Gazhdaham
+Approached   with    chiefs    and    troops,   and   said    to
+
+her: —
+
+"'  Brave-hearted  lion-smiter !  we  were  troubled
+On  thine  account.     Thy  fighting  and  address
+Have  not  disgraced  us,  and  no  foe  hath  harmed
+Thy  life,  thank  God!"
+
+Then  laughing  much  she  went
+Upon  the  ramparts  to  observe  the  foe,
+Beheld  Suhrab  still  mounted,  and  exclaimed : —
+
+
+KAI   KAUS  135
+
+"  0  warrior  of  Timin !  why  take  such  pains  ?
+Be  off  with  you  and  give  up  battlefields."
+
+Suhrab  replied :  "  O  fair  of  face  !  I  swear
+By  crown  and  throne  and  sun  and  moon  to  raze
+These  ramparts  to  the  ground  and  capture  thee,
+Thou  minx  !     Thou  wilt  repent  thy  foolish  words
+When  thou  art  writhing  in  thy  helplessness.
+Where  is  thy  promise  ? "
+
+But  she  laughed  and  mocked  him : —
+"  The  Turkmans  win  no  helpmates  from  Iran,
+And  thou  hast  failed  with  me,  but  never  mind !
+Thou  art  no  Turkman  who  art  so  commended
+Among  the  great,  and  with  such  strength  and  limbs
+Art  peerless  midst  the  paladins !     However,
+When  news  shall  reach  the  Shah :  '  A  chief  is  leading      V.  454
+An  army  from  Tiiran,'  he  will  march  forth
+With  Rustam  whom  ye  cannot  stand  against,
+And  all  thy  host  will  perish.     What  mishap
+Will  then  descend  upon  thy  head  I  know  not,
+But  woe  is  me  that  such  a  neck  and  shoulder
+Should  disappear  within  the  maw  of  pards !
+So  do  not  trust  too  much  those  arms  of  thine
+Or  else  the  stupid  ox  will  graze  beside  thee.
+'Twere  best  to  issue  orders  for  retreat."
+
+Suhrab,  who  thought  the  hold  his  own,  was  shamed.
+He  gave  to  pillage  all  the  land  and  crops
+Around  the  walls,  then  for  a  moment  washed
+The  evil  hand,  and  said :  "  Our  time  for  action
+Is  not  to-day ;  our  hands  are  stayed  from  fight.
+At  daybreak  we  will  raise  dust  from  these  walls
+And  carry  war's  alarms  inside  the  place."
+
+With  that  he  turned  about  his  charger's  rein
+And  took  the  way  to  his  own  camp  again.
+
+
+136  THE   SHAHNAMA    OF  FIRDAUSI
+
+§   10
+The  Letter  of  Gazhdaham  to  Kdils
+
+Now  when  Suhrab  had  gone  old  Gazhdaham
+Called  for  a  scribe  to  write  to  Kai  Kaus,
+Then  hurried  off  a  speedy  messenger
+And,  having  praised  the  Shah,  reported  thus  : —
+"  A  mighty  host  of  valiant  warriors
+Attacketh  us,  led  by  a  paladin,
+Whose  years  do  not  exceed  twice  seven  at  most,
+In  stature  taller  than  a  lofty  cypress,
+And  in  his  aspect  like  the  shining  sun.
+His  breast  is  lion-like,  his  mien  is  stately.
+I  have  not  looked  on  such  a  hand  and  mace
+V.  455        Within  Iran.     Whenas  he  brandisheth
+His  Indian  scimitar  it  shameth  him
+To  fight  mere  seas  and  mountains.     Rattling  thunder
+Is  no  match  for  his  voice,  or  for  his  arm
+Our  trenchant  sword.     No  peer  within  Iran
+Or  in  Turan  hath  he.     This  chief  is  named
+Suhrab,  and  feareth  not  div,  elephant,
+Or  lion ;  thou  mayst  say :  '  'Tis  surely  Rustam,
+At  least  some  hero  sprung  from  Nariman ! '
+The  brave  Hajir  rode  out  to  challenge  him,
+But,  as  I  saw,  no  longer  kept  his  seat
+Than  while  a  warrior  might  wink  an  eye,
+Or  scent  go  up  a  nostril  to  the  brain.
+Suhrab  unhorsed  him  to  his  great  amazement.
+He  is  not  hurt,  and  they  have  spared  his  life,
+But  he  is  sorry  and  hath  got  his  skinful
+Of  anguish.     Many  Turkman  cavaliers
+Have  I  beheld,  but  never  heard  of  one
+With  such  a  seat.     God  grant  he  grapple  not
+With  one  of  us  between  the  battle-lines ;
+I  would  have  none,  e'en  though  a  Mount  of  flint,
+
+
+KAI  KAUS  137
+
+
+oet  him  upon  the  plain.     The  earth  would  pity
+That  Mount  if  he  should  charge  it  in  the  fight,
+And  if  the  Shah  shall  stop  to  breathe,  march  forth
+No  host,  and  set  no  ambuscade,  consider
+The  Glory  of  1  ran  as  gone,  the  world
+As  panic-stricken  by  this  warrior's  sword-point.
+Since  he  is  Strength  itself  he  will  despoil  us,
+And  none  can  grapple  with  him  hand  to  hand,
+Or  ever  saw  so  skilled  a  rider.     '  He/  v.  456
+
+Thou  wouldest  say, '  is  Sam  the  cavalier.'
+We  cannot  fight  this  eager  warrior
+With  such  a  mace,  grip,  and  dexterity.
+Know  that  the  fortune  of  our  warriors  noddeth,
+And  that  his  greatness  reacheth  to  the  sky.
+To-night  we  pack  the  baggage  and  withdraw,
+For  if  we  tarry  we  shall  make  no  fight,
+To  say  no  more ;  these  walls  will  not  withstand
+One  at  whose  rush  a  lion  turneth  laggard."
+
+The  letter  sealed  he  called  a  messenger,
+And  said :  "  Be  out  of  sight  of  them  by  dawn,"
+And  having  sent  the  letter  on  its  way
+Prepared  to  follow  it  without  delay.
+
+
+How  Suhrdb  took  White  Castle
+
+Whenas  the  sun  rose  o'er  the  mountain-heights
+The  soldiers  of  Tiiran  girt  up  their  loins,
+And  spear  in  hand  Suhrab  the  chief  bestrode
+His  swift-paced  charger,  purposing  to  capture
+The  garrison  and  bind  them  like  a  flock  ;
+But  having,  roaring  like  a  lion,  forced
+The  gates,  he  saw  no  man  of  name  within,
+For  in  the  night  the  garrison  had  fled
+With  Gazhdaham,  because  beneath  the  hold
+
+
+138  THE   SHAH  NAM  A    OF  FIRDAUSf
+
+There  was  a  way  not  wotted  by  the  foe.
+v.  457        Those  still  inside  concerned  with  the  defence
+
+Or  otherwise  came  to  Suhrab  as  bidden,
+
+And  sought  by  every  means  to  save  their  lives.
+
+He  looked  for  Gurdafrid  but  found  her  not.
+
+His  heart  was  fain  for  love  and  union  with  her.
+
+"  Woe's  me ! "   he   thought,   "  the   bright   Moon  is  be-
+clouded ! "
+v.  458  Kaiis  received  the  letter  and  was  grieved.
+
+He  called  the  captains  of  the  host  to  counsel —
+v.  459       Tiis  and  Gudarz  son  of  Kishwad,  and  Giv,
+
+Gurgin,  Bahrain,  and  brave  Farhad — and  read
+
+Aloud  to  them  the  news  about  Suhrab.
+
+He  said  in  private :  "  This  will  cost  us  time,
+V.  460       And  Gazhdaham  saith  naught  to  comfort  us.
+
+What  shall  we  do,  and  what  will  cure  this  smart  ?
+
+Who  in  Iran  can  fight  him  ? "
+
+All  agreed
+
+That  Giv  should  go  to  Rustam  at  Zabul
+
+To  say :  "  The  throne  of  empire  is  in  danger,"
+
+And  summon  him  to  take  the  field  for  war,
+
+Because  the  Iranians  looked  to  him  for  shelter.
+
+A  scribe  as  they  discussed  was  sitting  by
+
+In  that  the  case  was  one  of  urgency.
+
+
+§    12
+
+How  Kdus  wrote  to  Rustam  and  summoned  him
+from  Zdbulistdn
+
+The  Shah  then  bade  indite  to  famous  Rustam
+A  letter,  and  began  by  praising  him : —
+"  Be  thy  heart  prudent  and  thy  spirit  bright.
+Know  that  a  Turkman  chieftain  with  his  host
+Hath  come  and  is  beleaguering  White  Castle.
+He  is  a  brave,  heroic  paladin,
+
+
+KA1   KAUS  139
+
+In  form  an  elephant,  in  heart  a  lion.
+
+None  in  f  ran  can  fight  him ;  thou  alone,
+
+That  art  so  good  at  need,  canst  dim  his  lustre,
+
+Thou  heart  and  back-bone  of  the  f  ranian  chiefs,
+
+Who  hast  the  claws  and  might  of  lions  !     Thou
+
+Didst  take  the  country  of  Mazandaran,
+
+And  in  Hamavaran  undo  our  bonds.
+
+Sol  weepeth  at  thy  mace,  and  at  thy  sword  Vt  461
+
+Mars  grilleth.     Indigo  is  not  so  dark
+
+As  dust-clouds  raised  by  Rakhsh ;  no  elephant
+
+Can  match  thee  in  the  fight ;  thou  lassoest  lions ;
+
+Thy  spear-point  scatheth  mountains.     In  all  ills
+
+Thou  art  the  shelter  of  Iran.     The  warriors
+
+Through  thee  exalt  their  helms.     A  grievous  matter
+
+Confronteth  us ;  I  ache  to  think  thereof.
+
+The  warriors  in  counsel  read  a  letter
+
+From  Gazhdaham  and  were  agreed  that  Giv
+
+Should  bear  thee  this  account  of  good  and  ill.
+
+Now  when  thou  readest  this  by  day  or  night
+
+Ope  not  thy  lips  for  words,  and  if  thou  have
+
+A  posy  in  thy  hand  stay  not  to  smell  it,
+
+But  act  with  promptitude  and  show  thy  face,
+
+Because  unless  thou  march  forth  from  Zabul
+
+With  wary  horsemen  and  shalt  raise  the  war-cry,
+
+To  judge  by  that  which  Gazhdaham  hath  told
+
+None  will  confront  this  warrior."
+
+This  sealed
+
+The  Shah  gave  swift  as  wind  to  gallant  Giv,
+And  said :  "  Be  instant,  ply  thy  fleet  steed's  rein.
+Whenas  thou  readiest  Rustam  neither  tarry,  Vt  462
+
+Nor  sleep,  within  Zabul ;  if  thou  arrive
+By  night  return  next  day.     Thus  say  to  him  : —
+'  A  war  is  imminent,  and  in  thine  absence
+We  cannot  hold  the  foe  of  small  account.' "
+
+Giv  took  it  and  sped  night  and  day  like  wind,
+No  rest,  no  sleep,  no  water,  and  no  food,
+
+
+I4o  THE   SHAHNAMA    OF  FIRDAUSI
+
+Until  Zal  heard  the  cry :  "  A  cavalier
+Approacheth  from  Iran  as  swift  as  dust."
+
+The  matchless  Rustam  met  him  with  the  troops
+And  nobles  wearing  helmets.     When  they  met,
+Giv  and  the  warriors  great  and  small  dismounted,
+And  Rustam  too  who  asked  news  of  the  Shah,
+And  of  Iran.     They  went  thence  to  his  palace
+To  rest  awhile.     Giv  told  his  errand,  gave
+The  letter,  spake  much  of  Suhrab,  delivered
+His  other  tidings  and  the  presents  sent.
+When  Rustam  heard  and  read  he  laughed  amazed,
+And  said  :   "  A  horseman  hath  appeared  like  Sam !
+Now  from  our  people  this  would  not  be  strange,
+But  from  the  Turkmans  'tis  incredible.
+None  sayeth,  and  I  know  not,  whence  he  is.
+The  daughter  of  the  king  of  Samangan
+Bare  me  a  son  but  he  is  still  a  child.
+The  noble  boy  at  present  wotteth  not
+Of  warfare,  of  attack,  and  self-defence.
+I  sent  his  mother  gold  and  precious  stones
+
+V.  463       In  plenty,  and  the  messenger  brought  answer  :—
+'  The  darling  is  not  growing  very  fast,
+But  quaffeth  wine  with  lips  that  savour  milk.'
+No  doubt  he  will  be  eager  soon  for  war,
+And  then  his  onslaught  will  be  lion-like ;
+He  will  lay  low  the  head  of  many  a  horseman ;
+But  as  for  what  thou  sayest,  0  paladin !
+'  He  came  to  fight  us,  vanquished  brave  Hajir,
+And  bound  him  with  the  lasso  head  and  foot ! '
+The  Lion's  whelp,  though  grown   both   brave  and
+
+doughty,
+
+Could  not  do  that.     Come,  go  we  to  Zal's  palace,
+Rejoicing,  then  consider  plans  and  who
+This  lucky  Turkman  paladin  may  be."
+
+They  sought  the  ancestral  hall  and  stayed  awhile
+
+V.  464       In  unconcern,  then  Giv  again  applied
+
+
+KAI  KAUS  141
+
+To  Rustam,  praising  him  and  saying :    "  Hero,
+And  chief  of  paladins !  may  crown  and  throne
+Be  bright  to  thee  who  art  the  crown's  adornment,
+Thou  favourite  of  fortune  !     Shah  Kails
+Said  thus :  '  Sleep  not  within  Zabulistan.
+If  thou  arrive  by  night  return  next  day,
+For  God  forbid  that  war  should  press  on  us.'
+Now,  0  exalted  and  most  glorious  chief !
+Let  us  depart  in  all  haste  to  f  ran."
+
+But  Rustam  answered  :  "  There  is  naught  to  fear,
+For  everything  will  end  in  dust  at  last.
+Abide  we  here  to-day  in  merriment
+Naught  recking  of  Kaiis  and  of  the  chiefs.
+One  day  will  we  remain  to  breathe  ourselves
+And  put  some  liquor  to  our  thirsty  lips ;
+Thereafter  we  will  hasten  to  the  Shah
+And  show  the  heroes  of  Iran  the  way
+In  case  bright  fortune  be  not  yet  awake.
+At  all  events  the  matter  is  a  trifle,
+The  rising  sea  will  quench  the  fiercest  flame.
+E'en  from  afar  my  flag  will  fray  his  heart
+Amid  a  feast.     How  can  he  be  like  Rustam —
+The  master  of  the  scimitar  and  mace —
+Or  Sam  the  hardy,  brave,  and  circumspect  ?
+He  will  not  prove  so  eager  for  the  fray.
+We  need  not  take  such  matters  seriously."
+
+They  took  the  wine  in  hand  and  grew  bemused
+With  drinking  to  the  monarch  and  to  Zal.
+Next  morning  Rustam  though  crop-sick  made  ready
+To  start,  but  tarrying  through  drunkenness
+Gave  orders  to  the  cooks  to  spread  a  feast.
+The  banquet  done  they  held  a  drinking-bout
+And  called  for  wine  and  harp  and  minstrelsy.
+Next  day  he  held  another  sunny-bright  v.  465
+
+And  on  the  third  day  brought  out  wine  at  dawn,
+Forgetful  of  Kaus.     Upon  the  fourth
+
+
+142  THE   SHAHNAMA    OF  FIRDAUSl
+
+Giv,  ready  to  depart,  said  thus  to  Rustam : —
+
+"  Kaiis  is  rash,  and  hasty ;  to  his  mind
+
+This  is  no  trifle.     He  was  vexed  and  anxious,
+
+And  would  not  eat  or  slumber  or  repose.
+
+By  thus  delaying  in  Zabulistan
+
+We  place  him  in  a  strait ;  he  will  be  wroth
+
+And  in  his  headstrong  humour  seek  revenge."
+
+But  Rustam  answered :  "  Give  it  not  a  thought,
+For  none  will  chafe  at  us."
+
+He  gave  command
+
+To  saddle  Rakhsh  and  blow  the  brazen  trumpets.
+The  horsemen  of  Zabul  came  at  the  call
+In  mail — a  mighty  army.     He  therein
+Installed  Zawara  as  chief  paladin.
+
+
+§  13
+
+How  KAus  was  wroth  with  Rustam
+
+Tiis  and  Gudarz  son  of  Kishwad  met  Rustam
+One  day's  march  from  the  court.     Both  he  and  they
+Alighted  and  saluted  heartily.
+They  reached  the  court  all  loyalty  and  mirth,
+But,  when  they  did  obeisance,  Kai  Kaiis
+V.  466       Made  no  response  but  frowned  on  them  in  anger,
+And  bare  him  like  a  lion  of  the  wood,
+First  stormed  at  Giv,  then  wholly  lost  to  shame
+Proceeded :  "  Who  is  Rustam  that  he  thus
+Should  disobey  me  and  break  fealty  ?
+Had  I  a  sword  I  would  smite  off  his  head
+As  'twere  an  orange.     Seize  him  !     Gibbet  him
+Alive,  and  name  him  not  to  me  again."
+
+Giv's   heart  was  pained ;  he  cried :    "  Wilt  thou  lay
+
+hand
+On  Rustam  thus  ? "
+
+But  upon  this  the  Shah
+
+
+KAI   KAUS  143
+
+Raged  at  them  both,  so  that  all  present  marvelled.
+
+He  bade  Tus :  "  Go  and  hang  them  both  alive,"
+
+Arose  himself,  and  flamed  like  fire  from  reeds,
+
+While  Tiis  drew  near  and  seized  the  hand  of  Rustam,
+
+To  all  the  warriors'  wonder,  purposing
+
+To  lead  him  forth  and  to  beguile  his  wrath  ;
+
+But  Rustam  furious  with  Kaus  replied: —
+
+"  Indulge  not  such  a  fire  within  thy  breast.
+
+Thy  deeds  grow  worse  and  worse !    Thou  art  not  fit
+
+For  sovereignty.     Hang  for  thyself  yon  Turkman
+
+Alive,  then  rage  and  scorn  thine  enemies.
+
+Mazandanin,  Sagsar,  Hainavaran,
+
+Ruin,  Misr,  and  Chin  are  all  my  charger's  thralls,
+
+My  sword  and  arrows  have  transfixed  their  livers.
+
+Thou  livest  but  through  me.     Why  waste  thy  heart         v.  467
+
+In  vengeance  ? "
+
+In  his  wrath  he  struck  the  hand
+Of  Tus,  thou  wouldst  have  said  :  "  An  elephant
+Hath  struck  him  ! "     Tus  fell  headlong  to  the  ground
+While  Rustam  passed  him  by  with  angry  mien,
+Went  out,  and  mounted  Rakhsh  in  wrath,  exclaiming : —
+"  I  conquer  lions  and  distribute  crowns,
+And  who  is  Shah  Kaus  when  I  am  angry,
+Or  Tus  that  he  should  lay  a  hand  on  me  ?
+My  might  and  my  successes  are  from  God,
+Not  from  the  Shah  or  host.     Earth  is  my  slave
+And  Rakhsh  my  throne,  a  mace  my  signet-ring,
+A  helm  my  crown ;  my  mates  are  sparth  and  spearhead?
+My  two  arms  and  my  heart  my  Shah.     I  lighten
+Night  with  my  sword  and  scatter  heads  in  battle.
+Why  doth  he  vex  me  ?     I  am  not  his  slave
+But  God's.     The  warriors  called  me  to  be  Shah,
+But  I  refused  the  throne  of  sovereignty
+And  looked  to  custom,  law,  and  precedent.
+Do  I  deserve  thy  words  ?     Art  thou  my  patron  ?
+Mine  was  the  throne.     I  set  Kubad  thereon.
+
+
+144  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+What  care  I  for  Kaiis,  his  wrath  and  bluster  ?
+If  I  had  not  fetched  Kai  Kubad  myself,
+When  he  had  fallen  into  low  estate,
+And  brought  him  to  Iran  from  Mount  Alburz,
+Thou  hadst  not  belt  or  vengeful  scimitar,
+Or  might  and  majesty  entitling  thee
+To  speak  a  word  to  Zal  the  son  of  Sam."
+v.  46S  He  told  the  Iranians  :  "  Valorous  Suhrab
+
+Will  come  and  leave  not  either  great  or  small ;
+
+So  make  shift,  all  of  you  !  to  save  your  lives,
+
+And  let  discretion  be  your  remedy.
+
+Ye  will  not  see  me  more  within  Iran  :
+
+The  land  is  yours  and  mine  the  vulture's  wing."
+
+He  smote  his  steed  and  left  them  while  his  skin
+Split,  thou  hadst  said,  with  rage.     The  nobles'  hearts
+Were  troubled ;  they  were  sheep,  he  was  their  shepherd.
+"  Here,"  said  they  to  Giidarz,  "is  work  for  thee ;
+Thine  is  the  hand  to  make  the  broken  whole ;
+Thy  words  no  doubt  will  influence  the  Shah.
+Go  then  to  this  insensate,  speak  to  him,
+Ply  him  with  patient  and  persuasive  speech :
+Perchance  thou  mayst  restore  our  fallen  fortune."
+
+Then  all  those  warrior-nobles  sat  in  conclave —
+Giv  and  Gudarz  and  lion-like  Bahrain,
+Ruhham  and  brave  Gurgin.     They  said :  "  The  Shah
+Regardeth  not  the  feelings  of  the  great.
+Since  Rustam,  who  is  chief  of  paladins,
+First  saved  Kaus  none  else  hath  succoured  him
+In  all  his  straits  and  dangers.     When  the  divs
+Bound  in  Mazandaran  the  Shah  and  us
+What  toil  and  hardship  Rustam  underwent
+On  his  account,  and  rent  the  fierce  divs'  reins,
+Then  set  the  Shah  upon  the  throne  and  summoned
+The  mighty  men  to  do  him  reverence  !
+Another  time  too  when  our  sovereign's  feet
+Wore  heavy  fetters  in  Hamavaran
+
+
+KAI  KAUS  145
+
+What  monarchs  Rustam  slaughtered  for  his  sake
+
+And  never  turned  away  but  brought  Kiius
+
+Home  to  his  throne,  and  did  obeisance  to  him !
+
+If  Rustam's  recompense  must  be  to  hang  v.  469
+
+Then  we  must  flee  just  when  at  such  a  crisis
+
+We  should  take  action."
+
+Thereupon  Gudarz
+
+Made  haste  to  go  before  the  Shah  and  said
+Thus :  "  What  hath  Rustam  done  that  thou  shouldst
+
+send
+
+The  dust  up  from  Iran  to-day  ?     Art  thou
+Forgetful  of  Hamavaran,  forgetful
+Of  what  the  divs  did  in  Mazandaran,
+That  thou  sayst :  '  Put  him  living  on  the  gibbet  ? '
+Vain  words  become  not  Shahs.     When  he  hath  gone,
+And  that  great  host  and  wolf- like  paladin
+Have  come,  whom  hast  thou  left  to  take  the  field
+And  strew  the  dark  dust  o'er  him  ?     Gazhdaham
+By  sight  or  hearsay  knoweth  all  thy  warriors,
+Yet  saith :  '  Ne'er  let  a  cavalier  propose
+To  fight  Suhrab.     Small  wisdom  'twere  for  any,
+Though  brave  as  Rustam,  to  encounter  him.'
+Kings  should  be  wise,  for  haste  and  wrath  avail  not."
+
+The  Shah,  perceiving  that  Gudarz  spake  justly,
+Repented  of  his  folly  and  replied : —
+"  Thy  rede  is  right ;  the  old  give  best  advice.
+Now  go  to  Rustam,  treat  him  courteously,  v    »0
+
+Induce  him  to  forget  my  hastiness,
+Assure  him  that  my  favour  is  restored,
+And  bring  him  hither  to  illume  my  soul."
+
+Gudarz  went  after  Rustam  with  all  speed,
+Attended  by  the  leaders  of  the  host.
+They  gathered  round  him  and  saluted  saying : —
+"  Live  happy  evermore,  be  all  the  world
+Beneath  thy  feet,  and  mayst  thou  sit  for  ever
+Upon  the  throne.     Thou  knowest  that  Kaiis
+
+VOL.  n.  K
+
+
+146  THE   SHAHNAMA    OF  FIRDA  USI
+
+Is  brainless  and  no  picker  of  his  words
+
+When  angered,  but  regretteth  them  anon,
+
+And  groweth  reconciled  through  sheer  good  nature.
+
+If  Rustam.  be  aggrieved  against  the  Shah
+
+The  Iranians  have  done  naught  to  drive  him  hence
+
+And  hide  his  glorious  face.     The  Shah  moreover
+
+Is  sorry  for  those  words  of  his  and  gnaweth
+
+His  hand's  back  in  chagrin."
+
+The  hero  said : —
+
+"  I  need  not  anything  of  Kai  Kaus.
+A  saddle  is  my  throne,  a  casque  my  crown,
+My  mail  my  raiment  and  my  purpose  death.
+What  is  Kaus  to  me  ?     A  pinch  of  dust.
+Why  should  I  fear  or  tremble  at  his  wrath  ?
+Do  I  deserve  such  unbecoming  words
+From  one  that  I  released  from  bonds  and  led
+To  crown  and  throne  ?     Once  in  Mazandaran
+I  fought  against  the  divs,  and  once  I  fought
+The  monarch  of  Hamavanin  and  freed
+Kaiis  in  his  foe's  grip  from  bonds  and  woe.
+v.  471        Now  I  have  had  enough ;  my  heart  is  full ;
+I  fear  but  holy  God."
+
+As  soon  as  Rustam
+
+Had  had  his  fill  of  speech  Giidarz  rejoined : —
+"  The  Shah  and  famous  warriors  suspect
+That  thou  art  frightened  at  this  Turkman  chief.
+They  say  in  private :  *  Gazhdaham  was  right,
+Our  fields  and  fells  will  know  us  now  no  more,
+For  sithens  Rustam  is  afraid  of  fighting
+'Tis  not  for  thee  and  me  to  tarry  here.'
+I  noticed  that  the  Shah's  ill  will  and  wrath
+Made  hue  and  cry  at  court,  and  all  men  spake
+About  the  brave  Suhrab.     Eclipse  not  thou
+Thy  high  fame  in  the  world  by  this  withdrawal,
+And  further,  since  a  hostile  host  is  near,
+Dim  not  this  crown  and  throne  so  wantonly,
+
+
+KAI   KAUS  147
+
+For  we  have  been  insulted  by  Turan,
+
+And  none  whose  Faith  is  pure  approveth  that."
+
+The  matchless  hero  all  amazed  replied  : —
+"  I  would  not  live  a  coward,  I  would  tear
+My  soul  out  first.     I  flee,  as  well  thou  knowest,
+Because  the  monarch  scorned  me,  not  from  fight."
+
+He  shrank  from  that  reproach,  retraced  his  steps,
+And  came  to  Shah  Kaiis,  who  seeing  him
+Arose  and  thus  excused  what  had  occurred : —
+"  My  temper  is  by  nature  choleric,
+And  trees  must  grow  as  God  hath  planted  them.
+Through  this  new,  unexpected  foe  my  heart
+Was  faint  as  a  new  moon.     I  sought  a  cure
+And  sent  for  thee.     Thy  tarrying  made  me  wroth,  y  472
+
+But  having  wronged  thee,  elephantine  chief !
+I  sorrowed  and  my  mouth  was  filled  with  dust."
+
+Then  Eustam  answered  him :  "  The  world  is  thine.
+We  are  thy  subjects,  thine  is  to  command.
+I  am  a  liege,  if  worthy  of  the  name,
+Before  thy  gate  to  do  thy  will.     Thou  art
+The  Shah,  the  lord  of  earth ;  I  am  thy  slave."
+
+Kaus  replied :  "  0  paladin !  be  bright
+Of  mind  for  evermore.     To-day  we  hold
+A  banquet  and  to-morrow  think  of  battle."
+
+He  had  a  royal  pleasure-house  made  ready  ;
+Its  hall  was  like  a  garden  in  the  spring.
+They  called  the  chiefs  and  scattered  gems  for  joy.
+Half  through  the  night  they  revelled  and  their  talk
+Was  of  the  doings  of  the  mighty  men.
+They  drank   till  hearts   and   eyes   were   dazed   with
+
+wine,
+
+And  all  became  bemused,  returning  home
+While  tedious  night  was  traversing  the  dome.
+
+
+148  THE   SHAHNAMA    OF  FIRDAUSI
+
+
+How  Kdus  and  Rustam  led  forth  the  Host
+
+When  Sol  had  pierced  night's  pitch-hued  cloak  and
+
+come
+
+v.  473       Forth  from  the  veil  Kaus  bade  Giv  and  Tiis
+To  bind  the  drums  upon  the  elephants.
+He  oped  the  treasury-door,  gave  out  supplies,
+Then  called  to  horse  and  loaded  up  the  baggage.
+A  hundred  thousand  cavaliers  in  mail
+Went  into  camp,  and  as  the  army  marched
+Heaven  darkened  with  the  chargers'  dust.     The  tents
+And  tent-enclosures  stretched  two  miles,  and  earth
+Was  clad  with  elephants  and  horses'  shoes  ;
+The  sky  grew  dark  as  indigo,  earth  turned
+To  ebony,  the  drum-roll  shook  the  plain.
+The  army  marched,  the  sun's  bright  visage  gloomed,
+And  double-pointed  javelin  and  dart
+Flashed  like  a  flame  through  dust  as  through  a  veil.
+What  with  the  spears  and  flags  of  divers  fashion,
+The  golden  bucklers  and  the  golden  boots,
+Thou  wouldst  have  said  :  "  There  came  an  ebon  cloud
+Which  showered  sandarac."     The  world  discerned  not
+Between  the  night  and  day,  and  thou  hadst  said
+That  neither  sky  nor  Pleiades  existed.
+Thus  marched  the  army,  hiding  soil  and  rock,
+Until  it  neared  the  portal  of  the  stronghold.
+
+An  outcry  from  the  lookout  warned  Suhrab  :  —
+"  A  host  hath  come."     He  mounted  to  the  walls
+To  view  it  and  then  showed  it  to  Human,
+Who,  when  he  saw  so  great  a  multitude
+Approaching,  was  afraid  and  held  his  breath.
+Suhrab  the  hero  said  :  "  Relieve  thy  heart
+Of  care,  thou  wilt  not  see  in  this  vast  host
+A  single  warrior  or  massive  mace
+
+
+KAI  KAUS  149
+
+Meet  me  upon  the  field  though  sun  and  moon
+Be  on  their  side.     The  men  and  arms  abound,
+Yet  know  I  nothing  of  the  leaders'  names !
+Now  by  the  fortune  of  Afrasiyab
+Will  I  make  all  the  desert  like  a  sea."
+
+Descending,  light  of  heart  and  unconcerned,
+He  joined  the  revels  of  the  revellers,
+And  recked  not  of  the  war.
+
+The  Iranians
+
+Set  up  the  camp-enclosure  of  the  Shah
+Before  the  castle  on  the  open  plain ;
+Men,  tentage,  and  enclosures  covered  hill
+And  wilderness  till  naught  was  left  to  fill.
+
+
+§15
+How  Rustam  slew  Zhanda  Razm
+
+At  sunset,  when  night's  skirt  trailed  o'er  the  day,
+Came  Rustam  girded  and  intent  on  war
+Before  the  Shah,  and  said  :  "  Let  me  go  forth
+Without  my  belt  and  helmet.     I  will  mark
+Who  this  new  worldlord  is,  who  are  the  chiefs,
+And  who  is  in  command."
+
+Kaiis  replied : —
+
+"  The  very  work  for  thee,  and  mayst  thou  prosper
+Both  soul  and  body.     God  watch  o'er  thee  ever,
+And  o'er  thy  heart's  desire  and  loyal  purpose."
+
+Assuming  Turkman  garb  he  reached  by  stealth
+The  hold  and  heard  the  Turkmans'  shouts  and  clamour.
+The  gallant  hero  made  his  way  inside,
+As  'twere  a  lion  after  antelopes,
+And  saw  and  marked  the  chieftains  one  and  all,
+Joy  mantling  in  his  visage  like  a  rose.
+
+Now  when  Suhrab  was  going  to  the  wars
+His  mother  summoned  to  he*  Zhanda  Razm,  V.  475
+
+
+ISO  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+For  once  lie  had  seen  Rustam  at  a  feast.
+His  father  was  the  king  of  Samangan,
+His  nephew  glorious  Suhrab.     She  said  : —
+"  O  ardent  warrior !  be  this  youth's  comrade
+That  when  the  hero  cometh  to  Iran
+And  meeteth  with  the  monarch  of  the  brave,
+And  when  the  hosts  encounter  in  the  fight,
+Thou  mayest  show  my  darling  son  his  father."
+
+Now  as  Suhrab  appeared  to  Rustain's  eyes
+Enthroned  amid  the  feast  with  Zhanda  Razm
+On  one  hand,  with  the  valiant  cavalier
+Human  and  that  illustrious  Lion  Barman
+Upon  the  other,  thou  hadst  said  that  he
+Filled  all  the  throne  and  seemed  a  verdant  cypress.
+His  arms  were  like  a  camel's  thighs,  his  breast
+Was  like  a  lion's  and  his  visage  ruddy.
+A  hundred  valiant  warriors  sat  round,
+All  young,  illustrious,  and  lion-like,
+While  fifty  slaves  with  bracelets  on  their  arms
+Before  the  heart-delighting  lofty  throne
+Invoked  by  turns  a  blessing  on  his  mien,
+His  stature,  sword,  and  signet-ring.     As  Rustam
+Crouched  at  a  distance  watching,  Zhanda  Razm
+Went  out  for  some  occasion  that  he  had,
+Perceived  a  warrior  like  a  lofty  cypress,
+To  whom  there  was  no  peer  among  the  troops,
+And  seizing  on  him  roughly  questioned  him
+With  sharpness,  saying :  "  Who  art  thou  ?     Speak  out !
+Come  to  the  light  and  let  me  see  thy  face."
+
+A  sudden  buffet  from  the  fist  of  Rustam
+Fell  on  his  neck ;  he  yielded  up  the  ghost.
+There  Zhanda  Razm  lay — a  corpse ;  for  him
+The  clay  of  fighting  and  of  feast  was  over.
+
+Suhrab  continued  long  in  expectation,
+But  Zhanda  Razm  the  Lion  came  not  back.
+At  length  the  youth  began  ,o  ask  for  him
+
+
+KAI   KAUS  151
+
+Because  his  room  was  empty.     Some  went  out,
+
+Beheld  him  vilely  overthrown,  at  peace  v.  476
+
+From  banquet  and  from  battle,  and  returned
+
+With  clamour,  and  with  sorrow  in  their  hearts.
+
+They  told  Suhrab  that  Zhanda  Razm  was  dead.
+
+The  youth  sprang  up  and  went  to  him  like  smoke,
+
+Accompanied  by  servants,  lights,  and  minstrels,
+
+Beheld  him  lying  dead  and  stood  astound,
+
+Then  called  his  gallant  warriors  and  said : —
+
+"  Ye  men  of  wisdom  and  ye  valiant  chiefs !
+
+Ye  must  not  rest  to-night  but  whet  your  spears,
+
+Because  a  wolf  hath  come  among  the  flock
+
+And  found  the  dogs  and  shepherds  off  their  guard.
+
+Among  the  mighty  he  hath  seized  one  ram
+
+And  cast  him  thus  in  scorn,  but  with  God's  help,
+
+When  my  bay  trampleth  earth,  I  will  unstrap
+
+My  lasso  in  revenge  for  Zhanda  Razm."
+
+He  took  his  seat  again  and  called  the  nobles.
+"  Though  Zhanda  Razm's  place  beside  my  throne
+Is  void,"  he  said,  "  I  have  not  done  with  feasting."
+
+As  Rustam  was  returning  to  the  Shah,
+Giv,  who  was  outpost-guard,  saw  him  approach,
+Drew,  roared  out  like  a  maddened  elephant,
+And  with  his  shield  above  his  head  showed  fight ;
+But  Rustam  knowing  who  the  outpost  was
+Laughed  and  returned  the  shout,  whereat  the  guard,       v.  477
+Who  knew  his  voice,  advanced  afoot  and  said  : —
+"  Where  hast  thou  been  afoot  and  in  the  dark,
+Thou  battle-loving  chieftain  ? "
+
+Rustam  told
+
+His  enterprise  and  what  a  lion-man
+He  had  destroyed,  while  Giv  applauded,  saying : —
+"  May  charger,  mace,  and  saddle  ne'er  lack  thee."
+
+Then  Rustam  going  to  the  Shah  informed  him
+About  the  Turkmans  and  their  banqueting,
+About  Suhrab,  his  stature  and  his  mien,
+
+
+152  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+His  arms  and  shoulders,  chest  and  feet,  and  said : —
+"  This  is  no  Turkman  born  ;  he  is  as  tall
+And  upright  as  a  cypress,  with  no  peer
+In  either  land ;  in  short  'tis  Sain  himself."
+
+Then  of  the  blow  on  Zhanda  Razm's  neck
+He  said :  "  He  came  not  back  to  feast  or  fight."
+
+They  talked  and  after  called  for  harp  and  wine,
+But  all  the  night  the  troops  were  ranked  in  line.
+
+
+§  16
+How  Suhrdb  asked  Hajir  the  Names  of  the  Chiefs  of  trdn
+
+Now  when  the  sun  held  up  its  golden  shield
+Fate  also  raised  its  head  upon  the  sky.
+Suhrab  put  on  his  battle-mail  and  mounted
+Upon  a  charger  dark  as  indigo.
+An  Indian  sword  was  slung  across  his  breast,
+And  on  his  head  he  wore  a  royal  helmet,
+While  from  his  saddle-straps  his  lasso  hung
+In  sixty  coils.     His  face  was  stern.     He  came
+And  choosing  out  an  eminence  surveyed
+The  army  of  Iran,  bade  call  Hajir,
+And  said  to  him :  "  An  arrow  should  be  straight,
+v.  478       In  every  matter  act  with  honesty
+
+If  thou  wouldst  'scape  mishap.     Now  answer  truly,
+
+Pervert  not  counsel  nor  prevaricate.
+
+Wouldst  thou  be  free  and  well  esteemed  by  others  ?
+
+Then  tell  me  what  I  ask  about  Iran,
+
+And  swerve  no  tittle  from  the  path  of  truth.
+
+I  will  bestow  on  thee  abundant  treasure,
+
+But  if  thou  liest  bonds  and  pit  are  thine."
+
+Hajir  replied :  "  Whate'er  the  prince  shall  ask
+I  will  reply  according  to  my  knowledge.
+Why  should  I  speak  to  thee  deceitfully  ?
+Thou  shalt  be  witness  to  mine  honest  dealing :
+
+
+KAI  KAUS  153
+
+I  will  not  even  think  a  guileful  thought.
+The  best  trade  in  the  world  is  honesty,
+The  worst  thought  guile."
+
+Suhrab  said :  "  I  shall  ask
+At  large  about  the  chiefs,  the  Shah,  the  folk,
+And  all  the  great  men  of  the  land  as  Giv,
+Tus,  and  Gudarz.     Whatever  I  shall  ask
+About  Bahrain,  famed  Rustam,  and  the  rest,
+Make  answer  to  me  as  I  question  thee.
+Yon  inany-hued  enclosure  of  brocade
+Encircling  tents  of  leopard-skin ;  before  it
+A  hundred  mighty  elephants  are  tethered ;
+There  is  a  turquoise  throne  blue  as  the  Nile,
+A  flag  charged  with  a  yellow  sun,  the  staff
+Crowned  with  a  golden  moon,  the  case  of  purple.
+Who  is  the  man  thus  stationed  in  the  centre  ? "
+
+Hajir  replied :  "  The  Shah,  and  at  his  gate  v.  479
+
+Are  elephants  and  lions."
+
+"  On  the  right,"
+
+Suhrab  said,  "  there  are  many  cavaliers
+With  elephants  and  baggage.     The  enclosure
+Is  black,  and  round  it  troops  are  standing  ranked
+With  tents  past  count ;  before  it  there  are  lions,
+Behind  it  elephants,  while  in  the  front
+There  is  a  flag  charged  with  an  elephant,
+And  cavaliers  in  golden  boots  stand  by."
+
+Hajir  replied :  "  'Tis  Tus  son  of  Naudar :
+His  standard  hath  an  elephant-device."
+
+Suhrab  went  on :  "  That  red  enclosure  there,
+Where  many  cavaliers  are  standing  round,
+The  standard  purple,  the  device  a  lion,
+And  in  the  centre  there  are  sparkling  jewels.
+Behind  it  is  a  multitude  of  troops,
+Who  all  bear  lances  and  are  clad  in  mail.
+Who  is  he  ?     Let  me  know  the  chieftain's  name,
+And  bring  not  ruin  on  thyself  by  guile."
+
+
+154  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+He  answered  :  "  That  belongeth  to  Gudarz —
+The  glory  of  the  Free — son  of  Kishwad,
+A  valiant  general  in  war.     He  hath
+Twice  forty  sons,  all  Elephants  and  Lions.
+No  elephant,  no  tiger  of  the  plain,
+No  mountain-pard,  would  strive  with  him  in  fight."
+
+Suhrab  went  on :  "  As  to  yon  green  enclosure
+In  front  whereof  are  stationed  many  troops,
+While  in  the  midst  a  splendid  throne  is  set
+With  Kawa's  flag  before  it.     On  the  throne
+A  paladin  is  seated,  one  that  hath
+The  Grace,  the  neck,  and  shoulders  of  a  hero,
+And  seated  thus  is  higher  by  a  head
+Than  any  of  the  people  standing  near.
+v.  480       Before  him  is  a  charger  just  his  match
+In  height ;  a  lasso  droopeth  to  its  hoofs.
+Whene'er  the  charger  snorteth  thou  wouldst  say: —
+'  It  is  the  raging  sea  ! '     In  front  of  him
+Are  many  elephants  in  mail,  and  he
+Is  restless.     I  behold  not  in  Iran
+One  of  his  height  or  such  another  charger.
+There  is  a  dragon,  look  !  upon  his  standard,
+And  on  the  staff-top  is  a  golden  lion."
+
+Hajir  thought :  "  If  I  tell  this  lion-man
+The  bearings  of  the  elephantine  hero,
+Forthwith  he  will  send  up  the  dust  from  Rustarn.
+'Tis  best  to  keep  him  dark  and  name  him  not."
+He  answered  :  "  An  ally  of  ours  from  Chin
+Hath  lately  joined  the  Shah."
+
+Suhrab  inquired
+
+His  name.     Hajir  replied  :  "  I  know  it  not,
+For  I  was  in  this  castle  at  the  time."
+
+Suhrab  was  grieved  to  find  no  trace  of  Rustam,
+And  though  his  mother  had  described  the  bearings
+He  would  not  credit  his  own  eyes.     Again
+He  pressed  Hajir  to  tell  and  soothe  his  heart,
+
+
+KAI  KAUS  155
+
+But  o'er  his  head  was  written  otherwise —
+
+A  sentence  never  minished  or  enhanced.
+
+Suhrab  next  asked  him :  "  Who  among  the  chiefs  v.  481
+
+Pitched  that  enclosure  which  is  most  apart,
+
+Where  many  cavaliers  and  elephants
+
+Are  standing  and  the  clarions  are  sounding  ?
+
+Above  it  is  a  flag  charged  with  a  wolf ;
+
+The  golden  staff-head  reacheth  to  the  clouds ;
+
+Within  there  is  a  throne  with  slaves  before  it."
+
+He  answered  :  "  That  is  Giv  son  of  Gudarz,
+He  whom  the  chieftains  call '  the  gallant  Giv,'
+The  best  and  greatest  of  the  family,
+And  captain  o'er  the  more  part  of  the  host.
+He  is  the  noble  son-in-law  of  Kustam,
+And  equalled  but  by  few  within  1  ran."
+
+Suhrab  continued :  "  Where  the  shining  sun
+Is  rising  I  perceive  a  white  enclosure
+All  of  brocade  of  Human  make.     Before  it
+More  than  a  thousand  cavaliers  are  ranged ;
+The  footmen  armed  with  double-headed  spears
+And  bucklers  there  make  up  a  boundless  host.
+Their  leader  sitteth  on  an  ivory  throne
+Upon  a  seat  of  teak.     The  tent-enclosure
+Is  of  brocade,  and  many  slaves  stand  ranked."
+
+Hajir  replied  :  "  'Tis  youthful  Fariburz,
+Son  of  the  Shah  and  crown  of  warriors."
+
+Suhrab  said :  "  It  is  fitting,  since  he  is
+The  Shah's  son  and  possessor  of  a  crown."
+
+He  asked  :  "  Whose  is  that  yellow  tent-enclosure
+In  front  whereof  a  banner  fluttereth
+With  others  yellow,  red,  and  violet  round  it  ?
+The  charge  upon  the  hindmost  is  a  boar,
+And  on  the  lofty  staff  a  silvern  moon."
+
+"  His  name,"  Hajir  made  answer,  "  is  Guraza,  Vt  4g2
+
+Who  draweth  not  the  rein  in  fights  with  lions —
+A  prudent  man  descended  from  Givgan,
+
+
+156  THE   SHAHNAMA    OF  FIRDAUSI
+
+Who  never  murmureth  at  pain  or  hardship."
+
+Suhrab  thus  sought  for  traces  of  his  father :
+Hajir  was  reticent  and  hid  the  truth.
+
+The  Almighty  hath  disposed  the  world.     Wilt  thou
+Dispose  it  ?     Hath  He  ceased  to  superintend  ?
+
+A  fate  not  of  thy  choice  is  written  now,
+And  what  He  causeth  will  be  in  the  end.
+
+If  thou  affectionest  this  Wayside  Inn
+
+'Twill  yield  thee  poison,  travail,  and  chagrin.
+The  noble  hero  asked  Hajir  again
+About  that  one  whom  he  so  longed  to  see,
+About  that  green  enclosure  and  tall  steed,
+About  that  warrior  and  the  twisted  lasso.
+At  last  Hajir  said  :  "  I  must  keep  back  naught.
+If  I  tell  not  the  name  of  him  of  Chin
+It  is  because  I  know  it  not  myself."
+
+Suhrab  replied  :  "  Thou  doest  much  amiss,
+Thou  hast  not  mentioned  Rustam,  and  that  chief
+Of  paladins  would  show  amid  the  host.
+Thou  saidst :  '  He  is  the  champion,  he  that  guardeth
+All  provinces  and  marches.'     When  Kaus
+Is  warring,  with  a  mighty  elephant
+To  bear  his  crown  and  throne,  the  paladin
+Should  lead  his  van  what  time  the  war-cry  riseth."
+
+Hajir  replied :  "  The  lion-taking  hero
+Must  be  at  present  in  Zabulistan,
+For  'tis  the  time  to  feast  among  the  roses."
+
+Suhrab  rejoined :  "  Now  answer  this — the  Shah
+Is  bent  on  war  and,  while  helmed  chieftains  gather
+To  give  him  aid,  the  paladin  in  chief
+Is  merry-making  !    Young  and  old  would  laugh
+At  such  a  tale.     We  made  a  pact  to-day,
+And  though  I  love  not  words  I  will  repeat  it : —
+v.  483       If  thou  wilt  point  me  out  the  paladin
+Thy  head  shall  be  exalted  everywhere ;
+I  will  unlock  the  secret  treasuries
+
+
+KAI   KAUS  157
+
+And  leave  thee  not  a  want,  but  if  thou  keepest
+This  secret  from  me,  making  mystery
+Where  there  is  none,  I  will  cut  off  thy  head.
+Consider  now  which  course  thou  wilt  adopt.
+Know'st  not  the  saying  of  the  archimage
+When  speaking  of  some  matter  to  the  king  ?
+'  A  word  spoken  is  a  jewel  still
+
+Uncut,  still  kept  in  bonds ;  but,  once  set  free
+From  bondage  and  disablement,  may  fill
+
+The  bezel — priceless,  glittering  brilliantly.'  "
+Hajir  responded :  "  When  my  lord  the  prince
+Is  weary  of  his  signet,  crown,  and  state,
+Then  let  him  seek  a  warrior  in  the  world
+Who  overthroweth  mighty  elephants,
+And  with  his  anvil-breaking  mace-head  robbeth
+Two  hundred  of  existence  at  a  blow ;
+For  Rustam  when  opposed  to  any  one
+Will  bring  his  head  down  from  the  sky  to  dust.
+No  elephant  on  earth  is  match  for  him,
+His  steed's  dust  is  more  black  than  indigo,
+His  body  hath  a  hundred  strong  men's  strength,
+His  head  is  taller  than  a  lofty  tree,
+And  when  he  rageth  on  the  day  of  battle
+What  is  a  lion,  elephant,  or  man
+Within  his  grasp  ?  "
+
+High-born  Suhrab  replied  : —
+"  Giidarz  son  of  Kishwad  hath  evil  luck
+In  that  for  all  his  puissance,  wit,  and  prowess
+He  hath  to  call  thee  son.    Where  hast  thou  looked
+On  men  of  war  or  heard  their  chargers'  tramp
+That  thou  describest  Rustam  in  such  terms
+And  utterest  his  praise  continually  ?
+Thou  fearest  fire  because  the  stream  is  calm,
+But  when  it  is  in  flood  the  fuming  fire
+Will  soon  be  quenched,  and  when  the  sun  shall  draw
+Its  blazing  sword  night's  head  will  go  to  sleep."
+
+
+158  THE   SHAHNAMA    OF  FIRDAUSI
+
+Hajir  unwitting  thought :  "  If  I  declare
+The  lion-taker's  bearings  and  inform
+This  Turkman  with  such  hand  and  neck  and  seat,
+He  will  arouse  his  warriors  to  fight
+And  urge  along  his  elephantine  steed.
+He  hath  such  strength  and  such  a  neck  and  shoulder
+That  Rustam  will  be  slaughtered  in  his  grasp.
+Not  one  of  all  our  warriors  will  come
+To  meet  him  face  to  face,  and  he  will  seize
+The  throne  of  Shah  Kaiis.     An  archinage  said : —
+'  It  is  a  better  thing  with  fame  to  go
+From  life  than  live  and  gratify  the  foe.'
+If  it  be  mine  to  perish  by  his  hand
+Day  will  not  darken  nor  stream  turn  to  blood.
+Three  score  and  sixteen  sons — all  lion-men —
+Hath  old  Giidarz  beside  myself,  as  Giv,
+Who  conquereth  worlds  and  breaketh  hosts,  and  is
+In  every  place  the  leader  of  the  folk,
+Bahram,  Ruhham  the  exalted,  and  Shidush
+The  lion-slaying  warrior,  and  they  all
+Will  show  me  kindness  after  I  am  dead,
+And  in  revenge  will  slay  our  enemies ;
+V.  485       But  when  Giidarz  and  all  his  seventy  sons
+Beloved — illustrious  men  and  warriors —
+Cease  from  Iran  let  me  too  be  no  more.
+I  mind  a  holy  archimage's  words  : —
+'  When  cypress-roots  appear  the  pheasant  well
+May  hesitate  at  common  grass  to  smell.'  "
+
+Then  said  he  to  Suhrab  :  "  Why  so  much  heat  ?
+Thy  questioning  to  me  is  all  of  Rustam.
+Why  must  thou  pick  a  quarrel  with  me  thus
+By  asking  foolish  questions  ?     Just  because
+I  cannot  give  thee  an  account  of  him
+Wilt  thou  behead  me  ?     Thou  need'st  no  excuse
+For  shedding  blood ;  show  thy  true  colours  then.
+Thou  wilt  not  crush  the  elephantine  chief,
+
+
+KAI  KAUS  159
+
+
+get  him  easily  within  thy  clutches.
+Refrain  from  seeking  him  in  fight,  for  he
+Will  surely  make  the  dust  fly  out  of  thee."
+
+
+§  17
+
+How  SuJirdb  attacked  the  Army  of  Kims
+
+Suhrab  the  chief  of  warriors,  when  he  heard
+These  harsh  words,  turned  his  back  upon  Hajir,
+And  hid  his  face  without  reply,  astounded
+At  that  dark  utterance  ;  then  from  saddleback
+He  fiercely  struck  Hajir  a  blow  back-handed,
+Felled  him,  and  went  his  way,  mused  much  and  long,
+And  made  his  preparations  for  the  fight.
+He  girt  him  with  the  girdle  of  revenge,
+Took  from  his  princely  head  the  golden  crown,
+Put  on  his  mail  and  breastplate  joyfully,
+And  set  a  Riiman  helmet  on  his  head.
+That  paladin,  that  binder  of  the  Div,
+Took  spear,  bow,  lasso,  and  his  massive  mace,
+The  blood  was  boiling  in  his  veins  with  ardour.
+He  mounted  on  his  rapid  steed,  sent  up
+
+The  battle-cry,  and  spear  in  hand  rushed  out  v.  486
+
+Like  some  mad  elephant  upon  the  field.
+He   came   forth  bent   on   fight,  he   made   the   dust-
+clouds
+
+Fly  to  the  moon,  then  charged  the  Shah's  enclosure
+And  made  it  totter  with  his  spear,  while  all
+The  valiant  chieftains  fled  like  onagers
+Before  a  lion's  claws ;  not  one  had  courage
+To  face  such  foot  and  stirrup,  hand  and  rein,
+Such  arm  and  flashing  spear.     They  met  and  said  :
+"  Here  is  an  elephantine  hero  for  you —
+One  that  we  cannot  look  on  unappalled  !
+Who  is  there  bold  enough  to  challenge  him  ? "
+
+
+160  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Anon  Suhnib  the  warrior  raised  his  voice,
+Assailing  Shah  Kaus  with  scornful  words,
+And  thus  he  said  :  "  O  monarch  of  the  Free  !
+What  business  hast  thou  on  the  battlefield  ?
+Why  dost  thou  bear  the  name  of  Kai  Kaus
+Who  canst  not  stand  where  Lions  fight  together  ?
+I  wield  my  spear  and  all  thy  troops  are  cowed.
+Upon  the  night  that  Zhanda  Razm  was  slain
+I  swore  a  mighty  oath  while  at  the  feast : —
+'  I  will  not  leave  a  spearman  of  Iran,
+And  I  will  hang  Kaus  upon  the  gibbet
+Alive.'     What  mighty  man  hast  thou  to  meet  me  ? "
+v.  487  He  spake  and  waited  long  in  silence.     None
+
+Made  answer  from  f  ran.     Then  bending  down
+He  forced  out  seventy  tent-pegs  with  his  spear,
+The  tent-enclosure  tumbled  to  the  ground,
+And  everywhere  the  blast  of  clarions  sounded.
+Shah  Kai  Kaiis  exclaimed  in  his  dismay  : —
+"  O  men  of  noble  name  and  glorious  race !
+Let  some  one  take  the  news  to  Rustam,  saying  : —
+'  Our  warriors'  wits  are  ousted  by  this  Turkman.
+I  have  no  cavalier  to  fight  with  him ;
+None  of  Iran  is  bold  enough  to  go.' "
+
+Tus  bore  the  message  and  told  Rustam  all,
+Who  thus  made  answer :  "  Every  other  Shah,
+That  called  me  suddenly,  called  me  at  times
+To  feast,  at  times  to  fight,  but  with  Kaus
+I  ne'er  see  aught  excepting  fight  and  travail ! "
+
+Then  gazing  from  his  tent  he  found  that  Giv,
+Who  had  but  just  arrived,  was  saddling  Rakhsh,
+And  that  Gurgin  was  crying :  "  Quick !  Make  haste !
+Ruhham  was  fastening  the  girth  and  mace,
+And  Tus  had  got  in  hand  the  horse's  mail.
+Each  one  was  crying  to  another  :  "  Quick ! "
+The  matchless  hero  heard  it  from  his  tent
+And  thought :  "  This  must  be  Ahriman's  own  fight !
+
+
+KAI   KAUS  161
+
+So  great  a  hubbub  is  not  made  for  one."
+
+He  put  on  his  cuirass  of  tiger-skin,
+Then  girt  a  royal  girdle  round  his  loins,
+And  mounting  Rakhsh  set  forth.     He  left  Zawara
+In  charge  of  throne  and  troops,  enjoining  him  : —
+"  Advance  not  and  take  no  commands  save  mine."
+
+They  bore  his  standard  with  him  as  he  went
+Intent  on  fight  and  angry.     When  he  saw
+The  limbs  and  shoulders  of  Suhrab,  his  breast
+As  broad  as  that  of  valiant  Sam,  he  said  : —
+"  Go  we  aside  to  some  fit  spot  for  battle."  y.  4gg
+
+Suhrab  began  to  rub  his  hands,  he  turned
+Back  from  the  Iranian  lines,  and  said  to  Kustam  : —
+"  Come  then ;  we  mighty  men  require  no  help ;
+The  fight  between  us  will  suffice,  and  yet
+The  field  of  battle  is  no  place  for  thee  ;
+Thou  canst  not  bear  one  buffet  from  my  fist.
+Great  stature  hast  thou,  mighty  limbs  and  neck,
+But  they  are  weak  with  age."
+
+Then  Rustam,  gazing
+
+Upon  that  haughty  one  with  such  long  stirrups,
+And  such  a  hand  and  shoulder,  answered  mildly : —
+"  Fair  youth  !  the  earth  is  hard  and  cold,  the  air
+Is  soft  and  warm.     Old  arn  I,  but  have  seen
+Full  many  a  stricken  field,  and  many  a  div
+Hath  perished  by  my  hand,  yet  saw  I  never
+Myself  o'ercome.     Wait  till  we  fight  together  ;
+If  thou  survivest  fear  no  crocodile.
+Both  seas  and  mountains  have  beheld  how  I
+Have  striven  with  the  famed  chiefs  of  Tiiran
+In  fight :  the  stars  bear  witness  to  my  deeds.
+My  might  hath  laid  the  world  beneath  my  feet,
+And  now  my  heart  doth  yearn  in  ruth  for  thee ;
+I  would  not  take  thy  life.     Thou  wilt  not  leave
+Behind  a  Turkman  with  such  neck  and  shoulders.
+I  know  no  peer  to  thee  e'en  in  Iran."
+
+VOL.  11.  L
+
+
+1 62  THE   SHAH  NAM  A    OF  FIRDAUS1
+
+When  Rustam  spake  Suhrab's  heart  throbbed.     He
+
+answered : —
+
+"  One  question  will  I  put.     Vouchsafe  to  tell  me
+v.  489       The  truth.     Inform  me  of  thy  parentage,
+And  make  me  happy  by  thy  fair  reply.
+I  think  that  thou  art  Rustam,  that  thou  art
+Sprung  from  the  noble  race  of  Nariman."
+
+The  other  answered  him :  "  I  am  not  Rustam,
+Not  sprung  from  Sam  the  son  of  Nariman,
+For  Rustam  is  a  paladin,  while  I
+Am  mean,  not  having  throne  and  state  and  crown."
+
+Suhrab  despaired,  he  had  had  hope  before,
+The  face  of  day  was  bright  to  him  no  more.
+
+
+§  18
+
+How  Rustam  fought  with  Suhrdb
+
+Suhrab,  still  musing  on  his  mother's  words,
+Went  spear  in  hand.     They  chose  a  battle-ground    0
+Where  room  was  scant,  and  fought  with  javelins
+Till  points  and  whipping  broke;    next,  wheeling  left-
+ward,
+
+Closed  with  their  Indian  scimitars  and  showered
+Sparks  from  their  blades,  which  shivered  'neath  such
+
+strokes
+
+As  might  have  heralded  the  Day  of  Doom ;
+Then  took  their  massive  maces  and  fought  on
+Until  their  weapons  bent  beneath  the  blows.
+The  chargers  staggered  and  their  bards  dropped  off;
+The  riders  raged  beneath  their  shivered  mail ;
+Both  were  fordone  and  hand  and  arm  both  failed.
+With  bodies  running  sweat,  with  mouths  dust-choked.
+And  tongues  thirst-cracked,  at  length  the  champions
+
+parted,
+The  sire  in  anguish  and  the  son  exhausted.
+
+
+KAI   KAUS  163
+
+O  world  !  thy  doings  are  a  mystery,
+The  broken  and  the  whole  both  come  from  thee !
+Love  stirred  in  neither  of  these  twain,  no  trace
+Of  wisdom  was  there,  love  showed  not  its  face  !
+The  fish  in  streams,  wild  asses  on  the  plain,
+And  beasts  of  burden  know  their  young  again,
+But  toil  and  lust  forbid  a  man  to  know
+The  difference  between  a  child  and  foe !
+
+Then  Kustam  thought :  "  I  never  yet  beheld  V.  490
+
+A  Crocodile  fight  thus.     Compared  with  this
+To  fight  the  White  Div  wras  an  easy  task :
+To-day  my  heart  despaireth  through  a  man  !
+The  hand  of  one  who  is  unpractised  yet,
+No  warrior  and  not  named  among  the  chiefs,
+Hath  made  me  weary  of  my  life  in  sight
+Of  both  the  hosts  ! "
+
+The  chargers  being  rested,
+The  youthful  hero  and  the  man  in  years
+Strung  up  their  bows,  but  still  the  coats  of  mail,
+The  breastplates,  and  the  tiger-skin  cuirass
+Received  no  injury  from  the  arrow-points,
+And  then  each  hero,  raging  at  his  foe,
+Seized  on  the  other  by  the  leathern  belt.
+Now  Rustam,  had  he  clutched  a  rock  in  battle,
+E'en  the  Black  Stone  itself,1  had  torn  it  out,
+But  when  he  seized  the  belt  and  would  unhorse
+Suhrab,  the  young  man's  waist  felt  not  the  tug,
+And  Rustam's  hand  was  foiled.     He  quitted  hold,
+He  marvelled  at  the  prowess  of  his  foe,
+And  then  these  lion-quellers,  satiate
+With  battle,  bruised,  and  wounded  drew  apart.
+Suhrab  again  took  from  his  saddle-bow
+The  massive  mace,  and  gripping  with  his  legs
+Smote  Rustam  grievously  upon  the  shoulder,
+Who  though  he  winced  yet  bravely  bare  the  pain.
+
+1  A  meteorite  built  into  the  wall  of  the  Kaaba  at  Mecca.
+
+
+1 64  THE   SHAHNAMA    OF  FIRDAUSI
+
+Suhrab  laughed  out  and  cried  :  "  0  cavalier  !
+Thou  canst  not  bear  the  buffets  of  the  brave.
+Thy  charger,  one  would  say,  is  but  an  ass ;
+As  for  the  rider  both  his  hands  are  naught.
+
+V.  491       A  warrior  though  cypress- tall  is  foolish
+
+To  play  the  youth  when  he  is  in  his  dotage."
+Each  humbled  by  the  other  turned  away.
+They  parted,  troubled  both  in  heart  and  mind.
+Like  leopard  sighting  prey  the  mighty  Rustam
+Went  to  attack  the  army  of  Tiiran,
+While  brave  Suhrab  assailed  the  Iranian  host
+And  gave  his  fleet  steed  rein.     He  charged  the  foe
+And  many  a  warrior  perished  by  his  hand.
+Wolf-like  he  scattered  small  and  great.     The  heart
+Of  Rustam  boded  ill.     "  Kaus  will  suffer,"
+He  thought,  "from  this  brave  Turkman  just  arrived
+With  mail-clad  breast  and  arms."
+
+He  hasted  back
+
+To  camp  with  anxious  heart.     There  mid  the  host
+He  saw  Suhrab — a  lion  mad  for  prey —
+The  ground  about  him  tulip-hued  with  blood,
+His  spearpoint,  hands,  and  mail  all  drenched  with  gore.
+Then  Rustam  raging  like  a  furious  lion
+Exclaimed  :  "  Bloodthirsty  Turkman  !  who  of  all
+This  host  opposed  thee  ?    Why  hast  thou  not  kept
+Thy  hands  for  me  instead  of  coming  thus
+Like  wolf  among  a  flock  ? "
+
+Suhrab  replied : —
+
+"  The  army  of  Tiiran  is  holding  back
+From  strife,  and  doing  nothing  to  provoke  it,
+
+v.  492       Yet  thou  began'st  it  by  assailing  them
+
+When  none  sought  battle  and  revenge  on  thee  ! "
+"  Light  faileth,"  Rustam  said.     "  On  its  return
+A  throne  and  gibbet  wait  us  on  this  plain,
+For  all  the  bright  world  yieldeth  to  the  sword,
+And  if  thine  arms  are  so  familiar
+
+
+KAI  KAUS  165
+
+With  scimitar  and  arrow  never  die !
+
+Come  we  with  vengeful  swords  at  break  of  day
+
+To  learn  the  Maker's  will,  but  now  away ! "
+
+
+§  19
+How  JRustam  and  Suhrab  returned  to  Camp
+
+They  parted  and  the  air's  face  gloomed.     Suhrab
+Amazed  the  circling  sphere.    Thou  wouldst  have  said : —
+"  Heaven  fashioned  him  of  Avar  ;  he  ceaseth  not
+A  moment  from  the  fray ;  his  form  is  brazen,
+His  charger  iron,  and  his  spirit  wondrous."
+
+Suhrab  when  night  fell  joined  his  troops.    His  loins
+Were  galled  with  battle  but  his  breast  was  iron.
+Thus  spake  he  to  Human :  "  This  day  the  sun
+Arose  and  filled  the  world  with  war  and  strife.
+How  fared  ye  with  this  gallant  cavalier
+Who  hath  a  hero's  heart  and  lion's  claws  ?
+What  did  he  say  and  do  ?     He  proved  my  match  !
+How  fared  my  troops  with  him  ?     I  hold  him  peerless,
+Though  old  a  Lion  bent  on  war  and  strife."
+
+Human  replied :  "  Thou  bad'st  us  tarry  here.  V.  493
+
+Just  as  we  had  made  ready  for  the  field
+A  warrior  came  and  challenged  us  to  combat,
+Confronting  all  this  mighty  armament.
+Thou  wouldst  have  said  :  '  He  cometh  fresh  from  wine
+To  venture  all  alone  on  such  a  struggle.'
+He  raised  the  dust  of  war  on  every  side
+And  slaughtered  many  warriors  of  our  camp,
+Then  turning  round  departed  at  full  speed."
+
+Suhrab  said :  "  He  hath  slain  no  man  of  mark
+While  I  have  slaughtered  many  Iranians,
+And  puddled  with  their  blood  the  ground  to  clay,
+While  ye  looked  on.     However,  none  opposed  me  ;
+'Twas  well  none  did,  for  had  a  lion  come
+
+
+1 66  THE   SHAHNAMA    OF  FIRDAUSI
+
+He  would  not  have  escaped  my  massive  mace.
+
+What  is  a  tiger,  pard,  or  mighty  lion
+
+Confronting  me  who  with  rny  spear  point  bring
+
+Fire  from  the  clouds  ?     When  warriors  behold
+
+My  visage  in  its  wrath  their  mail  is  shivered.
+
+To-morrow  morning  ere  it  is  high  day
+
+It  will  be  seen  which  is  the  better  man,
+
+And  by  the  Maker's  name — the  only  God —
+
+I  will  not  leave  a  foe  alive.     Now  spread  we
+
+The  board  with  meat  and  wine,  and  cheer  our  hearts."
+
+When  Kustam  reached  the  host  he  questioned  Giv : —
+"  What  did  Suhrab  the  daring  warrior  ? "
+V.  494  Giv  answered :  "  We  ne'er  saw  one  fight  like  him.
+
+He  rode  up  to  our  centre  spear  in  hand,
+And  raging ;  there  he  challenged  Tiis,  who  wolf-like
+Came  forth  and  mounted.     When  Suhrab  beheld  him
+Advancing  with  his  lance  he  roared  as  'twere
+A  lion  in  its  rage,  and  with  bent  mace
+Struck  Tus  upon  the  breast  a  mighty  blow
+That  made  his  helm  fall  off.     Tiis  turned  and  fled.
+Then  many  others  fought  but  none  prevailed,
+For  only  Rustam  can  contend  with  him.
+I  kept  the  good  old  rule  of  one  to  one.
+When  no  more  single  challengers  went  forth
+We  let  him  have  the  field  all  to  himself,
+Whereat  he  left  the  centre  for  the  right
+And  flourished  in  his  glory  here  and  there."
+
+Now  Rustam  sorrowed  at  the  words  of  Giv
+And  went  to  Shah  Kaiis,  who  seated  him
+Upon  the  throne.     Then  Rustam  told  the  Shah
+About  Suhrab,  his  stature,  and  his  mien : —
+"  None  ever  saw  one  of  his  tender  years
+So  brave  and  lion-like.     In  height  he  reacheth
+The  stars ;  the  earth  can  not  support  his  bulk ;
+His  arms  and  thighs  are  camel-like  and  larger.
+With  sword  and  shaft,  with  lasso  and  with  mace,
+
+
+KAI   KAUS  167
+
+We  proved  each  other  lustily  in  all  ways
+
+Until  at  last  I  said :  '  Ere  now  have  I
+
+Plucked  from  the  saddle  many  a  warrior/
+
+And  laying  hold  upon  his  leathern  belt
+
+I  put  the  buckle  to  a  mighty  strain,
+
+And  fancied :  '  I  shall  raise  him  from  his  saddle
+
+And  hurl  him  like  the  rest  to  dust.'     But  though
+
+The  mountain-tops  were  rocking  in  the  blast  Vg  495
+
+That  chieftain  would  not  rock  upon  his  seat,
+
+And  so  I  quitted  him,  for  it  was  late,
+
+The  night  was  very  dark,  there  was  no  moon ;
+
+But  we  intend  to  meet  again  to-morrow
+
+To  wrestle.     All  I  can  I  will,  but  know  not
+
+Which  will  prevail.     Still  we  shall  learn  God's  purpose,
+
+For  victory  and  conquest  are  from  Him
+
+Who  is  the  Maker  of  the  sun  and  moon."
+
+Then  Kai  Kaiis  replied :  "  God  rend  our  foes
+In  pieces !     I  will  pray  to  Him  to-night
+For  victory  o'er  this  vile,  malignant  Turkman,
+Pray  that  thy  withered  hopes  may  spring  afresh,
+And  that  thy  fame  may  reach  the  sun."
+
+Then  Rustam  : —
+"  Thy  Grace  will  speed  thy  liege's  whole  desire."
+
+He  went  depressed  and  vengeful  to  his  camp.
+To  him  Zawara  came  with  downcast  soul,
+And  said :  "  How  fared  the  paladin  to-day  ? "
+But  Rustam  first  would  eat,  then  washed  his  heart
+Of  care  and  charged  his  brother,  saying  thus : —
+"  Be  vigilant  and  cautious.     When  I  go
+At  dawn  to  fight  that  Turkman  warrior
+Lead  out  mine  army  and  bring  forth  my  flag,
+My  throne,  and  golden  boots,  and  be  before  V.  496
+
+My  tent  when  bright  Sol  riseth.     If  I  prove
+Victorious  in  the  fight  I  shall  not  loiter
+Upon  the  battlefield,  while  if  the  matter
+Have  other  ending  make  no  lamentation
+
+
+1 68  THE  SHAHNAMA    OF  FIRDAUS1
+
+And  be  not  downcast.     Let  not  any  of  you
+
+Go  on  the  field  or  prosecute  the  war,
+
+But  go  hence  to  Zabulistan  to  Zal,
+
+Console  my  mother  for  my  God-sent  fate,
+
+And  say  to  her :  '  Set  not  thy  heart  upon  me,
+
+And  be  not  always  mourning  for  my  death.
+
+No  one  abideth  in  this  world  for  ever,
+
+Heaven  had  no  pretext  left  to  spare  me  longer.
+
+I  have  slain  lions,  pards,  divs,  crocodiles
+
+Enough,  and  razed  full  many  a  wall  and  stronghold,
+
+While  no  man  had  the  upper  hand  of  me,
+
+Though  he  that  mounteth  on  his  steed  and  chargeth
+
+Is  simply  knocking  at  the  door  of  death.
+
+What  though  a  man  outlive  a  thousand  years
+
+j
+
+One  road  and  one  event  are  for  us  all.
+Bethink  thee  of  Jamshid  the  exalted  Shah,
+And  Tahmuras  the  Binder  of  the  Div.
+There  was  no  monarch  like  them  here  below,
+And  yet  at  last  God  took  them.     As  the  earth
+Remained  not  theirs  I  too  must  pass  away.'
+When  she  hath  been  consoled  thus  say  to  Zal : —
+'  Abandon  not  the  monarch  of  the  world,
+Fight  for  him  valiantly  and  do  his  bidding.
+497        We  all,  both  young  and  old,  are  doomed  to  die  ;
+No  one  abideth  in  this  world  for  ever.'"
+
+They  rested  after  half  the  night  had  gone
+In  talk  about  Suhrab  and  him  alone.
+
+
+§  20
+How  SuJirdb  overthrew  Rustam
+
+The  bright  sun  shone,  the  raven  night  flew  low,
+Great  Rustam  donned  his  tiger-skin  cuirass
+And  mounted  on  his  fiery  dragon-steed.
+Two  leagues  divided  host  from  host,  and  all
+Stood  ready-armed.     The  hero  with  a  casque
+
+
+KAI  KAUS  169
+
+Of  iron  on  his  head  came  on  the  field.
+
+Suhrab  on  his  side  revelling  with  comrades
+
+Had  thus  addressed  Human :  "  That  lion-man,
+
+Who  striveth  with  me,  is  as  tall  as  I  am
+
+And  hath  a  dauntless  heart.     He  favoureth  me
+
+In  shoulder,  breast,  and  arm,  and  thou  wouldst  say
+
+That  some  skilled  workman  laid  us  out  by  line.
+
+His  very  feet  and  stirrups  move  my  love
+
+And  make  me  blush,  for  I  perceive  in  him
+
+The  marks  whereof  my  mother  spake.     Moreover
+
+My  heart  presageth  that  he  must  be  Rustam,
+
+For  few  resemble  him.     I  may  not  challenge
+
+My  sire  or  lightly  meet  him  in  the  combat."
+
+Human  said  :  "  Rustam  oft  hath  countered  me  :  v.  498
+
+This  charger  is  like  his,  except  in  action."
+
+At  sunrise,  when  they  woke,  Suhrab  arrayed
+Himself  in  mail  and  mirthful  though  resolved
+Set  forward  shouting,  ox-head  mace  in  hand.
+He  greeted  Rustam  smiling,  thou  hadst  said
+That  they  had  passed  the  night  in  company  :—
+"  How  went  the  night  ?     How  is't  with  thee  to-day  ?
+Why  so  intent  on  strife  ?     Fling  down  thine  arrows
+And  scimitar,  and  drop  the  hand  of  wrong.
+Let  us  dismount  and,  sitting,  clear  our  faces
+With  wine,  and,  leaguing  in  God's  sight,  repent
+Our  former  strife.     Until  some  other  cometh
+To  battle  feast  with  me  because  I  love  thee,
+And  weep  for  shamefastness.     In  sooth  thou  comest
+From  heroes  and  wilt  tell  me  of  thy  stock,
+For  as  my  foe  thou  shouldst  not  hide  thy  name.
+Art  thou  the  famous  Rustam  of  Zabul,
+The  son  of  valiant  Zal  the  son  of  Sam  ? "
+
+Then  Rustam :  "  Young  aspirant !  heretofore
+We  talked  not  thus  but  spake  last  night  of  wrestling.
+I  am  not  to  be  gulled,  attempt  it  not.
+Though  thou  art  young  I  am  no  child  myself,  y.  499
+
+
+170  THE   SH  AH  NAM  A    OF  FIRDAUSI
+
+But  girt  to  wrestle,  and  the  end  shall  be
+According  to  the  will  of  Providence.
+I  have  known  ups  and  downs,  and  am  not  one
+To  practise  guile  upon."
+
+Suhrab  replied : —
+
+"Old  man !  if  thou  rejectest  my  proposals  .  .  . !
+I  wished  that  thou  shouldst  die  upon  thy  bed,
+And  that  thy  kin  should  tomb  thy  soulless  corpse,
+But  I  will  end  thee  if  it  be  God's  will."
+
+They  lighted,  tied  their  chargers  to  a  rock,
+And  cautiously  advanced  in  mail  and  casque
+With  troubled  hearts.     They  wrestled  like  two  lions
+Until  their  bodies  ran  with  sweat  and  blood.
+From  sunrise  till  the  shadows  grew  they  strove
+Until  Suhrab,  that  maddened  Elephant,
+Keached  out,  up-leaping  with  a  lion's  spring,
+Caught  Eustam's  girdle,  tugged  amain  as  though,
+Thou  wouldst  have  said,  to  rend  the  earth,  and  shouting
+With  rage  and  vengeance  hurled  him  to  the  ground,
+Raised  him  aloft  and,  having  dashed  him  down,
+Sat  on  his  breast  with  visage,  hand,  and  mouth
+Besmirched  with  dust,  as  when  a  lion  felleth
+An  onager,  then  drew  a  bright  steel  dagger
+V.  500       To  cut  off  Rustam's  head,  who  seeing  this
+Exclaimed :  "  Explain  I  must !     O  warrior
+That  takest  Lions  captive  and  art  skilled
+With  lasso,  mace,  and  scimitar  !  the  customs
+And  laws  of  arms  with  us  are  not  as  yours.
+In  wrestling  none  may  take  a  foeman's  head
+The  first  time  that  his  back  is  on  the  ground,
+But  having  thrown  him  twice  and  won  the  name
+Of  Lion  then  he  may  behead  the  foe  :
+Such  is  our  custom."
+
+Thus  he  sought  to  'scape
+The  Dragon's  clutches  and  get  off  with  life.
+The  brave  youth  hearkened  to  the  old  man's  words.
+
+
+KAl   KAUS  171
+
+In  part  through  confidence,  in  part  through  fate,
+In  part  no  doubt  through  magnanimity,
+Suhrab  let  Rustam  go,  turned  toward  the  plain,
+Pursued  an  antelope  that  crossed  his  path,
+And  utterly  forgot  his  recent  foe.
+When  he  was  far  away  Human  came  up
+As  swift  as  dust  and  asked  about  the  fight.
+He  told  Human  what  had  been  said  and  done,
+Who  cried :  "  Alas  !  young  man  !  art  thou  indeed
+So  weary  of  thy  life  ?     Woe  for  thy  breast,
+Mien,  stature,  stirrups,  and  heroic  feet !
+The  mighty  Lion  whom  thou  hadst  ensnared
+Thou  hast  let  go  and  all  is  still  to  do.
+Mark  how  he  will  entreat  thee  on  the  day
+Of  battle  owing  to  thy  senseless  act.
+A  king  *  once  spake  a  proverb  to  the  point : —
+'  Despise  not  any  foe  however  weak.' "
+
+He  took  the  very  life  out  of  Suhrab,
+Who  standing  sorrowing  and  amazed  replied : —
+"  Let  us  dismiss  such  fancies  from  our  hearts,
+For  he  will  come  to  fight  with  me  to-morrow,  v.  501
+
+And  thou  shalt  see  a  yoke  upon  his  neck."
+
+He  went  to  camp  in  dudgeon  at  his  deed.
+When  Rustam  had  escaped  his  foeman's  clutch
+He  was  again  as  'twere  a  mount  of  steel.
+He  went  toward  a  rivulet  as  .one
+Who  having  fainted  is  himself  again.
+He  drank  and  bathed,  then  prayed  to  God  for  strength
+And  victory,  not  knowing  what  the  sun
+And  moon  decreed,  or  how  the  turning  sky
+Would  rob  him  of  the  Crown  upon  his  head.
+
+The  tale  is  told  that  Rustam  had  at  first
+Such  strength  bestowed  by  Him  who  giveth  all
+That  if  he  walked  upon  a  rock  his  feet
+Would  sink  therein.     Such  puissance  as  that
+
+1  Zahhak.     See  vol.  i.  p.  154.
+
+
+172  THE   SHAHNAMA    OF  FIRDAUSI
+
+Proved  an  abiding  trouble,  and  he  prayed
+
+To  God  in  bitterness  of  soul  to  minish
+
+His  strength  that  he  might  walk  like  other  men.
+
+According  to  his  prayer  his  mountain-strength
+
+Had  shrunk,  but  face  to  face  with  such  a  task,
+
+And  pierced  by  apprehension  of  Suhrab,
+
+He  cried  to  God  and  said :  "  Almighty  Lord  !
+
+Protect  Thy  slave  in  his  extremity.
+
+0  holy  Fosterer !  I  ask  again
+
+My  former  strength."
+
+God  granted  him  his  prayer,
+
+The  strength  which  once  had  waned  now  waxed  in  him.
+He  went  back  to  the  field  perturbed  and  pale
+While,  like  a  maddened  elephant,  Suhrab,
+With  lasso  on  his  arm  and  bow  in  hand,
+v.  502        Came  in  his  pride  and  roaring  like  a  lion,
+His  plunging  charger  flinging  up  the  soil.
+When  Rustam  saw  the  bearing  of  his  foe
+He  was  astound  and  gazing  earnestly
+Weighed  in  his  mind  the  chances  of  the  fight.
+Suhrab,  puffed  up  with  youthful  arrogance,
+On  seeing  Rustam  in  his  strength  and  Grace,
+Cried  :  "  Thou  that  didst  escape  the  Lion's  claws  !
+Why  com'st  thou  boldly  to  confront  me  ?     Speak !
+Hast  thou  no  interests  of  thine  own  to  seek  ? "
+
+
+§21
+
+How  Suhrab  was  slain  by  Rustam
+
+They  tied  their  steeds  while  fate  malignantly
+
+Revolved  overhead,  and  when  dark  fate  is  wroth
+
+Flint  rocks  become  like  wax.     The  two  began
+
+To  wrestle,  holding  by  their  leathern  belts.
+
+As  for  Suhrab  thou  wouldst  have  said :  "  High  heaven
+
+Hath  hampered  him,"  while  Rustam  reaching  clutched
+
+That  warrior-leopard  by  the  head  and  neck,
+
+
+KAI  KAUS  173
+
+Bent  down  the  body  of  the  gallant  youth,
+
+Whose  time  was  come  and  all  whose  strength  was  gone,
+
+And  like  a  lion  dashed  him  to  the  ground ;  v-  5°3
+
+Then,  knowing  that  Suhrab  would  not  stay  under,
+
+Drew  lightly  from  his  waist  his  trenchant  sword
+
+And  gashed  the  bosom  of  his  gallant  son.
+
+Whenever  thou  dost  thirst  for  blood  and  stain
+Therewith  thy  glittering  dagger,  destiny
+
+Will  be  athirst  for  thy  blood,  and  ordain
+Each  hair  of  thine  to  be  a  sword  for  thee.
+
+Suhrab  cried  :  "  Ah  ! "  and  writhed.     Naught  recked
+
+he  then
+
+Of  good  or  ill.     "  I  am  alone  to  blame,"
+He  said  to  Rustam.     "  Fate  gave  thee  my  key.
+This  hump-backed  sky  reared  me  to  slay  me  soon.
+Men  of  my  years  will  mock  me  since  my  neck
+Hath  thus  come  down  to  dust.     My  mother  told  me
+How  I  should  recognise  my  father.     I
+Sought  him  in  love  and  die  of  my  desire.
+Alas !  my  toils  are  vain,  I  have  not  seen  him.
+Now  wert  thou  fish,  or  wrapped  like  night  in  gloom,
+Or  quit  of  earth  wast  soaring  like  a  star,
+My  father  would  avenge  me  when  he  seeth
+My  pillow  bricks.     Some  chief  will  say  to  Rustam : —
+'  Suhrab  was  slain  and  flung  aside  in  scorn
+While  seeking  thee.' "
+
+Then  Rustam  grew  distraught,
+The  world  turned  black,  his  body  failed ;  o'erconie
+He  sank  upon  the  ground  and  swooned  away ;
+Till  coming  to  himself  he  cried  in  anguish : —
+"  Where  is  the  proof  that  thou  art  Rustam's  son  ?
+May  his  name  perish  from  among  the  great,
+For  I  am  Rustam  !    Be  my  name  forgotten,
+And  may  the  son  of  Sam  sit  mourning  me  ! "
+
+He   raved,  his   blood  seethed,   and  with  groans  he
+plucked  v.  504
+
+
+174  THE   SHAHNAMA    OF  FIRDAUSI
+
+His  hair  up  by  the  roots,  while  at  the  sight
+Suhrab  sank  swooning  till  at  length  he  cried  : —
+"  If  thou  indeed  art  Rustam  thou  hast  slain  me
+In  wanton  malice,  for  I  made  advances,
+But  naught  that  I  could  do  would  stir  thy  love.
+Undo  my  breastplate,  view  my  body  bare,
+Behold  thy  jewel,  see  how  sires  treat  sons !
+The  drums  beat  at  my  gate,  my  mother  came
+With  blood-stained  cheeks  and  stricken  to  the  soul
+Because  I  went.     She  bound  this  on  mine  arm
+And  said  :  '  Preserve  this  keepsake  of  thy  father's
+And  mark  its  virtue.'     It  is  mighty  now,
+Now  when  the  strife  is  over  and  the  son
+Is  nothing  to  his  sire."
+
+When  Rustam  loosed
+
+The  mail  and  saw  the  gem  he  rent  his  clothes,
+And  cried  :  "  Oh !  my  brave  son,  approved  by  all
+And  slain  by  me  ! "
+
+With  dust  upon  his  head
+And  streaming  face  he  rent  his  locks  until
+His  blood  ran  down.
+
+"  Nay,  this  is  worse  and  worse,"
+
+Suhrab  said.     "  Wherefore  weep  ?     What  will  it  profit
+To  slay  thyself?    What  was  to  be  hath  been."
+
+When  day  declined  and  Rustam  came  not  back
+There  went  forth  twenty  trusty  warriors
+To  learn  the  issue.     Both  the  steeds  were  standing
+Bemoiled  with  dust,  but  Rustam  was  not  there.
+The  nobles,  thinking  that  he  had  been  slain,
+Went  to  Kaus  in  consternation  saying : —
+"  The  throne  of  majesty  is  void  of  Rustam  !"
+v-  505  A  cry  went  up  throughout  the  host  and  all
+
+Was  in  confusion.     Then  Kaiis  bade  sound
+The  drums  and  trumpets,  Tiis  came,  and  the  Shah
+Said  to  the  troops  :  "  Dispatch  a  messenger
+*     That  he  may  find  out  what  Suhrab  hath  done,
+
+
+KAI  KAUS  175
+
+And  if  there  must  be  mourning  through  Iran.
+None  will  confront  him  with  brave  Rustam  dead.
+We  must  attack  in  force  and  speedily."
+
+While  clamour  raged  Suhriib  said  thus  to  Rustam  : —
+"  The  Turkmans '  case  is  altered  since  my  day
+Is  done.     Use  all  thine  influence  that  the  Shah
+May  not  attack  them.     They  approached  Iran
+Through  trust  in  me,  and  I  encouraged  them.
+How  could  I  tell,  0  famous  paladin !
+That  I  should  perish  by  my  father's  hand  ?
+Let  them  depart  unscathed,  and  treat  them  kindly.
+I  had  a  warrior  in  yonder  hold
+Caught  by  my  lasso.    Him  I  often  asked
+To  point  thee  out :  mine  eyes  looked  ever  for  thee.
+He  told  me  all  but  this.     His  place  is  void.1
+His  words  o'er-cast  my  day,  and  I  despaired.
+See  who  he  is  and  let  him  not  be  harmed.
+I  marked  in  thee  the  tokens  that  rny  mother  v.  506
+
+Described  but  trusted  not  mine  eyes.     The  stars
+Decreed  that  I  should  perish  by  thy  hand.
+I  came  like  lightning  and  like  wind  I  go.
+In  heaven  I  may  look  on  thee  with  joy."
+
+Then  Rustam  choked,  his  heart  was  full  of  fire,
+His  eyes  of  tears.     He  mounted  quick  as  dust
+And  came  with  lamentations  to  the  host
+In  grievous  consternation  at  his  deed.
+The  Iranians  catching  sight  of  him  fell  prostrate
+And  gave  God  praise  that  Rustam  had  returned,
+But  when  they  saw  the  dust  upon  his  dead,
+His  clothes  and  bosom  rent,  they  questioned  him  :
+'•  What    meaneth     this  ?     For   whom    art    thou    thus
+troubled  ? "
+
+He  told  the  fearful  deed,  and  all  began
+To  mourn  aloud  with  him.     His  anguish  grew.
+He  told  the  nobles  :  "  I  have  lost  to-day
+
+1  "  La  place  quejc  lui  avals  destinee  reste  vide." — MOHL.
+
+
+176  THE   SHAH  NAM  A    OF  FIRDAUSt
+
+All  strength  and  courage.     Fight  not  with  Tiiran :
+I  have  done  harm  enough."
+
+Zawara  came
+
+With  breast  and  raiment  rent  and  body  wounded,
+Whom  Rustam  told  about  his  slaughtered  son,
+And  added :  "  I  repent  me  of  my  deed,
+And  have  unmeasured  retribution.     I
+Have  slain  my  son  now  when  my  head  is  grey.
+He  is  cut  off  both  root  and  stem,  his  loins
+Are  pierced,  and  heaven  will  weep  for  him  for  ever."
+
+He  sent  and  told  Human :  "  The  scimitar
+V.  507        Of  war  is  sheathed  and  thou  commandest  now.
+Watch  o'er  thy  host.     This  is  no  day  for  fight
+Or  further  words  with  thee  because  through  malice
+Thou  didst  not  speak  but  sear  my  life  and  eyes."
+
+Then  to  Zawara  said  the  paladin  : —
+"  Escort  Human,  brave  hero  !  to  the  river,
+Eschewing  every  act  of  violence."
+
+Zawara  went  forthwith  and  gave  the  message,
+And  he — the  warrior  that  taught  Suhrab
+The  art  of  war — thus  answered :  "  'Twas  Hajir,
+That  evil-purposed  stirrer  up  of  strife,
+Who  hid  the  matter  of  your  general,
+And  when  Suhrab  sought  token  of  his  sire
+Spake  not  but  left  his  mind  in  ignorance.
+The  black  behaviour  of  Hajir  hath  brought
+This  ill  on  us.     His  head  should  be  struck  off."
+
+Zawara  came  back  to  inform  the  hero
+About  Human,  the  host,  of  what  Hajir,
+The  evil  and  malevolent,  had  done,
+And  how  Suhrab  had  perished  by  his  means.
+The  hero  was  distracted  at  the  words,
+The  world  grew  dark  before  his  eyes,  he  quitted
+The  battlefield  and  coming  to  Hajir
+Laid  hold  upon  his  throat  and  threw  him  down,
+Then  drawing  forth  a  dagger  of  bright  steel
+
+
+KAI
+
+Was  minded  to  behead  him,  but  the  nobles  ,    179
+
+Took  part  with  him  and  saved  him  from  death's  door.
+Then  Rustam  hurried  to  his  wounded  son
+With  Tiis,  Giidarz,  and  Gustaham,  while  all
+The  troops,  concerned  for  Rustam>  said  to  him  : —
+''•  God  will  provide  a  remedy  for  this,
+And  make  thy  sorrow  easy."
+
+Rustam  seized
+
+A  dagger  to  behead  himself,  but  weeping
+Their  own  hearts'  blood  the  chieftains  hung  on  him.
+Gudarz  said :  "  Will  it  help  thee  to  send  up  v.  508
+
+The  world  in  smoke  ?     Though  thou  shalt  do  thyself
+A  hundred  harms,  how  will  it  soothe  thy  darling  ?
+If  there  remaineth  time  for  him  on  earth
+He  will  remain ;  do  thou  remain  with  him  ;
+But,  if  the  youth  is  passing  from  the  world,
+Think !   Who  abideth  in  the  world  for  ever  ?
+We  are  the  quarry,  and  death  hunteth  us
+No  matter  whether  we  wear  casque  or  crown,
+But  all  are  borne  out  when  their  end  hath  come,
+And  afterward  we  wot  not  how  they  do.
+Our  tears  are  needed  on  our  own  account.
+Who  is  there,  chieftain  !  free  from  dread  of  Death  ?
+However  long  or  short  the  way  may  be
+We  scatter  when  he  joineth  company."
+
+§22
+How  Rustam  asked  Kdits  for  an  Elixir
+
+Then  to  Gudarz  said  Rustam  :  "  Famous  hero
+
+Of  ardent  soul !  bear  for  me  to  Kuiis
+
+A  message,  tell  him  what  hath  chanced,  and  say
+
+Thus :  '  With  a  dagger  have  I  pierced  the  reins
+
+Of  my  brave  son.     May  Rustam 's  life  be  short .'
+
+If  thou  at  all  art  mindful  of  my  deeds
+
+Let  thy  heart  feel  for  me  in  my  distress.
+
+VOL.  II.  M
+
+
+^v:.A    OF  FIRDAUSI
+
+176  THE    "-  '
+
+-^      -r*  u.u      ._.^ir  in  thy  treasury,
+
+Which  hath  the  power  to  make  the  wounded  whole,
+
+Send  somewhat  graciously  to  me  forthwith,
+
+Together  with  a  cup  of  wine.     My  son,
+
+By  thy  good  fortune,  may  recover  yet,
+
+And  stand  like  me  a  slave  before  thy  throne.'  "
+
+The  chieftain  came  like  wind  and  gave  the  message.
+The  Shah  said :  "  Who  hath  lustre  in  my  sight
+Exceeding  that  of  elephantine  Rustarn  ?
+I  do  not  wish  him  ill  but  honour  him
+.  509        Exceedingly,  yet,  if  I  send  the  elixir,
+
+Suhrab — an  elephantine  chief — will  live,
+
+Will  strengthen  Rustam's  back,  and  doubtlessly
+
+Bring  ruin  on  myself.     If  at  his  hands
+
+I  suffer  shall  I  not  avenge  myself  ?
+
+'  Who  is  Kaiis,'  thou  heardest  him  once  say,
+
+1  And  if  he  be  the  Shah  who  then  is  Tus  ? '  *
+
+Who  in  this  wide  world  hath  such  neck  and  limbs
+
+And  Grace  ?     How  will  he  stand  before  my  throne,
+
+Or  march  beneath  the  banner  of  the  Shahs  ?
+
+He  gave  me  his  abuse  and  took  away
+
+My  credit  with  the  troops.     If  his  son  liveth
+
+A  pinch  of  dust  is  all  that  I  shall  get.
+
+Art  thou  of  high  rank  and  experience
+
+And  hast  not  heard  the  language  of  Suhrab : —
+
+'  I  will  behead  a  thousand  in  Iran
+
+And  hang  Kaiis  alive  upon  the  gibbet  ? ' 2
+
+If  he  surviveth  great  and  small  will  quake.
+
+To  cherish  foes  is  to  invite  contempt."
+
+Thereat  Gudarz  returned  like  smoke  to  Rustam,
+And  said  :  "  The  evil  nature  of  the  Shah
+Is  like  a  colocynth  in  constant  fruit.
+
+1  A  kingly  perversion  of  what  Rustam  really  had  said,  suggesting
+that  he  contemplated  dethroning  Ksiiis  and  restoring  the  ancient
+Pishdadian  line  in  the  person  of  its  representative,  Tus.  See  p.  143.
+
+-  See  p.  1 60.
+
+
+KAl  KAUS  179
+
+He  hath  no  equal  in  the  world  for  harshness,
+
+And  never  helpeth  any  one  in  trouble.
+
+Go  unto  him  in  person,  be  thy  part  V.  510
+
+To  bring  the  light  to  his  benighted  heart."
+
+§23
+
+How  Rustam  lamented  for  SuJirdb
+
+Then  Rustam  called  for  an  embroidered  robe
+
+And,  having  laid  the  youth  thereon,  set  off,
+
+But  as  he  went  one  overtook  him,  saying : —
+
+"  Suhrab  hath  passed  from  this  wide  world,  and  asketh
+
+No  more  a  palace  of  thee  but  a  bier."
+
+The  father  started,  sighed,  and  groaning  closed
+His  eyes,  then  lighting  swift  as  wind  removed
+His  helm  and  scattered  dust  upon  his  head,
+While  all  the  great  men  also  wept  and  wailed.
+He  cried  in  mournful  tones  :  "  0  warrior-youth
+Exalted  and  a  paladin  by  birth  !
+The  sun  and  moon,  the  breastplate  and  the  helm,
+The  crown  and  throne,  will  never  see  thy  peer.
+Hath  this  that  hath  befallen  me — to  slay
+My  son  in  mine  old  age — befallen  another  ?
+My  son — the  offspring  of  the  woiidlord  Sam
+The  cavalier,  born  of  a  noble  dame  !
+I,  that  have  now  no  peer  in  all  the  world
+For  valour,  was  a  boy  to  him  !     Well  might
+My  hands  be  lopped  !     May  never  seat  be  mine
+Save  in  the  darksome  dust.     What  shall  I  say  V.  511
+
+When  tidings  reach  his  mother  ?     How  shall  I
+Send  any  one  to  break  the  news  to  her  ?
+What  reason  can  I  give  for  slaying  one
+Without  offence  and  darkening  his  day  ?
+What  sire  e'er  acted  thus  ?     I  well  deserve
+The  world's  abuse.     Who  ever  slew  a  son
+So  young  and  wise  and  valiant  ?     And  his  mother  !
+
+
+i8o  THE   SHAHNAMA    OF  FIRDAUSI
+
+What  will  her  sire,  that  honoured  paladin,
+
+Say  to  her  in  her  youth  and  innocence  ?
+
+How  they  will  curse  the  progeny  of  Sam
+
+And  call  me  lacklove,  impious !     Who  could  deem
+
+That  at  his  years  my  darling  would  become
+
+Tall  as  a  cypress,  set  his  heart  on  war,
+
+Array  the  host,  and  turn  my  day  to  darkness  ?  "
+
+He  bade  them  spread  brocade  such  as  kings  use
+Upon  his  young  son's  face — that  son  who  set
+His  heart  on  throne  and  realm  and  only  won
+A  narrow  bier.     They  bore  it  from  the  field,
+Then  set  the  camp-enclosure  in  a  blaze
+While  all  the  troops  cast  dust  upon  their  heads.
+They  burned  the  tents,  the  many-hued  brocade,
+And  all  the  goodly  seats  of  yellow  pardskin.
+A  cry  went  up  and  mighty  Rustam  wailed  : —
+"  The  world  will  see  no  cavalier  like  thee
+For  skill  and  valour  on  the  day  of  battle.
+Woe  for  thy  valour  and  thy  prudent  mind  !
+Woe  for  those  cheeks  of  thine,  thy  mien,  thy  stature !
+Woe's  me !  this  sorrow  and  heart-rending  grief !
+He  left  his  mother  and  his  father  slew  him  ! "
+
+With  royal  raiment  rent  upon  his  body
+And  weeping  blood  he  scrabbled  in  the  dust
+v  512      Exclaiming:  "Zul  and  virtuous  Rudaba
+
+Will  utter  curses,  saying :  '  Rustam  gained
+The  mastery  and  stabbed  him  to  the  heart/
+WThat  plea  of  mine  will  win  their  hearts  to  me  ?
+How  will  the  chieftains  bear  to  hear  that  I
+Have  rooted    from    the   garth   the    straight-stemmed
+cypress  ? "
+
+Then  all  the  paladins  of  Shah  Kaiis
+Sat  by  the  wayside  in  the  dust  with  Rustam,
+And  much  advised  him,  but  he  heeded  not.
+
+Such  are  high  heaven's  deeds  !     It  hath  for  us
+A  lasso  in  this  hand,  in  that  a  crown,
+
+
+KAl  KAUS  181
+
+And  him  that  sitteth  crowned  and  prosperous
+It  haleth  with  the  twisted  lasso  down.
+Why  should  we  love  this  world  when  we  and  they
+That  fare  with  us  alike  must  pass  away  ?
+Though  one  may  reckon  on  long  life  he  must
+Betake  him  in  the  last  resort  to  dust.
+Now  whether  heaven  acteth  knowingly,
+Or  not  'tis  vain  to  ask  its  how  and  why ;
+Forbear  we  then  to  weep  that  one  should  go :
+The  end  thereof  is  not  for  us  to  know.
+
+The  Shah  informed  about  Suhrab  drew  near
+To  Rustarn  with  his  retinue  and  said  : —
+"  From  Mount  Alburz  e'en  to  the  reed  the  sky
+Will  bear  all  off.     We  may  not  set  our  love  v.  513
+
+Upon  this  dust,  for,  though  some  haste,  some  linger,
+All  die  at  last.     Take  comfort  for  the  dead,
+And  hear  what  sages  say.     Though  thou  shouldst  dash
+The  sky  upon  the  earth  and  burn  the  world
+'Twill  not  recall  the  dead.     Know  that  his  soul
+Is  long  in  heaven.     From  afar  I  marked
+His  breast,  neck,  stature,  and  his  iron  mace
+As  fate  impelled  him  onward  with  his  host
+To  perish  by  thy  hands.     What  remedy  ?
+How  long  wilt  thou  bewail  the  dead  ?"
+
+He  answered : —
+
+"  Though  he  is  gone  Human  remaineth  still
+With  other  chieftains  of  Turan  and  Chin.
+Regard  them  not  as  foes  but  let  Zawara,
+God  willing  and  the  Shah,  conduct  them  hence."
+
+Kaiis  replied :  "  Aspiring  chief !  thy  face
+Is  saddened  through  this  fight,  and  though  our  foes
+Have  harmed  me  much  and  sent  srnoke  from  Iran,
+Yet  through  thy  sorrow  is  my  heart  so  sore
+That  I  will  think  upon  revenge  no  more."
+
+
+1 82  THE   SHAH  NAM  A    OF  FIRDAUST
+
+§  24
+How  Rustam  returned  to  Zabulistdn
+
+The    Shah   marched   homeward  with  the  host,  while
+Rustam
+
+v>  5*4        Stayed  for  Zawara's  news  about  the  foe,
+
+Then  marched  at  dawn  toward  Zabulistan,
+Where  Zal  and  all  the  folk  went  out  to  meet  him
+In  anguish  and  distress.     They  reached  the  bier.
+The  nobles  scattered  dust  upon  their  heads,
+They  docked  the  tails  of  their  high-crested  steeds,
+And  rent  the  brazen  tymbals  and  the  drums.
+When  Zal  the  son  of  Sam  perceived  the  bier
+He  lighted  from  his  steed  with  golden  trappings,
+While  matchless  Rustam  went  in  front  afoot
+With  heart  and  raiment  rent.     The  warriors
+Put  off  their  belts,  stooped  to  the  dust  before  it,
+And  served  as  bearers,  bending  low  their  heads,
+Alas !  for  him  so  noble  and  so  brave  !
+While  Rustam  in  his  father's  presence  lifted
+His  son's  head  from  the  golden  broidery,
+And  cried  in  anguish  :  "  See  how  Sam  the  horseman
+Is  sleeping  sadly  on  this  narrow  bier ! "
+
+Zal  showered  tears  of  blood  and  plained  to  God,
+While  Rustam  cried :  "  Chief !  thou  hast  gone,  and  I
+Am  left  in  shame  and  wretchedness."
+
+Then  Zal  :—
+
+"  A  strange  event !     His  was  a  massive  mace.
+He  was  of  note  among  the  mightiest,
+And  none  will  bear  his  like."
+
+He  spoke  through  tears  ;
+His  theme  was  all  Suhrab.     When  Rustam  reached
+
+V.  515        His  hall  he  wailed  and  had  the  corse  set  down
+In  front  of  him.     Rudaba,  seeing  it
+And  Rustam's  tears,  exclaimed  :  "  Alack  !  thou  hero  !
+
+
+KAI  KAUS  183
+
+Uplift  thy  head  one  moment  from  the  bier."
+She    wailed    and    heaving    deep-drawn    sighs    ex-
+claimed : —
+
+"  0  paladin,  son  of  the  Lion's  Whelp !
+
+None  will  be  born  so  strong  and  brave  as  thou.
+
+Henceforth  thou  wilt  not  whisper  to  thy  mother
+
+Tales  of  thy  happy  moments,  for  in  sooth
+
+Thou  hast  departed  to  the  prison-house,
+
+Departed  to  the  mansion  of  the  wretched.
+
+Oh  tell  not  what  befell  thee  from  thy  father,
+
+And  why  it  was  that  thus  he  pierced  thy  heart ! "
+Her  cries  reached  Saturn ;  all  that  heard  her  wept.
+
+Dust-smirched  and  woebegone  she  sought  her  bower
+
+While  Rustam  at  the  sight  wept  tears  of  blood.
+
+Thou  wouldst  have  asked :  "  Hath  Doomsday  come,  for
+
+joy
+
+Hath  fled  all  hearts  ?  "
+
+Again  he  brought  the  bier,
+Whereon  Suhrab  the  Lion  lay,  before
+The  gallant  chiefs,  and  in  his  father's  presence
+Drew  back  the  shroud.     He  showed  the  chiefs  the  corse,
+And  thou  hadst  said  that  heaven  reeked  with  sorrow.
+All  that  were  present  looked  on  helplessly,
+All  cheeks  were  livid,  all  robes  rent,  all  hearts
+Fulfilled  with  pain,  all  heads  besmirched  with  dust.
+The  royal  palace  was  one  mighty  bier,
+And  of  that  valiant  Lion  in  his  coffin
+Thou   wouldst   have   said :  "  Tis'  Sam  with   his   huge  v-
+
+limbs,
+And  tired  with  warfare  he  hath  gone1;o  sleep."
+
+The  sire  replaced  the  gold  brocade  and  closed
+The  narrow  bier.     He  said  :  "  Though  I  shall  make
+His  tomb  of  gold  and  fill  it  round  with  musk
+'Twill  perish  with  me,  but  I  can  no  more."
+
+While  all  went  blind  with  grief  he  made  a  charnel
+Shaped  like  a  horse's  hoof.     The  bier  was  formed
+
+
+1 84  THE  SHAHNAMA    OF  F1RDAUSI
+
+Of  undried  aloe-wood  with  golden  clasps.
+
+The  tale  of  how  the  paladin  had  slain
+His  son  went  everywhere  and  all  the  world
+Was  full  of  grief,  while  Rustam  sorrowed  long,
+But  in  the  end  perforce  resigned  himself.
+
+The  world  hath  many  an  act  like  this  in  mind,
+On  every  soul  it  setteth  many  a  brand,
+
+For  who  possesseth  sense  and  wit  combined
+,     The  treachery  of  fortune  to  withstand  ?
+
+The  Iranians  hearing  burned  with  grief.     Human,
+For  his  part,  went  back  to  Tiiran  and  told
+Afrasiyab,  who  was  all  wonderment
+And  speculation  touching  that  event.
+
+
+§25
+
+How  Suhrdb's  Mother  received  the  Tidings  of  his  Death
+
+A  cry  rose  from  Tiiran :  "  Suhrab  hath  fallen
+Upon  the  battlefield ! "     The  tidings  reached
+The  king  of  Samangan,  who  rent  his  robes,
+v.  517        The  tidings  reached  Tahmina:  "  Brave  Suhrab
+Hath  perished,  stricken  by  his  father's  sword  ! "
+She  seized  her  robe  and  rent  it,  and  her  form —
+That  goodly  gem — shone  forth.     She  raised  a  cry
+Of  wail  and  woe,  and  swooned  at  whiles.     She  coiled
+Her  hair  like  twisted  lassos  round  her  fingers
+And  plucked  it  out.     The  blood  ran  down  her  face.
+At  times  she  sank  fordone.     She  strewed  dark  dust
+Upon  her  head,  gnawed  pieces  from  her  arms,
+Flung  fire  upon  her  head  and  scorched  herself,
+And  burned  her  musky  tresses.     "  Where  art  thou,"
+She  cried,  "  who  wast  thy  mother's  soul,  but  art
+Now  only  dust  and  blood  ?     I  scanned  the  road,
+I  said :  '  I  may  have  tidings  of  Suhrab
+And  Rustam.'     Then  I  mused  and  said :  '  Already
+
+
+KAI  KAUS  185
+
+Hast  thou  been  round  the  world  to  find  thy  father,
+Hast  found  him,  and  art  speeding  home  again.'
+How  could  I  know,  my  son !  that  news  would  come
+That  he  had  pierced  thy  liver  with  his  sword  ?
+He  had  no  pity  for  that  face  of  thine,
+Thy  stature,  mien,  and  arms,  he  pitied  not
+Thy  girdlestead  but  clave  it  with  his  blade.
+I  used  to  nurse  the  body  of  my  boy
+Through  days  of  brightness  and  through  weary  nights,
+And  now  'tis  drowned  in  blood  !     A  winding-sheet  v.  518
+
+Is  all  the  cover  of  his  stainless  form.
+Whom  shall  I  clasp  upon  my  bosom  now  ?
+Who  is  there  that  will  rid  me  of  my  grief  ?
+Whom  shall  I  call  upon  to  take  thy  place  ?
+To  whom  impart  my  pain  and  misery  ?
+Woe  for  his  soul  and  body,  eye  and  lustre,
+That  dwell  in  dust  instead  of  hall  and  garden  !
+0  warrior,  shelter  of  the  host !  thou  soughtest
+Thy  sire  and  in  his  place  hast  found  thy  grave.
+Hope  turned  in  thee  to  dolorous  despair,
+And  now  thou  sleepest  scorned  and  miserable
+Amid  the  dust.     Before  he  drew  his  dagger
+And  gashed  thy  silvern  side  why  didst  not  thou
+Show  him  the  token  that  thy  mother  gave  thee  ?
+Why  didst  thou  not  declare  thyself  to  him  ?
+Thy  mother  told  thee  how  to  know  thy  sire:
+How  was  it  that  thou  didst  not  trust  her  words  ?
+Without  thee  she  is  as  the  captives  are —
+All  travail,  anguish,  misery,  and  sighing.
+Why  went  I  not  with  thee  that  wast  to  be
+The  warriors'  cynosure  ?     He  would  have  known  me
+Though  far  away  and  welcomed  both  of  us,
+Cast  down  his  sword  and  never  pierced  thy  side."
+This  said  she  tore  herself,  plucked  out  her  hair,
+And  smote  her  lovely  visage  with  her  palms.
+She  tilled  the  eyes  of  all  the  folk  with  hail,
+
+
+1 86  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+So  grievous  were  her  moans  and  lamentations.
+At  length  while  all  hearts  ached  she  fell  a-swoon,
+
+v.  519       Fell  as  one  falleth  dead  upon  the  ground,
+
+And  thou  hadst  said :  "  Her  blood  is  turned  to  ice."
+
+She  roused,  thought  of  her  son,  and  wailed  afresh,
+
+Her  very  heart's  blood  crimsoning  her  tears.
+
+She  fetched  his  crown,  wept  o'er  it  and  his  throne,
+
+Exclaiming  in  her  grief :  "  0  royal  Tree  ! "
+
+She  brought  his  wind-foot  charger  forth,  that  charger
+
+Which  he  had  prized  so  in  his  happy  days,
+
+And  clasped  and  kissed  its  head,  to  folk's  amazement,
+
+And  nuzzled  on  its  hoofs,  while  her  blood  fell
+
+And  reddened  all  the  ground.     She  took  his  robe
+
+And  clasped  it  to  her  body  like  her  son,
+
+She  fetched  his  jerkin,  coat  of  mail,  and  bow,
+
+His  spear,  his  falchion,  and  his  massive  mace.
+
+She  fetched  his  saddle  with  the  reins  and  buckler,
+
+And  dashed  her  head  thereon.     She  fetched  his  lasso,
+
+And  flung  its  eighty  cubits  out  before  her.
+
+She  fetched  his  helm  and  breastplate,  and  exclaimed : —
+
+"  O  warrior-lion  ! "  drew  his  sword  and  docked
+
+His  charger's  mane  and  tail.     She  gave  the  poor
+
+His  goods — the  silver,  gold,  and  harnessed  steeds.
+
+v-  52°       She  locked  the  palace,  rooted  up  the  throne,
+
+Then  brought  it  down  and  dashed  it  to  the  ground.
+She  blacked  the  chambers'  doors,  sent  up  the  dust
+From  porch  and  palace,  gave  to  desolation
+The  banquet-hall  that  he  had  left  for  battle,
+Assumed  the  weeds  of  woe  all  stained  with  blood,
+By  day  and  night  lamented  him  with  tears,
+Died  broken-hearted  in  a  year,  and  joined
+Her  warrior-son.
+
+Said  eloquent  Bahram : —
+"  Dote  not  upon  the  dead ;  thy  proper  care
+Is  for  thine  own  departure  to  prepare,
+Since  here  thou  canst  not  stay.     So  dally  not.
+
+
+KAI  KAUS  187
+
+Thy  father  once  gave  up  his  place  to  thee,
+And  thou  must  give  up  thine.     Such  is  our  lot,
+
+And  'tis  a  secret  still,  a  mystery,
+
+Nor  wilt  thou  with  thy  dazed  mind  find  a  key.
+To  open  that  closed  door  may  no  man  know.
+Endeavour  not  therefor,  else  wilt  thou  throw
+Life  to  the  winds.     Our  summons  to  depart
+
+Js  from  the  God  and  Master  of  us  all ;
+Then  on  this  Wayside  Inn  set  not  thy  heart ;
+
+The  profit  of  such  sojourn  is  but  small."
+
+
+Now  from  this  history  my  face  I  turn :
+The  tale  of  Siyawush  is  my  concern.
+
+
+PAET  IV
+
+THE   STORY   OF   SIYAWUSH
+
+ARGUMENT
+
+The  poet,  inspired  by  his  theme  and  conscious  of  his  genius,
+retells  an  ancient  tale  thus  : —
+
+Giv  and  Tus,  while  hunting,  find  and  quarrel  about  a  damsel.
+The  matter  is  referred  to  the  Shah,  who  marries  her  himself.
+From  this  union  springs  Siyawush,  who  is  brought  up  by  Rustam
+and  afterward  returns  to  his  father's  court,  where  Siidaba,  one  of
+his  father's  wives,  tempts  him  in  vain  and  then  accuses  him  falsely.
+He  clears  himself  by  ordeal  and  saves  his  accuser's  own  life,  which
+had  been  adjudged  forfeit  for  her  wickedness.  In  time  she  is
+restored  to  favour,  and  Siyawush,  to  escape  her  wiles,  leads  an  army
+against  Afrasiyab,  who,  terrified  by  a  dream,  sues  for  peace.  The
+terms  granted  by  Siyawush  are  rejected  by  the  Shall,  and  Siyawush,
+his  honour  touched,  goes  over  to  Afrasiyab,  by  whom  he  is  well
+received  and  whose  daughter  Farangis  he  marries,  having  previously
+married  Jarira,  the  daughter  of  Piran.  He  attains  to  great  dignities,
+but  incurs  the  envy  of  the  king's  brother,  Garsiwaz,  by  whom  he  is
+done  to  death.  His  wife  Farangis  is  protected  by  Piran  and  gives
+birth  to  Kai  Khusrau,  with  whose  childhood  the  story  ends.
+
+NOTE
+
+Firdausi,  as  we  may  gather  from  his  prelude,  thought-  highly  of
+his  version  of  this  tragic  story,  which,  unlike  that  of  Suhrab,  is  not
+a  pure  episode,  but  leads  directly,  though  by  a  long  road,  to  the
+chief  epic  climax.  It  also  affords  a  good  example  of  the  poet's
+treatment  of  his  subject-matter.  Various  legends  are  combined
+with  curious  results.  For  instance,  the  legend  of  the  birth  of
+Siyawush  from  a  grand-daughter  of  Garsiwaz  is  not  allowed  to
+militate  against  or  to  modify  other  legends  in  which  ancestor  and
+descendant  meet  on  equal  terms,  in  the  full  vigour  of  manhood,  as
+
+
+KAI  KAUS  189
+
+strangers  ignorant  of  their  blood-relationship,  as  enemies,  as  villain
+and  victim.  Such  instances  are  the  surest  guarantee  that  the  poet
+is  drawing  on  epic  sources  and  not  on  his  own  imagination.  The
+story  further  shows  how  needful  it  is  for  a  reader  of  the  Shahnarna
+mentally  to  supply  for  himself  the  element  of  time.  The  account
+of  Sudaba's  infatuation  for  Siyawush 1  reads  as  if  it  were  a  matter
+of  a  few  days,  weeks,  or  months  at  most.  It  is  only  from  a  chance
+remark  of  hers  that  we  learn  that  the  affair  had  been  going  on  for
+seven  years  !
+
+The  temptation  of  Siyawush  by  Sudaba,  on  which  so  much  turns,
+will  suggest  many  a  parallel  to  the  reader.
+
+It  should  be  mentioned,  however,  that  Sudaba's  pretext  for
+inviting  Siyawush  to  visit  her — the  suggested  marriage  of  one  of
+her  daughters  to  him — was  a  legitimate  one  to  a  Zoroastrian .
+
+Sudaba's  daughter  would  be  Siydwush's  half-sister,  and  next-of-
+kin  marriages,  as  they  were  called,  were  not  only  permitted  but
+regarded  as  a  sacred  duty  by  the  Magi.2  Sudaba,  with  the  wit  of  a
+woman  much  in  love,  hit  upon  a  perfectly  legitimate  motive,  and
+Kai  Kaiis  accepted  it,  as  we  see,  without  the  least  suspicion.
+
+Siyawush  appears  as  Syavarshana  in  the  Zandavasta,  where  he  is
+several  times  mentioned  in  connection  with  his  murder  by  Garsiwaz
+and  Afrasiyab,  and  the  vengeance  exacted  for  it  by  Kai  Khusrau,
+who,  we  are  told,  "  prevailed  over  all ;  he  put  in  bonds  Frangrasyan
+and  Keresavasda,  to  avenge  the  murder  of  his  father  Syavarshana." 3
+Here,  as  in  other  cases,  the  leading  motives  of  the  Shahnama  origi-
+nate in  the  Zandavasta.
+
+§  49.  The  poet  in  his  description  of  Gang-dizh  perhaps  had  in  his
+mind  the  famous  stronghold  of  Kalat-i-Nadiri,  which  lies  about
+thirty  miles  to  the  north  of  Mashad  and  not  far  from  the  poet's
+own  birthplace,  but  he  follows  his  authorities,  which  look  at
+matters  from  a  point  of  view  west  of  the  Caspian,  and  describes
+Gang-dizh  as  being  beyond  the  sea  accordingly.  Tradition  seems
+to  place  it  in  Kharazm.  In  the  Zandavasta  we  read  of  "  the  castle
+Khshathro-saoka,  that  stands  high  up  on  the  lofty,  holy  Kangha."  4
+In  the  Dina-i  Mainog-i  Khirad,  a  Pahlavi  treatise,  Siyawush  is
+described  as  the  founder  of  Kangdez,  and  Kangde.^  itself  is  described
+as  lying  to  the  east,  on  the  frontier  of  Airan-vego.5  In  the  Bunda-
+hish  it  is  described  as  being  in  the  direction  ot  the  east,  "  at  many
+leagues  from  the  bed  of  the  wide-formed  ocean  towards  that  side."  6
+Now  the  learned  Abu  Hainan  Muhammad,  more  commonly  known
+in  the  west  as  Albiruni,  was  a  native  of  Kharazm  and  wrote  a
+
+
+1  §  6  seq.  "  WPT,  ii.  389.
+
+3  DZA,  ii.  304.     See  also  pp.  65,  114, 115.  4  DZA,  ii.  67.
+
+5  WPT,  iii.  64,  109.  «  WPT,  i.  119
+
+
+190  THE   SHAHNAMA    OF  FIRDAUSI
+
+history  of  that  country.  His  account  is  nearly  all  lost,  but  in
+another  work  of  his  he  tells  us  that  the  Kharazmians  dated  the
+colonisation  of  their  country  from  the  year  980  before  Alexander,
+i.e.  from  the  fourteenth  century  B.C.,  and  that  ninety-two  years  later
+the  incursion  of  Siyawush  took  place.  From  this  time  onward  they
+were  governed  by  monarchs  of  his  race  down  to  the  days  of  king
+Afrigh — a  man  of  evil  reputation — who  built  himself  a  fortress  on  the
+outskirts  of  the  city  of  Kharazm,  or  made  additions  to  an  existing
+fortress,  called  Alfir,  in  the  year  616  of  the  era  of  Alexander,  i.e.
+toward  the  end  of  the  third  century  A.D.  This  Alfir,  Albiruni  tells
+us,  was  built  of  clay  and  tiles,  and  consisted  of  three  forts,  one
+inside  another,  and  all  of  equal  height.  Rising  above  the  whole
+were  the  royal  palaces.  Alfir  could  be  seen  at  a  distance  of  ten
+miles  or  more.  It  was  broken  and  shattered  by  the  Oxus,  and  was
+swept  away  piece  by  piece  every  year,  till  the  last  remains  of  it
+had  disappeared  by  the  year  1305  of  the  era  of  Alexander,  i.e.
+toward  the  end  of  the  tenth  century  A.D.1  It  is  evident  from  this
+account  that  Alfir  was  in  process  of  construction  or  enlargement  in
+the  very  century  in  which  the  Zandavasta  was  being  compiled.
+The  Kharazmians  had  racial  affinities  with  the  Iranians,  and  the
+epithet  "holy"  applied  to  Kangha  in  the  Zandavasta  evidently
+points  to  the  fact  that  they  were  Zoroastrians  as  well.  It  may  be
+therefore  that  the  Khshathro-saoka  of  the  Zandavasta,  the  Kangdes
+of  the  Pahlavi  texts,  the  Alfir  of  Albiruni,  and  the  Gang-dizh  of
+the  Shahnama  all  represent  one  and  the  same  place — the  palace-
+fortress  of  the  ancient  capital  of  Kharazm.  Kharazni  is,  of  course,
+the  modern  Khiva,  and  Gang-dizh  means  the  fortress  (dizh)  of  the
+land  of  Kangha.
+
+§  58  seq.  In  the  account  of  the  birth  and  youth  of  Kai  Khusrau
+we  have  in  essentials  the  same  story  as  that  told  by  Herodotus2
+some  fifteen  centuries  earlier.  Astyages,  the  king  of  the  Medes,
+had  a  daughter  Mandane.  He  had  a  dream  about  her  which  he
+told  to  Magi  who  were  learned  in  such  matters.  Their  interpre-
+tation of  it  alarmed  him,  and  as  the  safest  course  in  the  circum-
+stances he  married  his  daughter  to  an  unambitious  Persian  of  good
+family  named  Cambyses.  Soon  after  Astyages  had  another  dream
+about  Mandane.  He  again  consulted  the  dream-interpreters,  who
+told  him  that  his  daughter's  son  would  supersede  him  on  the  throne.
+In  consequence  of  this  prognostic  he  sent  for  Mandane,  who  was
+dwelling  among  the  Persians,  and  had  her  closely  guarded.  When
+her  son  Cyrus  was  born,  Astyages  summoned  Harpagus,  a  member
+of  the  royal  house  and  a  most  loyal  liege,  and  ordered  him  to  take
+
+1  SAC,  p.  40.  2  i.  107  seq.
+
+
+KAl   KAUS  191
+
+the  child  from  Mandane,  to  kill  it,  and  to  bury  it.  Harpagus,  in
+great  distress,  carried  off  the  child,  who  was  ready  clad  in  funeral
+weeds,  to  his  own  home,  but  told  his  wife  that  nothing  should
+induce  him  to  make  away  with  the  infant  himself,  for  they  were
+akin  to  each  other.  Accordingly  he  sent  for  one  of  the  herdsmen
+of  Astyages,  whose  herds  were  pastured  on  the  mountains  north  of
+Ekbatana,  in  the  direction  of  the  Euxine — a  tract  frequented  by
+wild  beasts — and  bade  him  expose  the  child  on  some  desolate  spot
+that  it  might  soon  perish.  Now,  it  so  happened  that  the  herdsman's
+wife  had  lately  had  a  still-born  babe,  and  when  she  saw  Cyrus  she
+persuaded  her  husband  to  expose  the  dead  and  allow  her  to  keep
+the  living  child.  The  son  of  Mandane  thus  grew  up  in  the  house
+of  the  herdsman,  and  his  royal  birth  soon  began  to  assert  itself.
+His  playmates  chose  him  for  their  king,  and  he  used  to  hold  mock
+court  among  them.  At  length  an  incident  brought  the  matter  to
+the  ears  of  Astyages,  who  questioned  the  herdsman  and  was  exceed-
+ingly wroth  with  Harpagus.  The  interpreters  of  dreams,  however,
+declared  that  no  further  danger  was  to  be  apprehended  from  Cyrus,
+as  the  dream  had  been  sufficiently  fulfilled  by  his  election  to  king-
+ship by  his  playfellows.  Accordingly  Astyages  sent  him  back  to
+Persia  to  his  parents  Cambyses  and  Mandane.  Subsequently  Cyrus,
+incited  by  Harpagus,  rebelled  and  overthrew  Astyages.
+
+In  the  Shahnama  we  have  Afrasiyab  for  Astyages,  Farangis  for
+Mandane,  Siyawush  for  Cambyses,  Khusrau  for  Cyrus,  and  Piran
+for  Harpagus,  while,  if  the  view  be  correct  that  the  so-called  empire
+of  the  Medes  was  in  reality  the  empire  of  the  Manda,1  one  important
+discrepancy  between  the  Greek  and  Persian  accounts  is  removed,
+for  Astyages,  Mandane,  and  Harpagus  become  Turanian  instead  of
+Median,  and  are  thus  brought  into  line  with  Afrasiyab,  Farangis,
+and  Piran,  their  representatives  in  the  Shahnama.
+
+
+§«
+
+TJie  Prelude
+
+Now,  0  thou  man  of  wit  and  eloquence !  V.  523
+
+Upon  a  goodly  tale  thy  skill  employ,
+For  if  the  words  are  equal  to  the  sense
+
+The  poet's  soul  will  be  a  source  of  joy;
+But  he  whose  thoughts  lack  loveliness  will  thwart
+1  Vol.  i.p.  17.
+
+
+192  THE   SHAHNAMA    OF  FIRDAUSI
+
+His  purpose  by  his  own  unlovely  thought ;
+Moreover  he  will  make  himself  a  cross,
+
+And  have  the  disapproval  of  the  wise ;
+Yet,  in  that  every  one  is  at  a  loss
+
+To  see  his  faults  (thy  genius  to  thine  eyes
+Is  bright)  thy  work  if  'tis  to  last,  confide,
+When  polished,  to  the  learned  to  decide
+Its  value ;  if  approved  'twill  make  its  way
+
+And  be  as  water  in  thine  own  canal.
+I  take  from  legends  of  a  former  day
+
+A  rustic  minstrel's  story,  and  I  shall,
+Although  the  tale  be  old,  when  I  have  done,
+Make  it  a  tale  in  vogue  with  every  one.
+If  length  of  days  shall  be  vouchsafed  to  me,
+
+And  with  long  life  immunity  from  ill,
+I  shall  have  left  behind  a  fruitful  tree,
+
+To  go  on  bearing  in  the  orchard  still.
+Full  many  a  marvel  hath  o'erpassed  his  head
+Whose  years  reach  fifty-eight,  yet  minished
+
+Greed  is  not  ever  as  they  onward  glide ;
+I  still  by  rule  and  omen  choose  my  day.
+V.  524  What  said  herein  the  archiinage,  our  guide  ?
+
+"  He  that  is  waxen  old  is  old  for  aye."
+Tell  on  thy  tale,  be  wise  and  of  good  cheer,
+So  long  as  life  endureth  persevere.
+When  thou  departest  what  was  here  thine  own
+
+Shall  in  God's  hand  for  good  or  evil  be ;
+Remember !  thou  shalt  reap  as  thou  hast  sown
+
+And  as  thou  speakest  men  will  speak  of  thee.
+The  gentle  speaker  heareth  in  return
+Soft  words  :  make  speaking  gently  thy  concern.
+Now  for  the  rustic  minstrel's  tale.     Heed  well
+The  matter  that  the  poet  hath  to  tell.
+
+
+KAI  KAUS  193
+
+§2
+The  Story  of  the  Mother  of  Siydicush
+
+Thus  said  an  archimage  :  One  morning  Tiis
+
+In  merry  pin  left  the  Shah's  gate  at  cockcrow,
+
+With  Giv,  Giidarz,  and  other  cavaliers,
+
+To  hunt  upon  the  desert  of  Daghwi
+
+With  hawk  and  cheetah.     By  a  river's  bank
+
+They  stalked  or  ran  down  game,  and  caught  or  shot
+
+Enough  to  last  them  forty  days.     Near  by
+
+A  Turkman's  camp  showed  black,  and  thence  a  forest
+
+Stretched  almost  to  the  marches  of  Tiiran.
+
+Giv  led  the  way  with  Tiis :  behind  them  came
+
+Some  brave  retainers.     Entering  the  wood,
+
+And  roaming  thus  awhile  in  quest  of  quarry,
+
+They  saw  among  the  trees  a  fair-cheeked  maiden,
+
+And  hurried  toward  her  in  high  glee.     The  age
+
+Had  not  her  peer  in  looks ;  hers  were  not  charms
+
+To  need  apologies.     In  stature  she
+
+Was  cypress-tall,  in  looks  a  moon,  to  gaze  V.  525
+
+On  her  was  perilous.     Tiis  said  to  her : —
+
+"  Bewitching  Moon  !  who  showed  thee  to  this  wood  ? "
+
+"  My  father  set  on  me  last  night,"  she  said,
+"  And  so  I  fled  from  home.     He  had  returned
+Drunk  from  a  marriage-feast  and,  in  his  frenzy
+Perceiving  me  far  off,  drew  forth  his  sword
+Of  watered  steel  and  had  beheaded  me.
+I  fled  for  refuge,  and  have  just  come  hither."
+The  paladin  then  asked  her  of  her  kindred.
+She  told  him  fully  and  to  this  effect : —
+"  I  am  akin  to  Garsiwaz,  and  trace
+My  lineage  to  Shah  Faridiin."
+
+He  asked  her : —
+
+"  Why  earnest  thou  afoot,  for  thou  hast  come
+Unmounted  and  unguided  ? "
+
+VOL.  II.  N
+
+
+194  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+She  replied : —
+
+"  My  steed  was  wearied  out  and  fell  exhausted.
+I  had  uncounted  gold,  gold  crown,  and  jewels,
+But  over  yonder  hill  some  people  robbed  me
+And  beat  me  with  a  scabbard.     I  escaped
+In  terror  and  am  weeping  tears  of  blood.
+My  sire  no  doubt  when  sober  will  dispatch
+Some  horsemen  after  me  forthwith,  my  mother
+Will  haste  to  me,  she  would  not  have  me  quit
+These  fields  and  fells."
+
+Now  both  the  paladins
+Grew  hot  of  heart  for  love  of  her,  and  Tus,
+Lost  to  all  shame,  exclaimed  :  "  Twas  I  who  spied  her,
+And  therefore  made  such  haste."
+
+But  Giv  replied : —
+
+"  0  captain  of  the  host !  without  thy  host
+Thou  art  no  match  for  me."
+
+Still  Tus  insisted  :—
+"  She  came  exactly  in  my  horse's  way."
+
+Giv  said :  "  Nay !     Say  not  so  ;  I  led  the  chase.
+Tell  not  a  falsehood  for  a  slave-girl's  sake :
+A  man  of  courage  is  not  quarrelsome."
+
+Their  wrangle  was  so  violent  that  the  Moon
+Was  like  to  lose  her  head  in  the  dispute,
+Until  a  noble  interposed  and  said : —
+"  Convey  her  to  the  monarch  of  Iran,
+And  bide  by  his  decision."
+
+Both  agreed
+
+And  went  to  Kai  Kaus,  who  when  he  saw
+The  damsel's  beauty,  fell  in  love  with  her
+Himself,  and  said  to  those  two  generals  : —
+"  Your  journey's  travail  was  cut  short  for  you  !
+Be  she  a  doe  or  beautiful  gazelle
+A  quarry  such  as  this  is  for  your  lord.
+Come  let  us  pass  the  day  in  telling  how
+These  warriors  with  their  cheetahs  caught  a  Sun ! "
+
+
+KAI  KAUS  195
+
+He  questioned  her :  "  What  is  thy  lineage,
+For  thou  art  fairy-like  in  countenance  ? "
+
+"  I  am  of  high  birth  on  my  mother's  side,"
+She  said,  "  my  father  sprang  from  Faridiin.
+My  father's  father  is  prince  Garsiwaz,
+Whose  tents  now  occupy  yon  border  land."
+
+Kaiis  said :  "  Didst  thou  mean  to  fling  away
+Such  looks  as  these,  such  beauty  and  such  birth  ?
+'Tis  meet  I  place  thee  in  my  golden  bower :
+Thou  must  be  chief  of  all  the  Moon-faced  there."
+
+She  answered :  "  I  preferred  thee  at  first  sight
+Among  the  great."
+
+The  Shah  then  gave  each  general
+Ten  noble  chargers  with  a  throne  and  crown,
+But  sent  the  Idol  to  the  women's  bower,
+And  gave  command  to  set  her  on  the  throne.
+Then  under  her  they  placed  an  ivory  seat,  V.  527
+
+Upon  her  head  a  crown  of  gold  and  turquoise,
+Adorning  her  with  yellow-hued  brocade,
+With  jewels,  turquoise,  lapis  lazuli,
+And  other  presents  worthy  hers  to  be  :
+A  ruby  yet  untouched  by  man  was  she.
+
+§3
+The  Birth  of  Siydwush
+
+When  nine  months  had  elapsed,  and  jocund  spring
+
+Resumed  its  tints,  men  said  to  Kai  Kaiis : —
+
+"  Thou  hast  had  fruit  of  that  auspicious  Moon :
+
+A  glorious  infant  hath  appeared,  and  now
+
+Thou  well  mayst  set  thy  throne  above  the  clouds.
+
+A  babe  of  fairy-form  is  born  to  her,
+
+In  visage  like  an  idol  of  Azar,1
+
+With  face  and  hair  unheard  of  heretofore,
+
+And  all  the  folk  are  talking  of  the  child."
+
+1  Azarbdijan.
+
+
+196  THE   SHAHNAMA    OF  FIRDAUSI
+
+The  world-lord  named  him  Siyawush,  and  gave
+The  rolling  heaven  praise  because  of  him ;
+Yet  they  that  read  the  purpose  of  the  sky,
+Its  good  and  evil  and  its  when  and  how,
+Saw  that  the  stars  were  hostile  to  the  boy,
+And  grieved  because  they  saw  his  fortune  sleeping.
+They  turned  to  God  for  refuge,  warned  the  Shah
+About  the  fortune  of  his  son,  and  showed
+The  path  to  take,  aware  that  he  would  suffer
+From  good  and  bad.     Anon  came  peerless  Rustam
+v.  528        Before  the  Shah  and  said :  "  Mine  be  the  task
+To  rear  this  child  that  is  so  lion-like ;
+Since  thy  retainers  are  not  competent
+There  is  no  nurse  on  earth  for  him  like  me."
+
+The  monarch,  having  pondered  much  thereon,
+Entrusted  little  loath  his  heart  and  eyes —
+This  atheling,  the  child  so  loved  by  him —
+To  Rustam's  charge,  who  bore  him  to  Zabul
+And  lodged  him  in  a  rosary,  instructed
+The  youth  in  riding,  archery,  the  use
+Of  lasso,  stirrups,  reins,  and  other  gear,
+To  hold  his  court,  his  feasts,  and  drinking-bouts,
+To  follow  game  with  falcon,  hawk,  and  cheetah,
+To  judge  in  causes,  and  to  rule  the  kingdom,
+\___  Make  speeches,  combat,  and  lead  forth  a  host :
+All  these  accomplishments  did  Rustam  teach  him,
+And  took  abundant  pains  which  bore  their  fruit,
+For  Siyawush  became  a  peerless  prince,
+And,  as  time  passed,  grew  tall  and  captured  lions.
+One  day  he  spake  to  noble  Rustam  thus : —
+"  Desire  to  see  the  Shah  hath  come  on  me.
+Much  travail  and  heart-burning  hast  thou  borne
+To  toach  me  all  a  king's  accomplishments :
+My  father  must  examine  the  result
+Of  elephantine  Rustam's  tutelage."
+
+The  lion-hearted  hero  made  all  ready,
+
+
+KAI  KAUS  197
+
+And  sent  posts  everywhere.     Of  horses,  slaves,
+
+Gold,  silver,  signets,  falchions,  crowns,  and  girdles,
+
+And  various  stuffs  and  linings,  he  produced
+
+Whate'er  he  could  himself  or  got  elsewhere.
+
+On  this  wise  Rustam  furnished  forth  the  youth,
+
+For  all  men's  eyes  were  fixed  on  Siyawush,
+
+And  also  journeyed  with  him  lest  the  Shah
+
+Might  be  offended.     As  their  custom  was
+
+The  folk  put  decorations  everywhere  v.  529
+
+In  their  desire  to  please  the  paladin,
+
+The  townsmen  mingled  gold  and  ambergris,
+
+And  showered  them  on  the  travellers'  heads  for  joy,
+
+The  world  grew  full  of  mirth  and  precious  havings,
+
+Each  mansion's  door  and  roof  were  decked,  the  feet
+
+Of  Rustarn's  Arab  steeds  trod  drachms.     Men  saw
+
+None  mournful  in  Iran ;  throughout  the  line
+
+Of  march  steeds'  manes  dripped  saffron,  musk,  and  wine.
+
+
+§4
+
+How  SiydwusJi  arrived  from  Zdbulistdn
+
+When  news  reached  Shah  Kaiis  that  "  Siyawush'
+
+Is  coming  in  great  state,"  both  Giv  and  Tiis
+
+Went  forth  right  joyously  at  his  command
+
+With  escort,  trump,  and  drum.     The  chiefs  assembled,
+
+With  Rustam  on  this  hand  and  Tus  on  that,
+
+To  come  in  triumph  to  the  Shah,  for  they
+
+Came  with  that  fruiting  Sapling.     When  he  reached
+
+The  palace  of  the  Shah  a  shout  was  raised,
+
+And  access  given.     Slaves  with  censers  charged
+
+With  goodly  perfumes  gazed  upon  the  prince
+
+With  folded  arms.     Three  hundred  filled  the  court
+
+To  every  corner,  and  the  noble  Cypress
+
+Was  in  the  midst.     They  showered  gold  and  gems,
+
+And  called  down  blessings  on  him.     Siyawush,
+
+
+198  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+When  he  beheld  Kaus  upon  his  throne
+Of  ivory  and  crowned  with  brilliant  rubies,
+First  offered  praise,  did  reverence,  and  whispered
+To  earth  awhile.     He  then  approached  the  Shah,
+Who  clasped  him  closely.     Kai  Kaiis  saluted
+And  welcomed  Rustam  warmly,  seated  him
+Upon  the  turquoise  throne  and,  lost  in  wonder,
+Called  many  blessings  down  upon  his  son,
+V.  530        For  in  that  height,  that  stature,  and  that  Grace
+The  Shah  foresaw  a  future  and  much  fame.
+Thou  wouldst  have  said  of  one  so  young  yet  wise  : —
+"  His  soul  is  fed  on  wisdom."     So  the  Shah,
+With  face  upon  the  ground,  gave  many  praises
+To  God  and  said :  "  Great  Ruler  of  the  sky,
+The  Lord  of  understanding  and  of  love !
+All  good  things  corne  from  Thee,  but  most  of  all
+I  thank  Thee  for  my  child."
+
+The  Iranian  chiefs,
+
+Each  with  his  gift,  came  to  the  Shah  rejoicing ;
+They  marvelled  at  the  Grace  of  Siyawush,
+And  called  a  wealth  of  blessings  down  on  him.
+Then  by  the  Shah's  command  the  noblemen
+And  captains  of  the  host  attended  court,
+While  all  the  world  resorted  to  his  gardens,
+His  palace,  and  his  hall,  with  right  good  cheer.
+Men  called  for  wine  and  harp  and  minstrelsy.
+The  Shah's  festivities  were  such  as  none
+Had  held  before.     A  sennight  passed  in  joy.
+Upon  the  eighth  day  he  unlocked  his  treasures,
+And  gave  command  to  bring  all  manner  forth,
+As  swords  and  signet-rings,  with  thrones  and  casques,
+And  Arab  steeds  with  poplar- wooden  saddles,
+Bards,  coats  of  mail  for  war,  dinars,  and  purses
+Of  drachms,  brocade,  and  jewels  great  and  small,
+Except  the  crown,  it  was  not  time  for  that,
+But  all  the  rest  Kaus  gave  Siyawush
+
+
+KAI   KA&S  199
+
+With  many  promises  of  good  to  come.
+
+Seven  years'  probation  proved  his  noble  birth
+
+By  all  his  acts,  the  eighth  the  monarch  bade  him
+
+Assume  a  golden  crown  and  torque  and  girdle,
+
+And  had  a  patent  writ  on  painted  silk  v.  531
+
+As  royal  Grace  and  precedent  required.
+
+Since  Siyawush  was  worthy  of  a  throne,
+
+And  majesty,  the  Shah  bestowed  on  him
+
+All  Kuhistan,  so  called  of  yore,  the  same
+
+As  Ma  wara  'u'n-Nahr  its  modern  name.
+
+
+The  Death  of  the  Mother  of  Siyawush
+
+When  all  was  ordered  as  the  Shah  had  bidden
+
+The  prince's  mother  passed  away.     The  prince
+
+Came  from  his  throne  like  one  possessed,  and  raised
+
+His  lamentation  to  the  rolling  sky.
+
+He  rent  his  clothes,  threw  dust  upon  his  head,
+
+Mourned  o'er  her  sorely,  grievously  afflicting
+
+His  own  sweet  soul,  mourned  greatly  night  and  day,
+
+For  many  days  ne'er  smiled,  grieved  one  whole  moon,
+
+And  sought  no  respite  from  his  misery.
+
+Now  when  the  nobles  heard  thereof — such  men
+
+As  Tiis  and  Fariburz,  Giidarz  and  Giv,
+
+Born  princes  or  heroic  paladins —
+
+They  made  all  haste  to  come  to  Siyawush,
+
+Who  as  he  looked  on  them  groaned  grievously ;
+
+His  tears  burst  forth  afresh,  and  he  unlocked
+
+The  portal  of  the  anguish  of  his  heart.
+
+Gudarz,  when  he  beheld  the  prince's  sorrow,
+
+Gazed  on-  that  noble  Cypress  overwrought,
+
+And  weeping  said  to  him :  "  O  royal  prince  !
+
+Hear  mine  advice  and  think  no  more  of  grief.
+
+The  child  of  every  mother  will  depart ;
+
+
+200  THE    SHAHNAMA    OF  FIRDAUSI
+
+Not  one  of  them  can  'scape  the  clutch  of  fate.
+Although  thy  mother  is  a  memory  now,
+Mourn  not :  her  spirit  is  in  heaven."
+V.  532  By  dint
+
+Of  many  a  counsel,  many  a  soothing  strain,
+He  made  the  prince's  heart  itself  again.
+
+
+§6
+
+How  Suddba  fell  in  Love  with  Siyawush
+
+Time  passed,  the  Shah  still  joyed  in  Siyawush,
+Till  as  they  sat  one  day  Siidaba  entered,
+Beheld  the  prince's  face,  and  grew  distraught.
+Her  heart  throbbed,  "  she  is  wasted  to  a  thread,"
+Thou  wouldst  have  said,  "  or  ice  before  the  fire."
+She  bade  one  go  by  stealth  to  him  and  say  : —
+"  'Twould  cause  no  wonder  if  thou  shouldest  visit
+The  royal  bower  anon."
+
+The  envoy  went,
+
+But  noble  Siyawush  was  wroth  and  said : —
+"  Entice  me  not.     I  am  no  chamberer,
+Or  given  to  romances  and  intrigues."
+
+Another  day  at  dawn  Siidaba  sought
+The  Shah  and  said :  "  O  ruler  of  the  host !
+The  sun  and  moon  have  never  seen  thy  peer,
+Or  any  like  thy  son.     Let  all  the  world
+Rejoice  in  him ;  so  send  him  to  thy  bower
+To  see  his  sisters  and  thy  favourites.
+Tell  him :  '  Go  visit  oft  thy  sisters  there,
+Whose   hearts   are   full,  whose   cheeks   are   wet,   with
+
+yearning.'
+
+Then  will  we  pay  him  worship,  give  him  gifts,
+And  bring  the  tree  of  service  into  fruit."
+
+The  Shah  replied :  "  Thou  sayest  right ;  thou  hast
+A  hundred  mothers'  love  for  him."
+
+
+KAI  KAtiS  201
+
+He  called
+
+For  Siyawush  and  said :  "  The  blood  within
+Our  veins,  and  love,  will  show  themselves ;  moreover
+God  hath  so  made  thee  that  thou  art  beloved
+Of  all  beholders,  given  thee  pure  birth  ;
+None  e'er  was  mother-born  as  pure  as  thou ;
+But  what  availeth  blood-relationship
+To  those  who  see  thee  only  from  afar  ?
+Thy  sisters  and  Sudaba,  in  affection
+A  mother  to  thee,  are  within  the  bower.
+Go  now  and  visit  those  secluded  ones,
+And  stay  awhile  that  they  may  do  thee  honour."
+
+The  prince  beheld  his  father  with  amazement,
+Then  mused  awhile  and  strove  to  clear  himself,
+Suspecting  that  his  father  sought  to  prove  him ;
+For  Kai  Kaus  was  knowing  and  smooth-tongued,
+Wise,  shrewd  of  heart,  and  ready  to  distrust.
+The  prince  was  troubled,  communed  with  himself,
+And  in  the  end  determined.
+
+"  If,"  he  thought,
+
+"  I  go  Sudaba  will  talk  much  with  me,"
+Then  said :  "  The  Shah  hath  given  me  a  patent,
+A  throne,  and  crown.     From  where  the  lofty  sun
+Arising  maketh  dust  a  thing  of  price
+No  king  resembling  thee  in  goodness,  knowledge,
+Demeanour,  and  pursuits,  e'er  donned  the  crown.
+Point  me  the  way  to  sages,  men  of  leading,
+And  chiefs  approved ;  or  show  me  how  to  handle
+Spear,  mace,  or  bow  and  arrow,  midst  the  foe ;
+Or  be  it  king-craft  and  court-usages,
+Or  feast  and  harp,  or  wine  and  revellers ;
+But  in  the  women's  quarters  of  the  Shah
+What  shall  I  learn  ?     Shall  women  point  the  way
+To  knowledge  ?     Yet  if  so  the  Shah  commandeth
+My  custom  henceforth  is  to  visit  them."
+
+The  Shah  replied :  "  Be  happy,  0  my  son  !  v.  534
+
+
+202  THE  SHAHNAMA    OF  FIRDAUSI
+
+May  wisdom  rest  upon  thee !     I  have  heard
+
+But  seldom  such  fair  words.     Thy  brain  will  grow
+
+Since  thou  art  thus  amenable.     Dismiss
+
+All  ill  surmises  from  thy  heart,  away
+
+With  trouble,  and  enjoy  thyself.     Look  in
+
+Upon  the  children  just  for  once:  perchance
+
+It  will  divert  them  somewhat."
+
+"I  will  go,"
+
+Said  Siyawush,  "  to-morrow  and  perform
+The  Shah's  command.     Behold  I  stand  before  thee
+Devoted,  heart  and  soul,  to  do  thy  bidding.
+As  thou  requirest  so  will  I  behave,
+Thou  art  the  world-lord ;  I  am  but  a  slave."
+
+
+§7
+How  Siydicush  visited  Suddba
+
+One  named  Hirbad,  purged  heart  and  brain  and  soul
+
+From  evil,  never  left  the  Idol-house,
+
+And  kept  the  key.     The  Shah  commanded  him : —
+
+"  What  time  the  sun  shall  draw  the  sword  of  day
+
+Seek  Siyawush  and  further  his  commands.
+
+Instruct  Siidaba  to  present  to  him
+
+A  gift  of  gems  and  musk,  and  let  withal
+
+His  sisters  and  the  slaves  pour  emeralds
+
+And  saffron  over  him."
+
+When  Sol  o'ertopped
+
+The  mountains  Siyawush  approached  the  Shah
+And  did  obeisance.     When  they  had  conversed
+Awhile  in  private  Kai  Kaiis  instructed
+Hirbad,  then  said  to  Siyawush  :  "  Go  with  him
+And  be  prepared  to  look  on  something  new."
+
+The  twain  went  off  together  merrily
+Without  a  thought  of  care ;  but  when  Hirbad
+
+
+KAI  KAUS  203
+
+Held  up  the  veil  that  hung  before  the  door  v.  535
+
+The  mind  of  Siyawush  foreboded  ill.
+
+The  women  came  before  him  one  and  all
+
+In  festival  attire  to  gaze  at  him  ;
+
+The  house  was  full  of  musk,  dinars,  and  saffron,
+
+And  at  his  feet  they  strewed  drachms,  gold,  and  gems :
+
+The  floor  was  covered  with  brocade  of  Chin
+
+Enriched  with  lustrous  pearls.     Wine,  scent,  and  voice
+
+Of  minstrelsy  were  there,  all  heads  were  crowned
+
+With  jewels ;  'twas  like  Paradise,  replete
+
+With  lovely  forms  and  sumptuous  furniture.
+
+Now  Siyawush  on  entering  the  bower
+
+Beheld  a  brightly  shining,  golden  throne,
+
+With  patterns  wrought  in  turquoise,  royally
+
+Draped  with  brocade.     There  sat  moon-faced  Siidaba,
+
+Like  Paradise  itself  in  hue  and  perfume,
+
+Sat  like  the  bright  Canopus  of  Yaman,
+
+Her  head  adorned  with  ringlets,  curl  on  curl.
+
+Surmounted  by  a  lofty  crown  her  hair
+
+Descended  to  her  feet  in  musky  lassos.
+
+A  slave  stood  humbly  by  with  golden  slippers.
+
+When  Siyawush  appeared  within  the  veil
+
+Siidaba  hastened  to  descend  the  throne,
+
+Advanced  with  graceful  gait,  saluted  him,
+
+Embraced  him  long,  long  kissed  his  eyes  and  face,
+
+And  wearied  not  to  look  at  him.     She  said : —
+
+"  I  offer  praise  to  God  a  hundred  ways
+
+All  day  and  three  whole  watches  of  the  night,
+
+For  no  one  hath  a  son  resembling  thee :
+
+The  Shah  himself  hath  not  another  such."
+
+Now  Siyawush  knew  well  what  that  love  meant,
+And  that  such  fondness  was  not  in  the  way
+Of  God,  and,  since  it  was  unseemly  there,
+Went  quickly  to  his  sisters,  who  enthroned  him
+With  many  a  blessing  on  a  golden  seat.
+He  stayed  awhile,  then  went  back  to  the  Shah.  v.  536
+
+
+204  THE  SHAHNAMA    OF  FIRDAUSI
+
+The  bower  was  full  of  talk :  the  women  said : —
+"  Behold  the  head  and  crown  of  courtesy !
+'  He  is  not/  thou  hadst  said,  '  like  other  men :
+His  soul  diifuseth  wisdom.'  "
+
+Siyawush
+
+Came  to  his  father's  presence  and  spake  thus  :—
+"  I  have  beheld  the  veil  and  what  it  hid.
+All  good  things  in  the  world  are  thine,  no  need
+For  thee  to  vindicate  the  ways  of  God
+Who  dost  in  treasure,  scimitars,  and  troops
+Surpass  Hushang,  Jamshid,  and  Faridiin."
+
+The  Shah  joyed  at  the  words.     He  decked  his  palace
+Like  jocund  spring,  had  wine  and  harp  and  things
+Prepared,  and  banned  the  future  from  the  heart.
+
+That  night  he  went  among  his  dames  and  talked
+Thus  with  Sudaba :  "  Hide  not  what  thou  thinkest
+About  the  judgment  and  the  courtesy
+Of  Siyawush,  his  stature,  looks,  and  speech.
+Dost  thou  approve  of  him  and  is  he  wise  ?
+Deserveth  he  what  others  say  of  him  ? "
+
+Sudaba  answered :  "  Shah  and  people  never
+Saw  thy  like  on  the  throne,  and  who  is  there
+To  match  thy  son  ?  Why  speak  with  bated  breath  ? "
+
+The  Shah  said :  "  If  he  is  to  live  till  manhood
+We  must  protect  him  from  the  evil  eye." l
+
+She  said :  "  If  my  words  please,  and  if  thy  son
+And  I  are  minded  that  I  should  bestow
+A  wife  upon  him  out  of  his  own  kindred,
+Not  from  the  great  ones  that  are  round  about —
+A  consort  who  shall  bear  to  him  a  son
+Such  as  he  is  himself  among  the  mighty —
+Then  I  myself  have  daughters  like  to  thee,
+Begotten  of  thy  seed,  of  thy  pure  stock ;
+Or  should  he  take  a  child  of  Kai  Arash,
+Or  Kai  Pashin,  she  would  give  thanks  with  joy."
+
+1  Open  praise,  especially  of  the  young,  was  regarded  as  unlucky.
+
+
+KAI   KAUS  205
+
+
+He  said  to  her :  "  It  is  my  wish.     My  name  v.  537
+
+And  greatness  are  dependent  on  the  issue."
+
+Next  morning  Siyawush  approached  the  Shah,
+And  called  down  blessings  on  the  crown  and  throne.
+The  monarch  caused  all  strangers  to  depart
+And,  speaking  with  his  son  in  privacy,
+Said  thus :  "  I  have  in  me  a  secret  longing,
+Inspired  by  God,  the  Maker  of  the  world,
+That  thou  shouldst  leave  a  memory  of  thy  name,
+And  that  a  king  should  issue  from  thy  loins,
+That  as  my  face  refreshed  at  seeing  thee,
+Thy  heart  should  be  enlarged  at  sight  of  him.
+I  had  thy  horoscope  to  this  effect
+From  archimages  that  can  read  the  stars,
+That  from  thy  loins  a  king  shall  come  and  be
+
+Thy  monument.     Now  choose  thyself  a  wife
+
+Among  the  great  from  those  within  the  veil
+
+Of  Kai  Pashin  or  bower  of  Kai  Arash ;
+
+Make  all  things  ready  and  bestow  thy  hand."
+He  said  :  "  I  am  the  Shah's  slave  and  I  bow
+
+My  head  before  his  counsel  and  behest.
+
+His  choice  for  me  is  good,  whoe'er  she  be ;
+
+The  world-lord  is  a  monarch  o'er  his  slaves.
+
+Would  that  Siidaba  heard  it  not !  her  words
+
+Are  otherwise,  she  hath  no  mind  thereto ;
+
+I  cannot  talk  to  her  of  this  affair,
+
+And  have  no  business  in  that  bower  of  hers."
+The  Shah  smiled  at  the  words  of  Siyawush,
+
+Not  witting  of  the  quag  beneath  the  straw,
+
+And  said  to  him :  "  Thy  wife  must  be  thy  choice.
+
+Siidaba  least  of  all  need  be  considered,
+
+Her  words  are  full  of  loving-kindliness ;
+
+She  tendereth  thy  welfare."
+
+Siyawush
+
+Was  gladdened  by  the  words,  and  reassured
+
+Began  to  speak  the  world-king's  praise  and  pay
+
+
+206  THE   SHAHNAMA    OF  FIRDAUSI
+
+Him  reverence,  falling  down  before  the  throne,
+Yet  privily  Siidaba  with  her  schemes
+Still  vexed  and  troubled  him,  for  well  he  knew,
+And  his  skin  burst :  "  This  is  her  notion  too  ! "
+
+
+§8
+
+How  Siydwush  visited  the  Bower  the  second  Time
+
+V.  538       Another  night  thus  passed  and  starry  heaven
+Turned  o'er  dark  earth.     Siidaba  radiant
+Sat  on  her  throne  and  donned  a  diadem
+Of  rubies.     Then  she  summoned  all  her  daughters,
+Arrayed,  and  seated  them  on  golden  thrones.
+Before  her  stood  young  Idols :  thou  hadst  said  : —
+"  It  is  a  paradise."     The  moon-faced  lady
+Said  to  Hirbad  :  "  Go  say  to  Siydwush : —
+'  Afflict  thy  feet  and  show  thyself  to  me.' "
+
+Hirbad  made  speed  to  give  that  lover's  message
+To  Siyawush  who,  hearing,  stood  distraught,
+And  oft  invoked  the  Maker  of  the  world.
+He  sought  in  various  ways  but  found  no  help  ;
+He  trembled,  and  his  legs  shook  under  him ;
+Then  went  to  visit  her  and  saw  her  state,
+Her  face,  and  diadem.     She  with  her  head
+And  tresses  decked  with  gems  rose  at  his  coming,
+Gave  up  the  throne  of  gold  to  him  and,  standing
+Slavelike,  displayed  her  Idols — gems  uncut.
+"Behold  this  throne-room,"  thus  she  said,  "and  all
+These  handmaids  with  their  golden  coronets  !
+They  all  are  youthful  Idols  of  Taraz,
+Whom  God  hath  formed  of  modesty  and  charms.
+If  any  one  of  them  delighteth  thee,
+Survey  her  looks  and  form  from  head  to  foot."
+While  Siyawush  was  glancing  lightly  round
+There  was  not  one  who  dared  to  catch  his  eye,
+
+
+KAl   KAUS  207
+
+And  as  they  talked  they  said :  "  The  moon  itself
+Would  not  presume  to  gaze  upon  this  prince."
+
+When  each,  in  speculation  on  her  chance,  v.  539
+
+Had  gone  back  to  her  seat,  Sudaba  said : —
+"  Why  dost  thou  keep  thy  purpose  to  thyself  ?
+Wilt  thou  not  tell  me  what  is  thy  desire,
+
+0  thou  whose  looks  are  fairy-like  with  Grace  !
+For  all  are  struck  who  catch  a  glimpse  of  thee,
+Preferring  thee  to  any  ?     Ponder  well
+Which  of  these  beauties  is  the  worthiest."
+
+But  Siyawush  was  moved  and  answered  not,
+For  thoughts  like  these  arose  in  his  pure  heart : —
+"  Far  better  hold  my  pure  heart's  funeral  rites
+Than  take  a  consort  from  among  my  foes.
+
+1  have  been  told  by  famous  warriors
+Of  all  the  doings  of  Hamavaran,1
+How  he  entreated  the  Iranian  king,
+
+And  how  he  raised  dust  from  the  Iranian  chiefs.
+
+This  treacherous  Sudaba  is  his  daughter,
+
+And  will  not  leave  our  kindred  skin  or  marrow."
+
+He  opened  not  his  lips  to  make  reply.
+The  fairy-faced  one  raised  her  veil  and  said : —
+"  If  one  should  see  the  new  moon  and  the  sun
+Here  upon  this  new  throne,  it  would  not  be
+A  marvel  if  the  moon  should  be  despised,
+And  thou  shouldst  press  the  sun  in  thine  embrace.
+No  wonder  if  the  man  that  seeth  me
+Upon  the  ivory  throne,  with  rubies  crowned
+And  turquoise,  should  not  look  upon  the  moon,
+But  think  all  other  Beauties  beautiless.
+If  thou  wilt  make  a  compact  with  me  now,
+Turn  not  away  but  set  my  heart  at  rest,
+One  of  my  youthful  daughters  present  here
+Will  I  make  stand  before  thee  like  a  slave.
+
+i  i.e.  the  king  of  Hjtmjtvanln — so  King  John,  Act  I.  Sc.  i.  :  "  Now  say,
+Chatillon,  what  would  France  with  us  ? "
+
+
+2o8  THE   SHAHNAMA    OF  FIRDAUSI
+
+So  make  a  compact  with  me  now  by  oath,
+And  disregard  no  jot  of  what  I  say,
+That,  when  the  Shah  departeth  from  the  world,
+Thou  wilt  be  his  memorial  with  me,
+Wilt  never  suffer  me  to  come  to  harm,
+But  hold  me  dear  as  life.     And  now  behold  !
+v>  540       I  stand  before  thee  and  I  give  to  thee
+Myself  and  my  sweet  life.     I  will  fulfil
+Whate'er  thou  asketh  me — thy  whole  desire —
+And  let  my  head  be  taken  in  thy  toils."
+
+She  hung  upon  his  neck,  gave  him  a  kiss,
+And  of  a  truth  forgot  her  modesty.
+He  blushed  ;  the  very  lashes  of  his  eyes
+Were  red  with  shame.     He  thought :  "  From  this  div's
+
+work
+
+Now  may  the  Lord  of  Saturn  keep  me  far  !
+I  will  not  treat  my  sire  disloyally,
+Nor  will  I  make  a  league  with  Ahriman.
+If  I  speak  coldly  to  this  wanton  dame
+Her  heart  will  seethe  ;  she  will  grow  hot  with  rage,
+Make  practice  of  some  secret  sorcery,
+And  cause  the  world-lord  to  believe  in  her.
+'Tis  best  to  speak  her  fair  and  keep  her  full
+Of  tenderness  and  longing."
+
+Then  he  said  :—
+
+"  Thou  hast  not  any  equal  in  the  world,
+And  art  the  rival  of  the  moon  itself
+In  beauty :  thou  art  for  the  Shah  alone.
+As  for  myself  thy  daughter  will  suffice ;
+None  other  must  be  mine.     Consent  to  this,
+Propose  it  to  the  monarch  of  Iran,
+And  mark  the  answer  that  thou  wilt  receive.
+I  will  demand  her  and  will  covenant,
+And  give  a  pledge  before  thee  with  my  tongue,
+That  till  her  stature  equalleth  mine  own
+I  will  not  think  of  any  one  besides.
+
+
+KAI  KAUS  209
+
+For  what  thou  askest  further — since  my  face
+
+Inspireth  in  thy  soul  a  love  for  me —
+
+God's  Grace  hath  made  me  thus,  0  thou  most  fair !
+
+Conceal  thy  secret ;  speak  of  it  to  none :
+
+For  me  too  silence  is  the  only  course.
+
+Thou  art  the  chief  of  ladies  and  a  queen,
+
+And  I  will  think  of  thee  as  mother  only."
+
+He  spake  these  words  and  rose  to  go,  but  love
+Still  filled  her  wicked  soul.     When  next  Kaus,
+The  monarch,  visited  the  women's  bower,  v.  541
+
+Siidaba  looked  and  saw  him.     She  appeared
+Before  the  Shah  with  news  of  what  had  passed,
+And  spake  thus  of  the  case  of  Siyawush : —
+"  He  came  and  looked  all  round  the  hall.     I  made
+A  bevy  of  the  black-eyed  Idols  there.
+The  hall  was  such  with  all  the  fair-faced  girls
+That    thou    hadst   said:    'Love    raineth    from    the
+
+moon ! '
+
+But,  save  my  daughter,  he  approved  of  none :
+No  other  fair  was  precious  in  his  eyes."
+
+The  Shah  was  so  rejoiced  that  thou  hadst  said : —
+''  The  moon  itself  hath  come  to  his  embrace ! "
+He  oped  his  treasury's  door :  a  wealth  of  gems,
+Brocade  of  cloth  of  gold,  and  golden  girdles,
+As  well  as  bracelets,  crowns,  and  signet-rings,
+With  thrones  and  torques  such  as  the  noble  wear,
+And  divers  kinds  of  treasures  were  displayed,
+So  that  the  world  was  filled  with  things  of  price.
+The  Shah  then  bade  Siidaba :  "  Keep  all  these
+For  Siyawush.     When  he  hath  need  of  them,
+Give  them  to  him  and  say :  '  This  gift  is  small ;
+Thou  shouldest  have  two  hundred  times  as  much.' "
+
+Siidaba  looked  in  wonder.     Full  of  guile
+She  thought :  "  If  Siyawush  complieth  not,
+Then  he  may  take  my  life  and  welcome  too.
+Each  practice  good  and  evil,  which  they  use
+
+VOL.  ii.  o
+
+
+210  THE   SHAHNAMA    OF  FIRDAUSl
+
+By  stealth  or  openly  throughout  the  world,
+Will  I  employ ;  and,  should  he  slight  me,  bring
+A  charge  accusing  him  before  the  king."
+
+
+§9
+
+How  Siydwusli  visited  the  Bower  the  third  Time
+
+Stidaba  sat  enthroned,  adorned  with  earrings
+
+And  chaplet  of  wrought  gold  upon  her  head.
+
+She  called  the  prince  and  said,  as  they  conversed : —
+
+"  The  Shah  hath  set  these  treasures  forth,  and  none
+
+Hath  seen  such  crowns  and  thrones.     The  sum  of
+
+gifts
+v.  542       Is  past  all  reckoning :  to  carry  them
+
+Thou  wouldst  require  two  hundred  elephants,
+
+And  I  will  give  to  thee  rny  daughter  too.
+
+Now  look  upon  my  face  and  head  and  crown  :
+
+What  pretext  hast  thou  to  reject  my  love,
+
+And  slight  my  face  and  person  ?     I  am  dead
+
+Not  seeing  thee ;  I  cry  out,  toss,  and  suffer :
+
+The  light  of  day  is  hidden  by  mine  anguish,
+
+My  sun  is  turned  to  lapis-lazuli.
+
+And  now  for  seven  years  this  love  of  mine
+
+Hath  made  my  face  to  run  with  tears  of  blood.
+
+Make  me  a  happy  woman — none  shall  know —
+
+Vouchsafe  to  me  a  day  of  youth  again.
+
+More  than  the  great  king  hath  bestowed  on  thee
+
+Will  I  prepare  thee — thrones,  crowns,  diadems ;
+
+But  if  thou  turn  aside  from  my  behest,
+
+And  if  thy  heart  come  not  to  my  relief,
+
+I  will  destroy  thy  hope  of  ever  reigning
+
+And   make   both  sun  and  moon   turn   black   before
+
+thee."
+
+"  Now  God  forbid,"  he  said,  "  that  I  should  give
+Religion  to  the  winds  for  passion's  sake,
+
+
+KAI   KAUS  211
+
+That  I  should  treat  my  sire  disloyally,
+
+And  be  a  coward  and  a  fool  at  once  !
+
+Thou  art  his  wife — the  sunlight  of  his  throne —
+
+And  shouldst  not  perpetrate  a  crime  like  this."
+
+She   rose   in   wrath  and  hate,  clutched   him   and
+
+cried : —
+
+"  I  told  thee  my  heart's  secret,  but  thine  own
+Was  hidden !     In  thy  folly  thou  dost  aim
+To  ruin  me  and  show  the  wise  my  shame."
+
+
+§  10
+How  Suddla  beguiled  Kcius
+
+She  rent  her  robes  and  tore  her  cheeks.     A  cry
+
+Rose  from  her  bower,  her  clamour  reached  the  street.
+
+The  palace  was  all  hubbub ;  thou  hadst  said : —  v  543
+
+"  'Tis  Resurrection-night ! "     News  reached  the  Shah,
+
+Who  hurried  from  the  imperial  golden  throne
+
+Toward  the  bower  in  his  solicitude,
+
+And  when  he  found  Siidaba  with  rent  cheeks,
+
+And  all  the  palace  full  of  babblement,
+
+He  questioned  every  one  in  deep  concern,
+
+Not  knowing  what  that  Heart  of  stone  had  done.
+
+Siidaba  wailed  and  wept  before  him,  tore
+
+Her  hair,  and  told  him  :  "  Siyawush  approached
+
+My  throne.     He  caught  me  in  his  arms  and  cried : —
+
+*  My  soul  and  body  brim  with  love  for  thee.
+
+Oh !  why  art  thou  so  cold  to  me,  my  fair !
+
+For  thou  art  all  I  long  for,  thou  alone  ? '
+
+This  is  the  truth — I  am  constrained  to  tell  thee : —
+
+'Twas  he  that  threw  the  crown  from  my  black  locks,
+
+And  rent  the  robe  upon  my  bosom  thus  ! "
+
+The  Shah  was  troubled,  asked  her  many  questions,
+And  thought :  "  If  she  saith  sooth,  and  if  she  hath
+
+
+212  THE  SHAHNAMA    OF  FIRDAUSI
+
+No  evil  end  in  view,  I  must  cut  off
+The  head  of  Siyawush :  that  will  unlock
+These  bonds  of  villainy."
+
+What  saith  the  sage  ?
+"  Not  lust  but  blood  our  thoughts  must  now  engage."
+
+The  inmates  of  the  bower,  those  well  advised
+And  noble  servants  faithful  to  their  lord,
+He  bade  withdraw  and,  sitting  on  the  throne
+Alone,  called  for  Siidaba  and  his  son,
+And  wisely  said  to  him :  "  I  needs  must  know
+This  secret.     'Twas  not  thou  but  I  that  wrought
+The  ill.     I  suffer  for  my  thoughtless  words :
+Why  did  I  call  thee  to  the  women's  house  ?
+Now  I  am  grieved  that  thou  art  thus  involved.
+Let  me  have  all  the  truth,  show  me  its  face,
+And  say  what  passed."
+
+544  The  prince  related  all,
+
+And  how  he  had  been  wrought  on  by  Siidaba.
+She  cried :  "  It  is  a  lie.     Of  all  the  Idols
+It  was  my  person  only  that  he  sought ;
+I  told  him  what  the  king  of  earth  proposed
+To  give  him  publicly  and  privily,
+Told  him  about  my  daughter  and  the  crown,
+The  precious  things,  brocade,  and  treasure-hoards.
+I  told  him :  '  I  will  add  as  much  again,
+And  give  my  daughter  all  that  I  possess.'
+He  said  to  me :  '  I  do  not  want  the  goods,
+And  do  not  mean  to  see  thy  child.     Of  all
+The  world,'  he  said, '  I  need  but  thee — no  more.
+No  wealth  or  personage  availeth  aught
+Without  thine  own  self.'     Then  he  tried  to  force  me,
+And  handled  me  with  hands  as  hard  as  stones.
+I  would  not  grant  his  wishes.     All  my  hair
+He  tore  and  caused  these  scratches  on  my  face.
+I  am  with  child,  0  monarch  of  the  world  !
+By  thee,  but  he  was  near  to  killing  it
+
+
+KAI  KAUS  213
+
+With  all  his  struggles,  and  the  world  was  strait
+And  dark  before  me."
+
+Then  the  great  king  thought : —
+The  testimony  of  them  both  is  worthless,
+And  this  is  not  a  case  for  instancy,
+Because  a  heart  in  straits  perverteth  wisdom.
+I  needs  must  first  investigate  the  matter,
+And  when  my  heart  is  calm  it  will  bear  witness ;
+I  shall  discover  which  is  in  the  wrong,
+And  which  of  them  deserveth  punishment."
+
+He  sought  all  means  of  finding  out  the  truth,
+And  first  he  smelt  the  hands  of  Siyawush,
+His  breast,  his  arms,  his  head,  and  all  his  person.
+A  scent  of  wine,  rose-water,  and  fine  musk
+Was  on  Siidaba,  but  on  Siyawush
+Was  none,  nor  any  sign  that  he  had  touched  her.
+The  Shah  was  troubled,  he  disgraced  Siidaba,
+And  sorely  vexed  said  to  himself :  "  No  course  v.  545
+
+Remaineth  but  to  put  her  to  the  sword."
+
+Then  he  bethought  him  of  Hamavaran,
+How  tumult,  strife,  and  battle  would  ensue ;
+Next,  how,  when  he  was  lying  there  in  bonds
+And  none  of  all  his  kin  and  friends  was  near,
+Siidaba  was  his  handmaid  day  and  night,
+And  faced  the  trouble  uncomplainingly.
+His  next  thought  was :  "  She  loved  me  wholly  once :
+I  must  forgive  her  everything,"  and  then
+That  he  had  children  by  her,  and  he  counted
+The  anguish  of  the  children  no  light  thing.
+But  Siyawush  was  blameless  in  the  case,
+The  monarch  recognised  his  probity,
+And  said  to  him :  "  Be  not  concerned  hereat ;
+Be  prudent  and  consider  well  thy  going.
+Talk  not  about  this  thing,  tell  it  to  none ;
+The  matter  must  be  kept  from  every  one."
+
+
+214  THE   SHAHNAMA    OF  FIRDAUSI
+
+
+Row  Siiddba  and  a  Sorceress  devised  a  Scheme
+
+Sudaba,  conscious  that  she  was  disgraced
+
+And  that  the  Shah's  heart  was  estranged  from  her,
+
+Sought  in  her  evil  case  some  remedy,
+
+And  set  anew  the  tree  of  her  revenge.
+
+She  had  a  woman  in  the  bower,  adept
+
+In  charms  and  spells,  deceit  and  artifice,
+
+And  one  moreover  who  was  great  with  child,
+
+Near  to  the  time  of  her  delivery.
+
+Sudaba  told  her  all  and  sought  her  aid,
+
+But  said  :  "  First  give  a  pledge  of  thy  good  faith."
+
+Sudaba  took  her  pledge,  gave  her  much  gold,
+And  said  :  "  Make  mention  of  this  thing  to  none.
+Prepare  a  drug  that  thou  mayest  make  abortion,
+Remain  concealed,  and  keep  my  secret  close.
+It  may  be  that  my  coil  of  many  lies
+May  gain  some  credit  through  this  babe  of  thine,
+For  I  will  tell  Kails  :  '  This  is  my  child,
+Thus  murdered  by  the  hand  of  Ahriman  !  '
+V.  546       This,  it  may  be,  will  baffle  Siyawush  ;
+So  seek  a  way  to  compass  it.     If  thou
+Refusest  then  my  lustre  with  the  Shah
+Is  dimmed  :  I  shall  no  more  approach  the  throne."
+
+The  woman  said  to  her  :  "  I  am  thy  slave,
+And  bow  my  head  to  thy  command  and  will."
+
+When  it  was  night  the  woman  took  the  drug
+And  gave  birth  to  a  brood  of  Ahrimans  —
+Two  children  as  they  had  been  div-begotten  :
+What  should  a  sorceress  and  a  div  produce  ?
+Then,  saying  nothing  to  her  servitors,1
+Sudaba  had  a  golden  salver  brought
+Whereon  she  laid  those  brats  of  Ahriman,
+
+1  Reading  with  P.
+
+
+KAI  KAUS  215
+
+And  shrieked  and  flung  herself  upon  a  couch.
+
+She  hid  the  woman  and  retired  to  bed :
+
+Her  wailing  reached  the  palace  from  her  chamber.
+
+Then  all  the  slaves  within  the  palace  came
+
+In  haste  before  Sudaba,  they  beheld
+
+Two  infants  lying  dead  upon  the  salver,
+
+And  cries  rose  o'er  the  palace  and  o'er  Saturn.
+
+The  sound  of  wailing  reached  and  woke  Kaiis
+
+Who  listened  trembling,  asked,  and  heard  how  fortune
+
+Had  dealt  with  his  fair  spouse.     Sleepless  and  anxious
+
+He  rose  at  dawn,  went  in  and  saw  Sudaba
+
+Prostrate,  the  women  frantic,  and  two  babes
+
+In  evil  plight,  flung  on  a  golden  salver !
+
+Sudaba  rained  the  water  from  her  eyes,
+
+And  said :  "  Behold  this  bright  sun — Siyawush  !
+
+I  often  told  thee  of  his  evil  deeds,
+
+But  thou  didst  foolishly  believe  his  words."
+
+The  heart  of  Shah  Kaiis  was  filled  with  doubt,
+He  went  his  way,  remained  a  while  in  thought,
+Then  said :  "  What  remedy  shall  I  apply  ?
+I  must  not  treat  the  case  with  levity."
+
+
+§    12
+Hoiv  Kdus  inquired  into  the  Matter  of  the  Babes
+
+Kaiis  then  summoned  all  the  astrologers  V.  547
+
+Before  him,  welcomed  them,  assigning  each
+
+A  golden  throne,  and  spake  about  Sudaba,
+
+And  of  the  warfare  with  Hamavardn,
+
+That  they  might  have  a  knowledge  of  her  case,
+
+And  understand  her  conduct  thoroughly ;
+
+He  also  spake  at  large  about  the  children,
+
+But  kept  his  own  suspicions  to  himself.
+
+They  then  took  planispheres  and  astrolabes,
+
+And  having  spent  a  sennight  on  the  business
+
+
+216  THE   SHAHNAMA    OF  FIRDAUSI
+
+Said :  "  How  can  wine  be  in  a  cup  which  thou
+
+Hast  filled  with  poison  ?     These  are  spurious  children,
+
+Not  from  this  mother  and  the  monarch's  loins :
+
+We  should  have  found  them  on  the  planisphere
+
+With  ease  if  they  had  been  of  royal  race,
+
+But  know  that  heaven  revealeth  not  their  secret,
+
+Nor  is  this  wonder  of  the  earth."
+
+They  told
+
+The  Shah  and  court  of  that  foul,  wicked  woman.
+Siidaba  wailed  and  oried  aloud  for  justice,
+She  called  upon  the  world-lord  for  redress,
+And  said  :  "  I  was  the  comrade  of  the  Shah
+When  he  had  suffered  and  had  lost  the  throne.
+My  heart  is  tortured  for  my  murdered  babes,
+And  ever  and  anon  I  swoon  away."
+
+v,  548  The  Shah  replied :  "  O  woman  !  hold  thy  peace !
+
+Why  dost  thou  utter  such  offensive  words  ? "
+
+He  gave  commandment  that  the  troops  on  guard
+Should  search  the  city  and  the  neighbouring  parts,
+And  bring  the  wicked  woman  to  the  court.
+The  experienced  searchers  soon  discovered  her,
+Haled  the  unhappy  woman  through  the  streets,
+And  carried  her  in  shame  before  the  Shah,
+Who  questioned  her  with  kindness,  held  out  hopes,
+And  made  her  promises  for  many  days,
+Howbeit  she  confessed  not  anything.
+
+The  noble  Shah  was  still  dissatisfied,
+And  gave  command  to  bear  her  forth  and  use
+All  means  and  work  by  spells,  and  in  the  end
+To  cut  her  down  the  middle  with  a  saw
+If  she  persisted,  as  is  common  justice.
+They  bore  her  from  the  palace  of  the  Shah,
+And  threatened  her  with  sword  and  stake  and  pit.
+The  sorceress  answered :  "  I  am  innocent.
+What  can  I  say  before  this  noble  court  ? "
+
+They  told  the  monarch  of  the  woman's  words,
+
+
+KAI  KAUS  217
+
+And  added :  "  God  alone  doth  know  the  truth."
+
+The  great  king  bade  Sudaba  come  to  him ;
+The  readers  of  the  stars  re-said  their  say : —
+"  Both  babes  are  clearly  children  of  the  witch,
+Begotten  from  the  loins  of  Ahriman."
+
+Sudaba  said :  "  They  know  a  different  tale,
+But  dare  not  speak  for  fear  of  Siyawush,
+Who  privily  hath  tied  them  down  to  silence.
+The  lions  quake  in  troops  for  fear  of  him,  v-  549
+
+This  chieftain  of  the  elephantine  form,
+Who  hath  the  strength  of  eighty  elephants,
+And  stayeth  at  his  will  the  river  Nile !
+A  noble  host,  a  hundred  thousand  strong,
+Take  flight  before  him  in  the  ranks  of  war !
+How  shall  I  stand  against  him  ?     In  good  sooth
+Mine  eyes  will  evermore  weep  tears  of  blood.
+What  have  the  readers  of  the  stars  to  do
+Save  his  command  and  seek  his  approbation  ?
+While  as  for  thee — thou  mournest  not  thy  babes,
+Albeit  they  are  thine  as  much  as  mine.
+If  thou  believest  such  a  foolish  charge
+I  leave  the  question  to  the  other  world."
+
+The  sun  withdraweth  from  the  river  Nile
+Less  water  than  Sudaba  shed  in  tears.
+The  Shah  was  sorely  troubled  at  her  speech ;
+He  joined  with  her  in  weeping  bitterly,
+And  then,  and  with  a  broken  heart,  dismissed  her.
+He  brooded  constantly  upon  the  matter,
+And  said :  "  I  will  investigate  it  throughly,
+And  find  out  what  the  bottom  of  it  is."
+
+He  summoned  all  the  archmages  of  the  realm,
+And  spake  about  Sudaba.     One  replied  : —
+"  The  monarch's  grief  will  not  remain  a  secret.
+If  thou  wouldst  clear  up  what  hath  been  alleged
+On  each  side,  throw  a  stone  and  break  the  pitcher,
+Because,  however  dear  his  son  may  be,
+
+
+218  THE   SHAHNAMA    OF  FIRDAUSI
+
+The  Shah's  heart  will  be  still  disturbed  by  thoughts,
+While  this  king's  daughter  of  Hamavaran
+Hath  made  thee  doubtful  on  the  other  side.
+Such  being  then  the  statements  of  the  pair
+Let  one  of  them  be  made  to  pass  through  fire,
+Because  high  heaven  ordaineth  that  no  harm
+Shall  in  this  way  befall  the  innocent."
+
+The  world-lord  called  Sudaba,  seated  her
+With  Siyawush  to  parley  oh  the  case,
+And  said  at  last :  "  My  heart  and  my  shrewd  mind
+Trust  neither  of  you ;  fire  will  show  the  truth,
+And  quickly  make  the  guilty  infamous."
+v-  55o  Sudaba  answered  :  "  What  I  said  is  true ;
+
+I  showed  the  Shah  two  babes  untimely  born :
+What  greater  outrage  can  there  be  than  mine  ?
+'Tis  Siyawush  that  ought  to  right  himself:
+He  sought  to  ruin  me  and  did  the  wrong."
+
+The  king  of  earth  then  asked  his  youthful  son  : —
+"  What  seemeth  good  to  thee  as  touching  this  ?  "
+
+He  answered :  "  Such  a  charge  is  worse  than  Hell !
+I  would  pass  o'er  a  mountain  all  aflame,
+'Twere  baseness  not  to  rid  me  of  this  shame."
+
+
+§  13
+
+How  Siyawush  passed  through  the  Fire
+
+The  thoughts  of  Kai  Kaus  ran  on  them  both  ;
+
+He  said :  "  If  either  prove  a  profligate
+
+Will  any  henceforth  call  me  Shah  ?     Moreover
+
+My  son  and  wife  are  blood  and  brain  to  me ;
+
+Whom  then  will  this  perplexing  business  profit  ?
+
+Still  it  is  best*to  purify  my  heart
+
+From  foul  surmise  and  take  this  dreadful  course.
+
+How  well  the  moralizing  monarch  said : —
+
+
+KAI   KAUS  219
+
+'  If  thou  art  faint  of  heart  play  not  the  king  ! '"  l
+
+He  gave  instructions  to  his  minister
+To  have  a  hundred  caravans  of  camels
+Brought  from  the  plain.     These  went  to  gather  firewood,
+While  all  the  people  of  Iran  looked  on,
+Till  two  huge  mountains  rose  that  might  be  seen
+Two  leagues  away  ;  so  should  a  key  be  found
+To  loose  the  bonds  of  bale,  so  much  he  yearned  v-  55  *
+
+To  learn  the  truth  amid  this  fraud  and  wrong.
+
+When  thou  hast  heard  the  story  thou  wilt  find
+Thyself  disposed  to  shun  all  womankind  ;
+Seek  none  of  them  except  the  virtuous ;  she
+That  worketh  ill  will  bring  disgrace  on  thee.
+
+They  piled  two  mounts  of  firewood  on  the  plain
+While  all  the  folk  looked  on. .  A  path  was  left
+Such  that  a  horseman  armed  might  hardly  pass
+Between  the  piles.     This  done,  the  glorious  Shah
+Bade  pour  black  naphtha  over  all  the  wood.
+Came  ten  score  men  to  light  and  blow  the  fire,
+And  thou  hadst  said  :  '  The  day  is  turned  to  night.'
+When  first  they  blew  there  was  a  mass  of  smoke,
+But  presently  the  tongues  of  fire  rose  fast ;
+The  earth  became  more  radiant  than  the  sky,
+The  people  shouted  and  the  flames  ascended.
+All  that  were  on  the  plain  were  scorched  and  wept
+To  see  the  cheery  face  of  Siyawush,
+Who  came  before  his  sire  with  golden  helmet,
+And  raiment  all  of  white.     His  mien  was  tranquil,
+His  face  all  smiles,  his  heart  all  hopefulness ;
+His  black  steed's  hoofs  sent  dust  up  to  the  moon.
+The  prince  then  sprinkled  camphor  o'er  himself,
+So  bodies  are  prepared  for  burial,2
+
+1  Faridun.     See  vol.  i.  p.  188.
+
+2  "Alp-Arselan  determined  not  to  survive  defeat.     He  made  a  display
+of  pious  resignation  to  his  fate,  ...  by  clothing  himself  in  a  white  robe,
+or  shroud,  perfumed  with  musk." — MHP,  i.  211.
+
+
+220  THE   SHAH  NAM  A    OF  FIRDAUSt
+
+And  lighting  from  his  charger  did  obeisance.
+The  Shah  was  shame-faced  and  his  words  were  kind.
+"  Be  not  discomfited,"  said  Siyawush,
+"  That  fortune  taketh  such  a  turn  as  this.
+I  am  dishonoured :  such  a  state  is  ruin.
+If  I  am  innocent  I  shall  escape,
+While  if  in  fault  the  Maker  will  not  heed  me ;
+V.  552       But  by  the  power  of  God  who  giveth  good
+I  shall  not  feel  the  heat."
+
+As  he  drew  near
+
+The  flames  he  prayed  the  Judge  that  hath  no  needs : —
+"  Grant  me  a  passage  through  this  mount  of  fire,
+And  free  me  from  my  sire's  misprision."
+
+Thus
+
+He  testified  the  anguish  of  his  soul,
+Then  urged  his  black  steed  on  like  smoke.     A  wail
+Ascended  from  the  city  and  the  waste,
+For  all  the  people  grieved  at  what  was  done.
+Siidaba  heard  the  wailing  on  the  plain,
+Went  to  the  palace-roof,  descried  the  blaze,
+Wished  ill  to  him,  and  babbled  feverishly.
+The  people  fixed  their  eyes  upon  Kaiis ;
+Their   tongues  wagged  freely   and   their  hearts   were
+
+wroth.
+
+Meanwhile  the  prince  so  handled  his  black  charger
+That  thou  hadst  said :  "  His  steed  took  to  the  fire."
+From  every  side  the  flames  closed  o'er  his  head,
+And  none  could  see  his  helmet  or  his  horse,
+While  all  the  plain  wept  tears  of  blood  and  asked : —
+"  How  will  he  ever  issue  from  the  flames  ? "
+
+The  noble  hero  nathless  reappeared,
+With  rosy  cheeks  and  smiles  upon  his  lips.
+A  roar  went  up  as  men  caught  sight  of  him  :
+They  cried :  "  The  young  Shah  cometh  from  the  fire ! "
+
+He  came  with  horse  and  raiment  such  that  thou
+Hadst  said :  "  He  beareth  jasmine  in  his  breast."
+
+
+KAI   KAUS  221
+
+Had  flame  been  water  he  had  not  been  wetted,
+His  garments  would  have  holden  none  of  it ;
+For  when  all-holy  God  doth  so  vouchsafe
+The  breath  of  fire  is  even  as  the  wind.
+The  horsemen  of  the  host  urged  on  their  steeds,
+While  all  the  people  on  the  plain  threw  drachms
+Before  him ;  there  was  universal  joy
+Among  the  mighty  and  the  mean  alike
+
+As  each  to  other  gave  the  gladsome  tidings : —  v.  553
+
+"  God  hath  shown  mercy  to  the  innocent."
+Meanwhile  Sudaba  in  her  frenzy  plucked
+Her  hair,  wept  bitterly,  and  tore  her  cheeks.
+When    all    unsmirched,    unsinged,    unstained,    un-
+
+led,
+
+The  guiltless  Siyawush  approached,  his  sire
+And  all  the  warriors  of  the  host  alighted  ;
+But  Siyawush  with  cheek  upon  the  ground
+Gave  thanks  to  God  that  he  had  been  delivered
+Out  of  that  burning  mount,  and  had  confounded
+His    foes'    device.      Then    said   the   Shah :    "  Brave
+
+youth,
+
+Of  stainless  lineage  and  ardent  soul  3
+None  but  a  holy  mother  bringeth  forth
+A  son  like  thee,  and  such  should  rule  the  world."
+
+Then  clasped  he  Siyawush  against  his  breast,
+Excused  his  own  ill  conduct,  and  in  state
+Moved  palace-ward.     He  took  his  seat  rejoicing,
+And  placed  the  royal  crown  upon  his  head.
+He    had    wine  brought,   the    minstrels  called,  and
+
+granted
+
+The  prince  whate'er  he  would.    The  Shah  prolonged
+Those  revels  for  three  days :  till  they  were  o'er
+No  lock  or  key  was  at  the  treasury-door.
+
+
+222  THE   SHAHNAMA    OF  FIRDAUSI
+
+
+How  Siydwush  begged  Buddha's  Life  of  his  father
+
+Katis  the  fourth  day  sat  upon  the  throne
+Of  kings  ;  an  ox-head  mace  was  in  his  hand.
+Fierce  in  his  wrath  he  had  Sudaba  summoned
+Before  him,  told  her  what  had  passed,  and  said  :  —
+"  Thou  art  a  shameless  woman  !     Thou  hast  wrought
+Enough  of  ill  and  grieved  me  to  the  heart.
+What  part  is  this  that  thou  hast  played  throughout
+In  treacherously  seeking  my  son's  life,
+In  causing  him  to  be  exposed  to  fire,
+And  practising  such  witchcraft  ?     No  excuses
+Will  now  avail  thee  ;  go  and  get  thee  ready  ;
+Thou  art  not  fit  to  live.     The  punishment
+For  such  a  crime  as  this  is  to  be  hanged."
+-  554  She  said  :  "  0  Shah  !  forbear  to  heap  up  fire
+
+Upon  my  head.     If  I  perforce  must  lose  it
+In  vengeance  for  the  wrong  which  I  have  .  .  .  suffered,
+Command  ...  I  am  resigned.     Yet  put  revenge
+Away.     Let  Siyawush  declare  the  truth,
+And  quench  the  fires  within  thee.     He  hath  used
+All  ZaPs  own  sorceries  herein,  and  therefore
+The  fierce  flames  harmed  him  not."
+
+She  said  withal
+
+To  Siyawush  :  "  Thou  usest  witchcraft  still  !
+Shall  not  thy  back  of  impudence  be  bent  ?  "
+
+The  great  Shah  asked  the  Iranians  :  "  For  the  evil
+That  she  hath  done  by  stealth,  what  shall  I  do  ?
+How  shall  I  punish  her  ?  "
+
+All  did  obeisance,
+
+And  said  :  "  The  punishment  for  her  is  death  :
+She  ought  to  suffer  for  her  evil  deeds."
+
+He  bade  the  deathsman  :  "  Hang  her  in  the  street
+
+
+KAI   KAUS  223
+
+Upon  the  gibbet  and  be  pitiless."  x
+
+At  her  abandonment  the  women  wailed,
+And  Shah  Kaiis  was  sorrowful  of  heart;
+He  strove  to  hide  it  but  his  cheeks  were  pale.
+"  Let  not  thy  heart,"  said  Siyawush,  "  be  troubled,
+But  pardon  for  my  sake  Sudaba's  fault ;
+She  may  be  warned  and  walk  advisedly."
+"  For  if,"  he  thought,  "  she  perish  by  his  hand
+He  will  be  sorry  for  it  in  the  end,
+And  see  in  me  the  author  of  his  grief." 2
+
+The  Shah,  who  had  been  seeking  some  excuse
+For  mercy,  answered  him :  "  I  grant  thee  this
+Because  I  see  that  right  was  on  thy  side."
+
+When  Siyawush  had  kissed  his  father's  throne  V.  555
+
+He  rose  upon  his  feet,  went  to  the  door,
+Brought  back  Siidaba,  and  escorted  her
+Home  to  the  palace  by  the  Shah's  command,
+Where  all  the  women  ran  to  her  again,
+And  did  obeisance.
+
+Now  in  time  the  heart
+Of  Shah  Kaiis  so  warmed  to  her  that  he
+Could  not  forbear  to  eye  her  face  in  love,
+While,  for  her  part,  by  secret  sorceries
+She  worked  on  him  to  ruin  Siyawush
+According  to  the  evil  of  her  nature.
+The  Shah  became  mistrustful  through  her  talk,
+But  spake  not  aught  thereof  to  any  one.
+
+When  such  events  are  happening  men  require
+Faith,  knowledge,  wisdom,  and  the  sense  of  right,
+For  in  proportion  as  they  keep  in  sight
+
+The  fear  of  God  they  reach  their  heart's  desire.
+Expect  not  foolishly  that  thou  shalt  find
+
+Balm  in  a  place  that  fate  hath  filled  with  bane,
+And  if  Creation  be  not  to  thy  mind,
+
+1  More  literally,  "  and  frown."
+
+2  "  Let  not  .  .  .  grief."    The  order  of  the  couplets  is  as  in  C.
+
+
+224  THE   SHAHNAMA    OF  FIRDAUSI
+
+It  is  not  in  thy  charge.     Thy  wrath  restrain.
+Besides  the  manner  of  the  turning  sky
+Is  not  to  show  its  visage  openly.
+Here  saith  our  guide :  "  Of  all  affections  none
+
+Hath  greater  influence  than  kindred  love,
+And  he  who  hath  achieved  a  worthy  son
+
+Must  from  his  own  heart  woman's  love  remove,
+Because  with  her  the  heart  and  tongue  ne'er  meet :
+Look  for  her  head  if  thou  wouldst  find  her  feet."
+
+
+How  Kdus  heard  of  the  Coming  of  Afrdsiydb
+
+The  Shah  was  deep  in  love  when  news  arrived  : —
+"  Afrasiyab  hath  come  with  five  score  thousand
+Picked  Turkman  cavaliers."
+
+v-  556  He  grieved  to  quit
+
+The  banquet- hall  for  war,  but  called  his  lieges,
+And  said :  "  Of  fire  and  water,  earth  and  air,
+In  sooth  God  did  not  make  Afrasiyab,
+But  otherwise,  who  swore  so  great  an  oath,
+And  promised  fairly  with  his  tongue,  yet  now
+Is  gathering  his  men  of  war  like  dust,
+And  turning  from  his  oath  and  covenant !
+I  must  go  seek  revenge  and  dim  his  day,
+Perchance  destroy  his  influence  in  the  world ;
+Else,  sudden  as  the  arrow  from  the  bow,
+He  will  array  his  host,  o'ercome  f  ran,
+And  waste  no  little  of  its  fields  and  fells."
+
+"  What  is  an  army  for,"  the  archmages  said,
+"  If  thou  must  go  in  person  to  the  fight  ?
+What  need  to  give  such  riches  to  the*  winds,
+And  ope  the  portal  of  so  great  a  hoard  ?
+Twice  in  thy  haste  thy  throne's  illustrious  seat
+Hast  thou  delivered  to  thine  enemies ;
+
+
+KAI   KAtlS  22$
+
+Choose  some  good  paladin  renowned  in  war
+To  take  thy  place  and  execute  revenge."
+
+The  Shah  replied  :  "  I  see  none  here  that  hath
+The  rank  or  might  to  meet  Afrasiyab,
+And  therefore  like  a  vessel  o'er  the  water
+Must  I  set  forth  myself.     Depart,  that  I
+May  order  matters  with  my  counsellors."
+
+Then  Siyawush  considered  in  his  heart,
+Made  of  his  soul  a  very  wood  of  thoughts,
+And  said  :  "  I  will  conduct  this  war  myself ;
+I  will  entreat  the  Shah  and  ask  this  boon.
+Perchance  All-righteous  God  will  set  me  free
+Both  from  Siidaba  and  my  sire's  distrust :
+To  snare  so  great  a  host  will  bring  me  fame."
+
+He  girt  himself,  went  to  Kaiis,  and  said  : —  v.  557
+
+"  I  am  of  rank  to  fight  Afrasiyab,
+And  will  bring  down  his  horsemen's  Jieads  to  dust."
+
+The  Maker's  purpose  was  that  Siyawush
+Should  perish  in  Tiiran  by  vile  men's  plots
+When  his  ill  day  should  come.     The  Shah  consented
+To  his  request  with  joy,  bespake  him  fair,
+Bestowed  on  him  new  dignities,  and  said  : —
+"  My  gems  and  treasures  are  at  thy  disposal,
+And  thou  mayst  say  the  arrny  is  thine  own."
+
+The  monarch  summoned  elephantine  Rustam,
+And  said  to  him  with  many  gracious  words  : —
+•'  An  elephant  hath  not  such  strength  as  thou,
+The  Nile  is  not  so  bounteous  as  thy  hand.
+Thou  art  of  world-renown  and  slow  to  speak,
+Thou  who  wast  fosterer  of  Siyawush  !
+When  mines  of  jewels  are  bound  down  with  iron
+They  open  when  thou  bindest  up  thy  loins.
+Now  Siyawush  hath  come  with  belted  waist
+And,  like  a  savage  lion,  talked  with  me :
+His  object  is  to  fight  Afrasiyab.
+Go  with  him,  keep  him  underneath  thine  eye  ;
+
+VOL.  n.  i>
+
+
+226  THE  SHAHNAMA    OF  FIRDAUSf
+
+When  thou  art  watching  I  can  go  to  sleep,
+
+But  when  thou  restest  I  must  be  alert.
+
+Thine  arrows  and  thy  scimitar  safeguard
+
+The  world :  thou  towerest  o'er  the  moon  in  heaven.'
+
+The  peerless  Rustam  said :  "  I  am  thy  slave ;
+To  hear  is  to  obey,  for  Siyawush
+Is  as  mine  eye  and  soul,  his  crown's  top  heaven
+To  me."
+
+The  Shah  applauded  him :  "  May  thy
+Pure  soul  and  wisdom  ne'er  part  company."
+
+
+§  16
+How  Siyawush  led  forth  the  Host
+
+v.  558       A  clang  of  trump  and  kettledrum  arose
+
+As  Tiis,  the  illustrious  captain  of  the  host,
+
+Arrived,  and  troops  assembled  at  the  court.
+
+The  Shah  unlocked  his  treasures  and  dinars,
+
+He  sent  the  keys  of  all  his  magazines
+
+Of  arms,  of  armour,  and  of  stuffs  uncut
+
+To  Siyawush,  and  said  :  "  My  house  and  goods
+
+Are  thine,  equip  thee  as  thou  thinkest  best."
+
+Then  from  his  famous  cavaliers  Kaiis
+Chose  him  twelve  thousand  gallant  warriors,
+While  from  the  neighbourhood  of  Kuch  and  Pars,
+Baliich  and  from  the  desert  of  Sariich
+And  warriors  of  Gilan,  he  chose  for  war
+Twelve  thousand  infantry  and  buckler-men.
+All  that  were  hero-born  throughout  Iran,
+The  gallant,  wise,  and  noble,  all  who  had
+The  stature  and  the  years  of  Siyawush,
+With  courage,  vigilance,  and  self-command,
+Some  also  of  the  mighty  men  of  name —
+Bahram  and  Zanga  son  of  Shawaran, —
+And  five  archmages  of  the  Iranians
+
+
+I.  JJ,
+
+
+227
+
+To  bear  the  flag  of  Kawa  to  the  field,
+
+These  he  commanded  to  go  forth  together
+
+Beyond  the  borders  to  the  desert-  plain  :
+
+Thou  wouldst  have  said  :  "  There  is  no  room  still  left
+
+On  earth  for  horses'  hoofs  to  stand  upon."
+
+The  flag  of  Kawa  lifted  to  the  sky
+
+Shone  like  a  moon  amid  the  troops.     Kaiis
+
+Went  with  them  past  the  frontier,  while  the  dust
+
+Raised  by  the  host  rolled  swiftly.     He  reviewed
+
+The  warriors  with  their  bridal  bravery
+
+Of  elephants  of  war  and  tymbal-din  ;
+
+The  noble  monarch  blessed  the  host  and  said  :  —
+
+"  0  men  of  name  whose  steps  are  glorious  !
+
+Good  fortune  be  your  sole  companion  :
+
+May  darkness  fall  upon  your  foemen's'  sight.
+
+Be  it  yours  to  go  with  health  and  favouring  stars,  V.  559
+
+And  come  back  triumphing  and  glad."
+
+The  prince
+
+Then  set  the  drums  upon  the  elephants,
+Bestrode  his  steed,  and  bade  his  warriors  mount,
+While  Shah  Kaiis  with  tearful  eyes  went  forward
+One  day's  march  with  him.     Then  the  twain  embraced,
+Both  of  them  weeping  like  a  cloud  in  spring.
+They  poured  down  tears  of  blood  and  cried  aloud
+In  their  distress,  for  as  they  went  along
+Their  hearts  gave  witness  to  them  that  thenceforth
+They  should  not  look  upon  each  other  more.
+Thus  fortune  ever  changeth,  and  our  gain
+Therefrom  is  sometimes  balm  and  sometimes  bane.
+
+Kaiis  turned  toward  his  throne,  and  Siyawush
+Marched  with  his  warlike  army  from  f  ran
+Toward  Zabulistan  to  visit  Zal
+With  Rustam  of  the  elephantine  form  ;
+And  there  with  Zal,  the  favourite  of  fortune,
+He  spent  some  time  with  wine  and  minstrelsy.
+At  whiles  he  drank  with  Rustam  and  at  whiles
+
+
+228  THE  SHAHNAMA    OF  FIRDAUSI
+
+Consorted  with  Zawara,  sat  rejoicing
+
+Upon  the  throne  of  Zal  or  drew  the  reed-beds.
+
+A  month  so  passed.     Then  leaving  Zal  he  marched
+
+With  Rustam  as  his  paladin,  and  warriors
+
+Drawn  from  Zabul,  Kabul,  and  Hind.     Moreover
+
+He  summoned  famous  chiefs  from  every  quarter
+
+Until  he  reached  the  desert  of  Harat.
+
+These  furnished  footmen  not  a  few.     He  made
+
+Their  leader  Zanga  son  of  Shawaran,
+
+And  marched  toward  Talikan  and  the  Marvrud.
+
+Thou  wouldst  have  said :  "  The  heaven  greeteth  him.""
+
+Anon  he  came  to  Balkh,  and  injured  none
+
+E'en  by  a  bitter  word.1
+
+On  the  other  side
+
+Barman  and  Garsiwaz  led  on  their  power
+As  'twere  a  tempest.     Sipahram  commanded
+The  rear,  Barman  the  van.     To  them  there  came
+News  of  the  youthful  chief:  "  A  mighty  host —
+Famed  warriors  all — hath  issued  from  Iran."
+v-  56o  The  captain  of  the  host  despatched  by  night
+
+A  messenger  to  tell  Afrasiyab : —
+"  A  great  and  gallant  host  hath  come.     Its  head
+Is  Siyawush,  and  there  are  other  princes.
+The  marshaller  is  elephantine  Rustam,
+Whose  hands  bear  one  a  sword  and  one  a  shroud.
+If  now  the  monarch  so  commandeth  me,
+I  will  array  the  host  and  offer  battle ;
+But  do  thou  gather  troops  and  tarry  not,
+Because  the  wind  is  blowing  up  the  flames."
+
+The  bearer  of  the  tidings  and  his  guide,
+As  they  were  bidden,  urged  their  dromedaries
+Like  fire,  while  Siyawush  made  no  delay
+And  marched  his  army  on  like  wind  to  Balkh.
+The  Iranian  host  drew  near  ;  it  was  not  well
+To  wait  an  answer  from  Afrasiyab,
+
+1  See  vol.  i.  p.  74.
+
+
+KAI  KAUS  229
+
+Liid  Garsiwdz  the  warrior  looking  round
+
+5erceived  no  course  except  to  offer  battle,
+when  the  army  of  Iran  came  up
+
+'he  fight  began  about  the  gates  of  Balkh,
+rhere  in  three  clays  were  two  great  battles  fought.
+The  fourth  clay  Siyawush,  the  army's  Lustre,
+Sent  infantry  against  each  several  gate  ;
+The  mighty  army  entered  into  Balkh,
+While  Sipahrain  fled  o'er  the  stream,  and  then
+Toward  Afrasiyab  with  all  his  men.
+
+
+§  17
+The  Letter  of  SiydivusU  to  Kai  Kdus
+
+The  prince  and  army  having  entered  Balkh,
+He  wrote  on  silk  with  spicery  and  musk
+In  fitting  style  a  letter  to  the  Shah,
+
+Beginning  with  the  praise  of  the  Almighty: —  V.  561
+
+"  From  Him  are  triumph  and  success  Who  is
+The  Lord  of  sun  and  circling  moon,  and  giveth
+Crown,  throne,  and  casque  their  lustre,  whom  He  will
+Exalting  or  dejecting,  ordering
+Without  a  why  or  wherefore,  though  'tis  wise
+To  acquiesce.     From  that  just  Judge  who  made
+The  world,  who  made  the  seen  and  the  unseen,
+May  every  blessing  be  upon  the  Shah,
+All  good  attend  him  to  the  last.     I  came
+To  Balkh  with  joy  and  triumph  through  the  Grace
+Of  him  who  hath  the  crown  and  throne — the  world-
+lord.
+
+We  fought  three  days,  the  fourth  God  favoured  us ;
+Barman  and  Sipahram  fled  toward  Tirmid,
+Like  arrows  from  the  bow.     I  am  encamped
+On  the  Jihun,  my  glorious  helm  prevaileth.
+
+
+230  THE   SHAHNAMA    OF  FIRDAUSI
+
+Afrasiyab  is  with  his  host  at  Sughd,
+While  we  are  still  upon  the  Iranian  side ;
+But,  if  the  Shah  shall  bid  me,  I  will  go
+Across  the  river  and  attack  the  foe."
+
+
+§  18
+
+The  Answer  of  Kai  Kdus  to  the  Letter  of  Siydivusli
+
+The  letter  reached  the  Shah.     It  raised  his  crown
+And  throne  to  Saturn,  and  he  prayed  to  God
+That  this  young  Tree  might  come  to  bearing  fruit ;
+Then  wrote  with  joy  this  letter  of  reply,
+Like  shining  spring  or  jocund  Paradise: —
+"  Now  through  the  Maker  of  the  sun  and  moon —
+The  World-lord  who  bestoweth  crown  and  throne —
+Mayst  thou  for  ever  have  a  joyful  heart,
+One  painless  and  untroubled,  and  therewith
+Be  thine  the  victory,  and  thine  the  Grace,
+The  cap  of  power  and  throne  of  majesty.
+Thou  leddest  forth  an  army  to  the  war
+With  prosperous  fortune  and  a  righteous  cause,
+v.  562        And  though  thy  lip  still  savoureth  of  milk
+The  whippings  of  thy  bow  burst  in  the  fight !
+May  thy  bright  heart  attain  its  every  wish,
+And  may  thy  person  ever  keep  its  prowess !
+Since  thou  hast  won  a  victory  repose
+Is  needed  for  a  season,  but  disband  not,
+Proceed  still  further,  and  improve  the  occasion,
+Because  this^Turkman  is  a  cunning  knave,
+A  man  of  high  birth  but  an  Ahriman,
+Albeit  he  possesseth  crown  and  power,
+Affronting  with  his  head  the  sun  and  moon.
+Be  not  in  any  haste  to  challenge  fight ;
+Afrasiyab  will  come  to  fight  with  thee,
+And,  if  he  cross  Jihim,  will  trail  his  skirt
+
+
+KAI  KAUS  231
+
+In  blood."
+
+He  sealed  this,  called  the  messenger,
+And  gave  it  with  injunctions  to  return.
+The  messenger  sped  over  hill  and  dale,
+And  came  to  Siyawush  who,  when  he  saw
+The  letter,  was  rejoiced  and  kissed  the  ground,
+Put  off  the  bondage  of  anxiety,
+And  carefully  observed  the  Shah's  commands,
+Not  swerving  from  his  duty  as  a  liege.
+
+Thereafter  Garsiwaz,  the  lion-man,
+Approached  the  monarch  of  Tiiran,  like  dust,
+And  told  this  grievous  and  unwelcome  tale : —
+"  The  chieftain  Siyawush  arrived  at  Balkh
+With  Rustam  as  his  marshaller,  with  troops
+Past  count,  and  many  men  of  name  and  leading.
+They  had  full  fifty  men  to  one  of  ours —
+Proud  warriors,  wielders  of  the  buffalo-mace.
+Their  footmen  were  like  fire,  and  had  shield,  quiver,         V,  563
+And  shaft.     The  eagle  soared  not  o'er  their  dust.
+They  had  no  drowsy  heads,  and  this  we  proved
+Three  days  and  nights,  and  then  our  troops  lost
+
+heart ;
+
+But  with  the  Iranians  he  who  needed  rest
+Retired   forthwith   from   where    the    brave   were
+
+fighting,
+
+And  after  having  slumbered  rose  refreshed
+To  make  him  ready  for  the  fight  again."
+
+Afrasiyab  raged  like  a  fire.     He  quitted
+The  stead  of  his  tranquillity  and  slumber ;
+He  glared  at  Garsiwaz,  and  thou  hadst  said  :—
+"  Afrasiyab  will  sunder  him  in  twain  ! "
+Then  in  a  fury  that  he  could  not  master
+He  cried  aloud  and  drave  his  brother  out.
+Anon  he  bade  a  thousand  of  the  lords
+Be  summoned  and  a  festival  prepared.
+They  put  up  hangings  over  all  the  waste,
+
+
+232  THE  SHAHNAMA    OF  FIRDAUSl
+
+And  decked  all  Sughd  with  ornaments  of  Chin  :
+The  day  thus  passed  away  with  happiness.
+Now  when  the  Eye  that  lighteth  earth  had  gone
+From  sight,  they  hasted  to  take  sleep  and  rest
+Except  the  king,  who  tossed  about  distrest.
+
+
+§  19
+How  Afrdsiydl  had  a  Dream  and  was  afraid
+
+As  night  advanced  Afrasiyab  cried  out,
+And  shook  upon  his  bed  like  one  with  ague,
+While  slaves  sprang  up  and  sounded  the  alarm.
+V.  564        Whenas  the  tidings  came  to  Garsiwaz : —
+"The  glory  of  the  kingdom  is  obscured,"
+He  hasted  to  the  presence  of  the  king,
+Beheld  him  lying  on  the  dusty  floor,
+Embraced  him,  questioned  him,  and  said  :  "  Come  tell
+Thy  brother  all."
+
+He  answered :  "  Ask  me  not,
+Speak  not  to  me  till  I  regain  some  wits,
+But  take  and  clasp  me  to  thy  breast  awhile."
+
+Anon  on  coming  to  himself  he  saw
+A  world  of  lamentation  and  of  hubbub.
+They  lighted  candles  and  he  took  his  seat,
+Still  shaking  like  a  bough,  upon  the  throne.
+Then  said  to  him  aspiring  Garsiwaz : —
+"  Unlock  thy  lips  and  tell  us  this  strange  thing."
+
+He  answered :  "  None  will  see  a  vision  such
+As  I  have  looked  upon  this  darksome  night :
+I  have  not  heard  of  such  from  young  or  old.
+i  saw  in  sleep  a  desert  full  of  serpents,
+The  sky  all  eagles  and  the  ground  all  dust,
+And  so  parched  up  that  thou  hadst  said :  '  The  heaven
+Hath  not  looked  on  it  since  the  world  began.'
+Upon  one  side  my  tent-enclosure  stood,
+
+
+KAI  KAUS  233
+
+And  round  it  was  a  host  of  warriors.
+
+A  dust-storin  rose  and  laid  my  standard  low,
+
+Blood  surged  around,  the  tents  and  tent-enclosure
+
+Were  overthrown,  while  of  my  countless  troops
+
+The  heads  were  lopped,  the  bodies  spurned  aside.
+
+Came  like  a  blast  an  army  from  fran,
+
+What  spears  they  bore  and  what  artillery  !
+
+There  was  a  head  impaled  on  every  spear,
+
+Another  was  in  every  horseman's  lap.
+
+A  hundred  thousand  of  them  sable-clad,
+
+And  wielding  spears,  came  charging  at  my  throne.
+
+They  drave  me  from  the  place  where  I  was  sitting,
+
+Made  my  hands  fast,  and  hurried  me  along.
+
+I  looked  around  me  well  and  many  a  time,  v.  565
+
+But  none  of  mine  own  kin  was  present  there.
+
+A  haughty  and  illustrious  paladin
+
+Bore  me  before  Kaus  the  Shah  in  haste.
+
+A  throne  was  there ;  its  summit  reached  the  moon,
+
+And  on  the  throne  was  seated  Shah  Kaus,
+
+The  hero,  while  a  youth  with  moonlike  cheeks
+
+Was  seated  near  to  him — a  youth  whose  years
+
+Had  not  yet  reached  fourteen,  who,  when  he  saw
+
+Me  standing  there  before  his  presence  bound,
+
+Came  rushing  at  me  like  a  thundering  cloud,
+
+And  clave  me  to  the  middle  with  his  sword.
+
+I  shouted  loudly  in  mine  agony,
+
+And  with  the  crying  and  the  pain  awoke."
+
+"  The  king's  dream,"  answered  Garsiwaz,  "  accordeth
+To  that  which  his  well-wishers  would  desire.1
+Thy  purposes,  thy  crown,  and  throne  shall  stand,
+The  fortunes  of  thy  foes  be  overthrown.
+We  need  a  man  that  can  interpret  dreams,
+One  who  hath  pondered  much  this  kind  of  lore.
+Now  let  us  call  the  wise,  all  who  may  be
+Skilled  in  astrology  and  grammarye."
+
+1  Garsiwaz  suggests  that  dreams  go  by  contraries.
+
+
+234  THE   SHAHNAMA    OF  FIRDAUSI     '
+
+§    20
+How  Afrdsiyab  inquired  of  the  Sages  concerning  his  Dream
+
+From  far  and  near  the  learned  in  this  lore
+Assembled  at  the  court  to  hear  the  questions.
+The  king  gave  audience,  placed  them  in  due  rank
+Before  him,  spake  of  matters  great  and  small
+With  each,  and  then  addressed  the  company,
+The  priests,  the  sages,  and  astrologers : —
+"  Tell  no  one  openly  or  as  a  secret
+This  dream  of  mine,  or  what  I  now  shall  say.
+I  will  not  leave  the  head  upon  the  trunk
+Of  him  who  breathe th  aught  of  this  affair."
+
+He  gave  them  gold  and  silver  past  compute
+That  they  might  feel  assured,  then  told  his  dream.
+V.  566       The  sages,  having  heard  the  monarch's  words,
+Asked  in  alarm  protection  at  his  hands,
+And  said  :  "  We  cannot  read  this  dream  aright
+Unless  the  king  with  his  own  mouth  shall  promise
+That  he  will  do  us  justice  when  we  tell
+What  seemeth  us."
+
+He  promised  not  to  harm
+
+Or  to  impute  the  ill  to  them.     Their  spokesman,
+One  shrewd  exceedingly  and  skilled  to  deal
+With  delicate  affairs,  said  :  "  King  of  the  world  !
+I  will  reveal  this  secret.     From  Iran
+An  army  cometh  mighty  and  alert,
+The  chiefs  are  brave,  the  leader  is  a  prince
+With  many  world-experienced  counsellors,
+Who  by  his  horoscope,  though  not  a  Shah,
+Will  wreck  our  land.     If  now  the  king  shall  fight
+With  Siyawush  earth  will  be  like  brocade,
+And  not  a  Turkman  will  survive ;  the  king
+Will  grieve  at  having  fought  with  him,  for  though
+Thy  hand  will  slay  him,  realm  and  throne  will  cease
+
+
+KAI  KAUS  235
+
+Within  Turan,  and  earth  be  tilled  with  strife,
+Revenge,  and  combat  on  account  of  him.
+Thou  shalt  bethink  thee  that  my  rede  is  true
+What  time  thy  lands  lie  waste  for  lack  of  people.
+Although  the  king  become  a  flying  bird
+He  cannot  pass  the  sky,  which  as  it  turneth
+Is  full  at  whiles  of  hate,  at  whiles  of  love."
+
+The  king  grew  sad  and  hasted  not  to  fight,
+But  told  to  Garsiwaz  the  secret,  adding : —
+"  None  will  seek  vengeance  if  I  fight  him  not ;  v-  567
+
+Thus  both  shall  live,  and  men  will  cease  from  strife
+And  woe ;  Kaiis  will  not  desire  revenge
+Upon  me,  and  the  earth  will  not  be  troubled.
+Instead  of  war  and  quest  of  world-wide  rule
+Be  all  my  dealings  peaceful.     I  will  send  him
+Gold,  silver,  crown  and  throne,  and  precious  gems,
+For  Minuchihr  divided  earth  amiss
+And  took  too  small  a  portion,  wherefore  I
+Will  give  up  some  assigned  to  me  at  first,
+And  then  mine  ills  will  haply  pass  from  me,
+Else  will  my  soul,  I  fear  me,  fade  away.
+When  I  sew  up  the  eye  of  fate  with  treasures
+It  well  may  be  that  heaven  will  grant  me  peace.
+I  only  wish  for  that  which  is  mine  own,
+And  let  the  harvest  be  as  heaven  hath  sown."
+
+
+§21
+How  Afrdsiydb  took  Counsel  with  the  Nolles
+
+Now  when  the  sky  had  half  revolved,  and  when
+The  shining  sun  displayed  its  face  once  more,
+The  mighty  men  betook  themselves  to  court
+With  covered  heads  to  offer  their  respects.
+Afrasiyab  convoked  the  experienced  sages,
+And  thus  addressed  them :  "  It  hath  been  my  lot
+To  see  no  desert  but  that  made  by  war,
+
+
+236  THE   SHAHNAMA    OF  FIRDAUSI
+
+And  many  great  ones  of  the  Iranians
+Have  perished  by  my  hand  upon  the  field.
+What  cities  have  been  turned  to  hospitals !
+What  beds  of  roses  into  brakes  of  brambles  !
+V.  568       What  uplands  have  I  made  my  battle-grounds !
+My  troops  have  left  their  traces  everywhere.
+It  is  because  unjust  kings  rule  the  world
+That  good  of  every  kind  is  vanishing.
+No  onagers  are  breeding  in  their  season
+Upon  the  plains ;  hawks  rear  a  sightless  brood ;
+Milk  faileth  in  the  udders  of  the  game ;
+The  water  in  the  springs  is  turned  to  pitch,
+And  they  are  drying  up  throughout  the  world ;
+Musk- bags  no  longer  yield  the  scent  of  musk ;
+All  that  is  right  is  frayed  by  villainy,
+And  population  faileth  everywhere.
+My  heart  is  satiate  of  strife  and  outrage :
+Fain  would  I  walk  the  path  of  godliness.
+Then  be  we  just  and  wise  again ;  let  pleasures
+Stand  in  the  place  of  misery  and  travail.
+For  our  part  let  us  give  the  world  some  respite ;
+Death  should  not  come  upon  men  unawares.
+The  more'  part  of  the  world  is  at  my  feet :
+My  court  is  in  Iran  and  in  Tiiran,
+For  see  how  many  of  the  mighty  men
+Bring  heavy  tribute  to  me  year  by  year !
+Now  if  it  be  your  minds  I  will  dispatch
+An  embassy  to  Rustam,  and  forthwith
+Knock  at  the  door  of  peace  with  Siyawush,
+And  send  him  every  kind  of  precious  gift."
+
+The  chieftains  gave  their  answers  one  by  one :
+All  were  for  peace  and  amity.     They  said : —
+"  Thou  art  the  monarch  and  we  are  thy  slaves,
+With  hearts  devoted  to  perform  thy  hest."
+
+The  councillors  dispersed  with  minds  intent
+On  justice,  with  no  thought  of  strife  and  turmoil.
+
+
+KAI   KAUS  237
+
+Then  said  Afrasiyab  to  Garsiwaz : —
+
+"  Make  all  thy  preparations  for  the  journey
+
+With  speed,  and  tarry  not  upon  the  road.
+
+Choose  out  two  hundred  horsemen  from  the  host,
+
+And  carry  precious  things  to  Siyawush
+
+From  all  the  divers  treasures  in  our  hoard.
+
+Take  Arab  steeds  with  golden  furniture
+
+And  Indian  scimitars  with  golden  sheaths^
+
+A  crown  of  jewels  that  a  king  might  wear,  v.  569
+
+A  hundred  camel-loads  of  carpeting,
+
+And  take  two  hundred  slaves  both  boys  and  girls.
+
+Say  thus  to  him:  ' I  have  no  quarrel  with  thee.'
+
+Hold  converse  with  him  and  bespeak  him  thus : —
+
+'  I  do  not  set  my  face  against  Iran.
+
+All  from  the  bank  of  the  Jihun  to  Chin
+
+Is  mine,  my  home  is  Sughd — a  realm  distinct.
+
+In  truth  it  is  through  Tiir  and  valiant  Salm
+
+That  all  the  world  is  thus  turned  upside  down,
+
+And  since  the  innocent  fraj  was  slain
+
+Our  warriors'  brains  have  lost  their  wits.     Iran
+
+Is  not  divided  from  Turan,  but  wars
+
+And  feuds  prevented  friendship.     Now  I  trust
+
+That  God  will  give  good  days  and  joyful  news.
+
+He  raised  thee  from  the  country  of  Iran,
+
+And  giveth  thee  the  friendship  of  the  brave.
+
+Let  thy  fair  fortune  dower  the  world  with  peace,
+
+Let  war  and  every  evil  disappear.
+
+Now  Garsiwaz  hath  come  to  add  his  wits
+
+To  thine,  and  as  the  valiant  Faridun
+
+Erst  shared  the  world  among  his  gallant  sons,
+
+So  be  it  now.     Let  us  adopt  his  rede,
+
+And  turn  our  feet  from  battle  and  revenge.
+
+Thou  art  a  Shah  thyself ;  speak  to  the  Shah :
+
+Perchance  his  warlike  purpose  may  relax.'
+
+Speak  also  unto  elephantine  Kustam
+
+In  fair  words,  plying  him  with  arguments,
+
+
+238  THE   SHAHNAMA    OF  FIRDAUSI
+
+And,  that  the  business  may  be  carried  through,
+Give  gifts  to  him  like  those  to  Siyawush,
+Except  a  golden  throne;  no  Shah  is  he;
+Thrones  are  above  a  paladin's  degree."
+
+
+§    22
+
+How  Garsiwaz  came  to  Siyawush
+
+So  Garsiwaz  with  those  rich  gifts,  which  made
+V.  570       Earth's  face  look  gay,  sped  on  to  the  Jihun,
+And  there  chose  one  to  go  to  Siyawush,
+And  say  thus :  "  Garsiwaz  hath  come  in  state,
+Hath  crossed  the  river  in  a  single  day
+By  boat,  and  hastened  on  the  road  to  Balkh."
+
+The  envoy  came  and  gave  the  prince  the  message.
+Then  Siyawush  called  elephantine  Rustam,
+Discussed  the  matter  from  all  points  of  view,
+And  ordered  Garsiwaz  to  be  admitted,
+Rose  when  he  came  and  welcomed  him  with  smiles,
+While  Garsiwaz  afar  off  kissed  the  ground,
+With  downcast  looks  and  terror  in  his  heart.
+The  prince,  first  seating  him  below  the  throne,
+Asked  eagerly  about  Afrasiyab,
+And  Garsiwaz  beholding  as  he  sat
+The  prince  on  his  new  throne,  his  head,  and  crown,
+Spake  unto  Rustam  thus  :  "  Afrasiyab,
+As  soon  as  he  had  tidings  of  thy  coming,
+Dispatched  at  once  a  keepsake  to  the  prince,
+And  I  have  brought  it  with  me  on  my  way."
+
+He  bade  his  followers  to  bring  the  gifts
+And  pass  along  in  front  of  Siyawush.
+All  from  the  city's  gateway  to  the  court
+Were  horses,  drachms,  boy-slaves,  and  troops.  None  knew
+
+"(The  tale  of  diadems,  dinars,  high  thrones,
+~)t"  slave-boys  all  with  caps  and  girdles  on,
+
+Oi^d  women-slaves  with  bracelets  and  gold  torques.
+
+
+KAI  KAUS  239
+
+The  prince  was  gratified  and  smiling  gazed
+
+Upon  them  as  he  heard  the  embassage ;
+
+But  matchless  Rustam  said :  "  Corne,  let  us  feast
+
+A  week  and  then  proceed  to  the  reply,
+
+For  this  request  must  be  considered  well,
+
+And  there  are  many  to  advise  withal."
+
+Far-sighted  Garsiwaz  on  hearing  this  V.  571
+
+Did  lowly  reverence  and  kissed  the  ground.
+They  draped  a  mansion  with  brocade  for  him
+And  requisitioned  cooks ;  but  Siyawush
+And  Rustam  of  the  elephantine  form
+Withdrew  and  sat  to  canvass  all  the  case,
+For  Rustam  had  suspicions  through  the  haste
+Of  Garsiwaz ;  they  hurried  out  their  scouts
+And  took  precautions.     Then  said  Siyawush : —
+"  Come,  let  us  bring  this  mystery  to  light :
+What  motives  can  they  have  for  seeking  peace  ?
+Look  for  an  antidote  for  this  their  bane —
+Think  of  the  names  of  five  score  noble  men,
+Close  blood-relations  of  Afrasiyab  ;
+These  let  him  send  to  us  as  hostages
+To  clear  the  dark  suspicions  in  our  minds.
+Seest  not  how  fear  of  us  oppresseth  him,
+And  how  he  taboreth  beneath  the  blanket  ? l
+This  done  we  must  send  one  to  tell  the  Shah ;
+May  be  he  will  abandon  thoughts  of  war."
+
+"  This  is  the  proper  method,"  Rustam  said,
+"  In  this  way  only  will  a  pact  be  made."
+
+§23
+
+How  Siydivusli  made  a  Treaty  with  Afrdsiyab
+
+At  daybreak  Garsiwaz  appeared  at  court,
+With  covered  head  and  girdle  round  his  loins,
+And  having  been  admitted  kissed  the  ground,
+
+1  i.e.  attempts  to  hide  what  is  obvious.
+
+
+240  THE   SHAHNAMA   OF  FIRDAUSI
+
+And  did  obeisance  unto  Siyawush,
+Who  said  :  "  How  was  it  with  thee  yesternight
+Amid  this  great  encampment  and  such  din  ? "
+And  added  :  "  As  for  this  affair  of  thine,
+I  have  considered  fully  thy  proposal,
+v.  572        And  in  our  object  we  are  both  agreed —
+
+We  both  would  wash  out  vengeance  from  our  hearts.
+
+Send  then  this  answer  to  Afrasiyab : —
+
+'  Cease  now  to  muse  revenge.     He  that  hath  seen
+
+The  sequel  of  wrongdoing  should  recoil
+
+From  acting  wrongfully.     The  heart  adorned
+
+With  wisdom  is  as  'twere  a  hoard  of  gold
+
+And  goods.     If  bane  be  not  beneath  these  sweets,
+
+And  thou  intendest  neither  wrong  nor  hurt,
+
+Then,  since  thou  wishest  for  a  stable  league,
+
+Dispatch  to  me  by  way  of  hostages,
+
+And  as  security  for  thy  good  faith,
+
+A  hundred  members  of  thy  family,
+
+All  warriors  known  to  Rustam,  who  will  give
+
+The  list  of  names  to  thee ;  and  furthermore
+
+Whatever  cities  thou  hast  in  Iran
+
+Surrender,  keep  within  Turan  thyself,
+
+Repose  from  wars  and  those  that  seek  revenge,
+
+And  let  right  only  be  between  us  two :
+
+It  is  not  well  to  favour  savage  pards.
+
+I  will  dispatch  a  letter  to  the  Shah :  *
+
+He  may  perchance  recall  the  host  in  peace."
+
+Then  Garsiwaz  dispatched  a  cavalier
+Swift  as  a  blast,  and  said :  "  Court  not  repose,
+But  hasten  to  Afrasiyab  and  say
+From  me :  '  I  have  proceeded  diligently,
+And  have  obtained  the  whole  of  what  I  sought ;
+But  Siyawush  demandeth  hostages
+If  thou  wilt  have  him  turn  away  from  war.'  "
+
+The  messenger  arrived  and  told  the  king
+What  Siyawush  and  noble  Garsiwaz
+
+
+KAI   KAUS
+
+Had  said,  and  when  the  king  had  heard  the  words
+
+He  was  exceeding  troubled  and  in  doubt.
+
+He  thus  bethought  him :  "  If  a  hundred  men
+
+Of  mine  own  kin  are  taken  from  the  host,
+
+We  shall  be  worsted  on  the  battlefield
+
+For  want  of  those  devoted  to  my  cause ;
+
+While  if  I  say  :  '  Demand  no  hostages/
+
+Mine  overtures  will  seem  to  him  dishonest.
+
+I  e'en  must  send  the  hostages  if  he
+
+Insisteth  thereupon.     May  be  these  ills
+
+Will  pass  away  from  me :  in  any  case
+
+I  shall  be  better  wise  than  otherwise."
+
+The  monarch  out  of  those  whom  Rustam  named
+Selected  some  five  score  of  his  own  kin,
+And  sent  them  unto  Siyawush,  bestowing
+Upon  them  many  gifts  and  benefits.
+He  then  bade  sound  the  drums  and  clarions,
+He  struck  the  royal  tent,  evacuated
+Bukhara,  Sughd,  and  Samarkand,  and  Chach,
+The  land  and  ivory  throne  of  Sipanjab,
+And  led  his  troops  upon  the  way  to  Gang
+Without  excuses,  pretexts,  or  delays.
+As  soon  as  Rustam  heard  of  this  retreat
+His  mind  was  eased,  he  sought  the  prince  and  said  :
+"  All  now  is  well,  let  Garsiwaz  depart."
+
+Then  Siyawush  gave  orders  to  prepare
+A  present — armour,  crown,  and  belt,  a  steed
+Of  Arab  blood  with  golden  furniture,
+Besides  an  Indian  falchion  in  a  scabbard
+Of  gold.     When  Garsiwaz  beheld  them,  thou
+Haclst  said :  "  He  seeth  the  moon  upon  the  ground.'
+He  went  his  way  with  blessings  on  his  tongue :
+Thou  wouldst  have  said  :  "  He  rolleth  earth  along."
+
+
+241
+
+
+V.  573
+
+
+VOL.  II.
+
+
+242  THE   SHAHNAMA    OF  FIRDAUSI
+
+§  24
+How  Siyawush  sent  Rustam  to  Kdus
+
+Then  Siyawush  sat  on  the  ivory  throne,
+And  hung  the  crown  above  it.     He  considered
+Whom  he  should  send,  what  man  of  courteous  speech
+574       Whose  words  had  scent  and  hue,  a  cavalier
+Of  valour  and  a  favourite  with  the  Shah.
+Then  Rustam  said :  "  On  such  a  topic  who
+Would  dare  to  speak  ?     Kaiis  is  still  the  same,
+His  petulance  increaseth :  what  if  I
+Approach  him  and  make  this  dark  matter  clear  ?
+I  will  rend  earth  at  thy  behest.     I  see
+In  going  naught  but  good."
+
+Then  Siyawush
+
+Rejoiced,  and  spake  no  more  of  messengers,
+But  sat  with  Rustam  and  discussed  the  matter,
+Then  called  a  scribe  and  had  a  letter  written
+On  silk.     There  first  he  praised  the  Judge  from  whom
+He  had  his  fortune,  strength,  and  excellence —
+"  The  Lord  of  understanding,  time,  and  power,
+The  Nourisher  of  wisdom  in  the  soul.
+None  can  transgress  His  ordinance.     The  man
+Who  disobeyeth  Him  can  look  for  naught
+But  loss,  for  He  is  Author  both  of  wealth
+(_  And  right.     From  Him  who  fashioned  sun  and  moon,
+Who  illustrateth  fortune,  throne,  and  crown,
+Be  blessings  showered  upon  our  sovereign —
+The  lord  of  earth,  the  chosen  of  the  great,
+Whose  purview  reacheth  all  things  good  and  ill :
+May  his  tall  form  be  wisdom's  pedestal.
+I  came  to  Balkh  this  jocund  spring,  rejoicing ;
+But  when  Afrasiyab  had  news  of  me
+The  sparkling  liquor  darkened  in  his  cup  :
+He  saw  that  he  was  in  a  strait ;  the  world
+
+
+KAI   KAUS  243
+
+Was  black  and  fortune  fallen.     His  brother  came
+
+With  gifts  and  many  fair  slaves  richly  dight  V.  575
+
+To  me  to  seek  protection  from  the  Shah.
+
+Afrasiyab  will  yield  the  crown  and  throne
+
+Of  kings,  content  with  his  own  realm ;  observe
+
+His  station ;  never  tread  Iran's  dark  soil ;
+
+But  wash  all  strife  and  vengeance  from  his  heart,
+
+And  send  as  hostages  a  hundred  kinsmen.
+
+Great  Rustam  now  hath  come  with  this  request —
+
+That  as  the  Shah's  face  is  a  pledge  of  love,
+
+He  will  show  love  toward  Afrasiyab."
+
+The  peerless  Rustam  reached  the  royal  court
+In  fitting  state  with  flag  and  retinue,
+While  loyal  Garsiwaz  with  all  dispatch
+Went  to  the  presence  of  Afrasiyab,
+Gave  him  a  full  account  of  Siyawush,
+And  said  :  "  He  hath  no  match  among  the  kings
+For  beauty,  mien,  address,  and  common  sense,
+Good  feeling,  modesty,  and  energy  :
+Brave,  affable,  a  gallant  cavalier —
+*  His  breast  is  wisdom's  home/  thou  wouldest  say."
+
+The  monarch  smiled  and  said  :  "  To  scheme,  my  friend  !
+Is  better  than  to  fight.     The  dream  alarmed  me,
+Foreboding,  as  I  saw,  my  fall  from  power ;
+So  in  distress  I  turned  to  artifice
+In  order  to  relieve  me  of  my  woe  :
+I  schemed  to  work  with  coin  and  treasury ;
+Thus  everything  hath  turned  out  well  for  me."
+
+
+How  Rustam  gave  the  Message  to  Kdus
+
+Now  on  his  side  like  flying  dust  came  Rustam,
+
+The  Lion-man,  with  folded  arms  before
+
+The  Shah,  who  met,  embraced  him,  and  inquired  v.  576
+
+
+244  THE   SHAHNAMA    OF  FIRDAUSI
+
+About  the  prince,  the  progress  of  events,
+The  warriors,  the  battles,  and  the  host,
+And  wherefore  he  had  come.    Then  Rustam  gave
+The  letter,  first  extolling  Siyawush ;
+A  ready  scribe  then  read  it,  and  the  face
+Of  Shah  Kaus  was  pitch-like  :  "  I  allow,"
+He  said,  "  that  he  is  young  and  all  unversed
+In  ill — no  wonder — but  thou  art  a  man
+Experienced,  and  hast  witnessed  good  and  bad
+Of  all  kinds  :  thou  hast  not  thy  peer  on  earth,
+And  Lions  grow  adept  by  fighting  thee.
+Hast  thou  not  seen  Afrasiyab's  ill  deeds —
+How  he  hath  robbed  us  of  food,  rest,  and  sleep  ?
+I  should  have  gone  myself  but  I  forbore,
+Although  it  was  my  wish  to  fight  with  him.
+I  went  not,  for  men  said :  '  Go  not  thyself :
+Remain  here  that  the  young  prince  may  command.'
+When  God  had  meant  that  vengeance  should  be  taken,
+And  ills  had  asked  a  recompense  of  ill,
+Ye  sought  to  gain  a  heritage  thereby,
+And  that  it  was  which  occupied  your  hearts.
+Afrasiyab  hath  led  your  wits  astray
+By  riches  plundered  from  the  innocent,
+A  hundred  hapless,  misbegotten  Turkmans,
+Who  do  not  even  know  their  fathers'  names  !
+He  will  think  little  of  such  hostages :
+They  are  to  him  as  water  in  a  stream.
+If  ye  have  dealt  unwisely  I  am  not
+Sick  of  the  toils  of  war  ;  I  shall  dispatch
+577        A  man  endowed  with  wisdom  and  resource,
+
+To  bid  the  young  prince  :  '  Put  those  Turkmans'  feet
+In  fetters ;  burn  the  valuable  things,
+Retain  not  one,  send  me  the  men  in  bonds,
+And  I  will  take  their  heads  off.     Lead  thy  host
+Intent  on  fight  up  to  the  foeinen's  gate,
+At  once  relax  all  discipline,  and  loose
+
+
+KAI  KAUS  245
+
+Thy  troops  like  wolves  among  the  sheep ;  while  thou
+Kevengest,  and  thy  soldiers  sack  and  burn,
+Afrasiyab  will  come  to  fight  with  thee,
+For  ease  and  peace  will  yield  him  no  delight.' "
+
+Then  Rustam  said  :  "  O  Shah  !  be  not  so  moved
+Because  of  this.     First  hear  what  I  shall  say ;
+And  then — the  world  is  under  thy  command.
+Thou  saidst :  '  In  fighting  with  Afrasiyab
+Cross  not  the  river  hastily,  but  wait
+Till  he  attacketh,  for  he  will  not  linger.'
+Accordingly  we  waited  his  advance,
+But  from  the  first  he  oped  the  door  of  peace ;
+It  would  be  vile  to  haste  to  fight  with  one
+Intent  on  peace  and  mirth ;  and  thy  well-wishers
+Would  never  wish  the  Shah  to  break  a  compact.
+When  Siyawush  obtained  his  victories
+He  charged  like  some  brave  crocodile.    What  wouldst
+
+thou
+
+But  signet,  crown,  and  throne,  the  Iranian  treasure,
+And  safety  ?     These  thou  hast ;  shun  wanton  strife ;
+Wash  not  a  clear  heart  in  a  turbid  stream.
+Suppose  that  when  Afrasiyab  consented
+He  inly  purposed  to  break  covenant :
+
+We  on  our  side  are  ready  for  the  fight  v-  578
+
+With  scimitars  and  lions'  claws.     Then  thou
+And  noble  Siyawush  upon  the  throne
+Of  gold  shall  laugh  with  gladness  in  Iran,
+While  I  will  lead  a  small  force  from  Zabul,
+And  leave  Turan  no  throne  or  royal  seat,
+But  with  the  mace  wherewith  I  fight  will  make
+The  sunlight  gloomy  to  Afrasiyab ;
+For  he  and  I  have  often  fought,  and  he
+Will  scarcely  care  to  try  another  bout.
+Require  not  then  thy  son  to  break  the  treaty,
+Enjoin  not  what  amounteth  to  a  crime.
+Why  should  I  hide  the  purport  of  my  words  ?
+
+
+246  THE   SHAHNAMA    OF  FIRDAUS1
+
+Thy  son  will  never  break  his  promises,
+And  this  deed  that  the  Shah  is  contemplating
+Will  horrify  that  most  illustrious  prince.
+Dim  not  his  fortunes  or  it  cannot  be
+But  that  thine  heart  will  suffer  agony."
+
+
+§  26
+How  Kdus  sent  Rustam  to  Sistdn
+
+Kaiis,  the  mighty  Shah,  was  filled  with  wrath
+And  raged  at  Rustam  with  dilated  eyes  :—
+"  So  then  the  truth  is  out  at  last !     Twas  thou
+That  prompted  this  to  root  up  from  his  heart
+Revenge  !     Thine  aim  was  ease  and  not  the  glory
+Of  signet,  crown,  and  throne.     Abide  thou  here,
+And  Tiis  shall  mount  the  drums  as  general.
+I  will  dispatch  a  horseman  with  a  letter
+Writ  in  harsh  terms  to  Balkh.     If  Siyawush
+Will  not  obey  he  shall  resign  the  host
+To  Tiis  and  come  back  with  his  own  retainers.
+v-  579       He  shall  receive  fit  treatment  at  my  hands
+For  thwarting  me,  and  nevermore  will  I
+Call  thee  my  friend  or  have  thee  fight  my  battles."
+
+Then  Rustam  cried  in  dudgeon :  "  Heaven  may  hide
+My  head  !     If  Tus  be  valianter  than  Rustam
+Then  know  that  Rustam  is  a  nidering."
+
+He  left  the  presence  frowning  angrily,
+And  with  his  forces  hasted  toward  Sistan.
+The  Shah  anon  called  Tus  and  bade  him  lead
+The  army  forth.     Tus  coming  from  the  presence
+Commanded  that  the  troops  should  be  equipped
+With  drums  and  trumpets,  be  prepared  to  start,
+And  put  all  thoughts  of  peaceful  home  apart.
+
+
+KAI  KAUS  247
+
+§27
+
+The  Answer  of  Kdus  to  the  Letter  of  Siydwush
+
+Kaus  then  warned  a  courier,  called  a  scribe,
+
+And  set  him  by  the  throne  to  write  a  letter
+
+Of  wrath  and  strife,  as  'twere  a  poplar  shaft.
+
+He  first  gave  praises  to  Almighty  God—
+
+"  The  Lord  of  peace  and  war,  the  Lord  of  Mars,
+
+Of  Saturn,  and  the  moon,  of  good  and  ill,
+
+Of  Grace  and  throne.     The  turning  heavens  obey  Y-  580
+
+His  hest,  and  everywhere  His  love  extendeth.
+
+May  health  and  fortune  be  for  ever  thine,
+
+0  youth  !  together  with  the  throne  and  crown.
+
+Although  thou  hast  forgotten  mine  instructions,
+
+And  foolishly  neglected  to  attack
+
+The  foe,  yet  thou  hast  heard  how  he  entreated
+
+Iran  when  he  prevailed ;  side  not  with  him
+
+In  wantonness ;  frown  not  upon  this  court ;
+
+Let  not  thy  head  be  snared  through  youth  as  thou
+
+Wouldst  'scape  destruction  from  the  turning  sky.
+
+Send  me  those  hostages  bound  hand  and  foot.
+
+It  is  no  wonder  if  Afrasiyab
+
+Hath  duped  thee,  if  I  judge  him  by  his  conduct
+
+Toward  myself;  oft  through  his  glozing  words
+
+Have  I  turned  back  from  fight.     Now  I  said  naught
+
+Of  peace,  and  thou  hast  disobeyed  for  dalliance
+
+With  pretty  slaves ;  while  as  for  Rustam,  he
+
+Ne'er  hath  enough  of  precious  gear  and  treasure.
+
+Thou  hadst  no  thought  of  war  :  thine  only  thought
+
+Was  to  succeed  to  the  imperial  crown.
+
+Seek  with  thy  sword  the  gate  of  full  contentment,
+
+For  provinces  are  glories  to  a  king.
+
+As  soon  as  Tus  the  general  reacheth  thee
+
+He  will  dispose  all  matters  great  and  small.
+
+Set  all  the  hostages  without  delay
+
+
+248  THE   SHAHNAMA    OF  FIRDAUSI
+
+In  heavy  chains  upon  the  backs  of  asses.
+It  is  high  heaven's  purpose  that  thy  life
+Should  perish  by  this  peace.     Then  will  Iran
+Hear  of  the  evil  and  our  prosperous  times
+Be  troubled.     Go,  prepare  thee  for  revenge
+And  war,  admit  no  further  parleyings.
+When,  in  the  course  of  war  and  night-attack,
+Thou  turnest  darksome  dust  to  a  Jihun,
+v-  581        Afrasiyab  will  not  resign  his  head
+
+To   sleep,   but  come   to  fight;    else   if    thou  lov'st
+
+them,
+
+And  wouldst  not  have  them  call  thee  treaty-breaker,
+Resign  the  host  to  Tus  and  come  back  hither :
+Thou  art  no  man  for  glory,  war,  and  strife."
+They  sealed  the  letter,  and  the  messenger
+Received  it  and  departed.     Siyawush,
+On  hearing  words  so  unacceptable,
+Called  in  the  messenger  and  questioned  him
+Till  all  was  clear.     The  man  detailed  the  words
+Used  by  the  Shah  to  Rustam,  and  described
+How  Rustam  raged  against  the  Shah  and  Tus.
+Then  Siyawush  was  much  displeased  with  Rustam,
+And  musing  o'er  his  father's  act,  the  Turkmans,
+And  war's  vicissitudes,  exclaimed :  "  A  hundred
+Brave  cavaliers,  the  kinsmen  of  the  king,
+Such  famous  men,  our  friends  and  innocent !
+If  I  shall  now  dispatch  them  to  the  Shah,
+He  will  not  ask  or  think  about  their  case,
+But  hang  them  all  alive  upon  the  gibbet.
+How  shall  I  justify  myself  to  God  ?
+Ill  will  befall  me  through  my  father's  acts ;
+If  I  so  madly  fight  Afrasiyab
+Without  a  cause  I  shall  incur  God's  wrath,
+And  people  will  cry  shame.     If  I  return
+To  court,  surrendering  the  host  to  Tus,
+That  also  will  bring  evil  on  my  head.
+
+
+KAI  KAUS  249
+
+
+I  see  ill  right  and  left,  and  ill  in  front ;
+Siidaba  too  will  do  me  naught  but  ill,
+And  I  have  not  an  inkling  of  God's  will ! "
+
+
+§  28
+How  Siydwusli  took  Counsel  with  Balirdm  and  Zanga
+
+Then  Siyawush  called  from  the  host  Bahram  V.  582
+
+And  Zanga  son  of  Shawaran  for  counsel,
+
+And  having  put  forth  strangers  made  both  sit
+
+Before  him.     They  had  shared  his  confidence
+
+Since  Rustam  had  departed  from  the  host.
+
+Then  Siyawush :  "  111  fortune  ever  heapeth
+
+111  on  my  head.     My  sire's  affection  seemed
+
+A  tree  all  leaf  and  fruit ;  Siidaba's  wiles
+
+Have  made  it,  one  may  say,  a  biting  bane.
+
+Her  bower  became  my  prison,  smiling  fortune
+
+Drooped,  and  as  time  went  on  her  love  bore  fire.
+
+Then  I  preferred  war  to  inglorious  feasts,
+
+So  I  might  shun  the  Crocodile's  embrace.
+
+Our  good  friend  Garsiwaz  was  then  at  Balkh
+
+With  many  troops,  Afrasiyab  at  Sughd
+
+Was  threatening  us  with  five  score  thousand  sabres.
+
+We  sped  as  'twere  a  blast  to  seek  the  fray,
+
+But  when  they  left  the  province,  sending  gifts
+
+And  hostages,  the  archimages  held
+
+That  we  should  quit  the  field.     Now  if  the  Shah
+
+Is  merely  fighting  for  aggrandisement
+
+He  may  have  war  and  territory  too,
+
+But  why  such  wanton  bloodshed,  such  revenge
+
+Stirred  up  in  others'  hearts  ?     The  brainless  head
+
+Will  ne'er  know  good  from  bad.     Kubad  came,  died,
+
+And  left  the  world ;  from  that  time  all  was  lost.
+
+My  deeds  please  not  Kaiis,  who  fain  would  harm  me,      v-  583
+
+Requiring  me  to  fight  without  a  cause.
+
+
+250  THE   SHAHNAMA    OF  FIRDAUSI
+
+I  fear  that  I  shall  perish  through  mine  oath,
+But  still  we  must  not  turn  from  God,  or  fear
+To  follow  our  forefathers'  steps.     The  Shah
+Would  rob  me  of  both  worlds,  and  yield  me  up
+To  Ahriman !     If  we  should  fight  again
+Who  can  foretell  the  fortune  of  the  day  ?
+Would  I  had  died,  or  never  had  been  born,
+Since  I  am  fated  to  endure  such  bale
+And  taste  of  every  poison  in  the  world ;
+And  yet  the  tree  hath  not  attained  full  growth
+Whose  fruit  is  venom  and  the  leafage  loss !
+Such  are  the  treaty  and  oaths  sworn  by  God
+That,  if  I  swerve  from  what  is  right,  disaster
+Will  come  on  every  side ;  I  shall  be  blamed
+Deservedly.     The  world  hath  heard  that  I
+Have  treated  with  the  monarch  of  Tiiran.
+Will  God  approve  or  fortune  profit  me
+If  I  desert  the  Faith  and  fight  again —
+A  fall  from  heaven  to  earth  ?     I  will  go  look
+For  some  retreat  to  hide  me  from  the  Shah.
+Meanwhile  the  ordering  of  this  bright  age
+Is  in  His  hands  Who  is  the  Judge  of  all.
+Do  thou,  famed  Zanga  son  of  Shawaran !
+Prepare  for  toil ;  haste  to  Afrasiyab  ;
+Give  not  thy  head  to  sleep.     The  hostages,
+And  all  the  precious  things — dinars,  crowns,  thrones —
+V.  584        Convey  to  him  and  tell  him  what  hath  chanced."
+
+He  charged  Bahrain  son  of  Giidarz  :  "  To  thee,
+Famed  man  !  have  I  resigned  the  host  and  march,
+Drums,  camp,  and  elephants.     Remain  till  Tvis
+The  general  shall  arrive,  then  give  to  him
+The  treasures  and  the  troops  in  perfect  order,
+Accounting  unto  him  for  everything."
+
+Bahrain  was  sorely  troubled  when  he  heard,
+While  Zanga  son  of  Shawaran  wept  blood,
+And  cursed  the  country  of  Hamavaran.
+
+
+KAI  A'Atis  251
+
+The  two  sat  there  together  full  of  grief,
+
+Distracted  by  the  words  of  Siyawush.
+
+Bahrain  said :  "  Nay,  not  so :  thou  canst  not  live
+
+Without  thy  sire.     Write  to  the  Shah  and  ask
+
+To  have  the  elephantine  hero  back ;
+
+Then,  if  Kaus  still  biddeth  thee,  fight  on  ;
+
+'Tis  but  a  trifle  if  not  trifled  with.
+
+Or  wouldst  thou  rest  ?     It  may  be  done  with  ease ;
+
+To  beg  thy  father's  pardon  is  no  shame.
+
+If  thou  wilt  send  the  hostages  to  him
+
+His  heart  and  gloomy  soul  will  smile ;  if  thou
+
+Art  so  concerned  about  them  let  them  go,
+
+There  is  no  hostage  for  thyself.     This  letter
+
+Cornmandeth  war,  and  all  may  yet  be  well,
+
+For  if  Kaiis  doth  bid  us  we  will  fight,
+
+And  bring  our  foes  to  straits.     Think  not  vain  thoughts,
+
+But  capture  him  by  complaisance,  and  cause  not
+
+Bad  times  for  us  now  that  the  tree  of  power
+
+Is  fruiting ;  fill  not  eyes  and  crown  and  throne
+
+With  blood,  and  shrivel  not  the  royal  tree.
+
+Ill  will  befall  throne,  crown,  host,  camp,  and  court
+
+Without  thee,  for  the  brain-pan  of  Kaus  v.  585
+
+Is  as  a  Fane  of  Fire,  his  war  and  letter
+
+Are  both  absurd ;  but  if  heaven's  purposes
+
+Oppose  my  rede,  why  say  I  more  ? "
+
+The  prince
+
+Refused  the  counsel  of  those  two  wise  men,  ^
+
+So  heaven  willed.     He  said :  "  The  Shah's  command
+Is  higher  than  the  sun  and  moon  to  me ;
+Yet  none  from  straws  to  elephants  and  lions
+May  brave  God's  word,  and  he  that  disobeyeth
+Hath  troubled  wits  and  is  beside  himself.
+Must  I  put  forth  my  hand  for  shedding  blood,
+And  lead  two  kingdoms  into  war  ?     Besides
+He  is  aggrieved  about  the  hostages,
+And  will  demand  again  what  I  refused ;
+
+
+252  THE   SHAHNAMA    OF  FIRDAUSI
+
+While  if  I  quit  the  field,  returning  home
+Without  a  fight,  the  Shah  will  be  incensed
+And  in  his  fury  harm  me.     If  your  hearts
+Are  troubled  by  my  action  heed  me  not ;
+I  will  be  mine  own  guide  and  messenger,
+And  quit  the  camp-enclosure  on  the  waste.
+When  one  is  no  partaker  in  my  gains
+Why  should  he  take  to  heart  my  pains  ? "
+
+When  thus
+
+He  spake  the  souls  of  those  two  chieftains  withered ;
+They  wept  at  dread  of  parting  and  consumed
+As  in  fierce  fire ;  they  saw  the  evil  eye
+Of  fortune  secretly  upon  the  prince,
+That  they  would  never  look  on  him  again,
+And  wept  his  case.     Said  Zanga :  "  We  are  slaves :
+Love  for  our  leader  filleth  both  our  hearts.
+V.  586        Now  may  our  souls  and  bodies  ransom  thee,
+And  may  our  loyalty  endure  till  death."
+
+The  gentle,  prudent  prince  replied  to  Zanga : —
+"  Go  tell  Afrasiyab  of  what  hath  chanced.
+Say :  '  Through  this  peace  my  lot  is  one  of  war :
+Thine  are  the  sweets,  the  pang  and  poison  mine,
+Yet  will  I  keep  my  covenant  with  thee
+Albeit  I  shall  lose  the  throne  of  might.
+God  is  my  refuge,  heaven  my  covering,
+The  ground  my  throne.     I  rashly  disobeyed
+And  cannot  face  the  Shah.     Give  me  a  cistern
+Where  God  appointeth  and  I  may  not  hear
+Aught  of  the  evil  nature  of  my  sire,
+But  find  for  once  a  respite  from  his  ire.' "
+
+§  29
+How  Zanga  went  to  Afrdsiydl)
+
+So  Zanga,  with  a  hundred  noble  horsemen,
+Bore  from  the  prince's  court  the  hostages,
+
+
+KAI    KAtS  253
+
+And  all  the  goods  that  Garsiwaz  had  brought.
+
+When  Zanga  reached  the  Turkman  monarch's  city
+
+A  shout  ascended  and  the  watch  espied  him.
+
+A  noble  warrior  Tuwurg  by  name
+
+Went  forth  to  welcome  him.     At  audience
+
+Afrasiyab  arose,  embraced  him  warmly,
+
+And  set  him  by  the  throne,  where  he  presented
+
+The  letter  and  delivered  all  the  message.
+
+Afrasiyab  was  much  disquieted
+
+And,  having  ordered  fitting  entertainment
+
+For  Zanga,  called  his  captain  of  the  host,
+
+Who  came  like  smoke.     Now  when  Piran  arrived  1  V.  587
+
+The  monarch  cleared  the  room  and  spake  with  him
+
+About  Kaiis  and  his  intemperate  words,
+
+His  evil  nature  and  his  warlike  projects.
+
+Afrasiyab  looked  grave,  his  heart  was  full
+
+For  Siyawush.     He  told  of  Zanga's  coming,
+
+And  asked  :  "  What  remedy  shall  I  employ,
+
+How  make  a  league  in  this  embarrassment  ? "
+
+Piran  replied  :  "  0  king  !  live  happily
+While  time  shall  be.     Thou  art  more  wise  than  we  are.
+In  treasure  and  in  manhood  mightier ;
+In  apprehension,  kindness,  understanding,
+And  counsel,  none  hath  wit  to  supersede  thee.
+All  that  have  power  to  benefit  this  prince
+Will  grudge  not  toil  and  treasure.     I  have  heard
+That  there  is  no  chief  like  him  in  the  world
+In  stature,  countenance,  and  gentleness,
+In  culture,  counsel,  and  propriety.
+His  prowess  and  his  wisdom  too  exceed
+His  noble  birth.     No  monarch  hath  begotten
+Another  such ;  words  cannot  do  him  justice.
+He  is  a  prince  illustrious  and  right  royal.
+If  he  possessed  no  virtue  but  this  one —
+
+1  From  this  point  Pinln,  "  a  verray  parfit  gentil  knight,"  plays  an
+important  part  in  the  poem.     Cf.  vol.  i.  p.  55.
+
+
+254  THE   SHAHNAMA    OF  FIRDAUSI
+
+That  he  hath  quarrelled  with  his  sire  to  save
+Our  hundred  nobles'  lives,  given  up  the  throne
+And  crown  to  meaner  men,  and  gone  his  way,
+'Twould  not  be  politic  to  let  him  pass
+From  us.     Besides  Kaiis  is  hoary  now ;
+The  time  hath  come  for  him  to  quit  the  throne ;
+V.  588        But  Siyawush  is  youthful,  hath  the  Grace,
+
+And  will  succeed.     The  nobles  would  condemn  thee,
+
+And  Siyawush  himself  would  be  aggrieved.
+
+If  now  the  king  in  wisdom  shall  see  fit
+
+Let  him  dispatch  to  this  wise  youth  a  letter
+
+Entreating  him  as  men  entreat  their  children ;
+
+Prepare  him  here  a  dwelling,  entertain  him
+
+With  fitting  honour,  give  him  a  princess
+
+To  wife,  and  let  him  be  esteemed  and  cherished.
+
+If  he  remain  thy  realm  will  be  in  peace,
+
+If  he  go  home  thy  fortune  will  be  bettered,
+
+For  he  will  be  in  favour  with  the  Shah,
+
+And  honoured  by  the  nobles ;  both  the  hosts
+
+May  rest,  God  making  him  the  instrument.
+
+It  would  be  worthy  of  the  Maker's  justice
+
+To  rectify  the  age  in  this  regard."
+
+The  monarch  listened  to  Piran  and,  seeing
+What  would  result,  took  time  to  estimate
+The  good  and  ill  thereof;  he  then  rejoined : —
+"  Thou  counsellest  well.     Among  the  chosen  chiefs
+And  veterans  thou  art  incomparable ;
+Yet  have  I  heard  an  adage  to  the  point : —
+'  If  thou  shouldst  make  a  lion's  whelp  thy  pet,
+
+And  foster  it  however  tenderly,
+Still,  when  its  teeth  and  claws  are  grown,  regret
+
+Will  be  thy  lot.     The  brute  will  turn  on  thee.' "
+
+Piran  said :  "  Let  the  king  of  warriors  look
+With  wisdom  on  this  matter.     Can  ill  nature
+Befit  one  who  hath  not  inherited
+The  ill  nature  and  perverseness  of  his  sire  ?
+
+
+KAI   KAUS  255
+
+Dost  thou  not  see  that  Kai  Kaus  is  old  v«  589
+
+And  must  depart  ?     Then  Siyawush  will  take
+The  wide  world,  wealth  untoiled  for,  hall  and  palace;
+Thus  wilt  thou  gain  both  realms,  their  crown  and  state :
+The  man  that  getteth  them  is  fortunate."
+
+
+§  30       ,
+
+How  Afrasiydb  wrote  to  Siyawush
+
+Afrasiyab,  when  he  had  heard  this,  took
+
+A  wise  resolve,  called  an  experienced  scribe
+
+And  spake  to  him  at  large  about  the  matter.
+
+The  scribe  first  dipped  his  pen  in  ambergris,
+
+Then  wrote  the  Maker's  praise,  acknowledging
+
+His  might  and  wisdom  :  "  Since  He  is  above
+
+Both  time  and  place  how  can  His  slaves'  thoughts  reach
+
+To  Him — the  Lord  of  wisdom,  sense,  and  soul,
+
+Whose  justice  is  the  provand  of  the  sage  ?
+
+His  benediction  be  upon  the  prince —
+
+The  lord  of  helm  and  mace  and  scimitar,
+
+The  lord  of  modesty  and  reverence,
+
+Pure  from  wrongdoing  both  in  heart  and  hand.
+
+From  wary  Zanga  son  of  Shawaran
+
+Have  I  heard  all  thy  message,  and  my  heart
+
+Is  troubled  that  the  world-lord  is  enraged
+
+So  much  against  thee ;  but  what  seek  the  wise,
+
+Whose  fortunes  are  awake,  save  crown  and  throne  ?
+
+Here  everything  hath  been  prepared  for  thee,
+
+E'en  to  the  royal  dignity  and  treasures,
+
+For  all  Tiiran  will 'do  thee  reverence,
+
+And  I  for  my  part  long  to  have  thy  love.
+
+Then  thou  and  I  will  be  as  son  and  sire —
+
+A  sire  who  is  a  slave  before  his  son.
+
+Know  that  Kaiis  hath  never  shown  affection
+
+For  thee  like  mine,  for  I  will  ope  my  heart,  v.  590
+
+
+256  THE   SHAHNAMA   OF  FIRDAUSI
+
+My  hoards,  and  hand,  provide  thee  with  a  home,
+
+Protect  thee  like  a  son,  and  leave  thee  here
+
+As  my  memorial.     Shouldst  thou  go  elsewhere
+
+I  should  be  blamed  by  high  and  low  alike ;
+
+And  thou  wilt  find  the  going  difficult,
+
+Except  by  Providence  and  Grace  divine,
+
+For  yonder  thou  must  lose  the  sight  of  land,
+
+And  cross  the  sea  of  Chin.     If  no  constraint
+
+Is  put  on  thee  by  God  come  as  a  friend.
+
+Troops,  treasure,  gold,  and  city  all  are  thine,
+
+And  thou  shalt  need  no  pretext  for  departing,
+
+For  when  thou  wouldst  be  friendly  with  thy  sire,
+
+I  will  provide  thee  crown  and  throne  and  girdle,
+
+With  soldiers  to  escort  thee  to  Iran,
+
+And  bear  thee  company  myself  for  love.
+
+The  quarrel  with  thy  father  will  not  last ;
+
+At  his  age  he  will  soon  be  sick  of  strife.
+
+If  fire  appeareth  after  sixty-five
+
+It  cometh  hardly  from  the  damps  of  age.
+
+Iran  and  host  and  treasure  will  be  thine,
+
+And  crown  with  sovereignty  from  clime  to  clime ;
+
+Moreover  I  have  sworn  by  holy  God
+
+To  labour,  soul  and  body,  for  thy  welfare.
+
+I  will  not  harm  thee  by  myself  or  others,
+
+Or  wrong  thee  even  in  thought."
+
+He  sealed  the  letter,
+
+Then  bade  his  good  friend  Zanga  gird  his  loins
+To  go  with  speed,  and  gave  him  many  gifts
+Of  gold  and  silver,  and  a  steed  caparisoned
+With  massive  gold.     When  Zanga  gave  his  tidings
+59I        The  prince  was  glad  and  sorry  too  to  make
+
+His  foe  a  friend.     Would  fire  give  cooling  breezes  ?
+A  foe,  however  kind  thou  maj^est  be,
+Will  in  the  end  display  his  enmity.
+
+
+KAI  KAUS  257
+
+§3«
+How  Siyaivush  gave  up  the  Host  to  Bahrain
+
+Then  Siyawush  wrote  thus  to  Kai  Kaiis
+
+To  tell  him  all :  "  Though  young  I  want  not  wits.
+
+While  I  have  done  no  wrong,  the  world-lord's  temper
+
+Hath  burned  my  heart  within  me.     First  Sudaba
+
+Occasioned  trouble ;  I  was  forced  to  traverse
+
+A  mount  of  fire ;  my  heart's  blood  bathed  my  cheeks,
+
+And  in  the  wastes  the  deer  wept  sore  for  me.
+
+Then  went  I  forth  in  shame  and  woe  to  face
+
+The  claws  of  Crocodiles.     Both  kingdoms  now
+
+Enjoy  repose,  yet  is  the  Shah's  heart  like
+
+A  sword  of  steel ;  my  doings  please  him  not,
+
+And  if  I  bind  or  loose  'tis  all  the  same.
+
+Since  he  is  weary  of  me  I  will  cease
+
+To  trouble  him.     Ne'er  may  his  heart  lack  joy.
+
+As  for  myself  I  seek  the  Dragon's  breath
+
+In  sorrow,  doubtful  what  the  turning  sky
+
+Intendeth  for  me — whether  hate  or  love."
+
+Then  said  he  to  Bahrain :  "  Now  give  thy  name
+Fresh  glory  in  the  world ;  I  leave  with  thee
+The  baggage  and  the  camp,  the  cavaliers,
+The  treasure,  elephants,  and  kettledrums.
+When  noble  Tus  shall  come,  resign  thy  charge
+To  him,  be  vigilant  and  fortunate."
+
+He  chose  three  hundred  doughty  cavaliers,
+Had  brought  to  him  such  money  as  he  needed,  V.  592
+
+With  jewels  fit  for  kings,  a  hundred  steeds
+With  golden  furniture,  a  hundred  slave  boys
+With  golden  belts,  and  had  a  reckoning  made
+Of  weapons,  beasts,  and  girdles.     Then  he  summoned
+The  nobles,  spake  in  many  gracious  words
+To  them,  and  said :  "  Piran  hath  crossed  the  river.
+Sent  by  Afrasiyab  on  secret  business
+
+VOL.  II.  R
+
+
+258  THE   SHAHNAMA    OF  FIRDAUSI
+
+To  me,  because  his  people  trust  in  him.
+I  go  to  meet  him ;  ye  must  tarry  here.
+Look  to  Bahrain  for  orders  and  obey
+Him  loyally."
+
+The  chiefs  all  kissed  the  ground
+Before  the  glorious  Siyawush.
+
+At  sunset,
+
+When  air  grew  dark  and  earth  ungenial,
+The  prince,  his  face  obscured  by  tears,  marched  forth
+Toward  Jihuii  with  all  his  company.
+When  he  had  reached  Tirmid,  doors,  roofs,  and  streets
+Were  full  of  scent  and  colour  like  the  spring
+Up  to  the  gates  of  Chach  :  thou  wouldst  have  said : —
+"  It  is  a  bride  with  crown  and  necklaces."
+At  every  stage  were  carpets  laid  and  viands
+Prepared,  the  whole  way  to  Kachar  Bashi,
+Where  he  dismounted  and  remained  a  while.
+
+When  Tus  reached  Balkh  they  told  him  bitter  news  : —
+"  The  son  of  glorious  Kai  Kaiis  hath  gone
+To  join  the  leader  of  the  Turkman  host."
+
+Tus  called  in  all  the  troops  and  marched  them  back
+V.  593       To  court.     The  news  made  Kai  Kaiis  turn  pale  ;
+
+He  mourned  and  heaved  a  deep,  cold  sigh ;  his  heart
+
+Was  full  of  fire,  his  eye  of  tears  for  wrath
+
+With  Siyawush  and  with  Afrasiyab ;
+
+But,  doubtful  if  the  sky  would  prove  a  friend
+
+Or  enemy,  he  put  away  his  anger,
+
+And  thought  no  more  of  warfare  and  revenge.
+
+On  hearing :  "  Siyawush  hath  crossed  the  river
+With  troops  to  us,  his  envoy  hath  arrived,"
+Afrasiyab  bade  all  the  chief  estates
+Go  forth  with  kettledrums  to  welcome  him.
+Piran  chose  out  one  thousand  of  his  kin
+To  meet  the  prince  with  gifts,  apprised  the  host,
+And  gat  him  ready  four  white  elephants.
+One  bore  a  turquoise  throne  backed  by  a  flag
+
+
+or
+
+
+KAI  KAUS  259
+
+
+tree-like  size,  surmounted  by  a  moon ;
+The  flag  was  gold-embroidered  violet  silk ;
+Upon  the  golden  throne  were  three  gold  seats,
+And  each  of  them  was  covered  with  brocade.
+There  were  a  hundred  noble  steeds  whose  saddles
+Were  jewelled  gold.     The  host,  thou  wouldst  have  said,
+Was  like  the  earth  when  graced  by  heaven's  love.
+
+When  Siyiiwush  had  heard :  "  A  company
+Hath  come,"  perceived  the  banner  of  Piran,
+And  heard  the  sound  of  elephants  and  steeds,
+He  hurried  forth,  embraced  Piran,  inquired
+About  the  king  and  kingdom,  and  exclaimed  :—
+"  Why  hast  thou  vexed  thy  soul  by  coming  hither,
+
+0  captain  of  the  host  ?     My  heart's  first  wish  V.  594
+Was  to  behold  thee  safe  and  sound."
+
+Piran
+
+Kissed  his  fair,  charming  face,  his  head  and  feet,
+And  thus   addressed  the   Maker :   "  Thou   know'st   all
+
+things,
+
+The  open  and  the  secret.     Hadst  Thou  shown  me
+His  soul  in  dreams,  in  sooth  mine  aged  head
+Had  been  made  young."
+
+He  said  to  Siyawush  :—
+"  Now  that  I  see  thee  radiant  and  robust
+
+1  offer  praises  to  Almighty  God.
+Afrasiyab  will  be  a  father  to  thee,
+
+The  chiefs  this  side  the  stream  will  be  thy  slaves.
+Above  a  thousand  of  my  kin  will  wait
+On  thee  with  earrings  in  their  ears,  my  treasures
+Are  all  thine  own ;  be  ever  hale  and  happy.
+Draw  not  a  single  breath  of  discontent,
+For  men  and  women  are  alike  thy  slaves,
+And,  if  thou  wilt  accept  my  hoary  head,
+I  too  will  gird  my  loins  to  do  thee  service."
+
+They  went  with  joy,  discussing  divers  matters,
+While  through  the  city  there  were  sounds  of  harp
+
+
+260  THE  SHAHNAMA    OF  FIRDAUSf
+
+And  rebeck  ;  sleepy  heads  were  roused ;  the  soil
+Was  blackened  with  fresh  musk  ;  the  Arab  steeds
+All  spread  their  wings.     When  Siyawush  saw  this
+Tears  rained  from  both  his  eyes,  his  thoughts  were
+
+troubled,
+
+For  he  recalled  the  hocktide  in  Zabul
+When  it  was  decked  up  to  Kabulistan,
+And  he  had  gone  as  guest  to  Rustam  there
+With  all  the  famous  men  for  company,
+And  how  the  folk  had  showered  down  gold  and  gems,
+And  sifted  musk  and  ambergris  o'erhead.
+He  thought  about  Iran  and  heaved  a  sigh,
+His  heart  burned  with  the  memories  of  home,
+v.  595       He  turned  his  head  to  hide  this  from  Piran,
+
+Albeit  that  chieftain  marked  the  grief  and  pain :
+
+He  understood  the  thoughts  of  Siyawush,
+
+Grew  sorrowful  himself  and  bit  his  lips.
+
+They  lighted  at  Kachar  Bashi  to  breathe
+
+Awhile.     Piran  scanned  Siyawush,  and  marked
+
+With   wondering   eyes  his   speech,   breast,   neck,   and
+
+shoulders,
+
+Invoked  God's  name,  and  said  :  "  Illustrious  prince !
+Thou  art  the  memory  of  sovereigns,
+And  hast  three  things  that  not  a  prince  beside
+Possesseth.     First,  thou  makest  men  discern
+The  nature  of  the  seed  of  Kai  Kubad ;
+While  secondly,  thou  hast  adorned  thy  tongue
+With  such  uprightness  and  such  goodly  speech ;
+And  thirdly,  one  would  say  :  '  Thy  face  distilleth
+Thy  love  on  earth  in  showers.' "
+
+The  prince  replied  :—
+"  O  venerable  sage  who  sayest  sooth,
+World-famed  for  thy  sincerity  and  love,
+Far  from  unkindness  and  from  Ahriman !
+If  thou  wilt  make  a  covenant  with  me
+I  know  that  thou  wilt  keep  it,  and  will  make
+
+
+KAI  KAUS  261
+
+This  land  my  home  in  love  and  confidence
+In  thee,  my  friend !  and,  if  my  sojourn  here
+Is  well,  I  need  not  weep  for  what  I  did :
+If  otherwise  command  me  to  depart,
+And  point  me  out  the  way  to  other  realms."
+
+Piran  replied :  "  Have  no  such  thought.     Since  thou
+Hast  left  f  ran,  in  no  wise  hasten  from  us,
+And  lose  our  monarch's  love.     Though  his  repute
+In  this  world  is  not  good,  he  is  a  man
+Of  God,  hath  wisdom,  prudence,  and  high  rede,
+And  turneth  not  in  lightness  to  bad  ways.
+He  is  my  blood-relation l  too ;  with  him  V.  596
+
+I  have,  as  paladin  and  counsellor,
+High  rank,  abundant  treasures,  thrones,  and  troops.
+Above  a  hundred  thousand  cavaliers
+Obey  me  here.     Twelve  thousand  of  my  kinsmen
+Stand  day  and  night  before  me.     I  have  land,
+Flocks,  lassos,  bows,  steeds,  implements  of  war,
+And  hoarded  treasure ;  I  need  no  man's  aid.
+Let  all  this  be  thy  ransom  if  thou  wilt
+Abide  with  us.     I  swear  by  Holy  God
+That  I  will  serve  thee  both  with  heart  and  soul.
+I  will  not  suffer  any  ill  to  thee.  .  .  .
+But  no  man  knoweth  high  heaven's  purposes."
+
+The  prince  rejoiced,  his  heart  was  freed  from  care.
+They  sat  and  ate,  and  grew  like  sire  and  son,
+Then  in  high  spirits  sped  along  the  road
+To  Gang — the  Turkman  monarch's  fair  abode.
+
+
+§32
+
+The  Interview  of  Siydwush  with  Afrdsiydb
+
+On  hearing :  "  Glorious  Siyawush  hath  come,"
+
+Afrasiyab  descended  to  the  street  V.  597
+
+1  Afrdsiyab  and  Pirdn  were  cousins.
+
+
+262  THE   SHAHNAMA    OF  FIRDAUSI
+
+Afoot  with  girded  loins  right  eagerly.
+
+The  prince  beholding  him  got  off  his  horse
+
+And  ran  to  meet  the  king.     The  two  embraced,
+
+And  kissed  each  other's  head  and  eyes.     Then  said
+
+Afrasiyab :  "  Now  evil  is  asleep
+
+Throughout  the  world ;  henceforward  war  and  tumult
+
+Will  cease ;  the  deer  and  pard  will  drink  together.
+
+The  world  was  troubled  by  brave  Tur,  but  now
+
+Our  realms  are  sick  of  strife ;  while  they  were  filled
+
+With  turmoil  the  world's  heart  had  no  repose ;
+
+Peace  is  restored  by  thee ;  the  age  hath  rest
+
+From  battle  and  hot  blood,  all  in  Tiiran
+
+Are  now  thy  slaves,  all  hearts  are  full  of  love
+
+For  thee ;  in  soul  and  body  I  am  thine ;
+
+Piran  the  general  is  thy  kinsman  too.
+
+I  will  regard  thee  with  a  father's  fondness,
+
+And  ever  show  to  thee  a  face  all  smiles."
+
+Then  Siyawush  with  many  blessings  answered  : —
+"  May  justice  be  the  fortune  of  thy  race.
+Praise  to  the  Lord,  the  Maker  of  the  soul,
+From  Whom  are  peace  and  battle  and  revenge."
+
+The  monarch,  hand  in  hand  with  Siyawush,
+Sat  on  the  throne  of  might,  and  as  he  gazed
+Upon  the  prince,  said  :  "  None  can  equal  him
+On  earth  in  stature,  looks,  and  kingly  Grace."
+V.  598        Then  to  Piran :  "  Kaiis  is  old  and  witless
+To  lose  sight  of  a  son  so  tall  and  gifted
+As  this.     I  marvelled,  when  I  first  beheld  him,
+How  any  man  writh  such  a  son  could  look
+At  aught  besides."
+
+He  made  choice  of  a  palace,
+Laid  cloth  of  gold  for  carpets,  set  a  throne
+Of  gold  with  feet  like  heads  of  buffaloes,
+Bedecked  the  palace  with  brocade  of  Chin,
+And  furnished  it  throughout,  then  bade  his  guest
+Go  thither  and  abide  in  full  content.
+
+
+KAI  KAUS  263
+
+When  Siyawush  arrived  before  the  hall
+Its  dome  reached  Saturn,  he  went  in  and  sat
+Upon  the  golden  throne,  his  wise  soul  wrapped
+In  thought,  until  the  monarch's  board  was  spread,
+And  he  was  summoned;  there  they  talked  together,
+And  entered  on  a  course  of  happiness.
+
+The  banquet  o'er  they  went  with  harp  and  minstrel
+To  hold  a  drinking-bout.     They  sat  and  quaffed
+Until  the  world  grew  dark  and  heads  became
+Bemused  with  wine,  then  Siyawush  went  home
+With  glee,  and  in  his  cups  forgot  Iran.
+Afrasiyab  gave  heart  and  soul  to  him,
+And  could  not  sleep  for  thinking.     That  same  night
+He  said  to  Shida  : l  "  When  the  morn  shall  come,  V.  599
+
+And  Siyawush  hath  risen,  go  to  him
+With  mine  own  kinsmen  and  the  paladins
+Of  highest  rank,  take  with  you  noble  steeds
+Caparisoned  with  gold,  and  other  gifts."
+
+Accordingly  the  warriors  presented
+To  Siyawush  gold  coins  and  royal  gems
+With  courteous  greetings,  and  the  king  too  sent
+Him  many  gifts.     Thus  was  one  sennight  spent.
+
+§  33
+
+How  Siyawush  displayed  his  Prowess  before  Afrasiydb
+
+One  night  the  king  spake  thus  to  Siyawush : —
+"  To-morrow  morning  let  us  play  at  polo  ;
+I  hear  that  none  among  the  warriors
+Can  face  thy  mall  on  thine  own  ground."
+
+"Oking!"
+
+Said  Siyawush,  "  be  fortunate  and  ever
+Beyond  the  reach  of  ill !    Kings  look  to  thee
+For  teaching  ;  who  surpasseth  thee  ?    Day  shineth
+When  I  behold  thee,  from  thee  I  accept
+Both  good  and  ill."
+
+1  His  son.
+
+
+264  THE  SHAHNAMA    OF  FIRDAUSI
+
+Afrasiyab  replied : —
+"  My  son  !  be  ever  glad  and  conquering.
+Thou  art.  a  prince,  the  glory  of  the  throne,
+A  royal  crown  and  backbone  of  the  host."
+V.  600  They  went  out  laughing  to  the  Ground  at  morn
+
+In  gallant  trim.     Then  said  Afrasiyab
+To  Siyawush  :  "  Let  us  be  opposites,
+Select  our  partners,  and  make  up  our  sides."
+
+He  answered :  "  What  will  hand  and  mall  avail  ?
+I  cannot  play  against  thee.     Take  some  other
+As  thine  antagonist,  I  am  thy  partner —
+One  of  thy  horsemen  on  this  spacious  Ground."
+
+The  monarch  was  delighted  at  his  words,
+Esteeming  those  of  others  only  wind.
+"  Nay,  by  the  life  and  head  of  Shah  Kaiis,"
+Said  he,  "  thou  shalt  be  friend  and  opposite.
+Display  thy  prowess  to  the  cavaliers,
+So  that  they  may  not  say :  '  He  chose  amiss,'
+But  give  thee  praise  while  I  laugh  out  with  wonder."
+
+Then  Siyawush  replied :  "  'Tis  thine  to  bid :
+The  cavaliers,  the  Ground,  and  malls  are  thine."
+
+Afrasiyab  selected  for  his  side
+Kulbad,1  Piilad,  Piran,  Jahn,  Garsiwaz,
+With  Nastihan  the  gallant,  and  Human,
+Who  would  drive  balls  from  water.     Then  the  king
+Sent  over  to  the  side  of  Siyawush
+Ruin,  illustrious  Shida,  and  Arjasp
+The  mounted  Lion,  and  Andariman
+The  doughty  cavalier.2     Said  Siyawush : —
+"  Ambitious  king !  will  any  of  these  dare
+To  face  the  ball  ?     They  side  with  thee,  while  I
+Shall  have  to  play  alone  and  watch  them  too.
+So  with  the  king's  leave  I  will  bring  to  help  me
+A  few  Iranian  players  on  the  Ground
+V.  601        In  order  that  both  sides  may  play  the  game."
+
+1  Cf.  p.  119.  2  For  most  of  the  above  names  see  vol.  i.  p.  92.
+
+
+KAI  KAUS  265
+
+The  monarch  heard  the  words,  gave  his  consent,
+And  from  the  Iranians  Siyawush  chose  seven
+Well  skilled.     The  tymbals  sounded,  dust  arose,
+While  what  with  cymbal-clash  and  clarion-blare
+Thou  wouldst  have  said  :  "  The  ground  is  all  a-quake  ! "
+Afrasiyab  hit  off  and  drove  the  ball
+Up  to  the  clouds  just  as  it  should  be  struck.
+Then  Siyawush  urged  on  his  steed  and  smote
+The  ball,  or  ever  it  could  reach  the  ground,
+So  stoutly  that  it  disappeared  from  sight.
+Thereat  the  exalted  monarch  bade  his  men
+To  give  another  ball  to  Siyawush,
+Who  as  he  took  it  kissed  it,  and  there  rose
+A  flourish  from  the  pipes  and  kettledrums.
+He  mounted  a  fresh  steed,  threw  up  the  ball,
+And  drove  it  out  of  sight  to  see  the  moon.
+Thou  wouldst  have  said :  "  The  sky  attracted  it."
+There  was  not  on  the  ground  his  peer,  and  none,
+Had  such  a  beaming  face.     The  monarch  laughed,
+The  nobles  grew  attentive  and  exclaimed : —
+"  We  never  saw  a  rider  like  this  chief ! "
+
+The  famous  monarch  said  :  "  Of  such  a  kind
+Is  each  one  gifted  with  the  Grace  of  God  ;
+But  Siyawush  hath  bettered  all  report."
+
+The  attendants  set  a  throne  beside  the  Ground,
+The  monarch  beaming  sat  down  with  the  prince,
+And  told  the  company :  "  The  Ground  and  balls  V.  602
+
+Are  at  your  service."
+
+Then  the  Iranians  played
+A  match  with  the  Turanians.     Dust  flew  up
+With  shouts  as  these  or  those  bore  off  the  ball ;
+But  when  the  Turkmans  played  too  angrily
+In  their  endeavours  to  obtain  a  goal,
+And  when  the  Iranians  intercepted  them
+So  that  the  Turkmans'  efforts  were  in  vain,
+Displeased  with  his  own  people  Siyawush
+
+
+266  THE   SHAHNAMA    OF  FIRDAUSI
+
+Cried  to  them  in  the  olden  Persian  tongue : —
+"  Is  this  a  playground,  or  would  ye  cause  strife
+In  our  dependent  and  precarious  state  ?
+When  ye  are  near  the  limits  look  aside
+And  let  the  Turkmans  have  the  ball  for  once."
+
+His  horsemen  rode  more  gently  after  this
+And  did  not  heat  their  steeds,  then  as  the  Turkmans
+Were  shouting  for  a  goal  Afrasiyab
+Perceived  the  purpose  of  the  words,  and  said : —
+"  I  have  been  told  by  one  of  mine  own  friends
+That  Siyawush  hath  no  peer  in  the  world
+For  archery  and  might  of  neck  and  shoulder."
+
+Thereat  the  prince  uncased  his  royal  bow ;
+The  monarch,  having  asked  to  see  it  first
+That  one  of  his  own  kin  might  prove  its  strength,
+Kegarded  it  with  wonder,  and  invoked
+Full  many  a  royal  blessing,  then  presented
+The  bow  to  Garsiwaz  the  sworder,  saying : —
+"  Bend  thou  this  bow  and  string  it."
+
+That  malignant
+
+Failed,  to  his  great  amazement.     Siyawush
+V.  603        Took  back  the  bow  and  sitting  on  his  knees
+
+Bent  it  and  strung  it,  smiling.     Said  the  king : —
+
+"  With  this  one  might  shoot  over  sky  and  moon  !
+
+I  too  in  days  of  youth  had  such  a  bow,
+
+But  times  are  changed,  and  no  one  in  our  lands
+
+Would  dare  to  grasp  this  bow  when  war  is  toward,
+
+Save  Siyawush,  and  he  with  such  a  chest
+
+And  arms  would  wish  none  other  on  his  charger."
+
+They  placed  a  target  on  the  riding-ground,
+And  Siyawush,  who  challenged  none  to  shoot,
+Bestrode  his  wind-foot  charger  like  a  div,
+Gripped  with  his  legs,  and  shouted  as  he  went.
+In  sight  of  all  the  chiefs  his  arrow  hit
+The  bull's  eye.     Then  he  set  upon  his  bow
+Another  shaft,  of  poplar  wood,  four  feathered,
+
+
+KAI  KAUS  267
+
+And  in  the  same  course  hit  the  second  time.
+Next  wheeling  to  the  right  he  hit  the  target
+Just  as  he  would.  This  being  done  he  flung
+The  bow  upon  his  arm,  approached  the  king,
+And  lighted  from  his  steed.  The  monarch  rose : —
+"  Thy  skill,"  said  he,  "  is  witness  to  thy  race."
+
+Returning  to  the  lofty  palace  thence
+They  went  with  happy  hearts  as  bosom-friends  ;
+There  took  their  seats,  arranged  a  drinking-bout,
+And  summoned  skilful  minstrels  to  attend.
+They  quaffed  no  little  wine,  grew  glorious,
+And  drank  the  health  of  Siyawush.     The  king
+While  sitting  at  the  board  arranged  a  gift —
+A  horse  and  trappings,  throne  and  diadem,
+Uncut  stuffs,  such  as  none  had  seen  before,
+Gold  coins,  and  silver  coins  in  bags,  turquoises,
+With  many  girl  and  boy  slaves,  and  a  cup  v.  604
+
+Which  brimmed  with  shining  rubies.     Then  the  king
+Commanded  to  count  up  those  precious  gifts,
+And  certain  of  the  dearest  of  his  kinsmen
+To  bear  them  to  the  house  of  Siyawush.
+Thus  said  he  to  his  troops :  "  In  everything
+Regard  the  prince  as  if  he  were  your  king."
+
+
+§  34
+How  Afrdsiydb  and  Siyawush  went  to  the  Chase
+
+Afrasiyab  said  to  the  prince :  "  Come  with  me
+Some  day  a-hunting  to  refresh  our  hearts,
+And  banish  all  our  troubles  in  the  chase."
+
+"  Whene'er  thou  wilt,"  he  answered,  "  whereso'er
+Thy  heart  disposeth  thee  to  lead  the  way."
+
+One   day   they  went.      The  king   took   hawks   and
+
+cheetahs,
+And  many  of  fran  and  of  Tiiran
+
+
+268  THE   SHAHNAMA    OF  FIRDAUSl
+
+Of  all  conditions  hastened  to  the  meet.
+The  prince  spied  onager  upon  the  plain,
+And,  sped  from  his  companions  like  the  wind,
+With  reins  held  lightly  and  feet  firmly  pressed
+He  galloped  o'er  the  hollows  and  the  hills,
+And,  having,  cloven  an  onager  in  halves,
+Made  them  the  silver  and  his  hands  the  scales,
+And  found  the  two  sides  equal  to  a  grain.
+The  king  and  all  his  train  watched  eagerly,
+Exclaiming  :  "  What  a  noble  swordsman  this  ! "
+And  one  man  to  another  called  and  said : —
+"  111  from  Iran  hath  come  on  us  erewhile,
+And  our  brave  leaders  have  been  put  to  shame :
+Now  is  the  time  to  fight  against  the  Shah."
+
+But  Siyawush  still  chased  his  onagers
+And  spread  destruction  over  all  the  plain.
+He  galloped  over  valley,  hill,  and  waste,
+Employing  arrow,  spear,  and  scimitar.
+v.  605        Where'er  he  went  he  piled  a  heap  of  game,
+And  killed  enough  for  all  the  company.
+Thence  to  the  palace  of  Afrasiyab
+They  took  their  way  with  gladness  in  their  hearts.
+
+The  monarch  in  his  pleasures  and  his  griefs
+Held  intercourse  with  none  but  Siyawush,
+Confided  not  in  Jahn  and  Garsiwaz,
+Or  other  such ;  he  took  no  joy  in  them,
+But  passed  with  Siyawush  his  days  and  nights
+In  merriment.     Thus  while  a  year  went  by
+They  shared  all  griefs  and  pleasures  equally.
+
+
+§  35
+How  Pirdn  gave  his  Daughter  to  Siyawush
+
+One  day  Piran  conversed  with  Siyawush
+And  in  the  course  of  talk  said :  "  In  this  land
+What  man  surpasseth  thee  ?     Our  monarch's  love
+
+
+KAI  KAUS  269
+
+Doth  make  him  talk  of  thee  e'en  in  his  sleep.
+
+Know  that  thou  art  to  him  as  jocund  spring,
+
+His  idol,  and  the  solace  of  his  griefs.
+
+Great  art  thou  and  the  son  of  Kai  Kaiis ;
+
+Thy  many  virtues  raise  thee  to  the  moon ;
+
+Yet  since  thy  sire  is  old,  and  thy  heart  young,
+
+See  that  thou  lose  not  the  imperial  throne.
+
+Thou  art  a  king  both  here  and  in  f  ran —
+
+A  noble  monument  of  former  monarchs —
+
+Yet  see  I  none,  among  thy  blood-relations,
+
+That  looketh  on  thee  with  abundant  love  !
+
+Throughout  Turan  I  find  none  fit  to  be
+
+Thy  peer,  thy  partner,  or  antagonist.
+
+Thou  hast  no  brother,  wife,  or  sister ;  thou
+
+Art  like  a  single  rose-branch  in  a  coppice.
+
+Look  for  a  consort  worthy  of  thyself,
+
+And  cease  to  sorrow  and  regret  f  ran ;
+
+It  will  be  thine  when  Kai  Kaiis  is  dead,
+
+And  thine  will  be  the  crown  and  warriors'  throne.
+
+The  curtains  of  the  king  conceal  three  maidens,
+
+All  richly  dight,  such  that  the  moon  itself
+
+Perforce  must  gaze  upon,  and  Garsiwaz
+
+Hath  also  three  of  noble  race  on  both  sides  V.  606
+
+Through  Faridiin  related  to  the  Shah,
+
+With  crowns  and  high  estate.     I  too  have  four —
+
+Slaves  if  thou  wilt.     The  eldest-born — Jarira —
+
+Unmatched  among  the  fair  shall  be  thy  handmaid."
+
+Then  Siyawush :  "  I  give  thee  thanks.     Henceforth
+Regard  me  as  thy  son.     She  is  the  meetest
+Because  for  me  alliance  with  thy  house
+Is  best.     She  will  rejoice  my  soul  and  body  :
+I  want  none  else ;  herein  thou  layest  on  me
+A  life-long  obligation."
+
+When  Piran
+
+Left  Siyawush  he  hasted  to  Gulshahr,
+And  said :  "  Prepare  Jarira's  wedding  outfit
+
+
+270  THE  SHAHNAMA    OF  FIRDAUSI
+
+In  favour  of  the  exalted  Siyawush.
+Shall  not  we  joy  to-day  when  we  receive
+The  grandson  of  Kubad  as  son-in-law  ? "
+
+Gulshahr  led  forth  her  daughter,  having  set
+A  coronet  upon  the  maiden's  head,
+Arrayed  her  with  brocade,  gold,  drachms,  dinars,
+Adorned  and  scented  her  like  jocund  spring,
+And  then  presented  her  to  Siyawush.
+They  thus  espoused  her  to  the  prince,  and  set  her
+Like  a  new  moon  upon  the  throne.     None  knew
+V.  607        What  wealth  she  brought,  how  many  golden  seats
+Inlaid  with  gems.     When  Siyawush  beheld
+Her  face  she  pleased  him,  and  he  laughed  for  gladness.
+He  joyed  in  her  by  night  and  day :  his  heart
+Forgot  Kaus.
+
+Thus  heaven  revolved  awhile,
+And  ever  as  time  passed  the  atheling
+Increased  in  rank  and  favour  with  the  king.
+
+
+§36
+
+How  Pirdn  spake  to  Siyawush  about  Faranyis
+
+The  good  Piran  said  to  the  prince  one  day  :—
+
+"  Thou  knowest  that  the  king  our  sovereign  lord
+
+Exalteth  o'er  the  dome  of  heaven  his  crown,
+
+And  that  by  night  and  day  thou  art  his  soul,
+
+His  heart  and  intellect,  his  might  and  wisdom ;
+
+If  thou  shouldst  be  allied  to  him  by  marriage
+
+Thou  wouldst  increase  in  greatness  with  each  breath.
+
+Now  since  my  daughter  hath  become  thy  wife
+
+I  tender  all  thy  interests  great  and  small,
+
+And  though  Jarira  hath  much  charm,  and  thou
+
+Didst  choose  her  out  of  all,  it  would  become  thee
+
+To  take  a  jewel  from  our  monarch's  skirt.
+
+Of  his  fair  daughters  Farangis  is  best :
+
+
+KAl  KAUS  271
+
+Thou  wilt  see  nowhere  else  such  face  and  hair.
+
+She  bettereth  the  cypress-tree  in  stature ;
+
+Her  inusky  tresses  form  a  sable  crown ;
+
+Her  parts  and  knowledge  pass  her  loveliness,
+
+While  wisdom  standeth  as  a  slave  before  her.
+
+Thou  mayst  well  ask  her  of  Afrasiyab.
+
+Where  is  a  beauty  like  her  in  Kashmir,
+
+Or  in  Kabul  ?     The  noble  king  will  be  V.  608
+
+Thy  kinsman,  and  thy  Grace  and  throne  will  shine.
+
+With  thy  permission  I  will  speak  to  him,
+
+And  thus  win  from  him  favour  for  myself."
+
+Then  Siyawush  gazed  on  Piran  and  said : —
+"  God's  word  must  be  fulfilled  ;  none  can  withstand
+Heaven's  secret  purpose.     If  I  may  not  go
+To  see  f  ran,  the  face  of  Kai  Kaiis,
+Or  Zal  who  was  a  foster-sire  to  me,
+Or  matchless  Rustam — mine  own  jocund  Spring —
+Bahrain  or  Zanga  son  of  Shawaran,
+Or  Giv,  Shapiir,  or  other  mighty  men,
+If  I  must  needs  be  severed  from  their  sight,
+And  have  to  choose  a  home  within  Tiiran,
+Do  as  thou  sayest  and  arrange  a  match,
+But  speak  not  of  it  save  in  privacy."
+
+While  thus  he  spake  he  heaved  a  deep,  cold  sigh,
+And  filled  the  lashes  of  his  eyes  with  tears.
+Piran  made  answer :  "  Every  man  of  wisdom
+Will  let  his  circumstances  rule  his  action.
+Thou  canst  not  scape  the  turning  of  the  sky  v  6o9
+
+Whence  come  our  retributions,  wars,  and  loves.
+Grant  that  thou  hadest  friends  within  Iran :
+Thou  didst  commend  them  unto  God  and  leave  them.
+Thy  house  and  home  are  here ;  the  Iranian  throne
+Is  not  at  present  to  be  made  thine  own."
+
+
+272  THE  SHAHNAMA    OF  FIRDAUSI
+
+§  37
+
+How  Piran  spake  with  Afrasiyab
+
+Piran,  thus  having  learned  the  prince's  wishes
+
+On  all  points,  rose,  proceeded  to  the  court
+
+In  merry  pin,  dismounted,  was  admitted,
+
+And  stood  awhile  before  Afrasiyab,
+
+Until  the  king,  who  loved  him  well,  spake  thus : —
+
+"  Why  standest  thou  before  me  this  long  while  ?
+
+What  wish  hast  thou  on  earth  ?     What  is  thy  purpose
+
+My  host,  my  treasures,  and  my  gold  are  thine,
+
+For  me  thou  profitest  in  every  thing.
+
+If  I  have  any  prisoner  in  bonds,
+
+Whom  'twould  be  grief  and  danger  to  release,
+
+Yet  will  I  take  from  him  my  chains  and  wrath,
+
+And  for  thy  sake  turn  anger  into  wind.
+
+Ask  what  thou  wilt — a  great  thing  or  a  small,
+
+E'en  sword  or  signet,  throne  or  diadem."
+
+The  sage  replied :  "  May  this  world  praise  thee  ever  !
+As  for  myself,  I  have  wealth,  treasure,  host,
+And,  by  thy  fortune,  sword  and  crown  and  throne.
+I  bring  in  private  for  the  royal  ear
+A  long  suit  on  behalf  of  Siyawush,
+Who  said  :  '  Say  to  the  monarch  of  Tiiran  : —
+"  I  have  grown  blithe  of  heart  and  covet  fame.
+Thou  like  a  sire  hast  reared  me  on  thy  breast
+Till  joy  hath  caused  my  fortune  to  bear  fruit.
+Extend  thy  kindness,  make  a  match  for  me,
+For  I  depend  on  thee  in  weal  and  woe.
+y.  610       Thou  hast  a  daughter  now  behind  thy  curtains
+Well  worthy  of  my  palace  and  my  throne :
+Her  mother  named  her  Farangis,  and  I
+Shall  find  my  pleasure  in  deserving  her."  '
+
+Afrasiyab  grew  grave,  tears  filled  his  eyes.
+He  said :  "  Concerning  this  I  have  already
+
+
+KAl  KAUS  273
+
+Told  thee  my  views,  and  thou  didst  not  approve  them.
+
+A  sage  of  lofty  rede  once  said  to  me : —
+
+'  O  thou  that  fosterest  a  lion's  whelp !
+
+Why  lay  upon  thy  soul  a  fruitless  task  ?
+
+Thou  toilest  to  complete  his  excellence,
+
+But  at  his  fruiting  thou  wilt  cease  to  bear.
+
+His  fosterer  will  be  the  first  to  feel
+
+His  claws  when  he  is  strong  enough  to  fight.'
+
+Again,  in  presence  of  the  mighty  men,
+
+Archmages  learned  in  astrology
+
+Took  observations  with  their  astrolabes,
+
+And  all  gave  utterance  to  the  same  effect
+
+That  my  child's  son  would  do  me  wondrous  hurt,
+
+Destroy  my  throne,  my  treasure,  provinces,
+
+My  host,  and  palace,  and  that  I  should  find
+
+No  place  of  refuge ;  he  would  seize  the  realm,
+
+And  by  his  deeds  bring  evil  on  my  head.
+
+Why  should  mine  own  hand  plant  a  tree  whose  fruit
+
+Is  bane  with  colocynth  for  leaves  ?     A  child
+
+Sprung  from  Kaus  and  from  Afrasiyab  v.  611
+
+Would  prove  a  fierce  flame  or  an  ocean-wave.
+
+I  know  not  whether  love  will  take  the  prince
+
+Back  to  Iran,  or  fix  all  his  regards
+
+On  us ;  but  why  drink  poison  wittingly  ?
+
+One  must  not  lightly  take  a  serpent's  breath.
+
+While  he  remaineth  he  shall  be  a  brother
+
+To  me,  and  if  he  goeth  to  Iran
+
+I  will  dispatch  him  to  his  sire  in  state
+
+On  such  wise  as  the  All-just  shall  approve."
+
+Piran  replied  :  "  0  king  !     Let  not  thy  heart
+Be  grieved  hereat.     Those  born  to  Siyawush
+Will  be  possessed  of  wits,  reserved,  and  shrewd.
+Trust  not  what  readers  of  the  stars  may  say,
+Deal  with  his  case  according  to  thy  wisdom,
+For  from  this  noble  pair  a  prince  will  spring,
+Whose  head  will  be  exalted  to  the  sun
+
+VOL.  II.  S
+
+
+274  THE  SHAHNAMA   OF  FIRDA  USI
+
+As  king  both  in  Iran  and  in  Tiiran.
+
+Then  those  two  kingdoms  will  repose  from  strife.
+
+The  seed  of  Faridun  and  Kai  Kubad
+
+Will  ne'er  produce  a  more  illustrious  Plant,
+
+While,  if  the  sky  shall  purpose  otherwise,
+
+No  taking  thought  will  make  it  love  him  more.
+
+What  is  to  be  will  be  beyond  all  doubt ;
+
+No  caution  minisheth  what  is  to  wax.
+
+See  what  a  glorious  enterprise  is  this  !
+
+Ask  what  thou  wilt  of  fortune  and  'tis  thine."
+
+Afrasiyab  replied :  "  111  coineth  never
+Of  thine  advice.     I  order  as  thou  wishest ;
+Depart  and  carry  out  thy  kindly  purpose."
+
+Piran  bent  low,  did  reverence,  gave  great  praise,
+And  so  departed,  came  to  Siyawush,
+And  told  him  all.     That  night  the  joyful  pair
+Sat  o'er  their  wine  and  from  their  souls  washed  care.
+
+
+§  38
+The   Wedding  of  Farangis  and  Siyawusli
+
+Now  when  the  sun  upon  the  turning  sky
+Displayed  its  head  as  'twere  a  golden  shield,
+Piran  the  chief  girt  up  his  loins  and  mounting
+A  swift  steed  rode  toward  the  prince's  palace
+To  wish  him  joy  of  hisvhigh  dignity,
+And  said  to  him  :  "  Prepare  thyself  to-day
+For  welcoming  the  daughter  of  the  king,
+And  if  thou  hold'st  me  worthy  of  the  office
+I  will  myself  make  ready  to  escort  her."
+
+The  prince  was  moved  and  blushed.     He  loved  his
+
+wife,
+
+The  daughter  of  Piran,  as  his  own  heart
+And  soul,  but  said :  "  Go,  do  whate'er  thou  wilt :
+Thou  knowest  that  from  thee  I  have  no  secrets."
+
+
+KAl  KAS  275
+
+Piran  on  hearing  this  went  to  his  home
+With  heart  and  soul  intent  upon  the  business.
+The  door-key  of  the  store-house  where  he  kept
+His  uncut  stuffs  Piran  gave  to  Gulshahr,
+Who  was  the  chief  wife  of  the  paladin —
+A  lady  much  esteemed  and  bright  of  mind.
+They  chose  the  best  things  in  the  treasury —
+A  thousand  lengths  of  cloth  of  gold  from  Chin,
+With  emerald-studded  plates,  cups  of  turquoise
+Filled  with  fresh  aloe-wood  and  musk-deer's  glands,
+Two  crowns  of  jewels  worthy  of  a  king,
+Two  bracelets  with  two  earrings  and  one  torque ;
+Of  carpets  likewise  sixty  camel-loads,
+Three  sets  of  raiment  made  of  cloth  of  gold
+With  patterns  traced  in  gold  of  ruddier  hue,
+With  divers  kinds  of  jewels  sewn  therein;
+Of  gold  and  silver  thirty  camel-loads,
+With  salvers  and  apparel  made  in  Pars,
+A  golden  throne,  four  seats,  three  pairs  of  shoes
+With  emeralds  patterned  on  a  golden  ground,
+Two  hundred  servants  bearing  golden  cups  V.  613
+
+(Thou  wouldst  have  said :  "  The  house  will  not  contain
+
+them ! "),
+
+Three  hundred  servants  wearing  crowns  of  gold,
+About  one  hundred  kinsmen  of  the  king,
+Each  with  one  tray  of  musk  and  one  of  saffron :
+These  with  Gulshahr  together  with  her  sisters,
+In  golden  litters  curtained  with  brocade,
+Went  in  procession  with  the  precious  things.
+The  lady  took  a  hundred  thousand  coins —
+Dinars — to  fling  among  the  crowd.     They  brought
+The  goods  to  Farangis  and  blessed  her  too.
+Gulshahr  then  kissed  the  ground  and  said  to  her :
+"  The  planet  Venus  mateth  with  the  Sun."
+
+Piran,  for  his  part,  and  Afrasiyab
+Were  instant  on  account  of  Siyawush.
+
+
+276  THE   SHAHNAMA    OF  FIRDAUSI
+
+They  gave  the  bride  as  custom  and  their  Faith
+Required,  and  had  the  contract  duly  witnessed.
+As  soon  as  they  had  finished  pact  and  plight
+Piran  dispatched  a  message  to  Gulshahr
+Like  smoke  that  she  should  go  without  delay
+To  Farangis  to  take  her  to  the  prince.
+Thereon  Gulshahr  told  happy  Farangis
+That  she  should  go  that  night  to  Siyawush,
+And  ornament  his  palace  with  a  Moon.
+She  spake.     They  decked  the  bride  at  once  and  ranged
+Her  musky  tresses  o'er  her  rosy  cheeks.
+Then  like  a  new  moon  Farangis  approached
+That  youthful  prince,  the  wearer  of  a  crown,
+v.  614        They  joyed  in  one  another  and  their  love-
+Grew  ever  greater  as  the  moments  sped.
+For  one  whole  week  slept  neither  fowl  nor  fish,
+And  no  man  went  to  rest ;  the  earth  became
+A  very  garden  through  its  whole  extent
+With  sounds  of  minstrelsy  and  merriment.
+
+
+§  39
+How  Afrdsiyab  bestowed  a  Province  on  Siyawush
+
+Thus  passed  the  sennight,  then  the  king  prepared
+
+Great  gifts  of  Arab  steeds,  sheep,  coats  of  mail
+
+Withal,  helms,  maces,  lassos,  and  dinars,
+
+With  purses  full  of  drachms,  suits  of  apparel,
+
+And  things  both  great  and  small.     They  drew  a  list
+
+Of  lands  and  cities  'twixt  the  sea  of  Chin
+
+And  their  own  march  ;  the  region  was  in  length
+
+A  hundred  leagues,  its  breadth  no  man  could  measure.
+
+For  all  that  sovereignty  in  royal  fashion
+
+They  made  the  patent  out  on  painted  silk,
+
+Which  with  a  golden  throne  and  golden  crown
+
+The  king  sent  to  the  house  of  Siyawush.
+
+
+KAl  KAUS  ill
+
+He  next  prepared  the  hall  of  banqueting,
+
+And  those  that  came  to  it  from  far  and  near
+
+Found  wine,  and  tables  ready  spread,  and  cooks ;
+
+Folks  eat,  and  whatsoever  each  could  carry
+
+He  took  away  with  him  to  his  own  home :
+
+The  monarch's  guests  thus  passed  a  week  in  joy.
+
+He  opened  wide  the  dungeons'  bolted  doors,  v.  615
+
+Exulting  as  the  favourite  of  fortune.
+
+The  eighth  day  Siyawush  with  brave  Piran
+
+Approached  the  king  at  dawn  for  leave  to  go
+
+To  their  own  homes.     Both  offered  compliments,
+
+And  said :  "  0  gracious  worldlord  !  may  thy  days
+
+Be  ever  joyous  and  thy  foes'  backs  bent."
+
+Thence  they  returned  rejoicing  and  their  talk
+Was  all  about  the  monarch  of  the  world.
+
+Thus  for  a  year  in  justice  and  in  love
+The  circling  heaven  turned  and  brought  no  care ;
+Then  from  the  presence  of  the  monarch  came
+A  friendly  messenger  to  Siyawush,
+And  said :  "  The  king  saith  :  '  0  illustrious  chieftain !
+I  have  bestowed  upon  thee  all  the  realm
+From  here  to  Chin :  go  round  and  view  the  lands.
+In  any  city  where  thou  findest  ease,
+Contentment,  and  no  more  to  be  desired,
+Abide  in  gladness  and  prosperity ;
+Stint  not  thy  soul  one  moment  of  delight.' "
+
+Then  Siyawush,  rejoicing  at  his  words,
+Struck  up  the  pipes  and  drums,  and  packed  the  loads.
+A  host  accompanied  him  on  the  way
+With  arms  and  treasure,  signet-ring  and  crown.
+They  fitted  many  litters  and  arranged
+The  curtains  for  the  ladies.     In  one  litter
+The  prince  placed  Farangis  and,  having  loaded
+The  baggage-train,  led  forth  the  company.
+They  went  with  merriment  toward  Khutan  v-  6l6
+
+With  all  the  famous  men  escorting  them,
+
+
+278  THE  SHAHNAMA    OF  FIRDAUS1
+
+Because  Piran,  that  general  favourite,
+
+Was  of  that  state,  and  Siyawush  had  promised
+
+To  spend  a  month  with  him.     The  days  were  passed
+
+In  banqueting  or  in  the  hunting-field
+
+Until  the  month  was  ended ;  then  there  rose
+
+The  din  of  drum  at  cock-crow,  and  the  prince
+
+Went  to  his  realm,  preceded  by  Piran,
+
+And  followed  by  his  troops.     The  news  got  wind,
+
+And  all  the  nobles  sought  their  overlord.
+
+They  set  forth  from  their  homes  with  joyful  hearts,
+
+And,  as  the  custom  was,  bedecked  the  land,
+
+And  there  was  such  a  bruit  within  that  realm
+
+That  thou  hadst  said :  "  The  earth  is  raised  to  heaven."
+
+Such  were  the  din  and  blast  of  clarions
+
+That   thou   hadst   said :    "  All  hearts  leap  from  their
+
+seats."
+
+They  found  one  day  a  cultivated  tract :
+It  was  a  goodly  and  well  favoured  site,
+On  one  side  mountains,  on  another  sea.
+Upon  a  third  side  was  a  hunting-ground,
+Secluded,  full  of  trees  and  rivulets —
+A  place  to  make  the  old  heart  young  again.
+Then  to  Piran  spake  Siyawush  and  said  :—
+"  See  what  a  noble  site  these  fields  afford  !
+Here  will  I  fashion  me  a  goodly  seat
+To  be  my  heart's  delight,  a  spacious  city
+Containing  palace,  hall,  and  pleasure-grounds :
+I  will  exalt  the  buildings  to  the  moon,
+And  make  them  worthy  of  the  crown  and  throne/'
+
+Piran  replied  :  "  0  thou  of  goodly  rede  !
+Accomplish  all  that  thy  heart  purposeth.
+V.  617        If  thou  shalt  bid,  according  to  thy  plans
+I  will  erect  a  moon-attaining  seat ;
+I  ask  thee  not  for  treasure  or  for  lands,
+And  for  thy  sake  reck  not  of  time  or  place.
+And  Siyawush  rejoined :  "  0  blessed  one
+
+
+KAl  KAUS  279
+
+Thou  bring'st  the  tree  of  greatness  into  fruit.
+Thine  are  my  weal  and  wealth  ;  I  notice  first
+In  every  place  thy  toil  on  mine  account.
+I  will  erect  a  city  on  this  ground
+Such  that  beholders  shall  remain  astound."
+
+
+§  40
+How  Siydwusli  built  Gang-dizh
+
+I  open  now  the  door  of  history —
+
+The  charming  record  of  the  days  of  yore —
+To  speak  of  Gang-i-Siyawush  to  thee,
+
+The  city,  and  the  city's  ancient  lore.
+Praise  be  to  Him  by  Whom  the  world  was  wrought,
+
+The  Maker  of  the  unknown  and  the  known,
+The  Lord  of  being  and  not  being ;  aught
+
+Besides  hath  peers,  but  God  is  One  alone.
+Praise  to  the  Prophet,  and  to  those  who  bore
+
+Him  company  our  praises  be  addressed,
+And  since  the  righteous  flourish  here  no  more
+
+Speak  not  of  taking  this  world  for  thy  rest.
+Where  are  the  heads  and  crowns  of  kings  of  kings  ?
+Where  are  the  gallant,  noble  athelings  ?
+Where  are  the  doctors  and  the  scientists  ?
+Where  are  the  labour-bearing  annalists  ?
+Where  are  the  modest  fair  who  charmed  the  sight,          v.  618
+
+And  gently  uttered  words  of  graciousness  ?
+Where  is  the  nestling  of  the  mountain-height,
+
+Inured  to  scorn,  discomfort,  and  distress  ?
+Where  he  that  touched  the  cloud-rack  with  his  head,
+
+And  whither  is  the  lion-hunter  gone  ?
+They  have  but  bricks  and  dust  to  form  their  bed,
+
+And  he  that  sowed  good  seed  is  blest  alone.
+From  dust  we  come  and  shall  return  to  dust,
+And  all  is  dread,  distraction,  and  distrust.
+
+
+280  THE   SHAHNAMA    OF  FIRDAUSI
+
+The  world  will  outlast  thee  ;  its  mysteries
+How  wilt  thou  ken  ?     'Tis  full  of  instances  ;
+Shall  we  ignore  them  ?     Six  and  sixty  years
+
+Hast  thou  been  scheming :  turn  thy  face  away
+From  toil  and  emulation.     Thy  compeers
+
+Left  thee  in  multitudes  while  thou  didst  stay
+
+A  greedy  hand  upon  the  world  to  lay,
+
+And  shalt  thou  not  at  last  be  e'en  as  they  ?
+
+List  to  the  story  of  a  bygone  day.
+Since  earth  is  void  of  those  illustrious  men
+
+Why  should  ambition's  crown  be  sought  by  thee  ?
+In  their  days  justice  ruled  the  world,  and  then
+
+Earth  nourished  under  their  supremacy.
+So  listen  to  the  tale  that  I  shall  tell
+About  Gang-dizh,  and  see  thou  mark  it  well,
+Because  the  world  hath  not  in  any  part
+Another  place  so  grateful  to  the  heart
+As  that  which  Siyawush  built  up  of  yore,
+And  no  small  travail  in  its  structure  bore.
+
+There  is  a  wilderness  across  the  sea —
+An  arid  waste.     Beyond  it  is  a  land
+
+Inhabited,  whose  cities  furnish  thee
+With  all  provision  ready  to  thy  hand.
+V.  619        Thou  wilt  perceive  a  mountain  farther  on
+Unmatched  in  loftiness,  and  thereupon
+
+Gang-dizh.     It  is  no  hurt  for  thee  to  know
+
+That  'tis  one  hundred  leagues  around  below,
+And  eyes  that  look  aloft  are  dazed  anon.
+
+Explore  and  thou  wilt  still  be  at  a  loss
+To  find  the  way  of  access  to  the  place ;
+
+The  rock  is  three  and  thirty  leagues  across,
+Presenting  everywhere  a  solid  face.
+If  only  one  man  harnessed  for  the  fray
+Were  stationed  for  each  league,  to  find  a  way
+A  hundred  thousand  men  would  not  avail
+On  barded  steeds  and  clad  themselves  in  mail.
+
+
+KAl  KAUS  281
+
+A  spacious  city  next  will  meet  thine  eye
+
+With  rose-beds,  gardens,  open  space,  and  hall,
+Stream,  river,  and  hot  baths,  while  minstrelsy,
+
+Perfume,  and  brilliant  hues  pervade  it  all.
+The  hills  are  stocked  with  game,  the  plains  with  deer.
+Once  having  seen  it  thou  wilt  tarry  here,
+And  in  thy  rambles  o'er  the  higher  ground
+Will  pheasants,  peacocks,  partridges  be  found.
+No  winter's  frosts  to  summer's  heats  succeed,
+
+There  is  no  lack  of  food,  repose,  or  mirth,
+Thou  wilt  not  see  a  single  invalid ;
+
+In  short  it  is  a  paradise  on  earth.
+The  water  here  is  wholesome,  clear,  and  bright,
+The  whole  champaign  in  vernal  garb  is  dight.
+Its  length  and  breadth  have  thirty  leagues  extent
+According  to  the  Persian  measurement,
+And  one  league  and  a  half  in  altitude :
+
+'Twould  weary  any  one  to  scale  the  height,
+And  when  the  place  is  from  the  summit  viewed
+
+None  ever  saw  a  scene  more  exquisite.
+When  Siyawush  had  visited  the  place
+He  chose  it  out  of  all  Iran  to  bear
+
+His  name,  and  built  of  marble,  stone,  cement,  v.  620
+
+And  some  material  to  us  unknown,
+A  wall  above  one  hundred  cubits  high
+And  eight  and  thirty  broad ;  the  hold  out-ranged
+Both  shaft  and  catapult,  but  thou  shouldst  see
+The  place  itself,  for  one  that  hath  not  seen  it
+Will,  thou  wouldst  say,  be  angry  with  the  poet.
+The  prince  endured  much  hardship  thereabout
+All  for  the  sake  of  greatness,  throne,  and  crown,
+And  made  himself  in  that  delightful  spot
+A  charming  seat  with  palace,  hall,  and  park.
+He  planted  many  trees,  and  made  the  place
+Like  Paradise,  and  for  its  flowers  chose
+Narcissus,  tulip,  hyacinth,  and  rose.
+
+
+282  THE   SHAHNAMA    OF  FIRDAUSI
+
+§  41
+How  Siydwush  discoursed  with  Pirtin  about  the  Future
+
+The  noble  Siyawush  went  with  Piran
+One  day  to  see  the  place  whereof  the  sight
+Would  make  the  aged  young.     It  was  delightful,
+With  treasuries  everywhere  fulfilled  with  wealth ;
+And  this  imperial  seat  pleased  Siyawush
+More  than  all  other  seats  of  kings  and  nobles.
+When  they  were  leaving  Siyawush  was  sad,
+V.  621        And  asked  the  astrologers  :  "  Will  this  abode
+Secure  me  Grace  and  fortune,  or  shall  I
+Regret  what  I  have  done  ? "
+
+They  all  replied : —
+"  This  place  will  not  prove  very  fortunate."
+
+The  prince  was  angry  with  the  astrologers ;
+His  heart  was  full  of  pain,  his  eyes  shed  tears ;
+His  hand  relaxed  his  swift-paced  courser's  reins,
+And  hot  tears  trickled  down.     Piran  exclaimed : —
+"  My  lord  !  what  is  the  cause  of  this  distress  ? "
+
+"  High  heaven,"  he  said,  "  hath  filled  my  heart  and  soul
+With  pain  and  trouble,  since  what  I  amass,
+My  home,  and  treasury,  will  be  my  foe's
+At  last.     Ill  will  be  ill  and  1  shall  die.
+The  fairest  spot  in  this  world  is  Gang-dizh
+Where  by  the  Grace  of  Him  Who  giveth  good   •
+My  wisdom  and  my  fortune  have  not  slept,
+And  I  have  raised  the  summit  to  the  Pleiads.
+Still  am  I  busy  gathering  works  of  art,
+But  when  the  place  is  decked,  and  precious  things
+Abound,  mine  own  enjoyment  will  be  short ;
+Another  will  be  seated  in  this  palace.
+The  joy  is  not  for  me,  or  for  my  child,
+Or  hero  of  my  race.     My  life  will  close
+Ere  long ;  I  shall  not  want  a  hall  or  palace.
+
+
+KAl  KATJS  283
+
+Afrasiyab  will  have  this  for  his  throne,
+And  death  will  overtake  me  for  no  fault
+Of  mine.     Such  is  the  mystery  of  heaven
+With  its  vicissitudes  of  joy  and  grief!"
+
+Piran  replied :  "  My  lord  !  encourage  not  v.  622
+
+Vain  thoughts,  Afrasiyab  safe-guardeth  thee,
+And  on  thy  finger  is  a  royal  signet.
+I  also,  while  my  soul  is  in  my  body,
+Will  strive  to  keep  my  faith  to  thee  unbroken ;
+I  will  not  let  the  wind  pass  over  thee,
+Or  breezes  tell  the  hairs  upon  thy  head."
+
+Then  Siyawush :  "  0  honourable  man '
+I  see  that  honour  is  thy  one  desire.
+Thou  knowest  all  the  secrets  that  I  have,
+Thou  who  art  shrewd  of  heart  and  sound  of  limb  !
+Now  will  I  tell  thee  by  the  Grace  of  God
+What  I  have  learned  of  heaven's  purposes,
+And  advertise  thee  what  will  be  hereafter
+When  I  am  gone  from  halls  and  palaces,
+So  that  thou  mayst  not,  seeing  such,  exclaim  : —
+'  Why  were  they  not  disclosed  to  Siyawush  ? '
+Piran,  thou  warrior  exceeding  wise  !
+Hear  what  I  say ;  no  lengthy  time  will  pass
+Ere  by  the  hand  of  our  shrewd-hearted  monarch
+I  shall,  though  guiltless,  cruelly  be  slain.
+Another  will  possess  this  crown  and  throne.
+Thou  wilt  prove  just  and  true,  but  heaven's  purpose
+May  not  be  thwarted.     By  a  slanderer's  words,
+And  evil  fate,  my  blameless  head  will  suffer.
+Iran  will  be  in  conflict  with  Turan,
+Revenge  will  make  life  wretched,  and  the  earth
+Will  be  in  travail  through  its  length  and  breadth ;
+The  scimitar  of  feud  will  rule  the  age.
+Thou  wilt  see  many  standards  from  Iran
+Approach  Tiiran — red,  yellow,  black,  and  violet —
+With  ravaging  and  bearing  off  of  spoil,
+
+
+284  THE   SHAHNAMA    OF  FIRDAUSf
+
+And  scattering  of  treasures.     Provinces
+In  plenty  will  be  trampled  underfoot
+Of  horses,  and  the  streams  of  water  fouled.
+V.  623        The  monarch  of  Turan  will  then  repent
+
+Both  of  his  words  and  works,  but  penitence
+Will  not  avail  when  homesteads  are  in  flames.
+Both  here  and  in  Iran  will  be  the  din
+^Of  war,  and  my  blood  will  convulse  the  world.
+
+Thus  hath  the  Almighty  written  in  the  sky
+I  By  Whose  decree  seed  sown  will  bear  its  fruit.  .  .  .
+Come,  let  us  give  ourselves  to  j  oy  and  feast :
+When  it  is  time  for  us  to  pass  we  pass.
+Why  set  thy  heart  upon  this  Wayside  Inn  ?
+Why  toy  with  treasure  ?     Why  complain  of  toil  ?
+Our  wealth  will  be  another's.     Why  should  one,
+Because  he  is  a  king,  enrich  his  foe  ? "
+
+Whenas  Piran  had  heard  and  taken  thought
+His  heart  was  filled  with  trouble  at  these  words.
+He  said :  "  I  have  brought  evil  on  myself
+If  this  that  he  hath  spoken  be  the  truth.
+I  drew  him  to  the  country  of  Turan,
+And  scattered  through  the  world  the  seeds  of  feud.
+I  drew  him  to  Turan  by  mine  own  efforts,
+And  gave  to  him  a  province,  crown,  and  wealth,
+Not  recking  of  the  king's  repeated  warnings."
+And  then  his  loving  heart  suggested  this : —
+"  Who  hath  revealed  to  him  these  mysteries —
+The  motions  and  the  purpose  of  the  sky  ?
+He  surely  must  be  thinking  of  Iran,
+Of  Kai  Kaiis,  and  of  the  imperial  throne ;
+It  is  the  memory  of  happier  days."
+
+Piran  with  these  words  solaced  his  own  heart,
+And  entered  on  no  prudent  policy,
+v.  624        The  two  discussed  the  future  all  the  way,
+
+Then  lighting  from  their  steeds  they  ceased  from
+talk,
+
+
+KAl  KAUS  285
+
+
+And,  having  had  a  golden  table  dressed,
+Wine,  harp,  and  minstrelsy  were  in  request.
+
+
+§42
+How  Afrdsiyab  sent  Pirdn  into  the  Provinces
+
+They  thus  passed  seven  days  in  merriment,
+Discoursing  of  the  monarchs  of  the  world.
+The  eighth  day  came  a  letter  from  the  king
+To  bid  Piran :  "  Choose  from  the  warriors
+A  host  and  go  toward  the  sea  of  Chin.
+Thence  cross  the  marches  to  the  river  Sind,
+Demand  the  tribute  from  the  provinces,
+And  over-run  the  borders  of  Khazar."
+Then  from  the  portal  of  the  paladin
+Shouts  rose,  while  drums  and  tymbals  shook  the  ground,
+And  troops  from  all  sides  gathered  round  Piran —
+A  mighty  army  eager  for  the  fray.
+Whenas  the  troops  had  mustered  at  his  gate
+He  bade  farewell  and  marched,  while  Siyawush,
+Rich  in  dinars  and  goods  of  every  kind,
+With  well  appointed  steeds,  remained  behind.
+
+
+§43
+How  Siyau-ush  built  Siyawushgird
+
+A  cameleer  brought  from  Afrasiyab,
+
+In  hottest  haste  about  the  time  of  sleep,
+
+To  Siyawush  a  letter  full  of  love,
+
+And  blazoned  like  the  starry  sky :  it  ran : —
+
+"  Since  thy  departure  I  enjoy  no  pleasure,
+
+My  thoughts  permit  rne  not  a  moment's  peace.
+
+Moreover  I  have  sought  thee  out  a  seat,
+
+Such  as  thou  wilt  approve,  within  Tiiran.
+
+
+286  THE   SHAHNAMA    OF  F1RDAUSI
+
+Though  it  be  pleasant  whither  thou  hast  gone,
+v-  625        And  griefless  there,  yet  quit  thy  realm  and  bring
+The  heads  of  evil-wishers  to  the  dust."
+
+The  chieftain  packed  the  baggage  and  set  forth
+With  all  speed  as  the  king  commanded  him.
+A  thousand  female  camels  with  red  hair
+They  loaded  up  with  various  merchandise.
+He  made  a  hundred  camels  carry  treasures
+And  drachms,  while  forty  others  bore  dinars.
+Ten  thousand  swordsmen  went  along  with  him —
+Picked  horsemen  from  f  ran  and  from  Turan —
+Preceded  by  the  baggage-train  and  litters
+With  lovely  ladies  in  their  bravery.
+Of  rubies  and  turquoises  fit  for  kings,
+.  Or  torques  and  diadems  inlaid  with  gems,
+Of  ambergris,  of  aloe-wood,  and  musk,
+Of  spicery,  brocade,  and  silken  cushions,
+From  Pars  and  Chin  and  Mizr  were  thirty  loads.
+The  leader  and  his  noble  retinue
+Proceeded  till  they  came  to  blithe  Bahar.
+When  he  arrived  he  pointed  out  a  site
+Two  leagues  in  length  and  breadth.     Thereon  he  built
+A  city  famous  for  its  rosaries,
+Its  lofty  palaces,  and  orchard-grounds.
+He  limned  within  the  hall  full  many  a  picture
+Of  kings,  of  battle,  and  of  banqueting,
+And  painted  there  Kaus  with  mace  and  armlets,
+Crowned  on  his  throne,  with  elephantine  Rustam,
+With  Zal,  Gudarz,  and  all  that  company.
+Elsewhere  he  limned  Afrasiyab,  his  army,
+Piran,  and  Garsiwaz  the  vengeful  one.
+That  pleasant  city  was  the  talk  of  all
+Good  men  both  in  Iran  and  in  Turan.
+v.  626        At  every  corner  was  a  cupola,
+
+Whose  summit  reached  the  clouds.     There   minstrels
+sat
+
+
+KAl   KAUS  287
+
+And  sang  while  chiefs  and  warriors  kept  guard
+Around.     Siyawushgird  the  common  voice
+Called  it ;  that  city  made  all  hearts  rejoice.
+
+
+§  44
+How  Piran  visited  Siyaivushcjird
+
+Now  when  Piran  returned  from  Hind  and  Chin
+
+All  men  were  talking  of  the  glorious  city,
+
+For,  founded  on  the  auspicious  day  of  Ard,
+
+Siyawushgird  was  famed  throughout  Tiiran.
+
+He  heard  of  palace,  orchard,  garden,  hall,
+
+Plain,  streamlet,  hill,  and  dale,  and  longed  to  see
+
+What  Siyawush  had  done  with  that  fine  site.
+
+Piran  took  with  him  all  his  retinue —
+
+A  thousand  wise  and  valiant  warriors —
+
+Men  fit  to  share  with  him  in  the  rejoicings.
+
+On  his  approach  the  prince  went  with  the  host
+
+To  welcome  him.     Piran  on  catching  sight
+
+Of  Siyawush  alighted,  as  did  Siyawush,
+
+Who  clasped  him  closely.     Coming  to  the  city
+
+They  went  around  what  erst  had  been  a  thorn-brake,
+
+But  then  lamp-bright  with  palace,  hall,  and  pleasance.
+
+The  chief  Piran  went  everywhere,  invoked
+
+Full  many  a  blessing  on  the  prince,  and  said  : —
+
+"  If  Grace  and  royal  height  and  wisdom  too
+
+Were  not  thine  own  in  this  thine  undertaking
+
+How  could  results  like  these  have  been  achieved  ?
+
+Be  this  thy  monument  among  the  brave
+
+And  noble  till  the  Resurrection-day,
+
+And  may  thy  sons  and  sons'  sons  live  rejoicing —  v.  627
+
+World-lords  triumphant  and  magnanimous."
+
+Piran  surveyed  part  of  that  jocund  city,
+Then  reached  the  hall  and  grounds  of  Siyawush,
+And  in  high  spirits  and  ambitious  hopes
+
+
+288  THE   SHAHNAMA    OF  FIRDAUSI
+
+Proceeded  to  the  home  of  Farangis.
+
+The  daughter  of  the  king  met,  greeted  him,
+
+And  proffered  him  a  handsel  of  dinars.
+
+When,  seated  on  the  throne,  he  looked  around,
+
+And  saw  the  crowds  of  servants  standing  by,
+
+He  uttered  many  words  of  thankfulness,
+
+And  praised  the  Maker ;  then  they  fell  to  feasting
+
+With  wine,  cup-bearers,  meats,  and  minstrelsy,
+
+And  thus  they  passed  a  sennight  wine  in  hand,
+
+Now  blithe  and  joyous-hearted,  now  bemused.
+
+On  the  eighth  day  Piran  produced  the  presents
+
+Brought  from  abroad,  and  other  fitting  gifts
+
+Of  rubies,  royal  jewelry,  dinars,
+
+Brocade,  crowns  all  inlaid  with  precious  stones,
+
+And  steeds  with  golden  furniture,  the  saddles
+
+Of  poplar- wood,  their  pummels  leopard-skin.
+
+He  gave  a  coronet  to  Farangis,
+
+With  earrings,  bracelets,  and  a  jewelled  torque,
+
+Then  went  upon  his  way  toward  Khutan
+
+In  order  to  attend  his  sovereign.
+
+On  reaching  home  he  spake  thus  to  Gulshahr  :—
+"Whoe'er  hath  seen  not  jocund  Paradise,
+And  known  what  things  Rizwan l  hath  planted  there,
+Should  see  this  splendid  place,  this  paradise
+Of  thrones  and  palaces,  where  Siyawush,
+V.  628        The  wise  and  glorious,  sitteth  like  the  sun
+Inside  the  palace  of  the  blest  Suriish.
+Allow  thyself  the  pleasure  of  a  visit ;
+The  lord  is  goodlier  than  his  city ;  thou
+Wouldst  say  :  '  He  lighteth  up  the  Occident ! '  '
+See  Farangis — all  loveliness  and  lustre,
+As  'twere  a  two  weeks'  moon  beside  the  sun."
+
+Swift  as  a  bark  that  speedeth  o'er  the  sea
+He  went  thence  to  Afrasiyab,  and  told
+What  he  had  done,  what  tribute  he  had  brought,
+
+1  See  p.  39,  note.
+
+
+KAI   KAUS  289
+
+How  he  had  battled  in  the  land  of  Hind,
+
+And  laid  ill-doers'  heads  upon  the  dust.
+
+The  monarch  asked  how  Siyawush  had  prospered,
+
+And  of  his  city,  province,  crown,  and  throne.
+
+Piran  replied  :  "  Whoever  shall  behold
+
+The  springtide-gaiety  of  Paradise
+
+May  in  good  sooth  mistake  this  place  for  that,
+
+And  this  illustrious  monarch  for  the  sun.
+
+I  saw  a  city  such  that  none  will  see
+
+Its  like  on  earth  in  Chin  or  in  Tiiran.
+
+What  with  its  wealth  of  gardens,  lialls,  and  streams,
+
+Thou  wouldst  have  said:   'There  wisdom  mixed  with
+
+mind ! '
+
+One  must  dismiss  fault-finding  where  is  naught
+To  blame.     When  from  afar  I  saw  the  palace
+Of  Farangis  'twas  like  a  hoard  of  jewels
+As  bright  as  light.     If  now  Surush  should  come
+From  Paradise  he  would  not  have  the  Grace,
+The  majesty,  the  common  sense,  the  splendour,
+And  ordered  usance  of  thy  son-in-law,
+Who  is  as  good  as  thy  glad  heart  would  wish.
+Both  realms  too  rest  from  strife  and  stir,  like  men  v.  629
+
+Restored  to  reason.     Mayst  thou  ever  have
+The  rede  of  princes  and  the  heart  of  sages."
+
+The  monarch  gladdened  at  the  words  on  hearing
+That  this  his  Bough  of  promise  was  in  bearing.
+
+
+§45
+How  Afrdsiydb  sent  Garsiwaz  to  Siyawush
+
+Afrasiyab  made  known  to  Garsiwaz
+Piran's  account  without  suppressing  aught,
+And  said :  "  Go  blithely  to  Siyawushgird,
+And  scan  it  well.     The  heart  of  Siyawush
+Is  on  Tiiran ;  he  thinketh  notf  of  home
+VOL.  n.
+
+
+290  THE  SHAHNAMA    OF  FIRDAUSt
+
+Now  that  he  hath  farewelled  the  throne  and  crown,
+Farewelled  Gudarz,  Bahrain,  and  Kai  Kaiis.
+He  looketh  not  to  Rustam  son  of  Zal,
+Nor  taketh  mace  or  battle-ax  in  hand,
+But  hath  erected,  where  was  once  a  field
+Of  thorns,  a  city  like  the  jocund  spring,
+Hath  raised  a  lofty  dwelling-place  therein
+For  Farangis,  and  holdeth  her  in  honour.
+Prepare  to  visit  noble  Siyawush,
+Say  little  when  thou  seest  him  on  the  throne,
+But  judge  him  from  a  monarch's  point  of  view
+At  chase,  at  wine,  on  mountain  or  on  plain,
+And  in  assemblies,  show  him  all  respect
+Before  his  nobles  and  exalt  his  name.
+Prepare  for  him  exceeding  many  gifts
+Of  horses  and  dinars,  of  crowns  and  girdles,
+v.  630       As  well  as  jewelled  thrones,  brocade  of  Chin,
+And  armlets,  maces,  swords,  and  signet-rings,
+With  carpeting  and  trinkets  of  all  kinds.
+See  what  thou  findest  in  the  treasury,
+And  take  besides  a  gift  for  Farangis.
+Go  thou  with  naught  but  praises  on  thy  tongue,
+And,  shouldst  thou  find  a  joyous,  smiling  host,
+Abide  two  sennights  in  that  jocund  city."
+
+Thereat  the  noble  Garsiwaz  selected
+A  thousand  cavaliers,  men  of  repute,
+To  go  with  all  speed  to  Siyawushgird.
+The  prince  when  news  arrived  went  forth  with  troops
+To  welcome  Garsiwaz  ;  the  two  embraced
+And  Siyawush  inquired  about  the  king,
+Then  going  back  provided  for  his  guests.
+Next  morning  early  Garsiwaz  drew  nigh
+And  brought  the  monarch's  message  and  the  gifts.
+When  Siyawush  saw  what  Afrasiyab
+Had  sent  him  he  was  like  a  rose  in  spring ;
+Then  mounting  on  his  proudly  stepping  steed,
+
+
+KAI   KAs  291
+
+And  followed  by  the  Iranian  cavaliers,
+Took  Garsiwaz  about  the  place,  and  when
+He  had  shown  all  went  to  his  home  again.
+
+§  46
+The  Birth  of  Farud  the  Son  of  Siyawush
+
+At  that  time  came  to  Siyawush  like  wind
+
+A  cavalier  who  brought  good  tidings,  saying : —
+
+"  The  daughter  of  the  captain  of  the  host
+
+Hath  borne  a  babe  as  'twere  the  shining  moon —
+
+A  glorious  child,  whom  they  have  named  Farud,
+
+And  when  Piran  at  night  received  the  news
+
+He  bade  me  and  another  cavalier  : —  V.  631
+
+'Go  bear  the  joyful  tidings  to  the  prince.'
+
+The  mother  also  of  the  precious  babe —
+
+Jarira,  chief  among  the  high-born  dames —
+
+Commanded  from  her  couch  the  slaves  to  smear
+
+The  infant's  hand  with  saffron,  and  to  take
+
+The  impression  on  this  letter's  back,  and  said : —
+
+'  Bear  this  to  Siyawush,  whose  wish  is  granted,
+
+And  tell  him  :  "  Stricken  though  I  be  in  years,
+
+Yet  notwithstanding  God  hath  made  me  glad." '
+
+Then  Siyawush  thus  answered  :  "  May  this  babe
+Ne'er  leave  the  seat  of  majesty  unfilled  ! "
+And  gave  the  messenger  so  many  drachms
+That  he  who  bare  them  wearied  of  the  weight.
+
+When  Garsiwaz  had  heard  the  news  he  said : —
+"  Piran  to-day  is  equal  to  a  king."
+
+They  sought  the  house  of  Farangis  with  joy
+And  told  her  those  glad  tidings.     Garsiwaz
+Beheld  her  sitting  on  her  ivory  throne,
+A  crown  set  with  turquoise  was  on  her  head,
+While  many  slaves  with  golden  caps  were  standing
+With  moon-like  cheeks  in  presence  of  the  Moon.
+
+
+292  THE  SHAHNAMA    OF  FIRDAUSl
+
+She  came  down  from  her  throne  and,  greeting  him,
+
+Inquired  about  his  longsome  journey's  toil ;
+
+But  Garsiwaz  was  wroth,  was  wholly  changed,
+
+And  thus  he  thought :  "  Let  but  a  year  pass  thus
+
+And  Siyawush  will  care  for  nobody ;
+
+Throne,  kingdom,  host,  and  treasure  will  be  his."
+
+He  writhed  but  hid  his  feelings,  and  exclaimed
+With  pallid  cheeks  to  Siyawush :  "  Thou  hast
+The  fruit  of  toil,  enjoy  the  gains  for  life  !"
+
+They  took  their  seats  within  the  golden  hall
+Upon  two  jewelled  thrones  of  gold,  rejoicing
+In  fortune ;  minstrels  and  cup-bearers  came,
+v.  632        And  Garsiwaz,  amid  the  joy  and  din
+Of  minstrelsy,  forgot  his  own  chagrin.
+
+§47
+How  Siyawush  played  at  Polo
+
+Now  when  the  bright  sun  made  the  distance  clear,
+
+And  showed  its  face  from  heaven  to  all  the  land,
+
+The  prince  went  from  his  palace  to  the  Ground
+
+To  play  at  polo.     Garsiwaz  came  up
+
+And  drove  the  ball,  which  Siyawush  pursued
+
+And  caught  it  fairly  with  the  polo-stick,
+
+While  his  opponent  only  found  the  dust.
+
+The  ball  struck  by  the  prince  was  seen  no  more :
+
+Thou  wouldst  have  said :  "  The  sky  hath  drawn  it  up ! }>
+
+Then  to  his  eager  followers  he  said :
+
+"  I  leave  the  ball  and  sticks  and  Ground  to  you."
+
+Whenas  the  warriors  came  upon  the  Ground
+The  Iranians  in  the  tussle  took  the  ball,
+While  Siyawush  rejoiced  at  their  success,
+And  looked  as  'twere  a  noble  cypress-tree.
+He  bade  a  golden  throne  be  set  and  contests
+With  javelins  to  take  place,  both  princes  sitting
+Upon  the  throne  to  watch  the  combatants.
+
+
+KAI  KAUS  293
+
+The  cavaliers  rushed  on  the  Ground  like  dust
+
+And,  dart  in- hand,  began  to  strive  for  honour.
+
+Then  Garsiwaz  spake  thus  to  Siyawush : —
+
+"  0  king  renowned,  the  Memory  of  kings !
+
+Thy  prowess  is  still  greater  than  thy  birth :
+
+Vouchsafe  to  let  the  Turkmans  witness  it :
+
+Display  before  them  just  for  once  what  thou  v.  633
+
+Can'st  do  in  javelin-play  and  archery."
+
+The  prince,  who  laid  his  hand  upon  his  breast
+At  this,  arose  and  mounted  on  his  horse.
+They  bound  together  coats  of  mail  five  thick —
+Coats  any  one  of  which  would  tire  a  man —
+And  set  them  up  at  one  end  of  the  Ground,
+While  all  the  troops  stood  looking.     Siyawush
+Took  up  a  royal  spear  wherewith  his  father
+Fought  in  Mazandaran  and  slaughtered  lions.
+He  went  upon  the  Ground,  this  spear  in  hand,
+And  plied  his  reins  like  some  mad  elephant.
+He  pierced  the  coats  of  mail  and  bore  them  off,
+The  links  and  joints  alike  had  given  way.
+The  charge  thus  made  he  raised  his  spear  erect
+And  flung  the  coats  of  mail  about  at  will.
+Then  valiant  Garsiwaz  and  other  horsemen
+Went  on  the  Ground  with  their  long  javelins,
+And  many  gathered  round  those  coats  of  mail,
+But  found  not  one  whose  fastenings  had  not  yielded.
+The  prince  then  called  for  four  shields  of  Gilan,
+With  two  cuirasses  also  of  bright  steel,
+And  likewise  for  his  bow  and  poplar  shafts.
+With  six  thrust  through  his  belt  and  three  in  hand
+He  set  another  on  his  bow  and  gripped
+His  saddle  firmly.     Then  in  sight  of  all
+He  shot  the  ten  shafts,  piercing  every  time
+The  shields  and  both  cuirasses.     Old  and  young
+Applauded  and  invoked  the  name  of  God.
+"  Thou  hast,  0  prince ! "  said  Garsiwaz  to  him,
+
+
+294  THE   SHAHNAMA    OF  FIRDAUSI
+
+"  No  equal  in  Iran  or  in  Turan.
+Come  now !     Let  us  two  go  upon  the  Ground
+Before  this  company,  there  let  us  grasp
+Each  other's  leathern  belt  as  warriors
+Would  do  in  battle.     I  have  not  a  peer
+Among  the  Turkmans,  thou  wilt  see  few  steeds
+v.  634       Like  mine,  and  thou  in  the  Iranian  host
+
+Art  matchless  both  in  prowess  and  in  stature.
+If  I  shall  take  thee  from  thy  charger's  back,
+And  throw  thee  to  the  ground,  acknowledge  me
+Superior  both  in  prowess  and  in  might,
+While  if  thou  layest  me  upon  the  earth
+I  wheel  no  more  upon  the  battlefield."
+
+But  Siyawush  made  answer :  "  Speak  not  thus.
+Thou  art  a  prince,  a  Lion  of  the  fray  ;
+Besides  thy  charger  is  a  king  to  mine,
+Thy  helmet  is  Azargashasp  to  me.
+Make  choice  of  some  one  else  out  of  Tiiran
+To  strive  with  me,  but  not  by  way  of  fight."
+
+Then  Garsiwaz :  "  0  seeker  of  renown !
+No  harm  will  come  of  pastime  such  as  this."
+
+But  Siyawush  replied :  "  It  is  not  well :
+I  cannot  fight  thee.     Two  opposed  in  sport
+Fight  on  in  earnest ;  anger  filleth  them
+Although  they  smile.     Thou  art  the  monarch's  brother,
+And  tread'st  the  moon  beneath  thy  horse's  hoofs ;
+I  will  perform  thy  bidding  but  not  break
+Our  good  relations  by  an  act  like  this.
+Call  from  thy  friends  some  Lion  of  the  fray,
+Let  him  be  mounted  on  this  swift-paced  steed,
+And  if  thou  art  resolved  that  I  should  fight,
+And  lay  the  heads  of  proud  ones  in  the  dust,
+I  will  endeavour  not  to  be  disgraced
+Before  thy  presence,  O  illustrious  prince  ! "
+
+Ambitious  Garsiwaz  was  flattered,  smiled,
+And  thus  addressed  the  Turkmans  :  "  Noble  men !
+
+
+KAI  KAUS  295
+
+Who  is  there  fain  to  make  his  mark  on  earth  ?
+Who  will  be  matched  with  Siyawush  and  lay
+The  chief  of  all  the  nobles  in  the  dust ! "
+
+The  Turkmans  heard  him  and  their  lips  were  locked.
+At  length  Gurwi  the  son  of  Zira  said : —
+"  I  am  prepared  to  fight  if  Siyawush
+Hath  no  antagonist."
+
+The  prince's  face
+
+Was  full  of  frowns  and  sternness  at  the  words,
+But  Garsiwaz  said  unto  him  :  "  0  prince !
+No  warrior  in  our  host  can  match  Gurwi."
+
+Then  Siyawush :  "  I  hold  it  but  a  trifle
+To  fight  with  any  noble  but  thyself :
+Two  warriors  should  be  chosen  out  of  these
+To  strive  with  me  upon  the  battlefield."
+
+There  was  another  noble  hight  Damur,
+Who  had  no  equal  in  Tiiran  in  strength.
+He,  when  he  heard  the  words  of  Siyawush,
+Came  and  made  ready  swift  as  smoke  for  fight.
+They  wheeled  about,  and  Siyawush  began
+By  snatching  at  the  girdle  of  Gurwi,
+And  holding  by  the  buckle  lifted  him
+And  flung  him  on  the  plain,  but  used  no  mace
+Or  lasso.     Then  he  turned  upon  Damiir
+And,  catching  him  about  the  neck  and  body
+In  firm  embrace,  unhorsed  him  with  such  ease
+That  all  the  chiefs  were  lost  in  wonderment.
+The  prince  thus  bore  him  safe  to  Garsiwaz  ;
+Thou  wouldst  have  said  :  "  He  carrieth  a  bird ! "
+Then,  having  lighted  down  and  disengaged,
+He  sat  down  laughing  on  the  golden  throne ;
+But  Garsiwaz  was  wroth  at  that  exploit ;
+His  heart  was  sullen  and  his  cheek  was  pale.
+
+They  hied  them  homeward  from  their  golden  seats,
+"Raised,"  thou  hadst  said,  "o'er  Saturn  in  the  ascendant,"
+And  all  the  famous  men  and  fortunate
+
+
+296  THE  SHAHNAMA    OF  FIRDAUS1
+
+Assembled  for  a  week  with  harp  and  wine.
+Upon  the  eighth  day  they  prepared  to  go,
+And  Siyawush  in  spite  of  what  he  knew
+Yet  wrote  a  letter  to  Afrasiyab,
+Full  of  submission  and  kind  interest,
+And  gave  unstinted  gifts  to  Garsiwaz ;
+Anon  the  Turkmans  left  that  noble  city
+Rejoicing,  and  conversed  about  the  land
+And  most  accomplished  prince ;  but  Garsiwaz
+V.  636       The  vengeful  said  :  "  Mishap  hath  come  to  us,
+For  from  Iran  the  king  hath  summoned  one
+Who  causeth  us  to  sit  in  blood  disgraced.
+Fierce  Lions  like  Damur  and  like  Gurwi —
+,     Both  battle-loving  warriors — became
+Thus  abject,  helpless,  and  contemptible
+When  clutched  by  one  foul-hearted  cavalier.
+He  will  push  matters  further,  and  I  fail
+To  see  in  our  king's  actions  head  or  tail."
+
+
+§48
+How  Garsiwaz  returned  and  spake  Evil  before  Afrasiyab
+
+He  went  thus  minded  to  the  Turkman  court
+
+Without  repose  or  sleep.     Afrasiyab
+
+Asked  many  questions  which  his  brother  answered
+
+And  gave  the  letter ;  this  the  smiling  king
+
+Perused  with  joy.     The  famous  noble  marked
+
+The  brightened  features  of  Afrasiyab,
+
+And  sunset  found  him  all  revenge  and  anguish.
+
+All  night  he  writhed  and  when  its  pitch-hued  robe
+
+Was  riven  by  clear  day  his  vengeful  head
+
+Still  slept  not,  and  he  sought  Afrasiyab.
+
+They  sat  and  talked  in  private.     Garsiwaz
+
+Said  to  his  brother :  "  Siyawush,  O  king  !
+
+Hath  wholly  changed,  the  envoys  of  Kaus
+
+
+KAI  KAUS  297
+
+Come  often  secretly,  he  correspondeth
+
+With  Rum  and  Chin,  and  drinketh  to  his  father.
+
+Moreover  he  hath  gathered  many  troops,  v-  637
+
+And  soon  will  vex  the  king's  soul.     Had  not  Tur
+
+Become  so  fierce  he  had  not  wronged  Iraj,
+
+But  now  our  hearts  resemble  fire  and  water
+
+Opposed ;  thou  wouldest,  but  in  vain,  unite  them,
+
+And  keep  the  tempest  hidden  out  of  sight.
+
+Had  I  withheld  this  trouble  from  thy  knowledge
+
+I  should  have  smirched  my  name  before  the  world."
+
+The  king  was  grieved  and  said  to  Garsiwaz : —
+"  The  bond  of  blood  between  us  moveth  thee.
+We  will  take  counsel  with  ourself  three  days
+For  more  assurance ;  if  the  case  be  clear
+It  shall  be  thy  part  to  undo  the  coil."
+
+The  fourth  day  Garsiwaz  appeared  at  court
+With  helmet  on  and  tightly  girded  loins.
+The  monarch  called  him  to  an  interview,
+Talked  much  about  the  case  of  Siyawush,
+And  said  :  "  0  thou  memorial  of  Pashang  !
+Whom  have  I  in  the  world  at  hand  but  thee  ?
+I  must  disclose  the  secret  of  my  mind ;
+Observe  what  thoughts  occur  to  thine.     My  heart
+Was  troubled  at  that  evil  dream,  my  brain
+Affected  somewhat,  yet  I  kept  from  war,
+And  Siyawush  for  his  part  hurt  me  not.
+When  he  farewelled  the  throne  of  might  he  made
+My  love  the  weft  across  his  wisdom's  warp.
+He  was  obedient  and  I  used  him  well.
+I  gave  to  him  a  province  and  my  treasure,
+But  kept  my  griefs  and  sorrows  for  mine  own.
+I  bound  him  to  me  by  the  ties  of  blood,
+Foregoing  thoughts  of  vengeance  on  f  ran,
+And  did  not  grudge  my  treasures  or  my  child,  V.  638
+
+But  trusted  him  with  both  my  precious  Eyes.
+Now,  after  all  these  pains  and  benefits,
+
+
+298  THE   SHAHNAMA    OF  FIRDAUSI
+
+And  sacrifice  of  province,  crown,  and  wealth,
+For  me  to  purpose  ill  to  Siyawush
+Would  raise  no  little  outcry.     If  I  do
+An  injury  however  slight  to  him
+The  mighty  men  will  cry  out  shame  on  me,
+And  I  shall  be  a  butt  for  every  one.
+Of  beasts  the  lion  hath  the  sharpest  teeth,
+His  heart  is  not  afraid  of  scimitars,
+And  if  a  whelp  of  his  shall  be  aggrieved
+He  will  lay  all  the  meadow  desolate  ;
+Moreover  if  we  persecute  the  guiltless
+How  shall  the  Judge  of  sun  and  moon  approve  ?
+I  know  none  else  that  I  can  take  to  me,
+Yet  now  I  will  dismiss  him  to  his  father.
+So,  if  he  seeketh  throne  and  signet- ring,
+He  will  not  make  our  coasts  the  scene  of  strife."
+But  Garsiwaz  :  "  0  king !  treat  not  so  lightly
+This  grave  affair.     If  he  departeth  home
+He  will  bring  desolation  on  our  coasts,
+For  when  an  alien  is  made  a  kinsman
+He  learneth  all  thy  secrets  great  and  small.
+A  sage  once  spake  a  proverb  as  to  this : —
+'  Domestic  storms  that  burst  externally
+Will  prove  but  travail  and  distress  to  thee,
+And  dissipate  wealth,  fame,  and  family.'
+V.  639        Dost  thou  not  know  that  he  who  reareth  leopards
+Will  get  no  recompense  but  pain  and  strife  ? "
+
+Afrasiyab,  when  he  had  mused  awhile
+And  thought  that  Garsiwaz  had  spoken  rightly,
+Repenting  of  his  own  advice  and  conduct,
+And  owning  that  his  policy  had  failed,
+Thus  answered  Garsiwaz :  "  From  this  affair
+I  see  no  good  appear  in  any  way.
+Let  us  be  patient  till  the  turning  sky
+Shall  make  its  aspects  known.     In  everything
+Delay  is  better  than  precipitance ;
+
+
+KAI  KAUS  299
+
+Wait  till  the  sun  hath  shone  on  this  awhile  ;
+
+I  shall  discern  God's  purpose,  and  to  whom
+
+The  bright  cheek  of  revolving  heaven  is  turned,
+
+And  then  if  I  recall  him  to  the  court
+
+I  shall  discover  what  his  secret  is.
+
+All  will  no  doubt  be  clear  in  course  of  time,
+
+And  if  his  villainy  be  manifest,
+
+So  that  my  heart  must  needs  be  pitiless,
+
+No  one  will  blame  me  afterward,  for  naught
+
+But  evil  fitly  recompenseth  evil."
+
+Then  vengeful  Garsiwaz :  "  Discerning  king,
+Whose  words  are  righteous !     Siyawush  possesseth
+Grace,  stature,  maces,  swords,  and  god-like  hands ;
+He  will  not  come  to  court  without  a  host,
+But  make  both  sun  and  moon  turn  dark  to  thee.
+He  is  much  changed,  his  crown  is  raised  to  heaven,
+And  Farangis  thou  wouldst  not  recognize,
+But  say :  '  This  world  can  give  her  nothing  more.'
+Thy  troops  will  all  go  over  to  his  side,
+And  when  there  is  no  flock  there  is  no  shepherd.
+An  army  having  seen  a  king  like  him,
+So  generous,  so  beaming,  and  so  wise,
+Thenceforth  would  never  have  thee  for  their  king  ;
+The  Ram  would  be  his  throne  and  thine  the  Fish.
+Moreover  wilt  thou  call  on  him  to  quit
+The  noble  city  and  the  prosperous  seat
+
+That  he  hath  built,  and  bid  him  :  '  Be  my  slave,  v.  640
+
+Content  with  meanness  and  obscurity  ? '
+None  seeth  lions  couch  with  elephants,
+Or  flames  upon  the  surface  of  a  stream.
+If  one  should  take  a  lion's  whelp  unsuckled
+As  yet,  should  bring  it  up  on  milk  and  sugar,
+And  nurse  it  on  his  bosom  constantly,
+It  will  revert  to  nature  when  full-grown
+And  fear  no  furious  elephant's  assault."
+
+The  monarch's  heart  was  straitened  at  his  words ;
+
+
+300  THE  SHAHNAMA    OF  FIRDAUSI
+
+He  grew  despondent,  anxious,  and  distressed,
+But  judged  it  best  to  pause,  for  prudent  men
+Win  in  the  end,  while  those  of  windy  pate
+_  Obtain  no  praise.     A  wise  man  spake  this  saw  :—
+"  A  tempest  that  hath  not  been  unforeseen
+Thou  mayst  encounter  with  untroubled  mien,
+While  Feather-brains  will  be  in  evil  plight
+Albeit  cypress-tall  and  men  of  might."
+
+Unrest  and  talk  went  on  ;  their  hearts  were  full
+Of  vengeance  for  the  wrongs  of  ancient  days,
+For  ever  and  anon  came  Garsiwaz —
+The  villain  full  of  malice — to  the  king,
+Concocting  lying  tales  of  Siyawush,
+And  stirring  the  Turanian  monarch's  heart,
+Until  he  was  possessed  by  care  and  vengeance.
+One  day  the  king  in  private  conference
+With  Garsiwaz  declared  his  purposes,
+And  said :  "  Thou  must  go  hence.     Hold  intercourse
+With  Siyawush  for  long,  then  speak  him  fairly
+From  me,  and  say :  '  Thou  in  thy  happy  home
+Hast  no  desire  to  look  on  any  one ;
+v.  641        But  my  heart  resteth  not  for  love  of  thee.
+Arise  !     Come  hither,  thou  and  Farangis,
+Awhile,  because  we  yearn  to  look  upon  thee,
+With  thy  shrewd  mind  so  full  of  excellence.
+We  too  have  game  upon  our  hills,  we  too
+Quaff  wine  and  milk  in  cups  of  emerald.
+Thus  let  us  pass  a  season  and  be  glad,
+And,  when  thou  longest  for  thy  prosperous  city,
+Go  thou  with  singing  and  with  happiness.
+Why  are  the  wine  and  cup  denied  to  us  ?
+Think  not  about  thy  throne  of  majesty,
+But  straitly  gird  thy  loins  and  come  to  me.' "
+
+
+KAI   KAUS  301
+
+§49
+
+How  Garsiwaz  returned  to  Siyawush
+
+The  crafty,  vengeful  Garsiwaz  made  ready.
+When  he  drew  near  Siyawushgird  he  bade
+A  fluent  speaker :  "  Go  to  Siyawush
+And  say :  '  Famed  son  of  an  aspiring  sire !
+By  our  king's  life  and  head,  and  by  the  life,
+The  head,  and  royal  crown  of  Shah  Kaiis,
+Leave  not  thy  throne  to  meet  me  on  the  way,
+Because  thou  art  so  great  in  dignity,
+In  fortune,  Grace,  crown,  throne,  and  lineage,
+That  every  wind  should  have  to  gird  its  loins
+To  make  thee  quit  that  royal  dwelling-place.' "
+
+The  messenger  approaching  kissed  the  ground
+And  told  the  words  of  Garsiwaz  ;  the  heart
+Of  Siyawush  was  pained,  he  sat  and  mused
+Awhile,  then  said :  "  Here  is  some  mystery !
+I  know  not  what  my  good  friend  Garsiwaz
+Hath  said  about  me  to  Afrasiyab."
+
+When  Garsiwaz  arrived  the  prince  went  out
+Afoot  to  him,  asked  of  the  king's  affairs,
+Of  throne  and  crown  and  host,  and  Garsiwaz
+Then  gave  the  message  which  made  Siyawush  v.  642
+
+Rejoice,  and  thus  he  said  :  "  For  his  dear  sake
+I  would  not  turn  away  from  swords  of  steel.
+Lo  !  I  will  bind  my  girdle  on  to  go,
+And  link  my  rein  to  thine ;  but  we  will  tarry
+Within  this  pleasance  arabesqued  with  gold
+Three  days  and  hold  a  revel,  for  this  world
+Is  fleeting  by  in  pain  and  toil.     Alas
+For  him  whose  little  life  is  passed  in  sorrow  ! "
+
+Revengeful  Garsiwaz  writhed  when  he  heard
+The  prudent  prince's  words :  "  If  Siyawush,"
+He  thought,  "  departeth  with  me  to  the  king,
+
+
+302  THE   SHAHNAMA    OF  FIRDAUSI
+
+With  his  astuteness  and  his  lion-strength
+The  prince  will  trample  on  my  bow,  my  words
+Will  tarnish,  and  the  king  will  deem  my  plan
+A  fraud ;  I  must  devise  a  scheme  to  urge
+The  heart  of  Siyawush  to  evil  courses."
+
+He  fixed  an  earnest  gaze  on  Siyawush
+In  silence,  while  his  eyes  shed  tears  of  gall
+To  further  his  intent.     The  prince  beheld
+Those  swimming  eyes  as  of  one  greatly  moved,
+And  gently  said :  "  My  brother !  what  is  this  ?
+Is  it  a  nameless  grief,  or  hath  the  king
+By  his  unkindness  caused  thy  tears  to  flow  ?
+Lo  !  I  will  go  along  with  thee  and  fight
+Thy  battle  with  the  monarch  of  Tiiran,
+Will  find  out  why  he  useth  thee  so  ill,
+And  treateth  thee  as  his  inferior,
+While  if  it  is  an  open  enemy
+That  causeth  thee  insufferable  grief
+And  trouble,  lo  !  I  am  thy  friend  in  all,
+And  will  provide  thee  with  the  means  to  fight.
+But  if  the  royal  favour  is  bedirnmed,
+Not  by  thy  fault  but  through  some  slanderer's  lies,
+Or  one  hath  ousted  thee,  confide  in  me,
+643        That  I  may  make  all  well,  assuage  thy  griefs,
+And  purge  the  monarch  of  his  faults  herein."
+
+But  Garsiwaz  replied  :  "  0  man  of  fame  !
+It  is  no  question  with  me  of  the  king,
+Nor  arn  I  troubled  by  a  foe.     My  courage
+And    wealth    dispense    with    schemes.      I   mused    on
+
+questions
+
+Of  race,  and  called  to  mind  true  tales  of  old ;
+The  wrong  began  with  Tiir  who  lost  the  Grace,
+And  made  feud  with  fraj,  who  did  not  brawl.
+Beneath  Afrasiyab  and  Minuchihr
+Tiiran  hath  been  like  water  and  Iran
+Like  fire  ;  they  mingled  not  but  broke  away
+
+
+KAI  KAUS  303
+
+From  wisdom's  bonds  ;  Afrasiyab  is  worse
+
+Than  Tiir ;  this  wild  bull  still  is  in  his  hide.
+
+In  truth  thou  knowest  not  his  evil  moods,
+
+But  wait  until  a  little  time  hath  passed.
+
+First  judge  him  by  the  guiltless  Ighriras,
+
+His  brother  in  full  blood,  whom  he  destroyed
+
+With  his  own  hand  in  very  wantonness,
+
+While  afterward  full  many  a  famous  man
+
+Was  slaughtered  by  him  for  no  fault  at  all.
+
+My  chief  anxiety  is  now  for  thee,
+
+For  thou  art  shrewd  of  heart  and  stout  of  frame,
+
+And,  since  thou  earnest  to  our  land,  hast  done
+
+No  wrong  to  any,  but  adorned  the  world
+
+With  wisdom,  seeking  right  and  manliness.
+
+Malignant  Ahriman,  who  parteth  hearts,
+
+Hath  seared  the  king's  through  thee,  and  it  is  all
+
+Revenge  and  grief  at  thee  !     God's  will  I  know  not,          v.  644
+
+But  thou  dost  know  me  as  thy  friend,  thy  partner
+
+In  weal  and  woe,  and  thou  must  not  suspect
+Hereafter  that  I  knew  of  all  this  coil.
+I  therefore  tell  thee  of  the  monarch's  case,
+Which  it  had  been  a  fault  in  me  to  hide."
+
+Then  Siyawush  :  "  Have  no  concern  hereat,
+The  Maker  of  the  world  is  mine  ally ;
+I  did  hope  otherwise  than  that  the  king-
+Would  turn  my  day  to  night ;  had  he  been  wroth
+With  me  he  had  not  raised  me  over  others,
+Or  given  me  a  province,  crown,  and  throne,
+Domain,  his  daughter,  treasure,  and  a  host.
+Now  will  I  go  with  thee  to  court  and  make
+His  dim  moon  shine  again.     Where'er  truth  shineth
+The  light  of  falsehood  waneth.     I  will  show  him
+This  heart  of  mine,  a  heart  that  doth  outshine
+The  sun  in  heaven.     Be  happy  then,  reject
+Suspicion,  for  whoever  suffereth
+That  dragon's  breath  departeth  from  God's  way."
+
+
+304  THE   SHAHNAMA    OF  FIRDAUSI
+
+But  Garsiwaz  made  answer :  "  My  dear  friend !
+He  is  much  changed.     So  long  as  heaven  shall  turn
+He  will  be  harsh  and  wear  a  frowning  face.
+Not  e'en  the  wisest  knoweth  of  the  wiles
+That  lift  on  his  horizon.     Thou  thyself,
+With  all  thy  learning  and  thy  prudent  heart,
+Thy  towering  stature  and  high  purposes,
+Discernest  not  'twixt  artifice  and  love :
+May  no  ill  fortune  ever  come  to  thee  !
+He  dealt  in  charms  and  spells  with  thee,  and  sewed
+The  eyes  of  wisdom  up  by  his  devices.
+V.  645       First,  when  he  named  thee  son-in-law,  thy  joy
+Was  ill  advised.     Next  when  he  sent  thee  forth
+He  made  a  feast  for  thee,  and  called  his  lords,
+In  hope  that  thou  wouldst  take  some  liberty,
+And  give  occasion  to  the  world  to  talk.
+Besides  thou  art  not  closer  unto  him
+By  any  ties  than  prudent  Ighiiras,
+Whom  he  cut  down,  and  filled  the  nobles'  hearts
+With  terror.     Since  his  purposes  are  clear,
+Accept  the  fact ;  trust  not  the  ties  of  blood.
+Now  like  the  shining  sun  have  I  displayed
+My  thoughts,  my  trade,  and  wit.     Thou  hast  rejected
+A  father  in  Iran,  and  in  Turan
+Hast  builded  cities,  yielding  to  the  words
+And  sharing  in  the  troubles  of  the  king.
+It  is  an  ill  tree  that  thy  hand  hath  planted,
+With  poisonous  fruit  and  leaves  of  colocynth."
+
+He  spake  deceitfully  with  running  eyes
+And  sighing  lips,  while  Siyawush  in  tears,
+Regarding  him  with  wonder,  called  to  mind
+His  own  sad  fate  that  heaven's  love  should  cease,
+And  that  though  young  his  life  was  well  nigh  sped.
+His  heart  was  pained,  his  cheeks  turned  pale,  he  sighed
+In  heaviness  of  soul,  and  said :  "  I  find  not
+That  I  deserve  requital  for  ill  done,
+
+
+KAI   KAUS  305
+
+For  nobody  hath  heard  a  fault  of  mine
+
+In  word  or  deed.     Good  sooth  if  I  have  squandered         v.  646
+
+His  treasure  my  heart  is  wrung  at  his  displeasure.
+
+But  come  what  may  I  never  will  transgress
+
+His  wishes  or  commands.     Now  let  me  go
+
+With  thee,  without  an  escort,  and  discover
+
+The  reason  of  the  anger  of  the  king."
+
+Then  Garsiwaz  replied  :  "  Aspiring  one  !
+It  is  not  well  to  go.     No  need  to  walk
+Thus  into  fire,  or  to  expose  thyself
+To  breakers ;  'tis  but  rushing  into  danger,
+And  sending  smiling  destiny  to  sleep :
+I  surely  shall  suffice  to  mediate
+And  fling  cold  water  on  the  flames ;  but  write
+A  letter  telling  all  things  fair  or  foul,
+And  if  I  find  him  free  from  vengeful  thoughts,
+And  in  a  lucid  interval  of  good,
+I  will  dispatch  a  cavalier  and  make
+Thy  gloomy  counsels  bright.     I  trust  in  God,
+Who  knoweth  all  things,  that  Afrasiyab
+Will  turn  to  good  and  shun  perverse,  bad  ways :
+But  if  I  find  him  rash  and  obstinate
+I  likewise  will  dispatch  a  camel-post
+In  haste ;  then  make  thee  ready  instantly.
+Illustrious  monarchs  and  their  realms  are  near
+At  hand,  it  is  but  six  score  leagues  to  Chin,
+And  only  seventeen  score  to  Iran,
+Where  all  are  friendly  and  prepared  to  serve  thee.
+On  that  side  too  thou  hast  a  yearning  father,
+A  host  attached  to  thee,  and  loyal  cities.
+Dispatch  a  lengthy  letter  to  all  parts,
+And  haste  to  get  thee  ready."
+
+Siyawush
+
+Gave  credence  to  the  words  of  Garsiwaz,
+So  much  was  his  shrewd  intellect  asleep,
+And  answered :  "  I  will  do  as  thou  hast  said,  v.  647
+
+VOL.  n.  u
+
+
+3o6  THE  SHAHNAMA  OF  FIRDA  USl
+
+And  not  transgress  thy  counsel,  and  advice.
+Make  intercession  for  me  with  the  king :
+And  show  me  the  right  course  in  everything."
+
+
+§  50
+
+The  Letter  of  Siydwush  to  Afrddyab
+
+A  ready  scribe  was  called  to  whom  the  prince
+Gave  full  instructions.     First  invoking  God —
+The  Assuager  of  His  servant's  grief — he  spake
+The  praise  of  wisdom,  blessed  the  king,  and  said :
+"  0  king  victorious  and  fortunate  !
+May  time  ne'er  prove  thine  only  monument.
+Thou  calledst  me  and  I  rejoiced  thereat :
+May  thy  seat  be  amongst  the  archimages.
+Moreover  thou  didst  summon  Farangis,
+And  fill  her  heart  with  love  and  loyalty
+But  Farangis  is  ailing  at  this  present
+With  weakness  and  the  loss  of  appetite,
+She  cannot  rise  and  will  not  let  me  leave
+Her  side  (I  see  her  lying  'twixt  two  worlds)
+Although  my  heart  desired  to  look  on  thee,
+And  thy  words  gave  new  lustre  to  my  spirit.
+When  Farangis  is  well  she  shall  become
+The  ransom  of  the  monarch  of  Turan ;
+Her  sufferings  are  also  mine  excuse,
+For  I  am  privy  to  her  pains  and  griefs."
+
+He  gave  the  letter,  when  it  had  been  sealed,
+At  once  to  evil-natured  Garsiwaz,
+Who  boldly  made  request  for  three  fleet  steeds,
+And  rode  without  a  halt  both  day  and  night.
+He  traversed  in  three  days  the  long,  hard  road
+O'er  hill  and  vale,  and  on  the  fourth  day  reached
+The  monarch's  court,  a  villain  bent  on  ill.
+V.  648        Afrasiyab,  on  seeing  him  thus  pressed,
+
+
+KAI  KAUS  307
+
+And  full  of  hurry,  questioned  him  at  large : —
+"  Why  hast  thou  come  in  haste,"  the  monarch  said,
+"  Why  didst  thou  make  a  journey  of  such  length  ? "
+Then  Garsiwaz  replied :  "  When  fortune  loureth  .
+It  is  not  well  to  put  thy  trust  therein.
+Now  Siyawush  showed  no  regard  for  me,
+Nor  even  came  to  meet  me  on  the  way,
+Would  hear  no  words,  would  not  peruse  thy  letter,
+But  set  me  on  my  knees  below  his  throne.
+He  had  much  correspondence  with  Iran,
+And  kept  his  city's  portals  shut  on  us.
+What  with  a  host  from  Ruin  and  one  from  Chin
+There  is  a  constant  bruit  within  the  land.
+Unless  thou  actest  promptly  thou  wilt  have
+Naught  left  but  wind.     While  thou  art  hesitating
+He  will  attack  thee,  and  obtain  both  realms,
+For  should  he  lead  his  army  toward  Iran
+What  man  would  dare  come  forth  to  challenge  him  ?
+My  purpose  in  forewarning  thee  is  this
+That  thou  mayst  suffer  by  no  act  of  his."
+
+
+§  51
+
+How  Afrdsiydb  came  to  fight  with  Siyawush
+
+Whenas  Afrasiyab  had  heard  these  words
+
+The  feelings  of  old  days  returned  to  him.
+
+His  heart  grew  full  of  fire,  his  head  of  wind,
+
+He  could  not  answer  Garsiwaz  for  wrath,
+
+But  in  his  fury  bade  pipes,  cymbals,  trumpets,
+
+And  Indian  bells  be  sounded,  and  troops  summoned.
+
+He  flung  away  the  letter  all  unread,
+
+And,  through  the  words  that  wicked  Garsiwaz
+
+Had  spoken,  set  another  tree  of  feud.
+
+Now,  while  the  guileful  Garsiwaz  was  toiling  V.  649
+
+Upon  the  saddle,  Siyawush  in  anguish
+
+
+308  THE  SHAHNAMA    OF  FIRDAUSI
+
+Went  pale  and  trembling  to  his  ladies'  bower.
+"  Chief  of  the  lion-clutch  ! "  said  Farangis,
+"  Why  is  thy  favour  changed  ?  "
+
+"  My  fair ! "  he  answered,
+"  Mine  honour  hath  been  blackened  in  Tiiran.
+I  know  not  how  to  answer  thee,  for  I
+Am  all  confounded  at  the  case  myself;
+But,  if  the  words  of  Garsiwaz  be  true,
+My  share  is  point  and  not  circumference."
+
+Then  Farangis  plucked  at  her  tresses,  rent
+With  filbert-nails  her  cheeks  of  cercis-bloom,
+Blood  drenched  her  locks  of  musky  hyacinth,
+Her  heart  was  full  of  fire,  her  face  all  tears,
+Which  fell  in  showers  upon  the  silver  hills.
+She  bit  with  pearly  teeth  her  tulip  lips,
+She  tore  her  hair  out  by  the  roots,  and  wept
+For  what  Afrasiyab  had  said  and  done.
+She  said  to  Siyawush :  "  0  noble  king  !
+What  wilt  thou  do  ?     Make  haste  to  tell  me  alL
+Thy  father  is  enraged,  thou  durst  not  speak
+About  Iran ;  'tis  longsome  hence  to  Rum,
+And  thou  wouldst  be  ashamed  to  go  to  Chin.
+Whom  wilt  thou  take  to  be  thy  refuge  now  ?
+Thy  refuge  is  the  Lord  of  sun  and  moon."
+
+He  answered  her :  "  My  good  friend  Garsiwaz
+Will  come  with  joyful  tidings  from  the  king,
+Who  surely  will  forgive  through  tenderness,
+And  turn  his  vengeance  into  clemency."
+
+He  put  his  trust  in  God  while  thus  he  spake,
+But  his  hard  fortune  made  his  heart  still  ache.
+
+§52
+
+How  Siyawush  had  a  Dream
+
+V.  650       For  three  days  Siyawush  wept  bitterly
+
+By  reason  of  this  treacherous  turn  of  fate.
+
+
+KAI   KAUS  309
+
+The  fourth  night  as  the  prince  lay  fast  asleep,
+Clasped  to  the  breast  of  moon-faced  Farangis,
+He  shuddered,  woke  in  fright,  and  cried  as  'twere
+A  maddened  elephant.     The  fair  one  clung
+To  him,  exclaiming :  "  For  love's  sake,  0  king !
+What  aileth  thee  ?  "
+
+When  he  called  out  they  lit
+The  lamps  and  kindled  aloe- wood  before  him,
+And  ambergris.     The  lady  asked  again : —
+"  0  prudent  prince  !  what  sawest  thou  in  sleep  ? "
+
+Then  Siyawush  made  answer  :  "  Tell  not  thou
+This  dream  of  mine  to  any  of  the  folk.
+My  dream  was  this,  O  silvern  Cypress-tree  !
+I  saw  a  mighty  river  stretching  far,
+And  on  the  further  bank  a  mount  in  flames ;
+The  river-side  was  held  by  men  in  mail.
+On  one  side  was  the  swiftly  rolling  fire —
+A  fire  whereby  Siyawushgird  was  burned.
+Here  fire,  there  water,  while  Afrasiyab
+Stood  right  before  me  with  his  elephants.
+He  looked  upon  me  with  a  louring  face,
+And  blew  the  already  fiercely  burning  flames."
+
+The  lady  answered  him  :  "It  bodeth  well,
+Unless  thou  slumberest  for  this  one  night."
+
+Then  Siyawush  assembled  all  his  guards
+And  posted  them  about  the  court  and  hall ;
+He  mounted  in  full  armour,  sword  in  hand,
+And  sent  out  scouts  upon  the  road  to  Gang.
+Whenas  the  more  part  of  the  night  had  passed  V.  651
+
+There  came  a  scout  on  horseback  from  the  waste,
+Who  said :  "  Afrasiyab  with  many  troops
+Appeareth  in  the  distance,  pressing  forward."
+
+Then  came  a  messenger  from  Garsiwaz,
+Who  said :  "  Gird  up  thy  loins  to  save  thy  life.
+My  words  have  proved  to  be  of  no  avail,
+I  see  black  smoke  although  I  see  no  fire  :
+
+
+310  THE   SHAHNAMA    OF  FIRDAUSI
+
+Consider  now  what  course  thou  shouldest  take,
+And  how  thou  mayest  best  dispose  thy  troops."
+
+But  Siyawush,  who  knew  not  the  design,
+Believed  in  Garsfvvaz.     Then  Farangis
+Said  :  "  0  wise  king  !  take  no  account  of  us,
+But  mount  upon  a  courser  fleet  of  foot,
+And  trust  not  to  the  country  of  Turan.
+I  fain  would  see  thee  in  security
+Abiding  here,  but  save  thyself  and  flee."
+
+
+§53
+The  Parting  Words  of  Siyawush  to  Farangis
+
+He  said  to  Farangis  :  "  That  dream  of  mine
+Hath  come  to  pass  :  my  glory  is  bedimmed.
+For  me  existence  draweth  to  an  end,
+The  misery  of  bitter  days  hath  come.
+My  palace  may  reach  Saturn,  yet  death's  poison
+Hath  to  be  drunk ;  though  life  should  be  prolonged
+Twelve  hundred  years  dark  dust  is  our  last  home ;
+Some  are  the  food  of  lions,  some  of  vultures
+Or  eagles.     Nobody  possessed  of  wisdom
+Expecteth  any  brightness  from  the  night.
+This  is  the  fifth  month  of  thy  pregnancy
+With  our  illustrious  and  growing  babe :
+This  precious  Tree  of  thine  will  bring  forth  Fruit,
+v-  652        A  glorious  monarch ;  name  him  Kai  Khusrau,
+And  in  thy  sorrowing  find  peace  in  him.
+None  from  the  bright  sun  to  the  darksome  dust,
+From  gnat's  wing  to  the  mighty  elephant's  foot,
+And  from  the  well-spring  to  the  river  Nile,
+Can  scape  the  justice  of  All-holy  God.
+Turanian  soil  will  be  my  grave,  and  none
+Will  say :  '  His  dust  reposeth  in  Iran.'
+May  not  men  call  this  old  world  new  whose  sky
+
+
+KAI   KAUS  311
+
+So  quickly  altereth  ?     My  jocund  fortune
+
+Will  sleep  henceforward  by  the  king's  command.
+
+They  will  strike  off  this  guiltless  head  of  mine,
+
+And  lay  my  diadem  in  my  heart's  blood.
+
+For  me  no  bier,  shroud,  grave,  or  weeping  people,
+
+But  like  a  stranger  I  shall  lie  in  dust,
+
+A  trunk  beheaded  by  the  scimitar ;
+
+While  thee,  thy  head  unveiled,  thy  body  bare,
+
+The  guards  shall  drag  in  shame  along  the  road.
+
+Then  will  Piran  the  chieftain  reach  the  court,
+
+Plead  with  thy  sire  to  spare  thy  blameless  life,
+
+And  bear  thee  to  his  palace  in  thine  anguish.
+
+There  in  the  house  of  that  old,  honoured  man
+
+Wilt  thou  bring  forth  illustrious  Kai  Khusrau,
+
+And  there  will  come  a  saviour  from  Iran,
+
+One  with  his  loins  girt  up  by  God's  command,
+
+Who  will  convey  thee  and  thy  son  in  haste
+
+Toward  the  Jihiin.     Thy  son  will  have  the  throne,
+
+And  rule  o'er  fowl  and  fish.     A  host  will  come
+
+For  vengeance  from  Iran  and  shake  the  world.  v-  653
+
+Such  is  the  process  of  the  fickle  sky,
+
+Which  cottoneth  to  no  man  out  of  love !  j
+
+Oh !  what  a  mighty  host  will  don  their  mail
+
+To  vindicate  mine  honour !  Battle-shouts
+
+Will  rise,  and  Kai  Khusrau  will  vex  the  age ;
+
+Then  Rustam's  Eakhsh  will  trample  earth,  despising
+
+Turanian  folk,  and  thou  wilt  see  no  vengeance
+
+Ta'en  for  me  till  the  Resurrection-day
+
+Save  by  the  mace  and  trenchant  scimitar."
+
+The  noble  hero  turned  himself  to  her,
+Bade  her  farewell,  and  said :  "  Fair  spouse  !  I  go ;
+Be  strengthened  by  my  words,  and  think  no  more
+Of  luxury  and  throne."
+
+He  left  the  palace,
+
+Heart-broken,  pale,  lamenting  sore.     O  world  P
+I  wot  not  why  thou  nurturest  men  if  they
+
+
+312  THE  SHAHNAMA    OF  FIRDAUSI
+
+L  Whom  thou  hast  nurtured  are  to  be  thy  prey  !
+
+The  lady  tore  her  cheeks,  plucked  out  her  hair,
+Sent  two  streams  pouring  from  her  eyes,  and  hung
+Upon  him  as  he  spake  the  words  of  woe.
+
+With  cheeks  and  eyes  which  ran  with  his  heart's  blood
+He  sought  the  stables  of  his  Arab  steeds,
+And  led  forth  from  its  stall  night-hued  Bihzad,
+Which  overtook  the  wind  in  days  of  battle.
+He  groaned,  he  clasped  its  head  upon  his  breast,
+And  took  the  halter  and  the  headstall  off.
+Long  while  he  whispered  in  his  charger's  ear,
+And  said :  "  Be  prudent,  have  to  do  with  none.
+When  to  avenge  me  Kai  Khusrau  shall  come
+It  is  on  thee  that  he  must  put  the  bridle,
+So  now  renounce  the  stable  once  for  all,
+For  thou  shalt  carry  him  to  his  revenge.
+v-  654       Be  thou  his  charger,  trample  on  the  world,
+
+And  with  thy  hoofs  sweep  foemen  from  the  earth."
+
+He  hamstrung  all  the  other  steeds  and  slashed
+Their  legs  like  rushes  with  his  scimitar.
+As  for  the  riches  in  the  treasury,
+His  palace,  and  rose-garden,  his  brocade,
+Dinars,  pearls,  jewelry,  the  diadem,
+Sword,  belt,  and  helm,  he  burned  and  wasted  them.
+
+
+§  54
+
+How  Siydwush  was  taken  by  Afrasiyab
+
+This  done,  he  with  his  chiefs  marched  toward  Iran,
+
+Lost  in  amazement  at  his  evil  fortune,
+
+And  with  his  cheeks  suffused  by  tears  of  blood
+
+Fared  half  a  league  then  met  Afrasiyab,
+
+Beheld  an  armoured  host  with  sword  and  mace,
+
+And,  buckling  up  his  mail,  thought :  "  Garsfwaz
+
+Hath  told  the  truth,  a  truth  too  evident ! "
+
+
+KAI  KAUS  313
+
+Now  Siyawush  feared  for  his  life  what  time
+The  monarch  of  Tiiran  drew  nigh.     His  troops
+Partook  his  fears.     The  Turkmans  occupied
+All  hills  and  roads,  and  each  host  eyed  the  other,  V.  655
+
+For  hate  had  been  a  stranger  to  their  hearts.
+Through  fear  of  Siyawush  the  Turkman  horsemen
+Sought  not  to  fight  but  hung  back  cautiously.
+With  things  at  such  a  pass  the  Iranians  cried
+To  Siyawush  :  "  0  monarch  of  the  world  !
+Why  should  they  slay  us  with  impunity
+And  drag  us  o'er  the  plain  ?     Think  this  no  trifle
+But  let  them  witness  the  Iranians'  prowess."
+
+Then  Siyawush :  "  This  is  not  well,  for  we
+Have  neither  room  nor  force  to  fight.     To  offer
+My  sovereign  battle  would  disgrace  my  stock.
+The  turning  sky  is  bent  on  my  destruction,
+Though  guiltless,  by  the  hands  of  wicked  men,
+And  I  can  make  no  bold  attack  to-day,
+For  none  can  strive  with  God.     What  said  the  sage,
+That  man  of  prudence  ?     '  Brave  not  adverse  fate.' "    I
+
+Then  to  Afrasiyab  said  Siyawush : —
+"  0  full  of  virtues,  great  and  glorious  king !
+Why  hast  thou  come  to  battle  with  thy  host  ?
+Why  wouldst  thou  slay  me  in  mine  innocence  ?
+Thou  wilt  embroil  the  forces  of  two  realms,
+And  fill  the  earth  and  age  with  malisons."
+
+Said  Garsiwaz  the  insensate :  "  Do  these  words
+Befit  thee  ?     If  thou  art  so  innocent
+Why  hast  thou  come  thus  mail-clad  to  the  king  ?
+Men  come  not  to  receive  their  sovereigns
+With  gifts  of  bow  and  mail."
+
+Then  Siyawush
+
+On  hearing  answered :  "Villain  !  through  thy  words
+I  left  the  right  path  in  my  heedlessness.
+Thou  saidst :  '  The  monarch  is  enraged  at  thee ! '
+Now  guiltless  men  in  thousands  will  be  slaughtered         v.  656
+
+
+314  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+Through  what  thou  saidst,  but  punishment  will  come
+f    At  last.     As  khou  hast  sown  so  shalt  thou  reap."
+Then  to  the  king  :  "  Let  not  thine  anger  burn.
+It  is  no  jest  for  thee  to  shed  my  blood,
+And  wage  a  war  against  the  innocent.
+Give  not  thyself  and  kingdom  to  the  winds
+For  what  that  miscreant  Garsiwaz  hath  said."
+
+But  Garsiwaz  the  double-dealer  watched
+And,  while  the  prince  was  speaking  to  the  king,
+Grew  wroth  and  cried :  "  O  king  !  what  aileth  thee  ?
+Why  shouldst  thou  hold  a  parley  with  thy  foe  ? "
+
+Now  when  the  king  had  heard  what  Garsiwaz
+Had  spoken,  and  it  being  then  broad  day,
+He  bade  his  soldiers  draw  their  trenchant  swords,
+And  raise  a  shout  like  Resurrection-morn ;
+But  Siyawush,  still  constant  to  his  pledge,
+Put  not  his  hand  to  sword  and  javelin,
+And  let  not  one  of  his  companions
+Advance  a  foot  to  battle  with  the  foe.
+Malevolent  and  fell  Afrasiyab
+Then  wrought  upon  that  chieftain  of  Iran
+Gross  outrage,  saying  :  "  Give  them  to  the  sword,
+And  float  a  ship  in  blood  upon  the  plain."
+
+The  Iranian  army  was  a  thousand  strong,
+All  men  of  name  and  doughty  warriors,
+Who  perished  on  the  field  and  made  the  earth
+Like  tulips  with  their  gore.     Amid  the  mellay
+V.  657       The  prince  fell  from  his  sable  steed,  sore  wounded
+By  shaft  and  dart.     Gurwi  the  son  of  Zira
+Bound  both  his  hands,  as  he  was  lying  senseless,
+Behind  his  back  firm  as  a  rock,  while  others
+Placed  on  his  neck  a  yoke.     The  blood  ran  down
+Those  cheeks  of  cercis-bloom  ;  he  ne'er  had  seen
+A  day  like  that !    The  executioners
+Urged  him  and  dragged  him  on  the  road  afoot
+With  troops  around  him  toward  Siyawushgird.
+
+
+KA1   KAlJS  315
+
+Afrasiyab  commanded,  saying :  "  Take  him
+Beside  the  road  and  let  him  be  beheaded
+On  some  bare  spot  where  grasses  never  grow,
+And  pour  his  blood  upon  the  burning  earth.
+Let  there  be  no  delay  and  have  no  fears."
+
+The  soldiers  said  :  "  What  fault  hast  thou  discerned  ?
+Wilt  thou  not  say,  0  king  !  how  he  hath  wronged  theo
+That  thou  shouldst  steep  thy  hands  thus  in  his  blood  ?
+Why  wilt  thou  slay  a  man  for  whom  the  crown
+And  ivory  throne  will  weep  with  bitterness  ?
+Plant  not  in  times  of  happiness  a  tree
+Whose  fruitage  fortune  will  convert  to  bane."
+
+But  Garsiwaz,  that  man  of  evil  note,
+Was  in  his  folly  on  the  murderers'  side,
+And  fain  would  shed  the  blood  of  Siyawush
+Through  dudgeon  ever  since  the  day  of  contest.1
+There  was  a  warrior  younger  than  Piran,
+His  brother  and  his  noble  peer,  by  name
+Pilsam,  a  bright,  accomplished  youth,  who  reasoned
+Thus  with  the  king :  "  The  fruitage  of  this  shoot
+Is  pain  and  grief.     I  have  heard  sages  say,
+And  wisdom  too  agreeth  therewithal : —
+'  How  can  deliberation  cause  regret  ? '
+And  :  '  Reason  is  the  medicine  of  the  angry;
+And  :  '  Haste  and  ill  are  works  of  Ahriman —  v.  658
+
+Pain  and  remorse  to  body  and  to  soul.'
+It  is  not  reason  to  behead  thy  subject
+So  recklessly ;  keep  him  in  bonds  till  time
+Shall  give  its  teaching ;  when  the  breath  of  wisdom
+Shall  breathe  upon  thy  heart  thou  mayst  behead  him,
+But  give  no  order  now,  be  not  in  haste,
+For  hastiness  is  rooted  in  regret.
+It  is  not  fit  to  sever,  0  wise  king !
+A  head  whose  covering  will  be  the  crown ;
+And  if  thou  shalt  behead  a  guiltless  man,
+
+1  See  §47.
+
+
+316  THE   SHAH  NAM  A    OF  FIRDAUSf
+
+One  whom  Kaus  and  Rustam  will  avenge —
+The  Shah's  own  son  whom  Rustam  hath  brought  up
+And  nourished  fondly — we  shall  see  the  wrong
+Revenged,  and  thou  wilt  suffer  for  this  day.
+Bethink  thee  of  the  sword  with  flashing  blade,
+The  sword  whereby  the  world  is  filled  with  blood,
+And  those  famed  leaders  of  the  Iranians,
+Whose  wrath  confoundeth  earth,  as  Fariburz,
+The  son  of  Kai  Kaus,  the  ravening  Lion,
+Whom  none  e'er  yet  saw  satiate  of  fight ;
+That  hero  too  and  snorting  Elephant,
+Great  Rustam,  in  whose  eyes  a  host  is  vile.
+Then  will  Giidarz,  Gurgin,  Farhad,  and  Tiis
+Make  fast  the  drums  upon  the  elephants'  backs,
+Gird  up  their  loins  to  take  revenge,  and  fill
+The  wide  champaign  with  spearmen.     I,  my  peers,
+V.  659       And  our  best  warriors  cannot  countervail.
+
+Good  sooth  Piran  will  come  at  dawn,  the  king
+Will  also  hear  what  he  hath  got  to  say,
+And  seeing  that  there  is  no  urgency
+Dispread  not  such  a  carpet  of  revenge
+Upon  the  world.    Enjoin  not  haste  herein,
+For  it  will  be  the  ruin  of  Tiiran."
+
+Afrasiyab  was  softened  by  these  words,
+But  Garsiwaz  his  brother  had  no  shame,
+And  said :  "  Check  not  thy  purpose,  man  of  wisdom  !
+Because  of  this  youth's  talk.     The  plain  is  full
+Of  vultures  feeding  on  the  Iranian  dead,
+And  if  thou  fearest  vengeance  there  is  cause.
+Should  Siyawush  cry  out  earth  would  appear
+All  mace  and  scimitar  from  Rum  and  Chin.
+Hath  he  not  done  thee  wrong  enough  that  thou
+Shouldst  listen  weakly  to  what  others  say  ?
+The   snake's   tail   thou  hast  crushed  and  bruised  its
+
+head ;
+Now  wilt  thou  deck  its  body  with  brocade  ?
+
+
+KAI  KATJS  317
+
+If  thou  shalt  spare  his  life  I  will  depart
+To  some  retreat  and  perish."
+
+Then  Damur
+
+Went  with  Gurwi,  both  writhing  with  affright,
+Before  the  monarch  of  Turan  and  said : —
+"  Mind  not  the  blood  of  Siyawush  so  much,
+Because  'tis  vile  to  rest  with  all  to  do,
+But  hearken  to  the  words  of  Garsiwaz,
+The  counsellor,  and  sweep  away  thy  foe.
+Since  thou  hast  laid  the  snare  and  captured  him
+Slay  him  at  once,  and  tarnish  not  thy  glory
+Through  folly.     Holding  him  is  not  enough,;
+'Tis  needful  that  we  break  our  foemen's  hearts.
+Thou  hast  destroyed  his  troops !     Mark  how  the  prince
+Will  now  regard  thee.     Had  none  injured  thee  V.  660
+
+Aforetime  water  could  have  purged  this  fault ;
+Now  policy  would  have  him  seen  no  more
+At  large  or  in  restraint."
+
+The  king  replied : —
+"  I  have  myself  beheld  no  fault  in  him ;
+Albeit  astrologers  declare  that  ill
+Will  come  to  me  through  him,  and  if  I  shed
+His  blood  revenge  will  raise  dust  in  Tiiran
+And  dim  the  sun.     That  day  will  daze  the  wise.
+Misfortune  is  upon  me  and  my  realm ;
+Affliction,  pain,  and  bondage  are  at  hand,
+Yet  freeing  him  is  worse  than  slaying  him,
+Though  slaying  him  will  cause  me  pain  and  anguish/'
+
+But  neither  sage  nor  villain  can  make  sure
+What  new  expedient  heaven  may  have  in  store.
+
+§55
+How  Faranyis  bewailed  herself  before  Afrdsiydb
+
+The  news  reached  Farangis,  who  tore  her  cheeks
+And  came  afoot  before  Afrasiyab,
+
+
+3i8  THE   SHAHNAMA    OF  FIRDAUSl
+
+Girt  with  a  bloody  cord,  her  moon-like  face
+Besmirched  with  blood ;  she  came  in  fear  and  trembling,
+And,  as  she  scattered  dust  upon  her  head,
+Exclaimed :  "  0  monarch  full  of  excellence  1
+Why  wilt  thou  bring  me  to  such  misery  ?
+Why  hast  thou  wrapped  thy  heart  up  in  deceit  ?
+Dost  thou  not  from  thy  height  perceive  the  abyss  ?
+Take  not  a  monarch's  and  a  guiltless  head  ;
+The  Judge  of  sun  and  moon  will  disapprove.
+When  Siyawush  departed  from  fran
+He  did  thee  homage — thee  of  all  the  world —
+Gave  umbrage  to  the  Shah,  left  treasures,  crown,
+And  throne  to  make  thee  his  support  and  shelter.
+What  hast  thou  seen  in  him  to  make  thee  quit
+The  path  of  right  ?     No  man  beheadeth  kings
+And  long  retaineth  his  own  sovereignty.
+V.  66 1        Wrong  not  my  blameless  self  too,  for  the  world
+Is  fleeting  and  is  full  of  sobs  and  sighs.
+One  man  though  crowned  it  casteth  into  prison,
+One  who  ne'er  had  a  crown  it  maketh  king ;
+Yet  fate  hath  laid  the  grave's  grip  on  them  both,
+And  in  the  end  both  lie  alike  in  dust.
+Make  not  thyself  a  butt  to  all  the  world
+By  listening  to  malicious  Garsiwaz.
+Thou  knowest  well  what  tyrannous  Zahhak,
+The  Arab,  suffered  from  brave  Faridun ;
+And  likewise  how  both  Salm  and  savage  Tiir
+Fared  at  the  hands  of  great  Shah  Minuchihr.
+Now  living  at  the  throne  of  Shah  Kaiis
+Are  Zal  and  Kustam  the  vindictive  one,
+Giidarz,  son  of  Kishwad,  whose  hand  is  steel
+And  rendeth  lions'  hearts  and  leopards'  hides,
+Bahrain  and  Zanga  son  of  Shawaran,
+Who  heedeth  not  the  maces  of  the  valiant,
+And  Giv,  son  of  Giidarz,  at  whom  the  earth
+Is  all  a-tremble  on  the  day  of  battle.
+
+
+KAI  KAUS  319
+
+In  grief  for  Siyawush  the  streams  will  boil
+
+And  heaven  will  execrate  Afrasiyab.
+
+Herein  thou  art  a  tyrant  to  thyself,
+
+And  often  will  my  words  recur  to  thee.
+
+Thou  art  not  casting  onagers  in  sport,
+
+Nor  art  thou  terrifying  antelopes,
+
+But  plundering  a  monarch  of  his  throne,
+
+And  sun  and  moon  will  curse  thee.     Give  not  thou
+
+Turan  so  madly  to  the  winds,  and  never  V.  662
+
+Mayst  thou  have  reason  to  recall  my  words."
+
+She  as  she  spoke  caught  sight  of  Siyawush,
+And  tore  her  cheeks  with  lamentable  cries  : —
+"  0  king  !  O  brave  !  O  chief !  0  sovereign  !
+0  lion  proud  of  head  !  0  man  of  might !
+Thou  hast  left  home  and  country  in  Iran,
+And  recognised  my  father  as  thy  king,
+Yet  art  thou  haled  afoot  with  bounden  hands !
+Where  are  the  crown  and  throne  of  high  estate,
+Where  all  the  royal  oaths  and  covenants
+That  made  the  Sun  and  Moon  and  Saturn  quail  ?
+Where  would  be  Shah  Kaiis  and  his  proud  chiefs
+If  at  this  moment  they  beheld  thee  thus  ?
+Where  are  the  mighty  Rustam,  Tiis,  and  Giv,
+Zal,  Faramarz,  and  their  associates  ?
+The  tidings  of  this  wrong  will  reach  Iran
+And  vex  the  day  of  its  prosperity.
+Ill  hath  befallen  thee  through  Garsiwaz :
+Curse  on  him,  on  Gurwi  and  on  Damur !
+He  that  shall  lay  a  hand  on  thee  for  ill,
+Be  his  head  smitten  off  and  flung  away.
+May  God  vouchsafe  to  lighten  this  for  thee,
+And  make  thy  foes'  hearts  quake.     Would  that  mine  eyes
+Were  out  ere  they  beheld  thee  haled  like  this,
+But  could  I  ever  deem  that  mine  own  sire
+Would  banish  all  the  sunlight  from  my  breast  ? "
+
+The  monarch  heard  his  child's  words  and  the  world
+
+
+320  THE   SHAHNAMA    OF  FIRDAUSI
+
+Was  blackened  in  his  eyes.     He  said  to  her : —
+"  Begone.     What  know'st  thou  of  our  purposes  ?  "
+
+His  heart  was  all  a-fire  against  his  daughter,
+He  shut  the  eye  of  wisdom  recklessly.
+Within  the  lofty  palace  was  one  chamber
+Unknown  to  her ;  the  monarch  bade  his  guards
+To  drag  her  thither,  as  they  would  the  mad,
+And  having  flung  her  down  inside  that  room
+To  bolt  the  door  and  leave  her  in  the  gloom.
+
+
+§  56
+
+How  Siyawush  was  slain  by  Gurwi
+
+v.  663       Then  Garsiwaz  glanced  at  Gurwi ;  that  villain
+Turned  round  and  going  up  to  Siyawush
+Showed  no  observance  and  humanity,
+But  grasping  with  his  hand  the  prince's  beard
+Dragged  him,  O  horror !  vilely  through  the  dust,
+While  Siyawush  thus  prayed  Almighty  God  : —
+"  0  Thou  that  art  above  the  change  of  time  !
+Cause  from  my  seed  an  Offshoot  to  appear,
+In  all  men's  eyes  as  'twere  a  shining  sun,
+Who  will  avenge  me  of  my  foes,  maintain
+My  precedents,  exhibit  all  achievement
+And  manliness,  and  reinstate  the  world."
+
+Pilsam  came  following  Gurwi  with  tears
+Of  blood  in  anguish.     "  Fare  thee  well,"  the  prince
+Exclaimed.     "  Be  thou  the  woof  and  be  the  world
+Thy  warp.     Farewell  Piran  for  me  and  say : —
+'  The  fashion  of  the  world  hath  changed  !'     I  hoped
+Much  otherwise  of  him,  for  his  advice
+Was  like  the  breeze  and  I  was  like  the  willow.
+He  told  me :  'I  with  five  score  thousand  men,
+All  cavaliers  in  mail  on  barded  steeds,
+Will  be  thy  helper  when  the  day  shall  come,
+
+
+KAl   KAs  321
+
+Will  be  thy  pasturage  at  feeding- time.'
+Now  hurried  on  in  front  of  Garsiwaz,
+Afoot  thus  in  my  shame  and  gloom  of  soul,
+I  see  no  friend  or  one  to  wail  for  me."
+
+When  he  was  past  the  city  and  the  host
+They  bore  and  dragged  him  bound  upon  the  plain,
+And  then  Gurwi  received  from  Garsiwaz
+A  blue-steel  dagger  for  the  bloody  deed.
+He  dragged  the  prince  on  by  the  hair  afoot  v.  664
+
+And  when  he  carne  to  where  the  mark  had  stood
+The  day  that  Siyawush  and  Garsiwaz,
+That  lion-taker,  had  the  shooting-bout,
+The  son  of  Zira,  villain  that  he  was,
+Flung  to  the  ground  the  mighty  Elephant,
+And  showed  no  shame  or  reverence  for  rank,
+But  set  a  golden  basin  on  the  ground,
+Turned  up  the  prince's  face  as  'twere  a  sheep's,
+Cut  off  the  silver  Cypress'  head  and  filled
+The  bowl  with  blood.     Gurwi  took  up  the  bowl
+And  emptied  it  where  he  had  been  commanded.
+From  that  blood  presently  there  sprang  a  plant,
+Which  I  will  teach  thee  how  to  recognise,
+For  it  is  called  "  The  Blood  of  Siyawush."
+
+Now  when  the  Sun  had  left  the  Cypress- stem,
+And  when  the  prince's  head  had  fallen  asleep,
+( And  what  a  sleep !     For  how  much  time  hath  passed
+And  he  hath  never  stirred,  hath  never  waked  !)
+A  tempest  with  a  cloud  of  darksome  dust
+Arose  enveloping  the  sun  and  moon,
+And  no  man  could  discern  his  neighbour's  face.
+Then  all  of  them  began  to  curse  Gurwi.
+
+I  turn  me  left  and  right  and  all  around,
+But  knowledge  of  this  world  have  I  not  found.
+One  man  doth  much  amiss  but  good  alone
+Is  his,  the  world  and  fortune  are  his  own ;
+Another  walketh  this  earth  righteously
+
+VOL.  II.  X.
+
+
+322  THE   SHAHNAMA    OF  FIRDAUSI
+
+Yet  withereth  away  in  misery.
+
+v.  665        From  every  anxious  care  thy  soul  release,
+And  let  .thy  sorrow  over  this  world  cease,
+For  'tis  a  fickle  thing,  not  ever  sure,
+And  will  be  so  till  time  shall  be  no  more.
+But  this  is  certain — whatso'er  thy  lot
+_  May  be  in  this  world  it  abideth  not.
+
+A  cry  rose  from  the  halls  of  Siyawush,
+For  Garsiwaz  had  filled  the  world  with  tumult ;
+The  slaves  all  rent  their  hair,  and  Farangis
+Plucked  off  and  bound  a  long  and  musky  tress
+Around  her,  tore  her  cheeks  of  cercis-bloom,
+And  cursed  with  tears  and  shrieks  her  father's  soul,
+Who  hearing  how  she  wailed  and  cursed  him,  said
+To  Garsiwaz  the  villain :  "  Bring  her  forth,
+Drag  her  outside  the  curtains  by  the  hair,
+And  tell  the  guards  and  executioners
+To  take  her  by  the  tresses,  strip,  and  beat  her,
+Until  she  casteth  on  Turanian  soil
+The  seed  of  vengeance,  for  I  will  not  have
+A  tree  or  bough  or  leaf  or  crown  or  throne
+Come  from  his  root."
+
+Then  all  the  nobles  present
+Began  to  curse  Afrasiyab,  and  said : —
+"  From  king  or  minister  or  warrior
+None  e'er  heard  such  a  sentence ! "
+
+With  his  cheeks
+
+Blood-stained,  his  spirit  seared,  his  face  all  tears,
+Pilsam  approached  Lahhak  and  Farshidward.
+
+v.  666        "  E'en  Hell  is  better  than  Afrasiyab's
+
+Throne ! "  he  exclaimed.     "  No  rest  or  sleep  for  us
+In  this  land !     We  must  hasten  to  Piran
+In  sorrow  and  concern  about  the  captives."
+
+They  put  the  saddles  on  three  noble  steeds :
+"  They  roll  the  earth  before  them,"  thou  hadst  said.
+Now  these  three  horsemen,  when  they  reached  Piran,
+
+
+KAI   KAUS  323
+
+Their  faces  blood-stained  and  their  souls  all  thorns,
+
+Recounted  to  him  what  had  come  to  pass,
+
+And  how  the  ills  of  fortune  had  begun.
+
+Piran,  when  he  had  diligently  heard
+
+Their  words,  fell  from  his  throne  and  swooned  away.
+
+He  rent  his  clothes,  threw  dust  upon  his  head,
+
+Plucked  out  the  hair,  and  in  his  bitter  anguish
+
+Exclaimed :    "  Alack  !  thou  worthy  of  the  crown  !  v-  667
+
+For  ivory  throne  will  never  see  thy  like."
+
+Lahhak  said :  "  Haste  !  oh !  haste  !  or  greater  grief
+Will  come,  for  they  have  carried  Farangis,
+Her  body  all  a-quiver  like  a  tree,
+Dethroned,  disgraced,  unrespited,  away
+To  give  her  over  unto  those  that  slay ! "
+
+§57
+Ho  ic  Piran  saved  Farangis
+
+Piran  on  hearing  this  cried  out  in  wrath,
+
+Descended  to  the  street  and  from  the  stable
+
+Brought  forth  ten  roadsters  up  to  warriors'  weight,
+
+And  with  the  brave  Ruin  and  Farshidward
+
+Sent  up  the  dust  forthwith.1     He  reached  the  court
+
+In  two  days  and  two  nights,  there  found  the  deathsmen
+
+About  the  portal,  Farangis  bereft
+
+Of  all  her  wits  dragged  roughly  by  the  guard
+
+With  sword  in  hand,  and  all  the  court  in  uproar ;
+
+All  hearts  were  full  of  grief,  all  eyes  of  tears,
+
+All  tongues  of  curses  on  Afrdsiyab.
+
+The  populace — men,  women,  and  young  children —
+
+Were  talking  at  the  palace-gate  and  saying : —
+
+"  It  were  a  cruel,  fearful,  shocking  deed  v.  668
+
+To  cut  asunder  Farangis !    This  fury
+
+1  No  doubt  Pilsam  and  Lahhttk  were  with  them,  as  the  mention  of
+ten  horses  looks  like  a  re-mount  for  each  man.  Ruin  was  the  son  of
+Pirdn.
+
+
+324  THE   SHAHNAMA    OF  FIRDAUSI
+
+Will  wreck  the  reign  and  none  will  call  him  king
+Henceforward."
+
+At  that  moment  came  Piran
+Like  wind,  and  all  the  men  of  wisdom  joyed.
+When  noble  Farangis  saw  him  her  cheeks
+Were  hidden  by  a  flood  of  tears,  she  said : —
+"  111  hast  thou  dealt  with  me !  Why  hast  thou  flung  me
+While  living  into  fire  ? "
+
+Piran  dropped  off
+
+His  steed,  he  rent  the  raiment  that  he  wore
+As  paladin,  and  bade  the  officers
+To  hold  awhile.     He  sought  Afrasiyab
+In  haste,  grief-stricken,  and  with  tearful  eyes,
+To  whom  he  said :  "  O  king !  live  prosperously,
+Be  evil's  hand  afar !     What  hath  occurred,
+My  gracious  king !  to  turn  thy  face  to  ill
+To-day  ?     Why  hath  the  foul  Div  gained  thy  heart,
+And  robbed  it  of  its  reverence  for  God  ?
+Thou  hast  slain  Siyawush  though  innocent,
+And  flung  his  name  and  kingship  to  the  dust.
+News  of  this  wrong  will  reach  Iran  and  vex
+Our  prosperous  times,  for  many  a  paladin
+Will  march  in  anguish  and  revenge  against  us.
+V.  669       The  world  reposed  from  ill,  the  way  of  God
+Was  clear  until  the  wily  Div  from  Hell
+Smote  to  the  heart  the  monarch  of  Turan ;
+And  rightly  be  that  Ahriman  accursed,
+Who  turned  thy  counsels  to  an  evil  course.
+Thou  wilt  repent  of  this  for  many  a  day,
+And  surely  writhe  and  burn  in  agony.
+I  know  not  whose  ill  words  have  prompted  this,
+:  Or  what  the  Maker's  purpose  is  herein !
+
+Now,  quit  of  Siyawush,  thou  hast  ill-treated
+Thine  own  child,  and  hast  madly  left  thy  throne
+To  make  a  day  of  woe !     She  wisheth  not
+For  fortune,  royal  state  or  throne  or  crown.
+
+
+KA1   KAUS  325
+
+Make  not  thyself  a  butt  to  all  the  world
+By  what  thou  doest  to  thy  pregnant  child,
+Else  while  thou  livest  thou  wilt  be  accursed,
+And  when  thou  diest  Hell  will  be  thy  portion.
+If  now  the  king  would  make  my  spirits  bright,
+Let  him  send  Farangis  to  mine  abode.
+If  there  be  apprehension  through  this  babe,
+In  truth  the  trouble  and  concern  are  small.
+Have  patience  only  till  the  child  is  born  ;
+Then  will  I  bring  it  thee  and — do  thy  worst."
+
+He  answered :  "  Do  as  thou  hast  said,  for  thou
+Hast  made  me  cease  to  wish  to  shed  her  blood."
+
+Piran  rejoiced,  his  heart  was  eased  from  fear.
+He  sought  the  court-gate,  rescued  Farangis,
+Bestowing  many  a  curse  upon  the  guards,
+Then  bore  her  to  the  country  of  Khutan,
+Unhurt,  amid  the  applause  of  camp  and  court.
+When  he  had  reached  his  palace  he  bespake
+Gulshahr :  "  We  needs  must  harbour  this  fair  dame
+Until  she  hath  brought  forth  her  royal  babe,
+And  after  that  I  will  devise  some  scheme.
+Meanwhile  attend  upon  her  like  a  slave,
+And  mark  the  pranks  of  fortune."
+
+Time  passed  by,          v.  670
+The  Moon  grew  near  to  her  delivery.
+
+
+§  58
+The  Birth  of  Kai  Kliusran
+
+One  dark  and  moonless  night,  while  birds,  wild  beasts,
+And  cattle  slept,  Piran  in  dream  beheld
+A  splendour  that  outshone  the  sun  itself,
+While  Siyawush,  enthroned  and  sword  in  hand,
+Called  loudly  to  him,  saying :  "  Rest  no  more !
+Throw  off  sweet  sleep  and  think  of  times  to  come,
+
+
+326  THE   SHAHNAMA    OF   FIRDAUSI
+
+For  from  to-day  new  feasts  and  customs  date,
+Because  to-night  is  born  Shah  Kai  Khusrau ! "
+
+The  chieftain  roused  him  from  his  sweet  repose :
+Gulshahr  the  sunny-featured  woke.     Piran
+Said  unto  her :  "  Arise  !     Betake  thyself
+To  minister  to  Farangis,  for  I
+Saw  Siyawush  in  sleep  a  moment  since,
+Surpassing  both  the  sun  and  moon  in  lustre,
+And  crying :  '  Sleep  no  more,  but  join  the  feast
+Of  Kai  Khusrau,  the  monarch  of  the  world.' "
+
+Gulshahr  came  hasting  to  the  Moon  and  saw
+The  prince  already  born ;  she  went  with  cries
+Of  joy  that  made  the  palace  ring  again
+Back  to  Piran  the  chief.     "  Thou  wouldest  say,"
+She  cried,  "  that  king  and  Moon  are  fairly  matched !
+Oh  !  hasten  and  behold  a  miracle —
+The  Maker's  greatness  and  His  providence —
+For  thou  wilt  say :  '  The  babe  hath  need  of  naught
+But  crown,  mail,  mace,  and  lands  to  devastate.'  "
+
+The  chieftain  visited  the  royal  babe,
+And  offered  many  praises  to  the  Almighty
+For  that  tall  stature  and  those  arms  and  neck.
+Thou  wouldst  have  said  :  "  The  child  is  twelve  months
+
+old ! "
+
+Piran's  eyes  filled  with  tears  for  Siyawush ;
+He  uttered  curses  on  Afrasiyab,
+v.  671        And  thus  addressed  the  noble  company:—
+
+"  Although  the  king  shall  break  my  soul  therefor
+I  will  not  suffer  him  to  touch  the  child,
+Not  though  he  fling  me  to  the  crocodiles  ! "
+
+When  gloomy  murk  was  sleeping,  and  the  sun
+Displayed  its  rays,  the  captain  of  the  host,
+Twixt  fear  and  hope,  went  to  Afrasiyab
+In  haste,  but  waited  till  the  court  had  cleared ;
+Then  came  anear  the  famous  throne  and  thus
+Addressed  the  king :  "  O  sunlike  sovereign
+
+
+KA1  KAVS  327
+
+And  world-lord,  shrewd  and  versed  in  rnagic  arts !
+Thy  lot  last  night  was  bettered  by  one  slave,
+'Dowered  by  the  moon,'  as  thou  wouldst   say,  '  with
+
+sense.'
+
+He  hath  engrossed  all  beauty :  thou  wouldst  say  :—
+'  It  simply  is  the  moon  inside  the  cradle  ! '
+If  Tiir  could  have  his  lifetime  o'er  again
+He  would  desire  to  see  this  infant's  face.
+None  looketh  on  a  picture  in  a  palace
+So  fair.     The  royal  Grace  is  fresh  in  him,
+And  thou  wouldst  say :  '  'Tis  valiant  Faridiin
+In  Grace  and  countenance,  in  hand  and  foot.'
+Now  purge  thy  mind  from  every  thought  of  ill,
+Exalt  thy  heart,  and  illustrate  the  crown."
+
+God  gave  the  king  a  better  mind.     He  banished
+Thoughts  of  injustice,  harshness,  and  revenge  :
+His  spirit  sorrowed  for  his  evil  deed.
+Then  from  his  heart  he  heaved  a  sigh,  repenting
+Of  evil  done,  and  putting  by  'revenge
+Replied  :  "  Much  evil  will  befall  me  now  :
+That  is  the  gist  of  everybody's  words.
+The  age  will  be  disquieted  by  war,
+For  an  adviser  hath  reminded  me
+That  from  the  seed  of  Tiir  and  Kai  Kubad
+A  king  of  noble  birth  will  lift  his  head,
+
+The  world  will  seek  his  love  and  all  men  pay  V.  672
+
+Him  homage  in  fran  and  Tiiran.
+What  is  to  be  will  be,  no  anxious  thought
+Will  aught  avail ;  rear  not  the  child  at  home,
+But  send  him  to  the  shepherds  on  the  mountains
+That  he  may  know  me  not  or  why  I  sent  him
+To  them,  not  know  the  truth  about  his  birth,
+But  be  in  ignorance  of  all  the  past."
+
+He  spake  upon  the  matter  as  he  thought,
+And  deemed   this  old  world  young !    Canst  thou  do
+aught  ?
+
+
+328  THE   SHAHNAMA    OF  FIRDAUSI
+
+There  is  no  remedy.     The  world  is  vast,
+No  hooks  or  nets  of  thine  will  hold  it  fast ;
+But  if  misfortune's  ills  thou  hast  to  feel
+There  is  instruction  also  for  thy  weal.
+
+The  paladin  went  forth  with  joy,  his  heart
+Full  of  glad  thoughts,  began  to  bless  the  Maker.
+And  sing  the  praises  of  the  infant  king ;
+Then  journeyed  to  his  palace  musing  thus : —
+"  This  little  gift — what  will  it  prove  to  us  ? "
+
+
+§  59
+How  Pirdn  entrusted  Kai  Khusrau  to  the  Shepherds
+
+v.  673        Piran  had  shepherds  called  from  Mount  Kalur,
+To  whom  he  spake  about  the  infant  prince,
+Then  trusted  to  their  care  his  Heart  and  Eyes —
+The  child  that  was  so  good  and  admirable —
+And  said  :  "  Entreat  him  like  your  souls.     No  wind
+Or  dust  must  see  him.     Keep  him  from  mischance
+E'en  at  the  cost  of  your  own  eyes  and  hearts."
+They  said :  "  We  will  obey."
+
+He  furnished  them,
+
+And  sent  a  nurse  to  tend  the  royal  babe ;
+They  laid  their  fingers  on  their  eyes  and  heads,
+And  took  the  young  prince  with  them  to  the  mountains.
+The  heavens  revolved  awhile  with  matters  thus,
+And  looked  upon  Khusrau  with  loving  face.
+Now  when  the  brave  young  prince  was  seven  years  old
+His  prowess  told  the  secret  of  his  birth ;
+He  made  a  bow  of  wood  and  string  of  gut
+Looped  at  both  ends,  he  made  an  arrow  blunt
+And  featherless,  and  would  go  on  the  plain
+To  hunt ;  at  ten  he  was  a  valiant  warrior,
+Who  fought  with  boars  and  wolves,  anon  with  lions
+And  leopards,  armed  with  that  rude  weapon  only,
+
+
+KAI  KAUS  329
+
+And  thus  he  fared  until  as  time  went  on
+
+His  teacher  came  to  ask  for  fresh  directions.
+
+The  shepherd  left  the  mountains  and  the  waste,
+
+And  came  before  Piran  with  loud  complaints : —
+
+"  I  come  complaining  to  the  paladin
+
+Anent  this  noble  Lion  running  loose :
+
+He  hunted  antelopes  at  first,  attacked
+
+No  leopards,  and  avoided  lions'  tracks,
+
+But  now  to  fight  fierce  lions  is  the  same
+
+For  him  as  following  the  antelope,
+
+And  yet  I  must  not  let  him  come  to  harm  !
+
+The  noble  paladin  expecteth  this
+
+Of  me."
+
+Piran  on  hearing  smiled  and  said : —
+"  High  birth  and  excellence  will  show  themselves."
+
+He  mounted  on  an  easy-going  nag
+To  seek  the  sunlike  Lion,  and  observed
+The  stalwart  youth  as  he  approached  like  wind.
+He  kissed  Piran  upon  the  hand,  who,  seeing
+Such  Grace  and  such  a  countenance,  shed  tears,
+And  long  and  lovingly  embraced  the  youth
+In  secret  commune  with  all-holy  God.
+Khusrau  said  :  "  O  thou  pure  of  Faith !  mayst  thou
+Illume  the  country  of  Tiiran,  for  all
+That  know  thee  call  thee  friend  !     Thou  dost  embrace
+A  shepherd's  son  and  feelest  not  ashamed ! "
+
+The  heart  of  wise  Piran  grew  hot,  his  cheeks
+Flushed,  he  replied :  "  Thou  memory  of  the  great,
+So  good  and  yet  defrauded  of  the  world !
+There  is  no  shepherd  that  is  kin  to  thee,
+And  on  this  matter  I  have  much  to  tell."
+
+He  had  an  Arab  steed  brought  for  the  youth,
+Clothed  him  in  royal  robes  and  carried  him
+Home  to  the  palace,  thinking  mournfully
+Of  Siyawush.     He  cherished  Kai  Khusrau,  v.  675
+
+Rejoiced  in  him,  and  spent  a  happy  time,
+
+
+330  THE  SHAHNAMA    OF  FIRDAUSl
+
+But  lost  food,  rest,  and  sleep  through  tenderness,
+And  terror  of  the  anger  of  the  king,
+
+With  matters  thus  the  heavens  turned  above
+Awhile  o'er  Kai  Khusrau  in  peace  and  love.
+
+
+§60
+
+How  Piran  brought  Kai  Khusrau  before  Afrdsiydb
+
+One  night  Piran  received  a  messenger,
+
+Who  bade  him  wait  upon  Afrasiyab.
+
+The  monarch  spake  about  the  past :  "  My  heart,"
+
+He  said,  "  is  vexed  by  thoughts  and  grief  too  hard
+
+To  put  aside ;  this  child  of  Siyawush
+
+Hath,  so  to  speak,  o'ercast  my  day ;  but  will
+
+High  policy  allow  a  shepherd -swain
+
+To  rear  one  of  the  race  of  Faridun  ?
+
+•If  ill  through  this  child  hath  been  written  for  me
+
+No  caution  will  avert  it ;  'tis  God's  doing.
+
+But  while  the  child  suspecteth  not  the  past
+
+Let  him  be  glad  and  we  too  will  rejoice ;
+
+Still,  if  he  showeth  any  evil  bent,
+
+He,  as  his  father  did,  must  lose  his  head."
+
+Piran  replied :  "  0  king  I  thou  needest  none
+To  teach  thee.     This  boy  is  as  mad  folk  are  I
+What  notions  can  he  have  about  the  past  ?
+A  child  brought  up  by  shepherds  on  the  mountains
+Is  like  wild  animals ;  what  can  he  know  ?
+The  foster-father  told  me  yester-night : —
+'  The  boy  is  comely  but  devoid  of  wits.'
+In  spite  of  beauty,  stature,  form,  and  Grace,
+The  prince's  head  yet  lacketh  understanding ;
+Vex  not  thyself  and  think  no  more  hereof.
+What  said  the  sage — a  man  exceeding  wise  ?
+v.  676       '  More  potent  than  the  sire  the  nurse  will  prove,
+But  the  great  secret  is  the  mother's  love.'
+
+
+KAI  KAUS  331
+
+If  at  this  time  the  king  shall  order  me,
+
+I  will  present  this  lauded  youth  to  him,
+
+But  make  me  easy  by  a  promise  first
+
+And  swear  by  such  an  oath  as  kings  employ.
+
+Shah  Faridiin,  when  he  affirmed  a  matter,
+
+Swore  by  his  crown  and  throne  and  diadem  ;
+
+Tiir,  who  enjoyed  both  fortune  and  high  state,
+
+Swore  by  the  Ruler  of  the  universe ;
+
+And  that  great  king  Zadsham,  thy  grandsire,  swore
+
+By  Him  that  ruleth  Saturn,  Mars,  and  Sun."
+
+The  wits  of  fierce  Afrasiyab  were  lulled
+At  hearing  this,  he  swore  a  royal  oath
+By  white  day  and  by  sombre  night,  by  God —
+The  Omnipotent,  the  Maker  of  the  world,
+The  Maker  of  the  sky,  the  soul,  and  beasts : —
+"  No  harm  shall  come  upon  the  boy  through  me,
+And  I  will  never  breathe  sharp  breath  on  him."
+
+Pfran  then  kissed  the  ground  and  said :  "  O  king,
+Who  judgest  justly  and  art  wed  to  justice  !
+Be  wisdom  evermore  thy  guide  to  good,
+Be  earth  and  time  the  dust  beneath  thy  feet."
+
+He  came  in  haste  to  Kai  Khusrau  with  cheeks
+Like  cercis-blossom,  glad  exceedingly,
+And  said  :  "  Put  wisdom  from  thee.     If  the  king
+Shall  talk  to  thee  of  fight,  talk  thou  of  feast.
+Appear  before  him  as  an  alien
+And  speak  insanely,  show  no  kind  of  sense,
+And  thus  thou  mayst  perchance  outlive  the  day."
+
+Piran  equipped  him  with  a  royal  crown
+And  belt,  and  called  for  him  a  pretty  palfrey
+Whereon  the  shrewd,  young  hero  sat  and  rode
+Toward  the  palace  of  Afrasiyab.
+Tears  filled  the  eyes  of  all  on  his  account,
+And  shouts  were  raised  before  him :  "  Clear  the  way  :       v.  677
+The  brave  aspirant  to  the  crown  hath  come."
+
+When  he  arrived  Piran  the  general
+
+
+332  THE   SHAHNAMA    OF  FIRDAUSI
+
+Took  him  before  the  king.     The  grandsire's  cheeks
+
+Grew  wet  with  tears  of  shaine,  meanwhile  Piran
+
+Shook  like  a  willow,  fearing  for  Khusrau.
+
+The  king  remembering  his  pledge  and  spurning
+
+All  fell  designs,  gazed  in  astonishment
+
+Upon  that  royal  neck,  the  young  man's  hands,
+
+His  gait,  his  bearing,  and  his  dignity.
+
+There  was  a  pause.     The  monarch's  face  relaxed,
+
+And  love  at  length  prevailed  within  his  heart.
+
+"  O  youthful  shepherd ! "  said  Afrasiyab,
+
+"  Describe  to  me  thy  life  by  day  and  night.
+
+On  what  wise  hast  thou  shepherded  thy  flock  ?
+
+What  is  the  number  of  thy  sheep  and  goats  ? "
+
+Khusrau  thus  answered  him :  "  There  is  no  game  :
+Besides  I  have  not  arrow,  bow,  or  string."
+
+The  monarch  asked  him  next  about  his  teacher,
+And  whether  he  was  prosperous  or  not.
+Khusrau  replied :  "  Where'er  there  is  a  leopard
+The  hearts  of  valiant  warriors  are  rent."
+
+Afrasiyab  the  third  time  questioned  him
+About  Iran,  his  parents,  and  his  home.
+"  The  rending  lion,"  thus  he  made  reply,
+"  Is  not  o'er-powered  b}^  a  fighting-dog."
+
+The  king  said :  "  Wilt  thou  go  hence  to  f  ran,
+To  him  who  is  the  monarch  of  the  brave  ? "
+
+Khusrau  thus  answered  him :  "  Two  nights  ago
+A  horseman  passed  me  on  the  hills  and  plains."
+
+The  monarch  smiled  and  blossomed  like  a  rose,
+Then  asked  of  Kai  Khusrau  in  gentler  tones : —
+"  Dost  thou  not  wish  to  learn  to  write  ?     Hast  thou
+No  wish  for  vengeance  on  thine  enemies  ? "
+v.  678  He  said :  "  There  is  no  cream  upon  the  milk :
+
+I  fain  would  drive  the  shepherds  from  the  plain."
+
+The  monarch  smiled  at  what  Khusrau  had  answered.
+And  turning  to  the  captain  of  the  host
+Said  thus  to  him  :  "  The  fellow  is  a  fool :
+
+
+KAI  KAUS  333
+
+1  ask  of  heads ;  he  answereth  of  feet  !
+
+In  sooth  no  good  or  ill  will  come  from  him  :
+
+Of  other  stuff  are  they  that  seek  revenge.
+
+Go !     Send  him  by  the  hand  of  some  good  man,
+
+And  let  his  mother  have  him  back  to  her.
+
+Dispatch  him  to  Siyawushgird,  allow
+
+No  evil  teachers  to  resort  to  him,
+
+But  furnish  him  with  treasure,  money,  steeds,
+
+Attendants,  and  whate'er  may  serve  his  needs."
+
+§  61
+How  Kai  Khusrau  went  to  Siyawushgird
+
+''  Bestir  thyself,"  Piran  said  to  the  prince,
+Then  took  him  from  the  presence  of  the  king,
+And  went  back  to  his  palace,  flushed  with  joy
+And  triumph,  since  the  eye  of  ill  was  closed.
+He  said :  "  A  new  Tree  fruiteth  in  the  world
+Through  Him  that  ruleth  over  destiny."
+
+He  oped  the  portals  of  his  ancient  hoards
+And  furnished  all  that  Kai  Khusrau  required —
+Brocade,  dinars,  and  precious  stones,  with  pearls,
+Steeds,  implements  of  war,  and  crowns  and  girdles,
+Besides  a  throne  and  purses  full  of  drachms,
+With  carpetings  and  matters  great  and  small.
+He  brought  them  all  to  Kai  Khusrau  with  speed,
+And  with  the  present  gave  his  blessing  also,
+Then  sent  both  son  and  mother  to  the  seat
+That  good  king  Siyawush  had  built.     They  went
+Their  way  rejoicingly  toward  the  place,
+Which  had  become  by  then  a  brake  of  thorns.
+When  Farangis  and  Kai  Khusrau  arrived
+Much  folk  from  every  side  appeared  to  greet  them,
+While  all  the  city's  tongues  were  full  of  praise :
+"  Thus  then,"  they  said,  "  hath  fortune  made  a  Shoot       y.  679
+Sprout  from  the  razed  roots  of  a  noble  Tree !
+
+
+334  THE   SHAHNAMA   OF  FIRDAUS1
+
+Far  be  the  eye  of  evil  from  the  king,
+And  may  light  fill  the  soul  of  Siyawush."  >
+
+The  brambles  of  the  city  turned  to  box,
+The  meadow-grass  to  noble  cypresses ;
+The  very  beasts  rejoiced  and  all  the  folk
+Felt  solace  for  the  death  of  Siyawush,
+Since  cloudward  from  the  dust  that  drank  his  blood
+There  rose  an  Evergreen  of  sweet  perfume,
+Upon  whose  leaves  his  likeness  was  portrayed,
+Exhaling  through  his  love  the  scent  of  musk,
+And  flourishing  in  winter  as  in  spring
+Would  be  a  prayer-place  for  the  sorrowful.
+
+This  is  the  process  of  the  ancient  sky —
+It  robbeth  infants  of  their  mother's  breast,
+
+And  to  the  dust  deposeth  suddenly
+A  heart  by  fondness  for  the  world  possessed.
+Brave  not  the  world  but  seek  its  joys  to  win  ;
+
+It  hideth  evils  more  than  thou  canst  know,
+Yet  treat  it  as  a  garden  and  therein
+
+Abstain  from  sniffing  at  the  leaves  of  woe,
+For  whether  thou  art  king  or  shod  by  want
+In  any  case  thy  length  of  days  is  scant.
+Vex  not  thy  soul,  this  home  is  but  a  cheat,
+
+Thy  sole  possession  is  a  narrow  bier ;
+What  needeth  thine  amassing  ?     Sit  and  eat ;
+
+God  is  thy  treasurer,  thou  need'st  not  fear.
+Albeit  here  much  happiness  is  found
+
+The  world  hath  no  real  love  for  anyone.
+
+'Twill  raise  a  head  one  moment  to  the  sun,
+And  in  the  next  will  lay  it  underground.
+It  is  the  process  of  the  lofty  sky
+To  bring  down  princes  and  set  slaves  on  high.
+
+I  turn  from  blood  to  vengeance  and  tell  how
+Giv  bare  off  from  Turan  Shah  Kai  Khusrau.
+
+
+PART   V
+
+HOW   RUSTAM    AVENGED   SIYAWUSH,  AND   HOW
+GIV   BROUGHT    KAI    KHUSRAU   TO   IRAN
+
+
+ARGUMENT
+
+The  poet,  after  bewailing  the  approach  of  old  age,  tells  of  the
+arrival  in  Iran  of  the  news  of  the  death  of  Siyawush,  of  the  remorse
+of  Kai  Kaus,  and  of  the  wrath  of  Rustam,  who  slays  Siidaba,
+invades  Tiiran,  expels  Afrasiyab,  and  rules  there  himself  for  seven
+years ;  after  which  he  retires  to  Sfstan.  Afrasiyab  returns,  recovers
+his  authority,  and  wars  with  success  against  Iran.
+
+At  this  juncture  Gudarz  is  warned  in  a  dream  to  have  search
+made  for  Kai  Khusrau,  the  son  of  Siyawush,  who  is  kept  as  a
+prisoner  of  state  by  Afrasiyab,  and  Giv  departs  on  the  quest.  His
+adventures  are  described,  and  he  ultimately  returns  to  Iran  in
+company  with  Kai  Khusrau  and  his  mother  Farangis  in  spite  of  all
+the  efforts  of  Piran  and  Afrasiyab  to  stop  them.
+
+Subsequently  a  quarrel  takes  place  between  Gudarz  and  Tiis  as
+to  whether  Kai  Khusrau  or  Fariburz  shall  be  associated  as  joint
+Shah  with  Kai  Kaus,  who  puts  the  matter  to  the  test  and  Kai
+Khusrau  is  successful.
+
+
+NOTE
+
+The  most  conspicuous  character  in  this  Part  is  Giv,  a  word
+which  means  "  warrior."  The  feats  which  he  is  described  as  per-
+forming would  he  more  than  worthy  of  Rustam  himself,  who,  after
+his  withdrawal  Irom  Tiiran,  is  relegated  for  a  time  to  the  back-
+ground. We  must  conceive,  as  the  Persians  themselves  would,
+that  Giv,  employed  on  the  sacred  mission  of  discovering  and
+bringing  to  Iran  the  destined  prince,  was  favoured  with  divine
+assistance  in  his  enterprise.
+
+§  31.  The  quarrel  between  Gudarz  and  Tus,  as  to  the  respective
+claims  of  Kai  Khusrau  and  Fariburz  to  be  associated  as  Shah  with
+Kai  Kaus,  bears  important  results  in  the  next  reign.  Tus  was  the
+
+
+336  THE   SHAHNAMA    OF  FIRDAUSI
+
+son  of  Naudar,  and  he  and  his  brother  Gustaham  were  deliberately
+passed  over  after  the  death  of  that  Shah,  and  again  after  the
+deatli  of  Garshasp,  when  Kai  Kubad  was  fetched  from  Mount
+Alburz  to  fill  the  vacant  throne.1  Tiis  can  never  forget  that  he
+is  the  direct  representative  of  the  line  of  the  Pishdadian  Shahs,
+and,  despairing  of  ever  becoming  Shall  himself,  he  on  this  occasion
+attempts  to  obtain  power  indirectly  by  advocating  the  claims  of
+a  candidate  of  his  own.
+
+§§  34?  35-  In  the  account  of  the  expedition  of  Fariburz  and  Kai
+Khusrau  to  Ardabil  we  have  another  proof  of  the  truth  of  the
+view,  often  advanced  in  the  present  work,  that  the  true  seat  of  the
+legends  of  the  Sbahnama  is  to  be  looked  for  in  the  regions  lying
+between  the  Euxine  and  the  Caspian.  Ardabil  is  in  Azarbaijan,
+a  land  exposed  to  invasions  from  the  north  through  the  Pass  of
+Darband,  and  where  the  numerous  fire-springs  doubtless  gave  rise
+to  the  legend  of  the  heat  which  distressed  the  host  of  Fariburz  in
+the  neighbourhood  of  the  castle  of  Bahman.
+
+
+S  '
+
+Firdausi's  Lament  over  his  old  Age
+
+v.  680       When  threescore  years  hang  swordlike  o'er  one's  head
+Give  him  not  wine,  for  he  is  drunk  instead
+
+With  them !     They  give  to  me  a  staff  for  reins,
+My  wealth  is  squandered  and  my  fortune  sped.
+
+The  watchman  cannot  from  his  hill  descry
+The  countless  army  of  the  enemy,
+
+And  hath  not  wit  to  turn  away  although
+Their  spears  confront  the  lashes  of  his  eye.
+
+The  runners  too  that  were  so  fleet  of  yore
+Bend  and  are  bound  by  pitiless  threescore ;
+
+The  singer  is  aweary  of  his  song,
+And  one  are  bulbul's  note  and  lion's  roar.
+
+1  See  vol.  i.  pp.  369,  381.
+
+
+KAI   KAUS  337
+
+Since  I  took  up  the  cup  of  fifty-eight,
+The  grave  and  shroud,  naught  else.  I  contemplate.
+Ah  !  for  my  swordlike  speech  when  I  was  thirty,
+Those  luscious  days,  musk-scented,  roseate !
+
+Drawn  by  pomegranate-bloom  and  cypress-bough
+The  pheasant  haunteth  not  the  dog-rose  now.
+
+Sufficient  respite  from  my  destiny
+I  ask  the  Judge  Almighty  to  allow
+
+That  from  the  famous  tale  of  days  gone  by
+I  may  bequeath  the  world  a  history
+
+Such  that  whoe'er  shall  judge  my  work  aright
+Shall  never  speak  of  me  but  lovingly  ;
+
+And  I  that  am  the  Prophet's  household-thrall
+In  dust  before  his  Mandatary  fall —
+
+Him  of  the  pulpit  and  of  Zii'lfakar  ] —
+On  him  to  plead  my  cause  above  I  call.
+
+The  story  of  the  rustic  bard  again
+
+I  take  in  hand ;  heed  thou  the  minstrel's  strain.
+
+
+§2
+How  Kdus  heard  of  the  Case  of  Siyawush
+
+The  news  reached  Shah  Kaiis :  "  The  prince  is  slain  !       V.  68 1
+
+The  monarch  of  Turan  wrung  off  his  head
+
+As  'twere  a  bird's  !     On  every  mountain-top
+
+Wild  beasts  lament  the  guiltless.     Bulbuls  mourn
+
+Upon  the  cypress,  francolins  and  pheasants
+
+Beneath  the  rose.     Turan  is  seared  and  sore,
+
+Pomegranate  leaves  are  yellow  in  the  gardens.
+
+1  i.e.  "  The  lord  of  the  vertebrae" — the  name  of  a  famous  sword
+taken  at  the  battle  of  Badar  from  an  infidel  by  Muhammad,  from
+whom  it  passed  to  his  son-in-law  'Ali,  who  is  here  referred  to.
+VOL.  II.  Y
+
+
+338  THE  SHAHNAMA    OF  FIRDAUS1
+
+Gurwi  set  down  a  golden  bowl  and  raised
+As  'twere  a  sheep's  the  face  of  Siyawush  ;
+They  cut  his  royal  head  off;  there  was  none
+To  help  or  plead."
+
+When  Shah  Kaiis  heard  this
+His  crowned  head  bowed  itself  upon  the  state,
+He  rent  his  robes,  he  tore  his  cheeks,  and  quitted
+His  high  throne  for  the  dust.     The  Iranians
+Went  mourning  on  their  way,  the  cavaliers
+Put  on  their  funeral  weeds,  their  eyes  wept  blood,
+Their  cheeks  were  pale,  all  spake  of  Siyawush.
+Tiis  and  Giidarz,  the  gallant  Giv,  Shapiir,
+Bahram  the  Lion  and  Farhad  arrayed
+Themselves  in  raiment  black  and  blue ;  no  head
+Retained  its  helmet  but  had  dust  instead.
+
+
+§3
+How  Rustam  came  to  Kdus
+
+The  world-illuming  chief  heard  at  Nimriiz : —
+"  A  wail  ascendeth  from  fran,  the  death
+v.  682        Of  Siyawush  hath  shocked  the  world,  Kaiis
+
+Hath  thrown  dust  on  his  crown  and  rent  his  robes
+
+When  matchless  Rustam  heard  his  senses  fled ;
+A  wail  rose  from  Zabul,  Zal  tore  his  cheeks,
+And  scattered  dust  upon  his  crown  and  shoulders.
+Thus  passed  a  week  in  heaviness  and  mourning,
+But  on  the  eighth  day  rose  the  trumpet-blast,
+And  at  the  gate  of  elephantine  Rustam
+Troops  gathered  from  Kashmir  and  from  Zabul.
+Blood  in  his  eyes  and  vengeance  in  his  heart
+He  marched  toward  the  court  of  Kai  Kaiis.
+On  coming  near  f  ran  he  rent  his  robe
+Of  office,  swearing  by  the  Almighty  Judge  :—
+"  I  will  not  rest  from  arms  and  war  or  wash
+Dust  from  my  face,  whereat  we  need  not  grieve,
+
+
+KAI  KAUS  339
+
+Till  I  have  taken  vengeance  for  the  prince,
+
+And  brought  our  foes'  heads  to  the  shears.     My  crown
+
+Shall  be  a  casque,  my  cup  a  scimitar,
+
+My  net  the  leathern  lasso  on  mine  arm,
+
+Until  I  take  for  our  young  prince's  death
+
+Revenge  upon  that  Turkman  dark  of  soul."
+
+All  dust  from  head  to  foot  he  came  before  V.  683
+
+The  throne  of  Kai  Kaiis  and  said  to  him : —
+"  The  noxious  weeds  that  thou  hast  sown,  0  king !
+Are  fruiting  now  !     Thy  passion  for  Siidaba,
+And  thine  ill  bent,  have  robbed  thee  of  thy  Crown,
+And  now  thou  seest  clearly  that  thy  seat
+Is  on  the  ocean's  waves.     A  heavy  loss
+Hath  come  upon  Iran  through  the  distrust
+And  disposition  of  a  cruel  Shah.
+For  one  who  is  the  ruler  of  people
+A  shroud  is  better  than  a  woman's  bidding.
+A  woman's  talk  hath  murdered  Siyawush,
+And  blest  is  she  who  is  as  yet  unborn.
+
+Among  the  Shahs  there  was  not  one  like  him,  v.  684
+
+As  great,  as  noble,  and  as  reticent.
+Alas  for  that  tall  stature  and  that  face,
+That  face  that  had  the  mien  of  majesty  !
+Alas  for  that  so  famous  sovereign,
+For  time  will  never  look  on  such  another !
+Twas  ever  spring  when  he  was  on  the  throne ;
+At  feasts  he  used  to  be  the  crown  of  kings,
+In  fight  a  Pard,  a  Tiger,  and  a  Lion :
+None  ever  saw  a  man  so  deft  of  hand.
+Now,  while  I  live,  I  give  up  heart  and  brain
+To  execute  revenge  for  Siyawush.
+Ne'er  shall  I  fight  dry-eyed,  and  like  my  heart
+The  whole  world  shall  endure  the  fiery  smart."
+
+
+340  THE   SHAHNAMA    OF  FIRDAUSI
+
+§4
+How  Rustam  slew  Sitddba  and  led  forth  the  Host
+
+Kaiis  perceived  on  R-ustarn's  countenance
+How  great  his  love  was  by  his  tears  of  blood,
+And  out  of  shame  said  nothing  in  reply,
+But  poured  down  scalding  tears.     The  chief  departed
+And  went  toward  the  palace  of  Siidaba.
+He  dragged  her  from  the  bower  by  her  hair,
+Dragged  her  all  bleeding  from  her  throne  and  clave  her
+Asunder  with  his  dagger  in  the  street
+While  Shah  Kaus  sat  passive  on  his  throne ;
+This  done,  the  matchless  Rustam  felt  a  pang
+Yet  keener  in  his  heart,  he  sought  his  palace
+In  pain  and  woe,  with  blood-drops  in  his  eyes,
+And  livid  cheeks.     Iran  was  all  in  mourning,
+And  people  nocked  around  him  in  their  trouble,
+v.  685       While  he  for  seven  days  in  grief  and  tears
+Sat  in  his  palace  wrathful  and  distressed.
+Upon  the  eighth  he  sounded  trump  and  drum,
+And  to  his  palace  came  Giidarz  and  Tus,
+Shidush,  Farhad,  Gurgin,  Giv,  and  Ruhham,
+Shapur,  Kharrad  the  warrior,  Fariburz —
+The  son  of  Kai  Kaiis — Bahram  the  Lion,
+And  dragon-bold  Guraza.     Rustam  said : —
+"  I  stake  heart,  soul,  and  body  on  revenge,
+For  in  this  world  there  is  no  man  of  name
+In  arms  like  Siyawush  the  cavalier.
+Treat  not  the  matter  lightly.     None  can  deem
+Such  vengeance  trifling.     Banish  all  dismay,
+And  make  the  earth  run  like  Jihun  with  blood.     •
+By  God !  while  I  am  living  in  the  world
+I  will  not  cease  to  grieve  for  Siyawush.
+On  that  unwatered  waste  where  rash  Gurwi
+Poured  on  the  ground  the  life-blood  of  the  prince
+
+
+KAI  KAUS  341
+
+I  fain  would  chafe  my  face  and  eyes  ;  perchance
+It  may  relieve  my  heart  of  grief  for  him.
+Perchance  my  hands  like  his  may  be  secured,
+A  yoke  placed  on  my  neck,  and  both  my  wrists
+Bound  with  a  twisted  lasso,  and  myself
+Thrown  like  a  hapless  sheep  upon  the  ground ;
+But  if  not,  with  my  trenchant  scimitar
+And  mace  will  I  bring  Domesday  on  the  world  ;
+Mine  eyes  shall  see  naught  but  the  dust  of  fight.
+And  I  renounce  for  life  the  cup  of  pleasure."
+
+The  chiefs  and  paladins  on  hearing  this
+All  shouted  like  one  man :  thou  wouldst  have  said  : —
+"  f  ran  is  seething."     From  the  land  the  uproar
+Rose  to  the  clouds.     "  Earth  is  a  lion's  den,"  v.  686
+
+Thou  wouldst  have  said.
+
+Then  from  his  elephant
+
+He  dropped  the  ball  into  the  cup.     The  troops
+Unsheathed  the  sword  of  vengeance.     Rose  the  din
+Of  horn,  of  brazen  trump,  and  kettledrum  ;
+The  world  was  all  revenge,  and  thou  hadst  said : —
+"  It  is  a  seething  sea  ! "     Earth  had  no  room
+For  walking,  air  was  ambushed  by  the  spears ;
+The  stars  began  the  fray,  and  time  and  earth
+Washed  hands  in  mischief.     The  Iranian  warriors
+Girt  up  their  loins  and  Kawa's  standard  led  them.
+Then  Rustam  of  Zabul  chose  from  Kabul,
+Iran,  and  from  the  forest  of  Narwan,
+Troops  that  AS  ^re  wielders  of  the  scimitar :
+There  mustered  five  score  thousand  men  of  war.
+
+
+§5
+
+How  Fardmarz  slew   Wardzdd
+
+The  leader  of  the  van  was  Faramarz,
+
+The  son  of  Rustam  and  a  youthful  chieftain,
+
+
+342  THE   SHAHNAMA    OF  FIRDAUS1
+
+Whom,  when  he  reached  the  border  of  Tiiran,
+The  watch  descried.
+
+The  king  of  Sipanjab
+
+Was  Warazad,  a  lustrous  Pearl  mid  chiefs.
+Whenas  the  blast  of  trump  and  clarion,
+And  din  of  Indian  bells  came  to  his  ears
+He  beat  the  tymbals,  marched  out  to  the  desert,
+And  from  the  desert  to  a  sea  of  blood.
+His  troops  and  scimitars  were  thirty  thousand
+Prepared  for  fight.     Advancing  from  the  centre
+He  made  all  haste  to  counter  Fararnarz,
+And  questioned  him  and  said :  "  Who  art  thou  ?    Speak !
+Why  hast  thou  set  thy  face  against  this  land  ?
+Com'st  thou  in  sooth  by  order  of  the  Shah,
+Or  captain  of  the  host  ?     Dost  thou  not  know
+Afrasiyab,  his  state,  his  throne,  and  crown
+V.  687        Of  majesty  ?     Be  pleased  to  tell  thy  name,
+
+For  this  is  thy  last  fight.     Thy  swarthy  form
+May  not  give  up  the  ghost  beneath  my  hands,
+Unnamed."
+
+Then  Faramarz :  "  Ill-fated  chief!
+The  Tree  that  bare  me  is  a  paladin,
+In  whose  hands  lions  writhe,  while  elephants
+Grow  lifeless  at  his  wrath,  but  as  for  thee,
+Thou  ill-conditioned  bantling  of  the  Div !
+Why  should  I  talk  to  thee  of  how  and  why  ?
+The  elephantine  hero  is  behind
+With  troops — a  foe  sufficient  anywhere.
+He  armed  to  take  revenge  for  Siyawush,
+Advancing  like  a  furious  lion.     He
+Will  raise  the  reek  from  this  vile  land.     The  wind
+Will  not  adventure  meddling  with  his  dust."
+As  soon  as  Warazad  had  heard  the  words
+He  knew  that  it  was  useless  to  dispute,
+And  bade   the  troops :    "  Lay   on ;   string   up  your
+bows."
+
+
+KAI  KAUS  343
+
+Both  hosts  arrayed  themselves  and  donned  their
+
+helmets,
+
+The  war-cry  rose,  and  ears  grew  deaf  with  drumming.
+Now  at  the  sound  of  drum  and  clarion
+The  heart  of  Faramarz  began  to  throb.
+He  came  on  like  a  mighty  elephant,
+With  loins  girt  up  and  bow  upon  his  arm,
+And  in  a  single  onslaught  overthrew
+A  thousand  warriors,  then  turning  back
+With  spear  in  hand  he  sought  for  Warazad,
+And,  when  he  saw  the  Turkman  leader's  flag,
+Rushed  like  a  lion  from  among  the  troops,
+And  giving  to  his  sable  steed  the  spur,  v.  688
+
+And  stiffening  the  clutch  upon  his  lance,
+Struck  Warazad  a  blow  upon  the  girdle,
+So  that  cuirass  and  buckle  brake,  and  took  him
+In  such  a  fashion  from  the  poplar  saddle
+That  thou  hadst  said  :  "  He  dealeth  with  a  fly ! "
+Flung  him  upon  the  dust  and  then  dismounting,
+While  oftentimes  invoking  Siyawush,
+Cut  off  the  head  of  his  illustrious  foe,
+Blood-boltering  his  raiment  and  exclaiming : —
+"  See  the  first  head  of  our  revenge  !    The  seed
+That  hath  been  scattered  sprouteth  from  the  dust ! "
+
+They  gave  up  all  the  country  to  the  flames,
+The  reek  rose  to  high  heaven,  and  Faramarz
+Wrote  to  his  sire  respecting  Warazad : —
+"  I  opened  wide  the  door  of  war  and  vengeance,
+I  took  him  from  his  sell  of  poplar  wood,
+Cut  off  his  head,  so  doth  revenge  require
+For  Siyawush,  and  set  his  land  a-fire."
+
+
+344  THE  SHAHNAMA   OF  PIRDAUSI
+
+§6
+
+How  Surkha  led  his  Troops  to  fight  with  Rustam
+
+A  runner  came  and  told  Afrasiyab : —
+
+"  The  elephantine  Rustam  hath  come  forth
+
+To  war,  the  Iranian  chieftains  are  assembled ;
+
+They  have,  alack  !  beheaded  Warazad,
+
+And  robbed  the  marches  of  Turan  of  breath ;
+
+His  army  they  have  utterly  o'erthrown,
+
+And  given  up  his  country  to  the  flames."
+
+Afrasiyab  was  grieved  and  called  to  mind
+The  ancient  prophecy  that  he  had  heard
+From  wise  archmages  and  astrologers ; *
+V.  689        He  summoned  all  the  nobles,  paid  his  troops,
+
+Gave  largess  from  his  treasures,  and  brought  home
+All  herds  of  horses  that  were  on  the  waste.
+He  took  his  minister's  and  treasurer's  keys
+To  ope  his  magazines,  and  furnished  swords,
+Horse-armour,  maces,  and  artillery,
+Dinars,  gold,  gems,  crowns,  torques,  and  golden  belts,
+And  strewed  the  palace  and  the  ground  with  drachms.
+With  troops  equipped  and  treasure  lavished  on  them
+He  sounded  kettledrum  and  Indian  gong,
+And  then  the  horsemen  turned  their  thoughts  to  war.
+He  marched  from  Gang,  and,  having  reached  the  open,
+Called  Surkha  and  spake  much  of  Rustam,  saying : —
+"  Lead  thirty  thousand  Sabres  swift  as  wind
+To  Sipanjab,  ignoring  rest  and  pleasure,
+For  Faramarz  is  there.     Send  me  his  head ;
+But  ware  the  son  of  Zal !     Thou  hast  no  peer
+In  fight  save  him,  yet  where  the  pard  would  combat
+What  will  the  dog  of  war  avail  in  battle  ?
+Thou  art  mine  own  son  and  my  loyal  subject,
+The  Pillar  of  mine  army  and  my  Moon ;
+Be  so  alert  and  circumspect  that  none
+1  See  p.  234.
+
+
+KAI  KAUS  345
+
+Will  venture  to  attack  thee.     Lead  in  person,
+Be  vigilant,  and  guard  the  host  from  Rustam."
+
+When  Surkha  left  the  presence  of  his  sire  v-  ^
+
+He  took  the  troops  and  standard  to  the  plain,
+And  marched  along  like  wind  to  Sipanjab,
+Intent  on  war.     The  outposts  saw  the  dust,
+Turned  round,  and  hurried  in  to  Faramarz.
+The  din  of  drums  rose  from  the  f  ranian  troops,
+Whose  dust  transformed  the  earth  to  ebony ;
+The  clamour  of  the  cavaliers  and  chargers
+Rose  from  the  plain,  out-topping  Sol  and  Venus ;
+The  bright  steel  falchions  flashed  like  diamonds,
+The  spearpoints   fed   on   blood.     Thou   wouldst  have
+
+said : —
+
+"  An  exhalation  riseth  from  the  earth,
+And  giveth  fuel  to  the  flames  of  war."
+The  earth  from  end  to  end  was  heaped  with  slain ;
+Their  severed  heads  were  scattered  everywhere.
+As  Surkha  marked  the  progress  of  the  fight
+He  saw  the  spearhead  of  prince  Faramarz,
+Then  gave  the  rein  to  his  high-crested  steed,
+And,  giving  up  the  bow,  charged  with  the  spear,
+While  Faramarz,  abandoning  the  centre,
+Came  forth  with  lance  in  hand  to  counter  him,
+And  by  a  tl.  rust  swift  as  Azargashasp  V-  691
+
+Laid  him  unseated  on  his  horse's  neck,
+While  with  the  impetus  and  that  rude  shock
+The  lance  was  shivered.     Then  the  Turkman  chiefs
+Advanced  intent  on  battle  and  revenge,
+While  Surkha  in  the  anguish  of  defeat
+Fled.     Faramarz,  like  some  mad  elephant,
+Pursued  him,  brandishing  an  Indian  sword.
+The  Iranian  horse  rushed  after  him  like  divs,
+And  shouted.     Faramarz  came  up  with  Surkha
+And,  like  a  leopard  springing,  seized  his  girdle,
+Unseated  him,  and  hurled  him  to  the  ground,
+
+
+346  THE   SHAHNAMA    OF  FIRDAUSI
+
+Then,  driving  him  afoot,  brought  him  to  camp,
+Disgraced.     With  that  the  flag  of  matchless  Rustam
+Was  seen  approaching  mid  the  tramp  of  troops
+And  elephants  ;  the  prince  went  to  his  father
+As  quick  as  dust  and  told  of  his  success.
+In  front  was  Surkha  with  his  hands  in  bonds,
+There  lay  the  severed  neck  of  Warazad ;
+The  plain  and  hollows  were  all  filled  with  slain,
+The  foe  in  full  retreat.     The  soldiers  blessed
+The  brave,  young  paladin,  while  peerless  Rustam
+Gave  blessings  to  him  also  and  bestowed
+Great  largess  on  the  poor.     Of  Faramarz
+V.  692       Spake  elephantine  Rustam  :  "  He  whose  head
+Is  raised  o'er  others  must  have  noble  nature,
+Instruction,  prowess,  and  befriending  wisdom :
+His  nature  using  these  will  bring  the  world
+Beneath  his  feet  by  virtue  of  his  manhood.
+Thou  seest  naught  but  brightness  in  a  flame,
+Yet  he  is  burned  that  toucheth.     'Tis  not  strange
+That  Faramarz  should  triumph,  for  the  heart
+Of  steel  is  full  of  fire,  and  when  steel  fighteth
+With  flint  the  secret  of  its  heart  is  shown."
+
+Then  elephantine  Rustam  looked  on  Surkha —
+A  noble  Cypress  of  the  garth  was  he,
+His  breast  was  like  a  lion's,  and  his  cheeks
+Were  like  the  spring,  cheeks  where  black  musk  was
+
+traced
+
+On  roses — bade  men  bear  him  to  the  plain,
+And  executioners  with  bowl  and  dagger,
+To  make  his  hands  fast  in  the  lasso's  coils,
+To  throw  him  like  a  sheep  upon  the  ground,
+Behead  him  as  was  done  to  Siyawush,
+And  let  the  vultures  be  his  winding-sheet.
+When  Tiis  the  general  heard  he  went  in  haste
+To  do  the  bloody  deed.     Then  Surkha  said  :—
+"  O  most  exalted  king !  why  slay  me  guiltless,
+
+
+KAI  KAUS  347
+
+For  Siyawush  was  of  my  years,  my  friend  ?
+My  soul  was  full  of  pain  and  grief  for  him,
+By  clay  and  night  my  eyes  o'erflow  with  tears  ;
+I  ever  oped  my  lips  to  curse  the  man
+By  whom  the  prince's  head  was  stricken  off—
+The  man  that  brought  the  dagger  and  the  bowl."
+
+The  heart  of  Tiis  was  very  pitiful
+For  that  illustrious  but  luckless  prince.
+
+He  went  to  Rustam  and  repeated  to  him  v-  693
+
+The  pleading  of  the  Turkman  monarch's  son,
+But  Rustam  answered  :  "  If  there  be  a  king
+Who  should  be  thus  heart-seared  and  sad,  then  may
+The  heart  and  spirit  of  Afrasiyab
+Be  ever  full  of  pain,  his  eyes  of  tears.
+This  youth,  engendered  by  those  recreant  loins,
+Will  but  employ  fresh  stratagems  and  guile.
+As  Siyawush  was  laid  upon  the  ground
+With  shoulders,  breast,  and   hair  bedrenched   with
+
+blood,
+
+So  by  the  head  and  life  of  Kai  Kaiis,
+The  glorious,  noble  ruler  of  fran,
+I  swear  that  every  Turkman  that  I  find
+Throughout  my  life,  be  he  a  king  or  slave,
+So  he  be  of  these  marches  and  this  folk,
+I  will  behead."
+
+And  therewithal  that  Lion
+Looked  at  Zawara  and  commanded  him
+In  peremptory  tones  to  do  the  deed
+Of  blood.     He  took  the  dagger  and  the  bowl,
+And  gave  the  youth  to  executioners,
+Who  cut  his  throat — a  cry,  and  all  was  over.
+What  wouldst  thou,  world !  with  those  whom  thou
+
+hast  fed  ?
+Fed  !     Say  thy  broken-hearted  slaves  instead  !
+
+Then  Rustam  took  the  head  off,  hung  the  trunk
+Feet  upward  on  a  gibbet,  and  flung  dust
+
+
+348  THE   SHAHNAMA    OF  FIRDAUSI
+
+In  vengeance  on  the  corpse,  which  afterwards
+The  soldiers  hacked  to  pieces  with  their  swords.
+
+
+§7
+
+How  Afrdsiyab  led  forth  the  Host  to  avenge  his  Son
+
+When  the  Turanian  troops  returned  from  battle,
+Their  bodies  bloody  and  their  heads  all  dust,
+They  said :  "  The  noble  chieftain  hath  been  slain,
+His  eager  fortune  hath  been  overturned,
+And  they  have  set  his  severed  head  and  body
+Blood-boltered  upside  down  upon  a  gibbet !
+The  people  of  Iran  are  all  in  arms,
+Their  hearts  ache  with  revenge  for  Siyawush."
+
+Afrasiyab  hung  down  his  head  and  crown,
+Plucked  out  his  hair,  shed  tears,  and  rent  his  robes,
+V.  694       Cast  dust  upon  his  head,  and  cried  aloud : —
+"  O  prince  !     0  gallant  heart !     0  warrior !
+0  chief !     0  man  of  name !     O  hero  !     King !
+Woe  for  that  moonlike  cheek  of  cercis-bloom  !
+Woe  for  that  royal  breast  and  mien  and  stature !
+Thy  sire  shall  ne'er  seek  rest  unless  it  be
+Upon  his  charger's  saddle  on  the  field."
+Then  to  his  men  :  "  Our  ease  and  feasts  are  over.
+Keep  ye  your  eyes  wide  open  for  revenge,
+And  make  your  jerkin  and  cuirass  your  bed."
+
+Rose  at  his  gate  the  din  of  kettledrums :
+His  warriors  armed.     Upon  the  elephants
+The  trumpets  blared,  the  world  was  like  a  sea
+Of  indigo,  and  when  they  bound  the  drums
+Upon  the  elephants  heaven  kissed  the  earth.
+Then  said  the  king :  "  Ye  chiefs  and  warriors !
+When  both  sides  sound  the  drum  he  is  no  soldier
+That  laggeth.     Let  our  hearts  be  full  of  vengeance,
+Full  as  the  bodies  of  our  foes  with  javelins  !"
+
+
+KAI   KAUS  349
+
+Thus  spake  he  to  the  troops,  then  bade  to  sound
+The  clarions,  cymbals,  and  the  Indian  bells.
+Arose  the  war-cry  and  the  blare  of  trumpets,
+The  din  of  cornet,  pipe,  and  kettledrum,
+Earth  shook  beneath  the  trampling  of  the  steeds,
+The  shoutings  of  the  soldiers  reached  the  clouds.
+
+Now  when  that  army's  dust  rose  from  the  plain
+One  came  to  vengeful  Rustam  and  spake  thus : —
+"  Afrasiyab  the  chieftain  is  at  hand  ;
+His  troops  move  like  a  vessel  o'er  the  sea.
+All  have  prepared  for  combat  and  revenge,
+And  set  their  hands  to  blood."
+
+Now  when  he  heard : —
+
+"  The  monarch  of  Tiiran  hath  come  in  sight,"
+The  troops  marched  forth  with  Kawa's  flag;  the  air
+Turned  blue  with  warriors'  swords ;  a  shout  arose
+From  both  sides  and  the  world  was  filled  with  fighters.   v.  695
+Thou   wouldst  have   said :    "  The  sun   and  moon  are
+
+darkened,
+A  crocodile  hath  swallowed  up  the  stars  ! "
+
+The  monarch  of  Tiiran  arrayed  his  men,
+Who  gru  ^ped  their  maces  and  two-headed  darts.
+Upon  the  right  Barman  came  proudly  on
+Before  his  troops,  Kuhram  was  at  the  left,
+And  in  the  centre  was  the  king  in  person.
+On  his  side  Rustam  too  arrayed  his  host,
+And  earth  was  lost  in  dust.     He  took  the  centre
+With  Faramarz  in  front  and  in  the  rear
+Zawara ;  on  the  left  he  placed  Giidarz,
+Hajir,  and  other  chiefs.     He  stationed  Gfv,
+And  Tus — those  wary  horsemen — on  the  right
+With  trump  and  drum,  then  armed  himself  for  battle,
+And  eased  his  heart  by  vengeance.     Earth  became
+Musk-black  with  troops,  air  like  a  leopard's  back
+With  spears.     "  It  is  an  iron  mount  whose  crest
+Is  full,"  thou  wouldst  have  said,  "  of  helms  and  mail."
+
+
+350  THE   SHAHNAMA    OF  FIRDAUSl
+
+The  staff-heads  of  the  banners  rose  towards
+
+The  clouds,  and  brightly  flashed  the  blue-steel  swords.
+
+
+How  Pilsam  was  slain  by  Rmtam
+
+Pilsam  with  angry  looks  and  vengeful  heart
+Came  to  the  centre  to  Afrasiyab,
+And  said :  "  0  full  of  wisdom,  famous  king  !
+v.  696        Unless  thou  here  forbiddest  me  the  use
+Of  charger,  helmet,  falchion,  and  cuirass
+I  will  myself  to-day  encounter  Rustam,
+And  cover  all  his  name  with  infamy,
+Will  bring  to  thee  his  head,  his  steed,  his  mace,
+And  world-apportioning  sword."
+
+The  king  rejoiced
+
+Thereat  and  raised  his  spearpoint  o'er  the  sun,
+Then  answered  :  "  0  thou  Lion  of  renown !
+In  sooth  no  elephant  will  conquer  thee.
+If  thou  dost  take  that  elephantine  chief
+The  age  will  rest  from  strife,  and  not  a  man
+Within  Turan  shall  equal  thee  in  rank,
+In  throne,  in  signet-ring,  in  crown,  and  sword.
+Thou  wilt  exalt  my  head  to  turning  heaven,
+And  I  will  give  to  thee  my  crown  and  daughter ;
+The  more  part  of  f  ran  and  of  Tiiran
+With  treasures,  gems,  and  cities  shall  be  thine."
+
+Piran  was  grieved  and,  coming  to  the  king,
+Said  to  him :  "  This  young  man  in  his  rash  youth
+Is  laying  violent  hands  upon  himself,
+For,  if  he  combat  with  the  matchless  Rustam,
+He  will  but  lay  his  own  head  in  the  dust.
+The  king  will  share  in  his  disgrace,  'twill  break
+The  spirit  of  the  troops  ;  he  is,  thou  knowest,
+My  younger  brother,  and  my  love  for  him
+
+
+KAI   KAUS  351
+
+Is  greater  than  an  elder  brother's  love."
+
+Pi'lsam  rejoined :  "  My  heart  doth  not  misgive  me,
+
+And,  if  I  fight  this  warlike  Crocodile,
+
+By  thy  good  fortune  I  will  bring  no  shame
+
+Upon  the  king.     Thou  once  beheld'st  my  prowess
+
+In  fighting  with  four  famous  warriors,1
+
+And  verily  my  strength  is  greater  now.
+
+It  is  not  right  of  thee  to  break  my  spirit ;
+
+The  enterprise  is  well  within  my  reach :
+
+Haunt  not  the  portal  of  an  evil  star."
+
+The  monarch,  hearing  what  Pilsam  replied,
+
+Gave  him  a  barded  charger,  helm,  cuirass,  V.  697
+
+A  sword,  and  massive  mace.     Pilsam  made  ready,
+
+And  lionlike  impetuously  advanced,
+
+Exclaiming  to  the  Iranians :  "  Where  is  Rustam,
+
+Who  is,  they  say,  a  Dragon  on  the  day
+
+Of  battle  ?     Bid  him  come  to  fight  with  me,
+
+For  I  am  ready  to  encounter  him."
+
+Giv,  furious  at  the  challenge,  drew  his  sword
+
+And  answered  :  "  Rustam  fighteth  not  one  Turkman,
+
+'Twould  b  *  disgrace."
+
+The  champions  closed.     Pilsam
+
+Struck  with  his  spear  at  Giv,  who  in  dismay
+
+Lost  both  his  stirrups.     Faramarz  saw  this,
+
+And  went  at  once  to  aid  his  gallant  comrade ;
+
+He  struck  athwart  Pilsam's  spear  with  his  sword,
+
+And  cut  it  like  a  reed ;  he  struck  once  more,
+
+The  blade  was  shivered  on  his  foeman's  helm,
+
+Who  wheeled  like  some  fierce  lion  on  the  plain
+
+With  those  two  warriors.     Rustam  from  the  centre
+
+Espied  them  fighting  with  one  lion-man,
+
+The  dust  sent  cloud-ward  with  their  wind-like  speed,
+
+And  thought :  "  Pilsam  alone  among  the  Turkmans
+
+Hath  dash  and  spirit."     He  had  heard  moreover
+
+From  hoar  archmages  and  astrologers,
+1  See  p.  112.
+
+
+352  THE   SHAHNAMA    OF  FJRDAUSI
+
+Amid  his  wanderings,  how  the  stars  foretold
+That :  "  If  Pilsarn  survive  his  evil  day,
+And  heed  his  counsellors,  no  warrior
+Like  him  in  all  the  world  shall  gird  his  loins
+For  battle  in  Iran  or  in  Tiiran,"
+
+V.  698       And  thought :  "  Assuredly  his  time  hath  come,
+For  he  hath  set  forth  to  encounter  me."
+
+He  spake  thus  to  his  troops :  "  Let  none  advance
+A  single  step  from  where  he  standeth  now.
+I  go  to  prove  the  prowess  of  Pilsarn,
+And  try  his  lustihood,  his  strength,  and  spirit."
+
+He  took  a  weighty  spear,  gripped  fast  his  steed
+With  both  his  legs,  and,  putting  on  his  helmet,
+Pressed  on  the  stirrups,  let  the  reins  hang  loose,
+And  lowered  the  shining  spear-head  to  his  eye.
+He  wheeled  about  and  foaming  at  the  lips
+Rushed  from  the  centre  toward  the  foemen's  lines,
+And  cried :  "  O  famed  Pilsam  !  thou  called'st  me
+To  scorch  me  with  thy  breath  !     Thou  shalt  behold
+The  onslaught  of  the  warrior-crocodile,
+And  ne'er  turn  rein  toward  a  battle  more.
+My  heart  is  burned  with  pity  for  thy  youth  :
+Alas  for  thine  estate  of  paladin  ! "
+
+He  spake  and  urged  his  charger  on.     He  came
+To  battle  like  high  heaven.     With  his  spear
+He  smote  Pilsam  upon  the  girdlestead,
+And  took  him  from  the  saddle  like  a  ball,
+Rushed  to  the  centre  of  the  Turkman  host
+And  there  flung  down  the  corpse  contemptuously,
+Exclaiming :  "  Dress  it  in  brocade  of  gold,
+For  now  'tis  lapislazuli  with  dust ! "
+
+Then  wheeling  round  he  went  back  to  the  centre.
+Piran  rained  tears ;  the  body  of  Pilsam
+Was  past  a  leech's  skill.     The  heart  of  all
+The  army  of  the  monarch  of  Tiiran
+Was  broken  and  the  battlefield  was  darkened.
+
+
+KAI  KAUS  353
+
+A  shout  rose  from  both  hosts ;  the  din  of  chiefs  v.  699
+
+Keen  for  the  fray,  the  drumming  on  the  backs
+
+Of  elephants,  were  heard  for  miles  around.
+
+Earth  trembled  with  the  chargers'  tramp,  the  hills
+
+Were  seas  of  blood,  the  plains  were  hills  of  slain.
+
+The  cries  and  blaring  clarions  shook  the  sky,
+
+The  stones  were  coral  and  the  dust  was  gore ;
+
+The  heads  of  many  chieftains  were  laid  low,
+
+And  thou  hadst  said :  "  The  sky  is  raining  blood."
+
+It  was  no  time  for  love  'twixt  sire  and  son.
+
+A  breeze  arose  upon  the  battlefield,
+
+And  murky  dust  usurped  the  firmament.
+
+Then  both  hosts  charged  with  fury  o'er  the  plain
+
+While  t  neither  could  distinguish  foe  from  friend  ;
+
+The  world  became  as  sombre  as  the  night,
+
+And  day  in  sooth  had  well  nigh  spent  its  light.
+
+
+§9
+
+How  Afrdsiycib  fled  from  Rustam
+
+Afrasiyab  said  to  his  troops :  "  Our  fortune
+That  was  awake  is  sleeping.    Ye  are  feeble,
+And  I  must  to  the  field.     Be  leopard-like
+In  resolution  if  but  for  to-day,
+Attack  from  every  quarter  and  fight  on.
+Lay  ambuscades  on  all  sides  for  the  foe,
+And  bring  the  sun  down  with  your  spears."
+
+He  quitted
+
+The  centre  of  his  host,  heart-seared,  revengeful,
+Charged  Tiis  and  slaughtered  many  of  Iran
+Till  Tus,  whose  heart  misgave  him,  showed  his  back.
+One  came  for  aid  to  Rustam  saying  thus : —
+"  The  matter  goeth  ill  with  us  to-day  :
+Our  whole  right  is  a  sea  of  blood,  the  banner
+Of  our  Iranian  horsemen  hath  gone  down,"
+VOL.  n.  z
+
+
+354  THE   SHAHNAMA    OF   FIRDAUSI
+
+Came  elephantine  Rustarn  from  the  centre
+With  Faramarz  and  troops.     Confronting  them
+
+V.  700       Were  many  buckler-men  who  hated  Rustam,
+Allies  and  kinsmen  of  Afrasiyab,
+Swift  in  revenge,  of  whom  the  matchless  one
+Slew  many,  backed  by  Tiis  and  Faramarz.
+Afrasiyab,  when  he  beheld  the  flag
+Of  violet  and  Kawa's  standard,  knew : —
+"  Tis  Rustam  of  the  elephantine  form,
+The  noble  chieftain  sprung  from  Nariman,"
+And  raging  as  it  were  a  warrior-leopard,
+Sat  tight  and  went  up  to  encounter  him.
+As  soon  as  Rustam  saw  the  sable  flag
+He  bounded  like  a  lion  in  its  rage,
+Then  full  of  fury  gave  fleet  Rakhsh  the  reins
+And,  with  blood  streaming  from  his  lance's  point,
+Encountered  proud  Afrasiyab.     One  shaft
+Of  poplar,  pointed  like  a  willow-leaf,
+Pinned  to  his  head  the  Turkman's  helm,  while  he
+Speared  warlike  Rustam  full  upon  the  breast,
+The  point  went  through  the  leather  of  his  belt
+But  failed  against  the  tiger-skin  cuirass ;
+Then  matchless  Rustam,  bent  upon  revenge,
+Speared  his  opponent's  charger  through  the  chest.
+The  speedy  steed  fell  prone  in  agony
+And  threw  the  rider,  whom  the  hero  strove
+To  seize  around  the  waist  and  make  an  end.
+Human  apart  caught  sight  of  him  and,  raising
+His  massive  mace  upon  his  shoulder,  smote
+The  shoulder-blade  of  elephantine  Rustam,
+While  both  the  armies  shouted.     Rustam  turned
+And  looked  behind  him,  thus  the  king  escaped
+His  grasp,  and  mounted  on  a  speedy  steed,
+While  by  a  hundred  shifts  Human,  the  son
+Of  Wisa,  saved  him  from  that  Dragon's  clutch.
+
+V.  701        The  hero-flinging  crown-bestower  followed
+
+
+KAI  KAUS  355
+
+Human  in  furious  haste  but  caught  him  not,
+
+His  time  had  not  yet  come.     Shouts  rose  to  heaven,
+
+And  massive  maces  whirled.     There  came  to  Rustam
+
+Some  of  the  army  of  f  ran  lest  harm
+
+Might  fall  upon  him,  and  the  noble  Tiis
+
+Made  question  of  him  :  "  Felt  the  Elephant
+
+The  impact  of  the  Onager's  assault  ? "
+
+He  answered :  "  Neither  heart  of  stone  nor  anvil
+Can  bear  the  buffets  of  a  massive  mace
+When  wielded  by  a  man  with  chest  and  arms ;
+As  for  that  mace  wherewith  Human  struck  me —
+Call  it  not  iron ;  it  was  merely  wax."
+
+When  Rustam's  foeman  turned  and  fled  the  troops
+All  gave  a  shout  and  raised  their  spearheads  cloudward.
+If  slain  and  wounded  covered  not  the  ground
+It  was  a  field  of  tulips  and  of  saffron ;
+The  horses  trampled  blood,  the  elephants
+Had  feet  incarnadined.     The  Turkmans  fled,
+Swift  as  f he  wind,  because  the  arm  of  Rustam
+Did  execution  on  them.     For  three  leagues
+That  matchless  hero  like  a  raging  dragon
+Pursued  the  foe.     Then  he  returned  to  camp,
+And  thou  hadst  said  that  heaven  befriended  him ;
+The  soldiers  came  back  satiate  with  spoil ;
+And  iron,  gold,  and  silver,  weapon,  rein,
+Spearhead,  and  girdle  covered  all  the  plain.
+
+
+§  10
+
+How  Afrdsiyab  sent  Khusrau  to  Khutan
+
+Now  when  the  sun  rose  o'er  the  mountain- tops,
+
+And  scattered  jewels  on  night's  pitchy  back,
+
+A  shout  rose  and  the  din  of  clarions
+
+As  matchless  Rustam  led  his  army  forth.
+
+They  marched  against  Afrasiyab  with  cheeks  V.  702
+
+
+356  THE   SHAHNAMA    OF  FIRDAUS1
+
+All  tearful  for  the  death  of  Siyawush.
+
+The  king,  on  hearing  that  a  host  pursued  him,
+
+Led  by  the  matchless  chief  intent  on  vengeance,
+
+Marched  his  own  forces  to  the  sea  of  Chin ;
+
+The  broad  expanse  of  earth  was  narrowed  to  him.
+
+He  went  across  the  sea  to  where  he  would,
+
+And  thus  addressed  Piran  :  "  Advise  me  well
+
+What  should  be  done  about  this  wretched  boy ;
+
+Because  if  Rustam  take  and  carry  him
+
+Off  to  f ran,  they  will  enthrone  and  crown
+
+This  div-begotten  as  Shah.     Convey  him  hither,
+
+Bestir  thyself,  and  slight  not  my  command."
+
+Piran  replied  :  "  We  must  not  rashly  slay  him,
+But  I  will  take  such  order  that  the  king
+Shall  praise  his  faithful  slave.     Fetch  we  the  youth,
+And  fix  his  residence  within  Khutan.
+We  must  not  give  occasion  to  ill-doers
+Eternally  to  blame  our  sovereign."
+
+The  king  replied :  "  0  master  of  wise  rede !
+Thou  art  my  guide  to  good.     Use  all  dispatch ;
+'Tis  not  a  matter  that  will  brook  delay."
+
+Piran  at  once  sent  off  a  prudent  man
+Of  noble  birth  to  fetch  the  prince.     The  envoy
+Made  haste  and  sped  like  smoke,  for  so  the  chieftain
+Had  bidden.     When  he  came  before  Khusrau,
+And  saw  the  young  man's  Grace  and  majesty,
+He  gave  unstinted  praise,  did  reverence,
+And  tarried  long  delivering  his  message
+In  fitting  language  fittingly  received,
+v.  703       Khusrau,  bewildered,  sped  to  tell  his  mother : —
+"  Afrasiyab  hath  sent  and  summoned  me
+Down  to  the  sea !     What  shall  we  do  ?     Perchance
+We  yet  may  make  a  shift  to  save  our  lives."
+
+They  talked  together  and  discussed  it  much,
+But  found  no  remedy.     They  had  to  go,
+And  set  off,  though  unwillingly,  in  haste.
+
+
+KAI   KAUS  357
+
+
+They  mourned  and  wept  and  cursed  Afrasiyab
+Until  they  reached  Piran,  who,  when  he  saw
+Khusrau,  descended  from  his  throne,  inquired
+About  the  tedious  journey  courteously,
+And  full  of  praises  set  the  prince  beside  him.
+As  for  those  things  whereof  Khusrau  had  need,
+Provisions,  raiment,  carpetings,  pavilions,
+Tents,  steeds,  Piran  provided  him  with  all,
+Then  went  to  king  Afrasiyab  and  said : —
+"  0  king  of  wisdom,  Grace,  and  glory !     I
+Have  brought  the  little  boy  that  hath  the  Grace ;
+What  further  orders  hast  thou  for  me  now  ? "
+
+The  king  said :  "  Send  him  from  the  sea  of  Chin
+So  that  the  chiefs  may  find  no  trace  of  him."
+
+Piran  performed  his  task  without  delay,
+And  sent  like  smoke  the  youth  upon  his  way.1
+
+§ »
+
+How  Rustam  reigned  over  Turan  for  Seven  Years
+
+The  chief,  the  elephantine  hero,  marched
+
+Toward  the  realm  of  Chin,  and  with  his  sword-arm
+
+Subdued  Khata,  Khutan,  and  all  the  coasts  V.  704
+
+Of  Chin,  and  took  the  throne  of  him  whose  fortune
+
+Had  come  to  dust.     This  saw  spake  Rustam  first : —
+
+"  The  man  of  worth  will  seek  the  enemy ;
+
+'Tis  good  to  slay  him  if  he  countereth  thee,
+
+And  good  too  if  he  shun  the  fight  and  flee."
+
+He  searched  the  palace  for  its  hoards ;  the  people
+Disclosed  them  all.     The  slaves,  both  boys  and  girls
+Famed  for  their  beauty,  steeds,  and  treasuries
+Of  gold,  crowns,  robes,  brocade,  and  ivory  throne,
+Fell  into  Rustam's  hand,  with  many  a  jewel
+Out  of  the  hoards  at  Gang,  and  all  the  soldiers
+Were  rich  in  armlets,  torques,  and  coronets.
+
+1  Kai  Khusrau  was  sent  to  Mtlchin  (China).     See  p.  370.
+
+
+358  THE   SHAHNAMA    OF  FIRDAUS1
+
+He  gave  torques,  armlets,  and  the  ivory  throne
+To  Tiis,  besides  the  government  of  Chach,
+And  said :  "  If  anybody  shall  revolt,
+Or  even  call  Afrasiyab  to  mind,
+Cut  off  his  head  and  make  him  food  for  vultures ;
+But  like  a  father  keep  from  want  and  travail
+The  wise  and  peaceful,  shunners  of  the  Faith
+Of  Ahriman.     Offend  not  the  offenceless,
+And  practise  all  humanity  and  justice,
+For  this  world  is  a  lodging  not  a  home.
+None  ever  had  more  Grace  than  had  Jamshid,
+Yet  still  high  heaven  trod  him  under  foot,
+And  found  the  world  a  monarch  in  his  stead."
+
+Next,  to  the  worthy,  pious  paladin
+Gudarz  he  gave  a  crown  of  royal  gems,
+With   earrings,  torque,  and   throne,  and   made  him
+
+lord
+
+Of  Sughd  and  Sipanjab ;  he  added  counsel
+With  commendations  and  felicitations,
+V.  705        And  said  :  "  The  seal  of  majesty  and  justice,
+And  feast  and  fight  remind  us  still  of  thee ;
+But  worth  is  better  than  high  lineage,
+Though  lineage  assisteth  men  of  worth.
+Since  thou  hast  worth  and  lineage  and  wisdom,
+And  mak'st  thy  soul  a  concourse  of  sweet  sounds,
+It  is  but  right  that  thou  shouldst  hear  my  rede,
+Who  art  thyself  a  teacher  of  the  great.
+From  Sipanjab  to  the  Gulzaryiin
+Be  thy  word  law."
+
+To  Fariburz  he  sent
+
+A  crown  of  gold  beside  dinars  and  gems,
+And  said  :  "  Thou  art  a  prince  and  potentate,
+And  brother  unto  Siyawush  ;  avenge  him  !
+Ne'er  loose  thy  lasso  from  the  saddle-straps,
+Cease  not  from  vengeance  on  Afrasiyab,
+And  take  no  thought  of  food,  repose,  and  sleep.
+
+
+KAI  KAUS  359
+
+Be  just  in  all  thy  doings  here  below,
+For  justice  never  ruined  any  one."
+
+The  tidings  spread  through  Chin  that  Rustam  sat
+Enthroned  as  over-lord.     Then  all  the  folk
+Brought  handsel  of  dinars  and  royal  gems,
+And  said :  "  We  are  thy  servants  and  thy  slaves ;
+We  only  tread  the  earth  to  do  thy  bidding."
+
+The  chieftain  gave  them  quarter  for  their  lives,
+Perceiving  that  they  had  discerning  minds,
+And  occupied  himself  for  many  a  day
+With  hawk  and  cheetah.     Passed  a  while  away.
+
+
+§    '2
+How  Zawdra  went  to  the  Hunting-ground  of  Siyawush
+
+Now  as  it  chanced  one  day  Zawara  went
+
+To  hunt  the  onager.     He  rode  apace
+
+Conducted  by  a  Turkman.     On  the  open
+
+He  saw  a  forest,  "  which,"  thou  wouldest  say,
+
+"  One  cannot  pass,  it  fresheneth  the  soul,"
+
+So  many  were  the  scents  and  tints  and  streams.  v.  706
+
+The  Turkman  told  Zawara  thoughtlessly : —
+
+"  This  was  the  hunting-ground  of  Siyawush,
+
+This  was  his  favourite  spot  in  all  Tiiran,
+
+Where  was  he  wont  to  be  both  glad  and  merry,
+
+But  elsewhere  sad."
+
+The  Turkman's  talk  recalled
+Old  recollections  to  Zawara' s  mind.
+A  hawk  was  on  his  hand  ;  he  let  it  go ;
+The  lashes  of  his  eyes  ran  tears  of  blood.
+His  comrades  of  the  host  approached,  observed  him
+In  grief  and  tears ;  then  they  began  to  curse
+The  Turkman  guide  and  felled  him  to  the  ground.
+With  gall-drops  streaming  from  his  eyes  Zawara
+Swore  a  great  oath  :  "  I  will  not  hunt  or  sleep,
+
+
+360  THE   SHAHNAMA    OF   FIRDAUSf
+
+Or  cease  from  vengeance  on  Afrasiyab.
+
+I  will  not  give  a  moment's  rest  to  Rustam  :
+
+All  must  prepare  for  fight."
+
+He  sought  his  brother.
+"  Did  we  come  hither  to  revenge  or  bless  ? "
+He  said.     "  The  Giver  of  all  good  hath  given
+Thee  strength  and  made  the  circle  of  the  sun
+Thy  star.     Why  should  this  realm  be  populous,
+Or  any  soul  live  joyfully  therein  ?
+Forget  not  to  avenge  that  prince,  whose  peer
+Thou  wilt  not  look  upon  for  many  a  year."
+
+
+§  13
+
+How  Rustam  harried  the  Land  of  Turdn
+
+Roused  by  Zawara's  words  the  matchless  Rustam
+V.  707       Began  to  ravage  and  to  massacre
+
+Till  all  the  land  showed  signs  of  misery,
+And  from  Turan  up  to  Saklab  and  Rum
+Folk  saw  no  cultured  tract.     The  Iranians
+Beheaded  all  the  men,  both  young  and  old,
+And  made  the  women  and  the  children  slaves.
+Thus  o'er  a  thousand  leagues  and  more  the  reek
+Of  burning  rose.     Then  all  of  noble  race
+Came  with  the  dust  upon  their  heads  protesting : —
+"  We  are  aweary  of  Afrasiyab,
+And  would  not  see  him  even  in  a  dream.
+As  for  the  guiltless  blood  that  he  hath  shed,
+We  had  not  any  voice  or  part  therein,
+And  now,  although  we  are  a  scattered  people,
+Yet  are  we  all  thy  slaves.     As  thou  art  mighty
+Shed  not,  provoking  God,  more  guiltless  blood.
+•   None  knoweth  where  our  king  is,  or  if  he
+Is  well  or  blasted  by  the  dragon's  breath."
+
+The  prudent  Rustain's  heart  was  grieved  thereat,
+
+
+KAI  KAUS  361
+
+He  summoned  all  the  chieftains  of  the  host,
+
+And  marched  the  army  to  Kachar  Bashf.
+
+The  wise,  the  great  men,  and  the  veteran  chiefs
+
+Flocked  to  his  presence,  and  one  said :  "  Kaiis,
+
+Who  hath  not  Grace,  and  cannot  soar  or  stand,
+
+Is  seated  on  the  throne  without  a  guide,
+
+And  if  Afrasiyab  should  suddenly
+
+Come  with  an  army  to  invade  fran,
+
+And  conquer  old  Kaiis,  our  joy  and  peace
+
+Would  be  destroyed.     We  all  have  won  both  honour
+
+And  vengeance,  and  have  burned  up  every  city.
+
+Now  let  us  go  back  to  the  aged  king ;
+
+When  feasts  begin  we  shall  be  all  new  men.
+
+For  six  years  we  have  had  not  one  glad  day ;
+
+Our  slaves,  our  states,  our  signets,  and  our  crowns
+
+Are  in  fran.     'Tis  wealth  hath  dazed  us  thus !  v.  708
+
+Heart  sated  is  soul  bated !     If  thou  settest
+
+Thy  heart  upon  this  ancient  dwelling-place
+
+'Twill  flatter  thee  but  cozen  thee  withal ;
+
+So,  if  thy  heart  be  not  with  Ahriman,
+
+Abstain  from  greed  which  is  the  enemy.
+
+Array  thyself  and  lavish,  drink  and  eat,
+
+Such  is  thy  portion  of  this  fleeting  show."
+
+The  matchless  Rustam  yielded  his  assent
+To  what  the  noble  archimage  had  urged.
+That  jocund  counsellor  went  on  to  say : —
+"  Choose  pleasure  in  this  Wayside  Inn.     Reflect
+That  in  the  dust  there  is  no  brotherhood,
+And  how  thou  wilt  deplore  this  present  good  ! "
+
+1 14
+
+How  Rustam  returned  to  Iran
+
+The  matchless  Rustam  heard  the  words  with  shame,
+And  felt  an  ardent  longing  to  depart.
+He  gathered  horses  out  of  all  the  herds
+
+
+362  THE   SHAHNAMA    OF  FIRDAUSI
+
+That  wandered  o'er  the  deserts  of  Tiiran,
+Together  with  ten  thousand  boys  and  girls —
+Slaves  fit  to  serve  a  king — with  bags  of  rnusk,
+With  skins  of  marten,  ermine,  and  grey  squirrel,
+Of  minever  and  weasel..    On  the  backs
+Of  elephants  were  furs,  perfumes,  dinars,
+Gold,  tapestries,  and  havings  great  and  small,
+Stuffs  for  apparel,  treasures,  drachms,  and  swords,
+As  well  as  other  weapons,  crowns,  and  thrones.
+They  packed  the  loads,  set  forward  to  Iran,
+And,  going  from  Turan  toward  Zabul,
+Drew  near  to  glorious  Zal,  while  Tiis,  Giidarz,
+And  Giv,  those  famous  chiefs,  went  to  the  Shah
+At  Pars.
+
+When  news  reached  base  Afrasiyab
+That  Tus  and  Rustam  were  across  the  river
+V.  709        He  set  off  westward  toward  the  sea  of  Gang,
+With  vengeance  in  his  heart  intent  on  war.
+He  found  the  country  all  turned  upside  down,
+The  nobles  slaughtered  and  the  folk  enslaved ;
+No  horses,  treasures,  crowns,  or  thrones  were  there,
+There  was  no  verdant  leafage  on  the  trees ;
+The  world  had  been  consumed  with  fire,  and  all
+The  palaces  had  been  o'erthrown  and  burned.
+The  king  wept  tears  of  blood  and  thus  harangued
+The  captains  of  the  host :  "  A  man  must  lose
+His  reason  to  forget  these  outrages !
+Fill  all  your  hearts  with  vengeance,  make  your  shields
+Your  beds,  your  helmets  pillows,  let  us  fight
+Till  heaven  itself  shall  fall  in  our  revenge ;
+For  country's  sake,  for  treasure,  child,  and  kin,
+We  will  tread  down  the  cities  of  f ran
+In  striving  after  vengeance  ;  'tis  not  well
+To  be  thus  downcast  just  because  the  wind
+Was  in  their  favour  in  a  single  fight.
+From  all  sides  will  we  gather  arms  and  troops,
+
+
+KAI  KAUS  363
+
+And  make  a  new  departure."
+
+He  assembled
+
+Without  delay  a  host  equipped  for  war,
+And  led  his  warriors  and  lion-men
+Against  Iran.     His  plan  was  to  attack
+From  every  side.     No  respite  was  afforded,
+He  burned  up  all  the  settlements  and  trees,
+And  brought  the  Iranians  to  a  parlous  case.
+For  seven  years  there  was  a  rainless  sky,
+The  favour  changed,  conditions  were  reversed,
+And  all  were  beggared  by  distress  and  travail.  v-  7">
+
+Much  time  elapsed  with  matters  in  this  stay
+While  at  Zabul  the  mighty  Rust  am  lay,
+And  Turkman  sworders  in  the  world  held  sway.
+
+
+§  15
+
+How  Gudarz  had  a  Dream  of  Kai  Khusrau
+
+Gudarz  one  night  dreamed  that  a  watery  cloud  l
+Rose  o'er  fran,  and  on  it  sat  Suriish,
+Who  thus  addressed  him  :  "  Give  to  me  thine  ear
+As  thou  wouldst  be  released  from  this  distress,
+From  this  injurious  Turkman  dragon-fierce.
+There  is  a  youthful  prince  now  in  Tiiran,
+Shah  Kai  Khusrau  by  name.     He  is  a  prince,
+The  offspring  of  the  loins  of  Siyawush,
+A  man  of  worship  and  of  noble  race,
+Illustrious,  of  the  stock  of  Kai  Kubad,
+And  sprung  from  Tur  upon  the  mother's  side.
+Whenas  his  glorious  feet  shall  reach  Iran
+Heaven  will  accord  to  him  his  full  desire.
+Then  will  he  gird  him  to  avenge  his  father,
+Will  overturn  the  sovereignty  of  Tur,
+
+1  An  emblem  of  coming  prosperity  in  a  land  where  rain  is  the
+chief  want.
+
+
+364  THE   SHAHNAMA    OF  FIRDAUSI
+
+Will  make  the  waters  of  the  Red  Sea  boil,
+Pause  not  in  vengeance  on  Afrasiyab,
+But  live  in  his  cuirass  the  whole  year  through,
+And  pass  his  days  and  nights  upon  the  saddle.
+Among  the  chiefs  and  warriors  of  f  ran
+None  will  discover  him  excepting  Giv :
+Such  is  the  outcome  destined  by  the  sky.
+On  Giv  the  Judge  hath  rightly  lavished  love."
+
+Gudarz  awoke  and,  with  his  hoary  beard
+Upon  the  ground,  gave  thanks  to  God  :  his  heart
+Was  hopeful  of  a  Shah  to  rule  the  world.
+
+Now  when  the  sun  appeared  above  the  dales,
+Ascending  as  it  were  a  shining  lamp,
+The  chieftain  sat  upon  his  ivory  throne,
+And  furnished  forth  the  hall  with  seats  of  teak.
+V.  711        Fulfilled  by  anxious  thought  he  summoned  Giv
+And  told  him  of  the  dream  in  many  words,
+Thus  saying :  "  Glorious  are  thy  feet  and  days,
+And  glorious  is  thy  world-illuming  star ;
+Since  thy  blest  mother  bare  thee  earth  hath  been
+Fulfilled  with  blessings.     Blest  Surush  appeared
+Last  night  to  me  in  sleep  by  God's  command.
+He  sat  upon  a  cloud  mid  wind  and  rain,
+And  purged  the  world  of  woe.     He  looked  at  me
+And  said  :  '  Why  all  this  grief?     Why  is  the  world
+Thus  filled  with  warfare  and  thus  parched  with  drought  ?
+Because  Kaus  hath  neither  Grace  nor  might,
+And  heedeth  not  the  precedents  of  Shahs.
+When  Kai  Khusrau  arriveth  from  Turan
+He  will  bring  war  and  trouble  on  the  foe ;
+But  none  of  all  the  valiant  chiefs  can  find  him
+Save  Giv,  the  famous  offspring  of  Gudarz.'
+Thus  heaven  hath  ordained  thee  to  remove
+Our  sorrow,  toil,  and  bondage.     Thou  hast  sought
+For  fame  in  war,  and  now  eternal  fame
+Is  in  thy  reach,  for,  while  the  world  hath  men
+
+
+KA1  KAUS  365
+
+And  words,  thy  good  name  will  continue  fresh.
+'Twill  be  a  toil,  but  one  with  fame  and  treasure,
+A  toil  which  surely  will  exalt  thy  fame ;
+And,  since  thou  wilt  not  tarry  here  for  ever,
+That  fame  is  better  than  this  Wayside  Inn,
+For  thou  wilt  bring  a  monarch  to  the  world,
+And  cause  the  tree  of  fealty  to  fruit."
+
+Giv  answered  :  "  Father  !  I  am  but  a  slave ;
+For  thy  sake  will  I  labour  while  I  live.
+If  this  may  be  I  will  accomplish  it :
+By  thy  great  name  I  swear  it,  O  my  guide ! "
+
+He  went  home  and  prepared  for  setting  forth,
+Lost  in  amazement  at  his  father's  dream.
+The  spouse  of  Giv  was  of  exalted  rank —  v.  712
+
+The  well-loved  daughter  of  the  hero  Rustam —
+Bamigashasp.     News  reached  her  that  Giv's  steed
+Was  being  saddled  for  his  expedition.
+She  went  to  him  and  said :  "  Aspiring  chief !
+I  hear  that  thou  art  going  to  Tiiran
+To  seek  both  far  and  near  for  Kai  Khusrau ;
+So,  if  the  paladin  will  give  me  leave,
+I  will  betake  me  joyfully  to  Rustam,
+Because  I  long  to  look  upon  his  face,
+And  through  not  seeing  him  my  soul  is  sad.
+Farewell  to  thee,  0  chief  of  paladins !
+Mayst  thou  for  ever  be  our  heroes'  stay."
+
+The  chieftain  having  given  his  consent,
+Toward  Si'stan  with  speed  the  lady  went.
+
+
+§  16
+How  Giv  went  to  Turdn  in  Quest  of  Kai  Khusrau
+
+At  sunrise,  when  the  earth  resembled  flowers
+Of  fenugreek,  the  gallant  Giv  approached
+With  girded  loins,  upon  a  steed  with  feet
+
+
+366  THE  SHAHNAMA   OF  FIRDAUSI
+
+As  swift  as  wind.     Gudarz  inquired  of  him : —
+
+"  What  comrade  hast  thou  ?    Who  will  fare  with  thee  ? '
+
+He  thus  replied :  "  O  chief  of  paladins,
+Brave,  ardent,  and  exalted !     I  have  need
+Of  no  companions  save  my  horse  and  lasso.
+Suspicion  will  be  roused  if  I  take  men,
+And  I  shall  bring  a  quarrel  on  myself.
+A  lasso  in  the  straps,  a  rapid  steed,
+A  sword  and  Indian  vesture  are  enough,
+Unless  perhaps  a  guide  to  lead  the  way.
+My  home  awhile  will  be  the  plain  and  mountain,
+I  may  not  pass  through  cities,  for  the  folk
+Will  recognise  me  and  I  shall  repent  it.
+I  shall  return  rejoicing,  bright  of  soul,
+Through  thy  good  fortune,  chief  of  paladins  !
+Tend  needfully  my  little  son  Bizhan l
+And  guard  him  carefully  against  mischance,
+713        Give  him  instruction  in  the  art  of  war,
+
+He  need  learn  nothing  but  to  feast  and  fight ;
+Young  as  he  is  I  note  his  manliness
+With  satisfaction.     Fare  well.     Think  of  me
+Without  anxiety.     I  cannot  tell
+If  we  shall  meet  again.     The  secret  things
+Of  God  who  knoweth  ?    When  thy  cheeks  are  bathed
+For  prayer  entreat  the  Lord  on  mine  account,
+For  He  is  higher  than  all  height ;  the  mighty
+Are  but  His  slaves.     This  day  revolveth  not
+Without  His  will ;  there  is  no  food  or  sleep
+Save  at  His  word.     He  made  both  time  and  space,
+The  mighty  and  the  weak.     He  is  our  hope
+And  fear,  the  Lord  of  all  the  elements,
+And  oh !  may  He  vouchsafe  to  be  my  Helper,
+And  guide  me  to  illustrious  Khusrau."
+The  father  hoary -headed,  while  the  youth
+
+1  The  first  mention  of  this  famous  hero  who  is  an  especial  favourite
+of  the  poet's.
+
+
+KAI  KAUS  367
+
+Fierce  as  a  lion  girded  up  his  loins,
+Knew  not  if  he  should  see  his  son  again,
+And  was  distracted  at  his  setting  out.
+The  gallant  Gfv  dismounted  from  his  steed,
+And  kissed  the  hand  of  that  exalted  Lion,
+Who  clasped  him  tightly  in  a  fond  embrace,
+And  kissed  him  oft  upon  the  face  and  head.
+That  ancient  man  cried  unto  God  :  "  Just  Judge  !
+Be  Thou  my  Helper.     To  Thy  care  I  leave
+Him  who  is  sense  and  soul  and  life  to  me —
+My  son  so  noble  and  so  young — that  haply
+The  realm  may  be  delivered  from  this  stress.
+Restore  him  to  me  safely,  O  my  King ! "
+
+Those  in  the  world  who  toil  laboriously,
+And  win  applause  because  their  aims  are  high,
+Must  make  the  dust  their  bed  when  all  is  done ;  V.  714
+
+That  is  their  bane,  and  antidote  is  none.
+Thy  sojourn  here,  thou  knowest,  is  soon  sped,
+Why  set  the  crown  of  greed  upon  thy  head  ?
+Canst  thou  still  wear  it  after  thou  art  dead  ?
+In  this  world  ample  pleasure  thou  canst  take,
+Why  art  thou  toiling  for  another's  sake  ?
+Thou  toilest  and  another  will  consume
+At  ease,  unmindful  of  thy  bier  and  tomb,
+But  for  him  also  pleasure  hath  its  bound,
+And  his  head  too  must  pass  beneath  the  ground.
+Think  then  upon  the  day  when  thou  must  go,
+And  make  it  thine  to  serve  God  here  below,
+Incline  to  good  and  do  to  no  man  scath,
+For,  in  a  word,  this  is  Salvation's  path.
+Upon  this  world  that  whirleth  set  no  store,
+It  will  not  last  with  thee  for  evermore.
+Long  though  thou  stayest  thou  wilt  reach  the  bourne
+And,  having  reached  it,  there  is  no  return.
+So  now  thou  sage,  whose  heart  is  wakeful !  cease
+From  doubt,  and  from  the  mire  thy  foot  release.
+
+
+368  THE   SHAHNAMA    OF  FIRDAUSI
+
+'Tis  God  Almighty  that  sustaineth  thee,
+His  servant  thou  and  thy  Creator  He.
+Although  thou  weighest  down  thy  neck  with  thought,
+Of  His  existence  ask  and  question  naught,
+And  if  by  any  it  be  not  confest
+With  such  thou  shalt  not  eat  or  sleep  or  rest,
+Because  their  heads  are  witless,  their  hearts  blind,
+And  wise  men  count  not  such  among  mankind.
+Both  earth  and  water  of  God's  being  tell,
+Let  not  thy  knowledge  prove  thy  way  to  Hell,
+For  His  are  power  and  knowledge  and  control,
+The  Artist  He  of  wisdom  and  the  soul.
+V.  715        When  mused  the  monarch  of  Turan  and  said : —
+"  Above  all  people  will  I  lift  my  head,"
+And  slew  a  youth  so  royal,  then  was  he
+Confronted  by  his  evil  destiny.
+Howbeit  from  his  loins  God  caused  to  shoot
+A  Tree l  of  noble  height  and  yielding  fruit,
+A  Tree  that  dealing  with  him  as  was  just
+Sent  both  his  wits  and  palace  up  in  dust.
+The  Lord  of  Saturn,  Sun,  and  Moon  is  He
+That  giveth  victory  and  mastery ;
+The  Lord  of  being  and  of  righteousness,
+'Tis  He  that  giveth  us  our  more  and  less.
+There  is  one  path — His  will — and  only  one —
+A  knowledge  hidden  from  the  moon  and  sun.
+
+O
+
+At  His  command  Giv  girded  up  his  loins,
+And  like  a  savage  lion  sallied  forth ;
+He  took  no  comrade  with  him,  but  resigned
+To  God  his  body  used  to  luxury ;
+If,  when  he  reached  the  marches  of  Turari,
+He  found  a  man  alonq  Giv  questioned  him
+In  Turkman  as  to  Kai  Khusrau.     When  such
+Replied  :  "  I  wot  not  of  that  prince,"  Giv  used
+
+1  Kai  Khusrau,    son   of  Siysiwush  and  of   Farangis,    daughter  of
+Afnlsiydb.
+
+
+KAI  KAUS  369
+
+To  slay  him,  hitch  him  in  the  lasso's  noose,
+
+Drag  him  aside,  and  cover  him  with  dust,
+
+That  no  one  might  discover  his  own  secret,
+
+Or  hear  his  name  or  any  news  of  him.
+
+He  had  awhile  a  countryman  as  guide
+
+From  whom  he  hid  the  object  of  his  quest.
+
+At  length  he  said :  "  I  fain  would  ask  a  question
+
+In  confidence.     If  thou  shalt  wisely  purge
+
+Thy  heart  of  craft  and  answer  truthfully
+
+Then  I  will  give  thee  whatsoe'er  thou  wilt,  V.  716
+
+And  not  deny  thee  e'en  my  soul  and  body."
+
+."  There  is  no  lack  of  knowledge,"  said  the  guide,
+"  But  then  it  is  dispersed  'mongst  all  the  folk.
+If  I  have  any  knowledge  of  the  matter
+Thou  wilt  not  find  me  speechless."
+
+-Where,"  said  Giv,
+
+"  Is  Kai  Khusrau  ?     Thou  must  declare  the  truth."
+The  guide  thus  answered :  "  I  have  never  heard
+Or  asked  concerning  one  so  named."
+
+And  so
+Giv  smote  him  with  the  sword  and  laid  him  low.
+
+
+§17
+
+The  Finding  of  Kai  Khusrau
+
+\
+Giv  like  a  madman  roamed  about  to  find
+
+Some  traces  of  the  prince.     While  seven  years  passed
+
+His  loins  were  galled  by  sword  and  leathern  girdle.
+
+He  fed  on  onagers  and  wore  their  skins,
+
+At  times  had  brackish  water  and  green  herbs,
+
+And  went  about  the  desert  and  the  mountains
+
+In  travail  and  in  hardship  far  from  men.
+
+Now  at  the  time  when  Rustam  led  his  host
+Across  the  river  to  the  Iranian  side
+Afrasiyab  returned  to  Gang,  Tiiran
+
+VOL.   II.  2  A
+
+
+370  THE   SHAHNAMA    OF  FIRDAUSI
+
+Came  to  his  hand  again,  and  then  he  bade
+Piran  :  "  Bring  hither  ill-starred  Kai  Khusrau
+Back  from  Machin  and  give  him  to  his  mother,
+But  have  the  roads  well  watched."
+
+Piran  dispatched
+A  messenger  upon  a  noble  camel,
+And  had  the  son  of  Siyawush  brought  back —
+A  prudent  and  a  life-inspiring  youth —
+And  gave  him  to  his  mother.     Passed  a  while.
+
+As  gallant  Giv  was  roaming  o'er  Tiiran
+In  melancholy  case,  it  so  fell  out
+
+v«  717        One  day  that,  full  of  anxious  thoughts,  he  came
+Within  the  precincts  of  a  famous  wood,
+And  wandered  woe-begone  along  the  mead  ;
+The  world  was  jocund  but  his  heart  was  sad.
+He  saw  the  earth  all  verdant,  brooks  a-brim,
+And  all  the  scene  right  apt  for  rest  and  sleep.
+Dismounting  from  his  horse  he  turned  it  loose,
+And  laid  him  down  but  with  an  anxious  heart.
+He  said  :  "  The  foul  Div  verily  possessed
+The  paladin  when  he  beheld  that  dream.
+I  find  no  traces  here  of  Kai  Khusrau :
+What  do  I  gain  by  all  my  wanderings  ?
+Now  while  my  comrades  are  engaged  in  war,
+And  while  my  friends  are  sitting  at  the  feast,
+These  seeking  pleasure,  those  in  quest  of  fame,
+My  lot  is  throwing  walnuts  on  a  dome  !
+I  do  but  spend  my  soul  in  vain,  'tis  like
+A  bended  bow ;  Khusrau  hath  not  been  born
+At  all,  or  fate  hath  flung  him  to  the  winds.
+I  get  but  toil  and  hardship  by  my  quest :
+Blest  is  the  man  that  perisheth  by  poison."
+
+With  heart  all  sorrowful  he  roamed  about
+Those  meadows  in  his  search,  and  spied  afar
+Beside  a  sparkling  stream  a  beauteous  youth
+Of  cypress-height,  a  wine-cup  in  his  hand,
+
+
+KAI   KAUS  371
+
+And  on  his  head  a  bright,  sweet  wreath.     His  mien
+Betokened  Grace  and  wisdom.     Thou  hadst  said  : —
+"  Tis  Siyawush  upon  his  ivory  throne,
+And  turquoise-crowned ;  his  looks  exhale  the  scent
+Of  love  itself,  his  locks  adorn  the  crown."
+
+Giv  thought :  "  This  is  none  other  than  the  prince !
+Naught  but  a  throne  befitteth  such  a  mien."
+
+Dismounting  from  his  charger  he  advanced  v.  718
+
+On  foot  and,  as  he  drew  anear,  the  bolts
+Were  loosened  on  the  portal  of  his  travail,
+And  all  his  splendid  treasure  came  in  sight.
+When  Kai  Khusrau  looked  from  beside  the  stream
+He  smiled,  while  gladness  made  his  heart  to  throb,
+And  thought :  "  This  warrior  is  none  else  but  Giv :
+This  land  hath  not  a  chief  of  such  a  stamp.
+He  is  engaged  in  making  quest  for  me
+To  bear  me  to  Iran  to  make  me  Shah."
+
+As  that  redoubted  warrior  approached,
+Khusrau  the  prince  moved  forward  from  his  place,
+And  said  to  him :  "  0  Giv  !  thou  art  well  come ;
+Thy  coming  here  is  wisdom's  fitting  gift.
+How  didst  thou  make  thy  passage  to  this  land  ?
+What  tidings  hast  thou  touching  Tus,  Giidarz,
+And  Shah  Kaus  ?     Are  they  in  happiness,
+And  do  they  in  their  hearts  think  of  Khusrau  ?
+How  is  it  with  the  elephantine  Rustam,
+The  aspiring  one,  with  Zal,  and  all  the  rest  ? "
+
+Giv  heard  the  words  amazed,  invoked  the  name
+Of  God,  and  answered :  "  0  exalted  chief !
+All  yearn  for  thee.     Methinketh  that  thou  art
+The  son  of  Siyawush,  of  royal  race,
+And  wise ;  but  say,  thou  head  of  upright  men !
+Who  told  thee  of  Giidarz,  Giv,  and  Kishwad  ?
+May  Grace  and  happiness  be  thine."
+
+He  answered : —
+<'  0  lion-man  !  my  mother  told  me  this —
+
+
+372  THE  SHAHNAMA    OF  FIRDAUSi
+
+That  when  my  father  by  the  Grace  of  God
+Entrusted  unto  her  his  last  commands,
+719        He  said :  "  Whatever  mischief  may  befall  me,
+Still  in  the  end  will  Kai  Khusrau  appear,
+And  bring  a  key  to  open  all  the  locks.
+When  he  hath  grown  a  noble  warrior
+The  doughty  Giv  will  come  forth  from  Iran,
+And  bear  him  to  the  throne  among  the  nobles
+And  lion-men.     His  valour  will  restore
+The  world,  and  execute  revenge  for  me."
+
+Giv  said :  "  0  head  of  all  the  chiefs !  what  mark
+Hast  thou  to  indicate  the  Grace  of  kingship  ?
+The  mark  of  Siyawush  was  manifest
+As  'twere  a  drop  of  pitch  upon  a  rose-bed,
+Uncover  then  and  show  to  me  thine  arm,
+Because  thy  mark  is  known  to  every  one."
+
+The  prince  made  bare  his  arm  and  Giv  perceived
+The  black  mark  on  it.    Now  this  mark  had  been
+A  birth-mark  from  the  time  of  Kai  Kubad —
+A  clear  distinction  of  the  Kaian  race.
+When  Giv  beheld  that  mark  he  did  obeisance,
+And  weeping  told  his  errand.     Kai  Khusrau
+Embraced  him,  giving  thanks  with  joy,  and  asked
+About  Iran,  the  imperial  throne,  Gudarz,
+And  Rust  am,  lover  of  the  fray.     Giv  said  : —
+"  0  royal  world-lord,  noble,  fortunate,
+And  wise !  were  God,  who  knoweth  good  and  ill,
+To  give  to  me  the  whole  of  Paradise,
+The  seven  climes  and  sovereign  sway  withal,
+The  seat  of  greatness  and  the  crown  of  might,
+My  heart  would  not  exult  therein  so  much
+As  in  beholding  thy  face  in  Turan.
+Who  knoweth  in  fran  if  I  am  living,
+Or  if  I  have  been  laid  in  dust  or  burned,
+Or  have  encountered  Siyawush  alive,
+And  questioned  him  about  his  care  and  travail  ?
+
+
+KAI  KAUS  373
+
+Thanks  be  to  God  that  fate  determineth  v.  720
+
+This  irksome  toil  in  happiness  and  joy."
+
+Together  they  departed  from  the  wood
+While  Kai  Khusrau  asked  after  Shah  Kaiis,
+About  Giv's  seven  years  of  grief  and  pain,
+His  lodging,  sleep,  and  food.     Giv  answered  all,
+And  spake  about  the  purpose  of  the  Lord,
+The  vision  of  Gudarz,  his  own  long  toil,
+His  victuals,  clothes,  and  rest,  his  pains  and  pleasures ;
+How  years  had  spent  the  Grace  of  Kai  Kaiis,
+And  how  he  was  distracted  for  his  son ;
+How  all  was  dark  and  scentless  in  his  palace,
+And  1  DW  the  desolation  was  complete.
+The  heart  of  Kai  Khusrau  burned  at  these  woes,
+His  two  cheeks  flamed  like  fire.     He  said  to  Giv : —
+"  Fate  giveth  thee  for  travail  rest  and  ease ;
+Be  as  my  sire,  but  say  not  anything
+To  any  one,  and  note  what  time  will  bring."
+
+
+§  18
+
+How  Giv  and  Kai  Khusrau  went  to  Siydioushgird
+
+The  chieftain  mounted  on  the  steed  of  Giv,
+
+And  that  brave  warrior  preceded  him
+
+With  Indian  sword  in  hand.     If  any  met  them
+
+Giv,  ever  on  the  watch,  struck  off  his  head,
+
+And  covered  up  the  corpse  with  earth  and  dust.
+
+They  made  their  journey  to  Siyawushgird,
+
+And,  when  they  both  recovered  heart  and  wit,
+
+They  made  a  confidant  of  Farangis,
+
+And  privily  agreed  to  quit  the  place,
+
+Unnoticed  by  the  troops.     "  We  shall  but  straiten
+
+The  world  to  us  if  we  delay,"  said  she.
+
+"  Afrasiyab  will  hear,  will  neither  eat
+
+Nor  sleep,  but  like  the  White  Div  follow  us,
+
+
+374  THE  SHAHNAMA   OF  FIRDAUSI
+
+Will  rnake  our  hearts  despair  of  pleasant  life,
+721        And  leave  not  one  of  us,  at  large  or  hiding,
+Alive.     The  world  is  full  of  enemies,
+Our  whole  land  is  the  abode  of  Ahriman.
+Hear  mine  advice,  my  son  endowed  with  Grace  !
+There  is  a  meadow  near  out  of  the  track
+Of  Turkman  cavaliers ;  be  there  at  dawn,
+And  have  this  saddle  and  black  bridle  with  thee.
+Thou  wilt  behold  a  mountain  whereupon
+Clouds  fret  their  faces.     Having  scaled  the  height
+Thou  wilt  behold  the  mead  like  jocund  spring,
+All  rivulets  and  purling  streams :  the  soul
+Keviveth  at  the  sight.     When  it  is  noon,
+And  thou  art  eager  for  repose,  the  herds
+At  pasture  there  will  water  at  the  streams.
+Show  to  Bihzad  the  saddle  and  the  bridle,
+And,  if  he  proveth  tractable,  advance,
+Go  quickly  to  him,  let  him  see  thy  face,
+Caress  him  with  thy  hand  and  speak  to  him.
+When  Siyawush  had  given  up  all  hope
+Of  this  world,  and  his  day  was  turned  to  night,
+He  spake  thus  to  Bihzad  his  sable  steed  : —
+'  Be  thou  henceforth  free  as  the  wind  itself.
+Kemain  upon  the  mountains  and  the  meadows,
+And  when  Khusrau  shall  come  in  quest  of  thee
+Be  thou  his  charger,  tramp  the  whole  world  thro',
+And  sweep  the  earth  of  foernen  with  thy  shoe.' "
+
+
+§  19
+
+How  Kai  Khusrau  icon  Bihzad
+
+The  valiant  chieftain  mounted  on  his  steed
+With  Giv  in  front  on  foot.     They  set  their  faces
+Toward  the  heights  as  men  who  seek  for  safety.
+V.  722        Now  when  the  herds  came  down  to  watering,
+
+
+KAI  KA&S  37 5
+
+And  having  drunk  their  fill  turned  to  depart,
+
+Illustrious  Khusrau  went  hastily
+
+Toward  the  stream  and,  to  attain  his  wish,
+
+Showed  to  Bihzad  the  saddle  and  the  reins.
+
+The  steed  looked  at  him,  recognised  a  master,
+
+And  stirred  not  from  the  stream,  but  gazed  with  sighs
+
+Upon  the  pard-skin  seat  of  Siyawush,
+
+The  lengthy  stirrups,  and  the  poplar  saddle.
+
+This  Kai  Khusrau  observed  and  hurried  up.
+
+Meanwhile  the  noble  black  stood  still  and  wept.
+
+Moreover  Kai  Khusrau  and  Giv  wept  too,
+
+As  though  they  had  been  burning  in  fierce  flame,
+
+And  while  they  shed  tears  from  their  eyes  their  tongues
+
+Were  full  of  curses  on  Afrasiyab.
+
+Khusrau  caressed  the  horse's  eyes  and  face,
+
+Stroked  down  his  chest   and  shoulders,  scratched   his
+
+hide,
+
+Put  o'er  his  head  the  bridle,  saddled  him,
+And  spake  the  while  with  grief  of  Siyawush,
+Then  mounting  gripped  his  legs ;  the  mighty  beast
+Sped  like  a  blast  out  of  the  sight  of  Giv,
+Who  troubled  and  amazed  invoked  God's  name.
+"  This,"  he  exclaimed, "  is  subtle  Ahriman
+Appearing  in  the  likeness  of  a  horse  !
+The  prince's  life  is  lost  and  my  toil  too,
+My  toil — the  only  treasure  that  I  had ! "
+
+When  Kai  Khusrau  had  traversed  half  the  mountain
+He  drew  his  black  reins  and  remained  till  Giv
+O'ertook  him,  then  the  shrewd  and  valiant  prince
+Exclaimed  :  "  Shall  I  inform  the  paladin
+What  I  perceived  was  passing  in  his  thoughts  ? "
+
+Giv  said  to  him :  "  0  most  exalted  prince !
+All  secrets  should  be  open  unto  thee  :
+
+Thou  with  thy  Grace  divine  and  Kaian  stature  V.  723
+
+Canst  penetrate  a  hair  and  see  within  it."
+
+He  said :  "  Thou  didst  mistrust  this  noble  steed,
+
+
+376  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+And  think :  '  Now  Ahriman  hath  got  the  youth,
+Who  hath  gone  off  and  turned  my  toil  to  wind.
+My  spirit  mourneth  and  the  divs  rejoice.' "
+
+The  veteran  Giv  dismounted  from  his  horse,
+Invoking  blessing  on  the  warrior-prince,
+And  said  :  "  May  day  and  night  be  fortunate
+To  thee,  thy  foemen's  hearts  be  rooted  out,
+Since  God  hath  given  to  thee  worth  and  birth,
+With  throne  and  stature,  state  and  Grace  divine."
+
+They  left  the  heights,  and  set  off  toward  the  palace
+With  brains  absorbed  in  thought  and  scheming  minds  ;
+On  reaching  Farangis  they  much  discussed
+The  toilsome  journey,  and  the  way  to  keep
+The  project  secret.     When  she  saw  Bihzad
+Her  face  was  hidden  by  a  flood  of  tears,
+She  laid  her  cheek  against  his  mane  and  chest,
+And  called  upon  the  soul  of  Siyawush.
+When  she  had  wept  she  hurried  to  her  hoards,
+For  in  the  palace  was  a  secret  treasure —
+Known  but  to  her — of  jewels  and  dinars,
+Of  iron  maces  and  horse-furniture,
+As  well  as  daggers,  swords,  and  massive  sparths.
+With  cheeks  that  ran  with  tears  of  blood,  and  liver
+Pierced  by  her  grief,  she  showed  her  son  the  treasure,
+And  said  to  Giv  :  "  0  veteran  in  toil !
+Choose  what  thou  pleasest  from  this  treasury —
+Dinars  and  jewels  fit  for  kings  to  wear,
+And  crowns  with  patterns  wrought  in  precious  stones.
+We  are  the  keepers  and  the  hoard  is  thine ;
+Thine  are  the  toil  and  risk."
+
+v.  724  He  kissed  the  ground,
+
+And  said :  "  O  chief  of  dames  !  thou  makest  earth
+A  Spring  in  Paradise,  and,  as  thou  wiliest,
+The  sky  apportioneth  both  good  and  ill.
+Be  all  the  world  a  slave  before  thy  son,
+And  be  the  heads  of  all  thy  foes  wrung  off."
+
+
+KAI   KAUS  377
+
+When  Giv's  eye  fell  upon  those  precious  things
+He  chose  the  mail  of  valiant  Siyawush.
+They  then  selected  all  the  choicest  gems,
+And  bare  away  as  much  as  they  could  carry
+As  well  as  helms,  rich  armour  for  the  steeds,
+And  weapons  suited  to  a  paladin,
+Then  having  locked  the  hoard  the  prince  in  haste
+Made  ready  for  the  journey  through  the  waste.
+
+
+§  20
+
+How  Farangis  went  with  Kai  Khusrau  and  Gw  to  Iran
+
+This  done  they  put  the  saddles  on  their  steeds,
+Those  fleet  and  famous  steeds,  while  Farangis
+Assumed  the  helmet,  and  all  three  departed
+Like  wind  and  eagerly  toward  Iran,
+But  secretly  and  taking  all  precautions.
+
+The  thing,  however,  could  not  be  concealed
+A  moment ;  one  approached  Piran  and  said : —
+"  Illustrious  Giv  came  from  Iran  to  seek
+The  brave  and  shrewd  Khusrau,  and  hath  gone  back
+With  him  and  Farangis."
+
+Piran  was  grieved,
+
+And  trembled  like  the  branches  of  a  tree.
+He  thought :  "  The  king's  foreboding  hath  proved  true  !
+What  shall  I  say  to  him  ?    My  lustre  now
+Is  darkness  in  his  eyes !  "
+
+He  chose  Kulbad
+
+And  Nastihan — a  man  of  steel — and  bade
+Three  hundred  Turkman  horse  to  muster  dight
+For  war,  and  thus  addressed  them  :  "  Hence  with  you,
+Lose  no  time  in  your  saddles,  place  the  head  V.  725
+
+Of  Giv  upon  a  spear,  hide  Farangis
+In  dust,  and  bind  accursed  Kai  Khusrau —
+The  ill-starred  lackland.     If  the  miscreant
+
+
+378  THE   SHAHNAMA    OF  FIRDAUSt
+
+Shall  cross  the  river  what  will  not  befall
+Our  land  and  chiefs  !  "
+
+Thus  went  the  brave  young  band
+Commanded  by  two  wary  paladins.
+
+The  persecuted  prince  and  Farangis,
+Worn  out  with  journeying  and  nights  of  toil,
+Had  laid  them  down  to  sleep,  and  while  they  slept
+Giv  stood  on  guard  with  angry  eyes  intent
+Upon  the  road  by  which  the  band  approached.
+He  wore  his  habergeon ;  his  helm  was  on ;
+His  heart  was  full ;  he  was  prepared  to  die ;
+And,  like  a  valiant  chief,  he  had  his  steed
+Accoutred  by  his  side  in  case  of  need.
+
+§2!
+
+How  Kulbdd  and  Nastihan  fled  from  Giv
+
+Giv  saw  afar  the  dust  raised  by  the  troops,
+And  having  drawn  his  sword  sent  up  a  shout
+Like  thunder,  such  a  shout  as  would  have  dazed
+A  lion's  brain  and  spirit,  then  he  rushed
+Like  dust  among  the  troop  and  made  earth  dark
+By  combat.     With  his  sword  and  mace  he  showered
+Down  iron  from  above,  till  by  the  blows
+The  heads  of  all  the  chiefs  grew  sick  of  strife,
+While  to  his  eyes,  such  were  his  pain  and  rage,
+A  river  seemed  a  rill.     Anon  they  hemmed  him —
+A  raging  Lion  in  a  host  of  men.
+The  field  became  a  reed-bed  with  their  spears,
+Both  sun  and  moon  were  hid,  the  Lion  raged,
+And  made  a  winefat  of  the  bed  of  reeds
+With  blood,  o'erthrowing  many  of  his  foes :
+Those  valiant  cavaliers  were  all  astound,
+v.  726       And  thus  Kulbad  addressed  brave  Nastihan : — •
+"  This  is  a  rock  of  flint  with  neck  and  arms  !
+See  here  the  Grace  of  Kai  Khusrau  and  not
+
+
+KAI  KAUS  379
+
+The  mace  of  Gi'v  !     I  know  not  what  will  come
+Upon  our  fields  and  fells,  for  who  can  traverse
+The  will  of  God  ?     Astrologers  presage
+Disaster  to  Turan  and  to  her  lords."
+
+They  made  a  charge  at  Giv  with  all  their  troops
+Like  lions,  giving  and  receiving  blows  :
+The  battle-shouts  and  blast  of  clarions
+Went  up  and  shook  the  mountains  to  their  cores,
+The  -alleys  and  the  plains  were  filled  with  slain,
+And  earth  became  like  cercis-bloom  with  blood.
+The  whole  host  turned  away  in  flight  from  Giv—
+That  noble  chief,  the  refuge  of  the  troops —
+And  made  their  way  all  wounded  and  fordone
+To  proud  Piran,  while  gallant  Giv  returned,
+With  breast  and  hands  all  bloody,  like  a  lion
+To  Kai  Khusrau,  and  said  :  "  0  prince  !  rejoice !
+May  health  be  thine,  and  wisdom  thy  companion  !
+Kulbad  and  Nastihan  the  deft  of  hand
+Have  been  pursuing  us  with  hostile  troops,
+And  those  that  still  survive  have  gone  back  home
+With  necks  and  chests  in  case  to  ask  our  tears.
+I  know  not  any  horseman  in  Iran
+Save  Rustain  able  to  encounter  me."
+
+Khusrau,  pure  in  the  Faith,  rejoiced  o'er  Giv,
+Called  blessings  down  on  him,  and  praised  him  greatly ;
+They  took  some  food,  such  as  came  first  to  hand,
+And  hasted  on  toward  the  trackless  waste.
+
+Now  when  the  Turkman  troops  came  to  Piran
+So  stricken,  heated,  and  discomfited,
+He  spake  in  anger  to  Kulbad,  and  said : —
+"  This  is  a  marvel  which  must  not  be  hidden  !
+What  have  ye  done  to  Giv  ?  Where  is  Khusrau  ?
+How  went  the  matter  ?     Tell  me  honestly."
+
+Kulbad  said :  "  If  I  tell,  O  paladin !
+What  gallant  Giv  did  to  our  warriors,
+Thou  wouldst  no  more  of  battles.  Thou  hast  seen  me
+
+
+38o  THE  SHAHNAMA    OF  FIRDAUSf
+
+v.  727       Oft  with  the  host,  and  hast  approved  my  prowess,
+Yet  when  I  charged  him,  thinking :  '  Now  shall  I
+Behold  his  overthrow/  in  sooth  he  bore
+Above  a  thousand  buffets  of  mine  ax.
+Thou  wouldst  have  said :  '  His  head  is  but  an  anvil,
+His  chest  and  arms  are  solid  ivory ! '
+Oft  have  I  gazed  on  Kustam  in  the  fight,
+And  hearkened  tales  of  mighty  warriors,
+But  never  knew  one  so  endure  the  blows.
+The  rush,  and  whirl  of  war.     Though  we  had  borne
+Wax  maces,  and  our  horsemen  pard-skin  lances,
+No  wonder  had  his  shoulders,  arms,  and  breast
+Been  pounded  small.     He  kept  his  dash  and  keenness
+Throughout,  and  bellowed  like  an  elephant.
+The  plain  was  heaped  with  slain,  our  warriors
+Were  routed  by  one  man ! "
+
+Piran  was  wroth ;
+
+"  Enough,"  he  said,  "  'tis  shame  to  tell  the  tale ;
+Such  words  as  these  are  not  for  cavaliers.
+Attempt  no  more  to  strive  with  men  of  war.
+Thou  wentest  forth  with  noble  Nastihan,
+And  troops  like  lions ;  now  thou  makest  Giv
+A  maddened  elephant ;  thy  fame  is  sped
+With  mighty  men ;  Afrasiyab  at  hearing
+Will  fling  away  from  him  the  imperial  crown,
+Because  two  paladins,  two  gallant  horsemen,
+Accompanied  by  soldiers  dight  for  war,
+Turned  tail  before  a  single  cavalier,
+Who  slaughtered  many !     Mocking  and  disgrace
+Are  thine,  not  standard,  kettledrum,  and  mace."
+
+
+§22
+How  Pir&n  pursued  Kai  Khusrau
+
+Piran  chose  from  his  troops  six  thousand  horse —
+V.  728       Brave  warriors.     "  Swiftly  ply,"  he  said  to  them,
+
+
+KAI  KAIJS  381
+
+"  Your  fleet  steeds'  reins,  like  savage  lions  go
+By  day  and  night,  no  girdle  must  be  loosed,
+For  if  Khusrau  and  Gi'v  shall  reach  Iran
+The  women  there  will  be  as  lionesses,
+And  neither  earth  nor  water  will  remain
+Within  Tunin.     Afrasiyab,  heart-seared,
+Will  lay  the  blame  of  this  escape  on  me,
+Not  on  the  process  of  sun,  moon,  and  stars."
+
+Thureat  they  raised  their  heads  and  hurried  on
+By  day  and  night,  till  scattered  and  disordered
+They  reached  a  narrow  river,  where  the  stream
+Was  deep  and  difficult  for  men  to  cross,
+That  river  which  was  called  Gulzaryiin,
+And  was  in  springtide  like  a  stream  of  blood.
+
+Upon  the  further  bank  the  prince  and  Giv
+Were  sleeping :  Farangi's  was  keeping  watch,
+And  looking  round  her  from  her  post  descried  V.  729
+
+The  banner  of  the  leader  of  Tiiran  !
+She  ran  to  Giv,  gave  the  alarm,  and  roused
+The  sleepers,  crying :  "  Man  of  toil !  arise  !
+Tis  time  to  flee,  a  host  pursueth  us.
+Our  time,  I  fear,  is  come.     If  they  shall  take  thee
+They  will  not  leave  thee  living  and  will  rack
+Our  hearts  for  thee.     Me  and  my  son  in  tears
+Piran  will  bear  bound  to  Afrasiyab,
+And  after  that  I  know  not  what  may  chance ;
+None  wotteth  of  the  secrets  of  high  heaven."
+
+Giv  said :  "  0  Moon  of  dames  !  why  vex  thy  soul
+Herein  ?     Ascend  yon  mountain  with  the  prince ;
+Fear  nothing  from  Piran  or  from  his  host.
+The  conquering  Lord  of  earth  is  mine  ally,
+The  star  of  fortune  lieth  on  my  breast.
+By  help  of  God,  the  Author  of  our  lives,
+I  will  not  leave  a  rider  in  the  saddle."
+
+Then  said  Khusrau :  "  0  warrior !  my  cause
+Is  wearisome  to  thee.     I  have  been  spared
+
+
+382  THE   SHAH  NAM  A    OF  FIRDAUSI
+
+The  net  of  bale.     Seek  not  the  Dragon's  breath
+So  oft.     Be  mine  to  go  upon  the  plain,
+And  spurt  blood  heavenward  with  my  scimitar."
+v.  730  Giv  answered  :  "  Noble  prince !  the  world  hath  need
+
+Of  thee  to  wear  its  crown.     My  sire  and  I
+Are  paladins  whose  loins  are  ever  girt
+To  serve  the  Shahs  ;  three  score  and  eighteen  brothers
+Have  I ;  the  world  will  perish  with  thy  name,
+For  paladins  are  many,  Shahs  are  few.
+Few  ?     I  see  none  !     If  I  am  slain,  another
+Will  take  my  place,  the  royal  head  and  crown
+Will  still  survive ;  but  if  afar  from  here
+Thou  perish l  I  see  none  fit  for  the  crown
+And  throne.     The  winds  will  take  my  seven  years'  toil,
+My  race  will  be  disgraced.     Choose  then  the  heights,
+And  mark  yon  host.     The  World-lord  is  mine  aid.
+Earth  is  beneath  thy  shadowing  wings  ;  if  I
+Succeed  thy  Grace  will  give  the  victory."
+
+
+§23
+
+How  Pirdn  contended  with  Giv
+
+Giv  donned  his  mail  and  came  forth  like  a  lion,
+His  steed  as  'twere  a  mountain  under  him.
+The  chief  was  on  this  side,  the  host  on  that ;
+Between  the  river  flowed  and  barred  the  way.
+Giv  roared  out  like  a  thunderclap  in  spring,
+Inquiring  for  the  captain  of  the  host.
+Piran  was  wroth,  upbraided  Giv,  and  said : —
+"  Thou  miscreant  by  nature  and  descent !
+Com'st  thou  alone  so  hardily  to  face
+An  army  ?     Thou  shalt  taste  two-headed  javelins,
+While  falcons'  talons  shall  provide  thy  bier.
+Thou  art  a  single  horseman,  iron  mountain
+
+i  "  Si  tu  p&ris  dans  une  captiviU  lointaine." — MOHL.
+
+
+KAI  KAUS  383
+
+Although  thou  be.     A  thousand  will  surround  thee
+
+Like  ants,  will  smash  the  armour  on  thy  breast,
+
+And  drag  thy  carrion-carcase  in  the  dust.
+
+The  mighty  lion  springing  spake  this  saw  :—
+
+'  Whene'er  the  stag  hath  reached  its  destined  day
+
+Fate  reckoneth  each  breath  drawn  by  the  prey  v-  73  i
+
+Till  it  shall  cross  a  lion  on  the  way.'
+
+So  fc  -tune  now  hath  brought  thee  in  my  path
+
+Here  in  the  presence  of  this  famous  host."
+
+Brave  Gfv,  that  chief  of  mighty  paladins,
+Replied  in  thunder- tones :  "  Thou  miscreant  Turkman
+Of  divs  begotten  !  perish  chiefs  like  thee  !
+Thou  sawest  my  revenge  for  Siyawush,
+And  hadst  good  reason  to  admire  my  prowess,
+For  many  chieftains  of  Tiiran  and  Chin
+Fell  by  my  hand  in  battle.     I  it  was
+Who  ravaged  all  thy  home  and  wrecked  thy  life.
+Thy  two  chief  dames  were  in  the  company
+That  I  dragged  off  in  bondage  from  Khutan,
+Thy  sister  one,  the  other  was  thy  spouse,
+Who  ever  tendered  thee  both  soul  and  body.
+When  I  beheld  those  wretched  Turkman  dames
+I  gave  them  to  the  meanest  of  my  slaves,
+While  thou  didst  show  thy  back  as  women  would,
+And  run  away  with  shrieks  and  doleful  howls.
+For  thee  mankind  should  fight  like  womankind  ;
+Brag  not  of  bravery  to  warriors,
+For  chiefs  shall  sing  hereafter  to  thy  shame
+How  Giv  unaided  carried  off  Khusrau,
+And  all  shall  hold  your  names  to  be  disgraced.
+Again,  while  all  the  princes  of  the  earth—
+Faghfur  and  Caesar  and  the  Khan  of  Chin,
+The  nobles  and  the  kin  of  Shah  Kaiis,
+Brave  men  and  warriors  with  golden  casques —
+Sought  Rustam's  daughter  eagerly  in  marriage,
+And  Tiis  too  sent  to  ask  her,  matchless  Rustam
+
+
+384  THE   SHAHNAMA    OF  FIRDAUSf
+
+Met  him  with  scorn,  and  put  their  offer  by
+Because  they  were  unworthy.     Afterward,
+V.  732        When  he  had  looked  throughout  the  world  in  vain,
+He  gave  his  favourite  daughter  to  myself—
+A  daughter  whom  he  prized  above  his  crown.
+That  high  exalted  and  most  noble  prince
+Gave  me  the  horsewoman  Bamigashasp,
+His  eldest  daughter,  chose  me  of  all  lords,
+And  raised  my  head  to  heaven.     I  gave  my  sister,
+That  Moon  of  ladies — Shahr-Bami-Iram —
+To  him.     Excepting  elephantine  Rustam,
+The  lion-man,  I  do  not  know  my  match,
+And  when  I  come  with  him  to  take  revenge
+Ye  must  make  ready  to  bewail  your  dead.
+Now  with  this  steel-blue  falchion  will  I  turn
+The  world  before  your  eyes  as  black  as  pitch,
+And  if  I  leave  one  of  your  host  alive
+Give  to  me  never  more  the  name  of  man.
+Iranward  bear  I  royal  Kai  Khusrau
+To  bring  him  to  the  monarch  of  the  brave,
+To  seat  him  on  the  famous  ivory  throne,
+And  place  upon  his  head  the  glorious  crown.
+Then  will  I  don  again  this  precious  mail,
+And  make  Tiiran  the  lair  of  mighty  lions.
+Son  am  I  to  Gudarz  son  of  Kishwad ;
+The  noble  Giv  am  I,  the  prince  of  chiefs,
+Thou  luckless  Turkman,  thou  accursed  Piran  !
+May  no  crown,  throne,  or  realm  be  ever  thine.
+I  will  behead  thee  with  mine  Indian  sword,
+Thy  mail  and  helmet  shall  weep  over  thee ;
+Death  from  my  twisted  lasso  shalt  thou  meet,
+Thy  mail  and  helm  shall  be  thy  winding-sheet."
+
+
+KAI  KAUS
+
+
+385
+
+
+§  24
+How  Pirdn  was  taken  by  Giv
+
+Piran  was  furious  and  wept  with  rage,
+Then  gripping  with  his  legs  urged  on  his  steed,
+And,  with  his  massive  mace  upon  his  shoulder,
+Launched  forth  like  boat  on  stream,  invoking  Him
+That  giveth  every  good.     Giv  bode  his  time
+Tntil  the  chief  had  crossed,  and  then,  declining,
+Jrave  leader  though  he  was,  as  if  through  fear
+
+ie  combat,  fled.     His  foe  approached,  the  world
+Grew  night-dark.     Giv,  when  he  had  drawn  Piran
+Lfar  from  stream  and  host,  flung  mace  on  saddle
+
+charged  "  like  dragon  raging,"  thou  hadst  said.
+Piran  the  Lion  fled  pursued  by  Giv,
+Who  unobserved  took  from  the  straps  his  lasso,
+Then  whirling  round  his  arm  discharged  the  coil,
+And  caught  his  foeman's  head,  dismounted  him,
+Drave  him  afoot  disgraced  far  from  the  stream,
+Then  threw  him  on  the  ground,  secured  his  hands,
+And  donned  his  mail.     When  this  was  done  Giv  took
+His  prisoner's  flag  and  rode  up  to  the  bank.
+The  Turkmans  seeing  their  commander's  flag
+Advanced  to  meet  him  as  a  thing  of  course.
+There  rose  a  shout  with  din  of  clarions,
+Of  pipes,  and  Indian  bells.     Perceiving  this
+Giv  strove  as  'twere  a  boat  against  the  waves,
+And  laid  his  massive  mace  upon  his  shoulder,
+While  all  the  troops  looked  at  him  wondering.
+Soon  with  reins  lightly  held  and  stirrups  pressed
+He  filled  the  haughty  Turkmans'  heads  with  fear,
+And  with  his  sword,  his  stirrups,  arms,  and  onset
+Laid  them  in  dust.     The  plain  was  like  a  mountain
+Of  dead,  one  man  discomfited  the  host.
+The  chieftains  turned  their  backs,  the  Lion  charged
+
+VOL.  II.  2  B
+
+
+V.  733
+
+
+V.  734
+
+
+386  THE  SHAHNAMA    OF  FIRDAUSI
+
+The  Flock,  that  great  host  fled  from  Giv,  who  crossed
+The  stream  again  so  fresh  that  thou  hadst  said : —
+"  He  hath  not  dreamed  of  foes."     He  hurried  back
+To  cut  Piran's  head  off,  but  drave  him  first
+Afoot,  scorned,  hustled,  and  beside  himself,
+In  anguish,  wan,  and  wretched  to  Khusrau.
+Giv  then  dismounted,  drew  anear  the  prince,
+And,  having  kissed  the  ground  and  hoinaged  him,
+Exclaimed :  "  This  miscreant  and  faithless  man
+Is  now  a  captive  in  the  Dragon's  jaws,
+V.  735        So  let  him  now  be  even  as  the  wind,
+
+Like  Siyawush,  who  hearkened  to  his  words."
+
+Piran  too  did  obeisance  to  the  prince,
+Cried  with  a  loud  voice,  kissed  the  ground,  and  said :
+"  0  prince  that  seekest  after  understanding,
+And  art  a  shining  sun  among  the  people !
+Thou  knowest  mine  affliction,  my  distress,
+And  struggle  with  the  king  on  thine  account.
+Prince  Siyawush  had  lived  if  I  thy  slave
+Had  been  at  court.     By  rede  and  artifice
+I  saved  thee  and  thy  mother  from  the  Di'v.
+So  by  thy  Grace  and  fortune  grant  that  I
+Have  from  this  Dragon's  clutch  my  liberty."
+
+
+§25
+
+How  Farangis  delivered  Pirdn  from  Giv
+
+Gfv  looked  for  orders  at  Khusrau  and  saw
+The  tearful  eyes  of  Farangis,  whose  tongue
+Was  fraught  with  curses  on  Afrasiyab.
+She  said  to  Giv :  "  0  chief,  who  hast  endured
+Such  wanderings !  this  hoary  paladin
+Is  both  a  wise  and  understanding  prince ;
+And  know  that  next  to  God — our  Judge  and  Guide-
+He  was  the  means  of  saving  us  from  death.
+
+
+.
+
+
+KAl  KAUS  387
+
+e  with  his  love  screened  us  from  injury,
+And  seeketh  now  for  quarter  in  return ;
+So  grant  him  to  us,  O  thou  noble  one !
+For  he  hath  never  led  the  way  to  ill."
+
+Giv  said  to  her :  "  O  chief  of  ladies  I  live
+For  e.er  bright  in  mind  and  joyfully.
+I  swore  a  mighty  oath  by  moon  and  crown,
+And  by  the  great  Shah's  throne  :  '  If  I  shall  get
+The  best  of  him  in  battle  I  will  make
+Earth  with  his  blood  like  cercis- bloom.' "
+
+Khusrau
+
+Said  :  "  Keep  thine  oath  to  God,  thou  lion-like !
+And  ease  thy  heart  on  that  score :  pierce  his  ear  V.  736
+
+Through  with  thy  dagger,  and  as  blood-drops  fall
+Thence  to  the  ground  think  of  both  love  and  ven-
+geance."
+
+Giv  saw  the  prince's  heart  warm  to  Piran,
+Perceived  the  prince's  cheeks  all  tears  and  ruth,
+So  went  and  pierced  Piran's  ear  with  his  dagger,
+And  slept  in  peace  because  his  oath  was  kept.
+Piran  said  to  Khusrau  :  "  I  cannot  go
+Back  to  the  host  afoot ;  bid  him  restore
+My  steed ;  then  thou  hast  given  me  life  and  means."
+
+The  valiant  prince  requested  Giv :  "  Bestow
+On  me  his  charger,  0  thou  mighty  Lion ! "
+
+Giv  spake  thus  to  Piran :  "Brave  warrior !
+Why  hast  thou  grown  so  feeble  on  the  field
+Of  fight  ?     If  thou  wouldst  have  thy  wind-foot  steed,
+First  will  I  bind  thy  hands,  then  thou  shalt  gain
+Thy  liberty  upon  a  mighty  oath
+That  none  shall  loose  thy  bonds  except  Gulshahr,
+Because  she  is  the  chief  among  thy  dames,
+And  knoweth  thee  completely — skin  and  marrow."
+
+The  paladin  agreed  and  purchased  life  v  737
+
+And  charger,  swearing :  "  None  shall  loose  my  bonds
+Upon  the  way.     Gulshahr  alone  shall  do  it."
+
+
+388  THEISHAHNAMA    OF  FIRDAUSI
+
+Giv  bound  him,  brought  the  horse,  and  bade  him
+
+mount.
+
+Then  Farangis  and  goodly  Kai  Khusrau
+Embraced  him  tenderly ;  he  took  his  leave
+With  many  blessings  on  Khusrau  and  Giv.
+
+
+§26
+
+How  Afrdsiyab  found  Piran  on  the  Way
+
+The  sun  turned  dark  before  Afrasiyab
+
+When  news  came  from  the  host ;  he  sounded  trump
+
+And  tymbal,  called  to  horse  and  went  like  fire.
+
+In  haste  he  made  two  stages  into  one,
+
+And  sped  forth  like  an  arrow  from  the  bow.
+
+Arriving  at  the  place  whereat  Kulbad
+
+Had  fought  he  saw  troops  scattered  o'er  the  land,
+
+While  everywhere  lay  bodies  of  the  fallen.
+
+He  asked  :  "  How  came  this  paladin  with  troops
+
+Here  from  Iran  ?    None  of  our  warriors
+
+Knew  of  a  mighty  army  coming  thence.
+
+Who  told  those  sons  of  divs  that  Siyawush
+
+Had  offspring  here  ?     If  dust  had  been  his  tutor
+
+Mine  eyes  had  never  seen  a  day  like  this."
+
+"  Thou  mayst  be  easy,"  Sipahram  replied,
+"  So  far  as  thy  concern  is  for  an  army,
+v.  738       'Twas  Giv,  son  of  Giidarz,  none  else ;  we  saw
+No  other  cavalier  with  him.     One  man
+Discomfited  our  troops  in  fight,  and  so
+Giv  and  the  prince  and  Farangis  escaped."
+
+On  hearing  this  the  monarch's  cheeks  turned  pale
+His  heart  was  full  of  pain  at  this  reverse  ;
+He  answered  :  "  This  is  as  the  sages  said.
+When  God  bestoweth  fortune  on  a  man
+He  cometh  to  the  throne  without  an  effort."
+
+While  they  conversed  a  host  appeared  in  sight
+
+
+KAI  KAUS  389
+
+Led  by  Ph-an  besmirched  with  dust  and  blood.
+
+The  king  imagined  :  "  He  hath  captured  Giv,
+
+And  come  on  first  with  news  of  victory,"
+
+But,  nearer,  saw  that  he  was  wounded  sore
+
+And  ^ound  fast  as  a  rock  upon  the  saddle,
+
+With  both  hands  pinioned  tightly  at  his  back.
+
+The  king  amazed  and  pained  asked  what  it  meant.
+
+Then  said  Piran  :  "  No  ravening  wolf  or  tiger,
+
+Or  savage  lion,  is  like  Giv  in  battle,
+
+Although  alone.    The  fear  of  fighting  him
+
+Would  make  a  crocodile  burn  under  water.
+
+He  first  attacked  us  with  a  massive  mace,
+
+And  dealt  us  blows  as  with  a  blacksmith's  hammer.
+
+By  dint  of  steed  and  dexterous  horsemanship
+
+He  overthrew,  smote  down  our  cavaliers,
+
+And  slaughtered  them  at  will,  yet  cloud  ne'er  rained
+
+More  drops  than  sword-strokes  fell  upon  his  head !
+
+In  sooth  his  saddle  was  no  bed  of  roses ;
+
+Thou  wouldst  have  said  :  '  He  is  a  mountain's  match.'
+
+At  last  our  troops  all  turned  and  I  alone
+
+Kemained  to  fight  with  him.     He  fled  from  me,
+
+But  threw  his  twisted  lasso,  and  my  waist  V.  739
+
+Was  taken  in  its  coils.     I  lost  my  head,
+
+And  fell  with  all  my  weight  upon  the  ground.
+
+He  lighted  from  his  charger,  bound  my  hands.
+
+And  then  remounting  drave  me  on  before  him.1
+
+He  carried  me  in  shame  to  Kai  Khusrau,
+
+And  would  have  had  my  head,  but  Farangis
+
+Came  to  mine  aid ;  he  spared  my  life  but  pierced
+
+Mine  ear,  and  in  a  fury  bound  my  hands,
+
+Then  by  the  Shah's  own  life  and  head,  by  sun
+
+And  moon,  by  God  Almighty,  crown  and  throne,
+
+Proposed  to  me  a  mighty  oath,  and  I,
+
+Since  I  saw  fortune  hostile,  duly  swore
+
+That  nobody  should  loose  me  but  my  wife,
+
+1  Reading  with  P.
+
+
+390  THE   SHAHNAMA    OF  FIRDAUSt
+
+Gulshahr.  Thus  did  he  bind  me  head  and  foot
+With  lassos  and,  when  that  was  done,  by  oaths.
+I  know  not  why  the  sky  hath  ceased  to  love  me."
+
+Afrasiyab  on  hearing  wept  for  rage,
+And  lifting  up  his  voice  drave  forth  Piran,
+Who  writhing  as  he  was  made  no  reply.
+Then  blustering  and  cursing  swore  the  king : —
+"  Though  Giv  and  that  Div's  child  were  thunder-clouds
+Or  storm- winds  I  would  make  them  fall  from  heaven.
+With  this,"  he  drew  his  sword,  "  this  iron-piercer,
+Will  I  in  vengeance  rob  them  both  of  breath,
+And  as  for  Farangis  will  make  the  world
+Both  strait  and  dark  to  her  when  I  shall  catch  her,
+v.  740       ]?or  I  win  cleave  her  with  the  scimitar,
+
+And  fling  her  to  the  fish  to  tear  in  pieces.
+Khusrau  is  fain  to  seek  Iran,  but  why
+Should  Farangis  thus  bear  him  company  ? "
+
+
+§27
+
+How  Giv  disputed  with  the  Toll-man
+
+Piran  departed  sadly  toward  Khutan:
+
+Meanwhile  Afrasiyab  pursued  his  march
+
+Toward  Jihiin,  and  in  his  anger  trailed
+
+His  skirt  in  blood.     He  bade  Human :  "  Haste  on,
+
+And  draw  rein  at  the  river.     If  Khusrau
+
+And  Giv  get  over,  any  pains  of  ours
+
+Are  but  a  desert-blast.     I  was  forewarned
+
+Of  this  by  what  a  sage  said  long  ago  : —
+
+'  The  seed  of  Tiir  and  Kai  Kubad  combined
+
+Will  raise  a  monarch  of  illustrious  mind
+
+To  make  Turan  a  brake  of  thorns  again,
+
+And  leave  no  city  on  its  wide  champaign.
+
+Iran  will  have  his  love,  Turan  will  know
+
+The  vengeful  face  that  looketh  on  a  foe."
+
+
+KAI  KAUS  391
+
+When   Giv   and   Kai  Khusrau   had    reached   the
+
+stream
+
+In  haste  to  cross  they  wrangled  with  the  toll-man.
+Giv  said :  "  What  swift  and  well  appointed  boat
+Fit  ior  the  use  of  Kai  Khusrau  is  here  ? "
+
+The  man  replied :  "  What  hath  a  stream  to  do
+With  king  or  slave  ?  If  thou  hast  need  to  cross
+It  is  incumbent  to  bespeak  a  boat."
+
+Giv  said  to  him :  "  Demand  whate'er  thou  wilt,
+But  let  us  cross  because  a  host  approacheth."
+
+The  officer,  on  hearing  this  from  Giv,
+Became  extortionate,  and  said:  "  I  ask
+No  little  toll,  but  one  of  four — thy  mail,
+Thy  black  steed,  handmaid,  or  thy  moon-like  page."
+
+Giv  answered  him  :  "  0  thou  of  broken  wits !  v.  741
+
+Do  words  like  these  become  a  man  like  thee  ?
+Were  he  a  subject  of  the  king  of  kings
+Thou  wouldst  receive  thy  portion  from  the  world ;
+But  what  art  thou  to  ask  the  Shah  himself  ?
+Art  thou  so  hasty,  miserable  wretch  ?
+And  then  his  mother  is  thy  next  demand  !
+Thou  wouldest  have  the  moon's  crown  as  thy  toll !
+Or  thirdly  thou  requirest  black  Bihzad
+Who  when  he  hasteth  overtaketh  wind  !
+Or  fourthly  in  thy  folly  thou  wouldst  take
+My  mail,  when  mail  is  indispensable,
+And  this  is  steel  which  water  will  not  wet,
+And  such  as  fire  and  Indian  scimitars,
+Or  spears  or  arrows,  have  no  power  to  harm  !
+Thou  wouldst  have  toll :  then  take  it  in  the  river !
+The  stream  for  us,  the  ferry-boat  for  thee ;
+'Twill  not  be  easy  to  collect  thy  fee  ! "
+
+
+392  THE  SHAHNAMA    OF  FIRDAUSf
+
+§  28
+How  Kai  Khusrau  crossed  the  Jihun
+
+Giv  told  the  prince  :  "  If  thou  art  Kai  Khusrau
+The  stream  will  favour  thee.     When  Faridun
+Crossed  the  Arwand  *  it  led  him  to  the  throne,
+And  all  the  world  became  the  slave  of  him
+Who  had  the  Grace  and  glory.     Tarry  not
+If  thou  art  Shah,  the  shelter  of  the  Lions
+And  warriors.     The  stream  will  give  thee  passage,
+Who  hast  the  mien  and  Grace  to  deck  a  throne.
+If  I,  or  if  thy  mother  should  be  drowned,
+Grieve  not.     For  thee  I  lived  because  the  throne
+Of  king  of  kings  was  naught.     My  mother  too
+Bare  me  for  thee.     Pause  not  or  else,  I  doubt  not,
+Afrasiyab  will  reach  the  river-bank
+v.  742        In  fury,  hang  me  on  the  shameful  gibbet
+Alive,  and  fling  thyself  and  Farangis
+To  feed  the  fish  or  tread  you  under  hoof."
+
+Then  Kai  Khusrau  replied  :  "  So  be  it.     Enough.
+My  refuge  is  with  God  the  Succourer."
+
+He  lighted,  groaned,  fell  prostrate  in  the  dust,
+And  said  :  "  Thou  art  my  refuge  and  support ;
+Thou  showest  justice  and  Thou  art  my  way.
+Thy  Grace  for  good  or  ill  sufficeth  me  ;
+The  shadow  of  Thy  wing  is  wisdom's  soul."
+
+He  spake,  and  radiant  as  the  morning  star
+Bestrode  his  sable  steed,  took  to  the  water,
+Reached  like  a  boat  the  toll-house  opposite,
+And  issued  from  the  bed  of  the  Jihun
+With  gallant  Giv  and  Farangis  behind  him.
+Thus  all  three  safely  gained  the  other  side,
+Where  Kai  Khusrau,  his  head  and  body  bathed,
+Thanked  and  adored  the  Maker  of  the  world.
+
+1  See  vol.  i.  p.  160.
+
+
+KAI   KAUS  393
+
+As  they  went  o'er  the  master  of  the  boats
+Astound  said  to  his  mates  :  "  Behold  a  wonder  !
+This  passeth  all !     Springtide !     Jihiin  in  spate  !
+Thre~  steeds  and  riders  mailed !  No  sage  would  deem
+Him  man  who  went  across  in  such  a  case."
+
+He  saw  his  plight,  regretted  his  rash  words,
+Supplied  his  boat  with  such  things  as  he  had,
+Set  sail  and  went  to  ask  the  prince's  pardon.  v-  743
+
+When  he  arrived  upon  the  farther  shore
+He  brought  his  offerings  before  Khusrau,
+He  brought  a  bow,  a  lasso,  and  a  casque,
+But  Giv  thus  answered  him :  "  Insensate  dog !
+Thou  saidst :  '  The  stream  will  sweep  a  man  away,'
+And  when  so  great  and  puissant  a  prince
+Requireth  thee  to  furnish  him  a  boat
+Refusest !     Perish  all  thine  offerings !
+A  day  will  come  when  thou  wilt  think  of  this."
+
+The  river-warden  went  off  in  chagrin,
+Despairing  of  his  life.     On  his  return
+The  army  from  Turan  was  at  the  toll-house.
+Afrasiyab,  not  seeing  man  or  boat
+Upon  the  stream,  cried  fiercely  to  the  toll-man : —
+"  How  found  that  div  his  way  across  the  water  ?  "
+
+The  man  replied  :  "  0  king !  my  father  took
+The  toll  as  I  do,  yet  I  never  saw
+Or  heard  of  one  who  made  the  water  land.
+In  springtime  when  the  waves  are  running  high
+If  thou  dost  enter  there  is  no  escape,
+Yet  those  three   riders   crossed !    Thou  wouldst   have
+
+said : —
+
+'  The  air  supported  them  upon  its  breast/
+Or, '  They  are  children  of  the  rushing  wind —
+The  messengers  dispatched  by  God  to  man.' "
+
+Afrasiyab  on  hearing  this  turned  pale,
+And  sighing  deeply  bade  the  man  :  "  Launch  forth
+A  boat  upon  the  river  with  all  speed.
+
+
+394  THE   SHAHNAMA    OF  FIRDAUSI
+
+See  if  thou  canst  discern  the  fugitives,
+
+Upon  the  road  or  stopping  for  repose,
+
+That  I  may  take  them  prisoners.     Make  dispatch,
+
+Out  with  the  boat,  and  get  thee  gone  at  once."
+
+Then  said  Human  to  him  :  "  O  king  !  consider,
+And  kindle  not  a  fire  within  thy  breast.
+Wilt  thou  essay  Iran  with  these  few  horsemen,
+Essay  the  breath  and  clutches  of  the  Lions,
+v-  744       The  elephantine  Rustam  and  Giidarz,
+Tiis  and  Gurgin  the  shatterer  of  hosts  ?
+Thou  must  be  weary  of  the  throne  indeed
+If  thou  wilt  go  thus  to  the  Lions'  claws.
+Hence  all  is  thine  to  Chin  and  to  Machin ;
+Sun,  Saturn,  Moon,  and  Pleiades  are  thine.
+Guard  thou  Tiiran  and  thine  own  lofty  throne  :
+We  need  not  now  fear  mischief  from  Iran."
+
+With  that  they  turned  them  in  chagrin  away,
+And  matters  long  continued  in  this  stay.
+
+
+§29
+
+How  Kai  Khusrau  came  to  Ispahan
+
+When  Kai  Khusrau  and  Giv  arrived  at  Zam
+
+Most  men  rejoiced  but  certain  were  displeased.
+
+Giv  sent  out  messengers  to  every  part,
+
+And  wrote  thus  of  the  valiant  prince :  "  The  chieftain
+
+Head  of  the  race  of  noble  Kai  Kubad —
+
+The  exalted,  blessed  Kai  Khusrau,  to  whom
+
+The  waters  of  Jihun  were  as  a  throne —
+
+Hath  come  rejoicing  from  Turan."
+
+He  chose
+
+Among  the  chiefs  of  Zam  a  messenger,
+A  valiant  cavalier,  wise,  shrewd,  and  prudent,
+Informed  him  of  the  case,  and  said  to  him : —
+"  Depart  hence  unto  Ispahan — the  land
+
+
+KAI  KAUS  395
+
+Of  Shahs,  the  habitation  of  the  mighty —
+
+And  tell  Giidarz :  '  O  chief  of  paladins  !
+
+Thy  mind  was  not  asleep  when  thou  didst  dream.'
+
+Then  add  this  :  '  Kai  Khusrau  hath  come  to  Zam,
+
+And  not  a  blast  hath  done  him  injury.' "
+
+He  wrote  a  letter  unto  Shah  Kaiis.
+The  messenger  arose  and  went  his  way.
+The  wind-foot  camels  with  their  lips  afoarn
+Rushed  onward  fire-like.     First  he  sought  Gudarz,
+Declared  the  message,  and  gave  up  to  him  V.  745
+
+The  letter,  which  the  paladin  in  chief
+Placed  to  his  head  with  tears  for  Siyawush
+And  maledictions  on  Afrasiyab.
+The  messenger  went  on  to  Kai  Kaiis
+While  drops  of  sweat  fell  from  the  camels'  necks.
+When  he  approached  the  palace-gate  a  shout
+Of  gladness  rose,  the  monarch  gave  him  audience,
+And  sprinkled  jewels  over  Giv's  dispatch.
+They  decked  the  whole  world  in  their  happiness,
+They  called  for  minstrels  everywhere,  while  Rustam,
+When  tidings  of  Giv's  triumph  reached  Nimruz,
+Gave  gold  in  largess  to  the  mendicants
+Because  that  Lion  had  received  no  hurt ;
+And  afterward  dispatched  Bamigashasp,
+Like  lightning,  bearing  treasures,  and  with  her
+Twelve  hundred  mighty  men  of  name  with  gifts
+Of  thrones  and  heavy  crowns,  three  hundred  damsels,
+And  six  score  youths,  all  bearing  golden  goblets.
+The  lady  left  her  sire  and  went  to  Giv
+As  swiftly  as  a  bird  upon  the  wing,
+While  news  spread  everywhere  :  "  The  monarch's  son,
+The  young  prince  Kai  Khusrau,  is  on  his  way."
+
+As  for  the  men  of  leading  in  the  world
+They  all  resorted  unto  Ispahan.
+Gudarz  prepared  his  stately  residence,
+And  draped  it  with  imperial  brocade,
+
+
+396  THE   SHAH  NAM  A    OF  FIRDAUSf
+
+Prepared  a  throne  with  gold  and  jewelry,
+Such  as  must  needs  be  worthy  of  the  Shah,
+And  armlets,  torques,  and  earrings  with  a  crown
+v-  746       Of  royal  gems.     He  had  the  city  decked,
+
+Prepared  the  Ground,  and  mounted  on  his  steed.
+The  illustrious  chiefs  arose  and,  all  being  ready,
+Went  forward  seventy  leagues  to  meet  the  prince
+Upon  the  road  according  to  their  custom.
+As  soon  as  Giv  appeared  with  Kai  Khusrau
+The  valiant  cavaliers  advanced  on  foot.
+Giidarz  the  chieftain  when  he  saw  the  prince,
+Accompanied  by  Giv  upon  the  road,
+Shed  tears  of  gall  and  in  his  deep  distress
+Spake  much  in  memory  of  Siyawush.
+The  paladin  then  lighted  from  his  steed,
+And  clasped  the  youthful  monarch  to  his  breast,
+Paid  him  high  compliments,  did  reverence,
+And  said  to  him :  "  O  monarch  of  the  earth  !
+Be  bright  in  fortune  and  be  bright  in  heart ;
+I  would  not  lose  thee  for  a  realm  or  throne.
+Far  from  thee  be  thy  foeman's  evil  eye,
+And  may  the  soul  of  Siyawush  be  bright.
+God  is  my  witness  that  to  see  thee  lengtheneth
+My  life.     If  I  saw  Siyawush  alive
+I  should  not  laugh  so  from  the  heart  as  now."
+
+He  kissed  the  head  and  eyes  of  Giv  and  said  : —
+"  Thou  hast  revealed  a  very  heaven  to  us.
+Thou  art  no  sluggard  but  a  warrior;
+Yet  on  occasion  thou  canst  bide  thy  time."
+
+Then  all  the  mighty  warriors  of  Iran
+Bent  down  their  faces  to  the  ground  before  him,
+And  as  they  turned  back  on  their  way  rejoicing
+The  fortunes  of  those  haughty  men  grew  bright.
+They  reached  the  palace  of  the  paladin,
+All  reached  it  full  of  joy  and  happiness.
+There  for  one  sennight  in  the  festal  hall
+
+
+KAI  KAUS  397
+
+They  tarried  wine  in  hand,  but  toward  the  city
+
+Of  Shah  Kaiis  upon  the  ensuing  day
+
+Wivli  joyful  hearts  set  forward  on  their  way.
+
+
+§  30
+How  Kai  Khusrau  came  to  Kdus
+
+When  Kai  Khusrau  appeared  before  the  Shah  V.  747
+
+The  world  was  filled  with  colour,  scent,  and  beauty,
+
+And  everywhere  in  festal  trim.     The  doors,
+
+The  roofs,  and  walls  were  full  of  precious  things,
+
+While  minstrels  had  been  stationed  in  all  quarters,
+
+And  there  were  wine,  rose-water,  musk,  and  saffron.
+
+The  horses'  manes  were  drenched  with  musk  and  wine,
+
+While  sweets  and  drachms  were  scattered  under  foot.
+
+The  tears  coursed  down  the  cheeks  of  Kai  Kaiis
+
+When  he  beheld  the  visage  of  Khusrau.
+
+He  came  down  from  his  throne,  approached  the  prince,
+
+And  with  his  face  caressed  the  prince's  head
+
+And  eyes.     The  youthful  atheling  did  homage,
+
+And  then  they  paced  back  to  the  throne  together.
+
+The  Shah  inquired  at  large  about  the  Turkmans,
+
+And  how  the  ruler  of  that  people  fared.
+
+The  prince  replied :  "  That  man  of  little  wit
+
+Still  walketh  on  the  face  of  earth  for  ill.
+
+Why  doth  the  Shah  inquire  about  that  wretch  ?
+
+May  pleasure,  crown,  and  throne  be  never  his !
+
+He  slew  rny  father  vilely,  shamefully,
+
+And  beat  my  mother  with  harsh  blows  that  I
+
+Might  perish  in  the  womb  !     May  he  ne'er  scape
+
+From  woe  !     As  soon  as  my  pure  mother  bare  me
+
+That  miscreant  dispatched  me  to  the  mountains.
+
+Among  the  cattle,  goats,  and  buffaloes,
+
+I  reckoned  by  the  sun  my  nights  and  days.
+
+At  length  Piran  arrived,  and  from  the  heights
+
+
+398  THE  SHAHNAMA    OF  FIRDAUSt
+
+Conducted  me  to  that  vindictive  king.
+
+I  trembled  at  his  rage  and  savagery,
+
+Afraid  of  what  might  come.     He  asked  me  questions,
+
+While  I  concealed  what  wit  and  worth  I  had.
+
+If  he  inquired  of  heads  I  spake  of  feet,
+
+If  he  inquired  of  food  I  talked  of  place.
+
+God  took  away  his  sense  and  intellect,
+
+And  so  the  dullard  took  me  for  a  fool,
+
+V.  748        Conceived  uny  head  to  be  ill  stocked  with  brains,
+And  sent  me  to  my  mother  with  a  curse."
+
+Kaiis  said  :  "  Noble  youth  !  the  world  desireth
+That  thou  shouldst  wear  the  crown,  for  thou'rt  a  prince,
+And,  like  the  king  of  kings,  both  wise  and  worthy."
+Khusrau  said  :  "  Monarch  of  this  ancient  throne  !
+If  I  should  give  thee  an  account  of  Giv,
+And  what  hath  been  accomplished  by  his  hands,
+The  Shah  would  wonder,  and  no  marvel  too,
+Because  it  passeth  bounds.     Full  many  a  hardship
+Did  he  endure,  and  sought  me  in  Tiiran
+With  strivings,  yet  he  bore  not  toils  so  great
+As  those  which  followed  in  my  company,
+For  then  two  noble  paladins  with  troops
+Came  after  us  like  fire  upon  the  road.
+Idolater  of  Hindustan  beholdeth
+No  maddened  elephant  do  what  I  saw
+Giv  do.     Methought :  '  No  crocodile  will  come
+Forth  from  the  streams  to  fight  thus ! '     That  great  host,
+And  those  two  paladins,  were  seized  with  panic —
+Both  old  and  young  alike — and  afterward,
+What  time  Piran  came  boldly  with  girt  loins
+Upon  a  wind-foot  steed,  Giv  flung  his  lasso
+And  caught  the  paladin.     I  interceded,
+O  king !  for  him,  else  Giv  had  ruthlessly
+Struck  off  his  head.     Know  that  Piran  had  suffered
+Through  anguish  for  my  sire,  had  never  spoken
+
+V.  749       Aught  ill  of  me,  and  saved  me  and  withal
+
+
+KAI  KAUS  399
+
+My  mother  from  the  fierce,  grim  Lion's  claws,
+
+Who  else  had  ta'en  my  head  just  like  my  father's.
+
+Thus  till  we  reached  the  banks  of  the  Jihun
+
+Gfv  with  his  ox-head  mace  ceased  not  from  combat.
+
+A  paladin  like  him  should  keep  his  youth
+
+For  ever."
+
+When  Kaiis  had  heard  Khusrau
+
+His  cheeks  bloomed  like  a  rose.     He  clasped  Giv's  head,
+And  kissed  his  face  and  bosom  many  times,
+Then  gave  him  presents  such  as  in  the  world
+None,  whether  great  or  small,  had  seen  before.
+They  wrote  a  patent  out  on  painted  silk
+For  Khurasan,  Rai,  Kurn,  and  Ispahan.
+The  prince,  whose  Grace  divine  was  as  Jamshid's,
+Gave  these  to  Giv,  whose  head  rose  to  the  sun.
+"  Thou  hast,"  the  Shah  said,  "  undergone  much  toil,
+So  now,  0  toiler !  take  thy  fill  of  treasure."
+
+Giidarz  and  all  his  sons  with  faces  laid
+Upon  the  ground  called  blessings  down  on  him.
+He  had  a  golden  pleasure-house  prepared
+For  Farangis  with  earrings  and  a  torque,
+Set  golden  seats  within  the  halls  thereof,
+Embellished  the  interior  with  brocade
+Of  Chin,  a*nd  said  to  her  :  "  0  chief  of  dames !
+May'st  thou  ne'er  weep  for  sorrow.     Thou  hast  left
+Both  land  and  kin,  and  borne  much  on  the  way.
+Iran  is  now  thy  home,  thy  rede  my  guide."
+
+That  Moon  of  ladies  blessed  him.     "  May,"  said  she,    v.  750
+"  The  world  and  age  ne'er  be  deprived  of  thee."
+
+§31
+
+How  Tus  refused  Allegiance  to  Kai  Khusrau
+
+Kishwad  possessed  a  palace  at  Istakhr —
+The  glory  of  the  nobles.     Thither  went,
+Their  audience  with  the  monarch  being  closed,
+
+
+400  THE  SHAHNAMA    OF  FIRDAUSI
+
+Giidarz  with  Kai  Khusrau.     When  they  had  reached
+
+That  pleasance  with  its  arabesques  of  gold
+
+They  placed  the  prince  upon  a  golden  throne,
+
+And  called  down  blessings  on  him  as  their  Shah.
+
+The  warriors  of  Iran  all  did  him  service
+
+Save  Tus,  son  of  Naudar,  who  turned  away :
+
+'Twas  he  that  had  the  drums,  the  golden  shoes,
+
+And  charge  of  Kawa's  standard.     Much  displeased
+
+Giidarz  dispatched  a  friendly  embassage
+
+By  brave,  ambitious  Gfv,  the  man  that  had
+
+The  clutch  of  heroes  and  the  leap  of  lions.
+
+Giidarz  said  :  "  Say  to  Tus,  son  of  Naudar  : —
+
+Seek  for  no  pretexts  at  this  time  of  joy.
+
+The  nobles  and  the  Lions  of  f  ran
+
+Have  all  invoked  a  blessing  on  the  prince.
+
+Why  dost  thou  draw  back  at  the  Div's  command,
+
+And  quit  the  way  of  Him  who  ruleth  earth  ?
+
+If  thou  refusest  to  obey  Khusrau
+
+There  will  be  strife  and  vengeance  'twixt  us  twain.
+
+The  messenger  is  Giv,  the  words  are  mine,
+
+And  sanctioned  by  the  nobles  here  assembled."
+
+Giv  left  the  presence  of  his  sire  with  words
+Of  anger  in  his  heart.     On  reaching  Tus
+75 i        He  said :  "  Thy  rede  and  wisdom  are  not  mates."
+
+Tus  hearing  that  replied :  "  It  is  not  good
+To  play  off  tricks  on  me,  for  in  Iran,
+Save  elephantine  Rustam,  I  am  first
+Among  the  chieftains  that  command  the  host,
+And  grandson  of  the  valiant  Minuchihr,
+The  Shah  who  with  his  sword  subdued  the  world.
+Naudar  my  father  was  the  king  of  earth,
+I  represent  the  race  of  Faridun.
+Whenever  I  engage  myself  in  fight
+I  rend  the  lion's  heart  and  leopard's  hide.
+Ye  have,  without  my  counsel  and  consent,
+Established  a  new  monarch  in  the  world :
+
+
+KAI  KATJS
+
+
+401
+
+
+I  will  not  be  a  party  to  this  thing,
+
+So  talk  not  in  my  presence  of  Khusrau.
+
+If  from  the  offspring  of  Afrasiyab
+
+We  make  a  king,  then  will  our  fortunes  sleep.
+
+We  want  no  Shah  descended  from  Pashang ;
+
+A  flock  is  ill  entrusted  to  a  leopard.
+
+This  is  the  fruitage  of  these  toils  of  thine,
+
+For  Kai  Khusrau  is  young  and  violent,
+
+While  he  that  ruleth  earth  should  have  high  lineage,
+
+Worth,  Faith,  and  Grace.     Now  Farfburz,  the  son
+
+Of  Shah  Kaiis,  is  worthier  of  crown
+
+And  throne,  not  sprung  from  foes  on  either  side,
+
+But  having  Grace  and  glory,  fame  and  right."
+
+Then  Giv  arose  in  dudgeon,  doubting  both
+The  wisdom  and  the  honesty  of  Tiis,
+And  said :  "  0  Tiis,  illustrious  warrior  !
+Withdraw   not   when   the  drums  sound.     When  thou
+
+seest
+
+The  spear-heads  of  the  kindred  of  Gudarz
+The  gain  that  thou  expectest  will  prove  loss.
+The  many  toils  that  we  have  borne  together
+Thou  throwest  to  the  winds.     Hadst  thou  the  Grace
+And  counsel  we  had  sought  not  from  Alburz
+A  monarch ;  and  thy  head  hath  not  the  crown
+Because  thou  lackest  brains  and  royal  rede ;
+God  doth  bestow  the  throne  of  sovereignty  v.  752
+
+On  one  who  hath  the  Grace,  mien,  sense,  and  counsel. '
+
+He  spake  thus  wrathfully  and  showed  his  back
+In  anger ;  thence  returning  to  Gudarz
+He  said  :  "  Tiis  is  no  mate  for  rede  and  wisdom.
+Thou  wouldest  say  :  '  His  eyes  are  blind.'     His  choice
+Is  Fariburz,  although  no  sovereign
+On  golden  saddle  is  our  prince's  peer,
+Nor  have  we  such  another  cavalier."
+
+
+VOL.  ii.  2  c
+
+
+402  THE   SHAHNAMA    OF  FIRDAUSI
+
+§   32
+How  G-udarz  was  ivroth  with  Tus
+
+Giidarz  was  full  of  wrath  and  said :  "  May  Tus
+
+Cease  from  among  the  nobles  of  the  world.
+
+Now  will  we  let  him  see  to  whom  belong
+
+The    Grace,   the   sovereign   sway,    throne,    state,    and
+
+fortune."
+
+His  sons  and  grandsons  numbered  seventy-eight.
+He  beat  the  drums  and  marched  forth  from  the  palace
+Out  to  the  open  with  twelve  thousand  men
+Of  his  own  kin,  brave  troops  on  barded  steeds,
+Led  by  himself,  that  shatterer  of  hosts.
+Upon  the  other  side  came  Tus,  the  chieftain,
+And  bound  the  drums  upon  the  elephants,
+While  many  warriors  girded  up  their  loins,
+And  Kawa's  standard  led  the  central  host.
+Tus  saw  Giidarz  with  such  a  multitude
+As  dazed  the  eyes  of  sun  and  moon,  he  saw
+A  mighty  elephant  which  bore  a  throne
+Of  turquoise  as  resplendent  as  the  Nile.
+Upon  it  sat  the  aspiring  Kai  Khusrau,
+With  loins  girt  up  and  crown  upon  his  head,
+V.  753        Surrounded  by  ten  score  huge  elephants  ;
+
+Thou  wouldst  have  said :  "  The  world  hath  not  a  Shah
+
+Save  him."     Khusrau  shone  moonlike  on  the  throne,
+
+With  earrings,  torque,  and  armlets,  on  his  head
+
+A  crown  of  glittering  gems,  and  in  his  hand
+
+An  oxhead  mace.    Tus  thought  with  saddened  heart : —
+
+"  If  I  shall  fight  to-day  there  will  be  slain
+
+A  multitude  of  warriors  in  both  hosts.
+
+This  feud  shall  not  arise  within  Iran,
+
+For  naught  would  better  please  Afrasiyab,
+
+The  fortune  of  the  Turkmans  would  awake,
+
+The  throne  of  empiry  pass  to  Turan,
+
+
+KAI   KAUS  403
+
+AnJ  our  prosperity  be  at  an  end."
+
+He  sent  a  man  of  wisdom  and  resource
+To  Shah  Kaiis  to  say :  "  If  any  here
+Among  us  lay  a  shaft  of  poplar  wood
+Upon  his  bow  there  will  arise  a  fight
+Whereof  Afrasiyab  will  dream  all  night."
+
+
+§33
+
+How  Giidarz  and  Tus  went  before  Kam  on  the  Matter
+of  the  Kingship
+
+Kaiis,  on  hearing  these  wise  words,  dispatched
+A  messenger  to  summon  both  the  chiefs.
+He  went  before  the  captain  of  each  host,
+And  mildly  said  :  "  Experienced  veteran  !
+Put  not  fell  poison  in  a  cup  of  milk,
+Replace  thy  sword,  and  loose  thy  girdlestead  ;
+This  gain  of  ours  must  not  be  turned  to  loss.
+Let  both  the  captains  of  the  hosts  appear
+Before  me  and  without  a  retinue."
+
+They  went  before  the  Shah  and  Tus  spake  thus  :—
+"  If  now  the  Shah  is  weary  of  the  crown
+And  throne,  his  son  should  have  the  world,  the  might,
+The  diadem,  and  throne  of  majesty.
+
+Why  should  a  grandson,  when  there  is  a  son,  V.  754
+
+Put  on  the  crown  and  sit  upon  the  throne  ?
+Now  Fariburz  hath  Grace  and  royal  mien,
+And  girdeth  him  as  'twere  a  savage  lion."
+
+Giidarz  replied  :  "  O  thou  of  little  wit !
+No  sage  would  recken  thee  to  be  a  man.
+None  in  the  world  hath  equalled  Siyawush
+Or  been  so  great,  discreet,  and  reticent.
+Now  this  aspirant  is  a  son  of  his,
+*  The  same,"1  thou  wouldest  say, '  in  face  and  form.'
+If  on  his  mother's  side  he  is  from  Tiir
+
+
+404  THE  SHAHNAMA    OF  FIRDAUSI
+
+The  grandson  of  the  Shah  must  still  prove  just.
+
+There  is  not  in  Iran  or  in  Turan
+
+One  like  him  :  to  what  end  is  thy  crude  talk  ?
+
+Thine  eyes  have  never  even  seen  his  face,
+
+His  lofty  mien,  and  lovingkindliness.
+
+He  crossed  Jihiin  and  needed  not  a  boat,
+
+Such  were  his  royal  Grace  and  steadfast  purpose.
+
+As  with  Shah  Faridiin,  who  crossed  the  Arwand
+
+Without  a  boat,  his  courage  and  God's  Grace
+
+Preserved  him  from  the  hand  and  eye  of  ill.
+
+Moreover,  to  avenge  his  father's  blood,
+
+He  like  a  savage  lion  girdeth  him
+
+To  banish  toil  and  trouble  from  Iran,
+
+And  over-reach  astute  Afrasiyab.
+
+Suriish  the  glorious  said  to  me  in  sleep  : —
+
+'  His  Grace  will  still  the  war-cry  in  Iran,
+
+And  when  he  shall  adorn  the  crown  and  throne
+
+Of  chiefs,  the  world  will  cease  from  toil  and  hardship/
+
+Thou  art  no  alien ;  thou  art  from  Naudar :
+
+Thy  father  was  perverse  and  thou  art  mad.
+
+Had  I  my  weapons  I  would  drench  thy  neck
+
+And  breast  in  blood,  would  slay  thee  with  my  sword,
+
+v.  755        And  end  thy  silly  talk.     Thou  makest  discord
+Among  the  Kaians  for  thy  selfish  ends.
+The  king  of  kings  acknowledgeth  Khusrau,
+And  will  bestow  the  throne  on  whom  he  will.
+
+Tus  said  :  "  0  ancient  chief !  what  rancorous  words  !
+Though  thou  art  from  Kishwad  yet  I  am  Tus,
+Son  of  Naudar,  a  Shah  and  a  Shah's  son,
+And  if  thy  sword  will  penetrate  an  anvil
+My  spear  will  rend  the  centre  of  Mount  Kaf.
+
+v.  756       What  booteth  wordy  war  betwixt  us  twain  ?
+
+The  king  of  kings  doth  know  who  is  the  chief."
+Giidarz  replied  to  him  :  "  Talk  not  so  much  ;
+I  see  not  that  thy  glory  is  so  great."
+
+Then  said  he  to  Kaiis :  "  Experienced  Shah  !
+
+
+KAI  KAtlS  405
+
+Turn  not  from  rule  and  custom,  call  before  thee
+
+The  noble  youths,  and  let  thy  clear  mind  judge  ;
+
+Discern  between  them  which  is  worthier
+
+As  having  royal  mien  and  Grace  divine,
+
+And  give  to  him  the  crown  and  throne  if  thou
+
+Art  weary  of  the  crown  and  host  thyself."
+
+Kaiis  replied  to  him  :  "  This  is  not  well,
+For  both  alike  are  dear ;  when  I  have  chosen
+One  then  the  other  will  seek  vengeance  on  me.
+I  will  take  means  that  this  may  not  betide
+Among  our  folk.     Let  both,  each  with  a  host,
+Go  to  the  entering  in  of  Ardabil —
+
+The  march  where  is  the  castle  of  Bahman,  v-  757
+
+And  Ahriman  is  ever  making  war
+On  those  that  worship  fire.     No  archimages
+Dare  settle  there.     I  will  give  up  the  throne
+Of  kings  to  him  who  captureth  that  fortress."
+
+Gudarz  and  Tus,  contented  with  the  plan
+Of  their  clear-sighted  chief,  proposed  no  better,
+But  set  their  hearts  on  its  accomplishment,
+And  from  the  monarch's  presence  forth  they  went.
+
+
+§  34
+
+How  Tus  and  Fariburz  went  to  the  Castle  of  Bahman
+and  came  back  foiled
+
+Now  when  Sol  rose  in  Leo,  and  the  night
+Was  turned  beneath,  came  Fariburz  and  Tus
+In  haste  before  the  Shah,  and  Tus  spake  thus : —
+"  Now  will  I  take  the  drums,  host,  elephants,
+With  Kawa's  flag,  and  turn  the  ruddy  cheeks
+Of  foemen  pale.     The  Grace  of  Fariburz,
+And  royal  might,  shall  gird  me  royally."
+
+The  Shah  replied :  "  When  men  go  forth  to  war
+
+
+406  THE   SHAHNAMA    OF  FIRDAUSI
+
+Their  number  more  or  less  importeth  not,
+But  by  the  purpose  of  the  Lord  of  sun
+And  moon  they  may  have  triumph  and  success :
+So  if  it  seemeth  good  to  Fariburz,
+Array  thine  army  and  be  diligent."
+V.  758  Tus  with  the  golden  boots  upon  his  feet
+
+Went  forth  with  Kawa's  standard.     Fariburz,
+
+Son  of  Kaus,  was  at  the  army's  centre,
+
+While  Tus  went  first  with  troops  and  elephants.
+
+When  he  drew  near  the  castle  of  Bahman
+
+The  ground  seemed  breathing  fire,  the  lances'  points
+
+Flamed  in  the  heat,  the  men  of  war  were  scorched
+
+Beneath   their   mail.      Thou   hadst    said :    "  Earth    is
+
+burning,
+
+Air  is  a  net  of  rebel  Ahriman's  ! "
+The  ramparts  rose  to  heaven ;  none  knew  a  way
+To  battle  there.     Tus  said  to  Fariburz : —
+"  A  man  of  mettle  going  into  fight
+With  lasso,  falchion,  and  artillery,
+Will  strive  to  wreck  his  foes,  but  to  this  castle
+Is  no  approach,  at  least  we  know  it  not.
+Our  loins  are  scorching  underneath  our  mail,
+The  bodies  of  our  beasts  of  burden  burn.
+Have  no  anxiety  within  thy  heart :
+Thou  hast  not  ta'en,  and  none  can  take,  this  hold."
+
+They  went  about  the  castle  seven  days,
+And  found  no  entrance,  then  turned  back  again
+Despairing;  their  long  journey  proved  in  vain.
+
+
+§35
+
+How  Kai  KJiusrau  went  to  the  Castle  of  Bahman
+and  took  it
+
+When  tidings  reached  the  chiefs  and  old  Giidarz,
+The  offspring  of  Kishwad :  "  Tus  hath  returned
+
+
+KAI   KAUS  407
+
+With  Fari'burz,  prepare  thyself  to  go,"
+
+He  donned  his  mail,  shouts  rose,  the  world's  new  lord     v-  759
+Khusrau  came  forth.     They  set  a  golden  throne,
+Inlaid  with  emeralds,  on  an  elephant ;
+Around  the  prince  were  warlike  cavaliers
+With  flags  of  violet,  with  golden  boots,
+With  crowns  of  amber,  and  with  torques  of  gold
+Adorned  with  divers  gems.     Gudarz  thus  spake  :—
+"  This  is  the  first  of  days,  for  Kai  Khusrau,
+The  atheling,  accedeth  to  the  throne."
+The  atheling  sat  on  the  golden  seat,
+Crowned  and  with  mace  in  hand ;  he  with  Gudarz,
+Giv,  and  a  numerous  host  went  toward  the  castle.
+When  near  the  hold  he  girded  up  his  loins,
+Put  on  his  mail,  and,  mounted  on  his  charger,
+Dictated  to  a  scribe  in  lofty  terms
+A  letter,  which  they  wrote  in  royal  style
+With  ambergris,  and  in  the  olden  tongue  :—
+"  This  letter  cometh  from  the  Almighty's  slave —
+From  noble  Kai  Khusrau  the  atheling,
+Who,  freed  from  wicked  Ahriman's  constraint,
+Hath  cleansed  his  hands  from  ill  by  help  of  God,
+Who  is  eternally  the  Lord  most  high,
+The  Giver  of  our  daily  bread,  our  Guide,
+The  Lord  of  Mars,  of  Saturn,  and  the  Sun,
+The  Lord  of  Grace,  the  Lord  of  puissance,
+Who  gave  the  throne  and  Grace  of  kings  to  me,
+Fierce  lion's  claws  and  elephantine  bulk.
+The  whole  world  is  my  kingdom  ;  all  is  mine
+From  Pisces  downward  to  the  Bull's  head.     Now
+If  this  hold  be  of  Ahriman's  domain,
+The  enemy  of  Him  who  made  the  world,
+I  by  the  Grace,  and  Holy  God's  command,  V.  760
+
+Wilt  cast  it  headlong  from  the  clouds  to  dust ;
+And  if  it  is  a  hold  of  sorcerers
+I  can  dispose  of  them  without  a  host,
+
+
+4o8  THE   SHAHNAMA    OF  FIRDAUSI
+
+For  when  I  have  looped  up  my  leathern  lasso
+I  take  the  heads  of  sorcerers  in  the  noose ;
+While  if  the  blest  Surush  himself  is  there
+The  host  is  one  at  the  command  of  God.
+I  am  not  of  the  seed  of  Ahriman ;
+My  soul  hath  Grace,  my  body  lofty  stature  ;
+By  God's  command  I  will  reduce  the  castle,
+Such  are  the  orders  of  the  king  of  kings."
+
+Khusrau  then  took  a  lengthy  lance  and  fixed
+Thereto  the  haughty  letter  banner-wise  ;
+He  asked  for  naught  on  earth  but  royal  Grace,
+And  ordered  Giv  to  hasten  with  the  spear
+Up  to  the  lofty  ramparts,  saying  thus : —
+"  Take  thou  this  letter  of  admonishment,
+And  bear  it  to  yon  lofty  castle's  wall ;
+Plant  there  the  spear,  call  on  the  name  of  God,
+Then  quickly  turn  thy  rein  and  hurry  back."
+
+That  worshipper  of  God,  that  glorious  chief,
+Giv,  took  the  spear  in  hand  and  went  his  way.
+He  set  the  letter  by  the  wall,  delivered
+The  message  of  Khusrau,  pronounced  the  name
+Of  God  who  giveth  good,  and  fled  like  wind.
+That  noble  letter  vanished  with  a  crash,
+Dust  flew,  and  by  command  of  Holy  God
+The  rampart  of  the  stronghold  split  asunder ;
+Thou  wouldst  have  said :  "  It  thundereth  as  in  spring.
+A  shout  went  up  from  plain  and  mountain- top,
+The  earth  became  black  as  a  negro's  face,
+Sun,  Moon,  and  Pleiades  were  lost  to  sight,
+And  thou  hadst  said  :  "  A  murky  cloud  ariseth,
+The  air  is  like  a  mighty  lion's  maw."
+
+Then  Kai  Khusrau  urged  on  his  sable  steed,
+And  shouted  to  the  captains  of  the  host : —
+V.  761       "  Make  arrows  rain  in  showers  upon  the  hold,
+And  let  your  bows  be  like  a  cloud  in  spring."
+
+Immediately  a  cloud  rose  charged  with  hail,
+
+
+KAI  KAUS  409
+
+Hail  charged  with  death ;  full  many  a  dfv  was  slain
+And  many  venom-stricken  fell  to  earth.
+At  length  a  brilliant  light  began  to  shine,
+And  all  the  heavy  darkness  cleared  away ;
+A  glorious  breeze  sprang  up ;  the  heaven  above,
+And  all  the  face  of  earth,  began  to  smile ;
+The  world  became  as  'twere  the  shining  moon
+By  God's  name  and  the  prince's  Grace,  the  dfvs
+Went  at  his  bidding,  and  the  gate  was  seen.
+The  monarch  of  the  free  made  entry  there
+With  old  Giidarz,  the  offspring  of  Kishwad,
+And  saw  a  mighty  city  in  the  hold,
+All  gardens,  spaces,  halls,  and  palaces.
+
+Upon  the  spot  where  darkness  cleared  and  light
+First  shone  Khusrau  commanded  to  erect
+A  dome  ascending  to  the  darksome  clouds.
+It  was  ten  lassos  long  and  broad,  its  circuit
+Was  half  a  rapid  Arab  charger's  course,
+And  round  it  there  were  lofty  cupolas.
+He  brought  and  stablished  there  Azargashasp,
+And  round  it  settled  the  astrologers,
+The  archmages,  and  the  men  of  lore.     He  tarried
+Till  that  Fire-fane  attained  to  good  repute,
+And,  when  a  year  had  passed,  led  forth  his  force,
+Made  up  the  baggage-train,  and  called  to  horse.
+
+
+§36
+
+How  Kai  Khusrau  returned  in  Triumph
+
+When  news  of  Kai  Khusrau,  of  his  success,
+
+And  of  God's  Grace  upon  him,  reached  Iran
+
+The  world  was  in  amazement  that  the  prince  V.  762
+
+Had  won  that  Grace  arid  greatness ;  all  the  chiefs
+
+Went  forth  with  joy  and  brought  him  offerings.
+
+Prince  Fariburz  approached  him  with  a  band
+
+
+410  THE   SHAHNAMA    OF  FIRDAUSI
+
+Of  warriors  from  Iran  as  'twere  a  mountain,
+And  seeing  him  gat  off  his  rose-red  steed, l
+Whilst  brave  Khusrau  alighted  from  his  black.
+The  uncle  kissed  the  nephew  on  the  face,
+And,  having  set  for  him  a  throne  of  gold
+Inlaid  with  turquoise,  seated  him  thereon,
+And  joyfully  saluted  him  as  Shah.
+Then  Tiis  approached  him,  bringing  Kawa's  flag,
+The  drums,  and  golden  boots,  and,  having  kissed
+The  ground,  surrendered  them  to  Kai  Khusrau,
+And  said  :  "  See  who  deserveth  in  the  host
+The  drums,  gold  boots,  and  Kawa's  glorious  flag.
+Give  them  to  him ;  I  merit  them  no  more :
+Mine  errors  cannot  hope  for  aught  but  life."
+
+Thus  he  apologised,  abandoning
+His  foolish  enterprise.     The  conquering  prince*
+Received  him  well,  placed  him  upon  the  throne,
+And  said :  "  For  Kawa's  standard,  for  the  post
+Of  paladin,  and  for  the  golden  boots,
+I  see  none  fitter  in  the  host  than  thee,
+Thine  is  the  office  and  the  rank  is  thine ;
+I  have  no  wrath  against  thee  in  my  heart,
+Thou  needest  not  to  tender  an  excuse ;
+Thou  didst  not  wish  to  have  an  alien  Shah."
+
+The  atheling  both  shrewd  and  fortunate
+Departed  thence  upon  his  way  to  Pars,
+And  Kai  Kaiis,  when  he  received  the  news : —
+"  The  youth  of  lucky  steps  hath  come,"  went  forth
+With  cheeks  like  cercis- bloom  to  welcome  him :
+The  old  man's  heart  grew  young  with  happiness.
+v-  763       Khusrau  beheld  his  grandsire  from  afar,
+
+And  smiled  ;  his  heart  was  throbbing  with  delight ;
+
+He  went  afoot  and  offered  reverence.
+
+His  grandsire,  fain  to  look  on  him,  embraced  him
+
+1  At  the  present  day  the  horses  of  the  Shdh  and  of  his  sons  have
+their  tail-tips  dyed  red.     (C.  J.  Wills,  M.D.,  "  Persia  as  it  Is,"  p.  9.)
+
+
+KAI  KAUS  411
+
+With  smiles  and  praises  well  deserved,  and  said  :—
+"  The  Lion  hath  returned  victorious,
+Confounding  his  opponents'  hearts  and  eyes."
+
+They  sought  the  palace  and  the  world-lord's  throne —
+His  who  had  made  the  diadem  his  own.
+
+
+§37
+
+How  Kdus  set  Khusrau  upon  the  Throne  of  Kingship
+
+When  they  arrived  they  lighted  from  their  steeds
+
+With  heartfelt,  joyful  greetings  on  their  tongues.
+
+Khusrau  advancing  kissed  his  grandsire's  hand,
+
+And  laid  his  cheek  against  the  throne.     Kaus
+
+Took  the  young  prince's  hand,  right  joyfully
+
+Set  him  upon  the  Shah's  own  seat,  and  bade
+
+The  treasurer  bring  forth  *  the  royal  crown.
+
+He  kissed  Khusrau  and,  having  crowned  him,  quitted
+
+The  splendid  ivory  throne  and  sat  below.
+
+He  brought  an  offering  of  emeralds
+
+With  many  royal  jewels  from  his  treasures,
+
+Invoking  blessings  oft  on  Siyawush,
+
+Whose  image  was  Khusrau.     Then  all  the  nobles,  v.  764
+
+The  chiefs,  the  leaders,  and  great  men  assembled,
+
+They  called  down  blessings  on  him  as  their  Shah
+
+And  sprinkled  gold  and  jewels  over  him.
+
+The  use  and  fashion  of  this  world  it  is
+
+To  take  with  that  hand  and  to  give  with  this ;
+
+We  are  aggrieved  because  of  its  caprice,
+And  alternate  'twixt  summit  and  abyss.
+
+If  then  thy  heart  alloweth  thee  be  glad,
+Ensue  but  pleasure  while  it  may  be  had,
+
+Provide  thee  well  and  give  the  rest  away,
+And  suffer  not  one  moment  to  be  sad.
+
+
+412  THE   SHAHNAMA    OF  FIRDAUSI
+
+Enjoy  thy  wealth  and  be  not  niggardly,
+But  share  not  earnings  with  thine  enemy ;
+
+God  gave  to  thee  and  will  give  to  thy  child —
+That  sucker  springing  from  the  parent  tree.
+
+Perceivest  not  how  fully  earth  is  stored
+
+With  wealth  and  furnished  with  good  things  ?   The  Lord
+
+Abateth  nothing  in  His  bounteousness :
+Abstain  from  sorrow  and  let  joy  be  toward.
+
+
+1
+
+
+INDEX
+
+
+This  Index  and  the  Table  of  Contents  at  the  beginning  of  the  volume  are
+complementary.     References  to  the  latter  are  in  Roman  numerals.
+
+
+ABBREVIATIONS,  list  of,  5
+
+Abu  Raihdn    Muhammad.      See
+
+Albiruni
+Aden,  79
+Afrdsiydb,  ruler  of  Timin,  v  seq.,    \
+11,  13,  14,  16  seq.,  20,  79,
+81,    92,   98  seq.,   1 1 8,  127,
+129,  149,  184,  189,  242  seq.,
+257  seq.,  283,  286,  288,  296
+seq.,  312  seq.,  335,  347  seq.,
+360  seq.,  369,  373,  380,  381,
+386,  392  seq.,  401  seq.
+
+fights  the  Arabs  for  Trail  and
+takes  it,  92
+
+king  of  Turan  and  Chin,  99
+
+expelled  from  Tr£n  by  Kai
+Kdus  and  Rustam,  101
+
+fights  with  the  Seven  War-
+riors, in  seq.
+
+nearly    taken    prisoner     by
+Rustam,  14,  116,  354
+
+his  plot  against  Suhrab  and
+Rustam,  129
+
+his  gifts  to  Suhrab,  130
+
+identical  with   Astyages   in
+legend,  191
+
+sends  host  to  invade   Tran,
+224  seq.
+
+determines  to  sue  for  peace    j
+and  sends  hostages,  235  seq.    [
+
+receives  Zanga  and  consults    ',
+Piran,  253  seq.
+
+sends     Piraii     to     welcome    i
+Siyawush,  258
+
+plays  at  polo  with  Siydwush,
+264
+
+413
+
+
+Afra'siya'b,   marries   Farangis   to
+
+Siyawush,  275
+recalls  Siyawush  from  Gang-
+
+dizh,  285
+sends  Garsiwaz  to  Siyawush-
+
+gird,  289
+
+is  deceived  by  Garsiwaz  re-
+specting Siyawush,  296  seq.
+sends  Garsiwaz  to  summon
+
+Siydwush  and  Farangis  to
+
+court,  300  seq.
+
+attacks,  takes,  and  has  Siya-
+wush executed,  314  seq.
+appealed  to  by  Farangis,  317
+his   treatment  of    Farangis,
+
+320,  322
+
+appealed  to  by  Piran,  324
+spares  Farangis,  325
+
+and  her  son  Kai  Khusrau,
+
+327
+sees     and     questions     Kai
+
+Khusrau,  332
+sends    Surkha    against    the
+
+frdnians,  344
+marches  to  avenge  Surkha,
+
+348
+
+lights  with  Tiis,  353
+is  rescued  from  Rustam  by
+
+Human,  354
+
+crosses  the  sea  of  Chin,  356
+consults     Piraii    about    Kai
+
+Khusrau,  356
+returns,  362
+
+his  vengeance  on  fran,  363
+pursues    Kai    Khusrau,   388
+
+seq.
+
+disgraces  Piran,  390
+turns  back  at  the  Jihuu,  394
+
+
+414
+
+
+INDEX
+
+
+Afrigh,  king  of  Kharazm,  190
+Age,  old,  Firdausi's  lament  over
+
+his,  336
+Agni,  25
+
+Ahriman,  the  Evil  Principle,  34,
+42,  43'  5i>  53.  56,  78,  160,  208,
+214,  217,  250,  260,  303,  315,
+324,  358,  361,  374  seg.,  405  se?.
+Ahura,  Mazda  (Urmuzd),  25
+Airdn-v&70,  region  (I'rdn-vej),  189
+Albiriini,   Abu   Raihan  Muham-
+mad, 189
+his  account  of  Alfir  (Gang-
+
+rlizh?),  190
+Alburz,  mountain,  11,^23,  27,  79,
+
+96,  144,  336,  401
+Kaus'  buildings  on,  81
+Alexander,  the  Great  (Sikandar),
+
+8  seq.
+
+era  of,  190
+
+Alfir,  fortress  (Gang-dizh?),  190
+'All,  Khalifa,  337  and  note
+Alkiis,  Turanian  hero,  114
+Alp-Arselan,  Sultan,  219  note
+Amul,  city,  18,  104
+Audarinmn,  Turanian  hero,  264
+Angra  Mainyu  (Ahriman),  28
+Antiochus,  Sidetes,  80,  81
+Arabia,  100
+Arabs,  79,  81,  99
+
+rebel  against  Kai  Kdiis,  83
+fight  with  Afrdsiydb  for  I'rdn
+
+and  are  defeated,  92
+Ard,  day  of,  287
+Ardabil,  city,  336,  405!
+Ardshir  Pdpakdn,  Shah,  10
+Arjdsp,  ruler  of  Turan,  9,  29
+Arjdsp,  Turanian  hero,  264
+Arnold,   Matthew,   his   "Sohrab
+
+and  Kustum,"  118
+Artang,  the,  19  and  note
+Arwand,  river  (the  Tigris),  392, 404
+Arzhang,  a  div,  vi,  41,  43,  44,  56
+
+seq.,  63,  64
+
+Asfandiyar,  frdniaii  hero,  29
+Asp,  as  Persian  termination,  9
+Astyages,    king    of    the    Medes
+(Manda),  190,  191
+
+
+Astyages,  identical  with  Afrasi-
+yab  in  legend,  191
+
+Athenaeus,  10
+
+Azar  (Azarbaijan),  195
+
+Azarbdijdn,  province,  336
+
+Azargashasp,  spirit  of  the  light-
+ning, 57,  294,  345
+
+Azi,  Dahaka  (Zahhak),  81
+
+
+B
+
+BABYLON,  80
+Babylonia,  80,  81
+;  Badar,  battle  of,  337  note
+|  Bahar,  fire-temple,  286
+Bahman,  Shdh,  9
+Bahman,   castle  of,  x,  336,  405
+
+seq.
+
+Bahrdm,   I'ranian  hero,   viii,  33,
+
+35,  38,  58,  62,  85,  127,  138,
+
+144,  158,  249,  257,  258,  271,
+
+290,  318,  338,  340
+
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+accompanies  Siyawush
+
+against  Afrasiyab,  226
+put  in    command    by  Siya-
+wush, 250
+Bahrdm,  moralist,  quoted  by  Fir-
+
+dausi,  1 86
+Balkh,  city,  9,  101,  228,  229,  231,
+
+242,  246,  249
+Baluch,  Bahichistdn  (Makrdn),  80,
+
+226
+Baniigashasp,  daughter  of  Rus-
+
+tarn  and  wife  of  Giv,  365
+stays  with  Rustam  while  Giv
+
+seeks  Kai  Khusrau,  365
+her  suitors,  383,  384
+rejoins  Giv,  395
+Barbar,  Barbaristan,  country,  vi,
+
+79,  82  seq.,  go,  93,  98  seq.
+identification  of,  79
+king  of,  83,  94,  95
+
+taken        prisoner        by
+
+Gura"za,  97
+
+Barman,  Turdnian  hero,  vii,   18,
+119,  129,  130,  150,  349
+
+
+INDEX
+
+
+415
+
+
+B;irman,  his  death  and  revival  in
+legend,  119
+
+marches  on  f  nin,  228
+
+defeated  by  Siyawush,  229
+Barzin,  I'nlnian  hero,  12,  22,  73
+Barzin,  lire-temple,  107
+Berbera,  trading-station,  79
+Bid,  a  div,  44,  54,  55,  64,  93
+Bihzild,   the  horse  of   Siyitwush,
+
+ix,  312,  374  seq.  391
+Birth-mark  of  the  Kaian  race,  372
+Bistun,  mountain,  128
+Bizhan,  f  rani  an  hero,  366  and  note
+Black  Stone,  the,  163  and  note
+Bukhara,  city,  241
+Bull,  Bull-fish,  mythological,  128,
+
+407
+Bundahish,    Pahlavi   treatise,   3
+
+note,  ii,  26,  81,  118,  189
+Buzgiish,  name  of  a  tribe,  55  and
+note
+
+
+CESAR,  383
+
+Cambyses,  father  of  Cyrus,  190
+identical  with  Siyawush  in
+
+legend,  191
+Canopus,  star,  203
+of  Yaman,  203
+Carnelians,  of  Yaman,  123
+Caspian,  sea,  189,  336
+Castle,    White,    I'ranian  strong-
+hold, vii,  118,  131,  138
+evacuated  by  Gazhdaham,  137
+Castle  of  Bahman,  x,  336, 405,  406
+Central  clime,  the,  27
+Chach,  city  of  Turan  famous  for
+its    bows   (Tashkand),   241,
+258,  358
+
+Chares,  of  Mytilene,  10
+Chevy  Chase,  82
+Chin  country  (often  =  Turdn),  77,
+82,   in,  143,  154,  156,  237
+277,    286,    287,    289,    297
+305.  307,  357,  359,  383-  394
+sea  of,  12,  256,  276,  285,  356,
+357
+
+
+Chin,  brocade  of,  39,  203,  262,  290
+
+king  of  Turanand  (Afrdsiyab),
+99
+
+helm  of,  132
+
+ornaments  of,  232
+
+cloth  of  gold  from,  275
+
+Khan  of,  383
+Clime,  the  central,  27
+Climes,  the  seven,  15  note,  372
+"  Cloud,"  name  given  by  Rustam
+
+to  himself,  53
+
+Cloud,  of  bale  (Afrasiyab),  13
+Contents,  table  of,  v
+Courses,  the  Seven,   of  Rustam,
+
+v,  29,  44  seq
+Ctesias,  9
+Ctesiphon,  city,  80
+Cyrus,  the  Great,  9,  190,  191
+
+identical  with  Kai  Khusrau
+in  legend,  191
+
+
+D
+
+
+DA£VAS  (divs),  28
+
+Daghwi,  desert,  193
+
+Dakiki,  3  note,  8
+
+Damaghan,  city,  15
+
+Damur,  Turanian  hero,  296,  319
+overthrown  by  SiyaAvush,  295
+advocates  execution  of  Siya-
+wush, 317
+
+Dara,  Shall,  9
+
+Diirdb,  Shall,  9,  11
+
+Darband,  pass  of,  336
+
+Darmesteter,   Professor,   on   Fir-
+dausi's  geography,  79,  80
+
+Death,  early,  Firdausi's  justifica-
+tion of.  119
+
+Deipnosophistae,  10
+
+Dina-i  Mainog-i  Khirarf,  Pahlavi
+treatise,  189
+
+Dinkard,  Pahlavi  treatise,  26,  81
+
+Div,  demon  (DaeVa),  27,  33,  34,
+38,  41  seq.,  57  seq.,  68,  73,
+
+IOI,    IO2,   144
+
+title  of  honour,  29
+=  Ahriman,     46,     324,     342,
+370,  386,  400
+
+
+4i6
+
+
+INDEX
+
+
+Div,  Black,  the,  53
+
+White,  the,  vi,    27,    39  seq.,
+43,  44.  54,  55,  58  seq.,
+66,  93,  163,  373
+defeats  Kails,  40
+his  blood  cures  blindness,
+
+58,  62
+
+song  of  a,  31
+Divs,  Avhite,  27
+Dragon,   slain  by    Rustam   and
+
+Rakhsh,  48  seq.
+
+Drought  and  famine,  in  1'rdn,  363
+Duncker,  Professor,  his  views  as
+to  date  of  the  Zandavasta,  9
+Dynasty,  Kaian,  Kaianian,  7  seq.
+Pishdddian,  9,  336
+Sdsdnian,  10
+
+
+E
+
+EGYPT  (Misr),  80
+Ekbatana,  city  (Hamaddn),  191
+Elburz,  mountain.     See  Alburz
+Elephantine,  the  (Rustam),  65,  67
+Elixir,  vii,  177,  178
+Euphrates,  river,  80
+Euxine,  sea,  191,  336
+Eyes,  metaphor  for  children,  297,
+328
+
+
+FAGHFIJR,  dynastic  title  of  the
+princes  of  Chin  and  Machin,
+
+383
+
+Famine  and  drought,  in  Tran,  363
+Fararaarz,  son  of  Rustam,  ix,  319,
+
+341  seq.,  349,  351,  354
+takes  Surkha  prisoner,  345
+Farangis,  daughter  of  Afrasiyab,
+wife  of  Siyawush,  mother
+of  Kai  Khusrau,   viii  seq.,
+1 88,  288  seq.,  299,  306,  373,
+376  seq.,  381,  386  seq.
+identical   with    Mandane   in
+
+legend,  191
+
+marries  Siydwnsli,  270  seq.
+summoned  to  court  by  Afrd-
+siydb,  300  seq.
+
+
+Farangis, confided  in  by  Siydwush,
+
+307  seq.
+
+appeals  to  Afrasiyab,  317  seq.
+imprisoned,  320
+sentenced,  322
+saved   and  taken   charge  of
+
+by  Pirdn,  324  seq.
+gives  birth  to  Kai  Khusrau,
+
+326
+
+dwells  at  Siydwushgird,  333
+instructs  Kai  Khusrau  how
+
+to  find  Bihzdd,  374
+gives  Giv  the  mail  of  Siya-
+wush, 376
+
+crosses  the  Jiluin,  392
+provided  for  by  Kai  Kaiis,  399
+Farhdd,  chieftain,  63  seq.,  73,  85,
+
+138,  316,  338,  340
+goes  as  envoy  to  the  king  of
+
+Mazandaran,  63
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  1 1 1
+Fariburz,  son  of  Kai  Kdiis,  x,  62,
+
+199.316,335,  336,  340,  358,
+
+405  seq.,  409
+his   encampment    described,
+
+.I5S
+
+his  claims  to  the  throne  sup-
+ported by  Tiis,  401
+recognises  Kai   Khusrau   as
+
+Shah,  410
+
+Faridiin,  Shah,  11,  17,  19,  21,  29,
+33,  36,  37,  99,  i93»  i95»  204,
+237,  274,  318,  327,  392,  400,
+404
+
+saying  of,  219  and  note
+Farshidward,  Turanian  hero,  323,
+summons    Pirdn      to      save
+
+Farangis,  322
+
+Farud,  son  of  Siyawush,  viii,  291
+Fight  of  the  Seven  Warriors,  vi,
+
+82
+
+Firdausi,  ix,  9,  10,  82,  119
+his  geography,  28,  79,  80
+
+Professor      Darmesteter
+
+on,  79,  80
+
+proud  of  his  version  of  the
+Story  of  Siydwnsh,  188,  191
+
+
+INDEX
+
+
+417
+
+
+Fire,  ordeal  by,  vii,  218  seq.
+Firiizi  Kuh,  mountain  and  pass,
+
+28
+
+Fish,  mythological,  15,  299
+Flying-machine  of  Kai  Kaiis,  103
+Frangrasyan  (Afrdsiydb),  81,  189
+Frdsydv  (Afrdsiydb),  81
+Fravashi,  immortal  principle,  82
+
+G
+
+GANG,  stronghold,  241,  261,  309,
+
+344,  357,  369
+sea  of,  362
+Gang-dizh,  stronghold,  viii,  189,
+
+190
+
+possible  identification  of,  189
+meaning  of,  190
+building  and  description  of,
+
+279  seq.
+
+Gang-i-Siyawush.    See  Gang-dizh
+
+Garsiwaz,   brother  of  Afrdsiydb,
+
+viii,  188,  189,  193,  195,  228,
+
+231  seq.,  249,  253,  264,  268,
+
+269,  286,  289  seq.,  313  seq.
+
+defeated    by  Siy&wush,   229
+
+seq.
+sues  for  peace  to  Siydwush,
+
+237  seq.
+fails   to   string    the  bow    of
+
+Siydwush,  266
+visits  Siydwush,  289  seq.
+envies  Siydwush,  292  seq.
+challenges  Siydwush,  294
+slanders  Siydwush,  296  seq.
+betrays  Siydwush,  301  seq.
+compasses  the  death  of  Siyd-
+wush, 315  seq.
+charged  with  the   execution
+
+of  Farangis,  322
+Garshasp,  Shall,  336
+Gdthas,  8
+
+Gazhdaham.l'ranian  hero,  vii,  131,
+132,  134,  138,  139,  145,  146
+his  description  of  Suhrab,  136
+evacuates  White  Castle,  137
+Genealogical  tables,  3,  4
+Geography,  Firdausi's,  28
+VOL.   II.
+
+
+Geography,  Firdausi's,  Professor
+
+Darmesteter  on,  79,  80
+Ghundi,  a  div,  44,  54,  55,  93
+Glair,  district,  101
+Gildn,  district,  226,  293
+Girduni,  Sirdarra,  pass,  28
+
+Sawachi,  pass,  28
+Giv,  franiau  hero,  ix,  x,  25,  33,
+35>  38,  39,  58.  62,  70,  73,
+85,  91,  127,   138  seq.,  148,
+151,  158,  160,  188,  193,  197,
+271,  318,  319,  335,  338,  340,
+349,351.  362,  3«8  seq.
+harries  Mdzandardn,  39
+taken    prisoner    in    Mdzan-
+dardn, 40
+
+released  by  Rustam,  58
+taken    prisoner     in     Hdmd-
+
+vardn,  90
+
+released  by  Kustain,  97
+goes  in  search  of  Kai  Kdtis,  104
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+bears    letter    from  Kdus    to
+
+Rustam,  139
+his   encampment   described,
+
+155
+
+son-in-law  of  Rustam,  155
+helps  to  saddle  Rakhsh  for
+
+the  fight  with  Suhrdb,  160
+his  account  of  Suhrab,  166
+quarrels  with  Tiis  over   the
+
+future  mother  of  Siydwush,
+
+194
+
+meaning  of,  335
+sent  by  Gudarz  to  seek  Kai
+
+Khusrau,  364  seq.
+finds  Kai  Khusrau,  370  seq.
+receives  the    mail  of    Siya-
+
+wush,  377
+his  exploits  in  defence  of  Kai
+
+Khusrau,  378  seq.
+tells  how  he  captured  Pirdn's
+
+wife  and  sister,  383
+his  wife,  384
+his  sister,  384
+overthrows    Piran    and     his
+
+host,  385
+
+2D
+
+
+4i8
+
+
+INDEX
+
+
+Giv,  releases  Piran,  387
+at  the  Jihun,  391  seq.
+announces     Kai     Klmsrau's
+
+arrival  in  I'ran,  394
+accompanies  Kai  Khusrau  to
+
+Ispahan,  396
+
+rewarded  by  Kai  Kaus,  399
+goes  on  an  embassy  to  Tus,
+
+400
+
+bears  Kai  Klmsrau's  letter  to
+the  castle  of  Bahman,  408
+Givgan,  Fran  5  an  hero,  109,  155
+Glory,  the  divine.     See  Grace
+Grace,  or  Glory,  the  divine,  81,
+82,  90,  99,  101,  102,  106,  207,
+209,  265,  283,  289,  302,  327,
+356,   358,  361,  364,   37i,  373.
+seq.,  382,  386,  392,  399,  401
+seq.,  407  seq.
+
+Greek  history  and  legend  in
+relation  to  Persian  history
+and  legend,  9
+
+Gudarz,  I'rdnian  hero,  ix,  x,  33,
+35,  38,  62,  70,  73,  83,  90,  91,
+127,  138,  142,  157,  177,  178,
+193,  250,  286,  290,  316,  318,
+335.  338,  340,  349,  37i  seq.,
+384,  388,  394,  406
+taken  prisoner  in  Mazan-
+
+danln,  40
+
+released  by  Rustarn,  58
+receives    Ispahan    from  Kai
+.  Kaus,  78
+taken  prisoner  in  Hanutvaran,
+
+90
+
+released  by  Rustain,  97
+censures  Kai  Kaus,  105
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+mediates  between  Kai  Kaiis
+
+and  Rustam,  144  seq.
+his    encampment   described,
+
+153
+
+his  sons,  158
+consoles    Siyawush     for    his
+
+mother's  death,   199
+
+
+Gudarz,  appointed  ruler  of  Sughd
+and  Sipanjab,  358
+
+returns  to  Tran,  362
+
+sees  Surush  in  a  dream,  363
+
+sends  Giv  to  seek  for  Kai
+Khusrau,  364
+
+hears  of  Kai  Klmsrau's  arri-
+val in  I'ran,  395
+
+welcomes  Kai  Khusrau  and
+Giv,  396
+
+accompanies  them  to  Istakhr,
+
+399
+
+his  dispute  with  Tus,4OO  seq.
+goes   with  Kai   Khusrau  to
+
+the  castle  of  Bahman,  407
+Gulshahr,  wife  of  Piran,  269,  275,
+
+276,  288,  326,  387,  390
+Gulzaryun,  river  (the  Jaxartes?),
+
+358,  381  _
+
+Guriiza,  I'ranian  hero,  73,  340
+takes  king  of  Barbar  prisoner,
+
+97
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+his   encampment    described,
+
+155
+
+Gurdafrid,  daughter  of  Gazhda-
+hain,  vii,  119,  131  seq.,  138
+beguiles  Suhrab,  133
+Gurdya,  sister  of  Bahrain  Chu-
+
+bina,  119
+
+Gurgin,  I'ranian  hero,  33,  35,  62,
+7°,  73»  85,  90,  127,  138,  144,
+316,  340,  394
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+Griirwi,   Turanian    hero,   ix,   296,
+
+314,  319,  338,  340
+challenges  and  is  overthrown
+
+by  Siyawush,  295
+advocates  the  execution   of
+
+Siyawush,  317
+carries  out  the  execution  of
+
+Siyawush,  320
+
+Gustaham,  son   of  Gazhdaham,1
+12,  58,  177
+
+
+1  This  is  assumed  in  all  cases  where  it  is  doubtful  which  Gustaham  is
+meant.     Cf.  vol.  i.  p.  369.
+
+
+INDEX
+
+
+419
+
+
+(Jusialiain.    lakes    part    in   the
+Fight  of  the  Seven   War-
+riors, 107  seq.
+(iustaham,  son  of  Naudar,   127,
+
+336
+Gushtiisp,  Shah,  9
+
+in  Rum,  story  of,  10
+
+
+II
+
+
+HAFT  Khan,  29
+Khwdn,  29
+Man,  29
+Hajir,  I'ranian  liero,  vii,  131,  134,
+
+136,  140,  349
+
+taken  prisoner  by  Suhral),  131
+misleads  Suhrdb,  152  seq.
+his  life  attempted  by  Rnstani,
+
+176
+
+Hainavariin,  country  (Yaman),  vi,
+25,  78  seq.,  93,  94,  96*69.,
+139,  143  seq.,  213,  215,  218,
+250
+
+king  of,  vi,  85  seq.,  93,  207  and
+note
+
+asks  quarter  of  Rustam,
+
+97
+
+releases  Kai  K.liis,  97
+Handgrip,  as  test  of  strength,  64,
+
+66,  67
+Hal-tit,  city,  101
+
+desert  of,  228
+Harpagus,  190
+
+identical      with      Piran     in
+
+legend,  191
+Hang,  his  theory  of  the  origin  of
+
+Zoroastrianism,  8
+Herodotus,  9
+
+his  account  of  the  youth  of
+
+Cyrus  the  Great,  190
+Himyar  =  Hi'ima" varan  ( Yaman),79
+Hind,  Hindustan,  92,  228,  287,  289
+Hindu  Kush,  80
+Hirbad,   keeper  of  the  women's
+
+house  of  Kai  KaYis,  202,  206
+Horses,  of  Persian  royalty,  how
+
+distinguished,  410  note
+Humai,  Shall,  9,  10
+
+
+Human,  Turanian  hero,  vii,    129,
+130,  132,  148,  150,  165,  264,
+
+390
+his  account  of  Rustam,   165,
+
+169
+reproaches  Suhrdb  for  sparing
+
+Rustam,  171
+throws  the  blame  for  Suhnib's
+
+death  on  Hajir,  176
+withdraws  from  I'nin  under
+
+safe  conduct,  176,  181,  182,
+
+184
+rescues        Afrasiyab        from
+
+Rustam,  354,  355
+persuades  Afrasiyilb  to  aban-
+don   the    pursuit    of    Kai
+
+Khusrau,  394
+Hushang,  Shall,  204
+Hyrcania,  country  (Mazandara'u),
+27
+
+
+iBLis,  the  Muhammadan  Devil,
+
+vi
+occasional  substitution  of  for
+
+Ahriman,  82,  no
+Ighriras,  brother  of  Afrasiyab,  18,
+
+20,  303,  304
+tndra,  god,  25
+Indus,  river,  21
+fraj,  youngest  son  of  Faridiin,  8,
+
+1 6,  19,  20,  237,  297,  302
+Irani,  garden  of,  78
+fran,  vi,  ix,  17  wq.,  33,  35,  39,  76,
+
+78  and  passim
+Shahr,  81
+fought  for  by  Afrasiyilb  and
+
+the  Arabs,  92
+invaded  by  Snhrab,  130
+franians,  the,  9,  20,   27,  42  and
+
+passim
+
+Ispahan,  city,  x,  394,  399
+given  to  Gi'idarz,  78
+arrival  of  Kai  Khusrau   at,
+
+396
+
+Ispuruz,  mountain,  38,  56,  57
+Istakhr,  city,  v,  n,  22,  28,  399
+
+
+42O
+
+
+INDEX
+
+
+JAHN,  son  of  Afnfeiydb,  264,  268
+Jdmasp,   chief  minister  of  Shdh
+
+Gushta'sp,  9
+Jamshid,  Shall,  33,  37,  168,  204,
+
+358,  399
+
+Jarira,  daughter  of  Pintn,  wife  of
+Siya'wush,  mother  of  Farud,
+i 88,  269
+
+marries  Siya'wush,  268  seq.
+
+birth  of  lier  son  Farud,  291
+Jirmn,  river  (the  Oxus),  x,  15,  19
+
+seq.,   99,  229,  237,  248,  258,
+
+311,  340,  390,  394,  399,  404
+Jupiter,  planet,  115
+Juya",  a  div,  71
+
+slain  by  Rustam,  72
+
+K
+
+KABAB,  small  pieces  of  meat
+skewered  together  for  roast-
+ing, 103
+
+Kdbul,     Kjlbulistsin,     city     and
+country,  12,  18,  21,  92,  228,
+260,  271,  341
+Ktichar  Bashi,  city  in  Tuntn,  258,
+
+260,  361
+
+Ksif,  mountain,  83,  404
+Kai,  meaning  of,  8
+Kaian,  Kaians,  race  and  dynasty,
+
+8,  9,  22,  404
+birth-mark,  372
+stature,  375
+Kaia"nian,    Kaianians,    race    and
+
+dynasty,  v,  7  seq.
+Kai  Arash,  son  of  Kai  Kubsid,  23,
+
+204,  205
+
+Kai  Armin,  son  of  Kai  Kubsid,  23
+
+Kai  Kdiis,  Shdh,  v  seq.,  8,  10,  n,
+
+23  seq.,  33  seq.,  54  seq.,  61
+
+seq.,  log,  no,  117,  127, 129,
+
+13°.  233.  243  seq.,  264,  269
+
+seq.,  273,  284,  286,  290,  296,
+
+301,  316,  318,  319,  335,  347,
+
+361,  364,  371,  373,  383,  401
+
+tempted  by  divs,  30  seq.,  81,
+
+102
+
+
+Kai  KaYis,  goes  to  Mount  Kitf,  83
+defeats  Afrdsiyjib  and  regains
+
+I'raX  100
+makes    Rustam    paladin    of
+
+paladins,  101
+his     buildings     on     Mount
+
+Albnrz,  81,  101
+his  flying-machine,  103
+his  fall  from  the  sky,  104
+his  repentance,  105
+hears  of  Suhnib  and  summons
+
+his  chiefs,  136  seq.
+bids  Tus  hang  Rnstam  and
+
+Giv,  143
+
+his  apology  to  Rustam,  147
+his    encampment    described,
+
+153
+
+his      camp-enclosure      over-
+thrown by  Suhrftb,  160
+refuses  to  cure  Suhrdb,  178
+attempts  to  console  Rustam,
+
+181
+marries  the  future  mother  of
+
+Siya'wush,  194
+
+receives  Siy  a"  wush  at  court,  1 98
+bestows  Kuhistiin  upon  him,
+
+199
+his  conduct  in  thecaseof  Siyit-
+
+wush  and  Siiddba,  200  seq.
+sends     SiyaAvush     to     fight
+
+Afra'siya'b,  225
+rejects  terms  of  peace  and
+
+quarrels     with      Rustam,
+
+244  seq.
+hears    of    the    defection    of
+
+Siya'wush,  258
+his    grief    at    the    death    of
+
+Siyawush,  337
+hears  of  Kai  Khusrau's  arrival
+
+in  Iran,  395
+receives  him,  397
+rewards  Giv,  399
+provides  for  Farangis,  399
+arbitrates  between  Tiis  and
+
+Gudarz,  403  seq.
+welcomes  Kai  Khusrau  on  his
+
+return  from  the  castle  of
+
+Bahman,  410
+
+
+INDEX
+
+
+421
+
+
+K;ii  Khusrau,  Shah,  ix,  x,  9,  25,
+104,  189,  190,  310  set/,,  334
+seq.,  386  seq.
+
+fravashi  of,  82
+
+identical  with  Cyrus  the
+Great  in  legend,  191
+
+prophecies    respecting,     310,
+
+372,  390
+
+birth  of,  325  seq.
+account  of  his  youth,  328  seq.
+questioned  by  Afrdsiyal),  332
+dwells  at  Siyawushgird,  333
+is  sent  to  Khutan,  356
+
+Mttchin,  357  note
+described  by  Surush,  363
+Gudarz  sends   Giv  to  seek,
+
+364  seq.
+recalled,  370
+found  by  Giv,  370
+shows  his  birth-mark  to  Giv,
+
+372
+
+saves  Piran's  life,  387
+at  the  Jihun,  391  seq.
+arrives  at  Zani,  394
+visits  Gudarz  at  Ispahan,  396
+tells  his  story  to  Kai  Kaus,  397
+praises  Giv  to  Kai  Kaiis,  398
+goes  to  Istakhr,  399
+enthroned  as  Shall,  400,  411
+supported    by    Gudarz    and
+
+opposed  by  Tus,  400  seq.
+his  letter  to  the  defenders  of
+
+the  castle  of  Bahman,  407
+establishes    Fire-worship    at
+
+the  castle  of  Bahman,  409
+pardons  Tus,  410
+Kai  Kubad,  Shah,  v,  8,  11,  12,  14,
+
+16,  iSscq.,  26,  33,  34,  36,  37,
+
+87,  143,  144,  249,  260,  270,
+
+274,  327,  336,  363,  390,  394
+his  origin,  n  and  note
+makes  peace  with  Afrasiyab,
+
+20
+
+his  gifts  to  Zal  and  Rustam,  21
+Kai  Pashin,  son  of  Kai  Kubttd,
+
+23,  204,  205
+Kalahur,  a  div,  67
+Kalat-i-Nadiri,  a  stronghold,  189
+
+
+Kalnr,  mountain,  328
+Kangdez  (Gang-di/h),  189,  190
+Kangha,  country  (Kh;ir;i/m),  189,
+
+190
+K;iran,  I'ranian  hero,  11  seq.,  18,
+
+22,  119
+
+Kargasars,  tribe,  98
+Kariman,  I'rauian  hero,  father  of
+
+Nariman,  125
+
+Kashmir,  country,  271,  338
+Kaiis.     See  Kai  Kdiis
+Kavi  (Kai),  8,  25
+
+Usa,  25
+Kitvyau  (Kaian),  8
+
+Ushana",  25
+K;lwa,  flag  of,  12,  227,  341,  349,
+
+354,  400,  402,  405,  406,  410
+Keresavasda  (Garsiwaz),  189
+Kharazm,   country  (Khiva),  189,
+
+190
+
+Kharazmians,  people,  190
+Kharnid.  I'ranian  hero,  n,  22,  33,
+
+73,  340
+
+Kharzarwiin,  Turanian  hero,  18
+Khata,  region  in  Turan,  357
+Khazar,  region,  285
+Khiva,  country  (Kharazm),  190
+Khshathro  -  saoka,       stronghold
+
+(Gang-dizh),  189,  190
+Khurasan,  province  of  fntn,  399
+Khusrau.     See  Kai  Khusrau
+Khutan,  region  in  Turjtn,  ix,  277,
+
+288,  325,  357,  383
+Kishwdd,  frdnian  hero,  11,  12,  18,
+
+22,  33,  70,  73,  I07>  112,  138,
+
+318,  384,  399,  404,  409
+Kubad,  Shall.     See  Kai  Kubdd
+Kuch,  region,  226
+Knhistin,  Transoxania  (Md  wara
+
+'u'n-Nahr),  199
+Kuhram,  Turanian  hero,  349
+Kulbad,   Ti'ininiau   hero,   ix,    18,
+264,  388
+
+his    death    and    revival    in
+legend,  119
+
+pursues  Kai  Khusrau,  377  seq.
+Kum,  city  in  I'ran,  399
+Kumar,  cape,  103  and  note
+
+
+422
+
+
+INDEX
+
+
+LAHHAK,  Ttirdnian  hero,  323  note
+summons  Pir.in  to  save  Far-
+
+angis,  322
+
+Leo,  constellation,  405
+Luhrasp,  Shdh,  9
+
+
+M
+
+
+MACH/N   (China),   357  note,   370,
+
+394
+
+Machine,  flying,  of  Kai  Kaiis,  103
+Magi,  priests  of  the  Medes,  190
+advocates    of    next  -  of  -  kin
+
+marriage,  189
+Makran,    country    (Baluchistdn),
+
+80,  82
+Malcolm,  Sir  John,  his  version  of
+
+Suhrab,  118
+Man,  of  Sigz  (Rustam),  100  and
+
+note
+Manda,  empire  of  the,  =  empire  of
+
+the  Medes,  191
+Mandane,  daughter  of  Astyages,
+
+190
+identical    with    Farangis    in
+
+legend,  191
+
+Mani,  heresiarch,  19  note
+Manicheism,  19  note
+Mark,  birth,  of  the  Kaian  race,
+
+372
+Marriage,  next-of-kin  (Khvaituk-
+
+das),  189
+
+Mars,  planet,  247,  407
+Marv,  city,  101
+Marvrud,  river,  228
+Mashad,  city,  189
+Ma"    wara  'u'n-Nahr    (Kuhistan,
+
+Transoxania),  19,  199
+Mslzana  (Mtlzandarftn),  28
+Ma"zandaran,  country  (Hyrcania),
+v,  vi,  25  seq.,  33,  34,  36  scq.,
+45.  55'  6o  seq.,  66  seq.,  75,  76,
+78,  81,  93,  105,  139,  143  seg.,
+293
+
+
+Mazandartin,    approach    to    from
+rra"n,  28
+
+description  of,  27
+
+king  of,  vi,  39,  43,  54,  62  seq.
+
+his  interview  with  Rustam,67
+
+his  fight  with  Rustam,  73
+
+turns  himself  into  a  rock,  74
+
+death  of,  75
+
+Mazda,  Ahura  (Urmuzd),  81
+Medes,  empire  of  the,  =  empire  of
+
+the  Manda,  191
+j  Median,  empire,  9
+Mihrdb,   king  of  K;tbul,    12,    14
+
+18,  21
+Minuchihr,  Shdh,  19,  29,  33,  36,
+
+37,  302,  318,  400
+
+Misr  (Egypt),  79,  So,  84,  94,  96,
+143,  286
+
+king  of,  94,  95,  98
+Mithridates  I.,  80
+Muhammad,  the  Prophet,  337  note
+Mytilene,  Chares  of,  10
+
+N
+
+|  NARIMAN,    fntniau  hero,   father
+
+of  Sdm,  49,  115,  119,  125,  126,
+
+162,  354
+Narmpai,  name  of  a  tribe,  55  and
+
+note,  63,  64
+Narwan,  forest  of,  341
+!  Nastihan,  Turanian  hero,  ix,  264
+
+pursues  Kai  Klmsrau,  377  seq.
+Naudar,    Shah,    20,    36,   70,    153,
+
+336,  400,  404
+Nawand,  place,  107
+Ndryosang,  82
+
+Nile,  river,  96,  153,  217,  310,  402
+Nimriiz,  country,1  21,  34,  69,  77,
+
+80,  84,  338,  395
+Nishapiir,  city,  101
+
+O
+
+ORDEAL  by  fire,  218  seq.
+Ox  of  Kai  KaYis,  26
+Oxus,  river  (Jilmn),  190
+
+
+1  See  vol.  i.  p.  396  note.
+
+
+INDEX
+
+
+423
+
+
+I 'AH  LAV,  district,  77,  102
+
+Pahlavi,  texts,  27
+
+Pdrs,  country,  v,  23,  28,  76,  101,
+
+226,  275,  286,  362,  410
+Parthian  kingdom,  80  ,
+
+Pashang,  ruler  of  Tunin,   v,  n,
+
+13,  18,  20,  21,  297,  401
+Piiuriisliasp,  9
+Persia,  191
+Persian,  empire,  9
+
+history  and  legend  in  rela-
+tion to  Greek  history  and
+legend,  9
+Persians,  190
+
+Phosphor,  morning  star,  123
+Phraates  II.,  So,  81
+Pilsam,    Turanian    hero,    vi,    ix,
+112  seq.,  320,  323  note,  350
+seq.
+
+pleads  for  Siyawush,  315
+summons      Pintn     to     save
+
+Farangis,  322
+
+Piran,  Turanian  hero,  viii  seq.,
+112,  188,  257  seq.,  264,  277,
+278,  282  scq.,  291,  311,  315,
+316,  322  seq.,  335,  350,  370,
+377,  379«egr.,397,  398
+identical  with  Harpagns  in
+
+legend,  191
+
+advises  Afnisiyilb  to  receive
+
+SiyaAvush,  253  note  and  scq.
+
+goes   to  welcome   Siyawush,
+
+258  seq.
+
+arranges  marriages  for  Siya-
+wush, 268  seq.
+entertains  Siyawush,  278
+offers   to   help   Siyawush   to
+
+build  Gang-dizh,  278
+the  prophecy  of  Siyawush  to,
+
+282  seq.
+
+goes  to  collect  tribute,  285
+visits  Siyawush,  287
+
+Afnisiyab,  288
+summoned  to  save  Farangis,
+
+322  seq.
+pleads  for  Farangis,  324
+
+
+Pi  nin,  takes  charge  of  Fanmgis,325
+
+his  dream  of  Siyawush,  325
+
+protects     the     infant      Kai
+Khusrau,  326
+
+advises  Afnisiyab  respecting
+Kai  Khusrau,  356
+
+sends  Kulbad  and  Nastiluin
+to  pursue  Kai  Khusrau,  377
+
+overthrown  with  his  host  by
+Giv,  385
+
+appeals  to  Kai  Khusrau,  386
+
+released,  387
+
+describes    Giv's  prowess   to
+Afrrfsiyab,  389
+
+disgraced,  390
+
+retires  to  Khutan,  390
+Pisces,  constellation,  407
+Pishdadian  dynasty,  9,  336
+Pleiads,  Pleiades,  148, 282, 394, 408
+Polo,  game  of,  viii,  263  seq.,  292
+Pronunciation,  note  on,  6
+Pseudo  -  Callisthenes,     romantic
+
+Greek  history  of  Alexander
+
+the  Great,  9
+
+Pulad,  Turanian  hero,  264
+Pulad,  1'nlnian  hero,  22
+Pulad,  a  div,  44,  54,  55,  64,  93
+Pun-t  (Berbera),  79
+
+
+K
+
+
+RAKHSH,  Rustam's  steed,  v,  13,
+42  seq.,  67,  74,  94,  97,  no,
+116,  139,  143,  160,311,354
+slays  a  lion,  45
+encounters  a  dragon,  48
+stolen  by  Turkmans,  121  seq.
+sire  of  Suhntb's  charger,  128
+saddled  by  Giv,  Ruhham,  and
+Tus     for    the    fight    with
+Suhrab,  160
+Rai,  city,  23,  399
+Ram,  Rustam's  life  saved  by  a,  46
+Ram,  constellation,  299
+Red  Sea,  364
+
+Rizwdn,  angel,  39  and  note,  288
+Riiddba,  the  mother  of  Rustam,
+44,  1 80
+
+
+424
+
+
+INDEX
+
+
+RuhMm,  fninian  hero,  62,  73, 144,
+
+158,  340
+
+helps  to  saddle  Rakhsh  for
+the  fight  with  Suhrab,  160
+Ruin,  son  of  Afnisiyiib,  264
+Ruin,  son  of  Pinln,  323  and  note
+Rum,  the  Eastern  Roman  Empire,
+
+I43>  297,  307,  36o
+Rustam,  I'raniaii  hero,  v  seq.,  11
+seq.,   18,  21,  25,  34,  35,  42
+seq.,   79,  92  seq.,  188,  236,
+237,  271,  286,  290,  311,  316,
+3i8,  319.  335.  344^<?-,  349
+seq.,  37i,  372,  380,  394,  400
+his  first  campaign,  n  seq.
+nearly       takes        Afrasiydb
+
+prisoner,  14,  116,  354
+rewarded  by  Kai  Kubad,  21
+his  life  saved  by  a  ram,  46
+song  of,  51
+rescues  Kai  Kails  in  Mazan-
+
+daivin,  58
+
+his  handgrip,  66,  67
+his  encounter  with  Kalahur,
+
+67
+his  audience  with  the  king
+
+of  Mazandaran,  67  seq.
+his  encounter  with  Juyd,  71
+his  encounter  with  the  king
+
+of  Mslzandanin,  73
+rewarded  by  Kai  Kdus,  77
+entertains  Kai  Kaus,  83
+takes     the     king    of     Sham
+
+prisoner,  97
+defeats  Afrasiyab,  100
+made  paladin  of  paladins  by
+
+Kai  KaYis,  101
+goes  in  search  of  Kai  Kaiis,
+
+104
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+slays  Alkus,  115
+and    Suhrab,   Story   of,    118
+
+seq.
+
+loses  Rakhsh,  121
+Afrasiytib's  plot  against,  129
+holds  a  drinking-bout,  141
+quarrels  with  Kai  Kdus,  142
+
+
+Rustam,  reconciled  by  Gudarz,  144
+
+seq.
+goes  in  disguise  to  see  Suhrab,
+
+149
+his  adventure  with  Zhanda
+
+Razm,  149  seq.
+his  account  of  Suhrab,   151,
+
+1 66
+his    encampment    described,
+
+154
+armed    by    Tus,    Giv,    and
+
+Ruhhtlm  for  his  fight  with
+
+Suhrdb,  1 60
+challenges  Suhrab,  161
+his  charge  to  Zawdra,  167
+declines  SuhraVs  advances,
+
+169
+
+saves  his  life  by  a  ruse,  170
+prays  that  his  strength  may
+
+be  restored,  171
+learns  too  late  that  Suhrab  is
+
+his  son,  173
+his  grief,  173  seq.
+makes  a  truce  with  Human,
+
+176
+tries  to  slay  Hajir,  176
+
+himself,  177
+
+brings  up  Siyawush,  196
+marches   with    him    .against
+
+Afrasiyab,  225  seq.
+returns  and  quarrels  with  Kai
+
+Kaus,  242  seq.
+his  grief  and  wrath  at  the
+
+death    of     Siydwush,    338
+
+seq.
+
+puts  Surkha  to  death,  346
+fights  with    the    Tuninians,
+
+349  «eq.
+appoints  Tus  ruler  of  Chach,
+
+358
+appoints     Gudarz    ruler     of
+
+Sughd  and  Sipanjab,  358
+his  daughter,  383,  384
+his  wife,  384
+hears  of  Kai  Khusrau's arrival
+
+in  fran,  395
+
+Rustum    and    Suhrab,    Matthew
+Arnold's,  118
+
+
+INDEX
+
+
+425
+
+
+SAGSAR,  district,  143
+
+Saklab,  country  (Slavonia),  360
+
+Salm,  eldest  son  of  Faridun,  19,
+
+237,  3*8
+
+Stim,  I'ranian  hero,  father  of  Zdl,
+16,  17,    33,  34,  49,   125,  126,
+137,  140,  173,  182,  183
+Samangdn,  city  in  Turan.vi,  118,
+
+121  seq.,  130,  140
+king  of,  vi,  118,  140,  184
+entertains  Rustam,  122
+father  of  Zhanda  Razm,
+
+Samarkand,  city  (Sughd),  241
+
+Sanja,  a  div,  39,  40,  44,  55
+
+Sarakhs,  city,  108
+
+Saruch,  desert,  226
+
+Sasauian  dynasty,  10
+
+Saturn,  planet,  183,  208,  215,  247,
+
+263,  310,  319,  394,  407
+Seleucia,  city,  on  the  Tigris,  80
+Semiramis,  10
+
+Seven  climes,  the,  15  note,  372
+Seven  Courses  of  Rustam,  v. 44  seq.
+Seven  Warriors,  Fight  of  the,  vi,
+
+25,  82,  107  seq.
+
+Shaha,  city  in  Hamavaran,  89
+Shahd,  river,  108
+Shdhndma,  editions  of,  5
+Shahr-Bdnu-Iram,     Giv's     sister
+
+and  Rustam's  wife,  384
+Shdm  (Syria),  80,  84
+
+king  of,   taken  prisoner  by
+
+Rustam,  97
+
+Shamasas,  Turdnian  hero,  12,  18
+Shdpiir,  I'rdnianhero,  271,  338,  340
+Shawardn,   I'ranian   hero,  73,  90,
+
+111,228,249,250,255,271,318
+Shepherds,  Kai  Khusrau  brought
+
+up  by,  328  seq.
+Shidush,  I'ranianhero,  58,  85,  158,
+
+340
+
+Sigz,  man  of  (Rustam),  looand  note
+Sikandar  (Alexander  the  Great),
+
+Sseq.
+
+1  See  vol.  i.
+VOL.   II.
+
+
+Sind,  river  (the  Indus),  285
+Sipahram,    Turanian    hero,   228,
+
+229,  388
+Sipand,  mountain  (White  Castle),
+
+118
+Sipanjilb,    region,  241,  342,   344,
+
+345. 358
+
+Sistan,  country,1  80,  335,  365
+Siyawush,  son  of  Kai  Kaus,  vii
+seq.,  25,  104  note,  187  seq.,
+335,  338  seq.,  346  seq.,  363,
+37i,  372,  374  seq.,  383,  386,
+388,  396,  403,411
+his  mother,  vii
+Story  of,  1 88  seq.
+Prelude  to,  191
+good    example    of    Fir-
+
+dausi's  method,  188
+identical  with  Canibyses,  the
+father  of  Cyrus,  in  legend,
+191
+adventure  of  the  mother  of,
+
+193
+destined  to  misfortune  from
+
+birth,  196
+
+brought  up  by  Rustani,  196
+returns  to  court,  197
+made  ruler  of  Kuhistan,  199
+mourns     for     his     mother's
+
+death,  199
+his   temptation   by   Sudaba,
+
+200  seq.
+marches    against    Afrdsiyab,
+
+225  seq.
+demands  hostages  of  Afrasi-
+
+yab,  239  seq.
+goes  over  to  Afrasiydb,  258
+
+seq.
+plays  at  polo  with  Afrasiyab,
+
+264
+
+his  archery,  266,  293
+his  marriage  with  Jarira,  268
+
+seq.
+his  marriage  with  Farangis,
+
+270  seq.
+
+entertained  by  Piran,  278
+builds  cities,  278  seq.
+p.  396  note.
+
+2  E
+
+
+426
+
+
+INDEX
+
+
+Siyawush,  foretells  the  future  to
+
+Piran,  282  seq.
+entertains  Piran,  287
+entertains  Garsiwaz,  290  seq.
+plays  at  polo  with  Garsiwaz,
+
+292
+
+challenged  by  Garsiwaz,  294
+overthrows        Gurwi        and
+
+Ddmur,  295
+slandered    by    Garsiwaz    to
+
+Afrasiya"b,  296  seq.
+summoned      to      court     by
+
+Afrasiydb,  300  seq.
+betrayed  by  Garsiwaz,  301  seq.
+excuses  himself  from  going
+
+to  court,  306
+his  passion,  307  seq
+foretells  the  future  to  Far-
+
+angis,  310
+charges     and     turns     loose
+
+Bihzad,  312
+attacked     and     taken     by
+
+Afrdsiyjtb,  314
+his  execution,  320
+Blood  of  (plant),  321
+Siyawush,  wild  duck,  104  note
+Siyavakhsh  (Siyawush),  82
+Syavashana  (Siyawush),  189
+Siyawushgird,  city,  viii,  ix,  301,
+
+314,  373
+building  and  description  of,
+
+285  seq.
+becomes    the   home  of    Kai
+
+Khusrau,  333
+Sohrab    and   Rustum,    Matthew
+
+Arnold's,  118
+Soma,  8
+Song  of  a  div,  31
+
+of  Rustam,  51
+
+Sorceress,  Siidaba  and  a.  vii,  214
+Spendyad,  mountain,  118
+Spent6data,  mountain,  118
+Stages,the  Seven,  of  Asf  andiya"r,  29
+Stone,  the  Black,  163  and  note
+Strength,  handgrip  as  test  of,  64,
+
+66,67
+
+Sudaba,  daughter  of  the  king  of
+Hamavaran  and  wife  of  Kai
+
+
+Kaus,    vi,  vii,  ix,    79,   86
+
+seq.,  91,  1 88,  189,  200  seq.,
+
+22$,  249,  257,  335,  339
+description  of,  86
+marries  Kai  Kaus,  88
+imprisoned  with  him  by  her
+
+father,  91
+
+released  by  Rustam,  97
+her  temptation  of  Siydwush,
+
+200  seq.
+
+slain  by  Rustam,  340
+Sughd,  district  and  city  (Samar-
+kand), 230,  232,  237,  241,  249,
+358
+Suhra"b,     son    of    Rustam    and
+
+Tahmina,  vi,  vii,  25
+Story  of,  118  seq.
+
+purely  episodic,  118
+Prelude  to,  1 19
+Sir  John  Malcolm's  ver-
+sion of,  118
+
+Matthew   Arnold's   ver-
+sion of,  118
+his  lament    for  the  loss  of
+
+Gurdafrid,  119  note
+questions  his  mother  as  to
+
+his  father,  126
+his  charger  sired  by  Rakhsh,
+
+128
+Afrdsiyab's  plot  against,  129
+
+gifts  to,  130
+invades  Tran,  130
+takes  Hajir  prisoner,  131
+beguiled  by  Gurdafrid,  133
+described  by  Gazhdaham,  136
+sees  from  White  Castle  the
+
+Trdnian    host    advancing,
+
+148
+seen,     while     feasting,     by
+
+Rustam,  150
+hears  of  the  death  of  Zhanda
+
+Razm,  151
+
+misled  by  Hajir,  152  seq.
+overthrows   the   camp-enclo-
+sure of  Kaus,  1 60
+challenged  by  Rustam,  161
+his  account  of  Rustam,  154,
+
+169
+
+
+INDEX
+
+
+427
+
+
+Sulirdb,  his  advances  to  Rustam,
+
+169
+
+spares  Kustam's  life,  170
+again    encounters     Rustam,
+
+172
+makes     himself    known     to
+
+Rustam,  173
+his  last  requests  to  Rustam,
+
+175
+
+the  mourning  for,  182  seq.
+Surkha,  son  of  Afrdsiydb,  ix,  344
+
+seq.
+taken  prisoner  by  Fanimarz,
+
+345
+
+death  of,  347
+
+Sunish,  angel,  288,  289,  364,  408
+appears    to     Gudarz     in    a
+
+dream,  363
+Syria  (Sham),  So
+
+
+TABLE  of  Contents,  v
+Tables,  genealogical,  3,  4
+Tahmdsp,  n
+Tahmina,  mother  of  Suhntb,  vi,
+
+118
+her  precautions  for  her  son's
+
+safety,  127,  140,  149
+her   mourning    for    Suhntb,
+
+184  seq.
+her  death,  186
+Tahmuras,  Sha"h,  168
+Talikdn,  city,  228
+Tardz,  city  and  district,  123
+
+Idols  of,  123,  206
+Tihrdn,  city,  28
+Tirmid,  place    where  the  route
+
+from  Balkh  to  Samarkand
+
+crosses  the  Oxus  (Jihun),
+
+229,  258
+
+Tollman,  Giv  and  the,  x,  390
+Thrae"taona  (Faridun),  81
+Tur,  second  son  of  Faridun,  8,  1 7,
+
+19,  99,  237,  262,  297,  302,
+
+303,  318,  327,  363,  390
+Turan,  v,  ix,  9,  18,  25,  79,  82,  101,
+
+112,  and  passim
+
+
+Turdn,  king  of  Chin  and  (Afnt-
+siyab),  99
+
+host  of,  1 10
+Timlnians  (Turkmans),  the,  vi,  1 1,
+
+81,  265
+
+Turkestjtn,  19
+Turkmans   (Tuniuians),   the,   12,
+
+14,  15,  92,  100  and  passim
+Tus,  son  of  Naudar,  x,  33,  35,  38,
+58,  62,  70,  73,  85,  90,  91,
+127,  138,  142,  143,  148,  177,
+188,  193,  197,  199,  226,  257,
+3i6,  319,  335.  338,  340,  349,
+353/e?-,  37i,  383.  394
+
+appointed  captain  of  the  host,
+78
+
+taken  prisoner  in  Ha'ma'vanin,
+90
+
+released  by  Rustam,  97
+
+goes  in  search  of  Kai  Kdus,
+104
+
+engaged  in  the  Fight  of  the
+Seven  Warriors,  107  seq.
+
+commanded  by  KjCiis  to  hang
+Rustam  and  Giv,  143
+
+his    encampment  described,
+
+153  i
+
+summons    Rustam    to   fight
+
+Suhrab  and  helps  to  saddle
+
+Rakhsh,  160
+quarrels  with  Giv  over  the
+
+future  mother  of  Siydwush,
+
+194
+supersedes     Siydwush,     246
+
+seq.
+
+leads  the  host  home,  258
+intercedes  for  Surkha,  347
+is  worsted  in  fight  by  Afro"-
+
+siyftb,  353
+appointed    ruler    of    Chdch,
+
+358
+
+returns  to  fra"n,  362
+his  dispute  with  Gudarz  over
+
+Kai  Khusrau,  400  seq.
+advocates  the  claims  of  Fari-
+
+burz,  401
+
+asks  pardon  of  Khusrau,  410
+Tuwurg,  Turdniau  hero,  253
+
+
+428
+
+
+INDEX
+
+
+U
+
+
+I^LAD,  a  div,  v,  28,  52  seq.,  59,  61
+made  kino;  of  Mazandaran,  76
+Urmuzd,  the  Good  Principle,  82
+
+
+VEDAS,  8,  11,  25
+Venus,  planet,  115,  275,  345
+Verethraglma,  the  raven,  25
+Vritra,  demon,  25
+
+w
+
+WARAZAD,  king  of  Sipanjab,  ix,
+
+341  seq.,  346
+Warriors,  the  Seven,  Story  of  the
+
+Fight  of,  vi,  25,  82,  107  seq.
+White  Castle,  I'ranian  stronghold,
+vii,  118,  131,  138
+
+evacuated  by  Gazhdaham,  137
+
+Div.     See  Div
+
+Wisa,  Turanian  hero,  112,  354
+Witch,  v,  50
+
+
+YAMAN,  country  (Hamavaran),  So
+carnelians  of,  123
+Canopus  of,  203
+
+
+ZABUL,  Zabulistan,  country,1  vii,
+21,  28,  42,  61,  83,  92,  126,
+138,  141,  142,  156,  168,  227,
+228,  245,  260,  338,  362,  363
+vintage  of,  no
+Zahhak,  Shah,  33,  81,  318
+
+saying  of,  171  and  note
+Zainigau,  81
+
+
+Zainigav,  8 1
+
+Zal,  father  of  Rustam,  v,  n  seq.,
+
+18,    19,   21,    33   seq.,  49,   58,
+
+61,  62,  69,  77,  140,  168,  169,
+
+1 80,  182,  227,  228,  271,  286,
+
+290,  318,  319,  338,  362,  371
+
+Zam,  city  and  river,  97,  394,  395
+
+Zandavasta,   8,  25  seq.,  81,   118,
+
+189,  190
+Zanga,  Iranian  hero,  viii,  73,  90,
+
+228,  249,  271,318
+takes  part  in  the  Fight  of  the
+
+Seven  Warriors,  107  seq.
+accompanies      Siy4wush
+
+against  Afrdsiydb,  226
+sent  on  embassy  to  Afrasiydb,
+
+250  seq.
+
+Zarduhsht  (Zoroaster),  8,  9
+Zav,  Shah,  n,  36
+Zawdra,  brother  of  Rustam,  ix,
+
+96,  228,  347,  349
+engaged  in  the  Fight  of  the
+
+Seven  Warriors,  no  seq.
+made    leader    of    Rustam's
+
+host,  142
+left  in  charge  of  Rustam's
+
+host,  161
+goes  on  embassy  to  Human,
+
+176
+safe-conducts    Human    from
+
+Trail,  176,  181,  182
+incites    Rustam    to    avenge
+
+Siyawush,  360
+Zhanda  Razm,  maternal  uncle  of
+
+Suhrrib,  vii,  149  seq.,  160
+|   Zinigav,  81
+
+Zira,  Turanian  hero,  295,  314
+Zirih,  sea  or  lake,  80
+Zu'lfakar,  337  and  note
+
+
+See  vol.  i.  p.  396  note.
+
+
+END   OF   VOL.    II.
+
+
+Printed  by  BALLANTYNE,  HANSON  &•>  Co.
+Edinburgh  6r»  London
+
+
+403
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+
+UNIVERSITY  OF  TORONTO  LIBRARY

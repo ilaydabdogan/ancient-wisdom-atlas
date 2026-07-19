@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_shahnama02firduoft
+  work_id: persian.shahnama.warner_v2_archive
+  title: The Shahnama of Firdausi, Vol. II
+  source_url: https://archive.org/details/shahnama02firduoft
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/shahnama02firduoft-shahnama-warner-vol2.txt
+    checksum:
+      algorithm: sha256
+      value: c0199316cff3944f6a03ae6277c9fa74aaeb8ffac3861ba839e6417577b14d15
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/shahnama02firduoft-shahnama-warner-vol2.md
+    checksum:
+      algorithm: sha256
+      value: ab7c91e884fe61964adcf9a263f9696bb4d4111f42f7f6c0bf84ea453982de53
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+    checksum:
+      algorithm: sha256
+      value: 50b1a2d8759d680a40358fee40989efa3605d380da05a1573a46bb3b42eb44f6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids persian.shahnama.warner_v2_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1906, US public domain. Volume II of nine; covers the Kaianian
+      material including Rustam's Seven Stages, Suhrab, and Siyawush.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

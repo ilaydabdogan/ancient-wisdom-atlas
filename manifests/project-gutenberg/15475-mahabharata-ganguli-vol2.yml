@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_15475
+  work_id: hindu.mahabharata.ganguli_vol2_gutenberg
+  title: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5, 6 and
+    7'
+  source_url: https://www.gutenberg.org/ebooks/15475
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/15475-mahabharata-ganguli-vol2.txt
+    checksum:
+      algorithm: sha256
+      value: '009689aec55696f0d40201138c867db4c306671e6a5ba0091d783f812f395b5b'
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/15475-mahabharata-ganguli-vol2.md
+    checksum:
+      algorithm: sha256
+      value: b2328aa5e2d93815e80f532c4af3a86ac91c631090bfea94a966918e5fb9623a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+    checksum:
+      algorithm: sha256
+      value: f72e26918fdee6bdde27853829db1165dcff43c033eeb343f414c669dde16f85
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.mahabharata.ganguli_vol2_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Verbatim
+      full prose translation; continues the already-queued Volume 1 (mahabharata-ganguli-vol1)
+      with the Virata, Udyoga, Bhishma and Drona Parvas (incl. the Bhagavad Gita context).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

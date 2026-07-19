@@ -1,0 +1,4543 @@
+---
+id: native_american.timiskaming_algonquin.speck_archive
+title: Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa
+alternate_titles:
+- Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa (Geological
+  Survey of Canada, Memoir 71)
+text_status: complete
+tradition: native_american_northeast_woodlands
+culture: algonquin_ojibwa_field_recorded_myths
+region: north_america_eastern_subarctic
+source_language: Algonquin and Ojibwe (Algonquian)
+text_language: English
+date_range: living oral traditions; recorded 1913 in Quebec/Ontario; published 1915
+  (Geological Survey of Canada, Memoir 71)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.mythsandfolklore00speciala
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1915 Geological Survey
+    of Canada edition
+  translator: Frank G. Speck
+  editor: ''
+  publication_year: 1915
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mythsandfolklore00speciala
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1915, US public domain. Verbatim-close English tellings recorded
+    from named Timiskaming Algonquin and Timagami Ojibwa narrators. Trickster and
+    cannibal-giant cycles; conjuring material is community-sensitive.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- algonquin
+- ojibwa
+- algonquian
+- subarctic
+- holdout_priority
+motifs:
+- culture_hero
+- trickster
+- windigo
+- transformation
+- flood
+figures:
+- Wiskedjak
+- Tcikapis
+---
+
+# Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa
+
+THE  LIBRARY
+
+OF
+
+THE  UNIVERSITY
+OF  CALIFORNIA
+
+LOS  ANGELES
+
+
+CANADA
+
+DEPARTMENT    OF    MJDNES
+
+HON.  Louis  CODERRK,  MINISTER;  R.  W.  BROCK,  Dmptrrr  MINISTER.
+
+
+GEOLOGICAL  SURVEY
+
+
+MEMOIR  71
+
+
+No.  9,  ANTHROPOLOGICAL  SERIES
+
+
+Myths    and    Folk-lore    of   the
+
+Timiskaming    Algonquin   and
+
+Timagami  Ojibwa
+
+
+BY
+
+F.  G.  Speck
+
+
+OTTAWA
+GOVERNMENT  PRINTING  BUREAU
+
+1915
+
+No.  1470
+
+
+CONTENTS.
+
+CHAPTER  I.
+
+PAGE
+
+Myths  and  folk-lore  of  the  Timiskaming  Algonquin 1
+
+Introduction 1
+
+Wiske'djak  cycle 2
+
+(1)  Wirfke'djak  pursues  the  Beaver 2
+
+(2)  Wiske'djak  kills  the  Bear  and  gets  his  head   fastened
+
+in  the  skull 4
+
+(3)  Wiske'djak  invites  the  Ducks  to  a  dance 8
+
+(4)  Wiske'djak  anum  suum  urit  and  originates    rock- weed
+and  red  willow  from  the  scabs 10
+
+(5)  Wiske'djak  disguises  himself  as  a  Lynx 15
+
+(6)  Wiske-djak's  love  affair 16
+
+(7)  Cirjgabis 17
+
+(8)  Remarks  about  Wiske'djak 20
+
+Timiskaming  Algonquin  text 20
+
+Free  translation 21
+
+(9)  Further  comment  on  Wiske'djak 21
+
+Timiskaming  folk-lore 22
+
+(1)  Wi'ndigo 22
+
+(2)  Pa-'guk' 22
+
+(3)  Constellation  Ursa  Major 22
+
+(4)  Northern  Lights 23
+
+(5)  Rainbow 23
+
+(6)  Milky  Way 23
+
+(7)  White  animals 24
+
+(8)  Dwarfed  animals 24
+
+(9)  Partridge  breast-bone  as  omen 24
+
+(10)  Wings  of  birds  and  skulls  as  amulets 24
+
+(11)  Blue  bottle  flies 25
+
+(12)  Rabbits'  hair  thrown  into  fire 25
+
+(13)  Fish  bone 25
+
+(14)  Left-handed  people 25
+
+(15)  Bear  feast 25
+
+(16)  Legend  of  Iroquois  Falls 26
+
+
+CHAPTER  II.
+
+Myths  and  folk-lore  of  the  Timagami  Ojibwa 28
+
+Introduction 28
+
+Myths  and  tales 28
+
+
+PAGE
+
+(1)  Nenebuc,  the  transformer 28
+
+(a)  The  magic  birth  of  Nenebuc  and  his  four  brothers . .  28
+
+(b)  Nenebuc  tempers  the  wind 30
+
+(c)  Nenebuc  starts    travelling,   anum     suum    castigat
+for  deceiving  him,  changes  the  colour  of  the  Part-
+ridge family,  and  originates  rock  tripe  from  his
+scabs  for  the  benefit  of  the  people 31
+
+(d)  Nenebuc  prepares  a  feast  and  gets  caught  between
+two  trees,  while  the  animals  receive  a  distribution
+
+of  fat 33
+
+(e)  Nenebuc  gets  caught  in  the  Bear's  skull 33
+
+(f)  Nenebuc  wounds  the  Giant  Lynx,  disguises  himself
+
+in  a  Toad's  skin,  and  finally  slays  her 34
+
+(g)  The    Giant   Lynx   causes   the    World    Flood    and
+gathers  the  animals  on  a  raft;    Muskrat  dives  for
+earth,  which  Nenebuc  transforms  into  a  new  world .  36
+
+(h)  Nenebuc  sends  Crow  out,  for  disobedience  changes
+him  black  and  Gull  partly  black,  then  retires  to  the
+
+west,  until  he  will  return  again 37
+
+(2)  Nenebuc  fragment 38
+
+(3)  Nenebuc  transforms  the  Bear 39
+
+(4)  Wemicus 39
+
+(5)  Ciijgabis 47
+
+(6)  Beaver  gives  a  feast. 53
+
+(7)  Tcaka-bis 54
+
+(8)  Aniwo'ye,  the  Giant  Skunk,  and  the  origin  of  Skunks..  56
+
+(9)  The  man  who  transformed  a  doll  into  a  woman  and
+followed  her  into  the  world  above 57
+
+(10)  Ayas-e  and  the  origin  of  Bats. 62
+
+(11)  Origin  of  the  Constellation  Fisher  (Ursa  Major) 63
+
+(12)  The  young  Loon 64
+
+(13)  The  Giant  Pike 65
+
+(14)  Lynx  and  his  two  wives 67
+
+(15)  Story  of  Seal  Rock  in  Lake  Timagami 68
+
+(16)  Rabbit,  Lynx,  and  Fisher 68
+
+(17)  Snaring  the  Sun 69
+
+(18)  Homo  Excrementi 69
+
+(19)  The  origin  of  Snakes 71
+
+(20)  Muskrat  warns  the  Beaver 71
+
+(21)  .Story  of  a  hunter 72
+
+(22)  A  Timagami  story 73
+
+(23)  -Story  of  a  fast  runner 73
+
+(24)  The  hunter  and  the  seven  Deer 73
+
+(25)  Story  of  a  conjurer 74
+
+(26)  Legend  of  Obabika  lake 76
+
+(27)  Iroquois  pictographs 76
+
+(28)  An  Iroquois  legend 76
+
+
+PAGE
+
+Timagami  folk-lore 78
+
+(1)  Telling  stories  in  summer 78
+
+(2)  Foretelling  sex  of  child  to  be  born 78
+
+(3)  How  to  bring  rain 79
+
+(4)  Northern  Lights 79
+
+(5)  Milky  Way 79
+
+(6)  Rainbow 79
+
+(7)  Whippoorwill's  cry 79
+
+(8)  Rain  omens .- 79
+
+(9)  Killing  blue  bottle  flies 80
+
+(10)  Finding  a  live  mole 80
+
+(11)  Hiccoughing 80
+
+(12)  Children  born  feet  first 80
+
+(13)  Cooking  squirrels 80
+
+(14)  How  to  bring  on  a  snowstorm 80
+
+(15)  An  infant  warming  its  hands 80
+
+(16)  Red  sunset 81
+
+(17)  Whirling  buzzer 81
+
+(18)  Divining  what  game  id  to  be  killed 81
+
+(19)  Supernatural  creatures: — •
+
+Pa-g-ak 81
+
+Me'megwe'S'i 82
+
+Appendix:    Notes    on    Timagami    folk-lore,  by  Neil  C.  Fergusson
+
+(1)  Whisky  Jack  and  the  markings  on  birch  bark 83
+
+(2)  The  two  girls,  Hell-diver,  and  Loon 83
+
+Phonetic  key 86
+
+
+ILLUSTRATIONS.
+
+Map:     Hunting    territories  of  the  Timagami,  Tuniskaming,
+
+Kipawa,  and  Dumoine  bands in  pocket.
+
+Figure  1.  Night  set-line 66
+
+Figure  2.  Markings  on  birch  bark 83
+
+
+Myths    and    Folk-lore    of    the    Timis-
+
+kaming  Algonquin  and  Timagami
+
+Ojibwa.
+
+
+CHAPTER  I.
+
+MYTHS  AND  FOLK-LORE    OF    THE    TIMISKAMING
+
+ALGONQUIN.
+
+INTRODUCTION.
+
+A  few  fairly  typical  Algonquin  myths  relating  the  exploits  of
+Wiske'djak  were  taken  down  in  the  summer  of  1913  from
+Benjamin  Mackenzie  of  the  Timiskaming  band.  He  had
+learned  them  when  a  young  man  from  Algonquins  near  Dumoine
+lake1  at  the  head  of  Dumoine  river.  These  versions  are  also
+current  at  Timiskaming,  as  I  found  by  testing  a  few  incidents
+with  other  informants,  who,  however,  knew  only  of  fragments.
+These  myths  also  are  not  considered  entirely  complete.
+
+The  trickster-transformer  Wiske'djak  "meat  bird"  is  the
+personified  Canada  Jay  or  "Whisky  Jack"  (Perisoreus  sp.).
+He  is  not  in  the  least  altruistic,  though  he  seems  to  have  in  mind
+some  provision  for  the  Indians,  as  appears  more  particularly
+in  story  number  4.  For  the  most  part  his  transformations  are
+semi-accidental.  It  seems  hardly  worth  while  at  the  present
+time  to  comment  in  detail  on  the  transformer  concept  here,  as
+it  is  my  intention  to  pursue  investigations  further  in  this  general
+
+
+1  This  band  is  known  locally  as  Ki-we-'gomani'c»na'bi  "Turn  back  lake  Indiana."  Their
+rendezvous  was  at  Fort  William.  Their  range  extended  around  Lake  Dumoine  and  down
+Dumoine  river  to  the  Ottawa  river.
+
+
+2
+
+area,  in  which  the  transformer  appears  under  various  titles.
+At  Timagami,  for  instance,  he  is  called  Nenebuc  or  wi'ske'1;
+at  Mattagami,  he  is  We-'micuze^hwa  or  Nenebuc.  The  name
+Wiske'djak  and  its  variants  seem  to  be  more  or  less  charac-
+teristic of  the  Algonquin  bands,  in  which  respect  they  resemble
+the  Cree.1  A  secondary  hero  personage  here  is  Ci'Tjgabis,  the
+Horned  Grebe  (Colynibus  auritus).
+
+It  is  important  to  note,  in  dealing  with  myths  in  this  area,
+that  the  scenes  of  the  trickster-transformer's  adventures  always
+lay  in  well  known  localities  within  the  territory  of  the  band
+among  which  the  story  is  told.  These  vary  considerably,  so
+that  the  stories  have  to  be  gathered  independently  from  each
+band  before  any  thorough  comparison  can  be  attempted.  In
+these  myths  the  scene  of  action  commences  with  Dumoine  lake,
+Ki'we"'goma  "Turn-back  lake."  The  other  geographical  refer-
+ences are  as  follows.  The  beaver's  cabin  in  the  first  story  is  a
+high  round-topped  mountain  near  the  lake.  Then  came
+Coulonge  river  and  Pembroke  lakes.  The  Calumet  chutes
+are  below  Allumette  island  in  Ottawa  river;  they  are  called
+Apwa'ganibcfutdk  "Pipe  rapids,"  because  the  stone  at  that
+place  is  suitable  for  making  pipes  and  was  there  sought  by  the
+Indians  for  this  purpose.  The  big  river  referred  to  is  Ottawa
+river,  Ki'tciw'bi  "big  river,"  down  which  Wiske'djak's  course
+seems  to  have  been.  Other  general  qualities  of  the  transformer
+attributed  to  him  by  the  Indians  were  given  by  the  informant
+and  appear  at  the  end  of  the  cycle.
+
+
+WISKE-DJAK    CYCLE.
+
+(1)  Wiske'djak  Pursues  the  Beaver.
+
+Wiske'djak  was  travelling  about  looking  for  adventures.  He
+never  succeeded  in  anything  he  tried  to  do.  He  never  did
+well  and  was  always  hungry.  In  his  travels  he  came  to
+Krwe-'goma  "Turn-back  lake"  (Dumoine  lake).  Now  he  even
+had  no  canoe,  but  he  was  a  great  swimmer.  When  he  came  to
+Krwe-'goma,  he  found  it  even  too  big  to  swim,  so  he  started  to
+
+
+1  Cf.  A.  B.  Skinner,  Note»  on  the  Eastern  Cree  and  Northern    Saulteaux,  Anth.  Papers  of
+Amer.  Mus.  of  Nat.  Hist.,  N.Y.,  vol.  IX,  pt.  i,  1911.
+
+
+walk  around  it.  He  wanted  to  hunt  beaver.  On  one  side  of
+the  lake,  he  came  to  a  round,  high  mountain  that  looked  like
+a  beaver-lodge.  In  front  of  it  he  found  deep  water,  just  as  there
+is  in  front  of  a  beaver  lodge.  And  a  little  way  off  shore  was  a
+little  island  with  many  grasses;  just  as  the  beaver  provides  a
+winter  supply  of  greens  for  himself  near  his  lodge,  so  this  island
+he  supposed  to  be  the  beaver's  winter  supply  and  the  mountain
+his  lodge.  Wiske'djak  wanted  to  get  this  great  beaver,  but
+did  not  know  how  to  get  at  him.  Then  he  thought  of  draining
+the  lake,  so  he  went  way  around  to  the  lower  end  and  broke
+away  the  dam  so  that  the  water  would  run  off.  Soon  the  water
+began  to  go,  and  Wiske'djak  lingered  about,  waiting  for  it  to
+get  low  enough  to  get  at  the  beaver.  Pretty  soon  he  took  a
+nap.  When  he  woke  up,  it  was  rather  late  and  he  hurried
+back  to  the  mountain  only  to  find  that  the  beaver  had  gone.
+Now  he  thought  the  beaver  might  have  escaped  over  the  dam
+with  the  water,  so  he  started  back,  and  sure  enough  he  saw
+the  beaver  going  over  the  dam.  "Now,"  said  he,  "I  lost  my
+beaver."  He  followed  hard  after  him  and  had  lots  of  trouble  to
+keep  up.
+
+He  followed  him  past  Coulonge  river  and  Pembroke  lakes.
+But  when  the  beaver  reached  Calumet  chutes,  he  was  afraid
+to  go  through  and  took  to  the  portage.  Then  Wiske'djak  saw
+him  and  chased  him  harder  over  the  portage.  When  he  got  to
+the  lower  end,  he  lost  sight  of  the  beaver  and  started  back  up
+river  (Ottawa  river).  When  he  got  to  the  upper  end  of  the
+portage,  he  saw  fresh  tracks.  "Well,"  said  he,  "there  has  been
+somebody  here.  I  wonder  if  I  could  trace  him.  We  might
+have  something  to  eat."  Then  he  followed  the  track  to  the  lower
+end  of  the  portage  where  he  had  already  been,  but  nobody  was
+there.  So  he  went  back  to  the  upper  end  of  the  portage  and
+there  saw  more  fresh  tracks  leading  to  the  lower  end.  These
+he  followed  to  where  he  had  been  twice  before,  but  saw  no  beaver.
+He  then  discovered  that  they  were  his  own  tracks  he  had  been
+following  and  gave  it  up.  The  tracks  back  and  forth  can  be
+seen  plainly  to-day  imprinted  in  the  stone  of  Calumet  portage,
+which  the  Indians  call  Wiske-djak  tracks.  After  this  he  started
+off  on  another  trip.
+
+
+(2)    Wiske'djak  Kills  the  Bear  and  Gets  his  Head  Fastened  in
+
+the  Skull.
+
+Wiske'djak  was  always  in  trouble.  One  time  he  was  going
+along  the  shore  of  a  big  lake  carrying  a  big  pail.  He  felt  very
+hungry  and  was  looking  for  something  to  eat.  Pretty  soon  he
+saw  a  lot  of  clumps  of  high-bush  cranberries  and  commenced
+to  eat  from  one  little  clump  to  another.  Then  he  remembered
+his  pail.  Said  he,  "If  I  could  pick  my  pail  full,  I  would  have  a
+good  supply  to  last  me  a  long  while."  So  he  began  filling  his
+pail,  and  as  he  went  on  he  got  into  some  big  clumps.  Suddenly
+he  saw  a  big  Bear  sitting  down  among  some  bushes,  every  little
+while  rubbing  his  eyes  and  picking  out  his  paws  as  though
+something  was  hurting  his  eyes.  Wiske-djak  watched  him  a
+while  and  thought  how  nice  it  would  be  to  kill  him.  What  a
+big  supply  of  food  he  would  have  then  to  fill  his  pail  with!  So
+he  went  up  to  the  bear  and  said,  "Hello,  Bear!  What's  the
+matter  with  you?"  The  Bear  answered,  "Oh!  my  eyes  are  so
+sore,  and  I  can't  see  where  to  go.  I  just  wish  somebody  would
+help  me."  "Well,  come  along  with  me.  I  will  help  you.  I
+know  where  to  get  some  fine  medicine  that  will  fix  you  up  all
+right."  "Very  well,"  said  the  bear.
+
+Wiske'djak  led  him  off  to  a  big  bunch  of  cranberries.  There
+he  gathered  a  lot  of  berries  and  crushed  them  in  his  hands.
+Then  he  told  the  Bear  to  open  his  eyes  so  that  he  could  put  the
+medicine  on.  "It  may  hurt  you  when  I  put  this  medicine  in,
+but  it  will  cure  you,  so  don't  mind  it."  Then  Wiske'djak  began
+to  rub  the  cranberry  juice  into  the  Bear's  eyes.  The  Bear
+began  to  roar  and  tear  around  with  the  pain,  making  a  great
+time.  "But  never  mind,"  said  Wiske'djak.  "It  may  hurt,
+but  it  will  cure  you."  In  the  meantime  he  hunted  around  and
+got  two  big  stones,  and  while  the  Bear  was  blinded  with  the
+pain,  began  pounding  him  on  the  head  with  the  stones.  He
+had  a  hard  fight  all  over  the  berry-patch,  but  finally  succeeded
+and  killed  the  Bear.  Then  Wiske'djak  went  back  to  where  he
+had  left  his  pail  and  got  his  knife.  He  skinned  the  bear  and
+cut  him  up.  He  put  some  of  the  pieces  into  his  pail  to  make  a
+bouillon.  Then  he  got  sticks  and  made  a  fire  for  the  cooking.
+Next  he  got  some  birch  bark  peeled  off  and  cleaned  a  big  space
+
+
+near  the  fire,  spreading  the  birch  bark  to  put  the  meat  on.  He
+stuck  the  pieces  of  meat  on  sharp  sticks.  When  they  were  well
+roasted,  he  spread  them  on  the  bark  to  cool  off  before  eating
+them.  He  left  the  bear's  head  for  the  last,  then  he  began  to
+eat  lots  of  the  bear's  fat  and  the  meat.  He  had  a  great  big  pile
+of  it.  He  sat  down  to  enjoy  his  meal.
+
+Now,  just  as  he  was  ready  to  begin,  the  wind  began  to  blow  a
+little,  and  at  the  same  time  from  above  came  a  little  cry,
+"Whun!"  He  looked  around,  because  it  bothered  him,  but
+could  not  see  anything,  so  he  started  to  eat  again.  Then  the
+same  little  cry  sounded  again,  "Whun!"  and  he  stopped  to  look
+around,  but  couldn't  see  anything.  The  third  time  he  started
+to  eat,  the  same  cry  sounded,  and  then  he  got  up  and  hunted  for
+the  cause,  for  it  bothered  him  and  was  spoiling  his  good  time.
+When  he  looked  up,  he  saw  a  tree  that  had  been  blown  down,
+resting  in  the  crotch  of  another  tree  over  him  that  rubbed  when
+the  wind  blew  and  made  this  noise.  Said  Wiske'djak,  "You
+had  better  stop  that  noise  until  I  get  through  eating.  I  don't
+like  it  at  all."  "Oh!"  said  the  tree,  "I  have  to  do  it.  I  can't
+stop  it."  Whenever  Wiske-djak  started  to  eat  again,  the  wind
+blew  a  little.  Then  Wiske-djak  climbed  the  tree  and  put  his
+hands  in  between  the  tree  and  the  crotch  to  stop  the  rubbing,
+and  when  the  wind  blew  a  little  the  space  spread  and  closed
+again.  It  pinned  his  hands  in  the  crotch  and  held  him  fast.
+"Let  me  go!  Let  me  go!"  he  begged  of  the  tree.  "I  must  get
+down  to  my  meat."  But  the  only  answer  he  got  was,  "No,"
+and  there  he  stayed.
+
+Pretty  soon  when  he  looked  down,  he  saw  a  Squirrel  come
+and  take  some  of  his  meat.  He  shouted  for  him  to  go  away
+without  any  success.  Next  came  the  Marten,  then  the  Fisher,
+then  some  Wildcats,  then  Ravens,  and  in  fact  all  kinds  of  animals
+came  and  began  to  eat  up  his  supply  of  meat.  He  tried  to  drive
+them  away,  but  couldn't.  The  more  he  shouted  at  them,  the
+more  they  danced  and  sang  and  ran  off  mocking  him.  They
+carried  away  all  his  pieces  of  meat  to  their  dens,  but  didn't
+touch  the  pail  of  grease.  By  the  time  all  the  meat  was  gone,  a
+little  breeze  arose  and  the  tree  let  him  go.  When  he  got  down,
+all  was  cleared  away.  There  were  not  even  bones  enough  for
+
+65977—4
+
+
+bouillon.  There  was  only  the  grease  in  the  pail.  "Well,"  said
+he,  "I'll  have  grease  anyway."
+
+The  Bear's  bladder  was  hanging  in  some  willow  trees  where
+he  had  thrown  it  when  he  had  cut  him  up.  And  he  went  over
+and  filled  the  bladder  with  the  grease,  so  that  he  could  cool  it.
+He  tied  the  neck  of  the  bladder  so  that  it  would  hold  the  grease.
+"Now,"  said  he  to  himself,  "even  if  they  have  taken  all  my
+meat  and  bones,  I'll  have  the  grease.  I'll  just  tie  it  by  a  string
+to  a  stick  and  let  it  float  in  the  river  until  it  is  cool,  and  then
+I'll  make  a  good  meal  of  that  anyway."  So  he  tied  the  bladder
+of  grease  to  a  stick  and  let  it  swing  in  the  current  of  the  river
+to  cool  it.  A  Muskrat  came  along.  "Kwe,  Muskrat!  Where
+are  you  going?"  said  Wiske-djak.  "Oh!  anywhere,"  answered
+the  Muskrat.  "Well,  then,  come  work  for  me,"  said  Wiske'djak.
+"Come,  tie  this  bladder  on  your  tail  and  swim  further  out  in
+the  deep  water  where  it  is  cold  and  cool  it  for  me.  Don't  swim
+too  fast  and  go  easy  or  you  might  break  the  bladder  and  spill
+my  grease."  "All  right,"  said  the  Muskrat,  "I  will  do  it  for
+you  and  you  will  tell  me  how  fast  to  go."  Then  Wiske'djak
+tied  it  to  his  tail  and  the  Muskrat  started  off  with  it.  He  made
+a  plan  meanwhile.  The  Muskrat  swam  way  out.  "Hold  on,"
+said  Wiske'djak,  "you're  going  too  fast."  But  the  Muskrat
+swam  farther  and  when  he  got  far  enough,  he  snapped  the
+string  with  his  tail,  broke  the  bladder,  and  dove  out  of  sight.
+The  grease  spread  all  over  the  water.  Wiske'djak  cried  and  ran
+out  into  the  water  and  tried  to  scoop  up  the  grease  in  his  hands
+to  save  some  of  it,  but  it  all  escaped  him.
+
+When  he  had  lost  his  grease,  he  thought  of  his  bouillon,  and
+went  back  to  his  pail,  but  when  he  got  there,  he  found  that  the
+Wolverine  had  come  and  eaten  it  all  up.  Then  he  searched
+about  to  see  if  he  could  even  find  a  small  bone.  There  was  not
+a  thing  left.  After  a  while  he  saw  a  string  of  little  ants  going
+back  and  forth  from  under  a  log.  "I  wonder  what  they  are
+doing,"  thought  he.  "Maybe  they  have  something  hidden
+under  there."  He  followed  them  and  looked  under  the  log,
+and  there  were  the  ants  eating  away  on  the  Bear's  skull,  devour-
+ing the  brains.  "If  I  could  get  in  there  myself,  I  could  get
+some  of  those  brains,"  said  he.  He  tried  different  ways  to  reach
+in,  but  could  not  get  at  it.  "If  I  could  only  put  my  head  in
+
+
+that  hole,  I  could  eat  some.  I  wish  my  head  was  as  small  as  a
+snake's  head,  then  I  could  get  it  in."  Then  his  head  began
+to  get  small  like  a  snake's  head  and  he  poked  it  inside  the  skull
+and  began  eating  a  great  snack.  He  licked  the  skull  clean  and
+said,  "Well,  I  had  a  meal.  Now,  if  I  could  only  get  up  and  out,
+I  would  be  all  right."  But  when  he  tried  to  get  his  head  clear
+of  the  skull,  he  could  not,  because  his  head  had  turned  back  to
+its  original  size  and  was  fast  inside  the  skull.  He  couldn't  see
+where  he  was  going.
+
+Then  he  sat  down  on  a  log,  thinking  what  to  do  next.  "If
+I  knock  my  head  against  a  rock,  I  might  break  my  own  head."
+Then  he  thought  of  the  Indians  and  started  off  in  search  of  a
+camp  to  get  help.  He  was  blinded  by  the  skull  and  could  not
+see  where  he  was  going.  Soon  he  banged  against  a  tree.  "What's
+your  name?"  he  asked  of  the  tree.  "Maple,"  was  the  answer.
+"Well,  I'm  in  high  ground.  I  won't  find  any  people  camping
+way  up  here."  Soon  he  banged  against  another  tree.  What's
+your  name?"  he  asked.  "Beech,"  was  the  answer.  "I'm  still
+in  high  ground,"  said  he;  "I  must  strike  lower  ground."  Soon
+he  banged  against  another  tree  and  asked  its  name.  It
+answered,  "White-pine."  "Still  in  high  ground,"  said  he,
+"but  getting  lower."  The  next  tree  he  bumped  against  proved
+to  be  a  red  pine.  "Still  in  high  ground.  No  Indian  camp  here."
+At  last  he  banged  against  a  balsam  and  then  a  spruce.  "I  am
+getting  on  low  ground  now,"  said  he.  Pretty  soon  he  got  into
+ragged  bush  and  struck  a  rough-bark  tree.  "What's  your
+name?"  he  asked.  "Cedar,"  said  the  tree.  "Aha!  Now  I'm
+in  low  ground  and  may  strike  a  camp  at  last."  He  went  on
+and  soon  got  into  very  tight  bush  and  struck  an  alder.  "Aha!
+Now,  I  am  close  to  a  lake.  I  will  soon  find  a  camp."  Next
+he  got  tangled  up  in  knee-high  twigs.  He  asked  them  what
+their  name  was  and  they  told  him  willows.  He  said,  "Am  I
+near  a  lake?"  "Yes,"  they  answered.  "Can  you  see  people?"
+"Yes,  up  at  yonder  point  there  is  a  camp,"  they  answered.
+"Is  it  far?"  he  asked.  "No,  not  far,"  said  they.  So  he  went
+on  and  got  into  something  still  lower.  "What's  your  name?"
+he  asked.  "Grass,"  was  the  answer.  Now  he  walked  on  and
+got  into  water,  deeper  and  deeper.  "If  the  people  would  only
+see  me,  I  would  be  all  right,"  said  he.  Next  he  started  to  swim.
+
+65977— 4£
+
+
+8
+
+He  splashed  about  and  made  a  noise  to  attract  the  people  if
+any  were  about.  Suddenly  he  remembered  about  the  skull
+on  his  head  and  said,  "If  the  people  see  me,  they  might  think
+that  I'm  a  bear  and  try  to  kill  me."  So  he  swam  on.
+
+Sure  enough  the  Indians  saw  him.  They  recognized
+Wiske'djak  by  his  antics  and  thought  he  was  trying  to  play
+some  trick  on  them,  so  they  laughed  about  it  and  quietly  paddled
+up  close  to  him.  They  pretended  they  thought  he  was  a  bear
+and  made  out  as  though  they  were  going  to  kill  him.  Wiske'djak
+swam  as  hard  as  he  could  for  his  life.  "Hand  me  my  axe,"
+said  one  of  the  Indians,  "till  I  kill  him."  "Stand  aside  till  I
+shoot  him  with  my  arrow,"  said  another."  "Hurry  up,  paddle
+hard  or  we'll  lose  him,"  said  a  third.  They  all  kept  shouting
+and  making  a  great  pretence  to  get  after  him,  all  the  time
+laughing  at  Wiske'djak  and  splashing  with  their  paddles  as
+though  trying  to  keep  up  with  him.  Wiske'djak  all  the  time
+struggled  ahead  in  great  fear,  expecting  any  moment  to  be
+killed.  At  last  he  got  across  the  lake  on  the  other  shore  and  his
+feet  struck  bottom.  He  landed  on  a  flat  rock  with  the  Indians
+behind  him.  Suddenly  he  slipped  and  fell  on  his  head.  The
+bear  skull  cracked  and  fell  off  and  left  his  head  free.  Then  he
+saw  the  Indians.  "Don't  shoot!  Don't  shoot!  cried  he.  "I'm
+Wiske'djak."  Then  he  took  to  the  bush  and  escaped.
+
+(3)  Wiske'djak  Invites  the  Ducks  to  a  Dance.
+
+Wiske'djak  was  always  hungry.  One  time,  in  the  autumn  of  the
+year,  he  noticed  the  flocks  of  ducks  flying  south  and  how  fat
+they  were.  Then  he  made  up  his  mind  to  try  and  get  some  for
+a  good  supply  against  the  winter.  He  decided  to  make  a  big
+dance  among  the  birds  in  the  autumn  and  to  invite  all  the  ducks
+and  geese  to  come,  so  that  he  could  kill  them.  Then  he  set  to
+work  and  built  a  big  wigwam  and  cleaned  a  nice  place  around
+the  outside.  He  built  a  little  fire  in  the  middle  of  the  wigwam
+and  fixed  a  nice  space  all  around  it  for  the  dance  to  take  place.
+Then  he  made  his  door  of  birch  bark,  so  that  the  centre  stick,
+which  keeps  the  bark  spread,  extended  over  the  ends  of  the
+bark  and  kept  it  from  opening  inwards.  Now,  everything  was
+about  ready,  so  he  went  to  see  a  Duck  and  said  to  him,  "Soon,
+
+
+9
+
+now,  you  will  be  going  away  south  to  be  gone  all  winter  and  not
+to  come  back  until  next  spring.  It  will  be  a  long  time  before  I
+will  see  you  again,  so  I  want  to  get  up  a  dance  for  you  all.  You
+go  and  invite  all  your  friends — the  Ducks,  the  Geese  and  the
+others  who  go  south."  "All  right,"  said  the  Duck.
+
+So  he  got  ready  and  went  back  to  his  wigwam  to  wait  for  the
+company.  To  help  invite  the  birds,  he  sat  down  in  front  of  it
+and  got  his  drum  and  rattle  and  began  singing  a  song  of  invita-
+tion.
+
+As  the  ducks  came  flying  by  overhead,  they  heard  his  song  and
+came  down  to  join  the  party.  He  sang  his  song  and  told  them,
+"You  are  going  away  to  be  gone  until  next  spring,  and  I  won't
+see  you  for  a  long  time,  so  I  want  to  get  up  a  dance  for  you  all,
+before  you  go."  A  lot  of  them  came  down  and  he  gathered  a
+crowd  outside.  Then  he  said,  "Now,  let  us  go  inside  and  have
+our  good  time,"  and  he  opened  the  door  and  they  all  went  in.
+Then  he  fixed  the  small  fire  in  the  middle  so  that  it  would  just
+give  enough  light  to  see  a  little.  "Now,"  said  he,  "you  must
+obey  the  rule  of  this  dance  and  do  whatever  you  are  told  when
+you  hear  the  order."  He  sat  down  on  one  side  of  the  fire  near
+the  door  and  they  all  began  dancing  around.  They  got  well
+mixed  up  before  long — the  geese,  ducks,  loons,  and  all  kinds
+of  birds,  and  Ciijgabis1  was  there  too.  When  he  got  them  warmed
+up  to  the  dance,  they  all  got  mixed  up  and  soon  Wiske'djak
+said,  "Now,  you  must  all  close  your  eyes  and  not  open  them
+until  I  give  the  word."  Then  they  obeyed  and  kept  on  dancing
+with  their  eyes  closed.  Then,  while  their  eyes  were  closed,
+Wiske'djak  got  up  and  began  wringing  the  neck  of  one  after
+another.  The  noise  of  the  dancing  prevented  them  from
+hearing  what  he  was  doing.
+
+Pretty  soon,  CiTjgabis  began  to  suspect  that  Wiske'djak  was
+moving  around,  so  he  danced  over  into  a  dark  corner  where
+Wiske-djak  could  not  see  him  and  opened  one  of  his  eyes  a  little
+to  peep  out.  There  he  saw  Wiske'djak  going  among  the
+dancers,  wringing  their  necks,  and  he  called  out,  "Wiske'djak
+is  killing  you!  Fly!"  Then  they  opened  their  eyes  and  saw
+what  was  happening  and  took  wing  and  flew  away.  But  little
+
+
+1  Cirjgabis  is  the  grebe,  a  well  known  character  in  Ojibwa  mythology,  sharing  the  trickster
+exploits  of  Wiske'djak.  He  appears  again  as  the  quasi-hero  of  a  subsequent  story  in  this
+cycle.
+
+
+10
+
+Cirjgabis  was  way  up  in  the  corner.  When  the  birds  rushed
+for  the  door,  Chjgabis  got  there  last.  Wiske'djak  jumped  at
+him  and  gave  him  a  kick  behind  that  knocked  him  out  of  shape.
+Then  he  kicked  him  out  of  the  door  and  cried,  "Now  go,  you  little
+rascal."  Ci^gabis  flew  off.  Ever  since  then  he  has  been  out
+of  shape.  His  feet  are  so  far  back  that  he  cannot  walk  on  land.
+Wiske'djak  did  not  eat  the  ducks  he  had  killed  after  all.  He
+was  a  curious  lad,  that  Wiske'djak.  (I  wasn't  with  him  any
+longer.  I  left  him  there.)1
+
+
+(4)  Wiske'djak  Anum  Suum    Urit    and    Originates  Rock-weed
+and  Red  Willow  from  the  Scabs.
+
+Now  Wiske-djak  went  on  after  he  had  kicked  CiTjgabis.  He
+saw  the  flocks  of  birds  rising  in  the  sky  and  flying  overhead  for
+the  south  to  where  it  is  warmer.  When  he  lost  sight  of  them,
+he  went  back  into  his  wigwam  and  looked  over  what  birds  he
+had  killed.  He  wondered  how  he  could  cook  them  best,  so
+they  would  taste  good.  Then  he  made  up  his  mind  to  build  a
+big  fire  outside  his  wigwam.  When  he  got  the  fire  well  started,
+he  got  a  stick  and  sharpened  its  point;  then  with  this  he  loosened
+up  the  ground  all  around  and  under 'the  fire.  When  the  fire
+burned  down,  it  left  the  sand  red  hot  round  about,  and  the  holes
+too.  Then,  where  the  holes  were,  he  stuck  the  fowl  head-first
+with  their  feathers  all  on  just  as  he  had  killed  them,  leaving
+their  feet  sticking  out  above  the  ground.  Then  he  put  on
+more  fire  to  roast  them  well  in  the  hot  sand.  He  stayed  up
+part  of  the  night  tending  his  fire,  until  he  grew  drowsy.  "Now,"
+said  he,  "I'll  take  a  little  sleep  while  my  birds  are  cooking  in  the
+sand."  But  he  grew  uneasy  lest  somebody  might  come  while
+he  was  sleeping  and  steal  his  birds.  Now  Wiske-djak  had  the
+power  to  make  anything  answer  him  when  he  spoke  to  it,  no
+matter  what  it  might  be.  So  he  decided  to  lie  down  in  a  clear
+space  facing  the  lake  where  people  would  come  in  a  canoe  if
+any  were  around.  He  lay  down  ano  suo  lacui  adverse,  resting
+on  his  knees  and  elbows.  "Now,"  declared  he,  "I'm  going  to
+have  a  little  sleep.  You  watch  and  tell  me  when  you  see  any
+
+1  Formal  way  of  ending  a  narration;    the  narrator  is  assumed  to  have  been  a  spectator.
+The  informant  temporarily  discontinued  his  story  here.
+
+
+11
+
+Indians,  if  they  should  come  in  a  canoe.  Wake  me  up  if  you
+see  anybody."  So  he  went  to  sleep.  After  a  while  anus  ejus
+clamavit,  saying  that  an  Indian  was  coming.  Wiske'djak
+jumped  up  and  looked  around  everywhere,  but  could  not  see
+anybody.  So  he  lay  down  again  and  ano  suo  idem  dixit  ut
+antea.  But  just  as  he  was  going  to  sleep,  anus  iterum  clamavit,
+saying  that  a  canoe  was  approaching  from  around  the  point.
+Wiske'djak  jumped  up  again  and  looked  all  around,  but  he
+could  not  see  any  canoe.  He  then  grew  angry  and  anum
+suum  vehementes  objurgavit  and  warned  it  not  to  tell  any
+more  lies,  as  he  wanted  to  go  to  sleep.  Then  he  lay  down  and
+fell  asleep  again.
+
+Now  this  time  there  were  some  Indians  coming  around  the
+point  in  a  canoe  and  they  saw  the  smoke  from  Wiske-djak's
+fire  on  the  shore  of  the  lake.  Seeing  something  strange-looking
+near  the  fire — they  could  not  well  make  out  what — they  paddled
+near.  As  they  drifted  quietly  in  shore,  looking  sharp  to  see
+what  curious  creature  it  might  be,  they  came  quite  close.  One
+of  the  Indians  said,  "Look  out,  it  might  be  Wiske'djak  up  to
+some  more  of  his  mischief."  So  one  of  the  men  went  ashore
+and  said,  "I'll  go  see  who  it  is  and  what  he  is  doing."  Then
+he  went  up  the  shore  to  where  Wiske'djak  was  crouching  asleep
+and  looked  at  him.  He  then  found  out  who  it  was,  Wiske'djak,
+and  saw  the  fire  burning,  but  couldn't  see  anything  cooking.
+But  at  last  he  examined  the  fire-place  and  saw  the  fowls'  legs
+sticking  out  of  the  sand  around  the  fire.  He  stepped  closer  to
+the  fire  and  saw  that  they  were  the  legs  of  all  kinds  of  ducks
+and  geese.  Then  he  went  down  to  the  water  and  told  the  rest
+of  the  men  what  he  had  found.  Said  they,  "We  will  all  go  up
+and  take  Wiske'djak's  ducks  and  geese  out  of  the  sand  and
+play  a  trick  on  him."  So  they  got  out  of  the  canoe  and  took
+their  paddles.  They  dug  up  all  the  fowl  with  the  paddles  and
+twisted  the  legs  off  them.  The  legs  they  stuck  back  in  the  sand
+just  as  Wiske'djak  had  placed  them.  They  then  took  the
+ducks  and  geese  and  started  off  as  fast  as  possible  before  Wiske'-
+djak should  wake  up  and  see  them.
+
+Pretty  soon  Wiske'djak  did  wake  up,  as  he  had  slept  enough.
+He  got  up  and  looked  about.  Nobody  was  around  and  things
+
+
+12
+
+looked  quiet.  "I  guess  my  food  is  pretty  well  cooked  by  this
+time,"  said  he.  Then  he  pulled  up  one  of  the  duck  legs  from  the
+sand,  and  ate  the  meat  on  the  shank.  He  went  all  around
+pulling  the  fowls'  legs  out  of  the  sand  and  eating  them.  "They
+are  very  well  done  to  pull  off  so  easily.  Oh,  they  must  be  nice
+and  tender!"  thought  he.  The  only  thing  he  noticed  was  that
+the  legs  came  very  freely  from  the  sand.  "They  must  be  very
+well  cooked  to  come  out  of  the  sand  so  freely."  He  took  a
+digging  stick  and  commenced  to  dig  them  out.  He  commenced
+shovelling  away  the  sand  where  one  of  his  ducks  was,  but  found
+the  hole  empty,  and  he  dug  all  around  in  the  sand  but  found
+they  were  all  taken  away.  He  could  not  find  one  bird.  At
+last  he  got  tired  of  searching  and  then  ano  suo  dixit,  "So  I
+thought  I  left  you  to  watch  for  me  while  I  was  asleep!"  Et
+anus  ^espondit,  "When  I  was  watching  for  you  and  woke  you
+up,  you  were  not  satisfied.  You  gave  me  a  scolding.  So  when
+the  Indians  did  come,  I  thought  I  would  leave  you  to  do  your
+own  watching."
+
+Then  Wiske'djak  grew  angry  and  planned  anum  suum
+castigare.  He  got  wood  and  made  another  big  fire.  He  got
+it  burning  well  until  there  were  a  lot  of  red  coals.  "Now,
+ano  suo  dixit,  "I'll  give  you  a  little  punishment  for  letting  my
+ducks  and  geese  go  to  the  Indians."  He  went  over  to  the  fire
+and  straddled  his  legs  over  the  fire-place,  sitting  over  the  red
+coals.  Anum  suum  paulum  urere  incepit  ut  eum  castigaret,
+but  he  stood  the  pain  the  fire  gave  him.  Soon  his  flesh  com-
+menced sizzling,  making  a  sputtering  noise  "Tsii!"  as  it  roasted
+nicely.  He  heard  it  squealing.  "You  can  squeal  all  you  like
+till  you  get  enough  of  a  scorching,"  ano  suo  dixit  Wiske'djak.
+When  he  thought  it  was  burnt  enough,  he  got  up  and  started
+walking  off.  He  started  off  to  look  for  something  else  to  do,
+ano  suo  maxime  dolente.
+
+He  wandered  across  swamps  and  mountains  and  around
+lakes,  suffering  with  his  burns.  All  at  once  he  came  upon  a
+little  flock  of  partridges  newly  hatched,  and  their  mother  was
+away.  "Kwe!"  said  Wiske'djak,  "What  are  you  doing  here?"
+"Nothing,"  said  the  little  Partridges,  "just  staying  here."
+"Where  is  your  mother?"  asked  Wiske'djak.  "Away  hunting,"
+replied  they.  "What's  your  name?"  he  asked  of  one.  Each
+
+*   EJU3.
+
+
+13
+
+little  Partridge  told  him  its  name  until  he  came  to  the  last,  the
+youngest  one.  "What's  your  name?"  he  demanded.  "Kuck-
+uijge-'sjs,  suddenly  frightened!"  answered  the  little  Partridge.
+"Oh  you!"  said  Wiske'djak,  "what  can  you  frighten?"  Then
+he  took  a  lump  of  soft  mud  and  threw  it  over  all  the  young
+Partridges,  so  that  he  almost  covered  them  with  the  dirty  mud.
+"What  can  you  frighten  now?"  said  he.  Then  he  left  and
+walked  along  until  he  came  to  a  high  mountain.  He  was
+getting  very  sore  from  his  burns  and  anus  'maxime  doluit.
+When  he  climbed  to  the  top  of  the  mountain  he  found  a  nice
+breeze  blowing  across  it.  He  found  a  high  rock  swept  by  the
+cooling  breeze.  "Now,"  thought  he  to  himself,  "if  I  can  find
+a  nice  place  on  the  highest  of  these  rocks  I  can  rest  myself  and
+let  the  cool  breeze  cool  my  burns."  So  he  searched  around  the
+mountain  until  he  came  to  a  place  clear  of  trees  where  there  was
+a  great  chasm  below,  hundreds  of  feet  deep,  with  a  nice  cool
+breeze  coming  over.  Here  he  lay  down  right  on  the  edge  where
+most  of  the  breeze  was.  He  found  the  wind  very  good.  He  got
+relief  from  his  suffering  burns.  His  pains  had  been  so  bad
+and  he  had  walked  so  far  that  he  was  very  tired  and  sleepy.
+Soon  he  was  fast  asleep  on  the  brink  of  the  cliff.
+
+By  this  time  the  old  Partridge  had  got  home  to  his  young
+and  found  them  all  covered  with  black  mud.  The  old  Partridge
+said  to  his  young,  "What  has  happened  to  you?  Where  did
+you  go?  Anywhere?"  "No,"  they  answered,  "nowhere."
+"Well,  what  did  this?"  he  asked.  "Well,  Wiske'djak  came  along
+to-day  after  you  went  away.  He  commenced  asking  us  ques-
+tions and  we  answered  him  as  well  as  we  could.  He  asked  us
+our  names  and  we  all  told  him.  But  one,  our  youngest  brother,
+was  the  last  to  be  asked,  and  when  he  told  his  name  Wiske'djak
+got  angry  and  said,  'What  could  you  frighten?'  Then  he  got
+mud  and  threw  it  over  us  and  left  us  in  this  mess."  So  the  old
+Partridge  was  angry.  He  cleaned  the  young  ones  up,  washed
+and  dried  them,  and  gave  them  their  food  which  he  had  brought
+back  for  them.  Then  he  asked  them  which  way  Wiske'djak
+went  and  they  showed  him  the  direction.  Then  the  old  Part-
+ridge took  the  trail  the  little  ones  showed  him  and  followed
+Wiske'djak  across  the  swamps,  over  the  mountains,  and  around
+the  lakes.  He  tracked  him  to  the  big  high  mountains.  He
+
+~EJUB.
+
+
+14
+
+kept  on  until  he  reached  the  high  rock  of  the  cliff,  and  there  he
+saw  Wiske'djak  lying  on  the  edge  of  the  rock  sleeping  soundly.
+The  old  Partridge  went  alongside  of  him  on  the  upper  side  of
+the  rock,  above  him.  He  spread  his  wings  and  went  right  up
+close  to  Wiske'djak's  ears,  and  shouted,  screeched,  and
+clapped  his  wings.  Wiske'djak  woke  up  with  a  start  and  jumped
+up.  He  saw  something  above  him  making  a  terrible  noise  and
+took  such  a  fright  that  he  fell  over  the  edge  of  the  rock.  "Now,"
+said  the  old  Partridge,  "you  will  know  better  what  Kuckurj-
+g&'sis  is  now."
+
+So  poor  Wiske'djak  tumbled  down  the  cliff,  banging  and  slid-
+ing on  his  hind-quarters,  and  scraped  all  the  scabs  off  his  burns.
+When  he  fell  to  the  bottom  of  the  rocky  cliff,  he  lay  stunned  for
+some  time,  but  after  a  while  he  arose.  He  started  to  crawl
+away  on  his  hands  and  knees.  Soon  he  saw  a  lake  at  the  bottom
+of  the  cliff.  His  sores  pained  him  very  badly.  Thought  he
+to  himself,  "There's  a  nice  lake;  now  I'll  go  down  there  and  cool
+myself  in  the  water."  He  started  crawling  toward  the  shore.
+Before  he  came  to  the  edge  of  the  water  there  were  a  lot  of  low
+willows  he  had  to  crawl  through.  As  he  went  over  them,  he
+looked  back  where  he  had  come  and  saw  all  his  blood  from  the
+sores  stuck  on  to  the  willow  twigs.  Then  said  he,  "Now  you
+young  willows  will  be  called  'red  willows'  from  this  time  on.
+And  when  the  Indians  get  short  of  tobacco  they  will  cut  you
+and  scrape  the  bark  off  you  and  dry  you  and  use  you  to  smoke
+for  their  tobacco."  He  looked  up  higher  toward  the  rocks
+where  he  fell  down.  There  he  saw  his  scabs  sticking  to  the  rocks
+where  he  had  stuck,  some  large,  some  small.  Said  he  to  the
+rocks,  "You  will  hold  on  to  these  scabs.  Don't  ever  let  go.
+And  when  the  Indians  are  hard  put  to  it  for  something  to  eat,
+you  will  give  them  some  of  my  scabs  and  tell  them  to  wash  them
+in  cold  water  and  boil  them  with  rabbit  meat  or  any  kind  of
+meat  or  fish.  It  will  furnish  them  with  fine  soup,  those  small
+ones.  And  now  the  biggest  scabs — you  can  tell  them  that  if
+they  have  any  kind  of  oil  they  can  oil  them  a  little  and  roast
+them  before  the  fire  and  that  it  will  give  them  good  nourishment
+when  they  are  hard  put  to  it  for  something  to  eat."  So
+from  that  time  the  Indians  have  used  red  willow  bark  to
+smoke  and  the  "rock  weed"  to  eat  when  they  have  needed
+
+
+15
+
+them.1     By  this  time  anus  Wiske'djaki  magnopere  doluit  and  he
+thought  he  would  go  into  the  water  for  a  while  and  cool  his  burns.
+So  I  had  some  travelling  to  do  and  I  left  him  there,  and  I
+don't  know  where  he  went.
+
+
+(5)  Wiske'djak  Disguises  himself  as  a  Lynx.
+
+One  time  in  winter  Wiske'djak  was  going  along  and  fell  upon
+an  Indian's  trail.  He  followed  the  tracks  of  the  snowshoes
+and  soon  came  to  a  place  where  the  Indian  had  set  his  rabbit
+snares.  Wiske'djak  saw  the  rabbits  in  the  snares.  He  followed
+on  and  finally  came  to  where  a  Lynx  was  caught  in  a  snare.
+He  thought  it  was  a  very  curious  looking  creature.  The  Lynx's
+eyes  were  bulging  out  from  being  choked  in  the  snare,  and  his
+teeth  showed.  Now  Wiske'djak  admired  the  Lynx's  bulging
+eyes.  "Don't  you  think  your  eyes  are  very  pretty?"  he  asked
+the  Lynx.  "No,  not  very,"  answered  the  Lynx,  because  every
+thing  living  or  dead  had  to  reply  when  Wiske'djak  asked  it  a
+question.  Wiske'djak  was  very  eager  to  get  pretty  eyes  like
+the  Lynx's,  so  he  made  a  fire  and  roasted  the  poor  Lynx  to  get
+its  skin  off.  Then  Wiske'djak  took  out  his  own  eyes  and  pulled
+the  Lynx's  skin  on  over  his  own  head,  so  that  the  bulging  eyes
+of  the  Lynx  fitted  into  his  own  eye  sockets.
+
+Then  Wiske'djak  went  on  his  travels,  very  well  pleased  with
+his  looks.  But  he  found  out  that  with  the  Lynx's  eyes  he  could
+only  see  well  at  night.  So  after  a  while  he  became  dissatisfied
+with  the  new  eyes,  but  he  had  thrown  his  own  away,  so  he  had
+to  make  the  best  of  it.  He  could  only  travel  at  night  on  account
+of  his  new  eyes.  So  he  had  to  make  his  living  on  rabbits,  stealing
+them  from  the  Indians'  snares.  They  were  all  he  could  get.
+One  day,  as  he  was  going  along,  he  stopped  and  looked  at  his
+tracks.  Then  he  discovered  that  his  paws  were  big  and  broad
+and  so  spread  out  when  he  walked  that  they  resembled  snow-
+shoes.  They  were  so  broad  that  he  could  walk  over  the  snow
+without  snowshoes.  So  he  went  on.
+
+
+1  The  Indians  often  use  the  red  willow  bark  to  mix  with  tobacco.  It  is  called  mssktpa'-
+M*  'my  "red  willow  tree."  The  yellow  spots  seen  on  the  red  of  the  bark  are  where  Wiske-djak,
+in  walking  over  them,  got  them  between  his  legs  and  left  yellow  matter  in  the  blood  from  the
+scabs.  The  "rock  weed,"  wa'kwund  (rock  tripe)  is  often  eaten  in  the  bush  when  other  foods
+fail.  It  is  scraped  off  the  rocks  with  a  flat  stick  into  a  blanket,  then  washed  and  boiled  and
+eaten.  The  water  becomes  a  little  slimy,  but  it  makes  a  nourishing  soup.
+
+
+16
+
+One  day  he  decided  to  watch  the  Indians,  so  he  sat  down  on
+a  log  near  a  hunter's  path  and  waited  for  someone  to  come  along.
+He  waited  all  night  and  part  of  the  day.  Finally  some  Indians
+came  along  the  path  to  visit  their  rabbit  snares.  As  they
+passed  they  found  the  rabbits  stolen  from  all  their  snares,  but
+they  did  not  mind  it  very  much.  Some  time  after,  one  of  the
+Indians'  little  children  came  along  the  trail  and  saw  Wiske'djak
+with  his  big  face  and  bulging  eyes  sitting  on  the  stump.  The
+child  ran  back  to  camp  and  told  his  parents  that  he  saw  a  big
+wildcat  with  bulging  eyes  staring  at  him  from  a  stump.  Then
+the  father  of  the  child  took  his  "arrow-head  club,"1  and  went  to
+where  the  child  said  he  saw  the  wildcat.  Then  he  started
+clubbing  Wiske'djak  to  kill  him.  The  fight  was  getting  pretty
+bad,  when  Wiske'djak  cried  out,  "Hold  on,  hold  on!  it  isn't
+a  lynx,  it  is  Wiske'djak  that  you  are  pounding  to  death!"  And
+Wiske'djak  tore  off  the  lynx  skin,  and  pitched  it  away.  Then
+he  took  to  the  bush.  That's  the  last  I  saw  of  him.
+
+
+(6)  Wiske'djak's  Love  Affair.
+
+Wiske'jdak  never  got  married  to  a  woman.  But  he  pretended
+to  get  married.  One  time  he  dressed  himself  like  a  woman,
+with  skirts,  and  tried  to  deceive  a  young  man,  so  that  he  thought
+Wiske'djak  was  his  wife.  Wiske'djak  pretended  to  be  jealous
+of  the  man  when  he  went  away.  The  other  people  knew  that
+it  was  Wiske'djak  all  the  time  and  laughed  to  themselves  and
+made  fun  of  the  pair.  The  young  man  lived  with  Wiske'djak
+for  some  time,  thinking  it  was  his  wife.  But  the  other  people
+made  fun  of  the  young  man  so  much  that  at  last  he  left  Wiske'-
+djak. Several  times  he  got  young  men  to  live  with  him  as
+their  wife,  but  at  last  they  all  left  him  and  he  went  away  by  him-
+self. He  was  a  queer  fellow,  that  Wiske'djak.  He  never  got
+married  because  he  would  not  be  bothered  with  a  woman,  as
+he  had  to  be  travelling  all  the  time.
+
+
+pugama'gan  "arrow-head  hammer,"  an  old  style  of  war  club  with  a  stone
+set  in  a  big  wooden  head  attached  to  a  handle  and  swung  by  a  thong  from  the  warrior's  elbow
+to  leave  his  hand  free.
+
+
+17
+
+(7)  Ci
+
+
+was  a  remarkable  fellow,  a  wonderful  diver  who
+could  stay  underneath  the  water  all  day  if  he  wanted  to.  He
+was  married  and  lived  with  his  wife's  people.  One  time  he  had
+some  kind  of  a  dispute  with  them  and  they  would  not  give  in
+to  him.  So  he  said  he  would  go  away.  As  it  was  winter  time,
+there  was  a  water  hole  in  the  ice  on  the  lake,  and  he  went  down
+and  slid  into  the  water  and  disappeared.  His  relatives  spent
+all  day  hunting  for  him  along  the  shores,  thinking  he  might  come
+up  along  the  edge,  but  he  did  not.  Then  they  went  home  and
+gave  him  up.  In  a  few  months,  when  his  wife's  brothers  were
+out  on  the  lake  in  their  canoe,  they  spied  a  little  duck  swimming
+a  long  way  off,  and  paddled  up  to  him.  This  was  CiTjgabis.
+When  they  got  near,  they  recognized  him  and  asked  him,  "Are
+you  not  Chjgabis?"  "Yes,"  said  he.  "We  thought  you  were
+drowned.  Are  you  coming  back  again?"  "No,"  said  he,  and
+fluttered  his  wings  and  sank  out  of  sight,  leaving  only  his  bill
+above  the  water,  which  they  could  not  see.  This  time  he  stayed
+under  all  day,  and  when  night  came,  he  left  the  country.  His
+wife's  people  thought  he  was  either  dead  or  gone.
+
+Then  Cirjgabis  travelled  to  another  village,  where  he  heard
+there  was  a  beautiful  girl.  When  he  saw  her  all  dressed  up  in
+fine  clothes,  new  and  beaded,  he  wanted  to  marry  her,  and  asked
+her  parents  for  her.  "Who  are  you?"  they  asked  him.  "I  am
+Cirygabis,"  said  he.  "Why,  we  heard  you  were  drowned,"  said
+they.  "It  is  not  true.  Here  I  am.  I  am  Ciijgabis  and  alive."
+"You  cannot  be  Cir/gabis,  because  there  is  only  one  Ciijgabis,
+and  we  heard  he  was  drowned.  But  if  you  are,  you  cannot
+marry  the  girl,  because  you  have  another  wife."'  Now  Cir/gabis
+wanted  the  girl  and  stayed  in  the  camp.  He  would  not  leave.
+So  that  night  they  put  one  of  the  girl's  brothers  to  sleep  alongside
+of  him,  so  that  he  could  not  secretly  get  to  the  wigwam  where  the
+girls  slept.  During  the  night  he  talked  with  the  brother  and
+told  him  that  he  would  show  them  how  he  could  stay  under  water
+if  they  would  give  him  the  girl.  The  next  morning  the  young
+man  told  his  parents  about  it  and  they  talked  it  over.  They
+thought  it  might  be  good  for  their  boys  to  know  how  to  stay
+under  water,  and  at  last  gave  their  consent.  So  they  gave
+
+
+18
+
+CiTjgabis  the  girl,  and  the  next  day  went  out  on  the  lake  to  see
+him  dive.  The  whole  family  got  in  the  canoe  and  they  paddled
+out  to  the  middle  of  the  lake.  "Now,"  said  he,  "let  me  out
+here."  Then  he  slid  into  the  water  and  with  his  body  stiff
+sank  slowly  until  he  was  out  of  sight.  Then  he  struck  out
+under  water  and  reached  the  shore  where  he  hid  under  some
+rushes,  just  leaving  his  bill  above  the  water.  His  nostrils  were
+at  the  end  of  his  bill,  so  he  could  breathe  with  only  a  bit  above
+water.  They  waited  for  him  half  the  day  and,  though  the  water
+was  calm,  could  not  see  him,  so  they  gave  him  up  and  went  home.
+That  night  he  came  back,  to  their  surprise.
+
+They  planned  to  go  out  again  the  next  day  and  see  him  dive
+again.  The  next  day  they  went  out  and  Chjgabis  dove  again
+and  swam  among  some  reeds.  He  got  under  one  lying  flat,
+and  pushed  it  just  a  little  above  the  water  so  that  his  nostrils
+were  out  of  water,  yet  covered  by  the  stem  of  the  rush.  There
+he  stayed  a  couple  of  hours  out  of  sight.  When  they  were  about
+to  leave  again,  CiTjgabis  shouted,  "He!  Here  I  am.  Can  you
+see  me?"  They  looked  all  around  but  could  not  see  him.
+Then  he  came  up  in  sight  and  went  back  to  the  canoe.  He
+explained  how  his  nostrils  were  out  at  the  end  of  his  bill  and  how
+he  got  under  the  reeds  and  hid  there.  Then  he  explained  how
+in  the  winter  time  he  could  dive  through  an  air  hole  in  the  ice
+and  swim  to  where  the  rushes  grew  up  through  the  ice,  pull
+down  one  of  the  stalks,  and  put  his  bill  in  the  opening  and  get
+all  the  air  he  wanted.  Said  he,  "I  can  stay  there  a  week  or  a
+month,  if  I  want,  only  I  get  hungry.  Then  I  dive  to  the
+bottom  and  eat  some  little  mussels  and  things  on  the  bottom
+and  come  up  to  the  hole  again.  In  that  way  I  can  get  along
+under  the  ice  all  winter  if  I  like."  That  is  how  he  did.
+
+Now,  before  long,  his  first  wife's  family  heard  that  Ci^gabis
+was  alive  and  living  with  another  woman.  They  got  angry
+and  began  to  conjure  to  bring  sickness  upon  his  new  wife  and
+her  family.  When  his  new  wife  and  her  people  heard  of  this,
+they  were  angry  at  Cirjgabis  and  wanted  him  to  go  away.  But
+he  would  not  consent.  At  last  he  made  an  offer,  because  his
+mother-in-law  wanted  her  daughter  to  leave  him.  He  told
+them  that  he  would  give  up  his  new  wife  and  her  family  if  they
+would  succeed  in  getting  her  away  from  him  unknown  to  him.
+
+
+19
+
+When  they  heard  this,  they  began  planning.  For  a  whole  year
+they  thought  of  different  plans.  At  last  the  old  mother-in-law
+said  she  had  a  plan,  and  told  everyone  in  the  family  to  help
+her  get  up  a  big  dance  and  invite  all  the  people  to  come.
+Cir/gabis  was  very  jealous  of  his  wife  and  had  his  camp  apart
+from  the  others,  lest  some  man  might  take  a  fancy  to  his  wife
+and  take  her  away.  His  jealousy  was  known  everywhere  and
+he  never  let  her  out  of  sight.  Knowing  this,  the  old  mother-in-
+law  made  her  plan.  She  sent  a  special  invitation  to  CiT/gabis
+and  his  wife  and  told  her  sons  to  try  to  get  him  to  come.  Now
+Cirjgabis  suspected  some  trick  and  told  his  wife  not  to  go  to  the
+dance.  "If  I  have  to  go,  you  must  stay  here  at  home  and  not
+move  away  from  the  wigwam."
+
+When  the  night  of  the  dance  came,  they  got  everything  ready —
+the  drum  and  rattles,  and  everybody  was  coming  from  every
+camp.  They  prepared  a  kind  of  drink  out  of  boiled  bark  and
+herbs  with  tobacco  juice  in  it,  that  would  make  people  dizzy
+when  they  drank  it.  Cbjgabis  did  not  want  to  go  to  the  dance
+at  first,  but  everybody  coaxed  him  until  he  started.  But  he
+told  his  wife  to  stay  at  home  and  not  leave  for  anything.  Now
+this  was  just  what  the  old  woman  depended  on,  because  she
+knew  how  jealous  Cirjgabis  was.  When  the  dance  began,
+everybody  began  drinking  some  of  the  strong  herb  liquor  and
+it  went  to  their  heads  and  made  them  feel  good,  and  dizzy.
+The  old  woman  told  her  sons  to  keep  Cirjgabis  well  supplied
+with  the  drink  and  not  let  to  him  leave  until  late.  She  then
+waited  until  the  dancing  was  well  started  and  everybody  was
+warmed  up  to  it.  Then  she  quietly  slipped  away  when  she
+saw  that  Cirjgabis  was  dancing  hard  and  feeling  good  with  the
+drink.  He  had  almost  forgotten  about  his  wife  and  what  might
+happen.  The  old  woman  went  off  into  the  woods  to  where  there
+was  a  dead  spruce  stump  that  was  full  of  ants.  She  cut  off  the
+stump  and  got  a  piece  about  the  length  of  a  person.  The  ants
+are  asleep  in  the  cold  of  night  and  will  not  rouse  when  disturbed.
+The  stump  she  took  with  her  to  CiTjgabis'  wigwam  and  quietly
+called  to  her  daughter  inside.  "Come,  daughter,  I  have  come
+to  take  you  home  away  from  CiTjgabis,"  she  whispered.  "You
+get  up  out  of  bed  and  leave  everything  as  it  is."  "All  right,"
+said  the  girl,  and  she  packed  up  a  few  of  her  things  and  came  out.
+
+
+20
+
+Then  the  old  woman  took  the  stump  full  of  ants  in  and  put  it
+beneath  the  rabbi tskin  blanket,  covered  it  up  just  like  the
+girl's  figure  sleeping  there,  and  the  two  then  fled  to  the  mother's
+camp.
+
+Cirjgabis  stayed  late  at  the  dance.  He  drank  a  great  deal  of
+the  liquor  and  got  pretty  dizzy  before  he  thought  about  going
+home.  At  last  he  left  the  dance  and  started  for  his  wigwam.
+He  entered  quietly.  "Are  you  asleep?"  he  asked  of  his  wife.
+There  was  no  answer.  "Aha!  that's  good,"  said  he.  "I'll  let
+her  sleep  and  then  there  will  be  no  danger  of  her  being  carried
+away  tonight,  as  I  am  very  sleepy  with  my  weariness  and
+cannot  keep  awake  to  watch  her  tonight.  That's  good;  she  is
+sound  asleep."  And  he  felt  her  blanket  and  found  what
+he  thought  was  her  figure  beneath  the  rabbitskin.  Then  he
+lay  down  quietly  beside  her,  so  as  not  to  awaken  her,  and  pretty
+soon  was  fast  asleep.
+
+Before  long  some  of  the  ants  got  warmed  up  by  his  body  and
+began  crawling  over  him.  "Oh!  what's  that  crawling  over  me!
+Do  you  know  what  it  is  that  is  creeping  over  us?"  he  asked  his
+wife,  and  gave  the  stump  another  poke  with  his  elbow.  No
+answer.  "Well,  you  are  asleep  yet.  But  that's  good.  There
+won't  be  any  danger  of  your  walking  about  the  camp  attracting
+the  other  men  while  I  am  asleep.  But  oh!  how  those  things  bite.
+I  wonder  what  they  are!"  Then  he  dozed  off  again  and  was
+awakened  again  by  the  ants  stinging  him.  He  managed  to  bear
+it  all  night,  and  in  the  morning  woke  up  suddenly,  all  bitten  up.
+He  jumped  up,  threw  off  the  rabbitskin  blanket,  and  instead  of
+his  wife  there  lay  the  old  rotten  spruce  stump  swarming  with  ants.
+
+(8)  Remarks  About  Wiske'djak.
+Timiskaming  Algonquin  Text.
+wiske'djak       wr'egiskenda'go     zi'gobcm         igr'br
+
+Wiske-djak  was  always  doing  it  is  said,  in  his  lifetime
+
+mischief,
+
+wr'gipama'tazrmatc    anicana'bi    mo-'jak    ano'tcke-'gon
+
+living  among  the  Indians,  always  everything
+
+ogr'jinrgwuna'djran    wr'djinrcana'bin'     i'yanotc     mo''jak
+
+doing  what  he  could  his  countrymen  Everywhere         always
+
+teasing  Indians.
+
+
+21
+
+kr'b9ba'ma!'dazitc          e'jr      ani'canabe'ka'nik      ki'baba'nda
+
+going  about  during  wherever       there  were  Indians.  going  about
+
+his  life
+
+mi-'gucka'djiatc      wr'djanicana'bi      owPetenda'go      zi'gobon
+
+teasing  hia  countrymen.  He  was  funny,  it  is  said,
+
+sa'wrna'nawe  ryeja'nawe        ega  irjo'djrma'nas-ik
+
+at  the  same  time  for  all  that.  He  had  no  canoe;
+
+to  have  him  about
+
+mo-'jak       ki'gmita'z9ga''me'tc  kenowekwa'Ve  kr'baba  aye'ja
+
+always  he  walked  about  the  a  great  distance,  going  here  and
+
+land  about  there.
+
+ke'gat'    enigu'k'kami'ga'g1        ak'i'7/g  krno'ndaga'newe
+
+Almost  travelled  over  the  on  earth.  We  heard  tell  of  him
+
+whole  world
+
+kr'baba    mrgu'cka'dzitc      kaye'ga'k'i'nage'gon    ogr'g9ckrt*on
+
+going  doing  mischief.  He  had  everything  it  would
+
+about  so  that  answer  him
+
+tcra'n9mit'a'gw9t'o'tc       mi'ti'g'on'       nibi-'       awe"si'zaV
+
+when   he  spoke   to  it;  trees,  water,  animals,
+
+ano'tc       awi-'cm'       awe'gwe'n9c*9'n'       ogi''n9kwe"ta'gon'
+
+and  all  other  small  creatures  would  reply  to  him
+
+i-gano'nac  mi-'samini'k       teba'djrmofk        wiske'djak.
+
+when  he  spoke.  That  is  as  can  be  told  of  Wiske-djak.
+
+much  as
+
+Free  Translation.
+
+Wiske'djak  was  always  doing  mischief  in  his  lifetime  among
+the  Indians,  so  it  is  said.  He  was  always  doing  everything  he
+could  to  plague  his  countrymen,  the  Indians.  He  spent  his  life
+going  about  everywhere  where  there  were  Indians,  to  tease  them
+and  play  mischief  among  them.  Because  he  was  so  funny,  it
+was  thought  good  to  have  him  going  about  in  spite  of  his  mis-
+chief. He  had  no  canoe,  so  he  always  walked  about,  going  great
+distances  here  and  there  and  everywhere,  until  he  had  travelled
+almost  all  over  the  world,  where  he  was  heard  of  doing  his
+mischievous  pranks.  He  had  the  power  to  make  everything  in
+creation  answer  him  when  he  spoke  to  it;  trees,  water,
+animals,  and  all  the  other  little  creatures  would  reply  to  him
+when  he  spoke.  That  is  all  that  can  be  said  of  Wiske'djak.
+
+(9)  Further  Comment  on  Wiske'djak.
+
+Wiske'djak,  ''meat  bird,"  was  a  great  mischief  maker.     He
+was  always  a  roamer,  always  hungry.     He  used  to  visit  from  one
+65977—5
+
+
+22
+
+family  of  Indians  to  another,  but  he  never  liked  to  stay  long  with
+one,  so  soon  he  would  move  away  and  go  near  other  people.
+He  was  always  looking  for  trouble  and  got  it  too,  but  in  spite  of
+all  he  was  never  killed.  Indeed,  nobody  ever  wanted  to  kill
+him,  even  though  he  was  causing  so  much  mischief,  because  the
+people  liked  to  have  him  around.  So  he  never  came  to  an  end.
+All  of  Wiske-djak's  pranks  were  done  at  different  times  long  ago,
+not  all  one  after  another  at  one  time,  as  it  might  seem.  He  is
+still  living  somewhere,  but  he  is  very  quiet  now,  as  we  don't
+hear  of  him  doing  anything  new  nowadays.
+
+
+TIMISKAMING   FOLK-LORE.
+
+(1)
+
+Wi'ndigo:  a  man-eating  creature  who  roams  through  woods
+devouring  luckless  victims.  He  is  believed  to  have  commenced
+as  a  hunter  who  became  lost  in  the  bush,  and  lost  all  his  provi-
+sions and  clothing.  Then  he  preyed  upon  anything  he  could
+find,  like  an  animal.
+
+(2)
+
+Pcf'guk*:  a  creature  of  bones,  a  skeleton,  that  clatters
+through  the  forest,  making  a  great  rattling  and  squeaking  noise.
+When  this  is  heard,  it  is  understood  as  an  omen  that  some  friend
+will  be  lost.  P&'guk*  is  accounted  for  by  the  story  of  a  hunter
+who  got  starved  out  in  the  bush.  Before  he  died  he  wished  that
+his  life  and  the  strength  of  his  flesh  might  be  transferred  to  his
+bones.  He  got  his  wish,  and  his  strength  went  into  his  bones
+when  his  flesh  fell  away.  Whenever  he  wished,  he  could  fly
+through  the  air  as  though  on  wings.
+
+(3)
+
+The  constellation  Ursa  Major  (Great  Bear  or  Dipper)  is  called
+wddji-'g  "fisher"  or  "black  cat"  (Mustela  pennanti).  The  four
+main  stars  of  the  group  form  the  body  of  the  animal;  the  stars
+trailing  behind  (the  handle  of  the  dipper)  represent  the  fisher's
+
+
+23
+
+tail,  the  bend  showing  the  bent  tail  of  the  animal.  The  story
+accounts  for  the  presence  of  the  fisher  in  the  sky,  relating  how
+the  various  animals  tried  to  reach  the  north  star,  but  eventually
+froze  to  death.  The  fisher  is  still  trying  to  reach  it  and  he  is  the
+nearest,  but  he  only  keeps  going  round  and  round  it  (representing
+the  revolution  of  the  constellation  about  the  North  Star)  without
+being  able  to  get  there.
+
+(4)
+
+The  Northern  Lights  are  called  wa't'e  "illumination"  (redupli-
+cated wawa't-e  is  "lightning"  from  thunder).  They  are  caused
+by  the  waves  splashing  against  the  rocky  shores  of  the  northern
+seas  (James  bay),  which  produce  a  sort  of  reflected  glow.  The
+seething  noise  which  is  sometimes  heard  when  the  aurora  is
+visible  is  attributed  to  the  grinding  of  the  rocks  and  gravel
+along  the  shore  of  the  sea  driven  by  the  action  of  water  and  wind
+in  the  north.
+
+The  Indians  here  think  that  within  two  days  after  the  aurora
+is  seen  they  will  get  a  heavy  wind  storm.  They  also  state  that
+wild  geese  require  a  day  and  a  night  to  reach  Lake  Timiskaming
+from  James  bay  when  they  migrate,  thus  showing  the  speed  of
+the  wind  by  comparison.
+
+(5)
+
+The  Rainbow  is  called  wdda'gwanBbrsan*  "forms  from  the
+water,"  since  the  phenomenon  is  believed  to  be  caused  by  the
+mist  from  breakers  on  some  great  body  of  water,  just  as  a  rain-
+bow will  appear  above  the  spray  along  the  seashore  or  hanging
+in  the  mist  above  some  waterfalls.
+
+(6)
+
+The  Milky  Way  is  bine' sfimif  from*  'bird's  path,"  because  it
+is  by  the  Milky  Way  that  the  fowl  and  birds  follow  their  north-
+ward or  southward  course  in  their  migrations.  It  guides  them
+southward  in  the  autumn  and  back  again  in  the  spring.  Less
+frequently  the  Milky  Way  is  called  dji'ba'imrfcan*  "spirit  path"
+over  which  the  spirits  of  the  dead  are  thought  to  journey.
+65977— 5
+
+
+24
+
+(7)
+
+To  see  a  white  animal  is  a  sign  of  bad  luck  to  a  hunter.  "Once
+a  man  went  hunting.  After  he  had  been  travelling  all  day  and
+taken  a  few  animals,  he  saw  a  bear  that  was  half  black  and  half
+white.  Then  he  said  to  himself,  'I  must  not  hunt  any  more  this
+trip.  If  I  do,  some  harm  will  come  to  my  family.'  So  he  went
+home." — "If  a  hunter  sees  an  albino  animal  he  must  stop  hunt-
+ing or  evil  will  befall  him  or  some  member  of  his  family."
+
+(8)
+
+To  find  a  dwarfed  animal  is  an  omen  of  misfortune.  "Once
+two  men  were  out  on  a  long  hunting  trip.  Soon  after  they  had
+begun  trapping,  they  found  a  dwarfed  beaver  in  one  of  the  traps.
+It  was  not  small  because  it  was  young,  but  they  could  see  it  was
+an  old  one,  but  much  undersized.  When  the  older  of  the  two
+men  saw  this,  he  said,  'We  must  go  home  at  once  and  give  up
+hunting  because  something  is  wrong  at  home.'  Although  they
+had  been  gone  only  a  short  time,  they  turned  back,  and  when
+they  got  home,  they  found  that  one  of  his  sons  was  dead  and  that
+the  family  was  waiting  to  bury  him."
+
+(9)
+
+To  foretell  what  kind  of  animals  will  be  killed  the  next  day
+by  men  just  before  going  hunting,  a  partridge  breast  bone  is  burnt
+or  scorched  before  the  fire.  The  shape  of  the  scorched  portion
+suggests,  by  a  vague  resemblance,  the  form  of  some  animal.
+
+
+(10)
+
+The  tips  of  the  wings  of  birds  that  are  killed  for  food  are  pre-
+served about  the  camp  for  good  luck,  or,  as  they  say,  "to  ask  for
+more  luck."  Some  hunters  also  preserve  the  skulls  of  all  the
+game  they  kill.  "If  they  throw  these  parts  of  the  animals
+away,  they  won't  be  able  to  find  what  creatures  they  may  look
+for  afterward."
+
+
+25
+
+(11)
+If  blue  bottle  flies  are  killed  it  will  bring  rain.
+
+(12)
+
+If,  in  winter,  rabbit's  hair  is  thrown  into  the  smoke  of  a  fire,
+as  it  rises  in  the  heat  toward  the  sky,  it  will  cause  snow  the  next
+day.  Children  are  scolded  when  they  do  these  things  at  the
+wrong  time.
+
+(13)
+
+In  the  body  of  a  fish  are  various  bones  which  the  Indians  liken
+to  different  utensils  and  tools  in  the  hunter's  outfit.  There  is  a
+gun,  spear,  bow  and  arrow,  knife,  paddle,  sled,  snowshoe,  awl,
+etc.  This  is  merely  a  saying.
+
+(14)
+
+Another  idea  is  that  a  "left-handed  person  is  clever,  because
+he  fools  people  by  the  way  he  does  things."
+
+(15  )  Bear  Feast.
+
+The  following  description  of  the  ceremony  attending  the  eating
+of  a  bear  is  based  on  the  accounts  of  three  participants.
+
+When  a  bear  has  been  killed,  the  families  in  the  neighbourhood
+assemble  at  a  camp  conveniently  near.  The  hunter  who  has
+killed  the  bear  becomes  the  host  of  the  occasion,  which  is  called
+ma'gwace-'  "feast."  Slabs  of  birch  bark  are  spread  upon  a  clear
+space  of  ground  to  serve  as  a  sort  of  table.  The  carcass  is  then
+butchered,  the  head  being  cut  off,  including  the  first  vertebra,
+the  long  piece  of  breast  fat  is  also  cut  off  with  the  head,  so  that
+the  two  remain  together.  The  head  with  this  mass  of  breast
+fat  is  then  put  into  a  separate  cooking  vessel.  Then  the  birch
+bark  slabs,  often  12  feet  long,  forming  the  cover  of  some  wigwam,
+are  covered  with  the  cut  up  portions  of  the  meat.  Birch  bark
+dishes  are  placed  for  each  participant  on  the  bark,  with  extra
+dishes  for  the  gravy.  The  grease  from  the  cooking  vessels  is
+
+
+26
+
+then  collected  and  put  into  a  separate  vessel  to  cool,  so  that  it
+will  be  thick  enough  to  drink.  When  the  meat  has  been  boiled
+properly,  all  the  guests  are  seated  at  their  places  around  the  bark
+spread.  Often  they  have  a  dance  around  it  at  this  time.  Before
+they  begin  to  eat,  the  chief  goes  around  to  each  guest  and  with
+a  big  wooden  spoon,  holding  about  a  cupful  and  a  half,  gives
+each  a  spoonful  of  grease.  Then  they  begito  to  eat.
+
+When  the  feast  is  about  half  through,  the  chief  gets  up  and
+decorates  the  bear's  head  with  bright  coloured  ribbons  about  six
+inches  long  attached  to  little  cedar  sticks  about  four  inches  long,
+with  their  ends  split  to  hold  the  ribbons.  These  ribbon
+streamers  are  stuck  into  the  fat  and  about  the  head.  Then  the
+head  itself  is  impaled  on  a  stick  and,  carrying  this  in  his  hand,
+the  chief  dances  twice  around  the  company,  singing  a  tune  to  a
+burden  of  syllables.  After  this  performance  the  chief  plants
+the  stick  with  the  head  upon  it  in  the  middle  of  the  spread  before
+all  the  guests,  where  it  is  left.  Then  they  finish  eating.
+
+After  the  feast  the  oldest  and  most  venerable  man  in  the  camp
+is  presented  with  the  head  and  the  attached  breast  fat,  which  he
+may  either  take  home  or  distribute  over  again  to  the  company.
+After  the  feast  is  over  the  chief  must  go  around  and  consume
+what  grease  is  left.  This  is  to  demonstrate  his  capacity  as  a
+man  and  hearty  eater.  After  all  is  over,  the  lower  jaw  bone  is
+tied  to  the  skull  in  its  proper  position  and  black  stripes  are
+painted  on  the  skull.  This  is  then  put  on  the  stub  end  of  a  branch
+of  a  tree  facing  from  some  prominent  point  toward  the  river  or
+lake,  near  the  water's  edge.  Here  it  can  be  seen  by  passers  by
+as  a  reminder  of  the  place  and  occasion  of  the  bear  feast.
+
+The  Indians  themselves  can  give  little  comment  on  the  mean-
+ing or  reason  of  this  ceremony,  except  that  it  is  done  from  respect
+to  the  bear  and  satisfaction  in  securing  a  bountiful  supply  of
+meat.  It  belongs  to  the  variously  expressed  series  of  bear  rites
+widespread  among  the  northern  tribes.
+
+(16)  Legend  of  Iroquois  Falls.
+
+Once  long  ago  a  war  party  of  Iroquois  came  north  into  this
+country  to  fight  the  Indians  at  Abitibi.  On  the  way  they  cap-
+tured an  old  woman  and  took  her  with  them  to  guide  them.
+
+
+27
+
+When  they  were  on  Abitibi  river  they  drew  near  the  big  falls
+there  without  knowing  it.  The  old  woman  was  made  to  stay
+in  the  first  canoe.  When  she  knew  they  were  nearing  the  falls
+she  slowed  up  so  that  the  flotilla  of  canoes  became  bunched.
+The  approach  to  the  falls  is  very  much  concealed.  All  of  a
+sudden  they  found  themselves  upon  the  brink  of  the  falls,  and
+before  they  could  help  themselves  they  all  went  over.  The  old
+woman  was  lost  with  the  rest  in  saving  her  people  from  being
+massacred  by  the  Iroquois.1
+
+
+1  It  is  a  most  remarkable  thing  that  practically  the  same  legend  is  found  among  all  the
+northern  and  eastern  Algonkians:    Cree,  Montagnais,  Abenaki,  Penobscot,  Malecite.
+
+
+28
+
+
+CHAPTER  II.
+
+MYTHS  AND  FOLK-LORE  OF  THE  TIMAGAMI
+OJIBWA.
+
+INTRODUCTION.
+
+In  the  following  pages  are  presented  the  myths  and  items  of
+folk-lore  related  by  various  informants  through  Aleck  Paul,  the
+second  chief  of  the  Timagami  band  of  Ojibwa.  I  present  them
+without  any  comparisons  with  other  mythologies  at  this  time,
+as  we  may  expect  before  long  to  have  more  northern  Algonkian
+mythology  available  for  study  and  analysis.
+
+(1)  NENEBUC,  THE  TRANSFORMER.
+
+(a)  The  Magic  Birth  of  Nenebuc  and  his  Four  Brothers.1
+
+There  were  two  people  living,  a  man  and  his  wife,  who  had
+an  only  daughter.  When  she  was  twelve  years  old,  the  age  of
+puberty,  she  was  taken  over  a  hill  and  was  kept  there  in  a  camp
+alone  for  twelve  days,  neither  eating  nor  drinking,  in  order  that
+she  might  have  a  dream.2  If  she  should  eat  or  drink,  she  would
+have  no  dream.  If,  while  she  was  dreaming,  a  panther  came
+alone,  she  would  be  very  strong.  So  her  parents  kept  her  there.
+The  girl  dreamed  of  the  sun,  so  she  could  not  look  at  the  sun  any
+more,  for  if  she  did  so,  she  would  have  to  go  away  from  her
+parents  and  live  with  the  sun.  When  the  girl  had  had  this
+dream,  she  went  back  to  her  parents  and  her  father  asked  her,
+"What  have  you  been  dreaming?"  "I  am  very  sorry,  but  I
+have  dreamed  of  the  sun,  so  I  cannot  ever  look  at  the  sun  again,"
+replied  his  daughter.  "Well,  now  it  is  too  bad,  but  you  mustn't
+look  at  the  sun,"  said  her  father.  "You  stay  here  all  the  time.
+Don't  look  at  the  sun,  that's  all."
+
+1  This  is  the  version  of  the  Kingfisher  clan  of  the  Timagami  band.
+*  This  refers  to  the  old  custom  of  seclusion  during  puberty.
+
+
+29
+
+The  girl  used  to  get  water  at  the  shore  and  stay  there  a  long
+time.  One  day  in  March,  she  went  to  the  water  hole,  broke  the
+ice  and  looked  into  the  water.  In  so  doing,  she  made  a  mistake,
+for  there  was  no  cloud  in  the  sky  and  the  sun  was  shining
+brightly  near  the  horizon,  so  that,  early  in  the  morning,  she
+looked  at  the  sun.1  She  brought  the  water  back  in  a  birch
+bark  pail  and  placed  it  inside  the  wigwam,  but  she  could  not  sit
+down.  "What  is  the  matter?"  said  her  father.  "Why,  I
+looked  at  the  sun,"  answered  his  daughter.  "Well,  good-bye,
+you've  got  to  live  with  the  sun  now,"  said  her  father.  Then  the
+girl  and  her  parents  shook  hands  and  she  went  away  to  live  with
+the  sun,  and  is  there  yet.  Before  she  went  away  she  said  to  her
+father,  "You  will  see  your  grandchildren  before  long."  Then
+she  told  him  to  put  his  wooden  dish  upside  down  before  the  fire
+and  to  leave  it  there  four  days  and  four  nights  and  to  look  under
+it  every  morning.  Then  she  went  to  live  with  the  sun.
+
+So  the  old  man  put  the  dish  upside  down  before  the  fire.  The
+first  morning  he  lifted  the  edge  of  the  dish,  looked  under,  and
+there  he  saw  Nenebuc,  the  child  of  the  sun,  sitting.  The  next
+morning  he  did  the  same  thing  and  he  saw  Nenebuc's  brother
+sitting  with  him.  He  kept  doing  this  the  third,  fourth,  and  fifth
+mornings,  until  there  were  Nenebuc  and  his  four  brothers  all
+sitting  under  the  dish.  Then  the  old  man  picked  up  the  dish.
+One  of  the  brothers,  the  second  brother,  had  horns  on  his  head
+and  the  old  man  said  to  him,  "You  won't  stay  here.  You  go  to
+the  west."  Then  he  sent  one  brother  to  the  east,  one  to  the
+south,  and  one  to  the  north.  So  Nenebuc,  the  eldest  of  the  five,
+was  left.  The  old  man  told  him  to  attend  to  the  world  and  to
+keep  the  winds  going  just  right  lest  the  water  get  stagnant  and
+bad.  Then  Nenebuc  stayed,  and  his  four  brothers  started  to
+the  four  parts  of  the  earth.
+
+One  day  Nenebuc  asked  his  grandfather,  "Where  have  I  been
+born?  Had  I  a  mother  like  other  people?"  His  grandfather
+would  not  tell  him,  but  his  grandmother  told  him  that  he  had
+been  found.  This  appeared  queer  to  Nenebuc  and  he  thought
+to  himself,  "The  other  people  have  mothers,  but  I  have  none.
+I  must  find  out."  So  he  took  a  whetstone  and,  scraping  it  on  a
+
+
+1  By  doing  so  she  became  pregnant.     Magical  conception  occurs  in  the  culture-hero  story
+of  the  Algonkian,  Iroquoian,  and  Yuchi  tribes.
+
+
+30
+
+rock,  he  asked  it,  "Have  I  any  mother?"  "Yes,  you  have  a
+mother,"  replied  the  whetstone  and  then  it  told  him  his  story.
+Then  Nenebuc  told  his  grandfather,  "I  have  a  mother  and  four
+brothers  besides.  The  whetstone  told  me  so."
+
+Soon  Nenebuc  began  growing  larger  and  he  thought  it  strange
+that  he  had  not  been  sent  out  into  the  world  like  his  brothers,
+so  he  asked  his  grandfather  for  what  reason  he  had  kept  him.
+His  grandfather  told  him  that  he  had  kept  him  at  home  so  that
+when  he  became  old  and  feeble  Nenebuc  would  be  able  to  help
+him,  cut  wood  for  him,  and  hunt  for  him.  This  satisfied
+Nenebuc  and  he  used  to  help  his  grandfather  in  many  ways,
+spearing  fish  for  him  in  calm  days,  hunting  for  him,  and  doing
+many  other  things.  He  never  got  into  any  mischief  and  he
+grew  very  fast.
+
+(b)  Nenebuc  Tempers  the  Wind.
+
+One  summer  Nenebuc  was  unable  to  get  fish  for  the  whole
+summer  on  account  of  the  high  winds.  The  people  almost
+starved,  and  then  Nenebuc  became  very  angry.  He  did  not
+like  to  see  his  grandfather  starving  and  his  anger  was  aroused
+against  the  West  Wind  for  blowing  so  much.  So  he  told  his
+grandfather  that  he  was  going  to  kill  the  West  Wind  for  this,
+but  the  old  man  said  to  him,  "Don't  kill  him.  Make  him  let
+the  wind  blow  a  while  and  then  stop,  so  that  everything  will
+be  all  right,  but  don't  kill  him."  "Well,  I  won't  be  long  away
+and  I'll  punish  my  brother",  replied  Nenebuc.
+
+So  he  went  away  and  finally  met  his  brother,  the  one  with  the
+two  horns,  who  lived  in  the  west.  Nenebuc  hammered  him
+soundly  with  a  club  and  broke  one  of  his  horns.  This  hurt
+him,  but  did  not  kill  him.  Then  Nenebuc  said,  "Don't  blow
+so  hard  any  more.  You  don't  care  for  your  grandfather,  but
+I  do  and  I  fear  he  and  the  people  will  starve."  Then  he  arranged
+things  with  his  brother  and  went  back.  After  this  he  went
+fishing  and  found  it  calm  with  only  a  little  puff  of  wind  now  and
+then.  Then  the  West  Wind  told  his  three  brothers  not  to  blow,
+for  if  they  did  Nenebuc  would  come  and  kill  them.  The  winds
+became  frightened  at  this  and  did  not  blow  at  all,  and  because
+of  this  the  water  grew  thick  and  stagnant  and  Nenebuc  was
+
+
+31
+
+unable  to  fish.  Then  his  grandfather  said,  "We  are  going  to
+die.  There  is  no  wind  and  the  water  is  bad.  Did  you  kill  the
+West  Wind?"  "No,"  said  Nenebuc.  "I  will  go  and  see  him
+and  tell  him  to  send  the  wind  once  in  a  while,  not  too  often  but
+just  right."  So  Nenebuc  went  to  his  brother,  the  West  Wind,
+and  said  to  him,  "I  came  here  to  tell  you  that  I  want  a  little
+wind  once  in  a  while,  but  not  too  much."  Then  everything
+was  arranged  satisfactorily.  Shortly  after  this  Nenebuc's
+grandparents  died  and  were  heard  of  no  more.1
+
+(c)  Nenebuc  Starts  Travelling,  Anum  Suum  Castigat  for  Deceiving
+
+Him,  Changes  the  Colour  of  the  Partridge  Family,  and  Originates
+
+Rock  Tripe  from  his  Scabs  for  the  Benefit  of  the  People.
+
+Now  Nenebuc  grew  up  and  was  alone.  He  was  a  man  and
+began  to  travel.  He  knew  all  kinds  of  things  concerning  the
+trees,  the  world,  and  everything  which  his  grandfather  had
+taught  him.  He  set  out  on  his  first  journey  and  went  toward
+the  mountains.  In  one  day's  walk  he  climbed  over  three  great
+mountains,  something  that  no  man  could  do.  When  he  reached
+the  top  of  the  first  mountain  he  found  a  goose  and  killed  it.  In
+like  manner  he  killed  a  goose  on  the  tops  of  the  second  and  third
+mountains.  Then  he  went  down  to  the  lake  below.  He  was
+very,  very  tired  from  his  first  day's  journey.  He  made  a  fire
+with  his  bow-drill2  and  put  his  geese  in  the  sand,  which  he  had
+heated  to  bake  them  in.  He  buried  them  with  their  legs  sticking
+out.  He  lay  down  by  the  fire  and  ano  suo  dixit  to  watch  the
+geese  while  he  slept,  so  that  no  one  would  steal  them.  Just  as  he
+was  dozing  off  to  sleep,  anus  ejus  dixit,  "Somebody's  coming  for
+your  geese!"  and  Nenebuc  jumped  up.  Sed  anus  ejus  eum  deci
+piebat.  It  did  this  three  or  four  times.  At  last  Nenebuc  grew
+angry.  He  took  a  club  and  anum  suum  percussit  and  told  it
+not  to  do  that  again.  Then  he  went  to  sleep.  Some  people
+came  along  and  stole  the  geese,  but  left  the  legs  sticking  in  the
+same  place.
+
+When  Nenebuc  awoke,  anum  suum  interrogavit,  "Did  any
+one  come?"  "I  don't  know,"  anus  ejus  respondit.  "As  soon  as
+
+1  An  episode  strikingly  similar  to  one  found  among  the  Penobscot  and  other  Eastern
+Algonkians.
+*  Fire  drill.
+
+
+32
+
+you  fell  asleep,  I  slept.  I  don't  know."  Nenebuc  then  pulled
+up  the  legs  of  the  geese  and  found  nothing  else.  "It's  well
+cooked,"  said  he.  He  made  a  big  fire.  "Now  I'll  punish  you,"
+ano  suo  dixit  and  he  held  it  over  the  fire.  "Tcj''jj!"  clamavit
+anus  ejus.  "You  can  cry  all  you  want  to.  I'll  punish  you,"
+said  Nenebuc,  ano  suo  strepitum  urendi  faciente.  He  didn't  feel
+the  burns  then.  Then  he  started  walking.
+
+Next  day  he  felt  a  little  sick  and  anus  ejus  scabi  osus  fuit.
+In  walking  he  got  turned  around  and  saw  his  own  tracks.
+"Somebody's  passed  here,"he  said  to  himself,  when  he  saw  them.
+Then  he  saw  some  kind  of  meat  lying  on  the  ground,  and  he
+tasted  it.  "Somebody  had  some  meat  here,"  he  said.  Then  the
+little  bird  Gitcif'gi'*tci'gane'cicl  (Tom-tit)  cried  out,  "Nenebuc
+scabies  suas  edit!"  "Oh  no,  those  are  not  my  scabs.  Some
+old  woman  passed  by  and  left  some  dry  meat,"  said  he.  But
+at  last  he  discovered  se  scabies  suas  edisse,  but  even  then  he
+didn't  care.  He  kept  on  walking  and  felt  very  sick.
+
+By  and  by  he  came  upon  a  brood  of  young  partridges  and
+said,  "Where  is  your  mother?"  "Our  mother  is  away,"  said
+they.  "What's  your  names?"  They  answered  "Kotckuijge's-i"
+("Jump  out  and  frighten").  Nenebuc  turned  around  upon
+hearing  this  and  super  totam  familiam  defaecavit.  Up  to  this
+time  the  Partridges  had  been  white,  but  after  this  they  have
+always  been  brown.
+
+Then  Nenebuc  went  to  a  high  bluff  near  by.  He  was  tired,
+sick,  and  hungry,  and  he  lay  upon  the  bluff  sleeping.  Partridge
+came  home  and  said  to  his  young  when  he  saw  what  Nenebuc
+had  done  to  them,  "Who  did  this?"  "A  man  came  along  and
+asked  us  our  name  and,  when  we  told  him  'Kackurjge's'i,'
+super  nos  defaecavit.  He  said  he  wasn't  frightened  by  us."
+And  so  the  young  Partridges  told  their  father  where  Nenebuc
+had  gone.  The  old  Partridge  followed  his  tracks  until  he  came
+to  where  Nenebuc  lay  on  the  cliff.  He  saw  him  lying  right  on
+the  edge,  so  he  walked  up  slowly  to  him  and  then  suddenly
+buzzed  his  wings,  and  Nenebuc  jumped  up  and  fell  over  the  cliff.
+As  he  slid  down,  anum  suum  in  lapidibus  scabit  and  all  the  scabs
+rubbed  off.  As  he  lay  on  the  ground  he  saw  the  scabs  and  said,
+
+1  Onomapoetic  term  in  diminutive.
+
+
+33
+
+"These  Indians  will  call  this  wa-'kwani1  and  when  they  go  hungry
+they  can  make  soup  ;for  themselves,  these  Ojibwa,  forever."
+Then  he  was  cured.
+
+(d)    Nenebuc   Prepares  a  Feast  and  Gets  Caught   Between    Two
+Trees,  While  the  Animals  Receive  a  Distribution  of  Fat.
+
+After  this  Nenebuc  began  travelling  again.  One  time  he
+feasted  a  lot  of  animals.  He  had  killed  a  big  bear,  which  was
+very  fat  and  he  began  cooking  it,  having  made  a  fire  with  his
+bow- drill.  When  he  was  ready  to  spread  his  meat,  he  heard  two
+trees  scraping  together,  swayed  by  the  wind.  He  didn't  like
+this  notse  while  he  was  having  his  feast  and  he  thought  he  could
+stop  it.  He  climbed  up  one  of  the  trees  and  when  he  reached
+the  spot  where  the  two  trees  were  scraping,  his  foot  got  caught  in
+a  crack  between  the  trees  and  he  could  not  free  himself.
+
+When  the  first  animal  guest  came  along  and  saw  Nenebuc  in
+the  tree,  he,  the  Beaver,  said  "Come  on  to  the  feast,  Nenebuc  is
+caught  and  can't  stop  us."  And  then  the  other  animals  came.
+The  Beaver  jumped  into  the  grease  and  ate  it,  and  the  Otter  did
+the  same,  and  that  is  why  they  are  so  fat  in  the  belly.  The
+Beaver  scooped  up  the  grease  and  smeared  it  on  himself,  and
+that  is  the  reason  why  he  is  so  fat  now.  All  the  small  animals
+came  and  got  fat  for  themselves.  Last  of  all  the  animals  came
+the  Rabbit,  when  nearly  all  the  grease  was  gone — only  a  little
+left.  So  he  put  some  on  the  nape  of  his  neck  and  some  on  his
+groin  and  for  this  reason  he  has  only  a  little  fat  in  those  places.
+So  all  the  animals  got  their  fat  except  Rabbit.  Then  they  all
+went,  and  poor  Nenebuc  got  free  at  last.  He  looked  around
+and  found  a  bear's  skull  that  was  all  cleaned  except  for  the
+brain,  and  there  was  only  a  little  of  that  left,  but  he  couldn't
+get  at  it.  Then  he  wished  himself  to  be  changed  into  an  ant  in
+order  to  get  into  the  skull  and  get  enough  to  eat,  for  there  was
+only  about  an  ant's  meal  left.
+
+(e)  Nenebuc  Gets  Caught  in  the  Bear's  Skull.
+
+Then  he  became  an  ant  and  entered  the  skull.  When  he  had
+enough  he  turned  back  into  a  man,  but  he  had  his  head  inside
+
+Nenebuc
+
+
+hadth
+
+
+1  Rock-tripe,  an  edible  fungus  made  into  soup  and  eaten  in  time  of  famine,
+this  experience  on  a  ledge  near  the  eastern  shore  of  Smooth  water  lake  (see  map) .
+
+
+34
+
+the  skull ;  this  allowed  him  to  walk  but  not  to  see.  On  account
+of  this  he  had  no  idea  where  he  was.  Then  he  felt  the  trees.
+He  said  to  one,  "What  are  you?"  It  answered,  "Cedar."  He
+kept  doing  this  with  all  the  trees  in  order  to  keep  his  course.
+When  he  got  too  near  the  shore,  he  knew  it  by  the  kind  of  trees
+he  met.  So  he  kept  on  walking  and  the  only  tree  that  did  not
+answer  promptly  was  the  black  spruce,  and  that  said,  "I'm
+Se*'sefga*ndak"  (black  spruce).  Then  Nenebuc  knew  he  was
+on  low  ground.  He  came  to  a  lake,  but  he  did  not  know  how
+large  it  was,  as  he  couldn't  see.  He  started  to  swim  across.
+An  Ojibwa  was  paddling  on  the  lake  with  his  family  and  he
+heard  someone  calling,  "Hey!  There's  a  bear  swimming  across
+the  lake."  Nenebuc  became  frightened  at  this  and  the  Ojibwa
+then  said,  "He's  getting  near  the  shore  now."  So  Nenebuc
+swam  faster,  and  as  he  could  understand  the  Ojibwa  language,
+he  guided  himself  by  the  cries.  He  landed  on  a  smooth  rock,
+slipped  and  broke  the  bear's  skull,  which  fell  off  his  head.  Then
+the  Ojibwa  cried  out,  "That's  no  bear!  That's  Nenebuc!"
+Nenebuc  was  all  right,  now  that  he  could  see,  so  he  ran  off,  as
+he  didn't  want  to  stay  with  these  people.
+
+
+(f)  Nenebuc    Wounds  the  Giant  Lynx,  Disguises  Himself  in  a
+Toad's  Skin,  and  Finally  Slays  Her.
+
+He  had  his  bow  and  arrow  with  him,  and  as  he  went  along  he
+saw  a  great  snake.1  He  shot  it  with  his  arrow.  He  came  to  a
+big  lake  with  a  nice,  sandy  shore,  where  he  saw  Lions2  (mici''bi-
+zi'w  "giant  lynx").  He  couldn't  shoot  them  with  his  arrow  as
+they  were  too  far  away,  nor  was  there  any  place  where  he  could
+hide  himself  until  they  came  to  sun  themselves  by  the  shore,
+when  they  felt  too  cold  in  the  water.  Finally  he  hit  upon  a
+plan.  He  took  some  birch  bark  from  a  rotten  stump,  rolled  it
+into  a  hollow  cylinder,  and  placed  it,  like  a  wigwam,  near  the
+shore.  He  got  inside  and  made  a  little  hole  in  the  bark  through
+which  to  shoot  and  kill  the  Lions.
+
+
+1  This  big  snake  became  a  high  rocky  ridge  on  the  portage  south  of  Smoothwater    lake
+(see  map  above  referred  to).
+
+
+he  lake  is  Smoothwater    lake,  dtcawa'gami  "smooth  lake"  (see  map  above  referred
+to).     This  IB  the  scene  of  the  world  transformation.
+
+
+35
+
+When  the  Lions  saw  the  thing  on  the  beach,  they  grew
+curious  to  find  out  what  this  strange  thing  was  on  the  beach
+that  was  not  there  the  day  before.  So  they  sent  a  big  snake  to
+twist  around  it  and  to  try  to  upset  it,  but  the  snake  did  not
+succeed  in  doing  this,  for  Nenebuc  stood  too  firm.  So  the
+Lions  came  ashore  upon  the  sand  and  Nenebuc  shot  one  of  them
+with  his  arrow — a  she-lion,  the  wife  of  the  Lion  chief.  He  did
+not  kill  her,  but  wounded  her  badly  in  the  side,  and  the  flint
+arrow  point  stayed  in  the  wound.  She  was  very  badly  wounded
+and  went  back  to  a  hole  which  led  to  a  cave  in  a  big  rock  where  she
+lived.1  Nenebuc  was  sorry  that  he  had  not  killed  the  Lion
+queen.
+
+As  he  went  along  the  shore,  the  next  morning,  he  heard  some-
+one singing  and  shaking  a  rattle.  Nenebuc  stood  there  wonder-
+ing and  waiting,  and  pretty  soon  he  saw  an  old  woman  making
+the  song.  So  he  went  across  to  see  her,  and  when  they  met,  he
+asked  her,  "What  are  you  doing?"  ''I'm  a  doctor,"  she  answered.
+"The  queen  of  the  Lions  has  been  shot  by  Nenebuc  and  I  am
+going  to  cure  her."  She  didn't  know  that  it  was  Nenebuc  to
+whom  she  was  talking,  for  she  was  too  old.  So  Nenebuc  told
+her,  "Let  me  hear  you  singing.  Is  that  what  you  are  going  to
+do  to  cure  her?"  "Yes,  I  will  sing  and  then  pull  out  that  arrow."
+The  Lions  had  sent  for  her  at  the  foot  of  the  lake  to  cure  the
+queen.  Nenebuc  picked  up  a  club  and  killed  her,  saying,  "You
+are  no  doctor  (mackrki-'winini'k'we  'medicine-person  woman')
+at  all."  Then  he  discovered  that  she  was  no  person  at  all,  but
+a  big  toad  (oma'kak'iS).  So  he  skinned  her  and  put  on  the  skin.
+The  skin  had  a  hole  in  the  groin,  and  as  he  had  no  needle  to  sew
+it  up  with,  his  scrotum  hung  out  when  he  put  it  on  himself.
+This  did  not  worry  Nenebuc,  for  he  thought,  "It  will  be  all
+right,  unless  they  notice  me  too  closely."  So  he  walked  past  the
+cave  in  which  the  Lions  lived  and  kept  singing  and  rattling  all
+the  time.
+
+When  the  young  lions  heard  him,  they  said,  "There's  the  old
+medicine  woman  coming."  They  were  very  glad  to  think  that
+their  mother  would  be  cured.  So  they  opened  the  door  in  the
+rock  and  Nenebuc  went  in,  and  one  of  the  daughters  came  to
+
+
+1  The  cave  is  in  a  high  bluff  on  the  west  shore  of  Smoothwater  lake.       On  the  eastern
+shore  is  where  Nenebuc  fell  down  the  rocks  and  made  wa'kwan.
+
+
+36
+
+meet  him  and  said,  "Come  in,  old  woman."  They  were  very
+much  pleased.  Nenebuc  said,  "Don't  shut  the  doors.  Leave
+them  open,  as  the  queen  needs  plenty  of  fresh  air!"1  Then  he
+said,  "I'm  hungry.  I've  had  a  long  walk  and  I'm  tired."  Then
+they  gave  him  a  good  meal  first.  While  he  was  eating,  he  sat
+with  open  legs  and  the  children  cried  out,  "Look  at  the  old  woman
+with  testicles  hanging  out!"  But  the  older  ones  told  them  to  be
+silent,  as  they  thought  some  old  women  had  testicles.
+
+When  he  had  finished  eating,  Nenebuc  said,  "Don't  watch
+me.  I'm  going  to  pull  out  the  arrow  point.  You  will  hear  her
+suffering  and  me  singing,  but  don't  look  until  you  hear  her  stop
+suffering.  Then  she  will  be  cured,  and  the  arrow  point  will  be
+out.  So  don't  look,  for  I  am  going  to  cure  her."  Then  he
+began  rattling  and  singing,  and,  as  he  did  so,  he  shoved  the  arrow
+point  farther  into  the  wound  of  the  queen  in  order  to  kill  her.
+When  she  yelled,  her  people  thought  that  the  hurt  was  caused  in
+pulling  it  out.  At  last  one  of  the  little  lion  children  peeped  and
+saw  Nenebuc  pushing  the  arrow  farther  in.  He  told  his  sister,
+"That's  Nenebuc  himself  inside!"  Then  Nenebuc  ran  outside
+and  the  Queen  Lion  was  dying.  Nenebuc  had  difficulty  to  clear
+himself.  He  pulled  off  the  toad  skin  and  tried  to  climb  up  the
+rock.
+
+(g)  The  Giant  Lynx  Causes  the  World  Flood  and  Gathers  the  Animals
+on  a  Raft;  Muskrat  Dives  for  Earth,  which  Nenebuc  Transforms
+into  a  New  World.
+
+As  soon  as  the  queen  died,  a  giant  stream  poured  out  of  the
+cave  and  the  lake  began  rising.  "That  is  going  to  flood  the  world
+and  be  the  end,"  said  Nenebuc.  So  he  cut  trees  and  made  a
+kind  of  raft.1  So  he  had  his  raft  ready,  and  the  end  of  the  world
+came.  He  couldn't  see  any  trees,  water  covered  everything,
+and  he  made  the  flood.  He  saw  all  kinds  of  animals  swimming
+toward  his  raft  and  he  took  them  on.  "Come  on,  come  on,"  he
+cried,  "and  stay  here."  For  he  wanted  to  save  them,  so  that
+after  the  flood  there  would  be  all  kinds  of  animals.  The  animals
+stayed  on  the  raft  with  him  for  a  long  while.  Some  time  after
+
+1  The  medicine  people  always  do  that  now.
+
+J  Abi-ndasa'gan  "something  to  sit  or  lie  on  the  water  with."  The  event  occurred  near  the
+previously  mentioned  cave.
+
+
+37
+
+this  he  made  a  rope  of  roots  and  tied  it  to  the  Beaver's  tail,
+telling  him  to  dive  and  to  try  and  reach  the  land  underneath.
+He  knew  the  water  would  get  lower  afterwards.  The  Beaver
+couldn't  reach  the  land  and  he  came  up  to  the  surface  of  the  water
+again.
+
+Seven  days  after  this  he  allowed  the  Muskrat  to  try  and  bring
+the  land.  Muskrat  dove  and  they  waited  for  a  long  time,  but
+he  didn't  come  up.  This  Muskrat  doubled  up  and  put  his  nose
+into  the  hair  of  his  breast  which  enabled  him  to  breathe  by  the
+bubbles  clinging  there.  By  doing  this  he  could  rest  and  dive
+still  deeper.  At  last  he  used  up  all  the  air  in  his  breast  hair  and
+could  only  grab  a  little  piece  of  mud.  Then  he  started  up  to  the
+surface  of  the  water,  but  drowned  before  he  reached  the  raft.
+Nenebuc  pulled  the  Muskrat  in  and  he  still  was  holding  the  mud.
+Nenebuc  said,  "I  am  going  to  dry  this.  As  soon  as  it  is  dry,
+you  can  all  run  around  again  and  have  this  world."  So  he  dried
+it,  but  not  entirely,  and  that  is  the  reason  why  some  parts  of  the
+world  are  swampy  and  wet,  while  others  are  dry  like  this.  So
+the  animals  had  the  earth  again  and  the  world  was  made.
+
+(h)  Nenebuc  Sends  Crow  Out,  for  Disobedience  Changes  Him
+Black  and  Gull  Partly  Black,  then  Retires  to  the  West,  until  he
+Will  Return  Again.
+
+Nenebuc  knew  the  world  was  round  like  a  ball,  but  he  didn't
+know  how  large  it  was.  He  was  sitting  down,  tired.  So  he  said
+to  Crow,  "Go  fly  around  the  world  and  don't  eat  until  you  come
+back  again.  If  you  do,  we  will  know  it."  Crow  at  that  time
+was  white.  Crow  had  to  do  as  he  was  told,  because  Nenebuc
+was  chief  of  all  men  and  animals.  So  Crow  started  and  flew
+and  flew  along  the  salt  water  beach.  Soon  he  became  very  hungry
+and  wondered  how  far  he  was  away  from  Nenebuc.  One  morn-
+ing he  was  flying  along  the  shore  and  he  saw  an  old  dead  fish.
+He  was  so  hungry  that  he  tasted  a  little  bit  of  it,  and  finally
+made  a  meal  of  it.  When  he  finished  eating,  he  found  he  had
+turned  black.  This  is  the  way  Crow  became  black.
+
+When  Crow  reached  the  place  from  which  he  started  out,  he
+found  Nenebuc  and  all  the  animals  waiting  for  him.  He  told
+Nenebuc  that  he  had  eaten,  and  then  Nenebuc  said  to  Gull,
+65977—6
+
+
+38
+
+"You  go  try.  Do  the  same  and  don't  eat  until  you  come  here."
+So  Gull  went.  When  he  got  to  the  same  place  at  which  Crow
+had  felt  hungry,  Gull  felt  hungry.  One  morning  he  saw  the
+same  dead  fish.  He  thought,  "Well,  I  musn't  eat  it,  for  if  I  do,
+I'll  be  as  black  as  Crow."  He  took  one  mouthful  and  started
+flying.  When  Gull  returned,  Nenebuc  could  see  a  little  black
+on  his  wings,  so  he  said,  "Gull  has  had  a  mouthful  too."
+
+Then  he  told  Owl,  "You  go  and  try  to  go  around  the  world
+this  time.  If  you  eat,  you  won't  change  colour  but  remain  the
+same  colour  as  you  are  now.  But  if  you  eat,  you  won't  come  back
+here."  So  Owl  started  flying.  He  came  to  the  same  lake,  saw
+the  dead  fish  and  finished  it.  He  ate  a  good  meal  and  never
+returned.1  But  he  didn't  change  colour.
+
+Then  Nenebuc  let  all  the  animals  go  from  the  raft.  He
+started  west  and  is  there  yet,  lying  on  his  back,  singing  and
+hammering  at  his  wigwam  poles,  in  place  of  drumming,  all  the
+time.  He  will  stay  there  until  he  gets  up  again  three  years
+before  the  end  of  the  world,  when  he  will  travel  all  over  the  world
+to  see  the  animals  and  the  Ojibwa  again.  He  will  not  die  until
+the  end  of  the  world.
+
+
+(2)  NENEBUC  FRAGMENT. 2
+
+Once  the  Goose  met  Nenebuc  and  gave  him  two  wings.  He
+told  him  that  if  he  flapped  them  he  could  fly  with  them,  but  that
+he  must  not  look  downwards  while  he  flew.  So  Nenebuc  took
+the  wings  and  began  flying.  When  he  got  very  far  up,  he  won-
+dered how  high  he  was  and  looked  down.  Then  he  tumbled
+down  and  down  until  he  fell  into  a  big  hollow  stump  where  he
+couldn't  get  out.  Soon  two  girls  came  along  with  an  axe  to
+get  some  wood  and  began  cutting  at  the  hollow  pine  in  which
+Nenebuc  was.  They  cut  a  hole  and  Nenebuc  kept  quiet,  for  he
+was  hoping  they  would  free  him.  When  they  looked  in  the  hole,
+they  saw  his  belly  and  they  pulled  out  a  hair.  They  went  back
+to  camp  and  told  their  father,  "Here  is  a  porcupine  quill  we
+
+1  This  is  called  Koko'kowikwe-'tuak  "Owl  bay,"  now  known  as  Kokoko  bay,  the  north-
+eastern arm  of  Lake  Tiruagami  (see  map).  The  event  occurred  on  the  western  shore  of  the
+bay.
+
+1  This  fragment  has  probably  come  from  some  neighbouring  band  of  Ojibwa,  possibly
+Mattagami.
+
+
+39
+
+found  in  a  tree."  The  old  man  looked  at  it  and,  laughing,  said,
+"That's  not  a  porcupine  quill,  that's  a  hair  from  Nenebuc's
+groin!"
+
+(3)  NENEBUC  TRANSFORMS  THE  BEAR.1
+
+Nenebuc  in  his  tracks  encountered  the  great  Bear  that  killed
+and  ate  the  Indians — so  many  of  them  that  they  feared  they  would
+all  be  killed.  So  Nenebuc  went  to  the  Bear  and  said,  "You  are
+eating  so  many  of  the  Indians  that  they  will  all  be  gone  soon.
+Now  I  am  going  to  make  you  small  and  harmless."  Then  he
+made  him  into  the  Squirrel  and  turned  the  Squirrel  into  the
+Bear,  and  the  Bear,  now  in  Squirrel's  shape,  felt  so  badly  that
+he  cried  until  his  eyebrows  turned  grey.  That  is  the  reason
+why  to  this  day  squirrels  have  grey  eyelids.
+
+"Now,"  said  Nenebuc,  "what  will  you  eat?"  The  Bear,  now
+a  Squirrel,  said  he  would  continue  to  eat  people,  but  he  was  so
+small  that  he  could  not  do  anything.  "That  is  good,"  said
+Nenebuc.  "Now  you  can't  do  any  harm  to  the  Indians.  But
+you  had  better  change  your  food.  Just  run  up  that  black-
+spruce  tree  and  taste  the  acorn  seeds  and  then  see  whether  you
+want  to  eat  people  any  more.  You  are  too  small  to  eat  people
+as  you  used  to  do."  So  the  Squirrel  ran  up  the  black-spruce
+tree  and  tasted  the  sweet  seed  of  the  cone.  He  liked  it  so  well,
+it  tasted  so  sweet,  that  he  chose  this  for  his  food  and  said  that  he
+would  not  want  anything  better  any  more.  That  is  his  food
+to-day.
+
+(4)  WEMICUS.
+
+Wemicus  had  a  very  large  family.  Many  of  his  children  had
+married  the  different  animals  who  lived  in  various  parts  of  the
+surrounding  country.  By  and  by  he  had  nearly  all  kinds  of
+animals  for  his  sons-in-law,  and  there  were  still  a  great  many
+children  left  in  his  family.  When  winter  came,  Wemicus  was
+unable  to  support  his  family,  as  there  were  too  many  of  them.
+They  were  all  living  in  one  wigwam.
+
+One  day  Wemicus  said  to  his  wife,  "We  are  all  very  hungry.
+I  might  go  and  see  one  of  our  sons-in-law;  he  might  have  some
+
+1  This  is  a  fragment  of  the  culture-hero  cycle  of  the  Mattagami  band  of  Ojibwa,  which  has
+become  known  among  the  Timagami  people,  but  does  not  form  a  part  of  their  own  version.
+
+65977— 6£
+
+
+40
+
+food."  Next  morning  he  started  out.  Wemicus  always  tried
+to  imitate  the  actions  of  everybody  he  saw.  When  he  reached
+the  home  of  his  son-in-law  Ninicip  (Black  Duck)  he  saw  that  he
+also  had  a  large  family.  Ninicip  was  inside  of  his  wigwam,  and
+when  he  saw  Wemicus  coming,  he  told  his  wife,  "You  had  better
+begin  to  get  ready  for  company  and  boil  water  in  the  stone
+pail."  Then  he  jumped  up  upon  the  cross  poles  in  his  wigwam1
+and  in  vas  lapidum  sub  se2  defaecavit,  telling  his  wife  to  stir  up
+the  contents  of  the  pot.  Wemicus  apparently  saw  nothing  of
+this.  Then  one  of  the  children  of  Ninicip  took  spoons  and,
+dipping  them  in  the  pot,  said,  "Soup,  soup,  soup,  rice  soup."
+Wemicus  tasted  the  soup,  thought  it  tasted  good,  and  decided
+that  after  this  he  would  make  soup  in  the  same  manner.
+
+The  next  morning,  when  Wemicus  started  for  home,  he  was
+given  some  rice  soup  to  take  home  to  his  children.  Before  leaving
+the  wigwam  of  Ninicip,  however,  Wemicus  had  purposely  left
+behind  one  of  his  mittens.  One  of  the  children  saw  the  mitten
+and  Ninicip's  wife  sent  the  child  to  return  it,  bidding  him  not
+to  go  too  close  to  Wemicus  but  to  throw  him  the  mitten.  The
+child  did  the  bidding  of  his  mother  and,  when  the  mitten  was
+thrown  to  Wemicus,  he  said,  "Ask  your  father  to  come  and  see
+me,"  and  he  named  a  certain  day.  On  the  way  back  home
+Wemicus  thought,  "I  wonder  what  this  soup  tastes  like  when  it
+is  cold.  I  must  try  it.  My  children  don't  need  any  of  it,  so  I
+might  as  well  eat  it  all."  So  he  ate  all  of  the  soup.  When  he
+reached  his  wigwam  he  said,  "Ninicip  and  his  family  are  starving
+also.  To-morrow  he  will  come  to  see  us  and  perhaps  he  will
+bring  us  something.  We  had  better  fix  up  our  wigwam."  Then
+they  fixed  up  the  wigwam  in  the  same  manner  as  that  of  Ninicip.
+The  next  day  Ninicip  came  and  they  gave  him  the  best  place.
+Wemicus  said  to  his  wife,  "We'll  get  ready  to  eat  now.  Put
+some  water  in  the  stone  pail."  "There  is  no  use  putting  any
+water  in  the  pail,"  answered  his  wife,  "we  have  nothing  to  cook."
+"Well,  bring  the  pail,  anyway,  and  get  some  spoons,"  said
+Wemicus.  When  the  water  began  boiling,  Wemicus  jumped
+up  on  the  cross-poles,  in  vas  defaecavit,  all  over  his  children  and
+the  inside  of  the  wigwam.  Then  Ninicip  went  out.  His  wife
+
+1  Every  wigwam  has  horizontal  poles  crossing  near  the  smoke  hole.  This  is  a  drying  rack
+and  support  for  the  pot  hook.
+
+*  The  Ojibwa  formerely  cooked  in  stone  vessels  as  well  as  in  birch  bark.
+
+
+41
+
+scolded  Wemicus,  saying,  "You  always  do  something  like  that.
+You  must  have  seen  someone  do  that."  Then  Wemicus  kept
+quiet  and  everything  had  to  be  cleaned  up.  The  wife  then
+invited  Ninicip  to  come  in  again  and  he  told  her  that  he  would
+fix  up  the  meal.  Igituo  interum  in  vas  defaecavit  and  they  had
+good  rice  soup,  and  everyone,  even  Wemicus,  had  a  good  meal.
+The  following  morning  Ninicip  made  soup  for  the  family  again
+and  then  went  home.  Soon  Wemicus  and  his  family  were  starv-
+ing again  and  Wemicus  said,  "I  must  go  and  see  my  son-in-law,
+Muskrat.  He  lives  not  far  away."  "All  right,"  said  his  wife
+and  Wemicus  set  out.  When  he  had  almost  reached  Muskrat's
+home,  the  little  Muskrat  children  called  out,  "Our  grandfather
+is  coming."  Wemicus  told  Muskrat  that  he  was  starving  and
+Muskrat  said  to  his  wife,  "You  had  better  make  a  fire  in  the  hot
+sand."  So  the  fire  was  made,  and  Muskrat  went  out  with  a  big
+sack  made  out  of  hide  and  returned  with  the  sack  full  of  ice,
+which  he  dumped  into  the  hot  ashes.  Wemicus  expected  that
+it  would  explode  but  it  only  cooked  nicely.  Wemicus  wondered
+what  it  was.  Soon  Muskrat  said,  "We  are  ready  now,"  and  they
+took  off  the  sand  and  there  were  a  lot  of  nicely  baked  potatoes.
+Wemicus  thought  that  was  an  easy  way  in  which  to  live — just
+to  get  ice  for  potatoes.
+
+Next  morning  Wemicus  started  out  for  home  and  left  his
+mitten  behind  as  he  had  done  with  Ninicip.  Muskrat's  wife
+sent  a  child  after  him  and  told  the  child,  "Don't  go  too  close  to
+Wemicus.  He's  always  in  mischief."  Everything  happened  as
+before.  The  child  threw  the  mitten  to  Wemicus  and  Wemicus
+sent  an  invitation  to  Muskrat  to  come  to  his  home  the  next  day.
+As  Wemicus  went  on  his  way  he  had  some  potatoes  which
+Muskrat  had  given  him  for  his  family.  Half  way  home  he
+rested  and  thought  he  would  eat  the  potatoes,  as  they  looked
+very  good.  So  he  ate  every  one.  "I  am  the  one  who  works
+hard,"  he  said  to  himself.  "My  family  can  wait  until  Muskrat
+comes."  When  he  reached  home  he  told  his  wife,  "Muskrat  is
+also  starving.  I  brought  nothing.  Muskrat  is  coming  tomorrow
+to  see  us."  Next  day  Muskrat  came  and  they  put  him  on  the
+opposite  side  of  the  wigwam.  Wemicus  said,  "We  have  nothing
+much,  but,  wife,  make  a  fire  in  the  hot  sand."  The  wife  ans-
+wered, "I  suppose  you  saw  somebody  else  do  something.  Don't
+
+
+42
+
+you  try  any  more  mischief."  But  he  made  his  wife  make  the
+fire.  He  then  went  out  and  returned  with  the  sack  full  of  ice,
+which  he  dumped  on  the  fire.  The  sack  blew  up  all  over  every-
+body and  put  out  the  fire.  Then  his  wife  said,  "I  suppose  you
+saw  someone  do  that  again."  She  made  another  fire  and  Musk-
+rat  said,  "Give  me  that  bag."  He  went  out  and  brought  back
+the  sack  full  of  ice,  dumped  and  buried  it  in  the  fire,  and,  after
+a  while,  they  got  the  potatoes.  All  of  them  had  a  good  meal.
+The  next  morning,  before  Muskrat  left,  he  got  them  another  bag
+of  potatoes.
+
+Wemicus  does  not  work,  although  his  family  is  so  large.  Well,
+pretty  soon  the  whole  family  was  starving  again.  Then  said
+Wemicus,  "I  must  go  and  see  Meme  (pileated  woodpecker),
+my  son-in-law."  He  went  into  the  bush  and  when  he  reached
+Meme's  wigwam  he  found  a  large  white  pine  in  back  of  it.  He
+noticed  that  Meme  had  a  sharp  pointed  nose.  He  saw  that
+Meme  had  not  much  to  live  on,  but  nevertheless  Meme  told  his
+wife  to  get  the  cooking  pail  ready.  Then  Meme  began  climbing
+the  pine  tree,  which  was  at  the  back  of  his  wigwam,  and  began
+pecking  in  the  trunk  with  his  nose.  Pretty  soon  he  came  down
+with  a  raccoon.1  When  Wemicus  saw  this,  he  thought,  "That
+is  a  great  thing;  I  must  try  it."  Meme  burned  off  the  hair  and
+cleaned  the  raccoon,  and  shared  the  meat  on  a  stick  to  each
+one.  Wemicus  received  the  best  part,  as  he  was  the  grandfather.
+
+The  next  morning  they  had  another  raccoon  to  eat.  Then
+everything  happened  as  before.  Wemicus  was  given  a  raccoon
+to  take  home.  He  left  his  mitten  behind,  and  sent  an  invitation
+to  Meme  to  visit  him  the  next  day.  On  the  way  home  Wemicus
+thought  to  himself,  "I  wonder  how  this  raccoon  tastes  cold."
+So  he  ate  the  entire  raccoon.  When  he  got  home,  he  told  his
+wife  that  Meme  was  starving  but  that  he  was  coming  to  visit
+them  the  following  day.  They  put  the  wigwam  in  order  and
+Wemicus  fixed  up  a  big  pine  like  that  belonging  to  Meme  and
+cut  two  pieces  of  wood,  which  he  pointed  and  shoved  into  his
+nose  to  imitate  Meme.  When  Meme  came  along  he  saw
+Wemicus  sitting  there  with  sticks  in  his  nose.  Wemicus  told
+his  wife,  as  usual,  to  prepare  for  supper,  and  she  told  him  that
+they  had  nothing.  When  she  had  the  water  boiling  in  the  pail,
+
+1  A  very  scarce  animal  in  northern  Ontario.
+
+
+43
+
+Wemicus  climbed  up  the  tree  and  pecked  upon  it  in  imitation
+of  Meme.  He  fell  down,  however,  and  drove  the  sticks  into  his
+head.  He  fell  into  the  fire,  but  after  a  while  he  gained  con-
+sciousness. Then  Meme  stepped  out  of  the  wigwam,  climbed
+the  tree,  and  brought  down  a  raccoon.  And  then  the  whole
+family  had  a  good  supper.  Next  morning  Meme  got  another
+raccoon  and  left  it  for  the  family,  and  then  went  home.
+
+Still  Wemicus  did  nothing  and  the  family  was  again  in  a
+starving  condition.  Then  said  Wemicus,  "I  have  some  more
+sons-in-law  and  one  is  close.  I  will  go  and  see  him;  he  will  help
+me  until  open  water.1  I  will  go  and  see  Skunk."  So  he  set  out
+to  visit  Skunk.  Wemicus  was  pretty  hungry  and  Skunk  was
+farther  off  than  the  rest  of  the  sons-in-law,  but  he  finally  reached
+his  home.  Wemicus  found  Skunk's  water  hole2  and  saw  a  great
+quantity  of  oil  in  it.  He  knew  that  Skunk  must  have  killed  a
+great  deal  of  game.  So  he  went  into  Skunk's  wigwam  and  saw
+a  great  quantity  of  food.  Skunk  said,  "We  don't  have  much.
+It  is  long  since  I  hunted.  But  come  outside."  There  Wemicus
+saw  a  piece  of  ground  fenced  in.  Skunk  then  produced  a  little
+birch  bark  horn3  and  said,  "What  will  you  have?"  Skunk  now
+blew  on  his  horn  and  all  kinds  of  game  came  inside  the  enclosure.
+Skunk  deinde  pepedit  and  killed  whatever  kind  Wemicus
+wanted.  They  then  skinned  what  he  killed  and  fried  it  for
+supper.
+
+In  the  morning  Skunk  said  to  Wemicus,  "I'll  give  you  three
+shots  and  a  horn.  You  can  make  a  fence  for  yourself.  This
+horn  will  last  forever,  as  long  as  you  don't  lose  it.  If  you  do,  it
+will  be  bad."  Then  Skunk  gave  Wemicus  three  shots  to  be  used
+in  the  future,  and  he  did  this  urinando  super  eum  to  load  him
+up  three  times.  He  did  not  give  him  any  food,  because  he  would
+be  able  to  get  enough  for  himself.  Then  Wemicus  thought,
+"Now  I  am  going  to  do  something."  As  Wemicus  was  on  his
+way  home  he  said  to  himself,  "I  wonder  if  it  will  go  off!"  So,
+just  as  he  was  passing  a  tree  stump,  pepedit  at  the  stump  and
+blew  it  up.  "That's  fine,  but  I  have  only  two  more  shots  left,"
+said  he.  Later  he  tried  the  same  thing  and  then  only  had  one
+
+1  The  Indians  often  had  much  trouble  to  get  food  in  the  winter  and  looked  forward  eagerly
+to  spring,  when  the  ice  leaves  the  rivers,  making  "open  water,"  thus  enabling  them  to  seek
+new  hunting  places.
+
+1  An  opening  in  the  ice  near  the  camp  for  the  supply  of  water  in  winter.
+1  An  affair  resembling  a  megaphone  or  moose  call.
+
+
+44
+
+left.  A  little  while  after  this  he  saw  a  big  pine  tree,  and  thought
+he  would  try  a  shot  at  this.  So  he  blew  up  the  pine  tree,  and  so
+used  up  all  his  shots.
+
+When  he  reached  his  wigwam,  he  showed  his  wife  the  horn
+which  Skunk  had  given  him,  saying,  "Skunk  gave  me  that."
+Then  he  built  a  large  fence  of  poles.  He  told  his  wife  to  hold
+the  horn  and  stay  near  by,  while  he  got  a  club  to  kill  the  game
+with.  Then  he  blew  on  the  horn  and  the  fence  was  filled  with
+bear,  deer,  and  all  kinds  of  animals.  Although  he  had  no  shots
+left,  Wemicus  managed  to  kill  one  caribou,  and  his  wife  was  very
+happy.  He  cut  the  fat  from  the  breast  of  the  caribou,  made  a
+fire,  and  got  some  grease  from  it.  He  then  spilled  the  caribou
+grease  in  his  water  hole  in  order  to  deceive  Skunk  and  make  him
+believe  that  he  had  a  great  quantity  of  meat.  Not  long  after
+this  Skunk  started  out  to  visit  Wemicus  and,  on  his  way,  he
+passed  the  three  stumps  which  Wemicus  had  blown  up  and  knew
+that  he  had  no  more  shots  left.  When  he  rached  Wemicus's
+water  hole  he  said,  "I  guess  he  got  one  any  way."  When  he
+came  to  the  wigwam,  he  found  that  Wemicus  and  his  family  had
+hardly  any  meat  left,  so  he  said  to  Wemicus,  "Come  out  and  let
+me  see  your  fence."  They  went  out  and  Wemicus  blew  his
+horn,  and  inside  the  fence  it  became  full  of  game.  Skunk
+pepedit  and  killed  all  of  them,  and  then  Wemicus  and  his  family
+had  plenty.  Skunk  stayed  over  night  and  departed  the  next
+morning.
+
+Wemicus  had  another  son-in-law  who  was  a  man.  This
+man's  wife,  the  daughter  of  Wemicus,  had  had  a  great  many
+husbands,  because  Wemicus  had  put  them  to  so  many  different
+tests  that  they  had  been  all  killed  off  except  this  one.  He,
+however,  had  succeeded  in  outwitting  Wemicus  in  every  scheme
+that  he  tried  on  him.  Wemicus  and  this  man  hunted  beaver  in
+the  spring  of  the  year  by  driving  them  all  day  with  dogs.  The
+man's  wife  warned  him  before  they  started  out  to  hunt,  saying,
+"Look  out  for  my  father;  he  might  burn  your  moccasins  in
+camp.  That's  what  he  did  to  my  other  husbands."1  That
+night  in  camp  Wemicus  said,  "I  didn't  tell  you  the  name  of  this
+lake.  It  is  called  'burnt  moccasins  lake.'  "  When  the  man
+
+
+to  death.
+
+
+1  By  doing  this  he  would  prevent  them  from  travelling  and  cause  them  to  freeze  or  starve
+
+natlt
+
+
+45
+
+heard  this,  he  thought  that  Wemicus  was  up  to  some  sort  of
+mischief  and  was  going  to  burn  his  moccasins.  Their  moccasins
+were  hanging  up  before  a  fire  to  dry  and,  while  Wemicus  was  not
+looking,  the  man  changed  the  places  of  Wemicus'  moccasins  and
+his  own,  and  then  went  to  sleep.  Soon  the  man  awoke  and  saw
+Wemicus  get  up  and  throw  his  own  moccasins  into  the  fire.
+Wemicus  then  said,  "Say!  something  is  burning;  it  is  your
+moccasins."  Then  the  man  answered,  "No,  not  mine,  but
+yours."  So  Wemicus  had  no  moccasins,  and  the  ground  was
+covered  with  snow.  After  this  had  happened  the  man  slept  with
+his  moccasins  on.
+
+The  next  morning  the  man  started  on  and  left  Wemicus  there
+with  no  shoes.  Wemicus  started  to  work.  He  got  a  big  boulder,
+made  a  fire,  and  placed  the  boulder  in  it  until  it  became  red  hot.
+He  then  wrapped  his  feet  with  spruce  boughs  and  pushed  the
+boulder  ahead  of  him  in  order  to  melt  the  snow.  In  this  way
+he  managed  to  walk  on  the  boughs.  Then  he  began  to  sing,
+"Spruce  is  warm,  spruce  is  warm."  When  the  man  reached
+home  he  told  his  wife  what  had  happened.  "I  hope  Wemicus
+will  die,"  she  said.  A  little  while  after  this,  they  heard  Wemicus
+coming  along  singing,  "Spruce  is  warm,  spruce  is  warm."  He
+came  into  the  wigwam  and,  as  he  was  the  head  man,  they  were
+obliged  to  get  his  meal  ready.
+
+The  ice  was  getting  bad  by  this  time,  so  they  stayed  in  camp
+a  while.  Soon  Wemicus  told  his  son-in-law,  "We'd  better  go
+sliding."  He  then  went  to  a  hill  where  there  were  some  very
+poisonous  snakes.  The  man's  wife  warned  her  husband  of
+these  snakes  and  gave  him  a  split  stick  holding  a  certain  kind  of
+magic  tobacco,  which  she  told  him  to  hold  in  front  of  him  so
+that  the  snakes  would  not  hurt  him.  Then  the  two  men  went
+sliding.  At  the  top  of  the  hill  Wemicus  said,  "Follow  me,"  for
+he  intended  to  pass  close  by  the  snakes'  lair.  So  when  they
+slid,  Wemicus  passed  safely  and  the  man  held  his  stick  with  the
+tobacco  in  it  in  front  of  him,  thus  preventing  the  snakes  from
+biting  him.  The  man  then  told  Wemicus  that  he  enjoyed  the
+sliding.
+
+The  following  day  Wemicus  said  to  his  son-in-law,  "We  had
+better  go  to  another  place."  When  she  heard  this,  the  wife  told
+her  husband  that,  as  it  was  getting  summer,  Wemicus  had  in
+
+
+46
+
+his  head  many  poisonous  lizards  instead  of  lice.  She  said,
+"He  will  tell  you  to  pick  lice  from  his  head  and  crack  them  in
+your  teeth.  But  take  low-bush  cranberries  and  crack  them
+instead."  So  the  man  took  cranberries  along  with  him.  Wemi-
+cus  took  his  son-in-law  to  a  valley  with  a  great  ravine  in  it.
+He  said,  "I  wonder  if  anybody  can  jump  across  this?"  "Surely,"
+said  the  young  man,  "I  can."  Then  the  young  man  said,
+"Closer,"  and  the  ravine  narrowed  and  he  jumped  across
+easily.  When  Wemicus  tried,  the  young  man  said  "Widen,"
+and  Wemicus  fell  into  the  ravine.  But  it  did  not  kill  him,  and
+when  he  made  his  way  to  the  top  again,  he  said,  "You  have
+beaten  me."  Then  they  went  on.
+
+They  came  to  a  place  of  hot  sand  and  Wemicus  said,  "You
+must  look  for  lice  in  my  head."  "All  right  father,"  replied  the
+son-in-law.  So  Wemicus  lay  down  and  the  man  started  to  pick
+the  lice.  He  took  the  cranberries  from  inside  his  shirt  and  each
+time  he  pretended  to  catch  a  louse,  he  cracked  a  cranberry  and
+threw  it  on  the  ground,  and  so  Wemicus  got  fooled  a  second
+time  that  day.  Then  they  went  home  and  Wemicus  said  to  his
+son-in-law,  "There  are  a  whole  lot  of  eggs  on  that  rocky  island
+where  the  gulls  are.  We  will  go  get  the  eggs,  come  back,  and
+have  an  egg  supper."  As  Wemicus  was  the  head  man,  his  son-
+in-law  had  to  obey  him.
+
+So  they  started  out  in  their  canoe  and  soon  came  to  the  rocky
+island.  Wemicus  stayed  in  the  canoe  and  told  the  man  to  go
+ashore  and  to  bring  the  eggs  back  with  him  and  fill  the  canoe.
+When  the  man  reached  the  shore,  Wemicus  told  him  to  go
+farther  back  on  the  island,  saying,  "That's  where  the  former
+husbands  got  their  eggs,  there  are  their  bones."  He  then
+started  the  canoe  off  in  the  water  by  singing,  without  using  his
+paddle.  Then  Wemicus  told  the  gulls  to  eat  the  man,  saying
+to  them,  "I  give  you  him  to  eat."  The  gulls  started  to  fly  about
+the  man,  but  the  man  had  his  paddle  with  him  and  he  killed
+one  of  the  gulls  with  it.  He  then  took  the  gulls'  wings  and
+fastened  them  on  himself,  filled  his  shirt  with  eggs,  and  started
+flying  over  the  lake  by  the  aid  of  the  wings.
+
+When  he  reached  the  middle  of  the  lake,  he  saw  Wemicus
+going  along  and  singing  to  himself.  Wemicus,  looking  up,  saw
+his  son-in-law  but  mistook  him  for  a  gull.  Then  the  man  flew
+
+
+47
+
+over  him  and  defecated  in  his  face,  and  Wemicus  said,  "Gull's
+excrement  always  smells  like  that  when  they  have  eaten  a  man."
+The  man  flew  back  to  camp  and  told  his  wife  to  cook  the  eggs,
+and  he  told  his  children  to  play  with  the  wings.  When  Wemicus
+reached  the  camp,  he  saw  the  children  playing  with  the  wings
+and  said,  "Where  did  you  get  those  wings?"  "From  father,"
+was  the  reply.  "Your  father?  Why,  the  gulls  ate  him!"  Then
+he  went  to  the  wigwam  and  there  he  saw  the  man  smoking.
+Then  Wemicus  thought  it  very  strange  how  the  man  could  have
+gotten  home,  but  no  one  told  him  how  it  had  been  done.  Thought
+he,  "I  must  try  another  scheme  to  do  away  with  him."
+
+One  day  Wemicus  said  to  his  son-in-law,  "We'd  better  make
+two  canoes  of  birch-bark,  one  for  you  and  one  for  me.  We'd
+better  get  bark."  So  they  started  off  for  birch-bark.  They  cut
+a  tree  almost  through  and  Wemicus  said  to  his  son-in-law,
+"You  sit  on  that  side  and  I'll  sit  on  this."  He  wanted  the  tree
+to  fall  on  him  and  kill  him.  Wemicus  said,  "You  say,  'Fall  on
+my  father-in-law,'  and  I'll  say,  'Fall  on  my  son-in-law',  and
+whoever  says  it  too  slowly  or  makes  a  mistake  will  be  the  one  on
+whom  it  will  fall."  But  Wemicus  made  the  first  mistake,  and
+the  tree  fell  on  him  and  crushed  him.  However,  Wemicus  was  a
+manitu1  and  was  not  hurt.  They  went  home  with  the  bark  and
+made  the  two  canoes.  After  they  were  made,  Wemicus  said
+to  his  son-in-law,  "Well,  we'll  have  a  race  in  our  two  canoes,  a
+sailing  race."  Wemicus  made  a  big  bark  sail,  but  the  man  did
+not  make  any,  as  he  was  afraid  of  upsetting.  They  started  the
+race.  Wemicus  went  very  fast  and  the  man  called  after  him,
+"Oh,  you  are  beating  me."  He  kept  on  fooling  and  encouraging
+Wemicus,  until  the  wind  upset  Wemicus'  canoe  and  that  was  the
+end  of  Wemicus.  When  the  man  sailed  over  the  spot  where
+Wemicus  had  upset,  he  saw  a  big  pike  (krny,'je)  there,  into
+which  Wemicus  had  been  transformed  when  the  canoe  upset.
+This  is  the  origin  of  the  pike.
+
+(5)  CITJGIBIS.
+
+At  the  time  of  which  my  story  speaks  people  were  camping
+just  as  we  are  here.  In  the  winter  time  they  used  birch  bark
+
+1  Magic.
+
+
+48
+
+wigwams.  All  animals  could  then  talk  together.  Two  girls,
+who  were  very  foolish,  talked  foolishly  and  were  in  no  respect
+like  the  other  girls  of  their  tribe,  made  their  bed  out-of-doors,
+and  slept  right  out  under  the  stars.  The  very  fact  that  they
+slept  outside  during  the  winter  proves  how  foolish  they  were.
+
+One  of  these  girls  asked  the  other,  "With  what  star  would
+you  like  to  sleep,  the  white  one  or  the  red  one?"  The  other  girl
+answered,  "I'd  like  to  sleep  with  the  red  star."  "Oh,  that's
+all  right,"  said  the  first  one,  "I  would  like  to  sleep  with  the  white
+star.  He's  the  younger ;  the  red  is  the  older."  Then  the  two
+girls  fell  asleep.  When  they  awoke,  they  found  themselves  in
+another  world,  the  star  world.  There  were  four  of  them  there,
+the  two  girls  and  the  two  stars  who  had  become  men.  The
+white  star  was  very,  very  old  and  was  grey-headed,  while  the
+younger  was  red-headed.  He  was  the  red  star.  The  girls
+stayed  a  long  time  in  this  star  world,  and  the  one  who  had
+chosen  the  white  star  was  very  sorry,  for  he  was  so  old.
+
+There  was  an  old  woman  up  in  this  world  who  sat  over  a  hole
+in  the  sky,  and,  whenever  she  moved,  she  showed  them  the  hole
+and  said,  "That's  where  you  came  from."  They  looked  down
+through  and  saw  their  people  playing  down  below,  and  then  the
+girls  grew  very  sorry  and  very  homesick.  One  evening,  near
+sunset,  the  old  woman  moved  a  little  way  from  the  hole.1
+
+The  younger  girl  heard  the  noise  of  the  mite' win  down  below.
+When  it  was  almost  daylight,  the  old  woman  sat  over  the  hole
+again  and  the  noise  of  mite' 'win  stopped;  it  was  her  spirit  that
+made  the  noise.  She  was  the  guardian  of  the  mite' win.
+
+One  morning  the  old  woman  told  the  girls,  "If  you  want  to
+go  down  from  where  you  came  from,  we  will  let  you  down,  but
+get  to  work  and  gather  roots  to  make  a  string-made  rope,  twisted.
+The  two  of  you  make  coils  of  rope  as  high  as  your  heads  when
+you  are  sitting.  Two  coils  will  be  enough."  The  girls  worked
+for  days  until  they  had  accomplished  this.  They  made  plenty
+of  rope  and  tied  it  to  a  big  basket.  They  then  got  into  the  basket
+and  the  people  of  the  star  world  lowered  them  down.  They
+descended  right  into  an  Eagle's  nest,  but  the  people  above
+
+\  The  hole  is  a  circle  composed  of  seven  stars  (Pleiades).  This  was  the  first  mite' win  or
+"conjuring"  ^lodge.  Seven  poles  are  necessary  to  build  this  lodge.  Unless  seven  are  used,
+the  conjurer's  tent  will  not  rock.  The  old  woman  tends  the  mite'win.  When  she  moves  from
+the  hole,  there  is  sure  to  be  mite'win  somewhere  here  below.  The  stars  form  the  rim  of  the
+bole  through  which  she  lowered  the  two  girls.
+
+
+49
+
+thought  the  girls  were  on  the  ground  and  stopped  lowering  them.
+They  were  obliged  to  stay  in  the  nest,  because  they  could  do
+nothing  to  help  themselves.
+
+Said  one,  "We'll  have  to  stay  here  until  some  one  comes  to
+get  us."  Bear  passed  by.  The  girls  cried  out,  "Bear,  come
+and  get  us.  You  are  going  to  get  married  sometime.  Now  is
+your  chance!"  Bear  thought,  "They  are  not  very  good-looking
+women."  He  pretended  to  climb  up  and  then  said,  "I  can't
+climb  up  any  further."  And  he  went  away,  for  the  girls  didn't
+suit  him.  Next  came  Lynx.  The  girls  cried  out  again,  "Lynx,
+come  up  and  get  us.  You  will  go  after  women  some  day!"
+Lynx  answered,  "I  can't,  for  I  have  no  claws,"  and  he  went
+away.  Then  an  ugly-looking  man,  Wolverine,  passed  and  the
+girls  spoke  to  hin.  "Hey,  Wolverine,  come  and  get  us."  Wol-
+verine started  to  climb  up,  for  he  thought  it  a  very  fortunate
+thing  to  have  these  women  and  was  very  glad.  When  he
+reached  them,  they  placed  their  hair  ribbons  in  the  nest.  Then
+Wolverine  agreed  to  take  one  girl  at  a  time,  so  he  took  the  first
+one  down  and  went  back  for  the  next.  Then  Wolverine  went
+away  with  his  two  wives  and  enjoyed  himself  greatly,  as  he  was
+ugly  and  nobody  else  would  have  him.  They  went  far  into  the
+woods,  and  then  they  sat  down  and  began  to  talk.  "Oh!"  cried
+one  of  the  girls,  "I  forgot  my  hair  ribbons."  Then  Wolverine
+said,  "I  will  run  back  for  it."  And  he  started  off  to  get  the  hair
+ribbons.  Then  the  girls  hid  and  told  the  trees,  whenever
+Wolverine  should  come  back  and  whistle  for  them,  to  anwser
+him  by  whistling.  Wolverine  soon  returned  and  began  to
+whistle  for  his  wives,  and  the  trees  all  around  him  whistled  in
+answer.  Wolverine,  realizing  that  he  had  been  tricked,  gave
+up  the  search  and  departed  very  angry.
+
+The  girls  continued  through  the  woods  until  they  came  to  a
+big  marsh,  late  in  the  afternoon.  There  they  saw  a  big  birch
+bark  house.  Everything  around  the  house  was  very  clean,  the
+poles  were  scraped  clean  of  their  bark  and  were  perfectly  white,
+while  there  was  neither  smoke  nor  ashes  to  be  seen  anywhere.
+The  girls  looked  at  this  and  said,  "The  person  who  lives  here
+must  be  very  clean;  we  have  never  seen  such  a  clean  house."
+There  was  no  dry  or  green  wood  lying  around,  but  inside  the
+house  they  saw  a  fire-place  and  plenty  of  hay.  One  girl  said
+
+
+50
+
+to  the  other,  "We'd  better  cut  a  little  wood."  So  they  cut
+wood  and  made  the  fire  in  case  the  man  came  home  late.  By
+this  time,  the  ice  was  beginning  to  break.  Late  in  the  evening
+they  heard  someone  crying  out,  "Who  spoiled  my  wigwam?
+Who  made  smoke  and  ashes?"  The  owner  of  the  wigwam
+didn't  know  who  had  done  this,  so  he  came  in  and  looked  at  the
+two  girls.  He  then  cut  all  the  wood.  This  man  was  Wood-
+pecker (Meme  "pileated  woodpecker").  Woodpecker  made  a
+fire  of  the  hay,  which  was  beaver  hay.  It  gave  no  smoke  to  stain
+the  wigwam  and  burned  as  well  as  wood.  He  brought  in  two
+nice  beavers  which  belonged  to  him,  and  gave  one  to  the  girls,
+saying,  "You  can  have  this."  He  then  cooked  the  other  one
+for  himself.  He  showed  the  girls  where  to  sleep  and  since  the
+place  where  they  were  to  sleep  was  not  near  him,  they  knew  that
+he  would  not  marry  either  of  them.
+
+Next  morning,  after  breakfast,  he  said  to  them,  "Go!  Don't
+stay  here.  You  go  that  way  and  you  will  find  a  big  river.
+There  you'll  find  lots  of  people  and  maybe  you'll  get  married."
+So  the  girls  went  on.  They  left  Woodpecker  and  he  is  there
+yet.  They  came  to  the  big  river  and  beheld  canoes  and  all
+kinds  of  people  passing.  First  they  saw  White  Duck  (wa'bdcrp) .
+He  was  a  good  looking  man,  and  as  he  passed  them  in  his  canoe,
+the  girls  said  to  him,  "Put  us  in  your  canoe,  you  are  going  to  get
+married  sometime."  White  Duck  answered,  "My  canoe  is  too
+small.  Other  people  are  coming;  they  will  marry  you."  And
+he  passed  on.  Next  came  Fish  Duck  (azi'k},  a  good  looking
+man.  They  cried  out,  "Put  us  in  your  canoe,  you  are  going  to
+get  married  anyway."  "No,  my  canoe  is  too  small,"  replied
+Fish  Duck.  A  great  many  people  passed,  but  all  of  them  said
+that  their  canoes  were  too  small,  so  the  girls  had  to  stay  where
+they  were.  The  people  were  passing  to  the  mouth  of  the  creek
+where  the  village  of  the  chief  was.  At  last  came  Black  Duck
+(ni'nicip).  He  was  also  nice  looking.  "Come  over  and  get  us;
+you  will  get  married  sometime,"  cried  the  girls.  "No,  My  canoe
+is  too  small.  Chjgibis  is  coming  soon  and  he  will  marry  you."
+He  was  going  to  be  the  last  person  to  pass.  At  last  Ci?7gibis
+came  along.
+
+When  they  saw  him,  one  of  the  girls  said,  "He  is  a  very  ugly
+man,  but  we  will  go  in  his  canoe  and,  when  we  get  to  the  village,
+
+
+51
+
+we'll  get  rid  of  him."  So  they  called  out  to  him,  "Come  over
+and  get  us;  you  will  get  married  anyway."  Cir/gibis  was  very
+glad  to  have  two  wives,  so  he  paddled  over  and  got  the  two
+girls.  They  said,  "Your  canoe  is  a  very  small  canoe."  "Oh
+no,"  said  Cir/gibis,  "my  canoe  is  a  magic  canoe.  It  is  enough."
+So  the  girls  got  into  the  canoe  and  they  went  down  the  stream.
+By  and  by  one  girl  said,  "I'm  getting  hungry."  "Well,"  said
+CTyigibis,  "not  far  down  is  a  nice  rock  and  there  we  will  have
+lunch.  You  can  pull  roots  for  lunch."  So  CiTjgibis  and  the  two
+girls  went  ashore  and  pulled  roots  and  made  a  string  out  of
+them.  "That's  enough,"  said  Cb/gibis  to  one  of  the  girls.
+"Tie  the  string  to  my  leg  and  I'll  dive  for  something  to  eat.
+When  you  see  the  string  jerk,  pull  me  up."  They  did  this,
+and  he  dove  into  the  water.  When  the  girls  saw  the  string  jerk,
+they  pulled  him  up  and  he  brought  with  him  a  big  beaver.
+They  skinned  and  cooked  the  beaver  for  lunch;  then  Cir/gibis
+and  his  two  wives  continued  their  journey.  Soon  Cirjgibis  said,
+"Well,  we  are  not  far  from  the  village  now.  I  am  going  to  place
+my  caribou  snare."  He  meant  rabbit  when  he  said  caribou.
+So  he  placed  his  snares.  He  then  told  the  girls,  "At  the  village
+your  sister-in-law  will  come  down  to  see  you.  Ma?;g  (Loon)  is
+the  name  of  the  chief  of  the  village.  But  we  won't  camp  near
+them;  we'll  camp  a  little  to  one  side."  They  went  down  the
+river  until  they  came  to  the  mouth,  and  at  that  point  they  saw
+the  wigwams.
+
+All  the  people  yelled  when  they  saw  Chjgibis,  for  he  was  a
+great  man,  although  he  was  the  ugliest  one  among  them.  They
+cried,  "Ee  Cirjgibis!  He  has  two  wives."  So  they  all  laughed
+and  the  sister  of  Ci^gibis  came  to  shake  hands  with  his  two
+wives.  Then  Cir/gibis  pitched  his  wigwam.  Soon  a  man  who
+was  a  second  chief  came  to  Cbygibis  and  said,  "Chief  Mar;g
+wants  to  see  you.  He  is  going  to  have  a  dance  tonight."  Cir/-
+gibis  said  to  his  wives,  "Stay  here  and  don't  go  to  the  dance.
+There  are  too  many  nice-looking  men  there."  On  account  of
+this  the  two  wives  became  angry  with  him.  Ci^gibis  put  on
+his  best  clothes  and  went  to  the  dance.
+
+By  and  by  the  wives  heard  drumming  and  fine  voices  singing.
+So  they  decided  to  go  and  peep  in  at  the  dancers  if  Chjgibis
+should  not  see  them.  They  did  this  and  peeped  in  through
+
+
+52
+
+the  bark,  and  there  they  saw  Loon  singing.  He  was  a  fine-look-
+ing man  with  a  fine  voice  and  fine  clothes.  Cir/gibis  was  beside
+Loon,  looking  exceedingly  ugly  in  contrast  to  him.  The  wives
+said,  "It  is  a  shame  that  Loon  is  so  good-looking."  They  then
+went  back  to  camp  and  put  two  stumps  in  the  place  where  they
+were  to  sleep,  covered  them  with  blankets  and  ran  off.
+
+Ci^gibis  came  back  from  the  dance  and,  thinking  that  he  was
+sleeping  with  his  two  wives,  he  lay  down  between  the  two  stumps
+and  fell  asleep.  But  his  two  wives  went  to  sleep  with  Chief
+Loon.  By  and  by  ants  began  to  bite  Ci^gibis  and  he  scolded
+his  wives,  saying,  "Don't  do  that."  At  last  he  discovered  the
+stumps  and  threw  them  out.  At  daybreak  he  went  to  the
+chief's  wigwam  and  there,  sleeping  with  the  Chief,  he  saw  his
+two  wives.  "You  are  a  dead  man  for  this!"  said  Ci^gibis.
+
+He  then  went  to  his  grandmother.  "What  do  you  want?"
+asked  she.  "I  want  a  chisel  and  a  flint."  "What  do  you  want
+with  them,  grandchild?  Are  you  going  to  be  in  mischief
+again?"  said  the  grandmother.  However,  she  gave  them  to
+him,  and  Cirjgibis  tied  two  flints  to  his  feet  and  placed  the  chisel
+in  the  fire  to  make  it  red  hot.  Then  he  asked  for  some  eagle
+feathers  (but  this  was  a  wiske'djak  (Canadian  Jay)  feather).
+He  got  them  and  placed  them  on  his  head.  When  the  ice
+chisel  became  red  hot,  the  old  grandmother  said,  "Say,  Cbjgibis,
+don't  do  any  mischief  again,"  but  Cirjgibis  picked  up  the  chisel
+and  ran  away  with  it  to  the  wigwam  of  Loon.
+
+Loon  always  slept  with  his  mouth  open.  When  Ci^gibis
+reached  the  wigwam,  he  found  every  one  in  it  asleep.  He
+shoved  the  chisel  into  Loon's  open  mouth,  killing  him,  ran  off
+to  his  canoe,  jumped  into  it,  and  paddled  away  to  his  snares.
+He  did  this  so  that  no  one  would  suspect  that  he  had  killed  their
+chief.  This  is  the  reason  why  the  Loon  always  has  a  black
+mouth — from  where  he  was  burned.  Cirjgibis  found  a  rabbit
+in  his  snare.  He  placed  the  blood  of  the  rabbit  in  some  hay  and
+tied  the  hay  to  his  stomach.
+
+When  he  returned  to  the  camp,  the  people  were  mourning  for
+Loon.  Cir/gibis  came  in  slowly.  The  second  chief  said,
+"Cigrjibis  will  be  very  sorry  when  he  hears  that  Chief  Loon  is
+dead.  He  was  his  great  friend.  We  must  tell  him  before  he
+arrives."  Then  the  people  called  to  Cirjgibis,  "Ee  Ci?7gibis,  the
+
+
+53
+
+chief  is  dead."  "What!"  said  CiTjgibis,  "the  chief  is  dead!"
+Then  he  drew  out  his  knife  and  pierced  the  hay  full  of  rabbit
+blood.  The  blood  ran  out  and  all  the  people  thought  that  he
+had  killed  himself.  Cirjgibis  then  dived  into  the  water  and  the
+people  came  out  in  their  canoes  to  look  for  him.  They  saw  the
+rabbit  blood  upon  the  water  and  gave  up  looking  for  him.
+After  a  few  days,  they  made  another  chief,  Goose  (nixka'),
+since  both  Loon  and  Cir;gibis  were  dead.
+
+Ten  days  after  this  had  happened,  early  in  the  morning  the
+people  heard  somebody  singing  near  the  shore  three  times,
+"Who  killed  our  chief?  I  am  the  one."  They  awoke  Chief
+Goose  and  he  exclaimed,  "I  was  thinking  that  that  Chygibis  was
+in  all  kinds  of  mischief.  So  we  must  try  to  kill  him."  Accord-
+ingly he  sent  all  the  men  after  him  in  canoes.  When  Cbjgibis
+dived,  they  could  only  see  his  feathers  which  his  grandmother
+had  given  him,  but  they  could  not  catch  him.  Ciijgibis  said  to
+them,  "You  are  all  spirits.  Drink  all  this  water  and  you  will
+get  me."  Then  the  Ducks  and  Geese  drank  all  the  lake  dry  and
+chased  Ci^gibis  among  the  rocks,  and  thought  that  they  would
+catch  him.  "No,  no,"  laughed  Cirjgibis,  "I  know  some  more
+tricks  yet."  So  he  ran  about  and  kicked  the  rocks  with  the
+flints  his  grandmother  had  given  him,  which  were  fastened  to
+his  feet,  and  water  began  flowing  out  and  finally  covered  every-
+thing. The  people  who  were  pursuing  him  had  to  swim  for  their
+lives.  They  all  became  ducks.  This  is  the  origin  of  all  the
+ducks.  When  the  people  left  their  canoes,  they  were  obliged  to
+swim  and  so  they  are  swimming  yet.
+
+(6)  BEAVER  GIVES  A  FEAST.
+
+All  the  animals,  once  upon  a  time,  were  camped  together —
+the  Beaver,  the  Otter,  the  Muskrat,  and  the  others.  Their
+chief  was  Beaver.  Every  once  in  a  while  he  would  give  a  big
+feast,  build  a  big  wigwam,  and  invite  all  the  men  and  women  to
+come  in  and  eat  with  him.  He  would  tell  them,  "Well,  I  want  to
+give  a  feast."  Then  they  would  come  in,  sit  around  the  inside
+of  his  big  wigwam  and  pass  the  food  around  from  one  to  the  other,
+He  would  provide  lots  of  grease  in  birch-bark  dishes.  Now,
+one  time,  when  he  gave  one  of  his  feasts,  Beaver  cut  his  grease
+65977—7
+
+
+54
+
+supply  into  cakes  which  he  served  around  to  his  guests.  Every
+time  he  passed  a  cake  to  a  guest,  pepedit.  Indeed,  every  time
+he  moved,  pepedit,  or  when  he  would  go  and  cut  a  new  block
+of  grease.1  Now  every  time  the  Beaver  broke  wind,  the  Otter
+laughed.  He  did  not  seem  to  know  that  this  would  offend  the
+Beaver,  because  he  was  a  little  foolish.  The  other  guests  told
+the  Otter,  "You  mustn't  laugh  when  Beaver  does  that;  he  is
+our  chief."  Despite  this,  every  time  they  went  to  a  feast,
+castore  pedente,  the  Otter  laughed  at  him.
+
+So  one  time  the  Beaver  sent  a  man  to  invite  all  the  people  to
+another  feast.  He  sent  the  messages  all  through  the  camp.
+Now  the  people  told  the  Otter  this  time,  "You  must  not  come;
+you  never  keep  your  mouth  shut;  you  always  laugh.  If  you
+only  knew  enough  to  keep  still  like  the  rest  of  us,  it  would  be  all
+right,  but  you  had  better  stay  home."  "Oh  well,  all  right,"
+said  the  Otter,  "I'll  stay  back."  All  went  to  the  feast  except
+the  Otter.  But  he  asked  the  others,  "You  will  have  to  bring
+my  share  to  me,  since  I  can't  come.  Tell  the  chief  to  send  me
+my  share."  The  others  agreed  and  went  to  attend  the  feast;
+but  they  asked  him,  "How  big  a  piece  of  grease  do  you  want?"
+The  Otter  replied,  "Bring  me  a  piece  the  size  of  my  forearm.
+(The  otter  has  a  very  small  forearm.)  When  the  guests  arrived
+at  the  feast,  the  Beaver  chief  saw  that  the  Otter  was  not  with
+them.  Said  he,  "Where,  indeed,  is  Otter?  I  like  him  because
+he  is  so  funny."  They  informed  him  that  the  Otter  had  not
+come,  but  that  he  wanted  the  chief  to  send  him  a  piece  of  grease
+as  large  as  his  forearm.  The  Beaver  cut  a  piece  that  size  and
+sent  it  to  the  Otter;  that  is  all  the  Otter  got.  He  did  not  get
+very  much  because  he  had  such  a  short  forearm.  That  is  the
+end  of  my  story.
+
+(7)    TCAKA'BJS.
+
+Tcaka'bjs  lived  with  his  grandmother.  One  time  he  made  a
+long  journey  and  was  away  for  quite  a  while.  He  came  to
+where  there  were  some  giant  women  who  were  scraping  frozen
+beaver  skins,  "kpc,  kg,c"  He  returned  home  and  told  his
+grandmother,  "I  heard  the  giant  women  scraping  beaver  hides."
+
+1  Etiam  hodie  castor  saepe  pedit.
+
+
+55
+
+"Don't  go  near  them,"  said  his  grandmother.  And  she  repeated
+this  warning  often  to  Tcaka'bjs.
+
+However,  one  day  he  returned  to  where  he  had  heard  the  giant
+women,  and  when  he  reached  the  lake,  there  they  were,  chasing
+beaver  on  the  ice.  When  he  came  up,  they  knew  him  and  cried
+out,  "Ee,  come  on,  come  on,  Tcaka'bjs!"  So  he  went  over  to
+them  and  they  said,  "There  is  a  beaver  here  and  you  must  pull
+him  up."  Tcaka'bjs  was  small  and  they  thought  the  beaver
+would  pull  him  through  the  hole  into  the  ice.  But  he  caught
+hold  of  the  beaver's  tail  and  pulled  him  through  all  right.
+Then  they  asked  him  to  stay  with  them,  but  he  went  away  after
+he  had  stolen  the  big  beaver  tail,  six  feet  long,  and  went  back  to
+his  grandmother.  When  he  got  home,  he  showed  her  the  tail,
+and  she  asked,  "Did  you  steal  it?"  "No,  no,"  answered  he.
+Then  he  made  a  door  for  their  wigwam  out  of  the  tail.
+
+Soon  the  giant  woman  came  to  where  he  lived  and  called.
+"Tcaka'bjs,  you  are  a  dead  man!"  They  came  for  the  purpose
+of  eating  Tcaka'bjs  and  his  grandmother.  Then  the  grand-
+mother said,  "I  told  you  not  to  go  there.  Now  they  say  you
+are  a  dead  man."  But  Tcaka'bjs  said,  "Don't  be  afraid,  grand-
+mother. I  will  take  care  of  you."  Then  he  took  his  witch
+stone1  and  threw  it  up  inside  the  wigwam,  and  the  whole  wigwam
+turned  to  stone  except  a  little  hole  in  the  top  for  the  smoke  to
+come  through.  The  stone  was  so  thick  that  they  were  unable
+to  hear  the  giant  women  pounding  on  the  outside.  Then  the
+giant  women  went  away  and  Tcaka'bjs  lay  inside  of  the  wigwam
+in  safety.  But  he  felt  a  little  sick,  because  he  had  eaten  too
+much  beaver  fat.
+
+Some  time  after  this,  Tcaka'bjs  went  back  again  to  the  giant
+women  and  found  them  pounding  up  and  boiling  moose  bones
+to  make  soup.  As  he  came  up,  one  of  the  giant  women  seized
+him  and  threw  him  into  the  pot.  There  he  stayed  for  a  long
+time,  boiling  and  circling  round  and  round  in  the  pot,  but  still
+he  was  alive.  At  last,  when  the  giant  women  needed  grease,
+they  dipped  up  Tcaka'bjs  with  a  wooden  spoon  and  threw  him
+outside.  Then  Tcaka'bjs  went  back  to  his  grandmother.  He
+was  very  thin,  because  he  had  been  boiled  so  long,  nothing  but
+skin  and  bones.  That's  the  end;  he  was  a  small  fellow.
+
+1  Kcki-'man,  a  magic  fetish  which  will  secure  the  owner  his  wish.
+
+65977— 7£
+
+
+56
+
+(8)  ANIWO'YE,1  THE  GlANT  SKUNK,  AND  THE  ORIGIN  OF  SKUNKS.
+
+Aniwo'ye  was  the  monster  Skunk.  He  used  to  travel  all
+over  this  world,  trying  to  find  the  Ojibwa.  He  hunted  them  to
+kill  them.  He  often  took  the  form  of  a  man.  Whenever  he
+would  encounter  people,  he  would  approach  them  et  pepedit
+towards  their  camp  with  his  back  to  them,  killing  the  people
+malo  ejus  odore.  In  those  days  there  was  no  other  sickness.
+That  was  the  only  sickness  which  people  had  to  kill  them.
+
+Once  upon  a  time  in  a  camp  where  there  were  lots  of  people,
+hunters  of  a  big  band,  they  beheld  the  tracks  of  Aniwo'ye  near
+one  of  their  trails.  It  was  winter  time.  When  they  saw  these
+tracks,  they  turned  back  from  their  object  because  they  were
+afraid  Aniwo'ye  would  see  their  own  tracks  and  follow  them  to
+camp  and  kill  all  their  people.  On  this  account  they  started  off
+in  every  direction  in  order  to  lead  Aniwo'ye  away  from  the  camp
+and  so  save  their  own  people  and  possibly  themselves.  Said
+they,  "We  will  go  to  Big  Fisher  lake,  where  the  Big  Fisher
+lives."  So  they  started  off.  But  there  was  one  old  woman
+who  could  hardly  see.  She  could  not  travel  with  them,  so  they
+had  to  leave  her,  as  nobody  could  carry  her.
+
+Soon  Aniwo'ye  found  their  trails  and  followed  them,  and  soon
+he  came  to  the  wigwam  in  which  the  people  had  left  the  old
+woman.  He  looked  in  the  door  and  saw  her  sitting  near  the
+fire.  "Where  are  all  your  people?"  he  asked  her.  "They  have
+gone  away,"  she  answered.  "They  saw  Aniwo'ye's  track  and
+departed.  But  I  am  too  old.  I  can't  see,  I  can't  walk;  so  they
+left  me  here."  This  poor  old  woman  thought  it  was  a  young
+man  who  spoke  to  her;  she  did  not  know,  indeed,  that  it  was
+Aniwo'ye  himself.  Then  Aniwo'ye  spoke,  "If  you  can't  walk,  I
+can  cure  you,  so  that  you  will  be  as  well  and  strong  as  you  ever
+were."  So  he  turned  his  back  to  her  et  pepedit.  He  blew  the
+wigwam  and  the  old  woman  all  to  pieces.
+
+Then  Aniwo'ye  followed  on  the  trail  of  the  people.  When  he
+had  tracked  them  to  Big  Fisher  lake,  he  could  see  right  across
+the  lake,  because  there  was  no  island  in  the  way,  and  there,  on
+the  other  side,  he  saw  where  Big  Fisher  lived.  The  people
+had  arrived  here  after  a  hard  trip  and  begged  Big  Fisher  for
+
+1  Also  called  Mici-'ci-ga'k  "Monster  Skunk".
+
+
+57
+
+protection  from  Aniwo'ye.  So  fast  had  they  travelled  that  some
+of  the  old  people,  unable  to  keep  up  with  the  younger  ones,  had
+died  of  their  efforts  to  hurry.  Those  who  had  reached  Big
+Fisher's  camp  kept  watching  for  Aniwo'ye  to  appear  across  the
+lake  on  their  tracks.  At  last  they  saw  him  emerge  on  the  lake
+and  come  towards  them.  All  the  way  along  this  pursuit,  when
+he  had  found  the  people  who  had  died  on  the  march,  he  pulled
+at  them  to  see  if  they  were  dead.  Now,  when  Aniwo'ye  appeared
+Big  Fisher  said  to  the  people,  "We  will  go  to  meet  him.  You
+men  go  ahead  and  I  will  hide  behind  you.  So  we  will  approach
+him  until  we  get  almost  within  his  range.  Do  not  let  him  see
+me,  sed  cum  anum  suum  nobis  verteret,  spread  apart  and  let  me
+pass  you  to  the  front.  While  his  back  is  turned  to  us,  we  will
+fix  him."  They  did  as  they  were  told,  and  the  band  started
+forward  to  meet  Aniwo'ye,  who  also  approached  them  slowly.
+When  they  were  near  enough  ut  odore  ejus  attingerentur,
+Aniwo'ye  turned  slowly.  When  his  back  was  toward  them,
+et  cum  pediturus  esset,  they  opened  ranks  and  Big  Fisher  ran
+forth  et  prius  anum  Aniwo'yei  cepit  quam  hie  pedere  posset.
+He  pinched  anum  ejus  dure.  "Ayu!"  exclaimed  Aniwo'ye.
+"Ayu,  ayu!  Let  go  of  me!  Non  iterum  pedam!"  But  Big
+Fisher  held  on  and  would  not  let  go.  They  struggled  for  some
+time,  but  Big  Fisher  held  fast,  and  at  last  Aniwo'ye  died  because
+he  could  not  discharge.  He  died  and  they  were  all  exceedingly
+glad,  rejoicing  that  he  was  done  for.  So  they  cut  him  up  into
+small  bits  and  scattered  the  bits  all  about.  Immediately  these
+turned  into  little  skunks  which  ran  off  into  the  bush.  That
+was  the  end  of  Aniwo'ye,  the  Monster  Skunk,  but  there  are
+plenty  of  small  skunks  now.
+
+(9)  THE  MAN  WHO  TRANSFORMED  A  DOLL  INTO  A  WOMAN  AND
+FOLLOWED  HER  INTO  THE  WORLD  ABOVE.
+
+There  was  once  a  man.  He  was  hunting.  He  had  his  own
+wigwam,  where  he  lived  with  an  old  man  and  an  old  woman
+who  called  him  grandchild.  He  did  not  even  know  his  father
+and  mother.  He  had  never  seen  young  people,  so  when  he  be-
+came about  twenty  years  old,  he  began  to  think  that  he  ought  to
+get  himself  a  wife.  So  he  started  out  and  travelled  all  over,
+
+
+58
+
+but  could  not  find  one.  At  last,  one  day,  he  took  a  piece  of
+wood  and  tried  to  carve  for  himself  a  big  doll.  He  worked  hard
+and  after  a  while  he  made  it  so  nearly  perfect  that  it  could  speak
+a  little.  It  was  a  female,  but  it  did  not  seem  to  be  complete
+quite  yet.
+
+Said  the  doll  to  him,  "Put  me  in  your  wigwam,  cover  me  up,
+and  do  not  look  at  me  for  three  days.  Be  sure  not  to  look,
+because  if  you  do,  I  won't  be  here."
+
+"All  right,"  said  he;  and  placed  his  doll  in  his  wigwam.
+To  remove  himself  from  the  temptation  of  breaking  her  rule  he
+went  away  by  himself  and  stayed  the  first  night.  The  next
+afternoon  he  came  back  and  began  wondering  to  himself.  "If
+I  sleep  here,"  thought  he,  "I  might,  indeed,  be  tempted  to  look."
+The  more  he  pondered,  the  more  he  weakened.  At  last,  he
+decided  to  take  a  little  look.  He  peeped  inside  the  wigwam
+and  saw  a  very  nice-looking  young  girl  seated  there.  Then,
+gaining  control  of  himself,  he  hurried  away  and  camped  again
+that  night  alone.  The  third  day  he  came  back  again  to  look  at
+his  wife.  When  he  came  near  the  camp,  he  went  to  the  water-
+hole.1  There  he  saw  a  woman's  track  going  away  from  the  water-
+hole.  Thought  he  to  himself,  "Alas!  my  wife  has  gone."
+He  walked  up  to  the  wigwam,  looked  in,  and  found  that  the
+woman  had  actually  gone.2
+
+He  now  decided  to  follow  her.  He  went  to  the  woods,  cut  a
+piece  of  cedar,  and  made  himself  a  bow  and  a  lot  of  arrows.
+The  next  day  he  started — this  was  two  days  after  the  woman
+had  left.  Then  he  walked  very  fast,  starting  early  in  the  morn-
+ing. Soon  he  came  to  a  small  lake  lying  still  and  frozen.  When
+he  reached  the  edge  of  the  ice,  he  shot  an  arrow  across,  then  he
+sped  so  fast  that  he  reached  the  other  side  of  the  lake  before  the
+arrow  got  there.  Before  noon-time  he  came  to  where  a  camp
+was  located,  and  going  up  to  it,  beheld  an  old  woman  cooking
+there.  "Oh,  my  grandchild,"  said  she,  "don't  stand  there
+looking  in  the  door.  Come  in  and  eat."  So  he  went  in.  Then
+he  asked  her  whether  she  had  seen  a  woman  pass  there.  She
+answered,  "Yesterday,  about  noon."  And  the  old  woman  gave
+him  a  mess  of  corn  and  said,  "My  dear  grandchild,  it  is  very  hard
+
+1  In  winter-time,  the  Indians  keep  a  hole  chopped  through  the  ice  near  their  camp  for  the
+water  supply.
+
+*  If  he  had  obeyed  her  and  not  looked  until  the  third  day,  she  would  still  have  been  there.
+
+
+59
+
+where  you  are  going.  Many  people  have  tried  to  go  where
+your  road  leads;  but  they  have  never  gotten  there,  for  many
+creatures  are  seeking  their  lives.  But  I  will  help  you."  Then
+she  gave  him  a  leg-bone  of  a  lynx.  "When  you  are  in  trouble,
+you  may  need  this,"  she  told  him.  Then  he  started  on,  following
+the  tracks  of  his  woman.  Every  time  he  came  to  a  lake,  he
+shot  an  arrow  across  and  sped  before  it  as  he  had  done  at  first.
+He  was  fast  indeed.
+
+Soon  he  came  to  another  wigwam  and  peeped  into  this  as  he
+had  done  into  the  first.  An  old  woman  who  was  cooking  inside
+spoke  to  him,  as  had  the  first,  and  invited  him  to  come  in  and
+eat.  Then  he  asked  her  when  she  had  seen  the  woman  pass  by.
+"A  little  after  noon  time,"  she  replied.  Now,  by  this,  he  knew
+that  he  had  not  gained  very  much.  As  before,  he  ate  a  little
+snack  of  corn  and  the  old  woman  said  to  him,  "Where  you  are
+going  will  be  a  very  hard  trip  for  you.  Many  people  try  it,
+but  never  succeed.  They  die."  And  she,  too,  gave  him  a  lynx
+bone  and  told  him,  as  the  other  had  done,  that  it  would  help  him
+in  time  of  need  on  his  journey;  and  he  started  on  again,  doing
+the  same  at  every  lake,  until  it  began  to  grow  late  in  the  day.
+He  had  been  going  so  fast  that  he  felt  very  tired.
+
+By  and  by  he  came  to  another  camp  and  peeped  in,  as  before,
+asked  the  same  question,  and  was  received  in  the  same  way.
+After  he  had  eaten  here,  the  old  woman  gave  him  a  squirrel's
+tail  to  help  him  overcome  the  dangers  which  she  warned  him
+against.  Said  she,  "From  now  on  you  won't  see  any  more  camps.
+Walk  very  fast  now.  Soon  you  will  see  a  big  tree  with  a  square
+trunk,  which  will  reach  very  far  up  into  the  sky.  Now  you  won't
+see  any  trail,  but  look  carefully  around.  That  is  where  your
+wife  climbed  up.  There  are,  indeed,  steps  cut  into  the  trunk,
+but  you  will  not  be  able  to  see  them.  To  you  it  will  look
+smooth."
+
+So  he  proceeded  on  his  way  and  soon  came  to  the  place  she
+had  spoken  about.  There  was  the  big  tree,  but  no  tracks  were
+in  sight.  Around  the  base  he  saw  lots  of  bones,  bones  of  people
+who  had  tried  to  climb  but  had  fallen  down  and  died.  He  was
+bewildered.  Then  suddenly  he  recollected  the  bones  the  old
+women  had  given  him.  Taking  one  in  each  hand,  like  a  pick,
+he  began  climbing  up  the  great  tree.  At  last  he  ascended  so
+
+
+60
+
+high  that  the  bones  began  to  wear  away.  When  they  were  so
+short  that  he  could  hardly  use  them,  he  looked  down.  He  had
+gone  so  high  that  he  could  neither  see  the  world  beneath  nor  the
+end  of  the  tree  in  the  sky  above.  Now  his  bones  were  too  short
+to  help  him,  but  he  had  his  bow  on  his  back.  He  could  hardly
+hold  on  any  longer,  so  he  cried  and  yelled  for  help,  but  nobody
+could  hear  him.  Soon  he  heard  a  spirit  nearby  which  mur-
+mured to  him,  "Close  your  eyes  and  look  through  the  tree.
+You  will  see  steps  to  climb  on."  Then  he  did  as  the  voice  said
+and  perceived  steps.  He  placed  his  feet  in  them  and  started
+running  up.  But  now  he  made  another  mistake,  he  did  not
+keep  his  eyes  closed.  When  he  looked,  lo!  he  found  himself
+back  to  where  he  had  begun  to  climb  the  steps,  holding  on  with
+his  worn-out  bones.  Then  he  bethought  himself  of  the  squirrel's
+tail,  and  at  the  same  moment  found  himself  transformed  into  a
+squirrel.  He  found  that  he  could  run  up  the  great  tree  by  tapp-
+ing his  tail  on  the  trunk  at  each  step.  At  last  he  came  to  a  hole
+in  the  sky,  in  the  middle  of  which  the  great  tree  protruded.  A
+wide  space,  however,  surrounded  the  tree,  separating  it  from  the
+edge  of  the  sky.  It  would  be  necessary  for  him  to  jump  across
+from  the  trunk  to  this  edge.  He  made  a  great  effort  and  sprang
+for  the  edge,  but  he  just  managed  to  catch  on  at  the  line  of  his
+waist;  his  upper  parts,  which  reached  above  the  edge,  at  once
+became  human;  his  lower  parts,  extending  below  the  edge,
+remained  in  the  form  of  the  squirrel.
+
+Then  he  beheld  his  wife  coming  across  the  surface  of  this
+upper  world  toward  him.  Said  she,  "You  should  not  have
+come  here,  because,  after  all  your  trouble,  you  will  die  anyway."
+She  took  hold  of  him  and  made  shift  to  raise  him.  Then  she
+pulled  him  out  after  teasing  him  a  little  while.  "Now,"  she
+said  to  him,  "we  always  play  ball  up  here.  There  are  men  here
+whom  you  will  meet.  They  are  your  brothers-in-law.  They
+will  want  you  to  play  ball.  If  they  beat  you  in  the  game,  they
+will  kill  you;  but  if  you  beat  them,  you  will  survive."
+
+Then  she  led  him  away  to  a  village,  where  they  saw  a  lot  of
+great  White  Bears.  This  was  the  great  White  Bear's  home  and
+his  family.  Now  the  old  Bear  arranged  a  contest  for  the
+stranger.  Said  he,  "You  take  this  ball  and  go  around  the  edge
+of  this  world,  running.  One  of  these  Bears  will  race  with  you,
+
+
+61
+
+to  see  who  gets  back  here  first."  So  they  started.  The  Bear
+took  the  ball  in  his  mouth  and,  as  soon  as  he  started  running,
+the  man  jumped  upon  his  back  and  shook  his  ears, which  made  the
+Bear  drop  the  ball.  Then  he  threw  the  ball  ahead.  In  this
+way,  repeating  the  trick,  they  went  around  the  world,  and  the
+man  succeeded  in  getting  back  first.  When  he  reached  the
+starting  point,  the  Bears  said,  "You  seem  to  be  a  pretty  good
+man;  but  there  are  still  more  tricks  for  you  to  perform.  If
+you  win,  you  can  stay."
+
+And  they  all  went  out  together  and  came  to  a  big  rock.  One
+of  the  White  Bears  tried  to  move  this  rock,  and  with  a  great
+effort  he  succeeded  in  moving  it  a  little.  "Now,  you  try,"
+said  they,  "and  if  you  can't  move  it,  you  are  a  dead  man."
+Then  the  man  took  his  bow  and  arrow  and  shot  it  at  the  rock.
+The  rock  immediately  broke  into  fragments.  "Indeed,  you  are  a
+great  man,  our  brother-in-law,  and  can  stay  here  and  hunt  and
+live  with  us,"  said  the  old  White  Bear.  Then  the  old  Bear  told
+him,  after  a  while,  that  he  had  better  go  and  hunt,  or  he  would
+grow  lonesome  in  his  new  life.  By  this  time  they  had  grown
+to  like  him  very  much
+
+One  afternoon,  late,  he  started  off  to  hunt.  Everything  that
+he  met  seemed  strange  to  him  in  this  new  world.  Soon  he  came
+to  a  lake  with  a  little  ice  on  it,  and  when  he  walked  out  he
+beheld  tracks  of  some  animal.  Soon  he  came  to  a  place  where  a
+big  wooden  mallet  lay  on  the  ice.  He  thought  to  himself  that
+somebody  had  lost  this  mallet.  Then  he  took  it  by  the  handle
+and  hammered  on  the  ice.  Immediately  the  hammer  fell
+through.  Up  from  the  hole  in  the  ice  a  red  otter  emerged.
+He  killed  the  red  otter.  Then  he  went  on  with  the  hammer  to
+another  place.  There  he  tried  again,  and  this  time  got  a  blue
+otter.  He  tried  again  at  another  place  and  got  a  black  otter,
+which  was  like  the  otters  of  this  world.  So,  taking  his  load  of
+otters,  he  went  home  to  display  what  he  thought  was  a  pretty
+good  hunt.  He  carried  his  game  in  a  bag  of  leather.  When
+he  got  to  his  wigwam,  he  shoved  his  bag  in  the  entrance  ahead
+of  him,  so  that  his  wife  could  open  it  and  see  what  he  had
+brought.1  Thought  she  to  herself,  when  she  saw  the  game-bag,
+
+a  for  a  hunter  retomiac  to  hand  hk  came-bag  to  his  wife  before  he
+t  fpeakinc.  »o  that  rite  c*o  *ee  for  benetf  whether  he  ha*
+
+
+62
+
+"I  wonder  if  he  will  show  himself  to  be  a  good  hunter."  She
+saw  some  blood  on  the  bag.  Opening  it,  she  beheld  the  otters,
+Now  the  man  had  made  a  mistake,  for  these  were  tame  otters
+and  belonged  to  the  Bears.  She  went  out  crying  to  her  people,
+"This  man  has  killed  our  otters!"  When  the  old  White  Bear
+heard  about  the  news,  he  said  to  his  family,  "We  should  have
+told  this  man  about  our  otters,  because  he  didn't  know.  On
+this  account  it  is  all  right."  He  said  no  more,  because  he  was
+afraid  of  the  magic  possessed  by  his  new  son-in-law.
+
+(10)  AYAS'E  AND  THE  ORIGIN  OF  BATS.
+
+The  Ayas'e  family  was  a  large  family.  They  lived  in  a  camp.
+Very  often  they  used  to  go  picking  berries,  for  their  country  was
+a  rocky  country  where  berries  abounded.  Very  often  some
+of  the  berry-pickers  would  get  lost  and  never  be  found  again.
+It  was  thought  that  some  creature  made  a  prey  of  them  and  ate
+them.
+
+One  time  one  of  the  Ayas'e  men  was  travelling.  On  his  way
+he  came  across  a  kind  of  cabin  of  rock,  from  the  top  of  which
+smoke  was  rising  and  in  front  of  which  a  number  of  human
+skulls  hung  in  the  opening.  Now  this  Ayas'e  managed  tc  enter.
+By  being  very  careful  and  not  touching  the  skulls,  he  gained  the
+inside  of  the  rock  house  without  making  any  noise.  These
+skulls  were  put  there  to  rattle  when  anybody  tried  to  pass.
+When  Ayas'e  got  inside,  he  beheld  two  old  blind  women.  As
+soon  as  they  became  aware  of  his  presence,  one  of  them  said,
+"We  had  better  begin  to  cook  something  and  we  will  find  out  if
+Ayas'e  is  passing  here."  Now  these  old  women  had  some
+grease  in  a  bark  dish  and  one  of  them  put  some  of  the  grease
+in  a  cooking  pail.  When  she  did  this,  Ayas'e  pulled  it  out  with
+his  hand  and  ate  it.  Then  she  took  the  spoon  to  taste  her
+grease,  but  found  it  gone.  So  she  put  another  lump  in  the
+dish.  Ayas'e  took  this,  and  when  she  started  to  dip  it  up,  it,
+too,  was  gone.  This  happened  three  or  four  times.  At  last
+the  old  woman  said,  "Ayas'e  must  have  passed;  somebody
+told  us  that  Ayas'e  was  going  to  pass.  He  must  have  passed
+now."  Then  she  took  a  stick  which  she  used  to  poke  the  fire
+with  and  began  feeling  all  around,  poking  in  the  corners  of  the
+
+
+63
+
+wigwam  to  find  if  Ayas'e  were  there.  Every  time  she  came
+near  poking  him,  he  moved  to  another  part  of  the  wigwam,  so
+she  could  not  reach  him.  Pretty  soon  she  touched  him  with  the
+poker  and  then  he  took  off  his  coat  of  fisher-skin  which  he  was
+wearing  and  threw  in  into  the  door-way.  The  old  women
+jumped  up  and  when  they  felt  the  fur  coat  they  thought  it
+was  Ayas-e  trying  to  escape  through  the  door.  Now  these  old
+women  had  a  sharp  pointed  bone  at  each  elbow.  With  this
+pointed  bone  they  began  stabbing  the  fur  coat  in  their  haste  to
+kill  Ayas  -e,  and  pretty  soon  in  their  blind  fury  they  fell  to  stabb-
+ing each  other,  each  one  thinking  she  was  stabbing  Ayas'e.
+They  killed  each  other.  One  of  the  old  women  said  before  she
+died,  "I  believe  you  hit  me  by  mistake."  It  was  too  late;  they
+both  died.
+
+Now  Ayas'e  in  the  wigwam  sat  down  and  looked  at  them  a
+long  time.  Then  he  dragged  them  outside  and  looked  at  them
+a  long  time.  All  around  the  wigwam  he  saw  the  men's  and
+women's  bones,  the  bones  of  the  victims  of  these  two  old  blind
+women.  Then  he  knew  that  all  of  his  lost  people  had  been
+killed  by  the  old  women  and  eaten.  They  were  cannibals  in
+the  shape  of  monster  bats,  large  enough  to  kill  and  eat  people.
+Then  Ayas'e  took  their  bodies  and  cut  them  up  into  small
+pieces.  These  he  threw  into  the  air  and  they  sailed  off,  trans-
+formed into  small  bats  as  we  see  them  to-day.  I  did  not  see  any
+more.
+
+(11)  ORIGIN  OF  THE  CONSTELLATION  FISHER  (URSA  MAJOR). l
+
+The  Fisher  (mustela  pennanti)  was  living  somewhere  in  this
+world.  Nobody  knows  where.  Now  in  those  times  they  had
+no  summer.  It  was  winter,  winter  all  the  time.  They  knew
+that  summer  existed  somewhere,  but  it  never  came  to  them,
+although  they  wanted  it  very  much.
+
+Now,  once  upon  a  time  a  man  captured  some  little  birds
+which  are  called  nr&araVe  "summer  (guardian)  birds."  He
+tied  them  in  bundles  and  kept  them  with  him  all  the  time.
+That  was  the  reason  why  it  was  continually  winter,  for  so  long
+as  he  held  these  birds,  they  could  not  bring  summer  to  the
+
+1  The  constellation  Ursa  Major  is  called  watci-'gan-arjg  "Fishing  Star."  The  story
+accounts  for  this  constellation  name.
+
+
+64
+
+North  Country.  The  people  pondered  very  much  how  to  go
+about  freeing  these  birds  from  the  creature  who  kept  them.
+At  last  somebody  discovered  where  this  creature  lived,  and  they
+decided  that  some  one  would  go  and  try  to  free  the  Summer-
+birds.  Now  the  Fresh-water  Herring  lived  in  the  same  wigwam
+with  the  man  who  kept  the  Summer-birds.
+
+The  Fisher  at  last  decided  to  go  and  free  the  birds,  so  that
+summer  would  come.  He  travelled  a  long  while  and  reached
+the  wigwam  where  the  captor  and  the  Herring  lived.  When
+he  went  in,  he  found  the  Herring  alone.  He  captured  the
+Herring  and  put  some  pitch  on  his  mouth,  so  that  he  could  not
+cry  out.  Then  Fisher  took  the  bundles  of  birds  and  tried  to
+break  the  bindings,  so  that  he  could  free  them.  Using  his  teeth
+at  last  he  tore  open  the  bundles  and  the  Summer-birds  flew  free
+into  the  air.  Then  the  pitch  broke  from  the  Herring's  mouth
+and  he  cried  out,  "Fisher  breaks  the  bundle!  The  Summer-
+birds!  Fisher  breaks  the  bundles  with  his  teeth!  The  Summer-
+birds!"  Two  or  three  times  he  cried  out,  until  their  captor
+heard  him.  Then  he  came  up  running,  but  when  he  arrived,
+the  Fisher  and  the  Summer-birds  were  already  far  away.
+
+The  Fisher  ran  very  fast  to  save  himself.  His  pursuer  had
+a  bow  and  arrow  with  which  he  was  going  to  kill  him,  but  the
+Fisher  sprang  into  the  sky  and  climbed  way  up,  with  the  hunter
+following  behind  him,  still  trying  to  shoot  him  with  his  bow  and
+arrow.  All  he  succeeded  in  shooting,  however,  was  his  tail,
+which  is  broken  where  it  was  wounded.1  Although  they  chased
+him  continually,  they  never  got  him.
+
+(12)  THE  YOUNG  LOON.
+
+Once  in  the  autumn  of  the  year,  when  the  birds  were  ready  to  fly
+to  the  south  for  the  winter,  a  young  Loon  was  unable  to  fly  far
+enough  to  go  with  the  rest  of  the  birds.  So  he  said  to  his
+mother,  "I  cannot  go  back  south  with  you,  as  I  am  not  strong
+enough.  But  I  will  stay  here  all  winter  in  this  place,  and  in
+the  spring,  when  you  come  back,  I  will  meet  you  here  at  this
+very  spot.  When  you  come  back  and  find  me  here,  it  will  be
+on  a  misty  morning."  So  they  all  flew  away  to  the  south,  and
+
+1  This  is  the  bend  in  the  handle  of  the  Great  Dipper.     The  small  star  Alcor  in  this  con-
+stellation is  the  wound.
+
+
+65
+
+the  young  Loon  was  left  behind  for  the  winter.  The  mother  was
+very  sad  because  she  had  to  leave  him  and  because  he  was  not
+strong  enough  to  go  with  them.
+
+In  the  spring  time,  when  the  ice  is  breaking  up  in  the  lake,  and
+it  becomes  misty,  the  Indians  say,  "The  Loon  is  coming  back
+from  her  winter  sojourn  in  the  South."
+
+(13)  THE  GIANT  PIKE.
+
+At  that  time  there  were  two  people  living  who  got  married
+and  had  some  daughters  and  sons.  These  grew  up  and  married.
+One  of  the  sons  married  and  had  children,  two  sons.  The  grand-
+father of  these  died.  Then  the  father  and  mother  died,  and
+left  the  children  with  only  their  grandmother  to  look  after  them.
+At  this  time  they  were  big  enough  to  shoot  bows  and  arrows
+and  to  go  in  a  canoe  with  their  grandmother  to  set  the  night
+lines1  for  fish.  They  lived  only  by  fishing,  because  the  grand-
+mother was  too  old  to  do  anything  else.
+
+So  these  two  boys  used  to  play  around,  shooting  bows  and
+arrows  for  fun,  just  as  the  Ojibwa  boys  do  now.  They  used
+to  play  near  a  lake.  Then  their  grandmother  would  say  to  them,
+"Don't  swim  in  that  lake.  There  is  a  big  pike  in  there  and  he
+might  swallow  you."  The  older  boy  believed  his  grandmother,
+but  the  younger  did  not.  So  one  day,  while  they  were  playing,
+the  younger  boy  by  mistake  shot  his  arrow  out  in  the  lake.
+He  could  see  it  floating  on  the  surface,  so  he  took  off  his  clothes
+to  swim  to  it.  But  his  brother  said,  "You  know  what  grand-
+mother told  you.  The  big  pike  might  swallow  you."  But  the
+boy  started  to  swim  nevertheless,  saying,  "Koga'miko"  ("swal-
+lowed in  the  water")  with  each  stroke  that  his  arms  took.
+When  he  called  this  out,  the  big  pike  came  and  swallowed  him.
+
+His  brother  began  crying  and  ran  back  to  his  grandmother
+in  the  wigwam,  saying,  "My  little  brother  is  koga'miko,  'swal-
+lowed in  the  water'."  Then  his  grandmother  began  crying
+and  the  two  were  crying  together.  Soon  after  this  they  again
+
+
+1  Night  lines  are  set  for  lake  fish.  The  hook  of  bone  formerly  was  fastened  into  a  shank
+of  wood  and  this  tied  to  a  line  by  a  leather  leader  which  the  teeth  of  the  fish  could  not  sever.
+Then  the  line  was  fastened  to  another  line  adjoining  the  two  float  sticks  by  a  knot  and  wrapping,
+which  would  pay  out  after  a  little  jerk.  The  float  sticks  were  anchored  by  a  stone.  The  bait
+was  tied  to  the  hook,  which  later  was  kept  horizontal  by  a  line  running  from  the  leader  to  a
+pin  stuck  in  the  bait.  This  ingenious  device  is  shown  in  Figure  1.  As  the  storyjmentions,  when
+the  float  sticks  are  together  it  is  a  sign  that  a  fish  is  on  the  hook.
+
+
+66
+
+
+set  their  night  lines.  When  they  looked  toward  the  lake,  three
+days  later,  they  saw  the  float  sticks  together  and  the  boy  said,
+"We  have  a  fish."  But  the  grandmother  cried  and  would  not
+look  toward  the  lake  where  her  grandson  had  died.  But  soon
+she  went  along  in  the  canoe,  crying,  and  pulled  in  the  line.
+At  the  end  was  a  very  large  fish,  and  they  could  see  that  his
+stomach  was  full  of  something.  He  was  so  large  that  they
+could  scarcely  pull  him  into  the  canoe.  However,  they  managed
+
+
+Figure  1.  Night  set-line.
+
+to  get  him  in  and  then  they  paddled  to  the  shore  and  dragged
+the  fish  to  a  place  where  they  could  conveniently  clean  it.
+They  cut  his  belly,  which  was  distended,  and  out  jumped  the
+younger  brother.  "I'm  scalded  with  the  intestines!  (Nin-
+babe'nds,yn  he  cried.  "I'm  scalded.  I've  been  here  three
+
+
+1  Archaic  form.
+
+
+67
+
+days."  He  was  already  beginning  to  be  digested.  The  grand-
+mother was  very  glad  to  get  her  grandson  back  again.  That  is
+the  end.
+
+(14)  LYNX  AND  His  Two  WIVES.
+
+There  was  a  time  when  Lynx  had  two  wives,  the  one  a  Rabbit
+and  the  other  a  Marten.  The  three  lived  in  a  wigwam.  At
+this  time  Lynx  drove  beaver  during  the  winter  time.1  Rabbit
+was  a  very  good  hunter.  But  Lynx  this  winter  had  very  poor
+luck  and  they  became  very  hungry.  Lynx  beat  his  wives
+because  they  couldn't  find  the  beaver.  He  said  to  them,  "If
+you  don't  get  some  beaver  for  me,  I'll  eat  both  of  you."  At
+this  they  became  very  much  frightened.  So  Rabbit  went  to  a
+beaver  place,  and  putting  a  stick  in  the  hole,  she  felt  a  beaver  in
+it.  Then  Rabbit  went  home  and  told  Marten,  and  they  both
+were  glad  to  get  a  beaver  and  save  their  lives.  Then  they  both
+went  ba<fk  to  the  hole.  While  Rabbit  was  pulling  the  beaver
+out  of  the  hole  and  had  hold  of  his  hind  quarters,  Lynx  came
+along  and  tickled  Rabbit,  so  that  she  let  go  and  the  beaver
+escaped.  Lynx  was  bent  on  mischief.  He  said,  "If  you  don't
+get  some  beaver,  I'll  kill  you  tonight."
+
+Rabbit  and  Marten  went  home  and  burrowed  a  tunnel  in  the
+snow,  inside  the  wigwam.  Then  they  both  went  into  a  hole  to
+hide  and  closed  the  hole  behind  them.  When  Lynx  reached
+home,  he  was  unable  to  find  his  wives,  but  he  knew  they  were
+somewhere  near.  So  he  began  to  pull  up  testes  suos  in  se  and
+then  he  began  dancing.2  He  said  to  himself,  "When  they  hear
+this  funny  thing,  they  will  laugh."  Pretty  soon  Marten
+laughed,  and  Lynx,  digging  her  out  of  the  hole,  killed  and  ate
+her.  Soon  he  grew  hungry  and  tried  the  same  trick.  But
+Rabbit  was  very  much  afraid  and  would  not  laugh.  Lynx
+kept  on  doing  this  for  some  time  and  finally  gave  it  up.  He  sat
+near  the  fire  and  cut  his  belly  open,  taking  out  some  of  his
+intestines  which  he  roasted  and  ate.  At  last,  when  he  had  eaten
+all  his  intestines,  he  came  to  his  heart.  When  he  pulled  at  this,
+"Huk,  huk"!  it  made  a  noise.  At  last  he  jerked  and  pulled
+
+1  To  drive  beaver  is  to  bunt  them  by  driving  them  from  their  cabins  beneath  the  ice.
+
+2  At  this  time  Lynx  testes  habuit  just  like  those  of  animals,  but  now  they  are  like  those  of
+the  cat,  invisible.
+
+
+68
+
+at  it  so  hard  that  he  died.     This  is  the  end.     But  all  the  grand-
+children of  Lynx  have  testicles  as  they  are  to-day.
+
+(15)  STORY  OF  SEAL  ROCK  IN  LAKE  TIMAGAMI.
+
+Once  upon  a  time,  on  a  small  island  in  Lake  Timagami,  some
+people  went  ashore,  and  one  of  the  women  left  her  baby  in  a
+cradle-board  on  a  rock,  while  she  went  a  short  distance  off.
+When  she  came  back,  the  baby  was  gone;  it  had  been  taken  by
+a  big  manitu  (magic)  seal  who  lived  in  a  rock  and  he  had  taken
+the  child  inside  with  him.  The  child's  father  was  also  a  manitu,
+so  he  began  burrowing  and  digging  into  the  rock  for  his  baby
+and  he  dug  a  channel.  This  hole  is  there  yet.  When  he  reached
+the  baby,  it  was  dead,  and  the  seal  was  gone.  It  had  dived
+and  crossed  two  miles  under  water  to  Seal  island  and  gone  into
+a  big  rock  there.  He  dove  and  followed,  as  he  was  mrte~'  and
+came  to  the  big  rock  where  the  seal  had  gone  in.  With  his
+chisel  he  split  the  rock,  but  the  seal  escaped.  The  rock  is  there
+yet,  split  down  the  centre.
+
+(16)  RABBIT,  LYNX,  AND  FISHER.
+
+At  the  time  of  which  my  story  speaks  Lynx  and  Fisher  had
+the  same  sharp  nose  and  face.  Fisher  used  to  jump  right
+through  a  big  boulder  as  high  as  a  man  whenever  he  wanted  to.
+One  day  he  told  Lynx  to  try  to  beat  him  and  jump  through.
+So  Lynx  tried  to  do  it  and  smashed  his  face  flat,  as  it  is  now.
+He  went  away  very  sore.  Soon  he  met  Rabbit.  "Kwe,  kwe,"
+Lynx  asked  Rabbit,  "where  are  you  going?"  Rabbit  answered,
+"I  am  going  to  the  short  flat-faced  country."  Lynx  did  not
+understand  the  joke,  and  he  let  Rabbit  pass.
+
+Lynx  went  on  and  came  to  a  stream  into  whose  waters  he
+looked,  and  saw  some  flints.  He  tried  to  reach  some  to  pick
+them  up  and  beheld  himself  in  the  water.  He  discovered  how
+ugly  he  was.  "I'm  so  ugly.  That  is  what  Rabbit  meant  when
+he  met  me.  I'll  fix  him."  So  he  went  back,  struck  Rabbit's
+trail,  and  followed  him.  So  he  followed  the  trail  until  it  went
+into  a  hole  in  the  snow  under  a  bush.  Lynx  looked  in  and  saw
+Rabbit  sitting  there,  reading.  He  asked  Rabbit,  "Has  anybody
+
+
+69
+
+been  passing  here  lately  Hee!"  Rabbit  made  no  answer.
+Lynx  asked  this  question  twice  and  at  last  Rabbit  spoke,  "Tsc
+tsc,  it's  Sunday  to-day."  Lynx  asked  the  same  question  again
+and  received  the  same  reply.  Then  Rabbit  said,  "Why  don't
+you  go  around  and  find  his  track?".  When  Lynx  went  around,
+Rabbit  ran  out  and  off.  When  Lynx  saw  him  run,  he  chased
+him  and  caught  him.
+
+"Can  you  talk  English?"  said  Lynx.  "Yes,"  answered
+Rabbit.  "Well,  can't  you  talk  white?"  "Yes,"  answered
+Rabbit.  "Well,  if  you  don't  talk  white,  I'll  kill  you."  So
+Rabbit  had  to  talk  white.  "Well,  what  do  you  call  'fire'  in
+English."  "Waycfkabi-'te"  (people  sitting  around  a  fire),
+answered  Rabbit.  "How  do  they  say  'axe'  there?"  ''Me'ma-
+towes'irjg"  ("noise  of  chopping").  "What  do  you  call  knife?"
+asked  Lynx.  "Taya'tacki''w9gis'e"  ("sliced  meat"),  answered
+Rabbit.  "You  are  a  liar",  said  Lynx.  "Ki'nirjgwa'zdm,  you  are
+a  liar."  And  he  killed  Rabbit.
+
+(17)  SNARING  THE  SUN.
+
+There  was  once  a  boy  who  used  to  set  his  snares  for  his  living.
+One  day  he  saw  a  track  where  the  snow  was  melted,  and  after  a
+while  he  decided  to  set  his  snares  there  and  catch  the  animal  that
+made  the  tracks.  So  he  set  his  snare  and  went  away.  That
+track  was  the  sun's  track,  and  when  the  sun  came  by  next  day,
+it  got  caught.  The  sun  didn't  rise  the  next  day  and  there  was
+steady  darkness.  The  people  began  to  be  puzzled.  "Where
+did  you  set  your  snare?"  they  asked  him.  He  told  them,  and
+they  went  to  look.  There  they  saw  the  sun  caught,  but  no  one
+could  go  near  enough  to  loosen  it  A  number  of  animals  tried
+to  do  this,  but  they  all  got  burned.  At  last  the  Beaver-mouse
+managed  to  cut  it  with  his  teeth  and  freed  it.  But  his  teeth
+got  burned  with  the  heat,  and  so  they  are  brown  to  this  day,
+but  the  sun  is  here  and  we  have  the  daylight.
+
+(18)    HOMO    EXCREMENTI.
+
+There  were  a  number  of  people  camping,  and  one  man  was
+camping  by  himself.     He  was  a  young  man  and  he  tried  to  get
+65977—8
+
+
+70
+
+his  neighbour's  daughter  to  marry  him,  but  she  wouldn't  have
+him,  saying  that  he  was  not  good  enough.  And  so  the  young
+man  went  back  and  forth  trying  to  get  a  wife.
+
+Then  the  people  went  away  to  another  place  to  camp,  as  it
+was  getting  spring,  but  the  young  man  stayed  back.  He  was
+full  of  mite' 'win.1  He  planned  to  have  revenge  upon  the  girl
+who  would  not  have  him.  He  collected  omne  excrementum
+quod  invenire  potuit  and  made  it  into  the  shape  of  a  man.  He
+was  determined  to  settle  with  the  girls  who  had  refused  him,
+for  he  was  full  of  revenge.  When  he  had  made  the  man  alive,
+he  sent  him  to  where  the  girls  were  camping.  The  new  creature
+was  frozen  nice  and  hard,  he  was  nice-looking,  and  he  could
+talk.
+
+And  so  Homo  excrementi  came,  early  in  the  morning,  crunch-
+ing through  the  snow  to  where  the  girls  were  in  camp.  When
+they  saw  him  coming,  they  cried,  "Somebody's  coming.  Make
+a  fire."  And  when  he  reached  the  camp  every  one  received
+him  in  fine  style,  as  he  was  such  a  nice  fellow.  "Where  do  you
+come  from?  Who  is  your  father?"  they  asked  him.  "Hump-
+back," said  he.  "Who  is  your  mother?"  "Flat-set  excre-
+mentum," answered  he.  But  the  old  people  did  not  understand
+him.  He  was  unable  to  stay  near  the  fire  long,  for  fear  he  would
+melt.  They  wished  him  to  stay  at  the  camp,  but  he  couldn't,
+so  he  hurried  away.
+
+Then  one  of  the  girls  who  had  refused  the  young  man  in
+marriage  followed  him  and  he  led  her  a  long  chase.  She  began
+to  feel  it  grow  warmer  (it  was  April)  and  soon  she  found  one  of
+his  mittens  and  later  his  hat.  At  last  it  became  so  warm  that
+she  came  to  the  place  where  he  had  melted  altogether  et  ibi  erat
+agger  excrementi.  When  she  examined  the  hat,  internum  ejus
+excrementi  illitum  invenit.  So  she  went  back  home  saying,
+"Good  for  him,  he's  melted.  I'm  glad  he  is  melted."  She
+couldn't  catch  him  anyway,  so  she  was  angry.
+
+So  young  girls  should  not  try  always  to  get  a  nice-looking
+man,  but  take  the  man  selected  for  them.  The  old  people  tell
+them  this  story  for  a  lesson,  lest  they  lose  a  good  man,  though
+not  so  handsome,  to  get  a  "stinker."
+
+
+1  Conjurer's  magic.
+
+
+71
+
+(19)  THE  ORIGIN  OF  SNAKES.
+
+A  man  was  one  time  walking  along  and  came  to  a  lake  which
+he  wanted  to  cross.  But  he  had  no  canoe,  and  so  he  walked
+along  the  shore  until  he  saw  a  big  Snake  lying  in  the  water  with
+his  head  on  the  shore.  "Will  you  carry  me  across?"  asked  the
+hunter.  "Yes,"  answered  the  Snake.  "But  it  looks  cloudy
+and  I  am  afraid  of  the  lightning,  so  you  must  tell  me  if  it
+thunders  while  we  are  crossing."  The  hunter  got  on  the
+Snake's  back  and  they  started  to  swim  across  the  lake.  As
+they  went  along,  thunder  began  rumbling,  "kax  kax,"  and  the
+lightning  flashed.  "Mah,  mah,  listen!"  said  the  Snake  in  fear.
+"I  hear  something."  Just  as  they  reached  the  shore,  when  the
+hunter  could  leap  to  safety,  a  stroke  of  lightning  hit  the  Snake
+and  broke  him  into  numberless  pieces,  which  began  swimming
+about  and  finally  came  to  land.  The  great  Snake  was  not
+killed,  but  his  pieces  turned  into  small  snakes  which  we  see  all
+about  to-day.
+
+(20)  MUSKRAT  WARNS  THE  BEAVER.
+
+The  Muskrat,  Beaver,  Dog,  and  some  Ojibwa  were  com-
+panions and  hunters.  They  were  real  people  who  could  talk  to
+one  another.  They  started  out  one  day  and  came  to  a  small
+lake  and  there  they  saw  Beaver  houses  and  families.  It  was
+early  in  the  winter.  They  said,  "That's  a  good  lake  to  drive
+the  beaver,  as  it's  all  rocky  and  they  can't  escape.  The  season
+is  right,  so  we  will  come  tomorrow  with  dogs."  The  Beavers
+were  in  their  houses  and  they  saw  the  Indians,  but  they  couldn't
+hear  the  talking.  The  Muskrat  heard,  however,  and  went  to
+the  Beaver  and  told  them.  "You  must  look  out  for  yourselves,
+uncles.  Those  Indians  say  you  are  very  easy  to  catch."  Now
+the  Muskrat  had  stayed  outside  the  Indians'  wigwam  and
+listened  to  what  they  were  saying,  until  his  feet  got  so  cold  that
+he  could  stay  no  longer.  So  that  this  was  all  that  he  had  heard
+to  tell  his  uncle  the  Beaver.
+
+The  next  morning  the  Indians  came  to  the  lake  and  broke  the
+
+Beaver's  houses,   and  the  big  Beaver  told  the  young  ones,
+
+"When  you  see  a  dog  passing,  whistle."     So  the  young  Beavers
+
+went  to  different  places  under  the  ice  and  when  they  saw  a  dog
+
+65977— 8£
+
+
+72
+
+passing,  they  whistled  and  all  were  thus  caught  and  killed  by
+the  men.  But  the  big  Beaver  didn't  whistle,  and  he  escaped.
+The  Indians  said,  "Where's  the  big  Beaver?"  Then  they  went
+back  and  had  a  big  feast  on  those  they  had  caught.  In  those
+days  people  used  to  cut  a  flat  bone  from  the  hind  foot  of  the
+beaver  and  throw  it  into  the  water,  so  that  the  dogs  wouldn't
+get  it.  These  hunters,  however,  made  a  mistake  and  forgot  to
+save  that  bone.  They  lost  it.1
+
+So  the  Indians  had  their  feast,  and  when  they  threw  the  bones
+into  the  water,  one  of  the  little  Beavers  came  back  to  life  and
+went  back  to  his  parents.  He  said  to  them,  "I  had  a  fine  time,
+father.  They  hung  me  over  the  fire,  and  I  danced  for  them."
+Shortly  all  the  Beavers  came  back,  but  one  of  them  said,  "I'm
+very  sick,  father.  They  didn't  use  me  right."  This  was  the
+Beaver  whose  bone  from  his  hind  foot  the  hunters  had  lost.
+He  was  very  sore  and  disgusted  and  showed  his  father  the  fresh
+mark  of  his  foot  where  the  flat  bone  was  lost,  when  they  asked
+him  what  was  the  matter.  The  Beavers  did  not  like  this  and
+they  became  angry.  So  nowadays  the  Indians  tell  the  young
+boys  neither  to  talk  about  the  Beavers,  nor  the  prospects  of  a
+hunt  before  attacking  a  beaver  colony,  lest  the  Muskrat  hear
+them  and  tell  the  Beaver.  And  also,  when  the  hunting  dogs
+suddenly  go  off  from  camp  and  run  over  the  ice,  the  hunters  say
+the  dogs  hear  the  beavers  whistling.
+
+(21)  STORY  OF  A  HUNTER.
+
+There  were  two  men  living  in  a  camp  with  two  women  and
+the  rest  of  the  band.  On  a  cold  day  in  winter  one  of  the  men
+said  he  was  going  to  track  a  moose,  and  left  on  his  snowshoes.
+He  said  he  would  be  back  by  night.  He  was  gone  all  day  and
+by  night  he  had  not  returned,  so  his  wife  began  to  think  that
+possibly  he  had  shot  a  moose,  but,  as  he  had  taken  his  axe  with
+him,  he  might  have  cut  himself  in  some  way.  They  waited
+until  morning  and  then,  taking  up  his  trail,  they  tracked  him  to
+where  he  had  shot  a  moose  and  farther  on  to  where  he  had
+skinned  it.  The  meat  was  there,  but  the  skin  was  gone.  Look-
+
+1  They  used  to  suspend  the  beaver  by  a  swinging  string  and  roast  him,  saving  all  the  bones
+from  the  dogs  in  order  to  throw  them  into  the  lake,  as  they  thought  that  there  would  be  just
+as  many  beavers  there  again  in  the  autumn  as  the  number  of  bones  thtown  in.  This  story  ex-
+plains the  ceremonial  treatment  of  beaver  remains.
+
+
+73
+
+ing  around  they  saw  a  fire  not  far  off.  When  they  reached  the
+fire  they  discovered  that  the  hunter  had  rolled  himself  up  in
+the  green  hide  to  sleep,  and  during  the  night  it  had  frozen
+around  him  and  he  had  been  unable  to  get  out.  They  thawed
+out  the  skin  and  all  went  back  to  camp.
+
+(22)  A  TIMAGAMI  STORY.
+
+Once  there  were  a  man  and  his  wife  living  in  a  bark  wigwam.
+The  wife  grew  very  fond  of  another  man  et  voluit  copulare
+cum  eo  sine  cognitione  mariti  sui.  They  finally  hit  upon  a
+plan.  She  cut  a  small  hole  in  the  bark  near  her  bedding  ut  ille
+cum  ea  nocte  copulare  posset.  She  slept  near  the  hole  et
+omne  bene  factum  est,  sed  maritus  tandem  invenit  quid  fieret.
+So  one  night  he  ordered  his  wife  to  change  places  with  him  when
+they  slept,  et  cum  venisset  amator,  maritus  penem  ejus  abs-
+cidit  per  orificium  positum.  Tune  membrum  virile  cepit,
+without  telling  his  wife  what  had  happened,  and  went  off  on  a
+moose  hunt.  He  killed  a  moose  and  took  its  intestine  end
+[described  like  an  appendix],  secuit  penem  in  fragmenta,  mixed
+these  with  fat,  and  made  a  smoked  sausage  out  of  the  whole.1
+Then  he  went  home  and  gave  it  to  his  wife  to  eat.  When  she
+had  eaten  it,  he  said,  "Nunc  edisti  penem  amatoris  tui."
+
+(23)  STORY  OF  A  FAST  RUNNER.
+
+Once  a  hunter  was  so  quick  of  foot  that  when  he  shot  his
+arrow  at  a  beaver  plunging  into  the  lake  from  the  shore,  he  would
+run  down,  catch  the  beaver  by  the  tail  before  the  arrow  got  to
+it,  and  hold  it  until  the  arrow  struck.  He  was  a  fast  runner,
+indeed.
+
+(24)  THE  HUNTER  AND  THE  SEVEN  DEER.
+
+There  once  was  a  hunter  who  lived  in  a  camp.  The  summer
+had  been  very  dry  and  the  whole  country  was  on  fire.  He
+stayed  in  his  camp,  however,  although  the  smoke  was  so  thick
+that  no  one  could  see  any  distance.  One  day  he  saw  seven  deer
+walking  along,  each  holding  the  other's  tail  in  its  mouth.  The
+
+
+1  This  intestine  sausage  is  a  great  delicacy  among  the  Indians.
+
+
+74
+
+leader  alone  could  see,  and  he  was  guiding  the  others.  So  he
+killed  the  leader  and  then  took  hold  of  the  second  deer's  nose,
+and  so  lead  them  all  to  his  camp  alive,  where  he  butchered
+them.
+
+(25)  STORY  OF  A  CONJURER.
+
+There  was  a  conjurer  (mrte'w),1  whose  name  was  Gitcikwe'we
+("buzzing  noise"),  his  wife  Prdje"kwe2  and  their  children,  camp-
+ing at  a  lake  in  a  wigwam.  There  was  a  large  lake  to  the  west
+of  where  they  were  camping  full  of  islands.  It  was  a  long
+portage  from  the  wigwam  to  this  lake.
+
+One  evening,  while  Gitcikwe'we  was  sitting  in  his  wigwam,
+he  became  very  much  frightened.  He  saw  nothing  in  particular
+that  frightened  him,  but  on  account  of  his  mrte'w  feeling  he
+became  afraid  and  knew  that  something  was  coming.  At  dusk
+he  gathered  up  his  blankets  and  jumped  into  his  canoe  with  his
+family,  and  they  floated  on  the  lake  beside  the  camp,  all  night
+long.  When  he  went  back  to  the  wigwam  in  the  morning,  he
+found  that  a  Windigo3  had  been  there  and  had  smashed  his
+wigwam.
+
+Then  the  family  started  to  take  the  portage  which  led  across
+to  the  big  lake  containing  the  islands.  When  Gitcikwe'we
+took  the  portage,  he  sent  his  wife  and  children  ahead  and  told
+them  to  hurry  on  as  fast  as  they  could,  while  he  would  follow
+behind  with  the  canoe.  He  said,  "When  you  hear  'Meat  bird'
+(Wiske'djak4)  flying  above  you,  that  means  'Hurry',  for  the
+Windigo  is  coming  behind  to  catch  you.  That  will  be  your
+warning."  They  reached  the  other  end  of  the  portage  and  got
+into  the  canoe  and  paddled  out  to  one  of  the  islands  to  a  place
+where  the  end  of  the  portage,  from  which  they  had  just  come
+out,  was  lost  to  view.  They  were  safe  there,  as  the  Windigo,
+having  no  canoe,  could  not  cross.  After  Gitcikwe'we  put  up
+his  camp,  he  said  to  his  wife,  "I  am  not  yet  satisfied.  I  must
+beat  that  Windigo,  because  he  will  bother  us  all  winter,  and
+then  we  will  starve,  for  I  cannot  hunt  while  staying  at  camp  all
+the  time,  watching  out  for  you  and  the  children."
+
+1  One  of  the  ranks  of  shamans.
+
+1  Mi'&'kwe,  "medicine  woman".
+
+*  A  cannibal  monster.
+
+4  Gitcikwe'we  intended  to  assume  this  guise.
+
+
+75
+
+Then  he  made  his  mi'te'o  wigwam  with  its  seven  poles  and
+covered  it  with  bark.1  He  went  into  it  and  it  began  to  work
+and  move,  while  a  band  of  spirits  could  be  heard  singing  inside.2
+Then  Windigo  came  there  and  Gitcikwe'we  said  to  his  wife,
+"We  will  clinch  him  and  take  him  away  out  west  where  he  came
+from."  When  he  clinched  him,  the  conjuring  wigwam  shook
+and  made  a  noise  like  thunder,  and  the  children  fainted  from
+fright,  for  they  knew  their  father  was  inside.  When  they
+recovered  consciousness,  everything  was  still  in  the  wigwam,
+and  their  father  had  gone  out  west,  taking  his  captive  with
+him.  A  little  while  after  this  the  wigwam  started  to  move
+again  and  Gitcikwe'we  was  back  again  from  his  trip  out  west.
+He  said  to  his  family,  "We  will  be  all  right  now.  I  took  him  back
+west.  He  is  very  sick  from  his  fright  but  he  will  stay  there  now."
+
+There  was  another  mi'te'  Indian  one  day's  journey  from
+where  Gitcikwe'we  was  camping.  This  Indian  was  so  full  of
+mi'te'  also  that,  while  he  was  asleep,  he  heard  Windigo  passing
+overhead  with  a  great  moaning  noise  as  if  he  were  in  pain.  No
+other  people  heard  it  except  this  man,  because  they  were  not
+mi-te'.
+
+Next  morning  Gitcikwe'we  awoke  and  found  that  it  was  a  fine
+day  with  no  wind  to  bother,  and  the  whole  family  was  happy
+to  think  of  passing  another  winter.  Shortly  after  they  had
+gotten  up,  they  heard  a  great  noise  of  shouting  in  the  direction
+of  the  end  of  the  portage  from  where  they  had  come  and  which
+was  just  lost  to  view.  When  Gitcikwe'we  heard  this,  he  loaded
+his  flint  lock  gun  to  shoot  Windigo,  for  he  thought  he  had  come
+back  and  was  making  the  noise  and  concluded  that  that  was  the
+only  way  to  get  rid  of  him.  He  and  his  wife  got  into  the  canoe
+for  this  purpose.  When  they  turned  the  point,  they  saw  a
+young  man  standing  right  in  the  portage.  It  was  Gitcikwe'we's
+wife's  nephew.  He  had  left  his  canoe  at  the  other  end  of  the
+portage,  as  it  was  so  long  to  carry  it,  and  he  was  expecting  his
+aunt  to  take  him  across  in  her  canoe.  So  he  got  into  the  canoe
+and  the  three  of  them  returned  to  camp.3
+
+
+1  Seven  poles  are  always  required  for  this  kind  of  a  wigwam.     See  story  of  Cirjgibia.
+
+2  The  usual  procedure  of  the  conjurer.
+
+*  This  is  related  as  a  true  story.     One  of  Gitcikwe'we's  daughters  is  still  living  in  the
+Timagami  band;  she  is  known  as  Pi-dje"hwe.
+
+
+76
+
+(26)  LEGEND  OF  OBABIKA  LAKE.
+
+Obabika  lake  is  called  Ma'nitu  Pi-pa' gi",  "Spirit  Echo."  On
+the  eastern  shore  of  this  lake  is  a  great  rock  where  a  Manitu  is
+believed  to  live.  Whenever  anyone  makes  a  noise  in  the  vici-
+nity, the  Manitu  becomes  angry  and  growls.  His  plaints,  the
+Indians  believe,  can  be  clearly  heard  when  he  is  offended.
+The  Ojibwa  never  go  near  there  when  they  can  avoid  it;  and
+they  seldom  throw  a  stone  in  the  lake,  splash  their  paddles,  or
+shoot  their  guns  near  its  shores.
+
+(27)  IROQUOIS  PICTOGRAFHS.
+
+"The  Iroquois  used  to  come  here  to  fight  the  Ojibwa  because
+the  Americans  had  driven  them  from  their  homes  in  the  States
+and  the  Iroquois  had  to  seek  new  countries  beyond  the  settle-
+ments in  the  North.  In  their  excursions,  when  they  got  far
+from  home,  they  cut  and  painted  pictures  in  the  rocks  on  river
+or  lake  shores,  so  that  their  friends,  if  they  ever  penetrated  so
+far,  would  know  that  their  own  people  had  been  there  before
+them.  The  characters  of  these  pictures  would  tell  what  had
+happened,  so  that  if  the  advance  party  never  returned  to  their
+people,  some  record  would  at  least  be  left  behind  of  their
+journey."1
+
+The  Ojibwa  attributed  nearly  all  pictographs  to  the  Iroquois.
+On  Lady  Evelyn  lake  are  a  number  of  such  figures,  showing
+animals  and  men  in  canoes.
+
+
+(28)  AN  IROQUOIS  LEGEND.
+
+At  that  time  there  were  people  living,  four  in  number:  a
+woman,  a  young  baby  who  could  hardly  walk,  and  two  sons
+who  were  grown-up  men.  Their  father  had  died  and  the  family
+lived  together  in  a  wigwam.  It  was  winter  and  the  sons  had
+two  rabbit  snares'  trails,  one  to  the  east  and  the  other  to  the
+north,  and  they  went  to  different  lines  on  different  days.  The
+mother  would  attend  to  the  snares  and  leave  the  baby,  wrapped
+in  a  rabbit  skin  blanket,  alone  in  the  camp,  while  the  two  sons
+
+1  Quoted  verbatim  from  Chief  Aleck  Paul.
+
+
+77
+
+would  hunt  and  look  around  for  game,  having  only  bows  and
+arrows.
+
+When  they  came  home  in  the  evening,  they  would  sometimes
+bring  with  them  spruce  partridge  and  other  kinds  of  partridge.
+Their  mother  used  to  bring  home  partridges  also,  but  she  had
+no  bow  or  arrows,  and  the  men  wondered  how  she  did  it,  because
+she  often  brought  home  as  many  as  ten  birds.  They  could
+not  understand  how  she  was  able  to  do  better  than  they,  so
+they  asked  her,  "What  did  you  do  it  with?"  They  never  went
+with  their  mother  to  where  she  had  her  snares,  but  they  were
+continually  asking  her  how  she  caught  the  partridges.  She
+answered,  "I  cut  a  pole,  put  a  string  there  on  the  end,  and  catch
+them  by  the  neck,  since  I  have  no  bow."  But  they  didn't
+believe  her,  as  they  often  saw  arrow  wounds  in  the  partridges'
+breasts.  They  looked  at  these  wounds  and  said,  "Somebody
+must  have  shot  them  for  you.  Was  it  not  the  Iroquois?"  "No,"
+answered  the  mother,  "I  caught  them  with  a  pole  snare  and
+poked  them  with  a  stick  in  order  to  bloat  them  with  blood,  so
+they  will  make  more  bouillon."  But  still  they  didn't  believe
+her  and  they  said  to  each  other,  "Mother  doesn't  like  to  tell  us.
+Some  Iroquois,  I  guess,  are  going  to  kill  us.  We'll  fool  our
+mother  and  these  Iroquois.  When  we  go  to  bed,  we'll  sleep
+with  our  baby."
+
+So  that  night  they  said  to  their  mother,  "We  want  to  sleep
+with  our  brother  the  baby,  on  his  side  of  the  wigwam."  They
+dried  their  moccasins,  put  them  on,  and  also  put  on  rabbit  skin
+blankets,  for  they  were  preparing  to  run  out  during  the  night.
+They  had  discovered  a  place  the  day  before  where  trees  had
+fallen  down  and  snow  had  covered  them,  thus  making  a  tunnel.
+So  that  night  they  rolled  their  little  brother  up  in  a  blanket  and
+left  early  in  the  night,  unknown  to  their  mother.  When  they
+left,  the  Iroquois  were  getting  closer.  The  mother  awoke  and
+cried  out,  "Madja'wak  they  are  going!"  She  did  this  to  help
+the  Iroquois  find  them.  The  Iroquois  followed  them  on  snow-
+shoes,  but  the  sons  made  a  great  number  of  branch  trails  in
+order  to  deceive  them.
+
+The  three  finally  reached  their  windfall  tunnel  and  there  they
+stayed  and  waited  for  the  Iroquois.  At  daylight  the  Iroquois
+took  up  the  trail  and  followed  until  they  finally  reached  them.
+
+
+78
+
+The  three  in  the  cave  could  hear  the  Iroquois  talking  above
+them.  One  of  the  Iroquois  dug  a  hole  in  the  snow  above  the
+tunnel  and  peeped  down  to  see  if  the  three  were  there.  As
+one  by  one  the  Iroquois  looked  through  the  hole,  the  sons  shot
+them,  the  arrow  falling  back  through  the  hole  so  that  they
+could  use  it  again.  They  killed  nearly  all  of  them,  and  at  last
+no  more  Iroquois  faces  appeared  above  the  hole,  but  the  sons
+could  hear  crying.  Finally  they  decided  to  come  out,  and  9ne
+of  the  sons  went  out  first  to  look  around,  but  he  could  see  no
+one.  They  then  started  back  to  the  wigwam,  following  the
+Iroquois  tracks,  but  they  only  saw  two  trails.  One  of  the  sons
+went  a  little  ahead  and  the  other  followed  behind  with  the  baby.
+When  they  reached  their  wigwam,  they  found  it  smashed  to
+pieces  and  the  poles  flattened  out.  Their  mother  was  killed
+and  the  Iroquois  had  cut  off  her  breasts  and  made  babiche
+strings1  of  it.  These  two  Iroquois  who  were  left  had  made  a
+tripod  of  sticks  and  had  wound  the  skin  all  the  way  around  it.
+Then  they  had  gone  and  were  never  seen  again.  The  mother
+had  agreed  with  the  Iroquois  that  they  were  not  to  kill  her  if
+she  didn't  tell  her  sons  of  their  whereabouts.
+
+
+TlM AG AMI    FOLK-LORE.
+
+(1)
+
+It  is  not  proper  to  tell  stories  in  summer,  lest  one  die;  but,  if
+stories  are  told,  they  must  be  told  for  ten  successive  evenings
+in  order  to  prevent  the  evil.
+
+(2)
+
+In  order  to  foretell  the  sex  of  the  child  about  to  be  born,  the
+first  vertebra  of  a  moose  or  deer  may  be  used.  The  appearance
+of  one  side  of  this  bone  resembles  a  man's  face,  while  the  other
+resembles  a  woman's.  The  seeker  for  information  may  place
+this  bone  on  top  of  his  head  and  let  it  drop  to  the  ground.
+Whichever  face  turns  upward  like  a  die  indicates  the  sex  of  the
+child.  This  bone  is  called  uta'backo'k-e  "back  neck-bone".
+
+1  Thongs  of  rawhide.
+
+
+79
+
+(3)
+
+A  little  device  to  bring  rain:  suck  the  flat  side  of  a  green  leaf
+until  it  snaps,  or  slap  one  hand  with  the  palm  of  the  other,  holding
+the  leaf  in  the  fist  of  the  first.
+
+(4)
+Northern  Lights:    Wase'tibik'an,  "light  of  night."
+
+(5)
+
+Bine''s-i'wi'mr'k^an,  "birds'  path".  This  is  the  Milky  Way,
+which  is  believed  to  be  the  guide  to  the  birds  in  their  spring  and
+autumn  migrations.
+
+(6)
+
+Wdta'gwanobv's-an  "mist  from  the  water"  (?).  This  is  the
+rainbow,  which  is  thought  to  be  caused  by  mist  generated  in
+the  air  by  waves  of  some  great  sea.
+
+(The  Matachewan  Indians  of  Montreal  river  call  the  rainbow
+Ani'miki'unujea'bi  "thunder's  legging  string"!.
+
+(7)
+
+The  whippoorwill  (wa'hone^s-i)  is  very  rarely  heard  in  Bear
+island,  although  the  bird  frequents  some  parts  of  the  lake.
+Its  cry  is  considered  an  omen  of  ill  fortune  or  of  death.  Another
+idea  connected  with  the  whippoorwill's  cry  is  that  it  is  the
+signal  cry  of  the  Iroquois  (Ma'djina'dowes'i  "bad  Iroquois,"
+referring  to  the  tribes  of  the  League  as  distinct  from  those  of
+Caughnawaga)  and  that  it  indicates  the  proximity  of  enemies.
+
+(8)
+
+When  robins  (gwi-'ckwe)  sing  noticeably  during  the  day  it  is  a
+sign  of  coming  rain.  The  toad's  (oma'k'dki)  song  in  the  daytime
+has  the  same  portent.
+
+
+80
+
+(9)
+To  kill  blue-bottle  flies  will  bring  rain.
+
+(10)
+
+If  anyone  finds  or  sees  a  live  mole  it  is  a  sign  that  some  member
+of  the  family  will  die  soon.  Moles  are  very  rare  in  the  Tima-
+gami  neighbourhood  and  quite  a  stir  is  raised  when  one  is  encoun-
+tered.
+
+(11)
+
+Hiccoughing  is  a  sign  that  the  victim  has  been  stealing  some-
+thing. If  it  is  true  and  the  victim  is  accused  of  it,  he  will  stop
+hiccoughing  from  fright.
+
+(12)
+
+If  a  child  is  born  feet  first  he  is  gifted  with  curing  powers  for
+people  with  sore  backs.  They  let  him  jump  on  the  patient's
+back.
+
+(13)
+
+The  method  of  cooking  squirrels  (djr'to'mo)  has  an  influence
+upon  the  weather  forces.  Squirrels  are  usually  cooked  by
+splitting  the  carcass,  after  it  has  been  skinned,  and  roasting  it
+in  the  flames  until  done.  Should  the  animal,  however,  be
+boiled  instead,  it  will  bring  rain.  When  rain  is  needed,  squirrels
+are  boiled  purposely  to  bring  it.
+
+(14)
+
+To  bring  on  a  snowstorm  an  infant  is  allowed  to  make  its
+moccasin  print  in  the  snow.
+
+(15)
+
+If  an  infant  warms  its  hands  before  the  fire,  it  is  a  sure  sign  of
+cold  weather  coming.
+
+
+81
+
+(16)
+A  red  sunset  with  red  clouds  is  a  sign  of  wind.
+
+(17)
+
+A  whirling  buzzer,  made  by  spinning  a  bone  or  wooden  disk
+on  a  string  operated  by  the  two  hands,  will  cause  the  wind  to
+rise.
+
+(18)
+
+A  divination  device  is  used  before  the  hunt  to  foretell  what  kind
+of  game  is  going  to  be  killed.  It  is  as  follows.  The  metacarpal
+bone  of  a  beaver's  hind  leg,  with  its  sinew  covering,  is  taken  and
+cut  nearly  through,  so  that  it  will  break  easily.
+
+This  is  stuck  upright  in  the  ground  near  the  fire  and  a  series
+of  lines  radiating  from  it  are  traced  in  the  ashes  or  ground,  each
+line  being  named  for  some  game  animal :  moose,  beaver,  caribou,
+deer,  bear,  otter,  martin,  fisher,  etc.  Then,  as  the  heat  shrinks
+the  sinew,  it  breaks  the  bone  at  the  cut  and  the  upper  piece
+points  along  one  of  the  lines  marked.  This  answers  what
+kind  of  game  is  going  to  be  gotten.  The  lines  sometimes  also
+are  used  to  denote  the  direction  to  be  followed  to  get  the  animals
+designated.
+
+(A  variation  of  this  operation  was  noted  from  the  Mattagami
+band.  Here  a  stick  is  used  instead  of  a  beaver  bone  and  the
+base  of  the  stick  is  burned.  When  this  falls,  it  denotes  the
+direction  to  be  taken  to  secure  game).
+
+(19)  Supernatural  Creatures.
+
+Pa^'gctk.  This  is  a  personification  of  a  human  skeleton
+without  the  flesh,  which  wanders  about  the  country.  When
+he  travels,  he  goes  as  fast  as  he  thinks.  When  he  wishes  himself
+to  be  in  a  place,  he  is  there  as  soon  as  he  thinks  of  it.  When
+he  is  heard  by  the  people,  it  is  a  sign  that  someone  will  die.  It
+is  thought  that  he  is  heard  occasionally  three  times  in  succession,
+making  his  peculiar  noise,  once  at  the  horizon,  once  at  the
+zenith,  and  again  at  the  opposite  horizon.
+
+
+82
+
+Me''megwe'*sfi.  A  species  of  creature  which  lives  in  the  high
+remote  ledges.  They  are  small  and  have  hair  growing  aj  over
+their  bodies.  The  Indians  think  they  are  like  monkeys,  judging
+from  specimens  of  the  latter  they  have  seen  in  the  picture-books.
+These  dwarf-like  creatures  have  ugly  faces  and  seek  to  hide
+them  when  they  meet  with  people.  A  little  narrative  of  a
+meeting  with  these  creatures  is  told  by  some  Timagami  Indians
+who  had  been  to  Lake  Timiskaming.  The  Indians  were  passing
+the  high  ledge  of  rock  a  few  miles  below  Haileybury,  where  the
+water  was  very  deep  and  where  they  had  set  their  nets.  They
+found  that  somebody  had  been  stealing  fish.  They  proceeded
+to  watch  the  nets  and  soon  saw  three  Me-rmegwe''s'i  come  out
+astride  of  an  old  log  for  a  canoe,  using  sticks  for  paddles.  The
+Indians  pursued  them,  the  fairies  meanwhile  hiding  their  faces.
+Finally  the  Indians  caught  one.  Then  one  Indian  said,  "Look
+behind!"  When  the  fairy  turned  quickly  they  got  a  glimpse
+of  how  ugly  he  was.  The  Indians  then  took  a  knife  from  this
+fairy  and  the  rest  disappeared,  riding  their  log  through  the  rock
+wall  to  the  inside,  where  they  could  be  heard  crying,  as  this
+was  where  they  lived.  The  Indians  then  threw  the  knife  at  the
+rock  and  it  went  right  through  to  the  inside  to  its  owner.
+
+
+Figure  2.    Markings  on  birch  bark.
+
+
+65977— p.  83.
+
+
+83
+
+
+Appendix:  Notes  on  Timagami  Folk-Lore.
+
+(By  Neil  C.  Fergusson.)
+
+[Note.
+
+Under  date  of  August  30,  1913,  Mr.  Neil  C.  Fergusson,  Tima-
+gami Fire  Ranger,  wrote  from  Bear  island,  Lake  Timagami:
+"While  at  Bear  Island  I  met  Mr.  Speck,  who  was  gathering
+Indian  lore  and  legends  for  the  Victoria  Memorial  Museum.
+His  work  interested  me  greatly."  He  then  proceeds  to  com-
+municate some  folk-lore  material  which  he  had  himself  collected
+from  Timagami  Indians.  This,  kindly  put  by  Mr.  Fergusson
+at  the  disposal  of  the  Geological  Survey,  is  here  added  as  a
+supplement  to  Dr.  Speck's  own  data.
+
+E.  SAPIR.]
+
+(1)  Whisky  Jack  and  the  Markings  on  Birch  Bark.
+
+"One  Indian  told  me  a  few  incidents  about  Whisky  Jack
+(Anglicised  form  of  native  Wiske'djak)  and  ended  by  saying
+that  he  had  seen  the  outline  of  that  strange  personage  imprinted
+on  a  rock  along  the  Ottawa  river.  He  said  that  the  markings
+on  the  birch  bark  were  caused  by  Whisky  Jack  when  he  struck
+the  bark,  which  was  once  clear,  with  a  balsam  bough  and  then
+threw  a  bird  at  the  tree.  Hence  the  knots  give  the  appearance
+of  a  bird  with  outstretched  wings,  as  seen  on  the  enclosed  piece
+of  bark  (see  Figure  2)."
+
+(2)  The  Two  Girls,  Hell-Diver,  and  Loon.1
+
+Once  upon  a  time  two  girls  who  were  out  in  the  woods  climbed
+a  tall  spruce  tree,  but  when  they  wanted  to  descend,  they  found
+that  it  was  impossible.  Just  then  a  Moose  passed  near  the  tree
+
+
+1  Mr.  Fergusson  writes:  "Another  Indian  told  me  some  stories  that  he  had  heard  from
+his  grandmother,  who  could  speak  the  Ojibwa  tongue.  I  will  write  out  the  one  that  I  thought
+most  interesting."  The  story  given  by  Mr.  Fergusson  is  evidently  a  close  variant  of  the
+second  part  of  No.  5  of  Dr.  Speck's  Timagami  series.
+
+E.  SAPIB.
+
+
+84
+
+and  both  girls  called  to  him  for  help.  The  Moose,  however,
+passed  on  without  aiding  them.  Likewise  a  Deer,  an  Otter,
+and  a  Lynx  all  went  by,  but  from  none  did  they  receive  any
+help.  At  last  a  Wolverine  came  along  and  listened  to  the  girls'
+entreaties.  He  finally  climbed  the  tree  and  brought  the  girls
+safely  to  the  ground,  after  which  all  three  walked  along  together.
+The  girls  didn't  wish  the  Wolverine  as  a  companion,  so  one  of
+them  said  that  she  had  dropped  her  hair-ribbon  near  the  spruce
+tree  and  asked  the  unwelcome  companion  to  go  back  for  it,
+saying  that  they  would  wait  where  they  were  until  he  returned.
+The  kind  Wolverine  went  off  on  his  errand,  and,  as  soon  as  he
+was  out  of  sight,  the  two  girls  made  their  departure.  So  the
+Wolverine  came  back  and  saw  no  girls.  He  heard  a  whistle  and
+went  in  that  direction.  Then  he  heard  another  whistle  behind
+him,  and  so  on,  but  still  he  failed  to  find  the  girls,  for  the  trees
+were  whistling  one  after  another  in  order  to  fool  the  poor
+Wolverine.  The  Wolverine  went  his  own  way,  feeling  very  much
+grieved.
+
+The  girls  walked  on  swiftly  until  they  came  to  a  little  wigwam
+built  in  the  bush.  It  was  a  very  pretty  wigwam  and  looked  so
+inviting  to  the  tired  girls  that  they  went  inside  to  rest.  Soon  a
+Bird,  who  was  the  owner,  came  along  and  demanded  their
+business  in  his  wigwam.  They  told  him  that  they  had  lost
+their  way,  so  he  gave  them  a  cup  of  tea  and  directed  them  on
+their  journey.  The  girls  travelled  on  and  came  at  last  to  a
+river  at  the  end  of  which  was  a  lake.  A  Beaver  was  paddling
+his  canoe  down  the  stream,  but  wouldn't  take  the  girls  in.
+Next  a  Loon,  who  was  the  king  of  all  water  animals,  came  along
+in  his  canoe,  but  he  also  refused  to  take  them  with  him.  Finally
+a  "Hell-diver"  came  paddling  by.  He  was  very  kind  and  took
+the  two  girls  down  to  the  lake  where  he  dwelt  and  told  them
+that  they  might  sleep  in  his  wigwam  that  night.  He  gave
+them  some  blankets  and  then  went  out  on  business.
+
+The  girls,  however,  couldn't  go  to  sleep,  for  they  heard  music
+and  knew  that  a  dance  must  be  going  on.  They  got  out  of
+their  bed  and  went  to  the  house  where  they  heard  the  music.
+Looking  in  at  the  window,  they  saw  the  Loon  playing  the  fiddle
+and  all  the  dancers  enjoying  themselves,  so  they  returned  to
+their  bed  and  placed  two  logs  under  the  blankets  to  deceive
+
+
+85
+
+their  kind  friend,  the  "Hell-diver,"  into  thinking  that  they
+were  still  where  he  had  left  them.
+
+While  the  two  girls  were  dancing,  the  "Hell-diver"  returned
+and  lay  down  under  the  blankets,  but  the  logs  happened  to  be
+partly  rotten  and  were  filled  with  ants,  so  that  it  wasn't  long
+before  he  discovered  the  trick  that  had  been  played  on  him.
+At  once  he  went  to  the  Loon's  house,  thinking  that  the  girls
+had  been  to  the  dance.  All  was  dark  in  the  house,  as  the
+dancers  had  left,  but  he  could  see  that  the  two  girls  and  the
+Loon  were  lying  there  asleep.  The  Loon  was  snoring  with  his
+mouth  wide  open.  The  "Hell-diver"  was  seized  with  anger
+and  went  swiftly  back  to  his  wigwam,  where  he  heated  a  piece
+of  iron  until  it  was  red  hot.  He  hastened  with  this  to  the
+Loon's  house  and  crammed  it  down  the  sleeper's  mouth.
+
+Knowing  that  he  had  killed  the  Loon  and  that  the  murder
+would  soon  be  discovered  on  the  next  day,  he  made  ready  to  go
+on  a  hunting  trip  and  told  his  old  grandmother  that  he'd  be  back
+on  the  following  evening.  When  the  murdered  Loon  was
+discovered,  his  murderer  was  far  away  in  the  bush  and  had
+already  caught  one  deer  in  his  trap.  He  filled  a  portion  of  its
+entrails  with  blood  and  hung  it  around  his  neck,  then  started
+for  home.  As  his  canoe  neared  the  village  in  the  evening,  all  the
+people  ran  down  to  the  water's  edge  and  cried,  "Our  chief  is  dead!"
+The  "Hell-diver"  pulled  his  knife  and  cut  the  bladder  of  blood
+which  hung  about  his  neck,  upsetting  the  canoe  at  the  same  time.
+The  people  lamented,  saying,  "We  shouldn't  have  told  the
+'Hell-diver,'  for  he  has  killed  himself  from  grief."
+
+But  far  out  in  the  middle  of  the  lake  the  "Hell-diver"  came
+swimming  to  the  surface  and  called  aloud.  "It  was  I  who
+killed  our  king,  the  Loon."  Revenge  took  hold  of  all  the  people
+and  they  at  once  gave  chase,  but  were  unable  to  catch  the
+murderer,  and,  as  darkness  was  upon  them,  they  said,  "We  will
+build  a  dam  and  in  the  morning,  when  the  lake  is  dry,  we  will
+catch  him."  In  the  morning  the  lake  was  dry  and  all  the
+villagers  went  in  pursuit.  The  chase  was  a  long  one  and  the
+'Hell-diver'  was  in  the  last  stages  of  fatigue  when  he  ran  to
+the  dam  and  quickly  kicked  it  down.  The  waters  came  running
+in  and  all  the  people  were  turned  into  water  animals,  but  became
+friends  with  one  another.
+
+65977—9
+
+
+86
+
+
+Phonetic  Key.
+
+a,  as  in  father,  of  medium  length ;    a  ,  lengthened.
+e,  open;  e',  long  as  in  North  German  Bar.
+e~,  longer  than  e  and  close  in  quality.
+i  and  r,  short  and  long  close  vowels,
+o,  close  and  of  medium  length.
+
+0',  longer  than  o  and  with  lips  more  protruded,  almost  like  au
+of  English  taut.
+
+a,  dulled  form  of  short  a,  like  u  of  English  but.
+9,  short  obscure  vowel  of  uncertain  quality.
+
+
+b-p,  bilabial  stops  varying  between  true  sonant  and  inter-
+mediate surd-sonant.
+
+d-t,  alveolar  stops  varying  between  true  sonant  and  inter-
+mediate surd-sonant.
+
+g-k,  medial  palatal  stops  varying  between  true  sonant  and
+intermediate  surd-sonant.
+
+s  and  2,  surd  and  sonant  dorsal  sibilant  pronounced  with  tip
+of  tongue  deflected  to  lower  alveolar  (applies  only  to  Timiskam-
+ing  Algonquin;  in  Timagami  Ojibwa  s  and  z  are  normal).
+
+c  and  j,  surd  and  sonant  sibilant  corresponding  respectively
+to  English  sh  and  z  of  azure.
+
+tc  and  dj,  surd  and  sonant  sibilant  affricative  corresponding
+respectively  to  English  ch  and  j.
+
+x,  voiceless  palatal  spirant  like  ch  of  German  Bach.
+
+m,  as  in  English.
+
+n,  as  in  English.
+
+v),  palatal  nasal  like  ng  of  English  sing.
+
+w,  as  in  English.
+
+y,  as  in  English.
+
+h,  as  in  English.
+
+
+87
+
+
+'  nasalized  vowel.
+
+',  aspiration  following  vowel  or  consonant.
+
+',  denotes  that  preceding  vowel  or  consonant  is  long.
+
+',  main  stress.
+
+',  secondary  stress.
+
+
+LIST  OF  RECENT  REPORTS  OF  GEOLOGICAL
+SURVEY
+
+Since  1910,  reports  issued  by  the  Geological  Survey  have
+been  called  memoirs  and  have  been  numbered  Memoir  1,  Memoir
+2,  etc.  Owing  to  delays  incidental  to  the  publishing  of  reports
+and  their  accompanying  maps,  not  all  of  the  reports  have  been
+called  memoirs,  and  the  memoirs  have  not  been  issued  in  the
+order  of  their  assigned  numbers  and,  therefore,  the  following
+list  has  been  prepared  to  prevent  any  misconceptions  arising
+on  this  account.  The  titles  of  all  other  important  publications
+of  the  Geological  Survey  are  incorporated  in  this  list.
+
+
+11
+
+
+Memoirs  and  Reports  Published  During  1910.
+
+REPORTS.
+
+Report  on  a  geological  reconnaissance  of  the  region  traversed  by  the
+National  Transcontinental  railway  between  Lake  Nipigon  and  Clay  lake,
+Ont.— by  W.  H.  Collins.  No.  1059.
+
+Report  on  the  geological  position  and  characteristics  of  the  oil-shale
+deposits  of  Canada— by  R.  W.  Ells.  No.  1107.
+
+A  reconnaissance  across  the  Mackenzie  mountains  on  the  Pelly,  Ross,
+and  Gravel  rivers,  Yukon  and  North  West  Territories — by  Joseph  Keele.
+No.  1097.
+
+Summary  Report  for  the  calendar  year  1909.     No.  1120.
+
+MEMOIRS— GEOLOGICAL  SERIES.
+
+MEMOIR  1.  No.  1,  Geological  Series.  Geology  of  the  Nipigon  basin,  Ontario
+—by  Alfred  W.  G.  Wilson.
+
+MEMOIR  2.  No.  2,  Geological  Series.  Geology  and  ore  deposits  of  Hedley
+mining  district,  British  Columbia — by  Charles  Camsell.
+
+MEMOIR  3.  No.  3,  Geological  Series.  Palaeoniscid  fishes  from  the  Albert
+shales  of  New  Brunswick— 4>y  Lawrence  M.  Lambe.
+
+MEMOIR  5.  No.  4,  Geological  Series.  Preliminary  memoir  on  the  Lewes
+and  Nordesnkiold  Rivers  coal  district,  Yukon  Territory —
+by  D.  D.  Cairnes.
+
+MEMOIR  6.  No.  5,  Geological  Series.  Geology  of  the  Haliburton  and  Ban-
+croft areas,  Province  of  Ontario — by  Frank  D.  Adams  and
+Alfred  E.  Barlow.
+
+MEMOIR  7.  No.  6,  Geological  Series.  Geology  of  St.  Bruno  mountain,  prov-
+ince of  Quebec — by  John  A.  Dresser.
+
+MEMOIRS— TOPOGRAPHICAL  SERIES.
+
+MEMOIR  11.  No.  1,  Topographical  Series.  Triangulation  and  spirit  levelling
+of  Vancouver  island,  B.C.,  1909 — by  R.  H.  Chapman.
+
+Memoirs  and  Reports  Published  During  1911.
+
+REPORTS.
+
+Report  on  a  traverse  through  the  southern  part  of  the  North  West
+Territories,  from  Lac  Seul  to  Cat  lake,  in  1902 — by  Alfred  W.  G.  Wilson
+No.  1006.
+
+Report,  on  a  part  of  the  North  West  Territories  drained  by  the  Winisk
+and  Upper  Attawapiskat  rivers — by  WT.  Mclnnes.  No.  1080.
+
+Report  on  the  geology  of  an  area  adjoining  the  east  side  of  Lake  Timiska-
+ming — by  Morley  E.  Wilson.  No.  1064.
+
+Summary  Report  for  the  calendar  year  1910.     No.  1170.
+
+MEMOIRS— GEOLOGICAL  SERIES.
+
+MEMOIR  4.  No.  7,  Geological  Series.  Geological  reconnaissance  along  the
+line  of  the  National  Transcontinental  railway  in  western
+Quebec — by  W.  J.  Wilson.
+
+
+Ill
+
+MEMOIR  8.  No.  8,  Geological  Series.  The  Edmonton  coal  field,  Alberta —
+by  D.  B.  Dow  ling.
+
+MEMOIR  9.  No.  9,  Geological  Series.  Bighorn  coal  basin,  Alberta — by  G.  S
+Malloch.
+
+MEMOIR  10.  No.  10,  Geological  Series.  An  instrumental  survey  of  the
+shore-lines  of  the  extinct  lakes  Algonquin  and  Nipissing  in
+southwestern  Ontario — by  J.  W.  Goldthwait .
+
+MEMOIR  12.  No.  11,  Geological  Series.  Insects  from  the  Tertiary  lake
+deposits  of  the  southern  interior  of  British  Columbia,  collect-
+ed by  Mr.  Lawrence  M.  Lambe,  in  1906 — by  Anton  Hand-
+lirsch.
+
+MEMOIR  15.  No.  12,  Geological  Series.  On  a  Trenton  Echinoderm  fauna  at
+Kirkfield,  Ontario — by  Frank  Springer.
+
+MEMOIR  16.  No.  IS,  Geological  Series.  The  clay  and  shale  deposits  of  Nova
+Scotia  and  portions  of  New  Brunswick— by  Heinrich  Ries
+assisted  by  Joseph  Keele.
+
+MEMOIRS— BIOLOGICAL  SERIES.
+
+MEMOIR  14.  No.  1,  Bioligocal  Series.  New  species  of  shells  collected  by
+Mr.  John  Macoun  at  Barkley  sound,  Vancouver  island,
+British  Columbia— by  William  H.  Dall  and  Paul  Bartsch.
+
+
+Memoris  and  Reports  Published  During  1912.
+
+REPORTS.
+
+Summary  Report  for  the  calendar  year  1911.     No.  1218.
+MEMOIRS— GEOLOGICAL  SERIES.
+
+
+MEMOIR  13.
+MEMOIR  21.
+
+
+MEMOIR  24.
+
+
+MEMOIR  27.
+MEMOIR  28.
+
+
+Southern   Vancouver  island — by
+
+
+geology  and  ore  deposits  of
+British  Columbia — by  O.  E.
+
+
+No.   14,   Geological  Series.
+
+Charles  H.  Clapp.
+No.  15,  Geological  Series.    The
+
+Phoenix,  Boundary  district,
+
+LeRoy.
+No.  16,  Geological  Series.     Preliminary  report  on  the  clay  and
+
+shale  deposits  of  the  western  provinces — by  Heinrich  Ries
+
+and  Joseph  Keele.
+No.  1 7,  Geological  Series.     Report  of  the  Commission  appointed
+
+to  investigate  Turtle  mountain,  Frank,  Alberta,  1911.
+No.  18,  Geological  Series.    The  Geology  of  Steeprock  lake,
+
+Ontario — by  Andrew  C.  Lawson.     Notes  on  fossils  from
+
+limestone  of  Steeprock  lake,  Ontario — by  Charles  D.  Wal-
+
+cott.
+
+
+Memoirs  and  Reports  Published  During  1913.
+
+REPORTS,  ETC.
+
+Museum  Bulletin  No.  1 :  contains  articles  Nos.  1  to  12  of  the  Geological
+Series  of  Museum  Bulletins,  articles  Nos.  1  to  3  of  the  Biological  Series  of
+Museum  Bulletins,  and  article  No.  1  of  the  Anthropological  Series  of  Museum
+Bulletins.
+
+Guide  Book  No.  1.  Excursions  in  eastern  Quebec  and  the  Maritime
+Provinces,  parts  1  and  2.
+
+
+IV
+
+Guide  Book  No.  2.  Excursions  in  the  Eastern  Townships  of  Quebec  and
+the  eastern  part  of  Ontario.
+
+Guide  Book  No.  3.  Excursions  in  the  neighbourhood  of  Montreal  and
+Ottawa.
+
+Guide  Book  No.  4.    Excursions  in  southwestern  Ontario.
+
+Guide  Book  No.  5.  Excursions  in  the  western  peninsula  of  Ontario  and
+Manitoulin  island.
+
+Guide  Book  No.  8.  Toronto  to  Victoria  and  return  via  Canadian  Pacific
+and  Canadian  Northern  railways:  parts  1,  2,  and  3.
+
+Guide  Book  No.  9.  Toronto  to  Victoria  and  return  via  Canadian  Pacific,
+Grand  Trunk  Pacific,  and  National  Transcontinental  railways.
+
+Guide  Book  No.  10.  Excursions  in  Northern  British  Columbia  and
+Yukon  Territory  and  along  the  north  Pacific  coast.
+
+MEMOIRS— GEOLOGICAL  SERIES.
+
+MEMOIR  17.  No.  28,  Geological  Series.  Geology  and  economic  resources  of
+the  Larder  Lake  district,  Ont.,  and  adjoining  portions  of
+Pontiac  county,  Que. — by  Morley  E.  Wilson.
+
+MEMOIR  18.  No.  19,  Geological  Series.  Bathurst  district,  New  Brunswick —
+by  G.  A.  Young.
+
+MEMOIR  26.  No.  34,  Geological  Series.  Geology  and  mineral  deposits  of
+the  Tulameen  district,  B.C. — by  C.  Camsell.
+
+MEMOIR  29.  No.  82,  Geological  Series.  Oil  and  gas  prospects  of  the  north-
+west provinces  of  Canada — by  W.  Malcolm.
+
+MEMOIR  31.  No.  20,  Geological I  Series.  Wheaton  district,  Yukon  Territory —
+by  D.  D.  Cairnes.
+
+MEMOIR  33.  No.  SO,  Geological  Series.  The  geology  of  Gowganda  mining
+Division — by  W.  H.  Collins.
+
+MEMOIR  35.  No.  29,  Geological  Series.  Reconnaissance  along  the  National
+Transcontinental  railway  in  southern  Quebec — by  John  A.
+Dresser.
+
+MEMOIR  37.  No.  22,  Geological  Series.  Portions  of  Atlin  district,  B.C. — by
+D.  D.  Cairnes.
+
+MEMOIR  38.  No.  81,  Geological  Series.  Geology  of  the  North  American
+Cordillera  at  the  forty-ninth  parallel,  Parts  1  and  II — by
+Reginald  Aldworth  Daly.
+
+Memoirs  and  Reports  Published  During  1914.
+
+REPORTS,  ETC.
+
+Summary  Report  for  the  calendar  year  1912.     No.  1305.
+
+Museum  Bulletins  Nos.  2,  3,  4,  5,  7,  and  8  contain  articles  Nos.  13  to  22
+of  the  Geological  Series  of  Museum  Bulletins,  article  No.  2  of  the  Anthro-
+poligical  Series,  and  article  No.  4  of  the  Biological  Series  of  Museum  Bulletins.
+
+Prospector's  Handbook  No.  1:  Notes  on  radium-bearing  minerals — by
+Wyatt  Malcolm.

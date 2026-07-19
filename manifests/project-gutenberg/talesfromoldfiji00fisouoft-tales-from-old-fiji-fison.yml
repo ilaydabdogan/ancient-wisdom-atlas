@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_talesfromoldfiji00fisouoft
+  work_id: melanesian.tales_from_old_fiji.fison_archive
+  title: Tales from Old Fiji
+  source_url: https://archive.org/details/talesfromoldfiji00fisouoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/talesfromoldfiji00fisouoft-tales-from-old-fiji-fison.txt
+    checksum:
+      algorithm: sha256
+      value: c86dc87c82fcd2c0cf67f5be40832ca5754715777dcd729de541f39a54486111
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/talesfromoldfiji00fisouoft-tales-from-old-fiji-fison.md
+    checksum:
+      algorithm: sha256
+      value: e8adbede31c890e100298bf474ec8a64c789bb3a71d701e342e8431ffab687e5
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+    checksum:
+      algorithm: sha256
+      value: 353de26644dbfd3495af77656ec328e3a314cbe6948f7b8dc440d9287c90db27
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids melanesian.tales_from_old_fiji.fison_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1904, US public domain. Fison was a missionary-ethnographer who
+      collected Fijian myths and legends from native tellers over decades; tales are
+      relatively faithful to their sources but rendered in his English narration (PARAPHRASE
+      leaning, some passages near-verbatim). Framing must not be extracted as Fijian
+      self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

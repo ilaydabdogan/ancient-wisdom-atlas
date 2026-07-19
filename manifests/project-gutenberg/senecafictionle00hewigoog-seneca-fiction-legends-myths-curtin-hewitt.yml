@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_senecafictionle00hewigoog
+  work_id: native_american.seneca_fiction_legends_myths.curtin_hewitt_archive
+  title: Seneca Fiction, Legends, and Myths
+  source_url: https://archive.org/details/senecafictionle00hewigoog
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/senecafictionle00hewigoog-seneca-fiction-legends-myths-curtin-hewitt.txt
+    checksum:
+      algorithm: sha256
+      value: cf8f52d0136c84805d712915765f7767235b59852706a408e21b1801c7c3cb9b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/senecafictionle00hewigoog-seneca-fiction-legends-myths-curtin-hewitt.md
+    checksum:
+      algorithm: sha256
+      value: 02a2a6a011380425433a9acacf52ced9b8a29e16a41b6943be8e983802b8d064
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+    checksum:
+      algorithm: sha256
+      value: e608630ce13180d5995312e30e375c540ebb133927673d39cd660028b2c05457
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.seneca_fiction_legends_myths.curtin_hewitt_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - large
+      corpus (over 100 narratives) taken down in the field from named Seneca tellers;
+      Hewitt was a native Iroquoian speaker; English renderings close to dictation.
+      Google-scan OCR - check hyphenation artifacts.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

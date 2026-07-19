@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_48828
+  work_id: african.cunnie_rabbit_temne.cronise_ward_gutenberg
+  title: 'Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales'
+  source_url: https://www.gutenberg.org/ebooks/48828
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/48828-cunnie-rabbit-cronise-ward.txt
+    checksum:
+      algorithm: sha256
+      value: 9c59262ca81b19a504957757c81b6a41d1c37d1f48afce4908953bd0ea2c9c1f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/48828-cunnie-rabbit-cronise-ward.md
+    checksum:
+      algorithm: sha256
+      value: e0670665f10e2d913c43e40a0432702bcf47a25c6302bf6657dac82496dab73e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md
+    checksum:
+      algorithm: sha256
+      value: 793525208d91c13e11f856e1d12d44b7415d605936b901c9686b622559ce8763
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.cunnie_rabbit_temne.cronise_ward_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1903, US public domain (Project Gutenberg catalog). The tales
+      are rendered in a dialect transcription (Sierra Leone Krio) close to how tellers
+      spoke, so this leans verbatim rather than paraphrase, but the eye-dialect spelling
+      and framing dialogue reflect the collectors' early-20th-century approach and
+      colonial-era attitudes. Trickster corpus (Cunnie Rabbit, Spider) of the Temne
+      and neighbouring peoples.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

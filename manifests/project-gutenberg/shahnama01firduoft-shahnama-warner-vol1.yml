@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_shahnama01firduoft
+  work_id: persian.shahnama.warner_v1_archive
+  title: The Shahnama of Firdausi, Vol. I
+  source_url: https://archive.org/details/shahnama01firduoft
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/shahnama01firduoft-shahnama-warner-vol1.txt
+    checksum:
+      algorithm: sha256
+      value: bd220525750b7d4c288374836b3898453e72e5c5580bbf9d5cfedb20d4640066
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/shahnama01firduoft-shahnama-warner-vol1.md
+    checksum:
+      algorithm: sha256
+      value: d9bdc09d29773e52bcca2aef1596fb8ca935254326b9ea6dc5128d10b7fadf57
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+    checksum:
+      algorithm: sha256
+      value: c34d0a1b07e84f63a2d8f4f53e1d5c8e72b34e1b5b39ebb149c7951743f7223b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids persian.shahnama.warner_v1_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1905, US public domain. Volume I of nine; contains the prelude
+      and the mythical Pishdadian dynasty. Long scholarly introduction precedes the
+      poem; extraction should separate translator apparatus from epic text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

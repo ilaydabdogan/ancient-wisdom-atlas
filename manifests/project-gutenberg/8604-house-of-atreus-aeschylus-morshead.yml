@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_8604
+  work_id: greek.aeschylus.house_of_atreus.morshead_gutenberg
+  title: The House of Atreus; Being the Agamemnon, the Libation Bearers, and the Furies
+  source_url: https://www.gutenberg.org/ebooks/8604
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/8604-house-of-atreus-aeschylus-morshead.txt
+    checksum:
+      algorithm: sha256
+      value: 45a053562a54a4cd710a045029189de7e8d785d394064ffa048c26e509a5abaf
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/8604-house-of-atreus-aeschylus-morshead.md
+    checksum:
+      algorithm: sha256
+      value: d6eb2cdfa213e2c55090d8b196d902fb36dffd045ce96df246ea24e140dd9435
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md
+    checksum:
+      algorithm: sha256
+      value: 1a544d99d512d5f6a11fda8dc3bb94c6c230254077ce653f918a4247f92c1a53
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.aeschylus.house_of_atreus.morshead_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Morshead's translation
+      of the complete Oresteia trilogy.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

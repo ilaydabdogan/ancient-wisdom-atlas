@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_48761
+  work_id: slavic.sixty_folk_tales_slavonic.wratislaw_gutenberg
+  title: Sixty Folk-Tales from Exclusively Slavonic Sources
+  source_url: https://www.gutenberg.org/ebooks/48761
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/48761-sixty-folk-tales-slavonic-wratislaw.txt
+    checksum:
+      algorithm: sha256
+      value: 4a345f8f4b6955e89017655498d475e06d9baa783819f5e5e3201717b1afcbb5
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/48761-sixty-folk-tales-slavonic-wratislaw.md
+    checksum:
+      algorithm: sha256
+      value: be32b546024d528078c2493d897363869e7cd723dd6312abaa0222a068ce5deb
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+    checksum:
+      algorithm: sha256
+      value: 49b5b5abc272ef8e9e97f57adb5d184a67a6add273816cac6442e9ec640aeae2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids slavic.sixty_folk_tales_slavonic.wratislaw_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; draws
+      on Czech, Slovak, Polish, Serbian, Bulgarian and other Slavic sources.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

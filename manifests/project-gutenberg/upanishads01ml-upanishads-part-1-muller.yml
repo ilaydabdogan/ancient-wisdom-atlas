@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_upanishads01ml
+  work_id: hindu.upanishads.sbe01.muller_archive
+  title: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  source_url: https://archive.org/details/upanishads01ml
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/upanishads01ml-upanishads-part-1-muller.txt
+    checksum:
+      algorithm: sha256
+      value: e1e8b802db19f2b2f7f60c03be79d2aa16f4b36bb6733c8d54084113b56eb884
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/upanishads01ml-upanishads-part-1-muller.md
+    checksum:
+      algorithm: sha256
+      value: 7c7f40567065ffb85650ea231b835f5a92302c52abf3fa6eb95625342312a86f
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+    checksum:
+      algorithm: sha256
+      value: 9313b6d7ac8e630ba152fcbab62f314ef264e397ea96e07c5234903d0270f3c8
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.upanishads.sbe01.muller_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1879, unambiguously US public domain. OCR renders Muller's italic
+      transliteration imperfectly (e.g. Khandogya for Chandogya); cleanup pass needed.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

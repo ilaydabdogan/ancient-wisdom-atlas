@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_unknownpeopleinu00grub
+  work_id: south_american.unknown_people_unknown_land.grubb_archive
+  title: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  source_url: https://archive.org/details/unknownpeopleinu00grub
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/unknownpeopleinu00grub-unknown-people-unknown-land-grubb.txt
+    checksum:
+      algorithm: sha256
+      value: bf84d4a5041aa1d774a0dc93b6617ef976bfe1cdeebd931f3211eed3afb557f6
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/unknownpeopleinu00grub-unknown-people-unknown-land-grubb.md
+    checksum:
+      algorithm: sha256
+      value: b59651c9ae89c6a89e5048fd4b025aa7489bb4b3181669ca73f4aed66cb3ee96
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+    checksum:
+      algorithm: sha256
+      value: 8ed15c2d936f24ea845e875d1f53085c4d025bc4edebb5f8f7db83c45d4cc598
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids south_american.unknown_people_unknown_land.grubb_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1911, US public domain. Recording context - decades-long resident
+      fluent in Lengua; chapters on soul-beliefs, dreams, kilyikhama spirits, and
+      folklore are close paraphrase from informants within a missionary frame (handle
+      source-critically). Rare pre-1930 English record of an isolated Chaco lineage;
+      stands in for the unobtainable Tierra del Fuego target.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

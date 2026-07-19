@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_20758
+  work_id: mesopotamian.jastrow.religion_babylonia_assyria.gutenberg
+  title: The Religion of Babylonia and Assyria
+  source_url: https://www.gutenberg.org/ebooks/20758
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/20758-religion-of-babylonia-and-assyria-jastrow.txt
+    checksum:
+      algorithm: sha256
+      value: 4a89f82c0184af541377b7dd951ebd8412d7f52212101a5cd3d934fae8b99234
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/20758-religion-of-babylonia-and-assyria-jastrow.md
+    checksum:
+      algorithm: sha256
+      value: 5a08469462fe3f3ef6dd045a0bb980bedeab37cf1ab43a2530a66249ad74b5b6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md
+    checksum:
+      algorithm: sha256
+      value: bf3b96f873d6c036e046941a063d7bee448abd8b63ff26a727a407b69e535f3d
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids mesopotamian.jastrow.religion_babylonia_assyria.gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status. Jastrow's systematic
+      study quoting translated hymns, myths, and incantations; clean plain text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

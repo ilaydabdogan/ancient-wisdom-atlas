@@ -1,0 +1,12713 @@
+# Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes
+
+
+Early in 1885 I landed at Loanda, as pioneer and linguist of
+Bishop William Taylor’s self-supporting missions in Africa. My
+duty was to acquire the languages, impart them to the missionaries, and prepare grammars, vocabularies, translations, and other
+elementary books needed by missionaries in the course of their
+labors.
+
+During the first two years spent at Loanda the necessity of
+supporting myself and the station by means of tuition, which had
+to be given in the Portuguese tongue, added to chronic dysentery
+and fevers, left me practically no time for the study of the native
+language. But I was compelled to master Portuguese, which in
+Angola is indispensable for dealing with the educated classes, and
+is always of utility in intercourse with the common natives.
+
+My attempts to acquire the native language in Loanda, though
+largely unsuccessful, taught me several things: (1) that the books
+hitherto published on the language were worse than useless, being
+positively misleading; (2) that the Portuguese and the educated
+natives were not to be relied on as informants ; (3) that the form
+of speech in daily use among Loanda natives, needlessly mixed
+with Portuguese elements, offers poor material for the study of the
+genuine Ki-mbundu ; (4) that the latter, and not Ambundo, Bunda,
+N’bundo, or any of the other current terms, is the only satisfactory
+and proper name of the native tongue.
+
+My third year was spent in the interior, chiefly at Malange, the
+farthest inland settlement of the Portuguese, and the point of convergence of important trade routes. Here I had better opportunities
+for linguistic studies, although the necessity of teaching in Portuguese still left me only a few late hours of the night for the record
+of daily observations.
+
+Before the close of the year I had collected about three thousand
+
+
+VI
+
+
+words, discovered the principal rules of Ki-mbundu phonology, morphology, and syntax, and firmly established the following important
+facts : (i) that the dialects spoken at and between Loan da and
+Malange are mutually intelligible, while those of Kisama, Lubolo,
+Songo, Ndongo, and Mbondo become so after very little practice ;
+that, accordingly, all these dialects form one language, and that
+books printed in either the Loanda or Mbaka dialect would be useful to these tribes ; (2) that the political and commercial importance of the Loanda district, where Ki-mbundu is the vernacular,
+the number and partial civilization of the inhabitants, the vast
+extra-territorial use of the language — in the coast-belt, wherever
+there are to be found Portuguese traders, troops, or authorities,
+and eastward as far as the Lualaba, wherever the ubiquitous
+Ambaquista (native of Mbaka) has penetrated — fully warranted the
+founding of a Kimbundu literature ; (3) that I was at the time the
+only person willing and able to spend and be spent in this laborious
+task.
+
+The sense of this great need of the Angolan people brought me
+back to civilization. During 1888, while recuperating in the mountains of the Swiss Jura, at the house of my mother, I wrote and
+published a primer and a gospel, as well as the first reliable grammar of Ki-mbundu, and prepared a dictionary of the same. The
+specimens of the language, namely, proverbs, riddles, and two short
+tales, contained in this grammar, were also the first examples of
+Ki-mbundu folk-lore placed before the public.
+
+In 1889 I was again in America, and accompanied as philologist
+the United States Scientific Expedition to West Africa (called also
+the “ Pensacola Eclipse Expedition ”) as far as Loanda. Here and
+in the neighborhood I took especial pains to obtain folk-tales and
+proverbs, and succeeded in securing hundreds of the latter and about
+a dozen of the former. My intention was to publish this material
+in one of the volumes containing the contemplated Reports of the
+Expedition.
+
+A few days prior to my sailing once more for America, Jeremiah,
+my former pupil and friend of Malange, arrived at Loanda and
+volunteered to accompany me to Christendom. To him I owe
+the bulk of my tales and the best of them, as also much reliable
+information in regard to native beliefs and customs. A few of his
+stories were written on shipboard ; the greater part were dictated,
+and subsequently type-written by him at Vineland, N. J., in 1890
+and 1891.
+
+In June, 1891, when I returned to Angola as United States Commercial Agent, the manuscript, consisting of eighty folk-tales, with
+interlinear translation and notes, was practically ready for the press.
+It was then hoped that the Smithsonian Institution would undertake
+its publication. Since that time additional stories have been collected, and now there is material available for one or two additional
+volumes. Proverbs, riddles, and songs have also accumulated, so
+that the present volume, containing fifty tales, is only a first instalment of what I intend fo publish as soon as means are forthcoming.
+
+This will meet the objections of those who would have preferred
+to find in this volume examples of all the classes of native traditional
+literature. The remarks already made will also account for the
+prominence of the linguistic features of this book, which is intended
+to serve as a text-book for students of African languages as well as
+for students of comparative folk-lore. The scientific reader will
+appreciate the local coloring of the literal version and the proof of
+genuineness given by adding the original text.
+
+The Comparative Notes are not intended to be exhaustive, but
+simply to give a few stray hints to the folk-lorist, and to furnish the
+general reader with some idea of the world-wide dissemination of
+folk-tales and of mythologic elements. Those who are acquainted
+with the animal tales of American negroes will readily recognize
+their variants in this collection. Fictitious tales (mi-soso), including
+animal stories, are placed first, and followed by narratives taken to
+be the records of events ( maka ) ; historical traditions ( tna-lunda )
+are left for future publication. Within each class the tales are
+grouped with the intention of bringing together those mutually
+explanatory.
+
+The chapter on African folk-lore, in the Introduction, was written
+in 1890-91. Students of folk-lore will notice that recent articles
+contained in folk-lore journals, and easily accessible to specialists,
+are not mentioned. Since 1890, Stanley’s expedition into “Darkest
+Africa” has furnished a contribution to African folk-lore in J. M.
+Jephson’s “Stories told in an African Forest.” J. McDonald, in
+“Folk-Lore” (London), and E. Jacottet, in “Revue des Traditions
+Populaires ” (Paris), have published interesting articles on Bantu
+
+
+Vlll
+folk-lore. Very recently Dr. C. G. Buttner has published an “Anthologie aus der Suaheli-Litteratur ” (Berlin, E. Felber, 1894), which
+appeared but a few days before the author’s death. As this excellent work is a publication and translation of Swahili manuscripts, it
+is not surprising that only one story is entirely African.1 The bulk
+of the written literature of Zanzibar is, naturally, either wholly or
+in large measure of Arabian origin.
+
+No collector of folk-tales in a virgin field will be astonished to
+hear that mountains of prejudice were to be overcome by dint of
+diplomacy, perseverance, and remuneration before Angolan natives
+could be induced to reveal the treasures of their traditional lore to
+a stranger armed with pencil and paper. Now the spell is broken,
+and not a few natives volunteer, for a compensation, to have their
+stories taken down in writing.
+
+The future of native Angolan literature in Ki-mbundu, only nine
+years ago so much derided and opposed, is now practically assured.
+J. Cordeiro da Matta, the negro poet of the Quanza River, has abandoned the Portuguese muse in order to consecrate his talents to the
+nascent national literature. The autodidactic and practical Ambaquistas of the interior have begun to perceive the superiority, for
+purposes of private correspondence, of their own tongue to the Portuguese,— to them what Lacin is to the Lusitanian peasant ; finally,
+indications are not wanting that the Portuguese authorities, civil
+and ecclesiastic, are becoming awake to the importance of a general
+language like the Ki-mbundu as a link between the official speech
+and the multitudinous Bantu dialects of their vast province of
+Angola.
+
+In Africa, Portugal is caught as in a trap between powerful and
+encroaching neighbors, each one of whom is more than her match.
+The only safeguard of the last, but still magnificent remnant of her
+once unequalled colonial empire lies in the affection of her African
+subjects ; and in no wise can she secure this better than by giving
+them what they desire, have patiently awaited, and are promised
+by the Constitution — namely, a rational system of elementary,
+industrial, and higher education. Nor can the primary school be a
+success so long as teacher and pupil are expected to read and write
+a language which neither understands.
+
+To the Department of State at Washington and to the American
+
+1 Der Fuchs nnd das Wiesel \ a parallel of our No. XXIX.
+
+
+Geographical Society are due my thanks for the plates of my two
+maps of Angola.
+
+It will give me pleasure to receive suggestions or criticisms from
+any person interested in African philology or folk-lore.
+
+HELI CHATELAIN.
+
+New York, February i, 1894.
+
+
+Permanent Address :
+Care of National Museum,
+Washington, D. C.
+
+
+♦
+
+
+Introduction. page
+
+I. Description of Angola 1
+
+
+III. Literature of Ki-mbundu 23
+
+IV. Pronunciation of Ki-mbundu 25
+
+
+Version B 43
+
+II. Fenda Maria and her Elder Brother nga Nzua . . 53
+
+
+IV. The Woman who Longed for Fish 83
+
+V. Sudika-Mbambi 85
+
+VI. Ngana Samba and the Ma-kishi 97
+
+VII. The Girls and the Ma-kishi 103
+
+VIII. The Children of the Widow 111
+
+IX. The Kianda and the Young Woman 115
+
+X. The Four Uouas 117
+
+XI. Mr. Carry-me-not and Mr. Tell-me-not . . . .125
+
+XII. Mutelembe and Ngunga 127
+
+XIII. The Son of Kimanaueze and the Daughter of Sun and
+
+Moon 131
+
+XIV. A Bride and her Brothers-in Law 141
+
+XV. The Lions and Kimona-ngombe 145
+
+XVI. The Blacksmith and the Blackbirds 151
+
+XVII. Man and Turtle 153
+
+XVIII. Nianga dia Ngenga and Leopard 157
+
+XIX. The Child of Hunter and the Child of Deer . . 159
+
+XX. Diniana dia Ngombe and Deer . . . . . .159
+
+XXI. Leopard, Antelope and Monkey. Version A . . . 161
+
+Version B .173
+
+XXII. Leopard, Monkey, and Hare 183
+
+XXIII. Leopard and the Other Animals 189
+
+XXIV. The Young Leopard and the Young Goat . . .191
+
+XXV. Hare and Leopard 197
+
+XXVI. The Lawsuit of Leopard and Antelope .... 197
+
+XXVII. Lion and Wolf 201
+
+
+xii Contents .
+
+XXVIII. Elephant and Frog . 203
+
+XXIX. Fox and Mole 203
+
+XXX. Cock and Fox 207
+
+XXXI. Jackal and Hare 209
+
+XXXII. Squirrel and the Kingship 21 1
+
+XXXIII. Dog and the Kingship 211
+
+XXXIV. Dog and Lizard 213
+
+XXXV. Dog and Jackal 213
+
+XXXVI. The House-Hog and the Wild Boar . . . .215
+
+XXXVII. Partridge and Turtle 215
+
+XXXVIII. Frog and his Two Wives 217
+
+XXXIX. Nianga dia Ngenga and his Dogs 219
+
+XL. King Kitamba kia Xiba 223
+
+XLI. The Young Man and the River 229
+
+XLII. Kingungu a Njila and Ngundu a Ndala . . .233
+
+XLI 1 1. Two Men, One Woman 235
+
+XLIV. A Father-in-Law and his Son-in-Law .... 239
+
+XLV. The Young Man and the Skull . . . . . .243
+
+XLVI. The White Man and the Negro 243
+
+XLVII. The Lion is Strong; so is Friendship Strong. . . 245
+
+XLVI 1 1. The Builder of Ability and the Builder of Haste . 247
+
+XLIX. The Past and the Future 247
+
+
+List of Works on African Folk-Lore, cited in the Introduction 310
+
+Appendix — Music 311
+
+Index 3*3
+
+
+INTRODUCTION,
+i.
+
+
+Extent.
+
+
+DESCRIPTION OF ANGOLA.
+
+As defined by the recent treaties with Germany, England, and the Kongo State, the Portuguese province oi
+Angola is one of the largest territorial divisions of Africa. Owing
+to its geographic situation, variety of climates, resources of soil,
+mineral wealth, and the progress already made in civilization, its
+intrinsic value and other possibilities surpass those of any other
+tropical African possession. From 40 40' to 170 20 ' south latitude,
+it owns over twelve degrees of seacoast, with the two best harbors
+of the whole West Coast, the mouth of the Kongo, and the Bay of
+Loanda.
+
+To the interior it extends to the Zambesi River from its bend to
+its source, to the Kassai River from Lake Dilolo to 7q south latitude, and to the Kuangu River from 8° to 6° south latitude. In
+the north, its boundary runs along the 6° south latitude and a long
+stretch of the Kongo River. To this must be added the “ enclave ”
+of Kabinda. Thus this province forms a slightly irregular quadrangle, covering about 1,250,000 square kilometers.
+
+In the south, it borders on German Southwest Africa, in the
+southeast on British Zambesia ; and the Kongo State is its eastern
+and northern neighbor.
+
+As regards geographic latitude, the whole of Angola is
+Conditions. tropical, but the temperature is everywhere advantageously modified : on the coast, by the sea-breeze and a
+high bluff, where the heat in the shade is never disagreeable ; in the
+interior, by the elevation of the land. Of course the distance of
+twelve degrees between the extreme north and south latitudes implies a variety of climates irrespective of orographic conditions.
+From north to south the country may be aptly divided into four
+zones or belts : —
+
+1. The coast-belt, between 50 and 150 miles wide, with an average altitude of 100 to 150 feet; more or less sterile, because of its
+sandy soil, but rich enough in subterranean water to become valuable as soon as capital introduces wells and pumps.
+
+2. The mountain-belt, formed by the lace-work of erosion on the
+partition wall between the highlands and the low coast-belt, with
+occasional signs of volcanic action. This is also the zone of luxuriant vegetation and mineral treasures, of grand scenery, of sultry
+vale bottoms and breezy peaks, of cascades and inspiring panoramas.
+
+3. The plateau, or highland, belt, extending from the Kongo to
+the Kunene, and rising from 2,000 to 6,000 feet. This is the realm
+of the prairie and parkland, the home of antelopes, gazelles, zebras,
+and of herds of sleek cattle ; the foreordained granary and live-stock
+ground of the coming century. Its general aspect differs little from
+that of undulating lands in the temperate zone.
+
+In its southern, and widest portion, rising between 3,000 and 6,000
+feet above sea-level, the white race can and will get acclimated, and
+thence raise the sunken native population of Southwest Central
+Africa to its own moral and political level.
+
+4. The fourth zone, a recent accession, and still unoccupied, may
+be called the inland depression, and is formed by the Kuangu and
+Upper Zambesi basins, separated by the high flats of their watershed.
+
+Rather low, swampy, distant, and covered by the darkness of our
+ignorance, this region is at present uninviting to the civilized man ;
+but its rich soil and its wide network of water-ways navigable by
+river-steamers, will one day make it no less desirable than its more
+advanced western sisters.
+
+As a rule it may be stated that, as moist heat is detrimental to
+the white organism, while beneficial to vegetation, the most fertile
+regions are also the most unhealthful, and that the most salubrious
+districts are the least favored as regards vegetation. This rule, however, has many exceptions. Thus, on the coast north of Benguella
+it is possible for whites, with a sound constitution, who can afford
+the comforts of life and an occasional trip to the moderate zone, to
+live a goodly number of years ; though not without paying their
+tribute in fevers and other endemic troubles. Yet, as a race, the
+whites cannot expect to prosper anywhere in Angola north of n°
+south latitude. American negroes, however, though suffering individually, would, as a race, find a genial home in all the highland
+of the interior.
+
+Thus, again, the high plateaus of the province, south of n°, while
+perfectly adapted for the white race, are by no means sterile. They
+will yield abundant crops of all that is produced in the sub-tropical
+and temperate zones. But, before it can offer any inducement to
+white settlers, the highland must be connected with the seaports
+
+
+Description of Angola. 3
+
+by means of railways, and the duties on necessary articles must be
+abolished, or not exceed ten per cent, ad valorem.
+
+The mean temperature of Loanda is 230 centigrade, that of Malange, 19. 50, that of Mossamedes, 20°. The average temperature of
+the coolest month is : at Loanda, 14. 6° centigrade, at Malange, 4.30 ;
+of the hottest month, at Loanda, 31. 70 at Malange, 320.
+
+The staple exports are : (1) india-rubber, which is still
+Resources?^ found in the forests of the Kuangu basin, and imported
+from the Kongo State ; (2) gum-copal, and other gums,
+the collecting of which constitutes the main occupation and source
+of income of thousands of natives ; (3) coffee, growing spontaneously and cultivated in the mountainous zone from the Kuanza to
+the Mbidiji River, but susceptible of cultivation through the whole
+length of said zone; (4) wax, which is produced, to some extent,
+among most independent tribes ; (5) hides, near white settlements ;
+(6) orchilla-weed, which is exclusive to the arid coast-belt; (7)
+palm-oil, which comes from the river banks ; (8) ivory, which is
+mostly brought to the coast from hunting grounds back of Angola.
+A few herds of elephants are still found in the southeastern corner
+of the province.
+
+As to mineral resources, copper, though no longer exploited in
+exportable quantities, is found at Bembe and many other points of
+the mountain-belt ; gold is found in the sand of the Lombiji River ;
+silver is said to exist in the mountains of Ngola; iron is abundant
+everywhere ; salt is exported from Kisama, and coal crops up at
+Dondo. Clay for brick and tiles, or limestone, sandstone, and granite for building purposes are nowhere lacking.
+
+The exports of Angola for 1890 amounted to slightly
+Shipping!* below $5,ooo,ooo, the imports to $5,350,000. Regular
+lines of steamers, two Portuguese, one English, one German, one French, one Belgian (Kongo), one Dutch, connect the
+province with Europe.
+
+The principal ports are: Kabinda, Kongo, Ambrizette, Ambriz,
+
+A line of three steamboats plies on the Quanza River, between
+Loanda and Dondo ; and the lower courses of the Lifune, Dande,
+Bengo, and Longa are accessible to sailing crafts.
+
+The railroad from Loanda to the interior is built as far as the
+Lukala River, and Catumbela is connected with Benguella by a small
+railway ; yet the whole produce of the interior is still brought down
+to the coast by caravans of native traders, of whom the Mbaka (Am*
+baca), and Kasanji (Cassange), with terminus at Dondo or Loanda,
+and the Mbalundu (Bailundo), and Viye (Bihe), with terminus at
+Benguella, are the most important.
+
+
+The province, as governed by Portugal, is divided into
+DivSion. four districts : ( i.) In the north, the recently organized
+Kongo District, with capital and governor at Kabinda.
+(2.) The central District of Loanda, with this city as provincial and
+districtal capital, and residence of the Governor-General, who is also
+districtal governor. (3.) The District of Benguella, with governor at
+this port. (4.) In the south, the modern District of Mossamedes,
+with this city as capital.
+
+Each district is subdivided into “ Concelhos,” which may be compared with counties, and these again into Divisions, which correspond in some respects to townships.
+
+The Governor-General and the District Governors, with right royal
+powers, are by tradition naval officers ; the “ chefes ” of the “ Concelhos ” are, as a rule, officers of the colonial army ; and the “ commandantes ” of the divisions are resident traders or educated natives.
+
+In the Kongo District, the heads of the “ Concelhos ” are called
+“ Residentes,” and are five in number. Being part of the Kongo
+Basin, this district is placed under the liberal regime of the Act of
+the Berlin Conference ; which will, however, soon be modified by
+the adoption of the Brussels Act. The other three districts are
+under the old regime of high tariff and differential duties.
+
+The residences of the Kongo District are : Kabinda, Kakongo, S.
+Salvador, St. Antonio, and Ambrizette.
+
+The “ Concelhos ” into which the District of Loanda is divided
+are : —
+
+dondo.
+
+The “ Concelhos ” of the District of Benguella are : —
+
+Grande. The new posts of Bailundo, Bihe, and Cubango are not yet
+4( Concelhos/’
+
+The “ Concelhos ” of the District of Mossdmedes are : —
+
+
+The boundaries of the districts coincide to some ex-
+DivbiSfphic tent with those of the nations constituting the native
+population of the province. Thus the Kongo nation
+occupies most of the Kongo District, but overlaps the northern part
+of the Loanda District. The latter is occupied by the Angola
+(. A-mbundu ) nation, whose name has been extended to the whole
+Province.
+
+
+Description of Angola . 5
+
+The District of Benguella is all occupied by the Ovi-mbundn nation
+and tribes closely allied.
+
+The people of the District of Mossamedes do not seem to form
+an ethnic unit, but differ little from the Ovi-mbundu stock, though
+many have more affinities with the kindred Ova-Herero and Ova-
+Ndonga group of the German possessions.
+
+The people beyond the Kuangu and those of the Zambesi Basin,
+are not yet administered by Portuguese authorities, and are not comprehended in any of the above districts.
+
+The tribes of the Kongo nation, as far as included in Angola, are r
+
+(1.) Ngoio, occupying the Kabinda enclave , north of the Kongo
+River. (2.) Solongo and (3) the Eshi-Kongo proper ; both south of
+the Kongo River. (4.) Mbamba, on the Mbidiji River and in scattered colonies. (5.) Luangu, scattered as wandering blacksmiths,
+but settled in strong colonies in the upper Dande basin. (6.) Hungu,
+around the headwaters of the Loji and Lukala (Lucalla) rivers.
+
+The tribes of the Angola, or A-mbundu, nation are : —
+
+(1.) The federation known as Ji-ndembu (Dembos), between the
+Dande and the Lifune rivers. Still independent
+
+(2.) The Mbaka, comprising, besides Ambaca, much of Golungo
+Alto, Cazengo, Malange, Duque de Braganqa, and scattered in small
+colonies as far as the Kassai River. Subdued.
+
+(3.) The Ngola (proper) or Ndongo, in the Hamba basin. Independent.
+
+(4.) The Mbondo, northeast of Malange, on the watershed of the
+Kuangu, Quanza, dnd Lukala basins. Half subdued.
+
+(5.) The I-mbangala, or Kasanji, between the Tala Mungongo depression and the Kuangu River, east of Malange. Independent
+
+(6.) The Songo, divided into Great and Little, occupying the whole
+right basin of the Quanza from Malange to Viye (Bihe). Mostly independent.
+
+(7.) The Haku, between the upper Quanza and Ngango rivers, on
+the left bank of the former. Independent.
+
+(8.) The Lubolo, between Haku and Dondo, on the left bank of
+the Quanza. Independent.
+
+(9.) The Kisama, between the Quanza, the Longa River, and the
+sea. Independent.
+
+To these must be added the mixed population under Portuguese
+rule, which forms all the larger settlements on the right bank of the
+Quanza River, between Malange and the sea. The Loanda type predominates in this section so much that, but for its mixed elements
+and semi-civilized state, it might be called the Loanda tribe. It is
+the most advanced in European civilization and corruption.
+
+The tribes between the Longa River and Egito occupy a somewhat isolated position. They are the Mbwiyi (Amboim) between
+the Keue (Cuvo) and the Longa rivers, the Ba-sumbe and Ba-sele,
+north and south of Novo- Redondo, and farther inland the Kibala.
+
+The Ovi-mbundu people are the Highlanders of Angola. They
+embrace the people between the headwaters of the Quanza and the
+coast region. The principal tribes are the Mbalundu (Baiiundo) and
+Viye (Bihe), forming one linguistic stock. Smaller tribes are the
+Ndulu and Ma-lemba on the left bank of the upper Kuanza.
+
+The various tribes of the Nano (i. e. Highland) between the upper
+Kunene and the depression belong to the same group.
+
+Along the coast and small river courses are found : the Ba-ndombe,
+Ba-Kuando, Ba-Kuise, Ba-Koroka, Ba-Kaoko, which are little known,
+but owing to their savage state all the more interesting.
+
+The larger tribes of the District of Moss&medes, excepting those
+of the coast, just mentioned, are : the Ba-Ngambue (Gambos) Banianeka, Ba-londo, Ba-nkumbi, Hai, Jau, Ba-ximba and Ba-kubale.
+Beyond the Kunene River are the Kua-mati, Kua-niama, Handa,
+Nyemba, Fende, and the Ba-kankala of the yellow Bushmen race.
+
+In the fourth climatic zone, which is formed mainly by the recent
+accessions of Angola, what is now known as its political zone of influence, we find from north to south, in whole or in parts, the following nations and tribes : —
+
+The Ma-Xinji (Ma-shinji), on the right bank of the Kuangu, ethnically, but not politically, allied with the Ma-Kioko.
+
+The Lunda, farther east, once the greatest nation between Tanganyika and Loanda, now almost annihilated by civil wars and the
+slave-raiding Ma-Kioko.
+
+The Minungu, on the upper Kuangu, neighbors of the Ma-Songo
+and Ma-Kioko.
+
+The Ma-Kioko or Ba-Chibokue, along the upper course of Kassai,
+and now far scattered as bold hunters, traders, and slave-raiders.
+
+The Ngangela, east of Viye (Bihe).
+
+The A-mbuela, south of the Ngangela, and occupying most of the
+southeast comer of Angola, as recently enlarged.
+
+The Ba-rotse, in the upper Zambesi valley, who are, by treaty,
+divided between England and Portugal, as the Lunda are between
+Portugal and the Kongo State.
+
+The Ma-mbunda on the Lower Kubango River.
+
+What constitutes a nationality in the natural state is
+amiTts Directs, much less the political organization than the language.
+
+Our ethnologic division into nations and tribes corresponds to the linguistic division into languages and dialects. The
+people speaking one language constitute a nation, and each tribe has
+its own dialect. The political predominance of a tribe makes its
+
+
+Description of A 71 go la.
+
+dialect the basis of the national literary language, which is enriched
+and developed by the assimilation of forms and words from the
+various dialects. Thus the court-dialect of Kongo becomes the literary language of the Kongo group ; and the dialects of Loanda and
+Mbaka form the basis of the literary Ki-mbundu.
+
+Angola proper is limited, in the west by the ocean, in the north
+by the Daride (Ndanji) and Susa rivers, in the east by the Kuangu,
+in the south by the Longa River and the boundary line between the
+Lubolo and Mbalundu tribes.
+
+The dialects of the Ki-mbundu language are those of the tribes
+already enumerated above : Kisama, Lubolo, Songo, Mbondo, Ndongo or Ngola, Mbaka, and that of Loanda. Besides these, there are
+on the borders some intermediate dialects, which partake almost
+equally of the languages north and south of them . Thus the Mbamba
+and Hungu in the north, the Holo in the northeast, the Haku and
+Sele in the south.
+
+All the stories of the present work belong to the Ki-mbundu group,
+that is, to Angola proper, and to various tribes ; but all are written
+in the two main dialects of the semi-civilized population : the Loanda
+and the Mbaka.
+
+Therefore we limit the ethnologic data which follow to the Kimbundu stock. Still most of them apply as well to the neighboring
+groups in the north, east, and south.
+
+Every native community however small or large, inhab-
+Sodai^atau iting one place, that is, forming a village or town, is governed by a chief who is elected and controlled by the
+body of the elders.
+
+In an old community the chief is generally chosen in one family
+according to the tribal law of succession, provided the lawful hev be
+deemed fit for the office. If he is not, the dignity passes to the next
+heir. In new communities — as is the case of fugitives meeting in
+the bush and building together — the community by mutual consent organizes itself in accordance with its needs, traditional preferences and superstitions, and the council of the elders bequeath to
+the following generation the constitution which they have framed.
+
+The form of government is neither purely monarchic, oligarchic,
+or democratic, but a happy combination of all three. The council of
+the elders, which might be called the parliament and forms the legislative and controlling power, is composed of all the adult and free
+males who show any ability. It delegates the executive power to a
+chief whose choice is determined by definite traditions and rules, and
+who is constantly controlled by the leading elders, whom he has to
+consult in every important matter. Within the limits of the tribal
+constitution or traditional laws, the chief or king has absolute power
+over his subjects’ lives and property. His chief officers are: (i.)
+His premier, who often is his presumptive successor, and whose title
+is Ngolambole . He is the chief’s right hand, represents him in his absence, and is regent during the interim between the chief’s death and
+the inauguration of his successor. (2.) The secretary, called Tandala,
+Muzumbu , or Sakata, who corresponds to the foreign secretary or
+minister of foreign affairs in European states. He is the chiefs
+mouth-piece, publishes his orders, receives and introduces strangers,
+and attends to the official correspondence, when he can write.
+
+Besides these two standing officers, Angolan chiefs have, according to their importance and tribe, a larger or smaller number of accessory officers who carry out the chiefs orders, and keep him posted
+on the state of things ; thus, the captain of the militia, the collector
+of this or that tax, the superintendent of roads, or markets, and
+others.
+
+In some tribes, the chief may be a female as well as a male ; and
+in most tribes the head-wife of the chief has great power, even under
+the reign of his successor.
+
+The Kimbundu title of the chief is generally Soba. A vassal chief
+is called a Kilamba of his suzerain. A suzerain of many vassals is
+called in some tribes Jaka (Portuguese Jaga), in others Ndembu.
+The latter name prevails among the independent chiefs between the
+Nzenza (Bengo), Ndanji (Dande), and Loji rivers, where a soba used
+to be an inferior chief. It is from this title of Ndembu that the
+whole district derived its official name “ Dembos.” The independent
+Ndembu form a federation.
+
+In former times every tribe had a head-chief or king ; now the
+only tribe which still has one great head is that of Ngola. It is still
+absolutely independent, and enjoys an elaborate system of elective
+and hereditary nobility. In Angola there is no trace of the military
+despotic system of the Ama-Zulu.
+
+The social organization of the family in Angola is similar to that
+of most Bantu peoples. As fatherhood is never absolutely certain,
+while there can be no doubt about motherhood, it is the mother, not
+the father that determines consanguinity or kinship, and succession
+or heredity. The father’s relation to his children is as loose as, with
+us, that of a step-father to his step-children. Of course, affection is
+commensurate with the belief in consanguinity. Therefore, the
+closest relation is that of mother and child, the next that of nephew
+or niece and uncle or aunt. The uncle owns his nephews and nieces ;
+he can sell them, and they are his heirs, not only in private property,
+but also in the chief ship, if he be a chief.
+
+Polygamy is honored, although its evil concomitants are not ignored.
+In the absence of metal or paper money to represent capital, a large
+
+
+Description of Angola,
+number of wives, of children, and hence a wide circle of blood-connection and influence, is considered the best investment and most
+substantial element of wealth. Each wife occupies a separate house
+and tills her own fields. She provides her husband with food and
+tobacco ; he builds her house and procures her clothing. The wedding ceremonies are minutely described in the story of the Four
+Uouas. The money and other things given by the suitor to the girl’s
+parents are not the “price” of the girl, as is often said, but the
+“pledge” and symbol of the contract thereby executed. If he treat
+her unmercifully he may lose the money ; if she prove untrue or unfruitful the parents have to return the gifts. Impotence in men and
+barrenness in women are the greatest misfortunes that may befall
+them. Blindness and lameness are trifles compared to that ; so great
+is the abomination in which these infirmities are held.
+
+One of the most important institutions is that of the tambi , or
+funeral and mourning. The moment one dies, all those who are in
+the house and all those who soon come in, raise the most heart-rending wail, and this is repeated daily at stated hours, and for weeks
+and months by the nearest relatives. The corpse is wrapped in a
+mat and carried on a pole to the grave, followed by howling men
+and women who march in the quickest trot. Broken pottery and
+other objects are placed on the grave. On the grave of a hunter a
+mound of stones is raised, or skulls of wild animals are placed on the
+trimmed limbs of a dead tree.
+
+In Loanda, the nearest relative of the deceased stays for months
+unwashed and unkempt in the bed just vacated ; the windows are
+closed, the room kept unswept, and the mourner can break his or
+her silence only for the funeral wail. The greatest thing about the
+mourning, however, is the gathering of all the relatives and friends
+from afar for the mourning dance, and the regular Irish wakes they
+keep up at the expense of the successor and next of kin, as long as
+money lasts. Circumcision is very widely practised, but obligatory
+only among a few tribes.
+
+Slavery and its unavoidable concomitant, the slave-trade, are practised all over Angola. It is based on three facts : (i) The right of
+the uncle to dispose of his nephews and nieces as merchandise, (2)
+the absence of penitentiaries, (3) war. If a man is unable to pay a
+debt, or has committed a crime and cannot otherwise pay the fine,
+he is sold himself or he sells his nephew or niece in his stead. Prisoners of war are reduced to slavery and sold to the highest bidder.
+As a rule, the slaves of uncivilized natives are not worked hard, nor
+cruelly treated ; and they have a chance to redeem themselves, as
+is shown in the story of the Young Man and the River. Civilized
+masters and the plantation owners, on the contrary, make the slaves*
+yoke a galling one, and sometimes thrash them to death.
+
+
+IO
+
+
+This brings us to the subject of jurisprudence. Whenever natives
+quarrel, one party or both call one or more umpires, generally old
+men, to settle the case. If it is an important case it is also brought
+before the chief. In vital questions, as that of witchcraft, the case
+is decided by the poison test, in which case the medicine-man is
+practically the judge, and frequently the executioner as well.
+
+.. . The ever repeated assertion that Africans are fetishists,
+
+Keligion. . * . 9
+
+that is, worshippers of inanimate objects, is utterly false,
+or else all superstitious people are fetishists. The Angolans have
+the same religious system as the Bantu generally. They are not
+idolaters in the strict sense, nor atheists, nor fetishists, nor polytheists, but superstitious deists. They believe in one great, invisible
+God who made all things and controls all things. But they confess
+they know very little about his character. Tradition says men have
+offended Him, and He has withdrawn his affection from them. They
+do not formally worship God, nor do they ever represent Him in any
+visible form, or think He is contained in a fetish of any sort. That
+is, inasmuch as they are purely native. They do, however, carve
+wooden images which they call gods ; but the images thus called are
+always in the shape of a crucifix, and every native knows that the
+image does not represent their own great, invisible god, but the god
+or fetish of the whites. True fetishism I have found, in Africa,
+among ignorant Portuguese, who do assert and believe that this or
+that image is God, does work miracles and must be worshipped, not
+as a mere symbol of its spiritual prototype, but as the actual incarnation or embodiment of it, equal in all respects to the original.
+
+What other figures the natives have are not idols, for they have
+no connection with the Deity ; they are simply charms, amulets, or
+talismans, to which the medicine-man has, by his incantations, imparted certain virtues emanating from an inferior spirit.
+
+These inferior spirits of Bantu mythology are generally, but without foundation, called African gods. It would be as rational to call
+the native chiefs gods because they are saluted by the most worship-like prostrations. In their various attributes and powers, these
+spirits (ma-bamba) correspond pretty closely to the gods of classical
+antiquity, and to their modern substitutes the saints, minus their
+intercessory office. Each spirit or demon represents some force of
+nature, is morally no better than sinful men, and, according to his
+capricious passions, deals with men in a friendly or unfriendly manner. The friendship of the demons must be secured and maintained
+by presents, offerings, sacrifices, and in these consists the only visible
+worship or cult of the Bantu negro. The media between demons and
+men -are the professional medicine-men or women, the diviners, and
+any individual having the gift of possession or inspiration. These
+
+
+Description of Angola.
+
+media constitute a kind of secret order, and have much influence
+individually; but they are not organized into a hierarchy, nor do
+they exert any combined effort. A few of the genii, or demons,
+are : Kituta or Kianda, who rules over the water and is fond of great
+trees and of hilltops ; Muta-Kalombo, who is king or governor of the
+woodland ; hence of the chase and of the paths, and is to be propitiated by hunters and travelling traders ; Lemba, to whom pertains
+the mysterious province of generation, gestation, birth, and childhood. The belief in the reality of these entities and in the power of
+their media is so deep, that even the civilized natives, whatever their
+position in the state, the church, the army, or commerce may be, —
+though nominally Christians or professed rationalists and materialists conversant with Comte, Spencer, Renan, — will secretly resort
+to them as soon as they find themselves in great straits. Yea, not
+a few whites, after prolonged intimacy with native women, have
+been found to become secret adepts of those heathen superstitions.
+The spirits or shades of mortals are never confounded in the native
+mind with the genii of nature ; but their enmity is dreaded as much
+as that of the genii, and they are propitiated by the same or similar
+rites.
+
+All the natives of the interior, that is, outside the cities
+andUCommerce. Loanda and Dondo, are supposed to know the rudiments of certain arts. For instance, all women must
+know something of midwifery, washing, cooking, trading, tilling,
+sewing, carrying on the head or back, etc. Every man must have
+learned something about building a house, hunting, carrying loads,
+cooking, trading, medicine, etc. In small, isolated communities a
+man has to be jack-at-all-trades ; in large settlements, division of
+labor produces specialties, and increases the exchange of commodities, that is, trade. The principal crafts or trades of native Angola
+are : —
+
+(i.) Medicine and Divining. This has already been referred to
+under the head of religion.
+
+(2.) Huntuig. This has to be pursued as a specialty in order to
+be profitable, for since the introduction of firearms the game has
+become both scarce and wary.
+
+(3.) Fishing. This is, on the coast, one of the most important
+crafts, as the fish attracts the farthest inland tribes to the coast. But
+for its famous dried fish, Loanda would scarcely be visited by any
+inland caravans. The quantity of dried fish yearly sold from Loanda
+to the far interior is truly astounding, and the quantity of fresh fish
+daily consumed in the capital is not less amazing. The nets, the
+canoes, and the sails used in this fishing business are all of native
+manufacture. A large proportion of the cotton thread is spun in
+
+
+Kisama and sold in Loanda. The fish of the rivers and lagoons of
+the interior is also dried and sold far away from where it was caught.
+Dried “ bagres ” stuck in a slit of a stick are to be seen for sale in
+most market-places.
+
+(4.) Wood-carving . Spoons, tubs, drums, mortars, stools, images
+for charms, ornamental clubs, smoking pipes, sceptres of chiefs,
+plates, bowls, snuff-boxes, combs, and a variety of other objects are
+produced by native sculptors in wood. As a rule every tribe has its
+own pattern or design.
+
+(5.) Pottery . Clay is found everywhere, and is used in the manufacture of cooking-pots of all sizes, of water jugs resembling the
+amphoras of the ancients, of pipes, lamps, dishes, clay figures, and,
+in some parts, of adobes for house-building.
+
+(6.) Spinning and Weaving. The African loom is well known.
+The material used in weaving is either palm fibre or cotton thread.
+The cotton-tree thrives all over Angola ; and among all tribes spinning and weaving is carried on to some extent. All native textiles
+are very strong and durable. With the palm fibres natives make
+mats, which were, of old, the principal garment, and formed, with the
+cowrie shells of Loanda, the currency which European cloth and
+coined money have not yet quite superseded. Mats are still manufactured and sometimes beautifully dyed, around the headwaters of
+the Lukala and Ndanji rivers and around Pungo Andongo ; cotton
+mantles, hammocks, and loin-cloths are still woven for export to
+neighboring tribes by the people of Kisama.
+
+(7.) Smelting and Smithing. This trade is chiefly in the hands of
+wandering smiths whose original home is found in Luangu north of
+the Kongo River. They still speak their Luangu dialect along with
+Ki-mbundu. Their largest settlements are found between the Mbengu
+and Lufuni rivers, in the country of the independent Dembos. The
+articles they chiefly manufacture are : hoes, with single or double
+handles ; hatchets, either for cutting or for ornament and cult ;
+knives ; needles for basket and mat making ; arrow-points ; heads of
+spears ; arm-rings and anklets ; earrings of brass or copper ; and
+any object that may be ordered of them.
+
+(8.) Basket , mat , and rope making. All Angolans sleep and eat
+on mats ; the walls, doors, and shutters of many huts are made of
+mats. This alone gives an idea of the quantities of mats that must
+be continually produced to replace the worn and torn. Angolan
+mats are principally of three kinds : (a) The coarse papyrus-mat
+(ngandu) ; (b) the fine and large grass-mats ( ma-xisa ), made of disenu grass ; (c) the fine and small palm-mats (ma-bela)t used as clothing, for sacks, for covering tables, or for the ornamentation of rooms..
+Baskets are made of all sizes, shapes, and qualities : for carrying
+
+
+Description of Angola. 13
+
+earth or stones ; for holding flour and corn ; for winnowing and for
+sifting ; for carrying loads either on head, shoulder, or back ; for holding mush or cassava-meal, and so on. The baskets are made of mateba palm-leaf and fibrous grass. The former material is also used
+for sacks, fans, brooms, and ropes. The baobab fibre is used for
+skirts (among the Kisamas), for ropes, sacks, and caps. Hats are
+made of straw or mateba fibre by the Mbaka tribe.
+
+(9.) Throughout Angola are now found a few rudimentary trades
+of Europe : (a) Tailoringt which comprises the sewing of native loin
+and shoulder cloths, as well as the making of shirts, pants, vests,
+and coats ; (b) Shoemaking , which includes the old manufacture of
+leather sheaths for knives and swords, quivers, sacks and satchels,
+cartridge-boxes and any other object made of leather; ( c ) Carpentering, for making tables, chairs, trunks, bedsteads, doors, shutters,
+window and door frames, beams, rafters, wooden locks, and repairing
+any wooden article of European manufacture ; (a) Cooperage , which,
+owing to the extensive manufacture and trade in rum and wine, as
+also to the export of palm-oil, has become an important industry ;
+(e) Masonry. There is already a host of natives who can build a
+very good stone house.
+
+The internal native commerce of Angola is almost exclusively that
+of barter, one commodity being exchanged for another.
+
+The Kisama people have salt, wax and honey, cotton cloths, orchilla weed, some game, cattle and agricultural produce, to export to
+the north bank of the Quanza, where they receive in exchange guns,
+powder, Manchester cloth, blankets, rum, and minor articles.
+
+The Lubolo tribe exports cniefly slaves, its greatest market being
+Dondo. As long as the trade in human beings continues, there is
+little hope of the Lubolos tapping the exhaustless resources of their
+spontaneous vegetation, fertile soil, and minerals. Though in relatively small quantities, they do, even now, bring some food produce
+to barter for European goods.
+
+The Songo tribe trades to some extent in rubber and wax ; and
+some of the men earn a living by carrying loads between Malange
+and Dondo.
+
+The Mbondo tribe gets its very limited requisite of European
+goods in exchange for cattle, food, and scraps of rubber and other
+produce from the Kuangu River.
+
+The Ngola tribe has only recently entered the labor field as carriers from Malange and Cazengo to Dondo or to the far interior.
+Most of the resources of the country are still untapped, and trade
+with the whites is on a very small scale.
+
+The Mbamba people of the Malange district obtain what they want
+of European articles by carrying loads and hammocks for the whites
+of Malange and Pungo Andongo. As this suffices for their modest
+requirements, they do not produce anything. The bulk of the
+Mbamba, however, around the headwaters of the Lukala and Loji
+
+The great Mbaka tribe displays its best qualities away from home.
+They used to be active agriculturists ; and their peanuts (groundnuts) were exported to Europe in great quantities. But the extortions of some Portuguese “ chefes ” discouraged them from producing, and scattered them to the neighboring districts and to the
+farthest interior, where they are doing well as farmers, traders, tradesmen, secretaries of chiefs, clerks and servants of whites, and generally as pioneers of civilization. It is not the Portuguese, nor the
+Germans or Belgians, but the black Ambaca people, who have opened
+up the Kuangu, Kuilu, and Kassai basins. They are the only people
+in Angola who cultivate rice. Their tobacco, too, is greatly appreciated. The main native produce of the districts of Cazengo, Golungo Alto and Dembos is coffee ; nearly all of which is exported
+via Loanda.
+
+The different tribes constituting the Angola nation have
+Physioio^c nQ characteristic features distinguishing them from any
+other African negroes. Even the famous difference between the so-called Negro and Bantu stocks exists only in the imagination of writers who had no chance of making comparative observations west and south of the Niger.
+
+A pure tribal stock in countries where slavery, the slave-trade,
+and polygamy have existed for centuries, is an impossibility. Nevertheless, a few tribal features have developed and still remain. Thus,
+the Kisama people are rather medium-sized and slender ; have high
+foreheads and protruding cheek bones, small and flat noses, scarcely
+any calves. The Lubolo people are rather of a light bronze ; have
+coarse, angular skulls, and are medium-sized. The Songo people
+are tall, fine-built, have an open countenance and well-fed limbs,
+very much like the Ovi-mbundu of Bailundu. The I-mbangala,
+Mbondo, and Mbaka are mixed in stature, but rather slim, dark in
+complexion, and wiry. The Ngola, as a rule, are tall and spare,
+symmetric, oval-faced, with fine hands and feet, and dark complexion.
+
+Much depends on the occupation and food of the people. The
+most miserable native lad, born of rachitic-looking parents, develops beautiful proportions as soon as he is made to take wholesome
+exercise and gets plenty of appropriate food.
+
+Abnormities, like dwarfs, giants, albinos, occur here as well as in
+other parts. Blindness, caused by small-pox, is frequent. Insanity
+is not very rare. Longevity is not inferior to that of most countries ; but mortality among the young is much greater than among
+civilized peoples.
+
+
+*5
+
+
+Angolan Folk-Lore .
+
+The sleep-sickness is as common and as incurable as on the
+Kongo. Syphilis is found everywhere, but in its worst forms only
+near white settlements. Goitres are not uncommon in the highlands. Elephantiasis is frequent, especially in the cities of the coast,
+and more common among men than women. Malarial fevers trouble
+the natives as well as the whites ; but all those who cannot stand a
+certain degree of fever succumb while young. However, the havoc
+made by the fever does not seem to be greater, among the natives,
+than that caused in America and Europe by the sudden changes in
+temperature. Diseases of the breathing apparatus are largely due to
+defective clothing and disregard of hygiene ; diseases of the digestive
+organs to defective food and impure water.
+
+While, in the uncivilized state, one never meets with an exceedingly fat native, obesity is very common among the civilized blacks
+and mulattoes.
+
+II.
+
+ANGOLAN FOLK-LORE.
+
+“ I have often wished I could get inside of an African for an afternoon and just see how he looked at things, for I am sure our worlds
+are as different as the color of our skins,” says Prof. Henry Drummond in his “Tropical Africa.”
+
+This glimpse into the interior of an African’s mind — for more
+than one afternoon — is afforded by the study of African folk-lore
+and the perusal of this book. The professor had traveled in Central
+Africa, had scanned parts of its coast and highland scenery, and
+lived in contact with various tribes during several months, and this
+only made him realize the more his failure to reach and grasp the
+inner, the living, world of Africa.
+
+Now that the great geographical problems of the Mysterious
+Continent are solved; now that the solution of its greatest moral
+problem, slavery, has been vigorously undertaken by the whole of
+Christendom, and the European powers have assumed the position
+and duties of political guardians over portions of Africa greater than
+themselves, it behooves every member of Christendom — for every
+vote weighs in the balance of these vital questions — to form an
+intelligent opinion on the present status and possibilities of Africa’s
+teeming millions, in whose education he has his share of responsibility.
+
+Never have more momentous questions come before the bar of public opinion than these between European civilization — including the
+rum and cannon power — and the inoffensive native races, nations,
+tribes, and citizens of Africa. Yet the great court has hitherto
+heard the voices of only one side ; yea, the principal, the offended
+side, has not even been notified of the proceedings, much less invited
+to testify on its own behalf and advocate its own vital interests.
+
+Nobody will deny that before a person or a people can be judiciously dealt with, their character must be studied and considered.
+The character of an individual can be known only by prolonged
+intimacy, that of a nation by intimacy with typical representatives
+of its constituent classes, and by a thorough study of its literature.
+
+In Africa, where there are no facilities for intimacy with the
+natives, and where there is no v/ritten literature, the only way to
+get at the character, the moral and intellectual make-up, of the races
+and tribes, is to make a thorough study of their social and religious
+institutions, and of their unwritten, oral literature, that is of their
+folk-lore.
+
+Books of African travellers have been prominent before the public
+for the last two decades, but, as a rule, only such accessory parts
+of folk-lore as strike the sense of sight — native dress, arms, and
+strange customs — have been described, and seldom accurately at
+that. The essential constituents of folk-lore, those embodied in
+words, have been ignored, and the moral and intellectual world of
+Africa is, to-day, as much a terra incognita as geographical Africa
+was fifty years ago.
+
+The failure of African explorers in this respect is due, first of all,
+to their ignorance of native languages, then to their vagrancy ; but
+also to their lack of training in, or taste for, this youngest of sciences,
+
+Missionaries alone, whose duties imply an intimate acquaintance
+with native languages and habits, have thus far revealed to us a few
+leaves from the wonderful mnemonic archives of African nations.
+Missionary linguists, like Krapf, Rebmann and Steere, in East
+Africa ; Grout, Dohne and Colenso, Brincker, Kronlein and Buttner,
+in South Africa ; Bentley, Mackey and Goldie, Kolle, Schon and
+Christaller in West Africa, had to unravel the tangles of African
+grammar and lexicology before the collecting of authentic native lore
+could be successfully attempted.
+
+With one exception it is among these linguists, too, that we find
+the few authors who have cast some light upon our subject. Few
+folk-lorists are acquainted with their works, and none has, to our
+knowledge, gathered and compared the available material and arrived
+at some positive conclusions.
+
+Recently Dr. Haarhoff, now pastor of a Dutch church in Transvaal, published in German a dissertation on the Bantu and their
+folk-lore ; but the material on which he worked consisted of but a
+few volumes on South African tribes, and he often fell into the
+
+
+Angolan Folk-Lore. 17
+
+common error of predicating of the whole race, the Bantu, and even
+of all Africans, what he had found to hold true in several South
+African tribes. To this habit of unwarranted generalization must
+be attributed, very largely, the distressing inaccuracy and the contradictory statements with which books and articles on African
+topics are replete.
+
+Avoiding this error, we define our geographic field as Africa south
+of the Sahara. The people inhabiting Egypt, the Great Desert, and
+what lies north of it, belong to the Semitic and Hamitic families,
+of the white, red, or tanned complexion. The woolly-haired, but
+yellow-colored, race of the Ba-tua, including the Hottentots, Bushmen, and pygmies, we only refer to as compared with the Bantu.
+Thus our ethnologic field is confined to the black or negro race
+in Africa, generally divided into two families, the Nigritic, or pure
+negro, and the Bantu, or modified negro. Our studies, however,
+have led us to reverse this division, and to hold, as Lepsius did, that
+the pure and main branch of the black or negro race is to be found
+among the so-called Bantu, ethnically as well as linguistically, and
+that the so-called Nigritic family is but another branch of the same
+stock, linguistically modified by the admixture of Hamitic elements.
+
+Reviewing now the published material, we find that East Africa
+offers but few native tales, scattered in prefaces of grammars and
+in missionary journals. The collection of Suahili stories which we
+have seen is really one of Arabian tales in Suahili garb, and does
+not properly belong to our subject. The work of Almeida da Cunha
+on the customs of the Mozambique tribes is excellent as far as customs go, but it fails to give any specimens of native literature.
+
+Since the above was written, the Rev. W. E. Taylor has published
+a collection of Swahili Proverbs, the best of its kind in any African
+language.
+
+South Africa; is the best worked field in African folk-lore. As
+early as in the forties and fifties, Casalis and Grout gave important
+specimens of the Sutu and Zulu folk-lore. In the sixties, Bleek published his “ Reynard the Fox in South Africa/' containing translations of forty-two short tales and fables collected by German missionaries. They are mostly of Hottentot origin, and therefore out
+of our special sphere. From 1866 to 1870, Dr. Callaway printed at
+the Springvale Mission Press his “ Zulu Nursery Tales ” and his
+" Religious System of the Zulus/’ which are by far the most valuable works yet published on African folk-lore. The first contains
+a number of long as well as short tales and myths in the Zulu language, with an excellent English translation and suggestive comparative notes. The second treats in the same threefold and exhaustive
+manner the Zulu Tradition of Creation, Ancestor Worship, Divinax8
+
+
+tion, Medical Magic, and Witchcraft. Callaway’s notes prove beyond
+all doubt two important facts: (i) that the folk-lore of the Ama-zulu
+is intimately connected with that of most other South African tribes ;
+(2) that dozens of incidents and peculiar notions found in the Zulu
+tales are also familiar to the folk-lore of Polynesia, Asia, Europe,
+and America. Unfortunately Callaway’s books are rare, and they
+were brought to our notice only when the present collection was
+completed.
+
+In 188 6, Me All Theal, the historian of the Boers, published a second edition of his volume on Kaffir folk-lore, which proves that the
+subject is becoming popular in the young states of South Africa,
+although a journal of South African folk-lore had only a short life. In
+1886, too, some Herero tales appeared as a supplement to Brincker’s
+Grammar and Dictionary. To these Dr. C. G. Biittner added several others ; and this collection, kindly sent us by the author, was
+the first intimation we got of the importance of African folk-lore
+studies.
+
+In that collection, Dr. Biittner already doubted the correctness of
+Bleek’s double assertion, (1) that the Bantu have no animal stories
+or fables, (2) that they have none, because their languages have no
+grammatical gender. Bleek based his assumption (1) on the theory
+that mythology is a product of the corruption of language, (2) on
+the fact that among the scanty Bantu material at hand he had found
+few animal stories, and these, in obedience with his theory, he forthwith declared to be of Hottentot origin. Our Angolan animal
+stories, which are purely Bantu and totally disconnected from Hottentot lore, added to similar specimens of other Bantu nations published since Bleek’s day, demonstrate that the Bantu folk-lore is as
+rich in animal stories as that of any sex-denoting language.
+
+Proceeding to West Africa, we look at the great province of Angola, where Europeans have been settled for about four centuries,
+and we search in vain, through a pile of colonial publications, for a
+single native folk-tale. When intelligent Europeans have been four
+hundred years living and mixing with a native population and never
+recorded a single sample of the natives’ oral literature, is that not
+superabundant proof of its non-existence ? So it looks. Yet as
+soon as we intelligently and persistently searched for it, that literature revealed itself to us in amazing luxuriance. One of the dullest
+native boys was able, unaided, to dictate to us, from the book of his
+memory, over sixty tales and fables, a material equal to that of the
+largest collection of African tales ever yet published. The stories
+of this book do not represent one half of those already collected in
+manuscript.
+
+This completes the review of the folk-lore collections among the
+
+
+Angolan Folk-Lore . 19
+
+Bantu tribes, and we now pass to the Nigritic branch, which covers
+all Upper Guinea and most of the Sudan.
+
+In 1854 appeared S. W. Koelle’s “ African Native Literature,”
+containing twelve tales and fables and several historical fragments,
+all in the Kanuri, or Bornu, language. Bornu is situated on the
+southwest bank of Lake Tshad. This valuable collection was followed, in 1885, by Schon’s “ Magana Hausa,” giving the original
+and translation of eighty-one short tales and fables of Hausa. Most
+of these stories were drawn from the traditional lore ; one part was
+dictated by Dorugu, a Hausa lad who had been taken to Europe ;
+another collected by the native missionary C. J. John of the Niger
+Mission.
+
+In all these Sudanese productions it is relatively easy to distinguish the purely negro and African elements, which are identical
+with the Bantu lore, from the Semitic and Hamitic additions introduced with Islamism.
+
+On the folk-lore of Yoruba we have a description of customs and
+a collection of proverbs by the American missionary T. J. Bowen,
+published with his dictionary in 1858, and a collection of proverbs
+published by Abb6 Bouche in 1883.
+
+Much valuable material on the folk-lore of the Gold Coast can be
+culled from the journals of the Basel mission. J. G. Christaller, a
+member of this mission, has published a collection of three thousand
+six hundred proverbs, unfortunately without translation ; recently
+also a few legends with a German translation and notes. Nor should
+we forget F. R. Burton’s “ Wit and Wisdom of West Africa.”
+
+The folk-lore of Sierra Leone is partially illustrated by Schlenker’s
+“Temne Traditions,” published in 1861. In addition to a few historical traditions the author gives seven Temne fables, which differ
+in nothing from similar productions of the Bantu.
+
+Boilat’s Grammar of the Wolof contains a number of native tales
+and fables, and casts some light on the folk-lore of French Senegambia.
+
+For the Fulah group we only have a few historical and poetical
+specimens scattered in grammars and scientific periodicals.
+
+Summing up, it appears that the only collections of African negro
+tales, published as such, are Callaway’s for the Zulu, Theal’s for the
+Kaffir, our own for Angola, Koelle’s for Bornu, and Schon’s for
+Hausa. All the others are merely appendices to grammars or contributions to linguistic or ethnologic journals.
+
+The conclusions arrived at after a careful comparison of the whole
+material are briefly these : —
+
+(1.) Comparing the African folk-lore with that of other races, we
+find that many of the myths, favorite types or characters, and peculiar incidents, which have been called universal, because they recur
+among so many races, can also be traced through Africa from sea
+to sea. African folk-lore is not a tree by itself, but a branch of one
+universal tree.
+
+(2.) Though the influence of Portuguese and that of Arabian folktales is evident in many stories, still the bulk of the tales published
+is purely native. As to the foreign stories, they have been so well
+adapted to the already existing native lore of kindred nature, and intermingled with genuine African elements, that nothing remains of
+the exotic original except the fundamental canvas or skeleton.
+
+(3.) African folk-lore is especially rich in animal stories or fables.
+
+(4.) Considered in itself, the folk-lore of the Bantu appears to be
+remarkably homogeneous and compact, the most distant tribes showing often more identity in some, and similarity in other particulars,
+than those who are conterminous.
+
+(5.) After the exotic elements connected with Islamism are eliminated from Nigritic folk-lore, the latter is found to be virtually the
+same as the Bantu.
+
+(6.) The mythologies and superstitions of the various tribes are
+easily reducible to one common — the original — type, and this again
+is strikingly similar to the popular conceptions of the Aryan and
+other great stocks of mankind, when not identical with these.
+
+(7.) In the fables, or animal stories, each personified animal, while
+true to its real nature, shows the same character and is made to play
+the same role from one end of the field to the other.
+
+(8.) Among the Nigritic and Bantu tribes a great number of the
+stories have the peculiar feature of being used to account for the
+origin or cause of natural phenomena, and of particular habits, in
+animals as well as in men. Such stories are also met, though it
+seems less frequently, in the folk-lore 01 other races. They may
+properly be called the etiologic class of tales.
+
+The space allotted to this chapter forbids our fully elucidating
+each one of the preceding points, and for data we refer to the notes.
+Two points, however, ought to be dwelt on in this introduction :
+(1) the native classification of Angolan folk-lore, and (2) the part
+played by animals in African folk-lore generally. The native classification of Angolan folk-lore, as manifested in its terminology, strikes
+us as both practical and rational, and it may be applied as well to
+other national folk-lore of Africa, because the material is of the same
+nature throughout. For convenience we will number the classes,
+as followed in this work, and give the first place to fiction.
+
+(1.) The first class includes all traditional fictitious stories, or
+rather, those which strike the native mind as being fictitious. They
+are the fruit and food of the faculty of imagination and speculation.
+
+
+Angolan Folk-Lore.
+
+Their object is less to instruct than to entertain, and to satisfy the
+aspirations of the mind for liberty from the chains of space and time,
+and from the laws of matter. These stories must contain something
+marvellous, miraculous, supernatural. As personifying animals, the
+fables belong to this class. In native parlance these stories are generally called mi-soso. They are always introduced and concluded
+with a special formula.
+
+(2.) The second class is that of true stories, or rather stories reputed true ; what we call anecdotes. Strictly historical accounts
+form another class. Though entertaining, too, these stories are
+intended to be instructive and useful as a preparative for future
+emergencies. The faculties which prevail in these productions are
+memory and foresight combined, that is, experience, practical wisdom, common-sense. The didactic tendency of these stories is in
+no way technical, but essentially social. They do not teach how to
+make a thing, but how to act, how to live. These anecdotes are
+called, specifically, makay which in its widest sense means any kind
+of Logos , i. e.t embodiment of thought in words.
+
+(3.) Historical narratives are called ma-lunda) or mi-senduf and
+make a special class of history. They are the chronicles of the tribe
+and nation, carefully preserved and transmitted by the head men or
+elders of each political unit, whose origin, constitution, and vicissitudes they relate. The ma-lunda are generally considered state
+secrets, and the plebeians get only a few scraps from the sacred
+treasure of the ruling class.
+
+(4.) The fourth class is that of Philosophy, not metaphysical, but
+moral ; and is represented by the Proverbs, called ji-sabu. That the
+negroes are deficient in philosophical faculties can only be said by
+those who ignore their proverbs, which both in diction and depth of
+meaning, equal those of any other race. This class is closely related
+with that of the Anecdotes. Often an anecdote is but an illustration
+of a proverb, and a proverb is frequently an anecdote in a nutshell.
+The proverb is the product of the faculty of generalization, of getting
+at the principles, of inference and discrimination, combined with the
+gift of graphic and concise expression.
+
+(5.) The fifth class is that of Poetry and Music, which go hand in
+hand. The epic, heroic, martial, idyllic, comic, satyric, dramatic,
+and religious styles are ail represented, though not with equal prominence. As a rule, poetry is sung or chanted, and vocal music is
+rarely expressed without words. African negroes are the readiest
+extemporizers. Not even a child finds difficulty, at any time, if excited, in producing an extemporaneous song. Of course, not many
+pieces are really original, nor do artists abound. The proverbs,
+though never sung, combine as well as the worded song the elements
+of blank versification. In Ki-mbundu poetry there are few signs of
+rhyme, but many of alliteration, rhythm, and parallelism. Songs are
+called mi-imbu,
+
+(6.) .A sixth class is formed by the riddles called ji-nongonongoy
+which are used only for pastime and amusement, though eminently
+useful for sharpening the wits and strengthening the memory of
+adepts. Often the nongonongo is nothing but a game or play with
+words. Like the mi-soso they are introduced and concluded with
+traditional formulas.
+
+In African folk-tales, the animal world, as also the spirit world, is
+organized and governed just like the human world. In Angola, the
+elephant is the supreme king of all animal creation, and the special
+chief of the edible tribe of wild animals. Next to him in rank, the
+lion is special chief of the tribe of ferocious beasts, and highest vassal of the elephant. Chief of the reptile tribe is the python. Chief
+of the finny tribe is, in the interior, the di-lenda) the largest riverfish. Chief of the feathery tribe is the kakulu ka humbi , largest of
+eagles. Among the domestic animals the sceptre belongs to the
+bull ; among the locusts to one called di-ngundu. Even the ants
+and termites have their kings or queens. Every chief or king has
+his court, consisting of the ngolambole , tandala , and other officers,
+his parliament of ma-kota and his plebeian subjects, just like any
+human African soba..
+
+At the general assembly of the whole animal creation, in its proceedings and in the execution of its resolutions, every animal exercises the office for which it is qualified. Thus, in the fables, the
+elephant is equally supreme in strength and wisdom ; the lion is
+strong, but not morally noble, as in European lore, nor wise as the
+elephant. The hyena is the type of brutal force united with stupidity ; the leopard that of vicious power combined with inferior wits.
+The fox or jackal is famous for astuteness ; the monkey for shrewdness and nimbleness ; the hare or rabbit for prudence and agility ;
+the turtle or terrapin for unsuspected ability. The partridge, on the
+contrary, is silly and vain. The mbambi antelope is swift, harmless,
+unsuspecting : the ngulungu antelope {tragelaphus gratus or scriptus) is foolish and ill-fated. The turtle-dove is, as with us, symbolic
+of purity, chastity, and wisdom ; but the dog, on the contrary, personifies all that is mean, servile, and despicable.
+
+The myths and tales of the negroes in North, Central, and South
+America are all derived from African prototypes, and these can easily
+be traced in collections like the present one. Through the medium
+of the American negro, African folk-lore has exerted a deep and
+wide influence on the folk-lore of the American Indians ; and that
+of the American white race itself bears many palpable signs of Af-
+
+
+Literature of Ki-mbundu.
+
+rican inroads. This gives the study of African folk-lore not only an
+additional charm, but, for Americans, a decidedly national importance,
+and should induce American anthropologists to promote the study of
+negro folk-lor6 on either side of the Atlantic, by encouraging the
+collection and publication of more original material.
+
+III.
+
+LITERATURE OF KI-MBUNDU.
+
+P. Pacconio, C. J. Gentio de Angola, etc. Lisboa, 1642.
+
+A catechism in Ki-mbundu, translated from Portuguese. The
+second edition, printed in Rome, 1661, in Latin, Ki-mbundu, and
+Portuguese, bears the Latin title, “Gentilis Angolae,” etc. The
+third edition, printed in Lisbon, appeared in 1784. The fourth edition, of 1855, is given under another title below.
+
+Pedro Dias, C. J. Arte da lingua de Angola, etc. Lisboa, 1697.
+
+A very short, but pretty correct, sketch of Ki-mbundu grammar.
+We have seen only a manuscript copy of this rare work.
+
+Lisboa, 1804.
+
+Owing to its incorrectness, confused spelling, and erroneous renderings of words, this large dictionary, written by an Italian Capuchin, has never been of any use to students of Ki-mbundu.
+
+(Same author.) Collec^ao de Observances grammaticaes sobre a
+lingua bunda. Lisboa, 1805. Second edition, 1859.
+
+This grammar is no better than the dictionary of the same author.
+Both works are far inferior to those of the seventeenth century.
+
+F. de Salles Ferreira. Explicates de Doutrina Christa, etc.
+Lisboa, 1855.
+
+This is a new but very incorrect edition of the old catechism of
+1642, reproduced from the very faulty edition of 1784. It is now as
+rare as the older editions.
+
+Dr. Saturnino de Souza e Oliveira and M. A. de Castro Fran-
+
+Written by a Brazilian doctor, assisted by an educated native, this
+work is slightly better than that of Cannecattim ; but it is as short
+and rare as Pedro Dias’ work, which surpasses it in grammatical
+value.
+
+
+In 1864, Dr. Saturnino de Souza e Oliveira began the publication
+of his “Diccionario da lingua n’bundu.” A large part or the whole
+was printed, but never stitched, and only a few unique manuscript
+slips and printed pages of this valuable work are left.
+
+Vocabularies of Ki-mbundu have been collected by Dr. Livingstone, of whose work an unpublished copy exists in the Grey Library,
+Cape Town ; by the German explorer Lux, published as an appendix to his book, and by the Brazilian Dutra. The vocabulary
+of the latter was published without the author’s name, as an appendix to Capello and Ivens’ book " De Benguella ds terras de Iacca/’
+Lisboa, 1881. In 1887 it was republished, and again without the
+author’s name, by the then Bishop of Angola and Congo, Don
+Antonio Leitao e Castro. The original manuscript is, for the present, in my possession.
+
+About 1883, Sebastiao de Jesus completed a “ Diccionario
+n’bundo,” which was not without value, but the author died before
+he could find a publisher. It still exists in manuscript, but is not
+worth publishing now.
+
+
+The first primer in Ki-mbundu. A Portuguese translation accompanies the Ki-mbundu words.
+
+Society. London, 1888.
+
+A translation of John’s Gospel into the Loanda dialect of Kimbundu.
+
+Heli Chatelain. Vocabularies of Mbamba and LT-mbangala (with
+translation in Portuguese, English, German, and Ki-mbundu), published in " Zeitschrift fur Afrikanische Sprachen.” Berlin, 1889.
+
+mar). Geneva, 1888-89. (Price $1.50.)
+
+Written in Portuguese, but with English rendering of examples,
+so that with its help, an English student, too, can learn Ki-mbundu.
+
+Heli Chatelain. Grundziige des Kimbundu oder der Angola*
+Sprache. Asher & Co. Berlin, 1889-90.
+
+This Germarl edition has no practical exercises, as the Portuguese
+edition ; but it is enriched by many additional notes, and by tables
+comparing Ki-mbundu with the six principal West Central African
+languages. (Price 3 shillings, or 75 cents.)
+
+
+Pronunciation of Ki-mbundu. 25
+
+J. D. Cordeiro da Matta. Jisabu, jihengele, etc. Lisbon, 1891.
+
+A collection of proverbs and riddles in Ki-mbundu with Portuguese translation. The author, a full-blooded and self-taught native,
+published this book, and the following, at his own expense.
+
+J. D. Cordeiro da Matta. Cartilha Racional. Lisbon, 1892.
+
+A Ki-mbundu primer without Portuguese translation.
+
+Portuguez. Lisbon, 1893.
+
+The best vocabulary of Ki-mbundu yet published.
+
+Note. — Most of these books may be procured through H. Chatelain.
+
+
+IV. •
+
+pronunciation of ki-mbundu.
+
+
+Vowels .
+
+The vowels are pronounced as in Italian. The letters e and 0
+have the open sound, though not quite so much as open e and 0 in
+most Romanic languages.
+
+a like the English a in father , far .
+e “ “ at in fair , hair.
+
+* i “ “ ee in feet , heel.
+
+o “ “ vowel sound in fought , taught.
+
+*u ki “ 00 in fool ’ shoot,
+t “ Portuguese im, almost like English ing.
+
+
+* Semi - Vowels.
+
+(1.) Before a vowel, in the same syllable, i and u become semivowels, and are then pronounced like English y and w , thus : —
+
+
+ue “ we
+ui " wi
+uo “ wo
+uu “ wu
+ie “ ye
+ii “ yi
+to “ yo
+iu “ yu
+
+
+In Ki-mbundu every syllable is open, and every word has as many
+syllables as vowels (not including semi-vowels).
+
+Bearing these rules in mind, words like the following need no
+accent in order to be read correctly : —
+
+
+'2t)
+
+
+iiii
+equals
+ii-ii
+equals
+yiyi
+nia
+equals nya
+uiii
+u
+ui-ii
+
+«
+
+wiyi
+nie
+u
+nye
+uiua
+u
+ui-ua
+tt
+wiwa
+nii
+tt
+nyi
+eii
+
+M
+
+e-ii
+u
+eyi
+nio
+u
+nyo
+muiii
+a
+tnui-ii
+u
+mwiyi
+niu
+u
+nyu
+kizuua
+a
+ki-zu-ua
+it
+kizuwa
+iau
+it
+ia-u
+u
+yau
+
+Exception : When, however, the accent rests on i or «, the latter
+keeps the full vowel sound. In this case the accented i or u is
+written with an acute accent, e. g.t Kuijia, kizua .
+
+Sometimes these and similar words are written and pronounced
+kuijiiay kizuua (pronounce: Kwijiyay kizuwa ), in which case the
+reduplication of the letter takes the place of the accent.
+
+(2.) In rapid speech, unaccented e and 6 before a vowel, without
+intervening pause, become semi-vowels i and a. However, this
+change of sound is not usually shown in writing when e and o are
+final, e. g., pange ami pronounce pangi ami or pangyami , ki momo &
+pronounce ki momu $ or ki momwi.
+
+Diphthongs.
+
+Final ai, auy eif euy out though pronounced in rapid speech like
+diphthongs, are in reality two full vowels ; hence two syllables.
+E. g.y sai is sa-i, dikau is di-ka-u, and according to the rule the
+accent rests on the penult.
+
+When an enclitic is added, the accent is shifted to the next vowel,
+
+In kuzaukat for instance, the accent is or i'u (kuzauka) because
+that is the penult (ku-za-u-ka).
+
+In ainly both a and i have the same tonic value, because the
+accent falls on the last syllable, not as usual on the penult ; thus
+a-i-ut. But for this accent on the last syllable, the word should be
+pronounced a4-ue.
+
+Consonants.
+
+Those sounding as in English are b,fy v, hy /, ny z.
+
+In the standard dialects of Ki-mbundu, py tf k are pronounced as
+in French or Italian, i. e.y without the explosive h generally heard
+after them in English.
+
+The letter s represents the harsh sound, never the soft z sound ;
+as in son , not as in has.
+
+The letter g is always hard as in angery never soft as in angel.
+
+The letter x represents the English shy never English x.
+
+The letter x represents the English ch or tsh. It occurs only in
+dialects of the interior. In the Mbaka dialect it always stands in
+the place of a Loanda xt e. g., Loanda, maxima; Mbaka, maxima.
+In the Bantu mother-tongue this x was a t , mutima.
+
+
+Pronunciation of Ki-mbundu. 2 7
+
+The letter/ has the sound q£ the French /, which in the English
+words azure and measure is symbolized by z and s.
+
+The letter d before -i represents a peculiar African sound, which
+in various tongues is written l, r, d , but in pronunciation is never
+exactly that. In Loanda, it is pronounced almost like simple (soft)-
+Portuguese r; in the interior it sounds almost like d. For English
+people it is safest to pronounce it like d.
+
+In all other cases d is pronounced as in English.
+
+Hitherto this di has been written ri, which is also correct. It is
+a parallel of the Spanish b and v.
+
+Syllabization.
+
+For the correct pronunciation and understanding of Ki-mbundu,
+it is essential to know the rules that prevail in the syllabization of
+words.
+
+(1.) All syllables are open ; that is, they end with a vowel.
+
+(2.) The letters m- and n - are never pronounced with the preceding vowel, but with the following letter, whether it be a vowel or a
+
+(3.) Every syllable can have only one vowel ; but it may contain
+a semi-vowel preceding the full vowel, e . g., i-mbua , ki-mbia-mbia .
+
+Tonic Accent.
+
+(1.) The general rule is that the tonic accent rests on the penult
+
+(2.) Exceptions are indicated by an acute accent, e. g., bandy
+divulu.
+
+When the accent rests on the last syllable of a genuine Ki-mbundu
+word, one may depend on it that there has been an apocope of part
+of the original word. When the accent is on the antepenult, the
+word is of foreign origin.
+
+In polysyllabic derived verbs, however, it is admissible to put a
+slight tonic accent on the root of the verb ; e. g, zangula ; but zangula is equally correct.
+
+(3.) Monosyllabic words may be accented or not. When they are
+not accented, they are pronounced as one word with the preceding
+or the following, the sense indicating to which they belong. If
+they belong to the preceding word, the accent of the latter passes
+from the penult to the last syllable ; e. g.} Ngana * ngo is pronounced
+ngandngOy and kutunga * nzo is pronounced kutunganzo.
+
+Enclitic particles (not nouns) are tied to the preceding word by a
+hyphen ; e. g., Ngi bane-kin. kut ala-mu.
+
+When a monosyllabic word is not to be pronounced enclitically, it
+is distinguished by an acute accent ; e. g.. Kid, id, id.
+
+
+Diacritic Signs.
+
+(i.) The acute accent indicates the tonic accent, when this is not
+on the penult, or when a monosyllabic word is pronounced separately
+from the preceding or the following, e . g., divulu , kid.
+
+(2.) The grave accent is used to distinguish words which, though
+differing in meaning, could otherwise not be distinguished in writing. Thus the locative, a, is distinguished from any other a by the
+grave d, e. g.y Ngdbeka , uakala , mud Bangu.
+
+(3.) The circumflex distinguishes, graphically, words which, in
+spoken language, are pronounced with a different intonation. This
+a foreigner will hardly ever be able to learn, and it is of no practical
+use to explain it here ; e. g, Njila , path, njilay bird, mbambix cold,
+mb&mbiy deer. Perhaps it may help some if we tell them to pronounce the word with circumflex rather slowly and with equal stress
+on both syllables, as is done in French. The word without circumflex to be pronounced as usual.
+
+The negative ki is pronounced longer than ki meaning when. The
+suffix - e of the third person singular is distinguished by circumflex
+and a prolonged sound from -/suffix of the second person singular.
+So is ~d suffix of the third person plural from - d demonstrative.
+
+(4.) The trema in e and o indicates the crasis, or contraction of
+two vowels, with or without ellipsis of an intervening consonant,
+e. g.y ngexana for ngaixana (a + i=e), molungu for maulungu (a + u=o)
+ngobana for nga ku bana {nga 'u band).
+
+(5.) The apostrophe indicates the dropping of a letter, e. g.f 1 ngo
+instead of ingo , mu 'amenemene instead of mu kamenemenex ngu * u
+bana instead of ngu ku bana , mon a mutu instead of mona a mutu.
+
+The apostrophe also distinguishes k' a negative from any other
+kax e. g.y Kabanga , he, she, it, does not ; kabanga , he, she, it, does.
+
+When the word is negative the first syllable is pronounced longer
+and higher ; but the tonic accent remains as usual.
+
+(6.) The til over any vowel makes the same nasal, e. g.t /, pronounce ing. This i is a contraction of inga. It occurs only in the
+Mbaka dialect, and is the only nasalized vowel in the standard dialects of Ki-mbundu.
+
+
+FOLK -TALES OF ANGOLA,
+i.
+
+
+NGANA FENDA MARIA.
+
+Version A.
+
+
+I often tel] (of) ngana Fenda Maria, beautiful none more beautiful.
+
+
+She lived on, and gave birth (to) a child. Child hers, and she her called also
+ngana Fenda Maria. Mother hers, if (she) was beautiful the ninth, the daughter
+was beautiful the tenth.
+
+
+Mother hers then sent to Portugal to buy a mirror that speaks.
+
+
+Morning every, when she had washing herself and dressing, she went
+finished
+to the mirror hers, and asked the mirror :
+
+
+** O mirror mine t O mirror mine I am I beautiful or
+am I ugly?” — “Not at all; thou art indeed; in world this there is not
+beautiful
+a person, beautiful equal with thee.”
+
+
+Days all, when she had finished dressing, she then questioned the mirror hers*
+
+
+The mirror and (it) her answers the same.
+
+
+Day one, child heis. Miss Fenda Maria the daughter, and
+grown up already, mother hers when had gone out, the daughter opens the door
+of the room in which is the mirror, and she looks and looks at herself in it
+
+
+When she had done looking at herself, then she goes out.
+
+
+30 Folk-Tales of Angola .
+
+
+Day the other, mother hers, when she had done dressing, then she went
+to the mirror hers to it question. The mirror then it her
+answers: “ Leave it alone, ngana Fenda Maria. Thou art beautiful indeed;
+but, if thou art beautiful ninth, daughter thine, who came yesterday in here, she is beautiful
+tenth.” Up to days three, when she went to the mirror, the mirror
+
+
+(it) her answered the same.
+
+
+The mother then says thus : “ No ; daughter mine in beauty has
+me surpassed. If I let pass this, the daughter mine will from me
+take the men. As it has happened like this, daughter mine, I will
+her remove from house this.” The mother then ordered to be made
+a house, and khe put in daughter hers with nurse hers, both of them. The
+mother then orders to block the doors and windows, and to make
+only a small hole, through which they shall pass the food and water.
+
+
+The young lady this and nurse hers then stayed in house in there
+a lot’* of years.
+
+
+Day one, ngana Fenda Maria the daughter had a craving
+td eat sugar-cane, and she tells nurse hers : ** O nurse mine ;
+
+
+1 have a craving to eat sugar-cane. Go to the beach, there for me
+sumbile muenge.”
+
+buy sugar-cane.”
+
+
+The nurse then (she) her asks : “ But, mistress, I shall buy how the
+sugar-cane, but no door through which I (can) pass ? ” The mistress hers then
+
+
+(she) her tells : ** Let us make a hole in the side of wall
+that thou mayest go out.” And they make the hole. The nurse then goes out,
+goes to buy the sugar-cane.
+
+
+When she had come ngana Fenda Maria and was eating the sugar-cane,
+
+(back),
+while striking the knife at the sugar-cane,
+i
+it (the
+knife)
+
+
+mu
+her
+hits on a finger ; the knife
+and (it) her wounds-24
+
+
+Ngana Fenda Maria then calls nurse hers: “O nurse I O
+
+
+nurse I I thought face mine alone is beautiful ; but, as lam beautiful
+in the face, (so) also blood mine is beautiful.”
+
+
+A young man, who was passing outside, when he heard in the house
+speaking thus, he outside then answered : ** I have thee heard,
+young lady, who hast spoken in house this, that as is beautiful face thine,
+also blood thine too is beautiful. But, if thou hadst seen Mr. Fele
+
+
+Milanda,27 so much is he beautiful, (that) the demons have him hidden in Ikandu.”
+
+
+Ngana Fenda Maria, when she heard outside that one her answers thus,
+then she begins to think of ngana Fele Milanda, who her surpasses in
+beauty, so much is he beautiful, (that) the demons have him hidden in Ikandu.
+
+
+Day that ngana Fenda Maria not ate more.
+
+
+Day this same, then she gathers things hers all, and she them puts into
+
+
+“ kalubungu ” hers, and sends nurse hers to the market to there her
+buy a lot of kola-nuts 32 and ginger. The nurse and (she) her
+buys the kola-nuts.
+
+
+In the night, they all indeed are asleep already, ngana Fenda Maria, in
+bed here takes the “ kalubungu ” hers, and catches (her) soles on road, j
+
+
+She is going to ngana Fele Milanda.
+
+
+And she walks, walks : she completes month one, months two ; she walks
+
+
+32 Folk - Tales of Angola.
+
+
+on and on. When she completed the ten (of) months, she meets an old woman full (of)
+
+
+leprosy; there is no one to it cure. Ngana Fenda Maria and she her
+cures; she her washes, she her dresses wounds, and her puts on the remedy.
+
+
+The old woman then goes to sleep.
+
+
+While the old woman sleeps, ngana Fenda Maria (and) (she) her
+cooks the fish and the mush. When they are ready then she awakes the old woman ;
+and the old woman eats. When she had done eating, the old woman then her
+gave the instructions: “Where thou art going thus, Fenda Maria, thou
+hast completed already ten (of) months. There is for the lacking months two
+for arriving. But, when thou shalt there arrive, when thou there findest the lions,
+leopards,- elephants, wild beasts, wild beasts all over; that are at the door; asleep
+as though they were dead, don’t be with fear. Pass beyond them, to enter the
+kololo.44
+
+hall.
+
+
+When thou findest the lion great that has open his mouth, put (thy) hand
+into mouth his, pull out from it the keys: ten keys and keys two (12),
+for the ten rooms and rooms two.
+
+
+(Then) go to the yard, take out thence the ten jugs and jugs
+two, them carry and get them up up - stairs. And thou shall cry,
+thou shalt fan, cry, fan, until the ten jugs and one (the xith). The
+twelfth when it gets full, when it runs over to the ground, (then) ngana Fele Milanda
+ufukunuka.”
+
+will revive.”
+
+
+Ngana Fenda Maria then .goes her And she finds an old woman other
+way.
+
+
+— arm one, leg one, one side of face and one side of
+body — she is pounding. Ngana Fenda Maria greets, takes from
+the old woman (her) pestle. Ngana Fenda Maria then pounds the dried cassava,
+and sifts ; makes the flour, gives (it) to the old woman.
+
+
+The old woman then (she) her thanks and (she) her gives instructions,
+like those her gave the old woman first.
+
+
+Fenda Maria takes (her) soles to the road, walks.
+
+
+When there was her lacking already days two only, then she hears in heaven,
+there is (one) her calling: “Fenda Maria! Fenda Maria! thou art going
+where ? ” Fenda Maria turns hither, turns thither : there is no
+person. She is about to go on, and they her call again ; np to thrice. The
+fourth time, Fenda Maria then stands (still) and speaks, saying: “Thou,
+who art me asking ! whether thou be a person, whether thou be a ghost, whether thou be
+the Lord God, I am going to Mr. Fele Milanda, so much he is beautiful,
+
+
+{that) the demons have him hidden in Ikandu.” — “Truly, indeed, Fenda
+
+
+Maria, canst thou go to Fele Milanda?” — “I am going.” — " Thou art going ? ”
+
+
+— “I shall go.” — “Then, know this, that lam the Lord God, that am
+to thee speaking. The old women two, whom thou hast met on road, (were) I myself.
+
+
+1 had transformed myself to see, whether thou art one to stand hardship.
+
+
+I have thee seen ; as thou art one, that stands hardship, thou shalt not get lost. As
+things are like this, thou, the hardship thou hast it endured already, thou hast walked
+ten months and months two, not eating, not drinking; food thine (was)
+
+
+kola-nut, drink thine (was) tobacco.6* Since thou leftest home yours,
+thou didst not sleep, walking night and day- I thee tell this.”
+
+
+Polk - Tales of Angola .
+
+
+And he her gives the instructions as those that her gave the old women.
+
+
+He her gives too a “ kalubungu,” in order that all things, she may need, she throws the
+box on ground ; out of the box then there will come out all things
+i andala.
+
+6he. wants.
+
+
+Ngana Fenda Maria, when she was already about to arrive, the house she is
+it seeing already, she meets a lake which are surrounding birds ; ® and
+she sits down on shore of lake.
+
+
+While she is' seated, she falls into a nap, and begins to have a dream :
+
+
+From the lake comes- out bird one; it comes to her tell: “Ngana
+
+
+Fenda Maria, take care that thou not forget the instructions, which to thee gave
+the Lord, God.” She then answers : 41 No ; I 6hall not forget
+ku.” 68
+
+them.”
+
+
+Fenda Maria then starts out of (her) sleep, and goes on.
+
+
+When she arrived, she found a palace great. Outside it was full
+
+
+(of) wild beasts and wild beasts. She, fear takes hold on her again ; (the)
+
+
+heart is her failing. Fenda Maria enters into the hall, finds
+the lion big, that opens (wide) his mouth. And she puts in (her) arm,
+pulls out the ten (oi) keys and keys two, for the ten (of) rooms
+and rooms two.
+
+
+She opens a room : white ladies are in it ; in another : mulatto ladies ;
+in another: white men; in rooms others: chairs, tables,
+metal-ware, lots of things. In the room last, in it she found
+a white man, asleep in bed, beautiful there is no more beautiful.
+
+
+Fenda Maria then goes to the yard ; finds there a lot of people
+asleep : the slaves of ngana Fele Milanda.
+
+
+Fenda Maria carries the ten jugs and two, goes up
+with them up-stairs, and weeps, fans, weeps, fans, till she had filled
+ten of the jugs and one and a half. When there lacked one half (only)
+
+
+for Fele Milanda to revive, she hears outside : “ Who will buy a
+slave with water ? ”
+
+
+Fenda Maria goes to the window; calls the one, who is selling the
+slave. The seller of the slave then goes up up-stairs. Fenda Maria then
+him tells : “ I have not any water. The water, which I have,
+is tears. If them wantest, speak.” The seller of the slave then answers:
+
+“ Ngandala.”
+
+“ I want.”
+
+
+Fenda Maria then gives the seller of the slave and his people the tears ; they
+then drink. The other (tears) then she with them fills (their) jugs.
+
+
+Fenda Maria takes away slave hers ; she goes with her to the yard; she her
+washes, she her dresses, and she her calls Kamasoxi.66
+
+
+She goes with her up-stairs, and she her commands : “ Kamasoxi, slave mine,
+weep in jug that. When it is about to be full, me arouse.”
+
+
+Fenda Maria then reclines on the table. While yet she was reclining,
+she went to sleep.
+
+
+Kamasoxi weeps, fans, weeps, fans. When got full the jog,
+when it ran over on the ground, Fele Milanda revived.
+
+
+When saw this Kamasoxi, he himself, Fele Milanda, comes where
+
+
+36 Folk- Tales of Angola .
+
+
+Kamasoxi (was), he her gives a hug, saying: “Thou hast me given (saved)
+
+
+life.” They start, go into the parlor.
+
+
+Kamasoxi goes out, goes to the room, where is Fenda Maria. She her
+calls : “ Kamaria,” devil, get up.” Fenda Maria gets up.
+
+
+When sees this Kamasoxi, she says : “ Go, devil Kamaria, go to warm
+the water for master thine (male).”
+
+
+Fenda Maria thought; goes out, goes to the yard, warms the water;
+puts (h) into the bath-tub up-stairs, returns to the yard.
+
+
+Fele Milanda had been (thus) already months four, when he asked Kamasoxi :
+
+
+“O Kamasoxi, Kamaria thou her boughtest where?” Kamasoxi says:
+
+
+“I her bought in Portugal.”
+
+
+Day one, Fele Milanda ordered to get ready clothes his for
+to go to Portugal, to visit relatives his.
+
+
+When he was about to go he orders to form in line slaves his all. He them tells :
+
+
+“ I am going to Portugal. Speak out all that you wish.” They all indeed
+then ask everything they desire.
+
+
+Fele Milanda then tells Fenda Maria: “Speak also, Kamaria,
+whatever thou wishest.” Then Fenda Maria: “I, master, I do not want
+anything (now) ; for I, all that I wish — directly I shall thee find on
+terrace, and there I thee will bring a list of all things I wish.”
+
+
+Fenda Maria makes the list: A razor sharpen-thyself, a stone speaker
+of truth, a chain, and dolls two, a lamp Hgbt-thyself, and
+a mirror look-thyself. ” **
+
+
+Ngana Fele Milanda then goes to Portugal to visit relatives his-
+
+
+When he had arrived in Portugal, mother his, father his, and relations his all,
+they received son theirs : feast-making, eating, drinking, playing.
+
+
+Doing (after) days, Fele Milanda then related to mother his troubles
+his all, and he her told saying: “She who me saved life (is)
+
+
+a woman of negro, name hers (is) Kamasoxi ; but she has a slave hers
+called Fenda Maria, who is beautiful exceedingly. She has me
+sent to for her buy: A lamp light-thyself, a razor sharpen-thyself, a stone
+
+■dia muambi a kidi, lubambu, ni an* a mixaxiniu kiiadi, ni lumuenu
+teller of truth, a chain, and dolls two, and a mirror
+look-thyself . ” The mother of Fele Milanda thought over the things these, which had sent
+to buy Fenda Maria, and she asks son hers: *‘0 son mine! that
+
+
+Fenda Maria, (is she) white or black ? ”
+
+
+she her bought where?” — “Kamasoxi said that she her bought
+in Portugal.” — “Thou, son mine, be not foolish. In Portugal where thou wast
+born, heardest thou (ever) that in Portugal they are wont to sell there slaves?”
+
+
+— “ No.” — “ Know this, that Kamasoxi has thee deceived. Fenda
+
+
+Maria, she (is) the mistress ; Kamasoxi, she (is) the slave. The things which
+ordered to buy Fenda Maria, (are) for killing one’s self. Things these in
+
+
+Portugal here, they not them sell for nothing ; they cost money much.”
+
+
+Fele Milanda, when he finished spending months four in Portugal, then
+he bought the things all, that him ordered slaves his. Those, that him ordered
+
+
+Fenda Maria, then he them forgets.
+
+
+The steamer, when it had gone already days four in Ocean, Fele Milanda
+remembered the things that him ordered Fenda Maria, and he begged
+
+
+38 Folk -Tales of Angola.
+
+
+the captain of the ship to go back. The captain would not.
+
+
+Fele Milanda then (he) him paid a thousand ; the captain then agrees.
+
+
+And they return again to Portugal, to fetch things those. In the shop (store)
+
+
+where he them found, then they him demand thousands four, and he gives the money.
+
+
+Fele Milanda then embarked in the ship.
+
+
+When he arrived at home his, all indeed they him greet ; and
+he spends days two. On the third, then he calls slaves his all, and he
+them gives things theirs, which they had sent for. And he takes a pair of earrings
+of gold, of diamonds, wristlets of gold, and a finger-ring of gold, of diamonds,
+and he gives Fenda Maria saying: “Take thir.g3 these, which to thee sent
+
+(them)
+
+
+mother mine in Portugal, namesake thine.”
+
+
+Fenda Maria then takes things those ; but Kamasoxi envy
+
+
+(it) her grasped.
+
+
+In the evening, Mr. Fele Milanda then goes to the balcony; Fenda
+
+
+Maria then (she) him follows up to the terrace, and asks for things hers
+which she had sent for. Fele Milanda then (he) her tells a lie, that no, he not
+them brought Fenda Maria then speaks, saying : “ Slaves thine (own), thou hast
+them brought all, that they sent for ; but to me, because I (am) the slave of wife
+thine, thou wouldst not to me brings all that I sent for. Forsooth, wast thou with
+fear, lest I thee pay not?” Fele Milanda then took the things.
+
+
+and he her gave them. Fenda Mans then received (them) and she him
+asked, saying how much ? Fele Milanda then he her told saying : ** The
+money that cost things these, thou canst not it give.”-—
+
+
+“Speak; the same, even if (it be) thirty thousands, I shall them give.”
+
+
+Fele Milanda thought saying: “The slave has thirty (of)
+
+
+thousands, but mistress hers has not them? having cloth one
+only?” Fele Milanda then tells Fenda Maria saying: “Go,
+k’ufute kima.”
+
+pay not * anything.”
+
+
+Fenda Maria then thanked (him).
+
+
+At night — all indeed were asleep already — ngana Fenda Maria —
+
+
+as they her had given a house alone to herself with an old woman who used to sleep with her
+
+
+— Fenda Maria then set down on top of table things those which to her
+had brought Fele Milanda, and she seats herself on a chair. She has knocked already
+kalubungu hers on ground. Out come dresses elegant, adorned with gold
+and gems of brilliants. She dressed (as) none else could dress.
+
+
+And she began to plead (before) things those, that were on top of table,
+and told trouble hers all, which she went through for Fele Milanda
+to revive. When she had finished, then she said : “If (is) a lie what I said,
+eie, tadi dia muambi a kidi ni an’ a mixaxiniu, o navaia di-zuike
+thou, O stone teller of truth and (ye)
+
+
+let it me cut off neck ; and the chain may it
+dolls, the razor sharpen-thyself
+me hang.” When she finished
+speaking, the lamp lit itself; the razor sharpened itself on the stone
+teller of truth ; the chain hung itself on high. The chain,
+as it was about to her hang, the razor about to her cut off the neck,
+the dolls then seized things those.07
+
+
+However, while ngana Fenda Maria was doing things these, the old woman
+
+
+In the morning the old woman then held her peace. Fenda Maria
+did as much as nights three. On the fourth, in
+was awake.
+
+
+then she it
+the morning, the old woman then told Fele Milanda all that was going on.
+
+
+Fele Milanda then told the old woman, saying : “ At night, when thou closest
+the door, do not it lock with the key.”
+
+
+Fele Milanda, at mid of night, then he goes down, and hides,
+and begins to peep through a crack of the door. Fenda Maria
+dressed, and did as she used to do always, and related troubles
+hers all, and said : “ Say thou, Kamasoxi, speaking truth, thou, who didst save
+
+
+Fele Milanda (his) life, the key of silver of the room of Fele Milanda,
+why didst thou not it deliver? If (is) a lie, what I said, ye, that are on
+top of table, me hang ! ” Things those, when they were about to her
+kill, Fele Milanda opened the door, entered. Fenda Maria went into
+a swoon; Fele Milanda also went into a swoon. The old woman then she
+for them makes medicine ; they then wake up.
+
+
+Fele Milanda wanted to carry Fenda Maria up-stairs with
+dresses hers, which she had on ; but Fenda Maria refused, and put
+things hers into kalubungu hers ; and she went to bed.
+
+
+Fele Milanda, when he arrived upstairs, then he made letters of
+kutuma kukuvitala o makamba me pala ku di mosalela 100 ku bata die.
+
+sending to invite friends his for to take breakfast at house his.
+
+
+In the morning then he sent the letters these ; then he ordered to put
+coal-tar in a barrel.
+
+
+They all indeed, when they had come to breakfast, when they were eating,
+
+
+Fele Milanda then asked Kamasoxi: “The key of the room
+where (is it) ? ” Kamasoxi said: “No; I not found there a key.” —
+
+
+“Tell please all through which thou wentest for to me rescue from Ikandu.'*
+
+
+Kamasoxi not a word 1
+
+O Fele Milanda inga utangela o makamba me ioso iabiti mu
+
+Fele Milanda then told friends his all that happened in
+the nights four with Fenda Maria ; and he ordered to call Fenda
+
+
+Maria from the yard,
+
+
+Fenda Maria then came. Fele Milanda then (he) her asks for the key,
+
+
+Then Fenda Maria; “I, master, not do it know. Whom it behooves
+to it know (is) mistress Kamasoxi.” With being urged by Fele Milanda
+then she takes out the key, and she it delivers, and tells all that happened
+with Kamasoxi, and what she went through, she Fenda Maria, to
+rescue Fele Milanda from Ikandu.
+
+
+The white men all indeed, laugh ye 1 (applaud). Kamasoxi, shame her seized.
+
+
+Fele Milanda called young men two. They lift Kamasoxi, and
+they her put into the barrel of coal-tar, and they it set on fire. Kamasoxi
+then burns, gets charred; a little bone flies up, alights on Fenda Maria.
+
+
+Fenda Maria then rubs herself with it. Fele Milanda then married (with)
+
+
+Fenda Maria; they went to Portugal to kinsmen his, and returned. And
+they lived on: “They eat cat-fish, they sup on musolo-fish.”u()
+
+
+I have told little story mine. Whether (it be) good or bad, I have finished.111
+
+
+NGANA FENDA MADIA.
+
+Vers io n B.
+
+
+kiavulu.”
+
+inga upapumuka.
+
+
+NGANA FENDA MARIA.
+
+Version B.
+
+I often tell of three white ladies, sisters, who were living in the
+forest. One day, one of them, the youngest, was at the window eating sugar-cane, and she cut her finger.
+
+The shepherd 113 was passing by, and the white lady tells him :
+“ Look, please, thou shepherd ! the white thing that looks like the
+red thing, the red thing that looks like the white thing.” “ Just
+like ngana Vidiji Milanda, because of (his) great beauty, wizards have
+bewitched him on the side of shore.”
+
+The kdy asked the shepherd, saying, “To walk to the place where
+ngana Vidiji Milanda is, one walks days how many?” “One walks
+eight days. On the ninth day thou shalt arrive (at the place) where
+is ngana Vidiji Milanda. For him to revive, thou shalt weep (full)
+ten jugs and two.”
+
+Ngana Fenda Maria then walks eight days. On the ninth, when
+she arrived (at the place) where (was) ngana Vidiji Milanda, then
+she began to weep (full) the ten jugs and two.
+
+When she reached the ten jugs and one, there came passing a
+person, who was selling a slave for a jug of water. Ngana Fenda
+Maria then calls him ; she buys the slave for a jug of tears, and
+begins to weep full the jug she had bought the slave with.
+
+When she had completed the ten jugs and one and a half, then
+she calls the slave : " O Kamasoxi ! come ! weep into this jug.
+When it begins to get full, wake me up, because my eyes are paining me much.”
+
+The slave then begins to weep. She cared nothing about all that
+her mistress had told her. She filled the jug; ngana Vidiji Milanda
+then wakes up.
+
+When he awoke, he said to her : “ Embrace me, my wife.” She,
+instead of to him saying, “ I am not thy wife ; thy wife is she yonder
+who is asleep,” said : “ Embrace me, my husband ; ” and they go arm
+in arm (she) with him* ngana Vidiji Milanda.
+
+Kamasoxi became Fenda Maria, (and) Fenda Maria became the
+slave, and she called her Kamaria. And they go to build their house
+where they lived in fine style.
+
+One day ngana Vidiji Milanda called all his slaves, and says to
+them : “ I am going to Portugal. You, my slaves, speak out everything that you want, in order, when I come,120 to bring (these things)
+to you.” The one said : “ I want a cord (necklace) and fine clothes.”
+
+
+dia Muambi-a-kidi.”
+
+
+muxima ue.”
+
+
+Another said: “I want copper beads121 and earrings.” Another
+said to him : “I want finger-rings and fine beads.”
+
+When he called Kamaria, he asked her : “ Thou desirest what ? ”
+And she says to him : " I, master, want not clothing, for the slave
+cannot wear fine things. Master, these are the things that thou
+mayest bring me : lamp light-thyself, razor whet-thyself, scissors
+cut-yourselves, and stone the speak er-of -truth.”
+
+Ngana Vidiji Milanda then tells his wife : “ Our slaves, they all
+of them asked for fine things to wear. Kamaria asked not for things
+to wear, because of what ? ” His wife then says to him : " Kamaria
+(is) a bush-slave.123 She does not know all the things that the others
+asked. Thou, do not bring her the things that she asked ; for she
+does not know what she says. She is a bush- woman.”
+
+Ngana Milanda tells her : " No, they all, I will bring them all that
+they asked ; Kamaria, too, I will bring her everything that her heart
+told (ordered) her.”
+
+Ngana Vidiji Milanda then goes to Portugal, where he stayed all
+the days that he wished. When he was about to come back, he
+goes to ask after all the things that Kamaria had asked him for.
+He did not find them. Then he went to another city to look there
+for the things that his slave had sent him for, and he finds them.
+
+When he came (back) they all go to receive him. “ Our master
+has come ! we shall dress up ! ” Kamaria she kept silent. She did
+not go to receive her master.
+
+The master, after beginning to give the things to them all, then
+for her he asked ; “ You all, indeed, have come to receive the things
+that I had promised you, but Kamaria, where (is she) ? ”
+
+The mistress says to him : u Kamaria is a thing just from the
+bush ; do not give her anything.” Ngana Vidiji Milanda said : “ Kamaria is a slave like the others. I will give her all that she asked
+me for, that made me go to many cities.” He calls Kamaria:
+"Come! receive all that thou hast asked me for.” Kamaria was in
+one small loin-cloth. Shame seized her, to come in the presence
+of ngana Vidiji Milanda. She hid herself behind the door. Ngana
+Vidiji Milanda stood up, and went where Kamaria was ; he gives
+her the things she had asked him for.
+
+They all indeed, the slaves of the house, dressed up, and had a
+merriment, because their master had arrived with health. Kamaria
+held her peace in her little hut, where she stayed with an old woman.
+
+The night arriving — they all were already asleep — Kamaria, after
+taking the things that her master had brought her, knocked her kalubungu on the ground. Out came dresses fine, and all things that a
+white lady wears. And she takes the things of Portugal, she sets
+them on top of the table, and begins to speak : “Thou, ngana Vidiji
+
+
+46 Folk - Tales of Angola .
+
+
+batujudienu.”
+
+
+Miianda, hast taken the slave, hast left me ; me, who for thee walked
+eight days in the heart of the forest, ‘ where goes the child of Bird,
+the child of Man is not to be seen therein.’ The ninth day, when
+I arrived with my trouble and my misery, and I had wept for thee
+the ten jugs and one of tears, when there passed one who was selling a slave for water, I then took a jug of tears ; I bought the slave
+to aid me in my trouble and my misery. Thou, ngana Vidiji
+Miianda, thou both didst take the slave, and leave me, me, the mistress, who for thee underwent hardships and misery. Thou lamp
+light-thyself ; thou razor whet-thyself ; thou scissors cut-yourselves ;
+thou stone speaker -of -truth, (if I have spoken lies)130 cut me to
+pieces.”
+
+The lamp lights itself ; the razor whets itself ; the scissors cut
+and cut themselves ; the stone speaker-of-truth is knocking and
+knocking itself on the ground. She, Kamaria, then says: “Thou,
+God, succor me ! ” And the things all disappear.
+
+The old woman was seeing all these things, and she speaks with
+her heart : “ That one who is with our master, whether she indeed
+is not our mistress ? Our mistress, whether (she is) this one, whom
+they put down as Kamaria ? The true Kamaria is she who is with
+our master.” And she holds her peace with her heart, to see
+whether all nights Kamaria will be changed as she was changed on
+the nigfyt of to-day. Fenda Maria then lives on. The old woman
+holds her peace with her heart.
+
+Arriving in the night, they are all asleep, the old woman makes
+herself as though asleep, but she is looking. Kamaria takes her
+kalubungu ; she knocks it on the ground : all things indeed for
+dressing come out. She dresses and sets the things on the table ;
+she sets the razor whet-thyself, and the lamp light-thyself, the scissors cut-yourselves, and the stone speaker-of-truth, and she begins
+to speak : “ So salavande ! 136 If it were not I, a woman ! I left
+the home of my family (kin), and walked eight days in the heart c3f
+the forest, with my troubles and my miseries ! Thou, ngana Vidiji
+Miianda, for thee I wept the ten jugs and one and a half, and I said
+to my slave : * Finish the ten jugs and two ; but, when it is going
+to be full, wake me up for me to finish it.’ My slave, whom I had
+bought with my tears, she did not do it, but she allowed the jug
+to be filled. When ngana Vidiji Miianda awoke, and said to her :
+* Embrace me, my wife,’ she, instead of saying to him, 1 1 am not
+thy wife ; thy wife is that one (yonder) asleep ; * she said to him :
+‘Embrace me, my husband,’ for me to be turned into Kamaria.
+Thou stone, the speaker-of-truth ; you scissors cut-yourselves ; thou
+razor whet-thyself ; thou lamp light-thyself, (if I have spoken lies)
+cut me to pieces.”
+
+
+48 Folk - Tales of Angola .
+
+
+The lamp and things all light themselves ; the stone is knocking
+itself; the razor is whetting itself; the scissors are cutting themselves. She, in the middle there, says again : “ God, succor me ! ”
+All the things then disappear (in darkness).
+
+The old woman saw it. The white lady takes off the things she
+had put on, to wear (again) the small rag; and she gathers her
+things, and keeps them in her rotten little trunk. Then they sleep.
+
+The next day, the old woman went to whisper to her master:
+“ Thou, master, why eatest thou ? 139 why drinkest thou ? if that one
+whom thou hast taken as thy wife, Fenda Maria, is not the same ?
+Fenda Maria is that one, whom you (both) put down as Kamaria.”
+
+Ngana Vidiji Milanda then tells her: “Thou, old woman, lackest
+courtesy; thou sayest that my wife is the little woman yonder
+mean, that is in the yard?” “Thou, master, do not think it (to
+be) lies, what I am telling thee. Soon, at night, I shall not sleep
+in the house. I shall say to the little woman : * Sleep alone ; I will
+sleep outside, where they have invited me to the dance.’ 141 I shall
+make a hole in the door. Thou, master, also tell thy wife, * I am
+going out at night. I shall not come, except at cock-crow,’ that we
+may look at her, and all she does in the house at night.”
+
+The master then tells his wife : “ To-day, at night, I shall go
+somewhere ; 142 they will give me a party.” And they live on.
+
+When he had finished eating, ngana Vidiji Milanda then goes out
+falsely,144 and hides himself in the place which the old woman had
+showed to him.
+
+The night coming, Fenda Maria calls Kamaria : “ Kamaria, come,
+bring me water that I may wash my feet.” Kamaria brought the
+water to wash Fenda Maria’s feet. When she had finished, then
+she tells her, “ O little woman ! go to the house to sleep. When it
+is cock-crow thou shalt go and open the door for ngana Vidiji Milanda.”
+
+Kamaria assents and goes to lie down in her hut. She shuts the
+door, and speaks with her heart : “ To-day I am alone with myself ;
+it greatly pleases me. Nobody sees me.” She takes her kalubungu ;
+she knocks it on the ground : out come slaves ; out comes a bathtub ; out come splendid dresses ; everything that a white lady wears.
+And she lays herself in the tub ; she washes herself ; the slaves rub
+her well ; they wipe her ; and they put on her the beautiful dress of
+stars.
+
+She comes to the table. Ngana Vidiji Milanda is looking at all
+the things that Kamaria is doing in the house.
+
+Kamaria begins to speak : “ But for me ! Vidiji Milanda, I walked
+for thee for eight days. I walked in the forest, I, a woman of God,148
+with my troubles and my miseries. On the ninth day, when I arrived
+
+
+50 Folk - Tales of Angola .
+
+
+di xisa.
+
+
+on the shore,149 where the wizards had bewitched thee, because of
+great beauty, I was weeping for thee the ten jugs and two, which
+the shepherd had told me ; and I for thee wept ten jugs and one.
+When I had finished ten jugs and one and a half, there was passing
+one, who was selling a slave, and I bought her for a j ug of tears. I
+called her Kamasoxi, and I resumed weeping, to finish the ten jugs
+and two. When I had arrived at ten jugs and one and a half, then
+I called Kamasoxi, the slave whom I had bought with my tears, that
+I was weeping for ngana Vidiji Milanda, and I said to her : ‘ Complete, slave mine, the ten jugs and two. When it is going to get
+full, thou, wake me up ; for ngana Vidiji Milanda will awake. Thou,
+my slave, if he awakes, I being still asleep, when he says to thee :
+“ Embrace me, my wife ; ” thou to him shalt say : “ I am not thy
+wife. Thy wife is that one (yonder) who sleeps.” Kamasoxi, when
+ngana Vidiji Milanda awoke, he said to her: ‘Embrace me, my
+wife ; * but she then answered him : * Embrace me, my husband.'
+But for me ! Vidiji Milanda, who for thee went through the hardships, and trials and miseries, . . . thou tookest the slave as thy
+wife, that me, thy wife, you (both) might make a slave. Thou lamp
+light-thyself ; thou razor whet-thyself ; you scissors cut-yourselves ;
+thou pebble knock-thyself ; thou stone speaker-of-truth ; thou mirror look-thyself, (if I have spoken lies) cut me to pieces ! ” 152
+
+They all light themselves,153 the pebble knocks and knocks itself ;
+the scissors cut and cut themselves ; the mirror is looking at itself ;
+the razor is whetting itself ; the stone speaker-of-truth is speaking
+the truth. When they were going to disappear,154 then entered
+ngana Vidiji Milanda, and says to her : “ Embrace me, my wife.”
+She, when she sees ngana Vidiji Milanda entering, then she faints ;
+ngana Vidiji Milanda also goes into a swoon. The old woman,
+who was there, made a remedy for ngana Vidiji Milanda and Fenda
+Maria to awake ; and they awoke.
+
+They go up, both Fenda Maria and Vidiji Milanda, to find Kamasoxi, asleep in bed. Kamasoxi, when she saw Fenda Maria coming
+into the room with ngana Vidiji Milanda, she was appalled.
+
+Vidiji Milanda called slaves to catch Kamasoxi, and put her into
+a barrel of coal-tar. The bone, that came out of the barrel of coaltar, made the white clay, for Fenda Maria and Vidiji Milanda to
+smear themselves.
+
+I have told my little story ; whether good or bad, I have finished.
+
+
+II.
+
+
+FENDA MADIA NI KOTA DIE NGA NZUA.
+
+
+aseiala musolo.
+
+
+Fenda Maria and her Elder Brother nga Nzua . 53
+
+
+II.
+
+
+FENDA MARIA AND HER ELDER BROTHER NGA NZUA.
+
+I often tell of nga Nzua, son of Kinoueza kia Tumb’ a Ndala.166
+His father died ; his mother died. They left him with his sister
+Fenda Maria, daughter of Kinoueza kia Tumb’ a Ndala.
+
+Ngana Fenda Maria, her mother left her a kid. When she was
+dying, her mother told her : “ My daughter, this thy goat, which I
+leave thee, it is thy mother, it is thy father.” Her mother died.
+They buried her mother. They lived on, (she) and her elder (brother)
+nga Nzud. They breakfast on “ bagre ; ” they sup on catfish.
+
+Then Fenda Maria says : “ Elder mine, the others get married.
+Why dost thou not marry ? The money is here, which our father
+and mother left. I am a woman, thou art a man ; if thou marriest,
+it shall please me.” The elder says : “ Hold thy peace, nga Maria.”
+The younger (sister) held her peace.
+
+One day nga Nzua dressed ; he placed himself in a maxila ; 167 he
+went for a tour, down to Loanda. He meets nga Nzuana,159 daughter of the Governor in Angola.160 When she saw nga Nzua, she
+wondered, saying : “ Since I was born, never saw I a man beautiful
+like the beauty of nga Nzud, son of Kinoueza kia Tumb’ a Ndala.
+On the face of the earth,161 not yet have I met a man like nga Nzua.”
+
+Nga Nzua goes to his home, in the Muceque.162 He finds his sister, ngana Fenda Maria, daughter of Kinoueza kia Tumb’ a Ndala,
+saying : “ My sister, a girl whom I saw, nga Nzuana, daughter of
+the Governor in Angola, she pleased me much. She told me, saying : * Thou, nga Nzud, if thou wantest to marry with me, thy sister,
+ngana Fenda Maria, shall be my slave ; thou shalt put her also in
+the wooing-presents.’ I don’t know what I shall do.”
+
+The sister; however, said nothing ; she was silent. He went to
+sleep. Arriving in the morning, nga Nzud says : “ The girl, I will
+fetch her at once ! *} He gives to the carriers the wooing-presents,
+goes to Loanda ; he finds the Lord Governor ; he asks of him his
+
+Her father, the Lord Governor, assents, saying : “ My daughter,
+it shall be that she marries with nga Nzud ; but the wooing-present,
+I will not (take) it.” 166
+
+They went to church. Nga Nzud and nga Nzuana are married ;
+they make the feast. In two days the feast is over. They go to
+the house of nga Nzud.
+
+Nga Nzuana finds ngana Fenda Maria, daughter of Kinoueza kia
+
+
+54 Folk- Tales of Angola.
+
+
+uazek’^.
+
+kusoneka.
+
+
+kudila.
+
+
+Fenda Maria and her Elder Brother nga Nzua. 55
+
+Tumb* a Ndala, (and) says : “Thou, of old thou wast ngana Fenda
+Maria, but now art thou Kamaria.” They live on.
+
+She fetches the fire-wood ; 103 she gets the water. One day : “ O
+Kamaria!” “Mistress.” “Come, go to wash the clothes.” She
+lifted up the tub ; 169 she went to the landing 170 to wash. She arrives
+under the fig-tree ; 171 she sets the tub on the ground. She begins
+to cry, saying : “ Woe ! woe to me ! 172 Since me,173 since my father
+and mother gave me birth 174 .. . But to-day they send me to wash !
+Because of what ? ”
+
+She hears her little goat that is coming and crying : “ Mey ! mey !
+mey ! How (is it) mistress mine ? Why criest thou, my young
+mistress ? ” “ How shall I not cry ? Ever since I was born, never
+did I wash clothes. They who wash are always slave girls.176 Today, because my father is dead, (and) my mother is dead, my elder
+brother, nga Nzud . . . did I bid thee to seek that wife ? . . * this
+day of to-day, I must be a slave. I fetch the fire-wood ; also the
+water, I get the water.”
+
+Then the goat said : “ Be quiet, mistress mine ! one day thou shalt
+see thy glory; 179 the medicine is inferior.” 180 The goat takes the
+clothes out of the tub ; she washes the shirts, the trousers, the coats,
+she spreads (them) in the sun. She finds her mistress Fenda Maria,
+says : “ My mistress, why dost thou cry ? ” “ I am crying over my
+misery.” “ Come, my mistress, I will louse thee.” 181 She looks
+her (over) for lice. When she finished looking for her lice, she went
+to fold the clothes. She has folded them ; she gives them to her
+mistress.
+
+Fenda Maria lifts up (the tub), arrives at home. “ Eh ! Kamaria,
+didst thou wash these clothes ? ” She says : “ I washed them.” 183
+She went to her room ; she lay down.
+
+Nga Nzuana comes to conceive ; she goes to be delivered ; (it is) a
+male child. They begin to bring up the child. The child grows up ;
+goes to school ; knows (how) to read and to write.
+
+His father calls him to the table : “ Come (and) eat, my son ! ”
+“ I will not, my father.” “ What wishest thou ? Desirest thou
+pork ? ” “I will not, father.” “ What dost thou desire ? ” “ I want
+goat.” “ Which goat dost thou wish ? ” “ I want the goat of Kamaria.”
+
+They kill it ; skin it ; they take out (its) tripes ; give them to Kamaria: “ Go, wash these tripes and stomach.” She washes one tripe ;
+it is gone with a fish ; 186 she washes another tripe ; it is gone, too ;
+all the tripes are gone. The stomach is carried away by a bagre.
+Says she : “ Woe ! woe to me ! What shall I do ? ” She begins
+to cry.
+
+When she went to see at the landing, whether the tub appears (is
+
+
+56 Folk -Tales of Angola,
+kibetu.189 Azek' L
+
+fazenda! ujikul’ o’nzo: ualende ! ujikul’ o’nzo: kobidi ! 190 ujikul'
+
+6.” ur £.
+
+
+tendela muiii, uiza ku bata dietu.” “ Makutu me uazuela.” “ Uabana.’ ” u Makutu m6 ; k'uatendel6.” Kuala mukud : 4(Tenda ! uaten-
+
+
+Fenda Maria and her Elder Brother nga Nzua. 57
+
+there) the water had carried off the tub. Kamaria threw herself into
+the water ; she swam ; she gave in. She got out on land (and went)
+as far as the house of ngana Nzuana. Says she : “ Kamaria, the
+tripes, where are they ? ” “ They were carried off by the fishes.”
+
+They take her and beat ; they sleep.
+
+Arriving in the morning, when she got up, Kamaria ran away.
+She enters the forest, begins to walk ; walks and walks. She finds
+an old woman of Kinoueza kia Tumb’ a Ndala. Since she was
+brought forth by her mother and her father, she needed somebody
+to attend to (her) leprosy. Kamaria nurses her. Then the old
+woman : “ Thou, granddaughter mine, behold ! ” She opens a room :
+cloth ! she opens a room : rum ! she opens a room : copper ! she
+opens a room : wax ! she opens a room : teeth of elephant ! 192 indiarubber ! They sleep ; they live. Then Kamaria says : “ My grandmother, I am going ! ” “ Nga Maria, dear, let us stay together
+longer.” She says: “I am going.” The old woman gives her a
+box of cloth, a box of rum, a box of slaves, a box of mules, a box of
+soldiers, a box of music,197 a box of money, a box of dresses. Then
+nga Maria : “ Farewell ! my grandmother ! ” “ Get there well ! ”
+
+She goes away.
+
+The day that was born Fenda Maria, daughter of Kinoueza kia
+Tumb’ a Ndala, in the land of Angola, that same day was born
+Ndunge, son of the Ma-kishi of Lumba.199 There (it was) that nga
+Maria arrived. The Ma-kishi of Lumba had gone a-hunting : “ Divine ! thou divinest what ? ” 200 “I divine a thief, who comes to our
+house.” “ Thy lies, that thou speakest.” “Thou divinest what ? ”
+“ Hunter of Tumba, who came to hunt. Night darkens : he finds
+no place to sleep. He says ‘ I will go and sleep in yonder house.’ ”
+“ Thy lies ; thou divinest not.” Then another : “ Divine ! what
+dost thou divine ? ” “I divine a thief.” “Thy untruth.” “ I divine
+that in our house there arrives ngana Fenda Maria, daughter of
+Kinoueza kia Tumb’ a Ndala in the land of Angola ; she is going
+now to their land.” The Ma-kishi all said : “ Splendid, splendid,
+splendid ! ” They arrive at home.
+
+Then Kishi a Lumba : “ Nga Maria, appear ! ” Nga Maria appears. The day when Fenda Maria was born (was) the same day
+when ngana Kishi a Lumba was born. His father owns nine thousand of heads : one person owns nine thousand of heads ! He says :
+“ Nga Maria, we wanted thee much ; now we see thee.”
+
+They knock a kalubungu on the ground : there come out two
+slave-women ; there comes out a bed of iron ; there comes out a mosquito-bar. They prepare her (bed). The Ma-kishi of Lumba begin
+to dance (and dance on) until daybreak.
+
+Nga Maria says : “ I am going now.”
+
+
+They say : “ No, we will
+
+
+58 Folk- Tales of Angola.
+
+
+me ! O kuuaba, ku uauab’ eie, ngana iami, o muhetu ua mundele, ua
+zuela, Kamadfa,” Akal' d. Azek’ a. Kuma kuaki ; anange d. Azeka
+dingi.216
+
+
+Fenda Maria and her Elder Brother nga Nzua . 59
+
+still sleep (another night).” “ Longing holds me after my elder
+brother, whom I left, nga Nzua, son of Kinoueza kia Tumb’ a Ndala.”
+Then the Ma-kishi : “ Wait yet a little.” They go on : a box of
+food, a box of clothes, a box of music.
+
+Nga Maria is going now. They accompany her : “ Get there
+(well).” “ Fare ye well.” She arrives at the house of her elder
+(brother). Then ngana Nzuana : “ Thou, Kamaria ? Since that
+thou gottest lost, never we saw thee ; to-day thou appearest ? ” They
+seize her ; they give her a flogging. The brother will not speak ;
+he is silent. They go to sleep ; to-morrow (is) Sunday.204 They
+arrive in the morning, then nga Nzud : “ Eh ! nga Nzuana, dress up.
+that we go to church.” Nga Nzua, as he turned his back, then nga
+Maria : “ Eh ! Katalaiu,206 I am coming directly. I am going also
+to church.” “Young mistress, dear, what wilt thou wear?” She
+says : “ Let me alone, my slave.”
+
+She goes around to the back of the house ; knocks a box on the
+ground : out comes a dress, such as a trader greatly desires ; 208 she
+puts it on. She knocks a box on the ground : out come soldiers ;
+out comes a carriage ; out come two slave-girls ; out comes a band.
+Nga Maria enters into the carriage, the (band of) music behind, they
+go up to church. They find the church is full, with both whites and
+blacks ; both blind and cripples.210 All together wonder : “Not yet
+did we see a lady beautiful as this.” They have done the mass ;
+they go outside.
+
+She knocks the box on the ground : out comes a chair, such as
+greatly desires the Lord Governor in Angola. She sits outside of
+church. The band strikes. The Lord Governor looks, and his
+daughter, nga Nzuana, and his son-in-law, nga Nzua ; they look at
+the white lady there. Fenda Maria, when she started to go away,
+they followed her and also hc»* band. When she arrived behind the
+house, the things all entered into the box.
+
+Then Katalaiu : “ Young mistress, didst thou arrive indeed in the
+church ? ” “ I got there indeed. Nga Nzuana, whom I found in the
+church, did not see me.”
+
+When they passed a moment, nga Nzuana arrives with nga Nzua.
+“ Well, then ! the breakfast, has it gone already on the table ? Eh !
+Kamaria ! ” “ My mistress.” “ Come, take off these shoes.” She
+takes them off. She gives her the slippers. “ Eh ! Kamaria, why !
+we went to church : we wondered at a white lady, her beauty, on the
+face of the earth we have not seen her like.” “ Oh ! thy lies.214
+The beauty (with) which thou art beautiful, my mistress, the white
+lady, whom thou mentionest, can she be superior to thee ? ” She
+says : “ Truth indeed, (is) what I am speaking, Kamaria.” They live
+on. They sleep. Day breaks. They spend time. They sleep again.
+
+
+Nzud uixi: “Pange ami.” Nga Madia uixi: “Makutu me, ngana
+
+
+“BixiT d ! ” “Xala kiambote.”
+
+
+Fenda Maria and her Elder Brother nga Nzua . 61
+
+The Lord Governor in Angola gave a proclamation 217 in the land :
+“ Whoever shall let me see that white lady, who went into the church,
+whosoever shall take off only a shoe from her foot, I will give him
+two sacks.” 218
+
+People live on. They await the day, that they shall see her, when
+she goes again to church. Sunday arrives. Then nga Nzuana :
+“Eh! nga Nzua, let us go to church.” They start. Then nga
+Maria: “O Katalaiu ! I am coming soon. I am going to church.”
+He says : “ My mistress, go.” She starts (and goes) as far as the
+church. All who assembled in the church, say : “ We wonder ! ah !
+behold, she is coming, that white lady.” She arrives in the church.
+The Lord Governor wonders. They have done the mass.
+
+Ngana Maria, when she has gone outside, she knocks the box on
+the ground : out come two chairs. She sits with her ensign. She
+tells him : “Come, let us go now.” They get at once into the carriage. The band is following them behind, as far as back of the
+house. She takes off the things she was wearing, puts them into
+the box ; enters into the house.220
+
+Somebody has seen her ; goes to tell the Lord Governor. The
+Lord Governor arrives. They arrest nga Nzud, son-in-law of the
+Lord Governor. Then the Lord Governor : “ Then thou keepest
+this one, Kamaria ? What to thee (is she) ? ” Nga Nzud says :
+“ My sister.” Nga Maria says : “His lies, Lord Governor ; I was
+his sister, but now I am his slave.” “ Truth, indeed, Kamaria, what
+thou art telling here ? ” “ Truth itself.” “They made thee a slave !
+
+Is it thou indeed, who wentest to church on Sunday ? ” “ My Lord,
+
+Lord Governor, why ! the dress, where shall I find it, to wear it ?
+I who am a slave ? ” “ Thou indeed didst go to church ; thou art
+telling me only lies.” She says : “ Truth itself, Lord Governor, it is
+no lie.” The Lord Governor says : “Nga Maria, I wish thee tomorrow to go to my house, to talk with me.” He now goes to his
+house.
+
+Arriving in the morning, ngana Fenda Maria knocks a box on the
+ground. She dresses ; she gets into the carriage ; she goes up to
+the palace. The soldiers, when they see her, shout : “ Present
+arms ! 99 She descends from carriage ; enters the palace ; goes upstairs. They greet each other, she and the Governor. They give her
+a chair; she sits down. Ngana Fenda Maria says : “ How ? Lord
+Governor, me, thou didst want me ? ” The Governor says : “ I have
+seen thee.” They breakfast. They finish breakfasting; they pass
+time.
+
+Arriving in the evening, ngana Fenda Maria says : “I am going
+now; but know thou well, Lord Governor, to-morrow we shall talk.”
+They part : “ Reach (home well).” “ Farewell.”
+
+
+62 Folk- Tales of Angola .
+
+die. Azeka.
+
+Nzud uixi: “Eie u ndenge ami.” “Makutu me, ki uazuela, nga Nzud.
+
+
+Fenda Maria and her Elder Brother nga Nzud . 63
+
+She gets into the carriage ; the band is following her, as far as her
+house. They sleep.
+
+Arriving in the morning, they take coffee. At ten, they break
+fast Having done eating, she leaves the table, dresses. They prepare the carriage ; she gets into the carriage, as far as the palace.
+She arrives ; they greet each other. “ What, ngana Fenda Maria,
+brings thee ? ” “ Do me a favor, Lord Governor, send to fetch my
+elder (brother) and his wife.” He ordered to fetch them ; they
+arrive. Then nga Maria asks nga Nzua : “ What am I to thee ? r
+Nga Nzud says : “ Thou art my sister.” “ Thy lies ! what thou sayest, nga Nzud ! If I was thy sister ; now hast thou made me to be
+a slave ? ”
+
+Nga Nzud they put him in jail.224 There he sleeps. He talks to
+himself in (his) heart : “ Thou, nga Nzud, what caused (them) to put
+thee in jail, was thy sister. In order to woo her, a woman has beguiled me. What caused my sister, nga Maria, to be put in slavery,
+(was) a woman ; a woman has beguiled me. Consider thou well,
+nga Nzud, maybe they will hang thee ; maybe nga Nzuana also, they
+beat her (with) floggings on the buttocks. For * what the woman
+speaks, the man refuses not ; * for * we, women, are costly, because
+of our merchandise.’ 227 Ngana Fenda Maria, what made thy brother
+cause thee to be slave of thy sister-in-law, (is) what a woman spoke.”
+Arriving in the morning, they set him free.
+
+In the palace, ngana Fenda Maria speaks like this : “ Thou, Lord
+Governor, in the land of Angola, let it be thus : my elder and I, we
+shall live in our house. Thy daughter, give her another man.” The
+Lord Governor says: “Where is he?”228
+
+They start. When they arrive at their house, ngana Fenda Maria
+knocks a box on the ground : out comes a two-storied house, which a
+trader wants, but does not get. “ My elder, this house (is) for thee.”
+She knocks a box on the ground : out come slaves, and goats, and
+cattle. She knocks again the box on the ground : out come two
+nurses: “For thee, my elder, to keep house with them.” She
+knocks a box on the ground : out comes a warehouse of cloth, a
+warehouse of money of copper, and money of silver, and money of
+gold, and money of bank-notes.
+
+They live on, ngana Fenda Maria and her elder, nga Nzud, They
+breakfast on i-kusu, they sup on catfish.
+
+My ladies and my gentlemen, I have told my little story, whether
+bad or good.
+
+
+Folk- Tates of Angola.
+
+
+III.
+
+NA NZUA DIA KIMANAUEZE.
+
+
+uiza.
+
+
+III.
+
+NA NZUA DIA KIMANAUEZE.
+
+We often tell of na Nzua of Kimanaueze kia Tumb’ a Ndala,
+favorite of friends.231 Na Kimanaueze built, dwelt.232 His headwife233 conceived. She eats no meat; she eats no food ; she wants
+fish of the water.234 Na Kimanaueze is wont to send his Katumua,235 saying : “ Go and catch fish in the Lukala, for my head-wife,
+who eats no meat.” The Katumua takes up the net ; goes to the
+Lukala.237 He catches fish;238 brings (them) to the head-wife. The
+head-wife cooks the fish ; eats. They sleep.
+
+At morning she says : “ What shall I eat ? Katumua, take up the
+net, go to fish.” Katumua starts; arrives at the Lukala; catches
+fish. He comes with them ; gives them to the head-wife. She
+eats them all in one day. Katumua says : “ The fishes which I am
+always catching, thou eatest them in one day ! ” He goes again
+a-fishing ; he brings her (fish) again. Thus every day, she eats no
+other food. Every month the same.
+
+One day, the chief 241 said : “ Katumua, go fishing ! ” He took up
+the net ; arrived at the Lukala. He casts the net ; he waits a
+while. He pulls the net ; the net is heavy. He pulls it again,
+another time ; it refuses to come! Katumua says : “ Thou who
+holdest the net under the water, whether thou be the river-genius,245
+or a crocodile, let go my net ! They sent me ; I have not come of
+myself.” He pulls the net ; the net, here it comes.
+
+When he looks into the net, a thing is in it ; fear possesses him ;
+the net, he throws it down. He begins to run. The thing that is
+in the net says : “ Do not run ; stand ! ” He stood. He pulled out
+the net ; he threw it on land.248 The thing lands on dry land. The
+Katumua, fear again takes him ; he is trembling.
+
+The thing says : “ I myself, I, the Lord of the land, I have come.
+Go home, and fetch na Kimanaueze kia Tumb’ a Ndala and his
+head-wife, who always send thee to catch fish.”
+
+Katumua starts off in haste ; he arrives at home. The loin-cloth,
+he left it by the water. When he arrives at home, the crowd said :
+“ Thou, Katumua, what causes thee to walk naked ? art thou crazy?”
+Katumua said : '* Let me alone, please ; let me explain myself to the
+chief!”
+
+He arrives at the court. He sits on the ground ; he lies down on
+his back; he sets down the chin.250 Na Kimanaueze says: “ Explain
+thyself ! ” Katumua says : “ Lord,251 when I left you, I arrived at
+the Lukala. I threw the net into the water ; I waited a while. I
+pull the net ; the net is heavy. I say : * Thou who holdest the net.
+
+
+Kalunga, mahezu.”264
+
+
+whether thou art the river-genius, or a crocodile, let go my net.
+They sent me ; I came not of myself/ I pull the net ; the river
+itself comes ashore : Lukala himself. I begin to run. He says : ‘ Do
+not run ; stand, please. Go and fetch your King and his Queen,
+who are wont to send thee to catch fish. Let them come here, that
+I speak all that is on my heart/ I, Katumua, that is what brought
+me in haste. Lord, I have said.” 254
+
+Na Kimanaueze says : “ Very well. Thou, queen, shalt dress.
+Let us go where we are sent for.” The queen dressed herself well.
+Na Kimanaueze, too, decked himself well.
+
+They start with their prime-minister,265 and Katumua himself.
+They arrive at Lukala’s. They find him there, sitting on a chair255
+They, fear seized them.
+
+He, Lukala, said : “ Be not with fear. Approach here ; that I
+may speak what I want.” They sat on the ground. Lukala said :
+“Thou, na Kimanaueze kia Tumb’ a Ndala, favorite of friends, when
+thou earnest to build in the land, thou earnest to see me, the river.
+Thou didst settle in my land. Now thy wife is pregnant ; she eats
+no other food ; she wants fish only. All days, indeed, she eats fishes.
+It will be that she will consume my people. Why? Thou, his
+prime minister, who earnest with him, the pregnancy that conceived
+the queen of Kimanaueze, is finishing my people. Soon, when she
+gives birth to the child, if it is a girl (she is) my wife ; you bring
+her to me ; if a boy, (he is) my friend, or my namesake. I, Lukala,
+have finished ; I go.” Na Kimanaueze kia Tumb’ a Ndala says :
+" Lord, very well. How shall we further do ? ” When he finished
+to assent, they look (to see) where was the genius ; where he went,
+they don't know.
+
+They get up ; arrive at home. They live on some days. Katumua, he goes on catching fish.
+
+One day, the queen, her day has come to give birth ; she is down,
+she is up.260 She gives birth to the child. They go to announce to
+the King, saying : “ The queen has born a male child.” He says ;
+“Very well.” He takes up a goat ; he gives (it) to the people, who
+have assisted the queen.261 They live on some days. They bring
+up the child.
+
+The child grew up ; he has come now to the age of marrying.
+Lukala, he brings dreams in sleep, saying : “ Bring me my friend,
+I will stay with him here. If you do not bring him, I shall kill
+him ; he shall die.” They start from dreams, after that Lukala has
+spoken.
+
+Na Kimanaueze says : “ Thou, head-wife, how shall we do ? Thou,
+my son, na Nzud, what the river said (means that) it wants thee.”
+Na Nzud, when he heard this, fear took him. He says : “ How shall
+
+
+I do ? I, Nzud dia Kimanaueze kia Tumb’ a Ndala, where shall
+I flee ? ” He called a girl : “ Put for me water in the trough.” The
+woman put water in the trough. Na Nzud lies down in the trough ;
+he stays there a while. He is thinking where to go. He gets up
+from it, says: “ How shall I do, father?” His father says: “I do
+not see what I shall do. Come ; I will give thee thy things that
+
+Na Kimanaueze took up two slave-men ; he gave them to him,
+saying: “Take two male slaves.” He took two riding-bulls. He
+took two mothers of goats, and two mothers of swine. He says :
+“ Thy food, to eat on the road, wherever thou goest. Soon, we shall
+see each other no more. Wherever thou goest, do not cross a river.
+All rivers, follow them up ; thou shalt go round by their springs.”
+The son assents.
+
+He sets out with his things, that they gave him. He mounts the
+riding-bull ; the slaves are following behind. They are passing
+through the grass, in the midst of the bush. First day, second day,
+third day, fourth day ; they always go round the rivers.
+
+On the beginning of the fifth day they arrive in the midst of the
+bush ; na Nzua riding his bull. When he appears in the open circle
+of a tree,266 when he looks with eyes : game 267 all the game that
+God made ; there is no ferocious beast that is left in the world.
+Also all insects, that God made, have gathered there ; and there
+they are thick. Also the beasts of the water, and all the birds that *
+God made. What brought them together in one place (is) that they
+killed a deer ; nobody is able to divide it, so that all the beasts get
+a share.
+
+When they saw na Nzud, they said : “ We are fortunate.” Na
+Nzud, when he arrived there, fear held him. The beasts say : “ Go
+on ! We needed (one) to divide for us our deer. Now we are
+lucky.” Na Nzud says: “Alas! How shall I do? I, Nzud dia
+Kimanaueze kia Tumb’ a Ndala, the favorite of friends?” The
+beasts say : “ Be not with fear ! Get down from (thy) bull.” He
+gets down. “Unsheathe thy knife from waist.” Our friend unsheathes the knife. They say: “Divide us this meat.” He says:
+“ All this crowd, one deer ; how can I divide it ? ” They say :
+“ Divide (it) well, so that all eat.” He begins to cut it in bits ; he
+is distributing ; the deer is finished. The crowd of beasts, not even
+in part has come to it. The beasts say : “ Still we are looking.
+Divide (it) well, that we be equal.” He says : “The deer is finished.
+What shall I do ? ”
+
+He had his male dog. He took it ; killed it ; divided it. Still
+not complete ; even in part they have not come to it. He kills his
+bull ; divides ; not complete. He kills his slave ; divides ; not com-
+
+
+70 Folk -Tales of Angola.
+
+tena kid ; uaxala ubeka ud.”
+
+
+ka kidia-makongo.’ ”
+
+uabalumuka-bu.
+
+
+kaluxixikinia.’ ”
+
+
+kutonoka.’ ”
+
+
+plete. He kills the second slave; divides; not complete. The beasts
+say : “ Thou, na Nzua, divide so that we be equal. Let not one
+beast be left.” He takes his other bull ; he kills it. The ants, he
+gives them only the hairs ; the large beasts, he gives them only a
+little bone, tiny, small. Still some are left. The beasts say : “ Divide to us equally.” He says : “ How shall I do ? ” His slaves
+and his bulls are used up distributing. He remains with nothing
+more ; himself alone, that is all. The beasts say : “ Sir, thou hast
+divided ; we are satisfied ; thou alone remainest.”
+
+The lion said: “Come here; approach me. Be not with fear.”
+Na Nzud approached the lion. The lion said : “ Open thy mouth ! ”
+Na Nzud opened his mouth. The lion spat spittle in his mouth,
+saying : “ Thou, na Nzud, on the day of thy pressing distress, thou
+shalt speak, saying : * Teleji ! small heap of having debts.* ” 272
+The wolf, too, says : “ Come here ! ” Nzud arrives ; kneels on
+ground. The wolf says : “ Open thy mouth ! ” Nzud opens his
+mouth. He spits spittle in his mouth, saying : “ Day of thy pressing need, speak, saying : 4 Teleji ! wolf of assegay, in the bush of
+the spirits.’ ” Nzud stood up hence.
+
+The njinji 274 said : “ Come here ! ” He came, kneeled down.
+Said he : “ Open thy mouth ! ” He opened his mouth. The njinji
+said: “The day that hardship presses thee, speak, saying : ‘ Teleji!
+njinji of leopard.’ ”
+
+The ant says : “ Come here ! h Nzud approaches it ; he sits on
+the ground. Says : “ Open thy mouth ! The day that thou be in
+need, speak, saying: ‘Teleji! little ant.’”
+
+The leopard, too, said : “ Come here ! ” He came. Said : “ Open
+thy mouth!” He opened. “The day that misfortune grasps thee,
+speak, saying: ‘Teleji! leopard.’”
+
+The mukenge276 says: “Come here!” He approaches. Says:
+“Open thy mouth.” He opens (his) mouth. “The day that distress holds thee, speak, saying : ‘Teleji ! mukenge of jackal.’ ”
+
+The hawk said : “ Approach here ! ” He approached ; he opened
+his mouth. He spat spittle in his mouth, saying : “ The day that
+thou seest hardship, speak, saying: ‘Teleji! hawk,278 the bird who
+caught a child ; the friend began to play.’ ”
+
+The hawk, when he has finished speaking, the eagle says : “Come
+here!” Nzud comes. Eagle says: “The day that distress grasps
+thee, speak, saying: ‘Teleji ! eagle, bird without a tail, the neighbor
+to the sky.’ ”
+
+All the beasts the same; all the insects did the same. They
+say : “ Go.”
+
+He took up his staff ; he went into the midst of the bush, alone.
+He walked, walked ; his feet hurt him. He says : “ How shall I
+
+
+72 Folk- Tales of Angola.
+
+
+mbangala.
+
+
+Uadi ; uazekele.
+
+
+do ? ” Says : “ Teleji ! the bird who caught a child, the friend
+began to play.” He becomes a hawk. He is in the sky ; he is
+moving on in sky. Hunger grasps him. He arrives at a camp.
+Says: “ Teleji! man, who is the last.” 280 He becomes a man ; he
+comes to the camp. Says: “What shall I eat?” Says: “Teleji!
+njinji of leopard.” He becomes a njinji. He goes to one side of a
+village, that was (at) a small distance. He lurks for the fowls. The
+fowls come to eat in the grass. He catches two cocks.
+
+The people, when they heard the fowls shrieking, they arose in
+haste. They arrive at the place, where he caught (them) ; they say :
+“ It is a njinji ! chase him ! ” They chased him ; they gave him up.
+
+He arrived there, said: “Teleji! man, who was the last.” He
+became a man. He tied the two cocks together ; he hung (them)
+on (his) staff.
+
+He arrived at a camp. He found there travellers ; he sat on the
+ground. The travellers said : “ Thou, gentleman,281 please, hast come
+whence ? ” He said : “ I am going to my brother. I was bringing
+him two cocks ; they died on the road. Hunger grasped me ; one
+to cook them for me, I do not see.” The travellers said : “ Give
+here ; they will cook them for thee.” They take them ; they pluck
+them. They cook vhem ; they give him. He ate; slept Day shone;
+he started ; walked ; the noon-heat set in. Hunger grasped him ;
+he said: “What shall I do?” Says: “Teleji! wolf of assegay, in
+the land of the spirits.”
+
+He becomes a wolf. He goes into the grass ; squats down ; keeps
+quiet. Night comes ; he goes into the village ; enters into the centre
+of the village. Here he finds a sty of pigs ; he takes out two sucklings. The pigs cry out. The people are startled. They say: “A
+wolf is catching pigs ! chase him ! ” They chased him ; they gave
+him up. He went into the grass ; he slept.
+
+Morning shone. He said : “Teleji ! man, who was the last.” He
+became a man. He bound the sucklings in the basket,284 which he
+had made in the grass ; he starts. He arrives at a camp ; finds
+travellers. They say : “ Thou, gentleman, hast come whence ? ”
+He answers, saying : “ I am going to my brother, that I (may)
+bring him two sucklings. They died on the road from heat. He
+who will cook them for me, I see him not.” The travellers say :
+“ Take them for him, that you scrape them.” They take them ;
+they scrape them. They cook for him the meat (of) one. He ate ;
+he slept.
+
+At morning, he says: “To-day I cannot walk; the feet are hurting me; I will rest.” The travellers say, too : “We will rest, too;
+to-morrow we shall go.” They begin to pass the time. They take
+the meat of the hog outside ; they spread it on the roof of a camp-
+
+
+74 Folk-Tales of Angola.
+
+
+hut. A (few) women of the villagers came to sell eatables to the
+travellers. They found hog’s meat on the roof ; they said : “ Travellers, sell us a little hog’s meat.” The travellers said : “ It is not
+our meat ; it is the meat of another ; of the gentleman who is asleep
+there.” The women said nothing; they separated. They arrived
+at home ; found the men. They tell them : “We went to the camp.
+We found there hog’s meat. We thought saying : * Our pigs, the
+wolves caught them in the night.’ Maybe, that young man has
+stolen our hogs?” The men say: “Let us go; you show us
+him ! ”
+
+The men take up their guns, and staves, and spears, and lances,
+saying : “ We will beat him ! ” They arrive in camp, saying :
+“ Where is he, who stole our hogs ? ” The women say : “ He is
+here ! ” He says : “ I, steal your hogs ? ” They say : “ This meat,
+thou foundest it where ? ”
+
+They begin with him a quarrel of fighting. Nzud conquers.
+They go home ; call the others ; an army indeed complete. They
+arrive again in camp, saying : “ Come out ! ” The crowd says :
+“Thou hast (already) seen victory; now come out.”
+
+Nzud comes out. They begin to fight. (His) arms are tired. He
+says: “Teleji! small heap of having debts.” He becomes a youth
+of a lion ; he utters a roar. The crowd of war scatters with haste.
+Some, they throw their guns into the grass ; some fall on the path ;
+because they are with fear of the lion. The lion begins to roar ;
+even the travellers, too, scatter. He remains alone. He says:
+“Teleji! man, who was the last.” He becomes a man. He says:
+“ How shall I do ? I will go, now ! ”
+
+He enters the path ; arrives in the midst of the bush. He thinks,
+saying : “ Where I am going, to Loanda, I have not yet gone there.
+There, there is no kinsman of mine, there is no friend of mine.
+How shall Ido? At whose house shall I stop?” He stands; he
+is thinking. He says : “ I am perplexed, I, Nzua dia Kimanaueze
+kia Tumb’ a Ndala, where I am going, I have not seen that place.”
+Says he : “ Teleji ! hawk, a bird who caught a child ; the friend
+began to play.”
+
+He becomes again a hawk. He is in the sky ; he arrives in the
+city of Loanda ; he circles round the whole town in the sky. Says :
+“Teleji ! a little bird in the world.” He becomes a little bird. This
+little bird, its wings (are) like gold ; so (is) its bill. In all the country there is not a bird like this.
+
+He comes over the house of the Lord Governor ; he is circling in
+the sky. Na Maria, the daughter of the Lord Governor, is in the
+verandah of the house sewing clothes. She looks on the ground ;
+she sees the shadow of a little bird. It pleases her ; she turns her
+eyes upward ; she sees the little bird (is) there.
+
+
+76 Folk- Tales of Angola .
+
+
+uakulumuka boxi.
+
+Kandala kufua.”
+
+
+kanjila; uazek’e.
+
+ku di.”
+
+boxi.
+
+
+She says : 11 Oh ! this dear little bird, how shall I catch it ? the
+little bird is beautiful altogether ! ” She takes her white handkerchief ; she spreads it on the ground. She kneels on one knee ; she
+recites the mass to it. This little bird descends ; it arrives on the
+handkerchief. She has caught it ; says : “ This little bird, where
+shall I keep it, that it may not die ? ” She ordered a cage of gold ;
+it comes. She put it in, she kept (it) in her room. She put in rice ;
+she put in water. She sent to tell her father, the Lord Governor
+upstairs, saying : “ I, here, have a little bird. Thou my father, sawest
+it never yet; neither in Europe is it there, nor in Negro-land is it
+there. I do not know whence it came.”
+
+Her father sends her (word) saying: “Come with thy little bird,
+that I see it.” She went upstairs with the little bird. Her father
+looks at the little bird, says : “Truth, this little bird, it is not (to be
+seen) in the land.” Na Maria of the Lord Governor arose; she
+went downstairs.
+
+The little bird refused to eat. She put in different food, from
+Europe. The little bird will not eat. She says : “ This little bird,
+how shall I treat it? It will die.”
+
+She, na Maria of the Lord Governor, had her own habit of eating
+at noon and at the first cock-crow.293 They would spread the table
+in her room. The food, they set it on the table, (and) the girls were
+watching.
+
+This day they put the food on the table. The little bird is in
+that same (room). In the middle of the night the little bird
+said: “Teleji! little ant!” The bird became an ant. It is crawling down ; it picks up the crumbs of food that had fallen to the
+ground; it has eaten. It returns to its cage, says: “Teleji! little
+bird ! ” He became again the little bird. Every day the same.
+
+Another day he says: “Teleji ! little ant.” He becomes an ant;
+he gets down on ground, says : “Teleji ! man, who is the last.”
+
+He becomes a man elegantly dressed. He sits at the table ; eats
+the food. He arises, saying : “Teleji! an ant.” He becomes an ant.
+Having climbed into his cage, he says: “Teleji! little bird.” He
+becomes a little bird ; he sleeps.
+
+At the first cock-crow na Maria gets up ; she comes to the table.
+Food, there is none. She says: “You girls, where is the food
+gone?” The girls said: “Mistress, we don’t know!” She beat
+them, saying: “You yourselves, you have eaten it,”
+
+Day comes, another night has come. The girls say : “ We, to-day
+we *11 wake ; that we may catch the thief, (who) yesterday caused us
+the beating.” At the middle of night the little bird says : “Teleji !
+little ant.** It is transformed ; it (ant) gets down on the ground.
+
+
+78 Folk- Tales of Angola .
+
+xib’&.
+
+tu beta.
+
+
+ngoho kienieki.
+
+
+It says: “Teleji! man!** It becomes a -handsome man. He sat
+to table ; he is eating. The girls saw him. Fear held them from
+addressing him. He has finished eating ; gets up. Says : “ Teleji !
+little ant.” It climbed into the cage ; it became the little bird. He
+kept quiet.
+
+The cock crows ; na Maria gets up. She comes to the table ; the
+food is not there. She says : “ Girls, where is the food gone ? ”
+She begins to beat them.
+
+The girls say : “ Mistress, do not beat us unjustly. Wait, that we
+tell thee (all). We, in the night, have seen a gentleman sitting at
+table ; he was eating. We could not question him, because fear held
+us. Do not have doubts. To-morrow we will go to awake thee,
+(that) thou, too, mayest see.” Na Maria assented. They slept. The
+day shone. They passed the day. Night came down. They spread
+the table.
+
+In the middle of the night the little bird says: “Teleji! little
+ant.” It becomes an ant. It gets down on the ground ; says :
+“Teleji! man.” He becomes a man, dressed indeed elegantly both
+below and above.295 He sat to the table ; he is eating. The girls
+saw him. They arose ; went to tell ngana Maria : “ Mistress, come,
+see the gentleman who is at table ! ”
+
+Na Maria arose; she went to the table; she takes him by the
+arm. Na Nzua dia Kimanaueze kia Tumb* a Ndala, favorite of
+friends, and na Maria, they see each other, each other embrace.
+They sit at the table ; they only look at one another like this.
+
+Day dawned ; na Nzua wrote a letter. The letter went to the
+Lord Governor. The Lord Governor opened the letter. The letter
+said: “I, na Nzua dia Kimanaueze kia Tumb’ a Ndala, favorite of
+friends, I want to marry with na Maria of the Lord Governor.”
+
+The Lord Governor returned a letter, saying: “Very well. He,
+I do not yet know his face. To-morrow let him come with my
+daughter herself ; I must know the man.”
+
+The letter arrived at na Nzua’s. He opened it ; he read it. He
+says: “Very well. I will sleep; to-morrow we shall go.” They
+slept. The morning dawned. Na Nzud said: “Na Maria, dress,
+that we (may) go to your father.” They dress, both of them ; they
+arrive upstairs. They give them chairs ; they sit down.
+
+The Lord Governor looks at na Nzud ; he looks at his daughter
+na Maria. He asks her: “ Na Maria, wilt thou marry with this
+(man) ? ” Na Maria consents. He asks again the man, saying :
+“ Thou, na Nzud, wantest thou to marry with my daughter ? If thou
+marry with her, thou shalt do me service. If thou do it, what I
+want, it will please me.” Na Nzud says : “ Which service ? ” The
+Lord Governor says: “Thou shalt fetch me my daughter from
+
+
+Portugal. They carried her off to Portugal ; nobody can find her
+there. If thou comest with her, thy payment, thou shalt come to
+the governorship.” Na Nzud agreed to it. The Lord Governor tells
+him, saying : “ After arriving in Portugal, if thou seest a young
+woman, who is throwing out ashes on the refuse heap, she is my
+daughter.”
+
+Na Nzua starts ; he bids adieu to his wife, saying : “ Stay thou
+well.” Na Maria says : “ Go there.” When he had started, na
+Nzud said: “Teleji! hawk.” He became a hawk; there he is in
+the sky. He says : “Teleji ! eagle, bird without a tail, that is neighbor to the sky.” He becomes an eagle.
+
+He arrives in Portugal. He perceives a young woman, who is
+coming out of a house ; she is coming to the refuse heap to throw
+out ashes. The young woman says : “ Alas ! what misery I have
+to see ! ”
+
+Na Nzud, who is in the sky, hears ; he knows now, says : “ (It is)
+she, they sent me for her.” He says: “Teleji! hawk.” He becomes a hawk. He lowers his height ; . he lifts up the young
+woman. They say : “ Look ! a bird carries off a person ! ” He
+says: “Teleji! eagle, the bird without a tail.” He becomes an
+eagle. He went with the young woman a great distance in the sky.
+Pie arrived in Loanda. Says: “Teleji! man who is the last.” He
+
+He enters the house of the Lord Governor; he finds his wife,
+na Maria, says : “ Is not this thy sister, for whom they sent me ? ”
+Na Maria assents, saying: “She is.” They slept.
+
+When it dawned, he said : “ I will go to the Lord Governor to
+hand him his daughter. They go, na Nzud and the young woman ;
+they arrive upstairs. They find him present. Na Nzud says : “ Thy
+daughter (is) here, thou hadst sent me for her.” The Lord Governor
+says : “ Well done. Thou hast earned the dominion. Come to the
+governorship ; take thy glory, which befits thee.”
+
+And they lived together, na Nzud dia Kimanaueze kia Tumb’ a
+Ndala and na Maria, the daughter of the Governor.
+
+Thus far we heard it. If we want, we will tell more ; if we will
+not, let us go to sleep I Finished.
+
+
+IV.
+
+MUHATU, UASEMA MBIJI.
+
+
+dila n’ akua-diembu did. Ki abixidile ku bata, o diiala anga ubana o
+anga ukuvitala 309 o diiala n’ akua-diembu did. Ene anga a di tun’a.
+
+
+The Woman who Longed for Fisk .
+
+
+IV.
+
+THE WOMAN WHO LONGED FOR FISH.
+
+I will tell of ngana Kimalauezu kia Tumb’ a Ndala, who was
+staying with his wife, a long time back; and they lived. His wife
+then came to conceive. She ate no meat ; she longed only for fish.
+
+The man, when he went fishing, brought a lot of fish ; the fishes
+then fled to another river. One day the man tells the woman, saying: “Prepare me food, that I go fishing.” And the woman prepared the food. The man then went to the river, where the fish
+had fled ; and he made there his camping-hut, and ate.
+
+When he finished, he said : “ I will go to fish,” and he cast the
+net. The first time he caught nothing ; the second time the same.
+The third time he feels304 it is heavy. Under the vrater then it says:
+“ Wait, please ; because thy friend is the father of a child.” When
+he finished waiting, then he hears again there saying : “ Pull now ! ”
+He then pulled (out) a big fish, very large ; and he put it into (his)
+basket, and began to walk. But the fishes all were following this
+big fish ; the man heard always in the grass only : ualald ! ualald ! 308
+
+When he was already about to arrive at home, his woman went
+to meet him with her neighbors. When they arrived at home, the
+man then gave the fish to be scaled. The woman, however, then
+told the man, saying : “ Thou, scale it ! ” The man said : “ I won’t.”
+The woman then began to scale it. But the fish was (all the time)
+singing, saying :
+
+“ When thou me scalest, scale me well !
+
+When thou me scalest, scale me well ! n
+
+When she had finished, then she put it in the pot ; but the fish
+was still singing. When the fish was done, the woman then prepared five plates, and invited the man with her neighbors. But they
+refused. She then ate alone by herself.
+
+When she had finished, then she took her pipe and the mat ; and
+she spread it in the open. When she was seated, then she heard in
+her belly, saying: “Where shall I get out?” The woman said:
+“Get out by the soles of (my) feet.” The fish answered her: “By
+thy feet, wherewith thou art wont to tread on dirt, there shall I get
+out?” The woman said: “Get out by the mouth.” “By (thy)
+mouth, where thou didst swallow me, there shall I get out ? ’ The
+woman said : “ Seek wherever thou wishest.” The fish said : “ Then
+I get out here ! ” and the woman burst in the middle. The fish then
+went away.
+
+
+V.
+
+SUDIKA-MBAMBI.811
+
+
+Mamanii, di idike kid kiambote ; eme ngiz’ ($.”
+
+
+Eme Kabundungulu
+
+
+Sudika-M ham bi.
+
+
+V.
+
+SUDIKA-MBAMBI.311
+
+Let us tell of ngana Kimanaueze kia Tumba a Ndala, favorite of
+friends, who begat a son, his name (was) na Nzua of Kimanaueze.
+
+Na Kimanaueze says : “Thou, my son, na Nzua, go to Loanda to
+do business there.” The son says : “Just now only I brought home
+a wife.” The father says : “ Go, I have commanded thee.” He
+started ; arrived in Loanda, did business.
+
+His father, behind, where he remained, the Ma-kishi sacked his
+home, of na Kimanaueze, all. The son, who had gone to Loanda,
+arrives at the house of his father; he finds there are no people.
+Hunger, it grasps him, he says : “ How shall I do ? ” He says :
+“ I will go to the fields.” When he arrives in the fields, he sees a
+little woman yonder. He calls her. When she sees him, his wife
+whom he had left, she says : “ Thou hast come whence ? ” 313 The
+man says : “ What has done this to you ? ” The wife says : “ The
+Ma-kishi have destroyed us.” They live together. The woman is
+-with child. The day has come to give birth ; she hears in belly :
+
+“ Mother, my sword, here it comes.
+
+Mother, my knife, here it comes.
+
+Mother, my kilembe,816 here it comes.
+
+Mother, my staff, here it comes.
+
+Mother, place thyself well now ; I am coming here.” 816
+
+The son is out, he says :
+
+“ My name, I (am) Sudika-mbambi.
+
+On the ground I set (my) staff ;
+
+In the sky I set up (an) antelope.”
+
+The woman hears again in belly the younger, that remained there,
+saying :
+
+“ Mother, my sword, here it comes ;
+
+My knife, here it comes ;
+
+My staff, here it comes ;
+
+My kilembe, here it comes.
+
+Mother, sit well ; I am coming here.”
+
+The son is out ; the son says :
+
+“ My name,
+
+
+Of the tree of lukula.817
+
+My dog eats palm-nuts ;
+
+My kimbundu swallows a bull.” 818
+
+The elder son, Sudika-mbambi, says : “ My kilembe, plant it at
+the back of the house.” Says again : “ Mother, what has placed you
+mbela.321
+
+
+Sudika-Mbambi,
+here ? ” His mother says : “ I wonder, the child baby, I gave it
+birth just now, it is speaking ! ” The child says : “ Do not wonder ;
+you are going to see what I will do/' The child says further : “ Let
+us go to cut poles, that we build for our parents houses."
+
+They take up the swords (he) and his younger ; they arrive in the
+oush. Sudika-mbambi has cut one pole : the poles they all cut
+themselves. And the younger too, just as the elder has done, he
+also (does) the same. The elder and the younger bound the poles ;
+they come ; they set (them) do^n outside. They return to cut the
+grass ; they come ; they set (it) down outside.
+
+The elder and the younger come to erect the house. Sudikambambi erected one pole ; all the house erected itself at once. He
+tied one cord ; all the cords have tied themselves. He thatched one
+grass-stalk ; the house all thatched itself.321
+
+Then Sudika-mbambi says : “ Mother and father, enter ; I have
+built already.” He says another time : “ I go to fight the Ma-kishi.
+Thou, my younger, Kabundungulu, stay with our parents. But, ii
+thou seest my kilembe withered, I, where I went, I died."
+
+Sudika-mbambi set out. He arrives in midst of road ; he hears
+in the grass a rustling. He says : “ Who ? " The person says :
+“I (am) Kipalende, who erects a house on a rock." 322 Sudikambambi say s : “ Come, let us go ! "
+
+They walk. He hears again in the grass a rustling. He says :
+“ Who ? " The person answers : “ I (am) Kipalende, who carves ten
+clubs per day." Then Sudika-mbambi says : “ Come ; let us go ! "
+He arrives again on road ; he hears in grass a rustling. He says :
+“ Who ? ” The person answers : “ I am Kipalende, who gathers cornleaves in Kalunga." Sudika-mbambi says : “ Come ; let us go ! "
+
+They take to the road. He hears again in the grass a rustling.
+He says : “ Who ? " He answers, saying : “ I (am) Kipalende, who
+bends down the beard to Kalunga." 324 Sudika-mbambi says :
+“ Come, let us go ! ”
+
+They arrive on road. Sudika-mbambi perceives some one, that is
+coming on the other side of the river. He asks him : “ Thou (art)
+who ? " He says : “ I (am) Kijandala-midi,325 (with a) hundred I
+rinse (my) mouth." Sudika-mbambi says: “ I (am) Sudika-mbambi;
+on earth I set staff; in sky I set up antelope." Kijandala-midi,
+when he heard this, ran away.
+
+They arrive in midst of bush.326 Sudika-mbambi tells the four
+Kipalendes : “ Let us build here in order to fight the Ma-kishi."
+They go for the poles. Sudika-mbambi cut one pole : they all cut
+themselves. He tied one pole : they all tied themselves.
+
+They come to erecting. Sudika-mbambi takes up a pole ; he
+gives it Kipalende, who erects house on rock, saying : “ Take." The
+
+
+88 • Folk - Tales of Angola .
+
+
+Kakulakaji uai’e.
+
+
+Sudika-Mbambi.
+
+
+Kipalende takes the pole ; he erects it on the rock : it will not
+(stand). He erects it again : it will not (stand). Sudika-mbambi
+says : “ Thou didst speak thus, saying : * I erect a house on rock ; *
+thou givest it up ? ”
+
+Sudika-mbambi built the houses. The houses are finished. They
+slept.
+
+It dawns in morning, Sudika-mbambi says : “ Let us go to fight
+the Ma-kishi ! ” There remained one Kipalende, (he) of carving ten
+clubs ; he takes along three Kipalendes. They arrive at the Makishi’s. They are firing.
+
+At home, where remained one Kipalende, there came an old woman
+with her granddaughter. She found Kipalende, says : “ Let us
+fight ! If thou beatest me, thou shalt marry with my granddaughter.” They fight. Kipalende is beaten. The old woman lifted a
+stone ; she laid it upon 329 Kipalende. The old woman went away.
+
+Sudika-mbambi saw that Kipalende was under stone.330 He tells
+the three Kipalendes, saying : “ Your companion is under stone.”
+The Kipalendes say : “ Sudika-mbambi, thou tellest untruth. We
+are far off ; thou sawest how, that he was under stone ? ” Then
+Sudika-mbambi says : “ Truth indeed.”
+
+They stop firing. They say : “ Let us go home ! ” They arrive ;
+they find Kipalende under stone. Sudika-mbambi says : “ I told
+you how ? ” The Kipalendes say : “ Truth.”
+
+They remove the stone from him ; they say : “ What has done
+this to thee ? ” Kipalende says : “ An old woman came with her
+granddaughter, saying : * Let us fight. Thou, if thou beatest me,
+thou shalt marry with my granddaughter/ I fought with her. She
+has beaten me.” The others laugh at him, saying : “A woman, she
+has beaten thee ? ” They slept.
+
+Morning, Sudika-mbambi says : “ Let us go to the war ! ” There
+remained another Kipalende. They arrive at the war. They are
+firing. At home, where the Kipalende stayed, the old woman came
+with her granddaughter, saying: “Let us fight!” Kipalende says :
+“Well.” They struggle. The old woman has beaten the Kipalende.
+Sh« weights him down with a stone.
+
+Sudika-mbambi knows already that Kipalende is under stone. He
+tells the others : “ Your companion is under stone.” “ Let us go
+home!” They arrive; they lift the stone off him, saying: “What
+has done thee this ? ” He says : “ Yesterday, the old woman, as she
+did to our comrade, so to me also the same.” They slept.
+
+It dawns in morning, they start, go to the war. There remained
+another Kipalende. They are firing. Here, where a Kipalende
+stayed, the old woman comes. She found Kipalende, said : “ Let us
+fight ! Thou, if thou beatest me, thou shalt marry with my grand-
+
+
+90 Folk - Tales of Angola .
+
+
+loza.
+
+
+Akal’ L
+
+
+kiabuingita.
+
+
+Sudika-Mbambu
+daughter. ” They fight. The old woman has beaten Kipalende;
+she weights him down with a stone. She goes away.
+
+Sudika-mbambi, he knows it at once. He tells the others : “Let
+us go home ! Your comrade is shut down.” They arrive at home.
+They lift the stone off him, saying : “ What has done this to thee ? ”
+He says : “ The old woman, what she did to our comrades, (she did)
+to me the same.” They slept.
+
+Morning, Sudika-mbambi says : “ Let us go to the war ! ” There
+stayed one Kipalende. They arrive at the Ma-kishi’s. They are
+firing-
+
+At home, where Kipalende stayed, the old woman comes, says :
+“ Let us fight ! Thou, if thou beatest me, shalt marry with my
+granddaughter.” They fight. The old woman beats Kipalende;
+she weights him down.
+
+Sudika-mbambi, where he went, knows at once. Says : “ Let us
+go home ! Your comrade is weighted down.” They stop firing. At
+the Ma-kishi’s there was left one village. They arrive at home.
+They free Kipalende. They slept.
+
+It dawns, Sudika-mbambi says: “Yesterday, there was left one
+village. You, four Kipalendes, go ye to fire (guns). I, to-day, shall
+stay behind.” They went to fire.
+
+At home, where stayed Sudika-mbambi, the old woman comes,
+says : “ Let us fight ! Thou, if thou beatest me, shalt marry with
+my granddaughter.” They fight ; the old woman is beaten. Sudikambambi killed the old woman ; he remained with her granddaughter.
+
+The young woman says : “To-day I got life ; for my grandmother
+used to shut me up in house of stone, that I (should) not go about.
+To-day, we will marry now with Sudika-mbambi ! ” He assented.
+The Kipalendes come, say: “The Ma-kishi to-day are finished.”
+Sudika-mbambi says: “Well.” They live on.
+
+The four Kipalendes are making a plot for killing Sudika-mbambi,
+saying : “ A child has surpassed us. We shall kill him how ? ”
+They dug a hole in the ground. They spread on a mat and a
+mat.332 They call him. They say: “Sit down here.” He sat
+down ; dropped into the hole ; they covered him up. They stayed
+with the woman.
+
+At home whence he came, there stayed his younger, Kabundungulu. He goes round to the back of the house ; looks at the lifetree of his elder ; it is withered. Says : “ My elder, where he went,
+is going to die.” He pours water on it ; it grows green.
+
+The elder, Sudika-mbambi, when he dropped into the hole, there
+he found a road ; he is walking.
+
+He arrives in midst of road ; he finds an old woman, who is hoeing
+with the head (part) ; the lower (extremity), she kept it in the
+
+
+92 Folk- Tales of Angola .
+
+
+shade.334 Sudika-mbambi gave the old woman the day : “ My grandmother, warm there ! ” The old woman responds : “ Heat of day (is)
+here, my grandson.” Sudika-mbambi says : “ Show me the road.”
+The old woman says : “ My grandson, sir, hoe for me a little, please,
+that I show thee the way.” Sudika-mbambi takes the hoe ; he hoed
+for her. The old woman says : “ I thank. Come, let me show thee
+the way. Take this narrow path, do not take the wide path ; thou
+wouldst go astray.836 But when thou art going to arrive outside of
+na Kalunga-ngombe’s, thou shalt carry a jug of red-pepper 337 and a
+jug of wisdom.”
+
+Sudika-mbambi assents ; he takes the road; he arrives outside of
+na Kalunga-ngombe’s. The dog338 of na Kalunga-ngombe barks at
+him. He scolds it ; it enters their house. They spread for him 338 in
+guest-house. The sun is set. They have saluted him.339 He says :
+“I came to marry with the daughter of na Kalunga-ngombe.” Kalunga-ngombe says : “ Well. Thou shalt marry my daughter, (if)
+thou hast a jug of red-pepper and a jug of wisdom.”
+
+Sudika-mbambi, they cook for him food in the evening. He uncovered (it), looked ; a cock and a basket 340 of mush. He took out
+the cock ; he kept (it) under bed. He takes his own meat ; that he
+eats with the mush. He arrives in midst of night ; he hears in the
+village : “ Who has killed the cock of another ? of na Kalungangombe ? ” The cock answers under the bed : “ Kokoloku6 ! ”
+
+Day breaks. Sudika-mbambi says : “ Na Kalunga-ngombe, give
+me now thy daughter.” Na Kalunga-ngombe says: “ My daughter
+was carried away by Kinioka kia Tumba. Go and rescue her!”
+Sudika-mbambi starts ; he arrives outside of Kinioka’s, says :
+“ Kinioka is gone where?” The wife of Kinioka says: “ He has
+gone shooting.” Sudika-mbambi waits a while. He sees driverants;342 here they come. Sudika-mbambi he beats them. There
+comes the red-ant ; he beats them. There come the bees ; he beats
+them. There come the wasps ; he beats them. There comes a head of
+Kinioka ; he cuts it off. There comes another head ; he cuts it, too.
+There comes another head ; he cuts the palm-tree of Kinioka ; cuts
+the head. There comes another head ; he cuts the head of the dog of
+Kinioka ; cuts the head of Kinioka. There comes another head ; he
+cuts the banana-tree of Kinioka; he cuts the head. Kinioka is dead.
+
+Sudika-mbambi enters into the house of Kinioka. He finds the
+daughter of Kalunga-ngombe, says : “ Let us go ! Thy father sent
+for thee.” They arrive outside of na Kalunga-ngombe’s, says : “ Thy
+daughter is here.”
+
+Na Kalunga-ngombe says: “Kill me Kimbiji kia Malenda a
+Ngandu,344 who keeps catching my goats and pigs.” Sudika-mbambi
+says: “Bring a suckling of pig.” They give him it. He puts it
+
+
+Sudika-Mba mbi.
+
+
+on hook;843 he casts into the water. Kimbiji comes to take; he
+swallows the pig. Sudika-mbambi begins to pull ; he tumbles into
+the water. Kimbiji kia Malenda a Ngandu swallows him.
+
+At home, where his younger Kabundungulu stayed, he goes
+around to back of house to see the kilembe. The kilembe is dry ;
+he says : “ (My) elder is dead. I will follow where my elder went.’*
+
+He enters the road, where his elder went. He arrives at house
+of his elder ; he finds the Kipalendes ; says : “ My elder, he went
+where ? ” The Kipalendes say : “ We don’t know.” Kabundungulu
+says: “ You have killed him. Uncover the grave.” They uncover it.
+
+Kabundungulu gets in ; he strikes the road, on which his elder
+passed. He finds the old woman, who is hoeing with the upper
+body, the lower is in the shade. He says: “Thou, old woman,
+show me the way, which my elder walked.” The old woman shows
+him the way.
+
+He arrives outside of na Kalunga-ngombe’s, says : “ My elder,
+where (is he) ?” Na Kalunga-ngombe says : “ Kimbiji has swallowed
+him.” He says : “ Give me a pig.” They give him it. He put it
+on hook. He casts into the water. Kimbiji swallows the hook.
+Kabundungulu calls the people to pull (out) Kimbiji. They pull
+him ; he comes on dry land.
+
+Kabundungulu takes his knife; he cuts open Kimbiji. He finds
+the bones of his elder ; he gathers them. Says : “ My elder, arise ! ”
+Sudika-mbambi arises. The younger says : “ Let us go now, my
+elder.” Sudika-mbambi, na Kalunga-ngombe gives him his daughter.
+
+They take the path. They arrive at the hole where Sudikambambi died. The ground is crackling. They get out on earth.
+They find the four Kipalendes. They drive them away. They live
+on. The younger says : “ My elder, give me one woman, for thou
+hast two.” The elder says : “No. My wife, thou my brother, canst
+not marry her.”
+
+The elder, when he went hunting, the younger comes into the
+house of his elder to entertain the wives of his elder. The elder
+left the hunting, arrives in the house. His wife tells him : “ Thy
+younger keeps coming here to make love to us.”
+
+The elder, when he heard this, it displeased him. They begin to
+quarrel, the elder and his younger. They strike each other ; they
+want to kill each other. No one can kill the other. They thrust
+(at) each other their swords ; they don’t cut. They get tired of it.
+The elder, Sudika-mbambi, on ground he sets the staff, in sky he
+sets up antelope, goes to the East. His younger, Kabundungulu of
+wood of lukula, his dog eats palm-nuts, his kimbundu devours a bull,
+goes to the West.
+
+Thus the elder and the younger quarrelled about women; then
+
+
+96 Folk -Tales of Angola.
+
+
+VI.
+
+NGANA SAMBA NI MAKIXI.
+
+
+mu ibula : “Jina did, nanii ? ” O kahatu uxi: “ Erne Samba.” O
+
+
+Ku muleng’d ! — ku muleng’£ ! 868
+
+
+Ku muleng’d ! — ku muleng’d !
+
+Aku’d olela ; exi : “ Kauaba.” Akal’ d.
+
+
+Ngana Samba and the Ma-kishi.
+
+parted. It remained like this : The storm when it thunders (is) the
+elder, who went to the East : the other thunder, that responds, (is)
+his younger, who went to the West.
+
+We have told our story. The end.
+
+
+VI.
+
+NGANA SAMBA AND THE MA-KISHI.
+
+We often tell a little story. People built, dwelt. The dry season
+came, they said : “ Let us go to burn the prairie.” Women and
+men gather themselves. The men kill the game; the women are
+digging (after) rats.351 The people indeed all have already gone
+home. In the prairie there remained one little woman ; she tarried
+in digging for a dixinji-rat.352
+
+While she was digging, a Di-kishi came (that way) ; he found her.
+The Di-kishi then tells her, saying: “Thou, little woman, thou
+pleasest me.” She, when she saw the Di-kishi, fear took her ; because the Ma-kishi eat men. The Di-kishi asks her : “ Thy name,
+which ? ” The little woman says : “I am Samba.” The Di-kishi
+says : “ Come, let us go home. Thou earnest with whom ? ” The
+little woman then sings the little song :
+
+“ We dug crickets — in plantation ;
+
+We dug crickets — in plantation.
+
+The others caught ten — in plantation ;
+
+I caught one — in plantation.
+
+In plantation ! — in plantation ! 99 863
+
+The Di-kishi laughed, said : “ The little song, which thou hast
+sung, it pleases me. Come, let us go home ! ” They take the road.
+
+The girl, at home, whence she came, the others sought her ; she
+appeared not. They said : “ Samba is lost.”
+
+The Di-kishi, when he arrived with her at his home, he told the
+other Ma-kishi : “ I have come with a girl, who is singing a good
+little song.” The others say : “ Let her sing it again.” He called
+her. “ Samba, come ; sing our little song.” She sings :
+
+“We dug crickets — in plantation ;
+
+We dug crickets — in plantation.
+
+Our people caught ten — in plantation;
+
+I caught one — in plantation.
+
+In plantation ! — in plantation ! ”
+
+The others laughed, saying : “ It is nice.” They lived on.
+
+After spending a time, the other Ma-kishi begin to persuade the
+man of the woman, saying : “ Let us eat her ; one day she will run
+away.” He, the Di-kishi, said: “I will not ; I will marry her.”
+
+
+98 Folk - Tales of Angola .
+
+
+mu njila.
+
+
+Kadingu, nd6 n’G.
+
+
+Kadingu, nd£ n’6.
+
+
+Kadingu, ndd n’e.” 8C9
+
+
+“ Ngunda mona;
+
+Kadingu mona ;
+
+Papa, Ngunda,
+kuimba :
+
+
+Kadingu, ndd n’6.” (Luiadi.)
+
+
+“ Ngunda mona ;
+
+Kadingu mona.
+
+Papa, Ngunda,
+
+
+Nga7ia Samba and the Ma-kiski.
+
+He built her a house ; she entered. After some years had passed,
+she had begotten with him three male children. One day the Makishi gather themselves outside ; they are making a plot, saying :
+“ To-morrow we will eat one child/’ The children heard ; went,
+told their mother, saying : “ They are making a plot to kill us.” The
+children, their names : the eldest, Ngunda ; the second, Kadingu ;
+the third, Papa. They slept.
+
+In the morning, the woman said : “lam sick ; I cannot go to the
+fields to hoe.” Her husband said to her : “ Stay (here) ; to-day I ’ll
+find thee (again).” The people all went to the fields.
+
+Samba, when she saw (that) in the village there was nobody ; there
+are (only) little children, she packed all her things and all her seeds ;
+she started. She makes go ahead her two children, the baby she
+carries it on back. They enter the road.
+
+The children of the Ma-kishi are going to call the husband of
+Samba, saying : “ Samba, she has run away.” The husband of Samba
+left work quickly ; he arrived at the house : Samba is gone.
+
+He takes the path, where Samba passed. He sees her passing
+afar off. He begins to call her, saying and singing :
+
+“ Me leave Ngunda;
+
+Kadingu, go with him.
+
+Me leave Ngunda;
+
+Kadingu, go with him.
+
+Me leave Ngunda ;
+
+Kadingu, go with him,” m
+
+
+The woman sang too :
+
+“ Ngunda (is) a child ;
+
+Kadingu is a child ;
+
+Papa, Ngunda,
+
+Kadingu, let us go.’*
+
+Samba took up a cracked calabash of millet ; she threw it on the
+ground. Her husband arrived there; he found the millet on the
+ground. He is picking up and singing :
+
+M Pick, pick up ! A fruit, don’t waste it” (Repeat twice.)
+
+The millet is finished. He starts, singing again :
+
+“Me leave Ngunda;
+
+Kadingu, go with him.” (Repeat twice.)
+
+The woman replied singing also :
+
+“ Ngunda is a child ;
+
+Kadingu is a child.
+
+Papa, Ngunda,
+
+Kadingu, let us go ! ”
+
+
+IOO
+
+
+“ Ngunda mona;
+
+Kadingu mona.
+
+Papa, Ngunda,
+hombo.
+
+O dikixi, ki avutukile ku bata did, aku'd a mu olela, exi : “Tua ku
+kiki mukaji e ualenge e n' an’ enu.” O muene uavutuile: “Aba,
+
+
+Ngana Samba and the Ma-kishi . ioi
+
+Samba throws down a calabash of sesamum. Her husband arrives
+there ; he is picking up and singing :
+
+“ Pick, pick up ! A fruit, don’t waste it.” (Repeat twice.)
+
+The sesamum is finished. He resumes pursuing and singing :
+
+“ Me leave Ngunda ;
+
+Kadingu, go with him.” (Repeat twice.)
+
+The woman answers, saying :
+
+“ Ngunda is a. child ;
+
+Kadingu is a child.
+
+Papa, Ngunda,
+
+Kadingu, let us go ! ”
+
+She throws down a calabash of Eleusine. The Di-kishi arrives
+there ; begins to pick up, singing :
+
+“ Pick, pick up ! A fruit, don’t waste it.” (Repeat twice.)
+
+The Eleusine is finished. He begins to pursue. Samba arrives
+at a large river. She crosses with her three children. The Di-kishi,
+when he arrived at the river, he found the river full ; he could not
+cross over.
+
+The woman arrived at home, whence she had come. When they
+saw her in the village, they said : “ Samba has come ! We thought,
+saying, ‘she is dead.’ — Where wentest thou?” She spoke, saying:
+“A Di-kishi carried me away. He, I begat with him three children : this one (is) Ngunda ; this one (is) Kadingu ; the youngest (is)
+Papa. I ran away.” Her kindred received her, and for her killed a
+goat.
+
+The Di-kishi, when he returned to their home, the others laughed
+at him, saying : “ We had told thee, saying : ‘ Let us eat her ; one
+day she will run away ; * thou didst say, ‘ I will not/ Now thy wife
+has run away with your children ! ” He returned : “ Well, what shall
+I do?”
+
+The story is finished. The end.
+
+
+VII.
+
+AN' A AHETU NI MAKIXI.
+
+Ngateletele minzangala ia an’ a ahetu kitatu, atonokene ukamba
+ni makixi.
+
+sanzala i’ an’ a ahetu ni ia makixi bala dikanga.
+
+Kizu’ eki, an’ a ahetu exi : " Ku makamb* etu, ki tuene mu ia-ku,
+mu kusungidisa 364 o an’ a ahetu ; asungila ; atubuka. An’ a ahetu
+
+
+The Girls and the Markishi .
+
+
+VII.
+
+THE GIRLS AND THE MA-KISHI.
+
+I will tell of youths, young women, three, who played (at) friendship with the Ma-kishi.
+
+The girls used to go to their friends, the Ma-kishi, all days. In
+the middle (between) the village of the young women and that of the
+Ma-kishi there is distance.
+
+One day, the young women say : “ To our friends, as we are
+wont to go, to-morrow we will go.” They slept. It dawned, they
+say : “ Let us go.” They gather, the three of them. There is one
+of them, who has a little sister, a girl, who says : “ I, too, will go ;
+where you always go, all days, what is there?” The elders said:
+“ We won’t.” 362 The child said : “ I, too, will go.” The elders
+said: “In middle there is a large river; thou canst not cross over.”
+The child said: “Until I have gone.” 363 The two elders said to
+the other, who owned the young sister : “ We will not go with a
+child.” Her elder caught her; she beat her, saying: “The others
+have refused.” They go away. The child is following them in
+haste. They stop on the road; the child overtakes them. The
+elders turn back ; they see it is coming. They say : “ Thou, child,
+thou art obstinate, why ? They have beaten thee already ; yet thou
+comest ? Let us go now.”
+
+They take the path ; arrive at the river ; cross it. They walk far ;
+arrive at the village of their friends, the Ma-kishi. Their friends
+spread (mats) for them. The evening comes ; they cook for them
+food ; they eat.
+
+The Ma-kishi to-day had made a plot to kill the young women,
+to eat them. They come to have a chat 364 with the girls ; having
+chatted, they go out. The girls remain, the four of them, in the
+house. All the people are already asleep ; the girls are asleep, the
+three elders. The child, in her eyes there is wakefulness.
+
+A while, she hears outside, at the door of the house, where they
+stayed, the Ma-kishi have come. She keeps quiet, hush ! fear has
+taken her. She hears again the Ma-kishi are asking into the house :
+“You, you, are you asleep now?” 365 The little girl is thinking in
+her heart, saying : “ How shall I do now ? I shall sing what song ? ”
+A Di-kishi said again : “You, you, are you asleep now?” The little
+girl put out the fire in fire-place ; she begins to sing in response :
+
+“We are in bed ; are not asleep ;
+
+The heart to the great wizard
+Of the wizard of the road.
+
+Cold, oh ! outside red !
+
+
+dingi :
+
+
+Kana kexi :
+
+
+The Girls and the Ma-kishi.
+
+
+i°5
+
+Hunger, too ! outside red !
+
+Thirst, too ! outside red !
+
+Mosquitoes, too ! outside red ! ” 866
+
+The Ma-kishi scatter outside ; they go to fetch victuals, to give to
+those that complained of hunger. A while, they come with a gourd
+of beer and mush. They give to the child ; the child receives (it)
+at the side of the door. The Ma-kishi say : “ When the child has
+taken, and is full, it will go to sleep ; we then shall know (how) to
+kill them.” The child received the things ; she put them aside.
+A while, she hears again :
+
+“ You, you, are you asleep now ? ”
+
+The child says :
+
+“We are in bed, are not asleep ;
+
+The heart to the great wizard
+
+Of the wizard of the road.
+
+Cold, oh ! outside red !
+
+Hunger, too ! outside red !
+
+Thirst, too ! outside red !
+
+Mosquitoes, too ! outside red ! ”
+
+The Ma-kishi separate again. What the child and the Ma-kishi
+are doing, the elders do not know it ; they are asleep.
+
+A while, the Ma-kishi come again. They come with a gourd of
+palm-wine, and a cloth for the child to cover itself. They give her ;
+she received : put (them) aside there. The child said in her heart:
+“ I will not sleep ; if I fall asleep, forthwith they will kill us.” The
+Ma-kishi separate outside. The cocks crow; the Ma-kishi cannot
+come back any more.
+
+Day dawns, the people all get up. The child tells her elders, saying : ‘‘You, my elders, when you were well asleep, the things to-night
+that came outside, did you ever hear them ? ” The elders said :
+“ Thou, child, art naughty ; therefore yesterday we sent thee back.
+We, all days that we have been coming here, we did not hear them ;
+now thou hast heard them ? ” They give her a snap. The child
+said : “ (It is) well, what you said ; another night, when it comes, do
+not sleep, that you may hear.” The others assented ; they passed
+the time. The sun set ; they cook them food ; they eat. They
+begin night-chatting with their friends, the Ma-kishi. All people
+are asleep now; the Ma-kishi leave them saying: “ Sleep ye well.”
+The women respond ; they lie down on the beds. The day (night)
+has come (to be) in the middle,371 they hear outside :
+
+“ You, you, are you asleep now ?
+
+You, you, are you asleep now ? ”
+
+The child was first in answering, saying :
+
+
+A d’ibula mu did, exi: “O kiki, tubanga kiebi?” Muku’d uxi:
+
+
+The Girls and the Ma-kishi.
+
+
+“ We are in bed, are not asleep ;
+
+The heart to the great wizard
+Of the wizard of the road.
+
+Cold, oh ! outside red !
+
+Hunger, too ! outside red !
+
+Thirst, too ! outside red !
+
+Mosquitoes, too ! outside red ! ”
+
+The Ma-kishi separated. Behind, where the girls stayed, the child
+taunts her elders : “ Have you heard it ? ” The elders said : “ We
+heard ; don’t talk loud again” They ask each other, saying : “ Now,
+how shall we do?” Another said : “ Let us run away in the night.”
+The others said : “ If we run away at this hour, we shall meet with
+wild beasts. Thus, how shall we do ? ” They said : “ Let us sleep
+now ; to-morrow we may know what to do.” They kept quiet.
+
+The Ma-kishi come again ; they begin to ask :
+
+“ You, you, are you asleep now?”
+
+The child is responding, saying :
+
+“ We are in bed, are not asleep ;
+
+The heart to the great wizard
+Of the wizard of the road ;
+
+They are breaking wind.”
+
+The Ma-kishi separate. They fetch gourds of beer and palmwine, and mush, and cloths. They come again ; they ask outside :
+“You, you, are you asleep now?”
+
+The child answered :
+
+“ We are in bed, are not asleep;
+
+The heart to the great wizard
+Of the wizard of the road ;
+
+They are breaking wind.”
+
+The Ma-kishi gave the things that they came with. The child
+received ; put aside there. The Ma-kishi went ; they speak, saying : “ This child, why is it awake as to (its) eyes ? ” The cocks
+have crowed ; they cannot come again.
+
+Day breaks ; the Ma-kishi come to greet their girl friends. The
+girls said : “To-day we slept not (well), we are sick.” The Ma-kishi
+said : “ Is one person sick, or are you all sick ? ” 873 The women
+said : “We indeed are all sick.” They are passing time; the third
+day.
+
+The sun sets ; the evening comes. They give them food ; they
+eat. The girls are asking each other, saying : “ How shall we go ? ”
+They say : “We will first chat with them ; when they separate, we
+may flee.” They agree, the three of them, saying : “ So we shall
+do.” The Ma-kishi came to chat ; they are chatting. The people
+all have retired ; 374 the Ma-kishi take leave of the girls, saying :
+“ Sleep ye well.” The girls respond. The Ma-kishi go out.
+
+
+108 Folk - Tales of Angola .
+
+
+bula :
+
+
+mbunda iiii.” An’ a ahetu exi : “ Uaue ! tuabulukile ; o kiki ki a
+o muxi ni kimene. An’ a ahetu ala mu kuimbila bu lu dia muxi,
+exi •
+
+
+Bukuka !
+
+
+Ku embu^
+
+O makixi asuina kukoka. O Kikuambi uala mu zunga bulu ; an*
+mu kuatela kima. An’ ahetu ala mu mu bomba : “ Tata, eie Kikua-
+
+
+The Girls and the Ma-kishi.
+
+
+The girls, behind where they stayed, take their little things ; they
+v/rap them in their bosoms.375 They go outside ; they send ahead
+their little sister. The moon shines. They walk with strength on
+the path. They arrive at the river ; find the river full ; they cannot
+cross by night They say : “ Now, how shall we do ? ” By the side
+of the river, there is a large tree ; they all climb on that same tree.
+The three elders, they get np to the top of the tree ; the child gets
+up beneath. They keep quiet.
+
+Behind, in the village whence they came, the Ma-kishi come to
+the house to ask :
+
+“ You, you, are you asleep now ?
+
+You, you, are you asleep now ? ”
+
+In the house there is silence. The Ma-kishi think, saying : “ They
+are asleep.” They take brands of fire ; they surround all the house ;
+the house is aflame. The gourds of beer, that are in the house,
+explode with the fire. The Ma-kishi, hearing the gqurds, that are
+bursting, said : “ They are the people who are reeling.” They are
+laughing : “ Haha ! haha ! to-morrow we shd.il eat meat, meat of
+delicacy.” The house is consumed ; they come to look in the ashes ;
+they scratch them : the gourds are there ; the people fail to appear.
+It displeased them ; they speak, saying : “ The meat is gone, the
+meat is gone ! ”
+
+They go to the path ; they look for the tracks on the road. They
+too go ; they pursue that same night. They arrive at the river,
+where are the girls.
+
+Day dawned ; they looked into the tree : here they are. The
+Makishi say : “ Meat here ; meat here.” The girls say : “ Woe ! we
+had escaped ; now that they followed us, we are going to die.” The
+Ma-kishi take (their) hatchets ; they are felling the tree from early
+morning. The girls begin to sing in top of the tree, saying :
+
+“ Oh ! hatchet ! oh ! hatchet !
+
+Do break !
+
+We shall replace hatchet
+
+At home.”
+
+The Ma-kishi are hard at felling. The Hawk is circling in heaven ;
+the girls say : “ Please, Hawk, save us.; we shall pay thee at home.”
+The Hawk said : “ I will not ; you will refuse to pay me.” They
+say : “We beseech thee ; we will pay thee.” The Hawk is circling
+on ; he does not care a bit The girls are imploring him : “ Please,
+thou Hawk, wilt thou abandon us to die ? If thou savest us, our
+mothers will pay thee. If they refuse to pay thee, we ourselves can
+pay thee.” The Hawk said: “Well.”
+
+He took one person from the tree ; he set her down on the other
+side. He came back again for another, the second ; he set her down
+no
+
+
+An’ a ahetu exi : “ Tata, tuasakidila ; ua tu bulula. Baba, ki tuala ni
+
+An’ a ahetu akutuka mu njila; ala mu xikina ndenge 4, exi:
+
+Abixila ku bata did ; asange adi a. A a tudila ioso i amono, exi :
+
+
+VIII.
+
+O ANA A MUTUDI.
+
+
+The Children of the Widow.
+
+on the other side. He came back for another, the third ; he set her
+down on the other side. There remained their child. The Ma-kishi
+work hard at felling ; the tree is bent already. The three elders,
+who are on the other side, say : “ Woe ! our child is going to die.
+Hawk, hasten, take her up in haste.” The Hawk arrives at the
+tree ; takes up the child ; the tree falls. The Ma-kishi are disappointed ; 381 they speak, saying : “ The meat is gone ; ” saying : “ The
+meat is gone.”
+
+The Hawk sets down the child on the other side, saying : “ How
+about paying?” The girls said: “Sir, we are thankful; thou hast
+saved us. Here, we have nothing to pay thee. Thou thyself shalt
+see thy day and find us at home, we, that we pay thee.” The Hawk
+assented.
+
+The girls entered the road ; they are giving right to their child,
+saying : “ Our younger, before yesterday, we beat her wrongly, for
+truth was hers ; she saved (us) life.”
+
+They arrived at their home ; they found their parents. They
+announced to them all they had seen, saying : “ Our younger has
+saved our life ; and Hawk too, he has saved our life.” Their parents
+said : “Well.” They are silent.
+
+They spent two days, the Hawk arrived, saying: “Ye pay me
+now.” They said : “ We cannot pay thee into (thy) hands ; thou
+thyself, the fowls are here, help thyself.” The Hawk assented.
+
+And thus it remained : the Hawk, who is wont to catch fowls, of
+old he did not catch them ; he was eating locusts and small birds
+only. What caused him to catch them, his job, that he once did.
+
+I have told the story ; finished.
+
+
+VIII.
+
+THE CHILDREN OF THE WIDOW.
+
+A woman gave birth to her children. When she had finished
+giving birth to her children, the children grew up.
+
+Their father died. One, the elder said : “ I will learn the craft
+of hunting.” The younger said: “I will learn also the craft of
+hunting.” They took up the guns ; they go, until (they are) in the
+woods. They see no game. The rain comes on; they say: “Let
+us flee from the rain.”
+
+They run ; they come to a house of Ma-kishi ; they enter. They
+find in it a mbanza 384 of the Ma-kishi ; they play. One Di-kishi
+comes ; he carries two buffaloes.385 He asks : “ YVho (is) he, who is
+playing the mbanza ? ” He hears in there, saying : “ If thou art a
+tuxikame hanji.”
+
+
+jihuinii.”
+
+Evile o kaveia, kuma : “ Enu nu an' ami ; ndenu mu jihuinii.” Aii
+
+
+The Children of the Widow • 1 1 3
+
+strong man, enter the house, thou shalt be. food of my dogs.” He
+stopped outside. Another Di-kishi comes ; he also carries three buffaloes. He asks the other, who is outside, saying : “ In the house,
+what didst thou flee from ? ” Says he : “I fled from two men who
+are in it. They want to kill us for food for their dogs.” Others
+they come too ; also their chief. The chief asks, saying : “ In the
+house, what did you flee from ? ” They say : " We fled from two
+men, who want to kill us.”
+
+The chief entered ; greeted, saying : “ Be gone, outside.” The two
+men said : “ We cannot go outside.” The chief called the others,
+saying : “ Put them outside ! ” They manage to put them out.
+
+The elder, he sits down ; the younger, he fights with the Ma-kishi.
+He kills four Ma-kishi. There remain eight Ma-kishi. He kills
+again four. The younger too sits down.
+
+The elder conquers too ; ke kills the four who remained. He
+takes the chief ; he cuts off his head. There succeeds again a head :
+he cuts it again. There succeeds further another. The elder says :
+“ We cannot (kill) him ; let us sit down, please ! ”
+
+The elder becomes a bagre-fish. The Di-kishi takes him up ; he
+swallows (him). The bagre goes to look into his hearts,389 whether
+there are the keys of their houses. He finds them ; he takes them ;
+comes out. The younger, who succeeded him, he cut the head of
+the Di-kishi. The Di-kishi died.
+
+They opened the rooms. They found (in them) slaves ; they gave
+them to eat. They go up to the upper story and open there. They
+find there three ladies, and they give them to eat, too. They say :
+“ Let us live now here ! ”
+
+Where she stayed, their mother had gone to another country with
+her two little children. Their mother said : “ The food, which we
+are eating, it is not sufficient for us. Go to fetch firewood.”
+
+They went for the firewood ; they went astray. They come to the
+house of a stranger, of an old woman. They hear the old one, saying :
+“ You (are) my children ; go ye for firewood.” They went for firewood ; they came with firewood. They ate ; they slept ; they got up.
+Then the old woman : “ Go ye again for firewood.” They went to
+cut. The younger, a girl, went with her firewood ; the elder stayed.
+
+He finds his deceased father, saying : “ The firewood, you are
+cutting it why ? ” “ I don’t know, father.” Their father says :
+
+“Directly I will tell thee, when they send thee for water.” The
+elder returns also to the old woman.
+
+She tells them : “ Go ye to get the water.” The elder and the
+younger went for the water. The younger got the water ; came
+(home). The elder stayed, said: “ My father, tell me now.” His
+father said : “ The old woman, forthwith when she puts the water
+
+
+1 14 Folk - Tales of Angola .
+
+
+Alenge d kud manii d.
+
+Mahezu.
+
+
+IX.
+
+KIANDA NI MON’ A MUHETU.
+
+Muhatu uexile n’ an’ e kiiadi. Buiza Kaholongonio ka mutue ua
+bu*?**
+
+
+The Kianda and the Young Woman .
+
+on fire-place ; when she tells thee, saying, * Look the water, whether
+it is boiling,’ thou shalt speak, saying : * I don’t know.’ While the
+old woman looks at the water, thou shalt push her into it ; shalt
+plunge her head into the boiling water.”
+
+The elder, as his father told him, thus he did. He pushed the old
+woman, held her down there in the water ; the old woman then died.
+
+The elder and the younger entered into the house. They took
+out of it all the money. They ran away to their mother.
+
+The end.
+
+
+IX.
+
+THE KIANDA AND THE YOUNG WOMAN.
+
+A woman was with her two children. There came Skull of the
+head of a man, who wanted one of her daughters, the younger, for to
+marry her. The elder daughter took it up and took ashes, and
+filled (its apertures) with them. When she finished smearing it
+(with) ashes, then she threw it into a lagoon. It was no good to
+marry her younger sister.
+
+The same under the water became Kianda. In the morning, then
+he comes to talk with the mother of that same daughter, saying :
+“I want thy daughter to marry her.” Her mother then assents.
+When she finished assenting, Kianda then carried off the woman
+and went with her under water. When he had done going with her
+under water, then he dressed her finely with strings on neck and
+arms. When he has dressed her, then he comes with her to the home
+of her mother, and brings her a barrel of wine, and taking a bale of
+cloth, he gives her it. When he brought these things, the woman
+then went to the house of her husband, and they stayed and stayed
+together.
+
+The man then took the kalubungu ; he knocked it on the ground.
+There came out many slaves, and there came at once houses for the
+slaves.
+
+When these things are finished, the woman then comes to be
+pregnant and gives birth. The child then dies.
+
+The man then speaks thus, saying : “ My child is dead here. Thy
+mother, let her not come to the funeral.” Her mother then comes,
+as the man was dancing. He, when he turned, saw, in front, the
+mother of his consort. When he had seen, then he went to his
+house, and told his wife, saying: “ How did I tell thee? saying ‘my
+child is dead ; thy mother (need) not come to the funeral ’ ? ”
+
+When he had finished speaking, he takes the kalubungu, and
+knocks it on the ground. The houses all then go into the kalu*
+
+
+1 1 6 Folk - Tales of Angola.
+
+
+umoxi.
+
+
+X.
+
+A-UOUA KIUANA.
+
+uasoma. Uavuala an’ e kiuana ; ahatu ene oso. Kana dingi mon’ a
+
+
+The Four Uouas.
+
+
+bungu. Where there was a village, then there sprouts the grass.
+When he had finished, the man then goes away, anywhere. The
+woman follows him, wherever the man is going, and she keeps on
+singing, saying:
+
+“ Husband mine of love ! Husband mine of love ! ”
+
+People who are in heaven, then keep answering :
+
+‘ O ! run ye, O run ! Soon is gone the dry season.” 894
+
+The man then finds a place where there is a large rock, that has a
+door. He enters inside the rock. The woman saw him not again.
+And she returned where she came from, and went to the home of
+her mother.
+
+When she arrived at the home of her mother, then she died ; her
+mother also then died ; and all the people they died too.395
+
+There remained only one person, a woman. She remained in her
+house. A Di-kishi then comes and he carries her off ; goes with her
+to his house. And they live together. The woman then becomes
+pregnant ; she gives birth to a child. It came out (with) one head.
+
+The woman then conceived another time ; the Di-kishi then said
+to her thus : “ If thou bearest again a child with one head, I shall
+call our folk, to eat thee.” The woman then bore a child of two
+heads.
+
+The woman then carried her child of one head, and ran away.
+She finds houses, and hides there. There was passing a Di-kishi,
+and he scents the smell of human beings. The Di-kishi then enters
+into the house ; he finds the woman asleep, and he eats her with her
+child, both of them.
+
+The house then was changed into a house of Ma-kishi.
+
+
+X.
+
+THE FOUR UOUAS.
+
+We will tell of the four Uouas,396 of the elder two, and the younger
+two. Na Kimanaueze kia Tumb* a Ndala, favorite of friends, built,
+lived. £ie begat his four children ; all females. There came no
+male child. They all (had) one mother.
+
+The eldest, when she came to name herself,397 said : “ I (am)
+Uoua.” Her younger, who followed her behind, also said : €t I (am)
+Uoua.” Their sister, the third, says: “I (am) Uoua.” The youngest, the fourth, says : “ I (am) Uoua.” The other people say : “ The
+name is one, that you called yourselves, in your sistership of four.
+How shall they call you?”
+
+
+i iS Folk- Tales of Angola.
+
+
+an' ahetu.
+
+Uxi : “ Ngoloxi, enu, jingana.” An’ ahetu a i 400 tambula exi :
+“Ngoloxi ifii.” A mu zalela dixisa boxi ; uaxikama. An’ ahetu a
+
+
+Mu tunda, tu an’ a nguvu ;
+
+Mu ngela, tu an’ a Nguvulu.406
+
+
+kota/’ 411
+
+
+ngamesena kusakana n’ an* 61* Na Kimanaueze uxi: “ Kiauaba.
+tena. Kiauaba.”
+
+kele,
+
+
+The Four Uouas.
+
+
+They grew up ; have come to the age of marrying.
+
+There came a man to woo, to Uoua the eldest. They (were in)
+one house, of virginity.399 They placed him in the guest house.
+The sun died. They cooked food for him ; he ate. The night came ;
+the man went out ; he went to the house of the girls.
+
+He says: “Evening, you, ladies.” The girls accept it, saying:
+“ This is evening.” They spread for him a mat on the ground ; he
+sits down. The girls entertain him ; saying : “ Thou spentest (the
+day) how, young man ? ” He says : 401
+
+“ I spent the day as an elephant spends it.
+
+I played, as a player of backgammon.
+
+The elephant is lame, (because) they shot him.
+
+The path is worn down, (because) they walked it.408
+
+A nice bottle of bird-seed, (is) food of birds.404
+
+The wild fig-tree and the Mubangu tree (are) ornaments of a home.406
+
+In the East, we are children of the hippo;
+
+In the West, we are children of the Governor.406
+
+The young man, when he covers himself,
+
+(Casts) the mantle over the left (shoulder).407
+
+Staff, staff ; sword, sword :
+
+Staff, we took it for ornament ;
+
+The sword, we took it for sergeantship.
+
+The tobacco slept at head of bed ;
+
+The palm-wine slept in the glass ;
+
+Tobacco, (is) the cause of spitting ;
+
+Palm-wine, (is) the cause of talking.
+
+There is where his heart went. This is the end, ladies.”
+
+They say : “We accept.” They say : “ Let us pass time. The
+sun is down, the evening dark. That thou thoughtest, saying, ‘I
+will go to give them (good) evening,’ we praise it, that thou didst so.
+The end.” He answered, saying: “(Is) of God.” They continue
+their conversation. He says : " I came (because of) thee, thou, na
+Uoua the eldest.” m
+
+Na Uoua says : “ Very well. Thou shalt marry me, (if) thou
+marriest us all, the four of us. If thou thinkest, that (thou wilt
+have) me alone, the eldest, thou canst not marry me. It must be
+that we marry our one man, the four of us in the fourhood (of) one
+mother.” The man assents, saying: “I can marry you.” He gives
+them tobacco ; he goes to his guest house ; sleeps.
+
+At daybreak, he goes to na Kimanaueze, saying : " I have come
+to have a talk ; I want to marry with thy daughters.” Na Kimanaueze says : “Very well. If thou canst afford the four of them, bring
+me the price.” The man agrees to, saying : “ I can. All right.”
+
+He returns to his home. He finds his father ; says : “ Where I
+went, they accepted me. They asked me for the wooing-presents of
+four girls.” His father took up four mothers of cows ; he gave them
+to him, saying : “ Go and woo.” He slept.
+
+
+n* inzo id ; katatu n* inzo ie ; kasule kd n* inzo id. A a jibila hombo.
+uamuangana.416
+
+na Nzua, an' a ngene, hanji ki ua a benga, mu jinzo jd ngue kuboadie.” Uazekele.
+
+
+The Four Uouas.
+
+
+In the morning, he starts. He arrives at his parents-in-law’s ; 412
+he hands the cows. They accept. The bridegroom says : “ I give
+you four days. The fifth day I shall come to fetch the brides. ”
+They cook him a mother of goat. He slept.
+
+Morning comes ; he returns to his home. He slept four days.
+The fifth day having come, the man took the companions.414 They
+go to fetch the brides ; they arrive. They spent the day. They
+cooked them a goat and mush. The evening came ; they gave them
+the brides.
+
+They come with them. They introduce them into their houses.
+The eldest has her house ; the younger has her house ; the third has
+her house; the youngest has her house. They kill them a goat.
+They eat in the houses of brideship. The two days are over. The
+band of the companions scatters.416
+
+The man will not come into the houses of the brides. All days he
+is sleeping in the house of bachelorship. One day his father scolded
+him, saying : “ Thou, na Nzud, the girls strangers, since thou hast
+brought them home, in their houses thou refusest to enter, why ? ” He
+replied to his father, saying : “ Father, shame has held me, because
+since I brought them home, they not yet ate nice food. To-mor;ow
+I will go to the bush to hunt ; perhaps I may there kill a deer for
+them to eat” He slept.
+
+When shone the morning, he took up his gun, and his knife, and
+his dog, and his boy. He says : “ Let us go to hunt” They start ;
+they arrive in bush. They build a hut ; they get in. They sleep.
+
+Morning shines. Na Nzua goes to set traps for rats. He comes
+away; comes to his hut. He slept. They went to look at the
+traps. They loosened the rats ; forty rats. They return to the
+grass-hut.
+
+Na Nzua tells his boy, saying: “Cut green leaves.” The boy
+cuts leaves. He says : “ Bind four bundles of the rats.” He says :
+“ Boy, I will send thee directly home. Thou shalt arrive at night ;
+do not arrive by day. These four bundles, carry them to my wives.”
+
+The boy went. He begins with Uoua the eldest. He enters into
+the house, says : “ This bundle (is) that which the master sends
+thee, saying, ‘ the bundle, which the wise bound, let a fool 420 untie
+it.421 I remain here, I cannot yet go.’ He, the master, told me,
+saying, ‘ this bundle, go, give it na Uoua the eldest ; do not mention it to her sisters.’ ” The boy went out.
+
+He went again to Uoua the second ; she opened to him. The
+boy said : “ The bundle here, master says, 1 the bundle, which the
+wise bound, let a fool untie it. Thou alone, I sent thee the
+bundle ; thy sisters, do not mention it to them. I still remain/ ”
+The boy went out.
+
+
+The Four Uouas .
+
+
+He went again to Uoua the third ; she opened to him. He entered : 44 Master says, ‘ the bundle, that the wise bound, let a fool
+untie it. Thou only, I send thee this bundle ; thy sisters, do not
+mention it to them/ ” The bey went out.
+
+He went further to Uoua the youngest; she opened to him.
+The boy said : “ Master says, * this bundle, thou only I sent it to
+thee ; thy sisters, do not mention it to them. The bundle, which
+the wise bound, let a fool untie it/ ” The boy says : “I am going
+now. To-morrow do not mention me to thy sisters/’
+
+The boy went in the night. He arrived at his master’s in the
+bush. His master asks him : “ Didst thou do as I ordered thee ? ”
+The boy says : “ I did do so.”
+
+The women at home, to whom the bundles were sent, Uoua the
+first kept the bundle in the box. Uoua the second kept it in the
+box. Uoua the third also, she kept it in the box. Uoua the fourth
+thought, saying: “The bundle, that he sent me, saying, ‘let her
+open it,’ I will open it, that I see what is in it.”
+
+She opened it ; she sees the rats, that are in. She cleans them
+out ; she shaves them. She puts them in pot ; she cooks them.
+She sticks them on a spit ; she sticks it in roof. She kept quiet.
+They live on some days ; ten days.
+
+Na Nzua, who had gone hunting, comes ; he is in the house of
+Uoua the eldest, saying : “ Bring the bundle that I sent thee.” She
+opens the box ; takes out the bundle ; she unties it. The rats are
+all rotten ; they have become maggots.
+
+The man goes out ; he goes to Uoua the second : “ Bring the
+bundle that I sent thee.” The woman opens the box ; she takes it
+out ; she unties it. In it are all maggots.
+
+The man goes out ; goes to Uoua the third. Says : “ Bring the
+bundle that I sent thee.” The woman opens the box; she takes
+out the bundle ; she unties it In it are maggots only.
+
+The man goes out; goes to Uoua the youngest: “Bring the
+bundle that I sent thee.” The woman stands up; she takes off
+the spit from the roof. The rats are dried.
+
+The man laughs. He goes outside; he calls the crowd of the
+people of the village. He says : “ You, gentlemen, I went a-hunting. I tied four bundles ; I sent them to my wives, saying ‘ the
+bundle which the wise tied, let the fool untie it/ I made ten days
+in the bush. To-day I have come home, saying, ‘you, wives, bring
+the bundles, that I sent you/ They take out the bundles ; those of
+the elder three are rotten ; the bundle of the fourth, of the youngest,
+is dried. Her rats are these. The elder three are fools ; they are
+not intelligent. I will marry the youngest.” The elder three went
+away.
+
+
+unjimu ue.
+
+
+XI.
+
+
+NGANA KAMUAMBATA NI NGANA KAMUAMBELA.
+
+
+ngiami.” Azek’ d.
+
+azek’ d.
+
+tami.” “ Makutu me.” Uixi : “ Moso, kidi ngazuela. Erne, k’ a
+dingi.”
+
+
+Mr. Carry-me-not and Mr. Tell-me-not. 125
+
+This brought about the saying : “ Elder and younger shall not
+marry one man.” Because the youngest took from her elder the
+man, because of her shrewdness.
+
+Thus far we heard it. Finished.
+
+
+XI.
+
+MR. CARRY-ME-NOT AND MR. TELL-ME-NOT.
+
+Mr. Carry-me-not and Mr. Tell-me-not423 bound their merchandise ; 424 they are going to Loanda to make trade, with their carriers.
+
+They made trade in the city of Loanda ; they bind their baskets ;
+they lift (them). They go as far as Kifuangondo.426 Then Mr.
+Tell-me-not : “ Friend, let us go now ! ” Says : “ Let me sleep
+first ! ” They rest. They reach the evening : “ How ? friend, thou
+hast rested how ? ” Says : “ I rested not.” They sleep.
+
+(He) arrives in morning : “ Let us go, friend !” Says : “ I cannot
+walk.” Then his friend : “ Let us rest. You, carriers, go ye home.
+When you reach home, tell them, the old people at Ambaca, saying :
+‘ Mr. Carry-me-not is sick. We left them at Kifuangondo, both
+Mr. Tell-me-not and Mr. Carry-me-not. Mr. Carry-me-not is sick ;
+the other remained, to look after him, until the sickness is over/ ”
+The carriers have gone. They, who stayed behind, spend the day ;
+they sleep.
+
+Arriving in the morning, then Mr. Tell-me-not says : “ My friend,
+the sickness is much. Let me carry thee that we may go.” “ They
+do not carry me.” “ Lies thine.” Says : “ Friend, I spoke the
+truth. I, they do not carry me.” (The other) says : “ I will carry
+thee indeed ; I am telling thee so ! ” He says : “ I, they do not
+carry me at all ; it is a law 426 of my family.”
+
+(The first) says : “ Thy lies ! I will carry thee anyhow.” He puts
+him on (his) back. They start ... as far as on Bengo River at
+Palma’s.427 “ Friend, get down ! ” “I shall not get down. I have
+been telling thee : * I, they carry me not/ The day of to-day, thou
+hast carried me, I cannot get down.” He sleeps with him on (his)
+back until day breaks. They set out.
+
+Halting on the road, Mr. Tell-me-not wants to do something, says :
+“ Friend, get down, that I may do something.” “ I have told thee
+already ; me, they carry me not. The day of to-day, thou art carrying me ; I can no more get down.” Mr. Tell-me-not did it standing.
+
+They start ... as far as Pulungo.428 Then Mr. Tell-me-not:
+“ Get down, friend, that I may rest.” He says : “ My friend, I shall
+not get down any more.”
+
+
+it
+ngazuba.
+
+
+XII.
+
+MUTELEMBE NI NGUNGA.
+
+
+kona; akal’d.
+
+
+Mutelembe and Ngunga . 127
+
+Mr. Tell-me-not eats nothing, drinks no water. Mr. Carry-me-not
+drinks no water, eats no food. They start. They halt on the road ;
+Mr. Tell-me-not falls on the ground. Their fathers sent a hammock.
+They put them in the hammock ... as far as home. Mr. Tell-menot, Mr. Carry-me-not, they made eight days. Mr, Tell-me-not died,
+Mr. Carry-me-not died. The one, Mr. Carry-me-not, died on the back
+of the other. They buried them, (one) man in his grave, (the other)
+man in his grave.
+
+If there is left, on the face of earth, somebody who hears that
+another says : “ Thou, friend, do not do this ; it will bring thee
+trouble/’ if he says “ It will not do me any harm/’ he is wrong.
+
+On the face of the earth, one listens to another ; thou, too, shalt
+listen to thy companion when he speaks. Thou, who dost not listen
+to any one, art a beast of the forest ; thou shalt find only what will
+kill thee, what thee will report thou shalt not find.
+
+How is it, my ladies ? I have told of Mr. Carry-me-not, his story.
+Whether good, whether bad, my gentlemen, I have finished.
+
+The end . . . “is of God.”
+
+
+XII.
+
+MUTELEMBE AND NGUNGA.
+
+We will tell of Mutelembe and Ngunga.
+
+Two men, elder and younger, say : “ Let us go a-hunting ! ” The
+younger, he has his two dogs ; this one, his name (is) Mutelembe,
+this one, his name (is) Ngunga. They start ; they arrive in gameground. They build a hut ; they go in ; they stay on.
+
+The younger is (always) shooting the game, the elder none. They
+spent a month, the younger says : “ Elder, let us go home now 1 ”
+
+They start. The elder thinks, saying : “ We came a-hunting.
+The child, he killed the game ; I, the elder, not. When I arrive at
+home, shame will take me.” He killed his younger. He took out
+the bowels of his younger; he gave them to Mutelembe. Mutelembe smelled them ; he refused. He gave them to the other dog,
+Ngunga ; he refused. He lifted the basket of meat. The dogs
+looked at their master (who was) killed ; they begin to sing :
+
+“ N dala the elder
+And N dala the younger,
+
+They went into the world
+To destroy others.
+
+
+Tuximana
+
+
+Tuximana
+
+
+Tuximana
+m’o’nzo.
+
+tambl
+
+
+Mutelembe and Ngunga .
+
+We praise
+
+Mutelembe and Ngunga,
+
+To whom were thrown the bowels ;
+
+They refused to them eat.”
+
+Ndala the elder set down the basket of meat on ground ; he killed
+one dog. Says : “ They will report me at home, saying, ‘ he killed
+his younger/ ” He took up the basket ; he goes ahead. The dog
+that he killed, here it comes again, singing :
+
+“ Ndala the elder
+And Ndala the younger,
+
+Went into the world
+To destroy others.
+
+We praise
+
+Mutelembe and Ngunga;
+
+They threw them the bowels ;
+
+They refused to them eat.”
+
+He set down again the basket of meat on the ground; he killed
+them both. He dug a grave ; he covered them up.
+
+He lifts up ; goes on. The dogs, here they come again, singing :
+
+“ Ndala the elder
+And Ndala the younger,
+
+Went into the world
+To kill others.
+
+We praise
+
+Mutelembe and Ngunga;
+
+They threw them the bowels ;
+
+They refused to them eat.”
+
+He arrives in vicinity of the village. He dresses ; lifts up ; enters
+into the house.
+
+They ask him : w You went two ; thy companion, where is he ? ”
+He said : “He went to his country.” He finishes speaking, (and)
+the dogs arrive ; they enter the house of their master ; they begin
+to sing again. The people say : “ Hear the dogs are singing !
+Thou, Ndala the elder, thy younger thou wentest with him, thou
+hast killed him ! His dogs, they told us ! ” They wailed the mourning.
+
+
+XIII.
+
+MON’ A KIMANAUEZE NI MON’ A KUMBI NI MBEJI.
+
+
+xib’e.
+
+
+The Son of Kimanaueze.
+
+
+XIII.
+
+THE SON OF KIMANAUEZE AND THE DAUGHTER
+OF SUN AND MOON.
+
+I often tell of na Kimanaueze, who begat a male child. The
+child grew up; he came to the age of marrying. His father said :
+“ Marry.” He said : “ I will not marry a woman of the earth.” His
+father said : “ Then where wilt thou marry ? ” He said : “ I, it
+must be, (that) I marry the daughter of Lord Sun and Moon.” The
+people said : “Who can go to heaven, where is the daughter of Lord
+Sun and Moon?” He said: “I indeed, I want her; if on earth,
+I will not marry here.”
+
+He wrote a letter of marriage ; he gives it to Deer. Deer says :
+“ I cannot go to heaven.” He gives it again to Antelope. Antelope says : “ I cannot go to heaven.” He gives it to Hawk. Hawk
+says: “I cannot go to heaven.” He gives it to Vulture. Vulture
+says : “ I reach half wTay ; to heaven I cannot arrive.” The young
+man said : “ How shall I do?” He laid it aside in (his) box ; he
+kept quiet.
+
+The people at Lord Sun and Moon’s used to come to get water
+on earth. Frog comes ; he Ands the son of Kimanaueze, says :
+“Young master, give me the letter, that I go with it.” He, the
+young master, said : “ Begone ; where people of life, who have wings,
+gave it up, dost thou say : * I will go there ? ’ How canst thou get
+there?” Frog said: “Young master, I am equal to it.” He gave
+him the letter, saying : “ If thou canst not go there, and thou return
+with it, I will give thee a thrashing.”
+
+Frog started ; he goes to the well, where are wont to come the
+people of Lord Sun and Moon to get water. He puts in his mouth
+the letter ; he gets into the well ; he keeps quiet. A while, the
+people of Lord Sun and Moon come to get water. They put a jug
+into the well ; Frog enters into the jug.
+
+They have got the water; they lift up. They don’t know that
+Frog has entered into the jug. They arrive in heaven; they set
+down the jugs in their place; they go thence. Frog gets out of the
+jug. In that room where they were keeping the jugs of water, they
+kept also a table. Frog spat out the letter ; he set it on the top of
+the table. He went ; he hid in the corner of the room.
+
+A while, Lord Sun himself comes into the room of the water ; he
+looks on the table ; a letter is on (it). He takes it, asks, saying :
+“Whence comes this letter?” They say: “Lord, we don’t know.”
+Lord Sun opens it ; he reads it. Who wrote it says : “ I, son of
+
+
+The Son of Kimanaueze . 133
+
+na Kimanaueze kia Tumb* a Ndala, on earth, I want to marry with
+the daughter of Lord Sun and Moon.” Lord Sun thinks, saying in
+bis heart : “ Na Kimanaueze lives on earth ; I am a man that lives
+in heaven ; he who came with the letter, who is he ? ” He put away
+the letter into the box ; he kept quiet.
+
+Lord Sun, when he finished reading the letter, Frog got into the
+jug. A while, the water is out of the jugs ; the water-girls lift the
+jugs ,* they go down on earth. They arrive at the well ; they put the
+jugs in the water. Frog gets out ; goes under water; hides himself.
+The girls have finished bailing out ; they go.
+
+Frog comes out of the water; he goes to his village; he keeps
+quiet. When many days had passed, the son of na Kimanaueze asks
+Frog: “O fellow, where thou wentest with the letter, how?” Frog
+said : “ Master, the letter, I delivered it ; they have not yet returned
+(an) answer.” The son of na Kimanaueze said : “ O man, thou
+toldest a lie; thou didst not go there.” Frog said : ‘‘Master, that
+same (place) where I went, thou shalt see.”
+
+They spent six days ; the son of na Kimanaueze wrote again a
+letter to ask about the former letter, saying : “ I wrote to you, you
+Lord Sun and (Lady) Moon. My letter went ; not at all did you
+return me an answer, saying, ‘we accept thee/ or ‘we refuse thee.’”
+He finished writing it ; he closed it. He called Frog ; he gave it to
+him. Frog starts ; he arrives at the well. He takes in his mouth
+the letter; he gets into the water; he squats on bottom of the well.
+
+A while, (and) the girls, the water-carriers, come down; they
+arrive at the well. They put the jugs into the water; Frog gets
+into a jug. They finish filling; they lift up. They go up by the
+cobweb, which Spider had woven. They arrive in heaven ; they
+enter the house. They set down the jugs ; they go. Frog comes
+out of the jug ; he spits out the letter. He lays it on the table ; he
+hides in the corner.
+
+A while, (and) Lord Sun passes through the room of the water.
+He looks on the table ; a letter is on it. He uncovers it ; he reads
+it. The letter says : “I, son of na Kimanaueze kia Tumb’ a Ndala,
+I ask thee, Lord Sun, (about) my letter, that went before. Not at
+all didst thou return me an answer.” Lord Sun said : “ You, girls,
+who always go to fetch water, (are) you always carrying letters?”
+The girls said : “ We, master, no.” Lord Sun, doubt possessed him ;
+he laid the letter into the box. He writes to the son of na Kimanaueze, saying : “ Thou, who art sending me letters about marrying
+my daughter, I agree ; on condition that thou in person, the man,
+comest with thy first-present ; that I too may know thee ” He finished writing; he folded the letter. He laid it on the table; he
+went away. Frog comes out of the comer; he takes the letter. He
+puts it in his mouth ; he enters into the jug ; keeps quiet.
+
+
+kina.
+
+
+kele.
+
+
+The Son of Kimanaueze . 135
+
+A while, the water is out in the jugs ; the girls come ; they lift
+the jugs. Now (they go) to the cord of Spider; they get down on
+earth. They arrive at the well ; they put the jugs into the water.
+Frog gets out of the jug ; goes to the bottom of the well. The girls
+have done filling; they go up. Frog goes ashore; he arrives in
+their village ; he keeps quiet.
+
+The evening come, he said : “ Now I will take the letter.” He
+spat it out ; he arrived at the house of the son of na Kimanaueze.
+He knocks at the door ; the son of na Kimanaueze asks, saying :
+“Who?" Frog says: “I am Mainu the Frog.” The son of na
+Kimanaueze got up from bed, where he had reclined, saying : “ Come
+in.” Frog went in ; he delivered him the letter ; he went out. The
+son of na Kimanaueze he uncovers it ; he reads it. What Lord Sun
+announces, it pleases him; says; “Frog, why, (it was) his truth he
+told me, saying, ‘thou shalt see where I went.’ ” He paused ; slept.
+
+Morning, he took forty macutas; wrote a letter, saying: “You,
+Lord Sun and Moon, the first-present is coming here ; I remain to
+seek for the wooing-present. You there, ye send me the amount
+of the wooing-present.” He finished the letter ; called Mainu the
+Frog. He came ; he gave him the letter and the money, saying :
+“ Carry.”
+
+The Frog starts, he arrives at the well. He enters under the
+well ; he keeps quiet. A while, (and) the girls come down ; they
+put the jugs in the water ; Frog enters into a jug. The girls have
+finished filling; they take up. They go up by the cobweb; they
+arrive in the room of the water. They set down the jugs ; they go.
+
+Frog gets out of the jug ; he puts down the letter on the table
+with the money. He went ; hid in the corner. A while, (and) Lord
+Sun comes into the room of the water ; he finds the letter on the
+table. He takes it with the money ; he reads it. He tells his wife
+the news that came from the son-in-law ; his wife assents.
+
+Lord Sun says ; “ Who is coming with the letters. I do not know
+him ; his food, how shall it be cooked ? ” His wife said : “ We will
+cook it anyhow, and put (it) on the table, where are usually the letters.” Lord Sun said : “Very well.” They kill a mother hen ; they
+cook it. Evening comes ; they cook the mush. They set the eatables on the table ; they shut (the door). Frog comes to the table ;
+he eats the victuals. He goes to the corner ; he keeps quiet.
+
+Lord Sun writes a letter, saying : “ Thou, son-in-law (of) mine,
+the first-present, which thou hast sent me, I have received. The
+amount of the wooing-present, thou shalt give me a sack of money.”
+He finished the letter ; he laid it on the table ; went. Frog came
+out of the corner ; took the letter. He entered the jug ; slept.
+
+
+136 Folk- Tales of Angola.
+
+
+uasuam’e.
+
+
+uazekele.
+
+
+The Son of Kimanaueze . 137
+
+Morning, (and) the girls take the jugs ; they go down to the earth.
+They arrive at the well ; they put the jugs into the water. Frog got
+out of the jug. The girls finished filling ; they went up.
+
+Frog went out from the water ; he arrived in their village. He
+enters into his house ; he waits. The sun is gone ; evening has
+come down ; he says : “ I will now bring the letter.” He started ;
+arrived at the house of the son of na Kimanaueze. He knocks at
+the door ; the son of na Kimanaueze says : “ Who ? ” Frog says :
+“ I am Mainu the Frog.” Says he : “ Come in.” Frog went in ; he
+gave the letter ; he went out. The son of na Kimanaueze uncovers
+the letter ; he reads it ; now he sets it aside.
+
+He spent six days ; he has completed the sack of money. He
+called Frog ; Frog came. The son of na Kimanaueze wrote a letter,
+saying : “ You, my parents-in-law, the wooing-present comes here ;
+soon I myself, I shall find a day to bring home my wife.” The letter, he gave it to the Frog, with the money.
+
+Frog started ; he arrived at the well. He went in under water ;
+he hid. A while, (and) the water-carriers came down ; they arrived
+at the well. They put the jugs into the water ; Frog entered into
+a jug. They finished filling ; they take up. They go up by the
+cobweb of Spider; they arrive in heaven. They set down the jugs
+in the room of the water; they go out. Frog gets out of the jug ;
+he lays down the letter in the table with the money. He goes into
+the corner ; he hides.
+
+Lord Sun comes into the house of the water ; he finds the letter
+and the money. He takes them ; he shows the money to his wife,
+Lady Moon. Lady Moon' says; “Very well.” They take a young
+hog ; they kill it. They have cooked the food ; they set (it) down
+on table ; shut (the door). Frog came to eat ; he ate. He finished ;
+entered into the jug ; slept.
+
+Morning, (and) the water-carriers take up the jugs ; they get
+down on earth. They arrive at the well ; they dip the jugs into the
+water. Frog gets out of the jug ; he hides. They finish filling ; go
+up to heaven. Frog went ashore ; he arrived in their village. He
+entered his house ; kept quiet ; slept.
+
+Morning, he tells the son of na Kimanaueze, saying; " Young
+master, where I went, I gave them the wooing-present; they received it. They cooked me a young hog ; I ate. Now, thou thyself shalt choose the day of going to bring her home.” The son
+of na Kimanaueze said : “ Very well.” They lived on ; ten days and
+two.
+
+The son of na Kimanaueze said : “ I need people, to go to bring
+home the bride for me; I find them not. They say, *we cannot
+go to heaven/ Now, how shall I do, thou, Frog ? ” Frog said ;
+
+
+138 Folk- Tales of Angola.
+
+
+Uabatam’d, uazekele.
+
+
+The Son of Kimanaueze . 139
+
+“ My young master, be quiet ; I am equal to it, to go and bring her
+home.” The son of na Kimanaueze said: “Thou canst not. Thou
+couldst indeed carry the letters, but bring her home thou canst not.”
+Frog said again: “Young master, be quiet; be not troubled for
+naught. I indeed am able to go and bring her home ; do not despise
+me.” The son of na Kimanaueze said : “ Let me try thee.” He
+took victuals ; he gave to Frog.
+
+Frog starts ; he arrives at the well. He gets into the well ; he
+hides. A while, the water-carriers come down ; they arrive at the
+well. They dip in the jugs; Frog enters. They have filled; they
+go to heaven. They arrive in the room of the water ; they set down
+the jugs ; they go. Frog gets out of the jug ; he hides in the corner.
+The sun set ; in the evening of the night, Frog went out of the room
+of the water ; he went seeking in the room where slept the daughter
+of Lord Sun. He finds her asleep here. He takes out one of her
+eyes ; he takes out again the other. He tied them up in a handkerchief ; he came in the room of the water, in his corner. He hid ;
+slept.
+
+Morning, all people got up. The daughter of Lord Sun cannot
+get up. They ask her : “ Dost thou not get up ? ” She says : “ (My)
+eyes are closed; I cannot see.” Her father and mother say:
+“What may cause this ? Yesterday, she did not complain.”
+
+Lord Sun takes up two messengers, saying : “Go to Ngombo, to
+divine (about) my child, who is sick as to the eyes.” They start;
+they arrive at the Ngombo-man’s. They spread for them ; the
+Ngombo-man takes out the paraphernalia.441 The divining people,442
+(they) do not let know the disease ; they say only : “We have come
+to be divined.” The Ngombo-man looks into the paraphernalia,
+says : “ Disease has brought you ; the one who is sick is a woman ;
+the sickness that ails her, the eyes. You have come, being sent;
+you have not come of your own will. I have spoken.” The divining
+people said: “Truth. Look now what caused the ailment.” The
+Ngombo-man looks again ; says : “ She, the woman, who is sick, is
+not yet married ; she is chosen only. Her master, who bespake her,
+he sent the spell,443 saying, i my wife, let her come ; if she does not
+come, she shall die/ You, who came to divine, go, bring her to
+her husband, that she may escape. I have spoken.” The divining
+men 444 assented ; they got up. They find Lord Sun ; they report
+him the words of Ngombo.444 Lord Sun said : “ All right. Let us
+sleep; to-morrow they shall take her down to the earth.” Frog
+being in his corner, he hears all that they are saying. They slept.
+
+(At) morning, Frog got into the jug; the water-carriers come;
+they take up the jugs. They descend to the earth ; they arrive at
+the well. They put the jugs into the water; Frog came out of the
+jug. He hid under the well. The water-carriers went up.
+
+
+Kimanaueze. Kazundu uxi : “Na velu d ! banga did didi.” Mon' a
+zundu.
+
+
+XIV.
+
+DIBANGA NI HUEDI JE.
+
+
+A Bride and her Brother s-in-Law. 14 1
+
+Lord Sun tells Spider, saying : “ Weave a large cobweb, down to
+the earth; for to-day is the taking down of my daughter to the
+earth.” Spider wove ; finished. They are passing time.
+
+Frog got out of the well ; he goes to their village. He finds the
+son of na Kimanaueze, says : “ O young master ! thy bride, to-day
+she comes.” The son of na Kimanaueze says : “ Begone, man, thou
+art a liar.” Frog says : “ Master, truth itself. I will bring her to
+thee in the evening of the night.” They kept quiet.
+
+Frog returned to the well ; he got into the water ; he was silent.
+The sun set ; the daughter of Lord Sun, they take her down to the
+earth. They leave her at the well ; they go up.
+
+Frog gets out of the well ; he tells the young woman, saying : “ 1
+myself am thy guide ; let us go that I bring thee to your master.”
+Frog returned to her her eyes ; they started. They enter the house
+of the son of na Kimanaueze. Frog says : “ O young master 1 thy
+bride (is) here.” The son of na Kimanaueze said : “ Welcome f
+Mainu the Frog.”
+
+The son of na Kimanaueze married with the daughter of Lord
+Sun and (Lady) Moon ; they lived on. They all had given up going
+to heaven ; who could (do) it (was) Mainu the Frog.
+
+I have told my little story. Finished.
+
+
+XIV.
+
+
+A BRIDE AND HER BROTHERS-IN-LAW.
+
+Let me tell a little tale.
+
+A young man had four brothers ; the fifth (was) himself. He saw
+a girl ; he married her. The bride slept the four days of brideship ;
+they brought her out. She set the pot of mush on the fire ; she
+cooked the mush ; it is done. She took out the dishful of her master ; she took out moreover the dishful of her four brothers-in-law.
+She went to bring (it) them.
+
+Her brothers-in-law said : “ If we eat thy mush, tell us our names.”
+The woman said : “ Your names, I know them not.” They said :
+“ If thou knowest them not, take away thy mush.” She took it up ;
+went with it into her house. They ate their mush, both the man
+and the woman ; they slept
+
+(In) morning, she cooked again the mush. She went to bring it
+to her brothers-in-law. Her brothers-in-law said: “If we eat thy
+mush, tell us our names.” The woman said: “Your names, I do
+not know them.” They said : “Take up thy mush.” She took up ;
+ki ngeji'a majin’ d.” Azekele.
+
+
+K’u zi zi mazin’ d ?
+
+Utud !
+
+
+Utudl
+
+
+Utud !
+
+
+azekele.
+
+
+K’u zf zi mazin’ & ?
+
+
+Utud !
+
+
+Utud !
+
+
+A Bride and her Br other s-in-Lazv.
+
+
+*43
+
+
+entered her house. They ate their mush. The woman is thinking :
+“ My brothers-in-law keep on refusing my mush. I indeed do not
+know their names.” They slept.
+
+It dawned ; they spent the day. Arriving at the hour of evening,
+the woman took the mbombo,446 saying : “ I will go to pound.” She
+arrived at the mortar; she put the mbombo into the mortar; she
+begins to pound. A little bird alights on the tree, that is near the
+mortar. The little bird begins to sing, saying :
+
+“ Thy brothers-in-law these,
+
+Thou knowest not their names ?
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I will tell thee !
+
+(One is) Tumba Sikundu ;
+
+(One is) Tumba Sikundu Mund!
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I will tell thee !
+
+(One is) Tumba Kaulu;
+
+(One is) Tumba Kaulu Mun£ !
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I have told thee ! ” 447
+
+The young woman threw the pestle on the ground; she took a
+stone ; she chased the bird, saying : “ It is making me noise.” The
+little bird went. She has pounded ; the mbombo is finished.
+
+She takes up ; enters into the house. She set the pot of mush on
+the fire ; it is done. She takes out two dishfuls ; she takes (it) up,
+brings (it) to her brothers-in-law. Her brothers-in-law say : “ Tell
+us our names.” She says : “ I know (them) not, your names.” They
+say : “ Take (away) thy mush.” She took it up ; she entered the
+house. They ate their mush ; they slept.
+
+Morning, she took up again the mbombo ; she arrived at the
+mortar ; she put the mbombo into the mortar. She has taken up
+the pestle ; she begins to pound. The little bird alights again, saying:
+
+“ Thy brothers-in-law these,
+
+Thou knowest not their names ?
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I will tell thee !
+
+(One is) Tumba Sikundu;
+
+(One is) Tumba Sikundu Mund !
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I will tell thee !
+
+(One is) Tumba Kaulu ;
+
+
+Utud !
+
+
+XV.
+
+O JIHOJI NI KIMONA-NGOMBE.
+
+
+’nzo.
+
+
+The Lions and Kimona-ngombe.
+
+(One is) Tumba Kaulu Muni !
+
+Listen, I will tell thee !
+
+She pounds !
+
+Listen, I have told thee ! ”
+
+The woman chased it. When she had chased, she thinks what
+the little bird is always singing. She says : “ It was telling me the
+names of my brothers-in-law ; now I perceive ! n She has pounded ;
+the mbombo is finished.
+
+She came into the house; she put the mush on the fire. She
+cooked it ; it is done. She took out ; went to bring them. They
+said : “ If we shall eat thy mush, tell us our names/’ The woman
+said: '‘This one (is) Tumba Sikundu; this one, Tumba Sikundu
+Muna; this one, Tumba Kaulu; this one, Tumba Kaula Mund.”
+Her brothers-in-law laughed ; they accepted their mush ; ate. She
+came to her house ; they lived on, with her master.
+
+A young man married his wife. The man had four brothers.
+The woman, whom he had married, knew not their names. When
+she went to pound, a little bird told her the names of her brothersin-law.
+
+I have told my little tale. Finished.
+
+
+XV.
+
+THE LIONS AND KIMONA-NGOMBE.
+
+The lions in the land settled. One year, famine came in the
+world.449 There was no place (where) to eat.
+
+The lions said : “ How shall we do ? Hunger is great. Man has
+always his cattle. How shall we get there ? It is the distance of
+one camp 460 only.” They start ; arrive in outskirts.
+
+A youth of a she-lion turned into a human being. They dressed
+her finely ; they trimmed her hair nicely. They give her instructions, saying : “ Thou shalt pass through the village of him who
+has many cattle ; his name is ngana Kimona-ngombe kia na Mbua.451
+Thou, when thou shalt pass, shalt say this : ‘ I am going to my
+brother, who lives yonder.’ Ngana Kimona-ngombe kia na Mbua,
+he, when he will see thee, he will talk to thee, to marry thee. When
+he will thee marry, thou shalt kill him, that we may catch the cattle
+to eat.”
+
+The young lioness assented. She took at once the road. She
+arrives outside of Kimona-ngombe’s ; she finds him seated on the
+threshold of the house.
+
+
+146 Folk - Tales of Angola .
+
+
+Uabixila ku bata did; uatangela akua, kuma: “Kimona-ngombe
+uxi :
+
+
+The Lions and Kimona-ngombe . 147
+
+He asked her: “Thou, young woman, art going where?" The
+woman replied, saying: “I am going to visit my brother. I am
+tired ; let them give me a little water, that I may drink.” They
+give her. Ngana Kimona-ngombe asks her again, saying : “Thou,
+young woman, art thou married already ? ” She says : “ Not yet
+(am) I married.” He made her proposal ; the woman accepted.
+She says : “ Let me go home first, that I tell my parents. I shall
+come in two days.”
+
+She arrived at their home ; she told the others, saying : “ Kimonangombe has talked to me, to marry me.” The others say : “That is
+good.” The woman slept two days; then she returned to the man ;
+she found him. They killed for her a goat; she ate. They built
+her a house ; she entered.
+
+The man, ngana Kimona-ngombe, says: “I will go to sleep in
+the house of the bride.” His son, begotten with the head-wife, his
+name (is) Ndala ja Kimona-ngombe kia na Mbua, a child yet, hangs
+on to his father, saying: “ I will sleep with papa.” Then his mother
+says : “ Thy father is going to sleep in the house of the bride ; thou,
+let us sleep with me.” 452 The child will not ; he is crying after his
+father. His father consents: “The child is hanging on to me ; I
+will go with him.” 463
+
+They arrive in the house of the bride ; they sit on the bed. The
+bride says : “The chief has come with a child.” The chief said:
+“ My child was hanging on to me ; he would not stay with his
+mother.” They lie down. The man lies down with his son, on the
+ground.454
+
+They arrive in middle of night. The woman gets up on bed ;
+she turns a lioness ; she wants to catch the man. The son, who is
+lying behind the man, he sees her. He rouses his father, saying :
+“Father, on the ground, it is biting.” His father got up. The
+lioness turned a woman.
+
+Day shone. They spent the day. Another evening is come.
+The man and his son come to sleep. The woman says : “ O chief,
+the child has aroused thee already in the night ; why dost thou
+come with him again?” The chief speaks to her, saying: “My
+son was hanging on to me.” They sleep.
+
+The woman hears in her country, whence she came, (how) they
+are calling her : “ Thou, who wentest to kill Kimona-ngombe kia na
+Mbua, art thou not coming ? ” The woman then answers, saying :
+
+“ The goat of Kimona-ngombe is asleep ;
+
+The slave of Kimona-ngombe is asleep;
+
+The hen of Kimona-ngombe is asleep ;
+
+The pig of Kimona-ngombe is asleep ;
+
+The sheep of Kimona-ngombe is asleep;
+
+Himself Kimona-ngombe is asleep ;
+diiala.
+
+
+The Lions and Kim ona-ngo?n be.
+
+Ndala ja Kimona-ngombe has no sleep on face, pooh !
+
+Ndala ja Kimona-ngombe has no sleep on face, pooh ! ”
+
+The woman, after singing this, turned a lioness ; she wanted to
+catch the man.
+
+The son, who was lying behind the man, rouses him, saying :
+“ Father, arise, on the ground, it is biting/’ His father replies :
+“The house is new; what (can) bite on the ground?” The son
+says: “On the ground are roaches and maggots.” His father
+answers him again: “Thou, child, hast lies; I am not listening.”455
+They sleep again a little while.
+
+The woman hears the others, who are calling her : “ Thou who
+wen test to kill Kimona-ngombe kia na Mbua, art thou not coming ? ”
+She then responds, saying :
+
+“ The goat of Kimona-ngombe is asleep ;
+
+-r The slave of Kimona-ngombe is asleep ;
+
+The hen of Kimona-ngombe is asleep ;
+
+The sheep of Kimona-ngombe is asleep ;
+
+The pig of Kimona-ngombe is asleep ;
+
+Himself Kimona-ngombe is asleep ;
+
+Ndala ja Kimona-ngombe has no sleep on face, pooh !
+
+Ndala ja Kimona-ngombe has no sleep on face, pooh ! ”
+
+Ndala stood up behind his father, saying: “Father, get up! in
+house there is a wild beast.” His father, anger possessed him, he
+said : “ Let us go, that I bring thee to thy mother. Thou disturbest
+my sleep.”
+
+They get outside in midst of night. The son then tells his father
+outside, saying: “Thy wife has been turning a wild beast.” His
+father has doubts, says : “ My son, thou tellest lies.” The son says ;
+“ Truth itself, father. Let us return into the house ; thou shalt
+sleep falsely, to see her.” They return ; lie down.
+
+The wife says : “ The child, thou wen test already to bring him to
+his mother, why does he return again?” The man says: “The
+child would not (stay).” They lie down. The man covers himself
+with the cloth on head ; he is looking.
+
+The woman hears them who call her in her country, saying:
+“ Thou, who wentest to kill Kimona-ngombe kia na Mbua, art thou
+not coming ? ” She answered, saying :
+
+“ The goat of Kimona-ngombe is asleep ;
+
+The slave of Kimona-ngombe is asleep ;
+
+The hen of Kimona-ngombe is asleep ;
+
+The pig of Kimona-ngombe is asleep;
+
+The sheep of Kimona-ngombe is asleep ;
+
+Himself Kimona-ngombe is asleep, falsely;
+
+(But) Ndala ja Kimona-ngombe has no sleep on face, pooh ! ”
+
+
+150 Folk - Tales of Angola.
+
+iS n' abik' e m* usuku ueniu, uxi : “ Zenu, mute inzo mu tubia. O mu-
+
+
+Mahezu.
+
+
+XVI.
+
+MUSUDI NI A-MULOMBE.
+
+
+The Blacksmith and the Blackbirds . 151
+
+The woman then turns a lioness ; she wants to catch the man.
+Kimona-ngombe saw her ; he believed what Ndala said : “ Ndala
+spoke the truth.” He arose in the night, saying: “My child, let
+us go, that I bring thee to thy mother ! ” They get outside. Ndala,
+they put him into the house of his mother. Ngana Kimona-ngombe
+tells the village and his slaves that same night, saying : “ Come to
+set the house on fire. The woman, whom I married just now, keeps
+turning a lioness.” They surround the house with fire. The woman
+is roasted in the house. The day breaks.
+
+It remains like this: “Begetting is truth.” 457 Ngana Kimonangombe, a woman was going to kill him ; his child, Ndala, he saved
+his life.
+
+The end.
+
+
+XVI.
+
+THE BLACKSMITH AND THE BLACKBIRDS.
+
+I will tell of Blacksmith ; who had forged his hoes (and) said : “ I
+will go to sell them.”
+
+He started ; arrived in village. He finds the Blackbirds,458 says :
+“ Buy some hoes ! ” The Blackbirds say : “ Leave them ; later on
+thou canst fetch the wax. We will go to empty the hives ; thou
+shalt come in the third month.” Blacksmith consented; he gave
+them the hoes, all of them.
+
+He went to his home. He spent months ; arrives at the third.
+Says : “ This is the month, that the Blackbirds gave me. I will go
+now to fetch my wax.” He started ; arrives in village. They all,
+he found them. “Pay me now my wax!” The Blackbirds say:
+“To whom didst thou give thy hoes?” Blacksmith says: “Yourselves ! ” The Blackbirds say : “ The baobab-fibre is to be hammered ; the baobab is to be peeled.461 A person is to be named,
+So and So; do not say only * yourselves/ We all of us, who are
+here, we are Blackbirds. Our faces are alike ; our color is alike.
+Whoever (it was) thou gavest him thy hoes, thou shalt name him,
+saying, ‘thou na Petele, or na Lumingu that he may pay thee for
+thy hoes.” The Blacksmith, it chokes him in the breast ; he finds
+not what he shall do, nor what he shall say. He thinks, says : “ I
+am going to summon 464 you.”
+
+He started ; here (he is) at home. He slept. Morning, he says :
+“I will go to summon them.” He arrives at Lord Katete’s, saying:
+“ I summon the Blackbirds. They owe me my hoes ; they refuse
+to pay them.” Katete says: “Very well.” He sent to call them.
+They all come, and there, what blackness ! Blacksmith said : “ I
+myself, I summoned you to pay me (for) my hoes.”
+
+
+152 Folk - Tales of A ngola .
+
+
+Ngi jitule, nga ku kuatela muku’a kongo did.” Ene oso, a a kutu,
+
+
+Mahezu.
+
+
+XVII.
+
+MUTU NI MBAXI.
+
+
+Man and Turtle .
+
+
+Na Katete says: “You, Blackbirds, why do you not pay Blacksmith ? 0 The Blackbirds say : “ Master, truth. The fibre, they
+hammer it ; the baobab, they peel it.461 The man, he shall name
+(one), saying, * So and So, he owes me my thing.’ We all, we are
+here in full ; he, Blacksmith, who is sitting here, let him take out
+the one whosoever owes him his hoes. We, Blackbirds, have finished pleading. Thou, na Katete, chief among birds, finished.”
+
+Na Katete says : “ The case is to me hard to decide. Thou,
+Blacksmith, name the one to whom thou gavest thy hoes.” Blacksmith said : “The Blackbirds.” The Blackbirds say : “We are complete ; thou, Blacksmith, take out the one to whom thou gavest thy
+hoes, that he (may) pay thee.” Blacksmith cannot name him. Na
+Katete says : “ I cannot decide it.” He is silent.
+
+(That) moment, Turtle-dove comes. She alights on a tree, says:
+“ What dispute are you debating ? ” Blacksmith says : “ The Blackbirds, they owe me for my hoes ; they refuse to pay me. I have
+summoned them.” They say : “ We do not owe thee any hoes.”
+
+Dove thinks, says : “ I am coming directly to decide it.” She
+flew ; went yonder. A moment, here she comes. She alights again
+on the tree, says : “ Thou, Blacksmith, this one, bind him J this one,
+bind him ! this one, bind him ! this one, bind him ! ” Blacksmith
+bound them.
+
+These confess, saying: “I owe (them).” This one says: “I (do)
+not. Untie me, that I catch thee (thy) debtor.” They all) who
+were bound, paid him his wax ; the debts are finished.
+
+The dispute of Blacksmith, who gave his hoes to Blackbirds ; the
+day when he came to make them pay, they denied (it) ; who decided
+the case, (was) Dove. When she is cooing, they say : “ Dove is
+cooing.” But not so. She is judging the case of Blacksmith.
+
+Finished.
+
+
+XVII.
+
+MAN AND TURTLE.
+
+Let me tell of Turtle of Koka.
+
+Man of Lubi la Suku caught a Turtle in the bush; he came with
+it to the village. They said : “ Let us kill it ! ”
+
+Some people said : “ How shall we kill it ? ” They said : “ We
+shall cut it with hatchets.” Turtle replied, saying :
+
+“ T urtle of Koka,
+
+And hatchet of Koka ;
+
+Hatchet not kills me * bit.”470
+
+
+154 Folk- Tales of Angola .
+
+mu kanu :471
+
+
+Kutata tubia.”
+
+
+mba :
+
+
+iu uadimukine.
+
+Mahezu.
+
+
+Man and Turtle .
+
+
+The people said: “What shall we kill him with?” Some said:
+“We shall kill him with stones.” Turtle, fear grasped him, he said :
+“ I am going to die.” He says by mouth : 471
+
+“ Turtle of Koka,
+
+And stone of Koka ;
+
+Stone will not kill me a bit.”
+
+The people said : “ Let us cast him into the fire ! ” Turtle said :
+
+“ Turtle of Koka
+And fire of Koka ;
+
+Fire will not kill me a bit.
+
+On my back,
+
+It is like stone ;
+
+Not there can
+Catch on fire.”
+
+The people said : “We will kill him with knives.” Turtle said :
+
+M Turtle of Koka,
+
+And knife of Koka ;
+
+Knife will not kill me a bit.”
+
+The people said : “ This fellow, how shall we do ? how shall we
+kill him ? ” These said : “ Let us cast him into the depth of water.”
+Turtle said : “ Woe ! I shall die there ! How shall I do ? ” The
+people said : “We have it ! We have found the way we can kill
+him ! ”
+
+They carry him ; they arrive with him at the river. They cast
+him into the depth. Turtle dives ; (after) a while he emerges.
+There he is swimming and singing:
+
+“In water, in my home !
+
+In water, in my home ! ”
+
+The people said: “Oh! Turtle has fooled us. We were going
+to kill him with hatchets, he says, ‘hatchet will not kill me a bit.*
+We spoke of casting him into the water, he says, ‘ I am going to
+die.’ We came, we cast him into the water; but we saved him.”
+
+(This is) what caused the T urtle to live in the water : the people
+were going to kill him ; (but) he was shrewd.
+
+End.
+
+
+15*
+
+
+XVIII.
+
+NIANGA DIA NGENGA NI NA NGO.
+
+
+Mahezu . . . “aNzambi.”
+
+
+Nianga dia Ngenga and Leopard .
+
+
+XVIII.
+
+NIANGA DIA NGENGA AND LEOPARD.
+
+Nianga dia Ngenga takes up his gun, saying : “ I will go a-hunting.” He has reached the bush ; he has hunted ; he saw not game ;
+he says : “ I will go.”
+
+When he returns home, he finds Mr. Leopard, whom they have
+stuck up in the fork of a tree. When he sees Nianga, he says :
+“Father Nianga, help me out!” Nianga says: “What has done
+this to thee?” He says : “ Unfork me first ; I shall tell thee.”
+Nianga took him out ; he set him on the ground. He says :
+“ Elephant has stuck me up in the fork of the tree. Sir, to whom
+one has given life, one gives more.472 I have been two days on the
+tree; give me a little food.” Nianga says: “Where shall I find
+food ? ” He says : “Anywhere.”
+
+Nianga takes up his dog ; he gives it to Mr. Leopard. Mr.
+Leopard ate it and said: “I am not satisfied.” Nianga takes up
+also the other dog; he gives it to Mr. Leopard. He has eaten,
+says : “ Still I have not enough.” Nianga dia Ngenga took up his
+cartridge-box ; he gives him it. Mr. Leopard, when he had eaten it,
+said : “ Still I have not enough.”
+
+Hare comes ; he finds them talking ; says : “ Why are you quarrelling?” Nianga says: “Mr. Leopard, I found him in the fork of a
+tree. Says he, ‘Take me out!’ I took him out. Says he, ‘Give me
+to eat ! ” I gave him both my dogs and my cartridge-box. He says,
+‘ Give me more to eat/ That is what we are quarrelling about.”
+Hare says : “ Mr. Leopard, let him be again on the tree, where he
+was ; that I may see.” Mr. Leopard returns to the tree, where he
+was. Hare moves off to a distance ; he calls Nianga. He says :
+“Thou, Nianga, art unwise. Mr. Leopard is a wild beast, he is
+wont to catch people. Thee, who didst get him out of there, he
+wanted to devour thee. Shoot him.”
+
+Nianga then shoots Mr. Leopard.
+
+The end . . . “(is) with God.”
+
+
+XIX.
+
+MON’ A NIANGA NI MON’ A MBAMBI.
+
+
+XX.
+
+DINIANGA DIA NGOMBE NI MBAMBI.
+
+
+The Child of Hunter and the Child of Deer .
+
+
+XIX.
+
+THE CHILD OF HUNTER AND THE CHILD OF DEER.
+
+The wife of Hunter gave birth ; the wife of Deer also gave birth.
+
+The child of Hunter, to take it out, its first-food (is) liver of
+deer, and mush, and beans, and fish. The child of Deer also,
+they want to give it first-food. Its first-food 474 is mudia-mb&mbi 475
+only.
+
+Hunter says : “ I will go to lie in wait.” He takes up the gun ;
+he arrives in the bush. He finds a mudia-mb£mbi (tree) ; he sets
+up, in it, his tree-seat.476 He climbs ; spends a while.
+
+Deer arrives; Hunter begins to put up (his) gun to shoulder.
+Deer says: “Stay, please! Both of us, we are' in need. Thou,
+Hunter, thy wife has born. The child needs its first-food, liver of
+deer. I too, Deer, my wife has born. The child needs its first-food,
+mudia-mb&mbi. Thou, if thou killest me first, my child will not get
+its first-food. Wait ; I will take the first-food of my child, that I
+may take him out. To-morrow, when I come, thou Hunter, shoot
+me, that thou mayest take thy child out.” Hunter consents. Deer
+carries off mudia-mbambi. Hunter comes down. He goes home ;
+sleeps.
+
+In the morning he takes up his gun ; he arrives at the tree-seat.
+He climbs up ; waits a while. Deer arrives ; he shoots ; it is dead.
+He comes down ; binds the Deer.
+
+He lifts (it) up ; he arrives at home. He skins Deer ; takes out
+the liver. They take out the child of Hunter.
+
+
+XX.
+
+DINIANGA DIA NGOMBE AND DEER.
+
+Dinianga dia Ngombe took up his gun, saying : “ I will go hunting.” He arrived in the bush ; he found Deer, who was eating
+mudia-mbimbi. He set up a tree-seat ; he returned home.
+
+He awaited the hour, when Deer eats, and said : “ I am going
+now ! ” He takes up the gun ; he arrives at the tree-seat. He
+climbs into it. He spends a while ; Deer comes.
+
+He sets the gun to the shoulder ; he cocks it ; he fires. Deer falls
+on ground. He gets down. He grasps Deer by a leg ; he finishes
+it with the hatchet ; it is dead. He takes the knife from waist ; he
+
+
+160 Folk - Tales of Angola.
+
+
+XXI.
+
+NGANA NGO NI NGULUNGU NI HIMA.
+
+Version A.
+
+I. NGANA NGO NI NGULUNGU.
+
+
+Leopard \ Antelope , and Monkey . 161
+
+is flaying the Deer. Deer is done being flayed; he pulls the hide
+from under Deer ; Deer stands up !
+
+It runs away in haste. It reaches a distance ; stands. The
+Hunter, who remained with hide in hands, says : “ What (is this)
+ominous wonder, that I meet with ? The deer that I killed, it leaves
+the hide in my hands ! ” He says : “ Thou, Deer, shame will seize
+thee, when thou shalt arrive at thy father's and thy mother’s ; they
+will ask thee, 4 Thou comest naked ; the skin, thou didst leave it
+where?’”
+
+Deer says : “Shame is thine, Nianga, (as) shame is mine. Deer.
+Thou, when thou shalt arrive at home, and findest thy people and thy
+wife, thou sayest, ‘ I went to lurk ; I shot a deer. It died ; I flayed
+it. The deer stood up ; it left the hide in my hands.’ Shame will
+seize thee.”
+
+Deer has spoken ; Dinianga does not reply to him again. He
+says : “ I am going home.” He took up his gun ; he went home.
+He found his folks and his wife. He says : “ I met with an ominous
+wonder ! I went to lurk. Deer came; I shot it; it died. I skinned
+it; Deer stood up; it left me the hide in my hands.” The others
+laugh at him.
+
+Thus Deer won ; Nianga lost.
+
+
+XXI.
+
+LEOPARD, ANTELOPE, AND MONKEY.
+
+Version A .
+
+I. LEOPARD AND ANTELOPE.
+
+I will tell (of) Mr. Leopard and Mr. Antelope.
+
+Mr. Antelope (was) grandson of Mr. Leopard. Mr. Leopard said :
+“ Please accompany me to my father-in-law.” Mr. Antelope carried
+three demijohns of rum.480 They set out.
+
+Stopping on the road, Mr. Leopard says.: “Grandson, pick up
+what thou findest on the road, for my wife.” When he picked it
+up, (they were) driver-ants,482 which bite him. Mr. Leopard says :
+“My grandson, thou (art) a fool. Driver-ants, does one ever take
+them with hands ? They bite. Let us go now, my grandson.”
+
+Stopping on the road, hunger seizes them. They find sugarcanes ; Mr. Leopard says : “ My grandson, these canes, they don’t
+eat them ; but they eat the small canes.” When they entered the
+field of cane, Mr. Leopard ate the good canes ; our friend, Mr. Antedid ; ima ikuama ku muzumbu. Mulaul’ ami, tui’etu kid.”
+
+
+tui’etu kid.”
+
+
+muku’avalu kd.”
+
+Tui’etu kid.”
+
+tuji.’ ”
+
+
+Leopard , Antelope, and Monkey . 163
+
+Iope# ate the wild cane. His mouth becomes (all) wounds. Mr.
+Leopard says: “Art thou not a fool? Wild canes, they eat them
+not ; (they are) things (that) wound the mouth. My grandson, let
+us go now.”
+
+They stop on the road. Hunger has seized them. They find
+ripe maize ; he says : “ My grandson, come, let us break corn for
+us to roast.” He says : “ My grandson, the red corn, they break it
+not. Thou shalt break the green corn ; the yellow corn, they eat it
+not.” They come , to the plants. Mr. Leopard plucks the yellow
+com ; our friend, Mr. Antelope, he plucks the green.
+
+When they come to the straw-heap,488 he says : “ Grandson, roast
+here where the fire is.” When they put the com in the hearth, that
+of Mr. Leopard was done, that of Antelope was not done. He says :
+“ My grandson, arise, let us go ; thou (art) a fool. Thou hast left 489
+the fire ; but the corn, thou puttest it in the ashes. Come, let us
+go”
+
+Stopping on the road, they meet women, who are planting pea*
+nuts. He says : u Grandson, I come directly.” He goes to a thicket
+of the forest; he unties (his) bundle; takes out a shirt, takes out
+drawers, takes out trousers, takes out a vest, takes out a coat ; he
+dresses. Having finished dressing, cane in hand, he goes. He finds
+the girls : " Good-afternoon, ladies, you are well ? ” u We are well ;
+thou, too ? At thy home thy folks are getting on well ? ” “ They
+are well, ladies.” “Where art thou going?” “I am going to my
+father-in-law, to visit my father-in-law.”
+
+They give him a plate of peanuts ; they give him a plate of jimbombo. When he finished eating, they give him a jug of water; they
+light for him a pipe of tobacco. Having done smoking, he says :
+“I am going now. Fare ye well. Soon I shall pass by you again.”
+“ Arrive safely ; greetings to thy wife.”
+
+When he had arrived, he finds Mr. Antelope, whom he had left,
+(and) says : " How, my grandson ? Where I went, they chased me ;
+they did not give me anything. I have come with my hunger. I
+ran away ; they wanted to beat me. Let us go now.”
+
+Mr. Antelope says : “ No. I also will go where thou wentest ;
+I, too, will go in order to see them there.” Says : “ When thou
+arrivest, do not say, * Good-afternoon ; 9 speak like this, saying :
+‘Vioko, vioko, go and eat dung.* ”
+
+Mr. Antelope, on arriving there, speaks as Mr. Leopard instructed
+him. They take him; they beat him, saying: “Your grandfather,
+Mr. Leopard, when he came here, he insulted us not. Thou insultest us, why ? Your grandfather, when he left here, we gave him
+food ; he ate ; we gave him a jug of water ; he drank ; we gave him
+the pipe ; he smoked ; (then) he said, 4 1 am going now ; fare ye well
+
+
+164 Folk - Tales of Angola.
+
+
+lembua.”
+
+
+Leopard, Antelope , and Monkey . 165
+
+Soon I shall meet you.’ ‘Safe arrival. Greet the home -folks.*
+What induced thee to insult people, what is it ? If they beat thee,
+(it is) because of insulting people, whom thou mettest. Thou didst
+meet others, didst not greet them well ; rather didst insult them.
+Begone. We would have given thee food ; but thus, no. Stand not
+longer here, else we beat thee ; for thou lackest respect. Go at once.”
+
+When he arrives on the road, he finds his grandfather seated :
+“ My grandson, how, where thou wentest ? How did they treat thee ?
+Well, where thou wentest, how didst thou do ? ” “ When I arrived,
+
+I said : ‘ Vioko, vioko, eat ye dung.’ The women, when they heard,
+anger possessed them ; they beat me, they chased me.” Mr.
+Leopard says : “ Thou (art) a fool. When thou meetest others,
+then dost thou insult them ? (It was) right (that) they beat thee ;
+thou wast insolent. Arise, let us go.” He took up (his load).
+
+When they had started, they meet a brook. He says: “My
+grandson, when thou crossest this brook, . it shall be (that) thou
+shuttest (thy eyes) for jumping.” When he went to jump, he
+tumbled down; the demijohn of rum, it broke. He says: “Now,
+art thou not a fool ? Thou crossest the river, (with) eyes shut ; the
+demijohn of rum, thou hast broken it. Now, how shall we do ? We
+are going with a present to parents-in-law. How will they receive
+us ? The demijohn, thou hast broken it on the road. Come, let us
+go now.”
+
+When they had arrived at the house of the father-in-law : “ Sonin-law, how do you do ? ” Says : “ We are well. Nothing bad, that
+we have seen.” (They are) receiving them ; (he gives) the two bottles, that remained.600
+
+They give them mats to spread for them in the house, in which
+they are to stay. The father-in-law has gone ; he kills a big suckling of hog to cook for his son-in-law. The food is ready ; they send
+it to the table ; they bring it to the son-in-law.
+
+The son-in-law receives the food, says : “ Mr. Antelope, go to the
+river yonder, and take out the fish-trap ; dip out water to drink.”
+Mr. Antelope, when he goes to dip out the water with the fish-trap,
+the water runs out. When he had returned, he finds Mr. Leopard
+has eaten already. He says : “ Our grandfather, I am with my
+hunger; where is the food, thou hast left me?” He says: “The
+food is finished. A lot of people were here. They have eaten the
+food. Wait till evening, then thou shalt eat.”
+
+The evening having come, the food is ready, he says : “ My grandson, fetch quickly the fish-trap with the water.” When he goes to
+fetch the fish-trap, when he dips out the water, it runs out. He says :
+“Ah ! I spent the time being hungry ; I dip out water with the fishtrap, it runs out. Better I go away ; the water, I give it up.”
+
+
+1 66 Folk - Tales of Angola .
+
+
+id.
+
+kuniana.”
+
+
+Ki azuba o kutula ku bata did, ukatula o kinama kia xitu ia Ngu-
+
+
+Leopard \ Antelope , and Monkey . 167
+
+He finds Mr. Leopard, who has eaten already. He says : “ Our
+grandfather, since early morning, when we came, I have not eaten ;
+shall I lie down with my hunger ? This is not right.0 He says :
+“ My grandson, hold thy peace ; to-morrow thou shalt eat.”
+
+Arriving at night, the tom-toms begin in the dancing place. Mr.
+Leopard went out, Mr. Antelope went out ; also the girls, here they
+are in the dancing place. They begin to respond to the drum.
+They dance until the cock-crow. Then the girls say : “ We are with
+our sleep, we want to go to bed.” They say ; “ To-morrow ! ” They
+leave. They go to accompany the visitor, Mr. Leopard.
+
+When they come to the house, they begin the night-chat, (and)
+say : “ To-morrow ! sleep well, my brother-in-law.” The night having come, Mr. Leopard said : “ Mr. Antelope, the place is (too) small ;
+sleep on the shelf.” Mr. Leopard changed ; he was a man, now he
+is a wild beast. He enters the fold of his father-in-law ; he finds the
+goats and sheep; he kills twenty sheep and goats. He takes the
+blood ; he puts it into a pot. He finds Mr. Antelope asleep ; he
+throws at him the pot of blood. He comes to his bed.
+
+In the morning early, he takes his instrument ; he begins to play
+his song. The father-in-law, when he came into the pen, he found
+the sheep killed, said : “ Oh ! woe to me ! all my goats, they killed
+them ; what has done this to me ? Now, how shall I do ? ” Then
+Mr. Leopard says : “ How, father-in-law ? ” He says : “ My son-inlaw, the goats, they have all been killed.” “Look, please; Mr.
+Antelope is asleep. Maybe he has killed the goats ? ” 604 He goes
+to make him get up. He wakes up ; comes outside. When they
+see him thus, the whole body ugly with blood, they say : “ We
+thought (he was) a visitor, but (he is) a thief. Therefore how shall
+we treat him ? ” They say : “ We shall kill him ; for (he is) a thief.
+If he were a guest, he would not steal.”
+
+They kill him ; they skin him ; they take off a leg of meat ; they
+give it to Mr. Leopard, whose grandson (was) a thief. They go to
+sleep.
+
+Arriving in the morning, Mr. Leopard says : “I am going now.”
+They pack for him 505 a suckling of pig, a measure of cassada-meal ;
+they give him a carrier, who shall carry for him the load-basket.
+When he starts: “Fare ye well!” “Arrive (well), my son-in-law.
+Greet the home-folks.”
+
+When he finally arrives at his home, he takes out the leg of the
+meat of the Antelope ; he cuts it in the middle, one half for himself,
+one half to bring to the wife of Mr. Antelope. He brings it, saying :
+“Know ye well; this meat (is) what thy husband sent to thee.”
+They eat it. Then a child says : “ Mama, this meat is smelling like
+papa. I wonder, whither papa went, whether they killed him ? I
+
+
+1 68 Folk - Tales of Angola.
+
+
+II. NGANA NGO NI NGANA HIMA.
+
+
+Leopard, A ntelope and Monkey . 1 69
+
+won't eat this meat, that smells like our father.’' “ Thou, child, why
+dost thou say that your father is killed ? He will come. Only eat
+the meat.”
+
+Mr. Leopard had said thus : “ The meat, when you eat it, do not
+lay by any meat ; let it all go into the pot. Leave me only a little
+bit, for I shall soon come.” The meat they cooked it all. When
+they had cooked it, the mush was ready, they ate. When they had
+done eating, Mr. Leopard says : “ Know thou well, thou, wife of
+Mr. Antelope, thy husband, where we went, stole the goats of others.
+These killed him ; these to us gave this meat. I said : ‘ I will not
+eat alone to myself. I will bring it to his wife ; she will eat of it,
+that she may know.' They had told me : ‘ Thou shalt announce her :
+know thou well, thy husband, where he went on a visit, they killed
+him.' Know ye well, the meat you ate (is) thy husband, whom you
+ate here. That you might know, and not wait in vain. Make the
+mourning; thy husband is dead because of stealing.” Then the
+child said : “ Mama, I said it ; this meat smells of father. Truth
+mine, which I said. Now, papa, where (is he) ? ”
+
+They begin to wail the mourning.607 The mourning ended. The
+day, on which the mourning ended, then Mr. Monkey said : “ One
+day, I too will go with my grandfather, Mr. Leopard : whether he
+can do to me as he did to our friend.”
+
+Thus they lived ; they ate bagre, they supped on cat-fish. They
+keep remembering Mr. Antelope, saying : “ What killed him, what
+(was it) ? The death that he died, what was it ? ” No man knew
+the death that destroyed Mr. Antelope.
+
+II. LEOPARD AND MONKEY.
+
+Mr. Leopard said : “ My grandson, Mr. Monkey, come, accompany
+me to my father-in-law.” They start.
+
+Stopping on the road, he says : “ My grandson, pick up what thou
+findest, this black thing, for our wife.” He says : “ My grandpa,
+thou take hold at the head ; I will take hold at the tail ; for thou
+knowest that (these are) driver-ants, which bite.” He says: “My
+grandson, the way thou hast begun to behave on road is not nice.
+Get up, let us go ! ” They start.
+
+Stopping on the road, they find a field of corn. He says : “ My
+grandson, thou shalt eat the corn yonder, that (is) green ; if thou
+eatest this yellow corn here, when the owner of the field will find
+thee, he will beat thee.” Mr. Monkey, when he entered the field,
+he ate the yellow corn, but left the green corn.
+
+When they arrived at a straw-heap where is fire, (he) says : “ My
+grandson, roast here thy corn.” He says : “ Oh ! grandpa, here, the
+fire is out; the corn, will it cook?” “Roast wherever thou wilt.”
+
+
+170 Folk- Tales of Angola.
+
+Azangula.
+
+
+Kutula k’o’lou’ a ngana Ngo, ahetu exi : " E ! ngana Him’ 6 !
+
+
+mbolo diakokola.
+
+
+Leopard, , Antelope , and Monkey . 171
+
+When they had eaten, Mr. Leopard says to Mr. Monkey : “ Get up,
+let us go now, my grandson." They go.
+
+Arriving on the road, they find a field of sugar-cane. Then Mr.
+Leopard says : “ Those canes there, they don't eat (them) ; thou
+shalt eat that small cane there." Mr. Monkey, as he was told by
+his grandfather, he entered the field, but without doing that which
+Mr. Leopard had bidden him. He broke the large cane. Mr.
+Leopard said : “ Who ordered thee to pluck this cane?" He says :
+“ Grandfather, thou art not wise ; hast thou ever seen a man that
+eats wild cane ? ” “ Enough, my grandson, take up (thy load), let
+us go now."
+
+Arriving at a brook, he says : “ My grandson, this fish-trap, we
+are leaving it here. Soon thou shalt come (and) fetch water in it."
+Then Mr. Monkey says: “Our grandfather, thou art not wise. Hast
+thou ever seen a man dipping water with a fish-trap ? " “ Come, let
+us go, my grandson."
+
+Arriving at the father-in-law's of Mr. Leopard, the women say :
+“Eh! Mr. Monkey here! (How) hast thou been?" “Iam well."
+“Thy wives, are they well?” “They are well." “Thou, Mr.
+Leopard, at thy home, are all well ? " He says : “ They are well."
+They kill for them a hen ; the hen is cooked. The food comes into
+the house for Mr. Leopard and Mr. Monkey.
+
+He says : “ My grandson, go (and) fetch the spoons to come and
+eat." Mr. Monkey hides himself behind the house. He returns ;
+finds his grandfather, Mr. Leopard, who is eating already. He
+seizes his arm : “ I, thou sentest me to go and fetch the spoons ;
+I find thee eating already, without awaiting me. Wait until myself
+also eat." He puts the hand into the plate of fish, puts in mouth ;
+takes out of the plate of cassada-mush ; says : “ I also have now
+eaten ; come, let us eat now, our grandfather ! " They begin to eat ;
+the eating ends. They wash hands ; they sit down.
+
+The sun has set. The food comes again. When they have done
+eating, they begin to have night-chat. The drums come, they begin
+to dance ; (they dance) until the cock crows.
+
+Mr. Monkey comes to sleep. Mr. Leopard stays outside. He
+enters the yard of his father-in-law. He finds goats; begins to
+kill. He kills a goat, takes the blood (and) puts it into a pot. He
+finds Mr. Monkey ; wants to throw the blood on his body. But
+Monkey is awake. When he has done seeing him coming to him
+(to) pour the blood on his body, he pushes him with the hand. The
+pot of blood upsets on the body of Mr. Leopard. They go to
+sleep.
+
+Arriving in the morning, the father-in-law, as he goes to look at
+the curral, finds the goats all killed. Monkey enters the house,
+
+
+1 72 Folk- Tales of Angola .
+
+
+kia mon’ ami.” Azek’d.
+
+
+ngalokuiz’ami selu.”
+
+
+ngazuba.
+
+
+Version B.
+
+
+I. NA NGO NI NA NGULUNGU.
+
+
+“ Dize.” 618
+
+
+Leopard^ Antelope, and Monkey. 173
+
+takes out the banjo,611 begins to play, saying : “ He has made a fool
+of Mr. Antelope,” says : “Whether Monkey too is to be fooled?0612
+His father-in-law, Mr. Leopard’s, arrives : “ Eh ! Monkey, your
+grandfather, where (is he) ? ” “He (is) here in the house sleeping.”
+They go to make him get up. They find his body all ugly with
+blood. They take him ; they kill him.
+
+The father-in-law of Mr. Leopard says : “ Monkey, Mr. Antelope,
+we have killed him unjustly. Not he (it was) who killed the goats.
+Therefore now, thou shalt marry my daughter.” They go to sleep.
+
+Arriving in the morning, they kill a pig; they accompany Mr.
+Monkey, who is going now to his home. They give him a leg of
+the meat of Mr. Leopard, (whom) they killed. Saying: “This meat,
+thou shalt give it to the wife of Mr. Leopard.”
+
+He takes the meat ; he goes away and arrives at the house of
+Mr. Leopard. He gives the meat, saying : “ Know ye, our grandfather, Mr. Leopard, went (further) on, hunting. This meat, he
+sent it to you. Eat away ; for me leave only a little ; I am coming
+directly.”
+
+They cooked the meat ; they eat. Then a child says : “ Mama,
+this meat, my heart is sick. The meat smells of papa.” “Thou
+art crazy. Your father, he is coming. The meat, how can it smell
+of your father? ”
+
+When they had done eating, they washed (their) hands. Mr.
+Monkey goes outside, saying : “ Know ye well, thy husband, Mr.
+Leopard, at his father-in-law’s, where he went, killed the goats of
+others ; these killed him also. I am going.” They say : “ Catch
+him ! ” They pursue him ; they give up. Mr. Monkey is gone.
+They remain wailing the funeral.
+
+Gentlemen and ladies, I have told my little tale, whether good or
+bad ; I have finished.
+
+Version B .
+
+I. LEOPARD AND ANTELOPE.
+
+“ Take (thou) it,” or, “ Take (ye) it.
+
+“ Let it come.” 618
+
+I often tell the story of Mr. Leopard and Mr. Antelope.
+
+Mr. Leopard said : “ Mr. Antelope, come, accompany me to my
+parents-in-law.” Mr. Antelope agrees to it. They enter the path.
+
+When they arrive in middle of the road, they find driver-ants.
+Mr. Leopard says : “Mr. Antelope, pick up the girdle of our wife.”
+Mr. Antelope gathers up the driver-ants with (his) hands ; he wraps
+them up in his bosom. They bite him. He throws them down in
+great haste, saying : “ Sir,614 they are biting.” Mr. Leopard laughs.
+
+
+174 Folk- Tales of Angola .
+
+tui’etu ! ”
+
+
+Asuluka
+tambula.
+
+udtakane menia."
+
+
+ngila; azeka.
+
+
+Leopard , Antelope , and Monkey . 175
+
+saying: “They (are) driver-ants. Thou gatherest them up (in thy)
+hands ? Thou (art) a fool. Come, let us go ! ”
+
+Having gone ahead, they found red ants. Mr. Leopard says:
+“Mr. Antelope, pick up our wife’s girdle, of red cloth.” Mr. Antelope gathers them up ; he wraps them up in (his) bosom. They bite
+him. He throws them down, saying : “ Sir, they are biting.” Mr.
+Leopard laughs, saying : “ Thou art a fool. Red ants, thou gatherest
+them with (thy) hands ? Come, let us go ! ”
+
+They go on ; they arrive at a field. Mr. Leopard says : “ Thou,
+Mr. Antelope, go this side ; pluck egg-plants,517 unripe ones ; because in the field of others.518 I too shall go that side. We shall
+meet in front. Thou shalt also tear out cassada to eat together
+with the egg-plants; thou shalt pull out from the unripe cassada.”
+Mr. Antelope obeyed. He plucked green egg-plants, and pulled out
+unripe cassada. Mr. Leopard plucked ripe egg-plants, and pulled
+out cassada (tubers), large ones.
+
+They meet ahead. Mr. Leopard says : “ Come, please, let me see
+which thou didst pluck.” Mr. Antelope says : “ Sir, these.” Mr.
+Leopard laughs at him, saying: “Antelope, thou art silly; thou
+pluckest fruits (that are) green.” They ate.
+
+They arrive at a river ; they drink water. They find in (the river)
+a fish-trap. Mr. Leopard says : “ Mr. Antelope, soon when they
+cook for us mush, thou shalt come and fetch water.” Mr. Antelope
+says: “Sir, in what shall I carry it?” Mr. Leopard says: “Thou
+shalt carry it in the fish-trap.” Mr. Antelope assents. They go on.
+
+They arrive near the house. Mr. Leopard takes up (his) ngolamata,519 saying : “ Mr. Antelope, hang it on the staff.” Mr. Antelope
+takes it.
+
+They arrive in front (of the house). They spread for them (mats)
+in the guest-house. Evening comes. They cook for them mush
+and a chicken. Mr. Leopard says : “ Thou, Mr. Antelope, run (and)
+fetch (there) water.”
+
+Mr. Antelope goes out ; arrives at the river. He lifts out the fishtrap. The water runs out. He puts it again into the water. He
+takes it out. The water is out of it. He dips it again into the
+water. This keeps not in. He says : “ I am going.” He casts it
+with anger into the water.
+
+Mr. Leopard, behind where he stayed, ate his mush ; he left him
+(but) very little. Mr. Antelope arrives in the house, (and) says:
+“ Sir, the fish-trap is leaking.” Mr. Leopard says : “ Thou, Antelope, art a fool. The fish-trap, they do not dip out water with it.
+I, Mr. Leopard, behind, where I stayed, dogs ate the mush. The
+little that I took from the dogs, eat (it) only, that little. I shall go
+to sleep (with) my hunger.” Our friend, Mr. Antelope, ate. They
+had their evening chat, (and) went to sleep.
+
+
+1 76 Folk - Tales of Angola.
+
+
+at ala ku muelu : hombo iojibe ! Abokona mu xilu. Na Ngulungu,
+
+
+II. NA NGO NI KAHIMA.
+
+
+Leopard , Antelope , and Monkey . 177
+
+In the house in which they slept, by the door they had bound
+goats and sheep. Mr. Leopard got up in the night ; he killed a goat
+by the door. He took a piece of gourd ; he let the blood of the
+goat run in (it). He came ; he threw it at Mr. Antelope on (his)
+head. Mr. Leopard goes to his bed.
+
+The day shines. They come to greet them. Mr. Leopard is
+seated outside. They say : “ Sir, the boy, yesterday thou earnest
+with him, where (is he)?” Mr. Leopard said: “A fool of a boy;
+still he is asleep.” The house-people enter the house ; look inside
+the door ; a goat is killed ! They enter the sleeping-room. Mr.
+Antelope, his head is red with blood. They say : “ Mr. Antelope,
+he has killed the goat.” Mr. Leopard says: “Truth itself. I do
+not want to go about with a son (who is) a thief. Let us kill him ! ”
+Mr. Antelope is killed. Mr. Leopard, they give him a leg. They
+slept.
+
+The second day, Mr. Leopard says: “I am going.” His parents-inlaw, they give him a boy, who will carry for him the leg of Antelope.
+They start on the road. They arrive at his home. He enters the
+house ; they say : “ Sir, welcome.” He says : “ We are back.”
+
+The wife of Mr. Antelope comes to ask Mr. Leopard, saying:
+“ Sir, he thou wentest with him,522 where (is he) ? ” Mr. Leopard
+says : “ He went to recover a debt of his.” The wife of Mr. Antelope assents. Mr. Leopard gives to her the leg of Antelope.
+
+The woman went away. She put the meat on the fire-place ; it is
+done. She put the mush on the fire ; it is done. She divides
+(among) the children the meat. One child puts the meat in (his)
+mouth, (and) says : “This meat is smelling of father.” His mother,
+she beat him : “ Thou, son, what makes thee talk thus ? Your
+father, they say he went to recover a debt.” They finish their
+meat.
+
+II. LEOPARD AND MONKEY.
+
+When several days had passed, Mr. Leopard said : “ I will go to
+visit my parents-in-law. Thou, Monkey, let us go.” Monkey says:
+“All right, sir.” They start.
+
+They arrive in middle of road ; they meet with driver-ants. Mr.
+Leopard says : “ Monkey, pick up the girdle of our wife.” Monkey
+says : “ Sir, these (are) drivers ; they bite.” Mr. Leopard laughs,
+saying : “ Monkey, thou art shrewd.”
+
+They go on. They find again red ants. Says : “ Monkey, pick
+up the girdle of our wife.” Monkey says : “ Sir, these a*e red ants ;
+they bite.” They walk on. They arrive at a field.
+
+Mr. Leopard says : “Monkey, take thou this side, (and) pick green
+egg-plants, and pull out also unripe cassada, for (this) field is of
+others. I shall take that side. We shall meet ahead.”
+
+
+178 Folk •Tales of Angola.
+
+
+Ni Kahim’d?”
+
+Uxi:
+
+
+Ni Kahim’ d ? ”
+
+
+Leopard ’ A nt elope, and Monkey . 1 79
+
+Monkey went. He came to the egg-plants. He picked the ripe
+ones ; he pulled out also large cassada. Mr. Leopard, too, picked
+ripe egg-plants, and pulled out also the large cassada. They meet
+ahead. Mr. Leopard says : “ Monkey, come please, let me see which
+thou hast picked.” He shows him them. Mr. Leopard laughs, saying : “ Monkey, thou art shrewd.” They ate.
+
+They walked on. They arrive at a river. They drink water.
+Mr. Leopard says: “Thou, Monkey, to-day when they cook us the
+mush, thou shalt come to fetch water.” Monkey says: “Where
+shall I carry it (in) ? ” Says : “ Thou shalt carry it in this gourd.”
+He shows him the fish-trap. Monkey assents.
+
+They move on. They arrive near the house of his parents-in-law.
+Mr. Leopard says : “ Monkey, hang up our ngolamata on the staff.”
+Monkey takes it ; hangs it up. They arrive in the village. They
+spread for them (mats) in the guest-house. Evening has come.
+They cook them food.
+
+Mr. Leopard says : “ Monkey, go and fetch water.” Monkey gets
+up ; goes outside, goes round to back of house. He stands a little
+while ; comes into the house ; finds Mr. Leopard, who has begun to
+wash (his) hands. Mr. Leopard says : “ Monkey, the water, where
+(is it) ? ” Monkey says : “ Sir, that thing (is) a fish-trap ; it will not
+dip out water.” Mr. Leopard laughs, saying: “All right. Sit down
+(on ground) ; wash (thy) hands ; let us eat the mush.” Monkey sits
+down ; washes (his) hands ; they eat their mush. The house-people
+come. Say : “ Sir, thou hast seen ; the boy, thou earnest with him,
+he is shrewd.” They separate ; they go to sleep.
+
+Mr. Leopard stands up in the night ; he goes out into the doorroom. When he stood up, Monkey, he looks at him ; (but) keeps
+silent. Mr. Leopard supposes, saying: “Monkey is asleep.” Mr.
+Leopard kills a goat ; he lets the blood run into a piece of gourd ;
+then he comes to pour it over Monkey. He begins to lift his hand.
+Monkey, he pushes it back. It (the blood) spills upon himself, Mr,
+Leopard. Mr. Leopard goes to his bed, to sleep.
+
+Morning shines. Monkey goes outside with the banjo of Mr.
+Leopard. He is playing, saying :
+
+u Thou didst fool Antelope,
+
+Whether also Monkey j? ”
+
+Saying :
+
+“ Thou didst fool Antelope,
+
+Whether also Monkey ? ”
+
+The house-people came, saying : “ The chief, where is he ? M Monkey
+says: “The chief is still asleep.” They say: “Let us go, that we
+make him get up.” They enter the bedroom, they find the chief
+covered up, even the head. They say : “ Chief, get up.” He says :
+
+
+i8o Folk -Tales of Angola.
+
+
+Leopard \ Antelope , and Monkey . x8l
+
+“ (He) who built this little house, he built (well).” They have come
+to make him get up; say: “Get up. It is day.” He says: “He
+who set up this little bed, he set up (well).” They uncover the cloth
+from his face : his whole head is ugly with blood.
+
+They go to the door-room, look at the goats ; they have killed one
+of the goats. They say : “ We had supposed, saying, ‘ Mr. Antelope
+killed the goat ; * whether (it was) Mr. Leopard himself ? ” Monkey
+says : “ Our friend, Mr. Antelope, he fooled him ; me also, he wanted
+to fool me.”
+
+The parents-in-law of Mr. Leopard kill Mr. Leopard. They say :
+“ Why, (our) son-in-law (is) a wild beast ! ” They say : “ Thou,
+Monkey, thou shalt marry now with the girl ; 524 this one (was) a
+wild beast.” They skin him ; take a leg ; give it to Monkey. They
+sleep.
+
+The second day. Monkey says : “ I am going.” They give him a
+boy, who will carry the leg of Mr. Leopard. They arrive at home.
+People say: “ Monkey, may we meet.” He says: “All well.” He
+enters into the house of Mr. Leopard. They say: “The chief,
+where is he ? ” He says : “ The chief went to recover a debt of his.
+This leg of meat (it is) that he gave us of it.” The wife of Mr.
+Leopard receives (it). Monkey goes to his house.
+
+The wife of Mr. Leopard set the meat on fire-place ; it is cooked.
+She cooked the mush ; it is done. She divides the meat ; she gives
+the children. A child says : “ The meat is smelling (like) father.”
+The woman lifts up the mush-stick, beats the child : “ What makes
+thee talk thus ? Your father went to recover a debt.” They finish
+the food. Monkey, he comes ; enters the house, says : “ Wife of
+Mr. Leopard, give me a little meat.” The woman says : “The meat
+is finished.”
+
+Monkey goes outside. He goes to side of village. He climbs a
+tree (and) says : “ Wife of Mr. Leopard, thou thinkest, saying : ‘ I
+am wise.* Now, thy lord, thou hast eaten his leg.” Monkey runs
+away into the bush. The wife of Mr. Leopard begins to cry, saying: “Then (it is) truth, what the child said.” They wailed the
+funeral.
+
+We have told our little story, whether good, whether bad. If
+there is one, who says ‘ to tell ’ (more), let him telL The end. (The
+others in chorus: “(Is) of God.”)
+
+
+Folk^Tales of Angola .
+
+
+XXII.
+
+NA NGO, NI KAHIMA, NI KABUL U.
+
+
+ki an da kuabanda muxi, eie ua di xib’6. Ki uanda628 ku a mona
+
+
+Leopard , Monkey , and Hare .
+
+
+XXII.
+
+LEOPARD, MONKEY, AND HARE.
+
+I often tell of Mr. Leopard. In the country there came a famine.
+
+Mr. Leopard then planted a muzondo ; 628 the muzondo is ripe.
+He finds they are eating the muzondo : “ Who is stealing my muzondo ? *’ He hides ; goes to spy : (it is) Monkey and Hare. Says
+he : “ Thou, Monkey, my grandson, now thou comest to steal my
+muzondo ? And thou, too, Hare, thou, my grandson, thou dost
+imitate what Monkey is doing ; thou art coming to rob me ? 99
+
+Mr. Leopard goes to the house of the old one, says : " Old one,
+make me a charm to catch Monkey and Hare, who are always coming to rob me.” “How much dost thou carry? The doctor-fee,
+where (is it) ? ” “ I bring a rooster.” “ The money of the medicine,
+where ? ” " Do thou make me the medicine first. What I need, if
+
+I get it, then I will pay thee thy money. Help me, please.” Then
+the old one : “ All right ; let us sleep. To-morrow then we will
+make the charm.”
+
+The old one took out the cock, which Mr. Leopard had brought ;
+she pUt the pot on the hearth ; the water is hot She soaks the
+cock ; 627 she plucks it ; she prepares it. She puts oil into the pot ;
+she roasts it ; it is done. She puts the mush on the fire-place ; the
+mush boils ; she has cooked the mush. She puts (it) on plates ; she
+spreads the mat ; she calls Mr. Leopard, saying : " Come (and) dine.”
+He comes to dine. They give him the basin to wash hands in ; he
+washed (his) hands. He begins to eat mush ; has eaten. They give
+him water. He sleeps.
+
+He arrives in the morning early. Then the old one says : “ Thou
+seest, thou Mr. Leopard, what thou shalt do at thy home. When
+thou hast gone to the tree of muzondo, thou shalt dig holes for Mr.
+Monkey and Mr. Hare. When they are going to climb the tree,
+thou shalt keep quiet. When thou shalt see them having already
+climbed on the tree, thou shalt ask them : ‘ Who are there ? * They,
+Monkey and Hare, when they will hear, will be with fear of thee,
+Mr. Leopard. They will jump to the ground, and die in the holes.”
+
+Mr. Leopard came to his home ; he dug the holes under the tree
+of muzondo. When he finished digging the holes, he returned to
+his house.
+
+When he passed some time, he goes out of his house, goes to
+look. Under the tree, Hare (is) there j Monkey is up on the tree.
+Mr. Leopard, when he went to catch Hare, Hare ran away. When
+he took to chasing him, he gave him up. Monkey also ran away,
+Mr. Leopard goes to his home.
+
+
+184 Folk- Tales of Angola .
+
+
+kuala mbudi. Eie ud, Kabulu, ku bata did kuala-hi ? ” Uixi : “ Ku
+usuam’d.
+
+
+Leopard \ Monkey , and Hare . 185
+
+In the morning early, he takes off the gun in his house, and a
+cartridge-box, and hatchet, and club ; he begins to walk, up to the
+house of the old one. “ Thou give me my chicken ! The holes,
+thou didst order me to make, Hare, I got tired of catching him ;
+with the other, Monkey, they went off. My fowl, give it me, that
+I go with it.” Then the old one : “ Let us sleep, Mr. Leopard. Tomorrow, then thou mayest go all right.” They sleep.
+
+When they arrive in the morning, then the old one : “ Go to the
+heart of the forest; there to cut small trees for to carve them.
+We shall make images ; images of girls, with their eyes, with their
+breasts, with their ears, with their noses, with their mouths. Thou
+shalt pierce their ears, and put (on) earrings ; thou shalt fetch
+beads, and red-wood ; thou shalt smear the red-wood ; thou shalt
+tap gum of the wild fig-tree, and smear too ; small ropes also, thou
+shalt fetch them. Thou, Mr. Leopard, when thou arrivest at thy
+house, shalt sleep. Thou arrivest in the morning, thou shalt start,
+go to the tree. When thou arrivest there, thou shalt climb into the
+tree and set up the images. Then do thou go hence, to hide under
+a thick bush, with thy small ropes. There shalt thou stay awaiting
+Monkey and Hare.”
+
+Mr. Leopard returns home ; he did all that the old one had ordered
+him. Another day, having put up the images, he is under the bush.
+When he passed a moment, he sees Monkey and Hare ; they have
+already come.
+
+When they arrive at the tree, then Hare says : “ Ah, friend ! O
+Monkey 1 come to see the girls, who are up on the tree.” When he
+finished looking, Monkey said : “ You girls, how do you do ? ” They
+are silent. “Are you with shame?” They keep quiet. “Are you
+hungry ? ” They are silent. Then Hare says : “ Eh, friend ! at
+thy home, what is there?” Monkey says: “At my home there is
+a sheep. Thou, too, Hare, at thy house, what is there ? ” He says :
+“At my house there is a hog.” He says : “ Friend, let us go now ! ”
+
+They arrive at home ; they kill the pig ; they cut it ; they put it
+in the pot. The meat is done ; the mush is ready ; they put it on
+plates. They take up a jug of water, and a mat, and all the food.
+They start ... up to the place of the tree.
+
+Then Monkey : “ You, girls, come down ; let us eat now ! ” They
+will not come down. He asks them : “ Are you bashful ? ” They
+are silent. Then Monkey : “ O friend ! Let us go please, for they
+are bashful with us.” They go away.
+
+Mr. Leopard comes out of the bush ; he finds the food ; begins to
+eat. When he finished eating, he drank water. He comes to one
+place, washes his hands ; comes to the other, washes (his) hands.629
+He goes again under the bush ; he hides.
+
+
+1 86 Folk-Tales of Angola .
+
+Kabuiu uatula, uixi: "Moso d ! Kahim’d ! elumba iadi kid!” Alo-
+"Aiud! Mosod! t uanaminina.”
+
+hunia; u mu ta mu kitakala kid. Utuluk’d. Uabixila ku bata did ;
+
+
+Atula mu ngoloxi. Kuala ngana Kabuiu uixi: "An’ a ngamb*
+ambata ku mukambu ua muxi ; katd ku bata did, dia ngana Ngo.
+
+
+Leopard \ Monkey, and Hare . 187
+
+Hare has come and says : “ Eh, friend ! Monkey ! the girls have
+eaten ! ” They pick up their things ; they bring them to their houses.
+Monkey comes with his banjo. They begin to play ; they begin to
+dance. Then Hare and Monkey : “ You, girls, come, let us dance ! ”
+The girls will not dance. , Monkey begins to dance ; Hare is playing the banjo. Monkey has jumped to the girls; as he goes to
+smack,631 he sticks to the gum. He says : “ O friend ! Come and
+see, the young woman is holding me.” Hare throws the. banjo on
+the ground ; he goes to smack ; he sticks. Says : “ Woe to me !
+O comrade, we are stuck ! ”
+
+Mr. Leopard arrives with his club He finds Hare here ; he
+knocks him (with) club ; he puts him in his side-bag.632 He finds
+also Monkey; he gives him a clubbing; he puts him in his sidebag. He comes down. He arrives at his home, says : “ My wife !
+Monkey and Hare (whom) I wanted much, I have caught them ;
+to-morrow we will cook them.” They go to sleep.
+
+They arrive in morning. They announce to him the funeral of
+his father-in-law. He says : “ My wife, to-morrow thou shalt pound
+the cassava ; then take Hare out of the side-bag. Thou shalt skin
+him, cook him. Thou shalt eat thy meat ; (and) leave me mine.
+So now, farewell.” Mr. Leopard, he goes now.
+
+The woman hears in the side-bag, saying : “ Let us out ; uncle,
+Mr. Leopard, told us, thou shouldst let us out, that we follow him to
+the funeral.” The woman frees them. Then Har6 : “ Give us the
+keys of the trunk ; that we dress and follow him to the funeral.”
+She gives them the keys. They open the trunk ; they dress. Mr.
+Hare is ensign : sword on waist ; cap on head. Mr. Monkey is captain : sword on waist ; cap on head.
+
+They start — up to the funeral, where Mr. Leopard went. They
+find Mr. Leopard here. Then Mr. Hare says : “ Bind him ! the
+Lord Governor sent for him.” They bind him, hands on back. He
+says : “ I offer a suckling of pig for slackening the ropes ! a measure
+of meal ! a hundred macutas ! ” 636 Messrs. Monkey and Hare accept. They pass time.
+
+They arrive in evening. Then Mr. Hare says : “ Carriers, hallo ! ”
+They run away. He calls the brothers-in-law of Mr. Leopard : 4‘ Carry
+ye your brother-in-law ! ye shall go to the Lord Governor, who sent
+for him.” They carry him on a pole of a tree ; as far as his house,
+of Mr. Leopard. They set him down.
+
+Then Hare : “We want to eat.” Mr. Leopard takes a hog, like
+this,537 worth three hundreds ; there goes a sack of meal. Then
+Mr. Monkey says: “We don’t want meal; we want flour.” They
+give them a sack of flour. They receive (it).
+
+They kill the hog ; they prepare it ; it goes into the pots. The
+aku luamukud ! ” Lukuaku luamukud luaxomoka.
+
+
+Nzambi.”
+
+
+XXIII.
+
+NA NGO NI JIXITU.
+
+
+Leopard and the other Animals . 189
+
+meat is done, they take it from the fire. They put the mush on the
+fire; the water of the mush boils. They say : “No one shall cook
+the mush ; Mr. Leopard shall cook it with (his) hands.” 538
+
+As Monkey commanded, Mr. Leopard comes to cook the mush
+with (his) hands. The wife of Mr. Leopard put in the flour ; her
+husband, Mr. Leopard, begins to stir. The hand peels off. Mr.
+Monkey : “ Put in the other hand ! ” The other hand peels off.
+
+Then Monkey : “ The water of the mush, throw it away ; it is not
+good. Now let us eat our meal.”
+
+Mr. Leopard, they lift him up ; they bring him into his house.
+When they finished eating, Monkey and Hare, they go to back of
+house. They strip the clothes of Mr. Leopard ; they put them in a
+bundle; they stand in distance yonder. “Thou must know it! we
+are Monkey and Hare ; thou puttest us in the side-bag. The day of
+to-day, we ran away. Thy wife, she let us loose out of the sidebag. We went to the funeral to bind thee, Mr. Leopard. We are
+going away. Chase (us) ! ” The brothers-in-law of Mr. Leopard are
+chasing Hare and Monkey. They chased ; gave up.
+
+What causes Mr. Monkey to sleep on tree ; (is) because of flying
+from Mr. Leopard, that he should not hurt him. What causes Mr.
+Hare to sleep in the bush, he does not sleep in the open field ; (is)
+because of flying (from) Mr. Leopard. Mr. Leopard, who had no
+spots, what caused him to have spots (was) Mr. Monkey and Mr.
+Hare.
+
+You, my ladies ; you, my gentlemen, I have told my little story.
+Whether good, whether bad ; I have finished. The end — “ (Is) of
+God!”
+
+
+XXIII.
+
+LEOPARD AND THE OTHER ANIMALS.
+
+Mr. Leopard lived. One day hunger grasps him. He says :
+“ How shall I do ? I will call all the animals in the world, saying,
+* come ye, let us have a medical consultation.’ When the animals
+come (then) I may catch and eat.”
+
+He sends at once to call Deer, Antelope, Soko,641 Hare, and Philantomba. They gather, saying : “ Why didst thou send for us ? ”
+He says : “ Let us consult medicine, that we get health.”
+
+The sun is broken (down). They begin the drums outside with
+the songs. Mr. Leopard himself is beating the drum ; he is singing,
+saying :
+
+
+Mukuenu ukata ;
+
+
+Mukuenu ukata ;
+
+
+Mukuenu ukata;
+
+
+“ Ki kukata ;
+
+
+Ki kukata ;
+
+
+Ki kukata ;
+ngoma.'*
+
+kuata.* *
+
+
+XXIV.
+
+MON' A NGO NI MON' A HOMBO.
+
+
+uatundu-ku; ueza ku bata did; azekele. Izua ioso, Kabidibidi ka
+mon’ a hombo u£ne mu ia kud kamba did, Kabidibidi ka mon’ a
+ngo.
+
+
+The Young Leopard and the Young Goat.
+
+
+Your friend is sick ;
+
+Do not shun him !
+
+
+Your friend is sick ;
+
+Do not shun him !
+
+
+Your friend is sick ;
+
+Do not shun him ! ”
+
+Deer says : “ Chief, the drum, how art thou playing it ? Bring it
+here; that I play it.” Mr. Leopard gives him it. Deer takes the
+drum, says :
+
+“Not sickness;
+
+Wiliness holds thee !
+
+Not sickness ;
+
+Wiliness holds thee !
+
+Not sickness;
+
+Wiliness holds thee ! ”
+
+Mr. Leopard stood up from ground, said : “ Thou, Deer, knowest
+not (how) to play the drum.”
+
+The animals all then ran away, saying : “ Mr. Leopard has a
+scheme to catch us.”
+
+
+XXIV.
+
+THE YOUNG LEOPARD AND THE YOUNG GOAT.
+
+I will tell of Kabidibidi, the young leopard, and Kabidibidi, the
+young goat, who played their friendship.
+
+Kabidibidi, the young goat, said : " Thou, my friend, shalt be
+coming to me to pass time at our house.” Kabidibidi, the young
+leopard, said : “ I cannot go always to your house ; because father,
+when he is wont to go to the fields, he leaves me to watch on the
+threshold. It must be that thou comest always to our house.”
+Kabidibidi, the young goat, said : “ All right.” They separated ;
+they slept
+
+Kabidibidi, the young goat, went to his friend, Kabidibidi the
+young leopard. They played ; the sun died. Kabidibidi, the young
+goat, left there ; went to his house ; they slept. All days, Kabidibidi, the young goat, used to go to its friend, Kabidibidi the young
+leopard.
+
+One day, Kabidibidi, the young leopard, told his father, saying :
+“ O father ! Kabidibidi, the young he-goat, my friend, I am always
+passing time with him here all days.” His father says : “ Thou,
+mu.” Kabidibidi ka mon’ a ngo uxi: “Sus* £ ! ** Uxi: “Nginekele.
+
+
+uatundu.
+
+
+The Young Leopard and the Young Goat .
+
+my child, art a fool. The goat, that is our meat ; that is the food
+which we are wont to eat. When he comes to pass time with thee,
+why dost thou allow him to go away ? Wilt thou not catch him,
+that we eat him ? Well now, here is our sack. To-day, if he comes,
+thou shalt tell him, saying : ‘ My friend, we are playing ; enter into
+our sack, in here/ When he is in, thou shalt bind the sack. When
+thou hast done binding, thou shalt take a staff, and shalt knock it on
+him over the sack.” His child said : “ All right.” Mr. Leopard
+went to the fields with his wife.
+
+Behind, where stayed Kabidibidi, the young leopard, Kabidibidi,
+the young goat, came. They are playing. Kabidibidi, the young
+leopard, took the sack, saying : “ My friend ! enter into the sack
+here; we are playing.” Kabidibidi, the young goat, entered the
+sack ; his friend tied on (it) the cord.
+
+A while, Kabidibidi, the young goat, says : “ O my friend ! let me
+out ! ” His friend says : “ Stay in there ! ” Kabidibidi, the young
+goat, says again : “ Let me out ; if thou dost not let me out, I shall
+pee in it.” Kabidibidi, the young leopard, said : “ Just pee ! ” He
+says : “I must mess in it.” His friend said : “ Get out of the sack
+of my father; do not mess in it.” He let him out; they played.
+Kabidibidi, the young goat, went away.
+
+Behind, Mr. Leopard, who had gone to the fields, has arrived.
+He says: “Where is Kabidibidi, the young goat?” His child
+says : “ He came ; I put him into the sack. He said : * I must pee
+in it;' I said: ‘Just pee!* He said: ‘I must mess in it,* I said:
+‘ Get out of the sack of my father ; do not mess in it.* I let him
+out ; he went away.** Mr. Leopard said : “ Thou, my child, art still
+foolish.” They slept.
+
+(In the) morning, Mr. Leopard gave him again the sack, saying :
+“To-day, when he comes, thou must make him get in again. When
+he speaks, saying, ‘I must pee in it,’ tell him, ‘just pee!’ When
+he says, ‘I must mess in it,’ tell him, ‘just mess!* The sack is
+mine, my own ; we can wash it ! ”
+
+When he is thus speaking, behold, Kabidibidi, the young goat,
+to-day has come early to his friend. When he heard the talking, he
+went round to the back of the house ; he hid. Mr. Leopard went
+to the fields.
+
+Behind, Kabidibidi, the young goat, appeared ; they are playing.
+Kabidididi, the young leopard, took the sack, saying : “ My friend,
+come into this sack here.’* His friend entered, he tied (it) up.
+A while, he says : “ Let me out.” His friend says : “ Stay longer.”
+He says : “ I (must) pee in it.” Says : “Just pee ! *’ “I must mess
+in it.” Says : “ Do not mess in it ; get out of the sack of my
+father.” He let him out; the young goat came out.
+
+
+194 Folk- Tales of Angola .
+
+“ Sus’d ! ” Uxi : “ Nginenena-mu.” Kamba die uxi : “ Nen'd ! ” Kauxi: “Kiauaba.”
+
+
+The Young Leopard and the Voting Goat . 195
+
+A while, Kabidibidi, the young goat, says : “ Thou, too, get into
+it.” Kabidibidi, the young leopard, got into the sack. The young
+goat tied (it) up. Kabidibidi, the young leopard, said : “ Let me
+out.” The other said: “Stay longer.” He says: “I must pee in
+it” The other says: “Just pee!” Says: “I must mess in it.”
+His friend says: “Just mess!” Kabidibidi, the young goat, takes
+the staff ; he knocks it on Kabidibidi, the young leopard ; the young
+leopard is dead.
+
+Kabidibidi, the young goat, laid (himself) down in the bed of Mr.
+Leopard. He takes the sheet i542 he covers himself over (his) head ;
+keeps silent.
+
+A while, Mr. Leopard arrives, saying : “ My child, where art
+thou gone ? ” Kabidibidi, the young goat, makes a small, tiny
+voice643 in speaking, says : “I am here ! papa; (my) head is aching
+'me. Kabidibidi, the young goat, I killed him ; I put him in the
+sack. Thou, however, do not untie it.” Mr. Leopard said: “All
+right.”
+
+The wife of Mr. Leopard set a pot, a large one, on the fire ; the
+water boils. They put him with the sack into the pot ; he is scalded
+in there. Kabidibidi, the young goat, who is in bed, says : “lam
+coming, papa; I will scrape him.” He covered himself with the bedsheet of Mr. Leopard ; he went outside with the sack. He peels
+him ; he cuts off his paws. He goes into the house ; he lies down.
+They cook the meat ; it is done.
+
+Mr. Leopard says : “ My son, get up now ; let us eat.” Kabidibidi, the young goat, says : “ Papa, I cannot sit up in the house ; in
+here there is heat. Ye give me my food ; I will go outside.” They
+gave him his food. He covered himself over head ; went out. He
+moved off in distance ; he shouts, saying : “ Thou, Mr. Leopard,
+thinkest, saying, * I am shrewd ’ ; but now, thy son, thou hast eaten
+him. I am Kabidibidi, the young goat ; I am going here.”
+
+Mr. Leopard rushes outside ; he looks. Kabidibidi, the young
+goat, is running away in haste. He pursued him ; he gave him up.
+
+Thus, Mr. Leopard, therefore he hates the goats, because his son
+played with the son of the goat ; the young of the latter, he made
+him eat his (own) son.
+
+I have told my little tale. Finished.
+
+
+XXV.
+
+KABULU NI NA NGO.
+
+
+XXVI.
+
+O MULONGA UA NGANA NGO NI NGULUNGU.
+
+kisutu.
+
+
+The Lawsuit of Leopard and Antelope \
+
+
+XXV.
+
+HARE AND LEOPARD.
+
+Hare plaited his long basket, saying : 44 I will go to bind squashes
+in the field.”
+
+He started ; he arrives in middle of road. He meets with Mr.
+Leopard; Mr. Leopard says: “Thou, Hare, thou art courageous;
+this whole basket here ? Where dost thou go with it ? ” Hare
+said : " Lord, I am going to bind a few small squashes in the fields.”
+Mr. Leopard said : 44 Thou indeed, the basket is bigger than thou ;
+if it be full of squashes, how wilt thou carry it ? ” Hare said :
+44 Lord, if (it be) thou, thyself, I am able to carry thee ! ” Mr.
+Leopard said : 44 Thou, Hare, art presumptuous. If thou givest me
+up, what may I do to thee ? ” Hare said : t( Lord, beat me.”
+
+Mr. Leopard gets into the basket. Hare said : “ Lord, when I
+fasten the ropes to the basket do not shriek ; but beware of falling
+on the ground.” Mr. Leopard said : 44 All right.”
+
+Hare took a rope ; he tells Mr. Leopard, saying : 44 Lord, stretch
+(thyself) out well.” Mr. Leopard stretched out ; Hare bound. He
+takes off his hatchet from waist ; he knocks (with) it Mr. Leopard on
+the head. Mr. Leopard says : 44 Thou, Hare, how dost thou mean to
+treat me ?” Hare said : 44 You do hate us.” Hare hits him again ;
+Mr. Leopard dies.
+
+Hare flayed him; he returns to his house. He ate his meat;
+lived on.
+
+I have told the little story. Finished.
+
+
+XXVI.
+
+THE LAWSUIT OF LEOPARD AND ANTELOPE.
+
+Antelope owned a she-goat ; Leopard, he owned a he-goat.
+
+Antelope then goes to Leopard to ask him for his he-goat, to
+keep him in (his) corral with his she-goat, to breed. Saying that
+after she has had three gestations, he would give him a young shegoat with his he-goat ; (while he) Antelope, would keep his goat and
+her young. Leopard then assents, and gives over the he-goat.
+
+When she had born three times, Antelope takes a young nannygoat and the billy-goat of Mr. Leopard. He goes to bring (th£rn) to
+
+
+/
+
+
+198 Folk ‘Tales of Angola.
+
+
+“ Kdxikame.”
+
+iama iamukud.
+
+
+The Lawsuit of Leopard and Antelope .
+
+him, and says to him: “ Thy he-goat.(is) here, with the young shegoat ; that thou, too, mayest raise thy cattle.” Leopard says : “No ;
+I have not yet a corral built. Return yet with the goats, and keep
+them. When I shall have built the corral, I will fetch them.”
+
+Antelope then went back with his two goats, and he kept them in
+his corral. His nanny-goat begins to breed, until it had ten gestations.
+
+After a time, he goes to Mr: Leopard to tell him to take his hegoat and the she-goat, that he had given him. Mr. Leopard refuses
+to take them, because he has not yet built the corral.
+
+After spending days, Mr. Leopard, on seeing (that) Antelope has
+already forty goats, he goes to Antelope’s to tell him, saying : “ The
+goats, we will divide them.”
+
+Then Antelope : “ I cannot divide, because I had brought thee
+thy he-goat, with a young she-goat, and thou didst refuse saying : * I
+have no corral built/ until to-day. I will give thee two she-goats
+with thy he-goat.” Then Leopard : “ I will not.” He goes home ;
+summons Antelope.
+
+Lord Elephant sends Deer to go and tell Mr. Antelope, saying :
+“ The day after to-morrow thou shalt go to the court of Lord Elephant, there to plead the lawsuit of the goats, that you have, (thou)
+and Mr. Leopard. And the goats, they shall go too.” Deer told
+Mr. Antelope, and returned to his home. Mr. Antelope is crying, is
+thinking; what he shall do, he does not know.
+
+Philantomba passes by Antelope’s, and asks him what he is crying
+about. Antelope tells him the lawsuit of the goats with Mr. Leopard. Then Philantomba: “I will plead this lawsuit well, so that
+thou shalt return with thy goats ; how much wilt thou pay me ? ”
+
+Then Antelope : “ Thou, Philantomba, begone. -Do not make me
+angry ; lest I hurt thee.” Philantomba, in fear of the Antelope, and
+of the great anger, that he found him to have, Philantomba goes
+away.
+
+When the two days were complete, Antelope took the goats ; he
+went to the court of Lord Elephant. He finds the place full ;
+Messrs. Palanga, Buffalo, Sefu, Lion, Kisebele, Semvu,646 and Mr.
+Leopard himself.
+
+Antelope, when he arrived, greeted Lord Elephant. The latter
+bid him : “ Sit down.”
+
+When they had spent a while, they see Philantomba, who is passing in a hurry, with his cap on his head, and he greets from a distance Lord Elephant and the other beasts.
+
+Then Lord Elephant : “ Who is that, who passed in haste with
+his cap on (his) head, without taking it off while greeting me ? ” He
+calls Deer, he orders him to pursue Philantomba: “Go, catch him
+(and) come with him. If he will not, kill him ! ”
+
+
+XXVII.
+
+HOJI NI KIMBUNGU.
+
+
+mu lembua.
+
+
+Lion and Wolf.
+
+Deer then goes ; he catches Philantomba ; brings him to Lord
+Elephant. Lord Elephant orders to bind him. Then Philantomba :
+" What crime is it that kills me ? ” Then Lord Elephant says :
+" The lack of respect, to pass in haste where I am, without lowering
+the cap.” Then Philantomba: “I am in a hurry because of my
+father, whom I left giving birth. I am going in haste to fetch our
+mother, who is gone to the war.”
+
+When he finished speaking, Lord Lion, and Lord Elephant, and
+all the beasts, start up, saying : “ Possible ? Thy father giving
+birth ? ” Then Philantomba : “ My father, gentlemen, you have
+doubts of (his) giving birth, because of what ? ” They answer :
+“ The male, that gives birth, we have not yet seen him.” Philantomba asks them : " What lawsuit is there in this court between Mr.
+Antelope and Mr. Leopard ? ”
+
+Then Lord Elephant and Lord Lion : “ Philantomba, unbind him !
+The lawsuit is decided. Thou, Mr. Leopard, wast owner of a hegoat ; Mr. Antelope asked him of thee, to breed with his she-goat.
+Thou shalt get these two she-goats with thy he-goat. Do not divide
+them, for the male does not give birth.”
+
+
+XXVII.
+
+LION AND WOLF.
+
+Lion roared, saying : “ In the world there is not another equal to
+me in strength ; only my friend, Elephant Ngola ’Aniinii and Redant of Malemba, whose couch is pain,547 they are equal to me.”
+
+But the Wolf, who had lurked in the thicket, then gets up ; moves
+off a short distance, says : “ Lion, thou toldest a lie, saying * in the
+world there is no other equal to me/ The Know-much is stronger.”
+He walks a little, says again : “The Hang-arms is stronger ! ”
+
+Lion looks at Wolf. Anger takes him, and he chases him ; he
+gives him up.
+
+Therefore (it is) they hate each other ; because Lion (once) told a
+lie ; but Wolf, he exposed him.
+
+
+Falk - Tales of A ngola .
+
+
+XXVIII.
+
+NZAMBA NI DIZUNDU.
+
+
+Dizundu ! ”
+
+ngana Nzamba.
+
+ngalami ni nguzu ia kuenda. Za ngibande ku dikunda did ! ” Ngana
+
+
+XXIX.
+
+MUKENGE NI SUTE.
+
+
+Fox and Mole .
+
+
+XXVIII.
+
+ELEPHANT AND FROG.
+
+I often tell of Mr. Elephant and Mr. Frog, who were courting at
+one hoiise.
+
+One day Mr. Frog spake to the sweetheart 649 of Mr. Elephant,
+saying: “Mr. Elephant (is) my horse.” Mr. Elephant, when he
+came at night, then the girls tell him, saying : “ Thou art the horse
+of Mr. Frog ! ”
+
+Mr. Elephant then goes to Mr. Frog's, saying : “ Didst thou tell
+my sweetheart that I am thy horse?” Mr. Frog says, saying :
+“No ; I did not say so.” They go together to find the sweetheart
+of Mr. Elephant.
+
+On the way, Mr. prog told Mr. Elephant, saying : “ Grandfather,
+I have not strength to walk. Let me get up on thy back l ” Mr.
+Elephant said : “Get up, my grandson.” Mr. Frog then goes up.
+
+When a while passed, he told Mr. Elephant : “ Grandfather, I am
+going to fall. Let me seek small cords to bind thee in mouth.”
+Mr. Elephant consents. Mr. Frog then does what he has asked.
+
+When passed a little while, he told again Mr. Elephant, saying :
+“ Let me seek a green twig to fan the mosquitoes off thee.” Mr;
+Elephant says : “ Go.” He then fetches the twig.
+
+They, when they were about to arrive, the girls saw them, and
+they went to meet them with shouting, saying : “ Thou, Mr. Elephant, art the horse indeed of Mr. Frog !”
+
+
+XXIX.
+
+FOX AND MOLE.
+
+Fox and Mole660 took to each other the friendship of one board
+(of eating together).
+
+Fox said : “Thou, comrade Mole, I will go always to catch chickens.” Mole also said : “ I will go always to carry off flour from the
+pounding-place of the women.” Fox said: “All right.” They
+slept.
+
+(At) morning, Fox went to catch a fowl. Mole, too, threw up (his)
+mole-hills as far as the pounding-place of the women. He bored a
+basket cf flour ; he drew (it) off into his sack ; it is full. He returns ; arrives in their house. He finds the other, Fox, who has
+come already with a fowl. They cooked ; they ate, slept.
+
+
+Fox and Mole .
+
+
+(At) morning, Fox says : “ O man, I am going to catch a fowl.”
+Mole also said : “I am going for flour.” They separated. Where
+Fox went, he caught a cock. Mole drew off flour into his sack.
+He returns ; finds his comrade, who has already come with a fowl.
+They cooked the cock ; they boiled the mush. Fox said: “O man !
+let us go to have a bath ; when we come, we will eat well.” Mole
+said: “ Very well.”
+
+They start ; arrive at the river. Mole had made his tunnel, starting from their house down to the river. Fox went into the water ;
+he went swimming as far as in the middle of water. He returns ;
+gets ashore.
+
+Mole said : “ I, when I get into the water, thou shalt not see me
+so soon.” Fox said : “ Get in ; let me see.” Mole went in ; dived.
+He entered again into his tunnel ; he is walking. He arrives at
+their house ; he gets out of the tunnel. He takes the eatables,
+which they had left, (he) and his chum ; he eats. He enters into
+the tunnel ; walks. He arrives in the river ; he emerges from under
+water. Says : “ O fellow, Fox, let us go now.” They start.
+
+They arrive at home ; they enter the house. Fox, where he had
+left the victuals, the victuals are eaten. Fox says : “ O man, Mole,
+who ate our victuals ? ” Mole said : “ I don’t know. We went both
+of us to bathe. How can I know him who ate ? ” They are silent ;
+slept.
+
+Morning, Fox says: “I am going to lie in wait of the fowls.”
+Mole too said : “I am going for the flour.” They separate. Where
+went Fox, he caught a mother-hen. He came to the house to cook.
+Mole also, where he went, he took flour. He returns ; enters into
+their house. He finds the other ; the fowl, he has cooked it already.
+They cooked the mush. Mole said : “ O comrade, let us go first
+to bathe. When we come, we will eat well.” Fox said : “By first
+going to bathe, we always find the victuals eaten.” Mole said:
+“Then, let us not tarry there.” The other assented.
+
+They started ; arrived at the landing. Fox entered into the
+water ; he swam ; came ashore. Mole went in, too ; he dived under
+the water ; he is in his tunnel. He is walking ; he arrives at their
+house. He gets out on earth ; he eats the food. He enters again
+into his tunnel ; he walks. He arrives at the river ; he emerges ;
+he is on the ground. Says : “ Comrade, let us go now ! ”
+
+They start ; they arrive at home. They enter in the house. Fox
+looks where he had set the food ; it is eaten. Says he : “ O fellow,
+who ate our food ? ” Mole said : “ I don’t know.” Fox says : “ That
+is why I said, saying, * let us eat first ; * thou saidst, ‘ let us go to
+bathe ; let us not tarry there.’ Now, the victuals, they are eaten.”
+They keep silent ; slept.
+
+
+makudia/* Alambe.
+
+
+Mahezu.
+
+
+XXX.
+
+KOLOMBOLO NI MUKENGE.
+
+
+Kolombolo uai’^ ku bata di£. Mukenge uai’^ ud mu dilundu did.664
+
+
+Cock and Fox .
+
+
+Morning, Fox said: “I will go at noon to catch a fowl.” Mole
+said : " I am going now. If I delayed as long as to noon, then the
+women, I should find them scattered.” He started.
+
+Fox, behind where he stayed, reflects, saying: “This fellow,
+whether he is eating the victuals ? I will go to seek where he is
+coming in.” He seeks in the grass ; he finds the mole-hills of Mole,
+starting from their house down to the river. Fox says : “Why, this
+fellow is walking under the ground.” He cut a trap-stick ; he set it
+in his tunnel. He went hence ; went to lie in wait for a fowl. He
+caught a cock ; he comes home. He meets with the other ; they
+say : “ Let us cook now the victuals.” They cooked.
+
+Mole says : “ Let us go to bathe.” Fox said : “ Let us go.” They
+start ; they arrive at the river. Fox entered into the water; swam ;
+came ashore. Mole too went into the water ; he dived under the
+water. He entered into his tunnel ; walks. He arrives to near by
+their house ; he dies in the trap, that Fox had set.
+
+Fox, at the landing where he stayed, looked for the other, who had
+gone into the water. A long time he appears not. Says he : “I
+am going.” He starts ; arrives at their house. He goes into the
+house, looks for the food : here it is. He goes round to back of
+house ; looks at the trap ; it is up. He comes near ; his friend Mole
+is dead. Fox said : “ This fellow, why, he was always eating my
+fowls ! ” He scraped him ; he ate him. The Fox lived on.
+
+I have told the little tale. Fox and Mole : Mole, his thievery of
+walking underneath the ground to eat the food, that they left (he)
+and his comrade, the same killed him. Finished.
+
+
+XXX.
+
+COCK AND FOX.
+
+I often tell of Cock, who played friendship with Fox. Cock used
+to go out from home ; he went to pass the time (at the house) of his
+friend, Fox, every day.
+
+One day, that he went to pass time with him, Fox said : “ Thou, my
+friend Cock, the thing that is in the middle of thy head, if thou strugglest with another, and thou liittest him (with) it, is he wounded ? ”
+Cock said : “Thou, my friend Fox, art foolish. These (things) are
+flesh; they do not wound.” Fox said : “ I, whenever I saw it, fear
+used to grasp me; I said, ‘the thing, that my friend Cock has, if I
+am playing with him, and he hit me (with) it, I shall be wounded ; ’
+but no.” Cock laughed; they played. Cock went to his house.
+Fox went also into his ant-hill.654
+
+
+20 8 Folk -Tales of Angola,
+
+
+XXXI.
+
+MBULU NI KABULU.
+
+
+muka.
+
+kutala ? ”
+
+
+Jackal and Hare .
+
+Fox thought, saying : “ My friend, Cock, I used to flee him, saying,
+4 if I seize him, he will hit me with his thing ; ' but no ; it is flesh
+only.” He slept.
+
+There shone the morning ; Cock came ; they are playing. Fox
+passed behind Cock ; he seized him by the neck. They are struggling. Cock says : “ Shame ! how art thou handling me ? thou, my
+friend ! ” Fox bit him hard in the neck ; he killed him.
+
+Cock played friendship with Fox. Fox, when he was (of old), he
+caught a female fowl, he would not kill a cock, saying : “ He will hurt
+me.” What caused him to catch cocks, (is that) Cock himself caused
+himself to be fooled by Fox, (by) saying : “This kills not anything;
+it is flesh only.”
+
+I have told my little tale. Finished.
+
+
+XXXI.
+
+JACKAL AND HARE.
+
+I will tell of Jackal of Ngonga, who played friendship with Hare.
+
+One day Jackal said : “ Comrade Hare ! come let us go to play in
+the bush ! ” They start ; they arrive in the bush ; they are playing.
+
+Jackal says : “ I, let me hide ; thou, Hare, shalt bring me out.”
+Jackal went to hide. Hare, he comes with seeking. He finds him
+crouching. Hare says : “ Thou, Jackal, art crouching here.” Jackal
+stood up with laughing. Jackal said : “I shall hide again.” He
+hid. Hare he came seeking; he found him again. Jackal got up.
+
+Hare said : “ I also, let me hide. Thou, Jackal, canst not see
+me.” Jackal said: “I shall see thee.” Hare went, hid in a hole;
+opened big eyes. Jackal, he comes seeking. He passes by the
+hole ; he looks into the hole. Hare opens big eyes in the hole.
+Jackal, fear took him ; he fled in haste with crying, saying : “ I,
+Jackal, oh ! I have met an omen ! What omen has eyes to look ? I,
+Jackal, oh ! I have met an omen! What omen has eyes to look ?”
+
+Hare got up with laughing, saying : “Why, Jackal, art thou silly ?
+Thou art going away crying ? I was hiding from thee. Thou spakest, saying ‘ I can see thee ; ’ when thou didst find me, thou art running away crying ! ”
+
+Thus far it reached. The end.
+
+
+XXXII.
+
+KAXINJENGELE N’ UNGANA.
+
+
+ungana.” 657
+
+
+XXXIII.
+
+IMBUA N’ UNGANA.
+
+
+Dog and the Kingship .
+
+
+XXXII.
+
+SQUIRREL AND THE KINGSHIP.
+
+“ Squirrel,” the people said, “ directly, we (will) give him the kingship.” He said : “ It shall be to-day.” The people said : “ We
+are looking for the insignia of the kingship.” Squirrel said: “I, it
+shall be to-day, at once.” The people said : “ He, we only told him,
+saying * we are going to get the insignia,’ he says * it shall be today ’ ; why, we will give it to him no more. If we gave him it, he
+could not govern the people.”
+
+Squirrel, they talked of giving him the kingship. He said : “ It
+must be to-day.” It remained among the people : “ To-day at once
+deprived Squirrel of the kingship.” 557
+
+I have told the little story. Finished.
+
+
+XXXIII.
+
+DOG AND THE KINGSHIP,
+
+Mr. Dog, they wanted to invest him with the kingship. They
+sought all the things of royalty : the cap,658 the sceptre,659 the rings,
+the skin of mukaka.560 The things are complete ; they say : “ The
+day has come to install.”
+
+The headmen all came in full ; they sent for the players of drum
+and marimba ; they have come. They spread coarse mats and fine
+mats. Where the lord is going to sit, they laid a coarse mat ; they
+spread on (it) a fine mat ; they set a chair 661 on. They say : “ Let
+the lord sit down.” He sat down. The people begin to divide the
+victuals.
+
+He, Mr. Dog, on seeing the breast of a fowl, greed grasped him.
+He stood up in haste ; took the breast of the fowl ; ran into the
+bush. The people said : “ The lord, whom we are installing, has
+run away with the breast of the fowl into the bush ! ” The people
+separated.
+
+Mr. Dog, who was going to be invested with the kingship, because
+of his thieveiy, the kingship he lost it.
+
+I have told my little tale. Finished.
+
+
+XXXIV.
+
+NA MBUA NI KULUKUBUA.
+
+
+XXXV.
+
+IMBUA NI MBULU.
+
+kina,
+k’amoneka.
+
+uakal’e kid.”
+
+
+Dog and Jackal.
+
+
+XXXIV.
+
+DOG AND LIZARD.
+
+Mr. Dog played friendship with Lizard. Dog goes to entertain
+Lizard all days.
+
+This day, Mr. Dog went to entertain his friend Lizard. Lizard
+says : “ You, dogs, who are always with men, you go to catch the
+game in the bush ; you always eat much meat.” Mr. Dog says : “We
+do not often eat meat.” Lizard says: “ You always go to hunt game,
+you dogs ; you catch the game.” Dog says : “ The day after tomorrow we are to go a-hunting. Thou, Lizard, when we come from
+hunting, shalt climb on thy tree, where we usually divide the game.
+I, when I shall take a bit of meat, thou shalt see that they give me
+the staff on (my) head.” They slept twice.
+
+Day breaks in morning ; the men call the dogs : “ Let us go a-hunting ! ” They arrive on game-ground ; they kill game ; they come
+where they are used to divide. They are dividing. Dog lifts a
+small bit of meat. They give him a heavy clubbing. Mr. Dog he
+yelled: “U£! u(H”
+
+He looked with (his) neck up to the tree ; his friend nods with
+(his) head : “Why, truth, what thou didst say.”
+
+
+XXXV.
+
+DOG AND JACKAL.
+
+Jackal used to be in the bush with his kinsman, Dog. Jackal
+then sends Dog, saying : “ Go to the houses, to fetch some fire.
+When thou comest with it, we will burn the prairie of grass ; so as
+to catch locusts and eat.” Dog agreed.
+
+He started; arrived in the village. He enters a house; finds a
+woman, who is feeding her child (with) mush. Dog sat down ; fire,
+he will not take it. The woman has fed her child ; she scrapes the
+pot. She takes mush ; she gives it to Dog. Dog eats ; thinks, saying : “ Why, I am all the time just dying with hunger in the bush ;
+in the village there is good eating.” The Dog settled (there).
+
+Jackal, behind where he stayed, looked for the other, who was
+sent for fire ; he does not appear.
+
+The Jackal, whenever he is howling, people say, “ The Jackal is
+howling, tway ! ” But no ; he is speaking, saying : “lam surprised,
+I, Jackal of Ngonga ; Dog, whom I sent for fire, when he found mush,
+he was seduced ; he stayed for good.”
+
+
+n’atu. Mahezu.
+
+
+XXXVI.
+
+NGULU NI KIOMBO.
+
+
+mu ngiia/ ”
+
+
+Mahezu.
+
+
+XXXVII.
+
+NGUADI NI MBAXI.
+
+
+Partridge and Turtle . 215
+
+The people, when they were in villages, had not any dogs. What
+brought the dogs, Jackal sent Dog to fetch fire in the village. Dog,
+when he came to the village, found food there ; it pleased him.
+Now he lives with the people. Finished.
+
+
+XXXVI.
+
+THE HOUSE-HOG AND THE WILD BOAR.
+
+Boar 663 used to be with his kinsman, Hog, in the forest. As they
+were, Hog said : “I am going to the village, to live with the men."
+Boar said : “ To the village, do not go there ; there they hate the
+animals.” Hog said : “ I will go to the village ; I shall always eat
+the food, that men eat ; in the bush there are bitter plants.”
+
+Hog started ; he arrives in the village. They built him a sty ; he
+entered ; stayed. He bred in the village ; they seized him. Now
+they kill him ; because he has already left seed.
+
+Whenever the hog squeaks, when they kill it, it is speaking, saying : “ Boar, he told me, saying i in the village, do not go there ; *
+I said, * to the same I will go.’ ”
+
+When it is left alreadv with little life, it says : “ I die, I die, I,
+Hog.”
+
+People, when they were, they had no hogs ; what brought the hogs
+to the habitations, (is) that the food, which the people are wont to eat,
+is good.
+
+Finished.
+
+
+XXXVII.
+
+PARTRIDGE AND TURTLE.
+
+I will tell of Partridge who had a discussion with Turtle.
+
+Partridge said: “Thou, friend Turtle, never canst run away.
+When the fire is coming into the land, thou art always burnt.”
+Turtle said : “ I cannot be burnt. Thou art burnt, thou, Partridge.”
+Partridge said : “ I have my wings ; I fly. Thou canst not fly, canst
+not run ; thou shalt burn just here, (in this) very same place.” They
+were silent.
+
+They spent days ; the dry season came. The fires begin over the
+country. The bush, where are Turtle and Partridge, it is set on
+fire. The fire approaches where Turtle is ; Turtle gets into an ant-
+
+
+Nguadi uafu,
+uabuluka.
+
+Mahezu.
+
+XXXVIII.
+
+KAZUNDU N’ AKAJI E AIADI.
+
+
+41 Ngatangalal’d ! 671 Ngatangalal’^ !
+
+Ngatangalal’d ! Ngatangalal’d ! ”
+
+
+44 Ngatangalal’d ! ”
+
+
+Frog and his Two Wives . 217
+
+hill. It comes where Partridge is ; Partridge runs ; it will not (do).
+The fire comes nearer him ; he begins to fly from the fire. The fire
+catches him ; he is burnt.
+
+The fire came to end in country. The hunters, who had come to
+the fire-hunt, have scattered. Turtle comes out of the ant-hill ; he
+looks on ground ; Partridge is burnt i He says : “ What ! comrade
+Partridge, I had with him that discussion, he saying * thou shalt be
+burnt; but he himself was burnt.”
+
+Turtle took him by the leg; he took off from him a spur. He
+begins to play with the spur of Partridge, saying :
+
+“ Little horn of Partridge,
+
+Partridge is dead,
+
+The little horn is left.’*
+
+Partridge had a discussion with Turtle; Partridge was burnt;
+Turtle escaped.
+
+End.
+
+XXXVIII.
+
+FROG AND HIS TWO WIVES.
+
+I will tell of Frog Kumboto, who married two wives. This wife,
+he built for her on the East ; the other, he built for her on the West.
+He, his favorite place662 (was) in the middle.
+
+The wives cooked mush, both of them ; it was done at the same
+time. The head-wife took a messenger, saying : “ Go and fetch your
+father ! ” The inferior wife also took up a messenger, saying : “ Go
+and fetch your father ! ”
+
+The messengers started ; they arrived at the same (time). One
+said : “They sent for thee.” The other said : “ They sent for thee.”
+Frog said : “ How shall I do ? Both wives sent for me. If I begin
+by going to the superior, the inferior will say * thou wentest first to
+the head-wife ; * but if I begin by going to the inferior, the superior
+will say 1 thou wentest first to thy sweetheart.’ ” Frog began to sing,
+saying :
+
+“ I am in trouble ! I am in trouble !
+
+I am in trouble ! I am in trouble ! ”
+
+Frog had married two wives ; they cooked mush at the same time.
+They sent for him at the same time. Frog said : “ How shall I do ? ”
+He whenever he is croaking : Kuo-kuo ! ku6-ku6 ! people say : “ The
+frog is croaking.” But no ; he is speaking, saying :
+
+“ I am in trouble ! ”
+
+
+XXXIX.
+
+NIANGA DIA NGENGA NI JIMBUA JE.
+
+
+jixitu.
+
+
+m’o’nzo ; uazekele.
+
+
+Nianga dia Ngenga and his Dogs .
+
+
+XXXIX.
+
+NIANGA DIA NGENGA AND HIS DOGS.
+
+I will tell of Nianga dia Ngenga, a man who was a hunter ; who
+married two wives. He had his two dogs ; a female and a male.
+He shot game ; he sees he is not shooting any more, says : “ I will
+call a medicine-man to prepare me a medicine for shooting.”
+
+He called the medicine-man. The medicine-man prepared a medicine ; it is ready. Then he tells him precepts, saying : “ If thou
+sleptest in the house of the elder, thou shalt climb into the tree-seat.
+If thou sleptest in the house of the younger, thou shalt not climb
+into the tree -seat; thou shalt sit on a termite- hill.” Dinianga
+assented. He keeps on shooting game.
+
+One day, he started with both his dogs. He arrived in bush ; he
+arranged the tree-seat ; climbed. The dogs sat under the tree-seat.
+A while, the deer comes. He shoulders the gun ; he shoots the
+deer. The deer fell ; the dogs finished it. He begins to get down ;
+he cannot. He is struggling on the tree, to get down ; he gives in.
+The sun is dead already.
+
+His dog, the male, says in his heart : “ If I keep silent, my master
+cannot come down.” He tells his master, saying : “ Throw the
+hatchet down, that we save thy life ; do not think, saying * I met a
+bad sign/ ” Dinianga let the hatchet drop on the ground. The dog
+took it up ; he felled a tree. The female dog carried the tree ; they
+come with it. They set it up to the tree-seat. The male dog tells
+his master, saying : “ Step (with thy) foot on (this) pole.” Dinianga
+set (his) foot on the pole ; he came down.
+
+He flayed his deer ; it is finished. He cut it open ; he bound
+it into the skin. His dogs say: “ Thou, our master, what we are
+going to tell thee, do not think, saying : * I have seen a bad omen/
+Thou didst call a medicine-man. Now, when he made (medicine)
+for thee, the medicine-man, he gave thee injunctions. To-day thou
+didst forget the injunction; thou didst stick up in the tree. We
+have taken thee down. What we have spoken now, thou hast heard.
+All things, thou shalt ever hear them when they speak. What the
+fowl speaks, thou shalt hear it ; what the goat speaks, thou shalt
+hear it ; (what) the dog says, thou shalt hear it ; what the little bird
+speaks in the bush, thou shalt hear it. Thou shalt only hear ; thou
+shalt hold thy peace. If thou tell it to any one else, thou shalt die.”
+Nianga dia Ngenga said: “ Very well.” He took up his deer; he
+arrived at home. He entered the house ; slept.
+
+Morning, they cook the mush. He took meat; he put it in a
+plate with gravy and mush. He gave to his dogs. The wives said :
+
+
+xib’d.
+
+km’ eme.”
+
+makoza.
+
+
+Nianga dia Ngenga and his Dogs .
+
+“Why givest thou the dogs all that meat?” He said: “Because
+they are (those) with whom I always go out.” The women are silent.
+The other meat, Dinianga he divided it to the others in the village.
+They lived on some days.
+
+Dinianga, whenever animals were speaking, he always heard. He
+held his peace.
+
+One day, he is seated outside with his two dogs who are around
+him. His wife, the principal, is at the mortar ; she is pounding.
+The fowls begin to whisper with the goat, who says : “ A visitor is
+coming. To-day, fowl, they will kill thee.” The fowls said : “They
+will kill thee, thou goat, so fat.” The goat said: “They will first
+kill thee, thou chicken ; to-morrow then they will kill me, me too.”
+
+Dinianga, who was hearing, begins to laugh ; however, his mother
+in-law is coming. His wife, when she hears her master, who is
+laughing, she turns round to look at him. When she looks in the
+distance, her mother is coming wearing rags.
+
+The woman says : “ Thou, my master, art laughing at my mother,
+who is coming, wearing rags.” The man said : “ She, thy mother,
+I saw her not, where she was coming. I laughed about my own
+affairs, different, that I was thinking.” The wife says : “ Thy lies !
+my mother thou didst laugh at her.” The woman tells her mother,
+saying : “ Thou, my mother, who comest to visit, thy son-in-law has
+laughed at thee.” Her mother, when she heard this, it displeased
+her, she said : “ My son-in-law, thou hast insulted me.” The motherin-law, in the house of her daughter, she refuses to enter there
+any more. She puts up at another house in the village. Her
+daughter cooks the food ; she gives (it) to her mother. Her mother
+refuses.
+
+The woman grapples with her master, saying : “Thou hast insulted
+my mother.” Her master says : “ But now, I began to tell thee,
+saying, ‘matters of mine, others, I was thinking.’” The woman
+said : “ I, it shall be thou tellest me the matters, that thou wast
+thinking. If thou tellest me not them, my mother, thou didst laugh
+^at her.” The man said : “ Let us sleep ; to-morrow I shall speak.”
+They slept.
+
+Morning, the man sent to call the other people in the village ;
+they come in full. The man said: “You, our folks, listen to what
+I speak ; for I am going to die. My death, do not remember it.”
+He says: “You, our people, I learnt my craft of hunting. I called
+a medicine-man ; he made for me a medicine ; he gave me rules,
+saying, ‘ If thou didst sleep in house of younger, do not climb into
+tree-seat.’ I went a-hunting with both my dogs. I forgot the rule,
+that the medicine-man had given me. I shot a deer ; the deer fell
+on ground. I cannot get down. My dogs, they cut a tree ; I got
+
+
+Mahezu enu !
+
+
+XL.
+
+MBANZA KTTAMBA KIA XIBA.
+
+
+sanzala iami ue, kana mutu ubanga-bu kima. An* a ndenge k’akola ;
+down. Then they tell me, saying, ‘ We have got thee down from
+the tree-seat. Whatever animals speak, thou shalt hear it. Do not
+tell it to anybody; if thou tellest it to any one, thou shalt die/ I,
+the same, I agreed to it. I lived on. Yesterday, the fowls, they are
+whispering with the goat. I heard them ; and I laughed. I knew
+not to think * my mother-in-law is coming ; ’ I laughed (about) the
+fowls. My wife turns round ; she sees her mother, who is coming.
+She says: ‘My mother, thou didst laugh at her/ I said : ‘No/
+She said : ‘It shall be, thou tellest whatever thou didst laugh about/
+You, our people, the rule, which my dogs gave me, saying, ‘what
+we speak, thou shalt not tell it to any one/ to-day, my wife, she has
+forced me (to break), saying, ‘tell me what thou didst laugh at/
+Therefore I called you, you, our people. I am going to die. I have
+finished.” The people said: “With God.”
+
+Dinianga stands up ; he enters his house ; he stays a long time.
+His wife enters the house ; she finds him dead already.
+
+The kinsmen of Dinianga say : “ Thou, woman, thou hast killed
+our kinsman ; for thou, if thou hadst not forced him, now he would
+not be dead; pay (for) him.” 574 The uncles of the woman said:
+“We shall pay how much?” They said: “You shall pay us cattle
+six (heads).” The uncles of the woman took the six cattle ; they
+have paid.
+
+Nianga dia Ngenga had married his wife. When he went a-hunting, he forgot the injunction ; his dogs, these saved his life. They
+said : “ Thou shalt not tell it to any one.” The day, when the
+woman forced him, that same (day) that he told it, that same (was)
+his day of dying. His dogs too, they died with their master,
+together.
+
+If we want to tell, let us tell more ; if we want to sleep, let us
+sleep. Finished.
+
+
+XL.
+
+KING KITAMBA KIA XIBA.
+
+Mbanza (King) Kitamba kia Xiba, a chief who was at Kasanji,
+had built his village ; he lived on. When he was thus, his head-wife,
+Queen Muhongo, died. They buried her ; they wailed the mourning ; it ended.
+
+Mbanza Kitamba said : “ Since my head-wife died, I shall mourn ;
+my village too, no man shall do anything therein. The young people shall not shout ; the women shall not pound ; no one shall speak
+in the village.” The head-men said : “ Master, the woman is dead ;
+
+
+224 Folk -Tales of Angola .
+
+
+Makota a di zuelesa mu did, exi : “ Tukengienu kimbanda.”
+
+kina ; kiabu.
+
+
+thou sayest, * In village they shall not speak ; I will not eat, not
+drink ; not speak ; * we never yet saw this.” He, the king, said :
+“ If you desire, that I laugh, (that) I talk, (that) in the village they
+talk, it shall be (that) you bring me my head-wife, Queen Muhongo.”
+The head-men say : “ King, the person is now dead ; how can we
+fetch her ? ” He said : “ If ye cannot fetch her, I am in mourning ;
+in my village, no person shall talk.”
+
+The head-men consult among themselves, saying : “ Let us seek
+a medicine-man.” They send for the medicine-man ; the callingpresent to the doctor (is) a gun. The doctor has come ; his cooking
+(is) a cow. The doctor said : “ Tell, what you sent me for.” They
+said : “ The head-queen Muhongo is dead ; King Kitamba says, 4 1
+will mourn ; in the village no one shall talk ; if you want to talk,
+you must fetch me my head-wife, Queen Muhongo.’ Therefore it is
+we sent for thee, thee, the doctor, that thou fetchest her, the headqueen, from Kalunga; that the people may rejoice.”
+
+The doctor said : “All right.” He went through the country
+gathering herbs ; he set a medicine-mortar outside, saying : “ The
+king, he shall come (and) wash ; all the people shall wash.” The
+chief washed ; all the people washed. The doctor said : “ Dig ye a
+grave in my guest-hut, at the fire-place.” They dug the grave ; it is
+done
+
+He entered the grave with his little child, which had come with
+him. He told his wife, saying : “ All days, do not wear a girdle ;
+thou shalt tuck in only.676 All days thou shalt constantly put water
+on the fire-place here.” The woman assented. The doctor said :
+“ Cover ye it up.” They filled it up, with the doctor and his child ;
+they rammed it down as when there was the fire-place itself. They
+lived on. The wife always puts the water on the fire-place, all days.
+
+The doctor, when he got into the grave, there opened a large
+road. He starts on the road ; he goes ahead ; his child walks behind. They walk a while ; they arrive beside a village ; that is at
+Kalunga-ngombe’s. The doctor looks into the middle of the village ;
+Queen Muhongo is yonder; she is sewing a basket. He arrives
+where Queen Muhongo is ; Queen Muhongo turns (her) eyes. She
+sees a man who is coming, she says : “ Thou, who art coming,
+whence comest thou?” The doctor said: “Thou, thyself, I have
+sought thee. Since thou art dead, King Kitamba will not eat, will
+not drink, will not speak. In the village they pound not; they
+speak not ; he says, ‘ If I shall talk, if I eat, go ye and fetch my
+head -wife.’ That is what brought me here. I have spoken.”
+
+The head-queen said: “Very well. Come look at that one; who is
+it sitting ? ” The doctor said : “ I know him not.” The head-queen
+said : “ He is Lord Kalunga-ngombe ; he is always consuming us,
+
+
+Folk - Tales of A ngola .
+
+
+“ Kidi ; luene.”
+
+
+us all.” She said again: “He yonder, who (is he)? who is in the
+chain.” The doctor said : “ He looks like King Kitamba, whom I
+left where I came from.” The queen said : “ He is King Kitamba.
+He is in the world not any longer ; there lacks how many years,678
+the chief will die. Thou, doctor, who earnest to fetch me, we, here
+in Kalunga, never comes one here to return again. Take my armring, that they buried me with ; that when thou goest there, they
+accuse thee not of lying, saying, ‘thou wentest not there.’ The
+chief himself, do not tell it him, saying, 4 1 found thee already in
+Kalunga/” She paused. She said again: 44 Thou thyself, doctor,
+I cannot give thee to eat here. If thou eatest here, thou canst
+return no more.” The doctor said : 44 Well.” He departed.
+
+He arrives (at the place) where he got into the grave with his
+child, that he went with. The woman, who stayed on earth, kept
+putting water on the fire-place. One day, she looks at the fire-place :
+there are cracks breaking. A while, she looks : the head of the
+doctor has come out. The doctor throws (his) arms outside; he
+gets out ; he is on ground. He takes the child by the arm ; he sets
+him on ground. The child looks at the sun ; he faints. The doctor
+goes to the bush ; he gathers herbs. He comes ; he washes him.
+The son comes to. They slept.
+
+In morning, the doctor says : 44 You, head-men of the town, who
+fetched me, come here that I report where I went.” The head-men
+all come ; he reports everything that the head-queen had told him.
+The doctor said: “Finished. Pay me now.” The head-men said:
+44 Well.” They took two slaves ; they paid him. The doctor went
+to his home.
+
+The head-men reported to the chief, saying: “The doctor reported, saying, 4 1 went to Kalunga-ngombe’s. The chiefs wife,
+I found her, said, “ Since thou didst die, the chief does not eat,
+does not drink ; come, let us go.” The queen returned to me, saying, “We, here, there comes not a person, to return any more.
+This my arm-ring, take it (along), that they see thee not (with)
+lies.” * That is what the doctor reported to us. Thou, king, we have
+spoken. The ring is here, which they buried the queen with.” The
+chief said: “Truth; (it is) the same.”
+
+When they spent a few days, the chief, he eats ; the chief, he
+drinks. They spent a few years, the chief died. They wailed the
+funeral ; they scattered.
+
+King Kitamba kia Xiba in Kasanji left this story.
+
+
+Folk - Tales of Angola,
+
+
+XLI.
+
+MON’ A DIIALA NI NGIJI.
+
+ngombe.680 Akal’a.
+
+
+The Young Man and the River .
+
+
+XLI.
+
+THE YOUNG MAN AND THE RIVER.
+
+A young man was given as a pledge by his uncle, the pledge of
+an ox.680 They lived on.
+
+His uncle died ; there is none to redeem him.681 His father died ;
+there is none to redeem him. His relatives all died ; no person was
+able to redeem him. In bondship, there he hoes ; he cuts wood ;
+he gets water. Now they beat him. His masters of bondship, they
+do not dress him at all. He goes about in rags, to walk and cry to
+himself in the bush. He says : “I am seeing great misery, because
+of lacking a relative of mine, who (can) redeem me.” He lived on.
+When his uncle gave him as a pledge, (he was) a child ; but now
+he has become a young man.683 He keeps on doing (his) slavery
+work.
+
+One day, he goes to sleep ; he dreams a dream, that the River is
+speaking to him, saying: “ To-morrow in morning, (when) the people have not opened yet,584 be early at the landing. Three things,
+that thou shalt find there, whichever pleases thee, take. The best
+(is) the ngonga-basket ; 586 as to the other two things, (they are) inferior.” The young man awakes from sleep : (it is) a dream. He
+thinks, says : “ The dream, that I dreamt, it meant what ? ” 585 He
+kept quiet.
+
+He spent three days ; on the fourth, he dreamt again, the River
+saying : “ Thou, I have told thee, saying, ‘ to-morrow in the morning, be early at the landing. The thing that pleases thee, take/
+Now, because of what didst thou not go there ? ” The River
+paused.
+
+The young man awakes : a dream. Outside it was just beginning
+to dawn. He gets up ; they all have not yet opened. He enters the
+road ; arrives at the landing. He stands at the side of the water.
+A moment, he sees a bundle of guns that is coming on top of the
+water. The muzzles 588 are downward under the water, the buttends are looking upwards ; he keeps quiet. He looks again ; two
+bales of cotton cloth are coming on top of the water ; they pass by.
+A moment again, he looks : a small basket is coming ; 689 it arrives
+where he stands. It also stands (still). He takes it ; returns home.
+He arrived at the side of the house ; he cut a small twig. He struck
+the basket ; he hid it in the grass-wall of the house. He went into
+the house ; kept quiet.
+
+His masters said : “ Devil,590 take up the hoe ; go to till. When
+thou lea vest the tilling, thou shalt come with a bundle of fire-sticks.”
+
+
+lembuele, muene ua mu tena. A mu ku ; uvutuka ku bata did.
+
+
+The Young Man and the River.
+
+He took up the hoe ; he went to the fields. He hoed ; he left
+.(hoeing). He cut wood ; he bound (it). He took (it) up; he arrived
+at home. He laid down the fire-sticks ; kept quiet ; slept.
+
+Morning, he says : “ I will look first inside of the basket.” He
+opens it : medicine-things all complete are in it. -He closed it
+again; laid it aside. He went to cut wood; came, laid (it) down.
+They say : “ Go to the landing.” He went, bailed ; came, set down.
+The sun died ; he goes to sleep. He dreams (that) they are showing him the plants of medicine, saying, “ When thou goest to cure
+such diseases, the plants are such. Whoever has sores, his plant is
+such a one. The medicine of chiefs, thou shalt make it this way
+and this way.” They are silent ; he wakes up : a dream.
+
+He gets up ; goes to the fields. He has worked ; has come home.
+He slept two days. In yillage, there have come two persons who
+are seeking a doctor. He is in the house^ the two persons are
+speaking with his master of bondship.
+
+His master says : “We, here, there is not a doctor. Go ye, and
+seek elsewhere.” He, the young man, goes out of the house; asks
+the two men, saying : “ Gentlemen, which sickness is ailing (him)
+for whom you come to seek a doctor ? ” The two men said : “ The
+sickness, thou shalt find it thyself.” He says : “ Ye give me the
+calling -fee.” They say: “The fee is how much?” He said:
+“A piece.” 692 They said: “We agree.” They give him the piece.
+His master of bondship said: “This (one) is presumptuous. Thou
+indeed, ever since we are two,693 the plant of the thread-worm thou
+knowest it not ; 594 the medicine to cure the sick man, where wilt
+thou find it?” He said : “ Master, I am learning only.” His master of bondship told the two men, saying : “ If he does not master
+it,696 beat him ; because he was presumptuous.” They started with
+him ; they arrived at house where was the patient.
+
+They tell the patient, saying : “ The doctor, we have come with
+him.” He, the doctor, looked at the patient, said: “I can cure
+him.” He begins to doctor every day. Where it fails him, he is
+shown in sleep. In twenty days, the patient is safe. The doctor
+says : “The patient is already well ; pay me, that I may go.” They
+say: “Thy pay, how much?” Says he: “A heifer.” They agree,
+because all the doctors had given him up, (but) he mastered him.
+They paid him ; he returned to his home.
+
+He finds his master of bondship. His master asks him, saying:
+“ The medicine, couldst thou (do) it ? ” Says he : “I could ; the
+patient is cured; they paid me a heifer.” His master says: “All
+right.” He took his heifer. They lived on some days.
+
+There came again people to seek a doctor. He went with them ;
+he cured ; they paid him again a heifer. He came home ; now he
+is famous (in) all the land. They say : “ He is a doctor of truth.”
+
+
+232 Folk - Tales of A ngola .
+
+
+i
+
+
+XLII.
+
+KINGUNGU A NJILA NI NGUNDU A NDALA.
+
+
+Kingungu a Njila and Ngundu a Ndala .
+
+He spent three years ; he is already at six cattle. He considers,
+says : “ I will redeem myself now.” He asks his master of bondship, saying : “ I want to go wherever I choose ; I shall redeem myself
+for how much ?” His master said : “ Bring three another cows.” 696
+He gave him them ; he left there. He went to another country
+that pleased him. He built ; married ; lived on, practising medicine.
+In six years he has a herd of many cattle ; he has come to be a rich
+man.
+
+Our friend, who had been put in bondship, and had to see much
+misery, River gave to him medicine. He earned the cattle ; he
+redeemed himself ; he soon became a great man, celebrated. “Wealth
+came from medicine.” In the day of to-day, it has become already a
+proverb :
+
+“ Hoe on ! even to the tree ;
+
+Speak on ! even to the end ;
+
+A youth must stretch as high as he can reach.” 597
+
+I have told stories and stories ; if you have heard, hush ! In
+mouth there remain tongue and teeth.598 He who has cut wood,
+binds ; he who has done hoeing, leaves work. He who came to go,
+says, “I am going.” 699 Finished.
+
+
+XLII.
+
+KINGUNGU A NJILA AND NGUNDU A NDALA.
+
+“ They quarrelled in the bush ; witnesses;
+
+We get them from (their) tongues.” 600
+
+Kingungu a Njila took up (his) gun, saying: “I will go a-shootmg.” He arrived in forest ; he is stalking the elephants. He approached them ; he shot one elephant ; it fell on ground.
+
+Ngundu a Ndala heard the gun of Kingungu a Njila. He is looking, “Who has shot here?” He arrives where is the elephant of
+Kingungu a Njila. He too shot (it) again, saying: “The elephant
+(is) mine.”
+
+Kingungu a Njila came; said: “This (is) my elephant; thou
+foundest me with it. Thou, why speakest thou, saying ‘ the elephant
+is mine ’ ? ” Then they begin a quarrel about the elephant. They
+say : “ Let us go home ; there let us plead ! ”
+
+Kingungu a Njila went to So and So ; he accused. They call
+Ngundu a Ndala; they say: “Plead ye.” Kingungu a Njila explained how he killed the elephant. Ngundu a Ndala pleaded too.
+So and So said : “The case, how shall I judge it? There is no wit-
+
+
+XLIII.
+
+MALA KIIADI, MUHETU UMOXI.
+
+
+valu kami.”
+
+
+Two Men , One Woman.
+
+ness who saw which one spoke the truth and which one spoke untruth.” Says : “ Go ye home. The case, to-morrow I shall decide
+it ; because my wife is not here.” They separate ; the sun goes
+down.
+
+Kingungu a Njila went to his elephant ; Ngundu a Ndala came
+too. Kingungu a Njila begins to cry, saying : “ This, this elephant
+(is) my elephant ! ” Ngungu a Ndala too begins to cry, saying :
+“ This elephant (is) my elephant ! This elephant (is) my elephant ! ” 802 He cried one hour. He went away.
+
+Kingungu a Njila still kept on crying: “This elephant (is) my
+elephant ! This elephant (is) my elephant ! ” He laid (all night)
+there crying.
+
+The morning shone. They call them : “ Come now to plead.”
+Kingungu a Njila pleaded the same as he pleaded yesterday.
+Ngundu a Ndala pleaded falsely. So and So asks the messengers,
+saying: “You, who stayed over night with Kingungu a Njila and
+Ngundu a Ndala, now who laid all night crying until dawn ?” The
+messengers said : “ Kingungu a Njila, he laid all . night crying.
+Ngundu a Ndala yesterday cried one hour.”
+
+So and So says : “ Kingungu a Njila is going to win.” They have
+come to decide the case. So and So says : “ Thou, Kingungu a
+Njila art right ; thou, Ngundu a Ndala art wrong. The other wanted
+to take wrongly his elephant.”
+
+Thus far, that we have heard it. The end.
+
+
+XLIII,
+
+TWO MEN, ONE WOMAN.
+
+An elderly man had one daughter ; her name (was) nga Samba.
+This daughter, a number of men wanted her. Her father would not
+give her. When there comes a man, her father demands of him a
+living deer. The men, each and all, who wanted his daughter, then
+they refuse, saying : “ The living deer, we cannot get it.”
+
+One day, there appear two men, saying : “ We have come to the
+old man who owns a daughter, nga Samba.” The man then comes
+out, and they greet each other. He asks them, saying : “ What is
+it you wish ? ” One of them says to him : “I have cbme to ask for
+thy daughter, whom I want.” He turns to the other ; he asks him
+also what brought him. The other tells him, saying : “ I have come
+to ask for thy daughter ; I want her, (that) she be my consort.”
+
+Then her father says : “ The girl is one. You have come to ask
+
+
+236 Folk -Tales of Angola.
+
+
+Two Men , One Woman . 237
+
+her, two of you. I now am possessor of one daughter (only) ; I have
+not two children. He, who brings me the living deer ; the same, I
+will give him my daughter.” And they go away.
+
+On the road, on which they were walking, one speaks, saying : “ Tomorrow, I will seek the living deer in the forest.” Then the other :
+“ I too, to-morrow I will go to seek the deer. Where shall we meet
+to-morrow, to go and seek the deer ?” The other then says to him :
+" To-morrow we will meet at the muxixi-tree,604 outside (the forest).”
+And they go, each one to his home. And they sleep.
+
+In early morning, they rise, dress, with their machetes ; and they
+go to meet for seeking the living deer. When they found each
+other, then they go until (they are) in the forest.
+
+They come across a deer ; they begin to pursue it. One pursued,
+got tired ; he cannot run any more. Says : “ That woman will destroy my life. Shall I suffer distress because of a woman ? If I
+bring her home, if she dies, would I seek another ? I will not run
+again to catch a living deer. I never saw it, (that) a girl was wooed
+(with) a living deer. I will await my comrade, whether he gives up,
+that we may go.”
+
+When he had spent a while, he sees the other, who comes with
+a deer bound. When he had completed approaching, he says :
+“Friend, the deer, didst thou catch it indeed?” Then the other:
+“I caught it. That girl delights me much. Rather I would sleep
+in forest, than to fail to catch it.”
+
+And they go to the man, who begat the young woman. They
+bring him the deer. Then the old man : “ The deer, keep ye it ;
+eat, please. Directly we will talk the matter over.” And he orders
+to cook the food for them.
+
+When they had done eating, this old man, who begat his daughter, then calls four old men, and says to them, saying : “ I have one
+daughter ; I did not beget a son. I need a good son-in-law, gentle
+of heart. Therefore I always demand a living deer. These gentlemen came yesterday, two of them, to ask for my daughter, and I
+told them saying ‘ I am possessor of one daughter ; he who wants
+her let him bring me a living deer.’ To-day these have come with
+it. They two came to ask for the girl ; one only brought the deer.
+The other, what has moved him, that he did not come with a deer ?
+You, aged men and neighbors, to you indeed I have given my daughter. Choose ye our son-in-law among these two.”
+
+The aged men, they ask these two gentlemen, saying: “Yesterday you came to ask for the girl, two of you ; to-day, one came with
+the deer ; the other, what has caused him not to come with it ? ”
+Then these two gentlemen said : " We went into the forest to
+seek deers, both of us, and we saw them. My comrade pursued and
+
+
+238 Folk -Tales of Angola .
+
+
+XLIV.
+
+UKOUAKIMI NI HOLOME E.
+
+
+A Father-in-Law and his Son-in?Law. 239
+
+gave up ; I, your daughter charmed me much, even to the heart, and
+I pursued the deer till it gave in. And I caught it ; I bound it ; and
+joined my comrade where he got tired. My comrade, he came only
+to accompany me.’*
+
+Then the aged men say : “ Thou, sir, who gavest up the deer,
+what crime caused thee to get tired of catching the deer, if thou
+didst want our daughter ? ” “ I never saw, that they wooed a girl
+
+(with) a deer, I went with my comrade to seek a deer, perhaps I
+might catch it. When I saw the great running, I said ‘ No, that
+woman will cost my life. Women are plentiful.* And I sat down
+to await my comrade, (to see) whether he would give up chasing the
+deer, and come, so that we might go. I saw my companion coming
+with the deer bound. I have only come to accompany him. I have
+not come again to your daughter.”
+
+Then the aged men : “ Thou, who gavest up catching the deer,
+thou art our son-in-law. This gentleman, who caught the deer, he
+may go with it ; he may eat it or may sell it ; for he is a man of
+great heart. If he wants to kill, he kills at once ; he does not listen
+to one who scolds him, or gives him advice. Our daughter, if we
+gave her to him, and she did wrong, when he would beat her, he
+would not hear (one) who entreats for her. We do not want him ;
+let him go. This gentleman, who gave up the deer, he (is) our sonin-law ; because, our daughter, when she does wrong, when we come
+to pacify him, he will listen to us. Although he were in great anger,
+when he sees us, his anger will cease. He is our good son-in-law,
+whom we have chosen.”
+
+
+XLIV.
+
+A FATHER-IN-LAW AND HIS SON-IN-LAW.
+
+One day at night, a father-in-law and his son-in-law were outside
+spending the evening. The darkness grew great and the father-inlaw stood up whence he sat, saying : “ My son-in-law, let us go to
+sleep! There is a darkness like the gloom of a blind eye.” 608 His
+son-in-law then remained with shame, for he was dead of one eye ;
+but he kept quiet.
+
+One day, when moonshine had come, they are again gossiping
+outside, both the father-in-law and the son-in-law. The son-in-law
+then tells his father-in-law : “ O sir, let us go to sleep ; for there is
+a moonlight of bald-head shine ! 609 that will do us harm outside,
+where we are.**
+
+
+A Father-in-Law and his Son-m-Law. 24 1
+
+The father-in-law then goes into his house. He will no more wish
+good-by nicely to his son-in-law. His son-in-law also then goes
+away into his house.
+
+In three days, the father-in-law calls six aged men, seven with
+himself. Says : “ I want to be heard about the insult, which my
+son-in-law gave me.” The aged men then send to call the son-inlaw. When he came, the father-in-law then spake: “You, gentlemen, they are wont to say this (proverb), 4 Where is a bought one, do
+not there refer to it.’ But, my son-in-law, one day, we were outside
+spending the night, he sees the moonlight set in, he will not speak
+to me, saying, ‘ let us go to sleep ; ' he speaks to me, with a heart to
+offend me, saying, 4 there is a moonlight of bald-head shine ! let us
+go to sleep, my father-in-law, for this moonlight, it will do us harm.’
+Therefore, until to-day let him be with my daughter ; but I am not
+his friend, because of insults which he gave me. I am bald-headed,
+he said ‘bald-head shine.’ Me, did he not insult me ? Therefore I
+reject the friendship with him.”
+
+Then the son-in-law : 44 I would not have said it, if my father-inlaw had not been first in insulting me. One day, after dark, we are
+outside gossiping, my father-in-law told me, saying : 4 Come let us
+go to sleep ; for there is a darkness as the gloom of a blind eye.’ I
+am dead of one eye ; did he not insult me thus, you gentlemen ? ”
+“Truth; he insulted thee. Why! thy son-in-law, who is dead of
+one eye, thou comest to say this saying about the darkness ! If he
+said the moonlight of bald-head shine ! he returned what thou begannest to tell him. Thus be not in enmity, both son-in-law and
+father-in-law. Thou, father-in-law, hast no son ; thy son, (it) is thy
+son-in-law. Thou thyself wast first in offending him ; he then retorted to thee also. Be ye friends. This affair, do not go away with
+it ; take it out of (your) heart. Because thou, the aged, wast the
+first, the younger he paid thee back. We will not hate each other
+because of these things. Bring rum ; let us drink. We will have
+no bad words like those. Thou thyself hast said it, 4 Where is a
+bought one, do not refer to it.’ Thou knewest that thy son-in-law is
+one-eyed ; thou didst refer to it ; now when he pays it back, shall it
+
+They then remained in friendship, both the son-in-law and the
+father-in-law.
+
+
+Folk - Tales of A ngola .
+
+
+XLV.
+
+MON’ A DUAL A NI KABOLON GONIO.
+
+
+Mahezu.
+
+
+XLVI.
+
+NJUNGU NI MUMBUNDU.
+
+
+The White Man and the Negro .
+
+
+XLV.
+
+THE YOUNG MAN AND THE SKULL.
+
+A young man started on a journey; he arrived in middle of the
+path. He finds a skull of the head of a person. They all used to
+pass it by there. But he, when he arrived there, he struck it (with)
+staff, saying: “Thou, foolishness has killed thee.” The skull said:
+“ I, foolishness has killed me ; thou, soon smartness shall kill thee.”
+The young man said : “ I have met an omen ; where I was to go, I
+will (not go, but) return hence at once. The head of a person has
+spoken to me ! ”
+
+And he returned ; arrived at home. He finds others, old men,
+says : “ You, gentlemen, I have met an ominous wonder.” The old
+men said : “ What omen ? ” He says : “ The head of a person has
+spoken to me.” The people say : “ O man, thou hast told a lie.
+We all of us, at same place we are wont to pass by the head. We
+never yet heard it speak; how has the head spoken to thee ?” He
+said : “ Let us go. When I beat it (with) staff, if it does not speak,
+I, cut off my head.” They say : “ All right.”
+
+The crowd starts with him ; they arrive at the place ; they found
+it The young man beat it (with) his staff : “ Foolishness has killed
+thee.” The head kept silent. He beat it again, the second time,
+saying : “Foolishness has killed thee.” The head kept silent. The
+crowd say: “ O man ! thou didst tell a lie.” They cut off his head.
+When they finished cutting it off, the skull said : “I, foolishness has
+killed me ; thou, smartness has killed thee.” The people said :
+“Why, we killed him unjustly ; the head of a person has spoken.”
+
+The young man found the head of a person, and he beat it, saying: “ Foolishness has killed thee.” The head of the person said :
+‘Thou, soon smartness shall kill thee.” Wits and foolishness, all
+are equal. The young man, his wits killed him.
+
+Finished.
+
+
+XLVI.
+
+THE WHITE MAN AND THE NEGRO.
+
+Two men, a white man and a negro, had a discussion.
+
+The white man said : “ I, in my house there is lacking nothing,
+I have all (things).” The negro said : “ Untruth ! In thy house, I
+look for a thing, I do not find it.” The white man said: “You,
+negroes, you lack all things ; I have to look for nothing.”
+
+
+ngizube dixisa.”
+
+
+njungu uabele.
+
+
+XLVII.
+
+HOJI IKOLA; UKAMBA UKOLA.616
+
+
+xib’a ; amuangana. .
+
+
+The Lion is Strong ; so is Friendship Strong . 245
+
+The negro assented ; went to his house. He spent a month. He
+wove his mat ; he is sewing it. He arrives in the middle of the mat ;
+the cords give out. There is no more a place where he can take the
+dry cords.614 He says : “ How shall I do ? I will go to the house
+of the white man, that he give me the cords, that I may finish the
+mat.”
+
+He arose ; arrives at the white man’s, says : “ Sir, I am in need (at
+the place) whence I come.” The white man says : “ What needest
+thou ? ” He says : “ I was weaving a mat ; it gave out615 I said, * I
+will go to the house, in which are all things ; the white man that he
+give me a few cords, that I may finish my mat.”
+
+The white man looks at him ; he laughs. He goes into the store ;
+he looks in it : there are no cords in it. He says : “ Negro, thou art
+lucky.” He takes a hundred macutas ; he gives them to the negro.
+
+The discussion, that the white man had with the negro, the negro
+won (it), the white man lost (it).
+
+
+XLVIL
+
+THE LION IS STRONG; SO IS FRIENDSHIP
+STRONG.616
+
+Two men played friendship. They are passing time (with) each
+other all days.
+
+One day, one comes to pass time (with) the other ; they are chatting. One says : “ The lions have come in vicinity ; thou, my friend,
+the house, shut it always. Do not shout, because the lion has come.”
+The other says : “ The lion cannot enter the house ; I have my gun
+and my spear.” The other laughed, saying : “ Thou toldest a lie.
+The lion, thou canst not fight with him.” He says : “ I can fight
+with him.” They laugh; they chat. They become silent; they
+separate. '
+
+But the other got a medicine of lion-man. They passed a month.
+The other, who got the medicine, says : “ I will go to my friend, who
+had doubts.”
+
+He went out at night ; arrives outside of his friend’s. He becomes a lion ; he roars once ; he roars twice. He opens the house
+of his friend with one fist. He finds his friend, who is sleeping.
+He lifts him ; he throws him out. He destroys the partition. He
+gets outside ; destroys the house. His friend remained in a wasted
+place. The lion-man returns to his home; he becomes a man.
+They slept.
+
+
+246 Folk - Tales of Angola .
+
+
+XLVIII.
+
+MUTUNGE A UHETE NI MUTUNGE A KUSANE-
+NEKA.618
+
+neka”
+
+
+mvula.
+
+
+XLIX.
+
+KUTUTUNDA NI KUTUIA.
+
+
+maluvu.”
+
+
+Mahezu.
+
+
+The Past and the Future .
+
+
+Morning shone, he says : “ I will go to visit my friend.” He
+finds him. His friend says : “ Alas ! The lion came in the night ;
+he has destroyed the house ; me, he threw me out there.” His friend
+laughs, says : “ My friend, thou shottest him not, why ? nor didst
+thou pierce him with the spear ? ” They talked ; kept quiet.
+
+His friend said : “ My friend, the lion is strong ; friendship is
+strong.” The argument ceased, which friend and friend had with
+each other.
+
+
+XLVIII.
+
+THE BUILDER OF ABILITY AND THE BUILDER
+
+OF HASTE.6*8
+
+Two men called themselves one name. This one said: “I (am)
+Ndala, the builder of ability.” The other said : “ I am Ndala, the
+builder of haste.”
+
+They say: “We will go to trade.” They start; they arrive in
+middle of road. A storm comes. They stop, saying : “ Let u£ build
+grass-huts ! ”
+
+Ndala, the builder of haste, built in haste ; he entered into his
+hut. Ndala, the builder of ability is building carefully. The storm
+comes ; it kills him outside. Ndala, the builder of haste escaped ;
+because his hut was finished ; it sheltered him when the storm came
+on.
+
+
+XLIX.
+
+THE PAST AND THE FUTURE.
+
+Two men were walking on road. They arrived in midst of road :
+they found a tapper of palm-wine ; they say : “ Give us palm-wine ! ”
+The tapper says : “ If I give you palm-wine, tell me your names ! ”
+The first said : “I am Whence-we-come.” He who remained behind
+said : “ I am Where- we-go.” 619 The tapper of palm-wine said :
+spakest evil. I will not give thee palm-wine.”
+
+They began to quarrel ; they go to be judged. They find So and
+So ; they plead. So and So says : “ Where-we-go is right, the tapper
+is wrong ; because, where we have already left, we cannot thence
+get anything more. The thing that we shall find, is where we are
+going to.”
+
+Finished.
+
+
+L.
+
+NGUNZA KILUNDU KIA NGUNZA.
+
+
+uta ue.
+
+
+L.
+
+NGUNZA KILUNDU KIA NGUNZA.
+
+Ngunza Kilundu kia Ngunza 620 was with his younger (brother)
+Maka. He went to Loanda ; when he arrived at Loanda, a dream
+warned him, saying: “Thy younger, Maka, is dead.”
+
+He arrives at home, asks his mother, saying : “ The death that
+killed Maka, what (was it) ? ” She says : “ Ngana Kalunga-ngombe,
+he killed him.” He says : “ Then, Ngana Kalunga-ngombe, I will
+fight with him.”
+
+He went to Luango621 and ordered a trap of iron with its musuanu ; 622 he put that in middle of dikikengele.622 He lurks in the
+thicket with his gun.
+
+After a while, he hears in the trap, there is (one) calling, saying :
+“ I am dying, dying.” He takes the gun and wants to fire. (The
+other) says : “ Do not shoot me ; come to free me.” Says : “ That I
+free thee, who art thou ? ” Says : “lam Kalunga-ngombe.” “ Thou
+art Kalunga-ngombe who killed my younger Maka ? ” He, Kalungangombe, says : “ I am not ever killing wantonly ; people are brought
+to me. Well, I give thee four days ; on the fifth, go and fetch thy
+younger in Kalunga (Hades).”
+
+He goes to Kalunga ; Kalunga-ngombe receives him ; they sit down.
+A while, there comes a person ; Kalunga-ngombe asks him : “ What
+(was it that) killed thee ? ” Says : “ On earth I was owning riches ;
+because of them they bewitched me.” There dying again a person,
+he asks her, saying: “What has killed thee?” Says: “Vanity m
+has killed me, to beguile men who wanted to marry.”
+
+Ngunza, not I am ever killing mankind ; the hosts of Ndongo 624
+they are brought to me. Therefore, go to Milunga625 and fetch
+thy younger, Maka.” He goes there, exchanges greetings with his
+younger. He mentions him the going, saying : “Thou, I have come
+to fetch thee, for us to go on earth.” Then Maka says : “I won’t
+go again, because in Kalunga it surpasses in excellence ; what I have
+here, on earth perchance shall I have it ? ”
+
+Ngunza Kilundu kia Ngunza takes the path of going. Kalungangombe gives him seeds of manioc, maize, Kaffir corn, kazemba,826
+uangela, kinzonji-bean, kabulu, cashew, makunde-beans,627 beans,
+kingululu,620 squash, pumpkin, melon, mashishila,626 okra, makeka,626
+mapudipudi,626 cocoa-palm, orange-tree, lemons, for to plant on earth.
+And he tells him : “ In eight (of) days, I will go to visit thee at thy
+home.”
+
+
+250 Folk-Tales of Angola .
+
+kituta.
+
+
+When he goes, he finds Ngunza has fled from home, has gone to
+the east ; and he follows him. He appears at man Ludi dia Suku’s ;
+he inquires of him. Man Ludi dia Suku,628 says : “ Ngunza Kilundu
+kia Ngunza passed (here) on the day that we planted the corn,
+(which) now we are eating.” He passed on ; went to the house of
+man Ludi dia Suku, another. There he finds Ngunza Kilundu kia
+kill thee.” Ngunza says : “ Thou canst not kill me, because I did
+no crime against thee. Thou ever sayest : ‘ People are brought to
+me, I don’t kill any one.’ Well now, to pursue me to the east
+where I have come, for which reason ? ” He, Kalunga-ngombe,
+takes off his hatchet for to cast it (at) him. But Ngunza Kilundu
+
+(That is) what caused Ngunza Kilundu kia Ngunza to become a
+Kituta spirit.
+
+
+NO. I. VERSION A.
+
+Informant. This story comes from Joao Borges Cezar, an educated mulatto
+holding a responsible office on the large sugar-cane plantation and distillery of
+Bom-Jesus on the Kuanza River, southeast of Loanda. The informant handed me
+the story in his own writing, and I perused it with him so as to ascertain the
+reading and meaning of certain words.
+
+Dialect. The informant speaks the pure Loanda dialect; but he is also
+acquainted with many inland forms of speech. His work brings him daily into
+contact with Kisama people and the plantation servants, who are gathered from
+all parts of the Loanda interior.
+
+Comparative. A folk-lorist will easily recognize in this story a well-nigh
+universal theme of folk tales. A female rival, by a criminal trick, substitutes herself for a girl who is going to be joined to her lover. Finally, however, the crime
+is discovered ; the victims are restored to each other, and the criminal woman is
+put to death.
+
+In Portuguese folk-lore we find the same fundamental outline in the story “As
+tres cidras do amor,” ably treated by Theophilo Braga in his “ Contos tradicionaes
+do Povo portuguez,” vol. ii. p. 197. In Basile’s “ Pentamerone ” it is found in the
+story of Zoza, who corresponds to our Fenda Maria. That the story is of foreign
+origin is proved by the fact that, as far as ascertained, it is current only among
+the half-civilized natives of, or from, Loanda. The names of the dramatis personae alone would prove nothing ; for the natives of Angola and Kongo have for
+more than three centuries been using Portuguese proper names. Excepting the
+outline and some episodes, everything about the story, the characters, the scenery,
+and the scenes, is purely Angolan ; and no native has the least suspicion that this
+story contains any foreign element.
+
+As to locating its foreign source, it is not easy to decide whether Portugal or
+Italy is to be preferred. The Portuguese have been in Angola for about four
+hundred years, and the first thought is to ascribe its importation to them.
+
+The possibility of an Italian origin is suggested by the presence, in Loanda, of
+a small Italian colony whose history we may be excused for chronicling here.
+In the beginningof this century, after Napoleon’s fall, a number of Italian soldiers
+belonging to his army were deported to Portugal, and thence came to Loanda,
+where they enlisted in the colonial Portuguese troops. After serving their term,
+those who survived started into private business, and, owing to their proverbial
+economy and perseverance, most of them did well. All took native women to
+wives, and they left a generation of mulattoes, in some of whom the fire of the old
+Napoleonic soldiers is not quite extinct. So my friend, General Geraldo Victor,
+now so famous in native song, is the son of one of those Italians and prides himself in his indirect connection with Napoleon’s history. Most, if not all, the
+Italian colonists were natives of Naples and Calabria.
+
+For centuries, too, Italian Capuchins have worked in Angola as missionaries,
+and Italian coral dealers have been making, and still make, thousands of dollars
+by hawking their merchandise through the native villages.
+
+It is interesting to note the difference between our two versions of the story.
+
+In number one the heroine is the only daughter of her mother, whose name she
+bears ; in number two, she is the youngest of three sisters, and the mother is
+not mentioned. According to number one, a passer-by informs Fenda Maria of
+Milanda’s existence and captivity, without seeing her. According to number two,
+she gets the news from a passing shepherd with whom she speaks face to face.
+In number one the instructions for the liberation of Milanda are given by God;
+in number two they are given by the shepherd, etc.
+
+Some parts of this story also appear in number three. Comparing the elements
+of the present tale with those of foreign folk-lore, we notice the following : —
+
+The speaking mirror, or a mirror revealing secrets, occurs in Portuguese and
+other tales, and is to this day to be seen for money in European country fairs,
+where many educated lovers consult it with as much credulity as the African consults his doctors.
+
+In divination, the diviner sometimes looks steadily into a mirror, until, according to popular belief, the face of the culprit appears instead of his own. All the
+fetish-images of the Kongo nation wear, incrustated on the stomach, a piece of
+looking-glass, which answers the same purpose.
+
+The initial episode of the mother’s jealousy is also that of “Os sapatinhos
+encantados,” p. 84, of “ Contos Populares Portuguezes,” by F. Adolpho Coelho,
+and of “ A mulher e a filha bonita,” by Sylvio Romero ; though the fundamental
+theme of these two stories is not that of Fenda Maria but that of Gubernatis*
+
+The magic box (kalubungu) or calabash, or sack, or egg, or other object, which
+•on being opened lets out sometimes all sorts of riches, at other times all sorts of
+pests, seems to be familiar to the folk-lore of all races.
+
+In Africa, we have traced it in the folk-lore of the Ama-zulu, Ova-herero, Malunda, in the Sudan, and up the coast to Sierra Leone. Compare the kalubungu
+in other Angolan stories of this volume ; and in Henrique Carvalho’s “ Lingua
+da Lunda,” pp. 276 and 277, the calabashes, out of which issue once riches and
+people, another time wild beings that destroy whatever they meet.
+
+The old woman who pounds with one side of the body is not distinctly described
+as being only one half of a person cut lengthwise ; but she strongly reminds one
+of the half-men who often appear in folk-lore. See in the story of Sudika-mbambi,
+the woman whose upper half only appears, and the half-men in Dr. Callaway’s
+“ Nursery Tales,’* p. 199.
+
+The guarding lion, out of whose jaws the key of the palace must be taken, and
+the series of rooms with their prisoners and other wonderful contents, occur in
+the folk-tales of so many nations that it seems useless to indicate definite places.
+The “ palace ” is not African ; but a deep den with many recesses, or a row of
+rooms or single-story houses, might be.
+
+The scene where Fele Milanda surprises Fenda Maria in her secret practices
+and then marries her, reminds one of the Zulu story on p. 308 of Callaway’s
+“ Nursery Tales,” where a girl conjures up various things by means of a brass
+rod ; she is watched and caught by the chief (whom an old woman assists) and
+finally becomes his wife.
+
+Our story contains also fragments of purely Angolan tales ; and the journey of
+Fele Milanda to Europe is evidently an Angolan addition.
+
+1. Eme ngateletele. Every mu-soso , or fictitious tale, is supposed to be introduced by this word. The infinitive of the verb is ku-ta. The reduplication indicates repetition of the act. The meaning is the same as that of the habitual
+ngene mu ta, or. ngeniota , 1. e., I am wont to tell, am In the habit of telling, 1
+often tell. Thus, too, from ku-ba, to give, ngdb'elebele., I often gave, or give. See
+Ki-mbundu Grammar, pp. 99, 100. It is generally used with monosyllabic verbs,
+and consists simply of the reduplication of preterit II., or of the radical, as the
+case maybe. Concerning the idiom, “to put a story "for “lo tell a story,” and
+other idiomatic uses of Fu-ta, see Grammar, p. 117.
+
+2. Fenda. An old title, equivalent to “ Lady,” and given only to women of
+noble family. It is not known at Malange ; nor is it used in the modern Loanda
+dialect ; but the adults remember its meaning. Ngana is the word now in use
+for “ Master, Mr., Mistress, Mrs., Miss, Sir, Madam. Lord, or Lad).’* Ngana
+and Fenda not being synonymous, their joint use is admissible. luinu was
+formerly used in Loanda to express Lord or Lady ; thus fumu amt equalled my
+Lord, my Lady. It was used with or without the name of the person, and was
+applicable to either sex; while Fenda was exclusively feminine. Fumu is still
+used by the Ba-kongo or Axi-kongo, the Ma-hungu, the Ma-holo, and the Mbamba
+tribe, as title of a chief or elder. Mu-adi, pi. adi or a-muadi , is the word now
+generally used by the A-mbundu for designating any superior of either sex. Fetu
+(with the name) is the contrary of mu-adi , and signifies plebeian, mean, contemptible fellow. It is an insult.
+
+3. Uauaba , from ku-uaba) signifies both beautiful and good. When physical
+beauty and moral beauty are to be distinguished, they say ua-uaba o polo , literally, “ is beautiful (as to) the face ; ” ua-uaba ku muxima, literally, “ is beautiful
+at heart.”
+
+4. The idiom uauaba Fa mu uabeld , to indicate superlative, unsurpassed
+beauty, is not used in Malange. Thus also for unusually fine dressing, uaketnbe
+
+5. Uakexidi e, the same as uakexile e, see Grammar, p. 104. It is what I call
+the emphatic conjugation; but the German word “gemiithlich” gives a much
+better idea of the function of this form than the word emphatic. The verbal act
+or state must be thought as affecting the subject, who, therefore, has a conscious
+feeling of it. This conjugation might also be called the “subjective” or “sentimental” conjugation.
+
+6. Inga , the same as anga , interchangeably used in Loanda for “or” and
+“and,” or “then.” See Grammar, p. 115. In the interior its equivalent is ba,
+or ha.
+
+7. The idiom, “if this be the ninth, the other is the tenth,” by which Loanda
+people indicate superlative excellence, is not known at Malange.
+
+8. Putu , the native abbreviation of Portugal, which was for nearly two centuries the only European country known to the Angolans. As the Portuguese
+were the first whites with whom the Angolans came in contact, and as the natives
+take at first all whites to be kinsmen, the name Putu was extended to all “ white
+man’s land,” and the word mukua-Putu , i. e., “ Putu-man,” is often used for any
+white man, irrespective of nationality. Thus my native lad from Malange called
+America Putu ta 1-ngeleji , i. e., the Putu of the English. In Angola, when a white
+man is found not to be a Portuguese, he is called a Ki-ngeleji , pi. I-ngeleji, from
+the Portuguese “ Inglez.” Thus Dr. Pogge, Lieut. Wissmann, Dr. Buchner, and
+the other German explorers of the Angolan Hinterland were call I-ngeleji, and
+the same appellation attaches to the Belgians of the Kongo State, with whom the
+Angolans have intercourse at Luluaburg, on the upper Kassai River. The Dutch
+are also known to some as a separate nation and called Landeji , from the Portuguese “ Olandez.” As soon as the Portuguese are to be distinguished from the
+other white nationalities they are called Jipultukeji, sing. Pultukeji, from “ Portuguez.” The compound sound It being contrary to Ki-mbundu euphony, the form
+
+
+256 Folk-Tales of Angola .
+
+Putukeji will soon supersede the former. An American is called Melekatiu, pi.
+A-mclekanu, or Ji-melekanu ; also Mukua-Mileka , pi. Akua-Mtleka .
+
+9. The denial refers to the last question, ngaiiba? The word mbd gives
+greater force to the negation. Uakebula, or uakobula , is a habitual verb-form of
+Loanda; it is not used in Malange.
+
+10. U-jukula — u-jikulaj compare ku-jutuna — ku-jitunaj old K-imbundu kiuma = modern ki-ma, etc.
+
+11. M 'o'nzo, literally, “in the house;” signifying “room,” because this is
+inside, and part of, the house.
+
+12. Mu ene equals “in which habitually is or was, are or were;” to be distinguished from muetie meaning “he, she, it,” or “self” or “indeed.” See
+Grammar, pp. 107, 109.
+
+13. Kana equals emphatic “ no.” Here it means “ I won’t have that ! this shall
+not be ! ”
+
+14. Ku-lombuela is a difficult word. In some places it means to neglect ; in
+other places, on the contrary, to be concerned, interested in (something).
+
+1 5. Ku bat' oko equals ku dibat' oko, see Grammar, p. 88.
+
+16. Maseka , word used in colonial, or Creole-, Portuguese; probably a contraction of “ ama secca,” i. e., dry nurse.
+
+1 7. Njanena, from the Portuguese “ janella.”
+
+18. Ku-bitixila , from ku-bita , a compound causative and relative verb. See
+Grammar, pp. 95 and 96.
+
+19. Mon ’ a ngana , used as one word, pi. arC a ji-ngana , applies only to children
+of educated whites or mulattoes.
+
+20. Vondadi , from the Portuguese “vontade.”
+
+21. Palaia , from Portuguese “praia,” meaning beach. The place meant here
+is the fish-market of Loanda, situated at the foot of the hill on which stands the
+Fort Sao Miguel. Next to it is the quadrilateral building in which the cornmarket is held. The whole lower city is sometimes called Palaia.
+
+22. Di-zungu signifies a hole, to see, or pass, through ; di-kungu means a hole
+with no other exit than the entrance.
+
+23. Ki-palelu , from the Portuguese “ parede.”
+
+24. The -d- of ku-a-sumba indicates change of place ; hence also distance. Kd
+has the same function. In this work the locative d is distinguished by the grave
+accent. See Grammar, pp. 46 and 47.
+
+25. When they eat sugar-cane, the natives hold one end of the cane in the left
+hand, and peel the other end with a knife held by the right hand. Then they
+sharply hit the peeled portion so as to sever it, all but a few fibres, from the main
+cane. This loose piece is then bitten off. When the cane is short, or the left
+hand is near the peeled end, there is danger of hitting a finger instead of the
+cane.
+
+26. Uexile, abbreviation of uakexile , irregular preterit II. of ku-kala.
+
+27. Fele Milanda , the same as the Portuguese “Felix Miranda.”
+
+28. Tandu (ki), is the Portuguese “ tango."
+
+29. Ma-diabUy from Portuguese “ diabo,” that is, devil. See note 69.
+
+30. Ikanduy probably from the Portuguese “encanto,” i. e., charm, spell. See
+in Capello and Ivens’ “ De Benguella ds terras de Yacca,” Lisbon, 1881, vol. i.
+p. 109, the word mo-ikanzu as designating the quarters of the vassals in a Kioko
+king’s town. Ikanzu has also the latter meaning in the interior of Benguella
+Velha.
+
+31. Kalubungu is a magic box, which plays an important r61e in many Angolan
+legends. A glance at the references given in the index under kalubungu will give
+a pretty adequate idea of the functions of this box. The etymology of the word
+is uncertain. Mbungu, or lu-mbungu when a single one is meant, is the Ki-mbundu
+for the bamboo-tree and any piece of it. The snuff-boxes are called ji-mbungu ,
+sing, mbungu, irrespective of the material, because most of them are made of a
+bamboo cane of some kind or other.
+
+32. Kola nuts are so nourishing and toning up that the natives take an extra
+supply of them whenever they have heavy marches or any fatiguing work before
+them. In the Loanda district, the natives eat kola nuts and native ginger
+together, especially in the early morning. Most of the kola nuts and ginger
+which is sold in the Loanda market comes from the Cazengo mountains. The
+kola nuts and ginger have an interesting symbolic meaning. In Loanda, when a
+man wants to court a girl or woman, he sends her a message. If she accedes to
+his wishes, she sends him a kola nut and a piece of ginger carefully wrapped up
+in a handkerchief which is folded triangularly in the shape of a heart.
+
+33. Jinjibidi, from Portuguese “ gengibre.”
+
+34. Ku-kuata makanda mu njila , a Loanda idiom for walking fast and steadily,
+as on a long journey. In Malange the idiom is used for following in the footsteps
+of another, but only in the literal sense ; uala mu ngi kuata makand * ami equals
+u he is following me.”
+
+35. Kua signifies “to where is or was (this or that) ; ” ku would be only “to.”
+
+36. Mai' d or mart is a Loanda idiom, which agrees by its pronominal suffix
+with the subject. Thus erne . . . maV ami ; eie . . . mai' dj muene . . . mat' d;
+etu . . . maV etuj enu . . . mai'enuj ene . . . maV &. Its meaning corresponds
+to the English “ on and on.” Sometimes it also means “ to continue.” In Malange
+the emphatic conjugation is used in its place.
+
+37. Kitanga , a loathsome syphilitic disease. Beginning with the sexual parts,
+small and purulent tumors break out all over the body, face and hands not excepted, and often leave hideous sores. Native doctors say they can cure it by
+washing the sores with a decoction of certain leaves and by applying the ground
+root-bark of certain trees on the sores.
+
+38. Ku-kulala , from Portuguese “ curar.” It means less to cure, to heal, than
+to treat, to nurse, to give or take medicine.
+
+39. Funji is the staff of life of the A-mbundu. It is made by stirring manioc
+flour into boiling water. It is very sticky, not unlike tapioca, and is always eaten
+with a gravy, or broth, made with fish or scraps of meat.
+
+40. Manongonongo. Compare this with ji-nongonongo , i. e., riddles (Loanda
+dialect), and ma-nongo , sing, di-nongo , which on the Kuanza River signifies a jesting or sarcastic saying, while in Malange it means an insult. The verb is kunongena , on the Kuanza equal to “ to mock, jest ; ” in Malange equal to “ to
+insult.”
+
+41. Future III. See Grammar p. 47.
+
+42. lama iama kid , an idiom of both Loanda and the interior, indicating
+plenty, crowd, swarm. It consists of the repetition of the noun, of which a great
+number is intended to be predicated, followed by kid.
+
+43. Iedi , from ku-ila , to do, to say, to think. See Grammar, p. 108.
+
+44. Kololo , from Portuguese “corridor,” meaning the hall or passageway at
+the entrance of a house. On either side of the kololo there is a bedroom.
+
+45. About the numerals, see Grammar, pp. 19-25.
+
+46. About the cohortative subjunctive, see Grammar, pp. 68-72.
+
+47* Uabene , abbreviation of uabanene , preterit II. of ku-bana; uabele is preterit II. of the abbreviated form ku-ba of the same verb.
+
+48. Kud? abbreviation of kuebi f used at Loanda and inland; also kid ? for
+kiebi ? ; in Loanda ndt for nanii ?
+
+49. Milancf d ? Accentuated d at the end of an interrogative sentence is, with
+
+
+258 - Folk-Tales of Angola,
+the rising intonation, the only audible or visible sign of interrogation; for the
+construction of an interrogative is identical with that of a positive sentence.
+
+50. Poji, from Portuguese “ pois.”
+
+51. Ngongo means either world, land, country, or hardship, misfortune, misery*
+Mutu ueuda o ngongo may be taken either as “one who walks the world over,”
+or “one who stands hardships.”
+
+52. Ngomono, contraction of nga ku mono.
+
+53. Ku di banga, of events “ to happen, to turn out (like this).”
+
+54. It seems difficult to conceive how tobacco can be a drink. But in Kimbundu instead of saying “to smoke tobacco” one says “to drink tobacco.’*
+$moke is classified with the liquids. Moreover, tobacco-smoking is held by the
+A-mbundu to be a stimulant for any physical exertion.
+
+55. That is, which is surrounded by birds, or, which birds are surrounding.
+
+56. Ku is here a kind of indefinite pronoun, suffixed to the verb.
+
+57. Sabalalu , from Portuguese “ sobrado,” i. e., upper floor, story. Sabalalu
+is used for a house that has more than one floor, and for any grand building, tower,
+palace*
+
+58. Di-kanga is any piece of bare ground. Hence di-kanga dia ’ nzo , or dia
+bata , for the space around the house, especially in front, that is kept clean of grass.
+Hence, also, di-kanga dia milonga, or kanga dia kubatuila , for the place where
+the judges meet in court. Dikanga also signifies space between two objects, and
+distance. In this sense, it is used adverbially and corresponds then to our “far.”
+Bu kanga is “ in the cleared space around the house ; ” figuratively it is used to
+signify “ outside ” in general.
+
+59. Literally, “her heart does not accept, i. e., refuses.” The contrary : muxima ua mu xikana means “he, or she, feels capable of doing the work before
+him, or her.”
+
+60. Ji-mosa , from the Portuguese “ mosa,” meaning girl, lassie ; applied especially to young mulatto women.
+
+61. Ku ’ iiadi , for ku kitadi. The k- of the prefixes ka- and ki- is often dropped,
+for euphony’s sake, after any one of the locatives mu, bu , ku , e. g., ku ’ Alunga
+for ku K alunga, mu ’ Alunga for mu K alunga.
+
+62. Namu ; in the interior they say nd.
+
+63. Uezalesela , from ku-izala, to get filled ; causative and relative combined*
+See Grammar, pp. 90-97.
+
+64. Di-sanga is a large porous water-jug of a- plain pattern without handle;
+mu-dingi is a small porous jug, used only for drinking-water, often provided with
+a handle,, and made after a more elaborate pattern. See note 67.
+
+65. Kamasoxi, from ma-soxi, meaning tears ; a proper noun formed by prefixing
+Ka-. See Grammar, p. 127. It is customary in Angola for the master to give his
+new slave a new name.
+
+66. Ku-zend-alala , medial verb, from ku-zend-eleka, meaning to incline. There
+is a parallel medial form ku-zend-ama, from kii-zend-eka.
+
+67. Di-tangi differs from the di-sanga only by its larger size. See note 64.
+
+68. Kamadia, diminutive of Madia. Ka - before a proper name is generally
+belittling, scornful, and most of the slaves’ names are prefixed with it Thus,
+Ka-nzud means John (the slave); nga Nzud means John (the free). In this case,
+simply by calling her mistress Ka-madia, Kamasoxi stigmatizes her as a slave.
+
+69. Diabu — devil ; borrowed from the Portuguese. It does not mean our
+Satan, of whom the educated natives alone have some idea, but any bad spirit of
+the white man’s mythology, and figuratively any wicked person. It is the most
+common insult, and is a favorite expression of native slaveholders in rebuking
+their slaves. The origin of the expression is to be found in the blasphemous,.
+
+
+but ever recurring, Portuguese phrase, “ O diabo te carregue /” meaning “May
+the devil carry you oft ! ” or, “Go to the devil!” This accounts for the answer
+a native generally gives, when addressed that way: Diabu dibita bit-lu, i. e., “the
+devil passes overhead.” This expression, again, refers to the flying stars, which
+the Loanda natives call ma-diabu , singular diabu .
+
+69. Mbanielu , from Portuguese “ banheira,” meaning “ bath-tub.”
+
+70. Preterit III., because the buying is thought of as having been done long ago,
+Not pret. II., because there is no reference to an event contemporaneous with
+the act of buying. Ua mu sumbu, pret. I., would imply that the buying had just
+taken place. See Grammar, p. 44. In the following nga mu stimbile ku Putu ,
+the pret. II. is correct, because the thought is, “I bought her when I was in
+Europe.”
+
+71 Jie , the same as je ; jiami— jami j jietu — jetu, etc. Both spellings are
+admissible. The pronunciation is practically the same, as the -i- between j and
+a vowel is not heard in fluent speech.
+
+72. En ’ oso muene , the same as ene oso, i. e., they all ; muene intensifies the
+idea which it qualifies. Here it means “ they all, without exception.”
+
+73. Loko , from Portuguese “logo;” telasu , from Port, “terrago;” lelasA , from
+Port. “rela^So.”
+
+74. An' a vii-xaxiniu , sing. mon' a mu-xaxiniu ; in Malange, mon' a musa -
+siniu. These dolls are made of rags, etc., by little A-mbundu girls, and used in
+playing, just as dolls are by our girls in civilization. In the far interior, where
+rags are not common, the dolls are made of corncobs, corn-silk, and such like, and
+called an' a masa , sing, mon ’ a disa , i. e., corn-baby. Native little girls are very
+fond of imitating their mothers in all their maternal functions. They will tie
+their dolls on the back like babies, put on appropriate fruits to simulate the
+mother’s breasts, and even go apart into the grass with would-be midwives to perform all rites that accompany childbirth in their respective tribes.
+
+75. The objects here mentioned are evidently fictitious and supposed to have
+magic powers.
+
+76. Fesa, from Portuguese “festa,” equal to French “f£te,” rejoicings. This
+concise way of expressing a whole sentence simply by a series of infinitives, all
+pronounced with great emphasis, produces quite a rhetorical effect.
+
+77. O ua ngi bene , the third person of a verb used substantively* This is done
+quite frequently.
+
+78. Mundele . Strictly speaking mundele , from ku-zela, meaning “ to be white,
+or light-colored,” should be used only for white persons. But, as a term of
+respect, it has been extended by the natives to light mulattoes, and even to pure
+blacks, provided they dress in European style. In the interior mundele is interpreted in Portuguese by “ um preto de sapatos,” i. e., “ a negro wearing, or owning,
+shoes.” Thus, most of the Mbaka people (Ambaquistas) style themselves, and
+are called by the surrounding tribes, mi-ndele , i. e., “ white men.” Mundele , as
+now used, applies, therefore, to white people and civilized natives. When a white
+man is to be distinguished from the negroes as a race, he is called njungu, pi.
+ji- njungu. This word is the same as the m-zungu of the East Coast. In the
+present case, Fenda Maria must not be understood to be a white woman, but a
+mulatto.
+
+79. Ku 0 valela. The vowel o stands for a ku, meaning “ they thee.”
+
+80. Usenga . In Loanda ku-senga means to buy in a shop or market ; in Malange, on the contrary, it signifies to sell. Ku-senga , with another intonation^
+also means w to dismiss a wife.”
+
+81. Pajolo, from Portuguese “vapor,” i. e., steam, steamer.
+
+82. Ku-lembalala , from Portuguese “ lembrar.” The Ki-mbundu word -for
+remembering is ku-tukumuka.
+
+
+260 Folk-Tales of Angola .
+
+S3. Kabitangu , from Portuguese “capitao ; ” naviiu , or navlu, from Portuguese “navio.”
+
+84. Padi is the same as the Portuguese “ par ; ” tixa, Portuguese “ bicha ; ”
+nela , Port. “ anel.”
+
+85. Sandu, from Portuguese “ santo,” i. e., saint. Combining the Catholic
+custom of calling a child after the saint on whose day it is born with the native
+custom of naming a child after the di-hamba or di-bamba (spirit) to whose influence the birth is ascribed, and of considering the children born under the same
+spirit as related in that spirit, the A-mbundu call a namesake a sandu; and two
+namesakes, when they meet, are morally bound to treat each other as brothers or
+cousins. Examples of this name-brotherhood will occur in several parts of these
+stories. Another word for namesake is xald, in colonial Portuguese “xard.”
+This seems to be of Brazilian origin.
+
+86. Ku-batesa. In Malange, this signifies to accompany a child or infirm adult
+to where he is going, and assist him in walking.
+
+87. Xila. This xila is not used in Malange, nor is kaxiy its Malange synonym,
+used in Loanda. The usual meaning is not “lest,” but “may be, perhaps.”
+
+88. Naiu . See Grammar, p. 86.
+
+89. This se or ha in the interior, is not the conditional se or hay nor “ whether,”
+but serves to introduce a direct or indirect quotation. It corresponds, therefore,
+to kuma or -ixi, and to our colon with quotation marks.
+
+90. Ku mu zekesa. Its first meaning is “ to cause him or her to lie down ; ”
+but it is also used by some for “to sleep with him or her” (in the same hut or
+bed).
+
+91. This sentence shows how Ki-mbundu is susceptible of complicated periods,
+without obscurity.
+
+92. This kid, with the pret. I., indicates immediate, almost simultaneous action.
+Cf. in Zulu, Callaway’s “ Nursery Tales,” p. 50, foot-note.
+
+93. Iofetale , past participle of ku-fetala , which is simply the Portuguese “ enfeitar,” i. e., to adorn. For participle, see Grammar, p. 84.
+
+94. Ku-kemba signifies “ to dress in best attire, to adorn, to bedeck.”
+
+95. Ku-funda , that is, to plead. The relative ku-fundila is to plead before
+(court), or because of, concerning, etc.
+
+96. M’ oso for mu oso.
+
+97. When an Angolan has suffered wrong, he goes and lodges a complaint
+before a judge of his choice, or before the chief of the tribe (as repeatedly described in these stories), or he resorts to the spirits, and calls on them for redress,
+often also for the punishment of the culprit. For this purpose, he goes to some
+one who is known as being possessed of this or that spirit, and lays the case
+before him, or rather, through him before the spirit he represents. Then the
+spirit is asked to either restore the stolen object, or force the debtor to pay, or to
+visit the murderer or ill-treater with death or sickness, and so forth. The spirit’s
+medium listens gravely to the adjuration, but says nothing in reply. Sometimes
+the adjuration is, as in the present case, simply a kind of affidavit, either to prove
+one’s innocence, when accused, or to prove one’s right to complain. The medium
+receives a reward only in case the object in view is attained. Such a medium is
+called kimbanda kia dihamba , as distinguished from the kimbanda kia k us aka,
+or physician who cures diseases. The act of bringing some evil on a real or
+imaginary offender through the medium of a spirit is called ku-loua. This ku-loua
+in self-defence is lawful, but the secret use of spirits for killing or hurting others,
+which is called ku-loua pulu (bewitching), constitutes the greatest crime a man can
+be guilty of, and is invariably punished with death. The witch or wizard is called
+
+
+98. Kaxaxi. In the interior the form kaxi is preferred ; as the stories in the
+Mbaka dialect show.
+
+99. Musula; also called tnuanji in the interior.
+
+100. Ku di mosalela, relative of ku di mosala, which comes from the Portuguese “ almogar,” to breakfast. The form ku-lutnosala was the first to evolve ;
+but, as the Ki-mbundu radical is never more than dissyllabic, and -lumosa would
+be trisyllabic, the popular ear preferred to change lu into di (cf. ku-ludika — ku -
+didika), and to consider the verb as reflexive. The final -ala (ku di mos-ala)
+would then be taken as a derivative suffix.
+
+1 01. Kalakatald , from Portuguese “ alcatrao.”
+
+102. Kualutu, from Portuguese “quarto;” in Ki-mbundu iridnzo. In previous instances kuAlutu was written with the tonic accent on the antepenult, but
+the accent on the penult is also admissible.
+
+103. Kana. The answer “no,” in reply to the question “where?” sounds
+strange to a European, but not so to the African, who at once understands that
+the question implied the accusation “you have kept the key.”
+
+104. Uedi pi l from ku-ila pi ! that is, to say or act pi! that is, to be silent,
+speechless. Pi! is our “ hush ! ”
+
+105. Ku-telekala, from Portuguese “entregar.”
+
+106. Elelenu! literally, “laugh ye! ” used as an interjection for “they laugh.”
+This elelenu corresponds almost to hurrah ! The imperative is used here to indh
+cate the surprise of the spectators, the outburst of sympathy, and the story-teller’s
+own concurrence with the feelings he is relating.
+
+107. Ku-jikatay the same as ku-jikota or ku-jokota, i. e., to be charred, to be
+burnt (of food).
+
+108. U di xisa-ku. This detail is purely African. It reappears at the end of
+Nga Nzud and his slave Kanzud, which is still unpublished. Anointing one’s
+self with the charcoal of burnt flesh or bone, either human or animal, is a general custom among Africans. It is supposed to act as a preservative against the
+enemy, or ill-disposed spirit ; here, possibly, against the vengeance of the victim’s
+nzumbi , or “ghost.” Callaway repeatedly mentions such use of animal or human
+charcoal in his work on Zulu folk-lore.
+
+109. Ku-kazala , from Portuguese “ casar,” is used only of the Christian, monogamous, marriage. To marry in native fashion is ku-sokana (Loanda dialect) or
+ku-sakana (inland dialect).
+
+no. Adia nguingi , aseiala musolo is a Ki-mbundu saying which signifies
+“ living in plenty and free from care,” hence “ living in happiness.” Nguingi , in
+Portuguese “bagre,” is the Clarias Anguillaris , which, in some places of the
+Kuanza River, grows to an extraordinary size. They are caught by means of fishing baskets (mi-ztia), hooks, or spears. Cut open, sun-dried, and inserted in a split
+stick, they are offered for sale in every native market and constitute the most popular condiment with funji (cassava-mush).
+
+hi. Ngateletele, etc., is the customary formula with which a fictitious tale
+closes. The expression “ whether good or bad ” means “ it is your business to
+judge whether my story was nice or not. As for me, I have done my part, and
+whatever your judgment may be, it is all right.” The diminutive form ka-musoso,
+which is applied to even the longest tale, is an instance of the conscious selfdepreciation, which seems to constitute the essence of politeness, and which is
+more common among Africans than among uncivilized Aryans, excepting perhaps
+the Slavs.
+
+
+NO. I. VERSION B.
+
+Informant and Dialect. This version was dictated by Adelina da Camara,
+an educated native lady of light complexion, and the life-companion of the editor
+of a native paper, himself a mulatto. She speaks the purest Loanda Ki-mbundu
+that I have heard, pronouncing every syllable so distinctly that I hardly ever had
+to ask her to repeat a word, while this would continually be the case with men.
+In Angola, as in most times and places, the higher-class women give the standard
+for pronunciation and idiomatic expression. Loanda women have a way of “ singing ” Ki-mbundu, which makes it quite as musical as the best modulated Italian of
+
+To the informant’s honor be it said that, unlike so many others, she is not
+ashamed of her native tongue, lore, and color.
+
+Her father, Innocencio Mattoso da Camara, though white, is a native of Loanda,
+has held many high government offices, and is connected with an influential
+Portuguese family.
+
+1 1 2. Uexile . See note 26. Compare the genitive in umoxiy ua ndenge , one,
+the younger, with Fenda Madia , dia mona. Fenda Maria, the daughter.
+
+1 13. Mubidi, shepherd, herdsman; verbal noun from ku-bilay to herd cattle.
+The name of mu-bidi , pi. a-bidiy is also given to the Loango people, akua-Luanguy
+scattered between Kongo and Kuanza as wandering blacksmiths, and recently
+much talked of in connection with the “ Dembos,” situated between the Nzenza
+(Bengo) and Ndanji (Dande) rivers. Since the war of 1872 these Dembos (six
+native chiefs) have been independent : a di tuma (they manage themselves), as the
+natives say. On the fertile plain between Kangenie (Canguenhe) and the mountain called Maravilha, they have allowed a large party of these A-bidi or akua-
+Luangu to settle as guests. But, like the Hebrews in Egypt, the A-bidi have
+multiplied so fast, that quite recently they conceived the plan of dictating to their
+hosts. With a view to this, they sent delegates to the governor-general at Loanda requesting him to reinstate Portuguese authorities, as in the time before the
+war. To this the governor acquiesced, and a new chefe was sent in 1890, with a
+small force, to reoccupy the concelho of the Dembos, lost in 1872. What the
+result will be, is not sure ; but a renewal of hostilities with the Dembos is much
+feared by a portion of the Loandenses. It is not impossible that a Loango man
+is meant by the mu-bidi of our story.
+
+1 14. Nganga is here synonymous with mu-loji, “ wizard, witch.” The Roman
+Catholic priests and missionaries are also called ji-nganga , with or wdthout the
+qualification ja Nzambi . The meaning of nganga ia Nzambi is therefore “ wizard
+of God.”
+
+1 15. Udidile / the subjunctive consequent on a preceding imperative indicates a
+mild imperative.
+
+1 16. Munume and mulume are equally correct.
+
+1 1 7. A di ambata; this means “ they walk arm in arm,” in European fashion.
+
+1 1 8. Ku-biluka and ku-kituka are synonymous for “being transformed.”
+
+1 19. Ku di tuma corresponds exactly to the Portuguese “ governar-se.”
+
+120. “ When I come,” i. e., back to where we are. In Ki-mbundu coming refers
+to the place occupied at the time by the one who speaks.
+
+121. yi-ngondo , literally “coppers,” i. e., copper ornaments.
+
+122. Nguami , a most singular contraction of ngongo ami (my misery) used as a
+verb to signify refusal. See my Grammar, pp. 105 and 158; also the full form in
+Bentley’s Kongo Dictionary’, p. 374.
+
+1 23. Mu-nzenza is a slave recently bought, and therefore not yet initiated in
+the ways of his civilized or semi-civilized master. Mu-nzenza , with a slightly
+different intonation, is also used in Loanda to indicate lack of water in a well, e. g.,
+
+124. Ngu, instead of ngi, is preferred when followed by the infixed pronoun mu
+or ku. This is a case of progressive vowel attraction. See Grammar, p. 151.
+
+125. K’emuenie contracted from k'a i muene-e , according to euphonic rule
+a + i — e. Ku-mona is frequently used for ku-sanga, to find, and for the result of
+finding, viz., getting and possessing.
+
+126. Bu polo ia or mu polo ia is “in the presence of ; ” ku polo is “in front,
+ahead ; ” mu polo is “ in the face, on the forehead ; ” but bu polo alone (without
+id) is used for the region of the pudenda, and must be avoided.
+
+127. Sauidi, from Portuguese “saude.”
+
+128. Ka-nzo , diminutive of i-nzo. See Grammar, p. 8. The initial vowel of
+inzo does not coalesce in e with the -a preceding it, because it is an ancient article,
+hence no integral part of the word. Cf. 0 ’ nzo .
+
+129. Ng ’ o muenene, contraction of nga ku ?nuenene. Muenene is Preterit II.
+of the relative verb ku-mue?ia, from ku-mona , to see, which in this case means “ to
+experience.” See Grammar, p. 91.
+
+130. The clause in brackets was added at my suggestion, so as to make the
+connection clearer to the foreign mind. For the natives both the full and the
+elliptic forms are correct and intelligible.
+
+13 1. Ngi batujudienu , the same as ngi batujule enu (see Grammar, p. 75). Kubatujula is the frequentative verb of ku-batula. It means, not only the action of
+cutting frequently, repeatedly, but also the result, “ cutting into small pieces.” See
+Grammar, p. 99.
+
+132. Pangajala , from ku-pangajala , iterative or frequentative form of ku-pa -
+ngala , which is an adaptation of the colonial Portuguese “pancar,” “ dar pancadas.”
+On p. 99 of the Grammar the iteratives - ajala , -ajana of verbs ending in -ala, -ana
+were not given because they do not occur frequently.
+
+133. Mosuku , the same as ma-usuku, pi. of u-suku. According to euphonic
+rule a -f u = 8.
+
+134. Ku di bangesa (kala) means “to feign,” literally “to cause one’s self to
+be or act like.”
+
+135. So salavande / is an oath. It is evidently of Portuguese origin, as is
+shown by the form of the word and by the fact that the expression is not used
+inland ; but it is not easy to determine the Portuguese original. Salavande may
+be a corruption of “ salvante,” which is an antiquated synonym of “ salvando,”
+“salvo,” i. e., except, or of “ Salvador.” What so means is still more obscure ; is
+it the Portuguese “sd ” only, or the Creole contraction so of “ Senhor,” i.e., Lord ?
+The most popular oath among all A-mbundu is Xinge pai etu ia mungua, i. e.,
+“ Let my godfather be insulted ! ” See note 97.
+
+156. Ngakale erne l means “ But for me ! ” The full form is ki ngakale erne /
+The whole sentence is elliptic, the suppressed words being equal to “the issue, or
+the result, would have been quite different.” Sometimes the form kiakale erne /
+is used.
+
+137. Ku-zubidisa , a combined relative and causative of ku-zuba. See Grammar, pp. 91 and 96.
+
+138. Ka-tutu , diminutive of ki-tutu , which signifies any cracked vessel, as
+gourd, jug, pot, box, etc. It should not be confounded with ki-menga which is
+not the cracked whole, but the uncracked fragment of an earthen vessel, whether
+pot or jug ! The ki-menga is generally used as a frying pan. Ki-menga , therefore, is a potsherd, and ki-tutu a cracked vessel, or any broken, worn-out article.
+
+139* Uadia 'nil? uanua ’ nii ? What’s the use of eating and drinking? i. e.,
+of living ?
+
+
+2 64 Folk-Tales of A ngola .
+
+140. Mu, relative pronoun of ma-kutu in the objective (accusative) case. See
+Grammar, p. 95.
+
+141. Ki-zomba is the dancing-place, and also the dancing party. It is not the
+act or the way of dancing ; this is called u-kininu. Ki-zomba kia Ngola , or kia
+Kisama, or kia Lubolo signifies, therefore, the dancing-place or the dancing company (also called di-bandela , i. e., flag) of the Ngola, Kisama, or Lubolo people.
+Ukininu ua Ngola, or Kisama , or Lubolo signifies the peculiar dance of the
+Ngola, Kisama, or Lubolo tribes.
+
+142. Bama means any definite place on earth ; kuma , any place in the open air ;
+muma , any place within an inclosed space. See Grammar, p. 66 and 87.
+
+143. Ujitu is either honor, respect, politeness, or the token of it, namely, a present, an invitation, and the like. It also means “fear to do wrong” and “virtue.”
+
+144. The Portuguese in Angola take only two meals, one called “almogo”
+(breakfast), the other “ jantar ” (dinner). The first is taken between 9.30 and 1 1
+a. M., the latter between 6 and 7.30 p. m. Hence, in the present case, Vidiji
+Milanda goes out at about 8 P. M.
+
+145. Kiabeta. The verb is impersonal. The unexpressed subject is kima, thing,
+or kiki, this thing. The prefixes ku , bu, and mu also form impersonal verbs, as
+they are sometimes called in European and other languages. In Ki-mbundu it is
+simply an elliptic conjugation, the general subjects mutu , kima , kuma, bama ,
+muma, being sufficiently indicated by the context and the concord.
+
+146. Seia, from Portuguese “ selha.”
+
+147. Ku-longa , pronounced as any foreigner, except a Frenchman, would, means,
+to teach. Ku-longa , with less stress on the penult and a slower enunciation of the
+first and last syllables, means “ to load.” It is used of loading a gun, a canoe, a
+carrying basket, packing a box, etc. Ku di longa, to teach one’s self, is used for
+“ learning, studying ; ” ku di longa, to load one’s self, for embarking or seating
+one’s self in any inclosure, as a carriage, a boat, etc.
+
+148. Muhatu ua Nzambi does not mean that the woman is divine either in
+beauty or goodness, no more than muxi ua Nzambi means a divine tree. It is
+simply a sentimental way of expressing one’s self ; implying, as a rule, that the
+person, plant, or thing thus qualified is considered as dependent solely on God,
+being unassisted, uncultivated, or abandoned by men. Ki-mbundu phrases remind one constantly that “man’s extremity is God’s opportunity.”
+
+149. Mu palaia , in Loanda, is used for “ in the lower part of the city,” or
+“ down-town ; ” while ku palaia or bu palaia is specifically “ on, to, or by, the
+shore, or beach, or fish-market.” See note 21.
+
+1 50. N* umoxi seems incorrect as referring to di-sanga , but it is preferred to
+the regular ni dbnoxij probably for euphony’s sake.
+
+1 5 1. Buexilej bu kanga is understood as subject. See note 145.
+
+152. It is not quite clear whether Fenda Maria simply calls the things by their
+names, or gives them the order to act what their names imply. A slight difference in intonation, or punctuation, gives it one meaning or the other.
+
+153. That all kindled themselves is not to be taken literally. When the lamp
+was lit, all were seen acting in the light.
+
+1 54. The informant dictated here “ takes a goat from the pen to throw at all
+things flaming.” I confess that I cannot understand what this goat has to do with
+the story.
+
+155. Selende . Though all natives I have asked failed to recognize the Portuguese origin of the word, I am positive that it is simply the word “ accidente ; ” and
+the idiom uabana selende corresponds to the Portuguese “ deu-lhe um accidente.”
+
+
+NO. 11.
+
+Informant. His name was “ Piolho,” which is the Portuguese equivalent for
+louse. This nickname he owed to the filth and abjection to which his foible for
+rum had reduced him. He was working as a rope-maker at Bom-Jesus, on the
+Kuanza River, his native place. In the war against Humbe, back of Mossamedes, where he served as a Portuguese soldier, he had been crippled for life. He
+was the first man whom I could by small remuneration induce to dictate a few
+folk tales. In all his abjection, he was as punctilious as the proverbial Spanish
+beggar. Several times he punished me by interrupting the dictation in the most
+interesting part of a story, because a question, a tone in the voice, or an innocent
+word had offended his susceptibility. So the present story was left incomplete by
+him, and the last portion had to be obtained by letter from America. A former
+pupil of my Loanda school, who was then employed at Bom-Jesus, wrote it down
+for me. His name is Domingos de Lemos.
+
+Dialect. It is that of the lower Kuanza about Bom-Jesus, which but slightly
+differs from that of Loanda. The informant seems to have some peculiar expressions of his own, or which, at least, are not in general use.
+
+Comparative. This story is originally that of the “ Cenerentola,” the universality of which has been traced up by Gubernatis in his “ Florilegio delle novelline
+popolari,” p. 5, and by Henry Chasle Coste. In the folk-lore of Portugal, Madeira,
+and Brazil it is current under various names and in various versions. The version
+nearest related to ours is the Brazilian on p. 52 of “ Contos populares do Brazil,”
+by Sylvio Romero. But, as in the case of No. 1 (Fenda M aria), the fundamental idea
+of exotic origin, in this story, has been so perfectly covered with Angola foliage
+and blossoms, that science alone can detect the imported elements, and no native
+would believe that this mu-soso is not entirely Angolan. The mention of Kimalauezu kia Tumb’ a Ndala, the great central figure around whom almost all native
+folk-lore clusters, and whose daughter the heroine is said to be, as also the episode
+of the Ma-kishi, connect this story with those in which either Kimalauezu or the
+Ma-kishi play an important r61e. By the marriage with the child of the governor
+it is also related to No. III.
+
+156. Kinoueza kia Tumb'' a Ndala. In Loanda he is generally called Kimalauezu or Kimalezu kia Tumb' a Ndala, while in the Mbaka, and other inland
+dialects his name is pronounced Kimanaueze kia Tumb ' a Ndala. He is a purely
+mythic figure, but may have once been a historic personage. Much of what the
+natives say of him corresponds with what the Ama-zulu tell of their U-nkulunkulu,
+but no reverence attaches to his name.
+
+157. Maocila . This is a kind of palanquin with either side open or screened
+by curtains. It is used by the whites and well-to-do natives in the Portuguese
+towns of West Africa. For long marches through the bush, it is replaced by
+the “ tipoia,” which is a hammock hanging from a strong bamboo pole, to which a
+dais or canopy is fixed so as to protect from sun and rain. The fact that Nzud
+uses a maxila shows that his residence was in the neighborhood of Loanda, in
+what is now called in colonial Portuguese uos Muceques.” See note 162.
+
+158. Paxiiu is the Portuguese “passeio,” a tour, a walk, or ride, for pleasure,
+to a moderately distant place.
+
+159. Nzud is the native pronunciation of the Portuguese “ Joao,” i. e., John,
+and Nzuana that of “ Joana,” i. e., Joan, Jane.
+
+160. Nguvulu comes from the Portuguese “ governador,” but applies only to
+the governor - general at Loanda. Ngola , in native parlance, represents the
+ancient native kingdom of Ngola (in Portuguese “ Angola ”) whose boundaries
+pretty exactly correspond to those of the present District of Loanda. The original, and still independent, tribe of Ngola has withdrawn to the river Hamba, one
+of the affluents of the Kuangu, where the ancient court of Ngola Kiluanji kia
+Samba is still kept with undiminished pride, but with greatly reduced power.
+Nguvulu mzia Ngola , Governor in Angola, is used along with nguvulu ia Ngola,
+governor of Angola. The nguvulu is the representative, in Africa, of Muene-
+Putu , the king of Portugal.
+
+161. Ku lu dia mundu is the same as ku di-lu dia mundu , that is, on, above,
+over the world. It is also pronounced ft o lo dia ?nundu , in which case the prefix
+di of di-lu is replaced by the article o, and the following u of the monosyllable lu
+becomes also o by progressive vocalic attraction ; thus : K' o lo dia mundu.
+
+1 6a* Mu-seke , correctly used, signifies “ a sandy place ” and is derived from the
+same radical (ku-seka) as ki-sek-ele , sand. In the Loanda dialect, however, the
+word has come to mean “ a field,” with the plural mi-seke for “ fields.” Ku museke signifies “ to, or at, one field ; ” ku miseke, to the fields ; thus ku miseke ia
+Kamama , to the fields of Kamama. Mu museke , or mu miseke is “ within a field
+or fields.1* In Loanda-Portuguese “ muceque ” is now used for “ country-house,
+summer-house, villa,” and “os muceques” is the name given to the inhabited
+country around the city of Loanda, where the well-to-do whites and natives have
+their country-houses.
+
+163. La will be found only in the stories told by “ Piolho.” He uses it exactly
+like ba or ha of the Mbaka dialect. It is probably an abbreviation of kala . See
+note 174. In English it is to be translated by “if, whether, or.”
+
+164. Kulemba . Concerning marriage ceremonies, see the story of the Four
+Uouas, and that of the Daughter of Sun and Moon.
+
+165. ICele, the same as ft ail e, from ku-ila , to say or do.
+
+166. Nguamami for nguamiami is again one of the peculiarities of Piolho’s
+diction. As to the governor’s refusing the present, it is becoming to the white
+man, who makes all the metal money, the cloth money, and the bead money, to be
+generous, especially on such an occasion ; for, as the saying goes, “ mundele ufumenena kubana , ftafwnenena kuzelaj diiaki dia sanji ue diazela ,” i. e., “the
+white man owes his fame to his liberality, not to his whiteness ;'for the egg of the
+hen, too, is white.”
+
+167. Akiki or o kiki is composed of the old euphonic article o or a and the
+demonstrative pronoun, first degree, of class III., singular, which is often used
+for “ now ” and “ but.” Kitangana is probably understood, kitangana kiki , this
+moment.
+
+168. Ku-xanga ( ji-huinii ) comprises (1) going to the bush, (2) cutting the wood
+and binding it into a bundle, (3) carrying it home. As the cutting is done with a
+poor native hatchet, or an iron trade-machete, the task is rather laborious.
+
+169. Ngamela , from Portuguese “ gamella.” It is a vessel made of the same
+wood and shape as a canoe, only smaller and sometimes shallow. It is used for
+washing clothes, for feeding pigs, for carrying fish (in Loanda), for holding all
+sorts of things. Very small imitations of canoes are also used, with other things,
+as medicinal charms (u-mbanda) consecrated to the spirit Ngiji (River) for the
+purpose of ku-vuala , i. e., breeding ; but only in the case of barren, or not sufficiently prolific, women. Men use natural medicines which are sold by the native
+doctors ( i-mbanda ). The native word for , all these small canoes, used as vessels, is
+ulungu or uatu, the same as for the real canoe. See p. 68.
+
+170. Tabu or di-tabu is a place on the edge of a river or lagoon, where the
+reeds, which obstruct the banks of all rivers and lakes unless these are pressed in
+between bare rocks, have been cleared away, so as to allow the canoes to land,
+and the women to bail out water and do their washing. As the tall grass of the
+banks is generally infested by crocodiles, these cleared spaces are the only relatively safe places for approaching the water’s edge; for there the crocodile is
+likely to be detected before he can strike. The colonial Portuguese call such
+places “ portos,” i. e., ports, havens. I translate tabu by landing-place, or simply
+by landing.
+
+1 71. Mulemba. This tree is the Ficus psil op oga of Welwitsch. It is a favorite
+tree for shade, and thrives in the driest and sandiest soil. It is much like the
+banyan-tree of India.
+
+172. Aiue / This is the interjection of pain, sorrow, mourning; like the German “ach!” It is never a threat as “woe to!” but merely a complaint. It is
+really composed of ai and ut or ue ; the latter being the vocative, the ai an interjection for sharp, thrusting, physical pain, or unexpected offence.
+
+173. Tund ’ ami , “since me.” This is an unusual construction, but very appropriate and graphic. In emotion and sobbing, it is natural to leave different clauses
+of a proposition incomplete, and to announce them in another order than when
+cold reason dictates.
+
+174. Kala signifies usually “like, as.” “ Piolho ” gives it sometimes the
+meaning of “but, however, yet.” See note 163. The meaning of the unfinished
+clause is : Since I was born, I never did any washing, but now they send me to
+wash.
+
+17 5. Ngari ami instead of the regular ngana iami. (See note 166.) In Loanda
+the only form used, besides the regular one, is ngatC iami , which is applicable to
+any master or mistress. In Malange and Mbaka ngan ’ ami is used exclusively
+by a slave-wife in addressing or mentioning her husband, and signifies therefore
+“ my husband and lord.”
+
+176. A-ka?na. Inland, where the language is purer, mu-kama is used only for
+a slave-wife of a polygamist ( hongo ). A free wife is called ki-hunji or mu-kaji.
+Among the free wives of a polygamist there is a further distinction between the
+wife who married first and those who followed her. The first has authority over
+the others, and is called kota dia hongo (the great (wife) of the polygamist), the
+others are called ji-ndenge ja hongo (the smaller, inferior (wives) of the polygamist). The head-wife alone has a right to the title of mukua-dibata (master or
+mistress of the house), which she shares with her husband ; and the head-wife of
+a chief alone is called na mvuale (queen). A mu-kama is never called mu-kaji
+by either husband or other people ; he says mukani ami , the others say mukani ’
+a nganji (the mukama of So-and-So). Nor does the mukama call her man mulume ami or munume etuj this is the privilege of the ki-hunji. She calls him
+ngan' amt or ngana iami , if he has only one mukama , or ngana ietu if he has
+several.
+
+In the coast-towns, mu-kama is now used, almost indiscriminately, for any
+servant girl above ten years who has been bought, or “ redeemed,” as people say
+since slave-dealing has ceased to be publicly honorable. This free use of mukama is silently witnessing against the moral (?) behavior of civilized masters,
+white or colored, in the “ centres of civilization.”
+
+177. Maid,. The term expresses vigorous or hearty continuation of an action
+described in the preceding verb. Thus, kola maiS ! shout on, and loud ! Su -
+ngenu mai-enu! pull on, and hard! In the present case, Fenda Maria means
+to say this : I never washed the clothes (the slave girls always washed), let them
+
+178. Lelo , instead of lelu. Final -0 for final -u is often heard in the interior,
+where, in some places, the use of one or the other is merely a matter of taste.
+
+179* U-ngana, from ngana (see Grammar, p. 123), signifies in the first place
+“ the quality, dignity, and office of being a ngana , i. e., a free person, one having
+authority.” Keeping this first meaning in view, the word u-ngana is also used for
+chiefship, honor, glory, grandeur, majesty, splendor, for mastership, freedom,,
+liberty ( ufolo\ for kingdom, reign, government, and body politic.
+
+180. Utnba7ida ndenge . U-mbanda is derived from ki-mbanda , by prefix u-, as
+u-ngana is from 7igana. Umbanda is : (i) The faculty, science, art, office, business (a) of healing by means of natural medicines (remedies) or supernatural medicines (charms); ( b ) of divining the unknown by consulting the shades of the
+deceased, or the genii, demons, who are spirits neither human nor divine ; (e) of
+inducing these human and non-human spirits to influence men and nature for
+human weal or woe. (2) The forces at work in healing, divining, and in the
+influence of spirits. (3) The objects (charms) which are supposed to establish
+and determine the connection between the spirits and the physical world. When
+used to designate these objects, the word umbanda admits of a plural form, maujnbanda. Natural remedies for healing sickness, however, are not called ma -
+umbanda , but mi-longo.
+
+As to the meaning of the saying umbanda ndenge , in our text, it is somewhat
+obscure. There is a proverb, masunga kota, umbanda ndenge j literally, wits are
+superior (greater, stronger), medicines (charms) are inferior (smaller, weaker).
+The meaning is : natural and acquired ability will protect and exalt a man much
+more than charms or superstition. In other words, a man endowed with wisdom,
+but deprived of charms (amulets), is better off than a stupid man with any amount
+of charms. The relation of umbanda ndenge, in our text, to the words precedingit, may be made intelligible by the following paraphrase : Thou art engaged in a
+struggle with contrary influences (i umbanda ) ; but thou shalt conquer one day
+(according to the saying), umbanda is surpassed by masunga . By stretching the
+saying a little — and African sayings are very elastic — it can also be made to
+mean that a just cause will finally triumph over ill-will, and innocence or virtue
+come out victorious over its enemies.
+
+181. What a comforting power there is in being “loused” no one can imagine,
+who has not seen the blissful expression on the face of the Loanda girl, when, her
+head sweetly resting on another’s lap, she is being relieved of her troublesome
+customers. It is a token of friendship to catch another’s lice; and not an atom
+of shame attaches to those concerned. As the operator is pretty sure to be himself invaded by the tiny host, he or she often does the work gratuitously, with the
+understanding that the kindness will be returned (reciprocity). Among others
+than friends, it is customary to give a compensation. In Loanda, the average
+charge is from one and one half to three cents, according to the amount of trouble
+and risk incurred. One day, on dismissing my school at Loanda (to which onlypaying pupils were admitted), I noticed some trouble between two scholars and
+inquired after the reason. With a whining voice a little fellow replied : “ So-and-
+So refuses to catch my lice.” He considered that a great breach of school-fellowship. At Malange, a big fat worm, called katotola-jina (the lice-crusher), and
+which builds a most interesting nest, is used by the natives as louse-catcher.
+Placed on the wool of the head, it introduces its tiny head and strong claws into
+the tangled hair, ferrets out, and devours the unwelcome guests. When it has
+done its work, it is, without thanks, cast back into the bush.
+
+182. Lopa is the Portuguese “ roupa.”
+
+183. To tell a lie in self-defence, to cheat within certain limits, and to steal
+trifles in favor of a friend, are not condemned by the native standard of morality ;
+but, when found out or caught in the act, the author of such an act may feel
+ashamed of his lack of shrewdness.
+
+184. Papaii. When used absolutely, “father” and “mother” are rendered by
+papaii and mamaniij but as soon as the word is qualified by a possessive pronoun the forms f)ai and ntanii are the only ones to be used, e. g., pai etu , tnanii
+enu.
+
+185. Kuxi; about kuxi see Grammar, pp. 30 and 31.
+
+186. It is off with a fish, that is, it is carried off by a fish.
+
+187. This i is a vocative /, which is freely used where we, in writing, put a
+point of exclamation. It is also often added to a word, and drawn out to considerable length, when the person speaking is hesitating about what to say next.
+
+188. Kate ku bata. Before kati and the destination, the verb kuenda) to walk,
+or to go, is often left out, and must be supplied in the translation.
+
+189. Ku-kuata mu kibetu , literally, to catch in flogging, is synonymous with
+
+190. Kobidi is the Portuguese “cobre.”
+
+191. Seta is the Portuguese “cera,” i. e., bee’s wax. There is no other word
+for the trade-wax. But the wax of the honey-comb is called i-sela, or i-xila, the
+singular of which {ki-sela and ki-xila ) signifies a single cell of the honey-comb.
+To get the honey out of the comb, is called ku-kama o uiki mu ixila.
+
+192. Teeth of elephant, i. e., tusks of ivory.
+
+193. Di-konge. This is the genuine Ki-mbundu word for India-rubber, both as
+a plant and as an article of trade ; but the U-mbangala (Kasanji) word ndundu is
+gradually superseding it, at least in the interior. The Ngola and Holo tribes call
+it di-hoke ; the Ma-hungu call it mu-konge; some Mbaka people and the Mbondo
+tribe call it ka-nana. The Ma-songo, like the I-mbangala, call it ndundu; and
+the Ma-kioko pronounce this with a different intonation, giving the last syllable a
+higher tone.
+
+194. Tata (father) is often used without any definite meaning, as a euphonious
+pleonasm.
+
+195. Ji-maxu is the Portuguese “ machos.”
+
+196. Ma-soladi , sing, di-soladi, from Portuguese “soldado.”
+
+197. Mujika is the Portuguese “ musica,” and means, in these stories, a military
+band.
+
+198. On taking leave, it is customary for the one who goes to say xaT 4! that
+is, remain, or stay ! (with or without kiambote , i. e., well), and for the one who
+stays, to say : BixiP e (with or without kiambote , well), that is, arrive (safely at
+your destination).
+
+199. Compare this account of the Ma-kishi (singular Di-kishi, or Kishi) with
+those given in the Ma-kishi stories, N os. V., VI., VII., and others. The description
+of the Ma-kishi given by “ Piolho ” and other A-mbundu informants, agrees in all
+main points with that of the cannibals of the Zulu folk-lore in Dr. Callaway’s
+“Nursery Tales,” vol. i. pp. 28, 29, 33, 43 (many-headed monster), 145, 146, 157,
+esp. 158. Like “Piolho,” in the explanations asked of him, the Zulus describe
+the cannibals as wearing long tangled hair, which falls over their faces. This
+long hair, and the many heads of some Ma-kishi, are the only points in which the
+Ma-kishi of the A-mbundu disagree with their descriptions of the A-tua, or Batua, the famous pygmies of brown complexion, who are found in the great forests
+of all Africa east of the Niger, and who seem to be the aborigines whom the
+immigrant Bantu (including all the African Blacks or N egroes) had to fight and
+drive back before they could establish peaceful communities. But, though I have
+not heard of any pygmy tribe wearing long, tangled hair, or having the faculty of
+growing another head as soon as one is cut off, it does not shake my present
+belief that our Ma-kishi, the cannibals of the Zulus (. Ma-zimu ) and those of the
+Be-chuana ( Ma-rimo ) are the aboriginal pygmy tribes. Not so much as they are
+now, but as they appeared to the first Bantu settlers, and as they were by these
+incorporated into the semi-historic and semi-mythologic folk-lore of their race.
+
+
+270 Folk-Tales of Angola .
+
+The hydra-like heads of the Ma-kishi are an excellent symbol of the system of
+guerilla warfare common to all the Ba-tua (see Callaway’s “Nursery Tales,” p.
+354). It is strange that Callaway did not notice the similarity of his cannibals
+with his Aba-twa, so graphically described at pp. 353 and 354. His informants
+there declare that the Aba-twa kill those who say they did not notice them from
+afar, because they consider that an insulting reflection on their undersized stature.
+This is identical with the account of the Ba-tua given me by natives from different
+parts of Angola. (Concerning the Ba-tua in the forests of the Kuangu River, see
+the notes to my Vocabulary of U-iaka, which will be published with a number of
+other vocabularies in the Bulletin of the American Geographical Society, 1894.)
+
+200. Tenda! uatendela 'nil? could not be explained by any native I questioned on the subject. The expression is only used in connection with divining.
+The translation I venture to give is sufficiently warranted by similar questions
+and answers in the divinations of the A-mbundu.
+
+201. About the “sandu,” or “xald,” i. e., namesake, see note 85.
+
+202. Kuaki , from ku-kia , to dawn; ku-ma is the subject of ku-aki.
+
+203. Kezuatu , contraction of the genitive ka izuatu .
+
+204. Kia-lumingu. The full form is kizua kia lumingu , i. e., the day of
+lumingu . This lumingu is the Ki-mbundu pronounciation of the Portuguese
+“ Domingo,” which, again, is the Portuguese pronounciation of the Latin “ Dominicus,” i. e., the Lord. Therefore kia-lumingu means, in its Latin origin, the
+day of the Lord. It is used for Sunday. The days of the week, in Ki-mbundu,
+are, Sunday, kia-lumingu; Monday, kia-xikunda, from Portuguese “ segunda
+(feira),” i. e., second (holy day); Tuesday, kia-telesa, from “ terga; ” Wednesday,
+kia-kualata , from “quarta;” Thursday, kia-kinda , from “quinta;” Friday, kiasexta , from “sexta;” Saturday, kia-sabaluy from “sabbado.” In literary Kimbundu these exotic names will probably be superseded by the native names:
+
+205. Ngeleja, from Portuguese “igreja.” Compare ki-ngeleji, from “inglez.”
+
+206. Katalaiuy in Portuguese “ Catraio.” This name is particularly used as a
+proper name for male slaves. Katalaiu is generally a trusted domestic slave, not
+a plantation hand. Here, Katalaiu is evidently a faithful old slave of Nzud and
+Maria’s father; and he still respects in Maria his old master’s daughter.
+
+207. Ngan 9 a ndenge. This form is used in Loanda together with ngan ’ ia
+ndenge and ngana ia ndenge. In Malange, the latter, the full form, is the only
+one used.
+
+208. I abindamena ngenji. This expression denotes the exceeding beauty or
+goodness of the thing or things to which it refers. Ngenji , from ku-enda , to walk,
+is a traveller. But, as Africans always travel for trade, it is also used for trader,
+merchant. The traders, of course, desire beautiful articles to trade with ; and,
+being in the business, they are the best judges of the quality of goods.
+
+209. Kaluaji, from Portuguese “ carruagem.”
+
+210. Misa, the Portuguese “missa.” The blind and the cripples are regular
+attendants at church in Loanda, because the “ Misericordia ” benevolent fund
+has alms distributed to them by the priest on each Sunday.
+
+21 1. Id. Who these id are is explained in the following words, ni mujika ie;
+they are the men composing her band.
+
+212. Embamba, i. e., o imbamba. The Kisama people and some Quanza and
+Loanda people use this form, e- instead of o i-.
+
+213. On the remarkable law of preference or precedence which determines the
+use of the negative suffixed pronouns, when combined with infixed pronouns, see
+Grammar, pp. 78 and 79.
+
+214. Makutu mi ! This expression is not only not insulting, but it may be
+complimentary as expressing surprise, when it is known the person addressing one
+intended to cause surprise. It corresponds then to our “you don’t say so ! ” or
+“is it possible?” Intonation unmistakably shows in each case whether makutu
+me expresses contradiction, doubt, or astonishment.
+
+215. This se is not si “ without,” nor se “ if,” nor se “saying,” but an old negative particle. In Loanda they would say, ukala kota kana etc. The three negative
+particles of Ki-mbundu are: ne , se, and k’ ; the two first have almost disappeared
+in the modem Loanda and Mbaka dialects.
+
+216. Kuaki marks the beginning of day, ku-7ianga the spending of the day,
+ku-zeka the end of day, and the spending of the night.
+
+217. Ngonge is both the instrument used in a proclamation and the proclamation, order, or command itself. In the native towns, the herald shouts the proclamation in the principal thoroughfares. Sometimes he first calls the people’s
+attention by striking a native bell, or by sounding a bull’s horn. This horn, I was
+told, is also called ngonge by the Kisama people ; at Malange the name of the
+horn is kipanana . At Loanda it is called mbinga or mbungu. But ngonge , no
+doubt, signifies primarily a bell, and is synonymous with ngunga. A bell is still
+used for proclamations, and called ngongey by the tribes north of the Bengo and
+Dande rivers, i. e., among the Dembos (Ji-ndembu). The ngonge is made of
+iron, and consists of a double bell in the shape of U, each leg of the U representing one bell. There are no clappers in these bells. They are rung, or rather
+played, by striking with a piece of iron on either cup alternately. This native
+African bell has been noticed in many parts of the Continent, and is described in
+the works of several great African travellers.
+
+218. Saku is the Portuguese “sacco,” i. e., sack. The sum represented by a
+saku is thirty Portuguese, or nearly thirty-three American, dollars. It is called
+saku, because thirty dollars in Angolan copper money make up a man-load, and
+this is the sum usually put up in a sack when cash remittances are made to the
+interior. The two “ sacks ” promised by the Governor represent, therefore, about
+sixty-five dollars of American money, and their local value is best illustrated by
+the fact, that even now (1891) two young slaves could be bought with the money,
+at Loanda, while in the interior it would bring three or more adult slaves. Slavery
+is abolished, by law in all Portuguese dominions ; but the natives, even in Loanda,
+buy, sell, and own slaves without regard for the white man’s law. The same is
+the case in some English and other colonies.
+
+219. Kadifele , from Portuguese “alferes.”
+
+220. Thus far “ Piolho’s ” dictation of the story. The remainder, which is
+rather disconnected, was sent me to America by my former Loanda pupil, Domingos
+de Lemos, who was then employed at Bom-Jesus.
+
+221. Azalma / is the Portuguese “as armas!”
+
+222. Tuma ku k ’ ijia is an idiom for “ know thou well,” or “ mind.”
+
+223. Ngi bange favolo is, in pure Ki-mbundu, ngi bange kiadi.
+
+224. Kaleia is the Portuguese “cadeia,” i. e., chain or prison. In Ki-mbundu
+ku-ta mu lubambu is to put in chains (native jail) ; ku-ta mu 'aleia is to put in
+(Portuguese) jail.
+
+225. Ku-nganaiay from Portuguese “ enganar.” In pure Ki-mbundu, to deceive,
+is translated by ku-fumba, when synonymous with cheating, and by ku-ta makutu ,
+when no money or property is involved.
+
+226. Ku-folokala , from Portuguese “enforcar.” In Ki-mbundu, hanging is
+ku-nienga .
+
+227. This saying is not very proper. Nga Nzud must be very bitter to apply it
+to his wife. The meaning of the saying is, “we, the women, must be paid for,
+before we marry, because our bodies are a merchandise which, owing to the
+
+
+Folk - Tales of A ngola .
+
+demand, we can sell at any time.” With a few honorable exceptions, the mulatto
+girls of a poor mother are taught from tender childhood that their support, and
+that of their relatives, will depend on their making a profitable trade of their
+bodies with white men.
+
+228. There seems to be a short blank between this and the following.
+
+229. AlumazSy or lumazd% from Portuguese “armazem.”
+
+230. Kikusu is a fresh-water fish which is much relished, notwithstanding its
+countless bones.
+
+
+NO. III.
+
+Informant. Most of the stories in the present collection were, like this, dictated by a native of Malange, whose full Portuguese name is Jeremias Alvares da
+Costa, while his current name is Jelemfa dia Sabatelu, that is, Jeremiah, son of
+the shoemaker. His father was a shoemaker from Mbaka (Ambaca) who had
+settled at the court of Bangu, the head-chief of the scattered Mbamba tribe, and
+married a daughter of the chief’s elder sister. By this marriage the sons of the
+shoemaker belong to the royal family of the Mbamba tribe and are eligible to
+the chiefship. They are both Mbamba and Mbaka, but first of all Mbamba. The
+informant learnt his father’s trade, and has become his successor as shoemaker at
+Bangu’s village. In the natural course of events, he may also inherit the chiefship and become a Bangu himself, for the present presumptive heir is his uncle
+and he comes next to his uncle.
+
+In 1890 he came with me to America, and most of his stories were dictated
+at Vineland, N. J. A life-size model of him is to be seen in the Ethnologic
+Section of the National Museum, Washington. Since 1891, he is again with his
+family at Bangu’s near Malange (Malanji). Though by no means exempt from
+human and African frailties, Jeremiah has always been an abstainer from drink
+and native dances, and in all the time we lived together I have never known him
+to tell a lie, or steal, or behave unseemly.
+
+Dialect. The informant is equally familiar with the Mbaka dialect of his
+father and the Mbamba dialect of his mother. This story is entirely Mbaka,
+both as to dialect, origin, and dramatis personas.
+
+Comparative. The first part of the legend, where Kimanaueze’s wife will eat
+nothing but fish, and thus overtaxes the River’s kindness, appears differently told
+in Story No. IV. of Loanda. The metamorphoses into a variety of animals are of
+frequent occurrence in all Bantu fiction.
+
+The marriage of Kimanaueze’s son with the Governor’s daughter seems to be
+identical with that of Kimalezu’s granddaughter with the Governor’s son. (Story
+still unpublished.) In the Bantu languages, where the same word means either
+son or daughter, a confusion of sexes is quite natural.
+
+In Schlenker’s “Temne Traditions” (London, 1861) p. 89, the Temne hero
+Tamba renders some services to animals who, in return, give him instructions,
+which later on greatly help him to win the daughter of the King, whose successor
+he becomes; all very much like Nzud’s experience with the beasts and the
+Governor.
+
+Passing from Sierra Leone to the extreme southeast corner of Africa, we find,
+among the Zulus, Ubabuze, who like Nzua is deprived of men and oxen by wild
+beasts, but saved by a mouse, on whose skin he is lifted up in the air, and carried
+to his damsel whom he marries. (Callaway’s “ Nursery Tales,” p. 97.) As to the
+personification of the river, compare the one reported by Du Chaillu, “ Equatorial
+Africa,” New York, 1890, p. 358.
+
+The Portuguese stories “A Torre Babylonia” and “A Torre Madorna,” whose
+fundamental outline is found in the folk-tales .of many other nations, have some
+resemblance to this number. See “ Contos populares,” by Ad. Coelho, p. 34, and
+“ Contos nacionas,” by the same, p. 50.
+
+231. Kilundu kia makatnba. This expression, it seems, is not known in Loanda. The informant says it signifies “ possessor of many friends,” i. e., a popular man. Ki-lundu is a non-human spirit, the same as di-bamba. Ku-lunda is
+to lay aside and keep in a safe place. See note 620.
+
+232. Uatunga , uasoma. Used both at Loanda and in the interior. Ku-tunga,
+ku-soma is an idiom, signifying to build one’s house, marry, have children, cattle,
+and get on. The tense used here is preterit III., indicative of a distant past.
+The preterit II. is uatungile , uasomene , and preterit I. is uatungu , uasomo . This
+tense implies that the action is still fresh, recent.
+
+233. Na mvuale je. Na mvuale is the title of the chief’s head-wife, and corresponds, therefore, to our Queen. This use of the plural concord (ie) with a
+singular noun (mvuale), as a sign of respect, is remarkable. It is also used with
+the prime-minister, e. g., ngolambole je, but neither with the chief’s title soba nor
+with di-kota , head-man. To show somebody respect by this use of the plural is
+
+234. Mbiji ia menia. In the interior, the word mbiji, in the plural form jimbiji, is used to denote meat or vegetables eaten with the staple funji (mush).
+Mbiji is one of the general Bantu words for meat ; and so mbiji ia 7?ienia , i. e.,
+the water-meat, was probably the first denomination of fisb. In modern Kimbundu, 7nbiji is used almost exclusively for fish.
+
+235. Katumua , from ku-tuma , to send, to command. The regular passive form
+of the Bantu, formed by the insertion of u before final a, which has disappeared
+as a living form in Ki-mbundu, is still preserved in this word and a few others.
+Katumua means “ messenger.”
+
+236. Uxi. This is the most common form in the interior for uixi ; but they
+never say axi for exi, which proves that -ixi is the root, even in the dialects of the
+interior.
+
+237. Lukala is the largest affluent of the Kuanza River, which it joins at Massangano (. Masanganu , confluence, from ku-sangaTta , to meet).
+
+238. Ku-ta77iba is used only for fishing with nets (ma-uanda) and with the large
+fish-baskets, used solely by women, and which are called i-sakala. These are like
+the mi-zua, only larger. With the mu-zua the verb to be used is ku-kuata for
+catching (fish), while ku-luTtga is used for the setting of the basket-trap. With
+hooks, the verb for catching is ku-loua.
+
+239. Ngidia-hi? In Loanda ngidia-nii? or ngidia'nii f The absolute form
+is inii in Loanda, ihi in the interior.
+
+240. Kizu ’ eki, or kizu' okio, or kiztia kimoxi, can all be used for “one day”
+when beginning an episode in a narrative. In the folk-tales of Louisiana negroes,
+the expression “ this day ” for “ one day ” is also met with.
+
+241. Mbanza signifies really the house, yard, and adjoining huts belonging to
+the chief and his wives ; that is, his residence, his court. It also means capital,
+for it is applied to the whole village inhabited by the king. In the Mbaka, as in
+most inland dialects, mbanza is moreover used for the chief himself.
+
+242. Ubixila , in Loanda ubixila. The natives of the interior pronounce the x
+of Loanda like tsh , in words which in the Bantu mother-tongue had a /. It only
+occurs before and the change of the ancient t to x and x is due to the presence
+of this Mu-ti (tree) becomes 7iiu-xi in Mbaka, mu-xi in Loanda.
+
+243. Koxi, boxi, moxi, are contractions of ku o 'xi, bu o 'xi, mu o 'xi. Compare
+
+244. Ha or ba is the word used by the Mbaka, and other inland tribes, for the
+Loanda word anga , or inga, meaning, “ whether, or, if, and, then.”
+
+
+274 Folk -Tales of Angola .
+
+245. Kiximbi is the spirit or genius who is supposed to be lord of a river or
+lagoon. It may be masculine or feminine. In Loanda, the same genius (dihamba , di-bamba or ki-lundu) is called Ki-anda or Ki-tuta . See Nos. IX. and L.
+
+246. Ku di ijila , to come spontaneously, unsent, unbidden ; from kuiza. The
+form is a combination of the reflexive (di) with the relative (-ijila) verb.
+
+247. Imana / “ stand ! ” is also used for “ stop 1 ” Ku-im-ana is a medial form
+of ku-im-ika , to erect, hence to stand erect.
+
+248. The first time, the fisherman pulled the net barely out of the water ; then
+he let it drop and ran. The second time, he dragged it on to dry land.
+
+249. Mundu is the collective of mu-tu. As a collective it has no plural form.
+It means “ crowd, congregation, tribe, nation, mankind, world.”
+
+250. Among most tribes, to the farthest interior (Mbamba, Ndongo, Mbondo,
+the chief is approached in the manner here described, by a subject as well as by a
+stranger. That is, the subject or the stranger sits down on the ground, throws
+himself flat on his back, then bows forward and touches the ground with his chin.
+The Mbaka tribe (i-mbadi) and their offspring are exempt from this custom.
+The Ma-kioko and Ma-shinji, in addition, pick up dust and rub it on chest and
+chin.
+
+251. Kalunga . This word is used to signify: (1) death; (2) the personification
+of death in the shape of the king of the nether world, called Kalunga-ngombe,
+and the world of shades itself ; (3) the ocean ; (4) an interjection of wonder ; (5) a
+title of respect, given to a chief, and, among the I-mbangala, to every freeman of
+some importance.
+
+252. Mi. This is the objective of the personal pronoun, second person plural,
+in most dialects of the interior, which use mu - for the prefixed subjective. In
+Loanda nu is used for both the prefixed (subjective) and infixed (objective) pronoun.
+
+253. Kunuj in Loanda kuku.
+
+254. Mahezu. What the original meaning of this word is no one has been
+able to tell me thus far. Its use, however, is plain enough. It stands like our
+“ amen,” after a prayer, as the word signifying that the speech has come to a
+“full stop;” that the speaker or talker has reached the end of what he wanted to
+say. To this mahezu the other party answers a Nzambi, that is, “ of God.” The
+word mahezu is probably imported from a dialect or language of the far interior.
+
+255. Ngolambole , composed of Ngola (probably old Ki-mbundu for nganay
+Lord) and mbole, i. e., hunt; hence, “Lord of che hunt ” (ngola a mbole). It is
+the title of the chief’s prime minister, and presumptive successor, if he be of
+royal blood and closely related to the king. The other royal officer is the sakala
+or tandala, that is the secretary, who, in the Kuangu basin, is almost invariably
+a Mbaka-man. The council of the ma-kota , or elders, is the legislative body (parliament) of the tribe, while the king, with his cabinet, is the executive, wielding
+absolute power as long as he is constitutional enough to keep in favor with the
+ma-kota.
+
+256. In the interior, only the chiefs and civilized Mbaka men are allowed to
+sit on a European chair. The elders may sit on native stools; the plebeians and
+slaves sit on mats, or on the bare ground.
+
+257. M’o’xi, in Loanda mu 'xi. Written in one word, ?noxi, it signifies
+“ under.”
+
+258. Palahi. or Paid hi? in Loanda pala’nii? composed of pala (Portuguese
+“ para) ” and inii, i. e., what ? The purely Ki-mbundu equivalent is mu konda
+dia ’hi? in Loanda mu konda dia ’nii?
+
+259. Mann, with accent on last, long, and nasal syllable, is an interjection signifying “ I, or we, don’t know.”
+
+
+260. Iu doxiy iu lulu, is an idiom signifying “ he, or she, is restless.”
+
+261. In the interior, when a woman is going to give birth she generally goes
+out, with female assistants, into the bush, and delivers there, out of sight of the
+men.
+
+262. Kit ala, like kisoko , is both size, or stature, and age.
+
+263. A-ba , or o-ba , signifies “take.” Compare with ku-ba , to give. They also
+say ama.
+
+264. Monde , possibly from Portuguese “montar,” i. e., to mount, ride..
+
+265. Ku etna, often used in the interior for ku dima. In U-mbundu, and other
+dialects, the prefix di- is often substituted by the prefix e-y or, more correctly, by
+the old article e-.
+
+266. Bu kota dia muxi , is “at the foot of a tree,” in the same sense as we say
+“ at the foot of a mountain.” The kota of a tree is the space and the ground
+around it, as far as its shade extends while the sun is high.
+
+267. Xitu is “ flesh, meat,” used, as in the Bible, to signify all animate beings,
+but especially animals used for food, and par excellence “game.” Ki-ama is a
+ferocious animal ; ki-bamba , a reptile or an insect, a crawling animal.
+
+268. Mu ngongo is never used in Loanda as one word ; but in the Mbaka
+dialect it may be spelled and used as mungongo, a noun of class II. Only the
+doubled use of mu (mu mu-ngongo) is to be avoided.
+
+269. “That made God,” an inversion, which, straightened out, means “that
+God made.” The rule No. 8 of the twelve laws of Bantu grammar, formulated
+by Lepsius, that the subject is always placed before the verb, and the verb before
+the object, is not to be accepted without reserve.
+
+270. Mbunda is really the soft part between the ribs and the hips, called waist.
+But, by extension, mbunda is most frequently used for any bottom : in animals,
+men, baskets, bottles, and other things. Compare mbunda, meat, in the Kuangu
+
+271. Kakele, from ku-ila , imperative future III.
+
+272. Teleji! looks like Portuguese “tres,” three, used to introduce a conjuring
+formula. The meaning of these formulae is intentionally obscure or unintelligible.
+
+273. Ngudi signifies wolf, or hyena, in the U-mbangala dialect.
+
+274. The njinji is a wild cat looking like a leopard, but smaller.
+
+275. Bana mu kanu , literally, “ give the inside of mouth,” graphic for “ hold out
+thy open mouth.” On spittle, cf. “Journal American Folk-Lore,” 1890, pp. 51-59.
+
+276. As tlj£ njinji and the leopard (ingo), so the mukenge and the mbulu ase
+close relatives.
+
+277. Hadi, meaning hardship, in the interior, is, in Loanda, an objectional word
+for dung.
+
+278. Kikuanzomba; this name of the hawk is only used in fiction ; it is, we
+might say, its poetic name.
+
+279. Kabungu is any tailless bird. The Holokoko looks, indeed, as though his
+tail had been clipped ; and for this reason science has named him Helotarsus
+ecaudatus . He is celebrated for his high flight, which gave rise to this laudatory
+saying of him; “ uate (or uasua ) mbambe ni diulu (or dilu)P i. e., he set the boundary with the sky, or, he touches the sky. Compare these “ poetic ” names with
+the “laudatory” names in South Africa.
+
+280. Mutu a lubila-suku. This is the “poetic” name of man. The translation given in the text is a mere guess, suggested by the sound of the words. It
+may be more correct to write Lubi la (lua) suku. See note 628.
+
+281. Mon ’ a ?nundele, i.e., “young white man;” also applied to a civilized
+native.
+
+
+276 Folk - Tales of Angola .
+
+282. Muania is the heat and light of the sun; daylight and noon-heat. In
+Loanda, the word is pronounced luania.
+
+283. Ma-letd , sing, di-letd, from Portuguese “leitao.”
+
+284. Muha7Jiba is the long basket in which goods are packed for carrying on
+head or shoulders.
+
+285. Ua ngi lambela-u, would be in Loanda ua ngi lambela-mu , or ua ngi
+Jambela namu.
+
+286. In the interior, the prefix of the futural present is often used with the
+final form of the preterit I., or vice versa.
+
+287. Ku-kuata ku minangu, an idiom, meaning to pass time doing nothing, at
+least no manual work.
+
+288. Tu'ele, contraction of tua + ile, preterit II., of ku-iaj not to be confounded
+with tuedi , preterit I., from ku-ila.
+
+289. Ku-londekesa is “ to show a thing not seen before ; ” double causative of
+ku-londa, to see for the first time.
+
+290. To express “entire, whole/’ the A-mbundu say “of entireness.”
+
+291. The infinitive is used instead of the personal form to give more animation
+to the style.
+
+292. Ngaielu , from Portuguese “gaiola.”
+
+293. Dikolombolo didianga , the first cock (-crow), means about midnight. At
+an interval of about one hour, or a little more, follow dikolojnbolo dia kaiadi ,
+dikolombolo dia katatu, and dikolombolo dia kauana. The latter is synonymous
+with kuma kuaki , i. e., dawn, which is regularly about 5.30 A. M. Dikumbi dia -
+tundu is said when the sun is just up.
+
+294. Mueza , the same as ueza. In the interior the ancient form of the concording prefix for class I., sing, mu -, is sometimes used for the usual u-.
+
+295. Ni boxi ni bu-lu , i. e., from head to foot, with the special meaning “ having
+foot-wear and head-wear.”
+
+296. Ku-takena , contraction of ku-takanena of Loanda, or ku-takemna of
+Mbaka.
+
+297. Utokaj in Loanda utokua.
+
+298. See Grammar, p. 104.
+
+299. Ku-kalakela , contraction of ku-kalakalela, relative form of ku-kalakalay
+to work.
+
+
+NO. IV.
+
+Informant. Joao Borges Cezar, a nephew of his namesake, the informant of
+No. I. J0S0 had been iot one year in my school at Loanda, and on my return to
+Europe accompanied me to Portugal, England, and Switzerland, where he learnt
+French; and subsequently to America, where he learnt English and some German.
+
+Dialect. That of Loanda.
+
+Comparative. This Loanda story is not unknown in the interior, as is proved
+by the first part of Noi III. See also “Journal American Folk-Lore,” 1889, p. 37.
+
+In “Etudes sur la langue S^chuana,” by Eugene Casalis, Paris, 1841, p. 100,
+there is a Se-suto story of a woman, who insisted on having the liver of a certain
+animal, until her husband got it for her. When she had eaten it, such an internal
+fire consumed her, that she went and drank up the whole lagoon of the desert.
+Elephant, the king of the animals, punished her for the thirst thus inflicted on
+his people, by having the ostrich tear up her abdomen, from which the water
+flowed back to its former place.
+
+300. Ku dima dia kukala , literally, “back of being,” idiom for “long, long
+ago.” In the interior they say m' uxahulu.
+
+
+301. Kit-sema , to crave, long for a special kind of food. Not used in Mbaka.
+
+302. Ku-didika and ku-ludika are synonymous forms in Loanda. In Mbaka
+the form ku-idika alone is used. Ku-id-ika may be a causative form of ku-ila .
+
+303. Huta is food (provisions) for a journey.
+
+304. Ku-ivua , generally translated by “ to hear,” means really “ to feel with any
+of the senses, except sight.” So one may ku-ivua an odor, a flower, a sound,
+heat, or cold; but not an object apprehended by sight. Hence Angolans, and
+many other Bantu, when speaking a European language, often use such expressions as “ I heard a bad smell ; ” “ Let me hear it,” instead of “ Let me taste it ; ”
+u Don’t you hear the cold, or the heat ? ”
+
+305. “ It is heavy,” refers to the net, as the prefix u- in uaneme shows.
+
+306. King anji for kinga hanji. The abbreviated form anji is commonly used
+in Loanda, the full form hanji in the interior.
+
+307. Muku1 enu , thy fellow, companion, friend, stands for “ I, who am speaking
+to you ; ” mukua-mona, owner of a child, parent.
+
+308. UalalA / ualald / An onomatopoeia for the rustling produced by something passing through the dry grass. To this Loanda word correspond the Mbaka
+synonyms uaid ! uaid ! and fotofoto /
+
+309. Ku-kuvitala , from Portuguese “ convidar.”
+
+310. Mu kanga is “within, or in the centre of, a cleared space,” also “in distance.” Bu kanga is outside. Here mu kanga means “in the yard.”
+
+
+NO. V.
+
+
+Dialect. Mbaka.
+
+Origin. Though written in pure Mbaka dialect, this epic in prose does not
+seem to belong to the A-mbundu branch of the Bantu stock. It is current among
+the Mbamba tribe, which, with the Ma-hungu tribe, forms a connecting link between the A-mbundu and the Ba-kongo. The original seat of the Mbamba tribe
+is the old Duchy of Mbamba in the Kingdom of Kongo, south of the lower
+Kongo River. The Mbamba with whom I am personally acquainted live scattered,
+as welcome strangers, among the A-mbundu of the District of Malange. Their
+chief settlements are found (1) on the Lombe River, (2) in the vicinity of Malange,
+(3) on the Kambu River. The head-chief of all the scattered Mbamba is old
+Bangu, whose residence is rather less than a mile northeast of Malange. (See
+note about Informant of No. III.) Well do I remember my first visit to Bangu in
+the beginning of 1887. Then I knew but little Ki-mbundu, yet enough to understand from Bangu’s eloquent speech that he was a vassal of the King of Kongo,
+“the elder brother of the King of Portugal,” and that his people had come to
+this region from Mbamb’ a Mbuila. The exodus of the tribe seems to have
+taken place about a century ago. The emigrants probably moved along the
+upper course of the Lukala River, then down the Lombe valley. It was from Lombe
+that the Malange settlement branched off under the predecessor of the present
+Bangu. (See my vocabulary of Mbamba in Dr. C. G. Biittners “ Zeitschrift fur
+Afrikanische Sprachen,” Berlin, 1889, January.)
+
+Since writing the above, I have had the pleasure of meeting in Loanda (in April,
+1892) the ndembu Mbamb’ a Mbuila himself, who had come to Loanda, with his
+tandala and several ma-kota, to transact some business and visit the Governor.
+He and his attendants were highly surprised to see a white man posted on Mbamba
+matters. They confirmed the linguistic and ethnic identity of the Malange
+Mbamba with those of Kongo.
+
+
+2 yS Folk - Tales of A ngola .
+
+Comparative. The grandfather of the hero being Kimanaueze kia Tumb’ a
+Ndala, and his son Nzu£ a trader, the story is thereby connected with others of
+Kimanaueze’s cycle.
+
+It also belongs to the Ma-kishi stories. Kinioka, the serpent, appears also in
+four manuscript stories of my collection. The description of the spirit world
+fully agrees with that given in No. XL. The scene in which the hero is swallowed
+by the fish reminds us of one in the unpublished story of Kabindama and a number
+of similar swallowings in universal folk-lore.
+
+In “ Etudes sur la langue Sdchuana,” by E. Casalis, Paris, 1841, p. 97, there is a
+legend of a hero, Litaolane, who behaves very much like Sudika-Mbambi ; only the
+enemy he conquers is not a Ma-kishi tribe, but a huge monster, Kammapa, who had
+eaten up the human race. The latter is saved by Litaolane, who after being swallowed too, kills the monster and leads the victims out of their stomach-prison.
+Casalis suggests, without affirming, that this might be a tradition of the Saviour’s
+contest with Satan, whom he conquers by his very death ; but evidently, as in the
+case of so many supposed traditions of the Deluge, the resemblance is merely
+accidental.
+
+The life-tree, which thrives, fades, and dies simultaneously with the absent
+hero’s life, is common to the folk-lore of all racial stocks. In the Portuguese folktales, it recurs in many places.
+
+It would be easy to find epic heroes whose careers coincide in many points with
+that of Sudika-Mbambi, but that would throw little light on the question whether
+this story is originally native, or imported, and whence. The Portuguese and
+Italian parallels alone are important in this respect. In the a Contos populares
+do Brazil,” p. 69, No. XIX. has all the appearance of another version of our story ;
+it is itself only a version of a Portuguese story which belongs to the cycle of
+Gargantua (op. cit. p. 215) and may be seen in No. XLVII. of Theoph. Braga’s
+“Contos tradicionaes ” and in No. XXII. of Ad. Coelho’s “Contos populares.”
+Still as the story seems to belong to the Mbamba exclusively and as these are
+fanatically opposed to any innovation, the probability is against a Portuguese
+origin.
+
+The epilogue of Sudika-Mbambi’s legend is remarkable, as it makes of it a
+meteorologic myth, one brother representing the thunder-clap, the other the echo
+roaring back from the opposite side of the cloud-world.
+
+31 1. Sudika-mb&mbi. Ku-sudika is a dialectic variation of ku-tudika^ which
+signifies “ to hitch, or hang on, or in, a high place ; ” mb&mbi is “ antelope.” Both
+words go to make up a pretty good descriptive name of the thunderbolt “ up on
+high, in the clouds, leaping to and fro like a deer.”
+
+312. Kindaula is pronounced kindala in the Loanda dialect.
+
+313. She is so changed that she recognizes him sooner than he her.
+
+314. Xibata, the Portuguese “espada.” The Portuguese word “chibata”for
+switch, stick (to beat with), and “chibatada” may possibly be derived from the
+Ki-mbundu word re-introduced into Portuguese with a modified meaning.
+
+315. Kilembe is a mythic plant, which we translate by “life-tree.” Its peculiarity was that it flourished, withered, and died simultaneously with the life, peril,
+and death of the person with whom it was connected, just as the quicksilver in
+the thermometer rises and falls with the temperature.
+
+316. These verses are somewhat obscure ; probably intentionally so.
+
+317. Lukula is the redwood or camwood tree. The word hikula is Mbamba ;
+in the Mbaka dialect it is hula or lu-hula. The Portuguese call the tree and wood
+“ tacula.” The wood is used in many ways, as a dye, or medicine, and it constitutes an important article of purely native commerce and industry.
+
+318. The song of Kabundungulu is more mysterious than his brother’s.
+
+
+319. Nuanda , abbreviated form of nuandala , is used in the Mbaka dialect as
+an auxiliary verb in the formation of the future tense. It is from this shortened
+form that the contracted future of Loanda -ondo- (or -ando-) is derived (- anda kubanga, -anda ’ u-banga , anddbanga , and lastly ondobanga by retroactive vowel
+attraction).
+
+320. Adi etu (from sing;, mu-adi \ master). In the plural {adz) it signifies
+“ parents.”
+
+321. The principal stages in native house-building are : (1) the cutting of poles
+() ma-soko ), (2) the erecting of the same, as skeleton of walls and roof {ku-kuba),
+(3) the tying {ku-tata) of wild cane or other poles horizontally across the erect
+poles, (4) the thatching {ku-zatnbela) of the roof, (5) the filling up of holes between
+the sticks of the walls, either with mud {ku-bebeka\ or with thatch {ku-xita).
+
+322. The wall poles must be set up in a deep foundation ditch, or the house
+will soon tumble over. To erect a house on bare rock is pretty much an impossibility.
+
+323. Di-kumbi is the sun; and “one sun” signifies “one day.” In Loanda,
+di-kumbi is also used for “hour,” or rather “o’clock; ” e. g., kumbi dianii ? at
+what time of the day ?
+
+324. This is somewhat obscure. Mztezu signifies both beard and chin.
+
+325. Kijandala-midi evidently signifies “ who eats a thousand,” from ku-jandala
+and midi j the following “a hundred only serve to rinse my mouth,” confirms
+that meaning, and is itself made intelligible thereby.
+
+326. Di-tutu is what has been called by African travellers the “ prairie,” or
+“ campine ” or “ park-land.” It is an open country, covered with the tall grass of
+Africa, and strewed with shrubs or trees, in some places denser than in others,
+but never thick enough to touch each other and prevent the growth of grass between them. Muxitu is the thick forest, as found along the banks of rivers, in
+damp hollows, and on moist slopes. In the Mbaka dialect, mzi iangu and mu tutu
+are pretty well synonymous. In Loanda any uninhabited stretch (wilderness) is
+called muxitu. Englishmen in West Africa give the name “bush” to both muxitu and di-tzitu.
+
+32 7. Kuaki mu kimene ; this expression is not used in Loanda.
+
+328. Ku-xina, “ to fight, beat,” belongs to the inland dialect, and is not known
+in Loanda. The Kisama tribe also use it.
+
+329^ Ku-jika signifies “to press on something,” hence “to close” (of door):
+also “to secure” by holding tight in place under some weight. In this case, the
+Kipalendes were not killed, but held on the ground by a stone too heavy to be
+rolled off, but not heavy enough to crush the life out of them. Ku-jik-ula is the
+reverse of ku-jika.
+
+330. Sudika-mbimbi, it seems, had the gift of second sight.
+
+331. Ku-bana mueniu , literally “to give life,” signifies, when used with an
+object (accusative), “to save,” and when used alone, “to be saved, to escape.”
+Kiba-mueniu signifies “ savior,” literally “ life-giver.”
+
+332. Ngandu is a coarse mat, made of papyrus {ma-bu) ; dixisa is a fine mat
+(made of senu grass) which is spread on the ngandu, so as to make the couch
+softer ; di-bela is the finest mat, made of palm-fibre.
+
+333. Ku-lela , in the interior, signifies “ to wither; ” in Loanda, on the contrary,
+
+334. This is a case of a half-person ; or rather of one that had the gift of separating the upper part of the body from that below the waist. Compare the halfwoman in No. I.
+
+335. Ku-idika is not used in Loanda. Here they say ku-dikiza or ku-dikisa.
+
+336. It is a funny coincidence that this “ narrow path ” leads to destination, and
+the “wide one ” to “ perdition ” (the lost estate). Cf. p. 309, Additional Note .
+
+
+337. Ndungu , in botany, Capsicum sps.- It is very common all over Angola,
+and is freely used by the natives. This is a pun, based on the similarity of ndungu
+and ndunge. Compare “ sharp ” as applied to pepper and as synonym of “ shrewd.”
+
+338. The Angolan Pluto also has his Cerberus.
+
+To “ spread for one ” (a mat) is the same as giving him a bed.
+
+339. Ku-kunda ( mutu ), is to ask one all the polite questions included in native
+greetings or salutations. Ku di kunda, “ greeting each other,” includes all questions and answers on either side. Examples of ku di kunda are found in several
+of these stories, e. g., on pp. 163, 171.
+
+340. The ngalu is a small basket, sometimes of quite an elaborate pattern, and
+so tightly woven that it is watertight. Therefore it can be used as a dish for
+funji, instead of a platter or dish.
+
+341. Hama , from Portuguese “cama;” as “hala” from Portuguese “cal,”
+lime. The native word for bed is kudidi, in the interior, and madidi in Loanda.
+Ma-didi is a plural form of ku-didi.
+
+342. The driver-ants are celebrated for their voracity and pugnacity.
+
+343. Niuki, so in the interior. In Loanda it is pronounced niiki.
+
+344. Ki-mbiji is “ Big-fish ; ” di-lenda , sing, of ma-lenda, is the largest river-fish
+about Malange ; ngandu is the crocodile. This ngandu is pronounced with another intonation than ngandu , a papyrus-mat
+
+345. Di-letd, from Portuguese “ leitio ; ” with Ki-mbundu prefix di-. Compare
+Nzud from Joao, papinid from pavilhao, but kabitangu from capit2lo.
+
+346. Nzolo , from Portuguese “anzol.” For catching crocodiles, the natives
+make a hook of crossed pieces of hard wood, with both ends sharply pointed, and
+on this they stick a suckling pig as bait. On swallowing the pig, the crocodile gets
+the sharp pieces of wood stuck in his throat or stomach, and can then be pulled
+ashore, provided the rope and the men are strong enough. A single man would
+naturally have to let go or follow the beast into the water, as Sudika-mbambi did.
+
+347. Ku-budijika is derived from ku-bula, to break, by the following process:
+of medial relative. See Grammar, pp. 91, 98, 99.
+
+
+NO. VI.
+
+
+Dialect. Mbaka, but story of the Mbamba, as the one preceding.
+
+Comparative. In this story the Ma-kishi appear only human beings,
+though adepts in cannibalism. There is no monstrosity about them, nor can they,
+perform anything superhuman. Cf. “Journal American Folk-Lore,” 1890, p. 319 ;
+also 1891, p. 19.
+
+As in No. VII. and manuscript stories, the river plays an important part as a
+barrier between the pursuers and the pursued. The dropping of tiny objects to
+delay the pursuer, who can’t help picking them up, belongs to the folk-lore of all
+races.
+
+348. Ka-sabu, diminutive of sabu. In the interior, at least at Malange, a musoso is sometimes called sabu or musabu, which is the word generally used for a
+proverb. In Loanda, the distinction between mu-soso , a fictitious tale, sabu , a
+proverb, and nongonongo , a riddle, is observed more strictly than in the interior.
+
+349. Kixibu. From this the Portuguese Creole “ cacimbo,” with the additional
+signification of dew, is derived by the same process as the Creole “ cacimba ” (a
+well) from kixima. That is, ca- for ki-, and ci for xi.
+
+350. Kitumba , like di-tutu , is not known in Loanda, because there are no
+prairies around the city.
+
+
+Note r\
+
+
+351. Ji-p-uku. House-rats (ma-bengu) are not eaten, but land or field rats are a
+delicacy. A great variety of species is found in the Angolan, as in all the African,
+prairies.
+
+352. Puku ia dixinji is one of the numerous species of field rats.
+
+353. The song is not in Ki-mbundu proper, but mixed with words of a Kuangu
+dialect. Kazenze stands for dixinji; mulenga for dibia or iangu; bakti etu
+bakuata for aku ’ etu akuata; kamue for kamoxi. Ku mulenga is the chorus.
+
+354. N' aku'd is an idiom, instead of aku' &, probably in order to avoid a
+hiatus.
+
+355. Ku-ongolola, the same as ku-bongolola.
+
+356. Ka-di, common in the interior for ka-iadi.
+
+357. Lelit , to-day, is often used with the signification of “ soon.”
+
+358. Ku-tuam-ek-esa) double causative of ku-tuama. See Grammar, p. 97, note
+
+359. For the music to songs, see Appendix.
+
+360. The meaning of kelekexi is only guessed.
+
+361. Ukoto is the Sesamum Indicum of science. It is grown only on the high
+plateaus of the interior. Luku is the Eleusine coracana of botanists.
+
+
+NO. VII.
+
+
+Dialect. Mbaka ; but the story is Mbamba.
+
+Comparative. In this story the Ma-kishi are simply Ba-tua, stripped of all
+fabulous additions.
+
+The conclusion of the story brings this tale into the class of those which try to
+give the origin or the cause of certain habits or natural phenomena, and which
+may be called the aetiologic class. See Additional Note , p. 309.
+
+The fact that the salvation of the adults is due to the obstinacy of an innocent
+child reminds one of a corresponding case in Kimona-ngombe’s story, No. XV.
+
+362. That is, “We won’t take you with us.”
+
+363. Elliptic form of speech : “ ( I will insist, or persist) until I have gone with
+you.”
+
+364. fCu-sungidisa, causative of ku-sungila, which signifies to chat, to visit, and
+entertain each other, in the evening ; a favorite occupation of the leisurely Africans. The causative is synonymous with “to entertain,” but only after dark.
+In daytime, it is ku-nangesa.
+
+365. The Ma-kishi’s, or Ba-tua’s, language having disappeared from the memory
+of the A-mbundu (if they ever knew it), they substitute for it in their tales the
+dialect of some distant, uncivilized tribe with whose language they are somewhat
+acquainted. In this case, the dialect us 2d for the Ma-kishi’s is that of the Makolo , who live between the Luiyi and Kambu rivers, both western affluents of the
+
+
+The final -i in ngingi is pronounced very long, because the words are sung.
+
+366. The first three verses of the little girl’s song are obscure. The differing
+words are :
+
+
+367. Ku-tenda is “ to consider too small, insignificant, miserable,” that is, “ to
+despise.” The reflective ku di tenda is “to consider unsatisfactory for one’s
+self,” that is, “ to complain about.”
+
+
+282 Folk -Tales of Angola.
+
+368. The use of manii for “ in order to ” occurs only in the interior, and very
+seldom at that.
+
+369. Ndololo is not used in Loanda.
+
+370. Ku-lekela is not used in Loanda. Here they say ku-xalesa.
+
+371. Kizua. In the interior the day is sometimes counted from noon to noon,
+and then midnight is called mid-day. So in this case.
+
+372. Id is a contraction of the Mbaka dialect for id ala (mu buabua). The -a'
+is pronounced very long, as it represents three letters a.
+
+373. The Ma-kishi would probably refrain from eating “sick meat;” hence
+their concern.
+
+374. That is, “ the other people, the women and children and slaves who are
+not at the * soiree,’ are all gone to bed ; ” then the party breaks up, and the Makishi retire to their huts.
+
+375. Homba is the hollow between the breasts. As the native women, when
+they wear a long “ panno ” (cloth), tuck it up about that hollow, they also fold in,
+or tuck in, securely, whatever we would put in our pockets. Hence the verse and
+rhyme in a Loanda song :
+
+
+“ Madika of Paul,
+
+Her bosom is a trunk.”
+
+Ku-fuxika is causative in -ika of ku-futa; the transition from ku-futika to kufuxika is as natural as that of si to ji and si to xi. See Grammar, p. 38.
+
+
+377. Manianiu , in Loanda raa-kanda.
+
+378. The subjunctive implies that the Hawk is, of course, not indifferent to the
+prospect of a reward : “ Save us, that we may give thee a reward.”
+
+379. Ni tufu for ni iufue. In the inland dialect the preterit I. is sometimes
+used for the futural present or the subjunctive.
+
+380. A-manii etu for ji-manii jetu , because ?nanii etu is, in this case, considered
+and treated as a proper name.
+
+381. Abuila. To have the same word for being tired and being disappointed
+may seem strange to some, yet, in Ki-mbundu, it is rational enough. Ku-buila
+(from ku-bud) is originally, “ to be exhausted (empty, finished) from some cause
+or other,” hence “ to be done, to be broken or knocked up, to be unstrung, to be
+down in the mouth, to hang one’s head, to give up, to be weak, faint,” etc. Try
+to sketch disappointment in a man’s picture, are you not going to represent him as
+“tired”? Disappointment is the collapse of mental and moral effort, just as
+fatigue and prostration is that of physical effort.
+
+382. Ku-mona, to see, signifies here “ to choose.”
+
+383. Mu-dimu, from kti-dima. The word for hoeing, cultivating, which is the
+work “ par excellence,” is used for any kind of work, job, service.
+
+
+NO. VIII.
+
+Informant. Musoki, a tall young Mu-suku (from U-suku, east of the Kuangu
+River, between the Ma-iaka and the Ma-xinji), who was my fellow passenger from
+Loanda to St. Vincent, Cape Verde Islands, in May, 1890. See “African News”
+of Vineland, N. J., December No., 1890, p. 576. His home was at Mukunda, four
+days’ march from the Kuangu River. He had been sold into slavery, because at
+play he knocked out another boy’s eye with a stone. His Portuguese master lived
+at Kaxitu, on the Dande (Ndanji) River, north of Loanda, and was then taking
+Musoki as personal servant with him to Lisbon.
+
+Dialect. That of the Dande, or Ndanji, River, as spoken by the plantation
+hands. Ail these are “ redeemed ” slaves, mostly from Novo- Redondo. As soon
+as they arrive on a plantation, they learn the Ki-mbundu of Loanda, spoken by
+the native foremen, and the variety of the local dialect, spoken by the native
+neighbors of the plantation. This Ndanji dialect differs from that of Loanda only
+in a few forms borrowed from the inland dialect and from the Kongo dialects
+spoken in the basin of the Lufuni (Lifune) River.
+
+Comparative. In this story the king of the Ma-kishi alcne seems to have
+more than one head. While the Ma-kishi of the preceding stories were agriculturists, these are hunters. About the swallowing of the hero see the notes to
+No. V. and the “ Journal American Folk-Lore,” 1891, p. 43. Cf., also, ibid., p. 249.
+The deliverance of the captive ladies and the hidden treasures remind one of similar incidents in No. I. and other unpublished tales.
+
+In the story of the widow’s second lot of children, the stratagem by which the
+old woman is killed corresponds to the way Macilo kills Maciloniane in Casalis’
+Sechuana legend of those two brothers.
+
+In the Brazilian folk-lore of Portuguese origin we find the feats of the two
+couples of children related of only one couple (p. 84 of “ Contos populares do
+Brazil ”), and in Portuguese folk-lore, the story of the first couple is told in Ad.
+Coelho’s “ Contos populares,” p. 67.
+
+The Portuguese origin of the second part of our tale is evident, as also the fact
+that the story is made up of two distinct mythographic elements : (1) the hydra,
+(2) the intending murderer dying by his own trick.
+
+384. Mbanza, here, is not the residence of a soba or king, but a small kisanji.
+This is a musical instrument, which is played with both thumbs. Cf. notes 241, 51 1.
+
+385. The pakasa is the Bubalus Caffer, the fiercest inhabitant of the African
+forest. The natives shoot him from a stout tree, where the buffalo cannot get at
+them.
+
+386. It is impossible for a man, much more for a pygmy, to carry a buffalo.
+The meat of two buffaloes was brought by the people belonging to one pygmy,
+who either was in charge of or owned the meat-loads.
+
+387. Aku'enji for aku'd, peculiarity of the Dande dialect, due to the proximity
+of Kongo dialects, in which - enji is the possessive suffix of the third person.
+
+388. Ku-tena , “ to be able, capable of, equal to, up to, strong, or clever enough
+for.” Here the meaning is : By mere physical force we cannot conquer him ; we
+must sit down and think of a stratagem.
+
+389. Mixitna does not mean that the di-kiski had several hearts (or livers) as he
+had many heads ; but the muxiina , liver, being the principal of inner organs,
+mixirna is used to designate all collectively.
+
+390. See law of preference in negative suffixes, on pp. 78-81 of Grammar.
+
+391. Di-fundu , from Portuguese “ defunto,” i. e., defunct, deceased. It might
+easily be taken for a genuine Ki-mbundu word, derived from ku-funda , to bury.
+
+
+NO. IX.
+
+Informant. One of my Sunday-school boys at Loanda, whose name I do not
+remember.
+
+Dialect. Loanda.
+
+Comparative. In the first part of this story, which is composed of two separate ones, the chief actor is the Kianda, one of the most popular spirits of Loanda
+
+
+284 Folk -Tales of Angola*
+
+mythology. It is the water-genius, and it controls the finny tribe on which the
+native population of Loanda chiefly depend for their sustenance. Hence its popularity. The water-locked rocks beyond Fort St. Michel, at Loanda, are consecrated to Kianda and serve as altars, on which the natives still deposit offerings
+of food. The Axi-Luanda (inhabitants of Loanda Island) celebrate a yearly holyday, with elaborate rites, in honor of Kianda. When the locomotive began to
+puff up and down the Loanda railroad, the natives ascribed its origin to Kianda.
+In the Mbaka dialect this water-genius is called Kiximbi, and bears in every
+valley the name of the local river. So in the Lukala valley, offerings are made
+to Lukala, in the Kuanza valley to Kuanza. See No. III. Another name of
+Kianda is Kituta. See note 620. The kalubungu occurs in this as in most
+Loanda stories.
+
+In the second part, the woman’s Di-kishi husband has evidently more than one
+head, as he wants the woman to give him two-headed children. Compare her
+flight to that in No. VI. When the woman ran away, a Di-kishi smelled her
+presence in her refuge. This scenting the presence of a stranger is not uncommon with any negro when he enters his house, but it is also a universal incident
+in tales of monsters. In Portuguese folk-lore the expression “ Aqui cheira-me a
+sangue humano ” is frequently met with.
+
+About speaking skulls, compare No. XLV., and p. 224 of “ Contos populares
+do Brazil,” by Sylvio Romero. There is also a Loanda variant which I have in
+manuscript.
+
+392. Ku-xidiirila , from Portuguese “ servir,” to serve as, be good for, be fit,
+suitable.
+
+393. Jt-kolodd, the Portuguese “ cordao.”
+
+394. The translation of this verse is guess-work. I could not aver whether the
+myth is meteorologic or not.
+
+395. All these calamities are the consequence of the woman’s disobedience to
+her husband.
+
+
+NO. X.
+
+
+Dialect. That of Mbaka. The story also originates from Mbaka, though
+many of the Mbamba have learnt it.
+
+Comparative. This story does not personify an animal, nor relate any supernatural occurrence, and yet it is accounted a musoso, because the case of four sisters taking the same name and wanting a common husband appears at once to the
+Angolan as an invention. According to rule, Kimanaueze is the father of such
+fictitious heroines. As the tale accounts for the origin of the unwritten native
+law, that a man shall not marry a sister of his wife, not even after the latter’s
+death, it belongs to the class of aetiologic tales.
+
+The law just mentioned prevails among the Mbaka, Ngola, Akua-Lunda, and
+Ma-kioko. The Ma-songo also generally keep that law ; some, however, in southern Songo, can marry a sister of a deceased wife. The Bashi-lange alone, of all
+the tribes known to the informant, consider it lawful to marry two sisters.
+
+Our story gives a detailed view of the wooing and honeymoon of the A-mbundu.
+
+396. Uoua signifies “ silliness, stupidity,” from ki-oua , a fool, a simpleton.
+
+397. Besides their birth-name, the A-mbundu get a name from their parents,
+nicknames from the villagers, and, when they reach a certain age, they give themselves their own, freely chosen, name.
+
+398. I-tala, pi. of ki-tala. It signifies both height of stature and age. The
+plural is used because each girl had her own age.
+
+
+399. Inzo ia unzangaia is the house in which one or more young folks, either
+male or female, live while unmarried. Children live in their parents’ house until
+they are from nine to twelve years old. Then they enter the inzo ia unzangaia ,
+but continue to eat, and stay over day, with their parents. Where the houses are
+large and have two or more rooms, the mi-nzangala , or young folks, sleep in a
+separate room, the sexes, too, being kept separate. There is far more promiscuous living, with its concomitants, in the crowded slums of our great cities than
+in purely native Africa. In the Ngombota (a native quarter) of Loanda, the natives are terribly crowded, and this is one factor in the moral looseness for which
+that city is notorious among inland tribes.
+
+400. The i refers to ngoloxi , the evening salutation.
+
+401. The following sentences are proverbs, puns, and figurative sayings, especially used by young folks in courting.
+
+402. Munangi a nzamba is a verbal noun class I., with its objective genitive.
+The translation is free, because munangi has no equivalent in English.
+
+403. These two proverbs have a clear meaning : Every phenomenon has a cause
+and a reason ; there is no smoke without fire. Hence, “ my visit has a reason and
+an object/’ Every one of these proverbs is in some way suggestive of marriage.
+
+404. As the bird-seed is gathered to feed the birds, marriageable girls exist for
+the purpose of marrying.
+
+405. And so do young wives adorn a home. This allegory is at the same time
+a good pun ; for mi-lemba reminds of ku-lemba (to woo) and ?ni-bangu of ma banga
+(brides).
+
+406. In this saying there is a pun based on the similarity of nguvu and nguvulu. An' a ... y children of , signifies subjects of (a chief). In the
+
+East (of Malanji and Mbaka) is the Kuangu River, which abounds in hippos, kings
+among river-animals. In the West is Loanda, where the Portuguese Governor
+( nguvulu ) has his residence, and where the natives are subject to his rule. Ku
+luiji or ku luanaa (or Lua?idd) that is “ downwards ” is more commonly used
+than ku ngela for “in the West”
+
+407. To place the dibeka, or mantle, in its right place around the neck and
+bust, one corner of the right side is thrown with the right hand over the left
+shoulder.
+
+408; Makembu, plural of u-kembu from ku-kemba. Usalajendu from salajendu ,
+the Portuguese “ sargento.”
+
+409. Both words, Jute and kobo are in the Mbamba dialect. Kobo is in the other
+Ki-mbundu dialects kopo , the Portuguese “ copo,” English “cup.” In Mbamba
+the p of Portuguese loan-words becomes invariably b. So “chapeu” becomes
+xabi.
+
+410. Only used in inland dialects, and less frequently than mahezu.
+
+4*i. He now pops the question.
+
+412. Ma-koua plural of u-koua (in the sing, usually ukouakimi) as ma-ta is pi. of
+u-ta. See Grammar, p. 5. As soon as the father of a girl has accepted a young
+man as husband of his daughter, he is his father-in-law; he has done his part.
+The wooing-present, or price of the wife, is the seal and pledge of the contract,
+which it is the bridegroom’s and bride’s business to carry out.
+
+413. Di-lembay from ku-lemba , to give the wooing-gifts to the parents. Di-banga
+seems to be derived in the same way from a verb ku-banga , which must have been
+a variant of the present ku-benga , to bring the bride home.
+
+414. Mu-kunji is usually a messenger. The word is derived from ku-kunda , to
+
+415. The plural form ma-nzu for ji-nzoy is not used in Loanda.
+
+416. As long as the companions of the bride (the imbalambi), who have accompanied her to her new home, are with her, the bridegroom cannot sleep with his
+bride, and during that period her house is called the house of brideship {into ia
+ubattga).
+
+417. In Loanda a trap is called ki-betu , differently “intoned” from ki-betu,
+thrashing. Both are derived from ku-beta . Ku-beteka is to incline, bend down.
+The rod of the trap, when set, is bent down.
+
+418. Di-fue, leaf, is pronounced in Loanda di-fu . The word uisu signifies life,
+newness, freshness, youth, rawness, greenness, inexperience, according to its subject Therefore natives, in speaking a European tongue, sometimes talk of “ a
+green child ” (baby) “ green (fresh) meat” Compare the American “ greenhorn.”
+
+419. Ambat ’ d. The imperative with following objective is used in the JVibaka,
+but not in the Loanda, dialect. In this it should be tri ambate, the objeGt preceding the verb in the subjunctive, but without personal prefix, or ambaia uamu.
+See Grammar, p. 75.
+
+420. Him or her. It should always be remembered that the Bantu languages
+are genderless.
+
+421. The order given by Nzud is purposely ambiguous and cannot be written
+or translated satisfactorily : k ’ a di jitule is “ let him, or her, not untie it,** while
+kd di jitule is “let him, or her, untie it.” In the spoken language, the difference
+consists in the intonation. The boy was probably instructed to pronounce the
+message in such a flat, colorless tone, that the order was neither positive nor negative; thus leaving it to each wife’s intelligence to find out the right meaning.
+Moreover, there is the pun of ki-oua and uoua.
+
+422. Mud signifies “ in the house, or place, or town, of .”
+
+
+NO. XI.
+
+Informant. A man at Bom-Jesus, whose name X fail to recollect.
+
+Dialect. That of the lower Quanza (Kuanza) River.
+
+Comparative. This story' we class as a musoso because the fact of one man
+growing on to the back of another is manifestly fictitious and unnatural. By
+some natives it would be given as a maka, owing to its moralizing nature. The
+names and the narrative were invented in order to illustrate the lesson that we
+must mind one another’s warnings and words of advice. The origin of the story
+must doubtless be sought in Mbaka.
+
+423. K'a-mu-ambata and K'a-?nu-ambeld signify literally “ they not him carry ”
+and “they not him tell ; ” or, if it be taken as the passive form, “ he who is not
+(to be) carried ” and “ he who is not (will not be) told or taught”
+
+424. That is, they fastened their merchandise into the two long sticks, joined in
+front, on which, during a march, the load is stayed erect, while the carrier rests ;
+or they fastened their goods in the load-baskets, called mi-hamba.
+
+425. Kifuangondo is a village on the Bengo (Mbengu) River, north of Loanda,
+and the third station of the Loanda railroad. Here, tradition says, the queen
+Njinga Mbandi lost a copper coin, and that gave the name to the place.
+
+426. Kijila is a prohibitory precept, enjoined by the Kimbanda, or medicineman, on an individual, a family, or a tribe.
+
+427. Nzenza is the name of the Bengo River from its head to Kabidi; thence
+to the sea, it is called Mbengu. Mud Palma, at the place of Palma. This Palma
+is the name of Josd Francisco di Palma, who later changed his name to Josd
+Aleixo de Palma. He was known to me, and his Portuguese friends, simply as
+Aleixo, but kept among the natives the name of Palma. He died in 1890, while I
+was in America writing these stories. He was an active and intelligent mulatto,
+
+
+Noies.
+
+
+son of a Neapolitan soldier of Napoleon I. (See Comparative Note of No. I.)
+Kabidi is the name of the place where he built his house, and other traders joined
+him. Now, Kabidi is also an important station on the Loanda railroad. Camargo, a mile below Kabidi, is the capital of the “concelho ” Icolo e Bengo.
+
+428. Mu Jipulungu. Literally 44 at the paupers’.” The place may owe its
+name to some crippled paupers, who at one time subsisted on the aims of passing
+travellers.
+
+429. Ku-nioka . So in the Mbaka dialect ; it is pronounced ku-nipha in Loanda.
+
+430. Dieztia, contraction of dia izua.
+
+431. This is a proverb, usually applied to foolhardy actions, or, as here, to one
+acting on his own hook, against the advice of friends.
+
+
+NO. XII.
+
+
+Dialect. That of Mbaka ; but the story is of Mbamba origin.
+
+Comparative. There is a striking resemblance between this fratricide and
+its revelation by ever reviving animal-witnesses, and that told on page 96 of
+Casalis’ " Etudes sur ’a langue Sechuana.” There, too, the younger and more
+fortunate brother is killed by his envious elder brother; but the animal that
+reveals the crime is a little bird, which revives as often as the fratricide kills it.
+In a variant published in the Sierra Leone “ Weekly News” (1890) a mushroom
+on the victim’s grave reveals the fratricide. Everybody will notice some, merely
+accidental, resemblance to the story of Cain and Abel.
+
+In the Ki-mbundu story of “The Man without a Heart” (unpublished) the
+criminal is sued by his own son from court to court until he finally gets the punishment he deserved. I have have not yet found a Ki-mbundu word for remorse,
+but this story shows that the Angolans know its effects, for Mutelembe and
+Ngunga represent the protests of conscience.
+
+From this story to No. XX. inclusive, personified animals are chief actors in
+combination with men. From No. XX. to XXXVIII., personified animals are
+the only actors. In No. XXXIX. we again find animals speaking. So, the
+present collection contains altogether twenty-eight animal stories of Bantu origin.
+
+432. Ngunga is a large bell ; mutelembe, in the inland dialect, is a small bell.
+See note 217.
+
+433. Ele, from ku-ia, preterit II., third person plural (a + He).
+
+434. Ku-zangula is sometimes used without an object, and in that case signifies
+to start, set out. When one lifts his load, it is understood that he is doing so
+only when starting on a march. Africans invariably have a load to carry, when
+they go a certain distance, for they need at least water in a calabash, a bag of
+flour ( fuba ) or meal {fadinia) for the mush ( funji ), an earthen cooking pot, and
+a mat to sleep on.
+
+
+NO. XIII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. Although this is one of the finest stories we have, there is
+little that connects it with other African or foreign folk-tales known to us. That
+Kimanaueze is the father of the hero is not surprising in a fictitious story. What
+seems remarkable is that the idea of the cobweb serving as a kind of Jacob’s
+ladder between the terrestrials and the celestials should be common to the Bantu
+
+
+Folk •Tales of Angola .
+
+of Angola and to the Hausas of the Suddn. In Dr. J. F. Schon’s “Magana
+Hausa,” London, S. P. C. K., 1885, we find a whole story (No. LXIV.) about the
+spider and cobweb going to a wedding feast in the sky.
+
+The frog, who plays such a prominent part in this story, appears again in No.
+XXXVIII. In the “ Contos populares do Brazil,” Frog goes to a feast in heaven
+by hiding himself in Urubu’s banjo, just as our frog went up in a jug. But on
+the way back to the earth, the bird turns his banjo upside down and Frog falls
+from a terrific height.
+
+About marriage rites, compare No. X., and about divining practices, see the
+Ma-kishi in No. I.
+
+435. Mb&mbi is the Cephalophus Burchelii. The soko is larger than the
+vibambi and has larger horns. Kikuambi may be the Fiscus Capelli (?). Holokoko is the Helotarsus ecaudatus.
+
+436. Na vein is the title of the son of a soba , used in addressing him. Velu is
+the native pronunciation of the Portuguese “velho,” old man; but this cannot be
+its meaning in the present case. “ Lord old man ” would not be a flattering title
+for a young prince.
+
+437. Compare uandanda with uanda , net.
+
+438. Ka-bube and Ka-zundu , personal names derived from di-bube and di-zundu,
+by prefix Ka-. See Grammar, pp. 127, 128.
+
+439. Saku ia kitadi. A saku is thirty “milreis fortes,” which is nearly thirtythree American dollars. In the present case, it looks as though the saku was paid
+in paper, and not in copper ; for a saku of copper is exactly one man’s load, and
+for the water-girl not to notice such an addition to the weight of her jug would be
+a big “ poetical license.”
+
+440. Thus, also, siseme ia ngombe , a young cow, or bull.
+
+441. Literally kita is a bundle; pronounced khita by some natives of the interior. It consists of bones, claws, rags, hairs, etc., which the diviner shakes in his
+divining basket before throwing them on the ground. From the positions taken
+by the different objects, he reads, or divines, what the visitors want to know.
+
+442. That is, the people who consult the diviner.
+
+443. U-anga , with which compare ng-anga, wizard, signifies witchcraft, both
+criminal and non-criminal. Here, as the young man is simply supposed to have
+secured the aid of spirits in order to obtain his due, and not to destroy wantonly,
+or unjustly, his uanga is not of the sort that would stamp him a muloji (wizard).
+
+444. Akua-muzambu is the same as akua-kuzambula. Mu-zambu is the noun,
+divination; ku-zambula is the verb, to divine, or, better, to consult the oracle.
+Mu-zamb-u and ku-zamb-ula seem to have the same radical as N-zamb-i) the
+name of God. Ngontbo is the spirit who reveals the unknown through the medium
+of his servant, the mukua-Ngombo.
+
+445. Asakana is in the plural because the logical subject is plural, namely, he
+and she.
+
+NO. XIV.
+
+
+Dialect. Mbaka. The story, however, belongs to the Songo tribe, and the
+song is in the Songo dialect.
+
+Comparative. Concerning bridal customs, compare Nos. X. and XV. Birds
+revealing something, warning from a danger, or inciting to do something by
+worded song, are of frequent occurrence in universal folk-lore.
+
+446. Albombo is the manioc, or cassava-root, after it has been fermented and
+dried. In this state of mbombo the manioc is brittle, and can therefore easily be
+pounded into fuba, i. e., flour.
+
+
+447. The song is in the Songo dialect. The j of the Mbaka and Loanda dialects is pronounced z. Sporadically, this pronunciation occurs also among the
+Mbaka people. Thus also Xikundu of the Mbaka and Loanda dialects becomes
+Sikunduy that is xi becomes si. This phonologic preference for z and s is due
+to the proximity of the U-mbundu cluster. Sikundu is probably the Portuguese
+“segundo,” he., the second. MunA signifies “that one there,” or w the other.”
+Here it indicates “the last.” Kuedi, the same as huedi. Zai is the old Kimbundu jai \ jaie , contraction of jia eie. Hulakana is the same as bulakana.
+The b of other Ki-mbundu dialects often becomes h in Mbamba and its cognates.
+The acute accents show where the rhythmic accents fall.
+
+448. Ku- bake la (mutu) jinguzu is not used in Loanda. Here, people say kubanga jzbuia, the latter word being the Portuguese “ bulha,” with the plural prefix
+of class IX. ji-.
+
+XV.
+
+
+Dialect. Mbaka. The story, too, comes from Ambaca.
+
+Comparative. Metamorphoses of lions into human beings, and vice versa, are
+frequently met with in African folk-lore. As showing a faint resemblance with
+this story we mention the Hottentot story, No. XXIV., of “Reynard the Fox in
+South Africa,” by Dr. Bleek, and the Herero story, No. 1 1., in Brincker’s “ Worterbuch des Otji- Herero.” Here, two lions, transformed into young men, succeed
+in marrying two girls.
+
+As to the father being saved by the obstinacy of his child, compare it with a
+similar case in No. VII.
+
+The killing of an enemy in the burning hut corresponds to similar acts in our
+No. VII. and the two above-mentioned Hottentot and Herero stories.
+
+449. Mu ngongo is generally understood to mean, not the objective world or
+universe, but the subjective world, that is, the part of the world concerned in the
+facts told, or in the mental horizon.
+
+450. The distance of a camp signifies one day’s march, because the grass-huts
+of the camps are put up for the night after each day’s march.
+
+451. Kimona-ngombe kia Na Mbua, literally, the “ owner of cattle of Mr. Dog.”
+Kimona-ngombe is derived from ku-mona and ngotnbe r according to section four
+of my Grammar, p. 1 2.
+
+452. “ Let us sleep with me ” is a peculiar idiom, which may be analyzed this
+way : Let us (both) sleep, (thou) with me (i. e., together). “ Let us do,” instead of
+“do thou,” is a polite, coaxing way of giving an order.
+
+453. This leniency of the parents, and the crying of the child until it gains its
+point, is characteristically African.
+
+454. That is, on the mat in front of the bride’s bed.
+
+455. That is, “ I won’t listen to you any more.”
+
+456. Ku-Jidisa, to disturb, spoil, hinder, impede ; from ku-fua, to die, to cease,
+stop. Relative : ku-Jila , to cease, or stop, because of, for the sake of ; causative
+relative : ku-Jidisa, to cause to stop on account of ; which gives the meaning of
+to hinder, to impede, to disturb, spoil.
+
+457. A proverb, the parallel of which is “ uenji kidi trade is truth. That is,
+it is not something imaginary, utopian, or deceptive, but something real, substantial, profitable. Children are not a cross, but a blessing. Compare the oftrepeated expression, “ The woman was going to cause the death or ruin of the
+man,” with the universal pagan idea of the inferiority, moral as well as physical,
+of woman, and with the Bible account of the fall. Compare also the oft-recurring
+fact of a child saving adults, with the universal conception of infantile innocence
+and intuition, and Christ’s utterances about children.
+
+
+NO. XVI.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. This story belongs to the class of judicial sentences. See
+Nos. XXVI., XLII., XLI1I., XLIV. By the conclusion, it also belongs to
+those stories which account for some habit. The one here accounted for is the
+turtle-dove’s cooing.
+
+458. Mu-lombe from ku-lomba , i. e., to get dark, black, signifies always a black
+bird, but never the species called blackbird in Europe or America. Even in Angola proper, the bird called mu-lombe near Dondo and the coast is not the bird
+known by that name at Malange. Here it seems to be a kind of crow, while
+near the coast it is a smaller bird of beautiful black plumage with bluish metallic
+glimmer. In Loanda the large white and black crow is called ki-lombe-lombe from
+the same root ku-iomba . The plural of Mtilombe is formed by prefixing a - to the
+singular, because mulombe is here treated as a proper name. See Grammar, p.
+128, note 185. The appendage a Nganzu , like a Tumba to Musu-di , and a Lubi
+la Suku to mutu , etc., serves to make the collective name of the species look more
+
+459. Tu xile-u would be in Loanda tu xile-mu. In the Mbaka dialect the suffixed objective pronoun of classes IV., V., VI., VII., VIII. plural is not -mu, as
+in Loanda, but - u . Here the m- was dropped by the same process as in the concord a, for Loanda ma of the same classes.
+
+460. Ku-dia jingoma, literally “ to eat the drums,” for “to empty the hives,”
+is an idiom. Ku-dia may signify any kind of undoing, therefore also undoing
+the work of the bees in the hives, by taking out the sweet treasure. The hives
+are called drums because they have exactly the shape and size of a big tom-tom ;
+only instead of the solid wood of a tree they are made of the bark alone. Another
+name for hive is ki-au , used more especially in the central region of Ki-mbundu,
+around Bondo.
+
+461. This is a proverb: “Before you can hammer the baobab-fibre, you must
+peel the baobab ; ” meaning that one thing depends on the previous execution of
+another. The baobab-fibre is used by the natives for many purposes and exported
+to Europe for the manufacture of paper, ropes, and sail-canvas. The fibre is
+obtained from the inner bark of the baobab-tree, whose outer bark must be peeled
+off before one can get at the inner bark. This inner bark is pounded or hammered
+with a club in order to separate the fibre from the non-fibrous parts.
+
+462. Kolo is probably the Portuguese “ cor,” color. It is also used to signify
+“quality, species, kind.” The plural is ji-kolo .
+
+463. Moso, the same as muoso , is used by the Mbaka like mutu uoso , everybody,
+whoever, any one, and the impersonal “one.”
+
+464. Ku-kolela , to accuse and have summoned, from ku-kola , to call, is the
+genuine Ki-mbundu word for the popular loan-word ku-xitala , from the Portuguese “citar.”
+
+465. lu ku bata die, elliptic for itt uaiy l ku bata diC. The elision of the word
+for going leaves the impression of quick arrival.
+
+4 66. Mu-kulu is a word that appears as the name of God in several South-
+African languages. It is no longer used in Ki-mbundu except in idioms, like the
+present, which is at the same time a title. The word is derived from ku-kula , to
+grow in stature or age, hence “ the great one, the old one, the chief.”
+
+467. Ru-bonza is a synonym of ku-buiza and ku-viza , to be difficult, but it is
+used only inland.
+
+468. That is, o mutongcu , of which u is the objective pronoun.
+
+
+469. Ku di tukidula, to manifest one’s self ; hence, to confess. Another verb
+for to confess is ku-lokola) literally to spit out.
+
+
+NO. XVII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. As this story gives a reason why the Turtle, or Terrapin, is so
+fond of water, it belongs to the aetiologic stories.
+
+As a Turtle-story it should be compared with No. XXXVII.
+
+The fact of the Turtle being saved by what was intended to kill it has a parallel
+in the story of the “Turtle and the Baboons” on the last page of Torrend’s
+« Xosa-Kafir Grammar,” Grahamstown, 1886. There, the baboons are the enemies
+of the turtle ; here, its enemies are men. In a story of Bahaman Negroes, published on p. 51 of the “Journal of American Folk-Lore,” 1891, B’ Rabbit(the Hare
+of our collection) escapes from his enemies by the same trick as our Turtle.
+
+470. Mbaxi a Koka , from ku-koka, to drag ; because of the dragging motion of
+the turtle on land. The hatchet is also of Koka because ku-koka also signifies
+« to fell (a tree),” and the felling is done with the hatchet. Hence the connection
+and friendship of Turtle and Hatchet. Farther on, the stone is said to be a relative of the Turtle, because its shell is as hard as a stone. Finally, the fire cannot
+hurt it because of the stony nature of its shell.
+
+The turtle found on the plateau of Malanji (Malange) is a small turtle which
+lives as much, or more, on the dry land of the prairie as in the water. In the
+Kuanza River lives a large species, which is rarely found on dry land.
+
+471. The expression “to say or speak by mouth ” seems strange to us; but in
+Ki-mbundu it is all right, as sometimes — for instance in the preceding phrase
+ngandala kufua — the verb “ to say ” is used for “ to think,” that is, to say to
+one’s self, to speak in one’s heart, ku-zuela ku muxi?na.
+
+
+NO. XVIII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. This story and the two following illustrate the Mbaka hunter’s
+moral as well as physical life. Di-nianga or nia?iga is, in the interior, a hunter.
+On the coast, a hunter is called mu-kongo. Nianga dia Ngenga or Mukongo a
+Tumba are, like Musudi a Tumba (No. XVI.) collective names of professions or
+crafts, modified into proper names.
+
+The animal hero, here, is the Leopard, whose character is always represented, not
+only in these stories, but it seems throughout African folk-lore, as made up of
+brutal force, wickedness, and mental shortsightedness.
+
+Compare the Ki-mbundu proverb on ingratitude: “ Sasa'ngo , n'a ku tolole o
+xingu ,” i. e., feed and clothe a leopard (and) he will break thy neck.
+
+The Hare is, as usual, characterized by “smartness.”
+
+472. A proverb. The argument is this : Would a man rescue another from the
+knife of the assassin or from the deep waters, and refuse him the needful piece of
+bread or drink of water to sustain that life just saved at great risk ? Surely not ;
+the greater includes the smaller.
+
+473. The hare is settling the question as umpire, though the story does not
+state that any one of the parties requested him to act in that capacity.
+
+
+29 2 Folk -Tales of Angola .
+
+NO. XIX.
+
+
+Dialect. Mbaka.
+
+Comparative. Nos. XVIII., XIX., and XX. are hunter-stories, as also No.
+XXXIX. From our standpoint, the latter ought to come in here; but, in obedience to the informant’s positive assertion, it is classed with the anecdotes of actual
+facts, the tnaka.
+
+474* Already during pregnancy the spirits are consulted in order to know to
+which of them the family is indebted for the expected addition. When the child
+is bom, it is kept in the house until the parents know what ji-haku. , the first solid
+food of a child in addition to the mother’s milk, are to be given it, and until the
+ji-haku are procured. It is a joyful day for the family, when the baby is formally
+taken out of the dark hut and introduced to God’s great world.
+
+475. Mudia-mb&mbi is, according to Count de Ficalho, the coffee-tree, Coffea
+Arabica.
+
+476. Ki-sumbula and nzambi are synonyms ; both signify a stick, which the
+hunter puts up in the fork of a tree in order to be seated less uncomfortably while
+watching for the game.
+
+
+NO. XX.
+
+Dialect and Origin. Mbaka.
+
+
+NO. XXI. VERSION A.
+
+Informant. The same as for No. II. Of version 3, Jelemfa dia Sabatelu.
+
+Dialect. Lower Quanza. See No. II. Of version B, Mbaka.
+
+Comparative. If the preceding stories have already destroyed the theory, as
+vouchsafed by Dr. Bleek, that the Bantu folk-lore evinces an inferior flight of imagination to that of the sex-denoting Hottentot languages, the following fables
+will put an end to the still prevailing opinion that the Bantu have no fables or
+animal stories.
+
+Of our present siory we give two versions, one from the coast-belt, on the lower
+Kuanza River, the other from the interior, in the districts of Ambaca (Mbaka) and
+Malange (Malanji). They complete each other, and agree to a remarkable extent
+with a third version which is current among the negroes of Brazil. This version
+can be seen in the “ Contos populares do Brazil,” by Sylvio Romero, p. 151. The
+story consists really of two tales ; that of Antelope’s foolishness and death and
+that of Monkey’s revenge on the criminal Leopard.
+
+My peculiar informant of Bom-Jesus had given me only the first part of the
+story, assuring me that it was the whole story, and I believed him. But weeks
+after, at Loanda, on perusing the above “ Contos populares,” I found out my mistake. So, when I made a second stay at Bom-Jesus, I asked for the lacking part.
+At first “ Piolho ” feigned to know nothing about it ; but when he saw he could
+not evade the truth, his surprise and amusement at being found out were great.
+Then he willingly told the second part of the story.
+
+As usual, the Leopard is here characterized by cruelty and meanness, the Antelope by simplicity or foolishness, and the Monkey by shrewdness.
+
+The forcing an enemy to eat the flesh of his own people, either knowingly or
+unconsciously, is the ne plus ultra of revenge for an African. It occurs pretty
+frequently in Bantu folk-lore. So on p. 86 of Torrend’s Kafir Grammar, the tortoise makes the baboon eat the flesh of a brother baboon ; in our No. XXIV.
+the young Goat gets the old Leopard couple to eat their own son.
+
+477. Ndd, abbreviation of ndoko, come ! let us go ! please.
+
+478. Uloua, the same as ukoua, , parent-in-law. The first form is rarely used.
+
+479. Ngalafd is the Portuguese “garraf&o,” demijohn; ngalafa is the Portu-
+
+480. Ualende is a contraction and adaptation of the Portuguese “ aguardente ; ”
+an intermediate form is ngualende. The rum used in Angola is of two sorts (1) the
+indigenous, made of sugar-cane, (2) the imported, made of the vilest alcohol mixed
+with unfiltered river-water.
+
+481. O u mu sanga often sounds like 0 mu sanga, because uf vowel, can be
+dropped after o.
+
+482. “ Our wife.” for “ my wife,” is a polite form.
+
+483. The driver-ants travel generally in such a compact column that, at some
+distance, they do not look quite unlike a greasy black belt, such as the natives
+wear. Therefore the old rogue succeeds in making the Antelope believe that the
+black string across the path might indeed do for a belt. The drivers are the
+fiercest of ants. Whenever they are disturbed in their march, they immediately
+attack and furiously bite the disturber.
+
+484. Mako for maku is a dialectic variation. The final - u may be pronounced
+like ~o in most dialects, whenever the words are pronounced slowly and distinctly.
+In most Bantu languages it is pronounced and written -o.
+
+485. Kala for kikala (it shall be) is a peculiarity of the informant’s diction.
+
+486. Madianga the same as matetele , sing, lu-tetele. So in the interior; in
+Loanda the singular is di-tetele.
+
+487. From ku-zsza , to be green, unripe, more especially of corn. The enclitic
+~ke or ~ki seems to be a contraction of kid; hence malu-zeza-ke may be malu-zeza
+kid.
+
+488. Di-xita is a heap of any kind of refuse, rubbish ; as the sweepings of the
+house, or the weeds in a field. These refuse heaps are often used by those who
+have no regular fire-place and fuel at hand, for roasting corn, peanuts, fish, etc.
+
+489. “To leave (unnoticed),” signifies here, “ to neglect, to despise.”
+
+490. Mu-hetu is the contracted form of the archaic mu-haitu (a -f * = e\ and
+does not differ in meaning from mu-hatu.
+
+491. Kulete is the Portuguese “ collete ” waistcoat ; jungu, the Port, “junco,”
+bamboo-cane ; kalasd , the Portuguese “ calgao,” xilola , the Port. “ ceroula ; *’ mbinza , the Portuguese “ camiza,” kazaku , the Port. “ casaco.”
+
+492. Boas-tadi or buajitadi is the Portuguese “ boas tardes.”
+
+493. Kud for ud is a peculiarity of the informant’s dialect.
+
+494. Vioko is an insulting term.
+
+495. In spite of the social inferiority of women, it is no uncommon thing for
+them to thrash men.
+
+496. About the law of personal preference or precedence, see Grammar, pp.
+
+497. Here the women quote textually their conversation with Leopard.
+
+498. Endo for ondo or ando is a peculiarity of the informant’s dialect.
+
+499. Tuandele , contraction of tuandalele .
+
+500. That is, on being welcomed, he (the Leopard) gave the two bottles that were
+left.
+
+501. This o is a contraction of a ku .
+
+502. "This enclitic -ki seems to stand, like ~ke, for a somewhat pleonastic kid.
+
+503. O ilmnba is here contracted into elumba. This is the usual form in the
+Kisama dialect.
+
+
+294 Folk -Tales of Angola .
+
+504. This is the Leopard speaking. Manii , la is peculiar to the informant for
+manii, se.
+
+505. That is, they pack into his mu-hamba (carrying-basket).
+
+506. Ku-amba, with an accusation, often signifies “to speak badly.” Ua ng *
+ambe is “he scolded, or slandered, me,” while ua ng atnbela signifies “he told
+me.” The mother uses this expression, because among Africans, even more than
+among civilized people, it is not polite to mention the possibility or probability of
+the death of a friend or any one present. The world over, men do not like to be
+reminded of the inevitable “ king of terrors.”
+
+507. The word tambi includes : (1) the funeral ; (2) the dances with eating and
+drinking, which follow it; (3) the wailings which are repeated on stated days and
+hours ; (4) the people who gather for the occasion.
+
+508. Ienene, for ionene , is archaic and peculiar to the informant.
+
+509. To say ku-sisa for the usual ku-xisa is not incorrect, but unusual.
+
+510. Maiinga . Unusual for maniinga. A further contraction gives menga.
+
+51 1. The mbanza is a small kisanji, and therefore quite unlike a banjo; but
+the word banjo is probably derived from mbanza, which foreigners pronounce
+banza , or banja. As to the change of -a to - o , compare the English Loando for
+Loanda, and Sambo for Samba, and the usual confusion of -a and -o among Englishmen speaking a Romanic language.
+
+512. Probably he was humming a tune with these two extemporized verses :
+
+
+Manii Kahima i& a mu tobes ’(£ ?
+
+
+NO. XXI. VERSION B.
+
+513. Aba-diu is used when addressing one person, abenu-diu when addressing
+several. These words are said by the person proposing to tell a musoso. If the
+bystanders agree to hear it, they say dize . It is not clear to what noun the prefix
+di- refers.
+
+514. Kalunga is a yet mysterious word which frequently recurs in the Bantu
+languages. In Ki-mbundu it has several meanings : (1) Death ; (2) Ku * alunga ,
+Hades ; (3) Mu ’ alunga , the Ocean ; (4) Sir ; in this sense it is only used by the
+I-mbangala and some of their neighbors; in Loanda never; (5) sometimes an
+exclamation of wonder, amazement.
+
+515. Baiita , the Portuguese “baeta,” a coarse woollen cloth.
+
+516. Kisonde is here used as a collective noun, and its singular pronoun has to
+be translated in English by the plural.
+
+517. The njilu is the Solanum edule , Schum. et Thonn. This word, as well as
+the plant, is of American origin. It is the Brazilian “gild.”
+
+518. That is, “because (we are) in the field,” etc.
+
+519. Ngolamata is the same as the mbanza. See note 51 1.
+
+520. Mahaxi is only used in the interior, alongside with maniinga, which alone
+is current in Loanda.
+
+521. This ku-xila is not used in the Lodnda dialect. Ku-xila , to be dark, or^
+dirty, is differently intoned and is used in Loanda as well as in the interior.
+
+522. When we would most likely say, “ He who went with you,” the A-mbundu
+prefer to say, “He with whom you went.” The reason is this: the Bantu particle ni or na , which we have to translate by “ with ” or “ and,” still retains the
+original idea of possession. Therefore the greater goes “ with ” the smaller, because it is more likely to possess it, than vice versa. In European languages we
+say that the smaller goes “ with ” the greater, because we think the smaller
+belongs to, is possessed by, the greater, rather than the reverse. The Bantu take
+the active, subjective, we the passive, objective, aspect of the same relation.
+
+523. Ku-zettga is “to lift or raise in order to throw or strike, ” therefore kuzenga poko) to brandish a knife or sword.
+
+524. Leopard had not yet brought home {ku-benga) his bride. He was son-inlaw only in so far as he had been accepted by the girl and the parents (engaged).
+Therefore the girl could now be given to Monkey who, of course, would have to
+complete the presents before taking the girl home. See note 412.
+
+525. Ngitna , a word rarely used. The usual word for mush-stick, and the only
+one used in Loanda, is tiguiku.
+
+
+NO. XXII.
+
+Informant. The same as for No. II.
+
+Dialect. That of the lower Quanza River.
+
+Comparative. By its conclusion, accounting for the Monkey’s and the Hare’s
+habits, and for the Leopard’s spots, this story belongs to the aetiologic tales.
+
+The characters of the Leopard and the Monkey in this story are in harmony
+with those given them in the preceding two. The Hare has the swiftness and
+shrewdness of the Monkey ; but he never is reckless, as the Monkey sometimes
+
+The Leopard’s hole-traps at the foot of the tree remind one of the sharp sticks
+under the tree, with which the Tortoise caught the Baboon, in the Kafir story
+published by Torrend in his Grammar, p. 85.
+
+The two dolls covered with gum, on which the Hare and the Monkey get
+stuck, are evidently the prototypes of the tar-babies, so popular among the negroes
+of the Southern States. See “Journal of American Folk-Lore,” 1889, p. 79; 1893,
+p. 48; also 1888, p. 148. The tar-baby is also known in Brazilian folk-lore, where
+he is called “ o moleque de cera ” (the wax-slave), and in the Portuguese tales.
+See “ Contos populares do Brazil,” p. 228.
+
+The last incident, when the Monkey and the Hare, having gone to a safe distance, reveal the secret of their mischief to their dupes, occurs also in the preceding story, in No. XXIV., and in the Kafir tale of the Tortoise and the Baboons
+already referred to.
+
+With the origin of the Leopard’s spots, we may compare the Hausa tale of how
+the hyena got hers (“Magana Hausa,” p. 92), also how the Fox marked the Lion,
+and thereby killed him (Ibid., p. 165). Just as in our story the Hare and the
+Monkey, so in the latter Hausa story the Fox “for this reason (marking and killing the Lion) does not lie down anywhere except under the trunk of a tree, and he
+has not two shadows.”
+
+526. Mu-zondo . Probably the Pseudospondias microcarp a, Engler, or Spondias
+microcarpa , Rich.
+
+527. The A-mbundu often kill a chicken by forcing it head first into a pot of
+boiling water and keeping it there for some time. Thus all the blood is saved,
+and the feathers come off more easily.
+
+528. Atida, abbreviation of andala , the auxiliary verb for the formation of the
+
+529. There were two dishes for washing the hands, one for each girl.
+
+530. Ku-zala is to spread (unroll) a mat ; ku-zal-ela (relative) to spread it for
+somebody; ku-zal-ula (reversive) to unspread (roll up) the mat, and to remove
+what may be on it.
+
+531. One of the essential parts of most native dances in Angola is the smacking of stomachs ( ku-belela ). Two dancers, leaving the circle, advance trippingly
+
+
+296 Folk -Tales of Angola .
+
+toward each other, and, when near enough, simultaneously thrust forward their
+stomachs so that they touch ; then they gracefully turn round with a bow, seek
+another party in the ring, and repeat the smack. Those just smacked jump into
+the circle, smack each other, and choose their successors in the ring ; and so it
+goes on and on.
+
+532. The ki-takala is a sack generally made of the split leaves of the di-teba
+palm (a kind of Hyphaene). It is triangular in shape, and suspended by a cord
+from one shoulder. The ki-takala is most popular among the people south of the
+lower Quanza, the Kisama and Ba-sumbe tribes.
+
+533. Mbaulu, from Portuguese “ bahu ; ” kadifele , from Portuguese “ alferes ; ”
+bond, as in Portuguese, from the French “bonnet kabitangu , from Portuguese
+“ capitao.”
+
+534. Ku-zozolola , transitive, from ku-zoza , to slacken, intransitive.
+
+335. Hama ia mukuta. A mukuta (in colonial Portuguese “ macuta ”) is worth
+about three cents ; 100 macutas are equal to $3.20.
+
+356. The carriers run away, instead of eagerly responding to the call as usual,
+because they fear, from past experiences, that they will not be paid for “ official
+services.” When a native chief or a Portuguese “ chefe ” has lost his prestige, it
+is often hard for him to find anybody when he needs official (unpaid) servants.
+
+537. “ Like this.” The height is shown by the narrator with his hand. When
+the stature of human beings is to be shown, the hand is held perpendicular ; for
+other things, it is held horizontal.
+
+538. “No one shall — he shall ” is the Ki-mbundu way of saying “No one but
+he shall; he alone shall.”
+
+539. The // often repeated is because they shout from a great distance, and
+pause between the words, so as to give each one time to reach the ears of those
+addressed without being interfered with by the echo.
+
+540. Tualengele etu. Speaking in the usual way, these two words are pronounced as tualengelietu ; speaking rapidly, most coast-people pronounce tualengedietu. Unaccented e before a vowel becomes semi-vowel i-j and / before /becomes d.
+
+
+NO. XXIII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. The Leopard’s ruse to obtain food suggests that of the Old
+Lion, for the same purpose, in one of the best known fables of Aisop. The singing with drum accompaniment in order to induce one to approach, or to warn him
+before a danger, is also found in a Hausa tale on p. 87 of “ Magana Hausa.”
+See, in No. XXI., the Monkey’s song in the early morning, and the other songs in
+this collection.
+
+It is very common among African negroes to express in song, with or without
+instrumental accompaniment, that which they would not dare to say in plain
+words. So the slaves on the plantation sing satires against their task-masters ;
+the carriers on the path, against the head of an expedition ; any ill-used inferior,
+against his superior. Beginning with very vague allusions, these satirical productions may often, if not checked in time, degenerate into fierce denunciations and
+insolent curses.
+
+541. Soko is an antelope larger than the mbambi, of the same color, but with
+longer hair, and with large horns bent backwards.
+
+
+NO. XXIV.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. Like Nos. XXIX., XXX., XXXI., XXXIV., this story begins
+by stating that the Young Leopard and the Young Goat were friends. Faithful
+to his character, the Leopard is wicked and crafty, but not so shrewd as the Young
+Goat.
+
+The conclusion of the piece, saying that the hatred of the leopards for the goats
+originated with the fact therein recorded, classes this story with the setiologic
+ones.
+
+The deceit by which some are caused to eat their kinsman’s flesh has already
+been noticed in No. XXI.
+
+542. Ngubu is a large piece of cloth, able to cover the whole body at night.
+The word is also used for the mantle, tanga , or dibeka. The A-mbundu tribes have
+no longer any shields ; but some traders of Malange have seen shields in the far
+interior, and they call them also ji-ngubu .
+
+543. That is “ a whining voice.’1
+
+
+NO. XXV.
+
+
+Dialect and Origin. Mbaka.
+
+544. Kaxi kia and kaxi ka are both admissible. The apparent irregularity of
+the genitive kia is probably due to the dropping of an obsolete prefix ki- {ki-kaxi;
+dim. ka-kaxi , with which compare kaxaxi of the Loanda dialect).
+
+545. In the interior ku-zala is sometimes used as a parallel form of ku-tzala.
+
+
+NO. XXVI.
+
+Informant. Francisco P. dos Santos Vandunem, of Loanda, a poor and
+blind, but very gentlemanly old man. The Vandunem family belongs to the native
+aristocracy of Loanda. Two brothers of the informant have repeatedly been, in
+the Portuguese service, “ chefes ” of important districts. The Vandunems say, and
+others confirm it, that they are descended from a royal line of the Akua-Luangu
+or A-bidi tribe. See note 113. The great-grandfather of the present old Vandunems came to Loanda in order to submit to the Governor’s decision a question
+about the succession to the chiefship of his tribe. He was so pleased with the
+city that he settled there. Judging from the intelligence for which the Vandunems are renowned, that ancestor must have been a remarkable man. The informant, though totally blind, goes now and then on a trading tour to Kisama, where
+he buys cattle, or honey, and victuals which he sells in Loanda.
+
+At Malange, I met a blind Ambaca (Mbaka) man of great energy and sagacity
+who is always on the move, leading extensive trading expeditions through the far
+interior of the Kassai basin. These blind traders judge of the quality of the goods
+they buy by feeling them.with their fingers and also by the information they receive
+from trusted servants.
+
+Dialect. That of Loanda, as spoken by the old men.
+
+Comparative. This story belongs to the judicial class, which constitutes the
+main part of the maka or fact-stories. But for the fact that the animals are made
+to speak, this piece should be classed with the latter and not with the fictitious
+tni-soso.
+
+
+298 Folk -Tales of Angola.
+
+The regular mythologic order of animal creation is here strictly observed : the
+Elephant is the king ; the Deer is the messenger ; the Antelope is, as usual, the
+simpleton; the Leopard is bad and crafty, though finally outwitted by such a
+puny thing as the Philantomba, to whom “ nature made up in wits and beauty
+what she denied in stature.”
+
+Indirectly, this fable no doubt refers to the custom prevailing in all Bantu
+Africa, by which heredity and kinship are transmitted through the females and
+not, as in Europe, through the males.
+
+The whole plot of this story is found in No. XLVII. of Ad. Coelho’s “ Contos
+populares.” In this Portuguese story, the part of the Antelope is played by a traveller, who bought six boiled eggs at an inn and came to pay for them many years
+later ; the Leopard’s part, by the hostess, who wanted the poor man to pay for all
+the eggs and chickens that might meantime have been laid and hatched from
+those six eggs he had eaten; the Philantomba’s part, by the devil, who appeared
+in the court and declared to the judge that his (devil’s) blackness was due to his
+roasting chestnuts in order to plant them in his orchard. When the irascible
+hostess called him a liar, he retorted that chickens could no more come from boiled
+eggs than chestnut-trees from roasted chestnuts.
+
+546. Palanga is the Hippotragus equinus ; pakasa is the Bubalus Caffer j sefu
+is the largest of Angolan antelopes; it is fully the size of a bull; kisebele and
+semvu are two species of antelopes found in the Kisama region.
+
+
+NO. XXVII.
+
+
+Dialect and Origin, Mbaka.
+
+Comparative. As it is calculated to give the origin of the enmity between
+the Lion and the Wolf, this story pertains to the aetiologic class.
+
+As to the description of man by the wolf, it is interesting to compare it with
+the Hottentot story No. XXIII. of Bleek’s “Reynard the Fox,” where a lioness
+warns her presumptuous son to “ Beware of him whose head is in a line with his
+shoulders and breasts, wdio has pinching weapons, who keeps white dogs, and
+who goes about wearing the tuft of a tiger’s tail.”
+
+547. Nzamba Ngola ’ Aniinii is the Elephant’s proper name. Ngola Kaniinii
+is a native chief in the concelho of Ambaca (Mbaka), residing a few miles from
+the Portuguese fort. The first Ngola Kaniinii was a son of Ngola Kiluanii,
+fourth king of Ngola or Ndongo, by his wife Kaniinii ka Kiluanji. When the
+Portuguese first conquered the region of Ambaca, the Ngola Kaniinii of that time
+favored them, and was recognized by them as owner of the land, with the exception of a circuit around their fort. This was built, the first time, in 1614. It was
+the duty of the chief Ngola Kaniinii to serve the church, as a “soba da igreja,”
+which he faithfully did. Kisonde kia malemba , a mu zalela ngongo , which it is
+difficult to interpret, is the “ laudatory ” name of the Red-ant. The ant is here
+considered by the Lion to be his eqyal, because it is the only animal that can
+kill the elephant.
+
+
+NO. XXVIII.
+
+Informant. Joao Borges Cezar. See No. IV.
+
+Dialect and Origin. Loanda.
+
+Comparative. In the Sierra Leone “Weekly News” of October 11, 1890,
+was published a “ Nancy story,” which is a variant of the present. The Tortoise
+stands for the Frog, the Deer for the Elephant, and the King for the women acting
+as judges of the dispute. See “Journal of American Folk-Lore,” 1891, p. 180.
+
+The population of Sierra Leone is a mixture of natives of the adjacent tribes,
+Temnes, Sosos, Mandingos, Bulloms, of freed slaves from most tribes of West
+and Central Africa, and of freedmen from the West Indies and the United States.
+
+The folk-lore of Sierra Leone must, therefore, be exceedingly rich. From personal inquiry I know this to be a fact, although, so to say, nothing has yet been
+made public.
+
+Among the distinct settlements of released slaves, I found, at F reetown, one of
+Angola natives in the suburb called Angola-town. There I discovered representatives of the Kisama, Lubolo, Mbaka, and Ngola tribes, who, though Christianized and anglicized, have kept up the use of Ki-mbundu, and still cherish the
+remembrance of their native land.
+
+About the Frog’s intelligence, see No. XIII.
+
+A Brazilian negro variant of the story is published in Sylvio Romero’s “ Contos
+populares do Brazil,” p. 145. In this the Frog’s part is played by the Turtle, and
+that of the Elephant by the Teyu.
+
+548. Ku-namulalela is the relative of ku-natnulala , which is the Portuguese
+
+549. Mukaji is not used exclusively for “wife,” but also for “intended, bride,
+sweetheart.” That both are courting at the same house does not imply that they
+are courting the same girl; as the next sentence shows, there were several
+females in that house.
+
+
+NO. XXIX.
+
+
+Dialect. Mbaka. But the origin is Mbamba.
+
+550. Sute is an African mole, which the natives eat, like almost all field-rats.
+Mu-kenge is not our fox. It has long, coarse, gray hair. The civilized natives,
+in speaking Portuguese, call it “ raposa,” i. e., fox.
+
+551. Uabanga, preterit III., shows that the tunnel had been made before. It
+was not made for the purpose of cheating the Fox, but only used to this end.
+See Grammar, p. 44.
+
+552. Nganda, from ku-enda, by the same process as ngenji (Grammar, p. 125).
+Another word for underground road or dwelling is uina. The opening of the
+tunnel was hidden by the reed-like grass called nzunga , which grows in the rivers
+close to the banks.
+
+553* Id-u-t, or zau d (pronounced idud). The u is both euphonic and archaic.
+Whenever the vocative or emphatic / or ^ follows -d or -6, a euphonic u , semivowel, is inserted. If the final vowel is -d, this is changed into -ai. Grammar,
+notes 76 and 79. Final -d, -o, and -/ were in old Ki-mbundu - au , -ou, -ai, or -eu.
+
+
+NO. XXX.
+
+
+Dialect and Origin. Mbaka.
+
+554, An old, deserted, ant-hill is a favorite dwelling-place for animals living
+in holes or caverns. It is water and fire proof, and can easily be hollowed out as
+required. It is also frequently used by homeless men in the far interior, especially
+in times of war.
+
+
+NO. XXXI.
+
+
+Dialect. Mbaka. But the origin is Mbamba.
+
+Comparative. This story shows that the Bantu negroes are familiar with the
+game of hide-and-seek. As in the Hottentot folk-lore, so in that of the Bantu,
+the Jackal plays the part of cunningness, which the Fox discharges in European
+folk-lore. The mbulu differs from the dibeku , another kind of jackal, in that his
+color is darker. The tmikenge of the two preceding tales is smaller than the
+jackal, has coarse, long, gray hair, a long hairy tail, a head somewhat like that of
+the ichneumon, and is proverbial for his chicken stealing.
+
+Though both are cunning, the Hare seems, in Bantu folk-lore, to surpass the
+Fox in shrewdness.
+
+In a Bahaman negro story, on p. 49 of the “Journal of American Folk-Lore,”
+1891, the Dog plays to Man the same trick as our Hare. “ Now de dog jut’ leave
+*e two heyes out. Vwen ’e get dere, de man say, ‘ Ho my ! look at de san’ got
+heyes.’ ”
+
+
+NO. XXXII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. The Angola squirrel is smaller than ours, but just as restless.
+It is an excellent symbol for impatience. The scientific name of the Angolan
+squirrel is Scirnts palliatus , Peters. In the coast dialect it is called Kaxinjangele. The word is composed of Ka-xin ji-a-ngele.
+
+This story is the counterpart of the following. Here the Squirrel loses his
+glorious chance by his impatience ; there the Dog misses the same golden opportunity by his greed.
+
+555. Lelu a leley a kind of superlative of lelu; not in common use.
+
+556. This d is the pronoun of ungana. In Loanda, it is & and would have to
+
+557. A proverb.
+
+
+NO. XXXIII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. See the preceding number. As a few stories, illustrative of
+the Angola dog’s characteristics, follow, it is well to note how different from ours
+is the African’s estimate of the dog’s moral make-up. With us he is the image
+of faithfulness and intelligent devotion ; with them he personifies all that is mean
+and low. As among Orientals, so among the A-mbundu, the dog’s name is used
+as an insult equivalent to our “ swine, hog.” This difference of appreciation is
+not quite unwarranted. The aspect of the skeletoned and mangy scavengers of
+African streets, and the guilty look with which they sneak out of your reach, inspires nothing but contempt and abhorrence. What a difference with our civilized
+and almost christianized St. Bernards and Newfoundlanders ! It takes a philosopher to make the first impression yield to that of pity ; to search for the cause of
+this difference, and to find that it is not the dog’s fault, but that of his masters.
+Ill -fed, if fed at all, and constantly ill-used, the poor African dog has had no chance
+of evolving his latent virtues into improved breeds. It is the struggle for existence that has made him a thief and a scavenger. No. XXXIX. shows that the
+hunting-dog’s life is not so unhappy.
+
+
+jot
+
+There is a striking resemblance between this fable and the iEsopian, in which
+the cat, changed by Venus into a blooming maid and married to a young man,
+cannot help catching and eating the first mouse she sees in her husband’s house.
+
+The Sierra Leone "Weekly News,” 1890, contains a variant in modern Negro-
+English garb.
+
+558. The kijinga of a “soba” has generally two appendages like horns, either
+hanging or sticking out on either side. As the cap passes from generation to
+generation, the greasier it is the nobler. A “ soba ” has the right to give a kijinga.
+(the equivalent of crown) to any of his subjects who sets up a village or town of
+his own. Thereby the head of a village is endowed with all the prerogatives of a
+chief, but he has to pay homage and tribute to his suzerain who raised him to the
+chieftainship. Such a tributary chief is called a kilamba .
+
+559. The tnbasd , probably from the Portuguese “ bast2o,” is a staff of choice
+wood, the thicker end of which is ornamented with sculptures or inlaid tin or
+silver. The Akua-Luangu smiths show much skill in manufacturing such inlaid
+sceptres.
+
+560. Mukaka is a rodent about the size of a squirrel, with red-brown fur.
+
+561. Mbenza is a chair of native make. The natives of Tombo, on the Quanza
+River, manufacture ji-mbenza of Bordao palm-ribs; these find a ready market
+among the whites and blacks of Loanda.
+
+
+NO. XXXIV.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative, Here the dog himself proves what was advanced in the preceding notes concerning the injustice he has to suffer. No. XXXIX., however,
+shows that among African hunters and dogs there are exceptions to this, as to most,
+rules.
+
+562. Mungudinia , form of the inland dialects. In Loanda it is mungudirtd.
+
+
+NO. XXXV.
+
+
+Dialect. Mbaka. But the origin is Mbamba.
+
+Comparative. This story tells us how the dog came to exchange the freedom
+of bush-life and the company of his brother, the jackal, for the company of men
+and the charms of civilization.
+
+It is a counterpart of the following piece, which relates the separation of the
+house-hog from his brother, the bush-hog. Both stories must, therefore, be located
+in the aetiologic class.
+
+Compare with this Aisop’s fable of the sleek House-dog and the lean Wolf.
+
+
+NO. XXXVI.
+
+
+Dialect. Mbaka. But the origin is Mbamba.
+
+
+563. Kiombo is the Phacochcerus athiopicus . All the domestic pigs of Angola
+are black, while all the wild ones I have seen were of a dirty white.
+
+
+NO. XXXVII.
+
+
+Dialect. Mbaka.
+
+Comparative. In all the Bantu folk-lore the Tortoise or lurtle plays a prominent part as a shrewd little animal. So in this story it comes out victorious in its
+dispute with the Partridge. It should not, however, be inferred from the story
+that the turtle always escapes from the prairie fires. I have seen proofs of the
+contrary, one of which is now in the National Museum, Washington, in the shape
+of a burnt turtle-shell, whose inhabitant was baked in it by the prairie fire.
+
+Compare No. XVII. and Bleek’s “Reynard the Fox,” Nos. XIV., XV., XVI.
+
+The Indians of Brazil tell a long string of adventures of the Turtle or Tortoise
+{ Jabuti ), in which it gives many proofs of its shrewdness. Nearly all those tricky
+feats of the Turtle are found in African folk-lore, from the Sahara to the Cape,
+though they are sometimes played by other animals than the tortoise. That the
+Negro lore of America, North and South, has had a marked influence on the
+Indian lore has already been shown by F. T. Crane and others. Another instance
+is offered by this story of the Turtle as compared with pp. 175 and 176 of “ Contos
+populares do Brazil,” by Sylvio Romero, where the Turtle wanted a bone of its
+adversary to make a flute with, and when it got one of the Leopard, it sang on it,
+just as our turtle : “ A minha frauta 6 do qsso da on^a, ih ! ih ! ”
+
+564. The word ku-xikina is predicate of the unexpressed subject ku-lenga;
+thus, Nguadi ulenga; (o kulenga ) ki kuxikina; the Partridge runs ; (the running)
+it will not do (fails). When the running fails, the Partridge resorts to its last
+resource, its flying apparatus ; but this also fails.
+
+565. Kalumbinga, from mbinga. Korns being in pairs, a single horn, in the
+interior, is called lu-mbinga (Grammar, p. 5, note 12), and a little one, with
+
+
+NO. XXXVIII.
+
+
+Dialect. Mbaka. But the origin is Mbamba.
+
+Comparative. Compare with the Frog in Nos. XIII. and XXVIII.
+
+In their tales the Africans do not conceal their consciousness of the evils of
+polygamy; in candid argument, they are also easily convinced of the rationality
+and moral obligation of monogamy ; but in practice it is hard for them to obey
+the dictates of reason and conscience.
+
+See “ Magana Hausa,” by J. F. Schon, p. 8.
+
+566. Uasakenene , in Mbaka, instead of uasakanene of Loanda. Whenever a
+suffix has -e- as accented vowel, and the last vowel of a polysyllabic verb modified
+by it is -£-, this may be changed by retroactive vowel attraction into -e-. Thus,
+ku-bindem-ena for ku-bindam-ena, from ku-bindama; ngataken-ene for ngatakanene, from ku-takana.
+
+567. Di-nangu, the place where the day is spent leisurely, from ku-nanga , to
+spend time without working. Thus also di-sungi, or dirsungilu, the place where
+the evening is spent in chatting, from ku-sungila , to spend the evening or night in
+chatting.
+
+568. Ku-tuma is both “to send ’’and “to send for, to send word to come;”
+also “ to order, command, bid, govern.”
+
+569. Di-zundu is the full form ; Zundu is the shortened form, due to the frequent dropping of the prefix di-j Ka-zundu is either the diminutive or proper
+
+
+Notes. 3°3
+
+name, derived from di-zundu by the substitution of the prefix ka- for the prefix
+di -.
+
+570. Kate. This word is not used in the coast dialect.
+
+571. Ku-tangalala. This verb signifies particularly “to be perplexed, at a
+loss.” It is not current in the coast dialect, where another medial form of the rootverb, ku-tangamana , signifies “ to be crossed by something, hampered.”
+
+
+XXXIX.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. This and the two following stories are classed as ruaka or
+fact stories by the informant. We, who do not believe in their supernatural portions, would have placed them among the mi-soso. Now they stand here as links
+between the mi-soso and the maka.
+
+The present story proves that the “ professional ” dogs, used in hunting, are
+held in higher estimation than the common dogs, whose woeful lot is mentioned
+in No. XXXIII.
+
+As a hunter story, this number may be compared with Nos. XII., XVIII.,
+XIX., XX.
+
+The final scene, in which the Hunter calls the villagers to be witnesses of what
+he is going to say, corresponds to the final act of No. X.
+
+Like the following story, this is intended to inculcate the supernatural power of
+the ki-mbanda or medicine-man, and his u-mbanda , or magical power.
+
+572. Uala mu kolela , instead of uala mu kuolela. Before -o- the semi-vowel
+preceded by a consonant, may be dropped in pronunciation. In writing it
+should never be omitted.
+
+573. Here “ we speak ” stands not for the dogs only, but for all the animals :
+“We, animals.”
+
+574. In most parts of Africa, as among the old Germans, human lives have a
+money value. This value depends on the fluctuations of the slave market. How
+the traffic originates can be illustrated from the present story. If the uncles had
+not had the six head of cattle, or if they had rather kept them, they would have
+sold the woman and her children, or another nephew or niece (enough to make
+up the six head of cattle, and thus pay the penalty). To whom would the woman
+have been sold? To the highest bidder, of course. Now, as the greatest number
+of unfree laborers (or slaves) are wranted, and the highest prices are paid, by the
+white residents of Africa, who need bond servants, carriers, and plantation hands,
+it follows that they are preferred as purchasers. To meet the demand, colored
+and white agents roam about in quest of the best districts, where they may
+“ redeem ” (European parlance) or “ buy ” (African parlance) with greatest profit
+the poor fellows, who are sold, according to the native law, by their uncles or chiefs
+in order to pay a private or public debt. Generally, the people thus bought are
+called by Europeans “ laborers,” “ apprentices,” or “ contract-laborers,” but they
+are still called “ slaves ” in the native languages, and by many white colonists.
+Another source of the slave-traffic is man-stealing. Prisoners of war are, according to native law, saleable merchandise, if their kindred fail to redeem them.
+Therefore, where the whites offer high prices for “redeeming” or “buying”
+slaves, ambitious chiefs obtain from their European clients better arms and ammunition than some neighbor, attack and conquer him, seize all the cattle and
+human kind they can, keep the former and sell the latter to their white, yellow, or
+black, but civilized, customers of the coast region. Thus the Makioko nation,
+
+
+304 Folk -Tales of Angola .
+
+provided with guns and powder from Benguella, has wellnigh destroyed and
+“sold” the once great Lunda nation, its feudal superior. Among the victims of
+this traffic whom I questioned in various places, I found several who had been
+wantonly stolen by passing traders and incorporated in their caravans of slaves,
+sure to die if they should try to divulge the secret. How is the thing to be
+stopped ? Only by stopping the “ demand,” by absolutely forbidding and severely
+punishing the so-called “redeeming” and “contracting” of Africans. See No.
+XLI.
+
+
+XL.
+
+
+Dialect. Mbaka.
+
+Origin. Cassange or Kasanji. This is the title of the head-chief of the
+I-mbangala (sing. Ki-mbangala), whose language is called U-mbangala. From
+the head-chief all the country of the I-mbangala has been called Kasanji, in Portuguese Cassange. Properly, however, this Portuguese name only suits the ancient
+“Feira,” or market, or trading-post, situated some twenty miles’ waik west of the
+Kuangu River.
+
+See my Vocabulary of U-mbangala, in Dr. C. G. Biittner’s “Zeitschrift fur
+Afrikanische Sprachen,” Berlin, January, 1889.
+
+About the history of Kasanji (Cassange), see H. de Carvalho, “ Ethnographia
+e Historia tradicional dos Povos da Lunda,” Lisbon, 1890. On page 83, our
+Kitamba kia Xiba (Quintamba-quia-Xiba) appears as the twentieth in the line of
+the kings of Kasanji. One of our unpublished historical traditions gives an
+account of the origin of the Kingudi dynasty and of the exodus of the Pende
+tribe from Kasanji to its present quarters in the Kasai basin.
+
+Comparative. The description of Kalunga or Hades, in this piece, should be
+compared with that of Nos. V. and L. The wetting of the fire-place in this number also reminds one of the watering of Sudika-mbambi’s life-tree in No. V.
+
+The people in the lower world not only live on, much as they did in this upper
+world, but they have also to die again a natural or unnatural death. Then they
+enter the kingdom of Mbulu a Maminiu , which is the end of their existence.
+
+As to the power of u-mbanda , or magic, see the preceding and the following
+story.
+
+575. Kuku is usually “ grandparent ; ” as to the honorific plural form for one
+
+576. That is, tuck your loin cloth at the waist without wearing a girdle.
+
+577. Iunid , for lurid, is a very unusual form. Compare mungudinia of inland
+dialects, for mungudind of the coast dialect.
+
+578. No answer is expected to the question, “How many years?” It simply
+means an indefinite number of years, a few years.
+
+
+XLI.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. In No. III. we have already seen the Lukala River as a personal being dealing with men. Here, the River, without any specification as to
+locality or name, acts the part of just Providence, by rescuing an innocent slave
+from his bondage, and enriching him above his countrymen. This wonderful
+change is brought about through the art of healing revealed to him by the River
+in dreams. See, also, Nos. III., IX., L., about water-spirits, and Nos. XIII.,
+XXIII., XXXIX., XL., XLVII., about magical medicine.
+
+This story is important as illustrating one phase of African slavery.
+
+579. Kuala, the same as kua . The first is probably the full archaic lorm of
+the second.
+
+580. That is, the uncle owed an ox, and not being able to pay, gave one of his
+nephews as pledge. See notes 574 and 582.
+
+581. The infinitive is used, here, as impersonal verbs are in other languages. The
+subject is left in the dark, so that one cannot tell whether one or several persons
+would not redeem the lad, or whether the wherewithal was lacking. In English
+the passive would give the exact meaning, “ he was not redeemed,” cause or reason
+unexplained.
+
+582. This is a fair description of the African domestic slave’s lot. Sad as it
+is for the native’s feelings, this lot is incomparably preferable to that of the “ contract-laborer,” or bondman, in the service of a white man or a civilized native. As
+the uncivilized native master has no more needs to satisfy than his slaves, he does
+not drive them, with whip in hand, to a continued ten or twelve hours* work per
+day, Sunday often included ; nor does he call, consider, or treat his bond servant
+as a “ beast.”
+
+583. Pesa, unusual term for munzangala. In the times of the export slavetrade, slaves as articles of merchandise were called in Portuguese “ pe$as,” i. e.,
+“ pieces,” perhaps from this pesa.
+
+584. That is, before the people have opened their doors, to go out ; before they
+are astir.
+
+585. Ngonga is a neat, tight, and small basket with a lid.
+
+586. Literally, it walked, went, how ?
+
+587. Ku-anjiua = ku-anjua , to dream. In Loanda, they say ku-anda nzoji.
+
+588. Mazulu , in Loanda ma-zunu, is literally “the nostrils” or the “noses;”
+applied to guns, their muzzles. A a beteka is literally, they (the guns) hold them
+(the muzzles) down.
+
+589. One might suppose that the three things were emblems of three trades :
+the guns, hunting; the bales of cloth, trading; the medicine-basket, doctoring.
+It was wisdom to prefer the humble basket to the valuable guns and bales.
+
+590. It is strange that most of the insulting epithets used by natives, even in
+the far interior, are of European origin, thus diabu (diabo) nikulu (negro) maid -
+ndulu (malandro). The native way of insulting is to say something disparaging
+of the other fellow’s mother; his mother being the most sacred thing the Angolan
+can think of.
+
+591. Fidila , Portuguese “ferida,” is the word used for wound or sore by the
+natives of all tribes that have accepted scraps of civilization. The purely native
+word kipela is only used by the so-called matumbu (“gentio,” heathen) tribes, e.g.,
+the Mbondo, Mbamba, Holo, Hungu.
+
+592. A piece of trade-cloth, which is common white calico.
+
+593. “We are two,” for “we are together.”
+
+594. That is, thou dost not even know the commonest vermifuge. The Angolans ascribe the gnawing of hunger and most of their intestinal ailments to the
+semi-mythic di-buka , which they render in Portuguese by “ lombriga,” which is
+our thread-worm. Rum is supposed to be a specific for the uneasiness caused by
+the di-buka . That is why a drink is called “ mata-bicho,” i e., worm-killer.
+
+595. That is, if he fails to master it (the disease).
+
+596. That master was mean. The boy had been given him as pledge for one
+ox ; and after so many years’ service he demands three cows. The generosity of
+the slave, who only leaves his master when he has grown to be decidedly more
+
+
+306 Folk -Tales of Angola .
+
+than his master, and then gives him all he demands, is peculiarly African. After
+living a number of years with his master, the slave often gets so attached to him
+and his surroundings that he considers himself one of the family.
+
+597. The meaning of every verse is : “ What you do, do it with all your might,”
+and “aim high.” The deeper meaning of “Wealth came from medicine” is that
+knowledge is the source of prosperity.
+
+598. Another series of sayings. Evidently, to keep tongue and teeth hidden in
+mouth, means “ to hold one’s tongue.”
+
+599. These three sayings mean, “ I have done what I proposed to do ; therefore
+I have finished.”
+
+NO. XLII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. In Nos. XVI. and XXVI. we already have seen a court of
+umpires giving their sentence ; only the judges were animals. In this and the following stories the judges or umpires are men. All the 7naka turn about some pivotal
+question of who or what is right or wrong. In all of them one of the chief actors is
+represented either as justified or condemned in what he did or said. Sometimes,
+as in this and the stories following immediately, there is a lawsuit with pleading
+on both sides ; sometimes, too, the final events show which of the persons or principles involved was right or wrong. Most stories of this class are illustrative of
+some moral truth, which maybe expressed concisely in a proverb. Some only turn
+on a witty remark or pun.
+
+The present story may, as it concerns hunters, be compared with Nos. XVIII.,
+XIX., XX., and XXXIX.
+
+The sentence reminds one of that of Solomon about the child which two women
+claimed.
+
+600. This maka begins with a proverb, which may be either the cause or the
+result of it. Quarreling in the bush implies that there were no witnesses.
+
+601. Milonga , pi. of mulonga. Here the plural is used for the singular in a
+loose way of speaking, Mulonga means word, speech, dispute, quarrel, lawsuit,
+
+602. When natives cry, because they deem themselves wronged, or because of
+a relative’s death, they strike a monotonous tune, or improvise a rhythmic verse,
+which they go on repeating and repeating until exhausted, or until some unexpected event calls their attention elsewhere. For the foreigner it is sometimes
+very hard to tell whether a native is whining or singing. Kingungu a Njila, whose
+emotion is genuine, stammers at first in his complaint.
+
+603. A exana may also be exana , the e sounding then longer than usual because it is a contraction of a ■+- a + ixanaj not only a 4- ixana.
+
+
+XLIII.
+
+Informant. Francisco P. dos Santos Vandunem. See No. XXVI.
+
+Dialect and Origin. Loanda.
+
+604. Muxixi is the Sterculia tomentosa , Guill. et Perr., of botanists. It is
+found in the coast-belt.
+
+605. Andaxly from the Portuguese “ ainda assim.”
+
+606. Dikuty from the Portuguese “ do que ; ” the genuine Ki-mbundu equivalent is na or kana.
+
+
+3°7
+
+
+60 7. The forms ngano . . . for ngenio ... or ngene mu, and ngajo . . . for
+ngojo ... or ngejia ... are used by many elderly persons in Loanda.
+
+
+NO. XLIV.
+
+Informant. Francisco P. dos Santos Vandunem. See No. XXVI.
+
+Dialect and Origin. Loanda.
+
+608. Kitombe kia kifefeteVe disu-badi is an idiom, signifying great darkness.
+Ku-fefetela is “ to become dim, gloomy ” of light, or “ to whisper, to be low or
+weak ” of sound. (l He was dead (of, by) eye one,” that is. “ one of his eyes was
+dead, blind.”
+
+609. Ttf / is an interjection expressive of dazzling brilliancy. “ The moon is
+like a shining pate,” is an idiom ; and the father-in-law did have a shining pate,
+though black.
+
+610. Musumbe is a native of the Sumbe country about Novo Redondo, halfway between Loanda and Benguella. See my article on Novo Redondo and the
+Ba-sumbe, in “ Goldthwaite’s Geographical Magazine,” New York, 1891. As
+most of the Loanda bond servants and most plantation hands have been “ redeemed ” (bought) at Novo Redondo, musumbe is used, in a wider sense, for any
+unfree servant. Ku-sumba is “ to buy,” and the word may also be derived from
+this verb and mean simply “ a bought one.” This proverb shows that the natives
+have a regard for the feelings of their slaves. White owners of “ bought servants ”
+are not so particular.
+
+61 1. In rapid speech, one often hears d for eie.
+
+
+NO. XLV.
+
+
+Dialect and Origin. Mbaka.
+
+612. Kabolongonio , also kaholongonio from kibolongonio , and kiholongonio.
+
+613. This u refers to mutue.
+
+
+NO. XLVI.
+
+
+Dialect and Origin. Mbaka.
+
+6:4. That is, nobody in the village has any dried fibre-cords on hand, and the
+green ones, to be got from the forest, would require some time to dry and prepare
+so as to be fit for the present work.
+
+61 5. Or, I was weaving a mat, which was interrupted to me, that is, I was
+weaving a mat, and something forced me to stop my work, though unfinished.
+
+
+NO. XLVII.
+
+
+Dialect. Mbaka. The origin may be either Mbamba or Mbaka. The story
+is popular among both tribes.
+
+Comparative. For us the metamorphosis of a man into a lion is fictitious,
+and the story seems, therefore, to belong to tile mi-sosoj but the natives hold
+such metamorphoses to be not only possible, but frequent. In all earnest they
+
+
+308 Folk-Tales of Angola .
+
+will quote a fact like the present one, which passes as historical, to prove that by
+means of a charm or talisman a man can be transformed into any imaginable
+thing. See No. III. for a whole collection of metamorphoses. Compare with
+this the “man-leopard” of the British Wesi Coast of Africa. The man-leopard
+is supposed to be a man, changed by magic into a leopard. As such he is invulnerable and far more dreaded than the natural leopard, who can be killed. In
+reality, the man-leopard is a man, dressed in a leopard-skin, who waylays and
+kills people, especially defenseless women and children. Sometimes he is a member of a secret society, and this man-killing is part of the rites. Its object is to
+inspire fear of the organization, and also to test the greatness (hardness) of heart
+of the candidate. On Lycanthropy, see “Journal of American Folk-Lore,” 1891,
+p. 189.
+
+616. A proverb.
+
+617. Hitu is probably derived from the same root as ku-kituka, to be transformed. About change of k into h , see Grammar, p. 1 26, 3.
+
+
+NO. XLVIII.
+
+
+Dialect and Origin. Mbaka.
+
+Comparative. In No. XLII. we have already mentioned that some of the
+maka, though there is no apparent court, and judge or umpire, still are of the
+same nature as the regular judicial pieces. Thus, in the present case, the two
+parties make contrary assertions ; they try to prove them by putting them in practice ; the result decides the question in favor of one and against the other. One
+wins, the other loses ; one is justified, the other is condemned. In native parlance
+it is said, in such a case, that God is the judge.
+
+618. “Builder of ability,” that is, “able builder;” “builder of haste,” that is,
+“ hasty builder.”
+
+
+NO. XLIX.
+
+
+Dialect and Origin. Mbaka.
+
+
+NO. L.
+
+Informant. Senhor Sant* Anna e Palma (now dead); an educated negro of
+Calumbo, whom I met in 1896, at Bom-Jesus, where he promised me to collect
+some native folk-lore. His poorly written notes were sent to J. C. da Matta, who
+transcribed this story for me.
+
+Dialect and Origin. The lower Quanza, or Kuanza, River.
+
+Comparative. As illustrative of life in the spirit world, this story should be
+compared with Nos. V. and XL, Like No. XL. it tackles the great problem of
+death and the future life. While the common people always ascribe death to
+Kalunga-ngombe, who wants ever more subjects for his underground kingdom,
+the wiser men hold that the true cause of most deaths is to be found in men’s
+vices, crimes, and carelessness.
+
+620. Ngunza signifies, in the Kisama and Quanza region, a hero ; one who has
+killed an enemy in war. Some civilized natives of Loanda also use Ngunza for
+God ; but erroneously. Kilundu is a spirit, like the kituta , into which our hero
+is finally transformed. Thus the name indicates the substance of the story, (1) the
+
+
+3C9
+
+(heroic) fighting with Kalunga-ngombe, (2) the transformation of Ngunza into a
+Kituta. This is the same as Kianda. See No. IX.
+
+621. This does not signify that he went to the Loango coast, north of the
+Kongo River ; but that he went to some of the wandering Loango smiths, who are
+scattered all over the Kongo and Loanda districts of Angola.
+
+622. The second informant was unable to make out these words in the manuscript of the first informant.
+
+623. Ulutnba, and ukembu , signify (1) ornament in dress, (2) the love of ornament, vanity, (3) its cause and concomitant, sexual love, and flirting. The indulgence of the latter induces its abuse, adultery, and its punishment, death by
+poison-test or murder.
+
+624. The crowds of Ndongo is the same as “the tribes, or nations, of Ngola
+(Angola).”
+
+625. A word that could not be made out in the original manuscript. Mihinda
+is a place near Tombo on the Oifanza River.
+
+626. Fruits and vegetables, the equivalents of which in English, or in botanic
+language, are not known.
+
+627. Makunde is the Vigna unguiculata , Walp., or Vigna Sinensis, Endl. Diniangua is the Cucurbita maxima, Duch. Diniungu a slightly different kind.
+Kinzonji is the Cajanus Indicus , Spreng. Uangela is the Sesamum , called gergelim by the Portuguese. Kabulu is a kind of beans.
+
+628. Compare with mutu a lubi la suku of the Malange dialect, note 280.
+Suku is the name of a great spirit. Sometimes it is used by the people south of
+the Kuanza for God.
+
+629. Many of the Kuanza people use a instead of Loanda ma for the concord
+of prefix ma -.
+
+Additional Note (see p. 281).
+
+The “Bulletin Missionnaire ” (Lausanne, February, 1887) contains a story current among the Ma-gwamba of Louren^o Marques, Southeast Africa, which differs
+from our No. VII. almost only in the fact that Banga-kulu, the cannibal, plays
+the part of the Ma-kishi. As the little girl’s song in the Gwamba tale helps to
+make ours intelligible, we reproduce it here in English : —
+
+
+We are not asleep,
+
+Because of the mosquitoes.
+
+I tell them, “ Let us take the narrow path ; ”
+
+They take the wide path,
+
+The easy path that leads astray ;
+
+They want to return to their mother.”
+
+To which Banga-kulu replies : —
+
+
+They are not gone ;
+
+They are still there ;
+
+Are they not, little mother? r
+
+
+LIST OF WORKS ON AFRICAN FOLK-LORE, CITED IN THE
+
+
+South Africa.
+
+Bleek, IV. H. /. A Brief Account of Bushman Folk-Lore. London, 1875.
+
+— Reynard the Fox in South Africa; or, Hottentot Fables and Tales.
+
+London, 1864.
+
+Brincker, H. Worterbuch des Otyi-Herero. Leipzig, 1886.
+
+Callaway , Rev. H. Nursery Tales, Traditions, and Histories of the Zulus.
+Natal, 1868.
+
+The Religious System of the Amazulu. Parts I.— III. Natal, 1868-
+
+70. 2d ed. (Publications of The Folk-Lore Society, xv.) London, 1884.
+
+Casalis , E. Etudes sur la langue S€chuana. Paris, 1841.
+
+Cape Monthly Magazine. [Scattered articles by Bleek, W. H. I., Orpen, J. M.,
+and Theel, G.] Capetown, 1870-1879.
+
+Folk-Zjme Journal. (South African Folk-Lore Society.) Capetown, 1879-81.
+
+Eritschy G. Die Eingeborenen Siidafrikas. Breslau, 1872.
+
+Grouty Rev. L. Zulu Land, or Life among the Zulu Kaffirs. Philadelphia,
+
+The Isizulu. A Grammar of the Zulu Language. Natal, 1859.
+
+Kronleiity Rev. J. G. Wortschatz der Khoikhoin. Berlin, 1889.
+
+Thealy G. McC. Kaffir Folk-Lore. 2d ed. London, 1886.
+
+West Africa.
+
+Bohnery Rev. H. Im Lande des Fetisches. Basel, 1890.
+
+
+Bouchey Abbi. Les Noirs peints par eux-mdmes. Paris, 1883.
+
+Bowen , Rev. T. J. Grammar and Dictionary of the Yoruba Language. Washington, 1858.
+
+Burton , R . F. Wit and Wisdom from West Africa. London, 1865.
+
+Chris taller y Rev. J. G. A collection of 3600 Tshi Proverbs in use among the
+Negroes of the Gold Coast. Basel, 1879.
+
+Koelley Rev. S. IV. African Native Literature, or Proverbs, Tales, Fables,
+and Historical Fragments in the Kanuri or Bomu language. London, 1854.
+
+Reichardty Rev. Ch. A. L. Grammar of the Fulde Language, with some original
+Traditions. London, 1876.
+
+Schlenkery Rev. C. F. A Collection of Temne Traditions, Fables, and Proverbs. London, 1861.
+
+S chon y Rev. T. F. Magdna Hausa. Native Literature, or Proverbs, Tales,
+Fables, and Historical Fragments in the Hausa language. (With a translation in
+English.) London, 1885.
+
+East Africa.
+
+Almeida da Cunhay J. cT. Usos e Costumes dos Banianes, Bathias, etc., de
+
+Kibaraka . Swahili Stories in Swahili. Zanzibar, 1885.
+
+Steer fy Rev. E. Swahili Tales, as told by natives of Zanzibar. London, 1870.
+
+Sultani Darai. Swahili Tales, as told by natives of Zanzibar. Zanzibar, 1884.
+
+Taylory Rev. W. E. African Aphorisms (in Swahili). London, 1891.
+
+General.
+
+Biittnery C. G. Zeitschrift fur Afrikanische Sprachen. Berlin, 1887-89.

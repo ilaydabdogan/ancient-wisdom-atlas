@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_grosventremythst00kroe
+  work_id: native_american.gros_ventre.kroeber_archive
+  title: Gros Ventre Myths and Tales
+  source_url: https://archive.org/details/grosventremythst00kroe
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/grosventremythst00kroe-gros-ventre-myths-tales-kroeber.txt
+    checksum:
+      algorithm: sha256
+      value: e8862c7d5243cb886b7bf798427944d4bca140122a825a7d050c657fa50a665f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/grosventremythst00kroe-gros-ventre-myths-tales-kroeber.md
+    checksum:
+      algorithm: sha256
+      value: 1150ee124c116b954e812c3f27fb859ecd2b38bff3a58607cd695165a637e4ba
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md
+    checksum:
+      algorithm: sha256
+      value: 4d0f1cb792b2131baed9f7acad4522b0c71232a62909528a15a4d0816af9327b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.gros_ventre.kroeber_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1907, US public domain. Verbatim-close English translations from
+      named A'aninin (Gros Ventre) narrators. Salvage ethnography on a small lineage
+      closely related to the Arapaho, allowing fine-grained lineage-pair comparison.
+      Ceremonial origin narratives are community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

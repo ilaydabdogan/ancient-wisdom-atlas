@@ -1,0 +1,67 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_35173
+  work_id: greek.euripides.bacchae.murray_gutenberg
+  title: The Bacchae of Euripides
+  source_url: https://www.gutenberg.org/ebooks/35173
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/35173-bacchae-euripides-murray.txt
+    checksum:
+      algorithm: sha256
+      value: 8b8bfb6e497d73aee12a48ddf15bf2b3350b29fd725b56778539c77bafa52cf8
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/35173-bacchae-euripides-murray.md
+    checksum:
+      algorithm: sha256
+      value: cadd69bf498ac4c83c9898c3073e279ddc3e89ad23a8174d127cdc2aa605b03a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+    checksum:
+      algorithm: sha256
+      value: e0b3ea588ef4361a0f541c72e8b592ed6337d976060d4896c6b732ea6c2671ce
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.euripides.bacchae.murray_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Murray's verse translation.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

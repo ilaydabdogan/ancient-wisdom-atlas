@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_sociallifeceremo0013skin
+  work_id: native_american.menomini_bundles.skinner_archive
+  title: Social Life and Ceremonial Bundles of the Menomini Indians
+  source_url: https://archive.org/details/sociallifeceremo0013skin
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/sociallifeceremo0013skin-ceremonial-bundles-menomini-skinner.txt
+    checksum:
+      algorithm: sha256
+      value: '08342f1450816152c6b13eda135245141768f96135d5636911fcc85311b459d4'
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/sociallifeceremo0013skin-ceremonial-bundles-menomini-skinner.md
+    checksum:
+      algorithm: sha256
+      value: daed84b4db0ed943f216be3fba938bdcc18777ea016c4a6bbcba01200b27e868
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+    checksum:
+      algorithm: sha256
+      value: aff72046f7b309e08c7a66b1e0099229ae8a9acd088602336dc9a591363951de
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.menomini_bundles.skinner_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1913, US public domain. Mixed verbatim/paraphrase - ethnographic
+      monograph embedding recorded origin narratives and bundle rites from named Menominee
+      narrators. Sacred-bundle and Medicine Dance content is strongly community-sensitive;
+      flag ceremonial passages for restricted handling.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

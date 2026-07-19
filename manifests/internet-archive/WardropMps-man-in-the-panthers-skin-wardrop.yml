@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_WardropMps
+  work_id: georgian.man_in_the_panthers_skin.wardrop_archive
+  title: The Man in the Panther's Skin
+  source_url: https://archive.org/details/WardropMps
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/WardropMps-man-in-the-panthers-skin-wardrop.txt
+    checksum:
+      algorithm: sha256
+      value: bdd00c6e6689af8cf4a4e21ca4fd2a4cd943a4bbe046c0e220a6eb56bf136afc
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/WardropMps-man-in-the-panthers-skin-wardrop.md
+    checksum:
+      algorithm: sha256
+      value: 72384db61b105d22171a11666b0f7922522d1a48f8b6743a09313053be87266d
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+    checksum:
+      algorithm: sha256
+      value: a2e8d703ce2451cc85353f9a835a91627741476366902f6728f55bf49d934600
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids georgian.man_in_the_panthers_skin.wardrop_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Rustaveli's epic is medieval; the Wardrop translation was published 1912
+      (pre-1930), US public domain. Hosted file is OCR text of a Google-digitized
+      library scan; expect OCR noise and scan-frontmatter that will need cleanup during
+      conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_talestraditionso01rink
+  work_id: arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive
+  title: Tales and Traditions of the Eskimo
+  source_url: https://archive.org/details/talestraditionso01rink
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/talestraditionso01rink-tales-and-traditions-of-the-eskimo-rink.txt
+    checksum:
+      algorithm: sha256
+      value: b9d03199fba2d75f43236a0eb2c9aa0c66a56d4d031f334e72b5ef3c8e9ea6af
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/talestraditionso01rink-tales-and-traditions-of-the-eskimo-rink.md
+    checksum:
+      algorithm: sha256
+      value: 2f5f093e6a753ff324a5caed943dde63580dfcc7690bb84ec0a043879d241e5e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+    checksum:
+      algorithm: sha256
+      value: 00ef3bcf419dea293f7c46539166cd2ebd71233cc222f49cb7f4e9948ed1b79b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1875, US public domain. Recording context - Rink was a Danish
+      colonial administrator in Greenland, but the tales were largely written down
+      and illustrated by Greenlanders themselves (including Aron of Kangeq) in Rink's
+      pioneering native-language collecting program; still a colonial-era mediated
+      publication of a living tradition.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_b24764413
+  work_id: andamanese.aboriginal_inhabitants_andaman.man_archive
+  title: On the Aboriginal Inhabitants of the Andaman Islands
+  source_url: https://archive.org/details/b24764413
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/b24764413-aboriginal-inhabitants-andaman-man.txt
+    checksum:
+      algorithm: sha256
+      value: 22dc61970de2c34b47088571975a684cfb121663d19289e6858a53f3b6f1fa02
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/b24764413-aboriginal-inhabitants-andaman-man.md
+    checksum:
+      algorithm: sha256
+      value: 6f175ed224fe8d4bf880c587091418d5d8838f8ff2ffbc892adc24b35b5e8328
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+    checksum:
+      algorithm: sha256
+      value: b6d02971828fd02e7ddf5b5b8a5801a16cf6fce24a0d16eb3b9226eca5ee3c2e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids andamanese.aboriginal_inhabitants_andaman.man_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1885, US public domain. Recording context - Man spent over a
+      decade among the Great Andamanese and spoke Aka-Bea; his accounts of Puluga,
+      the flood, and origin legends are close paraphrase from named informants, the
+      earliest substantial Andamanese mythology on record. Predates and complements
+      Radcliffe-Brown.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

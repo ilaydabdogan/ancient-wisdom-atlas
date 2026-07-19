@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_greatafricanisla00sibr
+  work_id: malagasy.great_african_island.sibree_archive
+  title: 'The Great African Island: Chapters on Madagascar'
+  source_url: https://archive.org/details/greatafricanisla00sibr
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/greatafricanisla00sibr-great-african-island-madagascar-sibree.txt
+    checksum:
+      algorithm: sha256
+      value: db504ffaed2ef3aca2923b560219029ff641f81c6c3abfeb86eda194225d40b2
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/greatafricanisla00sibr-great-african-island-madagascar-sibree.md
+    checksum:
+      algorithm: sha256
+      value: 78a190146f46ab2414d4729eb0b552c0d710a337617bc5dc28fa04fa35365ad4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+    checksum:
+      algorithm: sha256
+      value: dab20d7adad67a0247145e65de4380aea69d008a8e36f409e43ddb2aa18262a8
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids malagasy.great_african_island.sibree_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1880, US public domain. Sibree was a missionary of the London
+      Missionary Society. This is ETHNOGRAPHIC PARAPHRASE covering Malagasy folklore,
+      proverbs, ancestor cult (razana), and customs, with recorded proverbs and oratory
+      (kabary). Missionary framing must not be extracted as Malagasy self-description.
+      Complements the queued Sibree Madagascar material with additional folklore chapters.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

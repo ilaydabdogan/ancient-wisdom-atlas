@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_carolineislands00chri
+  work_id: micronesian.caroline_islands.christian_archive
+  title: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  source_url: https://archive.org/details/carolineislands00chri
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/carolineislands00chri-caroline-islands-christian.txt
+    checksum:
+      algorithm: sha256
+      value: d86bff303606f3222808bfff7a83e9350960215e786dcd6ef5aafeddf6fb92e0
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/carolineislands00chri-caroline-islands-christian.md
+    checksum:
+      algorithm: sha256
+      value: c3e025a7392cf71854c1a685a2e6646b92b3fcc33dfb80f3bd2cab969344519b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+    checksum:
+      algorithm: sha256
+      value: 2454a2eaebd2e9561e073923c339db6af0bec07949cc7b068809ced32347b321
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids micronesian.caroline_islands.christian_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1899, US public domain. Recording context - Polynesian-languages
+      scholar traveling resident; records Pohnpei cosmogony, Nan-Matal (Nan Madol)
+      legends, deity lists, and folk-tales alongside travel narrative and vocabularies;
+      legend material is paraphrase with some translated passages. Satisfies the Micronesia
+      retry - one of the only pre-1930 English sources with real Carolinian myth content.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_14224
+  work_id: polynesian.samoa_hundred_years_ago.turner_gutenberg
+  title: Samoa, A Hundred Years Ago And Long Before
+  source_url: https://www.gutenberg.org/ebooks/14224
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/14224-samoa-a-hundred-years-ago-turner.txt
+    checksum:
+      algorithm: sha256
+      value: 632915ead00310c8809ff1b456e1d45bca0aac2b2e849fbed4d49a8afd61850b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/14224-samoa-a-hundred-years-ago-turner.md
+    checksum:
+      algorithm: sha256
+      value: 45ba67bd07a624d7c3955e4a537f7107ea6bd00ced3769705b3ea0ec7255e013
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+    checksum:
+      algorithm: sha256
+      value: 227bfbd7b7a9fd078d5250d92c30a5368e452bbaab65c7b28c2622c3131d96fc
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids polynesian.samoa_hundred_years_ago.turner_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1884, US public domain (Project Gutenberg catalog). Turner was
+      a London Missionary Society missionary of many decades. This is ETHNOGRAPHIC
+      PARAPHRASE recording Samoan gods (aitu), creation traditions, proverbs, and
+      village religion, with some recorded songs and sayings. Missionary framing must
+      not be extracted as Samoan self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

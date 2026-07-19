@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_traditionsofarap0005dors
+  work_id: native_american.traditions_arapaho.dorsey_kroeber_archive
+  title: Traditions of the Arapaho
+  source_url: https://archive.org/details/traditionsofarap0005dors
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/traditionsofarap0005dors-traditions-of-the-arapaho-dorsey-kroeber.txt
+    checksum:
+      algorithm: sha256
+      value: 2650dd8c9c70aaa21b3b3619ffa31b605f9c8ab1fd43527bbbcdc0fb5a176c71
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/traditionsofarap0005dors-traditions-of-the-arapaho-dorsey-kroeber.md
+    checksum:
+      algorithm: sha256
+      value: 4a7aaa5632e5394a681f678cc9d626e347a30062627c24ebc9d9257dbb425605
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+    checksum:
+      algorithm: sha256
+      value: d1e30f16704a41cc287018546fb804c2c858766b01da99e0752195c51c063b33
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.traditions_arapaho.dorsey_kroeber_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1903, US public domain. Verbatim-close - English translations
+      taken from named Arapaho narrators through interpreters, printed with narrator
+      attributions; creation, sun-dance origin, and Nih'ancan trickster cycles. Colonial-era
+      salvage ethnography; treat sun-dance and ceremonial material as community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,18381 @@
+---
+id: buddhist.jataka.cowell_vol3_archive
+title: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+alternate_titles:
+- Jataka Volume 3
+- Stories of the Buddha's Former Births
+text_status: complete
+tradition: buddhist
+culture: buddhist_birth_stories_later_translation
+region: south_asia
+source_language: Pali
+text_language: English
+date_range: Pali birth-story collection; 1897 public-domain English translation
+source_type: text
+provenance:
+  source_id: source.internet_archive.jatakaorstorieso03cowe
+  edition: The Jataka, or Stories of the Buddha's Former Births, Vol. III, translated
+    by H. T. Francis and R. A. Neil under the editorship of E. B. Cowell, Cambridge
+    University Press, 1897; Internet Archive scan with OCR plain text
+  translator: H. T. Francis and R. A. Neil
+  editor: E. B. Cowell
+  publication_year: 1897
+  publisher: Cambridge University Press
+  source_url: https://archive.org/details/jatakaorstorieso03cowe
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://archive.org/about/terms.php
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1897 (pre-1930), US public domain. Hosted file is OCR text of a
+    library scan; expect OCR noise and scan front-matter needing cleanup during conversion.
+    Volume 3 of the complete six-volume Cambridge Jataka.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- jataka
+- birth_stories
+- buddha
+- former_lives
+- morality_tales
+motifs:
+- rebirth
+- moral_lesson
+- animal_fable
+- self_sacrifice
+- former_lives
+figures:
+- Buddha
+- Bodhisatta
+---
+
+# The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+
+PREFACE.
+
+This  volume  of  translation  corresponds  to  the  third  volume  of
+the  text,  and  the  translators,  Mr  H.  T,  Francis,  and  Mr  R.  A.  Neil,
+have  endeavoured  to  keep  up  an  uniformity  with  the  plan  adopted
+in  the  two  former  volumes.  Mr  Francis  is  responsible  for  pp.  1 —
+150  and  p.  287  to  the  end,  Mr  Neil  for  pp.  151—286.  The
+Secretary  of  State  for  India  has  kindly  given  permission  to  illustrate
+one  of  the  stories  in  this  volume  also  from  the  Bharhut  Stupa,  The
+story  is  No.  383 ;  the  words  above  the  picture  are  Bidala  Jataka
+Kukata  Jataka.
+
+The  two  translators  of  this  volume  cannot  allow  the  book  to
+appear  without  expressing  their  gratitude  to  Professor  Cowell  for
+his  constant  help  and  supervision  and  for  his  kindness  in  compiling
+the  index.
+
+
+J.  III.
+
+
+TO
+
+THE    HON.   V.    FAUSBOLL
+
+WHO    FOR    MORE    THAN    TWENTY   YEARS
+
+HAS   SHEWN    UNWEARIED    ENERGY   IN    PUBLISHING
+
+THE   EDITIO    PRINGEPS   OF    THE    PALI    JATAKA
+
+THIS   THIRD  VOLUME    IS   GRATEFULLY    DEDICATED
+
+BY   THE   TRANSLATORS.
+
+
+62
+
+
+CONTENTS.
+
+
+PAGE
+
+301.  CULLAKALINGA-JATAKA 1
+
+A  king,  being  eager  to  fight,  finds  occasion  to  quarrel  with
+another  king.  Misled  by  a  prophecy  of  victory  and  neglecting  the
+omens,  he  is  defeated  by  his  adversary.
+
+302.  MAHAASSAROHA-JATAKA 6
+
+A  king,  being  defeated  by  rebels,  finds  a  hospitable  shelter  with  a
+poor  countryman,  and  rewards  his  benefactor  with  the  half  of  his
+kingdom.
+
+303.  EKARAJA-JATAKA 9
+
+A  king  is  taken  prisoner  and  tortured,  and  by  his  patience  under
+suffering  wins  his  enemy  to  repentance.
+
+304.  DADDARA-JATAKA 10
+
+How  two  brothers  were  driven  from  their  father's  kingdom,  and
+how  their  pride  was  humbled  by  the  contumely  they  suffered  in  their
+exile.
+
+305.  SILAViMAMSANA-JATAKA 12
+
+A  teacher  tests  the  virtue  of  his  pupils  by  tempting  them  to  steal.
+The  only  youth,  that  stands  the  test,  is  rewarded  by  marrying  his
+master's  daughter.
+
+306.  SUJATA-JATAKA 13
+
+How  the  daughter  of  a  fruiterer  became  a  queen,  and  by  her
+pride  nearly  lost  her  position.
+
+307.  PALASA-JATAKA 15
+
+A  brahmin  pays  honour  to  a  tree-spirit  and  is  rewarded  by  the
+discovery  of  a  buried  treasure.
+
+'308.      JAVASAKUNA-JATAKA 17
+
+The  story  of  the  woodpecker  and  the  ungrateful  lion.
+
+
+X  Contents.
+
+PAGE
+
+309.  CHAVAKA-JATAKA .  18
+
+How  a  pariah,  who  stole  mangoes,  ventured  to  reprove  a  king  for
+allowing  a  priest  to  teach  him  from  a  lower  seat.
+
+310.  SAYHA-JATAKA 20
+
+How  a  brahmin  refused  to  give  up  the  ascetic  life  in  order  to
+become  family  priest  to  a  king.
+
+311.  PUCIMANDA-JATAKA 22
+
+How  a  nimb-tree  spirit  frightened  away  a  robber  whose  presence
+endangered  the  safety  of  the  tree.
+
+312.  KASSAPAMANDIYA-JATAKA 24
+
+A  father  and  son  in  journeying  together  fall  out  by  the  way,  and
+the  old  man  is  reproved  for  his  want  of  self-restraint.
+
+313.  KHANTIVADI-JATAKA 26
+
+How  a  wicked  king  cruelly  maltreated  an  ascetic,  and  how  the
+patience  of  the  holy  man  endured  to  the  end,  and  the  king  was  cast
+into  Hell.
+
+314.  LOHAKUMBHI-JATAKA 29
+
+A  king  is  terrified  by  hearing  awful  cries  in  the  night  and  is
+urged  by  his  family  priest  to  avert  the  evil  omen  by  the  sacrifice  of
+living  creatures.  A  young  brahmin  interprets  the  sounds  to  be  the
+cries  uttered  by  lost  souls  in  Hell,  and  the  king  takes  comfort  and
+forbids  the  sacrifice.
+
+315.  MAMSA-JATAKA 32
+
+How  four  young  merchants  tried  to  wheedle  a  hunter  out  of  his
+venison,  and  how  one  alone  by  his  cunning  address  succeeded.
+
+/316.  J  SASA-JATAKA 84
+
+/  How  a  hare,  in  default  of  other  food,  offered  its  own  flesh  to  be
+
+eaten,  and  was  rewarded  by  having  its  form  supernaturally  impressed
+on  the  face  of  the  moon.
+
+317.  MATARODANA-JATAKA 38
+
+How  a  youth,  when  his  brother  died,  demonstrated  the  folly  of
+grieving  for  the  dead.
+
+318.  KANAVERA-JATAKA 39
+
+How  a  courtezan  rescued  a  robber  by  betraying  her  lover  to
+death,  and  how  she  was  afterwards  punished  for  her  treachery.
+
+319.  TITTIRA-JATAKA 43
+
+A  decoy-partridge  is  troubled  with  scruples  of  conscience.
+
+
+Contents.
+
+
+XI
+
+
+PAGE
+
+320.  SUCCAJA-JATAKA 44
+
+How  a  prince  requited  his  wife's  devotion  with  base  ingratitude,
+until  he  was  brought  to  a  better  mind  by  the  admonition  of  his
+minister.
+
+321.  KUTIDtJSAKA-JATAKA 47
+
+How  a  monkey,  through  envy,  destroyed  a  bird's  nest.
+
+322.  DADDABHA-JATAKA 49
+
+Of  the  timid  hare  and  the  flight  of  the  beasts.
+
+323.  BRAHMADATTA-JATAKA 52
+
+Of  the  ascetic  who  for  twelve  years  had  not  the  courage  to  ask  for
+a  trifling  boon.
+
+324.  CAMMASATAKA-JATAKA 55
+
+Of  a  foolish  mendicant  who  met  his  death  by  mistaking  the
+butting  of  a  ram  for  a  respectful  salutation.
+
+325.  GODHA-JATAKA 56
+
+How  a  greedy  ascetic  was  outwitted  by  a  lizard.
+
+326.  KAKKARU-JATAKA 58
+
+How  a  wicked  priest  was  punished  for  assuming  virtues  to  which
+he  had  no  claim.
+
+327.  KAKATI-JATAKA 60
+
+How  a  roc  carried  off  a  king's  wife  to  his  island  home,  and  was
+afterwards  outwitted  by  the  king's  minstrel.
+
+328.  ANANUSOCIYA-JATAKA 62
+
+The  story  of  the  holy  man  who  found  a  wife  by  means  of  a  golden
+image,  and  how  on  her  death  he  neither  fasted  nor  wept.
+
+329.  KALABAHU-JATAKA 65
+
+The  story  of  the  parrots  and  the  black  monkey,  and  how  the
+monkey  fell  into  disgrace  and  the  parrots  regained  the  king's  favour.
+
+330.  SlLAViMAMSA-JATAKA 66
+
+Of  the  man  who  tested  the  power  of  virtue  and  of  the  moral
+lessons  he  learned  from  the  hawk  and  the  piece  of  meat  and  from  the
+slave-girl  to  whom  loss  of  hope  alone  brought  peace.
+
+331.  KOKALIKA-JATAKA 68
+
+How  a  talkative  king  was  admonished  by  the  fate  of  the  young
+bird  that  cried  "  cuckoo  "  too  soon.
+
+332.  RATHALATTHI-JATAKA 69
+
+Of  the  priest  and  the  carters  and  the  danger  of  giving  judgment
+before  hearing  both  sides.
+
+
+xii  Contents.
+
+PAGE
+
+333.  GODHA-JATAKA 71
+
+How  a  roasted  lizard  ran  away,  and  bow  a  king  was  convicted  of
+ingratitude  to  his  wife.
+
+334.  RAJOVADA-JATAKA 73
+
+A  king  is  taught  by  the  parable  of  the  sweet  and  bitter  fig  how
+his  realm  is  affected  by  a  just  or  unjust  rule.
+
+335.  JAMBUKA-JATAKA 74
+
+Of  the  fate  of  the  jackal  that  presumed  to  play  the  part  of  the
+lion.
+
+336.  BRAHACHATTA-JATAKA 76
+
+How  a  prince  by  means  of  a  spell  discovered  buried  treasure  and
+substituted  grass  for  gold.
+
+337.  PiTHA-JATAKA 78
+
+The  duty  of  hospitality  inculcated  by  the  story  of  the  merchant
+and  the  ascetic.
+
+338.  THUSA-JATAKA 80
+
+How  a  king  was  saved  from  being  killed  by  his  son,  through  the
+repetition  of  a  spell  at  critical  moments.
+
+/  339.      BAVERU-JATAKA 83
+
+How  a  crow  was  ousted  from  a  position  of  favour  when  a  peacock
+appeared.
+
+340.  VISAYHA-JATAKA 85
+
+How  a  rich  merchant,  after  he  was  i-educed  to  beggary,  continued
+to  exercise  charity.
+
+341.  KANDARI-JATAKA    .  . 87
+
+(See  Kunala-Jataka,  No.  523.)
+
+342.  VANARA-JATAKA 87
+
+The  crocodile  outwitted  by  the  monkey.
+
+343.  KUNTANI-JATAKA 89
+
+The  heron's  revenge  for  the  loss  of  her  young  ones.
+
+344       AMBACORA-JATAKA 90
+
+How  a  false  ascetic  robbed  a  mango  orchard  and  charged  some
+innocent  maidens  with  the  theft.
+
+345.      GAJAKUMBHA-JATAKA 92
+
+Of  a  slothful  king  admonished  by  the  example  of  a  lazy  tortoise.
+
+
+Contents.  xiii
+
+PAGE
+
+346.  KESAVA-JATAKA 93
+
+The  sick  hermit  and  his  friend,  or  love  the  best  physician.
+
+347.  AYAKUTA-JATAKA 96
+
+How  a  king  who  had  forbidden  the  sacrifice  of  living  creatines
+was  shielded  by  a  god  from  the  vengeance  of  a  goblin.
+
+348.  ARANNA-JATAKA 98
+
+Of  a  virtuous  youth  led  astray  by  evil  communications.
+
+349.  SANDHIBHEDA-JATAKA 99
+
+A  jackal  by  slanderous  words  brings  about  a  fatal  quarrel  between
+a  lion  and  a  bull.
+
+350.  DEVATAPANHA-JATAKA 101
+
+{See  Ummagga-Jataka.)
+
+351.  MANIKUNDALA-JATAKA 102
+
+(Same  as  No.  303.)
+
+352.  SUJATA-JATAKA 103
+
+A  father  is  cured  of  inordinate  grief  by  the  feigned  madness  of  his
+son.
+
+353.  DHONASAKHA-JATAKA 105
+
+How  a  king,  who  was  guilty  of  gross  cruelty,  met  with  fitting
+retribution.
+
+354.  URAGA-JATAKA 107
+
+How,  when  a  brahmin  lost  his  son,  neither  he  nor  any  of  his
+family  lamented  or  wept,  and  of  their  exceeding  great  reward.
+
+355.  GHATA-JATAKA Ill
+
+(Same  as  No.  303.)
+
+356.  KARANDIYA-JATAKA 113
+
+A  teacher  is  taught  by  his  pupil  the  folly  of  preaching  to  unwiUing
+hearers.
+
+357.  LATUKIKA-JATAKA 115
+
+How  a  quail  brought  about  the  destruction  of  an  elephant  that
+had  killed  her  young  ones.
+
+358.  CULLADHAMMAPALA-JATAKA 117
+
+A  king,  being  jealous  of  his  queen's  affection  for  her  child,  has
+the  boy  mutilated  and  killed,  and  is  punished  by  being  cast  into
+Hell.
+
+
+xiv  Contents.
+
+PAGE
+
+359.  SUVANNAMIGA-JATAKA 120
+
+How  a  stag  caught  in  a  snare  was  released  from  death  by  the
+devotion  of  his  doe.
+
+360.  ;  SUSSONDI-JATAKA 123
+
+/  (Same  as  No.  327.)
+
+361.  VANNAROHA-JATAKA 126
+
+The  jackal  as  calumniator  tries  in  vain  to  set  a  lion  and  a  tiger
+at  variance.
+
+362.  SiLAVlMAMSA-JATAKA 128
+
+How  a  man  tried  his  own  reputation  for  virtue.
+
+363.  HIRI-JATAKA .  .         129
+
+(Imperfect.     Same  as  Akatanfiu-Jataka,  No.  90.)
+
+364.  KHAJJOPANAKA-JATAKA 130
+
+(See  Mahaummagga. )
+
+365.  AHIGUNDIKA-JATAKA 130
+
+How  a  monkey  that  had  been  beaten  was  not  to  be  cajoled  by  soft
+words.
+
+366.  GUMBIYA-JATAKA 132
+
+How  a  merchant  warned  the  members  of  his  caravan  against
+eating  strange  food,  and  how  those  that  neglected  his  warning  were
+poisoned  by  an  evil  spirit.
+
+367.  SALIYA-JATAKA 133
+
+The  biter  bit,  or  the  story  of  the  knavish  doctor  who  was  killed
+by  the  snake  which  he  pretended  was  harmless.
+
+368.  TACASARA-JATAKA 134
+
+The  same  story  as  the  preceding  one,  to  which  is  added  how
+certain  lads  were  acquitted  of  the  charge  of  having  caused  the  death
+of  the  doctor.
+
+369.  MITTAVINDA-JATAKA 136
+
+(A  fragment  of  No.  41.)
+
+370.  PALASA-JATAKA •   .         137
+
+How  a  Judas  tree  was  destroyed  by  the  parasitic  growth  of  a
+banyan  shoot.
+
+371.  DIGHITIKOSALA-JATAKA 139
+
+A  prince  spares  the  life  of  the  king  who  had  slain  his  father  and
+thereby  wins  him  to  repentance.
+
+
+Contents.  xv
+
+PAGE
+
+372.  MIGAPOTAKA-JATAKA 140
+
+An  ascetic  is  admonished  against  excessive  grief  for  the  loss  of  a
+pet  deer.
+
+373.  MUSIKA-JATAKA 142
+
+A  king  by   repeating    a    spell    at    critical    moments    baffles   the
+attempts  of  his  heir  to  kill  him,
+
+374.  CULLADHANUGGAHA-JATAKA 144
+
+A  woman  who  betrayed  her  husband  to  death,  and  was  afterwards
+deserted  by  her  lover,  has  her  folly  brought  home  to  her  by  witnessing
+the  fate  of  a  greedy  jackal.
+
+375.  KAPOTA-JATAKA .         148
+
+How  a  greedy  crow  was  made  ridiculous  and  tortured  to  death.
+
+376.  AVARIYA-JATAKA 151
+
+How  a  foolish  ferryman  behaved  when  offered  good  advice  instead
+of  his  fare.
+
+377.  SETAKETU-JATAKA 153
+
+How  caste  and  feigned  sanctity  were  foiled.
+
+378.  DARIMUKHA-JATAKA 156
+
+How  a  king  renounced  his  kingdom  on  the  advice  of  an  old
+friend,  who  had  become  a  paccekabuddha.
+
+379.  NERU-JATAKA 159
+
+How  royal  birds  avoid  a  golden  mountain  which  makes  all  birds
+appear  alike.
+
+380.  ASANKA-JATAKA 161
+
+How  a  king  spent  three  years  in  finding  out  the  name  of  his
+future  queen.
+
+381.  MIGALOPA-JATAKA 164
+
+How  a  disobedient  vulture  perished.
+
+382.  SIRIKALAKANNI-JATAKA 165
+
+How  precedence  was  settled  by  a  good  merchant  between  the
+goddesses  of  Good  and  111  Fortune.
+
+383.  KUKKUTA-JATAKA 168
+
+How  a  cat  failed  to  deceive  a  cock.
+
+384.  DHAMMADDHAJA-JATAKA 170
+
+How  a  hypocritical  crow  was  put  to  death.
+
+
+xvi  Conte7its.
+
+PAGE
+
+385.  NANDIYAMIGA-JATAKA 171
+
+How  a  good  deer  brought  blessings  to  his  kindred  and  to  all
+animals.
+
+386.  KHARAPUTTA-JATAKA 174
+
+How  a  king  got  a  charm  from  a  naga  by  which  he  understood  the
+sounds  of  all  animals:  his  queen  tried  to  get  the  charm  from  him,
+but  was  foiled  through  some  advice  given  by  Sakka,  disguised  as  a
+goat.
+
+387.  SUCI-JATAKA 178
+
+How  a  young  smith  made  a  marvellous  needle,  and  thereby  won
+to  wife  the  daughter  of  a  head-smith.
+
+388.  TUNDILA-JATAKA 180
+
+How  a  pig  explained  to  his  younger  brother  that  death  is  not  to
+be  feared.
+
+389.  SUVANNAKAKKATA-JATAKA 183
+
+How  a  farmer  was  saved  by  a  good  crab  from  being  killed  by  a
+snake  in  league  with  a  crow :  the  two  latter  were  themselves  killed.
+
+390.  MAYHAKA-JATAKA 186
+
+How  a  greedy,  murdering  uncle  was  compared  to  a  certain  bird,
+and  so  converted.
+
+391.  DHAJAVIHETHA-JATAKA 189
+
+How  a  wicked  person,  disguised  as  a  Brother,  caused  the  expulsion
+of  Brethren  from  a  kingdom,  and  the  spiritual  ruin  of  the  people:
+Sakka  interfered  and  saved  the  kingdom.
+
+392.  BHISAPUPPHA-JATAKA 191
+
+How  a  brahmin  was  accused  of  stealing  the  smell  of  a  flower.
+
+393.  VIGHASA-JATAKA 193
+
+How  certain  self-indulgent  monks  were  warned  by  a  parrot.
+
+394.  VATTAKA-JATAKA 194
+
+How  a  quail  explained  to  a  crow  how  to  get  fat.
+
+395.  KAKA-JATAKA 195
+
+How  a  greedy  crow  was  made  ridiculous  and  put  to  death.
+
+396.  KUKKU-JATAKA 197
+
+How  a  king  was  converted  by  certain  parables.
+
+397.  MANOJA-JATAKA 199
+
+How  a  lion  was  enticed  to  his  death  by  the  counsel  of  a  jackal.
+
+
+Contents.  xvii
+
+PAGE
+
+398.  SUTANO-JATAKA 201
+
+How  a  king,  falling  into  the  power  of  a  man-eating  goblin,  sent
+people  daily  to  be  eaten  :  a  young  man  got  the  better  of  the  goblin
+and  converted  him,
+
+399.  GIJJHA-JATAKA 204
+
+How  a  good  young  vulture  was  loosed  from  a  snare  by  a  hunter.
+
+400.  DABBHAPUPPHA-JATAKA 205
+
+How  two  otters,  who  had  caught  a  fish,  were  cheated  by  a
+jackal.
+
+401.  DASANNAKA-JATAKA 207
+
+How  a  king  was  cured  of  a  sickness,  born  of  longing  for  his  wife,
+by  seeing  a  man  swallowing  a  sword.
+
+402.  SATTUBHASTA-JATAKA 210
+
+How  an  old  brahmin  was  sent  away  by  his  wife  to  beg:  a  snake
+got  into  his  meal-bag  unperceived :  a  young  brahmin  preacher  guessed
+that  the  snake  was  there,  and  then  exposed  the  wife's  wickedness.
+
+403.  ATTHISENA-JATAKA 216
+
+How  a  brahmin  explains  to  a  king  why  he  makes  no  petition.
+
+404.  KAPI-JATAKA 218
+
+How  a  naughty  monkey  brought  ruin  on  his  kindred.
+
+405.  BAKABRAHMA-JATAKA     .  .  .    '       .  .  .  .         219
+
+How  an  angel  was  converted  from  heresy,
+
+406.  GANDHARA-JATAILA. 221
+
+How  two  kings  became  ascetics,  and  one  was  admonished  in  a
+fault  by  the  other,
+
+407.  MAHAKAPI-JATAKA 225
+
+How  a  monkey  saved  his  followers  at  the  cost  of  his  own  life.
+
+408.  KUMBHAKARA-JATAKA 228
+
+How  four  kings  became  ascetics  through  observing  a  mango-tree,
+a  bracelet,  a  flock  of  birds,  and  some  bulls  respectively :  a  potter  and
+his  wife  separately  follow  their  example.
+
+409.  DALHADHAMMA-JATAKA 233
+
+How  a  she-elephant,  forgotten  by  the  king  in  her  old  age,  was
+restored  to  honour,
+
+410.  SOMADATTA-JATAKA 235
+
+How  an  ascetic  was  comforted  for  the  loss  of  a  young  elephant.
+
+
+xviii  Contents.
+
+PAGE
+
+411.  SUSiMA-JATAKA 237
+
+How  a  king  became  an  ascetic  on  being  shewn  a  grey  hair  by  his
+chief  queen.
+
+412.  KOTISIMBALI-JATAKA 239
+
+How  a  tree-spirit  was  frightened  by  a  bird  and  comforted  by  a
+roc -king.
+
+413.  DHUMAKARI-JATAKA 241
+
+How  a  king  neglected  old  friends  for  new  ones :  his  case  illustrated
+by  a  story  of  a  brahmin  goatherd  and  some  deer.
+
+414.  JAGARA-JATAKA 243
+
+How  an  ascetic  kept  vigil  at  nights.
+
+415.  KUMMASAPINDA-JATAKA 244
+
+How  a  king  and  queen  declared  the  merits  in  former  births  that
+brought  about  their  birth  in  royal  rank.
+
+416.  PARANTAPA-JATAKA 249
+
+How  a  prince  understood  the  speech  of  jackals  :  and  how  a  king's
+son  discovered  and  avenged  his  father's  murder  after  many  years.
+
+417.  KACCANI-JATAKA 253
+
+How  an  old  woman,  expelled  from  her  son's  house  owing  to  her
+daughter-in-law,  thought  that  Right  was  dead  :  and  how  the  whole
+family  became  reconcile(}.
+
+418.  ATTHASADDA-JATAKA 256
+
+How  eight  sounds  that  had  frightened  a  king  were  explained  to
+him  harmlessly.
+
+419.  SULASA-JATAKA 260
+
+How  a  man  who  would  have  killed  his  wife  was  killed  by  her.
+
+420.  SUMANGALA-JATAKA 263
+
+How  a  king  would  not  decide  a  case  till  his  anger  was  over.
+
+421.  GANGAMALA-JATAKA  266
+
+How  a  willing  servant  was  reborn  as  a  king :  how  he  shared  his
+kingdom  for  a  time  with  a  poor  water-carrier  who  had  shown  himself
+an  honest  fellow :  how  a  barber  got  from  the  king  the  explanation  of
+his  birth  in  the  kingly  rank,  and  became  a  paccekabuddha,  honoured
+by  the  king.
+
+422.  CETIYA-JATAKA 271
+
+How  a  king,  who  told  a  lie  in  the  golden  age,  sank  into  the  earth
+and  so  down  to  Hell.
+
+
+Contents.  xix
+
+PAGE
+
+423.  INDRIYA-JATAKA 276
+
+How  a  tempted  ascetic  was  warned  by  the  story  of  a  miserable
+hunter.
+
+424.  ADITTA-JATAKA 280
+
+How  seven  paccekabuddhas  came  and  received  gifts  from  a  king.
+
+425.  ATTHANA-JATAKA 282
+
+How  an  ascetic  repulsed  a  woman  who  had  once  behaved  harshly
+to  him.
+
+426.  DiPI-JATAKA 285
+
+How  a  panther  ate  a  she-goat  for  all  her  politeness.
+
+427.  GIJJHA-JATAKA 287
+
+How  a  vulture  perished,  through  attempting  too  bold  a  flight.
+
+428.  KOSAMBi-JATAKA 289
+
+(Imperfect — with  a  reference  to  the  story  in  No.  371.)
+
+429.  MAHASUKA-JATAKA 291
+
+How  a  grateful  parrot  refused  to  leave  a  barren  fig-tree.
+
+430.  CULLASUKA-JATAKA 294
+
+The  same  story  as  the  preceding  one.
+
+431.  HARITA-JATAKA 295
+
+Of  an  ascetic  who  would  not  tell  a  lie  to  conceal  his  sin.
+
+432.  PADAKUSALAMANAVA-JATAKA  .  .  .  298
+
+A  boy  receives,  as  a  gift  from  a  goblin  mother,  the  power  of
+recognizing  footsteps  even  in  the  air,  and  a  king,  to  test  the  boy's
+skill,  steals  his  own  jewels  and  then  sets  the  boy  to  catch  the  thief.
+When  the  boy  by  a  number  of  pointed  stories  convicts  him  of  theft,
+the  king  is  put  to  death  by  his  own  subjects  and  the  boy  becomes
+king.
+
+433.  LOMASAKASSAPA-JATAKA 306
+
+How  a  king  promised  his  daughter  in  marriage  to  an  ascetic,  if
+he  would  offer  a  living  sacrifice,  and  how  the  ascetic  resisted  the
+temptation.
+
+434.  CAKKAVAKA-JATAKA 309
+
+How  a  crow,  through  his  greediness,  could  not  attain  to  the
+beauty  of  the  ruddy  goose.
+
+435.  HALIDDIRAGA-JATAKA 311
+
+A  youth,  who  was  being  led  astray  by  female  seductions,  is
+rescued  by  the  sage  counsels  of  his  father.
+
+
+XX
+
+
+Contents.
+
+
+PAGE
+
+436.  SAMUGGA-JATAKA 313
+
+How  a  demon,  who  swallowed  his  wife  and  carried  her  about  in
+his  belly,  even  so  failed  to  keep  her  virtuous.
+
+437.  PUTIMAMSA-JATAKA 316
+
+How  a  wise  she-goat  outwitted  the  jackal  that  was  plotting  to  kill
+her.
+
+438.  TITTIRA-JATAKA      .......         319
+
+How  a  wicked  ascetic  killed  a  learned  partridge,  and  how  a  lion
+and  a  tiger  avenged  the  death  of  the  partridge.
+
+
+BOOK   IV.      CATUKKANIPATA.
+
+
+No.   301.
+
+
+CULLAKALINGA- J  ATAK  A  \
+
+[1]  ^'Open  the  gate,"  etc. — This  story  was  told  by  the  Master  while  living  at
+Jetavana,  about  the  admission  of  four  female  ascetics  to  the  religious  life.
+
+Tradition  says  that  Licchavis  of  the  ruling  family  to  the  number  of  seven
+thousand  seven  hundred  and  seven  had  their  abode  at  Vesali.  And  all  of  them
+were  given  to  argument  and  disputation.
+
+Now  a  certain  Jain,  skilled  in  maintaining  five  hundred  different  theses,
+arrived  at  Vesali  and  met  with  a  kind  reception  there.  A  female  Jain  too  of  a
+.similar  character  also  came  to  Vesali.  And  the  Licchavi  chiefs  got  up  a  dis-
+putation between  them.  And  when  they  proved  well  matched  as  disputants,  the
+Licchavis  were  struck  with  the  notion  that  such  a  pair  would  be  sure  to  have
+clever  children.  So  they  arranged  a  marriage  between  them,  and  as  the  issue  of
+this  union  in  due  course  four  daughters  and  a  son  were  born.  The  daughters
+were  named  Sacca,  Lola,  Avavadaka,  and  Patacara,  and  the  boy  was  called
+Saccaka.  These  five  children  when  they  reached  years  of  discretion  learned  a
+thousand  different  theses,  five  hundred  from  the  mother  and  five  hundred  from
+the  father.  And  the  parents  schooled  their  daughters  after  this  manner:  "If
+any  layman  refutes  your  thesis,  you  are  to  become  his  wives,  but  if  a  priest
+refutes  you,  you  must  take  orders  at  his  hands."
+
+After  a  time  their  parents  died.  And  when  they  were  dead,  the  Jain  Saccaka
+lived  on  in  the  same  place  at  Vesali,  studying  the  lore  of  the  Licchavis.  [2]  But
+his  sisters  took  in  their  hands  a  branch  of  the  rose-apple  tree,  and  in  the  com'se
+of  their  wanderings  from  city  to  city  for  purposes  of  disputation,  at  last  reached
+Savatthi.  There  they  planted  the  rose-apple  branch  at  the  city  gate  and  said  to
+some  boys  who  were  there,  "If  any  man,  be  he  layman  or  priest,  is  equal  to
+maintaining  a  thesis  against  us,  let  him  scatter  with  his  foot  this  heap  of  dust
+and  trample  under  foot  this  branch,"  And  with  these  words  they  went  into  the
+city  to  collect  alms.
+
+Now  the  venerable  Sariputta,  after  sweeping  up  wherever  it  was  necessary,
+and  putting  water  into  the  empty  pots  and  tending  the  sick,  later  on  in  the  day
+went  into  Savatthi  for  alms.  And  when  he  had  seen  and  heard  about  the  bough,
+he  ordered  the  boys  to  throw  it  down  and  trample  upon  it.  "Let  those,"  said
+he,  "by  whom  this  bough  has  been  planted,  as  soon  as  they  have  finished  their
+meal,  come  and  see  me  in  the  gable-chamber  over  the  gate  of  Jetavana."
+
+^  See  R.  Morris,  Folklore  Journal,  iii.  61.
+J.  III.  1
+
+
+The  Jdtaka.     Book  IV.
+
+
+So  he  went  into  the  city,  and  when  he  had  ended  his  meal,  he  took  his  stand
+in  the  chamber  over  the  monastery  gate.  The  female  ascetics  too,  after  going
+their  rounds  for  alms,  returned  and  found  the  branch  had  been  trampled  on.
+And  when  they  asked  who  had  done  this,  the  boys  told  them  it  was  Sariputta,
+and  if  they  were  anxious  for  a  disjDutation,  they  were  to  go  to  the  chamber  over
+the  gate  of  the  monastery.
+
+So  they  returned  to  the  city,  and  followed  by  a  great  crowd  went  to  the  gate-
+tower  of  the  monastery,  and  propounded  to  the  priest  a  thousand  different
+theses.  The  priest  solved  all  their  difficulties  and  then  asked  them  if  they  knew
+any  more.
+
+They  replied,  "  No,  my  Lord."
+
+"Then  I,"  said  he,  "will  ask  you  something."
+
+"Ask  on,  my  Loi'd,"  they  said,  "and  if  we  know  it,  we  will  answer  you."
+
+So  the  priest  propounded  just  one  question  to  them,  and  when  they  had  to
+give  it  up,  the  priest  told  them  the  answer.
+
+Then  said  they,  "We  are  beaten,  the  victory  rests  with  you."
+
+"What  will  you  do  now  ?"  he  asked.
+
+"Our  parents,"  they  replied,  "admonished  us  thus:  'if  you  are  refuted  in
+disputation  by  a  layman,  you  are  to  become  his  wives,  but  if  by  a  priest,  you  are
+to  receive  orders  at  his  hands'. — Therefore,"  said  they,  "admit  us  to  the  religious
+life."
+
+The  priest  readily  assented  and  ordained  them  in  the  house  of  the  Nun  called
+Uijpalavanna.     And  all  of  them  shortly  attained  to  Sainthood.
+
+Then  one  day  they  started  this  topic  in  the  Hall  of  Truth,  how  that  Sariputta
+proved  a  refuge  to  the  four  female  ascetics,  and  that  through  him  they  all  attained
+to  Sainthood.  When  the  Master  came  and  heard  the  nature  of  their  discourse,
+he  said,  "Not  now  only,  but  in  former  times  too,  Sariputta  jiroved  a  refuge  to
+these  women.  [3]  On  this  occasion  he  dedicated  them  to  the  religious  life,  but
+formerly  he  raised  them  to  the  dignity  of  queen  consort."  Then  he  told  them
+an  old-world  story.
+
+
+Once  upon  a  time  when  Kalinga  was  reigning  in  the  city  of  Dantapura
+in  the  Kalinga'  kingdom,  Assaka  was  king  of  Potali  in  the  Assaka
+country.  Now  Kalinga  had  a  fine  army  and  was  himself  as  strong  as  an
+elephant,  but  could  find  no  one  to  fight  with  him.  So  being  eager  for  a
+fray  he  said  to  his  ministers :  "  T  am  longing  to  fight  but  can  find  no  one
+to  war  with  me."
+
+His  ministers  said,  "  Sire,  there  is  one  way  open  to  you.  You  have
+four  daughters  of  surpassing  beauty.  Bid  them  adorn  themselves  with
+jewels,  and  then  seated  in  a  covered  carriage  let  them  be  driven  to  every
+village,  town  and  royal  city  with  an  armed  escort.  And  if  any  king  shall
+be  desirous  of  taking  them  into  his  harem,  we  will  get  up  a  fight  with
+him."
+
+The  king  followed  their  advice.  But  the  kings  of  the  various  countries,
+wherever  they  came,  were  afraid  to  let  them  enter  their  cities,  but  sent
+them  presents  and  assigned  them  quarters  outside  the  city  walls.  Thus
+they  passed  through  the  length  and  breadth  of  India  till  they  reached
+Potali  in  the  Assaka  country.     But  Assaka  too  closed  his  gates  against
+
+1  On  the  Coromandel  coast.
+
+
+No.  301.  3
+
+them  and  merely  sent  them  a  present.  Now  this  king  had  a  wise  and
+able  minister  named  Nandisena,  who  was  fertile  in  expedients.  He
+thought  to  himself:  "These  princesses,  men  say,  have  traversed  the
+length  of  India  without  finding  any  to  fight  for  their  possession.  If  this
+is  the  case,  India  is  but  an  empty  name.  I  myself  will  do  battle  with
+Kalinga."
+
+Then  he  went  and  bade  the  guards  open  the  city  gate  to  them,  and
+spake  the  first  stanza  :
+
+Open  the  gate  to  these  maidens  :   thro'  Nandisena's  might,
+King  Aruna's^  sage  lion,  our  city  is  guarded  aright.
+
+[4]  With  these  words  he  threw  open  the  gate,  and  brought  the  maidens
+into  the  presence  of  king  Assaka,  and  said  to  him,  "Fear  not.  If  there
+is  to  be  a  fight,  I  will  see  to  it.  Make  these  fair  princesses  your  chief
+queens."  Then  he  installed  them  as  queens  by  sprinkling  them  with  holy
+water,  and  dismissed  their  attendants,  bidding  them  go  and  tell  Kalinga
+that  his  daughters  had  been  raised  to  the  dignity  of  queen-consorts.  So
+they  went  and  told  him,  and  Kalinga  said,  "I  presume  he  does  not  know
+how  powerful  I  am,"  and  at  once  set  out  with  a  great  army.  Nandisena
+heard  of  his  approach  and  sent  a  message  to  this  effect;  "Let  Kalinga
+abide  within  his  own  marches,  and  not  encroach  upon  ours,  and  the  battle
+shall  be  fought  on  the  frontiers  of  the  two  countries."  On  receiving  this
+message,  Kalinga  halted  within  the  limits  of  his  own  territory  and  Assaka
+also  kept  to  his.
+
+At  this  time  the  Bodhisatta  was  following  the  ascetic  life  and  was
+living  in  a  hermitage  on  a  spot  lying  between  the  two  kingdoms.  Said
+Kalinga,  "These  monks  are  knowing  fellows.  Who  can  tell  which  of  us
+will  gain  the  victory,  and  which  will  be  defeated  1  I  will  ask  this  ascetic."
+So  he  came  to  the  Bodhisatta  disguised,  and  sitting  respectfully  on  one
+side,  after  the  usual  kindly  greetings  he  said,  "Your  Reverence,  Kalinga
+and  Assaka  have  their  forces  drawn  up  each  within  his  own  territory,
+eager  for  a  fight.  Which  of  them  will  be  victorious,  and  which  will  be
+defeated  V
+
+"Your  Excellency,"  he  replied,  "the  one  will  conquer,  the  other  will
+be  beaten.  I  can  tell  you  no  more.  But  Sakka,  the  King  of  Heaven,  is
+coming  here.  I  will  ask  him  and  let  you  know,  if  you  come  back  again
+to-morrow."
+
+[5]  So  when  Sakka  came  to  pay  his  respects  to  the  Bodhisatta,  he  put
+this  question  to  him,  and  Sakka  replied,  "Reverend  Sir,  Kalinga  will
+conquer,  Assaka  will  be  defeated,  and  such  and  such  omens  will  be  seen
+beforehand."  Next  day  Kalinga  came  and  repeated  his  question,  and  the
+Bodhisatta  gave  Sakka's  answer.     And  Kalinga,  without  inquiring  what
+
+^  The  scholiast  says  Aruna  was  the  real  name  of  the  Assaka  king,
+
+1—2
+
+
+The  Jcitaka.     Booh  IV.
+
+
+the  omens  would  be,  thought  to  himself:  "They  tell  me  I  shall  conquer,"
+and  went  away  quite  satisfied.  This  i-eport  spread  abroad.  And  when
+Assaka  heard  it,  he  summoned  Nandisena  and  said,  "Kaliiiga,  they  say,
+will  be  victorious  and  we  shall  be  defeated.     What  is  to  be  done  ? "
+
+"Sire,"  he  replied,  "who  knows  thisl  Do  not  trouble  yourself  as  to
+who  shall  gain  the  victory  and  who  shall  suffer  defeat."
+
+With  these  words  he  comfoi'ted  the  king.  Then  he  went  and  saluted
+the  Bodhisatta,  and  sitting  respectfully  on  one  side  he  asked,  "Who,
+Reverend  Sir,  will  conquer,  and  who  will  be  defeated  V
+
+"Kalihga,"  he  replied,  "will  win  the  day  and  Assaka  will  be  beaten."
+
+"And  what.  Reverend  Sir,"  he  asked,  "will  be  the  omen  for  the  one
+that  conquers,  and  what  for  the  one  that  is  defeated  ?"
+
+"Your  Excellency,"  he  answered,  "the  tutelary  deity  of  the  conqueror
+will  be  a  spotless  white  bull,  and  that  of  the  other  king  a  perfectly  black
+bull,  and  the  tutelary  gods  of  the  two  kings  will  themselves  fight  and  be
+severally  victorious  or  defeated."
+
+On  hearing  this  Nandisena  rose  up  and  went  and  took  the  king's
+allies — they  were  about  one  thousand  in  number  and  all  of  them  great
+warriors — and  led  them  up  a  mountain  close  at  hand  and  asked  them
+saying,  "Would  you  sacrifice  your  lives  for  our  king]"
+
+"Yes,  Sir,  we  would,"  they  answered.
+
+"Then  throw  yourselves  from  this  precipice,"  he  said.
+
+They  essayed  to  do  so,  when  he  stopped  them,  saying,  "No  more  of
+this.  Show  yourselves  staunch  friends  of  our  king  and  make  a  gallant
+fight  for  him."
+
+They  all  vowed  to  do  so.  And  when  the  battle  was  now  imminent,
+Kalinga  came  to  the  conclusion  in  his  own  mind  that  he  would  be
+victorious,  and  his  army  too  thought  "The  victory  will  be  ours."  [6]  And
+so  they  put  on  their  armour,  and  forming  themselves  into  separate  detach-
+ments, they  advanced  just  as  they  thought  proper,  and  when  the  moment
+came  for  making  a  great  efibrt,  they  failed  to  do  so.
+
+But  both  the  kings,  mounted  on  horseback,  drew  nigh  to  one  another
+with  the  intention  of  fighting.  And  their  two  tutelary  gods  moved  before
+them,  that  of  Kalinga  in  the  shape  of  a  white  bull,  and  that  of  the  other
+king  as  a  black  bull.  And  as  these  drew  nigh  to  one  another,  they  too
+made  every  demonstration  of  fighting.  But  these  two  bulls  were  visible
+to  the  two  kings  only,  and  to  no  one  else.  And  Nandisena  asked  Assaka,
+saying,  "Your  Highness,  are  the  tutelary  gods  visible  to  you?"
+
+"Yes,"  he  answered,  "they  are."
+
+"  In  what  guise?"  he  asked.
+
+"The  guardian  god  of  Kalinga  appears  in  the  shape  of  a  white  bull,
+while  ours  is  in  the  form  of  a  black  bull  and  looks  distressed."
+
+"Fear  not  Sire,  we  shall  conquer  and  Kaliiiga  will  be  defeated.     Only
+
+
+No.  301.  5
+
+dismount  from  your  well-trained  Siudh  horse,  and  grasping  this  spear,  with
+your  left  hand  give  him  a  blow  on  the  flank,  and  then  with  this  body  of  a
+thousand  men  advance  quickly  and  with  a  stroke  of  your  weapon  fell  to
+the  ground  this  god  of  Kalinga,  while  we  with  a  thousand  spears  will
+smite  him  and  so  shall  Kaliiiga's  tutelary  deity  perish,  and  then  shall
+Kalinga  be  defeated  and  we  shall  be  victorious."
+
+"Good,"  said  the  king,  and  at  a  given  signal  from  Nandisena  he  smote
+with  his  spear  and  his  courtiers  too  smote  with  their  thousand  spears,  and
+the  tutelary  god  of  Kalinga  died  then  and  there.
+
+Meanwhile  Kalinga  was  defeated  and  fled.  And  at  the  sight  all  those
+thousand  councillors  raised  a  loud  cry,  saying,  "Kalinga  is  fled."  Then
+Kalinga  with  the  fear  of  death  upon  him,  as  he  fled,  reproached  that  ascetic
+and  uttered  the  second  stanza  :
+
+"  Kaliiigas  bold  shall  victory  claim,
+Defeat  crowns  Assakas  with  shame."
+[7]    Thus  did  your  reverence  prophesy.
+And  honest  folk  should  never  lie.
+
+Thus  did  Kalinga,  as  he  fled,  revile  that  ascetic.  And  in  his  flight
+to  his  own  city  he  durst  not  so  much  as  once  look  back.  And  a  few  days
+afterwards  Sakka  came  to  visit  the  hermit.  And  the  hermit  conversing
+with  him  uttered  the  third  stanza :
+
+The  gods  from  lying  words  are  free,
+Truth  should  their  chiefest  treasure  be.
+In  this,  great  iSakka,  thou  didst  lie  ;
+Tell  me,  I  pray,  the  reason  why.
+
+On  hearing  this,  Sakka  spoke  the  fourth  stanza :
+
+Hast  thou,  0  brahmin,  ne'er  been  told
+
+Gods  envy  not  the  hero  bold  ?
+
+The  fixed  resolve  that  may  not  yield,
+
+Intrepid  prowess  in  the  field,
+
+High  courage  and  adventui'ous  might
+
+For  Assaka  have  won  the  fight.
+
+[8]  And  on  the  flight  of  Kaliiiga,  king  Assaka  returned  with  his
+spoils  to  his  own  city.  And  Nandisena  sent  a  message  to  Kalinga,  that
+he  was  to  forward  a  portion  for  the  dowry  of  these  four  royal  maidens.
+"Otherwise,"  he  added,  "I  shall  know  how  to  deal  with  him."  And
+Kaliiiga,  on  hearing  this  message,  was  so  alarmed  that  he  sent  a  fitting
+portion  for  them.  And  from  that  day  forward  the  two  kings  lived
+amicably  together.
+
+
+His  discourse  ended,  the  Master  identified  the  Birth: — "In  those  days  these
+young  female  ascetics  were  the  daughters  of  king  Kalinga,  Sariputta  was
+Nandisena  and  I  myself  was  the  hermit."
+
+
+The  Jdtaka.     Book  IV.
+
+
+No.  302.
+
+
+MAHAASSAROHA-JATAKA.
+
+^^T/ii/  gifts  bestowed,"  etc. — This  story  the  Master  told  while  dwelling  at
+Jetavana,  about  the  Elder  Ananda.  The  circumstances  that  suggested  the  story
+have  been  already  given.  "In  former  days  too,"  the  Master  said,  "wise  men
+acted  on  the  principle  that  one  good  turn  deserves  another."  And  hereupon  he
+told  them  a  story  of  the  olden  time.
+
+
+Once  upon  a  time  the  Bodhisatta  was  king  of  Benares,  and  exercising
+his  rule  with  justice  and  equity  he  gave  alms  and  kept  the  moral  law.
+
+And  being  minded  to  quell  some  disturbance  on  his  frontier  he  set  out
+with  a  large  fox'ce,  but  being  defeated  he  mounted  his  horse  and  fled  till  he
+reached  a  certain  border  village.  Now  there  dwelt  here  thirty  loyal
+subjects  and  they  were  gathered  together  very  early,  in  the  middle  of  the
+village,  to  transact  the  business  of  the  place.  And  at  this  moment  the
+king  mounted  on  his  mail-clad  horse  and  splendidly  equipped  [9]  rode  into
+the  place  by  the  village  gate.  The  people  were  terrified  and  saying,
+"What  can  this  be?"  fled  every  man  to  his  own  home.  But  there  was
+one  man  who  without  going  to  his  own  house,  came  to  welcome  the  king.
+And  telling  the  stranger  that  the  king,  he  heard,  had  come  to  the  frontier,
+he  inquired  who  he  was  and  whether  he  was  a  royalist  or  a  rebel.  "  I  am
+for  the  king,  Sir,"  he  said.  "  Then  come  with  me,"  he  answered,  and  led
+the  king  to  his  home  and  made  him  sit  down  on  his  own  seat.  Then  the
+man  said  to  his  wife,  "My  dear,  bathe  our  friend's  feet;"  and  when  she  had
+so  done,  he  offered  him  the  best  food  he  could,  and  had  a  bed  made  ready
+for  him,  bidding  him  rest  awhile.  So  the  king  lay  down.  Then  his  host
+took  off"  the  armour  from  the  horse,  turned  him  loose,  gave  him  water  to
+drink  and  grass  to  eat  and  rubbed  him  down  with  oil.  Thus  did  he  tend
+the  king  for  three  or  four  days,  and  the  king  said,  "  Friend,  I  am  now  off*,"
+and  again  he  did  all  due  service  both  to  the  king  and  his  horse.  The  king
+after  he  had  taken  food,  on  leaving  said,  "I  am  called  the  Great  Horseman.
+Our  home  is  in  the  centre  of  the  city.  Should  you  come  there  on  any
+business,  stand  at  the  door  on  the  right  hand  and  ask  the  porter  where  the
+Great  Horseman  dwells,  and  take  him  with  you  and  come  to  our  house."
+With  these  words  he  depax'ted.
+
+Now  the  army,  not  seeing  the  king,  remained  encamped  outside  the
+town,  but  when  they  saw  him,  they  came  out  to  meet  him  and  escorted
+him  home.     The  king  on  entei-ing  the  city  stood  at  the  entrance  of  the
+
+
+No.  302.  7
+
+gate  and  calling  the  porter  ordered  the  crowd  to  retire  and  said,  "Friend,
+a  certain  man  who  lives  in  a  frontier  village  will  come  here,  anxious  to  see
+us,  and  will  ask  where  the  house  of  the  Great  Horseman  is.  Take  him
+by  the  hand  and  bring  him  into  our  presence,  and  then  you  shall  receive  a
+thousand  pieces  of  money."
+
+But  when  the  man  failed  to  come,  the  king  increased  the  tax  on  the
+village  where  he  dwelt.  But  though  the  tax  was  raised,  still  he  did  not
+come.  So  the  king  increased  the  tax  for  the  second  and  third  time,  and
+still  he  came  not.  Then  the  inhabitants  of  the  village  gathered  together
+and  said  to  the  man  :  "  Sir,  from  the  time  the  Horseman  came  to  you,
+[10]  we  have  been  so  weighed  down  by  the  tax  that  we  cannot  lift  up  our
+head.  Go  and  see  the  Great  Horseman  and  persuade  him  to  lighten  our
+burden."
+
+"Well,  I  will  go,"  he  answered,  "but  I  cannot  go  empty-handed.  My
+friend  has  two  sons  :  so  get  you  ready  ornaments  and  suits  of  clothes  for
+them  and  for  his  wife  and  for  my  fi-iend  himself."
+
+"  Very  well,"  they  said,  and  got  everything  ready  for  a  present.
+
+So  he  took  both  this  gift  and  a  cake  fried  in  his  own  house.  And
+when  he  came  to  the  door  on  the  right  hand  he  asked  the  porter  where  the
+house  of  the  Great  Horseman  might  be.  The  porter  answered,  "Come
+with  me  and  I  will  shew  you,"  and  took  him  by  the  hand,  and  on  arriving
+at  the  king's  gate  sent  in  word,  "  The  porter  has  come  and  has  brought
+with  him  the  man  who  dwells  in  the  border  village."  The  king  on  hearing
+it,  rose  from  his  seat  and  said,  "Let  my  friend  and  all  that  have  come  with
+him  enter,"  Then  he  went  forward  to  welcome  him  and  embraced  him,  and
+after  inquiring  if  his  friend's  wife  and  children  were  well,  he  took  him  by
+the  hand,  stepped  on  the  dais  and  seated  him  on  the  royal  throne  beneath
+the  white  umbrella.  And  he  summoned  his  chief  consort  and  said,  "Wash
+my  friend's  feet."  So  she  washed  his  feet.  The  king  sprinkled  water
+from  a  golden  bowl,  while  the  queen  washed  his  feet  and  anointed  them
+with  scented  oil.  Then  the  king  asked,  "  Have  you  anything  for  us  to
+eaf?"  And  he  said,  "Yes,  my  lord,"  and  brought  out  cakes  in  a  bag.
+The  king  received  them  in  a  golden  dish,  and  showing  great  favour  to-
+wards him  he  said,  "  Eat  what  my  friend  has  brought,"  and  gave  some  to
+his  queen  and  his  ministers,  and  himself  too  ate  of  it.  Then  the  stranger
+brought  out  his  other  gift.  And  the  king  to  show  that  he  accepted  it  put
+off  his  silken  garments  and  put  on  the  suit  of  clothes  that  he  had  brought
+him.  [11]  The  queen  also  laid  aside  her  silk  dress  and  ornaments  and  put
+on  the  dress  and  ornaments  he  had  brought  her.  Then  the  king  served
+him  with  food  fit  for  a  king  and  bade  one  of  his  councillors,  saying,  "  Go
+and  see  that  his  beard  is  trimmed  after  the  fashion  of  my  own,  and  let  him
+bathe  in  scented  water.  Then  dress  him  in  a  silken  robe  worth  a  hundred
+thousand  pieces  of  money,  and  adorn  him  in  royal  style  and  bring  him
+
+
+8  The  Jataka.     Book  IV.
+
+here."  This  was  done.  And  the  king  by  beat  of  drum  through  the  city
+gathered  together  his  councillors,  and  throwing  a  thread  of  pure  vermilion
+across  the  white  umbrella,  gave  him  the  half  of  his  kingdom.  From  that
+day  they  ate,  drank  and  dwelt  together  and  they  became  firm  and  in-
+separable friends.
+
+Then  the  king  sent  for  the  man's  wife  and  family  and  had  a  house
+built  for  them  in  the  city,  and  they  ruled  the  kingdom  in  perfect  hai-mony.
+So  the  courtiers  waxed  wroth  and  said  to  the  king's  son,  "  O  prince,  the
+king  has  given  the  half  of  his  kingdom  to  a  certain  householder.  He  eats
+and  drinks  and  dwells  with  him,  and  orders  us  to  salute  his  children.
+What  service  he  has  done  the  king  we  know  not.  What  does  the  king
+mean?  We  feel  ashamed.  Do  you  speak  to  the  king."  He  readily
+agreed  to  do  so,  and  told  every  word  to  the  king  and  said,  "  O  great  king,
+do  not  act  thus."
+
+"  My  son,"  he  answered,  "  do  you  know  where  I  dwelt  after  I  was
+defeated  in  battle?'"
+
+"  I  know  not,  my  lord,"  he  said.
+
+"  I  was  living,"  said  the  king,  "  in  this  man's  house,  and  when  I  had
+recovered  my  health  I  came  back  and  reigned  again.  How  then  should  I
+not  bestow  honour  on  my  benefactor  ? "
+
+And  then  the  Bodhisatta  went  on  to  say,  "  My  son,  whosoever  giveth
+to  one  unworthy  of  his  gift,  and  to  the  deserving  giveth  nought,  that  man
+when  he  falls  into  misfortune  findeth  no  one  to  help  him."  And  to  point
+the  moral  he  uttered  these  verses  :
+
+[12]     Thy  gifts  bestowed  upon  or  fool  or  knave.
+
+In  sorest  need  would  bring  no  friend  to  save:
+But  grace  or  kindness  to  the  good  displayed
+In  sorest  need  would  bring  thee  timely  aid.
+Boons  to  unworthy  souls  are  spent  in  vain,
+Thy  smallest  service  to  the  good  is  gain:
+A  noble  action  though  it  stands  alone.
+Renders  the  doer  worthy  of  a  throne :
+As  fruit  abundant  from  the  tiny  seed,
+Eternal  fame  springs  from  a  virtuous  deed.
+
+[13]  On  heax-ing  this  neither  the  councillors  nor  the  young  prince  had
+aught  to  say  in  answer.
+
+
+The  Master,  his  discourse  ended,  thus  identified  the  Birth :  "At  that  time  it
+was  Ananda  who  dwelt  in  the  frontier  village,  while  I  myself  was  king  of
+Benares."
+
+
+^  Compare  No.  157,  vol.  ii.
+
+
+No.  303.
+
+
+No.   303.
+
+
+EKARAJA-JATAKA.
+
+
+"0  monarch  that  erst,"  etc. — This  story  the  Master  told  while  dwelling  at
+Jetavana,  about  a  courtier  of  the  king  of  Kosala.  The  circumstances  that
+suggested  the  story  have  been  already  related  in  the  Seyyamsa^  Birth.  On  this
+occasion  the  Master  said,  "You  are  not  the  only  one  who  got  good  out  of  evil:
+wise  men  of  old  also  got  good  out  of  evil."     And  he  told  an  old-world  story.
+
+
+Once  upon  a  time  a  minister  in  attendance  on  the  king  of  Benares
+misconducted  himself  in  the  royal  harem.  The  king  after  witnessing  his
+offence  with  his  own  eyes  banished  him  from  the  kingdom.  How  he  took
+service  with  the  king  of  Kosala,  named  Dabbasena,  is  all  told  in  the
+Mahasllava^  Birth.
+
+But  in  the  present  story  Dabbasena  had  the  king  of  Benares  seized
+while  sitting  on  the  dais  in  the  midst  of  his  councillors,  and  fastening  him
+by  a  cord  on  the  lintel  of  the  door  suspended  him  head  downwards.  The
+king  cultivated  feelings  of  charity  towards  the  rebel  prince,  and  by  a
+process  of  complete  absorption  entered  upon  a  state  of  mystic  meditation,
+and  bui'sting  his  bonds  sat  cross-legged  in  the  air.  The  rebel  prince  was
+attacked  with  a  burning  pain  in  the  body,  and  with  a  cry  of  "I  burn,
+I  burn,"  he  rolled  over  and  over  on  the  ground.  When  he  asked  the
+reason  of  it,  his  courtiers  replied,  "  It  is  because  the  king  whom  you
+suspend  head  downwards  from  the  lintel  of  the  door  is  such  an  innocent
+and  holy  man."  Tlien  said  he,  "  Go  quickly  and  release  him."  His
+servants  went  and  found  the  king  sitting  cross-legged  in  the  air,  and  came
+back  and  told  Dabbasena.  [14]  So  he  went  with  all  speed,  and  bowing
+before  him  asked  his  pardon  and  repeated  the  first  stanza :
+
+O  monarch  that  erst  in  thy  kingdom  didst  dwell.
+Enjoying  such  bliss  as  few  mortals  have  seen.
+
+How  is  it  that  lying  midst  tortures  of  Hell
+
+Thou  still  art  so  calm  and  so  gracious  of  mien  ?
+
+On  hearing  this  the  Bodhisatta  repeated  the  rest  of  the  stanzas  :
+
+Of  yore  'twas  my  one  earnest  prayer  unto  Heaven
+From  the  ranks  of  ascetics  no  more  to  be  barred,
+
+But  now  that  such  glory  to  me  has  been  given,
+0  why  should  the  form  of  my  visage  be  marred  ?
+
+1  No.  282,  vol.  ii.
+
+2  No.  51,  vol.  i.
+
+
+10  The  Jdtaka.     Book  IV.
+
+The  end  is  accomplished,  my  task  is  now  done,
+The  prince  once  my  foe  is  no  longer  estranged,
+
+But  now  that  the  fame  I  so  envied  is  won,
+
+O  why  should  the  form  of  my  visage  be  changed  l
+
+^When  joy  turns  to  sorrow,  and  weal  becomes  woe.
+
+Patient  souls  even  pleasure  may  wring  from  their  pain,
+
+But  no  such  distinction  of  feeling  they  know.
+When  the  calm  of  Nirvana  poor  mortals  attain.
+
+[15]  On  hearing  this  Dabbasena  asked  forgiveness  of  the  Bodhisatta
+and  said,  "  Rule  over  your  own  people  and  I  will  drive  out  the  rebels  from
+amongst  you."  And  after  punishing  that  wicked  councillor  he  went  his
+way.  But  the  Bodhisatta  handed  over  the  kingdom  to  his  ministers,  and
+adopting  the  ascetic  life  of  a  Rishi  he  became  destined  to  birth  in  the
+Brahma-world.
+
+
+When  the  Master  had  finished  this  discourse,  he  identified  the  Birth:  "At
+that  time  Ananda  was  Dabbasena,  and  I  myself  was  the  king  of  Benares."
+
+
+No.  304.
+
+DADD  AR  A- J  ATAKA.
+
+"  0  Daddara,  who"  etc. — This  story  the  Master  told  while  dwelling  at  Jetavana,
+about  a  certain  choleric  fellow.  The  circumstance  has  been  already  related
+before.  On  this  occasion  when  a  discussion  had  arisen  in  the  Hall  of  Truth
+about  the  passionate  nature  of  the  man,  the  Master  came  up,  and  when  in
+answer  to  his  inquiry  he  was  told  by  the  Brethren  the  subject  of  their  discourse,
+he  sent  for  the  man  and  asked,  "Is  it  true.  Brother,  what  they  say,  that  you
+are  passionate?"  "Yes,  my  Lord,  it  is  so,"  he  replied.  [16]  Then  the  Master
+said,  "Not  now  only,  Brethren,  but  of  old  too  this  fellow  was  very  choleric,  and
+
+^  Compare  Lord  Houghton's  poem,  "Pleasure  and  Pain."
+
+See  the  Fakeer  as  he  swings  on  his  iron,
+
+See  the  thin  Hermit  that  starves  in  the  wild;
+
+Think  ye  no  pleasures  the  penance  environ,
+And  hope  the  sole  bliss  by  which  pain  is  beguiled?
+
+No!  in  the  kingdoms  those  spirits  are  reaching,
+
+Vain  are  our  words  the  emotions  to  tell;
+Vain  the  distinctions  our  senses  are  teaching,
+
+For  Pain  has  its  Heaven  and  Pleasure  its  Hell  I
+
+
+No.  304.  11
+
+owing  to  his  passionate  temper  wise  men  of  former  days  though  continuing  to
+lead  perfectly  innocent  lives  as  Naga  princes,  had  to  dwell  three  years  on  a  filthy
+dunghill."     And  herewith  he  told  an  old  story.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  at  Benares,  the
+Daddara  Nagas  dwelt  at  the  foot  of  Mount  Daddara  in  the  Himalaya  region
+and  the  Bodhisatta  came  to  life  as  Mahadaddara,  the  son  of  Suradaddai-a,  the
+king  of  that  country,  with  a  younger  brother  named  Culladaddara.  The
+latter  was  passionate  and  cruel,  and  went  about  abusing  and  striking  the
+Naga  maidens.  The  Naga  king,  on  hearing  of  his  cruelty,  gave  orders  for
+his  expulsion  from  the  Naga  world.  But  Mahadaddara  got  his  father  to
+forgive  him  and  saved  his  brother  from  expulsion.  A  second  time  the
+king  was  wroth  with  him,  and  again  he  was  induced  to  forgive  him.  But
+on  the  third  occasion  the  king  said,  "You  have  prevented  me  from
+expelling  this  good-for-nothing  fellow ;  now  both  of  you  get  you  gone  from
+this  Naga  world,  and  live  for  three  years  at  Benai-es  on  a  dunghill."
+
+So  he  drove  them  forth  from  the  Naga  country  and  they  went  and
+lived  at  Benares.  And  when  the  village  boys  saw  them  looking  for  their
+food  in  a  ditch  bounding  the  dunghill,  they  struck  them  and  threw  clods
+and  sticks  and  other  missiles  at  them,  and  crying  out,  "What  have  we
+here — water  lizards  with  big  heads  and  tails  like  needles  1 "  uttered  other
+words  of  abuse.  But  Culladaddara,  by  reason  of  his  fierce  and  passionate
+nature,  being  unable  to  put  up  with  such  disrespect  said,  "  Brother,  these
+boys  are  mocking  us.  They  don't  know  that  we  are  venomous  serpents.
+I  can't  stand  their  contemjit  for  us.  I  will  destroy  them  by  the  breath  of
+my  nostril,"  And  then  addressing  his  brother,  he  repeated  the  first
+stanza :
+
+O  Daddara,  who  such  an  insult  could  bear  ?
+
+"Ho!   frog-eating  stick-i'-the-mud,"  they  cry:
+To  think  that  these  poor  harmless  creatiu-es  should  dare
+
+A  serpent  with  poisonous  fang  to  defy !
+
+[17]  On  hearing  his  words  Mahadaddara  uttered  the  rest  of  the
+stanzas :
+
+An  exile  driven  to  a  foreign  shore
+
+Must  of  abuse  lay  up  a  goodly  store;
+
+For  where  his  rank  and  virtues  none  can  know.
+
+Only  the  fool  his  pride  would  care  to  show.
+
+He  who  at  home  a  "shining  light"  may  be,
+
+Abroad  must  sufier  men  of  low  degree.
+
+So  they  dwelt  there  three  years.  Then  their  father  recalled  them
+home.     And  from  that  day  their  pride  was  abated.
+
+
+12  The  Jataka.     Book  IV.
+
+When  the  Master  had  brought  his  discourse  to  an  end,  he  proclaimed  the
+Truths  and  identified  the  Birth: — At  the  conclusion  of  the  Truths  the  choleric
+Brother  attained  Fruition  of  the  Third  Path  : — "At  that  time  the  choleric  Brother
+was  Culladaddara,  and  I  myself  was  Mahadaddara."
+
+
+No.  305.
+
+SiLAViMAMSANA-J  ATAKA '.
+
+[18]  "In  sooth  there  is,"  etc. — This  story  the  Master  told  while  dwelling  at
+Jetavana,  about  the  rebuking  of  sin.  The  circumstances  will  be  set  forth  in  the
+Paniya  Birth '^  in  the  Eleventh  Book.     The  following  is  a  brief  summary  of  it.
+
+Five  hundred  Brethren  living  in  Jetavana,  at  the  close  of  the  middle  watch
+of  the  night,  entered  into  an  argument  on  the  pleasures  of  sense.  Now  the  Master
+through  all  the  six  divisions  of  night  and  day  keeps  a  continual  watch  over  the
+Brethren,  even  as  a  one-eyed  man  carefully  guards  his  eye,  a  father  his  only  son,
+or  a  yak  its  tail.  In  the  night  time,  with  his  supernatural  vision  regarding
+Jetavana,  he  beheld  these  Brethren,  as  it  were,  like  robbers  that  had  found  their
+way  into  some  great  king's  palace.  And  oiaening  his  perfumed  chamber  he
+summoned  Ananda  and  bade  him  assemble  the  Brethren  in  the  Home  of  the
+Golden  Pavement,  and  prepare  a  seat  for  him  at  the  door  of  the  perfumed  cham-
+ber. Ananda  did  as  he  was  commanded  and  told  the  Master.  Then  the  Master,
+sitting  down  on  the  seat  prepared  for  him,  addressed  the  Brethren  collectively
+and  said,  "  Brethren,  wise  men  of  old  thought  there  was  no  such  thing  as  secrecy
+in  wrong-doing  and  so  refrained  from  it,"  and  he  told  them  a  story  of  the  olden
+time.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the  Bodhi-
+satta  came  to  life  in  a  brahmin  family,  and  when  he  was  of  age,  he  was  taught
+science  by  a  world-renowned  professor  of  that  city,  being  at  the  head  of  a
+class  of  five  hundred  students.  Now  his  teacher  had  a  grown-up  daughter.
+And  he  thought :  "I  will  test  the  virtue  of  these  youths  and  will  give  her
+in  marriage  to  him  that  most  excels  in  virtue."
+
+So  one  day  he  thus  addressed  his  pupils :  "  My  friends,  I  have  a
+grown-up  daughter,  and  I  intend  to  give  her  in  marriage,  but  I  must  have
+proper  dresses  and  ornaments  for  her.  Do  you  then  steal  some  without
+your  friends  discovering  it,  and  bring  them  to  me.  Whatever  no  one  has
+seen  you  take  I  will  accept,  but  if  you  allow  anything  you  bring  to  be
+seen,  I  shall  refuse  it."  They  assented,  saying,  "  Very  well,"  and  from
+that  day  they  stole  dresses  and  ornaments  without  their  friends'  knowledge
+
+'  See  K.  Morris,  FolJclore  Journal,  iii.  244.
+-  No.  459.  Vol.  iv.
+
+
+No.  305.  13
+
+and  brought  them  to  him.  And  the  teacher  arranged  whatever  each  pupil
+brought  in  a  separate  place.     But  the  Bodhisatta  stole  nothing.
+
+Then  the  teacher  said,  [19]  "  But  you,  my  friend,  bring  me  nothing."
+"True,  Master,"  he  replied.  "  Why  is  this,  my  friend  1 "  he  asked.  "  You
+accept  nothing,"  he  answered,  "  unless  it  is  taken  secretly.  But  I  find
+there  is  no  such  thing  as  secrecy  in  wrong-doing."
+
+Aiad  to  illustrate  this  truth  he  repeated  these  two  stanzas :
+
+In  sooth  there  is  no  act  of  sin,  that  in  this  world  may  hidden  lie,
+That  which  the  fool  a  secret  deems,  the  spirits  of  the  wood  espy.
+Concealment  nowhere  may  be  found,  nor  can  a  void  exist  for  me.
+E'en  where  no  being  is  in  sight,  while  I  am  there,  no  void  can  be.
+
+The  Master,  being  pleased  with  his  words,  said,  "  Friend,  there  is  no
+lack  of  wealth  in  my  house,  but  I  was  anxious  to  marry  my  daughter  to  a
+virtuous  man,  and  I  acted  thus  to  prove  these  youths.  But  you  alone  are
+worthy  of  my  daughter."  Then  he  adorned  his  daughter  and  gave  her  in
+marriage  to  the  Bodhisatta,  but  to  his  other  pupils  he  said,  "  Take  back  all
+that  you  brought  me  to  your  several  homes  again."
+
+
+Then  the  Master  said,  "  It  was  thus.  Brethren,  that  the  wicked  pupils  by
+their  dishonesty  failed  to  win  this  woman,  while  this  one  wise  youth  by  his
+virtuous  conduct  obtained  her  as  his  wife."  And  in  his  Perfect  Wisdom  he  gave
+utterance  to  yet  two  other  stanzas  :
+
+Masters  Bastard^  and  Low  and  Easy  and  Gay,
+
+With  Bravo  and  Frail,  for  a  wife,  went  astray ;
+
+But  our  Brahmin,  well  seen  in  the  Law  from  his  youth,
+
+Won  a  bride  by  his  courage  in  holding  the  Truth.
+
+[20]  The  Master,  having  brought  this  solemn  lesson  to  an  end,  declared  the
+Truths  and  identified  the  Birth : — At  the  conclusion  of  the  Truths  these  five
+hundred  Brethren  attained  to  Sainthood: — "At  that  time  Sariputta  was  the
+Teacher,  and  I  myself  was  the  Wise  Youth."
+
+
+No.  306.
+
+
+SUJATA-JATAKA.
+
+"  What  is  this  egg-shaped  fruit,"  etc. — This  story  was  told  by  the  Master  while
+dwelling  at  Jetavana,  about  queen  Mallika.
+
+One  day,  they  say,  there  was  a  dispute  at  court  between  her  and  the  king  2.
+Men  still  speak  of  it  as  the  '  Harem  Quarrel.'     The  king  was  so  enraged  that  he
+
+^  The  Scholiast  explains  that  these  were  the  names  of  six  leading  disciples  amongst
+those  that  yielded  to  temptation.
+*  Pasenadi,  king  of  Kosala.
+
+
+14  The  Jdtaka.     Book  IV.
+
+ignored  her  existence.  Mallika  thought :  "  The  Master,  I  fancy,  knows  not  how
+angry  the  king  is  with  me."  But  the  Master  knew  all  about  it  and  resolved  to
+make  peace  between  them .  So  early  in  the  morning  he  put  on  his  inner  garment
+and  taking  his  bowl  and  robes  he  entered  Savatthi  with  a  following  of  five
+hundred  brethren  and  came  to  the  palace  gate.  The  king  took  his  bowl  from
+him,  brought  him  into  the  house,  and  placing  him  on  the  seat  prepared  for  him,
+pom-ed  the  Water  of  Donation  on  the  hands  of  the  Brotherhood  with  Buddha  at
+their  head,  and  brought  them  rice  and  cakes  to  eat.  But  the  Master  covered  up
+his  bowl  with  his  hand  and  said,  "  Sire,  where  is  the  queen  ? "
+
+"  What  have  you  to  do  with  her,  Reverend  Sir  ? "  he  answered.  "  Her  head
+is  turned,  she  is  intoxicated  with  the  honour  she  enjoys."
+
+"  Sire,"  he  said,  "  after  you  yourself  bestowed  this  honoiu-  on  the  woman,  it  is
+wrong  of  you  now  to  get  rid  of  her,  and  not  to  put  up  with  the  offence  she  has
+committed  against  you."
+
+The  king  hearkened  to  the  words  of  the  Master  and  sent  for  the  queen.
+[21]  And  she  ministered  to  the  Master.  "You  ought,"  he  said,  "to  live  together
+in  peace,"  and  singing  the  praises  of  the  sweets  of  concord  he  went  his  way.  And
+from  that  day  they  lived  happily  together.
+
+The  Brethren  raised  a  discussion  in  the  Hall  of  Truth,  how  that  the  Master
+had  reconciled  the  king  and  queen  by  a  single  word.  The  Master,  when  he
+came,  inquired  what  the  Brethren  were  discussing,  and  on  being  told  said,  "  Not
+now  only.  Brethren,  but  formerly  too  I  reconciled  them  by  a  single  word  of
+admonition."     And  he  told  an  old  story.
+
+
+Once  upon  a  time  when  Brahmadatta  was  king  at  Benares,  the
+Bodhisatta  was  his  minister  and  his  temporal  and  spiritual  adviser.
+
+Now  one  day  the  king  stood  at  an  open  window  looking  into  the  palace
+court.  And  at  this  very  moment  the  daughter  of  a  fruiterer,  a  beautiful
+girl  in  the  flower  of  her  youth,  stood  with  a  basket  of  jujubes  on  her  head
+crying,  ''Jujubes,  ripe  jujubes,  who'll  buy  my  jujubes?"  But  she  did  not
+venture  into  the  royal  court'.
+
+And  the  king  no  sooner  heard  her  voice  than  he  fell  in  love  with  her,
+and  when  he  learned  that  she  was  unmarried  he  sent  for  her  and  raised
+her  to  the  dignity  of  chief  queen,  and  bestowed  great  honour  upon  her.  Now
+she  was  dear  and  pleasing  in  the  king's  eyes.  And  one  day  the  king  sat
+eating  jujubes  in  a  golden  dish.  And  the  queen  Sujata,  when  she  saw  the
+king  eating  jujubes,  asked  him,  saying,  "  My  lord,  what  in  the  world  are
+you  eating  1 "     And  she  uttered  the  first  stanza  :
+
+What  is  this  egg-shaped  fruit,  my  lord,  so  pretty  and  red  of  hue.
+In  a  gold  dish  set  before  thee?     Pray  tell  me,  where  they  grew.
+
+And  the  king  was  wroth  and  said,  "  0  daughter  of  a  greengrocer,
+dealer  in  ripe  jujubes,  do  you  not  recognise  the  jujubes,  the  special  fruit
+of  your  own  family  1 "     And  he  repeated  two  stanzas  :
+
+[22]  Bare-headed  and  meanly  clad,  my  queen,  thou  once  didst  feel  no  shame.
+To  fill  thy  lap  with  the  jujube  fruit,  and  now  thou  dost  ask  its  name  ;
+Thou  art  eaten  up  with  pride,  my  queen,  thou  findest  no  pleasure  in  life.
+Begone  and  gather  thy  jujubes  again.     Thou  shalt  be  no  longer  my  wife.
+
+^  Reading  rdjangane  na  gacchati.  With  Fausb^U's  text  rdjanganena,  it  must  be
+"  She  passed  by  way  of  the  court."
+
+
+No.  306.  15
+
+Then  the  Bodhisatta  thought,  "  No  one,  except  myself,  will  be  able  to
+reconcile  this  pair.  I  will  appease  the  king's  anger  and  prevent  him  from
+turning  her  out  of  doors."     Then  he  repeated  the  fourth  stanza  :
+
+These  are  the  sins  of  a  woman,  my  lord,  promoted  to  high  estate  :
+Forgive  her  and  cease  from  thine  anger,  0  king,  for  'twas  thou  didst  make
+
+her  great.
+
+So  the  king  at  his  word  put  up  with  the  offence  of  the  queen  and
+restored  her  to  her  former  position.  And  thenceforth  they  lived  amicably
+together.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth :  "At  that  time  the  king  of
+Kosala  was  king  of  Benares,  Mallika  was  Sujata  and  I  myself  was  the  Minister."
+
+
+No.  307.
+
+PALASA-JATAKA\
+
+[23]  "  Why,  brahmin,  though,"  etc. — The  Master,  when  he  was  stretched  upon
+the  bed  of  death,  told  this  story  of  the  Elder  Ananda.
+
+The  venerable  man,  knowing  that  the  Master  on  this  very  night  at  eventide
+would  die,  said  to  himself,  "  I  am  still  under  discipline  and  have  duties  to  per-
+form, and  my  Master  is  certainly  going  to  die,  and  then  the  service  I  have  ren-
+dered to  him  for  five-and-twenty  years  will  be  fruitless."  And  so  being  over-
+whelmed with  sorrow  he  leaned  upon  the  monkey-head  which  formed  the  bolt  of
+the  garden  store-room  and  burst  into  tears.
+
+And  the  Master,  missing  Ananda,  asked  the  Brethren  where  he  was,  and  on
+hearing  what  was  the  matter  he  sent  for  him  and  addressed  him  as  follows :
+"Ananda,  thou  hast  laid  up  a  store  of  merit.  Continue  to  strive  earnestly  and
+thou  wilt  soon  be  free  from  human  passion.  Grieve  not  thyself  Wherefore
+should  the  service  thou  hast  rendered  me  prove  fruitless  now,  seeing  that  thy
+former  services  in  the  days  of  thy  sinfulness  were  not  without  their  reward  ? "
+Then  he  told  a  legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta came  to  life  in  the  form  of  a  Judas-tree  sprite.  Now  at  this  time  all
+the  inhabitants  of  Benares  were  devoted  to  the  worship  of  such  deities,
+and  constantly  engaged  in  religious  offerings  and  the  like.
+
+^  See  R,  Morris,  Folklore  Journal,  iii.  355.
+
+
+16  The  Jdtaka.     Book  IV.
+
+And  a  certain  jjoor  brahmin  thought,  "I  too  will  watch  over  some
+divinity."  So  he  found  a  big  Judas-tree  growing  on  high  ground,  and  by-
+sprinkling  gravel  and  sweeping  all  round  it,  he  kept  its  root  smooth  and
+free  from  grass.  Then  he  presented  it  with  a  scented  wreath  of  five  sprays
+and  lighting  a  lamp  made  an  offering  of  flowers  and  perfume  and  incense.
+And  after  a  reverential  salutation  he  said,  "Peace  be  with  thee,"  and  then
+went  his  way.  On  the  next  day  he  came  quite  early  and  asked  after  its
+welfare.  Now  one  day  it  occurred  to  the  tree-sprite,  "This  brahmin  is
+very  attentive  to  me.  I  will  test  him  and  find  out  why  he  thus  worships
+me,  and  grant  him  his  desire."  So  when  the  brahmin  came  and  was
+sweeping  about  the  root  of  the  tree,  the  spirit  stood  near  him  disguised  as
+an  aged  brahmin  and  repeated  the  first  stanza :
+
+[24]  Why,  brahmin,  though  thyself  with  reason  blest,
+Hast  thou  this  dull  insensate  tree  addressed  ?
+Vain  is  thy  prayer,  thy  kindly  greeting  vain.
+From  this  dull  wood  no  answer  wilt  thou  gain.
+
+On  hearing  this  the  brahmin  replied  in  a  second  stanza  :
+
+Long  on  this  spot  a  famous  tree  has  stood.
+Meet  dwelling-place  for  spirits  of  the  wood  ;
+With  deepest  awe  such  beings  I  revere,-
+They  guard,  methinks,  some  sacred  treasure  here.
+
+The  tree-sprite  on  hearing  these  words  was  so  pleased  with  the  brahmin
+that  he  said,  "  0  brahmin,  I  was  born  as  the  divinity  of  this  tree.  Fear
+not.  I  will  grant  you  this  treasure."  And  to  reassure  him,  by  a  great
+manifestation  of  divine  power,  he  stood  suspended  in  the  air  at  the
+entrance  of  his  celestial  mansion,  while  he  recited  two  more  stanzas :
+
+O  brahmin,  I  have  marked  thy  act  of  love;
+
+A  pious  deed  can  never  fruitless  prove.
+
+Lo  !  where  yon  fig-tree  casts  its  ample  shade.
+
+Due  sacrifice  and  gifts  of  old  were  paid.
+
+Beneath  this  fig  a  buried  treasure  lies,
+
+The  gold  unearth,  and  claim  it  as  thy  prize.
+
+[25]  The  spirit  moreover  added  these  words :  "  O  brahmin,  thou
+wouldst  be  weary,  if  thou  hadst  to  dig  up  the  treasure  and  carry  it  away
+with  thee.  Do  thou  therefore  go  thy  way,  and  I  will  bring  it  to  thy  house
+and  deposit  it  in  such  and  such  a  place.  Then  do  thou  enjoy  it  all  thy
+life  long,  and  give  alms  and  keep  the  moral  law."  And  after  thus  admon-
+ishing the  brahmin,  the  tree-sprite,  by  an  exercise  of  divine  power,  con-
+veyed the  treasure  into  the  brahmin's  house.
+
+
+The  Master  here  brought  his  lesson  to  an  end  and  identified  the  Birth :  "At
+that  time  Ananda  was  the  Brahmin,  and  I  myself  was  the  Tree-sprite."
+
+
+No.  308.  17
+
+
+No.  308.
+
+JAVASAKUNA-J  ATARAX
+
+^^  Kindness  as  mtich"  etc. — This  story  was  told  by  the  Master  while  dwelling
+at  Jetavana,  about  the  ingratitude  of  Devadatta.
+
+He  ended  it  by  saying,  "  Not  only  now,  but  in  former  days  did  Devadatta
+show  ingratitude,"  and  with  these  words  he  told  a  story  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  a  woodpecker  in  the  Himalaya  countxy.
+
+[26]  Now  a  certain  lion,  while  devouring  his  prey,  had  a  bone  stick  in
+his  throat.  His  throat  swelled  up  so  that  he  could  not  take  any  food  and
+severe  pains  set  in.  Then  this  woodpecker,  while  intent  on  seeking  its
+own  food,  as  it  was  perched  on  a  bough,  saw  the  lion  and  asked  him,
+saying,  "  Friend,  what  ails  you  ? "  He  told  him  what  was  the  matter,  and
+the  bird  said,  "  I  would  take  the  bone  out  of  your  throat,  friend,  but  I
+dare  not  put  my  head  into  your  mouth,  for  fear  you  should  eat  me  up."
+
+"  Do  not  be  afraid,  friend ;  I  will  not  eat  you  up.  Only  save  my
+life."
+
+"  All  right,"  said  the  bird,  and  ordered  the  lion  to  lie  down  upon  his
+side.  Then  it  thought :  "  Who  knows  what  this  fellow  will  be  about  1 "
+And  to  prevent  his  closing  his  mouth,  it  fixed  a  stick  between  his
+upper  and  lower  jaw,  and  then  putting  its  head  into  the  lion's  mouth,  it
+struck  the  end  of  the  bone  with  its  beak.  The  bone  fell  out  and  dis-
+appeared. And  then  the  woodpecker  drew  out  its  head  from  the  lion's
+mouth,  and  with  a  blow  from  its  beak  knocked  out  the  stick,  and  hopping
+off  sat  on  the  top  of  a  bough.
+
+The  lion  recovered  from  his  sickness,  and  one  day  was  devouring  a  wild
+buffalo  which  he  had  killed.  Thought  the  woodpecker  :  "I  will  now  put
+him  to  the  test,"  and  perching  on  a  bough  above  the  lion's  head,  it  fell  to
+conversing  with  him  and  uttered  the  first  stanza :
+
+Kindness  as  much  as  in  us  lay,
+
+To  thee,  my  lord,  we  once  did  show :
+On  us  in  turn,  we  humbly  pray.
+
+Do  thou  a  trifling  boon  bestow.
+
+1  Compare  Tibetan  Tales,  xxvii.  p.  311:  "The  Ungrateful  Lion."  yEsop:  "The
+Wolf  and  the  Crane."    JdtaJcamdld,  No.  34  :  "The  Woodpecker.'
+
+J.  III.  ■  2
+
+
+The  Jdtaka.     Book  IV.
+
+
+On  hearing  this  the  lion  repeated  the  second  stanza  :
+
+To  trust  thy  head  to  a  lion's  jaw,
+A  creature  red  in  tooth  and  claw,
+To  dare  such  a  deed  and  be  living  still,
+Is  token  enough  of  my  good  will.
+
+The  woodpecker  on  hearing  this  uttered  two  more  stanzas  :
+
+From  the  base  ingrate  hope  not  to  obtain
+The  due  recjuital  of  good  service  done ;  [27]
+
+From  bitter  thought  and  angry  word  refrain,
+But  haste  the  presence  of  the  wretch  to  shun.
+
+With  these  words  the  woodpecker  flew  away.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth  :  "  At  that  time  Devadatta
+was  the  Lion,  and  I  myself  was  the  Woodpecker."
+
+
+No.  309.
+
+CHAVAKA-JATAKA.  ^
+
+"  JIol^  Teacher,"  etc. — The  Master  while  residing  at  Jetavana  told  this  story,
+about  the  Fraternity  of  Six  Priests.  It  is  related  in  detail  in  the  Vinaya^.  Here
+is  a  brief  summary  of  it.
+
+The  Master  sent  for  the  Six  Priests  and  asked  if  it  were  true  that  they  taught
+the  law  from  a  low  seat''^,  while  their  pupils  sat  on  a  higher  seat.  They  confessed
+that  it  was  so,  and  the  Master  in  reproving  these  brethren  for  their  want  of
+respect  for  his  law,  said  that  wise  men  of  old  had  to  rebuke  men  for  teaching
+even  heretical  doctrines  while  sitting  on  a  low  seat.  Then  he  told  them  an  old
+story.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  came  to  life  as  the  son  of  a  pariah  woman,  and  when  he  was  grown
+up,  he  established  himself  as  a  householder.  And  his  wife  being  with
+child  had  a  great  longing  for  the  mango  fruit,  and  said  to  her  husband,
+"My  lord,  I  have  a  desire  to  eat  mangoes."
+
+1  See  Oldenberg's  Vinaya,  iv.  203.     (Suttavibhanga,  Sekhiya,  68,  69.)
+
+2  See  Manu  ii.  198  for  the  rule  that  the  disciple  must  sit  on  a  seat  lower  than  his
+guru.
+
+
+No.   309.  19
+
+"  My  dear,"  he  said,  "  there  are  no  mangoes  at  this  season,  I  will  bring
+you  some  other  acid  fruit."
+
+"  My  lord,"  said  she,  "  if  I  can  have  a  mango,  I  shall  live.  Otherwise
+I  shall  die."
+
+[28]  He  being  infatuated  about  his  wife  thought,  "  Where  in  the  world
+am  I  to  get  a  mango  V  Now  at  this  time  there  was  a  mango  tree  in  the
+garden  of  the  king  of  Benares,  which  had  fruit  on  it  all  the  year  round.
+So  he  thought,  "I  will  get  a  ripe  mango  there  to  appease  her  longings."
+And  going  to  the  garden  by  night  he  climbed  up  the  tree,  and  stepped
+from  one  branch  to  another,  looking  for  the  fruit,  and  while  he  was  thus
+engaged,  the  day  began  to  break.  Thought  he,  "  If  I  shall  come  down
+now  to  go  away,  I  shall  be  seen  and  seized  as  a  thief.  I  will  wait  till
+it  is  dark."  So  he  climbed  up  into  a  fork  of  the  tree  and  remained  there,
+perched  u})on  it.
+
+Now  at  this  time  the  king  of  Benares  was  being  taught  sacred  texts  by
+his  chaplain.  And  coming  into  the  garden  he  sat  down  on  a  high  seat  at
+the  foot  of  the  mango  tree,  and  placing  his  teacher  on  a  lower  seat,  he  had
+a  lesson  from  him.  The  Bodhisatta  sitting  above  them  thought,  "  How
+wicked  this  king  is.  He  is  learning  the  sacred  texts,  sitting  on  a  high
+seat.  The  brahmin  too  is  equally  wicked,  to  sit  and  teach  him  from  a  lower
+seat.  I  also  am  wicked,  for  I  have  fallen  into  the  power  of  a  woman,  and
+counting  my  life  as  nought,  I  am  stealing  the  mango  fruit."  Then  taking
+hold  of  a  hanging  bough,  he  let  himself  down  from  the  tree,  and  stood
+before  these  two  men  and  said,  "  O  Great  King,  I  am  a  lost  man,  and  thou
+a  gr^s  fool,  and  this  priest  is  as  one  dead,"  And  being  asked  by  the  king
+what  he  meant  by  these  words,  he  uttered  the  first  stanza : —
+
+Holy  Teacher,  Royal  Scholar,  lo  !   the  sinful  deed  I  saw.
+
+Both  alike  from  grace  are  fallen,  both  alike  transgressed  the  law^.
+
+[29]  The  bi-ahmin,  on  hearing  this,  repeated  the  second  stanza : —
+
+My  food  is  pure  rice  from  the  hill,
+
+With  a  delicate  flavour  of  meat,
+For  why  should  a  sinner  fulfil
+
+A  rule  meant  for  saints,  when  they  eat  ?
+
+On  hearing  this  the  Bodhisatta  recited  two  more  stanzas :  —
+
+Brahmin,  go  range  the  length  and  breadth  of  earth ;
+
+Lo  !   suffering  is  found  the  common  lot.
+Here  marred  by  sin  thy  ruined  life  is  worth
+
+Less  than  the  fragments  of  a  shattered  pot.
+Beware  ambition  and  o'ermastering  greed :
+Vices  like  these  to  "Worlds  of  Suffering"  lead.
+
+1  The  Scholiast  in  his  explanation  adds  this  verse :
+
+True  faith  of  yore  prevailed  on  earth,
+False  doctrine  was  a  later  birth.
+
+2—2
+
+
+20  The  Jataha.     Booh  IV.
+
+[30]  Then  the  king  being  pleased  with  his  exposition  of  the  law,
+asked  him  of  what  caste  he  was.  "I  am  a  pariah,  my  lord,"  he  said.
+"Friend,"  he  replied,  "had  you  been  of  a  high  caste  family,  I  would  have
+made  you  sole  king.  But  henceforth  I  will  be  king  by  day,  and  you  shall
+be  king  by  night."  And  with  these  words  he  placed  upon  his  neck  the
+wreath  of  flowers  with  which  he  himself  was  adorned,  and  made  him  lord
+protector  over  the  city.  And  hence  is  derived  the  custom  for  the  lords  of
+the  city  to  wear  a  wreath  of  red  flowers  on  their  neck.  And  from  that
+day  forward  the  king  abiding  in  his  admonition  paid  respect  to  his  teacher,
+and  learned  sacred  texts  from  him,  sitting  on  a  lower  seat.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth :  "  At  that  time  Ananda
+was  the  king,  and  I  myself  was  the  pariah."
+
+
+No.  310.
+
+
+SAYHA-JATAKA,
+
+"iVo  throne  on  earth,''  etc. — The  Master  told  this  story  while  in  residence  at
+Jetavana,  about  a  backsliding  brother,  who  in  going  his  rounds  for  alms  at
+Savatthi  caught  sight  of  a  beautiful  woman,  and  thenceforth  had  grown  discon-
+tented and  lost  all  pleasure  in  the  Law.  So  the  Brethren  brought  him  before  the
+Blessed  One.  Said  the  Blessed  One,  "  Is  it  true,  Brother,  what  I  hear,  that  you
+are  discontented  ? "  He  confessed  it  was  so.  The  Master  on  learning  the  cause
+of  his  discontent  said,  "  Why,  Brother,  are  you  longing  for  the  world,  after  taking
+orders  in  a  religion  that  leads  to  Salvation  ?  Wise  men  of  old  when  offered  the
+dignity  of  family  priest  rejected  it,  and  adopted  the  ascetic  life."  And  he  told
+them  a  story  of  the  olden  time.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  conceived  in  the  womb  of  the  brahmin  wife  of  the  king's
+chaplain,  [31]  and  was  born  on  the  same  day  as  the  king's  son.  And  when
+the  king  asked  his  ministers  if  any  child  had  been  born  on  the  same  day
+as  his  son,  they  said,  "Yes,  Sire,  a  son  of  your  family  priest."  So  the
+king  had  him  brought  and  given  into  the  charge  of  nurses  to  be  carefully
+tended  together  with  the  young  prince.  And  they  both  had  the  same
+ornaments  to  wear  and  had  exactly  the  same  things  to  eat  and  drink.
+
+
+No.  310.  21
+
+And  when  they  were  grown  ixp,  they  went  together  to  Takkasihl  and
+as  soon  as  they  had  attained  proficiency  in  all  the  sciences  they  returned
+home.
+
+The  king  made  his  son  viceroy  and  bestowed  great  honour  upon  him.
+From  that  time  the  Bodhisatta  ate,  drank,  and  lived  with  the  prince,  and
+there  was  a  firm  friendship  between  them.  By  and  bye  at  the  death  of  his
+father,  the  young  prince  ascended  the  throne  and  enjoyed  great  prosperity.
+Thought  the  Bodhisatta:  "My  friend  now  rules  tlie  kingdom;  when  he
+sees  a  fitting  opportunity,  he  will  certainly  give  me  the  office  of  his  family
+priest.  What  have  I  to  do  with  a  householder's  life  1  I  will  become  an
+ascetic  and  devote  myself  to  solitude."
+
+So  he  saluted  his  parents  and  having  asked  their  permission  to  take
+orders,  he  gave  up  his  worldly  fortune  and  setting  forth  quite  alone  he
+entered  the  Himalaya  country.  There  on  a  charming  spot  he  built  him-
+self a  hermitage,  and  adopting  the  religious  life  of  an  anchorite  he  de-
+veloped all  the  Faculties  and  Attainments,  and  lived  in  the  enjoyment  of
+the  pleasure  of  the  mystic  life.
+
+At  this  time  the  king  remembered  him  and  said,  "  What  has  become  of
+my  friend?  He  is  nowhere  to  be  seen."  His  ministers  told  him  he  had
+taken  orders,  and  was  living,  they  heard,  in  some  delightful  grove.  The
+king  asked  the  place  of  his  abode,  and  said  to  a  councillor  named  Sayha,
+"Go  and  bring  my  friend  back  with  you.  I  will  make  him  my  chaplain."
+Sayha  readily  assented,  and  going  forth  from  Benares  in  course  of  time
+reached  a  frontier  village  and  taking  up  his  abode  there,  he  went  with
+some  foresters  to  the  place  where  the  Bodhisatta  dwelt  and  found  him
+sitting  like  a  golden  statue  at  the  door  of  his  hut.  After  saluting  him
+with  the  usual  compliments  he  sat  at  a  respectful  distance  and  thus
+addressed  him  :  "  Reverend  Sir,  the  king  desires  your  return,  being
+anxious  to  raise  you  to  the  dignity  of  his  family  priest."  [32]  The  Bodhi-
+satta replied,  "  If  I  were  to  receive  not  merely  the  post  of  chaplain  but
+all  Kasi  and  Kosala,  and  the  realm  of  India  and  the  glory  of  a  Universal
+Empire,  I  would  refuse  to  go.  The  wise  do  not  again  take  up  the  sins
+they  have  once  abandoned  any  more  than  they  would  swallow  the  phlegm
+they  have  once  raised."     So  saying  he  repeated  these  stanzas  : —
+
+^No  throne  on  earth  should  tempt  me  to  my  shame.
+No  sea-girt  realm,  safe-guarded  in  the  deep  ;
+Accm-sed  be  the  lust  of  wealth  and  fame
+
+That  dooms  poor  man  in  "Suffering  Worlds"  to  weep.
+
+Better  through  earth  a  homeless  waif  to  stray,
+And  bowl  in  hand  to  beg  from  door  to  door.
+
+Than  as  a  king,  to  sinful  lusts  a  prey,
+To  bear  a  tyrant  rule  and  vex  the  poor.
+
+^  These  stanzas  occur  again  in  Jataka  -133.
+
+
+22  The  Jdtaha.     Book  IV.
+
+Thus  did  the  Bodhisatta  though  again  and  again  importuned  by  him
+reject  his  offer.  And  Sayha,  being  unable  to  prevail  on  him,  saluted  him,
+and  returned  and  told  the  king  of  his  refusal  to  come.
+
+
+[33]  "When  the  Master  had  brought  his  lesson  to  an  end,  he  revealed  the
+Truths  and  identified  the  Birth: — At  the  conclusion  of  the  Truths  the  back-
+sliding Brother  attained  to  fruition  of  the  First  Path.  Many  others  too
+experienced  like  fruits  of  Conversion  : — "  At  that  time  Ananda  was  the  king,
+Sariputta  was  Sayha,  and  I  myself  was  the  family  priest."
+
+
+No.  311.
+
+
+PUCIMANDA-JATAKA.
+
+"  Robber,  arise,"  etc. — The  Master,  while  dwelling  in  the  Bamboo-Grove,  told
+this  story  about  the  venerable  Moggallana.
+
+When  that  elder  was  living  near  Rajagaha  in  a  forest  hut,  a  certain  robber,
+after  breaking  into  a  house  in  a  subm-ban  village,  fled  with  his  hands  full  of
+plunder  till  he  came  within  the  precincts  of  the  elder's  cell,  and  thinking  that  he
+should  be  safe  there  he  lay  down  at  the  entrance  of  his  hut  of  leaves.  The  elder
+noticed  him  lying  there  and  suspecting  his  character  said  to  himself,  "  It  would
+be  wrong  for  me  to  have  any  dealings  with  a  I'obber."  So  coming  out  of  his  hut
+he  told  him  not  to  lie  there,  and  drove  him  away.
+
+The  robber  starting  off  fled  with  the  greatest  haste.  And  men  with  torches
+in  their  hands,  following  close  upon  the  robber's  track,  came  and  saw  the  various
+spots  marked  by  the  presence  of  the  robber  and  said,  "  It  was  this  way  the
+robber  came.  Here  is  where  he  stood.  There  he  sat  down.  And  that  is  the
+way  he  fled.  He  is  not  to  be  seen  here."  So  they  rushed  about  hither  and
+thither,  but  at  last  had  to  return  without  finding  him.  On  the  next  day  early  in
+the  morning  the  elder  went  his  round  for  alms  in  Rajagaha,  and  on  coming  back
+from  his  pilgrimage  he  went  to  the  Bamboo-Grove  and  told  the  Master  what  had
+happened.  The  Master  said,  "  You  are  not  the  only  one,  Moggallana,  to  suspect
+in  a  case  in  which  suspicion  is  justified.  Wise  men  of  old  suspected  in  like
+manner."     And  at  the  request  of  the  elder  he  told  a  story  of  bygone  times.
+
+
+[34]  Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,
+the  Bodhisatta  came  to  life  as  a  Nimb-tree  spirit  in  a  cemetery  grove  of
+that  city.  Now  one  day  a  robber  having  been  guilty  of  an  act  of  theft  in
+an  outlying  hamlet  of  the  city  entered  the  cemetery  grove.  And  at  this
+time  two  old  trees  stood  there,  a  Nimb-tree  and  a  Bo-tree.  The  robber
+placed  his  stolen  goods  at  the  foot  of  this  Nimb-tree  and  lay  down  there.
+
+
+No.   311.  23
+
+Now  in  these  days  robbers  that  were  caught  were  put  to  tortui-e  by  being
+impaled  on  a  stake  of  the  Nimb-tree.  So  the  spirit  of  the  Nimb-tree
+thought :  '*  If  people  should  come  and  capture  this  robber,  they  will  cut
+off  a  branch  and  make  a  stake  from  this  Nimb-tree  and  impale  him  on
+it.  And  in  that  case  the  tree  will  be  destroyed.  So  I  will  drive  the
+fellow  away."     Then  addressing  him,  he  repeated  the  first  stanza : —
+
+Robber,  arise  !   why  sleepest  thou  1    For  slumber  'tis  no  time,
+The  king's  men  are  upon  thee,  the  avengers  of  thy  crime.
+
+Moreover  he  added  these  words,  "Get  you  gone,  before  the  king's
+men  take  you."  Thus  did  he  frighten  the  robber  away.  And  no
+sooner  had  he  fled  than  the  deity  of  the  Bo-tree  repeated  the  second
+stanza : —
+
+And  even  if  this  robber  bold  red-handed  they  should  take,
+
+To  thee,  0  Nimb-tree,  woodland  sprite,  what  difference  would  it  make?
+
+The  deity  of  the  Nimb-tree  on  hearing  this  uttered  the  third
+stanza : —
+
+0  Bo-tree,  sure  thou  knowest  not  the  secret  of  my  fear;
+
+1  would  not  have  the  king's  men  find  that  wicked  robber  here.
+They  from  my  sacred  tree,  I  know,  straightway  a  branch  would  take,
+And  to  requite  the  guilty  wretch,  impale  him  on  a  stake.
+
+[35]  And  while  the  two  sylvan  deities  were  thus  conversing  together,
+the  owners  of  the  property,  following  on  the  trail  of  the  robber,  with
+torches  in  their  hand,  when  they  saw  the  place  where  he  had  been  lying
+down  said,  "  Lo  !  the  robber  has  just  risen  up  and  fled  from  this  place.
+We  have  not  got  him  yet,  but  if  we  do,  we  will  come  back  and  either  im-
+pale him  at  the  foot  of  this  Nimb-tree,  or  hang  him  from  one  of  its
+branches."
+
+And  with  these  words  rushing  about  hither  and  thither,  and  not
+finding  the  robber,  they  made  off.  And  on  hearing  what  they  said  the
+spirit  of  the  Bo-tree  uttered  the  fourth  stanza  : —
+
+Beware  a  danger  yet  unseen:  suspect  before  too  late,
+The  wise  e'en  in  this  present  woi'ld  look  to  a  future  state.
+
+
+The  Master,  when  he  had  brought  this  lesson  to  an  end,  identified  the  Birth :
+"  At  that  time  Sariputta  was  the  Spirit  of  the  Bo-tree.  I  myself  was  the  Nimb-
+treo  Spirit."
+
+
+24  TJie  Jdtalca.     Book  IV.
+
+
+No.  312.
+
+
+KASSAPAMANDIYA-JATAKA.
+
+[36]  "  Should  foolish  youth"  etc. — This  story  the  Master  told  while  residing  at
+Jetavana,  about  an  aged  Brother.  A  young  nobleman  at  Savatthi,  tradition  says,
+from  a  sense  of  the  evil  consequences  of  sinful  desires,  received  ordination  at  the
+hands  of  the  Master,  and  by  devotion  to  the  rite  by  which  ecstasy  may  be
+induced,  in  no  long  time  attained  to  Sainthood.  By  and  bye  on  the  death  of  his
+mother,  he  admitted  his  father  and  younger  brother  to  orders,  and  they  took  up
+their  abode  at  Jetavana.
+
+At  the  opening  of  the  rainy  season,  hearing  of  a  village  retreat  where  the
+necessary  robes  were  to  be  easily  obtained^,  they  all  three  entered  upon  the  Vassa
+residence  there,  and  when  it  was  ended  they  returned  straight  to  Jetavana.  The
+youthful  Brother,  when  they  came  to  a  spot  not  far  from  Jetavana,  told  the
+novice  lad  to  bring  on  the  old  man  quietly,  while  he  himself  pushed  on  ahead  to
+Jetavana  to  get  ready  their  cell.  The  old  priest  walked  slowly  on.  The  novice
+repeatedly  butted  him,  as  it  were,  with  his  head,  and  dragged  him  along  by  force,
+crying,  "  Come  on,  Master."  The  elder  said,  "  You  are  pulling  me  along  against
+my  will,"  and  turning  back  he  made  a  fresh  start  from  the  beginning.  As  they
+were  thus  quarrelling,  the  sun  went  down  and  darkness  set  in.  The  young
+Brother  meanwhile  swept  out  his  hut,  set  water  in  the  pots,  and  not  seeing  them
+coming,  he  took  a  torch  and  went  to  meet  them.  When  he  saw  them  coming,  he
+asked  what  made  them  so  late.  The  old  man  gave  the  reason.  So  he  made
+them  rest  and  brought  them  slowly  on  their  way.  That  day  he  found  no  time  to
+pay  his  respects  to  the  Buddha.  So  on  the  next  day,  when  he  had  come  to  pay
+his  respects  to  Buddha,  after  he  had  saluted  him  and  taken  his  seat,  the  Master
+asked,  "When  did  you  arrive?"  "Yesterday,  Sir."  "You  came  yesterday  and
+pay  your  respects  to  me  only  to-day  1 "  "  Yes,  Sir,"  he  answered,  and  told  him
+the  reason.  The  Master  rebuked  the  elder:  "Not  now  only  does  he  act  like
+this.  Of  old  too  he  did  just  the  same.  Now  it  is  you  that  are  annoyed  by  him.
+Formerly  he  annoyed  wise  men."  And  at  the  Brother's  request  he  told  an  old
+story.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  came  to  life  in  a  brahmin  family  in  a  town  of  the  Kasi  country.
+[37]  When  he  was  grown  up,  his  mother  died.  And  after  due  per-
+formance of  her  funeral  rites,  at  the  end  of  six  weeks  he  gave  away  in
+alms  all  the  money  that  was  in  the  house,  and  taking  his  father  and
+younger  brother  with  him  he  put  on  the  bark  garment  of  somebody  or
+other,  and  adopted  the  religious  life  of  an  ascetic  in  the  Himalaya  country.
+And  there  he  dwelt  in  a  pleasant  grove,  supporting  himself  by  gleaning  in
+the  fields  and  living  on  roots  and  wild  fruits.
+
+^  Compare  Mahdvagga,  iii.  14.
+
+
+No.   312.  25
+
+Now  in  the  Himalaya,  during  the  rainy  season,  when  the  rains  are
+incessant,  as  it  is  impossible  to  dig  up  any  bulb  or  root,  or  to  get  any  wild
+fruits,  and  the  leaves  begin  to  fall,  the  ascetics  for  the  most  part  come
+down  from  the  Himalayas,  and  take  up  their  abode  amidst  the  haunts  of
+men.  And  at  this  time  the  Bodhisatta,  after  living  here  with  his  father
+and  younger  brother,  as  soon  as  the  Himalaya  countiy  began  to  blossom
+again  and  bear  fruit,  took  his  two  companions  and  returned  to  his
+hermitage  in  the  Himalayas.  And  at  sunset  when  they  were  not  far  from
+his  hut  he  left  them,  saying,  "  You  can  come  on  slowly,  while  I  go  forward
+and  set  the  hermitage  in  order."
+
+Now  the  young  hermit  coming  on  slowly  with  his  father  kept  butting
+him  in  the  waist  with  his  head.  The  old  man  said,  "I  do  not  like  the  way
+in  which  you  are  taking  me  home."  So  he  turned  back  and  started  afresh
+from  the  same  point.  And  while  they  were  thus  quarrelling,  darkness  set
+in.  But  the  Bodhisatta  as  soon  as  he  had  swept  out  his  hut  of  leaves,  and
+got  ready  some  water,  took  a  torch  and  returned  on  the  way  back,  and
+when  he  found  them  he  asked  why  they  had  taken  such  a  long  time.  And
+the  boy  ascetic  told  him  what  his  father  had  done.  But  the  Bodhisatta
+brought  them  quietly  home,  and  having  stowed  safely  away  all  the
+Buddhist  requisites,  he  gave  his  father  a  bath,  and  washed  and  anointed
+his  feet  and  shampooed  his  back.  Then  he  set  out  a  pan  of  charcoal  and
+when  his  father  had  recovered  from  his  fatigue,  he  sat  near  him  and  said,
+"  Father,  young  boys  are  just  like  earthen  vessels :  they  are  broken  in  a
+moment,  [38]  and  when  they  are  once  broken,  it  is  impossible  to  mend
+them  again.  Old  men  should  bear  with  them  patiently,  when  they  are
+abusive."  And  for  the  admonition  of  his  father  Kassapa,  he  repeated  these
+stanzas : —
+
+Should  foolish  youth  in  word  or  deed  offend,
+'Tis  wisdom's  part  long-suftering  to  display;
+
+Quarrels  of  good  men  find  a  speedy  end.
+Fools  pai-t  asunder,  like  untempered  clay.
+
+Men  wise  to  learn,  of  their  own  sins  aware.
+Friendship  can  prove,  that  suffers  no  decay ;
+
+Such  are  a  brother's  burden  strong  to  bear.
+And  strife  of  neighbours  skilful  to  allay.
+
+[39]  Thus  did  the  Bodhisatta  admonish  his  father.  And  he  from  that
+time  forward  exercised  self-restraint.
+
+
+The  Master,  having  brought  his  lesson  to  an  end,  identified  the  Bii-th :  "At
+that  time  the  old  priest  was  the  father  hermit,  the  novice  was  the  boy  hermit,
+and  I  myself  was  the  son  who  admonished  his  father."
+
+
+26  The,  Jataka.     Book  IV.
+
+
+No.  313.
+
+KHANTIVADI-JATAKA\
+
+"  Whoso  cut  off"  etc. — This  story  the  Master,  while  dwelling  at  Jetavana,  told
+about  a  wrathful  Brother.  The  iucideut  that  gave  rise  to  the  story  has  been
+already  described.  The  Master  asked  that  Brother,  saying,  "  Why  after  taking
+orders  under  the  dispensation  of  the  Buddha  who  knows  not  what  wrath  is,  do
+you  show  anger  ?  Wise  men  in  bygone  days,  though  they  suffered  a  thousand
+stripes,  and  had  their  hands  and  feet  and  ears  and  nose  cut  off,  showed  no  anger
+against  another."    And  he  then  told  a  story  of  the  olden  time.
+
+
+Once  upon  a  time  a  king  of  Kasi  named  Kalabu  reigned  at  Benares.
+At  that  time  the  Bodhisatta  came  to  life  in  a  brahmin  family  endowed
+with  eighty  crores  of  treasure,  in  the  form  of  a  youth  named  Kundaka-
+kumara.  And  when  he  was  of  age,  he  acquired  a  knowledge  of  all  the
+sciences  at  Takkasila  and  afterwards  settled  down  as  a  householder.
+
+On  the  death  of  his  parents,  looking  at  his  pile  of  treasure  he  thought :
+"  My  kinsmen  who  amassed  this  treasure  are  all  gone  without  taking  it
+with  them  :  now  it  is  for  me  to  own  it  and  in  my  turn  to  depart."  Then
+he  carefully  selected  persons,  who  by  virtue  of  their  almsgiving  deserved  it,
+and  gave  all  his  wealth  to  them,  and  entering  the  Himalaya  country  he
+adopted  the  ascetic  life.  There  he  dwelt  a  long  time,  living  on  wild  fruits.
+And  descending  to  the  inhabited  parts  for  the  sake  of  px'ocuring  salt  and
+vinegar  he  gradually  made  his  way  to  Benares,  where  he  took  up  his  abode
+in  the  royal  park.  Next  day  he  went  his  rounds  in  the  city  for  alms,  till
+he  came  to  the  door  of  the  commander-in-chief.  And  he  being  pleased
+with  the  ascetic  for  the  propriety  of  his  deportment,  brought  him  into
+the  house  [40]  and  fed  him  with  the  food  prepared  for  himself.  And
+having  gained  his  consent  he  got  him  to  take  up  his  abode  in  the  royal
+park.
+
+Now  one  day  king  Kalabu  being  inflamed  with  strong  drink  came  into
+the  park  in  great  pomp,  surrounded  by  a  company  of  dancers.  Then  he
+had  a  couch  spread  on  the  royal  seat  of  stone,  and  lay  with  his  head  on  the
+lap  of  a  favourite  of  the  harem,  while  the  nautch  girls  who  were  skilful  in
+vocal  and  instrumental  music  and  in  dancing  provided  a  musical  enter-
+tainment— So  great  was  his  magnificence,  like  to  that  of  Sakka,  Lord  of
+heaven — And  the  king  fell  asleep.  Then  the  women  said,  "He  for  whose
+sake  we  are  providing  music,  is  gone  to  sleep.  What  need  is  there  for  us
+to  sing  ] "     Then  they  cast  aside  their  lutes  and  other  musical  instruments
+
+1  See  Jdtakamdld,  No.  28  :  "The  Story  of  Kshantivadin. "
+
+
+No.  313.  27
+
+hither  and  thither,  and  set  out  for  the  garden,  where  tempted  on  by  the
+flowers  and  fruit-bearing  shrubs  they  were  soon  disporting  themselves.
+
+At  this  moment  the  Bodhisatta  was  seated  in  this  garden,  like  a  royal
+elephant  in  the  pride  of  his  vigour,  at  the  foot  of  a  flowering  Sal  ti-ee,
+enjoying  the  bliss  of  retirement  from  the  world.  So  these  women  in
+wandering  about  came  upon  him  and  said,  "  Come  hither,  ladies,  and  let
+us  sit  down  and  hear  somewhat  from  the  priest  who  is  resting  at  the  foot
+of  this  tree,  until  the  king  awakes."  Then  they  went  and  saluted  him  and
+sitting  in  a  circle  round  about  him,  they  said,  "Tell  us  something  worth
+hearing."     So  the  Bodhisatta  preached  the  doctrine  to  them.
+
+Meanwhile  the  royal  favourite  with  a  movement  of  her  body  woke  up
+the  king.  And  the  king  on  waking  up,  and  not  seeing  the  women  asked,
+"Where  are  those  wi*etches  gone?"  "Your  Highness,"  she  said,  "they  are
+gone  away  and  are  sitting  in  attendance  on  a  certain  ascetic."  The  king  in
+a  rage  seized  his  sword  and  went  ofi"  in  haste,  saying,  "I  will  give  this  false
+ascetic  a  lesson."  Then  those  of  the  women  that  were  most  in  favour,
+when  they  saw  the  king  coming  in  a  rage,  went  and  took  the  sword  from
+the  king's  hand  and  pacified  him.  Then  he  came  and  stood  by  the  Bodhi-
+satta and  asked,  "  What  doctrine  are  you  preaching.  Monk  1 "  "  The
+doctrine  of  patience.  Your  Majesty,"  he  replied.  "What  is  this  patience]"
+said  the  king.  "  The  not  being  angry,  when  men  abuse  you  and  strike
+you  and  revile  you."  Said  the  king,  "  I  will  see  now  the  reality  of  your
+patience,"  [41]  and  he  summoned  his  executioner.  And  he  in  the  way  of
+his  ofiice  took  an  axe  and  a  scourge  of  thorns,  and  clad  in  a  yellow  robe
+and  wearing  a  red  garland,  came  and  saluted  the  king  and  said,  "  What  is
+your  pleasure,  Sii'e  ]"  "Take  and  drag  ofi"  this  vile  rogue  of  an  ascetic,"
+said  the  king,  "  and  throwing  him  on  the  ground,  with  your  lash  of  thorns
+scourge  him  before  and  behind  and  on  both  sides,  and  give  him  two
+thousand  stripes."  This  was  done.  And  the  Bodhisatta's  outer  and
+inner  skins  were  cut  through  to  the  flesh,  and  the  blood  flowed.  The  king
+again  asked,  "What  doctrine  do  you  preach.  Monk?"  "The  doctrine  of
+patience.  Your  Highness,"  he  replied.  "  You  fancy  that  my  patience  is
+only  skin  deep.  It  is  not  skin  deep,  but  is  fixed  deep  within  my  heart,
+where  it  cannot  be  seen  by  you,  Sire."  Again  the  executioner  asked,
+"  What  is  your  pleasure,  Sire  1 "  The  king  said,  "  Cut  ofi"  both  the  hands
+of  this  false  ascetic."  So  he  took  his  axe,  and  placing  the  victim  within
+the  fatal  circle,  lie  cut  ofi"  both  his  hands.  Then  the  king  said,  "  Ofl"  with
+his  feet,"  and  his  feet  were  chopped  off'.  And  the  blood  flowed  from  the
+extremities  of  his  hands  and  feet  like  lac  juice  from  a  leaking  jar.  Again
+the  king  asked  what  doctrine  he  preached.  "The  doctrine  of  patience,
+Your  Highness,"  he  replied.  "  You  imagine,  Sire,  that  my  patience  dwells
+in  the  extremities  of  my  hands  and  feet.  It  is  not  there,  but  it  is  deep
+seated  somewhere  else."     The  king  said,  "Cut  off" his  nose  and  ears."     The
+
+
+28  The  Jataka.     Booh  IV.
+
+executioner  did  so.  His  whole  body  was  now  covered  with  blood.  Again
+the  king  asked  of  his  doctrine.  And  the  asetic  said,  "  Think  not  that  my
+patience  is  seated  in  the  tips  of  my  nose  and  ears :  my  patience  is  deep
+seated  within  my  heart."  The  king  said,  "Lie  down,  false  Monk,  and
+thence  exalt  your  patience."  And  so  saying,  he  struck  the  Bodhisatta
+above  the  heart  with  his  foot,  and  betook  himself  off.
+
+When  he  was  gone,  the  commander-in-chief  wiped  off  the  blood  from
+the  body  of  the  Bodhisatta,  [42]  putting  bandages'  on  the  extremities  of
+his  hands,  feet,  ears  and  nose,  and  then  having  gently  placed  him  on  a  seat,
+he  saluted  him  and  sitting  on  one  side  he  said,  "  If,  Reverend  Sir,  you
+would  be  angry  with  one  who  has  sinned  against  you,  be  angry  with  the
+king,  but  with  no  one  else."  And  making  this  request,  he  repeated  the
+first  stanza : —
+
+Whoso  cut  off  thy  nose  and  ear,  and  lopped  off  foot  and  hand,
+With  him  be  wroth,  heroic  soul,  but  spare,  we  pray,  this  land.
+
+The  Bodhisatta  on  hearing  this  uttered  the  second  stanza : —
+
+Long  live  the  king,  whose  cruel  hand  my  body  thus  has  marred,
+Pure  souls  like  mine  such  deeds  as  these  with  anger  ne'er  regard.
+
+And  just  as  the  king  was  leaving  the  garden  and  at  the  very  moment
+when  he  passed  out  of  the  range  of  the  Bodhisatta's  vision,  the  mighty
+earth  that  is  two  hundred  and  forty  thousand  leagues  in  thickness  sjilit  in
+two,  like  unto  a  strong  stout  cloth  garment,  and  a  flame  issuing  forth  from
+Avici  seized  upon  the  king,  wrapping  him  up  as  it  were  with  a  royal  robe
+of  scarlet  wool.  Thus  did  the  king  sink  into  the  earth  just  by  the  garden
+gate  and  was  firmly  fixed  in  the  great  Hell  of  Avici.  And  the  Bodhisatta
+died  on  that  same  day.  And  the  king's  servants  and  the  citizens  came
+with  perfumes  and  wreaths  and  incense  in  their  hands  and  performed  the
+Bodhisatta's  obsequies.  And  some  said  that  the  Bodhisatta  had  gone
+straight  back  to  the  Himalayas.  But  in  this  they  said  the  thing  that  was
+not.
+
+[43]  A  saint  of  old,  as  men  have  told,
+Great  courage  did  display  :
+That  saint  so  strong  to  suffer  wrong
+The  Kasi  king  did  slay.
+
+Alas  !  the  debt  of  vain  regret
+
+That  king  will  have  to  pay  ;
+When  doomed  to  dwell  in  lowest  Hell,
+
+Long  will  he  rue  the  day.
+
+These  two  stanzas  were  inspired  by  Perfect  Wisdom.
+
+
+1  Mahavagga,  vi.  14.  5.
+
+
+No.   313.  29
+
+The  Master,  his  lesson  ended,  revealed  the  Truths  and  identitied  the  Birth  : —
+At  the  conclusion  of  the  Truths  the  choleric  Brother  attained  fruition  of  the
+Second  Path,  while  many  others  attained  fruition  of  the  First  Path: — "At  that
+time  Devadatta  was  Kalabu  king  of  Kasi,  Sariputta  was  the  Commander-in-Chief,
+and  I  myself  was  the  Ascetic,  the  Preacher  of  Patience."
+
+
+No.  314.
+
+LOHAKUMBHI- JATAK  A '.
+
+"  Due  share  of  tcealih^^  etc. — This  story  the  Master,  while  living  at  Jetavana,
+told  concerning  a  king  of  Kosala.  The  king  of  Kosala  of  those  days,  they  say,
+one  night  heard  a  cry  uttered  by  four  inhabitants  of  Hell — the  syllables  du,
+sa,  na,  so,  one  from  each  of  the  four.  In  a  previous  existence,  tradition  says,  they
+had  been  princes  in  Savatthi,  and  had  been  guilty  of  adultery.  After  miscon-
+ducting themselves  with  their  neighbours'  wives,  however  carefully  guarded  they
+might  be,  and  indulging  their  amorous  propensities,  their  evil  life  had  been  cut
+short  by  the  Wheel  of  Death,  near  Savatthi.  They  came  to  life  again  in  Four
+Iron  Cauldrons.  After  being  tortured  for  sixty  thousand  years  they  had  come
+up  to  the  top,  and  on  seeing  the  edge  of  the  Cauldron's  mouth  they  thought  to
+themselves,  "  When  shall  we  escape  from  this  misery  1 "  And  then  all  four
+uttered  a  loud  cry,  one  after  another.  The  king  was  terrified  to  death  at  the
+noise,  and  sat  waiting  for  break  of  day,  imable  to  stir.
+
+At  dawn  the  brahmins  came  and  inquired  after  his  health.  The  king  replied,
+"  How,  my  Masters,  can  I  be  well,  [44]  who  to-day  have  heard  four  such  terrible
+cries."  The  brahmins  waved  their  hands-.  "What  is  it,  my  Masters?"  said
+the  king.  The  brahmins  assure  him  that  the  sounds  are  ominous  of  great
+violence.  "  Do  they  admit  of  remedy,  or  not  ? "  said  the  king.  "  You  might  say
+not,"  said  the  brahmins,  "  but  we  are  well-trained  in  these  matters.  Sire."
+"By  what  means,"  said  the  king,  "will  you  avert  these  evils?"  "Sire,"  they
+replied,  "  there  is  one  great  remedy  in  our  power,  and  by  offering  the  fourfold
+sacrifice  3  of  every  living  creature  we  will  avert  all  evil."  "Then  be  quick,"  said
+the  king,  "  and  take  all  living  creatures  by  fours — men,  bulls,  horses,  elephants,
+down  to  quails  and  other  birds — and  by  this  fourfold  sacrifice  restore  my  peace
+of  mind."  The  brahmins  consented,  and  taking  whatever  they  required,  they
+dug  a  sacrificial  pit  and  fastened  their  numerous  victims  to  their  stakes,  and
+were  highly  excited  at  the  thought  of  the  dainties  they  were  to  eat,  and  the
+wealth  they  would  gain,  and  went  about  backwards  and  forwards,  saying,  "  Sir,  I
+must  have  so  and  so."
+
+The  queen  Mallika  came  and  asked  the  king,  why  the  brahmins  went  about'
+so  delighted  and  smiling.  The  king  said,  "  My  queen,  what  have  you  to  do  with
+this  ?  You  are  intoxicated  with  your  own  glory,  and  you  do  not  know  how
+wretched  I  am."  "How  so.  Sire?"  she  replied.  "I  have  heard  such  awful
+noises,  my  queen,  and  when  1  asked  the  brahmins  what  would  be  the  result  of
+
+1  Compare  Buddhaghosha's  Parables,  No.  15  :  "Story  of  the  Four  Thuthe's  Sons."
+King  Pasenadikosala  in  this  story  was  meditating  the  sin  of  David  against  Uriah  the
+Hittite,  and  was  deterred  from  his  purpose  by  the  awful  vision  related  in  this  Jataka.
+See  also  Tumour's  MaMwanso,  i.  iv.  18.  A  king  in  a  dream  sees  his  soul  cast  into
+the  Lohakumbhi  Hell.
+
+2  Possibly  to  avert  the  evil  omen.
+2  See  Colebrooke's  Essays,  i.  348.
+
+
+30  The  Jataka.     Booh  IV.
+
+my  hearing  these  cries,  they  told  me  I  was  threatened  with  danger  to  my  king-
+dom or  my  property  or  my  life,  but  by  offering  the  fourfold  sacrifice  they  would
+restore  my  peace  of  mind,  and  now  in  obedience  to  my  command,  they  have  dug
+a  sacrificial  pit  and  are  gone  to  fetch  whatever  victims  they  require."  The  queen
+said,  "  Have  you,  my  lord,  consulted  the  chief  brahmin  in  the  Deva-world  as  to
+the  origin  of  these  cries?"  "Who,  lady,"  said  the  king,  "is  the  chief  brahmin
+in  the  Deva-world  ? "  "  The  Great  Gotama,"  she  replied,  "  the  Supreme  Buddha.'
+"  Lady,"  he  said,  "  I  have  not  consulted  the  Supreme  Buddha."  "  Then  go,"  she
+answered,  "  and  consult  him."
+
+The  king  hearkened  to  the  words  of  the  queen  and  after  his  morning  meal  he
+mounted  his  state  chariot  and  drove  to  Jetavana.  Here  after  saluting  the  Master
+he  thus  addressed  him  :  "  Reverend  Sir,  in  the  night  season  I  heard  four  cries
+and  consulted  the  brahmins  about  it.  [45]  They  undertook  to  restore  my  peace
+of  mind,  by  the  fourfold  sacrifice  of  every  kind  of  victim,  and  are  now  busy
+preparing  a  sacrificial  pit.  What  does  the  hearing  of  these  cries  betoken
+to  me?"
+
+"  Nothing  whatever,"  said  the  Master.  "  Certain  beings  in  Hell,  owing  to
+the  agony  they  suffer,  cried  aloud.  These  cries,"  he  added,  "have  not  been
+heard  by  you  alone.  Kings  of  old  heard  the  same.  And  when  they  too,  after
+consulting  their  brahmins,  were  anxious  to  offer  sacrifices  of  slain  victims,  on
+hearing  what  wise  men  had  to  say,  they  refused  to  do  so.  The  wise  men
+explained  to  them  the  nature  of  these  cries,  and  bade  them  let  loose  the  crowd  of
+victims  and  thus  restored  their  peace  of  mind."  And  at  the  request  of  the  king
+he  told  a  story  of  bygone  days.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family,  in  a  certain  village  of  Kasi.
+And  when  he  was  of  mature  years,  renouncing  the  pleasures  of  sense  and
+embracing  the  ascetic  life  he  developed  the  supernatural  powers  of  mystic
+meditation,  and  enjoying  the  delights  of  Contemplation  took  up  his  abode
+in  a  pleasant  grove  in  the  Himalaya  country.
+
+The  king  of  Benares  at  this  time  was  fearfully  alarmed  by  hearing
+those  four  sounds  uttered  by  four  beings  who  dwelt  in  Hell.  And  when
+told  by  brahmins  in  exactly  the  same  way  that  one  of  three  dangers  must
+befall  him,  he  agreed  to  their  proposal  to  put  a  stop  to  it  by  the  fourfold
+sacrifice.  The  family  priest  with  the  help  of  the  brahmins  provided  a
+sacrificial  pit,  and  a  great  crowd  of  victims  was  brought  up  and  fastened
+to  the  stakes.  Then  the  Bodhisatta,  guided  by  a  feeling  of  charity,
+regarding  the  world  with  his  divine  eye,  when  he  saw  what  was  going  on,
+said,  "  I  must  go  at  once  and  see  to  the  well-being  of  all  these  creatures."
+And  then  by  his  magic  power  flying  up  into  the  air,  he  alighted  in  the
+garden  of  the  king  of  Benares,  and  sat  down  on  the  royal  slab  of  stone,
+looking  like  an  image  of  gold.  The  chief  disciple  of  the  family  priest
+approached  his  teacher  and  asked,  **  Is  it  not  written,  Master,  in  our
+Vedas  that  there  is  no  happiness  for  those  who  take  the  life  of  any
+creature?"  The  priest  replied,  "You  are  to  bring  here  the  king's  pi'operty,
+and  we  shall  have  abundant  dainties  to  eat.  Only  hold  your  peace."  And
+with  these  words  he  drove  his  pupil  away.     [46]   But  the  youth  thought,
+
+
+No.  314.  31
+
+"  I  will  have  no  part  in  this  matter,"  and  went  and  found  the  Bodhisatta
+in  the  king's  garden.  After  saluting  him  in  a  friendly  manner  he  took  a
+seat  at  a  respectful  distance.  The  Bodhisatta  asked  him  saying,  "Young
+man,  does  the  king  rule  his  kingdom  righteously?"  "Yes,  Reverend  Sir,
+he  does,"  answered  the  youth,  "  but  he  has  heard  four  cries  in  the  night,
+and  on  inquiring  of  the  brahmins,  he  has  been  assured  by  them  that  they
+would  restore  his  peace  of  mind,  by  offering  up  the  fourfold  sacrifice.  So
+the  king,  being  anxious  to  recover  his  happiness,  is  preparing  a  sacrifice  of
+animals,  and  a  vast  number  of  victims  has  been  brought  up  and  fastened
+to  the  sacrificial  stakes.  Now  is  it  not  right  for  holy  men  like  yourself  to
+explain  the  cause  of  these  noises,  and  to  rescue  these  numerous  victims
+from  the  jaws  of  death  1"  "Young  man,"  he  replied,  "the  king  does  not
+know  us,  nor  do  we  know  the  king,  but  we  do  know  the  origin  of  these
+cries,  and  if  the  king  were  to  come  and  ask  us  the  cause,  we  would  resolve
+his  doubts  for  him."  "  Then,"  said  the  youth,  "just  stay  liere  a  moment,
+Reverend  Sir,  and  I  will  conduct  the  king  to  you."
+
+The  Bodhisatta  agreed,  and  the  youth  went  and  told  the  king  all  about
+it,  and  brought  him  back  with  him.  The  king  saluted  the  Bodhisatta  and
+sitting  on  one  side  asked  him  if  it  were  true  that  he  knew  the  origin  of
+these  noises.  "Yes,  Your  Majesty,"  he  said.  "Then  tell  me,  Reverend
+Sir."  "  Sire,"  he  answered,  "  these  men  in  a  former  existence  were  guilty
+of  gross  misconduct  with  the  carefully  guarded  wives  of  their  neighbours
+near  Benares,  and  therefore  were  re-born  in  Four  Iron  Cauldrons.  Where
+after  being  tortured  for  thirty  thousand  years  in  a  thick  corrosive  liquid
+heated  to  boiliug  point,  they  would  at  one  time  sink  till  they  struck  the
+bottom  of  the  cauldron,  and  at  another  time  rise  to  the  top  like  a  foam
+bubble',  but  after  those  years  they  found  the  mouth  of  the  cauldron,  and
+looking  over  the  edge  they  all  four  desired  to  give  utterance  to  four  com-
+plete stanzas,  but  failed  to  do  so.  And  after  getting  out  just  one  syllable
+each,  they  sank  again  in  the  iron  cauldrons.  [47]  Now  the  one  of
+them  that  sank  after  uttering  the  syllable  '  du '  was  anxious  to  speak  as
+follows:  —
+
+Due  share  of  wealth  we  gave  not ;   an  evil  life  we  led :
+We  found  no  sure  salvation  in  joys  that  now  are  fled.
+
+And  when  he  failed  to  utter  it,  the  Bodhisatta  of  his  own  knowledge
+repeated  the  complete  stanza.  And  similarly  with  the  i-est.  The  one  that
+uttered  merely  the  syllable  '  sa '  wanted  to  repeat  the  following  stanza  : —
+
+Sad  fate  of  those  that  suffer  !  ah  !   when  shall  come  release  ?
+Still  after  countless  aeons,  Hell's  tortures  never  cease.
+
+
+1  See  Milindapahha,  357.
+
+
+32  The  Jdtaka.     Book  IV.
+
+And  again  in  the  case  of  the  one  that  uttered  the  syllable  ^  na,'  this
+was  the  stanza  he  wished  to  repeat : —
+
+Nay  endless  are  the  sufferings  to  which  we're  doomed  by  fate ;
+The  ills  we  wrought  upon  the  earth  'tis  ours  to  expiate.
+
+And  the  one  that  uttered  the  syllable  'so'  was  anxious  to  repeat  the
+following : —
+
+/S'oon  shall  I  passing  forth  from  hence,  attain  to  human  birth,
+And  richly  dowered  with  virtue  rise  to  many  a  deed  of  worth.
+
+[48]  The  Bodhisatta,  after  reciting  these  verses  one  by  one,  said,  "  The
+dweller  in  Hell,  Sire,  when  he  wanted  to  utter  a  complete  stanza,  through
+the  greatness  of  his  sin,  was  unable  to  do  it.  And  when  he  thus  ex-
+perienced the  result  of  his  wrong-doing  he  cried  aloud.  But  fear  not ;  no
+danger  shall  come  nigh  you,  in  consequence  of  hearing  this  cry."  Thus
+did  he  reassure  the  king.  And  the  king  proclaimed  by  beat  of  his  golden
+drum  that  the  vast  host  of  victims  was  to  be  released,  and  the  sacrificial
+pit  destroyed.  And  the  Bodhisatta,  after  thus  providing  for  the  safety  of
+the  numerous  victims,  stayed  there  a  few  days,  and  then  returning  to  the
+same  place,  without  any  break  in  his  ecstasy,  was  born  in  the  world  of
+Brahma.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth :   "  Sariputta  at
+that  time  was  the  young  priest,  I  myself  was  the  ascetic."
+
+
+No.  315.
+
+
+MAMSA-JATAKA'.
+
+''For  one  who  is  asking,"  etc. — This  was  a  story  told  by  the  Master,  while
+living  at  Jetavana,  as  to  how  the  Elder  Sariputta  procm'ed  dainty  fare  for  some
+sick  Brothers  under  medical  treatment.  The  story  goes  that  certain  of  the
+Brethren  at  that  time  at  Jetavana,  after  taking  oil  as  a  purgative,  wished  for
+some  dainty  food.  Those  who  ministered  to  them  in  their  sickness  went  into
+Savatthi  to  fetch  some  dainties,  but  after  going  their  round  for  alms  in  a  street
+in  the  Cooks'  quarters,  had  to  come  back  without  getting  what  they  wanted.
+Later  on  in  the  day  the  Elder  was  going  into  the  town  for  alms  and  meeting
+these  Brethren  asked  them  why  they  had  returned  so  soon.      They  told  him
+
+^  See  R.  Morris,  Folklore  Journal,  iii.  242.
+
+
+No.  315.  33
+
+what  had  happened.  "  Come  then  with  me,"  said  the  Elder,  [49]  and  took  them
+to  the  very  same  street.  And  the  people  there  gave  him  a  full  measure  of  dainty
+fare.  The  attendants  brought  the  food  to  the  sick  Brethren,  and  they  partook
+of  it.  So  one  day  a  discussion  was  started  in  the  Hall  of  Truth  how  that  when
+some  servants  were  leaving  a  town,  without  being  able  to  get  dainty  fare  for
+their  sick  masters,  the  Elder  took  them  with  him  on  his  round  for  alms  in  a
+street  in  the  Cooks'  quarters,  and  sent  them  home  with  abundant  dainties.  The
+Master  came  up  and  inquired  the  nature  of  their  discussion,  and  on  being  told
+what  it  was  he  said,  "  Not  now  only.  Brethren,  did  Sariputta  alone  obtain  food.
+Formerly  also  wise  men  who  had  a  soft  voice  and  knew  how  to  speak  pleasantly
+obtained  the  same."     And  then  he  told  a  tale  of  the  olden  time.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  was  born  as  the  son  of  a  wealthy  merchant.
+
+Now  one  day  a  certain  deer-stalker  had  taken  venison,  and  filling  his
+cart  with  the  meat,  returned  to  the  city  with  the  intention  of  selling  it.
+At  this  time  four  sons  of  rich  merchants  who  were  living  in  Benares
+sallied  out  of  the  city,  and  meeting  at  some  cross  roads  they  sat  down  and
+conversed  with  one  another  about  whatever  they  had  seen  or  heard.  One
+of  these  youths  on  seeing  the  cart  full  of  meat  proposed  to  go  and  get  a
+piece  of  venison  from  the  hunter.  The  others  bade  him  go  and  try.  So
+he  went  up  to  the  hunter,  and  said,  "Hi,  Sirrah,  give  me  a  piece  of
+meat."  The  hunter  replied,  "  A  man  who  begs  somewhat  from  another
+ought  to  speak  with  a  gentle  voice :  you  shall  receive  a  piece  of  meat
+appropriate  to  your  manner  of  speech,"  Then  he  uttered  the  first
+stanza  : — ■
+
+For  one  who  is  asking  a  favour,  my  friend,  thy  language  is  coarse  in  its  tone.
+Such  language  deserves  coarse  fare  in  return,  so  I  oflfer  thee  mere  skin  and  bone.
+
+Then  one  of  his  companions  asked  him  what  language  he  had  used  in
+begging  for  a  piece  of  meat,  "  I  said,  Hi,  Sirrah  ! "  he  replied,  "  I  too,"
+said  the  other,  "will  beg  of  him."  [50]  Then  he  went  to  the  hunter  and
+said,  "  O  elder  brother,  give  me  a  piece  of  venison."  The  hunter  answered,
+"  You  shall  receive  such  a  piece  as  the  words  you  have  spoken  deserve,"
+and  he  repeated  the  second  stanza  : —
+
+The  name  of  a  brother  a  strong  link  is  found,  to  join  those  akin  to  each  other.
+As  thy  kind  words  suggest  the  gift  I  should  make,  so  a  joint  I  present  to  my
+
+brother.
+
+And  with  these  words  he  took  up  and  threw  him  a  joint  of  venison.
+Then  a  third  youth  inquired  with  what  words  the  last  had  begged  for  the
+meat.  "I  addressed  him  as  brother,"  he  replied.  "Then  I  too  will  beg
+of  him,"  he  said.  So  he  went  to  the  hunter  and  cried,  "Dear  father,
+give  me  a  piece  of  venison."  The  hunter  replied,  "  You  shall  receive  a
+J.  Ill,  3
+
+
+34  The  Jatcika.     Booh  IV.
+
+piece  suitable  to  the  words  you  have  spoken,"  and  he  I'epeated  the  third
+stanza : —
+
+As  a  parent's  fond  heart  to  pity  is  moved,  the  cry  of  "  Dear  father  "  to  hear.
+So  I  too  respond  to  thy  loving  appeal,  and  give  thee  the  heart  of  the  deer.
+
+And  with  these  w^ords  he  picked  up  and  gave  him  a  savoury  piece  of
+meat,  heart  and  all.  Then  the  fourth  of  the  youths  asked  the  third  youth,
+with  what  words  he  had  asked  for  the  venison.  "  Oh  I  called  him  '  Dear
+father,'"  he  answered.  "Then  I  too  will  beg  a  piece,"  said  the  other,
+and  he  went  to  the  hunter  and  said,  "  My  friend,  give  me  a  piece  of  meat."
+Said  the  hunter,  "  According  to  the  words  you  have  spoken,  shall  you
+receive."     And  he  repeated  the  fourth  stanza  : —
+
+A  world  without  friends,  I  venture  to  think,  a  wilderness  surely  must  be.
+
+In  that  title  of  friend  all  that's  dear  is  implied,  so  I  give  all  the  deer  unto  thee.
+
+Moreover  he  said,  "  Come,  friend,  I  will  convey  all  this  cartful  of  meat
+to  your  house."  [51]  So  this  merchant's  son  had  the  cart  driven  to  his
+house,  and  he  went  and  unloaded  the  meat.  And  he  treated  the  hunter
+with  great  hospitality  and  respect,  and  sending  for  his  wife  and  son  he
+took  him  away  from  his  cruel  occupation,  and  settled  him  on  his  own
+estate.  And  they  became  insepai*able  friends,  and  all  their  life  long  lived
+amicably  together.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth :  "  At  that  time
+Sariputta  was  the  Hunter,  and  I  myself  was  the  Merchant's  Son  who  had  all  the
+venison  given  to  him."
+
+
+No.  316.
+
+SASA- J  ATARAX
+
+'^ Seven  red  fish"  etc. — This  story  was  told  by  the  Master  while  living  at
+Jetavana,  about  a  gift  of  all  the  Buddhist  requisites.  A  certain  landowner  at
+Savatthi,  they  say,  provided  all  the  requisites  for  the  Brotherhood  with  Buddha
+at  its  head,  and  setting  up  a  pavilion  at  his  house  door,  he  invited  all  the
+
+1  See  R.  Morris,  Folk-Lore  Journal,  ii.  336  and  370.  Jdtakamdld,  No.  6.  On  the
+wide-spread  prevalence  of  the  legend  of  the  Hare  in  the  Moon,  see  T.  Harley's
+Moon-Lore,  p.  60.
+
+
+No.  316.  35
+
+company  of  priests  with  their  chief  Buddha,  seated  them  on  elegant  seats  pre-
+pared for  them,  and  offered  them  a  variety  of  choice  and  dainty  food.  And
+saying,  "  Come  again  to-morrow,"  he  entertained  them  for  a  whole  week,  and  on
+the  seventh  day  he  presented  Buddha  and  the  five  hundred  priests  under  him
+with  all  the  requisites.  At  the  end  of  the  feast  the  Master,  in  returning  thanks,
+said,  "Lay  Brother,  you  are  right  in  giving  pleasure  and  satisfaction  by  this
+charity.  For  this  is  a  tradition  of  wise  men  of  old,  who  sacrificed  their  lives  for
+any  beggars  they  met  with,  and  gave  them  even  their  own  flesh  to  eat."  And  at
+the  request  of  his  host  he  related  this  old-world  legend.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  a  young  hare  and  lived  in  a  wood.  On  one
+side  of  this  wood  was  the  foot  of  a  mountain,  on  another  side  a  river,  and
+on  the  third  side  a  border-village.  The  hare  had  three  friends — a  monkey,
+a  jackal  and  an  otter.  These  four  wise  creatures  lived  together  [52]  and
+each  of  them  got  his  food  on  his  own  hunting-ground,  and  in  the  evening
+they  again  came  together.  The  hare  in  his  wisdom  by  way  of  admonition
+preached  the  Truth  to  his  three  companions,  teaching  that  alms  are  to  be
+given,  the  moral  law  to  be  observed,  and  holy  days  to  be  kept.  They
+accepted  his  admonition  and  went  each  to  his  own  part  of  the  jungle  and
+dwelt  there.
+
+And  so  in  the  course  of  time  the  Bodhisatta  one  day  observing  t^e  sky,
+and  looking  at  the  moon  knew  that  the  next  day  would  be  a  fast-day,  and
+addressing  his  three  companions  he  said,  "To-morrow  is  a  fast-day.  Let
+all  three  of  you  take  upon  yovi  the  moral  precepts,  and  observe  the  holy
+day.  To  one  that  stands  fast  in  moral  practice,  almsgiving  brings  a  great
+reward.  Therefore  feed  any  beggars  that  come  to  you  by  giving  them
+food  from  your  own  table."  They  readily  assented,  and  abode  each  in  his
+own  place  of  dwelling.
+
+On  the  morrow  quite  early  in  the  morning,  the  otter  sallied  forth  to
+seek  his  prey  and  went  down  to  the  bank  of  the  Ganges.  Now  it  came  to
+pass  that  a  fisherman  had  landed  seven  red  fish,  and  stringing  them  together
+on  a  withe,  he  had  taken  and  buried  thera  in  the  sand  on  the  river's  bank.
+And  then  he  dropped  down  the  stream,  catching  more  fish.  The  otter
+scenting  the  buried  fish,  dug  up  the  sand  till  he  came  upon  them,  and
+pulling  them  out  cried  aloud  thrice,  "  Does  any  one  own  these  fish  1 "
+And  not  seeing  any  owner  he  took  hold  of  the  withe  with  his  teeth  and
+laid  the  fish  in  the  jungle  where  he  dwelt,  intending  to  eat  them  at  a
+fitting  time.  And  then  he  lay  down,  thinking  how  virtuous  he  was !
+The  jackal  too  sallied  forth  in  quest  of  food  and  found  in  the  hut  of  a
+field- watcher  two  spits,  a  lizard  and  a  pot  of  milk-curd.  And  after  thrice
+crying  aloud,  "To  whom  do  these  belong]"  and  not  finding  an  owner,  he
+put  on  his  neck  the  rope  for  lifting  the  pot,  and  grasping  the  spits  and  the
+
+3—2
+
+
+36  The  Jdtaha.     Booh  IV.
+
+lizard  with  his  teeth,  he  brought  and  laid  them  in  his  own  lair,  thinking,
+"In  due  season  I  will  devour  them,"  and  so  lay  down,  [53]  reflecting  how
+virtuous  he  had  been.
+
+The  monkey  also  entered  the  clump  of  trees,  and  gathering  a  bunch  of
+mangoes  laid  them  up  in  his  part  of  the  jungle,  meaning  to  eat  them  in
+due  season,  and  then  lay  down,  thinking  how  virtuous  he  was.  But  the
+Bodhisatta  in  due  time  came  out,  intending  to  browse  on  the  kuqa  grass,
+and  as  he  lay  in  the  jungle,  the  thought  occurred  to  him,  "  It  is  impossible
+for  me  to  offer  grass  to  any  beggars  that  may  chance  to  appear,  and  I  have
+no  oil  or  rice  and  such  like.  If  any  beggar  shall  appeal  to  me,  I  shall
+have  to  give  him  my  own  flesh  to  eat."  At  this  splendid  display  of  virtue,
+Sakka's  white  marble  throne  manifested  signs  of  heat.  Sakka  on  reflection
+discovered  the  cause  and  resolved  to  put  this  royal  hare  to  the  test.  First
+of  all  he  went  and  stood  by  the  otter's  dwelling-place,  disguised  as  a
+brahmin,  and  being  asked  why  he  stood  there,  he  replied,  "  Wise  Sir,  if  I
+could  get  something  to  eat,  after  keeping  the  fast,  I  would  perform  all  my
+priestly  duties."  The  otter  replied,  "Very  well,  I  will  give  you  some  food,"
+and  as  he  conversed  with  him  he  repeated  the  first  stanza : —
+
+Seven  red  fish  I  safely  brought  to  land  from  Ganges  flood,
+O  brahmin,  eat  thy  fill,  I  pray,  and  stay  within  this  wood.
+
+The  brahmin  said,  "  Let  be  till  to-morrow.  I  will  see  to  it  by  and
+bye."  Next  he  went  to  the  jackal,  and  when  asked  by  him  why  he  stood
+there,  he  made  the  same  answer.  The  jackal,  too,  readily  promised  him
+some  food,  and  in  talking  with  him  repeated  the  second  stanza  : —
+
+[54]  A  lizard  and  a  jar  of  curds,  the  keeper's  evening  meal.
+Two  spits  to  roast  the  flesh  withal  I  wrongfully  did  steal :
+Such  as  I  have  I  give  to  thee :  0  brahmin,  eat,  I  pray.
+If  thou  shouldst  deign  within  this  wood  a  while  with  us  to  stay.
+
+Said  the  brahmin,  "  Let  be  till  to-morrow.  I  will  see  to  it  by  and
+bye."  Then  he  went  to  the  monkey,  and  when  asked  what  he  meant  by
+standing  there,  he  answered  just  as  before.  The  monkey  readily  offered
+him  some  food,  and  in  conversing  with  him  gave  utterance  to  the  third
+stanza : —
+
+An  icy  stream,  a  mango  ripe,  and  pleasant  greenwood  shade,
+'Tis  thine  to  enjoy,  if  thou  canst  dwell  content  in  forest  glade.
+
+Said  the  brahmin,  "  Let  be  till  to-morrow.  I  will  see  to  it  by  and
+bye."  And  he  went  to  the  wise  hare,  and  on  being  asked  by  him  why  he
+stood  there,  he  made  the  same  reply.  The  Bodhisatta  on  hearing  what  he
+wanted  was  highly  delighted,  and  said,  "  Brahmin,  you  have  done  well  in
+coming  to  me  for  food.  This  day  will  I  grant  you  a  boon  that  I  have
+never  gi-anted  before,  but  you  shall  not  break  the  moral  law  by  taking
+
+
+No.   316.  37
+
+animal  life.  Go,  friend,  and  when  you  have  piled  together  logs  of  wood,
+and  kindled  a  fire,  come  and  let  me  know,  [55]  and  I  will  sacrifice  myself
+by  falling  into  the  midst  of  the  flames,  and  when  my  body  is  roasted,  you
+shall  eat  my  flesh  and  fulfil  all  your  priestly  duties."  And  in  thus
+addressing  him  the  hare  uttered  the  fourth  stanza  : —
+
+Nor  sesame,  nor  beans,  nor  rice  have  I  as  food  to  give,
+
+But  roast  with  fire  my  flesh  I  yield,  if  thou  with  us  wouldst  live.
+
+Sakka,  on  heai'ing  what  he  said,  by  his  miraculous  power  caused  a  heap
+of  burning  coals  to  appear,  and  came  and  told  the  Bodhisatta.  Rising
+from  his  bed  of  kuga  grass  and  coming  to  the  place,  he  thrice  shook  him-
+self that  if  there  were  any  insects  within  his  coat,  they  might  escape  death.
+Then  oflfering  his  whole  body  as  a  free  gift  he  sprang  up,  and  like  a  royal
+swan,  alighting  on  a  cluster  of  lotuses,  in  an  ecstasy  of  joy  he  fell  on  the
+heap  of  live  coals.  But  the  flame  failed  even  to  heat  the  pores  of  the  hair
+on  the  body  of  the  Bodhisatta,  and  it  was  as  if  he  had  entered  a  region  of
+frost.  Then  he  addressed  Sakka  in  these  words  :  "  Brahmin,  the  fire  you
+have  kindled  is  icy-cold  :  it  fails  to  heat  even  the  pores  of  the  hair  on  my
+body.  What  is  the  meaning  of  this  1 "  "  Wise  sir,"  he  replied,  "  I  am  no
+brahmin.  I  am  Sakka,  and  I  have  come  to  put  your  virtue  to  the  test."
+The  Bodhisatta  said,  "  If  not  only  thou,  Sakka,  but  all  the  inhabitants
+of  the  world  were  to  try  me  in  this  matter  of  almsgiving,  they  would  not
+find  in  me  any  unwillingness  to  give,"  and  with  this  the  Bodhisatta
+uttered  a  cry  of  exultation  like  a  lion  roaring.  Then  said  Sakka  to  the
+Bodhisatta,  "0  wise  hare,  be  thy  virtue  known  throughout  a  whole  seen."
+And  squeezing  the  mountain,  with  the  essence  thus  extracted,  he  daubed
+the  sign  of  a  hare  on  the  orb  of  the  moon.  And  after  depositing  the
+hare  on  a  bed  of  young  ku9a  grass,  in  the  same  wooded  part  of  the  jungle,
+Sakka  returned  to  his  own  place  in  heaven.  [56]  And  these  four  wise
+creatures  dwelt  happily  and  harmoniously  together,  fulfilling  the  moral
+law  and  observing  holy  days,  till  they  departed  to  fare  according  to  their
+deeds.
+
+
+The  Master,  when  he  had  ended  his  lesson,  revealed  the  Truths  and  identified
+the  Birth : — At  the  conclusion  of  the  Truths  the  householder,  who  gave  as  a  free-
+gift  all  the  Buddhist  requisites,  attained  fruition  of  the  First  Path : — "  At  that
+time  Ananda  was  the  otter,  Moggallana  was  the  jackal,  Sariputta  the  monkey,
+and  I  myself  was  the  wise  hare."
+
+
+38  The  Jdtaka.     Book  IV.
+
+
+No.  317.
+
+
+MATARODANA-JATAKA.
+
+"  Weep  for  the  living"  etc. — The  Master  while  in  residence  at  Jetavana  told
+this  story  of  a  certain  landowner  who  dwelt  at  Savatthi.
+
+On  the  death  of  his  brother,  it  is  said,  he  was  so  overwhelmed  with  grief  that
+he  neither  ate  nor  washed  nor  anointed  himself,  but  in  deep  affliction  he  used  to
+go  to  the  cemetery  at  daybreak  to  weep.  The  Master,  early  in  the  morning
+casting  his  eye  upon  the  world  and  observing  in  that  man  a  capacity  for  attaining
+to  the  fruition  of  the  First  Path,  thought,  "  There  is  no  one  but  myself  that  can,
+by  telling  him  what  happened  long  ago,  assuage  his  grief  and  bring  him  to  the
+fruition  of  the  First  Path.  I  must  be  his  Refuge."  So  next  day  on  returning  in
+the  afternoon  from  his  round  of  alms-begging,  he  took  a  jvmior  priest  and  went
+to  his  house.  On  heai-ing  of  the  Master's  arrival,  the  landowner  ordered  a  seat
+to  be  prepared  and  bade  him  enter,  and  saluting  him  he  sat  on  one  side.  In
+answer  to  the  IMaster,  who  asked  him  why  he  was  grieving,  he  said  he  had  been
+sorrowing  ever  since  his  brother's  death.  Said  the  Master,  "  All  compound
+existences  are  impermanent,  and  what  is  to  be  broken  is  broken.  One  ought
+not  to  make  a  trouble  of  this.  Wise  men  of  old,  from  knowing  this,  did  not
+grieve,  when  their  brother  died."  And  at  his  request  the  Master  related  this
+legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  reborn  in  the  family  of  a  rich  merchant,  worth  eighty  crores.
+When  he  was  come  of  age,  his  parents  died.  And  on  their  death  a  brother
+of  the  Bodhisatta  managed  the  family  estate.  [57]  And  the  Bodhisatta
+lived  in  dependence  on  him.  By  and  bye  the  brother  also  died  of  a  fatal
+disease.  His  relations,  friends  and  companions  came  together,  and  throw-
+ing up  their  arms  wept  and  lamented,  and  no  one  was  able  to  control  his
+feelings.  But  the  Bodhisatta  neither  lamented  nor  wept.  Men  said,
+"  See  now,  though  his  brother  is  dead,  he  does  not  so  much  as  pull  a  wry
+face  :  he  is  a  very  hard-hearted  fellow.  Methinks  he  desired  his  brother's
+death,  hoping  to  enjoy  a  double  portion."  Thus  did  they  blame  the
+Bodhisatta,  His  kinsfolk  too  reproved  him,  saying,  "  Though  your
+brother  is  dead,  you  do  not  shed  a  tear."  On  hearing  their  words  he
+said  :  "  In  your  blind  folly,  not  knowing  the  Eight  Worldly  Conditions,
+you  weep  and  cry,  '  Alas  !  my  brother  is  dead,'  but  I  too,  and  you  also,
+will  have  to  die.  Why  then  do  you  not  weep  at  the  thought  of  your  own
+death?  AH  existing  things  are  transient,  and  consequently  no  single
+compound  is  able  to  remain  in  its  natural  condition.  Though  you,  blind
+fools,  in  your  state  of  ignorance,  from  not  knowing  the  Eight  Worldly
+
+
+No.  317.  39
+
+Conditions,  weep  and  lament,  why  should  I  weep  1 "     And  so  saying,  he
+repeated  these  stanzas  : —
+
+Weep  for  the  living  rather  than  the  dead!
+All  creatures  that  a  mortal  form  do  take,
+Four-footed  beast  and  bird  and  hooded  snake.
+
+Yea  men  and  angels  all  the  same  path  tread.
+
+Powerless  to  cope  with  fate,  rejoiced  to  die,
+Midst  sad  vicissitude  of  bliss  and  pain.
+Why  shedding  idle  tears  should  man  complain,
+
+And  plunged  in  sorrow  for  a  brother  sigh?
+
+Men  versed  in  fraud  and  in  excess  grown  old,
+The  untutored  fool,  e'en  valiant  men  of  might.
+If  worldly-wise  and  ignorant  of  right.
+
+Wisdom  itself  as  foolishness  may  hold.
+
+[58]  Thus  did  the  Bodhisatta  teach  these  men  the  Truth,  and  delivered
+them  all  from  their  sorrow.
+
+
+The  Master,  after  he  had  ended  his  religious  exposition,  revealed  the  Truths
+and  identified  the  Birth  : — At  tlie  conclusion  of  the  Truths  the  landowner  attained
+to  fruition  of  the  First  Path :— "At  that  time  the  wise  man  who  by  his  religious
+exposition  delivered  people  from  their  sorrow  was  I  myself."
+
+
+No.  318.
+
+
+KANAVERA-JATAKA.
+
+
+"  'Twas  the  joyous  twie,"  etc. — This  was  a  story  told  by  the  Master  at  Jetavana,
+about  a  Brother  who  was  tempted  by  thovights  of  the  wife  he  had  left. — The
+circumstances  that  led  up  to  the  story  will  be  set  forth  in  the  Indriya  Birth  i. —
+The  Master,  addressing  this  Brother,  said,  "  Once  before,  through  her,  you  had
+your  head  cut  oft'."    And  then  he  related  a  legend  of  the  past.
+
+
+[59]  Once  upon  a  time  when  Brahraadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  village  of  Kasi  in  the  home  of  a  certain  house-
+holder, under  the  star  of  a  robber.     When  he  grew  up  to  be  a  man,  he
+
+
+1  No.  423.
+
+
+40  The  Jdtaka.     Book  IV.
+
+gained  his  living  by  robbery,  and  his  fame  was  blazed  abroad  in  the  world,
+as  a  bold  fellow  and  as  strong  as  an  elephant.  And  no  man  could  catch
+him.  One  day  he  broke  into  a  rich  merchant's  house  and  carried  off  much
+treasure.  The  townsfolk  came  to  the  king  and  said,  "  Sire,  a  mighty
+robber  is  plundering  the  city :  have  him  arrested."  The  king  ordered  the
+governor  of  the  city  to  seize  him.  So  in  the  night  the  governor  posted
+men  here  and  there  in  detachments,  and  having  effected  his  capture  with
+the  money  upon  him,  he  reported  it  to  the  king.  The  king  bade  the
+governor  cut  off  his  head.  Then  the  governor  had  his  arms  tightly  bound
+behind  him,  and  having  tied  a  wreath  of  red  kanavera  flowers  about  his
+neck  and  sprinkled  brickdust  on  his  head,  had  him  scourged  with  whips  in
+every  square,  and  then  led  to  the  place  of  execution  to  the  music  of  the
+harsh-sounding  drum.  Men  said,  "This  rapacious  robber  who  loots  our
+city  is  taken,"  and  the  whole  city  was  greatly  moved.
+
+At  this  time  there  lived  in  Benares  a  courtezan  named  Sama,  whose
+price  was  a  thousand  pieces  of  money.  She  was  a  favourite  of  the  king's,
+and  had  a  suite  of  five  hundred  female  slaves.  And  as  she  stood  at  an
+open  window  on  the  upper  floor  of  the  palace,  she  saw  this  robber  being
+led  along.  Now  he  was  comely  and  gracious  to  look  upon,  and  stood
+forth  above  all  men,  exceedingly  glorious  and  god-like  in  appearance.
+And  when  she  saw  him  being  thus  led  past,  she  fell  in  love  with  him  and
+thought  within  herself,  "  By  what  device  can  I  secure  this  man  for  my
+husband  1 "  "  This  is  the  way,"  she  said,  and  sent  by  the  hand  of  one  of
+her  female  attendants  a  thousand  pieces  of  money  to  the  governor,  and
+*'  Tell  him,"  she  said,  "  this  robber  is  Sama's  brother,  and  he  has  no  other
+refuge  except  in  Sama.  And  ask  him  to  accept  the  money  and  let  his
+prisoner  escape."  [60]  The  handmaid  did  as  she  was  told.  But  the
+governor  said,  "  This  is  a  notorious  robber,  I  cannot  let  him  go  free  after
+this  sort.  But  if  I  could  find  another  man  as  a  substitute,  I  could  put
+the  robber  in  a  covered  carriage  and  send  him  to  you."  The  slave  came
+and  reported  this  to  her  mistress.
+
+Now  at  this  time  a  certain  rich  young  merchant,  who  was  enamoured
+of  Sama,  presented  her  every  day  with  a  thousand  pieces  of  money.  And
+that  very  day  at  sunset  her  lover  came  as  usual  to  her  house  with  the
+money.  And  Sama  took  the  money  and  placed  it  in  her  lap  and  sat
+weeping.  And  when  she  was  asked  what  was  the  cause  of  her  sorrow,  she
+said,  *'  My  lord,  this  robber  is  my  brother,  though  he  never  came  to  see
+me,  because  people  say  I  follow  a  vile  trade  :  when  I  sent  a  message  to  the
+governor  he  sent  word  that  if  he  were  to  receive  a  thousand  pieces  of  money,
+he  would  let  his  prisoner  go  free.  And  now  I  cannot  find  any  one  to  go
+and  take  this  money  to  the  governor."  The  youth  for  the  love  he  bare  her
+said,  "I  will  go."  "Go,  then,"  said  she,  "and  take  with  you  the  money
+you  brought  me."     So  he  took  it  and  went  to  the  house  of  the  governor.
+
+
+No.  318.  41
+
+The  governor  hid  the  young  merchant  in  a  secret  place,  and  had  the
+robber  conveyed  in  a  close  carriage  to  Sama.  Then  he  thought,  "This
+robber  is  well  known  in  the  country.  It  must  be  quite  dark  first.  And
+then,  when  all  men  are  retired  to  rest,  I  will  have  the  man  executed."
+And  so  making  some  excuse  for  delaying  it  awhile,  when  people  had
+retired  to  rest,  he  sent  the  young  merchant  with  a  large  escort  to  the  place
+of  execution,  and  cutting  off  his  head  with  a  sword  impaled  his  body,  and
+returned  into  the  city.
+
+Thenceforth  Sama  accepted  nought  at  any  other  man's  hand,  but  passed
+all  her  time,  taking  her  pleasure  with  this  robber  only.  The  thought
+occurred  to  the  robber :  "  If  this  woman  should  fall  in  love  with  any  one
+else,  she  will  have  me  too  put  to  death,  and  take  her  pleasure  with  him.
+She  is  very  treacherous  to  her  friends.  I  must  no  longer  dwell  here,  but
+make  haste  to  escape."  When  he  was  going  away,  [61]  he  thought,  "I
+will  not  go  empty-handed,  but  will  take  some  of  the  oi-naments  belonging
+to  her."  So  one  day  he  said  to  her,  "  My  dear,  we  always  stay  indoors
+like  tame  cockatoos  in  a  cage.  Some  day  we  will  disport  ourselves  in  the
+garden."  She  readily  assented  and  prepared  every  kind  of  food,  hard  and
+soft,  and  decked  herself  out  with  all  her  ornaments,  and  drove  to  the
+garden  with  him  seated  in  a  close  carriage.  While  he  was  disporting
+himself  with  her,  he  thought,  "  Now  must  be  the  time  for  me  to  escape."
+So  under  a  show  of  violent  affection  for  her,  he  entered  into  a  thicket  of
+kanavera  bushes,  and  pretending  to  embrace  her,  he  squeezed  her  till  she
+became  insensible.  Then  throwing  her  down  he  spoiled  her  of  all  her
+ornaments,  and  fastening  them  in  her  outer  garment  he  placed  the  bundle
+on  his  shoulder,  and  leaping  over  the  garden  wall  made  off.
+
+And  when  she  had  recovered  consciousness,  rising  up  she  went  and
+asked  her  attendants,  what  had  become  of  her  young  lord.  *'  We  do  not
+know,  lady."  "He  thinks,"  she  said,  "I  am  dead,  and  must  in  his  alarm
+have  run  away."  And  being  distressed  at  the  thought,  she  returned
+thence  to  her  house,  and  said,  "  Not  till  I  have  set  eyes  on  my  dear  lord,
+will  I  rest  upon  a  sumptuous  couch,"  and  she  lay  down  upon  the  ground.
+And  from  that  day  she  neither  put  on  comely  garments,  nor  ate  more
+than  one  meal,  nor  affected  scents  and  wreaths  and  the  like.  And  being
+resolved  to  seek  and  recover  her  lover  by  every  possible  means,  she  sent
+for  some  actors  and  gave  them  a  thousand  pieces  of  money.  On  their
+asking,  "What  are  we  to  do  for  this,  lady?"  She  said,  "There  is  no
+place  that  you  do  not  visit.  Go  then  to  every  village,  town  and  city,  and
+gathering  a  crowd  around  you,  first  of  all  sing  this  song  in  the  midst  of
+the  people," — teaching  the  actors  the  first  stanza, — "And  if,"  said  she,
+"  when  you  have  sung  this  song,  my  husband  shall  be  one  of  the  crowd,  he
+will  speak  to  you.  [62]  Then  you  may  tell  him  I  am  quite  well,  and  bring
+him  back  with  you.     And  should  he  refuse  to  come,  send  me  a  message."
+
+
+42  The  Jcitaka.     Book  IV.
+
+
+And  giving  them  their  expenses  for  the  journey,  she  sent  them  off.  They
+started  from  Benares,  and  calling  the  people  together  here  and  there,  at
+last  arrived  at  a  border-village.  Now  the  robber,  since  his  flight,  was
+living  here.  And  the  actors  gathered  a  crowd  about  them,  and  sang  the
+first  stanza : —
+
+'Twas  the  joyous  time  of  spring,
+
+Bright  with  flowers  each  shrub  and  tree,
+
+From  her  swoon  awakening
+Sama  lives,  and  lives  for  thee.
+
+The  robber  on  hearing  this  drew  nigh  to  the  actor,  and  said,  "  You  say
+that  Sama  is  alive,  but  I  do  not  believe  it."  And  addressing  him  he
+repeated  the  second  stanza  :
+
+Can  fierce  winds  a  mountain  shake?
+Can  they  make  firm  earth  to  quake?
+But  alive  the  dead  to  see
+Marvel  stranger  far  would  be !
+
+[63]  The  actor  on  hearing  these  words  uttered  the  third  stanza :
+
+Sama  surely  is  not  dead.
+Nor  another  lord  would  wed.
+Fasting  from  all  meals  but  one,
+She  loves  thee  and  thee  alone.
+
+The  robber  on  hearing  this  said,  "Whether  she  be  alive  or  dead,  I  don't
+want  her,"  and  with  these  words  he  repeated  the  fourth  stanza :
+
+Sama's  fancy  ever  roves
+From  tried  faith  to  lighter  loves:
+Me  too  Sama  would  betray.
+Were  I  not  to  flee  away.
+
+The  actors  came  and  told  Sama  how  he  had  dealt  with  them.  And
+she,  full  of  regrets,  took  once  more  to  her  old  course  of  life.
+
+
+The  Master,  when  his  lesson  was  ended,  revealed  the  Truths  and  identified
+the  Birth  : — At  the  conclusion  of  the  Truths  the  worldly-minded  Brother  attained
+to  fruition  of  the  First  Path  : — "At  that  time  this  Brother  was  the  rich  merchant's
+son,  the  wife  he  had  left  was  Sama,  and  I  myself  was  the  robber."
+
+
+No.   319.  43
+
+No.  319.
+
+TITTIRA-JATAKA.
+
+[64]  "Happi/  life,"  etc. — This  was  a  story  told  by  the  Master  while  living  in
+the  Badarika  Monastery  near  Kosambl,  i-egarding  the  elder  Rahula.  The  intro-
+ductory story  has  been  already  related  in  full  in  the  Tipallattha  Birth  i.  Now
+when  the  Brethren  in  the  Hall  of  Truth  were  setting  forth  the  praises  of  the
+venerable  Rahula,  and  speaking  of  him  as  fond  of  instruction,  scrupulous  and
+patient  of  rebuke,  the  Master  came  up  and  on  hearing  from  them  the  subject  of
+their  discourse  said,  "  Not  now  only,  but  formerly  also  Rahula  possessed  all
+these  virtues."     And  then  he  told  them  a  legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  bi-ahmin  family.  And  when  he  grew  up,  he  studied
+all  the  arts  at  Takkasila,  and  giving  up  the  world  devoted  himself  to  the
+ascetic  life  in  the  Himalaya  country,  and  developed  all  the  Faculties  and
+Attainments.  There  enjoying  the  pleasures  of  ecstatic  meditation  he  dwelt
+in  a  pleasant  grove,  whence  he  journeyed  to  a  frontier  village  to  procure
+salt  and  vinegar.  The  people,  on  seeing  him,  became  believers,  and  built
+him  a  hut  of  leaves  in  a  wood,  and  providing  him  with  all  that  a  Buddhist
+requires,  made  a  home  for  him  there.
+
+At  this  time  a  fowler  in  this  village  had  caught  a  decoy  partridge,  and
+putting  it  in  a  cage  carefully  trained  and  looked  after  it.  Then  he  took  it
+to  the  wood,  and  by  its  cry  decoyed  all  the  other  partridges  that  came
+near.  The  partridge  thought  :  "  Through  me  many  of  my  kinsfolk  come
+by  their  death.  This  is  a  wicked  act  on  my  part."  So  it  kept  quiet.
+When  its  master  found  it  was  quiet,  he  struck  it  on  the  head  with  a  piece
+of  bamboo.  The  partridge  from  the  pain  it  suflfered  uttered  a  cry.  And
+the  fowler  gained  a  living  by  decoying  other  partridges  through  it.  Then
+the  partridge  thought :  "  Well,  suppose  they  die.  There  is  no  evil  inten-
+tion on  my  part.  Do  the  evil  consequences  of  my  action  affect  me  ]  When
+I  am  quiet,  they  do  not  come,  but  when  I  utter  a  cry,  they  do.  And  all
+that  come  this  fellow  catches  and  puts  to  death.  Is  there  any  sinful  act
+here  on  my  part,  or  is  there  not  ] "  Thenceforth  the  only  thought  of  the
+partridge  is,  "Who  verily  may  resolve  my  doubt?"  [65]  and  it  goes
+about  seeking  for  such  a  wise  man.  Now  one  day  the  fowler  snared  a  lot
+of  pai'tridges,  and  filling  his  basket  wdth  them  he  came  to  the  Bodhisatta's
+hermitage  to  beg  a  draught  of  water.  And  putting  down  the  cage  near
+the  Bodhisatta,  he  drank  some  water  and  lay  down  on  the  sand  and  fell
+
+1  No.  16,  Vol.  i.
+
+
+44  The  Jataka.     Book  IV.
+
+asleep.  The  partridge  observing  that  he  was  asleep  thought,  "  I  will  ask
+this  ascetic  as  to  my  doubt,  and  if  he  knows  he  will  solve  my  difficulty."
+And  as  it  lay  in  its  cage,  it  repeated  the  first  stanza  in  the  form  of  a
+question :
+
+Happy  life  I  lead  all  day,
+
+Food  abundant  falls  to  me:
+Yet  I'm  in  a  parlous  way.
+
+What's  my  future  state  to  be?
+
+The  Bodhisatta  solving  this  question  uttered  the  second  stanza  :
+
+If  no  evil  in  thy  heart
+
+Prompts  to  deed  of  villainy,
+Shouldst  thou  play  a  passive  part.
+
+Guilt  attaches  not  to  thee.
+
+The  partridge  on  hearing  this  uttered  the  third  stanza :
+
+"  Lo  !  our  kinsman  "  :  thus  they  cry,
+
+And  in  crowds  they  flock  to  see.
+Am  I  guilty,  should  they  die  ?
+
+Please  resolve  this  doubt  for  me.
+
+[66]  On  hearing  this,  the  Bodhisatta  repeated  the  fourth  stanza  :
+
+If  no  sin  lurks  in  the  heart.
+
+Innocent  the  deed  will  be.
+He  who  plays  a  passive  part
+
+From  all  guilt  is  counted  free.
+
+Thus  did  the  Great  Being  console  the  partridge.  And  through  him
+the  bird  was  freed  from  remorse.  Then  the  fowler  waking  up  saluted  the
+Bodhisatta  and  took  up  his  cage  and  made  off.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth:   "At  that  time
+Rahula  was  the  partridge,  and  I  myself  was  the  ascetic."
+
+
+No.  320.
+
+
+SUCCAJA-JATAKA.
+
+
+"He  might  give"  etc. — This  story  was  told  by  the  Master,  while  residing  at
+Jetavana,  with  regard  to  a  certain  landowner.  According  to  the  story  he  went
+to  a  village  with  his  wife  to  get  in  a  debt,  and  seizing  a  cart  in  satisfaction  for
+what  was  due  to  him  he  deposited  it  with  a  certain  family,  intending  to  fetch  it
+
+
+No.   320.  45
+
+later  on.  While  on  the  road  to  Savatthi,  they  came  in  sight  of  a  mountain.
+The  wife  asked  him,  "  Suppose  this  mountain  were  to  become  all  gold,  would  you
+give  me  some  of  it  ? "  "  Who  are  you  ? "  he  replied,  "  I  would  not  give  you  a
+jot."  "Alas!"  she  cried,  "he  is  a  hard-hearted  man.  Though  the  mountain
+should  become  pure  gold,  he  would  not  give  me  an  atom."  And  she  was  highly
+displeased.
+
+When  they  drew  nigh  to  Jetavana,  feeling  thirsty,  they  went  into  the  monas-
+tery, and  had  some  water  to  drink.  [67]  At  daybreak  the  Master  seeing  in  them
+a  capacity  for  Salvation,  sat  in  a  cell  of  his  Perfumed  Chamber,  looking  out  for
+their  arrival,  and  emitted  the  six-coloured  rays  of  Buddhahood.  And  after  they
+had  quenched  their  thirst,  they  came  to  the  Master  and  respectfully  saluting  him
+sat  down.  The  Master,  after  the  usual  kindly  greetings,  asked  them  where  they
+had  been.  "  We  have  been.  Reverend  Sir,  to  call  in  a  debt."  "  Lay  Sister,"  he
+said,  "  I  hope  your  husband  is  anxious  for  your  good  and  ready  to  do  you  a
+kindness."  "  Reverend  Sir,"  she  replied,  "  I  am  very  affectionate  to  him,  but  he
+has  no  love  for  me.  To-day  when  I  asked  him,  on  catching  sight  of  a  mountain,
+'Supposing  it  were  all  pure  gold,  would  you  give  me  some?'  he  answered,  'Who
+are  you  ?  I  would  not  give  you  a  jot.'  So  hard-hearted  is  he."  "  Lay  Sister,"
+said  the  Master,  "  he  talks  like  this.  But  whenever  he  calls  to  mind  your  virtues
+he  is  ready  to  give  you  lordship  over  all."  "  Tell  us  about  it,  your  Reverence,"
+they  cried,  and  at  their  request  he  related  this  legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  his  minister,  rendering  him  all  due  service.  One  day  the
+king  saw  his  son,  who  acted  as  his  viceroy,  coming  to  pay  his  respects  to
+him.  He  thought  to  himself,  "This  fellow  may  do  me  wrong,  if  he  gets  an
+opportunity."  So  he  sent  for  him  and  said,  "As  long  as  I  live,  you  cannot
+dwell  in  this  city.  Live  somewhere  else,  and  at  my  death  bear  rule  in  the
+kingdom."  He  agreed  to  these  conditions,  and  bidding  his  father  farewell
+he  started  from  Benares  with  his  chief  wife.  On  coming  to  a  frontier
+village,  he  built  himself  a  hut  of  leaves  in  a  wood,  and  stayed  there,
+supporting  life  on  wild  roots  and  fruit.  By  and  bye  the  king  died.  The
+young  viceroy,  from  his  observation  of  the  stars,  knew  of  his  father's  death,
+and  as  he  journeyed  to  Benares,  a  mountain  came  into  sight.  His  wife
+said  to  him,  "Supposing,  Sir,  yonder  mountain  were  turned  into  pure  gold,
+would  you  give  me  some  of  it  1 "  "  Who  are  you  1 "  he  cried,  "  I  would
+not  give  you  an  atom."  She  thought:  "Through  my  love  for  him  I
+entered  this  forest,  not  having  the  heart  to  desert  him,  and  he  speaks  to
+me  thus.  [68]  He  is  very  hard-hearted,  and  if  he  becomes  king,  what
+good  will  he  do  me  1 "     And  she  was  sore  at  heart.
+
+On  reaching  Benares  he  was  established  on  the  throne  and  raised  her
+to  the  dignity  of  chief  queen.  He  merely  gave  her  titular  rank,  but
+beyond  this  he  paid  her  no  respect  or  honour,  and  did  not  even  recognize
+her  existence.  Thought  the  Bodhisatta,  "  This  queen  was  helpmeet  to  the
+king,  not  counting  the  pain,  and  dwelt  with  him  in  the  wilderness.  But
+he,  taking  no  count  of  this,  goes  about,  taking  his  pleasure  with  other
+women.     But  I  will  bring  it  about  that  she  shall  receive  lordship  over
+
+
+46  The  Jdtaka.     Book  IV.
+
+all."  And  with  this  thought  he  went  one  day  and  saluting  her  said,
+"  Lady,  we  do  not  receive  from  you  so  much  as  a  lump  of  rice.  Why  are
+you  so  hard-hearted,  and  why  do  you  thus  neglect  us  1 "  "  Friend,"  she
+replied,  "if  I  myself  were  to  receive  aught,  I  would  give  it  you,  but  if  I
+get  nothing,  what  am  I  to  give  ?  What,  pray,  is  the  king  likely  to  give
+me  ?  On  the  road  here,  when  asked,  *  If  yonder  mountain  were  all  pure
+gold,  would  you  give  me  anything? '  he  answered,  '  Who  are  you  1  I  would
+give  you  nothing.'"  "Well,  could  you  repeat  all  this  before  the  king?"
+he  said.  "Why  should  I  not,  friend?"  she  answered.  "Then  when  I
+stand  in  the  king's  presence,"  he  said,  "  I  will  ask  and  you  shall  repeat  it."
+"  Agreed,  friend,"  she  said.  So  the  Bodhisatta,  when  he  stood  and  paid
+his  respects  to  the  king,  asked  the  queen,  saying,  "  Are  we  not,  lady,  to
+receive  aught  at  your  hands?"  "Sir,"  she  answered,  "when  I  get  any-
+thing, I  will  give  you  something.  But,  pray,  what  is  the  king  likely  to
+give  me  now?  When  we  were  coming  from  the  forest,  and  a  mountain
+came  into  sight,  I  asked  him,  '  If  yonder  mountain  were  all  pure  gold,  would
+you  give  me  some  of  it  ? '  'Who  are  you  ? '  he  said,  'I  will  give  you  nothing.'
+And  in  these  words  he  refused  what  it  was  easy  to  give."  [69]  To  illus-
+trate this,  she  repeated  the  first  stanza :
+
+He  might  give  at  little  cost
+What  he  would  not  miss,  if  lost.
+Golden  mountains  I  bestow;
+He  to  all  I  ask  says  "No."
+
+The  king  on  hearing  this  uttei'ed  the  second  stanza  :
+
+When  you  can,  say  "Yes,  I  will,"
+When  you  cannot,  promise  nil.
+Broken  promises  are  lies;
+Liars  all  wise  men  despise.
+
+The  queen,  when  she  heard  this,  raising  her  joined  hands  in  respectful
+salutation,  repeated  the  third  stanza  :
+
+Standing  fast  in  righteousness.
+Thee,  O  prince,  we  humbly  bless.
+Fortune  may  all  else  destroy;
+Truth  is  still  thy  only  joy.
+
+[70]  The  Bodhisatta,  after  hearing  the  queen  sing  the  praises  of  the
+king,  set  forth  her  virtues  and  repeated  the  fourth  stanza :
+
+Known  to  fame  as  peerless  wife,
+Sharing  weal  and  woe  of  life,
+Equal  she  to  either  fate,
+Fit  with  even  kings  to  mate.
+
+The  Bodhisatta  in  these  words  sang  the  praises  of  the  queen,  saying,
+"This  lady,  your  majesty,  in  the  time  of  your  adversity,  lived  with  you
+
+
+No.  320.  47
+
+and  shared  your  sorrows  in  the  forest.  You  ought  to  do  her  honour."
+The  king,  at  his  words,  called  to  mind  the  queen's  virtues  and  said,  "  Wise
+Sir,  at  your  words  I  am  reminded  of  the  queen's  virtues,"  and  so  saying  he
+gave  all  power  into  her  hand.  Moreover  he  bestowed  great  power  upon
+the  Bodhisatta.  "For  it  was  by  you,"  he  said,  "I  was  reminded  of  the
+queen's  virtues."
+
+
+The  Master,  having  ended  his  lesson,  revealed  the  Truths  and  identified  the
+Birth: — At  the  conclusion  of  the  Truths,  the  husband  and  wife  attained  to
+fruition  of  the  First  Path : — "At  that  time  this  landowner  was  the  king  of  Benares,
+this  lay  sister  was  the  queen,  and  I  myself  was  the  wise  councillor."
+
+
+No.  321.
+
+
+KUTIDUSAKA-JATAKA.
+
+[71]  ^^  Monkey,  in  feet"  etc. — This  was  a  story  told  by  the  Master  while  dwell-
+ing at  Jetavana,  about  a  young  disciple  who  burnt  down  the  hut  of  leaves  of  the
+elder  Mahakassapa.  The  incident  that  led  to  the  story  originated  in  Rajagaha.
+At  that  time,  they  say,  the  elder  was  living  in  a  cell  in  the  forest  near  Rajagaha.
+Two  young  novices  ministered  to  his  wants.  The  one  of  them  was  serviceable
+to  the  elder,  the  other  was  ill- behaved.  Whatever  was  done  by  his  comrade,  he
+makes  as  if  it  were  done  by  himself  For  instance,  when  the  other  lad  had
+placed  water  to  rinse  the  mouth,  he  goes  to  the  elder  and  saluting  him,  says,
+"Sir,  the  water  is  ready.  Please  to  rinse  yoiu-  mouth."  And  when  his  com-
+panion had  risen  betimes  and  swept  out  the  elder's  cell,  as  soon  as  the  elder
+appears,  he  knocks  things  about  hither  and  thither,  and  makes  as  if  the  whole
+cell  had  been  swept  out  by  himself.
+
+The  dutiful  disciple  thought,  "  This  ill-behaved  fellow  claims  whatever  I  do
+just  as  if  he  had  done  it  himself.  I  will  expose  his  cunning  behaviour."  So
+when  the  young  rogue  had  returned  from  the  village  and  was  sleeping  after  his
+meal,  he  heated  water  for  the  bath,  and  hid  it  in  a  back  room,  and  then  put
+merely  a  small  quantity  of  water  in  the  boiler.  The  other  lad  on  waking  went
+and  saw  the  steam  rising  up  and  thought,  "  No  doubt  our  friend  has  heated  the
+water  and  put  it  in  the  bath-room."  So  going  to  the  elder  he  said,  "Sir,  the
+water  is  in  the  bath-room.  Please,  take  your  bath."  The  elder  went  with  him
+to  take  a  bath,  and  finding  no  water  in  the  bath-room  asked  where  the  water  was.
+The  lad  went  hastily  to  the  heating  chamber  and  let  down  a  ladle  into  the  empty
+boiler.  The  ladle  struck  against  the  bottom  of  the  empty  vessel,  and  gave  forth
+a  rattling  sound.  (Thenceforth  the  boy  was  known  by  the  name  of  "Rattle-
+Ladle.")  At  this  moment  the  other  lad  fetched  the  water  from  the  back  room,  and
+said,  "  Sir,  please  take  your  bath."  The  elder  had  his  bath,  [72]  and  being  now
+aware  of  Rattle- Ladle's  misconduct,  when  the  boy  came  in  the  evening  to  wait
+upon  him,  he  reproached  him  and  said,  "  When  one  that  is  under  religious  vows
+
+
+48  The  Jdtaka.     Booh  IV.
+
+has  done  a  thing  himself,  then  only  has  he  the  right  to  say,  'I  did  that.'  Other-
+wise it  is  a  deliberate  lie.     Henceforth  be  not  guilty  of  conduct  like  this."
+
+The  boy  was  wroth  with  the  elder,  and  next  day  refused  to  go  into  the  town
+with  him  to  beg  for  alms.  But  the  other  youth  accompanied  the  elder.  And
+Rattle-Ladle  went  to  see  a  family  of  the  elder's  retainers.  When  they  inquired
+where  the  elder  was,  he  answered  that  he  remained  at  home  ill.  They  asked
+what  he  ought  to  have.  He  said,  "  Give  me  so  and  so,"  and  took  it  and  went  to
+a  place  that  he  fancied,  and  ate  it  and  returned  to  the  hermitage.  Next  day  the
+elder  visited  that  family  and  sat  down  with  them.  The  people  said,  "  You  are
+not  well,  are  you  ?  Yesterday,  they  say,  you  stopped  at  home  in  your  cell.  We
+sent  you  some  food  by  the  hand  of  such  and  such  a  lad.  Did  your  Reverence
+partake  of  it '? "  The  elder  held  his  peace,  and  when  he  had  finished  his  meal,
+returned  to  the  monastery.
+
+In  the  evening  when  the  boy  came  to  wait  upon  him,  the  elder  addressed
+him  thus :  "  You  went  begging,  Sir,  in  such  and  such  a  family,  and  in  such  and
+such  a  village.  And  you  begged,  saying,  'The  elder  must  have  so  and  so  to  eat.'
+And  then,  they  say,  you  ate  it  yourself  Such  begging  is  highly  improper.  See
+that  you  are  not  guilty  of  such  misconduct  again."
+
+So  the  boy  for  ever  so  long  nursed  a  grudge  against  the  elder,  thinking,
+"Yesterday  merely  on  account  of  a  little  water  he  picked  a  quarrel  with  me.
+And  now  being  indignant  because  of  my  having  eaten  a  handful  of  rice  in  the
+house  of  his  retainers,  he  quarrels  with  me  again.  I  will  find  out  the  right  way
+to  deal  with  him."  And  next  day,  when  the  elder  had  gone  into  the  city  for
+alms,  he  took  a  hammer  and  broke  all  the  vessels  used  for  food,  and  setting  fire
+to  the  hut  of  leaves,  took  to  his  heels.  While  still  alive  he  became  a  preta  in
+the  world  of  men,  and  withered  away  till  he  died  and  was  born  again  in  the
+Great  Hell  of  Avici.  And  the  fame  of  his  evil  deed  spread  abroad  amongst  the
+people.
+
+So  one  day  some  Brethi-en  came  from  Rajagaha  to  Savatthi,  and  after  putting
+away  their  bowls  and  robes  in  the  Common  Room  they  went  and  saluting  the
+Master  sat  down.  The  Master  conversed  pleasantly  with  them  and  asked  whence
+they  had  come.  "  From  Rajagaha,  Sir."  "  Who  is  the  teacher  that  preaches
+there  ? "  he  said.  "  The  Great  Kassapa,  Sir."  "  Is  Kassapa  quite  well,  Brethren  1"
+he  asked.  "Yes,  Reverend  Sir,  the  elder  is  well.  But  a  youthful  member  of
+the  fraternity  was  so  angry  on  account  of  a  reproof  he  gave  him,  that  he  set  fire
+to  the  elder's  hut  of  leaves,  and  made  off."  [73]  The  Master,  on  hearing  this,
+said,  "  Brethren,  solitude  is  better  for  Kassapa  than  keeping  company  with  a  fool
+like  this."     And  so  saying  he  repeated  a  stanza  in  the  Dhammapada :
+
+To  travel  with  the  vulgar  herd  refuse,
+And  fellowship  with  foolish  folk  eschew;
+
+Thy  peer  or  better  for  a  comrade  choose
+Or  else  in  solitude  thy  way  pursue.
+
+Moreover  he  again  addressed  the  Brethren  and  said,  "  Not  now  only,  Brethren,
+did  this  youth  destroy  the  hut  and  feel  wroth  with  one  that  reproved  him.  In
+former  times  too  he  was  wroth."     And  he  then  told  them  a  legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhisatta
+came  to  life  as  a  young  sihgila  bird.  And  when  he  grew  to  be  a  big  bird,
+he  settled  in  the  Himalaya  country  and  built  him  a  nest  to  his  fancy,  that
+was  proof  against  the  rain.  Then  a  certain  monkey  in  the  rainy  season,
+when  the  rain  fell  without  intermission,  sat  near  the  Bodhisatta,  his  teeth
+chattering  by  reason  of  the  severe  cold.  The  Bodhisatta,  seeing  him  thus
+distressed,  fell  to  talking  with  him,  and  uttered  the  first  stanza :
+
+
+No.  321.  49
+
+Monkey,  in  feet  and  hands  and  face
+
+So  like  the  human  form,
+Why  buildest  thou  no  dwelling-place,
+
+To  hide  thee  from  the  storm?
+
+The  monkey,  on  hearing  this,  replied  with  a  second  stanza :
+
+In  feet  and  hands  and  face,  O  bird.
+
+Though  close  to  man  allied,
+Wisdom,  chief  boon  on  him  conferred.
+
+To  me  has  been  denied.
+
+The  Bodhisatta,  on  hearing  this,  repeated  yet  two  more  couplets  :
+
+He  that  inconstancy  betrays,  a  light  and  fickle  mind.
+Unstable  proved  in' all  his  ways,  no  happiness  may  find.
+[74]  Monkey,  in  virtue  to  excel,  do  thou  thy  utmost  strive.
+
+And  safe  from  wintry  blast  to  dwell,  go,  hut  of  leaves  contrive.
+
+Thought  the  monkey,  "  This  creature,  through  dwelling  in  a  place  that
+is  sheltered  from  the  rain,  despises  me.  I  will  not  suffer  him  to  rest
+quietly  in  this  nest."  Accordingly,  in  his  eagerness  to  catch  the  Bodhi-
+satta, he  made  a  spring  upon  him.  But  the  Bodhisatta  flew  up  into  the
+air,  and  winged  his  way  elsewhere.  And  the  monkey,  after  smashing  up
+and  destroying  his  nest,  betook  himself  off.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth : — "  At  that  time
+the  youth  that  fired  the  hut  was  the  monkey,  and  I  myself  was  the  singila  bird."
+
+
+No.  322.
+
+D  ADDABHA- JATAKA  \
+
+'^From  the  spot  where"  eic— This  story  was  told  by  the  Master,  when  he
+dwelt  at  Jetavana,  about  some  heretics.  These  heretics,  they  say,  in  various
+places  near  Jetavana,  made  their  l^eds  on  thorns,  suffered  the  five-fold  forms  of
+fire  penance,  and  practised  false  asceticism  of  many  different  kinds.  Now  a
+number  of  the  Brethren,  after  going  their  rounds  for  alms  in  Savatthi,  on  their
+way  back  to  Jetavana  saw  these  heretics  undergoing  their  pretended  austerities,
+and  came  and  asked  the  Master,  [75]  "  Is  there,  Sir,  any  virtue  in  these  heterodox
+priests  in  taking  upon  them  these  practices  ? "     The  Master  said,  "  There  is  no
+
+1  See  Tihetan  Tales,  xxii.  p.  296,  "The  Flight  of  the  Beasts."  R.  Morris,  Folk-Lore
+Journal,  Vol.  iii.  121.
+
+J.  III.  4
+
+
+50  The  Jataha.     Book  IV.
+
+virtue,  Brethren,  nor  any  special  merit  in  it.  When  it  is  examined  and  tested,
+it  is  hke  a  path  over  a  dunghill,  or  like  the  noise  the  hare  heard."  "  We  do  not
+know.  Sir,  what  that  noise  was.  Tell  us.  Holy  Sir.''  So  at  their  request  he  told
+them  an  old-world  legend.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  came  to  life  as  a  young  lion.  And  when  fully  grown  he  lived  in  a
+wood.  At  this  time  there  was  near  the  Western  Ocean  a  grove  of  palms
+mixed  with  vilva  trees.  A  certain  hare  lived  here  beneath  a  palm  sapling,
+at  the  foot  of  a  vilva  tree.  One  day  this  hare  after  feeding  came  and  lay
+down  beneath  the  young  palm  tree.  And  the  thought  struck  him:  "If
+this  earth  should  be  destroyed,  what  would  become  of  me  *? "  And  at  this
+very  moment  a  ripe  vilva  fruit  fell  on  a  palm  leaf.  At  the  sound  of  it,
+the  hare  thought :  "  This  solid  earth  is  collapsing,"  and  starting  up  he  fled,
+without  so  much  as  looking  behind  him.  Another  hare  saw  him  scamper-
+ing oflf,  as  if  frightened  to  death,  and  asked  the  cause  of  his  panic  flight.
+"  Pray,  don't  ask  me,"  he  said.  The  other  hare  cried,  "  Pray,  Sir,  what  is
+it  1, "  and  kept  running  after  him.  Then  the  hare  stopped  a  moment  and
+without  looking  back  said,  "  The  earth  here  is  breaking  up."  And  at  this
+the  second  hare  ran  after  the  other.  And  so  first  one  and  then  another
+hare  caught  sight  of  him  running,  and  joined  in  the  chase  till  one  hundred
+thousand  hares  all  took  to  flight  together.  They  were  seen  by  a  deer,  a
+boar,  an  elk,  a  buffalo,  a  wild  ox,  a  rhinoceros,  a  tiger,  a  lion  and  an
+elephant.  And  when  they  asked  what  it  meant  and  were  told  that  the
+earth  was  breaking  up,  they  too  took  to  flight.  [76]  So  by  degrees  this
+host  of  animals  extended  to  the  length  of  a  full  league.
+
+When  the  Bodhisatta  saw  this  headlong  flight  of  the  animals,  and
+heard  the  cause  of  it  was  that  the  earth  was  coming  to  an  end,  he  thought :
+"The  earth  is  nowhere  coming  to  an  end.  Surely  it  must  be  some  sound
+which  was  misunderstood  by  them.  And  if  I  don't  make  a  great  effort,
+they  will  all  perish.  I  will  .save  their  lives."  So  with  the  speed  of  a  lion
+he  got  before  them  to  the  foot  of  a  mountain,  and  lion-like  roared  three
+times.  They  were  teri'ibly  frightened  at  the  lion,  and  stopping  in  their
+flight  stood  all  huddled  together.  The  lion  went  in  amongst  them  and
+asked  why  they  were  running  away.
+
+"  The  earth  is  collapsing,"  they  answered.
+
+"  Who  saw  it  collapsing  ? "  he  said.
+
+"  The  elephants  know  all  about  it,"  they  replied.
+
+He  asked  the  elephants.  "  We  don't  know,"  they  said,  "  the  lions
+know."  But  the  lions  said,  "We  don't  know,  the  tigers  know."  The
+tigers  said,  "The  rhinoceroses  know."  The  rhinoceroses  said,  "The  wild
+oxen  know."  The  wild  oxen,  "the  buffaloes."  The  buffaloes,  "the  elks."
+The  elks,  "the  boars."     The   boars,    "the  deer."     The  deer  said,   "We
+
+
+No.  322.  51
+
+don't  know,  the  hares  know."  When  the  hares  were  questioned,  they
+pointed  to  one  particular  hare  and  said,  "This  one  told  us."
+
+So  the  Bodhisatta  asked,  "  Is  it  true.  Sir,  that  the  earth  is  breaking  up  ?  "
+
+"  Yes,  Sir,  I  saw  it,"  said  the  hare.
+
+"Where,"  he  asked,  "were  you  living,  when  you  saw  if?"
+
+"Near  the  ocean,  Sir,  in  a  grove  of  palms  mixed  with  vilva  trees.  For
+as  I  was  lying  beneath  the  shade  of  a  palm  sapling  at  the  foot  of  a  vilva
+tree,  methought,  '  If  this  earth  should  break  up,  where  shall  I  goV  And
+at  that  very  moment  I  heard  the  sound  of  the  breaking  up  of  the  earth
+and  I  fled."
+
+Thought  the  lion  :  "  A  ripe  vilva  fruit  evidently  must  have  fallen  on  a
+palm  leaf  and  made  a  '  thud,'  and  this  hare  jumped  to  the  conclusion  that
+the  earth  was  coming  to  an  end,  and  ran  away.  [77]  I  will  find  out  the
+exact  truth  about  it."  So  he  reassured  the  herd  of  animals,  and  said,
+"  I  will  take  the  hare  and  go  and  find  out  exactly  whether  the  earth  is
+coming  to  an  end  or  not,  in  the  place  pointed  out  by  him.  Until  I  return,
+do  you  stay  here."  Then  placing  the  hare  on  his  back,  he  sprang  forward
+with  the  speed  of  a  lion,  and  putting  the  hare  down  in  the  palm  grove,  he
+said   "  Come,  show  us  the  place  you  meant."
+
+"I  dare  not,  my  lord,"  said  the  hare.
+
+"  Come,  don't  be  afraid,"  said  the  lion.
+
+The  hare,  not  venturing  to  go  near  the  vilva  tree,  stood  afar  off  and
+cried,  "Yonder,  Sir,  is  the  place  of  dreadful  sound,"  and  so  saying,  he
+repeated  the  first  stanza :
+
+From  the  spot  where  I  did  dwell
+
+Issued  forth  a  fearful  '  thud  ; '
+What  it  was  I  could  not  tell.
+
+Nor  what  caused  it  understood.
+
+After  hearing  what  the  hare  said,  the  lion  went  to  the  foot  of  the  vilva
+tree,  and  saw  the  spot  where  the  hare  had  been  lying  beneath  the  shade  of
+the  palm  tree,  and  the  ripe  vilva  fruit  that  fell  on  the  palm  leaf,  and
+having  carefully  ascertained  that  the  earth  had  not  broken  up,  he  placed
+the  hare  on  his  back  and  with  the  speed  of  a  lion  soon  came  again  to  the
+herd  of  beasts.
+
+Then  he  told  them  the  whole  story,  and  said,  "  Don't  be  afraid."  And
+having  thus  reassured  the  herd  of  beasts,  he  let  them  go.  Verily,  if  it  had
+not  been  for  the  Bodhisatta  at  that  time,  all  the  beasts  would  have  rushed
+into  the  sea  and  perished.  It  was  all  owing  to  the  Bodhisatta  that  they
+escaped  death.
+
+Alarmed  at  sound  of  fallen  fruit
+
+A  hare  once  ran  away.
+The  other  beasts  all  followed  suit
+
+Moved  by  that  hare's  dismay.
+
+4—2
+
+
+52  The  Jdtaka.     Book  IV.
+
+They  hastened  not  to  view  the  scene,
+
+But  lent  a  wilUng  ear
+To  idle  gossip,  and  were  clean
+
+Distraught  with  foolish  fear.
+
+[78]  They  who  to  Wisdom's  calm  delight
+And  Virtue's  heights  attain.
+Though  ill  example  should  invite,
+Such  panic  fear  disdain.
+
+These  three  stanzas  were  inspired  by  Perfect  Wisdom.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth  :  "  At  that  time  I
+myself  was  the  lion."
+
+
+No.  323.
+
+
+BRAHMADATTA-JATAKA.
+
+" Such  is  the  quality/"  etc. — This  story  was  told  by  the  Master,  while  dwelling
+in  the  Aggalava  shrine  near  Alavi,  concerning  the  regulations  to  be  observed  in
+the  building  of  cells  ^
+
+The  introductory  story  has  been  already  set  forth  in  the  Manikantha  Birth  2,
+but  on  this  occasion  the  Master  said,  "  Is  it  true,  Brethren,  that  you  live  here  by
+your  importunity  in  asking  and  begging  for  alms  ? "  And  when  they  answered
+"  Yes,"  he  reproved  them  and  said,  "  Wise  men  of  old,  when  offered  their  choice
+by  the  king,  though  they  were  longing  to  ask  for  a  pair  of  single-soled  shoes,
+through  fear  of  doing  violence  to  their  sensitive  and  scrupulous  nature,  did  not
+venture  to  say  a  word  in  the  presence  of  the  people,  but  spoke  in  private."  And
+so  saying  he  told  them  an  old-world  legend.
+
+
+[79]  Once  upon  a  time  in  the  Kampillaka  kingdom,  when  a  Paiicala
+king  was  reigning  in  a  North  Paiicala  city,  the  Bodhisatta  was  born
+into  a  brahmin  family,  in  a  certain  market  town.  And  when  he  was
+grown  up,  he  acquired  a  knowledge  of  the  arts  at  Takkasila.  Afterwards
+taking  orders  as  an  ascetic  and  dwelling  in  the  Himalaya  country,  he  lived
+for  a  long  time  by  what  he  could  glean — feeding  on  wild  fruits  and  roots.
+
+^  See  Suttavibhahga  vi.  1.
+2  No.  253,  Vol.  ii.
+
+
+No.   323.  53
+
+And  wandering  into  the  haunts  of  men  foi-  the  purpose  of  procuring  salt
+and  vinegar,  he  came  to  a  city  of  North  Paiicala  and  took  up  his  abode  in
+the  king's  garden.  Next  day  he  went  into  the  city  to  beg  alms,  and  came
+to  the  king's  gate.  The  king  was  so  pleased  with  his  deportment  and
+behaviour  that  he  seated  him  on  the  dais  and  fed  him  with  food  worthy  of
+a  king.  And  he  bound  him  by  a  solemn  promise  and  assigned  him  a
+lodging  in  the  garden.
+
+He  lived  constantly  in  the  king's  house,  and  at  the  end  of  the  rainy
+season,  being  anxious  to  return  to  the  Himalayas,  he  thought,  "  If  I  go
+upon  this  journey,  I  must  get  a  pair  of  single-soled  shoes'  and  a  parasol  of
+leaves.  I  will  beg  them  of  the  king."  One  day  he  came  to  the  garden,
+and  finding  the  king  sitting  there,  he  saluted  him  and  resolved  he  would
+ask  him  for  the  shoes  and  parasol.  But  his  second  thought  was,  "  A  man
+who  begs  of  another,  saying,  '  Give  me  so  and  so,'  is  apt  to  weep.  And
+the  other  man  also  when  he  refuses,  saying,  'I  have  it  not,'  in  his  turn
+weeps."  And  that  the  people  might  not  see  either  him  or  the  king  weep-
+ing, he  thought,  "We  will  both  weep  quietly  in  some  secret  place."  So
+he  said,  "  Great  King,  I  am  anxious  to  speak  with  you  in  private."  The
+royal  attendants  on  hearing  this  departed.  Thought  the  Bodhisatta,  "If
+the  king  should  refuse  my  i)rayer,  our  friendship  will  be  at  an  end.  So  I
+will  not  ask  a  boon  of  him."  That  day,  not  venturing  to  mention  the
+subject,  he  said,  "  Go  now.  Great  King,  I  will  see  about  this  matter  by  and
+bye."  Another  day  on  the  king's  coming  to  the  garden,  saying,  as  before,
+first  this  and  then  that,  he  could  not  frame  his  request.  And  so  twelve
+years  elapsed.
+
+Then  the  king  thought,  [80]  "This  priest  said,  'I  wish  to  speak  in
+private,'  and  when  the  courtiers  are  departed,  he  has  not  the  courage  to
+speak.  And  while  he  is  longing  to  do  so,  twelve  years  have  elapsed.
+After  living  a  religious  life  so  long,  I  suspect,  he  is  regretting  the  world.
+He  is  eager  to  enjoy  pleasures  and  is  longing  for  sovereignty.  But  being-
+unable  to  frame  the  word  '  kingdom,'  he  keeps  silent.  To-day  now  I  will
+offer  him  whatever  he  desires,  from  my  kingdom  downwai'ds."  So  he
+went  to  the  garden  and  sitting  down  saluted  him.  The  Bodhisatta  asked
+to  speak  to  him  in  private,  and  when  the  courtiers  had  departed,  he
+could  not  utter  a  word.  The  king  said,  "  For  twelve  years  you  have
+asked  to  speak  to  me  in  private,  and  when  you  have  bad  the  oppor-
+tunity, you  have  not  been  able  to  say  a  word.  I  ofier  you  everything,
+beginning  with  my  kingdom.  Do  not  be  afraid,  but  ask  for  whatever  you
+please."
+
+"  Great  King,"  he  said,  "  will  you  give  me  what  I  want  1 "
+
+1  See  Mahdvagga,  v.  1.  28.  Shoes  with  more  than  a  single  lining  were  not  to  be
+worn  by  the  Brethren,  except  when  they  had  been  cast  off  by  others.
+
+
+54  The  Jdtaka.     Book  IV.
+
+'*  Yes,  Reverend  Sir,  I  will."
+
+"Great  King,  when  I  go  on  my  journey,  I  must  have  a  pair  of  single-
+soled  shoes  and  a  parasol  of  leaves."
+
+"Have  you  not  been  able,  Sir,  for  twelve  years  to  ask  for  such  a  trifle
+as  this  1  "
+
+"  That  is  so,  Great  King."
+
+"  Why,  Sir,  did  you  act  thus  ?  "
+
+"Great  King,  the  man  who  says  'Give  me  so  and  so,'  sheds  tears,  and
+the  one  who  refuses  and  says  '  I  have  it  not,'  in  his  turn  weeps.  If,  when
+I  begged,  you  should  have  refused  me,  I  feared  the  people  might  see  us
+mingling  our  tears.  This  is  why  I  asked  for  a  secret  interview."  Then
+from  the  beginning  he  repeated  three  stanzas :
+
+Such  is  the  quality  of  prayer,  O  king,
+'Twill  a  rich  gift  oi-  a  refusal  bring.
+
+Who  beg,  Pancala  lord,  to  weep  are  fain.
+They  who  refuse  are  apt  to  weep  again.
+
+Lest  people  see  us  shed  the  idle  tear,
+My  prayer  I  whisper  in  thy  secret  ear.
+
+[81]  The  king,  being  charmed  with  this  mark  of  respect  on  the  part  of
+the  Bodhisatta,  granted  him  the  boon  and  spoke  the  fourth  stanza  :
+
+Brahmin,  I  oft'er  thee  a  thousand  kine,
+
+Ked  kine,  and  eke  the  leader  of  the  herd  ;
+
+Hearing  but  now  these  generous  words  of  thine,
+I  too  in  turn  to  generous  deed  am  stirred.
+
+But  the  Bodhisatta  said,  "  I  do  not,  Sii*e,  desire  material  pleasures.
+Give  me  that  only  which  I  ask  for."  And  he  took  a  pair  of  single-soled
+shoes  and  the  parasol  of  leaves,  and  exhorted  the  king  to  be  zealous  in
+religion  and  to  keep  the  moral  law  and  observe  fast  days.  And  though
+the  king  begged  him  to  stay,  he  went  off  to  the  Himalayas,  where  he
+developed  all  the  Faculties  and  Attainments,  and  was  destined  to  birth  in
+the  Brahma-world.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth:    "At  that  time
+Ananda  was  the  king,  and  I  myself  was  the  ascetic."
+
+
+No.  324.  55
+
+
+No.  324.
+
+
+CAMMASATAKA-JATAKA\
+
+[82]  "  The  kindly  beast"  etc. — This  story  was  told  by  the  Master  while  living
+at  Jetavana,  about  a  mendicant  priest  who  wore  a  leather  jerkin^.  Both  his  upper
+and  under  garment,  it  is  said,  were  of  leather.  One  day  sallying  out  of  the
+monastery,  he  went  his  rounds  in  Savatthi  for  alms,  till  he  came  to  the  fighting-
+ground  of  the  rams.  A  ram  on  seeing  him  drew  back,  desiring  to  butt  him.  The
+mendicant  thought,  "He  is  doing  this,  as  an  act  of  respect  for  me,"  and  himself
+did  not  draw  back.  The  ram  came  on  with  a  rush  and  striking  him  on  the  thigh
+felled  him  to  the  gromid.  This  case  of  imaginary  salutation  was  blazed  abroad  in
+the  Congregation  of  the  Brethren.  The  matter  was  discussed  by  them  in  the
+Hall  of  Truth,  as  to  how  the  leather-coated  mendicant  fancied  he  was  being
+saluted  and  met  with  his  death.  The  Master  came  and  inquired  the  subject  of
+their  discussion  and  <jn  being  told  what  it  was  said,  "Not  now  only.  Brethren,
+but  of  old  too  this  ascetic  imagined  he  was  being  saluted  and  so  came  by  his
+death,"  and  he  then  related  to  them  an  old-world  legend.
+
+
+Once  upon  a  time  the  Bodhisatta  was  born  in  a  merchant  family  and
+plied  his  trade.  At  that  time  a  certain  religious  mendicant,  clad  in  a
+leather  garment,  in  going  his  rounds  for  alms,  came  to  the  rams'  fighting
+ground,  and  on  seeing  a  ram  falling  back  before  him,  he  fancied  it  did  this
+as  a  mark  of  respect,  and  did  not  himself  retire.  "In  the  whole  world,"
+he  thought,  "this  ram  alone  recognises  my  merits,"  and  raising  his  joined
+hands  in  respectful  salutation  he  stood  and  repeated  the  first  stanza :
+
+The  kindly  beast  obeisance  makes  before
+The  high-caste  brahmin  versed  in  holy  lore.
+
+Good  honest  creature  thou,
+Famous  above  all  other  beasts,  I  vow  !
+
+[83]  At  this  moment  a  wise  merchant  sitting  in  his  stores,  to  restrain
+the  mendicant,  uttered  the  second  stanza :
+
+Brahmin,  be  not  so  rash  this  beast  to  trust,
+Else  will  he  haste  to  lay  thee  in  the  dust,
+
+For  this  the  ram  falls  back,
+To  gain  an  impetus  for  his  attack.
+
+While  this  wise  merchant  was  still  speaking,  the  ram  came  on  at  full
+speed,  and  striking  the  mendicant  on  the  thigh,  knocked  him  down.     He
+
+1  See  R.  Morris,  Folk-Lore  Journal,  iii.  248.
+^  Mahdvagga,  viii.  28.  2.
+
+
+56  TJie  Jdtaka.     Booh  IV.
+
+was  maddened  with  the  pain  and  as  he  lay  groaning,  the  Master,  to  explain
+the  incident,  gave  utterance  to  the  third  stanza :
+
+With  broken  leg  and  bowl  for  alms  upset,
+
+His  damaged  fortune  he  will  sore  regret.
+
+Let  him  not  weep  with  outstretched  arms  in  vain.
+
+Haste  to  the  rescue,  ere  the  priest  is  slain.
+
+Then  the  mendicant  repeated  the  fourth  stanza :
+
+Thus  all  that  honour  to  the  unworthy  pay,
+Share  the  same  fate  that  I  have  met  to-day;
+Prone  in  the  dust  by  butting  ram  laid  low
+To  foolish  confidence  my  death  I  owe.
+
+[84]     Thus  lamenting  he  there  and  then  came  by  his  death.
+
+
+The  Master,  his  lesson  ended,  thus  identified  the  Birth:  "The  man  in  the
+leather  coat  of  to-day  was  the  same  then  as  ncnv.  And  I  myself  was  the  wise
+merchant."
+
+
+No.  325.
+
+
+GODHA-JATAKA
+
+
+"  One  that  plays"  etc. — This  story  was  told  by  the  Master,  while  living  at
+Jetavana,  with  regard  to  a  certain  cheating  rogue.  The  introductory  story  has
+been  already  given  in  full.  Bvit  on  this  occasion  they  brought  the  Brother  to
+the  Master  and  exposed  him,  saying,  "Holy  Sir,  this  Brother  is  a  cheat."  The
+Master  said,  "  Not  now  only,  but  formerly  also  he  was  a  rogue."  And  then  he
+told  an  old-world  story.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  as  a  young  lizard,  and  when  he  grew  up  and  was
+lusty  and  strong,  he  dwelt  in  a  forest.  And  a  certain  wicked  ascetic  built
+a  hut  of  leaves,  and  took  up  his  abode  near  him.  The  Bodhisatta,  in
+ranging  about  for  food,  saw  this  hut  of  leaves  and  thought  to  himself,
+
+1  Compare  No.  277,  vol.  ii.
+
+
+No.  325.  57
+
+"This  hut  must  certainly  Vjelong  to  some  holy  ascetic,"  and  he  went
+there  and  after  saluting  the  holy  man  retiirned  to  his  own  place  of
+abode.
+
+Now  one  day  this  false  ascetic  ate  some  savouiy  food  pi-epared  in  the
+house  of  one  of  his  retainers,  and  asked  what  meat  it  was.  On  hearing
+that  it  was  lizard-flesh,  he  became  such  a  slave  to  his  love  of  dainties  that
+he  thought,  "  I  will  kill  this  lizard  that  so  constantly  keeps  coming  to  my
+hermitage  and  will  cook  him  to  my  taste  and  eat  him."  So  he  took  some
+ghee,  curds,  condiments  and  the  like,  and  went  with  his  club  concealed
+under  his  yellow  robe  and  sat  perfectly  still  at  the  door  of  his  hut,  waiting
+for  the  Bodhisatta  to  come,  as  quiet  as  quiet  could  be.
+
+[85]  And  when  the  Bodhisatta  saw  this  depraved  fellow  he  thought,
+"  This  wretch  must  have  been  eating  the  flesh  of  my  kinsfolk.  I  will  put
+it  to  the  test."  So  he  stood  to  leeward  of  him  and  getting  a  whifi"  from  his
+person  he  knew  that  he  had  been  eating  the  flesh  of  a  lizard,  and  without
+going  near  him  he  turned  back  and  made  ofi".  And  when  the  ascetic  saw
+he  was  not  coming,  he  threw  his  club  at  him.  The  club  missed  his  body,
+but  just  reached  the  tip  of  his  tail.  The  ascetic  said,  "  Be  ofi"  with  you,  I
+have  missed  you."  Said  the  Bodhisatta,  "Yes,  you  have  missed  me,  but
+you  will  not  miss  the  fourfold  States  of  SuS'ering."  Than  he  ran  ofi"  and
+disappeared  in  an  ant-hill  which  stood  at  the  end  of  the  cloister  walk,  and
+putting  out  his  head  at  some  other  hole,  he  addressed  the  ascetic  in  these
+two  stanzas :
+
+One  that  plays  the  ascetic  role
+Should  exhibit  self-control.
+Thou  didst  hurl  thy  stick  at  me,
+False  ascetic  thou  must  be.
+
+Matted  locks  and  robe  of  skin
+Serve  to  cloke  some  secret  sin.
+Fool !   to  cleanse  for  outward  show,
+Leaving  what  is  foul  below.
+
+The  ascetic,  on  hearing  this,  replied  in  a  third  stanza  :
+
+Prithee,  lizard,  hasten  back.
+Oil  and  salt  I  do  not  lack  :
+Pepper  too  I  would  suggest
+May  to  boiled  rice  add  a  zest.
+
+[86]  The  Bodhisatta,  on  hearing  this,  uttered  the  fourth  stanza :
+
+I  will  hide  me  snug  and  warm
+Midst  the  anthill's  myriad  swarm.
+Cease  of  oil  and  salt  to  prate.
+Pepper  I  abominate.
+
+Moreover  he  threatened  him  and  said,  "Fie!  false  ascetic,  if  you  con-
+tinue to  dwell  here,  I  will  have  you  seized  as  a  thief  by  the  people  who
+
+
+58  The  Jdtaka.     Book  IV.
+
+live  in  my  feeding  ground,  and  given  over  to  destruction.     So  make  haste
+and  be  oflF."     Then  the  false  ascetic  fled  from  that  place.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth:  "At  that  time  the  rogue
+of  a  Brother  was  the  false  ascetic,  but  I  myself  was  the  royal  lizard."
+
+
+No.  326.
+
+
+KAKKARU-JATAKA.
+
+" He  that  from  thievish  act"  etc.  —This  story  was  told  by  the  Master  while
+he  was  at  Jetavana,  about  Devadatta,  how  that  after  causing  a  schism  in  the
+Order,  as  he  was  going  away  with  his  chief  disciples,  when  the  assembly  broke
+\\\),  a  hot  stream  of  blood  gushed  from  his  mouth.  Then  the  Brethren  discussed
+the  matter  in  the  Hall  of  Truth,  and  said  that  Devadatta  by  speaking  falsely  had
+created  a  schism,  and  afterwards  fell  sick  and  suffered  great  pain.  The  Master
+came  and  inquired  what  subject  the  Brethren  were  discussing  as  they  sat  in
+conclave,  and  on  hearing  what  it  was  he  said,  "  Not  now  only.  Brethren,  but  of
+old  too  this  fellow  was  a  liar,  and  not  now  only,  but  of  old  also  he  suffered  pain
+as  the  penalty  of  lying."    And  so  saying  he  repeated  this  old-world  legend.
+
+
+[87]  Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,
+the  Bodhisatta  became  a  certain  god  in  the  heaven  of  the  Thirty-three.
+Now  at  this  time  thei*e  was  a  great  festival  at  Benares.  A  crowd  of
+Nagas  and  Garuda  birds  and  terrestrial  deities  came  and  watched  the
+festival.  And  four  divine  beings  from  the  heaven  of  the  Thirty-three,
+wearing  a  wreath  made  of  heavenly  kakkaru  flowers,  came  to  see  the
+festival.  And  the  city  for  the  space  of  twelve  leagues  was  filled  with
+the  fragrance  of  these  flowers.  Men  moved  about,  wondering  by  whom
+these  flowers  were  worn.  The  gods  said,  "They  are  watching  us,"  and
+flying  up  from  the  royal  court,  by  an  act  of  supernatural  power  they
+stood  poised  in  the  air.  The  multitude  gathered  together,  and  the  king
+with  his  vassal  princes  came  and  asked  from  what  world  of  the  gods  they
+had  come.
+
+"  We  come  from  the  heaven  of  the  Thirty-three."
+
+"For  what  purpose  are  you  come?"
+
+"Tosee  the  festival."
+
+
+Ro.  326.  59
+
+"  What  are  these  flowers  1 "
+
+"  They  are  called  the  heavenly  kakkaru  flowers."
+
+"  Sirs,"  they  said,  "in  the  world  of  the  gods  you  may  have  other  flowers
+to  wear.     Give  these  to  us."
+
+The  gods  made  answer,  "These  divine  flowers  are  dt  for  those  possessed
+of  great  powers :  for  the  base,  foolish,  faithless  and  sinful  beings  in  this
+world  of  men  they  are  not  titted.  But  whosoever  amongst  men  ai-e  endued
+with  such  and  such  virtues,  for  them  they  are  suitable."  And  with  these
+words  the  chief  amongst  these  divine  beings  I'epeated  the  first  stanza  : —
+
+He  that  from  thievish  act  refrains.
+
+His  tongue  from  lying  word  restrains,
+
+And  reaching  dizzy  heights  of  fame
+
+Still  keeps  his  head — this  flower  may  claim.
+
+[88]  On  hearing  this  the  family  })riest  thought,  "  I  own  not  one  of
+these  qualities,  but  by  telling  a  lie  I  will  get  these  flowers  to  wear,  and
+thus  the  people  will  credit  me  with  these  virtues."  Then  he  said,  "I  am
+endued  with  these  qualities,"  and  he  had  the  flowers  brought  to  him  and
+he  put  them  on,  and  then  begged  of  the  second  god,  who  replied  in  a
+second  stanza : —
+
+He  that  should  honest  wealth  pursue
+And  riches  gained  by  fraud  eschew,
+In  pleasure  gross  excess  would  shun,
+This  heavenly  flower  has  duly  won.
+
+Said  the  priest,  "I  am  endued  with  these  virtues,"  and  had  the  flowers
+brought  to  him  and  put  them  on,  and  then  begged  of  the  third  god,  who
+uttered  the  third  stanza  : —
+
+He  that  from  purpose  fixed  ne'er  swerves
+And  his  unchanging  faith  preserves,
+Choice  food  alone  scorns  to  devour.
+May  justly  claim  this  heavenly  flower.
+
+[89]  Said  the  priest,  "  I  am  endued  with  these  virtues,"  and  had  the
+flowers  brought  to  him  and  he  put  them  on,  and  then  begged  of  the  fourth
+god,  who  spoke  the  fourth  stanza  : —
+
+He  that  good  men  will  ne'er  attack
+When  present,  nor  behind  their  back,
+And  all  he  says,  fulfils  in  deed.
+This  flower  may  claim  as  his  due  meed.
+
+The  priest  said,  "  I  am  endued  with  these  virtues,"  and  he  had  the
+flowers  brought  to  him  and  put  them  on.  So  these  divine  beings  gave  the
+four  wreaths  of  flowers  to  the  priest  and  returned  to  the  world  of  gods.
+As  soon  as  they  were  gone,  the  priest  was  seized  with  a  violent  pain  in  the
+head,  as  if   it  were  being  pounded  by  a  sharp  spike,  or  crushed  by  an
+
+
+60  The  Jdtaha.     Booh  IV.
+
+instrument  of  iron.  Maddened  with  the  pain  he  rolled  up  and  down,  and
+cried  out  with  a  loud  voice.  When  men  asked,  "What  means  this?"  he
+said,  "  I  claimed  these  virtues  when  I  had  them  not,  and  spoke  falsely  and
+so  begged  these  flowers  of  the  gods  :  take  them  from  off  my  head."  They
+would  have  removed  them,  but  could  not,  for  they  were  fastened  as  it  were
+with  an  iron  band.  Then  they  raised  him  up  and  led  him  home.  And  as
+he  lay  there  crying  alovid,  seven  days  passed.  The  king  spake  to  his
+councillors  and  said,  "  This  wicked  brahmin  will  die.  What  are  we  to
+dol"  "My  lord,"  they  answered,  "let  us  again  celebrate  a  festival.  The
+sons  of  the  gods  will  come  back,"
+
+[90]  And  the  king  held  a  festival,  and  the  sons  of  the  gods  returned
+and  filled  all  the  city  with  the  perfume  of  the  flowers,  and  took  their  stand
+in  the  same  place  in  the  royal  court.  The  people  gathered  together,  and
+bringing  that  wicked  brahmin  they  laid  him  down  before  the  gods  on  his
+belly.  He  prayed  the  gods,  saying,  "  My  lords,  spare  ray  life."  They  said,
+"  These  flowers  ai-e  not  meet  for  a  wicked  and  evil  man.  You  thought  in
+your  heart  to  deceive  us.  You  have  received  the  reward  of  your  false
+words."
+
+After  thus  rebuking  him  in  the  presence  of  the  people,  they  removed
+the  wreath  of  flowers  from  his  head  and  having  admonished  the  people,
+they  returned  to  their  own  place  of  abode.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth  :  "  At  that  time
+Devadatta  was  the  brahmin,  of  the  divine  beings  Kassapa  was  one,  Moggallana
+was  another,  Sariputta  a  third,  and  1  myself  was  the  chief  one  of  all."
+
+
+No.  327.
+
+KAKATI-JATAKA.'
+
+"Fragrant  odours"  etc. — This  story  was  told  by  the  Master  while  i-esiding
+at  Jetavana,  of  a  certain  Brother  who  regretted  having  taken  orders.  On  this
+occasion  the  Master  asked  the  Brother  if  it  were  true  that  he  was  discontented,
+and  on  his  answering,  "  Yes,  Holy  Sir,"  he  asked  him  the  reason.  The  Brother
+replied,  "By  reason  of  sinful  passion."  The  Master  said,  "Woman  cannot  be
+guarded.  There  is  no  keeping  her  safe.  Sages  of  old  placed  a  woman  in  mid
+ocean  in  a  palace  by  the  Simbali  lake  2,  but  failed  to  preserve  her  honour."  Then
+he  told  a  story  of  the  olden  time.
+
+
+1  Compare  No.  360  infra.
+
+2  On  Mount  Meru :  the  Garudas  live  round  it.
+
+
+No.  327.  61
+
+Once  upoa  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  the  son  of  the  king  by  his  queen- consort.  And
+when  he  was  grown  up,  at  his  father's  death  he  bare  rule.  Kakati  was  his
+chief  queen  and  as  lovely  as  an  Apsara.  [91]  The  old  form  of  the  legend
+will  be  found  set  forth  in  full  in  the  Kunala  Births  Here  follows  a  brief
+summary  of  it.
+
+Now  at  this  time  a  certain  Garuda  king  came  disguised  as  a  man,  and
+played  at  dice  with  the  king  of  Benares.  Falling  in  love  with  the  chief
+queen  Kakati,  he  carried  her  oft'  with  him  to  the  dwelling  place  of  the
+Garudas  and  lived  happily  with  her.  The  king  missing  her  told  his
+musician  named  Natakuvei'a  to  go  in  quest  of  her.  He  found  the  Garuda
+king  lying  on  a  bed  of  eraka  grass  in  a  certain  lake,  and  just  as  the
+Garuda  was  on  the  point  of  leaving  that  spot,  he  seated  himself  in  the
+midst  of  the  royal  bird's  plumage",  and  was  in  this  way  conveyed  to  the
+dwelling  place  of  the  Garudas.  There  he  enjoyed  the  lady's  favours,  and
+again  seating  himself  on  the  bird's  wing  returned  home.  And  when  the
+time  came  for  the  Garuda  to  play  at  dice  with  the  king,  the  minstrel  took
+his  lute  and  going  up  to  the  gaming  board  he  stood  before  the  king,  and  in
+the  form  of  a  song  gave  utterance  to  the  first  stanza  : —
+
+Fragrant  odovu's  round  me  playing
+
+Breath  of  fair  Kakati's  love,
+From  her  distant  home  conveying
+
+Thoughts  my  inmost  soul  to  move.
+
+On  hearing  this  the  Garuda  responded  in  a  second  stanza  : —
+
+Sea  and  Kebuk  stream  defying
+
+Didst  thou  reach  my  island  home  ?
+Over  seven  oceans  flying
+
+To  the  Simbal  grove  didst  come?
+
+[92]  Natakuvera,  on  hearing  this,  uttered  the  third  stanza : —
+
+'Twas  through  thee  all  space  defying
+
+I  was  borne  to  Simbal  grove.
+And  o'er  seas  and  rivers  flying
+
+'Twas  through  thee  I  found  my  love.
+
+Then  the  Garuda  king  replied  in  the  fourth  stanza : —
+
+Out  upon  the  foolish  blimder,
+
+What  a  booby  I  have  been !
+Lovers  best  were  kept  asunder,
+
+Lo!  I've  sei'\'ed  as  go-between.
+
+So  the  Garuda  brought  the  queen  and  gave  her  back  to  the  king  of
+Benares,  and  came  not  there  any  more.
+
+
+5  No.  536.
+
+-  Compare  Tibetan  Tales,  xri.  p.  231,  Susroni.
+
+
+62  The  Jataka.     Book  IV.
+
+The  Master,  his  lesson  ended,  revealed  the  Truths  and  identified  the  Birth  :—
+At  the  conclusion  of  the  Truths  the  discontented  Brother  attained  the  fruition  of
+the  First  Path  : — "  At  that  time  the  discontented  Brother  was  Natakuvera,  and
+I  myself  was  the  king."
+
+
+No.  328.
+
+
+ANANUSOCIYA-JATAKA.
+
+"  Why  should  I  shed  tears,"  etc. — This  story  was  told  by  the  Master  while
+living  at  Jetavana,  of  a  certain  landowner  who  had  lost  his  wife.  On  her  death,
+they  say,  he  neither  washed  himself  nor  took  food,  and  neglected  his  farm  duties.
+Overcome  with  grief  he  would  wander  about  the  cemetery  lamenting,  while  his
+predestination  to  enter  the  First  Path  blazed  forth  like  a  halo  about  his  head.
+The  Master,  early  one  morning,  casting  his  eye  upon  the  woi-ld  and  beholding
+him  said,  "Save  me  there  is  no  one  that  can  remove  this  man's  sorrow  and
+bestow  upon  him  the  power  of  entering  the  First  Path.  I  will  be  his  refuge."
+So  when  he  had  returned  from  his  rounds  and  had  eaten  his  meal,  he  took  an
+attendant  priest  and  went  to  the  door  of  the  landowner's  house.  [93]  And  he  on
+hearing  that  the  Master  was  coming  went  out  to  meet  him,  and  with  other
+marks  of  respect  seated  him  in  the  prescribed  seat  and  came  and  sitting  on  one
+side  saluted  him.
+
+The  Master  asked,  "  Wherefore,  lay  brother,  are  you  silent  1 "
+
+"  Reverend  Sir,"  he  replied,  "  I  am  grieving  for  her."
+
+The  Master  said,  "  Lay  brother,  that  which  is  breakable  is  broken,  but  when
+this  happens,  one  ought  not  to  grieve.  Sages  of  old,  when  they  lost  a  wife,  knew
+this  truth,  and  therefore  sorrowed  not."  And  then  at  his  request  the  Master  told
+an  old-world  tale.
+
+
+The  old  legend  will  be  found  set  forth  in  the  Cullabodhi  Birth'  in  the
+Tenth  Book.      Here  follows  a  short  summary  of  it.
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  into  a  brahmin  family.  And  when  he  grew  up,  he
+studied  all  the  arts  at  Takkasila  and  then  i-eturned  to  his  parents.  In
+this  Birth  the  Great  Being  became  a  holy  young  student.  Then  his
+parents  told  liim  they  woidd  look  out  a  wife  for  him.
+
+"  I  have  no  desire  for  a  married  life,"  said  the  Bodhisatta.  "■  When
+you  are  dead,  I  will  adopt  the  religious  life  of  an  ascetic."
+
+And  being  greatly  importuned  by  them,  he  had  a  golden  image"  made,
+
+1  No.  443.
+
+2  For  the  incident  of  the  golden  image  and  the  story  generally  compare  Tibetan
+Tales,  IX.  p.  186.  MaJidhds'yapa  and  Bhadrd,
+
+
+No.   328.  63
+
+and  said,  '  If  you  can  find  me  a  maiden  like  unto  this,  I  will  take  her  to
+wife.'  His  parents  sent  forth  some  emissaries  with  a  large  escort,  and
+bade  them  place  the  golden  image  in  a  covered  carriage  and  go  and  search
+through  the  plains  of  India,  till  they  found  just  such  a  young  brahmin  girl,
+when  they  were  to  give  this  golden  image  in  exchange,  and  bring  the  girl
+back  with  them.  Now  at  this  time  a  certain  holy  man  passing  from  the
+Brahma  world  was  born  again  in  the  form  of  a  young  girl  in  a  town
+in  the  kingdom  of  Kasi,  in  the  house  of  a  brahmin  worth  eighty  crores,
+and  the  name  given  her  was  Sammillabhasini.  At  the  age  of  sixteen  she
+was  a  fair  and  gracious  maiden,  like  to  an  Apsara,  endued  with  all  the
+marks  of  female  beauty.  And  since  no  thought  of  evil  was  ever  suggested
+to  her  by  the  power  of  sinful  passion,  she  was  perfectly  pure.  [94]  So  the
+men  took  the  golden  image  and  wandered  about  till  they  reached  this
+village.  The  inhabitants  on  seeing  the  image  asked,  "Why  is  Sammilla-
+bhasini, the  daughter  of  such  and  such  a  brahmin,  placed  there  1 "  The
+messengers  on  hearing  this  found  the  brahmin  family,  and  chose  Sammilla-
+bhasini for  the  prince's  bride.  She  sent  a  message  to  her  parents,  saying,
+"  When  you  are  dead,  I  shall  adopt  the  religious  life ;  I  have  no  desire  for
+the  married  state."  They  said,  "What  art  thou  thinking  of,  maiden?"
+And  acce^oting  the  golden  image  they  sent  off  their  daughter  with  a  great
+retinue.  The  marriage  ceremony  took  place  against  the  wishes  of  both  the
+Bodhisatta  and  Sammillabhasini.  Though  sharing  the  same  room  and  the
+same  bed  they  did  not  regard  one  another  with  the  eye  of  sinful  passion,
+but  dwelt  together  like  two  holy  men  or  two  female  saints.
+
+By  and  bye  the  father  and  mother  of  the  Bodhisatta  died.  He  per-
+formed their  funeral  rites  and  calling  to  him  Sammillabhasini,  said  to  her,
+"  My  dear,  my  family  property  amounts  to  eighty  crores,  and  yours  too  is
+worth  another  eighty  crores.  Take  all  this  and  enter  upon  household  life.
+I  shall  become  an  ascetic."
+
+"Sir,"  she  answered,  "if  you  become  an  ascetic,  I  will  become  one  too.
+I  cannot  foi'sake  you."
+
+"  Come  then,"  he  said.  So  spending  all  their  wealth  in  almsgiving  and
+throwing  up  their  worldly  fortune  as  it  were  a  lump  of  phlegm,  they
+journeyed  into  the  Himalaya  country  and  both  of  them  adopted  the  ascetic
+life.  There  after  living  for  a  long  time  on  wild  fruits  and  roots,  they  at
+length  came  down  fi'om  the  Himalayas  to  procure  salt  and  vinegar,  and
+gradually  found  their  way  to  Benares,  and  dwelt  in  the  royal  grounds.
+And  while  they  were  living  there,  this  young  and  delicate  female  ascetic,
+from  eating  insipid  rice  of  a  mixed  quality,  was  attacked  by  dysentery  and
+not  being  able  to  get  any  healing  remedies,  she  grew  very  weak.  The
+Bodhisatta  at  the  time  for  going  his  rounds  to  beg  for  alms,  took  hold  of
+her  and  carried  her  to  the  gate  of  the  city  and  there  laid  her  on  a  bench
+in  a  certain  hall,  and  himself  went  into  the  city  for  alms.     He  had  scarce
+
+
+64  The  Jataka.     Book  IV.
+
+gone  out  when  she  expired.  The  people,  beholding  the  great  beauty  of
+this  female  ascetic,  [95]  thronged  about  her,  weeping  and  lamenting.  The
+Bodhisatta  after  going  his  round  of  begging  returned,  and  heai'ing  of  her
+death  he  said,  "  That  which  has  the  quality  of  dissolution  is  dissolved.
+All  impermanent  existences  are  of  this  kind."  With  these  words  he  sat
+down  on  the  bench  whereon  she  lay  and  eating  the  mixture  of  food  he
+rinsed  out  his  mouth.  The  people  that  stood  by  gathered  round  him  and
+said,  "  Reverend  Sir,  what  was  this  female  ascetic  to  you  1 "
+"When  I  was  a  layman,"  he  replied,  "she  was  my  wife."
+"  Holy  Sir,"  they  said,  "  while  we  weep  and  lament  and  cannot  control
+our  feelings,  why  do  you  not  weep  1 "
+
+The  Bodhisatta  said,  "While  she  was  alive,  she  belonged  to  me  in  some
+sort.  Nothing  belongs  to  her  that  is  gone  to  another  world  :  she  has
+passed  into  the  power  of  others.  Wherefore  should  I  weep?"  And
+teaching  the  people  the  Truth,  he  recited  these  stanzas  :
+
+Why  should  I  shed  tears  for  thee.
+Fair  Sammillabhasini  ?
+Passed  to  death's  majority ^
+Thou  art  henceforth  lost  to  me.
+
+Wherefore  should  frail  man  lament
+What  to  him  is  only  lent  ?
+He  too  draws  his  mortal  bi'eath
+Forfeit  every  hour  to  death.
+
+Be  he  standing,  sitting  still.
+Moving,  resting,  what  he  will.
+In  the  twinkling  of  an  eye,
+In  a  moment  death  is  nigh.
+
+Life  I  count  a  thing  unstable.
+Loss  of  friends  inevitable.
+Cherish  all  that  are  alive.
+Sorrow  not  shouldst  thou  survive.
+
+[97]  Thus  did  the  Great  Being  teach  the  Truth,  illustrating  by  these
+four  stanzas  the  impermanence  of  things.  The  people  performed  funeral
+rites  over  the  female  ascetic.  And  the  Bodhisatta  returned  to  the
+Himalayas,  and  entering  on  the  higher  knowledge  arising  from  mystic
+meditation  was  destined  to  birth  in  the  Brahma-world.
+
+
+The  Master,  having  ended  his  lesson,  revealed  the  Truths  and  identified  the
+Birth  : — At  the  conclusion  of  the  Truths,  the  landowner  attained  to  fruition  of
+the  Fii'st  Path: — "At  that  time  the  mother  of  Rahula  was  Sammillabhasini,
+and  I  myself  was  the  ascetic."
+
+^  Compare  the  classical  usage  of  ot  TrXelovs,  plures,  for  the  dead.
+
+
+No.   329.  65
+
+
+No.  329.
+
+
+KALABAHU-JATAKA.
+
+"  Once  we  enjoyed"  etc. — This  was  a  story  told  by  the  Master  while  dwelling
+in  the  Bamboo  Grove,  with  regard  to  Devadatta's  loss  of  gains  and  honour.  For
+when  Devadatta  had  unreasonably  conceived  a  grudge  against  the  Buddha  and
+suborned  a  band  of  archers  to  slay  him,  his  offence  became  known  by  the  letting
+loose  of  the  elephant  Nalagiri  ^.  Then  men  took  away  his  office  and  the  rations
+provided  for  him,  and  the  king  ceased  to  regard  him.  And  having  lost  his
+source  of  gains  and  honour,  he  went  about  living  on  what  he  begged  in  noble
+families.  The  Brethren  started  a  discussion  in  the  Hall  of  Truth,  how  that
+Devadatta  thought  to  get  gain  and  honour,  but  when  he  had  got  it  he  could  not
+keep  it.  The  Master  came  and  inquired  what  was  the  subject  the  Brethren  sat
+in  conclave  to  discuss,  and  on  being  told  what  it  was  he  said,  "  Not  only  now,
+Brethren,  but  formerly  too,  Devadatta  was  deprived  of  gains  and  honour."  And
+he  then  told  them  an  old-world  legend.
+
+
+Once  upon  a  time  when  Dhananjaya  was  reigning  in  Benares,  the
+Bodhisatta  became  a  parrot  named  Radha.  He  was  a  well-grown  bird
+with  perfectly-formed  limbs.  And  his  younger  brother  was  called
+Potthapada.  A  certain  fowler  trapped  these  two  birds  and  brought
+them  as  a  present  to  the  king  of  Benares.  The  king  put  the  pair  in
+a  golden  cage  [98]  and  took  care  of  them  and  gave  them  honey  and
+parched  corn  to  eat  in  a  golden  dish  and  sugar-water  to  drink.  Great
+attention  was  paid  them,  and  they  attained  to  the  highest  degree  of
+profit  and  honour.  Then  a  certain  forester  brought  a  big  black  monkey,
+called  Kalabahu,  as  a  present  to  the  king,  and  fi*om  the  fact  of  his  coming
+later  than  the  parrots,  he  received  still  greater  gain  and  I'espect,  while  that
+paid  to  the  parrots  fell  ofi".  The  Bodhisatta  through  his  possession  of
+Buddha  qualities  said  not  a  word,  but  his  younger  brother,  from  the
+absence  of  these  qualities  being  unable  to  put  up  with  the  honour  paid  to
+the  monkey,  said,  "Brother,  formerly  in  this  royal  house  men  gave  us
+savoury  food,  but  now  we  get  nothing,  and  they  offer  it  all  to  the  monkey
+Kalabahu.  As  we  receive  neither  gain  nor  honour  in  this  place  from  the
+king,  what  are  we  to  do  %  Come,  let  us  go  and  live  in  the  forest."  And
+as  he  talked  with  him,  he  uttered  the  first  stanza  :
+
+Once  we  enjoyed  of  food  abundant  store,
+This  monkey  now  has  what  was  ours  before.
+Come,  Radha,  let  us  to  the  forest  hie  ;
+Such  scurvy  treatment  what  can  justify?
+
+1  See  vol.  ii.  p.  140,  and  p.  168.
+
+J.  III.  5
+
+
+66  The  Jdtaka.     Book  IV.
+
+Radha,  on  hearing  this,  replied  in  the  second  stanza :
+
+Gain  and  loss  and  praise  and  blame,
+Pleasure,  pain,  dishonour,  fame,
+All  as  transient  states  conceive —
+Why  should  Potthajjada  grieve  ?
+
+[99]  On  hearing  this,  Potthapada  was  unable  to  get  rid  of  his  grudge
+against  the  monkey  and  repeated  the  third  stanza :
+
+Eadha,  wisest  bird  alive.
+
+Sure  thou  knowest  things  to  come,
+This  vile  creature  who  shall  drive
+
+From  the  court  to  his  old  home  ?
+
+Radha,  on  hearing  this,  uttered  the  fourth  stanza  :
+
+Oft  will  his  puckered  face  and  moving  ears
+The  royal  children  fill  with  foolish  fears  :
+Soon  Kalabahu  through  some  impish  freak,
+Far  far  away  his  food  will  have  to  seek.
+
+In  a  very  short  time  the  monkey  by  shaking  his  ears  and  the  like
+tricks  before  the  young  princes  terrified  them.  In  their  alarm  they  made
+an  outcry.  The  king  asked  what  it  meant,  and  hearing  the  cause,  said,
+"  Drive  him  away."  So  he  had  the  monkey  driven  away,  and  the  parrots
+wei'e  restored  to  their  former  condition  of  gain  and  honour.
+
+
+[100]  The  Master  here  ended  his  lesson  and  identified  the  Birth  : — "At  that
+time  Devadatta  was  Kalabahu,  Ananda  was  Potthapada,  and  I  myself  was
+Eadha."
+
+
+No.  330.
+
+
+SILAVIMAMSA-JATAKA.
+
+^'■Po^ver  on  earth,^'  eic— This  was  a  story  told  by  the  Master  when  at  Jetavana,
+about  a  brahmin  who  was  ever  proving  his  virtue.  Two  similar  stories  have
+been  told  before^.  In  this  case  the  Bodhisatta  was  the  family  priest  of  the  king
+of  Benares.
+
+
+1  No.  86,  Vol.  i.,  and  No.  290,  Vol.  ii,
+
+
+No.  330.  67
+
+In  testing  his  virtue  he  for  three  days  took  a  coin  from  the  royal
+treasurer's  board.  They  informed  against  him  as  a  thief,  and  when
+brouglit  before  the  king,  he  said  :
+
+Power  on  earth  beyond  compare.
+
+Virtue  owns  a  wondrous  charm :
+Putting  on  a  virtuous  air
+
+Deadly  snakes  avoid  all  harm.
+
+After  thus  praising  virtue  in  the  first  stanza,  he  gained  the  king's
+consent  and  adopted  the  ascetic  life.  Now  a  hawk  seized  a  piece  of  meat
+in  a  butcher's  shop  and  darted  up  into  the  air.  The  other  birds  surrounded
+him  and  struck  at  him  with  feet,  claws  and  beaks.  Unable  to  bear  the
+pain  he  dropped  the  piece  of  meat.  Another  bird  seized  it.  It  too  in  like
+manner  being  hard  pressed  let  the  meat  fall.  Then  another  bird  pounced
+on  it,  and  whosoever  got  the  meat  was  pursued  by  the  rest,  and  whosoever
+let  it  go  was  left  in  peace.  The  Bodhisatta  on  seeing  this  thought,
+"These  desires  of  ours  are  like  pieces  of  meat.  To  those  that  grasp  at
+them  is  sorrow,  and  to  those  that  let  them  go  is  peace."  And  he  repeated
+the  second  stanza  :
+
+While  the  hawk  had  aught  to  eat.
+
+Birds  of  prey  pecked  at  him  sore,
+When  perforce  he  dropped  the  meat.
+
+Then  they  pecked  at  him  no  more.
+
+[101]  The  ascetic  going  forth  from  the  city,  in  the  course  of  his  journey
+came  to  a  village,  and  at  evening  lay  down  in  a  certain  man's  house.  Now  a
+female  slave  there  named  Piugala  made  an  assignation  with  a  man,  saying,
+"You  ai'e  to  come  at  such  and  such  an  hour."  After  she  had  bathed  the
+feet  of  her  master  and  his  family,  when  they  had  lain  down,  she  sat  on  the
+thi'eshold,  looking  out  for  the  coming  of  her  lover,  and  passed  the  first  and
+the  middle  watch,  repeating  to  herself,  "  Now  he  will  be  coming,"  but  at
+daybreak,  losing  hope,  she  said,  "He  will  not  come  now,"  and  lay  down  and
+fell  asleep.  The  Bodhisatta  seeing  this  happen  said,  "This  woman  sat  ever
+so  long  in  the  hope  that  her  lover  would  come,  but  now  that  she  knows  he
+will  not  come,  in  her  despair,  she  slumbers  peacefully."  And  with  the
+thought  that  while  hope  in  a  sinful  world  brings  sorrow,  despair  brings
+peace,  he  uttered  the  thii'd  stanza :
+
+The  fruit  of  hope  fulfilled  is  bliss ;
+How  differs  loss  of  hope  from  this  ?
+Though  dull  despair  her  hope  destroys,
+Lo  !    Pingala  calm  sleep  enjoys ^
+
+Next  day  going  forth  from  that  village  he  entered  into  a  forest,  and
+beholding  a  hermit  seated  on  the  ground  and  indulging  in  meditation  he
+
+'  Compare  Sdnkhya  Aphorisvis,  iv.  11.     Mahdbhdrata,  xii,  6447.
+
+5—2
+
+
+68  The  Jataha.     Booh  IV.
+
+thought,  "Both  in  this  world  and  in  the  next  there  is  no  happiness  beyond
+the  bliss  of  meditation."     And  he  repeated  the  fourth  stanza  :
+
+In  this  world  and  in  worlds  to  be
+
+Nought  can  surpass  ecstatic  joy:
+To  holy  calm  a  devotee,
+
+Himself  unharmed,  will  none  annoy.
+
+[102]  Then  he  went  into  the  forest  and  adopted  the  ascetic  life  of  a
+Rishi  and  developed  the  higher  knowledge  born  of  meditation,  and  became
+destined  to  birth  in  the  Brahma- World.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth :  " At  that  time  I
+myself  was  the  family  priest."
+
+
+No.  331.
+
+KOKALIKA-JATAKA.
+
+'■'■They  that  with  speech  inopportune,^^  etc. — This  story  was  told  by  the  Master
+at  Jetavana  about  Kokalika.  The  introductory  story  is  told  in  full  in  the
+Takkarika  Birth  i.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  his  valued  minister.  Now  the  king  was  very  talkative.
+Thought  the  Bodhisatta,  "I  will  put  an  end  to  his  talkativeness,"  and  went
+about  looking  for  an  apt  illustration.  So  one  day  the  king  came  to  his
+garden  and  sat  down  on  the  royal  slab  of  stone.  Above  his  head  was  a
+mango  tree  and  there  in  a  crow's  nest  a  black  cuckoo  had  laid  her  e^g  and
+gone  off.  The  female  crow  watched  over  that  cuckoo's  egg.  By  and  bye  a
+young  cuckoo  came  forth  from  it  The  crow  thinking  it  was  her  own
+offspring  took  care  of  it,  bringing  food  for  it  in  her  beak.  The  young  bix"d
+while  still  unfledged  uttered  a  cuckoo  cry  prematurely.  The  crow  thought,
+"This  young  bird  even  now  utters  a  strange  note.  [103]  What  will  it  do,
+when  it  is  olderf  And  so  she  killed  it  by  pecking  it  with  her  beak  and
+threw  it  out  of  the  nest,  and  it  fell  at  the  king's  feet.     The  king  asked  the
+
+1  No,  481,     Compare  No.  215,  Vol,  ii,
+
+
+No.  331.  69
+
+Bodhisatta,  "What  is  the  meaning  of  this,  my  friend  1"  Thought  the
+Bodhisatta,  "  I  am  seeking  for  an  illustration  to  teach  the  king  a  lesson,
+and  now  I  have  got  one."  So  he  said,  "Garrulous  folk.  Great  King,  who
+talk  too  much  out  of  season,  meet  with  a  fate  like  this.  This  young  cuckoo,
+sire,  being  fostered  by  the  crow,  while  yet  unfledged,  uttered  a  premature
+cry.  So  the  crow  knew  it  was  not  her  offspring  and  killed  it  by  pecking
+it  with  her  beak  and  threw  it  out  of  the  nest.  All  those  that  are  too
+talkative  out  of  season,  be  they  men  or  beasts,  suffer  like  trouble."  And
+with  these  words  he  I'ecited  these  stanzas  :
+
+They  that  with  speech  inopportune  oft'end
+Like  the  young  cuckoo  meet  untimely  end.
+Nor  deadly  poison,  nor  sharp-whetted  sword
+Is  half  so  fatal  as  ill-spoken  word.
+
+The  sage  his  measured  words  discreetly  guides,
+Nor  rashly  to  his  second  self  confides :
+Before  he  speaks  will  prudent  counsel  take,
+His  foes  to  trap,  as  Garuda  the  snake.
+
+[104]  The  king,  after  hearing  the  religious  teaching  of  the  Bodhisatta,
+thenceforth  became  more  measured  in  his  words,  and  increasing  the  glory
+of  the  Bodhisatta  ever  gave  him  more  and  more.
+
+
+The  Master,  having  brought  his  lesson  to  an  end,  identified  the  Birth :
+"Kokalika  in  those  days  was  the  young  cuckoo,  and  I  myself  was  the  wise
+minister."
+
+
+No.  332.
+
+
+RATHALATTHI-JATAKA,
+
+"  Wounding  another^''  etc. — This  story  was  told  by  the  Master  when  he  was  at
+Jetavana,  about  the  family  priest  of  the  king  of  Kosala,  who,  it  is  said,  as  he  was
+driving  in  his  chariot  to  a  village  on  his  estate  came  upon  a  caravan  in  a  narrow
+road,  and  crying  out  once  and  again,  "Out  of  the  way  with  you,"  was  so  enraged
+at  a  cart  not  clearing  out  of  his  way  that  he  threw  his  goad-stick  at  the  driver  of
+the  first  cart.  The  stick  struck  against  the  yoke  of  the  chariot,  and  rebounding
+hit  him  on  the  forehead  and  raised  a  bump  on  his  head.  The  priest  turned  back
+and  went  and  told  the  king  he  had  been  wounded  by  some  carters.  The  carters
+were  summoned,  and  the  judges  examining  into  the  case  found  the  priest  only
+was  to  blame.     One  day  the  matter  was  discussed  in  the  Hall  of  Truth,  [105]
+
+
+70  The  Jataka.     Booh  IV.
+
+how  that  the  king's  chaplain,  who  said  he  had  been  assaulted  by  some  carters,  on
+going  to  law  was  cast  in  his  suit.  When  the  Master  came  and  inquired  what  the
+Brethren  were  sitting  in  council  to  discuss,  on  hearing  what  it  was  he  said,  "Not
+now  only.  Brethren,  Init  formerly  also  this  fellow  acted  in  precisely  the  same
+way."     And  he  then  told  them  a  story  of  the  olden  time.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  became  his  lord  justice.  The  king's  chaplain  drives  to  a  village
+where  he  was  headman,  and  acts  in  exactly  the  same  way  as  in  the  other
+tale,  but  in  this  version,  when  the  king  heard  the  priest's  story,  he  sum-
+moned the  carters  and  himself  sat  in  judgment,  and  without  examining
+into  the  matter  he  said,  "You  have  beaten  my  priest  and  raised  a  bump  on
+his  forehead,"  and  ordered  all  their  property  to  be  taken  from  them.  Then
+said  the  Bodhisatta  to  him,  "Sire,  without  even  investigating  the  matter
+you  oz'der  them  to  be  mulcted  of  all  their  goods,  but  some  men  after
+inflicting  wounds  on  themselves  declare  that  they  have  been  wounded  by
+another.  Therefore  it  is  wrong  for  one  who  bears  rule  to  act  thus  without
+trying  the  case.  He  ought  not  to  act  till  he  has  heard  everything."  And
+then  he  recited  these  verses  :
+
+Wounding  another,  his  own  wound  he  shows,
+Himself  the  smiter,  he  complains  of  blows.
+Wise  men,  0  king,  of  partial  views  beware.
+Hear  both  sides  first,  then  judgment  true  declare.
+The  idle  sensual  layman  I  detest.
+The  false  ascetic  is  a  rogue  confest.
+A  bad  king  will  a  case  unheard  decide,
+Wrath  in  the  sage  can  ne'er  be  justified.
+[106]  The  warrior  prince  a  well-weighed  verdict  gives.
+Of  righteous  judge  the  fame  for  ever  lives.
+
+The  king  on  hearing  the  words  of  the  Bodhisatta  judged  righteously,
+and  when  the  case  was  duly  tried,  the  blame  was  found  to  rest  with  the
+bi'ahmin  alone.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth :  "The  Brahmin  played  the
+same  part  in  both  stories,  and  I  myself  was  the  wise  minister  in  those  days."
+
+
+Ko.   333.  71
+
+
+No.  333.
+
+
+GODHA-JATAKA\
+
+"  Then  ivert  thou"  etc. — This  is  a  story  told  by  the  Master  while  at  Jetavana,
+of  a  certain  landowner.  The  introductory  story  has  been  told  in  full  before  2.
+But  in  this  case,  as  the  husband  and  wife  were  returning  home,  after  calling  in  a
+debt,  in  the  course  of  their  journey  some  hunters  gave  them  a  roasted  lizard,
+bidding  them  both  to  eat  of  it.  The  man  sent  his  wife  to  fetch  water  and  ate  up
+the  whole  lizard,  and  when  she  came  back,  he  said,  "My  dear,  the  lizard  has  run
+away."  "Well,  my  lord,"  she  said,  "what  can  one  do  with  a  roast  lizard  that
+runs  away?"  [107]  She  drank  some  water  and  afterwards  at  Jetavana  when
+sitting  in  the  presence  of  the  Master,  she  was  asked  by  him  as  follows:  "Lay
+sister,  is  this  man  affectionate,  loving  and  helpful  to  you?"  She  answered,  "I
+am  loving  and  affectionate  to  him,  but  he  has  no  love  for  me."  The  Master
+said,  "Well,  suppose  he  does  behave  thus  to  you.  Do  not  be  grieved.  When  he
+recalls  to  mind  your  virtues,  he  will  give  supreme  power  to  you  alone."  And  at
+their  request  he  related  an  old-world  story.
+
+
+This  old  story  is  just  like  the  one  given  above,  but  in  this  case,  as  the
+husband  and  wife  were  on  their  way  home,  some  hunters  saw  how  dis-
+tressed they  were  and  gave  them  a  roasted  lizard  and  bade  them  share  it
+between  them.  The  royal  lady  tied  it  about  with  a  creeper  used  as  a
+string,  and  went  on  her  way,  carrying  it  in  her  hand.  They  came  upon
+a  lake,  and  leaving  the  high  road  sat  down  at  the  foot  of  a  Bo-tree.
+The  prince  said,  "Go,  my  dear,  and  fetch  water  from  the  lake  in  a  lotus
+leaf,  then  we  will  eat  this  meat."  She  hung  the  lizard  on  a  bough  and
+went  to  fetch  water.  Her  companion  ate  up  all  the  lizard  and  then  sat
+with  averted  face,  holding  the  tip  of  the  tail  in  his  hand.  When  she
+returned  with  the  water,  he  said,  "My  dear,  the  lizard  came  down  from  the
+bough  and  made  for  an  ant-heap.  I  ran  and  seized  it  by  the  tip  of  its  tail.
+The  lizard  broke  in  two  and  left  in  my  hand  the  part  I  had  seized  and
+disappeared  in  the  hole,"
+
+"Well,  my  lord,"  she  replied,  "how  can  we  deal  with  a  roast  lizard
+that  runs  away  ?     Come,  let  us  be  off."
+
+And  so  drinking  the  water,  they  journey  to  Benares.  The  prince  when
+he  came  to  the  throne  gave  her  the  titular  rank  of  queen  consort,  but  no
+honour  or  respect  was  paid  to  her.  The  Bodhisatta,  desiring  to  win  honour
+for  her,  standing  in  the  king's  presence  asked  her,  "Lady,  is  it  not  the  case
+that  we  receive  nothing  at  your  hands  ^     Why  do  you  neglect  us  % "
+
+1  Compare  No.  223,  Vol.  ii.
+
+2  See  No.  320,  Vol.  iii.
+
+
+72  The  Jdtaka.     Booh  IV.
+
+"  Dear  sir,"  she  said,  "  I  get  nothing  from  the  king.  How  then  should
+I  give  a  present  to  you  1  What  is  the  king  likely  to  give  me  now?  When
+we  were  coming  from  the  forest,  he  ate  a  roast  lizard  all  by  himself."
+
+[108]  "Lady,"  he  said,  "the  king  would  not  act  after  this  sort.  Do
+not  speak  thus  of  him."
+
+Then  the  lady  said  to  him,  "  Sir,  this  is  not  clear  to  you,  but  it  is  clear
+enough  to  the  king  and  me,"  and  she  repeated  the  first  stanza : —
+
+Then  wert  thou  first  known  to  me,
+
+When  in  forest-depths,  0  king,
+
+Roasted  lizard  broke  its  string
+And  from  Bo-tree  branch  got  free.
+Though  'neath  robe  of  bark,  I  ween,
+Sword  and  coat  of  mail  were  seen.
+
+Thus  spake  the  queen,  making  known  the  king's  offence  in  the  midst
+of  his  courtiers.  The  Bodhisatta,  on  hearing  her,  said,  "  Lady,  ever  since
+the  time  when  your  husband  ceased  to  love  you,  why  do  you  go  on  living
+hei-e,  making  unpleasantness  for  both  ?  "  and  he  repeated  two  stanzas  : —
+
+To  one  that  honours  thee,  due  honour  show
+
+With  full  requital  of  good  service  done  :
+No  kindness  on  illiberal  folk  bestow.
+
+Nor  those  affect  that  would  thy  presence  shun.
+
+Forsake  the  wretch  who  has  forsaken  thee.
+And  love  not  one  who  has  for  thee  no  love,
+
+E'en  as  a  bird  forsakes  a  barren  tree.
+
+And  seeks  a  home  in  some  far  distant  grove.
+
+[109]  The  king,  while  the  Bodhisatta  was  yet  speaking,  called  to  mind
+her  virtues  and  said,  "  My  dear,  ever  so  long  I  observed  not  your  virtues,
+but  through  the  words  of  this  wise  man,  I  have  observed  them.  Bear  with
+my  offence.  This  whole  realm  of  mine  I  give  to  you  alone."  And  here-
+upon he  spoke  the  fourth  stanza :
+
+Far  as  in  his  power  may  be.
+
+Gratitude  a  king  should  show  :
+All  my  realm  I  grant  to  thee,
+
+Gifts,  on  whom  thou  wilt,  bestow.
+
+With  these  words  the  king  conferred  on  the  queen  supreme  power,  and
+thinking,  "It  was  by  this  man  that  I  was  reminded  of  her  virtues,"  he
+gave  great  power  to  the  wise  man  also.
+
+
+The  Master,  having  brought  his  lesson  to  an  end,  identified  the  Birth :— At
+the  conclusion  of  the  Truths,  both  husband  and  wife  attained  fruition  of  the
+First  Path  : — "  The  husband  and  wife  of  the  present  story  played  the  same  part
+in  the  old  tale.     But  I  myself  was  the  wise  minister."
+
+
+No.  334.  73
+
+No.  334.
+
+RAJOVADA-JATAKA.
+
+[110]  "  The  bull  through  floods"  etc. — This  story  was  told  by  the  Master  when
+at  Jetavaua  concerning  the  admonition  of  a  king.  The  introductory  story  will
+be  found  in  full  in  the  Tesakuna  Birth  i.  But  in  this  version  of  it  the  Master
+said,  "  Kings  of  old,  Sire,  hearkening  to  the  words  of  the  wise,  bare  rule  justly
+and  attained  to  the  heavenly  world."  And  at  the  request  of  the  king  he  told  a
+story  of  the  olden  times.
+
+
+Once  upon  a  time  when  Brahmadatta  was  i-eigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family.  And  when  he  came  of  age,  he
+was  trained  in  all  the  arts,  and  adopting  the  ascetic  life  he  developed  all
+the  Faculties  and  Attainments,  and  took  up  his  abode  in  a  pleasant  quarter
+of  the  Himalayas,  living  on  wild  fruits  and  roots.  At  this  time  the  king
+being  anxious  to  find  out  his  defects,  went  about  inquiring  if  there  was
+any  one  who  would  tell  him  his  faults.  And  not  finding  any  one  to  speak
+to  his  dispraise,  either  within  doors  or  without,  either  within  the  city  or
+outside  it,  he  wandered  about  the  country  side  in  disguise,  thinking,  "  How
+will  it  be  in  the  country  ? "  And  not  meeting  with  any  one  there  to  speak
+to  his  dispraise,  and  hearing  men  speak  only  of  his  merits,  he  thought,
+"  How  will  it  be  in  the  Himalaya  region  1 "  And  he  went  into  the  forest
+and  wandered  about  till  he  reached  the  hermitage  of  the  Bodhisatta,  where
+after  saluting  him,  and  addressing  him  in  a  friendly  manner  he  took  a
+seat  on  one  side.  At  that  moment  the  Bodhisatta  was  eating  some  ripe
+figs  which  he  had  brought  from  the  wood.  They  were  luscious  and  sweet,
+like  powdered  sugar.  He  addressed  the  king  and  said,  "Your  Excellency,
+pray  eat  this  ripe  fig  and  drink  some  water."
+
+The  king  did  so,  and  asked  the  Bodhisatta,  "  Why,  Reverend  Sir,  is
+this  ripe  fig  so  exceedingly  sweet  1 "
+
+"Your  Excellency,"  he  replied,  "the  king  now  exercises  his  rule  with
+justice  and  equ.ity.     That  is  why  it  is  so  sweet."
+
+[Ill]   "In  the  reign  of  an  unjust  king,  does  it  lose  its  sweetness,  Sir?"
+
+"Yes,  Your  Excellency,  in  the  time  of  unjust  kings,  oil,  honey,
+molasses  and  the  like,  as  well  as  wild  roots  and  fruits,  lose  their  sweetness
+and  flavour,  and  not  these  only  but  the  whole  realm  becomes  bad  and
+flavourless;  but  when  the  rulers  are  just,  these  things  become  sweet  and
+full  of  flavour,  and  the  whole  realm  recovers  its  tone  and  flavour."
+
+1  No.  521,  Vol.  V.
+
+
+74  The  Jataha.     Book  IV.
+
+The  king  said,  "  It  must  be  so,  Reverend  Sir,"  and  without  letting  him
+know  that  he  was  the  king,  he  saluted  the  Bodhisatta  and  returned  to
+Benares.  And  thinking  to  pi'ove  the  words  of  the  ascetic,  he  ruled  un-
+jiistly,  saying  to  himself,  "  Now  I  shall  know  all  about  it,"  and  after  the
+lapse  of  a  short  time  he  went  back  and  saluting  the  Bodhisatta,  sat
+respectfully  on  one  side.  The  Bodhisatta  using  exactly  the  same  words,
+offered  him  a  ripe  fig,  which  proved  to  be  bitter  to  his  taste.  Finding  it
+to  be  bitter  he  spat  it  out,  saying,  "  It  is  bitter,  Sir."
+
+Said  the  Bodhisatta,  "Your  Excellency,  the  king  must  be  unjust,  for
+when  rulers  are  unjust,  everything  beginning  with  the  wild  fruits  in  the
+wood,  lose  all  their  sweetness  and  flavour."  And  hereupon  he  recited  these
+stanzas : —
+
+The  bull  through  floods  a  devious  course  will  take.
+
+The  herd  of  kine  all  straggling  in  his  wake:
+
+So  if  a  leader  tortuous  paths  pursue.
+
+To  base  ends  will  he  guide  the  vulgar  crew.
+
+And  the  whole  realm  an  age  of  license  rue.
+
+But  if  the  bull  a  course  direct  should  steer.
+The  herd  of  kine  straight  follow  in  his  rear.
+So  should  their  chief  to  righteous  ways  be  true,
+The  common  folk  injustice  will  eschew.
+And  through  the  realm  shall  holy  peace  ensue.
+
+[112]  The  king  after  hearing  the  Bodhisatta's  exposition  of  the  Truth,
+let  him  know  he  was  the  king  and  said,  "  Holy  Sir,  formerly  it  was  due
+to  me  alone  that  the  figs  were  first  sweet  and  then  bitter,  but  now  I  will
+make  them  sweet  again."  Then  he  saluted  the  Bodhisatta  and  returned
+home,  and  ruling  righteously  restored  everything  to  its  original  condition.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth :   "  At  that  time
+Ananda  was  the  king,  and  I  myself  was  the  ascetic."
+
+
+No.  335.
+
+JAMBUKA-JATAKA.
+
+"■^ Jackal  beware"  etc. — This  story  was  told  by  the  Master  while  dwelling  in
+the  Bamboo  Gi'ove,  about  the  attempt  of  Devadatta  to  imitate  the  Buddha.  The
+incident  that  gave  rise  to  the  story  has  been  told  in  full  before '.  Here  is  a  short
+summary  of  it.
+
+1  See  No.  204,  Vol.  ii.
+
+
+No.  335.  75
+
+When  the  Master  asked  Saripiitta  what  Devadatta  did  when  he  saw  him,  the
+Elder  replied,  "  Sir,  in  taking  you  off  he  put  a  fan  in  my  hand  and  lay  down,  and
+then  Kokalika  struck  him  on  the  breast  with  his  knee :  and  so  in  taking  you  off
+he  got  into  trouble."  The  Master  said,  "This  happened  to  Devadatta  before,"
+and  being  pressed  by  the  Elder,  he  told  an  old-world  legend.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  as  a  young  lion,  and  dwelt  in  a  cave  of  the  Himalayas,
+[113]  and  one  day  after  killing  a  buffalo  and  eating  of  its  flesh  he  took  a
+draught  of  water  and  returned  home.  A  jackal  saw  him,  and  being
+unable  to  escape  lay  down  on  his  belly.
+
+The  lion  said,  "  What  is  the  meaning  of  this,  Mr  Jackal  1 "
+
+"  Sir,"  he  said,  "  I  would  be  your  servant."
+
+The  lion  said,  "  Well,  come  on  then,"  and  conducting  him  to  the  place
+where  he  dwelt,  he  day  by  day  brought  him  meat  and  fed  him.  When  the
+jackal  had  grown  fat  on  the  lion's  broken  meat,  one  day  a  feeling  of  pride
+sprang  up  in  him,  and  he  drew  nigh  to  the  lion,  and  said,  "  My  lord,  I
+am  ever  a  hindrance  to  you.  You  constantly  bring  me  meat  and  feed
+me.  To-day  do  you  remain  here.  I  will  go  and  slay  an  elephant,  and
+after  eating  my  fill  will  bring  some  meat  to  you."  Said  the  lion,  "  Friend
+jackal,  let  not  this  seem  good  in  your  eyes.  You  are  not  sprung  from  a
+stock  that  feeds  on  the  flesh  of  the  elephants  that  it  kills.  I  will  kill  an
+elephant  and  bring  its  flesh  to  yoxi.  The  elephant  surely  is  big  of  body.
+Do  not  undertake  what  is  contrary  to  your  nature,  but  heai'ken  to  my
+words."     And  hereupon  he  spoke  the  first  stanza: —
+
+Jackal,  beware !
+
+His  tusks  are  long.
+One  of  thy  puny  race
+Would  scarcely  dare
+So  huge  and  strong
+A  beast  as  this  to  face.
+
+The  jackal,  though  forbidden  by  the  lion,  issued  forth  from  the  cave
+and  thrice  uttered  the  cry  of  a  jackal.  And  looking  to  the  base  of  the
+mountain,  he  spied  a  black  elephant  moving  below,  and  thinking  to  fall  on
+his  head  he  sprang  up  and  turning  over  in  the  air  fell  at  the  elephant's
+feet.  The  elephant  lifting  up  his  fore  foot  planted  it  on  the  jackal's  head
+and  smashed  his  skull  to  pieces.  [H-i]  The  jackal  lay  there  groaning,  and
+the  elephant  went  off  trumpeting.  The  Bodhisatta  came  and  standing  on
+the  top  of  the  precipice  saw  hoAv  the  jackal  had  met  his  death,  and  said,
+"Through  his  pride  was  this  jackal  slain,"  and  uttered  three  stanzas: —
+
+A  jackal  once  assumed  the  lion's  pride.
+
+And  elephant  as  eqiial  foe  defied.
+
+Prone  on  the  earth,  while  groans  his  bosom  rent,
+
+He  learned  the  rash  encounter  to  repent.
+
+
+76  The  Jdtaka.     Book  IV.
+
+Who  thus  should  challenge  one  of  peerless  fame,
+Nor  mark  the  vigour  of  his  well-knit  frame,
+Shares  the  sad  fate  that  on  the  jackal  came.
+
+But  who  the  measure  of  his  own  power  knows.
+
+And  nice  discretion  in  his  language  shows,
+
+True  to  his  duty  lives  and  triumphs  o'er  his  foes.
+
+[115]  Thus  did   the  Bodhisatta  in  these  stanzas   declare   the    duties
+proper  to  be  done  in  this  world.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth:   "At  that  time
+Devadatta  was  the  jackal,  and  I  myself  was  the  lion."
+
+
+No.  336.
+
+
+BKAHACHATTA-JATAKA.
+
+
+"  Grass  is  still,"  etc. — This  story  was  told  by  the  Master  while  at  Jetavana,  of
+a  certain  rogue.     The  incident  that  suggested  the  story  has  been  already  related.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  became  his  minister  and  temporal  and  spiritual  adviser.  The
+king  of  Benares  went  against  the  king  of  Kosala  with  a  large  army,  and
+coming  to  Savatthi,  after  a  battle  entered  the  city  and  took  the  king
+prisoner.  Now  the  king  of  Kosala  had  a  son,  prince  Chatta  by  name.
+He  made  his  escape  in  disguise,  and  went  to  Takkasila,  where  he  acquired
+the  three  Vedas  and  the  eighteen  liberal  arts.  Then  he  left  Takkasila,
+and  while  still  studying  the  pi-actical  uses  of  science  he  arrived  at  a  certain
+border  village.  In  a  wood  near  this  five  hundred  ascetics  dwelt  in  huts  of
+leaves.  The  prince  approached  them,  and  with  the  idea  of  learning  some-
+what of  them,  he  became  an  ascetic,  and  so  acquired  whatsoever  knowledge
+they  had  to  impart.  By  and  bye  he  became  the  leader  of  that  band  of
+disciples.
+
+One  day  he  addressed  his  company  of  holy  men  and  asked  them,
+saying,  "  Sirs,  why  do  you  not  go  to  the  central  region  ? "
+
+
+No.  336.  77
+
+"Sir,"  they  said,  "in  the  central  region  are  said  to  be  living  wise
+men.  [116]  They  pose  one  with  questions,  call  upon  one  to  return  thanks
+and  to  repeat  a  form  of  blessing,  and  reprove  the  incompetent.  And  there-
+fore we  are  afraid  to  go  thei'e."
+
+"  Fear  not,"  he  said,  "  I  will  manage  all  this  for  you."
+
+"Then  we  will  go,"  they  said.  And  all  of  them  taking  their  various
+requisites  in  due  course  reached  Benares.  Now  the  king  of  Benares,
+having  got  all  the  kingdom  of  Kosala  into  his  possession,  set  up  loyal
+officials  as  governors,  and  himself,  having  collected  all  their  available
+treasure,  returned  with  his  spoil  to  Benares.  And  filling  iron  pots  with
+it,  he  buried  them  in  the  royal  garden,  and  then  continued  to  live  there.
+So  these  holy  men  spent  the  night  in  the  king's  garden,  and  on  the  morrow
+went  into  the  city  to  beg  alms,  and  came  to  the  door  of  the  palace.  The
+king  was  so  charmed  with  their  deportment  that  he  called  them  up  and
+made  them  sit  on  the  dais  and  gave  them  rice  and  cakes,  and  till  it  was
+their  meal-time  asked  them  such  and  such  questions.  Chatta  won  the
+king's  heart  by  answering  all  his  questions,  and  at  the  close  of  the  meal  he
+offered  up  various  forms  of  thanksgiving.  The  king  was  still  more  pleased,
+and  exacting  a  promise  from  them  he  made  them  all  stay  in  his  garden.
+
+Now  Chatta  knew  a  spell  for  bringing  to  light  buried  treasure,  and
+while  dwelling  there  he  thought,  "  Where  can  this  fellow  have  put  the
+money  which  belonged  to  my  father  1 "  So  repeating  the  spell  and  looking
+about  him  he  discovered  that  it  was  buried  in  the  garden.  And  thinking
+that  with  this  money  he  would  recover  his  kingdom  also,  he  addressed  the
+ascetics  and  said,  "  Sirs,  I  am  the  son  of  the  king  of  Ko.sala.  When  our
+kingdom  was  seized  by  the  king  of  Benares,  I  escaped  in  disguise,  and  so
+far  I  have  saved  my  life.  But  now  I  have  got  the  property  which  belonged
+to  my  family.  With  this  will  I  go  and  recover  my  kingdom.  What  will
+you  do  1 "
+
+"We  too  will  go  with  you,"  they  replied.
+
+"  Agreed,"  he  said,  and  had  some  big  leather  sacks  made,  and  at  night
+digging  a  hole  in  the  ground  he  pulled  out  the  treasure-pots,  [117]  and
+putting  the  money  into  the  sacks  he  had  the  pots  filled  with  grass.  Then
+he  ordered  the  five  hundred  holy  men  and  others  as  well  to  take  the
+money,  and  fled  to  Savatthi.  There  he  had  all  the  king's  officers  seized,
+and  recovering  his  kingdom  he  restored  the  walls,  watch-towers  and  other
+works,  and  having  thus  made  the  city  impregnable  against  tlie  attack  of
+any  hostile  king,  he  took  up  his  abode  there.  It  was  told  to  the  king  of
+Benares,  "  The  ascetics  have  carried  off  the  treasure  from  your  garden  and
+ai"e  fled."  He  went  to  the  garden  and  opening  the  pots  found  only  grass
+in  them.  And  by  reason  of  his  lost  treasure  great  sorrow  fell  upon  him.
+Going  to  the  city  he  wandered  about  murmuring,  "  Grass,  gi'ass,"  and  no
+one  coiTld  assuage  his  grief.     Thought  the  Bodhisatta,  "The  king  is  in
+
+
+78  The  Jataha.     Booh  IV.
+
+great  trouble.  He  wanders  to  and  fro,  idly  chattering.  Except  myself,
+no  one  has  the  power  to  drive  away  his  sorrow.  I  will  free  him  from  his
+trouble."  So  one  day  while  seated  quietly  with  him,  when  the  king  began
+to  chatter,  he  repeated  the  first  stanza :
+
+"  Grass "  is  still  thy  constant  cry ;
+
+Who  did  take  thy  grass  away  ?
+What  thy  need  of  it,  or  why
+
+Dost  thou  this  word  only  say  ?
+
+The  king,  on  hearing  what  he  said,  replied  in  a  second  stanza :
+
+Chatta,  holy  man  of  fame.
+As  it  happened  this  way  came:
+Him  alone  to  blame  I  hold.
+Substituting  grass  for  gold.
+
+[118]  The  Bodhisatta,  on  hearing  this,  uttered  a  third  stanza :
+
+Canny  folk  their  rule  should  make,
+"  Little  give  and  mickle  take."
+What  he  took  was  all  his  own.
+What  he  left  was  grass  alone.
+
+On  hearing  this  the  king  uttered  the  fo\irth  stanza  :
+
+Virtue  follows  no  such  rules,
+These  are  morals  fit  for  fools.
+Doubtful  morals  they  must  be.
+Learning  too  is  vanity.
+
+While  he  thus  blamed  Chatta,  the  king  by  these  words  of  the  Bodhi-
+satta was  freed  from  his  sorrow  and  ruled  his  kingdom  righteously.
+
+
+The  Master  here  ended  his  lesson  and  identified  the  Birth:    "At  that  time
+the  knavish  Brother  was  the  great  Chatta,  and  I  myself  was  the  wise  minister."
+
+
+No.  337.
+
+PiTHA-JATAKA.
+
+"Alas!  we  offered  thee,"  etc. — This  story  the  Master  told  while  living  at  Jeta-
+vana,  about  a  certain  Brother.  He  came,  it  was  said,  from  the  country  to
+Jetavana,  and,  after  putting  away  his  bowl  and  robe,  he  saluted  the  Master  and
+inquired  of  the  young  novices,  saying,  "Sirs,  who  look  after  the  stranger
+Brethren  that  come  to  Savatthi  ?"  [119]  "  The  Treasurer  Anathapindika,"  they
+said,  "and  the  great  and  holy  lay  sister  Visakha  look  after  the  order  of  the
+Brethren,  and  stand  in  the  place  of  father  and  mother  to  them."     "  Very  good,"
+
+
+No.  337.  79
+
+he  said,  and  next  day  quite  early,  before  a  single  brother  had  entered  the  house,
+he  came  to  Anathapindika's  door.  From  his  having  come  at  an  unseasonable
+hour  there  was  no  one  to  attend  to  him.  Without  getting  anything  there  he
+went  off  to  the  door  of  Visakha's  house.  There  also  from  having  come  too  early,
+he  got  nothing.  After  wandering  hither  and  thither  he  came  back,  and  finding
+the  rice-gruel  was  all  finished,  he  went  off.  Again  he  wandered  about  hither
+and  thither,  and  on  his  return,  finding  the  rice  all  finished,  he  went  back  to  the
+monastery,  and  said,  "  The  brethren  here  speak  of  these  two  families  as  faithful
+believers,  but  both  of  them  really  are  without  f^iith  and  unbelievers."  Thus  did
+he  go  about  abusing  these  families.  So  one  day  they  started  a  discussion  in  the
+Hall  of  Truth,  how  that  a  certain  Brother  from  the  country  came  to  the  door  of
+certain  households  too  early,  and  failing  to  obtain  alms  went  about  reviling
+those  families.  When  the  Master  came  and  inquired  what  was  the  topic  the
+Brethren  were  sitting  to  discuss,  on  hearing  what  it  was,  he  called  the  Brother
+and  asked  him  if  it  were  true.  When  the  Brother  said,  "  Yes,  your  Eeverence,  it
+is  true,"  the  Master  asked,  "  Why  are  you  angry.  Brother  ?  Of  old,  before
+Buddha  arose  upon  the  world,  even  ascetics  when  they  visited  a  household  and
+received  no  alms,  showed  no  anger."  And  with  tliis  he  told  a  story  of  the  olden
+days.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family,  and  when  he  was  of  age  he
+studied  all  the  ai-ts  at  Takkasila,  and  subsequently  adopted  the  religious
+life  of  an  ascetic.  After  sojourning  a  long  time  in  the  Himalayas  he  went
+to  Benares  to  procure  salt  and  vinegar,  and,  taking  up  his  abode  in  a
+garden,  on  the  next  day  he  entered  the  city  for  alms.  There  was  at  this
+time  a  merchant  at  Benares,  who  was  a  faithful  believer.  The  Bodhisatta
+asked  which  was  a  believing  household,  and  on  hearing  of  the  merchant's
+family,  he  went  to  the  door  of  his  house.  At  that  moment  the  merchant
+had  gone  to  pay  his  respects  to  the  king,  and  neither  did  any  of  his  people
+happen  to  see  him.     So  he  turned  back  and  came  away.
+
+Then  the  merchant  who  was  returning  from  the  palace  saw  him,  [120]
+and  saluting  him  took  his  alms-bowl  and  led  him  to  his  house.  There  he
+offered  him  a  seat  and  comforted  him  with  the  washing  and  anointing  of
+his  feet,  and  with  rice,  cakes  and  other  food,  and  in  the  course  of  his  meal
+he  asked  him  one  thing  and  another,  and  after  he  had  finished  eating,  he
+saluted  him  and  sitting  respectfully  on  one  side,  he  said,  "  Reverend  Sir,
+strangers  who  have  come  to  our  doors,  whether  beggars  or  holy  priests  or
+brahmins,  have  never  before  gone  away  without  receiving  marks  of  honour
+and  respect,  but  to-day  owing  to  your  not  being  seen  by  our  retainers,  you
+have  gone  away  without  being  offered  a  seat,  or  water  to  drink,  and  with-
+out having  your  feet  washed,  or  rice  and  gruel  given  you  to  eat.  This  is
+our  fault.  You  must  forgive  us  in  this."  And  with  these  words  he  uttered
+the  first  stanza  :
+
+Alas  !   we  offered  thee  no  seat.
+No  water  brought,  nor  anything  to  eat:
+
+We  here  confess  our  sinfulness.
+And  pardon  humbly.  Holy  Sir,  entreat.
+
+
+80  TJie  Jataha.     Book  IV.
+
+The  Bodhisatta  on  hearing  this  repeated  the  second  stanza :
+
+Nought  have  I  to  condone,
+
+No  anger  do  I  feel,
+The  thought  just  once  I  own
+
+Across  my  rnind  did  steal,
+"  Habits  of  people  here
+Are  just  a  trifle  queer."
+
+The  merchant  hearing  this  responded  in  two  more  stanzas  :
+
+The  custom  of  our  family — 'twas  so
+Received  by  us  from  ages  long  ago —
+Is  to  provide  the  stranger  with  a  seat,
+Supply  his  needs,  bring  water  for  his  feet
+And  every  guest  as  kinsman  dear  to  treat.
+
+[121]  And  the  Bodhisatta,  after  sojourning  there  a  few  days,  and
+teaching  the  merchant  of  Benares  his  duty,  went  straight  back  to  the
+Himalayas,  where  he  developed  all  the  Faculties  and  Attainments.
+
+
+The  Master,  having  ended  his  lesson,  revealed  the  Truths  and  identified  the
+Birth : — At  the  conclusion  of  the  Truths  the  Brother  attained  fruition  of  the
+First  Path : — "At  that  time  Ananda  was  the  merchant  of  Benares,  and  I  myself
+was  the  ascetic."
+
+
+No.  338.
+
+
+THUSA-JATAKA.
+
+
+"  With  sense  so  nice,"  etc. — This  story  was  told  by  the  Master  while  living  in
+the  Bamboo  Grove,  of  prince  Ajatasattii.  At  the  time  of  his  conception  there
+arose  in  his  mother,  the  daughter  of  the  king  of  Kosala,  a  chronic  longing  to
+drink  blood  from  the  right  knee  of  king  Bimbisarai  (her  husband).  Being
+questioned  by  her  attendant  ladies,  she  told  them  how  it  was  with  her.  The  king
+too  hearing  of  it  called  his  astrologers  and  said,  "The  queen  is  possessed  of  such
+and  such  a  longing.  What  will  be  the  issue  of  it  V  The  astrologers  said,  "The
+child  conceived  in  the  womb  of  the  queen  will  kill  you  and  seize  your  kingdom."
+"If  my  son,"  said  the  king,  "should  kill  me  and  seize  my  kingdom,  what  is  the
+harm  of  it  ? "  And  then  he  had  his  right  knee  opened  with  a  sword  and  letting
+the  blood  fall  into  a  golden  dish  gave  it  to  the  queen  to  drink.  She  thought,  "  If
+the  son  that  is  born  of  me  should  kill  his  father,  what  care  I  for  him  ? "  and  en-
+deavoured to  bring  about  a  miscarriage.  [122]  The  king  hearing  of  it  called  her
+to  him  and  said,  "Sly  dear,  it  is  said,  my  son  will  slay  me  and  seize  my  kingdom.
+
+1  Compare  Tibetan  Tales  vi.  Prince  Jivaka.
+
+
+iVb.   338.  81
+
+But  I  am  uot  exempt  from  old  age  and  death  :  suffer  me  to  behold  the  face  of
+my  child.  Henceforth  act  not  after  this  manner."  But  she  still  went  to  the
+garden  and  acted  as  before.  The  king  on  hearing  of  it  forbade  her  visits  to  the
+garden,  and  when  she  had  gone  her  full  time  she  gave  birth  to  a  son.  On  his
+naming-day,  because  he  had  been  his  father's  enemy,  while  still  unborn,  they
+called  him  prince  Ajatasattu.  As  he  grew  up  with  his  princely  surroundings,
+one  day  the  Master  accompanied  by  five  hundred  Brethren  came  to  the  king's
+palace  and  sat  down.  The  assembly  of  the  Brethren  with  Buddha  at  their  head
+was  entertained  by  the  king  with  choice  food,  both  hard  and  soft.  And  after
+saluting  the  Master  the  king  sat  down  to  listen  to  the  law.  At  this  moment
+they  dressed  up  the  young  prince  and  brought  him  to  the  king.  The  king
+welcomed  the  child  with  a  strong  show  of  affection  and  placed  him  on  his
+lap,  and  fondling  the  boy  with  the  natural  love  of  a  father  for  his  child,  he  did
+not  listen  to  the  law.  The  Master  observing  his  inattention  said,  "  Great  king,
+formerly  kings  when  suspicious  of  their  sons  had  them  kept  in  a  secret  place,
+and  gave  orders  that  at  their  death  they  were  to  be  brought  forth  and  set
+upon  the  throne."  And  at  the  request  of  the  king  he  told  him  a  legend  of  the
+olden  time.
+
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  was  a  far-famed  teacher  at  Takkasila  and  trained  many  young
+princes  and  sons  of  brahmins  in  the  arts.  Now  the  son  of  the  king  of
+Benares,  when  he  was  sixteen  years  old,  came  to  him  and  after  he  had
+acquired  the  three  Vedas  and  all  the  liberal  arts  and  was  perfect  in  them,
+he  took  leave  of  his  master.  The  teacher  regarding  him  by  his  gift  of
+prognostication  thought,  "There  is  danger  coming  to  this  man  through  his
+son.  By  my  magic  power  I  will  deliver  him  from  it."  And  composing
+four  stanzas  he  gave  them  to  the  young  prince  and  spoke  as  follows  :  "  My
+son,  after  you  are  seated  on  the  throne,  when  your  son  is  sixteen  years  old,
+utter  the  first  stanza  while  eating  your  rice ;  repeat  the  second  stanza  at
+the  time  of  the  great  levee ;  the  third,  as  you  are  ascending  to  the  palace
+roof,  standing  at  the  head  of  the  stairs,  and  the  fourth,  [123]  when  entering
+the  royal  chamber,  as  you  stand  on  the  threshold."
+
+The  prince  readily  assented  to  this  and  saluting  his  teacher  went  away.
+And  after  acting  as  viceroy,  on  his  father's  death  he  ascended  the  throne.
+His  son,  when  he  was  sixteen  years  of  age,  on  the  king's  going  forth  to
+take  his  pleasure  in  the  garden,  observing  his  father's  majesty  and  power
+was  filled  with  a  desire  to  kill  him  and  seize  upon  his  kingdom,  and  spoke
+to  his  attendants  about  it.  They  said,  "  True,  Sir,  what  is  the  good  of
+obtaining  power,  when  one  is  old  1  You  must  by  some  means  or  other
+kill  the  king  and  possess  yourself  of  his  kingdom."  The  pi'ince  said,  "  I
+will  kill  him  by  putting  poison  in  his  food."  So  he  took  some  poison  and
+sat  down  to  eat  his  evening  meal  with  his  father.  The  king,  when  the  rice
+was  just  served  in  the  bowl,  spoke  the  first  stanza  :
+
+With  sense  so  nice,  the  husks  from  rice
+
+Rats  keen  are  to  discriminate  :
+They  cared  not  much  the  husks  to  touch,
+
+But  grain  by  grain  the  rice  they  ate.
+
+J.  III.  6
+
+
+82  The  Jataha.     Booh  IV.
+
+"  I  am  discovered,"  thought  the  prince,  and  not  daring  to  administer
+the  poison  in  the  bowl  of  rice,  he  rose  up  and  bowing  to  the  king  went
+away.  He  told  the  story  to  his  attendants  and  said,  "To-day  I  am  found
+out.  How  now  shall  I  kill  him?"  From  this  day  forth  they  lay  concealed
+in  the  garden,  and  consulting  together  in  whispers  said,  "There  is  still  one
+expedient.  When  it  is  time  to  attend  the  great  levee,  gird  on  your  sword,
+and  taking  your  stand  amongst  the  councillors,  when  you  see  the  king  off
+his  guard,  you  must  strike  him  a  blow  with  your  sword  and  kill  him."
+Thus  they  arranged  it.  The  prince  readily  agreed,  and  at  the  time  of  the
+great  levee,  he  girt  on  his  sword  [124]  and  moving  about  from  place  to
+place  looked  out  for  an  opportunity  to  strike  the  king.  At  this  moment
+the  king  uttered  the  second  stanza  :
+
+The  secret  counsel  taken  in  the  wood
+
+By  me  is  understood :
+The  village  plot  soft  whispered  in  the  ear
+
+That  too  I  hear.
+
+Thought  the  prince,  "  My  father  knows  that  I  am  his  enemy,"  and  ran
+away  and  told  his  attendants.  After  the  lapse  of  seven  or  eight  days  they
+said,  "  Prince,  your  father  is  ignorant  of  your  feeling  towards  him.  You
+only  fancy  this  in  your  own  mind.  Put  him  to  death."  So  one  day  he
+took  his  sword  and  stood  at  the  top  of  the  stairs  in  the  royal  closet.  The
+king  standing  at  the  head  of  the  staircase  spoke  the  third  stanza :
+
+A  monkey  once  did  cruel  measures  take
+His  tender  offspring  impotent  to  make.
+
+Thought  the  prince,  "  My  father  wants  to  seize  me,"  and  in  his  terror
+he  fled  away  and  told  his  attendants  he  had  been  threatened  by  his  father.
+After  the  lapse  of  a  fortnight  they  said,  "Prince,  if  the  king  knew  this,  he
+would  not  have  put  up  with  it  so  long  a  time.  Your  imagination  suggests
+this  to  you.  [125]  Put  him  to  death."  So  one  day  he  took  his  sword  and
+entering  the  royal  chamber  on  the  upper  floor  of  the  palace  he  lay  down
+beneath  the  couch,  intending  to  slay  the  king,  as  soon  as  he  came.  At
+the  close  of  the  evening  meal,  the  king  sent  his  retinue  away,  wishing  to
+lie  down,  and  entering  the  royal  chamber,  as  he  stood  on  the  threshold,  he
+uttered  the  fourth  stanza  :
+
+Thy  cautious  creeping  ways
+Like  one-eyed  goat  in  mustard  field  that  strays,
+And  who  thoii  art  that  ku-kest  here  below,
+
+This  too  I  know.
+
+Thought  the  prince,  "My  father  has  found  me  out.  Now  he  will  put
+me  to  death."  And  seized  with  fear  he  came  out  from  beneath  the  couch,
+and  throwing  down  his  sword  at  the  king's  feet  and  saying,  "  Pardon  me,
+my  lord,"  he  lay  grovelling  before  him.     The  king  said,  "You  thought,  no
+
+
+No.  338.  83
+
+one  knows  what  I  am  about."  And  after  rebuking  him  he  ordered  him  to
+be  bound  in  chains  and  put  into  the  prison  house,  and  set  a  guard  over
+him.  Then  the  king  meditated  on  the  virtues  of  the  Bodhisatta.  And  by
+and  bye  he  died.  When  they  had  celebrated  his  funeral  rites,  they  took
+the  young  prince  out  of  prison  and  set  him  on  the  throne.
+
+
+The  Master  here  ended  his  lesson  and  said,  "Thus,  Sire,  kings  of  old
+susisected  in  cases  in  which  suspicion  was  justified,"  and  related  this  incident,
+[126]  but  the  king  gave  no  heed  to  his  words.  The  Master  thus  identified  the
+Birth  :  "  At  that  time  the  far-famed  teacher  at  Takkasila  was  I  myself."
+
+
+No.  339.
+
+BAVERU-JATAKA.
+
+"Before  the  c?'ested peacock,"  etc. — This  story  was  told  by  the  Master  when  at
+Jetavana,  of  certain  heretics  who  lost  their  former  gains  and  glory.  For  the
+heretics  who  before  the  Birth  of  Buddha  received  gain  and  honour,  lost  the  same
+at  his  Birth,  becoming  like  fireflies  at  sunrise.  Their  fixte  was  discussed  in  the
+Hall  of  Truth.  When  the  Master  came  and  inquired  what  was  the  topic  the
+Brethren  were  discussing  in  their  assembly,  on  being  told  what  it  was,  he  said,
+"  Brethren,  not  now  only,  but  formerly  too,  before  the  appearance  of  those
+endowed  with  virtue,  such  as  were  without  virtue  attained  to  the  highest
+gain  and  glory,  but  when  those  who  were  endowed  with  virtue  appeared,
+such  as  were  devoid  of  it  lost  their  gain  and  glory."  And  with  this  he  told
+a  legend  of  bygone  days.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  a  young  peacock.  And  when  he  was  fully
+grown,  he  was  exceedingly  beautiful  and  lived  in  a  forest.  At  that
+time  some  merchants  came  to  the  kingdom  of  Baveru,  bringing  on  board
+ship  with  them  a  foreign  crow.  At  this  time,  it  is  said,  there  were  no
+birds  in  Baveru.  The  natives  who  from  time  to  time  came  and  saw  this
+bird  perched  on  the  top  of  the  mast,  said,  "  Mark  the  colour  of  this  bird's
+skin.  Look  at  its  beaked  mouth  at  the  end  of  its  throat,  and  its  eyes  like
+jewel-balls."  Thus  singing  the  praises  of  this  crow  they  said  to  these
+merchants,  "Sirs,  give  us  this  bird.  We  have  need  of  it,  and  you  can  get
+another  in  your  own  country."
+
+"  Then  take  it,"  they  said,  "  at  a  price."
+
+6—2
+
+
+The  Jataka.     Book  IV.
+
+
+"  Give  it  us  foi'  a  single  piece  of  money,"  they  said.
+
+"We  will  not  sell  it  for  that,"  said  the  merchants.
+
+[127]  Gradually  increasing  their  offer  the  people  said,  "Give  it  us  for
+a  hundred  pieces  of  money."
+
+"It  is  very  useful,"  they  replied,  "to  us,  but  let  there  be  friendship
+between  us  and  you."     And  they  sold  it  for  one  hundred  pieces.
+
+The  natives  took  it  and  put  it  in  a  golden  cage  and  fed  it  with  various
+kinds  of  fish  and  meat  and  wild  fruits.  In  a  place  where  no  other  birds
+existed,  a  crow  endowed  with  ten  evil  qualities  attained  the  highest  gain
+and  glory.  The  next  time  these  merchants  came  to  the  kingdom  of
+Baveru,  they  brought  a  royal  peacock  which  they  had  trained  to  scream
+at  the  snapping  of  the  fingers  and  to  dance  at  the  clapping  of  the  hands.
+When  a  crowd  had  gathered  together,  the  bird  stood  in  the  fore  part  of
+the  vessel,  and  flapping  its  wings  uttered  a  sweet  sound  and  danced.
+
+The  people  that  saw  it  were  highly  delighted  and  said,  "  This  king
+of  birds  is  very  beautiful  and  well-trained.     Give  it  to  us."
+
+The  merchants  said,  "We  first  brought  a  crow.  You  took  that.  Now
+we  have  brought  this  royal  peacock  and  you  beg  for  this  too.  It  will  be
+impossible  to  come  and  even  mention  the  name  of  any  bird  in  your
+country."
+
+"Be  content,  Sirs,"  they  said,  "give  this  bird  to  us  and  get  another  in
+your  own  land."
+
+And  raising  the  price  offered  they  at  last  bought  it  for  a  thousand
+pieces.  Then  they  put  it  in  a  cage  ornamented  with  the  seven  jewels  and
+fed  it  on  fish,  flesh  and  wild  fruits,  as  well  as  with  honey,  fried  corn,  sugar-
+water  and  the  like.  Thus  did  the  royal  peacock  receive  the  highest  gain
+and  glory.  From  the  day  of  his  coming,  the  gain  and  honour  paid  to  the
+crow  fell  off".  And  no  one  wanted  even  to  look  at  it.  The  crow  no  longer
+getting  food  either  hard  or  soft,  with  a  cry  of  "  Caw,  caw,"  went  and
+settled  on  a  dunghill.
+
+
+The  Master,  making  the  connexion  between  the  two  stories,  in  his  Perfect
+Wisdom  repeated  tliese  stanzas  :
+
+[128]  Before  the  crested  peacock  had  appeared,
+
+Crows  were  with  gifts  of  fruit  and  meat  revered  :
+
+The  sweet-voiced  peacock  to  Baveru  came.
+
+The  crow  at  once  was  stripped  of  gifts  and  fame.
+
+So  man  to  divers  priests  due  honour  paid,
+
+Till  Buddha  the  full  light  of  Truth  displayed  :
+
+But  when  the  sweet-voiced  Buddha  preached  the  law,
+
+From  heretics  their  gifts  and  praise  all  men  withdraw.
+
+After  uttering  these  four  stanzas,  he  thus  identified  the  Birth  :    "  At  that
+time  the  Jain  Nathaputta  was  the  crow,  and  I  myself  was  the  royal  peacock."
+
+
+No.  340.  85
+
+
+No.  340.
+
+
+"Of  old,  Visayha"  etc.— This  story  was  told  by  the  Master  while  at  Jetavana
+of  Ankthapindika.  The  incident  that  gave  rise  to  the  stoi-y  has  been  already
+told  in  full  in  the  Khadiraiigilra  Birth  2.  On  this  occasion  the  Master  addressing
+Anathapindika  said,  "  Wise  men  of  old,  my  lay  brother,  gave  alms,  rejecting  the
+counsel  of  Sakka,  king  of  heaven,  when  he  stood  in  mid-air  and  tried  to  prevent
+them,  saying,  "Give  not  alms."  And  at  his  request  the  Master  told  a  story
+of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  became  a  great  merchant,  named  Visayha,  worth  eighty  crores.
+[129]  And  being  endowed  with  the  Five  Virtues,  he  was  liberal  and  fond
+of  almsgiving.  He  had  alms-halls  built  at  the  four  city  gates,  in  the  heart
+of  the  city,  and  at  the  door  of  his  own  house.  At  these  six  points  he  set
+on  foot  almsgiving,  and  every  day  six  hundred  thousand  men  went  forth
+to  beg,  and  the  food  of  the  Bodhisatta  and  that  of  the  beggars  was  exactly
+the  same.
+
+And  as  he  thus  stirred  up  the  people  of  all  India  by  his  gifts,  the
+abode  of  Sakka  was  shaken  by  tlie  extraordinary  efficacy  of  his  charity,
+and  the  yellow  marble  throne  of  the  king  of  heaven  showed  signs  of  heat.
+Sakka  exclaimed,  "  Who,  I  wonder,  would  make  me  fall  from  my  seat  in
+heaven]"  And  looking  about  him  he  espied  the  great  merchant  and
+thought  to  himself,  "This  Visayha  gives  alms  and  by  scattering  his  gifts
+everywhere  is  stirring  up  all  India.  By  means  of  his  almsgiving,  methinks,
+he  will  dethrone  me  and  himself  become  Sakka.  I  will  destroy  his  wealth
+and  make  him  a  poor  man,  and  so  bring  it  about  that  he  shall  no  longer
+give  alms."  So  Sakka  caused  his  oil,  honey,  molasses,  and  the  like,  even
+all  his  treasure  of  grain  to  vanish,  as  well  as  his  slaves  and  work  people.
+Those  who  were  deprived  of  his  gifts  came  and  said,  "  My  lord,  the  alms-
+hall  has  disappeared.  We  do  not  find  anything  in  the  various  places  set
+up  by  you."  "  Take  money  hence,"  he  said.  "  Do  not  cut  off  the  giving  of
+alms."  And  calling  his  wife,  he  bade  her  keep  up  her  charity.  She
+searched  the  whole  house,  and  not  finding  a  single  piece  of  money,  she
+said,  "My  lord,  except  the  clothes  we  wear,  I  see  nothing.  The  whole
+house  is  empty."  Opening  the  seven  jewel  treasuries  they  found  nothing,
+and  save  the  merchant  and  his  wife  no  one  else  was  seen,  neither  slaves
+
+1  See  Jdtakamfdd,  no.  5,  "  The  Story  of  Avishahya."
+•^  No.  40,  Vol.  i.
+
+
+86  The  Jdtaka.     Book  IV.
+
+nor  hirelings.  The  Bodhisatta  again  addressing  his  wife  said,  "  My  dear,
+we  cannot  possibly  cut  off  our  charities.  Search  the  whole  house  till  you
+find  something."
+
+At  that  moment  a  certain  grass-mower  threw  down  his  sickle  and  pole
+and  the  rope  for  binding  the  grass  in  the  doorway,  and  ran  away.  The
+merchant's  wife  found  them  and  said,  "My  lord,  this  is  all  I  see,"  [130]
+and  brought  and  gave  them  to  him.  Said  the  Bodhisatta,  "  My  dear,  all
+these  years  I  have  never  mown  grass  before,  but  to-day  I  will  mow  grass
+and  take  and  sell  it,  and  by  this  means  dispense  the  fitting  alms."  So
+through  fear  of  having  to  cut  off  his  charities,  he  took  the  sickle  and  the
+pole  and  the  rope,  and  going  forth  from  the  city  came  to  a  place  of  much
+grass,  and  mowing  it  tied  it  up  in  two  bundles,  saying,  "  One  shall  belong
+to  us,  and  with  the  other  I  will  give  alms."  And  hanging  the  grass  on
+the  pole  he  took  it  and  went  and  sold  it  at  the  city  gate,  and  receiving
+two  small  coins  he  gave  half  the  money  to  the  beggars.  Now  there  were
+many  beggars,  and  as  they  repeatedly  cried  out,  "  Give  to  us  also,"  he  gave
+the  other  half  of  the  money  also,  and  passed  the  day  with  his  wife  fast-
+ing. In  this  way  six  days  passed,  and  on  the  seventh  day,  while  he  was
+gathering  the  grass,  as  he  was  naturally  delicate  and  had  been  fasting
+for  seven  days,  no  sooner  did  the  heat  of  the  sun  strike  upon  his  forehead,
+than  his  eyes  began  to  swim  in  his  head,  and  he  became  unconscious  and
+fell  down,  scattering  the  grass.  Sakka  was  moving  about,  observing  what
+Visayha  did.  And  at  that  instant  the  god  came,  and  standing  in  the  air
+uttered  the  first  stanza  :
+
+Of  old,  Visayha,  thou  didst  alms  bestow
+And  to  almsgiving  loss  of  wealth  dost  owe.
+Henceforth  show  self-restraint,  refuse  to  give.
+And  thou  midst  lasting  joys  for  aye  shalt  live.
+
+[131]  The  Bodhisatta  on  hearing  his  words  asked,  "Who  art  thou?"
+
+"I   am   Sakka,"   he   said.     The   Bodhisatta    replied,    "Sakka    himself    by
+
+giving  alms  and  taking  upon  him  the  moral  duties,  and  keeping  fast  days
+
+and  fulfilling  the  seven  vows  attained  the  office  of  Sakka.     But  now  thou
+
+forbiddest  the  almsgiving  that  brought  about  thy  own  greatness.     Truly
+
+thou  art  guilty  of  an  unworthy  deed."     And  so  saying,  he  repeated  three
+
+stanzas  :
+
+It  is  not  right,  men  say,  that  deed  of  shame
+
+Should  stain  the  honour  of  a  noble  name.
+
+O  thou  that  dost  a  thousand  eyes  possess
+
+Guard  us  from  this,  e'en  in  our  sore  distress.
+
+Let  not  our  wealth  in  faithless  wise  be  spent
+
+On  our  own  pleasure  or  aggrandisement.
+
+But  as  of  old  our  stores  with  increase  bless.
+
+By  that  same  road  a  former  chariot  went
+
+A  second  may  well  go.     So  will  we  give
+
+As  long  as  we  have  wherewithal  to  live.
+
+Nor  at  the  worst  each  generous  thought  repress.
+
+
+No.   340.  87
+
+[132]  Sakka  being  unable  to  stop  him  from  his  purpose  asked  him
+why  he  gave  alms.  "Desii'ing,"  he  said,  "neither  Sakkahood  nor  Brah-
+maship,  but  seeking  omniscience  do  I  give."  Sakka  in  token  of  his
+delight  on  hearing  these  words  patted  him  on  the  back  with  his  hands.
+At  the  very  instant  the  Bodhisatta  enjoyed  this  favour,  his  whole  frame
+was  filled  with  joy.  By  the  supernatural  power  of  Sakka  all  manner
+of  pi'osperity  was  restored  to  him.  "  Great  merchant,"  said  Sakka,
+"henceforth  do  thou  every  day  give  alms,  distributing  twelve  hundred
+thousand  portions."  And  creating  countless  wealth  in  his  house,  Sakka
+took  leave  of  him  and  returned  straight  to  his  own  place  of  abode.
+
+
+The  Master,  having  ended  his  lesson,  thus  identified  the  Birth:    "At  that
+time  the  mother  of  Rahula  was  the  merchant's  wife,  and  I  myself  was  Visayha."
+
+
+No.  341.
+
+KANDARI-JATAKA.
+
+The  story  of  this  Birth  will  be  set  forth  in  full  in  the  Kunala  Birth  ^.
+
+
+No.  342.
+
+VANARA-JATAKA^.
+
+[13.3]  ^'Ifave  I  from  boater"  etc. — This  story  was  told  by  the  Master,  when
+dwelling  in  the  Bamboo  Grove,  concerning  the  going  about  of  Devadatta  to  kill
+the  Buddha.  The  incident  that  led  to  the  story  has  been  already  given  in
+detail.
+
+
+1  No.  523,  Vol.  V.
+
+2  See  no.  208,  Vol.  ii.
+
+
+88  The  Jataka.     Book  IV.
+
+Once  upon  a  time  when  Brahmadatta  reigned  in  Benares,  the  Bodhi-
+satta  came  to  life  as  a  young  monkey  in  the  Himalaya  region.  And
+when  fully  grown  he  lived  on  the  banks  of  the  Ganges.  Now  a  certain
+female  crocodile  in  the  Ganges  conceived  a  longing  for  the  flesh  of  the
+Bodhisatta's  heart,  and  told  it  to  her  husband.  He  thought,  "  I  will  kill
+the  Bodhisatta  by  plunging  him  in  the  water  and  will  take  his  heart's
+flesh  and  give  it  to  my  wife."  So  he  said  to  the  Bodhisatta,  "Come,  my
+friend,  we  will  go  and  eat  wild  fruits  on  a  certain  island."
+
+"  How  shall  1  get  there  1 "  he  said.
+
+"  I  will  put  you  on  my  back  and  bring  you  there,"  answered  the
+crocodile.
+
+Innocent  of  the  crocodile's  purpose  he  jumped  on  his  back  and  sat
+there.  The  crocodile  after  swimming  a  little  way  began  to  dive.  Then
+the  monkey  said,  "  Why,  Sir,  do  you  plunge  me  into  the  water  1 "
+
+"  I  am  going  to  kill  you,"  said  the  crocodile,  "  and  give  your  heart's
+flesh  to  my  wife."
+
+"Foolish  fellow,"  said  he,  "do  you  suppose  my  heart  is  inside  me?"
+
+"  Then  where  have  you  put  it  1 "
+
+"  Do  you  not  see  it  hanging  there  on  yonder  tig-tree  ? "
+
+"  I  see  it,"  said  the  crocodile.     "  But  will  you  give  it  me  ? "
+
+"  Yes,  I  will,"  said  the  monkey.
+
+Then  the  crocodile — so  foolish  was  he — took  him  and  swam  to  the  foot
+of  the  fig-tree  on  the  river  bank.  The  Bodhisatta  springing  from  the
+crocodile's  back  perched  on  the  fig-tree  and  repeated  these  stanzas :
+
+Have  I  from  water,  fish,  to  dry  land  passed
+Only  to  fall  into  thy  power  at  last  ?
+Of  bread  fruit  and  rose  apples  I  am  sick,
+And  rather  figs  than  yonder  mangoes  pick.
+He  that  to  great  occasion  fails  to  rise
+'Neath  foeman's  feet  in  sorrow  prostrate  lies  :
+[134]  One  prompt  a  crisis  in  his  fate  to  know
+Needs  never  dread  oppression  from  his  foe.
+
+Thus  did  the  Bodhisatta  in  these  four  stanzas  tell  how  to  succeed  in
+worldly  afiairs,  and  forthwith  disappeared  in  the  thicket  of  trees.
+
+
+The  Master,  having  brought  his  lesson  to  an  end,  identified  the  Birth  :  "  At
+that  time  Devadatta  was  the  crocodile,  and  I  myself  was  the  monkey."
+
+
+No.   343.  89
+
+
+No.  343.
+
+
+KUNTANI-JATAKA.
+
+'"'■Long  I  held"  etc. — This  story  was  told  by  the  Master  at  Jetavana,  concernmg
+a  heron  that  lived  in  the  house  of  the  king  of  Kosala.  She  carried  messages,
+they  say,  for  the  king,  and  had  two  young  ones.  The  king  sent  this  bird  with  a
+letter  to  some  other  king.  When  she  was  gone  away,  the  boys  in  the  royal
+family  squeezed  the  young  birds  to  death  in  their  hands.  The  mother  bird  came
+back  and  missing  her  young  ones,  asked  who  had  killed  her  offspring.  They
+said,  "  So  and  So."  And  at  this  time  there  was  a  fierce  and  savage  tiger  kept  in
+the  palace,  fastened  by  a  strong  chain.  Now  these  boys  came  to  see  the  tiger
+and  the  heron  went  with  them,  thinking,  "  Even  as  my  young  ones  were  killed
+by  them,  just  so  will  I  deal  with  these  boys,"  and  she  took  hold  of  them  and
+threw  them  down  at  the  foot  of  the  tiger.  The  tiger  with  a  growl  crunched
+them  up.  The  bird  said,  "  Now  is  the  wish  of  my  heart  fulfilled,"  and  flying  up  into
+the  air  made  straight  for  the  Himalayas.  On  hearing  what  had  happened  they
+started  a  discussion  in  the  Hall  of  Truth,  saying,  [135]  "Sirs,  a  heron,  it  is  said,
+in  the  king's  palace  threw  down  before  a  tiger  the  boys  who  killed  her  young  ones,
+and  when  she  had  thus  brought  about  their  death,  she  made  off."  The  Master
+came  and  inquired  what  it  was  the  Brethren  were  discussing  and  said,  "Not  now
+only,  Brethren,  but  formerly  also  did  she  bring  about  the  death  of  those  who
+killed  her  young  ones."     And  herewith  he  related  a  legend  of  the  past.
+
+
+Once  upon  a  time  the  Bodhisatta  at  Benares  ruled  his  kingdom  with
+justice  and  equity.  A  certain  heron  in  his  house  carried  messages  for
+him.  And  so  on  just  as  before.  But  the  special  point  here  is  that  in  this
+case  the  bird,  having  let  the  tiger  kill  the  boys,  thought,  "  I  can  no  longer
+remain  here.  I  will  take  my  departure,  but  though  I  am  going  away
+I  will  not  leave  without  telling  the  king,  but  as  soon  as  I  have  told  him  I
+will  be  off."  And  so  she  drew  nigh  and  saluted  the  king,  and  standing  a
+little  way  off  said,  "  My  lord,  it  was  through  your  carelessness  that  the
+boys  killed  my  young  ones,  and  under  the  influence  of  passion  I  in  revenge
+caused  their  death.  Now  I  can  no  longer  live  here,"  And  uttering  the  first
+stanza  she  said :
+
+Long  I  held  this  house  as  mine,
+
+Honom'  gi'eat  I  did  receive,
+It  is  due  to  act  of  thine
+
+I  am  now  compelled  to  leave.
+
+The  king  on  hearing  this  repeated  the  second  stanza  :
+
+Should  one  to  retaliate.
+
+Wrong  with  equal  wrong  repay,
+Then  his  anger  should  abate ;
+
+So,  good  heron,  prithee  stay.
+
+
+90  The  Jatcika.     Book  IV.
+
+[136]  Hearing  this  the  bird  spoke  the  third  stanza:
+
+Wronged  can  with  wrong-doer  ne'er
+
+As  of  old  "be  made  at  one  :
+Nought,  0  king,  can  keep  me  here,
+
+Lo!   from  henceforth  I  am  gone.
+
+The  king,  on  hearing  this,  spoke  the  fourth  stanza :
+
+Should  they  wise,  not  foolish  be,
+
+With  the  wronged  wrong-doer  may
+Live  in  peace  and  harmony:
+
+So,  good  heron,  prithee,  stay.
+
+The  bird  said,  '*  As  things  are,  I  cannot  stay,  my  lord,"  and  saluting
+the  king  she  flew  up  into  the  air  and  made  straight  for  the  Himalayas.
+
+
+The  Master,  his  lesson  ended,  thus  identified  the  Birth  :  "  The  heron  in  the
+former  tale  was  the  heron  in  this,  but  the  king  of  Benares  was  myself."
+
+
+No.  344.
+
+AMBACORA-JATAKA.
+
+[137]  "  She  that  did  thy  mangoes  eat^''  etc. — This  story  was  told  by  the  Master
+while  at  Jetavana,  concerning  an  elder  who  kept  watch  over  mango  fruit.  When
+he  was  old,  they  say,  he  became  an  ascetic  and  built  him  a  hut  of  leaves  in
+a  mango  orchard  on  the  outskirts  of  Jetavana,  and  not  only  himself  continually
+ate  the  ripe  fruit  that  fell  from  the  mango  trees,  but  also  gave  some  to  his
+kinsfolk.  When  he  had  set  out  on  his  round  of  alms-begging,  some  thieves
+knocked  down  his  mangoes,  and  ate  some  and  went  off  with  others.  At  this
+moment  the  four  daughters  of  a  rich  merchant,  after  bathing  in  the  river
+Aciravati,  in  wandering  about  strayed  into  the  mango  orchard.  When  the
+old  man  returned  and  found  them  there,  he  charged  them  with  having  eaten
+his  mangoes.
+
+"  Sir,"  they  said,  "  we  have  but  just  come  ;  we  have  not  eaten  your  mangoes."
+
+"  Then  take  an  oath,"  he  said.
+
+"  We  will.  Sir,"  they  said,  and  took  an  oath.  The  old  man  having  thus  put
+them  to  shame,  by  making  them  take  an  oath,  let  them  go.
+
+The  Brethren,  hearing  of  his  action,  raised  a  discussion  in  the  Hall  of  Truth,
+how  that  an  old  man  exacted  an  oath  from  the  daughters  of  a  merchant,  who
+entered  the  mango  orchard  where  he  himself  lived,  and  after  putting  them  to
+shame  by  administering  an  oath  to  them,  let  them  go.  When  the  Master  came
+and  on  inquiring  what  was  the  topic  they  sat  in  council  to  discuss,  heard  what  it
+was,  he  said,  "  Not  now  only.  Brethren,  but  formerly  also  this  old  man,  when  he
+kept  watch  over  mangoes,  made  certain  daughters  of  a  rich  merchant  take  an
+oath,  and  after  thus  putting  them  to  shame  let  them  go."  And  so  saying  he
+told  a  story  of  the  past.
+
+
+No.   344.  91
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Beuares,   the
+
+Bodhisatta  became  Sakka.  At  that  time  a  knavish  ascetic  built  a
+hermitage  of  leaves  in  a  mango  orchard  on  a  river  bank  near  Benares,  and
+keeping  watch  over  the  mangoes,  ate  the  ripe  fruit  that  fell  from  the
+mango  trees  and  also  gave  some  to  his  kinsfolk,  and  dwelt  there  gaining
+his  livelihood  by  various  false  practices.
+
+At  this  time  Sakka,  king  of  heaven,  thought  "  Who,  I  wonder,  in  this
+world  of  men  support  their  parents,  pay  honour  to  the  aged  members  of
+their  family,  give  alms,  keep  the  moral  law  and  observe  fast  days  1  Which
+of  them  after  adopting  the  religious  life,  continually  devote  themselves  to
+the  duties  befitting  priests,  and  which  of  them  again  are  guilty  of  mis-
+conduct 1  "  And  exploring  the  world  he  spied  this  wicked  ascetic  keeping
+watch  over  his  mangoes  [138]  and  said,  "This  false  ascetic,  abandoning  his
+duties  as  a  priest,  such  as  the  process  by  which  religious  ecstasy  may  be
+induced  and  the  like,  is  continually  watching  a  mango  orchard.  I  will
+frighten  him  soundly."  So  when  he  was  gone  into  the  village  for  alms,
+Sakka  by  his  supernatural  power  knocked  down  the  mangoes,  and  made  as
+if  they  had  been  plundered  by  thieves.  At  this  moment  four  daughters  of
+a  merchant  of  Benares  entered  the  orchard,  and  the  false  ascetic  on
+seeing  them  stopped  them  and  said,  "You  have  eaten  my  mangoes."
+
+They  said,  "Sir,  we  have  but  just  come.     We  have  not  eaten  them."
+
+"Then  take  an  oath,"  he  said.
+
+"But  in  that  case  may  we  go?"  they  asked,      "Certainly,  you  may."
+
+"Very  well.  Sir,"  they  said,  and  the  eldest  of  them  sware  an  oath,
+uttering  the  first  stanza  :
+
+She  that  did  thy  mangoes  eat,
+
+As  her  lord  shall  own  some  churl.
+That  with  dye  grey  hairs  would  cheat
+
+And  his  locks  with  tongs  would  cm-1.
+
+The  ascetic  said,  "Stand  thou  on  one  side,"  and  he  made  the  second
+daughter  of  the  merchant  take  an  oath,  and  she  repeated  the  second
+stanza ;
+
+Let  the  maid  that  robbed  thy  tree
+
+Vainly  for  a  husband  sigh,
+Past  her  teens  though  she  may  be
+
+And  on  thirty  verging  nigh.
+
+And  after  she  had  taken  an  oath  and  stood  on  one  side,  the  third
+maiden  uttered  the  third  stanza  :
+
+[139]  She  that  thy  ripe  mangoes  ate
+Weary  path  shall  tread  alone,
+And  at  trysting  place  too  late
+Grieve  to  find  her  lover  srone.
+
+
+92  The  Jataka.     Book  IV.
+
+When  she  had  taken  an  oath  and  stood  aside,  the  fourth  maiden
+uttered  the  fourth  stanza  :
+
+She  that  did  thy  tree  despoil
+
+Gaily  dressed,  with  wreath  on  head,
+And  bedewed  with  sandal  oil
+
+Still  shall  seek  a  virgin  bed.
+
+The  ascetic  said,  "  This  is  a  solemn  oath  you  have  taken;  others  must
+have  eaten  the  mangoes.  Do  ye  therefore  now  be  gone."  And  so  saying,
+he  sent  them  away.  Sakka  then  presented  himself  in  a  terrible  form,  and
+drove  away  the  false  ascetic  from  the  place.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth  :  "At  that  time  this
+false  ascetic  was  the  old  man  who  watched  mangoes.  The  four  merchant's
+daughters  played  the  same  part  then  as  now.     But  Sakka  was  myself."
+
+
+No.   345.
+
+GAJAKUMBHA-JATAKA.
+
+"Should  aflame  sweep"  etc. — This  story  was  told  by  the  Master  at  Jetavana,
+concerning  a  slothful  Brother.  He  was,  it  was  said,  of  gentle  birth  and  lived  at
+Savatthi.  And  after  giving  a  hearty  assent  to  the  doctrine  and  taking  orders,  he
+became  slothful,  and  as  regards  rehearsal  of  the  Law,  catechizing,  enlightened
+devotion  and  the  round  of  priestly  duties,  he  did  not  fully  enter  into  them,  being
+overcome  by  his  besetting  sins,  and  was  always  to  be  found  at  public  louuging-
+places.  The  Brethren  discussed  his  sloth  in  the  Hall  of  Truth,  saying,  "Such
+an  one.  Sirs,  after  taking  orders  in  so  excellent  a  faith  that  leads  to  Salvation,
+is  continually  slothful  and  indolent,  and  overcome  by  his  besetting  sins."
+[140]  When  the  Master  came  and  inquired  what  the  Brethren  were  assembled
+to  discuss,  on  being  told  what  it  was,  he  said,  "Not  now  only.  Brethren,  but
+formerly  too  was  he  slothful."     And  so  saying  he  told  an  old-world  tale.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  became  his  valued  minister.  The  king  of  Benares  was  of  a
+slothful  disposition,  and  the  Bodhisatta  went  about  considering  some
+means  to  rouse  the  king.  Now  one  day  the  king  went  to  his  garden,
+accompanied  by  his  minister,  and  while  wandering  about  there  he  espied  a
+slothful  tortoise.  Lazy  creatures  like  these,  they  say,  though  they  are  in
+motion  a  whole  day,  move  only  just  an  inch  or  two.
+
+
+No.   345.  93
+
+The  king  on  seeing  it  asked,  saying,  "Friend,  what  is  its  name?"
+The  Bodhisatta  answered,  "The  creature  is  called  a  tortoise,  great  king;
+and  is  so  lazy  that  though  it  is  in  motion  all  day,  it  only  moves  just  an
+inch  or  two."  And  addressing  it  he  said,  "Ho  !  Sir  Tortoise,  yours  is  a
+slow  motion.  Supposing  a  conflagration  arose  in  the  forest,  what  would
+you  do?"     And  herewith  he  spoke  the  first  stanza:
+
+Should  a  flame  sweep  through  the  grove.
+
+Leaving  blackened  path  behind,
+How,   Sir  Waddler,  slow  to  move.
+
+Way  of  safety  couldst  thou  find  ?
+
+The  tortoise  on  hearing  this  repeated  the  second  stanza  :
+
+Holes  on  every  side  abound.
+
+Chinks  there  be  in  every  tree,
+Here  a  refuge  will  be  found
+
+Or  an  end  of  us  'twill  be.
+
+[141]  On  hearing  this  the  Bodhisatta  gave  utterance  to  two  stanzas  :
+
+Whoso  doth  hurry  when  he  ought  to  rest,
+And  tarries  long  when  utmost  speed  is  best,
+Destroys  the  slender  fabric  of  his  weal.
+As  withered  leaf  is  crushed  beneath  the  heel.
+But  they  who  wait  betimes  nor  haste  too  soon.
+Fulfil  their  purpose,  as  her  orb  the  moon.
+
+The  king,  hearing  the  words  of  the  Bodhisatta,   thenceforth  was  no
+longer  indolent.
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth:    "At  that  time
+the  slothful  Brother  was  the  tortoise,  and  I  myself  was  the  wise  councillor."
+
+
+No.  346.
+
+
+KESAVA-JATAKA.
+
+"  Thott  that  of  late,"  etc. — This  story  the  Master  while  at  Jetavana  told  con-
+cerning the  Feast  of  Friendship.
+
+In  the  house  of  Anathapindika,  they  say,  five  hundred  Brethren  were  con-
+stantly fed.  [142]  The  house  was  continually  like  a  place  of  refreshment  for  the
+assembly  of  the  Brethren,  bright  with  the  sheen  of  their  yellow  robes  and  blown
+upon  with  saintly  odours.     So  one  day  the  king  in  making  a  solemn  procession
+
+
+94  The  Jdtaka.     Booh  IV.
+
+round  the  city  caught  sight  of  the  assembly  of  the  Brethren  in  the  Treasurer's
+house,  and  thinking,  "I  too  will  grant  a  perpetual  alms  to  the  assembly  of
+saints,"  he  went  to  the  monastery  and  after  greeting  the  Master  he  instituted
+perpetual  alms  for  five  hundred  Brethren.  Thenceforth  there  is  a  perpetual
+giving  of  alms  in  the  king's  house,  even  choice  food  of  rice  with  the  perfume  of  the
+rain  upon  it,  but  there  are  none  to  give  it  with  their  own  hands,  with  marks  of
+aflFection  and  love,  but  the  king's  ministers  dispense  the  food,  and  the  Brethren
+do  not  care  to  sit  down  and  eat  it,  but  taking  the  various  dainty  foods,  they  go
+each  to  the  house  of  his  own  retainers,  and  giving  them  the  food,  themselves  eat
+whatever  is  set  before  them,  whether  coarse  or  dainty.
+
+Now  one  day  much  wild  fruit  was  brought  to  the  king.  The  king  said,  "Give
+it  to  the  Order  of  the  Brethren."
+
+They  went  to  the  refectory  and  came  and  told  the  king,  "There  is  not  a
+single  Brother  there."
+
+"What,  is  it  not  time  yet?"  said  the  king.
+
+"Yes  it  is  time,"  they  said,  "but  the  Brethren  take  the  food  in  your  house,
+and  then  go  to  the  abode  of  their  trusty  servitors,  and  give  the  food  to  them,
+and  themselves  eat  whatsoever  is  served  up  to  them,  whether  it  be  coarse  or
+dainty."
+
+The  king  said,  "Our  food  is  dainty.  Why  in  the  world  do  they  abstain  from
+ours  and  eat  some  other  food?"  And  thinking,  "I  will  inquire  of  the  Master,"  he
+went  to  the  monastery  and  asked  him.
+
+The  Master  said,  "The  best  food  is  that  which  is  given  in  love.  Owing  to
+the  absence  of  those  who  by  giving  in  love  establish  friendly  feeling,  the  Brethren
+take  the  food  and  eat  it  in  some  friendly  place  of  their  own.  There  is  no  flavour,
+Sire,  equal  to  that  of  love.  That  which  is  given  without  love,  though  it  be
+composed  of  the  four  sweet  things,  is  not  worth  so  much  as  wild  rice  given  with
+love.  Wise  men  of  old,  when  sickness  arose  amongst  them,  though  the  king
+with  his  five  families  of  leeches  provided  remedies,  if  the  sickness  were  not
+thus  assuaged,  repaired  to  their  intimate  friends  and  by  eating  broth  of  wild  rice
+and  millet,  without  salt,  or  even  leaves  without  salt,  sprinkled  with  water  only,
+were  healed  of  their  sickness."  And  with  these  words  at  their  request  he  told
+them  a  story  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family  in  the  kingdom  of  Kasi,  [143]
+and  they  called  him  young  Kappa.  When  he  came  of  age,  he  acquired  all
+the  arts  at  Takkasila  and  afterwards  adopted  the  religious  life.  At  this  time
+an  ascetic  named  Kesava  attended  by  five  hundred  other  ascetics  became  the
+teacher  of  a  band  of  disciples  and  abode  in  the  Himalayas.  The  Bodhisatta
+came  to  him  and  becoming  the  senior  of  the  five  hundred  pupils,  dwelt
+there  and  shewed  a  friendly  feeling  and  affection  for  Kesava.  And  they
+became  very  intimate  one  with  another.
+
+By  and  bye  Kesava  accompanied  by  these  ascetics  went  to  Benares  to
+procure  salt  and  vinegar  and  lodged  in  the  king's  garden.  Next  day  he
+went  into  the  city  and  came  to  the  palace  door.  When  the  king  saw  the
+band  of  holy  men,  he  invited  them  in  and  fed  them  in  his  own  house,  and
+exacting  the  usual  promise  from  them,  he  lodged  them  in  his  garden.  So
+when  the  rainy  season  was  over,  Kesava  took  leave  of  the  king.  The  king
+said,  "  Holy  Sir,  you  are  an  old  man.      Do  you  now  dwell  near  us,  and  send
+
+
+No.   346.  95
+
+the  young  ascetics  to  the  Himalayas."  He  agreed  and  sent  them  with  the
+head  disciple  to  the  Himalayas  and  himself  was  left  quite  alone.  Kappa
+went  to  the  Himalayas  and  dwelt  there  with  the  ascetics.  Kesava  was
+unhappy  at  being  deprived  of  the  society  of  Kappa,  and  in  his  desire  to
+see  him  got  no  sleep,  and  in  conseqiience  of  losing  his  sleep,  his  food  was
+not  properly  digested.  A  bloody  flux  set  in,  followed  by  severe  pains.
+The  king  with  his  five  families  of  leeches  watched  over  the  ascetic,  but  his
+sickness  abated  not.
+
+The  ascetic  asked  the  king,  "Do  you.  Sire,  wish  for  me  to  die  or  to
+recover  ? "
+
+"  To  recover.  Sir,"  he  answered,
+
+"Then  send  me  to  the  Himalayas,"  he  said.
+
+"  Agreed,"  said  the  king,  and  sent  to  a  minister  named  Narada,  and
+bade  him  go  with  some  foresters  and  take  the  holy  man  to  the  Himalayas.
+Narada  took  him  there  and  returned  home.  But  by  the  mere  sight  of
+Kappa,  Kesava's  mental  disorder  ceased  and  his  unhappiness  subsided.
+[144]  So  Kappa  gave  him  broth  made  of  millet  and  wild  rice  together  with
+leaves  sprinkled  with  water,  without  salt  and  spices,  and  at  that  veiy
+instant  the  dysentery  was  assuaged.  The  king  again  sent  Narada  saying,
+"  Go  and  learn  tidings  of  the  ascetic  Kesava."  He  came  and  finding  him
+recovered  said,  "Reverend  Sir,  the  king  of  Benares  treating  you  with  his
+five  families  of  leeches  could  not  heal  your  sickness.  How  did  Kappa
+ti-eat  you'?  "     And  herewith  he  uttered  the  first  stanza:
+
+Thou  that  of  late  with  lord  of  men  didst  dwell,
+A  king  prepared  to  grant  thy  heart's  desire,  ■
+
+What  is  the  charm  of  Kappa's  hermit  cell
+That  blessed  Kesava  should  here  retire  ?
+
+Kesava  on  hearing  this  repeated  the  second  stanza :
+
+AU  here  is  charming  :    e'en  the  very  trees
+
+0  Narada,  my  fancy  take.
+And  Kappa's  words  that  never  fail  to  please
+
+A  grateful  echo  in  my  heart  awake.
+
+After  these  words  he  said  ;  "  Kappa  by  way  of  pleasing  me  gave  me  to
+drink  broth  made  of  millet  and  wild  rice  mixed  with  leaves  sprinkled  with
+water,  and  without  salt  and  spices,  and  therewith  was  my  bodily  sickness
+stayed  and  I  was  healed."
+
+Narada,  hearing  this,  repeated  the  third  stanza :
+
+Thou  that  but  now  the  purest  rice  didst  eat
+Boiled  with  a  dainty  flavouring  of  meat,
+How  canst  thou  relish  such  insipid  fare
+And  millet  and  wild  rice  with  hermits  .share?
+
+
+96  The  Jataha.     Book  IV.
+
+[145]  On  hearing  this  Kesava  uttered  the  fourth  stanza  :
+
+The  food  may  coarse  or  dainty  prove,
+
+May  scanty  be  or  much  abound,
+Yet  if  the  meal  is  blest  with  love,
+
+Love  the  best  sauce  by  far  is  found.
+
+Narada    on   hearing   his  words   returned  to  the   king    and   told  him,
+"Kesava  says  thus  and  thus."
+
+
+The  Master,  having  ended  his  lesson,  identified  the  Birth  :  "At  that  time  the
+king  was  Auanda,  Narada  was  Sariputta,  Kesava  was  Bakabrahma  i,  Kappa  was
+myself."
+
+
+No.  347.
+
+
+AYAKUTA-JATAKA.
+
+
+"  Why  in  mid  air,"  etc. — This  story  the  Master,  while  dwelling  at  Jetavana,
+told  concerning  the  duty  of  doing  good  to  men.  The  incident  that  led  to  the
+story  will  be  set  forth  in  the  Mahakanha  Birth ^.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  the  son  of  his  chief  queen.  And  when  he  was  of
+age,  he  was  instructed  in  all  the  arts  and  on  the  death  of  his  father  was
+established  in  his  kingdom  and  governed  it  righteously.
+
+At  that  time  men  were  devoted  to  the  worship  of  the  gods  [146]  and
+made  religious  offerings  to  them  by  the  slaughter  of  many  goats,  rams  and
+the  like.  The  Bodhisatta  proclaimed  by  beat  of  drum,  "No  living  creature
+is  to  be  put  to  death."  The  Yakkhas  were  enraged  against  the  Bodhisatta
+at  losing  their  offerings,  and  calling  together  an  assembly  of  their  kind  in
+the  Himalayas,  they  sent  forth  a  certain  savage  Yakkha  to  slay  the
+Bodhisatta.     He  took  a  huge  blazing  mass  of  iron  as  big  as  the  dome  of  a
+
+1  See  no.  405.
+
+2  See  R.  Morris,  Folk-Lore  Journal,  iii.  336.
+
+3  No.  469,  Vol.  iv.
+
+
+No.  347.  97
+
+house,  and  thinking  to  strike  a  deadly  blow,  immediately  after  the  mid
+watch,  came  and  stood  at  the  bed's  head  of  the  Bodhisatta.  At  that  instant
+the  throne  of  Sakka  manifested  signs  of  heat.  After  considering  the
+matter  the  god  discovered  the  cause,  and  grasping  his  thunderbolt  in  his
+hand  he  came  and  stood  over  the  Yakkha.  The  Bodhisatta  on  seeing  the
+Yakkha  thought,  "Why  in  the  world  is  he  standing  here?  Is  it  to
+protect  me,  or  from  a  desire  to  slay  me?"  And  as  he  talked  with  him  he
+repeated  the  first  stanza  :
+
+Why  in  mid  air,  O  Yakkha,  dost  thou  stand
+With  yon  huge  bolt  of  iron  in  thy  hand  ?
+Art  thou  to  guard  me  from  all  harm  intent,
+Or  here  to-day  for  my  destruction  sent?
+
+Now  the  Bodhisatta  saw  only  the  Yakkha.  He  did  not  see  Sakka.
+The  Yakkha  through  fear  of  Sakka  durst  not  strike  the  Bodhisatta.  On
+hearing  the  words  of  the  Bodhisatta  the  Yakkha  said,  "Great  king,  I  am
+not  stationed  here  to  guard  you;  I  came  minded  to  smite  you  with  this
+blazing  mass  of  iron,  but  through  fear  of  Sakka  I  dare  not  strike  you."  And
+to  explain  his  meaning  he  uttered  the  second  stanza  :
+
+As  messenger  of  Rakkhasas,  lo !  here
+To  compass  thy  destruction  I  appear,
+But  all  in  vain  the  fiery  bolt  I  wield
+Against  the  head  that  Indra's  self  would  shield.
+
+On  hearing  this  the  Bodhisatta  repeated  two  more  stanzas  :
+
+If  Indra,  Suja's  lord,  in  heaven  that  reigns,
+Great  king  of  gods,  my  cause  to  champion  deigns,
+[147]  With  hideous  howl  though  goblins  rend  the  sky,
+No  demon  brood  has  power  to  terrify.
+Let  mud-sprite  devils  gibber  as  they  may,
+They  are  not  equal  to  so  stern  a  fi-ay.
+
+Thus  did  Sakka  put  the  Yakkha  to  flight.  And  exhorting  the  Great
+Being,  he  said,  "  Great  king,  fear  not.  Henceforth  we  will  protect  you.
+Be  not  afraid."  And  so  saying  he  returned  straight  to  his  own  place  of
+abode.
+
+
+The  Master  here  ended  his  lesson  and  identified  the  Birth:  "At  that  time
+Anuruddha  was  Sakka,  and  I  myself  was  the  king  of  Benares."
+
+
+J.  III.
+
+
+98  The  Jataka.     Book  IV.
+
+
+No.   348.
+
+
+ARANNA-JATAKA.
+
+" This  douhty  my  father"  etc. — This  story  the  Ma.ster  told  when  dwelling  at
+Jetavana,  concerning  the  seduction  of  a  youth  by  a  certain  coarse  girl.  The
+incident  that  led  up  to  the  story  will  be  set  forth  in  the  CuUanaradakassapa
+Birth  1.
+
+
+Once  upon  a  time  when  Brahniadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  household.  And  when  he  grew  up  and
+was  learned  in  all  the  arts  at  Takkasila,  his  wife  died  and  he  adopted  the
+religious  life  and  went  with  his  son  to  dwell  in  the  Himalayas.  There
+leaving  his  son  in  a  hermitage,  he  went  forth  to  gather  all  kinds  of  fruit.
+At  that  time  as  some  brigands  were  harrying  a  border  village,  and  were
+going  off  with  their  prisoners,  a  certain  damsel  fled  for  refuge  to  this
+hermitage  [148]  and  by  her  seductions  corrupted  the  virtue  of  the  youth.
+She  said  to  him,  "Come,  let  n3  begone."
+
+"Let  my  father  first  return,"  he  said,  "and  after  I  have  seen  him,  I
+will  go  with  you."
+
+"Well,  when  you  have  seen  him,  come  to  me,"  she  said.  And  going
+out  she  sat  herself  down  in  the  middle  of  the  road.  The  young  ascetic,
+when  his  father  had  come,  spoke  the  first  stanza  :
+
+This  doubt,  my  father,  solve  for  me,  I  pray ;
+If  to  some  village  from  this  wood  I  stray,
+Men  of  what  school  of  morals,  or  what  sect
+Shall  I  most  wisely  for  my  friends  affect?
+
+Then  his  father,  by  way  of  warning  him,  repeated  three  stanzas :
+
+One  that  can  gain  thy  confidence  and  love,
+
+Can  tinist  thy  word,  and  with  thee  patient  prove,
+
+In  thought  and  word  and  deed  will  ne'er  oflend —
+
+Take  to  thy  heart. and  cling  to  him  as  friend.
+
+To  men  capricious  as  the  monkey-kind
+
+And  foimd  unstable,  be  not  thou  inclined,
+
+Though  to  some  desert  lone  thy  lot  should  be  confined.
+
+[149]  On  hearing  this  the  young  ascetic  said,  "Dear  father,  how  shall  I
+find  a  man  possessed  of  these  vii-tuesl  I  will  not  go.  With  you  only  will
+I  live."     And  so  saying  he  turned  back.     Then  his  father  taught  him  the
+
+1  No.  477,  Vol.  iv.
+
+
+No.   348.  99
+
+preparatory  rites  to  induce  mystic  meditation.  And  both  father  and  son,
+without  falling  away  from  i-eligious  ecstasy,  became  destined  to  birth  in
+the  Brahma-world.
+
+
+The  Master,  his  lesson  ended,  thus  identified  the  Birth :  "At  that  time  the
+youth  and  the  maiden  were  the  same  as  in  the  later  story.  The  ascetic  was
+myself."
+
+
+No.  349.
+
+
+SANDHIBHEDA-J  ATAKA '.
+
+^'^No%tght  in  common,"  etc. — This  story  the  Master,  dwelling  at  Jetavana,  told
+concerning  the  moral  precept  on  slander.
+
+Once  upon  a  time  the  Master  hearing  that  the  Six^  Priests  collect  slanderous
+tales,  called  them  to  him  and  asked,  "Is  it  true.  Brothers,  that  you  collect
+slanderous  tales  of  such  of  your  brethren  as  are  inclined  to  quarrelling  and
+strife  and  disputation,  and  that  quan-els  therefore,  that  would  not  otherwise
+arise,  spring  up  and  when  they  so  arise  have  a  tendency  to  grow?"  "It  is  true,"
+they  said.  Then  he  reproved  those  brethren  and  said,  "lirothers,  backbiting
+speech  is  like  to  a  blow  with  a  sharp  sword.  A  firm  friendship  is  quickly  broken
+up  by  slander  and  peoi)le  that  listen  thereto  become  liable  to  be  estranged  from
+their  friends,  as  was  the  case  with  the  lion  and  the  bull."  And  .so  .saying  he  told
+an  old  legend  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  as  his  son,  and  after  acquiring  all  the  arts  at  Takkasila,
+on  his  father's  death,  he  ruled  his  kingdom  righteously.
+
+At  that  time  a  certain  neatherd,  who  was  tending  cattle  in  their  sheds
+in  the  forest,  came  home  and  inadvertently  left  behind  him  a  cow  that  was
+in  calf.     Between  this  cow  and  a  lioness  sprang  up  a  firm  friendship.     The
+
+'  See  no.  361  infra,  Tibetan  Tales,  xxxiii.  p.  32.5,  '  The  .Jackal  as  Calumniator,'
+and  Benfey'.s  Introduction  to  the  Panchatantra.
+-  See  Vol.  i.  no.  28,  p.  71.
+
+7—2
+
+
+100  The  Jataka.     Booh  IV.
+
+two  animals  became  fast  friends  and  went  about  together.  So  after  a  time
+the  cow  J)rought  forth  a  calf  and  the  lioness  a  cub.  These  two  young
+creatures  also  by  the  force  of  family  ties  became  fast  friends  and  wandered
+about  together.  [150J  Then  a  certain  forester,  after  observing  their  affec-
+tion, took  such  wares  as  are  produced  in  the  forest  and  went  to  Benares
+and  presented  them  to  the  king.  And  when  the  king  asked  him,  "  Friend,
+have  you  seen  any  unusual  marvel  in  the  foresti"  he  made  answer,  "I  saw
+nothing  else  that  was  wonderful,  my  lord,  but  I  did  see  a  lion  and  a  bull
+■wandering  about  together,  very  friendly  one  towards  another."
+
+"Should  a  third  animal  appear,"  said  the  king,  "there  will  certainly
+be  mischief.  Come  and  tell  me,  if  you  see  the  pair  joined  by  a  third
+animal."
+
+"  Certainly,  my  lord,"  ho  answered.
+
+Now  when  the  forester  had  left  for  Benares,  a  jackal  ministered  to  the
+lion  and  the  bull.  When  he  returned  to  the  forest  and  saw  this  he  said,
+*'  I  will  tell  the  king  that  a  third  animal  has  appeared,"  and  dcjjarted  for
+the  city.  Now  the  jackal  thought,  "  There  is  no  meat  that  I  have  not
+eaten  except  the  flesh  of  lions  and  bulls.  By  setting  these  two  at  variance,
+I  will  got  their  Hesh  to  eat."  And  he  s;iid,  "This  is  the  way  ho  speaks  of
+you,"  and  thus  dividing  them  one  from  another,  he  soon  brought  about  a
+quarrel  and  reduced  them  to  a  dying  condition.
+
+But  the  forester  came  and  told  the  king,  "  My  lord,  a  third  animal  has
+turned  up."  "What  is  it?"  said  the  king.  "A  jackal,  my  lord."  Said
+the  king,  "He  will  cause  them  to  quarrel,  and  will  bring  about  their  death.
+We  shall  find  them  dead  when  we  arrive."  And  so  s^iying,  he  mounted
+upon  his  chariot  and  travelling  on  the  road  pointed  out  by  the  forester,  he
+arrived  just  as  the  two  animals  had  by  their  quarrel  destroyed  one  another.
+The  jackal  highly  delighted  was  eating,  now  the  flesh  of  the  lion,  and  now
+that  of  the  bull.  The  king  when  he  saw  that  they  were  both  dead,  stood
+just  as  he  was  upon  his  chariot,  and  addressing  his  charioteer  gave  uttei-ance
+to  these  vei-ses :
+
+[151]  Nought  in  common  had  this  pair,
+Neither  wives  nor  food  did  .share  ;
+Yet  behold  how  slanderous  word.
+Keen  as  any  two-edged  swoi-d.
+Did  devise  with  cunning  art
+Friends  of  old  to  keep  apart.
+Thus  did  bull  and  lion  fall
+Prey  to  meanest  beast  of  all :
+So  will  all  bed-fellows  be
+With  this  pair  in  misery,
+If  they  lend  a  willing  ear
+To  the  slanderer's  whispered  sneer.
+But  they  thrive  exceeding  well,
+E'en  as  those  in  heaven  that  dwell,
+Who  to  slander  ne'er  attend —
+Slander  parting  friend  from  friend.
+
+
+No.  349.  101
+
+[152]  The  king  spoke  these  verses,  and  bidding  them  gather  together
+the  mane,  skin,  claws,  and  teeth  of  the  lion,  returned  straight  to  his  own
+city.
+
+
+The  Master,  having  ended  his  lesson,  thas  identified  the  Birth:    "At  that
+time  I  myself  was  the  king."
+
+
+No.  350.
+
+0
+
+
+DEVATAPANHA-JATAKA.
+
+This  (^)ucstif)n  will  he  fimnd  in  the  Ummagga  Jataka.
+
+
+BOOK    V.       PANCANIPATA
+
+
+No.   351.
+
+
+MAX1KUNI.)ALA-JATAKA.  *
+
+[irjS]  "Stript  of  all  thf.joi/.i  of  life"  t-fc— This  story  the  Mjustcr,  while  dwelling
+at  Jotiivana,  told  concoriiing  a  councillor  who  wius  guilty  of  misconduct  in  the
+harem  of  the  king  of  Kosala.  The  incident  that  gave  rise  to  the  story  haa  been
+given  in  full  Injfore'.
+
+
+Here  too  tlio  Bodhisatta  Uocame  king  in  Benares.  The  wicked  councillor
+called  in  the  king  of  Kosala  and  got  him  to  seize  upon  the  kingdom  of
+Kasi,  and  to  throw  the  Bodhisatta  into  prison.  The  king  of  Benares
+developed  ecstatic  meditation  and  sat  cros.s-legged  in  the  air.  A  fierce
+heat  sprang  up  in  the  l»ody  of  the  marauding  king,  and  he  drew  nigh  to  the
+king  of  Benares  and  reiHjated  the  first  stanza  :
+
+Stript  of  all  the  joy.s  of  life,
+
+Jewelled  eivmngs,  hoi-se  and  car.
+Robbed  of  child  and  loving  wife,
+
+Nought  thy  plea.surc  .seems  to  mar.
+
+[154]  On  hearing  him  the  Bodhisatta  recited  these  verses: —
+
+Pleixsures  soon  make  haste  to  leave  us,
+
+Pleivsui"es  .soon  must  all  forego,
+801TOW  ha.s  no  power  to  gi-ieve  us,
+
+Joy  itself  soon  turns  to  woe.
+Moons  with  new-boni  orb  appe^iring
+
+Wax  awhile,  to  wane  and  die,
+Suns  with  warmth  all  natui-e  cheering,
+
+Haste  to  set  in  yonder  sky.
+Change  is  this  world's  law  1  see,
+Sorrow  has  no  pangs  for  me.
+
+>  See  no.  282.  Vol.  ii.  and  no.  303  supra.
+
+
+No.  351.  103
+
+Thus  now  did  the  Great   Being  expound  the  Truth   to  the  usurper
+king,  and  bringing  his  conduct  to  the  test,  repeated  these  stanzas' : —
+
+The  idle  sensual  layman  I  detest.
+The  false  ascetic  is  a  rogue  confest.
+
+A  bad  king  will  a  case  unheard  decide ;
+Wrath  iu  the  sage  can  ne'er  be  jastitied.
+
+The  warrior  prince  a  well-weighed  verdict  gives,
+Of  righteous  judge  the  fame  for  ever  lives.
+
+[155]  The  king  of  Kosala  having  thus  gained  the  forgiveness  of  the
+Bo<lhis:itta  iincl  given  him  back  his  kingdom,  departed  to  his  own  country.
+
+
+The  Master,  having  eudod  his  di.scoursc,  thius  identified  the  Birth:  "At  that
+time  Anauda  wiis  the  king  of  Kosjila,  and  I  myself  was  the  king  of  Benares."
+
+
+No.  352.
+
+
+SL'JATA-JATAKA.
+
+"  W/i^  Imste  to  hring,"  etc. — This  story  the  Ma.ster,  while  dwelling  at  Jutavaiia,
+told  concerning  a  landowner  who  had  lost  his  father.  On  the  death  of  his  father,
+they  say,  he  went  about  lamenting,  quite  unable  to  shake  oft'  his  grief.  The
+Master  i»crceivetl  in  the  man  a  capacity  to  atUiin  to  the  Fruit  of  Salvation,  and
+when  he  went  his  rounds  in  Savatthi  for  alms,  accompanied  by  an  attendant
+priest,  he  came  to  his  hou.se  and  sitting  down  on  the  seat  prepared  for  him  he
+b<nvc'd  to  his  host,  who  wa.s  also  .se<ited,  and  said,  "Lay  Brother,  art  thou
+grieving?"  and  on  his  ix'plying,  "Yes,  Reverend  Sir,  I  am,"  he  said,  "  PViend,
+sages  of  old  he«irkened  to  the  woi-ds  of  Wisdom,  and  when  they  lost  a  father,
+they  did  not  grieva"  And  at  the  request  of  his  host  he  told  a  story  of  the  olden
+time
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  in  the  house  of  a  landowner.  And  they  called
+him  young  Sujata.  When  he  was  grown  up,  his  gi-andsire  died.  Then
+his  father  from  the  day  of  the  old  man's  death  was  tilled  with  sorrow,  and
+taking  his  bones  from  the  place  of  cremation  he  erected  an  earth-mound  in
+his  pleasure-garden,  and  depositing  the  remains  there,  whenever  he  visited
+
+'  These  stanzas  occur  also  in  no.  3.S2  xnpni.
+
+
+104  The  Jdtaka.     Book    V.
+
+the  place,  atloi-ned  the  tope  with  Howers  and  studiously  lamented,  neither
+bathing  nor  anointing  himself  nor  eating.  Neither  did  he  atU'nd  to  his
+business.  The  Bodhisatta,  on  observing  this,  thought,  "  My  father  ever
+since  the  death  of  my  grandfather  goes  about  overwhelmed  with  giief.
+And  no  one,  I  am  sure,  except  myself  has  power  to  console  him.  1  will
+find  a  way  to  deliver  him  from  his  sorrow."
+
+[150]  So  seeing  a  dead  ox  lying  outside  the  city,  he  brought  grass  and
+water  and  phicing  them  before  it  said,  "  E;it  and  drink,  cat  and  drink."
+All  that  pa.s8ed  by  on  seeing  this  said,  "  Friend  Sujata,  are  you  mad  ?  Do
+you  offer  grass  aiid  water  to  a  dead  ox?"     But  he  answered  not  a  word.
+
+So  they  wi-nt  to  his  father  and  said,  "  Your  son  has  become  mad.  He
+is  giving  grass  and  water  to  a  dead  ox."  On  hearing  this  the  landowner
+ceased  to  grieve  for  his  father,  and  began  to  gi-ieve  for  his  son.  And  he
+went  in  haste  and  cried,  "My  dear  Sujata,  an;  you  not  in  your  sober
+senses?  Why  do  you  offer  grass  and  water  to  the  aircase  of  an  ox?"
+And  hereupon  he  spoke  two  stanzas  : —
+
+Why  ha.sto  to  bring  thy  now-mown  grasH  ho  sweet.
+Anil  cry  to  lifelcH.s  lx;<i.st,  'Arise  and  CJitW
+
+No  fo(Ml  may  raise  to  life  an  ox  that's  dead,
+Thy  words  aro  idle  and  of  folly  brcti.
+
+Then  the  Bodhisatta  uttered  two  stanzas  : —
+
+Mcthinks  this  beast  may  como  to  life  again,
+Both  hc;id  and  tail  and  its  four  feet  remain.
+
+But  of  my  grandsire  head  and  limbs  arc  gone  :
+No  fool  weeps  o'er  his  grave,  but  thou  alone.
+
+[157]  On  hearing  this  the  father  of  the  Bo«lhisatta  thought:   "My  son
+
+is  wise.     He  knows  the  right  thing  to  be  done  both  for  this  world  and  for
+
+the  next.     He  did  this  to  console  me."      And  he  said,  "  My  dear  and  wise
+
+son  Sujata,  it  is  known  to  me  that  all  existing  things  are  impermanent.
+
+Henceforth  I  will  not  grieve.      Such  a  son  as  this  must  be  every  one  that
+
+would  remove  a  father's  grief."     And  singing  the  praises  of  his  son  he
+
+said  : —
+
+As  ghee-fed  flame  that  blazes  out  amain
+
+Is  quenched  with  water,  so  he  quenched  my  pain.
+
+With  sorrow's  shaft  my  heart  was  wounded  sore.
+
+He  healed  the  wound  and  did  my  life  restore.
+
+The  barb  extracted,  full  of  peace  and  joy,
+
+I  cease  to  grieve  and  hearken  to  my  boy.
+
+Thus  kindly  souls  wean  mortals  from  their  grief,
+
+As  wise  Sujata  brought  his  sire  relief.
+
+
+The  Master  having  ended  his  discourse  revealed  the  Truths  and  identified
+the  Birth  : — At  the  conclusion  of  the  Truths  the  landowner  attained  fruition  of
+the  First  Path  : — "At  that  time  I  myself  was  Sujata."
+
+
+No.   353.  105
+
+
+No.  353.
+
+
+DHONASAKHA-JATAKA.
+
+
+^^'Thowfh  thou  art  noiv,"  etc.-Thi^  story  the  Master,  while  hving  in  the
+Bhesakala  LTove  near  Smusumaragiri  (Mount  Crocodile)  in  the  country  ot  the
+Bhagga-s,  told  concerning  young  prince  Bodhi.  This  prince  was  the  son  ot
+Udeiia,  and  at  this  time  dwelt  m  Suiiisumaragiri.  ^o^y^he  suuiinoned  a  very
+skilful  ai-tis^in,  and  got  him  to  l.uild  him  a  i.alace  called  Kokanada,  and  to  make
+it  mdike  that  of  any  other  king.  [158]  And  afterwaixls  he  thought,  Ihis
+artisan  may  build  a  similar  palace  for  some  other  king."  And  from  a  teeling  ot
+envy  he  plucked  out  his  eyes.  This  circumst^mce  became  known  in  the  assembly
+of  the  Brethren.  Then  they  raised  a  discussi.jn  in  the  Hall  ot  Iruth,  saying,
+"Sirs,  young  prince  Bodhi  had  the  eyes  of  such  and  such  an  arti.san  put  out
+Sureli-  he  is°x  hai-sh,  cruel,  and  violent  man."  The  Master  came  and  asked  what
+wivs  the  topic  the  Brethren  were  debating  <vs  they  .sat  together,  and  hearing  what
+it  was  he  Lid,  "Not  n.nv  .iiily,  but  f..rnicrly  too  such  Wius  his  nature  and  of  old
+in  like  manner  he  i)Ut  out  the  eyes  of  a  thousand  warriors  and,  alter  .slaying
+them,  he  ottered  up  their  Hesh  jus  a  religious  sacriticc."  And  .so  saying  he  told
+them  a  story  of  past  times.
+
+
+Once  upon  a  time  when  Brabmadatta  wa.s  reigning  in  Benares,  the
+jUxlhisatta  became  a  world-renowned  teacher  at  Takkasila,  and  youths  of
+the  warrior  and  brahmin  castes  came  from  all  India,  to  be  taught  the  arts
+by  him.  The  son  of  the  king  of  Benares  too,  prince  Brahmadatta,  was
+taught  the  three  Vedas  by  him.  Now  he  was  by  nature  harsh,  cruel,
+and'' violent.  The  Bodhisatta,  by  his  power  of  divination  knowing  hi.s
+character,  said,  "  My  friend,  you  are  harsh,  cruel,  and  violent,  and  verily
+power  that  is  attained  by  a  man  of  violence  is  .shortlived:  when  his  power
+is  gone  from  him,  he  is  like  a  ship  that  is  wrecked  at  sea.  He  reaches
+no  sure  haven.  Therefore  be  not  of  such  a  character."  And  by  way  of
+admonition  he  repeated  two  stanzas  : —
+
+Though  thou  art  now  with  i)cace  and  plenty  blest,
+Such  happy  fate  may  short-lived  prove  to  be:
+
+Should  riches  i)erish,  be  not  sore  distrcst,
+
+Like  storm-tost  sailor  wrecked  far  out  at  sea.
+
+Each  one  shall  fare  according  to  his  deed,
+And  reap  the  har\'est  as  he  sows  the  .seed,
+Whether  of  goodly  herb,  or  maybe  noxious  weed.
+
+[159]  Then  he  bade  his  teacher  farewell  and  returned  to  Benares,  and
+after  exhibiting  his  proficiency  in  the  arts  to  his  father,  he  was  established
+in  the  viceroyalty  and  on  his  father's  death  he  succeeded  to  the  kingdom.
+His  family  priest,  Pingiya  by  name,  was  a  harsh  and  cruel  man.  Being
+greedy  of  fame,  he  thought,  "What  if  I  were  to  cause  all  the  rulers  of
+
+
+lOG  Tlic  Jataka.      Hook    \  .
+
+Tiulia  to  be  seized  by  this  king,  and  if  ho  Hhould  thuH  Ix-coine  solo
+monarch  and  I  become  sole  priest  V  And  he  got  the  king  to  liearken  to
+his  words.
+
+And  the  king  marched  forth  with  a  great  army  and  invest^-d  tlje  city
+of  a  certain  king  and  t<Mjk  l»im  prisoner.  And  by  similar  means  he  gained
+the  sovereignty  of  all  India,  and  with  a  thousand  kings  in  his  train,  ho
+went  to  seize  upon  the  kingdom  of  Takkasila.  The  limlhisattji  repaired
+the  walls  of  the  city  and  made  it  impregnable  to  its  enemie.s.  And  the
+king  of  Benares  had  a  canopy  set  up  over  him  and  a  curtain  thrown  round
+about  him,  at  the  foot  of  a  big  banyan  tree  on  the  Iwinks  of  the  (Jangcs.
+And  having  a  couch  spread  for  him,  ho  took  up  hi.s  quarters  there.
+Fighting  in  the  plains  of  India  he  had  tak«'n  captive  a  thousand  kings,  but
+failing  in  his  attack  on  Takkiusila,  he  a.sked  his  priest,  "  Master,  though  wo
+have  come  hither  with  a  host  of  captive  kings,  we  amnot  take  Takkasila.
+What  now  are  we  to  dol "
+
+"Great  king,"  he  answered,  "put  out  th«' eyes  of  the  tlunisand  kings
+[160]  and  ripping  ojKjn  their  IkjIUcs  let  us  take  their  fle.sh  and  the  live
+.switrt  substances  and  make  an  offering  to  the  guardian  deity  of  this
+banyan.  And  surrounding  the  tree  with  a  rimmed  circtimference  let  us
+fill  it  with  blood  five  inches  deep.  And  so  shall  the  victory  soon  be
+ours."
+
+The  king  readily  as.sented  and  concealing  mighty  wrestlers  behin<l  the
+curtjiin,  he  summoned  each  king  separately,  and  when  the  wrestlers  had
+squeezed  them  in  their  arms  till  they  had  reduced  them  to  a  state  of
+insensibility,  he  had  their  eyes  put  out,  and  after  they  were  dead,  he  took
+the  tlesh  and  caused  the  carca.ses  to  be  carried  away  by  the  Ganges.  Then
+he  made  the  offering,  as  described  above,  and  had  the  drum  beaten  and
+went  forth  to  battle.  Then  came  a  certain  Yakkha  from  his  watch-tower
+and  tore  out  the  right  eye  of  the  king.  Seveix'  pain  .set  in,  and  maddened
+by  the  agony  he  suffered,  he  went  and  lay  down  at  full  length  upon  the
+couch  prepared  for  him  at  the  foot  of  the  banyan  tree.  At  this  moment  a
+vulture  took  a  shai-p-poiuted  bone,  and  perched  on  the  top  of  the  tree,  in
+eating  the  flesh  it  let  drop  the  bone,  and  the  shai-p  |K)int  falling  as  with
+iron  spikes  on  the  king's  left  eye,  destroyed  that  eye  too.  At  this
+moment  he  recalled  the  words  of  the  Bodhisatta  and  said,  "  Our  teacher
+when  he  said  *  These  mortals  expei'ience  results  corresponding  to  their
+deeds,  even  <as  fruit  coiTesponds  with  the  seed,'  spoke,  I  supj»ose,  with  all
+this  before  his  mind's  eye."  And  in  his  lamentation  he  addressed  Piiigiya
+in  two  stanzas  : —
+
+Ah  !  now  at  last  I  recognize  the  truth
+
+The  Ma.ster  taught  me  in  my  heedless  youth :
+
+'Sin  not,'  he  cried,  'or  else  the  evil  deed
+
+To  thine  owni  punishment  may  one  day  lead.'
+
+
+No.  353.  107
+
+Beneath  this  tree's  trim  boughs  and  quivering  shade
+
+Libation  due  of  .sandal  oil  was  made.
+
+'Twas  here  I  slew  a  thousand  kings,  and  lo !
+
+The  pangs  they  suftei-cd  then,  I  now  must  imdergo.
+
+[IGl]  Thus  lamenting,  he  called  to  mind  his  queen-consort,  and  rcpcatrd
+this  stanza  : —
+
+O  Ubbarl,  my  queen  of  swarthy  hue.
+Lithe  as  a  shoot  of  fair  moringa  tree,
+
+That  dost  thy  limbs  witli  sand.al  r)il  In^dow,
+How  should   I  live,  lx;reft  of  sight  «>f  thee  y
+Y'ea  death  itself  than  this  less  grievous  far  would  l>el
+
+While  he  Wius  still  murmuring  these  words,  lie  died  and  was  born
+again  in  hell.  The  priest  so  ambitious  of  power  could  not  sjive  him,  nor
+could  he  save  himself  by  his  own  power,  and  as  soon  aa  he  died,  his  army
+broke  up  and  fled.
+
+
+The  Master,  having  ended  his  lesson,  thus  identified  the  Birth:  "At  that
+time  the  young  prince  Bodhi  was  the  marauding  king,  Deviulatta  was  Pingiya,
+and  I  myself  Wfis  the  world-famed  teacher."
+
+
+No.  354.
+
+
+UKAGA-JATAK.\.
+
+[162]  "  J/u/t  uaiu  his  mortal  frmnti,'  etr.  This  .story  the  Mjusttn*,  while  dwelling
+at  Jetavanii,  tola  ci>nccnnng  a  landowner  wliose  .son  hiul  died.  Tlie  introductory
+story  is  jast  the  siune  as  that  of  the  man  who  lo.st  b<jtli  his  wife  and  father.
+Here  too  the  Master  in  the  .s;ime  way  went  to  the  man's  hoiuse,  and  after  .saluting
+him  as  he  was  .scixted,  asked  him  sjiying,  "Pray,  Sir,  are  you  giieving?"  And  on
+his  rei>lying,  "Ves,  Uevei-end  Sir,  ever  since  my  .son's  death  I  grieve,"  he  said,
+"Sir,  verily  that  which  is  subject  to  di.s.s<ilution  is  dis.solved,  and  that  which  is
+subject  to  destruction  is  desti-oyed',  and  this  h;q>i»ens  not  to  one  man  oidy,  nor
+in  one  village  merely,  but  in  countless  spherc.s,  and  in  the  three  nuxles  of  ex-
+istence, there  is  no  ci-eatui-e  that  is  not  subject  to  death,  nor  is  there  any  exi.sting
+thing  that  is  capable  of  abiding  in  the  .same  condition.     All  l>eings  are  subject  to
+
+'  Compare  the  story  of  Epictetus  as  given  by  Bacon,  Advancement  of  Learning,  i.  8.
+The  philosopher  one  day  saw  a  woman  weeping  for  a  broken  pitcher,  and  next  day  saw
+another  woman  weeping  over  her  dead  son.  Whereupon  he  said,  "  lleri  vidi  J'ragilem
+frangi,  hndie  vidi  mortalem  mori.''
+
+
+108  The  Jdtaka.     Book    V.
+
+death,  and  all  coinpoundss  arc  sulijcct  to  difwolutioii.  But  sages  of  old,  when
+they  lo.st  a  .son,  said,  'That  which  is  suhject  to  destruction  is  destroycti,'  and
+gi-icvcd  not."  And  hereupon  at  the  man's  request  he  related  a  story  of  the
+paat.
+
+
+Onco  upon  a  time  when  Rrahmadatta  was  reigning  in  Benares,  tho
+Bodhisatta  was  horn  in  a  bralimin  household,  in  a  village  outride  the  gates
+of  Benares,  and  rearing  a  family  he  supported  tliem  by  field  labour.  He
+had  two  ehildren,  a  son  and  a  daughter.  When  the  son  wjis  gi'own  up,
+tho  father  brought  a  wife  home  for  him  from  a  family  of  equal  rank  with
+his  own.  Thus  with  a  female  slave  they  composed  a  household  of  six  :
+the  Bodhisatta  and  his  wife,  the  .son  and  daughtei-,  the  daughter-in-law  and
+the  female  slave.  They  lived  happily  and  affectionately  together.  The
+Bodhisatta  thus  admonished  the  other  five ;  "According  as  ye  have
+received,  give  alms,  ol)serve  holy  days,  keep  the  moral  law,  dwell  on  the
+thought  of  death,  be  mindful  of  your  mortal  state.  For  in  the  case  of
+beings  like  ourselves,  death  is  certain,  life  uncertain :  all  existing  things
+are  transitory  and  subject  to  decay.  Therefore  take  heed  to  your  ways
+day  and  night."  They  readily  accepted  his  teaching  and  dwelt  earnestly
+on  the  thought  of  death.
+
+Now  one  day  the  l?odhi.satta  went  with  his  son  to  plough  his  field.
+[163]  The  son  gathered  together  the  rubbish  and  set  tire  to  it.  Not
+far  from  where  he  was,  lived  a  snake  in  an  anthill.  The  smoke  hurt  the
+snake's  eyes.  Coming  out  from  his  hole  in  a  rage,  it  thought,  "This  is  all
+due  to  that  fellow,"  and  fastening  upon  him  with  its  four  teeth  it  bit  him.
+The  youth  fell  down  dead.  The  Bodhisatta  on  seeing  him  fall,  left  his
+oxen  and  came  to  him,  and  finding  that  he  was  dead,  he  took  him  up  and
+laid  him  at  the  foot  of  a  certain  tree,  and  covering  him  up  with  a  cloak,
+he  neither  wept  nor  lamented.  He  said,  "That  which  is  subject  to  dis-
+solution is  dissolved,  and  that  which  is  subject  to  death  is  dead.  All
+compound  existences  are  transitory  and  liable  to  death."  And  recognizing
+the  transitory  nature  of  things  he  went  on  with  his  ploughing.  Seeing  a
+neighbour  pass  close  by  the  field,  he  asked,  "Friend,  are  you  going  home?"
+And  on  his  answering  "Yes,"  he  said,  "Please  then  to  go  to  our  house  and
+say  to  the  mistress,  'You  are  not  to-day  as  formerly  to  bring  food  for  two,
+but  to  bring  it  for  one  only.  And  hitherto  the  female  slave  alone  has
+brought  the  food,  but  to-day  all  four  of  you  are  to  put  on  clean  garments,
+and  to  come  with  perfumes  and  flowers  in  your  hands.' "
+
+"All  right,"  he  said,  and  went  and  spoke  these  very  words  to  the
+brahmin's  wife.
+
+Slie  asked,  "By  whom.  Sir,  was  this  message  giveni"
+
+"By  the  brahmin,  lady,"  he  replied.
+
+
+No.   354.  109
+
+Then  she  understood  that  her  son  was  dead.  But  she  did  not  so  much
+as  tremble.  Thus  showing  peifcct  self-control,  and  wearing  white  gar-
+ments and  with  perfumes  and  flowers  in  her  hand,  she  bade  them  bring
+food,  and  accompanied  the  other  members  of  the  family  to  the  field.  But
+no  one  of  them  all  either  shed  a  tear  or  made  lamentation.  The  Bodhisatta,
+still  sitting  in  the  shade  where  the  youth  lay,  ate  his  food.  And  when  his
+meal  was  finished,  they  all  took  up  fire-wood  and  lifting  the  body  on  to
+the  funeral  pile,  they  made  otffrings  of  pei-fumes  and  flowers,  and  then
+set  fire  to  it.  But  not  a  single  tear  was  shed  by  any  one.  All  were
+dwelling  on  the  thought  of  death.  Such  was  the  efficacy  of  their  virtue
+that  the  throne  of  Sakka  manifested  signs  of  heat.  [IG-t]  Sakka  said,
+"Who,  I  wonder,  is  anxious  to  bring  me  down  from  my  throne  1"  And  on
+reflection  he  discovered  that  the  heat  was  due  to  the  force  of  virtue  existing
+in  these  people,  and  being  highly  plea.sed  he  said,  "I  must  go  to  them  and
+utter  a  loud  cry  of  exultation  like  the  roaring  of  a  lion,  and  immediately
+afterwards  fill  their  dwelling  place  with  the  seven  treasures."  And  going
+there  in  haste  he  stood  by  the  side  of  the  funeral  pyre  and  said,  "What  are
+you  doingl"
+
+"We  are  burning  the  body  of  a  man,  my  lord."
+
+"It  is  no  man  that  you  are  burning,"  he  said.  "Methinks  you  are
+roasting  the  flesh  of  some  beast  that  you  have  slain."
+
+"Not  so,  my  lord,"  they  said.  "It  is  merely  the  body  of  a  man  that
+we  are  burning."
+
+Then  he  said,  "It  must  have  been  some  enemy."
+
+The  Bodhi.satta  Siiid,  "It  is  our  own  true  son,  and  no  enemy."
+
+"Then  he  could  not  have  been  dear  as  a  son  to  you."
+
+"He  was  very  dear,  my  lord."
+
+"  Then  why  do  you  not  weep?"
+
+Then  the  Bodhisattit,  to  explain  the  reason  why  lu;  did  not  weep,
+uttered  the  first  stanza : —
+
+Man  quits  hi.s  mortal   frame,  when  joy  in  life  is  past.
+E'en  a.s  a  snake  i.s  wont  its  worn  out  .slough  to  ca.st.
+No  friend'.s  lament  can  touch  the  ashes  of  the  dcjid:
+Why  should  I  grieve?     He  ftire-s  the  way  he  had  to  tread.
+
+[165]  Sakka  on  hearing  the  words  of  the  Bodhisatta,  asked  the
+brahmin's  wife,  "How,  lady,  did  the  dead  man  stand  to  you?"
+
+"I  sheltered  him  ten  months  in  my  womb,  and  suckled  him  at  my
+breast,  and  directed  the  movements  of  his  hands  and  feet,  and  he  was  my
+grown  up  son,  my  lord."
+
+"Granted,  lady,  that  a  father  from  the  nature  of  a  man  may  not  weep,
+a  mother's  heart  surely  is  tender.     Why  then  do  you  not  weep?"
+
+And  to  explain  why  she  did  not  weep,  she  uttered  a  couple  of
+stanzas : —
+
+
+110  Tlie  Jataka.     Book   V.
+
+Uncalled  he  hither  came,  unbidden  soon  to  go;
+
+E'en  as  he  canio,  he  went.     AVhat  tauso  is  here  fur  woe?
+
+•    No  friend's  lament  can  touch  the  ashes  of  the  dwid :
+
+Why  should   I   grieve?     He  fares  the  w.iy  lie  liad  to  tre^id.
+
+On  hearing  the  words  of  the  brahmin's  wife,  Sakka  asked  thf  sister:
+"Lady,  what  was  the  dead  man  to  youl"
+
+"He  was  my  brother,  my  lord."
+
+"Lady,  sisters  surely  are  lovin<;  towards  their  brothei-s.  Why  do  yon
+not  weejil"
+
+But  she  to  ex|il;iiii  the  leason  why  she  did  not  weep,  repeated  a  couple
+of  stanzas:—
+
+Though  I  sliouKl  fast  and  weep,  how  wc»uld  it  proHt  me?
+My  kith  and  kin  alas!    would  more  unhappy  \yc.
+
+[166]  No  friend's  lament  atn  touch  the  ashe«  of  the  d&uj :
+
+Why  should   I  i,'rievc?     He  fares  the  way  he  had  to  tread.
+
+Sakka  on  hearin*^  the  words  of  the  sistflr,  asked  his  wife:  "I^^dy,  what
+was  he  to  you?"
+
+"He  was  my  husband,  my  lonl."
+
+"Women  surely,  when  a  hiisbaiul  dies,  as  widows  are  helpless.  Why
+do  you  not  weep?"
+
+But  she  to  explain  the  reiison  why  she  did  not  weep,  uttei*ed  two
+stanzas  : —
+
+As  children  cry  in  vain  to  grasp  the  moon  above,
+So  mortals  idly  mourn  the  loss  of  those  they  love.
+
+No  friend's  lament  can  touch  the  a-slies  of  the  dead :
+WTiy  should   I  grieve?     He  fares  the  way  he  hatl  to  tread.
+
+[167]  Sakka  ou  hearing  the  words  of  tlie  wife,  asked  the  handmaid,
+saying,  "Woman,  what  was  he  to  you?"
+
+"He  was  my  master,  my  lord."
+
+"No  doubt  you  must  have  been  abused  and  beaten  and  oppressed  by
+him  and  therefore,  thinking  he  is  happily  dead,  you  weep  not."
+
+"Speak  not  so,  my  lord.  This  does  not  suit  his  ca.se.  My  young
+master  was  full  of  long-suffering  and  love  and  pity  for  me,  and  was  as  a
+foster  child  to  me."
+
+"Then  why  do  you  not  weep?"
+
+And  she  to  exj)lain  why  she  did  not  weep,  uttered  a  couple  of
+stanzas : —
+
+A  broken  pot  of  &xrth,  ah !   who  can  piece  again  ?
+So  too  to  moiu-n  the  dead  is  nought  but  labour  vain.
+
+No  friend's  lament  can  touch  the  ashes  of  the  dead :
+Why  should  I  grieve  ?     He  fares  the  way  he  had  to  tread.
+
+
+No.  354.  Ill
+
+Sakka  after  hearing  what  they  all  had  to  say,  was  greatly  pleased  and
+said,  "Ye  have  carefully  dwelt  on  the  thought  of  death.  Henceforth  ye
+are  not  to  labour  with  your  own  hands.  I  am  Sakka,  king  of  heaven.
+I  will  create  the  seven  treasures  in  countless  abundance  in  your  house.
+[168]  Ye  are  to  give  alms,  to  keep  the  moral  law,  to  observe  holy  days,
+and  to  take  heed  to  your  ways."  Au.l  thus  admonishing  them,  he  filled
+their  house  with  countless  wealth,  and  so  parted  from  them.
+
+
+The  Maater  having  finished  his  exposition  of  the  Law,  declared  the  Jruths
+and  identified  the  Birth  :--At  the  conclusion  of  the  Truths  the  landowner
+attained!  the  fruit  of  the  Kii-st  Path  :-"  At  that  time  Khujjuttiira  was  the  female
+slave,  Upimlavanna  the  daughter,  Hahula  the  son,  Khema  the  mother,  and  1
+myself  w^is  the  brahmin."
+
+
+No.   355.
+
+fiHATA-JATAKA.
+
+
+"  While  others  weep,"  e^c.-Tliis  story  the  Mii.stcr,  dwelling  at  Jetavana,  told
+concerning  a  mini.ster  of  the  king  of  Ko.sala.  The  intnKluct.>ry  story  is  identical
+with  one  already  given.  But  in  this  c;i.se  the  king  after  lx;.stown.g  gre^it  honour
+on  a  minister  who  .served  hiin  well,  gave  air  to  certjiin  mi.schief-inakers  and  had
+him  seized  and  thrown  into  prison.  While  he  was  lying  there,  he  entered  ui-on
+the  First  Path.  The  king,  Ijecoming  aware  of  his  great  merit  relea.sed  him
+He  took  a  .scented  garland  and  coming  into  the  presence  of  the  M;tster,  saluted
+him  and  .si^t  down.  Then  the  Miister  asked  if  sf)me  evil  had  not  befallen  hmi
+"Yes  Reverend  Sir,"  he  answered,  "but  thnnigh  evil  goo<l  luus  come  to  me.  1
+have  entereil  on  the  First  Path."  "N'erily,'"  .s^iid  the  Master,  "not  you  only,  but
+sages  of  old  got  good  out  of  evil"  And  herewith  at  his  request  he  told  a  .story
+of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisutta  was  born  to  him  as  the  son  of  his  queen-consort.  And  they
+called  him  prince  Ghata.  He  afterwards  acquired  a  knowledge  of  the  arts
+at  Takkasila  and  ruled  his  kingdom  righteously.
+
+Now  a  certain  minister  misconducted  himself  in  the  royal  harem.  The
+king,  aft.T  witiip.ssing  the  offence  with  his  own  eyes,  baiiish.d  him   from
+
+
+112  The  Jataka.     Book    V.
+
+his  kingdom.  At  that  time  a  king  named  Vanka  nilod  in  Ravatthi.
+The  minister  went  to  him  and  entering  liis  service,  just  as  in  the  former
+story \  gained  the  king's  ear  and  got  him  to  seize  on  the  kingdom  of
+Benares.  After  gaining  jxKs.ses.sion  of  tlie  kingdom,  lie  had  the  BoiUii.satta
+bound  in  chiiins  and  thn-w  him  into  priHon.  The  Uodlji.satta  ent+'n-d  on  an
+ecstatic  meditation  [169]  and  sat  cross-legged  in  the  air.  A  burning  heat
+sprang  up  in  the  body  of  Vanka.  He  canu;  and  Ix'heJd  the  count<'nance
+of  the  liodhi.satta  radiant  with  the  bt-auty  of  a  full-blown  lotu.s,  like  to  a
+golden  mirror,  and  in  the  form  of  a  question  rejKjatcd  the  firet  stanza: —
+
+While  others  weep  and  wail,  their  cheeks  with  tears  bestainod,
+AVhy  still  with  .smiling  face,  has  (ihatji  ne'er  complained?
+
+Then  the  Bodhisatta,  to  explain  why  he  did  not  grieve,  recited  the
+remaining  stanzas : —
+
+To  change  the  |Ni.st  all  .sorrow  is  but  vain.
+
+It  has  no  blessing  fi>r  a  future  state:
+Why  should   I,  Vanka,  of  my  woes  complain/
+
+Grief  is  no  helpmeet  tit  with  lus  in  mate.
+
+One  that  is  sick  with  .sorrow  pines  away,
+
+His  fmnl  insipid  and  distiusU'ful  grow.s,
+Piercetl  as  with  arrows,  to  his  griei  a  pit5y.
+
+Ho  sinks  a  laughing-.stock  to  all  his  foes.
+
+Whether  my  homo  be  on  dry  land  or  sea,
+
+Be  it  in  village,  or  .some  forest  drear,
+No  sorrow  ever  shall  come  nigh  to  me,
+
+A  soul  convertetl  c;u>  have  nought  to  fear.
+
+But  he  that  lacks  completion  in  him.self
+And  is  with  lust  of  things  of  .sense  a-firo.
+
+Not  the  whole  world,  with  all  its  sordid  i)clf,
+Can  e'er  suffice  for  such  a  man's  desire.
+
+[170]  Vanka  therefore,  after  hearing  these  four  stanzas,  asked  for-
+giveness of  the  Bodhisatta,  and  restored  him  to  his  kingdom  and  went  his
+way.  But  the  Bodhisjitta  handed  over  the  kingdom  to  his  ministers,  and
+retreating  to  the  Himalayas  became  an  a.scetic,  and  without  any  break  in
+his  ecstatic  meditation  was  destined  to  birth  in  the  world  of  Brahma.
+
+
+The  Master,  ha\ing  ended  his  lesson,  identified  the  Birth :  "At  that  time
+Ananda  Wixs  king  Vankii,  and  I  myself  was  king  Ghata."
+
+
+'  Compare  No.  303  mpra.
+
+
+No.   356.  113
+
+
+No.  356.
+
+
+KARANDIYA-JATAKA.
+
+"  Wki/  in  forest,"  etc. — This  was  a  story  told  by  the  Master  while  dwelling  at
+Jct<xvaiui,  concerning  the  Captain  of  the  Faith  (Sariputta).  That  elder,  they  say,
+when  wicked  folk  came  to  him,  such  as  hunters,  fishermen  and  the  like,  laid
+down  the  moral  law  to  tlicm,  and  any  othei-s  that  lie  might  see  from  time  to
+time,  saying,  "Receive  ye  the  law."  Through  rcsi>ect  for  the  elder,  they  could
+not  disobey  his  wonls  and  accepted  the  law,  but  failed  to  keep  it,  and  still
+followed  each  after  his  own  V)usiness.  The  elder  took  counsel  with  his  fellow-
+priests  and  siiid,  "Sirs,  these  men  receive  the  law  from  me,  but  keep  it  not."
+[171]  They  answered,  "Holy  Sir,  you  preach  tlie  law  to  them  again.st  their
+wishe.s,  and  as  they  dare  not  di.sol>ey  what  you  tell  them,  they  accept  it.  Hence-
+forth lay  not  down  the  law  to  such  fus  these."  The  elder  w;us  offended.  On
+hearing  of  the  incident  they  stiirted  a  di.scu.ssion  in  the  Hall  of  Truth,  how  that
+the  elder  Sariputta  i)re<uhed  the  law  to  any  that  he  happened  to  see.  The
+Mtustcr  came  and  inquired  what  was  the  topic  that  the  Brethren  wore  debating
+in  their  a.s.sembly,  and  on  hearing  what  it  wa.s,  he  .sjiid,  "Not  now  only,  Brethren,
+but  formerly  al.s<}  he  preached  the  law  to  any  men  he  njight  cliance  to  .see,  even
+though  they  did  not  <isk  for  it."     And  herewith  he  told  a  story  of  the  ptust.
+
+
+Once  upon  a  time  wlicn  Brahmadattn  rcij^ned  in  Benare.s,  the  Bodhisatta
+was  born  and  grew  up  in  a  brahmin  ho)i.sehold,  and  became  the  chief  pupil
+of  a  world-famed  teacher  at  Takka-sila.  At  that  time  thi8  teaclier  preached
+tlie  moml  law  to  any  one  that  he  might  see,  fi.shermen  and  the  like,  even  if
+they  did  not  want  it,  repeatedly  bidding  them  receive  the  law.  liut
+though  they  received  it,  they  kept  it  not.  The  teacher  spoke  of  it  to  his
+disciples.  His  disciples  sjiid,  "Holy  Sir,  you  preach  to  them  against  thfdr
+wishes,  and  therefore  they  break  the  law.  Henceforth  pn-ach  only  to
+those  who  wish  to  hear  you,  and  not  to  those  who  do  not  wish."  The
+teacher  was  filled  with  regi'et,  but  even  bo  he  still  laid  down  the  law  to  all
+whom  he  happened  to  see.
+
+Now  one  day  some  people  came  from  a  cei-tain  village  and  invited  the
+teacher  to  partake  of  the  cakes  offered  to  brahmin.s.  He  summoned  his
+dLsciple  named  Karandiya  and  .said,  "My  dear  .son,  I  am  not  going,  but  you
+are  to  go  there  with  these  five  hundred  disciples,  and  receive  the  cakes,  and
+bring  the  jjortion  that  falls  to  my  share."  So  he  sent  him.  The  di.sciple
+went,  and  as  he  was  returning,  he  spied  on  the  road  a  cave,  and  the  thought
+struck  him,  "Our  master  lays  down  the  law,  without  being  asked,  to  all  that
+he  sees.  Henceforth  I  will  cause  him  to  preach  only  to  those  that  wish  to
+hear  him."      [ITli]  And  while  the  other  disciples  were  comfortably  seated,
+
+J.  III.  8
+
+
+114  The  Jataka.     Book    V.
+
+ho  arose  and  picking,'  up  a  huge  stone,  flung  it  into  the  cave,  and  again  and
+again  repeated  the  action.  Then  tlie  disciples  stood  up  and  said,  "Sir,
+wliat  are  you  doing?"  Karandiya  said  not  a  word.  And  they  went  in
+hiuste  and  told  their  niast<>r.  Tlie  master  came  and  in  conversing  with
+Kfirandiya  repeated  the  first  stanza : —
+
+Why  in  foreat  all  alone
+Seizing  oft  a  mighty  stone,
+Didst  thou  hurl  it  with  a  will,
+^fountain  cave  aa  'twere  to  till?
+
+On  hearing  his  words,  Karandiya  to  rouse  liis  master  uttered  the
+second  stanza: —
+
+I  would  make  this  sea-girt  land
+Smooth  JiM  palm  of  human  hand:
+Thus  I  level  knoll  and  hill
+And  with  stone-s  each  hollow  till.
+
+The  l)rahmin,  on  hearing  this,   re|)eated  the  third  stanza: —
+
+Ne'er  a  one  of  mortal  birth
+Ha.s  the  jx)wer  to  level  earth.
+Scarce  Kanuidiya  can  hojKJ
+With  a  single  cave  to  coi»e.
+
+[173]  The  disciple,  on  hearing  thi.s,  spoke  the  fourth  stanza: —
+
+If  a  man  of  mortal  hirth
+Ha.s  no  jKiwer  to  level  earth.
+Heretics  may  well  refuse,
+Brahmin,  to  adopt  thy  views.
+
+On  hearing  this  the  t^^-acher  made  an  appropi-iate  rt-ply.  For  he  now
+recognized  that  other  men  might  ditfer  from  him,  and  thinking,  "  I  will  no
+longer  act  thus,"  he  utt«'red  the  fifth  stanza  : —
+
+Friend  Karandiya,  in  short
+For  my  gootl  thou  dost  e.xhort:
+Eiirth  can  never  levelled  be,
+Neither  can  all  men  agree.
+
+Thus  did  the  teacher  sing  the  praises  of  his  disciple.  And  he,  after  he
+had  thus  admonished  his  teacher,  conducted  him  home.
+
+
+[174]  The  Master,  having  ended  this  lesson,  identified  the  Birth:  "At  that
+time  Sariputta  wiis  the  brahmin,  and  I  myself  was  the  disciple  Karandiya."
+
+
+No.    357.  115
+
+
+No.  357.
+
+LATUKIKA-JATAKA'
+
+
+"Elephant  of  sixty  years'  etc.-Th\H  Wcos  a  story  told  by  the  Master  while
+dwellimf in  the-^BamW  Gmve,  concerning  Devvulatta  One  day  hey  rajsed  a
+d^culsfoi  in  the  Hall  of  Truth,  s^iying,  "Sirs,  Dcvadatta  is  hai-sh  cruel,  and
+vioS  He  \Z  not  an  atom  of  pity  for  mortals."  When  the  Ma.ster  came,  he
+1  quire  1  what  was  the  topic  the  Brethren  were  as.scmbled  to  discuss,  and  on
+Srii '-  Jiafit  wa.s,  he  Jid,  "  Brethren,  not  now  only,  hut  formerly  also  he  was
+pitiless."    And  herewith  he  told  a  story  of  the  pa.st.
+
+
+Once  upon  a  time  wlien  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  a  young  elophant,  and  growing  up  a  fine  comely
+beast,  he  became  the  leader  of  the  herd,  with  a  following  of  eighty  thousand
+elephants,  and  dwelt  in  the  Himalayas.  At  that  time  a  quail  laid  her
+eggs  in  the  feeding-ground  of  the  elephants.  When  the  eggs  were  ready
+to  be  hatched,  the  young  birds  broke  the  shells  and  came  out.  Bt^fore  their
+wings  had  grown,  and  when  they  were  still  unable  to  fly,  the  Great  Being
+with  his  following  of  eighty  thousand  elephants,  in  ranging  about  for  food,
+came  to  this  spot.  On  seeing  them  the  quail  thought,  "This  royal  elephant
+will  trample  on  my  young  ones  and  kill  them.  Lo  !  I  will  implore  his
+righteous  protection  for  the  defence  of  my  brood."  Then  she  rai.sed  her
+two  wings  and  standing  before  him  repeated  the  tirat  stanza  :—
+
+Elephant  of  sixty  years,
+Forest  lord  amongst  thy  peers,
+I  am  but  a  puny  bird.
+Thou  a  leader  of  the  herd ;
+With  my  wings  I  homage  pay.
+Spare  my  Uttle  ones,  I  pray.
+
+[175]  The  Great  Being  said,  "  0  quail,  be  not  troubled.  I  will  protect
+thy  offspring."  And  standing  over  the  young  birds,  while  the  eighty
+thousand  elephants  passed  by,  he  thus  addressed  the  quail  :  "  Behind  us
+comes  a  solitary  rogue  elephant.  He  will  not  do  our  bidding.  When  he
+comes,  do  thou  entreat  him  too,  and  so  insure  the  safety  of  thy  oflfspnng.
+And  with  these  words  he  made  off.  And  the  quail  went  forth  to  meet  the
+other  elephant,  and  with  both  wings  uplifted,  making  respectful  salutation,
+she  spoke  the  second  stanza  : —
+
+»  For  this  story  see  Benfey's  Introduction  to  the  I'anchatantra.
+
+8—2
+
+
+116  Tlte  Jdtaka.     Book   V.
+
+Roarniii}?  over  hill  ami  dale
+
+('herishing  thy  lonely  way,
+Thee,  O  forest  king,  I  hail.
+
+And  with  wings  my  homage  jMiy.
+I  arn  Imt  a  wretched  quail.
+
+Spare  my  tender  brood  Ui  sluy.
+
+On  hearing  lier  words,  the  elephant  spoke  the  third  stanza : —
+
+I  will  slay  thy  young  ones,  quail;
+What  can  thy  ]>oor  help  avail?
+My  left  foot  can  cruHh  witli  ejiao
+Many  thoutumd  hinls  like  these.
+
+[17G]  And  so  saying,  with  his  foot  ho  crusheil  the  young  birds  to
+atoms,  and  staling  over  th(Mn  washed  them  away  in  a  flood  of  water,  and
+went  off  loudly  trumpeting.  The  quail  sat  down  on  the  bough  of  a  tree
+and  said,  "Then  be  off  with  you  and  trumpet  away.  You  shall  very  soon
+see  what  I  will  do.  You  little  know  what  a  difference  there  is  between
+strength  of  body  and  strength  of  mind.  Well!  I  will  teach  you  this
+le.sson."     And  thus  threatening  him  she  repeated  the  fourth  stanza: —
+
+Power  abu.sed  is  not  all  gain.
+Power  is  often  folly's  bane.
+Bea.st  that  didst  my  young  onas  kill,
+I  will  work  thee  mischief  still.
+
+And  so  saying,  shortly  afterwards  sIk;  did  a  good  turn  to  a  crow,  and
+when  the  crow,  who  was  highly  plea.sed,  asked,  "  What  can  I  do  for  you  1 "
+the  q>iail  said,  "  There  is  nothing  else,  Sir,  to  be  done,  but  I  shall  expect
+you  to  strike  with  your  beak  and  to  peck  out  the  eyes  of  this  rogue
+elephant."  Tlie  crow  readily  assented,  and  the  quail  then  did  a  service  to
+a  blue  fly,  and  when  tlie  fly  asked,  "What  can  I  do  for  you]"  she  said,
+"  Wlien  the  eyes  of  this  rogue  elephant  have  been  put  out  by  the  crow,
+then  I  want  you  to  let  fall  a  nit  upon  them."  The  fly  agreed,  and  then
+the  quail  did  a  kindness  to  a  frog,  and  when  the  frog  asked  what  it  was  to
+do,  she  said,  "When  this  rogue  elephant  becomes  blind,  and  shall  be
+searching  for  water  to  drink,  then  take  your  stand  and  utter  a  croak  on
+the  top  of  a  mountain,  and  when  he  has  climbed  to  the  top,  come  down
+and  croak  again  at  the  bottom  of  the  precipice.  This  much  I  shall  look
+for  at  your  hands."  After  hearing  what  the  quail  said,  the  frog  readily
+assented.  [177]  So  one  day  the  crow  with  its  beak  pecked  out  both  the
+eyes  of  the  elephant,  and  the  fly  dropped  its  eggs  upon  them,  and  the
+elephant  being  eaten  up  with  maggots  was  maddened  by  the  pain,  and
+overcome  with  thirst  wandered  about  seeking  for  water  to  drink.  At  this
+moment  the  frog  standing  on  the  top  of  a  mountain  uttered  a  croak.
+Thought  the  elephant,  "There  must  be  water  there,"  and  climbed  up
+the  mountain.  Then  the  fi'og  descended,  and  standing  at  the  bottom
+croaked  again.     The  elephant  thought,  "  There  will  be  water  there,"  and
+
+
+No.  357.  117
+
+
+moved  forward  towards  the  precipice,  and  rolling  over  fell  to  the  bottom  of
+the  mountain  and  was  killed.  When  the  quail  knew  that  the  elephant
+was  dead,  she  said,  "I  have  seen  the  back  of  mine  enemy,"  and  in  a  high
+state  of  delight  strutted  over  his  body,  and  passed  away  to  fare  according
+to  her  deeds.
+
+
+The  Iklaster  said,  "  Brethren,  one  ought  not  to  incur  the  ho.stility  of  anyone
+These  four  creatures,  by  combining  together,  brought  about  the  destruction  ot
+this  elephant,  strong  a.s  he  was.
+
+A  quail  with  crow,  l>lue  fly  and  frog  allied
+
+Once  proved  the  is.sue  of  a  dejxdly  feud.
+Through  them  king  ele^)hant  untimely  died :
+
+Therefore  all  quarrelling  should  be  eschewed."
+
+Uttering  this  stanza  inspirwl  by  Perfect  Wisdom,  he  thus  identified  the
+Birth:  "At  that  time  Devadatta  Wcvs  the  rogue  elephant,  and  I  myselt  w;vs  the
+leader  of  the  herd  of  elephants."
+
+
+No.  358.
+
+CULL.VDHAMMAP.VLA-JATAKA.
+
+-Mahdpatapa's  ^oretched  queen^  e^.^-This  story  the  ^/^^^^.^^'J^^^^^^^^^f^^S  in
+the  BambSo^  Grove,  told  conceding  the  going  about  of  Devadatta  to  say  the
+Boihisatta.  In  all  other  Births  DevadatUi  failed  to  excite  so  much  as  an  atom
+of  fSrin  the  Bodhisatta,  [178]  but  in  the  CiUladhammapala  Birth,  when  the
+BoIwL  ta  wL  oiT-ven  Lntk  old.  he  had  his  hands  and  feet  and  head  cut
+off  and  his  body  encircled  with  sword  cuts,  as  it  were  with  a  f  jland  1  the
+Mdara'  Birth  he  killed  him  by  twisting  his  neck  and  ro^isted  hi-s  Ae-^h  "i  an
+ovii  and  ate  it  In  the  Kha.itivadi^  Birth  he  h^ui  him  scourged  with  two
+?hous.t  d  strokes  of  a  whip,  and  ordered  his  hands  and  feet  and  ears  and  nose  to
+t^c^^off  and  then  had  him  .seized  by  the  hair  of  his  head  and  dragged  a  ong
+afid  when  he  was  stretched  at  full  length  on  his  back,  he  kicked  h.m  n.  the  be  ly
+:  d  made  oft>"d  that  very  day  the^BodhisatU  died.  But  both  in  the  CuUa.
+nandaka  and  the  Vevatiyakapi^  Births  he  merely  had  him  put  to  death,  ihus
+5  d  DevadatU  for  a  long  time'  go  about  to  slay  l^»"^V''"^/"°'"Tn  in'tt  Hall  of
+after  he  became  a  Buddha.     So  one  day  they  raised  a  discussion  in  the  HaU  of
+
+1  This  does  not  occur  in  either  of  the  two  Daddara-jiitakas,  no.  172,  vol.  ii.  and
+no.  304  supra.
+
+-  No.  313  supra.
+
+»  These  tviojatakas  do  not  seem  to  have  been  identified.
+
+
+118  The  Jataka.     Book   V.
+
+Truth,  saying,  "Sirs,  l^ev.idattn  is  continually  forming  plots  to  slay  the  Buddhas.
+Being  minded  to  kill  the  Supremo  Buddha,  he  suhonied  archers  to  shoot  him,  he
+threw  down  a  rock  upon  him,  and  let  loose  the  elephant  Nrdagiri  on  him."  When
+the  Master  came  and  inquired  what  suhject  the  Brethren  were  assembled  to
+discuss,  on  hearing  what  it  was  he  said,  "Brethren,  not  now  only,  hut  fonnerly
+too  ho  went  aV)out  to  kill  me,  l»ut  now  ho  fails  to  excite  a  particle  of  fear  in  me,
+though  formerly  when  I  was  princo  Dhammanala  he  brought  about  my  death,
+though  I  was  his  own  son,  by  encircling  my  iH)dy  with  sword  cuts,  as  it  wore
+with  a  garland."     And  so  saying,  he  related  a  story  of  the  past.
+
+
+Once  upon  a  time  when  ISIahapatapa  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  the  son  of  his  queen-consort  Oanda  and  they
+named  him  Dhammapala.  "When  he  was  seven  months  old,  his  mother
+had  him  bathed  in  scented  water  and  richly  dres.sed  and  sat  j)laying  with
+him.  The  king  came  to  the  place  of  her  abode.  And  as  she  was  playing
+with  the  boy,  being  tilled  with  a  mother's  love  for  her  child,  she  omitted
+to  rise  up  on  seeing  the  king.  He  thought,  "  Even  now  this  woman  is
+filled  with  pride  on  account  of  her  boy,  and  does  not  value  me  a  straw,  but
+as  the  boy  grows  up,  she  will  think,  'I  have  a  man  for  my  son,'  and  will
+take  no  notice  of  me.  I  will  have  him  put  to  death  at  once."  So  he
+returned  home,  and  sitting  on  his  throne  summoned  the  executioner  into
+his  presence,  with  all  the  instruments  of  his  office.  [179]  The  man  put  on
+his  yellow  robe  and  wearing  a  crimson  wreath  laid  his  axe  upon  his
+shoulder,  and  carrying  a  block  and  a  bowl  in  his  hands,  came  and
+stood  before  the  king,  and  saluting  him  said,  "  What  is  your  pleasure,
+Sire  1  "
+
+"Go  to  the  royal  closet  of  the  queen,  and  bring  hither  Dhammapala,"
+said  the  king.
+
+But  the  queen  knew  that  the  king  had  left  her  in  a  rage,  and  laid  the
+Bodhisatta  on  her  bosom  and  sat  weeping.  The  executioner  came  and
+giving  her  a  blow  in  the  back  snatched  the  boy  out  of  her  arms  and  took
+him  to  the  king  and  said,  "What  is  your  pleasure,  Sire?"  The  king  had
+a  board  brought  and  put  down  before  him,  and  said,  "  Lay  him  down  on
+it."  The  man  did  so.  But  queen  Canda  came  and  stood  just  behind  her
+son,  weeping.  Again  the  executioner  said,  "  What  is  your  pleasure,
+Sirel"  "  Cut  off  Dhammapala's  hands,"  said  the  king.  Queen  Canda  said,
+"  Great  king,  my  boy  is  only  a  child,  seven  months  old.  He  knows
+nothing.  The  fault  is  not  his.  If  there  be  any  fault,  it  is  mine.  There-
+foi"e  bid  my  hands  to  be  cut  off."  And  to  make  her  meaning  clear,  she
+uttez'ed  the  first  stanza: —
+
+Mahapatapa's  wretched  queen,
+'Tis  I  alone  to  blame  have  been.
+Bid  Dhammapala,  Sire,  go  free.
+And  off  with  hands  of  luckless  me.
+
+
+No.    358.  119
+
+The  king  looked  at  the  executioner.  *'  What  is  your  pleasure,  Sire  ?  "
+"  Without  further  delay,  off  with  his  hands,"  said  the  king.  At  this
+moment  the  executioner  took  a  sharp  axe,  and  lopped  off  the  boy's  two
+hands,  as  if  they  had  been  young  bamboo  shoots.  [1^0]  The  boy,  when
+his  hands  were  cut  off,  neither  we})t  nor  lamented,  but  moved  by  patience
+and  charity  bore  it  with  resignation.  But  the  queen  Canda  put  the  tips
+of  his  fingers  in  her  lap  and  stained  with  blood  went  about  lamenting.
+Again  the  executioner  asked,  "What  is  your  pleasure.  Sire?"  "Off
+with  his  feet,"  said  the  king.  On  heai'ing  this,  Cauda  uttered  the  second
+stanza  : —
+
+Mahapatiipa's  wretched  queen,
+'Tis  I  alone  to  blame  have  been.
+Bid  Dhammapala,  Sire,  go  free.
+And  off  with  feet  of  luckless  me.
+
+But  the  king  gave  a  sign  to  the  executioner,  and  he  cut  off  both  his
+feet.  Queen  Canda  put  his  feet  al.so  in  her  lap,  and  stained  with  blood,
+lamented  and  said,  "My  lord  Mahapatapa,  his  feet  and  hands  are  cut  off.
+A  mother  is  bound  to  support  her  children.  I  will  work  for  wages  and
+support  my  son.  Give  him  to  me."  The  executioner  said,  "Sire,  is  the
+king'.s  pleasure  fultilledl  Is  my  service  tinished]"  "Not  yet,"  said  the
+king.  "What  then  is  your  pleasure,  Sire?"  "Off  with  his  head,"  said  the
+king.     Then  Canda  repeated  the  third  stanza: —
+
+Mahapatupa's  wretched  queen,
+'Tis  1  alone  to  blame  have  Ikjcu.
+Bid   Dhammapala,  Sire,  go  free,
+And  off  with  head  of  lucklcsa  me.
+
+And  with  these  words  she  offered  her  own  head.  Again  the  execu-
+tioner asked,  "What  is  your  pleasure.  Sire?"  "Off  with  his  head,"  said
+the  king.  So  he  cut  off  his  head  and  asked,  "Is  the  king's  pleasure
+fuieiled?"  "Not  yet,"  said  the  king.  "What  further  am  I  to  do.  Sire?"
+"Catching  him  with  the  edge  of  the  sword,"  said  the  king,  "encircle  him
+with  sword  cuts  as  it  were  with  a  garland."  Then  he  threw  the  body  of
+the  boy  up  into  the  air,  and  catching  it  with  the  edge  of  his  sword,  en-
+circled him  with  sword  cuts,  as  it  were  with  a  garland,  and  scattered  the
+bits  on  the  dais.  Canda  placed  the  flesh  of  the  Bodhisatta  in  her  lap,  and
+as  she  sat  on  the  dais  lamenting,  she  repeated  these  stanzas : —
+
+[181]  No  friendly  coimcillors  advise  the  king,
+
+'Slay  not  the  heir  that  from  thy  loins  did  spring':
+No  loving  kinsmen  lu-ge  the  tender  plea,
+'Slay  not  the  boy  that  owes  his  life  to  thee.'
+
+Moreover  after  speaking  these  two  stanzas  queen  Canda,  pressing  both
+her  hands  upon  her  heart,  repeated  the  third  .stanza  : —
+
+
+120  The  Jataka.     Book   V.
+
+Thou,  Dhainmamla,  wert  by  right  of  birth
+
+Tlic  loi-d  of  (virth  :
+Thy  arms,  once  bathed  in  oil  of  sandal  wikkI,
+
+Lie  steeiKxi  in  bkKxl.
+My  fitful  breath  aUus !    is  choked  with  sighs
+
+And  broken  cries.
+
+While  she  was  thus  lamenting,  her  heart  broke,  as  a  bamboo  snaps,
+when  the  grove  is  on  fire,  and  she  fell  deatl  on  the  sjtot.  The  king  too
+being  unable  to  remain  on  his  throne  fell  down  on  the  dais.  An  abyss  was
+cleft  asunder  in  the  ground,  and  straightway  he  fell  into  it.  Then  the
+solid  earth,  though  many  myriads  more  than  two  hundred  thousand  leagues
+in  thickness,  being  unable  to  bear  with  his  wickedness,  clave  asunder  and
+opened  a  chasm.  A  flame  arose  out  of  the  Avici  hell,  and  seizing  upon
+him,  wrapped  him  about,  as  with  a  royal  woollen  garment,  [182]  and
+plunged  him  into  Avici.  His  ministers  peifonned  the  funeral  rites  of
+Cauda  and  the  Bodhisatta.
+
+
+The  Miuster,  liaviiii;  brought  this  discour>M!  t<»  an  enil,  identified  the  Birth :
+"At  that  time  DevailatUi  was  the  king,  MahiiMyipatl  was  Canda,  and  I  myself
+was  prince  Dhammapfda."
+
+
+No.  359.
+
+
+SU  VANN  AMIGA-J  ATAKA '.
+
+"  0  Golden-foot,"  This  wius  a  story  told  by  the  Master  while  in  residence  at
+Jetavana,  about  a  maiden  of  gentle  birth  in  Siivatthi.  She  was,  they  say,  the
+daughter  in  the  household  of  a  servitor  of  the  two  chief  disciples  at  Savatthi,
+and  was  a  faithful  believer,  fondly  attached  to  Buddha,  the  Law,  and  the  Church,
+abounding  in  good  works,  wise  unto  salvation,  antl  devoted  to  almsgiving  and  such
+like  deeds  of  piety.  Another  family  in  Savatthi  of  equal  rank  but  of  heretical
+views  chose  her  in  marriage.  Then  her  parents  said,  "Our  daughter  is  a  faithfid
+believer,  devoted  to  the  Three  Treasures,  given  to  alms  and  other  good  works,  but
+you  hold  heretical  views.  And  as  you  will  not  allow  her  to  give  alms,  or  to  hear
+the  Truth,  or  to  visit  the  monastery,  or  to  keep  the  moral  law,  or  to  observe
+holy  days,  as  she  pleases,  we  will  not  give  her  to  you  in  marriage.  Choose  ye
+a  maiden  from  a  family  of  heretical  views  like  yourselves."  When  their  oflfer  was
+rejected,  they  said,  "Let  your  daughter  when  she  comes  to  our  house  do  every-
+thing of  this  kind,  as  she  pleases.  We  will  not  prevent  her.  Only  grant  us
+this  boon."     "Take  her  then,''  they  answered.     So  they  celebrated  the  marriage
+
+1  Compare  Tibetan  Tales,  xli :  The  Gazelle  and  the  Hunter.
+
+
+No.   359.  121
+
+festivity  at  an  auspicious  season  and  led  her  home.  She  proved  faithful  in  the
+discharge  of  her  duties,  and  a  devoted  wife,  and  rendered  due  service  to  her
+father-in-law  and  mother-in-law.  One  day  she  said  to  her  husband,  "I  wish,
+my  lord,  to  give  alms  to  our  family  priests."  "Very  well,  my  dear,  give  them
+just  what  you  please."  So  one  day  she  invited  these  priests,  and  making  a  great
+entertixinment,  she  fed  them  with  choice  food,  and  taking  a  seat  apart  from
+them  she  said,  "Holy  Sirs,  this  family  is  heretical  and  unbelieving.  They  are
+ignorant  of  the  value  of  the  Three  Treasures.  Well  then.  Sirs,  until  this  family
+understands  the  value  of  the  Three  Treasures,  do  you  contiiuie  to  receive  yoiu"
+food  here."  The  priests  assented  and  continually  ate  their  meals  there.  Again
+she  addressed  her  husband,  [183]  "Sir,  the  priests  constantly  come  here.  Why
+do  you  not  see  them?"  On  hearing  this  he  said,  "Very  well,  I  will  see  them."
+On  the  morrow  she  told  him  when  the  priests  had  finished  their  meal.  He
+came  and  sat  respectfully  on  one  side,  conversing  affably  with  the  })riests.  Then
+the  Captain  of  the  Faith  preached  the  L<iw  to  him.  He  Wcxs  so  charmed  with
+the  exposition  of  the  fixith,  and  the  dei)ortment  of  the  priests,  that  from  that
+day  forward  he  prepared  mats  for  the  elders  to  sit  on,  and  .strained  water  for
+them,  and  during  the  meal  listened  to  the  exi)osition  of  the  faith.  By  and  bye
+his  heretical  views  gave  way.  So  one  day  the  elder  in  expounding  the  faith
+declared  the  Truths  to  the  man  and  his  wife,  and  when  the  sermon  wjxs  ended,
+they  were  both  estiblishe*!  in  the  fruition  of  the  First  Path.  Thenceforth  all  of
+them,  from  his  parents  down  to  the  hired  servants,  gave  uj)  their  heretical  views,
+and  became  devoted  to  the  Buddha,  his  Law,  and  the  Church.  So  one  day  this
+young  girl  said  to  her  hitsband,  "What,  Sir,  have  I  to  d<^  with  the  household
+life?  I  wi.sh  to  adopt  the  religious  life."  "Very  well,  my  dear,"  he  .siiid,  "I  too
+will  Ixicome  an  ascetic."  And  he  conducted  her  with  great  pomp  to  a  sisterhood,
+and  had  her  admitted  as  a  novice,  and  him.self  to<3  went  to  the  Master  and
+Ixjgged  to  be  ordained.  The  Master  admitted  him  first  to  deacon's  and  after-
+wards to  priest's  oixiers.  They  both  received  cl&ir  spiritual  vision,  and  shortly
+attiined  to  Sainthood.  One  cfay  they  rai.sctl  a  disciussion  in  the  Hall  of  Truth,
+saying,  "Sirs,  a  certiin  woman  by  reiuson  of  her  own  faith  and  that  of  her
+husband  became  a  novice.  And  lx)th  of  them  having  .idopted  the  religious  life,
+and  gained  cleiir  spiritual  vision,  attained  Ut  Sainthocxl."  The  Master,  when  he
+came,  inquired  what  Wiis  the  topic  the  Brethren  were  sitting  in  council  to
+di.scuss,  and  on  hearing  what  it  was,  he  .said,  "Brethren,  not  now  only,  did  she  set
+her  husband  free  from  the  iKjnds  of  pa.ssion.  Formerly  too  she  freed  even  .sages
+of  old  from  the  bonds  of  deiith."  And  with  these  words  he  held  his  jjcace,  but
+being  pressed  by  them  he  related  a  story  of  the  past.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  came  to  life  as  a  young  stag,  and  grew  up  a  beautiful  and
+gi-aceful  creature,  of  the  colour  of  gold.  His  fore  and  hind  feet  were
+covered,  as  it  were,  with  a  preparation  of  lac.  [1B4]  His  horns  were  like
+a  silver  wreath,  his  eyes  resembled  round  jewels,  and  his  mouth  was  like
+a  ball  of  crimson  wool.  The  doe  that  was  his  mate  was  also  a  handsome
+creature,  and  they  lived  happily  and  harmoniously  together.  Eight
+myriads  of  dappled  deer  followed  in  the  train  of  the  Bodhi.satta.  While
+they  were  thus  living  there,  a  certain  hunter  set  a  snare  in  the  deer  drivea
+So  one  day  the  Bodhisatta,  while  leading  his  herd,  entangled  his  foot  in  the
+snare,  and  thinking  to  break  the  noose  he  tugged  at  it  and  cut  the  skin  of
+his  foot.  Again  he  tugged  it,  and  hurt  the  flesh,  and  a  third  time  and
+injured  the  tendon.     And  the  noose  penetrated  to  the  very  bone.     Not
+
+
+122  The  Jataka.     Book   V.
+
+being  able  to  break  the  snare,  the  stag  was  so  alarmed  with  the  tear  of
+death  that  he  uttered  a  succession  of  cries.  On  hearing  it  the  herd  of
+deer  lied  in  a  panic.  But  the  doe,  as  she  lied,  looking  amongst  the  deer,
+missed  the  Bodhisatta,  and  thought,  "This  panic  must  certainly  have
+something  to  do  with  my  lord,"  and  flying  in  haste  to  him,  with  many
+tears  and  lamentations  she  said,  "My  lord,  you  are  very  strong.  Why  can
+you  not  get  the  better  of  the  snare]  Put  forth  your  strength  and  break
+it."  And  thus  stirring  him  up  to  make  an  effort,  she  uttered  the  first
+stanza : —
+
+0  Golden-foot,  no  effort  spare
+
+To  loose  thyself  from  thonged  snare.
+How  could  I  joy,  bereft  of  thee,
+To  range  amidst  the  woodland  free?
+
+[185]  The  Bodhisatta,  on  hearing  this,  responded  in  a  second  stanza: —
+
+1  spare  no  effort,  but  in  vain.
+My  liberty  I   cannot  gain.
+
+The  moi-o  I  struggle  to  get  loose,
+The  sharper  bites  the  thongdd  noose.
+
+Then  the  doe  said:  "My  lord,  fear  not.  By  my  own  power  will  I
+entreat  the  hunter,  and  by  giving  up  my  own  life  I  will  gain  yours  in
+exchange."  And  thus  comforting  the  Great  Being,  she  continued  to
+embrace  the  blood-stained  Bodhisatta.  But  the  hunter  approached,  with
+sword  and  spear  in  hand,  like  to  the  destroying  flame  at  the  beginning  of
+a  cycle.  On  seeing  him,  the  doe  said,  "My  lord,  the  hunter  is  coming.
+By  my  own  power  I  will  rescue  you.  Be  not  afraid."  And  thus  com-
+forting the  stag,  she  went  to  meet  the  hunter,  and  standing  at  a  respectful
+distance,  she  saluted  him  and  said,  "My  lord,  my  husband  is  of  the
+colour  of  gold,  and  endued  with  all  the  virtues,  the  king  of  eight  myriads
+of  deer."  And  thus  singing  the  praises  of  the  Bodhisatta,  she  begged  for
+her  own  death,  if  only  the  king  of  the  herd  might  remain  intact,  and  she
+repeated  the  thii'd  stanza  : —
+
+Let  on  the  eai"th  a  Icixfy  bed.
+Hunter,  where  we  may  fall,   be  spread  :
+And  drawing  from  its  sheath  thy  sword,
+Slay  me  and  afterwards  my  lord.
+
+The  hunter,  on  hearing  this,  was  struck  with  amazement  and  said,
+"Even  human  beings  give  not  up  their  lives  for  their  king;  much  less  the
+beasts.  What  can  this  meani  This  creature  speaks  with  a  sweet  voice  in
+the  language  of  men.  [18G]  This  day  will  I  grant  life  to  her  and  to  her
+mate."  And  greatly  charmed  with  her,  the  hunter  uttered  the  fourth
+stanza : —
+
+A  beast  that  speaks  with  voice  of  men.
+
+Ne'er  came  before  within  my  ken.
+
+Rest  thou  in  peace,  my  gentle  deer.
+
+And  cease,  O  Golden-foot,  to  fear.
+
+
+No.  359.  123
+
+
+The  doe  seeing  the  Bodhisatta  set  at  his  ease,  was  highly  delighted  and
+returning  thanks  to  the  hunter,  repeated  the  fifth  stanza  :—
+
+As  I  to-day  rejoice  to  see
+
+This  mighty  beast  at  liberty,
+
+So,  hunter,  that  didst  loose  the  gin,
+
+Rejoice  with  all  thy  kith  and  kin.
+
+And  the  Bodhisatta  thought,  "This  hunter  has  granted  life  to  me  and
+this  doe,  and  to  eight  myriads  of  deer.  He  has  been  my  refuge,  and  I
+ought  to  be  a  refuge  to  him."  [187]  And  in  his  character  of  one
+supremely  virtuous  he  thought,  -One  ought  to  make  a  proper  return  to
+one's  benefactor,"  and  he  gave  the  hunter  a  magic  jewel  which  he  had
+found  in  their  feeding  ground  and  said  :  "  Friend,  henceforth  take  not  the
+Ufe  of  any  creature,  but  with  this  jewel  set  up  a  household  and  mainUun  a
+wife  and  children,  and  give  alms  and  do  other  good  works."  And  thus
+admonishing  him,  the  stag  disappeared  in  the  forest.
+
+
+The  Master  here  ended  his  lesson  and  identified  the  Birth:  "At  that  time
+Channa'  was  the  hunter,  this  female  novice  wa«  the  doe,  and  I  myself  was  the
+royal  stag."
+
+
+No.  360.
+
+sussondi-jataka'
+
+
+'' I  scent  the  fraqrmice"  efc.-This  story  the  Master,  while  living  at  Jetavana,
+told  conSrnSg  Xcks  iding  Brother.  The  Master  a.sked  if  it  were  true  that
+he  lon^SZ  ti  world,  and  what  he  had  seen  to  make  him  regret  having  taken
+ordei^  The  Brother  answered,  "It  was  all  owing  to  the  charms  of  a  woman.
+The  Ma-ster  said,  "Verily,  Brother,  there  is  no  possibility  of  being  on  ones
+^^^rd  a^l^^^^  Sages  of  old,  though  they  took  the  precaution  to^
+
+dwell  in°  the  abode  of  the  Gamdas,  failed  to  be  on  their  guard  against  them.
+And  being  urged  by  him,  the  Master  related  a  story  of  the  past.
+
+
+1  A  Brother  who  was  suspended  for  siding  with  heretics.
+
+2  Compare  No.  327  supra.
+
+
+124  The  Jataka.     Book   V.
+
+Once  ui)on  a  time  king  Tamba  reigned  in  Benarea,  and  his  queen-
+consort  named  Sussondl  was  a  woman  of  surpassing  beauty.  At  that  time
+the  Bodhisatta  came  to  life  as  a  young  Garuda.  Now  the  Naga  ishmd  was
+then  known  as  Seruma  island,  and  the  Bodhisatta  lived  on  this  island  in
+the  abode  of  the  Garudas.  And  he  went  to  Benares,  disguised  as  a  youth,
+and  played  at  dic(!  with  king  Tamba.  Remarking  his  l)i'auty  they  said  to
+Sussondl,  "Such  and  such  a  youth  plays  at  dice  with  our  king."  She
+longed  to  see  him,  and  one  day  she  adorned  herself  and  repaired  to  the
+dice-chamber,  [l*^'"^]  There  taking  her  stand  amongst  the  attendants,  she
+fixed  her  gaze  on  the  youth.  He  too  gazed  on  the  queen,  and  the  pair  fell
+in  love  with  one  another.  The  Garuda  king  by  an  act  of  supernatuml
+power  stirred  up  a  storm  in  the  city.  The  people,  through  fear  of  the
+house  falling,  fled  out  of  the  palace.  By  his  power  he  caused  it  to  >x?
+dark,  and  carrying  oil"  the  (pieen  with  him  in  the  air,  he  made  his  way  t*)
+his  own  abode  in  Naga  island.  Hut  no  one  knew  of  the  coming  or  going
+of  Sussondl.  The  Garuda  took  his  pleasure  with  her,  and  still  came  to
+play  at  dice  with  the  king.  Now  the  king  had  a  minstrel  named  Sagga,
+and  not  knowing  where  the  queen  had  gone,  the  king  addressed  the
+minstrel  and  said,  *'  Go  now  and  explore  every  land  and  sea,  and  discover
+what  has  become  of  the  queen."     And  so  saying  he  bade  him  begone.
+
+He  took  what  was  neces.sjvry  for  his  journey,  and  beginning  the  search
+from  the  city  gate,  at  last  came  to  Bharukaccha.  At  that  time  certain
+merchants  of  Bharukaccha  were  setting  sail  for  the  Golden  Land.  He
+approached  them  and  said,  "  I  am  a  minstrel.  If  you  remit  my  passage
+money,  I  will  act  as  your  minstrel.  Take  me  with  you."  They  agreed  to
+do  so,  and  putting  him  on  board  weighed  anchor.  When  the  ship  was
+fairly  off",  they  called  him  and  bade  him  make  music  for  them.  He  said,
+"  I  would  make  music,  but  if  I  do,  the  fish  will  be  so  excited  that  your
+vessel  will  be  wrecked."  "If  a  mere  mortal,"  they  said,  "make  music,
+there  will  be  no  excitement  on  the  part  of  the  fish.  Play  to  us."  "Then
+do  not  be  angry  with  me,"  he  said,  and  tuning  his  lute  and  keeping
+perfect  harmony  between  the  words  of  his  song  and  the  accompaniment  of
+the  lute  strinsr,  he  made  music  for  them.  The  fish  were  maddened  at  the
+sound  and  splashed  about.  And  a  certain  sea  monster  leaping  up  fell
+upon  the  ship  and  broke  it  in  two.  Sagga  lying  on  a  plank  was  carried
+along  by  the  wind  till  he  reached  a  banyan  tree  in  the  Naga  island,  where
+the  Garuda  king  lived.  Now  queen  Sussondl,  whenever  the  Garuda  king
+went  to  play  at  dice,  came  down  from  her  place  of  abode,  [189]  and  as  she
+was  wandering  on  the  edge  of  the  shore,  she  saw  and  recognized  the
+minstrel  Sagga,  and  asked  him  how  he  got  there.  He  told  her  the  whole
+story.  And  she  comforted  him  and  said,  "Do  not  be  afraid,"  and
+embracing  him  in  her  arms,  she  carried  him  to  her  abode  and  laid  him  on
+a  couch.     And  when  he  was  gi'eatly  revived,  she  fed  him  with  heavenly
+
+
+No.    360.  125
+
+food,  bathed  him  in  heavenly  scented-water,  arrayed  him  in  heavenly
+raiment,  and  adorned  him  with  flowers  of  heavenly  perfume,  and  made
+him  recline  upon  a  heavenly  couch.  Thus  did  she  watch  over  him,  and
+whenever  the  Garuda  king  returned,  she  hid  her  lover,  and  so  soon  as  the
+king  was  gone,  under  the  influence  of  passion  she  took  her  pleasure  with
+him.  At  the  end  of  a  month  and  a  half  from  that  time  some  merchants,
+who  dwelt  at  Benares,  landed  at  the  foot  of  the  banyan  tree  in  this  island,
+to  get  fire-wood  and  water.  The  minstrel  went  on  board  ship  with  them,
+and  on  reaching  Benares,  as  soon  as  he  saw  the  king,  while  he  was  playing
+at  dice,  Sagga  took  his  lute,  and  making  music  recited  the  first  stanza  : —
+
+I  .scent  the  fragrance  of  the  timira  grove,
+
+I  heiir  the  moaning  of  the  weary  .sea:
+Taruba,  I  am  tormented  with  my  love.
+
+For  fair  Sassondi  dwells  afar  from  me.
+
+On  hearing  this  the  Garuda  king  uttered  the  second  stanza  : —
+
+How  didst  thou  cross  the  stormy  main,
+And  Serunia  in  safety  gain?
+How  did.st  thou,  Sagga,  tell  me,  \>v<xy,
+To  fair  Su-ssondi  win  thy  way?
+
+[190]  Then  Sagga  repeated  three  stanzas: —
+
+With  trading-folk  from  Bhanikaccha  land
+My  ship  was  wTecked  by  monsters  of  the  sea;
+
+I  on  a  plank  did  .s<ifely  gain  the  strand,
+
+When  an  anointed  queen  with  gentle  hand
+Upbfjre  me  tenderly  \\\xm  her  knee,
+As  though  to  her  a  true  son  I  might  be.
+
+She  f(x>d  and  raiment  brought,  and  lus  I  lay
+
+With  love-lorn  eyes  hung  o'er  my  couch  all  day.
+
+Know,  Tamba,  well;   this  word  is  .sooth  I  say.
+
+The  Garuda,  while  the  minstrel  thus  spake,  was  filled  with  regrets  and
+said  :  "Though  I  dwelt  in  the  abode  of  the  Garudas,  I  failed  to  guard  her
+safely.  What  is  this  wicked  woman  to  me?"  So  he  brought  her  Vjack
+and  presented  her  to  the  king  and  departed.  And  thenceforth  lie  came
+not  there  any  more.
+
+
+The  Master,  his  lesson  ended,  declared  the  Truths  and  identified  the  Birth: —
+At  the  conclusion  of  the  Truths  the  worldly-minded  Brother  attained  fruition
+of  the  First  Path : — "At  that  time  Ananda  was  the  king  of  Benares,  and  I  my.self
+was  the  Garuda  king."
+
+
+126  Tlie  Jataka.     Book   V.
+
+
+No.  361.
+
+VANNAROIIA-JATAKA^
+
+[191]  "Is  it  thus,  Sudatha,"  etc.— Thin  .story  the  Mivster,  while  dwelling  iit
+Jctavana,  told  concerning  the  two  chief  disciples.  On  a  cei-tjiin  occa-sion  the  two
+chief  elders  resolved  during  the  rainy  sea.son  to  devote  them.selves  to  solitude.
+So  they  bade  the  Master  farewell  ami  le.iving  the  company  of  the  Brethren  they
+went  forth  from  Jetavana,  can-ying  their  bowl  and  rol)es  with  their  own  hands,
+and  lived  in  a  forest  near  a  l)order  village.  And  a  certain  man,  who  waitetl  on
+the  elders  and  lived  upon  their  broken  victuals,  dwelt  apart  in  the  .same  place.
+On  .seeing  how  happily  these  elders  lived  t<»gether,  he  thought:  "I  wonder  if  it  is
+possible  to  set  them  at  variance."  So  he  drew  nigh  to  Sariputta  and  .said,  "Can
+it  be,  Reverend  Sir,  that  there  is  some  quarrel  l)etween  you  and  the  venerable
+chief  older  Moggallanal"  "Why  .so,  Sir?'^  he  asketl.  "He  ever.  Holy  Sir,  siKsaks
+in  your  disprai.se  and  says,  'When  I  am  gone,  what  is  Sariputta  worth  compared
+with  me  in  c<x.ste,  lineage,  family  and  country,  or  in  the  j)ower  of  attaiinuents
+in  the  sjicrcd  volumes?'  *'  The  elder  smiled  and  .sjiid,  "Be  off,  sirrah  !"  Another
+day  he  drew  nigh  to  the  chief  elder  Moggallana,  and  .said  the  siime  thing.  He
+too  smiled  and  said,  "  Be  ofi",  sirrah  !"  Moggallana  went  to  SariputU  and  asked,
+"Has  this  fellow,  who  lives  on  our  leavings,  .siiid  aught  to  you  I"  "Ve.s,  friend,
+he  has."  "And  he  .said  exactly  the  .s^ime  thing  to  me.  We  mu.st  drive  him
+away."  "Very  well,  friend,  drive  him  away."  The  elder  .said,  "You  are  not  to
+come  here,"  and  snapping  his  lingers  at  him,  he  drove  him  away.  The  two
+elders  lived  happily  together,  and  returning  to  the  Master,  made  obeisance  to
+him  and  sat  down.  The  Mjxster  spoke  kinilly  to  them  and  iusked  if  they  had
+kept  their  Retreat  plea.santly.  They  .said,  "A  cert(iin  l)eggar  wished  to  set  us  at
+variance,  but  f;iiling  in  the  attempt  he  ran  away."  The  Master  said,  "Verily,
+Sariputta,  not  now  only,  but  fonuerly  also,  he  thought  to  set  you  at  variance,
+but  failing  in  the  attcnint  he  ran  away."  And  hereui)on  at  his  request  he
+related  a  story  of  bygone  days.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  a  tree-god  in  a  forest.  [192]  At  that  time  a  lion  and  a
+ticer  lived  in  a  mountain-cave  in  that  forest.  A  jackal  was  in  attendance
+on  them,  and  living  on  their  broken  meats  began  to  wax  gross  of  body.
+And  one  day  he  was  struck  with  the  thought,  "  I  have  never  yet  eaten
+the  flesh  of  a  lion  or  a  tiger.  I  must  set  these  two  animals  by  the  ears,
+and  when  in  consequence  of  their  quarrel  they  have  come  by  their  death,
+I  will  eat  their  flesh."  So  he  drew  nigh  to  the  lion  and  said,  "Is  there
+any  quarrel,  Sir,  between  you  and  the  tiger?"  "Why  so.  Sir?"  "  Your
+Reverence,"  he  said,  "he  ever  speaks  in  your  dispraise  and  says,  'When  I
+
+1  Compare  no.  349  supra,  Tibetan  Tales,  xxxiii:  The  Jackal  as  Calumniator,  and
+Benfey's  Introduction  to  the  Panchatantra.
+
+
+No.  361.  127
+
+am  gone,  this  lion  will  never  attain  to  the  sixteenth  part  of  ray  personal
+beauty,  nor  of  my  stature  and  girth,  nor  of  my  natural  strength  and
+power.' "  Then  the  lion  said  to  him,  "  Off  with  joxi.  He  will  never
+speak  thus  of  me."  Then  the  jackal  drew  nigh  to  the  tiger  also,  and
+spoke  after  the  same  manner.  On  hearing  him,  the  tiger  hastened  to  the
+lion,  and  asked,  "Friend,  is  it  true,  that  you  said  so  and  so  of  ixiel"  And
+he  spoke  the  first  stanza : —
+
+Is  it  thus  'Sudatha  speaks  of  me?
+"In  grace  of  form  and  pedigi'ee,
+In  might  and  prowess  in  the  field,
+^Subahu  still  to  me  mitst  yield."
+
+On  hearing  this  Sudatha  repeated  the  four  remaining  stanzas: —
+
+Is  it  thiLs  Subfihu  sjxjaks  of  me?
+"In  grace  of  form  and  iJedigree,
+In  might  and  prowess  in  the  field,
+Sudatha  still  to  me  nuist  yield."
+If  .such  injurious  words  are  thine,
+No  more  shalt  thou  be  friend  of  mine.
+The  man  that  lends  a  ready  ear
+To  any  gos.sip  he  may  hear.
+Soon  picks  a  quarrel  with  a  friend.
+And  love  in  bitter  hate  will  end.
+No  friend  sus|)ects  without  a  caase.
+Or  carefully  looks  out  for  flaws ;
+[193]  But  on  his  friend  in  trust  will  rest
+As  child  upon  its  mother's  bre«i.st.
+And  ne'er  will  by  a  stranger's  word
+Be  parted  from  his  besom's  lord.
+
+When  the  qualities  of  a  friend  had  been  thus  set  forth  in  these  four
+stanzas,  the  tiger  said,  "The  fault  is  mine,"  and  begged  pardon  of  the  lion.
+And  they  continued  to  live  happily  together  in  the  same  place.  But  the
+jackal  departed  and  fled  elsewhere.
+
+
+The  Master,  having  brought  his  lesson  to  an  end,  identified  the  Birth :  "At
+that  time  the  jackal  was  the  beggar  who  li%'ed  on  broken  meats,  the  lion  was
+Sariputta,  the  tiger  Moggallana,  and  the  deity  that  dwelt  in  that  forest  and  saw
+the  whole  thing  with  his  own  eyes  was  I  myself."
+
+1  Sudatha  (strong-tooth)  is  the  lion,  Subahu  (strong-arm)  the  tiger.
+
+
+128  Tlie  Jataka.     Book   V.
+
+
+No.  362.
+.si  LAV  i  M  aSi.sa-jataka  '.
+
+"  Virtue  and  latniiihf,"  et<\ — This  story  the  M)\.stor,  while  residing  at  Jetavana,
+told  concerning  a  hrahinin  who  would  test  the  jHiwer  of  virtue.  The  king,  they
+iiixy,  owing  tf>  hi.s  reputation  for  virtue,  reganled  him  with  aj)ecial  honour,  beyond
+wliat  Wius  paid  to  other  brahmins.  He  thought,  "Ciui  it  be  that  the  king  regards
+me  with  siKjcial  honour,  becau.se  I  am  endowed  with  nrtue,  or  a.s  one  devoted  to
+the  acquisition  of  learning  ?  I  will  jiust  teat  the  comjxirative  imi)ortance  of  virtue
+and  Iwirning."
+
+So  one  ilay  he  abstnuted  a  coin  from  the  royal  treasury  Ixijird.  The  trejusurer.
+mich  wa.s  his  respect  for  bin),  did  not  s«\y  a  won!  It  fx-curi-ed  a  second  time,  and
+the  trcjisurer  .said  nothing.  But  on  the  thin!  (KCjusion  he  hatl  him  arrestetl  as  one
+who  lived  by  robbery,  and  brought  him  l>ofore  the  king.  And  when  the  king
+ji-skcd  what  his  offence  was,  he  charged  him  with  stcjiling  the  king's  proiierty.
+
+[194]  "  Is  this  true,  bralimin  ?"  said  the  king.
+
+"  I  am  not  in  the  habit  of  stealing  your  projxjrty,  Sire,"  he  .siiid,  '*  but  I  had
+my  doubts  as  to  the  relative  imix)rtanco  <»f  virtue  and  learning,  and  in  testing
+which  was  the  greater  of  the  two,  I  thrice  alxstracted  a  coin,  and  then  I  was
+given  int<i  cu.stody  and  brought  before  you.  Now  that  I  know  the  greater  efficacy
+of  virtue  compared  with  learning,  I  no  longer  wish  to  live  a  layman's  life.  I  will
+l)ecome  an  itscetic."
+
+On  obtaining  leave  to  do  so,  without  .so  much  as  l(X)king  back  on  his  house
+door,  he  went  .straight  to  Jetavana  and  begged  the  Ma.ster  to  ordain  him.  The
+Miuster  granted  him  both  detcon's  and  priest's  orders.  And  he  had  been  no  long
+time  in  orders,  l>efore  he  attained  to  spiritual  insight  and  reached  the  highest
+fruition.  The  incident  wjis  di.scusscd  in  the  Hall  of  Truth,  how  that  a  certain
+brahmin,  after  ])roving  the  power  of  virtue,  took  orders  and  f)btaining  spiritual
+insight  reached  Sainthood.  When  the  Master  came  and  inquired  of  the  Brethren
+what  was  the  nature  of  the  topic  they  were  sitting  to  di.sciLs.s,  on  hearing  what  it
+wtvs,  he  sjiid,  "  Not  this  man  now  only,  but  sitgas  of  old  also  put  virtue  to  the
+proof,  and  by  becoming  ascetics  worked  out  their  own  .salvation,"  And  herewith
+he  told  a  story  of  the  past.
+
+
+Once  upon  a  time  when  Bi-ahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  bom  in  a  brahmin  family.  And  when  he  came  of  age,  he
+acquired  every  liberal  art  at  Takkasila,  and  on  his  return  to  Benares  he
+went  to  see  the  king.  The  king  offered  him  the  post  of  family  priest,  and
+as  he  kept  the  hve  moral  precepts,  the  king  looked  upon  him  with  respect
+as  a  virtuous  man.  "  Can  it  be,"  he  thought,  "  that  the  king  regards  me
+with  respect  as  a  virtuous  man,  or  as  one  devoted  to  the  acquisition  of
+learning?"  And  the  whole  story  corresponds  exactly  with  the  modem
+instance,  but  in  this  case  the  brahmin  said,  "  Now  I  know  the  great  im-
+
+'  Compare  nos.  86,  vol.  i.,  290,  vol.  ii.,  305,  330,  vol.  iii.,  and  L,  Feer,  Journal
+Asiat,  1875.
+
+
+No.   362.  129
+
+portance  of  virtue   compared    with    learning."     And   hereupon   he  spoke
+these  five  stanzas  :
+
+Virtue  and  learning  I  was  fain  to  test ;
+Henceforth  I  doubt  not  virtue  is  the  best.
+Virtue  excels  vain  gifts  of  form  and  birth,
+Apart  from  virtue  learning  has  no  worth.
+A  prince  or  peas^xnt,  if  to  sin  enslaved,
+In  neither  world  from  misery  is  saved.
+Men  of  high  caste  with  those  of  b<a.se  degree.
+If  virtuous  here,  in  heixven  will  equal  be.
+[195]  Not  birth,  nor  lore,  nor  friendship  aught  avails.
+Pure  virtue  only  future  bliss  entails.
+
+Thus  did  the  Great  Being  sing  the  praises  of  virtue,  and  having  gained
+the  con.sent  of  the  king,  that  very  day  he  betook  himself  to  the  Himalaya
+region,  and  adopting  the  religious  life  of  an  ascetic  he  developed  the
+Faculties  and  Attainments,  and  became  destined  to  l)irtli  in  the  Brahma-
+world.
+
+
+The  Ma.ster  here  ended  this  lesson  and  identified  the  l>irth  :  "At  tliat  time  it
+was  I  myself  that  put  virtue  to  the  test  and  adopteil  the  religious  life  of  an
+ascetic."
+
+
+No.  363.
+
+
+HIRI-JATAKA.
+
+[196]  "  Who  spite  of  honour"  etc. — This  story  the  Master,  when  dwelling  at
+Jetavana,  told  concerning  a  rich  merchant,  a  friend  of  Anathapindika,  who  lived
+in  a  boi-der  pi-ovince.  Both  the  introtluctory  story  and  the  .story  of  the  past  are
+related  in  full  in  the  concluding  Birth  of  the  ninth  division  of  the  first  book',  but
+in  this  vei-sion  when  the  merchant  of  Benare.s  was  told  that  the  followers  of  the
+foreign  merchant  were  mulcted  of  all  their  property  and,  after  losing  everything
+they  po.ssessed,  had  to  take  to  flight,  he  .said,  "  Becau.se  they  failed  to  do  what
+they  ought  for  the  strangers  who  came  to  them,  they  find  no  one  re^idy  to  do
+them  a  good  turn."     And  so  saying  he  repeated  these  ver.ses  :
+
+Who  spite  of  honoiu",  while  he  plays  the  part
+Of  humble  servant,  loathes  thee  in  his  heart.
+Poor  in  good  works  and  rich  in  words  alone —
+Ah  I  such  a  friend  thou  surely  wouldst  not  own.
+
+1  No.  90,  vol.  i.
+
+J.  III.  9
+
+
+130  The  JfUaJca.     Book    V.
+
+Be  thou  in  deed  to  every  promise  true,
+
+Refuse  to  promise  wiiat  thou  canst  not  do ;
+
+Wise  men  on  empty  braggarts  hxik  askew.
+
+No  friend  susi)ects  a  quarrel  without  cause,
+
+For  ever  watching  to  discover  Haws  :
+
+But  he  that  trustful  on  a  friend  can  rest,
+
+As  little  child  upon  its  mother's  breast,
+
+Will  ne'er  by  any  stranger's  deed  or  word.
+
+Be  8e))aratcil  from  his  V)osom's  lord.
+
+Who  draws  the  yoke  of  human  friendship  well,
+
+Of  bliss  incrca.sed  and  honourcil  life  can  tell  :
+
+I'ut  one  that  ta.stes  the  joys  of  calm  rejKi.se,
+
+Drinking  sweet  draughts  of  Truth — he  only  knows
+
+EscaiMJ  from  bonds  of  sin  and  all  his  woe.s.
+
+[197]  Thus  did  the  <!reat  lieing,  disgusted  by  coming  into  contact  with  evil
+associates,  through  the  jjower  of  solitude,  l>ring  his  teaching  to  a  climax  and  leatl
+men  to  the  eternal  Nirvana.
+
+The  Master,  his  le.s.son  cndeil,  tluis  identified  the  Birth:  "At  that  time  I
+myself  was  the  morchant  of  Benares."
+
+
+No.   364.
+
+K 1 1 A  J  J  ( )  1»  A  N  A  K  A  -  J  .\  T.V  K  .\ .
+This  Question  about  a  tirc-Hy  will  be  .set  forth  in  full  in  the  .Mahaummagga.
+
+
+No.   365.
+
+AHIGUXPI K  A-J  ATAKA .
+
+'■^Lo!  here  we  lie,"  etc. — This  story  the  Master,  whilst  living  at  Jetavana,  told
+concerning  an  aged  priest.  The  story  has  been  already  related  in  full  in  the
+Salaka  Births  In  this  version  also  the  old  man  after  ordaining  a  village  lad
+abuses  and  strikes  him.  The  lad  escaped  and  returned  to  the  world.  [198]  The
+old  man  once  more  admitted  him  to  orders,  and  acted  just  as  before.  The  youth,
+after  he  had  for  the  third  time  returned  to  the  world,  on  being  again  solicited  to
+come  back,  would  not  so  much  as  look  the  old  man  in  the  face.  The  matter  was
+talked  over  in  the  Hall  of  Truth,  how  that  a  certain  elder  could  live  neither  with
+his  novice  nor  without  him,  while  the  boy  after  seeing  the  old  man's  fault  of
+temper,  being  a  sensitive  youth,  would  not  even  look  at  him.     The  Master  came
+
+1  See  No.  249,  vol.  ii.
+
+
+iVo.   365.  131
+
+and  asked  what  was  the  subject  of  discussion.  "When  they  told  him,  he  said,
+"Not  now  only,  Brethren,  but  formerly  also  this  same  youth  was  a  sensitive
+novice,  who  after  observing  the  elder's  faults  would  not  so  much  as  look  at  him."
+And  so  saying  he  told  a  story  of  the  past.
+
+
+Once  upon  a  time  in  the  reign  of  Brahraadatta,  king  of  Benares,  the
+Bodhisatta  was  born  in  a  corn  fiictor's  family.  And  when  he  was  grown
+up,  he  got  his  living  Vjy  selling  corn.
+
+Now  a  certain  snake-charmer  caught  a  monkey  and  trained  him  to  play
+with  a  snake.  And  when  a  festival  was  proclaimed  at  Benares,  he  left  the
+monkey  with  the  corn-merchant  and  roamed  about  for  seven  days,  making
+.sport  with  the  snake.  The  mei-chant  meanwhile  fed  the  monkey  with
+food  both  hard  and  soft.  On  the  seventh  day  the  snake-charmer  got  drunk
+at  the  festival  merry-making,  and  came  back  and  struck  the  monkey  three
+times  with  a  piece  of  bamboo,  and  then  taking  him  with  him  to  a  garden,
+he  tied  him  up  and  fell  asleep.  The  monkey  got  loose  from  his  chain,  and
+climbing  up  a  mango  tree,  .sat  there  eating  the  fruit.  Tlie  .snake-charmer
+on  waking  up  saw  the  monkey  perched  on  the  tree  and  thought,  "I  must
+catch  him  by  wheedling  him."  And  in  talking  with  him  he  repeated  the
+first  stanza  :
+
+Lo  I    here  we  lie,  my  pretty  one.
+Like  gambler  hy  the  dice  undone.
+Let  fall  .some  mangoes :    well  we  know.
+Our  living  to  thy  tricks  we  owe.
+
+The  monkey,  on  hearing  this,  uttered  the  remaining  verses  :
+
+Thy  prai.ses,  friend,  unmeaning  sound ;
+A  pretty  monkey  ne'er  wa.s  found.
+[199]  Wh<j  in  the  stores,  when  drunk,  I  pray,
+Uid  starve  ami  beat  me  sore  to-day  i
+When  I,  snake-charmer,  call  to  mind
+The  bed  of  i)aiii  where  I  reclined.
+Though  I  should  some  day  be  a  king,
+No  prayer  from  me  this  boon  .should  wring.
+Thy  cruelty  remembering.
+But  if  a  man  is  known  to  live
+Content  at  home,  is  apt  to  give,
+And  s[)rings  of  gentle  race,  the  wi.se
+With  such  should  form  the  clcsest  ties.
+
+With  these  words  the  monkey  was  lost  in  a  crowd  of  fellow-monkeys'.
+
+
+The  Master  here  ended  his  les.son  and  identified  the  Birth:  "At  that  time  the
+old  man  was  the  snake-charmer,  the  novice  was  the  monkey,  and  I  my.self  was
+the  corn-merchant.'
+
+1  Auotber  reading  gives,  "was  lo.^t  in  a  thicket  of  trees".
+
+
+32  The  JCitaka.     Book    V.
+
+
+No.    366.
+
+
+GUMBIYA-JATAK.\
+
+
+[2(X)]  '■'■  I'omm  like  hmieij,"  etc. — This  story  wa«  told  l)y  tin;  Miuster  while
+(Iwclliiii,'  at  .Ictaviuia,  alxmt  a  Urothcr  who  regretted  taking  ordei-s.  The  Mfustcr
+asked  him  if  it  were  true  that  he  regretted  it.  "It  is  true,  Iluly  Sir,"  he  sjiid.
+"What  have  vou  seen  to  cause  this  feeling/"  asked  the  MivsttT.  When  the
+brother  replied,  "  It  Wius  owing  to  the  ciiarnis  of  a  woman,"  the  Mfuster  sjiid,  "The.se
+five  (jualities  of  ilosire  are  like  the  honey  sprinkled  over  with  dea<lly  iMii.son,
+and  left  in  the  road  by  one  (lumhika."  And  herciipnn  at  the  nvpicst  of  the
+Brother  he  told  a  story  of  the  jm-st.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  the
+Bodlii-satta  came  to  life  in  a  mercliant's  liousehold.  And  when  he  wa.s
+grown  up,  he  set  out  from  Benares  witli  merchandise  on  five  liundred  carts
+for  trading  pui-pcscs.  On  reaching  the  high  road,  at  the  entrance  of  a
+forest,  lie  called  together  all  the  momhers  of  his  caravan  and  .said,  "Lo!  on
+this  road  are  leaves,  flowers,  fruit  and  the  like,  tliat  are  poisionous.  In
+eating  see  that  you  take  no  strange  food,  without  first  asking  me  about  it:
+for  demons  .set  in  the  road  baskets  of  fresh  rice  and  various  sweet  wild
+fruits,  and  sprinkle  poison  over  them.  Be  sure  not  to  eat  of  them  without
+my  consent."  And  after  uttering  tliis  waniing,  he  proceeded  on  his
+journey.
+
+Then  a  certain  Yakkha,  named  (Jumbiya,  strewed  leaves  on  a  spot  in
+the  middle  of  the  forest,  and  dropping  some  pieces  of  honey,  covered  them
+with  deadly  poison,  and  himself  wandered  all  about  the  road,  pretending
+to  tap  the  trees,  as  if  lie  were  looking  for  honey.  In  their  ignorance  men
+thought,  "This  honey  must  have  been  left  here  as  a  meritorious  act,"  and
+then  through  eating  it,  they  met  their  death.  And  the  demons  came  and
+devoured  their  flesh.  The  men  also  belonging  to  the  Bodhisatta's  caravan,
+some  of  them  being  naturally  greedy,  at  the  sight  of  these  dainties,  could
+not  restrain  themselves,  and  partook  of  them.  But  those  that  were  wise
+said,  "We  will  consult  the  Bodhisatta  before  we  eat,"  and  stood  holding  it
+in  their  hands.  And  when  he  saw  what  they  had  in  their  hands,  he
+made  them  throw  it  away.  And  those  that  had  already  eaten  the  whole  of
+it  died.  But  to  those  who  had  eaten  only  half  of  it,  he  administered  an
+emetic,  and  after  they  had  vomited,  [-01]  he  gave  them  the  four  sweet
+things,  and  so  by  his  supernatural  power  they  recovered.     The  Bodhisatta
+
+*  Compare  No.  85,  vol.  i.
+
+
+No.  366.  133
+
+ai-rived  in  safety  at  the  place  he  wished  to  reach,  and  after  disposing  of  his
+wares,  he  returned  to  his  own  house.
+
+Poison  Hke  honey  in  look,  taste,  and  smell.
+Was  laid  by  Gumbiya  with  purpose  fell:
+All  who  as  honey  ate  the  noxious  food,
+Through  their  own  greed  did  perish  in  the  wood.
+But  they  who  wisely  from  the  bait  ab.stained,
+Were  free  from  torture  and  at  peace  remained.
+So  last,  like  poison-bait,  for  man  is  laid;
+His  heart's  desire  has  oft  to  de<ith  betrayed.
+But  who,  though  frail,  l)esetting  sins  forego,
+Escape  from  bonds  of  suffering  and  woe.
+
+
+The  Master,  after  delivering  these  verses  inspired  by  Perfect  Wisdom,  re-
+vealed the  Truths  and  identified  the  Birth: — f202]  At  the  conclusion  of  the
+Truths  the  back.sliding  Brother  atUiined  the  fruit  of  the  First  Path: — "At  that
+time  I  myself  wjus  that  merchant."
+
+
+No.  367.
+
+
+SALIVA-JATAKA.
+
+
+"  Who  got  kii/rieml,"  etc. — This  was  a  .story  told  by  the  Ma-ster,  whiLst  living
+in  the  Bamb(jo  Grove,  in  reference  to  a  saying  that  Devadatta  could  not  even
+inspire  alarm.
+
+
+Wlien  Brahmadatta  was  reignin;,'  in  Benares,  the  Bodhi.satta  was  born
+in  the  family  of  a  village  householder,  and  when  he  was  young  lie  played
+with  other  boys  at  the  foot  of  a  banyan  tree,  at  the  entrance  of  the  village.
+A  poor  old  doctor  at  that  time  who  had  no  practice  strayed  out  of  the
+village  to  this  spot,  and  saw  a  snake  asleep  in  the  fork  of  a  tree,  with  its
+head  tucked  in.  He  thought,  "  There  is  nothing  to  be  got  in  the  village.
+1  will  cajole  these  boys  and  make  the  snake  bite  them,  and  then  I  shall  get
+somewhat  for  curing  them."  So  he  said  to  the  Bodhisatta,  "If  you  were
+to  see  a  young  liedgehog,  would  you  seize  it?"     "Yes,  I  would,"  .said  he.
+
+[203]  "  See,  here  is  one  lying  in  the  fork  of  this  tree,"  said  the  old  man.
+
+The  Bodhi.satta,  not  knowing  it  was  a  snake,  climbed  up  the  tree  and
+seized  it  by  the  neck,  but  when  he  found  it  was  a  snake,  he  did  not  allow
+
+
+134  The  J  at  ah  t.      Book   V.
+
+
+it  to  turn  iij)()ii  liiiii,  but  getting  a  good  grip  of  it,  lie  hastily  flung  it  from
+him.  It  fi;ll  on  the  neck  of  the  old  doctor,  and  coiling  round  hiui,  it  bit
+him  so  severely  '  that  its  teeth  met  in  his  tlcsh  and  the  old  man  fell  down
+dead  on  the  spot,  and  the  snake  made  its  escape.  People  gathered  together
+about  him,  and  the  Great  Being,  in  expounding  the  I^aw  to  the  assembled
+multitude,  repeated  these  verses :
+
+Who  got  his  friend  to  seize
+A  deiully  .snake,  a.s  hc«li,'chog,  if  you  please,
+
+By  tlie  Muuke's  bite  wjus  killed
+As  one  that  evil  to  his  neighbour  willed.
+
+He  that  to  strike  is  fain
+The  man  that  never  striketh  back  again,
+
+Is  struck  and  lietli  low,
+E'cii  as  this  knave  sore  hurt  by  deadly  blow.
+
+So  ilust  that  should  bo  thrown
+Against  the  wind,  back  in  one's  face  is  blown  ;
+
+And  ill  designed  to  one
+That  holy  is,  and  has  no  evil  done.
+
+On  the  fool's  pate  at  la-st
+Recoils,  like  dust  when  thrown  against  the  blast.
+
+
+The  Ma.ster  here  ended  his  les.««on  and  identified  the  Birth  :  "  At  that  time
+
+the  ]woY  old  doctor  wa.s  DevadattJi,  the  wise  youth  was  myself"
+
+
+No.   368.
+
+
+TACASARA-JATAKA.
+
+
+[204]  "Fallen  into  hand  of  foes,''  etc — This  story  the  Mjister,  whilst  dwelling
+at  Jetavana,  told  concerning  the  Perfection  of  Wisdom.  It  was  then  the  Master
+said,  "  Not  now  only.  Brethren,  but  formerly  also  the  Tathagata  proved  himself
+wise  and  full  of  resources."     And  herewith  he  related  an  old  legend  of  the  past.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  the
+Bodhisatta  was  born  in  the  household  of  a  village  proprietor.  The  whole
+story  runs  on  exactly  like  that  of  the  previous  birth.  But  in  this  version
+when  the  doctor  was  dead,  his  village  neighbours  said,  '*  These  youths  have
+
+'  ReadiuK  karakard  niklulditiil,  of.  the  Sanskrit  kalukuld.
+
+
+No.  368.  135
+
+caused  the  man's  death.  We  will  bring  them  before  the  king."  And
+they  bound  them  in  fetters  and  led  them  to  Benares.  The  Bodhisatta  in
+the  course  of  his  journey  admonished  the  other  lads  and  said  to  them  :
+"  Do  not  be  afraid.  Even  when  you  are  brought  into  the  presence  of  the
+king,  show  yourselves  fearless  and  happy  in  your  mind.  The  king  will
+first  of  all  talk  with  us,  and  afterwards  I  shall  know  what  to  do."  They
+readily  acquiesced  in  what  he  said,  and  acted  accordingly.  When  the  king
+found  them  calm  and  happy,  he  said,  "These  poor  wretclies  have  been
+bound  in  chains  and  brought  here  as  murderers,  and  although  they  have
+come  to  such  mi.sery,  they  are  without  fear  and  even  happy.  I  will  a.sk
+them  the  rea.son  why  they  are  not  troubled."
+And  he  repeated  the  fir*st  stanza  :
+
+Fallen  into  hand  of  foes
+
+And  with  bamboo  fetters  bound.
+How  can  ye  conceal  your  woes,
+
+And  with  smiling  face  be  found  ?
+
+On  hearing  this  the  Bodhisatta  uttered  the  remaining  veraes  :
+
+Tliere  is  no  good  however  .slight.
+That  man  from  groans  ami  mourning  e'er  will  gain  ;
+
+His  adversaries  feel  delight.
+When  they  belioM  a  foe  o'erconie  with  pain.
+[205]       Hut  enemies  with  grief  are  tilled
+
+When  with  bold  front  he  gfKJs  to  meet  his  fate,
+
+And  blencho-s  not,  as  one  well-.skil!e<l
+All  things  with  judgment  to  discriminate.
+
+Be  it  by  muttered  sjKill  or  charm.
+By  lavish  gifts,  or  help  of  powerful  kin,
+
+That  he  may  Ijcst  escaix;  from  harm,
+A  man  should  strive  some  vant<ige  ground  to  win.
+
+But  should  he  fail  to  reach  success,
+With  others'  aid  or  by  himself  alone.
+
+He  should  not  grieve  but  jicquie-sce;
+Fate  is  too  strong,  his  utmost  he  ha.s  done.
+
+[206]  The  king  on  hearing  the  Bodhisatta's  exposition  of  the  law,
+investigated  the  matter,  and  discovering  the  innocence  of  the  boys,  he  had
+their  fetters  removed,  and  bestowed  much  honour  on  the  Great  Being,  and
+made  him  his  temporal  and  spiritual  adviser  aiid  his  valued  minister.  He
+also  conferred  honour  on  the  other  youths  and  appointed  them  to  various
+offices.
+
+
+When  the  M;uster  hatl  brought  this  lesson  to  an  end,  he  identified  the  Birth :
+"  At  that  time  Ananda  was  the  king  of  Benares,  the  inferior  clergy  were  the
+other  youths,  and  I  ruv.sclf  wa.s  the  wi.se  youth."
+
+
+13G  The  Jdtaka.     Book    V.
+
+
+No.   369.
+
+M  riTA  V I  N  I  )A  ■  J  AT AK  A'.
+
+"  W/iat  teas  the  enf"  etc. — This  .story  the  Mjuster  whilst  living  at  Jet^ivfiim  told
+concerning  an  unruly  Urothor.  The  incident  that  led  to  the  .story  will  be  found
+in  the  Mahainittavinda  liirth.
+
+
+Now  ihi.s  Mitta\  indaka,  when  cast  into  tlie  sea,  showi'd  liinistdf  very
+covetous,  and  goin^j;  on  to  still  greater  excess  came  to  the  place  of  torment
+inhabited  by  beini^.s  doomed  to  hell.  And  he  made  his  way  into  the
+U.ssada  hell,  taking  it  to  be  a  city,  and  there  he  got  a  wheel  as  hharj)  as  a
+razor  fixed  upon  his  head.  Then  the  Bodhi.satta  in  the  shaiie  of  a  god
+went  on  a  mission  to  I'^s.sada.  On  seeing  him,  Mittavindaka  repeated  the
+first  stanza  in  the  form  of  a  question  : —
+
+What  was  the  evil  wrr)Ught  by  me,
+
+Thu.s  to  provoke  tlie  curse  of  heaven,
+That  my  (Mjor  head  should  ever  be
+
+With  circling  wheel  of  tortiu*c  riven  ?
+
+[207]  The  Bodhisatta,  on  hearing  this,  uttei-ed  the  second  stanzji :
+
+Forsaking  homes  of  joy  and  bliH.s,
+Tlint  decked  with  pearls,  with  crystal  this.
+And  halls  of  gold  and  silver  .sheen,
+What  brought  thee  to  this  gloomy  sc-ene?
+
+Then  Mittavindaka  replied  in  a  third  stanza  :
+
+"  Far  fuller  joys  1  there  shall  gain
+
+Than  any  these  poor  worlds  can  .show."
+
+This  wa.s  the  thought  that  proved  my  bane
+
+And  brought  me  to  this  scene  of  woe.
+
+The  Bodhisatta  then  repeated  the  remaining  stanzas  :
+
+From  four  to  eight,  to  sixteen  thence,  and  .so
+To  thirty-two  in.satiate  gi-eed  doth  grow.
+Thus  on  and  on  thou,  greedy  soul,  wert  led
+Till  doomeil  to  wear  this  wheel  U[)on  thy  head.
+So  all,  pursuing  covetous  desire.
+Insatiate  still,  yet  more  and  more  require  :
+The  broadening  path  of  appetite  they  tread,
+And,  like  thee,  bear  this  wheel  upon  their  head.
+
+1  See  Nos.  41,  82,  104,  vol.  i.,  and  Divydvaddna,  p.  603.
+
+
+No.   369.  137
+
+But  while  Mittavindaka  was  still  speaking,  the  wheel  fell  upon  him
+and  crushed  him,  so  that  he  could  say  no  more.  But  the  divine  being
+returned  straitrht  to  his  celestial  abode.
+
+
+[208]  The  Ma.ster,  his  lesson  ended,  identitied  the  Birth  :  "At  that  time  the
+unruly  Brother  was  Mittavindaka,  and  I  myself  was  the  divine  being."
+
+
+No.   370.
+
+
+PALASA-JATAKA.
+
+"  The  goose  sm'/l  to  the  Judas  tree"  etc. — This  was  a  story  tcild  by  the  Mivster,
+whilst  resitling  at  .Jetavana,  concerning  the  rebuke  of  sin.  The  incident  that  led
+to  the  story  will  he  .set  forth  in  the  I'anna  Birth.  But  on  this  occa.sion  the
+Master  addre.s.siiig  the  Brethren  .said,  "Brotliers,  sin  ought  to  bo  regarded  with
+suspicion.  Thougli  it  l»e  fus  small  jus  a  banyan  shoot,  it  may  |)rove  fatal.  Sages
+of  old  too  sus{)ectcd  whatever  w<ia  open  to  suspicion."  And  with  tliis  he  related
+a  story  of  the  pas-t.
+
+
+Once  upon  a  time  in  tiie  reign  of  Brahmadatta,  king  of  Benares,  the
+Bodhisatta  came  to  life  as  a  golden  gosling,  and  when  he  came  to  be  a  full-
+grown  goose,  he  lived  in  a  golden  cave,  in  the  Cittakuta  mountain  in  the
+Himalaya  region,  and  used  to  go  constantly  and  eat  the  wild  paddy  that
+grew  on  a  natural  lake.  On  the  way  by  which  he  went  to  and  fro  was  a
+big  Judas  tree.  Both  in  going  and  returning,  he  would  always  stop  and
+rest  there.  So  a  friendship  sprang  up  between  him  and  the  divinity  that
+dwelt  in  that  tree.  By  and  bye  a  certain  fowl,  after  eating  the  rijje  fiuit
+of  a  banyan,  came  and  perched  on  the  J  udas  tree,  and  dropjied  its  excre-
+ment into  the  fork  of  it.  Thence  there  sprang  up  a  young  banyan,  which
+gi'ew  to  the  height  of  four  inches  and  was  bright  with  red  .shoots  and
+greenery.  The  royal  goose,  on  seeing  this,  addressed  the  guardian  deity  of
+the  tree  and  said,  "My  good  friend,  every  tree  on  which  a  banyan  shoot
+springs  up  is  destroyed  by  its  growth.  Do  not  suffer  this  to  grow,  or  it
+will  desti-oy  your  place  of  abode.  Go  back  at  once,  and  root  it  uj*  and
+throw  it  away.  One  ought  to  suspect  that  which  justifies  suspicion."  \w\
+thus  conversing  with  the  tree-sprite  the  goose  uttered  the  firat  stanza :
+
+
+138  The  Jataka.     Book   V.
+
+[209]  The  goose  said  to  the  Judas  tree,
+
+'  A  banyan  shoot  is  threatening  thee :
+What  thou  dost  in  thy  bosom  rear
+Will  rend  thee  limb  from  limb,   I  fear.'
+
+On  hearing  this  the  tree-god,  not  heeding  his  words,  repeated  the
+second  stanza  :
+
+Well  I   let  it  grow,  and  should  I  be
+A  refuge  to  the  banyan  tree,
+And  tend  it  with  a  parent's  love.
+It  will  to  me  a  blessing  prove.
+
+Then  the  goose  uttered  the  third  stanza  :
+
+It  is  a  cursed  shoot,  I   fear.
+Thou  dost  within  thy  bosom  rear.
+I  say  goodbye  and  off  I  flee.
+This  growth  alas  I   misliketh  me.
+
+With  these  words  the  royal  goose  spread  out  his  wings  and  made
+straight  for  mount  Cittakuta.  Thenceforth  he  came  not  back  any  more.
+By  and  bye  the  banyan  shoot  grew  up.  This  tree  also  had  its  guardian
+deity.  And  in  its  growth,  it  broke  down  the  Judas  tree,  and  with  a
+branch  the  abode  of  the  tree-god  also  fell.  At  this  moment  reflecting  on
+the  words  of  the  royal  goose,  the  tree-god  thought,  [210]  "The  king  of
+the  geese  foresaw  this  danger  in  the  future  and  warned  me  of  it,  but  I  did
+not  hearken  unto  his  words."  And  thus  lamenting,  he  uttered  the  fourth
+stanza  :
+
+A  spectre  grim  like  Meru's  height
+Has  brought  me  to  a  fearful  plight ;
+Scorning  the  words  friend  goo.sey  .said,
+I  now  am  overwhelmed  with  dread.
+
+Thus  did  the  banyan,  as  it  grew  up,  l:»reak  down  all  the  Judas  tree  and
+reduce  it  to  a  mere  stump,  and  the  dwelling  place  of  the  tree-god  wholly
+disappeared.
+
+Wise  men  abhor  the  parasitic  thing
+That  chokes  the  form  to  which  it  loves  to  cling.
+The  wi.se,  suspecting  danger  from  the  weed.
+Destroy  the  root  before  it  comes  to  seed.
+
+This  was  the  fifth  stanza,  inspired  by  Perfect  Wisdom.
+
+
+The  Master  here,  his  les.son  ended,  revealed  the  Truths  and  identified  the
+Birth  :— At  the  cunclusi<jn  of  the  Truths  five  hundred  Brethren  attained  Saint-
+hood : —  "At  that  time  I  my.self  was  the  golden  goose."
+
+
+No.  371.  139
+
+No.  371.
+
+DiGHITIKOSALA-JATAKA^
+
+[2U]"Thou  art  icithin  my  poicer,''  e^c— This  story  the  :\[aster,  whilst  dwelling
+at  Jetavana,  told  concerning  some  quarrelsome  folk  from  Kosambi.  "When  they
+cjxme  to  Jetavana,  the  Master  addressed  them  at  the  time  of  their  reconciliation
+and  said,  "Brethren,  ye  are  my  lawful  sous  in  the  fc\ith,  begotten  by  the  words
+of  my  mouth.  Children  ought  not  to  trample  under  foot  the  counsel  given
+them  by  their  father,  but  ye  follow  not  my  admonition.  Sages  of  old,  when  the
+men  who  had  slain  their  parents  and  seized  upon  their  kingdom  fell  into  their
+hands  in  the  forest,  did  not  put  them  to  death,  though  they  were  confirmed
+rebels,  but  they  said,  'We  will  not  trample  on  the  counsel  given  us  by  our
+parents'."  And  hereupon  he  related  a  story  of  the  past.  In  this  Birth  both  the
+incident  that  led  uj)  to  the  story  and  the  story  itself  will  be  fidly  set  forth  in  the
+Sahghabhedaka  Birth.
+
+
+Now  prince  Dighavu,  having  found  the  king  of  Benares  lying  on  his
+side  in  the  forest,  seized  him  by  his  top-knot  and  said,  "Now  will  I  cut
+into  fourteen  pieces  the  marauder  who  slew  my  father  and  mother."  And
+at  the  very  moment  when  he  was  brandishing  his  sword,  he  recalled  the
+advice  given  him  by  his  parents  and  he  thought,  "Though  I  should
+sacrifice  my  own  life,  I  will  not  trample  under  foot  their  counsel.  I  will
+content  myself  with  frightening  him."     And  he  uttered  the  first  stanza  :
+
+Thou  art  within  my  power,  O  king,
+
+As  prone  thou  liest  here :
+What  stratagem  hast  thou  to  bring
+
+Deliverance  from  thy  fear .'
+
+Then  the  king  uttered  the  second  stanza :
+
+Within  thy  power,  my  friend,  I  lie
+
+All  helpless  on  the  ground.
+Nor  know  I  miy  means  whereby
+
+DeUverance  may  be  found.
+
+[212]  Then  the  Bodhisatta  repeated  the  remaining  verses  :
+
+Good  deeds  and  words  alone,  not  wealth,  0  king,
+In  hour  of  death  can  any  comfort  bring.
+'-^^This  man  abused  me,  that  struck  me  a  blow,
+A  third  o'ercame  and  robbed  me  long  ago."
+All  such  as  harbour  feelings  of  this  kind,
+To  mitigate  their  wrath  are  ne'er  inclined.
+"  He  did  abuse  and  butiet  me  of  yore.
+He  overcame  me  and  oppressed  me  sore."
+
+^  Compare  No.  428  infra,  Dhammapuda,  Goimneut.,  p.  104,  and  Mahuvagga,  x.  2.
+-  Dhanmiapada  v.  3 — 5.
+
+
+140  Thr  Jnt<ihi.      Bool-    V.
+
+
+They  who  such  thoughts  refiwo  to  entertain,
+Api)cu.se  their  wnith  and  live  at  one  again.
+Not  hate,  hut  love  alone  makes  hute  to  cease:
+This  is  the  everlasting  law  of  peace.
+
+After  these  words  tlie  Bodhisatta  said,  "I  will  not  do  thee  a  wrong,
+Sire.  But  do  thou  slay  me."  And  he  placed  his  sword  in  the  king's  hand.
+The  king  too  said,  "Neither  will  I  wrong  thee."  And  he  swure  an  oath,
+and  went  with  him  to  the  city,  and  pre.sented  him  to  his  councillors  and
+said,  "This,  Sirs,  is  prince  Dlghuvu,  the  son  of  the  king  of  Kosala.  He
+has  spared  my  life.  [213]  I  may  not  do  him  any  harm."  And  so  saying
+he  gave  him  his  daughter  in  marriage,  and  established  hin>  in  the  kingdom
+that  had  helonged  to  his  fatht-r.  Thenceforth  the  two  kings  reigned
+hapjiilv    ami    haniiouiously    together.
+
+
+The  Master  here  ended  his  lesson  ami  identified  the  Birth  :  "The  father  and
+tnottier  of  those  days  are  now  mcmhej-s  <>f  the  royal  household,  and  prince
+Dighavu  was  my.self."
+
+
+No.   372.
+
+
+MIG  APOT.V  K  .\-.I  \T\  K  A.
+
+"To  sorrow  for  the  dead,''  e^-. -This  story  the  Master,  whilst  dwelling  at
+Jetavana,  told  about  a  certain  elder.  It  is  said  that  lie  admittetl  a  youth  to
+orders,  and  that  this  novice,  after  ministering  to  him  zealously,  by  and  bye  fell
+sick  and  died.  The  old  man  overcome  with  grief  at  the  youth's  death  went
+about  loudly  lamenting.  The  Brethren,  failing  to  console  him,  raised  a  discussion
+in  the  Half  of  Truth,  saying,  "A  certain  old  man  on  the  deatii  of  his  novice  goes
+about  lamenting.  By  dwelling  on  the  thought  of  death,  he  will  surely  become  a
+ca.staway."  When  the  Master  came,  he  inquired  of  the  Brethren  what  was  the
+subject  they  had  met  to  discuss,  and  on  hearing  what  it  was  he  said,  "  Not  now
+only,  but  formerly  also,  the  old  man  went  about  lamenting,  when  this  youth
+died.'"     And  with  this  he  related  a  story  of  the  pa.st.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  the
+Bodhisatta  was  born  in  the  form  of  Sakka.  At  that  time  a  man,  who
+lived    in    the   kingdom    of   Kasi,    came    into   the    Himalaya  region,   and
+
+
+No.   372.  141
+
+adopting  the  life  of  an  ascetic  lived  on  wild  fruits.  One  day  he  found  in
+the  forest  a  young  deer  that  had  lost  its  dam.  He  took  it  home  to  his
+hermitage,  and  fed  and  cherished  it.  The  young  deer  grew  up  a  hand-
+some and  comely  beast,  and  the  ascetic  took  care  of  it  and  treated  it  as  his
+own  child.  One  day  the  young  deer  died  of  indigestion  from  a  surfeit  of
+grass.  The  ascetic  went  about  lamenting  and  said,  "My  child  is  dead."
+Then  Sakka,  king  of  heaven,  exploring  the  world,  saw  tliat  ascetic,  [2U]
+and  thinking  to  alarn\  him,  he  came  and  took  his  stand  in  the  air  and
+uttered  the  first  stanza  :
+
+To  .sorrow  for  the  dead  doth  ill  become
+The  lone  a.scetic,  free  fn)m  tie-s  of  home.
+
+The  ascetic  no  sooner  heard  thi.s  than  he  uttered  the  second  stanza  :
+
+Should  man  with  bciust  consort,   O  Sakka,  gi-ief
+For  a  lust  phiyiiiate  fiiuls  in  te.irs  relief.
+
+Then  Sakka  repeated  two  stanzas  :
+
+Such  as  to  weep  are  fain  may  still  lament  the  dead.
+Weep  not,   0  sage,  'tis  vain   to  weep  the  wise  have  said.
+
+If  hv  our  tears  we  might  prevail  against  the  grave.
+Thus  would  we  all   unite  our  dearest  ones  to  .siivc.
+
+While  Sakka   was  thus  speaking,  the  a.scetic  recognising  that  it  was
+useless  to  weep,  and  singing  the  praises  of  Sakka,  repeated  three  stanzas'  :
+
+[215]  As  ghee-fed  flame  that  blazes  out  amain
+
+Is  quencheci  with  water,  so  he  quenched  my   paiu.
+
+With  sorrow's  shaft  my  heart  was  wounded  sore :
+He  heiiled  my  wound  and  did  my  life  restore.
+
+The  barb  extracted,  full  of  joy  and  i)eace.
+At  Sakka's  words  I  from  my  .sorrow  cea.se.
+
+After  thus  admonishing  the  ascetic,  Sakka  departed  to  his  own  place  of
+abode.
+
+
+The  Master  here  ended  his  lesson  and  identified  the  Birth: — "At  that  time
+the  old  man  wa.s  the  a.scetic,  the  novice  was  the  deer,  and  I  myself  was  Sakka."
+
+'  These  stanzas  are  to  be  found  in  No.  .3.52  gu2)ra,  and  in  No.  410  iiifrn.
+
+
+42  The  Jdtaka.     Book    V
+
+
+No.  373.
+
+
+MrsiKA-.IATAKA.
+
+'•'•  People  cry  '  Where  is  s/ie  ffirne,'"  etc. — This  story  the  M.ustor,  wliilst  rcsitling
+in  the  Bamhoo  Grove,  told  ahout  Ajritiv.s;vttu.  The  incident  that  letl  to  the  story
+lias  been  already  fully  told  in  the  Thusa  Birth'.  Here  t<>o  the  Master  observed
+the  king  at  the  same  moment  playing  with  his  hoy  and  also  listening  to  the  Law.
+And  knowing  as  he  did  that  danger  to  the  king  will  ari.se  through  his  .son,  he
+said,  "Sire,  kings  of  old  suspected  what  wa.s  open  to  .suspicion,  and  kejjt  their
+heirs  in  confinement,  .saying,  '  Let  them  bear  rule,  after  our  lM)dics  have  Wen
+burned  on  the  fiuieral  pyre.'  '     And  with  this  he  told  a  story  of  the  pa.st.
+
+
+Once  upon  a  time  in  the  reiijn  of  Brahmadatta,  kin<(  of  Benaies,  the
+Bodhisatta  wa.s  born  in  a  brahmin  family,  and  became  a  world-famed
+teacher.  The  son  of  the  king  of  Henaies,  prince  Vava  by  name,  after
+applying  him.self  diligently  to  acijuire  all  tlie  liberal  arts  from  him,  being
+now  anxious  to  depart,  bath'  him  good-bye.  The  teacher,  knowing  by  his
+power  of  divination  that  danger  would  Itcfall  the  prince  through  his  son,
+considered  how  he  might  remove  this  danger  from  him,  and  began  to  look
+about  him  for  an  apt  illustration.
+
+[216]  Now  he  had  at  this  time  a  horse,  and  a  sore  place  appeared  on  its
+foot.  And  in  order  to  give  proper  attention  to  the  sore  the  horse  was
+kept  to  the  stable.  Now  close  l)y  was  a  well.  And  a  mouse  used  to
+venture  out  of  its  hole  and  nibble  the  sore  place  on  the  horse's  foot.
+The  horse  could  not  stop  it,  and  one  day  being  unable  to  bear  the  pain,
+when  the  mouse  came  to  bite  him,  he  struck  it  dead  with  his  hoof  and
+kicked  it  into  the  well.  The  grooms  not  seeing  the  mouse  said,  "  On  other
+days  the  mouse  came  and  bit  the  sore  place,  but  now  it  is  not  to  be  seen.
+What  has  become  of  if?"  The  Bodhisatta  witnessed  the  whole  thing
+and  said,  "  Others  from  not  knowing  ask,  '  Where  is  the  mouse  1'  But  I
+alone  know  that  the  mou.se  has  been  killed  by  the  horse,  and  dropped  into
+the  well."  And  making  this  very  fact  an  illustration,  he  composed  the
+first  stanza  and  gave  it  to  the  young  prince.
+
+Looking  about  for  another  illustration,  he  saw  that  same  horse,  when
+the  boil  was  healed,  go  out  and  make  his  way  to  a  bai-ley  field  to  get  some
+barley  to  eat,  and  thrust  his  head  through  a  hole  in  the  fence,  and  taking
+this   as   an   illustration  he   composed  a  second  stanza  and  gave  it  to  the
+
+^  No.  338  supra.
+
+
+No.  373.  143
+
+prince.  But  the  third  stanza  he  composed  by  his  own  mother- wit  and
+gave  this  also  to  him.  And  he  said,  "  My  friend,  when  you  are  established
+in  the  kingdom,  as  you  go  in  the  evening  to  the  bathing  tank,  walk  as  far
+as  the  front  of  the  staircase,  repeating  the  first  stanza,  and  as  you  enter  the
+palace  in  which  you  dwell,  walk  to  the  foot  of  the  stairs,  repeating  the
+second  stanza,  and  as  you  go  thence  to  the  top  of  the  stairs,  repeat  the
+third  stanza."     And  with  these  woi'ds  he  dismissed  him.
+
+The  young  prince  returned  home  and  acted  as  viceroy,  and  on  his
+father's  death  he  became  king.  An  only  son  was  born  to  him,  and  when
+he  was  sixteen  years  old  he  was  eager  to  be  king.  And  being  miniled  to
+kill  his  father,  he  said  to  his  retainers,  "  My  father  is  still  young.  When  I
+come  to  look  upon  his  funeral  })yre  I  shall  be  a  worn-out  old  man.  What
+good  will  it  be  for  me  to  come  to  the  throne  then]"  "  My  lord,"  they  said,
+"it  is  out  of  the  question  for  you  to  go  to  the  frontier  and  play  the  rebel.
+You  must  find  some  way  or  other  to  alay  your  father,  and  to  seize  upon
+his  kingdom."  [217]  He  rt^adily  agreed,  and  went  in  the  evening,  and
+took  his  sword  and  stood  in  the  king's  palace  near  the  bathing  tank,  pre-
+pared to  kill  his  father.  The  king  in  the  evening  sent  a  female  slave  called
+Musika,  saying,  "Go  and  cleanse  the  surface  of  the  tank.  I  shall  take
+a  bath."  She  went  there  and  while  she  was  cleaning  the  bath  she  caught
+sight  of  the  prince.  Fearing  that  what  he  was  aVtout  might  be  revealed,
+he  cut  her  in  two  with  his  sw(jrd  and  threw  the  body  into  the  tank.
+The  king  came  to  bathe.  Everybody  said,  "  To-day  the  slave  Musika  does
+not  return.  Where  and  whither  is  she  gone  ? "  The  king  went  to  the
+edge  of  the  tank,  repeating  the  firet  stanza  :
+
+People  cry,  'Where  is  she  gone?
+
+Mfi.sika,  where  ha«t  thou  fled?'
+This  is  known  to  me  alone  :
+
+In  the  well  she  lieth  dead.
+
+Thought  the  prince,  "My  father  has  found  out  what  I  have  done."  And
+being  panic-stricken  he  fled  and  told  everything  to  his  attendants.  After
+the  lajjse  of  seven  or  eight  days,  they  again  addressed  him  and  said,  "  My
+lord,  if  the  king  knew  he  would  not  be  silent.  What  he  said  must  have
+been  a  mere  guess.  Put  him  to  death."  8o  one  day  he  stood  sword  in
+hand  at  the  foot  of  the  stairs,  and  when  the  king  came  he  was  looking
+about  for  an  opportunity  to  strike  him.  The  king  came  repeating  the
+second  stanza  :
+
+Like  a  be<ist  of  burden  still
+
+Thou  dost  turn  and  turn  about.
+Thou  that  Ma.sika»  didst  kill.
+
+Fain  wouldst  Yava*  eat,  I  doubt.
+
+'  Musika  means  niouie,  Yava  barley.
+
+
+144  21ie  Jataka.     Book    V.
+
+[218]  Thouf^ht  the  prince,  "My  father  has  seen  me,"  and  fled  in  terror.
+J3ut  at  the  end  of  a  fortnight  he  thouglit,  "I  will  kill  the  king  by  a  blow
+from  a  shovel."  So  he  took  a  spoon-shaped  instrument  with  a  long  handle
+and  stood  j)oising  it.  The  king  climbed  to  the  top  of  the  stair,  repeating
+the  third  stanza  :
+
+'riiou  art  but  a  weakling  fool.
+
+Like  a  baby  with   its  toy,
+(!ra.s|)iiig  this  long  Mpoon-like  tool,
+
+I    will  .slay  thei*,  wretched  boy.
+
+That  day  being  unable  to  escape,  he  grovelled  at  the  king's  feet  and
+said,  "Sire,  spare  my  life."  The  king  after  rating  him  had  him  bound  in
+chains  and  cast  into  pri.son.  And  sitting  on  a  magnificent  royal  seat
+shaded  by  a  white  parasol,  he  Siiid,  "Our  teacher,  a  far-famed  brahmin
+fore.saw  this  danger  to  us,  and  gave  us  these  three  stanzas."  And  being
+highly  delighted,  in  the  intensity  of  his  joy  he  gave  forth  the  rest  of  the
+verses :
+
+I  am  not  free  by  dwelling  in  the  sky,
+
+Nor  by   some   act  of  filial   piety.
+
+Nay  when   my  life  wa.s  .sought   by  this  my  son,
+
+E.scai)c  from  death  through  iH)wer  of  verse  was  won.
+
+Knowledge  of  every  kind   be  apt  to  learn,
+
+And  what  it  all  may  signify  di.scern  :
+
+Though  thou  shouldst  use  it  not,  the  time  will  ^>e
+
+When  what  thou  hearest  may  advantage  thee.
+
+[219]  By  and  liyc  on  the  death  of  the  king  the  young  prince  was
+established  on  the  throne.
+
+
+The  Ma-ster  here  brought  his  les.son  to  a  close,  and  identified  the  Birth  :   "At
+that  time  the  far-famed  teacher  was  myself."
+
+
+No.  374.
+
+CULLADH  ANUGGAH  A-JATAKA  \
+
+^'Since  thou  hast  gained,''  etc. — This  story  was  told  by  the  Master  whilst
+living  at  Jetavana,  about  the  temptation  of  a  Brother  by  the  wife  of  his  un-
+regeuerate  days.     When  the  Brother  confessed  that  it  was  owing  to  the  wife
+
+1  See  Morris,  Folk-Lore  Journal,  ii.  371,  and  Tibetan  Tales,  xii.,  Sunroni.  Compare
+also  No.  425  infra.
+
+
+No.  374.  145
+
+
+that  he  had  left,  that  he  regretted  having  taken  orders,  the  Master  said,  ^ot
+now  only,  Brother,  did  this  woman  do  you  a  mischief.  Foi-merly  too  it  wa^
+owing  to  her  that  your  head  was  cut  off."  And  at  the  request  of  the  Brethren
+he  related  a  story  of  the  past.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  the
+Bodhisatta  was  reborn  as  Sakka.     At  that  time  a  certain  young  brahmin
+of  Benares  acquired  all  the  liberal  arts  at  Takkasila,  and  having  attained
+to  proficiency  in  archery,  he  was  known  as  the  clever  Little  Archer.     Then
+his  master  thought,  "This  youth  has  acquired  skill  equal  to  my  own,"  and
+he  gave  him  his  daughter  to  wife.      He  took  her  and  wishing  to  return  to
+Benares  he  set  out  on  the  road.      Half  way  on  his  journey,  an  elephant
+laid  waste  a  certain  place,  and  no  man  dared  to  ascend  to  that  spot.     The
+clever  Little  Archer,  though  the  people  tried  to  stop  him,  [220]  took  his
+wife  and  climbed  up  to  the  entrance  of  the  forest.     Then  when  he  was  in
+the  midst  of  the  wood,  the  elephant  rose  up  to  attack  him.     The  Archer
+wounded  him  in  the  forehead  with  an  arrow,  which  piercing  him  through
+and  through  came  out  at  the  back  of  his  head,  and  the  elephant  fell  down
+dead  on  the  spot.    The  clever  Archer  after  making  this  place  secure,  went
+on  further  to  another  wood.     And  there  fifty  robbers  were  infesting  the
+road.     Up  to   this   spot   too,  though   men  tried  to  stop  him,  he  climbed
+till  he  found  the  regular  place,   where  the  robbers  killed  the  deer  and
+roasted  and  ate  the  venison,  close  to  the  road.     The  robbers,  seeing  him
+approach   with  his  gaily  attired  wife,  made  a  gix-at  effort  to  capture  him.
+The  robber  chief,  being  skilled  in  reading  a  man's  character,  just  gave  one
+look  at  him,  and  recognizing  him  a.  a  distinguished  hero,  did  not  suffer
+them  to  rise  up  against  him,  though  he  was  single-handed.     The  clever
+Archer  sent  his  wife  to  these  robbers,  saying,  "Go  and  bid  them  give  us
+a  spit  of  meat,  and  bring  it  to  me."     So  she  went  and  said,  "Give  me  a
+spit  of  meat."     The  robber  chief  said,  "He  is  a  noble  fellow,"  and  bade
+them  give  it  her.     The  robbers  said,  "What !  is  he  to  eat  our  roast  meat?"
+And  They  gave  her  a  piece  of  raw  meat.     The  Archer,  having  a  good
+opinion  of  himself,  was  wroth  with  the  robbei-s  for  offering  him  raw  meat.
+The  robbei-s  said,  "What!  is  he  the  only  man,  and  are  we  merely  women ]"
+And  thus  threatening  him,  they  rose  up  against  him.    The  Archer  wounded
+and  struck  to  the  ground  fifty  robbers  save  one  with  the  same  number  of
+arrows      He  had  no  arrow  left  to  wound  the  robber  chief.     There  had
+been  full  fifty  arrows  in  his  quiver.     With  one  of  them  he  had  wounded
+the  elephant,  and  with  the  rest  the  fifty  rol>bers  save  one.     So  he  knocked
+down  the  robber  chief,  and  sitting  on  his  chest  bade  his  wife  biing  him  his
+sword  in  her  hand  to  cut  off  his  head.     At  that  very  moment  she  con-
+ceived a  passion  for  the  robber  chief  [221]  and  placed  the  hilt  of  the
+
+10
+
+
+146  The  Jdtaka.     Book   V.
+
+
+sword  in  his  hand  and  the  sheath  in  that  of  her  husband.  The  robber
+grasping  the  hilt  drew  otit  the  sword,  and  cut  off  tlic  head  of  the  Archer.
+After  slaying  her  husband  he  took  the  woman  with  him,  and  an  they
+journeyed  together  he  inquired  of  her  origin.  "T  am  the  daughter,"  she
+said,  "of  a  world-famed  professor  at  Takkasila."
+
+"  How  did  he  gt-t  you  for  his  wife?  "  he  .said.
+
+"My  father,"  she  said,  "was  so  pleased  at  his  having  awjuiretl  from
+him  an  art  equal  to  liis  own,  that  he  gave  me  to  him  to  wife.  And
+becauHt^  I  fell  in  love  with  you,  I  let  you  kill  my  lawful  husl)un<l."
+
+Thought  tht!  robber  chief,  "Thi.s  woniiin  now  has  killed  her  lawful
+husband.  As  soon  as  she  .sees  .some  other  man,  she  will  treat  me  too  after
+the  .same  sort.      I  must  get  rid  of  her."
+
+And  as  he  went  on  his  way,  he  saw  their  path  cut  ofl'  by  wliat  was
+usually  a  poor  little  shalhtw  stream,  but  which  w;is  now  flooded,  and  he
+said,  "  My  dt;ar,  there  is  a  savage  crocodile  in  this  river.  What  are  we
+todol"
+
+"My  lord,"  she  said,  "take  all  the  ornaments  I  wear,  and  make  them
+into  a  bundle  in  your  upper  robe,  and  carry  thent  to  the  further  side  of  the
+river,  and  then  come  back  and  take  me  across."
+
+"Very  well,"  he  said,  and  took  all  her  adornments,  and  going  down  to
+the  stream,  like  one  in  great  haste,  he  gained  iUr  other  bank,  and  left  her
+and  fled.
+
+On  seeing  this  she  cried,  "  My  lord,  you  go  as  if  you  were  leaving  me.
+Why  do  you  do  this]  Come  back  and  take  me  with  you."  And  addressing
+him  she  uttered  the  firat  stanza  :
+
+Since  thou  lia.st  gained  the  other  side.
+With  all  my  goods  in  bundle  tied.
+Return  ji.s  quickly  a.s  may  Ije
+And  ciwry  me  across  with  thee.
+
+The  robber,  on  hearing  her,  as  he  stood  on  the  further  bank,  repeated
+the  second  stanza' :
+
+Thy  fancy,  lady,  ever  roves
+From  well-tried  faith  to  lighter  loves,
+[222]  Me  too  thou  wouldst  ere  long  betray,
+Should  I  not  hence  flee  far  away.
+
+But  when  the  robber  said,  "I  will  go  further  hence  :  you  stop  where
+you  are,"  she  screamed  aloud,  and  he  fled  with  all  her  adornments.  Such
+was  the  fate  that  overtook  the  poor  fool  through  excess  of  passion.  And
+being  quite  helpless  she  drew  nigh  to  a  clump  of  cassia  plants  and  sat  there
+weeping.  At  that  moment  Sakka,  looking  down  upon  the  world,  saw  her
+smitten  with  desii'e  and  weeping  for  the  loss  of  both  husband  and  lover.
+
+1  This  stanza  occurs  in  No.  318  supra,  with  which  this  story  may  be  compared.
+
+
+No.  374.  147
+
+And  thinking  he  would  go  and  rebuke  her  and  put  her  to  shame,  he  took
+with  him  Matali  and  Pancasikha',  and  went  and  stood  on  the  bank  of  the
+river  and  said,  "  Matali,  do  you  become  a  fish,  Pancasikha,  you  change  into
+a  bird,  and  I  will  become  a  jackal.  And  taking  a  piece  of  meat  in  my
+mouth,  I  will  go  and  place  myself  in  front  of  this  woman,  and  when  you
+see  me  there,  you,  Matali,  are  to  leap  up  out  of  the  watesr,  and  fall  before
+me,  and  when  I  shall  drop  the  piece  of  meat  I  have  taken  in  my  mouth,
+and  shall  spring  up  to  seize  the  fish,  at  that  moment,  you,  Pancasikha,  are
+to  pounce  upon  the  piece  of  meat,  and  to  fly  up  into  the  air,  and  you,
+Matali,  are  to  fall  into  the  water."
+
+Thus  did  Sakka  instruct  them.  And  they  said,  "Good,  my  lord."
+Matali  was  changed  into  a  fish,  Pancasikha  into  a  bird,  and  Sakka
+became  a  jackal.  And  taking  a  piece  of  meat  in  his  mouth,  he  went  and
+placed  himself  in  front  uf  the  woman.  The  fish  leaping  up  out  of  the
+water  fell  before  the  jackal.  The  jackal  dropping  the  piece  of  meat  he
+held  in  his  mouth,  sprang  up  to  catch  the  fish.  The  fish  jumped  up  and
+fell  into  the  water,  and  the  bird  seized  the  piece  of  meat  and  flew  up  into
+the  air.  The  jackal  thus  lost  both  fish  and  meat  and  sat  sulkily  looking
+towards  the  clump  of  cassia.  The  woman  seeing  this  said,  "  Through
+being  too  covetous,  he  got  neither  flesh  nor  fish,"  [223]  and,  as  if  she  saw
+the  point  of  the  trick,  she  laughed  heartily.
+
+The  jackal,  on  heai-ing  this,  uttered  the  third  stanza :
+
+Who  makes  the  cas.sia  thicket  ring
+With  laughter,  though  none  dance  or  sing.
+Or  flap  their  hands,  good  time  t<j  keep  ?
+Fair  one,  laugh  not,  when  thou  shouldst  weep.
+
+On  hearing  this,  she  repeated  the  fourth  stanza :
+
+O  silly  jackal,  thou  must  wish
+Thou  hadst  not  lost  both  flesh  and  fish.
+Po(jr  fool  I  well  mayst  thou  gi-ieve  to  see
+Wliat  comes  of  thy  stupidity.
+
+Then  the  jackal  repeated  the  fifth  stanza  :
+
+Another's  faults  are  plainly  seen,
+'Tis  hard  to  see  one's  own,  I  ween.
+Methinks  thou  t<j()  miust  count  the  cost,
+When  spouse  and  lover  both  are  lost,
+
+[224]  On  hearing  his  words  she  spoke  this  stanza  :
+
+King  jackal,  'tis  jast  as  you  say,
+So  1  will  hie  me  far  away.
+And  seek  ancjthor  wedded  love
+And  strive  a  faithful  wife  to  prove.
+
+*  His  charioteer  and  a  gandharva.
+
+10—2
+
+
+148  The  Jdtaka.     Book   V.
+
+
+Then  Sakka,  king  of  heaven,  hearing  the  words  of  this  vicious  un«l
+unchaste  woin:in,  repeated  the  final  stanza  :
+
+He  that  would  steal  a  pot  of  day
+Would  steal  a  brass  one  any  dav  :
+80  she  who  was  her  husband's  bane
+Will  1k3  as  bad  or  worse  again.
+
+Thus  did  Sakka  put  her  to  shame  and  brought  her  to  repent,  and  then
+returned  to  liis  own  abode.
+
+
+The  Master  here  ejided  his  lesson  and  revealed  the  Truths,  and  identified  the
+Birth:— At  the  conclusion  of  the  Truths  the  l>ackslidiiij,'  Brother  attained  the
+fruit  of  the  First  Path  :— "  At  that  time  the  iMvckslidiii^'  Hrother  wjus  the  Archer,
+the  wife  he  had  left  w.us  that  woman,  ami  I  myself  was  Sakka,  king  of  hwiven."
+
+
+No.   375.
+
+
+KAPOTA-JATAKA'
+
+
+"  I  feel  quite  weU"  etc. — This  story  the  Miuster,  whilst  dwelling  at  Jetavana,
+told  concerning  a  greedy  Brother.  This  story  of  the  gree<ly  lirother  has  already
+been  fully  told  in  divers  ways.  In  this  ca.se  the  Ma.ster  ii.-<ked  him  if  he  were
+greedy  and  on  his  confessing  that  it  wjvs  .so,  siiid,  "Not  now  only,  but  formerly
+also,  Brother,  you  were  greedy,  and  through  greed  came  by  your  death."  And
+herewith  he  told  a  story  of  the  past.
+
+
+[225]  Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,
+the  Bodhisatta  came  to  life  as  a  young  pigeon  and  lived  in  a  wicker  cage,
+in  the  kitchen  of  a  rich  merchant  of  Benares.  Now  a  crow  hankering
+after  fish  and  flesh  made  friends  with  this  pigeon,  and  lived  in  the  same
+place.  One  day  he  caught  sight  of  a  lot  of  fish  and  meat  and  thought,
+"  I'll  have  this  to  eat,"  and  lay  loudly  groaning  in  the  cage.  And  when
+the  pigeon  said,  "  Come,  my  friend,  let  us  sally  out  for  our  food,"  he
+refused  to  go,  saying,  "I  am  laid  up  with  a  fit  of  indigestion.  Do  you  go."
+And  when  the  pigeon  was  gone,  he  said,  "  My  troublesome  enemy  is  off*.
+
+^  Compare  No.  42,  vol.  i.,  No.  274,  vol.  ii.
+
+
+No.   375.  149
+
+I  will  now  eat  fish  and  meat  to  my  heart's  content."     And  so  thinking,  he
+repeated  the  first  stanza  :
+
+I  feel  quite  well  and  at  my  ease,
+
+Since  Mr  Pigeon  oflF  is  gone.
+My  cravings  I  will  now  appease  :
+
+Potherbs  and  meat  should  strengthen  one.
+
+So  when  the  cook  who  was  roasting  the  fish  and  meat  came  out  of
+the  kitchen,  wiping  away  streams  of  sweat  from  his  person,  the  crow
+hopped  out  of  his  basket  and  hid  himself  in  a  basin  of  spices.  The  basin
+gave  forth  a  'click'  sound,  and  the  cook  came  in  haste,  and  seizing  the
+crow  pulled  out  his  feathers.  And  grinding  some  moist  ginger  and  white
+mustard  he  pounded  it  with  a  rotten  date,  and  smeared  him  all  over  \vith
+it,  and  rubbing  it  on  with  a  potsherd  [22G]  he  wounded  the  bird.  Then  he
+fastened  the  potsherd  on  his  neck  with  a  string,  and  threw  him  back  into
+the  basket,  and  went  off".
+
+When  the  pigeon  came  back  and  saw  him  he  said,  "  Who  is  this
+crane  lying  in  my  friend's  basket?  He  is  a  hot-tempered  fellow  and  will
+come  and  kill  this  stranger."  And  thus  jesting,  he  spoke  the  second
+stanza  :
+
+'Child  of  the  Clouds,' '  with  tufted  crest,
+Why  didst  thou  steal  my  poor  friend's  nest  ?
+Come  here,  Sir  Crane.     My  friend  the  crow
+Has  a  hot  tcm[)er,  you  must  know.
+
+The  crow,  on  hearing  this,  uttered  the  third  stanza  :
+
+Well  mayst  thou  laugh  at  such  a  sight.
+For  I  am  in  a  sorry  plight.
+The  cook  ha.s  plucked  and  basted  me
+Witli  rotten  dates  and  spicery.
+
+The  pigeon,  still  making  sport  of  him,  repeated  the  fourth  stanza  :
+
+Bathed  and  anointed  well,  I  think,
+Thou  hiiiit  thv  till  of  food  and  drink.
+Thy  neck  so  bright  with  jewel  sheen,
+Hiust  thou,  friend,  to  Benares  l>een  ?
+
+Then  the  crow  repeated  the  fifth  stanza  :
+
+Let  not  my  friend  or  bitter&st  foe
+On  visit  to  Benares  go.
+They  plucked  me  bare  and  as  a  jest
+Have  tied  a  potsherd  on  my  breast.
+
+[227]  The  pigeon  heai-ing  this  repeated  the  final  stanza :
+
+These  evil  habits  to  outgrow
+Is  hard  with  such  a  nature,  crow.
+Birds  should  be  careful  to  avoid
+The  food  they  see  by  man  enjoyed.
+
+'  Cranes  are  conceived  at  the  sound  of  thunder-clouds.     Cf.  Meghaduta  9.
+
+
+150  The  Jataka.     Book   V.
+
+
+After  thus  reproving  him,  the  pigeon  uo  longer  dwelt  there,  but  spread
+his  wings  and  flew  elsewhere.      But  the  crow  died  then  and  there.
+
+
+The  Afaster  hero  ended  his  lesson  and  rovcalod  the  Tnitlis  and  iiientified  the
+Birth  :— At  the  conclusion  of  the  Truths  the  ureedy  Urothcr  attaincMl  fruition  of
+the  Second  Path: — "At  that  time  the  crow  was  the  grecily  Urothor,  the  pigeon
+was  myself."
+
+
+BOOK   VI.— CHANIPATA.
+No.  376.
+
+AVAIUYA-JATAKA.
+
+[•2281  'SVe'cT  k-  angry,  etc:'  The  Miuster  toM  this  tale  while  dwelling  at
+Jetavana,  about  a  fcrryiuaii.  Thi.s  man,  they  s^iy,  w.us  fo«.li.sh  and  ignorant:  he
+knew  not  the  qualities  of  the  Three  Jewels  and  of  all  exce  lent  Ijcu.gs :  he  w;i.s
+hasty,  rough  and  violent.  A  certiiin  country  Brother,  wishn.g  t.  wait  on  the
+Buddhis  c<une  .Mie  evening  t<j  the  ferry  on  the  Aciravatl  and  s|ud  to  the  feiryman  :
+"Lay-l.rother,  I  wish  t.,  cros.s,  let  n.e  have  your  Ujat."  "Sir  it  is  too  late,  stay
+here.'  "Lay-brother,  1  c^mnot  8t<iy  here,  Uike  me  across.'  The  ferrvuian  said
+angrily,  "Come  then,  Sir  Priast,"  and  took  him  into  the  boat:  but  he  steered
+badly  and  made  the  boat  shii.  water,  so  that  the  Brothers  rol)C  wius  wet,  and  it
+Wius  dark  iKifore  he  i.ut  him  on  the  farther  bank.  W  hen  the  Brother  ro^ichc.1  the
+monastery,  he  could  not  wait  on  the  Buddha  that  day.  .Next  day  he  went  to  the
+Ma.ster,  saluted  and  sat  on  one  side.  The  M;ister  gave  greeting  and  a.sked  when
+he  ha.1  come.  "Yesterday."  "Then  why  d.>  you  not  wait  on  me  till  to-day  <
+When  he  heanl  his  re^vson,  the  Ma.ster  s^iid,  "Not  now  only  but  of  old  al.Ho  that
+man  was  rough  :  and  he  annoyed  wise  men  of  old,  as  he  did  you.  And  when
+asked  he  told  an  old-world  tale.
+
+
+Once  upon  a  time  when  Brahmadatta  was  king  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family.  When  he  grew  up,  he  was
+educated  in  all  the  arts  at  Takkasila  [229],  and  became  an  ascetic.  After
+living  long  on  wild  fruits  in  the  Himalaya,  he  came  to  Benares  for  salt  and
+vinegar:  he  stayed  in  the  royal  garden  and  next  day  went  into  the  city  to
+beg.  The  king  saw  him  in' the  palace-yard  and  being  pleased  with  his
+deportment  caused  him  to  be  brought  in  and  fed:  then  he  took  a  promise
+and  made  him  dwell  in  the  garden:  and  he  came  daily  to  pay  respect.  The
+Bodhisatta  said  to  him,  "O  great  king,  a  king  should  rule  his  kingdom
+with  righteousness,  eschewing  the  four  evil  courses,  being  zealous  and  full
+
+
+152  The  Jataka.     Book   VI.
+
+of  patience  and  kindness  and  comjjassiun,"  and  with  such  daily  exiioi'tatioii
+he  spoke  two  stanzas :
+
+Ne'er  be  angry,  prince  of  warriors;  ne'er  be  angr}',  lord  of  caith:
+Anger  ne'er  requite  with  anger:   thus  a  king  is  worship- worth.
+
+In  the  village,  in  the  forest,  on  the  sea  or  on  the  shore,
+Ne'er  be  angry,  prince  of  warriors :  'tis  my  counsel  evenuorc.
+
+So  the  Bodhisatta  spoke  these  stanzas  to  the  king  every  day.  The  king
+was  i)leased  with  him  and  offered  him  a  village  whose  revenue  was  a
+hundred  thousand  pieces:  but  lie  refused.  In  this  way  the  Bcnlhisatta  lived
+for  twelve  years.  Then  he  thought,  "  I  have  stayed  too  long,  I  will  Uike  a
+journey  through  the  country  and  return  here":  so  without  telling  the  king
+and  only  saying  to  the  gardener,  "Friend,  I  weary,  I  will  journey  in  the
+country  and  return,  pray  do  you  tell  the  king,"  [230]  he  went  away
+and  came  to  a  ferry  on  the  Ganges.  There  a  foolish  ferryman  name<l
+Avariyapita  lived:  he  understood  neither  the  merits  of  good  men  nor  his
+own  gain  and  loss:  when  folk  would  cross  the  Ganges,  he  first  took  tlicni
+across  and  then  asked  for  his  fare;  when  they  gave  him  none,  he  quarrelled
+with  them,  getting  much  abuse  and  blows  but  little  gain,  so  blind  a  fool
+was  he.
+
+Concerning  him,  the  Master  in  hia  Perfect  Wisdom  spoke  the  third
+stanza, :
+
+The  father  of  Avariya,
+
+His  boat's  on  CJanges  wave:
+He  ferries  first  the  folk  across.
+
+And  then  his  fare  he'll  crave :
+And  that  is  why  he  earns  but  strife,
+
+A  thriftless,  luckless,  knave!
+
+The  Bodhisatta  came  to  this  ferryman  and  said,  "Friend,  take  me  to
+the  other  bank."  He  said,  "Priest,  what  fare  will  you  pay  me]"  "P^-iend,
+I  will  tell  you  how  to  increase  your  wealth,  your  welfare,  and  your
+virtue."  The  ferryman  thought,  "He  will  certainly  give  me  some-
+thing," so  he  took  him  across  and  then  said,  "Pay  me  the  fare."  The
+Bodhisatta  said,  "Very  well,  friend,"  and  so  telling  him  first  how  to  in-
+crease his  wealth,  he  spoke  this  stanza :
+
+Ask  your  f;ire  before  the  crossing,  never  on  the  further  shore :
+Different  minds  have  folk  you  ferry,  difi'erent  after  and  before.
+
+[231]  The  ferryman  thought,  "This  will  be  only  his  admonition  to  me,
+now  he  will  give  me  something  else":  but  the  Bodhisatta  said,  "Friend,
+you  have  there  the  way  to  increase  wealth,  now  hear  the  way  to  increase
+welfai'e  and  virtue,"  so  he  spoke  a  stanza  of  admonition:
+
+In  the  village,  in  the  forest,  on  the  sea,  and  on  the  shore.
+Ne'er  be  angry,  my  good  boatman;   'tis  my  counsel  evermore.
+
+
+No.   376.  153
+
+So  having  told  him  the  way  to  increase  welfare  and  virtue,  he  said,
+"There  you  have  the  way  to  increase  welfare,  and  the  way  to  increase
+virtue."  Then  that  stupid  one,  not  reckoning  his  admonition  as  anything,
+said,  "Priest,  is  that  what  you  give  me  as  my  fare?"  "Yes,  friend."  "I
+have  no  use  for  it,  give  me  something  else."  "Friend,  except  that  1  have
+nothing  else."  "Then  why  did  you  go  on  my  boat]"  he  said,  and  threw
+the  ascetic  down  on  the  bank,  sitting  on  his  chest  and  striking  his  mouth.
+
+The  Master  said:  "So  you  see  that  when  the  ji.scetic  gave  this  admoni-
+tion to  the  king  he  got  the  boon  of  a  village,  and  when  he  gave  the  same
+admonition  to  a  stupid  ferryman  he  got  a  blow  in  the  mouth:  therefore
+when  one  gives  this  admonition  it  must  be  given  to  suitable  peoi)le,  not  to
+unsuitable,"  and  so  in  his  Perfect  Wisdom  he  then  spoke  a  stanzii :
+
+For  counsel  good  the  king  Inj-stowcd  the  revenue  of  a  town:
+The  lx)atman  for  the  same  advice  hiia  knocked  the  giver  down.
+
+As  the  man  was  striking  the  priest,  his  wife  came  with  his  rice,  and
+seeing  the  ascetic,  she  said,  "Husband,  this  is  an  ascetic  of  the  king's
+court,  do  not  strike  him."  He  was  angry,  and  saying,  "You  forbid  me  to
+strike  this  false  priest!"  he  sprang  up  and  struck  her  down.  The  plate  of
+rice  fell  and  broke,  and  the  fruit  of  her  woinl)  mi.scanied.  Tlie  pco[)le
+gathered  round  him  and  [232]  crying,  "Murdering  rascal!"  they  bound  him
+and  brought  him  to  the  king.  The  king  tried  him  and  caused  him  to  be
+puni.shed.
+
+The  Master  in  his  Perfect  Wisdom  explaining  the  matter  spoke  the
+last  stanza  :
+
+The  rice  wna  spilt,  his  wife  wa.s  struck,  child  killed  before  its  birth,
+To  him,  like  fine  gold  to  a  beast,  counsel  was  nothing  worth.
+
+
+When  the  Master  hiid  ended  hi.s  lesson,  he  declared  the  Tniths: — after  the
+Tnitli.s  the  brother  was  e.staV)liHht'd  in  the  fruit  of  the  first  path:  and  identified
+the  Birth :  "  At  that  time  the  ferryman  was  the  ferryman  of  to-day,  the  king
+was  Ananda,  the  ascetic  was  myself."
+
+
+No.  377.
+
+SETA  KETU- J  AT  A  K  A.
+
+^^Friend,  be  not  angrij"  etc. — The   Master  told  this  tale  at  .Jetavana,  ol  a
+deceitful  Brother.     The  occasion  of  the  story  will  ap^Hjar  in  the  Uddala'  Birth.
+
+
+1  No.  487,  vol.  iv.
+
+
+154  The  Jdtaka.     Book    VI.
+
+
+Once  upon  a  time  when  Bi-abniiidatta  was  king  in  lienurc8,  the
+Bodhisatta  was  a  far-famed  teacher  and  tjiught  the  sacred  texts  to  five
+hundred  j)upils.  Tlie  senior  of  them,  Setaketu  by  name,  was  horn  of  a
+brahmin  family  from  the  nortli,  and  was  very  proud  on  account  of  his  casto.
+One  day  he  went  out  of  the  town  with  other  pupils,  and  when  coming  in
+again  he  saw  a[li33]  candaiii,  "Who  are  you  I"  he  said.  "I  am  aciuidala."
+He  feared  the  wind  after  striking  the  candala's  body  might  touch  his  own
+body,  so  he  cried,  "Cui-sc  you,  you  ill-omened  candala,  get  to  leeward,"
+and  went  quickly  to  windward,  but  the  candala  was  too  quick  for  him  and
+stootl  to  windward  of  him.  Then  he  abused  and  reviled  him  the  more,
+"Curse  you,  ill-omened  one."  The  candala  asked,  "Who  ai-e  you?"  "I  am
+a  l)raliniin  student."  "Very  well,  if  you  are,  you  will  be  aide  to  answer
+mo  a  question."  "Yes."  "If  you  can't,  I  will  put  you  between  my
+feet."  The  brahmin,  feeling  confident,  said,  "Proceed."  The  candala,
+making  the  company  understand  the  case,  asked  the  question,  "Young
+brahmin,  what  are  the  quarters?"  "The  quartci-s  are  four,  the  East
+and  the  rest."  The  candala  said,  "I  am  not  asking  about  that  kind  of
+quarter:  and  you,  ignorant  even  of  this,  loathe  the  wintl  that  has  struck
+my  body,"  so  he  took  him  liy  the  shoulder  and  forcing  him  down  put  him
+between  his  fcc^t.  The  other  pupils  told  their  teacher  of  the  aftair.  He
+asked,  "Young  Hetaketu,  have  you  bt-en  put  between  a  candala's  feet?"
+"Yes,  teacher:  the  son  of  a  slave  put  me  between  his  feet,  saying,  'Ho
+doesn't  know  even  the  quarters';  but  now  I  shall  know  what  to  do  to
+him,"  and  so  he  reviled  the  candala  angrily.  The  teacher  atlmonished
+him:  "Young  Setaketu,  be  not  angry  with  him,  he  is  wise;  he  was  asking
+about  another  kind  of  (juarter,  not  this :  what  you  have  not  seen,  or  heard,
+or  understood  is  far  more  than  what  you  have":  and  he  spoke  two  stanzas
+by  way  of  admonition:
+
+Friend,  be  not  angry,  anger  is  not  good  :
+Wisdom  is  more  than  you  have  seen  or  heard  :
+[234]  By  'quarter'  parents  may  l>e  understcMxl,
+And  teacher  is  denotea  by  the  word.
+
+The  householder  who  gives  food,  clothes  and  drink,
+
+Whose  doors  are  o^Kjn,  he  a  '  quarter '  is  :
+And  'quarter'  in  the  highest  sense,  we  think,
+
+Is  that  last  state  where  misery  shall  be  bliss'.
+
+[235]  So  the  Bodhisatta  explained  the  quarters  to  the  young  brahmin  :
+but  he  thinking,  "I  was  put  between  a  caiulrda's  feet,"  left  that  place  and
+going  to  Takkasila  learned  all  the  arts  from  a  far-famed  teacher.  With
+that  teacher's  permission  he  left  Takkasila,  and  wandered  learning  all
+practical  arts.     Coming  to  a  frontier  village  he  found  five  hundred  ascetics
+
+^  This  rests  on  fanciful  puns  on  the  names  of  the  four  quarters.
+
+
+No.  377.  155
+
+dwelling  near  it  and  was  ordained  by  them.  All  their  arts,  texts  and
+practices  he  learnt,  and  they  accompanied  him  to  Benares.  Next  day  he
+went  to  the  palace-yard  begging.  The  king,  pleased  with  the  ascetics'
+deportment,  gave  them  food  in  the  palace  and  lodging  in  his  garden.  One
+day  he  said,  sending  them  food,  "I  will  salute  yonr  reverences  this  evening
+in  the  garden."  Setaketu  went  to  the  garden  and  collecting  the  ascetics,
+said,  "Sirs,  the  king  is  coming  to-day;  now  by  once  conciliating  kings  a
+man  may  live  happily  all  the  years  of  his  life,  so  now  some  of  you  do  the
+swinging  penance,  some  lie  on  thorn-beds,  some  endure  the  6ve  fires,  some
+practise  the  mortification  by  squatting,  some  the  act  of  diving,  some  repeat
+texts,"  and  after  these  ordei-s  he  set  himself  at  the  door  of  the  hut  on  a
+chair  with  a  head-rest,  put  a  book  with  a  brilliant-coloured  wrapping  on  a
+painted  stand,  and  explained  texts  as  they  were  inquired  about  by  four  or
+five  intelligent  pupils.  At  that  moment  the  king  arrived  [23G]  and  seeing
+them  doing  these  false  penances  he  was  delighted :  he  came  up  to  Setaketu,
+Sivluted  him  and  sat  on  one  side  :  then  tiilking  to  his  family  priest  he
+spoke  the  third  stanza  :
+
+With  imclwinscd  teeth,  and  goatskin  garV)  and  hair
+
+All  matted,  muttering  holy  word.s  in  i)cacc  :
+Surely  no  human  means  to  g<Kxl  they  spare.
+
+They  know  the  Tmth,  and  they  have  won  Release.
+
+The  priest  heard  this  and  spoke  the  fourth  stanza  :
+
+A  Iciimed  sage  may  do  ill  deeds,  O  king  :
+
+A  learned  .sage  may  fail  to  follow  right :
+A  thousand  Vcdas  will  not  .safety  bring,
+
+Failing  just  works,  or  .s^ive  from  evil  plight.
+
+When  the  king  heard  this,  he  took  away  his  favour  from  the  ascetics.
+Setaketu  thought:  "This  king  took  a  liking  to  the  a.scetics,  but  this  priest
+has  destroyed  it  as  if  he  had  cut  it  with  an  axe:  I  must  talk  to  him":
+so  talking  to  him  he  spoke  the  fifth  stanza ;
+
+[237]     "  A  le;irned  .sage  may  do  ill  deeds,  0  kuig  :
+A  learned  sage  may  fail  to  follow  right"
+You  .say:  then  Vedjis  are  a  u-selcss  thing:
+Just  works  with  self-restraint  are  requisite.
+
+The  priest  hearing  this,  spoke  the  sixth  stanza :
+
+Nay,  Vedas  are  not  luselcss  utterly  :
+
+Though  works  with  self-restraint  true  doctrine  is  :
+
+Study  of  Vedas  lifts  man's  name  on  high.
+But  'tis  by  conduct  that  he  reaches  Bli-ss.
+
+So  the  priest  refuted  Setaketu's  doctrine.     He  made  them  all  laymen,
+;ave  them  shields  and  weapons,  and  appointed  them  to  be  attendants  on  the
+
+
+o'
+
+
+156  The  Jataka.     Book    VI.
+
+
+kiug  lis  Superior  Officei-8  :  iiiul  heuce  they  say  comes  the  race  of  Superiur'
+Officers,
+
+
+After  the  lesson  the  Master  identifiod  the  Birth  :  "  At  tlwit  tiino  Sctnkctu  wjih
+the  cheating  priest,  the  candAhi  was  Sariputta,  and  the  King's  priest  wius  myself."
+
+
+No.   378.
+
+DAUiMrKHA-J.VrAKA.
+
+[238]  '' Plfimiren  of  seme"  e/f.— This  tale  was  told  l.y  the  Miuster  wliile
+dwelling  in  .letavana,  concerning  the  (Jreat  Renunciation.  The  incident  that
+led  to  the  story  has  Ijoon  t<jld  before.
+
+
+Once  upon  a  time  the  Magadha  king  reigned  in  Rajagaha.  The
+Bodhisattsi  was  born  of  his  chief  queen,  and  they  called  him  prince
+Braluuadatta.  On  the  day  of  his  birth,  the  family  priest  also  had  a  son  :
+liis  face  wsvs  very  beautiful,  so  they  called  him  DarTmukha*.  Both  grew  up
+in  the  king's  court  dear  friends  together,  and  in  the  sixteenth  year  they
+went  to  Takkasila  and  learned  all  the  arts.  Then,  meaning  to  acquire
+all  practical  usages  and  understand  country  observances,  they  wandered
+through  towns,  villages  and  all  the  land.  So  tlioy  reached  Benares,  and
+staying  in  a  temple  they  went  into  the  city  next  day  to  beg.  In  one  of  the
+houses  in  the  city  the  people  of  the  house  had  cooked  rice-porridge  and
+prepared  seats  to  feed  brahmins  and  gi\  e  them  portions.  Those  people  seeing
+the  two  youths  begging,  thought,  "The  brahmins  have  come,"  and  making
+them  come  in  laid  a  white  cloth  on  the  Bodhisatta's  seat  and  a  red  rug  on
+Darlmukha's.  DarTmukha  observed  the  omen  and  understood  that  his
+friend  should  be  king  in  Benares  and  himself  commander  of  the  army.
+They  ate  and  took  their  portions,  and  then  with  a  blessing  left  and  went
+to  the  king's  garden.  The  Bodhisatta  lay  on  the  royal  stone-seat.
+DarTmukha  sat  stroking  his  feet.  The  king  of  Benares  had  been  dead
+seven  days.     The  family  priest  had  performed  funeral  rites  and  sent  out  the
+
+1  Cf.  Hiouen-Thsang's  Life,  p.  257.
+
+-  "  Cave-mouth":  perhaps  '  very  beautiful '  should  be  '  very  wide.'
+
+
+No.   378.  157
+
+festal  car  for  seven  clays  as  there  was  no  heir  to  the  throne.    This  ceremony
+of  the  car  will  be  explained  in  the  Mahajanaka  Birth.     This  car  left  the
+city  and  reached  the  gate  of  the  garden,  [239]  accompanied  by  an  army  of
+the  four  divisions  and  by  the  music  of  hundreds  of  instruments.    Darlmukha,
+hearing  the  music,  thought,  "Thi.s  car  is  coming  for  my  friend,  he  will  be
+king  to-day  and  give  me  the  commander's  place,  but  why  should  I  be  a
+layman?  I  will  go  away  and  become  an  ascetic";  so  without  a  word  to  the
+Bodhisatta  he  went  on  one  side  and  stood  concealed.     The  priest  .stayed
+the  car  at  the  gate  of  the  garden,  and  entering  saw  the  Bodhisatta  lying
+on  the  royal  seat :  observing  the  auspicious  marks  on  his  feet,  he  thought,
+"He  has  merit  and  is  worthy  to  be  king  even  of  the  four  continents  with
+two  thousand  islands  around  them,  but  what  is  his  coui-agel"    So  he  made
+all  the  instruments  sc^und  their  loudest.     The  Bodhisatta  woke  and  tiiking
+the  cloth  from  liis  face  he  saw  the  multitude  :  then  covering  his  face  again
+he  lay  down  for  a  little,  and  rising  when  the  car  stopped  sat  cross-legged  on
+the  seat.     The  priest  resting  on  his  knee  said,  "Dird,  the  kingdom  falls  to
+you."   "Why,  is  there  no  heir?"    "No,  lord."   "Then  it  is  well,"  and  so  he
+accepted,  and  they  anointed  him  there  in  the  garden.     In  his  great  glory
+he  forgot  Darlmukha.      He  mounted  the  car  and  drove  amid  the  multitude
+in  solemn  form  round  the  city  :  then  .stopping  at  the  palace-gate  he  an-anged
+the  places  of  the  courtiers  and  went  up  to  the  terrace.     At  that  instant
+Darlmukha  seeing  the  garden  now  empty  came  and  sat  on  the  royal  seat  in
+the  garden.     A  withered  leaf  fell  before  him.     In  it  he  came  to  see  the
+principles  of  decay  and  death,  grasped   the  three  marks  of  things,  and
+making  the  earth  re-echo  with  joy  he  entered  on  paccekabodhi.     At  that
+instant  the  characU'rs  of  a  householder  vanished  from  him,  a  mii-aculous
+bowl  and  frock  fell  from  the  sky  and  clave  to  his  body,  at  once  he  had  the
+eii'ht  reipiisites  and  the  j)erfect  deportment  of  a  centenarian  monk,  [-40]
+and  by  miracle  he  tlew  into  the  air  and  went  to  the  cave  Nandamfila'   in
+the  Himalaya.
+
+The  Bodhisatta  ruled  his  kingdom  with  righteousness,  but  the  great-
+ness of  his  glory  infatuated  him  and  for  forty  years  he  forgot  Darlmukha.
+In  the  fortieth  year  he  remembered  him,  and  saying,  "I  have  a  friend
+named  Darnnukha ;  where  is  he  now  r'  he  longed  to  see  him.  Thence-
+forth even  in  the  seraglio  and  in  the  a.s.sembly  he  would  say,  "Where  is  my
+friend  Darlmukha  ?  I  will  give  great  honour  to  the  man  who  tells  me  of
+his  abode."  Another  ten  years  pa.s.sed  while  he  remembered  Darlmukha
+from  time  to  time.  Darlmukha,  though  now  a  paccekabuddha,  after
+fifty  years  reflected  and  knew  that  his  fi-ieud  remembered  him :  and
+thinking,  "He  is  now  old  and  increa.sed  with  sons  and  daughters,  I  will  go
+and  preach  the  law  to  him  and  ordain  him,"  he  went  by  miracle  through
+
+>  This  is  specially  the  abode  of  paccekabuddhas.
+
+
+158  The  Jataka.     Book   VI.
+
+
+tlie  air,  and  lighting  in  the  garden  he  sat  like  a  golden  image  on  tlie  stone
+seat.  The  giirdfiicr  He»'ing  him  came  up  and  asked,  "  Sir,  whence  come
+you?"  "From  the  cave  Nandrtmulaka."  "Who  are  you  1 "  "Friend,  I
+am  l)arrraukha  tile  pacceka."  "  Sir,  do  you  know  our  king?"  "Yes,  he
+was  my  friend  in  my  layman  days."  "Sir,  the  king  longs  to  see  you,  I
+will  tell  hinj  of  your  coming."  "Go  and  do  so."  He  went  and  told  the
+king  that  Darlmukha  was  come  and  sitting  on  the  stone-seat.  The  king
+said,  "So  my  friend  is  come,  I  shall  .see  him":  so  he  mounted  his  car  an<l
+with  a  great  ictiiiue  went  to  the  garden  and  saluting  the  paccekaltwddliii
+with  kindly  greeting  he  sat  on  one  side.  Th»^  paccekahuddha  said,
+"  Brahmadatta,  do  you  rule  your  kingdom  with  righteou.snes.s,  never  follow
+evil  cour.ses  or  oppress  the  people  for  money,  and  d«j  goo<l  deeds  with
+charity?"  [-^1]  and  after  kindly  greeting,  "Brahmadatta,  you  are  old,
+it  is  time  for  you  to  renounce  pleasui-es,  and  he  ordained,"  so  he  preached
+the  law  and  sj)oke  the  first  stan/.a  :
+
+Plea.surcs  of  son.sc  are  l»ut  nioras-s  and  mii-e  :
+
+The  'triply-roototl   terror'  tluin   1   call.
+VaiwHir  and  ilust   I   have  prinlaimed  them,  Sire  :
+
+Become  a  Brother  ami  forsjike  ti>em  all.
+
+[242]  Hearing  this,  the  king  explaining  that  lie  was  hound  i»y  desires
+spoke  the  second  stanz;i :
+
+Infatuate,  bound  and  deeply  stained  am  1,
+
+Brahmin,  witli  plca.surcM  :    fearful   they  may  be,
+
+But  I  love  life,  and  cannot  tliem  deny  :
+Good  works  1  undertake  continually.
+
+[243]  Then  Darlmukha  though  the  Bodhisatta  .said,  "  T  cannot  be
+ordained,"  did  not  reject  him  and  e.\horted  liim  yet  again  :
+
+lie  who  rejects  the  counsel  of  his  friend,
+Who  pitie-s  him,  and  would  avert  his  doom,
+
+Tliinking  ''this  world  is  iHJtter,"  tinds  no  end,
+Foolish,  of  long  rebirths  within  the  womb.
+
+That  fearful  place  of  punishment  is  hi.s.
+
+Full  of  all  tilth,  held  evil  hy  the  good  :
+The  greedy  their  desires  can  ne'er  dismiss,
+
+The  flesh  imprisons  all  the  canial  brood.
+
+[244]  So  Darlmukha  the  paccekabuddha  showing  the  misery  rising  from
+conception  and  quickening,  to  show  next  the  misery  of  birth  spoke  a  stanza
+and  a  half :
+
+Covered  with  blood  and  with  gross  foulness  stained,
+
+All  mortal  beings  issue  from  the  birth  :
+Whate'er  they  touch  therejifter  is  ordained
+
+To  bring  them  pain  and  sorrow  on  the  earth.
+
+I  speak  what  I  have  seen,  not  what  I  hear
+From  others  :    I  remember  times  of  old.
+
+
+No.  378.  159
+
+[245]  Now  the  Master  in  his  Perfect  Wisdom  said,  "  So  the  pacceka-
+buddha  helped  the  king  with  good  words,"  and  at  the  end  spoke  the
+remaining  half-stanza  :
+
+Darlmukha  did  to  Sumedha's^  ear
+
+Wisdom  in  many  a  stanza  sweet  luifold.
+
+The  paccekabuddha,  showing  the  misery  of  desires,  making  his  words
+understood,  said,  "  O  king,  be  ordained  or  not,  but  anyhow  I  have  told  the
+wretchedness  of  desires  and  the  blessings  of  ordination,  be  thou  zealous,"
+and  so  like  a  golden  royal  goose  he  rose  in  the  air,  and  treading  on  clouds
+he  reached  the  Nandamulaka  cave.  The  Great  Being  made  on  his  head
+the  salutations  resplendent  with  the  ten  finger-nails  put  together  and
+bowing  down  stood  till  [24G]  Darimukha  piissed  out  of  sight :  then  he  sent
+for  his  eldest  son  and  gave  him  the  kingdom  :  and  leaving  desires,  while  a
+great  multitude  w;is  weeping  and  lamenting,  he  went  to  the  Himalaya
+and  building  a  hut  of  leaves  he  was  ordained  as  an  ascetic  :  then  in  no
+Ion"  time  he  •'ained  the  Faculties  and  Attainments  and  at  his  life's  end
+he  went  to  Brahma's  heaven.
+
+
+The  lesson  ended,  the  Master  declared  the  truths :  then  many  attained  the
+Fiixt  Path  and  the  rest : — and  he  identified  the  Birth  :  "  At  that  time  the  king
+was  my  .self."
+
+
+No.  379.
+
+
+NERU-JATAKA.
+
+" Ravens  and  crows,"  etc. — The  Ma-ster  told  this  tale  in  .Jetavana  concerning
+a  certain  Bruther.  The  story  is  tliat  he  got  the  forms  of  meditation  from  the
+Ma.ster  and  then  went  to  a  frontier  villaije.  There  the  ixjople,  plea.sed  with  his
+deportment,  fed  him,  built  him  a  hut  in  the  wofxi,  and  exacting  a  prumi.se,
+nuide  him  live  there,  and  gave  him  grcixt  honoiu-.  But  they  fors(Xjk  him  for  the
+teachers  of  the  i)ermanence  of  matter,  afterwards  forsaking  those  for  the  .sect
+who  deny  immortality,  and  those  again  for  the  .sect  of  naked  a-scetics :  for
+teachei-s  of  all  these  sects  came  among  them  in  turn.     So   he  was   unhappy
+
+'  If  Samedha  is  a  proper  name,  this  must  be  taken  from  another  .story:  but  it  may
+mean  merely  '  wise.'
+
+
+160  The  Jataka.     Book   VI.
+
+aiaung  those  people  who  knew  not  good  and  evil,  and  after  the  rains  and  the
+pavaranfi'  he  wt-iit  Kaek  to  tlie  Master,  and  at  liis  request  told  him  where  he  hud
+stayed  during  the  rains  and  that  he  had  l)een  uidiaj>i)y  among  i^-ople  who  know
+not  good  and  evil.  The  Miuster  said,  "Siiges  of  old,  even  when  born  as  Uyists,
+stayed  not  a  day  among  those  who  knew  not  good  and  evil,  why  have  you  done
+80  V"  and  so  ho  told  the  tale.
+
+
+Once  ui)on  a  time  when  Brahmadattii  was  king  in  Benares,  the
+Bodhisatta  was  born  as  a  golden  goose.  Along  with  his  younger  brother
+[217]  he  lived  on  the  hill  Cittiikuta  and  fed  on  wild  paddy  in  the  Himalaya.
+One  day  in  their  flight  back  to  Cittakuta  they  saw  the  golden  mountain
+Neru  and  settled  on  its  summit.  Around  the  mountain  dwell  birds  and
+beasts  of  various  kinds  for  feeding  ground :  from  the  time  of  their  coming
+to  the  mountain  onwards  they  became  golden  of  hue  from  its  lustre.  The
+Bodhisatta's  brother  sjiw  this,  but  being  ignorant  of  the  cause  said,  "Now
+what  is  the  cause  herel"  and  so  talking  to  his  brother  he  spoke  two
+stanzas  :
+
+Ravens  and  crows,  and  we  the  l>est  of  birds,
+When  on  this  uiountjiin,  all  apiHjar  the  .same.
+
+Mean  jackals  rival  tigers  and  their  lortls,
+The  lions :    what  can   be  the  mountain's  name  /
+
+The  Bodhisattii  hearing  this  spoke  the  third  stanza:
+
+Noblest  of  Mountain.s,  Neru  is  it  hight,
+All  animals  fwe  here  made  fair  to  sight.
+
+The  younger  one  hearing  this  spoke  the  renuiining  three  stanzas:
+
+Where'er  the  g0(Kl  find  honour  small  or  none.
+Or  less  than  othei-s,  live  not,  but  begone.
+
+Dull  and  clever,  brave  and  coward,  all  are  honourefl  equally :
+Undiscriminating  Moiuitain,  good  men  will  not  stay  on  thee !
+
+[248]      Best,  indifterent  and  meanest  Neru  d<x^s  not  separate,
+
+Undiscriminating  Neru,  we  alas !    must  leave  thee  straight.
+
+With  this  they  both  flew  up  and  went  to  Cittakuta.
+
+
+After  the  lesson,  tlie  Master  proclaimed  the  Truths  and  identified  the  Birth  :
+at  the  close  of  the  Truths,  that  Brother  was  established  in  the  fruition  of  the
+First  Path :  "  At  that  time  the  younger  goose  was  Anauda,  the  elder  was
+myself."
+
+^  The  festival  at  the  end  of  the  rains.
+
+
+No.   380.  161
+
+No.   380.
+
+
+ASANKA-JATAKA.
+
+"/«  heavenli/  garden"  etc. — Tlie  M;i.ster  told  this  talc  while  dwelling  at
+Jetavana,  concerning  the  teini»tation  of  a  Brother  by  his  former  wife.  The
+occiision  will  appear  in  the  Indriya'  Birth.  The  Master  found  that  the  brother
+wa.s  backsliding  owing  to  thoughts  of  his  wife,  .so  he  said,  "Sir,  this  woman
+does  you  harm :  formerly  also  for  her  .sake  you  .sacriHced  an  army  of  the  four
+divi.sions  and  dwelt  in  the  Himalaya  three  years  in  much  misery":  .so  he  told  an
+old  tale.
+
+
+Once  upou  a  time  when  Brahmadutta  was  king  in  Benares,  the
+Bodhisatta  was  born  in  a  brahmin  family  at  a  village  of  that  country.
+When  h<!  grow  u|),  he  learned  the  arts  [-4'J]  at  Takkasila,  became  an
+ascetic  and  reaching  tlie  Faculties  and  Attainments  lived  on  roots  and
+fruits  in  the  Hiniahiya.  At  tliat  time  a  being  of  perfect  merit  fell  from
+the  Heaven  of  the  Thirty-tliree  and  was  conceived  as  a  girl  inside  a  lotus
+in  a  pool:  and  when  the  other  lotuses  grew  old  and  fell,  that  one  grew
+great  and  stood.  The  ascetic  coming  to  bathe  saw  it  and  thought,  "  The
+other  lotu.ses  fall,  V)ut  this  one  is  grown  great  and  stands;  why  is  this?"
+So  he  put  on  his  bathing-dress  and  crossed  to  it,  then  oj)ening  the  lotus
+he  .saw  tiie  girl.  Feeling  towards  her  as  to  a  daughter  he  took  her  to
+his  hut  and  tended  her.  When  she  came  to  sixteen  years,  .she  was
+beautiful,  and  in  her  beauty  excelled  the  hue  of  man,  l)ut  attained  not
+the  hue  of  gods.  Sakka  came  to  wait  on  the  Bodhisatta.  He  saw  th(!
+maiden,  asked  and  was  told  the  way  in  which  she  was  found,  and  then
+asked,  "What  ought  she  to  receive?"  "A  dwelling-j)lace  and  supply  of
+raiment,  ornament  and  food,  O  sir."  He  answered,  "Very  well,  lord,"
+and  created  a  crystal  palace  for  her  dwelling,  made  for  her  a  bed,  raiment
+and  ornament,  food  and  drink  divine.  The  palace  descended  and  rested
+on  the  ground  when  she  was  going  up ;  when  she  had  gone  up  it  ascended
+and  stayed  in  the  air.  She  did  various  services  to  the  Bodhi-satta  as
+she  lived  in  the  palace.  A  forester  saw  this  and  asked,  "What  is  this
+person  to  you,  lord]"  "My  daughter."  So  he  went  to  Benares  and  told
+the  king,  "O  king,  I  have  seen  in  the  Himalaya  a  certain  ascetic's  daughter
+of  such  beauty."  The  king  was  caught  by  hearing  this,  and  making  the
+forester  his  guide  he  went  with  an  army  of  the  four  divisions  to  that  place,
+and  pitching  a  camp  he  took  the  forester  and  his  retinue  of  ministers
+and  entered  the  hermitage.  [250]  He  saluted  the  Bodhi.satta  and  said,
+"Lord,  women  are  a  stain  to  the  religious  life;  I  will  tend  your  daughter."
+
+•  No.  42.3,  infrn.
+J.    III.  il
+
+
+162  The  Jataka.     Book   VI.
+
+Now  the  Bodhisatta  had  given  the  maiden  the  name  Asanka  because  she
+was  lirought  to  him  by  his  crossing  the  water  owing  to  his  doubt  (fisankfi),
+"What  is  in  this  lotus?"  He  did  not  say  to  tlio  king  directly,  "Take  her
+and  go,"  but  said,  "If  you  know  this  maiden's  name,  O  great  king,  take  her
+and  go."  "Lord,  if  you  tell  it,  I  shall  know."  "I  shall  not  tell  it,  but
+when  you  know  it  tsike  her  and  depart."  The  king  agree<l,  and  thence-
+forth considered  along  with  his  ministers,  "What  may  be  her  name?"  He
+put  forward  all  names  hard  to  guess  and  talked  with  the  Bodhi.SiittA,  saying,
+"Such  and  such  will  be  her  name":  but  the  liodhisatta  .said  nay  and
+refused  hinu  So  a  year  passed  while  the  king  was  considering.  Lions
+and  other  beasts  seized  his  elephants  and  horses  and  men,  there  wius  danger
+from  snakes,  danger  from  tlies,  and  many  died  worn  out  with  cohl.  The
+king  said  to  the  BodhLsatta,  "  What  need  have  I  of  her?"  and  took  his  way.
+The  maiden  A.sai'ika  stood  at  an  open  crystal  window.  The  king  .seeing
+her  said,  "We  cannot  find  your  name,  live  here  in  the  Ilinmlaya,  we  will
+depart,"  "  Great  king,  if  you  go  you  will  never  find  a  wife  like  me.  In
+the  Heaven  of  the  Thirty-three,  in  the  Cittalata  garden,  there  is  a  creeper
+named  AsavatT :  in  its  fruit  a  divine  drink  is  born,  and  they  wlio  driiik  of
+it  once  are  intoxicated  for  four  months  and  lie  on  a  <livine  couch  :  it  bears
+fruit  once  in  a  thousand  years  and  the  sous  of  the  gods,  though  given  to
+strong  drink,  [20 1]  l)ear  with  their  thirst  for  that  divine  drink  .saying,
+"We  shall  reap  fruit  from  this,"  and  come  constantly  throughout  the
+thousand  yeai-s  to  watch  the  plant  saying,  "Is  it  well?"  But  you  grow
+discontented  in  one  year:  he  who  wins  the  fruit  of  his  hope  is  happy,  be
+not  discontented  yet,"  and  so  she  spoke  three  stanzas :
+
+In  heavenly  garden  grows  AsavatI ;
+Once  in  a  thou.siV!id  years,  no  more,  the  tree
+Boars  fruit :    for  it  the  gtxis  wait  i)atiently.
+Hope  on,  0  king,  the  fruit  of  hope  is  sweet  :
+A  bird  hoped  on  and  never  own'd  defeat.
+His  wish,  though  far  away,  he  won  complete :
+Hoixj  on,  0  king  :    the  fruit  of  hope  is  sweet.
+
+The  king  was  caught  by  her  words :  he  gathered  his  ministers  again
+and  guessed  at  the  name,  making  ten  guesses  each  time  till  another  year
+was  past.  But  her  name  was  not  among  the  ten,  and  so  the  Bodhisatta
+refused  him.  Again  the  king  said,  "What  need  have  I  of  her?"  and  took
+his  way.  She  showed  herself  at  the  window  :  and  the  king  said,  "  You
+stay,  we  will  depart."  [252]  "Why  depart,  great  king?"  "I  cannot  find
+your  name."  "  Great  king,  why  can  you  not  find  it  ?  Hope  is  not  without
+success ;  a  crane  staying  on  a  hill-top  won  his  wish  :  why  can  you  not
+win  it  1  Endure,  great  king.  A  crane  had  its  feeding-gi'ound  in  a  lotus-pool,
+but  flying  up  lit  on  a  hill-top  :  he  stayed  there  that  day  and  next  day
+thought,  *  I  am  happily  settled  on  this  hill-top  :  if  without  going  down  I
+stay  here  finding  food  and  drinking  water  and  so  dwell  this  day.  Oh  it
+
+
+No.  380.  163
+
+would  be  delightful.'  That  very  day  Sakka,  King  of  lieaveu,  had  crushed
+the  Asuras  and  being  now  lord  in  the  heaven  of  the  Thirty-three  was
+thinking,  '  My  wishes  have  come  to  the  pitch  of  fultilment,  is  there  any
+one  in  the  forest  whose  wishes  are  unfulfilled?'  80  considering,  he  saw
+that  crane  and  thought,  '  I  will  bring  this  bird's  wishes  to  the  pitch  of
+fulfilment ' :  not  far  from  the  crane's  place  of  perch  there  is  a  stream,  and
+Sakka  sent  the  stream  in  full  Hood  to  the  hill-top  :  so  the  crane  without
+moving  ate  fish  and  drank  water  and  dwelt  there  that  day  :  then  the
+water  fell  and  went  away  :  so,  great  king,  the  crane  won  fruition  of  that
+hope  of  his,  and  why  will  you  not  win  it?  Hope  on,"  she  said,  with  the
+rest  of  the  verse.  The  king,  hearing  her  tale,  was  caught  by  her  beauty
+and  attracted  by  her  words:  he  could  not  go  away,  but  gathering  his
+ministtn-s,  and  getting  a  hundred  names  [253]  .spent  another  year  in
+truessinir  with  these  hundred  names.  At  the  end  of  three  years  he  came
+to  the  Bodhisatta  and  a.sked,  "Will  tliat  name  be  among  the  hundred,
+lord?"  "  You  do  not  know  it,  great  king."  He  saluted  the  Bodhisatta,
+and  saying,  "  We  will  go  now,"  he  took  his  way.  The  maiden  Asauka
+again  stood  by  a  crystal  window.  The  king  saw  her  and  said,  "You
+stay,  we  will  depart."  "Why,  great  king?"  "You  satisfy  me  with
+words,  but  not  with  love  :  caught  by  your  sweet  words  I  have  spent  here
+three  years,  now  I  will  depart,"  and  he  uttered  these  stanzas :
+
+You  plea.se  me  but  with  words  and  not  in  deed :
+
+The  scentless  flower,  though  fair,  is  but  a  weed.
+
+Promise  fair  without  i)erformance  on  his  friends  one  throws  away,
+
+Never  giving,  ever  hoarding  :  such  is  friendsliip's  sure  decay.
+
+Men  should  si)cak  when  they  will  act,  not  promise  what  they  cannot  do:
+
+If  they  iii\k  without  performnig,  wise  men  .see  them  through  and  through.
+
+My  troops  are  wasted,  all  my  stores  are  spent,
+
+I  doubt  my  life  is  .spoilt:   'tis  time  I  went.
+
+[254]  The  maiden  Asanka  hearing  the  king's  words  said,  "  Great  king,
+you  know  my  name,  you  have  ju.st  said  it;  tell  my  father  my  name,  take
+me  and  go,"  so  talking  with  the  king,  she  said  :
+
+Prince,  you  have  said  the  word  that  is  my  name :
+Come,  king  :    my  father  will  allow  the  cl.iim.
+
+The  king  went  to  the  Bodhisatta,  .saluted  and  said,  "Lord,  your
+daughter  is  named  Asanka."  "  From  the  time  you  know  her  name,  take
+her  and  go,  great  king."  He  saluted  the  Bodhisatta,  and  coming  to  tht;
+crystal  palace  he  said,  "Lady,  your  father  has  given  you  to  me,  come  now."
+"Come,  great  king,  I  will  get  my  father's  leave,"  she  said,  and  coming
+down  from  the  palace  she  saluted  the  Bodhisatta,  got  his  consent  and
+came  to  the  king.  The  king  took  her  to  Benares  and  lived  happily  with
+her,  increa.sed  with  .sons  and  daiigliters.  The  Bodhisatta  continued  in
+unbroken  meditation  and  was  Ijorn  in  the  Brahma  world.
+
+112
+
+
+164  The    Jataka.     Book   VI.
+
+After  the  lesson,  the  Master  declared  the  Tnith.s  and  identitied  the  I'irth : —
+After  the  Truths,  the  Brother  wjis  cstihliHhcd  in  the  Fniition  of  the  First
+Path : — "Asankfi  was  the  former  wife,  the  king  was  tho  discontented  Brother,
+the  ascetic  was  myself."
+
+
+No.  381.
+
+
+MIG  ALOPA-J  ATAK  A '
+
+
+[■2!'>!'y]  "  Vour  inn/s,  mi/  mn"  etc. — The  Master  told  this  tilo  in  .Tetivana,  of  an
+unruly  Brother.  'I he  Ma.ster  jusked  the  Brother,  "Are  you  really  luunily/"  Ho
+.said,  "Ve.s,  lord":  and  the  Master  s^iying,  "Von  are  not  unruly  for  the  first
+time;  formerly  too  through  \uirulinc.s.s  you  di<l  not  the  hidding  of  tho  wise  and
+met  your  death  by  tlie  Veramhha-  winds,"  told  an  old-world  Uile.
+
+
+Once  upon  a  time  when  Brahmadatta  wa.s  king  in  Hcnarcs,  the  Bodlii-
+satta  was  born  as  a  vulture  by  name  Aparannagijjha,  and  dwelt  among
+a  retinue  of  vultures  in  Gijjhapabbata  (Vulture  Mountain).  His  son,
+Migalopa  by  name,  was  exceedingly  strong  and  mighty ;  he  flew  high
+above  the  reach  of  the  other  vultures.  They  told  their  king  that  his
+son  Hew  very  far.  He  called  Migalopa,  and  saying,  "  Son,  they  say  you
+fly  too  high:  if  you  do,  you  will  bring  death  on  yourself,"  spoke  three
+stanzas :
+
+Your  ways,  my  son,  to  me  unsafe  appear.
+You  soar  too  high,  above  our  proper  sphere.
+
+When  earth  is  but  a  square  field  to  your  sight,
+Tm-n  back,  my  son,  and  dare  no  higher  flight.
+
+Other  birds  on  soaring  pinions  lofty  flight  e'er  now  have  tried.
+Struck  by  furious  wind  and  tempest  they  have  perished  in  their  pride.
+
+[256]  Migalopa  through  disobedience  did  not  do  his  father's  bidding,
+but  rising  and  rising  he  passed  the  limit  his  father  told  him,  clove  even
+the  Black  Winds  when  he  met  them,  and  flew  upwards  till  he  met  the
+Verambha  winds  in  the  face.  They  struck  him,  and  at  their  mere  stroke
+he  fell  into  pieces  and  disappeared  in  the  aii\
+
+1  Cf.  no.  427  infra.
+
+-  A  \\\r\(\  so  called  from  a  sea  of  the  .'^anie  name,  see  Divydvadana,  p.  10.5.
+
+
+No.  381.  165
+
+
+His  aged  father's  wise  commands  disdained,
+Beyond  the  Black,  Verambha  Winds  he  gained.
+
+His  wife,  his  children,  all  his  household  herd,
+All  came  to  ruin  through  that  froward  bird.
+
+So  they  who  heed  not  what  their  elders  say,
+Like  this  proud  vulture  beyond  bounds  astray.
+Meet  ruin,  when  right  rules  they  disobey.
+
+
+After  the  l&sson  the  Miistcr  identified  the  Birth:  "At  that  time  Migalopa
+waa  the  unruly  Brother,  Aparanna  was  myself."
+
+
+No.  382.
+
+SI  K I K  A  L  A  K.\  N  N I  -J  ATA  K  A.
+
+[li.jT]  "  i\7io  is  this"  etc. —  The  Ma.ster  told  this  tile  in  Jetavana  concerning
+Anatiiapiiidika.  From  the  time  when  he  wivs  estiiblished  in  tlie  fruition  of  the
+Fii-st  I'atii  he  kept  all  the  five  fiixt  commandments  unbroken  ;  so  also  did  his
+wife,  his  sons  and  daughters,  his  hiitnl  servants  and  his  workiK^ople.  One  day
+in  the  Hall  of  Truth  they  began  U>  discuss  whetlier  Anathapindika  was  pure
+in  his  walk  and  his  household  also.  The  Miuster  came  and  was  told  their
+subject:  so  he  .said,  "Brethren,  the  wi.se  men  of  old  had  pure  hoiLsehold.s,"  and
+told  an  oUl  tile.
+
+
+Once  upon  a  time  when  Brahmadatta  was  king  in  Benares,  the  Bodhi-
+satta  was  a  merchant,  giving  gifts,  keeping  the  commands,  and  performing
+the  fast  day  duties :  and  so  his  wife  kept  the  five  commands,  and  so  also
+did  his  sons,  his  daughters  and  his  servants  and  workpeople.  So  he  was
+called  the  mercliant  Suciparivara  (pure  household).  He  thought,  "If  one
+of  purer  moi-als  than  I  should  come,  it  would  not  be  proper  to  give  him
+my  couch  to  sit  on  or  my  bed  to  lie  on,  but  to  give  him  one  pure  and
+unused":  so  ho  had  an  unused  couch  and  bed  prepared  on  one  side  in
+his  presence-chamber.  At  that  time  in  the  Heaven  of  the  Four  Kings*
+Kalakanni,  daughter  of  Virupakkha,  and  Sirl,  daughter  of  Dhatarattha,
+both  together  took  many  perfumes  and  garlands  and  went  on  the  lake
+Anotatta   to    play  there.     Now  on  that  lake  there  are   many  bathing-
+
+1  These  are  Dhatarattha,  King  of  the  North,  Viriilha  of  the  South,  Virupakkha  of
+the  West,  and  Vessavana  of  the  East.
+
+
+166  The  JatakcL     Book   VI.
+
+places :  the  Buddhas  bathe  at  their  own  place,  the  paccekabuddhas  at
+theirs,  [258]  the  Brethren  at  theirs,  the  ascetics  at  theirs,  the  gods  of  the
+six  Kfima-heavens'  at  theirs,  and  the  goddesses  at  theirs.  These  two
+came  thither  and  began  to  quarrel  as  to  which  of  them  should  bathe  first.
+KrilakaiiuT  said,  "I  rule  the  world:  it  is  proper  that  I  bathe  first."
+8irl  said,  "I  jjreside  over  the  coui"se  of  conduct  that  gives  lordship  to
+mankind:  it  is  proper  that  I  bathe  first."  Then  both  said,  "The  Four
+Kings  will  know  which  of  us  ought  to  bathe  tii-st " :  so  they  went  to  them
+and  asked  which  of  the  two  was  worthy  to  bathe  first  in  Anotatta.
+Dhatarattha  and  Virupakkha  said,  "We  cannot  decide,"  and  laid  the
+duty  on  Virfilha  and  Vessavana.  They  too  said,  "  We  cannot  decide,
+we  will  send  it  to  our  Lord's  feet":  so  they  sent  it  to  Sakka.  He  heard
+their  tale  and  thought,  "Those  two  are  the  daughters  of  my  vassals;  1
+cannot  decide  this  case":  so  he  said  to  them,  "There  is  in  Benares  a
+merchant  called  Suciparivara ;  in  his  house  are  prepared  an  unused
+couch  and  bed  :  she  who  can  first  sit  or  lie  there  is  the  proper  one
+to  bathe  first."  KalakaiiuT  hearing  this  on  the  instant  put  on  blue'
+raiment  and  used  blue  ointment  and  decked  hei-self  with  blue  jewels  :
+she  descended  from  the  heaven  as  on  a  stone  from  a  catapult,  and  just
+after  the  mid-watch  of  night  she  stood  in  the  air,  diffusing  a  blue  light,
+not  far  from  the  merchant  who  was  lying  on  a  couch  in  the  presence-
+chamber  of  his  mansion.  The  mei-chant  [2r)9]  looked  and  saw  her:  but  to
+his  eyes  she  was  ungracious  and  unlovely.  Talking  to  her  he  sjjoke  the
+first  stanza :
+
+Who  is  this  so  dark  of  hue,
+
+So  unlovely  to  the  view  ?
+
+Who  are  you,  whose  daughter,  siiy,
+
+How  are  we  to  know  you,  pray  ?
+
+Hearing  him,  KalakannI  spoke  the  second  stanza  :
+
+The  great  king  Virupakkha  i.s  my  sire:
+
+I  am  Misfortune,  Killakanni  dire  :
+
+Give  me  the  hoiuse-room  near  you  I  desire.
+
+Then  the  Bodhisatta  spoke  the  third  stanza:
+
+What  the  conduct,  what  the  ways.
+
+Of  the  men  with  whom  you  dwell  ?
+This  is  what  my  question  prays  :
+
+We  will  mark  the  answer  well.
+
+Then  she,  explaining  her  own  qualities,  spoke  the  fourth  stanza  :
+
+The  hypocrite,  the  wanton,  the  morose,
+The  man  of  envy,  greed  and  treachery :
+
+Such  are  the  friends  I  love  :  and  I  dispose
+Their  gains  that  they  may  perish  utterly.
+
+1  Of  which  the  Heaven  of  the  Four  Kings  is  the  first.
+-  Blue  is  the  unlucky  colour.
+
+
+No.   382.  167
+
+[260]  She  spoke  also  the  lifth,  sixth,  and  seventh  stanzas :
+
+And  dearer  still  are  ire  and  hate  to  me,
+Slander  and  strife,  libel  and  cruelty.
+
+The  shiftless  wight  who  knows  not  his  own  good,
+Eesenting  counsel,  to  his  betters  rude  :
+
+The  man  whom  folly  drives,  whom  friends  despise,
+He  is  my  friend,  in  him  my  pleasure  lies.
+
+[261]  Then  the  Great  Being,  blaming  her,  spoke  tlie  eighth  stanza :
+
+Kali,  depart :    there's  naught  to  plea.se  you  here  :
+To  other  lands  and  cities  disappear.
+
+Kalakanni,  hearing  him,  was  sorrowful  and  spoke  another  stanza  :
+
+I  know  you  well  :   there's  naught  to  please  me  here.
+Others  are  luckless,  who  ama.ss  much  gear  ;
+My  brotht-r-god  and  I  will  make  it  di.sapiKjar.
+
+When  she  had  gone,  Siri  the  goddess,  coining  with  raiment  and  oint-
+ment of  golden  hue  and  ornament  of  golden  brightne.ss  to  the  door  of  the
+presence-chamber,  diffusmg  yellow  light,  rested  with  even  feet  on  level
+ground  and  stood  respectful.  The  Bodhisatta  seeing  her  repeated  the  first
+stanza  :
+
+Who  is  this,  divine  of  hue,
+On  the  gi'ound  so  firm  and  true  {
+Who  are  you,  whose  daughter,  say.
+How  are  we  to  know  you,  pray  ?
+
+[262]  SirT,  hearing  him,  spoke  the  second  stanza  :
+
+The  great  king  Dhatarattha  is  my  sire :
+
+Fortune  and  Luck  am  I,  and  Wisdom  men  admire  :
+
+Grant  me  the  house-room  with  you  I  desire.
+
+
+Then
+
+
+What  the  conduct,  what  the  ways
+
+Of  the  men  with  whom  you  dwell  ?
+This  is  what  my  question  prays ;
+
+We  will  mark  your  answer  well.
+
+He  who  in  cold  and  heat,  in  wind  and  sun,
+Mid  thirst  and  hunger,  snake  and  poison-fly.
+
+His  present  duty  night  and  day  hath  done  ;
+With  him  I  dwell  and  love  him  faithfully.
+
+Gentle  and  friendly,  righteous,  liberal.
+
+Guileless  and  honest,  upright,  winning,  bland.
+
+Meek  in  high  place :    I  tinge  his  fortunes  all,
+
+Like  waves  their  hue  through  ocean  that  expand  i.
+
+
+^  Perhaps  varinam  is  really  for  the  Sanskrit  vrmhan  increasing.
+
+
+168  The  Jdtaka.     Book    VI.
+
+To  friend  or  imfrieiul,  better,  like  or  vvor.sc,
+
+IIeli>er  or  foe,  hy  dark  or  oi>en  day.
+Whoso  is  kind,  [203]  without  harsh  word  or  ciirHC,
+
+I  am  his  friend,  Uving  or  dead,  alway.
+
+But  if  a  f(jol  have  won  some  love  from  me,
+
+And  waxe-s  proud  and  vain.
+His  froward  patli  of  waiitoiuiuss  I  flee,
+
+Like  filthy  stain.
+
+Each  man's  fortune  and  misfortune  arc  his  own  work,  not  another's  :
+Neither  fortune  nor  misfortune  can  a  man  make  for  his  brothers.
+
+Such  was  Sirl's  answer  when  questioned  by  the  mercliant.
+
+[2G4]  The  Bodhisatta  rejoiced  at  Sirl's  words,  and  .said,  "Here  is  the
+pure  seat  and  bed,  proper  for  you  ;  sit  and  lie  down  there."  She  stayed
+there  atul  in  tin-  ni«>riiiiig  departed  to  the  Heaven  of  the  Four  Great
+Kings  and  bathed  first  in  lake  Anotatta.  The  bed  u.sed  by  Sirl  was  called
+Sirisaya :  hence  is  tlie  origin  of  8iri.sayana,  and  for  this  reason  it  is  so
+called  to  this  day.
+
+
+After  the  lesson  tiic  Master  identities!  tlie  Birth  :  "At  that  time  the  goddess
+Sirl  was  l'i)palavaniiri,  the  moreliant  Sucipirivara  was  my.sclf."
+
+
+No.   383'.
+
+
+KUKKUTA-JATAKA.
+
+
+[265]  "  Bird  with  wings,"  etc. — The  Master  told  this  tale  in  Jetavana,  con-
+cerning a  Brother  who  longed  for  the  world.  The  Master  asked  him,  "  Why  do
+you  long  for  tlie  world  i"  "Lord,  through  passion,  for  I  saw  a  woman  adorned."
+"  Brother,  women  are  like  cats,  deceiving  and  cajoling  to  bring  to  ruin  one  who
+has  come  into  their  power,"  so  he  told  an  old  tale.
+
+
+Once  upon  a  time  when  Brahmadatta  was  king  in  Benares,  the
+Bodhisatta  was  born  as  a  cock  and  lived  in  the  forest  with  a  retinue  of
+many   hundred  cocks.      Not  far   away  lived  a  she-cat :  and  she  deceived
+
+'  See  Morris  in  Folk-lore  Journal,  ii.  p.  332 :  and  the  illustration  facing  the  title-page.
+
+
+No.   383.  169
+
+by  devices  the  other  cocks  except  the  Bodhisatta  and  ate  them  :  but  the
+Bodhisatta  did  not  fall  into  her  power.  She  thought,  "  This  cock  is  very-
+crafty,  but  he  knows  not  that  I  am  crafty  and  skilful  in  device  :  it  is
+good  that  I  cajole  him,  saying,  '  I  will  be  your  wife,'  and  so  eat  him  when
+he  comes  into  my  power."  She  went  to  the  root  of  the  tree  where  he
+perched,  and  praying  him  in  a  speech  preceded  by  praise  of  his  beauty,  she
+spoke  the  first  stanza  :
+
+Bird  with  wings  that  fltwh  so  gaily,  crest  that  droops  so  gracefully,
+I  will  Ijc  yoiu"  wife  for  ncjthing,  leave  the  bough  and  come  to  me.
+
+The  Bodhisatta  hearing  her  thought,  "  She  has  eaten  all  my  relatives ;
+now  she  wishes  to  cajole  me  and  eat  me:  I  will  get  rid  of  lier."  So  he
+spoke  the  second  stanza  :
+
+Lady  fair  and  winning,  you  have  four  feet,  I  have  only  two  :
+Bea-sts  and  birds  should  never  marry :   for  some  other  husband  sue.
+
+[266]  Then  she  thought,  "He  is  exceedingly  crafty;  by  some  device
+or  other  I  will  deceive  him  and  eat  him  ";  so  .she  spoke  the  third  stanza:
+
+I  will  bring  thee  youth  and  beauty,  ple;i.sant  speech  and  courtesy  :
+Honoured  wife  or  siuiple  slave-girl,  at  thy  [)lcasure  deal  with  me.
+
+Then  the  Bodhisatta  thought,  "  It  is  best  to  revile  her  and  drive  her
+away,"  so  he  spoke  the  fourth  stanza  :
+
+Tliou  hast  drunk  my  kindred's  blixnl,  and  ri>l>})cd  and  slain  them  cruelly  :
+"  Honoured  wife"  I  there  is  no  honour  in  your  heart  when  wooing  me.
+
+She  was  driven  away  and  did  not  endure  to  look  at  him  again.
+
+So  when  they  see  a  hero,  women  sly,
+(Compare  the  cat  and  cock,)  to  tempt  him  tiy.
+
+He  that  to  great  occasion  fails  to  rise
+'Neath  foeman's  feet  in  sorrow  prostrate  lies.
+
+[267]     One  prompt  a  crisis  in  his  fate  to  see,
+As  cock  from  cat,  e.scai>es  his  enemy.
+
+These  are  stanzas  inspired  by  Perfect  Wisdom.
+
+
+His  leason  ended,  the  Ma.ster  declared  the  Truths  and  identified  the  Birth : —
+after  the  Truths,  the  backsliding  Brother  wa.s  established  in  the  fruition  of
+the  Fii-st  Path : — "At  that  time  the  cock  wa.s  myself"
+
+
+170  The  Jataka.     Book  VI.
+
+
+No.  384\
+
+
+nUA.M.MADDHAJA-JATAKA.
+
+"ri'(Kti.ie  virtue,"  e^;.  — Tho  M.ustor  told  this  tiilo  while  ilwelliiig  in  Jotiivaim,
+of  a  deceitful  Brother.  He  }«iid,  "  Brethren,  this  man  is  not  deceitful  now  for
+the  first  time"  :  so  he  told  an  old-world  tale.
+
+
+Once  upon  a  time  when  Bnihniadatta  was  king  in  Benares,  the  Hodhi-
+satta  was  born  as  a  hird  :  wlien  he  grew  up  he  lived  amidst  a  retinun  of
+birds  on  an  island  in  the  middle  of  the  sea.  Certain  merchants  of  Kfisi
+got  a  ti"a veiled  crow  and  started  on  a  voyage  by  sea.  In  the  midst  of  the
+sea  the  ship  was  wrecked.  The  crow  reached  that  island  and  thought,
+"Here  is  a  great  tlock  of  birds,  it  is  good  that  I  use  deceit  on  them  and  eat
+their  eggs  and  young":  so  he  descended  in  their  midst  and  opening  his
+mouth  stood  with  one  foot  on  the  ground.  "Who  are  you,  master?"  they
+asked.  "I  am  a  holy  person."  "Why  do  you  stand  on  one  footl"  "If
+I  put  down  the  other  one,  [268]  the  earth  could  not  bear  me."  "Then
+why  do  you  stand  with  your  mouth  open?"  "We  cat  no  other  food,  we
+only  drink  the  wind;"  and  with  this  he  called  these  birds  and  saying,  "I
+will  give  you  a  sermon,  you  listen,"  he  spoke  the  first  stanzix  by  way
+of  a  sermon  :
+
+Practise  virtue,  brethren,  bless  you !  practise  virtue,  I  reiKjat :
+Here  and  after  virtuous  people  have  their  happiness  complete.
+
+The  birds,  not  knowing  that  he  said  this  with  deceit  to  eat  their  eggs,
+praised  him  and  spoke  the  second  stanza  :
+
+Surely  a  righteous  fowl,  a  blessed  bird,
+He  preaches  ou  one  leg  the  holy  word.
+
+The  birds,  believing  that  wicked  one,  said,  "  Sir,  you  take  no  other
+food  but  feed  on  wind  only  :  so  pray  watch  our  eggs  and  young,"  so  they
+went  to  their  feeding-ground.  That  sinner  when  they  went  away  ate  his
+bellyful  of  their  eggs  and  young,  and  when  they  came  again  he  stood
+calmly  on  one  foot  with  his  mouth  open.  The  birds  not  seeing  their
+children  when  they  came  made  a  great  outcry,  "  Who  can  be  eating
+them?"  but  saying,  "This  crow  is  a  holy  person,"  they  do  not  even
+suspect  him.     Then  one  day  the  Bodhisatta  thought,  "  There  was  nothing
+
+^  See  Morris  in  Folk-lore  Journal,  ii.  p.  304.
+
+
+No.   384.  171
+
+wrong  here  formerly,  it  only  began  since  this  one  came,  it  is  good  to  try
+him":  so  making  as  if  he  were  going  to  feed  with  the  other  birds  he
+turned  back  and  stood  in  a  secret  place.  [269]  The  crow,  confident
+because  the  birds  were  gone,  rose  and  went  and  ate  the  eggs  and  young,
+then  coming  back  stood  on  one  foot  with  his  mouth  open.  When  the
+birds  came,  their  king  assembled  them  all  and  said,  "  I  examined  to-day
+the  danger  to  our  children,  and  I  saw  this  wicked  crow  eating  them,  we
+will  seize  him":  so  getting  the  birds  together  and  surrounding  the  crow
+he  said,  "  If  he  flees,  let  us  seize  him,"  and  spoke  the  remaining  stanzas:
+
+You  know  not  his  ways,  when  this  bird  you  praise :
+
+You  spoke  with  foolish  tongue:
+"Virtue,"  he'll  .say,  and  "Virtue"  aye.
+
+But  he  eats  our  eggs  and  youug.
+
+The  things  he  preaches  with  his  voice
+
+His  members  never  do :
+His  Virtue  is  an  empty  noise,
+
+His  righteousness  untrue.
+
+At  heart  a  hypocrite,  his  language  charms,
+
+A  black  snake  slinking  to  his  hole  is  he :
+He  cozens  l>y  his  outward  coat  of  arms
+
+The  country-folk  in  their  simplicity.
+
+Strike  him  down  with  Ijeak  and  pinion,
+
+Tear  him  with  your  claws :
+Dc<ith  to  such  a  dastard  minion.
+
+Traitor  to  our  cau.se.
+
+[270]  With  these  words  the  leader  of  the  birds  himself  sprang  up  and
+struck  the  crow  in  the  head  with  liis  beak,  and  the  rest  struck  him  with
+beaks  and  feet  and  wings :  so  he  died.
+
+
+At  the  cud  of  the  lesson,  the  Ma.stcr  identified  the  Birth :  "At  that  time  the
+crow  was  the  deceitful  Brother,  the  king  of  the  birds  was  myself."
+
+
+No.  385.
+
+NANDIYAMIGA-JATAKA.
+
+"  Will  you  go  to  the  King's  Park"  etc. — The  Master  told  this  in  .Jetavana,  of  a
+Brother  who  supported  his  mother.  He  asked  the  Brother,  "  Is  it  true  that  you
+support  lay  folk?"     "Yes,  lord."     "What  are  they?"     "My  father  and  mother,
+
+
+172  The  Jataka.     Book   VI.
+
+lord."     "Well  (luiic,  well  done,  I'rotlier:  y<Hi  keojt  up  the  rule  of  the  wise  men
+of  old,  for  they  ton  even  when  horn  iw  bcu.sts  gave  tlicir  life  for  their  iMirent«,"
+
+and  HO  he  told  an  old  tale.
+
+
+( )ncc  upon  a  time  when  tiio  Kusala  kinj;  wius  reigning  over  tin-  Ko.SiiluH
+in  Saketa  (Omlh),  the  Jiodhisatta  was  born  as  a  deer ;  when  he  grew  up
+he  was  named  Nandiyamiga,  and  being  excellent  in  character  and  conduct
+he  supported  liis  fiither  and  mother.  Tlie  Kosala  king  was  intent  on  the
+cha.se,  and  went  every  day  to  hunt  with  a  great  retinue,  so  that  his  people
+could  not  follow  farming  and  their  trades.  The  people  gathered  together
+and  consulted,  saying,  "  Sira,  this  king  of  ours  is  destroying  our  trades,
+our  home-life  is  perisiiing;  what  if  we  were  to  enclose  the  Anjanavana  park,
+providing  a  gate,  digging  a  tank  and  sowing  grass  there,  then  go  into  tlie
+forest  with  sticks  and  clubs  in  our  hands,  boat  the  thickets,  and  so  expelling
+the  deer  and  driving  them  along  force  them  into  the  park  like  cows  into
+a  pen?  then  we  would  close  the  gate,  send  word  to  the  king  and  go  about
+our  trades."  "That  is  the  way,"  they  said,  and  so  with  one  will  they  made
+the  park  ready,  and  then  entering  the  wood  enclosed  a  space  [271]  of  a
+league  each  way.  At  the  time  Nandiya  had  taken  his  father  and  mother
+into  a  little  thicket  and  was  lying  on  the  ground.  TJie  people  with  various
+shields  and  weapons  in  their  hands  encircled  the  thicket  arm  to  arm  ;  and
+some  entered  it  looking  for  door.  Nandiya  saw  them  and  thought,  "  It  is
+good  that  I  should  abandon  life  to-day  and  give  it  for  my  parents,"  so  rising
+and  saluting  his  parents  he  said,  "  Father  and  mother,  these  men  will  see
+us  three  if  they  enter  this  thicket ;  you  can  survive  only  in  one  way,  and
+your  life  is  best :  I  will  give  you  the  gift  of  your  life,  sUmding  by  the
+skirts  of  the  thicket  and  going  out  as  soon  as  they  beat  it:  then  they  will
+think  there  can  be  only  one  deer  in  this  little  thicket  and  so  will  not
+enter:  be  heedful":  so  he  got  their  permission  and  stood  ready  to  run.
+As  soon  as  the  thicket  was  beaten  by  the  people  standing  at  its  skirts  and
+shouting  he  came  out,  and  they  thinking  there  would  be  only  one  deer
+there  did  not  enter.  Nandiya  went  among  the  other  deer,  and  tlie
+people  drove  them  along  into  the  park;  then  closing  the  gate  they  told  the
+king  and  went  to  their  own  homes.  From  that  time  the  king  always  went
+himself  and  shot  a  deer;  then  he  either  took  it  and  went  away,  or  sent  for
+it  and  had  it  fetched.  The  deer  arranged  their  turns,  and  he  to  whom  the
+turn  came  stood  on  one  side:  and  they  take  him  when  shot.  Nandiya
+drank  water  from  the  tank,  and  ate  the  grass,  but  his  turn  did  not  come
+yet.  Then  after  many  days  his  parents  longing  to  see  him  thought,  '•  Our
+son  Nandiya,  king  of  deer,  was  strong  as  an  elephant  and  of  perfect
+health:  if  he  is  alive  he  will  certainly  leap  the  fence  and  come  to  see
+us;    we  will  send   him   [272]  word":    so   they   stood   near  the   road   and
+
+
+No.   385.  173
+
+
+seeing  a  brahmin  they  asked  in  human  voice,  "Sir,  where  are  you
+going?"  "To  Saketa,"  he  said;  so  sending  a  message  to  their  son  they
+spoke  the  first  stanza :
+
+Will  vou  CO  to  the  King's  Park,  V.rahmin,  when  Oudh  you're  travelling  through?
+Find  out °our  dear  son  Nandiya  and  tell  him  our  message  true,  „
+
+"Your  father  and  mother  are  stricken  in  years  and  then-  hearts  are  fam  loi  you.
+
+The  brahmin,  saying,  "  It  is  well,"  accepted,  and  going  to  Saketa  next
+day  entered  the  park,  and  asked  "  Which  is  Nandiya?"  The  deer  came
+near  him  and  said,  "I."  The  brahmin  told  his  message.  Nandiya,
+hearing  it,  said,  "I  might  go,  brahmin;  I  ndght  certainly  leap  the  fence
+and  go:  but  I  have  enjoyed  regular  food  and  drink  from  the  king,  and
+this  stands  to  me  as  a  debt:  besides  I  liave  lived  long  among  these  deer
+and  it  is  improper  for  me  to  go  away  without  doing  good  to  this  king  and
+to  them,  or  without  showing  my  strength:  but  when  my  turn  comes  1  will
+d«.  good  to  them  and  cOme  gladly":  and  so  explaining  this,  he  spoke  two
+
+
+stanzas :
+
+
+I  owe  the  King  my  daily  drink  and  food:
+I  ciiunot  go  till  I  have  made  it  go(xl.
+
+To  the  King's  arrows  I'll  expose  my  side:
+Then  sec  my  mother  and  be  justified.
+
+[273]  The  brahmin  liearing  this  went  away.     Afterwards  on  the  day
+when  his  turn  came,  the  king  with  a  great  retinue  came  into  the  [.ark.
+The  Bodhisatta  stotxl  on  one  side:   and  the  king  saying,  "  I  will  shoot  the
+deer"  fitted  a  sharp  arrow  to  the  string.     The    BodhisatUv  did  not  run
+away  as  other  animals  do  when  scared  by  the  fear  of  death,  but  fearless
+and   making  his  charity  his  guide  he  stood  firm,  exposing  his  side  with
+mi-hty   ribs.      The   king    owing   to   the  efticacy    of    his    love    could    not
+dischar-e  the  arrow.     The  Bodhisatta  said,  «'  Great  king,  why  do  you  not
+shoot  the  arrow?    shoot!"     "King  of  deer,   I  cannot."     "Then  see  the
+merit  of  the  virtuous\   O  gieat  king."     Then  the  king,  ple.used  with  the
+Bodhisiitta,  dropped   his  bow  and  said,   "This  senseless  length  of  woo<
+knows  your  merit:  shall  I  who  have  sense  and  am  a  man  not  know  it?
+forcnve  me  ;  I  give  you  security."    "  Great  king,  you  give  me  security,  but
+whit  will  this  herd  of  deer  in  the  park  do?"     "I  give  it  to  them  too.
+So  the   Bodhisatta,  having  gained  security  for  all  deer  in  the  park,  for
+birds  in   the   air  and  fishes   in   the   water,    in   the   way   described   in  the
+Ni-rodha   Birth,   established   the   king    in  the    five   commands  and   .said,
+"G°reat  king,  it  is  good  for  a  king  to  rule  a  kingdom  by  forsaking  the
+ways  of  wrongdoing,  not   offending  against  the   ten   kingly   %-irtues   and
+acting  with  just  righteousness.
+
+1  There  is  a  pun  here  on  //i/mnn  which  meanfl  merit  or  utriwi.
+
+
+174  The  Jataka.     Book    VI.
+
+[274]  Alms,  niorul.s,  chftrity,  justice  ami  jK-'iiitonce,
+Pciico,  mililncss,  mercy,  mecknesw,  |>utioiice:
+
+These  virtues  planted  in  my  soul  I  feel,
+
+Thence  springs  up  Ix)ve  and  iKjrfect  inwanl  weal."
+
+With  these  words  ho  showed  forth  the  kindly  virtues  in  tin-  form  of  a
+stanza,  and  after  staying  some  days  with  the  king  lie  sent  a  golden  drum
+round  the  town,  proclaiming  the  gift  of  security  to  all  beings:  and  then
+siiying,  "O  king,  l>e  watchful,"  he  went  to  see  his  parents.
+
+Of  old  in  Oudh  a  king  of  deer  I  hight,
+Hy  name  and  nature,  Nandiya,  Delight.
+
+To  kill  me  in  his  dwr-iwirk  ciime  the  King,
+His  1k)w  w;us  l>cnt,  his  arrow  nn  the  string.
+
+To  the  King's  arrow  I  exi)o.sc«l  my  side;
+Then  s;iw  my  mother  and  was  justifuHl.
+
+These  were  the  sttmziui  inspireil  hy  Pi'rfect  Wisdom.
+
+
+At  the  enil,  tlie  Miuster  ilecliin-d  the  Truths,  and  iilentifie<l  the  Ilirth: — At
+the  end  of  the  Truths,  the  brother  who  sup|H>rted  his  mother  wius  e.stal>lishe«l  in
+the  First  Tath:— ^"At  that  time  the  father  and  mother  were  memltcru  of  the
+royal  family,  the  brahmin  was  Sariputta,  the  king  Ananda,  the  doer  myself."
+
+
+No.  386.
+
+KHARAPUTTA-JATAKA'.
+
+[275]  '•'■Goats  arc  stumd"  etc. — The  Ma.ster  told  this  tale  in  Jetavana,  con-
+cerning temptation  of  a  Brother  by  his  former  wife.  When  the  Brother  confessed
+that  he  was  longing  for  the  world,  the  Master  said,  "  Brother,  this  woman  does
+you  harm  :  formerly  also  you  came  into  the  fire  through  her  and  were  saved
+from  death  by  .sages,"  so  he  told  an  old  tale.
+
+
+Once  upon  a  time  when  a  king  named  Senaka  was  reigning  in  Benares,
+the  Bodhisatta  was  Sakka.  The  king  Senaka  was  friendly  with  a  cei-taiu
+naga-king.     This  uaga-king,  they  say,  left  the  naga- world  and  ranged  the
+
+1  For  variants  on  this  story  see  Benfey  in  Orient  and  Occident,  vol.  ii.  pp.  133  ff.,
+and  the  second  story  in  the  Arabian  Nights.
+
+
+No.  386.  175
+
+earth  seeking  food.     The  village  boys  seeing  him  said,  "This  is  a  snake,"
+and  struck  him  with  clods  and  other  things.     The  king,  going  to  amuse
+himself  in   his  garden,   saw  them,  and  being  told  they  were  beating  a
+snake,  said,  "Don't  let  them  beat  hiu),  drive  them  away";  and  this  was
+done.     So  the  naga-king  got  his  life,  and  when  he  went  back  to  the  naga-
+world,  he  took  many  jewels,  and  coming  at  midnight  to  the  king's  bed-
+chamber he  gave  them  t^)  him,  saying,  "I  got  my  life  through  you  "  :  so
+he  made  friendship  with  the  king  and  came  again  and  again  to  see  him.
+He  appointed  one  of   his  naga  girls,  insatiate  in  pleasures,  to  be  near
+the  king  and  i)rotect  him  :    and   he  gave  the  king  a  charm,  saying,  "  If
+ever  you  do  not  see  her,  repeat  this  charm."     One  day  the  king  went  to
+the  garden  with  the  naga  girl  and  was  amusing  himself  in  the  lotus-ti\nk.
+The  nag-a  girl  seeing  a  water-snake  <|uitte.l  her  human  shape  and  made
+love  with  him.     The  king  n..t  seeing  the  girl  said,  [27G]  "Where  is  she
+gonel"  and  repeated  the  spell:   then  he  sjiw  her  in  her  misconduct  and
+struck  her  with  a  piece  of  ban>boo.     She  went  in  anger  to  the  naga-world,
+and  when  she  was  asked,  "Why  are  you  come]"  she  said,  "Your  friend
+struck  me  on  the  back  because  I  did  not  do  his  bidding,"  shewing  the
+mark  of  the  blow.     The   naga-king,   not   knowing  the  truth,   called  four
+naga  youths  and  sent  them  with  orders  to  enter  Senaka's  bed  chamber  and
+destroy  him  like  chafT  by  the  breath  of  their  nostrils.     They  entered  the
+chamber  at  the  royal  iK-d-time.      As  they  came  in,  the  king  was  saying  to
+the  queen:  "  Lady,  do  you  know  where  the  naga-girl  has  gone?"    "  King,  I
+do  not."   "To-day  when  we  were  bathing  in  the  tank,  she  quitted  her  shap*-
+and  inisconduct<'d  hei-self  with  a  water-snake:   I  sivid,  'Don't  do  that,'  and
+struck  her  with  a  piece  of  bamboo  to  give  her  a  lesson:  and  now  I  fear
+she  may  have  gone  to  the  naga-world  and  told  some  lie  to  my  friend,
+destroying  his  good-will  to  me.'     The  young  nagas  hearing  this  turned
+back   at  once  to  the  naga-worid   and  told   their  king.      He  Ijeing  moved
+went  instantly  to  the  king's  chamber,  told  him  all  and  was  forgiven  :  then
+he  said.  "  In  this  way  I  make  amends,"  and  gave  the  king  a  charm  giving
+knowledge  of  all  sounds:   "This,  O  king,  is  a  priceless  spell:  if  you  give
+anyone  this  spell  you  will  at  once  enter  the  fire  and  die."     The  king  said,
+"  It  is  well,"  and  accepted  it.     From  that  time  he  understood  the  voice
+even  of  ants.     One  day  he  was  sitting  on  the  dais  eating  solid  food  with
+honey   and   molasses  :  and  a  drop  of  honey,  a  drop  of  molasses,   and  a
+morsel   of    cake   fell  on  the  ground.     An  ant  seeing  this  comes  crying,
+"The  king's  honey -jar  is  broken  on  the  dais,  his  mola.sses-cart  [277]  and
+cake-cart  are  upset;  come  and  eat  honey  and  molasses  and  cake."     The
+king  hearing  the  cry  laughed.    The  queen  being  near  him  thought,  "What
+has°the  king  seen  that  he  laughs?"     When  the  king  had  eaten  hi.s  solid
+food  and  bathed  and  sat  down  cross-legged,  a  fly  said  to  his  wife,  "Come,
+lady,  let  us  enjoy  love."     She  said,  "  Excuse  me  for  a  little,  husband  :  they
+
+
+176  The  Jdtaka.     Book    VI.
+
+will  soon  be  hrin^inr;  perfumes  to  the  king ;  as  he  porfunies  himself  some
+powder  will  fall  at  his  feet :  I  will  stay  there  ami  l>ecome  fragrant,  then
+we  will  enjoy  ourselves  lying  on  the  king's  buck."  The  king  hearing  the
+voice  laughed  again.  The  queen  thought  again,  "  What  has  \w  .seen  that
+he  laughs  1"  Again  when  the  king  was  eating  liis  supper,  a  lump  of  rico
+fell  on  the  ground.  The  ants  cried,  *'  A  wagon  of  rice  has  broken  in  the
+king's  palace,  and  tluTe  is  none  to  eat  it."  The  king  hearing  this  laughed
+again.  The  queen  took  a  golden  spoon  and  hrlping  him  retlected,  "  Is  it
+at  the  .sight  of  me  that  the  king  laughs?"  She  went  to  the  bed-chamber
+with  the  king  and  at  bedtime  she  asked,  "  Why  did  you  laugh,  O  king?"
+Ho  said,  "What  have  you  to  do  with  why  I  laugh?"  but  b<'ing  asked
+again  and  again  he  told  her.  Then  she  said,  "Give  me  your  spell  of
+knowledge."  He  said,  "It  cannot  b«!  givm "  :  but  though  repidsed  slie
+l)re.ssed  him  again.
+
+The  king  .said,  "If  I  give  you  this  spell,  I  sluiU  <li»'."  "Even  though
+you  die,  give  it  mo."  The  king,  being  in  the  power  of  womankind,
+saying,  "It  is  well,"  con.sent<'d  and  went  to  the  park  in  a  chariot,  saying,
+"  I  shall  enter  the  Hre  after  giving  away  this  spell."  At  that  moment,
+Sakka,  king  of  gods,  looked  down  on  the  earth  ami  se<'ing  this  caae
+said,  "This  foolish  king,  knowing  that  he  will  enter  the  fire  through
+womankind,  is  on  his  wuy  ;  I  will  give  him  his  life":  so  ho  took  Suja,
+daughter  of  the  Asuras,  and  went  to  Benares.  [278]  He  became  a  he-goat
+and  made  her  a  she-goat,  and  resolving  that  tht'  people  should  not  see  them,
+he  stood  before  the  king's  chariot.  The  king  and  the  8indh  as.ses  yoked
+in  the  chariot  saw  him,  but  none  else  saw  him.  For  the  sake  of  starting
+talk  he  was  as  if  making  love  with  the  she-goat.  One  of  the  Sindh  asses
+yoked  in  the  chariot  seeing  him  said,  "  Friend  goat,  we  have  heard  before,
+but  not  seen,  that  goats  are  stupid  and  shameless :  but  you  are  doing,  with
+all  of  us  looking  on,  this  thing  tliat  should  be  done  in  secret  and  in  a
+l)rivate  place,  and  are  not  ashamed  :  what  we  have  heard  before  agrees
+with  this  that  we  see : "  and  so  he  spoke  the  first  stanza  :
+
+'  Goats  are  stupid,'  sjvys  the  wise  man,  and  the  words  are  surely  true  :
+This  one  knows  not  he's  parading  what  in  secret  he  should  do.
+
+The  goat  hearing  him  spoke  two  stanzas  :
+
+O,  sir  donkey,  think  and  realise  your  own  stupidity,
+You're   tied    with    ropes,  your  jaw   is   wrenched,  and  very  downcast  is
+yoiu*  eye.
+
+When  you're  loosed,  you  don't  escai^e.  Sir,  that's  a  stui»id  habit  too  :
+And  that  Senaka  you  carry,  he's  more  stupid  still  than  you.
+
+[279]  The  king  understood  the  talk  of  both  animals,  and  hearing  it  he
+quickly  sent  away  the  chariot.  The  ass  hearing  the  goat's  talk  spoke  the
+fourth  stanza  :
+
+
+No.  386.  177
+
+Well,  Sir  king  of  goats,  you  fully  know  my  gi-eat  stupidity :
+But  how  Senaka  is  stupid,  i)rithee  do  explain  to  me.
+
+The  goat  explaining  this  spoke  the  fifth  stanza  : —
+
+He  who  his  own  special  treasure  on  his  wife  will  throw  away,
+Cannot  keep  her  faithful  ever  and  his  life  he  must  hetray.
+
+The  king  hearing  his  words  said,  "King  of  goats,  you  will  surely  act
+for  my  advantage  :  tell  me  now  what  is  right  for  me  to  do."  Then  the
+goat  said,  "  King,  to  all  animals  no  one  is  dearer  than  .self:  it  is  not  good
+[280]  to  destroy  oneself  and  abandon  the  honour  one  has  gained  for  tlie
+sake  of  anything  that  is  dear':  so  he  spoke  the  sixth  stanza  : —
+
+A  king,  like  thee,  may  have  conceived  desire
+And  yet  renounced  it  if  his  life's  the  cost  :
+
+Life  is  the  chief  thing  :    what  can  man  seek  higher  f
+If  life's  secured,  desires  need  ne'er  Ixj  cros.sed.
+
+So  the  Bodhisatta  exhorted  the  king.  The  king,  delighted,  asked,
+"King  of  goats,  whence  come  you  T'  "  I  am  Sakka,  O  king,  come  to  save
+you  from  death  out  of  pity  for  you."  "  King  of  gods,  I  promised  to  give
+her  the  charm  :  what  am  I  to  do  now  ?  "  "Tli.-re  is  no  need  for  the  ruin
+of  both  of  you  :  you  say,  '  It  is  the  way  of  the  craft,'  and  have  her  beaten
+with  some  blows  :  by  this  means  she  will  not  get  it."  The  king  said,  "It
+is  well,"  and  agreed.  The  Bodhisatta  after  exhortation  to  the  king  went
+to  Sakka's  heaven.  The  king  went  to  the  garden,  ha<l  the  queen  sum-
+moned and  then  said,  "Lady,  will  you  have  the  charm?"  "  Ye.s,  lord."
+"Then  go  through  the  \isual  custom."  "What  custom?"  "  A  hundred
+stripes  ['-'81]  on  the  back,  but  you  vaunt  not  make  a  sound."  She  consent*?d
+through  greed  for  the  charm.  The  king  made  his  slaves  take  whips  and
+beat  her  on  both  .sides.  She  endured  two  or  three  stripes  and  then  cried,
+"I  don't  want  the  charm."  The  king  said,  "You  would  have  killed  me
+to  get  the  charm,"  and  so  flogging  the  skin  off  her  back  he  sent  her  away.
+After  that  she  could  not  bear  to  talk  of  it  agnin.
+
+
+At  the  end  of  the  lc.s.son  the  Ma.ster  declared  the  Tmths,  and  identified  the
+Birth  :— at  the  end  of  the  Truths,  the  Brother  wa.s  establi.shed  in  the  First  Path  :—
+"At  that  time  the  king  was  the  discontented  brother,  the  queen  his  former
+wife,  the  steal  Sariputta,  and  Sakka  wa.s  myself."
+
+
+J.  III.  12
+
+
+178  The  Jataka.     Book   VI.
+
+
+No.  387.
+
+SCCI-.IATAKA.
+
+'■'Quifkly  threaded"  «'/<\— The  Mjister  told  tJiis  tiile  wliile  dwelling  in  Jctavann,
+coiuciiiingtlie  jKirfectioii  of  wisdom.  The  occ;i.sioii  of  the  tule  will  lio  given  in
+the  .Mahriuniuiaggii'.  The  Mji-ster  iultlre.s.sed  the  hrethren,  "This  is  not  tiie  first
+time  the  TiithagHtu  is  wise  and  skilled  in  devices,"  and  so  he  told  un  old  t^ile.
+
+
+Once  upon  a  time  when  Brahmadattii  was  king  in  Benares,  the  Bodhi-
+Batta  was  horn  in  the  kingdom  of  Kani  in  a  smith's  family,  and  when  he
+grew  up  he  hecame  excellent  in  the  crafts  His  parents  were  jKjor.  Not
+far  from  their  village  was  another  smith's  village  of  a  thousand  houses.
+The  principal  smith  of  the  thousand  was  a  favourite  of  the  king,  rich  and
+of  great  substance.  His  daugiiter  was  exceetlingly  l)eautiful,  like  to  a
+nymph  of  heaven,  with  nil  the  auspicious  marks  of  a  lady  of  tl.e  land.
+People  came  from  the  villages  round  to  have  razors,  axes,  ploughshares
+and  goads  made,  and  generally  saw  that  maiden.  When  they  went  hack
+to  their  own  villages,  they  prai.sed  her  heauty  [282]  in  the  places  where
+men  sit  and  elsewhere.  The  liodhisatta,  being  attmcted  by  merely  hearing
+of  her,  thought,  "I  will  make  her  my  wife":  so  he  took  iron  of  the  best
+kind,  and  made  one  delicate  strong  needle  which  pierced  dice  and  tloated  on
+water:  then  he  made  a  sheath  for  it  of  the  same  kind  and  j)ierced  dice  with
+it  :  and  in  the  same  way  he  made  seven  sheaths  :  how  he  made  them
+is  not  to  be  told,  for  such  work  prospere  through  the  greatness  of  Botlhi-
+sattas'  knowledge.  Then  he  put  the  needle  in  a  tube  and  placing  it  in  a
+case  he  went  to  that  village  and  asked  for  the  street  where  the  head-
+smith's  house  was :  then  standing  at  the  door  he  said,  "  Who  will  buy  for
+money  from  my  hand  a  needle  of  this  kind?"  describing  the  needle,  and  so
+standing  by  the  head-smith's  hou.se  he  spoke  the  first  stanza : —
+
+Quickly  threaded,  smooth  and  straight.
+
+Polished  with  emery.
+Sharp  of  point  and  delicate,
+
+Needles !  who  will  buy  '?
+
+After  this  he  praised  it  again  and  spoke  the  second  stanza : —
+
+Quickly  threaded,  strong  and  straight,
+
+Rounded  properly.
+Iron  they  will  penetrate.
+
+Needles!  who  will  buy]
+
+^  No.  546,  vol.  VI.
+
+
+No.   387.  179
+
+[283]  At  that  monieut  the  maiden  was  fanning  her  fatlier  with  a  palm-
+leaf  as  he  lay  on  a  little  bed  to  allay  discomfort  after  his  early  meal,  and
+hearing  the  Bodhisatta's  sweet  voice,  as  if  she  had  been  sickened  by  a  fresh
+lump  of  meat,  and  had  the  discomfort  extinguished  by  a  thousand  pots  of
+water,  she  said,  "Who  is  this  hawking  needles  with  sweet  voice  in  a  village
+of  smiths]  For  what  business  has  he  come?  I  will  6nd  out":  so  laying
+down  the  palm-fan  she  went  out  and  spoke  with  him  outside,  standing  in
+the  verandah.  The  purpose  of  Bodhisattus  ])rospers  :  it  was  for  her  sake
+he  had  come  to  that  village.  She  speaking  with  him  said,  "Young  man,
+dwellers  in  all  the  kingdom  come  to  this  village  for  needles  and  the  like  :
+it  is  in  folly  you  wish  to  sell  needles  in  a  village  of  smiths;  though  you
+declare  the  praise  of  your  needle  all  day  no  one  will  take  it  from  your
+hand  ;  if  you  wish  to  get  a  price,  go  to  another  village"  :  so  she  spoke  two
+stanzas : —
+
+Our  hooks  ;ire  sold,  both  up  and  down,
+
+Men  know  our  needles  well :
+We  all  are  smiths  in  this  good  town :
+
+Needles  !  who  can  sell  ?
+
+In  iron-work  we  have  renown,
+
+In  weajKins  we  excel:
+We  all  are  smiths  in  this  goo«l  town  :
+
+Needles!  who  can  sell?
+
+The   Bodhisatta  hearing  her   words   said,    "  Lady,   you   .say   this   not
+knowing  and  in  ignorance  " :  and  so  he  spoke  two  stanzas  : —
+
+[284]  Though  all  are  smitlis  in  this  goml  town.
+Vet  skill  can  needles  sell  ;
+For  masters  in  the  craft  will  <3wn
+A  tii-st-rate  article.
+
+I.rfidy,  if  once  your  father  know
+
+This  needle  made  by  me ;
+On  me  your  hand  he  would  bestow
+
+And  all  his  proiK-rty.
+
+The  head-smith  hearing  all  their  talk  called  his  daughter  and  asked,
+"Who  is  that  you  are  talking  to  I"  "Father,  a  man  selling  needles."
+"Then  call  him  here."  She  went  and  called  him.  The  Bodhisatta
+saluted  the  head-smith  and  stood  by.  The  head-smith  asked,  "  (Jf  what
+village  are  you?"  "I  am  of  such  a  village  and  son  of  such  a  smith."
+"Why  are  you  come  here?"  "To  sell  needles."  "Come,  let  us  see  your
+needle."  [285]  The  Bodhisatta,  wishing  to  declare  his  qualities  among
+them  all,  said,  "  Is  not  a  thing  seen  in  the  midst  of  all  better  than  one
+seen  by  each  singly?"  "Quite  right,  friend."  So  he  gathered  all  the
+smiths  together  and  in  their  midst  said,  "  Sir,  tak<'  the  needle."  "Master,
+have  an  anvil  brought  and  a  bronze  dish  full  of  water."  This  was  done.
+The   Bodhisatta   took   the   needle-tube  from   the  wrapper  and  gave  it  to
+
+12—2
+
+
+180  The  Jdtaka.     Book   VI.
+
+them.  The  head-smith  taking  it  asked,  "Is  this  the  needle?"  "No,  it
+is  not  the  needle,  it  is  the  sheath."  He  examining  couUl  not  see  end  nor
+tip.  Tlie  Bodhisatta,  taking  it  from  them,  drew  oft"  tlie  sheath  with  liis
+nail  Mnd  showing  it  to  the  i)eople  with  "This  is  the  needle,  this  is  the
+sheath,"  he  put  the  needle  in  the  master's  hand  and  the  sheath  at  his  feet.
+Again  when  the  master  said,  "  This  is  the  needle,  I  suppose,"  he  answered,
+"  Tliis  too  is  a  needle-sheath"  :  then  he  struck  it  off  with  his  nail,  and  so  he
+laid  .six  sheaths  in  succe.ssion  at  the  head-smith's  feet  and  saying,  "  Here  is
+the  needle,"  laid  it  on  his  hand.  The  thousand  smiths  snapped  their
+fingers  in  delight,  and  the  waving  of  cloths  began  ;  then  the  head-smith
+asked,  "Friend,  what  is  the  strength  of  this  needle?"  "Master,  have
+this  anvil  raised  up  by  a  strong  man  and  a  water-vessel  set  under  the
+anvil :  then  strike  the  needle  straight  into  the  anvil."  He  had  thi.s  done
+and  struck  the  needle  by  the  point  into  the  anvil.  The  needle'  piercing
+the  anvil  lay  across  on  the  surface  of  the  water  not  moving  a  hair's
+breadth  up  or  down.  All  the  smiths  said,  "  We  have  never  heard  all  this
+time  even  by  rumour  that  there  are  such  smiths  as  this : "  so  they
+snapped  their  fingers  and  waved  a  thou.sand  cloths.  [286]  The  head-
+smith  called  his  daughter  and  in  the  njidst  of  the  assembly  .saying,  "This
+maiden  is  a  suiUible  mutch  for  you,"  he  jK^ured  water  on^  them  and
+gave  her  away.  And  afterwards  when  the  ht-ad-sniith  died  the  Bodhi.««\tta
+became  head-smith  in  the  village.
+
+
+After  the  lesson,  the  Master  declared  the  Truths  and  identified  the  Birth :
+"The  smith'-s  daughter  was  Rahula's  mother,  the  clever  young  smith  wa«
+myself."
+
+
+No.  388.
+
+
+TUNDILA-JATAKA.
+
+"Something  strange  to-day"  etc.  The  Master  told  this  tale  while  dwelling  in
+Jetavana,  conceraing  a  brother  who  feared  death.  He  was  bom  in  Siivatthi  of
+good  family  and  wa.>5  ordainetl  in  the  Faith :  but  he  feared  death  and  wlien  he
+heard  even  a  little  moving  of  a  l>ough,  or  falling  of  a  stick  or  voice  of  bird  or
+
+^  Reading  udhikaranim:  but  we  are  not  certain  of  the  meaning.
+-  See  Colebrooke's  Essays,  vol.  i.  p.  232.
+
+
+iVo.   388.  181
+
+beast  or  any  such  thing,  he  w;vs  frightened  by  the  fc;ir  of  dcivth,  and  went  away
+shaking  like  a  hare  wounded  in  the  belly.  The  Brethren  in  the  Hall  of  Truth
+began  to  discuss,  siiying,  "  Sii-s,  they  say  a  certiiin  Brother,  fearing  death,  nuis
+away  shaking  when  he  he;\i-s  even  a  little  sound :  now  to  beings  in  this  world
+dcixth  is  certixin,  life  uncertain,  and  should  not  this  be  wisely  Wrne  in  mind?"'
+The  M.ister  found  that  this  was  their  subject  and  that  the  Brother  allowed  he
+was  afraiil  of  death :  so  he  said,  "  Brethren,  he  is  not  afraid  of  death  for  the  tirst
+time,"  and  so  he  told  an  old  tale.
+
+
+Once  upon  a  time  when  Brabmadatta  was  king  in  Benares,  the
+Bodhisatta  wiis  conceived  l>y  a  wild  sow  :  iu  due  time  she  brought  forth
+two  male  young.  One  day  she  took  them  and  h\y  down  in  a  pit.  An
+old  woman  of  a  village  at  the  gate  of  Benares  was  coming  home  with  a
+basket-full  of  cotton  from  the  cotton  field  [-^~]  and  tapping  the  giound
+with  her  stick.  The  sow  heard  the  sound,  and  in  fear  of  death  left  her
+young  ami  i-an  away.  The  old  woman  saw  the  young  pigs,  and  feeling
+towai'ds  them  as  to  children  of  her  own  she  put  them  in  the  basket  and
+took  them  home:  then  she  called  the  elder  Mahatuiulila  (Big-snout),  the
+younger  CuUatuiulila  (Little-snout),  and  reared  them  like  children.  In
+time  they  grew  up  and  became  fat.  When  the  old  woman  was  asked
+to  sell  them  for  money,  she  answered,  "  They  are  my  children,"  and  would
+not  sell  them.  On  a  certain  feiist-day  some  lewd  fellows  were  drinking
+strong  drink,  and  when  their  meat  was  done  they  considered  where  they
+could  get  meat :  finding  out  that  there  were  pigs  in  the  old  woman's  house,
+they  took  money  and  going  thei-e,  said,  "  Mother,  Uike  this  money  and
+give  us  one  of  those  pigs.'"  She  said,  *'  Enough,  young  men  :  are  there
+people  who  would  give  their  chihlren  to  buyei*s  to  eat  their  flesh  ? "  and  so
+refused  them.  The  fellows  said,  "  Mother,  pigs  cannot  be  children  of  men,
+give  them  to  us":  but  they  could  not  get  this  though  they  ask etl  again
+and  again.  Then  they  made  the  old  woman  drink  strong  drink,  and  when
+she  was  drunk,  siiying,  "  Mother,  what  xWll  you  do  with  the  pigs  ?  take  the
+money  and  spend  it,"  they  put  pieces  of  money  iu  her  hand.  She  took
+the  pieces  sitying,  "  I  cannot  give  you  Mahatuiulila,  take  Cullatundila."
+"Where  is  he ?  "  "There  he  is  in  that  bush."  "Call  him.'  "I  don't
+see  any  food  for  him."  The  fellows  sent  for  a  vessel  of  rice  at  a  price.
+The  old  woman  took  it,  and  tilling  the  pig's  trough  which  stood  at  the  door
+she  waited  by  it.  Thirty  fellows  stood  by  with  nooses  in  their  hands.
+The  old  woman  called  him,  ''Come,  little  Cullatundila,  come."  [288]  Maha-
+tundila,  hearing  this,  thought,  '*  All  this  time  mother  has  never  given  the
+call  to  Cullatundila,  she  always  calls  me  first ;  cert^iinly  some  danger  must
+have  arisen  for  us  to-day."  He  told  his  younger  brother,  saying,  "Brother,
+mother  is  calling  you,  go  and  find  out."  He  went  out,  and  seeing  them
+standing  by  the  food-trough  he  thought.  "  Death  is  come  upon  me  to-day.''
+
+
+182  The  Jataka.     JJuok    17.
+
+ami  so  in  fear  of  death  he  turned  back  shakinj^  to  his  brother ;  and  when
+he  came  back  he  could  not  contain  liiniself  Imt  reeh'd  about  shaking.
+Mahatundila  seeing  him  said,  "Brother,  you  are  shaking  to-day  and  reeling
+and  watching  the  entrance:  why  are  you  doing  sol"  He,  explaining  the
+thing  that  he  had  seen,  spoke  the  first  stanza  : —
+
+Something  strange  to-day  I  fear  :
+
+The  trough  is  full,  and  mistress  l)y;
+Men,  niHise  in  hand,  arc  standing  nc^u*  :
+
+To  cat  apjHjars  a  jeopjii-dy.
+
+Then  the  Uodhisatta  hearing  hin)  said,  '' IJrother  Cullatundila,  the
+purpose  for  which  my  mother  rears  pigs  all  this  tinie  [28'J]  has  to-day
+come  to  its  fuUilment :  do  not  grieve,"  and  so  with  sweet  voice  and  the
+ease  of  a  Buddha  he  expounded  the  hiw  and  spoke  two  stanzas  : —
+
+You  fear,  and  look  for  aid,  and  <|uakc,
+
+But,  liclplf.s.s,  wliitlier  can  you  Hee  /
+We're  fatti-nod  for  our  Hcsh's  s;ikc :
+
+Eat,  Tundila,  ami  chcernilly.
+
+Plunge  bold  info  the  crystal  ixm>1,
+
+Wa.sh  all  the  stains  of  sweat  away  :
+You'll  fuid  our  ointment  wonderful,
+
+Whose  fmgranio  lu'vor  ran  decay.
+
+As  he  considered  the  Ten  I'erfections,  setting  the  Perfection  of  Love
+before  him  as  his  guide,  and  uttered  the  first  line,  his  voice  reached  and
+extended  to  Benares  over  the  whole  twelve  lejigues.  At  the  insUmt  of
+hearing  it,  the  people  of  Benares  from  kings  and  viceroys  downwards  came,
+and  those  who  did  not  come  stooil  listening  in  their  houses.  The  king's
+men  breaking  down  the  bush  levelled  the  ground  and  scattered  sand.  The
+drunkenness  left  the  lewd  fellows,  and  throwing  awuy  the  nooses  they
+stood  listening  to  the  law  :  and  the  old  woman's  diunkenness  left  her  also.
+The  Bodhisatta  began  to  preach  the  law  to  Cullatundila  among  the
+multitude.
+
+['2l)0J  Cullatundila  hearing  him,  thought,  ''My  brother  says  so  to  me:
+but  it  is  never  our  custom  to  plunge  into  the  pool,  and  by  bathing  to
+wash  away  sweat  from  our  bodies  and  after  taking  away  old  stain  to  get
+new  ointment  :  why  does  my  brother  say  so  to  me  ? "  80  he  spoke  the
+fourtli  stanza : —
+
+But  what  is  that  fair  crystal  pool.
+
+And  what  the  stiiins  of  sweat,  I  pray  i
+
+And  what  the  ointment  wonderfid,
+"Whose  fragrance  never  can  decay  ?
+
+The  Bodhisatta  hearing  this  said,  "Then  listen  with  attentive  ear,"
+and  so  expounding  the  law  with  the  ease  of  a  Buddha  he  spoke  these
+stanzas  : —
+
+
+No.    388.  183
+
+The  law  is  the  fair  crystal  jwol,
+
+Sin  is  the  stain  of  sweiit,  they  say  :
+Virtue's  the  ointment  wonderful,
+
+Whose  fragrance  never  will  decay.
+
+Men  that  lose  their  life  are  glad,
+
+Men  that  keep  it  feel  annoy :
+Men  should  die  and  not  be  sad.
+
+As  at  mid-month's  festal  joy.
+
+[292]  So  the  Great  Being  expounded  the  law  in  a  sweet  voice  with  a
+Buddha's  charm.  The  multitude  by  thousands  snapped  their  fingers
+and  waved  their  cloths,  and  the  air  was  full  of  the  cry,  "  Good,  good."
+The  king  of  Benares  honoured  the  Bodhisatta  with  royal  i)lace,  and  giving
+glory  to  the  old  woman  he  caused  both  pigs  to  be  bathed  in  perfumed
+water,  and  clothed  with  robes,  and  ornamented  with  jewels  on  the  neck,
+and  put  them  in  the  position  of  his  sons  in  the  city  :  so  he  guarded  them
+with  a  great  retinue.  The  Bodhisatta  gave  the  five  commands  to  the
+king,  and  all  the  inhabitants  of  Benares  and  Kasi  kept  the  commands.
+The  Bodhisatta  preached  the  law  to  them  on  the  holy  days  (new  and
+full  moon),  and  sitting  in  judgment  decided  cases :  while  he  lived  there
+were  no  bringers  of  unjust  suits.  Afterwards  the  king  died.  The  Bodhi-
+satta did  the  last  honours  to  his  body:  then  he  caused  a  book  of  judgments
+to  he  written  and  said,  "By  ob.serving  this  book  ye  should  settle  suits":
+so  having  expounded  the  Law  to  the  people  and  preached  to  them  with
+zeal,  he  went  to  the  forest  with  Cullatundila  while  they  all  wept  and
+lamented.  Then  the  Bodhisatta's  preaching  went  on  for  sixty  thousand
+years.
+
+
+[293]  After  the  lesson,  the  .Miuster  dcchired  the  Tmths  and  identified  the
+Birth : — at  the  end  of  the  Truths  the  Brother  who  feared  death  was  established
+in  the  fruition  of  the  first  Path: — "In  th(^.se  days  the  king  was  Ananda,
+Cullatundila  was  tiie  Brother  who  fe<u-s  death,  the  multitude  was  the  Congre-
+gation, Mahatiiiidila  my.self."
+
+
+No.  389.
+
+
+SUVANNAKAKKATA-JATAKA.
+
+
+^^Gold^clawed  creature"  etc. — The  Ma.ster  told  this  tide  when  dwelling  in  the
+Bamboo-grove,  of  Ananda's  dying  for  his  sake.  The  occiision  is  told  in  the
+Khandahala'  Birth  about  the  hiring  of  bowmen,  and  in  the  Cidlahanisa-  Birth
+
+>  No.  542,  vol.  VI.  -  No.  533,  vol.  v.
+
+
+184  llic   Jataka.     Book    11.
+
+about  the  roar  of  the  elephant  Dhaiiajtala'.  Then  they  liej^aii  a  diMcu.sHion  in  the
+Hall  of  Truth  :  "  Sii-s,  has  the  Klder  Anamla,  Trwusurer  of  tlie  Law,  who  attiiinod
+all  the  wisdom  pos-sihlo  to  one  Mtill  under  discipline,  given  up  his  life  for  the
+I'erfect  IJuddha  when  Dlianapala  came/"  The  Ma-ster  came  and  wa.s  told  the
+suliject  of  their  discussion  :  he  sjiid,  "  Hrothor,  in  former  times  also  Ananda  gave
+up  his  life  for  me:"  and  so  he  told  an  old  tale.
+
+
+Onco  upon  a  time  there  was  a  hrahniin  village  called  Salindiya  on  the
+east  side  of  Ilajayaha.  The  Bodhisatta  wa«  horn  tliere  in  that  village  in  a
+brahmin  farmer's  family.  When  he  grew  up  lie  .settled  down  and  worked
+a  farm  of  a  thousand  karusas'  in  a  district  of  Magadha  to  the  north-east  of
+the  villagn.  One  day  he  had  gone  to  the  field  with  his  men,  and  giving
+them  orders  to  jdough  he  went  to  a  great  pool  at  the  end  of  the  Held  to
+wash  his  face.  In  that  pool  there  lives  a  crab  of  golden  hue,  beautiful  and
+charming.  The  IJodhisatta  having  chewed  his  toothpick  went  down  into
+the  pool.  When  he  was  washing  his  mouth  [-!^l],  the  crab  came  near.
+Then  he  lifted  up  the  crab  and  taking  it  laid  it  in  his  outer  garment :  and
+after  doing  his  work  in  the  field  he  put  the  crab  again  in  the  pool  and
+went  home.  From  that  time  when  going  to  the  Held  he  always  went  first
+to  that  pool,  laid  the  crab  in  his  outer  garment  and  then  went  alx)ut  his
+work.  So  a  strontr  feelinu  of  confidence  arose  Ix'tween  them.  The  IJodhi-
+satta  came  to  the  field  constantly.  Now  in  liis  eyes  were  seen  the  five
+graces  and  the  three  circles  very  pure.  A  she-crow  in  a  nest  on  a  palm  in
+that  corner  of  the  field  saw  his  eyes,  and  wishing  to  eat  them  said  to  the
+he-crow,  "Husband,  I  have  a  longing."  "longing  for  what?"  "I  wish
+to  eat  the  eyes  of  a  certain  brahmin."  "  Your  longing  is  a  l)ad  one  :  who
+will  be  able  to  get  them  for  you?"  "T  know  that  you  can't  :  but  in  the
+ant-hill  near  our  tree  there  lives  a  black  snake  :  wait  on  him:  he  will  bite
+the  brahmin  and  kill  him,  then  you  \vi]\  tear  out  his  eyes  and  bring  them
+to  me."  He  agreed  and  afterwards  waited  on  the  black  snake.  The  crab
+was  grown  great  at  the  time  when  the  seed  sown  by  the  Bodhisatta  was
+sprouting.  One  day  the  snake  said  to  the  crow,  "  Friend,  you  are  always
+waiting  on  me:  what  can  I  do  for  you?"  "Sir,  your  female  slave  has
+taken  a  longing  for  the  eyes  of  the  master  of  this  Held  :  I  wait  on  you  in
+hopes  of  getting  his  eyes  through  your  favour."  The  snake  said,  "  Well,
+that  is  not  difficult,  you  shall  get  them,"  and  so  encouraged  him.  Next
+day  the  snake  lay  waiting  for  the  brahmin's  coming,  hidden  [295]  in
+the  grass,  by  the  boundary  of  the  field  where  he  came      The  Bodhisatta
+
+
+'  See  introdnctory  story  to  No.  21,  Vol.  i.;  Miliiidajxviho,  p.  207.
+-  According  to  Childers,  Pali  Dictionanj  s.v.  ammanam,  this  would  be  about  eight
+thonsand  acres.
+
+
+No.   389.  185
+
+entering  the  j)ool  and  wasliing  his  mouth  felt  a  return  of  affection  for  the
+
+crab,  and  embracing  it  laid  it  in  his  outer  garment  and  went  to  the  field.
+
+The  snake  saw  him  come,  and  rushing  swiftly  forward  bit  him  in  the  flesh
+
+of  the  calf  and  having  made  him  fall  on  the  spot  fled  to  his  ant-hill.     The
+
+fall  of  the  Bodhi.satta,  the  spring  of  the  golden  crab  from  the  garment,  and
+
+the  perching  of  the  crow  on  the  Bodhisatta's  breast  followed  close  on  each
+
+other.     The  crow  perching  put  his  beak  into  the  Bodhisatta's  eyes.     The
+
+crab  thought,   "It   was  through   this  crow  that  the  danger  came  on  my
+
+friend  :    if  I  seize  him   the  snake  will  come,"  so  seizing  the  crow  by  the
+
+neck  with  its  claw  firmly  as  if  in  a  vice,  lie  got  weary  and  then  loosed  him
+
+a  little.     The  crow  called  on  the  snake,  "  Friend,  why  do  you  forsake  me
+
+and  run  away  ?   this  crab  troubles  me,  come  ere  I  die,"  and  so  spoke  the
+
+first  stanza  :  —
+
+Gold-clawed  creature  with  projecting  eye.s.
+Tarn-bred,  hairless,  clad  in  Injny  shell.
+He  has  caught  me:  hear  my  woeful  cries!
+Why  do  you  leave  a  mate  that  loves  you  well  ?
+
+The  snake  hearing  him,   made  its  hood  large  and  came  consoling  the
+crow.
+
+
+The  Ma.ster  explaining  the  ea.se  in  liis   I'erfect  Wisdom  .spoke  the  second
+stanza  : —
+
+[296]  The  snake  foil  on  the  crab  amain,  his  friend  he'd  not  forsake:
+
+Futiing  his  mighty  hood  he  c-ame  :  but  the  crab  turned  on  the  snake.
+
+
+The  ci-ab  being  weary  then  loosed  him  a  little.  The  snake  thinking,
+"Crabs  do  not  eat  the  flesh  of  crows  nor  of  snakes,  then  for  what  reason
+does  this  one  seize  usl"  in  enquiry  .spoke  the  third  stanza  : —
+
+'Tis  not  for  the  .s<ikc  of  food
+
+Crabs  would  seize  a  snake  or  crow:
+Tell  me,  you  who.se  eyes  protrude,
+
+Why  you  take  and  grip  us  so?
+
+Hearing  him,  the  crab  explaining  the  rea.son  spoke  two  stanzas  : —
+
+This  man  took  me  from  the  pool,
+
+Grciit  the  kindne.ss  he  has  done ;
+If  he  dies,  my  gi'ief  is  full:
+
+Scri)ent,  he  anci  I  are  one.
+
+Seeing  I  am  gi-own  so  great
+
+All  would  kill  me  willingly :
+Fat  and  sweet  and  delicate.
+
+Crows  at  sight  would  injure  me  I
+
+[297]  Hearing  him,  the  snake  thought:  "By  some  means  I  must
+deceive  him  and  free  myself  and  the  crow."  8o  to  deceive  him  he  spoke
+the  sixth  stanza  : —
+
+
+186  The  Jataka.      Book    17.
+
+If  you  have  sei/ed  u»  only  for  his  sjvkc,
+
+I'll  take  the  poison  from  him:  let  him  rise:
+
+Quick  !  from  the  crow  jiiid  me  your  pincers  bvkc  ;
+Till  then  the  poison's  sinking  deep,  lie  dica.
+
+Hearing  bini  the  crab  thought,  '•  This  one  wishes  to  make  me  let  these
+two  go  by  some  nu'ans  and  then  run  away,  he  knows  not  my  skill  in
+device;  now  I  will  loosen  my  claw  so  that  the  snake  can  move,  but  1  will
+not  free  the  crow,"  so  he  spoke  the  seventh  stanza  : —
+
+[298]  I'll  free  the  snake,  but  not  the  crow  ;
+The  crow  shall  l>e  a  host^ige  Ixninil :
+Never  shall  I  let  him  go
+
+Till  my  friend  be  safe  and  sound.
+
+So  saying  he  loosened  his  claw  to  let  the  snake  go  at  his  ease.  The
+snake  took  away  th(>  poison  and  left  the  Bodhisatta's  body  free  from  it.
+He  rose  up  well  and  stood  in  his  natural  line.  The  crab  thinking,  "If
+those  two  be  well  there  will  be  no  pnisperity  for  my  friend,  1  will  kill
+them,"  crushed  l>oth  their  heads  like  lotus-buds  with  his  claws  and  took  the
+life  from  them.  The  sho-crow  Hed  away  from  the  place.  The  Hodhi.satta
+spiked  tJM^  snake's  body  with  a  stick  aiul  threw  it  on  a  bush,  let  the
+golden  crab  go  free  in  the  pool,  bathed  and  then  went  to  Salindiya.  From
+that  time  there  was  still  greater  friendship  between  him  and  the  crab.
+
+
+The  lesson  ended,  the  Mjvster  declared  the  Trutli.s,  and  identifying  the  Birth
+spoke  the  last  stanza : —
+
+"Mara  was  the  dusky  seri>ont,  Devadatta  was  the  crow,
+Good  Ananda  was  the  crab,  and  I  the  brahmin  long  ago."
+
+At  the  end  of  the  Truths  many  re^iched  the  First  I'ath  and  the  other  Paths.
+The  female  crow  was  Cificamanavika,  though  this  is  not  mentioned  in  the  last
+stiinza.
+
+
+No.  390.
+
+
+MAVHAKA-JATAKA.
+
+
+[299]  "Z>ifl?  ri:e  joij"  etc. — The  Master  told  this  while  dwelling  in  Jetavaiia,  of
+a  stranger  merchant.  There  was  in  Savatthi  a  stranger  merchant,  rich  and  of
+great  substance :  he  did  not  enjoy  his  wealth  himself  nor  give  it  to  others :  if
+choice  food  of  fine  tlavoui-s  was  served  he  would  not  eat  it,  eating  only  broth  of
+
+
+No.  390.  187
+
+rice-dust  with  sour  gruel ;  if  silkeu  clothes  i)erfumed  with  iuueuse  were  brought
+liiui  he  had  them  removed,  and  wore  clothes  of  coarse  hair-cloth  for  sugar ;  if  a
+chariot  adorned  with  jewels  and  gold  and  drawn  by  high-bred  horses  were  brought
+him,  he  h<ad  it  taken  away  and  went  in  a  broken-down  old  chariot  with  a  i)ani.sol
+of  leaves  overhead.  All  his  life  he  did  nothing  with  gifts  (ir  the  other  merits,  and
+when  he  died  he  was  born  in  the  hell  Horuva.  His  substance  was  heirless :  and
+the  king's  men  carried  it  into  the  i)alace  in  seven  days  and  nights.  When  it  was
+carried  in,  the  king  went  after  bre^ikfiist  Ut  Jetavana,  and  siiluted  the  Master.
+When  he  w;is  asked  why  he  did  not  wait  regularly  on  Buddha,  he  answered,
+"  Lord,  a  stranger  merchant  has  died  at  Savatthi :  seven  days  have  been  spent  in
+carrying  his  wealth,  to  which  he  left  no  heir,  into  my  house:  but  though  he  had
+all  that  wealth  he  neither  enjoyed  it  him.self  nor  gave  it  to  others :  his  wealth  was
+like  lotus-tanks  guarded  by  demons.  One  day  he  fell  into  the  jaws  of  death  after
+refusing  to  enjoy  the  Havour  of  choice  meiits  and  the  like.  Now  why  did  that
+selhsh  and  umleserving  man  gain  all  that  wealth,  and  for  what  reason  did  he  not
+incline  his  thoughts  t^)  the  enjoyment  of  it  ?"  This  was  the  question  he  put  to
+the  Master.  "  (ireat  king,  the  rea.son  why  he  gained  his  wealth  and  yet  did  not
+enjoy  it,  was  this,"  and  .so  at  his  request  the  Master  told  a  tale  of  old  times.
+
+Once  ui)on  a  time  when  Brahmadatt«i  was  king  in  Benares,  there  was  an
+unbelieving  .selfish  merchant  in  Benares:  he  gave  nothing  to  any  one,  he  pro-
+vided for  no  one.  One  day  going  to  wait  on  the  king  lie  .s;iw  a  p;iccckabudaha,
+named  Tagarasikhi,  l>egging,  and  .saluting  him  lie  asketl,  "Sir,  have  you  got
+alms?"  The  paccekabuddha  .said,  "Am  1  not  Ijegging,  merchant  T'  [30J]  The
+merchant  gave  orders  to  his  man,  "Go,  take  him  to  my  house,  set  him  on  my  seat
+and  give  liim  his  bowl-full  of  the  food  prei)ared  for  me."  The  man  took  him  to
+the  hoiLse,  set  him  down,  and  told  the  merchant's  wife:  she  gave  him  his  bowl
+full  of  food  of  excellent  Havoui*s.  He  taking  the  food  and  Iciiving  the  hoiLse  went
+along  the  .street.  The  merchant,  returning  from  court,  saw  him  and  .siiluting  asked
+him  if  he  had  got  food.  "  I  have,  merchant."  The  merchant,  looking  at  his
+bowl,  could  not  reconcile  his  will  to  it,  but  thinking,  "Had  my  slaves  or  work-
+{Hjople  eaten  this  fo<xl  of  mine  they  would  have  done  me  hanl  .service :  ahiH,  it  is
+a  loss  for  me  I"  and  he  could  not  make  the  after-thought  jwrfect.  Now  giving  is
+rich  in  fruit  only  to  cnie  who  can  make  the  three  thoughts  jKjrfect : —
+
+Did  we  joy  to  feel  the  wi.sh  to  give.
+
+Give  the  gift,  and  give  it  cheerfully,
+Ne'er  regret  the  giving  while  we  live,
+
+Children  born  of  us  would  never  die.
+Joy  before  the  bounty's  given,  giving  cheerfully.
+Pleasure  at  the  thought  thereafter,  that  is  i:)erfect  charity.
+
+So  the  stranger  merchant  gained  much  wealth,  by  reason  of  his  giving  alms  to
+Tagarasikhi,  but  he  could  not  enjoy  his  wealth  because  he  could  not  make  his
+after-thought  pui*e.  "Lord,  why  did  he  have  no  son/"  The  Master  said,  "O
+king,  this  was  the  cau.se  of  his  having  no  .son":  and  .so  at  his  request  he  told  a
+tale  of  old.
+
+
+Once  iipon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhi.sattiv  was  born  in  a  merchant's  family  worth  eighty  crores.  When
+he  grew  up,  at  his  parents'  death  he  provided  for  his  younger  brother  and
+carried  on  the  house  :  he  made  an  alms-chamber  at  the  house-door  and
+lived  as  a  householder  giving  much  in  alms.  One  son  was  born  to  him  ;
+and  when  the  son  could  walk  on  his  feet,  he  saw  the  misery  of  desires  and
+the  blessing  of  renunciation,  so  handing  over  all  his  substance  [301]
+together  with  Ids  wife  and  child  to  his  younger  brother,  he  exhorted  him
+
+
+188  Tht'  Jtitakii.      linnk    17.
+
+
+to  ('iiiitiiuic  iiliiii^iviii^  with  dili^fucu  ;  liicii  )i<:  U'Cttiiu'  un  H.s4-rit<-,  uud
+guiiiiii;^  llii-  FHciiltir.s  iiml  AltaiitinciitN  \iv  dwi-lt  in  tlix  llimaliiyM.  Thu
+younger  brutlirr  took  timt  oitu  Hon  :  but  Koeiiig  hint  grow  up  ho  thought,
+"  If  my  l>rotlii-r'N  hoii  livrn,  the  t*MtHtt<  will  )m'  diviiltMl  into  two  |taitA,  I  will
+kill  my  brotln-rM  Mon."  So  out?  (Iav,  ninkiitg  hun  in  a  river,  he  killetl  hiui.
+After  he  had  l>atlii-d  and  come  home,  liiit  brother'M  wile  a«ke«l  him,  "Whore
+is  my  Iwiy  ?"  "  He  wtiM  di«|>orting  hini.self  in  the  river:  I  lookeil  for  him
+but  cuuld  not  Ht'*'  him."  She  wept  and  >uiid  nothing.  Tlie  iliMihiiiattji,
+knowing  of  thi.s  nintl«*r,  thought,  "  I  Mill  make  thiM  buNineMt  public";  and
+NO  going  tlii-ou;^'li  till'  air  and  lighting  at  ll<>nan>M  in  fair  r»iiii«>nt  under  lUid
+upper,  lie  sto<Ml  at  tin'  diM)r;  not  weeing  the  aliiiH  ihamlM'r,  he  thought,  "'nint
+wicked  man  liaM  deNtn>ye«l  the  chMml>«>r."  The  younger  brother,  heiiring  of
+hi.s  coming,  cume  and  rtalutetl  the  I l4j< I h inat tA  and  taking  him  up  to  the
+roof  gave  him  g«M»d  IikhI  to  eat.  And  when  tin*  meal  wa«  over,  M*ated  for
+friendly  t^tlk  he  naid,  "My  non  tloeii  not  ap|M>«r :  where  M  hcl"  "Dead,
+my  lord."  "  In  what  way  I"  "At  n  liathing  place:  but  I  do  not  know  the
+exact  way."  '•  Not  know,  thou  wicke«l  iiinn  '  your  iIwhI  wo*  known  to  me:
+did  you  tiot  kill  him  in  that  way?  will  you  In*  able  to  ke«'p  tImt  wealth
+when  destroyi'd  by  king«  ami  othiTs  I  What  ilitFen'Uce  in  there  U'twwn
+you  and  the  Maylia  bird  I"  841  the  |l.Mn,,..»f.  f>x|M>uniliiig  the  law  with
+the  enMo  of  a  Itutldha  H^toke  theM«  Htanzit
+
+There  '\h  a  bini  calle<i  .MayhakiV,  in  mmintAin  cave  it  livoM:
+
+On  pijud  trwx  with  riin'iiing  fruit,  'mine,'  'mine'  the  cry  it  give*.
+
+[3«>2]  The  other  liinl.\  while  thiw  he  plaiiM,  in  fliK-bt  nUnit  him  fly:
+They  oat  the  fniit,  but  «till  giw«  on  the  Mnyha'M  pUiinti\'o  cry.
+
+And  even  .s«i  a  single  man  enonnout  we.»  •  vin,
+
+And  yet  may  not  divide  it  fair  l>etween  ,d  kin.
+
+Ni>t  onc»'  enjoymont  docn  he  rtvip,  of  nkiment  or  i»f  fo«id.
+Of  |>orfumc»  or  of  garlamln  gay;  nor  dooM  bin  kinnfolk  good.
+
+'Mine,  mine,'  he  whimjiop*  a.«*  he  gnanU  his  treiutureH  greedily:
+Hut  kind's,  or  n>blierj«,  or  hi.s  heir>«  that  wi.nh  to  hih}  him  die
+l'illjii;o  his*  wealth :    yet  .still  goew  on  the  miscr'.s  plaintive  cry.
+
+A  wis«  man,  gaining  riches  great,  i.s  helpful  to  hi«  kin
+
+'Tis  thu.s  he'll  win  repute  on  earth  and  heaven  hereafter  wm.
+
+[303]  So  the  (Jreat  Being  expounding  to  him  the  law  made  him  renew
+tlie  alms-giving,  and  going  to  the  Himalaya  pui>«ue«l  medit^ition  without
+interruption  and  so  went  to  the  Bnihmaloka  heaven.
+
+
+After  the  lesson,  the  M;t.stcr  .siiid.  "  .*>o,  groat  king,  the  str.mgcr  merchant  had
+neither  .son  nor  dnighter  for  all  that  time  liecAU-se  he  killo«I  his  brother's  tjon,"
+and  then  he  idcntitietl  the  Itirth  ••  ri<.^  ^-'Mnger  brother  wjvs  the  stranger
+nieivhant,  the  elder  was  myself.'
+
+
+No.    3D1.  181)
+
+
+No    391
+
+
+DIIAJAVIJIKTHA-JATAKA.
+
+^^  yMe  of  fact;''  f(,.  The  .M.i-ilcr  ti.Ul  ihi.s  while  ilwellmg  iii  JuUvana,  et»ii-
+ccniing  hm  goini;  HlM)iit  for  the  whole  worKl's  gtMnl.  The  iKOLHion  will  u|i|M.'ar  in
+the  Mnhiikaiiha  I'.irth'.  Then  the  .Miu*tcr  .-Miitl,  "Brethren,  this  \>^  not  the  tir^t
+time  the  Tathag.ita  luf*  gone  al>out  for  the  worhl's  g<>««l,"  and  ■♦o  Utld  an  old  tjile.
+
+
+Once  u|ion  u  time  w  ln-n  iJniiiniadatta  was  kiii;^  in  I'MiiareK,  the  licMJlii-
+iiatta  wiui  Siikka.  At  that  time  u  wizard,  u»injj;  liit*  ma^'ic,  came  at  miil-
+night  and  corrupte*!  the  chief  nueen  of  Benare.«*.  Her  handmaids  knew  of
+this.  She  hei-sflf  went  to  the  king  and  siii«l,  "  Your  nnijeHty,  .some  num
+entei-H  the  royal  chamber  at  midnight  and  eorru|ittt  me."  "  Couhl  y<»u
+make  any  mark  on  him  J"  *•  I  can."  So  hhe  got  a  bowl  of  real  vermilion,
+and  when  the  man  came  at  night  and  wan  going  away  afti-r  enjoyment,  she
+B«'t  the  mark  uf  her  tive  fingers  «mi  hin  l>ack  ami  in  the  morning  told  the
+king.  Tlie  king  gave  ordeni  Ut  his  men  to  go  an«l  looking  everywhere
+bring  a  man  with  a  vi-rmilion  nuirk  on  hih  biick.
+
+Now  the  wiiuird  after  \i'\n  misconduct  at  night  Htandn  by  day  in  a
+cemetery  on  one  foot  womhipping  tl«e  8un.  The  king'h  men  tuiw  him  and
+Rurroiuuled  h«m:  but  he,  thinking  that  his  action  had  U-cunie  known  t«»
+them,  ['iUtJ  UHed  hi«  magic  and  Hew  away  in  the  air.  The  king  ahke«l  his
+men  when  they  came  liack  from  Hoeing  this,  "  Did  you  Hee  him  t"  "  Yen,
+we  saw  him."  "Who  '\n  he?"  "A  IJrotlier,  your  uutjeHty."  F«)r  after
+his  misconduct  at  night  he  lived  by  day  in  disguise  «»f  a  Brother.  The
+king  thought,  "These  men  go  about  by  day  in  ascetic's  garb  and  miscondiict
+themselves  at  night;"  so  b<'ing  angry  with  the  Firethren,  he  adopted
+hereticjil  views,  and  sent  round  a  proclamation  by  drum  that  all  the
+Brethren  must  dejiart  from  his  kingdom  and  that  his  men  would  punish
+them  wherever  found.  All  the  ascetics  fle<l  from  the  kingdom  of  Kasi,
+which  was  three  hundred  leagues  in  extent,  to  other  royal  cities,  and  there
+was  no  one,  righteous  Buddhist  or  Brahmin,  to  preach  to  the  men  of  all
+Kasi  ;  so  that  the  men  without  preaching  became  savage,  and  lK«ing  averw
+to  charity  and  the  commandments  were  l»oi-n  in  a  state  of  piinishinent  for
+the  most  part  as  they  died,  and  never  got  birth  in  heaven.      Sakka,  not
+
+'    No.  4'»'.t,  vul.  IV.
+
+
+100  The  Jataka.      Hook    VI.
+
+
+seeing  any  new  gods,  reHected  on  what  the  iva«on  ntight  be,  and  saw  that
+it  was  the  expulsion  of  the  Brethren  iVoni  the  kingdom  by  the  king  of
+Benares  owing  to  his  adopting  lieretical  views  in  anger  about  the  wizard  :
+then  he  thoiiglit,  "  Except  myself  there  is  no  one  who  can  destroy  this
+king's  lieresy  ;  I  will  l>e  th»'  helper  of  the  king  and  his  subjects,"  so  he
+went  to  th«*  paccekabuddlias  in  the  Nandanifila  eave  and  said,  "  Sii-s,  give
+me  an  old  paccekabuddha,  I  wish  to  convert  the  kingdom  of  Kasi."  He
+got  the  s«'nior  aniong  them.  When  he  took  his  bowl  and  rol)es  Sakka
+set  him  before  and  eame  himself  after,  making  respectful  salutation  and
+venerating  the  paccekabuddha :  himself  becoming  a  beautiful  young
+Brother  he  went  thrice  round  the  whole  city  from  end  to  end,  antl  then
+coming  to  the  king's  gate  he  stoinl  in  the  air.  They  told  the  king,  "  Your
+majesty,  there  is  a  beautiful  young  Brother  with  a  priest  standing  in  the
+air  [305]  at  the  king's  gate."  The  king  rose  from  his  seat  and  standing  at
+the  lattice  said,  "  Young  Brother,  why  do  you,  who  are  beautiful,  sUmd
+venerating  that  ugly  priest  and  holding  his  b<iwl  and  rolx's  ? "  and  so
+talking  with  him  he  spoke  the  first  stanza: —
+
+Noble  (if  face,  yuu  make  ol)cisjinee  low;
+iieiiiiid  Kue  mean  and  jMMir  to  sight  you  go;
+Is  he  yi)ur  l»ettcr  <>r  your  e«iual,  .sjiy,
+Deelare  to  us  your  nan>e  and  his,  we  pray.
+
+The  Sakka  answered,  "  Great  king,  priests  are  in  the  place  of  teacher';
+therefore  it  is  not  right  that  I  should  utter  his  name:  but  1  will  tell  you
+my  own  name,"  .so  he  spoke  the  second  stiinza: —
+
+Gods  do  not  tell  the  lineage  and  the  name
+Of  saints  devout  and  perfect  in  the  way:
+
+As  for  myself,  my  title  I  proclaim,
+
+Sakka,  the  l<n\i  whom  thirty  ginls  olxjy.
+
+The  king  hearing  this  asked  in  the  third  stanza  what  was  the  blessing
+of  venerating  tlie  Brother  : —
+
+He  who  beholds  the  saint  of  jHirfect  merits,
+And  walks  Whind  him  with  olx;isance  low:
+[306]  I  ask,  0  king  of  gods,  what  he  inherits.
+
+What  blessings  will  another  life  be.stow  ?
+
+Sakka  replied  in  the  fourth  stanza  : —
+
+He  who  beholds  the  s«iint  of  jieifect  merits.
+
+Who  walks  behind  him  with  obeisance  low :
+Great  praise  from  men  in  this  world  he  inherits,
+
+And  death  to  him  the  path  of  heaven  will  sliow.
+
+The  king  liearing  Sakka's  words  gave  up  his  own  heretical  views,  and
+in  delight  spoke  the  fifth  stanzii : —
+
+'  It  is  wrong  to  tell  the  name  of  a  saintly  teacher,  cf.  Mah.ivagga  i.  74.  1,
+
+
+No.  391.  1^^
+
+
+Oh,  fortune's  aim  on  me  to-day  doth  rise,
+
+Our  eyes  have  seen  thy  majesty  divnie:
+Thy  saint  appears,  0  Sakka,  to  oiu-  eyes,
+
+And  many  a  virtuous  deed  will  now  be  innie.
+
+Sakka,  hearing  him  praising  his  miister,  spoke  tho  sixth  stanza  :—
+
+Surely  'tis  goijd  to  venerate  the  wise.
+
+To  knowledge  who  their  le-irned  thoughts  mchnc :
+
+N..W  that  the  saint  and  I  have  met  thme  eyes,
+O  kint,',  lot  many  a  virtunis  deed  be  thnie.
+
+[307]  Hearing  this  the  king  spoke  the  last  stanza  :—
+
+I'rom  anger  free,  with  grace  in  every  thought,
+
+I'll  lend  an  an-  whenever  strangei-s  sue:
+1  take  thv  counsel  go<Hl,   1   bring  to  nought
+
+My  pride  and  serve  thee,  Lonl,  witli  h..ma:4e  due.
+
+Havin.'said  so  In-  came  down  from  the  terrace,  salut«Ml  the  pacceka-
+buddha  anil  stood  on  one  side.  The  paccekabuddha  sat  cross-legged  in  the
+Hir  and  said,  "Great  king,  that  wizard  was  no  Brother:  henceforward
+recognise  that  the  world  is  not  vanity,  that  there  are  good  liuddhists  and
+Brahmins,  and  so  give  gifts,  practise  morality,  keep  the  holy-days
+preaching  to  the  king.  Sakka  also  by  his  ,»ower  stood  m  the  air,  and
+preachin-  to  the  townsfolk,  "Henceforward  be  zealous,"  he  sent  roun.
+proclamation  by  <lrum  that  the  Buddhists  and  Brahmins  who  had  fled
+should  return.  Then  both  went  back  to  their  own  place.  The  king  stoo«l
+firm  in  the  admonition  and  did  good  works.
+
+
+After  the  lesson,  the  Master  declared  the  Truths  and  identified  the  Birth  :-
+"At  that  time  the  paccekabuddha  reiiched  Nirvana,  the  king  was  Ananda,  Sakka
+was  myself."
+
+
+No.  392.
+
+BHISAPUPPHA-JATAKA.
+
+
+"  Yore  were  ner^er,"  etc.-The  Master  told  this  t<'^lt^'t>l«  f  ^^^"''f ,"  /f^f;^^^^^^
+concennng  a  certain  Brother.  The  story  is  that  ^he  Brother  had  left  Jetawma
+and  dwelt  in  the  Kosala  kingdon.  near  a  certain  ^^---^Z ^"«//;>  j  ^\"^' ^  ^Zh
+into  a  lotus-pool  [308],  and  seeing  a  lotus  in  flower  he  stood  to  lce^^ard  and  smelt
+
+
+192  Tlu    Jiitdka.      liuok    VI.
+
+
+it.  Then  tho  gmldcH-M  who  dwelt  in  that  j>art  of  the  forowt  frichUMiol  hiin
+huiviiig,  "Sir,  yoii  iirt*  a  thief  of  odourn,  thin  is  a  kind  «if  theft."  Hi'  went  \nu:k
+ill  Ji  friglit  to  Jetjivan/i,  and  Halutml  the  Mii.>»tcr  ami  fwit  down.  '*  Where  hove
+you  lx>«ii  Htavill^,  limther/"  "In  niich  and  .tiieh  a  wo<mI,  and  the  goddeiw
+frightt'netl  me  in  .Miieh  and  .inch  a  way."  The  Ma.nter  »Miid,  "  Vou  are  not  the
+tif>Ht  who  have  IxHri  fri^'litencd  \>y  u  gotlde»*.t  when  »nieUin^;  a  flower;  migCM  of  old
+have  l>een  frightcne<l  in  like  manner,"  and  at  the  Hn»ther'M  requittt  ho  told  an
+uld  tale.
+
+
+Once  u{)on  n  time  when  Hmhnwidatta  wiim  rei^nin^  in  H«*nHn>H,  the
+BtNlhisattA  waM  )>orn  in  a  hnthmin  family  of  a  village  in  Kani:  when  he
+^row  up  he  learneil  the  art.s  nt  Takka>tila,  and  ufterwardH  lN«came  an  ajicetic
+and  live«I  near  a  lotUH-|M>ol.  One  day  he  went  down  into  the  |kx)I  ami  stood
+smeilin;:;  a  lotuH  in  full  Mower.  A  j»od<h'}m  wht)  wo-s  in  a  liollow  in  a  trunk
+of  a  tree  alarming  him  M|H>ke  the  tintt  Mtanui  :
+
+You  wore  never  given  that  flower  you  Mniell,  though  itM  oidy  a  mingle  hloom;
+Ti.H  a  H|HH-ieM  of  larceny,  reverend  Hir,  you  are  ntealing  it«  iwrfunie.
+
+Then  the  HoilhiHattn  N|M>ke  the  Mi-ond  Ntunza:-
+
+I  neither  take  nor  hreak  the  flower:  fmni  afiir  I  xmell  the  hloom.
+I  cannot  tell  on  what  pretence  you  ««y  I  ^teiil  ficrfunie.
+
+.\t  the  same  moment  a  nuin  wax  di};^ng  in  the  {xxd  for  lotUH.(ibn-H  and
+hreukiiii;  the  lotu.s-plantH.  The  Hodhisattai  H«>eing  him  Maid,  "Vou  call  a
+num  thief  if  h«'  smells  the  flower  from  afar:  [30'J]  why  ilo  you  not
+8|)euk  to  that  other  man  ?  "  So  in  talk  with  her  hf>  >i|M>ke  the  third
+stanza  :-
+
+A  man  who  digs  the  |..t.i.-.-i. -..;.-.  and  hri'Alw  the  Mtalk-H  1  nee:
+Why  don't  you  call  the  conduct  of  that  man  disorderly  ^
+
+The  ^od«les8,  explaining  why  .she  did  not  .s|H-ak  to  him,  H|>oke  the
+fourth  and  fifth  stan/os  : —
+
+Di.spu.sting  like  a  nurse's  dre.s.s  arc  men  disorderly :
+
+1   have  no  speeih  with  men  like  him,  but   I  deign  to  >t])eak  to  thot*.
+
+When  a  man  i.s  fn»e  fnnn  evil  .stains  and  .seeks  for  purity,
+
+A  sin  like  a  hair-tip  shows  on  him  like  a  dark  cloud  in  the  sky.
+
+So  alarmed  liy  her  the  Bodhisatta  in  emotion  .spoke  the  sixth
+stanzji  : —
+
+Surely,  fairy,  you  know  me  well,  t<i  pity  me  you  deign:
+If  you  .see  me  ilo  the  like  offence,  pray  sjieak  to  me  again.
+
+Then  tlie  goddess  spoke  to  him  the  seventh  stanza  : —
+
+I  am  not  here  to  serve  you,  no  hireling  folk  are  we  :
+Find,  Brother,  for  yourself  the  i»ath  to  reach  felicity.
+
+
+No.    392.  193
+
+[310]  So  exhorting  him  she  entered  her  own  abode.     The  BodhisatU
+«Mitt*rt;d  on  h'\"]\  n»ediU\tion  and  was  horn  in  tht-  Brahumloka  worl.l.
+
+
+The  lesson  oiuletl,  tlie  .M:i.stcr  dcHlaretl  the  Tnithw,  and  idontiliwl  tlie  Birth:—
+at  tlu-  iiiil  of  tlie  Truths,  tht-  Brother  wius  i-stablislu-d  in  the  fruit  of  tlie  Fii-st
+I'ath:     "At  that  time  the  j,'imIiU'hs  wjls   L'piialavanna,  the  liseetic  myself.'
+
+
+No.  393.
+
+V|f;ilASA-J.'VT.VK.\.
+
+
+Kaist  <
+
+
+'ipi>'/  lit''  M  lheir$,"  el,:-  The  MiLstcr  told  this  Ulo  while  dwelling  in  the
+,^.„v  -iiinren/tonnrninK  some  brethren  wh<i  were  jjiven  t)  unuLsement.  The
+KMXit  Moiruali.ina  hud  shak.-n  their  dwellin;;  and  alarm.-tl  them.  The  nn'thren
+H.it  dist  u.H.sinK'  tlieir  fiudt  in  the  Hall  of  Truth.  The  M.i-ster  l«ing  t^.ld  tins
+Hjiid  t.>  them,  "They  are  not  given  t«  anmM;ment  for  the  tirst  time,"  and  so  told
+an  old  tule.
+
+
+Once  ujKjn  a  time  wh.n  Brahnuiduttu  wiw  reigning,'  in  B^-nareH,  the
+Bo,lhisuttH  was  Sakka.  Sev.-n  lin.the.-s  in  a  certain  village  of  Kiisi
+Heeing  the  evil  of  ihsires  had  renounce*!  them  and  In-come  nHCetics:  they
+dwelt  in  Meijliarafifui  hut  liv.d  in  variouH  kinds  of  uniUMement,  not
+practising  devotion  diligently  and  heing  of  full  habit  of  Udy.  Sakka,
+king  of  gotl.s,  said,  *'  I  will  alarm  them;"  and  so  he  iM-cau.e  a  parrot,  camo
+to  their  dwelling-plac«'  and  jK-rching  on  a  tree  H|»oke  the  rtiiit  stanza  to
+alarm  them: —
+
+[311]  Happy  life  is  theirs  who  live  on  remnants  left  fn^u  charity :
+Pniise  in  this  world  is  their  lot,  and  in  the  next  felicity.
+
+Then  one  of  them  hearing  th.-  parrot's  words  calh-.l  to  the  rest,  and
+
+Hi>oke  the  second  stanza  ; —
+
+Should  not  wise  men  lisU-n  when  a  iMim.t  .si.caks  in  human  t«ngiic:
+Hearken,  brethren:  'tis  our  pmises  dearly  that  this  bin!  hfu»  sung.
+
+Then  the  parrot  denying  this  spoke  the  third  stanza : —
+
+
+Not  your  praises  I  am  singing,  carrion-witers :  list  to  me,
+Refuse  is  the  food  you  eat,  not  remnant-,  l-ft   tr.in  .  hanty.
+
+
+J.  ill.
+
+
+13
+
+
+194  The  Jataka.     Book    VI.
+
+When  they  heard  him,  they  all  together  spoke  the  fourth  stanza  : —
+
+Seven  years  oi-duinoil,  with  duly  t<tii.Hurod  hair,
+
+In  ^lejJh^l^a^l^la  hero  we  spend  our  days,
+Living  on  reninants:  if  you  ulanic  our  tai\>,
+
+Who  is  it  then  you  praise/
+
+The  Great  Being  spoke  the  fifth  stanza,  putting  them  to  shame :  —
+
+Leavings  of  the  lion,  tiger,  ravening  boa.st,  are  your  supply :
+Refuse  truly,  though  ye  call  it  remnants  left  fn>m  iharity.
+
+[312]  Heai-ing  him  the  ascetics  said,  "If  we  are  not  eaters  of
+remnants,  tlien  who  pray  are]"  Then  he  telling  them  the  true  meaning
+spoke  the  sixtli  stanza  : —
+
+They  who  giving  alms  to  priests  and  brahmins,  wants  to  s^itisfy
+Eat  the  rest,  'tis  they  who  live  on  riMnnants  left  from  charity.
+
+So  the  Bodhisatta  put  them  to  shame  and  went  to  his  own  place.
+
+
+After  the  le-sson,  the  Mjustcr  de<.laretl  the  Truths  and  identified  the  Hirth  :
+"  At  that  time  the  seven  brothers  were  the  sj^rtive  Brethren,  Sakka  wa.s
+myself."
+
+
+No.  394.
+
+
+VATTAKA-JATAKA.
+
+"  Oil  and  butter"  etc. — The  Master  told  this  while  dwelling  in  Jetavana,
+concerning  a  gi-eedy  Brother.  Finding  that  he  was  greedy  the  Ma.ster  said  to
+him,  "  This  is  not  the  first  time  you  are  greedy  :  once  before  through  greed  in
+Benares  you  were  not  satisfied  with  Ciirca.'^es  of  elephants,  oxen,  hon^es  and  men  ;
+and  in  hopes  of  getting  better  food  you  went  to  the  forest;"  and  .so  he  told  an  old
+tale.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  as  a  quail  and  lived  in  the  forest  on  rude  grass  and
+seeds.  At  the  time  there  was  in  Benares  a  greedy  crow  who,  not  content
+with  carcases  of  elephants  and  other  animals,  went  to  the  forest  in  hopes
+of  better  food :  eating  wild  fruits  there  he  saw  the  Bodhisatta  and
+thinking  "  This  quail  is  very  fat  :  1  fancy  he  eats  sweet  food,  I  will  ask
+
+
+No.   394.  195
+
+him  of  liis  food  and  eatinj;  it  l)fcoine  fat  myself,"  lie  ])erclied  on  a  bough
+.ihove  the  Bodhisatta.  The  Bodliisatta  [313],  without  being  asked,  gave
+him  greeting  and  spoke  the  fii'st  stanza  : —
+
+Oil  and  butter  are  your  victuals,  nunile  ;  rich  your  food,  I  trow  :
+Tell  me  then  what  is  the  reason  of  your  leanness,  nuister  crow.
+
+Hearing  his  words  the  crow  spoke  three  stanzas  : —
+
+I  dwell  in  midst  of  many  foes,  my  heart  goes  pit-a-pat
+In  terror  as  T  seek  my  food  :  how  can  a  crow  Ijc  fat  ?
+
+Crows  si>end  their  lives  in  fear,  their  wits  for  mischief  ever  keen ;
+The  bitH  they  pick  are  not  enough  ;   good  quail,  that's  why  I'm  Iwin.
+
+Rude  gnuss  and  see<ls  are  all  your  food  :  there's  little  richness  there  :
+Then  tell  me  why  you're  fat,  go<Kl  quail,  on  such  a  scanty  fare.
+
+The  Bodhisatta  hearing  him  spoke  these  stanzas,  explaining  the  reason
+of  his  fatness  : —
+
+I  have  content  and  ea.sy  mind,  short  distiinces  to  go,
+1   live  on  anything  I  get,  and  so   I'm  fat,  gotxl  crow.
+
+Content  of  min<l,  and  happiness  with  little  care  of  h&irt,
+A  stiUiilard  easily  attained  :   that  life's  the  Ijctter  part.
+
+
+[314]  After  the  lcs.son,  the  MjLitcr  declared  the  Truths,  and  identified  the
+Birth  : — At  the  end  of  tlie  Truths  the  Brother  Wiw  estjiblishcd  in  the  fruition  of
+the  First  I'ath  :  "At  that  time  the  crow  was  the  greedy  Brother,  the  quail  wa«
+myself"
+
+
+No.  395.
+
+K.\KA-J.VrAK.\'.
+
+"  Our  old  frietid"  etc. — The  Master  told  this  tale  while  dwelling  in  Jetavana,
+concerning  a  greedy  Brother.     The  occasion  is  as  alx>ve.
+
+
+Once   upon   a  time  when   Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  a  pigeon   and   lived  in  a  nest-basket  in  the  kitchen   of  a
+
+1  Cf.  DO.  42,  vol.  i. ;  no.  274,  vol.  ii.
+
+13—2
+
+
+196  The  Jataka.     Book   VI.
+
+
+Benares  merchant.  A  crow  becanie  intimate  witli  him  and  lived  there
+also.  Here  the  story  is  to  be  expaiuU-d.  The  cook  pulled  out  the  crow's
+feathers  and  sprinkled  him  with  Hour,  then  piercing  a  cowrie  he  hung
+it  on  the  crow's  neck  and  threw  liinj  into  a  basket.  The  Botlhi.satta
+came  from  the  wood,  and  Boeiug  him  made  a  jt-.st  an<l  spoke  the  first
+stanza  : —
+
+Our  old  friond  !  look  at  him  !
+
+A  jewel  bright  he  weans  ;
+Hi.s  bean!  in  gallant  trim,
+
+How  gay  our  friond  api>cnrs  I
+
+[SIT)]  The  crow  hearing  him  spoke  the  second  .stanza  : —
+
+My  nails  and  hair  bad  gi-own  .so  fa-st,
+
+riioy  liami>ere<l  mo  in  all  I  did  :
+A  barWr  came  along  at  la-st,
+
+And  of  .HUl)erfluou^s  hair  I'm  rid.
+
+Tlion  the  Budhi.satta  spoke  the  third  stanza  : —
+
+(1  ranted  you  got  a  b.irl>er  then.
+
+Who  has  cropiHHl  your  hair  .so  well  :
+Round  your  neck,  will  you  explain,
+
+What'.s  that  tinkling  like  a  bell  '.
+
+Tlien  the  crow  uttered  two  stanza.s  : —
+
+Men  of  fa.sbion  wear  a  gem
+
+Hound  the  neck  :  it's  often  done  :
+I  am  imitiiting  tbcm  :
+
+Don't  supiHise  it's  just  for  fun.
+
+If  you're  really  envious
+
+Of  my  beard  that's  trimmed  so  true  :
+1  can  get  you  barbercd  thus  ;
+
+Vou  may  have  the  jewel  too.
+
+The  liodhisatta  hearing  him  spoke  the  si.xtli  stanza  : —
+
+Nay,  'tis  you  they  best  become,
+
+Gem  and  beanl  that's  trimmed  so  true.
+
+1  find  your  presence  troublesome  :
+1  go  with  a  good-d.ay  to  you.
+
+[316]  With  these  words  he  flew  nji  and  went  elsewhere  ;  and  the  crow
+died  then  and  there.
+
+
+After  the  les.son,  the  ^Lister  declared  the  Truths  and  identified  the  Birth  : —
+After  the  Truths,  the  greedy  Brother  was  established  in  the  fruition  of  the  Third
+Path  :  "  At  that  time  the  crow  was  the  greedy  Brother,  the  pigeon  was  myself."
+
+
+BOOK    VII.      SATTANIPATA.
+
+No.  396.
+
+kikku-jAtaka.
+
+[3171  "  The  vrrd'.i  a  r>,hit;'  <'/r-.-The  Miuster  toUl  this  while  dwelling  in
+.IcUivana,  concerning  the  aanioniti..n  of  a  king.  The  occasion  will  apiKjar  ni
+tlic  Tesjikuna-Birth'.
+
+
+Unce  upon  a  time  when  BrahniadatUi  was  reigning  in  Benares,  the
+r.oilhisatta  wa-s  his  councillor  in  things  temporal  and  spiritual.  The  king
+was  set  on  the  way  of  the  evil  courses,  ruled  his  kingdom  unrighteously
+and  collected  wealth  by  oppressing  the  people.  The  Bodhisatta  wishing  to
+admonish  him  goes  about  looking  for  a  parable.  Now  the  king's  bed-
+chamber was  unfinished  and  the  roof  was  not  complete  upon  it :  the  rafters
+supported  a  peak  but  were  only  just  set  in  position.  The  king  had  gone
+and  taken  his  pleasure  in  the  park  :  when  he  came  to  his  house  he  looked
+up  and  saw  the  round  peak  :  fearing  it  would  fall  upon  him  he  went  and
+stood  outside,  then  looking  up  again  he  thought  "  How  is  that  peak
+re.sting  so?  and  how  are  the  rafters?"  and  asking  the  Bodhisatta  he
+spoke  the  tirst  stanza  : —
+
+[318]  The  i>e<ik's  a  cubit  and  a  half  in  height,
+
+Eight  spans  will  compass  it  in  circuit  round,
+Of  simsiii)a  and  sara  built  aridit :
+Why  does  it  stand  so  .sound?
+
+Hearing  him   the  Bodhisatta  thought  "  I  have  now  got  a  parable  to
+admonish  the  king,"  and  spoke  these  stanzas  : —
+
+The  thirty  rafters  Ijent,  of  sara  wood,
+
+Set  equally,  encompass  it  around,
+They  pres.s  it  tightly,  for  their  hold  is  good  :
+
+'Tis  set  aright  aud  sound.
+
+'  No.  521,  vol.  V.
+
+
+11)8  The  Jcitaka.     Hook    VI 1
+
+So  i.s  the  wi.se  umu,  girt  by  faitlitui  frioiul?*,
+
+Hy  stcjulfiust  counsellorM  i\iiil  pure  :
+Never  frnin  heij,'lit  of  fortimo  he  dasceiulH  :
+
+A.s  riiftor>t  hold  tho  jtcak  secure.
+
+[.nuj  Whik'  tlie  Bodhituittu  was  sjK'akiiig,  the  king  consideretl  his  own
+conduct,  "  If  there  is  no  peak,  the  rafters  do  not  stand  fast ;  the  peak  iloes
+not  .stand  if  not  held  l»y  the  raftrrs  ;  if  the  i*aftors  hreuk,  the  j>eak  falls  :  and
+even  so  a  bad  king,  not  hokling  togctlier  hi.s  friend.s  and  ministei-s,  his  unnicH,
+his  bi-ahmins  and  householders,  if  these  hrt'ak  up,  is  not  held  hy  them  but
+falls  from  his  power:  a  kin;;  must  be  righteous."  At  that  instant  they
+brought  him  a  citron  a.s  a  present.  The  king  said  tu  the  Bodhi.satta,
+"  Friend,  eat  this  citron."  Tho  BcMlhisatta  took  it  and  said,  "  O  king,
+people  who  know  not  how  to  eat  tliis  make  it  bitter  or  acid  :  but  wi.se  men
+who  know  take  away  the  bitter,  and  without  removing  the  aci«l  or  s|»oiling
+tho  citron-flavour  they  eat  it,"  and  by  this  parable  he  showed  the  king  the
+means  of  collecting  wealth,  and  spokf  two  stan/as  : —
+
+The  rough -nki lined  litmii  bitter  is  to  oat,
+If  it  remain  uiitouehtHl  by  carver's  .Htocl  :
+
+Take  but  the  pulfi,  ()  king,  and  it  is  swet>t  :
+Vou  sjtoil  the  sweolnes.s  if  you  add  the  i>eel.
+
+Kvon  so  tho  wi.so  man  without  violence,
+(lathers  kiiig'.s  dui»  in  village  and  in  town,
+
+lnertM.ses  wealth,  an<l  yet  gives  no  ottencc  ;
+He  walks  the  way  of  right  and  of  renown.
+
+[320]  The  king  taking  counsel  with  the  Bodhisatta  went  to  a  lotu.s-Umk,
+and  .seeing  a  lotu.s  in  Hower,  with  a  hue  like  the  new-ri.sen  sun,  not  defiled
+by  the  wat«r,  he  sjiid  :  "  Friend,  that  lotus  grown  in  the  water  stands
+undefiled  by  the  water."  Then  the  P>odhisjitta  sjiid,  "()  king,  so  should  a
+king  be,"  and  spoke  these  stanzas  in  admonition  :
+
+Like  the  lotus  in  the  piM>l,
+
+White  roots,  watei-s  pure,  su.st.iin  it;
+In  the  sun's  face  Howering  full.
+
+Dust  nor  nmd  nor  wet  can  sUiin  it.
+
+So  the  man  whoni  virtues  rule.
+
+Meek  and  pure  and  giKxl  we  .style  him  :
+
+Like  the  lotus  in  the  ikkjI
+Stain  of  sin  cannot  defile  him.
+
+[321]  The  king  hearing  the  Bodhisatta's  admonition  afterwards  ruled
+his  kingdom  righteously,  and  doing  good  actions,  charity  and  the  rest,
+became  destined  for  hea\  en.
+
+
+After  the  lesson,  the  Master  declared  the  Truths  and  identified  the  Birth ;
+"At  that  time  the  king  was  Ananda,  the  wise  minister  my.sclf."
+
+
+No.  397.  199
+
+
+No.  397.
+
+MANOJA-.IATAKA.
+
+
+"  T/te  lx}ic  is  bent"  etc. — Tlie  Miusier  toltl  thi.s  while  dwelling  in  the  Bamboo
+Grove,  conceniing  ii  Brother  who  kept  b.ul  conipuny.  The  ocaision  was  given
+at  length  in  the  Mahilriiniikhati  liirth'.  The  Mjustcr  said,  "Brethren,  he  is
+not  keeping  Iwid  company  for  the  first  time,"  and  t4^)ld  an  old  tale.
+
+
+Once  npon  a  time  when  IJrahniadatta  was  reigiiing  in  Benares,  the
+Hudhisatta  was  a  lion  and  living  with  a  lioness  had  two  children,  a  son  and
+a  daughter.  The  .son's  name  was  Manoja.  When  he  grew  up  he  took
+a  young  lioness  to  wife  :  and  so  they  became  five.  Manoja  killed  wild
+buffaloes  and  other  animals,  and  so  got  flesh  to  feed  his  parents,  sister  and
+wife.  [.32l']  One  day  in  his  hunting  ground  he  Siiw  a  jackal  culle<l  Giriya,
+unalfle  to  run  away  and  lying  on  his  belly.  "  Jiow  now,  friend  I"  he  .Siiid.
+•  I  wish  to  wait  on  you,  my  lord."  "  Well,  do  so,"  So  he  took  the  jackal
+U>  his  den.  The  IJ«Klhisatta  seeing  him  said,  "  Dear  Manoja,  jackals  are
+wicked  and  sinners,  and  give  wrong  advice  ;  don't  biiug  tliis  one  near  you:"
+but  could  not  hinder  him.  Then  one  day  the  jackal  wished  tx)  eat
+hoi-seflesh,  and  said  to  Manoja,  "Sir,  except  horseflesh  there  is  nothing
+we  have  not  eaten  ;  let  us  take  a  horse."  *'  lint  where  are  there  horses,
+friend?"  "At  Benares  by  the  river  bank.'  He  took  this  advice  and
+went  with  him  there  when  the  hoi^ses  bathe  in  the  river  ;  he  took  one
+hoi-se,  and  throwing  it  on  his  back  he  came  with  speed  to  the  mouth  of
+his  den.  His  father  eating  the  horseflesh  said,  "  Dear,  horses  are  kings'
+property,  kings  have  many  stratagems,  they  have  skilfiil  archers  to  .shoot ;
+lions  who  eat  horseflesh  don't  live  long,  henceforward  don't  take  horses."
+The  lion  not  following  his  father's  advice  went  on  taking  them.  The  king,
+hearing  that  a  lion  was  tiiking  the  horses,  had  a  )mthing-tank  for  horses
+made  inside  the  town  :  but  the  lion  still  came  and  took  them.  The  king
+had  a  stable  made,  and  had  fodder  and  water  given  them  inside  it.
+The  lion  ciime  over  the  wall  and  took  the  horses  even  from  the  stable.
+The  king  hatl  an  archer  called  who  shot  like  lightning,  and  asked  if  he
+could  shoot  a  lion.  He  said  he  could,  and  making  a  tower  near  the
+wall  where  the  lion  came  he  waited  there.  The  lion  came  and,  posting  the
+jackal  in  a  cemetery  outside,  sprang  into  the  town  to  take  the  horses.    The
+
+'  No.  2»;,  vol.  i.  p.  18.5.
+
+
+200  The  JiVnk'i.     Hook    VII.
+
+
+iuclier  tliiiikiug  "His  h\hh'A  is  very  great  when  lio  comes,"  did  not  shoot  him,
+but  wlicu  he  wiis  going  away  aftrr  taking  a  linrsr,  haniiw-n-d  l>y  tl>e  h«'avy
+weight,  he  hit  him  with  a  sharp  arrow  in  the  himl  i|uart«-i-s.  'V\\v  arrow
+came  out  at  his  trout  quaiters  and  Hew  iu  the  air.  [3"J3]  The  lion  yelled
+"I  am  shot."  The  archer  after  shooting  him  twanged  Ids  how  like  thunder.
+The  jackal  hearing  the  noise  of  lion  and  how  siiid  to  himself,  "  My  comrade
+is  shot  and  must  he  killed,  there  is  no  friendsliip  with  the  dead,  I  will  now
+go  to  my  olil  home  in  the  wootl,''  aind  so  he  s|>oke  two  stanuis  : —
+
+The  Ixiw  is  Inint,  the  bow.string  sounds  amain  ;
+Maiiiija,  king  t)f  lH3ii.st.s,  my  friend,  is  slain.
+
+Aliis,   I  seek  the  woods  ju*  Ijust  I  may  :
+
+Sueli  friendship's  naught;    others  must  he  my  stiy.
+
+The  litin  with  a  rush  came  anil  threw  the  hoi-se  at  the  den's  luouth,
+falling  dead  himself.  His  kinsfolk  came  out  and  saw  him  hlood-stained,
+lilood  flowing  from  his  wounds,  dead  frt)m  following  the  wicked  ;  and  his
+father,  mother,  sister  and  wife  seeing  him  spoke  four  stanzius  in  order  : —
+
+iiis  fortune  is  not  prosiHjrous  whom  wickeii  folk  entice  ;
+l.,ook  at  Maiioja  lying  tlierc,  through  Uiriya's  mlvicc.
+
+No  joy  have  mntliers  in  a  .sou  whose  comrades  arc  not  gixnl:
+Look  at  Manoja  lying  there  all  coverc«l  with  his  I)1<mh.1.
+
+And  even  so  fares  still  the  man,  in  low  estate  he  lies,
+
+Wlio  follows  not  the  counsel  of  the  tmc  friend  and  the  wi.«ic.
+
+This,  or  worse  than  thi.s,  his  fate
+Who  is  high,  but  trusts  the  low  :
+[324]  See,  'tis  thus  from  kingly  state
+Ho  luus  fallen  to  the  bow.
+
+Lastly,  the  stanza  of  the  Peifect  Wisdom  :  —
+
+Who  follows  outc«uit.s  is  him.self  out  ciust,
+
+Who  court**  his  equals  ne'er  will  Ik:  Ijctraycd,
+
+Who  bows  before  the  noble-st  rises  fjust ;
+Look  therefore  to  thy  betters  for  thine  aid.
+
+
+After  the  lesson,  the  Master  dedaretl  the  Truths  and  identitied  the  P.irth  : —
+After  the  Truths  the  brother  who  kept  bad  company  was  estivblishe<l  in  the
+fruition  of  the  Fii-st  Path: — "At  that  time  the  jackal  wjus  Devadatta,  Manoja
+wa.s  the  keeper  of  bad  company,  his  sister  wa.s  Uppalavanna,  his  wife  the  Sister
+Khema,  his  mother  the  mother  of  Rahula,  his  father  myself."
+
+
+No.   398.  201
+
+
+No.  398.
+
+
+SUTANO-JATAKA.
+
+
+'"  Tfie  Kiixj  h'lA  ,v>nt"  etc. — The  M;i.stcr  told  this  talc  while  dwelling  in  .leUi-
+v.iii.i,  concerning  a  Drothcr  who  .supixjrtcd  his  mother.  The  occasion  will
+appear  in  the  Sama'  iJirtli.
+
+
+[325]  Once  upon  a  time  wlien  Brahmadutta  was  reigning  in  Benares,
+the  Bodhisiitta  was  born  in  the  family  of  a  poor  householder  :  they  called
+his  name  Sutana.  When  he  grew  up  lie  earned  wages  and  supported  his
+parents  :  when  his  father  died,  he  supported  liis  mother.  The  king  of
+tliat  day  was  fond  of  hunting.  One  day  he  went  with  a  great  retinue  to  a
+forest  a  h^ague  or  two  in  e.xtent,  and  made  proclamation  to  all,  "  If  a  deer
+escape  Ity  any  man's  [)08t,  the  man  is  fined  the  value  of  the  deer."  The
+ministers  having  made  a  concealed  but  by  tlie  regular  road  gave  it  to  the
+king.  The  deer  were  roused  by  the  crying  of  men  who  had  surrounded  their
+lairs,  and  one  anteloiw?  came  to  the  king's  post.  The  king  thought,  "  I  will
+hit  him,"  and  sent  an  arrow.  The  animal,  who  knew  a  trick,  saw  that  the
+arrow  was  coming  to  his  broadside,  and  wheeling  round  fell  as  if  wounded
+by  the  arrow.  The  king  thought,  "I  have  liit  him,"  and  rushed  t^j  seize  him.
+The  deer  rose  and  fled  like  the  wind.  The  ministers  and  the  rest  mocked
+the  king.  He  pursued  the  deer  and  when  it  wa.s  tired  he  cut  it  in  two
+with  his  sword  :  hanging  the  pieces  on  one  stick  he  came  sis  if  carrying  a
+pole  and  saying,  "  I  will  rest  a  little,"  lie  drew  near  to  a  banyan  tree
+by  the  road  and  lying  down  fell  asleep.  A  yakkha  called  Makhadeva  was
+reborn  in  that  banyan,  and  got  from  Vessavana^  all  living  things  who  came
+to  it  as  his  foo<l.  When  the  king  rose  he  said,  "  Stay,  you  are  my  food,"
+and  took  him  by  the  hand.  "Who  are  you?'  said  the  king.  "I  am
+a  yakkha  born  here,  I  get  all  men  who  come  to  this  place  as  my  food."
+The  king,  taking  good  heart,  a.sked,  "  Will  you  eat  to-day  only  or  continu-
+ally ?"  "I  will  eat  continually  what  I  get.'  "Then  eat  this  deer  to-day
+and  let  me  go ;  from  to-morrow  I  will  send  you  a  man  with  a  plate  of  rice
+every  day."  "Be  careful  then:  on  the  day  when  no  one  is  sent  [326]  I
+will  eat  you."  "  I  am  king  of  Benares  :  there  is  nothing  I  cannot  do."  The
+yakkha  took  Ins  promi.se  and  let  him  go.  When  the  king  came  to  the  town,
+he  told  the  case  to  a  minister  in  attendance  and  asked  what  was  to  be  done.
+
+'  No.   oM,  vol.  VI.  -  Kin),'  of  the  yakkLa.s.
+
+
+202  TIk-  Jataka.     Booh    VII.
+
+"  Was  a  limit  of  tiiim  tixt-d,  O  king  <"  "No."  "  TImt  \vii.s  wrong  when
+you  were  about  it  :  but  never  mind,  there  are  many  nien  in  the  jail."
+'*  Then  do  you  manage  this  affair,  and  give  mo  life."  The  ministt'r  agreetl,
+and  taking  a  man  from  the  jail  every  day  sent  him  to  the  yakkha  with  a
+|)lat<!  ot"  rice  without  telling  him  anything.  The  yakkha  eats  Ixjth  rice  and
+man.  After  a  time  the  jails  became  eu)|»ty.  The  king  finding  no  cue  to
+carry  the  rice  .shook  with  fear  of  death.  The  nunist«'r  comforting  him  said,
+"O  king,  desire  of  wealth  is  stronger  than  desire  of  life  :  let  us  put  a  packet
+of  a  thou.sand  pieces  on  an  elephant's  back  and  make  proclamation  by  drum,
+'  Who  will  take  rice  and  go  Ui  the  yakkha  and  get  this  wealth  I'"  and  lie
+did  so.  The  liodhi.satta  thought,  "  I  get  pence  and  halfjKMK-e  for  my  wages
+and  can  hardly  support  my  mother  :  I  will  get  this  wealth  and  give  it  her,
+and  then  go  to  the  yakkha  :  if  I  can  get  the  betU>r  of  him,  well,  and  if  I
+cannot  she  will  live  comfortably"  :  so  he  told  his  mother,  but  she  said,  "I
+have  enough,  <lear,  I  don't  neetl  wealth,"  and  .so  forbade  him  twice  ;  but  the
+tlnrd  time  without  asking  her,  he  aaid,  "Sirs,  bring  the  thoustind  pieces,  I
+will  Uike  the  rice.''  So  he  gave  his  mother  the  thou.sand  pieces  and  said,
+"  Don't  fret,  di-ai- ;  I  will  overcome  the  yakkha  and  give  happiness  to  the
+peo[)lc  :  I  will  (.(inii-  making  your  t^^-arful  face  to  laugh,"  antl  so  saluting
+her  he  went  to  the  king  with  the  king's  men,  and  saluting  him  8too<l  there.
+The  king  said,  "My  good  man,  will  you  take  the  ricel"  "  Ye.s,  O  king."
+"What  should  you  take  with  you?"  [3-7]  "Your  golden  slippers,  O
+king."  "  Why  }"  "  O  king,  that  yakkha  gets  to  eat  all  p«'ople  standing  on
+the  ground  at  the  foot  of  the  tree  :  1  will  stand  on  slipp(?rs,  not  on  his
+ground."  "  Anything  el.se?  '  "  Your  umbrella,  O  king.'  "Why  so?"
+"  O  king,  the  yakkha  gets  to  eat  all  people  standing  in  the  shade  of  his  own
+tree  :  I  will  stand  in  the  shade  of  the  umbrella,  not  of  his  tree."  "  Any-
+thing else?"  "  Your  sword,  O  king."  "  For  what  purpo.se?''  "O  king,
+even  goblins  fear  those  with  weapons  in  their  hands."  "Anything  else?"
+"  Your  golden  bowl,  O  king,  tilled  with  your  own  rice."  "  Why,  gootl
+man?"  "It  is  not  meet  for  a  wise  man  like  me  to  take  coarse  food  in  an
+earthen  dish.  "  The  king  consented  and  sent  officers  to  give  him  all  he
+asked.  The  Bodhisatta  said,  "  Fear  not,  O  great  king,  1  will  come  back  to-
+day having  overcome  the  yakkha  and  caused  you  happine.ss,"  and  so
+taking  the  things  needful  and  going  to  the  place,  he  set  men  not  far  from
+the  tree,  put  on  the  golden  slippers,  girt  the  sword,  put  the  white  umbrella
+over  his  head,  and  taking  rice  in  a  gold  dish  went  to  the  yakkha.  The
+yakkha  watching  the  road  saw  him  and  thought,  "This  man  comes  not  as
+they  came  on  the  other  days,  what  is  the  reason?''  The  Bodhisatta  draw-
+ing near  the  tree  pushed  the  plate  of  rice  in  the  shadow  with  the  sword-
+point,  and  stjinding  near  the  shadow  spoke  the  first  stanza : —
+
+The  king  has  sent  tlico  rice  prepared  and  .sciisoncd  well  with  meat:
+If  Makluulcva  is  at  home,  let  him  come  forth  and  cat  I
+
+
+No.  398.  203
+
+[328]  Hearing  him  the  yakkha  thought,  "  I  will  deceive  him,  ami  eat
+him  when  he  comes  into  the  shadow,"  and  so  he  spoke  the  second  stanza  : —
+
+Come  inside,  young  man,  with  your  seasoned  food,
+Both  it  and  you,  young  man,  to  e;it  are  good.
+
+Then  the  Bodhisatta  spoke  two  stanzas : —
+
+Yakkha,  you'll  lose  a  gr&it  thing  l\>r  a  small.
+Men  fearing  dej\th  will  bring  no  food  at  all.
+
+You'll  have  good  supply  of  cheer,
+
+Pure  and  sweet  and  Bavoured  to  yi»ur  mind:
+
+But  a  man  to  l)riiig  it  here.
+
+If  you  eat  ine,  will  he  hard  to  find.
+
+[329]  The  yakkha  thought,  "  The  young  man  speaks  sense,"  and  l>eing
+well  disposed  spoke  two  stanzas  : —
+
+Young  Sutiuji,  my  interests  are  clc<irly  na  you  show :
+Yisit  your  mother  then  in  i»eju;e,  you  have  my  l&ive  to  go.
+
+Take  sworti,  and  para.sol,  jind  dish,  young  man,  and  go  your  ways.
+Visit  your  mother  hapi>ily  and  hriiig  her  hap[)y  days.
+
+Hearing  the  yakkha's  words  the  Bodhisatta  was  plea-sed,  thinking,  "  My
+task  is  accomplished,  the  yakkha  overcome,  much  wealth  won  and  the  king's
+wt)rd  made  good,"  and  so  rftunum,'  thanks  to  the  yakkha  he  spoke  a  final
+stanza : —
+
+With  all  thy  kith  ami  kin,  yakkhiu,  right  hapi)y  may  you  be :
+
+The  king's  command  hius  Ix'cn  i>erfonued,  and  wealth  has  anno  to  me.
+
+So  he  admonished  the  yakkha,  saying,  "  Friend,  you  did  evil  deeds  of
+(dd,  you  were  cruel  ami  hai-sh,  you  ate  the  Hesh  and  bloo<l  of  others  and  so
+were  born  as  a  yakkha:  from  henceforth  do  no  murder  or  the  like:"  so
+telling  the  blessings  of  virtue  and  the  misery  of  vice,  he  established  the
+yakkha  in  the  tive  virtues  :  then  he  said,  "  Why  dwell  in  the  forest  ?  come,
+I  will  settle  you  by  the  city  gate  and  make  you  get  the  best  rice."  So
+he  went  away  with  the  yakkha,  making  him  take  the  sword  and  the  other
+things,  and  came  to  Benares.  They  told  the  king  that  Sutana  was  come
+with  the  yakkha.  The  king  with  his  miuistt-rs  [330]  went  out  to  meet  the
+IJodhisattii,  settled  the  yakkha  at  the  city  gate  and  made  him  get  the  best
+rice  :  then  he  enteretl  the  town,  made  proclamation  by  drum,  and  calling  a
+meeting  of  the  townsfolk  spoke  the  pmises  of  the  Bodhisatta  and  gave  him
+the  command  of  the  army  :  himself  was  establi.she<l  in  the  Bodhisatta's
+teaching,  did  the  good  works  of  charity  and  the  other  virtues,  and  became
+destined  for  heaven.
+
+
+After  the  le.s.son,  the  Master  declared  the  Truths,  and  identified  the  P>irtli : —
+After  the  Truths,  the  Brother  who  supportetl  his  mother  wa.s  esUiblished  in  the
+fruition  of  the  First  Path:— "At  that  time  the  Yakkha  wa.s  Aiiguli  mala,  the  king
+Ananda,  the  youth  myself."
+
+
+204  7V-    .lnt.,L,        li.,.,t     VII
+
+No.  399.
+«;iJjiiA-JAr.vK.v.
+
+••///</'   inll  tif  itlii  jiJk*,     el,:.      Tlio   MiiHtt-r  ti>ltl   tliln  mIhmi  tlMflllli^  III  Jrlii-
+vuiui,  coiiivniiiig  u  Hntthor  wlm  ftii|>|Mirti>l  lim  nmthrr
+
+
+OiitT  u|)oii  n  tiiiM'  whuii  llniliin««luttA  wiui  n'ifpting  in  Itt'uanis  tho
+lloilhiMitta  wiiM  U>ni  of  a  vultiin*.  Whon  hv  grvw  up  Ih'  put  hi.H  pnrtMilN,
+now  old  niitl  iliiii  of  %>\i\  in  u  vuliun''H  mvi*  nnd  f^l  ihnu  hy  )>ringing
+tlifiii  ilittli  of  ct>wM  itnti  till'  like.  At  tli«<  tinir  u  certain  huntiT  Uid  iinnnvt
+for  vulturi'M  all  iilmut  a  IUmiahmi  i*(Mnpt4)i7'.  Ono  tiny  thv  Itocihiiwtta
+.(u)((kiii^  for  Mi'mIi  niiiip  to  the  ii(nirt('ry  und  caught  hiii  for)t  in  tho  iinjirrH.
+Ill'  dill  not  think  of  hiiiiM'lf,  hut  n'iiirin)H'ri<<l  hiii  old  (MinMitM.  "  liow  will
+my  iHirtnt.i  liv<>  now  (  I  think  thry  will  dip,  igiiormnt  thnt  I  «ni  miight,
+hrl|>|i'H.H  Hiid  dcMtituto,  wiutting  awuy  in  thnt  hill-cnvi> :  "  no  lann-nting  ho
+H|M>ki'  till'  tiiMt  Ntiin/Jt  : —
+
+lIow  will  tho  old  follot  niAiiAgv  now  within  tho  m<»intAin  t'Avn  '
+For   1   am  fattcnoil  in  a  miiait,  cniet   NiIIva'**  mU
+
+[331]  Tlu»  Hon  of  a  huntrr,  hearing  him  lam.  iw,  -.j-ik.  tu.-  •..•.i.ihI
+Htiin&i,   tli«'  vnlturt*  H|M>kt*  th«>  third,  and  mo  on  ult<riiat«'ly  :
+
+Vultiiro,  what  Mtmngo  UniontM  i>f  yoiipt  arc  thcHo  tny  oant  tlvit  roach  \
+\  lu'vpr  hcani  or  haw  a  hinl  tlutt  nttrml  huiiiAn  ^puoch.
+
+I   toiid  luy  ugwl  jhirt'titM  within  a  uioiintain  oivc,
+
+How  will  tho  old  folk.H  nmn<igo  now  tliat  I've  bccoiuc  your  iilavo  f
+
+Carrion  a  vulture  Mightn  AcnwM  a  hundrvil  loagucn  of  land;
+Why  do  you  fAil  to  nco  a  .Huam  aim!  net  mo  cIom  at  hand  \
+
+When  ruin  o>mcH  ujion  n  inAii,  And  fatt'fi  hin  death  dpniaiid.
+Ho  fail.H  to  .soo  A  .Hiiarw  «>r  net  although  so  i-li)«o  At  hand.
+
+(}o,  tend  your  Age«l  parvnts  within  their  nioiuitain-rAVo,
+
+(Jo,  vi.'iit  them  in  jkvicc,  you  Iiavc  from  me  the  leave  you  crave.
+
+()  hunter,  hAppinos.s  be  thine,  with  all  thy  kith  and  kin  :
+I'll  tend  my  agcil  (tArents  their  niountain-cave  within.
+
+Then  the  Bo<lhi.sjittA,  fnKKl  from  the  fear  of  d»*ath,  joyfully  g>tve  thanks
+and  spoaking  a  tiual  stanza  took  his  mouthful  of  meat,  and  went  away  and
+gave  it  to  his  |>aivnt«i.
+
+
+.\rt«.r  the  Ie.s.H..ii,  tlie  .M;i.ster  d»>l.in>l  the  Truths  and  ideiititie«l  the  Uirth  : —
+After  the  Truths,  the  Brother  was  estahli.sheil  in  the  fruition  of  the  Kii>tt  Path  : —
+[.^32]  ".\t  that  time,  the  hunter  w;i.s  riiann.-i,  the  iwrontH  were  king'M  kin,  the
+vulture  kiuir  mvself."
+
+
+"fji
+
+
+Xo.    400.  205
+
+
+No.  400.
+
+
+nAHHM.M'I   I'I'IIA -lATAKA.
+
+^^  Friend  Anullmci'irJ,"  «•/«'. — The  Mjistor  told  thiM  while  dwelling  in  Jeta-
+vnn;i,  conceniing  r]tnnand/i,  «»f  the  Sukyji  tril*.  He  wjw  nnlaineii  in  the  faith,
+hilt  forH4M)k  the  virtues  t>{  contentiiioiit  an<l  tlu-  rf.st  ami  Kvanie  very  greedy.
+At  the  Ix'giniiiiig  of  the  rain.s  he  trie*!  two  or  thrc«;  niona.steries,  leaving  at
+one  an  lunhrella  or  a  .sh'X',  at  one  a  walking-ntick  or  a  water-jxit,  and  dwell-
+in  one  hini.>M'lf.  He  liegan  the  min.s  in  a  iouiitry-niona.st«'ry,  and  staying,
+'ho  Hrethren  nnwt  live  eontenteilly,"  explaineii  to  the  Hn-thren,  its  if  he
+wen»  making  the  ntoon  rinc'  in  the  nky,  the  way  to  the  noble  ntate  of  i-ontont,
+praiNing  eontentnient  with  the  ntvejvwirit-M.  Hearing  him  the  l'>rethren  threw
+iiway  their  |>leif»j»nt  roliew  and  veju^'ln,  and  took  jnitH  of  clay  and  rtAutt  of  du^t-
+ragH.  He  put  the  ottiepH  in  his  own  Imlging.  and  when  the  rainn  and  the
+luivanuiA  festival  were  over  he  tillitl  a  cart  and  went  to  JeUivanjk.  On  the  way,
+iii>hind  a  nioiiiLHt<-ry  in  the  foront,  wnipping  Imh  feet  with  creeiierM  an<l  njiying,
+"Surely  something  cjin  U*  got  here,"  he  entere»i  the  mon^i-'Htery.  Two  oUl  ItrethrtMi
+had  .H|>t*nt  the  rain.n  there  :  they  had  got  two  euantc  eliMik.s  and  one  tine  Manket,
+an«l,  a."*  thev  could  not  divitlu  them,  thov  w<rv  ple<i««l  t4)  «•«  hint,  thinking,  "TIum
+Klder  will  divide  the«f  lM«tw«?»-n  m  I,  "Sir,  we  cannot  dividi*  thi«  which  in
+
+raiment  for  the  mihh;  we  have  .i  Jmut  it,  do  you  divide  it  Iwtwii-n  iw."
+
+He  c<jn.Hent4-d  and  giving  the  tw<>  (••.ijn*.*  clonkn  to  them  he  Utttk  the  Manket,
+Haying,  "Thi.s  falls  to  me  who  know  the  nt!*-'  <>f  diftcipline,''  and  went  away,
+ThcHo  KMer^,  wh"  |o\«il  the  blanket,  weii-  n   to  Jetavaiiit,  and  told  the
+
+matt«T  to  tin-  r.p'f!ir»'!!  w)\'>  kifw  th^  ru'  "N  it  ri'/hf  f<>r  tlu»m  wIkj
+
+know  the  ml-  •    pile  of  rolurM
+
+and  IniwU  l>r'  it  merit,  you
+
+have  gaintsl  m.;  h  I  --1  -^■..■i  i-i.:..i  iit.  lli  ^.U'l,  ■'."^ir.-i,  \\hLjc  i.->  my  merit/  I
+gaiiitsi  thin  ill  suih  .md  mii  h  a  tiiaiimr,'  t<-lhn;^'  them  all.  In  the  HjiU  of  Truth
+thev  rai.se*!  a  '     '  "  i,  of  the  S^ikva  tri)>e,  is  v«»rv  coVetoUM
+
+andgn»sly."  r  subject,  .said,  " Hrolhrn«,  I  {tanandAH
+
+decs  Ls  an-  n<'t  -u;t<.i  i  i  ip^p --  .  winn  i  I'rothfr  explains  progress  to  another
+he  .should  fimt  act  nuit^tbly  himwdf  an<l  then  preach  t^i  othem,''
+
+VoupM'lf  fip+t  hUtblish  in  pn»priety,
+
+'I'hcn  tcjich  ;    the  wiitc  ithoidu  not  sclf-ticcking  be.
+
+Hy  thiM  HtAii/ii  of  the  DhammajMida  he  Hhciwcd  the  law  and  Kaid,  "  Hruthen«,
+L'|>anan<!a  i.s  not  covetous  f<>r  the  tirMt  time  ;  he  wom  no  before  aiic!  lie  plundcrc<!
+men'n  pn>j>erty  U-forc " :  and  .so  lie  told  an  old  tale.
+
+
+Once  u|»on  n  tiim-  wb«-n  iW-uhiiiadattu  was  nif^ning  in  lt<-iiare«,  th<*
+Iktdhi.Hutta  was  a  tn-e^pirit  by  a  river-l>ank.  A  jiu'kal,  name<l  Mayavi,
+had  taken  a  wife  and  livetl  in  a  place  by  that  river-ljank.  One  day  his
+mate  said  to  him,  "  Husl>and,  a  longing  ha^t  come  uj»on  me;  I  denire  to
+eat  a   frv»h  rohita   tish.'"      He  K.iifl,    "  lie  t-a-sy,    I    will   bring  it  you,'    and
+
+'    Li.  1  "Ik-tore  Juuniiil,  jv.  .I'i,  Iti^tiin  Jalrt,  |).  .'j;VJ.
+
+
+206  Thr  Jritnhi.      liu>,L-    \'ll.
+
+
+going  by  the  river  he  wnipt  his  feet  in  creept^rs,  and  went  ahing  the  bunk.
+At  the  moment,  two  otters,  (Ijunbhlracftrl  and  Amitiracarl,  were  standing
+on  the  Imnk  looking  for  tish.  (iunilihirurtirl  saw  a  great  rohita  fish,  and
+enteriuLC  the  water  with  a  bound  \\v  t»x)k  it  by  the  tiiil.  The  fish  was
+strong  and  went  away  dragging  him.  He  calh'd  to  the  other,  "This  great
+fish  will  be  enough  for  ImjIIi  of  us,  come  and  aid  me,"  s|)eaking  the  first
+stanza  : —
+
+Friend  Anutlriic;\rl,  ni-nh  to  my  aid,   I   nniy  :
+
+I'vf  iaui,'bt  u  ^'M'ut  I'lsli  :    but  by  fone  he's  carrying  me  uwiv.
+
+y.V.W  j  Hearing  him,  the  other  8|K)ke  tlu*  secojul  stan/a : —
+
+(iand)hlracrirl,  luck  to  you  !    your  ijrip  lie  tirm  und  stout.
+And  as  a  roi;  would  lift  a  snake,  I'll  lift  the  fellow  out.
+
+Then  tlie  two  together  took  out  the  rohita  fisli,  laid  him  on  the  ground
+and  killed  him  :  but  .saying  each  to  tlie  other,  "  You  divid<'  him,"  tljoy
+quarrelled  and  could  not  divide  him  :  ami  so  sat  down,  leaving  him.  At
+the  moment  the  jackal  came  to  the  sj)ot.  Seeing  him,  th«»y  l)oth  saluted
+him  and  said,  "  Ix)rd  of  the  grey  grass-colour,  this  fish  wa.s  taken  by
+botii  of  us  together:  a  dispute  aro.se  U-cause  we  couhl  not  ilivide  him:  do
+you  make  an  equal  division  and  part  it,"  s|)oaking  the  third  stanza: —
+
+A  strife  an>.sc  U-tween  u.s  niark  !    <)  thou  of  ^Ta-swy  hue,
+Let  our  contention,  honourotl  sir,  lie  settled  fair  by  you.
+
+The  jackal  hearing  them,  said,  declaring  his  own  strength  : —
+
+I've  arbitratetl  many  a  case  and  done  it  peacefully:
+
+Let  your  contention,  honoured  sirs,  be  .settled  fair  by  me.
+
+Having  spoken  that  stanza,  and  making  the  division,  he  sjwke  this
+stanzji : —
+
+Tail,  Anutiracarl  ;   CSambhlracarl,  head  :
+
+The  middle  t^i  the  arbiter  will  proj^erly  l>c  {wiid.
+
+[335]  So  having  divided  the  tish,  he  .s^iid,  '"  You  eat  head  and  tail
+without  quarrelling,"  and  seizing  the  middle  ])ortion  in  his  mouth  he  ran
+away  before  their  eyes.  They  sat  downcast,  as  if  they  had  lost  a  thousand
+pieces,  and  sjwke  the  sixth  stanza  : —
+
+But  for  our  strife,  it  would  have  long  sufficed  us  without  fail  :
+But  now  the  jackal  takes  the  fi.sh,  and  leaves  us  head  and  tail.
+
+The  jackal  was  pleased  and  thinking  "Now  I  will  give  my  wife  rohita
+fish  to  eat,"  he  went  to  her.  She  saw  him  coming  and  sabiting  him  spoke
+a  stanza  : —
+
+Even  as  a  king  is  glad  to  join  a  kingdom  to  his  rule.
+So  I  am  glad  to  see  my  lord  to-day  with  his  mouth  full.
+
+
+No.   400.  207
+
+Tlien   she   asked   him    about    the    ineaus    of    attainment,    speaking    a
+stanza  : —
+
+How,  being  of  the  land,  have  you  from  water  caught  a  fish  ?
+How  did  you  do  the  fesit,  my  lord  ?  i)ray  answer  to  my  wish.
+
+The  jackal,  explaining  the  means  to  her,  spoke  the  next  stanai :  —
+
+By  strife  it  is  their  we;ikness  comes,  by  strife  their  means  decay  :
+liy  strife  the  ottei-s  lost  their  prize  :    ^layavi,  eat  tlu-  prey.
+
+[3.3G]   There   is  another    stj\nza    uttered    by   the    Perfect    Wisdom    of
+liuddha  :—
+
+Even  so  when  strife  arises  among  men,
+
+They  seek  an  arbiter  :    he's  leader  then  :
+
+Their  wealth  decay.s,  and  the  king's  cofters  gain.
+
+
+After  the  lesson,  the  M.ister  derlare«l  the  Truths  and  identitied  the  Birth: —
+"At  that  time  the  jackal  was  Upaiianda,  the  ottei-s  the  two  old  men,  the  ti-ee-
+.spirit  who  witnes.sed  the  rau.se  was  myself."
+
+
+No.   401.
+
+
+DASA.NNAKA-JATAKA.
+
+
+^^  Dasanna's  t/ood  giroril,"  etc. — The  Mjister  told  this,  when  living  in  .Jetavana,
+concerning  the  temptation  of  a  Brother  by  his  wife  when  a  layman.  The
+Brother  confessed  that  he  was  back.sliding  for  this  rea.son.  The  Miuster  mul,
+"That  woman  does  you  harm:  formerly  t(X)  you  were  dying  of  mental  sickness
+owing  to  her,  and  got  life  owing  to  wise  men,''  and  so  he  told  a  tale  of  old.
+
+
+[337]  Once  upon  a  time  when  the  great  king  Maddava  was  reigning
+in  Benare.s,  the  BodhisatUi  was  born  in  a  Vjrahmin  hou.sehold.  They  called
+his  name  young  Senaka.  When  he  grew  up  he  learned  all  the  .sciences  at
+Takkasila,  and  coming  back  to  Benares  he  became  king  Maddava's  counsellor
+in  things  temporal  and  sj>iritual,  and  being  called  wise  Senaka  he  was  looked
+upon  in  all  the  city  as  the  sun  or  the  moon.  The  son  of  the  king's  house-
+hold priest  came  to  wait  on  the  king  and  seeing  the  chief  queen  adorned
+with  all  ornaments  and  exceedingly  beautiful,  he  became  enamoured,  and
+
+
+208  The  JaUika.      Book    VII.
+
+wliou  In-  wfiit  hoiiM'  hiy  without  taking  food.  Hin  coiunide*  vut|uinHl  of
+him  ami  ho  tolil  them  thw  mattiT.  The  king  naid,  "The  homtchoUl  pricwt't
+iM)n  do«H  not  u{>|>tiir,  how  in  thin!"  Wlu»n  \\v  hi-anl  the  caa««,  h«  M«?nt  for
+him  iind  wiid,  "I  givt*  \wv  U^  you  for  Mt>v<»n  days,  m»cnd  those  dayt  at  your
+huuNi>  and  on  thr  eighth  Mond  her  iMck."  IIu  Haid,  "Very  well,"  and  taking
+lier  t4»  hiH  hmiw  t<H)k  delight  with  her.  They  liecame  enamounHl  of  rach
+oUier,  and  keeping  it  mn-n-t  they  fh-d  hy  the  Iioum*  door  and  came  t«»  the
+c*»untry  of  another  king.  No  man  knew  the  plaw  they  went  to,  and  their
+|»uth  wiiM  like  the  way  of  a  ahip.  The  king  ma(le  proclamation  l)y  drum
+round  the  fity,  and  though  h«>  nought  in  numy  wayn  he  did  not  find  the
+place  whither  hIh'  had  gone.  Then  great  »«»rn»w  for  her  fell  u|ion  him  :  his
+heart  l»«>can»o  hot  and  |>oun'd  out  KIimmI  :  after  that  Mood  Mowitl  fron»  hia
+entniilM,  and  hi.s  itickneKH  iN-cnmo  gn-at.  Tl»e  great  royal  phynicianM  could
+nut  cure  him.  The  IkKlhiiuitta  thought,  "Tlie  diM-oM*  i«  not  in  the  king,
+ho  ia  touchtnl  hy  mental  Hickm^iw  tM>cauiie  he  ne«>s  not  hi«  wife  :  I  will
+cuH"  him  hy  a  certain  means ",  wi  he  inHtrnctinl  the  king's  wijw  couiuMdlom,
+Avui-n  anil  I*ukku.Ha  hy  name,  aaying,  "The  king  han  no  Kick mwa,  except
+meittal  Hickn<>M  U'cauHe  he  M«e«  not  the  queen  :  now  ho  i«  a  great  hel|)er
+ti)  u.H  and  we  will  ctire  him  hy  a  certain  mean* :  [33S]  we  will  have
+a  gi\tliering  in  the  |Milac«'  yurd  and  nuike  a  man  who  known  how  to  do
+it  Hwallow  a  Mword  :  we  will  put  the  king  at  a  window  and  nuke  him
+look  down  on  the  gathering  :  the  king  tweing  tht>  man  Mwallow  a  aword
+will  ask,  '  Ih  there  anything  hanler  than  that  1 '  Tlien,  my  lord  Ayura,
+you  hhould  make  an-swer,  *  It  in  banlcr  to  Hay  'I  give  up  bo  and  •o'":
+then  he  will  a.sk  you,  my  lord  PukkuHa.jiud  you  ahould  nuike  aiutwer,
+"O  king,  if  a  man  say*,  '  I  give  up  ho  and  «o '  an<l  do«'H  not  give  it,  hia
+wonl  is  fruitleaa,  no  men  live  or  eat  or  drink  hy  auch  wortla  ;  hut  they
+who  do  occording  to  that  worti  and  give  the  thing  according  to  their
+■promiHo,  they  do  a  thing  hauler  than  the  other:  then  I  will  Hnd  what
+to  do  next."  So  he  made  a  gathering.  Tlien  theac  thn-e  wi«e  men  went
+and  told  the  king.  Having,  "O  gn^t  king,  therv  in  a  gathering  in  the
+|Milace-yard  ;  if  nien  look  down  on  it  their  Horrow  )>ecomes  joy,  let  ua  go
+thither":  so  they  took  the  king,  and  o|)i>ning  a  window  made  him  look
+down  on  the  gathering.  Many  people  weir  nhowing  off  each  hia  own
+art  w  hich  he  knew  :  and  a  man  wiui  .swallowing  a  goc^l  swonl  of  thirty-
+three  inches  ami  shai^i  of  etlge.  The  king  aetMug  him  thought,  "  Tliia  man
+is  swallowing  the  sword,  I  will  a.sk  thejte  wise  men  if  there  is  anything
+harder  than  that":   so  he  asktnl  Ayuni,  speaking  the  first  stanza  :  —
+
+'  Dftsnnna's  ginnl  .swoni   tliir>t.s  for  hhxid,  it.«*  edge  \i^  !<hnr|enrd  jtrfectly:
+Vet  "niitlst  the  cnnvd  he  xwallows  it:    a  hanler  feat  there  caiumt  !«:
+I  ft.sk  if  iinything  is  haul  c»jmiv\red  to  thi.n:    pn»y  answer  me.
+
+■  A  kingdoui  iu  Central  India,  api(arvntly  a  Mcat  i)f  the  sword-making  art.
+
+
+No.   401.  209
+
+[339]  Then  he  spoke  the  second  stanza  in  answer : —
+
+Greed  may  lure  a  nian  to  swallow  swords  though  sharpened  iHjrfcctly :
+Hut  to  nay,  '  I  give  this  freely,'  that  a  harder  feat  would  be ;
+All  things  else  are  oa«y ;    n.yal  Migadha,  I've  answered  thee.
+
+When  the  king  heard  wise  Ayura's  words,  he  thought,  "  8o  thru  it  is
+harder  to  say,  •  I  give  this  thing,"  than  to  swallow  a  sword  :  I  said,  '  I  give
+my  quLH-u  to  tlu-  prirst's  son':  I  have  done  a  very  hard  thing":  and  so  his
+sorrow  at  heart  Ui.-anie  a  little  lighu-r.  Then  thinking,  "Is  there  anything
+harder  than  to  say,  'I  give  this  thing  to  another' I"  he  talked  with  wis*-
+Pukkusa  and  sjnike  the  thinl  stjinza: —
+
+Ayura  has  .s«)lvod  my  (piestion,  wise  in  all  phil«i««>phy  :
+
+I'ukkusa  I  ask  the  <'ju«««ti«.n  now,  if  hanh-r  fmt  there  \>c:
+
+Im  thcrv  aught  that's  hard  comiwirwl  t^.  this  /  pray  answer  me.
+
+The  wise  Pukkusa  in  answer  to  him  spoke  the  fourth  stanza:  —
+
+Not  by  words  men  live,  and  not  by  language  tittered  fniitleHsly  :
+But  to  give  and  n<it  regret  it,  that  a  greater  feat  would  Iw  :
+All  things  else  are  easy;  myal   MAgatlha,   I've  answereii  thee.
+
+[340]  The  king,  hearing  this,  considere«l,  "  I  first  said.  *  I  will  give
+the  qiHMMi  Ui  thf  priest's  son,'  and  then  I  did  acc«»rdiug  to  my  word  and
+gave  her:  surely  I  have  done  a  hanl  thing":  mo  his  sorrow  iMJcamo  ligliUr.
+Then  it  came  into  his  mind.  "There  is  no  one  wis«-r  than  wise  84-naka,  I
+will  ask  this  question  of  him"  :  and  asking  him  he  s|)oke  the  fifth  stanza  :—
+
+Pukkusa  ha/*  si»lvoil  my  «iur«li<in,  wis«  in  all  phil<«»«»phy  :
+S©naka  I  ask  the  quwtion  imw,  if  hanler  foat  there  Ito :
+Is  there  aught  that's  liard  com|»arc«l  Ut  this  f  pray  answer  me
+
+So  Senaka  sp«jke  the  sixth  sUnza  in  answer  to  him  :—
+
+If  a  man  should  give  a  gift,  or  small  or  great,  in  charity.
+Nor  regri't  the  giving  afUT:  that  a  harder  feat  would  U' :
+All  things  else  arc  easy:  royal  Magadlui,   I've  answerwl  thee
+
+The  king,  hearing  the  Bodhisatta's  wonK  nflectwl :  "  I  gave  the
+que<>n  to  the  priest's  son  of  my  own  thought  :  [341]  now  I  cannot  control
+my  thought,  I  sorrow  and  pine  :  this  is  not  worthy  of  me.  If  she  IovjhI
+me  she  would  not  forsake  her  kingdom  and  fl»'C  away:  what  have  I  to  do
+with  her  when  she  has  not  loved  mo  but  rte<l  iiway  ?"  As  he  thought  thus,
+all  his  sorrow  rolled  away  and  dei«rt«l  like  a  drop  of  water  on  a  lotus  leaf.
+That  instant  his  entrails  were  at  re«t.  He  Ix-came  well  and  happy,  and
+praise(l  the  Ik)dhisatta,  sp^-aking  the  final  stanza : —
+
+Ayura  answered  qrieHtion,  gtKxi  Pukkusa  as  well  :
+The  words  of  Senaka  the  wise  all  answers  do  excel.
+
+And  after  this  praise  he  gave  him  much  wealth  in  his  delight.
+
+
+J.   III.
+
+
+14
+
+
+210  The  Jdtaka.     Book    VII.
+
+
+After  the  lesson,  the  Mjvster  declared  the  Truths,  and  identified  the  Birth  : —
+after  the  Truths,  the  l«u:kslidiiij,'  Hrothcr  was  e.stahli.she*!  in  the  fruitit.n  of  the
+First  Path  :— "  At  that  time  the  queen  was  the  wife  of  his  laynmn  days,  the
+king  the  backsliding  Brother,  Ayura  wjus  Moggalliuiu,  Pukkuaa  waa  Sariputta,
+and  the  wise  Senaka  was  myself."
+
+
+No.  402.
+
+SATTUBH  ASTA-JATAKA '.
+
+"  TJiou  art  confuseJ"  etc. — The  Master  told  this  when  staying  in  .letiivana,
+coiuorning  the  Perfection  of  Wisdom.  The  occaHiuii  of  the  Htory  will  apiKjar  in
+the  I'mmugga-Birth-.
+
+
+Onco  uj)on  a  timo  a  kinj;  called  Janaka  was  rcignin;;  in  Benares.  At
+that  time  the  Budhi.sattji  was  )>orn  in  a  hrahmin  family,  and  th(>y  caIUhI
+his  name  young  Senaka.  When  he  grew  up  be  learned  all  the  arts  at
+Takkasilii,  and  returning  to  Benares  saw  the  king.  The  king  set  him  in
+the  place  of  minister  and  gave  him  great  glory.  [342]  He  taught  the
+king  things  temporal  and  spiritual.  Being  a  pleasant  preacher  of  the  law
+he  estiiblished  the  king  in  the  five  precepts,  in  alms-giving,  in  keeping  the
+fasts,  in  the  ten  ways  of  right  action,  and  so  estahli.shed  him  in  tlie  path  of
+virtue.  Throughout  the  kingdom  it  was  as  it  were  the  time  of  the  appear-
+ing of  the  Buddhas.  On  the  fortnightly  fast  the  king,  the  viceroys  and
+others  would  all  assemble  and  decorate  the  place  of  meeting.  The  Bodhi-
+sattix  taught  tlie  law  in  a  decorated  room  in  the  middle  of  a  deer-skin-
+couch  with  the  power  of  a  Buddha,  and  his  word  was  like  the  preaching  of
+Buddhas.  Then  a  certain  old  brahmin  begging  for  money-alms  got  a
+thousand  pieces,  left  them  in  a  brahmin  family  and  went  to  seek  alms
+again.  When  he  had  gone,  that  family  spent  all  his  pieces.  He  came
+back  and  would  have  his  pieces  brought  him.  The  brahmin,  being  unable
+to  give  them  to  him,  gave  him  his  daughter  to  wife.  The  other  brahmin
+took  her  and  made  his  dwelling  in  a  brahmin  village  not  far  from  Benares.
+Because  of  her  youth  his  wife  was  unsatisfied  in  desires  and  sinned  with
+another  young  brahmin.  There  are  sixteen  things  that  cannot  be  satisfied  :
+and  what  are  these  sixteen  ?     The  sea  is  not  satisfied  with  all  rivei-s,  nor
+
+'  See  Folk-lore  Jouriud,  iv.  175,  Tibetan  Tales,  viii.  *  No.  .54(5,  vol.  vi.
+
+
+No.  402.  211
+
+the  tire  with  fuel,  nor  a  king  with  his  kingdom,  nor  a  fool  with  sins,  nor  a
+woman  with  three  things,  intercourse,  adornment  and  child-bearing,  nor  a
+brahmin  with  sacred  texts,  nor  a  sage  with  ecstatic  meditation,  nor  a  sekha'
+with  honour,  nor  one  free  from  desire  with  penance,  nor  the  energetic  man
+with  energy,  nor  the  talker  with  tiilk,  nor  the  politic  man  with  the  council,
+nor  the  believer  with  serving  the  church,  nor  the  liberal  man  with  giving
+away,  nor  the  learned  with  hearing  the  law,  nor  the  four  congregations -
+with  seeing  tlio  Buddha.      So  this  brahmin  woman  [343],  being  unsatisfied
+with  intercourse,   wished  to  put  her  husband  away  and  do  her  sin  with
+boldness.     So  one  day  in  her  evil  puii^ose  she  lay  down.     When  lie  said,
+•'  How  is  it,  wife?"  she  answered,  "Brahmin,  I  cannot  do  the  work  of  your
+house,  get  me  a  maid."     "  Wife,  I  have  no  money,  what  shall  I  give  to
+get   herl"     "Seek    for   money  by   begging    for   alms   and   so   get   her."
+"  Then,  wife,  get  rea»ly  something  for  my  journey."     She  filled  a  skin-bag
+with  baked  meal  and  unbaked  meal,  and  gave  them  to  him.     The  brahmin,
+going  through  villages,  towns  and  cities,  got  seven  hundred  pieces,  and
+thinking,  "  This  money  is  enough  to  buy  slaves,  male  and  female,"  he  was
+returning  to  his  own  village  ;  at  a  certain  place  convenient  for  water  he
+opened  his  sack,  and  eating   some  meal  he  went  down  to  drink  water
+without  tying  the  mouth.     Then  a  black  snake  in  a  hollow  tree,  smelling
+the  meal,  entered  the  bag  and  lay  down  in  a  coil  eating  the  meal.     The
+brahmin  came,  and  without  looking  inside  fastened  the  sack  and  putting  it
+on  his  shoulder  w«ut  his  way.     Then  a  spirit  living  in  a  tree,  sitting  in  a
+hollow  of  the  trunk,  sjiid  to  him  on  the  way,  "  Brahmin,  if  you  stop  on  the
+way  you  will  die,  if  you  go  home  to-day  your  wife  will  die,"  and  vani.shed.
+He  looked,  but  not  seeing  the  spirit  was  afraid  and  troubled  with  the  fear  of
+death,  and  so  came  to  the  gate  of  Benares  weeping  and  lamenting.     It  was
+the  fa^st  on  the  fifteenth  day,  the  day  of  the  Bodhi-satU's  preaching,  seated
+on   the  decorated  seat  of  the   law,   and   a   multitude  with   f>erfume8  and
+flowers  and  the  like  in  their  hands  came  in  troops  to  hear  the  preaching.
+The  brahmin  said,  "Where  are  ye  going?"  and  was  told,  "O  brahmin,
+to-day  wise  Senaka  preaches  the  law  with  sweet  voice  and  the  power  of  a
+Buddha:    do  you  not   know?"      He  thought,    "They   say  he  is   a  wise
+preacher,  and  I  am  troubled  with  the  fear  of  death  :  wise  men  [344]  are
+able  to  take  away  even  great  sorrow  :  it  is  right  for  me  too  to  go  there
+and  hear  the  law."     So  he  went  with  them,  and  when  the  as.sembly  and
+the  king  among  them  had  sat  down  round  about  the  Bodhi.satta,  he  stood
+at  the  outside,  not  far  from  the  seat  of  the  law,  with  his  mealsack  on  his
+shoulder,  afraid  with  the  fear  of  death.     The  Bodliisatta  preached  as  if  he
+were  bringing  down   the  river  of  heaven   or  showering    ambrosia.     The
+multitude    became    well   pleased,    and   making   applause    listened    to   the
+
+'  A  holy  man  who  has  not  attained  sainthood.
+'  Brethren,  Sisters,  laymen  and  laywomen.
+
+14—2
+
+
+212  The  Jataka.     Book   VII.
+
+
+preaching.  Wise  men  have  far  sight  At  that  moment  the  Bodhisatta,
+opening  his  eyos  gracious  with  thr  five  graces,  KUiveyeil  the  asseiiihly  on
+every  side  and,  seeing  that  bralimin,  thought,  "This  great  aJBseinMy  Ixas
+become  well  pleased  and  listens  to  the  law,  making  applause,  but  that  one
+brahmin  is  ill  pleased  and  weeps  :  there  must  b«;  some  sorrow  within  him
+to  cause  his  t^-'ars  :  lus  if  touching  rust  with  acid,  or  making  a  drop  of
+water  roll  from  a  lotus  leaf,  I  will  teach  him  the  law,  making  him  free
+from  sorrow  and  well  pleased  in  miml."  So  he  calle«l  him,  "  nnihmin,  I
+am  wise  Senaka,  now  will  I  niakt->  thee  free  from  sorrow,  speak  boldly,"
+and  so  talking  with  him  he  R{)oko  the  first  stanza : —
+
+Thou  art  confused  in  thought,  disturlKxl  in  sense,
+Tears  streaming  from  thine  eyes  are  evidence  ;
+What  hast  thou  lo.st,  or  wluit  dost  wish  to  gain
+Hy  coming  hither  ?     (Jive  me  answer  plain.
+
+[340]  Then  the  brahmin,  declaring  his  cause  of  sorrow,  sj)oke  the
+second  stanza : —
+
+If  I  go  homo  my  wife  it  is  must  die,
+If  I  go  not,  the  yiikklift  snid,  'tis   I  ;
+That  is  the  thought  that  pierceH  cruelly :
+Ex[)lain  the  matter,  Senaka,  to  mc.
+
+The  Bodhi.satta,  hearing  the  brahmin's  words,  spread  the  net  of  know-
+ledge as  if  throwing  a  net  in  the  sea,  thinking,  "There  are  many  causes  of
+death  to  beings  in  this  world  :  some  die  sunk  in  the  sea,  or  .seized  therein
+by  ravenous  fish,  some  falling  in  the  Ganges,  or  seized  by  crocodiles,  some
+falling  from  a  tree  or  pierced  by  a  thorn,  some  stiiick  by  weapons  of  divers
+kinds,  some  by  eating  poison  or  hanging  or  falling  from  a  precipice  or  by
+extreme  cold  or  attacked  by  diseases  of  divers  kinds,  so  they  die  :  now
+jimong  so  many  causes  of  death  from  which  cause  shall  this  brahmin  die  if
+he  stays  on  the  road  to-day,  or  his  wife  if  he  goes  home?"  As  he  considered,
+he  saw  the  sack  on  the  brahmin's  shoulder  and  thought,  "There  nmst  be  a
+snake  who  has  gone  into  that  Siick,  and  entering  he  must  have  gone  in
+from  the  smell  of  the  meal  when  the  brahmin  at  his  breakfa.st  had  eaten
+some  meal  and  gone  to  drink  water  without  fastening  the  sack's  mouth  :
+the  brahmin  coming  back  after  drinking  water  must  have  gone  on  after
+fastening  and  taking  up  the  sack  without  seeing  that  the  snake  had
+entered  :  [3-i6]  if  he  stays  on  the  road,  he  will  say  at  evening  when  he
+rests,  '  I  will  eat  some  meal,'  and  opening  the  sack  will  put  in  his  hand  :
+then  the  snake  will  bite  him  in  the  hand  and  destroy  his  life  :  this  will  be
+the  cause  of  his  death  if  he  stays  on  the  road  :  but  if  he  goes  home  the
+sack  will  come  into  his  wife's  hand ;  she  will  say,  '  I  will  look  at  the  ware
+within,'  and  opening  the  sack  put  in  her  hand,  then  the  snake  will  bite
+her  and  destroy  her  life,  and  this  will  be  the  cause  of  her  death  if  he  goes
+home  to-day."     This  he  knew  by  his  knowledge  of  expedients.     Then  this
+
+
+No.  402.  213
+
+cttiue  into  his  iniiul,  "  The  snake  must  be  a  Ijlatk  .snake,  brave  and  fearless ;
+when  the  sack  strikes  against  the  brahmin's  broadside,  he  sliows  no  motion
+or  quivering ;  he  shows  no  sign  of  his  being  there  amidst  such  an  assem-
+bly :  therefore  he  must  be  a  black  snake,  brave  and  fearless :  "  from  his
+knowledge  of  expedients  he  knew  this  as  if  he  was  seeing  with  a  divine
+eye.  80  as  if  he  had  been  a  man  who  had  stood  by  and  seen  the  snake
+enter  the  sack,  deciding  by  his  knowledge  of  expedients,  the  Bodhisatta
+answering  the  brahmin's  tjuestiun  in  the  royal  a.s.sembly  spoke  the  third
+stanza :  —
+
+First  with  many  a  doubt  I  deal,
+
+Now  my  tongiio  the  truth  declares ;
+Brahmin,  in  your  bag  of  meiil
+
+A  snake  hius  entered  unawares.
+
+[347]  80  .saying,  he  asked,  "0  brahmin,  is  there  any  meal  in  that  sack
+of  yours  ?  "  "  There  is,  O  .sage."  "  Did  you  eat  some  meal  to-day  at  your
+breakfast  time?"  "Yes,  O  sage,"  "Where  were  you  sitting?"  "  In  a
+wood,  at  the  root  of  a  tree."  "  When  you  ate  the  meal,  and  went  to
+drink  water,  did  you  fasten  the  sack's  mouth  or  not?"  "I  did  not,  O
+sage."  "  When  you  drank  water  and  came  back,  did  you  fasten  the  sack
+after  looking  in?"  "I  fastened  it  without  looking  in,  O  sage."  "O
+brahmin,  when  you  went  to  drink  water,  I  think  the  snake  entered  the
+siick  owing  to  the  smell  of  the  meal  without  your  knowledge  :  such  is
+the  case :  therefore  put  down  your  sack,  set  it  in  the  mid.st  of  the
+a.ssembly  and  opening  the  mouth,  stand  back  and  taking  a  stick  beat  the
+sack  with  it :  then  when  you  see  a  black  snake  coming  out  with  its  hood
+spread  and  hissing,  you  will  have  no  doubt :  "  so  he  spoke  the  fourth
+stanza  : —
+
+Take  a  stick  and  Wat  the  s^ick.
+
+Dumb  and  double-tongued  is  he;
+Cease  your  mind  with  doubts  to  rack  ;
+
+Oi)e  the  siick,  the  snake  you'll  see.
+
+The  brahmin,  hearing  the  Great  Being's  words,  did  so,  though  alanued
+and  frightened.  The  snake  came  out  of  the  sack  when  his  hood  was
+struck  with  the  stick,  and  stood  looking  at  the  crowd.
+
+
+[348]  The  Ma-ster,  explaining  the  matter,  spoke  the  fifth  .stanza  :
+
+Frightened,  'midst  the  a.s.scmbled  rout.
+
+String  of  meal-sack  he  untied ;
+An^ry  crept  a  serpent  out,
+
+Hood  erect,  in  all  his  pride.
+
+AVhen  the  snake  came  out  with  hood  erect,  there  was  a  forecast  of  the  Bodhi-
+satta as  the  omniscient  Buddha.  The  multitude  began  waving  cloths  and
+snapping  fingers  in  thousands,  the  showers  of  the  seven  precious  stones  were  as
+showers  from  a  thick  cloud,  cries  of  'good'  were  raised  in  hundreds  of  thousands.
+
+
+214  The  Jataka.     Book   VIl.
+
+and  the  iioiso  was  like  the  splitting  of  the  Ciirth.  This  answering  of  siich  a
+(juestion  with  the  power  of  a  Biuldha  is  not  the  power  of  hirth,  nor  the  jxjwcr  of
+men  rich  in  gifts  and  high  family  :  of  what  is  it  the  power  then  \  Of  knowledge:
+the  man  of  knowledge  makes  spn-itual  insight  to  inercase,  o{>ens  the  door  of  the
+noble  Paths,  enters  the  great  and  endless  nirvana  and  nwisters  the  iwrfection  of
+disciple-hood,  pacceka-lniddha-hood,  and  |)crfect  hiiddha-hood  :  knowledge  is  the
+best  among  the  qualities  that  bring  the  gre;it  and  endleus  nir\'Ana,  the  rest  are
+the  attendants  of  knowledge :  and  so  it  is  said  : —
+
+'  Wisdom  is  best,'  the  good  confess,
+
+Like  the  moon  in  starry  skies;
+Virtue,  fortune,  righteousness.
+
+Are  the  handmaids  of  the  wise.
+
+
+When  the  question  had  been  so  answered  by  tlio  Bodhisutta,  a  certain
+snake-charmer  made  a  niouth-band  for  the  snake,  cauqlit  him  and  let  him
+loose  in  the  forest.  Tlie  bralimin,  coming  up  to  the  king,  saluted  him  and
+made  obeisance,  and  praising  him  spoke  half  a  stanza  : —
+
+Great,  king  Janaka,  thy  gain,
+Seeing  Scnaka  the  wise.
+
+[349]  After  praising  the  king,  he  took  seven  humlrod  pieces  from  the
+bag  and  praising  the  Bodhisatta,  he  spoke  a  stanza  and  a  half  wishing  to
+give  a  gift  in  delight : —
+
+Dread  thy  wisdom ;   veils  arc  vain,
+Brahmin,  to  thy  piercing  eyes.
+
+These  seven  hundred  pieces,  sec,
+Take  them  all,  I  give  them  thee;
+'Tis  to  thee  I  owe  my  life,
+And  the  welfare  of  my  wife.
+
+Hearing  this,  the  Bodhisatta  spoke  the  eighth  stanza : —
+
+For  reciting  poetry
+
+Wise  men  can't  accept  a  wage ;
+Rather  let  us  give  to  thee,
+
+Ere  thou  take  the  homeward  stage.
+
+So  saying,  the  Bodhisatta  made  a  full  thousand  pieces  to  be  given  to
+the  brahmin,  and  asked  him,  "  By  whom  were  you  sent  to  beg  for  money?"
+"By  my  wife,  O  sage."  [350]  "Is  your  wife  old  or  young?"  "Young,
+O  sage."  "  Then  she  is  doing  sin  with  another,  and  sent  you  away  think-
+ing to  do  so  in  security  :  if  you  take  these  pieces  home,  she  will  give  to  her
+lover  the  pieces  won  by  your  labour :  therefore  you  should  not  go  home
+straight,  but  only  after  leaving  the  pieces  outside  the  town  at  the  root  of  a
+tree  or  somewhere  : "  so  he  sent  him  away.  He,  coming  near  the  village,
+left  his  pieces  at  the  root  of  a  tree,  and  came  home  in  the  evening.  His
+wife  at  that  moment  was  seated  with  her  lover.  The  brahmin  stood  at  the
+door  and  said,  "Wife."    She  recognised  his  voice,  and  putting  out  the  light
+
+
+No.  402.  215
+
+opened  the  door :  when  the  brahmin  came  in,  she  took  the  other  and  put
+him  at  the  door :  then  coming  back  and  not  seeing  anything  in  the  sack
+she  asked,  "Brahmin,  what  alms  have  you  got  on  your  journey?"  "A
+thousand  pieces."  *'  Where  is  it  ?  "  "  It  is  k^ft  at  such  and  such  a  place  :
+never  mind,  we  will  get  it  to-morrow."  She  went  and  told  her  lover.  He
+went  and  took  it  as  if  it  were  his  own  treasui-e.  Next  day  the  brahmin
+went,  and  not  seeing  the  pieces  came  to  the  Bodhisatta,  who  said,  "  What
+is  the  matter,  brahmin"?"  "I  don't  see  the  pieces,  O  sage."  "Did  you
+tell  your  wife  ] "  "  Yes,  O  sage."  Knowing  that  the  wife  had  told  her
+lover,  the  Bodhisatta  asked,  "  Brahmin,  is  there  a  brahmin  who  is  a
+friend  of  your  wife's]"  "There  is,  O  sage."  "Is  there  one  who  is  a
+friend  of  yours?"  "Yes,  O  sage."  Then  the  Great  Being  caused  seven
+days'  expenses  to  be  given  him  and  said,  "  Go,  do  you  two  invite  and
+entertain  the  first  day  fourteen  brahmins,  seven  for  yourself  and  seven
+for  your  wife  :  from  next  day  onwards  tiike  one  less  each  day,  till  on
+the  seventh  day  you  invite  one  brahmin  and  your  wife  one :  then  if  you
+notice  that  the  brahmin  your  wife  a.sks  on  the  seventh  day  has  come
+every  time,  tell  me."  [351]  The  brahmin  did  so,  and  told  the  Bodhisatta,
+"  O  sage,  I  have  observed  the  brahmin  who  is  always  our  guest."  The
+Bodhisatta  sent  men  with  him  to  bring  that  other  brahmin,  and  asked
+him,  "  Did  you  take  a  thousiind  pieces  belonging  to  this  brahmin  from  the
+root  of  such  and  such  a  tree?"  "I  did  not,  O  sage."  "You  do  not
+know  that  I  am  the  wise  Senaka ;  I  will  make  you  fetch  those  pieces."
+He  was  afraid  and  confessed,  saying,  "  I  took  them."  "  What  did  you
+do ? "  "I  put  them  in  such  and  such  a  place,  0  sage."  The  Bodhisatta
+asked  the  first  brahmin,  "  Brahmin,  will  you  keep  your  wife  or  take
+another?"  "Let  me  keep  her,  O  sage."  The  Bodhisatta  sent  men  to
+fetch  the  pieces  and  the  wife,  and  gave  the  brahmiu  the  pieces  from  the
+thief's  hand ;  he  punished  the  other,  removing  him  from  the  city,
+puuished  also  the  wife,  and  gave  great  honour  to  the  brahmin,  making
+him  dwell  near  himself.
+
+
+After  the  lessou,  the  Master  declared  the  Truths,  and  identified  the  Birth : —
+At  the  end  of  the  Truths,  many  attained  the  fruition  of  the  First  Path : —
+"At  that  time  the  brahmin  was  Ananda,  the  spirit  Sariputta,  the  a.ssembly
+was  the  church  of  Buddha,  and  wise  Senaka  was  myself."
+
+
+lilG  The  Jataka.     Book    \  11.
+
+
+No.    403.
+
+
+ATT"  I^EN'A- JATAKA.
+
+** A/thUetoi,  mnnif  }t^ijgar$"  etc.-  Tho  Mtwitor  t<»lcl  ttuN  when  ilwc-Iling  in  Iho
+Mhriiii'  «jilli^l  Ak^jjVI.ivh  near  ALivI,  iMnccrnini;  the  n*Knlnti(>nn  fur  thf  IxnldinR  of
+crils'.  Tho  fKiiL-iiun  wiLS  toM  in  tin*  MaiukuntliA  IWrth^  lilMivo.  Tho  MjmU»r
+a«Mro.s.Hnl  tho  Hn-thn'n,  .njivin};,  " Mn-thn-n,  foniiorly  [3.'>2]  U'foro  Itudtihu  w»wi
+lM)rn  in  the  worUI,  prioMls  of  othor  n»lim()n.H,  i(von  though  orti-ntl  thoir  i-l)i)ii«»  hy
+kingM,  ncvor  ik^kttl  for  iilnin,  hulding  that  )>«^'ing  from  othrrs  wjim  not  ngrvoAhlo
+or  pluuwint,"  And  no  ho  told  thu  tnlo  of  old  tiino.
+
+
+<  >nc(>  U|)on  n  tiinr  whon  HruhiuAdtitta  wa«  n>i^in^  in  HonanH,  the
+I{<MlhiHalta  wu.s  iMini  in  n  hrnhinin  boinudiuld  in  a  ct'itaiu  villagt*,  and  thoy
+oiilltvl  his  Muini'  youn^  AtthiHima.  \Vhi»n  \\f  jfn-w  up,  h»'  lramo<l  all  tho
+iirUs  at  Tnkku.sihi,  and  uftorwardti  fU'cin^;  the  niis«ry  of  tlfMirtm  he  took  the
+roli^'ioUH  lift',  and  r«>nching  tho  high(>r  Facultitw  and  Attaininontu,  he  dwelt
+long  in  tho  Iliniiiluyu:  then  coming  down  among  men  to  got  lUilt  and
+vinegar,  he  reached  Henan-j*.  and  after  wt^iying  in  a  garden  he  camo
+lagging  next  day  to  tho  king's  court.  Tho  king,  Inking  pleased  with  his
+)H(aring  and  manner,  nent  for  him,  and  M)t  liim  on  a  seat  on  the  terrace,
+giving  him  goo<l  fo^xl  :  then  receiving  his  thanks  he  was  pleased,  and
+exacting  a  promise  made  the  Ikxlhi.nattu  dwell  in  the  royal  garden,  and
+went  to  wait  on  him  two  or  three  times  each  day.  One  day,  l)eing  pleased
+with  his  preaching  of  tho  law,  ho  gave  him  a  choice,  saying,  '*  Tell  me
+whatever  yon  desii-e,  beginning  from  my  kingdom."  The  IJodhisattA  did
+not  say,  '*  Give  me  so  and  so."  Others  ask  for  whatever  they  desire,  saying,
+•Give  me  this^'  and  the  king  gives  it,  if  not  attacheil  to  it.  One  day  the
+king  thought,  "Other  .suitors  and  mendicants  ask  me  to  give  them  so  and
+so ;  l)ut  the  noble  Atthisena,  ever  since  I  offered  him  a  choice,  a-sks
+for  nothing:  he  is  wise  and  skilful  in  device:  I  will  ask  him."'  So  one
+day  after  the  early  meal  he  sat  on  one  side,  and  asking  him  as  to  the  cause
+of  other  men's  making  suits  and  hi.s  own  making  none,  he  spoke  the  first
+stanza : —
+
+Atthisena,  many  Injggars,  though  they're  -strangers  utterly,
+
+Throng  to  nic  with  their  jietitions  :   why  hast  thou  no  suit  to  me  ?
+
+'  See  above,  p.  52.
+'  No.  253,  vol.  ii.
+
+
+No.  403.  217
+
+[353]  Hearing  him  the  Bodhisatta  spoke  the  second  hUinzu  : —
+
+Neither  suitor,  nor  rejector  of  a  suit,  can  pleasant  )>e  :
+That's  the  reason,  be  not  angry,  why  1  have  no  suit  to  thee.
+
+Hearing  his  words  the  king  spoke  three  stanzas  : —
+
+lie  who  Hves  by  sueing,  and  has  not  at  projxjr  season  sued.
+Makes  another  fall  from  merit,  fails  to  gain  a  livclihoo*!.
+
+He  who  lives  by  sueing,  and  has  aye  at  proi)er  season  sued,
+Makes  another  man  win  merit,  gains  himself  a  livelihood.
+
+Men  of  wisdom  are  not  angry  when  thoy  see  the  suit4irs  throng  ;
+SjHiak,  my  holy  friend  ;    the  boon  thou  jiskcst  never  can  Ik;  wrong.
+
+[354]  So  the  Hoilhisatta,  even  tliough  given  the  choice  of  the  kingdom,
+made  no  suit.  When  the  king's  wish  hml  been  so  expressed,  the  Bodhi-
+satta to  show  him  the  priesta'  way  said,  "0  great  king,  those  suits  are
+preferred  by  nun  of  worldly  desin-s  and  householdt-rs,  not  by  priests  :  fronj
+their  ordination  priests  must  have  a  pure  life  unlike  a  householder  :"  and
+so  showing  the  priests'  way,  he  8i>oke  the  sixth  stanza  : —
+
+Sages  never  make  i)ctitions,  worthy  laynjon  ought  to  know  :
+Silent  stands  the  noble  suitor :   sages  make  i»ctition  so.
+
+[355]  The  king  hearing  the  Bo«lhisutta's  words  said,  "Sir,  if  a  wise
+attendant  of  his  own  knowU'^lge  gives  what  ought  to  be  given  to  his  friend,
+so  1  give  to  you  such  and  such  a  thing,"  and  »o  ho  sj»oku  the  seventh
+stanza : —
+
+Brahmin,  I  oftbr  thee  a  thousjind  kino,
+UchI  kino,  and  eko  the  leader  of  the  hcnl  :
+
+Hearing  but  now  those  genennw  deeds  of  thine,
+I   too  in  turn  to  generous  deeds  am  stirrwi.
+
+When  he  said  this,  the  Bo<lhisatta  refuse<l,  saying,  "  Great  king,  I  took
+the  religious  life  free  from  defilement :  I  have  no  need  of  cows."  The
+king  ab(Kle  by  hi.«  admonition  ;  doing  alms  and  other  good  works  he
+U'came  destined  for  heaven,  and  not  falling  away  from  hia  meditation,  was
+bom  in  the  Brahma  world.
+
+
+After  the  lesson,  the  Master  declared  the  Tniths  and  identified  the  Birth  :—
+.\fter  the  Tniths  many  were  e.>*tablishcd  in  the  fruition  of  the  First  I'ath : — "At
+that  time  the  king  was  Ananda,  Atthiaena  was  myself."
+
+
+218  The  Jdtaka.     Book    VII
+
+
+No.   404.
+
+KAl'l-JATAKA'.
+
+"/>«;/   lint  thf   tci»€  man"  etc—lhc    Miuntrr   told    thw  tAlo  while  dwelling   in
+.lutaviiiiii,  coiKfrniii^  heviidattn  l>firi}»  hwiiUkwwI  up  by  the  ciarth.      Fiiid.n::  tlint
+tlm  r>n'thn'ii  wi-n-  tnlking  aU»ut  thi.n  in  thu  Ilftll  of  Tnith,  ho  mtid,  "I
+luiM  not  iKt-Mi  di!r«tn>)(Ml  with  hiit  r<)ii>|Hiiiy  now  fur  the  tint  Uuiu  :  ho  wiw<  <.  i
+
+bcforu,"  and  ho  t4«ld  an  uld  Liilo.
+
+
+Once  upuii  u  tiiiio  when  BnihmiMlutta  wom  kiii^  in  It«<narcii,  the
+Ilodhisattu  wax  l>orii  in  the  wtinil*  uf  a  inonkvy,  and  liviMl  in  tho  king's
+gardcMt  with  a  n'tiniu>  of  tivo  huiidrtHl  inunk«*y»».  [IJ^Gj  Ih'ViidattA  w»ik
+also  born  in  th)<  womb  uf  a  moiikcy,  and  UvihI  there  aliio  with  a  retinue  of
+fi\e  hundred  monkey*.  Then  f)ne  dny  when  the  king'n  family  prieiit  had
+gunu  to  thir  garden,  bathed  and  adornetl  hiniiM>lf,  «>ne  tricky  munkey  going
+ahead  of  him  nat  almvu  the  gateway  arch  of  the  garden,  and  let  excrement
+full  on  the  priest's  head  n.H  he  went  out.  Wh<'H  the  prieftt  looki"*!  up,  he
+let  it  fall  ugHin  in  Imh  mouth.  'Die  prieitt  turned  back,  Maying  in  thrvnit  to
+the  monkeys,  **  Very  well,  I  shall  know  how  to  deal  with  you,"  and  went
+away  after  wa.shing.  Thoy  told  the  IltKlhi.satta  that  ho  had  Iw-en  angry
+and  threatened  the  monkeys.  He  made  announcement  to  tlie  thousand
+monkeys,  "It  i.s  not  well  to  dwell  near  the  habitation  of  the  angry;  let
+the  whole  troop  of  monkeys  Hee  and  go  elsewhere."  A  disolnxlient
+monkey  took  his  own  n>tinue  and  did  not  tl(H%  saying,  "  I  will  sec  about  it
+aft<Twards."  The  Bcnlhisatta  took  his  own  retinue  and  went  to  the  forest.
+One  day  a  female  slave  pounding  rice  hud  put  .some  rice  out  in  the  «un
+and  a  goat  was  eating  it  :  getting  a  blow  with  a  torch  and  running  away
+on  tire,  he  was  rubbing  himself  on  the  wall  of  a  grass-hut  near  an  elephant-
+stable.  The  fire  caught  the  grass-hut  and  from  it  the  elephant-.stable ;  in
+it  the  elephants'  backs  were  burnt,  and  the  elephant  doctors  were  attending
+the  elephants.  The  family  priest  was  always  going  al)Out  watching  for  an
+opix)rtunity  of  oitching  the  monkeys.  He  was  sitting  in  attendance  on
+the  king,  and  the  king  said,  "  Sir,  many  of  our  elephants  have  been  injured,
+and  the  elephant  doctors  do  not  know  how  to  cure  them  ;  do  you  know
+any  remedy?  "  "I  do,  great  king."  "What  i.s  it?"  "Monkey's  fat,
+great  king."  "How  shall  we  get  it  ?  "  "There  are  many  monkeys  in  the
+garden."  The  king  said,  "  Kill  monkeys  in  the  garden  and  get  their  fat."
+The  archers  went  and  killed  five  hundred  monkeys  with  arrows.     One  old
+
+'  Cf.  Kdkajtitakn,  uo.  140,  vol.  i.  and  Tibetan  Talet,  xliii.
+
+
+No.   405.  219
+
+
+monkey  fled  although  wounded  by  an  arrow,  and  though  he  did  not  fall
+on  the  HjKJt  [357],  fell  when  he  came  to  the  Bodhisatta's  place  of  abode.
+The  monkeys  said,  "  He  has  died  when  he  reached  our  place  of  aboilr,"  and
+told  the  Bodhisatta  that  he  was  dead  from  a  wound  he  had  got.  He  came
+and  sat  down  among  the  assembly  of  monkeys,  and  spoke  these  stanzas  by
+way  of  exhorting  the  monkeys  with  thr  i-xhorUtion  of  the  wise,  which  is
+"  Men  dwelling  near  their  enemies  perish  in  this  way  :" —
+
+Lot  not  the  wise  man  dwell  where  dwells  bin  foo  :
+One  night,  two  nights,  so  near  will  bring  him  woa
+
+A  fool's  a  foe  to  all  who  truat  his  word  :
+One  monkey  brought  distrosa  on  all  the  herd.
+
+A  foolish  chief,  wi.so  in  hi«  own  conceit,
+Comefl  over,  like  this  monkey,  to  dofoat.
+
+A  strong  fool  is  not  K'o<»d  to  guard  the  henl,
+Curm?  to  hi.H  kindred,  like  the  docoy-bird.
+
+One  strong  and  wise  in  g»»od  the  lienl  to  guanl,
+Like  Indra  to  the  (lodn,  his  kin's  reward.
+
+Who  virtue,  wistlom,  learning,  doth  inxs-sexH,
+His  decils  himself  and  other  nicn  will  blejw.
+
+Thcroforo  virtue,  knowledge,  learning',  and  himself  let  hini  rt'Kanl,
+Either  \>g  a  lonely  Saint  or  o'er  the  fl«)ck  keep  watch  an<l  wanl.
+
+[358]  So  the  li^xlhisattii,  lK>coming  king  of  monkeys,  explained  the  way
+of  learning  the  Discipline.
+
+
+Ailcr  the  lcH.son.  the  .M.t.tcr  idontifled  the  Birth:  "At  that  time  the  .bs-
+obediont  monkey  was  iJevadatUi,  hw  troop  wa«  iJcvadatU  s  comi>any  and  the  w.so
+king  was  myself."
+
+
+No.   405.
+
+HAKA-HU.\HMA-JATAKA'.
+
+'^^W>-,.^/  und  c.,.,  .,-.  -The  Mu.sU.-r  told  this  t^ilc  while  dwelling  in  Jct-'ivam^
+concen.ing'the  brahma^  Baka.  In  hi.n  a  fulso  .Utrine  aros..  '';';'';;1>'.  J^j;
+i.roscnt  exi.stence  is  iwri^tual,  iKjrmanent,  ctenial,  unchanging,  apart  irom  ii
+tl^  is  no  .Xtion  or  .ileasc'at  all."     In  a  former  birth  th.s  brahn^a  had  once
+
+'  Cf.  Hardv.  M-inunl  of  liudhitm,  p.  348.
+
+»  A  brahraa  means  an  angel  in  one  of  the  Urahma-loka  heaven-,  three  of  wh.ch  arc
+mentioned  below.
+
+
+220  Tlu:  Jdtaka.     Book    Vll.
+
+l)rttctiH«(i  uiLHliUktiun,  ho  ho  WiiM  liorii  iit  the  VehappluiLi  hv^vvii.      Huviiig  B))ciit
+thcro  an  ctiMtcnco  of  five  hundroti  IcuIimim,  he  Wii.t  In.ni  in  the  SuUmkinna  heaven  ;
+
+ftfter    Mixtv-foiir    kiiliww    thcro    he    i)iui.sc(l    and    wiw»    l«)ni    in    the    AhhAMiuira
+heftveii,  where  cxi.Hteiice  is  for  c\^\\t  Vi\\\>iin.      It  Wiw  there  that  this  f-iNo  d'wtrinn
+aro.se  in  him.      Ho  forgot  thiit  he  had   iNi.rtMv«l  from  higher  Hmhi
+and  had  )H>vn  Ixirn  in  that  heaven,  an<l  {lerveivin^  neither  of  tl.'  ..i
+
+taken  up  the  false  diK-trine.  The  Lml,  iindi'Pttanding  hiw  refhvt^^in,  ['X>'j\  a-s
+eo-sily  ils  a  Htron^  man  can  ext«Mui  his  lieiit  nnn  or  licnd  his  extended  arm,
+di.sjii)l»earin^  from  Jotavano,  H|>|M>ansi  in  that  Mrahmalokii.  The  hrahiUA,  iH-<>in^
+the  1/onl,  siiid,  "Como  hither,  my  lorvl ;  weUome,  my  loni ;  it  i.s  a  lon^  tune,  my
+lord,  nino;  thou  hiust  taken  thus  o|i|Nirtunity,  uven  for  coming  hither;  thit  world,
+my  lonl,  i.s  ^ti<r]H.-tual,  it  its  {lonuanent,  it  i.s  eternal,  it  is  atinolutc,  it  in  un-
+chan^ini;;  thi.s  worhl  is  not  )>oni,  it  divay.s  not,  it  ilictt  not,  it  |>41m.soh  not  aw  i. ,
+it  i.s  not  iMirii  apiin  :  aiwirt  from  this  world  them  in  no  other  Hnlvation  Itcvii;  I
+When  thi.s  was  .s^iid,  tlio  Lord  Maid  to  liaka  tho  hrahma,  "ilaka  the  hriihm.i  I  i<
+come  to  ijjnorance,  he  has  come  to  ii;noran<e,  when  he  will  nay  that  a  tliu
+which  is  not  |M>rnianont  is  i>eniianeiit,  and  ho  on,  and  that  there  is  \\\t  utiirr
+wilvatioii  ajuart  fri>m  this  when  then'  is  another  salvation."  liearini;  this  tho
+hrahnia  thought,  "This  one  pn-s.se.'s  mo  hanl,  tindin^  out  exactly  what  I  fwiy,"
+and  its  a  timid  thief,  iifter  ro^eivin^;  a  few  l»l«>ws,  niiy.s,  "Am  1  the  only  thief/  ho
+and  HO  and  .so  and  «)  are  thievcM  tini,"  .showing  his  a.HMfK'iatcM  ;  m>  he,  in  fear  of
+the  I^ird'.s  questioning,  Mhnwing  that  others  were  hiii  OMtMiciaton,  H|M)ko  the  fintt
+Htjuiza  :  —
+
+Seventy  and  two,  O  OotAUia,  ore  wo
+Highteoius  and  groat,  fp>m  hirth  ami  ago  wo'ro  free  :
+Our  heaven  in  windom'.s  homo,  theroH  nought  above:
+.\nd  many  othem  will  thia  view  approve.
+
+Hojvring  hi.s  wonLs,  tho  Miuitor  f4{>oko  tho  .tocond  Htonza  :  —
+
+[3fio]  Short  your  oxi.stcnco  in  thi.s  world  :    'ti«  wrong,
+liaka,  to  think  cxi.stencc  here  is  long  :
+A  hundretl  thou-sjuid  aeon.s  |in.st  and  gono
+All  your  exi.stcnco  well  to  mo  in  known.
+
+Iloaring  thi.s,  I^ika  Hi>oko  tho  third  stanza  : —
+
+Of  wi.sdom  infinite,  O  \jot\\,  am   I  :
+Hirth.  age,  and  .sorrow,  all  l»enoath  me  lie  :
+What  .should   I  do  with  goixl  works,  long  ago?
+Vet  tell  mo  something.   Lord,  that   I  .should  know.
+
+Then  the  L<mi,  relating  and  showing  him  thingn  of  past  time,  Mi>oko  four
+Ktauzas : —
+
+To  many  a  man  of  old  thou  gavo-st  drink
+For  thirst  and  parching  drought  ready  to  .sink  :
+That  virtuous  doe«.l  of  thine  .so  long  ago
+Remembering,  as  if  waketl  from  .sleep,  I  know.
+
+[3G1]  By  Eiu'm  hank  thou  .sett'.st  the  people  free
+When  chained  and  held  in  clase  captivity :
+That  virtuous  deed  of  thine  .so  long  ago
+Remembering,  as  if  waked  from  .sleep,  I  know^.
+
+By  Ganges'  stream  the  man  thou  didst  set  free,
+W  hose   boat  was  seized  by  naga,  cnielly
+Lxisting  for  flesh,  and  s<\vc  him  mightily :
+That  virtuous  deed  of  thine,  so  long  ago
+Remembering,  as  if  waked  frtim  sleep,  I  know.
+
+
+No.   406.  221
+
+And  I  was  Kappa,  thy  disciple  true,
+Thy  wi»d(jin  ana  thv  virtuc-s  all   I  knew  :
+And  now  those  dee<l.s  of  thine  so  long  ago
+Hemeiuberi ng,  aa  if  wuke<.l  from  sleep,  1  know.
+
+[3631  Hearing  his  own  deeds  from  the  Master's  discourse,  Baka  gave  thunks
+ana  spolce  this  last  stanza  : —
+
+Thou  knowest  every  life  that  hath  lx!en  mine  :
+Buddha  thou  art,  all  wisdom  sure  is  thine  :
+And  sure  thy  glorious  maie.sty  and  state
+Even  this  Brahma  world  illuminate.
+
+So  the  Master,  making  known  his  qiuility  as  Buddha  and  exj>ounding  the
+Iaw,  shcwrtl  forth  tho  Truths.  At  the  end  the  thoughts  of  ten  thou.sand
+brahmas  were  free(l  from  atLaclinicnts  and  sin.s.  So  the  l^»nl  l)fainie  the  refuge
+of  nmny  l>nihnui«,  and  going  l«uk  fnim  Bmhmaloka  to  Jetiviuia  preached  the
+law  in  the  way  descril»ed  and  identifu-*!  thi'  Birth:  "At  that  time  li^ika  the
+bnihma  was  the  a-scetic  Ke-sava,  KapjMi  the  disciple  was  myself."
+
+
+No.   406.
+
+
+OANDIIARA-JATAKA,
+
+
+"  Village*  full  «Lrt<v«  thousatui"  etc. — The  Master  told  this  when  dwelling  in
+Jctavana,  concerning  the  i)recept  on  the  storing  up  of  me<licinc«'.  The  occ^ision
+however  aro.se  in  Kajiigalui.  When  the  vcncnibio  I'ilindiyuviucha  went  U>  the
+king's  dwelling  to  .set  free  the  park-keci)cr"s  family',  he  made  the  |Milfico  all  of  gold
+by  magic  jx)Wfr  :  imd  the  jtcplc-  in  tneir  delight  brought  to  that  elder  the  five
+kinds  of  medicine,  lie  gave  them  awav  to  the  congregation  of  Brethn;n.  .So
+tho  congregation  alxiuridLtl  in  mwlicines,  [3G4]  and  a.s  they  rtxeived  the  me<licincH,
+thev  tilleti  ix)Ls  and  jars  and  luigx  in  this  way  and  laid  them  aside.  People
+.seemg  this  murnuired,  saying,  "Those  greedy  priests  are  h(Uinling  in  their
+houses."  The  Miuster,  hearing  this  thing,  declared  the  precept,  "  Whatever
+medicines  for  sick  brethren  [sc.  are  received,  mast  l>e  used  withui  .sc-vcn  days],"
+and  siiid,  "  Brethren,  wise  men  of  old,  l>efore  the  Buddha  api>eare<l,  ordaitied
+in  hereby  and  keeping  <nily  the  five  precepts,  u.se<l  t4j  chide  tho.sc  who  laid  aside
+even  .salt  and  sugar  for  the  next  day ;  but  you,  though  orduinetl  in  such  a  rule  of
+.salvation,  make  a  hoard  for  the  second  and  the  third  day,"  and  so  he  told  the
+talc  of  old.
+
+
+Once  ui>on  a  time  tho  Boflhisatta  was  the  king's  son  of  tlie  Ciandhani
+kingdom  ;  at  his  fatht-r's  death  ho  becamo  king  and  ruled  with  righteou.snesH
+
+'   Mahtlcagtja  vi.  15.  10.
+
+'  See  Mahdvagga  vi.  15.  1 —     .
+
+
+222  Thr  Jr,t,ih,.     liuuk    Vll.
+
+
+In  the  Central  Regii>n,  in  iln^  kiii:,'<li)in  of  Vidoha  u  kmj^  named  Videha
+was  rulin<j  at  tho  tiiiu'.  Thi-.sc  two  kiit^H  had  iH)v«'r  Hf«n  each  othrr,
+hut  thoy  were  friends  and  had  great  trust  the  one  in  the  other.  At  that
+time  men  were  long-lived  :  their  life  whs  for  thirty  thousand  years.  'I'hen
+onco,  on  the  fast  day  of  the  full  uioon,  the  king  of  (Jandhuni  hat!  taken  the
+vow  of  the  command.s',  and  on  the  dais  in  the  middle  of  a  royal  throne
+prepared  for  him,  looking  through  an  oj>on  window  on  the  eiustrrn  ijuarter,
+he  .sat  giving  to  his  niini.stei-M  ii  discouiTM'  on  the  sulwitanc*'  of  tlu-  liiw.  At
+that  niouu-nt  Kaliu  wjis  covering  the  moon's  orh  which  wjis  full  and
+spreading  over  the  hky.  The  moon's  light  vani.shed.  The  nunistei-s,  not
+8<!eing  the  moon's  l)rightneHS,  told  tin-  king  that  the  m(K)n  was  seizjHJ  hy
+Kahu.  Th»>  king,  observing  the  moon,  thought,  "That  moon  hjis  lost  its
+light,  heing  marred  by  some  troubh-  froni  outsith*  ;  now  my  royal  retinue
+is  a  trouble,  and  it  is  not  mtn-t  that  1  should  lose  my  light  like  the  moon
+sei/e<l  by  Rahu .  I  will  leave  my  kingdom  like  the  moon's  orb  shining  in  a
+clear  sky  ami  Ix-come  an  a.scetie:  why  should  I  admonish  another?  I  will
+go  alK)ut,  iletviihe«l  frouj  kin  and  piopii«,  admonishing  myself  alone:  that  is
+meet  for  me."  So  he  said,  "  As  ye  pU^asc  [SG.')]  so  do,"  and  gave  over  the
+kingilom  to  his  ministoi-s.  When  he  gave  up  his  kingdom  in  the  two
+kingdoms  of  Kashmir  and  ({andhiira,  he  took  the  religious  life,  and  attain-
+ing the  transcendental  faculty  he  poss^'d  the  rains  in  tlie  Himalaya  region
+devoted  to  the  delight  of  meditation.  The  king  of  Vidiha,  having  a-skinl
+of  merchants,  "Is  it  well  with  my  friend  I  "  heard  that  he  had  tjiken  the
+religious  life,  and  thought,  "  When  my  friend  has  taken  the  religious  life,
+what  should  I  do  with  a  kingilom  I"  So  he  gave  u[)  the  rule  in  his  city  of
+Mithila,  seven  leagues  in  extent,  ami  his  kingdom  of  V'ldeha,  three  hun-
+dred leagues  in  extent,  with  sixteen  thousand  villages,  storehouses  filled,
+and  sixteen  thou.sand  dancing  girls,  and  without  thinking  of  his  sons  an«l
+daughters  he  went  to  the  Iliuu'ilaya  region  and  to<')k  the  religious  life.
+There  he  lived  on  fruits  only,  tlwelling  in  a  state  of  quietude.  Both
+of  thi'm  following  this  cjuiet  lite  afterwards  met,  but  did  not  ri'cognise
+each  other :  yet  they  lived  together  in  this  ijuiet  life  in  friendliness.  The
+ascetic  of  Videha  waited  \\\io\\  the  ascetic  of  Gandhara.  On  a  day  of  full
+moon  as  they  were  sitting  at  the  r(X)t  of  a  tree  and  tnlking  on  things
+relating  to  the  law,  Rahu  covered  the  moon's  orb  as  it  was  shining  in  the
+sky.  The  ascetic  of  Videha  looked  up,  saying,  "  Why  is  the  moon's  light
+destroyed?"  And  seeing  that  it  was  seizetl  by  Ralui,  he  asked,  "Master,
+why  has  he  covered  the  moon  and  made  it  dark  ]  "  "  Scholar,  that  is  the
+moon's  one  trouble,  Rahu  by  name  ;  he  hinders  it  from  shining :  I,  seeing
+the  moon's  orb  struck  by  Rahu,  thought,  'There  is  the  moon's  pure  orb
+become  dark  by  trouble  from  outside  ;  now  this  kingdom  is  a  trouble  to
+
+'  A  vow  to  keep  the  five  moral  preempt".
+
+
+No.  406.  223
+
+me  :  I  will  take  the  religious  life  so  that  the  kingdom  does  not  make  me
+dark  as  Rahu  does  the  moon's  orb ' :  and  so  taking  the  moon's  orb  seized
+by  Rahu  as  my  theme,  I  forsook  my  great  kingdom  and  took  the  religious
+life."  "Master,  were  you  king  of  Gandhara?"  [3G6]  "Yes,  I  was."
+"  Master,  I  was  the  king  Videha  in  the  kingdom  of  Videha  and  city  of
+Mithila  :  were  we  not  friends  though  we  never  saw  each  other?"  "What
+was  your  theme?"  "I  heard  that  you  had  taken  the  religious  life  and
+thinking,  '  Surely  he  has  seen  the  good  of  that  life,'  I  took  you  as  my
+theme,  and  leaving  my  kingdom  took  the  religious  life,"  From  that  time
+they  were  exceedingly  intimate  and  friendly,  and  lived  on  fruits  only.
+After  a  long  time's  dwelling  there  they  came  down  from  Himalaya  for  salt
+and  vinegar,  and  came  to  a  frontier  village.  Thu  people,  being  pleiused
+with  their  d«'portment,  gave  them  alms  and  Uiking  a  promise  made  for
+them  houses  fur  the  night  and  the  like  in  tlie  forest,  and  made  them  dwell
+there,  and  built  by  the  road  a  room  for  taking  their  meals  in  a  pleasant
+watered  8j»ot.  They,  after  going  their  rounds  Un-  alms  in  the  frontier
+village,  sat  and  ate  the  alms  in  that  hut  of  leaves  and  then  went  to  their
+dwelling-house.  The  jHjople  who  gave  them  food  one  day  put  salt  on  a
+leaf  and  gave  it  them,  another  day  gave  them  saltless  food.  One  day  they
+gave  them  a  great  deal  of  salt  in  a  leaf  basket.  The  ascetic  of  Videha
+took  the  salt,  and  coming  gave  enough  to  tlie  Bodhisatta  at  the  meal  time
+and  took  to  himself  the  proper  ujeasure  :  then  putting  up  the  rest  in  a  leaf
+basket  he  put  it  in  a  roll  of  gi'ass,  saying,  "This  will  do  for  a  saltless  day."
+Then  one  day  when  saltless  food  was  received,  the  man  of  V^ideha,  giving
+the  alms-food  to  the  man  of  (jandhara,  took  the  salt  from  the  roll  of  grass
+and  8;iid,  "  Master,  take  salt."  "  The  people  gave  no  salt  to-day,  where
+have  you  got  it  ?  "  "  Ma.ster,  the  people  gave  much  salt  one  day  l>efore  :
+then  I  k«*pt  what  was  over,  saying,  'This  will  do  for  a  saltless  day.* "
+Then  the  Hodliisiitta  chid  him,  saying,  "O  foolish  man,  you  forsook  the
+kingdom  of  Videha,  three  hundred  leagues  in  extent,  took  i\w.  religious
+life  and  attained  freedom  from  attachments,  and  now  you  get  a  desire
+for  salt  and  sugar."    And  so  admonishing  him  he  s]K>ke  the  6rst  stanza: —
+
+[367]  Villages  full  sixteen  thoasand  with  their  wealth  you  threw  away,
+
+Treiusuries  with  wealth  in  plenty :   and  you're  hoarding  here  to-day  !
+
+Videha,  being  thus  chidden,  did  not  endure  the  chiding  l)Ut  beaime
+estranged,  saying,  "Master,  you  .see  not  your  own  fault,  though  you  see
+mine ;  did  you  not  leave  your  kingdom  and  become  religious,  saying,
+'Why  should  I  admonish  another?  I  will  admonish  myself  alone':
+why  then  are  you  now  admonishing  me  ? "  So  he  spoke  the  second
+stanza : —
+
+Candahar  ami  all  its  province,  all  its  wealth,  you  threw  away.
+Giving  no  more  royal  orders  :    and  you're  ordering  me  to-day  I
+
+
+224  The  Jataka.     Book    VIL
+
+
+Hearing  him  the  Bodhisatta  spoke  the  third  stanza  : —
+
+It  is  rightcoiwiiess  I'm  M|MMiking,  for  I   huto  uiirightcouancas  :
+RightcouMiiewa  when   I  uiu  Mi)eaiung,  Hin  on  mo  leavea  n<»  improas.
+
+The  ascetic  of  Videha,  hearing  the  Hodhisatta's  words,  saiil,  "  Master,
+it  is  not  nu'ft  for  one  to  s|»eak  after  annoying  imd  an;,'»'ring  another,  even
+though  he  Hjieaks  to  the  |K)int  :  [3GH]  you  an-  HjH'uking  vrry  harshly  to  me,
+as  if  shaving  me  with  l>lunt  steel,"  and  so  he  s|>okR  the  fourth  stanza : —
+
+Whuts(jcver  words,  if  «|«)keu,  wduKI  to  others  caiuw  ofienco,
+
+Wisi-  iiu'ii  Iciivc  those  worvls  unsix)kon,  though  of  mighty  consctiucnce.
+
+Tlirn  tho  Bodhisatta  spoke  the  fifth  stanza  : —
+
+liot  my  hearer  scatter  chaff,  or  let  him  take  oftbnco  or  not,
+UighteousncHs  when   I  am  .M|)wiking,  sin  on  me  can  leave  no  s|»ot
+
+Having  so  said,  ho  wont  on,  •*  I  will  not  work  with  you,  O  Xnanda',  aa
+a  jM)tter  with  raw  clay  only  :  I  will  sjM'uk  chiding  again  an«l  again;  what
+is  truth,  that  will  ahide."  And  so  being  steadfast  in  conduct  suitahlo  to
+that  admonition  of  the  Hlesse(l  One,  as  a  i)ott«'r  among  his  vessels,  after
+heating  them  often,  takes  not  tho  raw  clay,  hut  takes  the  haked  veoael
+only,  so  preaching  and  chiding  again  and  again  he  takes  a  man  like  a
+gootl  vessid,  iiiid  preaching  to  show  him  this,  he  %\\oVe  this  pair  of
+stanzas  : —
+
+Wore  not  wisdom  and  j^«kx1  conduct  trained  in  some  men's  lives  to  grow,
+Many  would  go  wtuidenng  idly  like  tho  blinded  butfalo.
+
+But  since  some  are  wisely  tniinoil  in  nioral  conduct  fair  to  grow,
+Thus  it  is  that  disciplinoii  in  jwiths  of  virtue  Kthers  go.
+
+[369]  Hearing  this,  the  Videha  ascetic  said,  "  Master,  fnim  this  time
+admonish  me;  I  spoke  to  you  with  peevish  natund  tenij>er,  pardon  me,"
+and  so  paying  res|K»ct  he  gained  the  B.xlhisatta's  pardon.  So  they  dwolt
+together  in  |)eace  and  wont  again  to  Himalaya.  Then  the  Bodhisatta  told
+the  Vitl.h;i  ascetic  how  to  attain  to  mystic  meditation.  Ho  did  so  and
+reached  the  higher  Faculties  and  Attainments.  So  both,  never  leaving  off
+meditation,  U'camo  destined  for  the  Brahma  world.
+
+
+After  the  lesson,  the  Ma.ster  identified  the  Birth :  "  At  that  time  the  Videha
+ascetic  was  Ananda,  the  (landhfira  king  was  myself."
+
+
+'  The  ascetic  is  addressed  by  this  name,  as  if  his  future  re-birth  as  Ananda  was
+foreseen.
+
+
+No.   407.  225
+
+No.   407.
+
+MAIIAKAPI-JATAKA'.
+
+"  Vou  made  yonrself,^'  etc — The  Miustcr  told  this  while  dwelling  in  Jetavana,
+(•<>ncernin<;  giMxl  works  towani.s  one's  i*elatives.  The  occa-sion  will  ajUK^ar  in  tlie
+lihuddasfila  I'.irth-'.  Thev  liegaii  talking  in  the  Hall  of  Truth,  saying,  "The
+>iil>renie  l>uddlia  diK?.s  go<Hl  works  towanls  his  relatives."  [37<>]  When  the  Mjuster
+luul  askeil  and  been  told  their  thenie,  he  said,  "  liruthren,  this  is  not  the  tii-st
+time  a  Tathagat^i  hius  dom-  go(»<l  works  towai-ds  his  relativus,"  and  so  he  tolil  a
+tiile  of  old  time.
+
+
+Once  upon  a  time  when  Krahtnadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  horn  of  a  monkey's  woinh.  When  he  grew  up  and
+attaineil  st^itun'  and  stoiituess,  he  was  strong  and  vigorous,  and  lived  in
+the  Himalaya  with  a  retinue  of  eighty  thousiinil  monkeys.  Near  the
+Ganges  hank  there  was  a  mango  tree  (others  say  it  was  a  banyan),  with
+brandies  and  forks,  having  a  deep  shade  and  tluek  leaves,  like  a  mountain-
+top.  I  Us  sweet  fruits,  of  tlivine  fragrance  and  Havour,  were  as  large  as
+waterpota  :  from  one  branch  the  fruits  fell  on  the  ground,  from  one  into
+the  (Janges  water,  from  two  into  the  main  trunk  of  the  tree.  The  Hodhi-
+.satta,  while  eating  the  fruit  with  a  troop  of  monk«'ys,  thought,  "Someday
+danger  will  come  uj)on  us  owing  t«  the  fruit  of  this  tree  falling  on  the
+water"  ;  and  so,  not  to  leave  one  fruit  on  the  bi-anch  whieh  grew  over  the
+water,  he  made  them  eat  or  throw  down  the  tlowers  at  their  season  from
+the  time  they  were  of  the  si/e  of  a  chick-i>ea.  I>ut  notwitlistanding,  one
+ripe  fruit,  unseen  by  the  eighty  thousand  monkeys,  hidden  by  an  ant's
+nest,  fell  into  the  river,  and  stuck  in  the  net  above  the  king  of  IJi-nares,
+who  was  bathing  for  amu.sement  with  a  net  above  him  and  another  below.
+When  the  king  had  amu.sed  himself  all  day  and  was  going  away  in  the
+evening,  the  fishermen,  who  were  drawing  the  net,  saw  tin-  fruit  and  not
+knowing  what  it  was,  shewed  it  to  the  king.  The  king  asked,  "What  is
+this  fruit  !"  ''We  do  not  know,  sin-."  "Who  will  know  I"  "  Tlie
+foresters,  sire.'  He  liad  the  foresters  called,  and  learning  from  them  that
+it  was  a  mango,  he  cut  it  with  a  knife,  and  tirst  making  the  forestera  eat  of
+it,  he  ate  of  it  himself  [.'U  I  ]  and  had  some  of  it  given  to  his  seraglio  and  his
+ministei-s.  The  flavour  of  the  ripe  mango  remained  jM-rvading  the  king's
+wliole  boily.  Possessed  by  desire  of  the  Havour,  he  a«ked  the  foresters
+where   that  tree  stood,  and  heanng  that  it  was  on  a  river  l)ank   in   the
+
+'  This  story  is  tigxired  in  CunuinKham'H  Stupa  of  Bharhut,  plate  ixxiii,  fig.  4
+(explained  by  Mr  Tawney  in  Proc.  A».  Soc.  of  Bengal  for  Aug.  1891).  Cf.  Jutnka-
+nulla,  no.  27  {Thf  Great  Monkey).
+
+»  No.  444.  vol.  iv.
+
+.1.  in.  15
+
+
+226  TJte  Jiltaka.     Book    VII.
+
+Himalaya  quarter,  ho  liad  many  rafts  joined  tofjother  and  Hailf*<|  upHtreani
+by  the  route  shewn  i»y  the  foresters.  The  exact  account  of  ilays  is  not
+given.  In  due  course  they  came  to  the  place,  and  the  foresters  said  to  the
+king,  "8ire,  there  is  the  tree."  The  king  stoppetl  the  rafts  and  went  on
+foot  with  a  great  retiuue,  and  having  a  hed  prepared  at  the  foot  of  the  tree,
+he  lay  down  after  eating  the  raango  fruit  and  enjoying  the  various  excel-
+lent flavours.  At  each  side  they  set  a  giiard  and  made  a  fire.  When  the
+men  had  fallen  asleep,  the  liodhi.satta  came  at  midnight  with  his  retinue.
+Eighty  thousand  monkeys  moving  from  branch  to  branch  ate  the  mangoes.
+The  king,  waking  and  seeing  the  herd  of  monkeys,  roused  his  n>en  and
+calling  his  archers  said,  "Surround  these  monkeys  that  eat  the  mangoes  so
+that  they  may  not  escape,  and  slioot  them  :  tomorrow  we  will  eat  man-
+goes with  monkey's  tle.sh."  The  archers  obeyed,  saying,  "  Very  well,"  and
+surrounding  the  tree  stood  with  arrows  ready.  The  monkeys  seeing  them
+and  fearing  death,  as  they  could  not  escape,  came  to  the  Bo«lhisrttta  and
+said,  "Sire,  the  archei-s  stand  round  the  tree,  saying,  'We  will  shoot  those
+vagrant  monkeys:'  what  are  we  to  do?"  and  so  stood  shivering.  The
+Bodhisatta  said,  "Do  not  fear,  I  will  give  you  life  ;"  and  so  comforting  the
+herd  of  monkeys,  he  a.scended  a  branch  that  ro.se  \ip  straii^ht,  went  along
+another  branch  that  stretched  towards  the  (ianges,and  springing  from  the  end
+of  it,  he  passed  a  hundred  bow-lengths  and  lighte<l  on  a  bu.sh  on  the  bank'.
+Coming  down,  he  marked  the  distance,  saying,  "That  will  be  the  di.stance  I
+have  come  :"  [372]  and  cutting  a  bamboo  shoot  at  the  root  and  stripping  it,
+he  said,  "So  much  will  be  fastened  to  the  ti^ee,  and  so  much  will  stay  in  the
+air,"  and  so  reckonetl  the  two  length.s,  forgetting  the  j)art  fastened  on  his
+own  waist.  Taking  the  shoot  he  fastened  one  end  of  it  to  the  tree  on  the
+Ganges  bank  and  the  other  to  his  own  waist,  and  then  cleared  the  space  of
+a  hundred  bow-lengths  with  the  speed  of  a  cloud  torn  by  the  wind.  From
+not  reckoning  the  part  fasteni'd  to  his  waist,  he  failed  to  reach  the  tree :
+so  .seizing  a  bninch  tirmly  with  both  hands  he  gave  signal  to  the  troop  of
+monkey.s,  "  Go  quickly  with  good  luck,  treading  on  my  back  along  the
+bamboo  shoot."  The  eighty  thousand  monkeys  escaped  thus,  after  saluting
+the  Bodhisatta  and  getting  his  leave.  Devadatta  was  then  a  monkey  and
+among  that  herd  :  he  said,  '•  This  is  a  chance  for  me  to  see  the  last  of  my
+enemy,"  so  climbing  up  a  branch  he  made  a  spring  and  fell  on  the  Bodlii-
+satta's  back.  The  Bodhisatta's  heart  broke  and  great  pain  came  on  him.
+Devadatta  having  caused  that  maddening  pain  went  away:  and  the  Bodhi-
+satta was  alone.  The  king  being  awake  saw  all  that  was  done  by  the
+monkeys  and  the  Bodhisatta  :  and  he  lay  down  thinking,  "This  animal,  not
+reckoning  his  own  life,  has  caused  the  safety  of  his  troop."  When  day
+broke,  being  pleased  with  the  Bodhisatta,  he  thought,  "  It  is  not  right  to
+
+^  From  the  figure  on  the  Bbarhut  Stupa,  it  appears  that  be  jumped  across  the
+Ganges.
+
+
+No.  407.  227
+
+destroy  this  king  of  the  monkeys:  I  will  bi-ing  him  down  by  some  means  and
+take  care  of  him:"  so  turning  the  raft  down  the  Ganges  and  building  a
+platform  there,  he  made  the  Bodhisatta  come  down  gently,  and  had  him
+clothed  with  a  yellow  robe  on  his  back  and  washed  in  Ganges  water,  made
+him  drink  sugared  water,  and  had  his  body  cleansed  and  anointed  with  oil
+refined  a  thousand  times ;  then  he  put  an  oiled  skin  on  a  bed  and  making
+him  lie  there,  he  set  himself  on  a  low  seat,  and  spoke  the  first  stanza  : —
+
+[373]  Vou  made  yourself  a  bridge  for  them  to  pass  in  safety  through:
+A\'hat  are  you  then  to  them,  monkey,  and  what  arc  they  to  you/
+
+Hearing  him,  the  Bodhisatta  instructing  the  king  spoke  the  othei-
+stjinzas : —
+
+\'ictorious  king,  I  guard  the  herd,  I  am  tlu-ir  lord  and  cliief.
+
+When  they  were  filled  with  fear  of  tliee  and  stricken  sore  with  grief.
+
+1  leapt  a  hundred  times  the  length  of  bow  outstretched  that  lies.
+When   I   had  bound  a  1  mmboo-shoot  finnly  around  my  thighs:
+
+I  reached  the  tree  like  tliuiidi-r-cloud  sped  by  the  temi)est's  blast ;
+I   lost  my  strength,  but  readied  a  bough  :    with  hands  I  held  it  fast.
+
+And  as  I  hung  extended  there  held  fust  by  shoot  and  bough,
+My  monkeys  passed  across  my  back  and  are  in  safety  now.
+
+Therefore  I  fear  no  pain  of  death,  bonds  do  not  give  me  pain,
+The  happinass  of  tho.se  was  won  o'er  whom  I  u.sed  to  reign.
+
+A  parable  for  thee,  O  king,  if  thou  the  truth  would'st  read  :
+
+The  happiness  of  kingdom  and  of  army  and  of  steed
+
+And  city  nuist  l>e  dear  to  thee,  if  tlu>u  would'st  rule  indeed.
+
+[374]  The  Bodhisatta,  thus  instructing  and  teaching  the  king,  died.
+The  king,  calling  his  ministers,  gave  orders  that  the  monkey-king  sliould
+have  oksequies  like  a  king,  and  he  sent  to  the  seraglio,  saying,  "Come  to
+the  cemetery,  as  retinue  for  the  monkey-king,  with  red  gaiTnents,  and
+dishevelled  hair,  and  torches  in  your  hands."  [37.5]  The  ministers  made  a
+funeral  pile  with  a  hundred  waggon  loads  of  timber.  Having  prepared
+the  Bodhisatta's  obsequies  in  a  royal  manner,  they  took  his  skull,  and
+came  to  tlie  king.  The  king  cau.sed  a  shrine  to  be  built  at  the  Bodhi-
+satta's burial|)lace,  torches  to  be  burnt  there  and  offerings  of  incense
+and  flowers  to  be  made  ;  he  had  the  skull  inlaid  with  gold,  and  put  in
+front  raised  on  a  spear-point  :  honouring  it  with  incen.se  and  flowers,  he
+put  it  at  the  king's  gate  when  he  came  to  Benares,  and  having  the  whole
+city  decked  out  he  paid  honour  to  it  for  seven  days.  Then  taking  it  as  a
+relic  and  raising  a  shrine,  he  honoured  it  with  incense  and  garlands  all
+his  life  ;  and  established  in  the  Bodhisatta's  teaching  he  did  alms  and
+other  good  deeds,  and  ruling  his  kingdom  righteously  became  destined  for
+heaven.
+
+
+After  the  les.son,  the  Master  declared  the  Truths  and  identified  the  Birth :
+"  At  that  time  the  king  was  Ananda,  the  monkey's  retinue  the  as.sembly,  and  the
+monkey-king  myself"
+
+15—2
+
+
+228  TJic  Jdtaka.     Book   VIL
+
+
+No.    408.
+
+
+KUMUHAKARA-JATAKA.
+
+"A  mango  in  a  foretit"  etc.  The  Ma.stcr  told  thiH  when  dwelling  in  Jebivana,
+concerning  relnike  of  sin.  Tho  (KCiusion  willuppoarin  the  PAnlya  Hirth'.  At  that
+time  in  Sfiviitthi  five  hundred  friends,  who  Imd  Ix'conjo  ascetics,  dwelling  in
+tho  House  of  tho  (Jolden  I'avoiiu'nt,  had  lustful  thoughts  at  niiilniglit.  The
+Master  regards  iiis  disciples  three  times  a  night  and  three  times  a  day,  six
+times  every  night  and  day,  as  a  jay  guajils  her  egg,  or  a  yak-cow  her  tail,  or  a
+mother  her  In^loved  son,  or  a  one  eyed  n)an  his  eye;  so  in  the  very  instant  he  re-
+bukes a  sin  which  is  iK-ginniiig.  He  was  ol>ser\'ing  .TcUwana  on  that  midnight
+and  knowing  the  Brethren's  conduct  of  their  thoughts,  he  consiilered,  "This  sin
+among  these  l>rethi-en  if  it  grows  will  destroy  the  cause  of  .'^ainthoiKl.  1  will  this
+n)omcnt  ivhuke  their  sin  and  shr»w  them  Sainth<HKi"  :  .so  leaving  the  perfume<l
+chamher  he  called  Ananda  [37^),  and  hidding  him  collect  all  the  brethren  dwelling
+in  the  place,  he  got  them  together  and  sat  down  on  the  seat  prepanni  for  Huihlha.
+He  said,  "  I'.rethren,  it  is  not  right  to  live  in  the  iH)wer of  sinful  thoughts;  a  sin  if
+itgi'ows  hrings  great  ruin  like  an  enemy  :  a  Brother  ought  to  rehuke  even  a  little
+sin  :  wise  men  of  old  .seeing  even  a  very  .slight  cause,  rehuked  a  sinful  thought
+that  had  begun  and  so  brought  alnnit  iMiccekabuddhu-iuxxl":  and  .so  he  told  an
+old  tale.
+
+
+Once  ujton  a  time  wlicn  iJruhmudatta  was  reigning  in  l»enare.s,  the
+Bodhisatta  was  born  in  a  potter's  family  in  a  suburb  of  Benares :  when
+he  grew  up  he  became  a  householder,  liad  a  son  and  daughter,  and  sup-
+ported hi.s  wife  and  ciiihlren  l)y  his  potter's  handicraft.  At  that  time  in
+the  Kalinga  kingdom,  in  the  city  of  DanUipura,  the  king  named  Karaiulu,
+going  to  his  garden  with  a  great  retinue,  .saw  at  the  garden-gate  a  mango
+tree  laden  with  sweet  fruit :  he  stretched  out  his  hanil  from  liis  .seat  on
+the  elephant  and  seized  a  bunch  of  nnxngoes  :  then  enteiing  the  garden  he
+sat  on  the  royal  seat  and  ate  a  mango,  giving  some  to  those  worthy  of
+favours.  From  the  time  when  the  king  took  one,  mini.ster8,  bmlimins,
+and  householders,  thinking  that  othera  should  also  do  so,  took  down  and
+ate  mangoes  from  that  tree.  Coming  again  and  again  they  climbed  the
+tree,  and  beating  it  with  clubs  and  breaking  the  branches  down  and  otl",
+they  ate  the  fruit,  not  leaving  even  the  unripe.  The  king  amused  himself
+in  the  garden  for  the  day,  and  at  evening  as  he  came  by  on  the  royal
+elephant  he  dismounted  on  seeing  the  tree,  and  going  to  its  root  he  looked
+up  and  thought,  "  In  the  morning  this  tree  stood  beautiful  with  its  burden
+of  fruit  and  the  gazers  could  not  be  satisfied  :  now  it  stands  not  beautifid
+with  its  fruit  broken  down  and  off."     Again  looking  from  another  place
+
+'  No.  459.  vol.  iv.
+
+
+No.   408.  229
+
+he  saw  another  mango  tree  barren,  and  thought,  "This  mango  tree  stands
+beautiful  in  its  barrenness  like  a  bare  mountain  of  jewels ;  the  other  from
+its  fruitfulness  [377]  fell  into  that  misfortune:  the  householder's  life  is  like
+a  fruitful  tree,  the  religious  life  like  a  barren  tree  :  the  wealthy  have  fear,
+the  poor  have  no  fear  :  I  too  would  be  like  the  barren  tree."  So  taking
+the  fruit-tree  as  his  subject,  he  stood  at  the  root ;  and  considering  the
+three ^  properties  and  perfecting  spiritual  insight,  he  attained  pacceka-
+buddha-hood,  and  reflecting,  "The  envelop  of  the  womb  is  now  fallen  from
+me,  re-birth  in  the  three  existences  is  ended,  the  tilth  of  transmigration  is
+cleansed,  the  ocean  of  tears  dried  up,  the  wall  of  bones  broken  down,  there
+is  no  more  re-birth  for  me,"  he  stood  as  if  adorned  with  every  ornament.
+Then  his  ministera  said,  "  You  stand  too  long,  O  great  king."  "  I  am  not
+a  king,  I  am  a  paccekabuddha."  "  Paccekabuddhas  are  not  like  you,  O
+king."  "  Then  what  are  they  like  ?  "  "  Their  hair  and  beards  are  shaved,
+they  are  dressed  in  yellow  robes,  they  are  not  attached  to  family  or  tribe,
+they  are  like  clouds  torn  by  wind  or  the  moon's  orb  freed  from  Rahu,  and
+they  dwell  on  Himalaya  in  the  Nandamfda  cave  :  such,  0  king,  arc  the
+paccekabuddhas."  At  that  nioment  the  king  threw  up  his  hand  and
+touched  his  head,  and  instantly  the  marks  of  a  householder  disappeared,
+and  the  marks  of  a  priest  came  into  view  : —
+
+Three  robes,  bowl,  razor,  needles,  strainer,  zone,
+A  pious  Brother  those  eight  marks  should  own,
+
+the  requisites,  as  they  are  called,  of  a  priest  became  attached  to  his  body.
+Standing  in  the  air  he  preached  to  the  multitude,  and  then  went  through
+the  sky  to  the  mountain  cave  Nandamiila  in  the  Upper  Hiujalaya.
+
+In  the  kingdom  of  Candahar  in  the  city  Takkasila,  the  king  named
+Naggaji  on  a  terrace,  in  the  middle  of  a  royal  couch,  saw  a  woman  who  had
+put  a  jewelled  bracelet  on  each  hand  and  was  grinding  perfume  as  she  sat
+near:  he  thought,  "These  jewelled  bracelets  do  not  rub  or  jingle  when  separ-
+ate," and  so  sat  watching.  Then  she,  putting  the  bracelet  from  the  right
+hand  [378]  on  the  left  hand  and  collecting  perfume  with  the  right,  began  to
+grind  it.  The  bracelet  on  the  left  hand  rubbing  against  the  other  made  a
+noise.  The  king  observed  that  these  two  bracelets  made  a  .sound  when
+rubbing  against  each  other,  and  he  thought,  "  That  bracelet  when  separate
+touched  nothing,  it  now  touches  the  second  and  makes  a  noi.se  :  just  so
+living  beings  when  separate  do  not  touch  or  make  a  noi.se,  when  they
+become  two  or  three  they  rub  against  each  other  and  make  a  din  :  now  I
+rule  the  inhabitants  in  the  two  kingdoms  of  Cashmere  and  Candahar,  and
+I  too  ought  to  dwell  like  the  single  bracelet  ruling  myself  and  not  ruling
+another  "  :  so  making  the  rubbing  of  the  bracelets  his  topic,  seated  as  he
+
+1  Impermanence,  suffering,  unreality.
+
+
+230  Thr  Jataka.     Book    I'll.
+
+
+was,  be  realised  the  thrae  properties,  attained  spiritual  inHight,  and  gaineii
+paccekabiuldha-hood.     The  rest  as  before.
+
+In  the  kiiigdoiii  of  V^idcha,  in  the  city  <>f  Mitliihi,  the  king,  iiiinicd
+Niini,  after  breakfast,  surntunded  by  his  nnni.stei>>,  Htond  looking  ilown  at
+the  street  through  an  open  window  of  the  palace.  A  hiiNvk,  iiiiviug  taken
+some  nu!;it  from  tin;  meat-market,  was  tlying  up  into  tin-  air.  Some
+vultures  or  other  birds,  surrounding  the  hawk  on  each  side,  went  on  peck-
+ing it  with  their  l)eak8,  striking  it  with  their  wings  and  boating  it  witli
+their  feet,  lor  the  sake  of  the  meat.  Not  enduring  to  be  killed,  the  hawk
+dropt  the  flesh,  another  bird  took  it :  the  rest  leaving  the  hawk  fell  on  the
+other :  when  he  relinquished  it,  a  third  took  it :  and  they  pecked  him  also
+in  the  .same  way.  The  king  .seeing  those  l)irds  thought,  "  Whoever  tot»k
+the  llesh,  sorrow  befel  him  :  whoever  relin<iuished  it,  happiness  bcfel  him  :
+whoever  tiikes  the  five  pleasures  of  sense,  sorrow  bi-fals  him,  happiness  the
+other  man  :  these  are  common  to  many  :  now  I  have  sixteen  thousand
+women  :  I  ought  to  live  in  happiness  leaving  the  live  plea-sures  of  sense,
+as  the  hawk  relin<iuishing  the  morsel  of  flesh."  Considering  this  wisely,
+['M\)]  standing  as  he  was,  ho  realisetl  the  three  properties,  attained  spiritual
+insight,  and  reached  the  wisdom  of  paccekabuddha-hood.  The  rest  as
+lief  ore.
+
+In  the  kingdom  of  Uttarapaflcala,  in  the  city  of  Kampilla,  the  king,
+named  Dummukha,  after  I)reakfa8t,  with  all  his  ornaments  and  surrounded
+by  his  ministers,  stood  looking  down  on  the  palace-yard  fnun  an  ojKm
+window.  At  the  instant  they  opened  the  door  of  a  cow-pen  :  the  bulls
+coming  from  the  pen  set  upon  one  cow  in  lust :  and  one  great  bull  with
+sharp  horns  seeing  another  bull  coming,  pos.se.ssed  by  the  jealousy  of  lust,
+struck  him  in  the  thigh  with  his  sharp  horns.  By  the  force  of  the  blow
+his  entrails  came  out,  and  so  he  died.  The  king  seeing  this  thought,
+"  Living  beings  from  the  state  of  bejists  upwards  reach  sorrow  from  the
+])0wer  of  lust :  tliis  bull  through  lust  has  reached  death  :  other  beings  also
+are  disturbed  by  lust :  I  ought  to  abandon  the  lusts  that  disturl)  those
+beings:"  and  so  standing  as  he  was  he  realised  the  three  properties,
+attained  spiritual  insight  and  reached  the  wisdom  of  paccekabuddha-
+hood.     The  rest  as  before.
+
+Then  one  day  those  four  paccekabuddhas,  considering  that  it  was  time
+for  their  rounds,  left  the  Nandauiida  cave,  having  cleansed  their  teeth  by
+chewing  betel  in  the  lake  Anotatta,  and  having  attended  to  their  needs  in
+Manosila,  they  took  the  bowl  and  robe,  and  by  magic  flying  in  the  air,  and
+treading  on  clouds  of  the  five  colours,  they  alighted  not  far  from  a  suburb
+of  Benares.  In  a  convenient  spot  they  put  on  the  robes,  took  the  bowl,
+and  entering  the  suburb  they  went  the  rounds  for  alms  till  they  came  to
+the  Bodhisatta's  house-door.  The  Bodhisatta  seeing  them  was  delighted
+and  making  them  enter  his  house  he  made  them  sit  on  a  seat  prepared,  he
+
+
+No.   408.  231
+
+gave  them  water  of  respect  and  served  them  with  excellent  food,  hard  and
+soft.  Then  sitting  on  one  side  he  saluted  the  eldest  of  them,  saying,  "  Sir,
+your  religious  life  appears  very  beautiful  :  your  senses  are  very  calm,  your
+complexion  is  very  clear :  what  topic  of  thought  [380]  made  you  take  to
+the  religious  life  and  ordination  ]  "  and  as  he  asked  the  eldest  of  them,  so
+also  he  came  up  to  the  others  and  asked  them.  Then  those  four  saying,
+"  I  was  so  and  so,  king  of  such  and  such  a  city  in  such  and  such  a  king-
+dom "  and  so  on,  in  that  way  each  told  the  causes  of  his  retiring  from  the
+world  and  spoke  one  stanza  each  in  order : —
+
+A  mango  in  a  forest  did  I  .see
+Full-grown,  and  dark,  fruitful  exceedingly :
+And  for  its  fruit  men  did  the  mango  lircak,
+'Twas  this  inclined  my  heart  the  bowl  to  take.
+
+A  bracelet,  polished  by  a  hand  renowned,
+A  woman  wore  on  each  wrist  without  sound :
+One  touched  the  other  and  a  noise  did  wake :
+'Twas  this  inclined  my  heart  the  bowl  to  t^ikc.
+
+Birds  in  a  flock  a  bird  unfricndctl  tore.
+Who  all  alone  a  lump  of  carrion  Ijoi-e:
+The  bird  was  smitten  for  the  carrion's  sake:
+'Twas  this  inclined  my  h&irt  the  bowl  to  take.
+
+A  bull  in  pride  among  his  fellows  paced  ;
+High  rose  his  back,  with  strength  and  l>cauty  gi-aced :
+From  lust  he  died  :   a  horn  his  wound  did  make :
+'Twas  this  inflinctl  my  hejirt  the  lx)wl  to  take.
+
+The  Bodhisatta,  hearing  each  .stanza,  .s;iid,  "  CJood,  sir:  your  topic  is
+suitable,"  and  so  commended  each  paccekabuddha :  and  having  listened  to
+the  discourse  delivered  by  those  four,  lie  Ijecame  disinclined  to  a  house-
+holder's life.  When  the  paccekabuddhas  went  forth,  after  breakfast
+seated  at  his  ease,  he  called  his  wife  and  said,  "  Wife,  those  four  pacceka-
+buddhas left  kingdoms  to  be  Brethren  and  now  live  without  sin,  without
+hindrance,  in  the  Ijli.ss  of  the  religious  life  :  while  I  make  a  livelihood  by
+earnings:  what  have  I  to  do  with  a  householder's  life?  do  you  take  the
+children  and  stay  in  the  house":  and  he  spoke  two  stanzas  : —
+
+Kalinga's  king  Karandu,  (Jandhfira's  Xaggaji,
+
+Pancala's  ruler  Dummuklia,  Videha's  great  Ximi,
+
+Have  left  their  thrones  and  live  the  life  of  Brothers  sinlessly.
+
+Here  their  godlike  forms  they  show
+
+Each  one  like  a  blazing  tire:
+Bhaggavi,  I  too  will  go.
+
+Leaving  all  that  men  desire.
+
+[382]  Hearing  his  words  she  said,  "  Husband,  ever  since  I  heard  the
+discourse  of  the  paccekabuddhas  I  too  have  no  content  in  the  house,"  and
+she  spoke  a  stanza  : —
+
+
+232  Thr  Jataka.      Book    VII.
+
+'Tis  the  apiwinted  time,  I  know :
+
+Better  tciichers  iimy  not  bo :
+Hhfiggiiva,  I  t<><>  will  go,
+
+Like  a  Mnl  from  h.uul  >ft  free.
+
+Till-  hodliisjittu  hearing  lu'r  words  was  sih-nt.  She  wa.s  ilect-iving  the
+JjodhiiMitUi,  and  was  anxious  to  take  the  religious  lite  l>efore  hini:  so  she  said,
+•' Hu8ban<l,  T  am  going  to  the  water-tank,  do  you  look  afl*T  the  children,"
+and  taking  a  pot  as  it'  she  had  heen  going  there,  she  went  away  and  coming  to
+the  ascetics  outside  tht;  town  shi-  was  ordained  l)y  them.  l  he  li<>«lhi8iitta
+dnding  that  she  did  not  return  attended  to  the  children  himself.  After-
+wards when  they  grew  wy  a  little  and  could  understand  for  themselves,  iu
+order  to  teach  then)  [383],  when  cooking  rice  he  would  cook  one  day  a  little
+hard  and  raw,  one  day  a  little  underdone,  one  day  well-cooked,  one  day
+sixlden,  one  day  witlwnit  salt,  another  with  too  much.  The  children  said,
+"  Father,  the  rice  to-day  is  not  boiled,  to-tlay  it  ih  smlden,  today  well
+cooked :  to-day  it  is  witliout  salt,  to-day  it  has  too  much  salt."  The
+Hodhi.satta  .saiil,  "  Ye.s,  deaj-s,"  and  thought,  "  These  children  now  know
+what  is  raw  and  what  is  cooked,  what  has  salt  and  what  has  none  :  they
+will  lx>  able  to  live  in  their  own  way  :  I  ought  t«»  become  ordained."
+'I'hen  showing  them  to  their  kinsfolk  Im'  was  ordained  to  the  religious  life,
+and  dwelt  outside  the  city.  Then  one  day  the  female  astcetic  Iw'gging  in
+Benares  saw  him  and  saluted  him.  Haying,  "Sir,  I  lK?lieve  you  kilhnl  the
+children."  The  Hodhi.satta  sai<l,  "  I  don't  kill  children  :  when  they  could
+undi'rstand  for  then).s«'Ive3  I  became  ordained  :  you  were  careless  of  them
+and  pleased  youi-self  by  being  ordaineil"  :  and  .so  he  sjioke  the  last  stanza  : —
+
+Having  .seen  they  could  distingnisli  .sjvlt  from  .saltleH.s,  lK)iled  from  raw,
+I  l»ecame  a  Brother:    leave  me,  we  can  follow  each  the  law.
+
+So  exhorting  the  female  ascetic  he  took  leave  of  her.  She  taking  the
+exhortation  saluted  the  liodhisatta  and  went  to  a  place  that  plea.sed  her.
+After  that  day  they  never  saw  each  other.  The  B<T<lhisatta  reaching  super-
+natural kn(nvleilgo  became  destined  to  the  Brahma  heav»'n.
+
+
+After  the  lesson,  the  Mjuster  ileclaretl  the  Truths,  and  identified  the  Birth  : —
+After  the  Truths  tivc  humlreil  Brothers  were  established  in  Sainthood: — "At
+that  time  the  daughter  wa.s  l'piw\lavanna,  the  .son  was  Rahula,  the  female
+a.scetic  Rahulas  mother,  and  the  a.scetic  wa.s  myself."
+
+
+No.  409.  233
+
+
+No.  409.
+
+
+DALHADHAMMA-JATAKA.
+
+[384]  "/  carried  for  the  king"  vtc.  The  Master  told  this  when  dwelling  in
+the  Ghosita  forest  near  Kosarabi,  concerning  Bhaddavatita,  king  Udena's  she-
+elephant.  Now  the  way  in  which  this  elephant  was  adometl  and  the  royal  lineage
+of  rdena  will  be  set  forth  in  tlie  Matiii'iga*  Birth.  One  diiy  this  elephant  going
+out  of  the  city  in  the  moniing  siiw  the  Buddha  surrounded  by  a  multitude  of  siiints,
+in  the  inconipiirahle  majesty  of  a  Buddha,  entering  the  city  for  alms,  and  falling
+at  the  Tathagatii's  feet,  with  lamentiition  slie  prayed  t<j  him,  sjiying,  "Lord
+who  knowest  all,  siiviour  of  the  whole  world,  when  I  waa  young  and  able  to  do
+work,  Udena,  the  rightful  king,  loved  me,  .siiying,  'My  life  ami  kingdom  and
+queen  are  all  due  to  her,'  and  gave  n»e  gi-e;it  honour,  ad<jrning  me  with  all  orna-
+ments ;  he  had  my  sUiU  smearetl  with  jKirfumeil  earth,  anil  coloured  hangings
+put  round  it,  and  a  lamp  lit  with  i>crfumeil  oil,  and  a  dish  of  incense  set  there,  he
+had  a  golden  \n>t  set  on  my  dunghill,  and  made  me  st<ind  on  a  coloured  cajpet,
+and  gave  me  royal  foot!  of  many  choice  flavours  ;  but  now  when  I  am  old  and
+civnnot  do  work,  he  has  cut  ott'  all  that  honour  ;  unprotected  and  de.stitute  I
+live  by  eating  ketakit  fruit  in  the  forest;  I  have  no  other  refuge  :  make  L'dena
+think  on  my  merits  and  restore  me  again  my  old  honour,  O  Lord."  The  Master
+said,  '"(Jo  thou,  I  will  siHJiik  to  the  king  and  get  thy  old  honour  rcst<jretl," and  he
+went  to  the  door  of  the  king's  dwelling.  The  king  made  Budtlha  enter,  and  gave
+greiit  entertiiinment  in  the  jwilace  to  the  assembly  of  brethren  following  I'uddha.
+When  the  meal  Wius  over,  the  Ma.stcr  gave  thanks  Ui  the  king  and  iusked,  "O
+king,  where  is  Bhaddavatika  ?"  "Lord,  I  know  not."  "O  king,  after  giving
+honoiu*  to  .servants,  it  is  not  right  to  t^ike  it  away  in  their  old  age,  it  is  right  to
+be  grateful  and  thankful;  Bhaddavatiku  is  ikjw  old,  she  is  worn  with  age  and
+unprotected,  and  she  lives  by  editing  ketika  fnut  in  the  wrxxl :  it  is  not  meet  for
+you  to  Iftive  her  unprotected  in  her  old  age":  s(i  telling  l)ha(ldavatika's  merits
+and  Siiyiug,  "  Re.stt>re  all  her  fonaer  honours,"  [38.')]  he  departc<l.  The  king  did
+so.  It  Wius  spread  over  the  whole  city  that  the  former  honour  w;is  rcsttjred
+beciiuse  the  Buddha  had  told  her  merits.  This  l>eciime  known  in  the  a.ssembly
+of  the  Brethren,  and  the  Brethren  di.scu.ssed  it  in  their  meeting.  The  Ma.ster,
+coming  and  hairing  that  this  w;us  their  subject,  s<iid,  "  Brethren,  this  is  not  the
+fii-st  time  that  the  Buddha  has  hy  telling  her  merits  got  her  former  honours
+i-esto!X'd  ' :  and  he  toM  the  tale  of  old.
+
+
+Once  ujwn  a  time  there  was  a  king  named  Dajhadhamma  reigning  in
+Benares.  At  that  time  the  Bodhi.satta  was  born  in  a  minister's  family,
+and  when  he  grew  up  he  served  the  king.  He  received  much  honour  from
+the  king,  and  stood  in  the  place  of  the  most  valued  minister.  The  king
+had  a  certain  she-elephant*,  endowed  with  miglit  and  very  strong.  She
+went  a   hundred  leagues   in   one  day,  she  did  the   duties  of  messenger
+
+'  No.  4117,  vol.  iv.
+
+-  Morris.  Jouni.  Pali  Text  Soc.  for  1887,  p.  150 :  but  possibly  the  word  means
+shi-ramel.
+
+
+234  Thr  Jflfuhi.      Book    VII.
+
+
+tur  tlir  kiii<j;,  utitl  in  battle  she  fought  and  crushed  tho  enemy.  'I'hu
+kiii^  said,  "Sin-  is  vn-y  serviceahle  to  me,"  gave  Imt  nil  ornamcntB  and
+cauHcd  all  honour  to  \n'  given  h<T  such  a«  Udt'iui  gave  t<»  Hhadihivatika.
+Then  when  she  wax  weak  from  uge  the  king  t«M>k  away  all  lier  honour.
+From  that  time  sin-  wa.s  unprutoeted  and  lived  hy  eating  grusM  and  leaven
+in  the  t'f)re8t.  Then  one  day  when  tho  vohwIh  in  tlie  king'H  court  were
+not  sutlicient,  the  king  sent  for  a  potter,  and  .siiid,  "The  vejwelM  an*  not
+sutticieut."  "  O  king,  I  have  no  oxen  to  yoke  in  carts  to  bring  cow-dung
+(for  baking  clay)."  Tlie  king  hearing  this  tale  said,  "Where  is  our
+she  elephant  ? "  "O  king,  xhe  i.s  wandering  at  her  own  will."  The
+king  gave  her  to  the  potter,  miying,  "  Henceforth  do  thou  yoke  her  and
+bring  cow-dung."  The  potter  said,  "(JotmI,  O  king,"  ami  did  ho.  Then
+one  (lay  ^he,  coming  out  of  the  (rity,  .S4iw  the  IJodhisjitta  coming  in,  and
+fiilling  iit  hi.s  feet,  Hho  Raid,  lamenting:  "Lord,  tho  king  in  my  youth
+coUHidered  me  v»'ry  serviceable  and  gave  me  great  honour  :  [SHfi]  now  that
+I  am  old,  he  has  cut  it  all  away  and  takes  no  thought  of  me  ;  I  am  unpro-
+tected and  live  l)y  eating  gni««  and  leaves  in  the  forest ;  in  this  misery  ho
+has  now  given  mo  to  a  |>otier  to  yoke  in  a  cart  ;  e.xcept  thee  I  have  no
+refuge  :  thou  knowest  my  service.s  to  the  king;  nstmc  nu-  imw  ilu'  hi>nour
+I  have  lost":  and  she  8[K)ke  three  ntanrius  :-—
+
+I  carried  for  tho  king  of  old:  was  ho  not  satisficti  ?
+
+With  wcajMHis  at  my  brea.st   I   facetl  tho  fight  with  mighty  striile.
+
+My  feats  in  battle  done  of  old  cUh>n  not  tho  king  forget.
+And  such  good  services  I  did  for  couriers  as  arc  .set?
+
+IIolplcss  and  kinlcHs  now  am   I  :    sun»ly  my  death  is  near,
+To  .serve  a  i>otter  when    I'mj  come  a.s  his  dung-carrier.
+
+[.'}iS7j  The  Hodhisatt.t,  hearing  her  tale,  comforted  her,  saying,  "Grieve
+not,  I  will  tell  the  king  and  restore  thy  honour":  so  entering  the  city,  he
+went  to  the  king  after  his  morning  meal  and  took  up  the  talk,  saying,
+"Ureat  king,  did  not  a  she-elephant,  named  so  and  so,  enter  battle  at
+such  and  such  places  with  weai)ons  bound  on  her  breast,  and  on  such  a
+day  with  a  writing  on  her  neck  did  she  not  go  a  huntlred  leagues  on  a
+me.ssage  J  Thou  gavest  her  great  honour:  where  is  she  now  ? "  "  I  gave
+her  to  a  potter  for  carrying  dung."  Then  the  Bodhisiitta  said,  "Is  it
+right,  great  king,  for  thee  to  give  her  to  a  potter  to  be  yoked  in  a  cart?"
+And  for  admonition  he  .s}>oke  four  .stauziis  : —
+
+By  saltish  hopes  men  regulate  the  honours  that  they  pay  :
+As  you  the  elephant,  they  throw  the  outworn  slave  away.
+
+Cioot^l  deeds  and  service.s  received  whenever  men  forget.
+
+Ruin  piu"sues  the  bii.siuess  .still  on  which  their  heails  are  set.
+
+Good  deeds  and  services  received  if  men  do  not  forget,
+Success  attends  the  business  still  on  which  their  lioarts  are  set.
+
+
+No.  409.  235
+
+To  all  the  multitude  around  this  blessed  truth  I  tell :
+
+Be  grateful  all,  and  for  reward  you  long  in  heaven  shall  dwell.
+
+[388]  With  this  Inginning  the  Bodhisattii  gave  instruction  to  all
+gathered  there.  Hearing  this  the  king  gave  the  old  elephant  her  former
+honour,  and  established  in  the  Bodhisjitta's  instruction  gave  alms  and  did
+works  of  merit  and  became  destined  for  heaven.
+
+
+After  the  le.s.s(in,  the  Ma-stcr  idontified  the  Rirtli : — "At  that  titnc  the  she-
+elcphaut  Wii.s  Uliaddavatika,  tlie  king  Auauda,  the  mini.>ster  waa  I  my.self."
+
+
+No.  410.
+
+SOMADATTA-JATAK.A.
+
+
+^^ Deep  ill  the  ic^xxl"  etc. — Tlie  Mii.ster  told  this  while  dwelling  at  Jetavana,
+alx)ut  a  certain  <»U1  lirother.  The  .story  wjls  that  thi.s  Hr<)thcr  onlaincd  a  novice,
+who  waitc<l  on  liiin  but  soon  died  of  a  fatal  di.s«use.  The  old  man  went  about
+weeping  and  wailing  for  his  dciith.  Seeing  him,  the  Hrethren  lH)gan  to  tilk  in
+the  Hall  of  Truth,  "Sirs,  this  olil  Urother  goes  aU)ut  weei)ing  and  wailing  for  the
+novice's  death  :  he  must  surely  have  neglcvted  the  meditiition  on  dc;ith."  The
+Miuster  came,  ami  hearing  the  subject  i>f  their  tfilk,  he  sun],  "  brethren,  this  i.s
+not  the  tirwt  time  this  man  is  weeping  for  the  otliur'.s  de^ith,"  and  so  ho  told  the
+old  tale.
+
+
+Once  upon  a  time  when  Hruhmadatta  wna  reigning  in  Benares,  the
+Bodhisattii  was  Sakka.  A  certain  wealthy  brahmin,  living  in  Benares,
+left  the  world,  tmd  became  an  ascetic  in  the  Himalaya,  [389]  living  by
+picking  up  roots  and  fruits  in  the  forest.  One  day,  searching  for  wild
+fruits,  he  Siiw  an  elephant-calf,  and  took  it  to  his  hermitage  :  he  made  as
+if  it  were  his  own  son,  calling  it  Somadatta,  and  tended  it  with  footl  of
+gi-ass  and  leaves.  The  clcphaut  grew  up  to  l>e  gi*eat  :  but  one  day  he  took
+much  food  and  fell  sick  of  a  surfeit.  The  ascetic  took  him  inside  the
+hermitage,  and  went  to  get  wild  fruits  :  but  before  he  came  back  the  young
+elepiiant  di<'d.  Coming  liack  with  his  fruits,  the  ascetic  thought,  "On  other
+days  my  child  comes  to  meet  me,  but  not  to-day  ;  what  is  the  matter  with
+him  ]  "   So  he  lamented  and  spoke  the  firet  stanza  : —
+
+Deep  in  the  wood  he'd  meet  mo  :  but  to-day
+No  elephant  I  .see  :  where  does  he  stray  ?
+
+
+23r,  The  Jakika.      Book    VII.
+
+
+With  this  lament,  he  saw  the  elephant  lying  at  the  end  of  the
+coverucl  wulk  ami  taking  him  round  thu  neck  ho  H^xjko  the  Hecond  Mtunza
+in  lamentation  : —
+
+'Ti.s  ho  thnt  lies  in  duith  cut  down  (im  ii  tender  nhitot  in  Hhrod  ;
+Low  on  tho  ground  ho  li(*M  :  uIils,  my  olephant  i.s  dead.
+
+At  the  instant,  Sukkii,  surveying  the  worM,  thought,  "  Tliifl  HHcutic  left
+wife  and  child  for  religion,  now  he  is  lamenting  the  young  elephant  whom
+he  culle<l  lii.s  hoii,  I  will  rouHe  hiiu  imd  make  him  think,"  and  ho  coming  to
+the  lieniiita^^e  he  stood  in  the  iiir  and  s^ntke  the  third  Ktanza  :-  -
+
+[31MJ]  I'll  .sorrow   for  the  dead  doth  ill   IxK-omu
+
+The  lono  iiMcetif,  fre»'d  from   ti«'s  of  home.
+
+Hearing  this,  the  aacetic  sjtoke  the  fourth  Htan&i : —
+
+Slioidd  nwiM  with  ln'^^t  consort,  ()  Sakka,  grief
+For  a  lost  plivymate  finds  in  tears  relief.
+
+Sakka  uttered  two  stanza-s,  admoniNliing  him  : —
+
+Such  nn  to  wtwp  are  fain  may  Htill  lament  the  ilcad.
+Weep  not,  ( )  .nago,  'tis  vain  to  w»»ep,  tho  wise  have  s.iid.
+
+If  l)y  our  tears  wo  ntight  prevail  against  tho  grave,
+Thus  Would  wo  all  unite  our  doaroMt  one«  to  save.
+
+Hearing  Sakka's  words,  the  ascetic  took  thought  and  comfort,  driotl  hi»
+teai-H,  and  uttered  the  remaining  stanza-s  in  praine  of  Sakka : —
+
+As  ghcc-fcd  tlame  that  hla/os  out  amain
+
+Is  (pionchml  with  water,  .so  ho  rpienchc*.!  my  pain.
+
+With  .s4irrow's  .shaft  my  heart  wjls  woundetl  .sore  :
+He  liealetl  my  womut  and  did  my  life  roMtoro.
+
+[:V.H]  Tilt'  l..irK  c.\tractoil,  full  of  joy  and  iKsaco,
+
+.Vt  ."sakka's  word.s  I   from  my  .sorrow  cease.
+
+rinse  were  given  ahove'.
+
+After  admonishing  tho  ascetic,  Sakka  went  to  his  own  place.
+
+
+The  Ma.'^tor,  after  the  lesson,  identifie«1  the  Birth  :    "At  that  time  the  yovmg
+elephant  wa-s  the  novice,  tho  a.scetic  tho  old  Brother,  Sakka  was  I  my.self.''
+
+'  See  supra,  p.  214.
+
+
+No.   411.  237
+
+No.  411.
+
+SUSiMA-JATAKA.
+
+"  Heretofore  the  hairs"  etc. — The  Ma.ster  told  this  tiilc  while  dwelling  in
+JetiiVHiKi,  fibout  the  Great  RenuiKiutioii.  The  Brethren  wei-e  hitting  in  the  Hall
+uf  Truth,  iiraising  the  Buddha's  renunciation.  The  Master,  tinding  that  this
+\V!is  their  topic,  .siiid,  "Brethren,  it  is  not  strange  that  I  should  now  make  the
+Gre(it  Renunciation  and  retin'iaent  from  the  wi)rld,  I  who  have  for  many  hundnKl
+thou.siind  ages  e.\erciseti  j>erfection  :  of  old  also  1  gave  ui»  the  reign  over  the
+kingdom  of  Kfisi,  three  hundrcil  leagues  in  extent,  and  mouc  the  renunciation,"
+and  so  he  told  the  old  tale.
+
+
+Onc«!  upon  a  time  when  Braliniadatta  was  rt-igning  in  lienares,  tin*
+liodhisatta  was  conceived  in  the  womb  of  his  priest's  chief  wife.  On  the
+day  of  his  birth,  the  king  also  had  a  son  born.  On  the  naming  day  they
+called  the  (Jreat  Being  Susuna-Kuinara,  and  the  king's  son  lirahmadatta-
+Kumara.  The  king,  seeing  the  two  were  l»orn  on  the  .same  day,  liad  the
+Hoilhisatta  given  to  the  nurse  and  brought  up  together  witli  his  own  son.
+They  both  grew  up  fair,  like  sons  of  gcnhs  :  [.'JOl']  they  both  learned  all
+sciences  at  Takkasilii  and  came  liome  again.  The  prince  became  viceroy,
+eating,  drinking,  and  living  along  with  the  Hodhisatta  :  at  his  father's
+death  he  became  king,  giving  gn-at  h<jnour  to  tin-  }5<jdhisalta  an<l  making
+him  his  priest  :  one  day  he  adorned  the  city,  and  decke<l  like  Sakka,  king
+of  gods,  he  went  round  the  city  in  procession,  seated  on  the  shoulder  of  a
+royal  elephant  in  his  pride,  e(pial  to  Eravana',  with  the  liodhisatta  behind
+on  the  elephant's  back.  The  queen -mother,  hxiking  out  from  the  royal
+window  to  see  her  son,  saw  the  priest  V>ehind  him  as  he  came  back
+from  the  procession  :  she  fell  in  love  with  him  and  entering  her  chamber
+thought,  "  If  I  cannot  win  him,  I  shall  die  here  "  :  so  she  left  her  f(XKl  and
+lay  there.  The  king,  not  seeing  her,  asked  after  her :  wlien  he  heard  she
+was  ill,  he  went  to  her,  and  askr-d  with  respect  what  ailed  her.  Sljf  would
+not  tell  for  shame.  He  .sat  on  the  royal  throne,  and  .sent  his  own  chief
+queen  to  find  what  ailed  his  mother.  She  went  and  asked,  stroking  the
+qutH'n -mother's  back.  Women  do  not  hide  .secrets  from  women  :  and  the
+secret  Wius  told.  The  queen  went  and  told  the  king.  He  .said,  "  Well,  go
+and  comfort  her  :  I  will  make  the  priest  king,  and  make  her  his  chief
+queen."  She  went  and  comforted  her.  The  king  sent  for  the  priest
+and  told  him   the  matter,  "Friend,  save  my  niotht-r's  life:   thou  shalt  be
+
+'  .Sakka's  elephant.
+
+
+238  The  Jatdka.      Book    VII.
+
+
+king,  ahe  thy  chief  queen,  I  viceroy."  The  prient  said,  "It  caunot  bo":
+liut  hein^  asked  a<{uin  h(>  couHenttMl  :  iiiul  the  kin<<;  math*  the  pri<*8t  king,
+th«'  (jum-n-inothcr  chiff  (|UtM'ii,  and  hiinsrlf  viciTDy.  Thry  livt-tl  till  in
+harmony  to<^ethor,  hut  thi^  Hodhisutta  piiu'tl  uniid  h  houstdioldiTM  life  :  he
+lofl  de8ir«!M  and  lounetl  to  a  n-ligiouH  life  :  careh'tw  of  tlie  pleanuren  <if  HeuHo
+he  Htood  and  sat  and  hiy  alono,  like  a  man  hound  in  jail  or  a  rock  in  a
+cage.  [393]  The  chit'f  queen  thought,  "  Tht;  king  avoids  me,  he  Htandn
+and  Kits  and  lies  alone;  he  is  young  and  frenh,  I  am  old  and  have  grey  haira  :
+what  if  I  were  to  tell  him  a  8t<»ry  that  he  has  one  grey  hair,  make  him
+helievo  it  and  seek  my  company?"  One  day,  as  if  cleaning  the  king's
+head,  she  said,  "  Your  majesty  is  getting  old,  theiv  is  a  gi-ey  hair  on  your
+head."  "  Pull  it  out  and  put  it  in  my  hand."  She  pulle<l  a  hair  out,
+hut  thnw  it  away  and  put  int«)  his  hand  one  of  her  own  grey  hail's.
+When  he  sjiw  it,  fear  of  death  nuule  the  sweat  start  from  his  forehead,
+though  it  was  like  a  plate  of  gold.  Ife  admonished  himself,  saying,
+"  Susima,  you  have  U'come  old  in  your  youth  ;  all  this  time  sunk  in  the
+mud  of  desire,  like  a  village  pig  wallowing  in  tilth  and  mire,  you  cannot
+leave  it  :  quit  de.sires,  and  hecome  an  ascetic  in  the  Himalaya  :  it  is  high
+time  for  the  religious  lif«',"  and  with  this  thought,  he  uttered  the  first
+stanza : —
+
+Heretofore  the  hair>«  wore  dark
+
+Clustering  al>out  niy  hrow  ;
+White  to-<lay  :  Su.slma,  mark  I
+
+Time  for  religion  now  I
+
+So  the  H(Klhisattn  praised  the  religious  life  :  hut  the  queen  saw  she
+had  cau.setl  him  to  leave  her  instead  of  loving  her,  and  in  fear,  wishing
+to  keep  him  from  the  religious  life  hy  praising  his  body,  she  uttered  two
+stanzas  : —
+
+[374]  Mine,  not  tliiiic,  the  silvore*!  hair  ;
+
+Mine  the  head  fmm  which  it  came  :
+For  thy  gixxl  the  lie   I  dare:
+One  such  fault  forbear  t4)  hlamc  !
+
+Thou  art  young,  and  fair  to  see.
+
+Like  a  tender  plant  in  spring  I
+Keep  thy  kingdom,  smile  on  me  I
+
+Seek  not  now  what  age  will  bring  !
+
+But  the  Bodhisiitta  sjiid,  "  Lady,  you  tell  of  what  must  corae  :  as  age
+ripens,  these  dark  haii-s  must  turn  and  become  pale  like  betel :  I  see  the
+change  and  breaking  up  of  body  that  comes  in  years,  in  the  ripening  of
+age,  to  royal  maids  and  all  the  rest,  though  they  are  tender  as  a  wreath  of
+blue  lotus- tie wers,  fair  as  gold,  and  drunken  with  the  pride  of  their  glorious
+youth  :  such,  lady,  is  the  dreary  end  of  living  beings,"  and,  moreover,
+showing  the  truth  with  the  charm  of  a  Buddha,  he  uttered  two  stanza.s  : —
+
+
+No.   411.  239
+
+[395]  I  have  marked  the  youthful  maid,
+
+Swaying  like  the  tender  stalk,
+In  her  pride  of  fimu  airaye*:! ;
+Men  are  witched  where'er  she  walk.
+
+'Tis  tlie  same  one  I  have  scanned
+
+(Eighty,  ninety,  ye^irs  have  luussed),
+Quivering,  palsie<],  staff'  in  hand.
+
+Bent  like  rafter-tree  at  last.
+
+In  this  stanza  the  Great  Being  showed  the  misery  of  hcauty,  antl  now
+dechirod  liis  discontent  with  the  householder's  life  : —
+
+[396]  Such  the  thoughts  I  nonder  o'er;
+
+Lonely  nights  the  tlioughts  allow:
+Layman's  life  I  love  no  more:
+Time  for  religion  now !
+
+Delight  in  layman's  life  is  a  weak  stay :
+The  wise  man  cuts  it  off"  and  g<jes  his  way,
+Renouncing  joys  of  sense  and  all  their  sway.
+
+Thus  declariniLf  l)Oth  tlie  delight  iind  misery  of  desires,  hr  sIiowimI  tin-
+truth  with  all  a  Buddha's  charm,  lie  sent  for  Ids  friend  and  made  him
+take  the  kingdom  again  :  he  left  his  majesty  and  power  amid  the  loud
+lamentations  nf  kinsmen  and  friends  ;  lie  hecame  an  a.scetic  sage  in  the
+Himalaya,  ami  ••ntering  on  the  ecstasy  of  meditation,  became  destined  for
+the  wurld  of  Brahma.
+
+
+[397]  After  the  les.H<>n,  the  Master  declaretl  the  Truth.s,  and  giving  the  drink
+of  ambrosia  to  many,  he  identifie<l  the  I'irth  :  "At  that  time  the  chief  queen  wa.s
+the  mother  of  Rahula,  the  king  wa.s  Ananda,  and  king  Suslma  was  I  myself."'
+
+
+No.  412.
+
+KOTISIMBALI-JATAKA '.
+
+"/  liore  xrith  me,"  etc.-  The  Ma.ster  told  this  tile  while  dwelling  in  Jetivaufi,
+concerning  rebuke  of  sin.  The  incident  leading  to  the  tile  will  api>ear  in  the
+Panna-  Birth.  On  this  occ;ision  the  Master,  perceiving  that  Hve  hundre<l  Brethren
+were  overcome  by  thoughts  of  desire  in  the  House  of  the  fJolden   Pavement,
+
+'  Compare  No.  370,  supni.
+•  Not  known.
+
+
+240  Thr  Jataka.      Book    VII.
+
+
+gathorud  the  tuMombly  and  euud,  "  Bruthrcii,  it  in  right  to  di»tniMt  whoro  ditftnuit
+
+JH  iit'oper;  mjus  siin'ouiiii  n  man  lus  hanyjins  and  siuh  phiiits  grow  n\)  art)und  a
+tree:  in  this  way  of  old  n  spirit  dweUing  in  the  top  of  u  c»)tton-trft'  mjiw  a  hinl
+voiding  the  haiiyan  .s«'chIs  it  had  eaten  among  the  hrancheH  of  the  cotton -trc**,
+and  liecanio  territio<l  lortt  her  alnxie  should  thereby  conio  to  doHtniction :"  and  mt
+ho  told  a  talc  of  old.
+
+
+Oner  upon  ;i  (inn-  when  i'>r:iliinadiitta  was  rtigning  in  Ik'naifs,  the
+i'liilhisatta  was  a  trec-.spirit  dwelling  in  the  top  of  a  cotton-tree.  A  king
+of  the  roc-H  assumed  a  shapr  a  hundr«*d  and  fifty  leagties  in  r.xt<'nt,  and
+ilividing  tin;  water  in  the  great  ocean  hy  the  Mast  of  his  wingH,  he  Hcizcd
+hy  the  tail  a  king  of  Hnake.s  a  thousand  fathoniH  long,  and  making  the
+snake  disgorge  what  he  had  sei/.tnl  in  his  mouth,  he  flew  along  tin*  tri'e
+tops  towards  the  cotton-tree.  The  Hnake  king  thought,  "  I  will  make  him
+drop  me  and  lot  me  go,"  so  he  Htuck  his  ho<Kl  into  a  Imuyan-tree  and
+wound  himself  round  it  tirndy.  Owing  to  the  rm*  king's  strength  and  the
+great  size  of  the  snake-king  the  banyan  was  uprooted.  IJut  the  snake-
+king  would  not  let  go  the  banyan.  The  roc-king  took  the  anake-king,
+banyan-tr«'e  and  all,  to  the  cotton-ti-e«>,  laid  him  on  the  trunk,  openecl  hiH
+belly  [3'jyJ  and  ate  the  fat.  Then  he  thn^w  the  rent  of  the  carca.se  into
+the  sea.  Now  in  that  banyan  there  was  a  certain  bird,  who  Hew  up
+when  the  banyan  was  thrown  away,  and  |H«rched  in  one  of  the  boughs  high
+t)n  the  cotton  tree.  The  tree-spirit  seeing  the  bird  shook  and  tninbled
+with  fear,  thinking,  "This  bird  will  let  its  <lroppings  fall  on  my  trunk:
+a  growtli  of  banyan  or  of  fig  will  arise  and  go  spreading  all  «>ver  my
+tree:  so  my  home  will  be  destroyed."  The  tree  .«hook  to  the  i-oot«  with
+the  trendding  of  the  spirit  The  roc-king  |)erceived  the  trend)ling,  and
+spoke  two  stanza.s  in  en<piiry  as  to  the  reason  : —
+
+1   Imux'  with  nie  the  thousjintl  fathoms  length  of  that  king-snake:
+His  si/0  ami  my  huge  bulk  you  l>ore  Jind  yet  you  did  not  quake.
+
+l'>ut  now  this  tiny  binl   von  licjir,  .so  small  connMinxl  to  mo:
+Vou  shake  with  fe.ir  ami  trondile;   but  wherefore,  cotton-tree?
+
+Then  the  deity  s|)oke  four  stanzjis  in  explanation  of  the  reason  :--
+
+Flesh  is  thy  fix)d,  O  king :   the  bird's  is  fruit :
+Seeds  of  the  banyan  and  the  fig  he'll  shtx)t
+And  bo-tree  too,  and  all  my  trunk  ixjllute;
+
+They  will  grow  trees  in  shelter  of  my  stem,
+And  I  shall  be  no  tree,  thus  hid  by  them.
+
+[399]  Other  trees,  once  strong  of  root  and  rich  in  branches,  plainly  show
+How  the  scetls  that  birds  do  carry  in  destruction  lay  them  low.
+
+Parasitic  growths  will  bury  e'en  the  mighty  forest  tree:
+This  is  why,  O  king,  I  quiver  when  the  fear  to  come  I  see.
+
+
+No.   412.  241
+
+Hearing  the  tree-spirit's  words,  the  roc-king  spoke  the  final  stanza : —
+
+Fear  is  right  if  things  are  fearful :  'gainst  the  coming  danger  guard :
+Wise  men  look  on  both  worlds  calmly  if  they  present  fears  discard.
+
+So  speaking,  the  roc-king  by  his  power  drove  the  bird  away  from  that
+tree.
+
+
+After  the  le.s.son,  the  Ma.ster  declared  the  Truths,  beginning  with  the  words:
+"It  i-s  right  to  distrust  where  distrust  is  j.roi>er,"  and  identified  the  Birth :— after
+the  Truths  [400]  five  hundred  Bretlii-en  were  est^iblished  in  Sainthood  :— "At
+that  time  Sariputtii  wits  the  roc-king  and  I  myself  the  tree-spirit."
+
+
+No.  413.
+
+DnrM.VK.\UI-J.\TAKA.
+
+"  The  riyhteoxu  tiiu/,"  etc.— Tha  Miuster  told  this  tale  while  dwelling  in
+Jetavams  concerning  the  K<>.sida  king's  favour  Ut  a  stranger.  At  one  tune,
+the  .story  g(x)s,  that  king  showed  no  fivciur  to  his  old  warriors  who  came  to  him
+in  the  u.sual  whv,  but  gave  lujnour  and  ho.spit<ility  to  strangcrw  connng  for  the
+first  time.  He 'went  to  fight  in  a  distiu-bed  frontier  province:  but  his  old
+warriors  would  not  fight,  thinking  that  the  new-comerw  who  were  in  favour
+would  do  so;  and  the  new-comers  would  not,  thinking  that  the  old  warriors
+would.  The  reikis  prevailed.  The  king,  knowing  that  his  defeat  wa.s  owing  to
+the  misUke  he  had  made  in  showing  favour  to  new-comers,  returned  to  Savatthi.
+He  resolved  Ui  a.sk  the  Lord  of  Wisdom  whether  he  wa.s  the  only  king  who
+had  ever  been  defwited  f<jr  that  reason :  so  after  the  m.^rning  meal  he  went  to
+Jetavana  and  put  the  question  to  the  Master.  The  Mjwter  answered,  "(ireat
+King  yours  is  not  the  only  case :  former  kings  al»«j  were  defe<itcd  by  rea.son  of
+the  favour  they  showed  to  new-comers,"  and  .so,  at  the  king's  re<iuest,  he  t4>ld  an
+old  tala
+
+
+Once  upon  a  time  in  the  city  of  Indapattana,  in  the  kingdom  of  the
+Kuru.s,  a  king  was  reiguing  named  Dhanailjaya,  of  the  race  of  Yudhitthila.
+The  Bodhisatta  wiis  born  in  the  house  of  his  family  priest.  Wlieu  he  grew
+up,  he  learned  all  the  arts  at  Takkasila.  He  returned  to  Indapattana,  and
+at  his  father's  death  he  l>ecame  family  priest  to  the  king  and  his  coun.sellor
+in  things  temporal  and  spiritual.  His  name  was  called  Vidliurapandita.
+J.   m.  ^^'
+
+
+242  TJic  Jataha.     Book   VII.
+
+
+King  Dhanufljaya  disregarded  his  old  soldiers  and  showed  fitvour  to
+
+new-comere.  Ho  went  to  fight  in  a  disturbed  frontier  province :  but  neither
+his  old  warrif)r8  nor  the  new-coniors  would  fi^^ht,  each  thinking  the  other
+party  would  see  to  the  niattur.  Tlie  king  was  ilefeated.  On  his  return  to
+Indapattaua  he  i-t-fk-cted  that  his  defeat  was  due  to  the  favour  he  had  shown
+to  new-comers.  [-^^'1]  ^^'it'  day  \w  thought,  "Am  I  the  only  king  who
+has  (;ver  been  defeated  through  favour  shown  to  new-comers,  or  have  others
+had  the  same  fate  before]  I  will  ask  Vidhurapandita."  So  he  put  the
+question  to  Vidhunipaiulita  when  he  came  to  the  king's  levee.
+
+
+The  Master,  declaring  the  rciison  of  his  ijuostion,  si)oko  half  a  stanza  :
+
+The  righteous  king  Yudhi^thila  once  asked  VidhQra  wise,
+"Brahmin,  dost  know  in  whose  lone  heart  much  bitter  sorrow  lies?"
+
+
+He;iriiii,'  him,  the  Botlhisatta  said,  "Great  king,  your  sorrow  is  but
+a  trilling  sorrow.  Of  old,  a  brahmin  goatherd,  named  Dhumakari,
+took  a  great  Hock  of  goats,  and  making  a  |M>n  in  the  forest  kept  them
+there:  he  had  a  smoking  fire  and  lived  on  milk  and  the  like,  tending  his
+goats.  Seeing  son>e  de«'r  of  golden  hue  who  ha<l  come,  he  felt  a  love  for
+them,  and  disregarding  his  goats  he  paid  the  honour  due  to  them  to  the
+deer.  In  the  autumn  the  d«'er  movetl  away  to  the  Himalaya:  his  goats
+were  dead  and  the  ileer  gone  from  his  sight:  so  for  .sorrow  he  took  jaundice
+mill  (liiil.  He  jiaiil  honour  to  new-comers  and  {K^n.-llied,  having  sorrow  and
+misery  a  hundred,  a  thousand  times  more  than  you."  Bringing  forward
+this  insUinc«',  he  said,
+
+A  brahmin  with  a  flock  of  goats,  of  high  Vasittha's  race,
+Kept  .smoking  fire  by  night  and  day  in  forest  dwelling-place.
+
+Smelling  the  smoke,  a  herd  of  deer,  by  gnats  s(iro  i)eHtcred,  come
+To  find  a  dwelling  for  the  rains  near  DhQmakari's  home.
+
+The  deer  have  all  attention  now;   his  goats  receive  no  care,
+They  come  and  go  untonded  all,  and  so  they  jwrish  there.
+
+[402]  But  now  the  gnats  have  left  the  wood,  the  autumn's  clear  of  rain :
+The  deer  must  seek  the  mountain-heights  and  river-springs  again.
+
+The  brahmin  sees  the  deer  are  gone  and  all  his  goats  are  dead :
+Jaimdice  attacks  him  worn  with  grief,  and  all  his  colour's  fled.
+
+So  he  who  disregards  his  own,  and  calls  a  stranger  dear,
+Like  Dhumakari,  mourns  alone  with  many  a  bitter  tear.
+
+Such  was  the  tale  told  by  the  Great  Being  to  console  the  king.  The
+king  was  comforted  and  pleased,  and  gave  him  much  wealth.  From  that
+time  onward  he  showed  favour  to  his  own  people,  and  doing  deeds  of
+charity  and  virtue,  he  became  destined  for  heaven.
+
+
+No.  413.  243
+
+After  the  lesson,  the  Master  identified  the  Birth :  "  At  that  time  the  Kuru
+king  was  Ananda,  Dhiimakari  was  Pasenadi,  king  of  Kosala,  and  Vidhurapandita
+was  myself"
+
+
+No.  414.
+
+
+JAGARA-JATAKA.
+
+
+[403]  "  ^^Tio  is  It  that  xcaket"  e^c— The  Master  told  this  tale  while  dwelling
+in  Jetavana,  concerning  a  certain  liy-brother.  He  wa.s  a  disciple  who  had
+entered  on  the  First  Path.  lie  set  out  by  a  forest  road  from  Sfivatthi  with
+a  ciiravan  of  wirts.  At  a  certiin  pleiusant  watered  spot  the  leader  of  the  caravan
+unyoked  Hve  hundretl  carts,  and  arranging  for  food,  Wth  hard  and  .soft,  he  took
+up  his  lodging  thei-e.  The  men  lay  down  here  and  there  to  sleep.  The  lay-brother
+practi.sed  {)erambulation  at  the  root  of  a  tree  ne<ir  the  leader  of  the  caravan,
+r  ive  hundred  robbei-s  planned  to  plunder  the  caravan  :  with  various  weiipons  in
+their  hands  they  surrounded  it  and  waited.  Seeing  the  lay-brother  at  his  walk
+they  .stood  waiting  to  Ix'gin  pUuulering  when  he  should  go  to  .sleep.  He  went  on
+walking  all  night.  At  dawn  the  i-obbers  threw  away  tne  sticks  and  .stones  and
+other  weaiMjii.s  they  had  picketl  up:  thov  went  away,  s<iying,  "  Ma.ster  Caravan-
+Iciider,  you  are  owner  of  your  nrofH-'rty  f)ocau.se  you  have  got  your  life  owing  to
+that  man  who  keeps  awidce  .so  diligently  :  you  should  pay  honour  to  him."  The
+caravan-men  rising  l)ctimes  .saw  the  stonas  and  other  things  thrown  away  by
+the  robbers  and  gave  honour  to  tlie  lay-brotlier,  recogni.sing  that  they  owed  their
+lives  to  him.  The  lay-brother  went  to  his  destination  and  did  his  biLsincss  :
+then  he  returned  to  Savutthi  and  went  on  to  Jet;ivana  :  there  he  .siduted  and
+ditl  homage  to  the  Tathagata  and  .siit  at  his  feet,  and  on  his  invitiition  to  declare
+himself,  he  told  the  tale.  The  Master  said,  "  Lay-brother,  it  is  not  vou  alone
+who  have  gainetl  special  merit  l>y  waking  and  watching,  wise  men  of  old  did  the
+.same."     And  so  at  the  lay-brother's  request,  he  told  an  old  .story.
+
+
+Once  upon  a  time  when  BrahmadatUi  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  brahnun  family.  When  he  grew  up  ho  learned
+all  the  arts  at  Takkasila,  and  then  returning  lived  aa  a  householder.
+After  a  time  he  U-ft  his  house  and  became  an  ascetic  :  soon  he  readied  the
+Faculty  of  Meditation,  and  living  in  the  Himalaya  quarter  in  the  standing
+and  walking  attitudes  only,  he  walked  all  night  without  sleeping.  [404]  A
+Bpint  who  lived  in  a  tree  at  the  end  of  his  walk  was  pleased  with  him
+and  spoke  the  first  stanza,  putting  a  question  to  him  from  a  hole  in  the
+trunk : —
+
+Who  is  it  that  wakes  when  others  sleep  and  sleeps  while  others  wake?
+Who  is  it  can  read  my  riddle,  who  to  this  will  answer  make?
+
+16—2
+
+
+244  The  Jdtaka.     Book   VI L
+
+
+The  Bodhisatta,  hearing  the  spirit's  voice,  spoke  this  stanza : —
+
+I  am  he  who  wakes  while  others  sleep,  and  sleeps  while  others  woke.
+I  am  he  can  read  your  riddle,  I  to  you  can  answer  make.
+
+The  spirit  put  a  question  again  in  this  stanza  : —
+
+How  is  it  you  wake  while  others  sleep,  and  sleep  while  others  wake  ?
+How  is  it  you  read  my  riddle,  how  this  answer  do  you  make  i
+
+He  explained  the  point : —
+
+Some  mon  forgot  that  virtue  lies  in  stem  sohriotv,
+When  such  are  sleeping  I'm  awake,  O  spirit  of  the  tree.
+
+Passion  and  vice  and  ignorance  in  some  have  ceased  to  be :
+When  such  are  waking  then  I  sleep,  0  spirit  of  the  tree.
+
+So  it  is  I  wako  while  others  .sleep,  and  sleep  while  others  wake  :
+So  it  is  I  read  your  riddle,  so  to  you  I  answer  make.
+
+[40')]  When  the  Great  Bfing  gave  this  answer,  the  spirit  was  pleased
+and  spoke  the  last  stanza  in  his  praise  : —
+
+Good  it  is  you  wake  while  others  sleep,  and  sleep  while  others  wake  :
+Good  your  reading  of  my  riddle,  good  the  answer  that  you  make.
+
+And  so  making  the  Bodhisatta's  praises,  the  spirit  entered  its  abode
+in  the  tree.
+
+
+After  the  lesson,  the  Master  identified  the  Birth  :  "  At  that  time,  the  tree-
+spirit  was  Uppalavanna,  the  ascetic  was  myself."
+
+
+No.  415.
+
+
+KUMMASAPINPA-JATAKA\
+
+^'■Service  done"  etc. — The  Master  told  this  tale  while  dwelling  in  Jetavana,
+concerning  queen  Mallika.  She  was  the  daughter  of  the  chief  of  the  garland-
+makers  of  Savatthi,  extremely  beautiful  and  very  good.  When  she  was  sixteen
+years  of  age,  as  she  was  going  to  a  flower-garden  with  some  other  girls,  she  had
+three  portions  of  sour  gruel  in  a  flower-basket.  As  she  was  leaving  the  town,
+she  saw  the  Blessed  One  entering  it,  diffusing  radiance  and  surrounded  by  the
+assembly  of  the  Brethren  :   and  she  brought  him  the  three  portions  of  gruel.
+
+1  Compare  Jdtakamald  No.  3,  Knthrisaritmgara  No.  xxvii.  79.
+
+
+No.   415.  245
+
+The  Master  accepted,  holding  out  his  royal  bowl.  She  saluted  the  Tathagata's
+feet  with  her  head,  and  taking  her  joy  as  subject  of  meditation,  stood  on  one  side.
+Observing  her  the  Master  smiled.  The  Venerable  Ananda  wondered  why  the
+Tathagata  smiled  and  asked  him  the  question.  The  Master  told  him  the  reason,
+"  Ananda,  this  girl  will  be  to-day  the  chief  queen  of  the  Kosala  king  through
+the  fruit  of  these  portions  of  gruel."  The  girl  went  on  to  the  flower-garden.
+[406]  That  very  day  the  Kosala  king  fought  with  Ajatasattu  and  fled  away  in
+defeat.  As  he  came  on  his  hoi-se  he  heard  the  sound  of  her  singing,  and  being
+attracted  by  it  he  rode  towards  the  garden.  The  girl's  merit  was  ripe  :  so  when
+she  saw  the  king  she  came  without  running  away,  and  seized  at  the  bridle  by
+the  horse's  nose.  The  king  from  horseback  asked  if  she  was  married  or  no.
+Hearing  that  she  was  not,  he  dismounted,  and  being  wearied  with  wind  and  sun
+rested  for  a  little  time  in  her  lap  :  then  he  made  her  moiuit,  and  witli  a  great
+army  entered  the  town  and  brought  her  to  her  own  house.  At  evening  he
+.sent  a  chariot  and  with  great  honour  and  pomp  brought  her  from  her  house,  set
+her  on  a  heap  of  jewels,  anointed  her  and  nifide  her  chief  queen.  From  that
+time  onward  she  was  the  dear,  beloved  and  devoted  wife  of  the  king,  pos.sessed  of
+faithful  servants  and  the  five  feuiinine  cliarnas  :  and  she  was  a  favourite  of  the
+Buddhixs.  It  became  noised  abroad  through  the  whole  city  that  she  had  attained
+such  i)rosjx)rity  because  she  had  given  the  three  [)ortions  of  gruel  to  the  Master.
+
+One  day  they  began  a  di.scussion  in  the  Hall  of  Truth  :  "  Sii-s,  queen  ^lallika
+gave  three  [Kirtions  of  gruel  to  the  Buddhas,  and  as  the  fruit  of  that,  on  the  very
+same  day  she  was  anointed  queen  :  great  indeeil  is  tl)e  virtue  of  Buddhas."  The
+Master  came,  asked  and  was  told  the  subject  of  the  Brethren's  talk  :  lie  said,  "It
+is  not  strange.  Brethren,  that  Mallika  has  become  chief  queen  of  the  Kosala  king
+by  giving  three  portions  of  gi-uel  to  the  omniscient  Buddiia  alone  :  for  why  i  It
+is  beaiuse  of  the  greiit  virtue  of  Buddhas  :  wise  men  of  old  gave  gruel  without
+salt  or  oil  to  paccekabuddhas,  and  owing  to  that  attained  in  their  next  birth
+the  glory  of  being  kings  in  Kasi,  three  hundred  leagues  in  extent "  :  and  so  he
+told  the  tale  of  old.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  poor  family:  when  he  grew  up  he  made  a
+living  by  working  for  wages  with  a  certain  rich  man.  One  day  he  got
+four  portions  of  sour  gruel  from  a  shop,  thinking,  "This  will  do  for  my
+breakfast,"  and  so  went  on  to  his  farming- work.  Seeing  four  pacceka-
+buddhas coming  towards  Benares  to  collect  alms,  he  thought,  "I  have
+these  four  portions  of  gruel,  [107]  what  if  I  were  to  give  them  to  these
+men  who  are  coming  to  Benares  for  alms  ] "  So  he  came  up  and  salut-
+ing them  said,  "  Sirs,  I  have  these  four  portions  of  gruel  in  hand  :  I
+ofler  them  to  you :  pray  accept  them,  good  sirs,  and  so  I  shall  gain
+merit  to  my  lasting  good  and  welfare."  Seeing  that  they  accepted,  he
+spread  sand  and  arranged  four  seats  and  strewed  broken  branches  on
+them  :  then  he  set  the  paccekabuddhas  in  order ;  bringing  water  in  a
+leaf-basket,  he  poured  the  water  of  donation,  and  then  set  the  four  portions
+of  gniel  in  four  bowls  with  salutation  and  the  word.s,  "Sirs,  in  consequence
+of  these  may  I  not  be  born  in  a  poor  family ;  may  this  be  the  cause  of  my
+attaining  omniscience."  The  paccekabuddhas  ate  and  then  gave  thanks
+and  departed  to  the  Nandamula  cave.  The  Bodhisatta,  as  he  saluted,  felt
+the  joy  of  association  with  paccekabuddhas,  and  after  they  had  departed
+
+
+246  The  Jtttaka.     Bool:    VII.
+
+
+from  hi8  sight  and  he  had  gone  to  his  work,  he  remembered  them  always
+till  iiis  death  :  as  the  fruit  of  tliis,  he  was  bom  in  the  womb  of  the  chief
+ijueen  of  Benures.  His  iiume  was  culled  prince  Bruhnitidiitta.  From  the
+time  of  his  being  able  to  walk  alone,  he  saw  clearly  by  the  power  of  recol-
+lecting all  that  ho  had  done  in  former  births,  like  the  reflexion  of  his  own
+face  in  a  clear  mirror,  that  he  was  now  born  in  that  state  because  he  had
+given  four  portions  of  gruel  to  the  paccekiibuddhus  when  he  was  a  servivnt
+and  going  to  work  in  that  same  city.  When  he  gi-ow  up  he  learned  all  the
+arts  lit  Tiikkiisila  :  on  his  return  his  father  was  pleased  with  the  accomplish-
+ments he  flisplayed,  and  appointed  him  viceroy:  afterwards,  on  his  father's
+death,  ho  was  established  in  the  kingdom.  Then  ho  manned  the  exceed-
+ingly beautiful  daughter  of  the  Kosala  king,  and  made  her  his  chief  queen.
+On  the  (luy  of  his  j»ara8ol-fe.stival  they  decorated  the  whole  city  as  if  it
+were  a  city  of  the  gods.  He  went  round  the  city  in  j)roceKsion;  [408]  then
+ho  asceniled  the  palacf,  which  was  deeoratvd,  and  on  the  dais  n»ount«'d  a
+throne  with  the  white  jnirasol  erected  on  it;  sitting  there  he  lo«jke<l  down
+on  all  those  that  stood  in  attendance,  on  one  side  the  ministers,  on  another
+the  bnihiuins  and  householders  reHpU'n<lent  in  the  beauty  of  varied  apparel,
+on  another  the  townspeople  with  various  gifts  in  their  hands,  on  another
+troops  of  dancing-girls  to  the  number  of  sixteen  thousand  like  a  gathering
+of  the  nymphs  of  heaven  in  full  apparel.  Looking  on  all  this  entrancing
+splendour  he  remembered  his  former  estate  and  thought,  "  This  white
+parasol  with  golden  garland  and  plinth  of  massive  gold,  the.sc  many  thou-
+sand elephants  and  chariot.s,  my  great  territory  full  of  jewels  and  jHjarls,
+teeming  with  wealth  and  grain  of  all  kinds,  these  women  like  the  nymphs
+of  heaven,  and  all  this  splendour,  which  is  mine  alone,  is  due  only  to  an
+alms-gift  of  four  portions  of  gruel  given  to  four  paccekabuddhas  :  I  have
+gained  all  this  through  them  "  :  and  .so  remembering  the  excellence  of  the
+paccekabuddhas  he  plainly  declared  his  own  former  action  of  niorit.  As
+he  thought  of  it  his  whole  body  was  tilled  with  delight.  Delight  melted
+liis  heart  and  amid  the  multitude  he  uttered  two  stanzas  of  joyous  song  : —
+
+Service  done  to  Buddhas  high
+
+Ne'er,  they  say,  is  reckoned  cheap :
+Alms  of  gruel,  saltloss,  dry.
+
+Bring  me  this  reward  to  reap.
+
+Elephant  and  horse  and  kine.
+
+Gold  and  coni  and  all  the  land,
+Troops  of  girls  with  form  divine :
+
+Alms  have  brought  them  to  my  hand.
+
+[409]  So  the  Bodhisatta  in  his  joy  and  delight  on  the  day  of  his
+parasol-ceremony  sang  the  song  of  joy  in  two  8tanza.s.  From  that  time
+onward  they  were  called  the  king's  favourite  song,  and  all  sung  them — the
+Bodhisatta's  dancing  girls,  his  other  dancers  and  musicians,  his  people  in
+the  palace,  the  townsfolk  and  those  in  ministerial  circles.
+
+
+No.   415.  247
+
+[410]  After  a  long  time  had  passed,  the  chief  queea  became  anxious
+to  know  the  meaning  of  the  song,  but  she  durst  not  ask  the  Great  Being.
+One  day  the  king  was  pleased  with  some  quality  of  hers  and  said,  ''Lady,
+I  will  give  you  a  boon ;  accept  a  boon."  "  It  is  well,  O  king,  I  accept."
+"  What  shall  I  give  you,  elephants,  hoi-ses  or  the  like  ? "  "  O  king,
+through  your  grace  I  lack  nothing,  I  have  no  need  of  such  things  :  but  if
+you  wish  to  give  me  a  boon,  give  it  by  telling  me  the  meaning  of  your
+song."  "Lady,  what  need  have  you  of  that  boon?  Accept  something  else."
+**  O  king,  I  have  no  need  of  anything  else  :  it  is  that  I  will  accept."
+"  Well,  lady,  I  will  tell  it,  but  not  as  a  secret  to  you  alone :  I  will  send
+a  drum  round  the  whole  twelve  leagues  of  Benares,  I  will  make  a
+jewelled  pavilion  at  my  palace-door  and  arrange  there  a  jewelled  throne:
+on  it  I  will  sit  amidst  ministei^s,  brahmins  and  other  i)eople  of  the  city,
+and  the  sixteen  thousand  women,  and  there  tell  the  tale."  She  agreed.
+The  king  had  all  done  as  he  said,  and  then  sat  on  the  throne  amidst  a  great
+multitude,  like  8akka  aniid.st  the  company  of  the  gods.  The  queen  too
+with  all  her  ornaments  set  a  golden  chair  of  ceremony  and  sat  in  an
+appropriate  place  on  one  side,  and  looking  with  a  side  glance  she  said,
+"O  king,  tell  and  explain  to  me,  as  if  causing  the  moon  to  arise  in  the  sky,
+the  meaning  of  the  song  of  joy  you  sang  in  your  delight "  ;  and  so  she
+spoke  the  third  stanza  : —
+
+Gli)rioiLS  and  righte«ius  king.
+Many  a  time  the  song  you  sing,
+In  exceeding  joy  of  heart :
+Pray  to  me  the  caiwe  imi»art.
+
+[411]  The  Great  Being  declaring  the  meaning  of  the  song  spoke  four
+stanzas  : —
+
+This  the  city,  but  the  station  different,  in  my  previous  birth  :
+Servant  was  I  to  another,  hireling,  but  of  honest  worth.
+
+Going  from  the  town  to  laV)our  four  ascetics  once  I  saw,
+Pas-sionless  and  calm  in  bearing,  {Kirfect  in  the  moral  law.
+
+All  my  thoughts  went  to  those  Buddhas:   as  they  sat  beneath  the  tree,
+With  my  hands  I  brought  them  gruel,  offering  of  piety.
+
+Such  the  virtuous  deed  of  merit :   lo  !  the  fruit  I  re.ip  to-day —
+All  the  kingly  state  and  riches,  all  the  land  beneath  my  sway.
+
+[412]  When  she  heard  the  Great  Being  thus  fully  explaining  the  fruit
+of  his  action,  the  queen  said  joyfully,  "  Great  king,  if  you  discern  so  visibly
+the  fruits  of  charitable  giving,  from  this  day  forward  take  a  portion  of  rice
+and  do  not  eat  yourself  until  you  have  given  it  to  righteous  priests  and
+brahmins  " ;  and  she  spoke  a  stanza  in  praise  of  the  Bodhisatta  : —
+
+Eat,  due  alms  rememl>ering,
+
+Set  the  wheel  of  right  to  roll :
+Flee  injustice,  mighty  king,
+
+Righteously  thy  realm  control.
+
+
+248  The  Jdtahi.      Book    VII
+
+
+The  Great  Being,  accepting  what  uho  Haid,  npoku  u  Htanza  : —
+
+Still  I  make  that  rood  my  own
+
+Wiilkiiig  iti  the  jwith  of  right,
+Whi'TO  tho  gofnl,  fair  queeti,  havo  gone :
+
+Siiintfl  art)  plciuuuit  to  my  sight
+
+[413]  Aftor  Hayinif  this,  lio  lookod  at  th»'  queen's  l>eaiity  and  Haid,
+"  Fair  la«ly,  I  have  told  fully  my  gootl  difdH  done  in  fonnrr  tinif,  hut
+nmongst  all  these  ladioH  there  is  none  like  you  in  lM>auty  or  charming
+grace:  by  what  df(d  diil  you  attain  this  Vn^auty  ? "  And  he  Hi)oke  a
+Btanza  : —
+
+Liuly,  like  a  nymph  «»f  hoavon,
+
+Vou  tho  cniwd  uf  maids  oiitithino:
+For  what  gracioiw  de©<l  w/u*  given
+
+Mood  of  beauty  mo  divine?
+
+Tiicn  she  told  the  virtuouH  det'd  done  in  her  former  l»irth,  and  H{H>ku  Ujo
+
+last  two  Hlaiijuis: —
+
+1   wjus  uiite  u  handmaiii'tt  itlavo
+
+At   AmlMi^^ha'M  njyal  ct)urt,
+T«>  mo«le«ty  my  heart  I  gave.
+
+To  virtue  and  to  good  nejiort.
+
+In  a  lx>gging  Brothor'H  howl
+
+Onco  an  alm.s  of  ri»o   I   put;
+Charity  had  tilUnl  my  mouI  :
+
+Such  tho  deevl,  and  lo !   the  fruit.
+
+She  too,  it  is  said,  spoke  with  accurate  knowledge  and  remembrance  of
+past  births.
+
+[IIIJ  So  both  fully  tUchireil  lluir  pa.st  th-ed-s  a»»d  from  that  day  they
+had  six  halls  of  charity  built,  at  the  four  gateH,  in  tho  centre  of  the  city
+and  at  the  palace-door,  and  stirring  up  all  India  they  gave  great  giftu,
+kept  the  monil  duties  and  the  holy  days,  and  at  the  end  of  their  lives
+became  destinetl  for  heaven.
+
+
+At  tho  end  of  tho  lo.s.-<on,  the  Ma.ster  identified  the  birth:   "At  that  time  the
+queen  wjuj  the  mother  of  Rahula,  and  the  king  was  myself.'
+
+
+No.   416.  249
+
+
+No.   416.
+
+
+PARAXTAPA-JATAKA.
+
+
+"  Terror  and  fear ^  etc. — The  Master  t<jld  this  while  dwelling  in  the  lianilx)o-
+grove,  concerning  Dcvadatta's  going  al>out  to  kill  him.  They  were  discussing  it
+lu  the  Hall  of  Tnitli,  "Sirs,  Deviulatt^i  [415]  is  going  about  to  kill  the  Tathagata,
+he  ha«  hiretl  Ixjwineii,  thrown  down  a  rock,  let  loose  Xalagiri,  and  uses  sjieciai
+mciins  for  the  destruction  of  the  Tathagata."  The  Ma.ster  came  and  a.sked  the
+subject  of  tlieir  discu-ssion  sus  they  siit  U>gether:  when  they  told  him,  he  .said,
+"Brethren,  this  is  not  the  first  time  he  luus  gone  alx>ut  to  kill  mo:  but  ho
+could  not  even  umke  me  afraid,  and  gained  only  sorrow  for  himself : "  and  so
+he  told  the  talo  of  old.
+
+
+Once  upon  a  time  when  Bnihmadatta  was  reigning  in  Benares,  the
+IJodhi.satta  was  born  as  the  son  of  his  chief  <jueen.  When  he  grew  up,
+he  learned  all  the  aiis  at  Takkaaila,  and  acquired  a  spell  for  the  under-
+Htanding  of  all  animals'  cnes.  After  listening  duly  to  his  teacher,  he
+returned  to  Benares.  His  father  appointed  him  viceroy:  but  thougli  ho
+did  so,  he  Inicame  anxious  to  kill  him  and  would  not  even  see  him.
+
+A  she-jackal  with  two  cubs  entered  the  city  at  night  by  a  sewer,  when
+men  were  retired  to  rest.  In  the  Botlhisatta's  palace,  near  his  Ix'd-room,
+there  was  a  chaml)er,  where  a  single  traveller,  who  had  taken  hLs  shoes  off
+and  put  them  by  his  feet  on  the  floor,  was  lying  down,  not  yet  aiileep,  on
+a  plank.  The  jackal-cubs  were  hungry  and  gave  a  cry.  Their  mother
+said  in  the  si>eech  of  jackals,  "  Do  not  make  a  noise,  dears  :  there  is  a  man
+in  that  chambi'r  who  has  taken  his  shoes  off  and  laid  them  on  the  floor  :
+he  is  lying  on  a  plank,  but  is  not  asleep  yet :  when  ho  fall.s  asleep,  I  will
+take  his  shoes  and  give  you  food."  By  the  power  of  the  sjiell  the
+Bodhi.satta  understood  her  call,  and  leaving  his  bedroom  he  opened  a
+window  and  said,  "  Who  is  there  ? "  "  I,  your  majesty,  a  traveller."
+"Where  are  your  shoes]"  "On  the  floor."  "Lift  them  and  hang  them
+up."  Hearing  this  the  jackal  was  angry  with  the  Bodhisatta.  One  day  she
+entered  the  city  again  by  the  sanje  way.  That  day  a  dnankcn  man  [il6]
+went  down  to  drink  in  a  lotus-tank  :  falling  in,  he  sank  and  was  drowned.
+He  possessed  the  two  garments  he  was  wearing,  a  thousand  pieces  in  his
+under-ganuent,  and  a  ring  on  his  finger.  The  jackal-cubs  cried  out  for
+hunger,  and  the  mother  said,  "Be  quiet,  dears:  there  is  a  dead  man  in  this
+lotus-tank,  he  had  such  and  such  proi)erty  :  he  is  lying  dead  on  the  tank-
+stair,  I  will  give  you  his  flesh  to  eat."  The  Botlhisatta,  hearing  her,
+opened  the  w  indow  and  said,  "  Who  is  in  the  chamber  ? "     One  rose  and
+
+
+250  The  Jatnka.      linnk    VII
+
+
+said,  *'I."  '*Uo  and  take  tho  clotheit,  the  thouwiiid  piect^  itnd  the  ring
+from  tho  man  who  m  lying  dead  in  yondur  lutuH-taiik,  and  make  thn  body
+Hink  KO  thut  it  cannot  ris«  out  of  the  wat«T."  Th«'  man  did  no.  Th«»  jackal
+wuH  angry  again:  "The  other  day  you  |>n'vente<l  my  childn^n  eating  the
+Hhoes ;  to-day  you  prevent  them  eating  the  dead  man.  Very  well  :  on  the
+tliinl  iluy  from  thin  a  hostile  king  will  come  and  ••ncompaiw  the  city,  your
+father  will  wnd  you  to  battle,  they  will  cut  off  your  head  :  I  will  drink
+your  throat'H  blood  and  Hatixfy  my  enmity  :  you  make  yountelf  an  enemy  of
+mine  and  I  will  see  to  it :  "  no  she  cried  abuiiing  the  Ii<Hlhifiatt«.  Then
+Hhe  took  her  cubH  and  went  away.  Un  the  third  day  the  hoHtile  king
+camo  and  encompatweil  tho  city.  The  king  said  to  the  I^xthiHatta,  "  Oo,
+dt>ar  Hon,  and  tight  him."  "<)  king,  I  hav«>  Hc<*n  a  viMion  :  I  cannot
+go,  for  I  fear  1  Hhall  low  my  lift*."  "  What  is  your  life  or  death  to  me?
+(fo."  Tho  ftreat  Being  ol)eye«l  :  taking  his  men  he  avoidinl  the  gate  where
+the  hoHtil**  king  wan  jxtstrtl,  and  wmt  out  l>y  another  which  In-  had  opt-ned.
+Ah  he  w«'nt  tin-  whol»«  i-ity  Iwcanje  aa  it  wrr«>  dfMert«'<l,  for  all  men  went
+out  with  hiuj.  H(-  encampe(l  in  a  c»'rtain  f)j)«)n  Hftace  an«l  waited.  The
+king  thought,  "My  viceroy  ha.H  emptiiil  tin*  city  and  th-d  with  all  my
+forces:  the  enemy  iH  lying  all  round  tlu*  city:  [417]  I  am  but  a  dead
+man."  To  Have  hin  life  he  took  bi«  chief  queen,  bin  family  priefit,  and  a
+Hiiiglf  attendant  nanu-d  I'arantapa  :  with  thi-m  he  AjhI  in  diftguine  by
+night  and  entered  a  wikkI.  Hearing  of  hia  tlight,  the  Hodhijiatt^i  entered
+tho  city,  defi>ated  tho  hoHtilo  king  in  battle  and  took  tho  kingdom.  Hifi
+father  made  a  hut  of  leave.s  or)  a  river  bank  and  live<l  then*  on  wild  fruit*.
+lie  and  the  family  priest  used  to  go  looking  for  wild  fruits  :  the  servant
+Parantapa  stayed  with  the  queen  in  the  hut  She  waa  with  child  by  the
+king:  but  owing  to  U'ing  constantly  with  Paranta|»a,  she  sinned  with  him.
+Ono  day  she  said  to  him,  "If  tho  king  knows,  neither  you  nor  I  would
+live:  kill  him."  "  In  what  way?"  "  He  makes  you  carry  hia  Bword  and
+b!ithing-(lre8.s  when  he  gof*s  to  bathe :  take  him  off  his  guard  at  the
+bathing-place,  cut  off  his  head  and  chop  hi.s  Innly  to  pieces  with  the  sword
+and  then  bury  him  in  tho  ground."  He  agreed.  One  day  the  priest
+had  gone  out  for  wild  fruits  :  ho  had  cliinbetl  a  tree  near  the  king's
+bathiug-placo  and  was  gathenng  the  fruit.  The  king  wished  to  bathe,  and
+came  to  the  water-side  with  Parantapa  carrying  his  sword  and  bathing-
+dress.  As  he  was  going  to  bathe,  Pan\ntapa,  meaning  to  kill  him  when  off
+his  guard,  seized  him  by  the  neck  and  raised  the  sword.  The  king  cried
+out  in  fear  of  death.  The  i>riest  heard  the  cry  and  saw  from  alK)ve  that
+Parantapa  was  murdering  him  :  but  he  was  in  great  terror  and  slipping
+down  from  his  branch  in  the  tree,  he  hid  in  a  thicket.  Parantapa  heard
+the  noise  he  made  as  he  slipped  down,  and  after  killing  and  burying  the
+king  he  thought,  "There  was  a  noise  of  slipping  from  a  branch  there-
+abouts ;  who  is  there  1 "     But  seeing  no  man  he  bathed  and  went  away.
+
+
+No.   416.  251
+
+Then  the  priest  came  out  of  his  hiding-place;    [418]  knowing  that  the
+
+kin"  had  been  cut  in  pieces  and  buried  in  a  pit,  he  bathed  and  in  fear
+
+of    his  life   he   pretended    to    be  blind    when   he   came   back    to  the  hut.
+
+Parantapa  saw  him  and  asked  what  had  happened  to  hira.     He  feigned  not
+
+to  know  him  and  said,  "  O  king,  I  am  come  back  with  my  eyes  lost :  I
+
+was  standing  by  an  ant-hill  in  a  wootl  full  of  serpents,  and  the  bn-ath  of
+
+some  venomous  serpent  must  have  fallen  on  me."     Parantapa  thought  the
+
+priest  was  atldres.sing  him  as  king  in  ignorance,  and  to  put  his  mind  at  rest
+
+he  said,  "  Bmhmin,  never  mind,  I  will  take  care  of  you,"  and  so  comforted
+
+him  and  gave  him  plenty  of  wild  fruits.     From  that  time  it  was  Parantapa
+
+who  gathered  the  fruits.     The  queeu  »K)re  a  son.      As  he  was  growing  up,
+
+she  said  to  Parantapa  one  day  at  early  morning  when  seated  comfortably,
+
+"  Some  one  saw  you  when  you  were  killing  the  king  V  "     "  No  one  saw  uit- :
+
+but  I  lieard  the  noise  of  sometliing  slipping  frouj  a  bough  :  whether  it  was
+
+man  or  beast    I    cannot    tell  :    but   whenever  f.ar  conns  on   nic  it   must
+
+be  from  the  cause  of  the  boughs  creiiking,"  an<l  s..  i..  .-oin  irsaiion  with  her
+
+he  spoke  the  fii-st  stanza  : —
+
+Terror  and  fear  fall  on  me  even  now,
+
+For  then  a  man  or  beast  did  shako  a  l)(>ugh.
+
+They  thought  the  priest  was  lusleep,  but  he  was  awake  and  heard  their
+talk.  One  day,  when  Parantapa  had  gone  for  wild  fruit>i,  the  priest
+remembered  his  bniluuin-wife  and  spoke  the  second  stanza  in  lamentation  :—
+
+[419]  My  true  wife's  Immo  is  near  at  hand:    my  lovo  will  make  mo  l>o
+Palo  like  ParantaiMi  and  thin,  at  quivering  of  a  tree.
+
+Tlie  queen  asked  what  he  was  saying.  He  said,  "  I  was  only  thinking:"
+but  one  day  again  he  spoke  the  third  stanza : —
+
+My  doiir  wife's  in  lienares:    her  aljHCnco  wears  me  now
+To  iNillor  like  PanuiUpa's  at  shaking  of  a  Iwugh.
+
+Again  one  day  he  s|)oke  a  fourth  stanza  : —
+
+Her  black  eye's  glow,  her  8i)cech  and  smiles  in  thought  do  bring  mo  now
+To  pallor  like  Parantapa's  at  shaking  of  a  bough.
+
+In  time  the  young  prince  grew  up  and  reached  the  age  of  sixteen.
+Then  the  brahmin  made  him  take  a  stick,  and  going  with  him  to  the
+Uthiug-place  opened  his  eyes  and  looked.  [420]  "Are  you  not  blind,
+brahmin  1 "  said  the  prince.  "  I  am  not,  but  by  this  means  I  have  saved
+my  life:  do  you  know  who  is  your  father]"  "Yes."  "That  man  is  not
+your  father  :  your  father  was  king  of  Benares :  that  man  is  a  servant  of
+your  house,  he  sinned  with  your  mother  and  in  this  spot  killed  and  buried
+your  father  "  ;  and  so  saying  he  pulled  up  the  bones  and  showed  them  to
+him.  The  prince  grew  very  angr)-,  and  asked,  "  What  am  I  to  do?"  "Do
+to    that   man    what   he  did   to   your   father   here."  and  showing  him  the
+
+
+252  The  Jatiihi.      Ih>i>k    17/.
+
+
+whole  luattcr  hv  taught  hiiu  in  a  fuw  days  huw  to  handle  a  aword.  llifu
+uuo  day  the  prince  took  HWord  and  bathingdrttut  and  aaid,  "  Father,  l**t  ua
+go  and  htitho."  I*aruiita|>a  con»fnt«>«l  and  w«-nt  with  him.  \Vht«n  he
+went  down  into  the  wat<'r,  thf  ]>rincc  t«M)k  hin  to|>^knot  in  thi*  K-fl  hand
+and  the  8Word  in  the  right,  and  aaid,  ''At  thia  M|H>t  yuu  took  my  father  by
+tht*  to|Hknot  and  killinl  him  iis  hi>  criinl  uut:  even  ho  will  1  do  to  you."
+i'uranUi|ta  wailed  ii;  fear  of  death  and  h|K>ku  two  Ntauzaa  :  —
+
+Huroly  that  notind  haa  comu  to  you  and  told  ynu  wimt  liofol :
+Surely  the  man  wh<>  bent  the  iMmgh  haa  come  the  tolo  to  toll
+
+The  f<M)liish  thought  that  oneo   1   had  haa  rwvchwl  your  knowN'^l^-i-  ii"w
+That  dity  a  witnv.*vs,  umu  or  lio/wtt,  waa  thurv  and  ntuMik  th«3  Itough.
+
+Tlieu   the   j»rinc»'  Hfioke   the   hmt  Htanza  : —
+
+'Twa.s  thiw  you  hIcw  my  father  with  tniit'n>u«  wonl,  untnto  ;
+Vou  hill  hi.H  Unly  in  the  l»>ughH:    now  fear  ha«  eome  t«»  yoiL
+
+[421]  So  Maying,  he  hIow  him  on  the  »\ynl,  buricnl  him  and  coveriHl  the
+place  with  branch(*ti :  then  waaliing  the  Hwortl  and  bathing,  he  went  Iwck
+to  the  hut  of  ImveM.  lie  told  the  prii^^t  how  he  had  killed  Paranta|ta  :  he
+ceuHuretl  liiH  moth«>r,  and  saying,  "What  ahall  we  do  now  f "  the  three
+wont  back  to  Bonarva.  'Die  IkxlhiiMtta  made  the  young  prince  viceroy
+and  doing  eliarity  and  other  good  workit  |iaaMe<l  fully  through  the  path  to
+heaven.
+
+
+After  the  le.H.soii,  tht«  Ma-stor  idontifiod  the  Birth:    "At  that  time  Dovadatta
+\v<us  the  old  kujg,  1  niyMjlf  w»v.h  the  young  one."
+
+
+BOOK    Vlll.  — ATTIIA-NIPATA.
+No.   417.
+
+KACCANI-JATAKA'.
+
+[122]  '' Itubed  in  ichitf"  etc. — The  Maxtor  told  this  tale  while  dwelling  at
+Jetiivana,  oonceniing  a  nian  who  .suptx)rt«Hl  his  niother.  The  .story  i.s  that
+the  man  w;w  of  s*xA  family  and  roinluct  in  Savatthi  :  on  his  father's  death
+ho  l>c<virne  devnt<-d  to  his  nmihcr  and  t*'nd«"«l  hi-r  with  the  services  of  nioiith-
+Wiwhin^;,  tot'th  cleansing,  iMithing,  fi-ot-w/tshing  and  the  like,  and  also  by  giving
+her  gruel,  rice  and  other  fo<Kl.  She  said  to  liim,  "  Dear  s<^)n,  therv  arc  (jther
+dutien  in  a  hoiischolder'H  life  :  you  nnist  marry  a  maid  of  a  suiUihle  familv,  who
+will  att4!nd  to  me,  and  then  you  win  do  your  |»ro|»or  work."  ".Mother,  it' is  for
+my  own  g<MKl  an<l  pleasure  thiit  I  wait  on  you  :  who  else  would  wait  on  you  .so
+well  ?"  "Son,  you  ought  to  «lo  something  to  advance  the  foKuno  of  o>ir  house."
+"  I  have  no  care  for  u  hoiLsi>holdfr'n  life  ;  I  will  wait  on  y.m,  and  after  you  are
+dead  and  l)ume«l  I  will  UN-onie  an  a.sc«'tic."  She  iin'.H.v<«l  him  again  ana  again  :
+oijd  at  \i\ni,  without  winning  him  over  or  gaining  his  coiLsent,  she  hmught  him  a
+maid  of  a  suitaMe  family.  He  m.irri<*d  and  HvchI  with  her,  l>e»-au.sc!  he  would  not
+upiMtso  his  mother.  She  ol«N*rvoil  the  great  attention  with  which  her  haslviiid
+waitcil  on  his  nn»ther,  and  desirous  nf  imiUiting  it  she  too  waite<l  on  her  with
+care.  Noticing  his  wife's  devotion,  he  gave  her  thenceforth  all  the  pleasjint  food
+ho  could  get,  A«  time  went  on  she  foolishly  thought  in  her  pridi-,  "  lie  giveH
+me  all  the  plooHant  f<xxi  he  gets  :  he  must  Ije  anxious  to  get  rid  [423]  of  his
+mother  and  I  will  find  some  means  for  doing  so."  S<j  one  day  she  jwiid,
+"  Husband,  your  mother  scoULs  me  when  you  leave  the  house."  He  sjiid  nothing.
+She  thought,  "I  will  irriUito  the  old  woman  and  make  her  di.vigreoable  to  her
+»on"  :  and  thenceforth  she  gave  her  rice-'^'niel  either  very  hot  or  very  cold  or  very
+Halt  or  Haltle»4.s.  When  the  old  woman  complained  that  it  wa.s  to<i  hot  or  too  salt
+she  threw  in  cold  water  enough  to  fill  the  di.sh  :  and  then  on  complaintw  of  it«
+being  cold  and  saltles-s,  she  would  make  a  great  outcry,  "Just  now  you  said  it  waa
+too  hot  and  too  salt  :  who  can  satisfy  you  ?"  So  at  the  Kith  she  would  throw
+very  hot  water  on  the  oM  woman's  bick  :  when  she  .said,  "  Daughter,  my  back  iH
+burning,"  the  other  would  throw  some  very  cold  water  on  her,  and  on  complaints
+of  thi.s,  she  would  make  a  story  t4»  the  neighlHUirs.  "This  woman  sai<l  just  now
+it  was  too  hot,  now  she  screams  'it  is  too  cold' :  who  can  endure  her  impudence  f"
+H  the  old  woman  complaintnl  that  her  l»ed  was  full  of  Hca-s,  she  would  take  the
+lied  out  aud  ahakc  her  own  l>ed  over  it  ami  then  bring  it  Ijack  decljiring,  "  I've
+given  it  a  Hhake":   the  good  old  lady,  having  twice  aa  many  fle/i.s   bit  int.'   li^r
+
+I     S.-    \f..rr,a       f-' . .)  I     1 .  .r.-       J-ininl,    \\.    p.    306.
+
+
+254  The  Jataka.     Book    VIII.
+
+
+now,  would  spend  the  night  sitting  up  and  complain  of  being  bitten  all  night ;
+the  other  would  retort,  "  Vour  \>cd  wa.s  shftkon  yewterday  lUid  the  tXay  before
+too  :  who  can  «;iti.sfy  all  Hiich  a  wouian'.s  iiecd.s?"  To  Mil  the  old  woiuau's  uon
+against  her,  mIio  woulil  scatter  phlegm  ami  mucus  ami  gn-y  hairs  hero  and  there,
+and  when  ho  jusked  who  was  making  the  whole  house  s»)  dirty,  she  would  say,
+"Your  mother  does  it ;  hut  if  she  is  told  not  to  do  »»>,  she  makes  an  out*.'ry:  I
+can't  stay  in  the  sanje  hoase  with  such  an  old  witch  :  you  mast  decide  whether
+she  stays  or  I."  He  hearkenetl  to  her  and  miid,  "Wife,  you  are  yet  young  and
+can  get  a  living  wherever  you  go:  hut  my  mother  is  we^ik  and  I  am  her  stay:
+go  and  depart  to  your  own  kin."  When  she  heanl  this,  she  wiis  afmid  and
+thought,  "He  cannot  l>reak  with  his  mother  who  is  ho  very  dmr  to  him :  hut  if  I
+go  to  my  old  home,  I  shall  have  a  miserable  life  of  sejMiration  :  I  will  conciliate
+my  mother-in-law  and  tend  her  as  of  old":  [424]  and  thenceforth  she  did  so.
+One  day  that  lay  brother  went  to  Jetjivana  to  hear  the  law:  sjiluting  the
+Mitster  he  stoo<l  on  one  side.  The  Master  a.sked  him  if  ho  were  not  careloHs  of
+his  old  duties,  if  he  were  dutiful  in  tending  his  mother.  He  answ»rv«l,  "Yen,
+Lord:  my  mother  brought  me  a  maiil  to  wife  against  my  will,  .she  did  such  and
+such  unseemly  things,"  telling  him  all,  "  but  the  woman  eould  not  make  me  break
+with  my  mother,  and  now  she  tends  her  with  all  resinvt."  The  Muster  he^inl
+the  story  and  .s^iid,  "This  time  you  would  not  do  Iut  bi.iding:  but  fonnerly  you
+ca.st  out'your  m<»ther  at  her  biiiding  and  owing  to  n»e  tiH>k  her  Iwick  again  to  your
+house  ami  tended  her"      uid  ;it  fhi-  m.^i's  nnjiuvst  he  toM  the  tfile  of  old.
+
+
+Once   upon   a   time   when    Bnihmadatta   waa    reigning    in    Renarefi,   a
+
+young  man  of  a  eerUiin  family  on  liis  father's  death  lievoteil  himself  to
+his  mother  and  tended  lier  as  in  the  introiiuctory  story  :  the  details  are  to
+bo  given  in  full  as  above.  But  in  this  case,  when  his  wife  said  slie  could
+not  live  with  tlie  old  witch  and  he  must  decide  which  of  tlieuj  should  go,
+he  took  lier  word  that  his  mother  was  in  fault  and  said,  *'  Mother,  you  are
+always  raising  strife  in  the  house  :  henceforth  go  and  live  in  some  other
+place,  where  you  choos«>."  She  obeyed,  weeping,  and  going  to  a  certain
+friend's  house,  she  worked  ft)r  wages  and  with  dithculty  made  a  living.
+After  she  left,  her  daughter-in-law  conceived  a  child,  and  went  alx»ut
+saying  to  her  husband  and  the  neighlxiurs  that  such  a  thing  could  never
+have  happened  as  long  as  the  ohl  witch  was  in  the  house.  After  the  child
+was  bom,  she  8t\id  to  her  husband,  "  I  never  had  a  son  while  your  mother
+stayed  in  the  house,  but  now  I  have  :  so  you  can  see  what  a  witch  she
+was."  The  old  woman  heard  that  the  son's  birth  was  thought  to  be  duo  to
+her  leaving  the  house,  and  she  thought,  "  Surely  Right  must  be  dead  in
+the  world  :  [42n]  if  it  were  not  so,  these  people  would  not  have  got  a  son
+and  a  comfortable  life  after  beating  and  casting  out  their  mother :  I  will
+make  an  offering  for  the  dead  Right."  So  one  day  she  took  ground
+sesame  and  rice  ami  a  little  pot  and  a  spoon  :  she  went  to  a  cemeter}'  of
+corpses  and  kindled  a  tire  under  an  oven  made  with  three  human  skulls :
+then  she  went  down  into  the  water,  bathed  herself  head  and  all,  washed
+her  garment  and  coming  back  to  her  fireplace,  she  loosened  her  hair  and
+began  to  wash  the  rice.
+
+
+No.  417.  255
+
+The  Bodhisatta  was  at  that  time  Sakka,  king  of  heaven ;  and  the
+Bodhisattas  are  vigilant.  At  the  instant  he  saw,  in  his  survey  of  the
+world,  that  the  poor  old  woman  was  making  a  death-offering  to  Right  as
+if  Right  were  dead.  Wishing  to  shew  his  power  in  helping  her,  he  came
+down  disguised  as  a  brahmin  travelling  on  the  high  road  :  at  sight  of
+her  he  left  the  road  and  standing  near  her,  began  a  convereation  by
+saying,  "  !M other,  people  do  not  cook  food  in  cemeteries  :  what  are  you
+going  to  do  with  this  sesame  and  rice  when  cooked  1 "  So  he  spoke  the
+first  stanza  : —
+
+Rol)ed  in  white,  with  dripping  hair,
+
+Why,  Kaccani ',  boil  the  pot  ?
+Waahiug  rice  and  sesame  there,
+
+Will  you  use  them  when  they're  hot  1
+
+She  spoke  the  second  stanza  to  give  him  information  : —
+
+Brahmin,  not  for  food  will  I
+
+I'se  the  sesame  and  the  rice  :
+Right  is  dead ;    its  memory
+
+I  would  crown  with  sacrifice.
+
+[426]  Then  Sakka  spoke  the  third  stanza  : —
+
+Liuly,  think  ere  you  decide  :
+
+\N  ho  has  told  you  such  a  lie  /
+Strong  in  might  and  thoiLSiUid-eyed
+
+Perfect  Right  can  never  die.
+
+Hearing  him,  the  woman  sjioke  two  stanzaa  : —
+
+Bndimin,  I  have  witness  strong,
+
+'  Right  is  dead '  I  must  believe :
+All  men  now  who  fallow  wrong
+
+Great  prosjKirity  receive.
+
+Barren  once,  my  g<xxl  son's  sjxiase
+
+Beats  me,  and  she  bears  a  s<jn :
+She  is  lady  of  our  hou.se,
+
+I  an  outcast  and  undone.
+
+Then  Sakka  spoke  the  sixth  stanza  : —
+
+^Xay,  I  live  eternally  ;
+
+'Twas  for  your  siike  that  I  cjime  :
+She  beat  you  ;    but  her  son  and  she
+
+Shall  be  ashes  in  my  flame.
+
+[427]  Hearing  him,  she  cried,  "Alas,  what  say  you?  I  will  try  to
+save  my  giiuidson  from  death,"  and  so  she  spoke  the  seventh  stanza  : —
+
+King  of  gods,  your  will  be  done  :
+
+If  for  me  you  left  the  sky,
+May  my  children  and  their  son
+
+Live  with  me  in  amity.
+
+'  She  is  called  Kiitiyani  in  the  eighth  stanza.
+*  Sakka  identifies  himself  with  Ri»{ht.
+
+
+256  The  JdtaJca.     Book   VIII.
+
+Then  Sakka  spoke  the  eighth  stanza : —
+
+Katiyani's  will  be  done  :
+
+Beaten,  you  still  on  Right  rely  :
+With  your  children  and  their  son
+
+Share  one  home  in  amity.
+
+After  saying  this,  Sakka,  now  in  all  his  divine  apparel,  stood  in  the
+air  by  his  supernatural  power  and  said,  "  Kaccaui,  be  not  afraid  :  by  my
+power  your  son  and  daughter-in-law  will  come,  and  after  getting  your
+forgiveness  on  the  way  will  take  you  back  with  them  :  dwell  with  them
+in  peace : "  then  he  went  to  his  own  place.  By  Sakka's  power  they
+bethought  themselves  of  her  goodness,  and  making  enquiry  through  the
+village  they  found  she  had  gone  towards  the  cemetery.  They  went  along
+the  road  calling  for  her :  when  they  saw  her  they  fell  at  her  feet,  and
+asked  and  obtained  her  pardon  for  their  offence.  She  welcomed  her
+grandson.  So  they  all  went  home  in  delight  and  thencefortli  dwelt
+together.
+
+Joyful  with  her  good  son's  wife
+
+Katiyani  then  did  dwell  :
+Indra  pacitied  their  strife,
+
+Son  and  grandson  tend  her  well.
+
+This  stanza  is  inspired  by  Perfect  Wisdom.
+
+
+[428]  After  the  lesson  the  blaster  declared  the  Truths  and  identified  the
+Birth :  after  the  Truths  that  lay  brother  was  established  in  the  fruition  of  the
+First  Path : — "  At  that  time  the  man  who  supi)orted  his  mother  was  the  man
+who  is  supporting  his  mother  to-day,  the  wife  of  that  time  was  the  wife  of  to-
+day, and  Sakka  was  myself."
+
+
+No.  418.
+
+ATTHASADDA-JATAKA.
+
+'M  pool  so  deep"  etc. — The  Master  told  this  tale  while  dwelling  in  Jetavana,
+concerning  an  indistinguishable  terrific  sound  heard  at  midnight  by  the  king  of
+Kosala.  The  occasion  is  like  that  already  described  in  the  Lohakumbhi  Birth  i.
+At  this  time  however,  when  the  king  said,  "  Lord,  what  does  the  hearing  of  these
+sounds  import  to  me  ? "  the  Master  answered,  "  Great  king,  be  not  afraid  :  no
+danger  shall  befal  you  owing  to  these  sounds  :  such  terrible  indistinguishable
+
+'  See  sujxra,  p.  29.
+
+
+No.  418.  257
+
+sounds  have  not  been  heard  by  you  alone  :  kings  of  old  also  heard  like  sounds,
+and  meant  to  follow  the  advice  of  brahmins  to  offer  in  sacrifice  four  animals  of
+each  species,  but  after  hearing  what  wise  men  had  to  say,  they  set  free  the
+animals  collected  for  sacrifice  and  caused  proclamation  by  drum  against  all
+slaughter  " :  and  at  the  king's  request,  he  told  the  old  tale.
+
+
+Once  on  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  wais  born  in  a  brahmin  family  worth  eighty  crores.  When  he
+grew  up  he  learned  the  arts  at  Takkasila.  After  his  parents'  death  he
+reviewed  all  their  treasures,  got  rid  of  all  his  wealth  by  way  of  charity,
+forsook  desires,  went  to  the  Himalaya  and  became  an  ascetic  and
+entered  on  mystic  meditation.  After  a  time  he  came  to  the  haunts  of
+men  for  salt  and  vinegar,  and  reaching  Benares  dwelt  in  a  garden.  At
+that  time  the  king  of  Benax'es  when  seated  on  his  royal  bed  at  midnight
+heard  eight  sounds  : — first,  a  crane  made  a  noise  in  a  garden  near  the
+palace  ;  second,  immediately  after  the  crane,  a  female  crow  made  a  noise
+from  the  gateway  of  the  elephant-house ;  [429]  third,  an  insect  settled  on
+the  peak  of  the  palace  made  a  noise ;  fourth,  a  tame  cuckoo  in  the  palace
+made  a  noise  ;  fifth,  a  tame  deer  in  the  same  place ;  sixth,  a  tame  monkey
+there ;  seventh,  a  gnome  living  in  the  palace ;  eighth,  immediately  after
+the  last,  a  paccekabuddha,  passing  along  the  roof  of  the  king's  habitation
+to  the  garden,  uttered  a  sound  of  ecstatic  feeling.  The  king  was  ten-ified
+at  hearing  these  eight  sounds,  and  next  day  consulted  the  brahmins.  The
+brahmins  said,  "  Great  king,  there  is  danger  for  you  :  let  us  oflFer  sacrifice
+out  of  the  palace  ; "  and  getting  his  leave  to  do  their  pleasure,  they  came
+in  joy  and  delight  and  began  the  work  of  sacrifice.  Now  a  young  pupil
+of  the  oldest  sacrificial  brahmin  was  wise  and  learned  :  he  said  to  his
+master,  "  Master,  do  not  cause  such  a  harsh  and  cruel  slaughter  of  so
+many  creatures."  "Pupil,  what  do  you  know  about  it?  even  if  nothing
+else  happens,  we  shall  get  much  fish  and  flesh  to  eat."  "  Master,  do  not,
+for  the  belly's  sake,  an  action  which  will  cause  rebirth  in  hell."  Hearing
+this,  the  other  brahmins  were  angry  with  the  pupil  for  endangering  their
+gains.  The  pupil  in  fear  said,  "  Very  well,  devise  a  means  then  of  getting
+fish  and  flesh  to  eat,"  and  left  the  city  looking  for  some  pious  ascetic  able
+to  prevent  the  king  from  sacrificing.  He  entered  the  royal  garden  and
+seeing  the  Bodhisatta,  he  saluted  him  and  said,  "  Have  you  no  compassion
+on  creatures  ]  The  king  has  ordered  a  sacrifice  which  will  bring  death  on
+many  creatures :  ought  you  not  to  bring  about  the  release  of  such  a
+multitude  ?  "  "  Young  brahmin,  I  do  not  know  the  king  of  this  land,  nor
+he  me."  "Sir,  do  you  know  what  will  be  the  consequence  of  those  sounds
+the  king  heard?"  "I  do."  "If  you  know,  [430]  why  do  you  not  tell
+the  king?"     "Young  brahmin,  how  can  I  go  with  a  horn  fastened'  on  my
+
+^  As  an  emblem  of  pride,  as  in  the  Bible.
+
+J.  III.  17
+
+
+258  The  Jatahi.      Booh    V 1 1 1 .
+
+
+forohead  to  say,  '  I  know?'  If  the  king  conio.s  here  to  «juestion  nie,  1  will
+tell  him."  The  young  Imilunin  went  swiftly  to  the  king's  court,  and  when
+ho  wiis  asked  his  husinesa,  he  said,  "Great  king,  u  certain  ancetic  knows
+the  issue  of  those  sounds  you  heard  :  ho  is  sitting  on  the  royal  seat  in  your
+garden,  and  says  he  will  tell  you  if  you  ask  him  :  you  should  do  so."  The
+king  went  swiftly,  saluted  the  ascetic,  and  after  friendly  greeting  he  sat
+down  and  asked,  "  Is  it  true  that  you  know  the  issue  of  the  souiitls  I
+have  heard?"  "  Yes,  great  king."  "Then  pray  tell  me."  "Great  king,
+there  is  no  danger  connected  with  those  sounds:  there  is  a  certain  crane  in
+your  old  garden  ;  it  was  without  f(MKl,  and  half  dead  with  hunger  made  the
+first  sound:"  and  .so  hy  his  knowledge  giving  precisely  the  crane's  meaning
+he  uttered  the  first  stanza  : —
+
+A  pool  s<i  deep  and  full  of  fish  they  called  this  place  of  yore,
+
+The  crane-king's  resilience  it  was,  my  anccstt>rs'  ucfore  :
+
+And  though  wo  live  on  fn)g8  to-day,  we  never  leave  itH  shore.
+
+"That,  great  king,  was  the  sound  the  crane  made  in  the  pangs  of
+hunger  :  if  you  wish  to  set  it  free  from  hunger,  have  the  garden  cleaned
+and  fill  the  tank  with  water."  The  king  tohl  a  minister  t«j  have  this  done.
+"Great  king,  there  is  a  female  crow  who  lives  in  the  doorway  of  your
+elephant  house  :  sl»e  made  the  secon<l  .sound,  grieving  fi)r  her  son  :  you
+need  have  no  fear  from  it,"  and  .so  he  uttered  the  second  stanzji : —
+
+Oh  I    who  of  wicked  Bandhura  ?   the  single  eye  will  rend
+
+My  nest,  my  nestlings  and  myself  oh  !   who  will  now  l)efriend  ?
+
+[431]  Then  he  asked  the  king  for  the  name  of  the  chief  gi'oom  in  the
+elephant-hou.se.  "His  nanie,  sir,  is  Bandhuiii."  "Has  he  only  one  eye,
+t)  king?"  "Yes,  sir."  "Great  king,  a  certain  crow  has  built  her  nest
+over  the  doorway  of  your  elephant-hou.se  ;  there  she  laid  her  eggs,  there
+lier  young  in  due  time  were  hatched  :  every  time  the  groom  enters  or
+leaves  the  stable  on  his  elephant,  he  strikes  with  his  hook  at  the  crow  and
+her  nestlings,  and  destroys  the  nest :  the  crow  in  this  distress  wishes  to
+tear  his  eye  and  spoke  as  she  did.  If  you  are  well-dispo.sed  to  her,  send
+for  Bandhura  and  prevent  him  from  destroying  the  nest."  The  king  sent
+for  him,  rebuked  and  removed  him,  and  gave  the  elephant  to  another.
+
+"  On  the  peak  of  your  palace-roof,  great  king,  there  is  a  wootl-insect ;
+it  had  eaten  all  the  fig-wood  there  and  could  not  eat  the  harder  wood  :
+lacking  food  and  unable  to  get  away,  it  made  the  third  sound  in  lamenta-
+tion: you  need  have  no  fear  from  it :  "  and  so  by  his  knowledge  giving
+precisely  the  insect's  meaning  he  spoke  the  third  stanza  : —
+
+I've  eaten  all  the  fig-wo(xl  round  a.s  far  a-s  it  would  go  :
+Hard  wood  a  weevil  liketh  not,  though  other  food  runs  low.
+
+The  king  sent  a  servant  and  by  some  means  had  the  weevil  set  free.
+
+
+No.  418.  259
+
+"In  your  habitation,  great  king,  is  there  a  certain  tame  cuckoo'?"
+"There  is,  sir."  "Great  king,  that  cuckoo  was  pining  for  the  forest  when
+it  remembered  its  former  life,  '  How  can  I  leave  this  cage,  and  go  to  my
+dear  forest  ? '  and  so  made  the  fourth  sound  :  you  need  have  no  fear  from
+it :  "  and  so  he  spoke  the  fourth  stanza  : —
+
+[432]  Oh  to  leave  this  royal  dwelling !   oh  to  gain  my  liberty,
+
+Glad  at  heart  to  roam  tlie  wood,  and  build  niy  nest  upon  the  tree.
+
+So  saying,  he  addf^l,  "The  cuckoo  is  juning,  great  king,  set  her  free."  The
+king  did  so.
+
+"Great  king,  is  there  a  tame  deer  in  your  habitation?"  "There  is,
+sir."  "He  was  chief  of  the  herd:  ronicmbcring  his  hind  and  pining  for
+love  of  her  he  made  the  fifth  sound  :  you  ihmmI  liavc  no  ffar  from  it :  "  and
+he  spoke  the  tifth  stivnza  : —
+
+Oh  to  leave  this  royal  dwelling  I   oh  to  gain  my  liberty.
+
+Drink  pure  water  of  the  fountiiin,  lead  tlic  herd  that  followed  me  !
+
+The  Great  Being  caused  this  deer  too  to  be  set  free  and  went  on,  "  Great
+king,  is  there  a  tame  monkey  in  your  habitation?"  "There  is,  sir."
+"  H(^  was  chief  of  a  herd  in  the  Himalaya,  and  he  was  fond  of  the  .society
+of  female  monkeys  :  he  was  brought  here  by  a  liunter  named  Bharata :
+pining  and  longing  for  his  old  haunts  he  made  the  sixth  sound  :  you  need
+have  no  fear  from  it,"  and  he  spoke  the  sixth  stjinza  : —
+
+Filled  and  stiiincd  wa.s  1  with  pa-s-sions,  with  dasiro  infatuate,
+Bharatii  the  hiuiter  took  me  ;    may  I  bring  you  hai)[>y  fate  !
+
+The  Great  Being  caused  the  monkey  too  to  be  set  free,  and  went  on,
+"  Great  king,  is  there  a  gnome  living  in  your  habitation  1  "  "  There  is,
+sir."  "  He  is  thinking  of  what  he  did  with  his  sylph  [133]  and  in  the  pain
+of  desire  made  the  seventh  sound.  One  day  he  had  climbed  the  peak  of  a
+high  mountjiin  with  her :  they  plucked  and  decked  themselves  with  many
+flowei-s  of  choice  hue  and  scent,  and  never  noticed  that  the  sun  was  set-
+ting ;  darkness  fell  as  they  were  descending.  The  syljjh  said,  '  Husband,
+it  is  dark,  come  down  carefully  without  stumbling,'  and  taking  him  by
+the  hand,  she  led  him  down.  It  was  in  memory  of  her  words  that  he
+made  the  sound  :  you  need  have  no  fear  from  it."  By  his  knowledge  he
+stated  and  made  known  the  circumstance  precisely,  and  spoke  tlie  .seventh
+stanza  : —
+
+When  the  darkness  gathered  thickly  on  the  mountain  summit  lone,
+'  Stumble  not,'  she  gently  warned  me,  '  with  thy  foot  agaiast  a  stone.'
+
+So  the  Great  Being  explained  why  the  gnome  had  made  the  sound,  and
+caused  liim  to  be  set  free,  and  went  on,  "Great  king,  there  was  an  eighth
+sound,  one  of  ecstasy.  A  certain  paccekabuddha  in  tlie  Nandamula  cave
+knowing  that  the  conditions  of  life  wen^  now  at  an  end  for  him  came  to
+
+17—2
+
+
+200  TJie  Jataka.     Booh   VIII.
+
+the  abode  of  man,  thinking,  '  I  will  enter  into  Nirvana  in  the  king  of
+Benares'  park  :  his  servants  will  bury  me,  and  hold  sacred  festival  and
+venerate  my  relics  and  so  attain  heaven  : '  he  was  coining  by  his  super-
+natural power  and  just  as  he  reached  your  palace-roof,  he  threw  off  the
+burden  of  life  and  sung  in  ecstasy  the  song  that  lights  up  the  entmnce
+into  the  city  of  Nirvana  : "  and  so  he  spoke  the  stanza  uttered  by  the  pac-
+cekabuddha :
+
+[434]    Surely  I  see  the  end  of  l)irth,
+
+I  ne'er  again  the  wornb  shall  see :
+My  last  existence  (in  the  earth
+Is  o'er,  and  all  its  misery.
+
+"With  these  words  of  ecstasy  lie  reached  your  park  and  jtassed  into
+Nirvana  at  the  foot  of  a  s.il-tree  in  full  flower :  come,  great  king,  and
+perform  his  funeral  rites."  So  the  Great  Being  took  the  king  to  the  place
+where  the  paccekabuddha  entered  into  Nirvana  and  shewed  him  the  body.
+Seeing  the  body,  the  king  with  a  great  army  paid  honour  with  perfumes
+and  flowers  and  the  like.  By  the  Bodhisatta's  advice  he  stopped  the
+sacrifice,  gave  all  the  creatures  their  lives,  made  proclamation  by  drum
+through  the  city  that  there  should  be  no  slaughter,  caused  .sacred  festival
+to  be  held  for  seven  days,  had  the  paccekabud»lha's  V)ody  burnt  with  great
+honour  on  a  pyre  heaped  with  perfumes  and  made  a  stupa  where  four
+high  roads  meet.  The  Bodhi.satta  jtreached  righteousness  to  the  king  and
+exhorted  him  to  diligence  :  then  he  went  to  the  Himalaya  and  there
+did  works  in  the  Perfect  States,  and  without  a  lireak  in  his  meditations
+became  destined  for  the  Brahma  Heaven.
+
+
+After  the  lesson,  the  Ma.ster  said,  "  Great  king,  there  is  no  danger  at  all  to
+you  from  that  soiuid,  .stop  the  .sacrifice  and  give  all  the.se  creatures  their  lives":
+and  having  caused  proclamation  to  be  made  by  drum  that  their  liv&s  were
+spared,  he  identified  the  Birth :  "  At  that  time  the  king  wa.s  Ananda,  the  pupil
+was  Sariputta,  and  the  ascetic  was  my.self."
+
+
+No.  419.
+
+
+SULASA-JATAKA.
+
+
+[435]  ^^Here  is  a  golden  necklace,"  etc.— The  Master  told  this  tale  while  dwelling
+in  Jetavana,  concerning  a  female  .servant  of  Anathapindika.  The  story  is  that  one
+feast-day,  when  she  was  going  with  a  number  of  fellow-servants  to  a  pleasure-
+garden,  she  asked  her  mistress  Pannalakkhanadevi   for  an  ornament  to  wear.
+
+
+No.  419.  261
+
+Her  mistress  gave  her  an  ornament  of  her  own,  worth  a  hundred  thousand  pieces.
+She  put  it  on  and  went  along  with  the  other  servants  to  the  pleasure-garden.  A
+certain  thief  coveted  the  ornament,  and  with  the  design  of  killing  her  and  taking
+it  he  began  talking  to  her,  and  in  the  garden  he  gave  her  fish,  flesh  and  strong
+drink.  "He  does  it,  I  suppose,  because  he  desires  me,"  she  thought,  and  at
+evening  when  the  othera  lay  down  to  rest  after  their  sports,  she  rose  and  went  to
+him.  He  said,  "Mistress,  this  place  is  not  private;  let  us  go  a  little  farther."  She
+thought,  1  "Anything  private  can  be  done  in  this  place:  no  doubt  he  must  be
+anxious  to  kill  me  and  take  what  I  am  wearing:  I'll  teach  him  a  lesson  :"  so  she
+said,  "Master,  I  am  dry  owing  to  the  strong  drink  :  get  me  some  water,"  and
+taking  him  to  a  well  asked  him  to  draw  some  water,  shewing  him  the  rope  and
+bucket.  The  thief  let  down  the  bucket.  Then  as  he  was  stooping  to  draw  up
+the  water,  the  girl,  who  was  very  strong,  pushed  him  bard  with  both  hands  and
+threw  him  into  the  well.  "You  won't  die  that  way,"  she  said,  and  threw  a  large
+brick  upon  his  head.  He  died  on  the  spot.  When  she  came  back  to  the  town
+and  gave  her  mistress  the  ornament,  she  said,  "I  have  very  nearly  been  killed
+t<j-day  for  that  ornament,"  and  told  the  whole  story.  The  mistress  told
+Anathapindika,  and  he  told  the  Tathagata.  The  Master  said,  "Householder,
+this  is  not  the  first  time  that  servant  girl  has  been  endowed  with  wits  rising
+to  the  occasion  ;  she  was  so  l>efore  also  :  it  is  not  the  first  time  she  killed  that
+man  ;  she  did  it  once  before,"  and  at  Anathapindika's  request,  he  told  the  tale
+of  old.
+
+
+Once  upon  a  time  when  Brahniadatta  was  reigning  in  Benares,  there
+was  a  beautiful  woman  of  the  town,  called  Sulasa,  who  had  a  train  of  five-
+hundred  courtesan.s,  and  wliose  jjrice  was  a  thousand  pieces  a  night.  There
+was  in  the  same  city  a  robber  named  Sattuka,  [436]  as  strong  as  an
+elephant,  who  u.sed  to  enter  rich  men's  houses  at  night  and  plunder  at  will.
+The  townsmen  assembled  and  complained  to  the  king.  The  king  ordered
+the  city-watch  to  post  bands  here  and  there,  liave  the  robber  caught  and
+cut  ofi"  his  head.  They  bound  his  hands  behind  his  back  and  led  him  to
+the  place  of  execution,  scourging  him  in  every  square  with  whips.  The
+news  that  he  was  taken  excited  the  whole  city.  Sulasa  was  standing  at  a
+window,  and  looking  down  on  the  street  she  saw  the  robber,  loved  him  at
+sight  and  thought,  "  If  I  can  free  that  stout  fighting-man,  I  will  give  up
+this  bad  life  of  mine  and  live  respectably  with  him."  In  the  way  described
+in  the  Kanavera  Birth*  she  gained  his  freedom  by  sending  a  thousand
+pieces  to  the  chief  constable  of  the  city  and  then  lived  with  him  in  delight
+and  harmony.  The  robber  after  three  or  four  months  thought,  "I  shall  never
+be  able  to  stay  in  this  one  place  :  but  one  can't  go  empty-handed  :  Sulasa's
+ornaments  are  worth  a  hundred  thousand  pieces :  I  will  kill  her  and
+take  them."  So  he  said  to  her  one  day,  "Dear,  when  I  was  being  hauled
+along  by  the  king's  men,  I  promised  an  offering  to  a  tree-deity  on  a  mountain-
+top,  who  is  now  threatening  me  because  I  have  not  paid  it :  let  us  make
+an  offering."     "  Very  well,  husband,  prepare  and  send  it."     "  Dear,  it  will
+
+1  Omitting  na,  with  other  MSS.
+-  See  supra,  p.  40.
+
+
+262  The  Jcltaka.     Book    Vlll.
+
+not  do  to  send  it :  let  us  both  go  and  present  it,  wearing  all  our  ornaments
+and  with  a  great  retinue."  "  Very  well,  husband,  we'll  do  so."  He  made
+her  prepare  the  offering  and  when  they  reached  the  mountain-foot,  ho  said,
+**  Dear,  the  deity,  seeing  this  crowd  of  people,  will  not  accept  the  offering ;
+let  us  two  go  up  and  presmt  it."  She  consented,  and  he  made  her  carry
+the  vessel.  He  was  himself  armed  to  the  teeth,  and  when  they  reached
+the  top,  he  set  the  offering  [137]  at  the  foot  of  a  tree  which  grew  beside  a
+precipice  a  hundred  times  us  high  as  a  man,  and  said,  "  Dear,  I  have  not
+come  to  present  the  offering,  I  have  come  with  the  intention  of  killing  you
+and  going  away  with  all  your  ornaments  :  take  them  all  off  and  make  a
+bundle  of  them  in  your  outer  garment."  "Husband,  why  woidtl  you  kill
+me?"  "For  your  money."  "Husband,  remember  the  good  I  have  done
+you  :  when  you  were  being  hauled  along  in  chains,  T  gave  up  a  rich  man's
+son  for  you  and  paid  a  large  suuj  and  .saved  your  life  :  though  I  might  get
+a  thousand  pieces  a  day,  I  never  look  at  another  man  :  such  a  benefactress
+I  am  to  you  :  do  not  kill  me,  I  will  give  you  much  money  and  be  your
+slave."     With  these  entreaties  she  s[)oke  the  tii-st  stauzji  : —
+
+Here  is  a  golden  necklace,  and  emeralds  and  iwarls,
+
+Take  all  and  welcome  ;   give  me  place  among  thy  .servant  girht.
+
+When  Sattuka  had  spoken  the  second  stanza  in  accordance  with  his
+purpose,  to  wit —
+
+Fair  lady,  lay  thy  jewels  down  and  do  not  weep  ho  sore  :
+
+I'll  kill  thee  :   else  I  can't  l>e  .sui-c  thou'lt  give  me  all  thy  .store : —
+
+Sulasa's  wits  rose  to  the  occasion,  and  thinking,  '•  This  robber  will  not
+give  me  my  life,  but  I'll  take  his  life  first  by  throwing  him  down  the
+precipice  in  some  way,"  she  spoke  the  two  stanzas : —
+
+Within  my  years  of  .sense,  within  my  conscious  memory.
+
+No  man  on  earth,  I  do  protest,  have  I  loved  more  than  thee.
+
+Come  hither,  for  my  hist  salute,  receive  my  last  embrace  :
+For  never  more  upon  the  earth  shall  we  meet  face  to  face.
+
+Sattuka  could  not  see  her  purpose,  so  he  said,  "Very  well,  dear;  come
+
+and  embrace  me."     Sulasa  walked  round  him  in  respectful  salutation  three
+
+times,  kissed  him,  and  saying,  "  Now,  husband,  I  am  going  [-438]  to  make
+
+obeisance  to  you  on  all   foiir  sides,"  she  put  her  head  on  his  foot,  did
+
+obeisance  at  his  sides,  and  went  behind  him  as  if  to  do  obeLsance  there  :
+
+then  with  the  strength  of  an  elephant  she  took  him  by  the  hinder  parts
+
+and  threw  him  head  over  heels  down  that  place  of  destruction  a  hundred
+
+times  as  high  as  a  man.     He  was  crushed  to  pieces  and  died  on  the  spot.
+
+Seeing  this  deed,  the  deity  who  lived  on  the  mountain-top  spoke  these
+
+stanzas  : —
+
+Wisdom  at  times  is  not  confined  to  men  :
+A  woman  can  shew  wisdom  now  and  then.
+
+
+No.  419.  263
+
+Wisdom  at  times  is  not  confined  to  men  :
+Women  are  quick  in  counsel  now  and  then.
+
+How  quick  and  keen  she  was  the  way  to  know,
+She  slew  him  like  a  deei*  with  full-stretched  bow.
+
+He  that  to  great  occasion  fails  to  rise
+Falls,  like  that  dull  thief  from  the  precipice.
+
+One  prompt  a  crisis  in  his  fate  to  see,
+Like  her,  is  saved  from  threatening  enemy.
+
+So  Sulasd  killed  the  robbei*.  When  she  descended  from  the  mountain
+and  came  among  her  attendants,  they  asked  where  her  husband  was.
+"  Don't  ask  me,"  she  said,  and  mounting  her  chariot  she  went  on  to  the
+city.
+
+
+[439]     After  the  lesson,  the  Ma.ster  identiHed  the  Birth:  "At  that  time  the
+two  then  were  the  same  two  now,  the  deity  was  myself."
+
+
+No.   420.
+
+
+SUMANGALA-J  ATA  K  .\.
+
+
+'■'■  Conscious  of  an  aagry  frown"  etc. — The  Master  told  this  tale  while  dwelling
+at  Jetavana,  concerning  the  admonition  of  a  king.  On  this  occa.sion  the  Ma-stor,
+at  the  king's  request,  told  the  tale  of  old.
+
+
+Once  on  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+Bodhisatta  was  born  as  the  son  of  his  chief  queen.  When  he  grew  up,
+he  became  king  on  his  father's  death  and  gave  abundant  alms.  He  had  a
+park-keeper  named  Sumangala.  A  certain  paccekabuddha  left  the  Nanda-
+mula  cave  on  a  pilgrimage  for  alms,  and  coming  to  Benares  stayed  in  the
+park.  Next  day  he  went  into  the  town  to  beg.  The  king  saw  him  with
+favour,  made  him  come  up  into  the  palace  and  sit  on  the  throne,  waited  on
+him  with  various  delicate  kinds  of  food,  both  hard  and  soft,  and  received
+his  thanks  ;  being  pleased  that  the  paccekabuddha  should  stay  in  his  park,
+he  exacted  a  promise  and  sent  him  back  thither :  after  his  morning  meal
+he  went  there  in  person,  arranged  the  places  for  his  habitation  by  night
+
+
+204  1%'  Jataka.      Hook    VIII
+
+and  clay,  gave  him  tin-  |iiirk-ke«»pu*  Suiuanj,'ahi  lu*  atU'iidaiit,  Hiid  went
+back  to  the  town.  AfttT  that  tho  iiaccfkaliuddha  had  incalH  ronsUmtly  in
+the  palace  and  livrd  there  a  lung  time  :  Suniari;,'ala  re" [K-ot fully  attended  on
+him.  One  day  he  went  away,  Haying  to  Sumai'igiila,  "  I  am  going  to  Huch
+and  HUch  a  village  for  a  ffw  dayn,  but  will  come  back  :  infonn  the  king."
+Hunmngala  informed  the  king.  After  a  few  dayH*  stay  in  that  village
+the  pacci-kabuddha  came  back  to  the  park  in  tlie  evening  after  Hunaet.
+[440]  Hunuii'igala,  not  knowing  of  his  arrival,  had  gone  to  his  own  house.
+The  ])accekabuddha  put  away  hi.s  bow]  and  roU>,  and  after  a  little  walk  sat
+down  on  a  Htone-slab.  That  day  Home  Htrange  gu«*fltM  had  come  to  the
+park-keeper's  house.  To  g«'t  them  soup  and  curry  he  hod  gone  with  a  Ikjw
+to  kill  a  tame  ileer  in  the  park  :  he  wiu*  there  looking  for  a  deer  when  he
+SAW  the  paccekabuddha  and  thinking  he  was  a  gnat  deer,  ho  aimed  an
+arrow  and  shot  liim.  The  paccekabuddha  uncovere<l  his  head  ami  said,
+"Sumangala."  (Jreatly  movetl  Humangtda  said,  "Sir,  I  know  not  of  your
+coming  and  shot  you,  thinking  you  were  a  de«'r  :  forgive  me."  '*  Very
+well,  but  what  will  you  «lo  now  1  Come,  pull  out  the  arrow."  He  made
+obei.sance  and  pulh'«l  it  out.  The  paccfkabudclha  fi>lt  great  pain  and
+pa.s.sed  into  nirvana  then  and  there.  The  park-ke4>|M>r  thought  th<-  king
+would  not  pardon  him  if  he  knew  :  ho  took  his  wife  and  children  and  fled.
+]iy  HUpeiiiatural  power  the  wlioh-  city  heard  that  the  paccekabuddha  had
+enti-red  nirMina,  and  all  w»«re  greatly  e.xcited.  Next  day  some  men  ent4Ted
+the  park,  saw  the  \xy\y  and  told  the  king  that  the  |>ark  koe|Rr  had  fled
+after  killing  the  paccekabuddha.  The  king  went  with  a  great  retinue  and
+for  seven  days  paid  honour  to  the  l>ody  :  then  with  all  ceremony  he  took
+the  relics,  built  a  shrine,  and  doing  honour  to  it  went  on  nding  hiu
+kingdom  righteously.  After  a  year,  Sumangala  determined  to  find  out
+what  the  king  thought :  he  canji*  and  u.skrd  a  ministt'r  whom  he  saw  to
+tind  out  what  the  king  thought  of  him.  The  minister  prai.s«>d  Sumangala
+before  the  king  :  but  he  \\n»  as  if  he  heard  not.  The  minister  said  no
+more,  but  told  Sumangala  that  the  king  was  not  pleased  with  him.  After
+another  yQxw  he  came,  and  again  in  the  thinl  year  he  brought  his  wife  and
+children.  The  ministt-r  knew  the  king  was  app«'a.sed  [441],  and  Hetting
+Sumangala  at  the  palace-door  told  the  king  of  his  coming.  The  king  sent
+for  him,  and  after  greeting  said,  "Sumafigala,  why  did  you  kill  that
+paccekabuddha,  through  whom  I  was  gaining  merit?"  "O  king,  I  did
+not  mean  to  kill  him,  but  it  was  in  this  way  that  I  did  the  deed,"  and
+he  told  the  story.  The  king  bade  him  have  no  fear,  and  rejissuring
+him  made  him  park-keeper  again.  Then  the  minister  asked,  "U  king,
+why  did  you  make  no  answer  when  you  heard  Sumangala's  prai.ses  twice,
+and  on  the  third  hearing  why  did  yon  send  for  him  and  forgive  him?"
+The  king  said,  "Dear  sir,  it  i.s  wrong  for  a  king  to  do  anything  hastily
+in  his  anger:  therefore  I  was  silent  at  Hi-st  and  the  third  time  when  J
+
+
+No.  420.  265
+
+knew  I  was  appeased  I  sent  for  Sumangala":    and   so   he    spuko    these
+stanzas  to  declare  the  duty  of  a  king  : —
+
+Conscious  of  an  angry  frmvn,
+
+Ne'er  let  king  stretch  out  his  nxi  :
+Things  unworthy  of  a  crown
+
+Then  would  follow  from  his  nod.
+
+Conscious  of  a  milder  m<X)d,
+
+Let  him  judgments  hai-sh  decree,
+When  the  case  is  understxni,
+
+Fix  the  projMjr  penalty  :
+
+Self  nor  others  will  ho  vex.
+
+Clearly  parting  right  from  wrong  :
+Though  his  yoke  is  on  men's  necks,
+
+\'irtuo  holds  him  high  and  strong.
+
+Princes  recklcs-s  in  their  deed
+
+I'ly  the  pkI  reni' «rsele.s.sly,
+111  reputi.'  is  here  their  meed,
+
+Hell  awaitM  them  when  they  die.
+
+[142]    They  who  love  the  saintly  law,
+
+Pure  in  deetl  and  woni  and  thought,
+Kille«l  with  kindness,  cjilni  and  awe,
+
+Pii.s.s  tlm>ugh  both  world.s  a.s  they  i>ught.
+
+King  am  I,  my  i»cople's  Innl  ;
+
+Anger  shall  not  cfiock  my  lient  :
+When  to  vice  I  tjiko  the  »word,
+
+I'ity  prompts  the  puni.shment.
+
+[113]  So  the  king  deelan'<|  his  own  gfKxl  ipialities  in  six  stansuis  :  his
+whole  court  were  ploiusetl  and  declare"!  his  merits  in  the  words,  "Such
+exc*ellence  in  moral  practices  and  qualities  is  worthy  of  your  majehty."
+Suniangala,  after  the  court  had  finished  speaking,  saluted  the  king,  and
+after  olx-isaiice  spoke  three  stanzas  in  tlie  king's  praise  : —
+
+Such  thy  glor^'  and  thy  i)ower  ;
+Ne'er  resign  them  for  an  hour :
+Free  from  anger,  free  fp^m  fears,
+Keign  in  joy  a  hundred  years.
+
+Prince,  whom  all  those  virtues  hle-ss.
+
+Mild  and  hland,  but  tinn  in  worth,
+llide  the  world  with  righto  )U.sncs.s,
+
+Pass  to  he^ivcu  when  fix'ed  fnjm  Girtli.
+
+True  in  word,  in  action  good,
+
+Take  the  means  thy  end  to  gain  :
+Cidm  the  troubled  multitude,
+
+Aa  a  cloud  with  genial  rain.
+
+
+[444]  After  the  lesson  connected  with  the  admonition  of  the  Kosala  king,  the
+Ma.stcr  ideutihed  the  Birth  :  "At  that  time  the  paccekabuddha  pas.sed  into
+nirvana,  Sumangala  Wits  Auanda,  the  king  was  myself."
+
+
+26G  Thi'  ,/dtaka.      Hook    VIII.
+
+
+No.   421.
+
+GAN(iAMALA-JATAKA.
+
+"  T/ie  enrtii'*  like  coals,"  etc. -The  Master  U>\d  this  tilo  while  tlwolliiig  in
+.letiivfiiiH,  coiKcrniiig  the  keeping  i>f  the  weekly  h"»ly  tlays.  One  duv  tho  .M»i«ter
+won  JulilrcM.siiig  the  lay-hrethren  wh"  were  keeping  the  h"ly  days  ami  sjiid,  "  I>iy-
+hrcthren,  your  <  <>niluct  is  g'HKl;  wlu-n  men  keep  the  Imlv  days  they  shnuld  give
+alniM,  keep  the  mural  precepts,  never  show  anger,  fei-f  kindne»w  an<l  d«»  the
+duties  of  the  day  :  wise  men  of  old  gained  groat  glory  fron»  even  ft  iMirtial  keeping
+of  the  holy  days:"  and  at  their  retpieat  he  told  the  talo  of  old.
+
+
+Unce  upon  a  tinu"  wlicn  Rruhmadatta  wa.s  reigning  in  H«-nares,  tlnre  wa«
+a  rich  merchant  in  that  city  nanu-d  Suciparivara,  who.s*-  wi-alth  reacbwl
+eighty  crores  and  who  took  delight  in  charity  and  other  giKxl  works.  His
+wife  and  children  and  all  hi.s  hoUHeliold  and  s«rvantH  down  to  th»'  calf-herdH
+kept  six  holy  days  every  month.  At  that  tinn*  the  Ii««lhiHatta  whk  lorn
+in  a  certain  poor  family  and  lived  a  hard  life  on  workman's  wagcH.  Hoping
+to  get  work  he  came  to  Snciparivarii's  house  :  Haluting  and  sitting  on  one
+side,  he  was  asked  his  errand  and  mml,  "  It  waa  to  get  work  for  wage«  in
+your  house'."  When  other  worknieu  caine  to  him,  the  merchant  used  to
+say  to  them,  "  In  this  house  the  wtirknien  keep  the  moral  precepts,  if  you
+can  keep  them  you  may  work  for  me  :  "  l)Ut  to  the  Botlhisatta  he  made  no
+hint  in  the  way  of  mentioning  moral  precepts  but  said,  [445]  '•  Very  well,
+my  go«Kl  man,  you  can  work  for  me  and  arrang»'  al>out  your  wages."
+Thenceforth  the  Bodhisatta  did  all  the  merchant's  work  meekly  and
+heartily,  without  a  thought  of  his  own  weariness  ;  he  went  early  to  work
+and  came  back  at  evening.  One  day  they  proclaimt-d  a  festival  in  the  city.
+The  merchant  said  to  a  female  servant,  "This  is  a  holy  day:  you  must
+cook  some  rice  for  the  workpeople  in  the  morning  :  they  will  eat  it  early
+and  fast  the  rest  of  the  day. "  The  Bmlhisatta  rose  early  and  went  to  his
+work  :  no  one  had  told  him  to  fast  that  day.  The  other  workpeople  ate
+in  the  morning  and  then  fasted  :  the  merchant  with  his  wife,  children  and
+attendants  kept  the  fa.st :  all  went,  each  to  his  own  abode,  ami  .s<it  there
+meditating  on  the  moral  precepts.  The  Bodhisatta  worked  all  day  and
+came  home  at  sunset.  The  cook -maid  gave  him  water  for  his  hands,  and
+offered  him  in  a  dish  rice  taken  from  the  boiler.  The  Botlhisatta  said,
+"  At  this  hour  there  is  a  gi-eat  noise  on  ordinary  days  :  where  have  they
+all  gone  to-day  1  "  "  They  are  all  keeping  the  fast,  each  in  his  own  abode."
+Ho  thought,  "  I  will  not  be  the  only  pei-son  misconducting  himself  among  so
+
+'  The  Pali  text  here  is  wrongly  punctuated.
+
+
+No.  421.  267
+
+many  people  of  moral  conduct : "  so  he  went  and  asked  the  merchant  if  the
+fast  could  be  kept  at  all  by  undertaking  the  duties  of  the  day  at  that  hour.
+He  told  him  that  the  whole  duty  could  not  be  done,  because  it  had  not
+been  undertaken  in  the  morning  ;  but  half  the  duty  could  be  done.  "So
+far  be  it,"  he  aiiswered,  and  undertaking  the  duty  in  his  master's  presence
+he  began  to  keep  the  fast,  and  going  to  his  own  abode  he  lay  meditating  on
+the  precepts.  He  had  taken  no  food  all  day,  and  in  the  lust  watch  he  felt
+pain  like  a  spear-wound.  The  merchant  brought  him  various  remedies
+and  told  him  to  eat  them :  but  he  said,  "  I  will  not  break  my  fast :  I  have
+undertaken  it  though  it  cost  my  life."  [446]  The  pain  became  intense
+and  at  sunri.se  he  was  losing  consciuusnesii.  They  told  him  he  was  dying,
+and  taking  him  out  they  set  him  in  a  place  of  retirement.  At  this
+moment  the  king  of  Benares  in  a  noble  chariot  with  a  great  retinue  had
+reached  that  spot  in  a  progress  round  the  city.  The  liodhi.satta,  seeing  the
+royal  splendour,  felt  a  desire  for  royalty  antl  prayed  for  it.  Dying,  he  was
+conceived  again,  in  consequence  of  keeping  half  the  fast-day,  in  the  womb
+of  the  chief  cjueen.  She  went  through  the  ceremony  of  pregnancy,  and
+bore  a  son  after  ten  months.  Ho  was  named  prince  Udaya.  When  he
+grew  up  he  became  perfect  in  all  sciences  :  by  his  memory  of  previous
+I)irth8  he  knew  his  former  action  of  merit,  and  thinking  it  was  a  great
+reward  for  a  little  action  ho  sang  the  song  of  ecstasy  again  and  again.  At
+his  father's  death  he  gained  the;  kingdom,  and  observing  his  own  great
+glory  he  sang  the  same  song  of  ecstasy.  One  day  they  made  ready  for  a
+festival  in  the  city.  A  gieat  multitude  were  intent  on  amusement.  A
+certain  water-carrier  who  lived  by  the  north  gate  of  Benares  had  hid  a
+half-jK'uny  in  a  brick  in  a  boundary  wall.  He  cohabit«-d  with  a  poor
+woman  who  also  made  her  living  by  carrying  water.  She  said  to  liim,
+"  My  lord,  there  is  a  festival  in  the  town  :  if  you  have  any  money,  let
+us  enjoy  ourselves."  "1  have,  dear."  "How  much?"  "A  half-penny."
+"  Where  is  it  1  "  "  In  a  brick  by  the  north  gat**,  twelve  leagues  from  here
+I  leave  my  treasure:  but  have  you  got  anything  in  hand?"  "I  have."
+"  How  much  ]  "  "  A  half-penny."  "  So  youi-s  and  mine  together  make  a
+whole  penny  :  we'll  buy  a  garland  with  one  part  of  it,  perfume  with
+another,  and  strong  drink  with  a  third  :  go  and  fetch  your  half-penny  from
+where  you  put  it.  "  [447]  He  was  deliglited  to  catch  the  idea  suggested
+by  his  wife's  words,  and  saying,  "  Don't  trouble,  dear,  I  will  fetch  it,"  he
+set  out.  The  man  was  as  strong  as  an  elephant :  he  went  more  than  six
+leagues,  and  though  it  was  mid-day  and  he  wjis  treading  on  sand  as  hot  as
+if  it  wei-e  strewn  with  coals  just  off  the  6ame,  he  was  delighted  with  the
+desire  of  gain  and  in'  old  yellow  clothes  with  a  palm-leaf  fa.stened  in  hLs
+eai'  he  went   by   the   palace   court   in  pursuit   of    his  pui-pose,  singing  a
+
+'  nantakit  a^  in  p.  2*2.  1  :  the  palm-leaf  is  used  as  an  ear-oruament.
+
+
+268  Thr  Jatnka.      Hook    VIII.
+
+Hong.  King  Uduya  hIimmI  ut  uii  u\iv\\  winduw,  uiul  h4Tiii;»  liiiii  coiiiiiiij
+wondernl  who  it  whs,  who  disregarding  nuch  wind  and  heat  went  Hinging
+for  joy,  Hiid  sent  ii  Hervant  to  oill  him  up.  "The  king  calls  for  you,"  he
+was  told  :  but  he  said,  "  What  is  the  king  to  nie  )  I  don't  know  the
+king."  Ho  was  taken  l>y  force  and  stood  on  one  side.  Then  the  king
+spoko  two  stanzas  in  entjuiry  :
+
+The  ejirth's  like  coals,  llie  j;r>'imil  like  ond>ors  hot  :
+Vuu  Miiig  your  sonj;,  the  great  heat  bums  you  not.
+
+The  Htui  oil  high,  the  .sand  liolow  are  hot :
+
+Vou  sing  your  song,  the  groat  heat  hums  you  not.
+
+ilrariiig  the  king's  wonis  he  spoke  the  third  stanza  : —
+
+'Ti.s  thetM'  dcMireH  that  hum,  and  not  the  sun:
+'Tis  all  those  pressing  tn.sks  that  must  Iw  done.
+
+[44H]  The  king  asked  what  his  )>usini>s  was.  He  answen<<l,  '*  O  king,
+I  was  living  by  the  south  gate  with  a  |)oor  woman  :  she  pmpoHi>d  that
+she  and  I  should  anuim^  ounM>lvi>s  at  the  festival  and  asked  if  I  had
+anything  in  hand  :  I  told  her  I  had  a  treasurt^  stored  inside  a  wall  hy  the
+north  gate  :  she  .sent  me  for  it  to  help  us  to  amuw  ounwlves  :  those  words
+of  hci-H  never  leave  my  hmrt  and  as  I  think  of  them  hot  di-sin*  burns  me  :
+that  is  my  business."  "Then  what  (h)lights  you  so  much  tliat  you
+di.sregiird  wind  and  sun,  and  sing  as  you  go  I "  "  O  king,  I  sing  to  think
+that  when  I  fetch  my  treasure  I  shall  amuse  mysi>lf  along  with  her."
+"Then,  my  gootl  man,  is  your  treasure,  hidden  by  the  north  gat«,  a  hundre<l
+thousand  pieces]"  "Oh  no."  Then  the  king  asked  in  succession  if  it
+were  fifty  thousjind,  forty,  thirty,  twenty,  ten,  five,  four,  thn-e,  two  gold
+pieces,  one  piece,  half  a  piece,  a  <juarter  picKje,  four  pence,  three,  two,
+one  jieiiiiy.  The  man  said  "  No"  to  all  the.s**  ({uestions  aiul  then,  "  It  is  a
+half-jK'uny  :  indectl,  ()  king,  that  is  all  my  treasure:  but  I  am  going  in
+hopes  of  fetching  it  and  then  amu-sing  myself  with  her  :  and  in  that  desire
+and  delight  the  wind  and  sun  do  not  annoy  me."  The  king  .said,  '•  My
+good  man,  don't  go  there  in  such  a  heat  :  I  will  give  you  a  half-j>enny."
+•'  O  king,  I  will  take  you  at  your  word  and  accept  it,  but  I  won't  lose  the
+otlier :  I  won't  give  up  going  thert^>  ami  f«-tching  it  too.''  "  My  good  man,
+stay  here:  I'll  give  you  a  penny,  two  pence:"  then  offering  more  and
+move  he  went  on  to  a  crore,  a  hundred  crores,  boundless  wealth,  if  the  man
+would  stay.  But  he  always  answered,  *' O  king,  I'll  take  it,  but  I'll  fetch
+the  other  too.''  Then  he  was  tempted  by  ofl'ers  of  |>osts  as  treasurer  and
+posts  of  various  kinds  and  the  position  of  viceroy:  at  last  he  was  offered
+half  the  kingdom  [449]  if  lie  would  stjiy.  Then  he  consented.  Tlie  king
+said  to  his  ministei"s,  "  Go,  have  my  friend  shaved  and  bathed  and  adorned,
+and  bring  him  back."  They  did  so.  The  king  diNnded  his  kingdom  in
+two  and  gave  him  half;  but  they  say  that  he  took  the  northern  half  from
+
+
+No.   421.  269
+
+love  of  his  lialf-penny.  He  was  called  king  Half-iMjnny.  They  ruled
+tlie  kingdom  in  tVieudship  and  hanuony.  One  day  they  went  to  the  park
+together.  After  amusing  themselves,  king  Udaya  lay  dciwn  with  his  head
+in  king  Half-penuy's  lap.  He  fell  asleep,  while  the  attendants  were  going
+here  and  there  enjoying  their  amu.senu-ut.s.  King  Half-penny  thuuglit,
+"  Why  should  I  always  have  only  half  the  kingdom  ?  I  will  kill  him  and
+Ims  sole  king:"  so  he  drew  his  sword,  but  thinking  t^j  stiike  him  remembered
+that  the  king  had  uiade  him,  when  poor  and  mean,  hi.s  partner  and  set  him
+in  great  power,  and  that  the  thought  which  had  risen  in  his  mind  to  kill
+such  a  )>en«'factor  was  a  wicketl  one  :  so  he  sheathed  the  sword.  A  second
+and  a  third  time  th»*  s^imi-  thought  ro.se.  Feeling  that  this  thought,  rising
+again  and  again,  would  lead  him  on  to  the  evil  deetl,  he  threw  the  sword
+on  the  ground  and  woke  the  king.  "  Pardon  me,  O  king,"  he  said  and  fvA\
+at  his  feet.  ''  Friend,  you  have  done  me  no  wrong."  "  I  have,  O  great
+king:  1  did  such  and  such  a  thing."  "Then,  friend,  I  pardon  yuu  :  if
+you  desire  it,  Ur  sole  king,  and  I  will  serve  under  you  as  viceroy."  He
+answered,  "  O  king,  I  have  no  ne»'d  of  the  kingdom,  such  a  desire  will  cause
+n»o  to  be  reborn  in  evil  8tHt4*8  :  the  kingdom  is  yours,  take  it:  I  will
+l>ecome  an  ascetic:  I  have  s«'en  the  ri>ot  of  di'sire,  it  grows  from  a  man's
+wish,  [-t'lO]  from  henceforth  I  will  imve  no  such  wish,"  and  so  in  ecstasy
+he  8|)oke  the  fourth  stanza  : —
+
+I  have  seen  thy  nnit.s,   Desire  :    in  a  man's  own  will  they  lie.
+I   will  no  more  wi.ih  for  tlicc,  an<l  thou,  Ue?*ire,  slialt  die.
+
+So  saying,  he  spoke  the  fifth  stanza  declaring  the  law  unto  a  great
+multitude  devotetl  to  desires  : —
+
+
+ittio  deflire  is  not  enough,  and  much  but  brings  us  [tain:
+h  I    foolish  men  :   l>c  soTier,  friend.H,  if  ye  would  wi.sdom  gain.
+
+
+Little
+Ah
+
+
+So  declaring  the  law  unto  the  multitude,  he  entrusted  the  realm  to
+king  Udaya:  leaving  the  weeping  multitu«le  with  tears  on  their  faces,  he
+went  to  the  Himalaya,  became  an  ascetic  and  reache<l  perfect  insight.  At
+the  time  of  his  becoming  an  a.scetic,  king  Udaya  spoke  the  sixth  stmza  in
+complete  expression  of  ecsta-sy  : —
+
+Little  desire  has  brought  me  all  the  fruit,
+
+Great  is  the  glory  Udaya  acquires ;
+Mighty  the  gain  if  one  is  resolute
+
+To  be  a  Brother  and  forsidce  desires.
+
+[451]  No  one  knew  the  meaning  of  this  stanzj*.  One  day  the  chief
+tpieen  asked  him  the  meaning  of  it.  The  king  would  not  tell.  There  was
+a  certain  court-barber,  called  Gangamala,  who  when  attending  to  the  king
+used  to  use  the   razor  first,  and  then  gr;ts[»  the  hairs   with   his  tweezers'.
+
+'  Cf.  Cullaiuiijgo,  v.  27.
+
+
+270  The  Jataka.     Book   VIII.
+
+The  king  liked  the  first  operation,  but  the  second  gave  him  pain  :  at  the
+first  he  would  have  given  the  harl)er  a  l)oon,  at  the  second  he  would  have
+cut  his  head  ofT.  One  duy  lie  told  the  (juccn  al)out  it,  saying  that  tln-ir
+court-barber  was  a  fool  :  when  she  asked  what  he  ought  to  do,  he  unswereil,
+"Use  the  twecBers  first  and  the  razor  afterwards."  Slie  sent  for  the  barber
+and  said,  "  My  good  man,  when  you  are  trimming  the  king's  beard  you
+ought  to  take  his  hairs  with  your  tweezers  Hi-st  and  use  the  razor  after-
+wards :  then  if  the  king  offers  you  a  boon,  you  must  say  you  don't  want
+anything  else,  but  wish  to  know  the  meaning  of  his  song  :  if  you  do,  I
+will  give  you  much  money."  He  agreed.  Ou  the  ne.xt  day  when  he  was
+trimming  the  king's  beard,  he  took  the  tweezers  first.  The  king  said,
+"  Gaiigamfda,  is  this  a  new  fashion  of  yours?"  "()  king,"  he  answered,
+"  barbers  have  got  a  new  fa.shion  ; "  and  he  gnispetl  the  king's  hair  with
+the  tweezer  first,  using  tlie  razor  afterwards.  The  king  offered  him  a
+boon.  "  O  king,  I  do  not  want  anything  else  ;  tell  me  the  meaning  of
+your  song."  The  king  was  ashamed  to  tell  what  his  occupation  had  been
+in  his  days  of  poverty,  aiul  said,  "  My  good  n>an,  what  is  the  \\m  of  such
+a  boon  to  you  ?  ('hoo.se  something  else  :  "  but  the  barlK>r  Iwggeil  for  it.
+The  king  feared  to  break  liis  word  and  agreetl.  As  de.scrib<;d  in  the
+Kumma.saj>iiiila  Birth'  he  made  all  arrangrments  and  seatetl  on  a  jewelled
+throne,  told  the  whole  story  of  his  former  act  of  mt-rit  in  his  last  oxistence
+in  that  city.  ''That  explains,"  he  said,  "  half  the  stanza  :  for  the  r«'st,  my
+conu-ade  became  an  ascetic  :  I  in  my  pride  am  sole  king  now  [4r)2],  and
+that  explains  the  second  half  of  my  song  of  ecsta.sy."  Hearing  him  the
+barber  thought,  "So  the  king  got  this  glory  for  keeping  half  a  fast  day  :
+virtue  is  the  right  course ;  what  if  I  wei-e  to  l)ecome  an  ascetic  and  work
+out  my  own  salvation?"  He  left  all  his  relatives  and  worldly  goo«l.s,
+gained  the  king's  pemii-ssion  to  become  religious  and  going  Ut  tho
+Himalaya  he  became  an  ascetic,  realised  the  three  qualities  of  mundane
+things,  gained  perfect  insight,  and  became  a  paccekabuddha.  He  had  ai
+])Owl  and  rol)es  made  by  sup»'rnatural  power.  After  spending  five  or  six
+years  on  the  mountain  Gandhamadana  he  wished  to  see  the  king  of  Benares,
+and  passing  through  the  air  to  the  royal  park  there,  he  sat  on  the  royal  stone
+.seat.  The  park-keeper  told  the  king  that  Gangamala,  now  a  paccekabuddha,
+had  come  through  the  air  and  was  sitting  in  the  park.  The  king  went  at
+once  to  salute  the  paccekabuddha :  and  the  queen-mother  went  out  with
+her  son.  The  king  entered  the  park,  saluted  him  and  sat  on  one  side  with
+his  retinue.  The  paccekabuddha  spoke  to  him  in  a  friendly  manner,
+"  Brahmadatta"  (calling  him  by  the  name  of  the  family),  '•  are  you  diligent,
+mling  the  kingdom  righteously,  doing  charitable  and  other  good  works  ? "
+The   quoen-mother   was   angry.      "This   low-caste   shampooing   son  of  a
+
+'  See  supra,  p.  247.
+
+
+No.   421.  271
+
+barber  does  not  know  his  place  :  he  calls  my  kingly  high-descended  son
+Brahmadatta,"  and  she  spoke  the  seventh  stanza  : —
+
+Penance  forsooth  makes  men  forsake  their  sins,
+Their  barber's,  potter's,  stations  every  one  :
+
+Through  penance  Gangamala  glory  wins,
+And  '  Brahmadatta '  now  he  calls  my  son.
+
+[453]  The  king  checked  his  mother  and  declaring  the  qualities  of  the
+paccekabuddha,  he  spoke  the  eighth  stanza  : —
+
+Lo  !    how,  e'er  his  de^ith  befall,
+
+Meekness  brings  a  man  its  fruit  !
+One  who  bowi-d  before  us  all.
+
+Kings  and  lords  must  now  s<ilute.
+
+Though  the  king  checked  his  mother,  the  rest  of  the  multitude  rose  up
+and  said,  **  It  is  not  decent  that  such  a  low-caste  person  should  speak  to
+you  by  name  in  that  way."  The  king  rebuked  the  multitude,  and  .si)oke
+the  last  stanza  to  declare  the  virtues  of  the  paccekabuddha : —
+
+Scorn  not  CJangamala  .so.
+
+Perfect  in  religion's  ways  :
+He  has  cro.s.setl  the  waves  of  woe,
+
+Free  from  sorrow  now  he  strays.
+
+So  saying  the  king  saluted  the  paccekabuddha  and  asked  him  to  forgive
+the  queen-mother.  The  paccekabuddha  di<l  so  and  the  king's  retinue  also
+gained  his  forgiveness.  The  king  wisheil  liim  to  promise  that  he  would
+stay  in  the  neigh lx)urhood  :  but  he  refused,  and  standing  in  the  air  before
+the  eyes  of  the  whole  court  he  admonished  the  king  and  went  away  to
+Gandhamadana.
+
+
+[454]  After  the  lesson  the  Master  said,  "  I.iAy-brethrcn,  you  see  how  keeping
+the  fa-st  is  projK>r  to  l)o  done,"  and  he  identified  the  Birth:  "At  that  time  the
+paccekjibuddha  entered  into  nirvana,  king  llalf-ixjimy  wan  Ananda,  the  chief
+queen  was  the  mother  of  Hfihula,  king  IMaya  wjus  my.self"
+
+
+No.  422.
+
+CETIYA-JATAKA.
+
+"Tnjured  Right  can  injure  sorely"  etc. — The  Master  told  this  tale  while
+dwelling  at  Jetiivana,  concerning  Devadatta's  being  swallowed  up  by  the  earth.
+On  tliat  (lay  tliey  were  discu.ssing  in  tlic  Hall  of  Truth  how  Devadatta  had  spoken
+
+
+•272  The  Jataka.     Book   VIII.
+
+
+fulst^ly,  liHii  sunk  into  tlu*  ^Toinul  and  l>ec<>ini»  ilf«tinwl  to  the  licll  Avki.  The
+MuHter  ciiino  find,  ho<irin}{  tho  Muhject  of  their  Lilk,  •uiid,  "This  is  not  the  fin^t
+time  ho  wiiik  into  tho  earth,"  nnd  ho  he  told  tho  talo  of  old.
+
+
+Once  npon  a  tiint:,  in  tho  first  age,  there  waH  a  king  nanu'd  Mah&-
+samnuita,  whose  life  was  an  awinkheyya'  long.  His  Hon  waH  Koja,  Iuh  8on
+Vnmroja,  and  then  the  HUCceKsion  wan  Kulyrma,  Varakalyana,  U|>OHiitha,
+Miuulhfita,  Varaniandhuta,  Cara,  Ujiacara,  who  wan  also  called  Apacara.
+He  reigned  over  the  kingdom  of  Ceti,  in  the  city  of  Sotthivati  ;  he  waa
+endowed  with  four  supernatural  faculties — he  could  walk  aloft  and  i«ihs
+through  the  air,  he  luid  four  angels  in  each  of  the  four  quarters  to  defend
+him  with  dniwn  swords,  he  diffused  the  fnigrance  of  sandalwoixl  from  his
+l»o<ly,  he  diffuwd  the  fragrance  of  the  lotus  from  his  mouth.  His  family
+priest  was  named  Kapila.  This  hnihmin's  younger  brother,  Korakalamlta,
+had  l)een  taiight  along  with  the  king  l>y  the  saime  teauher  and  was  the
+king's  playmate.  Whrii  Apacara  was  prince,  [4r).'»]  he  promisiMl  to  make
+Korakalumha  his  family  priest  when  ho  liecame  king.  At  his  father's
+death  he  Itecame  king,  hut  he  couhl  iu)t  depoH«>  Kapila  fmm  the  p*)sition
+of  family  priest :  and  when  Kapila  came  to  wait  on  him,  he  shewe«l  him
+siM'cial  forms  of  honour.  The  hrahmin  ohj-erviHl  this  and  considennl  that
+a  king  numages  best  with  ministers  of  his  own  age,  and  that  he  himself
+miyht  get  h'Rve  from  the  king  to  liecome  an  ascetic,  so  he  said,  "  C)  king,
+I  iun  f'rtting  ohl  ;  I  have  a  son  at  home  :  nuike  him  family  priest  and  I
+will  heconif  an  ascetic."  He  got  the  king's  leave  and  had  his  son  appointe<l
+fiiniilv  priest  :  then  he  wei\t  to  the  king's  park,  l)ecame  an  ascetic,  i-eached
+traiisofuileiit  knowledge  and  lived  there,  near  his  son.  Korakalumldikii
+ftlt  11  grudge  jigainst  his  bmther  because  he  had  not  got  him  his  post
+when  he  became  an  ascetic.  One  day  the  king  said  to  him  in  friendly
+convei-sjition,  "  Konikalambaka,  you  are  not  family  prie.st?"  "No,  O  king:
+my  brother  has  managetl  it."  "  Has  not  your  brother  beoime  an  ascetic?"
+"He  has,  but  he  got  the  jxist  for  his  .son."  "Then  do  you  manage  it"
+"O  kin",  it  is  impo.ssible  for  me  to  set  aside  my  brother  and  take  a  |)ost
+which  has  come  by  descent."  "  H  so,  I  will  make  you  senior  and  the
+other  your  junior."  "How,  O  king?"  "By  a  lie'."  "O  king,  do  you
+not  know  that  my  brother  is  a  magician,  endowed  with  great  supernatural
+power?  He  will  deceive  you  with  magical  illu.sions  :  he  will  make  your
+four  angels  disai)peiir.  and  make  as  it  were  an  evil  odour  come  from  your
+body  and  mouth,  he  will  make  you  come  down  from  the  sky  and  st^ind  on
+the  ground  :  you  will  be  as  if  swallowed  up  by  the  earth,  and  you  will  not
+be  able  to  abide  by  your  story."     "  Do  not  trouble  ;    I   w  ill   manage  it."
+
+1  In  years,  1  followed  by  140  ciphers.
+-  A  lie  WAS  a  new  thing  in  the  first  age.
+
+
+No.  422.  273
+
+"When  will  you  do  it,  O  king?"     [456]  "  On  the  seventh  day  from  this."
+
+The  story  went  round  the  city,  "  The  king  is  going  by  a  lie  to  make  the
+
+senior  the  junior,  and   will  give  the  post  to  the  junior:   what  kind  of  a
+
+thing  is  a  lie?  is  it  blue  or  yellow  or  some  other  colour?"     The  multitude
+
+thought  greatly  about  it.     It  was  a  time,  they  say,  when  the  world  told
+
+the  truth  :    men  did  not  know  what  the  word   '  lie '  might   mean.     The
+
+priest's  son  heard  the  tale    and  told    his   father,  "Father,  they  say  the
+
+king  is  going  by  a  lie  to  make  you  junior  and  to  give  our  post  to  my
+
+uncle."     "  My  dear,  the  king  will  not  be  able  even  by  a  lie  to  take  our
+
+post  from  us :  on  what  day  is  he  going  to  do  it? "     "  On  the  seventh  day
+
+from  this,   they  say."     "Let  me  know  when  the  time  comes."     On  the
+
+seventh  day  a  great  multitude  gathered  in  the  king's  courtyard  sitting  in
+
+rows  above  rows,  hoping  to  see  a  lie.     The  young  priest  went  and  told  his
+
+father.     The  king  was  ready  in  full  dress,  he  appeared  and  stood  in  the
+
+air  in  the  courtyard  amid  the  multituile      The  ascetic  came  through  the
+
+air,   spread  his    skin-seat   before  the  king,    sat   on   his  throne   in   the  air
+
+and  said,  "  Is  it  true,  O  king,  that  you  wish  by  a  lie  to  make  the  junior
+
+Bc-nior  and  to  give  him  the  i>ost?"     "  Master,  I  have  done  so."     Then  he
+
+admonished  the  king,   "O  great  king,  a  lie  is   a  grievous  destruction  of
+
+good  qualities,  it  causes  rebirth  in  the  four  evil  states ;  a  king  who  makes
+
+a  lie  destroys  right,  and  by  destroying  right  ho  is  himself  destroyed  : "  and
+
+he  spoke  the  first  stanza  : —
+
+Injured  Ri^'ht  can  injtire  s^^rely,  and  requite  with  injury  ;
+
+Therefore  Uiylit  should  ne'er  be  iiijure«l,  lest  the  harm  recoil  on  thee
+
+[457]  Admonishing  him  farther  he  said,  "Great  king,  if  you  make  a
+
+lie,  your  four  supernatural  jtowerH  will  di.sappear,"  and  he  spoke  the  second
+
+stanza  : —
+
+The  powers  divine  forsake  and  leave  the  man  who  tells  a  lie,
+111  smells  his  mouth,  he  cannot  keep  his  fw)thold  in  the  sky:
+\\Tioe'er  to  questioning  replies  with  fuLseho^xi  wilfully.
+
+Hearing  this,  the  king  in  fear  looketl  to  Korakalambaka.     He  said,
+
+"Be  not  afniid,  O  king;  did  I  not  tell  you  so  from  the  first  1"  and  so
+
+forth.     The  king,  thougli  he  heard  Kiipihi'a  words,  still  put  forward  his
+
+statement,  "  Sir,  you  are  the  younger,  Komkalainbaka  is  the  elder."     At
+
+the  moment  when  he  uttered  this   lie,  the   four  angels  said   they   would
+
+guard  such  a  liar  no  longer,  threw  their  swords  at  his  feet  and  disappeared ;
+
+his  mouth  was  fetid  like  a  broken  rotten  egg  and  his  Ixxly  like  an  open
+
+drain  ;  and  falling  from  the  air  he  lighted  on  the  earth  :   so  all  his  four
+
+8Ui>ematural  powers  disiipi)eared.      His  chief  priest  said,  "  Great  king,  Ije
+
+not  afraid  :  if  you  will  B\)eak  the  truth,  1  will  restore  you  everything,"  and
+
+so  he  spoke  the  third  stanza  : —
+
+A  word  of  tnith,  and  all  thy  gifts,  O  king,  thou  shalt  regain:
+A  lie  will  fix  thee  in  the  soil  of  Ceti  to  remain.
+
+J.   III.  ^8
+
+
+274  The  Jataka.     Booh  VIII.
+
+[458]  He  said,  '*  Look,  O  great  king  :  those  four  supernatural  powers
+of  yours  disappeared  first  hy  your  lie  :  consider,  for  it  is  possible  now  to
+restore  them."  But  the  king  answered,  "  You  wish  to  deceive  me  in  this,"
+and  so  telling  a  second  lie  he  sank  in  the  earth  up  to  the  ankles.  Then
+the  brahmin  said  once  more,  "Consider,  O  great  king,"  and  spoke  the
+fourth  stanza  :—
+
+Drought  comes  on  him  in  time  of  rain,  rain  when  it  should  be  dry,
+Whoe'er  to  questioning  replies  with  falsehood  wilfully.
+
+Then  once  again  he  said,  "  Owing  to  your  lying  you  are  sunk  in  the
+earth  up  to  the  ankles :  consider,  O  great  king,"  and  spoke  the  fifth
+stanza  : —
+
+One  word  of  truth,  and  all  thy  gifts,  O  king,  thou  shalt  regain :
+A  lie  will  sink  thee  in  the  soil  of  Ceti  to  remain.
+
+But  for  the  third  time  the  king  said,  "You  are  junior  and  Koi'akalambaka
+is  elder,"  and  at  this  lie  he  sank  in  the  ground  up  to  the  knees.  Once  more
+the  brahmin  said,  "  Consider,  O  great  king,"  and  spoke  two  stanzas : —
+
+O  king,  the  man  is  forked  of  tongue,  and  like  n  scr])ent  sly.
+Whoe'er  to  questioning  replies  with  falsehocxi  wilfully.
+
+One  word  of  trutli,  and  all  thy  gifts,  O  king,  thou  shalt  regain:
+A  lie  will  sink  thee  deeper  still  in  Ceti  to  remain :
+
+adding,  "  Even  now  all  may  be  restored."  The  king,  not  heeding  his  word.s,
+repeated  the  lie  for  the  fourth  time,  "  You  are  junior,  Sir,  and  Koraka-
+lambaka  is  elder,"  [459]  and  at  these  words  he  sank  up  to  the  hij)s.
+Again  the  brahmin  said,  "  Consider,  O  great  king,"  and  spoke  two
+stanzas  : —
+
+O  king,  that  man  is  like  a  fish,  and  tongneless  he  shall  be,
+Whoe'er  to  questioning  replies  witli  falsehotxi  wilfully.
+
+One  word  of  truth,  and  all  thy  gifts,  0  king,  thou  shalt  regain :
+A  lie  will  sink  thee  deeixsr  still  in  Ceti  to  remain.
+
+For  the  fifth  time  the  king  repeated  the  lie,  and  as  he  did  so  he  sank
+up  to  the  navel.  The  brahmin  once  more  appealed  to  him  to  consider,  and
+spoke  two  stanzas  : —
+
+Girls  only  shall  be  born  of  him,  no  man-son  shall  he  see,
+Whoe'er  to  questioning  replies  with  falsehood  wilfully.
+
+One  word  of  truth,  and  all  thy  gifts,  O  king,  thou  .shalt  regain :
+A  lie  will  sink  thee  deeper  still  in  Ceti  to  remain.
+
+The  king  paid  no  heed,  and  repeating  the  lie  for  the  sixth  time  sank  up
+to  the  breast.  The  brahmin  made  his  appeal  once  more  and  spoke  two
+stanzas  : —
+
+His  children  will  not  stay  with  him,  on  every  side  they  flee.
+Whoe'er  to  questioning  replies  with  falsehood  wilfully.
+
+
+No.  422.  275
+
+One  word  of  tnith,  and  all  thy  gifts,  O  king,  thou  shalt  regain  :
+A  he  will  sink  thee  deeper  still  in  Ceti  to  remain.
+
+Owing  to  association  with  a  wicked  friend,  he  disregarded  the  words
+and  repeated  the  same  lie  for  the  seventh  time.  Then  the  earth  opened
+and  the  flames  of  Avici  leapt  up  and  seized  him.
+
+
+[460]  Cursed  by  a  sage,  the  king  who  once  could  walk  the  air,  they  say.
+Was  lost  and  swallowed  by  the  earth  on  his  appointed  day.
+
+Wherefore  the  wise  do  not  approve  at  all
+"\Mien  that  desire  into  the  heart  doth  fall:
+He  that  is  free  from  guile,  whose  heart  is  pure,
+All  that  he  says  is  ever  firm  and  sure.
+
+These  are  two  stanzas  inspired  by  Perfect  Wisdom.
+
+
+The  multitude  said  in  fear,  "  The  king  of  Ceti  reviled  the  sage,  and
+told  a  lie;  so  he  has  entered  Avici."  The  king's  five  sons  came  to  the
+brahmin  and  said,  "  Be  thou  our  helper."  The  brahmin  answered,  "  Your
+father  destroyed  Right,  he  lied  and  reviled  a  sage  :  therefore  he  has  entered
+Avici.  If  Eight  is  destroyed,  it  destroys.  You  must  not  dwell  here."  To
+the  eldest  he  said,  "  Come,  dear  :  leave  the  city  by  the  eastern  gate  and  go
+straight  on  :  you  will  see  a  white  royal  elephant  prostrate,  touching  the
+earth  in  seven  places' :  that  will  be  a  sign  for  you  to  lay  out  a  city  there
+and  dwell  in  it :  and  the  name  of  it  will  be  Hatthipura."  To  the  second
+prince  he  said,  "  You  leave  by  the  south  gate  and  go  straight  on  till  you
+see  a  royal  horse  pure  white  :  that  will  be  a  sign  that  you  are  to  lay  out
+a  city  there  and  dwell  in  it :  and  it  shall  be  called  Assapura."  To  the  third
+prince  he  said,  "  You  leave  by  the  west  gate  and  go  straight  on  till  you  see
+a  maned  lion  ;  that  will  be  a  sign  that  you  are  to  lay  out  a  city  there  and
+dwell  in  it :  and  it  shall  be  called  Sihapura."  To  the  fourth  prince  he  said,
+"You  leave  by  the  north  gate  and  go  straight  on  till  you  see  a  wheel-frame*
+all  made  of  jewels :  that  will  be  a  sign  [461]  that  you  are  to  lay  out  a  city
+there  and  dwell  in  it:  and  it  shall  be  called  Uttarapaiicala."  To  the  fifth
+he  said,  "  You  cannot  dwell  here :  build  a  great  shrine  in  this  city,  go  out
+towards  the  north-west,  and  go  straight  on  till  you  see  two  mountains
+striking  against  each  other  and  making  the  sound  of  daddara :  that  will
+be  a  sign  that  you  are  to  lay  out  a  city  there  and  dwell  in  it :  and  it  shall
+be  called  Daddarapura."  All  the  five  princes  went,  and  following  the
+signs  laid  out  cities  there  and  dwelt  in  them.
+
+
+*  With  tusks,  trunk,  and  four  legs.
+
+-  Another  reading  is  pancacakkam,  '  five  wheels.'
+
+18—2
+
+
+276  The  Jdtaka.     Booh   VIII.
+
+
+After  the  lesson,  the  Master  said,  "So,  Brethren,  this  is  not  the  first  time
+that  Devadatta  has  told  a  lie  and  sunk  in  the  earth,"  and  then  ho  idcntififd  the
+Birth:  "At  that  time  the  king  of  Ceti  wius  Uevailatta,  and  the  brahmin  Kupila
+was  my.self."
+
+
+No.  423.
+
+
+INDRIYA-JATAKA.
+
+"  ^V}^o  through  desire"  etc.  The  Master  told  this  talo  while  dwelling  in
+Jctavaiia,  concerning  tomptjition  by  the  wife  of  one's  fonner  days.  The  story  is
+that  a  young  man  of  g(j<Kl  family  at  Savattlii  lieani  the  MiustcPs  pre-uhing,  and
+thinking  it  im^M)ssiblc  to  lead  a  holy  life,  jHirfectly  complete  and  jnire,  jus  a
+householder,  he  tletermincd  tt)  become  an  ascetic  under  the  solving  doctrine  and
+HO  make  an  end  of  misery.  So  he  gave  uj>  his  house  and  projK>rty  to  his  wife
+and  children,  and  asked  the  Master  to  ordain  hitn.  The  MasU-r  tlid  so.  As  ho
+was  tlie  junior  in  his  going  altout  for  alms  with  his  teachers  and  instructorM,  and
+jvs  the  Brethren  were  many,  ho  got  no  chair  either  in  laynien's  hou.scM  or  in  the
+refectory,  but  only  a  stool  or  a  Ik-'UcIi  at  the  end  of  the  novices,  his  food  was
+tossed  liim  Iwustily  on  a  la<lle,  he  got  gruel  n>ade  of  bri>ken  lumps  of  rice,
+solid  food  stale  or  decaying,  or  sprouts  dried  and  burnt  ;  and  this  was  not
+enough  to  keep  him  alive.  [402]  He  took  what  he  had  got  to  the  wife  he  had
+left :  she  t(M)k  his  bowl,  .siduted  him,  emptie«l  it  and  gave  him  in.stead  well-
+C(V)ked  gruel  and  rice  witli  .sjuice  and  curry.  The  Brother  wjus  captivated  bv  the
+love  of  such  flavours  and  could  not  leave  his  wife.  She  thought  she  would  test
+iiis  atl'ection.  One  day  .she  had  a  countryman  clwin.se<l  with  white  clay  and  set
+down  in  her  hoiuse  with  some  others  of  his  j>eo|)le  whom  she  had  sent  for,
+and  she  gave  them  something  to  cat  and  drink.  Tiiey  .siit  eating  and  enjoying
+it.  At  the  hou.se-do<»r  she  had  some  bullocks  tM)uiid  to  wheels  and  a  cart  set
+ready.  She  hei-self  .siit  in  a  back  room  cooking  cakes.  Her  hitsband  came  and
+stood  at  the  door.  Seeing  him,  one  old  .servant  told  his  jiii.stre.ss  that  there
+was  an  elder  at  tlie  door.  "Salute  him  and  bid  him  pa-s-s  on."  But  though
+he  did  so  repeatedly,  he  saw  the  prie.st  remaining  there  and  told  his  mi-strcss.
+She  came,  and  lifting  uji  the  curtiiin  to  see,  she  crie^l,  "  This  is  the  father  of  my
+sons."  She  came  out  and  saluted  him :  taking  his  lx)wl  and  making  him  enter
+she  gave  him  fotxl  :  when  he  had  eaten  she  .saluted  again  and  .said,  "Sir,  you  are
+a  siiint  now:  we  have  boon  staying  in  this  hou.se  all  this  time  ;  but  there  can  be
+no  proper  hou.seholder's  life  without  a  master,  .so  we  will  take  another  house
+and  go  far  into  the  country :  be  zealous  in  your  good  works,  and  forgive  me  if  I
+am  doing  wrong."  For  a  time  her  husbitnd  was  as  if  his  heart  woidd  break.
+Then  he  said,  "I  cannot  leave  you:  do  not  go,  I  will  come  back  to  my  worldly
+life :  send  a  layman's  garment  to  such  and  such  a  place,  I  will  give  up  my  1h)w1
+and  robes  and  come  back  to  you."  She  agreed.  The  Brother  went  to  his
+monastery,  and  giving  up  his  bowl  and  rol>es  to  his  teachers  and  instructors  he
+explained,  in  answer  to  their  questions,  that  he  could  not  leave  his  wife  and
+was  going  back  to  worldly  life.  Against  his  will  they  took  him  to  the  Ma.stcr
+and  told  him  that  he  was  backsliding  and  wished  to  go  back  to  worldly  life.
+The  Master  said,  "  Is  this  tale  true  ? "  "  It  is.  Lord."  "  Who  cau.ses  you  to
+backslide  ? "  "  ^ly  wife."  "  Brother,  that  woman  is  the  cause  of  evil  to  you  :
+formerly  also  through  her  you  fell  from  the  four  stages  of  mystic  meditation
+
+
+No.    423.  277
+
+and  became  \ eiy  miserable  :  then  through  me  you  were  dehvered  from  your
+misery  and  regained  the  power  of  meditation  you  had  lost,"  and  then  he  told
+the  tale  of  old.
+
+
+[463]     Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,
+the  Bodhisatta  was  born  as  the  son  of  the  king's  family  priest  and  his
+brahmin  wife.     On  the  day  of  his  birth  there  was  a  blazing  of  weapons  all
+over  the   city,   and  so  they  called   his   name  young  Jotipala.     When  he
+grew  up,  he  learned  all  the  arts  at  Takkasila  and  showed  his  skill  in  them
+to  the  king :  but  he  gave  up  his  position,  and  without  telling  anyone  he
+went  out  by  the  back  door,  and  entering  a  forest  became  an  ascetic  in  the
+Kavitthaka  hermitage,  called   Sakkadattiya.     He  attained   perfection   in
+meditation.     As  he  dwelt  there  many  hundreds  of  sages  waited  on  him.
+He  was  attended  by  a  great  company  and  had  seven  chief  disciples.     Of
+them  the  sage  Salissara  left  the   Kavitthaka  hermitage  for  the  Surattha
+country,  and  dwelt  on  the  banks  of  the  river  Satodika  with  many  thousand
+sages  in  his  company  :  Mendissara  with  many  thou.sand  sages  dwelt  near
+the  town  of  Lambacujaka  in  the  country  of  king  Pajaka  -.  Pabbata  with
+many  thousand  .sages  dwelt  in  a  certain  forest-country  :   Kaladevala  with
+many  thousand  sages  dwelt  in  a  cei-tain  wooded  mountain  in  Avanti  and
+the  Deccan :    Ki.savaccha  dwelt  aloue  near  the  city  of  Kumbhavati    in
+the  park  of   king  Dandaki  :    the   ascetic   Anusissa  wius  attendant  on   the
+Bodhisatta  and  stayed  with  him  :  Narada,  the  younger  brother  of  Kalade-
+vala, dwelt  alone  in  a  cave-cell  amid  the  mountainous  country  of  Aranjara
+in  the  Central  Region.     Now  not  far  from  Aranjara  there  is  a  certain  very
+populous  town.      In  the  town  there  is  a  great  river,  in  which  many  men
+bathe:    and  along  its  banks  sit  many  beautiful  courtesans  tempting  the
+men.     The  ascetic  Narada  saw  one  of  them  and  being  enamoured  of  her,
+forsook  his  meditations  and  [464]  pining  away  without  food   lay  in  the
+bonds  of  love  for  seven  days.      His  brother  Kajadevala  by  reflection  knew
+the  cau.se  of  this,  and  came  Hying  through  the  air  into  the  cave.     Narada
+saw  him  and  asked  why  he  had  come.      "I  knew  you  were  ill  and  have
+come  to  tend  you."    Narada  repelled  him  with  a  falsehood,  "You  are  talking
+nonsense,  falsehood,  and  vanity."     The   other   refused   to   leave   him   and
+brought  Salissara,  Mendissara,  and  Pabbatissam.     He  repelled  them  all  in
+the  same  way.     Kaladevala  went  flying  to  fetch  their  master  Sarabhanga
+and  did  fetch  him.    When  the  Master  came,  he  saw  that  Narada  had  fiillen
+into  the  power  of  the  senses,  and  asked  if  it  were  so.      Narada  rose  at  the
+words  and  saluted,  and  confessed.     The  Master  said,  "  Narada,  those  who
+fall  into  the  power  of  the  senses  wa.ste  away  in  misery  in  this  life,  and  in
+their  next  existence  are  born  in  hell :"  and  so  he  spoke  the  first  stanza : —
+
+"Who  through  desire  obeys  the  senses'  sway,
+Loses  both  worlds  and  pines  his  life  away.
+
+
+278  The  Jdtaka.     Book    Vlll.
+
+Hearing  him,  Naitula  answered,  "  Toacher,  the  following  of  desires  is
+happiness:  why  do  you  call  such  happiness  misery?"  Sai*abhaitga  said,
+"  Listen,  then,"  and  spoke  the  second  stanai : —
+
+Happiness  and  misery  ever  on  each  other's  fmitsteiw  press  :
+Thou  hast  seen  their  alternation :   seek  a  truer  happiness.
+
+[405]  Narada  said,  "Teacher,  such  misery  is  hard  to  bear,  I  cannot
+(endure  it."  The  Great  Being  said,  "  Narada,  the  misery  that  comes  has  to
+bo  endured,"  and  spoke  the  third  stanza : —
+
+Ho  who  endures  in  troublous  time  with  troubles  to  contend
+Is  strong  to  i-each  that  fuial  bliss  whei-o  all  our  troubles  end.
+
+But  Narada  answered,  "Teacher,  the  happiness  of  love's  desire  is  the
+greatest  happiness:  I  cannot  abandon  it."  The  Great  Being  said,  "Virtue
+is  not  to  be  abandoned  for  any  cause,"  and  spoke  the  fourth  stanza : —
+
+[400]  For  love  of  lusts,  for  hopes  of  gain,  for  miseries,  great  and  small.
+Do  not  undo  your  siiintly  iwist,  and  so  from  virtue  fall.
+
+Sarabhivn<,'a  having  thus  sliown  forth  the  law  in  four  stanzas,  Kiiladevala
+in  admonition  of  his  younger  brother  sjKike  the  titlh  stanza: —
+
+Know'  the  worldly  life  is  trouble,  victual  should  be  freely  lent.
+No  delight  in  gathering  riches,  no  distress  when  they  are  si)ont.
+
+
+The
+ing  I)cv
+
+
+sixth  stanza  is  one  spoken  by  the  Master  in  his  Perfect  Wiscbnn  concem-
+alii's  admonition  of  Narada  :
+
+So  far  lilack-  Devala  most  wi.soly  si)oke  :
+
+"  None  woi"Me  than  ho  who  bows  to  senses'  yoke."
+
+
+[467]  Then  Sarabhanga  spoke  in  warning,  "  Narada,  listen  to  this :
+he  who  will  not  do  at  first  what  is  proper  to  be  done,  must  weep  and
+lament  like  the  young  man  who  went  to  the  forest,"  and  so  he  told  an
+old  tale.
+
+
+Once  upon  a  time  in  a  certain  town  of  Kasi  there  was  a  certain  young
+brahmin,  bwxutiful,  strong,  stout  as  an  elephant.  His  thoughts  were,  "Why
+should  I  keep  my  parents  by  working  on  a  farm,  or  have  a  wife  and  children,  or
+do  good  work.s  of  charity  and  so  forth  i  I  won't  keep  anylxxly  nor  do  any  go<Hl
+work ;  but  I  will  go  into  the  forest  and  keep  myself  by  killing  deer."     So  with
+
+^  The  Scholiast  takes  gadha  with  all  the  clauses :  the  meaning  tlien  would  be
+
+Good  are  the  cares  of  hoasehold  life,  'tis  good  to  give  away,
+Not  to  be  prond  when  riches  grow,  nor  grieved  when  they  decay.
+
+^  Both  kCdo  and  asito  mean  hlack :  this  person  is  the  Asita,  the  Simeon  of  the
+Buddhist  nativity;  cf.  vol.  i.  54.
+
+
+No.   423.  279
+
+
+the  hve  kinds  of  we^ipons  he  went  to  the  Himalaya  and  killed  and  ate  many
+deer  In  the  Himalaya  region  he  fovmd  a  great  defile,  snrrounded  by  mountain,
+on  the  banks  of  the  river  Vidhava,  and  there  he  lived  on  the  flesh  of  the  si  in
+deer  cooked  on  hot  coals.  He  thought,  "  I  shall  not  always  be  strong  ;  when  I
+S  we^Oc  I  .shall  not  be  able  to  range  the  forest :  now  I  will  drive  many  kinds
+S  wiin'mals  into  this  defile,  closest  up  by  a  gate,  and  then  without  roaming
+the  forest  I  .shall  kill  and  eat  them  at  my  pleasure  : '  and  so  he  did.  As  tii  e
+passed  over  him,  that  very  thing  came  to  pass,  and  the  experience  of  all  the
+wOTld  lifeTl  him:  he  lo.st  control  over  his  hands  and  ^et  he  ^^^  "ot^^ove
+freely  he  e  and  there,  he  could  not  find  his  food  or  drink,  his  body  ^vJthered,  he
+Wme  the  ghost  of  a  man,  he  showed  wrinkles  furrowing  his  l>ody  like  the
+cartThi  a  hot  season  ;  ill-favoured  and  ill-knit,  he  became  verv  nnserable  In
+"ke  manner  a.s  time  passed,  the  king  of  Si^n,  named  fivi,  had  a  desn^  o  eat
+flesh  roasted  on  coals  in  the  forest  :  .so  he  gave  over  his  kingdom  to  his  nimiBters
+and  wTth  the  five  kinds  of  we<apons  he  went  to  the  fores  and  ate  the  fle«h  of  the
+d^r  he  slew  :  in  time  he  came  to  that  spot  and  saw  that  man.  Although  afraid,
+hrsummoned  courage  to  a.sk  who  he  was.  ''Lord,  I  am  tbe  g^os  of  a  nu^.,
+reapin.-  the  fruit  of  the  deeds  I  have  done  :  who  are  you  I  "The  k  ng  ot  bivi
+''^^h^^have  you  come  hither?"  [468]  "To  eat  the  flesh  of  deer."  He  .s.ud
+"Great  king,  I  have  become  the  g\iost  of  a  man  becau.se  I  came  here  with  that
+object,"  and  telling  the  whole  story  at  length  and  explaining  his  misfortmie  to
+the  king,  he  spoke  the  remaining  stanzas  :—
+
+King    'tis  with  me  as  if  I'd  been  with  foes  in  bitter  strife,
+
+Labour,  and  skill  in  handicraft,  a  peaceful  home,  a  w'lfe.
+
+All  have  been  lost  to  me  :   my  works  bear  fruit  in  this  my  lite.
+
+Worsted  a  thousandfold  I  am,  kinless  and  reft  of  8t<ay,
+
+Strayed  from  the  law  of  righteousness,  like  ghost  I  m  fallen  away.
+
+This  state  is  mine  because  I  caused,  instead  of  joy,  distress  :
+Girt  as  it  were  with  flaming  fire,  1  have  no  happines.s.
+
+[4691  With  that  he  added,  "O  king,  through  desire  of  happiness  I  caased
+miirv  to  others  and  have  even  in  this  life  become  the  ghost  of  a  man  :  do  not
+tToTcommit  evil  deeds,  go  to  thine  own  city  and  do  g.>od  deeds  of  chanty  and
+the  like."     The  king  did  so  and  c«5mpletcd  the  i)ath  to  heaven.
+
+The  ascetic  was  roused  by  the  teacher  Sai-ablmnga's  account  of  this
+case.  He  became  agitated,  and  after  saluting  and  gaining  his  teacher's
+pardon,  by  the  proper  processes  he  regained  the  power  of  meditation  he
+had  lost.  Sarabhanga  refu.sed  him  leave  to  stay  there,  and  took  lam  back
+with  him  to  his  own  hermitage.
+
+
+After  the  lesson,  the  Ma.ster  declared  the  Truths  and  i'lentificd  the  Birth  :-
+After  the  Truths  the  backsliding  Brother  wa.s  esUa.l.shed  in  he  fnu  on  of  the
+First  Path— "At  that  time  Narada  was  the  backsliding  Brother  balis.^ara  was
+siSnfttrMenSisslra  was  Kas.sapa,  Pabbata  wa.s  Anuniddha,  Kajadevala  was
+Kaccana,  Anusissa  was  Ananda,  Kisavivccha  was  MoggaUana,  and  Sarabhanga
+was  myself."
+
+
+280  The  Jtltakn.      Book    VI 11.
+
+
+No.   424.
+
+ADirrA-JATAKA.
+
+"  Whiit*^er  a  man  can  save"  etc. — The  Mft^tor  t<»ld  thin  IaIo  while  dwelling  in
+JftuvHiui,  conceniiiig  an  iiiconiiMiraMo  gift.  The  itu-<iin|>nm)>lc  gift  nui«t  I*
+•lesiTiUnl  ill  full  fnnii  tlio  comiuciitiirv  on  the  MikhAi^ovnuhLsuttii.  On  llu-  day
+iiftor  that  on  which  it  ha«l  Uh'ii  given,  tlioy  wore  tjilkin^' of  it  in  the  Hall  of  Truth,
+"Sirs,  the  Konala  king  [ITOl  after  exannnation  foimd  the  |»ro|>or  field  of  niorit,
+and  gave  the  great  gift  to  tlie  ;w.seinhly  with  Hiuldha  at  it.s  hcsiul."  The  Master
+came  and  wius  told  what  the  snhjevt  of  their  talk  Wii.s  as  they  .sjit  ti>gothor  :  ho
+HAid,  "  brethren,  it  is  not  stninge  that  the  king  afler  examination  Iuim  undor-
+tAkon  grtvit  gifts  to  the  supreme  held  of  merit:  wiw  men  of  old  aluo  after
+examination  gave  Much  giftM,    luid  ho  ho  told  a  tale  of  old.
+
+
+Once  u|H)n  u  time  a  king  naimed  llhurata  reigned  nt  Huniva  in  the
+kingdom  of  Sovira.  He  practiHed  the  ten  royul  virtues,  won  the  |H<ople
+hy  the  four  elementw  <)f  popularity,  «tootl  to  the  multitude  like  father  and
+mother  und  gave  great  gifts  to  the  poor,  the  wuyfai-era,  the  U'ggant,  the
+Buitora  and  the  like.  His  chief  (iu(m)u  Samuddavijayu  was  wine  and  full  of
+knowledge.  One  day  he  looked  round  his  alniM-hall  and  thought,  *•  My
+alms  are  devoured  hy  worthless  greedy  |>copIe :  I  don't  like  this :  I
+should  like  to  give  alms  to  the  virtuou.s  paccekahuddhos  who  deserve  the
+hest  of  gifts  :  they  live  in  the  Himalaya  region  :  who  will  bring  them  here
+on  my  invitation  and  whom  .shall  I  send  on  this  errand?"  He  spoke  to
+the  «jueon,  who  sjiid,  '*  O  king,  l»o  not  concerned:  sending  Howere  by
+the  force  of  our  giving  suitable  things,  and  of  our  virtue  and  tnithfulness,
+wo  will  invito  the  paccokabuddhas,  and  when  they  come  we  will  give  them
+gifts  with  all  things  requisite."  The  king  agit>ed.  He  mad».'  proclamation
+by  drun»  that  all  the  townsjM>ople  should  undertake  to  keep  the  precepta ;
+ho  himself  with  his  hou.sehold  undertook  all  the  duties  for  the  holy  days
+and  gave  gieat  gifts  in  charity.  He  had  a  gold  >k)X  brought,  full  of
+jasmine  tlowers,  came  down  from  his  palace  and  stood  in  the  royal  court-
+yard. There  prostrating  himself  on  the  ground  with  the  five  contacts,  he
+saluted  towards  the  eastern  quarter  and  threw  seven  handfuls  of  flowers,
+with  the  words,  '•  I  salute  the  saints  in  the  eastern  quarter :  if  there  is
+any  merit  in  us,  show  compassion  on  us  and  receive  our  alma"  As  there
+are  no  paccekabuddhas  in  the  oastoru  quarter,  they  did  not  come  next  day.
+On  the  second  day  he  paid  resj)ects  to  the  south  quarter :  but  none  came
+from  thence.  On  the  third  day  he  paid  respects  to  the  west  quarter  [471],
+but  none  came.  On  the  fourth  day  he  paid  respects  to  the  north  quarter,
+and  after  paying   resj)ects  he  threw  seven  handfuls  of  flowers   with  the
+
+
+No.   424.  281
+
+words,  "May  the  paccekabuddhas  who  live  iu  the  north  district  of
+Himalaya  receive  our  alms."  The  flowera  went  and  fell  on  five  hundred
+paccekabuddhas  in  the  Nandamula  cave.  On  reflection  they  understood
+that  the  king  had  invited  them  ;  so  they  called  seven  of  their  number  and
+said,  "Sirs,  the  king  invites  you  ;  shew  him  favour."  These  paccekabuddhas
+came  through  the  air  and  lighted  at  the  king's  gate.  Seeing  them  the
+king  saluted  them  with  delight,  made  them  come  up  into  the  palace,
+shewed  them  great  honour  and  gave  them  gifts.  After  the  meal  he  asked
+them  for  next  day  and  so  on  until  the  fifth  day,  feeding  them  for  six
+days :  on  the  seventh  day  he  made  ready  a  gift  with  all  the  requisites,
+arranged  beds  and  chairs  inlaid  with  goKl,  and  set  before  the  seven  pacce-
+kabuddhas sets  of  three  robes  and  all  other  things  used  by  holy  men.  The
+king  and  queen  formally  oflV-red  these  things  to  them  aftt-r  their  meal,  and
+stood  in  respectful  salutation.  To  express  their  thanks  the  Eider  of  the
+assembly  spoke  two  stanzas  : —
+
+\Vhate'er  a  man  can  save  from  flames  that  bum  his  dwelling  down,
+Not  what  is  left  to  Ix)  consumetl,  will  still  remain  his  own.
+
+The  world's  on  fire,  decay  and  death  are  there  the  flamo  t<j  feed  ;
+Save  what  you  can  by  charity,  a  gift  is  saved  indeed.
+
+[472]  Thus  expressing  thanks  the  Elder  admonished  the  king  to  be
+diligent  in  virtue :  then  he  flew  up  in  the  air,  straight  through  the  peaked
+roof  of  the  palace  and  lighted  in  the  Nandamula  cave  :  along  with  him  all
+the  requisites  that  had  liet-n  given  him  flew  up  and  lighted  in  the  cave  :
+and  the  bodies  of  the  king  and  queen  became  full  of  joy.  After  his
+departure,  the  other  six  also  expresstnl  thanks  in  a  stanza  each  : —
+
+He  who  gives  to  rightcfius  men.
+
+Strong  in  holy  energy,
+Cras.scs  Vama'.s  tl(j<Kl,  and  then
+
+Gains  a  dwelling  in  the  sky.
+
+Like  to  war  is  charity :
+
+HostH  may  flee  l»ef<jre  a  few :
+Give  a  little  ])iou.'4ly :
+
+Bliss  hereafter  ia  your  due.
+
+Pnidfut  civers  please  the  Lord,
+
+Worthily  they  .sj)cnd  their  toil.
+Rich  the  fruit  their  gifts  utlbrd.
+
+Like  a  seed  in  fertile  soil.
+
+They  w-ho  never  nulely  8|xjak,
+
+Wrong  t«j  living  things  abjure:
+Men  may  call  them  timid,  weak  :
+
+For  'tis  fear  that  keeps  them  i)ure.
+
+Lower  duties  win  for  man,  reborn  on  earth,  a  princely  fate.
+Middle  duties  win  them  heaven,  highest  win  the  Purest  State'.
+
+'  The  higher  heavens  in  the  Buddhist  Cosmogony.
+
+
+282  The  Jdtabi.      Book    VIII.
+
+Charity  is  blest  indeed,
+[473]     Yet  the  Law  gainH  higher  meed :
+Ages  old  and  late  attest,
+Thus  the  wise  have  reached  their  Rest.
+
+So  they  also  went  with  the  requisites  given  them.
+
+[474]  The  seventh  paccekabuddha  in  his  thanks  praised  the  eternal
+nirvana  to  the  king,  and  admonishing  him  carefully  went  to  his  abode  as
+has  been  said.  The  king  and  (jueeu  gave  gifts  all  their  lives  and  passed
+fully  through  the  [)ath  to  heaven.
+
+
+After  the  lesson,  the  Mivster  s<iid,  "So  wise  men  of  old  gave  gifts  with  dis-
+crimination," and  identitied  the  Birth:  "At  that  time  the  paccekabudiliia  re<iched
+nirvana,  Sanuuldavijaya.  was  the  mother  of  Hrihula,  and  the  king  Bliarata  was
+my.self."
+
+
+No.   425 J
+
+
+ATTHANA-JATAKA.
+
+"  J/rt/Y'  O'annes  cahn,"  etc. — The  M.ister  told  this  tale  while  dwelling  in  Jetavana,
+concerning  a  backsliding  Brother.  The  Mfustcr  asked  him,  "  Is  the  story  true.
+Brother,  that  you  are  backsliding  ?"  "  Ves,  lord."  "  What  is  the  cau.se  ?"  "The
+power  of  desire."  "  Brother,  womankind  are  imgrateful,  trcacheroius,  untru.st-
+worthy  :  of  old  wise  men  could  not  satisfy  a  woman,  even  by  giving  her  a
+thousand  pieces  a  day  :  and  one  day  when  she  did  not  get  the  thoius^ind  pieces
+she  had  them  taken  by  the  neck  and  cast  out  :  [475]  so  ungrateful  are  woman-
+kind :  do  not  fall  into  the  power  of  desire  for  such  a  cause,"  and  so  he  told  an
+old  tale.
+
+
+Once  i*)on  a  time  when  Brahmadatta  was  reigning  in  Benares,  his
+son,  young  Brahmadatta,  and  young  Afahadhana,  son  of  a  rich  merchant
+of  Benares,  were  comrades  and  playfellovvs,  and  were  educated  in  the
+same  teacher's  house.  The  prince  became  king  at  his  father's  death  :  and
+the  merchant's  son  abode  near  him.  There  was  in  Benares  a  certain
+courtesan,   beautiful   and  pi-osperous.     The    merchant's    son   gave   her   a
+
+^  Cf.  Tibetan  Tales,  no.  12  Siisroni,  and  siqyra,  no.  374.
+
+
+No.  425.  283
+
+thousand  pieces  daily,  and  took  pleasure  with  her  constantly :  at  his
+father's  death  he  succeeded  to  the  rich  merchant's  position,  and  did  not
+forsake  her,  still  giving  her  a  thousand  pieces  daily.  Three  times  a  day
+he  went  to  wait  upon  the  king.  One  day  he  went  to  wait  upon  him  in
+the  evening.  As  he  was  talking  with  the  king,  the  sun  set,  and  it  became
+dark.  As  he  left  the  palace,  he  thought,  "  There  is  no  time  to  go  home
+and  come  back  again  :  I  will  go  straight  to  the  courtesan's  house  : "  so  he
+dismissed  his  attendants,  and  entered  her  house  alone.  When  she  saw
+him,  she  asked  if  he  had  brought  the  thousand  pieces.  "  Dear,  I  was  very
+late  to-day ;  so  I  sent  away  my  attendants  without  going  home,  and  have
+come  alone  ;  but  to-morrow  I  will  give  you  two  thousand  pieces."  She
+thought,  "  If  I  admit  him  to-day,  he  will  come  empty-handed  on  other
+days,  and  so  my  wealth  will  be  lost :  I  won't  admit  him  this  time."  So
+she  said,  "  Sir,  I  am  but  a  courtesan  :  I  do  not  give  my  favours  without  a
+thousand  pieces  :  you  must  bring  the  sum."  "  Dear,  I  will  bring  twice
+the  sum  to-morrow,"  and  so  he  begged  her  [476]  again  and  again.  The
+courtesan  gave  orders  to  her  maids,  "  Don't  let  that  man  stand  there  and
+look  at  me  :  take  him  by  the  neck,  and  cast  him  out,  and  then  shut  the
+door."  They  did  so.  He  thought,  "  I  have  spent  on  her  eighty  crores  of
+money ;  yet  on  the  one  day  when  I  come  empty-handed,  she  has  me  seized
+by  the  neck  and  cast  out :  Oh,  womankind  are  wicked,  shameless,  ungrate-
+ful, treacherous:"  and  so  he  pondered  and  pondered  on  the  bad  qualities  of
+womankind,  till  he  felt  dislike  and  disgust,  and  became  discontented  with
+a  layman's  life.  "Why  should  I  lead  a  layman's  lifel  I  will  go  this  day
+and  become  an  ascetic,"  he  thought ;  so  without  going  back  to  his  house
+or  seeing  the  king  again,  he  left  the  city  and  entered  the  forest :  he  made
+a  hermitage  on  the  Ganges  bank,  and  there  made  his  abode  as  an
+ascetic,  reaching  the  Perfection  of  Meditation,  and  living  on  wild  roots
+and  fruits.
+
+The  king  missed  his  friend  and  asked  for  him.  The  courtesan's
+conduct  had  become  known  throughout  the  city  :  so  they  told  the  king
+of  the  matter,  adding,  "  O  king,  they  say  that  your  friend  through  shame
+did  not  go  home,  but  has  become  an  ascetic  in  the  forest."  The  king
+summoned  the  courtesan,  and  asked  if  the  story  were  true  about  her  treat-
+ment of  his  friend.  She  confessed.  "  Wicked,  vile  woman,  go  quickly  to
+where  my  friend  is  and  fetch  him  :  if  you  fail,  your  life  is  forfeit."  She
+was  afi'aid  at  the  king's  words  ;  she  mounted  a  chariot  and  drove  out  of
+the  city  with  a  great  retinue ;  she  sought  for  his  abode  and  hearing  of  it
+by  report,  went  there  and  saluted  and  prayed,  "Sir,  bear  with  the  evil  I
+did  in  my  blindness  and  folly  :  I  will  never  do  so  again."  "  Very  well,  I
+forgive  you;  I  am  not  angry  with  you."  "If  you  forgive  me,  mount  the
+chariot  with  me  :  we  will  drive  to  the  city,  and  as  soon  as  we  enter  it
+[477]  I  will  give  you  all  the  money  in  my  house."     When  he  heard  her,
+
+
+284  Tlie  Jataka.      Booh    VJIl.
+
+he  replied,  •'  Lady,  I  cannot  go  with  you  now  :  but  when  Homething  ilmi
+cannot  happen  in  this  world  will  happen,  then  perhaps  I  may  go  ;"  and  bo
+
+he  spoke  the  first  stanza  : —
+
+Mrtko  Ganges  cnlrn  like  lotu.s-tivnk,  cucktMw  inyirl-whito  to  see,
+Make  apples  bear  the  palm-trees'  fruit :   iMjrchance  it  then  might  be.
+
+But  she  said  again,  "  Come  ;  I  am  going."  He  answered,  "  I  will  go."
+"When?"  "At  such  and  such  a  time,"  ho  said  and  H|K)ke  the  remaining
+stanzas  :  —
+
+VV^lieii  woven  out  of  tortoise-hair  a  triwle  cloth  you  see,
+For  winter  wear  against  the  cold,  jjcrcnancc  it  then  may  l»e.
+
+When  of  mosquito's  teeth  you  Iniild  a  tower  so  skilfully,
+That  will  not  shake  or  totter  soon,  jwrchance  it  then  may  be.
+
+When  out  of  horns  of  hare  you  make  a  buider  skilfully,
+
+Staii-s  that  will  tlinib  the  height  of  lieaven,  iHjrchance  it  then  may  be.
+
+When  niiec  to  mount  thi>se  ladder-stairs  and  wit  the  moon  agree,
+And  bring  down  Kahu  from  the  sky,  the  thing  iwrchance  may  Ihj.
+
+When  swarms  of  flies  devour  strong  drink  in  pitchers  full  and  free.
+And  house  themselves  in  burning  coals,  the  thing  jwrchance  may  Ihj.
+
+When  a.sse.s  get  them  n\^  re<l  lips  and  faces  fair  to  see.
+
+And  shew  their  skill  in  song  and  dance,  the  thing  iKirchance  may  Ikj.
+
+When  irows  aiiil  owls  shall  meet  to  talk  in  converMC  privily.
+And  woo  each  other,  lover-liko,  the  thing  |>crchanco  may  Ik3.
+
+[478]  When  sun-shades,  matle  of  tender  leaves  from  oft'  the  forest  tree.
+Are  strong  against  the  riLshing  rain,  the  thing  perchance  may  be.
+
+When  sparrows  take  Himfdaya  in  all  its  majesty,
+
+And  l)c;u"  it  in  their  little  boak.s,  the  thing  iHjrchance  may  l>e.
+
+And  when  a  boy  can  carry  light,  with  all  its  bravery,
+
+A  ship  full-rigged  for  distant  seas,  the  thing  iwrchance  may  l>e.
+
+So  the  Great  Being  spoke  these  eleven  8tanza.s  to  fix  impossible  {atlfulna)
+conditions.  The  courtesan,  hearing  him,  won  his  forgivene.ss  and  went
+back  to  Benares.  She  told  the  matter  to  the  king,  and  begged  for  her  life,
+which  was  granted.
+
+
+After  the  lesson,  the  Master  said,  "So,  Brethren,  womankind  are  ungrateful
+and  trciicherous  "  ;  then  he  declared  the  Truths,  and  identified  the  Birth  : — After
+the  Truths,  the  backsliding  Brother  wa.s  established  in  the  fruition  of  the  First
+Path  : — "  At  that  time  the  king  was  Ananda,  the  ascetic  was  myself."
+
+
+No.   426.  285
+
+No.  426.
+
+DiPI-JATAKA^
+
+[479]  ^^How  fares  it  with  you"  etc. — The  Master  told  this  tale  while  dwelling
+in  Jetavana,  concerning  a  certain  she-goat.  At  one  time  the  Elder  Moggallaua
+lived  in  a  dwelling  with  one  door,  in  a  mountain  enclosure,  surrounded  by  hills.
+His  covered  walk  was  close  by  the  door.  Some  goatherds  thought  the  enclosure
+would  be  a  good  place  for  their  goats,  so  they  drove  them  in  and  lived  there
+at  their  pleasure.  One  day  they  came  in  the  evening,  took  all  the  goats,  and
+went  away  :  but  one  she-goat  had  wandered  far,  and  not  .seeing  the  goats  depart-
+ing, she  was  left  behind.  Later,  as  she  was  departing,  a  certain  panther  saw
+her,  and  thinking  to  eat  her  stood  by  the  door  of  the  enclosure.  She  looked
+all  round,  and  .s<iw  the  panther.  "  He  is  there  l)ecaiuse  he  wishes  to  kill  and  eat
+me,"  she  thought ;  "  if  I  turn  and  run,  my  life  is  lost  ;  I  must  play  the  man,"
+and  so  she  tos.sed  her  horns,  and  sprang  straight  at  him  with  all  her  might.
+She  escaped  his  grip,  though  he  w;us  quivering  with  the  thought  of  catching  her  :
+then  rumiing  at  full  si>eed  she  came  up  with  the  other  goats.  The  Elder  ob.served
+how  all  the  animals  had  l)ehaved  :  ne.xt  day  he  went  and  told  the  Tathfigata,
+"So,  lord,  this  she-goat  i)erformed  a  fe;it  by  her  readiness  in  device,  and  e.scaped
+from  the  panther."  The  Mivster  answered,  "  Moggallaua,  the  panther  failtnl  to
+catch  lier  this  time,  but  once  Itcforo  he  killed  licr  though  she  cried  out,  and  ato
+her."     Then  at  Moggallana's  request,  he  told  an  old  tde.
+
+
+Once  upon  a  time  the  Bodhisatta  was  born  in  a  cortiin  village  of  the
+Magadha  kingdom,  in  a  wealthy  family.  When  lie  grew  up,  \\v  renounced
+desires  and  adopted  the  religious  life,  reaching  the  perfection  of  meditation.
+After  dwelling  long  in  the  Himalaya,  he  came  to  liajagaha  for  salt  and
+vinegar,  and  dwelt  in  a  hut  of  leaves  which  he  made  in  a  mountain
+euclosure.  Just  as  in  the  introductory  story,  the  goatherds  drove  their
+goats  thither  :  and  in  the  same  way,  one  day  as  a  single  sli(;-goat  was  going
+out  later  than  the  rest,  a  panther  waited  by  thi;  door,  thinking  to  eat  her.
+When  she  saw  him,  she  thought,  "  My  life  is  forfeit :  by  .some  means  I
+must  get  liim  into  pleasant  and  kindly  talk,  and  .so  soften  his  heart  [480]
+and  save  my  life."  Beginning  a  friendly  talk  with  him  from  some
+distance,  she  spoke  the  first  stanza  : —
+
+How  fares  it  with  you,  uncle  ?   and  is  it  well  with  you  ?
+
+My  mother  .sends  her  kind  regards :    and  I'm  your  friend  .so  true.
+
+Hearing  her,  the  panther  thought,  "  This  baggage  would  beguile  me  by
+calling  me  '  uncle ' :  she  does  not  know  how  hard  I  am  ;  "  and  .so  he  si>oke
+the  second  stanza  : —
+
+You've  trod  \i\)on  my  tail,  miss  goat,  and  done  me  injury :
+And  you  think  by  saying  '  Uncle '  that  you  can  go  scot-free.
+
+'  Cf.  Tibetan  Tales,  no.  2\),  aud  Folklore  Journal,  vol.  iv.  p.  15.
+
+
+286  The  Jdtaka.     Book   VIII.
+
+When  she  heard  him,  she  said,  "  O  uncle,  don't  talk  in  that  way,"  and
+spoke  the  third  stanza  : —
+
+I  faced  you  as  I  came,  good  Sir,  you  face  me  as  you  sit :
+Your  tail  is  all  behind  you  :   how  could  I  tread  on  it  ?
+
+He  answered,  "What  do  you  say,  she-goat  1  is  there  any  place  where
+my  tail  might  not  be  ? "  and  so  he  spoke  the  fourth  stanza  : —
+
+[481]  As  far  as  four  great  continents  with  seas  and  mountains  spread.
+My  tail  extends :   how  could  you  fail  on  such  a  tail  to  tread  i
+
+The  she-goat,  when  she  heard  this,  thought,  "  This  wicked  one  is  not
+attracted  by  soft  words :  I  will  answer  him  as  an  enemy,"  and  so  she
+spoke  the  fifth  stanza  : —
+
+Your  villain's  tail  is  long,  I  know,  for  I  had  warning  fixir  :
+Parents  and  brothers  told  me  so  :   but  I  flew  through  the  air.
+
+Then  he  said,  "  I  know  you  came  through  the  air  :  but  as  you  came,
+you  spoilt  my  food  by  your  way  of  coming,"  and  so  he  spoke  the  sixth
+stanza  : —
+
+The  sight  of  you,  miss  goat,  on  high,  the  air  a-flying  through,
+Frightened  a  herd  of  deer  :   and  so  my  food  Wiis  spoilt  by  you.
+
+Hearing  this,  the  goat  in  fear  of  death  could  bring  no  other  excuse,
+but  cried  out,  "  Uncle,  do  not  commit  such  cruelty ;  spare  my  life."  But
+though  she  cried  out,  the  other  seized  her  by  the  shoulder,  killed  her  and
+ate  her.
+
+
+'Twas  thus  the  she-goat  cried  for  grace  :   but  blood  must  satisfy
+The  beast  that  grips  her  throat ;   the  bud  will  .shew  no  courtesy.
+
+Conduct,  nor  right,  nor  coiui;esy,  the  bad  man  will  display ;
+He  hates  the  good :   to  face  him  then  'tis  best  in  open  fray.
+
+These  are  two  stanzas  inspired  by  Perfect  Wisdom.
+
+
+[482]  A  holy  ascetic  saw  the  whole  matter  of  the  two  animals.
+
+
+After  this  lesson,  the  Master  identified  the  Birth  :  "At  that  time  the  she-goat
+and  the  panther  were  the  she-goat  and  the  panther  of  to-day,  the  holy  ascetic  was
+myself."
+
+
+BOOK   IX.      NAVANIPATA.
+
+
+No.  427.
+
+
+GIJJHA-JATAKAV
+
+[483]  -Formed  of  rough  Zo^r.,"  e^c.-This  story  the  Master  told  at  Jetavana
+concern  nt;  a  disobedient  Brother.  He  was,  they  say,  of  gf^i^le  birth,  and  though
+o?dained  in  the  doctrine  that  leads  to  Salvation,  vvas  '^dmonisljed  by  h^^^
+wishers,  masters,  teachers,  and  fellow-students  to  this  efiect :  "Thus  must  you
+advance  and  thus  retreat;  thus  look  at  or  away  from  objects;  thus  must  the
+arm  be  stretched  out  or  drawn  back  ;  thus  are  the  inner  and  outer  g^rme'it  to
+be  worn  ;  thus  is  the  bowl  to  be  held,  and  when  you  have  received  sufhcient  f^^  d
+to  sustain  life,  after  8elf-examinati..n,  thus  are  you  to  partake  of  it  keeping
+guard  over  the  door  of  the  senses  ;  in  eating  you  are  to  be  f^«dera^;'^^";[,^^,^X
+watchfulness  ;  you  are  to  recognize  such  and  «"^h  ^^^^  J^°^^^^%^/^i^^^,^S2
+come  to  or  ^'o  from  the  monastery;  these  are  the  fourteen''  sets  of  priestly
+rres,':nd^he  eighty  great  duties  tUe  duly  performed  these  a.e  the  thiiteen
+Dhuta  practices;  all  these  are  to  be  scrupu  ously  performed.  Jet  was  he
+disobedient  and  impatient,  and  did  not  receive  instruction  respectfully  but
+refused  to  listen  to  them,  saying,  "I  do  not  hnd  fault  wi  h  you.  ^\  hy  do  you
+speak  thus  to  me?  I  shall  know  what  is  for  my  good,  and  what  is  not  Then
+the  Brethren,  hearing  of  his  disobedience,  sat  in  the  Hall  of  Truth  telling  of  his
+faults  The  Master  came  and  asked  them  what  it  was  they  were  di.scu.ssing,  and
+sent  for  the  Brother  and  said,  "Is  it  true,  Brother,  that  you  are  disobedient?
+A  1  when  he  confessed  that  it  was  so,  the  Master  said  "Why,  Brother,  after
+being  ordained  in  so  excellent  a  doctrine  that  leads  to  Salvation,  [484]  do  you
+not  fisten  to  the  voice  of  your  well-wishers?  Formerly  too  yo-/-«beyed  the
+voice  of  the  wise,  and  were  blown  into  atoms  by  the  Veramba  wind.  And
+herewith  he  told  a  story  of  the  past.
+
+
+Once  upon  a  time  the  Bodhisatta  came  to  Ufe  as  a  young  vulture  on
+ViUture  Mountain.     Now  his  offspring  Supatta,  the  king  of  the  vultures,
+
+1  See  No.  381  supra.  .  .
+
+»  CaUed  Khandakavatt&ni   because  contained  in  the  Khandaka  division  of  tne
+
+Vinaya.
+
+3  Hardy's  Eastern  Monachism,  p.  9.
+
+
+288  The  Jdtaka.     Book  IX.
+
+
+was  strong  and  lusty  ami  liiul  a  following  of  many  thousands  of  vultures,
+and  ho  fed  the  parent  Kinls.  And  owing  to  his  strength  he  used  to  fly  to
+a  very  great  distance.  So  his  father  admonished  him  and  said,  "  My  son,
+you  must  not  go  beyond  such  and  such  a  point."  He  said,  "  Very  good,"
+but  one  day  when  it  rained,  he  flew  up  with  the  other  vultures,  and
+leaving  the  rest  behind,  and  going  beyond  the  prescribed  limit,  he  came
+within  the  range  of  the  Vemmba  wind,  and  was  blown  into  atoms.
+
+
+The  Ma-ster,  in  his  l*erfect  Wi.s<K.rn,  to  illustrate  this  incident,  uttered  thene
+verses :
+
+Formed  of  rough  logs,  an  ancient  pathway  led
+To  di/.zy  heights,  where  a  young  vulture  fed
+The  parent  birds.     Lu.sty  and  strong  of  wing
+He  oft  to  them   would  fat  of  ser|)ent.s  bring;
+And  when  liis  father  h;iw  him  flying  high
+And  venturing  far  atield,  he  thu.s  would  crv,
+"  My  .son,  when  thou  canst  scan  from  thy  look  out
+Earth's  roundevl  sphere  by  ^K•ciiU  girt  al>out.
+No  farther  go,  but  straight  return,   I   prav."
+Then  would  tliis  king  of  binls  s^^ec1l  on  his  way,
+And  iKjnding  o'er  the  earth,  witli  piercing  sight
+He  viewevl  below  forest  and  mountain  height  :
+Anil  earth  would,  a.s  his  sire  de.scTiUNl,  apjMyir
+Amid  the  encircling  .scji  a  roimded  sphere.
+Hut  when  beyond  the.se  limits  he  had  jNUsacd,
+Strong  bin!  though  he  might  \)C,  a  raging  bhiat
+Swept  him  away  to  an  untimely  death.
+Powerless  to  cojkj  with  .st*)rm-wind's  fiery  breath.
+[485]  Thus  did  the  bin!  by  disolMxlience  prove
+Viitiil  to  those  dejicndent  on  his  love  :
+So  iHjrish  all  that  .scornful  of  old  age
+Deride  the  warnings  uttered  by  the  sage.
+As  the  young  vulture  Wi.sdom's  voice  dctied
+And  scorned  the  limits  set  to  bound  bis  pride.
+
+
+[48G]  "Therefore,  Brother,  be  not  like  unto  this  vulture,  but  do  the
+bidding  of  your  well-wishers."  And  being  thus  admonished  by  the
+Master,  he  thenceforth  became  obedient.
+
+
+The  Master,  his  lesson  ended,  identified  the  Birth  :  "  The  disobedient  vulture
+of  those  days  is  now  the  disoliedient  Brother.     The  parent  vulture  was  myself"
+
+
+No.   428.  289
+
+
+No.  428.
+
+KOSAMBi-JATAKA.
+
+"  Whene'er  the  Brotherhood"  etc. — This  story  the  Master,  while  dwelling  in  the
+Ghosita  park  near  Kosarabi,  told  concerning  certain  quarrelsome  folk  at  Kosambl.
+The  incident  that  led  to  the  story  is  to  be  found  in  the  section  of  the  Vinaya
+relating  to  Kosaiulji'.  Here  is  a  short  summary  of  it.  At  that  time,  it  is  said,
+two  Brothers  lived  in  the  siime  house,  the  one  versed  in  the  Vinaya,  the  other  in
+the  Sutra-s.  The  latter  of  these  one  day  having  occcvsion  to  visit  the  lavatory
+went  out  le;iving  the  surplus  water  for  rinsing  the  mouth  in  a  vessel.  After-
+wards the  one  versed  in  the  Vinaya  went  in  and  seeing  the  water  came  out  and
+asked  his  companion  if  the  water  had  Ijeen  left  there  by  him.  He  answereil,
+"Yes,  Sir."  "What!  do  you  not  know  that  this  is  sinful?"  "No,  I  was  not
+aware  of  it."  "Well,  l'>rother,  it  is  sinful."  "Then  I  will  atone  for  it."  "But
+if  you  did  it  in.idvertently  and  lieedle.s.sly,  it  is  not  sinful."  So  he  became  as  one
+who  saw  no  sin  in  what  was  sinful.  The  Vinaya  scholar  .siiid  to  his  pupils,
+"  This  Sutra  scholar,  though  falling  into  sin,  is  not  aware  of  it."  They  on  seeing
+the  other  Brother's  pupils  .s^vid,  "  Vour  m;uster  though  falling  into  sin  does  not
+recognize  its  sinfulness"  They  went  and  told  their  ma.ster.  He  .said,  "This
+Vinaya  scholar  l>efore  said  it  wius  \u>  sin,  and  now  says  it  is  a  sin  :  he  is  a  liar."
+They  went  an<l  told  the  others,  "Vour  ma.-ster  is  a  liar."  Thus  they  stirred  up  a
+quarrel,  one  with  another.  Then  the  Vinaya  scholar,  finding  an  opportunity,
+went  through  the  form  of  excommunication  of  the  Brother  for  refusing  to  see
+his  offence.  Thenceforth  even  the  laymen  who  provided  ueces.saries  for  the
+priests  were  divideil  into  two  fjictions.  The  sisterhoods  t(M)  that  accept  their
+admonitions,  and  tutelary  gtxls,  with  their  fri»*nds  and  intimates  and  deities  from
+tho.se  that  rest  in  space-'  [487]  to  those  of  the  Brahma  World,  even  all  such  ius  were
+luiconvertetl,  formed  two  parties,  and  the  uproar  reached  t<j  the  abo<ie  of  the
+Sublime  gods'-.
+
+Then  a  certain  Brother  drew  nigh  to  the  Tathagata,  and  announced  the  view
+of  the  e.\communicating  party  who  said,  "The  man  is  exconununicated  in
+orthodox  form,"  and  the  view  of  the  followers  of  the  e.xcomnuuiicated  one,  who
+.said,  "  He  is  illegally  excomnnmicated,"  and  the  practice  of  those  who  tliough
+forbidden  by  the  excommunicating  party,  .still  gathered  round  in  supjKjrt  of  him.
+The  Bl&ssed  One  said,  "There  is  a  schism,  yea,  a  .schism  in  the  Brotherhood,"
+and  he  went  to  them  and  jxiinted  out  the  mi.sery  involved  in  excommunication
+t<j  those  that  excommunicated,  and  the  misery  following  upon  the  concealment
+of  sin  to  the  opiMwite  party,  and  so  departed.  Again  when  they  were  holding
+the  Ujxisatha  and  similar  services  in  the  .same  i>lace,  within  the  l>oundary,  and
+were  quan-elling  in  the  refectory  and  elsewhere,  he  laid  down  the  nde  that  they  .
+
+were  to  sit  down  together,  one  by  one  from  each  side  alternate]^'.  And  hearing  /c-tn^  ^'
+that  they  were  still  quarrelling  in  the^moiia-stery"  Tie  went  there  and  .said,  /i,—*^
+"Enough,  Brothers,  let  us  have  no  quarrelling."  And  one  of  the  heretical  .side^,
+not  wi.shing  to  aimoy  the  Bles.se(l  One,  s;iid,  "  Let  the  Bles.sed  Lord  of  Truth
+stay  at  home.  Let  the  Blessed  One  dwell  quietly  at  ea.se,  enjoying  the  bli.ss  he
+hiis  already  obtained  in  this  life.  We  shall  make  ourselves  notorious  by  this
+quarrelling,  altercation,  disputing  and  contention."
+
+'  Maharagga,  x.  1 — 10.
+
+-  These  include  all  gods  except  those  in  the  four  highest  heavens  [arhpa-hrahma-
+Ink-as).     Hnrrly.  Mnmint  of  Bu(Uii!>m,  p.  26.
+
+^  Reading  'idhammavddiiul  as  in  the  parallel  passage  of  the  Mahdvaiiga,  p.  341.
+
+.1.  III.  19
+
+
+290  The  Jataka.     Bool:  IX.
+
+But  the  Maxter  said  to  them,  "Once  ufMn  a  time,  Brethren,  Brahmadatta
+
+reigned  juh  king  of  Kfusi  in  Benares,  and  he  roblxni  Dighati,  king  of  KoMila,  of  hiii
+kingdom,  and  put  him  to  death,  when  Hving  in  disguise,  and  when  prince
+Dighavu  spared  tlie  life  of  Brahniadatt<i,  tliey  l)eeame  thenceforth  close  friends.
+And  since  such  must  have  Ijcen  the  long-sutlering  and  tenderness  of  these
+sceptred  and  s\vord-l)canng  kings,  verily.  Brethren,  you  ought  to  make  it  clear
+that  you  too,  having  emhraced  the  religious  life  acconling  to  so  well-taught  a
+doctrine  and  discipline,  can  Ik;  forgiving  and  tender-hearted."  And  thus  ad-
+monishing them  for  the  thii-d  time  he  said,  "Enough,  Brothei-s,  let  there  Ijc  no
+quarrelling."  And  when  he  saw  that  they  did  not  cejuse  at  his  bidding,  he  went
+away,  saying,  "Verily,  ihenc  foolish  folk  are  like  men  jM»8.sessed,  they  are  not
+ea.sy  of  persuasion."  Xe.it  day  returning  from  the  collection  of  alms  he  rested
+awhile  in  his  perfumed  chamber,  and  put  his  room  in  onler,  and  then  taking  his
+bowl  and  robe  he  stood  iK)ised  in  the  air  and  delivered  these  verses  in  the  midst
+of  the  assembly  :
+
+[488]  Whene'er  the  Brotherhfxxl  in  twain  is  rent.
+
+The  common  folk  to  loud-moutheii  cries  give  vent:
+
+Each  one  believes  that  he  hini.self  is  wise,
+
+And  views  his  neighlxnir  witli  di.silainful  eyes.
+
+Bewildere<l  souls,  putted  up  with  self-esteem.
+
+With  oj)on  mouth  they  foolishly  Masplieme  ;
+
+And  ;w  thro\igh  all  the  range  of  sjKHHjh  they  stray,
+
+Tlipy  know  not  whom  as  leader  to  obey.
+
+"7V/m'  man  abiu4e<l  me,  that  struck  me  a  blow,
+
+A  third  o'ercnmo  and  robl>ed  nje  long  ago."
+
+All  such  ius  harboiu"  feelings  of  this  kind.
+
+To  mitigate  their  wrath  are  ne'er  inclineil.
+
+"//e  did  abuse  and  buftet  me  of  yore.
+
+He  overcame  me  and  uppres.He<l  me  sore."
+
+They  who  such  thoughts  refu.se  to  entertain,
+
+Appea.se  their  wrath  and  live  at  i>ne  again.
+
+N<tt  hate,  but  love  alone  makes  hate  to  cea.se  :
+
+This  is  the  everbisting  law  of  i>eace.
+
+Some  men  the  law  <)f  .self-restraint  despise.
+
+But  who  make  up  their  quarrels,  thei/  are  wise.
+
+If  men  all  .scarreil  with  wounds  in  deadly  .strife,
+
+Reivers  and  robU'rs,  taking  human  life.
+
+Nay  those  that  plunder  a  whole  realm,  may  be
+
+Friends  with  their  foe.s,  .should  Brethren  not  agree  ?
+
+Should.st  thou  a  wi.so  and  hf)ne.st  comrade  hnd,
+
+A  kindred  .soul,  to  dwell  with  thee  inclined.
+
+All  dangers  past,  with  him  thou  still  wouldst  .stray,
+
+In  happy  contemplation  all  the  day.
+
+But  shouldst  thou  fail  to  meet  with  such  a  friend,
+
+Thy  life  'twere  best  in  .solitude  to  sjiend,
+
+Like  to  some  prince  that  aMicates  a  throne,
+
+Or  elephant  that  ranges  all  alone.
+
+For  choice  adopt  the  solitary  life,
+
+Companionship  with  fools  but  leads  to  strife  ;
+
+In  careless  innocence  pursue  thy  way.
+
+Like  elephant  in  forest  wild  a.stray.
+
+
+[489]    When  the  Master  had  thus  .spoken,  as  he  failed  to  reconcile  these
+Brethren,  he  went  to  Balakalonakaragama  (the  village  of  Balaka,  the  .salt-maker),
+
+*  Dhammapada,  v.  3 — 5.     See  also  No.  371  itiipra.
+
+
+No.  428.  291
+
+and  discoursed  to  the  venercable  Bhagu  of  the  blessings  of  solitude.  Thence  he
+rejiaired  to  the  abode  of  three  youths  of  gentle  birth  and  spoke  to  them  of
+the  bliss  to  be  found  in  the  sweets  of  concord.  Thence  he  journeyed  to  the
+Parileyyaka  forest,  [490]  and  after  dwelling  there  three  months,  without
+returning  to  Kosambi,  he  went  straight  to  Savatthi.  And  the  lay  folk  of
+Kosambi  consulted  together  and  said,  "Surely  these  reverend  Brothers  of
+Kosambi  have  done  us  much  harm  ;  worried  by  them  the  Blessed  One  is
+gone  away.  We  will  neither  offer  salutation  nor  other  marks  of  respect  to
+them,  nor  give  alms  to  them  when  they  visit  us.  So  they  will  depart,  or
+return  to  the  world,  or  will  propitiate  the  Blessed  One."  And  they  did  so.
+And  these  Brethren  overwhelmed  by  this  form  of  punishment  went  to  Savatthi
+and  begged  forgiveness  of  the  Ble-ssed  One.
+
+
+The  Master  thus  identified   the  Birth:    "The   father  was  the  gi-eat   king
+Suddhodana,  the  mother  wjis  Mahamaya,  prince  Dlghavu  was  myself."
+
+
+No.  429.
+Mahasl'k.v-jataka'.
+
+
+"  Wherever  fniitfid  trees"  etc. — This  story  the  Master  dwelling  at  Jetavana
+told  concerning  a  certain  Brother.  The  story  goes  that  he  lived  in  a  forest  near
+a  border  village  in  the  Ko.sala  country,  and  recei\ed  instruction  in  f<jrms  of
+meditation  from  the  Master.  The  people  made  him  a  dwelling-place  on  a  site
+where  men  continually  pa.s.seil  to  and  fro,  providing  him  with  day  and  night
+quarters,  and  attentively  ministered  to  him.  In  the  very  first  month  after  he
+had  entered  upon  the  rainy  scivson  the  village  wjis  burned  down  and  the  people
+had  not  so  much  as  a  seed  left  and  were  unaljle  to  supply  his  alms-lx)wl  with
+.savoury  food ;  and  though  he  wa.s  in  a  pleiisant  place  of  abode,  he  was  so
+distressed  for  alms  that  he  could  not  enter  upon  the  Path  or  its  Fruition.  So
+when  at  the  end  of  three  months  he  went  to  visit  the  Master,  after  words  of
+kindly  greeting  the  Master  hoped  that  though  distressed  for  alms  he  had  a
+pleasant  place  to  live  in.  The  Brother  told  him  how  matters  .stood.  The
+Master  on  he;iring  that  he  had  plea.sant  quarters  said,  "  Brother,  if  this  is  .so,  an  •
+ascetic  ought  to  lay  aside  covetous  ways,  and  be  content  to  e;it  whatever  food  he
+can  get,  and  to  fulfil  all  the  duties  of  a  priest.  Sages  of  old  when  born  into  the
+world  as  animals,  [491]  though  they  lived  on  the  powdered  dust  of  the  decayed
+
+'  Morris,  Folk-Lore  Journal,  iii.  67.
+
+19—2
+
+
+292  The  Jatnhi.     Book  IX.
+
+tree  in  which  they  had  their  abode,  laid  aside  greedy  deuireM  and  were  contented
+
+to  stny  where  thoy  wore,  and  fiiltillod  tho  law  of  lovo.  Why  then  do  yon  alMindoti
+a  pleasjuit  dwulling-nlace,  Injcaust!  the  f(Mxl  you  receive  in  HOitity  and  couniC?"
+And  at  his  request  the  Master  told  a  story  of  the  iMwt.
+
+
+Once  upon  a  timo  many  myriads  of  i)arrot.s  livrd  in  the  Iliinalaya
+country  on  the  Imnks  of  the  Ganges  in  a  grove  of  tig-trees.  A  king  of
+the  parrots  there,  when  the  fruit  of  tlie  tree  in  which  he  dwelt  had  come
+to  an  end,  ate  whatever  wjus  left,  whether  shoot  or  leaf  or  hark  or  rind,
+and  drank  of  water  from  the  tJanges,  and  heing  very  happy  and  content«'d
+he  kept  when^  he  was.  Owing  to  his  hH|)py  and  contented  stato  the  abode
+of  Sakka  was  shaken.  Sakkn  reflfi-ting  on  the  cause  saw  the  purmt,  and
+to  test  his  virtue,  by  his  supernatural  power  he  withered  up  the  tree,
+which  became  a  mere  stump  jwrforated  with  holes,  and  stoiKl  to  be  buffeted
+by  every  blast  of  witnl,  and  from  the  holes  dust  came  out.  Tlie  parrot
+king  ate  this  dust  an<l  drank  the  water  of  the  (Janges,  and  going  n«)wliere
+else  sat  perched  on  tlu-  top  of  the  fig-stump,  recking  nought  of  wind  and
+sun.
+
+Sakka  notice<l  how  very  content«'il  the  parrot  was,  and  said,  "  Aftei-
+hearing  him  speak  of  the  virtue  of  friendship,  I  will  come  and  give  him
+his  choice  of  a  boon,  and  cause  the  tig-tree  to  bear  ambrosial  fruit."  So
+he  took  the  form  of  a  royal  goose,  and  preceded  by  Suja  in  the  shape  of
+an  Asura  nymph,  he  went  to  the  grove  of  fig-trees,  and  perching  on  the
+bough  of  a  tree  close  liy,  he  entered  into  conversation  with  the  pjirmt  and
+spoke  the  first  staiiai  :
+
+Wherever  fruitful  trees  abound,
+A  flock  of  liungry  binls  is  found  :
+But  should   the  trees  all  witheivd  !«,
+Away  at  once  the  birds  will  tlee.
+
+[-192]  And  after  the.se  words,  to  drive  the  parrot  thenc«',  he  spoke  the
+second  stanza  :
+
+Haste  thee.  Sir  Redbeak,  to  1)0  gone  ;
+Why  dost  thou  sit  and  dream  alone  ?
+Come  tell  me,  prithee,  bird  of  spring.
+To  this  dcjid  stump  why  dost  thou  cling  ?
+
+Then  the  parrot  said,  "  O  goose,  from  a  feeling  of  gratitude,  I  forsake
+not  this  tree,"  and  he  repeated  two  stanzas  :
+
+They  who  have  been  clo.se  friends  from  youth,
+Mindful  of  goodness  and  of  truth,
+In  life  and  death,  in  weal  and  woe
+The  claims  of  friendship  ne'er  forego.
+
+I  too  woiUd  fain  be  kind  and  good
+To  one  that  long  my  friend  has  stood  ;
+I  wish  to  live,  but  have  no  heart
+From  this  old  tree,  though  dead,  to  part.
+
+
+No.  429.  293
+
+Sakka  on  hearing  what  he  said  was  delighted,  and  praising  him  wished
+to  offer  him  a  choice,  and  uttered  two  stanzas :
+
+[493]  I  know  thy  friendship  and  thy  gi-ateful  love,
+Virtues  that  wise  men  surely  must  approve.
+
+I  offer  thee  whate'er  thou  wilt  for  choice  ;
+Pan-ot,  what  boon  would  mo.st  thy  heart  rejoice  I
+
+On  hearing  this,  the  king  parrot  making  his  choice  spoke  the  seventh
+
+stanza  :
+
+If  thou,  0  goose,  what  most  I  crave  wouldst  give,
+Grant  that  the  tree  I  love,  again  may  live.
+Let  it  once  more  with  its  old  vigour  shoot.
+Gather  fresh  sweetness  and  bear  gotxlly  fruit.
+
+Then  Sakka,  granting  the  boon,  spoke  the  eighth  stanza  :
+
+Lo  !    friend,  a  fruitful  and  right  noble  tree,
+Well  fitted  for  thy  dwelling-place  to  be.
+Let  it  once  more  with  its  old  vigour  shoot.
+Gather  fresh  sweetness  and  bear  goodly  fruit.
+
+[494]  With  these  words  Sakka  (luitted  his  present  form,  and  mani-
+festing the  supernatural  power  of  himself  and  Sujfi,  he  took  up  water  from
+the  Ganges  in  his  hand  and  da.shed  it  against  the  tig-tree  stump.  Straight-
+way the  tree  rose  up  rich  in  branch  and  stem,  and  with  honey-sweet  fruit,
+and  stood  a  charming  sight,  like  unto  the  bare  Jewel-Mount.  The  parrot
+king  on  seeing  it  was  highly  pleased,  and  singing  the  praises  of  Sakka  he
+spoke  the  ninth  sttinza  :
+
+May  Sakka  and  all  loved  by  Sakka  blessed  Ije,
+As  1  to-day  aru  blest  this  g<Jodly  sight  to  see  !
+
+Sakka,  after  granting  the  parrot  his  choice,  and  causing  the  fig-tree  to
+bear  ambrosial  fruit,  returned  with  Sujata  to  his  own  abode.
+
+
+In  illustration  of  this  story  these  stanzas  inspired  by  Perfect  Wisdom  were
+added  at  the  close  :
+
+Soon  as  king  parrot  wisely  made  his  choice.
+The  tree  once  more  put  forth  its  fruit  again  ;
+Then  Sakka  with  his  queen  did  fly  amain
+
+To  where  in  Nandana  the  gods  rejoice.
+
+The  Miister,  his  lesson  ended,  said,  "Thus,  Brother,  sages  of  old  though
+b(jrn  in  animal  forms  were  free  from  covetousness.  Why  then  do  you,  after
+being  ordained  under  so  excellent  a  disi^eusation,  follow  greedy  ways  ?  Go  and
+dwell  in  the  same  place."  And  he  gave  him  a  form  of  meditation,  and  thus
+identifieti  the  Birth  :— The  Brother  went  back  and  by  spiritual  insight  attained
+to  Sainthood  :— "  At  that  time  Sakka  was  Anuruddha,  and  the  parrot  king  was
+myself."
+
+
+294  The  Jdtaka.     Book  IX.
+
+
+No.  430.
+
+
+CULLASUKA-JATAKA.
+
+"Lo/  countless  trees,^^  etr. — This  story  the  Master  dwelhiig  at  Jetavaii.i  told
+concerning  the  Verafija  section '.  When  the  Master  after  pa-ssing  tlio  rainy  seiusoii
+at  Verauja  in  due  course  arrived  at  Savatthi,  the  llrethren  in  the  Hall  of  Truth
+raised  a  discussion  saying,  "  Sirs,  ;i  Tathagat<i,  a  delicately  inirtured  ksiiatriya
+and  Buddha,  tliough  possessed  of  supernatural  powers,  at  the  invit;ition  <tf  a
+brahmin  of  X'eranja  stayed  three  months  with  him,  and  when  owing  to  the
+temptation  of  Mara  he  failed  to  receive  an  alms  at  the  hands  of  the  brahmin,
+even  for  a  single  day,  he  gave  up  all  covetous  ways,  an<l  keeping  in  the  same
+place  for  three  months  lived  on  water  and  a  modicum  of  the  groimd  Hour  of
+roots.  [49o]  0\\  the  contented  nature  of  Tathagatas  I"  When  the  M.ister  came
+and  on  intpiiry  learned  the  nature  of  their  discussion  he  sivid,  "  It  is  no  nuirvel,
+Bretlu'cn,  that  a  Tathagata  now  has  lost  all  covctousness,  seeing  that  formerly
+when  Iiorn  in  an  animal  form  he  forsook  covctousness."  And  hereupon  he  told
+a  story  of  the  past.  The  whole  story  is  now  to  be  related  iu  detail  in  exactly
+the  same  way  as  in  the  preceding  tide.
+
+
+Lo  !   countless  trees  are  here,  all  green  and  fruitful  .see!
+Why,  parrot,  dost  thou  cling  to  this  poor  withered  tree  ?
+
+Long  years  wo  have  enjoyed  the  luscious  fruit  it  bare,
+And  tho'  it  now  has  none,  it  still  should  claim  our  care.
+
+Nor  leaves  nor  fruit  it  yields,  ahus  I    the  tree  is  dead  :
+
+Why  blame  thy  fellow-birds,  that  they  should  all  have  fled  ?
+
+They  loved  it  for  its  fruit,  and  now  that  it  has  none.
+Poor  selfish  fools !   their  love  and  gratitude  is  gone.
+
+Thy  gratitude  I  own,  thy  true  and  constant  love,
+Sure  virtue  such  as  this  the  wise  will  aye  api)rove.
+
+I  oft'er  thee,  0  bii-d,  whate'er  thou  wilt  for  choice;
+
+Tell  me,  I  pray,  what  boon  would  most  thy  heart  rejoice  ?
+
+Woxild  that  this  tree  might  bear  fresh  leaves  and  fruit  again  ;
+I  would  be  glad  as  they  that  treasure  trove  obtain.
+
+Then  was  the  tree  by  Sakka  with  ambrosia  sprinkled  o'er.
+And  boughs  sprang  up  with  cooling  shade,  as  lovely  as  before.
+
+May  Sakka  and  all  loved  by  Sakka  blessed  be,
+As  I  to-day  am  blest  this  joyous  sight  to  see.
+
+Thus  was  the  tree  made  fruitful  by  the  parrot's  gratefid  choice,
+And  Sakka  and  his  queen  in  groves  of  Xaudana  rejoice.
+
+
+[49fi]  The  Master,  his  lesson  ended,  identified  the  Birth :   "  In  those  days
+Sakka  w'as  Aniiruddha,  the  parrot  king  was  myself."
+
+^  See  Vinaija,  Par.  i.  1 — i.
+
+
+No.   431.  295
+
+No.  431.
+
+HARITA-JATAKA.
+
+
+« F^-^nr/   Harita "  etc  —This  story  the   Master  dwelling  at  Jetavana  told
+
+iy  his  teachers  ar>d  preceptors  to  tlie  Master  and  T^:^.^'^'^'l^^^^'^J,  It  ^
+true  that  he  was  a  backslider,  and  if  so  why,  he  s^iid,  "\es  your  Ke  ereuc_e  it  is
+m^ng  to  the  power  of  sinful  passion,  after  seeing  a  beautiful  wouiai.  [49  -  ]  The
+\r,itPr  said  "Sin  Brother,  is  destructive  of  virtue,  and  insipid  withal,  ana
+caufes  a  man  to  be  re-born  in  hell;  and  why  should  not  this  sin  prove  your
+Sruc'tion T  For^he  hurricane  that  smites  Mount  Sineru  is  "ot  .ijhamed  to
+•^T-ri  off  a  withered  le^if.  But  owing  to  this  sin  men  who  walk  according  to
+kSl^c^e  anfwsdom,  and  have  acquired  the  ^ve  Faculties  and  the  e.gh
+1  taTnments,  though  they  were  great  and  holy  men  being  ^^^'^^^^^^Z
+thoughts,  fell  away  from  mystic  meditation."     And  then  he  told  a  story
+
+
+Once  upon  a  time  when  BrahraadatU  was  reigning  in  Benares,  the
+Bodhisatta  was  born  in  a  certain  village  in  a  brahmin  family  worth  eighty
+crores,  and  from  his  golden  complexion  they  called  him  Harittacakumara
+(Young  Goldskin).     When  he  was  grown  up,  and  had  been  educated  at
+Takkasila,  he  set  up  as  a  householder,  and  on  the  death  of  his  father  and
+mother  he  made  inspection  of  his  treasures  and  thought,  "The  treasure
+only  continues  to  exist,  but  they  who  produced  it  cease  to  exist:    I  too
+must  be  reduced  to  atoms  by  means  of  death,"  and  alarmed  by  the  fear  of
+death  he  gave  great  gifts,  and  entering  the  Himalaya  country  he  adopted
+the  religious  life,  and  on  the  seventh  day  he  entered  upon  the  Faculties
+and  Attainments.     There  for  a  long  time  he  lived  on  wild  fruit  and  roots,
+and  going  down  from  the  mountain  to  procure  salt  and  vinegar,  he  m  due
+course  reached   Benares.     There  he  abode  in  the  royal  park,  and  on  the
+next  day  in  going  his  round  for  alms  he  came  to  the  door  of  the  kings
+palace.     The  king  was  so  glad  to  see  him  that  he  sent  for  h.m  and  made
+him  sit  on  the  royal  couch  beneath  the  shade  of  the  white  umbrella,  and
+fed  him  on  all  manner  of  dainties,  and  on  his  returning  thanks  the  king
+being   exceedingly  pleased   asked   him,    "Reverend    Sir,   where   are   you
+.oin.r'     -Great  king,  we  are  looking  out  for  a  dwelling-place   for  the
+^ain;  season."     "Very  well.  Reverend  Sir,"  he  said,  and  after  the  early
+meal  he  went  with  him  to  the  park,  and  had  quarters  both  for  the  day  and
+night  built  for  him,  and,  assigning  the  keeper  of  the  park  as  his  attendant,
+he  saluted  him  and  departed.     The  Great  Being  from  that  time  fed  con-
+tinually in  the  palace,  and  Hved  there  twelve  years.
+
+
+296  The  Jdtaka.     Book  IX
+
+
+Now  one  day  the  king  went  to  quell  a  diHturbance  on  thu  trontier,
+[498]  and  couunitted  the  B(xlhiHatta  to  the  cure  of  the  queen,  Baying,  "  Do
+not  neglect  our  'Field  of  Merit'."  Tlicnceforth  whe  niini«tered  to  the
+Great  Being  with  her  own  hands.
+
+Now  one  day  she  had  prepare*!  hi.s  footl,  and  as  lie  delayed  his  coming,
+she  bathed  in  scented  water,  and  put  on  a  .soft  tunic  of  tine  cloth,  and
+opening  the  lattice  lay  down  on  a  small  couch,  and  let  the  wind  play  uik>u
+her  body.  And  the  Bodhisatta  later  on  in  the  day,  dre.ssed  in  a  goodly
+inner  and  outer  robe,  took  his  alms-bowl  uiul  walking  through  the  air
+came  to  the  window.  As  the  queen  rose  up  in  haste,  at  the  rustling
+sound  of  his  hark  garnicnt.s,  her  robe  of  tine  cloth  fell  from  otV  her.  An
+extraonlinary  object  struck  upon  the  eye  <jf  the  Great  Being.  Then  the
+.sinful  t'l-eling,  that  had  been  dwelling  for  countless  aeons  in  his  heart,
+ro.st^  up  like  a  snake  lying  in  a  box,  and  put  to  tlight  his  mystic  meditation.
+Being  unal>l*!  to  tix  his  thoughts  he  went  and  seized  the  queen  by  the
+hand,  and  forthwith  they  drew  a  cui'tain  round  them.  After  misconducting
+himself  with  her,  he  partook  of  .some  fi)o(l  and  returned  tt)  the  park.  And
+every  day  tlieiueforth  he  acted  after  the  .sanu-  manner.
+
+His  misconduct  was  bhized  abroad  throughout  the  whole  city.  The
+king's  ministei-s  sent  a  letter  to  him,  saying,  •'  llarita,  the  a.scetic,  is  acting
+thus  and  thus."
+
+The  king  thought,  "They  say  this,  being  eager  to  separate  us,"  and
+disbelieved  it.  When  he  had  pucifietl  the  border  country  he  returned  to
+Benares,  and  after  nuirching  in  solemn  procession  rouml  tlie  city,  he  went
+to  the  queen  and  asked  her,  "  Is  it  true  that  the  holy  ascetic  Harita  mis-
+conducted himself  with  you?"  "It  is  true,  my  lord."  He  disl)elieved
+her  also,  anil  thought,  "  I  will  ask  the  man  himself,"  and  going  to  the
+park  he  .saluted  him,  ami  sitting  respectfully  on  one  side  he  spoke  the  first
+stan/jv  in  the  form  of  a  question  :
+
+Friend  Haritji,  1  oft  have  hwird  it  .s^iicl
+A  sinful  life  is  by  your  Hcverence  le<1  ;
+I  trust  there  is  no  truth  in  this  report,
+And  thou  art  innocent  in  deed  and  thought  \
+
+[499]    Ho  thought,  "  If  T  were  to  say  I  am  not  indulging  in  sin,  this
+
+king  would  believe  me,   but  in  this  world  there  is  no  sure  ground  like
+
+speaking  the  truth.     They  who  foi-sake  the  truth,  though  they  sit  in  the
+
+sacred  enclosure  of  the  Bo  tree,  cannot  attain  to  Buddhahood.     I  must
+
+needs  just  speak  the  truth."     In  certiiin  cases  a  Bodhisatta  may  destroy
+
+life,  take  what  is  not  given  him,  commit  adultery,  drink  strong  drink,
+
+but  he  may  not  tell  a  lie,  attended  by  deception  that  violates  the  reality
+
+of   things.     Therefore   speaking    the    truth   only  he    uttered    the   second
+
+stanza :
+
+In  evil  ways,  groat  king,  a.s  thou  hast  heard,
+Caught  by  the  world's  delusive  arts,  I  eri-ed.
+
+
+No.    431.  297
+
+Heariug  this  the  king  spoke  the  third  sUnza :
+
+Vain  is  man's  deepest  wisdom  U>  dispel
+The  passions  that  within  his  bosom  swell.
+
+Then  Harita  pointed  out  to  him  the  power  of  sin  and  spoke  the  fourth
+
+stanza  :
+
+There  are  fovu*  passions  in  this  world,  great  king,
+That  in  their  power  are  over-mastering :
+Litst,  hate,  excess  and  ignorance  their  name  ;
+Knowledge  can  here  no  certain  footing  claim.
+
+[500]   The  king  on  hearing  this  spoke  the  fifth  stanza  :
+
+Endowed  with  holiness  and  intellect
+The  saintly  Harita  wins  our  respect.
+
+Tlien  Harita  spoke  the  sixth  stanza :
+
+111  thoughts,  with  plea-sant  vices  if  combined,
+Corrupt  the  siige  to  saintliness  inclined.
+
+Then  the  king,  encouraging  him  to  throw  off  sinful  passion,  spoke  the
+
+seventh  stanza :
+
+The  beaut V  that  from  purest  hearts  doth  shine
+Is  marred  by  lust,  Utrn  of  this  mort-d  frame;
+
+Away  with  it,  and  blessings  .shidl  be  thine,
+And  multitudes  thy  wisd.mi  shall  pnx;laim.
+
+Then  the  Bodhisatta  recovered  the  jxjwer  to  concentrate  his  thoughts,
+and  observing  the  misery  of  sinful  desire,  he  spoke  the  eighth  stanza  :
+
+Since  blinding  p<i.ssions  yield  a  bitter  fruit,
+All  growth  of  liLst  I  cut  down  to  the  root.
+
+[501]  So  saying  he  asked  the  king's  leave,  and  having  gained  his
+consent  he  entered  liis  hernut  hut,  and  fixing  his  gaze  on  the  mystic  circle
+he  entered  into  a  trance,  and  came  forth  from  the  hut,  and  sitting  cross-
+legged  in  the  air  he  taught  the  king  the  tnie  doctrine  and  Sidd,  "Great
+kin"  I  have  incurred  censure  in  the  midst  of  the  people  by  reason  of  my
+dwel'ling  in  a  place  where  I  ought  not.  But  be  thou  vigilant.  Now  will
+I  return  to  some  forest  free  from  all  taint  of  womankind."  And  anud.st
+the  teai-s  and  lamentations  of  the  king  he  returned  to  the  Himalaya,
+and  without  falling  away  from  mystic  mediUtion  he  entered  the  Brahma
+world.
+
+The  Ma.ster  knowing  the  whole  story  said  :
+
+Thus  Hariti  for  truth  right  stoutly  did  contend.
+And  lust  forsjtking  did  to  Brahma  world  ascend.
+And   having   in  his   Perfect  Wi.sdom  spoken  this  stanza,  he  declared   the
+Truths  and  identified  the  Birth  :-At  the  conclusion  of  the  Truths  the  worldly-
+minded  Brother  attained  to  Sainthood  :-"  At  that  time  the  king  was  Ananda
+Harita  was  myself."
+
+
+298  The  Jataka.     Book  IX.
+
+
+No.  432.
+
+PADAKUSALAMANAVA-JATAKA.
+
+"  0  I'atulii,  1)1/  Uitnge*"  etc—ThxH  story  the  M.ustcr  dwelling  at  Jctiivjiiui  tnUI
+CDiiccrning  a  cei-t^iiu  boy.  lie  wa.s,  they  .>«iy,  the  son  of  ii  hou-sehoMcr  at
+Savrttthi,  just  Hcven  years  old,  and  .skilled  in  recogni/iiig  fi Kjtstep-s.  Now  hi«
+father  l>eing  niindeil  to  prove  him  went  without  hin  knowing  it  to  a  friend's
+hoii.se.  The  boy,  witliout  oven  a-sking  wh.-re  hi.s  father  had  gone,  by  tracing  hin
+footsteps,  came  and  sUmxI  l>efore  him.  So  hi.s  father  one  day  a-sked  hun  siiying,
+"When  1  went  off  without  telling  v*)U,  how  did  you  know  where  I  wjus  gone?"
+[r)()2]  ".My  dear  father,  I  recogni/xtl  your  fiM.t.step.s.  I  am  .>.killeii  in  thi.s  way."
+Then  his  father,  to  prove  him,  went  out  of  his  hou.se  after  the  early  meal,  and
+going  into  his  ne.\t-d<M)r  neighlMMir's  house,  from  it  piLs.s(»d  int4t  another,  and
+from  this  third  house  again  returnetl  to  his  own  home,  and  thence  nja«le  his  way
+to  the  North  gate,  and  iia.ssing  out  by  it  made  a  tinuit  of  the  city  from  right
+to  loft.  And  coming  to  .letavana  \w  salute(l  the  .Miustor  and  sjit  down  t4)  listen
+to  the  Law.  The  lio^  askwl  wh(>re  his  father  was,  anil  when  they  siiid,  "  We  do
+not  know,"  by  tracing  his  father's  steps,  and  st/irting  fri«m  the  next-door
+noighlKiur's  hou.se  he  went  by  the  .sjime  road  by  which  his  father  had  travelled
+to  .Tetivana,  and  after  .s.iluting  the  Mast«^r  stooti  in  the  presence  of  his  fiither,
+and  when  asked  by  him,  how  he  knew  th.it  he  had  come  hero,  he  said,  "1
+rccognize«l  your  footstc|xs  and  followmg  in  your  tnuk  can>e  hither."  The  Miustcr
+lusketl,  "Lay  Hrotlur,  what  arc  you  .saying/"  Me  answcre«l,  "  V'our  Reverence,
+this  boy  is  skilleil  in  knowing  footst«i>s.  To  test  him  I  came  hither  in  such  and
+such  a  manner.  Not  tinding  me  at  home,  by  following  in  my  fcM.tstejKs,  ho
+arrived  here."  "There  is  no  marvel,"  said  the  Master,  "in  recognizing  stepM
+»H)on  the  groinul.  Sagos  of  old  recognized  stei>s  in  the  air,"  anil  on  iKjing  askwi,
+ho  told  a  story  of  the  iMist.
+
+
+Once  upon  a  time  in  the  reign  of  Bnihmadatta,  king  of  Henares,  his
+queen-consort  after  fulling  into  sin  was  questioned  by  the  king,  and  taking
+an  oath  .slio  said,  "  If  I  have  sinned  against  you,  I  shall  become  a  female
+Yakkha  with  a  face  like  a  horse."  After  her  death  she  U'caine  a  horse-faced
+Yakkha  and  dwelt  in  a  rock-cave  in  a  vast  forest  at  the  foot  of  a  mountain,
+and  used  to  Ciitch  and  devour  the  men  that  frc«juented  tlie  road  leading
+from  the  East  to  the  Western  border.  After  serving  Ve-ssavana'  three
+years,  it  is  said,  she  got  leave  to  eat  people  in  a  certain  space,  thirty  leagues
+long  by  five  leagues  broad.  Now  one  day  a  rich,  wealthy,  handsome
+brahmin,  accompanied  by  a  large  suite,  ascended  that  road.  The  Yakkha,
+on  seeing  him,  with  a  loud  laugh  rushed  upon  him,  and  his  attendants  all
+fled.  With  the  .speed  of  the  wind  she  seized  the  brahmin  [.50.3]  and  threw
+him  on  her  back,  and  in  entering  the  cave,  through  coming  into  contact
+with  the  man,  under  the  influence  of  passion  she  conceived  an  afiection
+
+'  The  lord  of  Yakkhas.
+
+
+No.    432.  299
+
+for  him,  and  instead  of  devouring  him  she  made  him  her  husband,  and
+they  lived  harmoniously  together.  And  thenceforth  the  Yakkha  whenever
+she  captured  men,  also  took  their  clothes  and  rice  and  oil  and  the  like,
+and  serving  him  with  various  dainty  food  she  herself  would  eat  man's
+tiesh.  And  whenever  she  went  away,  for  fear  of  his  escaping,  she  closed
+the  mouth  of  the  cave  with  a  huge  stone  before  leaving.  And  while  they
+were  thus  living  amicably  together,  the  Bodhisatta  passing  from  his  former
+existence  was  conceived  in  the  womb  of  the  Yakkha  by  the  brahmin.
+After  ten  months  she  gave  birth  to  a  son,  and  filled  with  love  for  the
+brahmin  and  her  child,  she  fed  them  both.  By  and  bye  when  the  boy  was
+grown  up,  she  put  him  also  inside  the  cave  with  his  father,  and  closed  the
+door.  Now  one  day  the  Bodhisatta  knowing  she  had  gone  away  removed
+the  stone  and  let  his  father  out.  And  when  she  asked  on  her  return  wIid
+had  removed  the  stone,  he  said,  "  I  did,  mother  :  we  cannot  sit  in  dark-
+ness." And  through  love  for  her  child  .slie  did  not  say  another  word.
+Now  one  day  the  Bodhisatta  asketl  his  father,  saying,  "  Dear  father,  your
+mouth  is  different  from  my  mother's;  what  is  the  reason?"  "My  son,
+your  mother  is  a  Yakkha  and  lives  on  man's  Hesh,  but  you  and  I  are
+men."  "If  so,  why  do  we  live  herel  Come,  we  will  go  to  the  haunts  of
+men."  "My  dear  boy,  if  we  shall  try  to  escape,  your  mother  will  kill  us
+both."  The  Bodhisatta  rea.ssurod  his  father  and  said,  •'  Do  not  be  afraid,
+dear  father ;  that  you  shall  return  to  the  haunts  of  men  shall  be  my
+charge."  And  next  day  when  his  mother  had  gone  away,  he  took  his
+father  and  fled.  When  the  Yakkha  returned  and  missed  them,  she  rushed
+forward  witli  the  swiftness  of  the  wind  and  caught  them  and  said,  "  O
+brahmin,  why  do  you  run  away?  Is  there  anything  that  you  want  here?"
+"  My  dear,"  he  .said,  "do  not  be  angry  witli  me.  [504J  Your  son  carried
+me  oft"  with  him."  And  without  another  word,  owing  to  her  love  for  her
+child,  she  comforted  them  and  making  for  her  place  of  abode  she  brought
+them  back  after  a  flight  of  .some  days.  The  Bodhisatta  thought,  "  My
+mother  must  have  a  limited  sphere  of  action.  Suppose  I  were  to  ask  her
+the  limits  of  space  over  which  her  authority  extends.  Then  I  will  escape
+by  going  beyond  this."  So  one  day  sitting  respectfully  near  his  mother  he
+said,  "  My  dear,  that  which  belongs  to  a  mother  comes  to  the  children ;
+tell  me  now  what  is  the  l)oundaiy  of  our  ground."  She  t<jld  liim  all  the
+landmarks,  mountains  and  such  like  in  all  direction.s,  and  pointed  out  to
+her  son  the  space,  thirty  leagues  long  and  five  leagues  broad,  and  said,
+"  Consider  it  to  be  so  mtich,  my  .son."  After  the  lapse  of  two  or  three
+days,  when  his  mother  had  gone  to  the  forest,  he  put  his  father  on  his
+shoulder  and  i-ushing  on  with  the  swiftness  of  the  wind,  by  the  hint  given
+him  by  his  mother,  he  reached  the  bank  of  the  river  that  was  the  limit.
+The  mother  too,  when  on  her  return  she  missed  them,  pursued  after  them.
+The  BodhLsatta  carried  his  father  into  the  middle  of  the  river,  and  she
+
+
+800  The  Jataka.     Book  IX
+
+
+oame  auU  stood  on  the  river  bank,  ami  wlu'U  she  saw  tliat  they  had  passed
+heyoiul  th(!  liinits  of  her  splu-re,  she  .stopped  where  aXw  was,  and  cried,
+"  My  dear  child,  come  here  witli  your  father.  Wliat  is  my  oH'ence  (  In
+what  respect  do  not  thingH  go  well  with  you  \  Come  back,  my  lord."
+Thu.s  did  she  lie.scech  her  chihl  and  liusband.  So  the  brahmin  cros.sed  the
+river.  She  prayed  to  her  child  also,  and  said,  "  Dear  son,  do  not  act  alter
+this  sort :  come  back  again."  "  Mother,  we  are  men  :  you  are  a  Yakkha.
+We  cannot  always  abide  with  you."  *'  And  will  you  not  return  ?"  "  No,
+mother."  "  TIkju  if  you  refuse  to  return — as  it  is  jjuinful  to  live  in  the
+world  of  m(!n,  and  they  who  know  not  any  craft  cannot  live — I  am  skilled
+in  the  lore  of  the  philosopher's  stone  :  by  its  power,  one  can  follow  after
+the  lap.se  of  twelve  years  in  the  steps  of  those  that  have  gone  away.  This
+will  prove  a  livelihood  to  you.  Take,  my  child,  this  invaluable  charm,"
+And  though  overcomes  by  such  great  sorrow,  through  love  of  her  child,  she
+gavn  him  the  charm.  [r)Oij]  The  Bodhisatttt,  still  standing  in  the  river,
+folded  his  liamls  tortoise-wise  and  took  the  charm,  and  saluting  his  motlier
+cried,  "  (Jood-l)ye,  moth«a-."  The  Yakkha  saiil,  "  If  you  do  not  return,  my
+son,  1  cannot  live,  "  and  she  smote  upon  her  breast,  and  straightway  in
+sorrow  for  her  son  her  he.irt  was  i>roken  and  she  fell  down  dead  on  the
+spot.  The  Bodhisatta,  when  he  knew  hia  mother  was  dead,  called  to  his
+father  and  went  and  made  a  funeral  pile  and  Inirnetl  lier  bo<ly.  Aft«'r
+extinguishing  the  flames,  he  made  offerings  of  various  coloured  flowers,
+and  with  weeping  and  lamentation  returned  with  his  father  to  Benares.
+
+It  was  told  the  king,  "  A  youth  skilled  in  tracking  footst«!ps  is  stiinding
+at  tlu!  door."  And  when  the  king  bade  him  enter,  he  came  in  and  saluted
+the  king.  "My  friend,"  he  said,  "do  you  know  any  craft?"  "My  lord,
+following  on  the  track  of  one  who  has  stolen  any  property  twelve  years
+ago,  I  can  catch  him."  "  Then  enter  my  service,"  said  the  king.  "  I  will
+serve  you  for  a  thousand  pieces  of  money  daily."  "  Very  well,  friend,
+you  shall  serve  me."  And  the  king  had  him  paid  a  thousand  pieces  of
+money  daily.  Now  one  day  the  family  priest  said  to  the  king,  •'  My  lord,
+because  this  youth  does  nothing  by  the  power  of  his  art,  we  do  not  know
+whether  he  has  any  skill  or  not:  we  will  now  test  liim."  The  king
+readily  agreed,  and  the  pair  gave  notice  to  the  keepei-s  of  the  various
+treasures,  and  taking  the  most  valuable  jewels  descended  from  the  terrace,
+and  after  groping  their  way  three  times  round  the  palace,  they  placed  a
+ladder  on  the  top  of  the  wall  and  by  means  of  it  descended  to  the  outside.
+Then  they  entered  the  Hall  of  Justice,  and  after  sitting  there  they  returned
+and  again  placing  the  ladder  on  the  wall  descended  by  it  into  the  city.
+Coming  to  the  edge  of  a  tank  they  thrice  marched  solemnly  round  it,  and
+then  dropped  their  treasure  in  the  tank,  and  climbed  back  to  the  terrace.
+[506]  Next  day  there  was  a  great  outcry  and  men  said,  "Treasure  has
+been  stolen  from  the  palace."     The  king  pretending  ignorance  summoned
+
+
+No.  432.  301
+
+the  Bodhisatta  and  said,  "  Friend,  much  valuable  treasure  has  been  stolen
+from  the  ])alace :  we  must  trace  it."  "  My  lord,  for  one  who  is  able  to
+follow  the  traces  of  robbers  and  recover  treasure  stolen  twelve  years  ago,
+there  is  nothing  marvellous  in  his  recovering  stolen  property  after  a  single
+day  and  night.  I  will  recover  it;  do  not  be  troubled."  "Then  recover
+it,  friend."  "Very  well,  my  lord,"  he  said,  and  went  and  saluting  his
+mother's  memory  he  repeated  the  spell,  still  standing  on  the  terrace,  and
+said,  "  My  lord,  the  steps  of  two  thieves  are  to  be  seen."  And  following
+in  the  steps  of  the  king  and  the  priest  he  entered  the  royal  clo.set,  and
+issuing  thence  he  descended  from  the  terrace,  and  after  thrice  making  a
+circuit  of  the  palace  he  drew  neai-  the  wall.  Standing  on  it  he  said,  "  My
+lord,  starting  in  this  place  from  the  wall  I  see  footsteps  in  the  air :  bring
+me  a  ladder."  And  having  had  a  ladder  placed  for  him  against  the  wall,
+he  descended  Ijy  it,  and  still  following  in  their  track  he  came  to  the  Hall
+of  Jiistice.  Then  returning  to  the  palace  he  had  the  ladder  planted
+against  the  wall,  and  descending  by  it  he  came  to  the  tank.  After  thrice
+marching  round  it  he  said,  "My  lord,  the  thieves  went  down  into  this
+tank,"  and  taking  out  the  treasure,  as  if  he  had  deposited  it  there  himself,
+he  gave  it  to  the  king  and  said,  "My  lord,  these  two  thieves  are  men  of
+distinction  :  by  this  way  they  climbed  up  into  the  palace."  The  people
+snapped  their  fingers  in  a  high  state  of  delight,  and  there  was  a  great
+waving  of  cloths.  The  king  thought,  "This  youth,  methinks,  by  following
+in  their  steps  knows  the  |)lace  where  the  thieves  put  the  treasure,  but  the
+thieves  he  cannot  catch."  Tlien  he  said,  "  You  at  once  brought  us  the
+property  carried  oti"  by  the  thieves,  but  will  you  be  able  to  catch  the
+thieves  and  bring  them  to  us?"  "My  lord,  the  thieves  are  here:  they
+are  not  far  off."  [-jOT]  "  Who  are  they  1 "  "Great  king,  let  any  one  that
+likes  be  the  thief.  From  the  time  you  recovered  your  treasure,  why
+should  you  want  the  thieves  1  Do  not  ask  about  that."  "  Friend,  I  pay
+you  daily  a  thousand  pieces  of  money:  bring  the  thieves  to  me."  "Sire,
+when  the  treasure  is  recovered,  what  need  of  the  thieves'?"  "It  is  better,
+friend,  for  us  to  catch  the  thieves  than  to  recover  the  treasure."  "  Then,
+sire,  I  will  not  tell  you,  'So  and  so  are  the  thieves,'  but  I  will  tell  you  a
+thing  that  happened  long  ago.  If  you  ai'e  wise,  you  will  know  what  it
+means."     And  herewith  he  told  an  old  tale.
+
+Once  upon  a  time,  sire,  a  certain  dancer  named  Patala  lived  not  far
+from  Benares,  in  a  village  on  the  river's  bank.  One  day  he  went  into
+Benares  with  his  wife  and  after  gaining  money  by  his  singing  and  dancing,
+at  the  end  of  the  fete  he  procured  some  rice  and  strong  drink.  On  his
+way  to  his  own  village  he  came  to  the  bank  of  the  river,  and  sat  down
+watching  the  freshly  flowing  stream,  to  drink  his  strong  drink.  When
+he  was  drunk  and  unconscious  of  his  weakness,  he  said,  "  I  will  fasten  my
+big  lute  about  my  neck  and  go  down  into  the  river."     And   he  took   his
+
+
+302  TJw  Jataht.      linnl-   /A'.
+
+wife  by  tlic  Imiul  ami  wmt  down  into  tin-  river.     The  water  entered  into
+
+the.  holes  ut'  the  lute,  uud  then  the  wei<^ht  o(  his  lute  uiude  liiiii  hej^u  to
+
+sink.      But  when  IiIh  wife  suw  he  waa  Hinkin^,  she  let  go  of  hiiu  and  went
+
+up  out  of  the   liver  and  stood   iijjon  the  liunk.     The  dancer  Patala  now
+
+rises  and   now   sinks,   and   his   Welly  heeaine  swollen   from   swallowing  the
+
+water.      So  his   wife  thought,  "My  hushand  will   now  die:    I    will   U-g  of
+
+him  one  song,  and  by  singing  this  in  th(>  midst  of  the  people,  1  shall  earn
+
+my  living."     And  saying,  "  My  lord,  you  are  sinking  in  tin;  water  :    give
+
+me  just    one    song,    and    I    will   earn    my    living    by    it,"   she    spuke    tliis
+
+stanza  :
+
+[508]  O   PuVvla,  by  Ganges  swept  away,
+
+Famous  in  dance  and  skilled  in  roundelay,
+IVitala,  all  hail  I    as  thou  art  lM>rne  along,
+Sing  me,   I   pray,  some  little  snatch  of  .S4)ng.
+
+Then  the  dancer  Patala  said,  "  My  dear,  how  shall  I  give  yon  a  little
+song?  The  water  that  has  been  the  wilvatiou  of  the  people  is  killing  me,"
+and  he  spoke  a  stanza  :
+
+Wherewith  ivro  sprinkled  fainting  souls  in  [mu,
+I  straight  am  killed.     My  refuge  pr«)t'od  my  banc.
+
+The  Bodhi.satta  in  explanation  of  this  stanza  said  :  **  Sire,  (!ven  as
+watt'r  is  tlu;  refuge  of  the  people,  so  also  is  it  with  kings.  If  danger  arises
+from  them,  who  shall  avert  that  danger)  This,  sire,  is  a  secret  matter.
+I  have  told  a  story  intelligible  to  the  wise  :  understand  it,  sire."  "Friend,
+1  undi'i"stand  not  a  hidden  story  like  this.  Catch  the  thieves  and  bring
+them  to  me."  Then  the  Bodhisatta  said,  "Hear  then  this,  sire,  and  under-
+stand."    And  h(>  told  yt>t  another  tale.
+
+"My  lord,  formerly  in  a  village  outside  the  city  gatos  of  Benares,  a
+
+potter  used  to  fetch  clay  for  his  pottery,  and  constantly  getting  it  in  the
+
+same  place  he  dug  a  deep  pit  inside  a  mountain-eave.      Now  one  day  while
+
+he  was  getting  the  clay,  an   unseasonable  storm-cloud  sprang  up,  and   let
+
+fall  a  heavy  rain,  and  the  Hoo«l  overwhelmed  and  thi-ew  down  the  side  of
+
+the  pit,  and  tlie  man's  heafl  was  broken  by  it.     Loudly  lamenting  he  8i>oke
+
+this  stanza :
+
+That  by  which  seeds  do  grow,  man  to  sustain,
+Has  cnished  my  head.     My  refuge  proved  my  Iwine.
+
+"  For  even  as  the  mighty  earth,  sire,  which  is  the  refuge  of  the  people,
+broke  the  potter's  head,  even  so  when  a  king,  who  like  the  mighty  earth  is
+the  refuge  of  the  whole  world,  rises  up  and  plays  the  thief,  who  shall  avert
+the  danger]  Can  you,  sire,  [509]  recognize  the  thief. hidden  under  the
+guise  of  this  story?"  "Friend,  we  do  not  want  any  hidden  meaning.
+Say,  '  Here  is  the  thief,'  and  catch  him  and  hand  him  over  to  me."
+
+Still  shielding  the  king  and  without  saying  in  words,  "Thou  art  the
+thief,"  he  told  yet  another  story.
+
+
+No.  432.  303
+
+In  this  very  city,  sire,  a  certain  man's  house  was  on  fire.  He  ordered
+another  man  to  go  into  the  house  and  bring  out  his  property.  When
+this  man  had  entered  the  house  and  was  bringing  out  his  goods,  the
+door  was  shut.  Blinded  with  smoke  and  unable  to  find  his  way  out  and
+tormented  by  the  rising  flame,  he  remained  inside  lamenting,  and  spoke
+this  stanza :
+
+That  which  destroys  the  cold,  and  parches  grain,
+Consumes  my  limbs.     My  refiige  proves  my  bane.
+
+"  A  man,  O  king,  who  like  fire  was  the  refuge  of  the  people,  stole  the
+bundle  of  jewels.  Do  not  ask  me  about  the  thief."  "  Friend,  just  bring
+me  the  thief."  Without  telling  the  king  that  he  wa.s  a  thief,  he  told  yet
+another  story.
+
+Once,  sire,  in  this  very  city  a  man  ate  to  excess  and  was  unable  to
+digest  his  food.  Maddened  with  [)ain  and  lamenting  he  spoke  this
+stanza  :
+
+Food  on  which  countless  brahmins  life  sustain
+Killed  me  outright.     My  refuge  proved  my  bane.
+
+"  One,  who  like  rice,  sire,  was  the  refuge  of  the  people,  stole  the
+property.  When  that  is  recovered,  why  ask  about  the  thief?"  "  Friend,
+if  you  can,  bring  me  the  thief."  To  make  the  king  comprehend,  he  told
+yet  another  story.
+
+[olO]  Formerly,  sire,  in  this  very  city  a  wind  arose  anil  broke  a  cei-tain
+man's  limb.s.     lamenting  he  spoke  this  stanza  :
+
+Wind  that  in  June  wise  men  by  prayer  would  gain,
+My  limbs  doth  bi-c;ik.     My  refuge  proved  my  bane.
+
+"Thus,  sire,  did  danger  arise  from  my  refuge.  Understand  this  story."
+**  Friend,  bring  me  the  thief"  To  make  the  king  undei-stand,  he  told  him
+yet  another  story.
+
+Once  uj)on  a  time,  sii-e,  on  the  side  of  the  Himalayas  grew  a  tree  with
+forked  branches,  the  dwelling-place  of  countless  birds.  Two  of  its  boughs
+rubbed  against  one  another.  Hence  arose  smoke,  and  sparks  of  fire  were
+let  fall.     On  seeing  this  the  chief  bird  uttered  this  stanza  :
+
+Flame  issues  from  the  tree  where  we  have  lain  :
+Scatter,  ye  birtls.     Our  refuge  proves  our  banc.
+
+"  For  just  as,  sire,  the  tree  is  the  refuge  of  birds,  so  is  the  king  the
+refuge  of  his  peoj)le.  Should  he  play  the  thief,  who  shall  avert  the
+danger?  Take  note  of  thi.s,  sire."  "Friend,  only  bring  me  the  thief."
+Then  he  told  the  king  yet  another  story.
+
+In  a  village  of  Benares,  sire,  on  the  western  side  of  a  gentleman's
+house  was  a  river  full  of  savage  crocodiles,  and  in  tliis  family  was  an  only
+son,  who  on  the  death  of  his  father  watched  over  his  mother.  His  mother
+against  his  will  brought  home  a  gentleman's  daughter  as  his   wife.      At
+
+
+304  Thr  Jiltdhi.      Book  IX.
+
+first  she  showed  affection  for  her  mother  in  law,  l)ut  afterwards  when  blest
+with  numerous  sons  and  dau^'htcrs  of  her  own,  slie  wished  to  get  rid  of
+her.  Her  own  mother  also  lived  in  the  same  house.  In  her  husband's
+presence  she  found  all  manner  of  fault  with  her  mother-in-law,  to  prejudice
+him  against  her,  saying,  "  I  cannot  possibly  support  your  mother  :  you
+must  kill  her."  [•'jH]  And  when  he  answered,  "Murder  is  a  serious
+matter :  how  am  I  to  kill  her  ?  "  she  said,  "  When  she  has  fallen  asleep,
+we  will  take  her,  b«'d  and  all,  and  throw  her  into  the  crocoilile  river.
+Then  the  croc<xliles  will  make  an  end  of  her."  "  And  where  is  your
+mother  1 "  he  Maid.  "  She  sleeps  in  the  same  room  as  your  niother."
+"Then  go  and  set  a  mark  on  the  bed  on  which  she  lies,  by  fastening  a
+rope  on  it."  She  did  so,  and  said,  "I  have  put  a  mark  on  it."  The
+husband  said,  "  Excuse  me  a  moment ;  let  the  people  go  to  bed  first."
+And  he  lay  down  pretending  to  go  to  sleep,  and  then  went  and  fastened
+the  rope  on  his  mother-in-law's  bed.  Then  he  woke  his  wife,  and  they
+went  together  and  lifting  her  up,  bed  and  all,  threw  her  into  the  river.
+And  the  crocotliles  there  killed  and  ate  her.  Next  day  she  found  out
+what  had  happened  to  her  own  mother  and  8ai<l,  "  My  lord,  my  mother  is
+dead,  now  let  us  kill  yours."  "  Very  well  then,"  he  .said,  "we  will  make
+a  funeral  pile  in  the  cemetery,  and  cast  her  into  the  fire  and  kill  her."  So
+the  man  and  his  wife  took  her  while  she  was  asleep  to  the  cemetery,  and
+deposited  her  there.  Then  the  husband  .said  to  his  wife,  "  Have  you
+brought  auy  fire  ?  "  "I  have  torgotten  it,  my  lord."  "  Then  go  and  fetch  it."
+"  I  dare  not  go,  my  lord,  and  if  you  go,  I  dare  not  .stay  here:  we  will  go
+together."  When  they  were  gone,  the  olil  wonuin  was  awakened  by  the
+eold  wind,  ;uitl  linding  it  was  a  cemetery,  she  thought,  "They  wish  to  kill
+me  :  tliev  an;  gone  to  fetch  fire.  They  do  not  know  how  strong  I  am."
+And  she  stretched  a  corpse  on  the  bed  and  covered  it  over  with  a  cloth,
+and  ran  away  and  hid  hei-self  in  a  mountain  cave  in  that  same  place.  The
+husband  and  wife  brought  the  fire  and  taking  the  corp.se  to  be  the  old
+woman  they  burned  it  and  went  away.  A  certain  robber  had  left  his
+bundle  in  this  mountain  cave  and  coming  back  to  fetch  it  he  saw  the  old
+woman  and  thought,  "  This  must  be  a  Yakkha :  my  bundle  is  po8.ses.sed  by
+goblins,"  and  he  fetched  a  devil-doctor.  The  doctor  uttered  a  f>,\w\\  and
+entered  the  cave.  Then  she  said  to  him,  "  I  am  no  Yakkha  :  come,  we
+will  enjoy  this  treasure  together."  "  How  is  this  to  be  believed  1 "  "  Place
+your  tongue  on  my  tongue."  He  did  so,  and  .she  bit  a  jnece  off  his  tongue
+and  let  it  drop  to  the  gi-ound.  The  devil-doctor  thought,  "  Tliis  is  certainly
+a  Yakkha,"  and  he  cried  aloud  and  fled  away,  with  the  blood  dripping
+from  his  tongue.  [512]  Next  day  the  old  woman  put  on  a  clean  under-
+garment and  took  the  bundle  of  all  sorts  of  jewels  and  went  home.  The
+daughter-in-law  on  seeing  her  asked,  "  Where,  mother,  did  you  get  this  ?  "
+"My  dear,  all  that  are  burned  on  a  wooden  pile  in  this  cemetery  receive
+
+
+No.   432.  305
+
+the  same."  "My  dear  mother,  can  I  too  get  this?"  "If  you  become
+like  me,  you  will."  So  without  saying  a  word  to  her  husband,  in  her
+desire  for  a  lot  of  ornaments  to  wear,  she  went  there  and  burned  herself.
+Her  husl)and  next  day  missed  her  and  said,  "  My  dear  mother,  at  this  time
+of  day  is  not  your  daughter-in  law  coming  ? "  Then  she  reproached  him
+saying,  "  Fie  !  you  bad  man,  how  do  the  doad  come  back  ? "  And  she
+uttered  this  stanza  :
+
+A  maiden  fair,  with  wreath  upon  her  head,
+
+Fragi-ant  with  sandal  oil,  by  me  was  led
+
+A  happy  l^ride  within  my  home  to  reign  :
+
+Sbe  drove  me  forth.     My  refugo  proved  my  bano.
+
+"  As  tlu'  daughter-in-law,  sire,  is  to  the  mother-in-law,  so  is  the  king  a
+refuge  to  his  i)eopIe.  If  danger  ari.ses  thence,  what  can  one  do?  take
+note  of  this,  sire."  "Friend,  I  do  not  undei-stand  the  things  you  tell  me:
+oidy  bring  me  the  thief."  He  thought,  "I  will  shield  the  king,"  and  he
+told  yet  another  .story.
+
+Of  old,  .sire,  in  thi.s  very  city  a  man  in  answer  to  his  prayer  had  a  .son.
+At  his  birth  the  father  was  full  of  joy  and  gladness  at  the  thought  of
+having  got  a  son,  and  cherished  liim.  When  the  boy  was  grown  up,  Ik^
+wedded  him  to  a  wife,  and  by  and  byt-  he  himself  grew  old  and  could  not
+undertake  any  work.  So  his  son  said,  "  You  cannot  do  any  work  :  you
+nnist  go  from  hence,"  and  he  drove  him  out  of  the  house.  [•'>13]  With
+great  difficulty  he  kept  himself  alive  on  alms,  and  lamenting  he  uttered
+this  stanza  :
+
+lie  for  whose  l>irth   I   longed,  nor  longed  in  vain.
+Drives  me  from  home.     My  refuge  |)rov(Kl  my  bane.
+
+"Just  as  an  aged  father,  sire,  ought  to  be  cared  fui-  liy  an  able-bodied
+son,  so  too  ought  all  the  people  to  be  protected  l>y  the  king,  and  this
+danger  now  present  has  ari.sen  from  the  king,  who  is  the  guardian  of  all
+men.  Know,  sire,  from  this  fact  that  the  thief  is  .so  and  so."  "I  do  not
+understand  this,  be  it  fact  or  no  fact :  either  bring  me  the  thief,  or  you
+yourself  must  be  the  thief."  Thus  did  the  king  again  and  again  question
+the  youth.  So  he  .said  to  him,  "  Would  you,  .sire,  really  like  the  thief  to
+be  caught?"  "  Ye.s,  friend."  "Then  I  will  proclaim  it  in  the  midst  of
+the  a.ssembly.  So  and  So  is  the  thief"  "Do  so,  friend."  On  hearing  his
+words  he  thought,  "This  king  does  not  allow  me  to  shield  him  :  I  will
+now  catch  the  thief."  And  when  the  people  had  gathered  together,  he
+addres.sed  them  and  spoke  these  stanzas  :
+
+Let  town  and  country  folk  a.s.sembled  all  give  ear,
+
+Lo  I    water  is  ablaze.     From  .sjifety  cometh  fear.
+
+The  plundered  realm  may  well  of  king  and  priest  complain  ;
+
+Henceforth  protect  yourselves.     Your  refuge  proves  your  banc.
+
+J.  III.  20
+
+
+306  TJu'  Jiltuh,.     IU>(,k  IX.
+
+
+[514]    When  they  heard  what  he  said,  ])eopIe  thought,  "The  king,
+
+thou<^h  he  ou}^ht  to  have  protected  others,  threw  the  blame  on  another.
+After  ho  had  with  his  own  hands  phiced  his  treasure  in  the  tank,  h<'  wr-nt
+about  looking  for  the  thief.  That  he  may  not  in  futurt;  go  on  playing  tin*
+part  of  a  thief,  we  will  kill  this  wicked  king."  So  they  rose  up  with
+sticks  and  clubs  in  their  hands,  and  then  and  there  beat  the  king  and  the
+priest  till  they  died.  But  tlu-y  anointed  the  B<j<lhi.satta  and  set  him  on
+the  throne.
+
+
+The  Master,  after  relating  thi.s  story  to  illustrate  the  Truths,  said,  "Lay
+Brother,  there  is  notliins;  niarvollous  in  recotrnizing  footsteps  on  the  earth  :  sages
+of  old  recopiii/»'d  tlieiii  in  tlio  air,"  and  he  idoiititied  tho  Hirtli:  — At  the  oni-
+clnsioii  of  the  Truths  the  lay  I'mther  and  his  son  atUiiiied  to  fruition  of  the
+First  Path:— "In  tho.se  days  the  father  was  Ka.s.sapa,  the  youth  skilled  in  foot-
+steps was  myself."
+
+
+No.  433.
+
+
+LOMASAKASSAPA-JATAKA.
+
+".4  king  like  Itidra,"  etc. — This  story  the  Ma,ster  dwelling  at  Jetavana  told
+concerning  a  worldly-minded  Brother.  The  Master  a.sked  him  if  he  were  longing
+for  tlie  world,  and  when  lif  admitted  that  it  wius  so,  the  M.uster  said,  "  Brother,
+even  men  of  the  highest  fame  sometimes  incur  infamy.  Sins  like  these  defile
+even  pure  beings  ;  nuich  more  one  like  you."  And  then  he  told  a  story  of  the
+past.
+
+
+Once  upon  a  time  prince  Brahmadatta,  son  of  Brahmadatta  king  of
+Benares,  and  the  son  of  his  family  priest  named  Kassapa  [^15],  were
+schoolmates  and  learned  all  the  sciences  in  the  house  of  the  same  teacher.
+By  and  bye  the  young  prince  on  his  father's  death  was  established  in  the
+kingdom.  Kassapa  thought,  "  My  friend  has  become  king :  he  will
+bestow  great  power  on  me :  what  have  I  to  do  with  power  ?  I  will  take
+leave  of  the  king  and  my  parents,  and  become  an  ascetic."  So  he  went
+into  the  Himalayas  and  adopted  the  religious  life,  and  on  the  seventh  day  he
+entered  on  the  Faculties  and  Attainments,  and  gained  his  living  by  what
+he  gleaned  in  the  fields.  And  men  nicknamed  the  ascetic  Lomasaka.ssapa
+(Hairy   Kassapa).     With  his   senses   mortified    he  became  an  ascetic  of
+
+
+No.  433.  307
+
+grim  austerity.  And  by  virtue  of  his  austerity  the  abode  of  Sakka  was
+shaken.  Sakka,  reflecting  on  the  cause,  observed  liim  and  thought,  "This
+ascetic,  by  the  exceedingly  fierce  fire  of  liis  virtue,  would  make  me  fall
+even  from  the  abode  of  Sakka.  After  a  secret  interview  with  the  king  of
+Benares,  I  will  break  down  his  austerity."  By  the  power  of  a  Sakka  he
+entered  the  royal  closet  of  the  king  of  Benares  at  midnight  and  illuminated
+all  the  chamber  with  the  radiance  of  his  form,  and  standing  in  the  air
+before  the  king  he  woke  him  up  and  said,  "  Sire,  arise,"  and  when  the
+king  asked,  "  Who  are  you  ?"  he  answered,  "  I  am  Sakka."  "  Wherefore
+ai-e  you  come?"  "Sire,  do  you  desire  or  not  sole  rule  in  all  India?"
+"Of  course  I  do."  So  Sakka  said,  "Then  bring  ]joraasaka.s.sapa  here  and
+bid  him  offer  a  sacrifice  of  slain  beasts,  and  you  shall  become,  like  Sakka,
+exempt  from  old  age  and  death,  and  exercise  rule  throughout  all  India,"
+and  he  repeated  the  first  stanza  :
+
+A  king  like  Indra  thou  shalt  Ijc,
+Ne'er  doomed  old  age  or  death  to  .see,
+Should  Kas-sapa  by  thy  advice
+Ofler  a  living  .sacrifice.
+
+On  hearing  his  words  the  king  readily  assented.  Sakka  said,  "  Then
+make  no  delay,"  and  .so  departed.  [-^10]  Next  day  the  king  summoned  a
+councillor  named  Sayha  and  said,  "Good  sir,  go  to  my  dear  friend  Lomasa-
+kas.sapa  and  in  my  name  speak  thus  to  him  :  '  The  king  by  persuading  you
+to  offer  a  sacrifice  will  become  sole  ruler  in  all  India,  and  he  will  grant
+you  as  much  land  as  you  desire  :  come  with  me  to  oft'er  sacrifice '."  He
+answered,  "  Very  well,  sire,"  and  made  proclamation  by  beat  of  drum  to
+learn  the  place  where  the  a.scetic  dwelt,  and  when  a  certain  forester  said,
+"  I  know,"  Sayha  went  there  under  his  guidance  with  a  large  following,
+and  saluting  the  sage  sat  respectfully  on  one  side  and  delivered  his  message.
+Then  he  said  to  him,  "Sayha,  what  is  this  you  say?"  and  refusing  him  lie
+spoke  these  four  stanziis  :
+
+'No  island  realm,  .safe-guarded  in  the  .sea.
+Shall  tempt  me,  Sayha,  to  this  cruelty.
+
+A  curse  uixin  the  lust  of  fame  and  gain.
+Whence  .spring  the  sins  that  lead  to  endles.s  pain.
+
+IJetter,  as  homeless  waif,  to  beg  one's  Vjread
+Than  by  a  crime  bring  shame  uix)ii  my  heatl.
+
+Yea  better,  bowl  in  hand,  to  flee  from  sin
+Than  by  such  cruelty  a  kingdom  win.
+
+The  councillor,  after  hesiring  what  he  .said,  went  and  told  the  king.
+Thought  the  king,  "Should  he  refuse  to  come,  what  can  I  do?"  and  kept
+silent.     [517]    But  Sakka  at  midnight  came  and  stood  in  the  air  and  said,
+
+'  These  stanzas  occur  in  No.  310  supra,  in  a  different  context.
+
+20—2
+
+
+308  The  Jataka.     Book  IX.
+
+
+"Why,  sire,  do  you  not  send  for  Lomasakassapa  and  Viid  liim  offer  sacri-
+fice?" "When  he  is  sent  for,  he  refuses  to  come."  "Sire,  adorn  your
+daughter,  princess  Candavatl,  and  send  her  by  the  hand  of  Say  ha  and  l)id
+liiiii  say,  '  If  you  will  come  and  offer  sacrifice,  the  king  will  give  you  this
+maideu  to  wife.'  Clearly  he  will  be  .struck  with  love  of  the  maiden  and
+will  come."  The  king  readily  agreed,  and  next  day  sent  his  daughter  by
+the  hand  of  Sayha.  Sayha  took  the  king's  daughter  and  went  there,  and
+after  the  usual  salutation  and  compliments  to  the  sage,  he  presented  to
+liim  the  princ(!s.s,  as  lovely  as  a  celestial  nymph,  and  stood  at  a  respectful
+distance.  The  ascetic  losing  his  moral  sense  looked  at  her,  an<l  with  the
+mere  look  he  fell  away  from  meditation.  The  councillor  seeing  that  he
+was  smitten  with  love  said,  "Your  Reverence,  if  you  will  oH'er  sacrifice,
+the  king  will  give  you  this  maiden  to  wife."  He  trembled  with  the  power
+of  passion  and  said,  "Will  he  surely  give  her  to  me?"  "Yes,  if  you  offer
+sacrifice,  he  will."  "Very  well,"  he  said,  "If  I  get  her,  I  will  sacrifice,"
+and  taking  her  with  him,  just  as  he  was,  a.scetic  locks  and  all,  he  mounted
+a  splendid  chariot  and  went  to  Benares.  But  the  king,  as  soon  as  he
+heard  he  was  certjiinly  coming,  prei)ared  for  the  ceremony  in  the  .sacrificial
+pit.  So  when  he  saw  that  he  was  come,  he  said,  "If  you  offer  .sacrifice,  I
+shall  become  eipial  to  Indra,  and  when  the  .sacrifice  is  completed,  I  will
+give  you  my  daughter,"  Ka.s.sapa  readily  ii.s.sented.  So  the  king  next  day
+went  with  Candavatl  to  the  sacrificial  pit.  Theie  all  four-footed  beasts,
+elephants,  horses,  bulls  and  the  rest  were  placed  in  a  line.  Ka.s.sapa
+essayed  to  offer  sacriBce  by  killing  and  slaying  tluun  all.  Then  the  people
+that  were  gathered  together  there  said,  [rilS]  "This  is  not  proper  or
+befitting  you,  Loma.sakassapa  :  why  do  you  act  thus'?"  And  lamenting
+they  uttei-ed  two  stanzas  :
+
+Both  sun  and  moon  bc.ir  potent  sway.
+And  tides  no  power  on  earth  can  stay.
+Brahmins  and  priests  almighty  are.
+But  womankina  is  mightier  far.
+
+E'en  so  Candavatl  did  win
+Grim  Ka.s.sapa  to  deadly  sin.
+And  urged  him  by  her  sire's  device
+To  offer  living  sacrifice'.
+
+At  this  moment  Kassapa,  to  offer  sacrifice,  lifted  up  his  precious  sword
+to  strike  the  royal  elephant  on  the  neck.  The  elephant  at  the  sight  of  the
+sword,  terrified  with  the  fear  of  death,  uttered  a  loud  cry.  On  hearing  his
+cry  the  other  beasts  too,  elephants,  horses,  and  bulls  through  fear  of  death
+uttered  loud  cries,  and  the  people  also  cried  aloud.  Kassapa,  on  hearing
+these  loud  cries,  grew  excited  and  refiected  on  his  matted  hair.  Then  he
+became  conscious  of  matted  locks  and  beard,  and  the  hair  upon  his  body
+
+1  See  Weber,  Ind.  Stud.  x.  348.
+
+
+No.   433.  309
+
+and  breast.  Full  of  remorse  he  cx'ied,  "  Alas  !  I  have  done  a  sinful  deed,
+unbecoming  my  character,"  and  showing  his  emotion  he  spoke  the  eighth
+stanza  :
+
+[519]  This  cruel  act  is  of  desire  the  fruit ;
+
+The  growth  of  lust  I'll  cut  down  to  the  root.
+
+Then  the  king  said,  "  Friend,  fear  not :  oflFer  the  sacrifice,  and  I  will
+now  give  you  the  princess  Candavati,  and  my  kingdom  and  a  pile  of  the
+seven  treasures."  On  hearing  this  Kassapa  said,  "Sire,  I  do  not  want
+this  sin  upon  my  soul,"  and  spoke  the  concluding  stanza  :
+
+Curse  on  the  lusts  upon  this  earth  so  rife,
+Better  by  far  than  these  the  ascetic  life  ;
+I  will  foi-saking  sin  a  hermit  be  :
+Keep  thou  thy  rcixlm  and  fair  Candavati.
+
+With  these  words  he  concentrated  his  thoughts  on  the  mystic  object,
+and  recovering  the  lost  idea  sat  cross-legged  in  the  air,  teaching  the  law  to
+the  king,  and,  admonishing  him  to  be  zealous  in  good  works,  he  bade  him
+destroy  the  sacrificial  pit  and  gi-ant  an  amnesty  to  the  people.  And  at
+the  king's  request,  flying  up  into  the  air  he  returned  to  his  own  abode.
+And  as  long  as  he  lived,  he  cultivutetl  the  Brahma  perfections  and  became
+destined  to  birth  in  the  Brahma  world.
+
+
+The  Master  having  ended  his  lesson  revealed  the  Truths  and  identified  the
+Birth: — At  the  conclusion  of  the  Truths  the  worklly-miuded  Brother  attained  to
+Sainthood  : — "In  those  days  the  great  councillor  Say  ha  was  Sariputta,  Lomasa-
+kas.sapa  wa.s  myself. '
+
+
+No.  434.
+
+CAKKAVAKA-JATAKA\
+
+[520]  "  Tina  pair  of  birds"  etc. — This  story  the  blaster  dwelling  at  .letavana
+told  concerning  a  greedy  Brother.  He  Wixs,  it  was  said,  greedy  after  the
+Buddhist  requisites  and  casting  ofl"  all  duties  of  master  and  pastor,  entered
+Sfivatthi  quite  early,  and  after  drinking  excellent  rice-gi-uel  served  with  many  a
+kind  of  solid  food  in  the  house  of  Visakha,  and  after  eating  in  the  daytime  various
+dainties,  paddy,  meat  and  boiled  rice,  not  satisfied  with  this  he  goes  about  thence
+
+'  See  R.  Morris,  Folk-Lore  Journal,  iii.  69.
+
+
+;nO  The   Jiitaku.       liintk     IX.
+
+
+to  the  huiUM)  of  CiilUi-Aii&thupinUiku,  niid  tlio  king  uf  KiMaU,  and  vnriouii  otiiera.
+
+Si»  <>iu!  thiy  H  ili.Hoii.s.sioii  w.im  niistHl  in  tlie  Hull  of  Truth  coiiceriiiiin  hi»*  ijrvviliiieHH.
+Wlieu  the  Muster  hwiiii  what  they  welt;  thscufwiiii;,  ho  Meiit  f<»r  that  lin»ther  aiitt
+iiskfit  hitu  if  it  weru  true  that  he  wils  ^'roetlv.  Ami  when  he  M«id  "  Ve**,"  the
+Muster  uskt'd,  "Why,  Hrother,  are  yi>u  {nvedy  ^  Konnerly  t4X)  tiiroii^^h  your
+groe<liness,  not  beinj,'  siitistit-d  with  the  ilwiu  iMwIics  of  elo|>huntrt,  you  left  lieiiartm
+und,  wunderinj;  ulioiit  im  the  hank  of  the  <  Janges,  enteriil  the  lliniahua  i-ountry."
+And  hereiUMiii  he  told  a  .Ntory  of  the  past.
+
+
+Once  u)>oii  H  time  wlien  BrahnuiduttH  was  reigning  in  BeimreH,  a
+greedy  crow  went  uhout  eating  the  boilies  of  dead  eK'phanU*,  and  not
+HatiKtied  with  them  he  thought,  "  I  will  eat  the  fat  of  Hsh  on  the  hank  of
+the  (ianges,"  and  after  staying  a  few  days  there  eating  dead  fish  he  went
+into  the  Himahiya  and  lived  on  various  kinds  of  wild  fruits.  Coming  to
+a  hirge  lotu.s-tank  ahounding  in  fish  and  turth>s,  he  wiw  there  two  golden-
+colounid  geese  who  lived  on  the  sevala  plant.  He  thought,  "These  hinlH
+are  visry  beautiful  and  well-favoured  :  their  foini  must  Im^  delightful.  I
+will  ask  them  what  it  i.s,  and  by  eating  the  saxwh  I  too  shall  tx'come  golden-
+coloured."  So  ho  went  to  them,  and  aft<>r  the  usual  kindly  gn'etingH  to
+them  as  they  sat  perched  on  the  end  of  a  bough,  he  .x|K»ke  the  fii-st  stanza
+in  connexion  with  their  praises  :
+
+Twin  jMiir  of  liirds  in  yellow  ilrcssoil,
+
+So  joyous  riMiniing  to  and  fro;
+What  kind  of  birds  ilo  men  love  l»o«t  '.
+
+This  is  what   I   am  fain  to  know.
+
+[."»21]  The  ruddy  goose  on  hearing  this  8i>oko  the  s»'Cond  stanzii :
+
+<>  bird,  of  human  kind  tiie  |>c.st,
+W'e  alxive  other  binls  iire  blest.
+All  laiuls  with  our  "devotion'"  ring
+And  men  and  birds  our  prai.scM  sing.
+Know  then  that  ruddy  gfHsnr  arc  we,
+.\iiil  fearless  wander  o'er  the  soi-.
+
+Healing  this  the  crow  spoke  the  third  stiinxa  :
+
+What  fruits  upon  the  scii  alxiund.
+And  whence  may  fiesh  for  gocse  l)c  fountl  t
+Say  on  what  h&ivcnlv  fo<Ki  yc  live,
+Such  Iwauty  and  such  strength  to  give.
+
+[r)22]  Then  the  i  uddy  goose  spoke  the  fourth  stanza  :
+
+No  fruits  are  on  the  s&i  to  ei\t,
+
+And  whence  shouUl  ruddy  geese  have  meiit  ?
+
+vScvala  plant,  stript  of  its  skin.
+
+Yields  fo<xl  without  a  tiint  of  sin.
+
+'  The  ruddy  goose,  in  the  poetry  of  the  Hindus,  is  their  turtle-Jove.     See  WUson's
+Mt'[fli(idut(i,  p.  77.
+
+-  By  the  word  '  sea  '  the  Gaupes  is  here  intended.
+
+
+No.   434.  311
+
+Then  the  crow  spoke  two  stanzas  :
+
+I  like  not,  goose,  the  words  yon  itse :
+I  once  believed  the  focx.!  we  choose
+To  nonrish  lis,  ouglit  to  agi-ee
+With  what  our  outward  form  might  be.
+
+But  now  I  doubt  it,  for  I  eat
+
+Rice,  salt,  and  oil,  and  fruit,  and  meat :
+
+As  heroes  feast  returned  from  hght,
+
+So  1  too  in  good  cheer  delight.
+
+But  though  I  live  on  dainty  fare,
+
+My  looks  with  yours  may  not  compare.
+
+[o23]    Then  the  ruddy  goose  told  the  reason  why  the  crow  failed  to
+
+attain  to  personal  beauty,  while  he  himself  attained  to  it,  and  spoke  the
+
+remaining  stanzas :
+
+Not  siiti-stied  with  fruit,  or  garbage  found
+Within  the  precincts  of  the  charnel  ground.
+The  greedy  crow  pursues  in  wanton  Hight
+The  caHual  prey  that  tempts  his  api)etite.
+But  all  that  thus  shall  work  their  wicked  will,
+And  for  tlieir  plcjusure  harmle.s.s  crc;itures  kill,
+r])braided  by  their  eon.science  pine  away.
+And  see  their  strength  and  comeliness  decay.
+
+So  happy  U'ingH  that  no  civatures  harm
+In  form  gain  vigour  and  in  looks  a  chann.
+For  l>eauty  siuvly  be  it  understootl
+DeiKMids  not  wholly  on  tlic  kiml  of  footl.
+
+[rrli]  Thus  di.l  tlie  ruddy  gor)se  in  many  ways  reproach  the  crow.
+And  the  crow  having  brought  this  reproach  upon  him.self  said,  "I  want
+not  your  U-auty."      Ami  with  a  cry  of  'Caw,  Caw,'  he  tlew  away.
+
+
+The  M*uHt«r,  his  lesson  ended,  revealed  the  Truths  and  identified  the  B'rt}»  •-
+\t  he  conclusion  of  the  Truths  the  greedy  Brother  att.tined  t<.  fruition  of  the
+Secoiid  Vaih:  "  In  those  days  the  crow  was  the  gree<ly  Brother,  the  she-goose
+was  the  mother  of  Hahula,  the  hc-go«se  myself. '
+
+
+No.  435.
+haliddirAga-jataka.
+
+-In  lonesome  forest^  cYc.-This  story  the  M^vstcr  at  Jetavana  told  about  a
+youth  whH^us  tempt^l  hy  a  certain  coarse  n.aiden  The  introductory  story
+"nWU  be  found  in  the  Thirteenth  Book  in  the  CuUananida  birth'.
+
+
+1  No.  477.  Vol.  iv.
+
+
+312  Thi-  Jntnka.      Hook   IX.
+
+
+Now  in  the  uld  leguud  tins  inuiilfii  kiirw-  that  if  the  young  a8C«tio
+should  hrcak  the  niunil  hiw,  he  wouhl  l*r  in  her  ]Mjw*>r,  and  thinking  i*>
+cajole  liini  and  Wring  him  hack  to  the  liauntti  of  men,  she  Haid,  "Virtue
+that  in  8aie-guarded  in  a  forest,  whert?  the  t|ualitieH  of  HOUHe  MUch  uh  beauty
+and  the  like  have  no  exiht^-nce,  docH  not  prove  very  fruitful,  hut  it  hears
+altundant  fruit  in  tlu'  haunts  of  nu.-n,  in  the  iniinediate  prew>nce  of  beauty
+and  the  like.  So  coino  with  nio  and  guard  your  virtue  there.  Wliat  have
+you  to  do  with  a  forest  ? "      And  sin-  uttered  the  firHt  atan/a  :
+
+In  lone.sonie  fore.st  one  may  well  l)e  pure,
+'Ti.s  ojLsy  there  temptation  to  cnduro  ;
+Hut  in  a  villaeo  with  Metluctioii.s  rife,
+A  man  may  nso  to  a  far  nobler  life.
+
+On  hearing  thi.s  tlio  young  OHcetic  sjiid,  "  My  father  is  gone  into  th«'
+forest.  When  lie  retunin,  I  will  ask  his  leave  and  then  aceom|>any  you."
+She  thought,  ]Jyl^>\  "  He  has  a  father,  it  seems  ;  if  he  shouhl  tind  mo  here,
+ho  will  stnke  me  with  the  »uul  of  his  eaiTying-pole  and  kill  me  :  I  must
+be  off  beforehaiul."  So  she  saiil  to  the  youth,  "  I  will  .start  on  the  road
+before  you,  and  leave  a  trail  behind  nu-  :  you  are  to  follow  me."  When
+h\\v  had  left  him,  he  neither  fetched  wooti,  nor  brought  water  to  drink,  but
+just  sat  meditating,  aiul  when  his  futlier  arrived,  ho  did  not  go  out  to
+meet  him.  So  the  father  knew  that  his  .son  had  fallen  into  the  j»ower  of
+a  woman  and  he  said,  "Why,  my  son,  did  you  neither  fetch  W004I  nor
+bring  me  wat4'r  to  drink,  nor  food  to  eat,  Imt  why  do  you  do  nothing  but
+sit  and  meditate?"  The  youthful  ascetic  said,  "Father,  men  sjiy  that
+virtue  that  has  to  be  guardetl  in  a  forest  is  not  very  fruitful,  but  that  it
+brings  forth  nuuh  fruit  in  the  liaunts  of  men.  I  will  go  and  guard  my
+virtue  there.  My  companion  has  gone  forward,  bidding  me  follow  :  so  I
+will  go  with  my  comjianion.  But  when  1  am  dwelling  there,  what  numner
+of  man  am  1  to  aflectJ  "  And  a.sking  this  question  he  spoke  the  second
+stanza  :
+
+'This  doul>t,  my  father,  solve  for  me,  1  pray;
+If  to  some  village  from  this  \V(mkI   I  stray,
+Men  of  what  scIkx)!  of  morals,  or  what  sect
+Shall  I  mo.st  wi.sely  for  my  friends  affect?
+
+TIhu  his  father  spoke  and  repeated  the  rest  of  the  verses  :
+
+One  that  can  gain  thy  confidence  and  love,
+Can  tnist  thy  word,  and  with  thee  iviticnt  prove,
+In  tliought  and  woixl  and  deed  will  ne'er  offend —
+Take  to  thy  heart  and  cling  to  him  a.s  friend.
+To  men  capricious  as  the  monkey  kind,
+And  found  unstable,  be  not  thou  inclined,
+Though  to  some  wildcrnes,s  thy  lot's  contined.
+
+1  This  stanza  and  the  first  seven  of  tlie  following  verses  are  to  be  found  in  No.  348
+supra.
+
+
+No.   435.  313
+
+Eschew  foul  ways,  e'eu  jvs  thou  would'st  keep  cleai*
+Of  angry  serpent,  or  as  charioteer
+[526]  Avoids  a  rugged  road.     Sorrows  abound
+
+Whene'er  a  man  in  Folly's  train  is  found  :
+Consort  not  thou  with  fools — -uiy  voice  oljey —
+The  fool's  companion  is  to  grief  a  i)rey.
+
+Being  thus  admonished  by  his  father,  the  youth  saiil,  "  If  1  should  go
+to  the  haunts  of  men,  T  should  not  find  sages  like  you.  I  dread  going
+thither.  1  will  dwell  here  in  your  pre.senee."  Then  his  father  admonished
+him  still  further  and  taught  him  the  preparatory  rites  to  induce  mystic
+meditation.  And  before  long,  the  son  developed  the  Faculties  and
+Attainments,  and  witii  liis  father  became  destined  to  Viirth  in  the  Drahnia
+World.
+
+
+The  Mitster,  his  les.son  ended,  proclaiinc«l  the  Truths  and  identitieil  the
+Birth  : — At  the  fonclusi(m  of  the  Truths  the  lirother  who  longed  for  the  world
+Htt<iincd  to  fruition  of  the  Kii-st  I'ath  : — "In  those  days  the  young  a.scctic  w;us
+the  worldly-miniK-d  Brother,  the  maiden  then  is  the  maiden  now,  but  the  father
+was  myself."
+
+
+No.  436.
+
+
+SAML'GC.V-JATAKA.
+
+
+rr>27]  "  \y/(fioe  t'linif  i/i;  JrunoU,"  ed:  —This  story  the  Master,  while  dwelling
+at  .fetavauji,  told  (»f  a  worldly-niindeil  Brother.  The  M;i.stcr,  they  s<iy.  asked  him
+if  it  were  tnic  that  he  wjus  hankering  after  the  world,  and  on  his  confessing  that
+it  was  so,  he  sjiid,  "Why,  Brother,  do  you  desire  a  woman  {  Verily  woman  is
+wicked  and  ungrateful.  Of  old  Asiu-Ji  denjons  swallowed  women,  and  though
+they  giuu-ded  them  in  their  Ix-Uy,  they  could  not  keep  them  faithful  to  one  man.
+How  then  will  vou  Vh;  able  t<»  do  so/"  And  hcreui>on  he  related  an  old-world
+tale.
+
+
+Once  upon  a  time  when  Brahmadatta  was  reigning  in  Benares,  the
+IJodhisattjv  foregoing  sinful  pleasures  entered  the  Himalayas  and  adopted
+the  religious  life.  ..-Viid  he  dwelt  there  living  on  wild  fruits,  and  developed
+the  Faculties  and  Attjiinments.  Not  far  from  his  lint  of  leaves  lived  an
+Asura  demon.     From  time  to  time  he  drew  nigli  to  the  Great  Being  and
+
+
+314  The  Jataka.     Book  IX.
+
+listened  to  the  Law,  but  takiu<^  his  stand  in  tlie  furest  un  the  high  road
+where  men  gathered  together,  he  caught  and  ate  them.  At  this  time  a
+Ciiitaiii  noble  lady  in  the  kingdom  of  Kasi,  of  extfeding  btsauty,  settled  in
+a  frontier  village.  One  day  she  went  to  visit  lier  parents,  and  a.s  she  wjis
+returning  this  demon  caught  sight  of  the  men  that  formed  her  escort  and
+rushed  upon  them  in  a  terrible  form.  The  men  let  fall  the  weapons
+in  their  hands  and  took  to  Hight.  The  demon  on  seeing  a  lovely  womaii
+seated  in  the  chariot,  fell  in  love  with  her,  and  carrying  her  off  to  his  cave
+made  her  his  wife.  Thenceforth  he  brought  her  ghee,  husked  rice,  tish,
+Qesh,  and  the  like,  as  well  as  ripe  fruit  to  eat,  and  arrayed  her  in  robes
+and  ornaments,  and  in  order  to  keep  her  safe  he  put  her  in  a  box  which
+he  swallowed,  and  so  guarded  her  in  his  belly.  One  day  he  wished  to
+bathe,  and  coming  to  the  tank  he  threw  up  the  box  and  taking  her  out  of
+it  he  bathed  and  anointed  her,  and  when  he  had  dressed  her  he  .said,  "  For
+a  short  time  enjoy  yourself  in  the  open  air,"  an«l  without  suspecting  any
+harm  he  went  a  little  distance  and  l>athed.  [528]  At  this  time  the  son
+of  Vayu,  who  was  a  magician,  girt  about  with  a  sword,  was  walking
+through  the  air.  When  she  saw  him,  she  put  her  hands  in  a  certain
+position  and  signed  to  him  to  come  to  her.  The  imigician  (juickly  dcscendetl
+to  the  ground.  Then  she  placed  him  iu  the  box,  and  .sat  down  on  it,
+waiting  the  approach  of  the  Asura,  and  as  soon  as  she  saw  him  coming,
+Ijefore  he  had  drawn  near  to  the  box,  she  opened  it,  and  getting  insid<j  lay
+over  the  magician,  and  wrajjped  her  garment  about  him.  The  Asura  came
+and  without  examining  the  box,  thought  it  was  only  the  woman,  and
+swallowed  the  box  and  set  out  for  his  cave.  While  on  the  road  he
+thought,  "  It  is  a  long  time  since  1  saw  the  ascetic ;  I  will  go  to-day  and
+pay  my  respects  to  him."  So  he  went  to  visit  him.  The  ascetic,  spying
+him  while  he  was  still  a  long  way  off,  knew  that  there  were  two  people  in
+the  demon's  belly,  and  uttering  the  first  stanza,  he  said :
+
+Whence  come  ye,  fi'iends  i     Kight  welcome  all  tlic  three  I
+
+Be  pleased  to  rest  with  me  awhile,  I  pi'ay  :
+1  trust  you  live  at  ease  and  happily  ;
+
+'Tis  long  since  any  of  you  pas.sod  this  way.
+
+On  hearing  this  the  Asura  thought,  "  I  have  come  quite  alone  to  see
+this  ascetic,  and  he  speaks  of  three  people  :  what  does  he  mean  1  Does
+he  speak  from  knowing  the  exact  state  of  things,  or  is  he  mad  and  talking
+foolishly?"  Then  he  drew  nigh  to  the  ascetic,  and  saluted  him,  and  sitting
+at  a  respectful  distance  he  conversed  with  him  and  spoke  the  second
+stanza :
+
+[529]    I've  come  to  visit  thee  alone  to-day.
+
+Nor  does  a  creature  V)ear  nie  company.
+Why  dost  thou  then,  0  holy  hermit,  say,
+
+"Whence  come  ye,  friends?     Right  welcome,  all  the  three."
+
+
+No.  436.  315
+
+Said  the  ascetic,  "Do  you  really  wish  to  hear  the  reason?"  "Yes,
+holy  Sir."     "  Hear  then,"  he  said,  and  spoke  the  third  stanza  :
+
+Thyself  and  thy  dear  wife  are  twain,  be  sure  ;
+Enclosed  within  a  box  she  lies  secure :
+Safe-guarded  ever  in  thy  l>elly,  she
+With  Vilyu's  son  doth  sport  her  merrily.
+
+On  hearing  this  the  Asura  thought,  "Magicians  surely  arc  full  of
+tricks  :  supposing  his  sword  should  be  in  his  hand,  lie  will  rip  open  my
+belly  and  make  his  escape."  And  being  greatly  alarmed  he  thnsw  up  the
+box  and  placed  it  before  him.
+
+
+The  Ma-ster,  in  his  Pei-fect  Wi.sdoni  to  make  the  matter  clear,  repeated  the
+fourth  stanza  :
+
+The  demon  b)-  the  sword  was  greatly  terrified.
+
+And  from  his  maw  disgorged  the  box  u])on  the  ground ;
+[530]  His  wife,  with  lovely  wreath  adorned  as  if  a  bride,
+With  Vayii's  son  disporting  merrily  was  found.
+
+
+No  sooner  was  the  box  opened  than  the  magician  muttered  a  spell
+and  seizing  his  sword  sprang  up  into  the  air.  On  seeing  this,  the  Asura
+was  so  pleased  with  the  Great  Being  that  he  repeated  the  nnnaining
+vei-ses,  inspired  mainly  with  his  praises :
+
+0  stern  ascetic,  thy  clear  vision  .saw
+
+How  low  poor  man,  a  woman's  slave,  may  sink ;
+As  life  itself  tho'  guarded  in  my  maw,
+
+The  wretch  did  play  the  wanton,  as  I  think.
+
+1  tended  her  with  care  both  day  and  night,
+As  forest  hermit  cherishes  a  flame.
+
+And  yet  she  sinned,  beyond  all  sense  of  right :
+— To  do  with  woman  needs  must  end  in  shame.
+
+Methought  within  my  body,  hid  from  sight.
+
+She  must  be  mine — but  "Wanton"  was  her  name —
+
+And  so  she  sinned  beyond  all  sense  of  right:
+— To  do  with  woman  needs  must  end  in  shame.
+
+Man  with  her  thousand  wiles  doth  vainly  coi)e,
+In  vain  he  trusts  that  his  defence  is  sure ;
+
+Like  precipices  down  to  Hell  that  slope.
+Poor  careless  souls  she  doth  to  doom  allure.
+
+The  man  that  shuns  the  path  of  womankind
+
+Lives  happily  and  from  all  .soiTow  free;
+He  his  true  bliss  in  solitude  will  find.
+
+Afar  fn)m  woman  and  her  treachery.
+
+[531]  "With  these  words  the  demon  fell  at  the  feet  of  the  Great  Being,
+and  praised  him,  saying,  "  Holy  Sir,  through  you  my  life  was  saved.
+Owing  to  that  wicked  woman  T  was  nearly  killed  by  the  magician."  Then
+the  Bodhisatta  expounded  the  Law  to  him,  saying,  "  Do  no  harm  to  her :
+
+
+316  The  Jataka.     Book  IX.
+
+
+keep  the  commandments,"  and  established  him  in  the  live  moral  priecepts.
+The  Asura  said,  "Though  I  guarded  her  in  my  belly,  I  could  not  keep
+her  safe.  Who  else  will  keep  her?"  So  he  let  her  go,  and  returned
+straight  to  his  forest  home.
+
+
+The  Master,  his  lesson  ended,  proclaimed  the  Truths,  and  identified  the
+Birth: — At  the  conclusion  of  the  Truths  the  worldly-minded  Brother  attained
+fruition  of  the  First  Path : — "  In  those  days  the  ascetic  with  supernatural  powers
+(if  sight  was  myself."
+
+
+No.  437.
+
+PtJTIMANSA-JATAKA'.
+
+[532]  "  Why  thus  does  Ptltiiaahsa,"  etc. — This  was  a  story  told  by  the  Master
+while  at  Jetavana  concerning  the  subjugation  of  the  .senses.  For  at  one  time
+there  were  many  Brethren  who  kept  no  guard  over  the  avenues  of  the  senses.
+The  Master  said  to  the  elder  Ananda,  "  I  must  admonish  these  Brethren,"  and
+owing  to  their  want  of  self-restraint  he  called  together  the  assembly  of  the
+Bi'ethren,  and  seated  in  the  middle  of  a  richly-adorned  couch  he  thus  addressed
+them  :  "Brethren,  it  is  not  right  that  a  Brother  under  the  influence  of  personal
+beauty  should  set  his  aftections  on  mental  or  pliysical  attributes,  for  should  he
+die  at  such  a  moment,  he  is  re-born  in  hell  and  the  like  evil  states;  therefore  set
+not  your  aftections  on  material  forms  and  the  like.  A  Brother  ought  not  to  feed
+his  mind  on  mental  and  physical  attributes.  They  who  do  so  even  in  this
+present  condition  of  things  are  utterly  ruined.  Therefore  it  is  good.  Brethren,
+that  the  eye  t)f  the  senses  should  be  touched  with  a  red-hot  iron  pin."  And  here
+he  gave  other  details,  adding,  "  There  is  a  time  for  you  to  regard  beauty,  and  a
+time  to  disregard  it :  at  the  time  of  regarding  it,  regard  it  not  imder  the  influence
+of  what  is  agi'eeable,  but  of  what  is  disagreeable.  Thus  will  ye  not  fall  away
+from  your  proper  sphere.  What  then  is  this  sphere  of  yours ''.  Even  the  four
+earnest  meditations,  the  holy  eight-fold  path,  the  nine  transcendent  conditions.
+If  ye  walk  in  this  your  proper  domain,  Mara  will  not  find  an  entrance,  but  if  ye
+are  subject  to  passion  and  regard  things  under  the  influence  of  personal  beauty,
+like  the  jackal  Putimansa,  ye  will  fall  away  from  your  true  sphere,"  and  with
+these  words  he  related  a  story  of  the  past.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  many
+hundreds  of  wild  goats  dwelt  in  a  mountain-cave  in  a  wooded  district  on
+
+1  See  R.  Morris,  Folk-Lore  Journal,  iii.  71.
+
+
+No.  437.
+
+
+317
+
+
+the  slopes  of  the  Himalayas.     Not  far  from  their  place  of  abode  a  jackal
+named  Putimansa  with  his  wife  VeuT  lived  in  a  cave.     One  day  as  he  was
+rancin-  about  with  his  wife,  he  spied  those  goats  and  thought,  "  I  must
+fincf  so'me  means  to  eat  the  flesh  of  these  goats,"  and  by  some  device  he
+killed   a   single   goat.      Both  he  and  his  wife  1)y  feeding  on  goat's  flesh
+waxed   strong   and   gross   of  body.      Gradually   the   goats   diminished   m
+number      [533]    Amongst  them  was   a   wise   she-goat   named   Melamata.
+The  jackal  though  skilful  in  devices  could  not  kill  her,  and  taking  counsel
+with  his  wife  he  said,  "  My  dear,  all  the  goats  have  died  out.     \\  e  must
+devise  how  to  eat  this  she-goat.     Now  here  is  my  plan.     You  are  to  go  by
+yourself,  and  become  friendly  with  her,  and  when  confidence  has  sprung
+up  between  you,  I  will  lie  down  and  pretend  to  be  dead.     Then  you  are  to
+draw  nigh  to  the  goat  and  say,  'My  dear,  my  husband  is  dead  and  I  am
+desolate;   except  you  I   have  no  friend:   come,  let  us  weep  and  lament,
+and  bury  his  body.'     And  with  these  words  come  and  bring  her  with  you.
+Then  I  will  spring  up  and  kill  her  by  a  bite  in  the  neck."     She  readily
+agreed   and    after    making   friends    with   the    goat,  when   confidence  was
+established,  she   addressed   her   in   the  words  suggested  by  her  husband.
+The  -oat  replied,  "  Mv  dear,  all   my  kinsfolk   have  been  eaten  by  your
+husband.     I  am  afraid  ;  I  cannot  come."     "  Do  not  be  afraid  ;  what  harni
+can  the  dead  do  you  1 "     "  Your  husband  is  cruelly -minded  ;  I  am  afraid."
+But   afterwards   being   repeatedly   importuned   the   goat   thought,    "He
+certainly  must  be  dead,"  and  consented  to  go  with  her.      But  on  her  way
+there  she  thought,  "Who  knows  what  will  happen?"  and  being  suspicious
+she  made  the  she-jackal  go  in  front,  keeping  a  sharp  lookout  for  the  jackal.
+He  heard  the  sound  of  their  steps  and  thought,  "  Here  comes  the  goat,"
+and  put  up  his  head  and  rolling  his  eyes  looked  about  him.     The  goat  on
+seein-  him  do  this  said,  "This  wicked  wretch  wants  to  take  me  in  and  kill
+me :    he   lies   there   making    a   pretence   of    being  dead,"  and  she  turned
+about  and  fled.     When  the  she-jackal  asked  why  she  ran  away,  the  goat
+gave  the  reason  and  spoke  the  first  stanza :
+
+[.o34]    Why  thus  does  Pfitimaiisa  stare  ?
+His  look  niisliketh  me:
+Of  such  a  friend  one  should  liewarc.
+And  far  away  should  flee.
+
+With  these  words  she  turned  about  and  made  straight  for  her  own
+abode.  And  the  she-jackal  failing  to  stop  her  was  enraged  with  her,  and
+went  to  her  husband  and  sat  down  lamenting.  Then  the  jackal  rebuking
+her  spoke  the  second  stanza  :
+
+Ven'i,  my  wife,  seems  dull  of  wit,
+
+To  boast  of  friends  that  she  has  made  ;
+
+Left  in  the  lurch  she  can  but  sit
+And  grieve,  by  Mela's  art  lietrayed.
+
+
+318  The  JataJca.     Book  /A
+
+
+On  hearing  thix  l\w  Hhe-jackal  8|)uku  the  thinl  stan/a  ;
+
+Vou  too,  my  loni,  were  hftitUv  wise,
+And,  foolish  creature,  niised  your  liea<l,
+
+SUiriiij^  alK)ut  with  oj>eii  eyes.
+Though  feigning  tu  be  dead.
+
+
+At  fitting  tiinON  they  that  are  wise
+Know  when  to  ojr*  or  close  their  eyes.
+Who  liM>k  at  the  wr<jng  nioiuent,  will,
+Kike  i'fitiinansii,  suffer  ill.
+
+This  >t;iii/.;i  wa-^  iiis|iii(Ml  by  Perfect  Witidum.
+
+
+[535]  But  the  she-jackal  comforted  PutimatiHa  and  .said,  "  My  lord,  do
+not  vex  yourself,  I  will  find  a  way  to  bring  her  here  iigjiin,  and  when  she
+conieB,  1)0  on  your  giuird  and  catch  lier."  Tiicn  she  sought  the  goat  ami
+said,  "My  friend,  your  coming  j)rove<l  of  service  to  us;  for  as  soon  r.s  you
+appeared,  my  lord  recovered  consciousneH-H,  and  he  is  now  alive.  Come
+and  have  friendly  speech  with  him."  and  so  saying  she  spoke  the  fifth
+stanza  :
+
+Oiir  former  friendship,  g«Mit,  once  more  revive,
+Ami  come  with   wcll-filicd  Ih)w1  to  us,   I   pniy,
+
+.Mv  loiil   1   t<«)k  for  dcjul  is  still  alive,
+AVith  kindly  greeting  visit  him  to-day.
+
+The  goat  thought,  "This  wicked  wretch  wants  to  take  me  in.  1  must
+not  act  like  an  open  foe  ;  I  will  find  means  to  deceive  her,"  and  she  .spoke
+the  sixth  stanza  :
+
+Our  former  friendship  to  revive,
+A  well-tilled  Im)w1  I  glmlly  give  :
+With  a  big  o.scort  I  shall  come  ;
+To  feast  us  well,  go  hasten  home.
+
+Then  the  she-jackal  intpiired  al>out  hei-  followei*s,  and  spoke  the  seventh
+stanza  :
+
+What  kind  of  e.scoit  will  you  bring,
+
+That  I  am  bid  to  feast  you  well  '.
+The  names  of  all  rememljering
+
+To  us,  I  pray  you,  truly  tell.
+
+The  goat  spoke  the  eighth  stanza  and  SJiid  :
+
+Hounds'  grey  and  tiin,  four-eyed  one  t<H),
+Witli  .Tanibnk  form  my  escort  tnie  :
+Uo  hurry  home,  and  quick  prepare
+For  all  abundance  of  go<xl  fare.
+
+'  Maliya  and  Pingiya  probably  refer  to  the  colour  of  the  dogs ;  Caturaksha  is  one
+of  Yania's  dogs  in  the  Rigveda ;  .lambuka  is  a  spirit  in  the  train  of  Skanda.
+
+
+No.  437.  319
+
+[536]  "Each  of  these,"  she  addeil,  "is  accoininuiied  by  five  hundred
+dogs:  so  I  shall  appear  with  a  guard  of  two  thousand  dogs.  If  they
+should  not  find  food,  they  will  kill  and  eat  you  and  your  mate."  On
+hearing  this  the  she-jackal  was  so  frightened  that  she  thought,  "  I  have
+had  quite  enough  of  her  coming  to  us ;  I  will  find  means  to  stop  hoi-  from
+coming,"  and  she  spoke  the  ninth  stanza  :
+
+Don't  leave  ynnr  hou.se,  or  else  I  fear
+Your  go(Kls  will  all  soon  disappear  :
+I'll  take  your  greeting  to  my  lord  ;
+Don't  stir:    nay,  not  another  word  I
+
+With  these  words  she  ran  in  great  haste,  as  for  her  life,  an<l  taking
+lier  lord  with  her,  Hod  away.  And  they  never  durst  come  hack  to  that
+spot.
+
+
+The  Master  hei-e  ended  his  lesson  and  iilentitietl  tlie  liirtli :  "  In  tlio.sc  day.s
+I  was  the  divinity  that  dwelt  there  in  an  old  foreat  ti-ee."
+
+
+No.  438.
+
+TriTIR.V-.l  VTAKA'.
+
+"7%  hunnles*  of  spring,"  etc.-T\ns  story  the  Miuster,  while  dwelling  at
+Vulture  Peak,  told  i-ontennng  the  going  abo\it  of  Devadatta  to  slay  lum.  It
+Wius  at  this  time  that  they  sUiited  a  discus.sion  in  the  Hall  of  Trutli,  savnig,
+"Alas!  Sirs,  how  .shaujele.ss  and  l>a.se  wa-s  DevadatUi.  .loining  himself  to
+Ajat<u«\ttii,  he  formed  a  plot  to  kill  the  excellent  and  supreme  Buddlia,  hy  the
+suborning  of  archei-s,  the  hurling  of  a  rock,  and  the  letting  loose  of  Nalagn-i."
+'IMie  Miuster  came  ami  incpiired  of  the  Uretliren  what  they  were  discussuig  ni
+their  ;ussemblv,  and  on  l>eing  told  what  it  wa.H  s.iid,  [r),37l  "  Not  only  now,  but
+formerly  too,  Devadatta  went  alM)ut  to  kill  me,  but  now  lie  camiot  so  much  as
+frighten  me,"  and  he  related  an  old-world  legend.
+
+
+Once  upon  a  time  in  the  reign  of  Brahmadatta,  king  of  Benares,  a
+world-renowned  professor  at  Benares  gave  instiiiction  in  science  to  five
+hundred  young  bi-ahmins.     One  day  he  thought,  "So  long  as  I  dwell  here,
+
+
+See  11.  Morris,  Folk-Lore  Journal,  iii.  74.
+
+
+320  The  Jataka.     Book  IX.
+
+
+1    iiH^et   with    liindmiicf'K    to   the    reli^uus   litV,    and    my   piipilH    mv    not
+porft'ttfd   ill  tlu'ir  studirH.      I  will  n'tirt>  into  u  fort-st  lioiiu>  ow  th««  h1o|>c8
+of  the    IliiiiHhiyas  iiiid  carry  on  my  tracliin;^'  tlu'if."     He  told  Iuh  pupilH,
+anil,  l.iddiiij,'  tlniii  Wriiif?  sesame,  huHked  rice,  oil,  garments  and  such  like,
+\w  went  into  the  forest  and   huildiii;^  ii   liiit   of  leaves   tmik   up  \\\h  abode
+close    l)y    the   highway.      His    pupils    too   each    l.uilt    a   hut    for    himwlf.
+Their   kinsfolk   sent   rice  and    the    like,    and    the   natives  of   the   country
+saying,  "A  famous  professor,  tliey  say.  is  living  in  such  and  such  a  place
+in  the  forest,  and  giving  lessons  in  science,"  brought  presents  of  rice,  and
+the  foresters  also  offered  their  gifts,  while  a  certain  man  gave  a  milch  cow
+and  a  calf,  to  supply  them  with  milk.      Now  a  lizard  along  with   her  two
+young  ones  came  to  dwell  in  the  hut  of  the  t<'acher,  and  a  lion  and  a  tiger
+ministered  to  him.      A   partridge  too  constantly  resid(H)  there,  and  from
+hearing  their  master  teach  sacr«'d  ti'xts  to  his  piipil.s,  the  partridge  gut    to
+know  three   Veda.s.      And   the  young  bnihmins  became  very  friendly  with
+the  bird.      By  and  bye  befon^  the  youths  had  attained  t«i  proficiency  in  the
+Hcieiic(>M,  tlit'ir  master  died.      Ilis  pupils  had  his  Inxly  burnt,  s<'t  up  a  tope
+of  .sand  over  his  ashes,  and  with  we«'ping  and  lamentation  adorned  it  with
+all    iiianntT   of    flowers.      So   the    partndgo   asked    them   why   they    w«'pt,
+"Our   master,"   they    repli<'<l,    "has   di«'d    while   our   studies   are   still    in-
+complete."    "If  tliis  is  .so,  do  not  1m>  distressed  :   I  will  teach  you  science."
+"How  do  you  know  it?"      "I    used   to   listen  to  your   master,  while   he
+was   teaching  you,  and   got   up  three  Vedas    by   heart."      "Then  do  you
+impart  to  us  what  you  have  learned   by  heart."      [o.lH]  The  partridge  said,
+"Well,  listen,"  and  he  «'X|)oundcd  knotty  points  to  them,  as  easily  as  one
+lets  down  a  stream  from  a  mountain  height.     The  young  brahmins  were
+highly  delighted  and  actpiiretl  science  from  the  learned  partridge.      And
+the  bird  stood  in  the  place  of  the  far-famed  teacher,  and  gave  lertures  in
+.scienct'.      The  youths  made  him  a  golden  cage  ami    fastening  an  awning
+over  it,  they  servefl  him  with  honey  and   parched  grain   in  a  golden  di.sh
+and   })resenting  liiin  with  divei-s  coloured   flowers,  they  pai<l  great  honour
+to  the  bird.      It  was  bla/ed  abroad  throughout  all  Inilia  that  a  partridge  in
+a  forest  was  instructing  five  hundred  young  brahmins  in  sacred  te.xts.      At
+that  time  men  proclaimed  a  high  f«'8tival — it  was  like  a  gathering  together
+of  the   people   on  a  mountain  top.     The    parents  of  the  youths  sent    a
+message    for    their  sons   to   come    and    see    the    festival.      They   told    the
+partridge,  and  entrusting  the  learned  bird  and  all  the  hermitage  to  the
+care  of  the  lizard,  they  left  for  their  several  cities.      At  that  moment  an
+ill-conditioned'  wicked  a.scetic  wandering  about  liither  and  thither  came  to
+this  spot.     The  lizard  on  seeing  him  entered  into  friendly  talk  with  him,
+
+
+'  The  reading  ia  doubtfal.     Another  reading  is  iiilkilnniikn,  "pitiless"  ;  Morris  for
+nigiiatiko  suggests  iiiiiatithn,  "naked  ascetic".
+
+
+No.    438.  321
+
+saying,  *'  In  such  and  such  a  place  you  will  hud  rice,  oil  and  such  like ;
+boil  some  rice  and  enjoy  youi-self,"  and  so  saying  he  went  off  in  quest  of
+his  own  food.  Early  in  the  morning  the  wretch  boiled  his  rice,  and  killed
+and  ate  the  two  young  lizards,  making  a  dainty  dish  of  them.  At  midday
+he  killed  and  ate  the  learned  partridge  and  the  calf,  and  in  the  evening  no
+sooner  did  he  see  the  cow  had  come  home  than  he  killed  her  too  and  ate
+the  tiesh.  Then  he  lay  down  grunting  at  the  foot  of  a  tree  and  fell  asleep.
+In  the  evening  the  lizard  came  liack  and  missing  her  young  ones  went
+about  looking  for  them.  A  tree-sprite  observing  the  lizard  all  of  a  tremble
+because  she  could  not  find  her  young  ones,  by  an  exercise  of  divine  power
+stood  in  the  hollow  of  the  trunk  of  the  tree  and  said,  "Cea.se  trem])ling,
+lizard  :  youi-  young  ones  and  the  partridge  and  the  calf  and  cow  liave  been
+killed  by  this  wicked  fellow.  Give  him  a  bite  in  the  neck,  and  so  bring
+about  his  death."  Ami  thus  talking  with  the  lizard  the  deity  spoke  the
+tirst  sUvnza  :
+
+[f»3U]    Tliy  }iarmle.s.s  offspring  he  did  ciit,
+
+Tli'Migh  thou  didst  rice  in  plenty  give;
+Thy  teeth  make  in  his  Hesh  to  meet,
+Nor  let  the  wretch  e.sciipe  alive.
+
+Then  the  lizard  repeated  two  stanzas  :
+
+Filth  doth  his  gree<ly  soul,  like  nurse's  garb,  besmear,
+Hi.s  i»ersoii  all  is  proof  ugainst  my  fangs,   I  fciir.
+
+Flaw.s  by  the  brt.se  iiigratc  are  everywhere  espied,
+Not  by  the  gift  of  worlds  can  he  be  satisHeil.
+
+The  lizard  .so  siiying  thought,  "Tiiis  fellow  will  wake  up  anrl  eat  me,"
+and  to  save  her  own  lift-  slie  6e<l.  Now  the  lion  and  the  tiger  were  on
+very  friendly  terms  with  the  partridge.  Sometimes  they  used  to  comf-
+and  see  the  partridge,  and  sonu'times  the  partridge  went  and  taught  the
+Ljiw  to  them.  To-day  the  lion  .said  to  the  tiger,  "  It  is  a  long  time  since
+we  saw  the  partridge  ;  it  must  Ik;  seven  or  eiglit  day.s  :  go  and  bring  back
+news  of  him."  The  tiger  readily  a.s.sented,  and  he  arrived  at  the  [)Iace  the
+very  moment  tliat  the  lizjird  had  run  away,  and  found  the  vile  wretch
+sleeping.  In  his  matted  locks  were  to  be  seen  some  feathers  of  the
+partridge,  [r)40]  and  close  by  api>eared  the  bones  of  tin;  cow  and  calf.
+King  tiger  seeing  all  this  and  mis.sing  the  partridge  from  his  golden  cage
+thought,  "  These  creatures  must  have  been  killed  by  tliis  wicked  fellow,"
+and  he  roused  him  by  a  kick.  At  the  sight  of  the  tiger  the  man  was
+terribly  frightened.  Then  the  tiger  asked,  "  Did  you  kill  and  eat  these
+creatures?"  "I  neither  killed  nor  ate  them,"  "Vile  wretch,  if  you  did
+not  kill  them,  tell  me  who  else  would?  And  if  you  do  not  tell  me,  you
+are  a  dead  man  I"  Frightened  for  his  life  ho  said,  "  Y<'S,  sir,  I  did  kill
+and  eat  the  young  lizards  and  the  cow  and  the  calf,  l>ut  T  did  not  kill  the
+J.  III.  121
+
+
+322  The  Jatalca.     Book   IX
+
+partridge."  And  though  he  protested  liiuch,  the  tiger  did  not  believe  him
+but  asked,  "Whence  did  you  come  here'?"  "My  lord,  I  hawked  about
+merchant's  wares  tor  a  living  in  the  Kalinga  country,  and  after  trying  <»ne
+thing  and  another  T  have  come  here."  lUit  when  the  man  had  told  him
+everything  that  lu'  had  done,  tlie  tiger  sjiid,  "  You  wicked  felhiw,  it  you
+did  not  kill  tin;  partridge,  who  else  could  have  done  sol  Come,  I  shall
+bring  you  before  the  lion,  the  king  of  beasts."  So  the  tiger  went  off,
+driving  the  man  before  him.  When  the  lion  saw  the  tigrr  bringing  the
+man  with  him,  putting  it  in  the  form  of  a  question  he  spoke  the  fmn-th
+stanza  :
+
+Why  thus  in  haste,  Subfihii',  art  thou  lifn>,
+And  wiiy  witli  thte  dot-.s  tliis  ginnl  youth  Hpi>ear  /
+What  iieril   lor  urgency  is  here,   I   pr.iy  /
+l^uiek,  tell  me  truly  ami  without  delay.
+
+[f)!  1  ]   Ou  hearing  this  tlm  tiger  spok(!  the  tifth  stanza:
+
+The  partridge,  Sire,  our  very  worthy  frienil,
+I  doubt,  to-day  ha.s  come  to  a  luid  end:
+Tliis  fellow's  anteeeilent.s  make  me  fejir
+Wo  may  ill  news  of  our  gixnl  partridge  hear.
+
+'riieii  the  lion  .spoke  tin-  sixth  stanza  :
+
+What  may  the  fellow's  antecedent.s  Ik",
+And  what  the  sins  that  he  confe.s.Hotl  to  thee,
+To  m.ike  thet'  doubt  that  some  misfortimc  may
+Have  fallen  on   the  le:irne<l   bird   to-day  ]
+
+Then  in  answer  to  him  king  tiger  repeated  the  remaining  ver.ses :
+
+As  pedl.ir  thro'   Kalinga  land
+|{oui;h   ro.uls  he  travelled,  stalf  in   hand  ;
+With  aerol>at.s  l.e  ha.s  been  found,
+.\nd  harniles.s  l)oast  in  toils  ha.s  boniid  ;
+With  dieers  tiMi  has  often  playe«i,
+And  snares  for  little  birds  has  l.iid  ;
+In  erowds  with  cudgcl-stieks  Iuls  fought.
+And  gain  by  mea.suring  corn  has  .sought  :
+l-'.il.se  to  his  vow.s,  in  midnight  fray
+Woiin(I(>d,  he  wiished   the  bloinl  away  :
+His  hands  he  burned  thro'  being  bold
+To  snatch  at  food  too  hot  to  hold.
+[542]    Such  Wius  the  life  I  hcaiii  he  led,
+Such  are  the  sins  upon  his  he.ul,
+And  since  we  know  the  cow  is  dead.
+And  feathers  miilst  his  locks  appear,
+I  greatly  for  friend  partridge  fear.
+
+The  lion  asked  the  man,  "  Did  you  kill  the  h'arned  jtartridge?"     "Yes,
+my  lord,  I  did."     The  lion  on  hearing  him  speak  the  truth,  was  anxious  to
+
+'  Subahu  (strong-arm)  is  the  uaiue  of  the  tiger.     Compare  no.  3(J1  supra,  p.  127.
+
+
+No.   438.  323
+
+let  liim  go,  Ijut  king  tiger  said,  "The  villain  deserves  to  die,"  and  then  and
+there  rent  him  with  his  teeth.  Then  he  dug  a  pit  and  threw  the  body  into
+it.  [5-1:3]  The  young  brahmins  when  they  returned  home,  not  finding  the
+partridge,  with  weeping  and  lamentation  left  the  place.
+
+
+The  Miuster  ciideil  his  lesson  sjiying,  "Thus,  Brethren,  did  Dcvadatta,  of  old
+too  go  about  to  kill  nie,"  and  he  identified  the  Birth :  "  At  that  time  the  ascetic
+was  Uevadatta,  the  liz^ird  Kisagotanii,  the  tiger  Mtiggallana,  the  lion  Sariputtjx,
+the  world-renowned  teacher  Kas-sapa,  and  the  learned  partridge  was  myself."

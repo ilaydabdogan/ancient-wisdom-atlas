@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_sacredbooksofchi0039unse
+  work_id: chinese.texts_of_taoism.legge_sbe39_archive
+  title: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of
+    the East, Vol. 39)'
+  source_url: https://archive.org/details/sacredbooksofchi0039unse
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/sacredbooksofchi0039unse-texts-of-taoism-part1-legge-sbe39.txt
+    checksum:
+      algorithm: sha256
+      value: 990bb0bbe9d5b7d3d6027caaf4554fe899ee888dbfaedd6c6e174e2ef15c35d6
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/sacredbooksofchi0039unse-texts-of-taoism-part1-legge-sbe39.md
+    checksum:
+      algorithm: sha256
+      value: b9b509f38f52c06b59fa61f43fe4ee7121b820a5c37309b1c1e0a049fd2c1afe
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+    checksum:
+      algorithm: sha256
+      value: 8bf80433c662cb05f06c8bedd7fd2346cfd64cfa8eac3a43e2c3affb6c8f8124
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.texts_of_taoism.legge_sbe39_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Provides Legge's English Tao Te Ching (complementing the Chinese-only
+      Daodejing already held) plus Chuang Tzu Books I-XVII.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

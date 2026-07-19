@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_lifeofsouthafric02junouoft
+  work_id: african.life_south_african_tribe_2.junod_archive
+  title: The Life of a South African Tribe, Vol. II (The Psychic Life)
+  source_url: https://archive.org/details/lifeofsouthafric02junouoft
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/lifeofsouthafric02junouoft-life-south-african-tribe-junod-vol2.txt
+    checksum:
+      algorithm: sha256
+      value: d0a49a298dc478aee9363d3e206507590e2c2af4d43a0628ffa6ccf7cef7e67d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/lifeofsouthafric02junouoft-life-south-african-tribe-junod-vol2.md
+    checksum:
+      algorithm: sha256
+      value: ac32b86224928acf7b050a7f168d9dde823b4f39873b5d42975b1e8fc1403576
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+    checksum:
+      algorithm: sha256
+      value: 0ae8b13c868b3abbaea8cb6adcbc3a68a100e2352804a6b0e3222344165badcd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.life_south_african_tribe_2.junod_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1913, US public domain. Recording context - the folklore volume;
+      folk-tales, divination, ancestor religion, and magic collected in Thonga and
+      translated by the collector with informant attribution; the richest part of
+      the set for motif extraction.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

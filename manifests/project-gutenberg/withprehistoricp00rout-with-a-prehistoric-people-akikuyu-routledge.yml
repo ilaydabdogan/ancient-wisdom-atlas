@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_withprehistoricp00rout
+  work_id: african.akikuyu_prehistoric_people.routledge_archive
+  title: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  source_url: https://archive.org/details/withprehistoricp00rout
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/withprehistoricp00rout-with-a-prehistoric-people-akikuyu-routledge.txt
+    checksum:
+      algorithm: sha256
+      value: 8f3a40d2e5789b68b831993ac6cd17734c8fead0710dccc32b3610e70dcea971
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/withprehistoricp00rout-with-a-prehistoric-people-akikuyu-routledge.md
+    checksum:
+      algorithm: sha256
+      value: 1f6f80932929b933339298444dd8ab11ed3bcc69b1b7301052deae147df30706
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+    checksum:
+      algorithm: sha256
+      value: e5ad51713f92d700a2f8a020e9981b87b121a022413326892c959d629c7c7d37
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.akikuyu_prehistoric_people.routledge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1910, US public domain. The title "prehistoric people" encodes
+      evolutionist colonial bias. This is ETHNOGRAPHIC PARAPHRASE documenting Kikuyu
+      (Gikuyu) religion, initiation, proverbs, and folklore secondhand; the framing
+      must not be extracted as Kikuyu self-description, but it preserves proverbs,
+      songs, and ritual detail of value.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

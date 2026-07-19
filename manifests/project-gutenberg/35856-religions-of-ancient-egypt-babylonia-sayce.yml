@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_35856
+  work_id: egyptian.religions_egypt_babylonia.sayce_gutenberg
+  title: The Religions of Ancient Egypt and Babylonia
+  source_url: https://www.gutenberg.org/ebooks/35856
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/35856-religions-of-ancient-egypt-babylonia-sayce.txt
+    checksum:
+      algorithm: sha256
+      value: cec0f19937e5de57ab01dd450f347c59df080ceea8e92934fe4cd853763b44f3
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/35856-religions-of-ancient-egypt-babylonia-sayce.md
+    checksum:
+      algorithm: sha256
+      value: 196c8071e87ca8201b3e2022fca9a5bab89ba8f1b164b497acf9e22d83fcfd21
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+    checksum:
+      algorithm: sha256
+      value: eda0d815f1819988be05fa4a3ee48dfbac9e10af05761b70e27fe9dbba1b54d4
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids egyptian.religions_egypt_babylonia.sayce_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Content
+      is Sayce's scholarly comparative prose (Gifford Lectures) with embedded quotations
+      of Egyptian and Babylonian religious texts; author analysis, not a verbatim
+      primary source.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

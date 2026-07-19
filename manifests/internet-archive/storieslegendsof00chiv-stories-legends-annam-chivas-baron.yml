@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_storieslegendsof00chiv
+  work_id: vietnamese.annam_legends.chivas_baron_archive
+  title: Stories and Legends of Annam
+  source_url: https://archive.org/details/storieslegendsof00chiv
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/storieslegendsof00chiv-stories-legends-annam-chivas-baron.txt
+    checksum:
+      algorithm: sha256
+      value: 4f108acf90aee775e9faf1d6a785b642e76813694090b5e18ff80f7ba8970f6a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/storieslegendsof00chiv-stories-legends-annam-chivas-baron.md
+    checksum:
+      algorithm: sha256
+      value: 43afd02b96ccb3e8c539d5ccda037454814c5e2e31d9a6257efd0a9b7928254e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+    checksum:
+      algorithm: sha256
+      value: 4bd7507a35bdab1f4f7ce854215e69f140f76eea746ba39975956c8d1b85c5d1
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids vietnamese.annam_legends.chivas_baron_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1920 (pre-1930), US public domain. Original French by Chivas-Baron,
+      English translation by Smith-Dampier. Hosted file is OCR text of a library scan;
+      expect OCR noise and scan front-matter needing cleanup during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

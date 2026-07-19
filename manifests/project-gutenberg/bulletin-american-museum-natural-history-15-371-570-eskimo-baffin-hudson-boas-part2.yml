@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_bulletin-american-museum-natural-history-15-371-570
+  work_id: arctic_inuit.eskimo_baffin_hudson_2.boas_archive
+  title: The Eskimo of Baffin Land and Hudson Bay, Part II
+  source_url: https://archive.org/details/bulletin-american-museum-natural-history-15-371-570
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/bulletin-american-museum-natural-history-15-371-570-eskimo-baffin-hudson-boas-part2.txt
+    checksum:
+      algorithm: sha256
+      value: 2268e85435ea758ccb29712eddf01820c39a2f66b925554d49dba2676b5eb8d3
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/bulletin-american-museum-natural-history-15-371-570-eskimo-baffin-hudson-boas-part2.md
+    checksum:
+      algorithm: sha256
+      value: 3ddf32e91dd28d28efbce0c8c0f58e779c84929d8e768b6428ba879944cbfcd6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+    checksum:
+      algorithm: sha256
+      value: d701125fb5570cfd3cb47265b756800508507addc07ce562f60bf07a172d0949
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids arctic_inuit.eskimo_baffin_hudson_2.boas_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1907, US public domain. Second part of the same collection with
+      additional tales, traditions, and comparative notes; same recording pedigree
+      as Part I.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

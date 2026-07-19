@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_1666
+  work_id: roman.apuleius.golden_ass.adlington_gutenberg
+  title: The Golden Asse
+  source_url: https://www.gutenberg.org/ebooks/1666
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/1666-golden-ass-apuleius-adlington.txt
+    checksum:
+      algorithm: sha256
+      value: 8f7a21a1a88f14a1b9b1f848ca37112feed069891e4cfaaa3a3940c681bda1a7
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/1666-golden-ass-apuleius-adlington.md
+    checksum:
+      algorithm: sha256
+      value: d51274d3003e0804ceb600dceb7c41f8896d6fa1f45014c864eeaeb094b1dc6e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+    checksum:
+      algorithm: sha256
+      value: 788a6c3fe2aa58c3060d97a220a1d48f67e6a0856702ae4737f8c9d6aff319bd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids roman.apuleius.golden_ass.adlington_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Adlington's 1566 Tudor
+      prose. Contains the Cupid and Psyche tale and the climactic Isis initiation.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

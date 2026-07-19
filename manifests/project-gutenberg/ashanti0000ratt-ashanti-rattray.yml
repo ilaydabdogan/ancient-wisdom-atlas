@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_ashanti0000ratt
+  work_id: african.ashanti.rattray_archive
+  title: Ashanti
+  source_url: https://archive.org/details/ashanti0000ratt
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/ashanti0000ratt-ashanti-rattray.txt
+    checksum:
+      algorithm: sha256
+      value: 837cf2c9575742e450f5e1758fc55e64cecee9a63e214d4d886c6d65dbfee795
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/ashanti0000ratt-ashanti-rattray.md
+    checksum:
+      algorithm: sha256
+      value: 7a6649745d75e14d6e0e1f9d941383302fc5425ac0b352e81bdcbef8ed34bb8d
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+    checksum:
+      algorithm: sha256
+      value: 0d9534d385ecb1fcc6bcf7b102fbe7825de284d0dd497ea022b805e22f2e38b1
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.ashanti.rattray_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1923, US public domain (term expired). Recording context - Rattray
+      recorded religious ritual, the Golden Stool tradition, and myth from named Asante
+      elders in Twi, translating himself; substantial verbatim prayers and ritual
+      texts. Note Akan culture had long trans-Saharan and coastal contact - weaker
+      "isolated lineage" claim than other entries; flag for the holdout design.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

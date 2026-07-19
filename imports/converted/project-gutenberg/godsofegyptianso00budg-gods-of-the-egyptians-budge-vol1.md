@@ -1,0 +1,26071 @@
+# The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I
+
+PREFACE
+
+AMONG the various branches of Egyptology which have been
+^closely studied during the last twenty-five years, there are
+none which are more interesting to inquire into, or more difficult
+to understand fully, than the religion and mythology of the inhabitants of the Valley of the Nile. When we consider the number
+of works on these subjects which have been written and published,
+both by expert Egyptologists and by competent exponents of the
+science of religion during that period, such a statement may appear
+at first sight to be paradoxical, and many may think when reading
+it that some excuse must certainly be made for the philosopher
+who asked an eminent professor of Egyptology the somewhat
+caustic question, "Is it true that the more the subjects of Egyptian
+religion and mythology are studied the less is known about them ? "
+The question is, however, thoroughly justified, and every honest
+worker will admit that there are at the present time scores of
+passages, even in such a comparatively well-known religious compilation as the Booh of the Bead, which are inexplicable, and
+scores of allusions of a fundamentally important mythological
+character of which the meanings are still unknown. The reasons
+for this state of things are many, and the chief of them may be
+briefly recalled here.
+
+The custom of relying absolutely upon the information about
+the ancient Egyptian religion and mythology, which is reported by
+Greek historians, was abandoned by Egyptologists long ago, for
+as soon as the native Egyptian religious texts could be read, it
+
+
+viii PREFACE
+
+became evident that no Greek or Latin writer had any exact
+first-hand knowledge of these subjects, and that none of them
+succeeded wholly in reproducing accurately in their works the facts
+concerning them which they derived from Egyptian books or from
+Egyptian priests. This is hardly to be wondered at, for the
+cultured Greek writers must have, and did, as we know, look
+with mingled pity, and contempt, and ridicule, upon the
+animal cults of the Egyptians, and they had no sympathy with
+the materialistic beliefs and with the still more materialistic
+funeral customs and ceremonies, which have been, from time
+immemorial, so dear to certain Hamitic peoples, and so greatly
+prized by them. The only beliefs of the Egyptian religion which
+the educated Greek or Roman truly understood were those which
+characterized the various forms of Aryan religion, namely, the
+polytheistic and the solar ; for the forms of the cults of the dead,
+and for all the religious ceremonies and observances, which presupposed a belief in the resurrection of the dead and in everlasting
+life, and which had been in existence among the indigenous inhabitants of north-east Africa from predynastic times, he had no regard
+whatsoever. The evidence on the subject now available indicates
+that he was racially incapable of appreciating the importance of
+such beliefs to those who held them, and that although, as in the
+case of the Ptolemies, he was ready to tolerate, and even, for state
+purposes, to adopt them, it was impossible for him to absorb them
+into his life. It is important to remember this fact when dealing
+with the evidence of Greek and Roman writers on the Egyptian
+religion and mythology, for it shows the futility of trying to prove
+an absolute identity in the indigenous religions of the Aryans and
+Egyptians.
+
+Now, although a true decipherment of the ancient Egyptian
+hieratic and hieroglyphic texts has enabled us to draw our in-
+
+
+PREFACE ix
+
+formation on the religion and mythology of Egypt from native
+sources, we have still to contend against the ignorance of Egyptian
+scribes and the mistakes of careless copyists, and it must never be
+forgotten that the theologians at the court of the Pharaohs under the
+XVIIIth and XlXth Dynasties were just as ignorant of many facts
+connected with their religion and mythology as we ourselves are.
+In proof of this it is sufficient to refer to the different explanations
+of certain passages which are given along with the text in the
+xviith Chapter of the Booh of the Dead, and to the childish
+punning etymologies of the names of gods and of many mythological explanations which are set down in the texts inscribed on
+the walls of some chambers in the tomb of Seti I. at Thebes, and
+on the walls of the temple of Horus of Behutet at Edfu. It is
+satisfactory to be able to say that many of the absurd etymologies
+and trivial explanations which are products of the scribes of old
+can now be corrected. Recent researches have shown that the
+royal scribes under the ISTew Empire (b.c. 1700-700) were unable
+to read correctly the hieratic characters which formed the names of
+some of the kings of the early Archaic Period, and this being so,
+little surprise need be felt at the difficulties in religious texts
+which are due to their ignorance or blunders. Apart from such
+considerations, however, the subjects of Egyptian religion and
+mythology themselves are full of inherent difficulties, which have,
+unfortunately, not been lessened by the manner in which some
+Egyptologists have treated them.
+
+The number of the gods, even under the IVth Dynasty, about
+B.C. 3600, was very great, and as time went on it multiplied
+greatly. The Pyramid Texts, which were written under the IVth,
+Vth and YIth Dynasties, supply the names of about two hundred
+gods and mythological beings, but in the Booh of the Dead
+according to the Theban Eecension (b.c. 1700-1200) over five
+
+
+X PREFACE
+
+hundred gods are mentioned. If to these be added the names of
+all the mythological beings which occur in the various Books of the
+Underworld, we shall find that the number of the gods who were
+recognized by the theologians of the XlXth Dynast}?- at Thebes
+was about twelve hundred. If all the religious texts of this period
+from all the religious centres of Egypt were available for study,
+we should certainly find that the names of hundreds of additional
+local gods, goddesses, and mythological beings could be collected
+from them. With such a number of gods to consider, it was
+impossible for confusion not to arise in the mind of the Egyptian
+when dealing with them, and the texts prove that he found the
+gods as difficult to group and classify as the modern investigator.
+The attributes of hundreds of them were vague and shadowy, and
+the greater number of them were merely provincial gods, to whom
+circumstances had given some transient importance, which resulted
+in their names being recorded in writing. In fact, the theologian
+of ancient Egypt found it impossible to form a system of gods
+which should be consistent in all its parts, and should assign to
+earth gods, water gods, air gods, village gods, city gods, nome
+gods, national gods, and foreign gods, the exact position and
+attributes which were their due in it. From one point of view
+the modem investigator is more fortunate than the Egyptian
+theologian, for he has more materials upon which to work, and, as
+a rule, he is better equipped for his inquiry. The Egyptian knew
+nothing about the study of comparative religion, and he was sadly
+hampered by his own methods.
+
+Modern scientific study of the Egyptian religion and mythology may be said to have begun with the publication in full of the
+texts, both hieratic and hieroglyphic, of the Heliopolitan, Theban,
+and Saite Recensions of the Book of the Dead (Per-em-hru), and of
+the cognate funeral texts, such as "The Book of what is in the
+
+
+PREFACE xi
+
+Underworld," "The Book of Breathings," "The Book of Transformations," the " Lamentations," and the " Festival Songs of Isis
+and Nephthys," &c. The first to attempt to build up on a large
+scale a system of Egyptian theology and mythology from ancient
+native works was the late De. Heineich Beugsch, who collected
+and published in his Religion unci Mythologie der alien ^gypter,
+Leipzig, 1885-1888, a mass of facts of the greatest importance, and
+a summary of the conclusions which he deduced from them. In
+the same year in which the first section of Dr. Brugsch's work
+appeared, M. Maspero published in the Revue des Religions (tom.
+xii., p. 123 f.) a masterly article, entitled La Religion Egyptienne
+d'apres les pyramides de la V et de la FP dynastie, in which he
+gave to the world some of the results of his study of the " Pyramid
+Texts," which contain the oldest known Recension, i.e., the
+Heliopolitan, of the Booh of the Dead. In 1887, Signor
+Lanzone published the last part of his Bizionario di Mitologia
+Bgizia, which is one of the most valuable contributions to the study
+of Egyptian mythology ever made, and which contains the names
+of a large number of gods, demons, spirits, etc., arranged alphabetically, and a series of drawings of many of them printed in
+outline in red ink. In 1888 and 1889, M. Maspero, in two
+admirable articles in the Revue des Religions (La Mythologie
+Egyptienne, tom. xviii., p. 253 f., and tom. xix., p. 1 f.), discussed
+and criticized both the works of Beugsch and Lanzone, and shed a
+great deal of new light upon the facts collected in both.
+
+To M. Maspero belongs the credit of being the first to
+consider the Egyptian religion and mythology from the anthropological point of view, and all the evidence on these subjects which
+has since become available goes to prove the general correctness of
+the opinion which he stated some fifteen or sixteen years ago.
+Beugsch, it must be admitted, regarded the origin of Egyptian
+
+
+xii PREFACE
+
+religion from too lofty a metaphysical and philosophical standpoint,
+and appealed for proofs of his contentions to Egyptian texts
+belonging to too late a period to be entirely free from the influence
+of Greek culture and thought; in fact, he read into certain
+Egyptian texts, ideas, doctrines, and beliefs which the primitive
+and indigenous Egyptians could never have possessed. On the
+other hand, it seems to me that M. Maspero has somewhat
+underrated the character of the spiritual conceptions of the
+dynastic Egyptians, and that he has done so because, when he
+wrote his great article, La Mythologie Egyjptienne, Egyptologists
+had not thoroughly realized the distinction which exists between
+the primitive or predynastic element in the Egyptian religion and
+the Asiatic element. This element was of a solar character
+undoubtedly, and was introduced into Egypt by the " Followers of
+Horus," or the "Blacksmiths," who invaded the country, and
+conquered the natives, and settling down there, built up the great
+dynastic civilization which we call Egyptian. This seems to be
+the correct explanation of the diversity of view of two such
+eminent experts, and the opposite character of their conclusions
+appears to be due chiefly to the difference of the standpoints from
+which they viewed the subject.
+
+A prolonged study of the religious and mythological texts of
+ancient Egypt has convinced me of the futility of attempting to
+reconcile the conflicting beliefs and to harmonize the contradictory
+statements which are found in them, so long as we regard the
+Egyptian religion as "one in its extension and principle." It
+must first of all be resolved into its constituent elements, and when
+this has been done, it will probably be possible to classify, and
+arrange, and assign to their proper sources the various material
+and spiritual conceptions and beliefs which the Egyptians heaped
+up in their minds and flung together in their religious writings.
+
+
+PREFACE xiii
+
+It must, moreover, be studied by the light which the science of
+comparative religion has given us, and due regard must be paid
+to the important evidence on the subject that may be deduced
+from the remains and monuments of the Predynastic and Archaic
+Periods which have been unearthed during the last few years.
+
+The primitive dwellers in Egypt undoubtedly belonged to a
+large and important section of the inhabitants of North-East
+Africa, and possessed physical and mental characteristics which
+were peculiar to themselves. In the earliest times they were
+savages, and lived and died like savages in other parts of the
+world ; religious belief of any kind, in the modern sense of the
+term, they had none, and they probably regarded the animate and
+inanimate objects which they saw about them as akin to themselves. At a much later period they peopled the earth, air, sky,
+and water with beings of various kinds, and they paid a sort of
+homage or worship to certain stones, trees, and living creatures, in
+which they assumed that they lived. Some beings were held to
+be friendly and others unfriendly ; and it was thought that gifts or
+offerings would secure the continuance of the friendship of the
+former and avert the hostility of the latter. Friendly beings
+gradually became gods, and unfriendly ones were classed as devils,
+and in the ceremonies which the Egyptian savage performed in
+their honour, and in the incantations which he recited, the magic
+of Egypt, the forerunner of her religion, had its origin. The chief
+object of the savage Egyptian was self-preservation, and selfinterest was the mainspring of his actions, all of which were
+undertaken with a view to material benefits. When he first
+becomes known to us in the late Neolithic Period we find that he
+possessed a belief in an existence beyond the grave, and that it was
+of a material character is proved by the fact that he placed offerings
+of food in the graves of the dead. To prevent their return to this
+
+
+xiv PREFACE
+
+world, and their consequent claim for food and other material
+things, the heads of the dead were often severed from their bodies,
+and their feet cut off; thus the living made themselves secure in
+the possession of their homes, and wives, and goods. Nothing is
+known of the Egyptian religion and its ceremonies at this period,
+but whatever they were, it is pretty certain that the object of
+them all was to secure for themselves after death a renewal of life
+which should be full of carnal delights and pleasures, and there is
+no doubt that the ideas of a resurrection from the dead and
+immortality on these lines were firmly implanted in the native
+mind long before the Dynasty Period began.
+
+The cult of Osiris, the dead man deified, and the earliest
+forms of his worship, were, no doubt, wholly of African origin ;
+these are certainly the oldest elements in the religion of the
+Dynastic Period, and the most persistent, for Osiris maintained his
+position as the god and judge of the dead from the Predynastic
+to the Ptolemaic Period. The Followers of Horus, who brought a
+solar religion with them into Egypt from the East, never succeeded
+in dislodging Osiris from his exalted position, and his cult survived
+undiminished notwithstanding the powerful influence which the
+priests of Pa, and the worshippers of Amen, and the votaries of
+Aten respectively exercised throughout the country. The heaven
+of Osiris was believed to exist in a place where the fields were
+fertile and well stocked with cattle, and where meat and drink
+were abundant ; the abodes of the blessed were thought to be
+constructed after the model of the comfortable Egyptian homesteads in which they had lived during life, and the ordinary
+Egyptian hoped to live in one of these with his wives and parents.
+On the other hand, the followers of Ra, the sun-god, believed in a
+heaven of a more spiritual character, and their great hope was to
+occupy a seat in the boat of the god, and, arrayed in light, to travel
+
+
+PREFACE
+
+
+XV
+
+
+whithersoever he went. They wished to become bright and
+shining spirits, and to live upon the celestial meat and drink upon
+which he lived ; as he was so they hoped to be in every respect.
+The materialistic heaven of Osiris appealed to the masses in Egypt,
+and the heaven where Ra lived to the priests of Ea and other solar
+gods, and to royal and aristocratic families, and to the members of
+the foreign section of the community who were of Eastern
+origin.
+
+The various waves of religious thought and feeling, which
+swept over Egypt during the five thousand years of her history
+which are known to us, did not seriously disturb the cult of
+Osiris, for it held out to the people hopes of resurrection and
+immortality of a character which no other form of religion could
+give. Secure in these hopes the people regarded the various
+changes and developments of religious ideas in their country with
+equanimity, and modifications in the public worship of the gods,
+provided that the religious feasts and processions were not interrupted, moved them but little. Kings and priests from time to
+time made attempts to absorb the cult of Osiris into religious
+systems of a solar character, but they failed, and Osiris, the mangod, always triumphed, and at the last, when his cult disappeared
+before the religion of the Man Christ, the Egyptians who embraced Christianity found that the moral system of the old cult
+and that of the new religion were so similar, and the promises of
+resurrection and immortality in each so much alike, that they
+transferred their allegiance from Osiris to Jesus of Nazareth
+without difficulty. Moreover, Isis and the child Horus were
+straightway identified with Maey the Virgin and her Son, and in
+the apocryphal literature of the first few centuries which followed
+the evangelization of Egypt, several of the legends about Isis and
+her sorrowful wanderings were made to centre round the Mother
+
+
+xvi PREFACE
+
+of Cheist. Certain of the attributes of the sister goddesses of
+Isis were also ascribed to her, and, like the goddess Neith of Sais,
+she was declared to possess perpetual virginity. Certain of the
+Egyptian Christian Fathers gave to the Virgin the title "Theotokos," or "Mother of God," forgetting, apparently, that it was an
+of Isis. Interesting, however, as such an investigation would be,
+no attem|)t has been made in this work to trace out the influence of ancient Egyptian religious beliefs and mythology on
+Christianity, for such an undertaking would fill a comparatively
+large volume.
+
+From what has been said in the preceding pages the plan
+followed in the preparation of the present volumes will be evident.
+In the opening chapter an attempt has been made to describe the
+religious beliefs of the primitive Egyptians, and to explain how
+their later ideas about the " gods " and God grew up, and how they
+influenced the religious writings and paintings of the Dynastic
+Period. The region which is commonly called Heaven, or the
+" Underworld," and its denizens are next considered at some length,
+and this section is followed by chapters on the ancient myths of
+Ra, the legend of Ra and Isis, and the legend of the destruction of
+mankind. The hieroglyphic texts of the myths and legends are
+given with interlinear transliteration and translation, so that the
+student may verify my statements for himself. Of the minor gods
+and demons, of which nothing but the names are known, lists only
+are printed. The great gods of Egypt have been grouped as far as
+possible, and they are discussed in connection with the various
+religious centres to which they belong, e.g., Ptah, Sekhet, and
+I-em-hetep with Memphis, Amen, Mut, and Khensu with Thebes,
+and the " Great Company " of the gods with Heliopolis. Speaking
+generally, the first volume of this work treats of the oldest and
+
+
+PREFACE xvii
+
+greatest gods and triads of gods of Egypt, and the second, of the
+gods of Heliopolis, among whom are included Osiris and the deities
+of his funeral cycle. The hymns to the gods have been freely
+quoted, because they illustrate so clearly the views which the
+Egyptians held concerning them, and the manner in which they
+sought to praise them. In a chapter entitled "Miscellaneous
+Gods" will be found several lists of gods of the hours, days,
+months, winds, Dekans, etc., which I have collected from Dr.
+Brugsch's Thesaurus of astronomical and other texts ; for the main
+facts given in these volumes the authorities, both ancient and
+modern, will be found at the foot of the pages wherein they are
+first mentioned.
+
+Most of the portraits of the gods which appear in the coloured
+plates have been reproduced from papyri, coffins, etc., but for the
+outlines of a few I am indebted to Signor Lanzone's Dizionario
+Mitologia Egizia, the value of which has been already mentioned.
+It has been thought advisable to print the portraits of the gods
+which are not taken from papyri upon a papyrus-coloured ground,
+and to enclose each within a coloured border, for the effect is
+better, and the plan is consistent with that followed by the
+ancient Egyptian artists at aU periods.
+
+My thanks are due to Reginald Lake, Esq., of Messrs.
+Gilbert & Rivington, and to Mr. G. E. Hay and Mr. F. Rainer, of
+his staff, for the care and attention which they have taken in
+printing this work.
+
+E. A. WALLIS BUDGE.
+
+London, September 5th, 1903.
+
+
+CONTENTS
+
+
+CHAP. PAGE
+
+I. The Gods of Egypt 1
+
+Appendix : Unas, the Slayer and Eater of the Gods —
+Hieroglyphic text with interlinear transliteration
+
+AND translation 45
+
+II. Conception of God and the "Gods" 57
+
+III. Primitive Gods and Nome-Gods . . . . .95
+
+IV. The Companions of the Gods in Heaven .... 156
+V. The Underworld 170
+
+VI. Hell and the Damned 263
+
+VII. The oldest Company of the Gods and the Creation . . 282
+
+VIII. History of the Creation of the Gods and of the World —
+
+Hieroglyphic text with interlinear transliteration t
+
+and translation 308
+
+IX. Ea, the Sun-God, and his forms 322
+
+X. The Myths of Ea . .359
+
+XI. The Legend of Ea and Isis — Hieroglyphic text with interlinear transliteration and translation .... 372
+
+XII. The Destruction op Mankind — Hieroglyphic text with
+
+interlinear transliteration and translation . . . 388
+
+XIII. Thoth, and Maat and the other Goddesses who were
+
+associated with him . 400
+
+XIV. Hathor and the Hathor-Goddesses 428
+
+XV. The Horus Gods 466
+
+XVI. The Great Triad op Memphis, Ptah, Sekhet, and I-em-hetep 500
+
+
+LIST OF ILLUSTRATIONS
+
+
+1. Usertsen II. receiving " life " from the god Sept
+
+2. The serekh of Barneses II.
+
+3. The serpent-headed leopard Setcha
+
+4. The eagle-headed lion Sefer
+
+5. The fabulous beast Sak
+
+6. A fabulous leopard
+
+7. The animal Sha
+
+8. The First Hour of the Night
+
+9. The Second Hour of the Night
+
+10. The Third Hour of the Night
+
+11. The Fourth Hour of the Night
+
+12. The Fifth Hour of the Night
+
+13. The god on the top of the Steps
+
+14. The Eighth Hour of the Night
+
+15. The Ninth Hour of the Night
+
+16. The Tenth Hour of the Night
+
+17. The Eleventh Hour of the Night
+
+18. The gate of the Twelfth Hour of the Night
+
+19. Sunrise ......
+
+20. Book of the Underworld — First Hour
+
+21. Book of the Underworld — Second Hour
+
+22. Book of the Underworld — Third Hour
+
+23. Book of the Underworld — Fourth Hour
+
+24. Book of the Underworld — Fifth Hour
+
+25. Book of the Underworld — Sixth Hour
+
+26. Book of the Underworld — Seventh Hour
+
+27. Book of the Underworld — Eighth Hour
+
+28. Book of the Underworld — Ninth Hour
+
+29. Book of the Underworld — Tenth Hour
+
+30. Book of the Underworld — Eleventh Hour
+
+31. The Oldest Company of the Gods
+
+32. The Cow-goddess Nut
+
+33. Thothmes IV. making offerings to the Sphinx
+
+34. Horus of Behutet armed with a bow and arrows
+
+35. The double god Horus- Set
+
+36. Seker-Asar
+
+37. Ptolemy Euergetes and the Hennu-Boat
+
+38. Asar-Hapi (Serapis) ....
+
+
+and
+
+
+FAQE
+
+
+club . . 474
+
+
+r
+
+
+THE
+
+GODS OF THE EOYPTIANS
+
+CHAPTER I
+THE GODS OF EGYPT
+
+THE Greek historian Herodotus affirms ^ that the Egyptians
+were "beyond measure scrupulous in all matters apper-
+" taining to religion," and he made this statement after personal
+observation of the care which they displayed in the performance of religious ceremonies, the aim and object of which
+was to do honour to the gods, and of the obedience which they
+showed to the behests of the priests who transmitted to them
+commands which they declared to be, and which were accepted
+as, authentic revelations of the will of the gods. From the
+manner in which this writer speaks it is clear that he had no
+doubt about what he was saying, and that he was recording a
+conviction which had become settled in his mind. He was fully
+conscious that the Egyptians worshipped a large number of
+animals, and birds, and reptiles, with a seriousness and earnestness
+which must have filled the cultured Greek with astonishment, yet
+he was not moved to give expression to words of scorn as was
+Juvenal,^ for Herodotus perceived that beneath the acts of apparently
+
+
+3 " Quis nescit, Volusi Bithynice, qualia demens
+' " Aegyptus porfcenta colat ? crocodilon adorat
+
+" Pars liaec, ilia pavet saturam serpentibus ibin.
+" Effigies sacri nitet aurea cercopitheci,
+" Dimidio magicae resonant ubi Memnone chordae
+" Atque vetus Thebe centum jacet obruta portis.
+" lUic aeluros, bic piscem fluminis, illic
+
+B
+
+
+2 ANTIQUITY OF RELIGIOUS OBSERVANCES
+
+foolish and infatuated worship there existed a sincerity which
+betokened a firm and implicit belief which merited the respect of
+thinking men. It would be wrong to imagine that the Egyptians
+were the only people of antiquity who were scrupulous beyond
+measure in religious matters, for we know that the Babylonians,
+both Sumerian and Semitic, were devoted worshippers of their
+gods, and that they possessed a very old and complicated system of
+religion ; but there is good reason for thinking that the Egyptians
+were more scrupulous than their neighbours in religious matters,
+and that they always bore the character of being an extremely
+religious nation. The evidence of the monuments of the Egyptians
+proves that from the earliest to the latest period of their history
+the observance of religious festivals and the performance of
+religious duties in connexion Avith the worship of the gods absorbed
+a very large part of the time and energies of the nation, and
+if we take into consideration the funeral ceremonies and services
+commemorative of the dead which were performed by them at the
+tombs, a casual visitor to Egypt who did not know how to look
+below the surface might be pardoned for declaring that the
+
+" Oppida tota canem venerantur, nemo Diaiiam.
+" Porruni et caepe nefas violare et frangere raorsu :
+" 0 sanctas gentes, quibus haec Bascuntur in liortis
+" Numina ! Lanatis animalibus abstinet omnis
+" Mensa, nefas illic fetum ingulare capellae :
+" Carnibus humanis vesci licet." — Satire, xv. 1 — 13.
+
+That the crocodile, ibis, dog-headed ape, and fish of vai-ious kinds were venerated
+in Egypt is true enough ; they were not, however, venerated in dynastic times as
+animals, but as the abodes of gods. In certain localities peculiar sanctity was
+attributed to the leek and onion, as Juvenal suggests, but neither vegetable was an
+object of worship in the country generally ; and there is no monumental evidence
+to show that the eating of human flesh was practised, for it is now known that
+even the predynastic Egyptians did not eat the flesh of the dead and gnaw their
+bones, as was once rashly asserted. Juvenal's statements ai'e only partly true, and
+some of them are on a par with that of a learned Indian who visited England, and
+wrote a book on this country after his return to Bombay. Speaking of the religion
+of the English he declared that they were all idolaters, and to prove this assertion
+he gave a list of churches in which he had seen a figure of a lamb in the sculpture
+work over and about the altar, and in prominent places elsewhere in the churches.
+The Indian, like Juvenal, and Cicero also, seems not to have understood that
+many nations have regarded animals as symbols of gods and divine powers, and
+still do so.
+
+
+DIVINE ORIGIN OF KINGS 3
+
+Egyptians were a nation of men who were wholly given up to the
+worship of beasts and the cult of the dead.
+
+The Egyptians, however, acted in a perfectly logical manner,
+for they believed that they Avere a divine nation, and that they
+were ruled by kings who were themselves gods incarnate ;
+their earliest kings, they asserted, were actually gods, who did
+not disdain to live upon earth, and to go about and up and down
+through it, and to mingle with men. Other ancient nations were
+content to believe that they had been brought into being by the
+power of their gods operating upon matter, but the Egyptians
+believed that they were the issue of the great God who created the
+universe, and that they were of directly divine origin. When the
+gods ceased to reign in their proper persons upon earth, they were
+succeeded by a series of demi-gods, who were in turn succeeded
+by the Manes, and these were duly followed by kings in whom was
+enshrined a divine nature with characteristic attributes. When
+the physical or natural body of a king died, the divine portion of
+his being, i.e., the spiritual body, returned to its original abode
+with the gods, and it was duly worshipped by men upon earth as
+a god and with the gods. This happy result was partly brought
+about by the performance of certain ceremonies, which were at
+first wholly magical, but later partly magical and partly religious,
+and by the recital of appropriate words uttered in the duly
+prescribed tone and manner, and by the keeping of festivals at
+the tombs at stated seasons when the appointed offerings were
+made, and the prayers for the welfare of the dead were said.
+From the earliest times the worship of the gods went hand in hand
+with the deification of dead kings and other royal personages, and
+the worship of departed monarchs from some aspects may be
+regarded as meritorious as the worship of the gods. From one
+point of view Egypt was as much a land of gods as of men, and
+the inhabitants of the country wherein the gods lived and moved
+naturally devoted a considerable portion of their time upon earth
+to the worship of divine beings and of their ancestors who had
+departed to the land of the gods. In the matter of religion, and
+all that appertains thereto, the Egyptians were a " peculiar
+people," and in all ages they have exhibited a tenacity of belief
+
+
+4 NUMBER AND VAllIETY OF GODS
+
+and a conservatism which distinguish them from all the other
+great nations of antiquity.
+
+But the Egyptians were not only renowned for their devotion
+to religious observances, they were famous as much for the
+variety as for the number of their gods. Animals, birds, fishes,
+and reptiles were worshipped by them in all ages, but in addition to these they adored the great powers of nature as Avell
+as a large number of beings with which they peopled the heavens,
+the air, the earth, the sky, the sun, the moon, the stars, and
+the water. In the earliest times the predynastic Egyptians, in
+common with every half-savage peojile, believed that all the
+various operations of nature were the result of the actions of beings
+which were for the most part unfriendly to man. The inundation Avhich rose too high and flooded the primitive village, and
+drowned their cattle, and destroyed their stock of grain, was
+regarded as the result of the working of an unfriendly and
+unseen power ; and when the river rose just high enough
+to irrigate the land whicli had been prepared, they either thought
+that a friendly power, Avhicli was stronger than that whicli
+caused the destroying flood, had kept the hostile power in check,
+or that the spirit of the river was on that occasion pleased with
+them. They believed in the existence of spirits of the air, and
+in spirits of mountain, and stream, and tree, and all these had
+to be propitiated with gifts, or cajoled and wheedled into bestowing their favour and protection upon their suppliants.
+
+It is very unfortunate that the animals, and tlie spirits of
+natural objects, as well as the powers of nature, were all
+grouped together by the Egyptians and were described by the
+word NETERU, which, with considerable inexactness, we are
+obliged to translate by " gods." There is no doubt that at a
+very early period in their predynastic history the Egyptians
+distinguished between great gods and little gods, just as they did
+between friendly gods and hostile gods, but either their poverty
+of expression, or the inflexibility of their language, prevented
+them from making a distinction apparent in writing, and thus
+it happens that in dynastic times, when a lofty conception of
+monotheism prevailed among the priesthood, the scribe found
+
+
+GOD AND ''GODS" AND ANGELS 5
+
+himself obliged to call both God and the lowest of the beings that
+were supposed to possess some attribute of divinity by one and the
+same name, i.e., neter. Other nations of antiquity found a way
+out of the difficulty of grouping all classes of divine beings by one
+name by inventing series of orders of angels, to each of which
+they gave names and assigned various duties in connexion with
+the service of the Deity. Thus in the Kur'an (Sura xxxv.) it is
+said that God maketh the angels His messengers and that they
+are furnished with two, or three, or four pairs of wings, according to their rank and importance ; the archangel Gabriel is said
+to have been seen by Muhammad the Prophet with six hundred
+pairs of wings ! The duties of the angels, according to the
+Muhammadans, were of various kinds. Thus nineteen angels are
+appointed to take charge of hell fire (Sura Ixxiv.) ; eight are set
+apart to support God's throne on the Day of Judgment (Sura
+Ixix.) : several tear the souls of the wicked from their bodies
+with violence, and several take the souls of the righteous from
+their bodies with gentleness and kindness (Sura Ixxix.) ; two
+angels are ordered to accompany every man on earth, the one to
+write do^vn his good actions and the other his evil deeds, and these
+will appear with him at the Day of Judgment, the one to lead him
+before the Judg-e, and the other to bear witness either for or
+against him (Sura 1.). Muhammadan theologians declare that the
+angels are created of a simple substance of light, and that they
+are endowed with life, and speech, and reason ; they are incapable of sin, they have no carnal desire, they do not propagate
+their species, and they are not moved by the passions of wrath
+and anger ; their obedience is absolute. Their meat is the
+celebrating of the glory of God, their drink is the proclaiming of
+His holiness, their conversation is the commemorating of God, and
+their pleasure is His worship. Curiously enough, some are said
+to have the form of animals. Four of the angels are Archangels,
+viz. Michael, Gabriel, Azrael, and Israfel, and they possess special
+powers, and special duties are assigned to them. These four are
+superior to all the human race, with the exception of the Prophets
+and Apostles, but the angelic nature is held to be inferior to
+human nature because all the angels were commanded to worship
+
+
+6 MUHAMMADAN AND SYRIAN ANGELS
+
+Adam {Siira ii.). The above and many other characteristics
+might be cited in proof that the angels of the Muliammadans
+possess much in common with the inferior gods of the Egyptians,
+and though many of the conceptions of the Arabs on this point
+were undoubtedly borrowed from the Hebrews and their writings,
+a great many must have descended to them from their own early
+ancestors.
+
+Closely connected with these Muhammadan theories, though
+much older, is the system of angels which was invented by the
+Syrians. In this we find the angels divided into nine classes and
+three orders, u|)per, middle, and lower. The upper order is
+composed of Cherabim, Seraphim, and Thrones ; the middle order
+of Lords, Powers, and Rulers ; and the lower order of Principalities, Archangels, and Angels. The middle order receives
+revelations from those above them, and the lower order are the
+ministers who wait upon created things. The highest and foremost among the angels is Gabriel, who is the mediator between
+God and His creation. The Archangels in this system are
+described as a " swift operative motion," which has dominion over
+every living thing except man ; and the Angels are a motion
+which has spiritual knowledge of everything that is on earth and
+in heaven.^ The Syrians, like the Muliammadans, borrowed largely
+from the Avritings of the Hebrews, in Avhose theological system
+angels played a very prominent part. In the Syrian system also
+the angels possess much in common with the inferior gods of the
+Egyptians.
+
+The inferior gods of the Egyptians were supposed to suffer
+from many of the defects of mortal beings, and they were even
+thought to grow old and to die, and the same ideas about the
+angels were held by Muhammadans and Plebrews. According to
+the former, the angels will perish when heaven, their abode, is
+made to pass away at the Day of Judgment. iVccording to the
+latter, one of the two great classes of angels, i.e., those which were
+created on the fifth day of creation, is mortal ; on the other hand,
+the angels which were created on the second day of creation
+
+'^ See my edition of the Jiook of tlic Bee, by Solomon of Al-Basra. Oxford,
+
+
+HEBREW ANGELS OR ^'GODS" 7
+
+endure for ever, and these may be fitly compared with the
+unfailing and unvarying powers of nature which were personified
+and worshipped by the Egyptians ; of the angels which perish,
+some spring from fire, some from water, and some from wind.
+The angels are grouped into ten classes, i.e., the Erelim, the Ishim,
+the Bene Elohim, the Malachim, the Hashmahm, the Tarshishim,
+the Shishanira, the Cherubim, the Ophannim, and the Seraphim ; ^
+amono; these were divided all the duties connected with the
+ordering of the heavens and the earth, and they, according to
+their position and importance, became the interpreters of the Will
+of the Deity. A comparison of the passages in Rabbinic literature
+which describe these and similar matters connected with the
+angels, spirits, etc., of ancient Hebrew mythology with Egyptian
+texts shows that both the Egyptians and Jews possessed many
+ideas in common, and all the evidence goes to prove that the
+latter borrowed from the former in the earliest period.
+
+In comparatively late historical times the Egyptians introduced into their company of gods a few deities from Western
+Asia, but these had no effect in modifying the general character
+either of their religion or of their worship. The subject of comparative Egyptian and Semitic mythology is one which has yet
+to be worked thoroughly, not because it Avould supply us with
+the original forms of Egyptian myths and legends, but because it
+would show what modifications such things underwent when
+adopted by Semitic peoples, or at least by peoples who had
+Semitic blood in their veins. Some would compare Egyptian and
+Semitic mythologies on the ground that the Egyptians and
+Semites were kinsfolk, but it must be quite clearly understood
+that this is pure assumption, and is only based on the statements of those who declare that the Egyptian and Semitic
+languages are akin. Others again have sought to explain
+the mythology of the Egyptians by appeals to Aryan mythology^
+and to illustrate the meanings of important Egyptian words in
+religious texts by means of Aryan etymologies, but the results
+are wholly unsatisfactory, and they only serve to show the futility
+
+1 See the chapter " Was die Judeu von den guten Engeln lehren " in Eisenmenger, Entdechten Judenihums, vol. ii. p. 370 ff.
+
+
+8 THE OLDEST GODS OF EGYPT
+
+of comparing the mythologies of two peoples of different race
+occupying quite different grades in the ladder of civilization. It
+cannot be too strongly insisted on that all the oldest gods of Egypt
+are of Egyptian origin, and that the fundamental religious beliefs
+of the Egyptians also are of Egyptian origin, and that both the
+gods and the beliefs date from predynastic times, and have nothing
+whatever to do with the Semites or Aryans of history.
+
+Of the origin of the Egyptian of the Palaeolithic and early
+
+Neolithic Periods, we, of course, know nothing, but it is tolerably
+
+certain that the Egyptian of the latter part of the Neolithic Period
+
+was indigenous to North-East Africa, and that a very large
+
+number of the great gods worshipped by the dynastic Egyptian
+
+were Avorshipped also by his jDredecessor in predynastic times.
+
+The conquerors of the Egyptians of the Neolithic Period who,
+
+with good reason, have been assumed to come from the East and
+
+to have been more or less akin to the Proto- Semites, no doubt
+
+brought about certain modifications in the worship of those whom
+
+they had vanquished, but they could not have succeeded in
+
+abolishing the various gods in animal and other forms which were
+
+worshipped throughout the length and breadth of the country,
+
+for these continued to be venerated until the time of the Ptolemies.
+
+We have at present no means of knoAving how far the religious
+
+beliefs of the conquerors influenced the conquered peoples of
+
+Egypt, but viewed in the light of well-ascertained facts it seems
+
+tolerably certain that no great change took place in the views
+
+which the indigenous peoples held concerning their gods as the
+
+result of the invasion of foreigners, and that if any foreign gods
+
+were introduced into the company of indigenous, predynastic gods,
+
+they were either quickly assimilated to or wholly absorbed by them.
+
+Speaking generally, the gods of the Egyptians remained unchanged
+
+throughout all the various periods of the history of Egypt, and the
+
+minds of the people seem always to have had a tendency towards
+
+the maintenance of old forms of worship, and to the preservation
+
+of the ancient texts in which such forms were prescribed and old
+
+beliefs were enshrined. The Egyptians never forgot the ancient
+
+gods of the country, and it is typical of the spirit of conservatism
+
+which they displayed in most things that even in the Roman
+
+
+INDIGENOUS BELIEFS 9
+
+Period pious folk among them were buried with the same prayers
+and with the same ceremonies that had been employed at the
+burial of Egyptians nearly five thousand years before. The
+Egyptian of the Roman Period, like the Egyptian of the Early
+Empire, was content to think that his body would be received in
+the tomb by the jackal-headed Anubis ; that the organs of his
+corruptible body AYould be presided over and guarded by animalheaded gods ; that the reading of the pointer of the Great Scales,
+wherein his heart was weighed, would be made known by an ape
+to the ibis-headed scribe of the gods, whom we know by the name
+of Thoth ; and that the beatified dead would be introduced to the
+god Osiris by a hawk-headed god called Horus, son of Isis, who in
+many respects was the counterpart of the god Heru-ur, the oldest
+of all the gods of Egypt, whose type and symbol was the hawk.
+From first to last the indigenous Egyptian paid little heed to the
+events which happened outside his own country, and neither
+conquest nor invasion by foreign nations had any effect upon his
+personal belief. He continued to cultivate his land diligently,
+he worshipped the gods of his ancestors blindly, like them he
+spared no pains in making preparations for the preservation of his
+mummified body, and the heaven which he hoped to attain was
+fashioned according to old ideas of a fertile homestead, well
+stocked with cattle, where he would enjoy the company of his
+parents, and be able to worship the local gods whom he had
+adored upon earth. The priestly and upper classes certainly held
+views on these subjects which differed from those of the husbandman, but it is a significant fact that it was not the religion and
+mythology of the dynastic Egyptian, but that of the indigenous,
+predynastic Egyptian, with his animal gods and fantastic and
+half-savage beliefs, which strongly coloured the religion of the
+country in all periods of her history, and gave to her the characteristics which were regarded with astonishment and wonder by
+all the peoples who came in contact with the Egyptians.
+
+The predynastic Egyptians in the earliest stages of their
+existence, like most savage and semi-savage peoples, believed that
+the sea, the earth, the air, and the sky were filled to overflowing
+with spirits, some of whom were engaged in carrying on the works
+
+
+10 BELIEF IN SPIRITS
+
+of nature, and others in aiding or obstructing man in the course
+of his existence upon earth. Whatsoever happened in nature was
+attributed by them to the operations of a large number of spiritual
+beings, the life of whom was identical with the life of the great
+natural elements, and the existence of whom terminated with the
+destruction of the objects which they were supposed to animate.
+Such spirits, although invisible to mental eyes, were very real
+creatures in their minds, and to them they attributed all the
+passions which belong to man, and all his faculties and powers
+also. Everything in nature was inhabited by a spirit, and it was
+thought possible to endow a representation, or model, or figure of
+any object with a spirit or soul, provided a name was given to it ;
+this spirit or soul lived in the drawing or figure until the object
+which it animated was broken or destroyed. The objects, both
+natural and artificial, which we consider to be inanimate were
+regarded by the predynastic Egyptians as animate, and in many
+respects they were thought to resemble man himself. The spirits
+who infested every part of the visible world were countless in
+forms, and they differed from each other in respect of power;
+the spirit that caused the Inundation of the Nile was greater than
+the one that lived in a canal, the spirit that made the sun to
+shine was more powerful than the one that governed the moon,
+and the spirit of a great tree was mightier than the one that
+animated an ear of corn or a blade of grass. The difference
+between the supposed powers of such spirits must have been
+distinguished at a very early period, and the half-savage inhabitants of Egypt must at the same time have made a sharp distinc-
+tion between those whose operations Avere beneficial to them, and
+those whose actions brought upon them injury, loss, or death. It
+is easy to see how they might imagine that certain great natural
+objects were under the dominion of spirits who Avere capable of
+feeling wrath, or displeasure, and of making it manifest to man.
+Thus the spirit of the Nile would be regarded as beneficent and
+friendly when the waters of the river rose sufficiently during the
+period of the Inundation to ensure an abundant crop throughout
+the land ; but when their rise was excessive, and they drowned the
+cattle and washed away the houses of the people, whether made of
+
+
+ANIMALS AND REPTILES 11
+
+wattles or mud, or when they rose insufficiently and caused want
+and famine, the spirit of the Nile Avould be considered unfriendly
+and evil to man. An ample and sufficient Inundation was
+regarded as a sign that the spirit of the Nile was not displeased
+with man, but a destructive flood was a sure token of displeasure.
+The same feeling exists to this day in Egypt among the peasantfarmers, for several natives told me in 1899, the year of the lowest
+rise of the Nile of the XlXth century,^ that " Allah was angry
+with them, and would not let the water come " ; and one man
+added that in all his life he had never before known Allah to be so
+angry with them.
+
+The spirits which were always hostile or unfriendly towards man,
+and were regarded by the Egyptians as evil spirits, were identified
+with certain animals and reptiles, and traditions of some of these
+seem to have been preserved until the latest period of dynastic history. Apep, the serpent- devil of mist, darkness, storm, and night,
+of whom more will be said later on, and his fiends, the " children of
+rebellion," were not the result of the imagination of the Egyptians
+in historic times, but their existence dates from the period when
+Egypt was overrun by mighty beasts, huge serpents, and noxious
+reptiles of all kinds. The great serpent of Egyptian mythology,
+which was indeed a formidable opponent of the Sun-god, had its
+prototype in some monster serpent on earth, of which tradition had
+preserved a record ; and that this is no mere theory is proved by
+the fact that the remains of a serpent, which must have been of
+enormous size, have recently been found in the FayyCim. The
+vertebrae are said to indicate that the creature to which they
+belonged was longer than the largest python known. ^ The allies
+of the great serpent-devil Apep were as hostile to man as
+was their master to the Sun-god, and they were regarded with
+terror by the minds of those who had evolved them. On the other
+liand, there were numbers of s|)irits whose actions were friendly
+
+1 In October, 1899, the level of tlie water of Lake Victoria was 2 ft. below the
+normal, and in December the level at Aswan was 5 ft. 8 ins. below the average of
+previous years.
+
+" "If the proportions of this snake were the same as in the existing Python
+'■'■ seboe it probably reached a length of thirty feet." C. W. Andrews, D.Sc, in
+Geological Mag., vol. viii., 1901, p, 438.
+
+
+12 HEAVEN AND HELL
+
+and beneficial to man, and some of these were supposed to do battle
+on his behalf against the evil spirits.
+
+Thus at a very early period the predynastic Egyptian must
+have conceived the existence of a great company of spirits whose
+goodwill, or at all events whose inaction, could only be obtained by
+bribes, i.e., offerings, and cajolery and flattery ; and of a second
+large company whose beneficent deeds to man he was wont to
+acknowledge and whose powerful help he Avas anxious to draw
+towards himself; and of a third company who were supposed to be
+occupied solely with making the sun, moon, and stars to shine, and
+the rivers and streams to flow, and the clouds to form and the rain
+to fall, and who, in i'act, were ahvays engaged in carrying out
+diligently the workings and evolutions of all natural things, both
+small and great. The spirits to whom in predynastic times the
+Egyptians ascribed a nature malicious or unfriendly towards man,
+and who were regarded much as modern nations have regarded
+goblins, hobgoblins, gnomes, trolls, elves, etc., developed in dynastic
+times into a corporate society, with aims, and intentions, and acts
+wholly evil, and with a government which was devised by the
+greatest and most evil of their number. To these, in process of
+time, were joined the spirits of evil men and women, and the
+prototype of hell was formed by assuming the existence of a place
+where evil spirits and their still more evil chiefs lived together.
+By the same process of imagination beneficent and friendly spirits
+were grouped together in one abode under the direction of rulers
+who were well disposed towards man, and this idea became the
+nucleus of the later conception of the heaven to which the souls of
+good men and women were supposed by the Egyptian to depart,
+after he had developed sufficiently to conceive the doctrine of
+immortality. The chiefs of the company of evil spirits subsequently
+became the powerful devils of historic times, and the rulers of the
+company of beneficent and good spirits became the gods ; the spirits
+of the third company, i.e., the spirits of the powers of Nature,
+became the great cosmic gods of the dynastic Egyptians. The cult
+of this last class of spirits, or gods, differed in many ways from that
+of the spirits or gods who were supposed to be concerned entirely
+with the welfare of man, and in dynastic times there are abundant
+
+
+ANTIQUITV OF EGYPTIAN MAGIC 13
+
+proofs of this in religious texts and compositions. In the hymns to
+the Sun-god, under whatsoever name he is worshipped, we find that
+the greatest wonder is expressed at his majesty and glory, and that
+he is apostrophised in terms which show forth the awe and fear of
+his devout adorer. His triumphant j)assage across the sky is
+described, the unfailing regularity of his rising and setting is
+mentioned, reference is made to the vast distance over which he
+passes in a moment of time, glory is duly ascribed to him for the
+great works which he performs in nature, and full recognition is
+given to him as the creator of men and animals, of birds and fish,
+of trees and plants, of reptiles, and of all created things ; the
+praise of the god is full and sufficient, yet it is always that of a
+finite being who appears to be overwhelmed at the thought of the
+power and might of an apparently infinite being. The petitions
+lack the personal appeal which we find in the Egyptian's prayers
+to the man-god Osiris, and show that he regarded the two gods
+from entirely different points of view. It is impossible to say how
+early this distinction between the functions of the two gods was
+made, but it is certain that it is coeval with the beginnings of
+dynastic history, and that it was observed until very late times.
+
+The element of magic, which is the oldest and most persistent
+characteristic of the worship of the gods and of the Egyptian
+religion, generally belongs to the period before this distinction was
+arrived at, and it is clear that it dates from the time when man
+thought that the good and evil spirits were beings who Avere not
+greatly different from himself, and who could be propitiated with
+gifts, and controlled by means of words of power and by the performance of ceremonies, and moved to action by hymns and
+addresses. This belief was present in the minds of the Egyptians
+in all ages of their history, and it exists in a modified form among
+the Muhammadan Egyptians and Sudani men to this day. It is
+true that they proclaim vehemently that there is no god but God,
+and that Muhammad is His Prophet, and that God's power is
+infinite and absolute, but they take care to guard the persons of
+themselves and their children from the Evil Eye and from the
+assaults of malicious and evil spirits, by means of amulets of all
+kinds as zealously now as their ancestors did in the days before
+
+
+14 EVII. SPIRITS
+
+the existence of God Who is One was conceived. The caravan
+men protect their camels from the Evil Eye of the spirits of the
+desert by fastening bright-coloured beads between the eyes of their
+beasts, and by means of long fringes Avhich hang from their
+mahlufas, or saddles, and in spite of their firm belief in the infinite
+power of God, they select an auspicious day on which to set out
+on a journey, and they never attempt to pass certain isolated
+caves, or ravines, or mountains, in the night time. All the
+members of the great family of the Jinn are to them as real to-day
+as their equivalents were to the ancient Egyptians, and, from the
+descriptions of desert spirits which are given by those who have
+been fortunate enough to see them, it is clear that traditions of
+the form and appearance of ancient Egyptian fiends and evil
+spirits have been unconsciously j)reserved until the present day.
+The modern Egyptians call them by Arabic names, but the
+descriptions of them agree well with those which might be made
+of certain genii that appear in ancient Egyptian mytliological
+works treating of the Underworld and its inhabitants.
+
+The peoples of the Eastern Sudan, who are also Muhammadans,
+have inherited many ideas and beliefs from the ancient Egyptians,
+and this is not to be wondered at when we remember that the
+civilization of Nubia from the beginning of the XVIIIth Dynasty
+to the end of the XXVIth, i.e., from about B.C. 1550 to about
+B.C. 550, was nothing but a slavish copy of that of Egypt. A
+stay of some months in the village at the foot of Jebel Barkal,
+which mai'ks the site of a part of the old Nubian city of Napata,
+convinced me of this fact, and visits to other places in the Eastern
+Sudan proved that these ideas and beliefs were widespread. The
+hills and deserts are, according to native belief, peopled with
+spirits, which are chiefly of a disposition unfriendly to man, and
+they are supposed to have the power of entering both human
+beings and animals almost at pleasure. Palm-trees die or become
+unfruitful, and cattle fall sick through the operations of evil spirits,
+and any misfortune which comes upon the community or upon the
+individual is referred to the same cause. The pyramids, which
+they call tarahll, on the hill, are viewed witli almost childish fear
+by the natives who, curiously enough, speak of the royal personages
+
+
+MODERN SUDANI SUPERSTITIONS 15
+
+buried therein as illdhdt, or "gods," and none of them, if it can
+possibly be avoided, will go up after sundown into " the mountain,"
+as they call the sandstone ridge on which they are built. Tombs
+and cemeteries are carefully avoided at night as a matter of course,
+but to approach the pyramids at night is regarded as a wilful act
+which is sure to bring down upon the visitor the wrath of the
+spirits of the kings, who have by some means acquired a divine
+character in the eyes of the natives. When I was opening one of
+the pyramids at Jebel Barkal in 1897, Muhammad wad Ibrahim,
+the shekh of the village, tried to keep the workmen at work as
+long as daylight lasted, but after this had been done for two or
+three evenings, several of the wives of the men appeared and
+carried off their husbands, fearing they should either be bewitched,
+or suffer some penalty for intrusion in that place at the time when,
+in popular opinion, the spirits of the dead came forth to enjoy the
+cool of the evening. The same idea prevailed further south among
+the people who lived on the river near the pyramids of Bakrawiyeh,
+which mark the site of the royal necropolis of the ancient city of
+Berua, or Marua, i.e., Meroe. The local shekh was appointed to
+go with me and to help in taking measurements of some of the
+pyramids at this place, but when we were about half a mile from
+them he dismounted, and said he could go no further because he
+was afraid of the spirits of the gods, illdhdt, who were buried there.
+After much persuasion he consented to accompany me, but nothing
+would iaduce him to let the donkeys go to the pyramids ; having
+hobbled them and tied them to a large stone he came on, but
+seated himself on the ground at the northern end of the main
+group of pyramids, and nothing would persuade him to move
+about among the ruins. The natives of Jebel Barkal viewed the
+work of excavation with great disfavour from the very first, and
+their hostile opinion was confirmed by the appearance at the
+pyramids of great numbers of wasps, which, they declared, were
+larger than any which they had seen before ; they were convinced
+that they were evil spirits who had taken the form of wasps, and
+that evil was coming upon their village. It was useless to explain
+to them that the wasps only came there to drink from the waterskins, which were kept full and hung there on pegs driven into the
+
+
+16 MODERN SUDANI SUPERSTITIONS
+
+masonry for the use of the workmen ; and when a harmless snake,
+about eight feet long, which had also crawled there to drink, was
+killed one morning by the men, their fears of impending evil were
+confirmed, for they were certain that the spirit of a king had been
+killed, and they expected that vengeance would be taken upon
+them by the divine spirits of his companions.
+
+About halfway up Jebel Barkal there lived four large hawks
+which always seemed to be following any person who ascended the
+mountain, but yet never came very near ; these were always
+regarded by the natives as the embodied spirits of the gods whose
+figures still remain sculptured and painted on the walls of the rockhewn sanctuary at the foot of the hill, and I never heard of any
+attempt being made to shoot or snare them by the people of the
+villages of Barkal, Shibba, or Marawi. The inhabitants could not
+know that the hawk was probably the first living creature which
+was worshipped in the Nile Valley, and therefore the respect which
+they paid to the hawks must have been due to a tradition which
+had been handed down to them throuo;h countless o-enerations from
+a past age. Their connecting the hawks with the figures of the
+gods sculptured in the sanctuary of Amen-Ra is worthy of note,
+for it seems to show that on such matters they thought along the
+same lines as their ancestors.
+
+Concerning amulets, the Sudani man is as superstitious as
+were his ancestors thousands of years ago, and he still believes that
+stones of certain colours possess magical properties, especially when
+inscribed with certain symbols, of the meaning of which, however,
+he has no knowledge, but which are due, he says, to the presence of
+spirits in them. Women and children, especially female children,
+protect many parts of their bodies with strings of beads made of
+magical stones, and sometimes with plaques of metal or stone, which
+are cut into various shapes and ornamented with signs of magical
+power ; the positions of such plaques on the body are frequently
+identical with those whereon the dynastic Egyptians laid amulets
+on the dead, and, if we could learn from the Sudani folk the reasons
+which prompt them to make use of such things, we should probably
+find that the beliefs which underlie the customs are also identical.
+The above facts concerning the Sudani belief in spirits might be
+
+
+IDEAS ABOUT THE BEETLE 17
+
+greatly multiplied, and they are not so remotely connected with the
+beliefs of the dynastic, and even predynastic, Egyptians, as may
+appear to be the case at first sight, and the writer believes that a
+large amount of information of a similar kind awaits the investigator,
+who will devote the necessary time to living in some of the out-ofthe-way villages of the black (not negro) peoples who dAvell on the
+eastern bank of the Nile and of the Blue Mle.
+
+In many isolated places in Southern Nubia and the Eastern
+Sudan are trees which men regard with reverence, but this may
+be the result of contact with the natives of Central Africa, where
+people pray to trees on certain occasions,^ believing that the spirits
+which are supposed to dwell in them can bestowgifts upon those whom
+they regard with favour, and ensure safety both to themselves and
+their animals when travelling. Still further to the south certain
+animals, e.g., the cynocephalus ape, which plays such a prominent
+part in dynastic Egyptian mythology, are supposed to be inhabited
+by divine spirits and to possess extraordinary powers of intelligence
+in consequence, and the various kinds of scarabaei, or beetles, are
+thought to be animated by spirits, which the natives connect with
+the sun. The dead bodies of these insects were, in former days,
+often eaten by women who wished to become mothers of large
+families, and to this day parts of them are cooked, and treated
+with oil, and made into medicines ^ for the cure of sore eyes, etc.
+The dynastic Egyptians believed that the scarab was connected
+
+1 " Under the wide-spreading branches of an enormous heglik-tree, and on a
+" spot beautifully clean and sprinkled with fine sand, the Bedeyat beseech an
+" unknown god to du^ect them in their undertakings and to protect them from
+" danger." Slatin Pasha, Fire- and Sivord in the Sudan, London, 1896, p. 114*.
+
+3 Ibrahim Rushdi, Clerk of Telegraphs at Benha, in Lower Egypt, told me in
+January, 1895, that in many districts the beetles were boiled, and the grease
+extracted from them ; as they are being boiled the shells come off. The bodies are
+next roasted in olive oil, and then steeped in myrrh, and after this they are
+macerated in that liquid, and strained through muslin; the liquid which runs
+through is believed to cure the itching which is caused by a certain internal ailment.
+Some men drink a few drops of it in each cup of coffee, and women drink it to
+make them fat. The old women have a prescription for sore eyes, which is as
+follows : — Stick a splinter of wood through a series of beetles for twelve hours
+when a child is about to be born ; when the child is born, pull the splinter out of
+the last beetle, and dip it in Tcohl, and rub the eyes of the child with it. If this
+be done in the proper way the child will never suffer from sore eyes.
+
+C
+
+
+18 FORMS OF EVIL SPIRITS
+
+with the Sun-god Ra, and in religious texts of all periods it is
+said that the beetle occupied a place in the boat of this god.
+
+We have already seen that the dynastic Egyptians, and their
+predecessors, conceived the existence of spirits hostile towards
+man, of spirits beneficent towards man, and of spirits which were
+wholly occupied with carrying out the various operations of
+Nature, and we must now consider the manner and forms in which
+they became visible to man. The commonest form in which a
+spirit was believed to make itself visible to man was that of some
+beast, or bird, or fish, or reptile, and at a very early period
+adoration, in one form or another, of the so-called inferior animals
+was well-nigh universal in Egypt. At the time when this worship
+began animals, as well as inanimate objects, were not considered
+by the inhabitants of the Nile Valley to be greatly removed from
+themselves in intelligence. Primitive man saw nothing ridiculous
+in attributing speech to inanimate objects and animals, which
+were supposed to think, and reason, and act like human beings ;
+and the religious literature of many of the most ancient nations
+contains numerous proofs of this fact. Among the baked clay
+tablets found in the ruins of the Royal Library of Nineveh, which
+contained copies of hundreds of documents preserved in the temples
+of the most ancient cities of Babylonia, were fragments of a
+dialogue between a horse and an ox, which is now known as the
+" Fable of the Horse and the Ox," ^ and it is tolerably certain that
+this dialogue did not originate in the reign of Ashur-bani-pal
+(b.c. 668-626), although the tablet on which it was written is
+not older than his time. Again, in the Creation Legend the
+dragon-monster Tiamat, the representative of the powers of evil
+and darkness, is made to conspire against the gods, and to create
+a serpent brood ^ in order to do effective battle with them ; and
+other instances might be quoted to show that the Babylonians and
+Assyrians attributed to the animals reason, passions, and language.
+
+1 See Guide to the Bahylonum and Assyrian Antiquities, London, 1900, p. 48 ;
+the fragments are exhibited in the Biitish Museum, Nineveh Gallery, Table-case C.
+
+~ Ibid, p. 36. For the cuneiform tablets in the British Maseum see Nineveh
+Galler , Table-case A. See also L. W. King, Seven Tablets of Creation, vol. i.,
+p. 1 ff.
+
+
+TALKING ANIMALS, TREES, ETC. 19
+
+From the Bible we learn that the Hebrews held the same
+views as their kinsmen on this matter, and we are told that the
+serpent beguiled and seduced Eve by his speech, and made her
+break the command of the Lord (G-enesis iii. 1 ff.)? and that the
+she-ass of Balaam remonstrated with her master and asked him
+why he had smitten her three times (Numbers xxii. 28). We may
+note in passing that this animal is said to have been able to see the
+Angel of the Lord standing in the way, whilst her master could
+not, and we are forcibly reminded of the belief which was current
+among Jews and Muliammadans to the effect that dogs howled
+before a death because they were able to see the Angel of Death
+going about on his mission, to say nothing of our own superstition
+to the same effect, which, however, we seem to have derived not
+from the East, but from cognate northern European nations. We
+see also from the Book of Judges (ix. 8 ff.) that speech and reason
+were sometimes attributed to objects which we regard as inanimate,
+for we read that the trees " went forth on a time to anoint a king
+'' over them ; and they said unto the olive tree, Reign thou over us."
+When the olive tree refused, they went to the fig tree with the
+same request, and when the fig tree refused, they went to the vine,
+which refused to leave its wine " which cheereth Grod and man " ;
+on this they applied to the bramble, which placed before them the
+choice of coming and putting their trust in its shadow, or of being
+burnt by the fire which should come forth from out of itself. In
+connexion with this idea may, perhaps, be mentioned the incident
+recorded in Numbers xxi. 17, wherein we are told that the princes
+and nobles digged a well " with their staves " by the direction of
+the lawgiver, and that the Children of Israel sang this song,
+"Spring up, 0 well; sing ye unto it." Many other examples
+might be quoted from Hebrew literature to show that animals and
+inanimate objects were on certain occasions regarded as beings which
+possessed thinking and reasoning powers similar to those of men.
+
+Among the Egyptians animals thought, and reasoned, and
+spoke as a matter of course, and their literature is full of indications that they believed them to be moved by motives and passions
+similar to those of human beings. As a typical example may be
+quoted the instance of the cow, in the Tale of the Two Brothers^
+
+
+20 THE DOG-HEADED APE
+
+who tells her herd that his elder brother is standing behind the
+door of the byre with his dagger in his hand waiting to slay him ;
+the young man having seen the feet of his brother under the door
+took to flight, and so saved his life. Here we have another proof
+that animals were sometimes credited with superhuman intelligence
+and discernment, since but for the warning of the cow, who had
+perceived what her master had failed to notice, the herd would
+have been slain as soon as he entered the byre. Here, too, must
+be noted the very important part which is played in the Judgment
+Scene in the Booh of the Dead by animals. In the Story of the
+Shijnvrech also we are told concerning a huge serpent thirty cubits
+long, with a beard two cubits long, which made a long speech to
+the unfortunate man who was wrecked on the island wherein it
+lived.
+
+In the pap3rri of the XVIIIth Dynasty we have representations of the weighing of the heart of the deceased in the Great
+Balance, which takes place in the presence of the Great Company
+of the gods, who act as judges, and who pass the sentence of doom,
+that must be ratified by Osiris, according to the report of the god
+Thoth, who acts as scribe and secretary to the gods. The Egyptian
+hoped that his heart would exactly counterbalance the feather,
+symbolic of Maat or the Law, and neither wished nor expected it
+to outweigh it, for he detested performing works of supererogation.
+The act of weighing was carefully watched by Anubis the god of
+the dead, whose duty was to cast to the Eater of the Dead the
+hearts which failed to balance the feather exactly ; and by the
+guardian angel of the deceased, on behalf of the deceased ; and by
+a dog-headed ape, who was seated on the top of the pillar, and who
+supported himself upon the bracket on Avhich was balanced the
+beam of the Great Scales. This ape was the associate and companion of the god Thoth, and he was supposed to be skilled in the
+art of computation, and in the science of numbers, and in the
+measurement of time ; his duty at the weighing of the heart was
+to scrutinize the pointer of the scales, and, having made sure that
+the beam of the scales was exactly level, i.e., that the heart and
+the feather exactly counterbalanced each other, to report the fact
+to Thoth, so that he in turn might make his report to tlie gods on
+
+
+THE DOG-HEADED APE 21
+
+the case under consideration. The ape seated on the pillar of the
+Scales belongs to a species which is now only found in the Sudan,
+but which in late predynastic or in early dynastic times might
+have been found all over Egypt. The dog-headed ape is very
+clever, and even in modern times is regarded with much respect
+by the natives, who believe that its intelligence is of the highest
+order, and that its cunning is far superior to that of man ; the
+high esteem in which it was held by the ancient Egyptians is
+proved by the fact that the god Thoth was held to be incarnate in
+him, and by the important functions which he performed in their
+mythology.
+
+It will also be remeriibered that in the vignette which
+represents the sunrise in the Booh of the Dead a company of six
+or seven dog-headed apes is depicted in the act of adoring the god
+of day, as he rises on the eastern horizon of heaven ; they stand
+on their hind legs and their forepaws are raised in adoration, and
+they are supposed to be singing hymns to the Sun-god. In a
+text which describes this scene these apes are said to be the spirits
+of the dawn who sing hymns of praise to the Sun-god whilst he is
+rising, and who transform themselves into apes as soon as he has
+risen. It is a well known fact in natural history that the apes and
+the monkeys in the forests of Africa and other countries chatter
+noisily at dawn, and it is clear that it was the matutinal cries of
+these animals which suggested their connection with the spirits of
+the dawn. It is not stated in the text whether the spirits of the
+dawn were created afresh each day or not, or whether the monkeys
+transformed themselves into spirits daily, and so were able to
+greet the rising sun each morning. We may, however, connect
+the idea concerning them with that which is met with in an
+ancient Hebrew description ^ of the angels of Hebrew mythology,
+for one group of "angels of service" from the river of fire were
+supposed to be created daily in order to sing one hymn to Grod
+Almighty and then to come to an end.
+
+Passing now to the consideration of the worship of animals by
+the Egyptians of the predynastic and dynastic periods, we have
+
+1 Compare Eisenmenger, op. cit., vol. ii., p. 371. 'i''^("1a3 J)^!2VT )^DV b2
+
+
+22 FEAR THE MOTIVE OF WORSHIP
+
+to endeavour to find the reasons which induced the early inhabitants of the Nile Valley to pay adoration to birds, beasts, fishes,
+and other creatures of the animal kingdom. A careful examination of the facts now available shows that in Egypt primitive man
+must have worshipped animals in the first instance because they
+possessed strength, and power, and cunning greater than his own,
+or because they were endowed with some quality which enabled
+them to do him bodily harm or to cause his death. The fundamental motive in man for worshipping animals was probably fear.
+When man first took up his abode in Egypt the physical conditions
+of the country must have resembled those of some parts of Central
+Africa at the present time, and the whole country was probably
+covered with forests and the ground obscured by dense undergrowth. In the forests great numbers of elephants and other
+large beasts must have lived, and the undergrowth formed a home
+for huge serpents of various species and for hosts of deadly reptiles of
+difi'erent kinds, and the river was filled with great crocodiles similar
+in length and bulk to those which have been seen in recent years
+in the Blue Nile and in the rivers further to the south. We have
+no means of knowing at what period the elephant was exterminated
+in Egypt, but it was probably long before dynastic times, because
+he finds no place in Egyptian mythology. The ivory objects
+which have been found in predynastic graves prove that this
+substance was prized by the primitive Egyptians, and that it was,
+comparatively, largely used by them for making personal ornaments and other small objects, but whether they imported
+elephants' tusks from the Sudan, or obtained them from animals
+which they hunted and killed in some part of Egypt cannot be
+said. On the top of one of the standards ^ Avhich are painted on
+predynastic vases we find the figure of an elephant, a fact which
+seems to show that this animal was the symbol of the family of the
+man for whom was made the vase on which it is found, or of his
+country, or of the tutelary deity, i.e., the god of his town or tribe.
+On the other hand, it is cpite clear from several passages in the
+texts with which the walls of the chambers and corridors of the
+pyramid tombs of Unas and Teta, and other kings of the Early
+
+1 See J. de Morgan, EtlmograpMe Prehistoriijne, p. 93.
+
+
+ANTIQUITY OF SERPENT WORSHIP 23
+
+Empire at Sakkara are inscribed that Egypt was infested with
+venomous snakes and noxious reptiles of various kinds when the
+original forms of those passages were written, and that they were
+sufficiently formidable and numerous to cause the living grave
+anxiety about the safety of the bodies of their dead. Thus in the
+text of Unas,^ a king of the Vth Dynasty, we find a series of
+short magical formulae, many of which are directed against
+serpents and fierce animals, and all are couched in terms which
+prove that they must have been composed long before they were
+inscribed on the walls inside this king's pyramid, and M. Maspero
+is undoubtedly correct in thinking that they must have presented
+serious difficulties to the king's literaH. In these formulae
+
+Akeneh, (j ^ |^, Amen, (] ", Hau, FD (] ^ lH, Antaf,
+
+(] ^ ^ ^, Tcheser-tep, '^ [1 v^ @ Mil , Thethu, ^ ^UR ,
+
+
+allusion is made to a most " terrible serpent," 0 m^ aaa^
+
+8 g — ) n . At the time when these formulae were composed
+
+each of these serpents was probably the type of a class of venomous
+snakes, and their names no doubt described their physical characteristics and their methods of attack. The abject fear of the
+Egyptians for the serpent seems to have been constant in all
+generations, and the texts of the latest as well as those of the earliest
+period contain numerous prayers intended to deliver the deceased
+from the " serpents which are in the Underworld, which live upon
+" the bodies of men and women, and consume their blood." ^ Long
+after Egypt was cleared of snakes and when the country was in
+the condition in which Ave now know it, the tradition remained that a
+
+
+1 Ed. Maspero, 1. 533 ff.
+
+
+Dead, Chapter^iB., 1. 4.
+
+
+24 WORSHIP OF URAEUS AND VULTURE
+
+mighty serpent, some thirty cubits, i.e., about fifty feet long, lived
+the Sunrise, and his name was Ami-Hemf, i.e., "Dweller in his
+
+The worship of the serpent in Egypt is of great antiquity,
+and shrines to certain members of the species must have existed
+at a very early date. In predynastic times the uraeus was held in
+great veneration, and the great centre of its worship was in the
+Delta, at a place which the Egyptians in dynastic times called
+" Per-Uatchet," and the Greeks " Buto." At the period when the
+uraeus was being worshipped in Lower Egypt, the vulture was the
+chief object of adoration in Upper Egypt, its principal sanctuary
+being situated in the city which the Egyptians called " Nekhebet,"
+and the Greeks " Eileithyiaspolis." The uraeus goddess was called
+"Uatchet," or " Uatchit," and the vulture goddess "Nekhebet,"
+worship became so important, probably in consequence of this
+worship, that in the early dynastic period we find it customary for
+kings when they wished to proclaim their sovereignty over all
+
+Egypt to give themselves the title j^£, which may be freely
+
+rendered by " Lord of the shrines of the Vulture and Uraeus."
+The equivalents of these signs are found on the now famous plaque
+inscribed with the name and titles of Aha, a king who is often, but
+without sufficient reason, assumed to be identical with Mena or
+Menes, and thus it is clear that the cities of Nekhebet and Per-
+Uatchet were important religious and administrative centres in
+predynastic times.
+
+Other wild animals which were worshipped by the Egyptians
+about the same period were the lion, and the lynx, which they
+
+which became the symbol of the god Set ; among amphibious
+creatures the crocodile and the turtle were the most important.
+Among domestic animals the bull and the cow were the principal
+objects of worship, and proof is forthcoming that they were
+
+1 Hooli of the Dead, Chapter cviii., 1. 5.
+
+
+WORSHIP OF THE BULL
+
+
+regarded as deities in predynastic times. The great strength of
+the bull, and his almost irresistible attack in fighting and headlong
+rush, excited the fear and admiration of primitive man, and his
+fecundating powers made him at a very early period the type of
+the generative principle in nature. For thousands of years the
+kings of Egypt delighted to call themselves " mighty bull," and
+the importance which they attached to this title is evinced by the
+fact that many of them inscribed it upon their serehh, or cognizance, which displayed their name as the descendant of Horus ;
+
+
+Usertsen II. receiving " life " from the god Sept. Behind him is his serehh
+inscribed with his Horus name.
+
+in fact, it formed their Horus name. The figure of a bull is
+found sculptured upon some of the green slate objects which date
+from the predynastic period, and which have been erroneously
+called palettes, and a flint model of the head and horns of the cow,
+which in later times became the animal symbolic of the goddess
+Hathor, was found in a predynastic grave ; all these objects are
+in the British Museum (Nos. 20,790, 20,792, and 32,124). The
+warrior kings of the XVIIIth and XlXth Dynasties were pleased
+when the court scribes related in commemorative inscriptions how
+
+
+WORSHIP OF THE BULL
+
+
+their lords raged and roared like lions as they mounted their
+chariots and set out to crush the foolish enemy who had the
+
+temerity to defy them, but they preferred
+to be likened to the "mighty bull," who
+trampled opposition beneath his hoofs, and
+gored and destroyed with his horns that
+which his hoofs had failed to annihilate.
+Out of the reverence which was paid to the
+bull in predynastic times grew the worship
+of two special bulls, Hap and Mer-ur, which
+names the Greeks modified into Apis and
+
+1 1 ^ ■^-^ Mnevis, the sacred animals of the ancient
+
+cities of Memphis and Heliopolis respectively.
+The worship of Apis is at least as old as the
+beginning of the dynastic period, and we
+know that the cult of this bull continued in
+Memphis until the close of the rule of the
+Ptolemies. In some Avay the beliefs concerning Apis were connected with those
+which the Egyptians held concerning Osiris,
+the god and judge of the dead, Avho is called
+in the Booh of the Dead^ the "Bull of
+Amentet," i.e., the "Bull of the Underworld," LJ tfiTi ^ "^ "^ : and in the Ptolemaic
+
+period the two gods were merged into
+one and formed the god Sarapis, to
+whom were ascribed the attributes of the
+Egyptian and Greek gods of the Underworld.
+
+It now seems to be generally admitted
+by ethnologists that there are three main
+causes which have induced men to worship
+animals, i.e., they have worshipped them
+as animals, or as the dwelling-places of gods,
+or as representatives of tribal ancestors.
+
+
+Serekh of Rameses II., on
+which is inscribed the Horns
+name of this king, i.e., Ka-
+
+NEKHT - MERI - MaaT. The
+
+canopy of the serekh is in
+and from the standard on
+which it rests spring two
+human arms and hands.
+The right grasps a standard
+surmounted by the head of
+the king, whicTi liore repre
+
+sents the ' ' royal ka '
+
+
+:^j and
+
+
+Li)
+
+the left the symbol of Maat.
+
+
+1 Chapter i., 1. 4.
+
+
+APIS BULL AND RAM OF MENDES 27
+
+There is no reason whatsoever for doubting that in neolithic times
+the primitive Egyptians worshipped animals as animals and as
+nothing more ; the belief that animals were the abodes of spirits or
+deities grew up in their minds later, and it was this which induced
+them to mummify the dead bodies of birds, and beasts, and lishes,
+etc., in which they thought deities to have been incarnate. We
+have no means of knowing exactly when this belief arose, but it
+is certainly as old as the time when the Apis Bull began to be
+worshipped, and when the Egyptians began to keep the ram and
+other animals, and birds, and reptiles, and fishes in sanctuaries, and
+to worship them as deities incarnate. In connection with it we
+must notice that, in the case of the Apis Bull and the Ram of
+Mendes, the god Apis did not take up his abode in every bull, and
+that the soul of Osiris, which was supposed to dwell in the Ram of
+Mendes, did not make his habitation in every ram. The Apis Bull,
+like the Ram of Mendes, had to be sought for diligently, and no
+bull or ram was made the object of veneration in the sanctuaries of
+Memphis or Mendes unless he possessed the characteristic marks by
+which the priests recognized him. The ordinary bulls and rams of
+the species to which the Apis Bull and the Ram of Mendes belonged
+were not regarded in the same light as the animals which by the
+marks upon them proclaimed themselves to be the creatures to
+which worship should be offered, and they were, of course, sacrificed
+in the performance of funeral ceremonies and killed and eaten as
+food by the people, even though somewhat of the deity may have
+been incarnate in them. When the Apis Bull or the Ram of Mendes
+died the deity who had been incarnate in it transferred himself to
+another animal, and therefore did not leave the earth.
+
+The question as to whether the Egyptians worshipped animals
+as representations of tribal ancestors, or " totems," is one which has
+given rise to much discussion, and this is not to be wondered at,
+for the subject is one of difficulty. We know that many of the
+standards which represent the nomes of Egypt are distinguished by
+figures of birds and animals, e.g., the hawk, the bull, the hare, etc.,
+but it is not clear whether these are intended to represent "totems"
+or not. It is pretty certain that the nome-standard of dynastic
+times was derived from the standards which the predynastic
+
+
+28 NOME GODS
+
+Egyptians set up in their boats, or caused to be carried in ceremonial processions, or during the performance of public functions,
+and there is no reason for doubting that, substantially, the same
+ideas and beliefs underlie the use of both classes of standards. The
+animal or bird standing on the top of a nome-perch or standard is
+not intended for a fetish or a representation of a tribal ancestor,
+but for a creature which was regarded as the deity under whose
+protection the people of a certain tract of territory were placed, and
+we may assume that within the limits of that territory it was unlawful to injure or kill such ahimal or bird. Thus in the Nome of
+the Black Bull a black bull of a certain kind would be regarded as
+a sacred animal, and it is certain that in predynastic times worship
+would be offered to it as a god ; similarly in the Nome of the Hare
+the hare would be worshipped ; and in the Nome of the Hawk the
+hawk would be worshipped. Outside these nomes, however, the
+bull and the hare and the hawk might be, and probably were,
+killed and eaten for food, and from this point of view the sacred
+creatures of the Egyptians may be thought to have something in
+common with the totems, or deified representatives of tribal
+ancestors, and with the fetishes of the tribes of nations which are
+on the lowest levels of civilization. In connexion with this matter
+it is customary to quote the statements of Greek and Roman
+writers, many of whom scoff at the religion of the Egyptians
+because it included the worship of animals, and charge the nation
+with fatuity because the animals, etc., which were worshipped and
+preserved Avith all care in some places were killed and eaten in
+others. The evidence of such writers cannot be regarded as wholly
+trustworthy, first, because they did not take the trouble to understand the views which the Egyptians held about sacred animals,
+and secondly, because they were not in a position to obtain trustworthy information. In the passage from one of Juvenal's Satires
+already quoted, he declares that the Egyptians ate human flesh,
+and it is possible that he believed what he wrote ; still the fact
+remains that there is not a particle of evidence in the Egyptian
+inscriptions to show that they ever did so, and we have every
+reason for believing that they were not cannibals.
+
+His other statements about the religion of the Egyptians are,
+
+
+ANIMAL WORSHIP NOT TOTEMISM 29
+
+probably, as untrustworthy. Tliere is not enough ancient Egyptian
+religious literature extant to enable us to trace the history of
+religion in all periods of dynastic history, still less are we able to
+follow it back in the predynastic period, because of that time we
+have no literature at all; such monuments and texts as we have,
+however, serve to show that the Egyptians first worshipped animals
+as animals, and nothing more, and later as the habitations of divine
+spirits or gods, but there is no reason for thinking that the animal
+worship of the Egyptians was descended from a system of totems
+or fetishes, as Mr. J. F. M'Lennan believed.^ It has been assumed
+by some ethnologists that many primitive peoples have been accustomed to name individuals after animals, and that such animal
+names have in certain cases become tribe names. These may have
+become family surnames, and at length the myths may have gro^vn up
+about them in which it is declared that the families concerned were
+actually descended " from the animals in question as ancestors,
+" whence might arise many other legends of strange adventures
+" and heroic deeds of ancestors, to be attributed to the quasi-human
+" animals whose names they bore ; at the same time, popular
+" mystification between the great ancestor and the creature whose
+" name he held and handed down to his race, might lead to veneration
+" for the creature itself, and thence to full animal- worship." ^ This
+theory may explain certain facts connected with the animal- worship
+of numbers of savage or half-savage tribes in some parts of the
+world, but it cannot, in the writer's opinion, be regarded as
+affording an explanation of the animal-worship of the Egyptians.
+In dynastic times kings were, it is true, worshipped as gods, and
+divine honours were paid to their statues, but the reason for this
+was that the king was believed to be of the seed of the god Horus,
+the oldest of all the gods of Egypt. There is reason for believing
+that to certain men who were famous for their knowledo-e or for
+
+o
+
+some great works which they had accomplished divine honours
+were paid, but neither these nor the kings were held to be
+gods who were worshipped throughout the land as were the wellknown or natural gods of the country. In short, the Avorship which
+
+1 See the Fortnightly Beview, 1869-1870.
+
+2 See Tylor, Primitive Culture, vol. ii., p. 236.
+
+
+30 NOME STANDARDS
+
+was paid to kings after their death, or to ordinary men, who were
+sometimes deified, was quite different from that paid to the gods of
+the country, whether they were in animal or human form or whether
+they represented the spirits which concerned themselves with the
+welfare of men or those which occupied themselves with the direction of the operations of Nature.
+
+We see, moreover, from the nome-standards that several objects
+besides animals were worshipped and regarded as gods, or that they,
+at all events, became the symbols of the deities which were worshipped in them. In predynastic times we know that some standards
+were surmounted by representations of two, three, four, or five
+
+
+another by a fish, (^(, another by two arrows and a shield, y^ ,
+etc. With the predynastic '^y^ is probably to be compared the
+sio-n *Qr. It is not easy at present to find a dynastic equivalent
+
+for the two arrows (?) ^r ^, or to find the reason why the three
+
+correct if we connect the two arrows (?) with some aboriginal god
+of war, and the three hills with the abode of some, at present,
+unknown god. The shield and the crossed arrows can, we think,
+be explained with more certainty. We know from the Nome-
+Lists that the fifth nome of Lower Egypt, ^ , which was called
+
+Sapi by the Egyptians and Saites by the Greeks, had for its
+capital the city Saut or Sais, and that the great deity of this city
+was the goddess Nit or Neith. The dynastic pictures of this
+goddess represent her in the form of a goddess who holds in her
+hands two arrows and a bow ; she sometimes wears upon her head
+or two crossed arrows N(f ; in fact, such pictures prove beyond a
+
+doubt that Nit, the goddess of Sais, was the goddess of the chase
+par excellence. That this goddess was worshipped in the earliest
+dynastic period is certain, for we find that her name forms part of
+
+1 See my " History of Egypt " {Egypt in the Predynastic and Archaic Periods),
+vol. i., p. 78.
+
+
+THE GODDESS NIT 31
+
+the name of Nit-hetep, who seems to have been the daughter of
+king Sma, and who was probably the wife of Aha, and also part
+of that of the early dynastic king Mer-Nit. That the dynastic sign
+
+
+to doubt, and, as the former is known to represent the crossed
+arrows and shield of the hunting goddess of Sais, we are justified
+in believing that its predynastic equivalent was intended to be a
+picture of the same objects, and to be symbolic of the same
+goddess.
+
+We have already mentioned the predynastic standard surmounted by the figure of an elephant, which was, undoubtedly,
+intended to represent a god, and thus it is clear that both in predynastic and dynastic times the Egyptians symbolized gods both
+by means of animals and by objects connected with their worship
+or with their supposed occupations. In dynastic Nome-Lists we
+
+have for the name of Matenu a knife C^, for the nome of Ten a
+pair of horns surmounted by a plumed disk /^i , for the nome
+of Uas, or Us, a sceptre r , for the nome of Sesheshet a sistrum 1 ,
+
+etc. The first, third, and fourth of this group of examples are
+clearly objects which were connected with the worship of the gods
+whom they symbolize, and the second is probably intended to be
+the headdress of the god of the nome which it symbolizes. At this
+period of the world's history it is impossible to fathom the reasons
+which led men to select such objects as the symbols of their gods,
+and we can only accept the view that they were the product of
+some indigenous, dominant people who succeeded in establishing
+their religious customs so strongly in Egypt that they survived
+all political commotions, and changes, and foreign invasions,
+and flourished in the country until the third century of our
+era at least.
+
+The cult of Nit, or Neith, must have been very general in
+Egypt, although in dynastic times the chief seat thereof was at Sais
+in the Delta, and we know that devotees of the goddess lived as far
+south as Nakada, a few miles to the north of Thebes, for several
+objects inscribed with the name of queen Nit-hetep have been found
+
+
+32 THE GODDESS NIT
+
+in a grave at that place. Of the early worship of the goddess
+nothing is known, but it is most probable that she was adored as
+a great hunting spirit as were adored spirits of like character byprimitive peoples in other parts of the world. The crossed arrows
+and shield indicate that she was a hunting spirit in the earliest
+times, but a picture of the dynastic period represents her with two
+crocodiles^ sucking one at each breast, and thus she appears in
+later times to have had ascribed to her power over the river.
+
+It has already been said that the primitive Egyptians, though
+believing that their gods possessed powers superior to their own,
+regarded them as beings who were liable to grow old and die, and
+who were moved to love and to hate, and to take pleasure in meat
+and drink like man ; they were even supposed to intermarry with
+human beings and to have the power of begetting offspring like the
+*' sons of God," as recorded in the Book of Genesis (vi. 2, 4). These
+ideas were common in all periods of Egyptian history, and it is
+clear that the Egyptians never wholly freed themselves from them ;
+there is, in fact, abundant proof that even in the times wdien
+monotheism had developed in a remarkable degree they clung to
+them with a tenacity which is surprising. The religious texts
+contain numerous references to them, and beliefs which were
+conceived by the Egyptians in their lowest states of civilization are
+mingled with those which reveal the existence of high spiritual
+conceptions. The great storehouse of religious thought is the Booh
+of the Dead, and in one of the earliest Recensions of that remarkable work we may examine its various layers with good result. In
+these are jDi'^served many passages which throw light upon the
+views which were held concerning the gods, and the powers which
+they possessed, and the place where they dwelt in company Avith
+the beatified dead.
+
+One of the most instructive of these passages for our purpose
+forms one of the texts which are inscribed on the walls and
+corridors of the chambers in the pyramid tombs of Unas, a king
+of the Vth Dynasty, and of Teta, a king of the Vlth Dynasty.
+
+
+1 In the text of Unas (1. G27) the crocodile-god Sebek is cahed the son of Neith
+
+
+KING UNAS AS A GOD 33
+
+The paragraphs in general of the great Heliopolitan Recension
+deal, as we should expect, with the offerings which were to be
+made at stated intervals in the little chapels attached to the
+pyramids, and many were devoted to the object of removing
+enemies of every kind from the paths of the king in the Underworld ; others contain hymns, and short prayers for his welfare,
+and magical formulae, and incantations. A few describe the great
+power which the beatified king enjoys in the world beyond the
+grave, and, of course, declare that the king is as great a lord in
+heaven as he was upon earth. The passage in question from the
+pyramid of Unas is of such interest and importance that it ^ is
+given in the Appendix to this Chapter, with interlinear translation
+and transliteration, and with the variant readings from the pyramid
+of Teta, but the following general rendering of its contents may be
+useful. " The sky poureth down rain, the stars tremble, the bow-
+" bearers run about with hasty steps, the bones of Aker tremble,
+" and those who are ministrants unto them betake themselves to
+" flight when they see Unas rising [in the heavens] like a god who
+" liveth upon his fathers and feedeth upon his mothers. Unas is
+" the lord of wisdom whose name his mother knoweth not. The
+" noble estate of Unas is in heaven, and his strength in the horizon
+" is like unto that of the god Tem his father, indeed, he is stronger
+" than his father who gave him birth. The doubles (kau) of Unas
+" are behind him, and those whom he hath conquered are beneath
+" his feet. His gods are upon him, his uraei are upon his brow,
+" his serpent-guide is before him, and his soul looketh upon the
+" spirit of flame ; the powers of Unas protect him." From this
+paragraph we see that Unas is declared to be the son of Tem, and
+has made himself stronger than his father, and that when the king,
+who lives upon his fathers and mothers, enters the sky as a god,
+all creation is smitten Avith terror. The sky dissolves in rain, the
+stars shake in their places, and even the bones of the great double
+lion-headed earth-god Aker, 2^::^, quake, and all the lesser powers
+of heaven flee in fear. He is considered to have been a mighty
+conqueror upon earth, for those whom he has vanquished are
+
+1 The hieroglypliic texts are given by Maspero, Les Inscriptions des Pyramides
+de Saqqarah, Paris, 1894, p. 67, 1. 496, and p. 134, 1. 319.
+
+D
+
+
+34 KING UNAS AS A GOD
+
+beneath his feet ; there is no reason why this statement should not
+be taken literally, and not as referring to the mere pictures of
+enemies which were sometimes painted on the cartonnage coverings
+of mummies under the feet, and upon the sandals of mummies, and
+upon the outside of the feet of coffins. An ordinary man possessed
+one ha or " double," but a king or a god was believed to possess
+many Icau or " doubles." Thus in one text ^ the god Ra is said to
+possess seven souls {hau) and fourteen doubles (Icau), and prayers
+were addressed to each soul and double of Ra as well as to the god
+himself; elsewhere^ we are told that the fourteen Jcau of Ra,
+
+appears in heaven with his " gods" upon him, the serpents are on
+his brow, he is led by a serpent-guide, and is endowed with his
+powers. It is difficult to say what the " gods " here referred to
+really are, for it is unlikely that the allusion is to the small figures
+of gods which, in later times, were laid upon the bodies of the
+dead, and it seems that we are to understand that he, Unas, was
+accompanied by a number of divine beings Avho had laid their
+protecting strength upon him. The uraei on his brow and his
+serpent-guide were the emblems of similar beings whose help he
+had bespoken — in other words, they represented spirits of serpents
+which were made friendly towards man.
+
+The passage in the text of Unas continues, " Unas is the Bull
+^' of heaven which overcometh by his will, and which feedeth upon
+^' that which cometh into being from every god, and he eateth
+" of the provender of those who fill themselves with words of
+" power and come from the Lake of Flame. Unas is provided
+" with power sufficient to resist his spirits (hJm), and he riseth [in
+" heaven] like a mighty god who is the lord of the seat of the
+*'hand (i.e., power) [of the gods]. He taketh his seat and his
+*' back is towards Seb. Unas weigheth his speech with the god
+" whose name is hidden on the day of slaughtering the oldest
+" [gods]. Unas is the master of the offering and he tieth the
+"knot, and provideth meals for himself; he eateth men and he
+
+1 Diimiclien, Tempelinscliriften, vol. i., pi. 29.
+" Lepsius, Denhmdler, iii., Bl. 194.
+
+
+KING UNAS AS A GOD 35
+
+" livetli upon gods, he is the lord of offerings, and he keepeth
+" count of the lists of the same." The dead king is next likened
+to a young and vigorous bull which feeds upon what is produced
+by every god and upon those that come from the Fiery Lake to
+eat words of jDower. Here we have a survival of the old worship
+of the bull, which began in the earliest times in Egypt, and lasted
+until the Roman period. His food is that which is produced by
+every god, and when we remember that the Egyptians believed
+that every object, animate and inanimate, was the habitation of a
+spirit or god, it is easy to see that the allusion in these words is to
+the green herbage which the bull ordinarily eats, for from this
+point of view, every blade of grass was the abode of a god.
+In connexion with this may be quoted the words of Sankhonyathan, the Sanchoniatho of the Greeks, as given by Eusebius, who
+says, " But these first men consecrated the productions of the
+" earth, and judged them gods, and worshipped those things, upon
+" which they themselves lived, and all their posterity, and all
+" before them ; to these they made libations and sacrifices." ^
+
+Now the food of this bull Unas is also said to be those who
+came from the Lake of Fire, or the city of She-Sasa, and who are
+these ? From Chapter cviii. of the Book of the Dead we learn that
+She-Sasa Avas situated in Sekhet-Sasa,^ i.e., a district in heaven,
+and it is clear from the text of the Chapter that it was one of the
+abodes wherein the beatified dead obtained food. The deceased is
+made to say, " I have not lain down in death ; I have stood over
+" thee,^ and I have risen like a god. I have cackled like a goose,
+" and I have alighted like the hawk by the divine clouds and by
+" the great dew .... I have come from She-Sasa, which is in
+" Sekhet-Sasa, i.e., the Lake of Fire, Avhich is in the Field of
+" Fire " Towards the end of the Chapter (line 10) mention is
+
+
+1 Eusebius, Praejp. Evan., lib. i , c. 10 (in Cory, Ancient Fragments, London,
+
+
+36 KING UNAS AS A GOD
+
+grew in the Field of Fire, or in the neighbourhood of it,
+and it is clear that it must be these which are referred to
+as the provender of those who come from the Lake of Fire.
+We are next told that Unas hath power sufficient to oppose
+or resist his spirits (kJiu), but it is not certain whether these are
+beings in the Underworld which are hostile to him, or spirits
+which belong to himself; in any case the meaning of the passage
+is not clear. Having risen in heaven Unas takes his seat with his
+back towards Seb, the great earth-god who was represented by the
+mythological goose which was supposed to have laid the great
+cosmic egg. In the latter part of the section of the text of Unas
+quoted above we have some remarkable ideas enunciated. It is
+asserted first of all that he " weigheth his speech Avith the god
+whose name is hidden," which indicates that Unas was supposed
+to be of equal rank and power with the god of judgment. From
+the Theban Recensions of the Book of the Bead ^ we know that the
+
+
+the " weighing of actions," and that it is applied to the examination of the deceased which is held on the day wherein his heart is
+weighed in the Great Scales. The examination was conducted by
+Thoth on behalf of Osiris, but the words in the text of Unas show
+that the dead king considers himself able to judge his own actions,
+and to award himself happiness. The god of the hidden name is
+probably Osiris. Finally it is said that Unas eats men and feeds
+upon the gods. We have already referred to the passage in
+Juvenal's Fifteenth Satire in which he declares that the Egyptians
+ate human flesh, and it has been already said that the dynastic
+inscriptions aiford no proof whatsoever that the Egyptians were
+cannibals.
+
+The statement here that Unas ate men is definite enough, and
+it is not easy to give any other than a literal meaning to the words ;
+we can only assume then that this portion of the text has reference
+to some acts of cannibalism of which a tradition had come down
+from predynastic to dynastic times. We gather from other
+passages in the texts of Unas and Teta what manner of treatment
+
+' See my Chaj)ters of Coming Forth hi/ Day, Text, p. 18, 1. 12 ; p. 19, 1. 5; etc.
+
+
+KING UNAS AS A GOD 37
+
+was meted out to the vanquished in battle by the victors, and it
+seems to tind a parallel in the atrocious acts which were, and in
+some places still are, perpetrated by conquering tribes of Central
+Africa after a battle. In predynastic times all the property of
+those who Avere defeated in war was seized upon by the successful
+warriors, and all the women fell into their hands, and at times
+nameless abominations were committed upon the unfortunate male
+captives. The dead king in the texts of Unas and Teta is,
+naturally, described as the lord of heaven and of all the beings and
+things which are therein ; as such he is master of all the women,
+and it is said plainly of him that he is the " fecundator, and that
+" he carries off the women from their husbands to whatsoever place
+*' he pleaseth whensoever he pleaseth." ^ Thus one of his attributes
+was that of the bull, which, because of his fecundity and strength,
+became the object of worship by the early Egyptians, and he
+exercised the rights of a victorious tribal chief. Upon the conquered men who were allowed to live terrible indignities were
+perpetrated, and in the text of Teta the dead king is exhorted to
+rise up, " for Horus hath caused Thoth to bring unto thee thine
+" enemy, and he (i.e., Horus) hath put thee behind him in order
+" that he may not do thee an injury, and that thou mayest make
+" thy place upon him, so that when [thou] goest forth thou mayest
+"take thy place upon him, and he may not have union with
+" thee." ^ It is possible then that in predynastic times in addition
+to the wanton destruction which the Egyptians brought about after
+a victorious fight with their enemies, and the slaughter, and rapine,
+and nameless abominations which followed, they sometimes imitated
+the example of wild and savage beasts and ate the foes they had
+
+
+A/^AAA^
+1
+
+
+line 629.
+
+
+38 UNAS EATS THE GODS,
+
+conquered. The accounts of the battles of dynastic times show
+that the Egyptians looted and destroyed the cities and to^vns of the
+vanquished, and that they cut down orchards and gardens, and
+carried off all the flocks and herds which they could find ; and
+there is abundant proof that they mutilated the bodies of their
+dead foes after a fight, but that they either ate them or behaved
+towards them in a manner contrary to nature there is absolutely no
+evidence to show.
+
+We have now to consider the remaining paragraphs of the
+extract from the text of Unas. The gods upon whose bodies Unas
+fed were snared by Am-kehuu, and they were examined as to their
+fitness and condition by Tcheser-tep-f, a divine being who was in
+later times one of the Forty-Two Judges in the Hall of Maati, and
+is mentioned in the " Negative Confession " of the Booh of the
+Dead. The gods were next bound by Her-thertu, and the god
+Khensu cut their throats and took out their intestines ; a being
+called Shesemu acted as butcher and cut them up and cooked the
+pieces thereof in his fiery cauldrons. Thereupon Unas ate them,
+and in eating them he also ate their words of power and their
+spirits. The largest and finest of the gods he ate at daybreak, and
+the smaller sized ones for meals at sunset, and the smallest for his
+meals in the night ; the old and worn-out gods he rejected entirely
+and used them up as fuel in his furnace. The cauldrons in which
+the bodies of the gods were cooked were heated by the " Great One
+in heaven," who shot flame under those which contained the thighs
+of the oldest of the gods ; and the " Perer, who is in heaven," of
+Unas cast also into cauldrons the thighs of their women. Unas is
+then said to make a journey about every part of the double sky, or
+
+double heaven, f=^ , i.e., the night sky and the day sky, and also
+
+to travel about, presumably from one end to the other, through the
+
+two at elm, (1 ei^ii j ^ "^ ' , of Egypt, i.e., the land which lies
+
+between the mountains and the Nile on each side of the river. As
+a result of eating of the bodies of the gods Unas becomes the Great
+Sekhem, the Sekhem of the Sekhemu ; he also becomes the Ashem
+of Ashem, the Great Ashem of the Ashemu. The power which
+protects Unas and which he possesses is greater than that of all the
+
+
+ABSORBS THEIR POWERS 39
+
+sdfm in the heavens, and he becomes the eldest of all the firstborn
+gods and he goes before thousands and makes offerings to hundreds
+[of them] ; indeed, the power which has been given to him as the
+Great Sekhem makes him to become as the star Sahu, i.e., Orion,
+with the gods. " Unas can repeat his rising in the sky, for he is
+'' the Seben crown as lord of the heavens. He taketh count of the
+" knots (or, sinews) and of livers, and he hath taken possession of
+" the hearts of the gods. He hath eaten the Red Crown, he hath
+" eaten the White Crown, and he feedeth upon fat entrails ; the
+" offerino-s made to him are those in whose hearts live words of
+" power. What the Red Crown emitteth that he hath eaten, and
+" he flourisheth ; the words of poAver are in his belly, and his sdfm
+" is not turned away from him. He hath eaten the knowledge of
+" every god, and his existence and the duration of his life are
+" eternal and everlasting in any sdhii which he is pleased to
+" make. Whatsoever he hateth he shall never do within the limits,
+"or, inside the borders of heaven. Behold their soul, i.e., the
+" soul of the gods, is in Unas, and their spirits are with him ;
+" his food is more abundant than that of the gods, in whose bones
+" is the flame of Unas. Behold their soul is with Unas, and their
+" Shadows are with their Forms, or Attributes. Unas is in, or
+'' with, the doubly hidden Kha gods (?) [as] a Sekhem, and having
+" performed [all] the ordinances of the (ceremony of) ploughing
+" the seat of the heart of Unas shall be among the living upon this
+" earth for ever and ever."
+
+The last portion of the extract is of peculiar interest because
+it affords some insight into the beliefs which the Egyptians held
+about the constituent parts of the economy of the gods. We have
+already seen that a /)a, or soul, has been assigned to Unas, and hau,
+or " doubles," and hliu, or spirits, and a sdhii, and a sekhem ; the
+last two words are difficult to translate, but they are rendered
+with approximate correctness by "spiritual body," and "power."
+The soul was intimately connected with the heart, and was
+supposed to be gratified by offerings, which it was able to consume ;
+the " double " was an integral part of a man, and was connected
+with his shadow, and came into being when he was born, and lived
+in the tomb with the body after death ; the spirit was the seat of
+
+
+40 UNAS, THE ASHEM OF THE ASHEMU
+
+the spiritual part of man, and gods and divine personages were
+credited with the possession of several spirits ; the .syTA^/, or
+spiritual body, was the ethereal, intangible, transparent and translucent body, which was supposed, in dynastic times at all events,
+to grow from the dead body, the form of which it preserved ; the
+seJihem was the "power" which seems to have animated the s^hu
+and to have made it irresistible. From the extract given above
+from the text of Unas we learn that the gods were composed of all
+these various parts, and that in fact their economy resembled that
+of man ; in other words, the Egyptians made their gods in their
+own image, only they attributed to them superhuman powers.
+The gods, however, preserved their existence by means of a
+
+
+by hrl-au, $ *j y °? which is commonly translated "words of
+power " ; the aim of every Egyptian was to obtain possession of
+both the magical protection and the words of power, for they
+thought that if they once were masters of these they would be able
+to live like the gods. In the earliest times in Egypt men thought
+that the only way to obtain the strength and immortality of the
+gods was to eat the gods themselves, and so we read that Unas,
+having eaten parts of the boiled bodies of the gods, " hath eaten
+" their words of power (heJca), and swallowed their spirits {IcJm)."
+As a result of this he becomes the " Great Power," the " Power of
+Powers," i.e., the greatest Power in heaven. He becomes also the
+Ashem of Ashem, the great Ashem of the Ashemu, that is to say,
+the very essence of Ashem, and the greatest powers of the Ashemu
+beings are enshrined within him because he has within him the
+spirits and the words of power of the gods.
+
+But what is the meaning of Ashem ? In the text of Teta the
+word has for its determinative a hawk perched upon a standard,
+_^, which shows that it has some meaning connected with deity or
+divinity, but it cannot be the name of one divine being only, for
+determinative, however, does not help us very much, for it proves
+little more than that some attribute of the Hawk-god Ileru was
+ascribed to the Ashemu ; the hawk was undoubtedly the first
+
+
+UNAS, THE ASHEM OF THE ASHEMU 41
+
+creature worshipped by the predynastic Egyptians, and ^ became
+in consequence the common determinative of all words implying the
+idea of deity or divinity, and of the proper names of the gods in a
+very large number of passages in the hieroglyphic texts inscribed
+on the walls of the chambers and corridors in the pyramids at
+Sakkara. The common name for "god," as we have already seen,
+is "neter," j, or | Jj, with the plural "neteru," | | |, or | i, or
+
+
+be translated by " divine Ashemu," and as the first determinative is
+a squatting hawk, we may assume that the word ashemu means
+" hawks." ^ If this assum^Dtion be correct, "Ashem of Ashem,
+Great Ashem of the Ashemu," means " Hawk of Hawk, the Great
+Hawk of the Hawks," and since the hawk was not only a god to
+the predynastic Egyptians, but their oldest and greatest god, being
+in fact the spirit of that which is above, i.e., heaven, the passage
+" Ashem of Ashem, Great Ashem of the Ashemu,"' may very well
+be rendered " god of god, great god of the gods." Thus with the
+words of power and the spirits of the gods in him Unas becomes
+the habitation of the power of God, and the firstborn of the gods.
+He is now able to go round about heaven at pleasure, and as the
+Great Sekhem, or Power, his visible emblem is Sail or Orion, and
+he is able to repeat his rising [daily] in heaven like this constellation. It is not improbable that the identification of Orion with
+kings who had eaten the gods filtered doAvn in tradition to the
+Semitic people who lived in the Delta in dynastic times, and so
+became the base of the legends about Orion which are found among
+the Arabs and Hebrews.
+
+1 See the text of Unas, line 209 ; in the text of Teta, line 197, the gods are
+
+
+2 See my Chapters of Coming Forth by Bay, Text, p. 128, 1. 14,
+
+Suppl., p. 279) renders it by "the symbol, or visible form of a god."
+
+
+42 POWER OVER THE HEART
+
+Modern travellers have put on record the fact that certain
+savage and semi-savage peoples were, even in recent times, in the
+habit of eating pieces of flesh of mighty wild animals or of strong
+men, and of drinking their blood with the view of absorbing their
+nature, and life, and strength into their own bodies.^ This idea
+also existed among the Egyptians, both predynastic and dynastic,
+and we find an allusion to it in the extract from Unas under
+consideration, for he is said to take possession of the hearts of the
+gods, and to reckon up the thesu and heqesu, and to feed upon
+fat S7nau. The importance which the Egyptians attached to the
+possession of the physical heart, or of having power over it, is
+proved by many texts, and especially by several Chapters of the
+Boole of the Dead, wherein we find many prayers which were
+specially written for the protection of the heart. Thus in
+Chapter xxvi. the deceased prays, "may my heart be to me in
+"the house of hearts, may my hdti^ be to me in the house of
+" hdtu " ; Chapters xxvii., xxviii., and xxix. were written to
+prevent the heart being carried away by those who steal hearts
+
+was composed to prevent its death in the Underworld ; and
+Chapters xxx.a and xxx.b were intended to prevent a man's
+heart from being driven away from him there, especially at the
+time of the Judgment, when it was weighed in the Great Scales.
+For the words thesu, heqesu, and smau it is not easy to find
+equivalents. From the connexion in which it occurs thesu must
+mean either the vertebra or some internal organ of the body
+which resembles a tied or knotted cord, whilst of heqesu the
+determinative proves that it also is an internal organ. In
+Chapter xxx.a the deceased says, " Homage to thee, 0 my
+" heart {ah) ! Homage to thee, 0 my hdti (pericardium ?) !
+" Homage to thee, 0 my heseh," which is probably a variant
+form of heqes, but curiously enough the determinative of hese/c,
+
+1 See Robertson Smith, The Beliglon of the Semites, p. 295.
+
+2 c=^ 1^ ^ the pericardium (?). In the ancient texts the hat, or hdti of a god
+
+was the seat of the words of power by means of which he maintained his life.
+
+
+THE HEART AND WORDS OF POWER 43
+
+word actually means " liver." Mr. Frazer has quoted in his
+work^ instances which prove that savage tribes look upon the
+liver as the seat of the soul or life of man, and that portions of
+it are eaten by them with the view of acquiring the qualities of
+the former possessor of the liver. The words of the text of Unas
+do not say definitely that the king ate the thesu and livers of the
+gods who had been killed for him, but it is evident from the
+context that they were supposed to form part of his food. On the
+other hand, it is said definitely that he did eat their smau saau, or
+
+
+or those portions of them which were the seats of the hekau,
+
+ft Li ^ , or words of magical power, which were the source of their
+
+life.
+
+Now besides the spirits, and the words of power, and the
+internal organs of the gods, Unas, it is said, hath eaten the
+
+
+life and his existence are merged into eternity and everlastingness,
+which he may pass in any way that pleaseth his spiritual body
+(sdh), and during this existence he has no need whatsoever to do
+anything which is distasteful to him. Moreover, the soul[s] and
+spirits of the gods are in and with Unas, and their souls, and their
+shadows, and their divine forms are with him. Thus we see that
+Unas has absorbed within his spiritual body all the life and power
+of the gods, and his portion is everlasting life, and he can do
+anything and everything he pleases. Here we should naturally
+expect the section to come to an end, but the last sentence goes on
+to say that Unas is with the double Kha god, who is invisible, or
+unknown, and that being a Power (sehhem) who hath performed
+[the ceremony] of ploughing, "the seat of the heart" of Unas shall
+" be among those who live upon this earth for ever and for ever."
+In this sentence we have an illustration of the difficulty of understanding and explaining the Egyptian religion and the doctrine
+of the gods. In the early portion of the passage from the text of
+
+1 The Golden Bough, vol. ii., p. 357 (2nd edition).
+
+2 The word here used is db v/.
+
+
+44 THE DOUBLE LIFE OF UNAS
+
+Unas already translated and analyzed we are told how the dead
+king became the god of god, immortal and invisible, with supreme
+power in heaven, etc., but at the end of it we read that the seat of
+the heart of Unas shall be among those who live upon this earth
+for ever and ever, i.e., Unas shall enjoy after death a continuation
+of the life which he began in this world ; in fact, shall have a
+double existence, the one heavenly and the other earthly.
+
+
+APPENDIX TO CHAPTER I
+
+
+UNAS, THE SLAYER AND EATER OF THE GODS
+
+
+kep
+
+
+■pet
+
+
+m
+
+dhi
+
+
+sebii
+
+
+nem
+
+
+Poureth down water heaven, tremble the stars,
+
+
+go about
+
+
+petchet seta
+
+the bow-bearers, quake
+
+
+I
+
+
+kenemu
+
+
+qes Aker ker - er - sen
+
+the bones of Aker, those beneath
+
+them
+
+
+take to flight [when] they see Unas rising [as] a soul
+
+
+em neter dnJch em ^i ~ f usTieh
+
+like a god [who] liveth upon his fathers [and] feedeth
+
+
+em
+
+
+mut - f Unas pa neb
+
+
+sabut
+
+
+upon his mothers. Unas this [is] the lord of wisdom,
+
+1 The text here given is from the Pyramid of Unas (Maspero, Becueil, torn, iv.,
+p. 59) ; the variants are from the Pyramid of Teta {Becueil, torn, v., p. 48, 1. 319).
+
+
+SLAYER AND EATER OF THE GODS
+
+
+IcheifYi en
+knoweth not
+
+
+milt - f ren - f
+
+his mother his name.
+
+
+ciiL sliepsu
+Is the noble rank
+
+
+feU'l
+
+
+Unas em pet du nser-f em Jchut md Tern
+
+of Unas in heaven, is his strength in the horizon like Tern,
+
+
+useru eref
+
+
+su
+
+
+dt-f au mes - ne^
+
+his father ; he (i.e., Tem) begot him [and] he became stronger
+
+than he.
+
+
+die Icau Unds ha -f du hemu set-fi?)
+
+Are the doubles of Unas behind him, the conquered [are]
+
+
+I I I
+
+
+kher retui-f du neteru-f tep-f du dart - t
+
+beneath his two feet. His gods are on him. His uraei are
+
+
+em d])t - f du semtu Unds em hdt-f
+
+on his brow. The serpent guide of Unas is before him.
+
+
+3 Ci
+
+
+(m
+
+
+* u u u
+
+
+Zii
+
+'U
+
+
+SLAYEK AND EATER OF THE GODS
+
+
+petret ha hliut ent hes du useru Unas
+
+Seeth soul [his] the spirit of fiame. The powers of Unas
+
+
+her meJcet -f
+protect him.
+
+
+db-f
+
+
+U
+
+ka
+
+
+ra
+
+
+Unds pd ha pet en het
+
+Unas this [is] the bull of heaven that thrusteth
+
+
+em
+
+
+r
+
+anJih
+
+
+em
+
+
+Jcheper
+
+
+en neter
+
+
+with his will, living upon what coraeth into being of god
+
+
+" A
+dm
+
+
+neb dm em
+
+QYQTj, and eating of
+
+
+,^emu - sen
+their food
+
+
+iu meh
+
+who come to fill
+
+
+khat-sen em hehau em She en Sdsd
+
+their belly with words of power from the lake of Flame.
+
+Unds pd apei'-d er dab Jehu - f
+
+Unas this [is] provided with power against his spirits.
+
+
+Q
+
+
+D
+
+
+du Unds hhd em
+
+
+neb dmit dst-d
+
+
+ur pu
+
+Unas riseth like a mighty one, the lord in the seat of the
+
+hand [of the gods].
+
+
+f
+
+
+A
+
+
+u
+
+
+ft3
+
+
+SLAYER AND EATER OF THE GODS
+
+
+hems -f sa -f dr Seh Unas pd
+
+He is seated [with] his back to Seb. Unas this
+
+
+AAAAAA AAAAAA
+
+
+I
+
+
+utclid mct-f liend
+
+weigheth his word with
+
+
+relches
+
+
+csu
+
+
+D
+
+
+Amen ren - f hru pu
+
+Hidden of Name on day this
+
+
+of slaughtering the eldest [gods] Unas this [is] the lord
+
+
+hetep tes
+
+of the offering, tying
+
+
+dqa
+the knot,
+
+
+an
+
+
+dut - f
+
+
+making his meals
+
+
+tchesef Unas pd dm:
+
+for himself. Unas this eateth
+
+
+em neteru
+
+
+net
+
+
+m
+
+
+annu
+
+
+remth dnkh
+
+men [and] liveth
+
+
+a
+
+
+V
+
+
+Jihd
+
+
+apt
+
+
+on the gods, the lord of the offerings, who examineth the lists of
+
+
+offerings.
+
+
+ra
+
+
+o
+
+
+D
+
+
+D
+
+
+V
+
+
+SLAYER AND EATER OF THE GODS
+
+
+an dJchem apt Am-hehuu sepeh - sen
+
+Beliold, he who maketh to bow Am-kehuu hath snared
+
+foreheads, them
+
+
+Unas an Tcheser-tep-f
+
+
+en Unas an Tcfieser-tep-j saa-nef-sen
+
+for Unas. Behold, Tcheser-tep-f hath known them
+
+
+khesef - nef sen an Her - thertu gas - nef sen
+
+[and] he hath driven Behold, Her-thertu hath bound them,
+
+them [to him].
+
+metes
+
+
+tchat - / sell
+
+Behold, Khensu the slaughterer of lords hath cut the throats of
+
+them
+
+
+an Khensu
+
+
+nehu
+
+
+en Unas she t -nef dmt hhat - sen
+
+for Unas, [and] he hath torn out what is in their belly.
+
+
+apt pu habu - / ei' khesef
+
+[for] he is the messenger [whom] he sent to drive [them].
+
+
+®
+
+
+-n " V VV
+
+
+. TMs creature is mentioned in the Negative Confessioa ; see
+
+
+my Chapters of Coming Forth hy Day, Text, p. 259, 1. 41
+
+1 veJ
+
+
+AAAAAA
+
+E
+
+
+8
+
+i?^-^ wanting.
+
+
+SLAYER AND EATER OF THE GODS
+
+
+Y — Y 1
+
+
+£L
+
+
+m
+
+
+an Sliesemu rehhes - f sen en Unas feses - nef
+Behold, Shesemu hath cut them up for Unas, he hath boiled
+
+
+dlchet dm - sen
+
+
+o
+
+em Jcetdt - /
+pieces of them in his cauldrons
+
+
+meshert Unas
+
+blazing. Unas
+
+
+P
+
+
+pa dm heJca - sen dam Jehu - sen
+
+this hath eaten their words of [he] hath eaten their spirits,
+power.
+
+
+du uru - sen en dshet-f tuat du her-dbu - sen
+
+Their great ones are for his meal of the morning, their middle ones
+
+
+are
+
+
+IZSZI8
+
+
+en meshert - f du shereru-sen en dsht-f
+
+for his sunset meal, their little ones are for his meal
+
+
+du da - se7i datu - sen
+
+of the night, their old ones (male) their old ones (female) are
+
+
+1 i=s:
+
+
+rin
+
+
+o o o
+
+
+luli m^{]
+
+
+o
+
+
+7 rm
+
+
+C)&b
+
+
+SLAYER AND EATER OF THE GODS 51
+
+
+en
+for
+
+
+kapt
+his furnace.
+
+
+an
+
+
+/ an dda em pet
+
+Behold, the great one in heaven
+
+
+/n
+
+
+P
+
+
+utu-nef setchet er uhatu khert-sen
+
+hath shot flame against the cauldrons beneath them
+
+
+em khepeshu nu semsu - sen du Perer - dmu - pet
+
+with the thighs of the eldest ones. Perer-amu-pet
+
+
+1
+
+
+-Ro'
+
+
+0
+
+
+o
+
+
+672, Z77^(xs shesert - ^le/
+
+of Unas hath thro'svn [into] the cauldrons the legs of
+
+
+ketdt
+
+
+m
+
+em retu nu
+
+
+hemt - sen
+
+
+tehen - nef
+
+
+tem-thd
+
+
+ail leoen - nej pet
+
+their women. He hath gone round about the double heaven, all of it,
+
+
+D
+
+
+du perer - nef dfebu Unas pd
+
+he hath gone round about the two halves of Egypt. Unas this [isj
+
+
+sekhem ur sekhem
+
+the sekhem great, the sekhem
+
+
+nr SI
+
+em sekhemu TJnds
+
+of the sekhemu. Unas
+
+
+^PkP^li
+
+
+;ii
+
+
+Jl 0 0 0
+
+
+SLAYER AND EATER OF THE GODS
+
+
+r
+
+
+ur
+
+
+qemi - /
+
+
+jyd dshem dshem asliemu
+
+this [is] the ashem, the ashem of the ashemu great. [What] he findeth
+
+
+SurS
+
+
+V.
+
+
+em
+on
+
+
+uat -f
+his way
+
+
+dm - / nef su
+he eateth it
+
+
+em. umu
+greedily.
+
+
+du meket Unas em hat sdhu nebu
+
+The protection of Unas [is] before [that of] the sahu all
+
+
+dmu khut JJnds pd semes er semsu
+
+in the horizon. Unas this is the eldest of the old ones.
+
+
+Jvhau du uten - nef shdut
+
+thousands, he hath offered hundreds.
+
+
+du perer - nef
+He hath gone round
+
+dti erta - nef d em sehhem ur dn
+
+Hath been given to him the hand as the sekhem great, behold
+
+
+?
+
+
+D
+
+
+r-vr-i
+
+
+D
+
+
+/
+
+SLAYER AND EATER OF THE GODS 53
+
+
+Sahii dr neterii du 7iem en TJnds hJiatu
+
+
+]ahu dr neterii du 7iem en TJnds
+
+Orion, with the gods. Hath repeated Unas [his] rising
+
+
+{sic)
+
+
+u
+
+
+em jpet .... sehen em neh Miut
+
+in heaven. He is the seben crown as lord of the horizon.
+
+du heseh - nef tesu heqesu du thet - nef
+
+He hath counted up knots [and] livers. He hath taken possession of
+
+
+hdtu neteru du dm - nef teshert
+
+the hearts of the gods. He hath eaten the Red Crown,
+
+
+du am - nef uatchetu usheb TJnds em
+
+he hath eaten the White Crown. Feedeth Unas upon
+
+smau saau hetepf em- dnkh em hdtu
+
+entrails fat, his offering whereon live in [their] hearts
+
+[is that]
+
+
+54 SLAYER AND EATER OF THE GODS
+
+heJcau - se^i dsth-f du Unas nesb - / sebeshu
+
+
+their words of power. Behold,
+
+
+Unas
+
+
+eateth what is cast
+out
+
+
+U
+
+
+dmu teshert df uakhha -/ du helm - sen
+
+[from] the Red Crown, he flourisheth, their words of power
+
+
+em Jchat-f dn hem em sahu JJnds
+
+are in his belly, not is turned back the sahu of Unas
+
+
+H
+
+
+1
+
+
+ma-f du dm - nej sda en neter neb
+
+from him. He hath eaten the intelligence of god every,
+
+dhdu pd neheh tcher-f pd tchetta
+
+[his] period of life [is] eternity, his existence is everlastingness
+
+
+em
+in
+
+
+sdh - /
+his sah.
+
+
+U
+
+
+])e7L en merer -/ dr - f
+
+this what he is pleased [to do] he doeth,
+
+
+9 AA/VWV
+
+
+• A o o c
+
+
+SLAYER AND EATER OF THE GODS 55
+
+mestchetch - f an dr-nef dm teller khut
+
+[what] he hateth not doeth he in the limits of the horizon
+
+tcJietta er neheh seJc ha - sen dmt TJnds
+
+for ever and ever. Behold, their soul [is] in Unas,
+
+
+kJiu - sen kher TJnds em ha kliet - f
+
+spirits their [are] with Unas, more abundant [is] his food
+
+
+er neteru qerert en TJnds em
+
+than [that of] the gods. The flame of Unas [is] in
+
+
+qesu - sen sek ha-sen kher TJnds khaibitu-sen
+
+their bones, behold, their soul is with Unas, their shadows
+
+
+Q Q
+
+
+md dru - sen dii TJnds em enen kJia khd
+
+are with their forms. Unas is with these, rising, rising,
+
+
+dmen dmen sekhem dru ' dritu ....
+
+hidden, hidden, a sekhem having performed the ordinances
+
+1 -^ 111 I AAAAAA I /VAAAAA
+
+
+56 SLAYER AND EATER OF THE GODS
+
+525.^ ojp- J^O (SI
+
+em Tchebes dst-db Unas em
+
+of ploughing, the seat of the heart of Unas [is] among
+
+
+dnJchu em ta pen tchetta er neheh
+
+the living on earth this for ever and for ever.
+
+
+CHAPTER II
+CONCEPTION OF GOD AND THE "GODS"
+
+T"^HE texts in the p5rraniids of Unas and Teta and their
+immediate successors prove that the religious literature of
+the Egyptians contains a multitude of beliefs and opinions which
+belong to all periods of their history, and represent different stages
+in the development of their civilization. Their ideas about the
+various parts which constitute their material, and mental, and
+spiritual existences cannot have been conceived all at once, but it
+is very hard to say in respect of some of them which came first.
+We need not trouble about the order of the development of their
+ideas about the constituent parts of the gods, for in the earliest
+times, at least, the Egyptians only ascribed to them the attributes
+which they had already ascribed to themselves; once having
+believed that they possessed doubles, shadows, souls, spirits, hearts,
+(i.e., the seats of the mental life), names, powers, and spiritual bodies,
+they assigned the like to the gods. But if the gods possessed
+doubles, and shadows, and hearts, none of which, in the case of
+man, can exist without bodies, they too must possess bodies, and
+thus the Egyptians conceived the existence of gods who could
+eat, and drink, and love, and hate, and fight, and make war, and
+grow old, and die, and perish as far as their bodies were concerned.
+And although the texts show that in very early times they began
+to conceive monotheistic ideas, and to develop beliefs of a highly
+spiritual character, the Egyptians never succeeded in abandoning
+the crude opinion about the gods which their indigenous ancestors
+had formed long before the dynastic period of their history. It is,
+of course, impossible to assume that educated classes of Egypt held
+such opinions, notwithstanding the fact that religious texts which
+
+
+58 BELIEFS IN IMMORTALITY
+
+were written for their benefit contain as great a mixture of views
+and beliefs of all periods as those which were written for humbler
+folk.
+
+The Book of the Dead in all dynasties proves that the rich
+and the poor, and the educated and the uneducated alike prayed
+for funeral offerings in the very Chapters in which they proclaimed
+their sure belief in an existence in which material things were
+superfluities. In the texts of the Early Empire the deceased is
+declared to be a god, or God, and the son of god, or God, and the
+oldest god of all, Horus, gives him his eye, and he sits on a great
+throne by the side of God ; yet in the same texts we read that he
+partakes of the figs and wine of the gods, that he drinks beer
+which lasts for ever, that he thirsts not like the gods Shu and
+Tefnut, and that the throne of God is made of iron, that its legs
+terminate in hoofs like those of bulls, and that its sides are
+ornamented with the faces of lions. ^ The great god Horus gives
+him his own " double " (ka)^ and yet there are in heaven enemies
+who dare to oppose the deceased ; and although he is declared to
+be immortal, " all the gods give him of their food that he may not
+" die," and he sits down, clothed in white linen and wearing white
+sandals, with the gods by the lake in the Field of Peace, and
+partakes with them of the wood (or, tree) of life on which they
+themselves live that he also may live. Though he is the son of
+God he is also the child of Sothis, and the brother of the Moon,
+and the goddess Isis becomes his wife ; though he is the son of
+God we are also told that his flesh and his bones have been
+gathered together, that his material body has been reconstructed ;
+that his limbs perform all the functions of a healthy body ; and as
+he lives as the gods live we see that from one point of view he and
+the g:ods are constituted alike. Instances of the mixture of
+spiritual with material ideas might be multiplied almost indefinitely, and numbers of passages containing the most contradictory
+statements might be adduced almost indefinitely to prove that the
+ideas of the Egyptians about the world beyond the grave, and
+about God and the gods were of a savage, childish, and inconsistent
+
+1 The passages from the Pyramid Texts are collected in my Pajiyrzis of Ani,
+London, 1894, pp. Ixxi. ff.
+
+
+COMPOSITE ANIMAL-GODS
+
+
+character. What, however, we have to remember in dealing with
+Egyptian religious texts is that the innate conservatism of the
+Egyptian in all ages never permitted him to relinquish any belief
+which had once found expression in Avriting, and that the written
+word was regarded by him as a sacred thing Avhich, whether he
+believed it not, must be copied and preserved with great care, and
+if possible without any omission or addition whatsoever. Thus
+religious ideas and beliefs which had been entirely forgotten by
+the people of Egypt generally were preserved and handed down
+for thousands of years by the scribes in the temples. The matter
+would have been simple enough if they had done this and nothing
+more, but unfortunately they incorporated new texts into the
+collections of old ones, and the various attempts which the priests
+and scribes made to harmonize
+them resulted in the confusion
+of beliefs which we now have
+in Egyptian religious works.
+
+Before we pass to the
+consideration of the meaning
+of the old Egyptian name for
+god and God, i.e., "neter,"
+mention must be made of a
+class of beings which were
+supposed to possess bodies
+partly animal and partly human, or were of a composite character.
+Among the latter class may be mentioned the creature which has
+the body of a leopard and the head and neck of a serpent, and was
+
+called " Setcha," M • J ; and that which has the body of a lion, from
+
+which grow a pair of wings, and the head of an eagle, and is
+
+called " Sefer," I "'; and that which has a body, the fore part
+
+being that of a lion, and the hind part that of a horse, and the
+head of a hawk, and an extended tail which terminates in a
+flower somewhat resembling the lotus. The name of this creature
+
+1 See Cliampollion, Monuments, torn, iv., Paris, 1845, pi. 382.
+3 Ibidf See also Newberry, Beni-Hasan, ii., pi. iv.
+
+
+The serpent-lieaded leopard Setcha.
+
+
+COMPOSITE ANIMAL-GODS
+
+
+neck, and with bars and stripes on her body, which has eight
+teats/ Among creatures, part animal part human, may be mentioned the leopard, with a human head and a pair of wings
+
+growing out of his back,^ and
+the human - headed lion or
+sphinx. The winged human
+head which springs from the
+back of the leopard^ strongly
+reminds one of the modern
+conventional representations of
+angels in religious pictures,
+but as the name of this fabulous creature is unknown, it is
+impossible even to guess at the
+reasons for which he was furnished with a win2;ed man's
+head. In connexion with the composite animals enumerated above
+must be mentioned the "Devourer of Amenti," called "Am-mit, the
+Eater of the Dead," whose forequarters were those of a crocodile,
+and hindquarters those of a hippopotamus, and whose body was
+
+that of a lion, =^
+
+
+The eagle-headed lion Sefer.
+
+
+at Beni-hasan, in which the
+figures of the Setcha, the Sefer,
+and the Sak are depicted,
+date from the Xllth Dynasty,
+about B.C. 2500, and there is
+no reason for supposing that
+their existence was not conceived of long before that
+time. Side by side with these
+is also depicted an animal
+called Sha, M^T, which has
+long square ears, and an extended tail resembling an arrow, and in
+its general appearance it much resembles the animal of the god Set.
+
+1 See Rosellini, Monumcnti Chili, pi. xxiii., No. 4.
+
+" Ihid., pi. xxiii., No. 6. '^ See Lepsius, Denkmdler, iii., pi. 131.
+
+
+The fabulous beast Sak.
+
+
+COMPOSITE ANIMAL-GODS
+
+
+A fabulous leopard.
+
+
+Two explanations of the existence of such composite creatures
+may be given. They may be due either to the imagination of the
+Egyptians, which conceived of the existence of quadrupeds wherein
+were united the
+strength of one
+animal and the
+wisdom or cunning
+of another, e.g.,
+the Setcha which
+united within itself
+the strength of the
+leopard with the
+cunnino; of the serpent, and the name-
+less leopard with a man's winged head, or to the ignorance of
+the ancients of natural history. The human head on an animal
+represented the intelligence of a man, and the wings the swift
+flight of the bird, and the body of the leopard the strength and
+the lithe motions of that animal. In conceiving the existence of
+such creatures the imagination may have been assisted in its
+fabrication of fabulous monsters by legends or stories of predynastic animals which were current in certain parts of Egypt
+during the dynastic period.
+Thus, as we have said before,
+the monster serpents of Egyptian mythology have their pro-
+totypes in the huge serpents
+which lived in the country in
+primeval times, and there is
+no doubt that Apep was,
+originally, nothing more than
+a huge serpent which lived in
+some mountain on the western
+
+bank of the Nile. On the other hand, it is possible that the
+Egyptians really believed in the existence of composite animals,
+and that they never understood the impossibility of the head and
+neck of a serpent growing out of the body of a lion, or the head
+
+
+The animal Sha.
+
+
+62 COMPOSITE ANIMAL-GODS
+
+of a hawk out of the body of a lion, or a human head with the
+wings of a bird out of the body of a leopard. They were keen
+enough observers of the animals with which they came in contact
+daily, and their representations of them are wonderful for the
+accurate delineation of their forms and characteristics ; but of
+animals which they had never seen, and could only know from
+the reports of travellers and others, naturally they could not give
+accurate representations. Man in all ages seems prone to believe
+in the existence of composite animals and monsters, and the most
+cultured of the most ancient nations, e.g., the Egyptians and the
+Babylonians, form no exception to the rule. The early sealcylinders of the Babylonians reveal their belief in the existence
+of many a fabulous and mythical animal, aud the boundary stones,
+or landmarks, of a later period prove that composite animals were
+supposed to watch over the boundaries of kingdoms and estates,
+which they preserved from invasion, and the winged man-headed
+bulls, which the Assyrians set up in the gates and doorways of
+their palaces to "protect the footsteps of the kings Avho made
+them," indicate clearly that they duly followed the examples set
+them by their kinsmen, the Babylonians. From the Assyrians
+Ezekiel probably borrowed the ideas which he developed in his
+description in the first chapter of his book of the four-faced and
+four-winged animals. Later, even the classical writers appeared
+to see no absurdity in solemnly describing animals, the existence
+of which was impossible, and in declaring that they possessed
+powers which were contrary to all experience and knowledge.
+HorapoUo, i. 10, gravely states that the scarabaeus represents an
+only begotten, because the scarabaeus is a creature self-produced,
+being unconceived by a female, ^jiovoyeve(i fxev 6tl avToyeue(; iart to
+^wov^ vTTo ^T^Xetas jxr] Kvo(^opovixevov ; and in one form or another
+this statement is given by ^Elian (De. Nat. Animal., iv. 49),
+Aristotle {Hist. An., iv. 7), Porphyry {De Ahstlnentia, iv. 9), Pliny
+{Nat. Hist., xi. 20 ff.), etc. Of the man-headed lion at Gizeh, i.e.,
+the Sphinx, Pliny, Diodorus, Strabo, and other ancient writers
+have given long descriptions, and all of them seem to take for
+granted the existence of such a creature.
+
+The second explanation, which declares that composite animals
+
+
+THE WORD NETER 63
+
+are the result of the imagination of peoples who have no knowledge,
+or at all events a defective one, of the common facts of natural
+history is not satisfactory, for the simple reason that composite
+animals which are jDartly animal and partly human in their powers
+and characteristics form the logical link between animals and man,
+and as such they belong to a certain period and stage of development in the history of every primitive people. If we think for a
+moment we shall see that many of the gods of Egypt are closely
+connected with this stage of development, and that comparatively
+few of them Avere ever represented wholly in man's form.
+The Egyptians clung to their representations of gods in animal
+forms with great tenacity, and even in times when it is certain
+they cannot have believed in their existence they continued to
+have them sculptured and |)ainted upon the walls of their temples ;
+curiously enough, they do not seem to have been sensible of the
+ridicule which their conservatism brought down upon them from
+strangers.
+
+We have already said above that the common word given by
+the Egyptians to God, and god, and spirits of every kind, and
+beings of all sorts, and kinds, and forms, which were supposed to
+
+possess any superhuman or supernatural power, was neter, ^ ,
+
+and the hieroglyph which is used both as the determinative of this
+
+word and also as an ideograph is | . Thus we have | or | Jj ,
+
+for "goddess" is netert, which can be written T'^, or 1 ^=),
+or I ^=); sometimes the determinative of the word is a woman,
+J) , and at other times a serpent, e.g. "1 ^=) J)^ . The plural is
+
+supposed to be represented by | , and what the word neter means.
+In Bunsen's Egypt's Place (i., Nos. 556, 557, 623) the late Dr. Birch
+described I as a hatchet; in 1872 Dr. Brugsch placed ^ T among
+"objets tranchants, armes," in his classified list of hieroglyphic
+
+1 Index des MeroglyjpJies pTionetiques, No. 39 i.
+
+
+64 THE AXE A SYMBOL OF GOD
+
+characters ; thus it is clear that the two greatest masters of Egyptology considered l to be either a weapon or a cutting tool, and, in
+fact, assumed that the hieroglyphic represented an axe-head let into
+and fastened in a long wooden handle. From the texts wherein
+the hieroglyphics are coloured it is tolerably clear that the axe-head
+was fastened to its handle by means of thongs of leather. The
+earliest axe-heads were made of stone, or flint or chert, and later of
+metal, and it is certain that when copper, bronze, and iron took the
+place of stone or flint, the method by which the head was fastened
+to the handle was considerably modified. Recently an attempt has
+been made to show that the axe, | , resembled in outline " a roll of
+" yellow cloth, the loAver part bound or laced over, the upper part
+" appearing as a flap at the top probably for unwinding. It is
+" possible, indeed, that the present object represents a fetish, e.g.,
+'' a bone carefully wound round with cloth and not the cloth
+" alone." -^ But it need hardly be said that no evidence for the
+correctness of these views is forthcoming. Whether the hieroglyphic I was copied from something which was a roll of cloth or
+a fetish matters little, for the only rational determination of the
+character is that which has already been made by Drs. Birch and
+Brugsch, and the object which is represented by | is, in the
+writer's opinion, an axe and nothing else,
+
+Mr. Legge has collected^ a number of examples of the
+presence of the axe as an emblem of divinity on the megaliths of
+Brittany and in the prehistoric remains of the funeral caves of the
+Marne, of Scandinavia, and of America, and, what is very much to
+the point, he refers to an agate cylinder which was published by
+the late Adrien de Longperier, wherein is a representation of a
+priest in Chaldaean garb ofl'ering sacrifice to an axe standing
+upright upon an altar. Mr. Legge points out "that the axe
+"appears on these monuments not as the representation of an
+" object in daily use, but for religious or magical purposes," and
+goes on to say that this is proved by "the fact that it is often
+" found as a pendant and of such materials as gold, lead, and even
+"amber; while that it is often represented with the peculiar
+" fastenings of the earlier flint weapon shows that its symbolic use
+1 Griffith, Hieroglyphs, p. 46. 2 Proc, Soc. Bihl. Arch., 1899, p. 310.
+
+
+THE AXE A SYMBOL OF GOD 65
+
+"goes back to the neolithic and perhaps the palaeoHthic age."
+He is undoubtedly correct in thinking that the use of the stone axe
+precedes that of the flint arrow-head or flint knife, and many facts
+could be adduced in support of this view. The stone tied to the
+end of a stick formed an effective club, which was probably the
+earliest weapon known to the predynastic Egyptians, and subsequently man found that this weapon could be made more effective
+still by making the stone flat and by rubbing down one end of it
+to form a cutting edge. The earliest axe-head had a cutting edge
+at each end, and was tied by leather thongs to the end of a stick
+by the middle, thus becoming a double axe ; examples of such a
+weapon appear to be given on the green slate object of the archaic
+period which is preserved in the British Museum^ (Nos. 20,790,
+20,792), where, however, the axe-heads appear to be fixed in
+forked wooden handles. In its next form the axe-head has only
+one cutting edge, and the back of it is shaped for fastening to
+a handle by means of leather thongs. When we consider the
+importance that the axe, whether as a weapon or tool, was to
+primitive man, we need not wonder that it became to him first
+the symbol of physical force, or strength, and then of divinity or
+dominion. By means of the axe the predynastic Egyptians cut
+down trees and slaughtered animals, in other words, the weapon
+was mightier than the spirits or gods who dwelt in the trees and
+the animals, and as such became to them at a very early period
+an object of reverence and devotion. But besides this the axe
+must have been used in sacrificial ceremonies, wherein it would
+necessarily acquire great importance, and would easily pass into
+the symbol of the ceremonies themselves. The shape of the axehead as given by the common hieroglyphic | suggests that the
+head was made of metal when the Egyptians first began to use the
+character as the symbol of divinity, and it is clear that this change
+in the material of which the axe -head was made would make the
+weapon more effective than ever.
+
+Taking for granted, then, that the hieroglyphic T represents
+an axe, A^e may be sure that it was used as a symbol of power and
+
+^ See my History of Egypt, vol. ii., p. 10, where it is figured and described.
+F
+
+
+66 THE WORD NETER
+
+divinity by the predynastic Egyptians long before the period when
+they were able to write, but we have no means of knowing what
+they called the character or the axe before that period. In
+dynastic times they certainly called it neter as we have seen, but
+another difficulty presents itself to us when we try to find a word
+that will express the meaning Avhich they attached to the word ; it
+is most important to obtain some idea of this meaning, for at the
+hase of it lies, no doubt, the Egyptian conception of divinity or
+God. The word neter has been discussed by many Egyptologists,
+but their conclusions as to its signification are not identical.
+M. Pierret thought in 1879 that the true meaning of the word is
+■" renewal, because in the mythological conception, the god assures
+^'himself everlasting youth by the renewal of himself in engender-
+■" ing himself perpetually." ^ In the same year, in one of the
+Hibbert Lectures, Renouf declared that he was " able to affirm
+^' with certainty that in this jDarticular case we can accurately
+"determine the primitive notion attached to the word," i.e., to
+NUTAR (neter). Accordiug to him, " none of the explanations
+"hitherto given of it can be considered satisfactory," but he
+thought that the explanation which he was about to propose would
+*' be generally accepted by scholars," because it was " arrived at as
+" the result of a special study of all the published passages in which
+^' the word occurs." ^ Closely allied to nutar (neter) is another
+word nutra (netra), and the meaning of both was said by Renouf
+to be found in the Coptic rtoJUtTe or rfOJUi+, which, as we may
+see from the passages quoted by Tatham in his Lexicon (p. 310), is
+The primary meaning of the word rfOJUi+ appears to be " strong,"
+and having assumed that neter was equivalent in meaning to
+this word, Renouf stated boldly that neter signified "mighty,"
+" might," " strong," and argued that it meant Power, " which is
+*'also the meaning of the Hebrew El." We may note in passing
+
+1 " Le mot par lequel on rendait I'idce de Dieu | ^ i nuter, signifie au
+
+*'■ propre, ' renouvellement,' parce que dans la conception mythologique, le dieu
+•' s'assure une eternelle jeunesse par le renouvellement de lui-meme, en s'engendrant
+" lui-meme perpctuellement." Essai sur la Mijthologie lEgypticnne, Pai'is, 1879, p. S.
+~ ReUgioji of Ancient Egypt, p. 93.
+
+
+THE WORD NETER 67
+
+that the exact meaning of "El," the Hebrew name for God, is
+unknown, and that the word itself is probably the name of an
+ancient Semitic deity.
+
+The passages which were quoted to prove that neter meant
+" strong, strength, power," and the like could, as M. Maspero has
+said,^ be explained differently. M. Maspero combats rightly the
+attempt to make "strong" the meaning of neter (masc), or
+NETERiT (fem.), in these words : " In the expressions ' a town
+" neterit,' ' an arm neteri,' .... is it certain that ' a strong city,'
+" ^ a strong arm,' gives us the primitive sense of neter ? When
+" among ourselves one says ' divine music,' ' a piece of divine
+" poetry,' ' the divine taste of a peach,' ' the divine beauty of a
+" woman ' [the word] divine is a hyperbole, but it would be a
+" mistake to declare that it originally meant ' exquisite ' because
+" in the phrases which I have imagined one could apply it as
+" ' exquisite music,' ' a piece of exquisite poetry,' ' the exquisite
+" taste of a peach,' ' the exquisite beauty of a woman.' Similarly
+" in Egyptian ' a town netevit ' is a ' divine town ' ; ' an arm
+" neteri ' is ' a divine arm,' and neteri is employed metaphorically
+" in Egyptian as is [the word] ' divine ' in French, without its
+" being any more necessary to attribute to [the word] neteri the
+"primitive meaning of 'strong,' than it is to attribute to [the
+" word] ' divine ' the primitive meaning of ' exquisite.' The
+" meaning ' strong ' of neteri, if it exists, is a derived and not an
+" original meaning." ^
+
+The view taken about the meaning of neter by the late
+Dr. Brugsch was entirely different, for he thought that the
+fundamental meaning of the word was " the operative power which
+" created and produced things by periodical recurrence, and gave
+" them new life and restored to them the freshness of youth (die
+" thatige Kraft, welche in periodischer Wiederkehr die Dinge
+" erzeugt und erschafft, ihnen neues Leben verleiht und die
+" Jugendfrische zuriickgiebt." ^ The first part of the work from
+which these words are quoted appeared in 1885, but that Dr.
+Brugsch held much the same views six years later is evident
+
+1 Etudes de Mythologie et d'Archeologie Sgyptiennes, torn, ii., p. 215.
+
+2 Maspero, op. cit., p. 215. ^ Eeligion und Mythologie, p. 93.
+
+
+68 THE WORD NETER
+
+from the following extract from his volume entitled Die Aegyptologie (p. 166), which appeared in 1891. Referring to Renonf's
+contention that neter has a meaning equivalent to the Greek
+Bvpafxt^, he says, " Es liegt auf der Hand, dass der Gottesname in
+*• Sinne von Starker, Miichtiger, vieles fur sich hat, um so mehr
+" als selbst leblose Gegenstande, wie z. B. ein Baustein, adjek-
+" tivisch als nutri d. h. stark, miichtig, nicht selten bezeichnet
+" werden. Aber so vieles diese ErklUrung fiir sich zu haben
+" schient, so wenig stimmt sie zu der Thatsache, dass in den
+" Texten aus der besten Zeit (XVIII Dynastie) das Wort nutr als
+" ein Synonym fiir die Vorstellung der Verjungung oder Erneue-
+" rung auftritt. Es diente zum Ausdruck der periodisch wieder-
+" kehrenden Jugendfrische nach Alter und Tod, so dass selbst dem
+" Menschen in den altesten Sarginschriften zugerufen wird, er sei
+" fortan in einen Gott d. h. in ein Wesen mit jugendlicher Frische
+" umgewandelt. Ich lasse es dahin gestellt sein, nach welcher
+" Richtung hin die aufgeworfene Streitfrage zu Gunsten der einen
+" oder der anderen AufFassung entschieden werden wird ; hier
+" GottesbegrifF der alten Aegypter in sich schliesst und daher einen
+" ganz besonderen Aufmerksamkeit werth ist."
+
+In this passage Dr. Brugsch substantially agrees with Pierrot's
+views quoted above, but he appears to have withdrawn from the
+position which he took up in his Religion und Mythologie, wherein
+he asserted that the essential meanins; of neter was identical with
+that of the Greek (^vcrt? and the Latin " natura." ^ It need hardly
+be said that there are no good grounds for such an assertion, and
+it is difficult to see how the eminent Egyptologist could attempt
+to compare the conceptions of God formed by a half-civilized
+African people with those of such cultured nations as the Greeks
+and the Romans.
+
+The solution of the difficulty of finding a meaning for neter
+is not brought any nearer when we consider the vioAvs of such
+distinguished Egyptologists as E. de Rouge, Lieblein, and Maspero.
+
+1 " Der lubegi'iff dieses Wortes deckt sich dalier vollstiiudig mit der ur-
+" spriinglichen Bedeutung des griechisclien physis und des lateinisclien natura."
+
+
+THE WORD NETER 69
+
+The first of these ia commenting on the passage | rjj | '^ ^-3
+
+
+" devenant dieu (en) s'engendrant lui-meme," says in his excellent
+Ghrestomathie Egijjptienne (iii. p. 24), " One knows not exactly the
+" meaning of the verb miter, which forms the radical of the word
+" nuter, ' god.' It is an idea analagous to ' to become,' or ' renew
+" oneself,' for nuteri is applied to the resuscitated soul which
+" clothes itself in its immortal form." Thus we find that one of
+the greatest Egyptologists thinks that the exact meaning of neter
+is unknown, but he suggests that it may have a signification not
+unlike that proposed by Pierret. Prof. Lieblein goes a step
+further than E. de Rouge, for he is of opinion that it is impossible
+to show the first origin of the idea of God among any people hitherto
+known historically. " When we, for instance, take the Indo-
+" Europeans, what do Ave find there ? The Sanskrit word deva is
+" identical with the Latin deus, and the northern tivi, tivar ; as
+" now the word in Latin and northern language signifies God it
+" must also in Sanskrit from the beginning have had the same
+" signification. That is to say, the Arians, or Indo-Europeans,
+" must have combined the idea of God with this word, as early as
+" when they still lived together in their original home. Because,
+" if the word in their pre-historic home had had another more
+" primitive signification, the wonder Avould have happened, that
+" the word had accidentally gone through the same development
+" of signification with all these people after their separation. As
+" this is quite improbable, the word must have had the significa-
+" tion of God in the original Indo-European language. One could
+" go even farther and presume that, in this language also, it was
+" a word derived from others, and consequently originated from a
+" still earlier pre-historic language. All things considered it is
+" possible, even probable, that the idea of God has developed itself
+" in an earlier period of languages, than the Indo-European. The
+" future will perhaps be able to supply evidence for this. The
+" science of languages has been able partly to reconstruct an Indo-
+'' European pre-historic language. It might be able also to
+" reconstruct a pre-historic Semitic, and a pre-historic Hamitic,
+
+
+70 THE WORD NETER
+
+" and of these three pre-historic languages, whose original con-
+" nexion it not only guesses, but even commences to prove
+" gradually, it will, we trust in time, be able to extract a still
+" earlier pre-historic language, which according to analogy might
+" be called Noahitic, When we have come so far, we shall most
+" likely in this pre-historic language, also find words expressing
+" the idea of God. But it is even jDOssible that the idea of God
+" has not come into existence in this pre-historic language either.
+" It may be that the first dawning of the idea, and the word God
+" should be ascribed to still earlier languages, to layers of languages
+'' so deeply buried that it will be impossible even to excavate
+" them. Between the time of inhabiting ca^es in the quaternian
+" period, and the historical kingdoms, there is such a long space of
+" time, that it is difficult to entertain the idea, that it was quite
+" devoid of any conception of divinity, so that this should first
+" have sprung up in the historical time. In any case we shall not
+" be able to prove historically where and when the question first
+" arose, who are the superhuman powers whose activity we see
+" daily in nature and in human life. Although the Egyptians are
+" the earliest civilized people known in history, and just therefore
+" especially important for the science of religion, yet it is even
+" there impossible to point out the origin of the conception of the
+" deity. The oldest monuments of Egypt bring before us the
+" gods of nature chiefly, and among these especially the sun.
+" They mention, however, already early (in the IVth and Vth
+" Dynasties) now and then the great power, or the great God, it
+" being uncertain whether this refers to the sun, or another god of
+" nature, or if it was a general appellation of the vague idea of a
+" supernatural power, possibly inherited by the Egyptians. It is
+" probably this great God indicated on the monuments, from the
+" the IVth Dynasty, and later on, who has given occasion to the
+" false belief that the oldest religion of the Egyptians was pure
+" monotheism. But firstly, it must he observed, that he is not
+" mentioned alone but alongside of the other gods, secondly, that
+" he is merely called ' The great God,' being otherwise without
+" distinguishing appellations, and a God of whom nothing else is
+" mentioned, has, so to speak, to use Hegel's language, merely an
+
+
+THE WORD NETER 71
+
+" abstract existence, that by closer examination dissolves into
+" nothing."
+
+It is necessary to quote Professor Lieblein's opinion at length
+because he was one of the first to discuss the earliest idea of God in
+connection with its alleged similarity to that evolved by Aryan
+nations ; if, however, he were to rewrite the passage given above in
+the light of modern research he Avould, we think, modify many of
+his conclusions. For our present purpose it is sufficient to note
+that he believes it is impossible to point out the origin of the
+conception of the deity among the Egyptians. The last opinion
+which we need quote is that of M. Maspero, who not only says
+boldly that if the word netee or netri really has the meaning of
+" strong " it is a derived and not an original meaning, and he
+prefers to declare that the word is so old that its earliest signification is unkno^v^l. In other words, it has the meaning of god, but
+it teaches us nothing as to the primitive value of this word. We
+must be careful, he says, not to let it suggest the modern religious
+or philosophical definitions of god which are current to-day, for an
+Egyptian god is a being who is born and dies, like man, and is
+finite, imperfect, and corporeal, and is endowed with passions, and
+virtues, and vices. ^ This statement is, of course, true as regards
+the gods of the Egyptians at several periods of their history, but it
+must be distinctly understood, and it cannot be too plainly stated,
+that side by side with such conceptions there existed, at least
+among the educated Egyptians, ideas of monotheism which are not
+far removed from those of modern nations.
+
+From what has been said above we see that some scholars take
+the view that the word neter may mean "renewal," or "strength,"
+or " strong," or " to become," or some idea which suggests "renewal,"
+and that others think its original meaning is not only unknown,
+but that it is impossible to find it out. But although we may not
+be able to discover the exact meaning which the word had in j)redynastic times, we may gain some idea of the meaning which was
+attached to it in the dynastic period by an examination of a few
+passages from the hymns and Chapters which are found in the
+
+1 Egyptian Beligion, by J. Lieblein, Leipzig, 1884.
+
+" La Mytliologie jSgyptienne (iStudes cle Mythologie, torn, ii., p. 215).
+
+
+THE WORD NETER
+
+
+various versions of the Book of the Bead. In the text of Pepi 1.
+(line 191) we have the words : — " Behold thy son Horus, to whom
+^' thou hast given birth. He hath not placed this Pepi at the
+'^' head of the dead, but he hath set him among the gods neteru,'*
+
+U
+
+
+must be an adjective, and we are clearly intended to understand
+that the gods referred to are those which have the attribute of
+neteru; since the "gods neteru," | | | | (^ "vN , are mentioned in
+
+opposition to "the dead" it seems as if we are to regard the
+gods as " living," i.e., to possess the quality of life. In the text of
+
+
+hawk having the quality of neter is mentioned ; and in the text of
+
+
+to the Vth and Vlth Dynasties. Passing to later dynasties, i.e.,
+the XVIIIth and XlXth, etc., we find the following examples of
+the use of the words neter and netri : —
+
+
+hun
+Boy
+
+
+netri
+
+netri.
+
+
+aa
+
+
+O
+Iwli
+
+
+utet se-mes su tchesef
+
+
+h-eir of eternity, begetting and giving birth
+
+to himself.
+
+
+I
+
+
+ta-d til em dh-d dti halcai
+
+I am devoted in my heart Avithout feigning
+
+
+w
+netri
+
+0 thou netri
+
+
+er neteru
+
+more than the gods.
+
+1 See my Chapters of Coming Forth J)y Day, Text, p. 11, 1. 10.
+
+
+THE WORD NETER
+
+
+tchel - tu re pen her
+Shall be said this chapter over
+
+
+1
+
+
+neter - hid
+I have become neter.
+
+
+mahu en netrdt
+
+a crown of netrdt.
+
+
+e
+
+
+dit - d hlid - hud
+I have risen up
+
+
+n
+
+
+1
+
+
+w
+em &(i^ Tze^rz
+
+
+1
+
+
+Hefe?' - hud
+
+
+hJiu
+
+
+hud
+
+
+I have become pure, I have become 7ieter, I have become a
+
+spirit (hhu),
+
+
+■user - hud ha - hud
+
+I have become strong, I have become a soul (&«).
+
+
+unen-f neter md neteru em Neter -hhertet
+
+His being neter with the gods in the Neter-khertet.
+(or, he shall be)
+
+
+1
+
+
+du - /
+He shall
+
+
+netrd
+netrd
+
+
+hhat-f
+his body
+
+
+temtu
+all.
+
+
+1 See my Chapters of Coming Forth by JDaij, p. 80, 1. 10.
+
+
+THE WORD NETER
+
+netri u ha - h em ^;er Sehut
+
+They make neter thy soul in the house of Sebut.
+
+
+netri - / })a - h md neteru
+
+He makes neter thy soul like the gods.
+
+
+0
+
+
+neter netri Icheper tchesef paut
+
+God netri, self-produced, primeval matter.
+
+
+Kow, in the above examples it is easy to see that although the
+words " strong " or " strength," when applied to translate neter or
+netri, give a tolerably suitable sense in some of them, it is quite
+out of place in others, e.g., in No. 6, where the deceased is made to
+say that he has acquired the quality of neter, and a spirit, and a
+soul, and is, moreover, strong; the word rendered "strong" in
+this passage is user, and it expresses an entirely different idea from
+neter. From the fact that neter is mentioned in No. 1 in connection
+with eternal existence, and self-begetting, and self-production, and
+in No. 11 with self-production and primeval matter, it is almost
+impossible not to think that the word has a meaning which is
+closely allied to the ideas of " self-existence," and the power to
+" renew life indefinitely," and " self-production." In other words,
+neter appears to mean a being who has the power to generate life,
+and to maintain it when generated. It is useless to attempt to explain the word by Coptic etymologies, for it has passed over directly
+rfOYTe, the last consonant, r, having disappeared through phonetic
+decay, and the translators of the Holy Scriptures from that language
+used it to express the words " God " and " Lord." Meanwhile, until
+new light is thrown upon the subject by the discovery of inscrip-
+
+
+1 See my Chapters of Covniuj Forth hij Day, Text, p. 509, 1. 13.
+
+2 Ibid, p. 511, 1. 13. ' ^ Ibid, p. 49, 1. 1.
+
+
+THE PRIMITIVE GOD 75
+
+tions older than any which we now have, we must be content to
+accept the approximate meaning of neter suggested above.
+
+The worship of the gods (neterii), which began far awayback in predynastic times, continued through the archaic and
+dynastic periods, and lasted until the LVth or Vth century of
+our era ; it is tolerably certain that in respect of some of them the
+ideas of the Egyptians never changed, but, as regards others, their
+views did not remain as constant as some writers would have us
+imagine. In the earliest days every village community in Egypt
+had its local god, who shared the good or evil fortune of the
+community to which he belonged. His emblem or symbol was
+carried out to war, and was, of course, present at aU great public
+gatherings when matters connected with the welfare of his devotees
+were discussed. A special habitation was set apart for him, and
+its upkeep was provided for out of common funds. As the riches
+god kept pace with them, but his revenues suffered in times of
+scarcity, and defeat, and war ; his emblem might even be carried
+off into captivity and burnt, or smashed, when, of course, the spirit
+which dwelt in his symbol was also destroyed. The number of
+such early gods was legion, for many large communities possessed
+several gods, each of which was famed locally for some particular
+attribute. When a man left one villao;e and settled in another
+he took his god or gods with him, but he would be obliged to
+acknowledge the god of the village or city in which he had made his
+new abode, and to contribute towards the maintenance of his house
+and its small compound. The reduction in the number of the gods
+of Egypt began when man first realized that certain gods were
+mightier than others, for he ceased gradually to worship those
+who had, in his opinion, failed to justify his belief in them, and
+transferred his allegiance to the gods who were able to give him
+the most help. In process of time the god or goddess of a certain
+village or town would obtain a fame and reputation for power
+which would outrival those of the deities of the neighbouring
+cities, and the growth of the worship of such god or goddess would
+be accompanied by a corresponding decline in that of the gods in
+the towns round about. The gods, in the first instance, grew by
+
+
+76 SELECTION OF GODS
+
+a process of selection out of the spirits who were well disposed
+towards man and were helpful to him, and the ''great gods " of the
+Egyptians were evolved, practically, in a somewhat similar manner.
+It is at present hopeless to attempt to enumerate all the gods
+who were, from first to last, worshijDped by the Egyptians, for it
+will not be possible to do this until every text extant has been
+published. Meanwhile an examination of the earliest Egyptian
+religious literature known to us proves that a number of gods who
+were of some importance in the polytheistic system of the Early
+Empire dropped out from it long before the period of the New
+Empire, and thus it is very doubtful if Ave shall ever be able to
+collect the names of all the gods who have been worshipped in the
+Valley of the Nile between the Archaic and Roman periods, whilst
+to make a list of all the predynastic gods is manifestly impossible.
+
+Future discoveries in Egypt may produce texts that will tell
+us which were the favourite gods in the archaic period and give us
+some idea as to the pronunciation of their names, for we have
+reason to think that during the greater part of that period the
+Egyptians were able to write. If ever such texts are brought to
+light we shall probably find that the gods who were Avorshipped
+during the archaic period Avere those Avho Avere popular in the
+predynastic period, just as we find that the gods of the Egyptians
+of the Middle and New Empires were to all intents and purposes
+the same as those of the Egyptians of the Early Empire. Speaking
+generally, it may be said that the Egyptians of the greater part of
+the dynastic period of their history invented feAv ncAv gods, and
+that they were Avell content to Avorship such deities as Avere known
+to their ancestors ; Ave know that they admitted, at times, foreign
+gods into the assembly of the old Egyptian gods, but the religious
+texts prove that they Avere never alloAved to usurp the functions of
+the indigenous gods. Political and other reasons might secure for
+them a certain amount of recognition in the country generally, and
+the people of the cities Avhere their emblems and statues found
+resting-places treated them Avith the easy toleration Avhich is so
+marked a characteristic of many countries in the East ; but as soon
+as such reasons disajDpeared the foreign gods Avere quietly ignored,
+and in a short time their Avorship Avas forgotten. This statement is
+
+
+GODS OF THE EARLIEST DYNASTIES 77
+
+not intended to apply to the gods who Avere introduced from one
+city or district of Egypt into another, for we know that the
+Egyptian priesthood and people of a given city were ready to show
+hospitality to almost any god of any town, or city, or district, provided that he belonged to the same comjniny as that of which the
+chief local god was a member.
+
+We have, unfortunately, no long connected religious texts in
+the forms in which they must have existed under the first four
+dynasties, and we cannot therefore say what gods were worshipped
+during that period. There is, as has been shown elsewhere,^ good
+reason for believing that some parts of the Booh of the Dead were
+revised or edited during the early part of the period of the 1st
+Dynasty, and if this be so we may assume that the religious system
+of the Egyptians as revealed in the texts of a much later time closely
+resembled that which was in existence in the later part of the
+archaic period, i.e., during the first three dynasties. Under the Vth
+and VI th Dynasties we touch firmer ground, and we find abundant,
+though not complete, materials for the study of the gods of Egypt
+and their attributes in the lengthy hieroglyphic texts which were
+inscribed inside the pyramid tombs of Unas, Teta, Pejoi I., Mer-en-
+Ra-Mehti-em-sa-f, and Pepi II. An examination of these texts
+reveals the existence of an established theological system in Egypt,
+and we find that even at that time the literature in which it was,
+more or less, expounded, contained innumerable layers of religious
+thought and expressions of belief which belonged to periods many
+of which must have been separated by long intervals of time. The
+gods are mentioned in such a way as to prove that the writers of
+the texts, or at least the copyists, assumed that the reader would
+be well acquainted with the subject matter of the compositions, and
+from first to last neither explanation nor gloss is to be found in
+them. The texts are, of course, sepulchral, and the greater number
+of the gods mentioned in them are referred to in their characters
+as gods who deal with the souls of the dead in the world beyond
+the grave.
+
+The Sun-god Ra and the gods of his cycle, and Osiris, the god
+and judge of the dead, and the gods of his cycle, have definite
+
+1 See iny Boole of the Dead, London, 1901, vol. i., p. xxxiii.
+
+
+78 GODS OF THE ARCHAIC PERIOD
+
+positions and duties assigned to them, and it is very clear that both
+the texts which describe these and the ceremonies which were
+performed in connection with the words recited by the priests were,
+even under the Vth Dynasty, extremely ancient. Moreover, it is
+certain that the religious texts in use for fimeral purposes under
+that dynasty are substantially those which were compiled several
+centuries before. We may note in passing that the funeral books
+were edited by the priests of Annu or Ann, i.e., Heliopolis, and as
+a result they exhibit traces of the influence of the theological
+opinions of the great priestly college of that city ; but at bottom
+the views and beliefs which may be deduced from them, and the
+fundamental conceptions to which they give expression are the
+products of the minds of the predynastic, indigenous Egyptians.
+To the consideration of the Heliopolitan religious system we shall
+return later, and we may therefore pass on to the enumeration of
+the principal gods who are made known to us by the Pyramid
+Texts at Sakkara. Among the great gods who were certainly
+worshipped in the early archaic period may be mentioned : —
+
+Ptah (Teta 88) ° | ^em,^ or Horus (Mer-en-Ra 454)
+
+
+Nu (Unas 199)
+
+Net, or Neith (Unas 67)
+
+Ra {passim) O
+
+Het-Heru (Hathor)
+
+
+Kheper j (Unas 444) ^z^ g
+Kheprer) (PepiII.S56) -crib's ^
+Khnemu (Unas 556) 9^
+
+Sebek (Unas 565) [1 J
+
+
+Of these gods Heru, or Horus, was the hawk-god, i.e., the
+spirit and personification of the "height" of heaven ; Kheper was
+the beetle-god ; Khnemu the ram-god ; and Sel^ek the crocodilegod ; Net or Neith was originally a wood-spirit, Ra and Ptah were
+two forms of the Sun-god, and Nu Avas the watery mass of heaven
+
+
+2 Or, ^ (Unas, 272).
+
+
+GODS OF THE PYRAMID TEXTS
+
+
+in Avhicli he lived. With Ra and Kheper the priests of Heliopolis
+associated the form of the Sun-god which was specially worshipped
+in their city, and thus we have mentioned the compound gods
+Ra-Tem ©^ (Unas 216, 224, Mer-en-Ra 458), and Tem-
+
+(line 626) Sebek is styled " son of Net," ^ ^ "V^, and he is also
+called "lord of Barn," J "J^ -(s)- ^ [v^ (line 565); but if the
+XVIIIth Dynasty texts be correct the name of this place is misspelt, and in any case it must be identical Avith the Bakhau,
+of the Booh of the Dead. The following is a list of the other
+principal gods mentioned in the Pyramid Texts : —
+
+
+Ahu (Pepi II. 850)
+
+
+Aker (Unas 498, 614, Teta 309)
+
+
+Api (Unas 487) . I] D
+
+
+Amen (Unas 557)
+
+Ament (Unas 557)
+Am-henth-f (Pepi I. 666)
+
+
+iii)f mn
+
+
+Am-sepa-f (Pepi I. 666)
+
+
+S'ttttS
+
+
+Amsu or Min (Unas 377)
+
+
+Ana (Unas 272, 275) H (j j^
+
+Anpu (Unas 71, 207, 219) ^
+An-mut-f (Pepi 11. 772)
+
+
+An-tcher-f (Pepi I. 651)
+Akhet-nen-tha (Teta 307)
+
+
+Asar, Osiris (passim) A
+
+Ast, Isis (Unas 181) A
+
+xiter-asfet (Pepi II. 980)
+
+
+f
+
+
+1 Ahu appears to be identical with
+Pepi II., 1. 1320.
+
+
+Ankh (Pepi I. 672)
+
+
+, who is Amsu or Min -aofc- ; see
+
+
+GODS OF THE PYRAMID TEXTS
+
+
+I-en-lier-pes (Unas 392)
+
+
+Ualm (Teta 333) f{lfW
+Ur-sheps-f (Pepi I. 671)
+
+
+Urt (Unas 272)
+Urt-hekau (Unas 269)
+
+
+V
+
+
+Usert (Unas 229) ^ "] P "T
+Uthes (Pepi II. 976)
+Ba (Mer-en-Ra 784) o^
+Baba (Unas 532) J ^ J 1
+
+Babi (Unas 644, 647) J^ J (]()
+Baabu (Pepi I. 568) J "^f) J^
+Babua (Pepi I. 604) J "^ J^(]'
+
+Ba-ashem-f (Mer-en-Ra 784)
+
+
+° ' '^ Mentef (Pepi II. 1228)
+
+
+D
+
+
+I II
+
+
+Pent (Unas 280)
+Pesetchet (Unas 417)
+
+Maat-Khnemu(PepiI.445) ^ Q
+Maat (Unas 220) ^
+
+
+Menth (Mer-en-Ra 784) "
+
+
+Meht-urt (Unas 427, 623)
+
+
+Meht-urt (Unas 427, 623)
+
+
+Em-khent-maati (Pepi I. 645)
+Em-khent-maati (Pepi I. 645)
+
+
+(A
+
+
+Meskha (Unas 567) | ^ ^ ^
+Meskhaat (Pepi I. 671)
+
+
+Metchetat (Pepi 11. 956)
+
+
+Nubt (Unas 479) f^ J ^ )^-J
+Nebt-het (Unas 220)
+
+
+Nefer-Tem (Unas 395) J
+
+
+clinic
+
+
+1 This god is said to have a " red ear " ^"^ ^. ~ Var. ^ p ^
+
+
+GODS OF THE PYRAMID TEXTS 81
+
+
+Enen (Unas 557)) -j--j-
+Enenet (Unas 240)) ;].1|,
+
+Xekhben (Unas 459) XJo
+
+Nehebkau (Unas 559)
+
+Nekhebet (Mer-en-Ra 762)
+Neht (Unas 601)
+
+A/V)
+
+Nesert (Unas 269)
+
+
+Neti (Unas 279) cr^lf^
+
+Netetthab (Unas 598) ^ ^ |fl 'O'
+Renenut (Unas 441)
+
+Rurutha (Pepi H. 976, 979)
+
+Hepath (Pepi I. 636)
+
+Henena (Pepi I. 636) ral|.;^(ji
+Hetchhetch (Pepi I. 173)
+
+Hettenuut (Teta, 332)
+
+Hu (Unas 439) ^ ^ -^
+
+Hep (Unas 187) | ^
+
+Hep-ur (Unas 481) ^ °
+Hep (Teta 60, 197)
+
+
+Id
+
+
+Hen-pesetchti (Teta 309)
+
+Hent (Unas 417) ^ ^ ^
+Hunt (Teta 357) | + ^ ^
+
+Heru-am-henu (Unas 211)
+
+Heru-khent-peru (Unas 202)
+
+
+H eru-kliesbetcb-maat i(Unas3 69)
+Hem-khuttha (Unas 471)
+
+Heru-tesher-maati (Unas 369)
+
+Hem-Tat (Unas 218)
+
+
+Heru-khart (Teta 301)
+Hra-f-ha-f (Pepi I.)
+
+
+Her-hepes (Unas 226) "^ § °
+
+
+GODS OF THE PYRAMID TEXTS
+
+
+Hesat (Pepi II. 976)
+
+
+Hesmennu (Mer-en-Ra 670)
+
+
+Het-Hert (Unas 575)
+Heka (Pepi I. 583)
+Heqet (Pepi I. 570)
+
+
+U
+
+A
+
+
+Khaata (Unas 536) m ^
+
+Khebetch (Unas 434) ® J ^
+
+Khent-Amenti (Unas 201) ^ o(&=
+Khent-maati (Unas 218)
+
+Khnemu (Unas 556, Pepi I. 455)
+
+
+Khensu-Sept (Unas 588)
+
+Saa (Unas 439) [1 (1 ^ "^ k
+
+
+Seb (Unas 234) "^ J
+
+Sephu-urt (Pepi II. 976)
+
+Sept (Unas 219) Aft
+
+
+Sma-ur (Unas 280)
+
+
+Smentet (Teta 355) ^
+
+Sunth (Pepi II. 854) — ^
+
+Seref-ur (Teta 309) p^
+
+Serqet (Pepi I. 647)
+Serqet-lietu (Teta 207)
+
+
+Sekhemf (Pepi II. 978)
+
+Sekhen-ta-en-ur (Unas 281)
+
+
+Sekhet (Unas 390)
+Sashsa (Pepi II. 975)
+
+
+p
+
+
+Seker (Pepi I. 641)
+
+Seksen (Pepi I. 650)
+
+Set (Unas 6)
+Sethasetha (Pepi I. 265)
+
+Seththa (Pepi I. 259)
+Shu (Unas 185)
+
+
+1 Var.
+
+
+Pepi I., 352.
+
+
+2 He is identified with rlU Ij ° ^=^ % I ^ in Pepi II., 1320.
+
+
+GODS OF THE PYRAMID TEXTS
+
+
+Shesmu (Unas 511)
+
+
+rxn
+
+
+Sheskhentet (Unas 390) ^
+
+
+Kenur (Pepi II. 979)
+
+
+Kasut (Pepi 11. 975)
+
+Qebhsennuf (Teta 60) 1 1|| k^
+
+Tait (Teta 376) ^
+
+Teba (Unas 428)
+
+Tefen (Unas 453)
+
+Tefnut (Unas 453)
+
+Tern (Unas 207)
+
+
+Tem-kheprer (Pepi II. 662)
+
+Tatet (Unas 67) D
+
+Tuamutef (Teta 60)
+
+Tenanu (Pepi I. 269) ^v^AAAA q
+
+Tenten (Unas 280)
+
+Telmti (Unas 228)
+
+Tchent (Mer-en-Ra 773) -^ ^
+Tchenteru (Teta 198)
+
+
+Tchenttchenter (Pepi I. 301)
+
+
+Besides the above gods are mentioned the " angel (or
+messenger) of the two gods," y{ | | (Unas 408) ; and the " Ashem
+
+
+that dwelleth within Aru," ^
+
+
+Allusions are made to the following important stars
+
+
+Sah (Teta 349), f1 ^ |^ ^ , i.e., Orion.
+
+Sehut (Pepi 11. 857), [1|^.
+
+The Pyramid Texts show that in addition to the gods alreadyenumerated there existed certain classes of beings to whom were
+attributed the nature of the gods, e.g. : —
+
+The Afu (Pepi II. 951), —
+The Utennu (Pepi II. 951),
+
+
+AAAAAA
+
+ODD
+
+
+84 OTHER DIVINE BEINGS
+
+The Urshu of Pe (Pepi 11. 849), ^ oa [S
+
+The Urshu of Nekhen (Pepi II. 849), ^ oo p
+
+
+The Set beings, superior and inferior, (Pepi II. 951),
+
+
+P
+
+
+The Shemsu Heru (Pepi I. 166), ^ ^ ^
+
+
+Of the functions of the Afu and Utennu nothing whatever is
+known. The Urshu, i.e., the Watchers, of Pe and Nekhen may
+have been groups of Avell-known gods, who Avere supposed to
+" watch over " and specially protect these cities ; but, on the other
+hand, they may only have been the messengers, or angels, of the
+souls of Pe and Nekhen. The Henmemet beings are likewise a
+class of divine beings about whom we have no exact information.
+In certain texts they are mentioned in connection with gods and
+men in such a manner that they are supposed to represent
+" unborn generations," but this rendering will not suit many of the
+passages in which the Avord occurs, and in those in which it seems
+to do so many other hypothetical meanings would fit the context
+just as well. The passage in which the Set beings are referred to
+must belong to the period when the god Set was regarded as a
+beneficent being and a god who was, with Horus, a friend and helper
+of the dead. The text quoted above shows that, like Horus, Set
+was supposed to be the head of a company of divine beings with
+attributes and characteristics similar to those of himself, and that
+this company was divided into two classes, the upper and the
+lower, or perhaps even the celestial and the terrestrial. Last must
+be mentioned the Shemsu Heru, or the "Followers of Horus," to
+whom many references are made in funeral literature ; their
+primary duties were to minister to the god Horus, son of Isis, but
+they were also supposed to help him in the performance of the
+duties which he undertook for the benefit of the dead. In the
+religious literature of the Early Empire they occupy the place of
+
+
+THE GOD OF FOUR FACES 85
+
+Edfu, i.e., the workers in metal, or blacksmiths, who are supposed
+to have accompanied this god into Egypt, and to have assisted him
+by their weapons in establishing his supremacy at Behutet, or Edfu.
+The exploits of this god will be described later on in the section
+treating of Horus generally.
+
+In the text of Pepi I. (line 419) Ave have a reference to a god
+with four faces in the following words : — " Homage to thee, 0 thou
+" who hast four faces which rest and look in turn upon what is in
+
+" Kenset,^ and who bringest storm ! Grant thou unto this
+
+" Pepi thy two fingers which thou hast given to the goddess Nefert,
+" the daughter of the great god, as messenger fs] from heaven to
+" earth when the gods make their appearance in heaven. Thou
+" art endowed with a soul, and thou dost rise [like the sun] in thy
+'' boat of seven hundred and seventy cubits.^ Thou hast carried in
+" thy boat the gods of Pe, and thou hast made content the gods of
+" the East. Carry thou this Pepi with thee in the cabin of thy
+''boat, for this Pepi is the son of the Scarab which is born in
+" Hetepet beneath the hair of the city of lusaas the northern, and
+"he is the offspring of Seb. It is he who was between the legs of
+" Khent-maati on the night wherein he guarded (?) bread, and on
+" the night wherein he fashioned the heads of arrows. Thou hast
+" taken thy spear which is dear to thee, thy pointed weapon which
+" thrusteth down river banks, with a double point like the darts of
+" Ra, and a double haft like the claws of the goddess Maftet."
+
+Throughout the Pyramid Texts frequent mention is made of
+one group, or of two or three groups, of nine gods. Thus in Unas
+(line 179) we read of *' bowing low to the ground before the nine
+
+
+that the king's bread consists of "the word^ of Seb which cometh
+
+
+"matter," like the Hebrew 1^1.
+
+
+86 PAUT OR SUBSTANCE OF THE GODS
+
+
+is said in line 382 to have been " begotten by Seb and brought forth
+
+and in line 592 Ra is said to be the "chief of the nine gods,"
+we learn that one company of nine gods was called the " Great,"
+
+be connected with the Great or Little company of gods cannot be
+said. A double group of nine gods is frequently referred to, e.g.,
+in Teta, line 67, where it is said, " The eighteen gods cense Teta,
+
+
+v:) J ; and in Pepi I., line 273, where we read that the
+
+' two lips of Meri-Ra are the eighteen gods/' I cs::; f
+
+
+© nn n K(N
+
+
+said to be " with the eighteen gods in Qebhu," and to be the
+" fashioner of the eighteen gods," | "^ 11111111111111lil1
+
+kdil^(EEI°^1-^±111111111111111111.
+
+We may jDerhaps assume that the eighteen gods include the Great
+and the Little companies of the gods, but, on the other hand, as
+"male and female gods" are mentioned"-^ in the text of Teta, nine
+of the eighteen gods may be feminine counterparts of the other
+nine, who must therefore be held to be masculine. But the texts
+of Teta (line 307) and Pepi I. (line 218) show that there was a
+third company of nine gods recognized by the priests of Helio-
+
+
+1 Variant 0^0^; Teta, 1. 253.
+
+1 I ve_i J /vwwN 1 I I J^ (=2) _Hi^ -) ^ ^ '
+
+
+COMPANIES OF THE GODS 87
+
+polisj and Ave find all three companies represented thus :
+
+minniimnnnnimn-
+
+The Egyptian word here rendered " company " is pauti or
+pautj which may be written either D A^ v^ 1^ or ®, and the
+meaning usually attached to it has been " nine." It is found in
+texts subsequent to the period of the pyramids at Sakkara thus
+
+paut neteru netcheset, i.e., "the Great company of gods and the
+Little company of the gods." The fact that a company of gods is
+belief that a company of the gods contained nine gods, and for
+this reason the word p)C(ut has been explained to mean " nine." It
+is quite true that the Egyptians frequently assigned nine gods to
+the paut, as we may see from such passages as Unas 235/ and
+especially from line 283, where it is said, " Grant thou that
+this Unas may rule the nine, and that he may complete the
+
+M Mil Mr But the last quoted passage proves that a. paut of
+the gods might contain more than nine divine beings, for it is clear
+that if the intent of the prayer was carried out the jxtut referred
+to in it would contain ten, king Unas being added to the nine
+gods. Again, in a litany to the gods of the Great company given
+in the Unas text (line 240 ff.) we see that the paiit contains Tem,
+Shu, Tefnutr-Seb, Nut, Isis, Set, Nephthys, Thoth, and Horus,
+i.e., ten gods, without counting the deceased, who wished to be
+added to the number of the gods. In the text of Mer-en-Ra
+(line 205) the paut contains nine gods,^ and it is described as the
+
+
+88 COMPANIES OF THE GODS
+
+" Great jja?(^ which is in Annu" (Heliopolis), whilst in the text of
+Pepi 11. (line 669) the same ]jaut is said to contain Tern, Shu,
+Tefnut, Seb, Nut, Osiris, Osiris-Khent-Amenti, Set, Horus, Ra,
+Khent-maati, and Uatchet, i.e., tivelve gods. Similarly the gods of
+the Little paut are more than nine in number, and in Unas (line
+253 f.) they are thus enumerated : — Rat, , the dweller in Annu,
+
+
+Serqet, J ^ , the dweller in the divine palace, | Lj , the
+
+dweller in Hetch-pafir, I A^ , the dweller in Orion, d, the
+
+
+North, ^"^.
+
+Thus the Little j;(X?t^ contained eleven gods, not counting the
+deceased who desired to be added to their number. The fact that
+the 2^cint contained at times more than nine gods is thus explained
+by M. Maspero ^ : " The number nine was the original number,
+" but each of the nine gods, especially the first and the last, could
+" be developed." Thus if it was desired to add the god Amen of
+the Theban triad to the jjaut of Heliopolis, he could be set at the
+head of it either in the place of Temu, the legitimate chief of the
+pant, or side by side with him. Mut, the consort of Amen, might
+be included in the paut, but Amen and Mut would together only
+count as one god. Similarly, any one or all of the gods who
+belonged to the shrine of Amen could be included with that god
+himself in the p)OAit of Heliopolis, and yet the number of that paut
+was supposed to be increased only by one. In other words, the
+admission of one god into a paut brought Avith it the admission of
+all the gods who were in any way connected with him, but their
+names were never included among those of the original members
+of it. This explanation is very good as far as it goes, but it must
+not be taken as a proof that the Egyptians argued in this manner,
+or that they argued at all about it.
+
+1 La Myihologie ^gypticnne, p. 245.
+
+
+SUBSTANCE OF THE GODS 89
+
+];)aut neteru, must be translated not " N^eunheit," as Brugsch
+rendered tliem,^ but the " stuff of the nine gods," i.e., the substance
+or matter out of which the nine gods were made. Tlie word paut,
+
+
+formed part of the offerings made to the dead ; similarly paut is
+the name given to the plastic substance out of which the earth and
+the gods were formed, and later, when applied to divine beings or
+things, it means the aggregation or entirety of such beings or
+things. Thus in the PajDyrus of Ani (sheet i., line 6) the god
+Tatunen is declared to be " one, the maker of mankind, and of the
+" material of the gods of the South and the North, the West and
+"the East."^ But there was a primeval matter out of which
+heaven was made, and also a [primeval] matter out of which the
+earth was made, and hence Khepera, the great creator of all
+things, is said in Chapter xvii. (line 116) of the Book of the Dead to
+possess a body^ which is formed of both classes of matter (pant).
+And again in Chapter Ixxxv. (line 8) the deceased, wishing to
+identify himself with this divine substance, says, " I am the eldest
+" son of the divine pautti, that is to say, the soul of the souls of the
+" gods of everlasting, and my body is everlasting, and my creations are
+" eternal, and I am the lord of years, and the prince of everlasting-
+" ness." In the words which are put into the mouth of Khepera,
+who is made to describe his creation of the world, the god says,
+'' I produced myself from the [primeval] matter [which] I made,"
+
+1 " Der kosmogonisclie Lehre von der Ogdoas, deren aelteste Spuren sich bis
+" zu den Pyramidentexten verfolgen lassen, scUoss sick die Doctrin ' der Neunheit '
+
+
+" (Enneas) oder der ] an. Sie umfasste die genetiscbe Entstehiing der neun
+
+" Theile und Kriifte, welche die zukiinftige Wohnung der den Leib Gottes bildeten,
+" dessen Seele davon Besitz nabm, um alles niit ihr zu erfullen." Aegyptologie,
+
+
+ir S^ _ii v^-B^Jr ^j 1 ^ Mix
+
+
+90 THREE COMPANIES OF THE GODS
+
+
+iDg which can be extracted from the Egyptian words, and the
+context, which the reader will find given in the section on the
+Creation, proves that it is the correct one. The word " primeval,"
+which is added in brackets, is suggested by the texts wherein
+pautti is accompanied by ^ ^e^;, i.e., "first," in point of time,
+the earliest matter which was created, and the matter which
+existed before anything else. From the above facts it is clear
+that the meaning " Neunheit " must not be given to the Egyptian
+word ipaui.
+
+We have now seen that, so far back as the Vth Dynasty, the
+priests of Heliopolis conceived the existence of three companies of
+gods ; the first two they distinguished by the appellations " Great "
+and " Little," but to the third they gave no name. The gods of the
+first or " Great " company are well known, and their names are : —
+
+1 . Tem, the form of the Sun-god which was worshipped at Heliopolis.
+
+2. Shu. 3. Tefnut. 4. Seb. 5. Nut. 6. Osiris. 7. Isis. 8. Set.
+9. Nephthys. Sometimes this company is formed by the addition
+of Horus and the omission of Tem. The names of gods of the second
+or " Little " company appear to be given in the text of Unas,
+line 253 fi"., where we have enumerated : — 1. Rat. 2. Am-Annu.
+
+3. Am-Antchet. 4. Am-Het-Serqet-ka-hetepet. 5. Am-Neter-liet.
+6. Am-Hetch-paar. 7. Am-Sali. 8. Am-Tep. 9. Am-Het-ur-
+Ra. 10. Am-TJnnu-resu. 11. Am-Unnu-meht. It must, however, be noted that whereas in the text the address to the Great
+company of the gods as a whole follows the separate addresses to
+each, the address to the Little company precedes the separate
+addresses to each ; still there is no reason for doubting that the
+second group of names given above are really those of the Little
+company of the gods. The names of the gods of the third company
+are unknown, and the texts are silent as to the functions which the
+company was supposed to perform ; the Great and Little companies
+of the gods are frequently referred to in texts of all periods, but
+
+1 See Archaeologia, vol. Hi., p. 557.
+
+2 See my Chajiters of Coming Forth by Day, Text, p. 348, 1. 15.
+
+
+THREE COMPANIES OF THE GODS 91
+
+the third company is rarely mentioned. Thus in the text of
+Pepi I. (Hne 43), the king is said to sit on an iron throne and to
+weigh words at the head of the Great company of gods in Annu ; the
+two companies of the gods lift up the head of Pepi (line 97), and he
+takes the crown in the presence of the Great company (line 117) ;
+he sits at the head of the two companies (line 167), and in their boat
+(line 169) ; and he stands between the two companies (line 186).
+It has already been suggested ^ that the Great company of gods was
+a macrocosm of a primitive kind, and the Little company a microcosm ; this view is very probably correct, and is supported by
+passages like the following : — " The son of his father is come with
+" the company of the gods of heaven, . . . the son of his father is
+" come with the company of the gods of earth."
+
+fl^fll^lZ^ 111111111 tlT-'
+
+From numerous passages in texts of all periods it is clear
+that the Egyptians believed that heaven was in many respects a
+duplicate of earth, and, as it was supposed to contain a celestial
+Nile, and sacred cities which were counterparts of those on the
+earth and which were called by similar names, it is only reasonable
+to assign to it a company of gods who were the counterparts of
+those on earth. And as there were gods of heaven and gods of
+earth, so also were there gods of the Tuat, or Underworld, who
+
+
+en tuat, "I^T 3 i /wwvv ® . This being so, we may assume that
+when the writers of the Pyramid Texts mentioned three companies
+of the gods, 111111111111111111111111111, they referred
+to the company of the gods of heaven, the company of
+the gods of earth, and the company of the gods of the Underworld, meaning thereby what the writer of the XXIIIrd
+Chapter of the Booh of the Bead meant when he spoke of "the
+
+^ Maspero, La Mythologie Mgyptienne, p. 244.
+3 Pepi I., 11. 298-300.
+
+
+92 THREE COMPANIES OF THE GODS
+
+the Pyramid Texts, however, and in the later Recensions of the
+Book of the Dead which are based upon them, the pautti neteru,
+
+
+present the Great and Little companies of the gods, and these only ;
+the members of each company varied in different cities and in
+different periods, but the principle of such variation is comparatively simple. Long before the priests of Heliopolis grouped
+the gods of Egypt into companies certain very ancient cities had
+their own special gods whom they probably inherited from their
+predecessors, i.e., the predynastic Egyptians. Thus the goddess
+of Sai's was Nit, or Net, or Neith ; the goddess of Per-Uatchet was
+Uatchet ; the goddess of Dendera was Hathor ; the goddess of
+Nekheb was Nekhebet ; the god of Edfii was Horus ; the god of
+Heliopolis was Tem ; and so on. When the priests of these and
+other cities found that, for some reason, they were obliged to
+accept the theological system formulated by the priests of Heliopolis and its Great company of gods, they did so readily enough,
+but they always made the great local god or goddess the head or
+
+chief, p W , of the company.
+
+At Heliopolis, where the chief local god was called Tem, the
+priests joined their god to Ra, and addressed many of their prayers
+and hymns to Tem-Ra or Rii-Tem. At Edfu the great local god
+Horus of Behutet was either made to take the place of Tem, or was
+added to the Heliopolitan company in one form or another. The
+same thing happened in the case of goddesses like Neith, Uatchet,
+Nekhebet, Hathor, etc. It was found to be hopeless to attempt to
+substitute the Heliopolitan company of gods for Neith in the city
+of Sais, because there the worship of that goddess was extremely
+ancient and was very important. The fact that her name forms a
+component part of royal names very early in the 1st Dynasty proves
+that her worship dates from the first half of the archaic period, and
+that it is much older than the theological system of Heliopolis.
+But when the priests of Sa'is adopted that system they associated
+her with the head of the company of the gods, and gave her
+
+
+THE COMPANIES OF THE GODS 93
+
+suitable titles and ascribed to her proper attributes, in accordance
+with her sex, which would make her a feminine counterpart to the
+god Tern. The god Tern was the Father-god, and the lord of
+heaven, and the begetter of the gods, therefore Neith became " the
+" great lady, the mother-goddess, the lady of heaven, and queen of
+
+'' the gods," ^ 1 ^ ^ ^=^ I ^ ^"j"]- Elsewhere^ she is called
+
+"mother of the gods," and just as Tem was declared to have been
+self-produced, so we find the same attribute ascribed to Neith, and
+she is said to be "the great lady, who gave birth to Ra, who
+" brought forth in primeval time herself, never having been
+
+
+same thing happened at the cities of Per-Uatchet in the Delta and
+Nekhebet in Upper Egypt, for at one place Uatchet, the ancient
+and local goddess, became the head of the company of gods,
+and the goddess Nekhebet at the other. It is interesting to note
+that the priests of Heliopolis themselves included Uatchet in their
+Great company of the gods, as we may see from the text of
+Pepi 11.,^ where we find that the deceased king prays concerning
+the welfare of his pyramid " to the great j;(X?i!^ of gods in Annu,"
+i.e., Tem, Shu, Tefnut, Seb, Nut, Osiris, Set, Nephthys, Khent-
+Maati, and Uatchet.
+
+The goddess Hathor at Dendera was treated by the priests
+there as was Neith at Sa'is, for every conceivable attribute was
+ascribed to her, and her devotees declared that she was the mother
+of the gods, and the creator of the heavens and the earth, and of
+everything which is in them. In fact, both Neith and Hathor
+were made to assume all the powers of the god Tem, and indeed of
+every solar god.
+
+The general evidence derived from a study of texts of all
+periods shows that the chief local gods of many cities never lost
+their exalted positions in the minds of the inhabitants, who clung
+to their belief in them with a consistency and conservatism which
+are truly Egyptian. In fact, the god of a nome, or the god of the
+
+1 D. Mallet, Le Culte de Neit a Sais, Paris, 1888, p. 47.
+3 Ibid., p. 146. 3 See 11. 669 S.
+
+
+94 LOCAL GODS
+
+capital city of a nome, when once firmly established, seems to have
+maintained his influence in all periods of Egyptian history, and
+though his shrine may have fallen into oblivion as the result of
+wars or invasions, and his worship have been suspended from time
+to time, the people of his city always took the earliest opportunity
+of rebuilding his sanctuary and establishing his priests as soon as
+prosperity returned to the country.
+
+
+CHAPTER III
+PRIMITIVE GODS AND NOME-GODS
+
+DURING- the predynastic period in Egypt every village and
+town or settlement possessed its god, whose worship and
+the glory of whose shrine increased or declined according to the
+increase or decrease of the prosperity of the community in which
+he lived. When the country was divided into sections which the
+
+Egyptians called hespu, fi 1 n ^ |^ , or " nomes," a certain god, or
+
+group of allied gods, became the representative, or representatives,
+of each nome, and so obtained the pre-eminence over all the other
+gods of the nome ; and sometimes one god would represent two
+nomes. In this way the whole country of Egypt, from the Mediterranean Sea to Elephantine, was divided among the gods, and it
+became customary in each nome to regard the god of that nome as
+the " Great God," or " God," and to endow him with all the powers
+and attributes possible. We have, unfortunately, no means of
+knowing when the country was first split up into nomes, but the
+division must have taken place at a very early period, and the gods
+who were chosen to represent the nomes were undoubtedly those
+who had been worshipped in the large towns or settlements during
+the predynastic period. Thus in the earliest dynastic times of
+which we have inscriptions of any length we find that Neith was the
+chief deity of Sais, Osiris of Busiris, Thoth of Hermopolis, Uatchet
+of Per-Uatchet, Ptah of Memphis, Sebek of Crocodilopolis, Amen of
+Thebes, Nekhebet of Nekheb, and Khnemu of Elephantine. The
+number of the nomes seems to have been different in different
+periods, so it is not possible to say with certainty how many the
+early nome-gods were in number. The Egyptian lists give the
+number of nomes as forty-two or forty-four, but the classical writers,
+
+
+96 NOME-GODS
+
+Strabo, Diodorus, and Pliny, do not agree in their statements on
+the subject. Strabo says ^ that the Labyrinth contained twentyseven chambers, and if each one represented a nome the nomes
+must have been twenty-seven in number, i.e., ten in Upper Egypt,
+ten in Lower Egypt, and seven in the Heptanomis. On the other
+hand, Herodotus says ^ that the Labyrinth contained twelve halls.
+Pliny (Bk. v., chap. 9) enumerates the nomes as follows: —
+Ombites, Apollopolites, Hermonthites, Thinites, Phaturites, CoptiteSjTentyrites, Diopolites, Antaeopolites, Aphroditopolites, Lycopo-
+lites, Pharbaethites, Bubastites, Sethroites, Tanites, the Arabian
+nome, the Hammonian nome, Oxyrynchites, Leontopolites, Athribites, Cynopolites, Hermopolites, Xoites, Mendesium, Sebennytes,
+Cabasites, Latopolites, Heliopolites, Prosopites, Panopolites, Busirites, Onuphites, Saites, Ptenethu, Phthemphu, Naucratites, Mete-
+lites, Grynaeopolites, Menelaites, Maraeotis, Heracleopolites, Arsinoites, Memphites, and the two nomes of Oasites. Diodorus Siculus
+(i. 54) gives the number of the nomes as thirty-six ; ^ Herodotus
+(ii. 164) tells us that the country of Egypt was divided into
+districts ^ or nomes, but he does not say how many of them there
+were. These facts serve to show that the number of nomes when
+the country was first divided was smaller than in later times, and
+we may assume that it was the nomes of the Delta which increased
+in number rather than those of Upper Egypt. The following is a
+list of the nomes of Egypt according to inscriptions at EdfCi and
+elsewhere, together with their capitals and the gods who were
+worshipped in them : —
+
+UPPER EGYPT.
+Nome. Capital. God.
+
+L Ta-khent ^ Abu ? O J c=£^ Khnemu Q % J
+
+(Elephantine)
+
+2. Thes- J^® Teb ^ J© Heru-Behutet
+
+
+mp (ApollinopolisMagna)
+1 xvii. 1. § 37. 2 ii. § 148.
+
+^ Kara -yap 8r; voyuovs AlyvTTTOs airaaa SiapaLprjTai.
+
+
+Nome.
+
+
+NOME-GODS
+
+Capital.
+
+
+God.
+
+
+3. Ten
+
+
+M
+
+
+Nekheb:].0j; Nekhebet:|.oJ;^
+
+(Eileithyia)
+
+
+4. Uast f Uast f " (Thebes) Amen-Ra h
+
+
+-T
+
+
+5. Herui
+
+
+6. Aa-ta
+
+
+nr
+
+
+(Coptos)
+
+
+Amsu, Min or ^oa^
+Khem T
+
+
+Ta-en- =^??= =??^ (=) Het-Heru no -q
+
+
+(Denderah)
+
+
+ittth (Diospolis Parva)
+
+
+Het-Heru Qn^l
+
+
+8. Abt TV
+
+
+AbtufJ'^' An-Heij£^i|
+
+(Abydos)
+Thenit aaaaaa ] ^ (This)
+
+9. Amsu Min J^ Apu (1 D ^ © Amsu, Min or ^
+
+or IvHEM -"^ ^ 1 Ji Khem r
+
+(Panopolis)
+
+
+10a. Uatchet Vp:, Tebut g^gl Het-Heru [
+
+
+(Aphroditopolis)
+
+
+10b. Neteeui JI Tu-qat . T ^ Heru (Horus)
+
+
+(Antaeopolis)
+
+
+11. Set ?
+
+
+Shashetep
+
+
+Khnemu
+
+
+5
+
+
+(Hypsele)
+
+
+Dum.icheii, Geschichte, p. 143.
+
+
+98 NOME-GODS
+
+Nome. Capital. God
+
+12 T„.^ ^ Nut-en- © O -^ K Hem ^
+
+(Antaeopolis)
+Saiut
+
+
+13. Atee- Vji __1^1K QAtk- Ap-uat V-JI
+
+(Lycopolis)
+
+
+?fFFF
+
+15. Un .^. Khemennu ' ' ' ' £ Tehuti (Thoth)
+
+
+(Hermopolis)
+
+16. Meh- j^ Hebenuuno Heru ^
+
+MAHETCH 42^ ' A ^ ^ -He
+
+TOTF (Hipponon)
+
+
+nil) ' ®
+
+(Cynopolis)
+
+18. Sep ^ «^t-^'it«'iQni Jl® '^°P" i □
+
+
+. n. Per-Matchet
+
+
+(Oxyrynchus)
+
+
+20. Atee- i)ff^ Henensu 1 ^= Her-shefi ^ ™|](1^
+
+
+(Herakleopolis Magna)
+
+
+21 A. Atef- 0.=^ Ermen
+
+
+'- V^ r.rmen- (^ ^ Khnemu fj ^
+
+
+(Crocodilopolis)
+
+
+'.Hill
+
+
+(Apliroditopolis)
+
+
+NOME-GODS 99
+
+LOWER EGYPT.
+Nome. Capital. God.
+
+
+1 . Aneb
+
+
+^ (Memphis)
+
+
+(Letopolis)
+
+
+TFfFF
+
+
+5. Sap-meh ^¥ Saut 1^ %. ^ Z ^'^t (Neith) ^
+
+™e (Sais)
+
+6. Kaset '^S Khasut T P % @ Amen-Ra [] ^vw^
+
+(aois)
+
+
+TTTTT neiert ^ w 56 o ^ ©
+
+
+(Succoth)
+Per- cnn n ^ ^
+
+
+Atem 1
+
+(Pitliom)
+
+9. Ati^ Per.Asar^JI;^ Osiris J|
+
+^ (Busiris)
+
+
+). 17 ; and D
+
+
+1868, p. 17 ; and Diimiclien, Kalendariiischriftea, 1186, 106'cZ
+
+
+100 NOME-GODS
+
+Nome. Capital. God.
+
+
+^ (Athribis)
+
+
+^ (Cabasus)
+
+
+^ (Sebennytus)
+
+13. Heq-at Jj_ Annu |l g Ra
+
+
+o
+^ (Heliopolis, On)
+
+
+(Tanis)
+
+
+^ (Hermopolis)
+
+^ Per-ba-neb-Tettn Ba-neb-
+
+
+^ (Mendes) * •" "
+
+
+TT ^ . Pa-khen-en-iVmen
+
+17. Sam- |^ 1^ = fl S Amen-Raft ™
+
+BEHUTET MT Uyh .wwva ^ ^ © 1 O I
+
+^ (Diospolis)
+
+
+19. Am-pehu r-^ Per-Uatcliet'=Y^|^| Uatcliet|^|
+
+^ (Bnto)
+
+20. SeptA^ Qesem _6_ |x^ © Sept^J^I^'
+
+™^ (Goshen ?)
+
+1 The authorities to be consulted on the nomes of Egypt are Brugsch, Diet. Gcog.
+(see the list at the end of vol. iii.) ; Diimichen, Geographic des alt en Aegyptens (in
+Meyer, GescUclite des alien Aegyptens), Berlin, 1887 ; and J. de Rouge, Gtograpliie
+Ancienne de la Basse-lSgypte, Paris, 1891.
+
+
+NOME-GODS
+
+
+Thus every nome of Egypt possessed a representative god
+whose temple was situated in the capital city of the nome, and
+attached to the service of each nome-god was a body of priests who
+divided among themselves the various duties connected with the
+service of the gods, the maintenance of the buildings of the temple,
+the multiplying of copies of religious works, and the religious
+education of the community. In Upper Egypt, where the care of
+the dead seems to have been the principal duty of the living, the
+lower orders of the priesthood probably carried on a lucrative
+business in mummifying the dead, and in funeral papyri and
+amulets, and in conducting funerals. The high-priest of each
+great city, and sometimes even the high-priestess, bore a special
+title. In Thebes the high-priest was called " first servant of the
+" god Ra in Thebes "; Mn Heliopolis the title of the high-priest was
+"Great one of visions of Ra-Atem" ;^ in Memphis, "Great chief
+" of the hammer in the temple of him of the Southern Wall, and
+'' Setem of the god of the Beautiful Face (i.e., Ptah) " ; ^ in Sais,
+" governor of the double temple " ; ^ and similarly the high-priestess
+of Memphis bore the title of " Nefer-tutu " ; ^ in Sekhem the title
+of the high-priestess was " Divine mother";^ in Sai's, " Urt," i.e.,
+"great one";'' in Mendes, " Utcha-ba-f " ; ^ and so on. The
+priests of every great god were divided into classes, among
+which may be mentioned " those who ministered at certain hours,"
+
+-^W ™ ^ ; " the servants of the gods," "] f ^ j ; the " holy
+
+
+accounts of the temple were kept by the "scribe of the temple,"
+
+
+'Of
+
+
+1
+
+
+102 NOME-GODS
+
+
+1
+
+
+, and, in large temples, one or more scribes kept a
+
+register of gifts to the temple and of the property of the god.^
+It is impossible to say how many priests of all classes ministered to
+any given nome-god ; it seems that the highest permanent priestly
+officials were at all times and in all cities very few in number, and
+that the " servants of the god " were very many. The priests of
+each nome-god were subject to no external authority, and the highpriest of a great nome possessed a power which was hardly inferior
+to that of the nomarch himself.
+
+The worship of each nome-god contained elements peculiar to
+itself, and the beliefs which centred in him represented all the
+ancient and indigenous views of the inhabitants of the nome, and
+these were carefully observed and cultivated from the earliest to
+the latest times. We may see from the list of nome-gods given
+above that many nomes worshipped the same god, e.g., Horus was
+worshipped in three nomes of UpjDer Egypt and two nomes of
+Lower Egypt, whilst one nome worshipped him under the special
+form of Horus of Behutet; three nomes of Upper Egypt worshipped
+Khnemu, two worshipped Amsu (or Min or Khem ?), two worshipped
+An]Du, and Hathor was worshipped in five nomes in Upper Egypt
+and one in Lower Egypt. The cults of the ram-headed god Khnemu
+at Elephantine, of the vulture goddess Nekhebet at Eileithyia, of the
+crocodile god Sebek in the district of Ta-she (Fayyum), of the dogheaded god Anpu at Cynopolis and Alabastronpolis, of the ibis-god
+Thotli at Hermopolis, of Horus the elder (Heru-ur) at Letopolis,
+and of Uatchet at Buto (Per-Uatchet), were extremely ancient, and
+with them are probably to be grouped in point of antiquity the
+cults of the wolf (?) -headed god Ap-uat, the lioness goddess Sekhet,
+the cat-headed goddess Bast, and the god Set. The animal which
+was the type and symbol of this last god has not as yet been
+identified ; it cannot have been the ass as was once thought, and it
+is hardly likely to have been the camel ; at 2Dresent, therefore, we
+can only tentatively assume that it belonged to some class of animal
+which became extinct at a very early period. The cults of the
+various forms of the sky-god Horus, and of the Sun-god, and of the
+
+1 For otlier temj-tle officials see Brugsch, Aegiji)tolo(jie, p. 218.
+
+
+OSIRIS 103
+
+goddess Hathor, are the oldest of all. The goddess Neith, whose
+symbols were two arrows and a shield, appears to have been of
+Libyan origin, but, as has already been shown, the attributes of
+some of the oldest indigenous gods of Egypt were ascribed to her
+in early dynastic times. The origin of the god Osiris is obscure,
+but it is difficult, when all the statements made concerning him in
+the relio;ious texts are taken into consideration, not to think that
+the original seat of his worship was in the Delta. Early in the
+dynastic period his most important shrine was at Abydos, which
+became the centre of his cult and the sacred city to which his
+worshippers flocked for countless generations. In spite of this,
+however, the nome-lists show that the nome-god was An- Her, or
+Anhur, and notwithstanding the special honour in which Osiris
+was held throughout Egypt, i^n-Her was always regarded as the
+official god of the nome Abt and of its capital of the same name.
+
+The Elysian Fields, i.e., the Sekhet-hetepet, were situated
+in the Delta where the country was fertile, and where the
+land was traversed by canals and streams of water running in
+all directions; moreover, the "House of Osiris" jpar excellence
+
+of the god who was worshipped in the form of a ram which
+was said to contain the soul of Osiris, was also in the Delta.
+Everywhere in the texts Osiris is called the " lord of Abydos,"
+and generally this title is followed by another, i.e., " lord of
+Tattu." Now Tattu is the city, and " The Ram, lord of Tattu,"
+
+
+corrupted into " Mendes " by the Greeks, and in this city the great
+local god was worshipped under the form of a ram, which is now
+commonly known as the " Mendesian Ram." The frequent use of
+the title "lord of Tattu" suggests that the worship of Osiris was
+grafted on to or was made to absorb that of the local ram-god, and
+that in consequence Osiris became the lord of the city in his stead.
+It may be urged that Tattu was merely the seat of the shrine of
+the god Osiris in the northern kingdom, just as Abydos was his
+
+1 The words Ba-neb- Tattu usually follow here, therefore the full name of the
+city is, "House of Osiris, the Ram, lord of Tattu."
+
+
+104 AMEN AND ATEN
+
+sanctuary in the southern kingdom, but this explanation of the use
+of the title is insufficient. It may further be urged that, inasmuch
+as the titles " lord of Abydos," " lord of Tattu," occur in connection
+with others which have reference to Osiris in his capacity as
+governor of the Underworld, the Abydos and Tattu here mentioned
+are mythological cities and not cities upon earth. But even if
+this be so it matters little, for we know that the Egyptians fashioned
+their mythological or heavenly cities after the manner of their
+earthly cities, and that their conceptions of things spiritual were
+based upon things material.
+
+Returning for a moment to the adoption of gods, Ave may note
+that from first to last the peoj^le of one nome were generally ready
+to offer hospitality to the gods of another, and also to the gods of
+strangers who had come to settle among them. At times, however,
+a new god, or a new group of gods, was forced upon the inhabitants
+of one or more nomes, and even upon a whole j)rovince, as the result
+of conquest, or by the wish of the king, or by the supremacy of the
+priesthood of a given city. Thus the priesthood of Ra or Ra-Tem
+at Heliopolis succeeded in making their theological system paramount in the country, and the whole of the religious philosophy of
+the Theban Boohs of the Dead is based upon their teaching. Until
+the conquest of the Hyksos by the Theban princes the god Amen
+was a nome-god of no great importance, but when they became
+kings of the south and north, he immediately became the king of
+all the gods of the south and the north, and the titles and powers
+and attributes of the great gods of the country were ascribed to
+him by his priests. As the prince of Thebes Avas greater than any
+and every prince in the other nomes of Egypt, so the Theban nomegod Avas greater than any and every other god of Egypt. The
+extraordinary dislike Avhich Amen-hetep IV. exhibited towards
+this god, and the foolish attempt Avhich he made to substitute for
+his worship that of Aten, or the Disk, furnishes us Avith an example
+of the imposition of a god upon a priesthood and province ; the
+attempt Avas successful for a time over a limited area, but it had no
+chance of permanent success because the fundamental ideas of the
+worship of the god as Amen-hetep interpreted them Avere foreign
+to the religious conceptions of the Egyjotians generally.
+
+
+RA AND AMEN 105
+
+From what lias been said above it will be easy to imagine
+the remarkable spectacle which Egypt must have presented to a
+foreigner who went there and found the country split up into a
+series of nomes, each possessing its great god, who was ministered
+to by a body of priests and servants who were amenable to no general
+authority outside the nome, and who performed his worship when
+and as they jDleased, and who claimed for him powers, and rights,
+and privileges without fear of opposition. The stranger would find
+that each college of priests in each nome asserted that its god
+was the father of all the other gods, and the creator of the heavens
+and the earth, and that, generally speaking, the priests of one
+nome-god and his divine companions were content to allow their
+neighbours in other nomes to declare anything they pleased about
+their nome-gods and their divine companions. As far as can be
+gathered from the religious texts, it seems that the priests of one
+company of gods never attempted to suppress the gods of another
+company if the fortune of war gave them paramount power in the
+nome wherein they were worshipped. Thus when the priests of
+Ra attained to the great power which they enjoyed at Heliopolis
+under the Vth and Vlth Dynasties they did not suppress the local
+god Tem, but they associated their god with him, and produced the
+compound god Ra-Tem. Similarly, at a later period, when Amen, as
+the nome-god of the victorious princes and kings of Thebes, was
+declared to be the greatest of the gods of Egypt, his priests did not
+declare that the other gods of Egypt were not gods and try to
+suppress them, but they asserted that all the powers of the other
+gods were assimilated in him, and that he was in consequence the
+greatest of the gods. In the texts of Unas and the kings who were
+his immediate successors we read of the Great and Little companies
+of the gods, but we also find mention of the company of gods of
+Horus and of the double company of gods of Tem ; ^ the j)riests of
+Heliopolis claimed supremacy among the gods for Ra, but they
+took care to include as far as possible the name of every god and
+goddess to whom worship had been paid in past generations. The
+
+
+Unas, 11. 443, 444.
+
+
+106 GODS OF HELIOPOLIS
+
+same characteristic is observable in the texts of the Theban priesthood, and we find that their god Amen was even introduced into the
+Booh of the Dead where, manifestly, he had little claim to be. The
+hymns in the chapters of that work are addressed either to Ra, in
+one form or another, or to Osiris, but in Chapter clxxi. we find
+the following address :— '' 0 Tem, 0 Shu, 0 Tefnet, 0 Seb, 0 Nut,
+"0 Osiris, 0 Isis, 0 Set, 0 Nephthys, 0 Heru-khuti (Harmachis),
+" 0 Hathor of the Great House, 0 Khepera, 0 Menthu, the lord of
+'' Thebes, 0 Amen, the lord of the thrones of the two lands, 0
+" Great company of the gods, 0 Little company of the gods, 0 gods
+"and goddesses who dwell in Nu, 0 Sebek of the two Meht, 0
+" Sebek in all thy manifold names in thine every j^lace wherein thy
+" Ka (i.e., double) hath delight, 0 gods of the south, 0 gods of the
+" north, 0 ye who are in heaven, 0 ye who are upon the earth,
+" grant ye the garment of purity unto the perfect spirit of iVmen-
+" hetep." ^ The greater number of the gods Avhose names are given
+in the Pyramid Texts are also mentioned in the religious literature,
+especially in the Booh of the Dead of later periods, and if we possessed copies of all the religious works of the New Empire we should
+probably discover that the names of all the gods, Avith perhaps the
+exception of Set, worshipped under the Early Empire were preserved in them. The Egyptians, certainly in dynastic times, rarely
+abandoned a god, and, speaking generally, it is remarkable how
+little the character and attributes of the gods vary in the period
+between the IVth and the XXVIth Dynasties. The obstinate
+conservatism of the Egyptians, which seems to have been inherited
+in an almost unaltered state by their descendants the Copts, induced
+the writers of religious texts to introduce into their works as many
+of the gods as possible, and they were moved to do this as much by
+motives of priestly policy and by self-interest as by feelings of
+reverence for the gods of Egy23t.
+
+In the Pyramid Texts the predominant gods are those of the
+company of Heliopolis, but we nevertheless find that the gods
+of remote towns and cities had duties assigned to them, and that
+one and all of them were supposed to minister to the deceased
+kings in the Underworld. The reason of this is not far to seek.
+
+1 See my Chaj^fers of Coming Forth by Day (Trtinslation), p. 315.
+
+
+SUBDIVISIONS OF HEAVEN 107
+
+The heaven which the Egyptian conceived in his mind closely
+resembled Egypt in respect of its sub-divisions, and its various
+cities and districts were ruled by gods whom it was necessary to
+propitiate, and whose friendship must be gained at any cost. A
+man hoped that in the next life he would be able to wander about
+at will through the length and breadth of heaven, and the only
+way to obtain this privilege was to secure the goodwill of the
+gods of the four quarters of the sky by the recital of prayers of
+various kinds, and by the performance of certain ceremonies,
+which were always of a more or less magical character. To be
+able to pass at pleasure along the eastern Delta of heaven and
+without opposition presupposed the favour of Sept and Temu ;
+and to have power to drink of the waters of the celestial Nile
+presupposed the favour of the god Khnemu, the lord of the Island
+of Elephantine, close to which were situated, according to Egyptian belief, the sources of the Nile. The texts of all periods
+exhibit an almost childish anxiety to prove that every god of
+Egypt is interested in the welfare of the beings in the Underworld
+who were once mortal men, and it was a common belief also in all
+periods that the mere asserting in writing that the gods would
+minister to the deceased would produce the assistance desired. To
+enjoy the power to enter into certain cities in heaven the deceased
+was obliged to know the various gods or " Souls " who were
+worshipped in them. Thus the Souls of the West were Tem, and
+Sebek, the lord of the Mountain of Sunrise, and Hathor, the
+lady of the Evening ; ^ the Souls of the East were Heru-khuti
+(Harmachis), the Calf of the goddess Khera, and the Morning
+Star ; " the Souls of the city of Pe were Horus, Mestha, and
+H api ; "^ the Souls of the city of Nekhen were Horus, Tuamutef,
+and Qebhsennuf ; ^ the Souls of Heliopolis were Ra, Shu, and
+Tefnet ; '" and the Souls of the city of Hermopolis were Thoth,
+Sa, and Tem.*' Similarly every great heavenly city was held to
+contain a company of gods, and the beatified soul was thought
+to enjoy the duty of paying visits to their shrines just as, when
+in the body, it made offerings to their earthly counterparts.
+
+
+* Ibid., Chap, cxiii. ^ Ibid., Chap. cxv. ^ Ibid., Chap. cxvi.
+
+
+108 DEIFICATION OF THE DEAD
+
+In the observations already made concerning the difficulty of
+assigning an exact meaning to the word for God and " god," neter,
+^ |, we have seen that in dynastic times the chief attribute
+which was assigned to a god was the power to renew his life
+indefinitely, and to live for ever, and the text of Unas has shown
+us that in very early times the Egyptian thought he could obtain
+this power by eating his god or gods. Closely connected with this
+belief is another which finds expression in the Pyramid Texts, and
+also in the later Recensions of the Booh of the Dead which are
+based upon them. In many passages scattered throughout the
+religious texts of all periods we find it stated that the deceased
+has acquired the powers of such and such a god, and that as a
+result he has become the counterpart or fellow of several gods, and
+that he takes his place among the company of gods in the proper
+persons of several of their number. A still further development
+of the idea makes every member of the body of the deceased to be,
+first, under the protection of a god, and secondly, to become that
+same member of the god its protector ; hence his whole body
+becomes the "double company of the gods," and the "two great
+" gods watch, each in his place, and they find him in the form of
+" the double company of the gods weighing the words of every
+" chief like a chief, and they bow down before him, and they make
+"offerings to him as to the double company of the gods." ^ Moreover, the deceased is made in the texts to stand up at the head of
+the company of the gods as Seb, the " erpa," or hereditary chief,
+of the gods, and as Osiris, the governor of the divine powers, and
+as Horus, the lord of men and of gods.^ His bones are the gods
+
+
+niiniiiinnnii.
+
+= ^-ininmwiP2inj-qpi^
+^ip^ -^niT p«Fi-.i-i«6.
+
+
+IJEIFICATION OF THE DEAD 109
+
+and goddesses of heaven ; ^ his right side belongs to Horus, and
+his left side to Set; he becomes the actual son of Tern, or Tem-Ra,
+and Shu, Tefnet, Seb, and Nut, and he is the brother of Isis,
+Nephthys, Set, and Thoth, and the father of Horus.^ The god
+Horus taketh his own Eye and giveth it to him,^ and he bestoweth
+upon him his own ha or double,^ and never leaveth him, and
+the Bull of the JSTine ^ maketh wide his dominions among
+the gods.
+
+The oldest copy of the prayer for the deification of the
+members of the body is found in the text of Pepi I. (line 565 ff.),
+and as it is very important from several points of view a version
+of it is here given : — " The head of this Ra-meri is in the form
+of [that of] the hawk ; he cometh forth and raiseth himself up in
+
+heaven. The skull, ■^ v^ @ , of this Pepi is that of the divine
+
+Goose ; he cometh forth and raiseth himself up in heaven. The
+
+
+and raiseth himself up in heaven. The face of this Pepi is the
+
+
+himself up in heaven. The two eyes of Ra-meri are the great
+goddess (Hathor ?) at the head of the Souls of Annu ; he cometh
+forth and raiseth himself up in heaven. The mouth of this Pepi
+
+
+in heaven. The tongue of this Pepi is the steering-pole (?) of the
+boat of Maat ; he cometh forth and raiseth himself up in heaven.
+The teeth of this Pepi are the Souls [of Annu] ; he cometh forth
+and raiseth himself up in heaven. The lips of this Pepi are
+the . . . . ; he cometh forth and raiseth himself up in heaven.
+
+1 See Teta, 1. 209. 3 See Unas {Becueil), torn, iii , pp. 209-211.
+
+
+3
+
+4
+
+
+5
+
+
+DEIFICATION OF THE DEAD
+
+
+The CHIN of this Pepi is Khert-Khent-Sekhem, ^ r|Tj| ^ ^ ; he
+Cometh forth and raiseth himself up in heaven. The backbone of
+raiseth himself up in heaven. The shoulders and arms of this
+Pepi are Set ; he cometh forth and raiseth himself up in heaven.
+forth and raiseth himself up in heaven. The heart of this
+Ra-meri is Bastefc ; he cometh forth and raiseth himself up
+in heaven. The belly of this Ra-meri is Xut ; he cometh
+forth and raiseth himself up in heaven. The [loins of
+this Pepi are] the Great and Little companies of the gods ;
+he cometh forth and raiseth himself up in heaven. The
+BACK of this Pepi is Heqet ; he cometh forth and raiseth
+
+
+the Semket and Mat boats ; ^ he cometh forth and raiseth himself
+up in heaven. The phallus of this Pepi is Hap ; ^ he cometh
+forth and raiseth himself up in heaven. The two thighs^ of
+Ra-meri are Nit and Serqet ; he cometh forth and raiseth himself
+up in heaven. The two legs * of this Ra-meri are the twin soulgods at the head of Sekhet-tcher ; ^ he cometh forth and raiseth
+himself up in heaven. The soles of the two eeet ^ of this Rameri are the double Maati boat ; he cometh forth and raiseth
+himself up in heaven. The heels (?), "^ ^, of this Pepi are the
+Souls of Annu ; he cometh forth and raiseth himself up in
+heaven."
+
+In the XVIIIth Dynasty versions of this interesting text were
+Avritten in papyri containing the TJooJo of the Dead, and of these
+the following exhibit variant readings which appear to indicate
+changes of belief.
+
+
+AAAAAA
+
+
+D
+
+A,WVNA
+
+5
+
+
+minim
+
+
+(i
+
+
+o
+
+
+DEIFICATION OF THE DEAD
+
+
+Fkom the Papyrus of Nu.
+
+(Brit. Mus., No. 10,477, sheet 6.)
+
+" My hair is the hair of Nu.
+" My face is the face of the Disk.
+" My eyes are the eyes of Hathor.
+" My ears are the ears of Ap-uat.
+" My nose is the nose of Khenti-
+
+" khas.
+*'My lips are the lips of Anpu.
+"My teeth are the teeth of
+
+'' Serqet.
+" My neck is the neck of the
+
+" divine goddess Isis.
+" My hands are the hands of
+
+" Ba-neb-Tattu.
+" My fore-arms are the fore-arms
+" of Neith, the Lady of Sai's.
+"My backbone is the backbone
+
+" of Suti.
+" My phallus is the phallus of
+
+" Osiris.
+" My reins are the reins of the
+
+" Lords of Kher-aha.
+" My chest is the chest of Aa-
+
+" sheht.
+" My belly and back are the
+" belly and back of Sekhet.
+" My buttocks are the buttocks
+
+" of the Eye of Horus.
+" My hips and legs are the hips
+
+" and legs of Nut.
+
+" My feet are the feet of Ptali.
+
+" [My fingers] and my leg-bones
+
+" are the fino-ers and leo;-
+
+" bones of the Living Gods.
+
+"There is no member of my
+
+
+From the Papyrus of Ani.
+(Brit. Mus., No. 10,470, sheet 32.)
+
+"The hair of Osiris Ani is the
+
+" hair of JSTu.
+" The face of Osiris Ani is the
+
+" face of Ra.
+" The eyes of Osiris Ani are the
+
+" eyes of Hathor.
+" The ears of Osiris Ani are the
+
+" ears of Ap-uat.
+" The lips of Osiris Ani are the
+
+" lips of Anpu.
+"The teeth of Osiris Ani are the
+
+"teeth of Serqet.
+"The neck of Osiris Ani is the
+
+" neck of Isis.
+" The hands of Osiris Ani are
+" the hands of Ba-neb-Tattu.
+" The shoulder of Osiris Ani is
+
+" the shoulder of Uatchet.
+" The throat of Osiris Ani is the
+
+" throat of Mert.
+" The fore-arms of Osiris Ani
+" are the fore-arms of the
+" Lady of Sais.
+"The backbone of Osiris Ani is
+
+" the backbone of Set.
+" The chest of Osiris Ani is the
+" chest of the Lords of
+" Kher-Aha.
+" The flesh of Osiris Ani is the
+
+" flesh of Aa-shefit.
+"The reins and back of Osiris
+" Ani are the reins and
+" back of Sekhet.
+" The buttocks of Osiris Ani are
+
+
+DEIFICATION OF THE DEAD
+
+
+body which is not the
+member of a god. The
+god Thoth shieldeth my
+body wholly, and I am
+Ra day by day." ^
+
+
+"the buttocks of the Eye
+
+" of Horus.
+"The phallus of Osiris Ani is
+
+" the phallus of Osiris.
+" The legs of Osiris Ani are the
+
+" legs of Nut.
+" The feet of Osiris Ani are the
+
+" feet of Ptah.
+"The fino:ers of Osiris Ani are
+
+" the fingers of Orion.
+" The leg-bones of Osiris Ani
+
+" are the leg-bones of the
+
+" Living Uraei."
+
+The text which follows that describing the deification of the
+members in the inscription of Pepi I.^ is perhaps of even greater
+interest, for it declares that : —
+
+" This Pepi is god, the son of god ; he cometh forth and raiseth
+" himself up to heaven. This Ra-meri is the son of Ra, who loveth
+"him ; he cometh forth and raiseth himself up to heaven. Ra hath
+" sent forth this Ra-meri, who cometh forth and raiseth himself up
+" to heaven. Ra hath conceived this Pepi, who cometh forth and
+" raiseth himself up to heaven. Ra hath given birth to this Pepi,
+" who cometh forth and raiseth himself up to heaven. This [is] the
+" word of power which is in the body of Ra-meri, and he cometh
+"forth and raiseth himself up to heaven. This Ra-meri is the
+" Great Power among the great company of sovereign chiefs who
+" are in Annu, and he cometh forth and raiseth himself up to
+"heaven."
+
+In the previous pages it has been shown that the Great
+company of the Gods of Heliopolis contained nine or more gods,
+and that whenever these Avere adopted by other cities and towns
+the attributes of tlie chief of the Heliopolitan gods were transferred
+to the local nome-god, and the identities of both gods were merged
+in each other. It will, however, be evident at a glance that there
+
+
+^ See my CJiaj)ter$ of Coming Forth hi/ Daij (Translation), p. 94.
+2 Line 574,
+
+
+THE GODS OF HERMOPOLIS 113
+
+were very few localities which could afford to maintain in a proper
+state the worship of nine or more great gods in addition to that of
+the nome-god, and as a matter of fact we find that very few even
+of the great towns and cities adopted all the gods of the companies
+of Heliopolis, and that very few possessed companies of gods which
+contained as many members as nine. The city of Khemennu
+(Hermopolis) was famous as the sanctuary of the company of Eight
+
+Gods, indeed the name "Khemennu," 5, means ''the city of the
+
+Eight Gods." The names of these gods Avere : — 1. Nu,
+
+
+AAAAAA
+
+
+5. Kekdi, ^W^-T"^- 6. Kekuit, ^W^-j^'^. 7.
+
+leader Tehuti, or Thoth, they formed one of the oldest of the
+companies of gods in all Egypt. The names of the members of the
+pant, or company, of Hermopolis as here given are taken from the
+texts inscribed on the walls of the temple which Darius 11. built at
+Hebet in the Oasis of Kharga/ and which is a comparatively late
+building, but there is reason for believing that they are copied from
+very ancient documents, and that taken together this group of gods
+represents the oldest form of the Hermopolitan jj«2iL In some lists of
+the gods Amen and Ament are made to take the places of Nu and
+Nut, and those of Kereh and Kerehet are filled by Nenu and ISTenut;
+in others Amen and Anient are substituted for Kereh and Kerehet.^
+or city were three in number, and they were formed by the local
+deity and two gods who were associated with him, and who shared
+with him, but in a very much less degree, the honour and
+reverence which were paid to him. Speaking generally, two
+members of such a triad were gods, one old and one young, and
+the third was a goddess, who Avas, naturally, the wife, or female
+counterpart, of the older god. The younger god was the son of
+the older god and goddess, and he was supposed to possess all the
+
+1 See Brngsch, Beise nach der grossen Oase el-Khargeh, Leipzig, 1878, pi. 14.
+
+2 For the lists of the ])ciiit of Thoth at Edfii, Dendera, Karnak, Philae, etc.,
+see Bragsch, Beligionimd Mythologie, p. 127.
+
+I
+
+
+114 THE CONCEPTION OF THE TRIAD
+
+attributes and powers which belonged to his father. The head of
+the triad was sometimes Ra, and sometimes a god of comparatively limited reputation, to whom were ascribed the power and
+might of the great Sun-god, which his devotees assumed that he
+had absorbed. The feminine counterpart or wife of the chief god
+was usually a local goddess of little or no importance ; on the other
+hand, her son by the chief god was nearly as important as his father,
+because it was assumed that he would succeed to his rank and
+throne when the older god had passed away. The conception of
+the triad or trinity is, in Egypt, probably as old as the belief in
+the gods, and it seems to be based upon the anthropomorphic
+views which were current in the earliest times about them. The
+Egyptian provided the god with a wife, just as he took care to
+provide himself with one, in order that he might have a son to
+succeed him, and he assumed that the god would have as issue a
+son, even as he himself wished and expected to have a son. In
+later times, the group of nine gods took the place of the triad,
+but we are not justified in assuming that the ennead was a simple
+development of the triad. The triad contains two gods and one
+goddess, but the ennead contains five gods and four goddesses,
+being made up of four pairs of deities, and one supreme god. The
+ennead is, however, often regarded as a triad of triads, and the
+
+three enneads of Heliopolis, 111111111111111111111111111 ,
+as a triad of a triad of triads. The conception of the ennead is
+probably very much later than that of the triad.^ Examples
+^ c^ I (|(| ^ |l, and Heru-pa-khart ^ D ^ ^ ^; a* Tcheqa,
+Sebek [l J ^, Isis jj ^ ^, and Amen (] " ^; at Memphis, Ptali
+
+
+^ An exactly opposite view is taken by M. Maspero (La Mythologie :Egy])tienne,
+
+
+POLYTHEISM AND MONOTHEISM 115
+
+shipped in several places in Egypt. The members of many triads
+in Egypt varied at different times and in different places, but
+variations were caused chiefly by assimilating local gods and
+goddesses with the well-known members of the companies of the
+gods of Heliopolis.
+
+The facts recorded in the preceding pages show that the great
+gods of the dynastic period in Egypt were selected from a large
+number of local gods, who were in turn chosen from among the
+representatives of the gods of the desert, and mountain, and earth,
+and water, and air, and sky, who had been worshipped in
+predynastic times. Thus in the great company of the gods of
+god of Sebennytus ; Osiris, the local god both of Busiris and
+Mendes ; Isis, a form of the still more ancient goddess " Uatchit,
+of a district in the fifteenth nome of Lower Egypt ; etc. The gods
+of the later jDredynastic period were, of course, developed out of
+the multitude of spirits, good and bad, in whom the most primitive
+Egyptians believed, and it is clear that in general characteristics
+the gods of the dynastic period were identical with those of the
+predynastic period, and that the Egyptians rarely abandoned any
+god whose priests in the earliest times had succeeded in establishing
+for him a recognized position. The form of the worship of the
+gods must have changed greatly, but this was due rather to the
+increase in the general prosperity of the country than to any
+fundamental change in the views and beliefs of the Egyptians as to
+their gods ; the houses of the gods, or temples, became larger and
+larger and more magnificent as increased wealth flowed into the
+country as the result of foreign conquest, but the gods remained
+the same, and the processions and ceremonies, though more magnificent under the New Empire, preserved the essentials of the
+early period. But if we examine the religious texts carefully it
+will be seen that the Egyptians were always trying to reduce the
+number of their gods, or, in other words, were always advancing
+from polytheism to monotheism. The priesthood and the educated
+classes must have held religious views which were not absolutely
+identical with those of the peasant who cultivated the fields, but
+
+
+116 ABSORPTION OF ANCIENT GODS
+
+such, I believe, were concerned chiefly with the popular forms of
+worship of the gods and with conceptions as to their nature. The
+uneducated people of the country clung with great tenacity to the
+ordinary methods of celebrating their worship, principally because
+the frequent festivals and the imposing ceremonies, which formed a
+large and imjDortant part of it, were regarded as essential for their
+general well-being ; the priests and the educated, on the other
+hand, clung to them because their influence was not sufficiently
+powerful to establish a j^ojiular form of religion and worship which
+would be consistent with their own private views.
+
+Every change which can be traced in the religion of the
+country proves that the priesthoods of the various great religious
+centres absorbed into the new systems whenever possible the
+ancient gods and the ancient beliefs in them ; hence during the
+period of the highest culture in Egyj^t we find ideas of the grossest
+kind jostling ideas which were the product of great intellectuality
+and much thinking. Expressions which are the result of a series
+of beliefs in tree gods, desert gods, water gods, earth gods, and gods
+with human passions, abound, and it is these which have drawn down
+upon the Egyptians the contempt of the Hebrews, the Greeks, and
+the Romans, and even of modern skilled investigators of Egyptian
+religion and mythology. It has not been sufiiciently realized that
+the polytheism of the Egyptians had aspects which Avere peculiar
+to itself, and the same may be said of one jDhase of the beliefs
+of this people which appears to be, and which, the Avriter thinks,
+undoubtedly is, monotheistic. When the j^i'iests of Heliopolis
+formulated their system of theogony they asserted that the god
+Tem produced the two gods that issued from himself, i.e., Shu and
+Tefnut, by masturbation,^ and there is little doubt that in making
+this declaration they were repeating what the half savage and
+primitive Egyptians may really have believed; but it would be
+
+
+1
+
+
+NOTION OF DIVINE UNITY 117
+
+utterly wrong to declare that the priests themselves believed these
+things, or that such a statement represented the views of any
+educated person in Egypt on the subject of the origin of the gods.
+In Chapter xvii. of the Booh of the Deacl'^ is an allusion to the
+fight which took place between Horus and Set, but no Egyptian
+who accepted the refined beliefs which are found even in the same
+chapter could have regarded this allusion as anything more than
+the record of an act of savagery which had crept into religious
+texts at a time when acts of the kind were common.
+
+The same might be said of dozens of expressions and allusions
+which are scattered throughout the texts of all periods, and no
+just investigator will judge the Egyptians, and their religion,
+and their beliefs by the phases of thought and expressions which
+reflect the manners and customs and ideas of the primitive dwellers
+in the Valley of the Nile. But yet it is precisely by such things that
+the Egyi^tian religion is judged by many modern writers. The
+eminent Egyptologist, M. Maspero, says that before he began to
+decipher Egyptian texts for himself, and so long as he was content
+to reproduce the teaching of the great masters of the science of
+Egyptology, he believed that the Egyptians had in the earliest
+times arrived at the notion of divine unity, and that they had
+fashioned an entire system of religion and of symbolic mythology
+with an incomparable surety of hand. When, however, he began
+to study the religious texts he found that they did not breathe out
+the profound wisdom Avhich others had found. ^' Certainly," he
+says, "no one will accuse me of wishing to belittle the Egyptians ;
+" the more I familiarize myself with them, the more I am persuaded
+" that they were one of the great nations of the human race, and
+" one of the most original and most creative, but at the same
+" time that they always remained half savage." ^ In other words,
+
+
+X
+
+
+" •' J'ai era, au debout de ma carriere, il y a bientot viugt-cinq ans de cela, et
+" j'ai soutenii pendant longtemps, comme M. Brugsch, que les Egyptians etaient
+" parvenus, des lear enfance, a la notion de I'unite divine et qu'ils en avaient tire
+" un systems entier de religion et de mytbologie symbolique, agence d'un bout a
+
+
+118 NOTION OF DIVINE UNITY
+
+the Egyptians, according to M. Maspero, never attained to the idea
+of the unity of God, and Avere at the best of times nothing but a
+half savage nation. It is easy to bring a charge of being half
+savafje ao;ainst a ffreat nation, but in this case the charo-e is illfounded, and is, in the writer's opinion, contradicted by every
+discovery which is made in Egypt ; for the more we learn of the
+ancient Egyptians the more complete and far-reaching we find
+their civilization to have been. The evidence of the monuments of
+the Egyptians will, however, be sufficient to exhibit the character
+of this civilization in its true light, and, as the expression " half
+savage " is at best very vague, and must vary in meaning according
+to the standpoint of him who uses it, we pass on to consider the
+question whether the Egyptians attained to a conception of the
+unity of God or whether they did not.
+
+.We have seen that M. Maspero believes that they did not, but
+on the other hand some of the greatest Egytologists that have
+ever lived thought that they did. He thinks that the Egyptians
+possessed the greater number of their myths in common with the
+most savage of the tribes of the Old and New Worlds, that their
+practices preserved the stamp of primitive barbarism, that their
+religion exhibits the same mixture of grossness and refinement
+which is found in their arts and crafts, that it Avas cast in a mould
+by barbarians, and that from them it received an impression so
+deep that a hundred generations have not been able to eftace it,
+nor even to smooth its roughnesses or to soften its outlines.^ No
+
+" I'autre avec une siirete de main incomparable. C'ctait le temps ou je n'avais pas
+" essaye par moi-meme le dcchiffrement des textes religieux et ou je me bornais
+" Ji reproduire I'enseignement de nos grands maitres. Quand j'ai ete contraint
+
+
+" cefcte sagesse profonde que d'autres y avaient sentie. Certes on ne m'accusera pas
+" de vouloir deprecier les Egyptiens : plus je me familiarise avec eux, et plus je me
+" persuade qu'ils ont etc un des grands peuples de I'humanite, I'un des plus originaux
+" et des plus croateurs, mais aussi qu'ils sont toujours demeures des demi-barbares."
+L(i MytholcKjie, p. 277.
+
+1 " En art, en science, en industrie, ils ont beaucoup invente, beaucoup
+" produit, beaucoup promis surtout ; leur religion presente le meme melange de
+" grossicrete et de raffincment qu'on retrouve dans tout le reste. La plupart de
+" ses mythes lui sont communs avec les tribus les plus sauvages de I'Aucien et du
+" Nouveau-Monde ; ses pratiques gardent le cachet de la barbarie primitive, et je
+"crois que les sacrifices humains n'en avaient pas diaparu dans certaines circon-
+
+
+EGYPTIAN MONOTHEISM 119
+
+one will attempt to deny that traces of half savage ideas and
+customs are to be found in Egyptian religious literature, but the
+real question is whether such traces render it impossible for the
+Egyptians ever to have attained to the concejDtion of monotheism,
+whether the existence of such half savage ideas and customs is
+incompatible with it or not. Every one who is familiar with the
+literatures of oriental religions knows that the sublime and the
+ridiculous, spiritual ideas and material views, intellectuality and
+grossness, and belief and superstition, occur frequently in close
+juxtaposition, and illustrations of these statements may be found
+in the writings of the Arabs, and even in certain parts of the
+Hebrew Scriptures. Yet no one will deny that the Arabs as a
+people have been monotheists since the time of Muhammad the
+Prophet, and no one will refuse to admit that the Hebrews, after
+a certain date in their history, became monotheists and have
+remained so. The literatures of both the Hebrews and the Arabs
+are full of extravagances of every kind, but no competent person
+has denied to these nations the right to be called monotheistic, and
+no one in the light of modern research will attempt to judge them
+by the coarsest expressions and materialistic thoughts which are
+found in their Scriptures. On the other hand, no one expects to
+find either in Hebrew or in Arabic literature the lofty spiritual
+and philosophical conceptions which modern highly educated
+thinkers associate with the idea of monotheism, and the same is,
+of course, to be said for the literature of the Egyptians ; but it is
+not difficult to show that the idea of monotheism which existed in
+Egypt at a very early period is at least of the same character
+as that which grew up among both Hebrews and Arabs many
+centuries later.
+
+To prove this statement recourse must be had to a number of
+extracts ^ from religious texts, and among such may be quoted the
+following': — To the dead king Unas it is said, "Thou existest at
+
+" stances, meme sous les grands Pharaons tliebains. Elle a ete jetee au moule
+" par des Barbares, et elle a regu d'eus une empreinte si forte que cent generations
+" n'ont pu, je ne dirai pas I'effacer, mais en amollir les asperites et en adoucir les
+"contours." La Mythologie, p. 277.
+
+^ See tlie group given in my Papyrus of Ant, London, 1895, p. Ixxxiii. ff.
+
+
+120 EGYPTIAN MONOTHEISM
+
+" He weighetli words, and behold, God hearkeneth unto the words,"
+
+king it is said, '' God hath called Teta (in his name, etc.),"
+/wwNA n 1 ^ww^ r^ (j J |; to Pepi I. it is said, "Thou hast received the
+" attribute (or, form) of God, thou hast become great therewith
+I I I ; and " Thy mother Nut hath set thee to be as God to thine
+
+
+j ; and of the same king it is
+
+
+said, "This Pepi is, therefore, God, the son of God," [gi]^] D^
+in these passages by "a god" or "the god," but this would make
+nonsense of the passages in most cases. There is no point in
+telling a dead king that he will live "by the side of a god," or
+that " a god " will listen to his words when he is weighing words,
+i.e., giving judgment upon matters in the next world ; Avhat the
+writer said and what he meant his readers to understand was that
+Unas will live with the God, or God, and that he will have such an
+exalted position there that he will be appointed by God to act as
+judge, an offic^e which belonged to God himself, and that God will
+listen to, i.e., obey his rulings. The above passages are taken from
+texts of the Vth and Vlth Dynasties, but they are only copies of
+older documents, for there are good reasons for thinking that even
+so far back as the time when they Avere made, about B.C. 3300, the
+texts had already been revised two or three times, and changes
+and additions made in them as the result of modified beliefs and
+ideas.
+
+The value of such passages, however, consists in the fact that
+they prove conclusively that so far back as B.C. 3300 some one
+god had become so great in the mind of the Egyptians that
+he stood out from among the "gods," 111 i, and was different
+from the First, Second, and Third companies of the gods,
+
+
+OSIRIS AS GOD 121
+
+immimninninnmi- Anoti... view whic.
+
+may be urged is that the neter, |, here referred to is either the
+
+god Osiris or the god Ra, but even so it must be admitted that
+Osiris or Ra occupied a position in the mind of the Egyptian
+theologian which was far superior to that of any of the " gods."
+On the other hand, it must be pointed out that the Pyramid
+Texts are full of passages in which we are told what great things
+Ra will do for the deceased in the next world, and the honour
+which he will ^Day to him, and we must therefore conclude that
+the God referred to in the passages which we have quoted is not
+Ra, although he may be Osiris. But if we arrive at this conclusion we must admit that ia the relatively remote period about
+B.C. 3300 Osiris was considered to be such a great god, and to
+occupy such an exalted position at the head of the " gods," that
+he could be spoken of and referred to simply as " God." We have
+already seen it implied that Osiris was the judge of those who
+were in the Underworld, and we know from the text of Unas
+(line 494) that he sat on a throne in heaven ; ^ as the king is said
+to have become " god, and the messenger (or, angel) of God " ^
+(line 175), and to " enter into the place which was more holy than
+any other place " ^ (line 178), it is perfectly clear that the God of
+the Pyramid Texts was an entirely different being from the " gods "
+and the " companies of the gods." The deceased is actually called
+" Osiris Pepi," ^ and as he is said to have become an angel of God,
+if Osiris be that God and judge, he must have held a similar
+position to that of the God of the Hebrews, who is said to "judge
+among the gods," ^ and must have been ministered to by "gods'
+
+„ I csz: n J
+
+^ ra^ (^jj (gjj]- Pepi I., 1.60.
+■' Psalm Ixxxii. 1, IDJ3^) WJlbii 21^3..
+
+
+122 CONCEPTION OF GOD
+
+God of the Pyramid Texts was Osiris, the god and judge of the
+dead, but it is clear that the only aspects of the God which are
+referred to are those which he bears as the god and judge of
+the dead. We have, unfortunately, no means of knowing how
+he was described by his earliest worshippers, for the priests
+of Heliopolis, when they absorbed him into their theological
+system, took care to give him only such characteristics as suited
+their own views ; they have, however, shown us that he was
+the judge of the dead, and that he occuj^ied a unique position
+among the gods, and enjoyed some of the powers possessed by
+the God of the nations which are on all hands admitted to be
+monotheistic.
+
+But Ave may obtain further information about the conception
+of God among the Egyptians by an examination of certain passages
+in the famous Precepts of Kaqemna and the Precepts of Ptahhetep. The first of these works was composed ia the reign of
+Seneferu, a king of the IVth Dynasty, and the second in the reign
+of Assa, a king of the Vth Dynasty, but we only know them from
+the copies contained in the papyrus which was given to the
+Bibliotheque Royale in Paris by E. Prisse d'Avennes in 1847.^
+This document was probably written about the period of the
+XVIIth Dynasty, and may, of course, contain readings and additions reflecting the opinions of the Egyptians on religion and
+morals which were then current ; but the foundations of both
+works belong to an earlier time, though whether that time fell
+under the Xllth Dynasty, as some think, or under the IVth and
+Vth Dynasties as the works themselves declare, matters little for
+our present purpose. In both sets of Precepts we have a series of
+moral aphorisms similar to those with which we are familiar in the
+Book of Wisdom, and Ecclesiasticus, and the Book of Proverbs,
+and they are given as the outcome of the experience of men of the
+world ; neither the work of Kaqemna nor that of Ptah-lietep can
+be said to have been drawn up from a religious point of view,
+and neither author supports his advice by appeals to religious
+
+1 See Facsimile tViin papyrus ^gyptien en airacUres hieraiiques, Paris,
+1847, folio.
+
+
+CONCEPTION OF GOD
+
+
+authority. In these works we find the following admonitions and
+reflections : —
+
+
+an rehlientu Miepert drit neter
+
+" Not [are] known the things which maketh Grod,"
+
+i.e., the things which will come to pass by God's agency cannot be
+known, that is to say, God's ways are inscrutable.
+
+
+I I I
+
+
+1
+
+
+du dm tail Jcher sehher neter
+
+The eating of bread is according to the plan of God,
+
+i.e., a man's food comes to him through the providence of God.
+
+
+dm - h
+Thou shalt not
+
+
+dri her
+put terror
+
+
+em
+into
+
+
+reth
+men and women
+
+
+Jihesef neter
+
+is opposed [thereto] God.
+
+
+HP
+
+
+ter em selchet td set
+
+labour in the field (which) hath given
+
+
+dr seka - nek
+
+If thou hast land
+for ploughing
+
+
+neter
+God.
+
+
+"•^ . The author of this observation was Kaqemna ; the other ones are by
+Ptah-hetep.
+
+
+CONCEPTION OF GOD
+
+
+A
+
+
+dr un - nek em sa dqer dri - h f^a
+
+If thou wouldst be a man perfect make thou [thy] son
+
+
+eih smam neter
+
+to be pleasing unto God.
+
+
+A
+
+
+sehet&p dqu - h em Ihepert-neh l-Jiejyert
+
+Satisfy thy dependants by thy actions ; it should be done
+
+
+1
+
+
+(5??. //esesu neter
+
+by him that is favoured by God.
+
+
+mertu
+What is loved
+
+
+neter
+of God
+
+
+D
+
+
+is
+
+
+setem
+obedience ;
+
+
+an setem
+disobedience
+
+
+en mestetu
+hateth
+
+
+neter
+God.
+
+
+mdk sa nefer en tat a
+
+Verily a son good [is] of the gifts
+
+
+neter
+of God.
+
+
+And finally from the Prisse Papyrus may be quoted the exhortatation, " If having been of no account, thou hast become great, and
+" if, having been poor, thou hast become rich, when thou art
+
+
+IDEA OF DIVINE PROVIDENCE 125
+
+" governor of the city be not hard-hearted on account of thy
+" advancement, because thou hast [only] become
+
+mer se'ptu neter
+
+" the guardian of the provisions of God."
+
+From this group of extracts we learn that the ways of the god
+referred to in the " Precepts " were inscrutable, that it was he who
+was supposed to give a man children, and property, and food, that
+he was ojDposed to any man tyrannizing over his fellow creatures ;
+that he loved to be obeyed and hated disobedience, i.e., those who
+would not hearken unto him ; that the perfect man was he who
+brought up his son in ways pleasing to God ; that God expected the
+man who had been favoured by him to do good to those who were
+dependent upon him ; and the writer of the " Precepts " urged the
+governor of a city to remember that he was only the guardian of
+goods and provisions which belonged to God. In all these extracts
+it is clear that the allusion is to some great and j)owerful being who
+rules and governs the world and provides according to his will for
+those who are in it. In the second extract we have the words
+
+si'hlier neter, i.e., the seJcher of God. The word sehlier 1 ) , has
+
+many meanings, among them being " thought, plan, intention,
+scheme, design," and the like, and when Ptah-hetep said that " the
+eating of bread is according to the seJcher of God," there is no
+doubt that he intended his readers to understand that a man
+obtained bread, or food, to eat according to the plan or design
+which God had made, or decreed beforehand. A rendering which
+would very well represent the words sehlier neter is " Divine providence ; " but they do not justify the translation " fate " which has
+been proposed for them.
+
+Now we know that both the writers Kaqemna and Ptah-hetep
+lived in the neighbourhood of Memphis, because their tombs are at
+vSakkara, and if they lived at Memphis their great local god would
+be Ptah of the Beautiful Face, or Ptali of the White Wall, whose
+
+
+126 PRECEPTS OF KHENSU-HETEP
+
+feminine counterpart was Sekliet and whose son was I-em-hetep.
+But in the group of extracts just given there is no mention of any
+of these gods, and the God referred to cannot be Osiris, first,
+because the texts are not funereal, and secondly, because the
+attributes ascribed to this God are not of those which we know
+from later texts belonged to the god of the dead. Who then is the
+God whose j)ower, and providence, and government of the world
+are here proclaimed ? The answer to this question is that the God
+referred to is God, Whose power men of the stamp of Ptah-hetep
+discerned even at the remote period in which he lived, and Whose
+attributes they clearly distinguished ; He was in their opinion too
+great to be called anything else but God, and though, no doubt,
+they offered sacrifices to the gods in the temple at Memphis, after
+the manner of their countrymen, they knew that God was an
+entirely different Being from those " gods."
+
+Passing now to the period of the New Empire we have to
+consider a few extracts from the famous work commonly known as
+the "Maxims of Ani," or the "Precepts of Khensu-hetep," which
+was first described^ by E. de Rouge in 1861, and was published in
+full fifteen years later by Chabas.^ The text ^ is written upon a
+papyrus which was found in a box lying upon the floor of the tomb
+of a Christian monk at Der al-Medinet, and from considerations of
+palaeography it must probably be assigned to the period of the
+XXIInd Dynasty, but the original composition must be a great
+deal older, and it may well date from the XVIIIth Dynasty. The
+following extracts will illustrate the conception of God in the mind
+of the author of the " Maxims " : —
+
+
+jpa neter en saaud ren - f
+
+The God is for making great his name.
+
+
+1 See Moniteur, 15 Aout, 1861 ; and Comptes Eendus, Paris, 1871, pp.
+
+2 See L':Egyptolo(jie, Chalons-sur-Saone and Paris, 4to, 1876-1878.
+
+3 A facsimile was published by Mariette in Papyrus ^gyptiens du Musee de
+£oulaq.
+
+
+PRECEPTS OF KHENSU-HETEP
+
+
+pa
+The
+
+
+1
+
+netei
+
+
+V
+
+D
+
+
+dput pa
+
+God [is] the judge of the
+
+
+J)
+
+
+ma a
+right.
+
+
+or, the God is the judge, the righteous one, i.e., the judge who
+passes sentence according to what is straight, mad, i.e., the law
+the canon.
+
+
+du tdii
+Giveth
+
+
+1
+
+
+neter-hu
+thy God
+
+
+'J
+unu
+
+the means of subsistence.
+
+
+4. " I have given thee thy mother," the writer says to his son,
+and she carried thee even as she carried thee, and took upon
+herself a heavy burden for thy sake, and did not lean upon me.
+When at length thou wast born after having been carried by her
+for months, she laid herself under thy yoke, and she nourished
+thee for three years, -^ and was never weary of thee. . . . When
+thou wast sent to school to be taught, she came every day
+without fail to thy master [bringing] bread and beer [for thee]
+from her house. Now thou hast become a man and hast married
+a wife and hast a house, set thine eye upon thy child, and bring
+him up as thy mother brought thee up. Wrong not thy mother
+lest she lift up
+
+
+ddui-set en
+"her hands to
+
+[and punish thee].
+
+
+u
+
+
+pa
+the
+
+
+1
+
+neter emtuf setemu sebhu-set
+
+God [and] he hearken unto her prayers "
+
+
+I
+
+
+amma sic en
+
+Let [a man] give himself to
+
+
+pa
+the
+
+
+1
+
+neter
+God,
+
+
+■^ Literally, " lier breasts were in thy mouth for three years."
+
+
+PRECEPTS OF KHENSU-HETEP
+
+
+I
+
+
+1
+
+saim - Jc sn em-ment en pa neter
+
+" keep thou thyself daily for the God,
+
+
+w
+
+
+tuaiiu ond-qeti iki
+
+
+ra
+
+
+o
+
+
+au tuami ma-qeii va haru
+
+' to-morrow (?) being like the day (to-day?)."
+
+
+(3 AAAAA^ I I
+
+
+Ichennu en neter hetu-tuf
+
+" The sanctuary of God its abomination
+
+
+pu sehebii
+is much speaking.
+
+
+senemehii-neh
+
+
+em
+
+
+ah
+
+
+mert
+
+
+" Make thou thy prayers with a heart of love
+
+
+du metet - f
+all the petitions
+
+
+fll , , ,
+
+??,eZ)^ dmeiinu dri-f
+
+" of which are in secret. He will perform
+
+
+kheru-fuk
+thy affairs,
+
+
+" he will hear what thou say est, he will accept
+
+
+0 e
+
+
+utemm-tuh
+thine offerings.
+
+
+1
+
+
+e
+
+
+iitennii neter-lcu sau-tu () er
+
+" In making offerings to thy God guard thou thyself against
+
+
+lifX
+
+
+betau-tuf
+
+
+O
+
+
+a
+
+
+ennii
+
+
+maat-h er
+
+
+" the things which he 0 observe [with] thine eye
+
+abominateth.
+
+
+PRECEPTS OF KHENSU-HETEP
+
+
+A
+
+
+£S
+
+
+AAAAA^
+
+
+'paif
+"his
+
+
+selilieru
+plans.
+
+
+qenteb emtuh senenti-tu
+
+Devote thyself to the adoration
+
+
+1
+
+
+lit I
+
+
+"of
+
+
+en
+"of
+
+
+ren - f
+his name.
+
+
+su tat
+It is he who giveth
+
+
+haiu
+souls
+
+
+hell
+to millions
+
+
+aaru
+forms,
+
+
+^daua
+" magnifieth him.
+
+
+O
+Shim
+
+
+f
+
+
+sdaud pa enti
+
+and [he] magnifieth whosoever
+
+
+ar 7iefer ta pen en
+
+Now the god of this earth is
+
+
+hliid du naif mdtui
+
+
+pa btiuu her
+
+" the god Shu, he who is over the horizons. His similitudes
+
+
+A a
+
+tdtd-thd
+
+
+senterd
+
+
+her tep ta laia-itia sentera em
+
+" [are] upon earth, are given [to them] offerings of incense with
+
+
+Icai-set em-ment.
+
+" their food offerings daily."
+
+
+The group of passages given above supplies a new set of
+attributes ascribed by the Egyptians to God, and they show that
+they believed this Being to be one who judged according to right,
+who was jealous for the honour of his name, who received prayers
+
+K
+
+
+130 CONCEPTION OF GOD AND THE GODS
+
+and offerings, and who granted to the suppliant all his petitions,
+and performed all his desires, when such petitions were made to
+him in secret and with a " loving heart." The seventh extract is
+peculiarly instructive, for in it we have a sharp distinction drawn
+between this God and the solar god Shu, who is here, clearly,
+identiiied with the Sun-god. The worshipper of God is exhorted
+
+
+upon earth, to pay good heed to the manner in which he makes
+oiferings to Him, and to dedicate himself to the adoration of His
+name, for it is He Avho giveth souls, i.e., life, to millions of beings,
+and those who exalt Him He will exalt. On the other hand, the
+similitudes of the god Shu, the lord of the horizons, i.e., the skies
+of the South and the North, the East and the West, and the god
+of this earth, are upon the earth, and to them offerings of incense
+and meat are made daily. There is no need here to dwell upon
+the lofty conception of what is meet for the worship of God ; nor
+upon the fact that many of the phrases in the extract are identical
+in meaning, and almost in words, with passages in the Hebrew
+Scriptures, for they Avill be familiar to all, and extracts like the
+following will occur to every reader : — " Consider the wondrous
+works of God " (Job xxxvii. 14) ; " them that honour me I will
+honour" (1 Samuel ii. 30), etc. The word rendered "similitudes,"
+Q ^ H n i__fl ^ .^ difficult to explain in detail though its general
+
+meaning is clear enough, and we must understand by it " things
+which are in the likeness [of Shu] " ; these can, apparently, only
+refer to the gods to whom incense and offerings were brought
+daily. The great importance of .the second group of extracts
+consists in the fact that they emphasize and develop the difference
+between the Egyptian conception of God and the gods. The
+author of the "Maxims," like Kaqemna and Ptah-hetep, set out
+to write a book of moral precepts by which he intended his son to
+mould his course of life and to be guided. This work is not of a
+funereal character, therefore the God who is referred to throughout
+cannot be Osiris, and the context proves beyond all doubt that the
+writer is alluding to the same Being as were the earlier writers
+of moral aphorisms already mentioned. In the case of the
+
+
+ONENESS OF THE GODS
+
+
+" Maxims," however, the word for God, neter "1 J|, is usually
+
+
+But in all the passages quoted above there is no distinct
+statement that the God alluded to therein is God alone, and that
+there is no other God besides Him, although this is clearly implied ;
+we must therefore turn to another class of texts in which the
+attribute of oneness or unity is ascribed to one or more "great
+gods," and see how it is applied. The god Ta-tunen is called,
+" One, maker of mortals, and of the company of the gods " ; ^ the
+god Ea-Tem is called, " lord of heaven, lord of earth, maker of
+" beings celestial and of beings terrestrial, God One, who came
+" into being in primeval time, maker of the world, creator of
+" rational beings, maker of Nu (the sky), creator of the Nile,
+" maker of whatsoever is in the waters, and giver of life to the
+" same, knitter together of the mountains, making to come into
+" being men and women, and beasts and cattle, and creator of the
+"heavens and the earth" ;^ the great Khu (Spirit) whom Tem
+created is described as the "only One in Nu" ; ^ Osiris is said to
+be "lord of the gods, god One" ;* and in a remarkable passage,
+in which the whole of the attributes of the Sun-a-od Ra have been
+transferred to Amen-Ra, we have the following statement wherein
+this god is said to be " the holy (or, venerable) Soul which came
+
+
+of Ani, sheet 1, line 6.
+
+
+AAftAAA
+
+
+H
+
+
+I I I
+
+
+Pfli
+
+
+Papyrus of Hunefer, sheet 1, line 5 ff .
+
+3 JBook of the .Dead, Chap. Ixxviii. 16.
+* Ibid., Chap, clxxiii.
+
+
+I j"lll'nil iiiiitnii I
+
+
+ONENESS OF THE GODS
+
+
+' into being aforetime, the great god who liveth in (or by) Maat
+' (i.e., unfailing and unvarying order and regularity),
+
+
+pautti
+the paut
+
+
+W
+
+
+G
+
+
+D
+
+fepi 7U£S pautti
+
+primeval [which] gave the two companies of
+
+gods,
+
+
+Icheper
+
+
+" came into being
+
+
+1
+
+nete7
+ofod
+
+
+birth to
+
+7ieb dm - f
+
+every through him,
+
+
+I I
+
+
+ud uoui
+one alone,
+
+
+n
+
+
+am
+
+
+f
+
+
+linen
+
+
+shad
+
+
+ta
+
+
+em
+
+
+sep tepi
+
+
+" he made what exists when the earth began in primeval time,
+
+
+sheta.u
+" hidden
+
+
+viesi aslit
+
+of births, manifold
+
+
+hlieperiu
+of forms,
+
+
+an rekhtu
+not is known
+
+
+im
+
+
+bes - f
+
+
+"his growth." ^
+
+The text goes on to say that Amen-Ra, is the "holy Sekhem (i.e.,
+" Power), the god who is beloved, and is terrible and mighty in
+"his risings, lord of space, the Power, Khepera, the creator of
+" every evolution (or, thing) which belongeth to his existence,^
+" except whom at the beginning none other existed." Here then
+we have Ta-tunen, Ra-Tem, and the god Osiris all called " God
+
+One," neter iid, "1 Jj i , and in the last extract we have the
+
+remarkable expression " God One alone," i ^T 3, applied
+
+to Amen-Ra. If we consider for a moment we shall see that the
+
+
+See Maspero, Mem. Miss. Arch., torn i., p. 594.
+
+
+ONENESS OF THE GODS 133
+
+gods Tern and Khepera are only forms of the Sun-god Ra, and as
+Tatunen was concerned in the production of the Sun-god he also is
+a solar god ; at the time when the above extracts were written,
+i.e., under the XVIIIth Dynasty, we have abundant proof that the
+Egyptians were continually adding to the attributes which they
+ascribed to Osiris, and that such attributes were those which
+belonged to some form of Ra or to Ra himself. The word " One "
+then is applied in these cases to Ra, and to the forms of Ra, and
+to a god who had come to be regarded in one aspect at least as a
+solar god, and it will be found on examination of the texts that
+whenever a god or goddess is described as " One " it is because
+that deity has been endowed by the writer, whether rightly or
+wrongly is another matter, with some of the attributes of Ra.
+
+It is easy to see from the hieroglyphic extract given above
+that to the god there described are attributed many of the creative
+qualities which we assign to Grod Almighty. Thus he is said to
+be the primeval Paut or divine substance who gave birth to the
+two companies of the gods (in this case we must understand the
+company of the gods of heaven and the company of the gods of
+earth, and not the Great and Little Companies of the gods of
+Heliopolis), and every god came into being by him or through him.
+Here it is quite clear that "every god " means only every inferior
+being who possessed something of the quality of a neter or " god,"
+and every being who ministered to the great Paut, and who in the
+Hebrew Scriptures would be grouped under the name " Elohlm,"
+good Jinn. The text goes on to say not only in primeval times,
+i.e., "in the beginning," he created whatever exists upon the
+earth, but also that in primeval time no other being existed with
+him. This is a definite statement of the unity or oneness of God
+which cannot be gainsaid, and it Avas this attribute of unity or
+oneness which the priests of various cities ascribed to their local
+god whenever they could. We have no means of saying whether
+this idea of oneness or unity was first applied to Ra or to some
+more ancient god such as Horus, but it is, in the writer's opinion,
+quite certain that it existed in the minds of the educated classes of
+Egypt in the earliest times, and that in all periods it was the
+
+
+THE GREAT SELF-CREATED GOD
+
+
+central point of their conceptions of God. But the text goes on to
+say that the great Paut who created the companies of the gods is
+" hidden of births and manifold of forms," and that " his growth
+(or development) is unknown." This is only another way of saying
+that the manner in which the beings and things produced by the
+Paut came into being is unknown, and that he appears under many
+forms. We may here refer to the passage in the XVIIth Chapter
+of the Booh of the Dead (line 9), wherein it is said : —
+
+
+0
+
+
+1
+
+
+ODD
+
+
+nuk neter da hheper tchesef
+
+" I am the great god self-created,
+
+
+/
+
+
+^ AAAAAA
+
+Nu
+Nu,
+
+©
+
+
+D
+
+
+that is to say,
+
+
+qemam renu
+
+" who made his names
+
+
+m
+
+paid neteru
+
+the company of the gods
+
+
+neter
+Sfod."
+
+
+em
+
+
+as
+
+
+Concerning this being the question is asked, " Who then is this ? "
+
+
+and the following answer is given : —
+
+
+Bd pu
+" It is Ra
+
+
+qemam
+who created
+
+
+renu
+names
+
+
+en
+for
+
+
+at - f
+his members
+
+
+kheper
+
+
+U
+
+
+eneii
+
+
+D
+
+
+" and these came into being
+
+
+w
+
+
+ami
+
+
+hhet
+
+
+Rd
+
+
+em
+in the form of
+
+
+" who are in the following of Ra."
+
+
+m
+
+neteru
+the gods
+
+
+On the creative power of the great Paut special emphasis is laid in
+the extract on p. 132, for, after declaring that he created in the begin-
+
+
+HENOTHETSM 135
+
+ning whatsoever exists, the text adds that he created everything
+that had to do with his own coming into being ; and in the passages
+from the Booh of the Dead it is taught, according to one dogma,
+that the names of the great, self-produced god Nu became the
+company of gods under the form of God, and according to another
+that the gods who were in the train of Ra were the members or
+limbs of Ra, and that these limbs were, in turn, the names of Ra.
+The last text quoted is of considerable importance, for it gives us a
+direct proof that the attributes of the god Nu were transferred to
+Ra, and that Ra was identified absolutely with Nu, and the last
+text but one quoted shows how the attributes of Ra were transferred
+to Amen, who was originally only the local god of Thebes, by
+means of the fusion of the two gods into Amen-Ra. We know
+that to many gods were ascribed the attributes of Ra, and that all
+solar gods were, in the dynastic period at least, held to be forms of
+him ; if we could identify them all we should be able to reduce the
+number of Egyptian gods considerably.
+
+The attribute or quality of oneness or unity, which is ascribed
+first to the great God who was the creator of the heavens and the
+earth and all therein, and secondly to the Sun-god who was
+regarded as the visible type and symbol of God and his various
+forms, and thirdly, at a later period to the god Osiris, has been
+termed "henotheism" by many writers who asserted that it
+was a "phase of religious thought"^ which was difi'erent from
+monotheism. According to the late Right Honourable Prof. Max
+Miiller we have become acquainted with this phase of religious
+thought " for the first time through the Veda," and he goes on to
+say that "when these individual gods are invoked they are not
+conceived as limited by the power of others, as superior or
+inferior in rank. Each god is to the mind of the suppliant as
+good as all the gods. He is felt at the time as a real divinity,
+as supreme and absolute, in spite of the necessary limitations
+which, to our mind, a plurality of gods must entail on every
+single god. All the rest disappear from the vision of the poet,
+and he only who is to fulfil their desires stands in full light
+before the eyes of the worshippers." It is quite true that the
+^ Max Miiller, Hibhert Lectures, p. 285.
+
+
+136 HENOTHEISM
+
+Egyptian religion passed through a phase which has been identified
+as henotheism, but, assuming for a moment that we should be
+correct in calling that phase henotheism, the Egyptian religious
+texts prove that it was " not the henotheism of Max Miiller or of
+" Hartmann, or of Asmus, but a practical henotheism, i.e., the
+" adoration of one God above all others as the specific tribal god or
+" as the lord over a particular people, a national or relative
+'' monotheism, like that of the ancient Israelites, the worship of an
+^' absolute sovereign who exacts passive obedience. This practical
+^' monotheism is totally different from the theoretical monotheism,
+^' to which the Aryans, with their monistic speculative idea of the
+^' godhead, are much nearer." ^
+
+These words by the late Professor Tiele here quoted were not
+applied by him to the Egyptian religion, but they so well express
+the present writer's views about the monotheism of the Egyptians
+that they are adopted for that purpose. Professor Tiele was,
+undoubtedly, the greatest authority on comparative religion of his
+day, and although he was not an Egyptologist at first hand, he
+had discussed Egyptian religious texts with great experts like
+Chabas, Birch, de Rouge, and others, to such good purpose that
+his opinion on the subject is of peculiar value. According to him
+the Egyptian religion presents two apparently contradictory and
+irreconcilable phenomena : — 1. A lively sentiment of the spirituality
+of God united to the coarsest materialistic representations of
+different divinities ; and 2. A sentiment, not less lively, of the
+unity of God, united to an extremely great multiplicity of divine
+persons.^ The best educated priests, he thinks, who were the
+most vigorous promoters of religious progress, Avere as much
+attached to forms and traditional symbols as the people themselves,
+and they were most unwilling to give up any part of them. The
+symbolism, being misunderstood by the ignorant folk, produced
+serious errors, and the forms under which the Egyptians represented their gods, and which are repellent to our refined taste,
+answered in their minds to the idea of divinity which was purer
+and more spiritual than the noble and beautiful forms of the gods of
+
+^ C. P. Tiele, in Encyclopaedia Britannica, vol. xx., p. 367.
+2 Histoire Comparee des Anciennes Religions, Paris, 1882.
+
+
+POLYTHEISM AND MONOTHEISM 137
+
+Hellas. The ignorant felt no repugnance to monstrous representations because they appeared as representations having a profound
+and mysterious meaning ; the learned understood the meanings of
+the symbols, and paid their adoration through them to the truth
+of which they were the coverings. In other words, the uneducated
+loved a plurality of gods, while the priests and educated classes
+who could read and understand books adopted the idea of One
+God, the creator of all the beings in heaven and on earth who, for
+want of a better word, were called " gods."
+
+The priests and theologians saw nothing incompatible in
+believing that God was One, and that he existed under innumerable forms. We may note the existence of the same view in the
+Hebrew Scriptures where, in spite of the commandments, " Thou
+" shalt have no other o-ods before me. Thou shalt not make unto
+" thee any graven image, or any likeness [of anything] that [is]
+" in heaven above, .... Thou shalt not bow down thyself to
+" them, nor serve them . . . ." (Exodus xx. 3-5), the Israelites
+felt no scruple in representing God in the midst of His sons, and
+for a very long time they continued to adore a number of divine
+beings side by side with Yahweh.^ Thus in Joshua xxii. 22, we
+read, " The Lord God of gods, the Lord God of gods, he knoweth and
+" Israel shall know; " in Exodus xxii. 28 is given the commandment,
+" Thou shalt not revile the gods nor curse the ruler of thy people ; "
+in Psalm cxxxvi. 2, Israel is exhorted to " give thanks unto the
+" God of gods ; " the " sons of God " we know from Genesis vi. 2 ;
+Job ii. 1 ; xxxviii. 7;^ and that "gods" in some passages mean
+nothing but beings possessing some characteristic of God is clear
+from 1 Samuel xxviii. 13, wherein we read that the witch of
+Endor told Saul that she " saw gods ascending out of the earth."
+The allusion in this last passage is clearly to some kind of
+supernatural being or beings. Returning for a moment to the
+views of Professor Tiele, we admit that, judging from certain
+texts of the Dynastic Period, he is justified in asserting that
+in Egypt monotheism is anterior to polytheism; but judging
+from the evidence of the recently discovered monuments of the
+
+^ Tiele, Hist. Comjmree, p. 138.
+
+2 C£. also Dent. x. 17 ; Psalms xiv. 3 ; Ixxxii. 1, 6; Job i. 6.
+
+
+138 EGYPTIAN MONOTHEISM
+
+predynastic and archaic periods, we must admit that polytheism
+appears to be older than monotheism. On the other hand, the
+monotheistic ideas which appear in the works of Kaqemna and
+Ptah-hetep were certainly not invented during the jDeriod in
+which they lived, and there is every reason for believing that they
+originated at a much earlier date. If literary compositions
+belonging to the first three dynasties are ever brought to light
+from the tombs of Egypt, we shall probably find that the idea of
+the oneness of God is expressed with just as much force and
+certainty as it is under the following dynasties, and in the same
+works we shall also find mention of the various gods who were
+created by the great God who was proclaimed to be One, and
+expected to be worshipped Avith obedience.
+
+The final opinion of Professor Tiele on the Egyptian religion
+was that from the beginning it was polytheistic, but that it
+developed in two opposite directions ; in the one direction gods
+were multiplied by the addition of local gods, and in the other the
+Egyptian drew nearer and nearer to monotheism.^
+
+We may now consider the opinions of some of the greatest
+Egyptologists on the monotheism of the Egyptians. Writing in
+the Bevue Arclieologique (1860, p. 73) E. de Rouge says, "The
+*' unity of a supreme and self-existent being, his eternity, his
+" almightiness, and eternal reproduction thereby as God ; the
+" attributing of the creation of the world and of all living beings
+"to the supreme God; the immortality of the soul, completed by
+" the dogma of punishments and rewards ; such is the sublime
+
+^ " Een Yoorliistorisch. monotheisme onderstelt een graad van ontwikkeling
+" en een vordering- in liet wijsgeerig nadenken, die bij een nog barbaarscli volk
+" niet denkbaar zijn. Ook de egyptische godsdienst is van animisnie en magisch
+'• polydaemonisme uitgegaan en zoo eerst tot poljtheisme opgeklommen. Dit
+" polytliei'sme ontwikkelt zicli dan in twee gelieel tegen o vergestelde richtingen.
+" Aan den eenen kant wordt de godenwereld, door bijeenvoeging van plaatselijke
+" godsdiensten , een gevolg van de ondervverping der verschillende gewesten met
+" hun godsdienstige middelpunten aan liet gezag van een koning, en door over-
+" neming van vreemde godlieden, steeds rijker. Aan den anderen kant nadert
+" men het monotheisme meer en meer, zonder het ooithelder en ondubbelzinnig nit
+" te spreken. De geleerden traclitten beide mit elkander overeen te breugen, onder
+" anderen door de vele goden voor te stellen als de openbaringen van den eenen»
+"ongesehapen, verborgen God, zijn leben, door hem zelnengeschapen." See
+Geschiedenis van den Godsdienst in de Oudheid, Amsterdam, 1893, p. 25.
+
+
+EGYPTIAN MONOTHEISM 139
+
+" and persistent base which, notwithstanding all deviations and all
+" mythological embellishments, must secure for the beliefs of the
+" ancient Egyptians a most honourable place among the religions
+" of antiquity." ^ In an article on the " Religion of the Ancient
+Egyptians," written nine years later as a result of a close study of
+many of the great religious texts, he asserted that more than five
+thousand years before there existed in the Valley of the Nile the
+hymn to the unity of God, and the belief in the unity of a supreme
+God with the attributes of Creator of men, and Legislator of man,
+whom he has endowed with an immortal soul. In his description
+of the principal monuments at the Egyptian Museum at Biilak in
+Cairo, Mariette Bey said, " At the head of the Egyptian pantheon
+" soars a God who is one, immortal, uncreated, invisible and hidden
+'' in the inaccessible depths of his essence ; he is the creator of the
+" heavens and of the earth ; he has made everything which exists
+" and nothing has been made without him ; such is the God who
+" is reserved for the initiated of the sanctuary." ^ A similar view
+was held by Chabas,^ who said, " The One God, who existed before
+" all things, who represents the pure and abstract idea of divinity,
+" is not clearly specialized by [any] one single personage of the vast
+" Egyptian pantheon. Neither Ptali, nor Seb, nor Thoth, nor Ra,
+
+^ " L'unite d'un etre suprerae existant par lui-meme, son eternite, sa toute-
+" puissance et la generation eternelle en Dien ; la creation du monde et de tons
+" les etres vivants attribuee a ce Dien supreme ; rimmortalite de ITime, completee
+" par le dogme des peines et des recompenses ; tel est le fond sublime et persistant
+" qui, malgre toutes les deviations et toutes les broderies mytbologiqnes, doit
+" assurer aux croyances des anciens Egyptiens un rang tres honorable parmi les
+
+" religions de I'antiquite." " II y a plus de 5000 ans qu'a commence, dans
+
+" voyons dans les derniers temps I'Egypte arrivee au Polytlieisme le plus effrene.
+" La croyance d V Unite du Dieu supreme, a ses attributs de Createur et de Legislateur
+" de Vhomme, qu'il a doue d'une dme immortelle ; voila les notions primitives
+" encliassees comme des diamants indestructibles au milieu des superfetations mytho-
+" logiques accumulees par les siecles qui ont passe sur cette vieille civilisation."
+Annules de Philosophie Chretienne, Paris, 1869, p. 336.
+
+2 " iVu sommet du pantheon Egyptien plane un Dieu unique, immortel, incree,
+" invisible et cacbe dans les profondeurs inaccessibles de son essence ; il est le
+" createur du ciel et de la terre ; il a fait tout ce qui existe, et rien n'a ete fait sans
+" lui ; c'est le Dieu reserve ;i I'initie du sanctuaire." Mariette, Notice, Cairo,
+
+^ Ccdendriev des jours fastes et nefastes, p. 107.
+
+
+140 EGYPTIAN MONOTHEISM
+
+'' nor Osiris, nor any other god is a personification of him at all
+" times ; but of these sometimes one and at other times another is
+"invoked in terms which assimilate these intimately with the
+" supreme type; the innumerable gods of Egypt are only attributes
+" and different aspects of this unique type."
+
+M. Pierret, in discussing the matter, holds the view that the
+texts prove that the Egyptians believed in a God who was One,
+and was without a second, and Avas infinite and eternal. At the
+very time, however, when the scribes were writing upon papyrus
+or cutting upon stone the inscriptions Avhich affirmed this belief,
+the artists were making sculptures of the gods with heads of hawks,
+or rams, or crocodiles, or goddesses with the heads of lionesses,
+cats, or coAvs. Nevertheless the One God, who is without a second,
+is One even among the company of the gods, for he has numerous
+names and forms, and he appears under sacred and mysterious
+forms in the temples, that is to say under the figures ^ which were
+painted on the walls, and in the statues of the gods which were
+set up in the temples. The greatest supporter of the doctrine of
+ancient Egyptian monotheism was the late Dr. Brugsch, who
+assigned to the word for God, neter T Jj, the highly philosophical
+meaning which has been quoted above. Accepting the view,
+which the Egyptians themselves held, that the gods were only
+names of the various attributes of the One God, he searched
+through the religious literature and collected from the hymns,
+prayers, etc., which were addressed to the various gods and
+goddesses in various periods, a number of epithets and attributes ^
+which were bestowed upon them by their worshippers. These
+extracts he classified, and when they were grouped and arranged
+they formed a description of God such as it would be difficult to
+find a parallel for outside the Holy Scriptures. It has been
+contended that as these scattered epithets are never found together
+the ancient Egyptians had no conception of a God who was One,
+and was self-produced, and had existed, and would exist, always,
+and was hidden and unknown of form and name, and was the
+Creator of heaven and the gods, and earth, and man, and all
+
+' Pierret, Le Pdiithi'on l^]gy2)tien, Paris, 1881.
+
+~ They will be found in Brugsch, Religion uiid MytJiologie, p. 96 ff.
+
+
+EGYPTIAN MONOTHEISM 141
+
+things, and was at the same time merciful, and compassionate, and
+loving, and the protector of the weak against the strong, and the
+re warder and protector of those who served him.
+
+But this contention is not well founded, because, although
+these attributes were ascribed to a miscellaneous number of deities,
+we must remember that they would not have been thus associated
+unless the writers recognized such gods as phases or aspects of the
+Great God. The fact remains that such attributes were ascribed to
+gods who were created by God, and that the Egyptians arrived at
+such ideas as those described above is a lasting proof of the exalted
+character of their religion and of their conception of monotheism.
+The main point to keep in view is that the gods of Egypt were
+regarded by the Egyptians generally as inferior beings to the great
+God who made them, and that they were not held to be equal to
+him in all respects. Further, we must repeat that the God referred
+to in the moral precepts of the Early Empire holds a position
+similar to that held by Yahweh among the Hebrews and A-llah
+among the Arabs, and that the gods and goddesses who were
+ministers of his will and pleasure find their counterparts in the
+angels, and archangels, and spirits of all kinds, both good and bad,
+of whom the Hebrew and Arabic literatures are full. No surer
+proof of this can be given than the well-known passage in
+Deuteronomy vi. 4, where it is said, " Hear, 0 Israel, Yahweh our
+" God (literally, gods), is YahAveh One," ^ and the Egyptian nete7- ud
+
+I rfl I ^, "One God," as far as the application and meaning of ud
+
+is concerned, is identical with that of the Hebrew word "rnx in the
+
+IT V
+
+text quoted. We may note, too, the words, " Yahweh our gods,"
+polytheistic period of the ancient Hebrew religion ; it is, however,
+possible that when the verse in Deuteronomy was written the word
+Elohtm had come to mean the great God of the Hebrews, although
+originally it had meant a collection of sacred or divine beings. In
+the Kur'an, Sura cxii., the God of the Arabs is declared to be
+One, and from the commentaries on the Sura we know that this
+declaration was revealed to Muhammad in answer to the people of
+
+1 Compare St. Mark xii. 29.
+
+
+142 EGYPTIAN MONOTHEISM
+
+the Kuresh, who asked him concerning the distinguishing attributes
+of the God he invited them to worship. If we had all the literature of the early Hebrews, and of the Arabs at the period of the
+propaganda of Muhammad we should probably find that many
+local gods in Palestine and Arabia were called One, but that only
+the God who had the moral aspects which were attributed to the
+great God of the Egyptians by the philosophers of the Early
+Empire succeeded in retaining it permanently.
+
+The religion of the Egyptians has, however, always been
+
+regarded from two distinct and opposite points of view ; a number
+
+of scholars, among whom may be mentioned Champollion-Figeac,
+
+de Rouge, Chabas, Mariette, Deveria, Birch, and Brugsch, have
+
+considered it to have been monotheistic, but others have declared
+
+unhesitatingly that it was polytheistic ; this result is due probably
+
+to the way in which it is regarded. Speaking of the difference of
+
+opinion which existed on the subject between the late Dr. Brugsch
+
+and himself, M. Maspero says that he and Brugsch considered the
+
+Egyptian religion in two different Avays. Time, he says, which has
+
+done so much harm to other nations, has shown itself favourable
+
+to the Egyptians. It has spared their tombs, their temples, their
+
+statues, and the thousand small objects which were the pride of
+
+their domestic life, and it has led us in such a way that we judge
+
+them by the most beautiful and the prettiest of the things which
+
+they made, and has at length caused us to place their civilization
+
+on the same footing as that of the Romans or the Greeks. But if
+
+it be looked at more nearly the point of view changes ; to speak
+
+quite shortly, Thothmes III. and Rameses 11. resemble Mtesa of
+
+Central Africa more closely than they do Alexander or Caesar.
+
+It is not their fault, but they arrived too soon in a period which
+
+was too early, and they must bear the penalty of their precociousness. In art, in science, in trade, they have invented much and
+
+produced much, and have, above all, promised much ; their religion
+
+presents the same mixture of coarseness and refinement which is
+
+found in all else. Most of its myths it holds in common with the
+
+most savage tribes of the Old and the New Worlds. The Egyptian
+
+possessed the spirit of the metaphysician, a fact which he proved
+
+when Christianity furnished him with a subject worthy of his
+
+
+EGYPTIAN MONOTHEISM 143
+
+subtle powers. But, M. Maspero asks, what kind of metaphysics
+could proceed from so naive a conception of the universe and of
+things which he has revealed? He thinks it must be true, at
+least in the main, because Brugsch depicted the Egyptian world in
+a manner very similar to his own, and deeming it true he cannot
+any longer admit the notion of the Egyptian Deity and his unity
+which several scholars have adopted. He takes the Egyptian
+religion for what it shows that it is, viz., a polytheism Avith its
+contradictions, and its repetitions, with its dogmas indecent sometimes, cruel sometimes, and ridiculous sometimes, according to
+modern ideas, and with its families of half-human gods which the
+worshipper cherished the more or understood the better the more
+closely they resembled himself.^ The opinion thus expressed,
+though unfavourable to the character of the Egyptian, and directly
+opposed to the views of some of the greatest Egyptologists of the
+last century, is evidently honest, and coming from such a quarter
+is entitled to the greatest respect ; but it seems that M. Maspero
+has judged the Egyptians of all periods according to the standard
+of religion which was in vogue in Egypt in predynastic times,
+when the primitive Egyptians were, no doubt, half savage.
+
+The Egyptians, being fundamentally an African people,
+possessed all the virtues and vices which characterized the IS'orth
+African races generally, and it is not to be held for a moment that
+any African people could ever become metaphysicians in the
+modern sense of the word. In the first place, no African language
+is suitable for giving expression to theological and philosophical
+speculations, and even an Egyptian priest of the highest intellectual
+attainments would have been unable to render a treatise of
+Aristotle into language which his brother priests without teaching
+could understand. The mere construction of the language would
+make such a thing an impossibility, to say nothing of the ideas of
+the great Greek philosopher, which belong to a domain of thought
+and culture wholly foreign to the Egyptian. The allusion to
+the Christian metaphysics of the Egyptian is understandable, as
+everyone knows who has taken the trouble to read the literature of
+the Copts, who transferred much of the base and degraded Egyptian
+^ La Mythologie ^gyptienne, p. 278.
+
+
+144 EGYPTIAN MONOTHEISM
+
+mythology which was current during the first few centuries of the
+Christian era into their newly acquired belief in Jesus Christ.
+The lives of the Coptic martyrs show the use which the Egyptian
+made of his metaphysical spirit, and the history of the early
+Church in Egypt illustrates what happened when he tried to apply
+it to the consideration of the common theological terms in Greek
+and in Latin. Incidentally we may note that in order to express
+the various ideas connected with the Christian Deity and the
+Persons of the Trinity he was obliged to take over the actual
+Greek words into his language, which was poor in abstract ideas.
+In the picture which M. Maspero has given of the Egyptian's
+conception of the universe and of the origin of gods and things he
+has only dwelt upon the mythological side of the question, and has
+not set forth all the passages upon which other Egyptologists have
+based their views about Egyptian monotheism ; moreover, no
+allowance appears to have been made for the peculiar religious and
+mental characteristics of the race. But when all is said against
+the Egyptian religion which can be said, the fact remains that
+it is not the religion itself which has cruel, ridiculous, and
+indecent dogmas, but the myths wherewith generations of foolish
+priests obscured the pure beliefs in monotheism and immortality
+which seem to have existed in Egypt from the earliest times. If
+modern oriental religions were judged in the adverse manner in
+which the religion of ancient Egypt has been judged, none would
+escape similar condemnation ; the same thing may be said of some
+of the religions of the Western nations.
+
+The superstitions which exist among many Eastern nations
+professing monotheism and even Christianity are as gross as those
+found among so-called Pagan nations ; as examples may be quoted
+the Christians of St. John in Southern Mesopotamia, and many of
+the Arabic-speaking peoples of the Eastern Sudan, yet among the
+former no one attempts to deny the existence of a sort of
+Christianity, though he would indeed be bold who would dare to
+compare it with the Christianity of such men as Canon Liddon or
+Cardinal Newman ; similarly, the monotheism of the peoples of the
+Eastern Sudan is universally admitted, but it does not prevent their
+indulging in the coarsest and most fantastic beliefs and practices,
+
+
+EGYPTIAN MONOTHEISM 145
+
+many of which, however, it must be admitted have descended to
+them from their pagan ancestors. Fortunately, however, the
+monotheistic character of the Egyptian religion rests on too firm a
+foundation to be easily overthrown, and notwithstanding the
+elaborate system of symbolic ceremonials which was so prominent a
+feature of Egyptian worship, Egyptian monotheism always maintained its place in the minds of those who were sufficiently educated
+to understand the ideas which the symbols thereof represented.
+The Egyptian never confounded God with the gods, and it would
+seem that he even discriminated between God and " the god of the
+" city," for in the Negative Confession (No. 38) the deceased says,
+" 0 Utu-rekhit, who comest forth from thy house, I have not cursed
+" God " ; and in No. 42 he says, " Hail, An-a-f, who comest forth
+"from Aukert (the Underworld), I have not thought scorn of (or,
+" belittled) the god who is in my city." Whence came the Egyptian
+conception of monotheism, or when it first sprang up, cannot be
+said, but in its oldest form it is coeval with the dynastic civilization
+of Egypt at least, and it may well date from far earlier times. The
+monotheistic idea is not the peculiar attribute of any one people
+or period. It may seem unnecessary to discuss Egyptian monotheism at such length, but the matter is one of great interest and
+importance because the literature of Egypt proves it to have been
+in existence in that country for more than three thousand five
+hundred years before Christ ; in fact, Egyptian monotheism is the
+oldest form of monotheism known to us. It is easy enough to
+understand how anxious the priesthoods of the various cities would
+be to persuade the people who worshipped the local gods that this
+or that god was the being who united in himself the attributes of
+the original god of the city with those of the great cosmic god with
+physical aspects who created the heavens and the earth, and with
+those of the ethical god who was proclaimed by Kaqemna, Ptahlietep, Ani, and other writers of moral precepts.
+
+In the earliest times it was the god Horus who was chosen in
+this manner, for under the form of a hawk he appears to have been
+the first god who was worshipped throughout the country generally,
+and the numerous forms of this god, and the fact that his attributes
+were at a later period ascribed to Horus the son of Isis, attest the
+
+L
+
+
+146 HORUS AND RA
+
+antiquity and importance of his cult. The next god chosen to
+represent the great ethical God of the Egyptians was not a personification of the sky as was Horus, but the Sun-god Ril, on whom
+was bestowed every epithet of power and might which was known
+to the Egyptians, as well as the epithets and forms of the god
+Horus. But although his worship was common throughout Egypt,
+and his sanctuaries were for many centuries the most important
+in the land, there is abundant proof that the Egyptians never
+merged their conceptions of their great ethical God in their conceptions of Ra.
+
+There seem to be traces of a belief that Ra as the spirit or
+god of the sun may have been a form or representative of him, but
+they are not very definite, and the worship of Ra's visible symbol,
+the sun, as the source of heat and light, and therefore of life — as
+the Egyptians recognized at an early period — was commoner than
+any abstract conception of his nature or existence. In a hymn to
+Hapi, the Nile-god, we find a remarkable passage in which some
+of the chief attributes of God are ascribed to the power which
+causes the Inundation and who is addressed under the names of the
+gods Ptah and Khnemu. To this Being it is said by the author of
+
+
+m
+
+
+the hymn, '' If thou wert overcome in heaven the gods,
+"would fall upon their faces and mankind would j)erish." The
+context shows that the author first pays a tribute of reverence to
+the local god of Memphis, Ptah, Avhom he styles the " lord of fish,"
+and the " creator of wheat and barley," and of whom he says with
+reference to the well-known attribute of Ptah as the great artificer,
+" inactivity is the abomination of his fingers," i.e., the fingers of the
+god hate idleness. He then goes on to mention Khnemu, the local
+god of the First Cataract, wherein the sources of the Nile were at
+one time believed to be situated, and styles him " the bringer of
+" food and provisions, the creator of all good things, the lord of all
+" choice and pleasant meats, who maketh the herb to grow for the
+" use of the cattle, who filleth the storehouses and heapeth up high
+" [corn] in the granaries, who payeth heed to the poor and needy,
+" who maketh to grow crops which are sufficient for the desires of
+" all men and yet is not diminished thereby, and whose strength is
+" a shield." Now the author of the hymn goes on to declare that
+
+
+THE ATTRIBUTES OF HAPI 147
+
+the true Ha]3i, or god of the Nile, " cannot be figured in stone, he
+is not to be seen in the images on which are set the crowns of the
+south and the north with their uraei, offerings cannot be made to
+him, he cannot be brought forth from his secret places, his dwelling-place is not to be found out, he is not to be found in the
+shrines which are inscribed with texts, there is no habitation
+which is sufficiently large for him to dwell in, and the heart [of
+man] is unable to depict him." ^
+
+The being here referred to is a physical and not an ethical
+god, and the simplest and, from this point of view, most natural
+explanation of these remarkable statements is that they are intended
+to describe the inaccessibility both of the Nile-god and of his shrine.
+The fact, however, remains that the declaration of the almighty
+strength and inscrutability, and invisibility, and the impossibility
+of a description of the power which moves the Nile-god being
+made by man in writing, or in drawing, or in sculpture, proves the
+existence in the minds of the Egyptian writers of a lofty conception
+of the attributes of God.
+
+But side by side with the fundamental ideas of Horus and Ra
+and the conceptions which were at the root of the worship of these
+gods, there existed in the minds of the Egyptians a firm and
+continuous belief in the god Osiris, who held a position in the
+Egyptian religion which was quite distinct from that held by
+any other god. About his origin nothing can be said, but there
+is no reason for doubting that he was a god of the indigenous
+inhabitants of Egypt, and that his worship was firmly established
+in the country before the dynastic period. He was from the
+earliest times associated with the doctrine of immortality, and was,
+the writer believes, the symbol of monotheism in Egypt. It is
+impossible to say, or even to suggest, what was the original form
+of his worship, but we know that in the archaic period one great
+centre of his cult was at Abydos, and from the fact that he was
+included in the ixLut^ or company of gods of Heliopolis, we may
+conclude that he was a very important god of Tattu, or of Busiris,
+in the Delta, and that his sanctuary was much visited by the
+peoples thereof. Under the Vth Dynasty, as we have already
+
+^ A transcript of tMs text will be found in my First Steps in Egyptian, p. 208.
+
+
+148 OSIRIS, LORD OF TATTU
+
+seen, he was regarded as the judge of the dead, and it is clear that
+he was also the god of the dead par excellence ; but it must be
+noted that the priests of Ra formed at that time the predominant
+priesthood of Egypt, and therefore care was taken to assign to
+Osiris a position inferior to that of Ra in heaven. When the Vlth
+Dynasty of kings came to an end the power of the priesthood of
+Ra was greatly diminished, and the worship of Osiris grew and
+prospered. It is unnecessary to trace here step by step the
+growth of the cult of the god until the period of the XVIIIth
+Dynasty, and it will be sufficient to say that between the Vlth and
+the end of the XVIIIth Dynasty nearly all the attributes of the
+Sun-god Ra were transferred to Osiris, and the name of Ra is
+joined to that of Osiris, just as in much earlier times it was joined
+to Tem and Heru-khuti to indicate the compound gods Ra-Tem
+and Ra-Heru-khuti. Thus in Chapter cxxx. of the Booh of the
+Dead ^ the deceased says, " I shall not be turned back in the
+"horizon, for I am Ra-Osiris," and this passage is a proof that
+quite early in the XVIIIth Dynasty Osiris was considered to be
+a solar god. In Chapter xvii. (1. 110 ff.) the deceased is made
+to say, " I am the God-Soul which dwelleth in the Twin-gods,
+On this the question follows, " What does this
+
+
+" mean ? " to which we have the answer, '' It hath reference to
+" Osiris when he goeth into Tattu ^ and findeth there the soul of
+'• Ra ; there one god embraceth the other, and the divine Souls
+" spring into being within the Twin-gods." These lines of text are
+illustrated by a very interesting vignette in the Papyrus of Ani
+(see sheets 7-10), wherein we see a pylon-shaped building between
+the double ^ ft , which represents Tattu, and upon it stand the god
+Ra, in the form of a hawk with a solar disk upon his head, and
+Osiris in the form of a human-headed hawk, wearing the White
+Crown. The two gods face each other in Tattu, and, according to
+the text, were absorbed or merged each in the other ; thus Osiris
+obtained the attributes and characteristics of the Snn-god Ra, but
+was supposed at the same time to retain all his own peculiar
+attributes.
+
+^ Papyrus of Nu, Chap, cxxx., 1. 18.
+
+- Either Mendes in the Delta, or the heavenly Mendes.
+
+
+IDENTITY OF OSIRIS AND RA 149
+
+The view here given is that which Avas favoured by the priests
+of Thebes who, however, only reproduced that which they had
+borrowed from the priests of Heliopolis, and having gained
+currency in the theological colleges of the South, it spread
+among the people to such an extent that almost every great city
+possessed a sanctuary dedicated to Osiris. A very important
+hymn to Osiris, which is certainly as old as the period of the
+XVIIIth Dynasty, shows us how this god assimilated to himself
+the old solar gods, and how he became Ra. His holy double {^ ka)
+was said to live in Mendes, he was the god who dwelt in Sekhem
+(i.e., Horus), the lord of Qerert (i.e., the Underworld), the holy
+one in Memphis, the lord of the temple of Hermopolis, the local
+gods of which were Thoth and his j^ciut, or company, and he was
+declared to be the " soul of Ra " and the very body of this god,
+
+
+god Nu, and he was the great spirit and divine body in heaven.
+He was supposed to iight and to vanquish the traditional fiend
+Seba, who dared to wage war against Ra, and he was the stablisher
+of rio:ht and truth, madt, throus-hout the world. He made
+
+the earth with his own hands, and its winds, and its vegetation,
+and feathered fowl, and fish, and cattle and other quadrupeds, and
+to him belonged by right the mountains and the desert land
+throughout the world. The lands of Egypt rejoiced^ to crown
+him upon his throne like his father Ra. The Great and the Little
+Companies of the gods loved him, he was the leader of every god,
+and the brother of the stars. Finally, as a proof of the absolute
+identity of Ra and Osiris may be quoted the opening lines of
+Chapter clxxxi. of the Booh of the Dead, which read : — " Homage
+" to thee, 0 governor of Amentet, Un-nefer, the lord of Ta-tchesert,
+" 0 thou who risest like Ra ! Verily I come to see thee and to
+" rejoice at thy beauties. His disk is thy disk ; his rays are thy
+"rays; his crown is thy crown; his majesty is thy majesty;. his
+" risings are thy risings : his beauty is thy beauty ; the awe which
+" is his is the awe which is thine ; his odour is thy odour ; his hall
+
+^ See tlie text, with a transliteration and translation, in my First Steps in
+Egyptian, p. 179 ff.
+
+
+150 OSIRIS AND IMMORTALITY
+
+" is thy hall ; his seat is thy seat ; his throne is thy ^throne ; his
+" heir is thy heir ; his ornaments are thy omaments ; his command
+" is thy command ; his mystery is thy mystery ; his things are
+" thy things ; his knowledge is thy knowledge ; his attributes of
+" majesty are thy attributes of majesty ; his magical powers are
+" thy magical powers ; he died not and thou shalt not die ; he was
+" not vanquished by his enemies and thou shalt not be vanquished
+'' by thine enemies ; no evil thing befell him, and no evil thing
+" shall befall thee for ever and for ever."
+
+In such terms did the Egyptians extol the greatness and
+power of Osiris, but they make no mention of the aspect of the
+god which endeared him to countless generations of Egyptians.
+From hundreds of funeral and other texts we learn that Osiris was
+held to be partly divine and partly human, that is to say, unlike
+any other Egyptian god he possessed two natures, and two bodies,
+the one divine and the other human, and two doubles, the one
+divine and the other human, and two souls, the one divine and the
+other human, and two spirits, the one divine and the other human.
+The human body, according to the Egyptian tradition recorded by
+Plutarch,^ once lived upon earth and was put to death in a cruel
+manner, and was mutilated by his brother ; but his feminine
+counterpart, Isis, succeeded in obtaining from Thoth the knowledge
+of certain words and ceremonies, and having learnt from him the
+proper manner of reciting these words, and how to perform these
+ceremonies, by means of them she raised up to life the dead body
+of Osiris. The god Thoth was the personification of the intelligence
+of the whole company of the gods, and thus the words Avhich he
+taught Isis were divine, and they were, presumably, names by the
+utterance of which the gods themselves maintained their existence.
+Now when Osiris had been raised from the dead he did not continue his life upon earth, but passed into the region of the Under-
+world, where he became the judge and god of the dead and, as we
+have seen, was made the possessor of all the attributes of the Sungod Ra and of the great One God. But, the Egyptians in the
+early ages thought. Since Osiris was raised to life by the words and
+ceremonies which Thoth taught Isis, and since Osiris has gained
+^ De Iside et Osiride, ed. Didot (Scripta Moralia, t. iii., pp. 429-469), § xii. fE.
+
+
+OSmiS AND IMMORTALITY 151
+
+immortality by means of them, these same words and ceremonies
+will raise us to life and give us immortality also. Their priests
+therefore invented a number of magical ceremonies, which they
+led the people to believe were identical with those which Isis had
+performed at the bidding of Thoth, and they strung together
+magical words which they declared to be those which had raised
+Osiris to life, and the words were recited and the ceremonies
+performed by priests who appear to have dressed themselves in
+such a way as to resemble the divine beings who were concerned
+with the resurrection of Osiris.
+
+At a later period, however, the Egyptians put their trust in
+Osiris himself, and addressed their prayers directly to him as the
+Being, partly divine and partly human, who had raised himself
+from the dead without having seen corruption, and who had
+bestowed upon his own earthly body, by means of his divine
+nature, the gift of an everlasting life which it enjoyed in an incorruptible and glorified form in heaven. The Egyptians " loved life
+" and hated death," and they worshipped Osiris as the Great God
+who not only possessed the power of maintaining his own life
+indefinitely — which was supposed to be the chief distinguishing
+characteristic of a god — but also of giving mortals the power to
+live after death in this world. What Osiris had effected for
+himself he could efiect for man ; hence Thothmes III. is made to
+address the god in these words, " Homage to thee, 0 my divine
+" father Osiris, thou hast thy being with thy members. Thou
+" didst not decay, thou didst not turn into worms, thou didst not
+" rot away, thou didst not become corruption, thou didst not
+" putrefy. ... I shall not decay, I shall not rot, I shall not
+" putrefy. ... I shall have my being, I shall live, I shall germinate,
+" I shall wake up in joeace. . . . My body shall be stablished, and
+" it shall neither fall into ruin nor be destroyed off this earth."
+Because the human body of Osiris rose from the dead, the body of
+every man could rise from the dead also, but man lacked what
+Osiris possessed, i.e., the divine body, soul, spirit, and nature,
+which had brought about the resurrection of his human body, soul,
+spirit, and nature. In the earliest times of the worship of the
+^ Booh of the Dead, Cliap. cliv.
+
+
+152 OSIRIS AND IMMORTALITY
+
+god the Egyptians, as we have seen, invented magical words and
+ceremonies with the object of supplying the human body with the
+power necessary to raise itself from the dead, but as time went on
+they realized that both words and ceremonies were incapable of
+giving eternal life to the dead, and that only Osiris himself could
+give them that which they so earnestly desired, i.e., everlasting
+life, by supplying to their dead earthly bodies the power to rise
+again, a power which he himself possessed. Beyond all doubt the
+Egyptians realized that Osiris was the only God who could make
+them to inherit life everlasting, and that he alone had the power
+of making " men and women to be born again." ^
+
+We have already seen how the attributes of the great God
+who created all things were ascribed to him, and we now see that
+he was regarded as the god who had the power to vanquish death
+by raising up the bodies of the dead in glorified forms, and to
+reunite to them their souls and their spirits, and to give them
+eternal life in his dominions. These things were declared of no
+other god, and no other god united in his person the attributes of
+an ethical god, and an almighty, creative god, and a god who was
+the vivifier of the dead. The conception of Osiris included the
+conceptions of every other god, but the conception of no other god
+included that of Osiris during the period of the highest thought
+and civilization of Egypt. The Sun-god Ra, was called " One,"
+a few other gods who were made to usurp his attributes were also
+each called " One ; " this in the earliest times was natural enough,
+because the Egyptians were only acquainted with one Sun, and
+whether the physical body of the sun as a symbol of the power
+which moved it or that power itself is referred to in the hymns
+matters little, for " One " was a suitable epithet both for the sun
+and its god. In connexion with this matter it is important to
+remember the unique position which Osiris occupies in the Booh
+of the Dead and in funeral texts generally. In the texts of the
+Vth Dynasty we find that Osiris was believed " to weigh words,"
+i.e., to inquire into the various words and deeds of the lives of
+
+
+OSIRIS AND IMMORTALITY 153
+
+men when their souls left their bodies, in order that he might
+reward them according to their merits.
+
+In later times this idea was illustrated by the vignette in
+which the heart of the deceased was seen being weighed in the
+Great Scales against the symbol of Maat, or the Law and right
+and truth ; at a still later period, when the heart was the symbol
+of the conscience, this scene became associated with the examination of the words and deeds of the dead which took place in the
+Hall of Maati. In the large scenes of the weighing of the heart
+which were prefixed to the finest papyri of the Booh of the Dead of
+the XVIIIth and XlXth Dynasties, and which were accompanied
+by suitable hymns and texts, the ceremony takes place in the
+presence of the gods of the Great and Little companies, but in the
+Hall of Maati the Forty-Two Assessors are substituted for the
+gods. In both cases, however, the great judge of all is Osiris, and
+it was to him that all Egyptians returned after death. Why the
+Assessors were forty-two in number cannot be said, but it is very
+probable, as has been before suggested, that each of them represented a district in Egypt in the earliest dynastic times, and that
+the Hall of Maati thus became a meeting place for the Assessors of
+the whole country when Osiris sat to judge the dead. It is,
+moreover, impossible to say why certain assessors were supposed
+to hear confessions about the non-committal of certain sins, and we
+have no knowledge of the circumstances which gave rise to their
+selection and to their admission into the Hall of Judgment. Some
+of them appear to have been originally the gods of cities, and
+others gods of nomes, but, on the other hand, a few of them are
+deities who, in the earliest times, were apparently hostile to the
+dead. Failing full information on the subject, the chief interest
+which attaches to the Assessors and the Hall of Maati, in which
+they sit, consists in the fact that the vignette proves how completely Osiris had gained the ascendancy over all the gods of
+Egypt.
+
+In the preceding pages an attempt has been made to trace the
+development of the conception of a supreme being in Egypt, from
+the earliest times to the period when Osiris became endowed with
+many of the attributes now ascribed to God Almighty. There is
+
+
+154 DEVELOPMENT OF MONOTHEISM
+
+no doubt that in predynastic times the Egyptians worshipped
+stocks, and stones, and animals, and plants, and trees, and that
+they only arrived at the idea of gods which were partly animal and
+partly man at the end of a long period of what is called in modem
+times " gross idolatry." From the idea of animal-man gods they
+advanced to the idea of a man-god, and finally their minds
+developed the conception of monotheism. When we first gain any
+definite knowledge of them we find that as a people they had put
+away the worship of stocks and stones, and most of the things
+which that worship implies, but that certain animals were held to be
+sacred in certain cities, and that the literature contained allusions
+to savage habits and practices, as we have already seen. As time
+went on, many changes took place in the minds of the Egyptians
+concerning their gods, but little variation was made in their
+worship and ceremonial in the temples ; in other words, the spirit
+of the religion changed whilst the observance of the letter remained
+unchanged. Thus the forms of worship and the literature preserved a great deal which no one believed in except the commonest
+folk, and in this way traces of the lowest forms of religion were
+preserved and handed down to posterity. The Egyptians, after
+the period of the IVth Dynasty, were the victims of conservatism
+and conventionality, and, we might almost add, of the priesthoods
+of Heliopolis and Thebes ; but for these powerful and wealthy
+confraternities the history of the religion of Egypt would have
+been very difi'erent. The conception of monotheism, which is so
+clearly expressed in the moral precepts of the Early Empire, would
+have developed rapidly, and in its growth it would have obliterated
+the remains of the old and obsolete faiths which had crystallized,
+and which existed in layers side by side with the higher doctrine.
+But the decay which set in after the IVth Dynasty, and which
+stifled the development of painting and sculpture, also attacked
+the religion of the country, and the noble conception of monotheism, with its cult of the unseen, was unable to compete with the
+worship of symbols, which could be seen and handled, until the
+time when Osiris was recognized as the One God, who was also the
+giver of eternal life. The Egyptians were unlike other nations,
+and similarly their religion and their gods were unlike the religion
+
+
+EGYPTIAN RELIGION 155
+
+and the gods of other nations ; and as they must not be judged by
+the standard of any one foreign nation belonging to any one period,
+so their religion and their gods must not be judged by the standard
+of the religion and gods of any later civilized nation. We can
+only know what the Egyptians thought and believed by reading
+and studying the texts which they wrote, and a final opinion on
+their beliefs cannot be obtained until all their religious literature
+has been published ; the general outline, however, of their religion
+is clear enough, and it shows us that they possessed a good,
+practical form of monotheism and a belief in immortality which
+were already extremely ancient even in the days when the
+Pyramids were built.*
+
+
+CHAPTER IV
+THE COMPANIONS OF THE GODS IN HEAVEN
+
+IN the preceding chapters, Avhich are devoted to the consideration of general questions concerning God and the gods, no
+mention is made of the habitation of these divine beings or of their
+companions. The texts of all periods are silent as to the exact
+position of heaven, but it is certain that the Egyptians assigned to
+
+it a place above the sky, and that they called it 2^ei ^__^ ; we must
+
+distinguish between the meanings oi ijet ^ and nut , for the
+
+former means " heaven," and the latter " sky." We may also
+
+note that two skies are mentioned in the texts, i.e., , the day
+
+sky, and , the night sky. The hieroglyphic for heaven and
+
+sky represents a slab, each end of which rests on a support, and
+we may assume that the primitive Egyptians believed that each
+end of heaven rested upon a support (i.e., two mountains) ; out
+of one mountain came the sun every morning, and into the other
+he entered every night. The mountain of Sunrise was called
+
+
+«===^ c^Cb:0. In the earliest times the sky was divided into two
+
+ODD ^
+
+parts only, the East and the West, but later another division was
+made, and heaven was split up into four parts, and each was
+placed under the care of a god. The latter division was made
+long before the Pyramid Texts were written, for in them it is
+always assumed that the flat slab of iron which formed the sky,
+and therefore the floor of the abode of the gods, was rectangular,
+and that each corner of it rested upon a pillar, | . That this is a
+very ancient view concerning the sky is proved by the hieroglyphic
+
+
+THE FOUR PILLARS OF HEAVEN 157
+
+'jjjy', which is used in texts to determine words for rain, storm, and
+the like; here we have a picture of the sky falling and being
+pierced by the four pillars of heaven.
+
+At a later period, the four quarters of heaven were believed
+to be under the direction of four gods, and the four pillars of the
+sky were poetically described as the four sceptres which they held
+in their hands. Thus in the text of Teta (1. 233) it is said, " As
+" Teta goeth towards them they bring unto him the four gods
+" who stand with the sceptres of heaven, and they repeat the name
+" of Teta to Ra, and they take up his name to Horus of the two
+" horizons." ^ In several texts ^ allusion is made to the lifting up of
+
+heaven upon its four pillars, e.g., ^ -^ ^ ^_^ (^ ^ SH^IlII "**" '
+and in one place the four pillars are said to support that on which
+period the idea arose that the sky needed support in the middle as
+well as at the corners, and the god who acted as the prop was
+called Hell, MM- According to one myth which represented the
+
+heavens in the form of the head of a man, and which made the sun
+and the moon to be his eyes, the supports of heaven were supposed
+to be formed of his long flowing hair, and thus we have in the text
+of Unas (1. 473) an allusion to the " four elder spirits who dwell
+" in the locks of hair of Horus, who stand in the eastern part of
+" heaven grasping their sceptres." ^ The gods Avho grasped as
+sceptres the four pillars of heaven, which eventually became the
+
+
+^m^m F=^'J^f' — ^ — Clj] — ^ il^-^JL
+
+- See Brugsch, Worterbuch, p, 1351.
+
+
+I I I
+
+
+158 THE FOLLOAVERS OF HORUS
+
+point, Hap, | D A'^='^=» the god of the northern point, Tuajy y II y 2^.=^, the god of the western point. These four gods played
+
+a prominent part in connexion with the deceased in the Pyramid
+Texts, where they are called the " children of Horus," ^ for at one
+time they are called upon to bring him the boat of the Eye of
+
+
+they are exhorted to protect his life by their magical power and
+amulets, I '^ J) — . ■=im-' ^ and finally the deceased is said to become
+one of these four gods (Pepi I. 1. 672), ^ ^ ^ 1 1 1 ° ^ 111 '
+The duties which are assigned to them as funereal gods in the Book
+of the Dead will be described later on.
+
+Chief among the dwellers in heaven was the god Ra, who is
+said to sit upon an iron throne [the sides of which were ornamented] with the faces of lions and feet which resembled the hoofs
+of bulls.^ Round about Ra, whether walking or sitting, were the
+gods who were " in his train," and these formed the nucleus of the
+inhabitants of heaven. Next to these came certain companies of
+the gods, and as the whole universe was divided into three portions,
+namely, heaven, earth, and the Tuat, or Underworld, and each
+portion had its own gods, we may assume that a place was reserved
+for them in the heaven of the Egyptians. But this heaven also
+contained several classes of beings, first and foremost among whom
+may be mentioned the Shesu-Heru, or Shemsu-Heru, a name
+
+(Pepi L, 1. 166), and may be translated "Followers of Horus."
+They are, in fact, beings who followed Horus, the son of Isis, in
+heaven, where they waited upon him, and performed his behests,
+
+|||o^=^, Pepi I., 1.593.
+
+2 Pepi I., 1. 444. 3 lud,^ 11. 309, 310.
+
+
+THE ASHEMU AND HENMEMET 159
+
+and when necessary defended and protected him. They occupied
+a position of great importance among the celestial hosts, and are
+mentioned in such a way as to suggest that^they were almost equal
+to the gods ; thus Pepi I. (1. 166) is said to " pacify them," but on
+the other hand it was they who " washed him, and who recited on
+" his behalf the Chapter of those who come forth, and [the Chapter
+" of those who] rise up." ^ Next may be mentioned the Ashemu,
+
+i-Tv-i ^v V 'A'^'^' ^ class of beings whose characteristics are
+not known, and who in the text of Teta (1. 327) are referred to in
+connexion with the sehliemu. The word dsliem is usually supposed
+to mean the " form in which a god is visible," but it must have
+
+
+or HAMEMET, appear to have been a class of beings who either were
+to become, or had already been, human beings, but the Egyptians
+themselves seem to have had no very clear idea about their
+attributes, and the passages in the Theban Booh of the Dead in
+which they are mentioned have been understood in different ways
+by different scholars.
+
+In a hymn it is said of Ra, " when he riseth the rehliit (i.e.,
+
+"rational beings) live, and the hamemet, ffl ^ ^ Jj i, exult in
+
+" Kher-aha " ; and the deceased says in Chapter xlii. of the Booh of
+the Dead, " And shall do me hurt neither men, nor gods, |
+
+
+I I r
+
+
+"the hamemet." Elsewhere the deceased prays "that the com-
+" pany of the gods may hold their peace whilst the hamemet talk
+" with me " ; ^ and it seems from a passage in an inscription of
+
+
+^ Compare tlie variant i 'v^ i ' □ Yr^ "W^ — — y
+
+
+2 Teta, 1. 95.
+
+2 See the list of passages given in my Vocabulary to the Booh of the Dead,
+
+
+160 THE AFAU, UTENNU, AND SETU
+
+Hatshepset ^ as if in the latter part of the dynastic period the word
+had come to mean a class of men and women, especially as it is
+
+determined by the signs ^ 3, which usually indicate a number of
+
+human beings. Thus Rameses III. speaks of " all the gods and
+" goddesses of the South and the North, and all men, and all the
+'^ pat, and all the rekhit, and all the hamemet" ; finally, that the
+hamemet were believed to live upon grain is proved by the passage
+in a hymn to Amen-Ra wherein this god is said to be the " maker
+" of the green herb which giveth life to the beasts and cattle, and
+
+*' of the plant of life, vww^ i^ _ ^il , of the hamemeV ^ Of the
+
+
+of Pepi IL (1. 951), we know nothing, and the same must be said
+
+
+two classes, the Upper and the Lower, ^ % ^ Y^. The
+
+following extract will show how these beings are mentioned : —
+" 0 great heaven, stretch out thy hand to Pepi Nefer-ka-Ra !
+" 0 mighty heaven, stretch out thy hand to Pepi Nefer-ka-Ra, for
+
+" having come forth into heaven, and he hath penetrated Qebhu ;
+" Pepi hath paid homage to his father, and he riseth like Horus.
+" Pepi hath come to the place where he is, and he (his father)
+" granteth to him to rise like the sun, and he stablisheth for him his
+
+'' with him, great like Horus, son of Nut, and like the child with
+" the lock of hair (i.e., Harpocrates), and smiting the crowns, and
+" giving orders to the gods Utennu, the Aea gods follow Pepi, and
+" those who are in the heavens and on the earth come to him pay-
+" ing homage, together with the two uraei guides, ' U ^ '=' i^ le,, )
+" and the jackals, and the spirits, and the Set beings, both the
+
+
+■AJkt-lkk-^li^Tr::-!
+
+
+I jCtj n AAAAAA -- |llllllllH| |— I
+
+
+■ 1 I I I I O j^ ODD /)A/vw
+
+
+THE WATCHERS OF PE AND NEKHEN 161
+
+'' Upper and the Lower." It is possible that the Set beings mayhave been of like nature to the god Set, who was the brother and
+associate of Horns in the earliest times, but who in later times lost
+his position as a god and became the type and symbol of all evil.
+
+In addition to these the text of Pepi 11. (line 849) mentions
+the " Watchers of the city of Pe," and the " Watchers of the city of
+
+
+may assume that certain cities were supposed to enjoy the protection of a number of gods whose duty it was to look after their
+interests in heaven. We know from several passages in the Booh
+of the Dead that groups of gods were called the " souls " of such
+and such cities, and it is clear from the inscriptions that each city
+and town possessed a soul which had, like the soul of a man after
+death, the power to wander about at will. Thus on a wall in the
+temple Avhich Cleopatra VII. built at Erment (now destroyed),
+was a scene in Avhich the great queen was depicted in the act of
+giving birth to her son Caesarion. The goddess Neith holds up
+
+the queen's arms, and the midwife Netchemtchemt, | f ^ III ? receives
+
+the boy in the presence of several gods and goddesses. Now in the
+upper part of the relief were two groups of souls of cities, seven on
+the right hand and seven on the left, who were supposed to have
+been present at the birth of the child, and to have taken him under
+their protection. Among the cities represented are Thebes, Ant,
+
+I g , Het, ra@, Qeset, Unt, xlhet, Hetep, Uauaa, -^j^| ^ ,
+
+etc.^ Each soul is in the form of a human-headed hawk, and each
+has on its head horns and a disk, X^, in the front of Avhich is a
+uraeus.
+
+Want of space does not allow of the mention of many obscure
+beings who are called gods, and who are practically innumerable,
+and we therefore pass on to refer to the spirits and souls, etc., of
+the righteous men and women who once lived upon this earth. To
+these, as well as to the divine beings, was given the name " living
+
+ones," ■¥■■¥■■?■ ^, as may be seen from the passage in Unas (line 206),
+
+which reads, " Hail, Unas, behold thou hast not departed dead
+
+1 See Lepsius, DenJcmdIer, iv. pi. 60.
+M
+
+
+162 THE LIVING ONES
+
+" take thy seat upon the throne of Osiris. Thy sceptre ah
+
+
+" orders to those whose habitations are hidden." When king Teta
+is in heaven the seat of his heart is declared to "be among the
+
+We have in this latter passage a proof that the Egyptians conceived it possible for a man to attain to all the attributes of a
+divine being, or, let us say, of an angel, and at the same time to
+enjoy an existence upon earth as well as in heaven. This idea
+probably arose because they wished to provide a future for the
+dead body just as they provided a habitation in heaven for the
+spirits and souls of the righteous. Heaven and earth were complements each of the other, the gods of heaven were the complements
+of the gods of earth, and vice versa, and the existence of the
+spiritual and mental attributes of man with the gods in heaven
+was a complement of his continued life after death in some region
+on this earth. The Pyramid Texts show that the opinion of the
+Egyptians about the number and functions of the constituent parts
+of his economy, both physical and spiritual, changed as time went
+on and as they ascended the various grades which led up to the
+high platform of their civilization, and the result of the change, or
+rather changes, made itself manifest in their religious compositions.
+In the early predynastic period they thought that the life after
+death was a mere continuation of the life in this world, and when
+they had placed some food in or on the graves of their dead they
+were satisfied.
+
+But they knew that the body of a man in the new life could
+
+■¥"?"?-, Pepil., 11. 545, 54G.
+
+
+cinn^ D
+
+
+THE SPIRITS AND SOULS OF THE DEAD 163
+
+not be like that which he possessed on earth, although its form
+might be similar, and they therefore assumed the existence of
+another body. In his dreams the Egyptian saw a figure of himself
+or a duplicate, engaged in various occupations, and to this figure
+he gave the name ha, ^ ; it was born with a man, it remained
+within him, usually inoperative, and survived him at death. It
+never left the body in the grave or tomb, and the offerings which
+were made in the halls of the tombs in all periods were intended
+
+to maintain its existence. Nevertheless the ha of Horus, J=^ ^ ,
+
+is in heaven (Teta, line 88), and also the ha of Teta (line 94), which
+is adjured to bring that which the king might eat with it ; and as
+the hau of men and gods lived in heaven so there lived there also the
+
+hau of cities, e.g., of the city of Pe, vi^Jz^J:^ (Teta, line 88),
+
+and the " lords of hau praised Ra both in the dominions of Horus
+" and in the dominions of Set." ^ King Unas is declared to be the
+
+
+"hearts for the great wise chief" (Unas, line 395). Men and gods
+alike possessed shadows, and they also had an existence in heaven
+after the death of the bodies to which they belonged. When Unas
+had eaten the bodies of the gods, and had absorbed all their souls
+and spirits, it is said that the " flame of Unas is in their bones, for
+"their soul is with Unas, and their shadows are with their forms"
+(Unas, line 523, Teta, line 330). The souls and the spirits of men
+had their abode in heaven with the gods, and the religious texts of
+all periods are so full of allusions to this fact that it is unnecessary to
+
+
+heron. Related intimately to the body, but with undefined
+
+
+word which has been translated "power," and "form," and even
+" vital force ; " and finally the glorified body, to which had been
+
+
+164 THE SAHU OR SPIRITUAL BODY
+
+united the soul, and spirit, and power, and name of the deceased,
+had its abode in heaven. This new body of the deceased in heaven
+
+was called sdim, u a | v^ g , and may for all practical purposes
+
+be termed the spiritual body ; it grew out of the dead body and
+was called into existence by the ceremonies which were performed,
+and the AYords which were recited by the priests on the day when
+the mummified body was laid in the tomb.
+
+Thus we see that the denizens of heaven consisted of the
+Great, and the Little, and the other companies of the gods ; and of
+a large number of beings, who may for convenience be called the
+"inferior gods," and of several orders of beings who possessed
+some characteristic which caused the Egyptians to assume that
+they were divine ; and of the shadows, doubles, souls, spirits,
+powers, hearts, and spiritual bodies of those who had lived upon
+this earth. In Chapter Ixiv. of the Boole of the Bead (line 21) is a
+curious statement to the effect that the " spirits are four million,
+
+
+be an enumeration of the spirits of heaven, or of the spirits which
+once inhabited human bodies, cannot be said. Of the occupations
+of the denizens of heaven little is known, but to some of them was
+assigned the task of directing the affairs of this world, others
+directed the operations of the celestial bodies, and others were
+attached to the trains of the great gods, and accompanied them in
+their triumphant courses through the heavens. All these sang
+praises to Ra as the king and chief of the gods, and they sang
+hymns to him describing his greatness and glory just as men sang
+songs of joy to the sun when he rose and set. The gods nourished
+themselves with celestial food which was supplied to them by the
+Eye of Horus, that is to say, they supported their existence on the
+rays of light which fell from the sun which lit up heaven, and they
+became beings whose bodies were Avholly of light. According to
+one myth the gods themselves lived upon a " wood, or plant of
+
+
+near the great lake in Sekhet-hetep, round which they were wont
+
+
+THE ABODE OF THE BLESSED 165
+
+to sit/ but this idea belongs to the group of views which held that
+the beatified dead lived in a beautiful, fertile region, where white
+wheat and red barley grew luxuriantly to a great height, and where
+canals were numerous and full of water, and where material enjoyments of every kind could be found. In other places we read of
+"bread of eternity," and "beer of eternity," i.e., bread and beer
+which was supposed never to grow stale or to become spoiled,^ and
+
+
+beatified. The bread upon which the blessed fed themselves was
+that bread which the Eye of Horus shed upon the branches of the
+
+
+0
+
+Finally, the blessed were arrayed in apparel similar to that which
+was worn by the gods, but they also had white linen garments on
+their bodies, and white sandals on their feet.
+
+All these details show the simple character of the heaven
+which the primitive Egyptian imagined, and prove that it was at
+first intended to be nothing but the celestial complement of a
+terrestrial farm or estate. He wished for a vine, and a fig-tree,
+and an olive tree, for wheat wherewith to make bread, and for
+barley Avherewith to brew beer ; he also desired clean white
+garments and white sandals. His celestial homestead he expected
+to be intersected with numerous canals, which would do away with
+the necessity of laboriously drawing water from the celestial Nile
+by means of some mechanical contrivance similar to the modern
+shaduf ; the tillage would, of course, be provided for in the next
+world by the gods, who would take care that the crops did not
+fail. This simple material heaven is very different from the
+
+
+3 Teta, 1. 288, Pepi I., 1. 442 and 1. 390.
+
+
+166 THE ABODE OF THE BLESSED
+
+heaven of the Hebrew and Muhammadan writers, with its sensual
+and sensuous joys of every kind, and its luxurious meats, and
+drinks, and delights. We know from one or two passages in the
+Pyramid Texts that there were women in heaven just as there
+were goddesses, but they are not spoken of as are the Hur al-hiyun
+(houris), i.e., the women with large, black pupils of the eye set in
+large whites, who are mentioned in Arabic descriptions of Paradise,
+and they are not made to be one of the chief attractions of heaven.
+As far as can be seen, the heaven of the Egyptians had no musical
+instrument in it, and the only sounds heard in it must have
+been the songs of the ministering gods and of the beatified when
+they hymned the Great God. What the Egyj^tian gentleman who
+lives on his own land in places remote from towns is now, the
+Egyptian gentleman everywhere was then ; he loved to wash and
+anoint himself, and having put on clean linen to sit in the sun in
+the morning, and to bear himself with dignity, and to be treated
+with respect by his neighbours and inferiors. He loved to have
+corn, and wine, and oil in abundance, and a sufS.cient number of
+slaves to minister to his wants and to maintain his dignity when he
+moved about from villaofe to villaoje. He honoured his mother,
+and usually married a very limited number of wives, among whom
+might be a sister, or half-sister, or cousin, and he took great
+interest in his male offspring ; we note in the Pyramid Texts that
+the families of the deceased kings are never mentioned, and that
+nothing is said about their wives, although Unas (lines Q)2S, 629) is
+
+
+1 Awwv^ wheresoever he pleaseth, whensoever he pleaseth. On the
+
+other hand, Isis is said to come to king Teta, who unites with
+her, and the goddess having conceived like the star Sept gives
+birth to Horus Sept,^ and in another passage Unas is said to have
+
+
+H
+
+
+^ , Teta, 1. 276.
+
+
+THE ABODE OF THE BLESSED 167
+
+become the husband of the goddess Mauit, and also of the young
+woman who brought bread to him.^
+
+But these beings were, after all, only the celestial waters
+described under the forms of a goddess and a woman, and the
+sensual idea conveyed by a literal interpretation of the text therefore disappears. The life of the primitive Egyptians in heaven
+was as simple as their life upon earth, and their chief Avish was
+to enjoy a state of comfortable and dignified peace, without war
+and without tumult or strife. We hear nothing of a heaven with
+a floor of white flour or musk, with pearls for stones, and trees
+with trunks of gold, and houses covered with gold and silver, and
+rivers of milk, and honey, and wine, and innumerable maidens
+with bodies made of pure musk, Avho live in pavilions made of
+hollow pearls and are free from all defects of their sex. The idea
+of the means to be employed for reaching the heaven of the
+Egyptians was as primitive as that of the heaven itself, for the
+Egyptians thought that they could climb on to the iron floor of
+heaven by going to the mountains, the tops of which it touched
+in some places. At a later period it was thought that a ladder
+was necessary, certainly for those who did not live near the
+mountains whose tops touched heaven's floor, and in many tombs
+models of ladders were placed so that the deceased might make
+use of them at the proper time. The god Osiris even was believed
+to have needed a ladder, and to have been helped to ascend it by
+Ra and Horus, or by Horus and Set. The idea of the need of a
+ladder was deeply seated in the Egyptian mind, for when the
+custom of placing models of ladders in the tombs ceased, they drew
+
+
+AAAAAA
+
+
+rO % 0 "^ , Unas, 1. 181.
+
+
+168 THE SEKHET-HETEP
+
+pictures of them in the papyri of the Book of the Dead which Avere
+
+placed in tombs/ The model of the ladder, y 'vv B , inaqet,
+
+could be made as long as the deceased wished by reciting certain
+words of power over it, and by similar means the picture of the
+ladders given in the papyri could be turned into real ladders.
+
+The above mentioned facts will show that in his conception
+of heaven the Egyptian never succeeded in freeing himself wholly
+from material ideas and the wish to make sure of eternal life and
+happiness by means of his own acts. In the latter part of the
+dynastic period the conception of heaven became more material,
+and at length, if we may judge by the texts, the belief in the
+resurrection of the actual physical body prevailed, and the life
+after death was regarded as nothing but a continuation of the life
+upon earth. Thus the title of Chapter ex. of the Boole of the Dead
+declares that the text which follows will give a man the power of
+" doing everything even as a man doeth upon earth." As a result
+of this view the deceased prays thus : — " May I become a Ichu
+" (spirit) therein, i.e., in the Sekhet-hetep or Elysian Fields, may I
+" eat therein, may I drink therein, may I plough therein, may I
+" reap therein, may I fight therein, may I make love therein, may
+" my words be mighty therein, may I never be in a state of
+" servitude therein, but may I be in authority therein." He also
+wishes ttat he may have with him in Sekhet-hetep his father and
+mother, and presumably his wife and children, and also tlie god
+or gods of his city, but in these materialistic passages we find no
+mention of his desire to worship and praise the gods of heaven,
+or even the Great God who is said to '^grow" therein. Thus in
+another place in the same chapter he says, " 0 ITakh, I have
+" entered into thee, I have eaten my bread, I have gotten the
+" mastery over choice pieces of the flesh of oxen and of feathered
+" fowl, and the birds of Shu have been given to me. I have
+" plunged into the lakes of Tchesert ; behold me, for all filth hath
+" departed from me. The Great God groweth therein, and behold,
+" I have found [food therein] ; I have snared feathered fowl and
+" I feed upon the best of them. ... I have seen the Osiris [my
+
+^ See the Papyrus of Ani^ 2nd edition, pi. 22.
+
+
+THE SEKHET-HETEP 169
+
+" father], and I have gazed upon my mother, and I have made
+'• love." In every division of the Elysian Fields the deceased, in
+the later period of dynastic history, found some fresh material
+pleasure, but, in spite of all its inconsistencies and his materialism,
+the heaven of the Egyptians was better and purer than that of
+many more modern nations which are credited with higher intelligence and better civilization.
+
+
+CHAPTER V
+THE UNDERWORLD
+
+IN the chapters on God and the gods it has already been said
+that the Egyptians in the earliest times believed that the
+gods were moved by the same passions as men and grew old and
+died like men ; later, however, they believed that it was only the
+bodies of the gods which died, and they therefore provided in
+their religious system a place for the souls of dead gods, just as
+they provided a place for the souls of dead men and women. The
+writers of the relio:ious texts were not all ao-reed as to the exact
+position of this place, but from first to last, whatever might be the
+
+
+This word is commonly rendered '' underworld," but it must be
+distinctly understood that the Egyptian word does not imply that
+it was situated under our world, and that this rendering is only
+adopted because the exact signification of the name Tuat is
+unknown. The word is a very old one, and expresses a conception
+which was originated by the primitive Egyptians, and was probably
+unknown to their later descendants, who used the word without
+troubling to define its exact meaning. To render Tuat by " hell "
+is also incorrect, because " hell " conveys to modern peoples ideas
+Avhich Avere foreign to the Egyptians of most schools of religious
+thought. Whatever may be the moral ideas of the Tuat as a place
+of punishment for the wicked in later times, it is clear that at the
+outset it was regarded as the place through which the dead Sungod Ra passed after his setting or death each evening on his
+journey to that portion of the sky in which he rose anew each
+morning. In the XlXth Dynasty we know that the Tuat was
+believed to be situated not below our earth, but away beyond the
+
+
+THE TUAT 171
+
+earth, probably in the sky, and certainly near the heaven wherein
+the gods dwelt ; it was the realm of Osiris who, according to many
+texts, judged the dead there, and reigned over the gods of the
+dead as well as over the dead themselves.
+
+The Tuat was separated from this world by a chain or range
+of mountains, and consisted of a great valley, which was shut
+in closely on each side by mountains; the mountains on one
+side divided the valley from this earth, and those on the other
+divided it from heaven. We may note in passing that the
+Hebrews separated the blessed from the damned by a wall,^ and
+that Lazarus was separated from Dives in hell by a " great gulf," ^
+and that the Muhammadans divide heaven from hell by the
+great breadth because those who stand upon it are supposed to be
+able to hold converse both with the blessed and the damned. It
+is pretty certain that both Hebrews and Muhammadans borrowed
+their ideas of the partition between heaven and hell from the
+Egyptian Tuat, but there is no authority in the texts for the
+Muhammadan view that it is a sort of limbo or purgatory for
+those who are too o-ood for earth but not o-ood enouoj'h for heaven.
+Those who stand on Al-A'raf are said to be angels in the form of
+men, 23atriarchs, prophets, and saints, and those whose good deeds
+on earth were exactly counterbalanced by their evil deeds, and
+who therefore merit neither heaven nor hell. Through the valley
+of the Tuat runs a river, which is the counterpart of the Nile in
+Egypt and of the celestial Nile in heaven, and on each bank of
+this river lived a vast number of monstrous beasts, and devils, and
+fiends of every imaginable kind and size, and among them were
+large numbers of evil spirits which were hostile to any being that
+invaded the valley.
+
+On the sarcophagus of Seti I. is a representation of the
+Creation, which is reproduced on p. 204, and from it we see that the
+Tuat is likened to the body of Osiris, which is bent round like
+a hoop in such a Avay that his toes touch the back of his head,
+
+^ See Eiseumenger, " Was die Juden von der Hollen lelireii " (Entdecktes
+Judenthum, torn, ii., p. 322 if.
+
+- St. Luke xvi. 26. ^ See Kur'an, Siu'a vii.
+
+
+172 THE TUAT AND AMENTET
+
+On the top of his head stands the goddess Nut, who supports with
+both hands the disk of the sun. From this we may conchide both
+that Osiris is the personification of the Tuat, and that the Tuat
+is a narrow circular valley Avhich begins where the sun sets in the
+west, and ends where he rises in the east. The Tuat was a terrible
+place by reason of the monsters and devils with which it was filled,
+and its horrors Avere increased by the entire absence of light from
+it, and the l3eings therein groped about in the darkness of deep
+night. That the Tuat should be a place of blackness and gloom
+is quite natural when once we have realized that it was the path
+of the dead sun between the sunset of one day and the sunrise of
+the following day. The ideas about this region, which we find
+reproduced in papyri of the New Empire, belong to different
+periods, and we can see that the Theban wi'iters who described it
+and drew pictures of the beings which lived in it, collected a mass
+of legends and myths from every great religious centre of Egypt,
+wishing to make them all form part of their doctrine concerning
+the great god of Thebes, Amen-Rri. As the j)riests of Heliopolis
+succeeded in promulgating their theological system throughout the
+length and breadth of Egypt by identifying the older gods with
+their gods, and by proving that their views included those of all
+the priesthoods of the great cities of Egypt, so the priests of
+Thebes endeavoured to convince the priests of other great cities
+of the superiority and greatness of their God Amen-Ra, and
+probably succeeded in so doing. The Theban writers and scribes
+knew perfectly well that originally every nome or great city
+possessed its OAvn underworld just as it possessed its own company
+of gods, and that each underworld was designated by a special
+name ; they, therefore, made the Tuat to include all these underworlds and all the various gods Avith whom they Avere peopled,
+and they gave it the most important of the names of the local
+the " hidden place," Avhich appears to have been originally the
+place where An-her, the local god of Abydos, ruled as god of the
+dead, under the title of " Khenti Amentet," that is to say, " he
+Avho is the chief of the unseen land." When the importance of
+An-her Avas eclipsed by the neAv-comer Osiris, the title of the former
+
+
+THE TUAT AND ITS INHAIUTANTS 173
+
+was assigned to Osiris, who, henceforth, was always called " Khenti
+Amentet." But this usurpation of An-her's title as god of the
+dead by Osiris must have taken place in very early times, for
+Amentet was a common name for the underworld throughout
+Egypt, and is found in texts of all periods, even in those of the
+Vth and Vlth Dynasties.
+
+Yet long before even this remote period the priesthoods of
+certain nomes or cities must have developed the idea that the life
+of a man resembled the course of the sun during the day, and that
+setting was to the sun Avhat death was to a man ; the sun, however, reappeared each morning in apparently a neAV body, and as
+man wished to live again in a renewed, or new, body, the Egyptian
+theologians set to work to form a system of theology in which the
+souls of the blessed dead, i.e., those who had been buried with all
+the ceremonies prescribed by the religion of the period, were made
+to accompany the sun in his boat as he passed through the portion
+of the Tuat which had been assigned to them. As the sun passed
+through the Tuat large numbers of souls made their way into his
+boat, and although it was only the dead sun that was their guide
+and protector, and his passage was through the realms of the dead
+which were under the sovereignty of Osiris, the god of the dead,
+they were brought forth at length to renewed life and light as
+soon as the boat passed out from the eastern end of the Tuat into
+the day. This view was a very popular and widespread one,
+especially as it made Ra and Osiris work together, each after his
+own method, to secure eternal life and happiness for the souls of
+the dead. As soon as the priests had made up their minds that
+the Tuat existed, they began to people it with imaginary beings
+which were supposed to be hostile to the souls of the dead, and to
+invent descriptions of the various regions into which they declared
+it was divided ; such descriptions were at length committed to
+writing, at first in a very simple form, and after the manner of
+every group of texts Avhich were composed for the benefit of the
+dead, but finally they became more elaborate, and attempts Avere
+made to represent pictorially the creatures which were found in
+the Tuat. In fact, it was intended to compile a book which should
+contain such accurate descriptions of the Tuat, and such true
+
+
+174 THE SHAT AM TUAT
+
+pictures of the foes which the dead soul would have to meet there,
+together with lists of their names, that when a soul was once
+provided with a copy of it he would find it impossible to lose his
+way, or to be overcome by any monster which attempted to bar
+his way or to prevent his access to the boat of Ra.
+
+The great work which the Egyptians called " Coming Fortli
+ra Ik o
+
+
+words of power, and prayers, and incantations, as well as hymns,
+but even in the Early Empire, about B.C. 3500, many of its
+doctrines were antiquated, and the priests found it necessary to
+add new chapters and to modify old ones in order to make it a
+funeral work suitable for the requirements of newer generations of
+men. Owing to the extreme antiquity of the " Book of Coming
+Forth by Day," the views expressed in many of its chapters were
+contrary to those held by Theban priests of the New Empire, about
+B.C. 1050, and as a result, whilst preserving, and holding in great
+reverence this work which they had borrowed from the ancient
+priesthood of Heliopolis, they compiled two works, which may be
+called "The Book of that which is in the Tuat," and the
+" Book of the Pylons." In the first of these, the Shat am Tuat,"
+
+
+by the Heliopolitan priesthood on the life of man's soul after death,
+and though it contained all the doctrines as to the supremacy of
+Ra, their great Sun-god, these were so skilfully manipulated by
+the Theban priests, that the compilation actually became a work
+which magnified the grade and influence of Amen-Ra, the great
+god of Thebes, and raised him to the position which the Thebans
+claimed for him, namely, "king of the gods, and lord of the
+thrones of the two lands." The thrones here referred to are not
+those of kings, but the shrines of all the gods on all the land on
+each side of the river Nile. In the Heliopolitan system of theology
+the god Osiris held a comparatively subordinate position in the
+"pauti or company of the gods, and was in fact only the greatest of
+the gods of the dead who were worshipped in the Delta ; in the
+" Book of that which is in the Underworld " he also holds a position
+subordinate to Ra, and his underworld is made to be a portion of
+
+
+THE BOOK OF THE PYLONS 175
+
+the Tuat through which the dead sun passed nightly. In the Shat
+
+
+Pylons," the greatest god of all is the god Osiris, and the whole
+work is devoted to a description of the various sections of the
+region over which he presides, and is intended to form a guide to
+it whereby the souls of the dead may be enabled to make their
+way through it successfully and in comfort. The Shat am Tuat
+and the Shat en sbau were, in fact, the outcome of two distinct
+schools of theology ; the latter, in its most primitive form, was the
+older of the two, and described the life of man after death more
+as a continuation of his existence on this earth than as an entirely
+new life, while the former made the future life to be passed entirely
+with the Sun-god. The latter maintained the views about the
+Elysian Fields and their material delights, which found utterance
+in the " Book of Coming Forth by Day," and was to all intents
+and purposes an amplification of, and a companion volume to it, but
+it also contained doctrines which were inserted in it with the view
+of making it harmonize with the theories in the former which
+related to the absolute supremacy of Ra. The Theban priests had
+no wish, when once they had established the mastery of Amen-Ra,
+but to bring all the doctrines of the various schools of religious
+thought into harmony with their own, for such a course could do
+nothing but contribute to the material prosperity of the great
+brotherhood of Amen-Ra. They were tolerably sure of the
+offerings of the faithful of Thebes, but they were anxious to
+obtain a share of those of the devotees of Osiris who flocked to
+Abydos, which was, rightly or wrongly, celebrated as the burialplace of the god. The history of Egypt shows that the fight
+between the kings of the South and the kings of the North for the
+supremacy of the whole country was always going on, but as the
+fortunes of war had given victory to the kings of the South, who
+were the lords of all Egypt under the New Empire, the priests of
+the god of these kings determined that Amen-Ra should be the
+king of the gods. Religious ambition was helped by the success
+of the great warrior kings of the XVIIIth Dynasty, and thus
+Amen-Ra became the overlord of Osiris.
+
+
+DIVISIONS OF THE UNDERWORLD
+
+
+Both the " Book of that which is in the Underworld " and the
+" Book of the Pylons " divide the Tuat into twelve parts, each of
+which corresponds to one of the hours of the night, and the
+divisions are called ^' Field," LjJjQ "^ , selcliet, or " City," , nut, or
+cxliv. of the Book of the Dead, according to the Papyrus of Nu
+(Brit. Mus.,No. 10,477), the Arrets are seven in number, and each
+is guarded by a doorkeeper, a watcher, and a herald with the
+following names : —
+
+
+Arret I. 1. Sekhet-hra-ilsht-aru,
+
+
+2. Semetu, P '^ ^ ^ ^ J • 3. Hu-kheru, rn
+
+
+Areet II. 1. Tun.pehti,^ ^ ^ |. 2. Seqet-hm.p ^ ^ f .
+
+
+3. Sabes,
+
+
+JP-
+
+
+Arret III. 1. Am-huat-ent-peh-fi
+2. Res-hra, (=
+
+
+A
+
+
+J ^ # J . 3. Uaau, ^
+
+
+2. Ptes - ab, (:=^ P J "^ • ^- ^eteqa - hra - khesef - atu,
+
+
+Arret V. 1. Ankh - em - fentu.
+
+
+f
+
+
+I I I
+
+
+Ashebii,
+
+
+ra
+
+
+rm
+
+
+O
+
+
+J ^ . 3. Teb - her - kehaat, -=^ J f
+
+
+Arret VI. 1. Aken-tau-k-ha-kheru,
+
+
+2. An-her,
+
+
+I
+
+
+D
+
+
+1 ra
+
+3. Metes-lira-ari-she,
+
+
+w
+
+
+s
+
+
+DIVISIONS OF THE UNDERWORLD
+
+
+Arret VII. 1. Metes-sen,
+
+
+3. Khesef-hra-khemiu
+
+
+2. Aa-kheru,
+
+
+In Chapter cxlv. of the Book of the Dead according to the
+Theban and Saite Recensions the domain of Osiris, i.e., Sekhet-
+
+
+Aarrn,
+
+
+V
+
+
+I I I
+
+
+or Sekhet-Aanre,
+
+
+.V
+
+
+I'M oUt ^U, contains Twenty-one pylons, each of which
+
+has a name, generally a very long one, and each of which is
+guarded by a god. The names of the gods who guard the first ten
+
+n|_^J|. 3. Ertat-Sebanqa, ^
+
+
+TCHET-F
+
+
+9. TCHESEF,
+
+
+. 8. Khu-
+Sekhen-ur,
+
+
+These names are taken from the Papyrus of
+
+Nu already quoted (sheet 25), but the following come from
+the Turin Papyrus, which was edited by Lepsius so far back as
+1842, and they illustrate the changes which have taken place in
+
+
+1 . 5. Erta-
+
+
+HEN-ER-REQAr,
+
+
+7. Am-Nit,
+
+
+A
+
+
+e
+
+
+6. Samti,
+
+
+w
+
+
+TCHET-F,
+
+
+9. Khau-
+
+
+The names of all the pylons are given in both the Theban and
+Sa'ite Recensions,^ but the names of the gods who guard pylons
+XL — XXI. are given in neither. The domain of Osiris, or Sekhet-
+Aarru, was, according to Chapters cxlix. and cl., divided into fifteen
+
+Aats, which are thus enumerated : — Aat ( ) I. Sekhet Aarru ;
+
+^ See my Chapters of Coming Forth by Day (Text), p. 334 S.
+
+
+178 DIVISIONS OF SEKHET-AARRU
+
+its ffod was Ra-Heru-khuti. Aat II. Apt-ent-khet, %J
+
+
+. A
+
+
+god in it is Fa-jDet, ^/ • Aat VIII. Apt-ent-qahu, ^_
+
+
+i.e., the Nile. Aat XIII. Atru-she- en-nesert-f-em-shet,
+
+wherein the gods live upon cakes and ale.
+
+In connexion with these various divisions of the realm of
+Osiris here will follow naturally a brief description of the Book
+OF Pylons. An excellent copy of its text, with illustrations, is to
+be found on the famous alabaster sarcophagus ^ of Seti I., now
+preserved in Sir John Soane's Museum in Lincoln's Inn Fields,
+and variants of several of the passages are given on the walls of
+the tombs of several kings of the XXth Dynasty, Avho were buried
+in the Valley of the Tombs of the Kings at Thebes. Curiously
+enough, the work, as M. Jequier has remarked,^ seems never to
+have become popular, and copies of it are only found in royal
+tombs ; it is generally admitted that it represents an attempt on
+
+1 See Bonomi and Shai'pe, The alabaster Sarcopliagus of Oimenepldah I., King
+of Egypt, London, 1864.
+
+3 Le Livre de ce qu'il y a dans VHades, Paris, 1894, p. 13.
+
+
+DIVISIONS OF THE TUAT
+
+
+the part of the Theban priests to adjust the cult of Ra to that of
+Osiris, and if this be so there is little to wonder at if it failed.
+According to the Book of Pylons the Tuat is a long, narrow
+valley, with sandy slopes, and is divided into two equal strips by
+the river on which the boat of the sun sails ; it is made to contain
+
+
+The First Hour of the Night.
+
+twelve nomes or divisions, which correspond to the twelve hours
+of the night.
+
+In the First Division, i.e., the First Hour, we have the
+its lowest part is a path which forms the entrance from this world
+to the Tuat. On the right-hand side is a jackal-headed standard,
+
+
+180 FIRST DIVISION OF THE THAT
+
+"^ , and on the left a ram-headed standard, V f ^ach of these is
+
+adored by the god of the mountain, Set, '=^ , and the god of the
+
+
+mountain, and on the left the twelve gods of Set-Amentet,
+
+j I I J| I ^ (1 ^/w^A^. In the centre is the boat of the sun, and we
+
+see in it a disk containing a beetle ; the disk is encircled by a
+huge serpent in folds, which holds its tail in its mouth. In the
+bows of the boat stands the god Sa, ^mi, and in the stern, Heka,
+m, the god of magical words. The boat, having moved on,
+approaches a pylon Avith closed doors, guarded by a huge serpent
+
+
+This pylon forms the entrance to the Second Division, or Second
+Hour, and when the god has passed through it " those who dwell in
+
+
+"their Set, ^ i , cry out."^ On the right are twenty-four human
+
+
+O ^ "^"^ g^jjj ^i;^Q directed their words of power ao;ainst the archfiend Apep, '^"^ ^iM^. In the centre is the boat of the sun, in
+which the god stands in a shrine ; he is ram-headed, and holds in
+his hand a sceptre. The shrine is protected by the serpent
+Mehen, °^ , and a serpent stands upright on its tail before him ;
+the boat is being towed along by four beings of the Tuat,
+)ic VN cr^] J| I , and is met by the seven gods called Nepmeli, □ ,
+iStafF. On the left hand of the divine boat ai'e : — (1) The god Tem,
+leaning on a staff, /^, (2) four dead men lying on their backs,
+
+and twenty men standing with their arms tied together behind
+their backs. These last are, according to M. Lefebure's rendering^
+of the text, " the criminals in Ra's great hall (the world), those
+" who have insulted Ra on the earth, those who have cursed that
+
+1 Bonomi and Sliarpe, op. cit., pU. 5 and 4.
+
+2 See Becords of the Past, vol. x., p. 85 ff.
+
+
+182 THIRD DIVISION OF THE TUAT
+
+" whicli is in the Egg, those who have frustrated justice, those who
+"have uttered blasphemies against Khuti." The pylon which the
+god now approaches is quite different from the first, but it
+resembles all the others which have to be passed through. The
+opening is protected like a fortress by some advanced work, and
+through the wall is an entrance to a corridor which runs between
+two walls crowned with a series of spear heads. This corridor
+bends at right angles, and in each angle is a uraeus, from the
+mouth of which drop balls of fire that fill the whole length of it ;
+at each end of the corridor is a god in the form of a mummy, one
+
+Sekhabsenfunen, ^ J ^ ™ ^ ZI- The pylon itself is called
+Septet-uauau, I ^-^-^(11, and the name of the snake
+The entrance to the pylon is also protected by nine gods, in
+mummied form, who represent the " Second Company " of the
+
+ffods, ^ 1 1 1 y
+
+
+The door of the pylon is opened towards the Third Division
+OF THE TuAT, or the Third Hour. The gate is called Septet
+UAUAu setet-sen-Ra, n ° ^ X^jQ n I n^ |1 ^wCvAA %^ Qji the
+
+right hand of the boat of the god are twelve holy gods of the Tuat,
+each in his shrine, with the doors open, and twelve gods of the
+lakes of fire ; a huge snake lies along the tops of all the shrines,
+and before each god of the basins of fire is an ear of corn. On the
+left hand are: — 1. The god Tem ; 2. the serpent xipep ; o. the
+nine gods who are called the " chiefs who drive back Apepi,"
+
+
+through this division by eight gods of the Tuat, and the middle of
+the rope is fastened to a long pole or beam, each end of which
+terminates in the head of a bull. This pole is supported by eight
+gods in mummied form, and upon it are seated seven gods ; in
+front and behind these stands a bull, and at the end of the
+division stand four shrouded mummy forms. The gods who are
+
+
+184 FOURTH DIVISION OF THE TUAT
+
+on the left hand of the boat of the sun, and are under the direction
+of Tern, form two companies, whose special duty it was to carryout the commands of this god in respect of the slaughter of the
+arch-fiend Apepi. This monster was first of all to be enchanted
+by the incantations which were recited over him, and then his
+head was to be cut off, and his body to be hacked in pieces at the
+joints. As the god passes out of the Third Division and the door
+closes, all the beings who are fated to remain in it lift up their
+voices and weep.
+
+The pylon of the Foukth Division or Fouhth Hour is called
+
+Nebt-s-tchefau, ^ "i^ i , and the name of the serpent which
+
+
+in mummied forms who stand one at the beginning and one at the
+end of the corridor are called ISFenuerbesta, , and
+
+
+the wall are the " the third company of the great god," ^ in i
+
+I 3 nK^ • . On the right side of the boat of the god are
+
+twelve gods, who are described as the "bringers of their doubles,"
+^ V AA.WW Lj 1 A^A^AA ^ and twelve jackal-headed figures, who are
+
+walking on the Lake of Life,^ and ten uraei, who rise out of the
+Lake of uraei ; ^ to all these the Sun-god addresses words of
+comfort, and they respond suitably. The uraei, Avho are called
+
+
+their flames and fire for use against the enemies of Ra, and they
+answer the god, saying, " Come to us, unite thyself to Tanen,"
+
+the god is Horus the Aged, who follows eleven human forms as
+
+
+which the god Osiris, wearing the crown of the South, stands upon
+a serpent. Behind Osiris are the twelve gods, ''who are behind
+the shrine," and four gods, who preside over pits in the earth,
+and the "prince of destruction," who holds a sceptre in his left
+
+
+186 FIFTH DIVISION OF THE TUAT
+
+hand and ■¥■ in his right. In the middle is the boat of the sun
+
+being towed along the river of the Tuat by four gods as usual, and
+it is made to approach a long low sepulchral building in which are
+nine chapels, each containing a mummied god lying flat on his
+back ; these are called " the gods who are in the train of Osiris in
+
+
+end of this building are two groups, each containing six women,
+who are the personifications of the twelve hours in the Tuat ;
+
+between them is the serpent Herert, | (=), with multitudinous
+
+coils and windings, and he is said to give birth to twelve young
+ones to devour the hours. In this division, as in the others, Ra
+addresses the beings who are in it, and makes arrangements for
+their supply of food, and reminds them of their duties to him their
+creator.
+
+The pylon of the Fifth Division or Fifth Hour is called
+
+Arit, (1 •(2)- (1(1 ^ • , and the serpent who guards it bears the name
+of Teka-hra, i^a "^ ; the jackal-headed mummy at one end of the
+
+corridor is Aau, □ '^i^ V:^ , and he at the other is Tekemi,
+
+
+forms who represent the fourth company of the gods. On the
+right hand of the boat of the god are : — 1. The twelve worshippers
+
+in the Tuat ; 2. Twelve bearers of cord, ^ %^ i O % § ^ ;
+
+and 3. Four gods Avith sceptres. These beings are said to be
+those who knew Ra upon earth, and who made offerings to him,
+and in return for this Ra awarded them meat and drink in the
+most holy place in Amentet, and said to them, "I am satisfied
+" with what you did for me, whether I was shining in the Eastern
+
+" heaven, or whether I was in the temple, M "^ , of my eye."
+
+Therefore they feed upon the food which Ra eats, and offerings are
+made to them upon earth on account of the praise which they
+ascribe to Ra in Amenti. The beings who carry the cords are
+
+
+and their cords are supposed to represent the cord of law, i.e.,
+
+
+»i»ia»eta»g»-MM
+
+
+liil
+
+
+S2
+
+
+iin)c
+
+
+iin)o
+
+
+anx)
+
+in)o
+
+
+188 FIFTH DIVISION OF THE TUAT
+
+the measuring cord by which law and justice are represented,
+and " Ra says to them, Their law is the cord in Amentet,"
+
+
+of the boat of the sun are: — 1. Horus the Elder leaning upon a
+and four are Libyans, | V '' ^- Twelve men, called "those
+
+A7ho bear ladders (?) in Ament, ^ "V ^ ' f ° ^ ° ^
+
+[1 , and who are holding a long serpent ; and 4. Eight
+
+divine sovereign chiefs in Ament. To these four classes of men,
+whom Horus describes as being in the Tuat of Egypt and the Red
+
+" tears from my Eye,"
+
+
+I
+
+
+k(c) ^ — VQi I , and the Negroes and the Libyans that he has
+addresses those who hold the ladder (?), and bids them take
+measurements of the souls that are appointed for destruction,
+and destroy the souls that have to be destroyed ; in the hands
+of these beings was the power of determining the length of the
+period which had to be passed by souls in Amentet, and it is
+undoubtedly passages like these which have given rise to the idea
+that the Egyptians believed in purgatory. In the centre of this
+Division the boat of the sun is being drawn along by four gods
+belonging to it as before. Before these are nine gods with projecting elbows and covered shoulders called " holders of Ennutchi,"
+
+rope ; these gods follow tAvelve men who are described as the
+"souls of the men who are in the Tuat," and both groups of
+beings proceed towards a god who holds a sceptre, and is called
+
+Her-qenbet-f, f=^ '^ 11 "^ '^-=— • The duty of this god was to
+
+/www (iU l_ I
+
+
+SIXTH DIVISION OF THE TUAT
+
+
+call the souls of the i4ghteous and put them in their dwellings,
+by the corner of those who lived near him. Ra, addresses the
+gods who tow his boat along, and bids them to pull with vigour,
+and to be strong of arm and firm of limb, and swift of foot, and
+bold of soul to make a prosperous way for him to the hidden
+shoulders who bear the serpent Ennutchi, ^
+and bids them to draw him along ; and
+then praises those who have spoken truth,
+
+magnified
+
+
+the forms of God,
+
+
+I I I
+
+
+(S
+
+
+upon earth, and have
+
+
+1 I I, and decrees for
+
+them cakes for their souls, wind for their
+uostrils, green herbs from Sekhet-Aaru,
+and a place among the gods of right and
+truth, S^ "^ Jj , in the corner of the abode
+of Ra where the companions of the god
+pass sentences of doom. The doctrine here
+preached is essentially that of Osiris, and
+there is no wonder that the Book of Pylons
+was not popular with the priests of Amen.
+
+The name of the pylon of the Sixth
+Division ^ or the Sixth Hour is Nebt-aha,
+
+? ^ , the guardian at the entrance to
+
+
+the corridor is Maa-ab,
+
+
+"Right of
+
+
+heart," and he who is at the end is Sheta-ab,
+
+
+" Secret Heart."
+
+
+guarded
+
+
+The wall is
+
+by twelve gods in mummied
+forms, who are called " the gods and
+" goddesses who are in this Pylon," | | |
+
+
+©
+
+
+Behind the wall is a chamber, the wall of which
+
+
+has upon it a row of spear heads, and inside we see the god Osiris
+
+^ The scene of the Sixth Division is so mutilated on the sarcophagus of Seti I.
+that it is not reproduced here.
+
+
+190 SIXTH DIVISION OF THE TUAT
+
+seated upon the top of a flight of nine steps, on each of which
+stands a god ; thus the whole company of the gods of Osiris are
+here represented. Osiris wears a double crown, Vi , and holds in
+
+his hands the sceptre, j, and the emblem of "life." Before him
+
+stands a mummied figure who forms the pillar of a pair of scales,
+and who may be regarded as the personification of the Great
+Balance with which we are familiar in the Judgment Scene as
+Near the scales is a boat in which are an ape and a pig ; the ape
+is urging the pig along with a stick. In the upper part of the
+scene are the heads of four oryxes and a figure of the god Anubis.
+The difficult texts which accompany this scene tell us that the
+" enemies of Osiris are beneath his feet, the gods and the spirits
+" are before him ; he is the foe of the damned, he repulses the
+" enemies, and he destroys them, and eftects their slaughter.
+" The bearer of the hatchet, and the supporter of the scales
+" protect him who is in Amenti, who resteth in the Tuat, and who
+" passeth through darkness and shadow. Above is Joy, and below
+
+" are Right and Truth ( J . The god resteth and giveth forth
+
+"the light of Maat which he hath made." The ape in the boat is
+said to hand over the pig to punishment " when the god riseth,"
+and Anubis says, " 0 ye who bring words true or false to me
+" [remember] that it is Thoth who weigheth them." Concerning
+Osiris we read, " When the weighing of words taketh place he
+" smiteth evil ; he hath a right heart, and he holdeth the words in
+" the Scales in the holy place wherein the trial of the secret things
+" of the secrets of the spirits taketh place. It is the god who riseth
+" who hath made all the beings who are in the Tuat." The text
+which relates to the four inverted heads of oryxes is not clear in
+its meaning, but it says that their dwelling-place is the Amehet,
+a district in the Elysian Fields, and that they hide or protect
+the spirits. We must note in passing the position of the Sixth
+Division of the Tuat. Assuming that the Tuat was regarded as
+a nearly circular valley which curved round from the West, where
+the sun set, to the North, and curved round from the North to the
+East, where the sun rose, it follows if all the twelve divisions of
+
+
+SEVENTH DIVISION OF THE TUAT 191
+
+the Tuat be equal in length, that the Sixth Division Avould be verynear the most northerly part of the Tuat. And this is exactly
+where it was intended to be, for the most northerly part of the
+Tuat would include the greater pai't of the Delta, where the
+principal shrines of Osiris, i.e., Mendes and Busiris, were situated,
+and it was ouly right to make the position of the kingdom of
+Osiris on earth to correspond with that of his domain in the Tuat.
+Unlike the other divisions of the Tuat, the Sixth Division contains
+no representation of the god Ra, and the texts belonging to it do
+not even mention his name ; the Book of Pylons made Osiris
+absolutely supreme in his own dominions, and the exclusion of Ril,
+or Amen-Ra, from them was clearly the cause which made the
+work unpopular with all the worshippers of the great god of
+Thebes. The position of Osiris on the top of a flight of steps
+explains the allusions to the "god who is on his staircase" in
+the Book of the Dead, and it proves that it is this god
+who is represented on the wooden plaque of Semti,^ and before
+whom the king is dancing. The Sun-god Ra, having arrived
+at the north of the Tuat, must now make his way towards the
+East.
+
+The serpent who guards the pylon of the Seventh Division
+or the Seventh Hour ^ is called Akhan-maati, ^-=. , and the
+
+but the mutilated state of the scene renders it impossible to give
+the name of the pylon or of the guardian of the entrance to the
+corridor. On the right side of the boat of the god are a number
+of beings bearing a rope, which is usually made to resemble a
+serpent, and on the left side are : — 1 . A god bending over a staff ;
+
+■ 111 mil t rt I _ 1
+
+his name is Men-sheta, • , " Stablisher of what is secret."
+
+2. A number of mummied forms extended on couches, who are
+described as the " mighty spirits." These beings are commanded
+by Ra to uncover themselves and to drive away darkness. In the
+centre is the boat of the Sun-god being towed along, presumably
+
+^ See British Museum, No. 32,650.
+
+^ The scene of the Seventh Division is so mutilated on the sarcophagus of
+Seti I. that it is not reproduced here.
+
+
+192 EIGHTH DIVISION OF THE TUAT
+
+by four gods of the Tuat as before. Marching in front of those
+Avho tow the boat are twelve gods with sceptres, and four
+mummied forms who cry out to the inhabitants of this Division
+of the Tuat to praise Ra, for he will weigh words and will destroy
+their enemy.
+
+The pylon of the Eighth Division or the Eighth Hour is
+
+called Bekhkhi, j J (1 (1 1 1 cnn , and the name of the snake-god,
+
+
+"^5 and the guardian
+at its end is Hept-ta, | ^ '^i^ . The wall is protected by nine
+
+2:ods in mummied forms, ^ 1 1 1 c^ . On the riorht side of the boat of
+
+the god are : — 1. Twelve beings in human form, who are described
+as the " sovereign chiefs who give bread, Maat, and green herbs to
+
+
+-^ I , ■ AAAAAA H /^
+
+
+bearded human-headed hawks, with their hands raised in adoration ; these are the " souls of Ta-neserser," which are fed with
+bread and green herbs by the command of the god Ra. On the
+left hand side of the boat of Ra are : — 1. Horus leaning on a staff.
+2. Twelve men, who represent the enemies of Osiris that have
+been burnt in the fire, with their arms tied together behind their
+backs, each group of four in a different way. Opposite the first
+
+of these is a huge serpent called Kheti, ^® |1 , which belches forth
+
+a stream of fire into his face ; on the back of the serpent stand
+seven gods. The twelve beings are those on whom punishment
+has been inflicted by Horus at the command of Ra, who has
+decreed the death both of their bodies and of their souls because
+of what they did against Osiris, whose mysteries they despised,
+and whose image they tore from the sanctuary. The serpent
+Kheti, which is commanded by Horus to consume the foes of his
+father Osiris, is adjured to burn up both the souls and the bodies
+of these wicked ones. In the centre of this division are: — 1. The
+boat of the sun being towed by four gods as before. 2. "The
+dweller in Nu" leaning on a staff. 3. A rectangular lake in which
+
+
+194 NINTH DIVISION OF THE TUAT
+
+() D (](j ^ 1 , four swim, f^ J ()(] ^ | , and four dive, ^ "^ ^.T".-
+The gods who tow the boat say, " Let there be praise to the soul of
+" Ra in heaven, and adoration to his body upon earth ; for heaven
+" is made new by his soul, and earth is made new by his body.
+" Hail ! We open for thee heaven, we make straight for thee the
+" ways of Akert. Rest thyself, 0 Ra, upon thy hidden things ;
+" the hidden ones are adored in thy forms." He who dwelleth in
+Nu also addresses those who are in the lake.
+
+The pylon of the Ninth Division or Ninth Hour, is called
+
+Aat-shefsheft, o ■ ''^-=— ; the serpent which guards it is
+
+[1 AAAAAA 0 , and Ermen-ta, " . The wall is guarded by
+
+nine o-ods in mummied forms, ^ in ^ . On the right hand side of
+the boat of the Sun-god are : — 1. Four gods of the South, | ' i y?
+each wearing the white crown, and grasping a rope which is also
+held by a man who is called " the master of the front," v=
+
+
+between the man and these four gods is a pillar surmounted by a
+means of the rope. 2. A hawk-headed sphinx with the white
+crown on his head, and a bearded head, with a white crown on it,
+resting on his hind quarters. Standing on his back is a human
+figure which is surmounted by the heads of Horus and Set.
+
+
+and grasping a rope which is also held by a man who is called "the
+
+master of the back," f=^ ..^ ; between the man and these four gods
+
+is a pillar, surmounted by a bearded head with a red crown on it,
+which is being raised by means of the rope. 4. A personage called
+
+
+heads at each end of his body. 5. A personage holding the serpent
+
+
+stands a serpent which is called Tepi, ^ flfl ? and which is provided
+
+
+^mmmmuimmmmu
+
+
+mmmmmmam
+
+
+be
+
+
+196 TENTH DIVISION OF THE TUAT
+
+at each end of his body with four human heads, breasts, and arms,
+and four pairs of human legs. 6. Two men holding a rope (?).
+On the left hand of the boat of the god are : — Sixteen human
+forms Avhich represent the (a) souls of Amentet, (h) the followers of
+Thoth, (c) the followers of Horus, (d) the followers of Osiris ; the
+first four have the heads of men, the second four the heads of
+ibises, the third four the heads of hawks, and the fourth four the
+heads of rams. These sixteen beings draw a rope to which is
+attached a double serpent with four heads, two at each end of
+his body, and one pair of legs at each end which support the
+of his folds is perched the hawk Heru-tuati, 2^ ^ At the
+other end of the rope are eight human forms called Akhmiu,
+the god is being towed along as before. Before him march : —
+1. Six human forms, four apes, and four women, each holding a
+rope (?) ; and 2. Three men holding a ro^DC which is thrown over
+the head and held in the hands by a prostrate man Avho has the
+ears of an ass, and who is called Aai, (j "^ M , i.e., " Ass." Each
+man holds a pike which he is about to drive into the prostrate
+body. In front of the man are : — 1. The serpent Apep, and 2. The
+crocodile, with a tail which terminates in a serpent's head, called
+work magic for Ra on the arch-fiend Apep, and they bid him come
+to the place of slaughter that he may be slain ; they say, " the
+" slaughterino- places are against thee, and the Aai gods are
+
+The three beings with pikes drive their weapons into Apep, and
+destroy utterly the serpent Sesi, || U (1 Hm^ ; and they keep fast
+up towards the boat of the god.
+
+The pylon of the Tentpi Division or the Tenth Hour is called
+
+
+(»nutwt»ww)|mtiimmi j (^=;i
+
+
+tt»tuiitutu)iut»mumnu)m
+
+
+TiiinnRyimr
+
+
+198 TENTH DIVISION OF THE TUAT
+
+
+right hand of the boat of the god are: — 1. Four beings, each
+holding a knife and a rope (?). 2. Four beings, similarly armed,
+but each having four serpents' heads ; these are called Antiu,
+
+
+serpent Apep, "whose voice goeth round about in the Tuat,"
+
+held by a chain which is grasped by four beings, Stefiu, «=^
+
+
+and twelve gods, and a mighty hand called the "hidden body,"
+[1 : il. On the chain, near Apep's head, is stretched out
+the scorpion-goddess Serqet. Behind the hand, and growing out
+which is attached the serpent Uamemti, X] / 1 1- (b) Mest,
+
+At the end stands Khenti-Amenti, or Osiris. The beings on this
+side of the Tuat are engaged in destroying Apep and the foes of
+the sun-god so that they may not attack the boat of the sun when
+it comes to a narrow passage. On the left hand side of the boat
+
+
+hours. 3. Four gods with sceptres. Bant, J 'wwv, i ^ Seshsha,
+
+monkey on a standard, ^-^{t, with a star over his head, described as
+the "god of Rethenu" (Syria), | ^ . 5. An eye
+
+the middle of this division the boat of the o-od is towed as usual
+
+
+ft'
+
+
+2. Four deities, Sekhet, Abesh, ^ — a J cisz], Serq, , and
+
+Horus. 3. Three star gods, who tow a small boat in which are
+
+
+called Besi, J I [In, pouring flame upon a standard surmounted
+
+
+1
+
+
+i
+
+
+S
+
+
+^tui»imi»uummm»ut:
+
+
+200 ELEVENTH DIVISION OF THE TUAT
+
+by the head of a horned animal. 6. A serpent caled Ankhi,
+
+
+each side of its body. 7. Four women, with hands raised in
+
+adoration, who are called "the adorers," [^:£i (1 (1 c=S=, . 8. The
+
+double god Horus-Set, with two heads and two pairs of arms and
+hands on one body, standing upon a platform which rests on two
+bows ; from each end of the platform spring three uraei. All
+these beings are supposed to be employed in helping Ra to continue his course through the Tenth Division, and to make his way
+to the region of the sunrise ; it is evident that most of them are
+personifications of the stars which herald the approach of the
+
+The pylon of the Eleventh Division or the Eleventh Hour
+
+is called Shetat-besu, ^ ^ J 1 _^ i , and the serpent which
+
+
+the wall are two large scejDtres surmounted by the white crown ;
+one of these is called Sar, ^ , i.e., Osiris, and the other Horus.
+On the right hand of the boat of Ra are: — 1. Four gods, called
+
+right hands. 2. Four gods, called "bearers of stars," ^ ^ ^ ''
+holding stars in their right hands. 3. Four gods " who go out,"
+
+headed. 6. Eight women, the Hours, seated on coiled up serpents
+and each holding a star in her hand ; these are the " protecting
+
+
+All these are personifications of stars which bear along the boat of
+Ra towards the day-break, for they wish to see it floating once
+
+
+more on the bosom of Nut, ; and when "the arms of the
+
+
+ELEVENTH DIVISION OF THE TUAT 201
+
+" sky-god Nu receive Ra they shout praises with the stars which
+'' they carry, and go to him in the heights of heaven in the bosom
+of Nut."^ In connexion with the idea of the stars praising Ra
+at sunrise we may note its similarity to that expressed in Job
+xxxviii. 7, " When the morning stars sang together, and all the
+"sons of God shouted for joy." On the left of the boat of Ra
+
+are: — 1. Four beings, Setheniu-tep, s=i v) ^ i 7, wearing white
+
+' /www —21 u I I
+
+croAvns. 2. Four bearded gods called Akebiu, i.e., " wallers,"
+h -^n^ J Qfl ' • 3- ^our beings, Khnemiu, (^ ^= % 1 , wearing red
+crowns. 4. Four bearded gods called Renniu, ^AAAAA 0 (1 v ' •
+
+AAAAAA I I —11 I
+
+5. Twelve goddesses, the female counterparts of the first three
+groups of gods. 6. Four gods, with bowed bodies, and 7. The
+
+cat-headed goddess Mati, x U xv ' These beings were supposed to
+place white crowns on the heads of the gods in the train of Ra,
+and though their souls rose up, they were never able to leave this
+Division of the Tuat or pass out of the pylon. Their duty was to
+weep for Osiris after Ra had passed out of Ament,^ and to be with
+him, as far as their souls were concerned, but their bodies had to
+stay in their places ; they also had to raise up Maat and to stablish
+it in the shrine of Ra.^ It was they who " fixed the period of the
+" years which those who were decreed for the Tuat should pass
+" there, and the period of those who were to live in heaven ; " *
+but they " tore their hair in grief before the great god in Amentet,
+" for although they drove away Set from the pylon they themselves
+
+
+Sharpe, op. cit., pi. 10.
+
+
+4
+
+AAA/V^A
+
+
+AAAAAA /I tk I g
+
+
+-^ V AAAAAA ^Ov ! '-'
+
+
+202 ELEVENTH DIVISION OF THE TUAT
+
+" were not allowed to enter into the heights of heaven." ^ In the
+centre of this division we have the boat of Ra being drawn along
+by four of its gods as usual. Preceding these are : — 1. A group of
+a sceptre, [, in the left; the first four are jackal-headed. They
+are described as the " nine gods who annihilate Apep," ^ 1 1 1 ^ i
+chains which are called the "gods who produce winds," |Tj i -^C-^ JJ i.
+
+3. Four apes, (l aaaaaa ^ Jj i , each holding before him a large hand.
+
+4. The god of Amenti, ft, wearing the crown of the South.
+
+5. The goddess of the North, Herit (?), ^.(-^ (Ifl "^ r wearing the
+crown of the North. 6. The god Sebekhti, I J ^ "^ . These
+
+gods of the Tuat say, " [This is] the exit from Ament, and the
+" place for rest in the two divisions of Nu, and [the god] maketh
+" his transformations in the hands of Nu. This god doth not enter
+
+" heaven ( ^) , but he openeth the Tuat upwards in his trans-
+
+*' formations [which take place] in Nu. What openeth the Tuat
+" into heaven are the two hands of the god whose name is hidden.
+
+He existeth in the darkness which is a solid thing,
+
+|!|, and Ra cometh forth [in] it from the night,
+
+' )f ' . Those who are in this portion take their knives in
+III ^
+
+" their hands, and grasp their weapons, and smite Apep, and effect
+"his slaughter, and smash his joints which are in heaven. The
+" chains of this fiend are in the hands of the children of Horus,
+" they advance to the god with their fetters in their fingers. The
+" god counteth his members after the hidden one hath opened his
+" [arms] to the Eye of Horus. The Worm (| ^m^ i^'j who is
+
+" in this scene is fettered by the children of Horus." The other
+gods " acclaim Ka in the Eastern horizon of heaven, and the four
+
+
+i
+
+
+i»
+
+
+A I I I I I I I t I I U I AAA^wv a I
+
+I I I (=) I -J ^ U [Zm A/WVAA ^ A I I I P^=^
+
+
+aZ^ C:^ AAAAAA AAAAAA
+
+
+TWELFTH DIVISION OF THE TUAT
+
+
+" apes guide liim who created them, two on the right hand, and
+
+" two on the left, to the double dtert (u (^ nru nr^) of this god."
+
+The pylon of the Twelfth Division or Twelfth Hour is
+
+called Tesert-baiu, '^m') ^'^") " I^sd-Souls," and its serpent
+
+
+god is Sebi
+
+
+and Akhekhi,
+
+poles, each of which is surmounted
+by a bearded head ; on one head is
+the disk of the god Tem, and on the
+other the beetle of the god Khepera,
+i.e., two forms of the Sun-god. Close
+to the pylon " Red-Souls " was the
+pylon of the serpent god Reri,
+
+11(|, each side of which was
+
+guarded by the two uraei of Isis and
+Nephthys, one on each side. When
+Ra had passed through these doors he
+emerged triumphantly from the Tuat,
+and his boat floated on the waters of
+Nu, i.e., in the sky. In the scene in
+which this is depicted we see the boat
+containing the beetle of Khepera and
+the disk of Ra, with the five gods Seb,
+Shu, Hek (for Heka), Hu, and Sa, and
+the two goddesses Isis and Nephthys,
+and three gods of pylons. The god Nu,
+
+, is seen holding up the boat with
+
+hands, which " come forth from
+water, and bear up this god."
+
+
+the two guardians of the corridor are Pai,
+
+
+In front of the wall are two
+
+
+his
+the
+
+
+A little distance away from the boat is a sort of island which is
+formed by Osiris, the body of the god being bent round in such a
+way as to cause the tips of his toes to touch the back of his head ;
+the text says that it is Osiris himself who forms the encircling
+border of the Tuat. On the head of the god stands the goddess
+
+
+204 BOOK OF THE UNDERWORLD
+
+Nut, , with arms outstretched ready to receive E,a. Thus the
+
+god reaches the end of the Tuat and passes by an opening through
+its border, which is painted black, dotted everywhere Avith red
+spots. We have seen that Ra was omnipotent in all divisions of
+the underworld, except one, which was sacred to Osiris ; in this
+neitlier Efi nor his name appears.
+
+
+We may now pass on to the consideration of the contents of
+the "Book of that which is in the Underworld." The
+authorities for the text and viijnettes of this work are numerous/
+and from the copies of both which have come down to us it is
+
+1 See Sharpe, Egyptian Iii^criidioiis, 1st series, pll. 28-32 ; 2nd series, pU. 1-21 ;
+Pierret, Eecueil, torn, v., pp. 103 if; Lanzono, Domicile des Esprits, Paris, 1879;
+Birch, Papyrus of NasMem, London, 1863 ; Mariette, Papi/rns ^gyptiens, torn, ii.,
+Cairo, 1878.
+
+
+FIRST HOUR OF THE NIGHT 205
+
+clear that the book was one of considerable leno;th. But Ions;
+before the end of the XXIst Dynasty (about B.C. 1100) the
+Egyptians found it impossible to obtain or to pay for complete
+copies with all the vignettes, and a shortened form of it consequently came into general use. This shortened form, which is
+called an " Abrege " by M. Maspero, and a ''Resume" by M.
+Lefebure, was supposed to contain all that was absolutely necessary
+for the dead, and it became very popular throughout Egypt. In
+the tomb of Seti I.-^ we find a copy of the full text, with vignettes,
+of the first eleven hours, and also a copy of the " Abridgment."
+The space at our disposal will not admit of a detailed description
+of the longer work, and therefore a notice of the "Abridgment"
+only is given here. The complete work is entitled, " The beginning
+" of the horn of the West, the remote boundary of thick darkness,"
+
+the West" means the most westerly point where the sun sets, and
+kehu saimi, i.e., " thick darkness," or " solid darkness," refers to
+the extreme end of the Tuat, which is painted to resemble a black
+wall, dotted everywhere with red spots, and which contains an
+opening through which the boat of Ra emerges every morning.
+The shorter work is entitled "Abridgment of this book,"
+
+
+The EiRST Hour of the night is called Ushemet hatu khefti
+Ra,'^ i.e., " Crusher of the forehead of the enemies of Ra," and the
+place through which the god passes in it is described as an mi'it,
+(=) (1(1 , i.e., a hall, or a sort of ante-chamber of the Tuat. It
+is quite unlike any part of the Tuat, for when Ra is in this hall he
+
+1 See " Le Tombeau de Seti I"'," in Memoires de la Miss. Arch. Franqaise,
+Paris, 1886 ; First Hour, part iv., pll. 24-26 : Second Hour, part iv., pll 29-32 ;
+Third Hour, part iv., pll. 32-35 ; Fourth Hour, part i., pll. 23-25 ; Fifth Hour,
+part i., pll, 26-29 ; Sixth Hour, part iv. , pll. 39-42 ; Seventh Hour, part iv., pll. 43-46 ;
+Eighth Hour, part iv., pll. 47-49 ; Ninth Hour, part ii., pll. 15-18; Tenth Hour,
+part ii., pll. 19-22 ; Eleventh Hour, part ii., pll. 23-26 ; and see Maspero, Les
+Hypogees Boy mix de Thebes, p. 29.
+
+3 See the edition of the hieroglyphic text, with a French translation, by
+Jequier, op. cit., pp. 37 ff.
+
+
+BOOK OF THE UNDERWORLD
+
+
+has not yet arrived in that dismal valley. But even when here
+he is an entirely different being from what he was in the day-time,
+for instead of being the sun of day, he is the sun of night, i.e., a
+dead god, in fact a mere dead body Avhich is called Af, 1] ooo^ i-e.,
+" Flesh," and is represented with the head of a ram surmounted
+by a solar disk. In the day time he travelled in the Atet boat,
+
+
+The First Hour of the Night.
+
+^nJ, but at night he made his journey along the river of the
+Tuat in the Sektet boat, 1 ^ ^ (
+
+
+^4tl5 , in fact, in the same boat in
+which he sailed over the sky from noon to sunset. In the boat
+
+
+FIRST HOUR OF THE NIGHT 207
+
+
+celestial personage changed every hour, for she represented the
+local goddess of one hour who was supposed to be the appointed
+guide of the god through one portion of the Tuat only ; knowing
+the way through her own district, she was able to instruct the
+captain of the boat how and where to sail over difficult reaches of
+the river.
+
+The dwellers in the First Hour of the night appear to
+have been the apes who opened the doors of the drrit to the god,
+and the beings who were necessary for the singing of songs of
+praise to Ra, and for piloting his boat through this hall to the
+Tuat, and a large number of celestial beings who are mentioned in
+the text, but who are otherwise unknown, and the souls of the
+dead who had passed from the earth to this intermediate place and
+who were waiting for the opportunity of entering into the boat
+of Ra, wherein they would fain continue their journey. Why the
+last-named were here cannot be said, but it is probable that such
+souls belonged to men and women who, when living upon earth,
+were unable to avail themselves of all the costly and complicated
+ceremonies prescribed by the priests, and the numerous amulets
+which were thought to be necessary for the welfare of the soul in
+the Tuat. The descriptive text of the First Hour reads : — " This
+"god entereth from the earth into the drrit of the horizon of
+"the West, and he must travel one hundred and twenty dtru
+
+
+" country of the Tuat. Ra giveth fields to the gods who are in his
+" following, and he beginneth to pass decrees and to give commands
+" concerning the things which are done in the Tuat by the gods of
+" this country. Whosoever shall do these things according to this
+" similitude of the hidden things of the Tuat, and shall recognize
+" that they are similitudes of the great god himself, shall find them
+" of benefit to him on the earth, and they shall do him good in the
+" great Tuat." The fact that this region is called " country "
+shows that it was regarded almost as a part of this world, and it
+is definitely stated that it is 120 dtru in length; now, the dtric is
+
+
+208 BOOK OF THE UNDERWORLD
+
+said to be the equivalent of the Greek ct)(oivo%, i.e., about an
+English furlong, and thus the region of the sunset traversed by
+Ra in his first hour would be fifteen miles in length. It is probable,
+however, that 120 dtru were intended to be a greater distance
+than fifteen miles, for the second hour brought Ra into the domain
+of Osiris, which is more than fifteen miles from Thebes.
+
+The name of the Second Hour is Shesat maket neb-s, i.e.,
+" She who knoweth how to protect her lord." ^ The country
+
+
+Birch compared with, and believed to be equivalent to, the Greek
+
+ovpav6(; ; this name, however, seems to be that of the Nile in the
+
+second region of the Tuat, and in any case it is not applied to any
+
+other division or hour except by accident.^ The descriptive text
+
+says, "This great god next arriveth in Ur-nes, which is three
+
+' hundred and nine dtru in length, and one hundred and twenty
+
+' dtru in width (i.e., this division measures about 50 miles by 15
+
+' miles). The name of the gods who are in this country is ' Souls
+
+
+' name shall be with them. This great god will give to him fields,
+' the situation of which shall be in the country of Ur-nes ; he shall
+' stand up with the gods who stand up, and he shall follow after
+' this great god. He shall make his way through the Tuat, he
+' shall see the tresses of the gods who wear long flowing hair, he
+
+
+' and after the division of the unoccupied land hath been made,
+
+' he shall eat bread in the Boat of the Earth (% I] '^v UnS ),
+
+' and there shall be given to him of the first things of Tatuba
+
+
+of these Souls of the Tuat and make ofterings to them upon
+earth will gain benefit therefrom a million fold after death;
+moreover, it will be extremely useful to them in the Tuat if they
+know what words are addressed by the gods to the great god.
+
+
+)k
+
+
+2 See Jequier, op. cit. , p. 49, note 2.
+
+
+210 BOOK OF THE UNDERWORT.D
+
+The gods with long flowing hair are the four children of Horus,
+Mestha, Hapi, Tuamutef and Qebhsennuf, each of whom wore a
+lock or tress of hair, which became a pillar-sceptre, and supported
+one of the four corners of heaven ; these four gods became at a
+later period the gods of the cardinal points and the lords of the
+four quarters of heaven. The Eater of the Ass is, of course, the
+great serpent of darkness, probably Apepi, and the Ass is a form
+of the Sun-god, between whom and the serpent was continual war ;
+the Ass was connected with the Sun-god by reason of his great
+virile powers. According to M. Maspero,^ the Boat of the Earth
+is a name given to the Boat of Ra when it reaches the earth ;
+Tatuba was probably an earth god.
+
+The illustrated version of the Second Hour shows that the
+boat of Ra was preceded by four boats. The first of these had a
+human head on each end, and on its side were the picture of
+a pedestal, and behind it is the god who sets up the feather of
+Maat. This is the boat of Osiris as the Moon, who is one of
+the Souls of the Tuat. The second boat has a ]mman head surhuge sistrum, the emblem of Hathor ; on each side of it is a
+ooddess. In the bows is a beetle, S. This is the boat of Isis as
+
+Hathor, who is one of the Souls of the Tuat. The third boat has
+the white crown at the bows, and the red crown at the stern ; in
+it, between the two standards, which are the symbols of the gods
+Anpu (Anubis) and Apuat, is a huge lizard,' out of the back of
+which spring a human head and the Avhite crown. This is the
+boat of the god who opens the ways, and who is one of the Souls
+of the Tuat. The fourth boat has a uraeus at the bows and
+stern. In the centre is a kneeling woman Avithout arms, and
+on each side of her stands a woman also armless ; at each end of
+
+the boat is a plant, or shrub. This is the boat of Nepr, □ | J] ,
+the god of grain and of vegetation, and a form of Osiris, and he is
+also one of the Souls of the Tuat. The "^ods who minister to
+
+
+^ Les llypogecs, p. 46.
+
+
+SECOND HOUR OF THE NIGHT 211
+
+
+goddesses, Mest-tcheses, |T| -^1 , Amam-mitu,
+
+
+Amet-tcheru, /=: ^ Vi. , Ament-nefert, (I /vaaaaa rv^-vn T (ci:=) , and
+Nit-tep- Ament, )/ ^ ^ (1 /ww^ . On the other side of the boat of
+
+
+a Jl Y , Nepen, D , Ar-ast-neter, (1 (=^ jj "^ T I , Amu-aa,
+
+Heru-khabit, ^. ^— J (](] ^ df)? Anubis, Osirisr=vi
+
+
+these gods worship the great god, and guide him on his way, and
+weep when he has left them ; some of them bear to him the
+prayers of those who are upon earth, and also lead disembodied
+souls to the forms which belong to them ; others apparently
+mark the seasons of the year. When Ra addressed the beings
+there, they came to life at the sound of his voice, and they breathed
+
+
+212 BOOK OF THE UNDERWORLD
+
+again ; he gave them food in abundance, and the gods gave water
+to the spirits to drink at his command, and the hearts of the rebels
+of Ra were burnt in the fire. It is, however, clear from the
+texts that although Osiris was the Lord of the Second Hour Ra
+was the overlord of Osiris, and that it was he who, like Osiris, made
+gifts to the dead. On the other hand, the followers of Osiris had
+to perform service for Ra, and one of their chief duties consisted in
+keeping in check his enemies, who were always attempting to
+prevent the progress of his boat ; in a way the service of these
+followers was unrewarded, for they were condemned to remain
+always in the same place, and to perform the same duty.
+
+From the above paragraph the reader will gain some idea of
+the difference between the illustrated version of the Second Hour
+and the abstract of it which is found in the '' Abridgment." As
+the short version makes no attempt to supply the souls which were
+supposed to make use of it Avith the names of the various gods and
+beings in it, we can only assume that they learnt them when on
+earth in the body. The larger version of the Second Hour is
+extremely interesting in showing Avhat a subordinate place the
+priests of Amen-Ra made Osiris occupy in respect of Ra when
+passing through the Tuat.
+
+The descriptive text of the Third Hour, which is called
+Tent-baiu,^ says : — " This great god next arrives in the Country
+
+
+' the Stream of Osiris ( aaaaaa H j] I, a space three hundred and
+"nine dtru long,^ and one hundred and twenty dtru wide (i.e.,
+"this portion of the Tuat measured about SS^ miles long by 15
+"miles wide). This great god giveth commands to the gods who
+" are in the following of Osiris concerning this city, and he assigns
+" to them estates from this country. The name of the gods who
+"knoweth their name shall ascend to the place where Osiris is,
+
+~ A variant given by Jcquier gives 480 dtru as the lengtl), i.e., about sixty
+miles.
+
+
+•214 BOOK OF THE UNDERWORLD
+
+"and Avater shall be given unto him for ihis Field. The name
+
+
+"^ AAAAA^ 1^ i — 1
+
+'^ Hidden Souls together with a representation of the hidden
+" things of the Tuat — beginning the same from the West — it shall
+"be of great benefit not only to him upon earth, but in the Under-
+" world, and indeed always. Whosoever knoweth them shall pass
+" [unhurt] by them as they roar, and shall not fall into their
+" cauldrons. Whosoever knoweth these things, being attached to
+"his place, shall have his bread with Ra. Whosoever, being a
+" soul and a spirit, knoweth these things shall have the mastery
+" over his legs, and he shall never enter into the place of destruc-
+" tion, and he shall come forth in his forms and smell the air at his
+" appointed hour." The illustrated version of the Third Hour
+represents the boat of Ra sailing over the "Stream of Osiris"
+preceded by three boats, each of which is moved onwards by two
+men with paddles ; the beings in these boats are all forms of the
+god Osiris, and the gods who stand on each side of the stream
+belong to his cycle, or company. These latter had their bodies of
+flesh, to which their shadows had been re-united, and their souls
+talked in them, as soon as Ra had spoken to them ; they made
+answer to the god, and sang his praise whilst he was with them,
+but their cries of joy changed to lamentations when he left them.
+They could not go with him, because it was their duty to guard
+their district, and to destroy the enemies of Ra, and to support the
+life of Ra, and to make the Nile to flow.
+
+Amons; the o-ods in this Hour were the nine forms of the o-od
+
+i ftltll? Osiris the Throne, I] jl^-!!; Osiris, conqueror of
+Osiris-Sahu, Jj 1_1- The duties of the beings who are grouped
+with these are clear from their names, for these refer to destruction
+
+
+THIRD HOUR OF THE NIGHT 215
+
+in one form or another, and the explanatory text tells us that they
+are employed in "hacking and cutting souls, in shutting up the
+" shadows of the dead, and in dragging the occupants of tombs to
+" their place of slaughter ; " moreover, they shoot out flames, they
+cause fires to come into being, and the heads of the enemies of Ra
+are cut off by their swords. The master of the region traversed
+
+in the Third Hour is called Khatra, ^ [1 , and we learn from the
+
+speech of Ra that the inhabitants of the mythological district over
+which he presides were created by Ra specially to follow and to
+protect Osiris. To these he says, " 0 ye whom I have hidden,
+whose souls I have put in a secret place, Avhom I have set in the
+following of Osiris to defend him ; to accompany his images, to
+make an end of those who attack him (even as the god Hu is
+behind thee, 0 Osiris, to defend thee, to accompany thy images,
+to destroy those who attack thee, even as Hu is to thee, 0 Osiris,
+and even as Sa is to thee, 0 Khenti Amentet), ye souls whose
+forms are stablished, ye souls whose magical powers make
+certain your coming into being, who breathe the air [through
+your nostrils, who look] with your faces, who listen with your
+ears, who are apparelled in your raiment, who are clothed with
+your swathings, who have ofl^erings made to you at stated seasons
+by the priests of God, who have estates set apart for your own
+behoof and benefit, whose souls are not cast down, whose bodies
+are not overthrown : [0 Hidden Souls, I say] open ye your
+circles, and set ye yourselves in your own places, for I have
+come to see my bodies, and to look upon the similitudes of myself
+which are in the Tuat, and it is you who have brought me along
+and have given me the opportunity of coming to them. And
+now I lead thy soul to heaven, 0 Osiris, and thy soul to earth, 0
+Khenti Aukert, with thy gods behind thee, and thy spirits before
+thee, and thy being and thy forms [about thee]. And thy spirit
+hath its word of power, 0 Osiris, and you, ye spirits who are in
+the following of Osiris, have your Avords of power. I go up on
+the earth and the day is behind me ; I pass through the night,
+and my soul rejoins itself to your forms during the day, and I
+fulfil the ceremonies of the night which are needful for you. I
+
+
+216 BOOK OF THE UNDERWORLD
+
+" have created your souls for mine own use, so that they may be
+" behind me, and what I have done for them will preserve you
+" from falling down to the place of destruction." ^
+
+The Fourth Hour of the night, which is called Sekhemus,"
+conducts the boat of the Sun-god through a region of a very
+different character froin the earlier divisions. The descriptive text
+says, " The majesty of this great god next arriveth in the hidden
+" Circle of Amentet, and he performeth the designs of the gods
+"who are therein by means of his voice without seeing them.
+
+
+"and the name of the pylon of this Circle is Ament-sthau
+
+
+" hidden pylons which are in the Land of Seker, he who is on his
+" sand shall eat the bread which hath been prepared for the mouth
+" of the living gods who are in the temple of Tem. He who
+"knoweth these things shall [know] the paths rightly, and shall
+"have power to journey along the roads of Re-stau, and to see
+"the forms (or guides) in the Ammehet." The Circle Ammehet
+is, as we learn from Chapter cxlix of the Book of the Dead, the
+Sixth Aat, or district of the domain of Osiris which is presided
+over by the god Seker ; the deceased addresses it thus :— " Hail,
+"thou Ammeliet which art holy unto the gods, and art hidden
+" for the spirits, and art baleful unto the dead ; the name of the
+" god who dwelleth in thee is Sekher-At (?) [or Sekher-remu].
+" Homage to thee, 0 Ammehet, I have come to see the gods who
+" dwell in thee. Uncover your faces and put off your head-dresses
+" when ye meet me, for, behold, I am a mighty god among you,
+" and I have come to prejDare provisions for you. Let not Sekher-
+" At (?) have dominion over me, let not the divine slaughterers
+
+1 See Maspero, Les Hiqjogees, p. 64.
+
+
+FOURTH HOUR OF THE NIGHT
+
+
+" come after me, let not the murderous fiends come after me, but
+" let me live upon sepulchral offerings among you." ^
+
+The illustrated edition of the Fourth Hour shows us the boat
+of Ra passing through an entirely new country, in fact a region
+
+
+Avhich is filled with huge and fearsome snakes, and represents the
+region over which the god Seker presides. Here there is no river
+with banks lined with the gods and the souls of the dead, and here
+
+
+See my Chapters of Coming Forth hy Day (Translation), p. 267.
+
+
+218 BOOK OF THE UNDERAVORLD
+
+there are no fields to be distributed by Ra among the faithful
+followers of himself and of Osiris ; indeed there are so few beings
+to render him service that he is obliged to betake himself to
+another kind of boat, and the god of day is compelled to glide
+through the passages of the dark and gloomy land almost without
+a following of gods. Ra stands within a shrine in his boat as
+before, but the boat itself is formed of a serpent with a head at
+each end of his body ; this boat is hauled over the sandy ground of
+the god " who is upon his sand " by gods of the company of Osiris,
+with whom, however, are mingled the gods of the company of Ptali
+of Memphis, and Osiris himself is merged in Seker and becomes
+Osiris Seker. The narrow way, or road, of Re-stau has three doors,
+
+
+AAAAAA Q 0
+
+
+part the god Ra neither enters nor travels, but the door thereof
+obeys his voice ; in another part is the body of Seker, who is on
+his sand, the hidden form which can be neither looked at nor seen ;
+another part is that through which Seker passeth, but neither the
+gods, nor the spirits, nor the dead go through it, and it is filled
+with the souls which have been consumed by the fire that comes
+forth from the mouth of the goddess Am-mit. The region through
+which the boat of Ra travels is full of thick darkness, and the light
+which the god usually emits is unable to penetrate it ; in this
+difficulty he is helped upon his way by the light of the flames of
+fire which issue from the mouth of the serpent which forms the
+body of his boat. Among the gods who march in front of the boat
+are Thoth and Horus, who stand facing each other with outstretched
+hands in which they hold an Utchat, '^J, which is here to be
+identified with the god Seker. The serpents which are passed by
+the god are of various kinds and of diiFerent sizes. The first,
+
+
+each end of which terminates in a human head, and is the
+guardian of Seker ; the second is three-headed, and he moves over
+the ground on four human legs and feet ; the third is called Amen,
+
+
+220 BOOK OF THE UNDERWORLD
+
+growing out of its body just above the tail ; and the fifth is
+
+
+AWAAA AftAAAA
+
+
+its back fourteen stars and fourteen human heads surmounted by
+disks. Next we have three huge serpents near the great scorpion
+
+Ankhet, -V- ^ , and a huge uraeus, to which Hbations are being
+
+poured out by a man ; and a three-headed serpent, with wings,
+which moves along on four human feet and legs ; and the serpent
+
+body, and one head at the other. All these monsters are said to
+make their journey daily round about tlie region of the Fourth
+Hour, and they live upon what they find on their way.
+
+The last hour, as we have seen, is a part of the dominions of
+Seker, but the Fifth Hour, which is called Semit-her-abt-uaa-s,^
+contains his capital city. The descriptive text says, "This great
+" god is drawn along over the actual roads of the Tuat, and over
+" the hidden Circle of Seker, the god who is on his sand, and he
+"neither seetli nor looketh upon the hidden figure of the land
+" which containeth the flesh of this god. The gods who are with
+" this god hear the voice of Ra-Heru (?), and they adore him at
+" the seasons of this god. The name of the pylon of this city is
+
+" Aha-neteru, a f a | " ' and the name of this Circle is
+
+" Ament, (1 . [Here are] the secret ways of Anient, and
+
+" the doors of the house of Ament, and the habitable house
+"( JMK— »— in of the earth of Seker, and his flesh, and his
+" members, and his body, in their primeval forms. The name of
+" those who are in this Circle is ' Baiu amu Tuat ' (i.e.. Souls in the
+" Tuat). The forms who are in their hours and their hidden beings
+" neither see nor look upon this form of Seker himself. Whosoever
+" maketh a picture of these things which are in Ament in the Tuat,
+" to the south of the hidden house, and whosoever knoweth these
+"things, his soul shall be at peace, and he shall be satisfied
+
+
+222 BOOK OF THE UNDERWORLD
+
+
+"not hack his. body in pieces, and he shall go to her in peace.
+" Whosoever shall make offerings to these gods upon earth shall
+" [find] them of benefit to him in the Tuat."
+
+The illustrated version of the Fifth Hour shows us Ra
+travelling in his serpent boat and being towed along by seven gods
+and seven goddesses, who represent the gods of fourteen days of
+the month ; before these are the divine sovereign chiefs, i.e.,
+and H etch-met ? II . Half way through the hour Ra comes to a
+mound of sand, the top of which is surmounted by the head of a
+woman, whereon rests the forepart of a beetle, only one half of
+which is visible, symbol of the god Khepera ; this head indicates
+the position of the hidden abode wherein is Seker, and when the
+beetle alights upon it the god Khepera holds converse with that
+god. Immediately beneath the head is the " Land of Seker,"
+which has the shape'czzD, and is described as the " hidden land of
+" Seker which guardeth the hidden flesh ; " it is surrounded by a
+wall of sand, and at each end, outside the wall, is a sphinx with
+the head of a man and the body of a lion. Inside this land is
+a two-headed, winged serpent, with a tail which terminates in a
+human head ; between the wings stands a figure of the hawkheaded god Seker ; this serpent monster represents the god
+watching over his own image. The two sphinxes are Avatched by
+
+
+the first serpent enters into the presence of this god, and carries
+to him daily the offerings which are made by the living, but the
+second never leaves his place, and lives upon the flames which
+proceed from his own mouth. Before the second serpent are four
+seated gods, who bear on their knees the emblems of "hidden
+
+_-Zl /VywXA
+
+this lake its waters are like fire, and each of the heads of the four
+gods v.'-hich rise above them bears upon it the symbol of fire. The
+lake is watched over by the company of gods of Ra, represented
+
+
+FIFTH HOUR OF THE NIGHT
+
+
+by nine axes, and five gods. But before Ra has jD^ssed through
+the Fifth Hour he arrives at a large vaulted chamber, filled with
+
+
+its claws, is a hawk ; from the lower part of it goes forth the
+
+
+224 BOOK OF THE UNDERWORLD
+
+beetle, only one half of which is visible. This beetle, or Khepera,
+typified the germ of life, and when the boat of Ra was drawn on
+to the top of the mound of sand already described, it Avas supposed
+to stop on it as it passed, and having done so, it went to the dead
+god and raised him up to life. This chamber Avas guarded by a
+
+
+jealously watched in order to prevent the entrance of any one who
+would disturb or destroy the germ of life. A little beyond the
+chamber of sand is a group of seven gods, whose duty it was to
+inspect the slaughter of the dead in the Tuat, and to consume
+their bodies by the flames of their mouths in the course of each
+day; and a little further on is the goddess who "lives upon the
+blood of the dead," and who is occupied in slaying a man doomed
+to die by the gods. When the boat of Rri arrived at the end of
+the Fifth Hour he saw the star of the " living god, who journeyeth,
+
+and following him M. Maspero, and others, have identified this
+star with the planet Venus, the star of the morning, and the
+identification is undoubtedly correct. This is an important fact,
+for, as M. Jequier has pointed out,^ coupled with the representation of the beetle going forth from the night to 23lace itself in the
+boat of Ra, it shows us that the domain of Seker, although reduced
+to two hours which have been inserted in their proper geographical
+position in the Tuat, certainly at one time formed a complete hell,
+and that the rising of the sun was the final event which took place
+in it.
+
+The Sixth Hour, which is called Mesperit-arat-maatu,^
+brings us to the neighbourhood of the shrines of Osiris in the
+Delta. The descriptive text says, " When this great god arriveth
+" at the abyss of water, which is the lady of the gods of the Tuat,
+" he holdeth discourse with the gods who are there, and he giveth
+" the command for them to obtain the mastery over their oiFerings
+) in this city. He saileth in this [Field] being
+
+
+I I r
+
+
+' Le Livre de ce qn'il y a dans I'Hades, p. 7C).
+
+
+THE PITS OF THE TUAT
+
+
+" provided with his boat, and he commandeth them [to have] their
+"fields for their offerings, and he giveth them water for their
+" streams as they go about the Tuat each day. The name of the
+
+
+). The
+
+
+"pylon of this city is Sept-metu ( ° A ^
+
+" hidden path of Amentet, on the stream of whicli this great god
+Q
+
+
+226 THE SIXTH HOUR
+
+' journeyeth in his boat to perform the affairs of the gods of the
+" Tuat, and the collecting of their names, and the manner in which
+" their forms rest, and all that appertaineth to their hidden hours,
+" and the hidden similitude of the Tuat, are unknown .... The
+" majesty of this god uttereth words, and he giveth divine offerings
+" to the gods who are in the Tuat, and he standeth near them ;
+" they see him, and they have the mastery over their fields and
+''over the gifts which are made to them, and they have their
+"beings through the command which this great god, who is
+" mighty of words, giveth unto them. The name of this district
+
+
+third paragraph of the text promises to those who make pictures
+of the Sixth Hour a participation in the offerings which have
+been made to the gods in the train of Osiris, and also that
+offerings shall be made to them by their kinsfolk on earth.
+
+The illustrated edition of the Sixth Hour shows us that Ea
+has no longer any need of the boat which was made of the body of
+a serpent wherein he passed through the realm of Seker, and that
+he is once again in his old boat and sailing over the waters of the
+stream in the Tuat. In front of his boat are: — 1. Thoth, who is
+called Khenti-Tuat, and who is represented by a dog-headed god
+holding an ibis on his out-stretched right hand ; and 2. the goddess
+
+
+Ament-semu-set, [j /^ -^ ' ' ^ • Beyond these is a large
+house with sixteen divisions, in each of which is a god in mummied
+form; these represent the mansions of Osiris, and four contain
+kings of the South, four contain kings of the North, four contain
+Heteptiu, ^ ^ ^ i , and four contain Spirits. All these form the
+
+
+the body of which is bent round into an irregular oval in such a
+way that his tail almost touches one of his heads. Lying on his
+back within this oval is a god who is called 7Vfu, o:, i.e., "Flesh,"
+and as he is touching with his right hand the leg of a beetle which
+he holds on his head, we may assume that he represents the dead
+body of Khepera, and is the opposite of the Sun-god in his boat,
+who is called "Flesh of Ra," Iq, The sixteen gods mentioned
+
+
+228 THE SIXTH HOUR
+
+above are addressed by Ra, who commands them to be happy with
+their offerings, and to protect him, and to slay the serpent Apepi ;
+they hearken to his voice, and the text goes on to say that it is
+the voice of Ra which will make the god within the folds of the
+serpent Ash-hrau and the beetle upon his head to move. With
+these must be mentioned the double company of the gods of Osiris,
+one company being de|)icted in human form sitting on invisible
+thrones; these are: — Hetep-Henti-Tuat, ^, Ast-amhit, ji
+
+
+names are not given. The second company of nine gods is represented by nine sceptres, each of which has a knife fixed at its base,
+^==)^ I ; the first three are surmounted by the white crowns, Q ,
+
+of Ra, each of which is protected by a serpent god standing upon
+its tail and emitting fire from its mouth. The first house is called
+
+Het-tua-Ra O [J ^ , and has for its symbol "3^, and the sign ^SSii ;
+
+the left hand side of the boat of the Sun-god are two gods
+whose names are wanting, Alii, (] |^ UQ? Netch-atef, °^ | u "^ ,
+Ankh-hra, ^'^, Met-lira, | '^ (Sept-hra ^'^p), Netch-pautti,
+
+
+back the heads of the four Children of Horus, Mestha, Hapi,
+
+
+230 THE SEVENTH HOUR
+
+Tuamutef, and Qebhsennuf. The duty of this serpent is to devour
+the shadows and the spirits of the enemies of Ra, who are overthrown in the Tuat. The monster is followed by the four earthly
+
+
+of these gods consisted in destroying the enemies of Khepera,
+and in cutting up their shadows; they lived in Nu and in the
+water of Ta-thenen, and Khepera by means of his magical power
+daily made them to breathe through the word of Ra.
+
+The Seventh Houe, which is called Khesef-haa-heseq-Neha-
+HRA,^ takes us into the region of the Tuat which contains the
+hidden abode of the god Osiris. The descriptive text says,
+" When the majesty of this great god arriveth in the hidden abode
+" (Tephet ^ | "^ ) of Osiris, he addresseth to the gods who are
+" there [suitable] words. This god maketh to himself other forms
+"for this hidden abode, so that he may turn back the way for
+"Apep by means of the magical words of Isis, and the magical
+
+" words of Ser, 1^ 3 . The name of the pylon of this city through
+" Avhich the god journeyeth is ' Gate of Osiris ' ((:) ^ ^ IJ j] ^) '
+
+"and the name of the city is Tephet-shetat ((-, 8^ ^ J.
+
+" This great god passeth over the hidden way of Amentet in his
+" boat which is endowed with magical powers, and he journeyeth
+" over it when there is no stream in it, and when there are none to
+" tow him. He per forme th this by means of the words of power
+" of Isis and of Ser, and by means of the mighty words of power
+" which proceed from his own mouth, and in this region of the
+"Tuat he inflicteth with the knife wounds upon Apep, whose
+" place is in heaven." The man who shall make a picture of the
+things which are to the north of the hidden house of the Tuat shall
+find it of great benefit to him both in heaven and on earth ; and
+
+
+THE SEVENTH HOUR
+
+
+he who knows it shall be among the spirits near Ra, and he who
+recites the words of Isis and Ser shall repulse Apep in Amentet,
+and he shall have a place on the boat of Ra both in heaven and
+
+
+upon earth. The man who knows not this picture shall never be
+able to repulse the serpent Neha-hra.
+
+The text continues, " The shallows of the land of Neha-hra are
+
+
+232 THE SEVENTH HOUR
+
+"450 cubits long, and it is filled with his folds, but over one
+" portion thereof this great god joumeyeth not when he travelleth
+" to the hidden abode of Osiris, for he journey eth through this city
+" under the form of the god Mehen, (°^ iMi) • Neha-hra shall
+"never drink the water of him that knoweth this, and the
+" soul which knoweth it shall never be given over to the violence
+" of the gods who are in this Circle ; and the crocodile Ab-she
+
+" ( Q I "X (zszi) shall never eat the soul of him that knoweth it."
+
+From what is said above we see that the boat of Ra has arrived at
+a shallow place in the celestial stream where there is not enough
+water to float the boat, or even to allow it to be towed ; moreover,
+the serpent Neha-hra opposes the advance of the god. In this
+difficulty Isis, the great enchantress, enters the boat, and standing
+in the bows utters the words which make it proceed on its way.
+Neha-hra, as we see from the illustrated edition of the hour, is
+
+seized bv Serqet and Her-tesu-f, "^ ^""^ '^"==-? and held in
+
+bonds, and is transfixed to the ground by six knives ; thus Ra,
+with the serpent Mehen over him in the form of a canopy, moves
+on without let or hindrance. Behind the monster serpent stand
+four goddesses, each armed with a huge knife, whose duty it is to
+guard the tombs of the four forms of Osiris ; the names of the
+
+
+Nakith, ^ (] -^3^ (j () s= , and Hetemitet, | jj fjl) ^- Their duty
+
+was to drive away the enemies of Ra, and to hack in pieces with
+their awful knives the fiend Apep every day. The four tombs of
+Osiris are rectangular buildings, and inside each is a bed or small
+mound of sand Avhereunder lie the dead souls of the god, which are
+known by the names Tem, Khepera, Ra, and Osiris. At each end
+of each tomb is a human head, which is said to come forth from
+the tombs whenever it hears the voice of Ra, and after he has
+passed " they eat their own forms," i.e., the heads disappear from
+sight. It was, no doubt, a custom in predynastic times to slay
+slaves at the graves of kings and nobles, just as in many parts of
+the world it has been the custom to kill human beings and to lay
+their bodies beneath the foundations of buildings which were to
+
+
+THE SEVENTH HOUR
+
+
+234 THE SEVENTH HOUR
+
+be erected in order that the souls of the slaughtered might protect
+them and keep away evil spirits. The human heads on the tombs
+of Osiris probably represent a tradition that, when Osiris was
+buried, human sacrifices were offered at his tomb for this or
+for some similar purpose/ This view has been well discussed by
+M. Lefebure, who has done so much to illustrate the religious
+and funeral customs of the ancient Egyptians,^ and some allusion
+to it is probably made by Horapollo,^ who says that when they
+wanted to represent (jivXaKTtjpLou they were wont to draw two
+human heads, one male and the other female, that of the male
+looking inwards, and that of the female outwards. These heads
+would keep away the attack of any evil spirit, even if no inscription
+was placed with them.
+
+The other illustrations of this hour show us the god Af-Asar,
+
+(^(^(^(^(^(^(^ (1 ^.^ ^ J , i.e., ''Flesh of Osiris," seated under a
+
+canopy made by the body of a form of the serpent Mehen called
+
+
+behind him ; a little further behind is the god Shepes, —*— ,
+
+a form of Thoth. Before the god kneel three figures, whose heads
+have been cut off by a cat-headed god, and lying on the ground
+are three beings who have been fettered by the god Anku,
+
+
+been plucked out, and whose shadows have been hacked in pieces
+because they rebelled against the lord of the Tuat. Before these
+are three human-headed hawks wearing double crowns, and they
+represent the souls of the "living;" and on a serpent near is seated
+
+Tem." Among the other gods in this hour is "Horus on his
+throne," and before him are a company of gods who have been
+
+1 See Maspero, Les Hypogees, p. 104 ; Jequier, op. cit., p. 94,
+
+" Bites J^ayptiens, pp. 4 ff., 18 ff.
+
+^ ^vXaKTrjpiov 8k ypacf)eLV jioyXofxtvoi, Zvo Kc^aAas avdpioirwv t,(oypa(f)ov(n, Tr]V fxev
+icfyaxj/eTai, eTretSr/ kol ^wpis ypafxixaTOiV, k.t.X. Ilteroglyplnca, i. 24.
+
+
+THE EIGHTH HOUR
+
+
+joined to their stars, and the goddesses of the twelve hours.
+Facing these companies is the crocodile " Ab-sha-am-Tuat,"
+
+
+and of what is in it. When Ra passes by the crocodile, which is
+described as " Osiris, the Eye of Ra," this beast is fascinated and
+made helpless by the words so long as the god is speaking to him,
+and the dead Osiris, who is in the ground under the crocodile,
+puts up his head that he also may look at the Sun-god ; the
+
+
+The Seventh Hour of the Night.
+
+followers of Osiris also seize the opportunity of gazing upon Ra,
+and do so without risk of being devoured by the monster which
+is temporarily enchanted.
+
+The Eighth Houk, which is called Nebt Ushau,^ brings us
+into a very interesting division of the Tuat ; the name of its pylon
+
+
+238 THE CIRCLES OF THE TUAT
+
+
+city is Tebat-neteru-s, c^? 11 "J^ f 1 ,!,Il^- Ra passes through
+
+this division in his boat under the protection of Mehen, and its
+gods tow him at the command of this mighty snake ; he sees all
+the gods in their various Circles, and those " who are on their
+sand," and he addresses words to them. They come out of their
+secret abodes when the god passes by, and the doors thereof open
+of their own accord. In this Hour only gods and spirits who
+have been mummified and buried with appropriate rites are to
+be found, and, though dead, they quickly come to life again at
+the words of Ra, who exhorts them to put an end to all the
+enemies of his who are to be found in that region. The illustrated
+edition of the Hour shows us the boat of the god being towed
+along, and in front of it are nine large signs, the forms of which
+are based upon the hieroglyphic character n shesu or shemsuy i,e.,
+
+" follower " or " servant." From the top of seven of these is
+suspended a human head, which shows that we are actually
+dealing with beings who are in the following of Osiris, and before
+
+each is the hieroglyphic for " linen," JJ^. These nine remarkable
+
+objects represent beings who have been mummified in the manner
+prescribed by Horus, and who are suitably provided with funeral
+bandages ; they are described as beings whose whole life is in
+their heads, and when Ra calls to them by their names they immediately seize his enemies everywhere and cut off their heads
+with their knives. Before these are the four forms of the
+
+described as " form one," O, "form two," S^? "form three,"
+
+QQ^, and " form four," ^S^M- On each side of the way
+
+by which Ra journeys are five Circles.
+
+The door of the first Circle, Sesheta, is called Tes-neb-terer.
+
+
+and Shu ; Avlien Ra speaks to them they answer in a voice which
+resembles the hummins; of bees. The door of the second Circle,
+
+
+THE CIRCLES OF THE THAT
+
+
+Tuat, ^, is called Tes-aha-Ta-thenen,
+and shuts in the images of Tefnut, Seb, and Nut ; when Ra sjDeaks
+to them they answer in a voice Avhich resembles that of weeping
+women. The door of the third Circle, As-neteru, (] ^ p crz: | i ,
+is called Tes-khem-baiu,
+
+
+,^ , and shuts in the images
+
+of Osiris, Isis, and Horus ; when Ra speaks to them they answer
+in a voice which resembles that of men who moan. The door of
+
+
+The Eighth Hour of the Night.
+
+
+the fourth Circle, Aakebi, (jl
+em-thehen-neteru, '
+
+
+S J (1(1 "H^ , is called Tes-shetai^T , and shuts in the images
+
+
+is like that of bulls and men when they make lamentation. The
+
+— " ■ .^L_e III
+
+
+THE CIRCLES OF THE TUAT 241
+
+in the images of Khatri, ^ (](j, Affi, (] ^ M (©(«, and Aranbfi,
+
+
+which is like unto that of him that maketh suppHcation in terror.
+These five Circles are shut in by a door called Tes-khaibit-tuatiu,
+
+
+whose attributes are not yet all clearly defined ; when Ea speaks
+to them they answer in a voice which is like that of male cats when
+they mew. The door of the seventh Circle, Hetemet-khemiu,
+
+o
+
+
+I J A V. '^; when Ra speaks to them they answer in a voice which
+is like the roar of the living. The door of the eighth Circle,
+
+
+D
+
+
+speaks to them they answer in a voice which is like the shouts of
+war heard in the battle of Nu. The door of the ninth Circle,
+
+
+speaks to them they answer in a voice which is like that of the
+cry of the divine hawk of Horus. The door of the tenth
+
+
+Temtet, t^ ^ ,
+
+
+^ -"^ -21 AAAAAA All ■( ) _/ J I
+
+
+, Khebs-ta.
+
+
+242 THE NINTH HOUR
+
+who rest upon 1 1 ; when Ka speaks to them they answer in a
+voice which is like the twittering and chattering of water-fowl on
+a lake. The last five Circles are shut in by a door called Tes-am-
+
+
+The Ninth Hour, which is called Tdatet-maket-neb-s/
+brings us into a country which is called the "hidden Circle of
+
+" Amentet " ; the name of the city is Bes-aru, J — «— "^y^
+
+n (si- v^ IN I ^ J' and the name of its pylon is Sa-Akeb,
+
+
+JSr _M^ ^ lliiillll' ^
+
+*' Circle he addresseth from his boat the gods who are therein, and
+^' the sailors who are in his boat are content with this city." The
+man who shall make a copy of the scenes of this Hour, and shall
+know the names of the gods and their places in Amentet shall
+attain to a position in Amentet, and he shall stand up in the
+presence of the lord of affairs and shall enjoy the power of making
+
+what he says to come to pass with the divine assessors, J | p "^ 3 i ,
+
+on the day of reckoning up accounts by Per-aa (Pharaoh). The
+illustrated edition of this Hour shows us the boat of the god
+travelling on as before, and in front of it are twelve divine rowers,
+
+each with his paddle ; among these are Khenu, N^ „ , Akhemsek-f, (] ® ^ ^, Akhem-urt-f, [j e ^|^ ^, Akhem-hemi-f,
+
+
+The duty of these sailors is not only to row, but also to throw water
+with their paddles upon the spirits who stand on each bank of the
+river whereon the god sails, and they have to lead the soul of Ra
+to the place where he will reanimate the disk. Before these
+sailors, resting on baskets, are the three gods who give abundant
+
+
+244 THE NINTH HOUR
+
+l]TK ^ . On the right the boat of Ra passes twelve gods, each
+seated on j 1^ , and twelve goddesses ; these last are said to breathe
+after he has saluted them, and after they have heard his voice,
+and their duty is to utter words of power Avherewith they are
+to surround the hidden soul, and thereby to cause life and
+streno-th to rise up in Osiris. The names of these are : — Nehata
+
+-j:^ ^ ^, Teba, === J %. |, Ariti, ^ ^ (](|'^, Menkhet
+'^H, Hebs, y — T, Nebti, ^, Asti-neter, jj ^ c^ ^
+^ I , Temtu, c^ ^ ^ , Men-a, =^ ll _., Perit, ^
+
+
+Shemat-khu, ™ ^ '^ j , Nebt-shat, ^ -— a ^ ^ ^ , Nebt-shef-
+
+
+1 Av /Wy)^rsA
+
+
+'^ ^ ii ^ ' Sekhet-metu, ^ ^ | ^ |. Netert-en-khentet-Ra,
+
+"i (:^ AAA^ A/^ ^ O ^ Qj2 the left are twelve uraei, each of whom
+
+rests on I! 1 , and sends out fire through his mouth ; they are said
+to kindle the fire for the god who is in the Tuat with the fire
+which is in their mouths, and when the god has passed on his way
+they eat up the fire which they poured forth before Ra went
+by. The object of the fire was, of course, to show light on his
+path. Before these uraei come the nine gods of cultivation and of
+husbandry, who are under the direction of a god in mummified
+form ; these nine are the sekhtiu, jl^tlfl ^ ^ i , or " field-labourers,"
+
+and they perform all the works connected Avith the ploughing and
+watering of the fields.
+
+
+246 THE TENTH HOUR
+
+The Tenth Houe, which is called Tentit-uhesqet-khat-ab/
+brings Ra in his boat to the city called Metchet-qat-utebu,
+
+
+The boat of the sun travels on as before, but Ra again holds a
+serpent in his hand after the manner of a staff. Immediately in
+
+
+H— 1 I
+
+of his body ; on one head is the white crown, and on the other
+the red crown ; he has two pairs of human legs, one pair turned
+towards the right, and the other pair towards the left. His
+body is bent in the form of a pair of horns, and in the curve stands
+Khent-Heru, ^ p==^, in the form of a black hawk ; on the left is
+
+the goddess of the north, Neith, with her two bows, | |, and on
+
+the rio;ht is the sroddess Hert-ermen, . Next comes a boat
+
+containing the serpent Ankh-ta, and before it are three groups,
+each containing four gods. The gods of the first group have solar
+disks for heads, and are armed with arrows, and are called
+
+Tepthera, ^ n , Shesera, — «— (1 , Temau, (^ ^ , and Utu,
+
+v:^ cis^ v^. The gods of the second group carry each a javelin,
+
+
+bow, and are called Pesthi, , Shemerthi, ^ w , Thesu,
+
+
+as he goes towards the east, and they slay all his enemies who
+live in the darkness, and wreak special vengeance on the serpent
+Neha-hra ; they escort the god to the very limits of the Hour, and
+form part of his train in the eastern part of the sky. The name
+
+of the region traversed by Ra in this Hour is Akert, u ^ '^ '.
+
+As the boat of Ra passes the god sees the "living beetle," ■¥•,
+
+born in the presence of the god P-ankhi, n aaaw. M , and sees how he
+
+
+IPCn^-^?l)*
+
+
+w
+
+
+248 THE TENTH HOUR
+
+pushes before him his zone, . Next Ave have the two
+
+
+holding on their bent necks a solar disk ; and two seated personifications of the South and North ; and the two goddesses, Netheth,
+
+
+and the other the solar disk, which rests upon it, h . From the
+serpents go forth two goddesses, those of the East and West ; and
+the East and West also ; i.e., these goddesses are the souls of the
+serpents and of the axe, which come forth to look upon the Sungod, and as soon as he has passed they return into their material
+bodies.
+
+Next Ra sees eight ^ goddesses advancing to a seated dogtheir duty is to see that it is in good condition, and to take care of
+
+
+great god, was to wreck the bodies and scatter the swathings of
+the enemies of Ra. On his left hand Ra passed in his journey
+through this Hour Horus, and twelve beings who dive and swim
+and perform evolutions in tanks of water. These are said to
+beat the water in their attempts to recover their breath, and Ra
+calls upon them to fill themselves with the water of the celestial
+Nile, and promises that their members shall not suffer corruption,
+and that their bodies shall not perish ; he decrees that they shall
+
+1 I.e., Sekhet, V ^ , Menkert, (z^ , Huntheth, Q JL , Usit,
+
+
+and Themath,
+
+
+THE TENTH HOUR
+
+
+be masters of their own arms in their water because they are the
+denizens of Nu, and that their souls shall live. Beyond these are
+
+
+four goddesses, each with a serpent hanging down her back with
+its head above her own, and with them is a standard surmounted
+
+
+250 THE ELEVENTH HOUR
+
+by the head of Set, If. This god was the guardian of the Tenth
+
+Hour, and when Ra was about to pass from it into the eastern part
+of the sky, Set was believed to rouse himself and to make the
+journey with him. The four goddesses " who lived by their
+heads," shed light on the path of Ra.
+
+The Eleventh Hour, which is called Sebuit-nebt-uaa-
+KHESFET-SEBAU-EM-PERT-F,^ brings US to a city called Re-qerert-aptthe texts and the illustrations which accompany it was to enable
+the spirits of the dead to become participators with the gods, and
+to provide them witli such things as were necessary for their
+equipment both in heaven and upon earth. Ra stands as usual in
+his boat, but he has changed the serpent which he held in his hand
+
+as a sceptre for the ordinary sceptre, 1 , and on the bows of the
+boat we see a solar disk, surrounded by a serpent ; the name of this
+
+
+connected with some well-known star Avhicli rose heliacally at
+certain seasons of the year. The duty of the disk was to guide
+the boat of the great god along the paths which led to that part
+of the Tuat, at the end of the Eleventh Hour, where the darkness
+faded away ; the texts call the darkness at this point keku keskesu,
+
+
+filled the greater part of the Tuat. Before the boat of Ra are
+twelve gods, who carry upon their heads the serpent Mehen to the
+
+
+252 THE ELEVENTH HOUR
+
+
+Before these are : — 1. A uraeus wearing the crown of the North
+and a human head ; and, 2. A uraeus from the back of which
+emero^es the white crown, with a human head on each side of it.
+
+
+The first of these is called Sem-shet, '^ , and the second
+Sem-Nebt-het, "^]T; the human heads on the white crown onlycome forth when Ra is passing by, and when he has departed they
+disappear. Next we have figures of the four forms of the goddess
+Neith, two of them wearing the white crown, and two the red ;
+
+they are called Neith the fecundator, ^ , in allusion to the belief
+that this goddess begat herself, Neith of the red crown, ^ )/,
+
+Neith of the white crown, r), and Neith the child, ;
+
+these goddesses came into being as soon as they heard the voice of
+
+
+unknown, the unseen, the invisible, ^ ^ '^i-^- O O — fu. (=)
+
+This Circle of the Tuat through which the god travels to appear in
+the mountain of the sunrise contains many wonderful beings, and
+it is said to '' swallow always the forms therein in the presence of
+
+" the god who knoweth, ^ Jj, who is in this city, and afterwards
+
+" it giveth them for the births of those who are to come into being
+"on this earth." Among these are: — A god with the solar disk
+
+for a head ; from it project two human heads, one wearing )/, and
+
+the other Q. He is called Aper-hra-neb-tchetta, d "^ ^1 , and
+
+stands facing a god having two heads, but without crowns, whose
+name is Tepui, @@. In the space between we see a serpent
+provided with a pair of wings and four human legs and feet, facing
+
+the serpent Shetu, ^, upon the back of which is seated a
+
+god ; the heads of both serpents are among a number of stars.
+Standing by the side of the winged serpent, which is called
+
+
+stretched out in such a way as to keep the wings wide apart ; he
+has on his head a disk, and his neck is between the double iitchat,
+
+
+m
+
+
+254 THE ELEVENTH HOUR
+
+
+two heads is "he who stands, of p^ , by Ra," ^ and that he
+
+never leaves his place in the Tuat. The god who stands by the
+Avinged serpent is Temu, who springs out of the reptile's back
+when Rii addresses it; but as soon as the words cease Temu
+disappears into the serpent. The second serpent is the constellation Shetu, i.e., the Tortoise, and its soul appears in human
+form on its back as soon as Ra addresses it, but when the words
+have ceased like Temu it disappears into its body. The duty of
+Shetu was to ^' emit life for Ra every day."
+
+Before these march Khnemu and ten gods, five of whom have
+no arms ; from the neck of one of these project the heads of two
+serpents.^ From the descriptive text we learn that the souls of
+these gods lived on the hidden light of Ra ; that the breath of his
+mouth gave them life, and that their souls fed upon the provisions
+which were stored in his boat ; their chief duty was to be with and
+in attendance upon the god. Besides these gods we also have in
+this Hour four goddesses, each of whom sits upon the bodies of
+two uraei, which are bent upwards in such a way as to form a
+seat ; the heads of each pair of uraei are reared up in front of the
+knees of the goddess, who is sitting on their backs, and whose feet
+rest upon their necks. Each goddess has her right hand raised as
+if to hide her face, and with her left she grasps the body of one
+of the uraei. It is possible that the uraei are only four in number,
+and that they are two-headed ; the goddesses are called Nebtarms of these beings are on earth, and their feet in the thick
+
+^ M. Maspero speaks of him as the " agathodemon " of Ra.
+
+
+A/wysA
+
+
+kha-nef , a , Apt-taui, %J """ , Mer-en-aaui-f, o , Aunaauif,
+
+
+and Hepa, fi
+
+
+THE PITS OF THE TUAT 255
+
+darkness, and as long as tlie god is speaking to them they utter
+cries and acclaim him ; they never move from their places, and
+their souls live upon the voices of the uraei which go forth from
+their feet daily. When the shadows depart the winds which arise
+in the Tuat are diverted from the faces of the four goddesses by
+their hands, Avhicli they hold up. In this statement we seem to
+have an allusion to the keen, fresh wind of dawn with which all
+travellers in the desert are well acquainted, and which usually
+blows about one hour before sunrise.
+
+In the region on the left hand side of Ra we see how
+punishment is inflicted upon the enemies of Ra, and in it we have
+a country of blazing fire. At one end stands Horus with a disk,
+surrounded by a uraeus, upon his head, holding in his left hand a
+boomerang, one end of which terminates in the head of a serpent ;
+the idea here suggested is that the weapon held by the god is a
+real serpent, which when thrown at an enemy will suddenly attach
+itself to his body after the manner of the vicious uraeus. The
+right arm of Horus rests on a staff wherewith the god usually
+supports himself, and before him rears itself a huge serpent called
+
+
+^' Set of millions of years," ^ , the duty of which was to
+
+devour any of the enemies of Ra, i.e., the dead, who succeeded
+in making their escape from the fires of the country of the
+Eleventh Hour. In front of these were the five awful chambers,
+or pits in the sky, which were filled with the red-hot materials of
+blazing fires, and employed to consume the enemies of Ra.
+
+The first chamber or pit, Hatet, "w e^:^, was fiUed Avith the
+bodies of fiends who were dashing out their own brains with axes,
+
+belched fire into it through her mouth ; when the fire had done its
+work on the wretched creatures they were hacked to pieces by the
+hu2:e knife which she held in both her hands. The second
+chamber or pit was also filled with the bodies of fiends, and was
+
+
+who spat fire upon them and who was armed with a monster knife.
+
+
+256 THE ELEVENTH HOUR
+
+of the fiends, and was under the charge of a woman called Hertsimilarly armed. The fourth and fifth chambers, which were under
+the charge of similar women, called H ert-Nemmat-set, ^ [^ m '
+
+
+and heads, @®@, of the damned. Passing by these chambers we
+come to the " Valley of those who are cast down headlong,"
+four men are standing on their heads, 'ii'i'i; next to this are
+four goddesses of the desert, each of whom has upon her head
+the emblem of desert; their names are Pesi, (1(1, Rekhit,
+
+
+Her-sha-s, f=^ a—*-, and Sait, ^00^. Each
+
+
+I I I
+
+
+name has a meaning something like " fiery," and refers to the
+goddesses in their character of mistresses of the blazing desert.
+Finally, behind these comes the god Her-ut-f, p=q J^ , who
+
+was in some way connected with the embalming of the dead. The
+descriptive text which accompanies these scenes makes the great
+god Ra command " his father Osiris to hack in pieces the bodies of
+" the enemies and of the dead who are cast down headlong."
+
+Then, addressing the enemies themselves, he tells them that
+when his father Osiris hath smitten them for destruction, and hath
+cut in pieces their spirits and souls, and hath rent asunder their
+shadows, and hath cut off their heads in such a way that existence
+in the future will be impossible for them, they will be cast down
+headlong into burning furnaces from which there is neither escape
+nor deliverance, and Set the everlasting snake will drive his flames
+against them, and the Lady of furnaces, and the Lady of fiery pits,
+and the Lady of slaughtering blocks, and the Lady of swords, will
+drive against them the flames which come forth from their mouths,
+that they will hack them in pieces in such wise that the wretched
+beings will never again see those who live upon the earth. The
+slaughter of the enemies is ordered to be performed by Horus, the
+god of those who are in the Tuat, and it is curious to note that the
+
+
+THE TWELFTH HOUR 257
+
+gods his companions are said to live upon the voices of the enemies
+who are slain, and on the shrieks and cries of the souls and
+shadows which are cast down into the blazing, fiery pits.
+
+The Twelfth Hour, Maa-nefert-Ra,^ brings the god Ra into
+the Circle which is on the confines of thick darkness, and to a city
+
+called Khepert-kekui-khaat-mest, v^ i ^ i (f| "^ ,
+
+
+and Hehut, O y '^ rlj ? come into the Circle when he is born,
+and when he goeth forth from the Tuat and resteth in the Mantit,
+
+Ra journeys in his boat, as before, but the solar disk which was at
+the bows in the Eleventh Hour is no longer there, and its place is
+occupied by the beetle of Khepera, the forerunner of the rising
+sun.^ Twelve gods tow the boat, not over a river or over the
+back of a serpent or serpents, but completely through a serpent ; in
+front the tow-rope is held by the hands of twelve women. This
+serpent is called Ka-en-Ankh-neteru, IwLi ■¥• T , i.e., " the life
+of the gods," and the gods who draw Af, that is to say, Ra,
+through it are his " loyal servants," -^, I , Amhhiu. The boat
+enters the serpent at his tail in deep darkness, and passing
+through his body emerges through the mouth into the light of
+day ; the god in his boat enters the snake in the form of a dead,
+old Sun-god, and he comes forth not only alive, but made young
+again, and appears in the sky under the form of Khepera. The
+" loyal servants " of Ra are the souls of the blessed which have
+been so fortunate as to obtain admission into his boat ;„ they were
+his devout adorers when upon earth, and the reward which they
+
+
+I
+
+2 IJ fi )) : ^ word sometimes rendered by vulva, pubis, andflanJi
+^ See Lanzone, Domicile des Esprits, pi. v.
+
+
+258 THE TWELFTH HOUR
+
+obtain for their fidelity is renewed youth and a new birth upon
+the earth. What they are to do upon earth is not made clear, but
+it is evident that they cannot remain there for an indefinite
+period, for since their master needs to be re-born daily they also
+must need re-birth each day. It is doubtful, if we judge by some
+passages, if they came to the earth at all, and it is far more likely
+that their enjoyment consisted in journeying about at will through
+the sky and looking down from some portion of it upon the scenes
+of their old life than in making hurried visits to the earth daily.
+
+When the boat of Ra has passed through the serpent the
+twelve women or goddesses, mentioned above, take the rope from
+the gods and haul it on to the paths of the sky. The god is
+accompanied through the Twelfth Hour by: — 1. Twelve goddesses,
+each bearing a serpent on her head and shoulders, and 2. Twelve
+gods, or men, with their hands raised in adoration ; all these are
+on the right hand side. Each deity has a name, which is Avritten
+in front of his or her figure. The uraei of the goddesses are said
+to proceed from them, and the flames which drive away Apep
+come forth from their mouths. The goddesses travel with the
+god until he rises on this earth, but after this they return to their
+places. The duty of the twelve gods is to praise Ra. On the left
+
+of the boat we have the gods Nu, 000, Nuth, , Hehu,
+
+II v^, Hehut, II y^j these gods are "in their o^vn bodies,"
+
+
+this great god as he cometh forth to them in the eastern part of
+heaven daily. They live in their drrit, i.e., hall of the horizon,
+
+Next we have two human-headed gods, a bird-headed god called
+Nehui, ppi ^ IJiJ, a god with two birds heads called Ni, (j [j ,
+gods ; all these carry paddles on their right shoulders. The
+duty of the gods is to raise up, £=» "I , the disk of the sun daily,
+but the serjDent Nesmekhef slaughters the enemies of Ra ; they
+
+
+OSIRIS, GOVERNOR OF AMENTl 259
+
+Circle. Before these are ten gods, with hands raised in adoration/
+Avho are described as the kentiu, ^ ^ ^ g i , of the forms of
+Tw^"!^, and they say to him, "Live, thou Governor of thy
+" darkness ! Live, 0 thou who art great in all things ! Live, 0
+" thou Prince of Amentet, Osiris, thou Governor of those who are
+" in Amenti ! Mayest thou live, mayest thou live, 0 thou who
+" art Governor of the Tuat, the wind of Ra is to thy nostrils,
+" the breath of Khepera is with thee, thou livest and they live.
+" Hail, Osiris, lord of the living ones ; the gods who are with
+" Osiris are those who were with him at the first time," etc.
+
+The allusion here is to the death and burial of Osiris, when
+Horus carried out the arrangements which had to be made for the
+performance of the general ceremonies, and when every detail
+connected with mummification, etc., was thought out by the loving
+care of the son of Osiris. In the illustrated version of the Twelfth
+Hour, published by Signor Lanzone (tav. vii.), we have represented
+the semi-circular wall of thick darkness which forms the end of the
+Tuat and the division between it and this world. Against this
+wall, in the lower part of it, lies a mummied form, representing
+" Af " ; this is the object of the praises which the last two groups
+of gods lavish upon him. The descriptive text says concerning the
+mummy, " He who is in this picture in the hidden form of Horus of
+" thick darkness is the secret image which Shu makes to be under
+" Nut, and which cometh forth from Keb-ur on earth in this form."^
+
+
+U ^ J V' Sekhenu, ^ ^ , Ermenii, „ , Klienmi, ^ ^ , Bunau,
+^_fl, Aura, £;n ^ , Atliep, (J ^ , and Am , -[J-.
+
+
+260 THE SUN S NEW BIRTH
+
+In the middle of the wall of thick darkness is a red disk, from
+which proceeds a human head ; this is the " image of Shu,"
+"^)^ R , who extends his arms along the vaulted wall, and of
+whose body one part is in the Tuat and the other in this world.
+Immediately above the head of the god is the beetle of Khepera,
+
+here spelt ® Q, which makes its way into this world through the
+
+opening which the head and shoulders of Shu have made in the
+wall of thick darkness. Through this opening the boat of Ra also
+was enabled to pass into this world, and the god continued his
+journey with the help of the deities who towed him along ; there
+is no doubt about this because the tow-line is prolonged to the
+wall of thick darkness. As Af, the dead body of Ra, passes into
+our world, his new life begins, and for men and women the night
+passes away, and a new day is born.
+
+We have now traced the passage of the Sun-god through the
+
+Tuat as it was imagined by those who believed in the absolute
+
+supremacy of Osiris, and as it was described by the author of the
+
+Book of Pylons, and we have briefly passed through its divisions
+
+ag described in the Book of that which is in the Tuat,
+
+throughout which the absolute supremacy of Ra is maintained. It
+
+is now easy to see that these two works represent two opposite
+
+and conflicting theories as to the future life. The heaven of the
+
+devotees of Osiris was originally most materialistic, and the life
+
+which was led in it by the beatified was, to all intents and
+
+purposes, merely a continuation of the life led by men and women
+
+upon earth ; the heaven of the priests of Ra was of a more refined
+
+character, and it lacked the grosser characteristics of the dwellers
+
+in the Elysian Fields of Osiris. Some have argued from the facts
+
+about the Tuat given above that the Egyptians beheved in the
+
+existence of purgatory, and in the everlasting punishment of the
+
+wicked in a hell of fire, and in the reincarnation of souls, and in
+
+many other things which would presuppose the holding by them
+
+of doctrines which are commonly thought to be the products of
+
+the minds of modern nations ; but the facts do not support these
+
+beliefs. Whichever doctrine of the future life we take, whether
+
+that of Osiris or that of Ra, we find no room in it for a purgatory.
+
+
+DESTRUCTION OF THE WICKED 261
+
+In the Judgment which took place before Osiris only the righteous
+were permitted to enter into the Elysian Fields, and the wicked
+were destroyed immediately ; in other words, annihilation was the
+punishment for sin. The Egyptians believed largely in the
+efficacy of works, and in addition to the deeds of love and charity
+which they performed in all periods, strict care concerning the
+ceremonies of religion, worship, and of the funeral, and a proper
+respect and reverence for words of power, and amulets, and sacred
+writings, and figures were demanded from them by priests and
+religious teachers at all times. There was, of course, a large class
+of people who could not afford costly burials, and who were too
+poor to buy even cheap amulets, but they Avere not condemned in
+the Judgment because of their poverty ; on the contrary, they
+escaped annihilation and were admitted by Osiris into the first
+division of the Tuat, where, however, they were compelled to stay
+because they did not know the words of power which would enable
+them to continue their journey through the remaining divisions of
+the Underworld. But there was no punishment inflicted upon
+them because they had been both poor and ignorant in this world ;
+they merely remained in the place to which their religious qualifications enabled them to attain, and each evening, or each night,
+they were made glad by the sight of the great god Ra as he sailed
+through the Tuat in his boat, and they rejoiced in his daily visit.
+
+The beings in the Tuat of Osiris upon whom punishment was
+inflicted were the " enemies of Osiris," and these were usually the
+" enemies of Ra " ; but in no text is it said that the punishment
+which they had to endure there ever obliterated their guilt,
+whatever it might be, or that when the proper time had arrived
+they would be allowed to proceed into another division of the Tuat
+where their punishment would be lighter, or where they would
+undergo none at all. Though a man could earn happiness in the
+realm of Osiris or in that of Ra by his good works on earth, and
+by ceremonies performed at his funeral by duly qualified priests,
+and by the presence of copies of religious texts which were buried
+with him, there is no reason to think that when once his soul
+reached the Underworld it could ever better its position there
+either by suffering punishment or by the performance of good
+
+
+262 OFFERINGS TO THE DEAD
+
+works. The offerings made at the tombs of the dead were for the
+benefit of the ha or double, and perhaps for the animal soul which
+was at one time believed to exist in the human body, but neither
+the offerings nor the prayers which accompanied them seem to
+have been able to remove the spirits and souls of the dead from one
+division of the Tuat into another, or to modify the state or
+condition which had been decreed for them. Similarly, there is no
+evidence that prayers for the dead or offerings would ameliorate
+the condition of those who had successfully passed the ordeal of
+the Judgment, and had been sent by Osiris into one or other of the
+habitations of his kingdom.
+
+
+CHAPTER VI
+HELL AND THE DAMNED
+
+
+F we examine the doctrine concerning the future life according
+
+
+I to the priesthoods of Ra we find still less room for a purgatory in their theological system. According to this the souls of
+the dead assembled in Amentet, i.e., the "hidden" region, the
+Egyptian Hades, where they waited for the boat of Ra to pass by.
+When the god appeared those who had been his worshippers and
+adorers on earth, and who were fortunate enough to have secured
+the words of power which would enable them to enter the boat did
+so, and they made their journey with him through the Tuat.
+Under his protection they passed through all the dangers which
+threatened to destroy them, and continued their journey through
+the realms of Osiris and Seker, and at length appeared with Ra in
+the eastern horizon of heaven at daybreak. Once there they were
+able to wander about heaven at will, and they did so, presumably,
+until the time of sunset, when they rejoined the god in his boat,
+and again made the journey through the Tuat with him. Each
+division of the Tuat, apparently, contained a host of beings who
+wished to enter the boat of Ra, but could not do so, either for
+want of the necessary words of power, or because they had reached
+the place to which their qualifications entitled them ; these all,
+however, received great benefit from the nightly visit of Ra, and
+as he left each division to enter the next they were filled with
+great sorrow, and many of them ceased to exist until the following
+night, when they renewed their life for a brief period. Many
+divisions of the Tuat contained enemies of Ra, who were, of course,
+destroyed without mercy by the followers of the god ; but there is
+no reason whatsoever for the view that these enemies were the
+
+
+264 HELL AND THE DAMNED
+
+damned, or that they were doomed to eternal punishment. At the
+end of the Tuat was a region where certain goddesses presided over
+pits of fire and superintended the destruction of the bodies, and
+spirits, and shadows, and heads of numbers of such enemies, and
+it would seem, judging by the knives in their hands, that they
+hacked the bodies to pieces before they were burnt. But even
+these were not punished eternally, for as soon as the god had
+passed through their region the fires went out, and the mere fact
+that he was able to appear in the eastern sky proved that all his
+enemies were destroyed. Each night and morning Ra destroyed
+the hosts of enemies who attempted to bar his progress, for such
+enemies perished instantly by the flames which went forth from
+the divine beings whom he had created.
+
+Originally, too, such enemies were only the personifications of
+the powers of nature, such as twilight, darkness, night, gloom, the
+blackness of eclipses, fog, mist, vapour, rain, cloud, storm, wind,
+tempest, hurricane, and the like, which were destroyed daily by
+Ra and his fiery beams. Many, in fact the greater number of such
+personifications, were endowed by Egyptian artists with human
+forms, and the pictures of the scenes of their destruction by fire
+were supposed by many to represent the burning of the souls of
+the damned. The ignorant and the superstitious did not understand that the Sun-god slew and burned with fire the enemies of
+each night and morning during that same night and morning;
+each rising of the sun was the result of the annihilation of his
+foes of that day. It may be urged that these foes were always
+the same because they were always of the same kind, but the
+Egyptians did not think so, and they believed that a new host of
+foes appeared to attack Ra each night and morning. But even
+had they thought so, the punishment was only intermittent,
+and it was only renewed during that part of each night which
+immediately preceded the dawn, and during the interval between
+dawn and sunrise. The souls of the damned could have done
+nothing to hinder the progress of Ra, and the Egyptians never
+imagined that they did, but it is possible that in late dynastic
+times certain schools of theological thought in Egypt, being
+dissatisfied Avith and unconvinced of the accuracy of the theory of
+
+
+HELL AND THE DAMNED 265
+
+the annihilation of the wicked, assigned to evil souls dwellingplaces with the personifications of the powers of nature already-
+mentioned in the Tuat. The spears which pierced the enemies of
+Ra were the fiery rays of the sun, and the knives which hacked
+their bodies in pieces were his flames of fire ; and the lakes and
+pits of fire were suggested to the minds of the primitive Egyptians
+by the fiery splendour which filled the eastern heavens at sunrise.
+They certainly did not believe in everlasting punishment, and
+there is nothing in the texts which will support the view that they
+did ; in fact, the doctrines of purgatory and hell which were
+promulgated during the Middle Ages in Europe with such success
+find no equivalents in the ancient Egyptian religion. Apart from
+the general characteristics of their religion the Egyptians were
+too practical to entertain the idea of repeated destructions or
+consumings by fire of the same body, but had they done so we
+should certainly have found some texts which had been composed
+to avert such an awful doom. They mummified the bodies of
+their dead in the earliest times because they expected them to rise
+again, and they did so in later times because they believed that
+a spiritual body would grow out of them ; they never expected
+to obtain a second physical body in the Underworld, and therefore
+they took the greatest care to preserve, by means of magical
+ceremonies and words, the bodies in which they lived in as
+complete a form as possible. The destruction of the body involved
+the ruin of the ha, or double, and of the shadow, and of many of
+the mental and spiritual constituents of man ; and the Egyptians
+regarded the death of the body with such dismay that, fearing lest
+the spiritual body which sprang from it after death might be in
+danger of dying, they caused prayers to be composed for the
+purpose of averting from it the " second death " and the possibility
+of its dying a second time.
+
+We may see, however, that although the Egyptians had no
+hell for souls in the mediaeval acceptance of the term, their fiery
+pits, and fiends, and devils, and enemies of Ra formed the
+foundations of the hells of later peoples like the Hebrews, and
+even of the descendants of the Egyptians who became Christians
+i.e., the Copts. Many proofs of this fact may be found in Coptic
+
+
+266 OUTER DARKNESS
+
+literature as the following instances will show. In " Pistis
+Sophia," ^ we have the Virgin Mary asking Jesus, her Lord, to give
+her a description of " outer darkness," ^ and to tell her how manyplaces of punishment there are in it. Our Lord replies, " The
+" outer darkness is a great serpent, the tail of which is in its
+" mouth, and it is outside the whole world, and surroundeth the
+" whole world ; in it there are many places of punishment, and it
+" containeth twelve halls wherein severe punishment is inflicted.
+" In each hall is a governor, but the face of each governor difFereth
+" from that of his neighbour. The governor of the first hall hath
+" the face of a crocodile, with its tail in its mouth. From the
+" mouth of the serpent proceed all ice, and all dust, and all cold,
+*' and every kind of disease and sickness ; and the true name by
+" which they call him in his place is Enkhthonin. And the
+" governor of the second hall hath as his true face the face of a cat,
+" and they call him in his place Kharakhae. And the governor
+" of the third hall hath as his true face the face of a dog, and
+" they call him in his place Arkharokh. And the governor of the
+" fourth hall hath as his true face the face of a serpent, and they
+" call him in his place Akhrokhar. And the governor of the fifth
+" hall hath as his true face the face of a black ox,^ and they call
+" him in his place Markhour. And the governor of the sixth hall
+" hath as his true face the face of a goat, and they call him in his
+" place Lamkhamor. And the governor of the seventh hall hath
+" as his true face the face of a bear, and they call him as his true
+" name Lonkhar. And the governor of the eighth hall hath as
+" his true face the face of a vulture, and they call him in his place
+" Laraokh. And the governor of the ninth hall hath as his true
+" face the face of a basilisk, and they call him in his place
+" Arkheokh. And in the tenth hall there are many governors,
+" and there is there a serpent with seven heads, each head having
+" its [own] true face, and he who is over them all in his place they
+" call Xarmarokh. And in the eleventh hall there are many
+
+^ See Pistis Sophia. Opus Gnosticum Valentino atljucli cation, ed. Schwartze,
+Berlin, 1851.
+
+
+THE HELL OF THE GNOSTICS 267
+
+*' governors, and there are there seven heads, each of them having
+" as its true face the face of a cat, and the greatest of them, who is
+" over them, they call in his place Rhokhar. And in the twelfth
+" hall there are many great governors, and there are there seven
+" heads, each of them having as its true face the face of a dog, and
+" the greatest, who is over them, they call in his place Khremaor.
+" These twelve governors are in the serpent of outer darkness, and
+" each of them hath a name according to the hour, and each of
+" them changeth his face according to the hour." ^
+
+It is quite clear that in the above extract from the famous
+Gnostic work we have a series of chambers in the outer darkness
+which has been borrowed from the twelve divisions of the Egyptian
+Tuat already described, and the reader has only to compare the
+vignettes to Chapters cxliv. and cxlv. of the Booh of the Dead with
+the extract from " Pistis Sophia" to see how close the borrowing
+has been. An examination of another great Gnostic work,
+generally known as the "Book of leu,"^ proves that the Underworld of the Gnostics was nothing but a modified form of the
+Amentet or Amenti of the Egyptians, to which were added
+characteristics derived from the religious systems of the Hebrews
+and Greeks. The Gnostic rivers and seas of fire are nothing but
+equivalents of those mentioned in the Booh of the Bead, and the
+beings in Amenti, and Chaos, and Outer Darkness are derived, in
+respect of form, from ancient Egyptian models. The great dragon
+of Outer Darkness and his twelve halls, and their twelve guardians
+or governors who change their names and forms every hour are,
+after all, only modifications of the old Egyptian system of the
+Twelve Pylons or Twelve Hours which formed the Underworld-
+The seven-headed serpent of the Gnostic system has his prototype
+
+"the gods," and has "seven serpents on his seven necks,"
+
+
+[
+
+
+^ nil
+
+
+^ Pistis Sophia, Coptic text, p. 319 ff.
+
+^ See Schmidt, Gnostische Scliriften in Koiitisclier SpracJie, Leipzig, 1892.
+
+3 Teta, 1. 307.
+
+
+268 AMENTET AND THE TUAT
+
+had authority over seven archers, or seven bows, | ^ 1
+
+
+Of Amentet and the Tuat in general we find many traces in
+the martyrdoms of Coptic saints, but, as was to be expected, the
+writers have made the demons and the pits of fire of the Egyptian
+Underworld instruments of punishment for the souls of those who
+did not embrace Christianity when upon this earth. Thus the
+writer of the Martyrdom of George ^ of Cappadocia makes the saint
+to raise up from the dead a pagan called Boes, who had been dead
+two hundred years, and who told Dadianus, the governor, that he
+had been on earth a worshipper of the " stupid, dumb, deaf, and
+" blind Apollo," and that when he departed this life he went to
+live in " a place in the river of fire until such time as I went to
+" the place where the worm dieth not." According to another
+writer, Macarius of Antioch restored to life a man who had been
+dead for six hours, and who stated that his miseries during that
+short time had been greater than those which he had endured
+throughout all his life upon earth. He confessed that he had been
+a worshipper of idols, and then went on to say that when he was
+dying the fiends crowded upon him, and that these had the faces
+of serpents, lions, crocodiles, and, curiously enough, of bears.
+They tore his soul from his body with great violence, and fled
+with it to a great river of fire wherein they plunged it to a depth
+of four hundred cubits ; then they drew it out and set it before
+the Judge of Truth,^ who passed sentence upon it. After this was
+done they took it to a " place of darkness, wherein there was no
+" light whatsoever, and they cast it down into the cold where
+" there was gnashing of teeth. Here," said the wretched man, " I
+" saw the worm which never slumbereth, and his head was like
+" unto that of a crocodile. He was surrounded by serpents of
+" every kind which cast souls before him, and wlien his own mouth
+
+' Teta, 1. 306.
+
+• See my St. George of Cappadocia, p. 20.
+
+
+which is commonly rendei'ed by " law, right, ti'uth, true, just," and the like.
+
+
+RA AND APEP 269
+
+" was full he allowed the other creatures to eat ; in that place
+" they tore us to pieces, but we could not die. After that they
+" took me out of the place and carried me into Amenti, where I
+" was to stay for ever." ^ In another work ^ a nameless mummy is
+made to tell how before he died the avenging angels came about
+him with iron knives and pointed goads, which they thrust into
+his sides, and how other angels came and tore his soul from his
+body, and having tied it to the similitude of a black horse they
+carried it off to Amentet. Here he was tortured in a place filled
+with noxious reptiles, and having been cast into the outer darkness
+he saw a pit more than two hundred feet deep, which was filled
+with reptiles, each of which had seven heads, and had its body
+covered with objects like scorpions. In this place were several
+other terrible serpents, and to one of these, which had teeth like
+iron stakes, the poor soul was given to be devoured ; this monster
+crushed the soul for five days of each week, but on Saturday and
+Sunday it had respite. This last sentence seems to suggest that
+the serpent respected the Sabbath of the Jews and the Sunday of
+the Christians.
+
+In all these examples, and even in the words of Isaiah,
+who says (Ixvi. 24), '' their worm shall not die, neither shall
+" their fire be quenched," we have a direct allusion to the great
+serpent of the Egyptian Underworld, which was, in all periods
+of history, the terror of the worshippers of the Sun-god, and
+which was known by many names. The allies and companions
+of this serpent were serpents like itself, and to nearly every
+power which was hostile to the dead or the living the form of
+a snake or serpent was attributed. The type and symbol of all
+enmity to Ra, whether of a physical or moral character, was the
+arch-serpent Apep or Apepi, which attacked him daily, and was
+overcome daily. To this monster we have several allusions in the
+Boole of the Bead, but these do not adequately convey an idea of
+the terror with which he was regarded, at all events in the latter
+part of the dynastic period.
+
+^ Hyvemat, Les Actes des Martyrs de I'jSgypte, p. 56 f.
+
+^ Amelineau, Monuments pour servir a VHistoire de VEgypte Chretienne, p. 167.
+
+
+270 RA AND APEP
+
+From a papyrus preserved in the British Museum ^ we learn
+
+that a special service was in use in Upper Egypt for the purpose
+
+of destroying the power of Apepi and of making his attacks on the
+
+sun to have no effect. This service consisted of a series of chapters
+
+which were to be recited at certain times of the day during the
+
+performance of a number of curious ceremonies of a magical
+
+character. Thus one rubric orders that the name of Apepi shall
+
+be written in green colour upon a piece of new papyrus, and
+
+that a wax fiorure of the fiend shall be made and his name inlaid
+
+upon it with green colour. Both papyrus and wax figure were to
+
+be burnt in the fire, the belief being that as the wax figure melted
+
+and as the sheet of papyrus burnt, the fiend Apepi would also
+
+decay and fall to pieces. Whilst the wax figure was melting in
+
+the fire it was to be spit upon several times each hour, and when it
+
+was melted the refuse of it was to be mixed with dung and again
+
+burnt. It was imperative to do this at midnight, when Ra began
+
+his return journey in the Tuat, towards the east, and at dawn, and
+
+at noon, and at eventide, and in fact at any and every hour of the
+
+day. This might also be done with advantage whenever storm
+
+clouds appeared in the sky, or whenever the clouds gathered
+
+together for rain. The following extract will give an idea of the
+
+general import of the service for the destruction of Apepi. The
+
+deceased says : " Apepi hath fallen into the flame, a knife is stuck
+
+' into his head, his name no longer existeth upon this earth. It is
+
+' decreed for me to inflict blows upon him, I drive darts into his
+
+' bones, I destroy his soul in the course of every day, I sever his
+
+' vertebrae from his neck, cutting into his flesh with a knife and
+
+' stabbing through his skin. He is given over to the fire which
+
+' obtains the mastery over him in its name of ' Sekhet,' and it
+
+' hath power over him in its name of ' Eye burning the enemy.'
+
+' Darts are driven into his soul, his bones are burnt with fire, and
+
+' his limbs are placed therein. Horus, mighty of strength, hath
+
+' decreed that he shall come in front of the boat of Ra ; his fetter
+
+' of steel tieth him up and maketh his limbs so that they cannot
+
+' move ; Horus repulseth his moment of luck during his eclipse,
+
+' and he maketh him to vomit that which is inside him. Horus
+
+^ See Archaeologia, vol. lii.
+
+
+RA AND APEP 271
+
+" fettereth, bindeth, and tieth up, and Aker taketh away his
+" strength so that I may separate his flesh from his bones ; that I
+" may fetter his feet and cut off his two hands and arms ; that I
+" may shut up his mouth and lips, and break in his teeth ; that I
+" may cut out his tongue from his throat, and carry away his
+" words ; that I may block up his two eyes, and carry off his ears ;
+" that I may tear out his heart from its seat and throne ; and that
+" I may make him so that he existeth not. May his name never
+" exist, and may what is born to him never live ; may he never
+" exist, and may his kinsfolk never exist ; may he never exist, and
+" may his relatives never exist ; may he never exist, and may his
+" heir never exist ; may his offspring never grow to maturity ;
+" may his seed never be established ; moreover, may his soul, and
+" body, and spirit, and shade, and words of power, and his bones,
+" and his skin, never more exist."
+
+The Rubric runs : " This Chapter is to be said over a figure
+" of Apepi, inscribed upon new papyrus with green ink, and
+" placed inside a covering on which his name hath been written,
+" and thou shalt tie these round tightly with cord, and put such a
+" figure and covering into the fire every day. Thou shalt stamp
+" upon it and defile it with thy left foot, and thou shalt spit upon
+" it four times during the course of every day, and when thou
+" hast placed it upon the fire thou shalt say, ' Ra triumpheth over
+'' ' thee, Apepi, and Horus triumpheth over his enemies, and P-aa
+" ' (i.e., the deceased) triumpheth over his enemies.' Next thou
+" shalt write down the names of all the male and female devils of
+" which thy heart is afraid, the names of all the enemies of P-aa,
+" in death, and in life, and the names of their father, mother, and
+" children, [and place the papyrus] inside the covering, together
+" with a wax figure of Apepi. These shall then be placed in the
+" fire in the name of Apepi, and shall be burnt when Ra riseth in
+" the morning ; this thou shalt repeat at noon and at evening
+" when Ra setteth in the land of life, whilst there is light at the
+" foot of the mountain. Over each figure of Apepi thou shalt recite
+" the above chapter, in very truth, for the doing of this shall be
+" of great benefit [for thee] upon earth and in the Underworld." ^
+
+^ On the Hieratic Papyrus of Nesi-Arnsu, p. 52 (Arcliaeologia, vol. Hi.).
+
+
+272 SERPENTS AND SNAKES
+
+To destroy the fiends which were associated with Apepi it
+was necessary to make figures of them in wax, and having
+inscribed their names upon them to tie them round with black
+hair, and then to cast them on the ground, and kick them with the
+left foot, and pierce them with a stone spear. To obtain the full
+benefit of all the names of Apepi a man had to make the figure of
+a serpent with his tail in his mouth, and having stuck a knife in
+its back, and cast it down upon the ground, to say, " Apep, Fiend,
+"Betet." The faithful follower of Ra is also bidden to "make
+" another serpent with the face of a cat, and with a knife stuck in
+" his back, and call it Hemhem. Make another with the face of
+" a crocodile, and with a knife stuck in his back, and call it
+" Hauna-aru-her-hea ; make another with the face of a duck,
+" and with a knife stuck in his back, and call it Aluti. Make
+" another with the face of a white cat, and with a knife stuck in
+" his back, and tie it up and bind it tightly, and call it ' Apep
+" the Enemy.' " The papyrus which contains these interesting
+passages was written about B.C. 312-311, though the compositions
+in it are very much older, but it shows that, even at that period,
+when the Macedonians had begun to reign over Egypt, and Greek
+influence was making itself supreme in the country, the old beliefs
+still held sway over the minds of the Egyptians. In^fact, in this
+matter as in nearly all others, they clung most tenaciously to the
+views and opinions of their forefathers.
+
+The primitive Egyptians feared snakes and propitiated them,
+and the earliest dynastic people of the country employed charms,
+and incantations, and magical formulae to keep snakes, and serpents,
+and reptiles of every kind from their dead ; the priests of
+Heliopolis respected the prevailing views of their countrymen, and
+ancient formulae against snakes were copied into their funeral
+texts. Every Recension of the Booh of the Dead contained
+Chapters which were written to preserve the dead from the attacks
+of snakes ; it is tolerably certain that some of them contain
+formulae which are not older than dynastic times, and these show
+that the fear of serpents was as great as ever, although these
+reptiles cannot have been so numerous as formerly. The priests
+of Amen made snakes to play very prominent parts in the Under-
+
+
+TUAT AND GEHENNA 273
+
+world, and, curiously enough, they thought that the dead Sungod, or the " Flesh of Ra," was re-born into the life of a new day,
+only after he had been drawn in his boat through the body of a
+serpent. The Egyptians usually had some reason for the things
+they said, and wrote, and depicted, and although it is not easy to
+find the reason in every case, there is, fortunately, little doubt
+about it here. They observed that snakes sloughed their skins
+from time to time, and that their bodies were much improved in
+appearance as the result, and it is pretty certain that they had this
+habit of snakes in their minds, when they made their god Ra as a
+new being to emerge in his boat out of the great serpent which lay
+in deep undulations between the end of the Tuat and this world.
+
+Reference has already been made to the influence upon the
+hell of the Copts of the old Egyptian mythology about the Tuat,
+and it is right here to point out that the Hebrews appear to have
+borrowed from it many of their ideas concerning the abodes of the
+dead in the Underworld. It is quite certain that the hell of which
+they conceived the existence was not derived from the Babylonians,
+for we know from the story of Ishtar's descent into the " land of
+no return " that, although it had Seven Gates, it contained no pits
+of fire or monster serpents. Ishtar, we are told, found it to be a
+place of darkness, and she saw that the beings in it were dressed
+in garments of feathers, and that dust and mud were their food.^
+The commonest of the names which the Hebrews gave to the
+abode of the damned is Ge Hinnom,^ or Gehenna, which was
+originally the Valley of Hinnom, that lay quite near to Jerusalem,^
+where children were sacrificed to the god Moloch ; * this name
+passed into the New Testament under the form Feewa, and into
+Arabic literature as " Jahannam." ^ The portion of the Valley of
+Hinnom where the sacrifices were burnt was called " Topheth."
+According to the Rabbis " Gehenna " was created on the second
+day of creation, with the firmament and the angels, and just as
+there were an Upper and a Lower Paradise so there were also two
+
+^ See L. W. King, Bahijlonian BeUgion, p. 179 f.
+
+2 DJnnil 3 ]sI"q^ generally ideatified with the Wadi er-Rababi,
+
+
+T
+
+
+274 HALLS OF GEHENNA
+
+Gehennas, one in the heavens and one on the earth. As to the
+size of Gehenna we read that Egypt was 400 parassangs ^ long and
+400 parassangs wide, i.e., about 1,200 miles long by 1,200 miles
+the world was sixty times as large as Nubia, and that it would
+require 500 years to travel across either its length or its breadth ;
+that Gehenna was sixty times as large as the world ; and that it
+would take a man 2,100 years to reach it.^
+
+In Gehenna, as in Paradise, there were seven " palaces "
+(D^byn), and the punishments which were meted out to their
+inhabitants varied both in kind and in intensity. In each palace
+there are 6,000 houses, or chambers, and in each house are 6,000
+boxes, and in each box are 6,000 vessels fitted with gall. Gehenna
+is so deep that it would take 300 years to reach -the bottom of it ;
+according to another opinion it is 300 miles long, 300 miles wide,
+1,000 miles thick, and 100 miles deep. The fire in each palace is
+fiercer and more destructive than that in the palace preceding,
+and the flames of the deepest portion of it are able to consume
+human souls utterly, which fire upon earth can never do. Each
+palace is, according to one view, under the command of an angel,
+who is subservient to Dumah, the prince of Gehenna, and who has
+with him tens of thousands of angels who are occupied in judging
+sinners and sealing their doom ; but according to another the
+seven mansions are ruled, under Dumah, hdm, by three angels
+called Mashkhith, Af, and Khema. The voices of the beings in
+Gehenna rise up to heaven mingled with the cries of the wicked.
+Dumah, the prince of Gehenna, seems to have been of Egyptian
+origin, for we read, " At the time when Moses said, 'I will perform
+"'judgments on all the gods of Egypt,' Dumah, the prince of
+" Egypt, went 400 miles and God said unto him, ' This decree is
+" ' decreed by me, even as it is written, I will visit the host of the
+" ' height in the height ; ' ^ and in that same hour sovereignty was
+" taken away from him, and he was appointed prince over
+" Gehenna, and some say that he was set over the dead."
+
+^ The parassaBg = 30 stadia, and the stadion = 202 yards,
+" Eisenmeiiger, EntdecTctes Jiidenthum, part ii., p. 328.
+'* Isaiah xxiv. 21.
+
+
+HALLS OF GEHENNA 275
+
+Another prince of Gehenna was called Arsiel, and his duty
+was to stand before the souls of the righteous to prevent them
+from praying to God on behalf of the wicked. Opinions vary as
+to the number of gates or doors which are in Gehenna, some saying
+there are 50, others 8,000, and others 40,000 ; but the writers
+who followed the best traditions fixed the number at seven, and
+this agrees with the best Muhammadan tradition also. Finally, as
+a river runs through the Tuat so a river or canal flows through
+Gehenna. The first division of Gehenna is 100 miles long and 50
+miles wide, and it contains several pits wherein fiery lions dwell ;
+when men fall into the pits the lions consume parts of them and the
+fire devours the remainder, but soon afterwards they come into being
+again and have to pass through the fire which is in the second
+division, when they are again consumed and again come to life.
+In this way they have to pass through the fire of all the seven
+divisions. According to another opinion one half of Gehenna
+is fire and the other half hail, and the ang-el who is in charg-e
+drives the souls of the damned from the fire into the hail and from
+the hail into the fire without ceasing. Another writer says that
+each of the seven divisions of hell contains seven streams of fire
+and seven streams of hail, and that each division is sixty times as
+large as that which is immediately above it. In each division are
+7,000 small chambers, and in each chamber 7,000 clefts, and in
+each cleft 7,000 scorpions, and in each' scorpion seven joints, and
+in each joint 1,000 vessels of gall; through it flow seven rivers
+filled with deadly poison, and the damned have to pass one half
+of the year in the fire, and the other half in the hail and snow,
+which are far more terrible than the fire. Moreover, from
+under the throne of God Almighty there goes forth a river
+of fire which empties itself upon the heads of the wicked, but
+most of these have a rest from their punishment for one hour
+and a half three times a day, i.e., at the times of morning,
+mid-day, and evening prayer, and they have rest the whole of
+each Sabbath and of each festival of the new moon. Some of
+the Rabbis believed that the punishment of the wicked would
+last for ever, but others thought that a period of punishment six
+or twelve months in length would suffice for their purification.
+
+
+276 TUAT AND GEHENNA
+
+Those who are damned shall not remember the names which
+they bore upon earth, and although the angels beat them and call
+upon them to declare their names, they shall not be able to do so ;
+this view was clearly held by the Egyptians, for we are specially
+told in the text of Pepi I. (line 169), " Pepi is happy with his
+
+recorded above it is easy to see how much the Hebrews were
+indebted to the Egyptians in the construction of their Gehenna,
+and how closely they fitted native beliefs into a framcAvork of
+foreign conceptions. Some of their writers seem to have possessed
+a better insight into such matters than others, whilst a few of them
+unconsciously reproduced the original conception of the Tuat as
+the place of destruction for the enemies of the god, and believed
+that Gehenna, or hell, would be abolished. These thought that at
+some future time God would remove the sun from its place and
+would place it in the second firmament, in a hollow place or
+chamber specially prepared for it, and that having judged and
+condemned the wicked He would send them into this chamber,
+where the burning heat of the sun would consume them.^ The
+Kabbis generally took no pains to say either how the fires of
+Gehenna were started, or how they were maintained, but Rabbi
+Yannai and Rabbi Shim'on ben-Lakish evidently thought it out,
+and so reduced Gehenna, unintentionally, to the place where a
+physical sun supplied the consuming fire, and did for the damned
+among the Hebrews exactly what it did for the enemies of Ra
+among the Egyptians.
+
+It must be noted that the Gehenna of the Hebrew lacked
+the serpents of the Egyptian Tuat, but when we consider the
+difference between the physical characteristics of Egypt and those
+of Syria and Palestine this is not to be wondered at. In
+and the terror which they inspired lived in the minds of the
+people of dynastic times long after the country had been
+practically cleared from these reptiles. In Palestine and Syria
+snakes were never very plentiful, but in the region of Southern
+
+* Eisenmenger, op. cit., p. 366.
+
+
+APEP AND TIAMAT 277
+
+Babylonia, whence came Abraham and his companions, they must
+have existed in large numbers. It is a curious fact that the
+Hebrews, who borrowed so largely in their cosmogony from
+Babylonian sources, did not also borrow in some form or other
+the monster Tiamat, which played in their mythology the same
+part that Apep or Apepi played among the Egyptian gods. The
+Babylonian Tiamat waged war against Marduk, the champion
+chosen by the gods, and was held to be the incarnation of all evil,
+both physical and moral ; and although the Hebrews assigned to
+the serpent cunning and guile, and declared that he was " more
+^' subtle than any beast " (Gen. iii. 1), they hardly considered him to
+be a great physical power which waged war against the sun daily.
+Tiamat, as we learn from a cuneiform text,^ was 50 kashu long,
+and the height of its undulations was 1 haslm ; its mouth was onehalf a gar, or six cubits wide, and it moved in water 9 cubits
+deep. Three other measurements are given, viz., 1 gar, 1 gar, and
+5 gar, but as the text following them is broken it cannot be said to
+what they refer. Now, the hashu was the distance usually passed
+over in a journey of two hours, and the cubit may be considered
+to be about 20 inches. Reckoning the hashu at six miles we thus
+have a monster 300 miles long, which had a mouth 10 feet wide,
+and which moved in undulations six miles high ! The measurements of 5 gar probably refers to its girth, and if this be so the
+creature was 100 feet round its body.
+
+When Tiamat had been slain we are told that its blood flowed
+from its body for three years, three months, and one day, and we
+are able to obtain an idea of its huge size from the statement that
+when Marduk had smashed in its skull with his club, and had slit
+the channels of its blood, he split it, like a flat fish, into two
+halves, one of which he made use of to form the " covering of the
+'^ heavens." ^ There is no doubt that originally the Babylonian
+Tiamat was nothing but the rain clouds, and the mist and fog
+which lie over the Tigris and Euphrates in the early morning at
+certain seasons of the year, and which when j looked at from the
+
+^ See King, Cuneiform Inscriptions from Babylonian Tablets, etc., pai't xiii.,
+pi. 33 f., London, 1901 ; and King, Seven Tablets of Creation, vol. i., p. 119.
+^ King, Babylonian Religion, p. 77.
+
+
+278 APEP, TIAMAT, LEVIATHAN
+
+desert appear like a huge serpent stretched along the length of the
+stream, both up and down the river. The Hebrew Scriptures
+contain several allusions to a great nature serpent,^ though he
+finds no place among the Seven Mansions of their hell. Thus the
+prophet Amos (ix. 3) refers to the serpent at the bottom of the
+sea, which Yahweh would command to bite the wicked if they
+attempted to hide there ; in Psalm Ixxiv. 13 f. God is referred to
+as the breaker of the heads of Leviathan and of the dragons in the
+waters ; in Isaiah (li. 9).we have, " Awake, awake, put on strength,
+'' 0 arm of Yahweh ! Awake, as in the ancient days, in the
+" generations of old ! Art thou not it that did slay the monster
+" Rahabh, and wound the serpent (tannin) ? " Rahabh may here,
+as some have argued, refer to Egypt, but if so, it is to Egypt as the
+home of the great serpent monster which we now know as Apepi,
+and which was to the prophet Isaiah the type and symbol of the
+country, and not to the judgments which Yahweh meted out to
+that land.
+
+The Hebrew writers refer to the nature serpent under several
+names, e.g., tannin, 7id]chdsh, rdhdbh, but the monster referred
+to under them is, in reality, one and the same, i.e.. Leviathan
+{]D'^'h livydthdn), " the serpent of many twistings or folds," and
+both Nebuchadnezzar II. and the " King of Assyria" are identified
+with him (see Jeremiah li. 34 ; Isaiah xiv. 29). According to the
+Rabbis he was created on the fifth day of the week of creation,^
+and was hunted for slaughter by Gabriel, and with the assistance
+of Yahweh was slain by him ; here we have a series of close
+resemblances to the history of Tiamat, for Gabriel is in every way
+the counterpart of Marduk, and Yahweh takes the place of Anshar
+as the head of the gods. Finally, Leviathan was slain by Gabriel,
+just as Tiamat was killed by Marduk, and out of the skin of
+Leviathan Gabriel made a tent wherein the righteous might dwell,^
+and a covering for the walls of the city of Jerusalem. This
+
+' See Goldziher, Mythology of the Hehreu-s, pp. 27, 28; King, Bahylonian
+Religion, p. 115.
+
+- Eisenmenger, op. cit., p. 877.
+
+menger, op. cit., p. 888.
+
+
+SEVEN-HEADED SERPENT 279
+
+covering was bright and shining, and it emitted light which was so
+strong that it coukl be seen from one end of the world to the other.
+The last statement recalls the words of the Fourth Tablet of the
+Creation Series, which tell how Marduk made a canopy in the
+heavens of one-half of the body or skin of Tiamat. In the Hebrew
+version of the story it is said that the righteous feed upon the body
+of Leviathan, but there is no equivalent passage in the cuneiform
+texts at present known. From the passage in the Psalm already
+quoted (Ixxiv. 13) it would appear that Leviathan had many
+heads, but this view is not supported by any known description of
+Tiamat, and in the absence of any evidence on the subject we must
+assume that the idea of a plurality of heads came from Egypt.
+In the Book of Revelation (xii. 3 ; xiii. 1) mention is made of a
+" great red dragon, having seven heads and ten horns, and seven
+" crowns upon his heads," which appeared in heaven, and of a
+beast having seven heads and ten horns, with ten crowns upon his
+horns, which came up out of the sea, but the idea of these also was
+not derived from Babylonia. All the available evidence goes
+to show that whilst the Hebrew conception of Leviathan was
+of Babylonian origin that of a hell of fire was borrowed from
+Egypt.
+
+Similarly, the seven-headed dragon and beast of the Book of
+Revelation, like the seven-headed basilisk serpent mentioned in
+" Pistis Sophia," ^ have their origin in the seven-headed serpent
+which is mentioned in the Pyramid Texts. In Revelations ix. 19,
+horses are referred to which had tails " like unto serpents, and had
+heads," and here again we have an idea suggested by a monster
+which inhabited one of the Pylons of the Tuat, and which had the
+body of a crocodile and a tail formed of a writhing serpent's body
+with a serpent's head for the tip of it.
+
+But although the Hebrews borrowed the framework of their
+hell from Egypt they appear to have made no use of the means by
+which the Egyptians hoped to escape from Amentet and the Tuat,
+that is to say, there is no evidence to show that they had in early
+
+ciT ft goq epe c(^cyqe rt (s.ne epoq ; ed. Schwartze, pp. 136,
+
+
+280 GNOSTIC MAGICAL NAMES
+
+times any equivalent for the system of words of power which
+played such an important part in the magical side of the Egyptian
+religion. On the other hand, the Copts, at least those of them who
+belonged to Gnostic sects, retained the beliefs concerning the
+efficacy of magical words and names, and they introduced them
+into their writings in a remarkable manner. Thus in " Pistis
+Sophia " we are told ^ that after His resurrection Jesus stood up
+with His disciples by the sea, and prayed to His Father, whom He
+addressed by a series of magical names, thus : — Aeeiouo, Iao, Aoi,
+OiAPSiNOTHEK, Thernops, Nopsitek, Zagoure, Pagoure, Neth-
+MOMAOTH, Nepsiomaoth, Marakhakhtha, Thobarrabau, Thar-
+NAKHAKHAN, ZoROKOTHORA, Ieou, Sabaoth.^ Whilst He was saying these names Thomas, Andrew, James, and Simon the Canaanite
+stood in the west with their faces towards the east; and Philip
+and Bartholomew stood in the south with their faces towards the
+north. In another passage '^ Jesus addresses His Father in these
+words and by these names : — Iao Iouo, Iao, Aoi, Or a, Psinother,
+Theropsin, Opsither, Nephthomaoth, Nephiomaoth Marakhakhtha, Marmarakhtha, Ieana menaman, Amanei tou ouranou,
+IsRAi Hamen Hamen, Soubaibai appaap Hamen Hamen, deraarai
+Hapahou Hamen Hamen, Sarsarsartou Hamen Ham£n, Koukiamin
+MiAi Hamen Hamen, Iat, Iai, Toua Hamen Hamen Hamen, Main-
+MARi, Mari^:, Marei Hamen Hamen Hamen.^ In another place ■'
+
+Ed. Scliwartze, p. 357.
+
+
+■' Ed. Schwartze, p. 375.
+
+
+' Ihid., p. 375.
+
+
+GNOSTIC MAGICAL NAMES 281
+
+He addresses those Avho forgive sins by their names thus : —
+SiPHiREPSNiKHiEu, Zenei, Berimou, Sokhabeikh£ie, Euthari,
+Nanai Dieisbalm^rikh, Meunifos, Khirie, Entair, Mouthiour,
+Smour, Peukher, Oouskhous, Minionor, Isokhobortha ; ^ and
+immediately afterwards He calls upon the Powers of His Father by
+these names : — Auer, Bebro, Athroni, Eoureph, Eone, Souphen,
+Knitousokhreoph, Mauonbi, Mneuor, Souoni, Khokheteoph,
+Khoehe, Eteoph, Memokh, and Anemph.^ An examination of
+the books of " Pistis Sophia" will show that many of the details of
+the "mysteries" which are there described are based upon ancient
+Egyptian beliefs, and that the whole of the doctrine of spiritual
+light which is expounded therein only represents a spiritualized
+conception of the far-reaching character of the powers of the light
+of the sun upon both the living and the dead, which the dynastic
+Egyptians recognized and described centuries before the Christian
+era. This was expressed in the terms of a highly artificial system
+wherein words of power, magical names, emanations, ranks of
+angels, gates, watchers, and purely Christian conceptions were
+mixed up together, with the Lord Christ as the central Figure.
+Much has yet to be done before all the comparisons and connections
+out, but the facts quoted above will, perhaps, suggest the importance of the study.
+
+jLioYeioYp* cjuioYP" neY^Hp" ooYc^oYc* jumiortop' icoxo
+Rope-s. (p. 376).
+
+^ AYHp' RERpcju' Aoponr HOYffecl)* Hcjuite" coYc|)erf Krfi-
+'T0YC0^p6ajcJ)- jui(^YcjurrRr JuirfeYujp' coYcum ^cjux6T"ecxjcl)-
+X^X^' £T"eujcj)' xi^xjLUJX' (^rfHJuicI) (p. 376).
+
+
+CHAFPER VII
+
+THE OLDEST COMPANY OF THE GODS AND
+
+THE CREATION
+
+
+IN the earlier chapters of this work mention has been made
+of three companies of gods, the existence of which was
+formulated by the priests of Heliopolis, and it has been shown that
+a company of gods usually consisted of four pairs of deities, four
+gods and four goddesses, and a president or chief of the same.
+We have also shown that a jmiit or company of gods did not
+necessarily contain nine deities only, and that it as often as not
+was supposed to include more than nine gods. Originally, however, the Helio-
+politan priests, or
+the authors of the
+theological system
+exhibited in the
+Pyramid Texts, intended the 2)(^ut to
+
+The Oldest Compauy of the Gods. COUsist of uiue gods,
+
+and it seems that they arrived at this decision as the result
+of the addition of their own local god Tem to a group of four
+pairs of deities, four gods and four goddesses, whom they had
+grouped together according to the plan followed by an older school
+of theologians in forming an older company of the gods. The
+company of the gods last mentioned is probably the oldest of all
+the companies in Egypt, although for various reasons it never
+seems to have attained to the popularity of the " great j)a-?it of the
+gods of Annu," or to have enjoyed such a prominent position in
+the minds of the religious philosophers of Egypt. This is not to
+be wondered at, for whilst the Heliopolitan company of the gods
+included the Sun-god Ra-Tem, or Rc'i-Tem-Khepera, and Osiris,
+
+
+THE FIRST EIGHT GODS 283
+
+the god of the dead, the older company consisted of pairs of deities
+who represented religious conceptions, and faiths, and beliefs,
+which even at that remote period had been long dead, and the
+meaning of which had been forgotten. The very gods of the older
+company had been superseded, and their worship abolished, and
+the knowledge of their history and attributes was preserved only
+in the minds of priests and religious experts, who probably
+regarded the ancient views about these gods which had come down
+to them as the product of men belonging to a lower stage of
+civilization than their own. The older company of the gods here
+referred to have been described as personifications of aspects, or
+phases, or properties of primeval matter, and may be thus
+enumerated : —
+
+
+AA/WW
+
+
+Kerh, ^l^i- Keehet, ^IZti'
+
+
+o
+
+
+The character of the first pair of gods can be readily determined by the hieroglyphics which form their names ; thus the
+
+
+indicate the sound, and the outstretched heaven, p=^, and the
+determinative for water, aaaaaa , and the sign for " god," all of which
+show that this deity was the god of the watery mass of the sky.
+
+
+part, as the signs, 3, indicate. From various passages found
+
+in the religious, mythological, and funereal texts of all periods it
+is abundantly clear that in primeval times at least the Egyptians
+believed in the existence of a deep and boundless watery mass out
+of which had come into being the heavens, and the earth, and
+everything that is in them. The germs of all and every kind of
+life were in this watery mass, and they were supposed to have
+
+
+' The old form is ODD, or (Unas 199, 399), or ^ (Teta 78).
+
+
+284 NU AND NUT
+
+been there from the beginning. They do not seem to have
+formulated any exact ideas about the position of this watery mass
+in the sky or heaven, and they certainly did not attempt to assign
+to it dimensions which could be expressed by the ordinary methods
+of measurements ; in later times, however, Nu was frequently
+
+identified with the sky, jpet ^, and with the heaven above it,
+
+nnt^ . though, strictly speaking, he represented the watery
+
+mass which was supposed to exist between the two. It must also
+be noted that the ocean and also the Nile ^ were identified with
+Nu, whose characteristics appear to have changed during the latter
+part of the dynastic period. The name of this god has been
+compared with the Coptic word rfOYft " abyss," " deep," and the
+like, and it is possible that it may have some connection with it,
+but it is difiicult to see how in that case it can mean '^ young,"
+as the late Dr. Brugsch suggested.^ The true meaning is much
+more likely to be suggested by the play on the words Nu and nen
+which we have on p. 309 in the passage, " I raised them up from
+out of the watery mass {nu) out of inactivity" {nen), i.e., Nu was
+the inert mass of watery matter from which the world was
+created. Of Nut, the female counterpart of Nu, little need be said
+here, except that she was regarded as the primeval mother, with
+whom in later dynastic times were identified several goddesses,
+e.g., Hathor, Mut, Nit, or Neith, and whose attributes were
+assigned to them. The forms in which Nu is depicted vary.
+Thus he is represented in human form holding a sceptre when he
+forms one of the company of the gods of Amen, but he is also
+represented with the head of a frog, which is surmounted by a
+beetle,^ and even with the head of a snake. The goddess Nut is
+also represented in human form, but sometimes she has the head
+of a uraeus, surmounted by a disk,^ and at other times she has
+the head of a cat.^
+
+' Compare Horapollo I. 21 (ed. Leemans ; p. 28): — NctAow Se avajSacrtv
+o-rjju,atvovT€s, ov KaXovaiv AlyvTTTKTTi Now ; attention was first drawn to this passage
+by Tattam.
+
+■ Beligion unci Mytliologk, p. 129.
+
+^ Lanzone, Dizionario, ])1. 1G7, No. 2.
+
+' Ibid., No 3. ' Jhid., pi. 170, No. 2.
+
+
+KEKUI AND KEKUIT 285
+
+The characteristics of the second pair of gods, Hehu, § § y r^ ?
+and Hehut, || )) ^ J) ? ^i'(3 not easy to determine. According
+to Signor Lanzone they are personifications of male and female
+elements of fire/ and from the ancient pictures of them Ave see that
+the Egyptian artists regarded them from different points of view.
+Thus in one group of the eight primeval gods Hehu is represented
+in one of the forms of Nu, i.e., frog-headed, already described, and
+Hehut in the form of Nut ; ^ and in another group Hehu has the
+head of a serpent, and Hehut that of a cat. According to the
+late Dr. Brug^sch ^ the name Heh is connected with the word
+which indicates an undefined and unlimited number, i.e., heh, Mm ;
+when applied to time the idea suggested is "millions of years,"
+and Heh is equivalent to the Greek alayv. In several passages
+quoted by Dr. Brugsch mention is made of a god Heh,
+who seems to be a personification of the atmosphere which
+exists between heaven and earth, and to be identical with
+Shu, and that distinguished Egyptologist went so far as to
+compare his functions with those which were exercised by
+xlion, Eros, and Pneuma in Greek systems of philosophy.
+In a small scene reproduced by Signor Lanzone* we see the
+
+god Harpocrates in his usual attitude, ^, just above what appears
+
+to be a smaU tree. On the right kneels the goddess Hehut, who
+is making her outstretched hand and arm a support for the left
+hand of the young god which rests upon it ; on the other side
+kneels Hehu, who is represented in the act of raising or supporting
+the feet of the god, above whose head are the beetle and disk.
+
+The characteristics of the third pair of gods, Kekui,
+determine, and it is tolerably certain that these deities represent
+the male and female powers of the darkness which was supposed to
+cover over the primeval abyss of water ; they have been compared
+by Dr. Brugsch with the Erebos of the Greeks. In some aspects
+they appear to represent both the night and the day, that is to
+
+^ Lanzone, Bizionario, page 685. ^ Ihid., pi. 168 ff.
+
+=* Beligion, p. 132. " Op. cit., p. 685.
+
+
+286 KERH AND KERHET
+
+say, Kekui is called " the raiser up of the light," and Kekuit " the
+" raiser up of the night." It is not difl&cult to see how these
+deities obtained these names, for Kekui represents that period of
+the night which immediately precedes the day, and Kekuit is
+that period of the night which immediately follows the day. At
+one period Kekui and Kekuit were considered to be gods of
+Elephantine, and their attributes were identified Avith those of the
+Nubian god Khnemu and his female counterpart Sati ; but this, no
+doubt, was a result of regarding Kekui and Kekuit as personifications of the Nile-god Hapi, whose hidden fountains lay beneath
+the rocks at some part of the Island of Elephantine. According to
+another view the crocodile-god Sebek, one of whose chief seats of
+worship was at Kom Ombo, was a personification of the old
+primeval god Kekui, and in any case Sebek was certainly considered to be one of the principal forms in which the soul of the
+primeval darkness loved to array itself.^ In the scenes in which
+the forms of the oldest paut or company of the gods are represented Kekui is usually given the head of a serpent, but Kekuit
+has the head either of a frog or a cat.^ In one scene Kekui and
+Kekuit are identified with Ka and Kait, LJr^, U (]() ^j *^®
+former being called the " grandfather of all the gods," and the latter
+this scene Ka or Kekui has the head of a frog surmounted by a beetle,
+and Kait or Kekuit the head of a serpent surmounted by a disk.
+The characteristics of the fourth pair of gods, Kekh,
+
+and the texts in some places give quite different names where we
+should expect to find theirs ; thus we have Ni, () [) Jj HHL , or
+
+
+AAAAAA
+
+
+/V)AAAA
+
+
+The common meaning of the word kerh is " night," and according
+
+Brugsch, Beliylon, p. 142. ' Lanzone, op. cit., pi. 168 ff.
+
+
+THE FIRST EIGHT GODS 287
+
+to this the deities Kerh and Kerhet would represent the male and
+female powers of night; on the other hand, the determinative (t-~-2^,
+which occurs in each name, shows that these gods were regarded
+as personifications of some apparently inactive powers of the
+primeval watery abyss, and we may, therefore, regard them as
+types of powers of nature in a state of repose either before or after
+a state of activity. In the scenes in which the forms of the oldest
+company of the gods are represented, Ni, that is to say, Kerh, has
+the head of a frog, with or without a beetle upon it, or the head of
+a snake, and Ennit, that is to say, Kerhet, has either the head of a
+frog or that of a cat.
+
+It is not easy to reconcile the various views which
+Egyptologists have held about the above four pairs of deities, and
+it certainly appears as if the ancient Egyptians themselves had no
+very clear ideas as to their functions. As to their antiquity there
+is no room for doubt, for although the oldest pictures of their
+forms do not date from a period anterior to the reign of Seti I., it
+is quite clear, from the way in which they are mentioned, that
+they represent traditional ideas of an extremely ancient character.
+One proof of this is the careful mention of the female counterparts
+of the four great primeval gods, for it was usual in the case of gods
+who were the product of the purely dynastic period to pay small
+attention to the goddesses who were regarded as their wives.
+
+Thus Ra and Amen possessed female counterparts called Eat, ® J) ,
+
+and Ament, [1 a/wwn JO ^ but they play no prominent parts in
+
+Egyptian mythology, and are rarely mentioned in the texts. Man
+always has fashioned, and probably always will, fashion his god,
+or gods, in his own image, and he has always, having reached
+a certain stage in development, given to his gods wives and
+offspring ; but the nature of the position taken by the wives of
+the gods depends upon the nature of the position of women in the
+households of those who write the legends and traditions of the gods.
+The gods of the oldest companv in Egypt were, the writer
+believes, invented by people in whose households women held a
+high position, and among whom they possessed more power than is
+usually the case with Oriental peoples. Nut, Hehut, Kekuit, and
+
+
+288 APZU-RISHTU, MUMJNIU-TIAJMAT
+
+Kerhet are the equals of the gods Nu, Heh, Kekui, and Kerh, and
+not merely the bearers of offspring as were the later goddesses.
+The general drift of the texts wherein the four pairs of gods
+are mentioned indicates that three pairs were qualities, or
+characteristics, or attributes of the fourth pair personified, although
+some would make the four pairs represent the male and female
+elements of the Four Elements, Earth, Air, Fire, and Water, and
+others would make them stand for the primeval Matter out of
+which all things have been made, and primeval Space, and
+primeval Time, and primeval Power. To say definitely and
+exactly what they represent is in the present state of Egyptological
+knowledge impossible, for the evidence which would enable us to
+arrive at a final decision in the matter is not forthcoming.
+
+Before we pass on to the consideration of the events which
+resulted in the creation of the sun and later of the world, it will be
+interesting to compare with the above four pairs of gods the group
+of gods that we meet with in the " Seven Tablets of Creation," ^
+which are Avritten in cuneiform, and contain the views and beliefs
+of the Assyrians as to the origin of the gods, and of the world,
+and of mankind. The old company of primeval gods mentioned
+in these Tablets are also eight in number, and they fall readily
+into four pairs. The first pair consisted of Apzu - EiSHTtr,
+word mummii is unknown,^ but Tiamat is the name of the female
+counterpart of Apzu-rishtii, and she became the mother of offspring
+by him. These two deities, then, represent the male and female
+powers of the watery mass which contained the germs of all life,
+and of every kind of life, and they existed at a time " when of the
+" gods none had been called into being, and none bore a name, and
+" no destinies [were ordained]." When " their waters were
+
+^ The best copies of the cuneiform texts hitherto issued will be found in the
+publication of the Ti'ustees of the British Museum, entitled Cimeiform Texts from
+Babylonian Tablets, part xiii., Loudon, ]901. These, with many additional texts,
+are given in Mr. L. W. King's Seren Tablets of Creation with transliterations,
+translations, notes, etc., London, 1902. (Vol. I.)
+
+- Mummu = the Mwv/xis of Damascus, and probably means " chaos."
+
+
+LAKHMU AND LAKHAMU 289
+
+" mingled together " then the work of creation began. We thus
+see that Apzu-rishtu and Mummu-Tiamat are the exact equivalents
+in the Babylonian cosmogony of Nu and Nut in the Egyptian, and
+that they are the originals of the Greek forms 'Airaacjv and TavOe,
+which are given in the scheme of Damascius. ^
+
+The next pair of gods in the Assyrian texts are Lakhmu,
+functions we know nothing, any more than we do of the Egyptian
+primeval gods Heh and Hehut. The names of the third and
+fourth deities in the list of Damascius (ed. Kopp, p. 125) are Jaxos
+and ^ocxTJ, but these are clearly mistakes for Aaxos and AaxQ, i.e.,
+Lakhmu and Lakhamu.
+
+According to the First Tablet of the Creation Series " ages
+increased,"^ and then two more gods came into being, viz.,
+Anshak, ^ i^, and Kishar, )-)-y (]^ i^, i.e., the 'Ja-acopos
+and Ki(T(TapYi of Damascius. Now up to this point the three pairs
+of gods of the Assyrians agree exactly with the first three pairs of
+gods of the oldest Egyptian company of the gods, and the points
+of resemblance are striking. We see from the table printed by
+Brugsch^ that the Egyptian authorities differed as to the names of
+the god and goddess of the fourth pair of gods, some giving Kerh
+and Kerhet, others giving Amen and Ament, and others giving
+Enen and Enenet-hemset, and others Ni and Ennit ; all, however,
+agreed that a fourth pair of deities were necessary to complete the
+company, and that one must be a god and the other a goddess.
+
+The First Tablet of the Creation Series mentions a seventh
+deity called Anu, ►^y yf *:/-, who is clearly to be identified with
+the "Avoq of Damascius, and an eighth deity called Nudimmud,
+'^y »/- ^ly *^II4i., which is a title of the god Ea ; the context
+which would probably have supplied us with the name of a ninth
+god is broken away, and at present there is no means of restoring
+
+^ He was born in Syria, probably at Damascus, in tbe last quarter of the Vth
+century of our era. He studied at Alexandria and at Athens, and was a pupil of
+Marinus and Zenodotus, and when Justinian closed the schools at Athens he went
+to the court of the Persian king Khusrau (Chosroes). The best edition of his work
+on " Fii'st Principles" is that of Kopp, published in 1828.
+
+" King, Bahrjlonian Religion, p. 61. ^ Religion, p. 127.
+
+U
+
+
+290 ANU, EA, BEL
+
+the passage. Both these deities are masculine, whereas one should
+be masculine and one feminine. In the list of the primeval gods
+given by Damascius following Kicrcrapr) we have "Avo^;, 'IXXti^o?,
+and '^ds ; the first of these is, as we have said, Anu ; the second
+is the god Enlil, )^]][ t^]] ; and the third is Ea, ^ tjiyj ]}.
+But all these are gods, and there is no goddess among them, and it
+is difficult not to think that in making the recension of the story
+which is preserved in cuneiform the Assyrian editors substituted
+the three gods Anu, Bel, and Ea, who represented heaven, and
+earth, and the abyss respectively, for those who were in the older
+recension. The Assyrian copy which we now have was made
+during the reign of Ashur-bani-pal, king of Assyria from B.C. 668
+to B.C. 626, presumably from a Babylonian archetype, but it is
+impossible to say to what period the actual version which it
+represents is to be assigned. The Seven Tablets of Creation
+contain several Assyrianized forms of ancient Sumerian words, a
+fact which proves that the original traditions incorporated in the
+work must be of Sumerian origin, and must have been formulated
+in remote antiquity. It is surprising therefore to find so much
+similarity existing between the primeval gods of Sumer and those
+of Egypt, especially as the resemblance cannot be the result of
+borrowing. It is out of the question to assume that Ashur-banipal's editors borrowed the system from Egypt, or that the literary
+men of the time of Seti I. borrowed their ideas from the literati of
+Babylonia or Assyria, and we are therefore driven to the conclusion
+that both the Sumerians and the early Egyptians derived their
+primeval gods from some common but exceedingly ancient source.
+The similarity between the two companies of gods seems to be too
+close to be accidental, especially as there is every possibility that
+the Sumerian system was taken into Egypt by the same people
+who carried into the country the art of making bricks, the use
+of the cylinder seal, and the like.^ Be this as it may, it is
+certain that the company of primeval gods, which, as we have
+seen, was common to the Sumerians and Egyptians, was quite
+different from the companies of gods of which Osiris and Ra-Tem
+were the heads in Egypt, and also from those which Avere formed
+
+1 Sec my E(jiji)t in the Fredynastic and Archaic Periods, p. 41.
+
+
+THE PRIMEVAL SPIRIT 291
+
+in Babylonia and Assyria when these countries were inhabited by
+Semitic populations.
+
+Now the First Tablet of Creation gives us to understand
+clearly that the work of creation began when the waters, or
+essences, of the first pair of primeval gods, Apzu and Tiamat,
+were mingled together, and that the offspring of this union were
+Lakhmu and Lakhamu, Anshar and Kishar, etc. What the views
+of the ancient Egyptians on this subject were we do not know, but
+it is quite clear from the allusions in many texts that the second,
+third, and fourth pairs of the gods already mentioned were the
+offspring of the union of the first pair Nu and Nut, i.e., that they
+were their attributes. We may also conclude that Nu and Nut
+were the male and female powers of the vast and inert watery
+mass, with its male and female counterparts Ni and Ennit, and
+that the second pair of gods, Heh and Hehut, represented their
+eternal nature. The third pair of deities are nothing but the male
+and female counterparts of Darkness personified, and thus we have
+as the primeval material from which everything was made an eternal,
+boundless, watery mass wherein are the germs of life, male and
+female ; this watery mass is, however, enveloped in thick darkness.
+The late Dr. Brugsch, basing his opinion upon certain statements
+made in the Egyptian texts, declared that the primeval spirit (Urgeist)
+felt the desire for creative activity, and that his word awoke the
+world to life in a form in which it had already been mirrored in his
+mind, and that the first act of creation began with the formation out
+of the primeval watery mass of an egg, wherefrom issued the light of
+day, i.e., Ra, which was the immediate cause of all life in the earthly
+world. In this light, that is to say, in the Rising Sun, the almighty
+power of the divine spirit incorporated itself in a brilliant form.^
+
+1 "Der gottliche Urgeist, unzertrennlich von dem Urstoff des Urwassers,
+" f iiKlte das Verlang-en Bach schopferisclier Thatigkeit und sein Wort erweckte die
+" Welt zum Leben, deren Gestalt nnd formenreiclie Gebilde sich in seinem Auge
+" vorher abgespiegelt batten, Ibre korperlicben Umrisse und Farben entspracben
+" nack ibrer Entstehnng der Wabrbeit d.b. der Urvorstellungen des gottlichen
+" Geistes iiber sein kiinftiges Werk. Der erste Scbopfungsact begann mit der
+" Bildung eines Eies aus dem Urgewasser, aus dem das Tageslicht (Ra), die un-
+"mittelbare Ursacbe (ra) des Lebens in dem Bereiche der irdiscben Welt beii-aus-
+" bracb. In der aufgebenden Sonne verkorperte sicb die Allmacbt des gottlicben
+" Geistes in ibrer glanzvollsten Gestalt" (Beligion, p, 101),
+
+
+292 THOTH AND HIS PAUT
+
+The opinion of the great Egyptologist is of great weight on
+all matters of this kind, but it must be remembered that we have
+no authority in the texts for all the details of his narrative of the
+events which are supposed to have taken place before the appearance of the sun in the heavens, and that for many of the ancient
+Egyptian views on the subject of the Creation our only authorities
+are compositions which, in the forms in which we know them, are
+not older than the period of the end of the Middle Empire and
+that of the beginning of the New Empire, and many of the views
+and opinions expressed in them date from the same periods. That
+the sun was the product of the primeval watery mass of Nu the
+Egyptians believed beyond doubt, because they declared repeatedly
+that Ra came forth from Nu, but they did not, as far as we know%
+make it to be the dwelling-place of a primeval spirit (Urgeist)
+which designed and planned the future world in its mind before
+it beo:an to create it, and which carried out the various works of
+creation on the lines which it had evolved in its consciousness long
+before the darkness which lay on the watery mass was pierced by
+the light of the sun. We know that the priesthood of Hermopolis,
+the Khemennu of the Egyptian texts, i.e., the " city of the Eight
+Gods," where Nu, Nut, Hehu, Hehut, Kekui, Kekuit, Kerh, and
+Kerhet were worshipped, placed at the head of their divine
+company the god Thoth, to whom certainly in later times were
+ascribed many of the attributes which Dr. Brugsch's "Urgeist"
+possessed. But J;here is no proof whatsoever that Thoth was the
+original leader of this company of gods ; on the contrary, there is
+reason for thinking that if the Eight ever had a leader in the
+beginning of their existence he must have been a form of the
+Sun-god. The fact is that as the priests of Heliopolis formed
+their companies of gods from systems already in existence, and
+placed their own local gods at the head of them, so the priests
+of Hermopolis for some reason unknown to us adopted the
+primeval company of Eight, and appointed their own local god
+Thoth to be their head. The attempt to find any equivalent of
+the " spirit of Elohim," which, according to the Book of Genesis,
+moved, or brooded, on the face of the waters before the creation of
+light, has nothing to support it in the Egyptian texts.
+
+
+PAPYRUS OF NES-AMSU 293
+
+But although we do not know what the primitive Egyptians
+imagined to be the means by which the Sun came into being, we
+have a very good idea of what they thought about the creation of
+the gods, and of the world, and of the animals, birds, trees, fish,
+reptiles, etc., which are in it, and by wliose agency it was brought
+about. We owe our knowledge of these things to a papyrus
+preserved in the British Museum (No. 10,188), which was written
+for a priest of Panopolis (the modern Akhmim), of high rank and
+lineage, called Nes-Amsu, or Nes-Min, during the thirteenth year
+of the reign of " Alexander, the son of Alexander," i.e., about
+B.C. 312. This remarkable document contains, among other
+valuable compositions, a series of Chapters of a long magical work
+which was written with the object of effecting the destruction of
+the arch-fiend Apepi and his fiends and devils of darkness, and of
+keeping storms and hurricanes out of the sky ; many of the
+Chapters are followed by rubrics which, as we have already shown
+in the description of the Tuat given above, contain directions for
+the performance of the ceremonies which were to accompany the
+recital of the words. Where the Chapters were to be recited is
+not clear, but as two out of three works in the papyrus were
+chanted in the temple of Amen-Ra, the king of the gods, at Thebes,
+we shall not be far wrong if we assume that the third was a service
+which was performed in the temple from time to time. The first
+work, the " Festival Songs of Isis and Nephthys," was a very
+important service, and the second, the " Lamentations of Isis," was
+probably a supplement to it ; two priestesses, who dressed in the
+characters of Isis and Nephthys, and personified these goddesses,
+sang the sections, or "houses," of the Festival Songs in turn on
+the great commemorative festivals of Osiris, and as the "Lamentations" were rhythmical they were probably sung at the same
+service.
+
+The rubric of the "Festival Songs " orders that they be sung
+in the temple of Amen-Ra, and as the third work, the "Book
+of Overthrowing Apepi," was devoted to the protection of the Sungod Ra, the great lord of the temple, provision must have been
+made for reciting it there. Be this as it may, our present interest
+in the papyrus centres in the fact that it contains two copies of
+
+
+294 THE CREATION
+
+the story ^ of the Creation which are of the greatest interest.
+Curiously enough, each copy is inserted among the Chapters in the
+main body of the work, and it seems as if they represent two
+distinct versions, although in many places the text in each is
+identical. Each copy is entitled, " The Book of knowing the
+Evolutions of Ra, and of Overthrowing Apepi." The word here
+from the root hheioer^ )||, which means "to make, to fashion,
+
+" to produce, to form, to become," and in a derived sense " to roll,"
+so that the title might be translated the " Book of knowing the
+" Becomings of Ra," i.e., the things which were made, or created,
+or came into being through Ra. In the text the words are placed
+in the mouth of the god Neb-er-tcher, ^ 3 , the lord of the
+
+universe and a form of the Sun-god Ril, who says, " I am he who
+" and I was the creator of that which came into being, that is to
+" say, I was the creator of everything which came into being ; now
+'' when I had come into being myself, the things which I created
+" and which came forth from out of my mouth were very many."
+In these words Neb-er-tcher, or Ra, says that he took upon himself
+the form of Khepera, i.e., that he was the god who was most
+intimately connected with the creation of things of every kind.
+Khepera was symbolized by a beetle which belonged to the class
+of " Coprophagi," or " dung- eaters," which having laid its eggs in
+masses of dung rolled them about until they became circular in
+form. These balls, though made of dead, inert matter, contained
+the germs of life, which, under the influence of warmth and heat,
+grew, and in due course developed into living creatures which
+could move about and seek their food. At a very early period in
+their history the Egyptians associated the sun's disk with the dung
+ball of the beetle, partly on account of its shape, and partly because
+it was the source of heat, and light, and life to man, even as the
+dung ball was to the young beetles. Having once got the idea
+that the disk of the sun was like the ball of the beetle, they went a
+step farther, and imagined that it must be pushed across the sky
+
+^ The first copy is in column xxvi. and the second in column xxviii.
+
+
+THE CREATION 295
+
+by a gigantic beetle just as the dung ball was rolled over the
+ground by a beetle on earth, and in pictures of the sunrise we
+actually see the disk being pushed up or forward into the sky by a
+beetle. Gradually the ideas of new life, resurrection, life in a
+new form, and the like, became attached to the beetle, and the
+god with the attributes of the beetle, among which in later days
+was included the idea of self-production, became one of the most
+important of the forms of Ra, and the creator of heaven, and earth,
+and the Tuat and all that is in them.
+
+Having declared under what form he had come into being
+Khepera goes on to say that his power was not exhausted by one
+creative act, but that he continued to create new things out of
+those which he had already made, and he says that they went forth
+from his mouth. The word "mouth" may be here a figurative
+expression, but judging from other parts of the text we are
+probably intended to understand it literally. The god continues
+his narrative thus : — " Heaven did not exist, and earth had not
+" come into being, and the things of the earth (plants ?) and
+" creeping things had not come into existence in that place (or, at
+" that time), and I raised (or, built up) them from out of Nu from
+" a state of inactivity." Thus it is clear that Khepera himself was
+the one thing besides the watery abyss of Nu which was then in
+existence, and it is evident that we are to understand that he
+performed the various acts of creation without the help of any
+female principle, and that Nu had nothing to do with them
+except to supply the primeval matter, the "Urstoff " of Brugsch,
+from which all things were made. The word rendered above by
+
+
+things which Khepera says he raised up out of Nu, in which case
+we must understand that everything in heaven and in earth was at
+that time existing in a quiescent state in the watery mass of Ku.
+
+The narrative continues : "I found no place there whereon I
+" could stand. I worked a charm upon my own heart (or, will),
+" [and] I laid a foundation in Maa, [and] I made every form (or,
+" attribute). I was one by myself, [for] I had not emitted from
+" myself the god Shu, and I had not spit out from myself the goddess
+
+
+296 MAAT AND HOKHINIAH
+
+" Tefnut ; there was no other being who worked with me." The
+things made clear by this passage are that Khepera alone was the
+creator, and that he had no place to stand upon in performing the
+various acts of creation. The words, Khut-nd em dh-d, here
+rendered " I worked a charm upon my heart," present difficulty,
+but this or something very like must be their meaning.
+The word
+
+
+in texts of the kind generally means " to
+" perform a magical rite or ceremony," and the author of the
+story of the creation before us found himself obliged to make the
+god resort to magical powers to get himself out of a difficulty ;
+that Khepera worked in some way and by some means upon his
+heart or will is clear, and as a result he laid a foundation for
+himself and the work which he was about to do in Maa. The
+name f) Jj may be read either as Maa or Shu, but Shu cannot be
+the reading here because in the next sentence Khepera tells us
+that he had not at that time emitted Shu from himself. From the
+texts of all periods we learn much about the conceptions which the
+Egyptians had arrived at concerning Maa, and it is clear that the
+word primarily meant ''what is straight," and that it also came to
+mean " straightness, rectitude, uprightness, right, law, order,
+" regularity, justice," and other significations of like character ; the
+
+
+The idea which the text is intended to convey here is that Khepera
+laid the foundation of the future world according to a clear, welldefined, and unalterable plan, wherein there was no error ; Mad
+was with Khepera exactly what Hokhmah, riDDn (a word somewhat
+inadequately rendered "wisdom" in Proverbs viii. 2 fF.), was to
+Yahweh. Wisdom says that she was set up from everlasting,
+from the beginning, or ever the earth was, when there were no
+depths, before the mountains were settled, and before the hills
+was she brought forth when as yet Yahweh had made neither the
+earth, nor the fields, nor the highest part of the dust of the earth,
+and that she was there when he prepared the heavens and placed a
+circle upon the face of the depth (Proverbs viii. 23 ff.).
+
+The narrative continues : "I made a foundation in (or, by)
+" my own heart, and there came into being multitudes of things,
+
+
+TEM, SHE, TEFNUT 297
+
+" of things from the things of what was produced from the things
+" which they produced." This sentence is both involved and
+redundant, but about its meaning there is fortunately no difficulty,
+for the writer only makes the god assert in an emphatic manner
+that everything that is came into being as a result of the act of
+the god in laying a foundation in his own heart, and that when
+once the creative processes had been set in motion they continued
+their operation of their own accord, apparently without any direct
+interference from the original creative power. In the next
+sentence we have a reference to a curious belief which was already
+current in the Vlth Dynasty, but at that period it had reference to
+the god Tem and not to Khepera, and occurs with the following context : — " This Pepi washeth himself in the Lake of Aaru wherein
+" Ra washeth himself; Horus hath brought the back of this Pepi,
+'' and Thoth hath brought his legs, and Shu hath lifted him up
+'' to heaven ; 0 Nut, stretch out thy hand to Pepi. Tem hath
+" departed to Annu to satisfy his love of pleasure ; he hath thrust
+" his member into his hand, and hath performed his desire, and
+" hath produced the two children Shu and Tefnut,^ and these two
+" children put Pepi between them, and they set him among the
+" gods which are in Sekhet-hetepet." In the story of the creation
+Khepera is made to say, " I had union with my hand, and I
+" embraced my shadow in a love embrace ; I poured seed into my
+" own mouth, and I sent forth from myself issue in the form of
+" the gods Shu and Tefnut." Now a myth of this character can
+only be the product of a people at a low level of civilization, and
+it is difficult to understand the character of the mind of an author
+who in one sentence helps Khepera out of a difficulty by ascribing
+to him the possession and use of magical powers, and in another
+reduces him to the necessity of committing an act of masturbation
+in order to begin the generations of the gods, and yet assigns to
+
+
+298 APPEARANCE OF RA
+
+him at the same time many of the powers which are assigned by
+Christian nations to God. The only possible way of accounting
+for this gross passage is to assume either that it was copied into
+the papyrus of Nesi-Amsu, or Nesi-Min, by the scribe simply
+because he found it in the archetype from which he was working,
+or that the author, knowing that Shu and Tefnut were held to be
+the children of Khepeni, and that this god was unaccompanied by
+any female counterpart, explained the origin of his children in the
+manner described above. But in any case this brutal example of
+naturalism was not intended to be obscene, and it must be regarded
+as a survival in literature of the dynastic period of one of the
+coarse habits of the predynastic Egyptians, that is to say, of one of
+the indigenous African tribes from which dynastic Egyptians were
+partly descended.
+
+The next section of the narrative is diflScult to translate and
+explain, for it contains words which Khepera puts into the mouth
+of his "father" Nu, who says that his eye, i.e., the Sun, was
+covered up behind Shu and Tefnut, but that after henti periods,
+
+
+gods instead of one, and after he had come into being in this
+earth, Shu and Tefnut were raised up from out of the watery
+mass wherein they were, and they brought his eye in their
+train. The general meaning of these words seems to be that when
+Khepera was existing in Nu by himself the sun, in which he
+afterwards incorporated himself, was hidden in the watery deep ;
+but as soon as Khepera had produced Shu and Tefnut the sun
+emerged from the deep and followed in their train. In other
+
+words, we learn that the Eye, 3 , of Nu was unable to make
+
+itself seen until after Shu and Tefnut had come into being. We
+need not tarry to consider all the various attributes of these twin
+gods, and it will be sufficient to say here that Shu represents the
+daylight and, in some cases, the atmosphere which supports the
+heavens and keeps them above the earth, whilst Tefnut, the female
+
+1 The hea period = 60 years, but when two such periods are referred to the
+writer does not mean necessarily 120 years, but some long, indefinite period of
+time.
+
+
+CREATION OF MAN 299
+
+counterpart of Shu, represents rain, dew, and moisture. We have
+akeady seen that these twin gods proceeded from Khepera, and
+the words which are used to express the idea of emission, i.e.,
+
+which they came into being as separate entities. The creation of
+Shu made a space between the heavens and the earth into which
+the Eye of Nu could rise from out of the waters and shine, and
+because the sunlight immediately followed the creation of Shu that
+god is sometimes identified with light, and is regarded as its
+personification. The general sense of the passage under discussion
+makes it necessary to assume that Nu is identified with Khepera,
+and vice versa.
+
+The next passage refers to the creation of man, and the god,
+presumably Khepera, says, " Now after these things, I united my
+" members, and I wept over them, and men and women came into
+" being from the tears which came forth from my eye." Of this
+passage there are two interpretations possible. We may either
+assume that the tears which fell from the Eye of Nu, or Khepera,
+are the rays of light which fell from the sun, and that men and
+women are the offspring of the light, or what is far more probable,
+that men and women are the product of the tears of water which
+fell from the eye of the god upon his members,^ and that they
+turned into human beings straightway. Meanwhile the god Nu or
+Khepera had made another Eye, by which we are, no doubt, to
+understand the Moon, and it is said that when the first Eye found
+that a second had been made it raged at the god ; now when the
+god saw this he endowed the second Eye with some of the power
+(or, splendour) which he had made, and having made it take up
+its position in his face it henceforth ruled the whole earth. After
+this the god brought about the creation of plants, and herbs, and
+reptiles, and creeping things. Finally, the gods Shu and Tefnut
+produced the gods and goddesses Seb and Nut, Osiris and Isis, Set
+and Nephthys, and Heru-khent-an-maati, i.e., the " Blind Horus,"
+one after the other at one birth, and these deities multiplied
+
+
+J I
+
+1
+
+Q. I
+
+
+300 KHEPERA AND OSIRIS
+
+offspring in this earth. Thus we have a complete account of how
+a male god who existed alone in the watery abyss of Nu produced
+from himself by unnatural means a pair of deities, one male and
+one female, and how this pair produced three other pairs, i.e.,
+three gods and three goddesses, and one male deity in addition, in
+fact the ])aut or company of the great gods of Heliopolis, which in
+this instance was made to include ten gods. It is interesting to
+note the order in which the acts of creation took place. The selfexistent god who had lived for ever created : 1. The light. 2. The
+firmament, or home of moisture, i.e., clouds and rain. 3. Mankind. 4. The second (?) Eye, i.e., the Moon (?). 5. Plants, and
+herbs, and reptiles, and creeping things. 6. Seven deities, four
+being male and three female.
+
+In the second version of the story of creation which we shall
+now describe some interesting variants will be found, and we shall
+see that the god Osiris is made to usurp the position which in the
+first version is occupied by the god Khepeni. The ojDening words
+are : — Neb-er-tcher saith, " I am the creator of what hath come
+" into being, and I myself came into being under the form of the
+" god Khepera, and I came into being in primeval time. I came
+" into being in the form of Khepera, and I was the creator of what
+" came into being, that is to say, I formed myself out of the
+" primeval matter, and I formed myself in the primeval matter.
+
+" primeval matter of primeval matter. I have done all my will in
+" this earth, I have spread abroad therein, and I have made strong
+" (or, lifted up) my hand." In this passage we have Neb-er-tcher,
+who came into being in the form of Khepera, identifying himself
+
+^S. _^ ^ 'm^ ^ ' 5 i-6.j the very essence of primeval matter, and
+the source of all created things. This is a remarkable attribute to
+ascribe to the god of the dead, and it is only understandable when
+we remember that it was a common belief of the Egyptians that
+life rose out of death. The narrative continues, " I was alone, for
+"they (i.e., the gods) were not born, and I had emitted from
+" myself neither Shu nor Tefnut. I brought my name into my
+
+
+POWER OF THE NAME 301
+
+" own mouth, that is to say [I uttered it as] a word of power,
+' 0 ■ Mv ^ Sh ' 'f'^fi/^rt^, and I forthwith came into being under
+
+
+" the form of things which were created and under the form of
+" Khepera."
+
+Here we have an interesting statement, for the god tells us
+how he came into being, and he is not content with merely saying
+that he existed. We know from the literature of Egypt how
+great a part words of power played in its magical and religious
+systems, and how the believer hoped to obtain all his desires by the
+utterance of special names, or words, or formulae. Here, however,
+we have the god Osiris transforming himself from the essence of
+primeval matter into the active principle of creation by merely
+uttering his own name. The belief in the potency of certain
+names is very old in Egypt, and rests upon a still older idea that
+no creature, animate or inanimate, could be said to have an
+existence until it possessed a name, an idea with which every one
+is familiar from Genesis ii. 19 f., where we read that Adam gave
+names to every beast of the field and to every fowl of the air, and
+to all cattle. Every god and goddess and supernatural being were
+believed to possess a hidden name by, and through, and in which
+he and she lived. The man who could find out these names was
+able to command the help of the gods who bore them, and the
+man who could obtain by any means a hidden name for himself
+thought he would be the equal of the gods. On the other hand, to
+destroy or " blot out " a name was to wipe out of existence the
+being who bore it, and it was for this reason that in the earliest
+days of civilization in Egypt services in which the name, or
+names, of the dead were commemorated, and were mentioned with
+laudatory epithets, were established. We may note in passing
+that one of the greatest gifts which was to be given to the true
+believers of the Church of Pergamos was " a white stone, and in
+" the stone a new name written, which no man knoweth saving; he
+" that receiveth it" (Revelation ii. 17). Here is a direct allusion
+to the old belief in the ef6.cacy of an amulet which was made of a
+certain stone, and inscribed with a name, by and through and in
+which its owner would enjoy life and happiness.
+
+
+302 THE CREATION
+
+Returning to our narrative we find that the god continues,
+" I came into being from primeval matter, and I appeared under
+" the form of multitudes of things from the beginning. Nothing
+" existed at that time, and it was I who made whatsoever was
+" made. I was alone, and there was no other being who worked
+" with me in that place. I made all the forms under which I
+" appeared by means (or, out of) the god-soul which I raised up
+" out of Nu, p^ J|, out of a state of inertness (or, out of the
+
+
+" inert mass)." In this passage we have a new element introduced,
+
+possessed the quality of neter, and was existent in a quiescent
+
+state in the inactive watery mass of Nu. When we consider the
+
+general ideas of the Egyptians about the soul this statement need
+
+not surprise us, for we know that they endowed every object in
+
+nature with a soul, and if they assumed the existence of a mass of
+
+primeval matter they were bound, logically, to give it a soul.
+
+Thus we have in the second version of the story of the creation an
+
+idea which is wholly wanting in the first. We next read, " I
+
+' found there (i.e., in Nu) no place wherein I could stand. I
+
+' worked a spell on my heart, and I laid a foundation before me,
+
+' and I made whatsoever was made. I was alone. I laid a
+
+' foundation in (or, by) my heart, and I made the other things
+
+' which came into being, and the things of Khepera which were
+
+' made were manifold, and their ofi'spring came into existence
+
+' from the things to which they gave birth. It was I who emitted
+
+' Shu, and it was I who emitted Tefnut, and from being one god
+
+' (or, the one god) I became three, that is to say, the two other
+
+' gods who came into being on this earth came from myself, and
+
+' Shu and Tefnut were raised up from out of Nu wherein they had
+
+
+' bring to me (or, I brought to them) after a double hen period
+' [had passed since] they went forth from me. I gathered
+' together my members which came forth from my own person
+' after I had union with my hand, and my heart (or will) came
+' unto me from out of my hand. The seed fell into my mouth,
+' and I sent forth from myself the gods Shu and Tefnut, and from
+
+
+THE CREATION 303
+
+'' being one god (or, the one god) I became three, that is to say,
+" the two other gods who came into being, m
+
+
+" on this earth came from myself, and Shu and Tefnut were raised
+" up from out of Nu wherein they had been. "
+
+The repetitions in the above passage are due to the fact that
+the scribes possessed many variant readings of portions of it, these
+representing, no doubt, the opinions of different schools, and the
+scribe of the papyrus of Nes-Amsu, with characteristic reverence
+for what was written, incorporated them all into his text.
+
+The next passage contains a very interesting addition and
+variant reading, which makes " father " Nu declare that his Eye,
+i.e., the sun, was covered over with large numbers of " bushes "
+for an indefinite number of periods, each containing sixty years ;
+now "bushes," otherwise called "hair," is the name given to the
+clouds which hang round the sun at sunrise, and obscure his rays,
+and it seems as if the god intends to complain that his sight was
+impeded by them for centuries. The words following seem to
+indicate that vegetation and reptiles, including worms or serpents,
+proceeded from the god Rem, and that they were the product of
+the tears which fell from Khepera, but this rendering is not wholly
+certain. The vegetation and worms here mentioned are forms of
+mist and cloud which wholly or partially hide the sun, and the line
+is probably added to the text to account for the " bushes " of which
+
+
+we know nothing, but as the word rem means " to weep," and an
+
+
+the line in which the name of the god occurs, we may assume
+that he was the personification of Ra's tears. Mention is made
+in the Booh of the Dead (Ixxxiii. 4) of a god called Remi,
+
+
+have been identified in some way with Sebek, the personification of
+Nu, but it is not clear that Rem and Remi are one and the same god.
+We next arrive at the description of the making of man, and
+each version of the story of the creation gives a different account.
+According to the first, Khepera joined, or united, his members and
+
+
+304 FOUR RACES OF MEN
+
+wept upon them, and men and women came into being from these
+tears ; according to the second, Khepera wept with his Eye, and
+men and women came into being forthwith. It is impossible to
+say decidedly which is the older view, but it is probably the
+former. The difference between the methods employed in creating
+gods and men must be noted ; the gods are the seed of Khepera,
+and they came forth from his mouth, whilst men are only the tears
+of the god, and they came forth from his Eye. The older version
+makes the tears of Khepera to fall upon his genital organs, and it
+is only after they have been in contact with the god's virility
+that they turn into human beings. In late dynastic times the
+Egyptians divided mankind into four classes, namely, the
+Egyptians, the Aamu, the Nehesu, and the Themehu. Thus in
+the Book of Pylons ^ Horus says to the " chiefs of Ra," | (=) v^ i ^ ^
+who are in the Tuat of the Black Land and the Red Land (i.e.,
+Egypt and the deserts to the South), '' Ye are the tears made by
+
+(i.e., the Semitic nomad tribes of the Eastern Desert), were created
+by Horus and Sekhet, Y jj , and this goddess protected their
+
+by Horus and Sekhet, and the goddess protected their souls. Of
+" masturbated for you, and I have been content at the millions
+" who have come forth from me in your name of Nehesu ; Horus
+" hath created you, and it is he who hath protected their souls." ^
+This last statement is of interest, for it connects the idea of
+masturbation with the Negroes, that is to say, with the dark or
+black-skinned races of Nubia who lived on the banks of the Nile
+
+1 See Bonomi and Sharpe, Sarcophagus of Oimeuejjthah, pll. 7 and 6d.
+
+
+THE CREATION 305
+
+so far south as the Sixth Cataract, and, as we have ah-eady said,
+the legend as to the origin of the gods Shu and Tefnut is far more
+likely to have been the product of some indigenous dark-skinned
+race than of the group of mixed peoples whom we call Egyptians.
+It will be noticed that only the EgyjDtians, or offspring of Ra, are
+said to have been produced by the tears of Ra, which are the same
+as the tears of the Eye of Horus, i.e., the sun.
+
+According to one version of the story of the creation, men and
+women were created after the gods Shu and Tefnut, and before the
+plants and reptiles, but according to the other, they were created
+after the plants and reptiles ; neither version mentions the creation
+of beasts and cattle. A point of interest is that men and women
+were not fashioned by Khepera, or Neb-er-tcher, himself, and that
+they seem to have come into being almost, as it were, by accident ;
+in making the gods Khepera showed both will and design, but men
+and women were only the tears which fell, apparently without
+volition, from his Eye. But it must also be noted that in both
+versions of the Egyptian creation legends it is Ra the Sun-god, the
+Eye of Temu, who is in reality the creator of man, and this is
+exactly what we find in the Mesopotamian creation legends.
+After Marduk had defeated Tiamat and her eleven fiends, and had
+split up her body, like a fish, and made heaven out of one half of
+her skin, he conversed with Ea, the lord of the great deep, and
+declared his intention of making man, in the following words : —
+" My blood will I take, and bone will I build up, and I will make
+' ' man, that man may . . . . ; and I will build up man who
+" shall inhabit [the earth]." This very important passage proves
+that the statement of Berosus to the effect that man was made out
+of the blood of Bel, i.e., Marduk, was based upon a genuine
+Assyrian tradition; unfortunately the cuneiform text,^ which was
+
+
+1 The tablet is No. 92,629 (obv. 11. 5-7). The text reads :— ^yy(^t
+
+
+ET ESS -fclTTl M I{ ® TH- gU [ ] M -^ :?F ET E3S
+
+lu-ush-ziz-maa amelal^al lu a-me-lu [....] lu-tib-ni-ma amelaTa'] a-shib trsitim. See
+L. W. King, The Seven Tablets of Creation, vol. i., pp. 86 ff,, and vol. ii., pi. xxxv.
+X
+
+
+306 THE CREATION OF MAN
+
+first identified by Mr. L. W. King, is incomplete, but when
+the inevitable duplicate is found we shall probably find the
+equivalent of the rest of the story according to Berosus, who says
+that the blood of which man was made was obtained from Bel
+himself after his head had been cut off.
+
+The passage which follows the mention of the creation of man
+in the Egyptian story refers to the Eye of Nu. which, Khepera
+says, he endowed with power or splendour, or with the serpent
+
+
+raged at him when it found " another growth " in its place, by
+which, apparently, the moon is referred to, and it made an
+onslaught upon the " bushes," i.e., the light clouds, which Khepera
+had placed over it to adorn it, or to keep order in it ; but finally
+it took up its position in the god's face, and henceforth ruled the
+whole earth. The text concludes with the statement that Shu and
+Tefnut gave birth to Seb, Nut, Osiris, Heru-khenti-an-maati, Set,
+Isis, and Nephthys, and that their ofi'spring increase and multiply
+in the earth, and that they invoke the name of Khepera and so
+overthrow their enemies, and that they create words of power,
+
+summarize briefly the results of the two versions, and Ave shall
+find that the Egyptians thought that a self-begotten and selfexistent god lived alone in a primeval watery mass, which was
+itself part male and part female., and which was the abode of two
+living powers, the one male and the other female, and also of a
+soul, and that this mass was of unlimited extent, and was eternal,
+and was enveloped in thick darkness. The self-existent god, at
+some unknown time and for some unknown reason, uttered his
+own name as a word of power, and he straightway came into being
+under the form of the god Khepera. He next roused the soul of
+the watery abyss out of inactivity, and then having brought some
+influence, probably by the utterance of certain words, to bear upon
+his heart, he produced some material place, probably the earth,
+whereon he could stand. From this place he produced the gods
+Shu and Tefnut, which act resulted in the immediate creation of
+light and in the dispersion of darkness, and in the formation of the
+
+
+THE CREATION OF MAN 307
+
+sky or firmament. These acts were followed either by the creation
+of men and women, or by the creation of vegetation and creeping
+things and reptiles of every kind ; of the creation of stars and of
+birds and beasts nothing is said. The above statement represents
+one of the earliest of the opinions of the Egyptians about the
+creation in its simplest form, the one in fact which was first
+adopted by the priests of Heliopolis, and was then modified to suit
+the theological system which they formulated. The texts on
+which it was based are transcribed into hieroglyphics with
+interlinear transliterations and translations in the following
+chapter.
+
+
+CHAPTER VIII
+
+THE HISTORY OF THE CREATION OF THE
+GODS AND OF THE WORLD. VERSION A.
+
+
+xxvi. 21.
+
+
+Shed
+The Book
+
+
+enti
+of
+
+
+a
+
+
+rehh
+
+
+O
+
+
+hheperiL nu
+
+
+knowing the evolutions of
+
+
+oi
+
+Bd
+Ra,
+
+
+sekher
+
+
+[and] of overthrowing
+
+
+em-khet
+
+
+D D
+Apep
+
+
+tchettu
+The words of
+
+
+Neh-er-tcher
+Neb-er-tcher
+
+
+tchet -f
+
+[which] he
+spake
+
+
+kheper - / nuk ])u kheper
+
+after he had come into being. I am he who came into being
+
+
+em Kheperd kheper-nd kheper kheperu
+
+in the form of I was (or, became) the creator of what came into
+Khepera, being,
+
+
+kheper kheperu neh em-khet kheper-d dsht
+
+the creator of what came into all; after my coming into many
+being being
+
+
+THE CREATION
+
+
+hheperu em ])er em re-d an
+
+[were] the things which coming forth from my mouth. Not
+came into being
+
+
+s:
+
+
+1
+
+
+hhe'per pet an Ichejper ta an qemam
+
+existed heaven, not existed earth, not had been created
+
+
+J
+
+
+satat
+
+
+tchetfet
+
+the things of the earth, and creeping
+(i.e., plants) things
+
+
+bet
+
+
+I I I
+
+
+em
+in place
+
+
+pui
+that
+
+
+thes - nd dm - sen
+
+
+em
+
+
+Nu
+
+
+I raised up them from out of Nu (i.e., the primeval abyss
+
+of water)
+
+
+(v^ n ran /vvvwx n
+
+
+A/VW
+
+
+em enen dn qem-nd bet dhd-nd
+
+from a state of Not found I a place I could stand
+
+
+inactivity.
+
+
+w
+
+
+I
+
+
+ami
+wherein.
+
+
+Jchut-nd
+I worked a charm
+
+
+em
+upon (or, with)
+
+
+dbt-d
+my heart.
+
+
+A/VSAAA
+
+
+I
+
+
+senti-nd em Mad dri-nd dru nebt
+
+I laid a foundation in Maa [and] I made attribute every.
+
+
+a
+
+
+ud-Jcludl dn dshesh-nd em Shu
+
+I was alone, [for] not had I spit in the form of Shu,
+
+
+an
+not
+
+
+THE CREATION
+
+
+tef-nd
+had I emitted
+
+
+em Tefiiut
+Tefnut,^
+
+
+an
+not
+
+
+Jcheper
+existed
+
+
+hi
+another
+
+
+/vwv
+
+
+senti-nd
+
+
+em
+
+
+dht-d tches-d
+
+
+dri-nef liend-d
+
+who worked with me. I made a foundation in my heart my own,
+
+(or, by means of my own will)
+
+
+hheper
+
+
+^ III
+dsht
+
+
+hheperu
+
+
+D
+
+
+mi
+
+
+Til
+
+hheperu
+
+
+[and] there came the multitudes which came of the things which
+into being of things into being came into being
+
+
+e
+
+
+II
+
+
+em
+from out of
+
+
+hheperu
+
+the things which came
+into being
+
+
+I
+
+nu
+
+of
+
+
+M
+
+
+mesu
+
+
+births,
+
+
+hheperu
+
+
+O
+
+
+nu
+
+
+I I I I I
+
+mesu-sen
+
+
+dnuJi
+
+
+0
+
+
+ra
+
+
+the things which of their births. I, even I,
+
+
+em
+from out of
+
+
+hat-d
+had union
+
+
+came into being
+
+
+em
+
+
+hhefd-d
+
+
+tatadt-nd
+
+
+I
+
+
+Col. xxvii. 1.
+
+
+with my clenched hand, I joined myself in an
+
+embrace
+
+
+em
+with
+
+
+hhaihit-d
+my shadow
+
+
+il
+
+
+hher-nd
+I poured seed
+
+
+em
+
+
+re- a
+
+
+into my mouth
+
+
+tches-d
+my own,
+
+
+1 I.e., I had not sent forth from my body the emanation which took the form
+of Shu, nor the moisture which took the form of Tefnut.
+
+
+THE CREATION
+
+
+i
+
+
+dshesh-nd
+I sent forth issue
+
+
+em /S/m tefnet-nd
+
+in the form of Shu, I sent forth moisture
+
+
+e?7z- T of nut an
+
+in the form of Saith my father
+Tefnut.
+
+
+dtef-d
+
+
+Nu
+Nu,
+
+
+satet-se7i
+
+" They make to
+be weak
+
+
+I I I I I
+
+
+maat-d em-sa-sen tcher
+
+
+henhenti
+
+
+uaii-sen
+
+
+I I I
+
+
+my eye behind them, because for double henti they proceeded
+
+periods
+
+
+1
+
+
+er-d em-hhet Jcheper-d em neter ud neter hhemt
+
+from me after I became from god one gods three,
+
+
+D
+
+
+D
+
+
+I s
+
+
+Izll
+
+
+er-a
+
+
+Ichejper-nd em ta pen
+
+
+had
+
+
+that is from out of [and after] I came in earth this. Were raised up
+
+
+myself,
+
+
+dref
+therefore
+
+
+hi
+
+Shu
+Shu
+
+
+into being
+
+
+Tdfnut
+[and] Tefnut
+
+
+AAAAAA
+fJW'.AA
+
+
+em
+in
+
+
+enenu
+the inert watery mass
+
+
+I I I I 1
+
+
+w
+
+
+A^vVvAA ^-AAA/VA
+
+
+un-sen dmi - f
+
+wherein they were,
+
+
+an- sen na
+
+brought they to me
+
+
+maat-d
+my eye
+
+
+em hhet-sen
+
+in their train.
+
+
+em-hhet
+After
+
+
+dref sam-nd dt-d
+
+therefore I had united my members
+
+
+312 THE CREATION
+
+
+^AAAA/^A
+
+
+rem-nd her-sen l-heper reth ]}u em
+
+I wept over them, [and] came into men and from
+
+being women
+
+
+Q
+
+
+re77??t per em maat-d khdru-s
+
+the tears [which] came forth from my eye, [and] it raged
+
+
+er-d em Jchet is qemi-s dri-nd het
+
+against me after it came [and] found [that] I had made another
+
+
+rvV-AAA
+
+
+em dst-s tebi-s em hliut dru-nd
+
+in its place. [I] endowed it with the power I had made.
+
+(or, splendour) which
+
+
+AAAA/VN
+
+
+?l
+
+
+selchenti dref dst-s em, hrd-d em-hhet
+
+Having made to approach therefore its place in my face, afterwards
+
+
+A
+
+
+dref heq-s ta pen er tcher - f hher
+
+therefore it ruleth earth this to its whole extent. Fall
+
+
+o ■ I I
+
+
+en at-sen du uahu-sen tehui-nd
+
+their moments (or, seasons) upon their plants, I endowed it
+
+
+thet-s dmi-s per-nd em ucibu
+
+with what it hath in it. I came forth from (or, in the plants,
+taken possession of the form of)
+
+
+THE CREATION 313
+
+
+tchetfet neht hheper nebt dm-sen
+
+creeping things all, [and] things which all [are] in them.
+
+came into being
+
+
+m± hit^.M '■ rz t:zi
+
+
+mes2i an Shu Tdfnut lienci Nut mesu an
+
+Give birth Shu [and] Tefnut [Seb] and Nut. Give birth
+
+
+Seh Nut Asdr Her Khent-dn-maa Set Ast
+
+Seb and Nut to Osiris, Horus-Khent-an-maati, Set, Isis,
+
+
+I I
+
+Nebt-het em khat ud em-sa ud dm-sen
+
+Nephthys from the womb, one after the other of them,
+
+III c 1 I I I I I _M^ I S /WVWV
+
+meS'Sen dshtsen em ta pen
+
+they give birth [and] they multiply in earth this.
+
+
+THE HISTORY OF THE CREATION OF THE
+GODS AND OF THE WORLD. VERSION B.
+
+
+xxviii. 20.
+
+
+a
+
+
+Shdt ent rekh kheperu nu R
+
+
+The Book of knowing the evolutions of Ra
+
+
+sekher Apep tchettu Neb-er-icher tchet-f
+
+[and] of over- Apep. The words of Neb-er-tcher. He says : —
+throwing
+
+
+THE CREATION
+
+
+kheper-d hheper kheperu
+
+" I was (or, the creator of what came
+became)
+
+
+into being.
+
+
+e
+
+
+I came into being in
+
+
+D
+
+
+kheperu en EJieperd klieper em sep tepi
+
+the forms of Khepera coming into being in primeval time.
+
+
+(S
+
+
+kheper-kud em kliepem en Kheperd kheper-d
+
+I came into in the forms of Khepera. I was (or,
+
+became)
+
+
+being
+
+
+D
+
+
+I
+
+
+kheper kheperu pu en pa-nd
+
+the creator of what came into being, that is to say, I produced myself
+
+
+du
+
+
+pautet
+
+
+dru-nd
+
+
+I
+
+
+p)a-na
+
+
+from the primeval matter [which] I made. I produced myself
+
+
+em pautet
+
+from primeval matter.
+
+
+j:)ft ren-d Ausdres
+
+My name is Osiris,
+
+
+e
+
+
+pcLutet pautit dri-d mertu-d nebt
+
+the primeval matter of primeval matter. I have done my will all
+
+
+usekht-nd
+
+
+I c=co«a /wwv
+
+em /5a pen usekht-nd dm - / thes-nd
+
+in earth this, [and] I have spread abroad in it ; I raised up
+
+
+THE CREATION 315
+
+
+tet-d udu-hud an mes-sen an
+
+my hand. I was alone ; not born [were] they. Not
+
+
+dshesh-nd em Shu dn tdf-nd em Tdfnut
+
+had I spit in the form of Shu, not had I emitted Tefnut
+
+dn-nd re-d tches-d ren-d pit
+
+I brought [into] my mouth my own my name, that is to say,
+
+hehau dnuh 'pu Mieper - nd em
+
+a word of power, and I, even I, came into being in the form
+
+
+hheperu hhe^per-hud em kheperu en Kheperd
+
+of things which and I came in the forms of Khepera.
+came into being, into being
+
+
+'®l?i
+
+
+hheper-nd em pautti Icheper
+
+I came into being from the primeval matter, coming into bein^
+
+
+dsht Jcheperu em tep-a dn klieper
+
+[in] multitudes of forms from the beginning. Not existed
+
+
+I ^ _Mi^ I S AAAAAA i! W 1 1
+
+hheperu neht em ta pen dri-nd dri
+
+created things any in land this ; I made whatsoever was made
+
+
+THE CREATION
+
+
+M
+
+
+everything. I was alone, not existed [any other] who worked
+
+
+hend-d
+with me
+
+
+J
+
+
+em
+in
+
+
+bet
+place
+
+
+w
+
+
+put
+that ;
+
+
+art- a
+I made
+
+
+Jcheperu-d
+what I made
+
+
+w
+
+
+w
+
+
+I
+
+
+dmi em ha piii thes-nd
+
+therein by means of divine soul that [which] I raised up
+
+
+w
+
+
+AAAAAA
+AA/VUVN
+
+
+ami
+
+
+em
+
+
+Nu
+
+
+em
+
+
+enen an
+
+
+therein out of Nu (i.e., the primeval from a state of not
+
+abyss of water) inertness,
+
+
+w
+
+
+/WW
+
+I
+
+
+qemi-na
+found I
+
+
+bet
+
+
+dhd-nd
+
+
+ami
+
+
+hhut-nd
+
+
+a place whereon I could stand. I worked with the
+
+spirit [which] was
+
+
+w
+
+
+W
+
+
+em db-d
+
+
+senti
+
+
+nd em hrd-d dri-nd
+
+
+an
+
+
+in my heart, I laid a foundation before me, I made whatsoever
+
+was made
+
+
+I
+
+0
+
+
+all. I was alone, I laid a foundation in my heart,
+
+
+I
+
+
+(jemam-na
+I made
+
+
+0
+
+
+Jci Jiheperu dsht hlieperu nu
+
+other things which and manifold were the things of
+
+
+came into being,
+
+
+Klteperd.
+Khepera
+
+
+which came into being
+
+
+THE CREATION 317
+
+
+rtiPiP.T, k ^TMi ? m^
+
+
+I I I
+
+
+hheper an mesu-sen em Jcheperu nu mesu-sen
+
+Came into what they gave out of the creations of their offspring,
+beinsr birth to
+
+
+dnuk pu dshesh-iid em Shu tdf-nd
+
+1, even I, spat in the form of Shu, [and] I emitted
+
+
+.0^ w^ I k II !!^ Isil ■"
+
+em Tdfnut kheper-nd em neter ud neter hhemt
+
+Tefnut, [and] I became from god one gods three,
+
+jpu er-d hheperiut em ta fen
+
+that is to say, from myself two gods came into being on earth this.
+
+
+had dref Shu Tdfnut em Nu
+
+Were raised up therefore Shu and Tefnut in Ku (i.e., the
+
+primeval watery abyss)
+
+
+unen-sen dmi dn maat-d dn-nd sefi
+
+wherein they were. Behold, my eye brought to me they
+
+
+em-hhet henti uau-sen er-d
+
+in the train of a henti period, they proceeded from me.
+
+
+sam-nd em dt-d per-sen dmi tches-d em-hhet
+
+I collected my members, they came forth from myself after
+
+
+THE CREATION
+
+
+ra
+
+
+hat-nd
+I had union
+
+
+w
+
+
+em hliejd-d
+
+with my clenched hand,
+
+
+i-nd
+came to me (?)
+
+
+fet-d
+
+
+®
+
+
+db-d em fet-d dada Jcher em
+
+my heart (or, will) out of my hand. The seed [which] fell into
+
+
+r-rr-il
+
+7'e-d dshesh-nd
+
+my mouth, I spat
+
+
+0
+
+
+Col. xxix. 1. ^ R (3
+
+em Shu
+
+
+tdf-nd
+
+
+in the form of Shu, I emitted water
+
+
+1
+
+
+1
+
+
+e??i Tdfnut hhefer-nd em neter ud neteru
+
+intheformofTefnut, I became from [being] god one gods
+
+
+I I
+
+
+t'm
+
+
+hhemt pu er-d kheperiut
+
+three, that is to say, from myself two gods came into being on
+
+
+ta pen
+
+earth this.
+
+
+-HI
+
+had
+Were raised up
+
+
+Mr
+
+dref
+therefore
+
+
+Shu Tdfnut
+Shu and Tefnut
+
+
+em
+
+
+AAAA/NA
+
+
+A"'W
+
+
+I I I I 4
+
+
+W 1
+
+
+unen-sen
+
+
+ami
+
+
+from out of Nu (i.e., the inert wherein they were,
+primeval watery abyss)
+
+
+an
+Saith
+
+
+is repeated, apparently by inadvertence, in the papyrus.
+
+
+I I I
+
+
+THE CREATION
+
+
+dtef-d
+my father
+
+uahu
+
+
+(3 AAAAAA
+
+Nu
+
+
+^ ktP
+
+
+ati-sen maat-d em-sa sen
+
+
+Nu, ''They covered up my eye after them
+[or, made weak]
+
+A /www U U ^5=^0 0 1 J^ Jl III
+
+Sep sen lientiu uabu
+
+
+[with] bushes, twice, for hen periods.
+
+
+Vegetation
+
+
+hefi em Rem em rem-th
+
+and reptiles [came] from the god Rem, from the tears
+
+
+O
+
+er-d ha en maat-d hheper ret
+
+[falling] from me. Cried my eye, came into being mankind.
+
+
+D
+
+
+pu fehu-nd sii em khut hhdru-nes er-d
+
+I endowed it with power. It raged at me
+
+
+w
+
+
+0
+
+
+em-Jchet
+after
+
+Jcher
+Fell
+
+
+crz2
+em khennu en dst-s
+
+
+i-s Jcet ret
+
+it came [finding] another growth within its place.
+
+
+)WWAA AAAAAA
+
+en ten-ten-s du uahu-s her
+
+its vigorous power upon its bushes, upon
+
+
+uahu tehui-nd dm
+
+the bushes [which] I placed there to make adornment in it.
+
+
+se-ndd dm-s
+
+
+THE CREATION
+
+
+S'
+
+
+Tl
+
+
+Zl
+
+
+hlienti dref dst-s hrd-d heq-nes ta tcher - /
+
+Ruling therefore [on] its seat in my face it ruleth the whole earth.
+
+mes en Shu Tdfnut Nut Asdr Heru-lchenti-dn-maati
+
+Gave birth Shu [and] Tefnut to Nut, Osiris, Heru-khenti-an-maati,
+
+
+n
+
+
+I 1
+
+
+flNP
+
+
+I I
+
+
+Set Ast Neht-het dn mesu-sen
+
+Set, Isis, Nephthys, [and] behold, their children
+
+
+I I
+
+
+s
+
+
+qemam-sen
+they create
+
+
+hheperu
+beings
+
+
+dsht em ta
+manifold in earth
+
+
+D
+
+
+©
+
+
+I 1
+
+
+pen em kheperii nu mesu em
+
+this from the heinous of children, from
+
+
+INP
+
+
+I I
+
+
+fi
+
+
+I I I
+
+
+mesu-sen
+their children.
+
+
+Icheft-sen
+their enemies.
+
+
+shent-sen
+They invoke
+
+
+ren-a
+my name.
+
+
+0
+
+
+hheperu nu
+the beings of
+
+seJcher-sen
+they overthrow
+
+
+I I I
+
+
+U
+
+
+e
+
+
+I A^AAAA
+
+
+qemam-sen
+they create
+
+
+hehau en
+
+words of power for
+
+
+sehher Apep du-f her
+
+
+i
+
+
+e
+
+
+©
+
+
+X— /I
+
+
+J]
+
+
+I
+ddui
+
+
+sau her
+
+the overthrow of Apep, who is to be bound by the two hands
+
+
+THE CREATION
+
+
+671 AJcer an un ddui - f an im retui -/
+
+of Aker, not may be his two hands, not may be his two feet,
+
+
+i
+
+
+^ l^oJl'
+
+
+I I I
+
+
+satet - f en dst ud md Jm Rd setchebu-f
+
+may he be chained to one place even as inflicteth Ra his blows
+
+
+sekhev'tuf her sati-f
+
+
+W Cr£l
+til
+
+
+utu-nef du sefcfiev'tuf tier sati-J pui
+
+decreed for him. He is overthrown on his back wicked,
+
+
+I
+
+
+w
+
+
+I
+
+
+Q.
+
+
+senpu hrd-f her dri-nef meni sib
+
+slit is his face for what he hath done, and he remaineth
+
+
+1 w
+
+
+du
+
+sati - f
+
+pui
+
+fu
+
+upon
+
+his back
+
+evil
+
+
+CHAPTER IX
+
+
+RA, THE SUN-GOD, ""^Oi), AND HIS FORMS
+
+
+RA is the name which was given by the Egyptians of the
+dynastic period to the god of the sun, Avho was regarded
+as the maker and creator of everything which we see in the
+visible world around us, and of the gods in heaven, as well as of
+heaven itself, and of the Tuat or underworld and the beings
+therein ; the original meaning of his name is unknown, but at one
+period of Egyptian history it seems to have been thought that the
+word rd indicated " operative and creative power," and that as a
+proper name it represented in meaning something like " Creator,"
+this epithet being used much in the same way and with the same
+idea as we use the term when applied to God Almighty, the
+Creator of heaven and earth and of all things therein. The
+worship of the sun in Egypt is extremely ancient and appears to
+have been universal ; at a very early period adoration of him was
+associated with that of the hawk-god Heru, who was the personification of the " height " of heaven, and who appears to have been
+a type and symbol of the sun. The worship of the hawk-god
+
+Heru, § "^ % ^? is the oldest in Egypt, and, strictly speaking,
+he should have been discussed before Ra, but as Ra and the
+personifications of his various forms are the greatest of the gods of
+the Egyptians, he must be regarded as the true " father of the
+gods," and his attributes, and the myths which grew up round
+him must be considered before those of Horus. The god Ra is
+usually depicted with the body of a man and the head of a hawk,
+but sometimes he is represented in the form of a hawk ; on his
+head he wears his symbol, ^, i.e., the disk of the sun encircled by
+
+
+BOATS OF THE SUN 323
+
+
+made. When he has a human body he holds the emblem of life, ■¥",
+
+in his right hand, and a sceptre, |, in his left, and from the belt of
+
+his tunic hangs down the tail, which is a survival of the dress of
+men in predynastic times, and probably later. Viewed from a
+practical point of view Ra was the oldest of all the gods of Egypt,
+and the first act of creation was the appearance of his disk above
+the waters of the world-ocean ; with his first rising time began,
+but no attempt was ever made to say when, i.e., how long ago, his
+first rising took place. When the Egyptians said that a certain
+thino- had been in existence " since the time of Ra " ^ it
+
+
+was
+
+
+equivalent to saying that it had existed for ever.
+
+The Egyptians, knowing that the sun was a fire, found a
+difficulty in assuming that it rose directly into the sky from out of
+the watery mass wherein it was brought forth, and they, therefore,
+assumed that it must make its journey over the waters in a boat,
+or boats, and as a matter of fact they believed that it passed
+over the first half of its course in one boat, and over the second
+half in another. The morning boat of the sun was called Matet,
+
+^. :) — c Q^lj^, i.e., "becoming strong," and the name of
+
+
+weak"; these are appropriate names for the rising and the
+setting sun.^ The course which Ra followed in his journey across
+the sky was thought to have been defined at creation by the
+goddess called Maat, who was the personification of the conceptions
+of rectitude, straightness, law, order, unfailing regularity, and the
+like, and there is no doubt that it was the regular and unfailing
+appearance of the sun each morning, as much as its light and heat,
+which struck wonder into primitive man, and made him worship
+the sun. In passing through the Tuat, or underworld, at night
+Ra was supposed to be obliged to leave his boat at certain places,
+and to make use of others, including even one which was formed
+by the body of a serpent ; according to one opinion he changed his
+
+
+O .^ a ^. 2 See Unas, 1. 292.
+
+
+324 MYTHOLOGICAL FISH
+
+boat every hour during the day and night, but the oldest belief of
+all assigned to him two boats only. Ra was accompanied on his
+journey by a number of gods, whose duties consisted in navigating
+the boat, and in helping it to make a successful passage from the
+eastern part of the sky to the place where the god entered the
+Tuat; the course was set by Thoth and his female counterpart
+Maat, and these stood one on each side of Horus, who acted as the
+steersman and apparently as captain also. Before the boat of Ra, one
+and mythological texts which have come down to us, not all the
+power of Ra himself, nor that of the gods Avho were with him,
+could ward off the attacks of certain fiends and monsters which
+endeavoured to obstruct the passage of his boat.
+
+
+Sebau, p JH^mh, and Nak, I] -^3:^ »h, and of these the
+
+greatest and most wicked was Apep. In dynastic times Apep was
+a personification of the darkness of the darkest hour of the night,
+against which Ra must not only fight, but fight successfully before
+he could rise in the east in the morning ; but originally he was
+the thick darkness which enveloped the watery abyss of Ku, and
+which formed such a serious obstacle to the sun when he was
+making his way out of the inert mass from which he proceeded to
+rise the first time. In the Booh of the Dead he is frequently
+mentioned,^ but rather from a moral than a physical point of view.
+Thus in the xxxixth Chapter the deceased says : " Get thee back,
+" Fiend before the darts of his beams. Ra hath overthrown
+" thy words, the gods have turned thy face backwards, the Lynx
+'* Scorpion goddess, § ^ W^ , hath cast fetters upon thee, and
+" Maat hath sent forth thy destruction. Those who are in the
+"ways have overthrown thee; fall down and depart, 0 Apep,
+
+1 Boole of flic Dead. {Papyrus of Ami, pi. 1, line 15.)
+
+2 See the Vocabulary to my Chaiyters of Coming Forth by Day, under Apep (p. 61).
+
+
+RA AND APEP 325
+
+" thou Enemy of Ra." A little further on the deceased says : " I
+" have brought fetters to thee, 0 Ra, and Apep hath fallen because
+" thou hast drawn them tight. The gods of the South, and of the
+" North, of the West and of the East have fastened chains upon
+" him, and they have fastened him with fetters ; the god
+
+" Enemy of Ra, thou shalt never partake of the delights of love,
+" thou shalt never fulfil thy desire ! He maketh thee to go back,
+'' 0 thou who art hateful to Ra ; he looketh upon thee, get thee
+" back. He pierceth thy head, he slitteth up thy face, he divideth
+" thy head where its bones join and it is crushed in thy land, thy
+"bones are smashed in pieces, thy members are hacked off thee,
+
+
+" upon thee."
+
+From the '' Books of Overthrowing Apep," ^ we obtain
+further information as to the destruction of the monster, and we
+find, that this work was recited daily in the temple of Amen-Ra
+at Thebes. The first Book was divided into Chapters, which were
+entitled: — 1. Chapter of spitting upon Apep. 2. Chapter of
+defiling Apep with the left foot. 3. Chapter of taking a lance to
+smite Apep. 4. Chapter of fettering Apep. 5. Chapter of taking
+a knife to smite Apep. 6. Chapter of putting fire upon Apep.
+The following Books describe with great minuteness the details of
+the destruction which was to fall upon Apep, and they are insisted
+on to a wearisome degree ; according to these the monster, which
+is referred to at one time as a crocodile and at another as a
+serpent, is first to be speared, then gashed with knives, and every
+bone of his body having been separated by red-hot knives, and his
+head, and legs, and tail, etc., having been cut ofi', his remains were
+to be scorched, and singed, and roasted, and finally shrivelled up
+and consumed by fire. The same fate was to come upon Apep's
+confederates, and everything which formed parts of him and of
+them, i.e., their shadows, souls, doubles, and spirits, were to be
+
+1 See Archaeologia, vol. Hi. {The Papyrus of Nesi-Amsu).
+
+
+326 NAMES OF APEP
+
+wiped out of existence, including any offspring which they might
+possess. Not content with reciting the words of power which
+would have the effect of destroying Apep and his fiends, great care
+was taken to perform various ceremonies of a magical character,
+which were supposed to benefit not only Ra, but those who
+worshipped him on earth. Apep was both crafty and evil-doing,
+and like Ra, he possessed many names ; to destroy him it was
+necessary to curse him by each and every name by which he was
+known. To make quite sure that this should be done effectively
+the Papyrus of Nesi-Amsu adds a list of such names, and as they
+are the foundation of many of the magical names met with in later
+papyri they are here enumerated: — 1. Nesht. 2. Tutu. 3.
+Hau-hra. 4. Hemhemti. 5. Qettu. 6. Qerneru. 7. Iubani.
+8. Amam. 9. Hem-taiu. 10. Saatet-ta. 11. Khermuti. 12.
+Kenememti. 13. Sheta. 14, Serem-taui. 15. Sekhem-hra. 16.
+Unti. 17. Karau-anememti. 18. Khesef-hra. 19. Seba-ent-
+SEBA. 20. Khak-ab. 21. Khan-ru .... UAA. 22. Nil. 23.
+Am. 24. Turrupa(?) 25. Iubau. 26. Uai. 27. Kharubu, the
+
+FOUR TIMES WICKED. 28. SaU. 29. BeTESHU.^
+
+In the Egyptian texts we have at present no account of the
+
+
+W
+
+
+wm
+
+
+RA AND APEP 327
+
+first fight which took place between Ra and Apep, but it is clear from
+several passages in the " Books of Overthrowing Apep " that such
+a thing must have occurred, and that the means employed by the
+Sun-god for destroying his foe resembled those made use of by
+Marduk in slaying Tiamat. The original of the Assyrian story is
+undoubtedly of Sumerian origin, and must be very old, and it is
+probable that both the Egyptians and the Sumerians derived their
+versions from a common source. In the Assyrian version^ Marduk
+is armed with the invincible club which the gods gave him, and
+with a bow, spear, net, and dagger ; the lightning was before him,
+and fierce fire filled his body, and the four-fold wind and the
+seven-fold wind went with him. Marduk grasped the thunderbolt
+and then mounted his chariot, drawn by four swift and fiery horses
+which had been trained to beat down under their feet everything
+which came in their way. "When he came to the place where
+Tiamat was, Kingu, whom she had set over her forces, trembled
+and was afraid, but Tiamat "stood firm with unbent neck."
+After an exchange of words of abuse the fight began, and Tiamat
+pronounced her spell, which, however, had no effect, for Marduk
+caught her in his net, and drove the winds which he had with him
+into her body, and whilst her belly was thus distended he thrust
+his spear into her, and stabbed her to the heart, and cut through
+her bowels, and crushed her skull with his club. On her body he
+took his stand, and with his knife he split it " like a flat fish into
+two halves," and of one of these he made a covering for the
+heavens. With the exception of the last, every detail of the
+Assyrian account of the fight has its equivalent in the Egyptian
+texts which concern Ra and Apepi. An allusion to the fight is
+found in the apocryphal work of " Bel and the Dragon," wherein
+we are told that both the god and the monster were worshipped in
+Babylon ; but the narrative says that the dragon was destroyed by
+means of lumps of pitch, and fat, and hair seethed together, and
+that these having been pushed into the creature's mouth he burst
+asunder. In Egyptian papyri Apep is always represented in the
+form of a serpent, in each undulation of which a knife is stuck,
+
+1 See King, Babylonian Beligion, p. 71 fE.
+
+
+328 THE CITY OF THE SUN
+
+fastened by the neck with a chain (along which is stretched the
+scorpion goddess Serqet}, the end of which is in the hands of a
+god, and also chained to the ground by five chains.
+
+It has already been said that Ra was the " father of the gods,"
+and we find that as early as the Vth Dynasty a female counterpart,
+who was the mother of the gods, was assigned to him. This
+
+goddess is called in the text of Unas (1. 253) Rat, ® , and in later
+
+times her title appears to have been " Rat of the two lands, the
+
+" lady of heaven, mistress of the gods," — n '" ^ f=^ 111'
+
+she is also called " Mistress of Heliopolis." Her full name was,
+
+perhaps, Rat-taiut, (=?=' ^ JJ, i.e., "Rat of the world." She is
+
+depicted in the form of a woman who wears on her head a disk
+with horns and a uraeus, and sometimes there are two feathers
+above the disk ; ^ the attributes of the goddess are unknown, but it
+is not likely that she was considered to be more important than
+any other great goddess.
+
+The home and centre of the worship of Ra in Egypt during
+
+dynastic times was the city called Annu, [1^, or An by the
+
+Egyptians, On by the Hebrews, and Heliopolis by the Greeks ; its
+site is marked by the village of Matariyeh, which lies about five
+miles to the north-east of Cairo. It was generally known as Annu
+meht, i.e., Annu of the North, to distinguish it from Annu Qemau,
+i.e., Annu of the South," or Hermonthis. Among the early
+Christians great store was set upon the oil made from the trees
+which grew there, and in the famous " Fountain of the Sun " the
+Virgin Mary is said to have washed the garments of her Son ; the
+ancient Egyptians also believed that Ra bathed each day at sunrise
+in a certain lake or pool which was in the neighbourhood. Of the
+origin and beginnings of the worship of Ra at Heliopolis we know
+nothing, but it is quite certain that under the Vth Dynasty, about
+B.C. 3350, the priests of Rfi had settled themselves there, and that
+they had obtained great power at that remote period. The
+
+1 See Lanzone, op. cit., pi. 186, Nos. 1-4.
+
+
+RA WORSHIP 329
+
+evidence derived from the Westcar Papyrus ^ indicates that Userka-f, the first king of the Vth Dynasty, was the high-priest of Ra,
+and that he was the first to add " son of the Sun " to the titles of
+Egyptian monarchs. Up to that time a king seems to have
+possessed : — 1. A name as the descendant or servant of Horus. 2.
+A name as the descendant or servant of Set. 3. A name as lord
+
+of the shrines of Nekhebet and TJatchit, ^£. 4. A name as king
+
+
+second cartouche, and it was adopted by every succeeding king of
+Egypt. According to the Westcar Papyrus User-ka-f and his two
+immediate successors Sahu-Ra and Kakaa were the sons of the god
+Ra by Rut-tetet, the wife of a priest of the god Ra of Sakhabu,
+
+[q] I ^-^ J|y) © j these were brought into the world by the
+
+goddesses Isis, Nephthys, Meskhenet, and Heqet, and by the god
+Khnemu, and it was decreed by them that the three boys should
+be sovereigns of Egypt.
+
+This legend is of importance, not only as showing the order
+of the succession of the first three kings of the Vth D3masty, but
+also because it proves that in the early Empire the kings of Egypt
+believed themselves to be the sons of Ra, the Sun-god. All
+chronological tradition affirms that Ra had once ruled over Egypt,
+and it is a remarkable fact that every possessor of the throne of
+Egypt was proved by some means or other to have the blood of
+Ra flowing in his veins, or to hold it because he was connected
+with Ra by marriage. The bas-reliefs of Queen Hatshepset at
+Der al-Bahari, and those of Amen-hetep III. at Luxor, and those
+of Cleopatra VII. in the temple at Erment (now destroyed, alas!)
+describe the process by which Ra or Amen-Ra became the father
+of the kings and queens of Egypt. From these we see that
+whenever the divine blood needed replenishing the god took upon
+himself the form of the reigning king of Egypt, and that he visited
+the queen in her chamber and became the actual father of the child
+who was subsequently born to her. When the child was born it
+
+^ See Brman, Westcar Papyrua^ p]. ix. ft.
+
+
+330 RA AND RA-TEJM
+
+was regarded as a god incarnate, and in due course was presented,
+with appropriate ceremonies, to Ra or Amen-Ra, in his temple,
+and this god accepted it and acknowledged it to be his child. This
+clever priestly device gave the priests of Ra great power in the
+land, but their theocratic rule was not always the best for Egypt,
+and on one occasion they brought about the downfall of a dynasty.
+The first rise to power of the priests of Ra took place at the
+beginning of the Vth Dynasty, when the cult of Ra became
+dominant in the land. About the time of Userkaf we find that a
+number of shrines, which united the chief characteristics of the
+low rectangular tomb commonly known by its Arabic name of
+
+honour of the god ; ^ but, according to Prof. Sethe, the custom of
+building such only lasted for about one hundred years, i.e., from
+the reign of Userkaf to that of Men-kau-Heru. Be this as it may,
+the priesthood of Heliopolis succeeded in making their worship of
+Ra to supersede generally that of almost every other god of Egypt,
+and in absorbing all the local gods of importance throughout the
+country into their theological system, wherein they gave them
+positions subordinate to those of Ra and his company of gods.
+
+Originally the local god of the city was Tem, who was
+worshipped there in a special temple, but they united his attributes
+
+1. 222). With the close of the Vlth Dynasty the power of the priests
+of Ra declined, and it was not until the reign of Usertsen I., about
+B.C. 2433, that the sanctuary at Heliopolis Avas rebuilt, or perhaps
+entirely refounded. This king dedicated the temple which he
+built there to Ra and to two forms of this god, Horus and Temu,
+who were supposed to be incarnate in the famous Bull of Mnevis,
+which was worshipped at Heliopolis as Apis was worshipped at
+Memphis. In front of the temple he set up two massive granite
+obelisks, each 66 feet high, the pyramidions of which were covered
+with copper; these were still in situ about a.d. 1200. BetAveen
+the XTIth and the XXth Dynasties we hear little of Heliopolis, but
+
+1 See an interesting paper on this subject by Sethe in Ae(iyj)tische ZeitscJni/t,
+1889, p. Ill ff. (i),'e IleillgtMl uer des Be' hn alten Eeich).
+
+
+HELIOPOLIS 331
+
+a further restoration of the temple buildings took place under
+Rameses III., who set apart large revenues for the maintenance of
+the worship of Ra and the dignity of his priests and servants.
+When Piankhi invaded Egypt, about B.C. 750, he visited
+Heliopolis after the capture of Memphis, going by way of the
+
+
+certain ceremonial ablutions in the "Lake of cold water," fO,
+
+I s (A
+
+and washed his face in the " milk of Nu wherein Ra was wont to
+" wash his face ;" ^ this " Lake " is clearly the fountain of the sun
+which we have already mentioned.
+
+At a place called Shai-qa-em-Annu ^ he " made great offerings
+at Sha-qa-em-Amen to Ra at sunrise, viz., white oxen, milk, dnti
+unguent, incense, and sweet-smelling woods, and then he passed
+into the temple of Ra, which he entered bowing low in
+adoration to the god. The chief kher heb priest, r|j '^ ® ,
+offered up prayer on behalf of the king, that he might be able to
+repulse his enemies, and then having performed the ceremony
+connected with the ' Star-room,' , , he took the seteb girdle,
+and purified himself with incense, and poured out a libation,
+when one brought to him the flowers which are offered up in the
+Het-Benbenet,^ r J /vwwn J |. He took the flowers and went
+
+
+to see Ra in Het-Benbenet. He stood [on the tojDJ there by
+himself, he pushed back the bolt, he opened the doors [of the
+tabernacle], and he saw his father Ra in Het-Benbenet. He
+made adoration to the Matet Boat of Ra (i.e., the boat of the
+rising sun), and to the Sektet boat of Tem (i.e., the boat of the
+setting sun). He then dreAV close the doors again, and having
+affixed thereto the clay for a seal he stamped it with the seal of
+
+
+(Stele of PiankH, 1. 102).
+^ I.e., the shrine or holy of holies of the temple of Rm..
+
+
+332 HELIOPOLIS
+
+" the king himself. He then admonished the priests [saying], ' I
+" have set [my] seal here, let no other king enter herein [or] stand
+" here.' And they cast themselves on their bellies before his
+" majesty, saying, ' May Horus who loveth Annu (Heliopolis) be
+" firm and stable, and may he never come to an end.' And the
+" king went into the Temple of Tem, and he performed all the
+" ceremonies and service connected with the worship of father
+
+From the above it is certain that the sacred boats of Ra were
+
+
+kept in a sort of wooden tabernacle with two doors, ^| , that
+
+I I
+
+could be fastened by a bolt, and from what we know from pictures
+of these boats it is equally certain that the Matet boat contained a
+hawk-headed figure of Ra, and that the Sektet boat contained a
+man-headed figure of Ra. The text says that the tabernacle,
+
+
+what we should expect, for we know that the support was intended
+to represent the high ground in or near the city of Khemennu,
+
+
+the day when he proceeded fi'om the watery abyss of Nu, before
+the pillars of Shu were set up. In the Book of the Dead this
+
+
+invasion the prosperity of the priesthood of Heliopolis declined,
+and it is said that later, during the reign of Ptolemy 11. (b.c. 285-
+247) many of its members found an asylum at Alexandria, Avhere
+their reputation for learning caused them to be welcomed. A
+tradition says Solon, Thales, and Plato all visited the great college
+at Heliopolis, and that the last-named actually studied there, and
+that Manetho, the priest of Sebennytus, Avho Avrote a history of
+Egypt in Greek for Ptolemy II., collected his materials in the
+library of the priesthood of Ra. Some time, however, before the
+Christian era, the temple buildings were in ruins, and the glory of
+Heliopolis had departed, and it was frequented only by those who
+went there to carry away stone or anything else which would be
+useful in building or farming operations.
+
+
+CULT OF HELIOPOLIS 333
+
+We have now to consider briefly Avhat was the nature of the
+doctrine which was the distinguishing characteristic of the
+teaching of the priests of HeliopoHs. In the first place it proclaimed the absolute sovereignty of Ra among the gods, and it
+made him the head of every company of the gods, but it did not
+deny divinity to the older deities of the country. The chief
+authorities for the Heliopolitan doctrine are the Pyramid Texts, to
+which allusion has so often been made, and from these we see that
+the priests of Ra displayed great ingenuity and tact in absorbing
+into their form of religion all the older cults of Egypt, together
+with their magical rites and ceremonies. Apparently they did not
+attempt to abolish the old, indigenous gods ; on the contrary, they
+allowed their cults to be continued, provided that the local priesthoods would make their gods subordinate to Rii. Thus Osiris
+and Isis, and their companion gods, were absorbed into the great
+company of the gods of Heliopolis, and the theological system of
+the priests of Osiris was mixed with that of the priests of Ra.^
+Nothing is known of the origin of Osiris worship, but the god
+himself and the ceremonies which accompanied the celebration of
+his festivals suggest that he was known to the predynastic dwellers
+in Egypt. The belief in the efficacy of worship of the Man-god,
+who rose from the dead, and established himself in the underworld
+as judge and king, was indelibly impressed on the minds of the
+Egyptians at a very early period, and although the idea of a
+heaven of material delights which was promised to the followers of
+Osiris did not, probably, commend itself in all particulars to the
+imaginations of the refined and cultured folk of Egypt, it was
+tacitly accepted as true and was regarded as a portion of their
+religious inheritance by the majority of the people. On the other
+hand, the priests of Ra declared that the souls of the blessed made
+their way after death to the boat of Ra, and that if they succeeded
+in alighting upon it their eternal happiness was assured. No
+fiends could vex and no foes assail them successfully, so long as
+they had their seat in the " Boat of Millions of Years; " they lived
+upon the food on which the gods lived, and that food was light.
+They were apparelled in light, and they were embraced by the god
+of light. They passed with Ra in his boat through all the dangers
+
+
+334 CULT OF HELIOPOLIS
+
+of the Tuat, and when the god rose each morning they were free
+to wander about in heaven or to visit their old familiar habitations
+on earth, always however taking care to resume their places in the
+boat before nightfall, at which time evil spirits had great power
+to injure, and perhaps even to slay, the souls of those who had
+failed to arrive safely in the boat.
+
+But although the priests of Ra under the Early Empire, and
+the priests of Amen-Ra under the Middle and New Empires, were
+supported by all the power and authority of the greatest kings and
+queens who ever sat upon the throne of Egypt, in their proclamation of a heaven, which was of a far more spiritual character than
+that of Osiris, they never succeeded in obliterating the belief in
+Osiris from the minds of the great bulk of the population in Egypt.
+The material side of the Egyptian character refused to be weaned
+from the idea of a Field of Peace, which was situated near the
+Field of Reeds and the Field of the Grasshoppers,^ where wheat
+and barley grew in abundance, and where a man would possess a
+vine, and fig trees, and date palms, and be waited upon by his
+father and his mother, and where he would enjoy an existence
+more comfortable than that which he led upon this earth. The
+doctrine of a realm of light, where the meat, and drink, and
+raiment were light, and the idea of becoming a being of light, and
+of passing eternity among creatures of light did not satisfy him.
+The result of all this was to create a perpetual contest between the
+two great priesthoods of Egypt, namely, those of Ra and Osiris ;
+in the end the doctrine of Osiris prevailed, and the attributes of
+the Sun-god were ascribed to him. In considering the struggle
+which went on between the followers of Ra and Osiris it is difficult
+not to think that there was some strong reason for the resistance
+Avhich the priests of Ra met with from the Egyptians generally,
+and it seems as if the doctrine of Ra contained something which
+was entirely foreign to the ideas of the people. The city of
+Heliopolis appears always to have contained a mixed population,
+and its situation made it a very convenient halting-place for
+travellers passing from Arabia and Syria into Egypt and ince
+
+
+n
+
+
+HYMNS TO RA 335
+
+versa; it is, then, most probable that the doctrine of Ra as taught
+by the priests of Heliopolis was a mixture of Egyptian and
+Western Asiatic doctrines, and that it was the Asiatic element in
+it which the Egyptians resisted. It could not have been sunworship which they disliked, for they had been sun-Avorshippers
+from time immemorial.
+
+The above paragraphs contain a statement of the facts
+concerning the worships of Ra and Osiris which appear to be
+fairly deducible from the extant religious literature of the
+Egyptians, but it is time to let the hymns to these gods declare
+the attributes which were assigned to them during the most
+flourishing period of Egyptian history. More hymns were addressed to these two than to any other gods, a fact which proves
+that they were considered to be the chief means of salvation for
+the Egyptians. The following hymns are taken from the Papyri of
+Hunefer, and Ani, and Nekht ^ : —
+
+" Homage to thee, 0 thou who art Ra when thou risest, and
+" Temu when thou settest. Thou risest, thou risest, thou shinest,
+" thou shinest, thou who art crowned king of the gods. Thou art
+" the lord of heaven, thou art the lord of earth ; thou art the
+" creator of those who dwell in the heights and of those who
+" dwell in the depths. Thou art the God One who didst come
+" into being in the beginning of time. Thou didst create the earth,
+" thou didst fashion man, thou didst make the watery abyss of the
+" sky, thou didst form Hapi (the Nile), thou didst create the
+" watery abyss, and thou dost give life unto all that therein is.
+"Thou hast knit together the mountains, thou hast made mankind
+" and the beasts of the field to come into being, thou hast made
+"the heavens and the earth. Worshipped be thou whom Maat
+" embraceth at morn and at eve. Thou dost travel across the sky
+"with heart swelling with joy; the Lake of Testes becometh
+" contented thereat. The serpent-fiend Nak hath fallen, and his
+" two arms are cut off. The Sektet boat receiveth fair winds, and
+" the heart of him that is in the shrine thereof rejoiceth. Thou art
+" crowned prince of heaven, and thou art the One dowered [with
+
+1 See my Chajpters of Coming Forth ly Day (Translation), pp. 8, 36.
+
+
+336 HYMNS TO RA
+
+" all attributes] who comest forth from the sky. Ra is he whose
+" word when uttered must come to pass. 0 thou divine Youth,
+" thou heir of everlastingness, thou self-begotten one, thou who
+" didst give thyself birth 1 0 thou One, thou mighty [one] of
+" myriad forms and aspects, King of the world, Prince of Annu
+" (Heliopolis), lord of eternity and ruler of everlastingness, the
+" company of the gods rejoice when thou rises t and when thou
+"sailest across the sky, 0 thou who art exalted in the Sektet
+"boat." (From the Papyrus of Hunefer, sheet 1.)
+
+" Hail, thou Disk, thou lord of rays, who risest on the horizon
+" day by day ! Homage to thee, 0 Heru-khuti, who art the god
+" Khepera, the self-created ; when thou risest on the horizon and
+" sheddest thy beams of light upon the lands of the North and
+" of the South, thou art beautiful, yea beautiful, and all the gods
+^' rejoice when they behold thee, the King of heaven. The goddess
+" Nebt-unnut is stablished upon thy head ; and her uraei of the
+'' South and of the North are upon thy brow ; she taketh up her
+" place before thee. The god Thoth is stablished in the bows of
+" thy boat to destroy utterly all thy foes. Those who are in the
+" Tuat come forth to meet thee, and they bow in homage as they
+" come towards thee to behold thy beautiful form. And I have
+" come before thee that I may be with thee to behold thy Disk
+' ' every day. May I not be shut up in [the tomb], may I not be
+" turned back, may the members of my body be made new when I
+" view thy beauties, even as [are those of] all thy favoured ones,
+^' because I am one of those who worship j^ed thee upon earth. May
+" I come in unto the land of eternity, may I come even unto the
+" everlasting land, for behold, 0 my lord, this hast thou ordained
+" for me.
+
+" Homage to thee, 0 thou Avho risest in the horizon as Ra,
+" thou restest upon law unchangeable and unalterable. Thou
+"passest over the sky, and every face watcheth thee and thy
+" course, for thou hast been hidden from their gaze. Thou dost
+" show thyself at dawn and at eventide day by day. The Sektet
+" boat, wherein is thy Majesty, goeth forth with light ; thy beams
+" are upon all faces ; the [number] of thy red and yellow rays
+" cannot be known, nor can thy bright beams be told. The lands
+
+
+HYMN TO RA 337
+
+" of the gods, and the lands of Punt must be seen, ere that which
+" is hidden [in thee] may be measured. Alone and by thyself thou
+" dost manifest thyself when thou comest into being above Nu.
+" May I advance, even as thou dost advance ; may I never cease to
+" go forward as thou never ceasest to go forward, even though it be
+" for a moment ; for with strides thou dost in one little moment
+" pass over the spaces which would need millions and millions of
+" years [for men to pass over ; this] thou doest and then thou dost
+" sink to rest. Thou puttest an end to the hours of the night, and
+" thou dost count them, even thou ; thou endest them in thine
+" own appointed season, and the earth becometh light. Thou
+" settest thyself therefore before thy handiwork in the likeness of
+" Ra [when] thou risest on the horizon.
+
+" Thou art crowned with the majesty of thy beauties ; thou
+" mouldest thy limbs as thou dost advance, and thou bringest them
+" forth without birth-pangs in the form of Ra, as thou dost rise
+" up into the upper air. Grant thou that I may come unto the
+" heaven which is everlasting, and into the mountain where dwell
+" thy favoured ones. May I be joined unto those shining beings,
+" holy and perfect, who are in the Underworld ; and may I come
+" forth with them to behold thy beauties when thou shinest at
+" eventide and goest to thy mother Nu. Thou dost place thyself
+" in the west, and my two hands are [raised] in adoration of thee
+" when thou settest as a living being. Behold, thou art the
+" maker of eternity, and thou art adored when thou settest in the
+"heavens. I have given my heart unto thee without wavering,
+" 0 thou who art mightier than the gods. A hymn of praise to
+" thee, 0 thou who risest Uke unto gold, and who dost flood the
+"world with light on the day of thy birth. Thy mother giveth
+" thee birth, and thou dost give light unto the course of the Disk.
+" 0 thou great Light, who shinest in the heavens, thou dost
+" strengthen the generations of men with the Mle-flood, and thou
+" dost cause gladness in all lands, and in all cities, and in all
+"temples. Thou art glorious by reason of thy splendours, and
+" thou makest strong thy Double with divine foods. 0 thou
+" mighty one of victories, thou who art the Power of Powers, who
+" dost make strong thy throne against evil fiends ; who art glorious
+z
+
+
+338 HYMN TO RA
+
+" in majesty in the Sektet boat, and who art exceedingly mighty
+" in the Atet boat, make thou me glorious through words which
+"when spoken must take effect in the UnderAvorld; and grant thou
+" that in the nether world I may be without evil. I pray thee to
+" put my faults behind thee ; grant thou that I may be one of thy
+" loyal servants who are with the shining ones ; may I be joined
+"unto the souls which are in Ta-tchesertet, and may I journey
+" into the Sekhet-Aaru by a prosperous and happy decree." (From
+the Papyrus of Ani, sheet 20 f.)
+
+" Homage to thee, 0 thou glorious being, thou who art
+" dowered with all attributes, 0 Tem-Heru-khuti, when thou risest
+" in the horizon of heaven, a cry of joy cometh forth to thee from
+"the mouth of all peoples. 0 thou beautiful being, thou dost
+" renew thyself in thy season in the form of the Disk within thy
+" mother Hathor ; therefore in every place every heart swelleth
+" with joy at thy rising for ever. The regions of the North and
+" South come to thee with homage, and send forth acclamations at
+" thy rising in the horizon of heaven ; thou illuminest the two
+" lands with rays of turquoise light. 0 Ra, thou who art Heru-
+"khuti, the divine man-child, the heir of eternity, self-begotten
+" and self-born, king of earth, prince of the Tuat, governor of
+" the regions of Aukert ; thou comest forth from the water, thou
+" hast sprung from the god Nu, who cherisheth thee and ordereth
+" thy members. 0 thou god of life, thou lord of love, all men live
+"when thou shinest; thou art crowned king of the gods. The
+" goddess Nut doeth homage unto thee, and Maat embraceth thee
+"at all times. Those who are in thy following sing unto thee
+" with joy and bow down their foreheads to the earth when they
+" meet thee, thou lord of heaven, thou lord of earth, thou king of
+" Right and Truth, thou lord of eternity, thou prince of ever-
+" lastingness, thou sovereign of all the gods, thou god of life, thou
+" creator of eternity, thou maker of heaven wherein thou art firmly
+" established.
+
+" The company of the gods rejoice at thy rising, the earth is
+" o-lad when it beholdeth thy rays ; the peoples that have been
+" long dead come forth with cries of joy to see thy beauties every
+" day. Thou goest forth each day over heaven and earth and art
+
+
+THE PRAISES OF RA 339
+
+'made strong each day by thy mother Nut. Thou passest
+' through the heights of heaven, thy heart swelleth with joy ; and
+' the Lake of Testes is content thereat. The Serpent-fiend hath
+' fallen, his arms are hewn off, the knife hath cut asunder his
+'joints. Ra liveth by Maat the beautiful. The Sektet boat
+' draweth on and cometh into port ; the South and the North, the
+'West and the East turn to praise thee, 0 thou primeval
+' substance of the earth who didst come into being of thine own
+' accord. Isis and Nephthys salute thee, they sing unto thee
+' songs of joy at thy rising in the boat, they protect thee with their
+' hands. The souls of the East follow thee, the souls of the West
+' praise thee. Thou art the ruler of all the gods, and thou hast
+'joy of heart within thy shrine, for the serpent fiend Nak hath
+'been condemned to the fire, and thy heart shall be joyful for
+'ever." (From the Papyrus of NekJit, sheet 21.)
+
+Even more instructive, however, than these are the Seventyfive Praises of Ra which are found inscribed on the walls of royal
+tombs of the XlXth and XXth Dynasties at Thebes. In these we
+find enumerated a large number of most remarkable epithets and
+attributes, some idea of the meaning of which will be gathered
+from the following rendering : —
+
+1. " Praise be to thee, 0 Ra, exalted Sekhem,^ lord of the hidden
+" circles [of the Tuat], bringer of forms, thou restest in secret
+" places and makest thy creations in the form of the god Tamt
+
+2. " Praise be to thee, 0 Ra, exalted Sekhem, thou creative force
+" (S (=) (][) {)? who spreadest out thy wings, who restest in
+" the Tuat, who makest the created things which come forth
+" from his divine limbs,
+
+3. " Praise be to thee, 0 Ra, exalted Sekhem, Ta-thenen, begetter
+" of his gods. Thou art he who protecteth what is in him, and
+" thou makest thy creations as Governer of thy Circle.
+
+4. " Praise be to thee, 0 Ra, exalted Sekhem, looker on the
+" earth, and brightener of Amenti. Thou art he whose forms
+
+1 Literally, "Power."
+
+
+340 THE PRAISES OF RA
+
+
+v^ : i) are his own creations, and thou makest thy
+
+" creations in thy Great Disk.
+
+5. " Praise be to thee, 0 Ra, exalted Sekhem, the Word-soul,
+" that resteth on his high place. Thou art he who pro-
+
+" in thee.
+
+6. " Praise be to thee, 0 Ra, exalted Sekhem, mighty one, bold of
+" face, the knitter together of his body. Thou art he who
+" gathereth together thy gods when thou goest into thy hidden
+" Circle.
+
+7. " Praise be to thee, 0 Ra, exalted Sekhem. Thou dost call to
+" thine Eye, and dost speak to thy head, and dost give breath
+" to the souls in their places, and they receive it and have
+'' their forms in him.
+
+8. " Praise be to thee, 0 Ra, exalted Sekhem, destroyer of thy
+" enemies ; thou art he who doth decree destruction for the
+
+9. " Praise be to thee, 0 Ra, exalted Sekhem, the sender forth
+" of light into his Circle ; thou art he who maketh the
+" darkness to be in his Circle and thou coverest those who are
+" therein."
+
+10. " Praise be to thee, 0 Ra, exalted Sekhem, the illuminer
+" of bodies in the horizons ; thou art he who entereth into
+" his Circle.
+
+
+" of the Circles of Ament ; thou art indeed the body of Temu
+
+12. " Praise be to thee, 0 Ra, exalted Sekhem, the hidden support
+'' Khepera (^ (=) (| ^) .
+
+13. " Praise be to thee, 0 Ra, exalted Sekhem, whose duration of
+" life is greater than that of her whose forms are hidden ;
+
+
+14. " Praise be to thee, 0 Ra, exalted Sekhem, the guide
+
+
+THE PRAISES OF RA 341
+
+" bodies of Tefnut (,^__ ^ ^) .
+
+15. " Praise be to thee, 0 Ra, exalted Sekhem ; thou dost make
+"to be abundant the things which are of Ra in their seasons,
+
+16. "Praise be to thee, 0 Ra, exalted Sekhem, the mighty one
+" who doth keep count of the things which are in him ; thou
+*' art indeed the bodies of Nut.
+
+17. " Praise be to thee, 0 Ra, exalted Sekhem, the lord who
+
+" advancest ; thou art indeed Isis ( j Jj j .
+
+18. "Praise be to thee, 0 Ra, exalted Sekhem, whose head
+" shineth more than the things which are in front of him ;
+
+" thou art indeed the bodies of Nephthys (TT '^ 3) .
+
+19. "Praise be to thee, 0 Ra, exalted Sekhem, united is he in
+" members, One, who gathereth together all seed ; thou art
+
+
+20. " Praise be to thee, 0 Ra, exalted Sekhem, thou shining one
+" who dost send forth light upon the waters of heaven ; thou
+" art indeed the bodies of Nu ( Jj ) .
+
+21. " Praise be to thee, 0 Ra, exalted Sekhem, the avenger of Nu
+" who Cometh forth from what is in him ; thou art indeed the
+
+22. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the two
+" Uraei who bear their two feathers [on their heads]; thou art
+
+
+23. " Praise be to thee, 0 Ra, exalted Sekhem ; thou goest in
+" and comest out and thou comest out and goest in to thy
+" hidden Circle, and thou art indeed the bodies of Aatu
+
+24. " Praise be to thee, 0 Ra, exalted Sekhem, the Soul who
+" departeth at his appointed time ; thou art indeed the bodies
+
+
+25. " Praise be to thee, 0 Ra, exalted Sekhem, who standeth up,
+
+
+342 THE PRAISES OF RA
+
+" the Soul One, who avengeth his children ; thou art indeed
+
+26. " Praise be to thee, 0 Ra, exalted Sekhem ; thou raisest thy
+" head and thou makest bold thy brow, thou ram, mightiest
+" of created things.
+
+27. " Praise be to thee, 0 Ra, exalted Sekhem, the light of Shu at
+
+" the head of Akert (h "^ ) 5 thou art indeed the bodies
+
+
+28. " Praise be to thee, 0 Ra, exalted Sekhem, the soul that
+" seeth, the governor of Ament ; thou art indeed the bodies
+
+'' of the double Circle (^ ^ ^ ^ ).
+
+29. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art
+" the Soul that mourneth, and the god that crieth
+
+
+30. " Praise be to thee, 0 Ra, exalted Sekhem ; thou makest thy
+" hand to pass and praisest thine Eye, and thou art indeed
+
+"' the bodies of the god of hidden limbs (u ' | (?(?(? ^)-
+
+31. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the Soul
+" exalted in the double hidden place ( ^ ) : thou art
+
+" indeed Khenti-Amenti (l^J = %,t^J)-
+
+32. " Praise be to thee, 0 Ra, exalted Sekhem, of manifold
+" creations in the holy house ; thou art indeed the bodies of
+
+
+33. " Praise be to thee, 0 Ra, exalted Sekhem ; thou placest
+" thine enemies in their strong fetters, and thou art indeed the
+
+
+34. " Praise be to thee, 0 Ra, exalted Sekhem ; thou givest forth
+" light in the hidden place, and thou art the bodies of the god
+
+
+35. "Praise be to thee, 0 Ra, exalted Sekhem; thou art the
+'' vivifier of bodies ; thou makest throats to inhale breath, and
+
+
+THE PRAISES OF RA 348
+
+
+Praise be to thee, 0 Ka, exalted Sekhem ; thou assemblest
+bodies in the Tuat, and they gain the form of life, thou
+destroyest foul humours, and thou art indeed the bodies of
+thegodSerqi (^()(]y).
+
+Praise be to thee, 0 Ra, exalted Sekhem, Hidden-face
+(STI)' S««l^«-N«tt«rt (^l^ng;); thou
+art indeed the bodies of Shai (M^T '^ M ^ r^).
+
+Praise be to thee, 0 Ra, exalted Sekhem, lord of might ;
+thou embracest the Tuat and thou art indeed the bodies of
+
+Sekhen-Ba ("i" il o^ "i^ J).
+
+Praise be to thee, 0 Ra, exalted Sekhem ; thou hidest thy
+body in that which is within thee, and thou art indeed the
+
+bodies of Amen-khat (f] " | "^ "^ ^ j ^ ) •
+Praise be to thee, 0 Ra, exalted Sekhem, more strong of
+heart than those who are in his following ; thou sendest fire
+in the house of destruction, and thou art indeed the bodies
+
+of the Fire-god Rekhi (^ I fjfj Q, ^)-
+Praise be to thee, 0 Ra, exalted Sekhem ; thou sendest forth
+destruction, and thou makest beings to come into existence
+in thy creations in the Tuat, and thou art the bodies of
+
+
+W))' governor of his Eye; thou sendest forth light into
+
+the hidden place, and thou art indeed the body of Shepi
+
+Praise be to thee, 0 Ra, exalted Sekhem, Temt-hatu,
+
+of Temt-hatu (g||;^|).
+
+Praise be to thee, 0 Ra, exalted Sekhem, creator of hidden
+
+
+344 THE PRAISES OF RA
+
+" things, generator of bodies ; thou art indeed the bodies of
+" the god Seshetai (m (]l) ^).
+
+45. " Praise be to thee, 0 Ra, exalted Sekhem ; thou providest
+" those Avho are in the Tuat with what they need in the
+
+" hidden Circles, and thou art indeed Aper-ta (A ^_^ " 3j.
+
+46. " Praise be to thee, 0 Pta, exalted Sekhem ; thy limbs rejoice
+" when thou enterest thy body, and thou art indeed the bodies
+"ofHaid^jlj).
+
+47. " Praise be to thee, 0 Ra, exalted Sekhem, aged one of the
+" makest full thy splendour, and thou art indeed the bodies of
+"Thenti (^;y).
+
+48. " Praise be to thee, 0 Rfi, exalted Sekhem ; thou makest
+•' straight ways in the Tuat, and openest up roads in the
+" hidden place, and thou art indeed the bodies of Maa-uat
+
+
+49. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the Soul
+" who mo vest onwards, and thou hastenest thy steps, and
+
+" thou art indeed the bodies of Akhpa (u n 4 'f^)*
+
+50. " Praise be to thee, 0 Ra, exalted Sekhem ; thou sendest
+" forth thy stars and thou ilium inest the darkness in the
+" Circles of those whose forms are hidden, and thou art indeed
+
+
+51. "Praise be to thee, 0 Ra, exalted Sekhem; thou art the
+" maker of the Circles, thou makest bodies to come into being
+" by thine own creative vigour. Thou, 0 Ra, hast created
+" the things which exist, and the things which do not exist,
+
+"the dead ( n, and the gods, and the spirits; thou art
+
+" into being.
+
+
+THE PRAISES OF RA 345
+
+52. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the
+"doubly hidden and secret god (™|® fj"']']^)' and
+" the souls go where thou leadest them, and those who follow
+" thee thou makest to enter in ; thou art indeed the bodies of
+
+53. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art Uben-
+" lock of hair on thee . . . . ; thou art indeed the bodies of
+" the god Uben.
+
+54. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the
+" Aged One of forms who dost go about through the Tuat, to
+" whom the souls in their Circles ascribe praises ; and thou
+
+" art indeed the bodies of Then-aru (aa^ -c2)- "^ In i rv) )•
+
+55. " Praise be to thee, 0 Ra, exalted Sekhem ; when thou dost
+" unite thyself to the Beautiful Ament, the gods of the Tuat
+" rejoice at the sight of thee ; thou art indeed the bodies of
+
+"Aai(l)_.J£j).
+
+56. "Praise be to thee, 0 Ra, exalted Sekhem; thou art the
+" Great Cat, the avenger of the gods, and the judge of words,
+" and the president of the sovereign chiefs (or, assessors), and
+" the governor of the holy Circle ; thou art indeed the bodies
+
+" of the Great Cat (| tj ^ |^ ^ |)-
+
+57. " Praise be to thee, 0 Ra, exalted Sekhem; when thou fillest
+" thine eye, and speakest to the pupil thereof, the divine dead
+" bodies shed tears ; thou art indeed the bodies of Metu-
+
+58. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the Soul
+" on high and thy bodies are hidden ; thou sendest forth the
+" light, and thou lookest upon thy hidden things (or, places) ;
+
+" thou art indeed the bodies of Her-ba (| "^ S^ ^ "J^" J).
+
+59. " Praise be to thee, 0 Ra, exalted Sekhem, exalted of
+"Soul; thou destroyest thine enemies, thou sendest fire on
+
+
+346 THE PRAISES OF RA
+
+60. " Praise be to thee, 0 Ra, exalted Sekhem, Auaiu
+the mastery over the souls of the gods, and thou art indeed
+the bodies of Auai.
+
+61. "Praise be to thee, 0 Ra, exalted Sekhem, Oldest one
+
+one (©(=)(](]; 3)', thou didst create the two Setchet
+C'^ ^ ^pl 3Y and thou art indeed the bodies of the two
+
+Setchet gods (^ 2^ |)^ I).
+
+62. "Praise be to thee, 0 Ra, exalted Sekhem, Mighty One of
+journey ings ; thou orderest thy steps by Maat, thou art the
+Soul that doeth good to the body, thou art Senk-hra
+
+
+bodies of Senk-hra.
+
+63. " Praise be to thee, 0 Ra, exalted Sekhem ; thou dost protect
+(or, avenge) thy body, and thou dost hold the balance
+
+[among] the gods as the hidden Ama (^"^ ^= (j ^), [and]
+
+as Am-ta ([] - - ""' ^), and thou art indeed the bodies of
+
+the double god Ama-Amta ("^ ^=z (j ^ (j _ _ =^ ^).
+
+64. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the lord
+of the fetters of thine enemies, the One, the Prince of the
+
+
+65. " Praise be to thee, 0 Ra, exalted Sekhem ; thou sendest
+cuttest off the heads of those who are to be destroyed
+of the two gods Ketuit (^ ^ ^1 ^ ^)-
+
+66. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the
+offspring, thou art One, thou stablishest the two lands by
+
+
+THE PRAISES OF RA 347
+
+" of the god Ta-Thenen (^ s=5 ;|.I|. ^).
+
+67. " Praise be to thee, 0 Ra, exalted Sekhem ; thou stablishest
+" the gods who watch the hours (^ oa []() ^ ^ 1) on their
+" standards, and who are invisible and secret, and thou art
+" indeed the bodies of the Watcher gods (^g no (]() ,„ ^)-
+
+Q8. "Praise be to thee, 0 Ra, exalted Sekhem; thou art the
+
+" of Besi. "
+
+69. " Praise be to thee, 0 Ra, exalted Sekhem ; . thou art the
+
+"Apes (II °M1 I) , and thou art the true creative
+
+" thou art indeed the bodies of the Ape-god in the Tuat.
+
+70. " Praise be to thee, 0 Ra, exalted Sekhem ; thou makest new
+" the earth, and thou openest a way for that which is therein,
+" thou that art the Soul which giveth names unto his limbs,
+
+71. "Praise be to thee, 0 Ra, exalted Sekhem; thou art Nehi
+" thou art indeed the bodies of Nehi ('wwvn A § (]f] ^ ^)-
+
+72. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the god
+" who travelleth, thou makest the darkness to come into
+" being after thy light, and thou art indeed the bodies of
+" Shemti.
+
+73. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the lord
+
+
+" thou art the chief of the gods who are supreme in their
+
+
+348 THE PRAISES OF RA
+
+
+74. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the
+" double Sphinx-god, the Double obelisk-god (? ^ 1)1] , , S
+" J AAAAAA I AA/w^A (] (] ^ 3V HiB Great God who lifteth up his
+
+two Eyes, and thou art indeed the bodies of the double
+Sphinx god Huiti (I^H^y).
+
+75. " Praise be to thee, 0 Ra, exalted Sekhem ; thou art the lord
+" of light and declarest the things which are hidden, and thou
+" art the Soul that speaketh with the gods who are in their
+
+Circles, and thou art indeed the bodies of Neb-Senku
+An impartial examination of the above translation will show
+the reader the lofty conceptions which Avere associated by the
+Egyptians with Ra the Sun-god, and there is not room for any
+reasonable doubt that they ascribed to the god, whose symbol was
+the sun, all the attributes which modern nations are wont to
+regard as the properties peculiar to God Almighty. He was One,
+and the maker of " gods " and men ; he was the creator of heaven,
+earth, and the underworld ; he was self-begotten, self-created, and
+self-produced ; he had existed for ever and would exist to all
+eternity ; he was the source of all life and light ; and he was the
+personification of right and truth, and goodness, and the destroyer
+of darkness, night, wickedness, and evil. There is scarcely an
+attribute of importance ascribed to our God for which there is no
+equivalent in the hymns and texts which relate to Ra and describe
+his greatness and power, for he was not only the god of the living
+but also the god of the dead, and the god of everything unborn.
+His relations with Osiris, who was part god and part man, and was
+the cause and type of immortality for man, were at once those of a
+god, a father, and an equal, and when we consider that Osiris was
+a king who reigned over Egypt, and that every king was an
+
+1 For the hieroglyphic texts from the tombs of Seti I., Seti II., and Rameses IV.,
+and a French translation, see Naville, La Litanie da Soleil, Leipzig, 1875.
+
+
+TEM OF HELIOPOLIS 349
+
+incarnation of Ra, it is easy to understand how he came to have
+the power to rise from the dead, and to act as the judge of the
+dead on behalf of his father Ra.
+
+
+Tem, or Temu, or Atem, was originally the local god of the
+city of Annu, or Heliopolis, and in the dynastic period at all events
+he was held to be one of the forms of the great Sun-god Ra, and to
+be the personification of the setting sun. In the predynastic
+period, however, he was, as M. Lefebure has pointed out,^ the first
+man among the Egyptians who was believed to have become
+divine, and who was at his death identified with the setting sun ;
+in other words, Tem was the first living man-god known to the
+Egyptians, just as Osiris was the first dead man-god, and as such
+was always represented in human form and with a human head.
+It is important to note this fact, for it indicates that those who
+formulated the existence of this god were on a higher level of
+civilization than those who depicted the oldest of all Egyptian
+gods, Horus, in the form of a hawk, or in that of a hawk-headed
+human body. In the papyri and on the monuments he usually
+wears 'U, the crowns of the South and North, upon his head, and he
+holds -9- , the emblem of life, in his right hand, and the sceptre, j[ ,
+in his left. In the boat of Ra he is depicted in human form even
+when Ra is symbolized by a disk which is being rolled along by a
+beetle, and the god Khepera is represented by a beetle, and the
+rising sun Heru-Khuti is shown under the form of a hawk's head,
+from which fall rays of light.^ Tem was, in fact, to the Egyptians
+a manifestation of God in human form, and his conception in their
+minds marks the end of the period wherein they assigned animal
+forms to their gods, and the beginning of that in which they
+evolved the idea of God, almighty, inscrutable, unknowable, the
+maker and creator of the universe. It is useless to attempt to
+assign a date to the period when the Egyptians began to worship
+
+1 Trans. Soc. libl, Arclu, ix., p. 175. " Lanzone, op. cit., pi. 398.
+
+
+350 TEM OF HELIOPOLIS
+
+God in human form, for we have no material for doing so ; the
+worship of Tern must, however, be of very great antiquity, and the
+fact that the priests of Ra in the Vth and Vlth Dynasties united
+his worship was wide-spread, and that the god was thought to
+possess attributes similar to those of Ra.
+
+The Pyramid Texts show that the attributes of Temu were
+confounded with those of Ra, and that the protection and favour
+of this god were all essential for the well-being of the deceased in
+the Underworld ; indeed, it is Tem the father who stretches out
+his hand to Pepi I. and sets him at the head of the gods, where he
+judges the great and the wise.^ This passage shows that Tem was
+regarded as the father of the human race, and as he was also
+divine his powers to help the dead were very great. In many
+respects he was held to be the equal of Ra, and the prayers and
+hymns which were addressed to him frequently show that the
+Egyptians were very anxious to propitiate him. This is not
+difficult to understand if we remember the dogmas of the
+Heliopolitan priesthood about the means by which the souls of the
+blessed departed from this world. They taught that souls when
+they left this world went to the region which lay between the
+earth and the beginning of the Valley of the Tuat, and which was
+called Amentet, and that they waited there until the Boat of the
+Setting Sun, i.e., the boat of Ra in his form of Temu, made his
+appearance there ; as soon as it arrived the souls flocked to it, and
+those who had served Ra upon earth and whose bodies had been
+buried with the orthodox rites, and ceremonies, and prayers of the
+priesthood of Ra, and were, therefore, provided with the necessary
+words of power, were admitted to the boat of Tem, where they
+enjoyed the protection and favour of the god in his various forms
+to all eternity.
+
+There was, moreover, another aspect of Tem which gave the
+god a position of peculiar importance in the minds of the Egyptians,
+
+
+RA-TEM OF HELIOPOLIS 351
+
+i.e., he was identified not only with the god of the dead, Osiris, but
+
+also with the young Horus, the new and rising sun of the morrow.
+
+All these ideas are well expressed in a hymn to Tern which is found
+
+in the Papyrus of Mut-lietep (Brit. Mus., No. 10,010, sheet 5), and
+
+which was composed to enable every spirit who recited it to " come
+
+forth by day " and in any form he pleased and to have great power
+
+in the Tuat. The lady Mut-hetep says, " 0 Ra-Tem, in thy
+
+" splendid progress thou risest, and thou settest as a living being
+
+" in the glories of the western horizon ; thou settest in thy
+
+
+" Thy uraeus is behind thee, thy uraeus is behind thee. Homage
+
+" to thee, 0 thou who art in peace ; homage to thee, 0 thou who
+
+" art in peace. Thou art joined unto the Eye of Tem, and it
+
+" chooseth its powers of protection [to place] behind thy members.
+
+" Thou goest forth through heaven, thou travellest over the earth,
+
+" and thou jonrneyest onward. 0 Luminary, the northern and
+
+" southern halves of heaven come to thee, and they bow low in
+
+" adoration, and they do homage unto thee, day by day. The
+
+" gods of Amentet rejoice in thy beauties, and the unseen places
+
+" sing hymns of praise unto thee. Those who dwell in the Sektet
+
+" boat go round about thee, and the Souls of the East do homage
+
+" to thee, and when they meet thy Majesty they cry : ' Come,
+
+" come in peace ! ' There is a shout of welcome to thee, 0 lord
+
+" of heaven and governor of Amentet ! Thou art acknowledged
+
+" by Isis who seeth her son in thee, the lord of fear, the mighty
+
+" one of terror. Thou settest as a living being in the hidden
+
+" place. Thy father [Ta-]tunen raiseth thee up and he placeth
+
+" both his hands behind thee ; thou becomest endowed with divine
+
+" attributes in [thy] members of earth ; thou wakest in peace and
+
+" thou settest in Manu. Grant thou that I may become a being
+
+" honoured before Osiris, and that I may come to thee, 0 Ra-Tem !
+
+" I have adored thee, therefore do thou for me that which I wish.
+
+" Grant thou that I may be victorious in the presence of the
+
+" company of the gods. Thou art beautiful, 0 Ra, in thy western
+
+" horizon of Amentet, thou lord of Maat, thou being who art
+
+" greatly feared, and whose attributes are majestic, 0 thou who art
+
+" greatly beloved by those who dwell in the Tuat ! Thou shinest
+
+
+352 KHEPERA-RA-TEMU
+
+" with thy beams upon the beings that are therein perpetually,
+" and thou sendest forth thy light upon the ]Dath of Re-stau.
+" Thou openest up the path of the double Lion-god, thou settest
+" the gods upon [their] thrones, and the spirits in their abiding-
+'' places. The heart of Naarerf (i.e., An-rut-f, a region of the
+*' Underworld) is glad [when] Ril setteth ; the heart of Naarerf is
+" glad when Ra setteth. Hail, 0 ye gods of the land of Amentet
+" who make offerings and oblations unto Ra-Tem, ascribe ye glory
+" [unto him when] ye meet him. Grasp ye your weapons and
+" overthrow ye the fiend Seba on behalf of Rii, and repulse the
+" fiend Nebt on behalf of Osiris. The gods of the land of Amentet
+" rejoice and lay hold upon the cords of the Sektet boat, and they
+" come in peace ; the gods of the hidden place who dwell in
+" x4.mentet triumph." In the opening words of another hymn Tem
+is addressed as " Ra, who in thy setting art Tem-Heru-khuti
+" (Tem-Harmachis), thou divine god, thou self-created being, thou
+" primeval matter," ^ from which we see that the attributes of selfcreation, etc., which, strictly speaking, belonged to Khepera,
+were ascribed to Tem.
+
+In the Myth of Ra and Isis Ra is made to say, " I am Khepera
+" in the morning, and Ra at noonday, and Temu in the evening." ^
+From which we may understand that the day and the night were
+divided into three parts, each of which was presided over by one
+of the three forms of Ra here mentioned. In the time of the
+Middle Empire Tem is often mentioned with Heru-khuti, Ra, and
+Khepera, and the priests of Heliopolis always attempted to prove
+that he was the ancestor of all the other forms of the Sun-god.
+
+In the Book of the Dead (xvii. 5 ff.) the deceased is made to
+identify himself with Tem as the oldest of the gods, and he says,
+" I am Tem in rising ; I am the only One ; I came into being in
+" Nu. I am Ra who rose in the beginning." The statement is
+followed by the question, " Who then is this ? " and the answer is,
+
+1 Naville, Todtenbuch, Bd. i., pi. 19.
+
+
+i
+
+
+^ ^ gO Ojjj ^-fj^ ^ ¥^ e
+
+
+SHRINES OF TEM 353
+
+"It is Ra when at the beginning he rose in the city of Suten-
+" lienen, crowned like a king in rising. The pillars of Shu were
+" not as yet created when he was upon the high ground of him
+" that dwelleth in Khemennu" (i.e., Thoth). Thus it is clear that
+the Heliopolitans made out that it was Tem who was the first
+god to exist in primeval matter, and they consistently coupled
+him with Harmachis, ^ ^ ^ 5^ ^i^,l^||, and with
+
+Khepera, W (=) [1 Jf , as forms of the rising sun ; on the other
+
+hand, they often, with fine inconsistency, identified him with the
+setting sun, and made the wind of evening, which gave refreshment
+to mortals and breath to the dead, to go forth from him.
+
+It is difficult to say definitely where the original shrine of
+Tem was situated, but it appears to have been in the Eighth
+
+Nome of Lower Egypt/ v^, Nefer Abt, the Heroopolites of
+
+
+the Greeks), at the place which is called both Thuket, ^ , and
+
+Pa-Atemt, [ ^ ^ , and it is described as the " gate of the
+
+East." Under the form " Pithom " the sacred name of the city
+Pa-Atemt is familiar to all from the Bible. The site of Pa-Atemt or
+Pithom was long thought to be buried beneath the ruins called by the
+Arabs Tell al-Maskhutah/ which are situated close to the modern
+village of Tell el-Kebir, and the excavations made on the spot by
+M. Naville prove that this view is correct. The inscriptions prove
+beyond all doubt that the great god of Pithom was Tem, and from
+the allusions which are made in them to the " Holy serpent "
+therein, and from the fact that one part of the temple buildings was
+
+that is, "the house of the snake-god Qerliet," it is tolerably
+certain that one of the forms under which Tem was worshipped
+was a huge serpent. A town situated as Pithom was on the large
+canal joining the Red Sea and the Nile, and on the highway from
+Arabia to Heliopolis must have contained a very mixed population,
+which would include a number of merchants and others from Western
+Asia. These probably brought in with them a number of strange
+
+
+A a
+
+
+354 lUSAASET AND NEBT-HETEP
+
+practices connected with the worship of their own gods, which
+having been adopted by the indigenous peoples in the district
+modified their worship. From a passage in the Pyramid Texts
+already quoted it seems that the original form of the worship of
+Tem was phallic in character, but if it was nothing is known
+about it ; some scholars have regarded obelisks as phallic emblems,
+and have pointed to their earliest forms, in which their tops were
+surmounted by disks, in proof of the correctness of their view.
+
+Attached to the god Tem were two female counterparts
+'^Vrs, and they formed members of the company of the
+gods of Heliopolis, being mentioned with Tem, lord of the two
+lands of Annu, Ra, and Heru-khuti.^ Iusaaset, the ^awcrt? of
+Plutarch, is called the ''mistress of Annu," and the " Eye of Ra,"
+
+
+of Tem according to the requirements of the texts ; ^ as the wife of
+Tem she is said to be the mother of Shu and Tefnut. She is
+
+depicted ^ in the form of a woman who holds the sceptre, j , in her
+
+right hand, and " life," •¥-, in her left ; on her head she wears the
+
+vulture head-dress surmounted by a uraeus, and a disk between a
+pair of horns. In this form she is called the " mistress of Annu,"
+
+2, and was the wife of Tem-Heru-khuti. The
+
+
+goddess Nebt-lietep appears to have been nothing but a form of
+Iusaaset, for in the scene in which she is represented in the
+form of a cow she is called " mistress of the gods, lusaaset-Nebthetep."
+
+According to Brugsch ^ Tem was joined to the god Osiris
+under the phase Tem-Asar, and formed with Hathor of Annu, or
+Ant, AAAAAA AAAAAA ^ aud H cru- sma'taul, wv x •) the head
+
+of the triad of Heroopolis. As local forms of the god Tem-Ra
+he enumerates Khnemu in Elephantine, Khnemu-Heru-shefit in
+Heracleopolis Magna, and Khnemu-Ba-neb-Tettet in Mendes.
+
+^ Great Harris Papyrus, sheet i., line 4. ~ Brugsch, Religion, p. 284.
+
+•^ Lanzone, op. cit., pi. 51. * Op. cit., p. 290.
+
+
+KHEPERA 355
+
+Khepera Q (i=) (1 3 .
+
+The third form of Ra, the Sun-god, was Khepera kheper-
+TCHESEF, fi (cz) 1] cfj ^ (=) -i^ , i.e., Khepera the self-produced,
+whose type and symbol was a beetle ; he is usually represented in
+human form with a beetle upon the head, but sometimes a beetle
+takes the place of the i human head. In one scene figured by
+Lanzone he is represented seated on the ground, and from his
+knees projects the head of the hawk of Horus, which is surmounted
+by -r, " life." ^ In the section which treats of the Creation we
+have already translated and discussed the text which tells how
+the Sun-god Ra came into being under the form of Khepera
+from out of the primeval watery mass of Nu, and how by
+means of his soul, which lived therein with him, he made a
+place whereon to stand, and straightway created the gods Shu
+and Tefnut, from whom proceeded the other gods. The worship
+of the beetle was, however, far older than that of Ra in Egypt,
+and it is pretty certain that the identification of Ra with the
+beetle-god is only another example of the means adopted by the
+priests, who grafted new religious opinions and beliefs upon old
+ones. The worship of the beetle, or at all events, the reverence
+which was paid to it, was spread over the whole country, and the
+ideas which were associated with it maintained their hold upon
+the dynastic Egyptians, and some of them appear to survive among
+the modern inhabitants of the Nile valley. The particular beetle
+which the Egyptians introduced into their mythology belongs
+to the family called Scarabseidae (Coprophagi), of which the
+Scarahaeus sacer is the type. These insects compose a very
+numerous group of dung-feeding Lamellicorns, of which, however,
+the majority live in tropical countries ; they are usually black,
+but many are adorned with bright, metallic colours. They fly
+during the hottest hours of the day, and it was undoubtedly this
+peculiarity which caused the primitive Egyptians to associate
+them with the sun. Thus as far back as the Ylth Dynasty the
+dead king Pepi is said "to fly like a bird, and to alight like a
+
+1 Lanzone, op. cit,, pi. 329.
+
+
+356 KHEPERA
+
+" beetle upon the empty throne in the boat of Ra." ^ According
+
+to Latreille ^ it was the species of a fine green colour [Ateuclius
+
+Aegy])tioTum) which was first identified with the sun. The insect
+
+lays a vast numbers of eggs in a mass of dung, which it proceeds to
+
+push about with its legs until it gradually assumes the form of a
+
+ball, and then rolls it along to a hole which it has previously dug.
+
+A ball of dung containing eggs varies in size from one to two
+
+inches in diameter, and in rolling it along the beetle stands almost
+
+upon its head, with its head turned away from the ball ; in due
+
+course the larvae are hatched by the heat of the sun's rays beating
+
+down into the hole wherein it has been placed by the beetle, and
+
+they feed upon the covering of dung which protected them. The
+
+mind of the primitive Egyptian associated the ball of the beetle
+
+containing potential germs of life with the ball of the sun, which
+
+seemed to be rolled across the sky daily, and which was the source
+
+of all life. The beetle shows great perseverance in conveying the
+
+egg-laden balls of dung to the holes in which the larvae are to be
+
+hatched, and they frequently carry them over rough ground on
+
+the broad, flat surface of their heads, and seek, when unable singly
+
+to complete the work, the assistance of their fellows. It is this
+
+habit of the beetle which is represented in mythological scenes
+
+where we see the disk or ball of the sun on the head of the beetle,
+
+O
+
+^. A curious view was held by the ancient writers Aelian,^
+
+Porphyry,^ and Horapollo ^ to the eff*ect that beetles were all males
+(Kdvdapo^ ya? 77as appiqv), and that as there were no females among
+them, the males were, like the Sun-god Ra, self-produced. This
+erroneous idea probably sprang up because the male and female
+scarabaeus are very much alike, and because both sexes appear to
+divide the care of the preservation of their offspring equally
+between them, but in any case, it is a very ancient one, for in the
+Egyptian story of the Creation the god, whose type and symbol
+
+
+i
+
+
+z:^ O (Unds, 1. 477).
+
+
+2 Cailliaud, Voyage, torn, ii., p. 311. ^ J)q j^at. Animal., x. 15.
+
+4 Be Abstinentia, iv. 9. ^ Ed. Leemans, p. 11.
+
+
+THE FATHER OF THE GODS 357
+
+was a beetle, not only produced himself, but also begot, conceived,
+and brought forth tAvo deities, one male (Shu), and the other
+female (Tefnut).
+
+In the Egyptian texts Khepera is called the " father of the
+
+deceased addresses him, saying, " Hail, Khepera in thy boat, the
+" double company of the gods is thy body," but the form of the
+Sun-god with which he is most closely allied is that of Heru-khuti,
+or Harmachis. In the Booh of the Dead Khepera plays a
+prominent part in connection with Osiris ; he is called the
+"creator of the gods" (Ani, 1, 2); " Heru-khuti-Temu-Heru-
+Khepera " (Qenna, 2, 15), and whatever forms he takes, or has
+taken, the deceased claims the right to take also. Moreover, the
+god Khepera becomes in a manner a type of the dead body, that is
+to say, he represents matter containing a living germ which is
+about to pass from a state of inertness into one of active life. As
+he was a living germ in the abyss of Nu, and made himself to
+emerge therefrom in the form of the rising sun, so the germ of the
+living soul, which existed in the dead body of man, and was to
+burst into a new life in a new world by means of the prayers
+recited during the performance of appropriate ceremonies, emerged
+from its old body in a new form either in the realm of Osiris or in
+the boat of Ra. This doctrine was symbolized by the germs of
+life rolled up in the egg-ball of the beetle, and the power which
+made those to become living creatures was that which made man's
+spiritual body to come into being, and was personified in the god
+Khepera. Thus Khepera symbolized the resurrection of the body,
+and it was this idea which was at the root of the Egyptian custom
+of wearing figures of the beetle, and of placing them in the tombs
+and on the bodies of the dead ; the myriads of scarabs which have
+been found in all parts of Egypt testify to the universality of this
+custom. As to its great antiquity there is no doubt whatsoever,
+for the scarab was associated with burial as far back as the period
+of the IVth D5masty. Thus in the Papyrus of Nu (Brit. Mus.,
+No. 10,477, sheet 21) we are told in the Rubric that Chapter
+Ixiv. of the Booh of the Dead was found inscribed in letters of
+
+
+358 KHEPERA AND THE HEART
+
+real lapis-lazuli inlaid in a block " of iron of the south " under the
+feet of the god (i.e., Thoth), during the reign of Men-kau-Ra
+(Mycerinus), by the prince Heru-ta-ta-f in the city of Khemennu.
+
+At the end of the second paragraph this Chapter is ordered to
+be recited by a man " who is ceremonially clean and pure, who
+" hath not eaten the flesh of animals or fish, and who hath not had
+" intercourse with women." Tiie text continues, " And behold,
+"thou shalt make a scarab of green stone, with a rim of gold, and
+" this shall be placed in the heart of a man, and it shall perform
+" for him the ' Opening of the Mouth.' And thou shalt anoint it
+" with cinti unguent, and thou shalt recite over it the following
+"words of power." The "words of power" which follow this
+direction form Chapter xxx b. of the Book of the Dead, wherein
+the deceased addresses the scarab as " my heart, my mother ; my
+" heart, my mother ! My heart whereby I came into being." He
+then prays that it will not depart from him when he stands in the
+presence of the " guardian " of the Balance wherein his heart is to
+be weighed, and that none may come forward in the judgment to
+oppose him, or to give false or unfavourable evidence against him,
+or to " make his name to stink." Curiously enough he calls the
+scarab " his double " (ka). Another Rubric makes the Ixivth
+Chapter as old as the time of Hesepti (Semti), the fifth king of the
+1st Dynasty, and the custom of burying green basalt scarabs inside
+or on the breasts of the dead may well be as old as his reign. Be
+this as it may, scarabs were worn by the living as protective
+amulets, and as symbols of triumjohant acquittal in the Judgment
+Hall of Osiris, and as emblems of the resurrection which was to be
+effected by the power of the god Khepera whom they represented,
+and the words of power of Chapter xxx b made them to act the
+part of the Jca or double for the dead on the day of the " weighing
+of words " before Osiris, and his officers, and his sovereign chiefs,
+and Thoth the scribe of the gods, and the two companies of the
+gods. If scarabs were placed under the coffin no fiend could harm
+it, and their presence in a tomb gave to it the protection of the
+" father of the gods."
+
+
+CHAPTER X
+THE MYTHS OF RA
+
+IN the preceding pages it has been shown how among theologians
+and thoughtful Egyptians Ra was regarded as God, but
+among certain classes, that is to say magicians, and astrologers,
+and soothsayers, quite other views were held about his nature and
+attributes. It will be remembered that among such men in ancient
+times it was customary to prescribe as antidotes to poison and
+sicknesses the recital or wearing of certain magical texts ; the
+power of such texts was thought to be very great, especially if it
+contained a narrative of how some god or divine being had been
+delivered by the power of a great being from death by poison or
+by a sickness caused by poison. We may note in passing that
+such beliefs were not confined to the Egyptians, and that we find
+exactly the same ideas existent in Babylonia and Assyria ; this is
+illustrated by the following interesting extract from a Babylonian
+tablet recently published by Mr. R. Campbell Thompson.^ The
+text reads : — " From Anu [came the heavens], the heavens created
+[the earth], the earth created the rivers, the rivers created the
+canals, the canals created the marshes, and the marshes created
+the Worm. Then came the Worm before Shamash, the Sun-god,
+weeping, and before Ea came up her tearful plaint, [saying],
+' What wilt thou give me to eat ? What wilt thou give me to
+gnaw?' [The gods said], 'I will give thee dry bones [to eat],
+' and the pungent hhashJchar wood.' [The Worm said], ' What
+' are thy dry bones to me ? Or, what is thy JchashJchar wood to
+me? Let me drink among the teeth [of men], and give me
+my place in [their] gums, that I may suck the blood of the teeth^
+
+^ Cuneiform Texts from Babylonian Tablets, part xvii., pi. 50; and see E. C,
+Thom-pson, The Devils and Evil Spirits of Babylonia, vol. i., Introduction, attlieend.
+
+
+i. i
+
+
+360 RA AND ISIS
+
+" * and that I may tear asunder the flesh of the gums. In this wise
+" ' I shall have power over the bolt of the door ' (i.e., the mouth of a
+" man). Therefore, 0 sick man, shaltthou say the following words,
+" ' 0 Worm, may Ea smite thee with all his might.' " Following
+these words come the rubrical directions which order the patient to
+mix together a prescription compounded of beer, oil, and the juice
+of a certain plant, and when the incantation has been recited over
+the man with the toothache three times, the mixture is to be rubbed
+on the tooth. In the one case the object of the narrative was to cure
+the man who had been bitten by a venomous serpent, and in the
+other to ease the pain in the teeth and the inflammation of the
+gums which were supposed to be caused by a worm, a descendant
+of the original Worm which claimed before Ea the right to make
+teeth decay and to suck the blood of the gums.
+
+The Egyptian texts which were written for magical purposes
+have preserved for us some very curious and interesting myths of Ra,
+and among these may be quoted the following story about him and
+the goddess Isis.^ The title reads : — " The Chapter of the divine
+" god, the self-created being, who made the heavens and the earth,
+" and the winds which give life, and the fire, and the gods, and men,
+" and beasts, and cattle, and reptiles, and the fowl of the air, and the
+" fish of the sea ; he is the king of men and of gods, he hath but
+" one period to his life, and with him a double hen period (i.e., one
+" hundred and twenty years) is as a single year ; his names are
+" manifold and unknown, the gods even know them not." The
+story runs : — " Now Isis was a woman who possessed words of
+" power ; her heart was wearied with the millions of men, there-
+" fore she chose the millions of the gods, but she esteemed more
+'' highly the millions of the spirits. And she meditated in her
+" heart, saying, ' Cannot I by means of the sacred name of God
+" ' make myself mistress of the earth and become a goddess of like
+" ' rank and power to Ra, in heaven and upon earth ? ' And
+
+1 The hieratic text will be found in Pleyte and Rossi, Ze Papy7-us de Turin,
+1869-1876; pll. 31-37, and 131-138; and a transcript into hieroglyphics with a
+transliteration and translation in my First Steps in Egyptian, 1895, pp. 241-256.
+A French translation by Lefebure was published in Aeg. Zeit.^ 1883, pp. 27 ff. ; and
+for English renderings see my Papijriis of Ani, 1895, p. Ixxxix., and Egyptian
+Magic, p. 137.
+
+
+RA IS POISONED 361
+
+" behold, each day Ra entered at the head of his holy mariners
+" and established himself upon the throne of the two horizons ;
+" but the divine one (i.e., Ra) had grown old, he dribbled at the
+" mouth, his spittle fell upon the earth, and his slobbering dropped
+" upon the ground. And Isis kneaded [some] thereof with earth
+" in her hand, and formed therewith a sacred serpent in the form
+*' of a dart ; she did not set it upright before her face, but let it
+" lie upon the ground in the path whereby the great god went
+" forth, according to his heart's desire, into his double kingdom.
+" Now the holy god arose, and the gods who followed him as
+"though he were Pharaoh went with him; and he came forth
+" according to his daily wont ; and the sacred serpent bit him.
+" The flame of his life departed from him ; and he who dwelt
+" among the cedars was overcome. The holy god opened his
+" mouth, and the cry of his majesty reached unto heaven ; his
+"company of the gods said, *What hath happened?' and his
+" gods exclaimed, " What is it ? ' But Ra could not answer, for
+" his jaws trembled and all his members quaked, the poison spread
+" swiftly through his flesh just as Nile rusheth through all his
+" land. When the great god had stablished his heart, he cried
+" unto those who were in his train, saying, ' Come unto me, 0 ye
+" ' who have come into being from my body, ye gods who have
+" ' come forth from me, make ye known unto Khepera that a dire
+" ' calamity hath fallen upon me. My heart perceiveth it, but my
+" ' eyes see it not ; my hand hath not caused it, nor do I know
+" ' who hath done this unto me. Never have I felt such pain,
+" ' neither can sickness cause more woe than this. I am a prince,
+" ' the son of a prince, the sacred essence which hath proceeded
+" * from God. I am the great one, the son of the great one, and
+" ' my father planned my name ; I have multitudes of names, and
+" ' multitudes of forms, and my being is in every god. I have
+" ' been proclaimed by the heralds Temu and Horus; and my father
+" ' and my mother uttered my name ; but it hath been hidden
+" ' within me by him that begat me, who would not that the words
+" * of power of any seer should have dominion over me. I came
+" ' forth to look upon that which I had made, I was passing through
+'' ' the world which I had created, when lo ! something stung me,
+
+
+362 THE HOLY NAME OF RA
+
+' but what I know not. Is it fire ? Is it water ? My heart is
+' on fire, my flesh quaketh, and trembling hath seized all my
+* limbs. Let there be brought unto me my children, the gods
+' who possess the words of power and magical speech, and mouths
+' which know how to utter them, and also powers which reach
+' even unto the heaven.'
+
+" Then the children of every god came unto him uttering
+cries of grief. And Isis also came, bringing with her her words of
+magical power, and her mouth was full of the breath of life ; for
+her talismans vanquish the pains of sickness, and her words make
+to live again the throats of those who are dead. And she spake,
+saying, ' What hath come to pass, 0 holy Father ? What hath
+happened? Is it that a serpent hath bitten thee, and that a
+thing which thou hast created hath lifted up his head against
+thee ? Verily it shall be cast down by my effective words of
+power, and I will drive it away from before the sight of thy
+sunbeams.' The holy god opened his mouth and said, ' I was
+passing along my path, and I was going through the two
+regions of my lands according to my heart's desire, to see that
+which I had created, when lo ! I was bitten by a serpent which
+I saw not. Is it fire ? Is it water ? I am colder than water,
+I am hotter than fire. All my flesh sweateth, I quake, mine
+eye hath no strength, I cannot see the sky, and the sweat
+rusheth to my face even as in the time of summer.' Then said
+Isis unto Ra, ' 0 tell me thy name, holy Father, for whosoever
+shall be delivered by thy name shall live.' And Ra said, ' I
+have made the heavens and the earth, I have knit together
+the mountains, I have created all that is above them, I have
+made the water, I have made to come into being the goddess
+Meht-urt, and I have made the Bull of his mother, from whom
+spring the delights of love, I have made the heavens, I have
+stretched out the two horizons like a curtain, and I have placed
+the souls of the gods within them. I am he who, if he openeth
+his eyes, doth make the light, and, if he closeth them, darkness
+Cometh into being. At his command the Nile riseth, and the
+gods know not his name. I have made the hours, I have
+created the days, I bring forward the festivals of the year, I
+
+
+ISIS THE ENCHANTRESS 363
+
+' create the Nile-flood. I make the fire of life, and I provide
+' food in the houses. I am Khepera in the morning, I am Ra at
+' noon, and I am Temu at even.' Meanwhile the poison was not
+taken away from his body, but it penetrated deeper, and the
+great god could no longer walk.
+
+" Then said Isis unto Ra, 'What thou hast said is not thy
+' name. 0 tell it unto me, and the poison shall depart ; for
+' he shall live whose name shall be revealed.' Now the poison
+burned like fire, and it was fiercer than the flame and the
+furnace, and the majesty of the great god said, ' I consent that
+' Isis shall search into me, and that my name shall pass from me
+' into her.' Then the god hid himself from the gods, and his
+place in the Boat of Millions of Years was empty. And when
+the time had arrived for the heart of Ra to come forth, Isis spake
+unto her son Horus, saying, ' The god hath bound himself by
+' oath to deliver up his two Eyes (i.e., the Sun and the Moon).'
+Thus was the name of the great god taken from him, and Isis,
+the lady of words of magical power, said, ' Depart, thou poison,
+' go forth from Ra. 0 Eye of Horus, go forth from the god, and
+' shine outside his mouth. It is I who work, it is I who make to
+' fall down upon the earth the vanquished poison, for the name
+' of the great god hath been taken away from him. Let Ra live,
+' and let the poison die ! Let the poison die, and let Ra live ! '
+These are the words of Isis, the mighty lady, the mistress of the
+gods, who knew Ra by his own name." The above text was to
+be recited over figures of Temu, " the Bull of his mother," and
+Horus, and Isis and Horus, and there is little doubt that these
+figures were made to represent the various scenes which took
+place when Ra was poisoned, and when the goddess Isis succeeded
+in taking from him his name.
+
+Another myth of Ra of considerable interest is that which
+describes the destruction of mankind, and tells how men scorned
+the great Sun-god because he had become old ; ^ the text of this,
+
+1 For the hieroglyphic text see Lefebure, Tombeau de Seti I., part iv., pll. IS-
+IS ; Brugsch, Die neue Weltordnung, Berlin, 1881 ; Naville in Trans. Soc. Bihl.
+ArcJi., iv., pp. 1 ff . ; viii., pp. 412 ff. ; Bergmann, Hist. Inschrift., pll. 75-82; and
+my Fii'st Stejjs in Egyptian, pp. 218-230.
+
+
+364 REVOLT OF MEN AGAINST
+
+in a mutilated condition, is found inscribed upon the walls of the
+tombs of Seti I. and Rameses IV. at Thebes, and from it the
+following is clear. " [Ra is] the god who created himself after he
+had risen in sovereignty over men, and gods, as well as over
+things, the One. And mankind was uttering words of complaint,
+saying, ' Behold now, his Majesty, life, strength, and health [to
+' him] ! hath become old, his bones are like silver, his limbs are
+' like gold, and his hair is like unto real lapis-lazuli.' Now his
+majesty heard the words which mankind spake [concerning
+him], and he said unto those who were following him, ' Cry out,
+' and bring ye unto me mine Eye, and Shu, and Tefnut, and
+' Seb, and Nut, and the fathers and the mothers who were with
+' me when I was in Nu, together with my god Nu. Let him
+' bring his ministers with him, and let them be brought silently,
+' so that mankind may not perceive it and take to flight with
+' their hearts. Come thou with them to the Great House, and
+' let them declare their plans, for I will go forth from Nu unto
+' the place wherein I performed creations, and let those [gods] be
+'brought unto me there.' Now the gods were on both sides of
+Ra, and they bowed down even to the ground in presence of his
+Majesty, and he spake his words in the presence of the father of
+the firstborn gods, the maker of men, and the king of those who
+have knowledge. And they spake before his Majesty, [saying],
+' Speak unto us, for we are listening'; and Ra spake unto Nu,
+saying, ' 0 thou firstborn god, from whom I came into being, 0
+' ye gods [my] ancestors, behold ye what mankind is doing, they
+' who were created by mine Eye are uttering murmurs against
+' me. Give me your attention, and seek ye out a plan for me,
+' and I will not slay them until ye shall say [what I am to do]
+' concernino; it.'
+
+" Then the Majesty of the god Nu, the son of Ra, spake
+[saying], ' Thou art the god who art greater than he that made
+" thee, and who art the sovereign of those who were created by
+' him, thy throne is set, and the fear of thee is great ; let
+' then thine Eye be upon those who have uttered blasphemies
+' against thee.' And the Majesty of Ra spake [saying],
+' Behold ye how they have taken flight into the mountain !
+
+
+THE SUN-GOD RA 365
+
+' Their hearts are afraid because of what they have said.'
+' Then the gods spake before his Majesty, saying, ' Make
+' thine Eye to go forth, and let it destroy for thee those who
+' utter evil words of blasphemy against thee. There is not an
+' eye upon all this earth Avhich can resist thine when it
+' descendeth in the form of Hathor.' And the goddess [Hathor]
+went forth and slew the people on the mountain, and the Majesty
+of this god spake, [saying], ' Come, come in peace, Hathor, the
+' work is accomplished.' And the goddess said, ' Thou livest for
+' me. When I had gained the mastery over men it was well
+' pleasing to my heart.' And the Majesty of Ra spake, [saying],
+' I will gain the mastery over them as king, and [I] will destroy
+' them ' ; and it came to pass that Sekhet waded about in the
+night season in their blood, beginning at Suten-henen (Herakleopolis Magna). Then the Majesty of Ra spake, [saying], 'Cry out
+' and fetch me swift and speedy messengers who can run like the
+' wind ' ; and straightway one brought these messengers. And
+the Majesty of this god spake, [saying], ' Let them go to Abu
+' (Elephantine), and bring me mandrakes in great number ' ; and
+one brought to him these mandrakes, and the Majesty of this god
+gave them to Sekhet who [dwelleth] in Annu (Heliopolis) to
+crush. And behold, when the women were crushing the barley
+to [make] beer, he placed these mandrakes in the vessels which
+were to hold the beer, and some of the blood of the men [who
+had been slain]. Now they made seven thousand vessels of
+beer.
+
+" Now when the king of the South and North, Ra, had come
+with the gods to look at the beer, and the daylight appeared
+after the goddess had slaughtered mankind in their season as she
+sailed up the river, the Majesty of Ra said, ' It is doubly good,
+' but I must protect mankind against her,' And Ra spake,
+[saying], ' Let them take up the vases and carry them to the
+' place where men and women are being slaughtered.' Then the
+Majesty of the king of the South and North, Ra, commanded
+them to pour out from the vessels during the [time of the]
+beauty of the night the beer which made [men] wish to lie down,
+and the regions of the four heavens were filled therewith even
+
+
+366 REVOLT OF MEN AGAINST
+
+according to the Will of the Majesty of this god. Now when the
+goddess Sekhet came in the morning and found the regions flooded,
+her face beamed with joy, and she drank of the beer and blood,
+and her heart was glad, and she became drunk, and she took no
+further heed of mankind. And the Majesty of Ra spake unto
+this goddess, [saying] ' Come, come in peace, 0 fair and gracious
+' goddess ; ' [and henceforth] there were young and beautiful
+women in the city of Amen.-^ Then the Majesty of Ra said unto
+this goddess, ' There shall be prepared for thee vases of drink
+' which shall make thee wish to sleep at every festival of the New
+' Year, and the number thereof shall be in proportion to the
+' number of my handmaidens ; ' and from that day until this
+present men have been wont to make on the occasions of the
+festival of Hathor vases of beer which will make them sleep, in
+number according to the number of the handmaidens of Ra.
+And the Majesty of Ra spake unto this goddess, [saying],
+' Behold, the pain of the burning heat of sickness hath come
+' upon me ; whence cometh [this] pain ? ' Then the ^Majesty of
+Ra said, ' I am alone, but my heart hath become exceedingly
+' weary of being with them (i.e., with men) ; I have slain [some
+' of] them, but there is a remnant of worthless ones, and the
+' destruction which I wrought among them was not commensurate
+' with my power.' And the gods who were in his train said
+[unto him], ' Tarry not in thy weariness, for thy might is in
+' proportion to thine own will.' Then the Majesty of this god
+said unto the Majesty of Nu, ' For the first time my limbs have
+' lost their power, and I will never permit this thing to happen
+' a second time.' "
+
+At this point the inscription becomes much broken, and it is
+difficult to make out the general meaning which is to be attached
+
+
+and on the name of the city Amen, ^(|§ ©, i.e., the capital of the nome,
+
+
+Mill:
+Ament, where the goddess Hathor was worshipped. The city is also called
+
+
+THE SUN-GOD RA 367
+
+to the scattered words ; according to the late Dr. Brugsch/ the
+myth ends somewhat as follows: — When Ra had described his
+weariness to Nu, this god commanded Shu to perform the work of
+Rci and to take the place of his Eye, and directed the sky goddess
+Nut to help Ra. Nut asked Nu how this was to be done, and he
+told her to take Ra upon her back ; thereupon Nut took the form
+of a cow, and Ra seated himself upon her back. In due course
+mankind saw Ra on the back of Nut, and they were filled with
+remorse at their former behaviour towards him, and they wished to
+see slain his enemies who had blasphemed him, but his Majesty did
+not tarry, and he went on into the temple. On the following day
+as soon as the morning had come, men went forth armed with
+bows and spears in order to do battle Avith the enemies of Ra, and
+as soon as the god saw this he said to them, " Your sins are
+" forgiven you, for the sacrificial slaughters which ye have made
+" have done away with the murders [which mine enemies have
+" committed]." Then Ra raised himself from the back of the
+goddess Nut into the sky, where he made for himself a kingdom
+in which all people were to be assembled. Finally he ordered a
+
+
+Field to come into being, l|„i)^l| hetep seMiet, and straightway the Field of Hetep (" Peace "), l)^[]j "^ "^ Sekhet-hetep,^c8i.me
+into being, and the Majesty of the god said, "I will plant
+" green herbs therein," and straightway there came into being
+
+
+" it with objects which sparkle,* that is to say with stars."
+Thereupon the goddess Nut quaked in all her members, and Ra
+declared that he would make supports to come into existence
+to strengthen her, and straightway supports appeared. Ra next
+
+1 Die Neue Weltordnung nacli Veniichtung des siindigen MenschengescJdecJites,
+von H. Brngsch, Berlin, 1881, p. 23.
+
+" Note the jingle in tlie words sekhet and hetep.
+
+3 Note the play on the verbal aarat-d and the noun aaru.
+
+^ Note the jingle in ■ i JcJiet, " objects," and (1 ^ [1 ^ )lc i " things which
+sparkle."
+
+
+THE COW-GODDESS NUT 369
+
+ordered his son Shu to place himself beneath the goddess Nut,
+who was trembling, in such a way as to suf)port her body, and he
+ordered him to take heed to the supports, or pillars, whereon
+the goddess rested, and to protect them, and to keep Nut stayed
+upon his head.
+
+Near this place in the text we have a representation of the
+great cow-goddess Nut, i.e., the heavens and the sky (see opposite).
+Along the belly of the cow, which is emblematic of the sky, and is
+supported by the god Shu, are thirteen stars, and immediately below
+are the two boats of the Sun-^od. In the Matet boat stands a fisfure
+of Ra as god of the day, with a disk upon his head, and in the Sektet
+boat we see the god seated in a shrine ; the former boat is between
+the fore-legs of the cow of Nut, and the latter by her udders.
+Each leg of the cow is supported by two gods, one in front and
+one behind, and each god who is with the cow has a special name,
+which is duly set forth in the text which runs in vertical columns
+on each side of the scene. ^
+
+When the narrative recommences (line 56) we are told that
+the Majesty of the god Ra commanded Thoth to give the order
+
+
+should come into his presence forthwith, and when he had done so,
+and Seb had appeared before him, Ra told him that strife had
+
+were in his (i.e., Seb's) territory, and, he added, " May they fear
+me as long as I am alive." Ra also told him to find out what their
+plans were, and then to go to the place wherein was his father Nu,
+and to warn him to be careful about what was on the earth and in
+the water. The text which immediately follows is full of difficulty,
+but its general meaning seems to be that Ra expects Seb to keep
+watch on the serpents in the earth, and that although he is about
+to betake himself to the uppermost regions of heaven his light will
+find them in their holes, and will watch them. Moreover, Ra
+promises that he will give the men who have knowledge of words
+
+
+^ See Lefebure, Tomheau cle Seti I., part iv., pi. 16, 11. 47 ff.
+B b
+
+
+370 THOTH, VICAR OF RA
+
+will furnish them with spells and charms which shall draw them
+from their holes. After these things the Majesty of the god
+Ra ordered that Thoth should come into his presence speedily,
+and when he had arrived he said to him, " Come, let us depart
+" from heaven, and from my place, because I am about to create
+
+" a thing of light (^: °) of the god of light (^ ® ^ ^ J) ,
+
+" And there thou shalt write down for punishment among the
+" dwellers therein those who have committed deeds of rebellion,
+" and those whom my heart hateth. And thou shalt be in my
+
+"place ([ ^_ dst), and thou shalt be called Asti ( r ^ i(^?i)'
+
+" that is to say, the deputy of Ra. And it shall be permitted to
+
+
+" of Thoth, came into being." Ra next tells Thoth that he will
+give him the power to lift up his hand before the great companies
+
+
+he also promises to make Thoth to embrace (1 ^x fi ,^ "^ — ° dnh,
+
+the two heavens with his beauties, and straightway the Moon,
+
+
+dndn, of the god came into being ; and finally Thoth is to be
+wholly the representative of Ra upon earth.
+
+From the observations which follow the words of Ra we
+can see how holy these words were considered to be. Any one
+who wished to repeat them must anoint his face with oil, and rub
+his hands and the places behind his ears with incense, and cleanse
+his mouth with natron, and wash his new apparel in Nile water,
+and put on white sandals, and lay a figure of Maat upon his
+tongue ; and he must cleanse himself with a sevenfold cleansing
+each day for three whole days. Finally, the king (Seti I.) for
+
+
+THE KING'S SOUL 371
+
+whom these texts were written declares that his soul is the soul of
+Shu, and [Khnemu], and Neheli, 'vww^ |^ O | PQ^ 3 , and Kek,
+
+
+the Crocodiles, and the soul of every god in the form of a serpent,
+
+
+CHAPTER XI
+
+
+THE LEGEND OF RA AND ISIS
+
+
+HIEROGLYPHIC TEXT WITH TRANSLITERATION AND
+
+TRANSLATION
+
+
+Be en neter netevti hheperu tchesef dri
+
+Chapter of the god divine (?) self-produced, the maker
+
+
+I s
+
+
+t
+
+
+pet fa mdu en
+
+of heaven, [and] earth, [and] the breath of
+
+
+dnkh Met
+life, of fire,
+
+
+neteru
+of gods,
+
+
+reth dut
+
+of men, of beasts
+
+
+I till unit
+
+
+menmen
+of cattle.
+
+
+I I I
+
+
+apt
+
+
+remu
+
+
+suten
+
+
+reth
+
+
+ci I I I
+tche/fet
+
+of reptiles and
+creeping things,
+
+mi k
+
+neteru em
+
+
+of the fowl [and] of fishes, the king of men [and] of gods, in
+of the air,
+
+
+U I
+
+
+I
+
+I I
+
+
+Idler ud henti er renput dslti renu
+
+form one, [to whom] periods [are] as years, of many names,
+of 120 years
+
+
+RA AND ISIS
+
+
+w
+
+
+S=f2
+
+
+AAAAAA 'Ss'
+
+(in rekh
+
+
+w
+
+
+inii
+
+an relch pefi an rekh pefi neteru
+
+not known is that [god], not known is that [god to] the gods.
+
+
+dstu Ast em set saa en
+
+Behold, Isis was in the a woman [who was] skilled in
+form of
+
+
+set
+
+
+tclietu khak-db-s er hehu em
+
+words (i.e., matters). Her heart rebelled at the millions of
+
+
+I I
+
+
+n
+
+
+reth setep eres hehu em neteru apt-set
+
+men, she chose rather the millions of the gods, and she esteemed
+
+
+hehu em
+
+
+khu
+
+
+IcsTT I
+
+
+an khem set em pet
+
+
+the millions of the spirits " Could she not be in heaven
+[of more value].
+
+
+ma Ba
+
+
+S
+
+
+I IS
+
+ta
+
+
+ta ma Ba dri kert
+
+[and] earth like Ra [and] make herself mistress of the earth
+
+
+1
+
+
+netert
+
+
+ka-set
+and a goddess," she meditated
+
+
+em db-set
+in her heart.
+
+
+er rekh
+by knowing
+
+
+1
+
+ren neter shepsi
+
+the name of the god holy ? "
+
+
+RA AND ISIS
+
+
+A
+
+
+o
+
+
+o
+
+I
+
+
+dstu ciq en Bci hru neb em hat qet - [/]
+
+Behold, came in Ra every day in front of [his] sailors,
+
+
+I AAAAAA ■ill
+
+smen-thd
+
+
+and was stablished
+
+
+daut
+Had become old
+
+
+I
+
+her
+
+upon
+
+
+nest
+the throne
+
+
+hhuti
+of the two horizons.
+
+
+1
+
+
+w
+
+
+T
+
+
+AAAAAA
+
+
+he poured out
+
+
+the divine one,
+
+nebdut - /
+his exudations
+
+
+e^wi-M. - nef re - f
+he dribbled at his mouth,
+
+er ta
+
+the ground,
+
+
+upon
+
+
+pekas en su sehher her sat
+
+and his spittle fell upon the earth.
+
+
+Pja
+
+
+sek-nes Ast
+Isis she kneaded [it]
+
+
+hi
+
+
+em tet-set hena ta unenet her-set qet-nes-set
+
+in her hand with earth which was on it, she fashioned it
+
+
+e7n tchetfeti
+
+in the form of a serpent
+
+
+W
+
+
+shepsi dri en set em
+
+sacred, [and] she made [it] in
+
+
+A
+
+
+AAAAAA
+
+
+qad
+
+heti
+
+an
+
+nemunemud-s
+
+the form
+
+of a dart.
+
+Not
+
+did it move along
+
+#
+
+dnhli-thd
+alive
+
+
+RA AND ISIS
+
+er hheft-set khad-set
+
+before her, [and] she left [it]
+
+
+uat
+
+
+D D
+
+
+I
+
+
+hamu
+lying
+
+
+her
+on
+
+
+djpep neter aa hers er aha - /
+
+the path whereon journeyed the great god according to his desire
+
+
+em khet
+
+
+taui - f
+
+
+through his two lands.
+
+
+neter
+The god
+
+
+shepsi
+holy
+
+
+Q
+
+
+hhd - f
+rose up,
+
+
+er ha
+behind
+
+
+neteru
+the gods
+
+
+em Aa-perti dnJch utcha senb em Jchet- f
+
+in the great double house, life, strength, health! [were] folio wing him.
+
+
+seftseft - f
+
+
+O
+
+
+m(i ^-7^1^ ?2e5 unhhu-set em
+
+[and] he marched on as [he did] every day [when] bit [him]
+
+
+w
+
+
+w
+
+
+f
+
+
+tchetfeti shepsi khet dnkhet per-thd
+
+the serpent sacred ; the fire of life was coming out
+
+
+i
+
+
+w
+
+
+dm - f tchesef ter-nes dmi na dshu
+
+from him himself, it destroyed the dweller in the cedars.
+
+
+RA AND ISIS
+
+
+neter netri
+
+The god divine
+
+
+his Majesty L. S. H. ! reached unto heaven.
+
+
+he ojDened
+
+
+re - f hheru en
+
+his mouth, the voice of
+
+
+Paut
+The company
+
+
+niJi
+
+
+(3 III
+
+
+neteru tiif her md ])u-u neteru - f
+
+of the gods was for [saying], " What is it ? " His gods [were]
+
+
+her petrd-u
+
+for [saying] " What is the matter ? "
+
+
+an
+
+Not
+
+
+mettu
+words
+
+
+J
+
+
+er
+to
+
+
+X 1
+usheht
+answer
+
+
+I
+
+her -f
+about it.
+
+
+qeyri - f
+found he
+
+drti-fi
+His two jaws
+
+
+/i-er Ichethhet at - f
+rattled, his limbs
+
+
+neb
+all
+
+
+W
+
+
+WW
+
+dstiti
+trembled
+
+
+y^ AAAAA^
+
+
+metu
+the poison
+
+
+n
+
+
+AAftAAA
+
+
+V
+
+
+thetet-nef em dufi
+
+took possession of his body
+
+
+md thetet Hdjp
+
+as taketh possession the Nile
+
+
+em khet - f
+of his river bed.
+
+
+neter
+
+
+aa
+
+
+The god great
+
+
+smen-nef db -f
+
+stablished his heart.
+
+
+RA AND ISIS
+
+
+Ijnds'] - f er
+he [cried] out to
+
+
+W
+
+
+dmiu hhet - f
+
+those in his train
+
+
+I i I
+
+
+mdi-ten nd
+
+" Come to me.
+
+
+I I I Jii^ A ^ ^ I ^
+
+kliepert em hdt-d
+
+0 ye who have come into being from my members,
+
+
+neteru
+[ye] gods
+
+
+nrz2 e
+
+
+peru
+who have proceeded
+
+
+A □
+
+
+AAAAA^
+I I I
+
+
+khejperd-set
+what hath happened
+
+
+em-a
+from me,
+
+
+temu-entii
+
+
+tat rekh-ten
+and I will make you to know
+
+
+! I I
+
+
+(2 Ci
+
+
+hhet
+
+
+meru
+
+
+I am wounded by something deadly,
+
+
+rekh-set db-d dn maa su maa-d dn
+
+knoweth it my heart. Not have seen it my eyes, not
+
+
+dri set tet-d dn rekh-set em dri-nd neht
+
+made it my hand, not know [I] it who hath done [this] to me
+
+
+anyone,
+
+
+i:P'
+
+
+dn teptu-d ment mdtet-set dn meru
+
+not have I tasted pain like it, never was deadly [anything]
+
+0
+
+
+er-s
+more than it.
+
+
+dnuk
+I am
+
+
+ser
+a prince,
+
+
+sa ser
+
+the son of a prince,
+
+
+RA AND ISIS
+
+
+e
+
+
+mu hheperit em neter
+
+the divine issue produced by a god.
+
+
+dnuh
+I am
+
+
+ur
+a great one,
+
+
+so- ur maid en dtef-d ren-d
+
+the son of a great one, thought out my father my name.
+
+
+III 0 (^
+
+
+(S
+
+
+a?i-?J(^ «s/i2i rennu dsht kheperu du
+
+I am of many names, of many forms (or, existences) is
+
+hheperd-d tmu em neter neh nds-d-tu
+
+my form (or existence) living in god every. I have proclaimed
+
+
+C^innr
+
+
+Temu Hern hehennu
+Temu and Heru Hekennu.
+
+
+du tchet
+Have uttered
+
+
+dtef-d
+my father
+
+
+C5
+
+
+l-J I AAAAAA ' (£il I
+
+
+iniit-d ren-d dmen-set em Jchat-d er
+
+and my mother my name, hidden was it in my body by
+
+
+mes-a en men
+
+my begetter who wished
+
+
+tern erf at kheperu pehti
+
+not to let have power
+
+
+hehau-d en heJcai er-d
+
+him Avho would enchant me by enchantments over me.
+
+
+RA AND ISIS
+
+
+peru-h er
+
+1 had come forth from
+
+
+I
+
+ha
+the abode
+
+
+er maa ari-na
+
+to see what I had made
+
+
+sutet em taui qemamu-nd
+
+[and] was being led through the lands [which] I had created,
+
+
+(S
+
+
+em tchetem kher-d an rekh-d su
+
+when [something] aimed a blow at me [and] I know not Avhat it is.
+
+
+an Jchet ds pit an mu as pu
+
+Behold it is not fire, behold it is not water.
+
+
+m w
+
+
+db-d kheri
+
+My heart contains
+
+
+w w
+dstiti
+
+
+fire, my limbs [are] trembling, [my] members contain
+
+
+I I I
+
+mesu hesiu
+
+the children of quakings.
+
+
+dmmd dntu-nd
+I pray you let be brought to me
+
+
+mesu-d neteru
+
+my children, the gods
+
+
+khui
+
+
+) I
+
+
+mighty
+
+
+I I I
+
+
+metet
+of words,
+
+A I I I I
+
+
+rekhi
+skilful
+
+
+with their mouths.
+
+
+sart-sen
+their powers,
+
+
+peh-sen her
+
+they reach to heaven.
+
+
+RA AND ISIS
+
+
+A
+
+
+iu-eref mesu neter neh dm
+
+Came to him [his] children, god every there
+
+
+/H w
+
+
+Jvheri
+with
+
+
+q-J
+
+
+dkebu-nef
+his cries of weeping.
+
+
+iu en Ast Jcheri
+
+Came Isis with
+
+
+Jihnt-set
+her power
+
+
+i
+
+
+T III
+
+
+t
+
+
+as^ 'j'^-se^ em tii/w e?^ dnkh thes-set
+
+and her skilled mouth, with the breath of life, her incantations
+
+
+I s — -fl '^ III 4 S
+her ter ment mettu-set
+
+
+n
+
+
+s
+
+
+sdnhh
+
+
+ka
+
+
+heti
+
+
+destroy diseases, her word maketh to live stinking throats
+
+(i.e., throats of the dead).
+
+
+e III
+
+
+ism.
+
+
+1
+
+tchet-set md pu-u dtef neter petrd tchetji
+
+She said, What is this, 0 father god ? What is it ? A snake
+
+
+Q D (3
+
+
+ten mennii dm-h iid mes-k fa
+
+hath shot sickness into thee. A thing made by thee hath lifted up
+
+
+tep -/
+
+
+erek
+
+
+its head against thee.
+
+
+hekaiu
+words of power
+
+
+ka
+Verily
+
+
+sekher-set
+it shall be overthrown
+
+
+em
+
+by
+
+
+menkhiu
+beneficent.
+
+
+td-d khetkhet - f er
+
+I will make it to depart from
+
+
+sati-h
+
+
+RA AND ISIS
+
+
+1
+
+netei
+
+
+matt sati-iv neter tcheseri
+
+the sight of thy rays. The god holy
+
+
+X
+
+dpu~nef re - /
+opened his mouth :
+
+
+0
+
+
+D
+
+
+dnuk ])u shemi
+I was passing
+
+
+W
+
+
+taui
+the two lands
+
+
+I
+
+her
+over
+
+
+uat
+the way
+
+
+sutut em
+
+going through
+
+
+tJI
+
+
+set-d
+of my country,
+
+
+dha en db-d er
+
+wished my heart to
+
+
+o o
+
+maa
+
+see
+
+
+y
+
+
+AAA/VNA
+/VWVNA
+
+
+V
+
+
+em
+
+
+qemamu-nd khunen-nd
+
+what I had created [when] I was bitten by
+
+
+w w
+tchetfi
+
+a snake
+
+
+invisible.
+
+
+D
+
+(X7i- A;/ie)5 as pu
+Behold it is not fire.
+
+
+(x?i- 77izi as J)'^'
+behold it is not water,
+
+
+A
+
+
+JJ
+
+
+qehehh-kiid
+I am colder
+
+
+AAAAAA
+
+
+than water.
+
+
+(S
+
+
+shemem-kud
+I am hotter
+
+
+er
+than
+
+
+X
+
+
+seshet
+fire.
+
+
+hdt-d
+my limbs
+
+
+w w
+dstiti
+
+tremble,
+
+
+neb
+all
+
+
+m w
+
+
+er kheri
+are full of
+
+
+III
+
+
+fetet
+sweat,
+
+
+tild
+
+I
+
+
+maat-d dn smen dn qemhu-d
+
+my eye is without stability, I cannot see
+
+
+RA AND ISIS
+
+
+/VWVW
+
+
+V
+
+
+-WVWN /^S
+AVvVNA
+
+
+pe^ Ml mu her hrcl-d em shemu
+
+the heavens, bursteth out water on my face [as] in summer.
+
+
+tchet an
+Said
+
+
+cltef
+father
+
+
+Ast
+Isis
+
+
+en
+to
+
+
+Ed
+Ra,
+
+
+d tchet-nd
+0 tell me
+
+
+li f
+
+
+neter
+god;
+
+
+diikh
+liveth
+
+
+ren-Ju
+thy name.
+
+
+sa
+the person
+
+
+(E
+
+
+temu-tu her
+
+who hath declared
+
+
+ren - f
+his name.
+
+
+0
+
+
+s
+
+
+(xm/7(^ art pet fa
+
+
+(S(3 III ^
+
+
+thes tuu qemamu unnet
+
+theknitter together of the mountains, the creator of what exists
+
+
+her - f
+upon it.
+
+
+0 v{i
+
+nuh
+
+1 am
+
+
+Meht-ur
+Meht-ur,
+
+
+a7't
+the maker
+
+
+U
+
+
+mu
+of the water
+
+
+/W^AAA AA^AAA
+
+
+acting [as]
+
+
+bull of
+
+
+Jthepertu
+making to exist
+
+
+■mut -f
+his mother,
+
+
+Icheperu
+the creator
+
+
+D
+
+
+X
+
+
+sesheta
+
+
+netchem netcltemiu nuk dri pet
+
+of the joys of love. I am the maker of heaven and have covered over
+
+
+RA AND ISIS
+
+
+? mil -
+
+
+/t/?w^t f«-(i /)a nu neteru em-khemiu-set
+
+the two horizons, I have set the soul of the gods within them
+
+
+O
+
+
+iiiiiiiii
+
+
+hhe]3eru
+
+
+dnuh un maati-f khejjeru hetchetcMu
+
+I am he who openeth his eyes, becometh the light ;
+
+
+akliennu maati-f klieperu keJmi
+
+shutteth [he] his eyes, becometh the dark.
+
+
+=v
+
+
+hu mu
+
+Riseth the flood
+
+
+OAAAAAA
+
+
+Hap
+of Hap (Nile)
+
+
+}(| AAAAAA
+
+
+rekh en neteru
+know the gods
+
+
+khefl
+when
+
+
+utu-iief
+he pjiveth the command.
+
+
+O
+
+
+an
+not
+
+
+ren - /
+his name.
+
+
+khepeno
+
+
+mile dri imnu
+
+I am the maker of hours,
+
+(T
+
+renpit
+
+
+(2 o I
+
+
+Jiru nuk dpu hebu
+
+the creator of days, lam the opener of the festivals of the year,
+
+
+z
+
+
+qemamu
+the creator
+
+
+T=t.
+
+
+V
+
+
+dtru
+of streams of water.
+
+
+O
+
+
+nuk
+I am
+
+
+an
+the maker
+
+
+e
+
+
+U
+
+
+I I
+
+
+khet dnkhet er sekhejperu kat en amu
+
+of flame of life making to be performed works in the houses.
+
+
+RA AND ISIS
+
+
+hiauu
+
+
+G O
+Rd
+
+
+nuk Klie])erd em
+I am Khepera in the morning, Ra
+
+
+em
+in
+
+
+dhdu-f
+his noontide.
+
+
+W
+
+
+Temii
+Temu
+
+
+met
+
+
+ami
+
+
+an
+
+
+in the evening.
+
+
+mdsheru an khesef
+
+[But] not was driven
+
+
+em sliemi-set
+
+
+the poison out of its course,
+
+
+tcliet an
+Said
+
+
+illy
+Ast
+
+Isis
+
+
+en
+to
+
+
+0
+I
+
+Rd
+Ra
+
+
+1
+
+an netchem neter da
+
+not was relieved the great god.
+
+ail re7i-A: opit
+
+: — Thv name is not enumerated
+
+
+era na
+among the
+
+
+tchet'ii-k-nd
+
+things which thou hast
+said to me ;
+
+
+a
+0
+
+
+tchet-k
+tell thou
+
+
+I III sr
+set nd
+
+it to me.
+
+
+nrz3
+
+
+w
+
+
+2)eri ta
+
+and shall come out the
+
+
+metu
+poison.
+
+
+/VWVW
+
+
+f
+
+
+Shall live a person
+
+
+temu-tu ren - f
+
+having uttered his name.
+
+
+em
+with
+
+
+tchetemu
+burnings.
+
+
+t
+
+
+r=iD f
+
+
+metu
+The poison
+
+
+sekliemu-nes
+
+
+it was stronger
+
+
+tchetemu-set
+it burned
+
+
+er nebdu
+
+than the flame
+
+
+of
+
+
+RA AND ISIS
+
+
+art tchet dn hen en
+
+fire. Said the majesty of
+
+
+hehici
+
+
+Hid Ast
+to be searched out by Isis,
+
+
+A
+
+
+per em ren-a
+shall come forth my name
+
+
+0
+
+Rd tdt-nd
+
+Ra, I give myself
+
+
+em
+from
+
+
+W
+
+
+khat-d er khat-s
+
+my body into her body.
+
+
+dmen en su netri em
+
+Hid himself the divine one from
+
+
+usekh
+
+
+neteru usekh dst em uda en heh renput
+
+the gods, empty was the place in the Boat of millions of years.
+
+
+©
+
+
+D
+
+
+dr kheperu md sep pert ent
+
+When it became about the time of the coming forth of
+
+
+I
+
+
+S
+
+
+db
+
+
+tchet-s en
+
+
+sa
+
+
+Heru
+
+
+senha
+
+
+ent su
+
+
+the heart she said to [her] son Horus: — Let him bind himself by
+
+an oath
+
+
+Q AAAAAA
+
+
+em dnkh
+
+
+1
+
+netef
+
+
+1
+
+
+w
+ertdt 7ieter maati-f
+
+sworn by the life of the god that the god will give his tAvo eyes.
+
+
+1
+
+
+e
+
+
+■itA
+
+
+e
+
+
+neter dat uthes - nef her ren - f
+The god great was removed from his name,
+
+
+Ast urt-hekauti
+
+Isis, great in words
+of power [said]: —
+
+
+c c
+
+
+RA AND ISIS
+
+
+Run out,
+
+
+r=a
+
+
+f
+
+metu
+poison,
+
+
+AAAAAA I
+
+
+o
+
+
+|:»e7' e??i i^rt maat Hern
+
+come forth from Ra, Eye ofHorus,
+
+
+W Ji
+
+
+])eri em neter nubmi
+
+come forth from the god, and shine
+
+
+O
+
+
+O
+
+
+nuk
+
+
+ra
+
+
+ari-a
+
+
+I, I have worked,
+
+
+nuk
+I
+
+
+e?fc
+
+re - /
+
+without
+
+his mouth
+
+1 s
+
+mi /ier
+
+ta
+
+liau er
+
+make to fall down upon the ground
+
+
+w
+
+
+e
+
+
+i
+
+
+II
+
+
+er metu sekhemu mdki utiles en neter
+
+the poison which is defeated, verily was removed from the god
+
+
+aa
+rreat
+
+
+=3 AAA/VNA
+
+
+o
+
+
+f
+
+
+AA/WVV
+
+
+his name.
+
+
+Ra may he live, the poison may it die
+
+
+V
+
+
+■ nnmii
+
+/VvAAAA /VVWNA
+
+
+tlies rer men mes en ment
+
+and conversely. A certain one, the son of a certain woman,
+
+
+f
+
+
+ja
+
+
+mzM - / metu mit tchet en Ast ur
+
+may he live, the poison may it die. [Thus] said Isis, great lady.
+
+
+O
+
+
+o I
+Rd
+
+
+hent neteru rekh
+
+mistress of the gods, who knew Ra
+
+
+em ren - f tchesef
+
+by his name his own.
+
+
+RA AND ISIS
+
+
+tchet
+
+
+I
+he7'
+
+
+tut
+
+
+To be said over an image of
+
+
+Te/niu
+Temu
+
+
+hend
+and
+
+
+AAAAAA
+
+
+Ileru-Tiekennu
+Heru-hekennu,
+
+
+erpit Ast tut Heru
+
+and [over] a figure of Isis, and an image of Horns.
+
+
+CHAPTER XII
+THE DESTRUCTION OF MANKIND
+
+EGYPTIAN TEXT WITH TRANSLITERATION AND TRANSLATION
+
+
+1
+
+
+netev khefer tchesef em-kliet un-nef em
+
+god, who created himself. After he was in
+
+
+sutenit
+the sovereignty
+
+
+TJdti
+
+the One,
+
+
+reth
+of men.
+
+
+m
+
+neteru
+
+
+I I I
+em khet
+and of gods, and of creation,
+
+
+iin d)i
+
+
+reth her hat metet
+
+men and women were blaspheming and saying,
+
+
+dstu
+
+Behold,
+
+
+kesu-f
+
+
+f i P
+
+eref hen dnkh utcha senh dami
+
+his majesty, life, strength, health, has grown old,
+
+
+ee?
+
+
+^ til
+
+
+em hetch hdu - f em, nvh
+his bones are like silver, his limbs like gold
+
+
+O O O /VSAAAA bliL I
+
+sheni - f
+his hair
+
+
+em
+
+
+H -iCl O O O — U
+
+kheshet madt
+
+
+tin dn
+
+
+hen-f
+
+
+her setem
+
+
+is like lapis-lazuli real ; was his majesty listening to
+
+
+DESTRUCTION OF MANKIND
+
+
+ISO
+
+
+metet an
+
+
+reth tchet an ^C'^i-f ctnhli utcha senh
+what said mankind. Said his majesty, life, strength, health.
+
+
+er enti emkhetti-f nds md-nd er maat-d
+
+to those who were in his train. Call, bring me my Eye,
+
+
+er Sim Tefmit Seh
+and Shu, Tefnut, Seb
+
+
+Nut
+Nut,
+
+
+liend dtefiu 7nut
+
+and the father and mother
+gods
+
+
+DOD
+
+
+m
+
+
+uneniu hend-d dstu-d em Nu liena kher
+
+who lived Avith me when behold I was in Nu, together with
+
+
+1
+
+
+^7^7^ AA^AAA
+AAAAAA
+
+
+i 1
+
+
+mm
+
+
+neter-d
+my god
+
+
+Nu
+Nu.
+
+
+dn-nef shenthi - f
+
+Let him bring his ministers
+
+
+1
+
+
+dn-nek set em
+
+Bring thou them in
+
+
+ketket
+silence.
+
+
+am
+that not
+
+
+reth
+mankind.
+
+
+am
+not
+
+
+liar
+may flee
+
+
+I I I I
+dh-sen
+
+their hearts.
+
+
+I I I
+
+
+Ld
+
+
+I I I
+
+
+liend - f
+with him.
+
+
+maa
+may see
+
+
+i-k
+Come thou
+
+
+Mil
+
+
+hend-sen er het-dat tchet-sen sehheru-sen
+
+with them into the great temple, let them declare their counsel
+
+
+DESTRUCTION OF MANKIND
+
+
+B
+
+
+tchertn.
+fully;
+
+
+lU-Ob
+
+
+em
+
+
+I will enter into
+
+
+AAAftAA j^ll
+
+
+1/ J /-^AAAA U
+
+-sJ Jli
+
+Nu
+
+erbu
+
+Nu
+
+to
+
+the place
+
+Jcheper-nd dm dn-7id dn-tu enen neteru un dn
+
+wherein I was born, let be brought to me those gods. Were
+
+
+'^ "^ AAAAAA
+
+
+AAAAAA I ^
+
+
+em-hah
+
+
+enen nctern dpen her kesni-f
+
+those gods on both sides of him, bowing to the earth before
+
+
+hen -f tchet-f
+
+his majesty. He spake
+
+
+semsu
+of the firstborn gods,
+
+
+m.etet - f
+his words
+
+
+an
+the maker
+
+
+I
+ein-hah
+
+before
+
+
+rebh
+of men.
+
+
+dtef
+the father
+
+
+I
+
+
+suten
+the king
+
+
+rehhit
+of rational beings.
+
+
+n
+
+
+I I I
+
+
+tchet dn sen kheft
+
+They said before
+
+
+hen -f
+his majesty,
+
+
+I AAAAAA
+
+I III
+
+
+metu-en-n
+Speak to us,
+
+
+I I I
+
+
+er setem-en-set
+
+
+for we are listening to them . Said
+
+
+o
+
+tchet dn Bd
+Ra
+
+
+DDO
+
+
+AAAAAA
+
+
+en
+to
+
+
+Nu
+Nu,
+
+
+neter semsu
+
+0 god firstborn,
+
+
+khcjH'r-nd dm - f
+
+from whom I came into
+being,
+
+
+DESTRUCTION OF MANKIND
+
+
+inii?--^
+
+
+AAAAAA
+J] I I I
+
+
+neterii tep-du "tnd-ten reth kheperu
+
+and ye ancestor gods, take ye heed to mankind who came into being
+
+
+I I I I 4
+
+
+III
+
+
+em maat-d
+from my eye,
+
+
+ka-en-sen
+they speak
+
+
+metet er-d tchet-nd
+
+words against me. Tell me
+
+
+f::^ AAAAAA
+
+I I I I I I
+
+
+AAAAAA
+J] I I I
+
+
+drit-ten
+[what] ye would do
+
+
+er-s
+about it.
+
+
+md-ten-ud
+take ye heed to it for me,
+
+
+w
+
+
+hehi'd dn sma-nd set er setemu-d
+
+seek out a plan for me. Not will I slay them until I hear
+
+
+AAAAAA
+I I I
+
+
+I AAAAAA
+
+
+AAAAAA
+
+
+tchet-thd ten er-s tchet dn hen en
+
+Avhat ye say concerning it. Said the majesty of
+
+
+Nu
+Nu,
+
+
+sa
+the son
+
+
+O
+I
+
+Rd
+of Ra
+
+
+1
+
+neter da er dri su
+
+God greater than he who made him,
+
+
+}ir
+mightier
+
+
+er
+than
+
+
+i
+
+
+dst-k ur sent-k
+
+thy throne, great is. the fear of thee,
+
+
+those who were created with him, sit on
+
+
+du niaat-k er
+
+let thine Eye be upon
+
+
+DESTRUCTION OF MANKIND
+
+
+nam dm-k
+
+those who blaspheme thee.
+
+
+III I III
+
+
+oi
+
+tchet an hen
+
+en
+
+Rd
+
+Said the majesty
+
+of
+
+Ra:
+
+
+1 I
+
+
+I I
+
+
+md-ten set
+
+Behold ye them
+
+
+uar
+fleeing
+
+
+I
+
+
+er set dh-sen
+
+into the mountain, their hearts
+
+
+I I I
+
+
+sentu
+are afraid
+
+
+her tcJief e7i sen
+
+because of what they have said.
+
+
+I I I
+
+tcliet dn-sen
+They said
+
+
+kheft hen - f
+before his majesty
+
+
+td shem
+
+
+o I
+
+
+maat'k hau-s-riek
+
+Let go forth thine Eye, let it destroy for thee
+
+
+ill
+set
+those
+
+
+I I I
+
+
+navii
+who blaspheme
+
+
+em
+with
+
+
+tu
+wickedness,
+
+
+/WVW^ '^ I
+
+dti inaat
+not an eye
+
+
+er
+in
+
+
+khenti dm-s
+can precede it
+
+
+em Het-IIert
+
+in the form of Hathor.
+
+
+t^lllhu -k
+
+resistance . . . .
+
+
+ra
+
+
+set has
+
+[when] it goeth down
+
+
+1
+
+
+iu dn eref
+Went forth then
+
+
+netert
+goddess
+
+
+ten
+this,
+
+
+smam-nes
+she slew
+
+
+reth
+mankind
+
+
+her set
+
+on the mountain.
+
+
+IV
+
+tchet dn
+Said
+
+
+DESTRUCTION OF MANKIND
+
+
+1
+
+
+□
+
+AWAAA
+
+
+w
+
+
+w
+
+
+hen en neter pen
+the majesty of this god
+
+
+idi-ui
+
+
+em hetep Het-Hert
+Come, come in peace, Hathor,
+
+
+iii^iv ^'Tiz f
+
+
+drit en drit tcliet dn netert ten dnkli-k nd
+
+for the deed is done. Said this goddess : — Thou gavest me life,
+
+
+dii sekliem-nd
+when I had power
+
+
+em
+over
+
+
+reth
+mankind
+
+
+(1 V/ 0 1 AAAAAA O
+
+dh-d. tcliet dn hen en Rd
+
+my heart. Said the majesty of Ra :
+
+
+III I
+
+du netchem her
+it was pleasing to
+
+
+du-d er sekhem
+I will be master
+
+
+I I I
+
+
+}
+
+
+em sen em suten
+over them as king
+
+
+I I il III
+em sdntu-set kheper
+
+destroying them. It came to pass that
+
+
+izsz: ^ X
+I I I
+
+Sekhet pu shehebet
+
+Sekhet of the offerings
+
+
+ent
+of
+
+
+AA/VSAA i^ AAAAAA
+
+
+senfsen
+their blood
+
+
+kerh
+the night
+
+
+n
++
+
+
+I
+
+
+er rehet her
+waded about in
+
+
+AAAAAA
+AAAAAA
+
+
+w
+
+
+0
+
+
+shad
+beginning
+
+
+em Suten-henen tchet dn Bd
+in Suten-henen. Said Ra:-
+
+
+01 as
+
+
+ma-na
+
+
+Call, bring to me
+
+
+dputi
+messengers
+
+
+III
+
+
+khau sdnnu
+
+swift [and] speedy
+
+
+DESTRUCTION OF MANKIND
+
+
+seklisekhsen
+they shall run
+
+
+I I I
+
+
+shut en
+
+[like] the wind of
+
+
+khat
+the body ;
+
+
+an an- 111
+one brought
+
+
+enen dpufi
+messengers
+
+
+D
+
+AAAAAA
+
+
+w
+
+
+d'pen her dui
+
+these straightway.
+
+
+1
+
+
+D
+
+AAAAAA
+
+
+I I
+
+
+tchet an hen en
+
+Said the majesty of
+
+
+neter yen
+this god :—
+
+
+sha-sen
+Let them go
+
+
+er
+to
+
+
+I
+
+
+I I I
+
+
+III
+
+
+Ahu an nd tdtddt er ur
+
+Elephantine [and] bring me mandrakes in great number,
+
+
+AAAAAA A n ri d O
+
+W III
+
+
+W
+
+
+dn dn-tu nef enen tdtddt ertdt dn hen
+
+One brought to him these mandrakes, gave the majesty
+
+
+O
+
+
+t
+
+
+e?i Tieie?' pe??/ Sektet enti em Annu her netch
+
+of this god to Sektet who is in Heliopolis to crush
+
+
+1 W III 1 AAAAA
+
+
+tdtddt dpen
+
+mandrakes these.
+
+b&t) I
+
+
+dstu kher
+
+
+X
+
+
+hent
+
+
+her tesh
+
+
+Behold, when the women were bruising
+
+
+^ III
+
+
+■pertu er he(/t ertd dn-tu tdtddt dpen
+
+the barley for beer, and they were placing mandrakes these
+
+
+DESTRUCTION OF MANKIND
+
+
+JJ
+
+
+lier shebehet
+in the beer vessels,
+
+
+drit-dn-hi
+
+
+%%'Z). AAAAAA J^ 1
+
+
+[they became] blood of
+
+
+reth
+men.
+
+
+^ III
+heqt
+
+
+drnet
+
+
+Having been made of beer vessels seven thousand, came
+
+
+si] i:
+
+
+eref
+
+
+hen
+
+
+en
+
+
+sute7i hat
+
+
+Bd
+
+
+therefore the majesty of the king of the South Ra
+
+and North
+
+
+hend
+with
+
+
+m fi °
+
+
+neteru dpen
+
+gods these
+
+
+y I AAAAAA /S
+
+
+to
+
+
+libaa
+see
+
+
+^ III
+
+
+this
+
+
+heqet
+beer.
+
+
+hetch ta
+when it was dawn.
+
+
+iii —
+
+
+smama
+
+
+after had slaughtered
+
+
+dstu
+Behold,
+
+
+reth
+men
+
+
+ppp^:^p
+
+
+o
+
+
+III I
+
+sesu-sen nu
+
+
+ctw netert em
+
+the goddess during their period of sailing up the river,
+
+
+khentithit
+
+
+U ' AAAAAA
+
+metch dn hen en
+
+said the majesty of
+
+
+O
+I
+
+Bd
+Ra:—
+
+
+neferui set
+It is good, it is good.
+
+
+du'd er mdket reth
+
+I am for protecting mankind against her. Said Ra
+
+
+hers tchet dn Bd
+
+
+DESTRUCTION OF MANKIND
+
+
+I I
+
+
+fai md set er hua
+
+Let them carry and bring them to the place
+
+
+ra
+
+D
+
+
+o
+
+
+flV
+
+
+reth
+
+
+am
+
+
+hep d'ii
+
+
+hen
+
+
+en
+
+
+lies syjia
+she slew
+
+
+siden hat
+
+
+mankind therein. Commanded the majesty of the king of the
+
+South and North
+
+
+iZlM
+
+
+III
+
+
+S
+
+
+Bd em iieferu kerh rr ertdt satet-fu
+
+Ra during the beauties of the night to cause to be poured out
+
+
+enen setchert un d.n
+
+these vases of sleep-causing beer, were
+
+
+V i
+ahet
+the fields
+
+
+enti
+
+of
+
+
+III
+
+
+heaven
+
+
+ffu
+the four
+
+
+her meh em.
+filled with
+
+
+AAAA'V^
+
+mu
+water
+
+
+em
+by
+
+
+I I
+
+
+J I
+
+haiu en
+the Will of
+
+
+hen en neter pen
+
+the majesty of this god.
+
+
+shemt dn netert ten
+
+Came goddess this
+
+(i.e., Sekhet)
+
+
+em
+in
+
+
+o
+w
+tuain
+
+morning,
+
+
+qem-nes
+found she
+
+
+"^ "^ AAAAAA
+[ * "^l" AAAAAA
+
+enen
+this [heaven]
+
+
+AAAAAA
+AAAAAA
+
+
+flooded.
+
+
+nefer
+joyful
+
+
+qV ?h 1
+
+
+I
+hrd-set
+
+
+m h TPS^
+
+
+a^i lira-set dm un dn set her surd
+
+was her face because of it, Avas she drinking,
+
+
+DESTRUCTION OF MANKIND
+
+
+her dh-set
+
+
+A
+
+
+tekh-thd
+
+
+nefer lier ab-set i-nes
+
+merry was her heart, she came to a condition of drunkenness,
+
+
+an
+
+
+sa-nes
+
+
+reth
+
+
+tchet an hen
+
+
+O
+
+
+en Bd
+
+
+not knew she mankind. Said the majesty of Ra
+
+
+en netert ten
+
+
+it-ui em hetep
+
+to goddess this: — Come, come in peace, 0 Beautiful one ;
+
+
+Aonit
+
+
+hheper nefert em A^n tchet an
+
+and there became beautiful young women in Am. Said
+
+
+O
+
+
+hen
+
+
+en Bd en netert ten
+
+
+dri en set
+
+
+the majesty of Ra to goddess this : — Let be made for her
+
+
+I o
+
+
+D
+
+
+setchertet em trdiu renjpet dpen
+
+vases of sleep -causing beer at seasons of the year these ;
+
+
+set er hent-d hheper drit
+
+they [shall be] in proportion to my handmaidens. There were made
+
+
+D
+
+
+setchert pu em dpt hent
+
+vases of sleep- according to the number of the handmaidens
+causing beer
+
+
+DESTRUCTION OF MANKIND
+
+
+Iieh en Het-hert dii. refh, neh tcher hm
+
+of the festival of Hathor by mankind all since the day
+
+
+@
+
+
+W
+
+
+o
+
+1
+
+
+fepi tchet an hen en
+
+first. Said the majesty of
+
+
+Rd
+Ra
+
+
+en
+to
+
+
+netert
+
+
+ten
+
+
+goddess this :-
+
+
+ra
+ra
+
+
+an du mer en heh en mer kheper
+
+Behold a pain of fire of sickness hath come [on me],
+
+
+klier trd-ui
+
+
+dn mer tchet dn hen en
+
+whence, 0 whence is the pain ? Said the majesty of
+
+
+5Q
+I
+
+Rd
+Ra:-
+
+
+f
+
+
+dnkh-nd
+I live.
+
+
+dn dh-d urtu ur nnen
+
+[but] my heart is very weary of being
+
+
+hend-sen
+with them.
+
+
+smam-d
+I slew
+
+
+set Sep
+
+them, [but] there remain
+
+
+en
+of
+
+
+dti dn un dnt dutu
+
+the worthless, for not was the destruction as wide-spreading
+
+
+Q
+
+
+ni
+
+
+d-d tchetet en neteru
+
+[as] my power. Said the gods
+
+
+enti ami- Jchet- f
+
+who were in his train
+
+
+em hell
+Tarry not
+
+
+DESTRUCTION OF MANKIND
+
+
+?
+
+
+em
+in
+
+
+nrt-h du-k
+
+thy weariness [for] thou art
+
+
+sekhem-thd
+mighty
+
+
+1
+
+
+em
+according to
+
+
+merret-h
+thy will.
+
+
+tchet an hen
+
+Said
+
+
+en
+
+
+ivoiu viv neter fen
+
+the majesty ol this god
+
+
+AAAAAA
+
+
+e?e
+
+
+ra
+
+
+en hen en
+
+to the majesty of
+
+
+Nu
+Nu:-
+
+
+hdu-d ahet em
+
+My members are weak for
+
+
+D ® D /VWNAA
+
+sejp tepi an
+
+the first time, not
+
+
+CHAPTER XIII
+
+THOTH ^ (TEHUTI), AND MAAT, ^"p^, AND
+
+the" OTHER GODDESSES AVHO WERE
+
+ASSOCIATED WITH HIM
+
+T"^ H B hymns to Ra which are found in the Book of the Dead
+and in other funeral works of the ancient Egyptians
+state that the deities Thoth and Maat stand one on each side of
+the great god in his boat, and it is clear that they Avere believed
+to take some important part in directing its course ; and as they
+were with Ra when he sprang up from the abyss of Nu their
+existence must have been coeval with his own. The conceptions
+which the Egyptians formed about Thoth and Maat were both
+material and spiritual, and it is impossible to arrive at any
+conclusion concerning the functions of these deities without
+enumerating the facts about them which may be derived from the
+texts ; speaking generally, Maat may be considered the female
+counterpart of Thoth. In the Pyramid Texts, our earliest
+authorities, the functions of Thoth are of a purely funereal character,
+that is to say, he appears only as a god who is willing to be a
+helper of the deceased kings, and, although it is certain from many
+passages that his assistance was eagerly awaited by souls in the
+Underworld, there is no description given in these early works of
+the functions of the god. We must, then, rely upon the inscriptions of the later dynastic period for our knowledge of the powers
+of Thoth, and from these we learn that he was called, '' Lord of
+" Khemennu, self-created, to whom none hath given birth, god
+" One ; " " he who reckons in heaven, the counter of the stars, the
+" enumerator of the earth and of what is therein, and the measurer
+'' of the earth ; " and the " heart of Rii which cometh forth in the
+
+
+THOTH 401
+
+"form of the god Thoth."^ The chief shrine of the god was
+in Khemennu, zz©, called Hermopolis by the Greeks, and
+Eshmunen by the Ai-abs, but he also had shrines in Abydos,
+
+(=) I ^ ']©'], Ta-ur, ^, Sep, ^, Hat, ^, Pselket,
+
+
+Bah, ^©, Amen-heri-ab, (1 (z=)tOi©, and Ta-kens, ) s's:.
+
+
+"lord of Maat," , and "judge of the two combatant gods,"
+
+
+and " ter maximus " of the classical writers.
+
+The above facts prove that Thoth was regarded as a god who
+was self-begotten and self-produced, that he was One, that he made
+the calculations concerning the stablishing of the heavens, and the
+stars, and the earth, that he was the heart of Ra, that he was the
+master of law both in its physical and moral conceptions, and that
+he had the knowledge of " divine speech." From many passages
+we see also that he Avas the inventor and god of all arts and
+sciences, that he was the " lord of books," and the " scribe of the
+gods," and " mighty in speech," i.e., his words took effect, and he
+was declared to be the author of many of the funeral works by
+which the deceased gained everlasting life. In the Booh of the
+Dead he plays a part which gives him a unique position among
+the gods, and he is represented as the possessor of powers which
+are greater than those of Osiris, and even those of Ra himself.
+Before, however, we go on to consider these the forms in which he
+appears on the monuments must be mentioned. Usually he
+appears in human form with the head of an ibis, but he also
+appears as an ibis. When in human form he holds in his hands
+
+1 See Lanzone, op. cit, p. 1265.
+D d
+
+
+402 THOTH
+
+the sceptre and emblem of "life" common to all gods, but his
+headdress varies according to the particular form of the god in
+which the artist wishes to depict him. As the reckoner of times
+and seasons he has upon his head the crescent moon and disk,
+O; as a form of Shu and An-Her he wears the headdresses of these
+
+
+crowns of the South and the North/ In the Book of the Dead he
+appears as the " scribe of Maat of the company of the gods,"
+® "1 , and then he holds in his hands the writing reed
+
+
+and palette of the scribe ; but his connection with Ra and his first
+i.e., the power or strength, of the Eye of Ra, which he is seen
+carrying along in his hands.
+
+The name of the god Thoth, ^)^ , Telmti, appears to be
+
+derived from the supposed oldest name of the ibis in Egypt, i.e.,
+
+teliu^ to which the termination ti has been added, with the idea of
+
+indicating that the king called Tehuti possessed the qualities and
+
+attributes of the ibis.^ A derivation of the name which appears to
+
+have been favoured by the Egyptians connected it with the word
+
+tehh, ^ 'C, "a weight," and in passages quoted by Lanzone^ we
+
+
+for the word tekli, a weight, is the sign for "heart," "O", and we
+
+know that the bird called tehh or tekhnu, which closely resembled
+
+the ibis, the bird sacred to Thoth, was in the opinion of some
+
+ancient writers connected with the heart. Thus HorapoUo says
+
+(i. 36) that when the Egyptians wish to write " heart " they draw
+
+an ibis, for this bird was dedicated to Hermes (i.e., Thoth) as the
+
+lord of all knowledge and understanding; and ^lian {De Nat.
+
+Animal, x. 29) supports his testimony by adding several cuinous
+
+and interesting facts about the habits of the ibis. Other names
+
+given to Thoth were,^ A, (] J , and Sheps, lord of Khemennu,
+
+^P^Ez©, Asten, () fl^ ^, Khenti, f{|l^ T;, Mehi, o(=^ I
+
+
+^ See Lanzone, op. cit., pi. 402 f. ~ Compare Brugsch, Religion, p. 439.
+
+3 Op. cit., p. 1265. ■* See Brugsch, Beligion, p. 441.
+
+
+THOTH 403
+
+" ibis," a Avord which finds its equivalent in the Coptic giRcui,
+and one of his commonest forms is the dog-headed ape, rzS^,
+
+
+which occupies such a prominent position in the Judgment Scene
+in the Booh of the Dead. Here we see him seated on the top of the
+support of the beam of the Balance in which the heart of the
+deceased is weighed, where his duty is to watch the pointer, and
+tell the ibis-headed Thoth when the beam is exactly level ;
+according to Brugsch, this ape is a form of Thoth as the god of
+" equilibrium," ^ and he appears to be a symbol of the equinoxes.
+The ape dan is also connected with the moon, for he is often seen
+with the lunar crescent and disk, Q, upon his head ; but there is
+no doubt that he represented Thoth in his character of " lord of
+divine words and the scribe [of the gods]," for in a scene re-
+404 THOTH
+
+the four pairs of deities formed the oldest example of the ogdoad,
+while M. Maspero is of opinion that we must join the four pairs to
+Thoth, when the nine gods will form an independent yaut, constructed partly on the model of the ]jaut of Heliopolis. Dr. Brugsch
+thought that the eight gods of Hermopolis were primordial deities,
+but M. Maspero thinks that their character is entirely artificial, and
+that they are only " gods formed according to the laws of grammar,
+" four being masculine, and four feminine." ^ The latter argues
+that because the high priest of Hermopolis was called by a title
+which indicates that he served " him that is chief of five," the gods
+of the city were only five in number, i.e., Thoth and the four gods
+of the cardinal points ; to the four gods of the cardinal points were
+then assigned female counterparts, hence the " Eight gods "
+
+1 I -^V r^ I. Thoth, according to M. Maspero, is to these what
+
+Tem or Ra-Tem was to the jpaut of Heliopolis, and the Hermopolitan paid was constructed after the model of the Heliopolitan
+paut ; thus Nu and Nut = Shu and Tefnut, Helm and Hehut =
+Seb and Nut, Kek and Keket = Osiris and Isis, and Kerh and
+Kerhet (or, Nau and Nait) = Set and Nephthys. This view is,
+however, not supported by the evidence of the texts, which, in
+the writer's opinion, indicates, as has already been said, that the
+four pairs of gods of Hermopolis belong to a far older conception
+of the theogony than that of the company of gods of Heliopolis. Another point to be remembered is that Thoth was
+intimately associated with the ape, as were also the gods of his
+company ; this takes us back to a very remote period when supernatural poAvers were assigned to the particular class of ape which
+was the companion of Thoth, and when the primitive Egyptian
+regarded the knowledge and cunning of the dog-headed ape as
+proofs of his divine nature. Between the period when this took
+place and the development of the Heliopolitan theogony, a very
+long interval of time must have passed ; the two conceptions
+belong not only to different stages of civilization, but probably to
+two distinct races of men.
+
+One of the most interesting titles of Thoth is " Judge of the
+
+1 La Mythologie ]Sgyptienue, p. 257.
+
+
+THOTH 405
+
+*' ReheliTii, the pacifier of the gods, who dwelleth in Unnu
+'' (Hermopolis), the great god in the Temple of Abtiti." ^ A veryearly Egyptian tradition made a great fight to take place between
+the god of light and the god of darkness, and in later days Ra
+himself, or some form of him, generally one of the Horus gods,
+was identified with the god of light, and Set, in one form or other,
+was identified with the god of darkness. Thus the fights of Ra
+and Apep, and Heru-Behutet and Set, and Horus, son of Isis, and
+Set, are in reality only different versions of one and the same
+story, though belonging to different periods. In all these fights
+Thoth played a prominent part, for when the Eye of Ra, i.e., the
+Sun, was doing battle with Set, this evil power managed to cast
+clouds over it, and it was Thoth who swept them away, and
+" brought the Eye alive, and whole, and sound, and without defect
+"to its lord" (Book of the Dead, xvii. 71, ff.) ; he seems also to
+have performed the same office for Ra after his combat with Apep.
+At the contest between Horus, son of Isis, who fought with Set in
+order to avenge the murder of his father Osiris, Thoth was present,
+and when Horus had cut off his mother's head because of her
+interference in the fight at the moment when victory was inclining
+to him, it was Thoth who gave her a cow's head in place of her
+own. In all these fights Thoth was the arbiter, and his duty
+was to prevent either god from gaining a decisive victory, and
+from destroying the other ; in fact, he had to keep these hostile
+forces in exact equilibrium, the forces being light and darkness, or
+day and night, or good and evil, according to the date of the
+composition of the legends, and the objects which the scribes
+intended to secure by ^vriting them down. In the group of titles
+of Thoth quoted in this paragraph we see that he is called "great
+god in Het-Abtit," or the Temple of Abtit, which was one of the
+chief sanctuaries of the god, and was situated in Hermopolis.
+
+The hieroglyphics with which the name " Het Abtit" are
+written prove that they mean the " House of the Net," i.e., the
+
+
+406 THOTH
+
+temple where a net was preserved and venerated, but the questions
+naturally arise, what was this net, and what was its signification ?
+We know from the two versions of Chapter cliii. of the Book of the
+Bead that a net was supposed to exist in the Underworld, and that
+the deceased regarded it with horror and detestation. Every part
+of it, its poles, and ropes, and weights, and small cords, and hooks,
+had names which he was obliged to learn if he wished to escape
+from it, and would make use of it to catch food for himself, instead
+of being caught by " those who laid snares." Thus in a prayer we
+read, " Hail, thou ' god who lookest behind thee,' thou 'god who
+" hast gained the mastery over thine heart,' I go a-fishing with
+" the cordage of the ' uniter of the earth ' (Horus ?), and of him
+" that maketh a way through the earth. Hail, ye fishers who have
+" given birth to your own fathers, who lay snares with your nets,
+" and who go round about in the chambers of the waters, take ye
+" not me in the net wherewith ye ensnared the helpless fiends, and
+" rope me not in with the rope wherewith ye roped in the
+" abominable fiends of earth, which had a frame which reached
+" unto heaven, and weighted parts that rested upon the earth."
+From this passage it is clear that the Egyptians possessed a legend
+in which one power or the other in the mythological combats was
+armed with a net wherein he tried to ensnare his adversary. In
+Chapter cxxxiii. the deceased says, '' Lift thyself up, 0 thou Ra,
+" who dwellest in thy divine shrine, draw thou into thyself the
+" winds, inhale the north wind, and swallow thou the heqesii
+" ( J ^ 1 ^ (^) of thy net (() J ^ )^) on tlie day wherein thou
+" breathest Maat." The meaning of heqesu is not quite clear in
+this passage, because from its determinative, Q^ , we should naturally
+connect it with some organ of the human body, but it is evident
+from its context that Rfi possessed a net, and we are certain from
+the former extract that it was one of the weapons which he
+employed in his war against the god and fiends of darkness.
+
+An interesting parallel is afforded by the Assyrian and
+Babylonian versions^ of the fight between the Sun-god Marduk
+and the monster Tiamat and her fiends, for it is said in tliem,
+
+1 See L. W. King, Babylonian Beliijion, p. 71.
+
+
+THOTH 407
+
+" He (i.e., Marduk) set the lightning in front of him, with burning
+" fire he filled his body. He made a net to enclose the inward
+" parts of Tiamat, the Four Winds he set so that nothing of her
+" might escape ; the South wind, and the North wind, and the
+" East wind, and the West wind, he brought near to the net which
+'' his father Anu had given him." It is interesting to note that in
+the passage from the cxxxiiird Chapter the winds are also mentioned in connexion with the net of Ra, and it is difficult not to
+arrive at the conclusion that the use to which the Sun-god put his
+net was the same in each legend ; whether this be so, however, or
+not matters little for our purpose here. It is quite clear that in
+the Egyptian legend the god Thoth was supposed to have some
+connexion with the net of Ra, and it is equally clear that in his
+temple, Avhich was called the Temple of the Net, the emblem of a
+net, or perhaps even a net itself, was venerated.
+
+We are now able to sum up the attributes ascribed to Thoth,
+and to consider how he employed them in connection with the
+dead. In the first place, (he was held to be both the heart and the
+tongue of Ra, that is to say, hejwas the ^reason and the mental
+powers of the god, and also the means by which their will was
+translated into speech ; from one aspect he was speech itself, and
+in later times he may well have represented, as Dr. Birch said, the
+Xoyo9 of Plato. In every legend in which Thoth takes a prominent
+part we see that it is he who speaks the word that results in the
+wishes of Ra being carried into efiect, and it is evident that^when
+be^ had once given, the word of command that command could not.
+fail^fco be carried out by one means or the other. He spoke the
+words which resulted in the creation of the heavens and the earth,
+and he taught Isis the words which enabled her to revivify the
+dead body of Osiris in such wise that Osiris could beget a child by
+her, and he gave her_the formulae which_ brought back her son
+Jlorus to life after he had been stung to death by a scorpion. His
+knowledge and powers of calculation measured out the heavens,
+and planned the earth, and everything which is in them ; his will
+and power kept the forces in heaven and in earth in equilibrium ;
+it was his great skill in celestial mathematics which made proper
+
+
+408 THOTH
+
+maintenance of the universe restedj^it was he who directed the
+potions of the heavenly bodies and their times and seasons ; and
+without his words the gods, whose existence depended upon them,
+could not have kept their place among the followers of Ra. He
+was the inscribe of the gods^" and possessed almost unlimited power
+in the Underworld ; the god Osiris was in many ways wholly
+dependent upon his good offices, and the ordinary mortal sought
+his words and help with great earnestness. In the Judgment
+Scene in the Book of the Bead it is Thoth who acts the part of the
+recording angel, and it is his decision which is accepted by the
+gods, who ratify the same and report it to Osiris ; for when once
+Thoth said that the soul of the deceased had been weighed, and
+that it had been found true by trial in the Great Balance, and
+that there was no wickedness whatsoever in it, the gods could not
+fail to answer, " That which cometh forth from thy mouth is true,
+" and the deceased is holy and righteous " ; and in consequence
+they straightway award him a place with Osiris in the Sekhet-
+Hetepu, or Elysian Fields. _Thoth as the ^reat god ofwordswas
+rightly regarded as the judge of words, and the testing of the soul
+in the Balance in the Hall of Osiris is not described as the judging
+
+To words uttered under certain conditions the greatest
+importance was attached by the Egyptians, and in fact the whole
+efficacy of prayer appears to have depended upon the manner and
+tone of voice in which the words were spoken. Thoth could teach
+a man not only words of power, but also the manner in which
+to utter them, and the faculty most coveted by the Egyptian
+was that which enabled him to pronounce the formulae and
+Chapters of the Boole of the Bead in such a way that they could
+not fail to have the effect which the deceased wished them to have.
+After the names of deceased persons we always find in funeral
+
+which mean " he Avhose word is mad,'^ that is to say, he v/hose
+
+1 See the passages enumerated in my Vocabulary to the Boole of the Dead,
+
+
+THOTH 409
+
+words possess such power that whenever they are uttered by him
+the effects which he wished them to produce unfaihngly come to
+pass. The words, however, here referred to are those which must
+be learned from Thoth, and without the knowledge of them, and of
+the proper manner in which they should be said the deceased could
+never make his way through the Underworld. The formulae of
+Thoth opened the secret pylons for him, and provided him with
+the necessary meat, and drink, and apparel, and repelled baleful
+fiends and evil spirits, and they gave him the power to know the
+secret or hidden names of the monsters of the Underworld, and to
+utter them in such a way that they became his friends and helped
+him on his journey, until at length he entered the Fields of Peace
+of Osiris or the Boat of Millions of Years. These are the words
+referred to in the title of Thoth, " lord of divine words," or " lord
+of the words of god." The whole of the BooTc of the Dead was
+assumed to be the composition of Thoth, and certain chapters of it
+he "wrote with his own fingers." In the late work called the
+" Book op Breathings " it is said, " Thoth, the most mighty god,
+" the lord of Khemennu, cometh to thee, and he writeth for thee
+" the '■ Book of Breathings ' with his own fingers. Thus thy
+" soul shall breathe for ever and ever, and thy form shall be
+" endowed with life upon earth, and thou shalt be made a god
+" along with the soals of the gods, and they shall be the heart
+" of Ra, and thy members shall be the members of the great god." ^
+In later times the epithet mad hheru appears to have had a somewhat difi^erent meaning from that given to it above, and at times it
+may well be rendered " he whose word is right," and have
+reference to the words of Thoth in the Judgment, when he informs
+the gods that the heart of Osiris has been weighed with the
+strictest care on the part of himself and his ape, which sits on the
+support of the Balance, and that at the weighing the heart in one
+pan of the Scales was able to counterbalance exactly the feather of
+Right or the Law in the other, and that the case of the individual
+under examination was a " right " one.
+
+From many passages in the Booh of the Dead we learn of the
+
+1 Chapters of Coming Forth by Day (Translation), p. cscvii.
+
+
+410 THOTH
+
+services which Thoth performed for Osiris, and which he was to
+repeat for the benefit of every man who was acquitted in the
+Judgment. In the xviiith Chapter is a list of calamities which
+were averted from Osiris by Thoth, who gave words to the dead
+god and taught him to utter them with such effect that all the
+enemies of Osiris were vanquished. Thus he made him to triumph
+
+
+of every god and of every goddess ; in the presence of the assessors
+who are in Annu on the night of the battle and of the overthrow
+of the Sebau-fiend in Tattu ; on the night of making to stand up
+the double Tet in Sekhem ; on the night of the things of the
+night in Sekhem, in Pe, and in Tepu ; on the night of stablishing
+Horus in the heritage of the things of his father in Rekhti ; on
+the night when Isis maketh lamentation at the side of her
+brother Osiris in Abtu ; on the night of the Haker festival when
+a division is made between the dead and the spirits who are on
+the path of the dead ; on the night of the judgment of those who
+are to be annihilated at the great [festival of] the ploughing and
+the turning up of the earth in An-rut-f in Re-stau ; and on the
+night of making Horus to triumph over his enemies." In the
+clxxxiiird Chapter the deceased Hunefer says to Osiris, " I have
+come unto thee, 0 son of Nut, Osiris, Prince of everlastingness ;
+I am in the following of the god Thoth, and I have rejoiced at
+every thing which he hath done for thee. He hath brought unto
+thee sweet (i.e., fresh) air for thy nose, and life and strength to
+thy beautiful face, and the north wind which cometh forth from
+Tem for thy nostrils, 0 lord of Ta-tchesert. He hath made the
+god Shu to shine upon thy body ; he hath illumined thy path
+with rays of splendour ; he hath destroyed for thee [all] the evil
+defects which belong to thy members by the magical power of
+the words of his utterance. He hath made the two Horus
+brethren to be at peace for thee ; he hath destroyed the stormwind and the hurricane ; he hath made the Two Combatants to be
+gracious unto thee, and the two lands to be at peace before thee ;
+he hath put away the wrath which was in their hearts, and each
+hath become reconciled unto his brother."
+
+
+THOTH 411
+
+In the xcivth Chapter the deceased addresses the '' guardian
+of the book of Thoth," and says, " I am endowed with glory, I am
+endowed with strength, I am filled with might, and I am
+supplied with the books of Thoth, and I have brought them to
+enable me to pass through the god Aker, who dwelleth in Set.
+I have brought the palette and the ink-pot as being the objects
+which are in the hands of Thoth ; hidden is that which is in
+them ! Behold me in the character of a scribe ! 0 Heru-khuti,
+thou didst give me the command, and I have copied what is
+right and true, and I do bring it unto thee each day." In the
+vignette of the chapter we see the deceased seated with a palette
+and an ink-pot before him.
+
+In the Pyramid Texts there is evidence ^ that Thoth was
+connected with the western sky just as Horus was identified with
+the eastern sky, and this idea is amplified in an interesting fashion
+in the clxxvth Chapter of the Book of the Bead, where we find
+that the deceased addresses Thoth both as Thoth and as Temu, the
+setting sun, or god of the west. He is disturbed about that which
+" hath happened to the divine children of Nut," for " they have done
+" battle, they have upheld strife, they have done evil, they have
+" created the fiends, they have made slaughter, they have caused
+" trouble ; in truth, in all their doings the mighty have worked
+" against the weak .... And thou regardest not evil, nor art
+" thou provoked to anger when they bring their years to confusion
+" and throng in and push to disturb their months ; for in all that
+" they have done unto thee they have worked iniquity in secret."
+The deceased adds, " I am thy writing palette, 0 Thoth, and I
+" have brought unto thee thine ink-jar," and as he declares that
+he is not one of those who work iniquity in secret places, at the
+same time he clearly dissociates himself from those who do. These
+words are followed by a very remarkable passage in which the
+deceased, addressing Thoth under the name of Temu, asks the god
+what the place is into which he has come, and he says that it is
+without water, that " it hath not air, it is depth unfathomable, it
+" is black as the blackest night, and men wander helplessly therein.
+
+1 Brugscli, BeUgion, p. 451.
+
+
+412 THOTH
+
+" In it a man may not live in quietness of heart ; nor may the
+" longings of love be satisfied therein." A little further on in the
+Chapter he asks the lord Tern, i.e., Thoth, " How long have I to
+live ? " i.e., how long will my existence in this new world be ?
+and the god replies, " Thou art for millions of millions of years,
+
+
+^ . ^, . . It is a remarkable fact that it is not Osiris, the
+
+lord of life everlasting, but Temu-Thoth who promises the deceased
+this coveted gift.
+
+In the first part of the Chapter from which the above extracts
+have been made Thoth is, clearly, appealed to in his capacity of
+measurer and regulator of times and seasons, that is to say, as the
+
+Moon-god, who is commonly called Aah-Tehuti, n - o ft Q cs/F "^ ,
+
+or (1 fl I O i^5 " tlie great god, the lord of heaven, the king of
+
+the gods," and " the maker of eternity and creator of everlastingness." Under this form the god Thoth is depicted : — 1. As a
+mummy, standing upon the symbol of inaM / — i, and holding in
+his hands the emblems of " life," ■¥-, "stability," u, " sovereignty
+and dominion," ^ | , and the sceptre 1; on his head is the
+crescent moon, O, and by the side of his head he has the lock of
+figure with the crescent moon on his head, and the lock of hair
+symbolic of youth. The head, however, has two faces, Avhich are
+intended, presumably, to represent the periods of the waxing and
+the waning of the moon.^ In some scenes we have Aah-Tehuti
+represented in the form of a disk resting between the horns of the
+crescent moon, and placed upon a pedestal in a boat similar to
+placed over each end of the boat. In one interesting scene the
+god Aah-hetep is represented with the head of an ibis surmounted
+by the lunar disk and crescent seated in a boat, and a dog-headed
+ape stands before him and presents an utcliaf ; it is noteworthy
+that the curved end of the boat is notched like the notched palm
+branch which symbolizes "years," ^. In the narrowest sense
+
+1 For the figures see Lanzone, op. cit., pll, 36 ff.
+
+
+THOTH 413
+
+Aah-Tehuti symbolizes the new moon, and this is only natural,
+for, as is well known, all calculations made by the moon in the
+East from time immemorial have been based upon the first
+appearance of the new moon in the sky ; but, generally speaking,
+Thotli as the Moon-god represents the moon during the whole
+
+sun ; this fact is proved by an interesting scene reproduced by
+Signor Lanzone ^ from Brugsch, Monuments (Berlin, 1857). Here
+we see the god Thoth, ibis-headed, standing by the side of a lotus
+
+pillar which supports heaven, | , resting on heaven is a crescent,
+
+the pillar is a flight of fourteen steps, of unequal length, which are
+intended to represent the first fourteen days of the month, and at
+the foot of it stand fourteen gods,^ the first of these being Tem, who
+has his right foot resting on the first step, which is the shortest of
+the whole flight. The gods who stand behind him are : — Shu,
+Tefnut, Seb, Nut, Horus, Isis, Nephthys, Heru-em-het-Aa, Amseth,
+Hap, Tua-mut-f, Qebli-sennuf, and a god without a name.
+
+In a more extended sense the TJtcliat of Thoth represented the
+left eye of Ra, or the winter half of the year, when the heat of the
+sun was not so strong, nor its light so great, and when darkness
+remained in the skies for a longer period. This TJtcliat of Thoth,
+or of Thoth-Horus, as it should more correctly be called, is
+mentioned in the Pyramid Texts,^ where it is called the " Black
+Eye of Horus" ; thus of King Unas it is said, "Thou hast seized
+" the two Eyes of Horus, the White Eye and the Black Eye,
+" and thou hast carried them off and set them in front of thee and
+" they give light to thy face." ^ The White Eye here referred to
+
+1 Op. cit., pi. 39.
+
+2 The head and name of the fourth god are wanting.
+
+3 Unas, 1. 37 ; the reference given by Brugsch is, like many others in his
+Beligion, incorrect.
+
+
+I
+
+
+414 THOTH
+
+is, of course, the sun. Thus we see that Thoth not only brought
+the Eye of Rfi to the god, as we have already said, but that he also
+established the Eye of the Moon-god, who was indeed only a form
+of himself, and that Thoth was also in certain aspects identified
+
+
+and therefore with Khepera. One other attribute of Thoth
+remains to be noticed, i.e., that which is made known to us by
+the xcvth Chapter of the Booh of the Dead^ wherein the deceased
+says, " I am he who sendeth forth terror into the powers of rain
+" and thunder, .... I have made to flourish my knife along with
+" the knife which is in the hand of Thoth in the powers of rain and
+" thunder." The short composition in which this passage occurs is
+called the " Chapter of being nigh unto Thoth," and in the vignette
+the deceased is seen standing before Thoth with both hands raised
+in adoration.
+
+From the above facts it is quite clear that the Greeks were
+generally correct in the statements which they made about the
+wisdom and learning of Thoth, whom they identified with their
+own Hermes. They described him as the inventor of astronomy
+and astrology, the science of numbers and mathematics, geometry
+and land surveying, medicine and botany ; he was the first to
+found a system of theology, and to organize a settled government
+in the country ; he established the worship of the gods, and made
+rules concerning the times and nature of their sacrifices ; he
+composed the hymns and prayers which men addressed to them,
+and drew up liturgical works ; he invented figures, and the letters
+of the alphabet, and the arts of reading, writing, and oratory in all
+its branches ; and he was the author of every Avork on every
+branch of knowledge, both human and divine. According to
+Clemens Alexandrinus (Stromata, vi.) the " Books of Thoth " ^ were
+forty-two in number, and they were divided into six classes ;
+books i.-x. dealt with the laws, and the gods, and the education of
+
+1 On the Books of Thoth, see some interesting remarks by Brugsch in
+Beligion und Mythologie, pp. 448 S. ; this distinguished Egyptologist thought he
+had discovered the original hieroglyphic titles of many of these inscribed on the
+walls of the temple of Edfil.
+
+
+THOTH 415
+
+the priests ; books xi.-xx. treated of the services of the gods, i.e.,
+sacrifices, offerings, forms of worship, etc. ; books xxi.-xxx. related
+to the history of the world, geography, and hieroglyphics ; books
+xxxi.-xxxiv. formed treatises on astronomy and astrology ; books
+XXXV. and xxxvi. contained a collection of religious compositions ;
+and books xxxvii.-xlii. were devoted to medicine. An attempt was
+made some years ago to include the Booh of the Dead among the
+" Books of Thoth," but it is now quite certain that, although Thoth
+was declared to have written some of its Chapters, it must be regarded as an entirely separate work and as one which enjoyed a much
+greater reputation than they. How Thoth was able to perform all
+the various duties which were assigned to him by the ancients it is
+difficult to understand, until we remember that according to the
+Egyptian texts he was the heart, i.e., the mind, and reason, and
+understanding of the god Ra. The title given to him in some
+
+
+the Greeks derived their appellation of the god 6 rptcrju-eyicrTo?,
+or " ter maximus," has not yet been satisfactorily explained, and
+at present the exact meaning which the Egyptians assigned to it is
+unknown.^ It is, however, quite clear that Thoth held in their
+minds a position which was quite different from that of any other
+god, and that the attributes which they ascribed to him were
+unlike the greater number of those of any member of their
+companies of the gods. The character of Thoth is a lofty and a
+beautiful conception, and is, perhaps, the highest idea of deity ever
+fashioned in the Egyptian mind, which, as we have already seen,
+was somewhat prone to dwell on the material side of divine
+matters. Thoth, however, as the personification of the mind
+of God, and as the all-pervading, and governing, and directing
+power of heaven and of earth, forms a feature of the Egyptian
+religion which is as sublime as the belief in the resurrection of
+the dead in a spiritual body, and as the doctrine of everlasting
+life.
+
+1 A nnmber of valuable facts have been collected on the subject generally by
+Pietschmann, in his Hermes Trismegistus, nach aegyptisclien, griechischen unci
+orientalischen Ueherliefungen, 1875.
+
+
+416 MAAT
+
+
+Closely connected with Tlioth, so closely in fact that she may
+be regarded as the feminine counterpart of the god, is the goddess
+Maat, who stood with Thoth in the boat of Ra when the Sun-god
+rose above the waters of the primeval abyss of Nu for the first
+time. The type and symbol of this goddess is the ostrich feather,
+[S, which is always seen fastened to her head-dress, and is sometimes seen in her hand. She is represented in the form of a woman
+seated, or standing, "S, and she holds the sceptre, I, in one hand,
+and ■?-, the emblem of "life," in the other; in many pictures of
+her she is provided with a pair of wings which are attached one to
+each arm, and in a few cases she has the body of a woman with an
+ostrich feather for a head.
+
+The reason for the association of the ostrich feather with Maat
+is unknown, as is also the primitive conception which underlies the
+name, but it is certainly very ancient, and probably dates from
+predynastic times. The hieroglyphic ^=^, which also has the
+phonetic value of Maat, is described by some as a " cubit," i.e., the
+measure of a cubit, and by others as a " flute," which would,
+presumably, be made of a reed. We see, however, that the god
+Ptah usually stands upon a pedestal made in the shape of ^=i, and
+that figures of the god Osiris stand upon pedestals of similar form,
+and as we have no reason for supposing that the figures of these
+two gods were placed upon flutes it is tolerably certain that -c=i
+must mean something else besides flute. We know that Ptah of
+Memphis was the god of artificers in general and of workers in
+metal and of sculptors in particular ; it is far more likely that the
+form of his pedestal, /=j, was intended to represent some tool
+which was used by sculptors and carvers, e.g., a chisel, or the
+identification of the object as a " cubit " may be correct if it
+means that it Avas some instrument used for measuring purposes.
+no difiiculty, for from many passages in texts of all periods we
+
+
+CONCEPTIONS OF MAAT 417
+
+learn that it indicated primarily " that which is straight," and it
+was probably the name which was given to the instrument by
+which the work of the handicraftsman of every kind was kept
+straight ; as far as we can see the same ideas which were attached
+to the Greek word KavMv (which first of all seems to have meant
+any straight rod used to keep things straight, then a rule used by
+masons, and finally, metaphorically, a rule, or law, or canon, by
+which the lives of men and their actions were kept straight and
+governed) belong to the Egyptian word mactt. The Egyptians
+used the word in a physical and a moral sense, and thus it came to
+mean " right, true, truth, real, genuine, upright, righteous, just,
+steadfast, unalterable," etc.; hheshet macit is "real lapis-lazuli " as
+opposed to blue paste ; shes madt means " ceaselessly and regularly,"
+em un madt indicates that a thing is really so, the man who is
+good, and honest is madt, the truth {madt) is great and mighty,
+and " it hath never been broken since the time of Osiris " ; finally,
+the exact equivalent of the English words " God will judge the
+right " is found in the Egyptian pa neter dpu pa madt,
+
+
+1
+
+The goddess Maat was, then, the personification of physical
+and moral law, and order and truth. In connexion with the Sungod Ra she indicated the regularity with which he rose and set in
+the sky, and the course which he followed daily from east to west.
+Thus in a hymn to Ra we read, " The land of Manu (i.e., the West)
+" receiveth thee with satisfaction, and the goddess Maat embraceth
+" thee both at morn and at eve;" " the god Thoth and the goddess
+" Maat have written down thy daily course for thee every day ; "
+" may I see Horus acting as steersman [in the boat of Ra] with
+'' Thoth and Maat, one on each side of him." ^ In another hymn
+Qenna says, " I have come to thee, 0 Lord of the gods, Temu-
+" Heru-khuti, whom Maat directeth ; " Amen-Ra is said to " rest
+upon Maat," i.e., to subsist by Maat; Ra is declared to "live by
+Maat ; " Osiris " carries along the earth in his train by Maat in his
+name of Seker." In her capacity of regulator of the path of the
+
+1 Papyrus of Ani, slieet 1.
+E e
+
+
+418 HALL OF MAAT
+
+Sun-god Maat is said to be the " daughter of Rii," and the '' eye of
+Ra," and " lady of heaven, queen of the earth, and mistress of the
+Underworld," and she was, of course, " the lady of the gods and
+goddesses." As a moral power Maat was the greatest of the
+
+goddesses, and in her dual form of Maati, f)f) J| Jj, i.e., the Maat
+
+goddess of the South and the North, she was the lady of the
+Judgment Hall, and she became the personification of justice,
+who awarded to every man his due ; judging by some vignettes
+which represent the weighing of the heart she took at times the
+form of the Balance itself. The hall in which Maat sat in double
+form to hear the " confession " of the dead is often depicted in
+connection with the cxxvth Chapter of the Book of the Dead,
+and we see that it was spacious, and that the cornice thereof
+was formed of uraei and of feathers symbolic of Maat. In the
+centre of it is a god with both hands stretched out over a
+lake, and at each end of the hall is seated an ape before a pair
+of scales.
+
+Anubis was the guardian of the door at the end by
+which the deceased entered, and which was called Khersek-Shu,
+
+
+These names had to be learnt and uttered by the deceased before
+he was allowed to enter the Hall of the Maati goddesses, ^ 1 ^
+
+Hall he found assembled there the Forty-two Assessors or Judges
+drawn up in two rows, each of which contained twenty-one Judges,
+one on each side of the length of the Hall. Before each of these
+he was obliged to make a solemn declaration that he had not
+committed a certain sin ; these forty-two denials are commonly
+known as the "Neo:ative Confession." ^ The names of the Assessors
+
+
+1 An English translation Avill be found in my Chapters of Coming Forth by
+Lay, p. 193 fe.
+
+
+ASSESSORS
+
+according to the Papyrus of Neb
+30) are as follows : —
+
+
+OF MAAT 419
+
+seni (Brit. Mus., No. 9,900, sheet
+
+
+1. Usekht-nemmat,
+
+2. Hept-shet, |°r
+
+3. Fenti, ^()()^.
+
+4. Am - khaibetu, -
+
+5. Neha-hau, ^
+
+6. Rerti,
+
+7. Maati-f-em-tes
+
+
+X
+
+
+nrrni
+
+
+W
+
+
+9. Set-kesu,
+10. Uatch-nes,
+
+
+A
+
+
+I .
+
+
+11. Qerti,
+
+
+I I I
+
+
+12. Hetch-abehu, ^-f^ o
+
+13. Am-senf, -[]- ^ ^ '
+
+
+15. Neb-Maat, -w^ ^ =) fi ;
+
+
+JP
+
+
+19. Uamemti,-^'^
+
+
+20. Maa-an-f,
+
+
+I
+
+
+H eri-seru,
+Khemi, ®
+
+
+/VVVVVN
+
+Nekhen, 0
+Ser-khera,
+Basti, ^l^.
+Hra-f-lia-f, j'
+Ta-ret, (=,
+Kenemti,
+
+
+An-hetep-f, A
+Neb-hrau, ^37-
+Serekhi, "^
+Ahi-mu (?), q I l]n "^
+ITtu - rekhit, { ^ | *
+
+
+AWSAA
+
+
+Neheb - nefert, Ik | J
+
+
+X
+
+
+Tcheser-tep,
+
+
+I
+
+
+An-a-f,
+
+
+1
+
+
+420 ASSESSORS OF MAAT
+
+Even when the deceased had satisfied the Forty-two Assessors
+he could not pass out of the Hall of Maati unless he knew the
+magical names of the various parts of the door which opened into
+the reo;ions of the blessed. In the address which he makes to the
+gods collectively, and which is usually considered to have been
+made after the Negative Confession, he summarizes his good deeds,
+and declares to the god Osiris, whom he calls the " lord of the
+Atef crown," that he has done Madt, and purified himself with
+Madt, and that none of his members lack Madt. He tells how he
+has been to the " Field of the Grassho]Dpers," and how he has
+bathed in the pool wherein the sailors of Ra bathe, and describes
+all the things which he has done, including the finding of a sceptre
+of flint in the " furrow of Maat." Finally, having satisfied all the
+various jDarts of the door by declaring to them their magical names,
+
+
+as guardian of the Hall of Maati, and who refuses to allow him to
+pass unless he tells his name. The deceased says, " Thy name is
+
+to be admitted, but the god is not satisfied, and asks him, " Who is
+the god that dwelleth in his hour ? " In reply the deceased utters
+the name Mau-taui, whereupon he is at once asked by the god,
+" And who is this ? " and in answer the deceased says, " Mau-taui is
+Thoth." On this Thoth asks the reason of his coming to the Hall,
+and when the deceased has told him that he has come because he
+wished his name to be written down by him, Thoth questions him
+further as to the fitness of his condition and as to the identity of
+the being " whose heaven is of fire, Avhose walls are living uraei,
+^' and the floor of whose house is a stream of water." In answer to
+these questions he says that he is "purified from evil things," and
+that the being whose house is described is Osiris, whereupon Thoth
+calls upon him to enter, saying that his name shall be " mentioned "
+or recorded.
+
+Thus we see. how closely the attributes of Maat merge into
+those of Thoth, and how the fate of the deceased depends ultimately
+upon these deities. It was not, however, sufi^icient for him to pass
+the Assessors, for beyond them stood Thoth with his final, search-
+
+
+NEHEMAUAIT 421
+
+ing questions ; Thotli spake the word which caused the universe to
+come into being, and it was he who had the power to utter the
+name of the deceased in such a way that his new spiritual body
+would straightway come into being in the realm of Osiris. Thoth
+in one respect was greater than Ra, and in another he was greater
+than Osiris, but both from a physical and a moral point of view he
+was connected inseparably with the Maat, which Avas the highest
+conception of physical and moral law and order known to the
+Egyptians.
+
+The goddess Nehemauait ^ ^ -^ j LJU ^ ^•
+
+Now besides Maat or the Maati goddesses we find that there
+were other goddesses who were associated with Thoth in different
+parts of Egypt, and among these is Nehemauait, who is described
+
+
+and mighty lady in Khemennu " (Hermopolis),^ and the " mistress of
+
+and " the dweller in Dendera," w=^ A ® . Thus we see that she
+
+was the goddess of the great temple in the city of Thoth, i.e.,
+Hermopolis, and that she had a shrine in Dendera, and in the
+metropolis of the fifteenth nome of Lower Egypt, which is here
+mentioned under its civil name " Bahut " ; the sacred name of
+
+" Temple of Thoth, the judge between the Behui (Hdrus and Set)."
+The texts described her as the " daughter of Ra," and the manner
+in which she is depicted proves that she was regarded as a form of
+the goddess Hathor. In the examples given by Signor Lanzone ^
+she has the form of a woman, and she wears upon her head either
+
+the sistrum, i , or a disk resting between a pair of horns ; in one
+picture a papyrus sceptre, I, rests on the palm of her right hand,
+and a figure of Maat, ^ , on that of her left. A very interesting
+
+
+Dizionario, pi. 174; and see Bragscli, Beligion, p. 471.
+
+
+422 NEHEMAUAIT— MEHURT
+
+sketch also given by Signer Lanzone shows that her emblem was a
+Hathor-headed standard, on the top of which was a sistrum ; on
+
+each side of the sistrum is a uraeus with a disk on its head, p ,
+
+and from each side of the face of the goddess hang two similar
+uraei. The standard is held up in a vertical position by two men
+who stand one on each side. Plutarch, as Brugsch has noted, says
+that Typhon Avas driven away by a sistrum, which seems to
+iudicate that the rattling of the Avires produced a sound that had a
+terrifying effect upon that evil beast ; ladies of high rank and
+priestesses are often depicted with sistra in their hands, and
+though this fact is usually explained by assuming that those who
+hold sistra assisted in the musical parts of the services in the
+temples, it is very probable that they carried them both as amulets
+and as musical instruments. Dr. Brugsch quotes two passages
+from texts in which a royal personage declares that demoniacal
+powers are kept away from him by means of the sistrum which he
+holds in his hand. N^ehemauait is not mentioned in the Booh of
+the Dead, and it seems that she is not an ancient deity ; she is
+probably a comparatively modern form of some well known older
+goddess.
+
+From the texts of the late dynastic period we find that she
+was identified with Meh-urt ^ and with the goddess whose name
+
+
+(=r) "^w-^i P^ , is mentioned but rarely in the Booh of the Dead
+
+(xvii. 76, 79; Ixxi. 13; cxxiv. 17), but the passage in the
+xviith Chapter tells us exactly who she is. The deceased says
+there, " I behold Ra who was born yesterday from the buttocks of
+" the goddess Meh-urt," and as answer to the question, " What
+"then is this?" we have the words, "It is the watery abyss of
+" heaven, or (as others say), It is the image of the Eye of Ra in
+" the morning at his daily birth. Meh-urt is the Eye (Utchat) of
+" Ra." Meh-urt was originally a female personification of the
+watery matter which formed the substance of the world, and her
+name, which means " mighty fulness," indicates that she was the
+
+1 The Methyer (Mc^ucp) of Plutarch.
+
+
+NEHEIMAUAIT— MEHURT 423
+
+abundant and unfailing source of the matter of every kind which
+was fecundated by the male germs of life of every kind ; she was,
+in fact, a form of the primeval female creative principle, and in
+some aspects was identified with Isis and Hathor. She, of course,
+is a later conception than Nut, or Nit (Neith), of both of whom she
+was also a form. In one of the representations of the goddess
+figured by Signor Lanzone ^ she is depicted in the form of a
+pregnant woman with full, protruding breasts, emblem of fertility,
+but she usually appears as the great cow of the sky, either in the
+form which is illustrated on p. 368, or in that given in the accompanying plate. Sometimes she has the body of a woman and the
+head of a cow, and then she holds in her right hand a sceptre
+round which is twined the stalk of a lotus flower which she appears
+to be smelling ; the flower itself is between ^ , the symbols of the
+South and the North, and is supposed to represent the great world
+lotus flower, out of Avhich rose the sun for the first time at the
+Creation. The usual titles of the goddess are "lady of heaven,
+" mistress of all the gods, mistress of the two lands," but she is also
+said to have " existed from the beginning," and to have helped
+Thoth to create the first things which appeared in Khemennu or
+Hermopolis. In primitive times the " weighing of words," i.e., the
+examination and judgment of the dead, was believed to take place in
+the Hall of Meh-urt, which seems to prove that in very early times
+the attributes of Maat were ascribed to the great goddess, whose
+form was the cow, and that the souls of the dead were thought to
+be judged in the sky. The first conception of the Judgment was
+probably physical, and it was not until the period when the cult of
+Osiris became predominant that it assumed the character with
+which we are familiar from the Book of the Dead. It would seem
+that in the very ancient times it was the body and not the soul
+that was the subject of examination by the celestial powers, and
+this is what is to be expected in predynastic times when the
+theory of the resurrection then current demanded a renewed or
+revivified physical body.
+
+Closely associated with Thoth in the performance of certain of
+
+1 Op. cit., pi. 131 fe.
+
+
+424 THOTH AND SEFKHET-AABUT
+
+his duties as the god of letters and learning, was the goddess
+XXX J); the reading "Sesheta" has also been proposed for
+the hieroglyphic sign, ^, which forms the symbol of this goddess,
+but both readings are merely guesses, for the phonetic value of the
+sign has not yet been ascertained, and even the sign itself has not
+been identified. All that is certain about it is that in some
+pictures of the goddess the sign seems to be compounded of a pair
+of horns inverted over a seven-rayed star, or flower with seven
+petals, supported on a standard. Dr. Brugsch believed that
+Sefkhet-aabut was the correct reading of the name, and that it
+either meant, " she who has inverted her horns," or, " she who is
+provided with seven horns," the latter meaning being suggested by
+the similarity of the first part of the name Sefkhet with the ordinary
+word for " seven." From the pictures of the goddess and the titles
+which accompany them it is quite certain what her functions
+were. We see her wearing her characteristic symbols on her
+head, with a close-fitting panther skin garment upon her body,
+and in her hands she holds a scribe's palette and writing reed ;
+in this form she is called " the great one, the lady of the house of
+
+books," . . Thus she was a goddess of literature
+
+and the library.
+
+Elsewhere we see her without her panther skin garment,
+holding a writing reed in the right hand, and the cartouche czz),
+
+symbolic of " name " in her left ; in this form she suggests the
+idea of being a kind of recording angel, not so much of the deeds
+committed by man, but of their names, of which she, presumably,
+took note, that her associate Thoth might declare them before
+Osiris. In the title which accompanies this picture she is called
+" great one, lady of letters, mistress of the house of books,"
+
+
+palm branch in her hand, and she appears to be counting the
+notches ; the lower end of the branch rests on the back of a frog,
+
+1 For all these pictures see Lanzone, op. cit., pi. 340.
+
+
+SEFKHET-AABUT 425
+
+seated upon Q, the emblem of "eternity," and from the upper
+end hangs the symbol of the double Set festival, L|| J . Thus she
+
+appears in the character of the chronographer and chronologist ;
+the use of the notched palm-branch as a symbol of the counting of
+years takes us back to a custom which was probably prevalent in
+predynastic times. In yet another scene we find the goddess
+standing before a column of hieroglyphics meaning "life," and
+"power," and "thirty-year festivals," which rest upon a seated
+figure who holds in each hand •¥-, "life," and who typifies
+" millions of years." In connection with this must be noted a
+passage in a text in which she declares to a king that she has
+inscribed on her register on his behalf a period of life which shall be
+" hundreds of thousands of thirty-year periods," and has ordained
+that his years shall be upon the earth like the years of Ra, i.e., that
+he shall live for ever. In the Booh of the Dead (Ivii. 6) the deceased
+says, " My mouth and my nostrils are opened in Tattu, and I have
+" my place of peace in Annu, wherein is my house ; it was built
+" for me by the goddess Sefekh-aabut (or Sesheta), and the god
+" Khnemu set it up for me upon its walls." And again he says
+(clii. 3), " The goddess Sefekh-aabut hath brought the god ISTebt,
+" and Anpu (Anubis) hath called unto the Osiris Nu (i.e., to me)
+" to build a house on the earth. Its foundation is in Kher-aha,
+" its shrine is the god Sekhem, who dwelleth in Sekhem, according
+" to that which I have written the renewal thereof, and men and
+" women bring ofi'erings, and libations, and ministrants. And
+" Osiris saith unto all the gods who are in his train, and who
+" journey [with him], ' Behold ye the house which hath been built
+" ' for a spirit who is well-equipped, and who cometh daily to
+" ' renew himself among you.' " In the clxixth Chapter (line 18)
+the goddess is said to be seated before the deceased, and the
+goddess Sa protects his members.
+
+These passages show that Sefekh-aabut was supposed to be
+
+the "goddess of construction," Vm^ and she would thus be a
+
+suitable counterpart of Thoth, and one fitted to carry out his
+commands concerning the Creation. It is, however, certain from
+many passages that her chief duties were connected with the writing
+
+
+426 THOTH AND UNNUT
+
+of history, and happy was the king who was fortunate enough to
+have his deeds recorded by the fingers of the goddess herself, and
+his abode in the next world built on the plan which she drew up
+in accordance with her attributes as the inventor of letters, the
+lady of the builder's measure, and the founder of architecture.^
+In a text quoted by Brugsch she declares to Seti that her words
+concerning him shall never be gainsaid, that her hand shall set
+down in writing his fame after the manner of her brother Thoth,
+and all according to the decree of Tem. She was identified with
+the goddess Renenet, /vwwv ^ H, , and with Isis, and at Dendera she
+is called the '' daughter of Nut ; " at Lycopolis she was regarded
+as the sister of Osiris, and the mother of Heru-nub, "^ , or the
+" Horus of gold."
+
+Yet another goddess must be mentioned in connection with
+the hours, who is depicted in the form of a woman with a star upon
+her head. The former goddess has, on the other hand, the body
+of a woman with the head of a hare, and she usually holds in each
+and •¥-, "life," in the other. One aspect of her, i.e., that of the
+goddess who destroys with her knives, was identified with Sekhet,
+Y T)r^, and in this form she was the deity of the city Menhet,
+
+ft g^ . From a passage in the cxxxviith Chapter of the Booh
+
+of the Dead we may gain some idea of the antiquity of the goddess
+Unnut, for towards the end of the rubric (line 38) it is said that
+the Chapter was found in the handwriting of the god Thoth
+
+
+•^"O V®' ^y Heru-tata-f, the son of Khufu, i.e., Cheops, a
+king of the IVth Dynasty. Thus it is clear that even in that
+remote period a temple in honour of the goddess existed at
+Unnu, i.e., Hermopolis, or the city of Thoth. Unnu, as we know,
+was the chief city of the nome Un, the chief local god of which
+
+1 See Brugsch, Eeligion, p. 474. " See Lanzone, op. cit., pi. 52.
+
+
+AP-REHUI 427
+
+was depicted in the form of a hare, ;^ , and Unnut is the female
+counterpart of the god Unnu, and was the old local goddess of the
+metropolis of the nome.
+
+In the vignette of the cxth Chapter of the Boole of the Dead
+(Papyrus of Ani, pi. 35) we see the deceased standing with hands
+raised in adoration before three seated deities, the first having the
+head of a hare, the second that of a snake, and the third that of a
+bull ; behind him stands the god Thoth with palette and reed, but
+whether he is in any ^vay connected with the three gods cannot be
+said. A hare-headed god is also seen as one of the group of
+three gods who preside over one of the Arits in the Underworld ;
+according to the Papyrus of Ani it is the first Arit, and according
+to the Papyrus of Nu it is the second. At Dendera a hareheaded god is seen wrapped in mummy swathings, with his hands
+in such a position that they suggest his identification with Osiris,
+and an attempt has been made ^ to show in connexion with this
+representation that the hare -headed god Avas called Un, that this
+name appears in the compound name "Un-nefer," the well-known
+title of Osiris, that the hare-god Un was only another form of
+Osiris, and that the name Un was applied to Osiris because he
+"sprang up," like the hare, which, as the rising sun, is said to be
+the " springer." According to this view the goddess Unnut would
+be a female form of the hare-god Un or Unnu, but Brugsch's
+opinion which makes her to be the goddess of the city of Unnu, or
+Hermopolis, is more correct, especially when we remember that
+the cities An, and Apt, and Behutet, etc., possessed goddesses of
+the city which Avere called Anit, and Apit, and Behutit. We have
+already seen that the goddess Maat had two forms, i.e., Maat of
+the South and Maat of the North, and similarly we find that
+Unnut had two forms, one of which belonged to Hermopolis of the
+Unnu me/it of the text, i.e., Hermopolis Parva, wherein Thoth
+together with his female counterpart Nehemauait.^
+
+1 See Renouf in Trans. Soc. Bill. Arch., vol. ix., pp. 281-294.
+
+2 Brugsch, Beligion, p. 477 ; de Eouge, GeograpJiie, pp. 30, 102.
+
+
+CHAPTER XIV
+
+
+HATHOR, []-^"|, HET-HERT, AND THE
+HATHOR, GODDESSES
+
+
+T
+
+
+"^HE goddess Hathor is one of the oldest known deities of
+Egypt, and it is certain that, under the form of a cow,
+she was worshipped in the early part of the archaic period,
+because a flint model of the head and horns of the cow, which was
+her type and symbol, has been found among the early archaic, or
+late predynastic flints in Egypt/ The forms in which the goddess
+is depicted are numerous, but this is not to be wondered at,
+because during the course of the dynastic period she was
+identified with every important local goddess, and all their
+attributes, of whatever class and kind, were ascribed to her.
+The oldest form of all is probably that of the cow, and this was
+preserved, though chiefly in funeral scenes and in the Book of
+the Dead, until the beginning of the Roman period. Het-Hert,
+
+n (=^ i)) the name of the goddess, means the " House above,"
+
+i.e., the region of the sky or heaven, and another form of it, ^1,
+
+which is to be read Het-Heru, and which means " House of
+Horus," shows that she was a personification of the house in which
+Horus the Sun-god dwelt, and that she represented the portion of
+the sky through which the course of the god lay. In the earliest
+times Hathor, the 'AOcop of the Greek writers, t3q3ified only that
+portion of the sky in which Horus, the oldest form of the Sungod, had been conceived and brought forth, and her domain was in
+the east of the sky ; but at length she came to represent the whole
+
+1 This is preserved in the British Museum, No. 32,124.
+
+
+HATHOR 429
+
+
+sky, and in so doing, she, no doubt, absorbed many of the attributes
+of predynastic goddesses. In the text of Pepi I. (line 593) it is
+said, " Every god will take the hand of Ra-meri in heaven, and
+
+" they will conduct him to Het-Heru ( ^ ^) , which is in the
+
+
+^' to make his voice (or word) take effect upon Seb." From this
+passage it seems as if the House of Horus was only one special part
+of the great watery mass of heaven which is generally known by
+the name of " Qebh."
+
+At the time when the Egyptians first formulated their
+theogony Hathor was certainly a cosmic goddess, and was
+associated with the Sun-god Ra, of whom she was the principal
+female counterpart. In the theological system of the priests of
+Heliopolis she became, as Brugsch says,^ the " mother of the light,"
+the birth of which was the first act of creation ; her next creative
+act was to produce Shu and Tefnut, that is to say, certain aspects
+of these gods, for according to a very old tradition Temu was
+their begetter and producer. Of the various forms in which Hathor
+is depicted may be mentioned the following ^ : — As the " chieftainess," "f* ^ , of Thebes and the mistress of Amentet she is usually
+
+represented in the form of a woman who wears upon her head a
+pair of horns within which rests the solar disk ; as the lady of
+Hetepet, ^ © , she wears the vulture tiara, with a uraeus in
+
+front and five uraei on the top of it ; as the lady of Senemet,
+she wears a disk between horns ; as the great goddess of Dendera,
+I , she appears in the form of a lioness, with a uraeus on her
+
+and X°/ , and ^ , and [1] , and she usually carries a sceptre, 1 oi' I ?
+
+1 Beligion, p. 312. 2 Lanzone, op. cit., pi. 314 fE.
+
+
+430 HATHOR
+
+in one hand, and ''life," ■¥-, in the other; as the lady of the
+" southern sycamore," /| X , she has the head of a cow ; as
+
+turquoise [land], i.e., the Sinaitic Peninsula, called " Mafek,"
+
+and in another form she wears the vulture head-dress surmounted
+by a tiara formed of uraei, and above these is a pylon set among a
+mass of lotus flowers and buds. As the " lady of the Holy Land,"
+
+i.e., the Underworld, and Amentet, If ^ "^j she appears in the form
+of a cow Avalking out from the funeral mountain, and she is sometimes reiDresented in the form of a cow standing in a boat sur-
+rounded by papyrus plants which are growing up to a considerable
+height above her body. As the cow-goddess of the Underworld,
+however, she wears a long, pendent collar, and on the back of her
+neck is the Mendt, (w , an emblem of joy and pleasure. On her
+back also is a kind of saddle-cloth with a linear design, and the
+whole of her body is sometimes marked with crosses, which are
+probably intended to represent stars. Two other interesting forms
+of the goddess which are illustrated by Signor Lanzone ^ represent
+her holding in her hand the notched palm branch, which is usually
+the characteristic of the goddess Sefekh-aabut, who acted as
+assistant chronographer and chronologist to the god Thoth, and
+from this point of view Hathor must be regarded as a female
+counterpart of Thoth. Finally, she is represented as a sphinx,
+wearing on her head the vulture head-dress, with uraeus and disk ;
+the side of her body is made to resemble a part of a mendt, and she
+rests upon a pylon. The titles which accompany this last form call
+her " lady of Hetep, the eye of Ra, dweller in his disk, lady of
+
+
+" heaven, mistress of all the gods," fcj
+
+
+We have already seen that the Avorship of Horus was universal
+in Egypt, probably from the earliest period, and that in dynastic
+times shrines which were specially consecrated to his worship were
+
+1 Op. cit., pi. 325 &.
+
+
+HATHOR 431
+
+common throughout the country ; the texts prove that the worship
+of Hathor was also universal, and that her shrines were even more
+numerous than those of Horus. She was, in fact, the great mother
+of the world, and the old, cosmic Hathor was the personification of
+the great power of nature which was perpetually conceiving, and
+creating, and bringing forth, and rearing, and maintaining all
+things, both great and small. She was the " mother of her father,
+" and the daughter of her son," and heaven, earth, and the Underworld were under her rule, and she was the mother of every god
+and every goddess. In all the important shrines of the local
+goddesses she was honoured with them, and she always became the
+chief female counterpart of the head of the com23any or triad in
+which she had been allowed to enter as a guest. A clear proof of
+this fact is given in the list compiled by the late Dr. Brugsch, which
+showed the various names and forms she took in all the large
+cities in Upper and Lower Egypt, and from this we see that she
+was identified with Satet, jT Jj , and Anqet, a^/wvs ^ D ^ in
+
+with Behutet, j I y) ^ J , in Apollinopolis Magna ; with
+
+
+Eileithyiaspolis ; with Rat-tauit, ^3 "' ^ Jj , and Thenenet,
+
+
+Parva; with Isis, fj^J? and Anit, [iflfl^J? in Coptos ; Avith
+Sefkhet - AABUT, in Diospolis Parva ; with Mehit - Teenut -
+
+
+Panopolis ; with Heqet and Anthat, ^ l () "^ Pn ? i^ Aphrodi-
+Hypselis ; with Maat and Isis in Hierakonpolis ; with Mut and
+
+
+432 HATHOR
+
+Sefkhet-aabut in Lycopolis ; with Sekhet and Maat in Cusae ;
+and Meh-urt, =^|^)^, in Hermopolis ; Avith Heqet and
+in Alabastronpolis ; with Hathor of Ox3^rinchus ; with Anthat and
+Mersekhent •■ — r R ^ ^ji_ ^ , in Herakleopolis Magna; with Renpit,
+■T J) , in Crocodilopolis ; with Khersekhet in Ptolemais ; with Isis
+and Tep-ahet in Aphroditopolis ; with Bast, ^ ^ ^ ? Sekhet, and
+
+XoU ; with Isis in Canopus ; with Uatchet in Buto ; with Tefnut
+dauo-hter of Ra, ft n "^ ^ , and Tefnut, in the form of a lion,
+
+
+and Repit, '^ (]!] ^ 5; with Khent-Abtet, ^ | ^, in Sele (?) ;
+with Nehemauait, Tefnut, and Isis in Hermopolis; with Hat-
+MEHiT, ^=^ QQ "^J? in Mendes; with Mut, Tefnut, and Khentand Khekhsit, ®® flfl ^ "iXi, in the nome of Sept. It is, then,
+quite certain that in late dynastic times, at least, Hathor became
+the representative of all the great goddesses in Egypt, and that
+shrines in her honour were built in most great cities there. In
+his valuable Dizionario di Mitologia Egizia (p. 875), Signor
+
+
+THE SEVEN HATHORS 433
+
+Lanzone has collected the names of a number of cities which
+contained shrines of Hathor, hut the enumeration of them all ^
+here would serve no useful purpose, because the identifications
+of the goddess described above are sufficient to indicate the
+universality of her worship.
+
+A little consideration of the texts shows us that it was quite
+impossible for any worshipper of Hathor, however devout, to
+enumerate all the forms of the goddess which existed, and also
+that some of them were considered of greater importance than the
+others ; as a result we find that at a comparatively early period a
+selection of the Hathors was made, and that it usually contained
+seven. The Seven Hathors who were worshipped at Dendera
+
+were: — 1. Hathor of Thebes, T ^. 2. Hathor of Heliopolis, f| £.
+3. Hathor of Aphroditopolis, ® "i^-^ ^ . 4. Hathor of the Sinaitic
+(M(l(v). 6. Hathor of Herakleopolis, I^""^. 7. Hathor of
+handsome women arrayed in close-fitting tunics, and wearing
+
+^ The f ollowiBg selection may, however, be of interest : — Arit, [I [1 ^
+
+Khakhat (?), '^ '^ "^ '^ 2 , She-Tesher, ™ ^, Kepemit (in Syria),
+
+Sennnt, 1112-
+
+2 Brngsch, Mytlwlogische Inschriften, Leipzig, 1884, p. 801 ff.
+E f
+
+
+434 THE SEVEN HATHORS
+
+vulture head-dresses surmounted by X^ ? and holding tambourines
+in their hands. In the " Tale of the Two Brothers " ^ we find the
+Seven Hathors acting the part of prophetic fairies, for in that
+entertaining narrative they are made to come and look upon the
+wife whom Khnemu had fashioned for the younger brother Bata,
+and who " was more beautiful in her person than any other woman
+" in all the earth, for every god was contained in her ; " but when
+they had looked upon her, they said with one voice, " Her death
+will be caused by the knife." Unfortunately we do not know the
+
+represented. The Seven Hathors mentioned by Mariette ^ com-
+(Byblos), and Het-seshesh, f (Diospolis Parva) ; thus it is clear
+
+
+that the company of the Seven Hathors did not always include the
+same forms of the goddess. In the Litanies of Seker ^ we have also
+a " Litany of the Hathors," wherein are mentioned the Hathors
+of:— 1. Tep-ahet. 2. Mafek and Thebes. 3. Thebes. 4. Nebthetep. 5. Suten-henen. 6. Memphis. 7. She-Tesher ; here, then,
+is a different group of Seven Hathors. In the six lines of text
+which follow, Hathor is identified with the goddesses : — 1. Bast.
+2. Sati. 3. Uatchet. 4. Sekhet. 5. Lady of Ammu. 6. Nit
+(Neith) ; and after this we have addresses to the Hathors of
+Thebes, Suten-henen, Tep-ahet, Nehau, Rehsau, Shet-Teshert,
+Mafek, Aneb, Uaua, Ammu, Amem, and Hathor, lady of the " City
+If we had full information on the subject we should probably find
+that each great city possessed its own selection of Hathors, and
+that the forms of the goddess whose names were inscribed on
+funeral papyri were only those which were popular with those who
+caused such documents to be made.
+
+1 Page ix., 1. 8. (Bii'cli, Select Papyri.')
+
+- See Denderah, torn. 1, pi. 27 ; Brugscli, Diet. Gcog., p. 972.
+
+3 See my paper in Archaeolo(jia, vol. Hi. (Papyrus of Nesi-Amsu).
+
+
+HATHOR-APHRODITE 435
+
+The Greeks identified Hathor with their goddess Aphrodite,
+and there are many passages in the Egyptian texts which show
+that they were justified in doing so. She represented not only
+what was true, but what was good, and all that is best in woman
+as wife, mother, and daughter ; she was also the patron goddess of
+all singers, dancers, and merry-makers of every kind, of beautiful
+women, and of love, of artists and artistic works, and also of the
+vine and wine, and ale and beer, and, in fact, of joy and happiness,
+and of everything which contributed thereto. She was identified
+astronomically with the star Sept, 1 A ^ , or Sothis, which was
+called the " second sun " in heaven, she was thereby connected
+with the rise of the Nile preparatory to the Inundation, and she
+appeared in the form of this star in the heavens in the neighbourhood of the sun in the second half of July. Sothis rose heliacally
+on the first day of the Egyptian New Year, and when the Sun-god
+Ra had entered his boat, Hathor, the goddess of the star Sothis, went
+with him and took up her place like a crown upon his forehead.^
+She was, as we have seen, both the wife of Ra, and the daughter of
+Ra ; she herself was brought forth by the goddess Nut in the form
+of a black-skinned, ^)'- i "^ , or blackish-red skinned child and
+received as her name that of the last hour of the day, KhDcmet-
+Underworld, played a very prominent part in connection with the
+welfare of the dead, for without her friendly help and protection
+the deceased could never attain to everlastino- life.
+
+o
+
+The position which Hathor held among the gods of the
+Underworld is well illustrated by the following passages from the
+Book of the Dead. In his hymn to Ra the deceased ofiEicer Nekht
+says, " 0 thou beautiful being, thou dost renew thyself in thy
+" season in the form of the Disk within thy mother Hathor," with
+which words he refers to the goddess as a nature power. In the
+Judgment Scene we find that she is one of the company of the
+gods who watch the " weighing of words," and who afterwards
+decree joy and felicity for the heart which has been weighed and
+
+1 Brugsch, Beligion, p. 318 ; Lanzone, op. cit., p. 865.
+
+3 Brugscli, MythologiscJie Inschrtften, p. 844 (Twelfth. Hour of the Day).
+
+
+436 HATHOR OF THE DEAD
+
+found just. When the deceased is face to face with the monster
+Apep, Hathor is one of the group of gods consisting of Netcheb-
+Khepera, who encourage the deceased to do battle with him, and
+she cries out to the deceased, " Take your armour ; " but she, like
+the deceased, is in terror of Apep and " she quaketh " thereat
+(xxxix. 22). In the Chapter (xlii.) which describes the deification
+of the members of the deceased, she becomes his two eyes, and he
+declares, '' My eyes are the eyes of Hathor." Now Hathor was,
+according to one myth, the star Sothis, A ^ , Sept, and she took
+
+up her place in the face of Horus or Ra as his right eye ; another
+myth which made her the night sky also made her the moon
+therein ; hence the eyes of Hathor are the sun and moon, and the
+deceased regards these as his own eyes in the text. In other
+Chapters (lii., Ixiii.A, Ixviii.), she appears as the goddess who
+provides the deceased with meat and drink, and thus we find the
+following : — " Let me eat my food under the sycamore tree of my
+" lady Hathor, and let my times be among the divine beings who
+" have alighted thereon ; " and again, " In a clean place I shall sit
+" on the ground beneath the foliage of the date palm of the goddess
+" Hathor, who dwelleth in the spacious Disk as it advanceth to
+" Annu, having the books of the divine words of the writings of
+"the god Thoth; " and again, "Let me have power over cakes,
+" and let me eat of them under the leaves of the palm tree of the
+'' goddess Hathor, who is my divine lady " (Ixxxii. 7).
+
+In the Hall of Maati the name of the left foot of the deceased
+was "Staff of Hathor" (cxxv. 35), and a special Chapter (ciii.)
+was composed with the view of enabling the deceased to "be
+among those who are in the following of Hathor." Thus Ave see
+that she was held to be sufficiently important to have a train of
+attendant gods, or ministering angels, about her. In the vignette
+of Chapter cxxxiv. Hathor forms one of the company of the gods
+of Heliopolis, which here consists of Tem, Shu, Tefnut, Seb, Nut,
+Osiris, Isis, Nephthys, Hathor, and Horus, the last named taking
+the place of Set or Suti ; and in Chapter cxl. Hathor, with Tera,
+
+
+HATHOR OF THE DEAD 437
+
+Menth, (^=i ] i Bah, 11 a f ^ Z^ i) , Ra-er-neheh, 9 1 (=="
+
+
+Ea." In Chapter cli.A Nephthys addresses the deceased and says,
+" Ra hearkeneth unto thy cry ; thou, 0 daughter of Hathor, art
+" made to triumph, thy head shall never be taken away from thee,
+" and thou shalt be made to rise up in peace." It was Hathor in
+the form of a cow who received the dead when they entered the
+Underworld, she gave them new life, and celestial food wherewith
+to maintain it, and in the Roman period the personality of the
+deceased is merged in that of the goddess in the funeral texts, just as
+during the dynastic period it was merged in that of Osiris. Finally,
+it is said in a passage quoted from a papyrus by M. Maspero^
+which prescribes the placing of the " swathing of Hathor " on the
+face of the deceased, "She (i.e., Hathor) shall make thy face
+" perfect among the gods, she shall make thy thighs large among
+" the goddesses, she shall open thine eye so that thou shalt see
+" each day, she shall enlarge thy place in Amentet, she shall make
+" thy voice to prevail over thy adversaries ; and she shall make
+" thy legs to walk with ease in the Underworld in her name of
+" Hathor, lady of Amentet."
+
+In an interesting text in the Ptolemaic temple at Der al-
+Medina,- on the western bank of the Nile opposite Thebes, we find that
+Hathor is called Nubt, [J^, i.e., the "Golden One," and that she
+is addressed as the " queen of the gods," and her adorer says,
+" thou standest high in the south as the lady of Teka (Eileithyias-
+" polls), and thou illuminest the west as lady of Sais. Thou
+" appearest and thou art commemorated in festivals as Hathor,
+" the great lady, the beloved of Ra in [thy] seven forms." Thoth,
+we are told, comes to look upon her face, and he praises her
+according to her desire, and she is built up by his words. As
+
+1 Memoire sur quelques Pcqnjrus du Louvre, Paris, 1875, p. 104.
+
+en-neb-s, and the Greek Pasemis ; Brugsch, Diet. Geog., p. 574.
+
+
+438 NEKHEBET
+
+Nebt-hetepet she is glorious in heaven, and mighty upon earth,
+and queen of the Underworld. As the goddess Temt she is the lady
+of the " two lands," and of the red covering, and she shines in the
+cities of Buto and Bubastis. It is evident from the above that as
+the goddess of the Underworld Hathor was identified with the four
+great and ancient goddesses, Nekhebet of Nekhebet (Eileithyiaspolis), Uatchet of Per-Uatchet, Bast of Bubastis, and Nit (Neith)
+of Sai's, i.e., with the four typical goddesses of the four quarters of
+the world and of the four cardinal points, and it is also quite
+evident that this identification is the product of a late period,
+when the earliest attributes of Uatchet and Nekhebet, etc., were
+forgotten. It is, however, convenient to consider these goddesses
+under the head of Hathor, and they will, therefore, be described
+here, not because the writer regards the Ptolemaic identification
+as the correct one, but because there is something to be said for it.
+
+
+From the hieroglyphic inscriptions which belong to the
+archaic period we find that the kings of Egypt were in the habit
+of placing before their names the sign ]^£ , by which they intended
+
+to indicate their sovereignty over the South and the North ; it is
+uncertain how these signs are to be read, but there is no doubt
+whatsoever about their meaning. The vulture is the symbol of
+the goddess of the South, and the uraeus is the symbol of the
+goddess of the North, and down to very late dynastic times the
+kings of Egypt gloried in declaring that they were sovereigns of
+the country by virtue of the favour of the goddesses whose emblems
+were the vulture and uraeus. It is tolerably certain that in
+predynastic times the vulture was worshipped generally throughout
+Upper Egypt, and that a particular form of the serpent Avas
+venerated in the Delta ; the centre of the worship of the vulture
+
+which was named Eileithyiaspolis by the Greeks, and '' Civitas
+Lucinae " by the Latins, and formed the capital of the third nome
+of Upper Egypt, and the centre of the worship of the serpent was
+
+
+NEKHEBET 489
+
+Per-Uatchet, """" I ^ © ? *^6 Bovto(; of the Greeks and the Buto
+of the Latins, and the capital of the seventh nome of Lower Egypt.
+
+
+the " divine wife of Khent Amenti," | ^ /wsaaa ^ ^ , The shrine
+of the goddess was Nekhent, ^ , or, aaa/^v or, ^ _ , and its
+
+site is represented by the modern Arab village of El-Kab ; in late
+times Nekhebet lost all its political importance, and the neigh-
+
+1 AAAAAA H
+
+" White Nekhen," was the town which contained the sanctuary of
+
+vulture goddess Nekhebet in the land of the South is distinctly, in
+later texts, identified with Hathor.^
+
+Nekhebet is usually represented in the form of a woman who
+wears on her head the vulture head-dress surmounted by the white
+
+crown, Q , the sign of sovereignty over Upper Egypt, to which are
+attached two plumes ; sometimes she holds in one hand the sceptre,
+I, and sometimes j, and in the other we see the symbol of "life,"
+
+■¥-. Occasionally the sceptre is formed of a long-stemmed flower,
+
+which seems to be a water-lily, with a serpent twined round it ;
+this serpent is none other than the winged serpent, with the crown
+of the South upon its head, which is as symbolic of the goddess as
+the vulture. Nekhebet is also represented in the form of a woman
+with the head of a vulture, and in a picture of her reproduced by
+Signer Lanzone'^ she stands upon madt ^c:=], and holds a bow and
+an arrow in her left hand. In the form of a uraeus Nekhebet took
+her place, with her twin sister Uatchet, upon the brow of Ra, and
+both goddesses devoted themselves to destroying the enemies of
+the god ; this idea is alluded to in the winged disks which are seen
+
+1 Brugscli, Bid. Geog., p. 352 &.
+3 Op. cit., pi. 848.
+
+
+440 NEKHEBET
+
+sculptured over the doors of temples in Egypt, for on each side is
+a serpent, that on the right, or south side, being Nekhebet, and
+that on the left, or north side, being Uatchet. Nekhebet was,
+astronomically, the western or right eye of the sun during his
+journey in the Underworld, and Uatchet was his eastern or left
+eye. As a nature power Nekhebet was a form of the jDrimeval
+abyss which brought forth the light,^ and she is therefore called the
+" father of fathers, the mother of mothers, who hath existed from
+" the beginning, and is the creatrix of the world." In the basreliefs in Egyptian temples she is usually represented with her
+twin sister Uatchet, and also in coronation scenes, for it was most
+important for a king to be crowned with the double crown, W^,
+by these deities.
+
+According to Brugsch, special rooms or chambers were set
+apart in the temples of Egypt, near the sanctuaries of the gods
+wherein Uatchet and Nekhebet were supposed to abide ; the
+chamber of the former was on the west, or right side of the
+
+
+fire," and that of the latter was on the east, or left side of the
+
+
+And it is very probable that at the time of the coronation of a
+king priestesses dressed themselves in the character of the two
+goddesses, and that the one declared the South had been given to
+him whilst the other asserted the same concerning the North. In
+
+
+coloured pictures of Nekhebet Fakit, S iJll , we find that she
+
+is painted of a light yellow, or almost white colour, which is
+probably intended to represent the colour of the desert regions of
+the South, and of the white light of the newly risen sun or moon.
+From one aspect she was identified with Isis, the fertile nature
+goddess, just as Uatchet was identified with Nephthys, who was
+supposed to act the part of nurse to the ofi'spring whom Isis
+brought forth ; in other words, Nekhebet was the mother of the
+Sun-god, and therefore also of the king of Egypt, his son, and
+Uatchet was his nurse. A passage in the text of Mer-en-Ra
+
+1 Brugscli. Religion, p. 324.
+
+
+UATCHET 441
+
+(line 762) seems to connect Nekhebet with Annu, for we read,
+" Thou protectest Mer-en-Ra, 0 Nekhebet, thou hast protected
+" Mer-en-Ra, 0 Nekhebet, in the House of the Prince in Annu ;
+" thou hast committed him to Am-hent-f, and Am-hent-f hath
+" committed him to Am-sepa-f ;" ^ if this be so it is probable that
+Nekhebet was identified with one or other of the local goddesses
+lusaaset or Nebt-hetep. In an interesting text published by
+M. Maspero^ an allusion is made to the natron of the city of
+Nekheb, which was apparently much used in embalming the dead,
+and it was believed that in consequence the goddess Nekhebet would
+watch over them in the Underworld, and would change their faces
+into things of beauty Avith two brilliant eyes of light. To make
+certain of this result the " bandage of Nekheb " was laid upon the
+forehead of every carefully prepared mummy.
+
+
+Uatchet, or Uatchit, as we have already said above, is a
+goddess who was worshipped under the form of a serpent, and the
+
+
+of the Greeks, a city which was situated in the ''land of Uatchet,"
+
+' ,^ i.e., in the seventh nome of Lower Egypt,
+
+
+or Nefer-Ament, ''^f . The temple in which Uatchet was
+
+
+venerated and its precincts are known in texts of all periods by
+double name in the Pyramid Texts it is clear that the shrine was
+both very famous and very old. Uatchet was identified with Isis
+
+
+2 The ^devorrjs of Ptolemy, and the Ptenetu of Pliny; see de Rouge,
+Geographic, p. 41.
+
+3 Memoire siir quelques Pcqyyriis, pp. 50, 83.
+
+
+442 UATCHET
+
+at a very early period, and there is abundant proof that Horus, the
+son of Isis, was worshipped with Isis at Per-Uatchet ; we are, then,
+driven to the conckision that Pe-Tep was a city with two distinct
+divisions, in one of which Uatchet-lsis was worshipped, and in the
+other Horus, and that Horus dwelt in Pe, and Uatchet-lsis in Tep.
+Among the variants of the name worthy of mention are Pi-Tchepet,
+
+D M °^ 2' andPi-Tep, D (1(1 ^ .^ In late dynastic times Uatchet
+
+
+meaning of this title is not quite certain. Near the city of the
+
+
+with the island called Xe/A/xt?^ and Xe/xpe? - by classical writers, and
+Na-ateh, the Natho of the Greeks, which play such a prominent
+part in the legends of Isis and Horus. According to these, Isis
+retreated to the papyrus swamps after she had conceived her child,
+and she remained hidden in them until her months were fulfilled,
+when she brought forth Horus, who afterwards became the
+" avenger of his father ; " Set never succeeded in finding her
+hiding place, because the great goddess had found some means
+whereby she caused the papyrus and other plants to screen her
+from his view, and the goddess Uatchet visited her and helped her
+in her retreat.
+
+In pictures and reliefs the goddess is represented in the form
+of a woman who wears upon her head the crown of the North, %/ ,
+and she holds in one hand the papyrus sceptre, round which
+is sometimes twined a long snake ; in some examples she is seen
+bearing in her right hand the crown of the North, ^ , which she
+is about to place upon the head of a king. Occasionally we find
+her in the form of a large winged serpent ^ with the croAvn of the
+North upon her head ; her titles are " Uatchet, lady of heaven ; "
+" Uatchet, lady of Pe, mistress of Tep, the august one, the mighty
+
+1 Bmgsch, Diet. Gcoy., p. 215. 2 JUd^ p. 553.
+
+•^ See Lanzone, op. cit., pi. 58 f.
+
+
+UATCHET 443
+
+one ; " " Uatchet, lady of heaven, mistress of all the gods ; "
+" Uatchet, lady of Nebiui, -a.- J (]() ^ wflf]©, lady of Neteri
+
+
+views held about the goddess in connexion with the dead are well
+
+illustrated by certain allusions made to her in the Book of the Dead.
+
+In the xviith Chapter she is mentioned in connexion with a god
+
+
+who is said to have protected her son Horus by shaking her hair out
+over him, although Uatchet appears in the form of a serpent twined
+round the stalk of a papyrus plant and is called the " eye of Ra."
+In the xliind Chapter the shoulder of the deceased is said to
+be the shoulder of Uatchet; in the Ixvith Chapter the deceased
+says, " I have knoAvledge. I was conceived by Sekhet, and the
+" goddess Nit (Neith) gave me birth. I am Horus, and I have
+" come forth from the Eye of Horus (i.e., Ra). I am Uatchet who
+" came forth from Horus. I am Horus, and I fly up and perch
+" myself upon the forehead of Ra in the bows of his boat which is
+" in heaven." In Chapter cxxxvi.A the deceased is said to be
+
+in Chapter cxxxvi.B he says, ''I am the spiritual body (sdh
+" Uatchet ; " and in Chapter clxxix. he says, " The Enemy hath
+" come to an end beneath me in the presence of the Assessors,
+•' and I eat him in the great field on the altar of Uatchet ; "
+finally, in Chapter clxxii. (1. 19) certain bones in the head of
+the deceased are identified with those of the Uatchti goddesses,
+i.e., Nekhebet and Uatchet. During the ceremonies connected
+with embalming, the operator or priest addressed the mummy,
+saying, " The goddess Uatchet cometh unto thee in the form of the
+
+" living Uraeus ((=) ^ Pn , Ardt), to anoint thy head with their
+1 Their = Uatcliet and Nekhebet.
+
+
+444 BAST
+
+" flames. She riseth up on the left side of thy head, and she
+" shineth from the right side of thy temples without speech ; they
+" rise up on thy head during each and every hour of the day, even
+" as they do for their father Ra, and through them the terror
+" which thou inspirest in the holy spirits is increased, and because
+" Uatchet and Nekhebet rise up on thy head, and because thy brow
+'' becometh the portion of thy head whereon they establish them-
+" selves, even as they do upon the broAv of Ra, and because they
+" never leave thee, awe of thee striketh into the souls which are
+" made perfect," ^
+
+In the Boole of the Bead Uatchet generally plays the part of
+destroyer of the foes of the deceased, but her connexion with
+Maat shows that she was identified with some one of the female
+counterparts of Thoth. In a calendar published by Brugsch^ we
+
+
+regarded as the goddess of the eleventh month of the Egyptian
+year (Epiphi).
+
+
+Bast, ^ j4, the Lady of the East.
+
+Bast was the goddess jMr excellence of the eastern part of the
+Delta, and the centre of her worship was at Per-Bast, or Pa-Bast,
+
+
+Am-khent, -^__ , the seventh nome (Bubastites) of Lower Egypt ;
+
+this city is often referred to by classical writers (Herodotus ii.
+137, 156; Diodorus 16, 51; Strabo xvii. ; Pliny v. 9), and is
+mentioned in the Bible under the name Pibeseth, riDTS (Ezekiel
+XXX. 17). The site is marked by the ruins at Tell-Basta which
+were carefully excavated by M. Naville, who made some interesting
+discoveries concerning the great antiquity of the city of Bubastis,
+and who published the inscriptions which are still to be found
+upon the ruins of the great buildings which once stood there."^
+
+1 Maspero, Memoire sur qiielques Papyrus, p. 82.
+
+2 Astronomische und Astrologisclie Inschriften, p. 473, No. 11.
+
+^ See Bubastis, Eighth and Tenth Memoirs of the Egypt Exploration Fund,
+
+
+BAST 445
+
+In the version of Manetho according to Julius Africanus (Cory's
+Ancient Fragments, p. 98), it is said that in the reign of Boethus,
+the first king of the Ilnd Dynasty, a chasm opened at Bubastis,
+and that many persons perished, but M. Naville found no historical
+remains so old as this period on the site ; he has, however,
+discovered on blocks of stone there the names of Khufu and Khaf-
+Ra, kings of the IVth Dynasty, written in such a way as to prove
+that the inscriptions were cut during the period of the Early
+Empire. Of the kings of the Vlth Dynasty only the name of
+Pepi I. is found at Bubastis, and in connection with this king it is
+interesting to note that in his funeral inscription (line 569) his
+This fact shows that the worship of Bast was already very old in
+Egypt, at all events in the Delta, and that a definite position
+was assigned to her in the theological system of the priests of
+
+Heliopolis. In the text of Pepi II. (Sljy (oluj? it is said,
+
+" 0 god of the double town ( | ) the double of Pepi is for thy
+
+" two fingers ; Pepi hath swept off towards the heavens like a crane,
+" Pepi hath scented out the heavens like a hawk, Pepi hath flown
+"up to heaven like the grasshopper of Ra ; Pepi must not be
+" repulsed, 0 king, there is no green herb for Pepi, 0 Bast
+
+
+" standeth] like a great man at the door" (line 869). To find the
+name of Bast in the Pyramid Texts is natural enough, for their
+Heliopolitan editors introduced many local, and even foreign
+deities into the companies of their gods ; in the Theban Recension
+of the Book of the Dead, however. Bast and her city are very
+rarely mentioned, and her name is entirely omitted from the list
+of the gods mentioned in connexion with the deification of members
+(Chapter xlii.).
+
+In the " Negative Confession" (line 16) of the cxxvth Chapter
+we have the mention of the assessor called Thenemi, ( ^, flu ZV,
+
+A^AAAA Jl UIP^ 1 I
+
+i.e., he who goes backwards, who is said to come forth from Bast,
+forth from the city of Shetait.
+
+
+446 BAST
+
+The goddess Bast is usually represented in the form of a
+woman with the head of a cat, but she also has, at times, the head
+of a lioness surmounted by a snake ; in her right hand she holds
+a sistrum, and in her left an aegis Avith the head of a cat or
+lioness on the top of it. The form in which the goddess was
+worshijDped in the earliest times was that of a cat, and her identification with a lioness probably belongs to a comparatively late
+period. From the inscription we find that she was also identified
+
+with Rat, ^ , the female counterjDart of Ra, and with Temt,
+
+
+" eye of Ra," and the " eye of Tem," and the Shetat, ^
+i.e., the " Hidden one." According to one legend Bast was the
+
+worshipped as such in Bubastis, and it was only at " Bubastis of
+the South," "^ -ifl ^ , i.e., Dendera, that she was regarded as
+
+the female counterpart of Tem. From the fact that she is associated with the god Sept, " the lord of the East," it is tolerably
+certain that in one aspect as least she was regarded as a foreign
+goddess, whose attributes and characteristics had been transferred
+
+to her. As Temt, ."^ T ^, at Dendera, she was said to be the
+the temple of Bast of Dendera ; ^ her husband in this case was the
+god An, I 3 , who was a form of Osiris.
+
+At Thebes Bast was identified with Mut, the lady of Asheru ;
+at Memphis with Mut and Uatchet, at Helioj^olis with lusaaset,
+and in Nubia with Sekhet and Menhet, at a town in the Delta
+
+called Sekhet, jjM "^©j ber name appears to have been Barethe name Bast in Egyptian we must connect it with the word for
+
+1 See Brugscli, Diet. Gvo(j., p. 208 ; UeUcjion, p. 332.
+
+2 Lanzone, op. cit., p. 226.
+
+
+BAST 447
+
+"fire," hes J 1 fl, and regard the goddess as a personification of
+
+a power of the sun which made itself manifest in the form of heat.
+That this view is correct is certain from several passages in
+Egyptian texts, wherein both Bast and Sekhet are described as
+closely connected forms of a female personification of the heat and
+light of the Sun-god, and wherein they are made to act as the
+destroyers both of the enemies of the Sun-god, and of the deceased.
+Thus of Sekhet it is said in the '' Book of Overthrowing Apep "
+(xxvii. 15), "The Eye of Horus falls upon him cutting and
+" hacking his head from his neck ; the goddess Sekhet tears out
+" his intestines and kicks them on the fire with her left leg ; she
+" places them on the fire and burns into him in her name of ' Set-
+
+
+" drives out his soul from his body ; she obtains the mastery over
+
+" him in her name of ' Sekhet ' (v ® Jj) ; and she overpowers
+
+" i.e., Eye of Flame) ; she consumes his interior and blazes in it
+" with the flame of her mouth." Speaking generally, Sekhet
+personified the burning, fiery, and destructive heat of the sun, and
+Bast represented the milder heat which at certain periods of the day
+and year encouraged the growth of vegetation, and the germination
+of seeds.
+
+That Sekhet and Bast are goddesses of fire is quite clear, for
+they accompany Hathor in her character of the " Eye of Ra," and
+as forms of the Sun-god they symbolize the heat of the late and
+early summer respectively. It has already been said that Bast is
+identified with Mut at Thebes, but we also find that at Thebes
+Mut-Bast ^ is depicted as Isis, and we see her wearing upon her
+
+head the feathers of the god Shu, )lf), and horns with the sun's
+
+disk between them. The god of whom she is the female counterpart is in this case Amen-Ra-Temu-Khepera-Heru-khuti, who is
+represented with the head of a hawk wearing the crown of Shu ;
+
+1 See Brugsch, Beligion und MytJwlogie, p. 33-1.
+
+
+448 FESTIVALS OF BAST
+
+considerations lead us to the conclusion that Bast was, at all
+events in dynastic times, a personification of the moon, especially
+when we remember that Khensu was a lunar god. With the head
+of a lioness, which is usually painted green, she symbolized the
+sunlight, but when she is given the head of a cat her connexion
+with the moon is undoubted ; Dr. Brugsch refers to Plutarch's
+remark that the pupils of the eyes of cats become full and very
+large at the time of the full moon, and it is probable that the
+primitive Egyptians held the same view, and that as a result
+they identified the cat-headed goddess Bast with the moon.
+From another aspect Bast Avas regarded as exercising a special
+influence over women Avho were with child, and she appears on
+several occasions as one of the goddesses of the birth-chamber ;
+her son Khensu was declared " to make women fruitful, and make
+" the human germ to grow in his mother's Avomb," and he was
+supposed to do this especially in his character of the " moon, the
+light-bearer."
+
+According to the Stele of Canopus, the chief festivals of the
+goddess Bubastis were celebrated in the months of April and May,
+and of one of these Herodotus (ii. 60) furnishes some interesting
+information. He says : — " Such of this people as with entyre and
+" afi"ectionate zeale most religiously obserue the feast at Bubastis,
+" behaue and beare themselues on this maner. Certayne shippes
+" being addressed, wherein infinite numbers of men and women
+" sayle towards the city, in the meane season whiles they be in
+" voiage on ye Avater, certaine of the women play upon drums and
+" tabers, making a great sound and noyse, ye men on pipes. Such
+" as want these implements, clap their hands and straine their
+" uoice in singing to ye highest degree. At Avhat city soeuer they
+'' ariue, happely some of the women continue their mirth and dis-
+•' port on ye timbrels, some others raile, reuile, and scold at the
+" dames of ye city beyond measure : many trauise and daunce
+" minionly : other cast up their clothes, and openly discouer and
+" beAvray their shame, doing this in all those cittes yt are neere
+'^ adioyning to the riuers side. Being assembled and gathered
+" together at Bubastis, they honour the feast day with principall
+" solemnity, making large offerings to Diana, Avherein is greater
+
+
+FESTIVALS OF BAST 449
+
+" expence and effusion of grape wine than all the yeare besides.
+" To this place by the voice of ye countrey are wont to repayre
+" 7000 men and women, besides children, and thus they passe the
+" time at Bubastis." ^ Of the city of Bubastis itself the same
+writer says ^ (ii. 137, 138) : — " The noble city of Bubastis seemeth
+"to be very haughty and highly planted, in which city is a temple
+" of excellent memory dedicate to the goddesse Bubastis, called in
+" our speech Diana, then the which, albeit there be other churches
+" both bigger and more richly furnished, yet for the sightly grace
+" and seemelynesse of building, there is none comparable unto
+" it. Besides, the very entrance and way that leadeth unto the
+" city, the reste is in forme of an Ilande, inclosed round about with
+" two sundry streames of the river Nilus, which runne to either
+" side of the path way, and leaning as it were a lane or causey
+" betweene them, without meeting, take their course another way.
+" These armes of .the floud are each of them an hundred foote
+" broade, beset on both sides the banckes with fayre braunched
+" trees, ouershadowing ye waters with a coole and pleasant shade.
+" The gate or entry of the city is in heighth 10. paces, hauing in
+" the front a beautifull image, 6. cubites in measure. The temple
+" it selfe situate in the middest of ye city, is euermore in sight to
+" those yt passe to and fro. For although ye city by addition of
+" earth was arrered and made higher, yet ye temple standing as it
+" did in ye beginning, and neuer mooued, is in maner of a lofty
+" and stately tower, in open and cleare viewe to euery parte of ye
+" city. Round about the which goeth a wall, ingrauen with
+" figures and portraitures of sundry beasts. The inner temple is
+" enuironed with an high grove of trees, set and planted by the
+" hande and Industrie of men : in the whiche temj)le is standino- an
+" image. The length of the temple is in euery way a furlong.
+" From the entrance of the temple Eastward, there is a fayre laro-e
+" causey leading to the house of Mercury, in length, three furlongs
+" and four acres broade, all of faire stone, and hemmed in on each
+" side with a course of goodly tall trees planted by the hands of
+" men, and thus as touching the description of ye temple."
+
+1 B. R.'s Translation, fol. 86a. 2 B. R.'s Translation, fol. 108a.
+
+G g
+
+
+450 NET OR NEITH
+
+According to Brugsch,^ the great triad of the city of Bubastis
+consisted of Osiris, Bast, and their offspring, who was called Heruin Heliopolis were Tern, lusaaset, and Nefer-Tem ; in Memphis,
+Ptah-Sekhet, and Nefer-Tem ; in Thebes, Amen-Ra-Heru-khuti,
+and Mut-Bast, and Khensu, or Horus, or Neb-aut-ab ; in Aphroditopolis, Osiris- An, and Bast-Temt, and 'Ari-lies. In the Bu-
+bastite nome were many temples and localities in which the
+worship of Bast was paramount, and among such may be
+
+
+Netert, hi ^ , or | "^ © , where was preserved a thigh of Osiris,
+^ n , shut up in a '' hidden chest." ^
+
+
+THE Lady of the West.
+
+Net, or Neith, was one of the oldest of all the Egyptian
+goddesses, and it is tolerably certain that her worship was widespread even in predynastic times ; many attempts have been made
+to arrive at a decision about her earliest attributes by means of
+etymological processes, but they are unsatisfactory because they only
+illustrate the views which the Egyptians held concerning her in comparatively late dynastic times, and several of them only explain
+the objects which the goddess is seen holding in her hands in
+pictures. The examples reproduced by Lanzone represent the
+goddess in the form of a woman, who wears upon her head the
+crown of the North, V ; she often holds a sceptre, |, or T, in one
+hand, and the symbol of life in the other, but sometimes the hand
+which holds the sceptre also grasps a bow and two arrows, which
+are her characteristic symbols. She once ^ appears in the form of
+a cow with eighteen stars on one side, and a collar round her neck
+from which hangs •¥■; on her back is a ram-headed lion with horns
+
+and plumes, ^y , upon his head. The cow stands in a boat, the
+
+1 Religion, p. 336. ^ gee de Rouge, Geograj)hie, p. 122.
+
+3 Op. cit., pi. 175 ff.
+
+
+NET OR NEITH 451
+
+prow of which terminates in a lion's head with a disk upon it, and
+is provided with wings ; the stern of the boat terminates in a
+ram's head, and by the fore feet of the cow, which is described as
+sucking at each breast/ In late dynastic times there is no doubt
+that Net or Neith was regarded as nothing but a form of Hathor,
+but at an earlier period she was certainly a personification of a
+form of the great, inert, primeval watery mass out of which sprang
+the Sun-god Ra, and it is possible, as Brugsch has suggested, that
+the name Net may be akin in meaning to Nut. On the other
+hand, if we connect her name with the root netet ^ ,
+
+" to knit, to weave," and the like, we may accept the view of
+those who describe Net as the goddess of weaving, and who
+identify the signs, xix:, and ;czk, which are often seen upon
+her head, with a shuttle. It is, however, quite clear that the
+oldest and most characteristic symbols of the goddess were two
+arrows and a shield, which at a very early period became the
+recognized emblems, not only of Net herself, but also of the city in
+which her chief temple was situated, and they also served as the
+symbols which formed the name of the nome of which the
+city Sais was the capital. Now since Net was represented by a
+bow and two arrows, there is no good reason for doubting that she
+was originally either a goddess of war or of the chase, and it is
+probable that she was identified with a local wood- spirit, or
+hunting-spirit, which was worshipped in the east of the Delta in
+the predynastic period. In any case it is quite certain, when we
+consider the attributes which are ascribed to her in the texts, that
+she represents several goddesses who were the conceptions of quite
+different periods of history and of stages of civilization. Thus, at
+times, her attributes cannot be distinguished from those of Isis,
+Uatchet, Sekhet, Bast, Mut, Nekhebet, and other goddesses, and
+she was identified with one and all of them by turns.
+
+The most ancient and famous sanctuary of Net Avas at Sai's,
+, 8aui^ the capital of the fifth nome of Lower Egypt^
+
+■^ Lanzone, op. cit., pi. 175, No. .3.
+
+
+452 ^ET OR NEITH
+
+which bore the name of ^i— In ff " Sapi-meht," i.e., " Sapi of the
+
+
+North," and which was also called Het Net, c:. [1 ^, i.e., " House
+
+of Net," and " Ast-Net," jj^ [j", i.e., "The seat of Net;"
+a rare name of the city quoted by Brugsch ^ and de Rouge ^ is
+"temples of Net," [j T 1, that is to say, the temples of the gods
+who were Avorshipped with Net at Sais ; the names of these
+
+
+/wXvN, Per-Ra, ^ , and Per-Tem, ^"^ . The ffreat temple of
+
+Net at Sais must, of course, not be confounded with that of Sais of
+Upper Bgyj)t, i.e., Esneh, which was called Per-Net-mut-kheperhetch, ^ctk'Vx ^ /) ©; the names of Esneh are Ani, | /wwva [1(| ©,
+
+
+and Seni, ^'^. At Sais was held the 2:reat annual festival in
+
+honour of Isis-Net, as recorded by Herodotus (ii. 59), and it is this
+which is described by the same writer (ii. 62) in the followingwords ^ : — " In like manner meeting (as before) at the city Sais,
+" there to accomplishe the rites and ceremonies due to the day, at
+" the approche and neere poynt of the euening, they furnish and
+" beset their houses Avith torches and lampes, which being re-
+"• plenished with pure oyle mingled with salte, they giue tire to the
+" weike, and suffer them to continue burning till the next
+" morning, naming the day by the feast of lampes. Such as
+" resort not to this feast, do neuerthelesse at their owne homes giue
+" due honour to the night, j^lacing in euery corner of theyr house
+," an infinite number of tapers and candles, the custome being not
+" only kept at Sais, but spread and scattered throughout the
+" whole region. But for what ende this night is held solemne by
+" lighting of lampes, a certayne mysticall and religious reason is
+*' yeelded which we must keepe secret."
+
+After describing the place in the temple of Sais where Apries
+
+1 Did. Grog., p. 1323. - Grographie dc la Basse l^gypie, p. 24.
+
+'^ B. R.'s translation, fol. SQh.
+
+
+NET OR NEITH 453
+
+was buried, and mentioning the " fayre Chamber builte of stone,
+" beauty fied with sundry Pyllers ingrauen like unto Palme- trees,
+" being other wyse very sumptuously and royally garnished," and
+the two " mayne posts in the middest of the chamber, betweene
+" the which standeth a Cophine," and the " toumbe in the same,
+" the name whereof," he says, " I may not descry without breache
+" of Religion," Herodotus goes on to sjDeak of other matters
+connected with Sai's, and says (ii. 170) : — "At Sais in the Temple
+" of Minerva, beneath the Churche and neere unto the walle of
+" Minerva, in a base Chappell, are standinge certayne greate
+" brooches of stone, whereto is adioyninge a lowe place in manner
+" of a Dungeon, couered over wyth a stone curiously wroughte, the
+" vaute it selfe being on euery side earned with most exquisite
+" arte, in biggnesse matchinge with that in Delos, which is called
+" Trochoides. Herein euery one counterfayteth the shadowes of
+*' hys owne affections and phantasies in the nyghte season, which
+" the Aegyptians call Mysteryes ; touchinge whiche, God forbid, I
+" should aduenture to discouer so much as they vouchsafed to tell
+" mee." ^ The "Mysteries" here referred to were probably the
+ceremonies performed in connexion with the annual commemoration
+of the sufferings and death of Osiris, who, according to an old
+legend, was buried at Sais.
+
+Passing now to consider the antiquity of the cult of Net at
+Sais we find much to prove that the worship of this goddess dates
+from the latter part of the predynastic period. The earliest form
+of Net's name is found on an ivory cover of a box and on an ivory
+vase,^ where it occurs in connexion with hetep, and so serves as a
+
+Net-hetep, we know, was connected with the early king Sma, and
+she appears to have been the wife of king Ck^, Aha, who has been
+commonly, but on insufficient evidence, identified with Mena, the
+first historical king of Egypt. But whether Aha is Mena or not
+matters little for our purpose here, for it is quite certain that both
+he and Sma flourished about the beginning of the period of the
+
+^ B. R.'s translation, fol. 1166,
+
+* See Petrie, Boyal Tombs, ii., pp. 4-20, and pi. ii.
+
+
+454 NET OR NEITH
+
+1st Dynasty, and this being so the name of the goddess which
+forms part of the name of the queen Net-hetep must also be as
+old. Thus it is clear that even in the 1st Dynasty the cult of Net
+must have been of considerable antiquity. During the first four
+dynasties the goddess possessed sanctuaries in many parts of
+Egypt, and several of her priests and priestesses were buried in
+mastaba tombs in and near Sakkara. M. Mallet quotes ^ an
+interesting passage from the sarcophagus of Apa-iinkh in which
+she is addressed together with Anunu, (1^0 E©^? and Nesert,
+— *^ ^ L. 5 who are two very ancient goddesses, and in which it is
+
+declared that she came forth from the god, and that the god came
+forth from her.- We thus see that in the IVth Dynasty she was
+thought to be at once the mother and the daughter of the Sun-god
+Ra, and that she had more than one form, and possessed also the
+power to conceive and bring forth the new Sun-god daily by
+means of the divine and magical formulae with which she was
+provided. Among her early titles is that of Apt-uat, i.e., " Opener
+was in some way a female counterpart of Anubis.
+
+In the text of Unas (line 67) we find the " temples of Net,"
+
+, mentioned, side by side with the city of Tep, ^ , and
+
+
+who was supposed to dress the dead ; thus the passage clearly
+proves that Net was believed to perform some important ceremonies
+in connexion with the preservation of the dead, and it would
+seem that these were of a magical character. We may note in
+passing that in the late " Ritual of Embalmment," published by
+M. Maspero,^ it is directed that a piece of linen, upon which were
+drawn or painted figures of Hapi and Isis, be placed in the hand
+of the deceased, and that Isis is identified with Neith. This piece
+
+1 Le Cult de Neit a Sais, Paris, 1888, p. 104.
+
+
+* Memoire snv qvelqiies Papyrus du Louvre, p. 90.
+
+
+NET OR NEITH 455
+
+of linen was intended to serve as an amulet, and to bring to the
+mummy the protection of Net, who is referred to under the name
+of Isis. In the text of Unas (line 597) we have the following
+address : — " Homage to thee, 0 Horus, in the regions of Horus ;
+"homage to thee, 0 Set, in the regions of Set; homage to thee,
+
+" the Great Temple, wherefrom the voice of Unas goeth not out.
+''Take off your apparel in order that Unas may see you as
+"Horus seeth Isis, and that Unas may see you as Nehebu-kau
+" see you as Sebek seeth Net, and that Unas may see you as Set
+"seeth Netetthaab." A little further on (lines 620-627) we have
+another reference to Net and her son Sebek in these words, " Unas
+
+(ffh ^ ^
+
+" forehead, and who is the white one who cometh forth from the
+
+" Unas hath come to his pools which are on the banks of the canal
+" offerings flourish, and in the fields which are in the horizon, and
+" he hath made to flourish his garden on the banks of the horizon.
+" Unas hath brought the crystal {^=^ | ^ ffif ) to the Great
+" Eye which is in the field. Unas hath taken his place in the
+" eateth with his mouth, he voideth water," etc. In the text
+of Teta (line 204) Net is mentioned in connection with Isis,
+
+
+456 NET OR NEITH
+
+when he was seated on his throne.
+
+These same four goddesses also appear in connection with the
+Four Children of Horus, whom they assisted in protecting by
+magical means the various parts of human bodies which were
+placed in " Canopic jars." Thus Isis says, " I conquer the foe, I
+"make protection for Amseth who is in me"; Nephthys says,
+" I hide the hidden thing, and I make protection for Hapi who is
+" in me" ; Net says, " I pass the morning and I pass the night of
+"each day in making protection for Tuamutef who is in me";
+Serqet says, " I employ each day in making protection for Qebh-
+" sennuf who is in me." ^ The Egyptian word used here to
+express the meaning of " protection " is sa, (=mi°, and the character
+represents a knot of a peculiar kind ; the part which knots and
+cords tied in various ways have always played in magical
+ceremonies is too well known to need description, and it need
+only be pointed out here that the sign "^m^ indicates that the
+protection which Net exercised on behalf of the dead must have
+been of a magical character. This view is supported by a passage
+in the text of Unas (1. 271 fF.) in which we find Net mentioned in
+
+
+Nesert, — -^ ^ ^, and Urt-hekau, (==) § 4, y; now Urthekau is distinctly said to be the "protective power of the Eye of
+Horus," and thus the attributes of Net and of the other goddesses
+must be of a kindred nature. In the text of PeiDi I. (1. 572), in
+the passage relating to the deification of the members of the
+deceased it is said that the thighs of Pepi are " Net and Serqet,"
+
+n « ^ ; but in the Theban Recension of the Book of the
+
+Dead (Chapter xlii. 11), it is the fore-arms of the deceased which
+are identified with the fore-arms of the lady of Sai's, i.e., Net. In
+the Theban Recension the deceased declares (Ixvi. 2) that he was
+conceived by the goddess Sekhet, and that the goddess Net gave
+birth to him. In Chapter Ixxi. 15, we read, " Behold, the god of
+" One Face is with me. The god Sebek hath stood up within his
+
+^ For the texts see my Miiiiimy, p. 199 ff.
+
+
+NET OR NEITH 457
+
+" ground, and the goddess Net hath, stood up within her planta-
+"tion"; and elsewhere (cxiv. 5; cxvi. 2) we read that she
+shineth in the city of Matchat, or Mentchat. In Chapter cxvi. 4,
+the deceased says, " 0 ye gods who dwell in Khemennu, ye know
+me even as I know the goddess Net " ; and in Chapter cxlv. 81,
+he says, " I have entered into the house of Astes, and I have made
+" supplication to the Khati gods and to Sekhet in the Temple of
+" Net." In the Rubric to Chapter clxiii., which has for its vignette
+a serpent on legs, and two utcUats on legs, it is ordered that in the
+pupil of one iitchat there shall be drawn a figure of the " god of the
+lifted hand " with the face of Net, and having plumes and a back
+like unto a hawk. From one aspect at least it is clear that Net must
+have been a form of the power of the Eye of Horus, as well as of
+Isis, his mother ; her son Sebek is a local form of Horus, and it is
+probable that the two crocodiles, which are seen accompanying her,
+
+
+Henti, there is every reason to believe, was a form of Osiris. It is,
+however, possible that one of the crocodiles may represent Horus,
+
+or Osiris, and the other Hetch-nefer-Sebeq, 6* I O J ^ , the son of
+
+We have, unfortunately, no description of the ceremonies
+connected with the worship of Net, but there is good reason for
+believing that they were of a mystic character, and that they were
+modified from time to time in accordance with the chan2:e of beliefs
+of the priests in respect of the attributes of the goddess. Originally its chief characteristics must have been those of a local Delta
+or Libyan goddess of nature, and it is probable that it included
+ceremonies which were intended to represent the various processes
+of generation and reproduction. This view is supported by several
+of the titles which are given in Egyptian texts to her and to her
+kindred goddesses. Thus as Isis she was the first to give birth to a
+
+god, T^T^T ] iJl "^ ; ^ as Hathor she was the " great cow which
+
+gave birth to Ra ; " and she is called ^' the great goddess, the mother
+
+1 See Mallet, Le Cidte de Nelt, p. 140.
+
+
+458 NET OR NEITH
+
+" of all the gods," and " Rat (i.e., the female Sun), the lady of
+" heaven, the mistress of all the gods, who came into being in the
+" beginning." In a text quoted by M. Mallet she is actually called
+
+" One," Pp. , a fact which proves that at a certain period of her
+
+history she was to goddesses what Ra Avas to gods. A certain
+amount of light is thrown upon the history of Net by the inscription ^ on the famous shrine-bearing statue of Utchat-Heru now
+preserved in the Vatican, but it must be remembered that this
+monument is not older than the early part of the Persian period.
+Utchat-Heru was an official of very high rank in Sai's, and he was
+high-priest of Net, and as such bore the official title of Ur-sun,
+
+
+the vessels of Aahmes 11. (Amasis), and when Cambyses came to
+Egypt and visited Sai's after his conquest of the country, it was
+Utchat-Heru who received him, and explained to him the antiquity
+and greatness of the goddess Net, and conducted him through the
+various sanctuaries which were grouped together in her temple.
+In the course of his conversation with the king he told him that it
+was Net, the mighty mother, who had given birth to Ra, and that
+she was the first to give birth to anything, and that she had done
+so when nothing else had been born, and that she had never herself been born. For some reason or other Utchat-Heru found
+favour in the sight of Cambyses, and the text tells us that the
+king made offerings " even as every other good king had done."
+The funds provided by Cambyses were spent by Utchat-Heru in
+reviving the schools which had fallen into decay, and in refounding
+colleges for the priests of Sai's. The fame and traditions of the
+antiquity of Net and her worship were current among the late
+Greek writers, and it will be remembered that Plutarch {De hide
+et Osir., ix.) refers to an inscription on a statue of Pallas which he
+renders, " I am everything which hath been, and which is, and
+" which shall be, and there hath never been any who hath un-
+" covered (or revealed) my veil." - Elsewhere (Chapter Ixii.) he
+
+^ See Revillout in Revue jSgyptologiqne, torn, i., p. 72 ff.
+
+Eyw ei'/xt TTtti^ TO ycyovo?, Kal ov, Kal iaofxevov, Kol toi/ ifJLOv Tri-rrXov ouSet's ttoj
+
+
+NET OR NEITH
+
+
+says that the Egyptians often called Isis by the name Athene,
+which signifies, " I have come from myself." ^
+
+Up to the present no hieroglyphic inscription has been found
+which can be regarded exactly as the original of the Greek words,
+but there is no doubt that Plutarch only turned into words the
+opinions about the goddess Net which were current when he wrote
+his famous treatise on Isis and Osiris. In a |)assage of Proclus,
+who gives a Greek rendering of an Egyptian text in terms closely
+resembling those of Plutarch, after the words Tov iy^ov ^trwi^a ovSets
+arreKoXyxpev, the goddess Net is made to say, ov eyw Kapirov ereKou,
+17X105 iyevETo, which beyond all doubt reflects with considerable
+exactitude the meaning of the Egyptian title of " Net, the mighty
+mother,"who gave birth to Ra." ^ The words put into the mouth of
+the goddess, " I am what has been, what is, and what shall be,"
+are, as M. Mallet has remarked,^ only a development of a play
+
+
+upon her name Net and the word ent , or entet , i.e., a
+
+person or thing which is, or which exists, or which has being.
+In other words, the Egyptians regarded Net as the " Being " j;a7^
+excellence, i.e., the Being who was eternal and infinite, and was
+the creative and ruling power of heaven, earth, and the underworld, and of every creature and thing in them. Plutarch, how-
+ever, was not without authority when he made Net say, koL tov
+by Pierret^ under the title of "lady of the sycamore house,"
+
+the goddess Net is addressed in the following
+
+
+m
+
+
+iznn'
+
+
+words
+
+
+a
+
+
+milt
+
+
+X
+
+
+KiP
+
+
+Hail, mother
+
+
+tir an sefekh mesu-s
+
+great, not hath been uncovered thy birth
+
+
+^ r]X6ov (xtt' ijxavT^(;.
+
+
+Net urt mut mes Rd,
+
+
+3 Op. cit., p. 191.
+
+* Etudes lEgyptologiques, etc., Paris, 1873, p. 45 ff.
+
+
+NET OR NEITH
+
+
+1
+
+
+o
+
+
+d netert dat
+Hail, goddess great,
+
+
+em Iclien en
+within
+
+
+-k
+
+
+ISIIl ^
+
+
+@
+
+
+Tuaut
+
+
+shetat sejp sen
+
+the underworld which is doubly
+hidden.
+
+
+w
+
+
+X
+
+
+diet reJih-s
+thou unknown one !
+
+
+a
+Hail,
+
+/I
+
+
+netrdi
+thou divine one
+
+
+url
+great.
+
+
+not
+
+
+sefehh-tu qerds-s
+
+hath been unloosed thy garment
+
+
+0
+
+
+sefehh
+unloose
+
+
+senhu-s
+thy garment.
+
+
+a- i?a^i dn ertd-tu uat-d en dq
+
+Hail, Hapt (Hidden one), not is given my way of entrance
+
+
+D
+
+
+er-es mddt shept ha en Asdr Jchui-s
+
+to her, come, receive thou the soul of Osiris, protect it
+
+em Ichen en ddid
+
+within [thy] two hands.
+
+These lines form a prayer Avhich is put into the mouth of
+Ankh-f-en-Khensu, and, in the form in which we have it here, is
+not older than the Saite period, i.e., about B.C. 550 ; but the
+petition refers very distinctly to the mysterious character of the
+births of Net, and to her attribute of inscrutability in the doubly
+hidden underworld, and whilst the deceased declares that none has
+ever penetrated the cloak wherewith she is shrouded, he beseeches
+her to unloose it for him. Two words are used to express " cloak,"
+
+
+NET OR NEITH 461
+
+to mind the two words TreVXo? and -x^ltcov which are used by
+Plutarch and Proclus respectively to express the same word. It
+is, however, quite certain that the ideas and beliefs expressed in
+the above prayer are far older than the time of the Psammetici,
+and in one form or other they may be actually traced back to the
+period of the Early Empire.
+
+Another proof of the mysterious and remarkable powers
+which were attributed to Net by Greek writers is given by
+HorapoUo, who in his " Hieroglyphica " (i. 12) says that when the
+Egyptians wish to depict a figure of Hephaistos they draw a scarab
+and a vulture, and when they want to represent Athene (i.e., Net)
+they draw a vulture and a scarab, for they believe that the world
+is composed of two elements, the one male and the other female,
+these two being the only gods whom they believe to be both male
+and female.^ We have already seen that the god Khepera was
+supposed to possess the jDowers of begetting and conceiving, and
+giving birth, and, in fact, to be at once both male and female,
+" and other forms of the Sun-god were said to be self-begotten,
+self-produced, and self-born ; " these characteristics are, however,
+not applied to any goddess except Net. Since the Egyptians
+declared that she was eternal, and was self-produced, it followed as a
+matter of course that both a masculine and a feminine nature must be
+attributed to her. We have already described how Khepera produced his son Shu and his daughter Tefnut, the information on these
+points being derived from ancient Egyptian writings, but details of
+the birth of Ra by Net have not come down to us, and as far as
+can be seen the Egyptian conception of the manner in which this
+goddess exerted her reproductive powers is of a far loftier character
+than that which appertained to the creation of Shu and Tefnut by
+Khepera. It is customary to say that the Egyptians possessed
+no philosophical conceptions until the arrival of the Greeks in
+their country, but this view is a mistaken one, for there is much
+evidence extant which proves that already under the Early Empire
+Egyptian philosophers were constantly engaged in thinking out the
+
+^ ovTOL yap fiovoL 6ewv Trap' atirots, dptrevo^TjAeis VTr6.p-)^ov(Ti (ed. Leemans, p. 19).
+
+
+462 NET OR NEITH
+
+problems which are connected with cosmogony and theogony.
+The reason why they did not advance as a nation further in
+such matters is that they allowed themselves to be hampered by
+traditional opinions and beliefs, and by the rituals and ceremonies
+which the people in general demanded should be integral portions
+of the public worship of the gods. The statements of Greek
+writers, taken together with the evidence derived from the hieroglyphic texts, prove that in very early times Net was the personi-
+fication of the eternal female principle of life which was selfsustaining and self-existent, and was secret, and unknown, and
+all-pervading ; the more material thinkers, whilst admitting that
+she brought forth her son Ra without the aid of a husband, were
+unable to divorce from their minds the idea that a male germ was
+necessary for his production, and finding it impossible to derive it
+from a power or being external to the goddess, assumed that she
+herself provided not only the substance which was to form the
+body of Ra but also the male germ which fecundated it. Thus Net
+was the prototype of partheno-genesis.
+
+When, however, as Horapollo says, the Egyptians represented
+Net by a vulture they referred to her in her character of the
+universal mother, and as such many allusions are made to her in
+the texts. Certain passages, it is true, speak of her having set her
+arrow to her bow,^ and of her enemies falling daily under her
+darts, but usually she is said to provide clothing for the dead, just
+as the house-mother arrays her dead in linen. Thus in the form of
+white, green, red, and purple linen to deck the face of the
+deceased, and an ancient legend declared that she arrayed Osiris
+in the apparel which had been specially woven for him by the two
+Rekhti goddesses, '^,^, i.e., Isis and Nephthys. And because of
+the part which she had taken in arraying Osiris in his graveclothes Net was made to preside over the "good house,"
+
+I ? i-e., the chamber in which the dead were embalmed
+and swathed in linen, and over the chambers of the temples in
+which the unguents which were employed in public worship were
+
+' See Brugscli, Beligion, p. 340.
+
+
+NET OR NEITH 463
+
+compounded. The unguents which she mixed for Osiris proved to
+be the means by which the body of the god was preserved from
+destruction and made young again, and happy were the dead who
+were able to secure the ministrations of Net. We must note in
+connexion with these facts that many of the attributes of Net as a
+goddess of the dead were assigned to her because of her association
+with Osiris, and it is clear from the texts of the late dynastic
+period that Net was regarded in the light of a mother of Osiris,
+and Sai's was actually called the city of Osiris. At certain seasons
+of the year, festivals were celebrated there in commemoration of
+the embalming, and bandaging, and burial of this god, and the
+great feast of lamps, which is also referred to by Herodotus, was
+one of the most important. Another very important festival was
+that kept in the spring, on the birthday of Osiris, the son of Isis-
+Net, which the late Dr. Brugsch identified with the birthday of the
+spring sun.^
+
+In Upper Egypt Net was chiefly worshipped at Seni (Esneh),
+the Latopolis of the Greeks, which is called in the texts, "the
+house of Net in the land of the south." Here she was identified
+
+
+with Nebuut, jv, Menhit, Sekhet, and Tefnut, and was
+
+represented with the head of a lioness painted green ; and her
+titles were, '' Father of fathers, and Mother of mothers," and
+" Net-Menhit, the great lady, lady of the south, the great cow
+" who gave birth to the sun, who made the germ of gods and
+" men, the mother of Ra, who raised up Tem in primeval time,
+" who existed when nothing else had being, and who created that
+" which exists after she had come into being." The people of
+Seni (Latopolis) assigned to her as husband the ram-headed god
+came therefore "lady of Abu" (Elephantine), and the mother of
+Tutu, a form of the god Shu, whose symbol was a lion walking.
+Tutu, ^ ^ Jj ,Ms also known by the names Hee-ka, "^U 'Sl,^ and
+
+1 Religion unci Mythologie, p. 347.
+
+r
+
+
+3 Or, "^ LI D ^ Her-Jca-p-khart.
+
+
+464 NET OR NEITH
+
+of a young man ^ wearing on his head the crown of the North, and
+the Atef crown with uraei and disks ; the forefinger of his right
+hand is raised to his mouth, which suggests that he had something
+in common with the Harpocrates gods. According to Dr. Brugsch
+he is the personification of the sun when he enters the zodiacal
+sio:n of Leo, and the same scholar would connect the lion-headed
+rain- spouts of the temples of Dendera, Khensu at Thebes, Edfu,
+and Philae, with the summer sun.^ In the texts which describe
+these spouts they are called " Lion," the " Strong one of strength,"
+" mighty of strength," " possessor of two-fold strength," " the
+mighty one of roarings," "fiery-face," and "lion of the face which
+enchanteth (or terrifieth)." A form of Tutu, the son of Net and
+inscriptions wherein he is described as a " god of the south," and
+he must be identified with the crocodile-headed god who appears
+in the temple at Esneh under the names Sebek-Ra. and Hesnefer-Sebek, the son of Net.
+
+From certain passages in the texts quoted by Dr. Brugsch ^ it
+is clear that Amen-Rri, the " king of the gods," was the son of Net,
+and in the hymn which Darius IL caused to be inscribed on the
+walls of the temple of Hebt, in the Great Oasis, it is said that the
+
+ra
+
+
+Here the Sun-srod is described as the husband who maketh fertile
+with his seed,* and he is said to come to the town of Sapi,
+
+" in Het-khebit, in the nest of the lady of Sai's. Thy mother Net
+" thy body arrayed in the veil [which she hath Avoven] thy body
+" dwelleth in the temples Resenet and Mehenet. Thy raiment is
+
+1 Lanzone, op. cit., pi. 407, No. 3.
+
+2 Religion, p. 349. "" Ihul, p. 353.
+
+5 See Brug-sch, Beise nacli der grossen Oaae, pi. xxvi., 1. 28 f.
+
+
+NET OR NEITH 465
+
+" upon the hands of the two crocodile gods," 1^1' ^=^ "^
+
+
+I I I I I
+
+
+The crocodile gods here mentioned are, of course, the two crocodiles
+which are seen one on each side of the goddess in certain pictures
+of her. Finally, we find that in Thebes Net, as the mother and
+wife of Amen-Ra, was known under the form and name of the
+ancient goddess Ament. She is represented as a young woman
+who wears upon her head the crown of the North, and holds in
+the dweller in Apt, Nini," (| =s ^ ^ ^ n 63 — — . Under the
+name of Ament-Ra, (j a^ ^ ^ gj^g jg ^qq^ suckling Horus, and she
+also appears as a ram-headed goddess wearing the Atef crown.^
+All the attributes of Net were ascribed to Ament, who was originally the female counterpart of the local god Amen, and of necessity
+a deity of little importance. Thus Ament is styled, " the Cow, the
+" great lady, who fashioned the company of the gods, the mother
+" of Ra, who gave birth to Horus." It is very difficult to
+harmonize all the various statements which are made in the texts
+concerning the attributes of Net, and the above paragraphs on this
+goddess will illustrate the difficulty. They prove, however, that
+the opinions which the Egyptians held concerning her varied from
+time to time, and that contradictions in their statements are due
+not so much to inconsistency or ignorance on the part of the priests
+and copyists, as to the attempt made to harmonize every new
+religious system of belief with every one which had existed
+before it.
+
+^ See Lanzone, op. cit., pi. 25.
+
+
+H h
+
+
+CHAPTER XV
+THE HORUS GODS
+
+IT has already been stated that the hawk was probably the first
+living creature which was worshipped generally throughout
+Egypt, and that as the spirit of the heights of heaven, and as the
+personification of the god who made the sky he was called Heru,
+
+
+It appears, however, that at a very early period this conception of
+Heru was partly lost sight of, and whether as a result of the
+different views held by certain early schools of thought, or whether
+due to the similarity in sound between the name " Heru" and the
+word for " face," Her or Hra, the idea which became associated
+with the god Heru was that he represented the Face of heaven,
+i.e., the Face of the head of an otherwise unknown and invisible
+god. We can see that this view was an ancient one even in the time
+when the Pyramids were built, for several allusions are made in
+the funeral texts of the Vth and Vlth Dynasties to the " hair " or
+
+"tresses," ft vl ^:z::^(l(l CCl. , of the Face of Heru as the Face of
+
+heaven, and four gods who are called the " children of Horus,"
+
+
+The Face of heaven was supported by the four gods by means of
+the four sceptres which they held in their hands, and these four
+
+sceptres took the place of the four pillars, 1 1 1 K of the god Shu
+which, according to an older myth, supported the four corners, i.e.,
+the four cardinal points of the great iron plate that formed the floor
+
+1 Pepi I., 11. 593, 600 ; and see Maspero, La Mylhologic J^gyptienne, p. 227.
+3 The " Children of Horus" will be described later.
+
+
+HORUS THE ELDER 467
+
+of heaven and the sky above the earth. That the heavens, or the
+skies, were considered to be a Face is evident from many allusions.
+Thus the Sun is frequently called " Eye of Horus," and the Moon
+is also an " Eye of Horus," the Sun being the right eye, and the
+Moon the left ; a well known title of the Face is " Horus of the
+
+
+The forms of Horus mentioned in Egyptian texts are numerous,
+but the following are the most important : —
+
+" aged "), the 'ApayrjpL^ of the Greeks, so called to distinguish him
+from Heru-pa-khart, or, " Horus the younger." He is depicted in
+the form of a man with the head of a hawk, and also as a lion with
+the head of a hawk ; he usually wears the crowns of the South and
+l^orth united, but he is once seen with the horns of Khnemu
+upon his head, and above them are a crown with plumes, uraei,
+disks, etc.^ According to the Egyptian texts Heru-ur was the
+son of Ra and Hathor ; the Hathor here referred to is the form of
+
+the goddess which was specially worshipped at Qesqeset, '^ ^ ^ ,
+
+i.e., Apollinopolis Parva ; but Plutarch declared him to be the
+son of Kronos and Rhea, i.e., Seb and Nut, and therefore the
+brother of Osiris. This statement was probably correct enough in
+late dynastic times, when men had wholly identified Horus, the
+son of Isis, with Horus the Elder. Originally Heru-ur represented
+a phase or aspect of Horus, the Face of heaven, and it was he who
+was the twin god of Set ; Heru-ur was the Face by day and Set
+the Face by night. There was also a Heru-ur of the South, as we
+learn from the picture of the god given by Lanzone,^ the seat of
+
+
+Egypt, and a Heru-ur of the North, the seat of whose worship was at
+
+
+Latopolis of the Greeks, and the OYtxjG jui of the Copts, which lay a
+
+1 See Lanzone, op. cit., pi. 226. ^ Ihid., No. 3.
+
+
+468 HORUS THE ELDER
+
+few miles to the north of Memphis ; other shrines of Heru-ur were
+
+
+The most important shrine of the god was at Sekhem, where stood
+
+
+I (I , and Shent, 5 ffi 5 trees.
+
+of the Sun and Moon. In the Booh of the Dead (xviii.c) it is said
+that the sovereign princes in Sekhem are Heru-khent-an-maati
+and Thoth, but it is clear that locally the great gods of the city
+were Isis, Osiris, and Horus. The form in which Heru-ur was
+worshipped at Sekhem and other places was a lion. The inscriptions on the Avails of the temple at Ombos ^ prove that he was called
+the " lord of the south," the " lord of Nubti (Ombos)," and that
+he was identified with Shu, son of Ra ; with " Heru-tema, the
+" great god and lord of heaven, of two-fold strength, mighty one
+" among all the gods, whose power hath vanquished the foes of his
+" father Ra " ; with Amen-ur, or Amen the Elder ; and in fact with
+several gods who were regarded as gods of light and of aspects of
+the rising Sun, and also with the various gods who were connected
+with them. At Ombos Heru-ur was the head of a triad which
+consisted of himself, and his female counterpart, Ta-sent-nefert,
+
+
+sometimes called "the child," Q ^. The third member of this
+
+triad wears a disk upon his head, and has a lock of hair at the side
+of his face like Harpocrates, and he is called the " young sun,"
+and the general titles which are given to Heru-ur and Ta-sentnefert indicate that in later days they were considered to be
+identical with Shu and Tefnut.
+
+
+(or, the " Child "), the 'Ap7T0KpdTr](; of the Greeks, so called to
+
+1 Brugsch, Eeligion, p. 539. 2 gge de Morgan, Kom Ombos, pp. 156, 181 ff.
+
+
+HORUS THE YOUNGER 469
+
+distinguish him from Heru-ur, or Horus the Elder. In Egyptian
+pictures he is represented in the form of a youth wearing a lock
+of hair, the symbol of youth, on the right side of his head ; sometimes he wears the triple crown with feathers and disks, and the
+
+cro^vn is formed by the united crowns of the South and North,
+xf . In one scene he is seated inside a box which rests on the
+back of a lion.^ Heru-p-khart was the son of a Horus god by the
+goddess Rat-tauit, ^ "" i^ Jj , who is said to have brought him
+
+in a birth chamber, |T| 1 , in the precincts of the building
+
+Qemqem, © ; the goddess seems to have been worshipped here under the form of a hippopotamus, (=
+
+Heru-p-khart, or Harpocrates, was a form of the rising sun and
+represented his earliest rays; the Egyptians distinguished seven
+forms or aspects of the god, which may be thus enumerated : —
+
+1. Heru-Ra-p-khart, ^v ^ fi^ t^e dweller in Hermonthis. 2.
+Saaba, [1 vT" r^, and his mother Anit, | flu T rlj' 3- Sma-taui-po o
+
+
+represented as a man with a hawk's head, above which are the
+horns of the god Khnemu and the solar disk encircled by a uraeus ;
+
+^ Lanzone, op. cit., pi. 328. - See Brugsch, Diet. Geog., p. 348.
+
+
+470 HARMACHIS
+
+papyrus quoted by Lanzone ^ calls him " Horus of the Two Eyes,"
+
+and this seems to show that Heru-merti was a local form of the
+god Amsu, or Khem, or Min, as the Moon.
+
+which was worshipped at Ateb, IjjL©? i-e., EdfCi, but the exact
+characteristics of the god here are unknown.
+
+
+was worshipped at Hierakonpolis, Per-Heru-nubt, J^ ^ , and
+
+he was depicted as a hawk seated on the head of an antelope,
+which, according to Brugsch,^ commemorates his triumphant
+victory over Set, the murderer of Osiris.
+
+6. Heru-khenti-Khat, ^ rJTV, ^ . In this form the god is
+
+represented with a human body and the head of a crocodile, on
+which he wears the horns of Khnemu, and the triple crown and
+plumes ; ^ this form of Horus does not appear to be ancient.
+
+the head of sightlessness," or the " Blind Horus ; " he appears to
+represent the god when neither of his eyes was visible.
+
+
+" Horus of the two horizons," or the Harmachis of the Greeks.
+He was one of the chief forms of the Sun-god Ra, and, speaking
+generally, represented the sun in his daily course across the skies
+from the time he left the Mount of Sunrise (Bakhau) to the time
+when he entered the Mount of Sunset (Manu). Thus he combined
+in his own person the god Ra and several of his forms, and in the
+Boole of the Dead and other funeral works he|is joined to Temu,
+
+1 Op. cit. p. 617. 2 Religion, p. 664.
+
+s See Lanzone, p. 622, pi. 17 ; Brugscli, Religion, p. 606.
+
+* For the passages see my VocaJmlary to the Chq^tert^ of Coming Forth by Datjy
+
+
+HARMACHIS
+
+
+Temu here indicates the god of the setting sun, and Khepera the
+god of the sun when he is about to rise. When Heru-khuti was
+identified with the various forms of the Sun-god he was also
+supposed to possess their particular attributes, and thus it happens
+that he is said to have produced himself, and it is this fact which
+supplies the reason why hymns addressed to him are found. In
+the texts he is called the " lord of heaven," " the great god, lord of
+
+Sept-Hat," TFPff "^7 a city or district near the First Cataract,
+
+
+the governor of the Aat of Ra,"
+
+
+Cv
+
+
+^ (Heliopolis),
+
+
+Thothmes IV. making offerings to the Sphinx.
+
+" Heru-khuti-Tem, the lord of the two lands of Annu," and the
+" dweller in Behutet." The chief shrines of the god were, however, situated at Annu and at Apollinopolis, and the greater of
+these was Annu, or Heliopolis, where he was identified with the
+forms of Ra which were worshipped there. The largest known
+monument or figure of Heru-khuti is the famous Sphinx, near the
+Pyramids of Gizeh, which was his type and symbol. This
+marvellous object was in existence in the days of Kha-f-Ra,
+or Khephren, the builder of the Second Pyramid at Gizeh, and it
+is probable that it is a very great deal older than his reign, and
+
+
+472 HERU-SIMA-TAUI
+
+that it dates from the end of the archaic period. No mention,
+however, is made of the Sphinx in the inscriptions until the time
+of Thothmes IV., when we are told in the text inscribed on the
+stele between the paws of the Sphinx, that the image had become
+entirely covered over with sand. To this king the god of the
+Sphinx, Heru-khuti-Ra-Temu-Khepera, appeared one day when
+he was sleeping his midday sleep, and promised to give him the
+crown of Egypt if he would clear away the sand from his image,
+and restore his temple. Thothmes IV. carried out the wishes of
+the god, and having excavated the Sphinx, and rebuilt the temple
+between his paws, Thothmes set up an inscribed stele to commemorate his work. Judging by the silence of the ancient
+monuments about the Sphinx this figure of Heru-khuti cannot
+have been popular in dynastic times, and if this was so it is
+possible that it Avas due to the fact that the Sphinx was thought to
+be connected in some way with foreigners or with a foreign religion
+which dated from predynastic times. A recent but fanciful theory
+makes the Sphinx to be the Avork of Amenemhat, a king of the
+forms in which Heru-khuti is represented are many, but whether
+in human form or not, he usually has the head of a hawk ; in the
+examples collected by Signor Lanzone ^ we see him wearing on his
+head the solar disk encircled with a uraeus or the triple crown,
+i§Mi^ or the atef crown. In one scene he is depicted as a double
+man with a head having the faces of two hawks, one looking to the
+risfht, and the other to the left, and above this two-faced head is an
+utchat, ^§,; in another scene he has the head of a ram, which
+identifies him with Khnemu, the god of the First Cataract, and in
+another he is seated on a throne Avhich is carried on poles by two
+snake- and two beetle-headed gods.
+
+South and North." He is said to be the son of Hathor ; his chief
+Herakleopolis Magna, and Ant, [n , i.e., Denderah, and the city
+
+
+' Op. cit., pll. 229 ff.
+
+
+HORUS OF BEHUTET 473
+
+of Khatat, T A ^ , a-nd the creatures in which he was thought to
+be incarnate were the hawk and a species of serpent. He is
+usually depicted with the body of a man with the head of a hawk,
+
+or serpent, or man, and he wears as head-dresses, ^a, ^, and ^Mj-;
+
+in one scene he is represented as a hawk/ and he wears upon his
+
+head a disk and plumes, yK . In this form Horus was believed to
+
+spring into existence out of a lotus flower which blossomed in the
+heavenly abyss of Nu at dawn at the beginning of the year.
+
+10. Heru-hekennu, ^k? pr^v?[- He is said to have been
+
+the son of the goddess Bast, and the seats of his worship were the
+
+towns of Netert, T ^__^ ( ^ , and Het-Nefer-Tem ; he is usually
+
+depicted in the form of a hawk-headed man, with the solar disk
+encircled by a serpent on his head. The exact attributes of the
+god are unknown.
+
+greatest and most important of all the forms of Horus, for he
+represents that form of Heru-khuti which prevailed in the
+southern heavens at midday, and as such typified the greatest
+power of the heat of the sun. It was under this form that Horus
+waged war against Set or Typhon, and the inscriptions are full of
+allusions to the glorious victory which the god of light gained over
+the prince of darkness and his fiends.
+
+
+Tebt, A jL^ (Tanis) ; in the last named place he was worshipped
+
+under the form of a lion, which Avears the triple croAvn upon its
+head, and is depicted in the act of trampling upon its enemies.
+The god is, however, usually depicted with the head of a hawk,
+and carrying in his hands some weapon which indicates his
+character as a destroyer. Thus, in one illustration given by
+Signor Lanzone,^ we see him holding a weajDon like a club or mace
+
+' See Lanzone, op. cit., pi. 239. 2 Qp. cit., pll. 242 ff.
+
+
+HORUS OF BEHUTET
+
+
+in his right hand, and a bow and three arrows in his left^; in
+another he is about to club an ass-headed man in fetters with the
+club, -G — ^ ; in another we see him standing on an oryx or
+antelope, and holding a long hawk-headed spear in his right hand,
+and three cords, to each of which is attached a prisoner, ^.
+Elsewhere we see him depicted with the head of a lion, which
+seems to have been the form in which he was worshipped at
+seated on a throne which rests on the back of a lion. As the god
+
+
+Horus of Behutet armed with a bow and arrows and a club.
+
+of generation and reproduction he appears as a hawk with a
+phallus terminating in the head of a lion, and in a scene of the late
+period he is represented with the body of a man, and the head and
+wings of a hawk, kneeling upon two crocodiles ; on his head he
+wears ^ , and in his left hand he holds a scorpion, § .
+
+
+1 He is here called
+
+
+cesh=i
+
+
+2 He is here called " smiter of the rebel," fX]
+
+
+J
+
+
+HORUS OF BEHUTET
+
+
+In an extract from a text inscribed on a wall of the temple of
+Edfu given by Dr. Brugsch/ Heru-beliutet is described as the
+power which dispels darkness and night, and drives away clouds,
+rain, and storms, and fills all heaven and the world with his
+brilliance and light ; he rises with golden disk as the holy beetle of
+gold, and he is declared to be the lord and creator of the gods.
+He created himself, there is none like unto him, he rencAvs his
+birth daily, and year by year he performs his appointed course in
+the heavens, bringing in his train the seasons, and their proper
+produce. In one of his aspects he is identified
+with Osiris, and then the goddesses Isis and
+Nephthys are said to help him to emerge
+from the abyss of JSTu ; he made the heavens
+to be the dwelling-place for his soul, and he
+created the deep that it might serve as a
+place wherein to hide his body, which is here
+
+in which Heru-behutet appealed most strongly
+to the mind of the Egyptians were those in
+which as the god of light he fought against
+Set, the god of darkness, and as the god of
+good against the god of evil. We know
+from a passage in the xviith Chapter of
+the Book of the Dead (line 66) that in
+very early times a combat took place
+between Horus and Set, wherein the
+former destroyed the virility of Set,
+and the latter cast filth in the face of Horus, and it is this form of
+the traditional fio-ht between the two " Combatants," or Rehui,
+
+O J.I
+
+^"^ I %^ J) Jj , which is the base of the narrative inscribed on the
+walls of the great Temple of Edfu. There was, however, one very
+great difference between the fight of Horus and Set of predynastic
+times and that described between the Horus and Set known at
+Edfu ; in the former fight the two combatants were unarmed, but
+in the latter Horus was armed with weapons of iron, and he was
+
+
+The double srod Horus-Set.
+
+
+^ Religion, p. 548.
+
+
+476 HORUS OF BEHUTET
+
+accompanied by a number of beings who are called mes7iiu,
+E^crreT, the Coptic equivalent of the word mesneti, that the
+mesniu were workers in metal, and that this name was first applied
+to them as blacksmiths, and that at a later period the mesniu
+were men armed with weapons made of metal. The place where
+metal work was done, i.e., Avhere the ore was smelted and the
+
+weapons were forged, was called mesnet, , the " foundry," and
+
+the worshippers of Horus of Behutet never tired of describing
+their god as the "lord of the forge-city," i.e., Edfu, the place
+where tradition declared he first established himself as the great
+master blacksmith. And Edfu itself was regarded as the foundry
+Avherein the great disk of the sun was forged, as we see from a
+passage quoted by Dr. Brugsch, in which it is said " when the
+
+
+•^ -■• ■•■ ' □ X ^ iiiiiiiii
+
+
+In support of this tradition we find that a certain chamber in
+the temple of Edfu, which lay just behind the sanctuary, was called
+
+mesnet, fn 1 and it was here that the " blacksmiths " waited
+
+in attendance to usher forth the image of the god in his temple.
+From the representations of the " blacksmiths " given on the walls
+of the temple of Edfu ^ we see that they were originally men with
+shaven heads who wore a short tunic and a deep collar, and that in
+their right hands they carried a spear inverted, I , and in their left
+a metal instrument, b. In the same scene in which these occur
+Horus of Behutet is represented standing in a boat, dressed like
+his followers, and driving a long spear into the head of a hippopotamus beneath the boat with his right hand, and holding the
+monster in restraint by a double chain Avhich he grasps in his left
+hand. In the bows of the boat kneels Isis, who also holds the
+hippopotamus by a chain in each hand, and we may note that
+
+
+1 Variants are mm. „
+
+nil 0 ©
+
+2 Worterhuch, p. 703.
+
+3 See Naville, Mythe cVHorus, Geneva, 1870, pi. 7.
+
+
+HORUS OF BEHUTET 477
+
+the tackle of the boat consists of chains, presumably of iron, and
+not of ropes. In another place ^ Horus stands on the back of the
+hippopotamus, the legs of which are tied together by chains, and
+the lower jaw of which is held fast by a chain. The story of the
+defeat of Set by Heru-Behutet is told in the texts on the walls of
+the temple of Edfu substantially as follows : — In the year 363,
+
+South and North who liveth for ever and ever, his Majesty found
+himself in the country of Ta-kens f V ■" , or Nubia), for he had
+
+gone to the district of Uauat,^ because certain folk had conspired
+against their lord. Having suppressed the rebellion he returned
+to Edfu, and deputed his son Heru-behutet to continue the war
+on his behalf; this god had observed how men had conspired
+against his father, and he was ready to carry out his behests.
+Thereupon Heru-behutet flew up to heaven in the form of a
+winged disk, ^ss?, and ever after he was called "great god, lord of
+heaven."
+
+From the height of heaven he was able to see his father's
+enemies, and he chased them in the form of a great winged disk ;
+he attacked them with such wrath and vigour, that they lost their
+senses and could see neither with their eyes nor hear with their
+
+ears, o^ .= ^ [1 0 -^ ^ f f §)§) f P 0, and every man fell
+
+upon his neighbour and slew him, and in a moment all were dead.
+And straightway Horus, with many-coloured shapes and feathers,
+
+took up his position in the boat of Ra. At this juncture Thoth
+declared that Horus, son of Ba, should be called Heru-Behutet,
+and Behutet (Edfu) should be called the city of Horus ; and Ra
+referred with pleasure to the blood which his son had shed and
+which he likened to grapes. Then Horus suggested that Ra
+should come and look upon his dead enemies, and Ra, escorted by
+
+1 Naville, op. cit., pi. 9.
+
+3 Note the pun on the name Uauat, X| -C) , and the verb " to murmur,
+
+conspire," 4o ) -L ) ^h .
+
+
+478 HORUS OF BEHUTET
+
+who is described as the "mistress of horses," | Q ^
+
+
+and who in the form of a woman with the head of a lioness is seen
+standing in a chariot, agrees to his son's proposal. The chariot of
+the goddess is drawn by four horses, which trample upon the foes
+of Ra, who lie upon the ground bound with fetters. When Ra
+
+saw this he said to Horus, " This is a very pleasant life," | T" | ,
+
+and therefore the temple of Horus was called " Pleasant Life,"
+from that day. Then Thoth observed, " This was the spearing of
+
+
+day ; and he further said to Horus, " Thou art a great protector,"
+
+LJ Kzi:^ I , and straightway the boat of Horus was called " Great
+
+Protector." After this Ra proposed that they should journey
+upon the water, and his enemies also Avent to the water, and as
+soon as they had entered it they turned into crocodiles, emsuhu
+
+
+near enough to him they opened their mouths intending to swallow
+up the god. Then Horus came along with his "blacksmiths,"
+
+n n AAA^ ^ '^ ' ? each having a spear made of divine iron, | i) ^-oi- ^
+
+
+and a chain, (^ , in his hand, and they slew the crocodiles, and
+
+
+immediately. Ra-Heru-khuti next ordered that statues of himself
+
+should be set up in the land of the south in the place called
+
+
+Het-ii-nekht, ^;;^="^ "^ — a U , and Thoth applauded Horus because
+
+he had made use of the formulae which were to be found in the
+
+
+from that day the blacksmiths of Heru-Behutet have existed at
+Edfu.
+
+(D (3 (3 n n n
+
+Koniglichen Gesellscliaft der Wissenschaften zu Gotfingen, Bd. xiv., p. 216) and
+Wiedemann both give 381, i.e., they read ^ ^ .
+
+
+HORUS OF BEHUTET 479
+
+And Horus once again took the form of a winged disk, and
+placed himself in the bows of the boat of Ra, and he took with him
+the two goddesses Nekhebet, ^ £ J ^ ^ and Uatchit, | ^ ^ , in
+the form of two serpents, that they might destroy the crocodiles
+and the hippopotamuses in their dens. As soon as the enemies of
+Ra perceived that they were being followed they turned round and
+fled to the south, but they were overtaken by Horus and his
+blacksmiths, each with his spear and his chain in his hands, and a
+mighty slaughter took place on a plain which was situated to the
+
+terrible scenes of carnage that were enacted there was called
+
+slaughter of the foes of Ra, and after this they retreated northwards, to the region of the Mediterranean Sea, and they were
+utterly disheartened and in fear of Horus ; but this god followed
+after them in the boat of Ra, and with him were his companions
+who were provided with spears and chains, Horus himself was
+blacksmiths, ^=^f^ ^ i , and when he had waited a whole day he
+JiJiai, among them : the name of the place where the enemy was
+it was situated quite close to Dendera. Heru-Behutet was made
+the god of the region, and the acacia, )( ^°^ A , and the sycamore,
+
+Once more the enemy fled to the north and was pursued
+closely by Horus, who was armed as before ; for four whole days
+
+and nio-hts, ^ ' ^' ', he saw nothing; whatsoever of the enemy, for
+they had changed themselves into crocodiles and hippopotamuses,
+but when he did see them he attacked them with great vigour and
+slew them in large numbers. One hundred and forty-two of them
+he bound in chains and dragged on to the boat of Ra, and he
+
+
+480 HORUS OF BEHUTET
+
+captured also a "male hippopotamus," (Q f=iD; all the fiends he
+slew, and he gave their entrails to his companions, and their bodies
+to the gods and goddesses who were in the boat of Ra near the
+town of Heben, § S J- As a proof of his victory he got up and
+stood upon the back of the hippopotamus, and as a result he was
+called "Her-pest," i.e., "He who is on the back." All these
+things took place on the piece of ground which formed the temple
+estate of the town of Heben, and which measured 342 hhet,
+however was not wholly defeated, and some fled to the north
+hoping to reach the " Great Green Sea," '^ ^ ; but the god
+Horus followed after them and slew many of the rebels, the
+
+remainder of whom went to the Sea of Mertet, aaaaaa ^ ^ ^rx/vy^?
+
+and there joined themselves to the fiends of Set, '6-^. After
+some difficulty Horus found out where the enemies were, and
+having come up with them he captured 381 rebels, whom he
+slew in the bows of the boat of Ea, and he sent one body to each
+of his companions. When Set saw what had been done to his
+friends he cried out and uttered awful imprecations and complaints
+of the terrible destruction which Horus had wrought, and because
+
+ever after called Nehalia, AA^/w^ #" (^ 4^ . Horus straightway
+attacked Set, and hurled his lance at him, and threw him down
+upon the ground in a place near the city which was always after-
+J ^ , and the legs of the monster were chained, and his mouth
+had been closed by a blow from the club of the god. After these
+exploits Ra ordered that Horus should be called Urui-Tenten,
+
+
+himself and Horus, Set and his confederates, should be handed
+over to the goddess Isis and her son Horus for them to do
+with them as they pleased. Thereupon Isis and Horus took up
+
+
+HORUS OF BEHUTET 481
+
+their position near Ra, and the young god drove his weapon,
+
+" Lake of Battle," or, '' She-neter," rrr-i | "^ , i.e., " Lake of
+
+God;" he next cut off his head, and the heads of his followers,
+in the presence of Ra and the great company of the gods, and then
+dragged his body through the length and breadth of his land with
+his spear thrust through his head and his back.
+
+Then Ra ordered that Horus, the son of Isis, should drag the
+body of the monster about, and because of this "dragging" the
+the divine Isis asked her father Ra, that the winged sun-disk, .4^,
+might be given to her son Horus as a talisman, because he had cut
+off the heads of the fiend and his companions, and as a result Herubehutet and Horus, son of Isis, together pursued the foe Set, and
+both gods were of the same form and appearance. They had the
+bodies of men, and the heads of hawks, and they wore the White
+and Red Crowns, with plumes, and uraei. All these events
+took place on the seventh day of the month Tybi, w (=) ?; ,
+and the place wherein they happened was called Aat-shatet,
+
+After these things Set changed himself into a serpent which
+hissed loudly, and he sought out a hole for himself in the ground
+wherein he hid himself and lived, whereupon Ra said, " the monster
+" Ba ( J ^5^) 1 hath turned himself into a hissing serpent, let
+" Horus, the son of Isis, set himself above his hole in the form of a
+"pole on the top of which is the head of Horus, (9), so that he
+
+" may never again come forth therefrom." As the result of this
+the serpent of that town was called " Hisser " or " Roarer,"
+
+rO T i)m, ) Hemhemet, and Horus the son of Isis stood U23on
+
+him in the form of a pole, or staff, on the top of which was the
+head of a hawk. When all these things were done the boat of Ra
+arrived at Per-aha, crm fV^, or " House of Battle " ; the fore part
+f of the boat was made of acacia wood, and the after part of
+sycamore wood, and both kinds of wood were, henceforth, holy.
+I i
+
+
+482 HORUS OF BEHUTET
+
+Meanwhile, however, there still remained some of the enemies of
+Ra in the land, and this god exhorted his son to set out and
+to make an end of them, whereupon Horus told his father that if
+he would allow the boat to go whither he pleased, he would treat
+the enemy in such a way that it would be pleasing to Ra. When
+
+
+he found one of the friends of Set, and having hurled his spear at
+him, he caught him, and slaughtered him in the presence of Ra, at
+
+a place called Astabet, j] ¥ J Wj ^' ^ truce for six days and six
+nights then followed, and Horus had rest, while Isis made use of
+her words of power to keep away Ba, i.e., Set, from the district
+called " An-rut-f." Soon afterwards Horus slew 106 of the enemy,
+and then made a final attack upon them in the neighbourhood of
+
+
+made their escape and succeeded in getting away to the mountains, and others threw themselves into the sea. Horus changed
+himself into the form of a lion, with the head of a man surmounted by the triple crown, and grasping in his hand his keen-
+edged knife he pursued them, and brought back 142 of the enemy,
+whom he slew, and he tore out their tongues, and their blood
+
+
+I I III I v III o*
+
+When this Avas done Ra told Horus that he wished to travel
+
+further upon the sea, and to smite the remainder of his foes who
+still lived in the form of crocodiles and hippopotami near Egypt,
+but Horus told him that it was impossible to sail further on the sea
+because the one-third of the enemy which still remained were
+therein.^ When Thoth heard this he recited certain chapters
+containing magical formulae, with the view of protecting the Boat
+and the vessels of the blacksmiths which were with it, and of quieting the sea during the period of storm. It is clear that when
+these chapters had been recited, Ra and his company set out and
+went over the whole sea, but as no more enemies were seen they
+
+
+.„„llll - 0 Ml
+
+
+qr
+
+
+HORUS OF BEHUTET 483
+
+returned to Egypt, travelling by night. Finally, Horus and his
+companions went back to Nubia, to the town of Shashertet,
+
+■^ ^ ^, where he destroyed the rebels of Uauat, and
+
+
+m(]P
+
+
+their ablest soldiers. When this was done Horus changed himself
+once more into the form of the winged sun-disk with uraei, and
+took with him the goddesses Nekhebet and Uatchit in the form of
+two serpents, that they might consume with fire any rebels who
+still remained. When the gods who were in his boat saw this
+they said, " Great indeed is that which Horus hath done by means
+" of his double snake diadem ; he hath smitten the enemy who
+" were afraid of him ! " And Horus said, " Henceforward let the
+'' double snake diadem of Heru-Behutet be called tlr-uatchti
+journeyed on in his ship, or boat, and arrived at Apollinopolis
+called the " Light-giver, who cometh forth from the horizon
+
+winged sun-disk with uraei, €Ds, should be brought into every
+sanctuary wherein he dwelt and in every sanctuary of all the gods
+of the lands of the South and of the North, and in Amentet, in
+order that they might drive away evil from therein. Then Thoth
+made figures of the winged sun-disk with uraei, and distributed
+them among the temples, and sanctuaries, and places wherein
+there were any gods, and this is what is meant by the winged
+disks with uraei which are seen over the entrances of the courts of
+the temples of all the gods and goddesses of Egypt. The snake
+goddess on the right hand side of the disk is Nekhebet, and that
+on the left is IJatchit.^
+
+The above legend is very important for the study of Egyptian
+mythology, notwithstanding the fact that in its form here described
+it belongs to a very modern period. The fundamental facts of the
+story are very old, for they belong to the earliest period of
+
+^ For tlie text of the legend summarized above see Naville, Mytlie cTHorus,
+pll. xii. f£. ; and for a translation, witli transliteration of text and commentary, see
+Brugscli, Die Sage von der gefliUjelten Sonnenscheibe in the Abiumdiungen of the
+Royal Society of Sciences in Gottingen (Phys. Classe, Bd. xiv., p. 173 ff.).
+
+
+484 HORUS OF BEHUTET
+
+Egyptian history, and are derived from the old nature myth
+of the combat between Light and Darkness. With these, however, we have mingled another element, which is apparently
+historical, and is also of very great antiquity. In the original
+fight between Ra and Apep, or Horus and Set, the Sun-god was
+accompanied by his followers, whose duties, apparently, consisted
+in watching the combat, and who were, like Ra himself, unconnected with the earth. But in the fight of Heru-Behutet with
+Set, the companions of the gods were beings in the forms of men
+who were armed with spears and chains for fettering purposes, and
+they were rewarded by him after the manner of men. The god
+himself was armed with a very long spear made of " iron of the
+god " or " divine iron," and with a chain of unusual length, and
+his method of fighting was to hurl his spear at his foes, and when
+it had' struck home, he fettered them with his chain, and having
+dragged them to his boat, slaughtered them at leisure. The
+first great defeat of the enemy took place at Aat-Tchetemi,
+
+i^-^-j ^°^ ( — (](]©, near Thebes ; the second took place at Neter-
+
+Khaita, T ^ T "^ (1 (1 A © , near Dendera, and was followed by the
+overthrow of small bodies of them in the neighbouring nomes
+going towards the north ; and the last great conquest was effected
+or Tanis, in the east of the Delta, not far from the modern
+Suez Canal.
+
+All these facts indicate that we are not dealing entirely with
+mythological events, and it is nearly certain that the triumphant
+progress ascribed to Heru-Behutet is based upon the exploits of
+some victorious invader who established himself at Edfu in very
+early times, and then made his way with his followers northwards,
+beating down all opposition as he went. It is pretty clear that
+he owed his success chiefly to the superiority of the weapons
+with which he and his men were armed, and to the material of
+which they were made ; given equality of bravery in two bodies
+of men opposed each to the other, troops armed with weapons of
+flint would not long oppose successfully those armed with weapons
+of iron. In other words, the followers of Horus, who are called
+
+
+HORUS OF BEHUTET 485
+
+mesniti in the text, as we have already shown, were actually
+workers in metal, or, " blacksmiths," and men who knew how to
+smelt iron ore and to forge the metal into weapons of offence
+and defence. These men called their workshop or foundry mesnet
+or mes7iit, and later, when their leader and themselves had become
+deified, and priests had been appointed to perform the worship of
+the god, the portion of the temple which was set apart for them
+was also called mesnet or mesnit, and when the metal statue of
+the god of the rising sun, Heru-Behutet, was brought out by
+them fi'om their chamber the god was said to issue from the
+foundry wherein he had been cast, and the mesnet was identified
+with that portion of the sky from which the Sun-god appeared.
+
+It is, of course, impossible to say who were the blacksmiths
+that swept over Egypt from south to north, or where they came
+from, but the writer believes that they represent the invaders in
+predynastic times, who made their way into Egypt, from a country
+in the East, by way of the Red Sea, and by some road across the
+eastern desert, e.g., that through the Wadi Hammamat, or that
+which touches the Nile a little to the south of Thebes. They
+brought with them the knowledge of working in metals and of
+brick-making, and having conquered the indigenous peoples in the
+south, i.e., those round about Edfu, they made that city the centre
+of their civilization, and then proceeded to conquer and occupy
+other sites, and to establish sanctuaries for their god or gods.^ In
+later times the indigenous priesthoods merged the legendary
+history of the deified king of the blacksmiths in that of Horus, the
+god of heaven in the earliest times, and in that of Ra, which
+belonged to a later period. The priests of Edfu found many
+parts of this mixed history very difficult to explain, and they
+endeavoured to get out of their difficulties by the fabrication of
+foolish etymologies and puns, whereby they sought to elucidate
+events and names. These, however, have a certain importance,
+for they at least prove that parts of the legends were not understood when the puns or plays on words were made, and that the
+
+1 The historical element in the legend was long ago recognized by Maspero ;
+see Les Forgerons cVHorus et la Legende cle VEorus cVEdfou (in Bib. Egyj)t., torn, ii.,
+
+
+486 HORUS, SON OF ISIS
+
+legends themselves are of great antiquity ; another point is also
+made clear by them, i.e., that the Egyptians themselves were not
+better informed on such subjects than we are.
+
+12. Heru-thema, ^. j^ a, i.e., " Horus the piercer."
+
+This form of Horus is that in which the god attacked Set, the
+murderer of his father Osiris, with his long spear Avith a sharppointed iron head ; he is represented in the form of a hawk-
+headed man in the act of driving his long spear into sonie unseen
+foe on or below the "'round.
+
+13. Heru-Hebenu, V^ k 5- i.e., Horus of Hebenu, or
+Upper Egypt.^ He is mentioned in the myth of Heru-Behutet,
+with whom he is often identified, and he is usually depicted in the
+form of a hawk-headed man standing upon the back of an antelope ;
+this animal was supposed to be connected with Set, and Horus of
+Hebennu mounted upon his back as a symbol of his sovereignty
+over the god of darkness and all his host.
+
+U. Heru-sa-Ast..a-Asar, ^' I ^J j^g, ^| J^-
+i.e., " Horus, son of Isis, son of Osiris," like many other forms of
+Horus, represented in general the rising sun, and appears to have
+been to the Egyptians exactly what Apollo was to the Greeks in
+this respect ; the aspects of this god were many, and in consequence
+his shrines were very numerous both in the South and in the
+North. In him were at one time or another included all the
+
+
+of the heights of heaven, and Horus the Elder, and ending with the
+least important Hoi'us, i.e., the god of some provincial town. His
+principal aspects were, however, two, i.e., he represented the
+new Sun which was born daily, and which was the successor of
+Heru-khuti or of Ra, and he was also the offspring of the dead
+man-god Osiris and his lawful successor. Horus, the son of Isis
+and of Osiris, was a god whose attributes appealed strongly to the
+Egyptians from one end of Egypt to the other, because in him
+
+^ Brugscli, Did. Geog., p. 490 ; and Brugscli, Religion, pp. 558 ff.
+
+
+HORUS, SON OF ISIS 487
+
+every man and woman saw the type of what he or she Avished to
+possess, that is to say, reoewed life, and life as opposed to death^
+and movement as opposed to inactivity, and intercourse with the
+living instead of with the dead. In a Avay Osiris and Horus were
+complements, each of the other, but the chief difference was that
+Osiris represented the past, and Horus the present, or, as we have
+it expressed in the Booh of the Dead (xvii. 15), "Osiris is Yester-
+" day, and Ra (i.e., Horus grown up) is to-day," (] (cr) |l ^ Jj
+
+consistent in the matter of the paternity of Horus, for though Isis
+is invariably regarded as his mother, his father is sometimes said
+to be Osiris, and sometimes Ra ; but this inconsistency is easily
+accounted for by remembering that Osiris is, under one aspect, a
+form of the dead Sun-god. Of the circumstances under which
+Horus was begotten we gain a good idea from a hymn to Osiris
+in which the sorrow of his mother Isis at the death of her
+husband is described. The goddess was greatly distressed, but
+she was equipped with mighty words of power, and she knew how
+to utter them so that they might have the greatest effect, and she
+set out in search of the dead body of Osiris and never rested until
+she had found him. With her hair she made light, and with her
+wings she stirred the air as she made lamentation for her brother
+Osiris, and at length she brought his body into a state of activity,
+and was then united to him ; thus she became with child by him,
+and her son Horus was born in a secret place where she suckled
+him and reared him.^
+
+This spot appears to have been situated among the papyrus
+swamps in the Delta, and the event is alluded to in many scenes in
+which the goddess is seen, suckling her child amidst a dense mass
+of papyrus plants. Soon after the birth of her child she was
+persecuted by Set, who kept herself and Horus prisoners, in a
+house, but by the help of Thoth she escaped with her child one
+evening, and set out on her way under the protection of seven
+
+^ See Chabas, Eeiue Archeologique, 1857, p. 65 ; Ledrain, Monuments
+^gyptiens, pll. 22 ff.
+
+
+488 HORUS, SON OF ISIS
+
+and Matet, -Z^ (M^- These scorpions probably represent the
+seven stars of the constellation Canis Major, in which the stars of
+Isis and Sothis were situated. The last three scorpions showed
+
+or Crocodilopolis, and then on to the city of Thebti, the city of the
+Two Sandals-Goddesses, ^ , W ^ w m r^ ? where the swamp country
+begins. Whilst Isis was absent one day Horus was stung by a
+scorpion, and when she came home she found him lying on the
+ground, and the foam was on his lips, and his heart was still, and
+there was not a muscle or limb of him which was not rigid ; she had
+protected him against Set, and against the possibility of attack by
+any being in the papyrus swamps, but a scorpion had stung the
+child, and he was dead. Whilst Isis was lamenting his death her
+sister Nephthys came with Serqet, the scorpion goddess, and
+advised her to cry out to heaven for help, and she did so, and her
+cry penetrated to Ra in his " Boat of Millions of Years." The
+great god stopped his boat, and Thoth came down with words of
+power, and by means of these her son was once more raised to life
+and health. Soon after these things had taken place Horus set to
+work to avenge the death of his father Osiris, and it was under his
+
+form of " Horus, the avenger of his father," ^,^ rj] "T ^ "^
+
+(] "^ J4 ^.=^ ,2 that he appealed so strongly to the imagination of
+
+the Egyptians.
+
+According to a notice in the Calendar given in the Fourth
+Sallier Papyrus (Brit. Mus., No. 10,184), Horus began his fight
+with Set, which lasted three days, on the 26th day of the month
+of Thoth, and the two gods fought in the form of two men. Isis
+was present at the fight and, because she in some way supported
+Set against Horus, her son turned upon her with the fury of a
+" panther of the south," and cut off her head. Thoth, however,
+seeing what had been done, took the head of the goddess, and by
+
+^ The story is told on the Metteniichsieic, ed. Golenischeff, Leipzig, 1877,
+pi. iii., 11. 46 ff.
+
+2 For references to him in the BooTc of the Dead see my Vocabulary, p. 225.
+
+
+HORUS, SON OF ISIS 489
+
+means of his words of power transformed it into the head of a cow,
+
+and then fixed it upon the body of Isis.-^ According to Plutarch
+
+{De Iside et Osiride), Isis found that her son Horus had succeeded
+
+in fettering Set and in binding him in chains, but not wishing that
+
+he should perish she loosed his fetters and set him at liberty ; then
+
+it was that Horus tore off her head the symbols of sovereignty
+
+which were upon it. We have no means of assigning a date to the
+
+composition of the above legend, but it must be very old, and it is
+
+easy to see that it is only a version of the older legend of the
+
+combat between Ra and Apep, and Heru-ur and Set, and Heru-
+
+Behutet and Set, and it is, of course, one of the sources of all the
+
+post- Christian legends of the overthrow of dragons by kings and
+
+heroes, e.g., Alexander the Great and Saint George. When Horus
+
+had overcome Set he succeeded to the inheritance of his father, and
+
+took his seat upon the throne of Osiris, and reigned in his stead ;
+
+and, in the words addressed to Osiris by the official Hunefer, " Horus
+
+' is triumphant in the presence of the whole company of the gods,
+
+' the sovereignty over the world hath been given unto him, and his
+
+' dominion is in the uttermost parts of the earth. The throne of
+
+' the god Seb hath been adjudged unto him, along with the rank
+
+' which hath been founded by the god Temu, and which hath been
+
+' stablished by decrees in the Chamber of Books, and hath been
+
+' inscribed upon an iron tablet according to the command of thy
+
+' father Ptah-Tanen, on the great throne. . . . Gods celestial and
+
+' gods terrestrial transfer themselves to the service of thy son
+
+' Horus, and they follow him into his hall, [where] a decree is
+
+' passed that he shall be lord over them, and they perform the
+
+' decree straightway." ^
+
+Now, besides the fight in which he engaged with Set, Horus
+performed many other filial duties which endeared him to the
+Egyptians. Thus he took the greatest care that every ceremony
+which could possibly benefit the deceased was jDerformed on his
+father's behalf, and every detail of the mummification of the god,
+and of the method of swathing, and of the placing of amulets, etc.,
+upon the body was watched by him with loving attention, and his
+
+^ Chabas, Calendrier, Paris, ]863, pp. 29 ff.
+^ BooTc of the Dead, Chap, clxxxiii., 11. 12 &.
+
+
+490 HORUS, SON OF ISIS
+
+filial affection became the pattern which was followed by every
+pious Egyj)tian from time immemorial. We find, however, that
+Horus was believed to help the dead generally, even as he helped
+Osiris, and all men hoped that he would come to their assistance
+after death, and act as a mediator between the judge of the Underworld and themselves. In the Judgment Scene in the Booh of the
+Dead (Papyrus of Ani, plates 3 and 4), Horus, the son of Isis,
+leads the deceased, after his heart has been weighed, into the
+presence of Osiris, and he says to his father, " I have come to thee,
+" 0 Un-nefer, and I have brought unto thee Osiris Ani," and then
+goes on to say that Thoth has weighed Ani's heart in the Balance
+according to the decree of the gods, and has found it right and
+true. He also asks Osiris that Ani may be allowed to appear in his
+presence, and that cakes and ale may be given to him, and that he
+may be among the followers of Horus for ever. In none of the
+variants of the Judgment Scene do we find that the place of Horus
+as introducer of the dead is taken by any other god, and there is
+no doubt that this duty was assigned to him because it was
+believed that Osiris would favourably receive those who were led
+into his presence by the son who had done so much for him. From
+the Pyramid Texts we learn that, at the time when man believed
+that it was necessary to have a ladder in order to ascend into
+heaven from the earth, Horus was regarded as the god of the
+ladder, and that he was entreated to set up the ladder and to hold
+it in place whilst the deceased climbed up it. Sometimes Ra held
+one side of it whilst Horus held the other, and sometimes its
+supporters were Horus and Set, but even so the deceased seems
+sometimes to have experienced difficulty in ascending it, for we
+read that Horus had to give him a push upwards with his two
+fingers.^
+
+for he took the bodies of the dead under his care just as he took the
+body of his father Osiris into his own hands, and superintended the
+performance of his funeral rites and ceremonies. In this great
+work he was assisted by a number of beings called Heru-shemsu,
+
+^ English renderings of the passages Avill be found in my Eyijptian Magic,
+pp. 52 ft.
+
+
+HORUS, SON OF ISIS 491
+
+
+from several passages in the Booh of the Dead that Osiris, Ra,
+Nefer-Tem, Neb-er-tcher, Mehi, Hathor, and, in fact, all great
+gods were ministered to by a number of lesser gods, but none of
+these are of the importance of the followers of Horus, and none of
+them are as old. We have already seen that the original Horusgod, I y) ^ 7 '^iio represented the face of heaven, was
+
+supposed to have long hair which hung down from his face, and which
+probably supported it, and that in the myth of Shu the sujDports
+
+of this god, i.e., the four pillars, 1 1| I. which held up the vast,
+
+rectangular, iron plate that formed the floor of heaven were placed
+in the tresses of Horus. At a later period, when the four followers
+of Horus, son of Isis, were identified with the followers of the
+older Horus, these gods were made to dwell near the pillars of Shu
+and to have dominion over them, and also over the four quarters
+of heaven, and they took the place of the earlier gods of the
+cardinal points. In the Booh of the Dead these four children
+of Horus play very prominent parts, and the deceased endeavoured
+to gain their help and protection at all costs, both by offerings and
+prayers. In the pictures of the funeral procession four men draw
+along the coffin containing the mummied intestines of the deceased,
+four animals are taken for sacrifice, and all the instruments used in
+the ceremony of " opening the mouth," as well as the vases, and
+boxes of unguents, etc., are in quadruplicate. Even prayers and
+formulae are said four times over, e.g., in Chapter xL, the deceased
+in addressing the Eater of the Ass says, " I know thee," four times;
+and in Chapter cxxiv., he says, " I am pure," four times. Most
+important of all, however, it was to remember that the four
+children of Horus shared the protection of the body of the deceased
+among them, and as far back as the Vth Dynasty we find that they
+presided over his life in the underworld. The names of the four
+
+
+order in which they are mentioned in the Pyramid Texts, but in
+
+
+492 HORUS, SON OF ISIS
+
+later times the order of the names and the spelling vary thus : —
+
+ceased were identified with Hapi and Tuamutef, and his two legs
+with Amset and Qebhsennuf ; and when he went into the Sekhet-
+Aaru they were his guides and went in with him, two on each side.
+Hapi represented the north and protected the small viscerae of the
+body ; Tuamutef represented the east, and protected the heart and
+lungs ; Amset represented the south, and protected the stomach
+and large intestines, and Qebhsennuf represented the west, and
+protected the liver and the gall bladder. Associated with the four
+gods, perhaps as female counterparts, were the goddesses ISTephthys,
+Neith, Isis, and Selqet, or Serqet.
+
+As Horus, son of Isis, Avas so thoroughly identified with
+Horus the Elder, and with other forms of the rising sun, it is
+not surprising to find that the sanctuaries of the god were very
+numerous, and that they existed in all parts of the country ; the
+names of a great many of these have been collected by Signor
+Lanzone,^ and from them we learn that Horus, dweller in the two
+
+Egypts, ' ^-^ ^ , was lord of Nubti, A] ^ (Ombos), and lord of
+
+
+Nekhen, ^ , Per-netchem, [z:z]|^©, Re-au, '^ ^
+
+
+Het-neh,
+
+
+^ Op. eit., p. 569.
+
+
+HORUS, SON OF ISIS 493
+
+
+The forms in which Horus, son of Isis, is depicted are both
+numerous and interesting, and they show how completely he
+absorbed the attributes of all the other Horus gods. Thus he is
+represented as a child seated on a lotus flower, with one of his
+forefingers touching his lips, and with the lock of hair on the side
+of his head ; he wears the crowns of the South and North, and
+of a hippopotamus, into the head of which he is driving a spear ;
+in this instance he is clearly identified with Heru-Behutet. In
+late dynastic times the god was depicted in a great many fantastic
+forms, and the various attributes which were ascribed to him are
+indicated in many curious Avays. Thus as guardian of the funeral
+coffer of Osiris he has the head of a hawk, on which is the triple
+crown, with the body of a lion, and a tail in the form of a head
+and neck of some unknown animal. Elsewhere he is represented
+with seven heads, among which are those of a bull, a ram, a cat,
+and a crocodile, and with the body of a man, ithyphallic, and the
+legs and hoofs of a bull, and the wings of a bird ; in one hand he
+holds a knife, and in the other a serpent.
+
+But besides the attributes of the other Horus gods, Horus,
+son of Isis, was endowed with many of the characteristics of other
+gods. Thus with the god Anpu or Anubis, he becomes Heru-em-
+Anpu, i.e., Horus as Anubis, and is said to dwell in the " divine
+
+
+manubis," who is mentioned by Plutarch (De Iside et Osiride, § 61)
+and by Diodorus (lines 18, 87). This dual god is represented in
+the form of a man with the head of a jackal, and it is impossible to
+distinguish him by his picture from the two jackal gods Anpu, or
+Anubis, and Ap-uat, who are only two forms of one and the same
+god. Strictly speaking, Anpu is the " opener of the roads of the
+
+
+Apuat is the "opener of the roads of the North, the power of
+
+^ See Lanzone, op. cit,, pll. 214 ff.
+
+
+HORUS, SON OF ISIS
+
+
+?
+
+
+The two jackal gods are often
+
+seen depicted on stelae, Avhere they symbolize the two halves of
+the year, and the night and the day sky, and tlie periods of waxing
+and waning of the powers of nature in summer and winter.
+
+The particular form of Horus Avhich was identified with
+
+
+Horus, son of Isis, was Horus of Hebennu, ^ Jq^©? the
+Hipponon of the Greeks, where also Anubis was specially venerated.
+The identification of Horus, son of Isis, with Anubis is easy to
+explain, for both gods assisted in mummifying the dead body of
+Osiris, and it is expressly stated in the Booh of the Dead (xvii.
+125 ff.), that it is Anubis wdio passes through the purification
+
+
+chest which contained the inner parts of Osiris." According
+to the same chapter (lines 100-108), it was Anubis who
+appointed the Seven Spirits, *' the followers of their lord Sepa,"
+Osiris. One authority quoted in the same chapter stated that the
+
+
+Seven Spirits,
+
+
+O
+
+
+I
+I ill
+
+
+, were the Four Children of Horus,
+
+
+already mentioned above, and Maa-atef-f, .^
+
+
+, and Heru-khenti-maati,
+
+
+1
+
+
+but another authority gives the names of the
+
+
+Seven Spirits as follows: — 1. Netcheh-netcheh ; 2. Aaqetet ;
+3. An-erta-nef-bes-f-khenti-heh-f; 4. Aq-her-ammi-unnut-f ; 5.
+Tesher-maati-ammi-het-Anes ; 6. Ubes-hra-per-em-khetkhet ; 7.
+Maa-em-kerli-an-nef-em-hru.^ In connexion Avith these must be
+
+
+1 Bool- of the Dead, Chap, cxlii., § iv. 24-, 25.
+
+
+o
+
+
+0
+
+
+ra tk o
+
+
+s
+
+
+HARPOCRATES 495
+
+who is identified either Avith the Eye of Ra or with the flame
+which follows Osiris to burn up his enemies, and the assessors of
+that section of the Underworld which is called An-aareretef,
+
+
+A , or An-aretf, H ^ ^ , i.e., the
+
+" place where nothing grows," the chief of whom was Heku-netchaveno;er of his father."
+
+
+"O
+
+
+the Child." We have already described Horus the Child, who was
+the son and successor of Horus the Elder, and brief mention must be
+made of Horus the Child who was the son and successor of Osiris.
+The greater number of the attributes which belonged to the old
+Horus gods were transferred to the son of Isis and Osiris, especially
+in late dynastic times when the worship of Osiris was dominant in
+Egypt, and Horus the Child became the type of the new birth, and
+new life, the first hours of the day, and the first days of the month,
+and the first months of the year, and in fact of everything which
+was young and vigorous. Soon, however, the characteristics of
+the great forms of the Sun-god were added to his own, and his
+original conception as Horus the Child was somewhat forgotten ;
+at times it is very difiicult to distinguish in the texts exactly
+which Horus is referred to. In all the great sanctuaries of Egypt,
+from the period of the New Empire onwards, we find that Horus
+the Child, or Harpocrates, was identified by the priests of the local
+gods as a form of their principal deities in which the chiefs of the
+companies or triads of gods had renewed and rejuvenated themselves. The late Dr. Brugsch collected a large number of examples
+of this fact,^ and he proved that as Heru-sma-taui-pa-khart he was
+identified with Tem, and was said to be son of Heru-khuti and
+
+Hathor; that joined with Ahi, l| | (](] Tl, Harpocrates became a
+form of Ra, and was called " son of Hathor, to whom Isis gave
+
+1 Religion unci Mythologie, p. 373.
+
+
+496 HARPOCRATES
+
+i.e., of Osiris ; and that he was also made to be the renewed form
+of the gods Shu, Seb, Khensu, and Amsu, or Min.
+
+In connexion with Horus, son of Isis, in one or other of his
+forms must be mentioned the interesting legend which is preserved
+in the cxiith Chapter of the Booh of the Dead, and which has
+dweller in Khat, in the city of Anpet, ^aaaaa ©, in the nome of Ha-
+
+
+"1 ie
+
+
+meliit, v^, i.e., the sixteenth nome of Lower Egypt. Strictly
+
+speaking, Anpet was the name of the temple and quarter of the
+
+city of Mendes, the local triad of which consisted of Ba-neb-Tetet,
+
+
+Mendes was full of associations with the worship of the god Osiris,
+for in the temple there were preserved the phallus and the back-
+" House of the Rams," and the place where the relics were found
+Per-khent, ' ' d£j ^ -^ The rams here referred to recall the legend
+in which the Ram of Mendes was said to unite within himself the
+souls of Rfi, Osiris, Shu, and Khepera, and he was known as the
+It is possible that he is also referred to in the text of Pepi I. (line
+
+In the Chapter above mentioned the deceased is made to ask a
+number of gods, " Do ye know for what reason the city of Pe hath
+" been given unto Horus ? " and he goes on to say, " I, even I,
+" know it though ye know it not. Behold, Ra gave the city to him
+" in return for the injury to his Eye ; for which cause Ra said to
+" Horus, ' Let me see what is coming to pass in thine eye,' and
+" forthwith he looked thereat. Then Ra said unto Horus, ' Look
+" at that black pig,' and he looked, and straightway an injury was
+" done unto his eye, that is to say, a mighty storm [took place
+
+
+See de Rouge, Geogvdjjhe Ancienne, j). 114.
+
+
+HARPOCRATES 497
+
+" therein]. Then said Horus unto Ra, ' Verily, my eye seems as if
+" it were an eye upon which Suti had inflicted a blow ' ; and [thus
+" saying] he ate his heart/ Then said Ra to those gods, ' Place ye
+" him in his chamber, and he shall do well.' Now the black pig
+" was Suti (Set) who had transformed himself into a black pig, and
+" he it was who had aimed the blow of fire which struck the eye of
+" Horus. Then said Ra unto those gods, ' The pig is an abominable
+'' ' thing unto Horus ; but he shall do well, although the pig is an
+" ' abomination unto him.' Then the company of the gods, who
+" were among the divine Followers of Horus when he existed in
+" the form of his own child, said, ' Let sacrifices be made of his
+^' bulls, and of his goats, and of his pigs.' Now the father of
+" Mesthi, Hapi, Tuamutef, and Qebh-sennuf is Horus, and their
+" mother is Isis. Then said Horus to Ra, ' Give me two divine
+" ' brethren in the city of Pe and two divine brethren in the city of
+" ' Nekhen, who [have sprung] from my body and who shall be with
+" ^ me in the guise of everlasting judges, and then shall the earth
+" ' blossom and thunder-clouds and rain be done away.' And the
+
+
+In addition to the forms of Horus mentioned in the above
+paragraphs the Pyramid Texts make known the following: —
+1. Heru-Aah, ^_^|^) i-e-, Horus, the Moon-god ;2 2. Heruauthorities Horus possessed one white eye and one black,
+illumine his face ; and two other titles of the god are " Horus of
+
+
+^ I.e., he lost his temper and raged.
+
+
+3 Unas, 1. 202. * Unas, 1. 211. & Unas, 1. 218.
+
+6 Unas, 1. 37. 7 Unas, 1. 369. « xjnas, 1. 869.
+
+K k
+
+
+498 MISCELLANEOUS HORUS GODS
+
+Booh of the Dead these titles are also mentioned (Chap, clxxvii. 7)
+
+
+^ P 1 11 ^ ^ ' Hem-shet-hra, ^ ^ ^ f , etc. Finally, in
+the text of Unas (line 462 fF.) we meet with the form of Heru-
+
+
+Thoth, and Horus of Tat, and the star Nekhekh, „^. Heru-Sept
+is a form of Horus, presumably the god of the rising sun, united to
+the particular form of the same god Sept which Avas worshipped
+in the twentieth nome of Lower Egypt, i.e., the nome Sept,
+
+(i^. In the examples given by Signor Lanzone of the various
+
+forms under which Sept is depicted he is sometimes seen in the
+form of a man having upon his head either the symbol A , or double
+plumes, [11 , or a disk, © , and sometimes in the form of a mummied
+hawk, ^ , with plumes on his head, and the symbol A in front of
+him, and the mendt, (^ , on his back. The titles which accompany
+these representations describe him as the " lord of the east," i.e.,
+the eastern part of the Delta and Arabia. On a shrine discovered
+at Saft al-Henna by M. Naville he appears in the form of the god
+
+Bes, J P ^ , who is represented with outspread arms, hands, and
+wings, and with feathers on the top of his head. In this form
+
+
+i.e., the tribes of the Eastern Desert and Arabia. Sept was
+
+
+the " Bull that trampleth on the Menti ; " he was the
+
+
+MISCELLANEOUS HORUS GODS 499
+
+" strengthener of Egypt, and the protector of the temples of the
+gods." ^
+
+The principal seat of the worship of the god was in the
+
+may have stood there also. The female counterpart of Heru-Sept
+was a form of the goddess Hathor to whom, in the twentieth nome
+sanctuary contained some fine nebes ^ trees, hence its name dst
+lion with the tails of a lion and a hawk, and in his hands, which
+are those of a man, he holds a bow and a club ; on his head are a
+disk ^ and plumes. Sept is mentioned even in the Book of the Dead
+with the attributes of a god of war, and in Chapter xvii. (line 30)
+he is said to " thwart the acts of the foes of Keb-er-tcher." In the
+xxxiind Chapter the deceased drives away the Crocodile of the
+South, and says, " I am Sept " ; and in the cxxxth Chapter
+(line 11) we read of the "slaughtering block of the god Septu,"
+
+has been given of the object A which is the symbol of the god
+Sept, but it appears to have been some kind of a triangle ; a figure
+i.e., " the hidden |^ of Khas (?) en-Sept."
+
+^ De Rouge, Geographie Ancienne, p. 141.
+
+^ The Cordia Sebestena, or Zizyphus Lotos W., according to Brugsch, Religion,
+
+^ Lanzone, op. cit., p. 1048.
+
+
+CHAPTER XVI
+
+THE GREAT TRIAD OF MEMPHIS, PTAH, ° § jf ,
+
+
+THE greatest of all the old gods of Memphis was undoubtedly
+Ptah, ° I ^ , or Ptah-neb-ankh, ° | ^c:7 ^ ^ ^, and
+
+his worship, in one form or another, goes back to the earliest part
+of the dynastic period. He has usually been regarded as a form
+of the Sun-god, and as the personification of the rising sun, either
+at the time when it begins to rise above the horizon or immediately
+after it has risen. The name has often been explained to mean
+" Opener," and to be derived from a root which was cognate in
+meaning with the well-known Semitic root pdthakh, nrip^ in fact
+Ptah was thought to be the " Opener " of the day just as Tem was
+considered to be the " Closer " of the day. The chief drawback,
+however, to the acceptance of this derivation is the fact that Ptah
+never forms one of the groups of the chief forms of the Sun-god in
+the texts, and his attributes are entirely different from those of
+Khepera, Tem, Heru, and Ra. Moreover, although the word
+
+ptahj ft , is found in Egyptian it never has the meaning " to
+
+open," in the sense of opening a door, and the determinative which
+follows it,^ *— , proves conclusively that although it does mean
+^' to open" it is always in the sense of "to engrave, to carve, to
+chisel," and the like ; compare Heb. D^-^? " engraving, sculpture."
+The meaning proposed for the name "Ptah" by Dr. Brugsch is
+" sculptor, engraver," and many passages in the texts of all periods
+make it plain that Ptah was the chief god of all handicraftsmen,
+
+^ Brugsch, Worterhuch, p. 528.
+
+
+PTAH THE ARTIFICER 501
+
+and of all workers in metal and stone. What the form of the god
+was originally it is, unfortunately, impossible to say, but from the
+titles which the dynastic Egyptians gave to him it is clear that
+his main characteristics did not change from the period of the
+Ilnd Dynasty to that of the Ptolemies and Eomans. At a very
+early period he was identified with one of the great primeval gods
+of Egypt, and he was called " the very great god who came into
+
+" beginnings, and creator of the egg[s] of the Sun and Moon,"
+" lands, the god of the Beautiful Face in Thebes, who created his
+" own image, who fashioned his own body, who hath established Maat
+throughout the two lands ; " ^ " Ptah, the Disk of heaven, illuminer
+" of the two lands with the fire of his two eyes." ^ In the text of
+
+Teta (lines 87, 97) the "workshop of Ptah," |^ °|, is mentioned, and the general sense of the passages indicates that it was
+Ptah who was believed to fashion the new bodies in which the
+souls of the dead were to live in the Underworld. Ptah, as we
+shall see later from the passages quoted from the Book of the Dead,
+was the great artificer in metals, and he was at once smelter, and
+caster, and sculptor, as well as the master architect and designer
+of everything which exists in the world. The Greeks and the
+Latins rightly identified one form of him with Hephaistos and
+Vulcan.
+
+Ptah was the fellow-worker with Khnemu in carrying into
+effect the commands concerning the creation of the universe which
+were issued by Thoth, and whilst the latter was engaged in
+fashioning man and animals, the former was employed in the
+construction of the heavens and the earth. The large rectangular
+
+, Lanzone, op. cit., p. 240.
+
+
+I AAAAAA IJ
+
+
+502 FORMS OF PTAH
+
+iron slab which formed the floor of heaven and the roof of the sky
+was beaten out by Ptali, and he and his assistants made the stays
+and supports which held it in position. In the character of
+architect of the universe he partakes of the nature of Thoth,
+especially in respect of his title " lord of Maat ; " and, as the god
+who beat out the iron firmament with a hammer and supported it,
+his attributes resemble those of Shu. In other capacities he was
+supposed to be endowed with powers which we are wont to
+associate with other gods, and thus we find enumerated in religious
+and funeral texts Ptah-Asar (Ptah-Osiris), Ptah-Hapi, Ptah-Nu,
+Ptah-Seker, Ptah-Seker-Asar, Ptah-Seker-Tem, Ptah-Tanen,
+and the like. The part which Ptah in his various forms plays in
+the Booh of the Dead is well illustrated by the following: — In
+Chapter iv. he is said to come forth from the Great Temple of the
+Aged One in Annu ; in Chapter xi. the deceased says, " I shall
+" stand up like Horus, I shall sit down like Ptah, I shall be mighty
+^' like Thoth, and I shall be strong like Tem." From Chapter xxiii.
+we learn that Shu or Ptah performed the ceremony of " opening
+the mouth " of the gods with an iron knife ; in Chapter xlii. the
+feet of the deceased are identified with the feet of Ptah ; in
+Chapter Ixiv., line 8, he is said to have covered his sky with
+crystal; Chapter Ixxxii. is a text by the use of which a man
+transforms himself into Ptah, when his tongue becomes like that of
+the god; in Chapter cxlv., line 67, the "writings of Ptah" are
+referred to ; in Chapter cli.A Mestha tells the deceased that he
+has " stablished his house firmly according to what Ptah hath
+commanded ; " and in Chajoter cliii., line 6, the " hook of Ptah "
+is mentioned ; in Chapter clxvi. Ptah is said to overthrow
+the enemies of the deceased (see also Chapter clxxii. 10). In
+Chapter cli. the hair of the deceased is compared to that of Ptah-
+Seker, and in Chapter clxx. this god is said to give him help with his
+Osiris (Chapter xv.) Osiris is addressed as Un-nefer Heru-khuti,
+"lord of the hidden place, and the creator of Het-ka-Ptah (i.e.,
+" ' the House of the Double of Ptah,' or Memphis) ; " finally, Ptah-
+
+
+FORMS OF PTAH 503
+
+Tanen is mentioned in Chapter clxxxiii., line 15, as having caused
+to be inscribed certain decrees concerning Horus upon an " iron
+tablet."
+
+The commonest form in which Ptah is represented is that of a
+bearded man with a bald head who is shrouded in a close-fitting
+garment, from an ojDening in the front of which project his two
+hands ; from the back of his neck hangs the mendt, symbol of
+
+pleasure and happiness, and in his hands he holds a sceptre, j,
+
+and the emblems of "life," -V-, and " stability," u. When standing
+
+upright his feet rest upon a pedestal made in the shape of the
+sign madt / — i, and when seated his throne rests upon a pedestal
+of similar shape. At the back of standing figures of the god we
+
+sometimes see an obelisk, J] , or the tet, u , which symbolizes both
+
+"stability" and the tree trunk in which the body of Osiris was hidden
+
+by Isis. Ptah under his forms of Ptah-Nu, | w) ^_^ Jf j and
+
+
+the great celestial workman and architect with the primeval
+elements of earth and water, and there are no representations
+specially set apart for these forms.
+
+On the other hand, his forms of Ptah-Sekee, or Ptah-Sekee-
+
+
+11. A, must be specially considered. Ptah-Sekee represents
+
+a personification of the union of the primeval creative power
+with a form of the inert powers of darkness, or in other words,
+Ptah-Seker is a form of Osiris, that is to say, of the night sun, or
+dead Sun-god. Sekee is depicted in the form of a hawk-headed
+man in mummied form resembling that of Ptah, and his hands
+project from the front of his close-fitting garment and hold the
+
+emblems of sovereignty and dominion, f , ^ , | ; sometimes he has
+the head of a man and holds in each hand a knife. ^ Seker was
+originally a power of darkness, or of the night, which in later
+times was identified with forms of the night sun like Tem. He is
+
+^ Lanzone, op. cit., pi. 368, N^o. 4.
+
+
+THE SEKER BOAT
+
+
+called " the great god, who came into being
+" in the beginning, he who resteth upon the
+
+" darkness," 1_^(=)T-=^=^'^
+Book of the Dead (line 113) occurs a petition
+in which the deceased begs to be delivered
+from the " great god who carrieth away
+" the soul, who eateth hearts, and who
+" feedeth upon offal, the guardian of the
+" darkness, the god who is in the Seker
+
+," and in the explanation
+
+
+Seker-Asar.
+
+
+" boat,
+
+of the passage which is given in answer to
+the question, " Who is this ? " the god who is
+in the Seker boat is said to be either Suti,
+
+Seker was an ancient spirit or god whose attributes were such that
+he might well be represented by Set, or Suti, the enemy of Ka, or
+by the soul of the earth-god Seb. In comparatively early dynastic
+times Seker was
+exalted to the
+position of god of
+that portion of the
+Underworld which
+was allotted to the
+souls of the inhabitants of Mem-
+phis and the neighbourhood, and it
+is tolerably certain
+that he was regarded as the tute-
+lary deity of the
+necropolis of Sak-
+
+
+SEKER OR HENNU BOAT 505
+
+The Sekee Boat which has been mentioned above is often
+represented on sepulchral monuments and papyri, and it was
+certainly made to play a very prominent part in certain solemn,
+sacred ceremonies. It was not made in the form of an ordinary
+boat, but one end of it was very much higher than the other, and
+was made in the shape of the head of some kind of gazelle or oryx ;
+the centre of the boat was occupied by a carefully closed coffer
+which was surmounted by a hawk with protecting wings stretched
+out over the top of it. This coffer contained the body of the dead
+Sun-god Af, or of Osiris, and it rested upon a framework or sledge
+which was provided with runners. On the great day of the
+festival of Seker which was celebrated in many places throughout
+Egypt, the ceremony of placing the Seker boat upon its sledge was
+performed at sunrise, at the moment when the rays of the sun
+were beginning to spread themselves over the earth. The whole
+ceremony was under the direction of the high priest of Memphis,
+
+whose official title was " Ur kherp hem," ^=* f f ? " ^•®-5 gi'sat chief
+
+of the hammer " ; this official was expected to lift the Seker Boat
+upon its sledge, and to march at the head of the procession of
+priests which drew the loaded sledge round the sanctuary. By
+this action the revolution of the sun and other celestial bodies was
+symbolized, but no texts explaining the symbolism have come
+down to us. From the inscriptions which are found at Memphis
+and in the neighbourhood we know that the office of high priest of
+Ptah was considered to be a most honourable position, and that
+many men of noble family and of high rank held it as far back as
+the period of the Ilnd Dynasty. Now since the priestly office
+existed in those remote times it is only reasonable to assume that
+the Seker Boat also existed, and that the ceremonies with which it
+was used in the later period were also performed in the earlier ;
+the god Seker was, even when the Pyramids were built, an ancient
+god, and the chief characteristics of his worship must be as old as
+the god himself.
+
+The name given to the Seker Boat is " Hennu," 8 "^ ^ ^/,
+and it is mentioned several times in the BooJc of the Dead, and
+sometimes in connexion with traditions of great importance.
+
+
+506 SEKER OR HENNU BOAT
+
+Thus after the Ixivth Chapter we have a rubric which states
+that the composition was found in the masonry below the shrine of
+Hennu during the reign of Semti (Hesepti) a king of the 1st
+Dynasty ; now Hennu can only be the god of the Hennu boat,
+and the shrine of Hennu must be the place where it was kept. A
+most valuable proof of the antiquity of this boat is found on an
+ebony tablet in the British Museum ^ Avhich was made for the royal
+chancellor Hemaka, who flourished during the reign of Semti,
+whose Horus name was Ten. On this we see a representation of
+the king dancing before Osiris, who is seated within a shrine on
+the top of a flight of steps, and in the register immediately below
+it is a figure of the Hennu Boat. The Seker or Hennu Boat was
+probably a form of the Sektet Boat, i.e., the boat in which the
+sun sailed over the sky during the second half of his daily journey,
+and in which he entered the Underworld in the evening, for Ra
+
+the Aged, ^ "1 f^ ? is said to be like Horus, and Ra the Babe,
+been extremely numerous ^ in Lower Egypt in very early dynastic
+times, but it appears that before the great development of Ra
+worship took place, the god Seker was already identified with and
+merged in Ptah, and that these gods were adored together in one
+temple. The forms in which Ptah-Seker is represented are
+interesting, for they illustrate the attributes of the double god, and
+prove that it was Ptah who usurped the characteristics of Seker,
+and that Seker was the older god. Ptah-Seker is often depicted
+in the form of a man who wears upon his head a crown composed
+
+
+a cognate form is perhaps that reproduced by Lanzone ^ in which
+the god, Avho in this case is called " Ptah whose double plumes are
+lofty," has upon his head horns, plumes, and a uraeus, and a uraeus
+upon his forehead. Another interesting form is that of a mummy
+
+with a disk and the two feathers of Maat, J^qR, upon his head.^
+
+Elsewhere he is found in the usual form of Ptah seated upon
+
+* No. 32,650. - See a list given by Lanzone, op. cit., p. 1117.
+
+3 Op. cit., pi. 94, No. 4. i Ibid., pi. 95.
+
+
+PTAH-SEKER-ASAR 507
+
+a throne behind Osiris and followed by Anubis, Horus, son of Isis,
+and Hathor.
+
+Under the name of Ptah-Seker-Asar we find Ptah and
+Seker united with Osiris to form a remarkable triad, which is
+depicted in various ways. A common representation of the god is
+the hawk, with the White Crown and plumes upon his head,
+standing upon a low pedestal, from the front of which projects a
+serpent ; in this form he is often met with on painted coffins and
+sepulchral chests. In the Papyrus of Anhai (Brit. Mus., plate 5)
+the god is seated within a shrine in human form with the crown,
+
+iy , upon his head ; behind him stand Isis and Nephthys. The
+
+titles here given to him are, " Dweller in the secret place, great
+" god, lord of Ta-tchesertet, king of eternity, governor of ever-
+
+I 3 X^ . Before the god is the skin of the pied bull, of which
+
+the head has been cut off, with blood dripping from it into a bowl,
+and perched on the side of the throne is his son Horus in the form
+of a hawk. The cornice of the shrine in which the god is seated
+is composed of uraei with disks on their heads, and before it stand
+
+the Mer goddess of the South, X , wearing a red garment, and
+
+the Mer goddess of the North, "W , wearing a blue garment,
+
+and it is quite clear from the general arrangement of the vignette
+that in the XXIInd Dynasty Ptah-Seker-Asar was wholly
+identified with Osiris. A very interesting form of the triune god
+is that in which he appears as a squat pigmy with a large, bald
+head, and thick limbs ; on the top of his head he usually has a
+beetle, but occasionally plumes are given to him. An examination
+of the variants of this form proves that he was supposed to possess
+all the virile power of Amsu, or Min, and the creative power of
+Khepera, which is symbolized by the beetle, and the youth and
+vigour of Harpocrates, which is represented by the lock of hair on
+the right side of his head; and as sometimes he stands upon a
+crocodile, and holds a serpent in each hand, he must have possessed
+besides the powers of several of the great solar gods. Ptah-Seker-
+Asar is, then, like Osiris, the type and symbol of the resurrection
+
+
+508 PTAH-TANEN
+
+from the dead, and he has been fittingly described as the " triune
+god of the resurrection " ; that he was the outcome of some local
+Memphite belief, or the result of some compromise between the
+priests of Osiris and the priests of the old Memphite god is tolerably certain, but there is no evidence to show exactly what belief,
+or doctrine, or dogma was associated with this mysterious god who
+united within himself the attributes of Seker, and those of Ptah
+the architect and builder of the material world, and of Khepera
+the self-begotten and self-born, and Osiris the giver of everlasting
+life.
+
+Finally must be mentioned Ptah in his connexion with the
+
+
+Ta-thunen, ■■■ £=5 ^ 4"f ^7 or Ta-thu-nenet, __.4-4- ^'
+This god is represented in the form of a man, either sitting or
+standing, who wears on his head the crown, ^y , and holds in his
+hands the symbols of sovereignty and dominion, ^, | , and 1;
+
+in a figure reproduced by Lanzone ^ we see him seated upon the
+oval object, ( — ). Another figure represents the god seated with
+a potter's Avheel before him, which he works with his foot, and on
+the upper part of it is the Qg^ of the world which he is fashioning
+with his hands ; elsewhere he is depicted with a scimitar in his
+right hand, which suggests that in one form he was regarded as a
+destructive power of nature, or as a warrior-god. Tenen, or
+Ta-Tenen, must have been one of the earliest gods of Lower Egypt,
+and have been a personification of a nature power, the exact
+attributes of which appear to have been unknown even to the
+Egyptians. In the early part of the dynastic period it was thought
+that Ptah, the local god of Memphis, might be fittingly identified
+with Tenen, or Ta-Tenen, and his name was, therefore, joined to
+that of the older god, just as in later days the name of Amen was
+joined to that of Ra ; later Tenen and Ta- tenen were merely forms
+and names of Ptah. From a hymn to Ptah -Tenen," which is probably a product of the XXth or XXIst Dynasty, we may gain some
+
+Op. cit., pi. 401, No. 3.
+* For the hieratic text see Lepsius, Denhndler, vi., pi, 118.
+
+
+HYMN TO PTAH-TANEN
+
+
+idea of the meaning of the name Ta-tenen, " Ta," , is of course
+
+" earth," and "Tenen," aaaaaa, is probably to be connected with the
+activity, rest, motionless," and the like, and if this derivation be
+correct Ta-Tenen must be the god of the inert but living matter of
+the earth.
+
+The passage on which this view is based is a very difficult
+one, and appears to read, " There was given to thee a Sekhem
+" (i.e.. Power) upon the earth in its things which were in a state
+" of inactivity, and thou didst gather them together after thou
+" didst exist in thy form of Ta-Tenen, in thy becoming the ' Uniter
+" of the two lands,' which thy mouth begot and which thy hands
+" fashioned." ^ It is, as Dr. Brugsch suggested, quite possible
+that in this passage the writer was not discussing the derivation
+of the name Tenen, or Ta-Tenen, seriously, and was only making
+a play upon the words of similar sound. In the hymn to Ptah-
+Tenen already mentioned we find the following address to the god
+and titles : — " Homage to thee, 0 Ptah-Tenen, thou great god,
+" whose form is hidden ! Thou openest thy soul and thou Avakest
+"up in peace, 0 father of the fathers of all the gods, thou Disk
+" of heaven ! Thou illuminest it with thy two Eyes, and
+" thou lightest up the earth with thy brilliant rays in peace."
+
+
+It
+
+
+AAAAAA
+
+
+I IIIIIIIII
+
+
+(^ III
+
+
+s I
+
+
+s: I
+
+
+called the "begetter of men," (s (*=u)
+
+
+I , the " maker
+
+
+1 A fl
+
+
+NX
+
+w
+
+
+s
+s
+
+
+HYMN TO PTAH-TANEN
+
+
+of their lives," the " creator of the gods," " he who passeth through
+eternity and everlastingness," P J ^ i ^ I "^ , " of multitudinous
+
+
+forms,"
+
+make to him," ^
+
+his own limbs,"
+
+
+ITU
+
+
+D
+
+
+" the hearer of prayers which men
+
+=— -^, and maker of his body,
+
+
+" when as yet heaven and earth were not created, and when the
+" waters had not come forth," ffi (=) ^ W (=) '"
+
+
+AAAAAA
+
+
+" Thou didst knit tos^ether the
+
+
+s
+
+
+" earth, thou didst gather together thy members, thou didst
+" embrace thy limbs, and thou didst find thyself in the condition
+" of the One who made his seat, and who fashioned (or, moulded)
+" the two lands.^ Thou hadst no father to beget thee in thy
+" person, and thou hadst no mother to give birth unto thee ; thou
+" didst fashion thyself without the help of any other being. Fully
+" equipped thou didst come forth fully equipped." ^ Next we have
+
+
+and to the dissipation of night and darkness by the sun and moon,
+which are called the " Eyes " of Ptali-Tenen. The hymn continues,
+Thy feet are upon the earth and thy head is in the heights above
+in thy form of the dweller in the Tuat. Thou bearest up the
+work which thou hast made, thou supportest thyself by thine
+own strength, and thou boldest up thyself by the vigour of thine
+own hands. . . . The upper part of thee is heaven and the lower
+
+
+part of thee is the Tuat." (^ (^
+
+
+I I I
+
+
+i^rii
+
+
+s
+s
+
+
+HYMN TO PTAH-TANEN 511
+
+
+The winds come forth from thy nostrils, and the celestial water
+from thy mouth, and the staff of life (i.e., wheat, barley, etc.),
+proceeds from thy back ; thou makest the earth to bring forth
+fruit, and gods and men have abundance, and they see Meh-urit
+cattle in thy field. When thou art at rest the darkness cometh,
+and when thou openest thy two eyes beams of light are produced.
+Thou shinest in thy crystal form according to [the wont of]
+
+thy majesty The company of the gods of thy supreme
+
+company praise thee, and they acclaim thee at thy rising and
+hymn thee at thy setting in the land of life." A few lines lower
+down Ptah-Tenen is called the ''great god who stretched out the
+heavens, who maketh his disk to revolve in the body of Nut and
+to enter into the body of Nut in his name of Ra, Moulder of
+gods, and of men, and of everything which is produced, maker of
+all lands, and countries, and the Grreat Green Sea in his name of
+Khepee-ta (m.'^Jj Bringer of Hapi ( J^ X^ i^ ) from his
+source, making to flourish the staff of life, maker of grain which
+
+
+who maketh fertile the watery mass of heaven, and maketh to
+come forth the water on the mountains to give life to men
+
+
+who driveth away the flame from those who live in their corners
+in his name of Suten-taui Q ^ "" ^ I), King of eternity
+and everlastingness, and lord of life." Among other titles of the
+
+
+512 SHRINES OF PTAH
+
+
+The. above extracts are sufficient to show the importance of
+the god Ptah-Tenen in the eyes of the Egyptians about B.C. 1100,
+at which time, if we may judge from palaeographical evidence, the
+hymn was probably written, and there is no reason for supposing
+that he was thought less of during any period of Egyptian history.
+The papyrus upon which the text is inscribed is said to have been
+found at Thebes, and there is no doubt that the style of writing
+closely resembles the fine bold hand of the great papyrus of
+Rameses III., king of Egypt about B.C. 1200, which also was
+discovered at Thebes ; we should not, however, expect to find, in
+the city of Amen-Ra, the king of the gods, papyri containing
+hymns to Ptali-Tenen, the god of Memphis, in which this god is
+made to possess all the attributes of all the great gods of Egypt,
+yet such has been, undoubtedly, the case. The fact that the triad
+of Ptah, Sekhet, and Nefer-Tem was Avorshipped at Thebes is
+another proof of the influence which the priests of Heliopolis
+exerted over the religious views of the Thebans in almost every
+period of Egyptian history after the Vlth Dynasty.
+
+Returning now to the consideration of Ptah in his simplest
+form, it must be noted that the principal centre of his worship was
+
+
+in the city of Men-nefer, T A , i.e., Memphis, the capital of
+
+AAAAAA 0 ti
+
+
+Aneb-hetch, ^ y , the first nome of Lower Egypt. The commonest
+
+names for Memphis in the religious texts are : — 1. Ha-nefer,
+
+
+3. Khut-taui, [O^ g^, i.e., "horizon of the two lands."
+
+1 I.e., " House of the Double of Ptah."
+
+
+ASAR-HAPI OR SERAPIS
+
+
+Anebu, y^,
+
+
+4. Het-ka-khnem-neteru,^ P ^ '^ Q 1
+i.e., the " city of walls." 6. Makha-taui,
+
+i.e., "the balance of the two lands." In the city of Memphis or its
+neighbourhood were the temjDles of Ptali, Sekhet, Bast, Hathor,
+Osiris, Seker, and I-em-hetep, the most important being the
+
+Het-aa, | ^ j^. "the house of the Aged One," i.e., Ra. In
+
+
+and acacia trees ; in Hekennut, | ''yr^ ^ ,
+
+Osiris was worshipped ; in Het-utet, J ^
+
+V "^ "^ S ' ^•®'' " ^o^s6 of the begetter," the
+cult of Khnemu was observed ; another sacred
+place was called the "Path of Anubis,"
+
+
+riirrr
+
+
+n I ; and another
+
+
+Y* Ta-het-pa-Aten, ^ ^ f
+
+
+the " House of the Disk"; and in Tepeh-tchat,
+
+The Serapeum, which was discovered
+by M. Mariette in 1868, was known by
+the name of " ISTeter-het per en Asar-Hap,"
+
+§ ^ ^, was the centre of the worship of
+
+
+Seker ; the district of Pa-penat, D
+was the centre of the worship of Bast ; Osiris
+
+
+I AAAAAA i!/ I W
+
+
+Asar-Hapi (Serapis).
+
+was adored in the district of Hekennut,
+
+
+I AAAAAA 4i' I w
+
+adored at TJafet, ^ ^ ©; and Ptah and Sekhet and their son
+
+
+I-em-hetep appear to have possessed temples wherein they were
+worshipped exclusively. The city of Memphis is often called in
+the hieroglyphic texts *' Aneb," a name which is written
+
+
+V
+
+
+1 I.e., " House of tlie Double which uniteth the gods."
+
+2 See cle Rouge, Geogvaphiej pp. 4 f£.
+
+
+l1
+
+
+514 SEKHET AND NEFER-TEM
+
+or Jl '", or nnn "',^ and there is no doubt that the appellation
+of "Walls" was given to it because of its strong fortifications.
+Once a year the priests of Ptah-Seker-Asar formed a solemn
+companied by the king, they marched all round the walls of
+Memphis ; it is probable that the image of this triune god was
+carried in the procession. The god Ptah himself was worshipped
+in a temple on the eastern side of the city called " Aneb-abt,"
+n "f ; the temple of Tenen bore the name of " Aneb Athi," y f| ® •
+and Ptah-Seker-Asar was adored in a temple on the south side of
+the city called " Aneb-rest-f," i.e., " his southern wall," i 3 F ^ •
+
+The whole city was known by the name of " White Wall," ^ 9 @ ?
+to which reference is made by Herodotus^ (iii. 91).
+
+The principal female counterpart of Ptah was the goddess
+
+Sekhet, n ^ "^ , who was at once his sister and wife, and the
+mother of his son Nefer-Tem, and a sister-form of the goddess
+Bast. She is generally depicted in the form of a woman with the
+head of a lioness which is surmounted by the solar disk encircled
+by an uraeus, O, but sometimes the disk is omitted, and a uraeus
+only is seen upon her head. The name of the goddess appears in
+the Pyramid Texts (Unas, line 390), where after the statement
+that Unas hath proceeded from the thighs of the company of
+
+(1 J ^ n A "^ . In comparatively late dynastic times Sekhet and
+Bast were identified with forms of Hathor, and were regarded as
+the goddesses of the West and the East respectively, just as Nekhebet and Uatchet were the goddesses of the South and the North
+respectively. Each goddess had the head of a lioness, but the body
+of Sekhet is said to have been draped in a red garment Avhilst that
+of Bast was arrayed in a green garment. Several special forms of
+Sekhet are known to have existed, viz., Sekhet, lady of Rekht,
+
+1 Brugsch, Diet. Geog., p. 55. ~ Iv rw A^vkw Tct'xet '^4' ^'' Me'/x^i.
+
+
+SEKHET-MEHENET 515
+
+
+lady of Rehesani, (=) ft 1 [j=p , Sekhet, the great lady, the
+
+
+and Sekhet in Nefer (?)-Shuu, J oa ^ ^ © . The principal titles
+of Sekhet were " Mighty lady, lady of Flame, Tefnut in Senemet,"
+
+— AAAAAA 1 . "greatly beloved one of
+
+
+Ptah, lady of heaven, mistress of the two lands," ^ |
+
+
+lands, mistress of Pa-mertet," "^ r=^ | 9 ^ i ^
+
+
+The name " Sekhet " appears to be derived from or connected
+
+
+and the like, and as she was the personification of the fierce,
+scorching, and destroying heat of the sun's rays, these attributes
+would be very suitable for her character. In the form of the
+
+on the head of her father Ra, and poured out from herself the
+blazing fire which scorched and consumed his enemies who came
+near, whilst at those who were some distance away she shot forth
+swift fiery darts which pierced through and through the fiends
+whom they struck. In a text quoted by Dr. Brugsch ^ she is made
+to say, "I set the fierce heat of the fire for a distance of millions
+" of cubits between Osiris and his enemy, and I keep away from
+" him the evil ones, and remove his foes from his habitation." One
+of the commonest names of the goddess is " Nesert," i.e.. Flame, as
+a destroying element, and in texts of all periods she plays the pait
+of a power which protects the good and annihilates the wicked.
+
+
+Var.
+
+
+mrp
+
+
+2 Religion, p. 520.
+
+
+516 SEV'EN GODS OF LEARNING
+
+In some aspects she may be compared with Uatchet, of whom a
+well-known name is " Lady of flame." We have already said that
+in some respects Sekhet may be regarded as a form of Hathor and
+Net, and indeed several of the titles of the last named goddesses
+are bestowed upon her, e.g., " Lady of Amentet, lady of Manu
+" (i.e., the mountain of the setting sun), the queen of the Libyan
+" lands," etc. ; these appear to suggest a western or Libyan origin
+for the goddess.
+
+In connexion with Sekhet and her relationship with Hathor,
+Net, and Maat must be mentioned the Seven Wise Ones of the
+
+
+at the feet of Nu, t=t , in their home in Nehet-rest,
+
+|-T-| ^ JL , and they came forth from the water, from the
+pupil of the Eye of Ra, and they took the form of seven hawks
+Thoth, they presided over learning and letters. The names of
+these Seven Wise Ones, I "^ Cl P ^ ^f) i '" , are: — Nefer-hati,
+Aper-pehui, Neb-Tesheru, Ka, Bak, Khekh, and San.^ Ptah,
+as the master architect and workman who carried out the designs
+of Thoth and his Seven Wise Ones, partook, in some respects, of
+the characteristics of them all, and as Sekhet was his female
+counterpart she appears to have acquired some of their attributes
+also, because Thoth was in reality only a personification of the
+intelligence of Ptah. It is in this way that Sekhet becomes
+identified with the goddess Maat, for Maat was the inseparable
+companion of Thoth, and inasmuch as Thoth was contained in
+Ptah, Maat became the female counterpart of Ptah and a sister
+form of Sekhet. In one of the titles of Sekhet given above, the
+goddess is identified with Tefnut, the female counterpart of Shu ;
+
+
+Religion, p. 522.
+
+
+SEKHET, BAST, PAKHT 517
+
+this need cause no surprise, because Tlioth was only the Hermopolitan form of Shu, and Tefnut was therefore his female counter-
+part, and as Ptah absorbed Thoth, that is to say, Shu, the female
+counterpart of Ptah (i.e., Sekhet) absorbed the female counterpart
+of Thoth, or Shu (i.e., Tefnut). In many texts Sekhet is called
+the " Eye of Ra," ^ , and in a scene reproduced by Lanzone ^ we
+see the goddess in the form of a woman, with the Utchat, "^g , in
+place of a head, kneeling upon a rectangular throne, whilst a hawk
+with outstretched wings stands behind her. Her titles in this
+form are, " Great lady, beloved of Ptah, holy one, powerful one,
+
+" dweller in xit-Tefnut," "^ ^ (v^ .
+
+We have already mentioned the small porcelain figures of
+Ptah-Seker-Asar, and seen how they were intended to represent
+the union of the powers of the three great gods whose names are
+here joined together, and we must now note that on the backs of
+certain examples we find outlined the form of a goddess, who
+might be identified with any of the female counterparts of the
+great gods to Avhom the head of a lioness Avas given by Egyptian
+sculptors and artists. The goddess here found, however, is Bast,
+^ ^ J , who was for some time confounded by Egyptologists with
+the o'oddess Pekheth, £ s=^ _2^ , or Pekhet, _ ^ , or Pekh,
+
+
+solid rock in the mountain near the modern village of Beni
+Hasan in Upper Egypt ; this temple is known by the names of
+" Stabl al-Antar," and '' Speos Artemidos." The name Pekht, or
+Pakht, or Pasht means the " tearer," and is, of course, suitable for
+a goddess who possessed the attributes of the cat or lioness ; this
+
+the supplementary nome of which the city Pekht, ^ , was the
+Sothis, and she Avas identified with Isis and with a form of
+
+1 Op. cit., pi. 364, No. 3. 2 Diet. Geog., pp. 225, 226.
+
+
+518 SEKHET-BAST-RA
+
+Hathor, and also with a form of Sekhet. In the great inscription
+of Beni Hasan (line 18) we find the mention of Horus Pakht,
+in some way connected with one of the forms of Horus, and that
+she was a local deity of great importance.
+
+It is jDrobable that Bast was a female counterpart of the
+triune god Ptah-Seker-Asar, and that she possessed attributes
+which cannot at present be clearly defined. As a nature power
+she represented the gentle, fructifying heat of the sun, and its
+regenerative influence in the most comforting form. In late
+dynastic times Bast, and Sekhet, and Ra formed a deity whose
+existence is made known to us by a Chapter in the Booh of the
+Bead (clxiv.). In the vignette Sekhet-Bast-Ra is represented as a
+woman with a man's head, and wings attached to her arms, and the
+heads of two vultures springing either from her head or neck ; she
+has the phallus of a man and the claws of a lion. One vulture's
+head is like that of Pekhat, ^ I '^ ^ Pn ? and has plumes upon
+it, and the other is like that of an ordinary vulture, and appears
+to have plumes upon it also ; the man's head has upon it the
+united crowns of the South and North, and taken together with
+the phallus they indicate that the body of the woman, who is here
+called Mut, was supposed to possess the generative and procreative
+powers of Ra.
+
+The text which forms the chapter is a very interesting one,
+and reads : — " Homage to thee, 0 Sekhet-Bast-Ra, thou mistress
+of the gods, thou bearer of wings, thou lady of the red apparel
+
+only One, sovereign of her father, superior to whom the
+gods cannot be, thou mighty one of enchantments (or, words
+of power) in the Boat of Millions of Years, thou who art preeminent, who risest in the seat of silence, mother of Pasiiakasa
+
+
+the tomb. Mother in the horizon of heaven, gracious one, beloved,
+destroyer of rebellion, ofl^erings are in thy grasp, and thou art
+
+
+SEKHET-BAST-RA 519
+
+' standing in the bows of the boat of thy divine father to over-
+
+' throw Qetu/ Thou hast placed Maat in the bows of his boat.
+
+Thou art the fire goddess Ammi-seshet (- - ^. flfl li^r}))^
+
+whose opportunity escapeth her not ; thy name is Tekahaeesa-
+
+
+^ , j . Thou art like unto the mighty flame of the
+
+goddess Saqenaqat (^ "^ zi '^ '^ rl) ) ? which is in the
+
+bows of the boat of thy father Haeepukakashaeeshabaiu
+
+for behold, thus is [his] name in the speech of the Negroes, and
+of the Anti, and of the people of Ta-kensetet (Nubia). Praise
+be unto thee, 0 Lady, who art mightier than the gods, words of
+adoration rise unto thee from the Eight Gods of Hermopolis.
+The living souls who are in their hidden places praise the
+mystery of thee, 0 thou who art their mother, thou source from
+which they sprang, who makest for them a place in the hidden
+Underworld, who makest sound their bones and preservest them
+from terror, who makest them strong in the abode of everlastingness, who preservest them from the evil chamber of the souls
+of Hes-hra ^ f Q I 0 ,^3^ wj)? who is among the company
+of the gods. Thy name is Sefi-per-em-Hes-hra-hapu-tchet-f
+
+each side of Sekhet-Bast-Ra in the vignette is a dwarf with
+two faces, one of a hawk and one of a man, and the body of each
+
+is fat ; each has on his head the disk and plumes, ^ , and each
+has one hand and arm raised after the manner of x^Lmsu, or
+Min. The name of one dwarf is Atare-am-tcher-qemtu-rennu-
+
+
+520 FORMS OF NEFER-TEM
+
+
+*^ maketh souls to be as gods, who maketh bodies to be sound, and
+" who delivereth them from the abode of the fiends which is in the
+" chamber of the evil one." According to the Rubric, the deceased
+for whom pictures of the goddess and the two dwarfs were made
+would become like the immortals, and worms would not eat his
+body, and his soul would never be fettered, and he would drink
+water at the source of the river, and would have a homestead of
+his own in Sekhet-Aanre, and he would become a star of heaven,
+
+
+and Nekau, ^__^ [| ^ 1^.
+
+The third member of the Memphite triad is Nefer-Tem,
+
+
+Sekhet, or of Ptah and Pakht, or of Ptah and Bast. He is usually
+represented in the form of a man who holds in his hands either
+
+
+sceptre surmounted by plumes, |; in these forms he is called
+
+" Nefer-Tem ehu taui," and " Nefer-Tem khu taui ankh
+
+blue and green glazed porcelain statues of the god make him to stand
+upon a lion, and sometimes he appears in religious scenes with the
+lotus flower, or the lotus flower and plumes upon his head.^ In
+some cases Nefer-Tem has the head of a lion, and his body has the
+form of a mummy, and consistently with this his hands project
+from a close-fitting garment, and he holds in them the tcham
+
+
+associated with Nefer-Tem, and in the Pyramid Texts we find
+allusions to this fact. Thus in the text of Unas (line 392) the
+dead king is compared to a lotus at the nostrils of the Great
+
+
+on it is said, " Unas hath risen like Nefer-Tem from the lotus to
+
+^ See Lanzone, op. cit., pll. 147 and 148.
+
+
+FORMS OF NEFER-TEM 521
+
+" the nostrils of Ra, and he goeth forth from the horizon on each
+" day, and the gods are sanctified by the sight of him." ^
+
+In the Theban Recension of the Booh of the Dead (xvii. 24) is
+a passage which appears to show that the attributes of Nefer-Tem
+were not well defined, and we find him mentioned in connexion
+with a number of gods in a manner which is hard to explain.
+The text makes the deceased to beseech Ra to deliver him from
+the god " whose form is hidden, and whose eyebrows are like unto
+" the two arms of the Balance on the night of reckoning destruc-
+" tion," and in answer to the question, " Who then is this ? " we
+have the words, " It is An-a-f," i.e., the " god who bringeth his
+" arm," K AA^A/v^ ^..=_ jj ,2 who is usually regarded as a form of
+
+Amsu, or Min. The words " night of reckoning destruction " are
+explained by making them refer to the burning of the damned and
+the slaughter of the wicked on the block of the god by the
+of the Egyptian theologians differed greatly as to the identity of this
+the headsman of Osiris, and others thought he might be Apep,
+with one head, or Horus with two heads, or Horus the Great
+
+remember that Nefer-Tem is the " young Tem," i.e., a god of the
+rising sun, and that the Horus gods and Septu were likewise forms
+of the rising sun, it is evident that Nemu and Apep must have had
+some characteristic in common with the son of Ptah and Sekhet.
+From Chapters Ixxxi., versions a and b, we learn that the deceased
+had power to transform himself into a lotus ; in the first version of
+the text he says, " I am the pure lotus which springeth up from
+'' the divine splendour that belongeth to the nostrils of Ra," and in
+the second we read, " Hail, thou Lotus, thou type of the god
+
+a V — H 1'^ _^5^ ()^pizK _m^ oa /wvwv T ^ ^ ^ =^v^
+
+
+" He is one of the Forty-two Assessors in the Hall of Maati,
+3 See Book of tJie Dead, cliii.A 8, 31, 32 j cliii. 5 ; clxx. 6.
+
+
+522 I-EM-HETEP
+
+" Nefer-Tem ! I am he who knoweth you, and I know your
+" names among the gods, the lords of the Underworld, and I am
+" one of you." The vignette of the first version is a lotus, and
+that of the second is a lotus plant with a flower and buds
+growing out of a ^dooI of water, and out of the flower springs a
+human head, i.e., the head of the deceased.
+
+The idea conveyed by the last vignette seems to have
+originated in the mind of some early writer who was accustomed
+to see the sun rise over the flooded lands of the Delta where the
+lotus grew in abundance. In Chapter clxxiv. 19, the deceased
+says, " I rise like Nefer-Tem, who is the lotus at the nostrils of
+" Ra, when he cometh forth from the horizon each day," and in
+Chapter clxxviii. 36, Nefer-Tem has the same title. We must
+also note that he is the thirty-fourth Assessor in the Hall of
+Maati and that the deceased makes the following address to
+him : — " Hail, Nefer-Tem, who comest forth from Het-ka-
+" Ptah (Memphis), I have not acted with deceit, and I have not
+" worked wickedness." In the late Egyptian texts Nefer-Tem
+is identified with a number of gods, all of whom are practically
+forms of Horus and Thoth, and in consequence the mother of each
+of these gods becomes his mother.
+
+The Egyptian texts prove that besides Nefer-Tem another son
+
+
+third member of the great triad of Memphis ; he was called
+'"IixovOti^ by the Greeks, and possessed many attributes in common
+with their god Aesculapius. The name of I-em-hetep means, " He
+who cometh in peace," and is appropriate to the god who brought
+the art of healing to mankind. The god is represented like Ptah,
+Avith a bald head, and he is depicted in a seated position with a roll
+of papyrus open upon his knees ; he was a god of study and learning in general, but he owed his great power to the knowledge of
+medicine which he possessed. As a god of learning he partook of
+some of the attributes of Thoth, and he was supposed to take the
+place of this god in the performance of funeral ceremonies, and in
+superintending the embalming of the dead ; in later times he
+absorbed the duties of Thoth as "scribe of the gods," and the
+
+
+1-EM-HETEP 523
+
+authorship of the words of power which protected the dead from
+enemies of every kind in the Underworld was ascribed to him.
+In certain aspects the god had a funeral character which somewhat
+resembled that of Ptah-Seker-Asar, although he is not mentioned
+in the Theban Recension of the Booh of the Dead. In the " Ritual
+of Embalmment"^ it is said to the deceased, "Thy soul uniteth
+" itself to I-em-hetep whilst thou art in the funeral valley, and thy
+" heart rejoiceth because thou dost not go into the dwelling of
+" Sebek, and because thou art like a son in the house of his father,
+" and doest what pleaseth thee in the city of Uast (Thebes)." The
+oldest shrine of the god was situated close to the city of Memphis,
+and was called " the Temple of I-em-hetep, the son of Ptah,"
+0 f fi , to which the Greeks gave the name,
+
+the Serapeum, on the edge of that portion of the desert which
+formed the necropolis of the city. Under the Ptolemies a small
+temple was built in honour of I-em-hetep on the Island of Philae ;
+the hieroglyphic inscriptions are those of Ptolemy IV., Philopator,
+but the Greek text over the door was placed there by the command
+of Ptolemy V., Epiphanes. From one of the former we learn that
+the god was entitled, " Great one, son of Ptah, the creative god,
+" made by Thenen, begotten by him and beloved by him, the god
+" of divine forms in the temples, who giveth life to all men, the
+" mighty one of wonders, the maker of times (?), who cometh unto
+" him that calleth upon him wheresoever he may be, who giveth
+
+
+" and most learned one), the image and likeness of Thoth the
+Wise.,
+
+I-em-hetep was the god who sent sleep to those who were
+suffering and in pain, and those who were afflicted with any kind
+of disease formed his special charge ; he was the good physician
+both of gods and men, and he healed the bodies of mortals during
+life, and superintended the arrangements for the preservation of
+the same after death. If we could trace his history to its
+
+1 See Maspero, op. cit., p. 80. 3 Brugscli, Diet. Geog., p. 1098.
+
+3 See Brugscli, Thesaurus, p. 783 ; Religion, p. 527 ; Sethe, Imliotep, 1903.
+
+
+524 1-EM-HETEP AND HERUTATAF
+
+beginning we should find probably that he was originally a very
+highly skilled " medicine man " who had introduced some elementary knowledge of medicine amongst the Egyptians, and who
+was connected with the practice of the art of preserving the
+bodies of the dead by means of drugs, and spices, and linen
+bandages. He was certainly the god of physicians and of all those
+who were occupied with the mingled science of medicine and
+magic, and when we remember that several of the first kings of
+the Early Empire are declared by Manetho, whose statements have
+been supported by the evidence of the papyri, to have written, i.e.,
+caused to be edited, works on medicine, it is clear that the adoration of the god of medicine was in Memphis as old as the archaic
+period. In the songs which were sung in the temple of Antuf,
+the writer says, " I have heard the words of I-em-hetep and of
+
+
+"again, but where are their places this day? Their walls are
+" overthrown, their seats (or places) have no longer any being, and
+" they are as if they had never existed. No man cometh to declare
+" unto us what manner of beings they were, and none telleth us
+" of their possessions," etc. Heru-tata-f, as we knoAv from later
+texts, was a very learned man, even though his speech could only
+with difficulty be understood, and we also know the prominent
+part which he took as a recognized man of letters in bringing to
+the court of his father, Khufu, the magician Tetteta, and how his
+name is associated with the " finding " of certain Chapters of the
+Book of the Dead. Of the sage I-em-hetep, who is mentioned in
+connexion with him, it is difficult not to think that he was famous
+as a skilled physician whose acts and deeds were worthy of being
+classed Avith the words of Heru-tata-f.
+
+From the manner in which these great and wise men are
+referred to it is clear that they, who were the chosen representatives
+of the ablest and most learned among men, had become, even at
+the time when the Songs of Antuf were composed, mythical beings
+in whole or in part, and there is no good reason why I-em-hetep,
+the third member of the triad of Memphis, should not be a
+deified form of a distinguished physician who was attached to the
+
+
+I-EM-HETEP 525
+
+priesthood of Ra, and who flourished before the end of the rule of
+the kings of the Ilird Dynasty. The pictures and figures of the
+god suggest that he was of human and of strictly local origin, but
+it is not evident how he came to usurp the place of Nefer-Tem at
+Memphis, especially as he was not the son of Ptah by Sekhet, or
+Bast, or any form of these goddesses. The worship of I-em-hetep
+was commoner in the Sai'te and Ptolemaic periods than in the
+Early and Middle Empires, and all the bronze figures of the god
+belong to a period subsequent to the XXIInd Dynasty. The
+titles given to him in the inscriptions at Philae may, it is true,
+represent ancient beliefs, but it is improbable, and as he does not
+appear in the Theban Recension of the Booh of the Dead it is
+tolerably certain that his worship was as popular and fashionable
+at Memphis immediately before and during the Ptolemaic period
+as that of Amen-hetep, the son of Hapu, the famous sage who
+had seen and conversed with the gods, was at Thebes about the
+same time.
+
+
+END OF VOL. I.
+
+
+LONDON
+PRINTED BY GILBERT AND RIVINGTON, LD.
+
+ST. John's house, clebkenwell, e.c.

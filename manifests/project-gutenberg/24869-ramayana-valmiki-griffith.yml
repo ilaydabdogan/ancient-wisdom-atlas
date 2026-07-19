@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_24869
+  work_id: hindu.ramayana.valmiki_griffith_gutenberg
+  title: The Rámáyan of Válmíki, translated into English verse
+  source_url: https://www.gutenberg.org/ebooks/24869
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/24869-ramayana-valmiki-griffith.txt
+    checksum:
+      algorithm: sha256
+      value: 4310b710a9c6942490bf8270a8a6620f314dcc2adf7b413833596ca9aaebca6f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/24869-ramayana-valmiki-griffith.md
+    checksum:
+      algorithm: sha256
+      value: 5a3b4c3b733b43a9c72fb0ec1cb484c3ba08b7f3be6276788b1d9174740a02b9
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+    checksum:
+      algorithm: sha256
+      value: 441dd3acb54adff6ec9312d815d6af4c67ba05703ed30fa862dffb77e3492cae
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.ramayana.valmiki_griffith_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Griffith's
+      1870-1874 verse translation is long out of copyright.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

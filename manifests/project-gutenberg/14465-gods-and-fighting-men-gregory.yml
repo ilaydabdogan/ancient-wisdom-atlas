@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_14465
+  work_id: celtic.gods_and_fighting_men.gregory_gutenberg
+  title: Gods and Fighting Men
+  source_url: https://www.gutenberg.org/ebooks/14465
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/14465-gods-and-fighting-men-gregory.txt
+    checksum:
+      algorithm: sha256
+      value: d382692969a230684b01b0e57f45d63d621f5a7b1f43980e2ad21d866abb44ad
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/14465-gods-and-fighting-men-gregory.md
+    checksum:
+      algorithm: sha256
+      value: 760c9f06af779febe47464d1c0c0eff922126272ac08ea48f84d1ad7beb757ef
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+    checksum:
+      algorithm: sha256
+      value: f303e4994fe871c4e4613aeb521032ff21ce464c75e9b4bea060eafb4f5abdf3
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids celtic.gods_and_fighting_men.gregory_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

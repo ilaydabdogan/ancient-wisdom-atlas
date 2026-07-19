@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_thricegreatesth01meadgoog
+  work_id: hermetic.mead.thrice_greatest_hermes.archive_v1
+  title: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  source_url: https://archive.org/details/thricegreatesth01meadgoog
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/thricegreatesth01meadgoog-thrice-greatest-hermes-vol1-mead.txt
+    checksum:
+      algorithm: sha256
+      value: '00931e9ddfbe1732b589f1fe882482bf0ba909121a98b274f3163d4bd7efdc5e'
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/thricegreatesth01meadgoog-thrice-greatest-hermes-vol1-mead.md
+    checksum:
+      algorithm: sha256
+      value: 7155c6676aafaba3290e00d857a10741bb55992141c06deb28d2d882bbc05827
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+    checksum:
+      algorithm: sha256
+      value: 6b9bfb0049cf5b710a82db1d2229cfedf5162054c52a8d9d092c5e5cf428c9a4
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hermetic.mead.thrice_greatest_hermes.archive_v1
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1906, US public domain. Volume I (Prolegomena) of Mead's three-volume
+      set; complements Vol. II already in the queue. Clean readable OCR.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_notesonfolkloreo00dennuoft
+  work_id: african.folklore_of_the_fjort.dennett_archive
+  title: Notes on the Folklore of the Fjort (French Congo)
+  source_url: https://archive.org/details/notesonfolkloreo00dennuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/notesonfolkloreo00dennuoft-folklore-of-the-fjort-dennett.txt
+    checksum:
+      algorithm: sha256
+      value: 8cbe118eceabe2af2b93a5e900935dd7b3364edbf14e78f3eb049a7229e6ec86
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/notesonfolkloreo00dennuoft-folklore-of-the-fjort-dennett.md
+    checksum:
+      algorithm: sha256
+      value: 69983dc677d769a70c6e1faee4b34b757868b9afe0f1e5d766837e6a763fe87a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+    checksum:
+      algorithm: sha256
+      value: 1dee783e0b4bdd86529845d0aed4b6f099e6fc7f548899cb02fc0fe9eac51e42
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.folklore_of_the_fjort.dennett_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898, US public domain. "Fjort" refers to Bakongo/Vili peoples
+      of the Loango coast. Dennett was a trader-observer; tales are recorded from
+      native tellers but framed with colonial-era commentary that must not be extracted
+      as indigenous self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_34081
+  work_id: celtic.myths_legends_celtic_race.rolleston_gutenberg
+  title: Myths & Legends of the Celtic Race
+  source_url: https://www.gutenberg.org/ebooks/34081
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/34081-myths-legends-celtic-race-rolleston.txt
+    checksum:
+      algorithm: sha256
+      value: 80f9c071acdf4afa11af0437e6099b2de242d847cd86d3bf94f9d3fb3c1827e3
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/34081-myths-legends-celtic-race-rolleston.md
+    checksum:
+      algorithm: sha256
+      value: e7f7836020cd56d6f8860efdaa662fb00fe7f7019d9d7b32d164418e896dcc1c
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+    checksum:
+      algorithm: sha256
+      value: 382525e8caaf70364e7d3d5d5d6de6fd517d126b6bbbf0276b20d611873f6288
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids celtic.myths_legends_celtic_race.rolleston_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; author
+      T. W. Rolleston died 1920.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

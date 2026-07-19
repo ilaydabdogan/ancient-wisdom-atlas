@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_cihm_16240
+  work_id: native_american.thompson_river.teit_archive
+  title: Traditions of the Thompson River Indians of British Columbia
+  source_url: https://archive.org/details/cihm_16240
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/cihm_16240-traditions-thompson-river-teit.txt
+    checksum:
+      algorithm: sha256
+      value: daa74f1ad21ddee40160c9fc3031785ea392128e2468fdf6f65f6cc1a9e9b888
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cihm_16240-traditions-thompson-river-teit.md
+    checksum:
+      algorithm: sha256
+      value: 7eb9cf91c307124ea053c3fd617e37ea29d004e4071c9f270af05e07a9f62454
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+    checksum:
+      algorithm: sha256
+      value: 99acd49dfd4fb82da031d4bcb7e92e40e13525e850a37c2f49a1f6872529106a
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.thompson_river.teit_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898, US public domain. Verbatim-close - Teit lived among and
+      married into the Nlaka'pamux and recorded close translations from named narrators,
+      edited by Boas; unusually intimate salvage record. Transformer and guardian-spirit
+      material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

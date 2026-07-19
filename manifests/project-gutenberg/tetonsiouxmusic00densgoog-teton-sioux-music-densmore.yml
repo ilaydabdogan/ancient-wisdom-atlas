@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_tetonsiouxmusic00densgoog
+  work_id: native_american.teton_sioux_music.densmore_archive
+  title: Teton Sioux Music
+  source_url: https://archive.org/details/tetonsiouxmusic00densgoog
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/tetonsiouxmusic00densgoog-teton-sioux-music-densmore.txt
+    checksum:
+      algorithm: sha256
+      value: eb1347901e26106e4f3e9ac836739c68b8325831e40f99cee4c76a2f00d0348b
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/tetonsiouxmusic00densgoog-teton-sioux-music-densmore.md
+    checksum:
+      algorithm: sha256
+      value: f20558dc8f69500b00afda8b7e397db4b88f6b3a68597648a09c9dec018e145d
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+    checksum:
+      algorithm: sha256
+      value: b0306b7cac157ed04c788e3408bdcd7dc77d86500d7bd7ced7c3dcdb14c98648
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.teton_sioux_music.densmore_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - Sun
+      Dance, dream society, sacred stone, and healing songs recorded from named Lakota
+      singers with Lakota words and English translations; includes first-person vision
+      narratives by the singers - exceptional experiential material.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

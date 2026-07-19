@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_hausasuperstitio00tremuoft
+  work_id: african.hausa_superstitions_customs.tremearne_archive
+  title: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the
+    Folk'
+  source_url: https://archive.org/details/hausasuperstitio00tremuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/hausasuperstitio00tremuoft-hausa-superstitions-and-customs-tremearne.txt
+    checksum:
+      algorithm: sha256
+      value: bad036566c439ee55e5b7da059c22698e4657cf83dc3f7d1e3876f961a3ed768
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/hausasuperstitio00tremuoft-hausa-superstitions-and-customs-tremearne.md
+    checksum:
+      algorithm: sha256
+      value: 10fc5107531c919f26151e06db004d4498074e1d7e3c559cca3837a51093d904
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+    checksum:
+      algorithm: sha256
+      value: c1c31250192b638bcf75ed901d4490ae72b4d449c6f8f085c41c6eb22dc23384
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.hausa_superstitions_customs.tremearne_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1913, US public domain. "Superstitions" is a pejorative colonial
+      framing. Tremearne was a colonial officer; the work mixes recorded Hausa folklore,
+      Bori spirit-possession material, and proverbs (some closer to verbatim) with
+      heavy period commentary that must not be extracted as Hausa self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

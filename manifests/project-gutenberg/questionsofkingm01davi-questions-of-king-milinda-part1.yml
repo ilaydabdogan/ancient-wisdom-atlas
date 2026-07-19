@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_questionsofkingm01davi
+  work_id: buddhist.milinda_1.sbe35.rhys_davids_archive
+  title: The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
+  source_url: https://archive.org/details/questionsofkingm01davi
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/questionsofkingm01davi-questions-of-king-milinda-part1.txt
+    checksum:
+      algorithm: sha256
+      value: badedc8eca6e9fee355a90043941e425bf73c1b8da4f95819d3a4723aea94952
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/questionsofkingm01davi-questions-of-king-milinda-part1.md
+    checksum:
+      algorithm: sha256
+      value: c570661b7bafb58dc9e6aae917c648f88cb198953a9c9ead52525a9543f37c4e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md
+    checksum:
+      algorithm: sha256
+      value: 6f36b8462e6587aabcaf6418a0ec88c7462f207a05842182d52b471bf7ed6c0b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids buddhist.milinda_1.sbe35.rhys_davids_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1890, US public domain. Translator introduction precedes the
+      dialogue; extraction should separate apparatus from text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

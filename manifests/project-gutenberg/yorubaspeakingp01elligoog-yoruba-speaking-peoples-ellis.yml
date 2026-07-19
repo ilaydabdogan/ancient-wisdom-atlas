@@ -1,0 +1,75 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_yorubaspeakingp01elligoog
+  work_id: african.yoruba_speaking_peoples.ellis_archive
+  title: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion,
+    Manners, Customs, Laws, Language, Etc.'
+  source_url: https://archive.org/details/yorubaspeakingp01elligoog
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/yorubaspeakingp01elligoog-yoruba-speaking-peoples-ellis.txt
+    checksum:
+      algorithm: sha256
+      value: d86b5a61b9b017b3cf5346e5e16c3693745f120915c4b3c80669697cb71e0795
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/yorubaspeakingp01elligoog-yoruba-speaking-peoples-ellis.md
+    checksum:
+      algorithm: sha256
+      value: 8ac1aad38c390c3ac0a33d0eca1b0782ed46874f720ddbd872317c07cc6d46c1
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+    checksum:
+      algorithm: sha256
+      value: 5ee46d158257fa9f5b771a25ce3108536866b6ef934175fa94522fc11d73d138
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.yoruba_speaking_peoples.ellis_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1894, US public domain. Cultural sensitivity - a colonial military
+      officer's ethnography of a living religion, with period biases and errors; it
+      documents orisha worship, Ifa divination, and proverbs secondhand. No public-domain
+      English translation of the Ifa Odu corpus itself exists - this is an imperfect
+      documentary proxy, and its interpretive framing must not be extracted as Yoruba
+      self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_jatakaorstorieso03cowe
+  work_id: buddhist.jataka.cowell_vol3_archive
+  title: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  source_url: https://archive.org/details/jatakaorstorieso03cowe
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/jatakaorstorieso03cowe-jataka-cowell-vol3.txt
+    checksum:
+      algorithm: sha256
+      value: 5cb7b9fa87f1f81f53a5084e0f3d0475cb2f66f6fa47116b05ea6039a2b087a0
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/jatakaorstorieso03cowe-jataka-cowell-vol3.md
+    checksum:
+      algorithm: sha256
+      value: 8d8ddbd3c3c07e6a6ce4887c971418e910ba8b42647cef1d6e158bf7311ab9b6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+    checksum:
+      algorithm: sha256
+      value: 50c40086478275e7a576747dfd5e6cd01a3605214bfab9420c4e33884ee17673
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids buddhist.jataka.cowell_vol3_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1897 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Volume 3 of the complete six-volume Cambridge Jataka.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_inshadowofbush00perc
+  work_id: african.in_the_shadow_of_the_bush.talbot_archive
+  title: In the Shadow of the Bush
+  source_url: https://archive.org/details/inshadowofbush00perc
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/inshadowofbush00perc-in-the-shadow-of-the-bush-talbot.txt
+    checksum:
+      algorithm: sha256
+      value: 1e19e737439eb57ccac7ff007af15780859065b9ab874fd912586a74ec22442e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/inshadowofbush00perc-in-the-shadow-of-the-bush-talbot.md
+    checksum:
+      algorithm: sha256
+      value: 6e938ad2c652f2b09785438c50000b3c279f0a99b189166138728250ca7c6bbb
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+    checksum:
+      algorithm: sha256
+      value: edad2fd3d9e5145c35983be6ccce811f7949100535f466b4e7f6901fbe06110e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.in_the_shadow_of_the_bush.talbot_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1912, US public domain. Talbot was a colonial district officer
+      in southern Nigeria. This is ETHNOGRAPHIC PARAPHRASE of the Ekoi (Ejagham) of
+      the Cross River - secret societies, the Nsibidi ideographic script, folklore,
+      and religion - with recorded tales embedded. Colonial framing must not be extracted
+      as Ekoi self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

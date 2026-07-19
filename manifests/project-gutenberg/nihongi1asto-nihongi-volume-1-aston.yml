@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_nihongi1asto
+  work_id: shinto.nihongi.volume_1.aston_archive
+  title: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    1'
+  source_url: https://archive.org/details/nihongi1asto
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/nihongi1asto-nihongi-volume-1-aston.txt
+    checksum:
+      algorithm: sha256
+      value: '09d36fc2ab98e62472a24d7bea48007ddbf09e98b515b1b9d94350d4f343c91f'
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/nihongi1asto-nihongi-volume-1-aston.md
+    checksum:
+      algorithm: sha256
+      value: c9f038c3924eaedf87b0f22e7c66e28f6db8268066ad333ec04cfdc575ca3103
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+    checksum:
+      algorithm: sha256
+      value: 85520b529d154cd9d6ad5f7188ff6f5878304d64ff4b51f0a695d3d3f7aaf6d4
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids shinto.nihongi.volume_1.aston_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1896, US public domain. OCR of first pages is noisy (cover art);
+      body text is clean enough for conversion with a trimming pass.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

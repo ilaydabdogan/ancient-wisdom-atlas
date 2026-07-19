@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_cu31924028663882
+  work_id: native_american.myths_of_the_modocs.curtin_archive
+  title: Myths of the Modocs
+  source_url: https://archive.org/details/cu31924028663882
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/cu31924028663882-myths-of-the-modocs-curtin.txt
+    checksum:
+      algorithm: sha256
+      value: 414dc3869a9a49c779704dedb4555ec7bf44dab50e619a956057653ad25e213e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/cu31924028663882-myths-of-the-modocs-curtin.md
+    checksum:
+      algorithm: sha256
+      value: 9e5541a50741a603615fcbd0ee50821a26de1d2a5a3e96e2d3f05789c162a39e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+    checksum:
+      algorithm: sha256
+      value: 1160318732a838e840dddc1da8a75a4223093e9c7437665dce393ea5cb6ff499
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.myths_of_the_modocs.curtin_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1912, US public domain. Verbatim-close but literary - recorded
+      by Curtin from Modoc narrators exiled to Indian Territory after the Modoc War;
+      polished English (mid-ladder). Post-war exile context is historically charged;
+      handle with care.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

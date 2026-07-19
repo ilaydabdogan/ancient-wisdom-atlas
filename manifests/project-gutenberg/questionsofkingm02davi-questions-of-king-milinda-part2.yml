@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_questionsofkingm02davi
+  work_id: buddhist.milinda_2.sbe36.rhys_davids_archive
+  title: The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36)
+  source_url: https://archive.org/details/questionsofkingm02davi
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/questionsofkingm02davi-questions-of-king-milinda-part2.txt
+    checksum:
+      algorithm: sha256
+      value: cb6b458673551f3cab6a6851d770f1c610602ab26e76b47d740f0702fb2de74d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/questionsofkingm02davi-questions-of-king-milinda-part2.md
+    checksum:
+      algorithm: sha256
+      value: a8cf7840c4e7ef5421db85aa8a767a05e0956e2f8b8354b274d0fbf118f8cd31
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md
+    checksum:
+      algorithm: sha256
+      value: 322294ce6792f35f27217fdf44d8d98ff751d15a4a4779168ea5f22d7c82dfd5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids buddhist.milinda_2.sbe36.rhys_davids_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1894, US public domain. Completes the dialogue including the
+      dilemmas and the similes of arahatship.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

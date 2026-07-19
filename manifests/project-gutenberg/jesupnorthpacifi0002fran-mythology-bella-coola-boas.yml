@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_jesupnorthpacifi0002fran
+  work_id: native_american.mythology_bella_coola.boas_archive
+  title: The Mythology of the Bella Coola Indians
+  source_url: https://archive.org/details/jesupnorthpacifi0002fran
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/jesupnorthpacifi0002fran-mythology-bella-coola-boas.txt
+    checksum:
+      algorithm: sha256
+      value: 3b971b3b31f6efd29022e6e8544738d15e165170923f17edd6cd7cc00061db40
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/jesupnorthpacifi0002fran-mythology-bella-coola-boas.md
+    checksum:
+      algorithm: sha256
+      value: f7fb860a70c367ec5b6e0545106ff881f9bb7e3eda156e53898d7b9c280fc2d4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+    checksum:
+      algorithm: sha256
+      value: 98c5b0fd5672a4056ee9de0f541e163c7cc24b852db5e9a9527fb9623b689ec5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.mythology_bella_coola.boas_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898, US public domain. Recording context - Boas's field record
+      of Nuxalk cosmology, notable for its unique five-layered heaven and systematized
+      pantheon unlike neighboring Northwest Coast traditions; close translation with
+      Boas's cosmological synthesis.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

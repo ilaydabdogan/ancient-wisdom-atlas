@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_mlbd.sacredbooksofeas0000fmax.vol.28
+  work_id: chinese.li_ki_2.sbe28.legge_archive
+  title: 'The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism,
+    Part IV; Sacred Books of the East, Vol. 28)'
+  source_url: https://archive.org/details/mlbd.sacredbooksofeas0000fmax.vol.28
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/mlbd.sacredbooksofeas0000fmax.vol.28-li-ki-part2-legge.txt
+    checksum:
+      algorithm: sha256
+      value: '05398eae287d237392e41a8e883e8ea0bd7d6e5f6a2ecbbf6332a69d47819300'
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/mlbd.sacredbooksofeas0000fmax.vol.28-li-ki-part2-legge.md
+    checksum:
+      algorithm: sha256
+      value: 81f02f781cde230ee6817a7bebcfb43b3e7ac99f06c5a80ed981441750400b9b
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md
+    checksum:
+      algorithm: sha256
+      value: 29c62e745acb7911bcf6f5905af836c854e51a527f4fdb1660e86aa8c39c89de
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids chinese.li_ki_2.sbe28.legge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Legge's translation published 1885, US public domain. Scan is a modern
+      reprint of the public-domain edition; reprint front matter should be dropped
+      at conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

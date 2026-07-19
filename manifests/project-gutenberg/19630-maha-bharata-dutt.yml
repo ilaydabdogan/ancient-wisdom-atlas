@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_19630
+  work_id: hindu.mahabharata.dutt_condensed_gutenberg
+  title: Maha-bharata
+  source_url: https://www.gutenberg.org/ebooks/19630
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/19630-maha-bharata-dutt.txt
+    checksum:
+      algorithm: sha256
+      value: 66333234bb4e14a3547027c19382e18c8af522f4717e53ae0380abdd82b96832
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/19630-maha-bharata-dutt.md
+    checksum:
+      algorithm: sha256
+      value: 37e40d90d1e8cbd7b18c82f01dd8d28a7541ecbb919f9ae4ad77c454521a0f61
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md
+    checksum:
+      algorithm: sha256
+      value: 538356791bb26c00657577b101c5a78d83deb80e6d5a4f7dbc7f626417ef9856
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.mahabharata.dutt_condensed_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Dutt's
+      1899 condensation is long out of copyright. Distinct work from the Ganguli prose
+      translation - a compact verse rendering of the core episodes.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

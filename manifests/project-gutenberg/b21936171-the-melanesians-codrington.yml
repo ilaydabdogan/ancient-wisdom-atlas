@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_b21936171
+  work_id: melanesian.the_melanesians.codrington_archive
+  title: 'The Melanesians: Studies in Their Anthropology and Folk-Lore'
+  source_url: https://archive.org/details/b21936171
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/b21936171-the-melanesians-codrington.txt
+    checksum:
+      algorithm: sha256
+      value: 4e7cc581663e2b2d6f7ecdf54e8e687a2effcc32f9324ce1481b66d50a83c1f3
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/b21936171-the-melanesians-codrington.md
+    checksum:
+      algorithm: sha256
+      value: e8c86dd0c8b11ff08ba6369a824706f2d87d13e2cb3063f5ce3ad43382d67b14
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+    checksum:
+      algorithm: sha256
+      value: ca035183959f951ee5072a435773e648d2ce36526afc34301ff35d43095c4669
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids melanesian.the_melanesians.codrington_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1891, US public domain. Recording context - Codrington was an
+      Anglican missionary with 25 years in Melanesia and strong language competence;
+      the myth and folklore chapters include narratives from named islands, but the
+      whole is missionary ethnography of living traditions. Extract the stories and
+      mythology chapters; mana and ghost material remains religiously significant.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_jainasutrasparti029233mbp
+  work_id: jain.jaina_sutras.sbe22.jacobi_archive
+  title: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books
+    of the East, Vol. 22)'
+  source_url: https://archive.org/details/jainasutrasparti029233mbp
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/jainasutrasparti029233mbp-jaina-sutras-part-1-jacobi.txt
+    checksum:
+      algorithm: sha256
+      value: acda505fc10126bae07ff38749f6ba909d4f662b15a33be61051ddeff7d806af
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/jainasutrasparti029233mbp-jaina-sutras-part-1-jacobi.md
+    checksum:
+      algorithm: sha256
+      value: ac106e8299e3828323a35104977bcb845a7f9acd7ef7694ca6cb0e600bff677a
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+    checksum:
+      algorithm: sha256
+      value: 61ab4809459ae127e83d1a69e089f857ffa0bf9eb319d719b9a2d7c9b7e787b1
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids jain.jaina_sutras.sbe22.jacobi_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Jacobi's translation published 1884, US public domain. Scan is of a reprint;
+      strip library stamps and reprint front matter. Underlying text unchanged from
+      1884 edition.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

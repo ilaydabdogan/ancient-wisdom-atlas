@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_melanesiansofbri00seli
+  work_id: melanesian.melanesians_british_new_guinea.seligman_archive
+  title: The Melanesians of British New Guinea
+  source_url: https://archive.org/details/melanesiansofbri00seli
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/melanesiansofbri00seli-melanesians-british-new-guinea-seligman.txt
+    checksum:
+      algorithm: sha256
+      value: a3600b09480627ef2bc51f7ff50f5dda12dc251b051aac2d68ea6deb9669adc8
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/melanesiansofbri00seli-melanesians-british-new-guinea-seligman.md
+    checksum:
+      algorithm: sha256
+      value: cd6bf309f190b13a2fd1364d501f6c4c342209737897eec48065cf680691b5d6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+    checksum:
+      algorithm: sha256
+      value: 8f1d243d9d02697e86c961048690a54203442adf494ae56610ff6f774ea015b2
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids melanesian.melanesians_british_new_guinea.seligman_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1910, US public domain. Recording context - systematic field
+      ethnography with legend and spirit-belief chapters for several distinct coastal
+      Papuan groups; myth material is close paraphrase with group attribution, not
+      verbatim texts. Complements the already-ingested Codrington (island Melanesia)
+      with mainland New Guinea traditions.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_lifeofsouthafric01junouoft
+  work_id: african.life_south_african_tribe_1.junod_archive
+  title: The Life of a South African Tribe, Vol. I (The Social Life)
+  source_url: https://archive.org/details/lifeofsouthafric01junouoft
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/lifeofsouthafric01junouoft-life-south-african-tribe-junod-vol1.txt
+    checksum:
+      algorithm: sha256
+      value: c93822366c2c7c1d36e36e43aca1e94febff124932a9b85bff6691c22502f661
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/lifeofsouthafric01junouoft-life-south-african-tribe-junod-vol1.md
+    checksum:
+      algorithm: sha256
+      value: a15b16ff72fffab55066bc67ab0a9faa3f42500074b92e5a53e3732f8cf7bf8e
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+    checksum:
+      algorithm: sha256
+      value: 4929e1b9ab0403c737b4c23c3fc742a91d09ccfb33e9050b0e7ffb1dc27ac946
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.life_south_african_tribe_1.junod_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1912, US public domain. Recording context - Junod spoke Thonga
+      fluently and names his informants; Vol. I covers life-cycle and social ritual
+      with embedded songs and formulae; missionary framing to be handled source-critically.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

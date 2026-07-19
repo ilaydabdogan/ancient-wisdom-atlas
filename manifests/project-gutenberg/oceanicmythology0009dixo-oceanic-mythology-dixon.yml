@@ -1,0 +1,74 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_oceanicmythology0009dixo
+  work_id: oceanic.oceanic_mythology.dixon_archive
+  title: Oceanic Mythology
+  source_url: https://archive.org/details/oceanicmythology0009dixo
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/oceanicmythology0009dixo-oceanic-mythology-dixon.txt
+    checksum:
+      algorithm: sha256
+      value: 04a7384e7c4cc805ca812012e729978cb9998f27d6c4c3306d7ab3fb0db44169
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/oceanicmythology0009dixo-oceanic-mythology-dixon.md
+    checksum:
+      algorithm: sha256
+      value: 5ab5eff049a7abd783ba6055e750f33cb8f7a190d1b7cc32537e53caa85b4099
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+    checksum:
+      algorithm: sha256
+      value: 5ac8ab1b8ab2dce616adbe2bdcbb033f913418f04f944ab649b4520790b33a6b
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids oceanic.oceanic_mythology.dixon_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1916, US public domain. IMPORTANT - this is a SECONDARY COMPARATIVE
+      SYNTHESIS, not a field record. Dixon summarizes and compares Polynesian, Melanesian,
+      Micronesian, Indonesian, and Australian myths from other collectors. Useful
+      as a cross-index and for motif coverage, but it must NOT be treated as verbatim
+      or as any culture's self-description; prefer the primary field sources it cites.
+      Flagged low priority accordingly.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

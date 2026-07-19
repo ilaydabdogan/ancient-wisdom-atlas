@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_44536
+  work_id: georgian.georgian_folk_tales.wardrop_gutenberg
+  title: Georgian Folk Tales
+  source_url: https://www.gutenberg.org/ebooks/44536
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/44536-georgian-folk-tales-wardrop.txt
+    checksum:
+      algorithm: sha256
+      value: d7dc1a9ffdf98a4ed2165c1e29ed8631eb79d3b572e297dfe928f4ee3c9f321e
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/44536-georgian-folk-tales-wardrop.md
+    checksum:
+      algorithm: sha256
+      value: 05150e661c665c980124328ae131fd3b2013aec7fcc9b4e7d854841284d513af
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+    checksum:
+      algorithm: sha256
+      value: c43a97e0ed642e0562a246bac4621c9f6dc510184fa6b9623290af60fbd7d6cd
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids georgian.georgian_folk_tales.wardrop_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; translator
+      Marjory Wardrop died 1909.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

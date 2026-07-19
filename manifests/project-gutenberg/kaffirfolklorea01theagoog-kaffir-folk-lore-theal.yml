@@ -1,0 +1,74 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_kaffirfolklorea01theagoog
+  work_id: african.kaffir_folk_lore.theal_archive
+  title: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the
+    People Living on the Eastern Border of the Cape Colony'
+  source_url: https://archive.org/details/kaffirfolklorea01theagoog
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/kaffirfolklorea01theagoog-kaffir-folk-lore-theal.txt
+    checksum:
+      algorithm: sha256
+      value: 3523bc58988eae234dfe2d85edd3e6f7033093691b8fa9aa673accb5ed1c8c41
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/kaffirfolklorea01theagoog-kaffir-folk-lore-theal.md
+    checksum:
+      algorithm: sha256
+      value: 51c84a11f80833396a86e8553a9960de7084bf0241228060c8b55d23c5e83aac
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+    checksum:
+      algorithm: sha256
+      value: 4e127a0a3e8de719866c12f03a953bc74d4d28721813151e4217c91a69c83e83
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.kaffir_folk_lore.theal_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1886, US public domain. The exonym "Kaffir" is an offensive colonial
+      term; the material is Xhosa/southern-Nguni. Tales were collected from native
+      tellers and are relatively close to verbatim, but Theal's Victorian editorial
+      framing and the period title carry colonial bias that must not be extracted
+      as Xhosa self-description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

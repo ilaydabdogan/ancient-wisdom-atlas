@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_shansathomewitht00milnrich
+  work_id: shan.shans_at_home.milne_archive
+  title: Shans at Home, With Two Chapters on Shan History and Literature
+  source_url: https://archive.org/details/shansathomewitht00milnrich
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/internet-archive/shansathomewitht00milnrich-shans-at-home-milne.txt
+    checksum:
+      algorithm: sha256
+      value: 9428e6db44ec59d3d95f7e30e5367ccf24136bca2d3b5167320ccc9bd789da82
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/shansathomewitht00milnrich-shans-at-home-milne.md
+    checksum:
+      algorithm: sha256
+      value: 455fde4fa74d1033b37faf4a57d6653493f252f55d3c30c5d02c9327c8cc4ebe
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md
+    checksum:
+      algorithm: sha256
+      value: 3ffa70667a05a1b429d399c6b678136af15daa2e9539a43e61765b8a00f3f586
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids shan.shans_at_home.milne_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1910, US public domain. Ethnographic study with embedded folk
+      tales, spirit beliefs, and ceremonies; extraction should target the folklore,
+      cosmology, and rite-of-passage chapters and treat ethnographic framing as apparatus.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

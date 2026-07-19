@@ -1,0 +1,68 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_10717
+  work_id: greek.pindar.odes.myers_gutenberg
+  title: The Extant Odes of Pindar
+  source_url: https://www.gutenberg.org/ebooks/10717
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/10717-extant-odes-of-pindar-myers.txt
+    checksum:
+      algorithm: sha256
+      value: d8823d133ebb59059827379baca2af38ba5e36209d3d7fd553c0f5976dde5074
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/10717-extant-odes-of-pindar-myers.md
+    checksum:
+      algorithm: sha256
+      value: fccdf91793485e40c6c373447ca6b82d3d450f2b20209123a2d500f597affcfa
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+    checksum:
+      algorithm: sha256
+      value: 7009dacd2872aeef9082d468f0c1e82c25c43312b8f41bca90e1e096dd675b23
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.pindar.odes.myers_gutenberg
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    full_text: allowed
+    training_use: allowed
+    notes: Project Gutenberg records US public-domain status; Myers's complete prose
+      translation of the four books of victory odes.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

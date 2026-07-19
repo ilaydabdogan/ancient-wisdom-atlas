@@ -1,0 +1,4361 @@
+---
+id: native_american.gros_ventre.kroeber_archive
+title: Gros Ventre Myths and Tales
+alternate_titles:
+- Gros Ventre Myths and Tales (AMNH Anthropological Papers vol. I part 3)
+text_status: complete
+tradition: native_american_plains
+culture: gros_ventre_field_recorded_myths
+region: north_america_northern_plains
+source_language: Gros Ventre (A'aninin, Algonquian)
+text_language: English
+date_range: living oral traditions; recorded 1901 from named narrators; published
+  1907 (Anthropological Papers of the AMNH vol. I part 3)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.grosventremythst00kroe
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1907 American Museum
+    of Natural History edition
+  translator: Alfred L. Kroeber
+  editor: ''
+  publication_year: 1907
+  publisher: Internet Archive
+  source_url: https://archive.org/details/grosventremythst00kroe
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1907, US public domain. Verbatim-close English translations from
+    named A'aninin (Gros Ventre) narrators. Salvage ethnography on a small lineage
+    closely related to the Arapaho, allowing fine-grained lineage-pair comparison.
+    Ceremonial origin narratives are community-sensitive.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- gros_ventre
+- aaninin
+- algonquian
+- plains
+- verbatim_texts
+- holdout_priority
+motifs:
+- flood
+- earth_diver
+- trickster
+- star_husband
+- culture_hero
+figures:
+- Nixant
+- Found-in-Grass
+---
+
+# Gros Ventre Myths and Tales
+
+. . .  '■  ^**
+
+
+iq
+
+
+V^  <.  'O   .     .  \5  ^^    /.   5^  A.
+
+
+\^y
+
+
+U
+
+
+%.
+
+
+i^/T'/
+
+
+>
+
+
+I
+
+
+\^
+
+
+u
+
+y*
+
+
+■*'V.
+
+
+Is
+
+
+?-
+
+
+%^
+
+
+ANTHROPOLOGICAL  PAPERS
+
+
+OF    THE
+
+
+American  Museum  of  Natural
+History.
+
+
+Vol.  I.  Part  HI.
+
+
+GROS   VENTRE    MYTHS   AND    TALES.
+
+BY
+A.  L.  KROEBER.
+
+
+NEW  YORK:
+
+Published  by  Order  of  the  Trustees.
+
+May,    1907.
+
+
+Wonofffanh
+
+
+.r|sl  t^l
+
+
+x\
+
+
+h
+
+
+ryc/
+
+
+0'
+
+
+ANTHROPOLOGICAL  PAPERS
+
+OF    THE
+
+American  Museum  of  Natural  History
+
+Vol.   I,     Part  III.
+
+
+GROS   VENTRE  MYTHS  AND  TALES.
+
+By  a.  L.  Kroeber.
+
+CONTENTS.
+
+
+Introduction'  .......
+
+Myths  and  Tales
+
+1.  The  Making  of  the  Earth  .
+
+2.  Origin  Myth
+
+3.  Tebiaanta",  the  Two  Women,  the  Bald  Eagle,
+
+4.  Nix'a^t  obtains  Summer  and  the  Buffalo
+
+5.  Nix'a^t  is  taught  to  call  Buffalo
+
+6.  Nix 'ant  and  the  Mouse     ....
+
+7.  Nix 'a^t  and  the  Mice's  Sun-dance    .
+
+8.  Nix  VH  eats  Fat
+
+9.  Nix  Vt  eats  Hiitceni         ....
+
+10.  Nix'a'H  and  the  liird  with  the  Large  Arrow
+
+11.  Nix 'a^t  toses  his  Eyes       ....
+
+12.  Nix 'a"t  kills  his  Wife        ....
+
+13.  Nix  'a^t  and  the  Bear-Women  .
+
+14.  Nix'a^t  and  the  Dancing  Ducks
+
+15.  Nix 'a"t's  Adventures         ....
+(a)     With  the  Mice's  Sun-dance
+
+(5)     With  the  Women  who  loused  him
+
+(c)  With  his  Daughters    ....
+
+(d)  With  the  AVoman  who  crossed  the  River
+
+(e)  With  the  Sleeping  Woman
+
+(/)     With  the  Buffalo  he  called  anil  the  Rabbit
+
+16.  One-eyed  Owl  and  his  Daughter
+
+17.  The  Man  who  went  to  War  with  his  Mother-in-
+
+18.  The  Kit-fox  and  the  Ghost
+
+19.  Found-in-the-Grass    .         .         .•        .
+
+20.  Clotted-Blood
+
+55
+
+
+nd  N
+
+
+law
+
+
+"t
+
+
+P.\GE
+
+57
+59
+59
+59
+61
+65
+67
+68
+68
+69
+69
+69
+70
+70
+70
+71
+71
+71
+72
+73
+74
+74
+75
+75
+76
+77
+77
+82
+
+
+56
+
+
+Atithropologica!  Papers  American  Museum  of  Xatural  History.        [Vol.  I,
+
+
+21.  Moon-Child
+
+22.  The  Boy  who  was  raised  by  the  Seven  Bulls
+
+23.  White-Stone
+
+24.  The  Women  \^'ho  married  the  Moon  and  a  Buffalo
+
+25.  The  Women  who  married  a  Star  and  a  Buffalo
+
+26.  The  Deserted  Children
+
+27.  The  Girl  who  became  a  Bear
+
+28.  Shell-Spitter       ....
+
+29.  Yellow-Plume  and  Blue-Plume
+
+30.  The  Swallows  and  the  Snake
+
+31.  The  Origin  of  the  Tsooyanehi  Degree  of  the  Dog-dance
+
+32.  The  Origin  of  the  Chief  Pipe
+
+33.  Separation  of  the  Tribe
+
+34.  The  Cave  of  the  Buffalo     .
+
+35.  The  Woman  and  the  Black  Dog
+
+36.  The  Man  born  from  a  Horse
+
+37.  The  Woman  and  the  Horse
+
+38.  The  Little  Girl  who  was  married  by  a  Bear
+
+39.  The  Young  Man  who  became  a  Water-monster
+
+40.  The  Woman  who  was  recovered  from  a  Water-monster
+
+41.  The  Man  who  killed  Hawks
+
+42.  The  Man  who  was  killed  by  a  Bullet-hawk
+
+43.  The  Man  who  was  killed  by  a  Bald  Eagle
+
+44.  The  Woman  who  tempted  and  betrayed  her  Brother-in-law
+
+45.  The  Woman  who  tried  to  betray  her  Brother-in-law
+
+46.  The  Bad  Wife
+
+47.  The  Man  who  acquired  Invulnerability
+
+48.  The  Man  who  recaptured  his  Wife
+
+49.  The  Woman  who  married  the  Snake  Indian
+
+50.  The  Woman  who  revenged  her  Brothers    .
+
+
+Abstracts
+
+
+P.\GE
+
+90-
+
+94
+97
+100
+101
+102
+105
+108
+109
+111
+111
+112
+112
+112
+113
+113
+114
+115
+115
+117
+117
+117
+118
+118
+119
+120
+122
+125
+126
+128
+130
+
+
+INTRODUCTION.
+
+The  Gros  Ventre  myths  and  tales  herewith  presented  do  not  exhaust
+the  traditions  of  the  tribe:  they  include,  however,  the  majority  of  the  more
+important  stories  known  to  them,  and  are  probably  representative  of  the
+mythology  and  tales  of  the  tribe.  They  were  collected  in  the  winter  and
+early  spring  of  1901,  at  the  Fort  Belknap  Reservation  in  northern  Montana,
+as  part  of  the  work  of  the  ISlrs.  Morris  K.  Jesup  Expedition.
+
+Naturally  there  are  many  similarities  to  the  Arapaho  traditions.  As  a
+larger  body  of  Arapaho  traditions  has  been  published  with  extended  com-
+parative notes,^  such  notes  have  not  been  added  to  the  present  Gros  Ventre
+traditions;  but  references  have  been  made  to  the  corresponding  Arapaho
+versions,  under  which  the  comparisons  will  be  found.
+
+Among  the  more  important  Arapaho  traditions  and  episodes  which
+have  a  widespread  distribution,  but  which  have  not  yet  been  found  among
+the  Gros  Ventre,  are  the  story  of  the  origin  of  death;  of  the  woman  who
+married  a  dog;  of  the  young  man  who  disguised  himself  us  a  woman,  and
+cut  off  seven  heads;  of  the  well-known  imitation  of  the  host  by  the
+trickster  in  various  ways;  of  the  diving  through  the  ice  by  the  trickster  to
+obtain  food  in  imitation  of  his  host;  of  the  young  man  who  was  tempted
+by  his  sister-in-law,  and  then  buried  in  a  pit  by  her;  of  the  turtle's  war-
+party;  of  the  deceived  blind  man,  a  favorite  Eskimo  and  northern  Atha-
+bascan tradition;  and  the  well-known  Plains  story  of  the  buffalo  and  elk
+women,  or  buffalo  and  corn  women.  The  story  of  the  girl  who  was  born
+from  the  foot  of  a  young  man  exists  among  the  Gros  Ventre,  but  was  not
+obtained.  It  is  very  probable  that  some  of  these  stories  will  be  found
+among  the  Gros  Ventre.  An  account  of  the  origin  of  death  similar  to  that
+of  most  of  the  Plains  tribes  is  almost  certain  to  exist.  The  story  of  the
+seven  heads  —  being  common  to  the  Arapaho,  Kootenai,  and  Sarcee,  tribes
+surroimding  the  Gros  Ventre  —  is  also  very  likely  to  exist  among  them.  One
+would  expect  the  same  of  the  story  of  the  woman  and  the  dog,  though  it  is
+to  be  remembered,  in  this  connection,  that  some  of  the  northern  Arapaho
+deny  this  to  be  a  story  of  their  tribe.
+
+'  G.  A.  Dorsev  and  A.  L.  Kroeber,  Traditions  of  the  Arapaho  (Field  Columbian  Museum
+Publications,  Anthropological  Series  V.     Chicago,  1903).
+
+57
+
+
+58  Anthropological  Papers  American  Museum  of  Xatural  History.        [Vol.1,
+
+Of  the  more  important  stories  and  incidents  occvirring  in  the  present
+Gros  Ventre  collection,  but  wanting  in  the  larger  Arapaho  collection,  the
+following  may  be  mentioned:  the  separation  of  the  tribe  while  crossing  the
+ice;  the  very  widespread  incident  of  the  hero  who  is  swallowed  by  a  monster,
+and  kills  him  by  cutting  his  heart ;  the  boy  who  is  abandoned  by  his  parents,
+and  raised  by  buttalo-bulls;  the  tale  of  a  young  man  who  enters  a  tent  among
+a  hostile  tribe  to  marry  a  girl;  and  the  tale  of  the  bad  wife  as  told  by  the
+Blackfeet.
+
+Some  of  the  mythical  incidents  that  have  the  most  common  distribution
+in  central  North  America,  but  that  so  far  have  not  been  found  among  either
+the  Arapaho  or  Gros  Ventre,  are  the  story  of  the  theft  of  light  or  the  sun ;
+of  the  theft  of,  or  some  other  means  of  obtaining,  water;  of  the  supernatural
+being  that  has  been  w^ounded  by  a  human  being,  so  that  a  human  medicine-
+man only  can  extract  the  weapon;  of  the  person  or  pursuer  who  crosses  a
+body  of  water  or  a  chasm  on  a  leg,  usually  of  the  crane,  and  is  shaken  oft";
+of  the  hero  who  transforms  himself  into  a  leaf  or  small  object,  which  is
+drunk  by  a  woman,  as  whose  son  he  is  reborn;  of  the  bathing  women
+with  bird-skins,  one  of  whom  is  captured;  of  the  visit  far  to  the  east  to  the
+sun;  of  the  unfaithful  wife  who  has  a  snake  or  water-monster  as  her  lover,
+—  one  of  the  most  i)ersistent  traditional  ideas  in  northeastern  America;  the
+common  conception  of  the  origin  of  mankind  or  the  tribe  from  the  lower
+world  or  successive  lower  worlds;  and  a  tradition  of  a  visit  to  the  land  of
+the  dead,  other  than  in  stories  told  as  the  actual  experience  of  persons
+recentlv  alive  or  still  livino-.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  59
+
+
+MYTHS  AND  TALES.
+
+1.   The  Making  of  the  Earth.
+
+There  was  water  everywhere.  A  person  sent  the  Duck,  the  Otter,  the
+Beaver,  and  the  Turtle  to  dive  for  earth.  All  the  other  animals  lost  their
+breath  before  they  reached  the  bottom.  They  had  to  come  up  again.  But
+the  Turtle  said,  "I  am  the  one  who  can  get  it."  He  dived,  and  brought  up
+mud.  When  the  person  scattered  the  mud,  earth  was  made.  He  made
+the  mountains  by  pouring  a  little  earth  from  his  hand.  He  also  made
+streams  and  trees.     It  is  not  known  who  he  was.     Perhaps  he  was  Nix'a'H.^
+
+2.   Origin  Myth.
+
+The  people  before  the  present  people  were  wild.  They  did  not  know
+how  to  do  anything.  Nix'a"t  did  not  like  the  way  they  lived  and  did.
+He  thought,  "I  will  make  a  new  world."  He  had  the  chief  pipe.  He  went
+out  doors  and  hung  the  pipe  on  three  sticks.  He  picked  up  four  buffalo-
+chips.  One  he  put  under  each  of  the  sticks  on  which  the  pipe  hung,  and
+one  he  took  for  his  own  seat.  He  said,  "I  will  sing  three  times  and  shout
+three  times.  After  I  have  done  these  things,  1  will  kick  the  earth,  and
+water  will  come  out  of  the  cracks.  There  will  be  a  heavy  rain.  There  will
+be  water  over  all  the  earth."  Then  he  began  to  sing.  After  he  sang  three
+times,  he  shouted  three  times.  Then  he  kicked  the  ground  and  it  cracked.
+The  water  came  out,  and  it  rained  for  days,  and  over  all  the  earth  was  water.
+By  means  of  the  buffalo-chips  he  and  the  ])ipe  floated.  Then  it  stopped
+raining.  There  was  water  everywhere.  He  floated  wherever  the  wind
+took  him.  For  days  he  drifted  thus.  Above  him  the  Crow  flew  about.
+All  the  other  birds  and  animals  were  drowned.     The  Crow  became  tired.
+
+1  The  Gros  Ventre  myths  and  tales  here  recorded  were  obtained  from  seven  informants,
+who  have  tieen  designated  as  follows:  —
+
+M     Bill  Jones,  one  of  tlie  oldest  men  of  the  tribe,  Nos.  5,  18,  25,  41.
+N     Watches-All.  an  old  woman,  Nos.  26,  28,  30,  32,  33,  39,  40,  45-50.
+P      Flea,  a  yonng  man,  Nos.  2-4,  20-23,  29.
+Q      Blackbird,  an  old  man,  Nos.  1,  6,  16,  17,  38,  42,  43.
+R     .A.ssiniboine,  a  yoiuif;  middle-aged  man,  Nos.  14,  15,  27,  34,  35,  37,  44.
+S      Paul  Plumage,  a  young  man,  Nos.  7,  19.
+T      Black  Wolf,  a  middle-aged  chief,  No.  33.
+It  will  be  seen  that  the  traditions  told  by  Flea,  one  of  the  youngest  of  the  informants,  are
+of  a  higher  character  tlian  the  otliers.     Nos."  7  and  19  were  obtained  as  texts  in  Gros  Ventre.
+All  the  others  were  reconli'd  in  English.
+
+The  Gros  Ventre  distinguish  between  myths  and  tales,  which  they  call  ha''tii'a"tya°  and
+waa"tsea'a"  respectively.  The  first  thirty  of  the  following  traditions  may  be  regarded  as  myths;
+the  last  twenty,  as  tales.
+
+The  present  myth  is  by  informant  Q.  Compare  Traditions  of  the  Arapaho,  op.  cit.,  tales
+Nos.  1,  2,  3,  6,  and  "note,  p."  6.
+
+Pronoimce  x  like  German  ch  or  Spanish  j;  to,  like  English  ch:  a,  as  in  English  bad;  a°
+(nasal  a),  like  French  an;  a",  similarly  nasalized;  g,  like  English  th  in  thin;  6,  nearly  as  in
+German.
+
+
+GO  Anthropological  Papers  American  Muscinn  of  A'aturnl  History.         [Vol.  I,
+
+It  flew  about  crying,  "My  father,  I  am  becoming  tired.  I  want  to  rest."
+Three  times  it  said  this.  After  it  had  said  so  three  times,  Nix'a"t  said,
+"AHght  on  the  pipe  and  rest."  Repeatedly  the  Crow  cried  to  him,  and
+each  time  was  allowed  to  alight  on  the  pipe.  Xix'a"t  became  tired  sitting
+in  one  position.  He  cried.  He  did  not  know  what  to  do.  After  he  had
+cried  a  long  time,  he  began  to  unwrap  the  chief  pipe.  The  pipe  contained
+all  animals.  He  selected  those  with  a  long  breath  to  dive  through  the  water.
+First  he  selected  the  Large  Loon  (biias^eiby^ii).  The  Loon  was  not  alive,
+but  Nix'a"t  had  its  body  wrapped  up  in  the  pijie.  Xix'a"t  sang,  and  then
+commanded  it  to  dive  and  try  to  bring  mud.  The  Loon  dived.  It  was
+not  halfway  down  wlien  it  lost  its  breath  and  immediately  turned  back.
+It  came  up  almost  drowned  at  the  place  where  Nix'a'^t  was.  Then  Nix'a"t
+took  the  Small  Loon's  body  and  sang.  Then  the  Small  Loon  dived.  It
+nearly  reached  the  mud  at  the  bottom.  Then  it  lost  its  breath  and  went
+up  again,  and,  nearly  dead,  reached  the  place  where  Nix'a"t  was.  Then
+he  took  the  Turtle  (baii'n).  He  sang  and  it  became  alive,  and  he  sent  it
+and  it  dived.  Meanwhile  the  Crow  did  not  alight,  but  flew  about  crying
+for  rest.  Nix'a'H  did  not  listen  to  it.  After  a  long  time  the  Turtle  came  uj).
+It  was  nearly  dead.  It  had  filled  its  feet  and  the  cracks  along  its  sides
+with  mud.  When  it  reached  Nix'a"t,  all  the  mud  had  been  washed  away
+and  it  was  nearly  dead.  Nix'a"t  said,  "Did  you  succeed  in  reaching  the
+mud?"  The  Turtle  said,  "Yes,  I  reached  it.  I  had  much  of  it  in  my  feet
+and  about  my  sides,  but  it  all  washed  away  from  me  before  I  came  to  you."
+Then  Nix'a"t  said  to  it,  "Come  to  me;"  and  the  Turtle  went  to  him.
+Nix'a'H.  looked  at  the  inside  of  its  feet  and  in  the  cracks  of  its  sides.  On
+the  inside  of  its  feet  he  found  a  little  earth.  He  scraped  this  into  his  hand.
+JNIeanwhile  the  Crow  had  become  very  tired.  Then  Nix'a'H,  when  he  had
+scraped  the  earth  into  his  hand,  began  to  sing.  After  he  had  sung  three
+times,  he  shouted  three  times.  Then  he  said,  "I  will  throw  this  little  dust
+that  I  have  in  my  hand  into  the  water.  I>ittle  by  little  let  there  be  enough
+to  make  a  strip  of  land  large  enough  for  me."  Then  he  began  to  drop  it,
+little  by  little,  into  the  water,  opening  and  closing  his  hand  carefully.  And
+when  he  had  dropped  it  all,  there  was  a  little  land,  large  enough  for  him
+to  sit  on.  Then  he  said  to  the  Crow,  "Come  down  and  rest.  I  have  made
+a  little  j)iece  of  land  for  myself  and  for  you."  Then  the  Crow  came  down
+and  rested.  After  it  had  rested,  it  flew  u])  again.  Then  Xix'a"t  took  out
+from  his  pipe  two  long  wing-feathers.  He  had  one  in  each  hand,  and  began
+to  sing.  After  he  had  sung  three  times,  he  shouted  three  times,  "Youh,
+hou,  hou,"  and  sjiread  his  arms,  and  closed  his  eyes.  When  he  had  done
+this,  he  said  to  himself,  "Let  there  l)e  land  as  far  as  my  eyes  can  see  around
+me."     When  he  opened  his  eyes,  then  indeed  there  was  land.     After  he
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  61
+
+had  made  the  land,  there  was  no  water  anywhere.  He  went  about  with
+his  pipe  and  with  the  Crow.  They  were  all  that  there  was  to  be  seen  in  the
+world.  Now  Nix'a'^t  was  thirsty.  He  did  not  know  what  to  do  to  get  water.
+Then  he  thought,  "I  will  cry."  He  cried.  While  he  cried,  he  closed  his
+eyes.  He  tried  to  think  how  he  could  get  water.  He  shed  tears.  His
+tears  dropped  on  the  ground.  They  made  a  large  spring  in  front  of  him.
+Then  a  stream  ran  from  the  spring.  When  he  stopped  crying,  a  large  river
+was  flowing.  Thus  he  made  rivers  and  streams.  He  became  tired  of
+being  alone  with  the  Crow  and  the  pipe.  He  decided  to  make  persons  and
+animals.  He  took  earth,  and  made  it  into  the  shape  of  a  man.  He  made
+also  the  shape  of  a  woman.  Then  he  made  more  figures  of  earth,  until
+he  had  many  men  and  women.  When  he  thought  he  had  enough  persons,
+he  made  animals  of  all  kinds  in  pairs.  Wlien  he  had  finished  making
+these  shapes,  he  named  the  tribes  of  people  and  the  kinds  of  animals.  Then
+he  sang  three  times  and  shouted  three  times.  After  he  had  shouted,  he
+kicked  the  ground,  and  there  were  living  pairs  of  beings  standing  before
+him,  animals  and  men.  The  reason  why  men  are  dark  in  color  is  that
+earth  is  dark.  Nix'a"t  called  the  world  Turtle  because  the  Turtle  was  the
+animal  that  had  helped  him  to  make  the  world.  Then  he  made  bows
+and  arrows  for  men,  and  told  them  how  to  use  them.  The  pipe  he  gave
+to  a  tribe  which  he  called  haa'ninin  (the  Gros  Ventre).  Then  he  said  to  the
+people,  "If  you  are  good  and  act  well,  there  will  be  no  more  water  and  no
+more  fire."  Long  before  the  water  rose,  the  world  had  been  burned.  This
+now  is  the  third  life.  Then  he  showed  them  the  rainbow,  and  said  to  them,
+"This  rainbow  is  the  sign  that  the  earth  will  not  be  covered  with  water
+again.  Whenever  you  have  rain,  you  will  see  the  rainbow;  and  when
+you  see  it,  it  will  mean  tliat  the  rain  has  gone  by.  There  will  be  another
+Avorld  after  this  one."  He  told  the  ])eople  to  separate  in  pairs  and  to  select
+habitations  in  the  world  for  themselves.  That  is  why  human  beings  are
+scattered.^
+
+3.  Tebiaa^'ta^",  the  Two  ^VoMEx,  the  Bald  Eagle,
+AND  Nix'A^t.
+
+There  was  a  lone  tent.  Two  sisters  lived  in  it.  One  was  older,  the
+other  young.  Tebiaa"ta^  ("cut-off-head")  knew  that  the  two  women
+lived  alone  there.  One  morning,  one  of  them  went  out  to  get  wood.  In
+front  of  the  tent  she  found  a  fat  deer,  freshly  killed  and  untouched.     This
+
+
+1  Told  by  informant  P.  Compare  Arapaho,  op.  cit.,  Nos.  1,  2,  3,  6,  and  note.  p.  6.  For  the
+recession  of  the  water  before  stretched  arms,  compare  also  Arapaho,  No.  5.  The  idea  of  the
+previous  race  occurs  in  Arapaho,  No.  6,  p.  15,  footnote,  and  in  No.  129,  p.  299.
+
+
+62  AnthropuliHjical  Papers  Atnerican  Museum  of  Xatural  History.        [\'ol.  I,
+
+happened  every  night.     The  fourth  night  the  two  women  watched.     One
+of  them  said,  "Perhaps  it   is  Naxaa"tsts'   ('with-projecting-teeth,'  another
+name  for  Tebiaa^ita").     If  it  is  he,  it  will  go  hartl  with  us,  for  he  is  powerful."
+In  the  middle  of  the  night  they  saw  a  person  rolling  a  dead  deer  toward
+them.     When  he  came  near  they  saw  that  it  was  Tebiaa"ta"  indeed.     After
+he  had  left  the  deer  he  went  off  again.     As  soon  as  he  had  gone,  the  two
+women  began  preparations  to  fiee.     The  older  stuck  an  awl  in  the  ground
+on  the  side  of  the  tent  where  she  had  her  bed,  and  said  to  it,  "When  Te-
+biaa"ta"  comes  in,  tell  him,  'Go  to  my  younger  sister.     She  is  young,  and  is
+the  one  whom  you  ought  to  have  for  your  best  wife.' "     The  younger  sister
+stuck  a  quill-flattener  (isowa")  at  the  side  of  her  bed,  and  told  it,  "When
+Tebiaa"ta»  comes  rolling  to  you,  say  to  him,  'Go  to  the  older  woman.     Siie
+knows  best  how  to  work.     You  should  have  her  for  your  best  wife.'"     At
+night  Tebiaa"ta'^  came  to  the  tent.     The  women  had  gone.     Only  the  awl
+and   the  quill-flattener  were  there.     When  he  arrived,   he  saw  the    deer
+lying  there,  still  untouched.     He  became  angry,  and  said,  "I  worked  hard
+to  kill  this  deer  for  you.     It  is  bad  that  you  did  not  touch  it."     He  went
+mside.     The  two  bones  looked  like  women.     He  went  to  the  side  where
+the  older  sister's  awl  Avas.     It  said   to  him,  "Roll  to  my  younger  sister.
+She  will  be  your  best  wife,  for  the  older  wife  does  the  work  for  the  tent  and
+for  her  husband."     Then  he  began  to  roll  to  the  younger  sister's  bone.     It
+said  to  him,  "Roll  back  to  my  older  sister.     Let  her  be  your  best  wife.     I
+am  young,  and  better  able  to  move  around  quickly,  and  can  do  more  work
+about   the  tent."     Then  Tebiaa'Ha"  became  angry.     He  rolled   violently
+to  one  to  strike  her.     The  woman  disappeared,  and  he  struck  the  awl,
+wliich  pierced  his  face  so  that  he  cried  out  in  pain.     The  other  woman
+disappeared  at  the  same  time.     W'hen  he  had  pulled  the  awl  from  his  face
+he  said,  "You  will  not  escape  from  me.     I  will  kill  you."     He  jumped
+out  of  the  tent,  looked,  and  smelled  about  to  find  where  the  women  had
+gone.     He  found  their  trail,  and  rolled  after  them.     They  were  already
+far  away.     They  looked  bac-k  constantly,  fearing  that  he  would  follow  them.
+Then,  from  the  direction  in  which  they  had  come,  they  saw^  him  rolling.
+One  of  them  said  to  the  other,  "Oh,  my  older  sister,  what  shall  we  do!
+Tebiaa'Ha"  is  rolling  on  our  trail.     What  shall  we  do  to  escape  him?     Do
+something  supernatural."     "I   will    try  something,"   said    the   older.     "I
+will  try  to  delay  him  so  that  we  shall  leave  him  far  behind  us.     Let  it  be
+foggy  before  Tebiaa"ta",  so  that  he  will  lose  our  tracks."     Then  there  was
+a  fog  between  them  and  the  head,  and  he  lost  their  trail  and  strayed  from
+It.     He  looked  for  it,  and  after  a  time  found  it  again,  and  followed  them.
+Then  they  saw  him  coming  once  more.     Then  the  older  sister  said  to  the
+younger,  "Pity  me,  my  younger  sister.     The  head  is  pursuing  us  again
+
+
+1907.]  Kroeher,  Gros  Ventre  Myths  and  Tales.  63
+
+What  shall  we  do  to  flee  from  him  ?  Now  it  is  your  turn  to  do  something
+supernatural,  so  that  we  may  leave  him  behind  us."  "Yes,  I  will  try.
+Let  there  be  a  deep  ravine  between  him  and  us.  Let  it  be  boggy  and
+hummocky,  so  that  it  will  be  long  before  he  passes  through  it."  Then  there
+was  such  a  valley  behind  them.  When  Tebiaa^ta"  got  into  the  valley,  he
+struck  the  hummocks,  and  bounded  back  and  stuck  in  the  swamp.  It  was
+long  before  he  crossed,  and  the  women  had  got  far  ahead.  He  said  to  him-
+self, "These  women  will  not  hide  in  a  hole  anywhere.  If  they  do,  I  shall
+overtake  them  and  kill  them.  They  shall  not  go  to  the  sky,  for  if  they  go  to
+the  sky,  I  shall  not  be  able  to  reach  them.  That  is  the  one  place  in  which  I
+cannot  kill  them."  After  a  while  the  women  saw  him  again,  and  the
+younger  one  said,  "My  older  sister,  do  something  supernatural  again!  I
+am  getting  tired."  "Yes,"  said  the  older,  "I  will  try.  Let  there  be  a  river
+between  us  and  the  head,  and  along  it  let  there  be  thick  thorny  brush,  and
+rose-brush  as  thick  as  can  be,  so  that  Tebiaa"ta"  will  have  great  difficulty  in
+passing  through."  Then  there  were  a  river  and  thorny  brush  behind  them.
+Tebiaa"ta"  came  up.  It  was  very  difficult  for  him  to  pass.  He  was  all
+scratched  when  he  got  through.  The  women  were  already  far  away.  After
+a  while  they  saw  him  on  their  trail  again.  Then  the  older  sister  begged  the
+younger  to  use  her  supernatural  power  to  delay  the  head.  Her  younger
+sister  said,  "I  will  try  again  to  bring  something  between  us  and  the  head.
+Let  there  be  cactus  as  thick  as  can  be."  Then  there  was  a  dense  cactus
+behind  them.  When  Tebiaa"ta"  reached  the  cactus,  he  stop])ed.  He  tried
+to  roll  around,  but  it  extended  indefinitely.  Then  he  thought,  "I  will  go
+through."  Then  he  really  rolled  through  it;  but  he  was  full  of  spines,  and
+bleeding.  He  stopped  and  pulled  out  all  the  cactus-spines.  Then  he
+followed  the  women  again.  They  saw  him  coming.  Both  of  them  said,
+"I  can  do  nothing  more  supernatural.  I  have  done  all.  We  must  try  to
+run."  As  they  ran,  they  saw  a  man  sitting  on  a  high  bunk.  He  liad  his
+iiair  in  a  large  knot  above  his  forehead.  When  they  reached  him  they
+said,  "Please  ])ity  us.  We  are  running  for  our  lives  from  the  person  who
+pursues  us  to  kill  us."  "Run  around  me  four  times,"  he  said,  and  they
+did  so.  "What  is  the  person's  name?"  he  asked.  They  said  to  him,
+"Tebiaa"ta"."  "That  is  bad.  He  is  more  powerful  than  L  But  I
+will  try."  He  loosened  the  knot  of  hair  on  his  forehead.  It  had  never
+been  combed.  The  hair  covered  him  entirely.  He  hid  one  of  the  women
+under  each  arm.  W'hen  Tebiaa'Ha"  came,  he  said,  "Have  you  seen  my
+prey  going  by  here?"  "Yes,  they  have  just  pa.ssed  by,"  said  the  man.
+The  head  went  on,  and  smelled.  Finding  no  tracks,  he  came  back  to  the
+man.  "They  never  went  by  here,"  he  said.  "Yes,  they  went  by,"  said
+the  man;    and  the  head  went  on  again.     As  ^oon  as  he  was  out  of  sight.
+
+
+64  Anthropological  Papers  American  Museum  of  Natural  History.        \Yo\.  I,
+
+/  the  man  said  to  the  women,  "Run  over  there,  where  there  is  a  Bald  Eagle.
+
+y  Perhaps  he  will  help  you."     Then  Tebiaa'Ha'^  came  back  and  said  to  him,
+
+/  "Tell  me  this  time  where  my  prey  is."     "I  have  told  you,"  said  the  man.
+
+The  head  looked  around  and  saw  the  women's  tracks.  He  folio ^^ved  them
+again.  The  older  sister  said,  "Now,  my  younger  sister,  try  to  run  as  hard
+as  you  can.  Tebiaa"ta"  is  on  our  trail  again."  They  reached  the  Bald
+Eagle.  "Bald  Eagle,"  they  said,  "pity  us,  because  we  are  poor:  try  to
+save  our  lives."  The  Eagle  said,  "Go  around  me  four  times.  I  will  help
+you.  I  will  try  to  save  you  from  Tebiaa'Ha";  but  he  is  very  powerful.
+j  Now  each  of  you  get  on  one  of  my  wings  and  shut  your  eyes."     He  flew
+
+(  down  from  the  bank  where  he  had  been  sitting,  dived  into  the  water,  swam
+
+/  underneath   a    long   distance,    came   up   again,    and  flew  off.     Tebiaa"ta"
+
+came  there,  dived  into  the  water,  swam  under  it,  emerged,  and  followed
+/  their  trail.     He  fiew  after  them  through  the  water  and  the  air.     He  nearly
+
+caught  the  Eagle.  When  he  came  too  near,  the  Eagle  swooped  aside.
+Thus  they  fought  and  dodged  for  a  long  time.  Below  where  they  were
+strug-gling;  there  was  a  tent.  It  was  Nix'a'H's  tent.  His  two  sons  were
+lying  flat  on  their  backs,  looking  iip  into  the  sky.  They  began  to  see  what
+was  going  on  there.  Whenever  the  head  nearly  toviched  the  Eagle,  the
+boys  cried  "Wuuu!"  Nix'a"t  heard  his  boys  crying  "Wuuu,"  and  saw
+them  looking  up  in  the  air.  He  went  outside,  lay  down  on  his  robe,  looked
+(  up,   and  cried    "Wuvm!"     But  he  saw  nothing.     The  boys  asked  him,
+
+'  "Father,  why  did  you  say  that?"     "I  like  to  say  that,  because  you  boys
+
+/  say  it.     What  are  you  looking  at  above?"     "Father,  we  are  looking  at  your
+
+j  friend  the  Eagle.     He  is  dodging  about.     On  each  of  his  wings  sits  a  woman,
+
+j  Tebiaa"ta"  is  pursuing  them."     "I  am  sorry,"  said  Nix 'a'^t.     "Tebiaa'Ha'^
+
+j  is  powerful.     Nevertheless  I  will  try  to  do  something  for  the  Eagle  and  the
+
+j  women.     Therefore,  my  sons,  gather  wood  as  fast  as  you  can,  and  I  will
+
+I  cut  willows  and  build  a  sweat-house.     Also  gather  stones,  and  then  light
+
+the  wood  and  heat  the  stones  in  the  fire."  Nix'a"t  got  willows,  bent  them
+round,  and  covered  them  with  robes.  Then  he  gave  each  of  his  boys  a
+club.  He  said  to  one,  "Stay  here  at  the  door  and  hold  it  up."  To  the
+other  one  he  said,  "Stand  at  the  back  and  hold  up  the  robes  there."  The
+boys  stood  at  their  places.  Nix'a"t  stood  at  the  entrance  of  the  sweat-house,
+and  cried,  "Bald  Eagle,  come  down  and  sweat  in  my  sweat-house."  Four
+times  he  cried  it.  Then  the  Eagle  heard  him  and  came  flying  down.
+Nix'a'^t  said  to  him,  "Go  in  at  the  entrance,  and  fly  out  at  the  other  end."
+The  head  was  now  close  at  the  Eagle's  tail.  The  Eagle  flew  in,  and  out
+again.  As  soon  as  he  had  gone  through,  the  boy  at  the  back  of  the  sweat-
+house  put  down  his  robes.  The  other  one  closed  the  door.  Tebiaa'^ta'^
+was  caught  in  the  sweat-house.     Hot  stones  were  lying  in  a  small  pit  in  the
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  65
+
+centre  of  the  sweat-house.  Xix'a"t  poured  water  through  a  small  hole
+in  the  top  straight  on  the  hot  rocks.  It  steamed  inside.  Whenever  the
+head  pressed  against  the  robes,  the  boys  struck  him  Avith  their  clubs.  At
+last  he  was  killed.  The  Eagle  sat  there  breathing  hard.  Thus  Tebiaa^ta'^
+was  killed.^
+
+4.   Nix'a^'t  obtains  Summer  and  the  Buffalo.
+
+Nix'a"t  was  on  his  way,  going  visiting.  He  arrived  at  a  camp.  There
+was  deep  snow,  and  the  people  had  nothing  to  eat.  To  whatever  tent  he
+went,  he  got  nothing  to  eat.  The  people  had  nothing.  He  asked  them,
+"Why  do  you  not  try  to  do  something  to  obtain  food?"  "We  cannot
+do  it,"  they  said.  "There  are  no  buffalo.  We  starve.  There  is  only
+one  old  woman  who  has  food.  She  is  very  stingy  of  it."  At  some  distance
+there  lived  an  old  woman  who  kept  the  buffalo.  She  gave  no  food.  Nix'a'H
+said,  "I  will  try  to  make  the  old  woman  give  up  her  food."  Walking  about
+the  camp,  he  saw  a  boy,  a  chief's  son,  just  old  enough  to  speak.  He  took
+the  boy  by  the  shoulders  and  said,  "Child,  are  you  hungry?"  "Yes,  I  am
+Inmgry,"  said  the  boy.  "Would  you  like  to  see  large  herds  of  buffalo?"
+"Yes."  "Would  you  like  to  see  the  ground  bare?"  "Yes.  I  am  be-
+coming tired  of  playing  on  the  snow.  I  should  like  to  see  the  bare  ground,
+so  that  I  could  play  on  it."  "When  I  let  you  go,  you  must  run  to  your
+father's  tent,  and  cry.  When  your  kin  ask  you,  you  must  say  nothing,  but
+continue  to  cry.  Only  when  I  come  and  ask  you,  you  must  say,  'I  should
+like  to  see  large  herds  of  buffalo  and  the  bare  ground  to  play  on;  for  I  am
+tired  of  the  snow.'"  Then  the  boy  ran  to  his  father's  tent  and  began  to
+cry.  All  asked  him  why  he  cried.  But  he  said  no  word,  crying  continually.
+He  cried  day  and  niglit.  His  father  thought  he  would  invite  man  after
+man  in  the  camp  to  ask  the  boy  why  he  cried.  He  asked  all  the  men  to
+come.  But  the  boy  never  answered.  Then  he  thought,  "I  will  ask  Nix'a'^t.
+He  is  wise.  Perhaps  he  will  persuade  the  boy  to  tell  why  he  is  crying."
+Then  he  called,  "Nix'a"t!"  and  Xix'a"t  came  in.  He  took  the  boy  in  his
+aniiS  and  said,  "Well,  jxjor  child,  what  are  you  crying  about?  Your
+j)arents  can  hardly  sleep,  because  you  continually  cry.  You  must  be  crying
+about  something  that  is  very  hard.  I  want  you  to  tell  me  what  it  is."  Then
+the  boy  stopped  crying,  and  said,  "I  cry  because  I  am  hungry,  and  should
+like  to  see  large  herds  of  buffalo.  I  should  like  to  eat  back-fat  (nanii)  and
+unborn  calves.     I  should  like  to  see  the  bare  ground,  for  I  am  tired  of  play-
+
+
+>  Told  by  informant  P.  Compare  Arapaho,  Nos.  5,  6,  35,  124.  The  Magic  Flight  is  found
+also  in  No.  27.  Compare  note  to  Arapaho,  No.  6.  See,  also.  No.  26  for  the  calling  back  of  the
+ipursuer.     The  pursuit  by  a  round  rolling  object  is  found  in  Arapaho,  Nos.  5,  6,  33-35,  81-124.
+
+
+66  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+ing  in  the  deep  snow."  Then  Nix'a'H  said  to  him,  "You  shall  have  what
+you  want.  You  shall  eat  calves  and  fat  from  the  back,  and  shall  play  on
+the  bare  ground."  The  boy  was  satisfied,  and  cried  no  more.  Nix'a"t
+said  to  the  boy's  father,  "Get  an  old  man  to  cry  out,  'Let  the  people  move
+elsewhere.  Nix'a"t  has  found  out  from  the  boy  what  he  wants  and  what
+he  cried  for."'  Then  the  people  moved  camp,  and  Nix'a'H  changed  into  a
+little  dog.  The  dog  was  scabby,  with  loose  hanging  ears.  He  remained
+at  the  camp-site  after  the  people  had  left  it.  The  old  woman  who  kept  the
+buffalo  had  a  little  grand-daughter  who  worked  for  her.  The  little  girl
+said,  "  Grantlmother,  I  want  to  go  to  the  camp-site  to  pick  up  things  that
+have  been  lost."  But  the  old  woman  said,  "No,  don't.  Nix'a'H  was  in
+the  camp.  He  is  very  deceitful."  "I  will  not  go  far,  only  to  the  nearest
+tent.  Let  me  go!"  Then  the  girl  went  there.  When  she  arrived,  she  saw
+the  dog,  who  wagged  his  tail  at  her.  She  pitied  him,  and  said  "I  will  raise
+him."  She  took  him  back  with  her.  "Grandmother,  I  have  found  a  poor
+scabby  dog.  I  want  to  raise  him  to  be  my  dog,"  she  said.  The  old  woman
+.said  to  the  dog,  "You  are  a  scabby  dog  indeed!  You  are  not  a  dog  at  all.
+You  are  Nix'a"t."  Then  she  said  to  her  grand-daughter,  "No,  I  do  not
+want  you  to  take  this  dog  into  the  tent.  Tie  him  outside."  So  the  girl
+tied  him  outside,  but  fed  him  well;  and  he  became  fat,  and  his  scabs  fell  off,
+and  he  grew  fast.  Soon  he  was  able  to  carry  a  load  of  wood  on  a  travois.
+The  girl  used  to  take  him  with  her  into  the  woods.  At  last  the  old  woman
+began  to  think  that  he  was  really  a  dog.  She  allowed  him  to  come  into  the
+tent  with  them.  But  at  times  she  still  looked  at  him  suspiciously.  Some-
+times she  still  said,  "You  look  like  a  dog;  but  you  are  no  dog.  You  are
+•Nix'a'H."  After  a  time  their  meat  was  all  gone.  At  the  back  of  the  tent
+hung  an  untanned  buffalo-skin.  The  girl  raised  this,  and  the  dog  saw  a
+hole  beyond.  Soon  a  young  buffalo-cow  came  out.  Just  as  she  emerged,
+the  old  woman  struck  her  on  the  back  of  the  head  with  her  hammer,  and
+killed  her.  Many  other  buffalo  tried  to  come  out;  Init  the  girl  and  the  old
+woman  put  the  skin  down  again.  They  pulleil  out  the  young  cow,  and
+skinned  her.  The  dog  was  there  with  them.  The  old  woman  had  begun
+to  like  him.  She  now  thought  that  he  was  really  a  dog.  By  the  skin
+curtain  there  was  an  old  greasy  skin  sack.  The  dog  saw  the  old  woman  go
+to  this,  take  a  pinch  from  it,  and  throw  it  outside.  Thereupon  there  was
+no  snow  about  the  door.  Now  Nix'a'H  knew  what  to  do.  One  day  the
+girl  took  him  far  out  into  the  Avoods  with  her.  Then  he  turned  into  Nix'a'H.
+He  said  to  the  girl,  "You  thought  me  a  dog,  but  I  am  Nix'a'H."  Penem
+monstravit  et  ei  raptje  vim  attulit.  Puella  fortiter  clamavit,  "Avia,  Nix'a'H
+mecum  copulat!"  The  old  woman  answered,  "I  told  you  he  was  Nix'a'H.
+You  would  not  believe  me.     It  is  your  own  fault."     Taking  her  hammer.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  67
+
+she  ran  towards  them.  When  she  arrived,  Ni.x'a'H  released  the  girl,  ran
+off,  and  entered  the  tent.  He  seized  the  bag  and  ran  into  the  hole  behind
+the  curtain.  There  he  turned  dog  again,  and,  bai'king,  drove  all  the  buffalo
+out.  The  last  one  to  emerge  was  a  bull.  Nix'a"t  ejus  in  testiculis  adhsesit.
+Taurus  cum  testes  suos  tactos  sensisset,  eos  in  corpus  retraxit,  ita  ut  Nix'a"t
+sub  ventre  celatus  est.  Thus  he  passed  out  by  the  old  woman  without
+being  seen.  As  the  buffalo  ran,  he  threw  out  what  was  in  the  bag.  Every-
+where the  snow  disappeared,  and  it  was  summer.  When  the  bag  was
+emptied,  he  went  back  to  the  old  woman,  threw  her  the  bag,  and  said,
+"That  is  all  I  wanted  from  you."  Thus  Nix'a"t  obtained  buffalo  and
+summer.  Then  he  killed  a  cow  and  took  the  unborn  calf,  and  cut  the
+cow's  back-fat  and  the  tongue  and  some  of  the  entrails.  He  carried  this
+meat  on  his  back,  following  the  trail  of  the  people.  He  reached  their  camp
+at  night.  Then  he  asked,  "Where  is  the  tent  of  the  boy's  father?"  Being
+shown  it,  he  went  there  and  entered,  called  the  boy,  and  said  to  him,  "Here
+is  what  you  asked  for.  Now  eat  it.  To-morrow  you  will  see  summer  and
+large  herds  of  buffalo."  Then  the  boy's  father  told  an  old  man  to  go  out
+and  cry,  "Nix'a"t  has  come  back.  You  will  see  herds  of  buffalo  and  the
+summer  to-morrow.  He  has  brought  some  parts  of  buffalo  to  show  that  it
+will  be  so."  That  night  there  was  a  strong  Chinook  wind.  That  is  why
+now  we  sometimes  get  the  Chinook  winds.  Next  morning,  indeed,  the
+peoj)le  saw  the  bare  land  and  herds  of  buffalo.^
+
+5.   Nix'.Ot  is  taught  to  call  Buffalo.
+
+A  certain  man,  when  he  was  visited  and  had  no  food,  would  go  on  a
+liill,  sit  down,  and  sing,  "  Hi'itana"  wu'katyli."  Then  the  buffalo  would
+come  running  toward  him  in  strings.  Xix'a"t  came  to  him  and  cried,
+wisiiing  to  learn  the  song.  The  man  gave  him  the  song,  but  said,  "Do  not
+use  it  too  often.  Sing  it  only  when  you  need  buffalo."  Nix'a"t  started
+off".  Soon  he  sat  down  and  sang.  Then  the  buffalo  came  toward  him  in
+strings.  He  sang  fom*  times.  The  fourth  time  the  buffalo  did  not  stop
+approaching  him,  and  all  lay  down  on  him.  Cum  ano  solum  eminente
+cuberet,  lepus  qui  venisset  cum  eo  copula vit.  Nix'a"t  denique  cum  emer-
+sisset  abiit.  Lepusculos  qui  profugerunt  inquinans  peperit.  Ssepius  ita
+cum  accideret,  Nix'a"to  displicebat.  Togse  margini  lapides  imposuit,
+inquinavit,  exsiliit,  et  ut  lepores  interficeret  pedibus  togam  protrivit.  Sed
+solum  toffam  foedavit.^
+
+
+1  Told  by  informant  P.     Compare  Arapaho,  Nos.  122,  133.
+
+-  Told  by  informant  M.     Compare  No.  15,  and  Arapaho,  Nos.  32,  33.
+
+
+68  Anthropological  Papers  American  Museum  of  Xatural  History.        [\'ol.  I,
+
+G.     Xix'a^'t  axd  the  Mouse.
+
+Nix'a"t  cum  femiuam  trans  flumen  dormientem  vitleret,  ab  mure  ut
+penem  ad  eam  portaret  petiit.  Mus  penem  transportavit,  sed  terrfe  asperse
+parti  anteposuit,  ita  ut  Nix'a"t  penem  vagina?  inserere  cum  vellet  se
+Iffisit  et  clamavit.^
+
+7.   Xix'a^'t  and  the  Mice's  Sun-dance.
+
+Nix'a"t  was  travelling.  As  he  went,  he  heard  the  noise  of  the  sun-
+dance.  Then  he  stopped.  He  wanted  to  hear  where  the  noise  of  the  dance
+came  from.  He  could  not  discover  it.  Where  he  stood,  there  lay  an  elk-
+skull.  He  sat  down  on  it.  When  he  sat  down,  he  heard  the  noise  of  the
+dance  clearly.  "Ya!  This  must  be  the  place,  and  I  was  looking  for  it
+at  a  distance."  Then  he  looked  into  the  skull,  and  saw  the  mice  holding
+a  sun-dance.  As  he  looked  in,  he  said  to  the  hole  through  which  he  looked,
+"Become  larger!"  Then  it  grew  larger.  As  often  as  he  told  it  to  stretch,
+it  stretched.  Finally  he  succeeded  in  thrusting  his  head  through,  and  the
+mice  scattered  and  ran  out.  Then  his  head  stuck  fast  in  the  skull.  Nix'a"t
+began  to  cry,  because  he  did  not  know  what  to  do.  He  could  not  even  see.
+He  got  up  and  wandered  off.  He  struck  something  with  his  foot,  and  said,
+"Who  are  you?"  "I  am  a  cherry-tree,"  it  answered.  "Indeed!  I
+must  be  near  the  river,"  said  Nix'a"t.  And  he  continued  to  feel  about  him
+with  his  feet.  When  he  touched  something  he  said,  "What  are  you?"
+"I  am  a  cottonwood,"  it  said  to  him.  "Indeed!  I  must  be  very  near  the
+river,"  said  Nix'a"t,  and  went  on.  Again  he  felt  something  with  his  foot,
+and  said,  "What  are  you?"  "I  am  a  willow,"  it  said  to  him.  "Indeed!
+I  must  be  very  close  to  the  river  now."  Then  he  walked  very  carefully.
+In  spite  of  all  his  care,  he  felt  himself  falling.  "What  are  you?"  he  asked.
+Then  it  splashed,  and  he  floated  down  the  stream.  He  came  floating  to
+where  there  was  a  camp.  People  were  swimming  there.  As  soon  as  the
+swimmers  saw  him,  they  said,  "Look  out,  there  comes  a  bax'aa"  (water-
+monster),"  and  all  ran  on  the  bank.  When  he  had  floated  near  them,  he
+said,  "I  allow  only  girls  to  get  me."  Then  two  girls  went  into  the  water
+on  each  side  of  him,  and  caught  his  horns.  Then  they  pulled  him  to  shore.
+One  of  them  went  ashore,  liut  he  caught  the  other  and  lay  with  her.  As
+soon  as  the  others  saw  him  seize  her,  they  ran  back  to  the  camp.  "Ejus
+virginitatem  Nix'a'H  violat,"  omnes  clamaverunt.  Puelltie  mater  malleinii
+portans  ad  eum  decucurrit.     Adhuc  puellfe  concubebat.     In  dorsum  eum
+
+1  From  informant  Q.     Compare  Arapaho,  Nos.  29-31.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  69
+
+percussit.  Nix'a^t  dixit,  "Tua  percussio  meis  impetibus  in  filiam  tuam
+vim  majorem  dat.  The  place  where  you  can  kill  me  is  in  the  middle  of  the
+heatl."  The  woman  struck  the  top  of  his  head,  and  broke  the  elk-skull.
+Xix'a"t  got  up  and  ran.  All  the  women  pursued  him,  but  could  not  catch
+him.^
+
+8.    Nix'a^t   eats  Fat.
+
+Nix'a"t  found  some  fat  floating  in  the  stream.  He  asked,  "How  much
+does  one  bite  off  you  when  he  meets  you?"  "A  little  piece  only,  alioquin
+diarrhceam  segrescas."  Nix'a"t  bit  off  as  much  as  he  could.  Then  he
+went  ahead  down  stream,  and  again  met  the  fat.  He  asked  it  and  was  told
+the  same,  but  again  bit  off  all  he  could  swallow.  He  met  it  repeatedly,
+until  at  last  he  swallowed  it  all.  Tum  abiit.  Cito  diarrhoea  afflictatus  est,
+Tantum  inquinavit  ut  abire  coactus  est.  Iterum  cum  inquinaret  tanta
+excrementa  defluxerunt  ut  eum  abegerunt.  Denique  dum  semper  inqui-
+navit in  tumulum  ascendit.  Inquinare  continuavit  donee  defluxus  eum
+circumdederat  et  quasi  insulte  tumulo  institit.^
+
+9.    Xix'a^t  eats  Hiitceni.
+
+Nix'a'H  radices  quje  hiitceni  appellantur  edebat.  Diu  edebat.  Tum
+crepuit.  Cum  creparet,  sursum  jactus  est.  Perpetuo  altius  jactus  est.
+Tandem  mulierem  liberosque  suos  omnibus  cum  rebus  familiaribus  in  se
+ponere  jussit  ut  terra  retineretur.  Sed  cum  iterum  crepuisset  omnes  sur-
+sum pulsi  sunt.^
+
+10.  Xix'a^t  and  the  Bird  with  the  Large  Arrow.
+
+Nix'a"t  met  a  Bird  which  had  an  immense  arrow.  He  taunted  it,
+saying  that  it  was  not  able  to  use  the  arrow.  At  last  the  Bird  said,  "Well,
+I  will  shoot  you  with  it."  Nix'a"t  went  off.  Several  times  he  stopped,
+tiiinking  he  had  gone  far  enough.  But  the  Bird  always  told  him,  "Go
+farther,  for  I  will  kill  you  if  you  stand  so  near."  Then  at  last  the  Bird  shot
+and  the  arrow  came  flying.  Nix'a"t  was  frightened,  ran,  turned,  and
+dodged,  but  could  not  escape  the  arrow.  He  ran  as  hard  as  he  could,  but
+it  came  nearer  and  nearer.  He  took  refuge  behind  a  rock.  The  arrow
+I  struck  the  rock  and  turned  it  over,  so  that  it  rolled  on  Nix'a"t.  He  could
+not  get  out.     At  last  the  Night-hawk  came  flying  by.     It  shot  past  the
+
+'  From  informant  S.     Compare  No.  15,  and  Arapaho,  Nos.  52,  53.
+
+2  Compare  Arapaho,  No.  34.
+
+3  Compare  Arapaho,  p.  60,  footnote  1.     Pronounce  tc  like  English  ch.
+
+
+70  Anthropological  Papers  Aynerican  Museum  of  Natural  History.        [^  ol.  I,
+
+rock,  venting  wind  each  time.  The  fourth  time,  it  broke  the  rock.  Nix'a"t
+got  up.  "Come  here,"  he  said  to  the  Bird.  The  Night-hawk  came  to
+him.  Nix'a"t  took  it,  and  said,  "Why  did  you  do  that  to  me?  I  was  very
+comfortable  tnider  the  rock."  Then  he  pulled  the  Night-hawk's  mouth
+wide  open.'
+
+11.   Nix'a^'t  loses  his  Eves.
+
+Nix'a'H  met  a  Bird  that  was  sending  its  eyes  into  a  tree.  Then  he  cried,
+and  begged  the  Bird,  until  at  last  it  gave  him  the  power.  It  told  him,
+"You  must  do  this  only  when  it  is  necessary."  Nix'a'H  went  off.  He
+tried  his  new  power,  and  his  eyes  successfully  left  him  and  returned  to  him.
+After  a  time  they  remained  in  a  tree.  He  could  not  get  them  back.  Then
+he  cried.  A  INIouse  came  to  him,  and  Nix'a"t  asked  it  to  lend  him  its  eyes.
+The  Mouse  lent  him  its  eyes,  and  Nix'a"t  was  able  to  find  his  own.  But
+his  own  eyes  had  already  shrivelled  on  the  tree.  He  soaked  them  in  water
+until  thev  swelled.     Then  he  put  tliem  back  in  his  head.-
+
+12.   Nix'a^t  kills  his  Wife.
+
+Nix'a'H  was  out  on  the  prairie,  crying  for  his  wife,  who  had  died.  A
+man  came  to  him,  and  asked,  "Why  do  you  cry?"  He  was  accompanied
+by  his  Avife.  Nix'a"t  told  him,  "I  am  mourning  for  my  wife,  who  has  died."
+Then  the  stranger  motioned  with  a  stick  as  if  to  strike  his  wife.  The  fourth
+time,  he  struck  her.  Then  she  turned  into  two  women.  He  gave  one  of
+them  to  Nix'a"t.  Then  Nix'a"t  was  glad.  He  went  on  with  his  new  wife.
+He  found  a  man  crying  for  his  dead  wife.  Then  he  motioned  four  times,
+and  struck  his  wife  and  doubled  her,  and  gave  the  man  one  of  the  women.
+He  found  another  man,  and  a  third,  and  gave  them  wives.  Then  he  met  a
+fourth  man  who  was  crying  for  his  wife.  Nix'a"t  motioned,  and,  when
+he  had  motioned  four  times,  he  struck  his  wife  on  the  head.  Then  she
+fell  dead.
+
+13.  Nix'a^'t  axd  the  Bear-Womex.
+
+The  myth  of  Nix'a'H's  diving  for  the  reflection  of  fruit  in  the  water,
+and  of  his  adventures  with  the  Bear-Women,  is  found  among  the  Gros
+Ventre  as  among  the  Arapaho,  with  only  the  following  differences.  Nix'a"t
+found  berries,  not  plums.  He  climbed  on  top  of  the  tent,  and  from  there
+dropped  the  berries  down  inside.  While  the  Bear-Women  were  eating
+their  own  children,  thev  sent  one  little  girl  out  to  get  wood  for  the  fire.
+
+
+1  Compare  Arapaho,  Nos.  19  and  33.  ^  Compare  Arapaho,  Xos.  16,  17.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  71
+
+Nix'a"t  said,  "I  will  get  it,"  and  went  out.  Then  he  threw  wood  into  the
+door  until  it  was  blocked.  Then  he  ran,  calling,  "I  have  made  you  eat
+your  own  children."  The  dialogue  about  the  flint-birds,  fire-birds,  and
+smoke-birds,  is  missing.  In  all  other  details,  the  Gros  Ventre  version
+resembles  the  Arapaho.^
+
+14.   Xix'a^'t  axd  the  Daxcixg  Ducks.
+
+Nix'a"t  was  going  along  the  river  in  the  thick  timber.  Then  he  came
+to  an  opening  in  the  woods.  There  he  stopped  and  thought  what  to  do.
+He  sat  with  his  head  down.  Suddenly  he  stood  up.  He  shouted  loudly,
+■"AH  ducks,  prairie-chickens,  and  cottontail-rabbits  come  here!  I  will
+make  a  dance  for  you."  Then  the  birds  came  flying  to  him,  and  the  rabbits
+ran  up.  He  made  them  all  stand  in  a  circle  and  close  their  eyes.  He  said,
+*'You  must  keep  your  eyes  shut  when  you  dance."  Then  he  sang,  and
+they  danced.  He  began  to  break  the  birds'  necks.  INIeanwhile  he  sang,
+■"As  you  dance,  you  must  not  look!"  At  last  a  little  prairie-chicken  dancing
+at  the  end  opened  its  eyes  and  saw  him.  It  flew  up  crying,  "Nix'a°t  is
+killing  you  all!"  Then  the  remaining  birds  all  flew  off  and  the  rabbits  ran
+away.  Nix'a"t  said,  "Nix'a"t  always  accomplishes  what  pleases  him.
+Nix'a'H  is  always  fortunate.  Now  he  has  a  feast."  Then  he  made  a  fire.
+He  put  the  ducks  and  prairie-chickens  and  rabbits  that  he  had  killed  into
+the  ashes  under  the  coals.  Then  he  said,  "Nix'a"t  is  sleepy.  I  think  I
+will  sleep."  Ano  jussot,  "Wake  me  if  any  one  comes."  Then  he  w^ent  to
+sleep.  Wolves  and  coyotes  came.  They  smelled  around.  They  ate  all
+the  meat,  and  left  only  the  bones.  At  last  Nix'a"t  woke  up.  He  coughed.
+He  said,  "Now  I  shall  have  a  feast."  He  found  only  bones.  He  looked
+all  around.  There  was  nothing  left.  Ano  suo  dixit,  "I  told  you  to  move
+and  wake  me  if  any  one  came."  He  took  a  firebrand,  and  suum  anum
+attrivit.  Tantum  dolore  aft'ectus  est  ut  ano  eminente  cuberet  ut  ventus
+eum  refrigeraret.^
+
+15.     Nix'a^t's   Advextures.
+
+(a)    With  the  Mice's  Sun-dance.
+
+Nix'a"t  was  out  on  the  prairie.  Then  he  heard  a  noise.  He  said,
+* 'There  must  be  a  camp  near  by."  He  ran  one  way,  listening,  then
+another.  But  he  always  came  back  to  the  same  place.  He  stood  on  a
+skull  in  order  to  look  about.  Then  the  noise  was  under  his  feet.  He
+looked  in,  and  saw  people  dancing.     There  were  men,  women,  and  children.
+
+1  Compare  Arapaho,  No.  49,  also  50.
+
+2  Told  by  informant   R.     Compare  Arapaho,  Nos.  26,  27.
+
+
+72  Anthropological  Papers  American  Museum  of  Xatia^al  History.        [Vol.  I,
+
+Thev  were  mice  that  were  making  the  sun-dance.  Xix'a"t  watched  the
+dance.  He  Avanted  to  see.  He  continually  told  the  opening  of  the  skull
+to  stretch  wider.  It  became  large  enough  for  him  to  look  in  with  both  his
+eyes.  i\s  he  continued  to  look,  he  liked  the  dance  better.  He  tokl  the  hole
+to  stretch  wider.  He  wanted  to  get  to  the  women  inside.  At  last  the  hole
+stretched  over  his  head.  It  contracted  around  his  neck.  The  Mice  ran
+out.  Nix'a"t  could  not  get  his  head  out  from  the  skull.  He  wandered
+about.  He  asked  the  trees  and  bushes  what  they  were.  He  came  to  sage-
+brush, then  to  a  rosebush.  Then  he  came  to  a  large  Cottonwood.  When
+he  found  this  he  said,  "I  am  still  at  a  distance  from  the  river."  Then  he
+came  to  a  birch.  He  said,  "That  is  the  kind  of  tree  with  many  kidneys  on
+it."  Next  he  came  to  a  young  Cottonwood.  Then  he  said,  "Now  I  am
+near  the  river."  Then  he  came  to  the  small  willows,  and  then  he  fell  down
+the  bank  into  the  river.  He  went  down  with  the  current.  He  came  floating
+to  women  and  girls  who  were  bathing.  He  said,  "I  will  give  beads  to
+whomever  pulls  me  ashore."  [The  tale  continues  like  No.  7,  until  the  elk-
+skull  is  split  from  his  head.]  Then  he  got  up  and  ran  off,  all  the  women
+running  after  him.  He  said,  "I  wish  there  were  a  hole  I  could  enter.'^
+Then  there  was  a  hole  and  he  went  in.  He  came  out  on  the  other  side.
+He  found  white  clay.  He  put  some  over  his  right  eye.  He  took  a  stick,
+peeled  the  bark  off  so  that  it  looked  white,  and  laid  it  across  his  arm.  Then
+he  went  back  to  where  the  women  were,  and  asked  them  what  they  were
+doing.  They  told  him.  Then  he  abused  Nix'a"t.  He  said,  "He  is
+always  doing  such  things.  Why  do  you  not  dig  him  out  ?  Then  you  can
+pound  him  to  pieces."  Then  all  the  women  crawled  into  the  hole.  He
+blocked  the  entrance  with  wood,  and  set  it  on  fire.  Then  he  smothered
+them .
+
+(b)    With  the   Women   ichn  loused  him.
+
+Then  he  went  on  to  the  river.  As  he  went  along  he  saw  two  pretty
+young  women.  They  sat  lousing  each  other.  He  said,  "That  is  a  nice
+thing  they  are  doing."  He  pretended  to  scratch  his  head  and  catch  and
+bite  his  lice.  "I  have  too  many  lice,"  he  said.  Then  he  said,  "Do  you
+not  want  to  louse  me?"  They  said,  "Yes."  Then  they  sat  opposite  to
+each  other,  stretching  out  their  legs,  and  told  him  to  lay  his  head  on  their
+laps.  Then  he  was  satisfied.  Soon  he  went  to  sleep.  They  took  burrs,
+and  filled  his  hair  with  them.  They  went  off.  The  burrs  made  his  hair
+stretch.  They  pulled  the  skin  of  his  fprehead  up.  Then  he  sat  up.  He
+could  hardly  close  his  eyes.  At  last  he  cut  off  all  his  hair.  Then  he  cov-
+ered himself  with  mud,  and  went  home,  crying.  His  wife  saw  him  coming.
+She  said,  "There  comes  the  fool!     He  has  been  doing  something  again.'*
+
+
+1907-1  Kroeber,  Gros  Ventre  Mijths  and  Tales.  73
+
+AYlien  he  was  at  a  little  distance,  he  began  to  cry  harder.  At  last  she
+became  impatient  and  went  out  to  him.  Then  he  said,  "Those  bad  peo-
+ple who  visited  me!  They  told  me,  'Your  wife  is  dead.'"  Then  he  kissed
+his  wdfe.
+
+(c)    With  his  Daughters.
+
+After  he  had  been  at  his  tent  a  while,  he  pretended  to  be  sick.  He
+would  not  eat,  and  became  very  thin.  He  had  two  daughters.  They
+were  unmarried,  and  young  and  pretty.  Now  Xix'a'H  seemed  nearly  dead.
+Then  he  said,  "Old  woman,  I  shall  leave  you  soon.  There  are  those  skin-
+scrapers,  and  sleighs  of  ribs,  and  stone  hammers,  which  I  made  for  my
+daughters.  I  want  them  buried  with  me.  Put  me  into  that  crooked  tree
+here.  Do  not  tie  me:  only  wrap  me  in  my  robe,  and  put  those  things  in  with
+me.  There  is  a  man  called  One-eyed  Owl.  He  always  has  white  clay
+over  his  right  eye.  He  carries  a  sharp  tomahawk  (kaahaanou).  Give
+him  both  my  daughters  when  he  comes,  and  put  up  a  tent  for  him.  Give
+them  to  no  one  but  him."  Then  he  became  worse,  and  died.  His  wife
+and  daughters  mourned  for  him.  They  cried.  They  buried  him  as  he
+had  said.  He  lay  in  the  tree  for  four  days.  Then  a  coyote  passed.  Nix'a'H
+called  it  and  said,  "Howl,  and  call  all  the  coyotes  and  wolves."  The
+coyote  sat  down  and  howled  until  they  all  came.  Nix'a"t  broke  all  the
+skeletons  that  were  there,  and  scattered  them  about.  He  broke  and  scat-
+tered the  im])lements  that  were  buried  with  him.  Then  he  said  to  the
+wolves,  "Now  howl,  'We  have  eaten  Nix'a'H.'"  Then  they  howled,  "We
+have  eaten  Nix'a'H;"  and  he  ran  into  the  brush.  When  his  wife  and  his
+daughters  heard  what  the  wolves  howled,  they  screamed  and  cried.  Nix'a"t
+remained  out  four  days  more.  Then  he  made  himself  a  pointed  tomahawk,
+and  painted  his  robe  white.  He  put  white  clay  over  his  right  eye.  He
+also  covered  a  scar  on  his  cheek.  Then  he  came  and  sat  on  the  hill  near
+the  tent.  One  of  the  girls  went  out.  She  saw  him.  "He  looks  like  the
+man  that  my  father  was  telling  of,"  she  said.  She  went  in  and  told  her
+mother.  The  woman  looked  out  and  saw  him.  "That  is  the  one,"  she
+said.  "Both  of  you  go  and  take  his  robe.  Take  hold  of  it  on  each  side,
+and  bring  him  in.  Do  not  be  ashamed.  He  is  the  one  your  father  men-
+tioned." Then  the  two  girls  went  out  and  brought  him.  The  woman
+put  up  a  tent  for  him,  and  the  girls  sat  by  him  on  the  bed,  one  on  each
+side.  At  night  they  lay  down,  one  on  each  side  of  him.  Then  he  slept
+Avith  them  both.  Thus  they  did  many  nights.  The  two  girls  were  very
+beautiful,  and  he  too  Avas  a  fine-looking  man  in  the  day.  One  of  the  two
+girls  noticed  that  at  night  he  was  not  good  looking.  Then  she  saw  a  scar
+under  his  right  eve,  and  thought,  "He  looks  like  my  father."     She  could
+
+
+74  Anthropological  Papers  American  Museujn  of  Natural  History.        \\o\.  I,
+
+not  help  thinking  it  was  he.  "I  think  it  is  Nix'a"t  my  father  who  has
+married  us,"  she  said  to  her  mother.  "You  foohsh  one!  Your  father
+is  dead,"  said  the  woman.  Several  times  the  girl  said  the  same  to  her
+mother.  At  last  one  night  the  woman  raised  the  tent-door  a  little  and
+looked  in.  Indeed  it  was  Nix'a'H!  She  eried,  "Ah!  is  that  how  you  die,
+Nix'a'H,  to  marry  your  daughters?"     She  ran  to  get  a  club,  and  he  ran  off.
+
+{d)    With  the   Woman  ivho  crossed  the  River.
+
+Then  he  continued  to  go.  He  saw  a  woman  going  in  his  direction.  He
+overtook  her.  He  pretended  to  be  a  woman,  "^^here  are  you  going,  my
+friend?"  he  said.  "My  husband  beat  me  antl  I  am  going  away.  Where
+are  you  going?"  she  said.  "My  husband  beat  me  too,  and  I  am  leaving
+also.  Let  us  go  together,"  said  Nix'a"t.  Then  they  went  together.  They
+came  to  a  river.  "Go  first,"  said  the  woman.  "No,  you  go  first,"  said
+Nix'a"t.  Then  they  both  lifted  up  their  dresses.  "Oh!  your  legs  look
+like  a  man's,"  said  the  woman.  "Have  you  never  heard  tell  of  the  woman
+whose  legs  look  like  a  man's?"  said  Xix'a"t.  Cum  longius  in  flumen
+introiissent,  vestes  altius  levaverunt.  "O,  clunibus  viro  similis  es!"  dixit
+femina.  "Nunquam  fama  illam  feminam  accepisti  cujus  clunes  viri  illis
+simihe  essent?"  dixit  Nix'a'H.  Pa?ne  cum  transiissent  penis  Xix'a'Ho  e
+manibus  prolapsus  aquam  percutiens  sonum  dedit.  He  picked  it  u])
+hastily.  "What  did  you  drop?"  asked  the  woman.  "It  is  too  bad!  It
+was  a  love-root.  I  am  sorry  I  dropped  it,"  said  Nix'a'H.  When  they  had
+crossed,  subito  penem  ei  monstrans,  "Aspice,  amica!"  Nix'a"t  dixit.  £x-
+territa  in  terram  cecidit.  Ad  earn  adiit  libidinamque  explevit.  Turn
+iterum  profectus  est.
+
+(e)    With  the  Sleeping  Woman.
+
+He  came  to  a  camp.  He  looked  into  a  tent  and  saw  a  pretty
+woman  asleep.  He  went  in,  sat  down,  and  waited  for  her  to  wake  up.
+When  she  did  not  awake,  he  went  out,  and,  cum  excrementum  in  extremum
+baculi  cepisset,  put  it  on  her  dress.  Then  he  came  in  once  more  and  coughed.
+Still  she  did  not  wake  up.  Then  he  pushed  her  thighs,  saying,  "Surge,
+lectum  inquinavisti."  At  last  she  awoke.  Then  Nix'a"t  pretended  that
+he  was  about  to  cry  out,  but  the  woman  hastily  told  him,  "Do  not!"  Four
+times  he  made  as  if  to  call  out  loudly,  "Hjiec  femina  lectum  inquinavit,"
+sed  summissa  voce  susurravit.  Mulier  dixit,  "Si  taces,  me  tibi  dabo."
+"Bene,  si  te  possidere  me  sines,  tacebo."  "Cautus  sis,  fratres  prope
+dormiunt,"  mulier  dixit.     Tum  Nix'a"t  libidinam  explevit.
+
+
+1907.]  Kroeber,  Gros  Veyitre  Myths  and  Tales.  75
+
+(/)    With  the  Buffalo  he  called  and  the  Rabbit.
+
+Then  he  went  on  again.  He  saw  a  man  sittmg  on  a  high  bank.
+His  legs  were  hanging  over  the  cliff.  He  had  two  round  rattles.  He  sang,
+and  struck  the  rattles  on  the  ground.  Then  the  buffalo  came  in  strings
+on  each  side  of  him,  and  fell  over  the  bank  and  were  killed.  Then  Nix'a'H
+cried.  He  said,  "Pity  me ! "  The  man  said,  "What  do  you  wish  ? "  Nix 'a"t
+cried  louder.  At  last  he  persuaded  the  man  to  let  him  have  the  power  of
+calling  the  buffalo.  The  man  gave  it  to  him,  saying,  "You  must  not  use
+the  song  for  nothing.  You  must  only  use  it  when  the  camp  is  very  hungry."
+Then  Nix'a"t  went  oft'.  Soon  he  began  to  try  his  power.  He  sat  at  the
+edge  of  a  bank,  and  sang  and  rattled.  The  buffalo  came  in  strings,  and
+fell  over  the  bank.  He  left  them  and  went  on.  Three  times  he  called  the
+buffalo.  When  he  called  them  the  fourth  time,  the  buffalo  came  and
+pushed  him  over  the  bank,  and  fell  on  top  of  him.  Anus  ejus  solus  eminuit.
+Lepus  advenit  et  cum  anum  vidisset,  cum  eo  copulavit.  Nix'a^t  lay  there.
+After  a  time  he  saw  a  Coyote.  "Come  here.  Coyote,"  he  said.  "What  is
+it?"  asked  the  Coyote.  "Call  all  the  coyotes  and  wolves,"  said  Nix'a"t.
+The  Coyote  went  on  a  hill,  and  howled.  All  the  coyotes  and  w^olves  came,
+and  ate  the  buffalo,  and  dragged  away  the  bones,  until  at  last  Nix'a'H
+emerged.  He  went  on.  Tum  inquinavit.  When  he  looked  back,  he  saw
+little  rabbits  scampering  away.  He  said,  "Good!"  He  was  pleased.
+Three  times  he  saw  rabbits  run  off.  Quater  cum  inquinare  pararet,  he
+picked  up  rocks,  spread  out  his  robe  behind  him,  and  weighted  its  edge
+with  rocks.  Tum  inquinavit,  and  suddenly  jumped  out  from  his  robe.
+"I  will  get  you  this  time!"  he  cried  as  he  stamped  about  on  his  robe.  Then
+he  lifted  up  the  edge  and  looked  under.  He  thought  he  had  killed  rabbits,
+but  there  was  only  excrement.  His  robe  was  soiled.  He  began  to  run
+toward  camp  as  hard  as  he  could,  crying  loudly,  "Come  out,  all!  The
+enemy  pursue  me!  Mount  your  horses!  Inquinantes  Piegani  me  perse-
+quuntur!  Celeriter  nisi  venietis,  togam  meam  inquinabunt!"  The  people
+hastily  mounted,  rode,  came  there,  and  found  him  toga  inquinata.  "I
+told  you  to  hurry,"  said  Nix'a"t.^
+
+IG.   One-eyed  Owl  and  his  Daughter.
+
+A  man  lived  alone  with  his  family.     He  had  a  pretty  daughter.     He
+said,  "When  I  die,  let  my  daughter  marry  a  one-eyed  man  who  has  white
+
+
+I  Obtained  from  informant  R.  Compare,  for  the  first  episode,  Nos.  7  and  13,  and  Arapaho,
+Nos.  49,  50,  52,  53:  for  the  second,  Arapaho,  Nos.  53-55;  for  the  third.  No.  16,  and  Arapaho,
+Nos.  42,  43:  for  the  fourth  and  fifth  respectively,  Arapalio,  Nos.  36  and  37;  for  the  sixth,  No.  5,
+and  Arapalio,  Nos.  32,  33.
+
+
+76  Anthropological  Papers  A)nerican  Museum  of  Natural  Histonj.        [Vol   I,
+
+clay  on  his  eye."  Then  he  pretended  to  be  sick.  He  told  his  wife,  "When
+I  am  dead,  do  not  bind  me  up,  but  lay  me  on  the  prairie."  Then  he  seemed
+to  cUe,  and  she  put  liim  out  on  tlie  prairie.  He  called  the  wolves,  and  told
+them  to  howl,  "We  have  eaten  the  person  here."  He  gathered  bones  and
+laid  them  by  his  l)lanket.  He  Avent  away,  painted  one  of  his  eyes  white,
+and  came  to  his  own  tent.  His  daughter,  coming  out  of  the  tent,  saw  him,
+and  told  her  mother,  "There  is  the  man  that  my  father  wanted  me  to  marry."
+Her  mother  said  to  her,  "Let  us  put  up  a  tent  for  him."  Then  they  put  uj)
+a  tent,  and  the  girl  married  him.  He  always  went  off  in  the  morning  and
+came  back  at  night.  Then  the  girl  saw  that  he  had  a  scar,  which  her  father
+had  had.  She  said  to  her  mother,  "He  looks  like  my  father."  Her  mother
+said  to  her,  "Tie  a  string  from  your  bed  to  mine,  and  pull  it  when  he  enters."
+At  night  he  came,  and  the  girl  pulled  the  string.  Then  the  woman  came
+from  her  tent  and  found  her  husband.     She  beat  him  nearly  to  death/
+
+17.  The  Man  who  went  to  War  with  his  jNIother-in-law.
+
+There  was  a  camp-circle.  A  man  went  off.  At  a  distance  he  built
+two  brush  shelters.  The  next  day  he  came  back.  He  sat  in  his  lodge
+and  did  not  speak.  His  wife  asked  him,  "What  is  the  matter?"  He
+did  not  answer.  She  asked  him  again  and  again.  At  last  he  said,  "I  saw
+many  men  going  to  war  with  their  mothers-in-law  in  order  to  steal  horses  for
+them."  Then  his  wife  said,  "I  will  ask  my  mother  to  go  with  you."  She
+asked  her  mother,  and  her  mother  consented.  Then  they  started  off  to-
+gether, the  man  riding  in  front  and  she  behind.  They  came  to  the  place
+where  he  had  been,  and  each  slept  in  a  shelter.  In  the  morning  the  man
+went  out  as  if  to  look  for  tracks.  When  he  came  back  he  said,  "I  cannot
+find  the  tracks  of  the  people  I  saw.  I  do  not  know  where  they  can  have  gone."
+Then  they  staid  there  over  night  again.  The  man  had  put  stones  near  his
+bed.  He  threw  them  at  his  mother-in-law's  shelter.  Soon  she  said,  "Some
+one  is  troubling  me  here.  There  is  a  ghost  about.  I^et  me  come  into  your
+shelter."  He  consented.  After  a  time  he  again  threw  stones  to  where
+she  was  lying.  She  said  again  that  she  Avas  being  disturbed,  and  asked,
+"Una  dormiamus."  Iterum  assensus  est.  Tum  se  frigere  questus  est.
+Mulier  rogavit,  "Qua  parte  friges?"  "Hie,"  dixit.  Iterum  rogavit,  "Qua
+parte?  Sumus  soli.  Nullus  cognitum  habebit.  Die  mihi  qua  parte  te
+frigere."  "Hie,  tange,"  dixit.  Tum  ilia  tetigit.  Erectus  ei  penis  fuit.
+Dixit,  "Inserere  ut  calescat  volo."  Muliere  assensa  penem  inseruit.  Illic
+vixerunt  donee  mulier  filium  peperit,  postquse  domuni  redierimt.-
+
+^  From  informant  Q.     Compare  No.  15,  and  Arapaho,  Nos.  42,  43.
+2  From  informant  Q.     Compare  Arapaho,  Nos.  39,  40.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  77
+
+18.  The  Kit-fox  and  the  Ghost.
+
+The  Kit-fox  started.  He  went  along  a  path  in  the  woods.  As  he  went,
+he  smeh  something  that  stunk.  He  stopped  and  sniffed.  The  odor  eame
+from  a  dead  person  buried  in  a  tree.  The  Kit-fox  said,  "It  stinks."  Then
+the  dead  person  came  dowTi  from  the  tree  and  asked,  "AVhat  were  you
+saying?"  "I  said  it  smelled  good,"  said  the  Kit-fox.  "No,  you  said
+something  bad  of  me."  "No,  I  said,  'It  smells  like  sweet-grass  about
+here.'"  The  ghost  at  last  allowed  him  to  go.  The  Kit-fox  went  oft'.
+When  at  some  distance,  he  called  to  the  ghost,  "I  said,  'Something  smells
+bad  here.' "  Then  the  ghost  pursued  him.  He  came  near,  and  almost
+caught  him.  The  Kit-fox  ran  into  a  hole  just  as  the  ghost  caught  the  end
+of  his  tail  and  pulled  it  off.  After  a  time  the  Kit-fox  came  out  again  and
+<?ried.^
+
+19.    Found-in-the-Gr.\ss.
+
+A  man  camped  alone.  In  the  morning  he  would  go  to  hunt,  and  in
+the  evening  he  came  back.  "If  a  person  comes  while  I  am  away,  do  not
+ask  him  to  come  in,"  he  said  to  his  wife.  "Even  if  he  is  just  about  to  come
+in,  do  not  cause  him  to  enter."  And  surely,  when  he  was  away,  somebody
+■came  there;  but  his  wife  said  nothing,  and  the  person  merely  walked  around
+the  tent.  Sometimes  he  made  as  if  to  enter;  but  the  woman  would  not  say
+anything,  and  he  did  not  come  in.  Then  her  husband  retiu-ned,  and  asked
+her,  "Has  that  jHTson  been  here?"  "Yes,  he  came,"  she  told  him.
+"Indeed!"  he  said  to  her.  "Now,  even  if  he  seems  about  to  come  in,
+you  must  not  tell  him  to  enter."  Then  he  went  hunting  again.  After
+he  was  gone  some  time,  that  ])erson  came  there  again.  He  made  as  if  to
+come  in,  but  he  did  not.  Then  he  opened  and  shut  the  door  several  times.
+Then  the  woman  could  restrain  herself  no  longer,  and  told  him,  "Come
+in!"  Then  the  man  came  in.  She  cooked  for  him  to  eat,  and  after  she
+hud  cooked  she  gave  him  the  food;  but  he  said,  "That  is  not  the  kind  of
+plate  I  use."  Then  she  changed  the  plate;  but  again  he  said,  "That  is
+not  the  kind  of  plate  I  use."  Then  she  continued  to  give  him  other
+])lates;  and  he  said  the  same  thing  to  her,  until  she  had  used  all  the
+plates  and  dishes.  She  did  not  know  what  to  give  him.  Then  she
+thought  what  kind  of  plate  to  use.  She  took  off  one  of  her  moccasins  and
+gave  it  to  him  as  a  plate.  "That  is  nearly  it,"  he  said  to  her.  Then  she
+took  off  one  of  her  leggings  and  used  it  as  a  plate.  "Very  nearly,"  he  told
+her.     Then  she  thotight,  "I  will  try  my  dress  for  a  plate."     Then  she  took
+
+1  From  informant  M.
+
+
+78  Anthropological  Papers  American  Museum  of  Natural  History.         [Vol.  I,
+
+off  her  dress,  and  spread  it  out  for  him  as  a  plate.  "That  is  very  nearly  it,"
+he  said  to  her.  Then  she  lay  flat  on  her  back  and  made  a  plate  of  her  belly.
+"That  is  it,"  he  told  her.  She  was  pregnant.  After  the  man  had  eaten,
+he  cut  her  open.  Then  he  drew  out  one  of  her  children,  and  threw  it  to
+the  door.  "Ka'a"en  will  be  your  name,"  he  told  it.  Then  he  drew  out
+the  other  and  threw  it  away.  "Nii^a'"  will  be  your  name,"  he  said  to  it.
+She  had  been  with  twins,^  this  woman  he  had  cut  o})en.  After  he  had  done
+this,  he  went  out  and  disappeared.  After  a  time  the  man  who  was  the
+husband  of  this  woman  who  had  ])een  ripped  open,  returned  from  the  hunt,
+and  his  wife  did  not  appear.  When  she  did  not  come  out,  he  became  fright-
+ened. He  dismounted  and  threw  off  his  meat.  "I  told  her  so,"  he  said
+to  himself.  Then  he  went  inside.  There  she  lay  at  the  back  of  the  tent.
+He  cried  when  he  saw  his  wife  lying  dead  on  her  back.  He  went  out  on  the
+prairie  and  cried.  He  mourned  day  and  night.  When  he  came  back  to
+his  tent,  his  arrows  were  scattered  about.  Then  he  put  his  arrows  back
+into  the  quiver.  Whenever  he  was  away,  the  arrows  were  scattered  about
+the  tent.  He  continued  to  gather  them  up  and  put  them  back  into  the
+quiver.  When  he  had  done  this  repeatedly,  he  watched  for  those  who  took
+his  ari'ows  out.  Going  out  doors,  he  lay  on  his  face  near  the  tent  and  began
+to  cry.  It  sounded  as  if  he  were  far  off".  While  he  cried,  he  heard  a  child
+speaking.  It  said,  "Xii^a'",  let  us  play.  Our  father  is  far  away,  crying."
+Soon  he  again  heard  children  speaking.  "I  beat  you,"  they  said  to  each
+other.  "Look,  look  at  it  closely,"  they  said.  Then,  when  he  heard  them
+say  it  again,  he  got  up  and  ran  into  the  tent.  One  of  the  boys  escaped,
+but  the  one  who  was  looking  at  the  arrows  most  closely  he  caught.  The
+child  scratched  him  and  cried,  and  said,  "Let  me  go."  The  man  said,
+"Come,  my  son,  be  quiet.  I  want  you  to  live  with  me.  I  will  make  you  a
+bow  and  arrows.  You  can  always  shoot  with  them."  Then  the  boy
+became  quiet,  and  they  remained  together.  Soon  after,  the  man  said,  "Well,
+my  son,  I  will  go  out  as  I  did  when  I  caught  you.  I  will  do  it  again,  because
+I  am  trying  to  catch  your  younger  brother.  After  I  begin  to  cry,  you  must
+say  to  your  younger  brother,  'Let  us  play  together,'  and,  when  you  beat
+him,  you  must  say,  'Look  close!'  When  you  say  that  to  him,  I  will  come
+in."  When  he  had  told  his  son  what  to  do,  he  went  out  and  lay  down  on
+his  face  and  began  to  cry.  And  indeed  Ka'a"en  soon  called,  "Nii^a'",  come
+here!  Let  us  play!  Our  father  is  crying  at  a  distance."  "No,  I  will
+not,  for  you  smell  like  your  father,"  his  younger  brother  said  to  him.  "You
+need  not  touch  me,"  he  told  him.  "No,  I  do  not  want  to.  You  smell
+like  your  father,"  Nii^a'"  told  him.     He  had  difficulty  in  persuading  him.
+
+1  The  older  of  Gros  Ventre  twins,  if  boys,  is  given  tlie  name  Ka'a"en.      Tlie  younger  is.
+sometimes  called  Niica'"  "  second."
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  79
+
+At  last  he  came  in,  and  they  playetl  together.  When  Ka'a"en  beat  him,  he
+said,  "I  beat  you."  Then  the  man  got  up  and  ran  into  his  tent.  There
+hay  Xii^a'"  looking  closely  at  the  arrows.  Just  as  he  was  about  to  escape,
+his  father  caught  him.  He  cried  and  scratched,  and  said,  "Let  me  go!"
+"Be  cjuiet,  my  son.  You  will  live  with  me.  I  will  make  you  a  bow  and
+arrows,  and  you  can  always  shoot  with  them,"  said  his  father.  Then  he
+quieted  down.  Thus  their  father  caught  them  both.  He  made  bows  and
+arrows  for  both  of  them.  Then  Ka'a"en  said  to  him,  "Now,  father,  make
+a  sweat-house  and  lay  our  mother  down  in  it."  Then  he  did  as  his  son
+told  him.  Then  Ka'a"en  said,  "Step  aside,"  and  he  went  to  one  side.  Then
+Ka'a"en  shot  up,  and  as  he  shot  he  said,  "Look  out,  look  out,  look  out,
+my  mother!"  Then  he  said  to  his  brother,  "Now  it  is  your  turn."  Then
+Xiiya'"  shot  up,  calling,  "Look  out,  look  out,  look  out,  my  mother!"  When-
+ever they  shot,  the  sweat-house  shook.  Ka'a"en  shot  upward  four  times,
+and  Nii^a"^  four  times;  and  when  each  had  shot  up  four  times,  their  mother
+ran  out  from  the  sweat-house.     Thus  they  restored  their  mother  to  life.
+
+After  a  time,  their  father  said  to  the  boys,  "Now,  my  sons,  when  you  are
+out  shooting,  never  pick  up  an  arrow  after  you  have  shot  it."  Then  when
+tliey  went  shooting,  they  never  picked  up  their  arrows  after  they  had  shot
+them.  Once,  when  they  had  started  to  return,  they  had  used  up  all  their
+arrows.  Near  where  they  were  going  sat  a  bird.  Then  Nii9a"^  said  to  his
+brother,  "My  older  brother,  I  will  go  back  and  pick  up  one  of  my  arrows.
+I  want  to  shoot  this  bird."  "No,  our  father  told  us  never  to  pick  up  our
+arrows  after  we  had  shot  them."  Nevertheless,  Nii9a'"  ran  back  and  took
+one  of  his  arrows.  As  soon  as  he  took  it,  the  dust  rose  behind  them.  When
+Ka'a"en  saw  it,  lie  ran  toward  their  tent,  and  Nii9a'"  followed  him.  Ka'a"en
+just  got  in.  Just  as  his  younger  brother  took  hold  of  the  door,  the  wind
+blew  him  away  together  with  it.  He  was  blown  far  away.  There  was  a
+camp  near  the  place  to  which  he  was  blown.  A  dry  lake  was  near  the
+camp.  It  was  there  that  he  came  down.  When  the  women  of  the  camp
+had  put  up  their  tents,  they  went  out  to  cut  grass  at  the  lake.  They  carried
+it  home  on  their  backs.  An  old  woman  went  out  while  the  rest  were  already
+coming  back.  When  she  reached  the  lake,  there  was  no  longer  anybody
+there.  Then  she  saw  a  bunch  of  grass.  "I  am  glad  that  there  is  some  left.
+I  will  cut  it,"  she  said  to  herself.  Then  she  went  to  it  and  began  to  cut  it.
+As  she  cut  it,  a  child  cried.  "I  am  glad  to  find  a  child.  I  will  have  it  for
+my  grandson,"  the  old  woman  said  to  herself.  Then  she  took  Nii9a"^  home.
+When  she  got  to  her  tent,  she  said,  "I  found  this  child  to  have  for  myself.
+I  found  it  in  the  dry  lake  as  I  was  cutting  grass  for  bedding.  Found-in-the-
+Grass  will  be  his  name."  Then  the  old  woman  raised  him.  When  he  had
+grown  up  to  be  a  boy,  a  man  who  had  pretty  daughters  that  were  not  married.
+
+
+)
+
+
+80  Ahthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+said  to  an  old  man,  "Cry  out,  'Any  one  that  may  catch  a  porcujnne,  or
+any  two  young  men  that  may  catch  porcupines,  will  marry  my  daughters. ' "
+Then  all  the  young  men  set  traps.  Found-in-the-Grass  said  to  his  grand-
+mother, "Make  me  a  trap,  grandmother.  I  will  also  trap  porcupines."
+He  made  her  laugh,  trying  to  do  what  he  was  too  young  for.  "What  do
+you  want  a  wife  for?  You  cannot  even  keep  yourself  clean,"  his  grand-
+mother said  to  him.  "No,  grandmother,  you  must  make  me  a  trap  and  I
+will  set  it."  Then  she  made  him  a  trap,  and  when  she  had  made  it,  he  took
+it  and  went  out  with  it.  He  set  it  right  in  the  trail.  Then  it  became  night.
+In  the  morning  all  the  young  men  got  up  and  went  to  look  at  their  traps.
+But  first  of  all,  just  as  it  was  beginning  to  be  light,  the  Crow  went  out  flying,
+and  looked  at  the  traps  of  all.  When  he  had  examined  all  the  traps,  he
+went  to  the  trap  that  Found-in-the-Grass  had  set;  and  this  was  the  only
+one  that  succeeded  in  catching  a  porcupine.  Then  the  Crow  stole  it,  but
+left  a  quill.  Found-in-the-Grass  came  and  looked  at  his  trap.  He  found
+it  as  he  had  set  it.  But  a  porcupine-quill  lay  there.  Then  he  thought,
+"It  must  be  that  somebody  has  stolen  it."  He  went  back,  and  said  to  his
+grandmother,  "Grandmother,  I  think  somebody  stole  the  porcupine  from
+me:  here  is  a  quill."  "Indeed!"  she  said  to  him.  Not  very  long  after
+he  had  told  her  that  some  one  had  robbed  him,  an  old  man  cried  out,  "The
+Crow  is  the  one  who  has  succeeded  in  trapping  a  porcupine."  "Grand-
+mother," said  Found-in-the-Grass,  "it  must  be  he  who  stole  my  jiorcupine.
+Take  this  quill  and  show  it  to  that  man,  the  father  of  those  two  young
+women."  The  old  woman  took  the  quill  and  showed  it  to  the  man.  "Here
+is  a  porcupine-quill.  I  came  to  show  it  to  you.  The  Crow  who  said  that
+he  trapped  it,  stole  his  porcupine.  He  stole  it  from  my  grandson."  This
+she  said  to  the  man.  "Yes,"  he  told  her.  "Well,  then,  the  Crow  and
+Found-in-the-Grass  must  each  marry  one  of  my  daughters.  Well,  which
+of  you  two  wants  to  marry  Foimd-in-the-Grass  ?  "  he  said  to  his  daughters.
+The  oldest  one  said,  "I  will  not  marry  him.  He  has  a  big  belly,  and  has
+mucus  on  his  nose,  and  his  hair  is  sticky  and  tangled."  Thus  she  spoke
+about  Found-in-the-Grass.  "The  Crow  is  the  one  I  will  marry,"  she  said.
+The  younger  said,  "Found-in-the-Grass  is  the  one  I  will  marry.  I  would
+not  marry  the  Crow,  for  he  has  a  large  nose,  and  he  is  only  a  bird."  Thus
+the  younger  one  said.  But  the  older  one  said  to  her,  "Who  would  want
+to  marry  him,  that  Found-in-the-Grass  with  the  big  belly!"  "Who  would
+marry  the  Crow!  He  is  only  a  bird  with  a  big  nose,"  her  yovmger  sister
+said  to  her.  Thus  the  Crow  and  Found-in-the-Grass  were  married.  After
+a  time  there  was  a  famine.  The  Crow  said  to  an  old  man,  "Cry  out,  'The
+Crow  will  go  after  buffalo.  He  says,  "Build  an  enclosure."'  Tell  them
+that."     Thus  he  told  the  old  man,  and  flew  off".     He  was  gone  a  long  time.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  81
+
+In  the  evening  he  came  flying  back  alone.  As  soon  as  he  started,  the  people
+had  all  made  a  large  enclosure  for  the  buffalo.  Now  he  came  back  and
+said,  "I  flew  everywhere,  but  I  saw  no  buffalo."  Then  they  had  made
+their  enclosure  in  vain.  The  Crow  had  failed.  After  a  while  Found-in-the-
+Grass  said  to  an  old  man,  "I  want  you  to  cry  out,  ' Found-in-the-Grass
+will  go  to  get  buft'alo.     He  says,  "Make  an  enclosure.'""     Thus  he  told  \
+
+the  old  man.  Then  he  sent  his  wife  to  her  father.  "Go  and  tell  vour
+father  that  I  want  him  to  go  with  me  to  hunt,"  he  said  to  his  wife.  When
+she  entered  her  father's  tent,  her  older  sister  was  there.  As  soon  as  she
+entered,  her  older  sister  said,  "^Yhere  are  you  going,  you  wife  of  the  big-
+bellied  child  with  the  dirty  nose?  Why  do  you  leave  him?  You  should
+not  let  him  out  of  your  sight."  "And  what  are  you  doing  here?  Whv
+do  you  leave  your  husband  the  Crow,  the  one  with  the  big  nose?  You
+should  not  let  him  out  of  your  sight.  My  husband  is  changed  every  night.
+In  the  evening  he  goes  out :  when  it  is  dark  he  comes  in  again,  and,  when
+lie  comes  in,  he  is  a  good-looking  yoimg  man.     He  is  perfumed.     Your  jf
+
+husband  the  Crow  cannot  do  that!"     But  her  older  sister  said,  "Found-  ^"^
+
+in-the-Grass  is  not  the  kind  to  be  changed  in  the  night."  Then  Found-in-
+the-Grass  and  his  father-in-law  went  hunting.  When  they  had  gone,
+Found-in-the-Grass  said  to  his  father-in-law,  "Xow  go  up  on  this  hill  and
+watch  me  from  there."  There  was  a  large  flat  place.  Found-in-the-Grass
+went  there  and  began  to  gather  buft'alo-chips.  Then  he  placed  them  here
+and  there  in  pairs  on  top  of  each  other.  When  he  had  covered  the  large
+flat  here  and  there  with  chips,  he  went  down  (into  a  gully)  out  of  sight.
+Soon  he  reappeared.     As  soon  as  he  appeared,  buffalo  stood  all  about.  i
+
+Then  he  took  a  buft'alo-chip  and  burned  it.  After  he  had  burned  it,  he  went
+towards  the  wind  to  cause  the  buft'alo  to  smell  it.  When  he  had  done  this,
+he  ran  to  where  the  enclosure  was,  and  all  the  buft'alo  followed  him.  He
+dropped  out  of  sight,  and  right  there  the  buffalo  followed  him  over  the  bank.
+But  he  had  jumped  to  one  side.  Thus  Found-in-the-Grass  satisfied  the
+])eople's  hunger.  Then  he  went  home  to  call  his  wife  to  shoot  the  buft'alo
+in  the  enclosure.  His  quiver  was  of  otter-skin.  Then  his  wife  shot  the
+buffalo.  While  she  was  killing  them,  her  sister  came  to  her  and  said,  "Let
+me  have  the  bow:  let  me  do  the  shooting."  "No,"  said  her  younger
+sister.  "What  do  you  want  to  kill  them  for?  If  you  want  to  do  the  killing,
+you  should  kill  them  with  your  husband's,  the  big-nosed  Crow's,  bow  and
+arrows."  After  she  had  killed  all  the  buft'alo  that  were  in  the  enclosure,
+Found-in-the-Grass  said  to  the  people,  "Do  not  take  for  your  own  the  one
+that  is  scabby.  It  is  for  my  grandmother  to  skin."  This  one  that  he  called
+scabby  was  the  fattest  of  all.  Then  all  the  people  began  to  butcher.  Found-
+in-the-Grass,  and    his    wife,   and    his    grandmother,  together   skinned    the
+
+
+82  Anihropolofjical  Papers  American  Museum  of  Natural  History.         [Vol.  I,
+
+scabby  one.  He  filled  a  gut  with  blood,  and  put  it  on  his  wife's'  back.
+"Carry  home  this  gut  filled  with  the  blood  which  we  have  obtained,"  he
+told  her.  Just  as  she  started  to  go,  he  stabbed  the  gut  in  which  the  blood
+was.  As  soon  as  he  had  cut  it,  his  wife  was  wearing  a  red  robe  and  a  red
+dress  and  red  leggings.  The  blood  had  changed  to  clothing.  His  sister-
+in-law  saw  him  do  this,  and  came  over  to  him.  "I  wish  you  would  do  to
+me  as  you  did  to  your  wife.  That  is  why  I  came,"  his  sister-in-law  said
+to  him.  "Yes,"  he  said.  "Get  blood,  and  I  will  do  to  you  as  I  did  to
+your  younger  sister."  Then  she  got  blood  and  put  it  on  her  back,  and  he
+cut  the  gut.  When  he  cut  it,  blood  ran  down  all  over  her.  Thus  Found-
+in-the-Grass  ridiculetl  his  sister-in-law.^
+
+20.    Clotted-Blood.
+
+There  was  an  old  man  who  had  four  daughters  and  a  son-in-law.  As
+his  daughters  grew  up,  his  son-in-law  married  them  until  he  had  all  four.
+The  son-in-law  was  bad.  He  and  his  wives  never  lived  with  the  old  man.
+They  lived  in  another  tent.  The  son-in-law  would  go  hunting  and  take
+the  old  man  with  him.  The  old  man  did  all  the  butchering,  but  his  son-in-
+law  gave  him  no  meat.  The  old  man  got  only  bones  to  boil  for  the  marrow.
+Once  they  went  hunting,  and  drove  the  buffalo  under  a  steep  bank.  The
+son-in-law  shot  several.  They  ran  away  wounded,  fell,  and  died.  The
+old  man,  following  their  tracks,  came  to  where  a  buffalo  that  had  been  shot
+through  the  lungs  had  coughed  out  a  piece  of  clotted  blood.  Then  he
+pretended  to  fall  down.  He  picked  up  the  blood  and  put  it  into  his  quiver.
+When  he  and  his  son-in-law  came  together  again,  his  son-in-law  asked
+him,  "What  did  you  pick  up  in  that  place?"  The  old  man  said,  "I  did
+not  pick  up  anything.  I  fell  down.  I  took  a  thorn  out  of  my  foot."  \\'hen
+they  had  finished  butchering,  they  took  the  meat  home.  The  young  man
+kept  it  all,  and  the  old  man  had  only  the  blood  which  he  had  hidden.  Then
+he  told  his  wife,  "Put  a  kettle  on  the  fire.  WV  will  cook  this  blood."  The
+old  woman  did  so.  When  the  water  boiled,  she  threw  the  blood  in.  Then
+a  child  cried.  The  old  man  said,  "Take  the  child  out.  It  will  be  our  son."
+Then  the  olil  woman  took  it  out  from  the  kettle.  It  was  a  boy.  The
+son-in-law  heard  the  child  crying.  He  told  his  youngest  wife,  "Run  to  the
+tent  and  see  what  the  child  is.  If  it  is  a  girl,  I  want  to  marry  her  when  she
+is  old  enough.  If  it  is  a  boy,  they  must  throw  him  away  and  kill  him."  The
+young  woman  went  over.  She  was  the  only  one  of  the  daughters  who  cared
+for  the  old  people.     Sometimes  she  stole  food  for  them.     She  asked  her  par-
+
+>  From  a  te.xt  obtained  from  informant  S.  Compare  Arapaho,  No.s.  19-143.  For  tlie  dis-
+astrous consequence  of  shooting  an  arrow,  compare  Arapaho,  No.s.  6,  141,  142.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  83
+
+■ents  what  the  child  was.  The  old  man  said  to  her,  "  It  is  a  boy,  but  you  must
+say,  'It  is  a  girl.'"  The  young  woman  went  back  and  told  that  it  was  a
+girl.  The  man  said,  "Take  some  of  this  refuse  over  and  let  the  old  woman
+drink  it,  so  that  she  will  have  milk  to  raise  the  child."  The  old  man  knew
+that  the  child  was  supernatural.  He  said  to  his  wife,  "Swing  the  child
+on  the  southwest  side  of  the  tent  (to  the  right  of  the  door),  then  swing  it
+on  the  northwest,  then  at  the  northeast,  then  at  the  southeast."  The  old
+woman  swung  the  child  at  the  west  (right)  of  the  door.  \Vhile  she  was
+swinging  it,  the  child  began  to  laugh.  AYhen  she  swung  it  for  the  second
+time,  at  the  northwest  of  the  tent,  it  began  to  talk.  When  she  swung  it
+the  third  time,  it  became  a  large  boy,  who  nearly  jumped  off  the  swing.
+When  she  swung  him  the  fourth  time,  at  the  left  of  the  door,  he  jumped  off.
+He  Avas  a  fine-looking  young  man.  Then  he  told  his  father,  "Make  me  a
+bow  from  the  last  rib  of  a  buffalo,  and  make  me  four  arrows  from  the  neck-
+tendons  of  buffalo."  Then  the  old  man  made  the  bow  and  arrows.
+He  made  them  well,  and  put  stone  points  on  the  ends  of  the  arrows.
+The  young  man  asked  him,  ".When  are  you  and  your  son-in-law  going
+hunting?"  The  old  man  said,  "I  do  not  know.  I  go  whenever  he  tells
+me."  At  night  the  son-in-law  sent  one  of  his  wives  to  tell  the  old  man  to
+be  ready  to  hunt  the  next  morning.  Very  early  the  next  morning  the  old
+man  and  Clotted-Blood  went  out.  The  son-in-law  sent  one  of  his  wives
+to  tell  the  old  man  to  come.  The  old  woman  cried  back,  "He  has  gone
+ahead."  The  woman  told  what  her  mother  had  said.  Then  the  son-in-
+law  said,  "I  will  find  him,  and  when  I  find  him  I  will  kill  him."  Clotted-
+IJlood  had  alrciidy  killed  a  fat  buffalo.  The  man  saw  the  buffalo,  came
+near,  and  called,  "Look  about  you  for  the  last  time,  old  man,  before  I  kill
+you."  Clotted-Blood  had  said  to  the  old  man,  "Take  this  kidney  and  eat
+it.  Let  him  see  it.  Turn  around,  and  hold  it  up  so  that  he  can  see  you
+eat  it."  He  himself  Avas  hiding,  lying  behind  the  buffalo.  The  man  said,
+"What  are  you  eating  there?  Drop  it  I"  The  old  man  was  frightened,
+and  nearly  let  the  kidney  fall.  Clotted-Blood  said  to  him,  "Hold  it  fast
+and  eat  it!"  Again  the  man  ordered  him  to  dro])  it.  Clotted-Blood
+ordered  him,  "Hold  it,  else  I  will  kill  you  before  him!"  Now  the  man
+was  very  close.  Then  Clotted-Blood  stood  up  beside  the  old  man.  The
+man  stopped,  looked  at  him,  laughed,  and  said,  "Well,  there  is  my  brother-
+in-law."  Clotted-Blood  said,  "Yes,  I  am  your  brother-in-law.  I  have
+been  waiting  a  long  time  to  see  you.  You  have  treated  my  father  badly."
+He  rolled  up  liis  sleeve,  and  put  an  arrow  on  his  bow.  The  man  jumped
+back.  Clotted-Blood  shot  him  in  the  right  side.  When  he  tried  to  pull
+out  the  arrow,  it  stretched.  The  more  he  pulled,  the  farther  it  stretched.
+He  could  not  [)iill  it  out.     Then  Clotted-Blood  shot  him  in  the  other  side.
+
+
+84  Anthropological  Papers  American  Museum  of  Xatural  History.        [Vol.  I,
+
+When  he  tried  to  pull  out  the  arrow,  it  stretched.  He  could  not  pull  it  out.
+Then  he  fell  down.  The  boy  had  killed  him.  Even  while  he  was  dyings
+he  continued  to  speak:  "You  cannot  escape  me.  You  cannot  get  where
+I  will  not  find  you."  Clotted-Blood  told  his  father  to  get  wood  and  make
+a  large  fire.  The  old  man  made  a  fire.  Clotted-Blood  told  him,  "Cut
+off  the  legs  and  arms  of  the  dead  man."  The  old  man  refused.  He  said,
+"My  son-in-law  was  very  wonderful.  I  do  not  wish  to  do  this."  "Well,
+I  will  do  it,"  said  the  young  man.  He  cut  off  an  arm,  and  threw  it  into  the
+fire.  The  arm  spoke:  "You  can  go  to  no  place  where  I  will  not  get  you."
+Clotted-Blood  did  not  care.  He  cut  off  the  rest  of  the  limbs,  and  threw
+everything  into  the  fire.  When  he  had  burned  up  the  dead  man  altogether,
+he  asked  his  father,  "Wliich  of  your  four  daughters  tried  to  help  you?"
+The  old  man  said,  "My  youngest  daughter  is  the  only  one  that  ever  loved
+me.  She  alone  helped  me.  The  others  never  helped  me."  Then  they
+started  to  go  back.  "  We  will  leave  this  meat.  You  will  not  need  it.  You
+will  have  plenty  when  you  get  back,"  said  Clotted-Blood.  Then  he  killed
+three  of  the  women  and  their  children.  Only  the  youngest  woman  and
+her  child  he  did  not  kill.  He  burned  the  bodies  up,  as  he  had  the  man's.
+Then  they  went  into  the  man's  tent  and  took  all  the  property.  They  had
+plenty  to  eat.
+
+Clotted-Blood  asked  the  old  man,  "My  father,  are  there  any  ])eople
+in  the  land  besides  you?"  "Yes,  there  are  many  tribes,"  said  the  old
+man.  "I  will  go  visiting,"  said  Clotted-Blood.  The  old  man  told  him,
+"Do  not  go.  No  one  ever  returns.  There  is  something  that  kills  them."
+But  the  young  man  was  determined  to  go.  Then  the  old  man  said  to
+him,  "If  you  will  go,  I  will  tell  you  all  the  dangerous  places.  The  first
+is  a  tree.  Every  one  that  passes  on  the  trail  by  that  tree  is  killed."
+Then  Clotted-Blood  started.  He  saw  the  tree.  "There  is  the  tree,"  he
+said.  He  came  near  it.  The  tree  began  to  sway.  Then  he  tried  to  go
+around  it.  It  was  impossible.  He  had  to  pass  by  the  tree.  Then  he
+made  a  motion  to  go  under.  The  tree  nearly  fell,  and  he  jumped  back.
+Then  again  he  made  a  motion  to  go  past,  but  jumped  back.  Then  he  went
+far  back,  and  ran.  When  he  was  under  the  tree,  it  fell  and  broke.  Then
+Clotted-Blood  was  a  down  feather  floating  in  the  air.  It  lit  on  the  ground
+and  he  was  a  man  again.  The  tree  had  been  hollow.  The  })eople  it  had
+killed  were  inside.  Some  were  dead,  some  were  only  bones.  Some  were
+not  yet  dead.  Clotted-Blood  took  them  all  out.  He  caused  those  who
+were  not  dead  to  live.  Then  he  burned  the  tree.  He  told  the  people,
+"Go  back  where  you  came  from.  Why  did  you  let  this  tree  kill  you?
+You  should  have  known  better.     You  are  not  children."
+
+Then  he  came  to  a  bridge  which  was  supported  in  the  middle  by  a
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  85
+
+buffalo-head.  Whenever  he  tried  to  step  on  it,  the  bridge  gave  way.
+Then  he  stepped  on  it  as  if  to  cross,  and  the  bridge  went  down.  Three
+times  he  stepped  on  it  and  the  bridge  went  down.  The  fourth  time,  he
+walked  out  on  it.  Just  as  the  bridge  began  to  sink,  he  jumped,  and  reached
+the  land  on  the  other  side  of  the  water.  The  bridge  went  down  and  never
+emerged.
+
+Then  he  came  to  a  great  wolf.  His  father  had  told  him,  "Even  if  you
+stand  far  away,  the  wolf  will  suck  you  towards  him."  Then  Clotted-
+Blood  stood  at  a  distance,  and  said  to  the  wolf,  "Now  draw  me  in.  I
+have  heard  that  you  draw  people  toward  you."  Then  the  wolf  began  to
+suck.  The  young  man  walked  toward  him.  He  pretended  that  he  was
+being  drawn  along,  and  made  motions  as  if  resisting.  "Indeed  you  are
+wonderful!  You  are  really  drawing  me  toward  you!"  he  said.  He  went
+toward  him  as  fast  as  he  could  walk.  The  wolf  lay  there  with  his  mouth
+open.  Without  stopping,  Clotted-Blood  went  right  on,  and  jumped  down
+his  throat.  Inside  he  found  people.  Some  Avere  alive,  some  nearly  dead,
+some  dead,  and  some  were  only  bones.  Above  him  he  saw  the  heart  hang-
+ing and  beating.  Then  he  said,  "  Ix't  us  dance.  You  sing  and  I  will  dance."
+Then  the  people  sang  for  him.  He  tied  a  knife  to  the  top  of  his  head,  and
+danced.  When  he  jumped,  he  pricked  the  heart.  Each  time,  the  wolf
+leaped.  Then  Clotted-Blood  jumped  high  and  pierced  the  heart,  and  the
+wolf  fell  dead.  Then  he  reached  up  and  cut  it  off.  Then  he  cut  the  sides
+of  the  wolf  open,  and  came  out  with  the  peo[)le.     Then  he  went  on.
+
+He  met  an  old  woman.  She  had  a  large  wooden  dish  which  she  heUl
+up  toward  people.  It  drew  them  toward  it,  and  when  they  struck  the  dish
+they  were  burned.  He  went  toward  the  old  woman  and  called,  "Old
+woman,  come  out  with  your  dish.  I  wish  to  be  drawn  by  it."  "My
+grandson,  I  have  been  wishing  for  a  long  time  to  see  you,"  said  the  old
+woman.  Clotted-Blood  continued  to  tell  her,  "Bring  your  dish  and  point
+it  at  me."  Then  at  last  she  brought  it  out.  He  was  really  drawn  by  the
+dish.  As  he  went,  he  made  himself  go  faster.  When  he  came  near,  he
+turned  into  a  down  feather,  which  was  blown  over  her  head,  and  lit  behind
+her.  Then  he  turned  to  himself  again,  seized  the  old  woman  from  behind,
+and  began  to  turn  the  dish  toward  her.  She  said,  "Pity  me,  my  grandson!"
+He  said,  "You  are  the  old  woman  who  destroys  people  with  her  dish."
+He  continued  to  play  with  her.  Then  he  turned  the  dish  toward  her,  and
+she  was  drawn  into  it  and  consumed.  Then  he  put  the  dish  on  a  large
+flat  rock,  pounded  it  with  mauls,  broke  it  up,  and  burned  it.
+
+He  came  to  a  large  camp,  whose  chief  was  a  large  Bull.  The  first  tent
+he  came  to  was  an  old  tent  outside  the  camp-circle.  He  went  in  and  found
+an  old  woman.     She  said,  "Well,  my  grandson,  what  are  you  doing  here?
+
+
+\
+
+
+86  Anthropologicol  Papers  American  Museum  of  Natural  History.        [\'ol.  I,
+
+This  place  is  dangerous.  Go  back  before  they  fiiifl  you  have  come  here.
+I  pity  you.  Go  back."  "To  whom  do  you  refer?"  asked  Clotted-Blood.
+Then  she  told  him  about  the  powerful  rnill.  Clotted-Blood  said,  "That
+is  the  one  I  came  to  see."  The  old  woman  urged  him  again  to  go  back.
+He  said,  "He  is  the  one  I  came  to  see.  I  Avill  not  go  back.  Cook  for  me.
+I  am  hungry."  The  old  woman  continued  to  urge  him  to  go  back;  but
+he  said,  "Cook  for  me.  I  am  hungry."  When  the  Bull  learned  that  he
+was  in  camp,  he  sent  for  him.  The  Bull  was  accustomed  to  gamble  with
+any  one  that  came.  He  had  everything  prepared  for  playing.  Clotted-
+Blood  went  to  him.  They  played  with  a  wheel  and  sticks.  Clotted-Blood
+le;  him  win  everything  except  his  bow  and  four  arrows.  Then  he  began
+to  win.  He  won  everything  the  Bull  had.  When  the  Bull  had  only  one
+thing  left  to  bet  with,  he  became  angry.  As  they  ran,  following  the  wheel,
+he  snorted.  Next  time,  as  they  ran  after  it  side  by  side,  he  was  more  angry.
+He  turned  his  head,  hooked  the  young  man.  and  tossed  him.  As  Clotted-
+Blood  flew  up,  he  turned  to  down.  When  it  lit,  he  was  a  man  again.  The
+Bull's  horn  was  broken.  "When  one  does  that  to  me,  it  is  what  makes
+me  angry,"  said  the  Bull.  He  charged,  and  tossed  the  young  man  again.
+Again  Clotted-Blood  turned  to  a  plume,  and  when  it  reached  the  ground,
+he  was  a  man.  At  once  he  ran  for  his  l)ow.  The  Bull's  other  horn  was
+broken.  "When  one  does  that  to  me,  it  is  what  makes  me  still  more  angry,"
+said  the  Bull,  and  charged  again.  Then  Clotted-Blood  turned  to  down  and
+flew  entirely  over  him.  He  was  wondering  what  to  do  to  wound  him,
+for  the  Bull  was  altogether  of  bone.  He  was  impenetrable.  That  is  why
+all  were  afraid  of  him.  The  Bull  charged  again.  Clotted-Blood  turned
+to  a  down  feather,  jumped  over  him,  lit  behind  him,  and  shot  him  in  the
+anus.  The  arrow  went  in  out  of  sight.  The  Bull  fell,  and  Clotted-Blood
+cut  him  to  pieces.  Then  a  crier  called  to  the  camp,  "Clotted-Blood  has
+come.  He  has  killed  the  powerful  Bull.  He  has  killed  all  that  was  danger-
+ous on  the  way.  The  people  are  free  again."  Clotted-Blood  gave  all  his
+winnings  to  the  old  woman.  He  asked  her,  "Where  is  there  another
+camp?"  She  told  him,  "There  is  one  down  stream.  Do  not  go  there.
+The  people  are  powerful."     But  Clotted-Blood  started.
+
+Wlien  he  reached  the  camp,  he  went  into  an  old  tent.  An  old  woman
+said,  "There  is  my  grandson  Clotted-Blood!  You  had  better  go  back.
+If  they  find  you  here,  you  will  never  go  away  alive."  Clotted-Blood  said,
+"Give  me  to  eat.  What  is  it  you  refer  to?"  When  he  had  eaten,  the  old
+woman  told  him,  "There  is  one  who  has  a  swing  at  the  river.  He  kills  all
+that  swing  with  him."  Then  Clotted-Blood  said,  "That  is  what  I  want.
+I  have  heard  of  that  swing,  but  I  have  never  swung.  I  wish  to  try  it.  That
+man  is  the  one  v.hom  I  have  come  to  see."     When  it  was  found  out  that
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  87
+
+he  was  in  the  camp,  the  man  Avho  swung  people  sent  for  him,  saying,
+"Tell  him  to  come  to  swing."  Clotted-Blood  made  answer,  "It  is  good.
+I  will  come.  He  is  the  one  whom  I  wished  to  see.  I  shall  come  to  him
+soon."  Then  he  went  to  him.  On  a  tree  that  leaned  over  a  steep  bank
+there  was  a  swing.  Below  it  there  was  deep  water.  Then  the  man  swung
+him.  Clotted-Blood  said,  "Good!  this  is  good."  Then  he  said,  "Now  you
+in  your  turn  swing."  Then  he  swung  the  man.  Then  Clotted-Blood  in
+turn  went  on  the  swing  again.  The  man  swung  him.  He  swung  him  hard,
+and  when  he  was  far  out,  he  cut  the  rope,  and  Clotted-Blood  fell.  When
+he  was  near  the  water,  he  turned  into  a  down  feather.  It  was  blown  along
+by  the  wind,  hovered,  and  lit  just  across  the  river  at  the  edge  of  the  water.
+There  he  stood  as  a  man  again.  Then  he  went  back.  He  said  to  the  man,
+"It  is  much  pleasure  to  swing,  is  it  not  ?  Let  us  continue.  Now  it  is  your
+turn.  Get  on  the  swing."  Then  the  man  went  on.  Clotted-Blood
+swung  liim  hard.  When  he  was  above  the  water,  he  cut  the  swing.  The
+man  fell  into  the  deep  water.  A  large  water-monster  (bi'i^a"  or  bax'aa"^)  was
+in  the  water.  This  was  the  guardian  spirit  of  the  man  that  had  the  swing.
+He  swung  people  in  order  to  feed  them  to  this  animal.  Then  it  swallowed
+him.  But  it  knew  the  man,  and  brought  him  to  shore.  He  came  back
+to  Clotted-Blood.  Clotted-Blood  said,  "Let  us  continue  to  enjoy  ourselves
+by  swinging.  Xow  it  is  my  turn."  Then  he  swung.  Then  the  man  cut
+the  swdng,  and  he  fell.  He  allowed  himself  to  fall  into  the  water.  He  fell
+straight  into  the  water-animal's  mouth.  Inside  of  it  he  found  people  whom
+it  had  eaten.  He  cut  up  the  animal.  Then  he  came  out.  He  went  back
+to  the  man,  and  said  to  him,  "I  have  found  you  out.  It  is  you  who  have
+been  inflicting  suffering  on  the  people.  I  shall  make  you  suffer."  Then
+he  shot  an  arrow  into  his  side  and  another  into  his  other  side.  He  killed
+him.  Then  a  crier  called  out  to  the  camp,  "Clotted-Blood  has  arrived.
+He  has  killed  the  man  with  the  swing  and  his  supernatural  animal.  We
+are  free  again.  We  will  live  happily  from  now."  Clotted-Blood  asked
+the  old  woman,  "Is  there  another  camp?"  She  said,  "Down  the  river.
+But  do  not  go.  The  people  there  are  powerful."  "I  am  travelling  in  order
+to  see  such  places,"  said  Clotted-Blood,  and  started.
+
+Then  he  came  to  the  camp  and  went  into  an  old  woman's  tent.  [The
+original  here  repeats  the  dialogue  between  him  and  the  old  woman.]  In
+this  place  there  was  a  man  with  a  sharp  leg.  He  caused  those  who  came,
+to  play  at  kicking  with  him.  Clotted-Blood  put  a  limb  of  a  cottonwood
+under  his  robe.  They  played,  and  he  proved  superior  to  the  man.  Then
+the  man  kicked  at  him  with  his  sharpened  leg.  Clotted-Blood  threw  the
+stick  out,  and  the  other's  foot  pierced  it.  Then  a  large  cottonwood-tree
+stood  there.     In  the  top  of  it  stuck  this  man.     Clotted-Blood  left  him  there
+
+
+88  Anthropological  Papers  American  Museum  of  Xatural  History.        [\o\.  I,
+
+to  starve.  Then  a  crier  called  to  the  camp,  "Clotted-Blood  has  killed  the
+one  that  kicked.  We  are  free  again.  He  has  killed  every  dangerous  being^
+that  he  has  met."
+
+Then  Clotted-Blood  asked  his  way  to  the  next  camp  from  the  old  woman.
+He  came  to  another  old  woman's  tent.  [The  original  repeats  the  incident
+in  full.]  The  old  woman  told  him,  "A  chief  gives  his  daughter  to  those
+who  come  visiting.  Then  he  asks  them  to  do  something  that  will  kill  them."
+When  the  chief  learned  that  Clotted-Blood  was  in  the  camp,  he  sent  for  him.
+He  said  to  him,  "I  have  been  waiting  for  you.  I  wish  you  for  my  son-in-
+law."  Clotted-Blood  said,  "Yes,  1  am  glad  to  have  a  wife,  for  I  am  poor."^
+After  he  had  been  given  the  girl,  his  father-in-law  first  wished  him  to  get
+a  bin-ning  coal.  His  wife  told  Clotted-Blood  what  her  father  wanted,  and
+that  he  must  go  to  a  certain  light  that  was  shining.  Clotted-Blood  went.
+He  knew  at  once  what  the  light  was.  It  was  the  morning  star.  So  he
+got  it  and  brought  it  back.  Then  his  father-in-law  sent  him  to  get  sticks
+of  cherry-wood  for  arrows.  He  told  him  to  go  to  a  certain  thicket.  There
+he  had  four  bears  that  killed  all  who  came.  Clotted-Blood  took  his  bow
+and  went  toward  the  thicket.  The  bears  came  out  and  rushed  at  him.  He
+jumped  about,  avoiding  them,  and  shot.  He  killed  them  all.  Then  he
+cut  up  their  skins  into  thongs.  He  made  a  big  bundle  of  the  cherry-sticks,,
+put  the  fat  of  the  bears  in  with  it,  and,  tying  the  whole  together  with  the
+bearskin  thongs,  carried  it  home.  Then  he  sent  it  to  his  father-in-law  by
+his  wife.  The  old  man  was  frightened,  and  blushed.  He  did  not  know
+what  to  say.  When  he  had  made  his  arrows  ready  for  feathering,  he  told
+his  daughter  to  send  her  husband  to  get  feathers.  He  told  her  to  ask  him
+to  go  to  a  rocky  precipice  w4iere  birds  that  had  suitable  feathers  lived.
+Clotted-Blood  went  there  and  found  a  nest  with  two  young  ones  in  it.  Then
+he  went  into  the  nest  and  sat  with  the  young  birds.  He  watched  them.
+Whenever  they  opened  their  eyes,  lightning  flashed.  Whenever  they  moved,
+it  thundered.  "You  are  wonderful  little  birds,"  he  said.  He  took  the
+little  female  by  the  bill,  and  twisted  it.  "How  does  it  cloud  up  when  your
+mother  comes?"  he  asked.  The  Bird  said,  "It  clouds  up  very  dark.  My
+mother  is  terrible.  She  comes  with  hard  rain,  and  with  thunder  and  light-
+ning." "Oh,  yes!  your  mother  is  very  powerful,"  said  Clotted-Blood,  and
+twisted  the  bird's  bill  again.  Then  he  twisted  the  bill  of  the  young  male,
+and  asked  him,  "How  does  it  cloud  when  your  father  comes?"  The
+Bird  said,  "The  clouds  are  Avhite  when  my  father  comes,  and  he  comes
+with  heavy  hail  and  thunder  and  lightning,  for  my  father  is  very  powerful."
+"Oh,  yes!  your  father  is  very  powerful,"  Clotted-Blood  said,  and  twisted
+his  nose.  Then  he  saw  a  black  cloud  coming.  Soon  the  sky  was  clouded
+all  over,  and  it  rained  and  thundered,  and  there  was  lightning.     Clotted-
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  89
+
+Blood  went  into  a  cavity  in  tlie  rocks.  When  the  shower  was  over,  he  saw
+a  white  cloud  come  very  quietly;  he  could  hear  the  roar  of  the  hail.  Then
+the  old  female  Thunder  spoke  to  him  from  the  cloud,  "What  are  you  doing
+there  among  my  children  ?  Go  away!  You  will  make  me  angry."  Clotted-
+Blood  came  out  from  the  young  birds.  He  said,  "Very  well.  Let  me
+speak  to  you  first.  If  you  are  powerful,  you  will  be  able  to  pull  my  arrow
+out."  Then  he  shot  his  arrow  into  a  solid  flat  rock.  It  went  half  in.
+"If  you  can  pull  it  out,  you  can  kill  me,"  he  said.  Then  the  female  came
+down,  and  the  thunder  roared,  and  the  lightning  flashed,  and  she  seized
+the  arrow,  and  rushed  up.  The  arrow  stretched,  and  lengthened,  and
+pulled  back  with  all  its  force,  and  she  was  dashed  on  the  rock.  Then  the
+male  Thunder  went  far  up,  and  came  down  violently,  seized  the  arrow,  and
+pulled  it  until  the  arrow  snapped  back,  and  he  was  dashed  against  the  rock.
+The  two  Thunders  were  not  dead,  but  they  could  not  move.  They  said,
+"Pity  us!  W^e  will  give  you  our  power  if  you  will  let  us  live."  Clotted-
+Blood  said,  "Very  well,  I  will  not  destroy  you  altogether.  I  will  leave
+your  young  ones  so  that  there  will  be  some  thunders.  But  I  will  kill  you,
+for  I  need  your  feathers."  Then  he  wrung  their  necks  and  took  their
+feathers;  but  he  left  the  young  ones.  That  is  why  there  still  are  thunder
+and  lightning.  Then  he  went  home.  "Take  these  feathers  to  your  father,"
+he  said  to  his  wife.  Then  she  took  them.  The  old  man  was  very  much
+frightened  when  he  saw  the  feathers  of  the  powerful  birds.
+
+Then  his  father-in-law  told  him,  "There  are  seven  buffalo-l)ulls.  Go
+and  kill  tiiem.  I  want  the  sinew  of  their  shoulders  to  put  on  my  arrows."
+Clotted-Blood  went  and  saw  the  seven  bulls.  He  approached  them  very
+cautiously.  Nevertheless  they  saw  him.  One  of  them  charged  on  him.
+He  stood  still,  and  the  buffalo  struck  at  him  with  his  sharp  horn.  Then
+only  a  down  feather  flew  there,  and  the  buffalo's  horn  was  broken.  Then
+the  rest  charged,  until  all  seven  had  broken  a  horn.  Then  they  ceased
+attacking  him.  There  was  a  large  rock  that  rose  a  little  above  the  ground.
+Clotted-Blood  said,  "I  will  not  kill  you  if  you  can  knock  this  rock  out  of
+the  ground.  If  you  cannot  loosen  it,  I  will  kill  you."  Each  of  the  bulls
+still  had  a  horn.  One  of  them  made  medicine  and  charged  at  the  rock.
+He  struck  it,  and  broke  his  horn.  Six  of  them  charged  it,  and  broke  their
+horns.  Then  the  seventh,  an  old  one,  charged.  He  knocked  the  rock  loose.
+Clotted-Blood  said,  "I  will  kill  you  all.  Only  this  old  one  knocked  the
+rock  out,  and  shall  live."  Then  he  shot  the  six,  and  killed  them.  He  cut
+the  sinew  from  their  shoulders,  and  took  their  horns  in  his  robe.  Then  he
+went  back.  He  gave  the  horns  and  the  sinew  to  his  father-in-law.  His
+father-in-law  was  angry  because  he  overcame  everything.  He  told  him  to
+get  him  flint  for  arrow-points.     The  place  was  under  a  high  cliff.     Clotted-
+
+
+90  AnthrnjxAogical  Papers  American  Muscion  0/  Xatural  History.        [\'ol.  I,
+
+Blood  went.     When  he  stood  at  the  place,  the  cliff  fell.     He  turned  into  a
+feather,  and  the  wind  from  the  falling  bank  blew  it  away.     It  lit,  and  he
+.stood  there  a  man.     The  cliff  was  all  down.     AVhere  it  had  fallen,  the  flint
+was  exposed.     Then  he  filled  his  robe  with  it  for  his  father-in-law.     At
+night  his  father-in-law  sent  him  to  get  water  at  the  river.      Clotted-Blood
+took  a  bucket.     When  he  came  near  the  river  he  saw  two  lights.     They  were
+the  eyes  of  a  water-monster  (bi'i^a") .     He  tried  to  go  aside,  but  the  animal
+drew  him.     When  he  found  he  could  not  keep  away,  he  took  its  horn,
+and  stepped  on  the  middle  of  its  head.     He  filled  his  bucket,  cut  off  its
+horns,  and  took  them  back  with  him  together  with  the  water.      He  told  his
+wife,  "Take  this  water  and  these  horns  to  your  father.     Tell  him  he  can
+have  them."     The  old  man  was  angry.      He  had  thought  the  water-animal
+would  surely  kill  his  son-in-law.      He  said,  "My  son-in-law  is  indeed  a
+powerful  man.      He  has  killed  everything  he  has  met."      Then  he  went
+to   kill  him  himself.     He  took  his  bow.     He  went  out  and  called,  "Come
+out,  my  son-in-law!     You  have  killed  all  my  powerful  beings  (nana'Uil'i^ihii).
+Now  i  will  kill  you."     Clotted-Blood  said,  "My  father-in-law,  I  did  not
+destroy  your  beings.     Why  do  you  want  to  kill  me?"      He  went  outside.
+The  old  man  shot  at  him,  and  he  stepped  aside.      The  arrow  went  into  the
+ground.      His  father-in-law  continued    to  shoot  imtil  all  his  arrows  were
+gone.     Then  Clotted-Blood  took  his  bow  and  arrows.     He  had  only  four
+arrows  and  a  down  feather,  which  he  always  wore  tied  at  the  back  of  his
+head.     He  said,  "My  father-in-law,  you  have  been  shooting  at  me  much.
+Now  I  in  my  turn  will  shoot.     I  have  waited  for  this  a  long  time.     You
+have  killed  many  men.     Now  you  in  turn  will  die."     Then  he  shot,  and
+killed  his  father-in-law.     He  cut  him  to  pieces  and  burned  him  up.^
+
+21.    :Moox-Child.
+
+The  Sun  and  the  ]Moon  disagreed  al)out  women.  The  ^Nloon  said,
+"The  women  outside  of  the  water  and  outside  of  the  brush  (human  females)
+are  the  prettiest  down  below."  The  Sun  said,  "No,  they  are  not.  When-
+ever they  look  at  me,  they  make  faces.  They  are  not  pretty:  they  are  the
+worst-looking  women  in  the  world.  The  women  in  the  water  are  the  most
+beautiful.  When  they  look  at  me,  they  look  just  as  if  they  were  looking
+at  their  own  people.  I  think  them  the  most  beautiful  women  on  earth."
+He  meant  the  Frog.  The  INIoon  said,  "You  think  the  Frog  is  a  pretty
+woman?     You  surely  have  poor  judgment  of  women.      The  Frog  has  long
+
+
+>  From  informant  P.  Compare,  for  the  first  part  of  the  story,  Arapaho,  Nos.  130,  131,
+also  132,  133:  for  the  swing,  No.  5;  for  tlie  sliarpened  leg,  Nos.  57,  108,  109:  for  the  thunder-
+birds,  Nos.   139-143;  for  tlie  tasks  set  by  the  fatlier-in-law.  No.  129.
+
+
+1907.]  Kwi'bcr^  Gros  Ventre  Myths  and  Tales.  91
+
+le^s.  She  is  green,  with  spots  on  her  back,  and  large  himpy  eyes.  I  do
+not  think  one  hke  that  pretty."  The  Sun  said,  "Well,  we  will  compete
+in  this.  As  soon  as  I  have  set,  I  will  go  to  the  earth  and  get  the  Frog.  I
+will  bring  her  up  here  to  be  my  wife."  "Very  well,"  said  the  Moon.
+The  Sun  got  the  Frog  without  any  trouble,  and  brought  he-r  up  with  him
+during  the  night  to  his  mother's  tent.  The  Frog  hopped.  With  each
+leap,  she  urinated.  Then  his  mother  asked,  "Wliat  ridiculous  thing  is
+that?"  He  said,  "My  mother,  be  still.  That  is  your  daughter-in-law."
+Then  his  mother  was  silent.  During  the  night  the  ^Nloon  shone,  and  selectetl
+a  woman  on  earth.  When  he  disappeared  early  in  the  morning,  he  went
+to  the  earth.  The  woman  that  he  had  chosen  was  troubled  all  night,  and
+could  not  sleep.  She  did  not  know  what  troubled  her.  She  could  not
+satisfy  herself.  Early  in  the  morning  she  took  a  rawhide  rope  and  told
+her  sister-in-law  to  come  with  her  to  get  wood.  They  both  went  to  the
+woods.  When  they  came  among  the  trees,  they  saw  a  porcupine.  The
+woman  said,  "I  will  kill  this  porcupine,  for  I  want  to  use  its  quills  for
+embroidery."  She  pursued  it,  and,  when  the  porcupine  ran  up  a  tree,
+she  climbed  after  it.  The  porcupine  kept  climbing  up.  Several  times
+she  could  almost  touch  it.  Whenever  she  rested,  it  rested  only  a  little  dis-
+tance above  her.  Thus  it  continued  to  do  until  they  reached  the  sky.  The
+tree  reached  to  a  hole  in  the  sky,  and  the  porcupine  went  in  through  this.
+When  th(>  woman  had  climbed  up  to  the  hole,  she  saw  a  young  man  standing
+at  the  side  of  it.  He  .said  to  her,  "Let  us  go  to  my  mother's  tent."  They
+went,  and,  when  they  arrived  at  the  tent,  he  went  inside.  The  woman
+remained  outside.  The  man  said,  "My  mother,  ask  your  daughter-in-law
+to  come  in."  Then  his  mother  went  outside.  As  soon  as  she  came  out,
+she  called  gladly,  "Oh,  what  a  fine-looking  daughter-in-law  I  have!  Come
+in!"  Then  the  girl  went  in.  The  Frog  was  sitting  beside  the  Sun,  and
+the  woman  sat  down  ne.xt  to  the  Moon.  So  their  mother-in-law  had  two
+daughters-in-law  to  use  for  her  work.  The  woman  did  much  for  her,  but
+the  Frog  did  little.  Whenever  she  was  sent  anywhere,  she  hopped  along.
+When  the  mother-in-law  forgot  that  she  had  a  Frog  as  a  daughter-in-law,
+she  sometimes  startled  her  by  her  hopping.  Then  their  mother-in-law
+one  day  lioiled  the  thickest  part  of  a  paunch.  When  she  had  boiled  it,
+she  cut  it  in  two  ])ieces,  and  gave  one  to  the  woman  and  one  to  the  Frog.
+"Xow,  my  daughters-in-law,"  she  said,  "I  want  you  to  eat  this  paunch.
+I  \\ill  have  the  one  that  makes  the  mo.st  noise  in  chewing  it  for  my  best
+daughter-in-law."  Then  the  woman  was  the  best,  for  she  had  good  teeth.
+She  made  much  noise  in  chewing.  The  Frog,  in.stead  of  chewing  the
+paunch,  took  a  piece  of  charcoal.  But  while  she  chewed  it,  her  blackened
+saliva  ran  down  from  each  side  of  her  mouth.     The  Moon  did  not  like  the
+
+
+92  Anthropological  Papers  Ayncrican  Museum  of  Natural  History.        {\o\.  I,
+
+Frog,  his  sister-in-law.  He  said,  "Wherever  the  Frog  is  sent  to  go,  she
+only  hops  and  urinates.  You  should  not  move  at  all,  Frog.  Whenever
+you  move,  you  urinate,  dirty  one!"  Thus  the  ]Moon  spoke  to  the  Frog
+whenever  she  was  sent  on  an  errand.  At  last  the  Sun  could  hold  his  j)atience
+no  longer.  He  picked  up  the  Frog,  and  threw  her  against  the  Moon's  face.
+"Because  you  do  not  like  her,  the  Frog  shall  always  stick  to  your  face.
+But  I  will  have  your  wife."  That  is  why  there  is  black  on  the  moon.  Then
+the  Sun  took  the  JVIoon's  wife.  The  woman  had  had  a  son  by  the  IMoon.
+The  boy  was  already  old  enough  to  talk.  The  woman  ditl  not  like  the
+country  in  the  sky.  When  her  husband  the  Sun  was  hunting,  she  would
+go  out  on  the  prairie  and  cry,  feeling  lonely.  Once  she  found  the  hole
+through  which  the  Moon  had  taken  her  up  to  the  sky.  When  she  looked
+down,  she  saw  people  and  the  things  she  used  to  see.  She  went  back"  to
+her  tent.  When  her  husband  went  hunting  again,  she  told  him  to  bring
+her  all  the  sinews  in  one  buffalo.  Then  he  did  what  she  asked.  But  he
+forgot  one  sinew.  When  he  went  hunting  again,  the  woman  went  out  on
+the  prairie,  and  began  to  twist  the  sinew  into  a  long  string.  When  she  had
+finished  it,  she  left  it  out  on  the  hills,  and  came  back.  Her  husband  went
+hunting  again.  As  soon  as  he  was  gone,  she  prej^ared  to  go  to  the  ])Iace
+where  the  hole  was.  She  tried  repeatedly  to  leave  her  boy;  but  he  begged
+her,  "Please,  mother,  do  not  leave  me  behind!  Take  me  with  you!"
+Then  she  took  him.  She  tied  the  sinew  rope  to  a  stick,  and  tied  the  other
+end  around  her  chest.  Then  she  descended,  climbing  down  with  her  hands.
+When  she  got  down  to  the  end  of  the  string,  she  was  about  as  high  above
+the  earth  as  a  tent.  She  could  do  nothing,  for  she  had  no  knife.  She
+hung  helpless.  When  her  husband  the  Sun  missed  her  on  arriving  at  his
+tent,  he  looked  for  her  everywhere.  At  last  he  came  to  the  hole.  Tiien  he
+saw  his  wife  hanging  below,  swinging.  Then  he  took  a  stone  and  spit  on  it.
+He  said  to  the  stone,  "When  I  drop  you,  fall  straight  on  the  woman  and
+strike  her  head,  but  do  not  touch  the  boy."  He  dropped  the  stone,  and
+it  killed  the  woman.  The  string  broke,  and  she  fell  to  the  ground.  The
+boy  remained  near  his  mother.  Even  when  she  was  rotten,  and  when
+only  her  bones  remained,  he  played  about  her.  There  was  a  field  near  by,
+and  every  night  he  went  and  stole  from  it.  It  belonged  to  an  old  woman.
+She  missed  what  she  had  planted,  and  watched.  Then  she  caught  the  boy.
+She  spoke  very  kindly  to  him:  "Is  that  you,  my  grandchild  jVIoon-child ? "
+"Yes,  it  is  I,  my  grandmother."  "Come  and  live  with  me.  I  want  vou
+to  work  about  the  tent."  Then  he  went  with  her.  He  lived  with  her,
+but  whenever  he  was  out  doors  he  spoke  with  his  father  in  the  sky.  Once
+the  old  woman  warned  him:  "Do  not  go  to  that  place.  If  you  go  there,
+you  will  see  a  tent.     There  are  only  pretty  girls  in  it.     If  they  see  vou,
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  93
+
+they  will  invite  you  to  come  to  them.  You  will  be  able  to  do  nothing  but
+go  to  them,  because  they  are  very  beautiful."  Then  the  boy  wondered
+why  his  grandmother  told  him  not  to  go  there.  Instead  of  following  her
+warning,  he  decided  to  go  and  at  least  look  at  the  tent,  and  see  what  kind  of
+a  tent  it  was.  Then  he  went  in  that  direction.  Then,  indeed,  he  saw  very
+pretty  girls  playing  outside  the  tent.  As  soon  as  they  saw  him,  they  said,
+*'Is  that  you,  Moon-Child?"  "Yes,"  said  the  boy.  They  said,  "Come
+and  play  with  us.  You  are  so  handsome!  If  you  wish,  you  can  select
+one  of  us  to  be  your  wife."  Then  the  boy  went  to  them.  He  picked  up  a
+flat  rock  and  put  it  away  out  of  sight  on  his  body.  When  he  came  to  the
+tent,  the  girls  embraced  him,  and  kissed  him,  and  put  their  arms  around
+him;  and  as  each  one  touched  him,  she  said,  "Take  me  for  your  wife."
+One  of  them  said,  "We  want  you  to  tell  myths."  The  boy  said,  "Very
+well.  But  when  I  tell  myths,  I  do  not  allow  people  to  lie  on  the  bed  in  the
+usual  way.  I  want  them  to  lie  with  their  heads  toward  the  fire."  Then
+the  girls  lay  down  as  he  told  them,  and  he  began  to  tell  mv'ths.  He  had
+put  the  flat  rock  under  him  for  his  seat.  One  of  the  girls  turned  into  a  snake,
+and  went  imderground.  While  he  was  telling  myths,  he  felt  the  snake  try
+to  dash  up  into  his  body.  It  smashed  its  head  on  the  stone.  He  felt  it,
+but  continued  to  tell  myths  until  all  the  girls  went  to  sleep.  Then  he  took
+out  his  knife.  The  girls  were  lying  with  their  heads  on  the  logs  along  the
+edge  of  the  beds  all  around  the  Are.  He  went  on  talking.  As  he  talked,
+he  went  around  and  cut  off  their  heads.  Just  as  he  got  to  the  last  one,  she
+turned  into  a  large  snake  and  went  underground.  She  said,  "You  will  be
+overtaken  some  day.  You  cannot  always  iiave  stone  for  your  seat.  You
+will  be  caught  somewhere."  The  boy  answered,  "You  will  live  under-
+ground." After  he  had  killed  the  snakes,  he  went  back  to  his  grandmother.
+She  told  iiim  to  watch  the  field  closely.  Then  he  guarded  it.  As  he  walked
+around  it,  watching,  he  found  a  tent.  An  old  woman  stood  there.  She
+said,  "Is  that  you,  my  grandchild  Afoon-child?"  "Yes,  it  is  I,"  he  said.
+"Will  you  come  in  and  have  something  to  eat?"  she  asked.  "Yes,  I  will
+come  in,"  he  said.  lie  went  in,  and  she  gave  him  food.  While  he  ate,
+she  began  to  jnit  wood  into  the  fire.  She  made  a  large  fire.  She  said,
+"When  persons  come  into  my  house,  I  play  with  them  after  they  have  eaten."
+The  boy  said,  "Yes,  I  will  play  with  you."  Tlien  they  wrestled.  When
+she  thought  he  was  getting  out  of  breath,  she  ])ushed  him  toward  the  fire.
+He  turned  aside,  however.  Thus  they  continued  to  push  each  other  toward
+the  fire.  At  last  the  old  woman  became  tired,  and  he  threw  her  into  the  fire.
+He  held  her  there  until  she  was  consumed.  This  old  woman  had  always
+stolen  from  his  grandmother's  field.  Meanwhile  the  boy  never  forgot  what
+the  snake  had  said  to  him.     When  he  went  to  sleep,  he  stuck  an  arrow  up
+
+
+94  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+near  his  head,  and  said  to  it,  "If  the  snake  comes,  fall  on  my  face."  Then,
+indeed,  the  snake  came,  and  the  arrow  fell  on  him,  and  he  woke  and  got  up.
+But  one  night  he  Avas  very  sleepy.  He  stuck  the  arrow  tightly  into  the
+ground,  and  went  to  sleep.  The  snake  came  to  where  he  was  lying.  The
+arrow  tried  to  fall.  It  tried  several  times.  But  it  could  not  fall.  The
+snake  was  close.  Then  it  made  a  dash,  and  shot  into  the  boy's  anus.  "Well,
+at  last  I  have  you.  You  said  I  would  not  catch  you.  This  is  the  last  you
+will  live.  Now  you  will  die."  Thus  the  snake  said  to  the  boy.  But  he
+answered,  "No,  I  do  not  think  I  will  die.  You  will  become  hungry,  or
+out  of  breath,  and  you  will  leave  me."  The  snake  said,  "No,  I  will  remain
+in  you  until  you  die."  The  boy  said,  "No,  I  do  not  think  you  will.  I
+think  you  will  go  out  from  me  before  I  am  dead."  The  boy  lived  some
+time  with  the  snake  in  him.  Then  he  died.  The  snake  was  in  him  still.
+After  a  time  he  had  become  nothing  but  bones.  The  snake  would  not  leave
+him.  He  continued  to  lie  there.  Then  the  jNIoon  wondered  where  his  boy
+was.  He  never  saw  him  going  about  any  more.  At  last  the  boy  was  tired
+of  lying  on  the  ground  so  long.  He  said  to  his  father,  "Do  something  for
+me.  I  am  tired  of  lying."  Then  the  Moon  made  a  cold  rain.  The  snake
+crawled  about  under  the  bones,  and  at  last  went  to  find  shelter.  As  soon
+as  it  had  gone  out  from  him,  the  boy  stood  up  alive,  just  as  he  had  been
+before.  He  caught  the  snake  and  cut  it  to  pieces.  He  said,  "You  thought
+you  would  kill  me.  You  were  deceived.  Instead  of  killing  me,  you  are
+dead  yourself."  As  the  boy  rose  from  his  bones,  his  mother  at  the  same
+time  also  got  up  alive.^
+
+22.  The  Boy  who  was  raised  by  the  Seven  Bulls.
+
+There  was  a  camp.  A  boy  and  a  girl  were  lovers.  The  girl  became
+pregnant.  Her  mother  asked  her  what  made  her  belly  swell.  She  would
+not  acknowledge,  but  said  that  she  was  sick.  When  she  was  about  to
+deliver,  she  told  her  mother,  "I  have  had  a  lover  and  am  pregnant.  I  am
+ashamed.  Let  us  throw  the  child  away."  The  camp  moved,  and  she  and
+her  mother  fell  behind.  She  was  in  great  pain.  When  the  rest  of  the
+camp  was  out  of  sight,  they  stopped,  and  the  girl  gave  birth  to  a  boy.  Her
+mother  dug  a  hole  in  a  buffalo-wallow,  put  the  child  in,  and  covered  it
+with  earth.  Then  they  left  it.  The  child  cried  and  struggled,  and  partly
+uncovered  itself.  Seven  old  Buffalo-bulls  were  near  by.  They  were
+following  the  trail  of  the  camp.  One  went  to  the  wallow  in  order  to  wallow
+in  it.     He  heard  a  sound  he  did  not  know.     Then  the  others  came,  until
+
+'  From  iuforinaiit  P.     Compare  Arapaho,  Nos.  134-138,  and  note  to  No.  137,  p.  339.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  95
+
+all  seven  were  there.  They  found  the  child  and  looked  at  it.  They  pitied
+it.  One  of  them  said,  "Let  us  raise  it.  We  will  have  it  for  our  son."
+Then  the  first  Buffalo  began  to  wallow.  As  he  wallowed,  he  licked  the
+boy  all  over.  Then  another  one  licked  him.  When  all  seven  had  licked
+him,  he  was  no  longer  a  baby,  but  a  boy.  The  Bulls  told  him  to  climb
+on  the  Bull  who  had  first  found  him,  and  to  hold  on  to  his  mane.  Then
+they  went  off.  The  Bulls  thought  the  boy  hungry,  but  did  not  know  what
+to  give  him  to  eat.  They  asked  him,  "Will  you  eat  grass  with  us?"  "No,
+I  cannot  eat  it,"  the  boy  said.  "What  do  you  eat?"  "I  do  not  know,"
+said  the  boy.  .One  of  the  Buffalo  said,  "They  eat  buffalo."  At  first  the
+Bulls  did  not  know  how  to  kill  a  cow  for  him.  They  planned.  They  got
+a  cow  among  themselves,  and  killed  her  with  their  horns.  They  told  the
+boy,  "Break  a  stone,  and  use  the  sharp  edge  to  cut  her  up  with."  The
+boy  broke  rocks,  and  used  the  points  and  edges  for  a  knife.  Thus  he  was
+happy,  for  he  had  much  to  eat.  He  played  wnth  his  fathers.  W'hen  he
+found  feathers,  he  would  tie  knots  in  the  long  hair  of  their  manes,  and
+fasten  the  feathers  there.  He  also  tied  feathers  to  their  tails.  Then  the
+Bulls  told  him  to  make  a  bow.  He  knew  nothing  of  the  life  of  his  tribe,
+therefore  they  instructed  him.  They  told  him,  "Go  into  the  woods  and
+cut  a  piece  of  cherry-wood.  Make  it  so  long.  Cut  also  seven  sticks  of
+cherry-wood  for  arrows.  Season  these.  Shape  the  wood  into  a  bow  and
+arrows.  Then  cut  sinew,  and  twist  it  into  a  bowstring."  The  boy  did  all
+this.  Then  they  told  him  how  to  attach  feathers  to  the  arrow  with  sinew,
+and  how  to  break  flint  into  shape  for  arrow-points.  When  the  boy  had
+finished  his  bow  and  arrows,  his  fathers  told  him  to  kill  his  game  himself.
+They  carried  him  into  a  herd  on  their  backs.  In  the  middle  of  the  herd
+he  would  jump  oflF,  and  kill  the  cow  he  thought  the  best.  The  Bulls  loved
+the  boy  very  much,  and  never  became  angry  at  what  he  did.  Sometimes
+the  boy  in  play  cut  thongs  of  rawliide  and  tied  their  feet  together;  but  they
+did  not  become  angry.  Each  in  his  turn,  they  carried  him  over  the  country.
+He  lived  with  them  until  he  was  a  young  man.  Then  his  fathers  took  him
+to  a  large  herd  in  which  there  was  a  powerful  Bull.  He  kept  only  young
+Cows  in  his  herd.  Whenever  any  Bull  approached,  he  drove  him  away.
+One  of  the  Seven  Bulls  told  the  young  man,  "You  must  be  very  careful
+when  we  come  to  this  herd,  for  the  Bull  is  jealous  and  powerful.  Do  not
+even  go  near  the  Cows,  or  you  may  lose  your  life."  When  they  reached
+the  place  where  the  herd  was,  they  saw  the  dangerous  Bull.  The  Seven
+Bulls  watched  the  young  man  closely.  But  he  escaped  from  them,  and
+went  toward  the  herd.  One  of  the  young  Cows  came  running  to  him.
+"I  heard  that  the  Seven  Bulls  had  a  good-looking  young  man.  Are  you
+he?"  she  said.     "Yes."     "You  are  indeed  handsome."     Then  she  began
+
+
+96  Anthrojiological  Papers  American  Mvsetim  of  Natural  History.         [Vol.  I,
+
+to  try  to  attract  the  young  man's  desire,  and  at  last  succeeded:  he  went  to
+her  et  earn  olfactavit.  Then  a  young  Bull,  a  servant  of  the  powerful  Bull,
+went  and  said,  "A  young  man,  the  son  of  the  Seven  Bulls,  is  with  one  of
+your  young  wives."  The  Bull  became  angry.  He  came  swiftly  to  where
+the  young  man  was  standing  with  the  Cow.  When  the  young  man  saw
+the  Bull,  he  fled.  The  Bull  said,  "It  is  useless  for  you  to  try  to  escape.
+I  will  overcome  you  together  with  your  fathers,  the  Seven  Bulls."  When
+the  young  man  reached  his  fathers,  they  said,  "We  must  save  our  son,
+even  though  we  die  for  it."  They  got  up  and  stood  around  him  with  their
+tails  raised.  One  of  them  went  out  to  meet  the  powerful  Bull.  The  power-
+ful Bull  broke  all  his  legs  so  that  he  was  unable  to  move.  Then  another
+one  went,  but  was  disabled;  and  another;  and  so  all  went  against  him,
+and  had  their  legs  broken.  Then  the  powerful  Bull  said  to  the  yoimg
+man,  "Now  it  is  time  for  you  to  be  killed."  The  young  man  said  to  him,
+"I  do  not  think  you  will  kill  me.  Perhaps  you  will  kill  me;  but  I  do  not
+think  so."  He  rolled  up  his  sleeve,  preparing  to  shoot.  He  had  a  white
+plume  on  his  head.  The  Bull  charged  on  him,  and  tossed  him  up;  but  only
+the  white  plume  flew  up  in  the  air.  When  it  came  down,  then*  stood  the
+young  man.  The  Bull  tossed  him  repeatedly,  l)ut  did  not  injure  him.  Then
+the  young  man  shot  the  Bull.  His  arrow  nearly  went  through  him.  Then
+he  went  to  the  other  side  of  him,  and  shot  another  arrow  nearly  through
+him.  Then  he  killed  the  powerful  Bull.  After  he  had  killed  him,  he  told
+his  seven  fathers,  "I  will  try  to  heal  you."  He  went  to  the  one  who  had
+first  found  him,  drew  his  bow  on  him,  and  said,  "Get  up,  or  I  will  shoot
+you."  Four  times  he  made  a  motion  as  if  to  shoot.  The  fourth  time,  the
+Bull  got  up  well  and  sound.  Then  the  young  man  took  another  of  his
+seven  arrows,  and  pretended  four  times  to  shoot  one  of  the  others,  and  this
+one  arose  sound.  With  each  of  his  seven  arrows  he  cured  one  of  the  Bulls.
+Each  of  the  seven  thanked  him.  They  said,  "You  have  shown  that  you
+think  well  of  what  we  have  done  for  you."  Then  one  of  them  said,  "It  is
+time  for  you  to  go  to  your  own  people.  We  have  raised  you.  You  are  a
+man.  Now  it  is  time  for  you  to  go.  We  cannot  change  you  into  a  buffalo.
+Go  to  your  father  and  mother."  Then  they  went  to  look  for  the  camp
+where  his  parents  were.  They  went  one  behind  the  other,  and  the  young
+man  rode  them  in  turn  and  played  with  them.  When  they  came  near  the
+camp,  they  all  stopped.  "Your  people  are  very  near.  You  had  better  go
+to  them.  We  thank  you  for  restoring  us  to  life."  The  young  man  thanked
+them  for  having  raised  him  to  manhood.  As  he  was  about  to  leave  them,
+he  stopped  and  said,  "I  do  not  like  to  leave  you,  my  fathers.  I  love  you.
+If  I  go  to  the  camp,  I  shall  not  know  my  people.  I  shall  not  understand
+them  if  they  talk  to  me.     I  shall  not  know  my  father  and  mother."     The
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  97
+
+Bulls  said  to  him,  "You  will  know  your  father  and  mother  when  you  reach
+the  camp.  You  will  understand  the  people  when  they  speak  to  you,  and
+they  will  understand  you.  You  are  a  human  being:  we  are  animals.  We
+cannot  turn  you  into  an  animal.  That  is  why  we  tell  you  to  leave  us.  Now
+go.  ^Yhen  you  are  near  the  camp,  stop.  Many  young  women  will  be
+playing  ball.  The  ball  will  roll  straight  to  you,  and  stop  in  front  of  you.
+Then  pick  it  up.  One  of  the  young  women  will  follow  the  ball,  and  will
+come  to  you.  She  is  your  mother.  When  she  comes  to  you,  you  must
+give  her  the  ball,  saying,  'Here  is  the  ball,'  my  mother.'"  The  young
+man  did  all  this.  When  he  said,  "Here  is  the  ball,  my  mother,"  she  was
+ashamed.  Instead  of  acknowledging  him  as  her  son,  she  ran  home,  crying.
+All  the  other  young  women  were  surprised  to  see  him  following  her.  She
+entered  the  tent,  and  he  entered  it  after  her.  There  he  saw  her  father  and
+mother.  He  said  to  them,  "My  grandparents,  I  am  here.  I  am  your
+grandson."  When  he  had  said  this,  his  grandmother  spoke.  She  said,
+"How  is  it  that  we  are  your  grandparents?"  "Do  you  not  know,"  said
+the  young  man,  "tiiat,  when  the  people  were  moving  camp,  my  mother
+gave  birth  to  a  child  ?  After  I  was  born,  you  l)uried  me  in  a  buffalo-wallow.
+Seven  old  bulls  found  me.  They  brought  me  up  until  I  was  a  man."  His
+grandfather  was  surprised.  He  had  known  nothing  of  what  his  wife  and
+daughter  had  done.  When  the  young  man  had  finished  telling  about
+iiimself,  the  girl  stopped  crying,  and  his  grandmother  took  him  in  her  arms
+and  kissed  liim  as  her  grandson.  When  night  came,  the  young  man  said,
+"Now  I  will  go  and  look  for  my  father.  I  want  my  mother  to  go  with  me."
+Then  they  went  out.  Many  young  men  were  gambling  with  hiding-buttons
+in  a  tent.  The  young  man  and  his  mother  went  there.  He  looked  in  at
+the  men  gambling.  While  he  looked,  one  party  guessed  right.  Then  the
+others  threw  the  buttons  (kaa(;haan)  to  them,  and  the  man  that  picked  them
+up  was  his  father.  As  soon  as  he  saw  this,  the  young  man  went  in  and
+said,  "My  father,  let  us  go  home."  The  man  was  surprised  and  got  up.
+The  young  woman  had  come  in  too.  Then  all  three  went  out  and  to  their
+tent.     That  is  how  the  young  man  found  his  father  and  mother.^
+
+23.   White-Stone.
+
+There  were  seven  brothers  and  one  sister.  Every  morning  one  of  them
+went  hunting  and  did  not  return.  The  oldest  was  the  first  to  go.  Then
+tli(^  next  old(>st  \\ent  to  look  for  his  brother.  He  also  did  not  return.  Thus
+thev   continued    until   all   were   gone.     When  the   woman   knew  that   her
+
+
+1  Told  by  informant  P.
+
+
+98  Anthropological  Papcr^i  American  Museum  of  Xatural  History.         [\\)1.  I,
+
+brothers  had  all  been  killed,  she  went  into  the  hills  and  cried.  She  thought
+she  would  kill  herself.  She  swallowed  a  white  stone  that  was  near  her.
+After  she  had  swallowed  it,  her  abdomen  began  to  grow  larger  day  by  day.
+She  gave  birth  to  a  boy.  She  said  to  herself,  "I  am  so  glad  that  1  have  a
+son.  His  name  shall  be  White-Stone  (Na"khaana''"tya")."  She  made  a
+swing  for  her  baby  at  the  left  of  the  door,  the  southeast  side  of  the  tent.
+She  swung  the  child  four  times,  and  it  began  to  smile.  Then  she  made  a
+swing  on  the  northeast  side  of  the  tent,  and  swung  the  bal)v  four  times.
+Then  it  began  to  talk.  Then  she  put  the  swing  on  the  other  side  of  the  tent,.
+at  the  northwest  corner.  After  four  swings,  the  child  almost  jumped  off.
+Then  she  put  the  swing  near  the  door  again,  at  the  southwest  of  the  tent,
+and,  after  she  had  swung  him  four  times,  he  jumped  oft"  as  a  boy.  The
+woman  made  him  a  bow  of  a  short  rib  and  an  arrow  of  neck-tendons
+(hityii'ta").  Then  the  boy  asked  his  mother,  "In  what  direction  did  my
+uncles  go?"  She  said,  "Do  not  seek  them.  It  must  be  a  very  dangerous
+place  to  which  my  brothers  went,  or  they  would  have  come  back."
+"Nevertheless,  mother,  I  wish  to  go  to  that  place.  Therefore  tell  me  in
+which  direction  they  went."  At  last  she  told  him.  There  was  a  hill  not
+far  from  the  tent,  over  which  they  had  gone.  The  boy  went  to  the  hill,
+and  when  he  had  gone  over  the  top,  he  saw  a  buftalo-buU  standing.  He
+started  to  creep  up  on  him.  The  buffalo  stood  still.  The  boy  noticed  at
+once  that  it  was  the  buffalo  that  had  been  the  cause  of  his  uncles'  deaths.
+When  he  came  near,  he  shot  it.  He  killed  it.  He  began  to  cut  the  skin
+in  order  to  flay  it.  Then  an  old  woman  came  toward  him.  When  she
+reached  him,  she  said,  "You  drew  blood  from  my  buffalo."  "Yes,.
+grandmother."  Then  she  imitated  the  boy's  speech,  "Yes,  grandmother."
+She  told  him  that  he  must  take  the  entire  bull,  and  carry  it  on  his  back  to
+her  tent.  The  boy  said,  "It  is  impossible  to  carry  so  heavy  a  load  as  the
+meat  of  a  whole  bull.  Besides,  I  have  nothing  Avith  which  to  carry  it."
+"  Use  your  bowstring,"  she  said.  The  boy  said,  "  ^ly  bowstring  is  not  strong
+enough."  She  said,  "Use  it  anyway,  you  have  nothing  else.  I  want  you
+to  carry  the  bull."  The  old  woman  had  an  iron  cane.  She  had  done  thus
+to  the  boy's  uncles.  When  they  had  got  to  her  tent  and  stooped  to  lay
+down  the  load  of  meat,  she  had  struck  them  in  the  back  of  the  head  with
+her  cane,  and  killed  them.  When  the  old  woman  told  the  boy  so  often  to
+carry  the  bull,  he  became  angry.  He  knew  that  it  was  she  who  had  killed
+his  uncles.  He  took  his  bow  and  said  to  her,  "And  I  want  you  to  carrv  the
+bull  to  your  tent  on  your  back.  You  must  be  the  one  who  has  killed  mv
+uncles.  1  am  glad  that  I  have  found  you  to-day.  This  is  your  last  day."
+Then  the  old  woman  began  to  speak  kindly  to  him,  "Is  that  you,  mv  grand-
+.son  White-Stone  ?     I  have  been  longing  to  see  vou.     I  am  glad  to  see  voii
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  99
+
+to-day.  Do  not  compel  me  to  carry  this  Ijull.  I  have  nothing  to  carry  it
+with."  "Well,  grandmother,  I  am  glad  to  see  you  too.  To-day  you  shall
+repay  the  death  of  my  uncles.  You  have  a  belt  with  Ayhich  you  can  carry
+the  meat."  When  the  old  woman  knew  that  she  must  carry  the  bull,  she
+took  it  on  her  back.  Then  she  asked,  "Where  are  we  going  with  this  bull ?"
+White-Stone  said,  "You  should  know  where  we  are  going.  Have  you  a
+tent?"  "Yes."  "Take  it  there."  He  took  the  cane  away  from  her.
+On  the  way  she  became  tired,  and  wanted  to  rest.  "Grandson,  please  let
+me  rest,"  she  said.  "No,  I  do  not  wish  you  to  rest.  You  will  have  time  to
+rest  when  you  reach  the  tent."  When  they  were  at  the  tent,  and  she  stopped
+to  unload,  he  struck  her  on  the  head  with  her  cane,  and  killed  her.  Then
+he  saw  his  uncles  lying  around  outside  of  the  tent.  He  said  to  them,  "You
+are  men.  You  are  not  boys  to  be  killed  by  an  old  woman  like  this."  Then
+he  took  hold  of  the  seven  dead  bodies,  and  dragged  them  into  the  tent.
+After  he  had  dragged  them  in,  he  closed  the  door  and  stepped  aside.  He
+shot  an  arrow  up  in  the  air,  and  when  it  descended  he  called,  "Look  out,
+look  out,  look  out,  my  uncle!"  and  one  of  them  jumped  up  and  ran  out.
+Then  he  shot  and  called  out  again,  and  he  could  see  the  tent  move;  and
+again  one  of  them  jumped  out.  He  shot  up  again,  and  another  one  came
+out  of  the  tent.  He  shot  up  a  fourth  time  and  called,  "Look  out,  look  out,
+look  out,  my  uncles!"  and  all  four  emerged  from  the  tent.  Thus  he  brought
+all  his  uncles  to  life.  He  took  them  home  with  him.  After  he  had  brought
+his  uncles  back,  he  asked  his  mother,  "Where  is  there  a  camp?"  She  did
+not  want  him  to  go  away.  He  insisted.  Finally  she  told  him  where  the
+camps  of  the  people  were.  Then  he  went  in  that  direction.  He  came  to
+a  camp  and  went  into  an  old  woman's  tent.  As  soon  as  he  had  entered,
+she  looked  at  him  and  said,  "Is  that  you,  my  grandson  White-Stone?
+Where  did  you  come  from,  and  where  are  you  going?"  "I  came  from
+home,  and  I  am  visiting  here."  The  old  woman  said  to  him,  "Do  not  stay
+here  long.  Go  back.  Bone-Bull  (i^a'^na^tya*^)  is  here.  He  is  very  jealous
+towards  strangers.  If  you  stay  long,  you  will  have  trouble  with  him."
+White-Stone  said,  "I  do  not  like  to  go  home.  I  came  here  in  order  to  see
+p('o])le.  I  wish  to  stay."  The  old  woman  warned  him:  "Do  not  go  near
+the  tent  of  Bone-Bull.  You  will  get  into  trouble  with  him."  The  bull  had
+a  beautiful  young  wife.  White-Stone  asked,  "Which  of  the  women  is
+Bone-Bull's  wife?"  The  old  woman  pointed  her  out  to  him,  and  he  saw
+that  she  was  a  beautiful  Avoman.  White-Stone  dressed  himself  finely.
+On  his  head  he  wore  a  white  plume.  He  also  carried  his  bow.  Then  he
+went  and  stood  at  the  place  where  the  women  got  water.  As  soon  as  the
+young  woman  saw  him,  she  took  a  bucket  and  went  for  water.  When  she
+was  filling  her  bucket,  he  went  to  her,  caught  her  around  the  back,  and  began
+
+
+100  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+feeling  her  breasts.  She  ran  back  to  her  tent,  and  cried,  "Bone-Bull,
+White-Stone  has  touched  my  breasts."  Bone-Bull  came  out.  He  ran  in
+all  directions,  he  was  so  angry.  "You  cannot  go  very  far,  young  man,"
+he  called  to  White-Stone.  Meanwhile  White-Stone  was  standing  at  one
+place.  The  bull  came  to  him  very  angry.  "You  cannot  escape  me,"
+he  said.  But  White-Stone  had  been  standing  still.  The  bull  ran  against
+him,  and  hooked  him.  The  horn  with  which  he  struck  him  flew  to  one
+side,  broken.  White-Stone  said,  "You  also  cannot  escape  very  far  from  me."
+When  the  bull  had  hooked  liim,  the  plume  on  his  head  flew  up,  and  White-
+Stone  with  it.  He  dropped  on  the  bull's  back.  "When  persons  do  things
+like  this,  it  makes  me  still  angrier.  You  will  not  be  able  to  escape  me,"
+said  the  bull.  He  hooked  White-Stone  with  his  other  horn.  This  horn
+broke  also,  and  White-Stone  again  flew  up  with  the  pliune  and  lit  on  the
+bull's  back.  Then  White-Stone  took  his  bow,  and  shot  him  in  the  anus.
+After  he  had  shot  him  behind,  he  went  in  front  of  him,  and  shot  him  in  the
+mouth.  This  arrow  went  straight  to  the  heart.  After  he  had  killed  him,
+he  built  a  fire,  and  put  the  body  in  and  burned  it  to  ashes.  Then  he  went
+to  the  old  woman  and  said  to  her,  "  From  to-day  you  are  free.  1  have  killed
+Bone-Bull."  Before  this,  the  people  did  not  go  out  doors  in  the  da}1:ime.
+They  were  afraid  of  the  l)ull.  Xow  the  people  were  rid  of  him,  and  hapj^y
+that  White-Stone  had  killed  him.^
+
+24.   The  Womex  who  married  the  Moon  and  a  Buffalo.
+
+Two  women  were  lying  out  doors  at  night.  (3ne  of  them  said,  "I  wish
+I  had  the  moon  for  my  husband."  The  other  said,  "I  wish  I  had  that
+smallest  star  for  my  husband."  The  next  day,  when  they  were  getting
+water,  the  ■Moon  appeared  to  the  women  as  a  porcupine  on  a  dead  tree.
+Wlien  the  woman  who  had  wished  to  have  the  moon  as  a  husband  saw  it,
+she  climbed  up  the  tree  after  it.  She  came  near  it,  but  never  reached  it.
+The  ^Nloon  caused  the  tree  to  stretch  up  and  up.  The  other  woman  called
+to  her,  "You  are  rising,"  but  she  did  not  listen  to  her.  Thus  she  con-
+tinued to  ascend  until  she  reached  the  sky.  Then  the  ]Moon  took  her  and
+married  her.  Then  she  had  a  child.  When  the  jNIoon  went  hunting,
+she  Avent  to  dig  hiitceni-roots.  The  Moon  told  her,  "Do  not  dig  the  roots
+of  a  blue  flower."  Then  she  dug  the  plant  with  the  blue  flower,  and  there
+was  a  hole  in  the  sky.  She  looked  down  and  saw  her  home.  Then  she
+became  sad.     Her  husband  noticed  it  and  asked  her,  "Why  are  you  sad?"
+
+
+1  Told  by  informant  P.  For  the  restoration  to  life  in  the  sweat-house,  compare  No.  40,  and
+Arapalio,  Nos.  5,  6,  119;  for  Bone-Bull,  No.  81;  for  the  child  born  from  a  stone,  No.  6:  for  the
+bow  of  rib,  and  arrow  of  tendon.jNos.  139-142;  for  a  general  parallel,  the  myth  of  Liglit-Stone,
+No.  85.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  101
+
+She  told  liim  that  she  wanted  to  return  to  the  earth.  He  said  to  her,  "I
+will  send  you  home."  Then  she  made  a  rope  of  sinew  and  a  bag  of  skin.
+With  this  the  Moon  let  her  down.  The  people  were  on  the  prairie  playing.
+An  old  man  with  sore  eyes  was  lying  on  his  back.  As  he  looked  up,  he  saw
+a  speck.  Then  he  told  others.  They  ridiculed  him.  Then  they  looked
+and  saw  it  also.  They  all  watched.  The  tiling  came  nearer.  At  last  they
+saw  that  it  was  a  woman.  Then  she  reached  the  earth,  and  returned  to
+her  people.
+
+The  other  woman,  who  had  wished  for  a  star,  was  approached  by  a  buffalo-
+bull  when  she  was  getting  water.  He  said  to  her,  "I  am  the  one  you  wished
+for."  She  denied  it.  Then  he  asked  her,  "What  did  you  say  at  night?"
+Then  she  remembered  that  she  had  wished  for  the  faintest  star.  He  said,
+"I  am  he."  Then  he  took  her  away.  Xo  one  knew  where  she  was.  At
+last  the  hunters  found  her  in  the  middle  of  the  herd.  But  they  could  not
+reach  her.  Then  the  Gopher  said,  "I  will  rescue  her."  He  dug  a  long
+hole,  and  excavated  under  the  place  where  she  was  sitting.  Then  the
+woman  fell  into  the  hole.  Only  her  robe  was  left  in  the  position  in  which
+she  had  been  sitting.  Then  the  Bull  told  her  to  get  up.  She  did  not
+answer.  He  became  angry,  and  struck  her  with  his  horn.  He  found  her
+robe  empty.  Then  he  sent  the  buffalo  out  in  pursuit.  The  woman,  having
+returned  through  the  underground  passage,  fled  with  her  father  and  mother.
+They  came  to  three  trees,  and  climl)ed  one  of  them.  All  the  buffalo  came
+there  and  went  by.  At  last  came  an  old  buffalo  who  was  scabby.  He
+rubbed  his  sides  against  the  tree.  The  woman  had  to  urinate.  She  could
+restrain  herself  no  longer.  Tlie  urine  flowed  down  on  the  old  bull.  He
+looked  up  and  saw  the  woman.  He  went  after  the  other  buffalo  and  brought
+them.  They  hooked  the  tree  with  their  horns  until  it  fell.  It  fell  on  one
+of  the  other  trees.  Then  the  people  climbed  on  that.  Then  the  buffalo
+butted  this  tree  until  it  fell  on  the  middle  tree.  Then  this  tree  told  the
+people,  "Climb  on  me."  The  buffalo  all  went  to  strike  this  tree  also.
+At  last  all  of  them  broke  their  horns.     [End  uncertain.]^
+
+25.   TiTK  WoMF.x  wno  married  a  Star  axd  a  Buffalo.
+
+One  night  two  girls  were  hdng  out  doors  with  their  faces  toward  the  sky.
+They  wished  for  stars.  They  would  say,  "I  want  that  one,"  and  then,
+"I  want  that  one."  Then  a  star  came  down  and  took  one  of  them  up.
+The  other  one  remained  on  earth.  Once  she  saw  a  buffalo-bull  running
+by,  and  said,  "I  wish  you  were  my  husband."     When  she  went  to  get  water,
+
+•  Compare  No.  25,  and  Arapaho,  Nos.  12,  81-84,  144.
+
+
+102  Anthro])ologicaJ  Papers  American  Museum  of  Xatural  History.         [^'ol.  I,
+
+she  saw  a  young  man  standing  bv  the  path.  He  tohl  her,  "I  am  the  one
+you  Avanted  to  marry."  He  took  her  with  him,  and  she  hved  surrounded
+by  a  buffalo-herd.  Her  husband  looked  for  her,  and  found  her  in  the  middle
+of  a  buffalo-herd.  Then  the  Gopher  burrowed  underground  to  where  she
+was,  and  took  her  back  Avith  him.  The  woman  and  her  husband  climbed  a
+tree.  When  the  Buffalo-bull  missed  her,  he  ran  about,  searching.  At  last
+he  smclled  her,  looked  up,  and  saw  her  in  the  tree.  All  the  buft"alo  began
+to  hook  the  tree  with  their  horns.  They  finally  cut  the  tree  down,  and
+when  it  fell,  killed  the  man.  The  Bull  took  the  woman  back  with  him  into
+the  herd.  The  people  asked  the  Badger  to  help  them.  He  dug  under-
+ground to  where  the  woman  was.  He  made  a  hole  there,  into  which  she
+fell.  Then  he  took  her  back  with  him  through  the  burrow.  Then  her
+brother-in-law  fled  with  her.  The  Buffalo  followed  their  tracks  by  scent.
+The  man  and  the  woman  reached  the  camp,  followed  closely  l)y  the  Buffalo.
+The  woman  ran  inside  a  tent.  The  Bull  stood  outside,  shaking  his  tail.
+Then  he  went  in.  The  people  could  not  stop  him  nor  wound  him.  He
+took  the  woman  back  with  him.  The  people  all  went  to  bring  her  back.
+They  saw  her  in  the  herd,  but  could  not  rescue  her.  Then  they  sent  the
+Bald  Eagle.  He  seized  her  by  her  head,  and  flew  oft'  with  her.  All  the
+buft'alo  looked  up  and  saw  her  soaring  through  the  air.  They  could  do
+nothing.     Then  the  woman  came  back  to  her  people.^
+
+26.   The  Deserted  Children.
+
+There  was  a  camp.  All  the  children  went  oft"  to  play,  "^rhey  went  to
+some  distance.  Then  one  man  said,  "Let  us  abandon  the  children.  Lift
+the  ends  of  your  tent-poles  and  travois  when  you  go,  so  that  there  will  be
+no  trail."  Then  the  people  went  off.  After  a  time  the  oldest  girl  amongst
+the  children  sent  the  others  back  to  the  camp  to  get  something  to  eat.  The
+children  found  the  camp  gone,  the  fires  out,  and  only  ashes  about.  They
+cried,  and  wandered  about  at  random.  The  oldest  girl  said,  "Let  us  go
+toward  the  river."  They  found  a  trail  leading  across  the  river,  and  forded
+the  river  there.  Then  one  of  the  girls  found  a  tent-pole.  As  they  went
+along,  she  cried,  "My  mother,  here  is  your  tent-pole."  "Bring  my  tent-
+pole  here!"  shouted  an  old  woman  loudly  from  out  of  the  timber.  The
+children  went  towards  her.  They  found  that  she  was  an  old  woman  who
+lived  alone.  They  entered  her  tent.  At  night  they  were  tired.  The
+old  woman  told  them  all  to  slec]^  with  their  heads  toward  the  fire.  Only
+one  little  girl  who  had  a  small  brother  pretended  to  sleep,  but  did  not.     The
+
+1  From  informant  M.     Compare  note  to  tlie  preceding  version.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  103
+
+■old  woman  watched  if  all  were  asleep.  Then  she  put  her  foot  in  the  fire.
+It  became  red  hot.  Then  she  pressed  it  down  on  the  throat  of  one  of  the
+children,  and  burned  through  the  child's  throat.  Then  she  killed  the  next
+one  and  the  next  one.  The  little  girl  jumped  up,  saying,  "My  grandmother,
+let  me  liye  with  you  and  work  for  you.  I  will  bring  wood  and  water  for  you."
+Then  the  old  woman  allowed  her  and  her  little  brother  to  liye.  "Take
+these  out,"  she  said.  Then  the  little  girl,  carrying  her  brother  on  her  back,
+dragged  out  the  bodies  of  the  other  children.  Then  the  old  woman  sent
+her  to  get  wood.  The  little  girl  brought  back  a  load  of  Cottonwood.  When
+she  brought  it,  the  old  woman  said,  "That  is  not  the  kind  of  wood  I  use.
+Throw  it  out.  Bring  another  load."  The  little  girl  went  out  and  got
+willow- wood.  She  came  back,  and  said,  "My  grandmother,  I  have  a  load
+of  wood."  "Throw  it  in,"  said  the  old  woman.  The  little  girl  threw  the
+wood  into  the  tent.  The  old  woman  said,  "That  is  not  the  kind  of  wood
+1  use.  Throw  it  outside.  Now  go  get  wood  for  me."  Then  the  little
+girl  brought  birch- wood,  then  cherry,  then  sagebrush;  but  the  old  woman
+always  said,  "That  is  not  the  kind  of  wood  I  use,"  and  sent  her  out  again.
+The  little  girl  went.  She  cried  and  cried.  Then  a  bird  came  to  her  and
+told  her,  "Bring  her  ghost-ropes  (tsookan^ana^tso),  for  she  is  a  ghost."
+Then  the  little  girl  brought  some  of  these  plants,  which  grow  on  willows.
+The  old  woman  said,  "Throw  in  the  wood  which  you  haye  brought."  The
+little  girl  threw  it  in.  Then  the  old  woman  was  glad.  "You  are  my  good
+grand-daughter,"  she  said.  Then  the  old  woman  sent  the  little  girl  to  get
+water.  The  little  girl  brought  her  riyer-water,  then  rain-water,  then  spring-
+water;  but  the  old  woman  always  told  her,  "That  is  not  the  kind  of  water
+I  use.  Spill  it!"  Then  the  bird  told  the  little  girl,  "Bring  her  foul,  stag-
+nant water,  which  is  muddy  and  full  of  worms.  That  is  the  only  kind  she
+drinks."  The  little  girl  got  the  water,  and  when  she  brought  it  the  old
+woman  was  glad.  Then  the  little  boy  said  that  he  wanted  to  go  out  ut
+mingeret  inquinaretque.  Puella  anui  dixit,  "Ayia,  fraterculum  oportet
+mingere  inciuiuareque."  "In  tabernaculo  mingito!"  " Quandocuncjue
+urinat  flumen  fecit."  "In  tabernaculo  inquinato!"  "Cum  inquinat
+semper  montem  fecit."  "Well,  then,  go  out  with  your  brother,  but  let  half
+of  your  robe  remain  inside  of  the  tent  while  you  hold  him."  Then  the  girl
+took  her  little  brother  out,  leaving  half  of  her  robe  inside  the  tent.  When
+she  was  outside,  she  stuck  an  awl  in  the  ground.  She  hung  her  robe  on
+this,  and,  taking  her  little  brother,  fled.  The  awl  made  the  sound  of  the
+boy  qui  inquinare  conatus  est.  The  old  woman  called,  "Hurry!"  Then
+the  awl  answered,  "My  grandmother,  my  little  brother  is  not  yet  ready."
+Again  the  old  woman  said,  "Now  hurry!"  Then  the  awl  answered  again,
+"My  little  brother  is  not  ready."     Then  the  old  woman  said,  "Come  in
+
+
+104  Anthropohcjical  Papers  American  Museum  of  Xatural  History.        [Vol.  I,
+
+now,  else  I  will  go  outside  an.l  kill  you."     She  started  to  go  out,  and  .stepped
+on  the  awl.     The  little  girl  and  her  brother  fled,  and  came  to  a  large  river.
+An  animal  with  two  horns  (a  bax'aa")  lay  there.     It  said,  "Louse  me."
+The  little  bov  loused  it.     Its  lice  were  frogs.     "  Catch  four,  and  crack  them
+with  your  teeth,"  said  the  Water-monster.     The  boy  had  on  a  necklace  of
+plum-seeds.     Four  times  the  girl  cracked  a  seed.     She  made  the  monster
+think  that  her  brother  had  cracked  one  of  its  lice.     Then  the  ba.x'aa"  .said,
+"Go  between  my  horns,  and  do  not  open  your  eyes  until  we  have  crossed."
+Then  he  went  under  the  surface  of  the  water.     He  came  up  on  the  other
+side.     The  children  got  off  and  went  on.     The  old  woman  was  pursuing
+the  children,  saving,  "I  will  kill  you.     You  cannot  escape  me  by  going
+to  the  skv  or  bv  entering  the  ground."     She  came  to  the  river.     The  bax'aa"
+had  returned,  and  was  Iving  at  the  edge  of  the  water.    "  Louse  me,"  it  said.
+The  old  woman  found  a  frog.     "These  dirty  lice!     I  will  not  put  them
+into  mv  mouth!"  she  said,  and  threw  it  into  the  river.     She  found  three
+more,  and  threw  them  away.     Then  she  went  on  the  Water-monster.     He
+went  under  the  surface  of  the  water,  remained  there,  drowned  her,  and
+ate  her.     The  children  went  on.     At  last  they  came  to  the  camp  of  the  peo{)le
+who  had  deserted  them.     They  came  to  their  parents'  tent.     "  My  mother,
+here  is  vour  little  .son,"  the  girl  sai.l.     "I  did  not  know  that  1  had  a  .son,"
+their  mother  said.     They  went  to  their  father,  their  uncle,  an.l  their  grand-
+father.    Thev  all  said.  'T  did  not  know  1  had  a  son,"   "I    did   not    know
+I  had  a  nephew,"  "1  did  not  know  I  had  a  grandson."     Tlicn  a  man  sai(l,
+"Let  us  tie  them  face  to  face,  and  hang  them  in  a  tree  and  leave  them."
+Then  thev  tied  them  together,  hung  them  in  a  tree,  put  out  all  the  fires,
+and  left  them.     A  small  dog  with  sores  all  over  his  body,  his  mouth,  and
+his  eyes,  pretended  to  be  sick  and  unable  to  move,  and  lay  on  the  ground.
+He  kept  a  little  fire  between  his  legs,  and  had  hidden  a  knife.     The  people
+left  the  dog  Iving.     When  they  had  all  gone  oft',  the  dog  went  to  t  he  children,
+climbe.l  the  "tree,  cut  the  ropes,  and  freed  them.     The  Uttle  boy  cried  an.l
+cried.     He  felt  bad  about  what  the  people  had  done.     Then  many  butt'alo
+came  near  them.     "L.)ok  at  the  buft'alo,  my  brother,"  said  the  girl.     The
+boy  looked  at  the  buffalo,  and  they  fell  dead.     The  girl  wondered  how  they
+might  cut  them  up.     "Look  at  the  meat,  my  younger  brother,"  she  said.
+The  bov  looked  at  the  dead  buffalo,  and  the  meat  was  all  cut  uj).     Then
+she  toki  him  to  look  at  the  meat,  and  when  he  looked  at  it,  the  meat  was
+dried.     Then  they  had  much  to  eat,  and  the  dog  became  well  again.     The
+girl  sat  down  on 'the  pile  of  buffalo-skins,  and  they  were  all  dressed.     She
+folded  them  together,  sat  on  them,  and  there  was  a  tent.     Then  s1k>  went
+out  with  the  dog  and  looked  for  sticks.     She  brought  dead  branches,  broken
+tent-poles,  and  rotten  wood.     "Look  at  the  tent-poles,"  she  said  to  her
+
+
+1907.]  Kroeber.  Gros  Ventre  Myths  and  Tales.  105
+
+brother.  When  he  looked,  there  were  large  straight  tent-poles,  smooth
+and  good.  Then  the  girl  tied  three  together  at  the  top,  and  stood  them  up,
+and  told  her  brother  to  look  at  the  tent.  He  looked,  and  a  large  fine  tent
+stood  th?re.  Then  she  told  him  to  go  inside  and  look  about  him.  He
+went  in  and  looked.  Then  the  tent  was  filled  with  property,  and  there
+were  beds  for  them,  and  a  bed  also  for  the  dog.  The  dog  was  an  old  man.
+Then  the  girl  said,  "Look  at  the  antelopes  rimning,  mv  brother."  The
+boy  looked,  and  the  antelopes  fell  dead.  He  looked  at  them  again,  and  the
+meat  was  cut  up  and  the  skins  taken  off.  Then  the  girl  made  fine  dresses
+of  the  skins  for  her  brother  and  herself  and  the  dog.  Then  she  called  as
+if  she  were  calling  for  dogs,  and  four  bears  came  loping  to  her.  "You
+watch  that  pile  of  meat,  and  yoti  this  one,"  she  .said  to  each  one  of  the  bears.
+The  bears  went  to  the  meat  and  watched  it.  Then  the  boy  looked  at  the
+woods,  and  there  was  a  corral  full  of  fine  painted  horses.  Then  the  children
+lived  at  this  place,  the  .same  place  where  they  had  been  tied  and  abandoned.
+They  had  very  much  food  and  much  property.  Then  a  man  came  and
+saw  their  tent  and  the  abundance  they  had,  and  went  back  and  told  the
+people.  Then  the  people  were  told,  "  Break  camp  and  move  to  the  children,
+for  we  are  without  food."  Then  they  broke  camp  and  travelled,  and  came
+to  the  children.  The  women  went  to  take  meat,  but  the  bears  drove  them
+away.  The  girl  and  her  brother  would  not  come  otit  of  the  tent.  Xot
+even  the  dog  would  come  out.  Then  the  girl  said,  "I  will  go  out  and  bring
+a  wife  for  you,  my  brother,  and  for  the  dog,  and  a  husband  for  myself."
+Then  she  went  out,  and  went  to  the  camp  and  .selected  two  pretty  girls  and
+one  good-looking  yoimg  man,  and  told  them  to  come  with  her.  She  took
+them  into  the  tent,  and  the  girls  .sat  down  by  the  boy  and  the  old  man,  and
+the  man  by  her.  Then  they  gave  them  fine  clothing,  and  married  them.
+Then  the  sister  told  her  brother,  "(io  outside  and  look  at  the  camp."  The
+boy  went  out  and  looked  at  the  people,  and  they  all  fell  dead.^
+
+27.   The  Girl  who  became  a  Bear.
+
+There  was  a  large  camp.  Many  little  girls  were  playing.  They  were
+all  little.  Only  one  was  older.  She  played  with  the  rest  in  the  brush  near
+the  river.  She  said  to  the  others,  "All  go  and  bring  something  to  eat.
+Whoever  does  not  bring  the  last  rib  is  not  loved  by  her  parents."  The
+children  all  ran  home,  and  each  one  brought  back  a  short  rib  of  a  buffalo.
+Then  they  cooked  and  ate  the  meat,  and  the  oldest  girl  took  eight  of  the
+ribs.     She  said.  "Now  we  will  play  bear.     I  will  play  that  these  are  my
+
+1  From  informant  N.     Compare  No.  3,  and  Arapalio,  Nos.  127,  128.
+
+
+h
+
+
+1 00  A  nlhni/jolnrpral  Pnprr.s  American  MuHmm  of  Natural  History.         [\  ol.  I,
+
+white  Haws."     'J'lxii  ili<y  played  hear.     Suddenly  she  turned  into  a  bear.
+She  killed  all  exeept  hc^r  little  sister.     Her  little  sister  ran  home  and  brought
+tin;  news.     Soon  the   liear  eanie  loijing  toward  the  eanip.     All   took  up
+their   weapons:    old   and   yowtin   nicii    used   flubs  and   spears   and  arrows.
+None  (,r  IJK'  jiirovvs  penetrated  her,  and  she  would  cateh  and  kill  the  men
+that  fought  her.     'J'hus  she  did  until  she  had  killed  every  one  in  the  eamp,
+exeepting  her  little  si.ster,  who  had   run,  and  hidden   in  a  dog-hut.     The
+Bear  knew  that  she  had  not  killed  her  little  sister,  and  went  to  the  dog-hut.
+She  said,  "Cowr.  out,  or  I  will  kill  you."     So  the  little  girl  eame  out.     Her
+elder  sister  told  h(;r,  "Take  four  of  the  largest  tents  you  ean  find,  and  make
+one  tent  of  them   for  me.     You  must  get   jimiper   ((,'ililtouwuus6o"),    and
+cover  the  floor  of  the  tent  with  it."     ^Yhen  the  little  girl  had  done  all  this,
+the  bear  lay  down  an<l  groaned  and  groaned.    She  rolled  and  .sprawled  in  pain
+from  her  W(nuids.     The  little  girl  sat  by  the  door,  afraid.     She  said,  "Sister,
+]iia,y  I  go  to  get  water?"     Her  sister  said,  "Yes;  but  you  must  be  quick.
+Do  not  try  1o  run  away.      If  you  try  to  escape,  I  ean  catch  you.     You  ean
+go  nowhere  where  1  cannot  catch  you.     You  cannot  go  into  a  hole  where  I
+cannot  catch  you.     If  you  go  into  the  water,  I  will  catch  you."     Then  the
+little  girl   went  out.     Her  six  brothers  had  been  away.     Now  they  eame
+back;    but  when  they  found  the  canii)  deserted,  they  were  afraid  to  enter
+il .     So  they  lay  down  behinrl  a  hill.     When  they  .saw  their  little  sister  going,
+for  wat(>r,  they  went  to  meet  her.     "Why  is  the  camp  empty?"  they  asked.
+She  said,  "My  sister  turned  into  a  bear,  and  killed  all  the  people."     Then
+her  brothers  said  to  her,  "You  must  go  back.     Roast  this  bufialo-fat  from
+the  paunch,  and  when  it  is  hot,  throw  it  between  her  legs  as  she  sprawls.
+Then  run  awav.     Hut  first  you  nuist  ask  her,  'Is  there  any  spot  in  which
+you  can  be  killed?     Is  there  anything  that  will  kill  you?'     Ask  her  that.
+Then  throw  the  fat  on  her,  and  flee."     Then  the  little  girl  went  back  and
+asked  the  Bear  as  her  brothers  had  told  her.     The  Bear  asked  her,  "^Yho
+told  you  to  ask  me  that?     Some  one  nnist  have  told  you."     The  little  girl
+said,  "No.      I  only  wanted  to  know  it."     The  Bear  .said,  "Yes,  some  one
+must  have  told  you  to  ask  me."     But  the  little  girl  answered  "No.     I  only
+wanted  to  know,  because  you  have  killed  every  one  in  can)]),  and  I  thought
+vou  were  powerful."     Then  the  15car  said,  "I  caujiot  be  killed  except  in
+the  little  finger  of  my  left    hand.      And   I  cannot  l)e  killed  by  any  arrow
+except  an  arrow  of  tendon."     Then  the  littl(>  girl  roasted  the  fat.     When
+it  was  hot,  she  threw  it   between  the  Bear's  legs,  so  that  .she  rolled  about
+in  pain.     Then  the  girl  ran  to  her  brothers.     Then  they  ran  along  the  river,
+going  through  the  water.     WHien  they  had  gone  a  distanc(>,  the  little  girl
+looked  back,  and  sa\v  the  Bear  coming.     Sh(>  said,  "There  is  my  sister!"
+The  Bear  was  following  their  tracks  through  the  water.     WMien  the  people
+
+
+1907.]  Kroeber,  Gros  Ventre  Myth.^  and  Tales.  107
+
+saw  that  they  couhl  not  escape  her,  they  stopped,  and  began  to  shoot  the
+Bear.  Their  arrows  had  no  effect.  The  youngest  brother  had  a  bow  made
+of  tendon  and  an  arrow  of  the  same.  Now  he  drew  hLs  bow  at  the  Bear.
+He  stretched  it  four  times,  and  shot.  He  struck  her  in  the  httle  finger,  and
+she  died.  Then  they  made  a  fire  and  burned  her.  Whenever  a  spark
+flew  out  of  the  fire,  they  heard  the  Bear  roaring  there,  and  quickly  ran  to  it
+and  threw  it  in  the  fire  again;  and  when  some  of  her  fat  spattered  out,  it
+roared  Hke  a  bear,  and  they  threw  it  back.  Thas  they  entirely  consumed
+the  Bear.  But  one  spark  they  did  not  see.  Then  they  started.  They
+travelled  the  entire  night.  Then  the  little  girl  looked  back.  "There
+comes  my  sister  I"  she  said.  Then  they  ran.  They  ran,  and  became  very
+tired.  Then  the  oldest  brother  said,  "Let  there  be  a  deep  swamp  behind
+us,  so  that  the  Bear  will  become  fast  in  the  bog."  Then  there  was  a  swanijj.
+They  went  more  slowly  again,  and  recovered  their  breath.  I^ooking  back,
+they  saw  the  Bear  coming  again.  They  ran.  Then  the  next  brother
+said,  "  Let  much  timber  be  between  us  and  the  Bear.  Let  it  be  veri'  dense,
+so  that  the  Bear  cannot  pass  through  it;  or,  if  she  does  pass  through,  that
+it  will  be  a  ver^-  long  time."  Then  there  was  timber  behind  them,  and
+they  went  more  slowly.  Th?n  they  saw  the  Bear  coming  again,  and  the
+third  brother  said,  "I^t  there  be  a  very  deep  canyon  behind  as.  Let  it  be
+^o  large  and  steep  that  the  Bear  cannot  descend  into  it ;  or,  if  she  does  descend,
+tliat  she  cannot  come  out  of  it."  Then  there  was  a  canyon,  and  they  watched
+the  Bear  enter  it.  At  last  they  saw  her  emerge,  and  they  ran  again.  Then
+the  fourth  brother  said,  "Let  a  river  be  behind  as.  Let  it  be  large  and
+deep  and  ven'  swift,  so  that  she  cannot  swim  it,  or,  if  she  does  swim  it,  let
+her  be  carried  far  down  stream."  Then  there  was  a  river  behind  them.
+After  the  Bear  entered  it,  they  did  not  .see  her.  They  thought  her  drowned,
+and  went  on  slowly.  At  last,  after  a  long  time,  the  Bear  came  on  again.
+The  people  were  ven,'  tired.  They  said  to  the  fifth  brother,  "Cannot  you
+do  something?  We  are  ver\'  tired.  We  have  done  what  we  could.  It
+is  all  that  we  can  do."  Their  brother  answered,  "Yes.  Let  there  be  a
+terrible  fire  behind  as,  which  the  Bear  will  be  afraid  to  pass  through."
+Then  there  was  a  fire.  At  last  the  Bear  passed  through  it  and  came  on
+again.  They  .said,  "There  comes  the  Bearl"  and  ran.  Then  they  asked
+the  last  bn>ther,  "Cannot  you  do  something?  We  are  ver}-  tired.  If  you
+cannot  do  .something,  we  shall  surely  be  killed."  "Yes,"  he  .said.  "Let
+there  be  cactus.  Let  them  be  exceedingly  thick.  Let  them  be  so  that  the
+Bear  cannot  pass  over  them,  or,  if  she  does  pass  over  them,  let  it  be  a  very
+long  time."  The  Bear  went  into  the  cactas-thickets.  They  could  not  .see
+her  any  more.  They  went  far  on.  Then  the  little  girl  .said,  "There  comes
+mv  sister  againi"     "What   can  we   do  now?"  they  said.     They  ran  on.
+
+
+lOS  AnthropoliH/ical  Papers  AuHrkan  Museum  oj  Natural  Ilistury.         [\o\.  I,
+
+"Sister,  can  you  not  do  something?  Perliii])s  in  your  life  you  liave  dreamed
+somethino;.  rerliai)s  you  are  al)le  to  do  sometliino;  wondcM-ful."  'I'lie
+little  ti'ii-l  said,  "  \'es.  Let  us  run  on  until  we  ti'et  to  this  flat  ])lace.  Then  I
+will  do  it."  'rh(>y  ran  until  they  came  where  it  was  tint.  There  they
+stopped.  The  brothers  said,  "Now  we  sliall  see  what  she  can  do."  T\w
+liear  was  close  up.  'i'he  o'irl  made  them  all  stand  facin*!  the  east.  "The
+two  oldest  were  in  front,  and  behind  them  the  two  next,  then  another,  and
+behind  him  the  youngest.  She  herself  was  ])ack  of  them  all.  Then  she
+said,  "M\'  brothers,  all  our  relatives  are  dead.  We  should  not  be  hap])y  if
+we  lived  here  alone  and  without  them.  We  will  go  above  and  we  will  live
+there."  Then  she  called  her  oldest  brother  by  name.  "Now  my  brother,"
+she  said,  and  kicked  a  little  ball  that  she  always  carried  in  her  dress  on  a
+string,  'i'hen  he  tiew  u|).  'Hien  she  did  the  same  with  the  others,  one  after
+the  other.  Only  two  brotluM's  were  left.  ''I'he  Bear  was  very  near,  and  she
+kicked  the  ball  twice,  as  fast  as  she  could.  Then,  just  as  the  Bear  reached
+her,  she  kicked  the  ball  for  herself,  and  I  hey  had  all  become  stars  in  the  sky.
+The  Bear  stood  looking  upward,  but  could  not  catch  them.  'J'hey  are
+iiibiitcivaa"   (cu1-oll'-he;id,   Trsa   major).'
+
+28.     SlIELL-Sl'ITTKH,
+
+TIkmv  were  two  girls,  sisters.  'i'he  older  sister  said,  "We  will  go  to
+look  for  Shell-Spitter."  There  was  a  man  who  was  poor  and  who  lived
+alone  with  his  old  inolher.  lie  was  t he  Loon  (ce'ibyhi),  and  his  luother  was
+Badger-Woman  (ba\aouu(,';i").  He  heard  that  two  girls  were  looking  for
+Shell-Spillcr.  lie  went  to  the  children  of  tlu>  camp,  and  took  their  shells
+awav  from  them.  The  girls  ai'rivcd,  and  asked  for  Shell-Spitt(>r's  tent.  It
+was  shown  tluMii,  and  they  went  to  it.  There  stood  the  Loon.  "What
+are  you  girls  looking  for?"  h.-  said.  "We  are  looking  for  Shell-Spitter."
+"I  am  he."  "Let  us  see  you  s[)it  shells."  He  had  lilled  his  mouth  with
+shells,  and  now  spit  them  out.  The  two  girls  stooped,  and  hastilv  ])icked
+them  up,  each  trying  to  snatch  them  before  the  other.  'I'hen  he  took  them
+to  his  tent.  His  tent  was  old  and  poor.  His  luother  was  grav-headed.
+He  said  to  them,  "  I  have  another  tent,  ll  is  Hue  and  large.  I  have  brought
+you  here  because  there  is  nion^  room   to  sUhm)."     The  girls  went  inside.
+
+
+1  From  infonnaut  R.  Aiiottier  version,  obtained  from  inlorniani  M,  showed  the  follow  imr
+dilTerenees.  The  Jiear  told  her  little  sister,  whose  hack  slit-  had  seratelied,  not  to  tell  that  she
+was  hurt.  If  she  did  tell,  all  the  dofjs  in  tile  eamp  would  howl.  When  the  little  sirl  came  Ijack,
+her  mother  tried  to  make  her  carry  a  baby  on  her  back.  She  cried  from  pain.  Her  mother
+questioned  her,  and  she  told.  Tiic  doj^s  howled,  and  the  Hear  came.  The  story  then  continues
+as  above,  except  that  her  six  brotliers  f,'ive  lh(>  liiUc  f,'irl  a  ral)bit  to  use  for  its  fat  in  order  to
+burn  the  bear.  'J'he  six  l)rotliers  l)ccome  the  Pleiades,  the  fjirl  sitting  a  little  at  one  side  of
+them.  Compare  ."Vraiiaho,  Nos.  80,  105,  and,  for  the  so-called  Maijic  Flight,  Arapaho,  No.  6.
+The  Ma^ic  Flight  is  found  also  in  No.  3,  and  in  Arapaho,  Nos.  6,  35,  124.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  109
+
+Soon  some  one  called  to  the  Loon,  "Come  over!  they  are  making  the  sun-
+dance!"  "Oh!"  he  said.  "Now  I  have  to  sit  in  the  middle  again,  and
+give  away  presents.  I  am  tired  of  it.  For  once  they  ought  to  get  some  one
+else.  I  am  to  sit  on  the  chief's  bed  in  the  middle  of  the  lodge."  He  told
+his  mother,  "Do  not  let  these  women  go  out."  Then  he  went  out,  and  the
+old  woman  guarded  the  door.  When  she  was  asleep,  one  of  the  girls  said,
+"  I  will  go  out  to  look."  She  stepped  over  the  old  woman,  and  went  to  the
+dance-lodge.  Looking  in,  she  saw  the  people  dancing  on  the  Loon's  rump.
+On  the  bed  in  the  middle  sat  a  fine  man.  Whenever  he  spit,  he  spit  shells.
+The  ground  all  around  him  was  covered  with  them.  Then  the  girl  went
+back,  and  called  to  her  sister,  "Come  out!  They  are  dancing  on  this  man;
+but  the  one  who  spits  shells  sits  in  the  middle  of  the  lodge."  Then  they
+both  went  to  the  lodge.  They  went  inside  and  sat  down  behind  Shell-
+Spitter.  Then  the  man  on  the  ground,  on  whom  the  people  were  dancing,
+saw  them.  He  jumped  up.  He  killed  Shell-Spitter,  and  ran  out.  He
+said  to  his  mother,  "I  told  you  to  watch,  and  not  to  let  those  women  out."
+Then  he  told  her,  "Dig  a  hole  quickly!"  She  quickly  dug  a  hole  inside
+the  tent.  He  entered  it,  and  then  she  followed  him.  The  people  came,
+I)ut  could  do  nothing.  When  they  stojiped  trying  to  shoot,  Badger-
+AVoman  came  out  of  the  hole,  singing  in  ridicule  of  Shell-Spitter's  death.
+Before  the  people  could  reach  her,  she  dropped  into  the  hole  again.  She
+did  this  re])eate(lly.^
+
+29.   Yp:llow-Plume  .wd  Blue-Plume.
+
+There  were  two  boys,  brothers.  One  wore  a  yellow  plume  on  his  head,
+the  other  a  l)lue  one.  They  were  playing  with  a  wheel  painted  yellow.
+The  one  with  the  yellow  plume  rolled  it  toward  the  one  with  the  blue  plume.
+This  one  threw  at  it  and  nii.s.sed  it.  The  wheel  kept  on  rolling.  The  boy
+with  the  blue  phiine  followed  it.  At  last  the  wheel  rolled  into  the  tent  of
+an  old  woman.  When  the  boy  came  to  the  tent,  he  said,  "  Grandmother,  did
+the  wheel  come  into  your  tent?"  "Dirty  boy,  your  wheel  did  not  come
+in  here.  But  come  in  for  a  while,"  she  answered.  The  boy  went  inside.
+"I  am  glad  to  have  you  here,  dirty  boy,"  she  said.  "Perhaps  this  will  be
+the  last  of  your  life.  Xow.wait  here  while  I  go  to  get  wood  to  make  a  fire."
+She  went  out,  got  rotten  wood,  brought  it  in,  piled  it  up,  and  lit  it.  She
+wanted  to  smother  the  boy.  She  closed  the  door,  and  put  logs  along  the
+edges  of  the  tent,  that  he  would  not  escape.  The  tent  filled  with  smoke;
+but  where  the  bov  sat  there  was  no  smoke.     Looking  around,  he  saw  an
+
+
+I  From  informant  N.     Compare  Arapaho.  Nos.  89,  121.
+
+
+110  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I^
+
+awl,  took  it  out  of  its  handle  (case?),  and  stuck  it  into  the  ground  by  the
+door.  The  old  woman  said,  "Are  you  still  there?"  and  the  awl  answ^ered,
+"Yes."  "Dirty  child,  you  should  have  been  burned  by  this  time,"  she
+said.  After  a  time  she  asked  again,  "Are  you  still  there?"  "Yes,  I  am
+still  here,"  said  the  awl.  The  boy  sat  altogether  untouched  by  the  smoke.
+The  (3ld  woman  asked  again,  and  the  awl  gave  the  same  answer.  She  asked
+a  fourth  time,  and  the  awl  answered  again.  Then  she  said,  "You  are  still
+speaking,  dirty  boy:  you  should  have  been  smothered  by  this  time."  She
+took  away  the  logs  with  which  she  had  closed  the  tent.  She  looked  in  and
+saw  the  boy.  "Dirty  child,  there  you  are  still  sitting!  You  are  the  first
+one  I  have  not  succeeded  in  smothering  to  death.  Now  I  want  you  to  go-
+for  water."  Then  the  boy  went  for  water.  He  brought  hack  clear  water.
+The  old  woman  said,  "That  is  not  the  kind  of  water  I  drink."  The  boy
+went  to  get  another  bucketful,  and  again  brought  clear  water.  When  he
+came  back,  the  old  woman  told  him  again,  "That  is  not  the  kind  of  water
+I  use."  Again  he  brought  some,  and  she  told  him  she  did  not  use  that  kind.
+This  time  she  said  to  him,  "If  you  get  the  same  kind  of  water  again,  I  will
+kill  you."  The  boy  went  out  to  the  stream,  thinking  what  kind  of  water
+he  should  get,  thinking  as  hard  as  he  could.  A  person  above  his  head  spoke
+to  him,  "Go  where  the  spring  is,  and  there  get  water.  That  is  the  kind  of
+water  the  old  woman  drinks."  The  boy  ran  to  the  spring,  which  was  dirty
+and  scummy.  When  the  old  woman  saw  the  water,  she  said,  "You  may
+live,  for  that  is  the  kind  of  water  I  use.  Now  you  may  go  home,  because
+you  have  brought  it.  If  you  had  brought  me  the  wrong  water  again,  I
+should  have  killed  you  at  once."  So  the  boy  went  out,  taking  his  wheel'
+with  him.  When  he  was  off  some  distance,  he  called,  "Dirty  old  woman,
+you  did  not  succeed  in  doing  what  you  wanted.  I  am  more  powerful  (holy)
+than  you."  He  had  left  the  awl  sticking  in  the  ground  at  the  door.  The
+old  woman  had  not  seen  it.  When  the  boy  called  to  her  thus,  she  became
+angry,  got  up,  and  cried  back,  "Why  do  you  talk  to  me  like  that,  dirty  boy?'
+You  were  about  to  be  allowed  to  live.  Now  I  will  kill  you."  She  started
+to  go  out  and  stepped  on  the  awl,  which  pierced  her  foot.  She  lay  down
+and  went  no  farther.  The  boy  came  back,  and  told  his  brother  (the  one
+wath  the  yellow  pliune),  "Brother,  while  I  was  away,  I  was  in  danger
+from  an  old  woman.  She  tried  to  kill  me,  but  somehow  I  escaped  her."
+"W'e  will  kill  her  with  a  flood  of  water,"  said  his  brother.  The  old  woman's
+tent  stood  in  a  deep  gully.  Then  they  flooded  her  house  with  water,  and
+she  was  drowned.     That  was  the  end  of  her  life.^
+
+1  From  informant  P.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  Ill
+
+30.  The  Swallows  and  the  Sxake.
+
+There  was  a  high  bank  where  the  swallows  (byiiteibyi^as^aha")  lived.
+A  snake  went  there  and  ate  all  the  young  swallows.  When  the  swallows
+tried  to  resist  the  snake,  it  blew  something  yellow  out  of  its  mouth  and  killed
+the  swallows,  so  that  they  fell  into  the  water.  The  swallows  went  and  got
+the  tsootsohih'a"  (small  birds)  to  help  them,  and  then  the  byiitciyeihih'a"
+(another  species  of  small  birds) ;  but  the  snake  killed  them  with  its  yellow
+breath.  Then  the  swallows  went  to  ask  the  bluebirds  to  help  them.  The
+bluebirds  came;  but  the  snake  breathed  hard,  the  yellow  came  out,  and
+the  bluebirds  fell  into  the  water  dead.  Again  the  swallows  flew  away,  and
+got  an  owl;  but  the  snake  killed  it  in  the  same  way.  The  swallows  flew
+away  and  got  an  eagle  to  help  them.  The  eagle  also  fell  into  the  water
+dead.  They  got  a  duck,  and  then  a  bullet-hawk  (aiidy');  but  the  snake
+breathed,  and  killed  them.  Then  they  brought  the  birds  called  ako'uuhuh'a",
+and  these,  too,  were  killed.  Then  they  asked  the  night-hawk  to  help  them.
+The  night-hawk  tried  to  break  wind  against  the  snake,  but  was  killed.
+Then  the  swallows  got  bax'a'a",  the  thunder.  The  snake  breathed  yellow
+at  him;  but  he  flew  by  unhurt,  turned  in  his  flight,  and  came  back.  Then
+the  snake  breathed  red  towards  him,  and  then  blue,  and  then  black;  but
+it  did  not  hurt  him.  The  fifth  time,  the  thunder  seized  the  snake  with  his
+bill,  threw  it  U[)  in  the  air  and  cut  it  in  two.^
+
+31.   The  Origlv  of  the  Tsooyanehi  Degree  of  the  Dog-daxce.
+
+The  people  were  travelling.  They  left  a  shaggy  ^  dog  behind  them.
+Then  the  dog  followed  the  trail  of  the  camp.  An  old  man  went  out  on  the
+hills.  He  saw  something  following  the  trail,  and  wondered  what  it  was.
+He  went  toward  it  to  see.  He  saw  that  it  was  a  dog,  and  pitied  it.  Then
+the  old  man  went  to  sleep  by  the  dog.  The  dog  knew  that  the  old  man  pitied
+him,  and  in  return  he  pitied  the  old  man.  In  his  sleep,  the  dog  appeared  to
+him  and  said,  "I  will  give  you  a  dance.  It  is  to  be  called  'Shaggy  Dog'
+(tsooyane'hi)."  Then  he  told  the  old  man  how  they  were  to  make  the  dance,
+what  they  were  to  wear,  and  how  they  were  to  dance.  The  dog  gave  him
+a  whistle  and  a  forked  rattle  and  a  head-dress  of  owl-feathers  and  a  shirt
+covered  with  feathers.  The  old  man  after  a  time  gave  them  to  another,
+and  so  they  were  passed  on  to  the  present.
+
+
+1  From  informant  N.  The  snake,  undoubtedly,  is  to  be  conceived  as  one  of  the  bax'aa"
+or  bi'ica°,  the  supernatural  serpent-like  water-animals  that  are  the  enemies  of  the  thunder.
+
+2  The  original  says  smooth-haired,  but  his  shirt  is  rough  with  feathers.  The  Arapaho
+also  call  this  dancer  "shaggy  dog."  Probably  long-haired  is  meant.  Compare  the  Arapaho
+account  of  the  origin  of  the  women's  buffalo-dance,  No.  14.
+
+
+112  Ay^thropoloyical  Pajjers  American  Museum  of  Natural  History.        [Vol.  I,
+
+32.   The  Origin  of  the  Chief  Pipe.
+
+A  certain  man  was  jealous  of  a  yoiuig  man,  and  jioisoned  him.
+Before  tlie  young  man  died,  he  said,  "Do  not  tie  me  up.  Do  not  look  at
+my  tent  for  four  days."  Then  he  died.  He  was  laid  inside  his  tent  together
+with  much  property.  The  people  kept  away.  After  four  days  a  storm
+came.  It  rained  and  thundered,  and  there  was  lightning  in  the  dark.
+Then  a  cloud  came  down.  It  went  up  again.  It  had  taken  the  tent  and
+all  the  property  with  it.  It  left  in  their  place  a  pi])e  resting  on  two  forked
+sticks.  The  bowl  of  the  pipe  was  to  the  south.  At  this  end  lay  buffalo-
+chips  (to  make  fire,  with  the  smoke  of  which  to  incense  the  pipe)  and  sage
+(on  which  to  lay  the  pipe)  and  a  bag  of  red  paint.  Around  the  pipe-stem
+was  calico  of  different  colors.  Under  the  pipe  sat  the  young  man  alive.
+The  thunder  had  pitied  him.  After  this  the  pipe  was  handed  down  from
+one  man  to  another.  Whenever  it  was  given  to  a  new  keeper,  the  people
+took  everything  away  from  him,  just  as  the  thunder  had  taken  everything
+from  the  man  who  first  received  it.  At  last  a  man  died,  and  the  pipe  was
+buried  with  him.     The  pipe,  was  called  "chief  pipe."  ^
+
+33.   Separation  of  the  Tribe.
+
+Long  ago  the  people  were  crossing  a  large  body  of  water.  Perhaps  it
+was  a  lake,  perhaps  it  was  a  river.  They  were  travelling  north  or  south.
+Some  had  crossed,  some  had  not  yet  crossed,  and  some  were  on  the  ice.
+A  little  girl  saw  a  horn  sticking  out  of  the  ice.  She  asked  her  grandmother,
+"Chop  it  out  for  me?  I  want  it  for  a  spoon."  Her  grandmother  refused.
+Then  the  little  girl  began  to  cry.  The  old  woman  went  back  and  chopped
+the  horn  out.  Then  blood  flowed.  The  horn  must  have  belonged  to  some
+animal  under  the  water,  which  began  to  move.  The  ice  broke  up.  All
+that  were  on  the  ice  were  drowned.  The  people  on  the  two  shores  never
+came  together  again. -
+
+34.   The  Cave  of  the  Buffalo.
+
+To  the  northwest  from  the  present  Gros  Ventre  reservation  there  is  a
+hole  in  a  hill.  The  mouth  is  as  large  as  a  house.  When  the  people  hunted
+near  this  hole,  they  always  saw  large  herds  of  buifalo.     Buffalo-trails  led
+
+
+1  From  informant  N.
+
+2  From  informants  N  and  T.  Similar  traditions  are  found  among  the  Sarcee  (Wilson,  Re-
+port of  the  British  Association  for  the  Advancement  of  Science,  1888),  Cheyenne  (Grinnell,
+American  Anthropologist,  1892,  p.  163),  and  Blackfeet  (ibid.).
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  113
+
+toward  the  hole  from  all  directions.  All  about,  the  ground  was  beaten  into
+dust,  and  there  were  piles  of  manure.  When  the  buffalo  were  hunted,  they
+ran  into  the  hill.  Sometimes  all  entered  it  before  any  could  be  killed.
+Once  two  brave  men  went  into  the  cave.  They  had  long  sticks  with  which
+they  felt  the  sides  and  top  of  the  hole.  They  kept  going  farther,  and  the
+hole  grew^  larger.  At  last  they  could  no  longer  touch  the  top  or  the  sides
+of  the  cave  with  their  sticks.  Then  they  became  afraid  that  they  would
+not  find  their  way  back  in  the  dark.  They  returned.  They  could  hear
+the  noise  of  buffalo  running  inside.  It  is  thought  that  it  is  here  that  all  the
+buffalo  have  disappeared.^
+
+35.   The  Womax  axd  the  Black  Dog.
+
+Outside  an  old  woman's  tent  a  young  man  lay  at  night,  waiting  for
+women.  There  was  a  man  who  had  a  beautiful  wife.  In  his  lodge  were
+many  people,  smoking  and  talking.  The  young  man  outside  saw  this
+woman  come  out  and  take  firewood  in.  Then  she  came  out  again  and
+went  off  ut  defecaret.  Canis  niger  eam  secutus  est.  Pedibus  ei  blanditus
+est  C|uasi  fe.stinaverit.  ]\lulier  dixit,  "Retine!  Ximis  festinas.  Mane
+donee  inquinaverim."  Cum  intjuinavisset,  longius  abiit  et  in  manus
+genuacjue  descendit.  Tum  canis  eam  texit.  The  young  man  thought,
+"She  is  a  beautiful  woman.  She  should  have  taken  one  of  the  many  hand-
+some young  men  for  her  lover."  When  the  visitors  had  left  the  tent,  he
+went  in.  He  said  to  the  man,  "You  are  a  good-looking  young  man,  and
+you  have  a  beautiful  wife.  But  she  has  done  something  bad."  The  man
+said,  "Yes?  Whatever  you  say  shall  be  done."  Juvenis  dixit,  "Multi
+sunt  juvenes,  sed  canem  pro  adultera  ista  habet."  Mr  mulieri  suse  dixit,
+"Ne  id  fecisses.  Homo  pro  amatore  a  te  eligendus  fuit."  Then  he  killed
+her.     He  was  deeply  ashamed.^
+
+30.   The  ]\Iax  borx  from  a  Horse.
+
+In  spring,  when  tlie  mares  foal,  a  mare  gave  birth  to  a  person.  This
+newly  born  human  being  was  like  a  colt  in  that  he  stood  up  at  once  and
+walkc^l  about.  Soon  he  talked.  The  man  to  whom  the  mare  belonged
+that  had  given  birth  to  the  person,  called  the  people.  Wlien  they  had  come
+and  stood  about  in  a  circle,  he  said  to  the  colt-person,  "I  have  called  all
+
+
+1  From  informant  R.     The  general  idea  is  common  on  the  Plains.
+
+2  Told  by  informant  R  in  answer  to  the  question  whether  he  knew  the  myth  of  the  woman
+who  had  children  by  a  dog,  told  by  the  Arapaho.  This  myth  does  not  seem  to  be  found
+among  the  Gros  Ventre.
+
+
+114  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  1^
+
+these  people  in  order  that  you  may  find  your  father."  The  colt-person  got
+up,  walked  around  the  circle,  looked  at  every  one,  and  said  to  a  man,  "You
+are  my  father."  The  man  did  not  hesitate,  but  ^vent  to  him  and  acknowl-
+edged him  as  his  son.
+
+37.    The  Woman  and  the  Horse.
+
+The  people  sent  out  two  young  men  to  look  for  buffalo.  They  killed
+one  and  were  butchering  it.  Then  one  of  them  said,  "I  will  go  to  that  hill
+and  look  around;  do  you  continue  to  butcher."  He  went  on  the  hill,  and
+his  companion  went  on  with  the  butchering.  The  one  on  the  hill  looked
+about  him  with  field-glasses.  At  Many-Lakes  he  saw  a  large  herd  of  wild
+horses.  He  continued  to  look  at  them.  Then  he  saw  a  person  among  them.
+Then  he  saw  something  streaming  behind  the  person.  He  thought  it  was
+a  loose  breech-cloth.  He  called  his  companion,  and  said  to  him,  "Look!"
+Then  they  went  nearer.  They  saw  that  it  was  indeed  a  person.  They
+thought  that  it  was  something  unnatural  (kaxtawuu).  Therefore  they
+did  not  try  to  disturb  the  person,  but  went  back.  They  asked  the  people,
+"Did  you  ever  miss  a  person?"  An  old  man  said,  "Yes.  A  man  once
+lost  his  wife  as  the  camp  moved.  She  was  not  found."  Thereupon  the
+young  men  told  what  they  had  seen.  The  people  thought  it  must  be  this
+woman.  The  whole  camp  went  there.  All  the  people  mounted  their  best
+horses  in  order  to  catch  her.  When  they  approached  the  place,  they  sur-
+rounded the  whole  country.  All  of  them  had  mirrors.  When  they  had
+gone  all  around,  they  turned  the  mirrors  and  reflected  with  them,  signalling
+that  the  circle  was  complete.  Then  they  drew  together.  The  four  that
+were  mounted  on  the  fastest  horses  started  toward  the  herd.  The  wild
+horses  ran,  but,  wherever  they  went,  they  saw  people.  The  person  in  the
+herd  was  always  in  the  lead.  The  people  continued  to  close  up  on  the
+horses.  When  they  got  them  into  a  small  space,  they  began  to  rope  them.
+Six  of  the  horses  and  the  woman  escaped.  She  was  exceedingly  swift.
+The  people  headed  them  off,  and  at  last  drove  them  into  an  enclosure.
+With  much  trouble  they  at  last  succeeded  in  fastening  one  rope  on  her  leg
+and  one  on  her  arm.  Then  they  picketed  her  at  the  camp  like  a  horse.
+Pubis  suae  crines  equi  caudse  similes  facti  erant.  At  night  a  young  man
+went  oiit.  He  lay  down  on  the  ground  near  her,  looking  at  her.  Then  the
+woman  spoke:  "Listen,  young  man.  I  will  tell  you  something.  You
+must  do  what  I  tell  you.  It  is  the  truth.  Long  ago  the  camp  was  moving.
+I  was  far  behind.  I  saw  a  large  black  stallion  come.  He  had  a  rope  on
+him.  I  jumped  off  my  horse  and  caught  him,  thinking  he  belonged  to  some
+one  in  camp.     When  I  had  hold  of  the  rope,  he  spoke  to  me.     He  said.
+
+
+1907-1  Kroeber,  Gros  Ventre  Mijths  ajid  Tales.  315
+
+'Jump  on  my  back.'  Then  I  climbed  on  him.  He  is  the  one  that  took
+me  away.  He  is  my  husband.  I  have  seven  children  by  him,  seven  young
+horses.  There  is  one,  that  gray  one;  there  another  one,  that  spotted  one;
+there  a  black  painted  one;  there  a  black  one."  She  showed  him  all  her
+children.  "That  is  my  husband,"  she  said  of  a  black  horse  that  was  tied
+near  by.  "I  cannot  go  back  to  the  tribe  now.  I  have  become  a  horse.
+Let  me  go.  Let  us  all  go.  Tie  a  bell  on  a  horse  of  such  a  color;  then  you
+will  be  lucky  in  getting  horses.  If  you  will  let  me  loose,  I  will  give  you
+forty  persons  (you  will  kill  forty  enemies).  If  you  do  not  loose  me,  many
+of  the  tribe  will  die."  Then  the  young  man  went  to  his  father  and  told
+what  the  woman  had  said.  The  old  man  went  outside  and  cried  it  out  to
+the  people.  Then  they  freed  her  and  the  horses.  They  ran  amid  flying
+dust,  the  woman  far  in  the  lead.^
+
+38.   The  Little  Girl  avho  was  married  by  a  Bear.
+
+A  camp  moved  and  a  little  girl  was  left  behind.  She  started  to  follow
+the  peo{)le's  tracks.  At  last  she  stopped,  sat  down,  and  cried.  A  bear
+called  her  by  name,  and  said,  "Stay  with  me.  I  am  rich.  I  can  kill  buffalo,
+deer,  and  any  kind  of  game."  Then  the  girl  began  to  make  a  tent.  She
+set  it  up.  The  bear  ai)i)roached  her,  turned  into  a  man,  and  married  her.
+The  people  came  back  looking  for  her,  and  saw  a  large  tent.  The  little
+girl  told  them  not  to  come  near.  She  would  not  allow  any  one  to  approach.
+So  they  went  back.  Three  times  they  came.  The  fourth  time  they  asked
+her,  "Pity  us;  we  are  starving."  Then  she  permitted  them  to  come.  They
+made  camp  close  to  her,  and  she  gave  them  dried  meat.-
+
+39.   The  Youxc;  I\Iax  who  became  a  Water-monster.
+
+Two  young  men  who  were  friends  were  travelling.  They  found  a  trail.
+"Let  us  go  on  this  trail,  my  friend,"  one  of  them  said.  They  followed  and
+followed  the  trail  a  long  time.  At  night  they  would  sleep.  At  last  the
+trail  went  into  a  hill.  They  entered  the  hill,  still  following  the  trail.  It
+l(>d  through  the  earth  out  to  the  other  side.  They  continued  to  go  on,  still
+following  the  trail.  They  had  nothing  to  eat,  and  became  thin  and  bony.
+Then  they  saw  a  tall  person,  as  large  as  a  tree.  He  found  them  and  said,
+"Little  children,  climb  on  my  hand."  He  took  them  back  with  him  to  the
+camp  of  his  people.  They  all  admired  the  little  men.  One  day  the  giants
+saw  that  they  were  to  be  attacked.     They  went  outside  and  prepared  to
+
+
+1  Told  by  informant  R.     Compare  the  Arapaho  fragment,  No.  63,  also  No.  107.
+
+2  From  informant  Q.
+
+
+)
+
+
+116  Anthrupolugical  Papers  American  Museum  of  Natural  History.         [Vol.  I,
+
+fight.  Then  large  birds  (biiasooihi'h'a")  came  and  fought  them.  The
+birds  had  spears  on  their  feet  with  which  they  kicked  the  giants  in  their
+jugular  veins.  The  giants  fell  down  and  bled  to  death.  The  two  young
+men  were  inside  the  tent.  One  of  them  said,  "Let  us  look  out  and  see  what
+sort  of  a  fight  this  is  that  is  carried  on  without  noise."  They  looked,  and
+saw  the  large  birds.  "They  are  only  birds.  Let  us  take  clubs  and  go  out
+and  kill  them,"  they  said.  They  went  out,  and  killed  many  of  the  birds.
+They  drove  them  away.  Then  the  giants  said,  "We  are  very  thankful
+that  we  found  these  little  children,  for  they  killed  the  large  birds,  and  saved
+us."  They  kept  the  men  with  them  for  some  time,  and  would  not  allow
+them  to  leave.  But  at  last  they  allowed  them  to  go  if  they  wished;  and
+one  of  the  men  said,  "My  friend,  let  us  return."  Then  they  started  home.
+They  came  to  the  hole  from  which  they  had  emerged,  entered  it,  and  went
+on.  Then  they  saw  an  animal  lying  l)efore  them.  They  tried  to  jump
+over  it,  but  it  rose.  They  tried  to  go  beneath  it,  but  it  lowered  its  body.
+It  blocked  their  way  completely.  They  went  back  to  the  mouth  of  the  cave,
+and  got  wood.  With  this  they  built  a  fire  against  the  side  of  the  animal,,
+and  roasted  it.  Then  they  saw  that  it  had  red  meat.  One  of  them  said,  "  I
+will  eat  some  of  it."  "No,  my  friend,  I  love  you  too  much,"  said  the  other,,
+and  held  him.  But  the  one  who  wanted  to  eat  dragged  him  to  the  meat.
+"My  friend,  if  you  eat  of  it,  perhaps  you  will  die."  "If  I  do  not  eat  of  it,
+I  will  die  of  hunger  before  I  reach  home,"  said  the  other.  At  last  his  friend
+let  him  eat  it.  Then  they  went  on  through  the  cave,  and  travelled  home-
+ward. Then  they  slept.  During  the  night  the  other  man  woke  up  and
+looked  at  his  friend.  He  saw  that  he  had  horns,  and  that  from  the  middle
+down  he  was  like  the  animal  of  which  he  had  eaten,  being  striped  with  white.
+In  the  morning  he  saw  that  he  was  a  man  again.  The  next  night  he  noticed
+that  his  friend  smelled  bad.  In  the  morning  he  was  a  human  being  again.
+The  next  night  they  slept  by  a  river.  Then  the  one  who  changed  at  night
+started  to  go  into  the  river.  He  said  to  his  friend,  "  You  will  be  lucky  steal-
+ing horses,  my  friend,  and  you  will  kill  persons.  You  will  not  l)e  poor.
+When  you  go  by  the  water,  feed  me.  Feed  me  only  with  guts."  Then  he
+went  into  the  river.  His  friend  cried  for  him.  The  water-animal  raised
+his  head  out  of  the  water  and  told  him,  "Do  not  mourn  for  me.  Go  home.
+You  will  be  rich."  Then  he  went  home  and  told  the  peo})le  what  had
+happened.  Whenever  he  went  to  war,  he  was  fortunate,  and  he  became
+a  chief.  ^
+
+
+J  From  informant  N.     Compare  Arapaho,  No.  76,  also  78.     The  visit  to  the  giants  is  not
+Arapaho.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  117
+
+
+40.   The  Wo.max  wfio  was  recovered  from  a  Water-mox.ster.
+
+A  man  accompanied  by  his  wife,  Avho  had  a  baby,  went  to  hunt  bufi'alo.
+He  killed  buffalo,  and  all  day  was  busy  cutting  them  up.  In  the  evening
+he  finished.  Then  they  went  back  only  a  short  distance,  and  slept  near  the
+water.  Their  horses  were  a  little  distance  off.  Far  in  the  night,  the  woman,
+who  was  not  asleep,  saw  a  bax'aa"^  come  out  of  the  water  and  encircle  them.
+It  put  its  head  and  tail  together,  completely  enclosing  them.  The  woman
+woke  the  man.  He  said,  "We  must  jump  over  it."  He  jumped.  Then
+the  woman  jumped,  but  she  Ht  astride  the  bax'aa'^,  as  if  on  a  horse,  and  it
+started  to  go  away  with  her.  The  man  tried  to  pull  her  off,  but  she  was
+fast;  and  the  bax'aa"  entered  the  water  with  her.  The  man  cried  for  her.
+He  returned  to  the  camp.  Then  he  came  back  to  the  place,  carrying  his
+baby,  which  had  become  very  thin.  Then  his  wife  rose  up  out  of  the  water.
+She  was  a  woman  from  the  hips  up,  and  a  snake  below.  She  said  to  him,
+"I  pity  you.  I  will  suckle  the  baby."  Then  she  suckled  it.  Then  the
+water  rose  behind  her.  The  welling  came  nearer  the  bank.  She  said  to
+the  man,  "That  is  the  bax'aa".  Load  your  gun  well.  When  the  welling
+water  comes  close,  shoot  the  place  where  it  flows  highest."  The  water
+rose  and  approached,  imtil  the  man  nearly  touched  it  with  his  gun.  Then
+he  shot.  The  water  stirred.  He  had  killed  the  bax'aa".  The  woman
+came  to  the  bank,  and  went  half  out  of  the  water.  The  lower  part  of  her
+body  was  like  a  snake  and  smelled  bad.  She  told  her  husband,  "Make
+a  sweat-house  and  sweat  me  four  times.  Then  I  shall  be  changed  to  a
+human  woman  again."  The  man  made  the  sweat-house  and  sweated  her.
+Thus  he  recovered  his  wife.^
+
+41.   The  Max  who  killed  Hawks.
+
+A  certain  person  used  to  wear  his  robe  inside  out,  and  carried  a  hatchet
+on  his  back.  When  he  saw  a  hawk  high  up  above  him  in  the  air,  he  would
+point  his  hatchet  at  it  and  the  hawk  fell  down  dead.^
+
+42.   The  ^NIax  who  was  kh.led  by  a  Bullet-hawk.
+
+A  man  climbed  to  a  difficult  place  to  take  young  bullet-hawks  (aadyi).
+When  he  reached  the  nest,  the  young  birds  cried.  One  of  the  old  birds
+flew  swiftly  down,  struck  the  man  with  its  sharp  breast,  and  split  his  head.^
+
+1  From  informant  N.  Compare,  for  the  recovery  of  the  woman  from  the  monster,  Arapaho,
+No  .5-  for  the  people  encircled  bv  the  monster,  Arapaho,  Nos.  6  and  74;  for  the  restoration  to
+life'in'the  sweat -honse.  No.  23,  aiid  Arapaho,  Nos.  5,  6,  119,  139-142.
+
+2  From  informant   >L  ^  From  mformant  Q.
+
+
+118  Anthropological  Papers  American  Museiim  of  Natural  History.        [\'ol.  I,
+
+43.   The  ]Max  who  was  killed  by  a  Bald  Eagle.
+
+A  man  was  catching  eagles  from  a  covered  pit.  A  bald  eagle  lit,  and  he
+took  hold  of  it.  The  eagle  seized  him  with  its  claws  and  flew  up.  It  carried
+the  man  up  high  and  dropped  him,  and  he  was  killed.'
+
+44.   The  Woman  who  tempted  axd  betrayed  her  Brother-ix-law.
+
+There  was  a  man  who  had  two  wives.  One  of  them  was  young  and
+beautiful.  He  had  a  younger  brother,  of  whom  he  thought  highly.  He
+constantly  gave  him  horses  and  other  things.  When  the  young  woman
+was  alone  with  the  young  man,  she  asked  him  to  be  her  lover.  He  refused.
+He  said,  "My  brother  tliinks  too  much  of  me."  But  at  last  he  consented.
+Then  she  said,  "Let  us  elope."  He  took  his  brother's  best  horses,  and
+they  ran  away.  They  fled  for  several  days.  They  came  to  a  large  camp
+which  had  just  been  abandoned.  The  fires  were  still  burning.  There
+were  a  number  of  shades  made  of  cottonwood-branches.  They  went  from
+one  to  another.  Then  they  saw  something  hanging  in  one  of  the  shades.
+It  was  an  elk-skin  case.  They  examined  it.  It  contained  a  shield,  a  lance,
+a  rawhide  bag  to  hold  war  paraphernalia,  and  a  buckskin  bag  for  clotliing.
+Then  the  young  man  said,  "Whoever  camped  here  forgot  this.  He  will
+come  back  for  it.  W^e  will  wait  here,  and  when  he  comes  I  will  kill  him.
+If  I  kill  him,  I  will  make  a  sun-dance  and  a  crazy-dance.  Whoever  he  is,
+I  will  try  to  make  peace  mth  him  when  he  comes.  I  will  smoke  with  him,
+and  suddenly  seize  him  and  hold  him.  While  I  hold  him,  you  must  bring
+that  lance  there  and  stab  him  with  it."  After  a  time  they  saw  a  man  coming
+on  horseback.  They  had  tied  their  horses  in  the  brush  so  that  they  would
+not  be  seen,  and  they  themselves  were  inside  the  shelter.  When  the  man
+was  near,  the  Gros  Ventre  came  out  and  made  signs  for  him  to  stop.  Then
+the  other  stopped,  and  asked  by  signs,  "What  do  you  want?"  The  Gros
+Ventre  said,  "I  had  intended  to  find  your  camp,  but  I  got  here  too  late.
+I  want  to  talk  with  you  and  smoke  with  you.  I  was  sent  by  the  people
+to  make  peace  with  you.  After  we  have  smoked,  I  will  go  with  you  to  your
+camp."  Then  the  stranger  said,  "Very  well.  Put  down  your  weapons,
+and  I  will  put  down  mine.  We  will  meet  in  the  middle,  and  smoke."  Then
+the  Gros  Ventre  held  u})  his  weapons  and  each  piece  of  his  clothing,  and
+laid  them  down  until  he  had  taken  off  all  his  clothes.  He  kept  only  his  pipe.
+The  stranger  did  the  same.  Then  they  met.  The  stranger  sat  dow7i,
+but  the  (iros  Ventre  put  only  one  knee  on  the  ground.     He  lit  the  pipe
+
+
+1  From  informant  Q.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  119
+
+with  a  flint,  held  it  out  with  two  hands,  and  said,  "Take  it  and  smoke  it,
+that  I  may  kill  you."  The  other  took  the  pipe,  smoked  it,  and  handed  it
+back  to  the  Gros  Ventre,  holding  it  in  the  same  way.  The  Gros  Ventre
+handed  it  back  to  him,  pointing  at  the  same  time  in  another  direction.
+When  the  stranger  looked  in  that  direction,  he  sprang  upon  him.  They
+fought,  rolling  back  and  forth.  The  Gros  Ventre  repeatedly  called  to  the
+woman  to  bring  the  spear.  But  she  would  not  bring  it.  She  had  fallen  in
+love  with  the  stranger,  whom  she  thought  more  beautiful  than  her  brother-
+in-law.  He  got  on  top  of  the  Gros  Ventre.  Then  he  made  signs  to  the
+woman  to  bring  the  spear.  She  came  with  it,  and  stabbed  her  brother-in-
+law.  She  stabbed  him  several  times  in  the  side  and  in  the  shoulder.  She
+did  not  wound  him  severely.  She  only  hit  the  bone.  The  two  men  continued
+to  roll  about  until  they  came  near  the  place  where  the  young  Gros  Ventre
+had  left  his  knife.  Then  he  came  on  top.  He  released  the  other,  jumped
+up,  got  his  knife,  and,  before  the  other  rose  to  his  feet,  was  back  at  him  and
+killed  him.  Then  he  took  the  woman  back  with  him.  He  did  not  kill  her.
+He  took  her  to  his  older  brother.  He  told  him  everything.  The  older
+brother  said,  "She  ought  not  to  have  asked  you  to  run  off  with  her.  She
+did  wrong."  He  took  her  down  to  the  river.  He  cut  off  one  of  her  breasts.
+Then  he  cut  off  the  other.  One  by  one  they  cut  off  all  her  limbs  until  she
+was  dead.'
+
+45.   The  Wo.m.w  who  tried  to  betray  her  Brother-in-law.
+
+A  man  who  had  a  younger  brother,  and  was  married,  lived  away  from
+the  camj).  His  wife  was  in  love  with  his  brother,  and,  when  her  husband
+went  out  to  hunt  buffalo,  she  asked  the  young  man  to  be  her  lover.  He
+refused.  He  took  his  robe,  his  shield,  and  his  spear,  and  went  out  to  where
+the  horses  were.  The  Avoman  followed  him,  and  again  urged  him.  Then
+he  mounted  a  horse  and  rode  oft".  She  caught  a  well-broken  horse,  and,
+using  her  belt  as  a  bridle,  followed  him.  Then  she  came  up  with  him.  At
+night  he  used  his  saddle  as  a  jjillow,  and  pretended  to  sleej).  She  lay  down
+beside  him.  Late  at  night  he  got  up  and  fled.  She  had  been  watching
+him,  and  followed.  Then  they  came  to  a  deserted  camp.  On  an  elevation
+above  the  camp  was  a  shelter.  In  this  hung  a  mirror  reflecting  the  sun.
+They  saw  it,  and  waited.  Soon  the  owner  of  the  mirror  came,  a  Ute.  The
+Gros  Ventre  signed  to  him  to  put  down  his  weapons,  and  laid  down  his
+own.  He  signed  to  the  Ute  that  he  would  give  him  a  smoke.  When  he
+reached  him  the  pipe,  he  jumped  on  him  and  they  struggled.     The  Gros
+
+1  From  informant  R.     For  this  and  the  following  version,  compare  Arapaho,  No.  114.
+
+
+120  Anthropohxjical  Papers  American  Museum  of  Natural  History.        [\o\.  I,
+
+Ventre  was  stronger,  and  got  on  top  of  his  adversary.  Then  he  called
+to  the  woman,  who  came,  but  stabbed  him  in  the  side.  Then  the  Gros
+Ventre  pledged  a  sun-dance  if  he  killed  the  Ute.  He  struck  one  of  his  arms
+and  broke  it,  then  the  other  and  broke  that  too.  Then  he  killed  the  Ute,
+and  scal]:)ed  him.  Then  he  and  the  woman  returned.  She  wanted  to  kiss
+him.  "There  will  be  time  enough  to  kiss  when  we  get  back,"  he  said.
+They  hid  in  the  mountains  in  order  to  avoid  the  Utes.  Then  they  came
+back  to  the  camp,  and  entered  his  elder  brother's  tent.  The  young  man
+had  painted  his  face  black,  and  called  all  the  people.  Then  he  told  how
+his  sister-in-law  had  tried  to  seduce  him  and  afterwards  to  betray  him.
+Then  the  woman's  husband  called  to  her  mother,  "Bring  out  your  daughter!
+This  is  the  last  day  of  her  life."  Then  he  antl  his  younger  brother  went
+out  of  the  camp.  The  woman  followed  them,  and  as  she  passed  l)etween
+them,  both  of  them  shot.  She  dropped.  They  did  not  biny  her,  but  left
+her  to  the  dogs.^
+
+46.   The  Bad  ^YIFE.
+
+There  was  a  camp-circle.  A  man  went  out  with  a  war-party.  While
+he  was  away,  the  Crows  attacked  the  camp  and  captured  his  wife.  When
+he  came  back  and  asked  for  her,  the  people  told  him,  "The  Crows  have
+taken  her."  Then  he  took  his  three  brothers  and  three  brothers-in-law
+with  him  and  started  out.  They  came  to  the  Crow  camp.  The  man  said
+to  his  six  companions,  "Wait  here  in  hiding.  I  will  go  into  the  brush,  and
+where  the  women  go  to  get  water  I  will  watch  for  my  wife."  He  waited
+all  the  morning.  Many  women  came,  but  not  his  wife.  At  last  she  came.
+The  man  jumped  out,  caught  her,  and  said,  "I  have  come  to  take  you  back."
+She  asked  him,  "How  many  are  there  of  you?  Where  are  they?"  He
+said,  "There  are  your  three  brothers  and  my  three,  and  they  are  in  that
+place."  The  woman  said,  "Wait  for  me  there,  and  I  will  steal  something
+and  bring  meat  for  you  to  take  with  you."  The  man  went  back  to  his
+six  companions,  and  told  them,  "She  will  soon  come  here."  The  woman
+went  back  to  the  Crow  camp,  took  a  coal,  chewed  it,  rubbed  it  over  her  face,
+and,  where  a  number  of  men  sat  smoking,  said,  "This  sun  has  given  me
+seven  persons.  They  are  there  in  the  brush."  Some  of  the  men  said,
+"That  woman  is  crazy;"  but  some  believed  her.  She  continued  to  say,
+"The  sun  has  given  me  seven  persons.  They  are  there  in  the  brush,"  and
+she  painted  her  face,  and  rejoiced.  At  last  the  people  believed  her.  They
+went  and  surrounded  the  place  where  the  seven  men  were  hiding,  shot  at
+them,  and  killed  six.     But  the  man  himself  they  could  not  kill.     He  went
+
+1  From  informant  N.     Compare  the  preceding  version.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  121
+
+straight  to  the  Crow  camp-circle.  He  entered  the  largest  tent,  wliich  stood
+in  the  middle.  There  was  his  wife.  A  crowd  followed  him  in.  He  told
+his  wife,  "I  want  to  smoke  and  to  drink."  The  Crows  asked  her,  "What
+does  he  say?"  The  woman  said,  "He  says  you  are  to  dig  two  holes  and
+set  two  trees  into  them,  and  connect  them  at  the  top  by  a  pole.  Then  you
+are  to  hang  him  there  by  the  neck.  Stretch  his  arms  and  tie  them,  and
+leave  him,  moving  camp.  Thus  he  says."  Some  of  the  Crows  did  not
+believe  her.  But  the  woman  continued  to  say  the  same  until  they  all
+believed  her.  Then  they  dug  the  holes  and  stuck  up  the  poles,  and  hung
+the  man  and  left  him.  An  old  Crow  woman  pitied  the  man,  and  waited
+until  the  whole  camp,  including  even  the  dogs,  had  gone.  Then  she  un-
+loaded her  travois  in  the  brush,  went  to  the  man,  cut  him  down,  and  washed
+his  face.  She  cooked  dried  sliced  meat  and  gave  him  to  eat,  and  then
+took  him  along  mth  her  hidden  on  her  travois.  When  she  came  to  the
+Crow  camp,  she  put  up  her  tent  outside  of  the  circle,  brought  water,  and
+started  a  fire.  Then  she  called  her  sons  to  smoke  with  the  man.  She  called
+him  her  son.  The  men  said,  "If  you  pitied  him,  you  should  have  told  us."
+They  gave  him  clothes,  for  he  had  been  hung  up  naked.  Then  the  man
+said,  "I  will  go  back.  I  will  return  soon  with  all  my  people  in  order  to  get
+my  wife.  Always  camp  together  at  the  rear  of  the  camp-circle,  at  the  end
+which  is  in  the  direction  from  which  you  have  just  come.  If  the  tribe
+divides,  put  rocks  in  a  row  along  the  trail  which  that  part  of  the  people
+have  taken  with  whom  my  wife  is."  Then  he  asked  his  new  brothers,
+"What  kind  of  a  horse  does  this  woman  ride?"  They  told  him,  "She
+always  rides  a  black-painted  short-tailed  horse  which  is  very  fast."  Then  the
+man  went  back  to  his  people,  running  ceaselessly.  After  he  had  returned,
+he  cut  tobacco  into  little  pieces.  Young  men  took  these  to  the  Piegans,
+the  Blackfeet,  the  Bloods,  and  the  North  Piegans  (Sarcees).  Soon  all  the
+tribes  gathered,  and  joined  the  Gros  Ventre.  They  started  against  the
+Crows.  Whenever  they  stopped,  they  raced  their  horses  to  discover  who
+had  the  fastest.  They  came  near  the  Crows.  The  man  made  them  all
+stop  behind  the  hill,  and  went  alone  to  his  Crow  mother.  Then  she  called
+her  sons,  and  the  man  told  them,  "Take  all  your  property  inside  your  tent.
+Hobble  your  horses  close  by,  and  stay  indoors."  The  Crows  were  just
+breaking  camp.  They  asked  the  old  woman  and  her  sons,  "Why  do  you
+remain  encamped  there  ?"  They  answered,  "We  are  going  off  somewhere."
+When  the  Crows  had  begun  to  move,  the  war-party  attacked  them.  While
+they  were  fighting  and  killing  the  Crows,  the  man's  younger  brother,  mounted
+on  the  swiftest  horse,  was  only  looking  for  the  woman.  He  was  far  ahead
+of  the  fight.  Then  he  saw  the  black-painted  horse  with  the  short  tail,  and
+the  woman  on  it.     He  rode  after  her  and  caught  up  with  her.     He  took
+
+
+122  Anthwpolojical  Papers  American  Museut?i  of  Natural  History.        [Vol.  I,
+
+her  bridle  and  turned  her,  and  went  back  with  her  to  the  camp  of  the  old
+Crow  woman.  On  the  way  the  woman  said,  "Let  me  kiss  you,  my  brother-
+in-law;  I  have  been  longing  for  you."  He  answered,  "There  will  be  time
+for  that  when  we  arrive  where  we  are  going."  As  soon  as  the  woman  was
+captured,  the  people  stopped  fighting  the  Crows.  The  old  Crow  woman
+began  to  sharpen  her  knife,  and  had  them  build  a  large  fire.  They  took
+the  woman  off  her  horse,  and  made  her  stand  up.  "I  know  what  to  do  to
+her,"  said  the  old  woman.  She  went  to  her,  seized  her  nose,  cut  it  off  and
+threw  it  in  the  fire.  Then  she  tore  in  two  her  bell-covered  dress,  and  threw
+it  on  the  fire.  Then  she  cut  off  her  breasts,  ejus  vaginae  labia,  and  her
+ears,  and  threw  them  in  the  fire.  Tlien  they  threw  the  woman  herself
+into  the  fire.  A  great  crowd  stood  about,  and  whenever  she  crawled  out
+on  one  side  they  threw  her  in  again.  Finally  she  was  burned.  They  all
+went  home  rejoicing.^
+
+47.    The  Man  who  acquired  Invulnerability.
+
+There  was  a  poor  man.  He  wandered  about.  Then  he  found  snakes
+in  a  hole.  He  cut  his  flesh  and  fed  it  to  the  snakes.  He  cut  himself  all
+over.  He  gave  the  snakes  even  his  ears,  and  cut  off  his  little  finger  and  threw
+it  to  them.  Then,  before  he  should  bleed  to  death,  he  jumped  into  the  hole.
+All  the  snakes  retreated  from  him  as  he  lay  there.  Then  one  young  snake
+said,  "Why  do  you  draw  back?  I  pity  this  man.  I  will  give  him  power
+and  make  him  strong."  Then  its  father  and  mother  said,  "It  is  well  that
+you  pity  him.  We  will  help  you  to  do  something  for  him.  You  shall  go
+into  him  and  stay  in  his  body.  Then  he  will  be  unkillable."  Then  the
+young  snake  entered  the  man's  mouth  and  went  into  his  body,  and  the  two
+old  snakes  gave  him  each  a  rattle  from  their  tails.  The  man  got  up  and
+went  off.  But  now  he  no  longer  had  scars  on  him.  He  came  to  where
+the  people  were  shooting  bears  in  a  hole.  Again  he  cut  flesh  from  his  body
+and  fed  it  to  them.  Then  he  lay  down  in  the  den  in  order  to  bleed  to  death
+there.  A  young  bear  said  to  the  others,  "You  do  not  pity  this  man,  but  I
+will  help  him."  Then  his  father  and  mother  said,  "We  will  give  him  the
+strength  of  our  bodies,  and  he  will  be  invulnerable."  The  young  bear
+entered  the  man's  mouth,  and  the  two  old  ones  gave  him  each  one  of  their
+claws.  They  gave  him  the  longest  one  on  their  feet.  Then  the  man  went
+away.  A  certain  young  man  saw  a  bax'aa'\  He  told  the  man  who  had
+been  to  the  snakes  and  the  bears.  Then  the  man  went  to  the  river,  cried,
+cut  off  his  flesh  and  threw  it  in.     He  also  cut  his  little  finger  and  threw  it
+
+1  From  informant  N.     Not  Arapaho.     Compare  Grinnell,  Blackfoot  Lodge  Tales,  p.  39.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  123
+
+in  the  river.  Then  the  bax'aa"!  rose  up  out  of  the  water  halfway.  He
+hooked  the  water  ^\dth  one  of  his  horns,  and  where  the  man  had  been  lying
+on  the  bank,  bleeding  to  death,  he  was  now  riding  a  white  horse  and  carrying
+a  shield  and  spear,  and  was  beautifully  dressed.  Then  the  bax'aa"  hooked
+the  water  with  his  other  horn,  and  a  painted  horse  stood  on  the  bank.  "  You
+will  not  be  poor,"  said  the  bax'aa",  and  he  hooked  innumerable  horses  of
+different  colors,  and  much  property  of  different  kinds,  out  of  the  water,
+until  horses  were  standing  all  about  the  bank  of  the  river.  The  bax'aa^^
+said  to  him,  "You  will  be  the  only  man  on  this  earth  rich  in  horses  (the
+richest  in  horses)."  After  this,  the  man  fed  liis  flesh  to  many  kinds  of  ani-
+mals. He  gave  himself  to  eagles,  to  jack-rabbits,  to  the  buffalo,  and  to
+horned  toads.  Then  the  snakes  told  him  to  take  six  poor  people  with  him.
+He  did  so  and  they  started  out,  seven  in  the  party.  They  reached  a  lake.
+They  saw  many  people  travelhng  toward  the  lake.  Then  they  went  into
+the  water  and  lay  down.  The  camp  arrived,  and  every  one  watered  his
+horses  at  the  lake.  An  old  woman  came  and  drove  her  horse  into  the
+water.  She  saw  a  mouth  in  the  water,  and  riding  out,  told  the  people,
+"I  have  seen  persons  in  the  water."  Then  these  people  killed  the  man's
+six  companions;  but  the  man  himself  they  could  not  kill.  Spears,  stones,
+and  aiTows  could  not  hit  him  or  hurt  him.  He  continued  to  sing  his  song.
+Then  they  cut  him  to  pieces,  and  scattered  the  pieces  about.  When  they
+moved  camp,  the  man  rose  up  alive.  He  went  to  where  they  were  camped,
+and  hid  in  the  brush.  A  woman  came  to  get  wood.  He  seized  her,  and
+with  a  large  knife  cut  her  to  pieces.  All  the  people  took  him  and  tried  to  cut
+and  stab  him.  They  cut  him  to  pieces  and  moved  camp.  He  rose  up  alive,
+and  again  went  to  where  they  had  camped.  Again  he  killed  a  woman
+who  was  gathering  wood.  Thus  the  people  would  Idll  him  and  move  camp;
+but  he  would  return  to  life,  follow  them,  and  kill  one  of  them.  Then  he
+killed  many,  because  he  felt  bad  that  this  tribe  had  killed  his  six  companions.
+He  continued  to  do  this  until  his  feet  became  too  sore  to  walk.  Then  he
+stole  horses  and  a  shield  and  robes,  and  returned  home,  driving  the  horses
+before  him.  When  he  came  back  to  his  own  people,  he  had  a  bundle  of
+scalps  hanging  at  his  side.  Thereafter  he  w^ould  go  to  war,  kill  a  man  or  a
+woman,  and  bring  back  a  herd  of  horses.  He  continued  to  do  this  until
+he  became  very  rich.  But  he  would  not  marry.  Then  he  went  off  again
+and  returned  with  horses.  While  he  was  away  and  the  people  were  hunting
+buffalo,  the  Cheyenne  attacked  them,  and  captured  and  took  away  a  small
+boy.  When  the  man  returned,  he  heard  about  this.  The  little  boy  had
+a  sister  who  was  pretty.  She  was  old  enough  to  be  married.  Then  the
+man  said,  "I  ^vill  go  to  bring  back  the  little  boy,  and  when  I  bring  him,  I
+will  marry  this  girl."     When  her  father  heard  this,  he  said,  "It  is  well:   if
+
+
+124  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+he  brings  back  the  boy,  he  can  have  my  daughter."  Then  the  man  started
+out,  accompanied  by  a  party.  They  killed  two  persons,  and  captured
+horses.  The  man  sent  all  the  rest  of  the  party  back  with  the  horses.  He
+himself  went  to  the  Cheyenne  camp,  looking  for  the  boy.  The  Cheyenne
+were  having  a  sun-dance.  The  man  looked  on.  Then  he  heard  a  sound,
+and  saw  the  boy  tied  to  the  centre  pole  of  the  lodge.  His  arms  were  drawn
+back  around  the  tree,  and  he  was  hanging  at  the  fork.  He  was  painted
+black.  The  man  looked  for  a  suitable  pole  among  those  extending  over
+the  lodge.  He  climbed  up,  went  along  it  to  the  tree  in  the  middle,  and  cut
+the  boy  loose.  As  the  boy  was  very  stiff,  he  took  the  cloth  that  had  been
+hung  at  the  top  of  the  lodge  as  an  offering,  wrapped  him  in  it,  and,  carrying
+him  as  a  woman  carries  her  child,  began  to  climb  down  again.  Before  he
+reached  the  ground,  a  Cheyenne  saw  him,  and  they  all  stopped  dancing.
+The  man  said  to  the  Cheyenne,  "Do  not  kill  me  until  to-morrow.  Who  is
+the  chief?  Where  is  the  largest  tent?"  Then  he  went  to  the  largest  tent
+and  staid  there  that  night.  Next  day  he  told  the  Cheyenne,  "Get  seven
+buffalo-skulls  and  place  them  in  a  row.  I  will  jump  from  one  to  another,
+and,  if  I  miss  or  stumble,  you  can  kill  me."  Then  they  put  the  seven  skulls
+in  a  row,  and  he  started.  He  jumped  from  one  to  another  like  a  rabbit,
+and  when  he  came  to  the  last  one  he  continued  to  leap  along,  carrying
+the  boy  with  him.  As  he  went,  he  turned  into  a  rabbit.  He  wished  for  a
+hole,  put  the  boy  into  it  and  covered  it  with  a  buffalo-chip.  Then  he  ran
+on  and  wished  for  another  hole,  went  into  it  and  covered  it  with  grass.
+The  Cheyenne  were  running  all  about,  looking  for  him  in  vain.  At  last
+the  man  came  out  of  his  hole.  He  looked  for  a  buffalo-horn.  When  he
+found  one,  he  washed  it  in  the  river,  and  brought  a  drink  to  his  little  brother-
+in-law.  He  told  the  boy,  "Wait  for  me,  and  I  ^\dll  bring  horses  and  meat."
+He  WTnt  again  to  the  Cheyenne  camp  and  took  two  spotted  horses,  some
+meat,  robes,  and  a  shield.  He  went  back  to  the  boy,  and  said  to  him,
+"Now  come  out."  He  tied  the  boy  on  a  horse,  and  they  started  off.  At
+a  stream  in  the  mountains  they  rested.  There  he  cooked  for  the  boy.
+Then  they  went  on,  resting  whenever  the  boy  was  in  need  of  it.  At  last
+they  returned  to  the  camp.  A  tent  had  been  set  up  for  him,  and  about  it
+stood  many  horses  of  different  colors;  and  he  married  the  girl.  She  wore
+a  dress  covered  with  elk-teeth,  and  rings  and  bracelets.  The  people  took
+the  man  for  their  chief.     His  name  was  Hat'uxu  (Star).
+
+The  people  were  camped.  Young  men  found  a  herd  of  buffalo,  and
+an  old  man  cried  out  that  they  would  hunt.  Hat'uxu  took  many  horses
+with  him.  He  wanted  to  kill  much.  He  told  liis  wife,  "Tie  all  the  horses
+abreast,  and  follow  me.  Give  away  none  of  what  I  kill."  Then  he  went
+ahead,  hunted,  killed  buffalo,  and  began  to  cut  them  up.     ^Nleanwliile  the
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  125
+
+enemy  came,  and  captured  liis  wife  and  her  horses.  When  Hat'uxu  had
+at  last  finished  cutting  up  liis  buffalo,  he  stuck  his  knife  in  liis  scabbard,
+and  went  back  to  where  he  had  left  his  wife.  She  was  gone,  but  he  saw  her
+tracks  and  those  of  the  people  who  had  captured  her.  He  followed  her  at
+once.  He  had  no  weapons  with  him  except  his  knife.  He  reached  the
+mountains  where  he  thought  he  would  be  able  to  intercept  the  enemy.
+He  tied  his  horses,  and  climbed  a  tree.  Soon  he  saw  the  enemy  coming,
+riding  in  file.  His  wife  was  among  them,  carrjdng  on  her  back  their  quiver
+of  large  arrows.  It  was  nearly  dark.  Hat'uxu  came  down  from  his  tree,
+and  went  to  where  the  enemy  had  camped  for  the  night.  He  threw  aside
+the  blanket  which  they  had  hung  up  as  a  door  for  tlieir  brush  hut,  and
+went  inside.  He  saw  his  wife  sitting  next  to  one  of  the  men,  who  had  taken
+her  for  his  -wiie.  He  killed  the  man.  Then  he  used  the  arrows,  which  his
+wife  had  been  carrying,  against  the  rest.  They  all  ran  off  into  the  brush.
+Then  he  cut  off  the  dead  man's  head  and  took  it  with  him.  He  told  his
+wife  to  carry  the  captured  arrows  and  to  collect  all  the  enemy's  horses.
+By  next  morning  he  was  back  at  the  camp.  Then  the  people  celebrated
+over  the  head  he  had  brought  back  with  him.     Thus  he  recaptured  his  wife.^
+
+48.   The  ^Iax  who  recaptured  his  AYife.
+
+While  a  man  was  away,  the  enemy  captured  his  wife.  He  returned
+and  found  her  gone.  He  did  not  know  to  what  tribe  she  had  been  taken.
+Another  woman  had  been  captured  at  the  same  time,  but  returned.  Then
+this  man  called  her  to  him  and  asked  her,  "Where  is  my  wife?"  The
+returned  woman  said,  "I  know  where  she  lives,  for  I  went  to  visit  her  while
+I  was  a  captive.  She  has  two  husbands  who  dress  alike.  They  have  fine
+pipes,  and  tobacco-bags  fringed  with  bells,  and  pipe-stokers.  There  are
+many  fierce  dogs  among  those  people.  If  you  go  there,  first  kill  a  buffalo,
+and  carry  the  meat  with  you  to  throw  to  the  dogs."  Then  the  man  got  his
+brothers  and  his  brothers-in-law,  and  they  started  out.  They  came  to
+the  place  where  the  captured  woman  lived.  He  told  his  brothers  and
+brothers-in-law  to  stay  at  the  river.  He  liimself  went  on.  The  lodges
+stood  in  rows.  When  he  entered  the  village,  the  dogs  began  to  attack  him.
+As  he  Avent  along,  he  threw  each  dog  a  piece  of  meat.  They  became  quiet.
+He  came  to  the  lodge  in  which  lived  his  wife,  and  knocked  softly  at  the
+door.  She  put  out  her  head.  Then  he  said  to  her,  "I  am  your  husband.
+I  have  come  to  take  you  back.  Is  there  any  one  inside  with  you?"  She
+said,  "There  is  one.     He  is  sleeping."     Then  he  told  her,  "Lie  on  him,
+
+1  Told  by  informant  N.
+
+
+126  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+and  I  will  cut  his  throat."  Then  she  lay  on  him,  and  the  man  entered
+and  cut  his  throat.  He  took  the  dead  man's  clothes  and  a  dress  of  the
+woman's  that  was  covered  with  bells,  and  rolled  them  up  in  his  robe.  The
+woman  carried  the  bundle  in  one  hand  and  the  head  of  the  dead  person
+in  the  other,  and  they  went  out.  The  man  threw  meat  to  the  dogs  again.
+Then  they  ran.  They  came  to  his  brothers  and  her  brothers,  and  together
+they  all  fled  until  they  returned.     Thus  the  man  recaptured  his  wife.^
+
+49.   The  Woman  who  married  the  Snake  Indian.
+
+There  was  a  camp.  A  man  who  lived  there  had  a  sister  that  many
+young  men  wanted  to  buy.  But  she  did  not  wish  to  marry.  Her  brother,
+also,  did  not  wish  to  sell  her.  He  left  the  camp  with  her  and  his  wife,  and
+went  toward  the  mountains.  There  he  camped.  A  Snake  who  was  in  the
+mountains  saw  his  camp.  He  saw  that  there  were  only  two  tents.  In
+the  evening  he  saw  a  man  and  a  woman  go  into  one  and  a  woman  go  into
+the  other.  At  night  he  came  down  from  the  mountains,  and  entered  the
+tent  into  which  he  had  seen  the  woman  go  alone.  In  the  morning,  before
+the  morning  star  arose,  he  went  out.  When  it  was  day,  the  man's  wife
+brought  food  to  her  sister-in-law's  tent.  But  the  girl  would  not  eat.  She
+would  not  speak.  She  thought  that  her  brother  had  slept  with  her.  AYhen
+the  man  heard  from  his  wife  that  his  sister  neither  ate  nor  spoke,  he  said,
+"Ask  her  if  she  wants  to  go  back  to  the  camp  of  the  people."  The  woman
+asked  her,  but  the  girl  said,  "No."  Then  she  asked  her  brother's  wife,
+"Did  my  brother  go  out  last  night?"  The  woman  said,  "No.  He  went
+to  bed  early,  and  slept  at  once."  Then  the  girl  said,  "To-night  tie  a  string
+from  inside  my  tent  to  your  wrist  in  your  tent."  Then  it  became  night.
+The  man  and  his  wife  were  half  asleep.  The  Snake  came  into  the  girl's
+tent  and  lay  down  with  her  as  if  he  were  with  his  wife  in  his  own  tent.  Then
+the  girl  pulled  the  string.  The  woman  in  the  other  tent  got  up,  made  a  fire,
+and  said  to  her  husband,  "  You  have  a  brother-in-law:  go  give  him  a  smoke."
+Then  she  went  to  the  other  tent  and  lit  the  fire  there.  Then  the  man  came
+in  too,  and  gave  the  Snake  liis  filled  pipe  to  smoke.  Then  they  gave  him
+food  to  eat.  The  man  gave  him  arrows,  a  gun,  horses,  a  panther-skin,
+saddle-blanket,  and  otter-skin.  At  first  the  Snake  feared  him  and  his  wife.
+x\fter  they  had  remained  camped  there  for  some  time,  he  feared  them  no
+longer.  Then  they  went  back  to  the  camp,  ^^'hen  they  arrived,  all  the
+people  tried  to  kill  the  Snake;  but  his  brother-in-law  w^ould  not  allow  them
+to  approach  him.     The  girl's  parents  gave  the  Snake  horses  and  clothing.
+
+1  Told  by  informant  N.
+
+
+1907.]
+
+
+Krocber,  Gros  Ventre  Myths  and  Tales.  127
+
+
+He  learned  to  talk  Gros  Ventre.     After  he  had  lived  with  the  Gros  Ventre
+a  year,  he  told  his  wife,  "I  will  take  you  with  me  to  the  Snakes."     She
+said,  "Very  well.     I  will  ask  my  relatives  if  they  will  allow  me  to  go  with
+you.'    I  will  ask  their  permission  in  order  that  they  may  give  us  clothes  to
+take  with  us."     Her  relatives  gave  their  consent,  and  presented  the  Snake
+and  his  wife  with  painted  horses  and  other  property.     When  everything
+had  been  arranged,  they  left,  talcing  mth  them  their  tent  and  all  their  gifts.
+Before  they  reached  tlie  Snakes,  they  stopped  in  the  woods,  dismounted,
+changed  their  clothes  for  some  that  were  old  and  dirty,  and  mounted  poorly-
+saddled,  miserable  horses.     Then  they  rode  toward  the  Snake  camp.     The
+Snakes  tried  to  kill  the  woman.     "Look  at  that  woman!"  they  said.     "He
+has  married  her,  and  see  how  poor  he  is!"     At  night  the  man  and  his  wife
+went  to  bed  without  any  blanket.     When  they  thought  everybody  was  asleep,
+they  went  to  the  woods,  put  on  their  best  clothing,  and  came  back.     The
+man  wore  a  fine  buckskin  shirt  and  leggings  fringed  with  weasel-skins,
+and  the  woman's  dress  was  fine.     They  rode  painted  horses  beautifully
+saddled.     When  they  returned  in  the  morning,  a  man  saw  them  coming.
+"Here  comes  the  man  whose  mfe  they  tried  to  kill!     Now  he  is  a  cliief!"
+he  cried.     Then  the  woman  brought  her  tent  and  began  to  put  it  up.     It
+was  very  large.     All  her  husband's  female  relatives  helped  her.     Then  they
+brought  her  and  her  husband  food.     The  man  told  the  Snakes  that  he  would
+take  his  wife  back  to  the  Gros  Ventre  the  next  summer.     Next  summer
+the  Snakes  made  fine  clothing,  and  gave  it  to  him  and  his  wife.     They
+also  gave  them  horses  and  many  other  things.     When  they  started  to  go
+back  to  the  Gros  Ventre  they  had  more  property  than  when  they  came.
+Then  thev  did  the  same  as  when  they  came  to  the  Snakes.     They  hid  all
+their  property  and  fine  clothing  in  the  brush,  and  put  on  the  dirty  clothes.
+When  they  reached  the  Gros  Ventre  camp,  the  people  tried  to  kill  the  man.
+They  saicl,  "Why  did  you  give  her  to  that  man?     He  is  poor;   his  clothes
+are  dirty;  'his  horses  are  bad."     At  night  the  man  and  his  wife  went  back
+into  the  brush  and  put  on  their  beautiful  clothes.     When  they  returned  to
+the  camp  in  the  morning,  a  man  cried  out,   "Look  at  the  man  we  tried
+to  kill'     He  is  dressed  finelv.     He  has  become  a  chief."     Then  the  Snake
+crave  presents  to  all  his  v.'iie's  relatives.     Then  the  Gros  Ventre  and  the
+Snakes  came  together  and  made  friendship,  and  no  longer  fought  each  other.
+The  Snake  lived  with  the  Gros  Ventre  ever  after.^
+
+
+1  From  informant  N.     Not  Arapaho.     Compare  Grinnell,  Pawnee  Hero  Stories,  p.  25.
+
+
+,  128  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+50.   The  Woman  who  revenged  her  Brothers.
+
+Three  men  went  to  war.  Two  of  them  were  killed.  iVll  the  people
+cried  and  mourned  for  them.  The  father  and  mother  of  the  dead  men
+cut  their  hair  short,  and  gashed  themselves  on  the  legs  and  on  the  body.
+But  the  sister  of  the  two  dead  men  did  not  cry  and  did  not  speak.  The
+family  hid  all  their  knives  and  ropes,  for  they  thought  she  would  kill  herself.
+\  Then  her  husband  said  to  her,  "Pity  me.     Do  not  kill  yourself.     I  am
+
+/  V  accustomed  to  you.     I  do  not  want  you  to  kill  yourself."     She  said,  "I  will
+
+do  what  you  wish.  But  saddle  a  horse  for  me.  I  am  going  to  a  high  moun-
+tain to  sleep  there.  I  did  not  cry  or  speak  because  I  did  not  know  what
+to  do."  Then  her  husband  brought  her  to  the  foot  of  the  mountain.  There
+she  dismounted,  left  her  moccasins,  and  went  to  the  top.  She  slept  there
+four  nights,  fasting.  The  fourth  night  the  thunder  gave  her  a  short  spear.
+He  said  to  her,  "Go  home:  tell  your  husband  to  make  a  sweat-house.  Go
+into  tliis  alone.  Afterwards  go  to  the  creek  and  drink."  Then  she  went
+down.  Her  husband  came  to  meet  her.  She  said  to  him,  "Stop  at  once
+where  you  are."  Then  he  did  not  approach.  She  told  him,  "Go  back
+I  immediately,   and   have  the  young  men  build  a  sweat-house.     Let  only
+
+J;  young  men  make  it,  and  let  them  leave  the  entrance  open  for  me."     The
+
+man  went  back  and  told  the  young  men.  They  went  and  cut  willows.
+Soon  they  had  a  sweat-house  ready.  Then  the  woman  came,  very  thin
+from  fasting,  and  using  the  spear  to  support  herself.  At  times  she  fell
+from  weakness.  She  entered  the  sweat-house,  sweated,  went  out  to  the
+stream,  and  drank.  Then  she  told  her  relatives,  "I  "wdll  kill  an  enemy."
+After  some  days  she  said,  "We  are  going  to  hunt  for  the  one  who  Idlled  my
+brothers."     Then  her  husband  took  four  good  horses,   and  he  and  his
+
+),  wife  started  alone.     On  the  third  day  they  saw  tents  by  a  river  that  came
+
+out  of  the  mountains.  They  followed  the  river  up  towards  the  camp.
+It  was  near  sunset.  The  woman  bathed,  and  painted  herself,  and  perfumed
+herself.  Telling  her  husband  to  hold  the  horses  ready  in  the  brush,  she
+went  towards  the  camp.  As  she  went  she  found  pieces  of  her  brothers'
+bones.  Their  bodies  had  been  burned.  At  the  camp  the  people  had  begun
+•  i  I  to  dance  on  account  of  her  slain  brothers.     In'  the  bright  moonlight  the
+
+I    )  women  were  dancing  back  and  forth  in  a  row.     The  woman  went  among
+
+them  and  danced.  She  saw  a  man  fill  a  pipe  and  extend  it  to  the  other  men.
+She  knew  that  this  man  had  killed  one  of  her  brothers.  She  went  to  him,
+and  touched  him  on  the  back.  He  turned  around,  and  at  once  desired  her.
+He  turned  over  his  pipe,  knocked  out  the  ashes,  put  the  pipe  into  its  sack,
+and  followed  her.  She  walked  off  and  went  into  the  brush.  He  followed
+her.     She  stopped,  and  he  came  up.     She  took  hold  of  him  and  pushed
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  129"
+
+him  to  the  ground.  He  let  himself  fall  willingly  and  she  lay  upon  him.
+Then  she  took  her  knife  and  cut  his  throat.  She  cut  off  his  head,  took  off
+all  his  clothes,  wrapped  them  and  the  head  in  his  robe,  and  ran  to  her  hus-
+band. When  she  reached  him  she  said,  "I  bring  you  a  head."  He  struck
+it,  counting  coup.  Then  they  fled.  They  did  not  go  back  as  they  had
+come,  but  in  another  direction.  All  next  day  they  hid  in  the  brush.  There
+they  skinned  the  head,  and  kept  the  scalp.  Then  they  returned  home.
+When  they  arrived,  the  woman's  mother  ran  out  and  kissed  her.  The
+woman  said,  "I  bring  you  a  head  for  you  to  enjoy  yourselves  with."  Then
+all  the  people  took  charcoal  and  grease,  and  struck  the  skin  of  the  head;
+and  as  each  one  struck  it,  he  painted  himself.  So  this  woman  avenged  the
+death  of  her  brothers.  Then  the  enemy  came  in  order  to  obtain  revenge.
+They  attacked  the  camp.  The  woman  mounted  a  swift  horse,  took  her
+short  spear,  and  charged  the  enemy.  She  put  them  to  flight,  drove  them
+before  her,  and  overtook  and  killed  many.  She  ran  them  down  like  buffalo.
+Four  times  the  camp  was  attacked,  and  she  drove  off  the  enemy.  Then
+two  men  who  went  to  war  were  killed.  The  people  thought  she  would  go
+to  revenge  them.  But  she  fought  no  more.  After  the  four  fights  she
+ceased.^
+
+
+1  Told  by  informant  N.
+
+
+130  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  1,
+
+ABSTRACTS.
+
+1.   The  Making  of  the  Earth.
+
+There  is  only  water.  A  person  sends  animals  to  dive.  A  turtle  brings  him  up
+mud,  from  which  he  makes  the  earth  and  the  mountains.
+
+2.    Origin  Myth.
+
+Nix'a'H  resolves  to  destroy  the  former  race.  He  takes  the  sacred  pipe,  and
+causes  a  flood.  He  floats  on  the  pipe,  accompanied  by  the  Crow.  He  unwraps  the
+pipe,  and  takes  out  the  Loon,  the  Small  Loon,  and  the  Turtle.  They  dive,  and  the
+Turtle  brings  up  a  little  earth.  Nix  'a.nt  drops  this  into  the  water,  and  it  expands
+sufficiently  for  him  to  sit  on.  Then  he  stretches  out  his  anns  and  the  land  extends.
+There  is  no  water,  and  he  is  thirsty.  He  cries.  His  tears  make  a  river.  He  makes
+men  and  women  and  animals  from  earth.  He  gives  men  the  bow  and  arrow,  and
+to  the  Gros  Ventre  the  sacred  pipe.     He  predicts  another  world.
+
+3.    Tebiaa'^'ta^,  the  Two  Women,  the  Bald  Eagle,  and  Nix'a^t.
+
+Two  women  who  live  alone  are  provided  with  game.  They  see  that  a  rolling
+head  brings  the  meat.  They  leave  awls  in  their  places,  and  flee.  The  head  comes,
+and  the  bones  speak  to  him  like  women.  He  pierces  himself  on  one.  He  pursues
+the  women.  As  they  flee,  they  successively  cause  a  fog,  a  swamp,  a  thorny  thicket,
+and  a  cactus-thicket  to  extend  behind  them.  The  head  crosses  all  obstacles,  and
+the  women  take  refuge  with  a  man  who  hides  them.  As  soon  as  the  head  has  gone
+by  them,  they  flee  to  the  Bald  Eagle,  who  takes  them  on  his  wings.  The  head  pursues
+the  Eagle,  and  nearly  overtakes  him.  Nix'a"t's  two  sons  see  the  contest  in  the  sky,
+and  tell  their  father.  He  builds  a  sweat-house  and  calls  to  the  Eagle  to  come  down.
+The  Eagle  flies  through  the  sweat-house.  "When  the  head  pursues,  the  sweat-house
+is  closed  around  him.     Then  steam  is  made  in  it,  and  the  head  is  killed.
+
+4.    Nix'a'^t  obtains  Summer  and  the  Buffalo.
+
+Nix'a"t  comes  to  a  camp  where  the  snow  is  perpetual  and  there  are  no  buffalo.
+He  tells  a  boy  to  cry  until  he  himself  asks  the  reason,  when  he  is  to  say  that  he
+wishes  to  see  bare  ground  and  to  eat  buffalo.  The  boy  does  this.  Nix'a^t  turns
+into  a  little  dog,  which  is  found  by  the  grand-daughter  of  the  old  woman  who  keeps
+the  buffalo.  The  girl  at  last  persuades  the  old  woman  to  allow  her  to  have  the  dog.
+The  dog  sees  the  old  woman  get  buffalo  from  an  opening  in  her  tent,  and  make  the
+snow  melt  with  the  contents  of  a  bag.  When  the  girl  takes  him  away  from  the  tent,
+he  turns  into  Nix'ai^t.  When  the  girl  cries  and  her  grandmother  comes,  he  runs,
+seizes  the  bag,  opens  the  hole,  and  drives  out  the  buffalo.  Clinging  to  the  last
+of  the  buffalo,  he  escapes  the  old  woman.  He  scatters  the  contents  of  the  bag,
+and  the  snow  disappears.  He  returns  to  the  camp.  Next  morning  it  is  summer
+and  the  buffalo  are  about.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  and  Tales.  131
+
+5.    Nix'a^t  is  taught  to  call  Buffalo.
+
+Nix'a^t  learns  to  call  the  buffalo  by  singing.  They  overrun  him,  and  lie  upon
+him.  Lepus  ciun  eo  ano  copulat.  Nix'a"t  inquinans  lepores  ex  ano  parit.  Cum
+toga  eos  capere  conatur,  hanc  conspurcat.
+
+6.    Nix'a^'t  axd  the  Mouse.
+
+Xix'a^t  muri  suum  penem  trans  penem  ad  mulierem  ducere  persuadet.  Mus
+penem  ad  locum  asperum  ducit  et  Nix'a^t  se  Isedit.
+
+7.    Nix'a^'t  and  the  Mice's  Sun-dance.
+
+Nix  'a^t,  finding  mice  holding  a  sun-dance  in  an  elk-skull,  tries  to  look  in.  His
+head  becomes  fast  in  the  skull.  Wandering  along,  he  falls  into  the  river  and  drifts
+to  bathing  girls.  They  pull  him  ashore.  Unam  virginum  violat.  Matri  ut  filiam
+eripiat  venienti  persuadet  sibi  calvam  perfrangere.     Alcis  calva  liberatus,  discedit.
+
+8.    Nix'a^t  eats  Fat.
+
+Nix'a^t  postquam  pingue  in  flumine  innatans  invenit  ab  eo  est  donee  tantum
+inquinat  ut  quasi  excrementorum  lacu  circumdetur.
+
+9.    Nix'a^'t  e.\ts  Hiitceni.
+
+Nix'a^t  radices  est  qu£e  eum  crepare  faciunt.  Quandocunque  crepat  sursum
+jactatur.
+
+10.  Nix'a^t  and  the  Bird  with  the  Large  Arrow.
+
+Nix'a^t  taunts  a  bird  that  it  cannot  shoot  its  very  large  arrow.  At  last  the
+Bird  shoots  at  him,  and,  when  he  takes  refuge  behind  a  rock,  shoots  the  rock  on  him.
+The  Night-hawk  releases  him.     Nix'a'^t  spreads  its  bill.
+
+11.  Nix'a^t  loses  his  Eyes.
+
+Nix  'a"t  learns  from  a  l)ird  how  to  send  his  eyes  out  of  his  head.  After  a  time
+they  do  not  return.     By  borrowing  the  Mouse's  eyes,  he  recovers  his  own.
+
+12.  Nix'a^'t  kills  his  Wife.
+
+Nix'a^t  mourns  for  his  wife.  A  man  strikes  his  wife  and  doubles  her,  giving
+one  of  the  women  to  Nix'a'H.  Nix'a"t  strikes  his  new  wife  to  make  women  for
+widowers.     The  fourth  time  he  strikes  her,  he  kills  her.
+
+13.    Nix'a^t  and  the  Bear-Women.
+
+Nix  'a^t,  diving  for  the  reflection  of  fruit  in  the  water,  nearly  drowns.  He  comes
+to  Bear- Women,  and  sends  them  for  the  fruit.  He  cooks  their  babies.  When  they
+have  eaten  the  children,  he  flees.  Pursued  by  the  bears,  he  takes  refuge  in  a  hole.
+Emerging  at  the  other  end,  he  changes  his  appearance,  and  comes  to  the  Bear- Women.
+Persuading  them  to  enter  the  hole,  he  smokes  them  to  death.
+
+
+V'
+
+
+132  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+14.    Nix'a^'t  and  the  Dancixg  Ducks.
+
+Nix'ant  causes  ducks  and  other  animals  to  dance  about  him  with  closed  eyes.
+Then  he  kills  them.  ^Vliile  he  cooks  them,  he  sleeps.  The  wolves  devour  his  feast.
+In  punishment,  he  burns  himself.
+
+15.    Nix'a^'t's  Adventures.
+
+(a)    With  the  Mice's  Sun-dance.
+
+Nix'a^t  finds  mice  dancing  in  a  skull.  His  head  becomes  fast  in  the  skull,
+and  he  falls  into  the  river.  He  is  drawn  out  by  women,  of  whom  he  seizes  and
+violates  one.  He  flees,  pursued  by  the  women.  He  enters  a  hole,  emerges  on  the
+other  side,  changes  his  appearance,  returns,  persuades  the  women  to  enter  the  hole,
+and  smokes  them  to  death.
+
+(6)    With  the  Women  ^cho  loused  him.
+
+He  comes  to  two  women,  and  persuades  them  to  louse  him.  While  he  sleeps,
+they  put  burrs  in  his  hair.  He  cuts  his  hair,  pretending  that  he  has  been  told  that
+his  wife  was  dead.
+
+(c)    With  his  Daughters.
+
+He  pretends  to  die,  and  leaves  instructions  that  his  daughters  are  to  many  a
+one-eyed  man.  He  makes  it  appear  that  wolves  have  eaten  him,  covers  one  eye,
+and  returns  to  his  tent,  marrying  his  daughters.  The  girls  suspect  him,  and  at  last
+his  wife  discovers  him.     He  flees.
+
+(d)    With  the  Woinan  icho  crossed  the  River.
+
+Disguising  himself  as  a  woman,  he  travels  with  a  %Aoman  whom  he  meets.
+Psene  dum  flumen  transeunt  patefactus,  eam  violat.
+
+((')    With  the  Sleeping  Woman.
+
+Fseces  in  mulieris  dormientis  vestem  ponit  et  dedecus  patefacere  minatur  nis
+sibi  amorem  concedat.
+
+(/)    With  the  Buffalo  he  called  and  the  Rabbit.
+
+He  is  taught  to  call  buffalo  by  singing.  The  buffalo  fall  on  him.  Lepus  cum
+€0  ano  copulat.  Lepusculos  Nix'a^t  ex  ano  parit.  Hos  capere  conatus  togam
+conspurcat.     Ad  castra  currit  damans  Inquinantes  Pieganos  se  foedum  fecisse.
+
+16.    OxE-EYED  Owl  and  his  Daughter.
+
+A  man  pretends  to  die,  and  then  returns  disguised,  and  marries  his  daughter
+He  is  discovered  and  beaten  by  his  wife.
+
+17.    The  ]\Iax  who  wext  to  War  with  his  Mother-ix-law.
+
+A  man  persuades  his  wife  to  send  his  mother-in-law  to  war  with  him.  At  night
+he  throws  stones  at  her  shelter  until  she  thinks  there  is  a  ghost  about  et  petit  ut  cum
+•eo  dormiat.  Tum  se  pvibeni  frigere  queritur  vir,  et  mulieris  mater  permittit  ut
+penem  copulando  calfaciat.
+
+
+1907.]  Kroeber,  Gros  Ventre  Myths  arid  Tales.  133
+
+
+18.    The  Kit-fox  and  the  Ghost.
+
+A  kit-fox  coming  to  a  corpse  says  that  it  stinks.  Wlien  the  dead  person  ap-
+proaches, the  kit-fox  declares  that  he  said  that  the  smell  was  sweet.  He  flees,  and
+as  the  ghost  pursues  him,  nms  into  a  hole,  but  has  the  end  of  his  tail  pulled  off.
+
+19.    Fouxd-ix-the-Grass.
+
+A  man  warns  his  wife  not  to  speak  to  any  one  who  may  come  to  the  tent  during
+his  absence.  After  a  time  she  disobeys  his  instructions,  and  a  person  enters.  He
+will  not  eat  the  food  she  offers  him  until  she  places  it  on  her  body.  Then  he  cuts
+her  open,  throwing  away  the  twin  boys  with  whom  she  is  pregnant.  Her  husband
+finds  her  dead  and  goes  off  to  mourn.  His  arrows  are  repeatedly  scattered  about
+his  tent.  He  watches,  and  finds  the  two  boys  playing.  He  catches  one  of  them.
+With  his  help,  he  succeeds  in  capturing  the  other.  The  boys  tell  him  to  put  their
+mother  into  a  sw'eat-house.  They  shoot  up  into  the  air,  and  their  mother  emerges
+from  the  sweat-house.  Their  father  warns  them  not  to  use  their  arrows  twice.
+After  a  while  the  younger  boy  is  tempted,  and  shoots  his  arrow  a  second  time.
+He  is  blown  away  by  the  wand.  He  is  found  in  the  grass  by  an  old  woman,  who
+takes  him  for  her  grandson.  A  man  announces  that  whoever  brings  a  porcupine
+may  marry  his  daughters.  Found-in-t he-Grass  persuades  the  old  woman  to  make
+a  trap  for  him.  He  catches  a  porcupine,  but  the  Crow  steals  it.  Found-in-the-
+Grass  finds  a  quill  in  his*  trap,  shows  it,  and  is  thereupon  given  the  younger  daughter,
+while  the  Crow  marries  the  older.  The  two  sisters  ridicule  each  other's  husbands.
+In  time  of  famine  the  Crow  announces  that  he  will  bring  buffalo,  but  fails.  Found-
+in-the-Grass  goes  out  and  brings  buffalo.  "\Mien  his  wife  carries  the  entrails  home,
+he  causes  the  blood  to  flow  over  her,  and  it  turns  to  red  clothing.  His  sister-in-law
+asks  to  have  the  blood  made  to  flow  over  her;   but  it  only  dirties  her.
+
+20.   Clotted-Blood.
+
+An  old  man  is  treated  badly  and  almost  starved  by  his  son-in-law.  He  finds
+and  hides  a  clot  of  blood,  which  in  the  kettle  turns  to  a  child.  The  child  is  swung
+on  four  sides  of  the  tent,  and  becomes  a  young  man.  WTien  the  son-in-law  again
+threatens  the  old  man,  Clotted-Blood  kills  him.  He  burns  his  body,  and  kills  all
+his  wives  but  one.  He  travels,  and  comes  to  a  tree  that  kills  people  by  falling  on
+them.  He  turns  to  a  feather  and  is  uninjured,  while  the  tree  falls  and  breaks.
+He  comes  to  a  bridge  which  sinks  with  people.  "\Mien  it  goes  down,  he  jumps  to
+the  other  shore,  and  the  bridge  does  not  emerge.  He  comes  to  a  wolf  which  sucks
+in  people.  He  allows  himself  to  be  drawn,  and  then  cuts  the  wolf's  heart.  He
+comes  to  a  woman  who  has  a  dish  which  draws  people  into  it  and  then  consumes
+them.  He  turns  into  a  feather,  which  l)lows  over  the  dish.  Then  he  causes  the  old
+woman  to  be  drawn  into  the  dish,  and  destroys  it.  He  comes  to  a  camp  which  is
+terrorized  by  a  bull  who  gambles  with  people.  Clotted-Blood  wins,  and,  as  they
+play,  the  Bull  tries  to  kill  him.  Clotted-Blood  turns  to  a  feather,  and  is  uninjured.
+Then  he  kills  the  Bull.  He  comes  to  a  camp  where  a  man  kills  people  by  making
+them  fall  from  a  swing  into  the  water.  Clotted-Blood  escapes,  and  causes  the  man
+to  fall  into  the  water,  but  cannot  make  the  water-monster  in  the  river  devour  him.
+He  allows  himself  to  be  swallowed  by  the  monster,  and  kills  it.     Then  he  kills  the
+
+
+/
+
+
+/
+
+
+\»
+
+
+134  Anthropological  Papers  American  Museum  of  Xatural  History.         [Vol.  I,
+
+man.  He  comes  to  a  man  who  kills  people  by  kicking  them  with  his  sharp  leg.
+He  causes  him  to  stick  fast  in  a  tree,  and  leaves  him  to  starve.  He  comes  to  a  man
+who  accepts  young  men  as  his  sons-in-law,  and  then  gives  them  dangerous  tasks  to-
+perform.  Clotted-Blood  is  sent  to  get  the  morning  star,  and  brings  it.  He  is  sent
+to  a  thicket  where  there  are  bears,  and  kills  them.  He  is  sent  to  get  feathers  from
+the  thunder-birds,  and  abuses  the  Young  Thunders.  When  the  Old  Thunders  pur-
+sue him,  he  persuades  them  to  pull  his  elastic  arrow.  They  do  so,  and  are  dashed
+to  death.  Then  he  is  sent  to  kill  seven  bulls  for  their  sinews.  They  charge  him,
+and  break  their  horns.  He  allows  the  oldest  to  live,  but  kills  the  rest.  He  is  sent
+to  get  flint  from  a  falling  cliff.  He  turns  to  a  feather,  and  escapes.  He  is  sent  to
+get  water.  A  water-monster  draws  him  towards  it.  He  cuts  off  its  horns.  Then
+his  father-in-law  attacks  him,  but  cannot  hit  him.  Clotted-Blood  kills  the  old  man,
+and  burns  him.
+
+21.    Moox-Child.
+
+The  Sun  and  the  Moon  dispute  about  the  beauty  of  women.  The  Sun  marries
+the  Frog.  The  Moon  turns  to  a  porcupine,  and  induces  a  woman  to  climb  a  tree
+after  him.  The  tree  stretches  to  the  sky,  and  the  Moon  marries  her.  The  mother-in-
+law  of  the  two  women  gives  them  paunch  to  chew  to  see  who  can  make  the  most
+noise.  The. Frog  chews  charcoal,  but  is  discovered.  The  Moon  abuses  the  Frog,
+and  the  Sun  throws  her  on  the  Moon's  face,  where  she  still  remains,  and  takes  the
+Moon's  wife.  The  woman  has  had  a  boy.  She  looks  through  the  hole  in  the  sky,
+and  sees  the  earth.  She  makes  a  long  rope  of  sinew  and  lets  herself  down.  The
+string  is  too  short,  and  she  hangs  suspended.  The  Sun  sees  her.  and  drops  a  stone,
+which  kills  her.  Her  boy  remains  near  her  vmtil  he  is  foimd  by  an  old  woman.
+She  warns  him  not  to  go  to  a  tent  where  there  are  pretty  girls.  He  goes,  and  is
+well  received.  One  of  them  turns  to  a  snake  and  tries  to  enter  his  body,  but  is
+dashed  to  death  against  a  rock  under  his  seat.  When  the  girls  are  asleep,  he  kills
+them.  One  escapes  and  turns  to  a  snake,  which  threatens  revenge.  He  comes
+to  an  old  woman  who  wrestles  with  him.  She  nearly  pushes  him  into  the  fire,  but
+he  kills  her.  His  arrows  warn  him  of  the  approach  of  the  revengeful  snake,  but  at
+last  he  does  not  wake  up.  The  snake  enters  him.  He  lies  still  until  he  is  only  a
+skeleton.  The  snake  is  still  in  him.  At  last  he  asks  the  Moon  to  cause  a  cold  rain.
+The  snake  crawls  out.  He  gets  up  alive,  and  kills  the  snake.  His  mother  comes-
+to  life  at  the  same  time.
+
+22.    The  Boy  who  was  raised  by  the  Sevex  Bulls.
+
+A  girl  who  has  had  a  lover  abandons  her  child.  It  is  found  by  Seven  Bulls,
+who  pity  it  and  raise  it.  They  kill  buffalo  for  the  boy.  They  instruct  him  to  make
+a  bow  and  arrows.  When  he  is  a  young  man,  he  comes  to  the  herd  of  a  powerful
+Bull.  The  Cows  make  love  to  the  young  man,  and  the  Bull  attacks  him.  His  seven
+fathers  attempt  to  protect  him,  but  are  disabled.  The  Bull  charges  the  young  man,
+but  cannot  hurt  him,  because  he  turns  to  a  feather.  Then  he  shoots  the  Bull,  and
+cures  his  seven  fathers.  They  send  him  to  the  people  among  whom  his  father  and
+mother  live.  He  comes  to  the  camp,  and  recognizes  his  mother,  who  is  playing  ball.
+Her  parents  accept  him  as  their  grandson.     Then  he  finds  his  father.
+
+
+1907.]  Krocber,  Gros  Ventre  Myths  and  Tales.  135
+
+
+23.    White-Stone.
+
+Seven  brothers  go  out,  and  are  killed  one  after  the  other.  Their  sister  swallows
+a  stone,  and  gives  birth  to  a  boy  who  is  called  White-Stone.  She  swings  the  child
+on  four  sides  of  the  tent,  and  he  grows  up.  She  makes  him  a  bow  and  arrows.  He
+goes  where  his  uncles  have  gone,  and  kills  a  buffalo.  An  old  woman  claims  it  as
+hers,  and  orders  him  to  carry  it  to  her  tent.  Thus  she  had  done  with  his  uncles,
+and,  when  they  had  reached  her  tent,  she  had  killed  them  with  an  iron  cane.  White-
+Stone  makes  her  carry  the  bull,  and  then  kills  her  with  the  cane.  Putting  his  uncles
+into  a  tent,  he  shoots  upward,  and  they  emerge  alive.  He  travels,  and  comes  to  a
+camp  where  there  is  a  powerful,  jealous,  invulnerable  bull.  White-Stone  approaches
+his  wife,  and  the  bull  attacks  him.  The  bull  breaks  his  horns,  and  White-Stone
+kills  him  and  burns  him.
+
+24.    The  Women  who  married  the  Moon  and  a  Buffalo.
+
+Two  women  lying  outdoors  at  night  wish  for  the  moon  and  a  star  as  husbands.
+One  woman  sees  a  porcupine,  and  follows  it  up  a  tree  that  stretches  until  she  reaches
+the  sky.  There  the  Moon  marries  her.  She  is  told  not  to  dig  certain  roots,  but
+does  so,  and  sees  the  earth  below.  She  becomes  sad,  and  the  Moon  lets  her  down
+by  a  rope  of  sinew.  The  other  woman  is  taken  by  a  bull,  who  says  that  he  is  the
+star  she  wished  for.  A  Gopher  digs  a  long  hole,  and  rescues  the  woman,  leaving  her
+robe.  The  Bull  finds  the  empty  robe,  and  pursues  with  the  buffalo.  The  woman
+and  her  parents  have  fled,  and  climbed  three  cottonwood-trees.  The  Buffalo  cut
+down  two  trees,  but  on  the  third  break  their  horns.
+
+25.    The  Women  who  married  a  Star  and  a  Buffalo.
+
+Two  women  wish  for  stars  for  husbands.  One  of  them  is  married  by  a  star.
+The  other  is  taken  away  by  a  buffalo-bull.  Her  husband  cannot  rescue  her.  but  the
+Gopher  brings  her  back.  Together  with  her  husband,  she  takes  refuge  in  a  tree.
+The  buffalo  cut  down  the  tree,  and  kill  the  man,  and  take  her  back.  The  Badger
+recovers  her  again.  The  Bull  pursues.  As  he  is  invulnerable,  he  easily  recovers
+the  woman.     The  Bald  Eagle  seizes  her,  and  succeeds  in  flying  away  with  her.
+
+26.    The  Deserted  Children.
+
+A  camp  abandons  little  children.  The  children  come  to  an  old  woman.  At
+night  she  kills  them  all,  except  a  girl  and  her  little  brother.  The  girl  is  sent  to  get
+wood  and  water,  and  saves  her  life  by  bringing  the  kinds  desired  by  the  old  woman.
+Coming  out  of  the  tent  with  her  little  brother,  she  leaves  an  awl  in  her  place,  and
+flees.  The  two  children  cross  a  river  on  a  water-monster,  but  the  old  woman  is
+drowned  by  it.  The  children  return  to  the  camp,  but  are  left  tied  to  a  tree.  A
+dog  liberates  them,  and  gives  them  fire.  The  boy  kills  buffalo  by  looking  at  them.
+In  the  same  way  he  and  the  girl  cut  up  the  meat,  dress  the  skins,  erect  a  tent,  and
+make  clothing.  The  people,  who  are  starving,  come  to  the  children,  who  select
+wives  and  husbands  for  themselves,  and  then  kill  the  rest  of  the  people  by  looking
+at  them.
+
+
+I'.
+
+
+\
+
+
+136  Anthropological  Papers  American  Museum  of  Natural  History.        [Vol.  I,
+
+
+27.    The  Girl  who  became  a  Bear.
+
+Children  are  playing.  One  changes  into  a  bear,  and  kills  all  except  her  little
+sister.  She  attacks  and  extenninates  the  camp,  but  allows  her  little  sister  to  live
+with  her.  Her  six  brothers  return,  and  find  the  camp  deserted.  They  meet  their
+little  sister,  and  tell  her  to  ascertain  from  the  Bear  how  she  can  be  killed.  The
+little  girl  throws  hot  fat  on  the  Bear,  and  flees  with  her  brothers.  The  Bear  pursues,
+but  is  killed  by  being  shot  in  her  little  finger  with  an  arrow  of  tendon.  The  brothers
+burn  her  body,  but  overlook  one  spark,  which  turns  into  the  Bear  again,  and  pursues
+them.  Each  of  them  makes  an  obstacle  to  delay  the  Bear.  They  make  successively
+a  swamp,  a  forest,  a  canyon,  a  river,  a  fire,  and  a  cactus-thicket.  When  the  Bear
+is  near  again,  the  little  girl,  by  kicking  a  ball,  causes  her  brothers  and  herself  to
+rise  to  the  sky  and  become  stars.
+
+28.    Shell-Spitter.
+
+Two  girls  come  to  marry  Shell-Spitter.  The  Loon  pretends  that  he  is  Shell-
+Spitter,  and  marries  them.  He  is  called  to  the  dance-lodge.  The  girls  follow,
+and  see  the  real  Shell-Spitter  sitting  in  the  lodge  and  the  people  dancing  on  the
+Loon.  The  Loon  kills  Shell-Spitter,  and  with  his  mother,  Badger-Woman,  escapes
+from  the  people.
+
+29.    Yellow-Plume  and  Blue-Plume.
+
+
+'  A  boy  follo\\"s  his  gaming-wheel  to  an  old  woman's  tent.     She  tries  to  smother
+
+him  in  her  tent,  but  fails.  She  sends  him  for  water.  He  is  supernaturally  instructed
+what  kind  of  water  she  desires,  and  the  old  woman  allows  him  to  live.  He  leaves,
+and  abuses  her.  When  she  tries  to  pursue  him,  she  steps  on  an  awl  which  he  has
+left.  Together  with  his  brother,  he  causes  the  water  to  rise,  and  drowns  the  old
+woman.
+
+30.   The  Swallows  and  the  Snake.
+
+A  snake  or  water-monster  kills  young  swallows.  The  swallows  bring  birds  of
+various  species  to  help  them,  but  the  snake  destroys  them  all.  At  last  the  thimder
+kills  the  snake.
+
+31.    The  Origin  of  the  Tsooyanehi  Degree  of  the  Dog-dance.
+
+A  dog  is  abandoned  by  a  camp.  An  old  man  finds  it  and  pities  it.  The  dog
+pities  the  old  man,  and  gives  him  the  highest  degree  of  the  dog-dance  to  introduce
+among  the  people.
+
+32.    The  Origin  of  the  Chief  Pipe.
+
+A  young  man  dies,  and  is  left  with  all  his  property  in  his  tent.  A  cloud  descends,
+and  takes  away  the  tent  and  the  property.  The  young  man  is  seen  alive,  and  beside
+him  is  the  sacred  pipe,  the  gift  of  the  thunder.
+
+33.    Separation  of  the  Tribe.
+
+As  the  people  cross  on  the  ice,  a  little  girl  persuades  her  grandmother  to  chop
+off  a  horn  that  projects  from  the  ice.  The  ice  breaks,  drowning  many  people,  and
+forever  separating  the  rest.
+
+
+1907.]  Kroeber,  Gros  Yejitre  Myths  and  Tales.  137
+
+
+34.   The  Cave  of  the  Buffalo.
+
+A  cave  in  a  hill  is  the  entrance  to  the  home  of  the  buffalo.  Two  men  enter  it,
+but  do  not  reach  the  end,  and  return.
+
+35.  The  Womax  and  the  Black  Dog.
+
+Juvenis  nocte  mulierem  cum  cane  nigro  copulantem  videt.  ISIulieris  virum
+certiorem  facit,  qui  earn  occidit.
+
+36.  The  Max  borx  from  a  Horse.
+
+Equa  parit  hominem  qui  quemdam  virum  patrem  sibi  esse  significat.
+
+37.    The  Woman  and  the  Horse.
+
+Two  young  men  see  a  person  running  with  a  herd  of  wild  horses.  The  people
+surround  the  herd,  and  capture  the  person.  She  tells  them  that  she  was  carried
+off  from  the  tribe  by  a  stallion  who  married  her,  and  that  she  has  become  a  horse.
+The  people  release  her.
+
+38.    The  Little  Girl  who  avas  married  by  a  Bear.
+
+As  a  camp  moves,  a  little  girl  is  left  Ijehind.  A  bear  marries  her,  and  .she
+becomes  rich.     The  people  are  starving,  and  she  gives  them  food.
+
+39.    The  Young  Man  who  became  a  Water-monster.
+
+Two  young  men  travel.  They  pass  through  a  hollow  mountain,  and  reach  the
+country  of  the  giants.  The  giants  are  attacked  by  birds,  which  overcome  them
+until  the  young  men  drive  off  the  birds.  When  the  young  men  return,  their  way
+is  blocked  in  the  cave  in  the  mountain  by  a  water-monster's  body.  They  burn
+through  it.  One  of  them,  though  warned  by  his  companion,  eats  of  the  meat.
+He  turns  to  a  water-monster,  and  goes  into  the  water.  His  friend  becomes  fortu-
+nate.
+
+40.    The  Woman  who  was  recovered  from  a  Water-monster.
+
+A  man  and  a  woman  sleep  outdoors.  A  water-monster  surrounds  them.  They
+try  to  jump  over  it,  but  the  woman  sticks  fast  and  is  carried  off.  The  man  brings
+his  child  to  the  water,  and  his  wife  rises.  When  the  water-monster  comes  to  the
+surface,  he  shoots  it.  His  wife  has  become  half  snake,  but  he  restores  her  to  human
+form  in  the  sweat-house.
+
+41.   The  Man  who  killed  H.vwks.
+A  man  kills  haA\ks  by  pointing  his  hatchet  at  them.
+
+42.    The  Man  who  was  killed  by  a  Bullet-hawk.
+A  man  goes  to  take  young  hawks,  but  is  killed  by  the  old  hawk.
+
+
+138  Anthropological  Papers  American  Museum  of  Xatural  History.        [Vol.  I,
+
+43.    The  Max  who  was  killed  by  a  Bald  Eagle.
+A  man  tries  to  catch  a  bald  eagle,  but  is  carried  up. by  it,  dropped,  and  killed.
+
+44.   The  Wo.man  who  tempted  and  betrayed  her  Brother-in-law.
+
+A  man's  wife  persuades  his  younger  brother  to  elope  with  her.  They  reach  a
+deserted  camp.  A  man  returns  to  the  camp  to  get  his  weapons  which  he  has  for-
+gotten. The  young  man  gives  him  a  smoke,  and  then  leaps  upon  him.  The  woman,
+instead  of  helping  her  lover,  tries  to  betray  him  to  the  stranger;  but  he  succeeds  in
+overcoming  and  killing  his  opponent.  He  returns  to  his  older  brother,  and  the
+woman  is  killed.
+
+45.    The  Woman  who  tried  to  betray  her  Brother-in-law.
+
+A  woman  tries  to  persuade  her  husband's  younger  brother  to  be  her  lover.  He
+flees,  and  she  follows  him.  They  come  to  a  deserted  camp,  to  which  a  Ute  returns.
+The  Gros  Ventre  gives  him  a  smoke,  and  then  attacks  him.  The  woman  tries  to
+betray  him  to  the  Ute.  He  succeeds  in  killing  the  Ute.  They  return  to  the  camp,
+and  the  woman  is  killed.
+
+46.    The  Bad  Wife.
+
+A  woman  is  taken  by  the  Crows.  Her  husband  goes  to  the  Crow  camp  with
+six  companions.  He  finds  his  wife,  and  she  persuades  him  to  wait.  Then  she
+betrays  him  to  the  Crows.  His  companions  are  killed.  His  wife  tells  the  Crows
+that  he  wishes  to  be  hung.  They  hang  him  and  abandon  him.  An  old  woman
+rescues  him  and  sends  him  home.  He  returns  with  his  tribe.  They  attack  the
+Crows,  who  flee.     The  woman  is  captured  and  killed.
+
+47.    The  Man  avho  acquired  Invulnerability.
+
+A  man  sacrifices  pieces  of  his  flesh  from  his  whole  body  to  snakes,  bears,  a
+water-monster,  eagles,  rabbits,  buffalo,  and  horned  toads.  He  becomes  invul-
+nerable and  wealthy.  He  goes  to  war,  and  his  companions  are  killed.  He  cannot
+be  killed.  He  is  cut  to  pieces  a  number  of  times,  but  always  comes  to  life  and
+kills  one  of  the  enemy.  At  last  he  returns  home.  A  boy  is  captured  from  the
+camp.  The  man  offers  to  rescue  him  if  he  can  have  the  boy's  sister  as  wife.  He
+finds  the  boy  tied  to  the  centre  pole  of  the  Cheyenne  sun-dance  lodge.  He  carries
+him  off,  but  is  caught.  He  persuades  the  Cheyenne  to  let  him  try  to  leap  along
+seven  buffalo-skulls  without  stumbling.  He  leaps  from  one  to  the  other,  and  con-
+tinues running.  He  hides  the  boy  and  himself.  Then  he  brings  him  back  to  his
+people,  and  marries  the  girl.  He  goes  to  kill  buffalo,  and  his  wife  is  captured  and
+carried  to  the  mountains.  He  follows,  armed  with  nothing  but  a  knife,  finds  the
+enemy's  camp,  kills  one,  drives  away  the  rest,  and  returns  with  his  wife.
+
+48.    The  Man  who  recaptured  his  Wife.
+
+A  man's  wife  is  captured.  He  enters  the  village  of  her  captors  at  night,  goes
+to  her  lodge,  and,  after  he  has  cut  her  new  husband's  throat,  flees  with  her.
+
+
+1907.]  Kropber.  Gros  Ventre  Mythfi  and  Tnies.  139
+
+
+49.    The  Woman  who  married  the  Snake  Indian.
+
+A  man  lives  alone  with  his  wife  and  his  sister.  The  girl  has  a  tent  to  herself.
+A  Snake  Indian  visits  her  at  night.  The  man  accepts  him  as  his  brother-in-law.
+The  Snake  lives  with  the  Gros  Ventre.  Then  he  takes  his  wife  to  visit  the  Snakes.
+He  appears  very  poor,  and  his  wife  is  abused  by  the  Snakes.  Next  day  he  shows
+himself  in  all  his  finery  and  wealth.  Then  he  returns  to  the  Gros  Ventre,  and  is
+abused  by  them  for  his  apparent  poverty.  The  next  day  he  reveals  his  increased
+wealth.     The  Gros  Ventre  and  the  Snakes  make  peace.
+
+50.    The  Woman  who  revenged  her  Brothers.
+
+Two  brothers  are  killed.  Their  sister  mourns.  She  goes  to  a  mountain  and
+fasts.  The  thunder  gives  her  power.  She  sets  out  with  her  husband  for  the  camp
+of  the  enemy.  She  entices  one  of  the  killers  of  her  brothers  away  from  the  camp,
+and  cuts  his  throat.  Then  she  flees  with  her  husband.  The  enemy  attack  the
+camp  four  times.     Each  time  she  drives  them  off.     Then  she  will  fight  no  more.
+
+
+(
+
+
+]>'
+
+
+\
+
+
+H92     7.
+
+
+^J
+
+
+I^c
+
+
+t^•
+
+
+r-
+
+
+o'i
+
+
+>
+-^o.
+
+
+^O"
+
+
+^O
+
+
+feA''/-^<-  .v^*\-_;^§^-- \  .-**'  .>AX;-
+
+
+X
+
+
+-t'Sy.XK  *       aV
+
+
+.\^  -<:
+
+
+-<"^'
+5^%
+
+
+K
+
+
+f.^:^  ^^     ^^  '^S^^^
+
+
+^^'\  °^w^*^  ^^  %^  '-m^s  j^'"^^^  ^mw:  .^^'
+
+
+''    :^Sa   %.^   »  JM'  %.^^  :;#&^
+
+
+■s<j-'
+
+
+.^
+
+
+<  o
+
+
+o  V'^
+
+
+'<f^\

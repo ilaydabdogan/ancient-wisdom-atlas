@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_reynardfoxinsout00blee
+  work_id: african.reynard_the_fox_hottentot.bleek_archive
+  title: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  source_url: https://archive.org/details/reynardfoxinsout00blee
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/reynardfoxinsout00blee-reynard-the-fox-in-south-africa-bleek.txt
+    checksum:
+      algorithm: sha256
+      value: ffb37dde4af07bb7c26864a54f8f08964f9a65372743f2cb62dda17393e02a46
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/reynardfoxinsout00blee-reynard-the-fox-in-south-africa-bleek.md
+    checksum:
+      algorithm: sha256
+      value: 6fc4bcc77c81eb4c715e86656d358a8d1886209674a0150b0006e53fe1b82774
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+    checksum:
+      algorithm: sha256
+      value: 5ec4e311a832cb8d044404da6b24ad5457d86822e874f3081536fc47eb9a103d
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids african.reynard_the_fox_hottentot.bleek_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1864, US public domain. "Hottentot" is an offensive exonym; the
+      material is Khoekhoe (Khoikhoi/Nama). Bleek (later of the Bleek & Lloyd San
+      archive already queued) translated fables largely from native texts, so this
+      leans toward verbatim, though the "Reynard" framing imposes a European animal-epic
+      template. A rare early Khoekhoe corpus.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

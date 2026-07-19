@@ -1,0 +1,73 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_eskimoberingstrait00nelsrich
+  work_id: native_american.eskimo_bering_strait.nelson_archive
+  title: The Eskimo about Bering Strait
+  source_url: https://archive.org/details/eskimoberingstrait00nelsrich
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/eskimoberingstrait00nelsrich-eskimo-about-bering-strait-nelson.txt
+    checksum:
+      algorithm: sha256
+      value: 471ef8778febf467ba0cc197c5deac0d5882db5883b3e1726f443c30b2debdc4
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/eskimoberingstrait00nelsrich-eskimo-about-bering-strait-nelson.md
+    checksum:
+      algorithm: sha256
+      value: 3224649edc8a1f440e45f94a53ea1aff990ccf9851263cfc4cc700f3f1322669
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+    checksum:
+      algorithm: sha256
+      value: cbdfe397a7cd597bcea9f526df4f6bb80bd975dfd21d4ff8a2113aa400228583
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.eskimo_bering_strait.nelson_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
+    (OCR review wave 3).
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1899, US public domain. Mixed verbatim/paraphrase - a monumental
+      monograph embedding recorded Yupik/Inupiaq tales and Raven cycle within ethnographic
+      description of masks, amulets, and the shade-world. Distinct Western (Bering)
+      Eskimo lineage from the already-queued eastern/ central Rasmussen and Boas Inuit
+      material. Mask and shamanic content is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

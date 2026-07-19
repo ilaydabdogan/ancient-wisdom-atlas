@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-18'
+updated_date: '2026-07-18'
+artifacts:
+- id: artifact.gutenberg_sia00stevgoog
+  work_id: native_american.the_sia.stevenson_archive
+  title: The Sia
+  source_url: https://archive.org/details/sia00stevgoog
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/sia00stevgoog-the-sia-stevenson.txt
+    checksum:
+      algorithm: sha256
+      value: 27517d733f334119875238d1e13afcfd714e5de27d2941ebb8091609673cd745
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/sia00stevgoog-the-sia-stevenson.md
+    checksum:
+      algorithm: sha256
+      value: 27e7922f559b7f82643bd1cbc9119ca60c360b281599a8f1dfa8342f8e3affd4
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+    checksum:
+      algorithm: sha256
+      value: bc24df0c96f0a308d3b0f021c9dc7d80aaa4ee4a18a7dcd09901ad79e8324b05
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.the_sia.stevenson_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - cosmogony
+      and creation narratives, rain and snake society rituals, and cult ceremonials
+      of a small Keresan pueblo; translated narrative close to dictation with paraphrased
+      ceremony description.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-18'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.
