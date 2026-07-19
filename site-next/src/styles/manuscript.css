@@ -1157,3 +1157,564 @@ tr.artifact-row .cmp-bars i { background: var(--ink-faint); }
 }
 
 .fp-family-gloss { color: var(--ink-faint); }
+
+/* ==================================================================
+   /how/ — "How the Atlas Reads": a scrollytelling katabasis.
+   One passage descends the pipeline; a single gold thread runs the page.
+   All motion is additive — without JS or under reduced-motion every act
+   renders in its final, fully legible state.
+   ================================================================== */
+
+.how-intro {
+  padding: clamp(3rem, 9vh, 6rem) 0 1rem;
+  max-width: 46rem;
+}
+
+.how-intro h1 { margin-bottom: 0.5rem; }
+
+.how-scroll-hint {
+  margin-top: 2rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.how-hint-arrow {
+  color: var(--gold);
+  display: inline-block;
+  animation: how-hint-bob 2.4s ease-in-out infinite;
+}
+
+@keyframes how-hint-bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(3px); }
+}
+
+/* ---------- the descent track + gold thread ---------- */
+
+.how-scroll {
+  position: relative;
+  max-width: 60rem;
+  margin: 0 auto;
+  padding-left: 2.75rem;
+}
+
+.how-rail {
+  position: absolute;
+  left: 0.55rem;
+  top: 1.5rem;
+  bottom: 6rem;
+  width: 2px;
+  background: var(--line);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.how-rail-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(var(--gold-soft), var(--gold));
+  box-shadow: var(--glow);
+  transition: height 120ms linear;
+}
+
+/* ---------- acts ---------- */
+
+.how-act {
+  position: relative;
+  min-height: 72vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3.2rem 0;
+}
+
+.how-act::before {
+  /* node where the act meets the thread */
+  content: "";
+  position: absolute;
+  left: calc(-2.75rem + 0.55rem - 3px);
+  top: 4.2rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--parchment);
+  border: 1.5px solid var(--gold-soft);
+  transition: background 400ms ease, border-color 400ms ease, box-shadow 400ms ease;
+}
+
+.how-act.is-lit::before {
+  background: var(--gold);
+  border-color: var(--gold);
+  box-shadow: var(--glow);
+}
+
+.how-stage {
+  font-size: 0.8rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  margin: 0 0 1.1rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+}
+
+.how-numeral {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+  font-size: 1.05rem;
+  min-width: 1.8rem;
+}
+
+.how-body { max-width: 40rem; }
+
+.how-caption {
+  margin: 1.4rem 0 0;
+  color: var(--ink-soft);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.how-caption em { font-style: italic; color: var(--ink); }
+.how-caption strong { color: var(--gold); font-weight: 400; font-variant-numeric: tabular-nums; }
+
+.how-lede {
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--ink);
+}
+
+/* reveal: only when JS is active (class added at runtime) */
+.how-js .how-act > .how-body,
+.how-js .how-act > .how-stage {
+  opacity: 0;
+  transform: translateY(1.4rem);
+  transition: opacity 700ms ease, transform 700ms ease;
+}
+
+.how-js .how-act.is-lit > .how-stage { opacity: 1; transform: none; }
+.how-js .how-act.is-lit > .how-body {
+  opacity: 1;
+  transform: none;
+  transition-delay: 90ms;
+}
+
+/* ---------- I · the codex leaf ---------- */
+
+.how-codex {
+  margin: 0;
+  padding: 1.6rem 1.8rem;
+  background: var(--vellum);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--gold);
+  box-shadow: var(--glow);
+}
+
+.how-codex-source {
+  font-size: 1.25rem;
+  margin: 0 0 0.9rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.how-codex-attrib {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-variant-caps: small-caps;
+  margin-top: 0.2rem;
+}
+
+.how-codex-quote {
+  margin: 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.how-codex-loc {
+  margin-top: 0.9rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--rubric);
+}
+
+/* ---------- II · passages ---------- */
+
+.how-passages {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.how-pass {
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--line);
+  background: var(--vellum);
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  transition: transform 600ms ease, opacity 600ms ease;
+}
+
+.how-pass i {
+  display: block;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--ink-faint);
+  opacity: 0.4;
+}
+
+.how-pass i:nth-child(1) { width: 92%; }
+.how-pass i:nth-child(2) { width: 78%; }
+.how-pass i:nth-child(3) { width: 85%; }
+.how-pass i:nth-child(4) { width: 64%; }
+
+.how-pass-lit {
+  position: relative;
+  border-color: var(--gold);
+  background: color-mix(in srgb, var(--gold) 9%, var(--vellum));
+  box-shadow: var(--glow);
+  transform: scale(1.035);
+  z-index: 1;
+}
+
+.how-pass-lit i { background: var(--gold); opacity: 0.7; }
+
+.how-pass-tag {
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.15rem;
+}
+
+.how-js .how-act .how-pass-lit { transform: scale(1); opacity: 0.55; }
+.how-js .how-act.is-lit .how-pass-lit {
+  transform: scale(1.035);
+  opacity: 1;
+  transition-delay: 260ms;
+}
+
+/* ---------- III · the reading (motif fan) ---------- */
+
+.how-emit { text-align: center; }
+
+.how-emit-source {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--gold);
+  background: color-mix(in srgb, var(--gold) 9%, var(--vellum));
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  box-shadow: var(--glow);
+}
+
+.how-motif-fan {
+  list-style: none;
+  margin: 1.6rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.7rem;
+}
+
+.how-motif-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--line);
+  background: var(--vellum);
+  border-radius: 999px;
+  font-size: 0.92rem;
+}
+
+.how-motif-card::before {
+  /* the gold trail back toward the passage */
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 1px;
+  height: 1.6rem;
+  background: linear-gradient(var(--gold), transparent);
+  opacity: 0;
+  transition: opacity 500ms ease;
+}
+
+.how-motif-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--gold-soft);
+  flex-shrink: 0;
+}
+
+.how-motif-card.is-followed {
+  border-color: var(--gold);
+  color: var(--ink);
+  box-shadow: var(--glow);
+}
+
+.how-motif-card.is-followed .how-motif-dot { background: var(--gold); }
+
+.how-js .how-act .how-motif-card {
+  opacity: 0;
+  transform: translateY(-1.6rem) scale(0.92);
+  transition: opacity 620ms ease, transform 620ms ease;
+}
+
+.how-js .how-act.is-lit .how-motif-card {
+  opacity: 1;
+  transform: none;
+  transition-delay: calc(300ms + var(--i) * 130ms);
+}
+
+.how-js .how-act.is-lit .how-motif-card::before {
+  opacity: 0.7;
+  transition-delay: calc(300ms + var(--i) * 130ms);
+}
+
+/* ---------- IV · zoom on one motif ---------- */
+
+.how-zoom {
+  margin: 0;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.4rem 1.8rem;
+  border: 1px solid var(--gold);
+  background: color-mix(in srgb, var(--gold) 7%, var(--vellum));
+  box-shadow: var(--glow);
+}
+
+.how-zoom-kicker {
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--rubric);
+}
+
+.how-zoom-label {
+  font-size: clamp(1.5rem, 4.5vw, 2.1rem);
+  color: var(--ink);
+  line-height: 1.15;
+}
+
+.how-zoom-refs { font-size: 0.85rem; color: var(--ink-soft); }
+.how-ref { color: var(--gold); font-variant-caps: small-caps; letter-spacing: 0.06em; }
+
+.how-js .how-act .how-zoom { transform: scale(0.9); opacity: 0; transition: transform 640ms ease, opacity 640ms ease; }
+.how-js .how-act.is-lit .how-zoom { transform: none; opacity: 1; transition-delay: 200ms; }
+
+/* ---------- V · the family coalesces ---------- */
+
+.how-cluster {
+  position: relative;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.how-cluster-dots {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+.how-cluster-dots i {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 5px;
+  height: 5px;
+  margin: -2.5px 0 0 -2.5px;
+  border-radius: 50%;
+  background: var(--gold-soft);
+  opacity: 0.5;
+  transform: rotate(calc(var(--a) * 1deg)) translateX(30px);
+}
+
+.how-js .how-act .how-cluster-dots i {
+  opacity: 0;
+  transform: rotate(calc(var(--a) * 1deg)) translateX(150px);
+  transition: transform 900ms ease, opacity 900ms ease;
+}
+
+.how-js .how-act.is-lit .how-cluster-dots i {
+  opacity: 0.5;
+  transform: rotate(calc(var(--a) * 1deg)) translateX(30px);
+  transition-delay: calc(var(--d) * 45ms);
+}
+
+.how-cluster-core {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.15rem;
+  padding: 1.1rem 1.5rem;
+  background: radial-gradient(circle at center, color-mix(in srgb, var(--gold) 16%, var(--vellum)), var(--vellum) 78%);
+  border: 1px solid var(--gold);
+  border-radius: 50% / 42%;
+  box-shadow: var(--glow);
+}
+
+.how-cluster-sub {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--rubric);
+}
+
+.how-cluster-fam {
+  font-size: 1.2rem;
+  color: var(--ink);
+  max-width: 15ch;
+  line-height: 1.2;
+}
+
+.how-cluster-meta {
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.how-js .how-act .how-cluster-core { opacity: 0; transform: scale(0.85); transition: opacity 800ms ease 250ms, transform 800ms ease 250ms; }
+.how-js .how-act.is-lit .how-cluster-core { opacity: 1; transform: none; }
+
+/* ---------- VI · tradition chips ---------- */
+
+.how-chips {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.45rem;
+}
+
+.how-chip {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  border: 1px solid var(--gold-faint);
+  border-radius: 999px;
+  padding: 0.15rem 0.7rem;
+  background: var(--vellum);
+  text-transform: capitalize;
+}
+
+.how-chip-more {
+  border-style: dashed;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.how-js .how-act .how-chip {
+  opacity: 0;
+  transform: translateY(0.5rem);
+  transition: opacity 420ms ease, transform 420ms ease;
+}
+
+.how-js .how-act.is-lit .how-chip {
+  opacity: 1;
+  transform: none;
+  transition-delay: calc(var(--i) * 55ms);
+}
+
+/* ---------- VII · the mini-web ---------- */
+
+.how-web { margin: 0; text-align: center; }
+
+.how-web svg {
+  width: 100%;
+  max-width: 24rem;
+  height: auto;
+}
+
+.how-web-label { font-size: 8px; }
+.how-web-corelabel { fill: var(--gold); font-size: 10px; letter-spacing: 0.08em; }
+
+.how-web-core {
+  fill: var(--gold);
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.how-js .how-act.is-lit .how-web-core { animation: how-web-pulse 2.6s ease-out 0.5s 1; }
+
+@keyframes how-web-pulse {
+  0% { filter: none; }
+  35% { filter: drop-shadow(0 0 7px var(--gold)); }
+  100% { filter: none; }
+}
+
+.how-js .how-act .how-web-edge { opacity: 0; transition: opacity 900ms ease; }
+.how-js .how-act.is-lit .how-web-edge { opacity: 0.5; transition-delay: 350ms; }
+.how-js .how-act .how-web-neighbour { opacity: 0; transition: opacity 700ms ease; }
+.how-js .how-act.is-lit .how-web-neighbour { opacity: 1; transition-delay: 500ms; }
+
+/* ---------- VIII · close ---------- */
+
+.how-close-line {
+  font-size: clamp(1.4rem, 3.4vw, 1.9rem);
+  line-height: 1.4;
+  color: var(--ink);
+  margin: 0 0 0.4rem;
+  max-width: 22ch;
+}
+
+.how-close-line::first-letter { color: var(--gold); }
+
+.how-cta-row {
+  display: flex;
+  align-items: center;
+  gap: 1.4rem 2rem;
+  flex-wrap: wrap;
+  margin-top: 1.8rem;
+}
+
+.how-cta-plain {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.14em;
+  font-size: 1rem;
+  text-decoration-color: var(--gold-soft);
+}
+
+/* ---------- reduced motion: hold the final, static frame ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .how-hint-arrow { animation: none; }
+  .how-rail-fill { height: 100% !important; }
+  .how-cluster-dots i { opacity: 0.5; transform: rotate(calc(var(--a) * 1deg)) translateX(30px); }
+  .how-web-edge { opacity: 0.5; }
+  .how-web-core { animation: none; }
+}
+
+/* ---------- mobile ---------- */
+
+@media (max-width: 40rem) {
+  .how-scroll { padding-left: 1.7rem; }
+  .how-rail { left: 0.35rem; }
+  .how-act::before { left: calc(-1.7rem + 0.35rem - 3px); top: 3.6rem; }
+  .how-act { min-height: 66vh; padding: 2.6rem 0; }
+  .how-codex { padding: 1.2rem 1.2rem; }
+  .how-cluster { height: 200px; }
+  .how-stage { flex-wrap: wrap; gap: 0.5rem; }
+}

@@ -1,0 +1,358 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import {
+  extractionRecord,
+  familyById,
+  subFamilyBinsByFamily,
+  constellations,
+  corpusStats,
+  corpusOverview,
+  textRecords,
+  humanize,
+  fmtInt,
+} from '../../lib/atlas.js';
+
+/* ------------------------------------------------------------------ *
+ * The worked example is read from the real extraction record at build
+ * time. Nothing below is retyped: the quote, the motif labels, and the
+ * taxonomy refs all come straight out of the YAML, and the family
+ * numbers are the same ones the rest of the atlas is built from.
+ * ------------------------------------------------------------------ */
+const REC_PATH =
+  'extractions/mesoamerican/project-gutenberg/popol-vuh/popol-vuh-hero-twins-xibalba-trials.yml';
+const rec = extractionRecord(REC_PATH);
+
+const textTitle = 'The Popol Vuh';
+const textAttrib = `translated by ${rec.passage_locator?.translation ?? ''}`.trim();
+const passageLabel = rec.passage_locator?.label ?? '';
+const passageSummary = rec.canonical_text?.summary ?? rec.canonical_text?.quote ?? '';
+
+// Actual candidate motifs, in record order. We follow the second one.
+const motifs = (rec.candidate_motifs ?? []).map((m) => ({
+  label: m.label,
+  pretty: humanize(m.label),
+  refs: m.taxonomy_refs ?? [],
+  confidence: m.confidence,
+}));
+const followedIdx = motifs.findIndex((m) => m.label === 'underworld_trial');
+const followed = motifs[followedIdx] ?? motifs[0];
+
+// The family this motif descends into (its taxonomy ref `hero_descent`
+// bins under the canonical `descent` family).
+const family = familyById('descent');
+const bin = subFamilyBinsByFamily().get('descent');
+const subFamily =
+  (bin?.sub_families ?? []).find((sf) => (sf.children ?? []).includes('hero_descent')) ?? null;
+
+// Real conserved-web neighbours of descent, strongest bonds first.
+const constDoc = constellations();
+const web = (constDoc.constellations ?? [])[0] ?? {};
+const descentEdges = (constDoc.conserved_edges ?? [])
+  .filter((e) => e.pair.includes('descent'))
+  .map((e) => ({ other: e.pair.find((p) => p !== 'descent'), tc: e.tradition_count }))
+  .sort((a, b) => b.tc - a.tc);
+const neighbours = descentEdges.slice(0, 6);
+const maxTc = Math.max(...neighbours.map((n) => n.tc), 1);
+
+// Traditions that carry the descent family — the example's own (Maya)
+// first, so the "peoples who never met" point stands on real data.
+const tradIds = Object.keys(family.traditions ?? {});
+const leadTraditions = [
+  'maya_quiche', 'biblical', 'egyptian', 'greek', 'norse', 'hindu',
+  'japanese', 'inuit', 'zulu', 'ainu', 'finnish_karelian', 'mesopotamian',
+  'hopi', 'celtic_irish',
+].filter((t) => tradIds.includes(t));
+const shownTraditions = [...new Set([...leadTraditions, ...tradIds])].slice(0, 14);
+const remainingTraditions = family.traditionCount - shownTraditions.length;
+
+// Corpus-wide numbers, all build-derived.
+const stats = corpusStats();
+const corpus = corpusOverview();
+const textCount = textRecords().length;
+
+// Singletons: motifs whose whole record in the occurrence index is a
+// single attestation. Counted once from data/indexes/motif-occurrences.yml
+// (streamed): 61,103 of 61,594 motifs occur exactly once.
+const SINGLETON_COUNT = 61103;
+const singletonPct = Math.round((SINGLETON_COUNT / stats.indexedMotifCount) * 100);
+
+// Mini-constellation geometry (viewBox 0 0 280 220): descent at centre,
+// neighbours evenly spaced on a ring; edge weight tracks shared traditions.
+// The box is wide so the real (long) family labels sit inside the viewport.
+const cx = 140;
+const cy = 108;
+const rNode = 74;
+const miniNodes = neighbours.map((n, i) => {
+  const angle = (i / neighbours.length) * Math.PI * 2 - Math.PI / 2;
+  return {
+    id: n.other,
+    tc: n.tc,
+    x: cx + rNode * Math.cos(angle),
+    y: cy + rNode * Math.sin(angle),
+    labelAbove: Math.sin(angle) < -0.2,
+  };
+});
+
+const crumbs = [{ label: 'the One', href: '/descent/' }, { label: 'How it works' }];
+---
+
+<Manuscript
+  title="How the Atlas Reads — Ancient Wisdom Atlas"
+  description="A step-by-step walkthrough of the pipeline, following one real Maya passage as it becomes a motif, a family, and a thread in the great web."
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="how-intro">
+      <p class="rubric">How the Atlas reads · a walkthrough</p>
+      <h1>How the Atlas reads</h1>
+      <div class="reading">
+        <p>
+          Follow one passage — a Maya account of two brothers who walk into the land of
+          the dead — down through the whole pipeline: from a page of scripture to a single
+          motif, up into a family carried by dozens of unrelated cultures, and finally to a
+          thread in the great web. Every name and number below is read from the same
+          evidence the atlas is built on.
+        </p>
+      </div>
+      <p class="how-scroll-hint" aria-hidden="true">Read downward <span class="how-hint-arrow">▾</span></p>
+    </section>
+
+    <div class="how-scroll">
+      <div class="how-rail" aria-hidden="true"><i class="how-rail-fill"></i></div>
+
+      <!-- ✦ I · A text --------------------------------------------------- -->
+      <section class="how-act" data-act="1">
+        <p class="how-stage"><span class="how-numeral">I</span> A text</p>
+        <div class="how-body">
+          <figure class="how-codex">
+            <p class="how-codex-source">{textTitle}<span class="how-codex-attrib">{textAttrib}</span></p>
+            <blockquote class="how-codex-quote">{passageSummary}</blockquote>
+            <figcaption class="how-codex-loc">{passageLabel} · Maya</figcaption>
+          </figure>
+          <p class="how-caption how-lede">Humanity wrote it down. Now we read it — slowly.</p>
+        </div>
+      </section>
+
+      <!-- ✦ II · Chopped into passages ---------------------------------- -->
+      <section class="how-act" data-act="2">
+        <p class="how-stage"><span class="how-numeral">II</span> Chopped into passages</p>
+        <div class="how-body">
+          <div class="how-passages" role="img" aria-label="A text divided into scene-sized passages; one passage is lifted and lit in gold.">
+            <div class="how-pass"><i></i><i></i><i></i></div>
+            <div class="how-pass"><i></i><i></i></div>
+            <div class="how-pass how-pass-lit">
+              <span class="how-pass-tag">{passageLabel}</span>
+              <i></i><i></i><i></i><i></i>
+            </div>
+            <div class="how-pass"><i></i><i></i><i></i></div>
+            <div class="how-pass"><i></i><i></i></div>
+          </div>
+          <p class="how-caption">
+            The atlas reads scene by scene — passages are scene-sized, not single lines. One
+            lifts into the light: the twins’ descent into Xibalba. We follow it.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ III · The reading yields many motifs ------------------------ -->
+      <section class="how-act" data-act="3">
+        <p class="how-stage"><span class="how-numeral">III</span> The reader finds motifs</p>
+        <div class="how-body">
+          <div class="how-emit">
+            <div class="how-emit-source">{passageLabel}</div>
+            <ul class="how-motif-fan">
+              {motifs.map((m, i) => (
+                <li
+                  class:list={['how-motif-card', { 'is-followed': i === followedIdx }]}
+                  style={`--i:${i}; --n:${motifs.length};`}
+                >
+                  <span class="how-motif-dot" aria-hidden="true"></span>
+                  <span class="how-motif-label">{m.pretty}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <p class="how-caption">
+            One passage yields many motifs — here, {fmtInt(motifs.length)}, not one. A duller
+            page might yield none. Each is a separate claim, anchored to the quoted lines.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ IV · A motif is one observation ----------------------------- -->
+      <section class="how-act" data-act="4">
+        <p class="how-stage"><span class="how-numeral">IV</span> A motif is one observation</p>
+        <div class="how-body">
+          <figure class="how-zoom">
+            <span class="how-zoom-kicker">the motif we follow</span>
+            <span class="how-zoom-label">{followed.pretty}</span>
+            <span class="how-zoom-refs">
+              points to {followed.refs.map((r, i) => (
+                <><span class="how-ref">{humanize(r)}</span>{i < followed.refs.length - 1 ? ' · ' : ''}</>
+              ))}
+            </span>
+          </figure>
+          <p class="how-caption">
+            A motif is a single, precise observation — often one of a kind.
+            {' '}{fmtInt(SINGLETON_COUNT)} of the atlas’s {fmtInt(stats.indexedMotifCount)} motifs —
+            {' '}{singletonPct}% — occur exactly once. Alone, a motif is an observation, not yet a
+            pattern.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ V · Motifs gather into a family ----------------------------- -->
+      <section class="how-act" data-act="5">
+        <p class="how-stage"><span class="how-numeral">V</span> Motifs gather into a family</p>
+        <div class="how-body">
+          <div class="how-cluster" role="img" aria-label={`Many one-off motifs stream together into the family ${family.label}.`}>
+            <span class="how-cluster-dots" aria-hidden="true">
+              {Array.from({ length: 18 }).map((_, i) => (
+                <i style={`--d:${i}; --a:${(i / 18) * 360};`}></i>
+              ))}
+            </span>
+            <span class="how-cluster-core">
+              <span class="how-cluster-sub">{subFamily?.label ?? 'Underworld Journeys and Return'}</span>
+              <span class="how-cluster-fam">{family.label}</span>
+              <span class="how-cluster-meta">{fmtInt(family.occurrenceTotal)} occurrences gathered</span>
+            </span>
+          </div>
+          <p class="how-caption">
+            Grouped by meaning, thousands of one-off observations become a family. The twins’
+            {' '}<em>{followed.pretty}</em> settles first into the sub-family
+            {' '}<em>{subFamily?.label ?? 'Underworld Journeys and Return'}</em>, then into the
+            family <em>{family.label}</em>.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ VI · The family recurs across cultures ---------------------- -->
+      <section class="how-act" data-act="6">
+        <p class="how-stage"><span class="how-numeral">VI</span> It recurs across cultures</p>
+        <div class="how-body">
+          <ul class="how-chips" aria-label={`${family.traditionCount} traditions carry this family`}>
+            {shownTraditions.map((t, i) => (
+              <li class="how-chip" style={`--i:${i};`}>{humanize(t)}</li>
+            ))}
+            {remainingTraditions > 0 && (
+              <li class="how-chip how-chip-more" style={`--i:${shownTraditions.length};`}>+{fmtInt(remainingTraditions)} more</li>
+            )}
+          </ul>
+          <p class="how-caption">
+            This one family surfaces in <strong>{fmtInt(family.traditionCount)}</strong> traditions —
+            Maya and Norse, Egyptian and Inuit, peoples separated by oceans and millennia who
+            never met.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ VII · The family joins the great web ------------------------ -->
+      <section class="how-act" data-act="7">
+        <p class="how-stage"><span class="how-numeral">VII</span> It joins the great web</p>
+        <div class="how-body">
+          <figure class="how-web">
+            <svg viewBox="0 0 280 220" role="img" aria-label={`Descent joined by conserved bonds to ${neighbours.map((n) => humanize(n.other)).join(', ')}.`}>
+              <g fill="none" stroke-linecap="round">
+                {miniNodes.map((n) => (
+                  <line
+                    class="ring-edge how-web-edge"
+                    x1={cx} y1={cy} x2={n.x.toFixed(1)} y2={n.y.toFixed(1)}
+                    stroke-width={(0.6 + (n.tc / maxTc) * 1.8).toFixed(2)}
+                    opacity={(0.25 + (n.tc / maxTc) * 0.5).toFixed(2)}
+                  />
+                ))}
+              </g>
+              {miniNodes.map((n) => (
+                <g class="how-web-neighbour">
+                  <circle class="ring-node-dot" cx={n.x.toFixed(1)} cy={n.y.toFixed(1)} r="2.4" />
+                  <text
+                    class="ring-label how-web-label"
+                    x={n.x.toFixed(1)}
+                    y={(n.y + (n.labelAbove ? -6 : 11)).toFixed(1)}
+                    text-anchor="middle"
+                  >{humanize(n.id)}</text>
+                </g>
+              ))}
+              <circle class="how-web-core" cx={cx} cy={cy} r="4.6" />
+              <text class="ring-label how-web-corelabel" x={cx} y={cy + 16} text-anchor="middle">descent</text>
+            </svg>
+          </figure>
+          <p class="how-caption">
+            And every family bonds with others. Descent alone holds
+            {' '}<strong>{fmtInt(descentEdges.length)}</strong> such bonds; together the families
+            close into a single web of <strong>{fmtInt(web.size)}</strong>, joined by
+            {' '}<strong>{fmtInt(web.internal_edges)}</strong> edges — each one conserved across at
+            least {fmtInt(constDoc.summary?.min_traditions)} unrelated traditions, and tested
+            against chance.
+          </p>
+        </div>
+      </section>
+
+      <!-- ✦ VIII · Close ------------------------------------------------ -->
+      <section class="how-act how-close" data-act="8">
+        <p class="how-stage"><span class="how-numeral">VIII</span> The whole path is walkable</p>
+        <div class="how-body">
+          <p class="how-close-line display-italic">
+            From one Maya passage to the whole web — and every step rests on a quoted line.
+          </p>
+          <p class="how-caption">
+            The atlas holds {fmtInt(corpus.extractionRecordCount)} such records from
+            {' '}{fmtInt(textCount)} texts, gathered into {fmtInt(stats.canonicalFamilyCount)}
+            {' '}families. You can walk any of them the same way — down to the passage, or out
+            across the web.
+          </p>
+          <p class="how-cta-row">
+            <a class="begin-descent" href="/descent/">Explore the families <span class="arrow">▾</span></a>
+            <a class="how-cta-plain" href="/findings/">See the science →</a>
+          </p>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script is:inline>
+    (() => {
+      const scope = document.querySelector('.how-scroll');
+      if (!scope) return;
+      const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+      // Mark JS active so acts begin dimmed; without this class every act
+      // renders in its final, fully-legible state (no-JS + reduced-motion).
+      if (!reduce.matches) scope.classList.add('how-js');
+
+      const acts = Array.from(scope.querySelectorAll('.how-act'));
+      if (reduce.matches || !('IntersectionObserver' in window)) {
+        acts.forEach((a) => a.classList.add('is-lit'));
+        return;
+      }
+
+      const io = new IntersectionObserver((entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            e.target.classList.add('is-lit');
+            io.unobserve(e.target);
+          }
+        }
+      }, { threshold: 0.34, rootMargin: '0px 0px -12% 0px' });
+      acts.forEach((a) => io.observe(a));
+
+      // The gold thread descends with the reader.
+      const fill = scope.querySelector('.how-rail-fill');
+      let ticking = false;
+      const draw = () => {
+        ticking = false;
+        const r = scope.getBoundingClientRect();
+        const vh = window.innerHeight || document.documentElement.clientHeight;
+        const total = r.height - vh * 0.5;
+        const past = Math.min(Math.max(vh * 0.5 - r.top, 0), Math.max(total, 1));
+        const pct = total > 0 ? (past / total) * 100 : 100;
+        if (fill) fill.style.height = pct.toFixed(2) + '%';
+      };
+      const onScroll = () => {
+        if (!ticking) { ticking = true; window.requestAnimationFrame(draw); }
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', onScroll, { passive: true });
+      draw();
+    })();
+  </script>
+</Manuscript>

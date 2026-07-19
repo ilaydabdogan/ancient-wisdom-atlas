@@ -398,6 +398,21 @@ export function occurrenceReadLink(occ) {
 }
 
 /* ------------------------------------------------------------------ */
+/* Single extraction records (for the walkthrough)                     */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Load one extraction YAML by its repo-relative path
+ * (e.g. `extractions/mesoamerican/.../record.yml`). Used by the /how/
+ * explainer so its worked example is read from the real record at build
+ * time — quote, motif labels, and taxonomy refs are never retyped.
+ */
+export function extractionRecord(repoRelPath) {
+  const full = path.join(REPO_ROOT, repoRelPath);
+  return yaml.load(fs.readFileSync(full, 'utf8'));
+}
+
+/* ------------------------------------------------------------------ */
 /* Letters                                                             */
 /* ------------------------------------------------------------------ */
 
