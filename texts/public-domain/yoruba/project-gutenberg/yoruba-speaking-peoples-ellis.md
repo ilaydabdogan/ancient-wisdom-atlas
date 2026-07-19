@@ -123,7 +123,7 @@ I8a4.
 JV^t IpI^O^I
 
 
-<fL^5'
+ fL^5'
 
 
 \\\\Wq\ ^lUiA
@@ -314,7 +314,7 @@ Yorubas to move to the south and colonise the sea-
 board.
 
 Yoruba country at present comprises the following
-states, or political units : — <c ,
+states, or political units : —  c ,
 
 (1) The British colony of Lagos, which covers the
 whole sea-front between the meridian of the Ajarra
@@ -7770,14 +7770,14 @@ Future.
 
 Emi n ofSf I shall be loving. Awa n ofe^ We shall be loving.
 
-&c. &c. <fcc. &c.
+&c. &c.  fcc. &c.
 
 Perfect, or Pluperfect.
 
 Emi H nfe^ I have, or had, been Awa ti nfe, We have, or had, been
 loving. loving.
 
-<fcc. <fcc. &c, &Q,
+ fcc.  fcc. &c, &Q,
 
 Imperative Mood.
 
@@ -8078,7 +8078,7 @@ this).
 Tani, Who.
 EvoOj Which.
 
-The possessive cases are made by prefixing <i,
+The possessive cases are made by prefixing  i,
 " belonging to " : —
 
 
@@ -8146,7 +8146,7 @@ Aka^ a storehouse, ,, X:a, to count.
 
 Aloj departure, „ /<?, to go.
 
-Ata^ pepper, capsicum, „ <a, to sting.
+Ata^ pepper, capsicum, „  a, to sting.
 
 Eloj utensil, j, lo, to use.
 
@@ -10443,7 +10443,7 @@ The mother of the little girl took twenty country-
 cloths, twenty strings of valuable beads, twenty sheep
 
 • The ado is a very small calabash, commonly used for keeping
-me<lioinnl powders in.
+me lioinnl powders in.
 
 
 folk-lore tales. 247
@@ -14157,7 +14157,7 @@ ca 6
 
 o •= o
 
-^ <a -^ .- . ^
+^  a -^ .- . ^
 
 E si's a>g2*SW
 
@@ -14915,7 +14915,7 @@ Mt >m .^
 
 
 ^ 2 S S «
-^ <S *^ ::
+^  S *^ ::
 
 
 GO 1^ •
@@ -15200,7 +15200,7 @@ p
 
 8: S
 
-P <M
+P  M
 
 P ai
 ©
@@ -16012,7 +16012,7 @@ m y-N -** 08 M
 
 el kj ^
 
-^ I <S .5. S.
+^ I  S .5. S.
 
 
 •a
@@ -16146,7 +16146,7 @@ OC3 *SS sea fe©ft.«3S ^^SS
 
 I© 9^0 Jo tr •^fliss "^©c
 
-ft© •^R<r» T.^ ►O'fi ^_ ►^•ff^
+ft© •^R r» T.^ ►O'fi ^_ ►^•ff^
 
 
 © 00
@@ -16605,7 +16605,7 @@ CO "^ ^
 
 s ? s
 
-o <u **
+o  u **
 
 tli Hi O
 
@@ -18488,7 +18488,7 @@ J5 o 08
 
 d <4-4 <*a
 
-.2 ® J </r
+.2 ® J  /r
 
 • — r* cfi »T5
 
@@ -18904,7 +18904,7 @@ a
 
 £ /A
 
-<z ©
+ z ©
 
 ¥1
 
@@ -19322,7 +19322,7 @@ X
 H
 
 
-l-e ^. o o <s fi I
+l-e ^. o o  s fi I
 |llJ5o^<§
 
 
@@ -19706,7 +19706,7 @@ o S c
 S, ►» Be o ®
 
 
-f<l
+f l
 
 
 ^ i< ^
@@ -19720,7 +19720,7 @@ a g &
 « g
 
 
-i -e i <t s 3
+i -e i  t s 3
 
 2 ► ^ - «fc s
 
@@ -20590,7 +20590,7 @@ o
 4»
 
 
-<b <{> <!>
+ b <{>  !>
 § S §
 
 ►» P
@@ -21060,7 +21060,7 @@ oo
 
 
 — - *
-S ^ 2 O <y
+S ^ 2 O  y
 
 
 00 o
@@ -21506,7 +21506,7 @@ o d
 
 d ^
 
-a <a
+a  a
 
 OQ
 
@@ -21526,7 +21526,7 @@ i §
 d
 
 V
-<n ^
+ n ^
 
 ^ Id
 
@@ -21881,7 +21881,7 @@ ft© -^
 
 CC 9
 
-A <S QO
+A  S QO
 
 
 C8 QO ••>
@@ -22607,7 +22607,7 @@ s
 tC
 
 
-<!>
+ !>
 
 
 o
@@ -23325,7 +23325,7 @@ o
 *••
 
 
-<s-
+ s-
 
 
 fs:;
@@ -25972,7 +25972,7 @@ G^
 C^l
 
 
-<M
+ M
 
 
 2M
@@ -27384,7 +27384,7 @@ o
 •
 
 
-<N
+ N
 
 
 •
@@ -27738,7 +27738,7 @@ Ql*
 a>
 
 
-<a
+ a
 
 
 o
@@ -28727,7 +28727,7 @@ M
 
 9
 
-<s
+ s
 
 
 e
@@ -29552,7 +29552,7 @@ s" 4
 .J iJS
 
 
-<C 4 4
+ C 4 4
 
 
 ^" 4 «"
@@ -30105,7 +30105,7 @@ E^
 
 . ^ o
 
-<M o u
+ M o u
 
 
 GO
@@ -30969,7 +30969,7 @@ o —
 00
 
 
-CO <o CO
+CO  o CO
 
 
 CO
@@ -31146,7 +31146,7 @@ O
 
 4>
 
-a *^ <v
+a *^  v
 
 ©3-2
 
@@ -31275,7 +31275,7 @@ SI
 J3
 
 
-<c t^ 00
+ c t^ 00
 
 
 o
@@ -31290,7 +31290,7 @@ o —
 00
 
 
-CO <o CO
+CO  o CO
 
 
 CO
@@ -31310,7 +31310,7 @@ t^
 
 APPENDIX. 361
 
-SL^ Sa,><a.rt^«$5o s2^^ ^©-S .SPSS
+SL^ Sa,> a.rt^«$5o s2^^ ^©-S .SPSS
 
 
 ^ -^ ©1 CO -^ »ft
@@ -32687,7 +32687,7 @@ CO
 ^ *E - -2 -3 -e § 3
 
 y't &•§ -g ft£ © 9
-<S ► eS .9 ^ S
+ S ► eS .9 ^ S
 
 
 :§
@@ -33361,7 +33361,7 @@ s
 
 o
 
-<n
+ n
 
 2 .0
 
@@ -36957,7 +36957,7 @@ u
 
 ^ CD
 
-<i C
+ i C
 
 s^ O
 
@@ -37611,7 +37611,7 @@ d
 «4m
 
 
-><m^
+> m^
 
 
 '•43
@@ -37738,7 +37738,7 @@ d
 
 ^ oo d 'p &I
 
-^ .S <! § 2
+^ .S  ! § 2
 
 a -S . ? d
 
@@ -38308,7 +38308,7 @@ OS
 •«S CO >^^
 
 
-CO S «»<t *-J?*S
+CO S «» t *-J?*S
 
 
 -g
@@ -38595,7 +38595,7 @@ CO bo CI4 n
 
 © "^
 
-<i» S S
+ i» S S
 
 ^ "^
 
@@ -39839,7 +39839,7 @@ CQ V_^
 
 § a'
 
-.2 <i -g
+.2  i -g
 
 
 08
@@ -40998,7 +40998,7 @@ o
 
 O '^ ^ CO
 
-<i « g E ^
+ i « g E ^
 
 '^ ^ O. §^ 5
 
@@ -43318,7 +43318,7 @@ fl £ •::: ^- ^ "1
 
 O ff 3 t- "^ es .i«S
 
-ff C3 </i O «• I? ^^
+ff C3  /i O «• I? ^^
 
 
 ff • .-T * t? <*>
@@ -45387,7 +45387,7 @@ regarded as a succession of changes of sounds or words (Root V.).
 
 (2) Notions which are closely allied and which we might reason-
 ably expect to find expressed by the same root in any one language
-are often expresse<l by different roots. Thus ** fire,'* and " to flame,"
+are often expresse l by different roots. Thus ** fire,'* and " to flame,"
 are notions closely allied, yet in Yoruba " fire ** is ina, which is either
 from na, to spread, extend, or from wa, to waste (Root IV.) ; and
 ** to llaine '' is ,;V>, which has reference to the twisting, turning, and

@@ -632,7 +632,7 @@ clans  as  there  is  certainly  a  great  ressemblance  between  them
 and  the  Scottish  clans.  As  a  rule  all  men  belonging  to  a  clan
 bear  the  name  of  the  old  chief  who  is  more  or  less  considered
 as  being  the  ancestor  of  them  all.  In  the  Tembe  country  most
-of  the  people  will  salute  each  other  with  these  words  :  <cSha-
+of  the  people  will  salute  each  other  with  these  words  :   cSha-
 wan  Tembe,  good  morning,  Tembe"!  But  Tembe,  the  name
 of  the  clan  means  not  only  a  group  of  people  but  a  certain
 part  of  the  country  South  of  Delagoa  Bay.  In  that  country,
@@ -2878,7 +2878,7 @@ makes  a  nsema,  ties  it  to  a  string  made  of  the  fibres  of  certain
 palm-trees  and  hides.  His  comrades  try  to  pierce  his  grass  disk.
 But  he  watches.  He  has  the  right  to  chase  them  and  to  beat
 them  with  his  stick.  If  the  opponent  succeeds  in  piercing  the
-<lisk,  in  pulling  it  and  tearing  it  from  the  string,  ndlopfa-ndlop-
+ lisk,  in  pulling  it  and  tearing  it  from  the  string,  ndlopfa-ndlop-
 tana  is  vanquished.
 
 The  game  of  homane  is  very  similar  to  the  English  hockey.
@@ -5712,7 +5712,7 @@ body  should  prevent  it  from  being  accomplished.  When  the
 bending  of  the  limbs  had  been  too  long  delayed,  it  has  some-
 times been  necessarv  to  break  them.  To  avoid  this  uncomfor-
 
-<j
+ j
 
 table  eventuality,  one  may  see  those  attending  to  the  dying
 man  taking  his  hands  gently  and  bringing  them  near  to  his
@@ -9372,7 +9372,7 @@ Debez
 hakus
 
 
-N  3    <U
+N  3     U
 
 a)    1/5  pv.  x,
 
@@ -10108,7 +10108,7 @@ she  is  near.  Why  all  these  strange  customs  ?  One  of  the  expla-
 nations, (I  will  not  say  it  is  the  only  possible  one),  is  this :  this
 woman  having  been  obtained  with  my  oxen,  there  is  a  relation
 of  dependency  between  her  family  and  mine.  Mboza  says  :
-<c  Should  my  home  be  disturbed  by  quarrels,  should  my  wife
+ c  Should  my  home  be  disturbed  by  quarrels,  should  my  wife
 Nsabula  leave  me  and  run  away  to  her  parents,  or  should  she  die
 without  children,  I  shall  go  and  claim  my  oxen...  But  the  oxen
 have  been  employed  to  buy  a  wife  for  my  brother-in-law,  Ma-
@@ -10132,7 +10132,7 @@ Let  us  call  him  Mbekwra.  He  gives  him  two  hoes  and  says  :
 "  We  have  brought  your  mukofiwana  (Mboza)  because  we  have
 had  a  sad  affair  (hi  humele)  ".  Mbek\va  asks  Mboza :  "  How  many
 hoes  did  you  pay  for  your  deceased  wife  "  ?  -  "  Fifty  ",  says
-Mboza.  -  <e  Well,  we  have  received  from  Gogwe  only  thirty
+Mboza.  -   e  Well,  we  have  received  from  Gogwe  only  thirty
 as  yet  for  Maphunga  "  !  Gogwe  acknowledges  that  it  is  so.
 
 
@@ -11935,7 +11935,7 @@ sati)  ".     The  favourite  will  make  haste  to  report  to  her  superior
 what  she  has  heard.    She  will  make  her  notice  that  the  husband
 calls  at  her  hut  more  frequently  than  at  the  others...     The  su-
 perior becomes  angry  and  people  will  say  of  the  husband  :  "  A
-ni   gudjulisana,  a  ni  bandjisana  ",  <f  he  makes  his    wives   hit
+ni   gudjulisana,  a  ni  bandjisana  ",   f  he  makes  his    wives   hit
 against  each  other  ".     He  himself,  after  a  time,  will  try  to  regain
 the  goodwill  of  the   despised  one  (a  ta  mu  batela).     She  will
 violently  repel   him.     He  may  even  kill    a   chicken  to   bring
@@ -12610,7 +12610,7 @@ of  building  will  be  stopped  at  once  and  the  little  community
 will  find  another  place  to  which  to  move  !  Moreover  the
 guilty  woman  will  have  to  ask  the  principal  wife  for  forgiv-
 eness. 2)  A  second  great  taboo  is  this  :  —  No  one  must  wash
-his  body  during  the  whole  <e  buhlapfa  ",  as  this  might  cause
+his  body  during  the  whole   e  buhlapfa  ",  as  this  might  cause
 the  rain  to  fall  and  it  would  interfere  with  the  building  opera-
 tions.
 
@@ -13862,7 +13862,7 @@ as  amongst  the  Ba-Suto.  So  Magugu,  the  wife  of  Spoon,  became
 
 Mamana  wa  Modjadju,  especially  when  spoken  of  in  the  third
 person.  The  names  which  are  the  most  taboo  are  those  of
-the  mother-in-law,  and  of  the  <c  woman  bought  with  my  oxen  ".
+the  mother-in-law,  and  of  the   c  woman  bought  with  my  oxen  ".
 Speaking  of  a  deceased  person,  one  puts  before  his  name  the
 expression  "  Matjuwa  ",  which  corresponds  to  our  :  "  late  ".
 
@@ -13946,7 +13946,7 @@ comes  to  them,  inquiring  who  they  are,  whence  they  come,
 
 3^3
 
-where  they  are  going,  and  asks  them  :  <c  Do  you  wish  to  spend
+where  they  are  going,  and  asks  them  :   c  Do  you  wish  to  spend
 the  night  here?"  If  they  say:  ''Yes",  the  headman  will
 empty  one  of  his  huts  by  putting  two  of  his  wives  together,
 and  will  himself  sleep  with  the  visitors.  Should  there  still  be
@@ -14909,7 +14909,7 @@ of  blood  royal,  rush  one  after  the  other  into  the  enclosure
 brandishing  their  weapons,  jumping  as  high  as  they  possibly  can,
 imitating  acts  of  prowess  on  the  battle  field  and  simulating  the
 transfixion  of  their  enemies.  The  gila  continues  until  the  cry
-is  heard  :  <c  Ye-yi,  ye-yi,  ye-yi.  '  This  murmuring  sound
+is  heard  :   c  Ye-yi,  ye-yi,  ye-yi.  '  This  murmuring  sound
 coming  from  the  whole  army,  marks  the  end  of  the  jumping
 and  all  reform  into  line.  All  the  shields  must  no\v  touch  one
 another,  forming  an  immense  unbroken  circle,  and  then  comes
@@ -15101,7 +15101,7 @@ address  himself  directly  to  the  chief  but  made  his  entry  through
 the  Matjolo  Counsellor  in  charge  of  Mpfumo  affairs,  whose  name
 was  Mambene.  The  request  was  made  thus:  "We  have  come
 to  ask  our  kokwana,  (that  is  to  say  our  relative  on  the  mother's
-side  p.  221)  in  marriage."  -  l<It  is  well",  replied  Sigaole,  when
+side  p.  221)  in  marriage."  -  l It  is  well",  replied  Sigaole,  when
 Mambene  has  transmitted  to  him  the  honourable  proposal.  -
 "Go  home  again,  thou  shalt  come  for  our  reply".  A  meeting
 of  the  members  of  the  Matjolo  royal  family  was  then  convened,
@@ -15317,7 +15317,7 @@ it  is  probable  that,  in  former  times,  the  regal  paraphernalia  of
 the  Thonga  chiefs  were  more  brillant  than  now7,  these  are  mani-
 fest exaggerations,  such  as  are  often  met  with  in  the  tales  of  the
 old  explorers,  but  there  is  nevertheless  a  good  deal  of  truth  in
-these  accounts.  <c  Royalty  ",  in  the  mind  of  the  native,  is  a  vene-
+these  accounts.   c  Royalty  ",  in  the  mind  of  the  native,  is  a  vene-
 rable and  sacred  institution  ;  respect  for  the  Chief,  and  obedience
 to  his  commands  are  universal  :  his  prestige  is  maintained,  not
 
@@ -15972,7 +15972,7 @@ tal, and  the  sour  liquor  thus  obtained  is  poured  out  on  the  tomb
 of  the  deceased  chiefs  in  the  sacred  wood  ;  they  are  invoked  to
 bless  this  new  year  and  the  feast  which  is  about  to  be  cele-
 brated. Nkolele,  the  sub-chief  of  Libombo,  used  on  this  occa-
-sion to  pronounce  the  following  prayer  :  <c  This  is  the  new  year
+sion to  pronounce  the  following  prayer  :   c  This  is  the  new  year
 Let  us  not  kill  each  other  !  Let  us  eat  peacefully  !  (Hi  yo
 nguba  !  Hi  nga  dlayane  !  A  hi  nwenen  ha  hombe  !)"  Here
 is  another  formula  :  c;  May  this  bukanyi  do  no  harm  !  May
@@ -19650,7 +19650,7 @@ But  some  other  rites,  especially  the  war  taboos,  seem  to  owe  their
 origin  to  the  idea  of  passage.
 
 The  whole  clan  enters  a  special  phase  as  soon  as  war  has  been  deci  -
-<led  upon  by  the  chief,  "  who  gives  it  "  to  his  warriors.  Hence  the
+ led  upon  by  the  chief,  "  who  gives  it  "  to  his  warriors.  Hence  the
 taboos  observed  at  home,  many  of  which  are  exactly  the  same  as
 those  of  the  circumcision  school  and  of  the  period  of  mourning.  We
 notice  the  same  contrast  already  so  often  mentioned  :  certain  sexual
@@ -20293,7 +20293,7 @@ o  JH  JS
 
 
 u
-<D
+ D
 
 O
 CJ
@@ -20535,7 +20535,7 @@ _                                                                         oS(Uo5
 
 K    >»   SSl    8         >I>1      111  -s  b
 
-Jeorjo!            g^p^^i                           OSOSG                  .-Ol^rH  <U  J-
+Jeorjo!            g^p^^i                           OSOSG                  .-Ol^rH   U  J-
 
 P^O'V           Ct!^           ^  ^'        ^^3^^^         T3«*-U3-g  X  T3
 
@@ -21043,7 +21043,7 @@ _£
 
 **   C
 
-M<ti(ACApCcA*(/)O
+M ti(ACApCcA*(/)O
 
 •£}                                  b£
 
@@ -21243,7 +21243,7 @@ C
 
 C  ^£
 
-<u
+ u
 
 O
 
@@ -21489,7 +21489,7 @@ py and  expressed  his  contentment  by  the  exclamation  ;  "Nxoko"
 (x  here  denotes  a  peculiar  click  of  the  tongue  against  the  cheek).  This
 interjection  was  received  with  favour  and  he  employed  it  henceforth
 to  manifest  his  pleasure  on  other  occasions.  He  even  made  a  regular
-verb  of  it,  saying:  <c  I  go  to  nxokela  in  such  and  such  a  place  ",  viz.
+verb  of  it,  saying:   c  I  go  to  nxokela  in  such  and  such  a  place  ",  viz.
 °r'  to  enjoy  myself  there  ".  The  word  was  so  taking  that  he  was  na-
 med after  it,  and  I  should  not  be  surprised  if  it  were  incorporated  into
 the  current  language,  which  is  enriched  every  day  by  ntw  descriptive
@@ -21821,7 +21821,7 @@ the  Mazwaya  army  assembled  and  prepared  to  defend  its  chief.  The
 .and  Ngwanazi,  chief  of  Maputju,  to  help  against  the  rebels.  Nwamanti-
 byane, after  long  hesitation,  refused  the  call  (See  Appendix  VIII).
 The  Maputju  warriors  came  as  far  as  the  Tembe  shore,  but,  when  ask-
-<ed  to  cross  the  bay,  they  decamped.  For  some  weeks  the  Native
+ ed  to  cross  the  bay,  they  decamped.  For  some  weeks  the  Native
 yimpis  were  the  masters  of  the  whole  country,  up  to  the  boundary  of
 the  town  of  Lourenco  Marques.  But  Portuguese  troops  soon  arrived
 from  Lisbon  and  retook  Hangwana,  (lomilesfromtown),  inDecember.

@@ -7664,7 +7664,7 @@ treasures 2, plentiful by itself, for the sake of pros-
 perity and wealth %.
 
 11. Letting go (the sacrificial food to the gods)
-Sactince <by..tnyselt, to. the gods,.O tree * May?
+Sactince  by..tnyselt, to. the gods,.O tree * May?
 Agni make the offerings ready *, the god among the
 gods, the wise one.
 
@@ -19930,7 +19930,7 @@ cows and two fallow steeds, harnessed and well-
 yoked, to Tryaruza grant thy protection, Agni Vais-
 vanara, who art highly praised and grown strong.
 
-3 Thus,O Acni,<desirine thy favour’, Irasa-
+3 Thus,O Acni, desirine thy favour’, Irasa-
 dasyu. {(sinas) for the ninth time +. to, ftiee the
 youngest (god)—Tryaruza who responds to my, the
 strong-born’s, many hymns with (the gift of) a yoked
@@ -21368,7 +21368,7 @@ V, 28, 6; pra-yaf devébhyaA,
 that the gods may come forth,
 I, 142, 6; éti pra, 1, 144,.17;—
 na prati-itaye, not to be with-
-stood, I, 36, <o;—sam_ yanti,
+stood, I, 36,  o;—sam_ yanti,
 come together, 1,37, ro; see
 sam-yat.
 

@@ -1358,7 +1358,7 @@ locality  which  each  of  them  inhabits.  Thus,  for  examj^le,
 the  natives  living  at  Idracowra,  as  the  white  men  call  it,  will
 be  called  crtwa  Iturkawura  opmira,  which  means  men  of  the
 Iturkawura  camp  ;  those  living  at  Henbury  on  the  Finke
-will  be  called  erti<.<a  Waiugakauia  opmira,  which  means  men
+will  be  called  erti<. a  Waiugakauia  opmira,  which  means  men
 of  the  Waingakama  (Henbury)  camp.  Often  also  a  number
 of  .separate  groups  occup}-ing  a  larger  district  will  be  spoken
 of  collectively  by  one  name,  as,  for  example,  the  groups  living
@@ -3290,7 +3290,7 @@ is  exactly  what  totems  intermarry.  Whilst  the  intermarriage  of  the  tot
 described  is  correct  .so  far  as  it  goes,  further  investigation  may  reveal  the  fact  that.
 for  example,  a  man  of  the  crow  totem  may  marry  women  of  other  totems  besides
 the  cicada.  This,  however,  will  not  aff'ect  the  validity  (jf  the  tables  and  genea-
-logical tree  now  given.  The  fundamental  fact  is  that  men  <jf  one  moiety  of  the
+logical tree  now  given.  The  fundamental  fact  is  that  men   jf  one  moiety  of  the
 tribe  must  marry  women  of  the  other.
 
 
@@ -4228,7 +4228,7 @@ Ikuntera  dies,  it  is  my  duty  to  cut  my  shoulders  with  a  stone
 knife  as  a  mark  of  sorrow.  If  I  neglect  to  do  this,  then  any
 one  of  the  men  who  are  Ikuntera  to  me  has  the  right  to  take
 away  my  wife  and  give  her  to  some  other  man  to  whom  she
-is  VnaiK.<a.  I  have  not  only,  supposing  it  to  be  the  actual
+is  VnaiK. a.  I  have  not  only,  supposing  it  to  be  the  actual
 father  of  my  wife  who  has  died,  neglected  to  do  my  duty  to
 him,  but  I  have  offended  the  group  collectively,  and  any
 member  of  that  group  may  punish  me.  Again,  if  I  am  out
@@ -7053,7 +7053,7 @@ is  typical  of  tribes  which  occupy  an  area  extending  north  and
 .south   for  some  800  miles,  and    east   and  west  for  perhaps
 
 '  The  organisation  of  the  Dieri  tribe,  as  well  as  its  marriage  customs,  have  been
-(lescribe<l  by  Mr.  Hewitt  in  his  monograph  "On  the  Organisation  of  Australian
+(lescribe l  by  Mr.  Hewitt  in  his  monograph  "On  the  Organisation  of  Australian
 Tribes,"  Trans.  J\.  S.  Vict.,  vol.  i.,  pt.  2,  1889.,  p.  124,  which  may  be  regarded
 as  embodying  generally  our  knowledge  of  the  organisation  of  Australian  tribes  up
 to  the  present  day.
@@ -8786,7 +8786,7 @@ descends  to  an  elder  brother,  and  if  she  ha\e  no  younger
 brother-in-blood,  then  the  men  who  stand  in  the  relationship
 of  Oknia  (blood  and  tribal  fathers)  and  Aniiiga  (blood  and
 tribal  grandfathers)  decide  upon  some  man  younger  than
-herself,  standing  to  her  in  the  relationship  <jf  Witia — that  is
+herself,  standing  to  her  in  the  relationship   jf  Witia — that  is
 blood  or  tribal  younger  brother — and  t(j  him  the  charge  of  the
 Churinga  is  given.
 
@@ -9204,7 +9204,7 @@ party  took  u[)  the  bundle  of  Churinga  and  deposited  it  on
 the  lajj  (jf  the  Alatunja,  who  took  it  up,  rubbed  it  several
 times  against  his  stomach  and  thighs,  and  then  against  those
 of  the  older  men  who  were  sitting  beside  him.  The  object
-of  this  rubbing  is,  so  the  natives  say,  to  untie  their  b<jwels,
+of  this  rubbing  is,  so  the  natives  say,  to  untie  their  b jwels,
 which  become  tightened  and   tied   up  in   knots  as  a  result  of
 
 
@@ -9331,7 +9331,7 @@ There  is  howexer  one  notable  e.xcejition  to  the  restrictions
 upon  eating,  and  this  is  concerned  with  the  Achilpa  or  wild
 cat '  totem.  Onl\-  a  \er\-  little  of  this  is  allowed  to  be  eaten,
 and  that  onl\-  b_\-  the  old  people;  but  in  this  case  the  restriction
-is  n<jt  confined  to  the  members  of  the  totem,  but  is  of  universal
+is  n jt  confined  to  the  members  of  the  totem,  but  is  of  universal
 application,  appl)-ing  to  e\er}-  member  of  the  tribe.  There  is
 no  similar  restriction  appl}'ing  to  an)-  other  animal  or  plant,
 but,  in  the  case  of  Achilpa,  there  are  reasons  given  for  not
@@ -9583,7 +9583,7 @@ There  are  altogether  some  ten  of  these   Ilthura,  in  each
 one    of  which    is   a   Clinri)tga  uchaijua,  and    each   lltlnira   is
 
 
-26.  — kriJiiINc;  TIIF.  STOM.\Cll  Willi  IllK  (  lUKINC.A  l<H.\<jrA  Dl'KINc;
+26.  — kriJiiINc;  TIIF.  STOM.\Cll  Willi  IllK  (  lUKINC.A  l H.\ jrA  Dl'KINc;
 IHE  INT1CHII'.M.\  CEREMONY  OK  THE  WITCHETTY  CKL'B  TOTEM.  THE
 MEN    ARE    SITTINC;    IN    ONE    OK    THE    II.THIRA.
 
@@ -10790,7 +10790,7 @@ example,  in  the  witchetty  grub  totem,  while  the  members  of
 the    latter  do  not  cat  it,  or,  at  least,  only  sparingl)-  them-
 
 '  The  people  of  the  emu  totem  very  rarely  eat  the  eggs,  unless  very  hungry  and
-sh<irt  of  food,  in  which  case  they  would  eat,  but  not  too  abundantly.  If  an  emu
+sh irt  of  food,  in  which  case  they  would  eat,  but  not  too  abundantly.  If  an  emu
 man  found  a  nest  of  eggs,  and  was  very  hungry,  he  might  cook  one,  but  he  would
 take  the  remainder  in  to  camp  and  distribute  them.  If  he  were  not  very  hungry
 all  the  eggs  would  be  distributed.  The  flesh  of  the  bird  may  be  eaten  sparingly,
@@ -12004,7 +12004,7 @@ and  in  addition  to  them,  another  man  was  selected,  whose
 dut}'  it  was  to  hold  up  the  shield  upon  which  the  bo)'  was
 seated  during  the  operation,  this  man  bcinij^  known  by  the
 name  of  ElucJia.  The  conversation  was  carried  on  in
-whispers,  the  men  when  speakin<T,  placint,^  their  mouths
+whispers,  the  men  when  speakin T,  placint,^  their  mouths
 close  to,  each  other's  ears.  While  this  consultation  was  in
 progress,  the  other  men  sitting  close  to  the  brake  sang
 in  fierce  loud  tones,  the  Lartiia  song — "  Irriyulta  ynlta
@@ -14039,7 +14039,7 @@ Kit;.  46. — I'LAN    OF    THK    E.NGWURA    GROUND.
 A,  Storing  place  of  Clniringa  of  the  I'anvinga  and  Rulthara  ;  H,  .storing  ]ilace  of  Ciiiir-
 inga  of  the  rurula  and  Kuniara  ;  C,  spot  where  the  I'anunga  and  HuUliara
 women  stood  when  tlirowing  lire  over  the  Illpoiti^vitrra  :  I),  spot  where  the
-Purula  and  Kuniara  women  stood  when  throwing  fire  over  the  ////<oiit^uiiirra ;
+Purula  and  Kuniara  women  stood  when  throwing  fire  over  the  //// oiit^uiiirra ;
 r,  the  position  of  the  Parra  mound  ;   K,  the  ])osition  of  the  A'<?«(7//(?.
 
 
@@ -14597,7 +14597,7 @@ Alatunja  of  Alice  Springs  at  once  went  over  to  where  he  sat
 and  began  to  decorate  his  head.  Twigs  of  a  species  of
 Cassia  were  fixed  on  to  the  top  of  his  head  enclosing  his  hair,
 which  was  gathered  into  a  bunch  so  as  to  form,  with  the
-twicis,  a  lon<j  rounded  structure  about  two  and  a  half  feet  in
+twicis,  a  lon j  rounded  structure  about  two  and  a  half  feet  in
 length,  projecting  ui:)\\ards  and  slightl\-  backwards  on  the  top
 of  his  head.  The  twigs  were  bound  round  and  round  with
 hair  string.  The  Alatunja  of  the  Undoolya  group,  who  was
@@ -15328,7 +15328,7 @@ Range,  and  crossed   this  so   as  to   reach   a  spot   now    called
 Tempe    Downs,  where   the}'   formed  an   Oknanikilla.      Then
 following   this  to   its  junction   with   the    Palmer  the}-  went  a
 little  wa}'  up  the  latter,  and,  together  with  their  Jl'aninga,  they
-ceased   from   wandering,   and  went  down    into  a   well-kn<n\n
+ceased   from   wandering,   and  went  down    into  a   well-kn n\n
 water-hole    called    Illara,    where    thc}^    stayed,    forming    an
 important  Oknanikilla  of  the  kangaroo  totem.     The  import-
 ance   of   the    traditions    relating    to    the    wanderings  of    the
@@ -16049,7 +16049,7 @@ man  of  the  kantraroo  totem.     Each  man  wore,  fixed  into  his
 in;.  65.— CEREMONY    KKl'RESEMINi;     TWO   OKINC  HA    OV    KIM-I-AKKA.
 
 head-dress,  four  Churinga.  while  his  bocl\-  was  decorated  with
-'  Leipoa  occllata,  the  ni(iun<l  liinl.
+'  Leipoa  occllata,  the  ni(iun l  liinl.
 
 
 INITIATION    CEREMONIES
@@ -16715,7 +16715,7 @@ followed,  as  the}'  did  so,  by  those  of  the  first,  and  here  the
 same  performance  was  again  gone  through.  Sudden ]}■  once
 more  the  men  wheeled  round  and,  followed  by  both  parties  of
 women  who  were  now  throwing  fire  more  vigorously  than
-ever,  they  ran  in  a  bod}'  towards  the  river.  On  the  edge  <jf
+ever,  they  ran  in  a  bod}'  towards  the  river.  On  the  edge   jf
 the  bank  the  women  stopped,  turned  round  and  ran  back,
 shouting  as  the}'  did  so,  to  their  camp.  The  Illpongzi'urra
 crossed  the  river  bed  and  then  ran  on  to  the  Engwura  ground
@@ -17686,7 +17686,7 @@ complete.  Then,  ha\ing  shouted  across  to  the  women  that  all
 was  read}',  the  leader  of  the  I'^ngwura  went  and  broke  through
 the  middle  of  the  Farm,  and  then  through  the  line  of  boughs.
 Each  of  the  ab-moara  men  then  led  his  protege's  round  the
-Pnna,  all  singing  out  ''  zv/in\u<hrr,''  as  the)'  ran  round  for  the
+Pnna,  all  singing  out  ''  zv/in\u hrr,''  as  the)'  ran  round  for  the
 last  time.  When  all  had  been  round,  the  men  grouped
 themselves  at  the  base  of  the  Kaiiaun,^  and  then,  in  perfect
 silence,  the  whole  party  walked  in  single  file  through  the  break
@@ -18800,7 +18800,7 @@ Ulpinerka  would  have  been  drowned  in  them  if  they  had  not
 TRADITIONS  AS  TO  ALCHERINGA  ANXESTORS       405
 
 
-<quickly  gone  into  the  ground  and  so  made  their  escape.  They
+ quickly  gone  into  the  ground  and  so  made  their  escape.  They
 emerged  at  IncharHnga  on  the  Stirling  Creek,  where  they
 performed  ceremonies,  and  from  here  Kukaitcha  led  them
 right  away  north  to  the  country  of  the  salt  water.
@@ -18841,7 +18841,7 @@ and  sacred  ceremonies  which  she  showed  to  the  Achilpa.
 This  woman  had  arisen  in  this  spot.  Then  they  tra\elled  to
 Ooraminna,  where  they  made  an  Engwura  and  discovered
 a  number  of  men  who  were  suffering  from  liykincha — a
-<lisease  common  amongst  the  natives  and  concerning  which
+ lisease  common  amongst  the  natives  and  concerning  which
 
 
 4o6  NATIVE  TRIBES  OF  CENTRAL  AUSTRALIA       chap.
@@ -21128,7 +21128,7 @@ the  women  along  with  the  ceremony  itself
 
 In  the  Central  Australian  tribes  for  example,  the  rite  has
 ■ceased  to  hold  the  importance  which  it  still  retains,  or  rather
-<lid  until  the  advent  of  the  white  man  and  their  consequent
+ lid  until  the  advent  of  the  white  man  and  their  consequent
 •extinction,  amongst  the  tribes  of  the  eastern  coastal  district.
 In  the  former  it  has  given  place  to  a  new  and  presumably
 more  recently  developed  form  of  initiation  ceremony — that  of
@@ -27882,7 +27882,7 @@ The  top  of  the  helmet  is  often  further  decorated  with  a  bunch
 of  eag-le-hawk  feathers,  or,  as  in    one   corrobboree,  a    semi-
 
 
-FIG.     1 2i).— DECORATIONS    USED    DURING     A     K.\I.N      l).\.\i  I.      <jK    '  .  iRROBBOREE,
+FIG.     1 2i).— DECORATIONS    USED    DURING     A     K.\I.N      l).\.\i  I.       jK    '  .  iRROBBOREE,
 
 ARUNTA   TRIBE.
 

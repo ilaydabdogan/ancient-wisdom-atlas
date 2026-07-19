@@ -17966,7 +17966,7 @@ Empress, saying :—‘‘ This evening the deer does not bell.
 Wherefore is this?” ‘The next day, a Saheki Be of the
 district of Wina presented a basket. The Emperor caused a
 steward to make inquiry of him, saying:—‘‘ What is this
-basket?” The answer was, “A buck.” He inquired—“<A
+basket?” The answer was, “A buck.” He inquired—“ A
 deer of what place?” and was told, “‘Of Toga moor.” The
 Emperor. considered that this basket’ must be the deer which
 
@@ -20822,7 +20822,7 @@ A.D. 400, and we are now at 458.
 Z 2
 
 
-EXCL VE <FOr
+EXCL VE  FOr
 
 
 SAV it.

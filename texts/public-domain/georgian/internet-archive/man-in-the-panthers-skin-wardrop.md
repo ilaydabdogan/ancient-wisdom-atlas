@@ -1471,7 +1471,7 @@ panther associated with Avt’handil as well as Tariel. 57.
 
 
 2 Spaspeti (P.). 1240. 3 Amir-spasalari (P.).
-4 Ch., misokalisa; Kart., mis okalisa; Car., mis sokalisa. <A
+4 Ch., misokalisa; Kart., mis okalisa; Car., mis sokalisa.  A
 difficult quatrain.
 
 
@@ -4007,7 +4007,7 @@ then courtiers came to conduct me, they told me the king’s
 command; he said: ‘Son Tariel, wear mourning no
 longer!
 
-325. ‘‘<We are even more grieved (than thou) at the loss of
+325. ‘‘ We are even more grieved (than thou) at the loss of
 our peer.’ He gave a hundred treasures, and commanded
 that I should put off my black (raiment). He gave me all
 the lordship” that had belonged to (my father). ‘Thou
@@ -4469,7 +4469,7 @@ come. Joy lightened my darkness; she loosened my
 chains. I went, I took the slave, I spoke not at all with
 him.°
 
-879. “<I entered the garden ; I met none to speak to me (?).
+879. “ I entered the garden ; I met none to speak to me (?).
 The maid met me merry, smiling; she said: ‘I have
 bravely* extracted the thorn from thy heart, it 1s no longer
 therein ; come and see thy rose unfaded, unwithered.’
@@ -12162,7 +12162,7 @@ up in me. I guessed, I recognized every sign of (her who
 is my) life ;* this gave me a little comfort, like a drama’s
 weight.
 
-1215. ‘<I laid hold of that slave and set him close before
+1215. ‘ I laid hold of that slave and set him close before
 me. lasked him: ‘ Tell me what thou wert saying; I, too,
 wish to hear.’ He told me again the same as I had heard
 thence (i.e., from my hiding-place). This story enlivened
@@ -12389,7 +12389,7 @@ caravan; I am the Commander-in-Chief? of the exalted
 king Rostevan, chief of the great host befitting him ;? I
 have the mastery‘ over many treasuries and arsenals.—®
 
-1241. “<I know thee® to be a good friend, faithful, trusty.
+1241. “ I know thee® to be a good friend, faithful, trusty.
 —He has one daughter, a sun the enlightener of lands;
 she it is who consumes me and melts me; she sent me,
 I forsook my master, her father.

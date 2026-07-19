@@ -1324,7 +1324,7 @@ tion is  not  finished  with  Sutra  5.  If  we  accept  this  explanation
 1  flij^irrifa^nqiHUW   ^  f^Tf^fff  HR^(  II  M  II    H^xreS    ^
 
 *iijr  ^r  ftr^^ra^fa  1  ^-^h  ^  ^  f^wtfi^tf  sNfarg:  11  ^  11
-•n^r^T  Tm%«rf  f^ri  *rUr*j rMsiri  ufa^  1  ^t  ^  Jnf*nw  ^**h<raT-
+•n^r^T  Tm%«rf  f^ri  *rUr*j rMsiri  ufa^  1  ^t  ^  Jnf*nw  ^**h raT-
 stt*t  ^nft^v:  11  $  11  ^r*TTftr  ^reranr  ^t  Ti*p*rni  ^Twuiini  H^lujmi
 ^t  j^tst  ^t  tf^criTOT  mfim  f  t^fiftfrr  n  t  n
 
@@ -1512,7 +1512,7 @@ also  in  the  Dharma-sutra  as  well  as  several  other  51okas  of
 1  Regarding  the  passage  of  Apastamba  II,  16,  I,  which  ascribes  the  revelation
 of  the  6raddhas  to  Manu,  see  below,  p.  lix.
 
-2  I  transcribe  the  whole  beginning  of  the  work,    W^T    *l«H«l<.<u*rTt    *<$Yc3
+2  I  transcribe  the  whole  beginning  of  the  work,    W^T    *l«H«l<. u*rTt    *<$Yc3
 
 *rJTT^  II  W  ^STTffR^I  ^TOf*^  ^TJ&tTH  (?)  ^«fl$N»fanre$r
 P^ff   ^  TOt  II  S^fnre  Tff^f>TWfaf^FT^TbT  S?  *N^ »      Thus
@@ -1847,7 +1847,7 @@ HTftn  fasroi  sn*nr  f  fa:  u  i$q  cr^qwfk:  fqTpsrrir  *m%:  \  tt^t
 
 SPTTWt  II
 
-8  Beginning  ^HT  ^f^tnt  ^TTOT^W  II  Colophon,  ^fft  *ll»iq<J^
+8  Beginning  ^HT  ^f^tnt  ^TTOT^W  II  Colophon,  ^fft  *ll»iq J^
 ^J^n^  II
 
 4  -^rcraTij^  ^RT§f^  fife:  iref*  11
@@ -2175,7 +2175,7 @@ Ya^r-veda  are  found  also  in  Northern  India.  I  have  also  heard  of  Vai
 the  Safna-veda  among  the  Parvatiyas  in  the  Panjab,  and  of  the  Atharva-veda
 in  the  Central  India  Agency.
 
-1  Bha«</arkar,  loc.  cit.  p.  132  note.
+1  Bha« /arkar,  loc.  cit.  p.  132  note.
 
 2  Pararara-smrz'ti-vyakhya,  p.  3,  ver.  7  (Calcutta  edition).
 
@@ -2823,7 +2823,7 @@ teaching  of  the  Veda4  and  of  Pra^apati.     That  the  cause  of
 (sic)  II  and  in  chapter  VI,  TO  ^WSTTTCJ  Stfftl  ^ftfT^nm  I   WJ^Bh
 
 Tq^tmfw  13:  ^rtf>j^te^ftf^  ir^ngfTitrifH  *c*Tfa  vi-jjow:  s^^
-ft:  i  TOTrafH<jffHT  *ftr*n^  *3tiNh(n  ^*j&  *  *pr*r**ro^-
+ft:  i  TOTrafH jffHT  *ftr*n^  *3tiNh(n  ^*j&  *  *pr*r**ro^-
 wjtsnrfi^ii
 
 2  Proceedings  of  the  American  Oriental  Society,  October,  1883,  p.  xix.
@@ -3025,7 +3025,7 @@ verses  which  announce  the  transition  from  one  subject  to
 the  other1,  a   considerable  number  of  smaller  and  some
 
 1  These  verses  probably  mark  the  subdivisions  of  the  Adhyayas,  the  Kawdikas
-or  Khatt</as  of  the  ancient  Sfitra.
+or  Khatt /as  of  the  ancient  Sfitra.
 
 
 INTRODUCTION.  lxvii
@@ -3482,7 +3482,7 @@ kings   belonging   to  the  Manava1 — reveals  a  greater  dis-
 
 1  Though  I  will  not  deny  that  some  show  of  argument  might  be  made  for
 the  supposition  that  the  Ra§adharmas  of  Manu  PnL£etasa  were  a  separate  work,
-different  from  the  <Sastra  referred  to  in  the  preceding  quotations,  because  the
+different  from  the   Sastra  referred  to  in  the  preceding  quotations,  because  the
 epithet  Pra/£etasa  is  here  added  to  Manu's  name,  and  because  at  Mah.  XII,  38,  2,
 we  find  Manu  Pra/£etasa  named  as  the  author  of  a  Ra^ajastra  in  company  with
 Br/haspati  and  ILranas,  to  whom  separate  Nitirastras  were  attributed,  I  yet  hold
@@ -6376,7 +6376,7 @@ The  fourth  work  on  our  list,  the  well-known  Manvartha-
 muktavali  of  Kullukabha^a,  the  son  of  Divakarabha^/a,  was
 considered  until  lately  the  most  trustworthy  guide  for  the
 exposition  of  Manu.  In  the  introductory  verses  to  his
-commentary  Kulluka  informs  us  that  he  was  a  Gau</a  or
+commentary  Kulluka  informs  us  that  he  was  a  Gau /a  or
 Bengali  by  birth,  his  father  residing  in  Nandana  in  Va-
 rendrt1,  and  that  he  wrote  his  work  at  Benares  with  the
 assistance  of  other  Vandits.  As  regards  his  times,  we  only
@@ -10248,7 +10248,7 @@ teacher.
 Gaut.  II,  10.     Instead  of  'while  (he  sleeps)  in  the  village'  (Medh.
 
 
-7<D  LAWS    OF    MANU.  II,  220.
+7 D  LAWS    OF    MANU.  II,  220.
 
 wear  his  hair  in  braids,  or  braid  one  lock  on  the
 crown  of  his  head  ;  the  sun  must  never  set  or  rise
@@ -10598,7 +10598,7 @@ daughter  of  a  paternal  aunt  or  with  the  paternal  grandfather's  sister'
 descendants  are  forbidden.  Maithune,  'for  conjugal  union'  (Medh.,
 Gov.,  Nar.),  means  according  to  Kull.  and  Ragh. '  for  the  holy  rites
 to  be  performed  by  the  husband  and  wife  together.'  Nand.  reads
-amaithuni, '  one  who  is  a  virgin.'  Regarding  the  term  Sapi«</a,  see
+amaithuni, '  one  who  is  a  virgin.'  Regarding  the  term  Sapi« /a,  see
 below,  V,  60.
 
 7.  Vi.  XXIV,  11;  Y&g%.  I,  54.
@@ -11667,7 +11667,7 @@ parka.  The  term  »Srotriya  refers  according  to  Medh.  to  a  Snataka
 or  to  an  officiating  priest,  according  to  others  quoted  by  him  to
 all  the  persons  mentioned  in  the  preceding  verse,  according  to
 Gov.,  Kull.,  Nar.,  and  Ragh.  to  a  Snataka.  The  latter  is  probably
-the  correct  opinion,  as  a  <Srotriya,  i.  e.  one  who  knows  a  whole
+the  correct  opinion,  as  a   Srotriya,  i.  e.  one  who  knows  a  whole
 recension  of  the  Veda,  must  be  a  Snataka.  Medh.  approves  of  the
 reading  ya^wakarma^y  upasthite.
 
@@ -14986,7 +14986,7 @@ a  eunuch/
 209.  Gov.  and  Kull.  give  as  an  instance  of  '  a  multitude,'  '  a  fra-
 ternity of  Brahmaraas  inhabiting  a  monastery.'
 
-210.  I  translate  baddhasya  niga</asya  ka.  according  to  Kull.  by
+210.  I  translate  baddhasya  niga /asya  ka.  according  to  Kull.  by
 '  one  bound  with  fetters/  because  in  the  older  Sanskrit  the  genitive
 is  occasionally  used  for  the  instrumental  with  passive  perfect  parti-
 
@@ -15264,7 +15264,7 @@ ones,  (himself)  becomes  most  distinguished ;  by  an]
 opposite  conduct  he  becomes  a  6udra.  ^X\
 
 246.  He  who  is  persevering,  gentle,  (and)  patient,    M
-shuns  the   company  of  men  of  cruel  conduct,  and<fX'
+shuns  the   company  of  men  of  cruel  conduct,  and fX'
 does  no  injury  (to  living  creatures),  gains,  if  he  con-  '
 stantly   lives   in   that    manner,  by    controlling    his
 organs  and  by  liberality,  heavenly  bliss.  ~ ™
@@ -16215,7 +16215,7 @@ such  as  the  Gavamayana.'  Brahmabhuta^,  'pure  like  Brahman'
 (Kull.,  Nar.,  Ragh.),  means  according  to  Medh.  '  they  have  reached
 Brahmahood.'
 
-95.  Nand.  and  K.  explain  <fimbha,  'in  a  riot,'  to  mean  'by  in-
+95.  Nand.  and  K.  explain   fimbha,  'in  a  riot,'  to  mean  'by  in-
 fants/ '  Whom  the  king  wishes  (to  be  pure)/  i.  e.  '  his  servants  and
 ministers  whom  he  wants  for  his  affairs.'  Nar.  inserts  another
 class, '  (the  kinsmen  of  those  who  have  been  killed)  by  Brahma^as,
@@ -18523,7 +18523,7 @@ duties  than  the  law  permits.'
 ground),'  (Gov.,  Nar.),  means  according  to  Kull. '  nor  is  dried  up.'
 Medh.  reads  /tyavate, '  falls  (on  the  ground),'  and  Nar.  prefers  that
 reading.  Nand.  explains  na  vyadhate  (sic)  by  '  is  not  spoilt  by  hairs
-or  insects  falling  into  it.'  Ragh.  takes  it,  like  Krzsh«apa«</ita  in  his
+or  insects  falling  into  it.'  Ragh.  takes  it,  like  Krzsh«apa« /ita  in  his
 comm.  on  Vas.  XXX,  7,  in  the  sense  of '  nor  causes  pain.'
 
 85.  Gaut.  V,  20  ;  Vi.  XCIII,  1-4.    Samam  phalam, '  the  ordinary
@@ -23825,7 +23825,7 @@ both  are  equal,  the  offspring  is  most  highly
 esteemed.
 
 35.  On  comparing   the  seed  and  the  receptacle
-(of  the  seed),  the  seed  is  declared  to  be  more  im-<A
+(of  the  seed),  the  seed  is  declared  to  be  more  im- A
 portant ;  for  the  offspring  of  all  created  beings  is
 marked  by  the  characteristics  of  the  seed.
 
@@ -25120,7 +25120,7 @@ have  equal  shares,  even  if  there  be  a  hundred  sons.
 ma«a  son  alone  receives  land,  given  to  his  father,  and  that  the
 -Sudra  son  receives  no  share  in  land,  if  there  is  other  property.
 
-154.  Hence  on  failure  of  other  sons  the  other  heirs,  the  Sapira</as
+154.  Hence  on  failure  of  other  sons  the  other  heirs,  the  Sapira /as
 (Medh.),  or  the  widow  and  the  rest  (Nar.),  shall  take  the  rest  of  the
 estate.  Nar.  adds  that  he  may  obtain  more  than  a  tenth,  if  his
 father  give  it  to  him.
@@ -25541,7 +25541,7 @@ the  next  heirs,  it  seems  certain  that  '  the  nearest'  here  meant  is
 '  the  nearest  Sapiw^a  or  relative  within  three  degrees.'  Practically
 the  proposed  translation  is  not  much  different  from  that  extracted
 by  Kull.  and  others  by  the  grammatically  inadmissible  expedient  of
-taking  sapi#</at  for  sapifldamadhyat,  '  among  the  Sapiw^as.'  The
+taking  sapi# /at  for  sapifldamadhyat,  '  among  the  Sapiw^as.'  The
 correctness  of  the  above  explanation  is  also  attested  by  the  closely
 allied  parallel  passage  of  Baudhayana  I,  n,  9-13,  the  first  Sutra  of
 
@@ -25620,7 +25620,7 @@ successive  heirs,  and  explains  Sakulya  by  Bandhu.
 
 Nand.,  whose  text  has  a  faulty  reading  sapi^arha^,  asserts
 that  pmda  (sapi«dfo  ?)  means  '  the  deceased,'  and  explains  the  first
-line  by  saying,  '  Always  to  him  who  is  the  Sapi«</a  nearest  to  the
+line  by  saying,  '  Always  to  him  who  is  the  Sapi« /a  nearest  to  the
 deceased  the  wealth,  the  estate,  shall  belong — the  repetition  (of  the
 word  tasya)  shows  the  successive  order.'  The  Sakulyas  are,  accord-
 ing to  him,  the  Samanodakas.  He  reads  sakulya^  syu^, '  Sakulyas
@@ -26078,7 +26078,7 @@ not  receive  the  honours,  e.  g.  in  saluting,  due  to  the  eldest  brothe
 (Medh.,  Kull.,  Nar.,  Ragh.).  The  insertion  of  the  words  '  an  eldest
 son's  additional'  before  '  share,'  is  made  on  the  authority  of  Medh.
 and  Kull.  '  Shall  be  punished,'  i.  e. '  by  reprimand  (vagdawdadhig-
-da#</abhyam)  or  by  a  fine  as  the  case  may  require'  (Medh.).
+da# /abhyam)  or  by  a  fine  as  the  case  may  require'  (Medh.).
 
 214.  Ap.  II,  14, 15 ;  Gaut.  XXVIII,  40;  Baudh.  II,  3,  38.    'Who
 
@@ -27082,7 +27082,7 @@ equally,  thus  (a  king)  who  supports  all  his  subjects,
 shall,  ever  untired,  restrain  thieves  both  in  his  own
 dominions  and  in  (tho§£-of)  0TrTersT~     Id  •    \\\b\C<
 
-313.  Let  him-<no1:,  though  fallen  into  the  deepest   j
+313.  Let  him- no1:,  though  fallen  into  the  deepest   j
 distress,  provoke   Brahma^as   to  anger  ;  JoH-they^  ~ft
 
 308.  Nand.  reads  the  first  line  differently,  Varutfenapi  parais  £a
@@ -27137,7 +27137,7 @@ property'  (Medh.,  Nar.),  or  '  treating  them  with  contumely'  (Medh.).
 Nar.  point  out,  in  the  section  of  the  Mahabharata,  called  Moksha-
 dharmaA  XII,  344,  55,  57-58,  60-61.  There  it  is  said  that  Bhrzgu
 made  the  fire  consume  all  things,  that  the  moon  became  '  con-
-sumptive' in  consequence  of  the  curse  of  Daksha,  and  that  Va</ava-
+sumptive' in  consequence  of  the  curse  of  Daksha,  and  that  Va /ava-
 mukha  made  the  ocean  salt  in  punishment  for  his  disobedience.
 
 315.  This  verse  also  contains  allusions  to  the  Mahabharata.
@@ -27785,7 +27785,7 @@ understand  in  the  second  line  with  '  from  a  Vaidehaka,'  the  words
 takes  the  words  ete  traya^,  'those  three,'  in  the  sense  of 'the  following
 three  other  races/ assumes  of  course  that  the  mothers  ofKaravaras,
 Medas,  and  Andhras  are  Ayogava  females.  The  latter  two  '  castes '
-are  the  well-known  nations  inhabiting  Meva</  (Medapa/a)  in  south-
+are  the  well-known  nations  inhabiting  Meva /  (Medapa/a)  in  south-
 eastern Ra^putana,  and  the  eastern  Dekkan.
 
 38.  Ragh.  and  Nand.  read  Paulkasa  instead  of  Pukkasa.  Mula-
@@ -27835,7 +27835,7 @@ towards  Brahma^as,'  instead  of  brahmawadan-anena, '  by  not  con-
 sulting Brahmawas'  (Kull.,  Nar.,  Nand.,  Ragh.,  K.).
 
 44.  Instead  of  Pau«^rakas  (Kull.),  Medh.,  Nar.,  Nand.,  and  K.
-read  Pu#</rakas,  and  Gov.  Pauw^rakas.  My  reading  J£oda.s  is  a
+read  Pu# /rakas,  and  Gov.  Pauw^rakas.  My  reading  J£oda.s  is  a
 correction  of  Komdia,  which  is  found  in  some  MSS.  of  Medh.  and
 in  K.  We  have  plainly  ^Tola  in  Nand.,  while  some  MSS.  of  Medh.
 and  Gov.  read  Jfamdm  or  Kamdva,  and  the  editions  give  JZaudra.
@@ -30548,7 +30548,7 @@ agrees  with  Vish/m's  text.
 175.  Vi.  LIII,  4  ;  Yagn.  Ill,  291.     Nar.  says  that  the  vei
 refers  to  an  unintentional  offence.
 
-176.  Vas.  XXIII,  41;  Baudh.  II,  4, 13-14;  Vi.  LIII,  5-6.  <Vei
+176.  Vas.  XXIII,  41;  Baudh.  II,  4, 13-14;  Vi.  LIII,  5-6.   Vei
 low  caste,'  i.  e.  '  Mle^/^as  or  barbarians,  -Sabaras  and  so  fortl
 (Medh.,  Gov.,  Kull.),  or  <  Sutas  and  the  like '  (Nar.),  or  '  Gavam
 

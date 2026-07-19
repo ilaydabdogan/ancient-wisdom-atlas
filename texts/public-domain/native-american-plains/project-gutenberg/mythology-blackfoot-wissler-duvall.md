@@ -739,7 +739,7 @@ or spider-like qualities attributed to Nih*a"<^a"," ^ applies equally well to
 
 » Thompson River Indian Traditions, p. 7.
 
-2 George A. Dorsey an<l Alfred L. Kroeber Traditions of the Arapaho. (Field Columbian
+2 George A. Dorsey an l Alfred L. Kroeber Traditions of the Arapaho. (Field Columbian
 Museum Publication 81. 1903. footnote, p. 7).
 
 
@@ -1818,7 +1818,7 @@ When the women came back they said, "We cannot find the meat. The
 eaten it."
 
 "Oh," said Old Man, "while you were gone, I got an antelope. It is
-<x)oking in the pot. Now be careful; don't wake the babies. I shall go
+ x)oking in the pot. Now be careful; don't wake the babies. I shall go
 after some wood." So Old Man went out, gathered a pile of wood, and
 blocked the door with it. Then he called out to the women, "Your babies
 are cooking in the pot."
@@ -1834,7 +1834,7 @@ While they were crying. Old Man came out of another hole, disguised
 
 1 Similar tales are known to the Arapaho (Dorsey and Kroeber, op. cit., pp. 107-111).
 The Gros Ventre version is similar only in the main incident of the mice dancing in the skull
-<Kroeber, op. cit., p. 68). The Arikara have a similar tale (Dorsey, op. cit., p. 137).
+ Kroeber, op. cit., p. 68). The Arikara have a similar tale (Dorsey, op. cit., p. 137).
 
 > This incident is found among the Gros Ventre (Kroeber, op. cit., p. 71).
 
@@ -3887,7 +3887,7 @@ He said nothing. As time went on he became very fond of the young
 beaver and played with him every evening.
 
 
-1 He<orded by Dr. R. H. Lowie.
+1 He orded by Dr. R. H. Lowie.
 
 
 76 Anthropologiccd Papers American Museum of Natural History. [VoL II,
@@ -6006,7 +6006,7 @@ up one leg, and he thought to himself, "He is doing some fancy dancing."
 So he, also, danced in the same way. Now the father observed that there
 were two calves giving the sign, and realized that he must make a guess,
 lie did so, but the guess was wrong. Immediately the herd nished upon
-the man and tram])le<l him into the dust. Then they all ran away except
+the man and tram])le l him into the dust. Then they all ran away except
 the calf-bov, his mother, and an old bull.
 
 
@@ -7598,7 +7598,7 @@ hard.
 
 
 > A part of this tale appears in a conglomerate Sun and Moon Myth recorded by Grinnell
-<Journal of American Folk-I.ore, Vol. VI, p. 46). There is also a slight resemblance to an
+ Journal of American Folk-I.ore, Vol. VI, p. 46). There is also a slight resemblance to an
 Arapaho narrative, Dorsej' and Kroeber, op. cit., p. 441.
 
 

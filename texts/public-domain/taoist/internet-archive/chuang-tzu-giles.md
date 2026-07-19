@@ -305,7 +305,7 @@ L^
 viii  CJuuDi^r  Tzit
 
 
-<b
+ b
 
 
 7  Keep    behind,    and    you  shall    be   put    In    front.
@@ -2281,7 +2281,7 @@ up,  he  would  not  feel  hot.     Were  the  Milky  Way
 28  Chuang-  Tzil
 
 
-<b
+ b
 
 
 frozen  hard,  he  would  not  feel  cold.  Were  the
@@ -2331,7 +2331,7 @@ separated  by  a  chasm  of  some  two  thousand  years.
 Confucius  is  here  evidently  dealing  with  the  actual
 doctrines  of  Lao  Tzu.
 
-You   are   going    too    fast.      You    see    your   ^<g^,^
+You   are   going    too    fast.      You    see    your   ^ g^,^
 and  expect  to   hear  it  crow.     You   look   at   your
 cross-bow,  and  expect  to  have  broiled  duck  before
 you.     I  will  say  a  few  words  to  you  at  random,  and

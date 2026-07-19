@@ -486,7 +486,7 @@ L1X, Stone pestle, Nenenot . PTVITHTIP ETC ee ee 302
 139, Point of white whale spear enlarged 34
 140. Reindeer snare, Nenenot 5 stele ecatia, Aiea inks 315
 141. Crooked knife, Nenenot 317
-142. Awl, Nenenot Neleliane dis <aceems 31x
+142. Awl, Nenenot Neleliane dis  aceems 31x
 143, Snow shovel, Nene ectiavae dt eettacen, 2Ole
 144. Ice scoop, Nenenot 318
 145. 31
@@ -4212,7 +4212,7 @@ are very destructive to these skins, often causing sad havoc ina short
 time. By the spring the owner may be miles away from the scene of
 the previous autumnal hunt and be unable to go after the tent, which,
 with the summer rain and decay, becomes useless, imposing the severe
-task <f collecting skins for a second tent.
+task  f collecting skins for a second tent.
 
 In former times these people inhabited permanent winter houses
 like those used by the Eskimo elsewhere, as is shown by the rains of
@@ -5163,7 +5163,7 @@ to the one obtained from a party of Kast Main Innuit, who made their
 2
 4
 J
-<a
+ a
 tal
 Zt
 

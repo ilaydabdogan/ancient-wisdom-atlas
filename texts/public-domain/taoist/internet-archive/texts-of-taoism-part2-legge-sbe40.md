@@ -1909,7 +1909,7 @@ a  counterfeit  of  the  truth  ^  Yes,  (the  possession  of
 Wei)  has  been  an  entanglement  to  me.'
 
 2.  Wan-po  Hsueh-jze  '\  on  his  way  to  KM,  stayed
-some  time  in  L<i,  where  some  persons  of  the  state
+some  time  in  L i,  where  some  persons  of  the  state
 begged  to  have  an  interview  with  him.  He  refused
 them,  saying,  *  I  have  heard  that  the  superior  men
 of  these  Middle  States  ^  understand  the  (subjects
@@ -4243,7 +4243,7 @@ sacrificial  vessels  or  bells,  would  have  it  strapped  and
 secured,  while  to  find  his  son  who  was  lost,  he  would
 not  go  out  of  the  territory  of  his  own  state : — so
 forgetful  was  he  of  the  relative  importance  of  things.
-If  a  man  of  Kh<i,  going  to  another  state  as  a  lame
+If  a  man  of  Kh i,  going  to  another  state  as  a  lame
 gate-keeper,  at  midnight,  at  a  time  when  no  one  was
 nigh,  were  to  fight  with  his  boatman,  he  would  not
 be  able  to  reach  the  shore,  and  he  would  have  done
@@ -4901,7 +4901,7 @@ him  like  a  tower  eighty  cubits  high  exhibited  in  the
 sight  of  all  men.
 
 *  That  is,  '  he  does  so  in  the  spontaneity  of  his  nature.'  The
-<M:  requires  the  employment  of  the  term  'nature'  here,  not
+ M:  requires  the  employment  of  the  term  'nature'  here,  not
 according  to  any  abstract  usage  of  the  term,  but  meaning  the
 natural  constitution.     Compare  the  '[^  ^^  in  Mencius  VII,  i,  30.
 
@@ -5866,7 +5866,7 @@ mental  cultivation.
 
 ^  Probably  what  in  Buddhist  literature  are  called  '  the  Six  En-
 trances {y^  yV)/  "^^^^  Mayers  denominates  'The  Six  Organs  of
-Admittance,  or  Bodily  Sensations,'  the  Sha</Syatana,  the  eye,
+Admittance,  or  Bodily  Sensations,'  the  Sha /Syatana,  the  eye,
 ear,  nose,  mouth,  body,  and  mind, — one  of  the  twelve  Nidanas
 in  the  Buddhist  system.
 
@@ -5924,7 +5924,7 @@ Thang  offered  his  to  WCl  Kwang^,  Wti  Kwang  be-
 came angry.  When  Ki  Tha^  heard  it,  he  led  his
 disciples,  and  withdrew  to  the  river  Kho,  where
 the  feudal  princes  came  and  condoled  with  him,  and
-after  three  years,  Shan  Th<i-tt^  threw  himself  into  the
+after  three  years,  Shan  Th i-tt^  threw  himself  into  the
 water.  Fishing-stakes^  are  employed  to  catch  fish  ;
 but  when  the  fish  are  got,  the  men  forget  the  stakes.
 Snares  are  employed  to  catch  hares,  but  when  the
@@ -6241,7 +6241,7 @@ Part  III.     Section  VI.
 Zang  Wang,  or  '  Kings  who  have  wished  to  resign
 the  Throne  \'
 
-I.  Yao  proposed  to  resign  the  throne  to  Hsii  Y<i,
+I.  Yao  proposed  to  resign  the  throne  to  Hsii  Y i,
 who  would  not  accept  it.  He  then  offered  it  to
 3ze-^au  Kih-fiX^,  but  he  said,  '  It  is  not  unreasonable
 to  propose  that  I  should  occupy  the  throne,  but  I
@@ -6736,7 +6736,7 @@ are  falling,  that  we  know  the  vegetative  power  of
 the  pine  and  cypress.  This  strait  between  KkdiVi
 and  3hai  is  fortunate  for  me.'  He  then  took  back
 his  lute  so  that  it  emitted  a  twanging  sound,  and
-began  to  play  and  sing.  (At  the  same  time)  3ze-l<i,
+began  to  play  and  sing.  (At  the  same  time)  3ze-l i,
 hurriedly,  seized  a  shield,  and  began  to  dance,  while
 3ze-kung  said,  '  I  did  not  know  (before)  the  height
 of  heaven  nor  the  depth  of  the  earth.'
@@ -6995,7 +6995,7 @@ hair  rose  up  and  touched  his  cap.  '  Is  not  this
 fellow,'  said  he,  '  Khung  K/iiii,  that  artful  hypocrite
 of  Lu  ?  Tell  him  from  me,  "You  invent  speeches
 and  babble  away,  appealing  without  ground  to  (the
-examples  of)  Wan  and  W<i.  The  ornaments  on
+examples  of)  Wan  and  W i.  The  ornaments  on
 your  cap  are  as  many  as  the  branches  of  a  tree,
 and  your  girdle  is  (a  piece  of  skin)  from  the  ribs
 of  a  dead  ox.  The  more  you  talk,  the  more  non-
@@ -7179,7 +7179,7 @@ run  away  from  Wei ;  you  were  reduced  to  extre-
 mity in  J^/ii ;  you  were  held  in  a  state  of  siege
 between  ^Oan  and  3hai ;  there  is  no  resting-place
 for  your  person  in  the  kingdom  ;  your  instructions
-brought  3ze-l<i  to  pickle.  Such  have  been  the  mis-
+brought  3ze-l i  to  pickle.  Such  have  been  the  mis-
 fortunes (attending  your  course).  You  have  done
 no  good  either  for  yourself  or  for  others ; — how  can
 your  doctrines  be  worth  being  thought  much  of  ?
@@ -12363,7 +12363,7 @@ KM.
 Book  V.
 
 Par.  I.  Confucius  explains  the  influence  of  the  cripple
-Wang  Thii  over  the  people  of  L<i.
+Wang  Thii  over  the  people  of  L i.
 
 a.  The  fellow-students  3ze-Man  and  the  cripple  Shan-
 tha  KiL
@@ -12647,7 +12647,7 @@ Book  XX.
 Par.  I.  Kwang-^ze  and  his  disciples  ; — the  great  tree  that
 was  of  no  use,  and  the  goose  that  could  not  cackle.
 
-2.  1-liao  of  Shih-nan  and  the  marquis  of  L<i ; — how  the
+2.  1-liao  of  Shih-nan  and  the  marquis  of  L i ; — how  the
 former  presses  it  on  the  marquis  to  go  to  an  Utopia  of
 Taoism  in  the  south,  to  escape  from  his  trouble  and
 sorrow.
@@ -15464,7 +15464,7 @@ id
 k)oJ
 
 
-^  :»   <iOsf
+^  :»    iOsf
 
 
 il
@@ -15624,7 +15624,7 @@ D-D
 
 *>
 
-y<j
+y j
 
 t<    •
 
@@ -15652,7 +15652,7 @@ N
 
 ^TQ
 
-.  ^<i/'
+.  ^ i/'
 
 "^    •
 
@@ -15818,7 +15818,7 @@ i-l                     1-1    (M     (M     (M
 CO     ■>!t<
 
 iO    «o    t^
-<M     (N     (M
+ M     (N     (M
 
 00
 
@@ -15932,7 +15932,7 @@ CO        o
 ««  .S
 
 
-<D
+ D
 
 
 c3     ^H      03
@@ -15961,7 +15961,7 @@ U5    CO     t»
 ^      Tff      ^
 
 
-oooiOi-i<MeoTf<ioc£>r^ooo5
+oooiOi-i MeoTf ioc£>r^ooo5
 
 
 340      TRANSLITERATION    OF    ORIENTAL   ALPHABETS.
@@ -16069,7 +16069,7 @@ vJ
 
 G
 
-O    xu    >o     08    <cs    -    <-    :s    S5    T    ^     SO     «    S  3    S  >o     o    J,  ^   e  e  :«J    !-    -.o    -.o
+O    xu    >o     08     cs    -    <-    :s    S5    T    ^     SO     «    S  3    S  >o     o    J,  ^   e  e  :«J    !-    -.o    -.o
 
 1
 
@@ -16387,7 +16387,7 @@ I-III.     8vo,  cloth,  los.  6d.
 
 Vol.  XVIII.     Pahlavi  Texts.
 
-Translated  by  E.  W.  West.  Part  II.  The  Da</istan-t  Dinik
+Translated  by  E.  W.  West.  Part  II.  The  Da /istan-t  Dinik
 and  The  Epistles  of  Manfij^ihar.     8vo,  cloth,  X2s.  6d.
 
 Vol.  XIX.    The  Fo-sho-hing-tsan-king.
@@ -16438,7 +16438,7 @@ Yaj-ts,  and  Nyayij.     8vo,  cloth,  105-.  dd.
 Vol.  XXIV.    Pahlavi  Texts.
 
 Translated  by  E.  W.  West.  Part  IH.  Dina-i  Mainog-i
-Khira</,  6ikand-gftmanik  Vi^^ar,  and  Sad  Dar.  8vo,  cloth,
+Khira /,  6ikand-gftmanik  Vi^^ar,  and  Sad  Dar.  8vo,  cloth,
 \os.  f\d.
 
 
@@ -16472,7 +16472,7 @@ Parts  III  and  IV.  The  Li  K\,  or  Collection  of  Treatises  on
 the  Rules  of  Propriety,  or  Ceremonial  Usages.  8vo,  cloth,
 1 2 J.  6d.  each.
 
-Vol.  XXIX.      The    Gr/hya-S<itras,    Rules    of    Vedic
+Vol.  XXIX.      The    Gr/hya-S itras,    Rules    of    Vedic
 Domestic   Ceremonies.
 
 Part  I.  »S'afikhayana,  Aj'valayana,  Paraskara,  Khadira.  Trans-

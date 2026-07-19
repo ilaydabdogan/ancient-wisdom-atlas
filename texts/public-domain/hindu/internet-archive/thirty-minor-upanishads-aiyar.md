@@ -296,7 +296,7 @@ nishad  called  Maifrayani.  Of  the  rest,  95  in  number,  two  or  three
 Upanishada  have  appeared  in  English  up  to  now,  but  never  so
 many  as  are  here  presented  to  the  public,  so  far  as  I  am  aware.
 
-Many  years  ago,  the  late  Sun<Jara  Sfas^ri,  a  good  Sanscrit
+Many  years  ago,  the  late  Sun Jara  Sfas^ri,  a  good  Sanscrit
 Scholar  and  myself  worked  together  to  put  into  English  garb
 the  Upanishads  that  had  not  been  attempted  before,  and
 
@@ -356,7 +356,7 @@ represented  the  letter  ^r  by  S'  and  not  by  Sh,  since  I  con-
 sider the  latter  to  be  a  mistake.  Other  transliterations
 are : —
 
-•It  (  v  <t  v.*'?  s  v  *  IT  a  v  3  *  &
+•It  (  v   t  v.*'?  s  v  *  IT  a  v  3  *  &
 
 It  would  be  well  if  our
 a     I    u  R  N  frTThDDhN  TThDDhL
@@ -5202,7 +5202,7 @@ kshatriyas  and  others  well  versed  in  the  cognition  of  divine
 Truth,  therefore  jnana  is  not  the  brahmana.
 
 Then  is  karma  the  brahmana?  No.  Since  the  prarab-
-<Jhaa,  safichita3,  and  agami*  karmas  are  the  same  for  all  beings,
+ Jhaa,  safichita3,  and  agami*  karmas  are  the  same  for  all  beings,
 and  since  all  people  perform  their  actions  as  impelled  by  karma,
 therefore  karma  is  not  the  brahmana.
 
@@ -5680,7 +5680,7 @@ of  urine  and  fa9ces,  and  undergoes  in  this  body  the  sufferings
 of  hell.  Therefore  knowing  all  this,  one  should  be  averse  to
 worldly  objects.  Thus  ends  the  moksha-s'astra  of  Pippalada —
 thus  ends  the  moksha-s'astra  of  Pippalada.  Thus  ends  the
-Upanisha<J.
+Upanisha J.
 
 
 Eight  palams  are  8/«  °f  a  N>.  (avdp.)
@@ -6390,7 +6390,7 @@ even  though  near.  He  should  never  observe  the  following  six —
 the  scenes  of  dancing,  etc.,  gambling,  lovely  women,  eatables,
 enjoyables,  and  women  in  their  monthly  course.
 
-<c  The  ascetic  should  never  in  thought  even  think  of  others
+ c  The  ascetic  should  never  in  thought  even  think  of  others
 with  the  six  (viz.,)  love,  hate,  pride,  deceit,  treachery,  and  the
 illusion  (of  confounding  them).  To  the  ascetics,  the  following
 six  are  sinful :  cot,  white  cloth,  the  stories  of  women,  love  towards
@@ -6761,7 +6761,7 @@ him,  after  sipping  the  water  and  uttering  the  mantra  prescribed
 for  the  purpose.  Then  the  bowl  should  be  taken  up,  after  utter-
 ing the  mantra  with  the  Pranava  preceding  it  :  —  aff  sfJisffaq-
 
-^t^rPTR^T  *TRfa  *TT  *P5RFT  <ER^r  tft  ^N  II  Then  after  first
+^t^rPTR^T  *TRfa  *TT  *P5RFT   ER^r  tft  ^N  II  Then  after  first
 uttering  (the  mantra)  ^I-^I^H  ifrfti  3TT  I
 
 

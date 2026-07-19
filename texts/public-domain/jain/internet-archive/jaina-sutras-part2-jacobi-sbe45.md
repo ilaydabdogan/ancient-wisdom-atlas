@@ -4652,7 +4652,7 @@ has been got ready especially for ourselves and for
 ee
 
 
-1 Piséka. <A full description of a Pisdka is given in the
+1 Piséka.  A full description of a Pisdka is given in the
 Uvdsaga Dasdo, § 94 of Hoernle’s edition.
 E 2
 
@@ -16888,7 +16888,7 @@ u 2
 
 
 292 SOTRAKRITANGA.
-TREK fy <n SO Or ec ee
+TREK fy  n SO Or ec ee
 
 
 has been proclaimed and taught by the Arhat,
@@ -26221,7 +26221,7 @@ b
 *soTBinjjn4y
 
 
-ee | ee | ee | es | occ | -<eemmeneemssinems | sews fn
+ee | ee | ee | es | occ | - eemmeneemssinems | sews fn
 
 
 ‘SSEID III | “SSVID IL} SSID T
@@ -26286,7 +26286,7 @@ ere ee ew @& ee 6 ie ee ee “se ce
 «oe (/)s ¢ «4 eo ee re ee 8 ee Saws he rE
 
 
-ee a @, 6 a (4) Bis) 3 bee ro 928 os <n toden Ente Gi]
+ee a @, 6 a (4) Bis) 3 bee ro 928 os  n toden Ente Gi]
 
 
 TRANSLITERATION OF ORIENTAL ALPHALETS

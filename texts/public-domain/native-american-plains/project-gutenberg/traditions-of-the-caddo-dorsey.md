@@ -469,7 +469,7 @@ see him, and he watched them very closely. When they came to the
 place where they usually found their meat. Coyote found out all about
 
 
-THB CRKATION AND BARI<Y MIGRATIONS. II
+THB CRKATION AND BARI Y MIGRATIONS. II
 
 how and where they got It, then ran back to their home and lay down,
 so that when the Buzzards returned to their home they found their
@@ -5431,7 +5431,7 @@ says boys and dog have just passed. Duck carries g^l across. Brothers see her
 coming. They meet three white doves, who, at their request, fly to the sky with
 them and dog. Smoke makes doves' white feathers gray. Girl asks doves where
 brother and dog are. They point to three bright stars in southern part of sky.
-<r\xl looks at stars and falls dead.
+ r\xl looks at stars and falls dead.
 
 12. THE MAN AND THE DOG WHO BECAME STARS.
 

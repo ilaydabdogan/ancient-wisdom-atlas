@@ -24255,7 +24255,7 @@ A  ban  from  Shamash  or  A-a
 
 A  ban  from  Ramman  or  Shala
 
-A  ban  from  Marduk  or  <Jarpanit
+A  ban  from  Marduk  or   Jarpanit
 
 A  ban  from  Nabu  or  Tashmetu
 

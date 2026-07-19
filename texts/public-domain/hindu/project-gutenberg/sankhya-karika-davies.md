@@ -290,7 +290,7 @@ interested in Indian literature, or enjoy the tenderness of feeling and rich cre
 imagination of its author.”—IJndian Antiquary.
 
 “We are very glad to welcome a second edition of Professor Griffith’s admirable
-translation. Few translations deserve a second edition better.”—<Athenaum.
+translation. Few translations deserve a second edition better.”— Athenaum.
 
 
 TRUBNER’S ORIENTAL SERIES.
@@ -676,7 +676,7 @@ importance to students. In the Jataka book we have, then, a priceless record of 
 earliest imaginative literature of our race; and Mr. Rhys Davids is well warranted
 in claiming that it presents to us a nearly complete picture of the social life and
 customs and popular beliefs of the common people of Aryan tribes, closely related to
-ourselves, just as they were passing through the first stages of civilisation.”—<St.
+ourselves, just as they were passing through the first stages of civilisation.”— St.
 James's Gazerte,
 
 
@@ -795,7 +795,7 @@ Society of Biblical Archzology.
 popularise studies which are yet in their infancy. Its primary object is to translate,
 but it does not assume to be more than tentative, and it offers both to the professed
 Assyriologist and to the ordinary non-Assyriological Semitic scholar the means of
-controlling its results.” —<Academy.
+controlling its results.” — Academy.
 
 “Mr. Budge’s book is, of course, mainly addressed to Assyrian scholars and
 students. They are not, it is to be feared, a very numerous class. But the more
@@ -1135,7 +1135,7 @@ ia
 
 J
 
-<i
+ i
 
 
 See
@@ -1623,7 +1623,7 @@ the real nature of Kapila’s system, which he admits, in
 his preface, he had not previously studied,
 
 
-- ae . % an _ <t \ fim |
+- ae . % an _  t \ fim |
 = | aha bd fa ¥ : om
 a ee s a Ps
 
@@ -1977,7 +1977,7 @@ the same idea, “Consciousness and knowledge each
 involves the other.’* It is the same thing in another
 form, for cause and effect are identical according to
 Kapila, as water issuing from its source is still the same
-in reality though not in form. By <Ahainkara Kapila
+in reality though not in form. By  Ahainkara Kapila
 means a substance or ens connected with thought
 (Buddhi), in which consciousness inheres. It is nearly
 equivalent to the “mind-stuff” which the late Professor

@@ -8266,7 +8266,7 @@ thought  Tsaroki.  "  Maybe  he  is  trying  me  in
 some  way."
 
 "  My  grandson,"  said  the  old  man,  after  a  while,
-<c  I  should  like  to  see  somebody ;  I  should  like  to
+ c  I  should  like  to  see  somebody ;  I  should  like  to
 see  something,  see  people  ;  I  should  like  to  have  fun
 and  see  games  of  some  sort."
 
@@ -15226,7 +15226,7 @@ started.  At  noon  they  were  at  their  father's  house.
 Old  Jahtaneno  was  glad  when  he  looked  at  his
 daughters  and  saw  the  nice  presents.
 
-<c  Our  husband  told  us  to  go  home  to-day,  and
+ c  Our  husband  told  us  to  go  home  to-day,  and
 we  cannot  stay  long  with  you."
 
 They  took  back  many  presents  from  their  father,

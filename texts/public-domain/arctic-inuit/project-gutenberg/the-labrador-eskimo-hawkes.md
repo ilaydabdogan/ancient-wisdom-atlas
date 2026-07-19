@@ -3752,7 +3752,7 @@ Q
 
 -Q
 
-<U
+ U
 
 -o
 
@@ -4094,7 +4094,7 @@ The  foreshaft  unjoints  at  the  head  of  the  shaft  and  both
 
 =  P
 
-^  <U
+^   U
 
 in
 
@@ -4171,7 +4171,7 @@ to
 
 c
 
-u    <u
+u     u
 
 
 II
@@ -4402,7 +4402,7 @@ al
 
 <
 
-<u
+ u
 
 >,
 
@@ -4525,7 +4525,7 @@ j;j
 
 IT!
 
-<n
+ n
 
 E
 
@@ -4581,7 +4581,7 @@ c
 
 3
 
-<u
+ u
 
 3
 
@@ -8530,7 +8530,7 @@ m,  as  in  English,  but  often  long,
 b,  as  in  English  (rare).
 V,  as  in  English  (rare).
 
-<f),  unrounded  bilabial  spirant,  Kleinschmidt's /.
+ f),  unrounded  bilabial  spirant,  Kleinschmidt's /.
 P,  unrounded  bilabial  spirant,  Kleinschmidt's  v.
 
 
@@ -9081,7 +9081,7 @@ O
 \^        —
 
 
-<U      3      Ct
+ U      3      Ct
 
 C  U-  -
 
@@ -9359,7 +9359,7 @@ C
 
 t"   5
 
-<u    0
+ u    0
 
 t^
 
@@ -9683,7 +9683,7 @@ o^
 
 •  -    u
 
-tn    <u
+tn     u
 
 s
 
@@ -9719,7 +9719,7 @@ c
 
 •+
 
-<u
+ u
 
 u.
 
@@ -9769,7 +9769,7 @@ C
 
 (U
 
-<U
+ U
 
 s
 
@@ -10644,7 +10644,7 @@ o
 
 u
 
-<u
+ u
 •V
 
 o
@@ -10730,7 +10730,7 @@ n3
 
 CJ
 
-<L)
+ L)
 
 v
 
@@ -11040,7 +11040,7 @@ Collected  by  E.  W.  Hawkes.
 
 T3  -^   -^
 
-.-  C     <u
+.-  C      u
 
 O  o    -w
 
@@ -11303,7 +11303,7 @@ O.
 
 «
 
-<u
+ u
 
 u
 

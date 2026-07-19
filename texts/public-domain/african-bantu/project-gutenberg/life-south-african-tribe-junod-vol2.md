@@ -2856,7 +2856,7 @@ rests  on  the  ground,  and  where  women  are  obliged  to  kneel.
 
 -     69     -
 
-<lo\vn  when  crushing  their  mealies,    lest  their   pestles    hit   the
+ lo\vn  when  crushing  their  mealies,    lest  their   pestles    hit   the
 sky  !
 
 There  are  three  other  principal  methods  of  fishing,  and,  as  they
@@ -5769,7 +5769,7 @@ view,  some  adverbs  may  be  termed  primitive  and  some  others  derivate.  
 a  iv  tar  superior  to  us  in  this  respect,  and  this  is  why  so  few
 Europeans  can  really  learn,  and  properly  use,  these  descriptive
 
-arc.  tor  instance.  </^/,  act  of"  planting  (hence  the  verb  ku  d/.inia),  nyupe;  iivnpe,
+arc.  tor  instance.   /^/,  act  of"  planting  (hence  the  verb  ku  d/.inia),  nyupe;  iivnpe,
 act  of  plunging  (hence  ku  nyupela),  etc.  But  others  are  distinctly"  clerivate,  for
 instance  :  huiiii-lek,  impression  caused  by  somebody  who  suddenly  appears.  It
 certainly  derives  from  the  verb  ku  luimelela,  which  is  itself  the  double
@@ -13738,7 +13738,7 @@ vapepe  (Mai.).
 
 Sparrows.  Mbmvulivane  (yin-tin),  (Mpf.)  or  Mbeulwane  (Kho.
 Xku.)  swallow.  Psikidyana  (Spel.  Mai.).  Titihwana  (Mpf.  Bil.).
-Tinknta  (Kho.).  Nkapa  (mu-mi)  (Mpf.)  Nsongu<ana,  (Mpf.).
+Tinknta  (Kho.).  Nkapa  (mu-mi)  (Mpf.)  Nsongu ana,  (Mpf.).
 Nhlek-u'tuia,  Tshamatisa,  Sbwdjetigeletana  Mpf.  Nku.).  Nadwa-
 itgafolen  (mu-ba)  (Mpf.).  NuamutjaJatana  (mu-ba)  (Mpf.).  Lidja
 djana,  (Spel.  Mai.).  Timhatana  (Mpf.).  Tinbelua  (Mpf.).  Ngod^i
@@ -15047,7 +15047,7 @@ family  matters,  those  of  the  family  are  called  upon.
 349
 
 Moreover,  each  family  has  two  sets  of  gods,  those  on  the  father's
-<idf  and  those  on  the  mother'*,  those  of  "  kweru  "  and  those  of
+ idf  and  those  on  the  mother'*,  those  of  "  kweru  "  and  those  of
 "  bakokwana  "  (I.  p.  254).  They  are  equal  in  dignity.
 Both  can  be  invoked,  and  the  divinatory  bones  are  always  asked
 to  which  the  offering  must  be  made.  It  seems,  however,  as  if
@@ -17932,7 +17932,7 @@ of  their  experience.  Tobane,  to  whom  I  applied  to  put  me  in
 —     -M5
 
 touch  with  some  really  clever  practitioners,  said  of  this  man:
-<kAwa  daha"-  "He  is  one  who  succeeds  in  his  cures!",  adding
+ kAwa  daha"-  "He  is  one  who  succeeds  in  his  cures!",  adding
 with  a  look  of  profound  respect  :  "It  seems  that  even  the  Whites
 of  Lourenc,o  Marques  consult  him  !  "  And  Kokolo,  without
 too  much  persuasion,  shewed  me  his  drugs,  and  went  to  "dig"
@@ -18837,7 +18837,7 @@ the  power  of  possessing  the  people,  are  not  the  ancestors  of  the
 Thonga  themselves,  the  ancestor-gods,  but  are  Zulu  spirits
 and  those  of  the  Ba-Ndjao  tribe,  who  inhabit  the  country
 beyond  the  Sabie,  as  far  as  the  environs  of  Beira.  It  seems
-that  the  possessions  which  first  occurred  were  due  to  the  <j
+that  the  possessions  which  first  occurred  were  due  to  the   j
 Zulu  and  Ngoni  spirits  ;  possibly  they  coincided  with  the
 invasion  of  the  warriors  of  Manukosi,  and  with  the  ever  increas-
 ing exodus  of  young  men  who  go  to  work  in  the  diamond
@@ -19960,7 +19960,7 @@ his  nocturnal  ride  !  He  throws  charms  on  the  other  inhabitants
 of  the  hut,  and  they  sleep  so  heavily  that  they  do  not  notice
 anything.  The  Thonga  speak  differently.  According  to  them,
 the  noyi  is  but  a  part  of  the  personality.  When  he  flies
-away,  his  <c  ntjhuti  ",  his  shadow,  remains  behind  him,  lying
+away,  his   c  ntjhuti  ",  his  shadow,  remains  behind  him,  lying
 down  on  the  mat.  But  it  is  not  truly  the  body  which  remains.
 It  appears  as  such  only  to  the  stupid  non-initiated.  In  reality
 what  remains  is  a  wild  beast,  the  one  with  which  the  noyi  has
@@ -22000,7 +22000,7 @@ her,  another  Young  goat  —  ;  it  is  a  girl  who  is  offered  us  in  m
 
 •   tf  •    I
 
-^m^     ^1  Cypraea  +      yoa<sf  H<
+^m^     ^1  Cypraea  +      yoa sf  H<
 
 Tortols.  t  +     I
 
@@ -23011,7 +23011,7 @@ sedentary  ?
 
 desc
 
-2<i  Period
+2 i  Period
 
 id.
 
@@ -23047,7 +23047,7 @@ Wooden  pil-
 
 low.
 
-3<i  Period
+3 i  Period
 1500-1820
 
 Men:  Mbaya.

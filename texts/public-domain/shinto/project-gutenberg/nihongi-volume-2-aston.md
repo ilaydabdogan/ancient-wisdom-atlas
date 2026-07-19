@@ -27164,7 +27164,7 @@ Pita besos
 Eternal Land. See Tokoyo.
 
 Ethnology, I. 109, 212; II. 38, 123.
-See also Immigration, Koma, {<umaso,
+See also Immigration, Koma, { umaso,
 Tsuchigumo, Yemishi.
 
 Eunsol (Corean title), II. 20, 98.
@@ -27221,7 +27221,7 @@ Four Heavenly Kings, II. 114, 115.
 Fujihara family, Il. 291.
 
 Fumibito or Fubito (scribes), Introduction
-rabies resus AWE. <li
+rabies resus AWE.  li
 
 Funeral ceremonies, I. 66, 67, 326; II.
 24, 104, 143, 173, 177, 232, 274, 303;

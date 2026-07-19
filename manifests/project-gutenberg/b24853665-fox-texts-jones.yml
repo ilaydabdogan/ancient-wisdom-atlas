@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_b24853665
+  work_id: native_american.fox_texts.jones_archive
+  title: Fox Texts
+  source_url: https://archive.org/details/b24853665
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/b24853665-fox-texts-jones.txt
+    checksum:
+      algorithm: sha256
+      value: 966209a03e95c6e80f2fa44748268fae2cb523dc47200ba120deb76fe0dc0e10
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/b24853665-fox-texts-jones.md
+    checksum:
+      algorithm: sha256
+      value: 5eda969f160e3fb868211900b4496b4f0631d9b164bf2d29e41496b17e5e440c
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+    checksum:
+      algorithm: sha256
+      value: 2ceee0478e63997df5b6b9fa130f00f00cdcd2b2b3736535d315092cf908ebda
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.fox_texts.jones_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1907, US public domain. VERBATIM - facing-page Fox-language texts
+      with close English translation, recorded by William Jones, himself of Fox (Meskwaki)
+      descent; a gold-standard insider verbatim source. OCR includes the Meskwaki-language
+      pages. Sacred pack and manitou material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

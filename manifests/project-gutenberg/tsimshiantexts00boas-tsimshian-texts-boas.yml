@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_tsimshiantexts00boas
+  work_id: native_american.tsimshian_texts.boas_archive
+  title: Tsimshian Texts
+  source_url: https://archive.org/details/tsimshiantexts00boas
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/tsimshiantexts00boas-tsimshian-texts-boas.txt
+    checksum:
+      algorithm: sha256
+      value: 52c9aec7756750cdf291f803d9cb59c58e91339af5307e13837d91d093dadafc
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/tsimshiantexts00boas-tsimshian-texts-boas.md
+    checksum:
+      algorithm: sha256
+      value: 365146c307697da18a848a1a4cd26ba8a9b4e5d12299493d67d6447fe8294cc1
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+    checksum:
+      algorithm: sha256
+      value: be6e060131a2af995d518db6c7909193b6378a80ba6b76911a78a5ea08147c72
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.tsimshian_texts.boas_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1902, US public domain. VERBATIM - facing Tsimshian-language
+      texts with interlinear/close English translation. Distinct from the already-queued
+      Tsimshian Mythology (Boas/Tate), which is a later synthesis; this is the earlier
+      raw text series. Crest and secret-society material is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

@@ -42,8 +42,15 @@ before = lines.length
 stats = Hash.new(0)
 
 # --- 1. structural trim -----------------------------------------------------
-intro = (1...lines.length).find { |i| lines[i].strip.match?(/\AINTRODUCTORY\s+REMARKS/) }
-abort "INTRODUCTORY REMARKS not found" unless intro
+# Two lines read "INTRODUCTORY REMARKS." -- the CONTENTS entry and the real
+# section heading. Pick the one whose next non-blank line begins the prose.
+intro = (1...lines.length).find do |i|
+  next false unless lines[i].strip.match?(/\AINTRODUCTORY\s+REMARKS/)
+  j = i + 1
+  j += 1 while j < lines.length && lines[j].strip.empty?
+  lines[j].to_s.strip.match?(/\AThe\s+following\s+myths/)
+end
+abort "INTRODUCTORY REMARKS section not found" unless intro
 stats[:head_trim] = intro - 1
 body = [lines[0], ""] + lines[intro..]
 
@@ -83,8 +90,10 @@ def yana_line?(line)
   content = words.count { |w| english_content?(w) }
   # signatured line with no real English content word -> Yana transcription
   return true if content.zero?
-  # heavily signatured line (even if OCR left an English-looking token) -> Yana
-  return true if flags >= 2 && flags.to_f / words.size >= 0.5
+  # signatured line with at most one (often spurious) English-looking token and
+  # a real spread of signatures -> Yana transcription; a genuine English line
+  # carrying a native name or two always has several real content words.
+  return true if flags >= 2 && content <= 1 && flags.to_f / words.size >= 0.34
   false
 end
 
@@ -93,24 +102,60 @@ PAGE_JUNK = /\A[\dlLIioO°>()\[\].,;:*^ ]{1,6}\z/.freeze
 # running foot ("1910]  Sapir:  Yana Texts.  235").
 RUNNING = /University\s+of\s+California\s+Publications|Sapir:\s+[TY]ana\s+Texts/i.freeze
 
-# --- 2+3+4. drop gloss, Yana lines, furniture -------------------------------
-kept = body.reject do |line|
+# --- 2+3+4. classify each line: :drop (gloss/Yana/furniture), :blank, :keep ---
+marks = body.map do |line|
   s = line.strip
-  next false if s.empty?
-  if s.include?("|")
+  next :blank if s.empty?
+  # word-gloss columns are separated by "|", which OCR sometimes renders as a
+  # standalone capital "I"; a line with >=3 such bare separators is a gloss line.
+  if s.include?("|") || s.split.count { |t| t == "I" } >= 4
     stats[:gloss_lines] += 1
-    next true
+    next :drop
   end
   if s.match?(PAGE_JUNK) || s.match?(RUNNING)
     stats[:furniture] += 1
-    next true
+    next :drop
   end
   if yana_line?(s)
     stats[:yana_lines] += 1
-    next true
+    next :drop
   end
-  false
+  :keep
 end
+
+# Run-length filter: the word-gloss survives OCR as short English fragments
+# (columns that lost their "|"), always hemmed in by Yana/gloss lines within a
+# line or two. Genuine continuous English -- the INTRODUCTORY REMARKS, the long
+# footnotes, the "Rolling Skull" free-translations, and the Dixon supplementary
+# myths -- comes in long uninterrupted runs. So keep a run of :keep lines (blank
+# lines are allowed inside a run) only when it holds >= MIN_RUN content lines; a
+# :drop line ends the current run. This discards the gloss debris deterministically.
+MIN_RUN = 5
+kept = []
+run = []          # [line, ...] including internal blanks
+run_content = 0
+flush = lambda do
+  if run_content >= MIN_RUN
+    kept.concat(run)
+    kept << ""
+  else
+    stats[:short_runs_dropped] += 1 if run_content.positive?
+  end
+  run = []
+  run_content = 0
+end
+body.each_with_index do |line, i|
+  case marks[i]
+  when :keep
+    run << line
+    run_content += 1
+  when :blank
+    run << line if run_content.positive?   # keep blanks only inside an open run
+  when :drop
+    flush.call
+  end
+end
+flush.call
 
 # --- 5. join residual end-of-line hyphenations ------------------------------
 joined = []

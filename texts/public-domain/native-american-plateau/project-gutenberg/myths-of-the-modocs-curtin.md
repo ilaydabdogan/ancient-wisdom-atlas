@@ -3848,7 +3848,7 @@ help him, and give it back to the ground. We will no longer
 be living persons. You will remember me in later times, for
 I have been a great chief. You will be near me always, for
 you will be my brother. Hereafter you will be only a little
-snake and blow with your mouth." Right away Sno<itiss
+snake and blow with your mouth." Right away Sno itiss
 
 
 MYTHS OF THE MODOCS 67
@@ -5038,7 +5038,7 @@ one-legged man
 
 On the south side of Lake Klamath lived five brothers.
 The eldest was married to Skola. Four of the brothers were
-without wives. Tekewas, their sister, was married to K<ilta,
+without wives. Tekewas, their sister, was married to K ilta,
 and lived not far away. The brothers were bad men. The
 name of the yoimgest brother was Tutats. When he was a
 child his sister was fond of him; then her mother made her
@@ -5143,7 +5143,7 @@ and said: " We will camp here."
 " It is too near," said Tutats; he was crpng.
 
 " It is too dark to follow the trail," said Tekewas. She
-built a fire and gave T<itats roots from her basket. After eat-
+built a fire and gave T itats roots from her basket. After eat-
 ing, he lay down on one side of the fire and she on the other;
 then she thought: " Let him go to sleep quick." When he
 was asleep, she went over to lie by him.
@@ -8481,7 +8481,7 @@ want to eat such fish as he catches."
 
 The girls started early; when they got near Blaiwas' village
 they met old Galaiwa and she told them which houses to go
-to. The first house was K<ilta's. The youngest sister stopped
+to. The first house was K ilta's. The youngest sister stopped
 there; the others went on.
 
 Tusasis lived in that village. When he saw the sisters
@@ -8489,7 +8489,7 @@ coming, he began to make fun of them and tell lies about them.
 " Why do you let those girls come into your houses? " asked
 he. " They don't smell good; you should drive them away."
 He made such a fuss that young Blaiwas and Kaiutois and
-Wulk<itska and Won ran off and hid.
+Wulk itska and Won ran off and hid.
 
 The next morning all the people gathered in Lok's house to
 talk and make up their minds what to do.
@@ -9525,7 +9525,7 @@ Ndtikis Hawk
 
 Tcdskai Weasel
 
-W<Uk(iteka Marten
+W Uk(iteka Marten
 
 
 Blaiwas, Daslats, Wulkutska, and other strong men,
@@ -10057,7 +10057,7 @@ house; they are great workers."
 
 " They wouldn't like me," said Nddkis.
 
-" Once K<ilta tried to buy those girls," said Tcooks. " They
+" Once K ilta tried to buy those girls," said Tcooks. " They
 wouldn't go with him. They said they didn't belong to the
 water and they wouldn't marjry a man who lived in the water.
 
@@ -11747,7 +11747,7 @@ KIskina
 . Beetle
 
 
-W<iMtska
+W iMtska
 
 
 . Marten (black)
@@ -12589,7 +12589,7 @@ much; he travels all the time."
 
 On the way home, Wus met Kaiutois' daughter, and she
 told him that Blaiwas' daughter had come back to see her
-father, and K<ilta was with her.
+father, and K ilta was with her.
 
 " Will they go home soon? " asked Wus.
 
@@ -15897,7 +15897,7 @@ He has been following Won for a long time."
 
 Tcuskai came slowly, for he was tired. When he got to the
 place, he told Keis to get off Won and help to skin him.
-Keis wouldn't move. Tc<iskai pushed him away, but he jumped
+Keis wouldn't move. Tc iskai pushed him away, but he jumped
 back; then Tcfiskai threw him off and told him he was in a
 hurry, for he had far to go. The third time K6is got on to Won,
 TcTiskai threw him over a mountain, but he was back in a
@@ -16785,7 +16785,7 @@ sons. Soon he was on top of the last mountain. He was the
 fastest traveler in the world. He peeped over the top of the
 mountain and looked around in the valley.
 
-When the Wulk<itska brothers and Pitolois were ready to
+When the Wulk itska brothers and Pitolois were ready to
 start for home, her brother said to the youngest Wfilk^tska:
 " She is all the sister we have; you must be good to her. She
 will work and help you feed your father."
@@ -17265,7 +17265,7 @@ called- " Come on, Ilyuy^! "
 Hytiyu cried; he was sorry to have his master lose such
 beautiful beads.
 
-The yoimg man said: " Come on, Il)r<iyu. Don't cry for the
+The yoimg man said: " Come on, Il)r iyu. Don't cry for the
 beads. I have plenty of beads at home." When he had gone
 a Uttle farther, his pack grew heavy again. He took it off and
 threw away more of the beads. Ilj^joi picked them up and
@@ -17615,7 +17615,7 @@ with the himters; he scented the deer to the house of the
 Nanihlas brothers and found where they had them shut up.
 Then the hunters sent Mlikus to watch the brothers. He
 went to their house, sat down by the fire, and pretended to
-fall asleep. The yovmger brother looked at M<ikus' eyes,
+fall asleep. The yovmger brother looked at M ikus' eyes,
 
 
 342 MYTHS OF THE MODOCS
@@ -19763,7 +19763,7 @@ of a similar act appears in several Modoc myths.
 MINK AND WEASEL
 
 Tskel and Tctiskai are great characters. In every myth in which they appear
-they are brothers and Sk6<iks is Tskel's wife; Tcdskai is always small, mis-
+they are brothers and Sk6 iks is Tskel's wife; Tcdskai is always small, mis-
 chievous and inquisitive. Tskel, to punish TOiskai for giving his blanket to
 Gopher (Pshageknik), who is North Wind, hid water. Tcdskai found it and
 was drinking it up when Tskel came. Had he drunk it all there would be no
@@ -19788,7 +19788,7 @@ it is whole again, but if it is buried in the ground under water he dies.
 
 ILYUYU
 
-Il}r<iyu became a head. The head crossed a mountain at a boimd and rolled
+Il}r iyu became a head. The head crossed a mountain at a boimd and rolled
 along in the air; it flew at men and killed them. — Among the Iroquois a cy-
 clone is represented as a great head, the name of which, in Seneca, is Dagua
 Noenyent.

@@ -3298,7 +3298,7 @@ sages do not act from (any wish to be) benevolent ;
 they deal with the people as the dogs of se are
 dealt with.
 
-2. May not the space between heaven <n earth
+2. May not the space between heaven  n earth
 be compared to a bellows ?
 
 "Tis emptied, yet it loses not its power ;
@@ -13402,7 +13402,7 @@ another state. ‘Heedless’ and ‘Sudden’ did not do a bad work.
 
 
 BOOK. VIII.
-Pare ,LL SSEOTION <b
+Pare ,LL SSEOTION  b
 
 
 Phien MAu, or ‘Webbed Toes 1’
@@ -15343,7 +15343,7 @@ sub-surnames in the same clan, and the consequent division of
 clans under different ancestors ;—see the Li A1, Bk. XII, i, 10-14,
 and XIV, 8.
 
-2 <Hwa’ is evidently intended for the name of a place, but
+2  Hwa’ is evidently intended for the name of a place, but
 where it was can hardly be determined. The genuineness of the
 whole paragraph is called in question ; and I pass it by, merely
 calling attention to what the border-warden is made to say about
@@ -16237,7 +16237,7 @@ and when superiors and inferiors possess the same
 
 1 I suppose that from ‘It is said’ to this is all quotation, but
 from what book we do not know.
-2 <The yirtue,’ or attribute ;=the way.
+2  The yirtue,’ or attribute ;=the way.
 
 
 et! THE TEXTS OF TAOISM. BK. XIII.
@@ -18845,7 +18845,7 @@ eV{VOGIpom sopeinyyny
 SNOILVISNVY ], FHL YOM AALUOGV SLALVHATY IVINAIYO JO NOLLVYALIISNVY J,
 
 
-* sieoney sus] <s OL
+* sieoney sus]  s OL
 
 
 * steoney xodse See Gh
@@ -18873,7 +18873,7 @@ oeeeet @ 8 @ sInuoy, I
 ‘SLNVNOSNOOD
 
 
-30) <a!
+30)  a!
 
 
 9]
@@ -19049,9 +19049,9 @@ Co ey a aly (ae sieyered-omyyns snsuoyydiq 9T
 5 ee es eee eee (2) 3@)3 BaceO Vic acw crc | icmrece| ile: ‘+ * staoaq sipeyeped-omnyyny) FT
 v & md aa ( é we fees] (2) 0 se calene (scsi ateceonOp | sis el
 a BE | ate ei Ser < SB leeeefeee] nm [roses + © stasrg sqeIquy ZT
-<i! ase IRR eae ea are Be diets ec tie’s ea) ag, es ete ees eet oT sd Il
+ i! ase IRR eae ea are Be diets ec tie’s ea) ag, es ete ees eet oT sd Il
 SH ous dou gaia ll eee Mh sual. esr etern| Bie’ Ale ace Te] ie Swntt | gyp at] SPOOF Ce 8 2 hl AI ern nEE sa
-Siete Werokcoll ine: <pce| rome collie Neirell| vector oho |uureole plies ene cea] Cements 199 Cae Cee he se > 8 VORAT OL | Mie ae 6
+Siete Werokcoll ine:  pce| rome collie Neirell| vector oho |uureole plies ene cea] Cements 199 Cae Cee he se > 8 VORAT OL | Mie ae 6
 PE saeeral G.Sea te euedl come [er sp intee| Ree ies wh ods eal gy. Less) en ek << RERS e IOC Og
 j a a -4 C ° : ehh ems (2) j Sait ie) niin. vo) a RETO “ 2
 1 Seige) dee Matern 5 S feweeleee] 2 ceo + ss + * SADIQ STTRIVIVT 9

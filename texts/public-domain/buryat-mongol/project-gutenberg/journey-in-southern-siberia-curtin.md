@@ -621,7 +621,7 @@ Sratute  Miles
 60
 
 
-"%5K     Sanar**in<n
+"%5K     Sanar**in n
 
 
 ^HANISTAN
@@ -648,7 +648,7 @@ Y<"
 RTungSZlfi  '
 
 
-5    ..»<r
+5    ..» r
 
 
 50
@@ -4689,7 +4689,7 @@ WBB*M;-  jc^  -■•••/^■:~-  Tmmr—-
 
 -.f  -  r  ~-  _-     '•-  -  •   :*
 
-KoNGOUOFF    AND    HIS    WlFE.       iJ<l<7«  Sj
+KoNGOUOFF    AND    HIS    WlFE.       iJ l<7«  Sj
 
 The  other  persons  of  the  group  are  neighbors  who  crowded  around
 
@@ -6776,7 +6776,7 @@ CO
 
 0
 
-<l
+ l
 
 3
 
@@ -6790,7 +6790,7 @@ V,
 
 O
 
-<j
+ j
 
 Q
 
@@ -13243,7 +13243,7 @@ turned  toward  each  other.
 he
 
 
-<D  .5
+ D  .5
 
 ,f.  A  .J.,
 

@@ -1448,7 +1448,7 @@ reproductive   powers   of  nature.      The   text   reads,   "  Hail,    thou
 
 "  Bekhennq  (J  ^  0  v\  T) ,  Bekhennu  !  Hail,  Prince,  Prince  !
 "  Hail  Amen,  Hail  Amen!  Hail  Par,  Hail  Iukasa  C^K  1^  j£=&  Jn
-"  (m  v\  ^=^>  *<k\  tpj !  Hail  God,  Prince  of  the  gods  of  the  eastern
+"  (m  v\  ^=^>  * k\  tpj !  Hail  God,  Prince  of  the  gods  of  the  eastern
 "  parts  of  heaven,  Amen-Nathekerethi- Amen  (f\  Jn  /WWVN  ^,  fl
 "  ^^  I  ft! fl Q  0^1  0  Jn)  •  Hail,  thou  whose  skin  is  hidden,  whose
 "  form  is  secret,  thou  lord  of  the  two  horns  [who  wast  born  of]
@@ -1764,7 +1764,7 @@ Rameses  II.  "rose  up  as  Ra  riseth,  and  took  the  weapons  (flfifl)
 "  he  raged  at  them  like  Menthu,  lord  of  Thebes,  and  took  his
 "  weapons   in   his   hand,"    and    that    having    become   like    "  Bar
 
-(  J  <r=>  ^n  in  his  hour,"  he  leaped  into  his  chariot  and  drove
+(  J   r=>  ^n  in  his  hour,"  he  leaped  into  his  chariot  and  drove
 
 headlong  into  the  battle,  wherein  he,  of  course,  gained  a  great
 victory.  Elsewhere  Menthu  is  often  styled  the  "  mighty  bull,"
@@ -1894,7 +1894,7 @@ she   was   thought   to   have   existed  with   Nu   in   primeval    time,
 
 aaaaaa     pa  q
 
-AA/WSA    <k^v   J}^'. ""      •       She    was,    moreover,    called
+AA/WSA     k^v   J}^'. ""      •       She    was,    moreover,    called
 
 
 AAAAM       nnn    W\AA>\
@@ -2239,7 +2239,7 @@ lord  of  heaven,"   he  is  seen  seated  on   a  throne   and  holding  in
 
 his  hands  1  and  ■¥•.     As  Khensu  Nefer-hetep  he  appears  on  the
 
-stele  of  Pai,  J^  <g\   (1(1  ^j ,  in  the  form  of  a  mummied  man  seated
+stele  of  Pai,  J^   g\   (1(1  ^j ,  in  the  form  of  a  mummied  man  seated
 
 on  a  throne ; 3  over  his  forehead  is  the  uraeus  of  royalty  and  by
 the  side  of  his  head  is  the  lock  of  youth.     Behind  his  neck  hangs
@@ -2372,7 +2372,7 @@ petition  that  the  king  would  send  a  god  to  heal  his  daughter,  and
 the  envoy  arrived  in  Thebes  at  the  time  when  the  king  was
 celebrating  the  festival  of  Amen.
 
-As  soon  as  the  kin<r  had  heard  what  was  wanted  he  went  into
+As  soon  as  the  kin r  had  heard  what  was  wanted  he  went  into
 the  temple  of  Khensu  Nefer-hetep,  and  said  to  the  god,  "  0  my
 "  fair  Lord,  I  have  come  once  again  into  thy  presence  [to  entreat]
 "  thee  on  behalf  of  the  daughter  of  the  Prince  of  Bekhten  "  ;  and
@@ -2588,7 +2588,7 @@ was  declared  to  be,  not  only  the  maker  of  the  universe,  but  the
 creator  of  everything  from  which  both  it  and  all  things  therein
 sprang.     At  a  very  early  period  he  absorbed  the  attributes  of  Nu,
 
-<w  ~n .  the  primeval  watery  mass  from  which  Ra,  the  Sun-
+ w  ~n .  the  primeval  watery  mass  from  which  Ra,  the  Sun-
 
 
 god,  emerged  on  the  first  day  of  the  creation ;  and  as  a  natural
@@ -2857,7 +2857,7 @@ fg*
 
 (SOD  kW  1^  I*  —  O m^  i*  1^
 
-°L=~  /" M       61  <ww\a       n  -e\  f\    ^\  /www      k_^_j
+°L=~  /" M       61   ww\a       n  -e\  f\    ^\  /www      k_^_j
 
 Sin
 
@@ -3078,7 +3078,7 @@ the  double    cavern  (?)    Qerti,  <~>  ^ ,  which  was  likened  to  two
 1 1  n  1 1 1 1 1 1      -  —  -m  LJ
 
 breasts,  ~^  V  ?  from  which  all  good  things  poured  forth ;  this
-double  cavern  was,  in  fact,  the  "  couch  of  the  Nile,"  ^=  <p=^  D
+double  cavern  was,  in  fact,  the  "  couch  of  the  Nile,"  ^=   p=^  D
 £==  (^  ^_%  ar>d  from  it  the  Nile-god  watched  until  the  season
 of  inundation  drew  nigh,  and  then  he  rushed  forth  like  a  vigorous
 young  man,  and  filled  the  whole  country.1  At  Elephantine  he
@@ -3308,7 +3308,7 @@ she  is  seen  suckling  a  young  king  whose  neck  she  embraces  with  her
 left  arm,  and  in  a  text  which  accompanies  another  representation
 she  is  described  as  the  "  giver  of  life,  and  of  all  power,  and  of  all
 
-"  health,  and  of  all  joy  of  heart,"  ^  ^  ^7  [1  ~J  |  ^  <A  ^ .
+"  health,  and  of  all  joy  of  heart,"  ^  ^  ^7  [1  ~J  |  ^   A  ^ .
 
 We  have  now  to  consider  two  very  important  forms  of
 Khnemu,  that  is  to  say,  1.  Khnemu  who,  under  the  form  of  Her-
@@ -3531,7 +3531,7 @@ to  be  mentioned  as  a  form  of  Nut,  and  to  be  the  female  counter-
 part of  the  serpent  god  Nau.1  She  was  a  goddess  who  provided
 for  the  dead  meat  and  drink,  not  the  material  offerings  of  earth,
 
-but  the  divine  tchefaut  food,  ^     |  *|\    \\  <=>  <l^  3   i ,  or        |)  ^=^ ,  or
+but  the  divine  tchefaut  food,  ^     |  *|\    \\  <=>   l^  3   i ,  or        |)  ^=^ ,  or
 
 tcheftchef,  ^^%    "^  "%v  ,  which  may  be  compared  to  the  nectar
 
@@ -3907,7 +3907,7 @@ religious  views  of  his  father,  but  held  them  very  strongly,  and  his
 its  breadth  600  cubits."
 
 
-«   U  ^=—   s>~- £>  <o<a,  i.e.,  "its  length  3600  cubits,
+«   U  ^=—   s>~- £>   o a,  i.e.,  "its  length  3600  cubits,
 
 
 AMEN-HETEP    IV.    (KHU-EN-ATEN)  71
@@ -4605,7 +4605,7 @@ lines  251,  252.
 
 The  triple   Company  to   which   allusion    is  sometimes  made,
 
-nmninmrnmnmrn  <t^>  «-  ^  *-  *--
+nmninmrnmnmrn   t^>  «-  ^  *-  *--
 
 bably  supposed  to  include  the  Great  Company  of  the  gods  of
 heaven,  the  Little  Company  of  the  gods  of  earth,  and  the  Company
@@ -4721,7 +4721,7 @@ La  Mythologies  Hgyptienne,  p.  247.
 
 2  Religion,  p.  422.  3  Brugsch,  Beise,  pi.  26,  1.  26.
 
-h  (1(1  <jj  y  see  the  list  of  passages  given  in  my  Vocabulary  to  the  Boole  of
+h  (1(1   jj  y  see  the  list  of  passages  given  in  my  Vocabulary  to  the  Boole  of
 the  Dead,  pp.  197,  198.
 
 
@@ -4767,7 +4767,7 @@ sometimes  depicted  in  the  form  of  a  lioness.
 
 1       AAA/WV
 
-4                         '             l— J           Xk*s*  "**    ■     — '                 W^fcX                 I)        /vwvv\     i                v<w           0\r"                                                       n
+4                         '             l— J           Xk*s*  "**    ■     — '                 W^fcX                 I)        /vwvv\     i                v w           0\r"                                                       n
 
 *^-_      1  I  Jl  J\  Jfi^  A     A^AAA  JL  °
 
@@ -5650,7 +5650,7 @@ mother.  In  the  text  of  Teta  (line  175),  it  is  said  to  the  deceased,
 "  Nut  hath  set  thee  as  a  god  to  Set  in  thy  name  of  '  god,'  and  thy
 "  mother  Nut  hath  spread  herself  out  over  thee  in  her  name  of
 
-,- ,       MAMA     <<r\  3-?         pa  r-1
+,- ,       MAMA     < r\  3-?         pa  r-1
 
 " '  Coverer   of  the    sky,' "    ^  ^  NK  O  ^L    1   —
 
@@ -5765,7 +5765,7 @@ the  name  Ast,  or  Isis.     In  Thebes  Nut  was  identified  with  Isis,
 
 the  god-mother,  A\  <=>  vv ,  the  lady  of  Dendera,  the  dweller  in
 
-Ant,  the  goddess  Nubt,  i*to<M    wk0  was  bc-ra  in  Per-Nubt,   and
+Ant,  the  goddess  Nubt,  i*to M    wk0  was  bc-ra  in  Per-Nubt,   and
 
 gave  birth  to  her  brother  Osiris  in  Thebes,  and  to  her  son  Horus
 
@@ -5831,7 +5831,7 @@ fourth  is  said  to  be  a   "beautiful  festival  of  heaven  and  earth,"
 NUT
 
 
-<Z£?  T  V  F  "V  The  part  which  Nut  played  in  the  Egyptian
+ Z£?  T  V  F  "V  The  part  which  Nut  played  in  the  Egyptian
 Underworld  was  a  very  prominent  one,  and  from  numerous
 passages  in  the  Book  of  the  Bead  we  can  see  that  without  her
 favour  life  would  be  impossible  for  those  who  have  left  this  world,
@@ -6286,7 +6286,7 @@ text  of  Unas  (line  1 9 1  if.)  the  Angels  of  Thoth,  ^  V  ^  ^  ^  ^ ,
 
 and     the    Ancient    Ones,       ^     v^,    and    the    Great     Terrifier,
 
-I  <zs^  \\   v\  ^=s ,  who  cometh  forth  from  the  Nile,  fi  ,  Hap,
+I   zs^  \\   v\  ^=s ,  who  cometh  forth  from  the  Nile,  fi  ,  Hap,
 
 and  Ap-uat,  \f  S=^^£^3:  d^,   who  cometh   forth   from    the
 
@@ -6312,7 +6312,7 @@ was  situated  is  called  Aaru,  (I  "%\  _^£  ])])])])  >  *ne  name  having 
 a  determinative  a  sign  which  is  intended  to  represent  a  mass  of
 waving  reeds;    in  another  place   (line  412)   the  region  is  called
 
-Sekhet- Aar,  H  ®  jjj]]]  \\  <K\  _s^ ,  and  is  identical  with  the
+Sekhet- Aar,  H  ®  jjj]]]  \\   K\  _s^ ,  and  is  identical  with  the
 Sekhet-Aarru,  DJJO  ^  Q  1^  *ST  ^ '^X  i  n '  anc*  Sekhet- Aanru,
 1 1 Q  "  0  ^\  ™  lm~  ^  ,  of  the  later  Recensions  of  the  Book  of
 the  Dead.  From  a  number  of  other  passages  Ave  find  that  Aaru  or
@@ -6333,7 +6333,7 @@ Y~)    Mv  V  ^^  ' '  *'e*'  "  Field  °f  ^ne  Grasshoppers,"  l  and  in
 it  were   the   Lakes  of  the  Tuat,  c^>  X       ,  and   the
 
 
-Lakes  of  the  Jackals,  L  J  — h—  <k\        v\  -^  a .      In  the
+Lakes  of  the  Jackals,  L  J  — h—   k\        v\  -^  a .      In  the
 
 waters  of  Aaru,  or  Sekhet-Aaru,  Ra  purified  himself  (Pepi  I.,
 line  234),  and  it  was  here  that  the  deceased  also  purified  himself
@@ -6719,7 +6719,7 @@ Festival  of  the   Ploughing  of  the  Earth  and  the  Festival  of  the
 TenA,  (j ,  were  celebrated;    on   the   xivth   day  the  great
 
 1  The  hieroglyphic  texts  tell  us  that  the  head  of   Osiris  was  buried  in  the
-sanctuary  of  Arq-heh,   <c=r>       «     Mr   l  © ,  in  Abydos ;  his  left  eye  was  buried  in
+sanctuary  of  Arq-heh,    c=r>       «     Mr   l  © ,  in  Abydos ;  his  left  eye  was  buried  in
 
 Het-Maakheru,  [)  I  ,  in  Lower  Egypt ;  his  eyebrows  were  buried  in  Am,  ^~
 (PeVusium) ;  his  jaw-bones  Avere  buried  at  Faket  in  Upper  Egypt ;  certain  portions
@@ -7321,7 +7321,7 @@ It  has  already  been  said  that  the  great  source  of  information
 J  H  0
 
 
-1 H  _#  ^^  <c==>  2T  i !  AAAAAA  K  i !  X  ©   i /wwv'  I©   i '  Chaiifcer  clxxv- of
+1 H  _#  ^^   c==>  2T  i !  AAAAAA  K  i !  X  ©   i /wwv'  I©   i '  Chaiifcer  clxxv- of
 
 the  Book  of  the  Dead  (Ani,  pi.  19,  1.  16).
 
@@ -7347,7 +7347,7 @@ of  their  judgment  seems  to  have  been  situated  in  the  sky ;  no
 details  of  the  manner  in  which  it  was  performed  are  given,  but  it
 seems  as  if  the  judgment  consisted  in  the  "  weighing  of  words,"
 
-%s>  piq    ft  f\    <r-=^  v\,  utcha  metn,  that  is  to  say,  the  weighing  of
+%s>  piq    ft  f\     r-=^  v\,  utcha  metn,  that  is  to  say,  the  weighing  of
 
 actions,  for  the  word  metu  means  "  deed,  action,"  as  much  as
 "  word  "  (like  the  Hebrew  ddbhdr,  "Q"j).  The  "  weighing  of  words"
@@ -7869,7 +7869,7 @@ crowned  lord  of  Tettu  (Mendes),  and  ruler  in  Abtu  (Abydos).
 "  Homage  be  to  thee,  0  King  of  kings,  Lord  of  lords,  Ruler
 "  of  princes,  who  from  the  womb  of  Nut  hast  ruled  the  world  and
 
-"  the   Underworld    u\  <J±>  f^^^o   Akert).     Thy  members  are    [like]
+"  the   Underworld    u\   J±>  f^^^o   Akert).     Thy  members  are    [like]
 
 "bright   and  shining  copper,  thy  head  is  blue  [like]  lapis-lazuli,
 
@@ -8433,7 +8433,7 @@ iVw  mw  -  /  Jcheni-nef  meht  mesas
 z£3
 
 
-<ff
+ ff
 
 
 we/
@@ -8762,7 +8762,7 @@ trheru                uatu            men  db  retui-f              thest
 of  boundaries      remote,     firm  of  heart,  his  two  feet    are  lifted  up.
 
 
-«w<ra  $£&  sutenit         taui  maa-f  khu  -  f
+«w ra  $£&  sutenit         taui  maa-f  khu  -  f
 
 Heir  of  Seb      and  the   of  the  two  He  hath  seen  his  power,
 
@@ -8833,7 +8833,7 @@ to  crown    on    the  throne    of    the  father    like    Ra.       He  ris
 [him]
 
 
-cOd  "^^^  jc^.      <wr  D
+cOd  "^^^  jc^.       wr  D
 
 
 —  *     ^^  pf^
@@ -8863,7 +8863,7 @@ s&a%  semi*         e%  %e£er     -?z.e6  menhh  utu
 
 of  the  star  gods,  the  guide    of    god   every,  operative  by    command
 
-mek  /im  e?i      £><z%i(  neteru  dat         merer
+mek  /im  e?i      £> z%i(  neteru  dat         merer
 
 and  word,  favoured  one  of  thepaut   of  the  gods   great,    beloved  of
 
@@ -9245,7 +9245,7 @@ hearts     are  glad,     hearts         rejoice,  every  face      is  happy.
 
 1*J*~    ?*1    ILL'        II-     T-
 
-<iifc  bu-neb  her  tua       neferu-f  netchemui         mert  -  /
+ iifc  bu-neb  her  tua       neferu-f  netchemui         mert  -  /
 
 Every  place  adoreth   his  beauties.  Doubly  sweet   is  his  love
 
@@ -9337,7 +9337,7 @@ neb-f  smen  Madt    en  neb  -  s       ertau  sa
 
 its  lord,     established  is    Maat    by  its  lord,  it  giveth  the  back
 
--  qp<r^  I    ?-■  ±J  %:  At  «A
+-  qp r^  I    ?-■  ±J  %:  At  «A
 
 er  a.s/ef      netchern       db-h        Un-nefer      sa        Ad        sh&p
 
@@ -9947,7 +9947,7 @@ D
 M-fTJ
 
 
-<g
+ g
 
 
 ^  III
@@ -11329,7 +11329,7 @@ KmmMiz^MZ*i^m%m&mD
 iwig^sf^^iCsrs^/^^eH-jri^^x^i
 
 
-mS  Ifrl^EBKSS^IHeiails  H*r.<n
+mS  Ifrl^EBKSS^IHeiails  H*r. n
 
 
 i^ttzzmtmizzmntiW^mHrm
@@ -11704,7 +11704,7 @@ Matet  Boat,  i.e.,  the  boat  of  the  rising  sun  (line  293) ;  moreover,
 he  is  declared  to  be  the  very  son  of  Isis  and  of  her  twin
 form  Nephthys.1  In  a  remarkable  passage  in  the  text  of  Teta
 (line  84)  the  deceased  is  introduced  to  the  triad  of  goddesses,  Isis,
-Nephthys,  and  Asbet,  <k\  [>  J  ° ,  as  their  son,  and  elsewhere
+Nephthys,  and  Asbet,   k\  [>  J  ° ,  as  their  son,  and  elsewhere
 (line  172)  Seb,  the  father  of  Osiris  and  Isis,  is  made  to  speak  of
 
 ■  ii  s  sd  t  s  ^  t  *«  ram  ?
@@ -12640,7 +12640,7 @@ forth
 
 AJL  — — — LI  /wsaaa  ^£J    /www.  ti       \  J
 
-Tia      «  jTe/<m  Befen  ha-d        sep  sen      Mestet
+Tia      «  jTe/ m  Befen  ha-d        sep  sen      Mestet
 
 with  me  at   Tefen  and   Befen  were   behind  me,    twice,  Mestet  and
 my  side.
@@ -13053,7 +13053,7 @@ through
 If1      ?|  1
 
 
-<o<
+ o<
 
 
 dw     ww    i         e/i     hherus         db-d  ant  en  slier
@@ -13115,7 +13115,7 @@ neJchen  er    sednJch      entet  em  ha  dhet  met
 
 the  child  to    vivify  that  of  which  had  closed  the  throat.    0  poison
 
-AAAAAA        V  _C]°\i       1    -/J        <-_>  |  |  S  AAAAAA        '  -A     ^       AAAAAA  _<d       ^
+AAAAAA        V  _C]°\i       1    -/J        <-_>  |  |  S  AAAAAA        '  -A     ^       AAAAAA  _ d       ^
 
 Te/ew.  mddt       per     her        ta  an      sliaset      an       dqet
 
@@ -13460,7 +13460,7 @@ places
 O
 
 
-a        <m&/a         nekhen         mit  met  dnkh       Rd     -   mi£
+a         m&/a         nekhen         mit  met  dnkh       Rd     -   mi£
 
 0      liveth      the  boy,       dieth      the  poison ;      liveth      Ra,      dieth
 
@@ -13619,7 +13619,7 @@ SORROWS   OF   ISIS
 231
 
 
-<o)
+ o)
 
 
 Behdt
@@ -13683,7 +13683,7 @@ I  vill  protect,     twice,     my  son
 D
 
 
-<Z^3  — "—  ^         \\
+ Z^3  — "—  ^         \\
 
 pet-nes  ddui-s
 
@@ -14108,7 +14108,7 @@ e?)i  pan-sen
 
 at  once,  came       to  me      the  fenmen      from       their  houses,
 
-AAAAAA  AVWNA  rfTX  II        61  -fl  71/3(1  f\     <T 5»
+AAAAAA  AVWNA  rfTX  II        61  -fl  71/3(1  f\      T 5»
 
 r-im^  179.^  I  J)         ^^^0 ■  fl
 
@@ -14208,12 +14208,12 @@ hidden
 
 il       Ml188---  M    ^    ?      W
 
-<x??m  s/imt       -      /      heh        sep        hru  enen
+ x??m  s/imt       -      /      heh        sep        hru  enen
 
 those  who  were  in     his  service       many  time[s]  a  day.  These  (said)
 
 
-<f*_  f  ^  —    ^^(1      T    189-
+ f*_  f  ^  —    ^^(1      T    189-
 
 /&er-/  #?iM  JTer?^      en        mut-f  s  em  un-eref
 
@@ -14531,7 +14531,7 @@ The  signification  of  the  name  of  Set  is  not  easy  to  determine.
 Heru,  or  Horus,  certainly  means  "he  who  is  above,"  and  by  analogy
 the  name  Set  ought  to  mean  something  like  "  he  who  is  below ;  "
 and  in  proof  of  this  Dr.  Brugsch  calls  attention !  to  the  well-
-known  Coptic  words,   gp<M  "above,"  and  ecHT  "below."     The
+known  Coptic  words,   gp M  "above,"  and  ecHT  "below."     The
 
 hieroglyphic   form   of    the   name    Set,     U,   or  ,  has   for    its
 
@@ -14615,7 +14615,7 @@ small  serpents  and  noxious  creatures  of  various  kinds.     The  name
 
 of  the  serpent  was  Apep,   TTl  ibM ,  or  Afiapef,  j\  aJ^  J^_ ,
 
-which  is  preserved  in  Coptic  under  the  form  <mt<juc|>,  but  he  was  also
+which  is  preserved  in  Coptic  under  the  form   mt juc|>,  but  he  was  also
 
 called  Rerek,   <=>  |® j[_ ,  and  since  he  was  identified  with  a  long
 
@@ -14718,7 +14718,7 @@ were  the  common  symbols  of  Set,  but  instances  are  known  in
 which  he  is  represented  in  the  form  of  a  man,  wearing  a  beard  and
 a  tail,  and  holding  the  usual  symbols  of  divinity.  In  the  example
 figured  by  Lanzone3the  god  is  called  "mighty-one  of  two-fold
-strength,"  <x=>  f^f]  ^— °,  and  is  accompanied  by  Nephthys,  who
+strength,"   x=>  f^f]  ^— °,  and  is  accompanied  by  Nephthys,  who
 wears  upon  her  head  a  pair  of  horns  and  a  disk.  Now,  as  Set  was
 the  personification  of  the  powers  of  darkness,  and  of  evil,  and  of
 the  forces  of  the  waters  which  were  supposed  to  resist  light  and
@@ -15126,7 +15126,7 @@ which  she  makes  (Chap.  cli.A),  she  says,  "  I  go  round  about  behind
 "triumph,  thy  head  shall  never  be  taken  away  from  thee,  and
 "  thou  shalt  be  made  to  rise  up  in  peace."  Like  Isis,  Nephthys
 was  believed  to  possess  magical  powers,  and  Urt-hekau,
-<!=>  5  LJ  1^  ^  §0  '  f  *,e"'  "  mionty  one  °f  words  of  power,"  was  as
+ !=>  5  LJ  1^  ^  §0  '  f  *,e"'  "  mionty  one  °f  words  of  power,"  was  as
 much  a  title  of  the  goddess  as  of  her  husband,  Set-Nubti,  the
 great  one  of  two-fold  strength,  ^=>  T\f}^  •  Nephthys  also,  like
 Isis,  has  many  forms,  for  she  is  one  of  the  two  Maat  goddesses,  and
@@ -15361,7 +15361,7 @@ but  his  face  is  said  to  be  in  the  form  of  that  of  Anubis,     ^    
 The   localities   in   which   Anubis   was    specially   worshipped    are
 
 Abt,    the   Papyrus    Swamps,    (1  c^  S  ^  ieeei  ,    Sep,    "^C,    Re-au,
-<7=><ffffc®>     Heru-ti,    ^'^~^©,    Ta-hetchet,    =^j[@,    Saiut,
+<7=> ffffc®>     Heru-ti,    ^'^~^©,    Ta-hetchet,    =^j[@,    Saiut,
 
 
 262  ANUBIS   AND    OSIRIS
@@ -15528,7 +15528,7 @@ probable  that  the  fusion  of  Horus  with  Anubis  was  a  political
 expedient  on  the  part  of  the  priesthood  who,  finding  no  room  in
 their  system  for  the  old  god  of  the  dead,  identified  him  with  a
 form  of  Horus,  just  as  they  had  done  with  his  father  Set,  and
-then  mingled  the  attributes  of  the  two  £<xls.  Horus  and  Anubis
+then  mingled  the  attributes  of  the  two  £ xls.  Horus  and  Anubis
 thus  became  in  the  new  theology  a  duplicate  of  the  Horus  and  Set
 in  the  old,  and  the  double  god  possessed  two  distinct  and  opposite
 aspects ;  as  the  guide  of  heaven  and  the  leader  of  souls  to  Osiris
@@ -15872,7 +15872,7 @@ supplying  her  with  a  series  of  incantations  of  irresistible  might.
 ^2?HTa<£  P£  n~WWW£T^K,±wt\i£:{:%.&Z)
 
 
-:W.UA^L  €«SS«PWKr**T5/i  rXSMZjlgU<h?£<&
+:W.UA^L  €«SS«PWKr**T5/i  rXSMZjlgU h?£<&
 
 
 TH^^lTm^B\^M^,k-l]im%l
@@ -15899,7 +15899,7 @@ I  I    D.    r~r~*    -Zt~L.  I    I
 rhJ
 
 
-^ijrtf.'yf5rs*£fh.^5^frirrr:^fcvrfas<ff
+^ijrtf.'yf5rs*£fh.^5^frirrr:^fcvrfas ff
 
 
 ^a^tffeBfci^iri^s^ctrrsiKffiRueix*
@@ -17172,7 +17172,7 @@ KHENT-KHATITH    and    ^£7
 
 Heb-Antet.
 
-6  Variants,  (1  U  l)  e»?  Apt-hent  and  <j£?  (j       X         I,  Heb-api-hkxi-s.
+6  Variants,  (1  U  l)  e»?  Apt-hent  and   j£?  (j       X         I,  Heb-api-hkxi-s.
 
 7  Variants,  v^y-  ^2^7,  Apt-Renpit  and  ^ZS^   ^  ,  Heb-tep.
 
@@ -17734,7 +17734,7 @@ the  priests,  no  doubt,  identified  the  World-Body  with  their  local
 gods.  Men  and  gods  were  supposed  to  contain  the  same  component
 parts.     Man  possessed:— 1.  A  physical  body  (^1^,  hhat).      2.  A
 
-1  Dizionario,  pi.  384,  No.  2.  3  Brugscli,  Diet.  G<:o<j.,  p.  77G.
+1  Dizionario,  pi.  384,  No.  2.  3  Brugscli,  Diet.  G<:o j.,  p.  77G.
 
 
 300  MISCELLANEOUS   GODS
@@ -17759,7 +17759,7 @@ ance."    7.  Sheps,    ijJ,    "wealth."      8.  Senem,    ^,    "interment."
 
 9.  Sept,  ^,  "provision."     10.  Tet,  jj,  "stability."    11.  Maa,-(e)-,
 
-"sight."     12.  Setem,  4),  "hearing."  13.  Sa,  <mm,  "intelligence."
+"sight."     12.  Setem,  4),  "hearing."  13.  Sa,   mm,  "intelligence."
 
 14.  Hu,    *=,    "taste."       Similarly  the    texts    show    that     the
 
@@ -18056,7 +18056,7 @@ o
 Q
 
 
-<Tt)  i  Heru-em-au-ab.
+ Tt)  i  Heru-em-au-ab.
 
 o    u  •
 
@@ -18263,7 +18263,7 @@ w    &
 6.  Themat-hert.
 
 
-a  <o
+a   o
 
 
 *.
@@ -18464,7 +18464,7 @@ m —  /wv^m  2
 21.  S  AS  A- SERT        .       .       .
 
 
-&<t
+& t
 
 
 20.  Sert.
@@ -18803,7 +18803,7 @@ I]
 
 XV. — The  Star-gods  behind  Sothis  and  Orion.
 
-1§><I|§=x,  or  Shetu,  c:s^,w.
+1§> I|§=x,  or  Shetu,  c:s^,w.
 
 
 1.  Shethu,
@@ -19218,7 +19218,7 @@ O    -- -  £                                                                   
 
 ^i     bJD  p                                                H                 w                                  „            .
 
-"  "C  ^      <g                                    g             ^             -
+"  "C  ^       g                                    g             ^             -
 
 
 72      ©         »  .          H-  p-  11                                                        -2  111
@@ -19245,7 +19245,7 @@ g       i<        K  o        ?        ^        ^  ^
 
 d                                             ^
 
-5  i-H     c4     co     -^     >o     co     i>I     od     as     o     *-^     <m  1
+5  i-H     c4     co     -^     >o     co     i>I     od     as     o     *-^      m  1
 
 •  V  —        ^—        i—i  s
 
@@ -19270,7 +19270,7 @@ jo.      ll.  Heru,  ^.      12.  Remi,  ^I^Jtjfff.      13.  Aatiu,
 
 
 w
-.    18.  Madti,  \i  ^  ~      19.  Tebati,  <^  <t^  ~     20.  Shai,
+.    18.  Madti,  \i  ^  ~      19.  Tebati,  <^   t^  ~     20.  Shai,
 
 ]L     21.  Amen-khat,  (]™|   ^  !.     22.  Tuati,   *°  u.
 
@@ -19287,7 +19287,7 @@ w
 
 |\    AA/VA\   £^   »  o  s       ->.       -\
 
-34.  Antheti,    IL  <S     35.  Theta-enen,  Li..     36    Besi-
+34.  Antheti,    IL   S     35.  Theta-enen,  Li..     36    Besi-
 
 shemti,    JP^™^.      37.    Semaahut,     fl^f^^.      38.
 Kheperi,  S  M.    39.  Ka-Ateni,  <=>  ©  h   °    M0.    10.  Sekhem-
@@ -19298,7 +19298,7 @@ V*3        1     1  H        I  1    AAA/W\        I
 
 TIT  0      ^  ^         AAftAAA  ^prf
 
-44.   Nut,  .      45.    Tefnut,  .      46.    Nebt-het,         <a,
+44.   Nut,  .      45.    Tefnut,  .      46.    Nebt-het,          a,
 
 47.  Nu,    ^\      48.  Huaaiti,   |  f]  ^^  (]()"•     49.  Nethert,
 
@@ -19640,7 +19640,7 @@ l\i-
 
 t rr 1    /VSAA/v\
 
-<dl^>    MAAM
+ dl^>    MAAM
 
 
 ^>-
@@ -21849,7 +21849,7 @@ and  jElian  call  Apis  "Eua^o^,  and  the  former  describes  him  as  the
 "  calf  of  a  cow  which  is  incapable  of  conceiving  another  offspring  ;
 "  and  the  Egyptians  say  that  lightning  descends  upon  the  cow  from
 
-Ae'yet   oe   tis   to>i>   Trpo<pr]Tojv   Aoyos   ov    7racriv   eKnvcrTOS,    on   apa    [M?)cis]    o    tujv
+Ae'yet   oe   tis   to>i>   Trpo pr]Tojv   Aoyos   ov    7racriv   eKnvcrTOS,    on   apa    [M?)cis]    o    tujv
 ALyv7TTiwv  (3ao-L\ev<;   (.Trevoqcn.   £u>oj/  wore   ae/Sew   €fJ.(f>v^ov,  etra  /xevTOi   npoeiXero  ravpuv,
 a.7rdvT(A)v  uypaiorarov  etvai  avrov  7re77-io-Teu/cajs.      Dc  Nat.  Animal,  xi.  10.
 3  See  Cory's  Ancient  Fragments.
@@ -22266,7 +22266,7 @@ Sunrise,  and  that  he  assisted  Horus  to  be  re-born  daily.  In  the
 Pyramid  Texts,  Sebek  is  made  to  restore  the  eyes  to  the  deceased,
 and  to  make  firm  his  mouth,  and  to  give  him  the  use  of  his  head,
 and  to  bring  Tsis  and  Nephthys  to  him,  and  to  assist  in  the  over-
-throw of  Set,  the  enemy  of  ev<ery  "  Osiris."  He  opened  the  doors
+throw of  Set,  the  enemy  of  ev ery  "  Osiris."  He  opened  the  doors
 of  heaven  to  the  deceased,  and  led  him  along  the  bypaths  and
 ways  of  heaven  and,  in  short,  assisted  the  dead  to  rise  to  the  new
 life,  even  as  he  had  helped  the  child  Horus  to  take  his  seat  upon
@@ -22529,7 +22529,7 @@ kings  valued  their  pet  lions  more  as  symbols  of  the  Sun-god  and  of
 his  protective  power,  than  as  effective  combatants.  In  the  Theban
 Book  of  the  Dead  the  double  lion-god  who  is  so  often  mentioned
 
-under  the  name  <sflj}\  i    is,  of  course,  Shu  and  Tefnut
+under  the  name   sflj}\  i    is,  of  course,  Shu  and  Tefnut
 
 or  two  gods  who  were  identified  with  them.     Other  lion-gods  bore
 
@@ -22567,7 +22567,7 @@ LYNX    AND    CAT  363
 
 and  Cat,  for  each  of  these  animals  played  an  interesting  part  in
 Egyptian  mythology.  The  lynx  was  called  in  Egyptian  Maftet,
-^g^  c±p ,  or  Jp  j^  c^p  <y^iK. ;  the  former  spelling  being  that  of  the
+^g^  c±p ,  or  Jp  j^  c^p   y^iK. ;  the  former  spelling  being  that  of  the
 Pyramid  Texts,  and  the  latter  that  in  use  in  the  Theban  Recension
 of  the  Book  of  the  Dead.  The  animal  is  like  a  large  cat  and  has
 a  small  patch  of  hair  on  the  tip  of  each  ear,  and  its  disposition  is,
@@ -23315,7 +23315,7 @@ GRASSHOPPER,    BEETLE  379
 
 According  to  Horapollo  (i.  25),  the  frog  typified  an  imperfectly
 formed  man,  j4.7rXo.aTou  Se  dvOpcunov  ypd(f)OVT€<$  fidrpayov  ^ojypcufxiv-
-<Tiv,  because  it  was  generated  from  the  slime  of  the  river,  whence
+ Tiv,  because  it  was  generated  from  the  slime  of  the  river,  whence
 it  occasionally  happens  that  it  is  seen  with  one  part  of  a  frog,  and
 the  remainder  formed  of  slime,  so  that  should  the  river  fall,  the
 animal  would  be  left  imperfect ;  the  half-formed  creatures  referred
@@ -23497,7 +23497,7 @@ legends  have  been  preserved  ;  the  Latus  was  worshipped  at  Esneh.
 The  fish  with  the  very  wide  and  large  mouth  which  is  seen  on  the
 head  of  the  goddess  Hatmehit,  -=^  °<==^  8  flfl  ^  J) ,  has  not  yet  been
 identified.  In  the  Booh  of  the  Dead  two  mythological  fish  are
-mentioned,  the  Abtu,  ¥  J  ££  v\<e=<,  and  the  Ant,  (j/wwvv<o<;
+mentioned,  the  Abtu,  ¥  J  ££  v\ e=<,  and  the  Ant,  (j/wwvv o<;
 these  fish  were  supposed  to  swim,  one  on  each  side  of  the  bows  of  the
 boat  of  the  Sun-god,  and  to  drive  away  from  it  every  evil  being  or
 thing  in  the  waters  which  had  a  mind  to  attack  it.  The  identifica-

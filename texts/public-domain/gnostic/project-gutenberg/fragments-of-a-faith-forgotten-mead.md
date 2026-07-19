@@ -13549,7 +13549,7 @@ of    Friends.
 "  Many  of  these  things  which  are  written  in
 the  public  volumes,  are  found  written  in  the  Church  Concerning
 
-*     j»i    -j'        <n  1 1  i   •  i  •    i  tne  Pe°Ple  °
+*     j»i    -j'         n  1 1  i   •  i  •    i  tne  Pe°Ple  °
 
 01  God.     For    those  teachings  which    are    common,  the  Beloved.
 are   the   words  which   proceed    from  the  heart,   the
@@ -14806,7 +14806,7 @@ The  emanated    and    generated    Mind -and -Truth,    that    is
 
 Parents  ot
 
-the  .<Eons.  to  say,  the  dyad,  which  is  Lady  and  Beginning,
+the  . Eons.  to  say,  the  dyad,  which  is  Lady  and  Beginning,
 and  Mother  of  all  the  aeons  they  reckon  in  the
 Pleroma.  And  Mind -and -Truth,  having  been
 emanated  from  the  Father,  possessing  the  power
@@ -16180,7 +16180,7 @@ is  the  Alpha  and  Omega  (1  and  800)  of  the  diagram,
 the  first  and  last  of  the  numbers,  representing  the
 head.  Moreover  the  word  for  "dove"  in  Greek  is
 Trepia-repd,  and  80  (TT)  +  5  (e)  +  100  (/o)  +  10  (i)  +
-200  (<r)  -f  300  (r)  +  5  (e)  +  100  (p)  +  1  (a)  =  801.
+200  ( r)  -f  300  (r)  +  5  (e)  +  100  (p)  +  1  (a)  =  801.
 
 Again,  it  was  on  the  "  sixth  day,"  the  "  prepara
 tion,"  that  the  divine  economy,  or  order  of  things,
@@ -16282,7 +16282,7 @@ speech  gives  the  name  of  Monad  (or  Nought).
 374  FRAGMENTS  OF   A    FAITH   FORGOTTEN.
 
 With  this  Monad  consubsists  a  power  of  equal  sub
-stance  (6^ooJ<T(o?)  with  it,  which  I  call  One.  These
+stance  (6^ooJ T(o?)  with  it,  which  I  call  One.  These
 powers,  Noughtness,  Oneness,  Nought  and  One,  send
 forth  the  rest  of  the  emanations  of  the  aeons.
 
@@ -20703,7 +20703,7 @@ possess  all  its  Gnosis.
 
 The  Master  then  continues  His  description  of  the
 Gnosis  of  the  Mystery  of  the  Ineffable,  resuming  it  at  Concerning
-the    point    where    He    had    broken    off,    and    leading  Word  <rf  the
+the    point    where    He    had    broken    off,    and    leading  Word   rf  the
 them    higher   and   higher  into   the   supernal  heights  Ineffable-
 through     space     after    space,    and     hierarchy    after
 hierarchy,   of   stupendous   being   and    its  emanation,
@@ -23127,7 +23127,7 @@ the  Realm  of  Light.
 
 He  first  shows  them  leou  in  his  own  nature,  as  a
 simple  emanation  from  the  Ineffablo  Treasures  of  the
-Father,  before  he  has  in  his  turn  <ent  forth  emana
+Father,  before  he  has  in  his  turn   ent  forth  emana
 tions  by  the  command  of  the  Father.  A  strange
 combination  of  letters  and  signs  is  said  to  be  the
 

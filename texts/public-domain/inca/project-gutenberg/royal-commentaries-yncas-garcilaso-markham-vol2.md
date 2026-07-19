@@ -4073,7 +4073,7 @@ generation  in  what  he  relates.  Nevertheless  I rejoice  that
 he  should  so  far  confirm  my  narrative.*
 
 The  name  of  the  queen,  the  wife  of  Uira-ccocha,  was
-Mama  Runtu,  which  means  <c  Mother  Egg.”  They  called
+Mama  Runtu,  which  means   c  Mother  Egg.”  They  called
 her  so  because  her  complexion  was  fairer  than  is  usual  with
 the  Indian  women,  and  by  way  of  comparison  they  said
 “ Mother  Egg-/’  which  is  a graceful  way  of  speaking  in  this
@@ -16737,7 +16737,7 @@ especially  the  eating  of  cuca,  which  appeared  a vile  and  base
 habit.  He,  therefore,  said: — “ Supposing  your  necessity  to
 be  such  as  you  describe  it,  yet  why  do  you  eat  the  cuca,  like
 an  Indian,  seeing  it  is  an  unseemly  habit,  and  abominated
-by  the  Spaniards?”  The  soldier  answered: — <cIn  truth,  I
+by  the  Spaniards?”  The  soldier  answered: —  cIn  truth,  I
 did  not  abominate  it  less  than  my  countrymen,  but  necessity
 has  obliged  me  to  imitate  the  Indians  and  carry  it  in  my
 mouth.  For  I would  have  you  to  know  that  if  I did  not  do
@@ -24532,7 +24532,7 @@ i,  285
 Cachi,  salt,  i,  74;  ii,  238
 Cachun  (Cacham),  the  pepino  fruit
 (a  cucurbitacea),  ii,  361
-Ca<ji,  a fast,  ii,  229
+Ca ji,  a fast,  ii,  229
 Cam,  you,  i,  197
 Cama,  the  soul,  i,  106
 Camac,  created,  i,  101
@@ -24552,7 +24552,7 @@ Capia,  a kind  of  maize,  ii,  355
 Carache,  a disease  among  llamas,  ii
 378
 
-Casi,  see  Ca<ji
+Casi,  see  Ca ji
 Cassa,  ice,  ii,  326
 Catu,  market,  ii,  254
 Cavi,  preserved  oca  (which  see),  ii
@@ -25989,7 +25989,7 @@ IV.
 i,  29  I 520
 
 
-O 00  <T
+O 00   T
 
 
 INDEX.

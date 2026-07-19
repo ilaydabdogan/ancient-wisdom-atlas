@@ -9622,7 +9622,7 @@ The  titles  under  which  we  hear  of  the  Oba  of  the  Bin  I
 spoken  about  are  : —
 
 Obadududu,  perhaps  the  Oba  of  Heaven,  the  name  of  the
-supreme  goddess  among  the  yoruba  Odudua.  /^'u  ,  0<L^-(<^ck    -^  LC^  "v
+supreme  goddess  among  the  yoruba  Odudua.  /^'u  ,  0 L^-(<^ck    -^  LC^  "v
 
 Enonyagbon,  the  lord  of  the  earth.  '^-;^ar^.,^>vv\V5T>-7
 
@@ -10209,7 +10209,7 @@ WW
 (V)  .
 
 
-<J   O  ^  K
+ J   O  ^  K
 
 
 K   O  Z   K
@@ -10270,7 +10270,7 @@ r
 
 L
 
-<K
+ K
 
 -
 

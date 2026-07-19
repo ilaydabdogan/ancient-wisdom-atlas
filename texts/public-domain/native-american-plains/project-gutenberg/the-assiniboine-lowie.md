@@ -7318,7 +7318,7 @@ n  1251  ec7aLye^h  **  ^  Monta^nais  mythology  (Jesuit  Relations,  1636,  Vo
 
 3  in  another  version,  the  visitors  are  Ojibwa.  Sitcon'ski  pretends  to  be  dead  but  finullv
 
-medicines': far  trapping<bSver,\yrix  ^  ^  "***  be“
+medicines': far  trapping bSver,\yrix  ^  ^  "***  be“
 
 p.  70  (Gros  Ventre);  Dorsey  and  Kroeber  p  m ^  (AranahoV  ’ T n n Kr°eber’  (e)’
 
@@ -7483,7 +7483,7 @@ this  way.  Thus  he  killed  four  hundred  of  them.
 Sitcon,ski  got  to  a  large  lake  and  saw  some  plants  growing  in  the  water.
 He  asked  them,  “What  is  your  name?”  “Reed  (?).”  “Everything  has
 
-i  Cf.  Kroeber,  (e)7p^  69  (Gros  Ventre);  Dorsey  and  Kroeber,  p.  6°  (Arapaho);  Ibi<L,
+i  Cf.  Kroeber,  (e)7p^  69  (Gros  Ventre);  Dorsey  and  Kroeber,  p.  6°  (Arapaho);  Ibi L,
 fi0  (ChevenneV  Simms,  p.  287  (Crow);  Jones,  p.  273  (Fox);  G.  A.  Doisey,  (d),  p.
 hrSJS?  iZ  W,  P  m  SWw„ee>:  «.  CO,  P.  (Wichita).  Al»  ha.rh  hy  the  w»«r
 among  the  Cree.

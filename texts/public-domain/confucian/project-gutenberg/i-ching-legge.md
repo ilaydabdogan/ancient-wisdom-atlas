@@ -1012,7 +1012,7 @@ OR
 BOOK OF CHANCES.
 
 
-T HE<Vtd NG
+T HE Vtd NG
 
 
 OR
@@ -1304,7 +1304,7 @@ or perhaps that it was begun in the former year and finished
 in the latter’.
 
 But the part which is thus ascribed to king W4n is only
-a small portion of the Yi. <A larger share is attributed to
+a small portion of the Yi.  A larger share is attributed to
 his son Tan, known as the duke of K4u, and in it we have
 allusions to king Wi, who succeeded his father Wan, and
 was really the first sovereign of the dynasty of Kau’.
@@ -15278,7 +15278,7 @@ way Thien here is equal to Thien wang, so frequent in the
 
 
 HEX. 8 APPENDIX II. 277
-<r—rctieiateliliaeiainnieseeanie ia
+ r—rctieiateliliaeiainnieseeanie ia
 
 VIII. (The trigram representing) the earth, and
 over it (that representing) water, form Pi. The
@@ -23802,7 +23802,7 @@ men go.
 TRANSLITERATION OF ORIENTAL ALPHABETS,
 
 
-oe <ea td aa aveks Kw lee eel 4 se ele ee eee ee sree 6 y7
+oe  ea td aa aveks Kw lee eel 4 se ele ee eee ee sree 6 y7
 oe 3 3 weep eee en | yw fee ee] yo [ee ele eee ++ + + emyedse “ gf
 66 6 ° >) D) ar) R ik ee ee 6 eM ot likeciee Mees. ie! lone iio * * gIpaW Cl
 yy ° ° ° ° or Bir~ ete oe 8 @ ES cere” re yy ebwetere’ | ule.16- 0° >@. 0) = te vyeiidss “ce +1
@@ -24118,7 +24118,7 @@ eles.) (3) 5 cree ee © BBuoT “
 
 
 1 co 8 es 6 © © BIADIG SITEZB[SG
-; te ee e+ eBu0T <a
+; te ee e+ eBu0T  a
 a ss ee 5 + © stagsq sIpeIngyns
 
 ene ae We

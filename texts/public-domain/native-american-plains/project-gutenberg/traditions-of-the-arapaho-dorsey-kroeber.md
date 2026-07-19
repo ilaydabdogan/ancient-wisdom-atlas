@@ -230,9 +230,9 @@ viii
 
 51.  Nih’an9an  and  the  Young  Men  race  for  Wives.  D.
 
-52.  Nih’an<pan  and  the  Mice’s  Sun  Dance.  K.
+52.  Nih’an pan  and  the  Mice’s  Sun  Dance.  K.
 
-53.  Nih’an<pan  and  the  Mice’s  Sun  Dance.  D.
+53.  Nih’an pan  and  the  Mice’s  Sun  Dance.  D.
 
 54.  Nih’angan  cuts  his  Hair.  D.  -
 
@@ -1281,7 +1281,7 @@ and  went  to  the  place,  and  looked,  and  finally  found  a  blue  feather.
 He  put  it  into  the  sweat-house  and  with  his  bow  shot  up  into  the  air
 four  times.  The  fourth  time  the  arrow  hit  the  top  of  the  sweat-house,
 and  Blue-bird  came  out  alive.  But  they  feared  that  place  and
-went  to  join  him  who  had  the  turtle  moccasins.  They  met  Nih*an<jan/
+went  to  join  him  who  had  the  turtle  moccasins.  They  met  Nih*an jan/
 who  went  with  them.  Meeting  him  was  a  sign  of  death.  The  water
 began  to  rise.  They  went  to  the  top  of  a  high  mountain.  Nih;angan  lay
 down  on  the  very  summit,  which  had  been  reserved  for  the  children.
@@ -3410,7 +3410,7 @@ yourselves  here;  there  are  several  lakes  just  over  the  hill,  where  th
 are  plenty  of  nice  clean  young  cottonwood  trees  and  yellow  willows
 on  the  banks;  the  water  is  very  deep  and  green.  You  ought  to  go.
 over  there  and  live  upon  the  fine  trees  and  drink  that  good  water.  I
-will  show  you  the  way  and  will  take  you  over,”  said  Nih  an<jan.  “All
+will  show  you  the  way  and  will  take  you  over,”  said  Nih  an jan.  “All
 right !  He  is  advising  us  for  our  benefit,”  said  the  beavers.
 
 Nih  anqan  cut  a  big  stick  for  a  club,  and  the  beavers  got  out  of
@@ -3429,7 +3429,7 @@ gone  a  little  farther  from  their  dam  Nih’an<;an  struck  one  dead.  Th
 others  turned  and  began  running  back  to-  the  dam,  Nih,angan  running
 after  them  and  knocking  them  down,  until  there  were  only  two  left,
 a  male  and  a  female.  “You  go  back  to  your  den,  so  that  your  seed
-may  increase  in  number  and  in  kind,”  said  NiYan<jan.
+may  increase  in  number  and  in  kind,”  said  NiYan jan.
 
 Nih5angan  then  gathered  up  all  the  dead  beavers,  made  a  pit  in
 which  he  placed  them,  covered  them  up  with  dirt  and  built  a  fire  to
@@ -3665,7 +3665,7 @@ I  have  enough  meat.  I  thought  I  could  get  them  easily.”  He  climbed
 down,  took  a  stick,  and  killed  all  the  elk  that  were  still  alive.  Then  he
 dragged  them  away  and  for  a  long  time  he  was  busy  cutting  the  meat.
 
-,’Nih’an<jan  was  just  cutting  out  a  paunch  when  the  coyote  came.
+,’Nih’an jan  was  just  cutting  out  a  paunch  when  the  coyote  came.
 He  gave  him  the  paunch,  and  said:  “Go  down  to  the  stream  and
 bring  up  some  water.  I  will  give  you  some  of  my  meat  when  I  have
 finished  cutting.”  The  coyote  went  down  to  the  stream,  sat  there,  and
@@ -4434,7 +4434,7 @@ Both  of  them  together  erected  a  shelter  and  made  separate  beds.
 Late  in  the  night,  NilfiaAja11  complained  of  being  too  cold.  The  moth¬
 er-in-law  gave  him  more  cover,  but  he  was  knocking  his  teeth  to¬
 gether,  and  rolled  about.  “Are  you  still  cold,  son-in-law?”  said  the
-woman.  “Oh,  yes  !  I  can’t  lie  still,  said  Nih’an<jan.  “Age  dum,”  in¬
+woman.  “Oh,  yes  !  I  can’t  lie  still,  said  Nih’an jan.  “Age  dum,”  in¬
 quit  mulier,  “potes  mecum  reclinari.”  Itaque  reclinatus  est'et  quamquam
 mox  calefiebat  tamen  horrebat.  “Quid  nunc  agis”  inquit  mulier.  “Quid
 mater,”  inquit  ille,  “una  pars  corporis  mei  gelata  est  et  nisi  tu  me
@@ -4560,7 +4560,7 @@ be  sure  and  take  care  of  the  children,’  ”  said  Nihan(jan.  Of  cou
 woman  consented  and. took  him  as  her  husband,  since  the  other  man
 had  been  gone  for  some  time.
 
-Time  went  on  with  the  family.  This  Nihan<jan  was  constantly
+Time  went  on  with  the  family.  This  Nihan jan  was  constantly
 bringing  beef  for  his  tipi.  He  was  very  kind  in  the  beginning,  but  later
 on  he  would  scold  the  children  without  any  cause  or  leason;  also  his
 new  wife.  “Can’t  you  children  behave  yourselves  !  I  wish  I  had  never
@@ -4602,7 +4602,7 @@ did  not  know  the  danger,  until  I  looked  down  and  got  dizzy  and  saw
 things  very  small  in  appearance.  I  saw  no  way  to  get  down  and
 therefore  I  have  stayed  here  ever  since, ”  said  the  man.  So  these  geese
 told  him  to  get  ready  (giving  him  strength  again),  and  to  lay  his  body
-<a  cross  their  backs  and  hold  fast.  These  geese  then  flew  up  and  then
+ a  cross  their  backs  and  hold  fast.  These  geese  then  flew  up  and  then
 gradually  descended  and  landed  him  safely.  (This  descent  of  the  man
 upon  the  backs  of  these  geese  corresponds  to  that  of  the  little  bird
 used  m  the  sun-dance,  which  is  on  the  forked  stick,  and  which  is  called
@@ -5011,7 +5011,7 @@ his  sisters  always  sent  them  back.  Nih’ancan  heard  about  Praying-
 young-man;  he  stole  his  clothes  and  dressed  himself  in  them,  so  that
 he  looked  like  him.  Then  he  went  where  he  had  heard  that  there  was
 a  woman  whom  Praying-young-man  was  to  marry.  “There  he  is !  At
-last  Praying-young-man  comes,”  the  people  said.  Then  Nih’an<jan  mar¬
+last  Praying-young-man  comes,”  the  people  said.  Then  Nih’an jan  mar¬
 ried  the  woman.  Meanwhile  the  sisters  went  into'  the  timber,  looking
 for  Praying-young-man ;  they  found  him,  but  his  clothing  was  gone
 (he  was  a  stick  again).  Then  they  heard  that  Nih’ancan  had  married
@@ -5545,8 +5545,8 @@ small  after  having  been  made  from  the  mud  brought  by  the  turtle  from
 
 also  said  10^  ^  St°PS  ‘°  r6St’  ^  rePresented  in  decorative  symbolism  She  is
 
-elrth  H  aeen  On<flnator  of  quill-embroidery,  at  which  she  worked  as  she  circled  over  the
-Sf’  Iwm  r^1''6  d6SignS  Paint6d  °n  raWhide  b3gS-  <The  Arapaho,  Bull.  Am  Mus Nat
+elrth  H  aeen  On flnator  of  quill-embroidery,  at  which  she  worked  as  she  circled  over  the
+Sf’  Iwm  r^1''6  d6SignS  Paint6d  °n  raWhide  b3gS-   The  Arapaho,  Bull.  Am  Mus Nat
 Trad!  ^  °f  ^  new  ™rld  ~  ^
 
 
@@ -5747,7 +5747,7 @@ just  like  smoke,”  called  a  woman.  “The  smoke  birds  are  passing.  G
 on,  he  is  only  a  little  farther,  you  will  catch  him  soon,”  said  Nih’ancan.
 Then  the  heat  followed  the  smoke  into  the  hole.  The  bear-women
 began  to  shout.  “Now  the  heat  birds  are  flying,”  said  NilTauQan.  Then
-the  bears  were  all  killed.  Nih  an<jan  put  out  the  fire  and  dragged  them
+the  bears  were  all  killed.  Nih  an jan  put  out  the  fire  and  dragged  them
 
 1  In  the  original,  the  bear-women  at  this  point  retell  the  whole  story.
 
@@ -6256,7 +6256,7 @@ got  them  out  as  readily  as  if  they  were  lying  on  top.  “Now  give  
 white  paint,”  he  said,  and  his  wife  gave  it  to  him.  “Well,  now  give  me
 my  shoulder  belt  and  my  whistle,”  he  said  again,  and  she  gave  them
 both.  Then,  after  he  had  painted  himself  and  put  on  his  "wings,  he
-and  his  friend  Nili?an<jan  went  out  together  towards  the  water  where
+and  his  friend  Nili?an jan  went  out  together  towards  the  water  where
 there  was  a  round  hole  in  the  ice.  “Now  look  at  me,  my  friend,”  the
 
 1  Added  as  an  episode  in  the  o  iginal  was  a  version  of  the  preceding  tale,  No.  55.
@@ -6537,7 +6537,7 @@ Told  by  Adopted.  Cf.  Nos.  57  and  58;  see  note  to  No.  57.
 
 Nih’anga11  went  down  to  the  river  and  came  to  a  tipi  where  there
 were  a  man  and  wife.  When  he  stopped  at  the  dcor,  he  was  welcomed
-and  invited  to  enter.  “Well,  NilTan<jan,  come  in !  I  am  sorry  that  I
+and  invited  to  enter.  “Well,  NilTan jan,  come  in !  I  am  sorry  that  I
 cannot  give  a  meal  at  once.  I  have  just  eaten  the  last  food  we  had,”
 said  the  man.  Nih’angan  looked  at  the  man  and  wife  carefully.
 
@@ -15884,7 +15884,7 @@ seeds  of  man  and  wife.)  “That  is  good.  It  is  true  that  one  is  ju
 good  in  every  particular  as  the  other,”  said  White-Owl,  slightly  rais¬
 ing  his  head  and  wings,  which  brought  more  sleet  and  snow.
 
-“Well,  I  want  to  know  many  things,  and  I  w<ant  you  to  tell  me
+“Well,  I  want  to  know  many  things,  and  I  w ant  you  to  tell  me
 what  are  the  most  sacred  things  (medicine),”  said  White-Owl.  “Well,
 there  are  three  things  which  I  think  are  sacred  enough  for  anv  one  of
 common  sense,  namely,  day,  night,  and  earth.  The  thing  is  a  ‘medi¬
@@ -21811,9 +21811,9 @@ return  victors.  The  woman  assembles  the  people  and  gives  them  a  dance
 she  goes  back. — K.
 
 
-16.— Nih’an<jan  loses  his  Eyes.
+16.— Nih’an jan  loses  his  Eyes.
 
-Nihan<jaD  sees  man  throw  his  eyes  up  in  cottonwood  tree-tops.
+Nihan jaD  sees  man  throw  his  eyes  up  in  cottonwood  tree-tops.
 Nihangan  asks  to  be  taught  the  trick.  Man  consents  and  shows  him,  but  says
 he  must  not  do  it  excessively.  Nih’angan  comes  to  cottonwood  tree  and  does
 
@@ -21879,7 +21879,7 @@ Abstracts — Dorsey  and  Kroeber.
 427
 
 
-21. — Nih’an<jan  and  Coyote.
+21. — Nih’an jan  and  Coyote.
 
 Nih  angan  and  Coyote  try  to  deceive  each  other.  Coyote  takes  the  form
 of  a  woman.  Cum  Nihangan  cum  ea  coire  conatur,  Coyote  cum  eo  idem  facit. — K.
@@ -21962,7 +21962,7 @@ meat.  The  mice  eat  Nih’angan’s  hair.— K.
 Nih’anqan  goes  to  edge  of  river  and  comes  to  shallow  place,  looks  in  water
 and  sees  shadow  of  sky,  which  he  thinks  is  bottom  of  river.  Looks  across
 river  and  sees  woman  lying  on  sand-bar.  Searches  for  narrow  place  to  cross
-river  but  finds  none.  Little  mouse  runs  by.  Nih  an<jan  optat  coire  cum  muliere
+river  but  finds  none.  Little  mouse  runs  by.  Nih  an jan  optat  coire  cum  muliere
 quae  trans  flumen  est.  Petit  a  mure  ut  suum  membrum  transferat,  quod  fac¬
 tum  est.  Membrum,  quafier  conatum  coitum  facere,  in  ostream  penetravit.
 Haec  clausa  membrum  excidit  et  Nih’ancan  sanguinem  dans  mortuus  est.— D.
@@ -22314,7 +22314,7 @@ a  fire  at  the  entrance,  and  kills  them.  He  hangs  up  the  meat.  While
 wolves  devour  his  meat  and  the  mice  eat  off  his  hair. — K.
 
 
-50. — Nih’an<jan  and  the  Bear-Women.
+50. — Nih’an jan  and  the  Bear-Women.
 
 Nih’angan  near  river  sees  ripe  plums  and  tipi  standing  alone.  He  picks
 few  plums  and  goes  into  tipi.  Is  welcomed  by  four  women.  He  gives  them
@@ -22427,7 +22427,7 @@ leg  and  stabbing  buffalo.  Nih’anqan  invites  him,  and  when  he  comes, 
 his  own  leg.  He  sticks  fast  in  the  buffalo  he  has  kicked.  His  friend  rescues
 him  and  provides  the  meat  for  him.
 
-Nih'an<jan,  visiting  again,  is  given  food  to  eat  by  his  friend,  who  dives
+Nih'an jan,  visiting  again,  is  given  food  to  eat  by  his  friend,  who  dives
 from  a  tree  through  the  ice  and  returns  with  fish.  Nih'angan  invites  him  and
 then  attempts  to  do  the  same,  but  strikes  the  ice  and  is  nearly  killed. — K.
 
@@ -22480,7 +22480,7 @@ who  eats.  Nih'angan  tells  man  he  possesses  same  power.  Invites  him  to
 to  his  place.  Nihangan  goes  back  to  tipi  and  tells  wife  what  to  do  when  his
 friend  comes.  One  day  man  comes.  Nih'angan  sends  wife  for  bark  and  small
 stick.  Bark  is  roasted  and  turned  into  meat.  Wife  beats  meat,  placing  it  in
-bowl  and  asks  for  tallow.  Nih'an<jan  combs  her  hair,  parts  it  in  the  middle  and
+bowl  and  asks  for  tallow.  Nih'an jan  combs  her  hair,  parts  it  in  the  middle  and
 makes  red  steak  over  her  head.  He  takes  axe  and  after  three  motions  toward
 her  strikes  her,  breaking  head  into  several  pieces.  She  is  killed.  Visitor
 laughs  and  goes  to  dead  woman,  rubs  her,  she  is  healed.  He  takes  the  axe
@@ -23277,7 +23277,7 @@ seven  boys,  who  become  puppies  again  on  going  back  to  shelter.  At  di
 asks  for  big  bowl  and  sister  charges  him  with  feeding  puppies.  He  admits  it
 and  after  dinner  goes  and  brings  little  ones  into  tipi.  When  they  get  up  from
 their  seats  they  are  seven  bright  looking  youths.  Boy  takes  them  back  to
-river.  Father  comes  for  them  and  leads  them  <iway  toward  his  parents’  camp-
+river.  Father  comes  for  them  and  leads  them   iway  toward  his  parents’  camp-
 circle.  Boy  goes  home  and  tells  of  loss.  Sister  follows  and  overtakes  man
 with  children.  She  asks  him  to  let  her  have  oldest  boy.  Instead,  he  gives  her
 leg  bone  for  daughter  with  which  woman  returns.  Parents  of  man  give  boys
@@ -24675,7 +24675,7 @@ Husband  takes  bow  and  four  arrows  and  walks  to  open  space.  Lone-Bull
 starts  for  antagonist,  warns  him  to  get  his  power  ready  and  makes  terrific
 rush  at  him.  but  misses,  as  husband  dodges.  Lone-Bull  rushes  at  man  three
 other  times,  but  always  misses.  Lone-Bull  tells  man  to  take  good  look  at  him
-<m d  he  walks  around  and  around,  with  bow  and  arrows,  inspecting  his  body.
+ m d  he  walks  around  and  around,  with  bow  and  arrows,  inspecting  his  body.
 Lie  sends  arrow  through  Lone-Bull’s  heart.  Other  arrow  he  sends  into  his
 flank,  and  Lone-Bull  staggers,  vomiting  blood,  and  drops  dead.  Man  returns
 to  camp-circle  with  glory.  Lone-Bull  comes  to  life  again  and  sends  boy  to

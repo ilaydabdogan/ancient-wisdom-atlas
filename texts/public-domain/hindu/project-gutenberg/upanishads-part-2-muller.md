@@ -129,7 +129,7 @@ Introduction    .  ...
 
 Ka//2a-upanishad  .         .         .
 
-Mu«</aka-upanishad    .
+Mu« /aka-upanishad    .
 Taittiriyaka-upanishad
 Brzhadara^/yaka-upanishad  .
 ^vetai'vatara-upanishad
@@ -388,7 +388,7 @@ Kaivalya-upanishad,  pp.  465-479  ;  Dipika  by
 
 vSafikarananda,
 
-30.  Garu</a-upanishad,  pp.  480  seq. ;    Dipika  by
+30.  Garu /a-upanishad,  pp.  480  seq. ;    Dipika  by
 
 Naraya;/a,
 
@@ -1172,11 +1172,11 @@ III.
 THE   TAITTIRIYAKA-UPANISHAD.
 
 The  Taittiriyaka-upanishad  seems  to  have  had  its  original
-place  in  the  Taittiriya-Ara;<!yaka.  This  Arauyaka.  consists,
+place  in  the  Taittiriya-Ara; !yaka.  This  Arauyaka.  consists,
 as  Rajendralal  Mitra  has  shown  in  the  Introduction  to  his
 edition  of  the  work  in  the  Bibliotheca  Indica,  of  three  por-
 tions. Out  of  its  ten  Prapa///akas,  the  first  six  form  the
-Ara/zyaka  proper,  or  the  Karma-ka«</a,  as  Sa.ya.na.  writes.
+Ara/zyaka  proper,  or  the  Karma-ka« /a,  as  Sa.ya.na.  writes.
 Then  follow  Prapa///akas  VII,  VIII,  and  IX,  forming  the
 Taittiriyaka-upanishad;  and  lastly,  the  tenth  Prapa//^aka,
 the  Ya^y7iki  or  Mahanaraya^^a-upanishad,  which  is  called
@@ -1964,7 +1964,7 @@ essence  of  the  Self,  which  has  been  explained  by  the
 Mantras,  were  to  be  taught  here  again  by  the  Brahma;/a.'
 For  he  adds,  '  by  the  Mantras  "  Brahma  devanam,"  &c.,'
 and  this  is  evidently  meant  for  the  beginning  of  the
-Mu;/</aka-upanishad, 'Brahma  devanam.'  Anandagiri  refers
+Mu;/ /aka-upanishad, 'Brahma  devanam.'  Anandagiri  refers
 again  to  the  Mu;/<^aka  in  order  to  show  that  the  Trsisua.  is
 not  a  mere  repetition,  and  if  6"ankara  calls  the  beginning
 of  it  a  Brahma/za,  this  must  be  taken  in  the  more  general
@@ -12579,7 +12579,7 @@ If  we  read  a^to-ana-^,  we  must  also  read  akara-^,  unless  we  are
 prepared  to  follow  the  commentator,  who  supplies  bhavati.
 
 ^  The  Madhyandinas  begin  with  vayam,  we,  then  i.  Bharadva^i-
-putra,  2.  Vatsima«</aviputra,  3.  Para^ariputra,  4.  Gargiputra,  5.  Pa-
+putra,  2.  Vatsima« /aviputra,  3.  Para^ariputra,  4.  Gargiputra,  5.  Pa-
 rajari-kau;;rf^miputra,  6.  Gargiputra,  7.  Gargiputra,  8.  Bao'eyiputra,
 9.  INIaushikiputra,  10.  Harikar/ziputra,  11.  Bharadv%iputra,  12.
 Paihgiputra,  13.  ^'aunakiputra,  14.  Kaj-yapi-balakya-ma//^ariputra,
@@ -12607,7 +12607,7 @@ VI  ADHYAYA,    5  BRAHMAiVA,  2.  2  25
 
 6.  Aupasvatiputra  from  Parai'ariputra,
 
-7.  Para-<rariputra  from  Katyayaniputra,
+7.  Para- rariputra  from  Katyayaniputra,
 
 8.  Katyayaniputra  from  Kau-S-ikiputra,
 
@@ -12886,7 +12886,7 @@ whose  one  rope  is  manifold,  who  proceeds  on  three
 different  roads,  and  whose  illusion  arises  from  two
 causes.
 
-p.  251)  the  trivr/t  sutram  is  mentioned.  Next  follows  sho</a5'antam,
+p.  251)  the  trivr/t  sutram  is  mentioned.  Next  follows  sho /a5'antam,
 ending  in  the  sixteen.  These  sixteen  are  differently  explained.
 They  may  be  meant  for  the  five  elements  and  the  eleven  indriyas
 or  organs  (the  five  receptive  and  the  five  active  senses,  together  with
@@ -14056,7 +14056,7 @@ which  teaches  sacrifices  and  their  rewards;  the  Guhya,  i. e.  the
 Arawyaka,  which  teaches  the  worship  of  Brahman  under  various
 legendary  aspects ;  and  theUpanishads,  which  teach  the  knowledge
 of  Brahman  without  qualities.  These  three  divisions  would  corre-
-spond to  the  karmaka«</a,  yogakanda,  and  gnamkanda.  (G^aimini,
+spond to  the  karmaka« /a,  yogakanda,  and  gnamkanda.  (G^aimini,
 Pata?l^ali,  Badarayawa).  See  Deussen,  Vedanta,  p.  20.  Mr.  Gough
 and  Dr.  Roer  take  Brahmayoni  as  '  the  source  of  the  Veda,'  or  as
 the  source  of  Hira«yagarbha.  The  irregular  form  vedate  may  be
@@ -18086,7 +18086,7 @@ U  t>^
 '^  :»    *10vJ
 
 
-<r^^3  ^Oj
+ r^^3  ^Oj
 
 
 Qy
@@ -18218,7 +18218,7 @@ il
 
 07
 
-<D
+ D
 
 a,
 
@@ -18707,7 +18707,7 @@ J     CM
 
 (M
 
-<M     CO
+ M     CO
 
 CO
 
@@ -18902,7 +18902,7 @@ i
 TRANSLITERATION   OF   ORIENTAL    ALPHABETS.
 
 
-joi        •        .      eS     <cS     —     <-        .        .        •        .      3     <3      «     •"«    <cS    __.       •      O        .     ^g
+joi        •        .      eS      cS     —     <-        .        .        •        .      3     <3      «     •"«     cS    __.       •      O        .     ^g
 
 ■5        .                .                .        .        .        .
 
@@ -20196,7 +20196,7 @@ Fourth  Edition.     Extra  fcap.  Svo.  7j.  ^d.
 
 An  Icelandic  Primer,  with  Grammar,  Notes,  and  Glossary.
 
-By  Henry  Sweet,  M.A.     Extra  fcap.  Svo.  3^  6<f.
+By  Henry  Sweet,  M.A.     Extra  fcap.  Svo.  3^  6 f.
 
 An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glossary.
 
@@ -20372,7 +20372,7 @@ In  the  Press.
 
 Clarendon.      History  of  the   Rebellion.      Book    VL.      Edited
 
-by  T.  Arnold,  M.A.     Extra  fcap.  Svo.  4J.  6</.
+by  T.  Arnold,  M.A.     Extra  fcap.  Svo.  4J.  6 /.
 
 Dryden.     Select  Poems.     Stanzas    on    the    Death    of   Oliver
 
@@ -20556,7 +20556,7 @@ Assistant  Master  in  Wellington  College.     In   one  or  two  Parts.     Ex
 
 Cicero.    Selection  of  interesting  and  descriptive  passages.   With
 
-Notes.     By  Henry  Walford,  M-A.     In  three  Parts.     Extra  fcap.  8VO.4J.  6</.
+Notes.     By  Henry  Walford,  M-A.     In  three  Parts.     Extra  fcap.  8VO.4J.  6 /.
 
 Each  Part  separately,  limp,  \s.  6d.
 Part  I.       Anecdotes  from  Grecian  and  Roman  History.     Third  Edition.
@@ -20615,7 +20615,7 @@ and  Notes.    By  M.  T.  Tatham,  M.  A.    Extra  fcap.  8vo.  45.  dd.
 Ovid.     Selections  for  the  use  of  Schools.    With  Introductions
 
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.     By  W.  Ramsay,  M.A.
-Edited  by  G.  G.  Ramsay,  M.A.     Tliird  Edition.    Extra  fcap.  8vo.  pj.  6</.
+Edited  by  G.  G.  Ramsay,  M.A.     Tliird  Edition.    Extra  fcap.  8vo.  pj.  6 /.
 
 Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Intro-
 duction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  8vo.  3^-.  dd.
@@ -21343,7 +21343,7 @@ and  Magnetism.     Second  Edition.     2  vols.  Demy  Svo.  i/.  \\s.  Gd.
 
 An   Elementary    Treatise    on    Electricity.     Edited    by
 
-William  Garnett,  M.A.     Demy  Svo.  7j.  <dd.
+William  Garnett,  M.A.     Demy  Svo.  7j.   dd.
 
 Minchin  [G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applica-
 tions to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-

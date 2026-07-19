@@ -3031,7 +3031,7 @@ knife  but  several  thongs  were  buried  with  him.  The  thongs  were
 put  into  the  grave  for  the  purpose  of  enabling  him  to  tie  to  a  tree
 the  kanaima  who  had  caused  his  death  (ScK,  i,  468).  Such  thongs
 are  to  be  seen  also  at  some  of  the  funeral  dances  of  other  tribes.
-Thus,  among  the  Roucouyenne  of  Cayenne,  at  the  p<mo,  or  first  of
+Thus,  among  the  Roucouyenne  of  Cayenne,  at  the  p mo,  or  first  of
 the  two  festivals  m  honor  of  the  dead,  one  man  alone  stands  up,
 holding  in  his  hand  a  whip  eight  meters  long.  With  a  swirUng  motion
 he  cracks  it  with  a  report  like  that  of  a  pistol;  each  one  in  turn  gets
@@ -14640,7 +14640,7 @@ its  moutli  (Nor,  254,  314).
 
 BOTH]  MISCELLANEOUS  BELIEFS  371
 
-350.  The  b<iDia,  or  "stinking  bird"  (Ostinops  spp.)  is  believed  to
+350.  The  b iDia,  or  "stinking  bird"  (Ostinops  spp.)  is  believed  to
 produce  the  aerial  roots  of  the  kofa  tree  {CliLsia  grandifolia),  an  epi-
 phyte, which  are  supposed  to  be  its  castings  turned  into  wood  (Sects.
 138,  168) :  the  natural  "stench"  of  the  bird's  feathers  may  have  had
@@ -15488,7 +15488,7 @@ traveling  dress  basket.
 Pbppeb-pot.    a  meat  stew  containing  capsicums  and  cassareep,  kept  good  by  daUy
 sterilizing  (boiling).
 
-PiMPLEB  Palm.    From  "pimple, "  meaning  a  thorn;    species  of  £ac<m.
+PiMPLEB  Palm.    From  "pimple, "  meaning  a  thorn;    species  of  £ac m.
 
 PiRAi.    A  very  voracious  carnivorous  fish  (Pygocentris  sp.)  with  exceedingly  strong
 and  sharp  incisors.

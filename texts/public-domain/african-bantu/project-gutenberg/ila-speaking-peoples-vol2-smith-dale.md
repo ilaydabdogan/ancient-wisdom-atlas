@@ -13052,7 +13052,7 @@ Suto  that  led  Meinhof  to  the  conclusion  that  many  obscure
 phonetic  changes  in  the  modern  Bantu  languages  were  due
 to  the  presence  in  the  ur-Bantu  of  such  heavy  vowels.
 
-The  primitive  <yi  becomes  zhi  (31)  in  Ila  (munzhi,  a
+The  primitive   yi  becomes  zhi  (31)  in  Ila  (munzhi,  a
 village),  zi  in  Xosa  (umzi),  tse  in  Suto  (motse),  dzi  in  Nyanja
 (mudzi),  and  shi  in  Bemba.  So,  again,  Ila  menzhi,  water
 =  Xosa  amanzi,  Suto  metsi,  Nyanja  madzi,  Bemba  amenshi.
@@ -13591,7 +13591,7 @@ zazambe,  an  endless  thing.
 
 Running  all  through  these  words  there  is  the  idea  of  "  spread-
 ing," and  as  the  one  syllable  common  to  all  is  za  or  ya,
-which  represents  an  original  <ya,  we  may,  if  it  is  legitimate
+which  represents  an  original   ya,  we  may,  if  it  is  legitimate
 to  judge  from  these  four  representative  languages,  con-
 clude that  ja  is  an  original  root  with  that  meaning,  and
 that  the  extended  significations  have  been  given  by  the

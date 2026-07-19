@@ -7401,7 +7401,7 @@ give  day  by  day  commons  of  food  to  poor  lads  and  had  them  taught  f
 and  so  this  Mitta-vindaka  also  became  a  charity  scholar  under  the  Bodhi-
 satta.    But  he  was  fierce  and  intractable,  always  fighting  with  his  fellows
 
-'  Reading  chltahndukliham  for  ¥siV\f,hi')\V9,jdt(ili<uluhl;haiH.
+'  Reading  chltahndukliham  for  ¥siV\f,hi')\V9,jdt(ili uluhl;haiH.
 
 
 no  The  Jataha.     Book  I,
@@ -8812,7 +8812,7 @@ departing  with  all  the  belongings  of  the  caravan,  waggons  and  all.
 
 And  on  the  day  too  of  our  story  these  villagers  failed  not  to  hurry  at
 daybreak  to  the  tree  for  their  expected  spoils.  "  The  oxen  must  be  ours,"
-said  some.  "And  we'll  have  the  waggons,"  sai<l  others; — whilst  others
+said  some.  "And  we'll  have  the  waggons,"  sai l  others; — whilst  others
 again  claimed  the  wares  as  their  share.  But  when  they  came  breathless
 to  the  tree,  there  was  the  whole  cai-avan  alive  and  well !
 
@@ -11796,7 +11796,7 @@ big  as  houses,  floating  like  ships  upon  the  waters.     What  shall  com
 which  I  have  spoken.  For  in  those  days  unrighteous  kings  shall  shew  honour  to
 the  low-born,  who  shall  become  great  lords,  whilst  the  nobles  sink  into  poverty.
 Not  to  the  nobles,  but  to  the  upstarts  alone  shall  respect  be  paid.  In  the  royal
-presence,  in  the  council  chambei*,  or  in  the  courts  <jf  justice,  the  words  of  the
+presence,  in  the  council  chambei*,  or  in  the  courts   jf  justice,  the  words  of  the
 nobles  learned  in  the  law  (and  it  is  they  whom  the  solid  rocks  typify)  shall  drift
 idly  by,  and  not  sink  deep  into  the  hearts  of  men ;  when  they  speak,  the  up-
 starts shall  merely  laugh  them  to  scorn,  saying,  'What  is  this  these  fellows  are
@@ -14612,7 +14612,7 @@ fall  into  your  hands  without  any  fighting."  Following  his  mother's  adv
 the  prince  for  seven  days  invested  the  city  with  so  close  a  blockade  that
 the  citizens  on  the  seventh  day  cut  off  their  king's  head  and  brought  it  to
 the  prince.  Then  he  entered  the  city  and  made  himself  king,  and  when
-his  life  ended  he  pas<sed  away  to  fare  according  to  his  deserts.
+his  life  ended  he  pas sed  away  to  fare  according  to  his  deserts.
 
 
 The  result  and  consequence  of  his  acts  in  blockading  the  city  for  those  seven
@@ -15974,7 +15974,7 @@ people  were  moved  by  the  sight  of  that  peerless  elephant  to  exclaim, 
 what  a  stately  gait !  what  proportions  !  what  beauty  !  what  grace  !  such  a
 white  elephant  is  worthy  of  an  universal  monarch."     All  this  praise  of  his
 
-1  See  p.  2,  aud  (e.g.)  the  Sela  Sutta  (No.  .3.8  of  the  Sutta  Nipata  and  No.  <J2  of  the
+1  See  p.  2,  aud  (e.g.)  the  Sela  Sutta  (No.  .3.8  of  the  Sutta  Nipata  and  No.   J2  of  the
 Majjhiina  Nikfiya).
 
 '  Apparently  the  reference  is  to  p.  175,

@@ -528,13 +528,13 @@ sect some centuries after the pretended age of their
 assumed founder.
 
 The Gainas, both ^SVetAmbaras and Digambaras, state
-that Mahavira was the son of king Siddhartha of Ku;/</a-
+that Mahavira was the son of king Siddhartha of Ku;/ /a-
 pura or Ku;^agrama. They would have us believe that
 Ku;/*/agrama was a large town, and Siddhartha a powerful
 monarch. But they have misrepresented the matter in
 overrating the real state of things, just as the Buddhists
 did with regard to Kapilavastu and Suddhodana. For
-Ku//</agrdma is called in the A&rnga Sfttra a sa;//nivesa,
+Ku// /agrdma is called in the A&rnga Sfttra a sa;//nivesa,
 a term which the commentator interprets as denoting a
 halting-place of caravans or processions. It must therefore
 have been an insignificant place, of which tradition has
@@ -571,7 +571,7 @@ gama of the Buddhists is identical with the Ku/^aggama
 of the G*ainas. Apart from the similarity of the names,
 the mentioning of the -/Vatikas, apparently identical with the
 Cr/Idt/'/ka Kshatriyas to whose clan Mahavira belonged, and
-of Siha, the aina, point to the same direction. Ku;/</a-
+of Siha, the aina, point to the same direction. Ku;/ /a-
 grama, therefore, was probably one of the suburbs of VaLr41i,
 the capital of Videha. This conjecture is borne out by the
 name Vesalic, i. c. VauAlika given to Mahavira in the S&tra-
@@ -584,7 +584,7 @@ ficial explanations of the later Gainas. VaLralika apparently
 means a native of Vai^ali : and Mahavira could rightly
 be called that when Ku;/^agrama_was^a suburb of Vaij^lt,
 just as a native of Turnham Green may be called a
-Londoner. If then Ku;/</agrdma was scarcely more than
+Londoner. If then Ku;/ /agrdma was scarcely more than
 an outlying village ofVai^ali, it is evident that the sovereign
 of that village could at best have been only a petty chief.
 Indeed, though the <7ainas fondly imagine SiddhArtha to
@@ -914,7 +914,7 @@ penances 1 , and persevered in some of them even after
 becoming a Tirthakara. Amongst Buddha's opponents
 Go^clla Makkhaliputra is by no means so prominent as
 amongst Mahclvira's, nor among the former do we meet
-G"am<ili, j^ho^ca^sed-J^ the gaina church.
+G"am ili, j^ho^ca^sed-J^ the gaina church.
 
 All the disciples of Buddha bear other names than those
 of Mahclvira. To finish this enumeration of differences,
@@ -3118,7 +3118,7 @@ taught the truth : for the sake of the splendour,
 
 honour, and glory of this life, for the sake of birth,
 death, and final liberation, for the removal of pain,
-man acts sinfully towards animals, <jr causes others
+man acts sinfully towards animals,  jr causes others
 to act so, or allows others to act so. This de-
 prives him of happiness and perfect wisdom. About
 this he is informed, when he has understood, or
@@ -3441,8 +3441,8 @@ is dear 4 . (4)
 Having acquired it (i.e. wealth), employing bipeds
 and quadrupeds, gathering riches in the three ways 5 ,
 
-1 Hereafter va</abhatta#t explained by vinirgatapr/thivt
-va</abha-laksha*a#z.
+1 Hereafter va /abhatta#t explained by vinirgatapr/thivt
+va /abha-laksha*a#z.
 
 * Sa#/pu#fta;ft=:sampftr?ia#i, lit. complete, i.e. the complete
 end of human existence is enjoyment of the world.
@@ -4073,7 +4073,7 @@ a dweller far (from sin), him he should know as a
 dweller on high. Man! restraining thyself (from
 the outward world) ' thou wilt get free from pain/
 Man, understand well the truth ! exerting himself in
-the rule of truth a wise man overcomes M<ira. (4)
+the rule of truth a wise man overcomes M ira. (4)
 
 1 The gifted man 2 , following the law, sees well his
 true interest/ In a twofold way 3 , for the sake of
@@ -4275,7 +4275,7 @@ in it. That is a doctrine of the unworthy. (4) But
 we say thus, speak thus, declare thus, explain thus :
 
 1 The passage in brackets is introduced by the words p&Man-
-taram v&, * various reading/ It occurs in <all MSS. I have consulted,
+taram v&, * various reading/ It occurs in  all MSS. I have consulted,
 and is commented upon by the commentaries as belonging to the
 text
 
@@ -4661,7 +4661,7 @@ comes in contact in order to avoid killing animals; this holds good
 with regard to walking, sitting, sleeping, eating, drinking, &c.
 
 
-48 AJSTARANGA S<JTRA.
+48 AJSTARANGA S JTRA.
 
 
 (A monk should according to the &rya's or-
@@ -5532,7 +5532,7 @@ alms-bowl (p&tra) with six things belonging to it, 3. a L room (ra^o-
 haraaa), 4. a veil for the mouth (mukhavastrikd). The alms-
 bowl and the articles belonging to it are specialised in the fol-
 lowing gdthd: pattam pattdbamdho p&ya//Aavaa*w a piyakesariyfi I
-pa<l& rayatt&iaa* *a goao piyan^ogo 11
+pa l& rayatt&iaa* *a goao piyan^ogo 11
 
 F 2
 
@@ -6160,7 +6160,7 @@ his body. (19)
 
 8 Present and future. 4 I. e. religious life.
 
-6 Ahdka</am : yathS, yena prak&rea pr;"sh/va apr/sh/vA va
+6 Ahdka /am : yathS, yena prak&rea pr;"sh/va apr/sh/vA va
 yathakr/'tam adhakarm^dina.
 
 
@@ -6484,7 +6484,7 @@ spot, a garden, or a monk's hall where there are no
 
 
 8 This is the typical beginning of most precepts or sfitras in this
-se bhikkhd vd bhikkhufti v& gdhavaikula/B pi#2d?avayapa</iy3e
+se bhikkhd vd bhikkhufti v& gdhavaikula/B pi#2d?avayapa /iy3e
 a#upavi//Ae sam#e se gg%m pu/ra g&negg. In the sequel I have
 shortened this rather lengthy preamble.
 
@@ -6582,7 +6582,7 @@ of, is impure and unacceptable.
 
 1 These are the viMrabhfimi and vih&rabhflmi.
 
-a Purisa*0taraka</a. I have rendered this word according to
+a Purisa*0taraka /a. I have rendered this word according to
 the interpretation of the commentators ; but in a similar passage,
 8, 3, 2 and 3, they understand the word to mean appropriated
 by another person.
@@ -6707,7 +6707,7 @@ him on such an occasion, he will incur the sin of one
 1 Puvvdm eva dloe^a, he should first look at him or her
 (and then say).
 
-2 Sa*kha</i, somewhere explained odanapdka, cooking of
+2 Sa*kha /i, somewhere explained odanapdka, cooking of
 rice ; in the commentary the following etymology is given : sa/n-
 kham/yante virddhyante pramno yatra s& sa/wkharfi. But the Guzerati
 commentator explains it : gihbm gha& gan nimitti dhira kelviva
@@ -7158,7 +7158,7 @@ treated thus ; for it is impure and unacceptable. (4)
 
 It is also to be known that food, &c is impure
 
-1 Siodagaviga</a, usiwodagavigarfa. Vigarfa, Sanskrit vika/a*
+1 Siodagaviga /a, usiwodagavigarfa. Vigarfa, Sanskrit vika/a*
 is explained apkdya. It is therefore cold or hot water which i
 to be considered as containing life.
 
@@ -7291,7 +7291,7 @@ that a layman might, for the sake of the mendicant,
 
 
 1 The original has bho malohadaw ti na^a. Bhomaloharfais
-explained adhomalahr/'tam. M3,loha</a, which I translate
+explained adhomalahr/'tam. M3,loha /a, which I translate
 ' fetched from above/ is the technical term for things affected by
 the dosha under question.
 
@@ -7652,7 +7652,7 @@ bones ?' Hearing such a communication, he should
 1 They are detailed in the original : a#*taruAuya;#, a piece
 between two knots; uA&AugzmdiyQim, a piece containing a knot;
 u**Au*oyagam (?), uAumeragajw, top of a stalk;
-laa#i, long leaf; uAu</&lagaflf, fragment of a leaf.
+laa#i, long leaf; uAu /&lagaflf, fragment of a leaf.
 
 
 BOOK II, LECTURE I, LESSON IO. 1 15
@@ -7786,7 +7786,7 @@ Now follows the fourth rule for begging food. A
 1 Sa*wsa/Ma ; it would perhaps be more correct to translate this
 word, soiled with the food in question.
 
-9 These are the pa</iggahadh&rf and the pfiwiparfiggahiya,
+9 These are the pa /iggahadh&rf and the pfiwiparfiggahiya,
 lit. one who uses his hand instead of an alms-bowl.
 
 
@@ -8792,7 +8792,7 @@ over, they should not approach the boatman and say:
 ' O long-lived householder ! water enters through a
 leak into the boat, and it becomes dirty all over/
 
-1 Rudder is a guess for pf </Aa, nautical instruments for valaya
+1 Rudder is a guess for pf  /Aa, nautical instruments for valaya
 and avallaya.
 
 s P&ea = pdtrea. The Guzerati commentator takes it for
@@ -9411,7 +9411,7 @@ The Sanskrit commentaries give no explanation.
 BOOK II, LECTURE 4, LESSON 2. 155
 
 they have many branches, extended branches, they
-are very magnificent,' &<x (see 4) ; considering well,
+are very magnificent,' & x (see 4) ; considering well,
 they should use such sinless, &c., language. (12)
 
 A monk or a nun, seeing many wild fruits, should
@@ -10120,7 +10120,7 @@ ject in question), he may take or appropriate it 3 , (i)
 
 He may beg for a domicile in a traveller's hall, &c.
 
-1 Oggahapa<fim.
+1 Oggahapa fim.
 
 * The commentator (Sildnka) states that the monks in Kuh-
 kaaadeju, &c., are allowed to carry umbrellas, because of the heavy
@@ -10541,7 +10541,7 @@ $13). (2 and 3).
 
 * UAHrap&savaaasattikkao, discharging of feces and urine.
 
-3 Purisa0?taraka</a, here translated svikn'ta. The text pro-
+3 Purisa0?taraka /a, here translated svikn'ta. The text pro-
 ceeds ^ava bahiya niharfaw v&, which I do not know how to apply
 to the object in question. As 3 differs from 2 only in giving
 
@@ -11009,7 +11009,7 @@ Tlrthakaras), removed the embryo from the southern
 
 BOOK II, LECTURE 15. 19 1
 
-brahmanical part of the place Ku;/</apura to the
+brahmanical part of the place Ku;/ /apura to the
 northern Kshatriya part of the same place, rejecting
 the unclean matter, and retaining the clean matter,
 lodged the fetus in the womb of Trijali of the
@@ -11231,7 +11231,7 @@ O 2
 
 
 dvtpa at the northern Kshatriya part of the place
-Kiw</apura ; in the north-eastern quarter of it they
+Kiw /apura ; in the north-eastern quarter of it they
 suddenly halted. (18)
 
 Sakra, the leader and king of the gods, quietly and
@@ -11396,7 +11396,7 @@ he adopted the holy conduct. At that moment the
 
 1 Wake, Yfima, or time of three hours.
 
-* <raiHtuv&yapa</ie,. according to the Guzerati Bdlboclh ihis
+*  raiHtuv&yapa /ie,. according to the Guzerati Bdlboclh ihis
 means making obeisance to the Lord of the world by touching his
 feet. Another MS. has : Then -Sakra the chief and king of the gods.
 
@@ -12330,7 +12330,7 @@ bracelets, with diadem and earrings, his breast lighted
 up by necklaces, wearing long and swinging orna-
 ments with a pearl pendant the chief of the gods rose
 
-1 Ka</aga, tudfiya, keftra. Ka/aka is the well-known kahkaua,
+1 Ka /aga, tudfiya, keftra. Ka/aka is the well-known kahkaua,
 tru/ika is explained by bdhurakshikd, keyfira by ahgsu/a. The last
 two are bracelets worn on the upper arm.
 
@@ -12848,7 +12848,7 @@ of Rohwi who did her mind good.
 2 According to Stevenson : the red side of the retti seed.
 
 8 Or if we adopt a various reading, mentioned in -the com-
-mentary, paya</iya, we must translate : whose luminous glory was
+mentary, paya /iya, we must translate : whose luminous glory was
 set forth by his thousand rays.
 
 
@@ -14017,7 +14017,7 @@ defilement of Karman. (119)
 
 1 Different names of divisions of time; a Stoka contains seven
 respirations, a Kshawa many (bahutara) respirations (according to
-another commentary a Kshaaa contains six Na</ikds, it is the sixth
+another commentary a Kshaaa contains six Na /ikds, it is the sixth
 pan of a Gha/1), a Lava contains seven Stokas, and a Muhftrta
 seventy Lavas. This system of dividing time differs from all other
 known; compare Colebrooke, Misc. Essays, IP, pp. 540, 541. Wilson,
@@ -14047,7 +14047,7 @@ of summer, in thelourth fortnight, the light (fort-
 night) of VaL&kha, on its tenth day, when the shadow
 had turned towards the east and the first wake was
 over, on the day called Suvrata, in the Muhftrta
-called Vi^aya, outside of the town <SWmbhikagr&ma
+called Vi^aya, outside of the town  SWmbhikagr&ma
 on the bank of the river RigiipAlika, not far from an
 old temple, in the field of the householder S4m4ga^
 under a Sal tree, when the moon was in conjunction
@@ -14815,7 +14815,7 @@ Mahvlra, only that the contents of 100 and 101
 do not apply to the present case.) (209)
 
 The Arhat /frshabha, the Ko^alian, belonged to
-the K<L$yapa gotra, and he had five names : 7?zsha-
+the K L$yapa gotra, and he had five names : 7?zsha-
 bha, First King, First Mendicant, First Gina, and
 First Tlrthakara. (210)
 
@@ -15762,7 +15762,7 @@ falls in his hand. (29)
 the donations of food above the fixed number as donations of drink
 if the latter have not yet reached the fixed number.
 
-1 Sa/rckha<fi, the word which, in the A/iardhga Sutra II, i, 2, &c.,
+1 Sa/rckha fi, the word which, in the A/iardhga Sutra II, i, 2, &c.,
 we have translated ' festive entertainment.'
 
 2 Rain is here and in the sequel called rain-body, i. e. rain-drops
@@ -15939,7 +15939,7 @@ same as gr/hagolikfi, a kind of lizard ; and vrdhmawi, a kind of
 wasps, ditto, of lizards.
 
 8 HallohaliyS, which is declared by the commentator to be
-synonymous with ahiloaft, saradfi, and kakki#</i. Of these words
+synonymous with ahiloaft, saradfi, and kakki# /i. Of these words
 only sara^t is known ; for it seems to be the same with Sanskrit
 sara/a or sara/u, c chameleon, lizard,' and Maratht sara/a, * hedge-
 lizard.'
@@ -16383,7 +16383,7 @@ Birds, young, likened to disciples,
 
 Birth, 1 8.
 Bodies, 3 n 2.
-Brahmadvipika, name of a <Sakha,
+Brahmadvipika, name of a  Sakha,
 
 393.
 
@@ -16545,7 +16545,7 @@ yas, 191, 226, &c.
 Gtfatn'putra, name of Mahavira, 76,
 80.
 
-<?/iatr/sha</a, name of a park, 199.
+<?/iatr/sha /a, name of a park, 199.
 
 Gr/mbhikagrama, 201, 263.
 
@@ -16636,7 +16636,7 @@ Kinnaras, 237.
 Ko^/ala, name of a gotra, 190, 219,
 &a
 
-Ko</inya, 290.
+Ko /inya, 290.
 
 Kojala, kings of, 266.
 
@@ -16671,7 +16671,7 @@ Ku#ala, name of a town, 297.
 
 Kun^adhan. See Kau/umbim.
 
-Kuw</agrama, M^havira's birth-place,
+Kuw /agrama, M^havira's birth-place,
 219, &c.
 
 KuWala, name o a gotra, 291.
@@ -16761,7 +16761,7 @@ Maaaka, 287.
 
 Ma/zava, name of a Ga#a, 292*
 Mandara, mount, 261.
-Ma/r</ikaputra, name of a Gaoa-
+Ma/r /ikaputra, name of a Gaoa-
 
 dhara, 286.
 Mambhadra, 289.
@@ -17013,7 +17013,7 @@ Samita, 293.
 Sawkajika (Sawkajyika ?), name of
 a Sakha*, 291.
 
-Sa;?fkha</i, 93 n 2.
+Sa;?fkha /i, 93 n 2.
 
 Sarolekhani, 74 n 3.
 
@@ -17477,7 +17477,7 @@ rt
 ' - - UoJ-U
 
 
-^) . U <Xy
+^) . U  Xy
 
 
 tf h
@@ -17626,7 +17626,7 @@ d :
 >. ' J2
 
 
-< <!
+<  !
 
 
 *V "^ ^v *^^ tj*
@@ -17703,7 +17703,7 @@ n
 ; -M .2 s
 
 
-<fl o
+ fl o
 
 
 O
@@ -17746,7 +17746,7 @@ OT W
 
 ^ ^
 
-CO t^ CO O O <M
+CO t^ CO O O  M
 
 
 s s

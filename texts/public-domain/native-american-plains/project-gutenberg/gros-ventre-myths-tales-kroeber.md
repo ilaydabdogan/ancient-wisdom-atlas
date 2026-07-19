@@ -2651,7 +2651,7 @@ h
 
 1 00  A  nlhni/jolnrpral  Pnprr.s  American  MuHmm  of  Natural  History.         [\  ol.  I,
 
-white  Haws."     'J'lxii  ili<y  played  hear.     Suddenly  she  turned  into  a  bear.
+white  Haws."     'J'lxii  ili y  played  hear.     Suddenly  she  turned  into  a  bear.
 She  killed  all  exeept  hc^r  little  sister.     Her  little  sister  ran  home  and  brought
 tin;  news.     Soon  the   liear  eanie  loijing  toward  the  eanip.     All   took  up
 their   weapons:    old   and   yowtin   nicii    used   flubs  and   spears   and  arrows.
@@ -2663,7 +2663,7 @@ She  said,  "Cowr.  out,  or  I  will  kill  you."     So  the  little  girl  ea
 elder  sister  told  h(;r,  "Take  four  of  the  largest  tents  you  ean  find,  and  make
 one  tent  of  them   for  me.     You  must  get   jimiper   ((,'ililtouwuus6o"),    and
 cover  the  floor  of  the  tent  with  it."     ^Yhen  the  little  girl  had  done  all  this,
-the  bear  lay  down  an<l  groaned  and  groaned.    She  rolled  and  .sprawled  in  pain
+the  bear  lay  down  an l  groaned  and  groaned.    She  rolled  and  .sprawled  in  pain
 from  her  W(nuids.     The  little  girl  sat  by  the  door,  afraid.     She  said,  "Sister,
 ]iia,y  I  go  to  get  water?"     Her  sister  said,  "Yes;  but  you  must  be  quick.
 Do  not  try  1o  run  away.      If  you  try  to  escape,  I  ean  catch  you.     You  ean
@@ -4346,7 +4346,7 @@ f.^:^  ^^     ^^  '^S^^^
 ''    :^Sa   %.^   »  JM'  %.^^  :;#&^
 
 
-■s<j-'
+■s j-'
 
 
 .^
@@ -4358,4 +4358,4 @@ f.^:^  ^^     ^^  '^S^^^
 o  V'^
 
 
-'<f^\
+' f^\

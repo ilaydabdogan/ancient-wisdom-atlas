@@ -3686,7 +3686,7 @@ Lord;  and  the  punishments  for  those  who  broke  the  com-
 
 3  A  steward  or  head  servant.     Chamberlain  of  the  Ynca.
 
-4  Huichay  (not  Uicchay)  is  "up."  Huicharini,  "I  ascend."  C<jma-
+4  Huichay  (not  Uicchay)  is  "up."  Huicharini,  "I  ascend."  C jma-
 yoc,  "  one  who  has  charge  of  anything."
 
 5  Cunamni,  "  I  advise  or  preach."
@@ -4492,7 +4492,7 @@ son  Yahuar-huaccac  Ynca  Yupanqui,  who  began  by  being
 very  free  and  liberal,  but  was  finally  so  impoverished  that
 he  was  obliged  to  draw  tribute  from  the  provinces,  for  the
 expenses  of  his  house.  At  last  the  people  rose  in  rebellion,
-1  See  (J.  de  la  Vega,  i,  pp.  .'327,  317  ;  ii,  <i2.
+1  See  (J.  de  la  Vega,  i,  pp.  .'327,  317  ;  ii,   i2.
 
 
 90  AN    ACCOUNT    OF    THE
@@ -4784,7 +4784,7 @@ in  this  province,  which  was  called  Anca^irca.
 (235).     Different  kinds  of  thorn  bushes.
 
 4  Name  of  the  mountain  between  Paucartaropu  and  the  eastern
-forests. — See  <J.  de  la  Vega,  i,  p.  .°>30.
+forests. — See   J.  de  la  Vega,  i,  p.  .°>30.
 
 
 ANTIQUITIES    OP    PERU.  97

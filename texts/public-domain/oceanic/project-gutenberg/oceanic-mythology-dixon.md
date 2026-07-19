@@ -119,7 +119,7 @@ ngheld Aed PR POM eg? ce Te :
 ; by f ais cane dnd : ,
 
 a wale ood ed el , vig: Sy
-<n, rer etn A AY. LP ;
+ n, rer etn A AY. LP ;
 pie edie ae
 
 
@@ -153,7 +153,7 @@ ae
 vy ae
 
 
-PrATeE <I
+PrATeE  I
 
 
 Image of Kuila-moku, one of the Hawaiian patron
@@ -1301,7 +1301,7 @@ fe nat , %S neta | ogy ears’ = cp way, 2) *
 ales a z oe yi aebee oko) 7 . aor
 
 
-“- el 4 ae $e dng Beet tz’ cee we we < <a cas
+“- el 4 ae $e dng Beet tz’ cee we we <  a cas
 — 5 if ‘ by e
 ae —- . ip ease ect = © t 5
 a ae eaven oy tego > Pee ee ES
@@ -4081,7 +4081,7 @@ Sai |
 Tene ere aye
 
 
-‘ech sie a4 > <i
+‘ech sie a4 >  i
 
 
 et her? * 5 Pee
@@ -8389,7 +8389,7 @@ veh eee ee a Asse. |
 ee ied 7 ee 7 dS
 ee ee eee
 : oo hers, oth Rok oa 8 ry ‘
-canaeinse ies ~~ wn <a oes pert ee ‘
+canaeinse ies ~~ wn  a oes pert ee ‘
 
 
 ate he SeRst Adin ae week «
@@ -13480,7 +13480,7 @@ oa ha @¢ | "26 - a?
 
 
 ae eo ey - Hing oi - prod i
-be heii pte lie Niet tm! + Pe teh <b) : t
+be heii pte lie Niet tm! + Pe teh  b) : t
 
 
 wed 1
@@ -17824,7 +17824,7 @@ Sey HAWAIIAN
 UNITED
 
 
-ISLANDS <j
+ISLANDS  j
 
 
 N

@@ -7058,7 +7058,7 @@ Solomon  Islands.    Banks  Islands.  151
 
 
 snake  at  last  could  bear  it  no  longer,  and  cried  out  weeping,
-<I  go,  and  who  will  help  you  now?'  She  made  her  way
+ I  go,  and  who  will  help  you  now?'  She  made  her  way
 down  to  the  sea  accordingly,  and  her  track  became  a  water-
 course. Leaving  the  island,  she  swam  across  first  to  Ugi,  but
 from  thence  she  could  see  the  Bauro  mountain ;  she  went  'on
@@ -17001,7 +17001,7 @@ tune  the  mother  passed  the  child  it  cried  out  Mother  ,  She  Ip^  d  a
 and  asked  Who  s  that  cries  Mother!  to  me?  Eecognizing  her  child  and
 
 
-3<H     .  Stories.  rCH.
+3 H     .  Stories.  rCH.
 
 man,  and  he  turned  his  head  again  and  again  to  look  behind
 him  to  S66  who  it  was,  but  there  was  no  man.  And  he  drew
@@ -18151,7 +18151,7 @@ brothers  lookiug  for  him  ;  but  it  was  not  so,  these  were
 different  persons;  these  were  Mera-mbuto  and  his  brothers
 coming  along,  and  they  climbed  up  the  gaviga-tree  them-
 selves.   And  Tagaro-mbiti  sits  perfectly  still  lest  they  should
-see  him,  and  he  hears  one  of  them  say  <Inm  ranganggn  ngaha,'
+see  him,  and  he  hears  one  of  them  say   Inm  ranganggn  ngaha,'
 This  is  my  branch,  and  another  cries  'Ineu  ranganggu  ngaha '
 and  so  say  all  of  them.  Then  says  Mera-mbuto  'Ineu  ranganggu
 ngaha  lo  vnlmngegi;  This  is  my  branch  at  the  top;  and  this

@@ -1146,7 +1146,7 @@ husband  caughl  a  man  in  company  with  his  wife,  he  had  the
 ArO^  right   to   put  one  or  both  to  death.     The   women  therefore
 ^/jp"     1^    resorted  to  clandestine  meetings,  and  men  were  admitted  to
 ;/]      ^j^/^-^^e  houses  and  secreted  when  possible.     The  most  stringent
-L  <c^         care  was  exercised  by  the  King  and  the  chiefs,  but  it  proved
+L   c^         care  was  exercised  by  the  King  and  the  chiefs,  but  it  proved
 inefficient    to    keep    the    sexes    apart,    while    the    horrible
 ^  punishments  meted  out  to  delinquents,  when  caught,  seemed
 
@@ -8724,7 +8724,7 @@ w
 
 %
 
-%s.<t
+%s. t
 
 rt
 
@@ -8829,7 +8829,7 @@ ri
 
 u^J
 
-MJ=    <N
+MJ=     N
 
 rt
 1
@@ -9051,7 +9051,7 @@ s
 
 iz;    ^
 
-II     <i
+II      i
 
 •■2^  as
 
@@ -9405,7 +9405,7 @@ II
 
 V     .
 
-<j
+ j
 
 >    1
 
@@ -9536,7 +9536,7 @@ en  >>
 *■§  S
 
 J3  — -^
-<ii  rt.5
+ ii  rt.5
 
 -=  c
 
@@ -9756,7 +9756,7 @@ _J3
 ■A      «
 
 
-S  «<o
+S  « o
 
 
 ot
@@ -9798,7 +9798,7 @@ m
 
 II
 
-<ii
+ ii
 
 s
 
@@ -15326,7 +15326,7 @@ made  to  they  were  also  supposed  to  render  help  to  the  members  of  th
 ensure  clan  to  which  they  belonged,  if  they  were  treated  well.  A
 prosperity,  (^j^jgf^  qj.  ^  vvealthy  person,  would  occasionally  make  a  feast  for
 the^Hbst  of  a  relative,  killing  some  animal  at  the  shrine,  and
-then  partal<ing  of  the  meal  with  the  relatives  and  friends  whom
+then  partal ing  of  the  meal  with  the  relatives  and  friends  whom
 he  had  invited.  The  blood  of  the  sacrifice  was  at  the  same
 time  made  to  flow  by  the  door  of  the  shrine,  and  beer  was
 poured  out  there  during  the  meal.  Sometimes  slaves  were
@@ -16161,7 +16161,7 @@ temple-estates  ;  a  boy  might  become  the  servant  of  a  chief,
 and  a  girl  might  become  the  wife  of  some  man  living  outside
 the  temple  estates.  Every  third  child  of  a  woman  who  was
 the  wife  of  a  priest,  or  of  an  officer  of  the  temple,  had  to  be
-given  to  Kibuka  ;  the  child  was  called  the  «^<C(5(?/(C7  (meaning  a  tax
+given  to  Kibuka  ;  the  child  was  called  the  «^ C(5(?/(C7  (meaning  a  tax
 upon  children).  There  was  a  temple  servant  named  Muzinga,
 whose  duty  it  was  to  bring  water  for  the  god  daily  from  a
 sacred  well,  Nakaliga.  He  wore  a  zebra-skin  mantle,  and  had
@@ -24293,7 +24293,7 @@ y  p  (p   ,    t^  pop  .ro_o\.«  .o).ov."  .n  p\m^  _«  .rop  p
 
 oo  Wo  1   W  t^  fo  «  ov  ro  0  ro  'm  •.*•  0  b  bvb  0  «  OQ  ro
 
-MHM                                     MMM«00P<VO'.«-|^'^OH«M
+MHM                                     MMM«00P VO'.«-|^'^OH«M
 
 •BUB4IJBMX
 
@@ -24313,7 +24313,7 @@ HHM                                     MMHMOOMin  rOsO     -.j-  QV  W     M   
 
 vOmm       oOt^rot^wONMMi^in  moo  0  *o  oo  t.*
 
-00  2-^1  **"  jr2  2^S<S  M  R%|  ?o.- 8  M«='?o
+00  2-^1  **"  jr2  2^S S  M  R%|  ?o.- 8  M«='?o
 
 •B3(3AVnj^
 
@@ -24331,7 +24331,7 @@ KO   0  .t^  .    r^  .0  .w  .w   ro  .M   ro  .w  .a*  rop  .O  .c<  -o  .t^  
 
 00  .0  «        t^  p  «p  .Ov  .0  p  00  .0  oo  w  p  ^o  .ro  M  .op  .in
 
-"o  V '«    1   'm  in  ovCd  V  b  W  r^  oo  b  a  <j\  rooo  *-"  «  H  -^
+"o  V '«    1   'm  in  ovCd  V  b  W  r^  oo  b  a   j\  rooo  *-"  «  H  -^
 
 •BSiiwq
 
@@ -24358,7 +24358,7 @@ S
 
 .m .«  _0    I   .«  .♦  .ro  m  a\  .m  _■<■  .m  -  ro  r^  _<?  ,m  in  m  in  in
 
-b  W     -b  Voo  MN  nVr^roroovo  3:<CI'--'"  '^03  "^
+b  W     -b  Voo  MN  nVr^roroovo  3: CI'--'"  '^03  "^
 
 -BqUlIiltUBJiJ
 
@@ -24494,7 +24494,7 @@ Colour  of  Eye
 
 „      „  Skin
 
-'■l-""-A\.  „„„„  HHHN«00<NVO*l^-<-0\MNM^
+'■l-""-A\.  „„„„  HHHN«00 NVO*l^-<-0\MNM^
 
 
 •33(OSn}^
@@ -24528,7 +24528,7 @@ MMH  MHI-l««00«VO^l^'^O\'-'«M^<
 
 N'*OvmNMVOW'-«tn  jf^OO  OO  \0  'p   ;*■  ^t>.  0>  ^r*^  t^  m
 
-■EpXiaS-eXQ         00  *;j'];^'^  'm  VonCo  Vo  ovViVVnVi'ro'M  'ln■o^<J  os'p^'^
+■EpXiaS-eXQ         00  *;j'];^'^  'm  VonCo  Vo  ovViVVnVi'ro'M  'ln■o^ J  os'p^'^
 
 
 CJOO    N*0    -^tv-TTONt
@@ -24623,7 +24623,7 @@ rn  p  pi  p^
 00  m  «  M  in  -^f  0
 
 
-N  w  00  <s  \o  -*  r^  ■
+N  w  00   s  \o  -*  r^  ■
 
 
 •Bi^a
@@ -24811,7 +24811,7 @@ w  w  OO  M  lo  m  I
 w  tN.  COO  vowiomco  O  Nvomo  0
 
 
-«  «  00  M  \o  ro\0   -<j-  t
+«  «  00  M  \o  ro\0   - j-  t
 
 
 )  00  t^  Q  t^  ro  (
@@ -24885,7 +24885,7 @@ niureinqi
 
 mvD  J^.*^.^  ;-» 00  ps^  w  ,'^,'^p\N  ^00  M
 "in  Voo  Co  fn«  'io*b  >b  w  o  V.'m  VV>.m  h'Ei'w
-tH  M  M  <N  oo  «  r^  »ooo  in  O  '^  M  M  <4
+tH  M  M   N  oo  «  r^  »ooo  in  O  '^  M  M  <4
 
 
 w  w  00  «  vo  '<^^C  "^  0\ »
@@ -24959,7 +24959,7 @@ C4  M  oo  moo
 
 9°  s^y^j^  p  yy
 
-a»  V  M  00  V.  m  w  <J
+a»  V  M  00  V.  m  w   J
 
 
 H     W     W     woo     MX©     '♦t>.**'0\»
@@ -25083,7 +25083,7 @@ MWWI-.                       mmSmoONNO    -^-nO    -J-  On  I-    «    n
 
 •|2UBS^
 
-inos.*t^<N  o*«oooo  -^  o^in  ^  w  -nmo  m  m  no  no  t^
+inos.*t^ N  o*«oooo  -^  o^in  ^  w  -nmo  m  m  no  no  t^
 
 "o»-fncoi-i  inm-o».^«  0  m^^-N  0  Onqo  t^ -lono  «  '« CQ
 
@@ -25217,7 +25217,7 @@ i-t    P^OO    t-*N    t->.p-.O>fOtx0
 
 «
 
-S'oS-S'vg  ?^'^^<S  S  ^^k"^
+S'oS-S'vg  ?^'^^ S  S  ^^k"^
 
 0*0  mmf*^int>.ir>roc^-*Ooooo   o*^  30   r^  n^oo   ■<^
 
@@ -25308,7 +25308,7 @@ I  o  t^  ovoo  w  o
 M  M   M  M  w  N  ov  moo
 
 
-^b    '<N    b    0»N    Vl5s"S
+^b    ' N    b    0»N    Vl5s"S
 
 
 'iSUB^
@@ -25381,14 +25381,14 @@ N    H     M
 
 WMHM  MMi-twwoowvO'^rv-^o**
 
-fo^  -  n  looo  N  yi  Pn  R  j^f  t>.  ;<t  u^  on  i-i"^~it^
+fo^  -  n  looo  N  yi  Pn  R  j^f  t>.  ; t  u^  on  i-i"^~it^
 
 8"tcnM  m^M  tN,rnM  moo  o»  V  w  w  on  w  t
 
 HMH  MMMMWoowrs.  moo  -^  o  *
 
 
-j<t*  H    M    M    w    r^NO  nO    OnOO    m  m  mvO    O*  nS  On  ^""t^O    On
+j t*  H    M    M    w    r^NO  nO    OnOO    m  m  mvO    O*  nS  On  ^""t^O    On
 
 
 •v?|n?B>(U3^
@@ -25695,7 +25695,7 @@ o
 
 •0M3duil3^
 
-VS  <p  .0    * ."  ."  00   M    M    moo  .irtoO    t^  .ro  p  .t~  .m  .0-V3  .<•*.„
+VS   p  .0    * ."  ."  00   M    M    moo  .irtoO    t^  .ro  p  .t~  .m  .0-V3  .<•*.„
 
 -B^nqili^N
 
@@ -25778,7 +25778,7 @@ HHHH                        HMMHWr^O^Min    ♦'00     M     M     H  MJ
 
 •UAuaXinQ
 
-\0    On  CO  m  M    OnOO  oo  00    <N    0  ^O    On  CI    «  JN    W    m  «  'p  \0
+\0    On  CO  m  M    OnOO  oo  00     N    0  ^O    On  CI    «  JN    W    m  «  'p  \0
 
 oo  «  «  b  VnVnb  Co  «  M  «  00  b  oo  V>b  'rooo  Vn-b  j;jS)  '^
 
@@ -25795,7 +25795,7 @@ z
 
 t^oo  ♦NO  oi  OS  ro  H  t^oo  m  o  moo  m  «  o  •-.  oo  ^hN  m_^
 
-©^♦♦ci  -<i--^MNb  w  «  m-*  moo  t^  m  ts.  m  Vn  o  rn2Q  m
+©^♦♦ci  - i--^MNb  w  «  m-*  moo  t^  m  ts.  m  Vn  o  rn2Q  m
 
 ti^MHM                        H     H     W     «     WOO     (NNO      ♦r^^-ONM     «     M*^
 
@@ -25958,7 +25958,7 @@ OO    ro  M    0  'lO  rooo    -•J-OOnN    On*h    m    f^OTj-MbVoNW^-^
 
 .     0   mt^M    M   d   ONt^iH    rooo   0    •-'   -^vO    N    ■*  ro  m   c*    t^
 
-<s^2::'"*'^;?22^5'?.^s,^^?Sv:?g  ::m'^
+ s^2::'"*'^;?22^5'?.^s,^^?Sv:?g  ::m'^
 
 •Bdure^
 
@@ -25997,7 +25997,7 @@ OO  roroM  in-^O   t^VoN   row   in\o  \o   (s  '\n  i^>b  m   w  pq  "^
 
 •BpUItUB^
 
-in\o  »o  N  -*  '>^  M  mo  onno  <n  ONt-^u-i«  t^'^^ro■*■^^
+in\o  »o  N  -*  '>^  M  mo  onno   n  ONt-^u-i«  t^'^^ro■*■^^
 
 OO    row    OiOfnO>-i-«    O    000    m    O    On  OnOO    t-v  ^00    0  ^  *^
 
@@ -26017,9 +26017,9 @@ MMMM                                 MWMNOOMm    rONQ     '«*■    ON   M     
 
 •npniuB^
 
--^inw  roM  o^roro  rooo  m  r^-^w  -<j-tN.'!j--<j-t^t^ro
+-^inw  roM  o^roro  rooo  m  r^-^w  - j-tN.'!j-- j-t^t^ro
 
-00  ropOM  mroo^u^NONPON  oV»  <n«oo  on^O  0  « ^ "^
+00  ropOM  mroo^u^NONPON  oV»   n«oo  on^O  0  « ^ "^
 
 MWMW                       MMMWOONVO-Tt^-i-ON^N'-'PQf^
 
@@ -26125,7 +26125,7 @@ Nmmm                 MMMNNt^NlO    -"foo    -*  8    M    C<    M  tin
 
 M  c^o  roM  rommoo  inwio  w  t^oo  in  m  oi  ro  o
 
-*Oi-<f*Mi>  .«-ooo  ro-<-'ini)  ino  t^  i^oo  m  ii  m  m  jq  m
+*Oi- f*Mi>  .«-ooo  ro-<-'ini)  ino  t^  i^oo  m  ii  m  m  jq  m
 
 MMMM                        MMMN«00P)r^-^r^-^0MNM
 
@@ -26385,7 +26385,7 @@ oX  be  on
 "^SP-S  Si's  =
 
 
-<l).3
+ l).3
 o    -
 
 
@@ -26475,7 +26475,7 @@ fO  r«»  K  •-•  N  "rooo  ONfOMOo  o  •n-'-i   o^O  Onc
 •Bduiag
 
 
-o*  rn  in  c^  ON  0^  "^oo  o  m  c^  >n^o  in<n'*-'*-iO'*«  r>.
+o*  rn  in  c^  ON  0^  "^oo  o  m  c^  >n^o  in n'*-'*-iO'*«  r>.
 
 
 00  -^fOO  -^-^-vO  «
@@ -26550,7 +26550,7 @@ N  00    w    t>H  ^oo    -^  0\  '
 M  ON'O  ^^^  «  -4-00  rn  in  t>^  ^  ^  «  m  m  oo  ^^  p>  h
 mroM  m^'iHCo  f^w^o  t-^ro^^ONOvooo  m  fo^^  f^
 
-MMM  »Hwi-i«N00W\O-^t^inONM«i-<HH
+MMM  »Hwi-i«N00W\O-^t^inONM«i- HH
 
 ~c5^~cr\  w"~^Ch^  i^  t^rn'r^-^vo  ~o  "^  0^  o   -^  py.  y^  en  y^
 
@@ -26567,7 +26567,7 @@ PM^t^  ON '*■  o^co  M  "oTovcFTT^  o»  r^~K.~n-j  o  'P  •-•  ON  co
 0\^  en  o  -^  t
 
 
-•<t-  O^O  r^  O^  <■
+• t-  O^O  r^  O^  <■
 
 
 t^  '^r  t^  Tf  o
@@ -26690,7 +26690,7 @@ m  m  .i»-vo  0*  0  00  m  ov  ■<-  r^  moo  fn  oi  t^  ■♦  cnoo  0  vO
 
 •aquiaiituB^
 
-1^  <N  ^o  m.jo  CO  «  moo  mw  Oin  0  mmmmw  0  fn
+1^   N  ^o  m.jo  CO  «  moo  mw  Oin  0  mmmmw  0  fn
 
 oomciM-^-movONOfor^  t^oo  vo  mio  m  oo  m  m  X  fo
 
@@ -26715,7 +26715,7 @@ oo  ♦mM  -^  ■*  n\o  Nb  1-  t~.oo  ♦  V  «  M  -■♦  inoo  m  2,  -3
 
 «  0  p^'vO  woooOwNoommNt^oi  moo  \o  m  w
 
-oo.j-mMm'mO'b  n  m  .<rmoV'*-mo-  i>a>  b  mS  m
+oo.j-mMm'mO'b  n  m  . rmoV'*-mo-  i>a>  b  mS  m
 
 HHHH                     HHHCJNOOWIO-^I^-^-OHCI.   hW
 
@@ -27046,7 +27046,7 @@ O  ro  ro  M   ♦-  ■♦  On
 
 
 '♦  HI   o   ■♦  N   hx  OO   r^oo   m  r^  o   roM  ^
-H<HiC*MOONVO^-tN.^-OHiMMt^
+H HiC*MOONVO^-tN.^-OHiMMt^
 
 
 j^n"P  00  HI  N  m  ro  ♦■  _o  ,"^0  jh*  m  oo  m  ooo  m  m  rovo
@@ -27174,7 +27174,7 @@ u
 
 •si'M'-'N
 
-inOO    On  -    0    O\00    W-IM    iri.iJ-^O>r^<NNOG0    On.*NO    w
+inOO    On  -    0    O\00    W-IM    iri.iJ-^O>r^ NNOG0    On.*NO    w
 
 S^  „     M     «                            M     MMO00«NO-«-r>..*ONH«MSH"
 t.^00    0\  0    On*'.' OJ  OOWCO    OnN    rO'H    t.^.*.^-  OnOO    m    m
@@ -27203,7 +27203,7 @@ ON*roM  -^-Vm  t^lJ-"  rp  "  '^  "^  Pjno  ?  5n^  S  "  ^  '^
 
 00  V  'ro  M  in  V  b  'm  'rri  'w  '.♦.  -«  *o  M  «  *o  Nb  V^  '»D  0  "^  ^  -^
 
-'SITM»»«HM«C0«NO-J.t-.-J-C?NH<N«Pa'^
+'SITM»»«HM«C0«NO-J.t-.-J-C?NH N«Pa'^
 
 •iqnquM
 
@@ -27253,7 +27253,7 @@ aj^rOH.O*ONOrn-*c»JJ^^m-^NOCN«pQH
 
 •^rOW    (MOO    N\0    -^-^N    lOMVO    OQO    t^^O    »0  !>VO  OO
 
-MWHM                                 MMI-lC)t**0'*<N'<»-    -^OO     l-l     M     M  *A4
+MWHM                                 MMI-lC)t**0'* N'<»-    -^OO     l-l     M     M  *A4
 
 •ainjBN
 
@@ -27301,7 +27301,7 @@ S'H'-'M            '-Mi-NNcofi  r.~  »oo  m  0  H  «  wW  '^
 
 «  On  O  *  m  m  I-.  ■<-oo  NOoo  ■«-cino  t^ONNNOmu-iN
 
-o\fnm'.<in'«-0Nb«  '-  moNO  onoo  '-  t.~  r^NO  0  « 03  M
+o\fnm'. in'«-0Nb«  '-  moNO  onoo  '-  t.~  r^NO  0  « 03  M
 
 MH'H'.*                    l-IHM«NCOWinmr.-'*.ON'H«M
 
@@ -27321,7 +27321,7 @@ Orow   0   -^-Nt-oCo  «   w*fo.^.rot^r^t^tN.QNO   ».«   '-'331
 
 b  m"i--M  'm  V"  V-.Vn  'rr,(o  ■«  '^■'►l"m't>"r5'b  on  n^I
 
-MMM'.t                mwmNW00W\O'*P^'<J-0n'-''hmW
+MMM'.t                mwmNW00W\O'*P^' J-0n'-''hmW
 
 •BSBJinj^
 
@@ -27350,7 +27350,7 @@ Mi-.MIH                             M'-.NOIOONNOmi^*0"'«'-"^
 •aitiT
 
 m  «  _M  M  00  _m  p  m  _m  _■..  t^  m  p-  m  On  ONf  ro  .^  m  m      _
-*0  ''^'rOH  '•<i'''^'o  'm'fo'o  ''♦■'b  '0   I.*  '0  Nb  'm'rONO  'iDN'roco'To
+*0  ''^'rOH  '• i'''^'o  'm'fo'o  ''♦■'b  '0   I.*  '0  Nb  'm'rONO  'iDN'roco'To
 N„„„                 MMMNNOONNO    JnS    t(-  On  -1    H    M  •*
 
 •BMinsng
@@ -27538,7 +27538,7 @@ li^  m\o  -^  0\  t
 I  NO   -^oo   '■^  O
 
 
-t-sNO   '-'  no   mo   On  ■'J-nO   *h^o   «    m    a<t^-*o   mONO   O
+t-sNO   '-'  no   mo   On  ■'J-nO   *h^o   «    m    a t^-*o   mONO   O
 
 
 'tlAOlBJ^
@@ -27614,7 +27614,7 @@ r^  w  M   moo   '•t  M   ro  o^oo  no
 
 O  -<*■«  O  m-^J-o  mrn
 
-~No^M  CO '  *rrtHi-*~is~<r  •*
+~No^M  CO '  *rrtHi-*~is~ r  •*
 
 
 N    W  00    N  VO    -^OO
@@ -27658,7 +27658,7 @@ p  JO  p»  m p   mco  lOOO  ^^  o-oo   (N   iri  ^^ ^^  M   lO  M  oo
 
 os  Vi  V)  *M  m  V  b  >o  V)  b  V  V  b  V  V*  'm  m  *m  oo  «
 
-MMHM                       MMMNWOONVO     '♦OO     lO    0     M     <M
+MMHM                       MMMNWOONVO     '♦OO     lO    0     M      M
 
 sS"-
 
@@ -27767,7 +27767,7 @@ b  M  ro>o  N  HI  ts.  m  ID  rs.  M  OS  m  t^  p"l^ p^  j*  p^^p~p^
 M  o~^  e^Toooo  o^Ht  fs.'^M  «vo  ioh<  rN.00  n  po  ^c7\  po
 b\  V  Vi  M  V  Vn  b  V^  po  w  'm  b  nt  o  o-  g  ■*  »-  b  o  "«  «
 
-MMHM  MMMMW00MmC*\5'*aNH<NMW
+MMHM  MMMMW00MmC*\5'*aNH NMW
 
 ~t*.\o~  o  voooN  io*o  M  IN  00  00  «  tN.  m  m  p  p  p  .■*  ^On_^
 CO  Vn  Vi  b  -^  V  b  Vv  m  O  pooo  «  po  *  ■*■  m  ■^vo  oo  hi  ^  .
@@ -27793,7 +27793,7 @@ On  N  "O  00  vO    tN.  t^  r^vO
 C*  'I-  On  O  CT'OO    OVO   «
 
 
-■  O  -^  m  f<i  IT)  r^.
+■  O  -^  m  f i  IT)  r^.
 
 
 '  N   O    -*  CO  o  \o
@@ -28014,7 +28014,7 @@ T^~c>oo  t-r«  »o
 TJZl'y
 
 
-tH    »-(    ^^    NOO    C<vo    ■♦t^'^OV'
+tH    »-(    ^^    NOO    C vo    ■♦t^'^OV'
 
 
 •oSipnq
@@ -28084,12 +28084,12 @@ ro  to  iri  0   t^  0\  ■*oo  oo    *Mvo   lOM    -j-cj   O^O   cnoo   CO
 
 MMMM                                 MMM«t-»M-*Nir)    ^00     M     M     M  -^
 
-00  <p  .f^  yi  y^  .f^'P  t^  yt-p  N  -p  ^'S-  ^r^  _M  ^-i-  in  n  m  m  m
+00   p  .f^  yi  y^  .f^'P  t^  yt-p  N  -p  ^'S-  ^r^  _M  ^-i-  in  n  m  m  m
 
 •nAEAlJ^
 
 
-0\  <N  VO    O    Ooo    On
+0\   N  VO    O    Ooo    On
 
 
 ■4-  Ov  M    «    mM
@@ -28191,7 +28191,7 @@ o\  ■^  fo  M   ^  '•■CO  inroo>m»-"  r*»f^t>»30\o  mtN-'os  'm"]
 
 m  IT)  -*  «   rovo   O^o   -^in-^O^M   t^ro^o    ro  tnoo  oo
 
-o>  *  -^  N  in  -^-o)  inmo  in'rOMa)V-N  m  r<ii)  ovrn^i";:.
+o>  *  -^  N  in  -^-o)  inmo  in'rOMa)V-N  m  r ii)  ovrn^i";:.
 
 MMMM                        MM«(N00NM3    -KM    in  0    M    M    M  S2    ~
 
@@ -28339,7 +28339,7 @@ t^oo  r^  'TvO  ^
 'o\  Vo  «  w  V  V  b  V»  V  M  N  Vn  b  b^oo  Co  Vi  'm  lo  'c?>  Vj  S.
 HHMH  wi-tt-tNwooww*  m*o  ^  c^  •-«  ^  « i±*
 
-CT-  r*  ^  0>vo  Oi  o«  tN.  in  f^,  in  •*  H.  .-  N  xn  «  p<oo  p^  ^
+CT-  r*  ^  0>vo  Oi  o«  tN.  in  f^,  in  •*  H.  .-  N  xn  «  p oo  p^  ^
 V*  w  v.  b^  V  Vooo  Vn  00  V.  00  -*  rn  ■*  rn  fn  M  moo  «  3. "
 
 
@@ -28363,12 +28363,12 @@ oo  m '«  M  •«■  *  0  «  Vn  o  "  i  0  MS  "^Od  n  oo  lo  0  m^  m
 
 •ntui^i-Bjij
 
-S'*:rs'^*'^2":?ss"<X'«.n?J>s*SMS  sS"^
+S'*:rs'^*'^2":?ss" X'«.n?J>s*SMS  sS"^
 
 •BisiJiBa
 
 p  r^go  JN  _..4-  w  00  vD  00  00  0  "p  _C7>  ;*0  <)  ^  oo  p  oo   N  ___
-00  'f^ '«  M  'in  'rr  ■«  MD  N  b  'm  V  "n  V '«  V^i  b  >n  '■-.  ''c<i2,  m
+00  'f^ '«  M  'in  'rr  ■«  MD  N  b  'm  V  "n  V '«  V^i  b  >n  '■-.  ''c i2,  m
 
 MMMM                        MHCH««00«*0     -«-»0     tT   6     M     «     H  M
 
@@ -28387,7 +28387,7 @@ MwMM  MMfjNt^»-in  rnio  -^  O^  ^  N  M  >a
 •nABAVJ^
 
 
-.^  OOO    N^O    <N\000\OiOe
+.^  OOO    N^O     N\000\OiOe
 
 
 ■DiEjiqu^
@@ -28662,18 +28662,18 @@ f  oo  w  vo  -^  tN.  -<^  o
 •iquiBjj^
 
 
-00  p    C4  y5,"^/^'P   P   .^°0  00    W    ^  P^<P   P^  P"  P^  }
+00  p    C4  y5,"^/^'P   P   .^°0  00    W    ^  P^ P   P^  P"  P^  }
 
 
 *  00  fo  PI  t^  ooo   O   r^vo  *o  On  N  «  "^
-.   M  woo   M  iomr^-<to-i-'   ^  <-"M-.
+.   M  woo   M  iomr^- to-i-'   ^  <-"M-.
 
 
 •BUII-B>|B^
 
 
 p  p  /*  p  p  'p  On  n  a>  p  ro  in  o  w  li-)  p  oo  S^  y^  ;^p  _
-00  'fn  N  b  »o  Vo b>  V*M  b  "<N  b  -<h  '^  ro  M  V  '«^  m  o\  O !;
+00  'fn  N  b  »o  Vo b>  V*M  b  " N  b  - h  '^  ro  M  V  '«^  m  o\  O !;
 
 
 •usnsjB^
@@ -28753,7 +28753,7 @@ CMn-j-j-  lomo  >^
 
 w    N    N    5v  N    ^-  -tco    *  0    M    N    « 1^
 
-t>.vo  O   rr,  <T)vo   0   IN
+t>.vo  O   rr,   T)vo   0   IN
 
 tv  .«-00  >0    -TOO  VO    .»  •«->0    -    t^  0<
 
@@ -28907,7 +28907,7 @@ csjMMM  wi-mnwo^  rooo  vo  O  m  0  «  •-'  N
 OMf->M(-iMvOMC-Ht>,rOMNroOOO  ."^"P  O  ^
 O  ■^  rn  M  in  ^  ovo  m  O  -^Vom  ro«  O  t-^oo  »o  w  O
 
-MWMM  MHCNWCO<N\0-*IN'^ait-'t-'«
+MWMM  MHCNWCO N\0-*IN'^ait-'t-'«
 
 ■^t^MOO  ■^Cl  O^^0O^•-'00  W  mvO  ►«  l>»  fON  '-'  •-•
 ^  f^  P    p    O    O  'O  oo   JN   JN  00    O    m  moo   ^fO  _"«t-  ^    H<    f^OO
@@ -28921,7 +28921,7 @@ Vn.  'm  «  b  V  Vooo  «  HI  a\  c  o  a^\o  m  ■*««"<*-  m  t^.
 
 MMMM  WMM(NtN.O'«-«m    -^i-OO     M     M     M
 
-;*•  ^  N,  ON  m  ;*•  JN  'p  -p  j<J-  N  ;*  m  p\  h   iC  (N  ;<•  ^^  fO  m
+;*•  ^  N,  ON  m  ;*•  JN  'p  -p  j J-  N  ;*  m  p\  h   iC  (N  ;<•  ^^  fO  m
 
 b*  V  Vn  *M  m  V  M  00  Vn  m  V  m  "n  Vn  moo  t^  o  t^  «  m
 
@@ -29010,7 +29010,7 @@ rovo  K  m\o  *vo  •«#-  m  ^oo  oo  ^  vQ  ro  O^  ro  On
 m  ^»o  oo  M  vo  ^o  N  w  ."  P  Jf^  J^P  P  Z*"  P  r*"  P^  P^  .^
 OS  V  ro  *M  m  V  b  b  Vo  «  m  rn  Voo  "O  moo  m  vo  M  m
 
-MMMH  MHMNP^00<N'O'*•^N.'«^0'-'MM
+MMMH  MHMNP^00 N'O'*•^N.'«^0'-'MM
 
 
 «  «  t*«  M  m  fovo  ■«•  On  t
@@ -29124,7 +29124,7 @@ HMMM                             MMMWt^O-^Wtn    ♦CO     M     M     M
 
 VO  M  00  00  00  VO  00  rooo  ■>i-m^nionmo,-«-«o.i^
 
-o-<-roM  lorhMoo  <ON  •*■«•■«-  r^vo  vo  oo  m  r~  ro  o
+o-<-roM  lorhMoo   ON  •*■«•■«-  r^vo  vo  oo  m  r~  ro  o
 
 <
 
@@ -29138,7 +29138,7 @@ MMMM                                  MHMNOOC^VO-^t^-^OMMM
 
 -luniuiuij^
 
-roip  tn\p  <p  «  ♦  H  M  N  t~,3'90  f'p  y  ti  ro  m  m  _m
+roip  tn\p   p  «  ♦  H  M  N  t~,3'90  f'p  y  ti  ro  m  m  _m
 00  row  b  ♦Voo  V«  b  Vpoo  'mvo  Voo  V  m  vg  m  o
 
 HMMM                             MMWWr^Min  rovo     ♦  Ov  M     M     W
@@ -29167,7 +29167,7 @@ i
 
 •aScjaAV
 
-w   ro  inco  o*       c<inovMMMij-Mt^ovOvO*t"*Min
+w   ro  inco  o*       c inovMMMij-Mt^ovOvO*t"*Min
 Ooo  000  0  M  ♦in^  rovo   ov  m  m  Ov  moo  ov  w  co   m
 
 Ovroroo  inTrOi^M  0  roooo  ovr>.in'ininvb  m  g
@@ -29434,7 +29434,7 @@ ON  V  V)  *N  m  V  'f  V*  V  Vb  Vi  w  V  V  ro  t^  t^  tN.  m  N
 MMMM  MMM«c^oo^^^O■*t^•<^0^>-'^^N
 
 ■*  m^o  mvo  t^  M  iri  t>  w  fn  m  w  o\^Osos  J^oo  m  j*
-CO  Vo  «  b  V  V>  bs  m  «  b  f^  0  ^  f^^  ^  -<f-  rn  m  M  o\
+CO  Vo  «  b  V  V>  bs  m  «  b  f^  0  ^  f^^  ^  - f-  rn  m  M  o\
 
 MHMH  MMWWOOMm  fO»0     ^  0\  M     M     M
 
@@ -29647,7 +29647,7 @@ MHMM  MMMWtN.O*«"^   '♦OO     M     M     M
 
 JN  _■*«>  00  inoo  p<><>^  S^  r*"  y^  P^  .'*"°°  'P  ^  'P  /^  .°^
 
-0^■^m•-<ln"t^M^o  fO»^  •♦CI  O  fO"-"  f^O  »nt^«  ro
+0^■^m•- ln"t^M^o  fO»^  •♦CI  O  fO"-"  f^O  »nt^«  ro
 
 MMMM  MMMW«00«VO^*tX»nOMMN
 
@@ -29655,7 +29655,7 @@ rN.os  t^M.-^j-Mh^WMM  o^\0  M  ^  tN.  m  ■♦  N
 ro  JN  00  JN  JN  inoo  in  p  ro  jN  p  ro  yi  jrv  j>*oo  ;■■<  jrioo  "p
 O^^-fOM   in^otinw  M  inroro  t^\o  oo  oo  » ■  r^  m   m
 
-MMMM  M-<WWOOWO'*t^'«*-0'-''-'«
+MMMM  M- WWOOWO'*t^'«*-0'-''-'«
 
 
 •umuiiuij^
@@ -29708,7 +29708,7 @@ o
 
 ■uinuiiui}^
 
-m  N  •-  ■<-  m>0  "  «inmin.«-t-.Noo  m  n  in<o  «  p
+m  N  •-  ■<-  m>0  "  «inmin.«-t-.Noo  m  n  in o  «  p
 
 b'j?2S"*''^°°?S2'?S'^?«:^*<£"2'S"2
 
@@ -29731,7 +29731,7 @@ MMMM                        MMMNNOONVO'^t^-^O^W'^N
 
 fO  0   a  p^;^py  en  w  »p   t^  >«  .■*  ."^  p  ^  y^  .•*»  oo  ;^  ;*•
 CO  V Vi b  VVo  O* 'm  «  0\  «  00  00  00  ^o  -^  roso  vo  w  ct>
-iHMt-<H                  MH»-iNr-*Mio  ro"0  "^co  w  i-  w
+iHMt- H                  MH»-iNr-*Mio  ro"0  "^co  w  i-  w
 
 •uinuiixEj^
 
@@ -29757,7 +29757,7 @@ MMWM                  MHWWOOMin  ro^O  ■«*•  a>  •-  m  «
 
 ■aSBasAV
 
-Mwvo<ycjrN.NO       '-'f^'^*^^^^t!!2!:!!..   *^
+Mwvo ycjrN.NO       '-'f^'^*^^^^t!!2!:!!..   *^
 m  -^  rsoo  O  C^oo  vo  in  ■*  n  in  ro  ^^  t>.  ^ro  ^^  ^*  n  ts.  m
 
 00  V,•^;  0  Vm  •<>■".•«  0  "rn  0  ^  ^  ^s3"  *  S^  S  g
@@ -29792,7 +29792,7 @@ in  t.^00    -"J-OO  OD    OW    mn    04*0.1.^  .^OO  .M    in  on  .1^  .N    
 
 ■uintnixTjj^
 
-p»*moit~0  t^.O.fO  .■^'P  <p  P"P  .■"  .N  .0  .o^  r'  P' ."
+p»*moit~0  t^.O.fO  .■^'P   p  P"P  .■"  .N  .0  .o^  r'  P' ."
 b  'm  Vh  'in'm-o  oo  V«  i>  Co  J^  m  0  ig  m  i  <»  "  jj
 ^MMM            MMMNNoodr*  moo  m  0  «  M  «
 
@@ -29888,7 +29888,7 @@ c<0-<-*'n«uiwin
 
 N    Ov
 
-<r,
+ r,
 
 o>
 
@@ -30036,7 +30036,7 @@ s  s
 
 ■p  vo  .o>.o>  o>  p  00  >n\p  .rooo  ~  _~  p  ;*■.«■___„  p  oo  &
 CO  ro  «   0   -^  '^  O^iTi  n   0   N   0  VD  'b  ->n  -r^  -ifj  --^Cd  "o^  'i-
--I-"'-.                       wiHC<CIOO~iO  nvo    ■>»■  O-  M    M    ~
+-I-"'-.                       wiHC CIOO~iO  nvo    ■>»■  O-  M    M    ~
 
 •SUCI3  psxijv
 
@@ -30083,7 +30083,7 @@ HMMM                                 MMNMOOMIO    rOS©     -"f    OS   H     M 
 5:^5°2?59'"'i3>"'00N"^">^       roMHM
 
 .^  .h^  .0  .O  .0  .0  -p  00  .«  .C*  00  .0  .so  .»O00   ro  ^  M    H  OO    t^
-00   rorOM   lO-^oioN   0   CN    wsoso   lOroio  ^'<t-\o  'o\  '*^
+00   rorOM   lO-^oioN   0   CN    wsoso   lOroio  ^' t-\o  'o\  '*^
 
 MMMH                                 MMMCIOOmIO   rOSO     -^   OS   M     M     H
 
@@ -30119,7 +30119,7 @@ HMMM                                 MMONOOMIO    roso      .»•    OS    M   
 ipqj_t^_MOsr^     oosororoNNooroioos       ro
 t^ioOsN   OsO   t^N   t^M   roost^OsioOsOsrot^-*M
 
-00   row   0   -srs^-OssoN   0   M   Mso-»n-iON   -sj-roioo   <si
+00   row   0   -srs^-OssoN   0   M   Mso-»n-iON   -sj-roioo    si
 
 HHHM                                 HHC4010OM1O    rOSO     .tf"    OS   H      N      H
 
@@ -30159,7 +30159,7 @@ X351UOJV  XaiQ
 loso  OsNCJl^rx-itf-Nt^        ossors^ro  Osoo   ■*  ro  N
 ^p  sp  .OS  .0   .0   .Osoo   .""Jy^.H.MOOsp    «    0    OsOsOOO    OsM
 
-CO  ro  w  M  lO  ro  Os  in  -«  -Q  -«  -©s  -.<f  -■s^  'lO  -Qs  -^  -M  'ir,  "os  -«
+CO  ro  w  M  lO  ro  Os  in  -«  -Q  -«  -©s  -. f  -■s^  'lO  -Qs  -^  -M  'ir,  "os  -«
 
 HHMH                                 MHNWt^MIOrOlO^OSHMH
 
@@ -30597,7 +30597,7 @@ c  x'
 
 2*5
 
-p<mp  v
+p mp  v
 '\n  'a\  in  Vi
 
 Heart  Clan  ,..
@@ -31022,7 +31022,7 @@ M         M        lO
 
 Ov  ro
 
-<n
+ n
 
 M     in    ■*       O
 

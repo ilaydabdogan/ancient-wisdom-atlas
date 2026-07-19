@@ -2605,7 +2605,7 @@ SCOP.     SKALD.     GLEOMAN.     GLEOCBiEFT.  901
 
 Song,  music  and  dance  make  glad  (repTrovai)  the  heart  of  man,
 lend  grace  to  the  banquet  (avadrj/jLara  &hto?,  Od.  1,  152.  21,
-430),  lulling  and  charming  our  griefs  (ISpoT<ov  OeX/cTrjpia,  Od.  1,
+430),  lulling  and  charming  our  griefs  (ISpoT ov  OeX/cTrjpia,  Od.  1,
 337).  God  himself,  when  ailing,  comes  down  from  heaven,  to
 get  cheered  by  the  minstrel's  lay  (p.  331).  Hence  poetry  is
 called  the  joyous  art,  and  song  joy  and  bliss.  We  know  the  gai
@@ -2883,7 +2883,7 @@ iy/cw/jLiov  in  Oratt.  Att.  ed.  Bekker  2,  245.
 Bacchus  revealed  himself  to  Aeschylus  :  efa  Be  ^4tV%uXo?  fieipd-
 kiov  wv  /cadevBeiv  ev  aypw  fyvXaaawv  ara^vXa^  Kal  oi  Aibvvaov
 iirio-Tavra  KeXevaat  rpaypBiav  iroielv.  m  Be  rjv  rj/xepa  (irelOeaOaL
-<yap  eOeXeiv)  paara  tjBtj  ireipwpLevo^  iroielv.  ouro?  p,ev  ravra  eXe-
+ yap  eOeXeiv)  paara  tjBtj  ireipwpLevo^  iroielv.  ouro?  p,ev  ravra  eXe-
 ryev  [Aesch.  said,  that  when  a  boy  he  fell  asleep  in  the  field  while
 watching  grapes,  and  Dionysus  appeared  to  him  and  bade  him
 write  tragedy.  In  the  morning,  wishing  to  obey,  he  composed
@@ -3274,7 +3274,7 @@ of  confession  dealt  much  with  devilish  suggestion  and  entice-
 ment, 1  men  came  to  use  it  habitually  of  ghostly  delusion  and
 illusion.  Boner  94,  54  has  fdiu  gespenst9  (why  not  gespanst?)
 for  phantom,  apparition.  The  neuter  is  found  in  the  MBere  vom
-schretel  und  wazzerber  92  quite  in  the  above  connexion:  <des
+schretel  und  wazzerber  92  quite  in  the  above  connexion:   des
 tiuvels  valant  und  sin  gespenste9 ;  even  earlier,  Herbort  3500
 couples  gespenste  and  getwas.  Keisersperg  (Omeiss  39)  has
 des  teufels  gespenst  (praestigium)  :  not  till  recent  centuries  did
@@ -3331,7 +3331,7 @@ Other  glosses  have  flattie,  and  scraz,  scrat  (p.  478).  Mummel  is
 both  larva  and  kobold  (p.  506).  Anything  uncanny  and  alarm-
 ing, monstrum,  prodigium,  portentum,  praestigium,  acquires  the
 meaning  of  spectre  too.  Again,  getwds  (p.  464),  Herbort  842.
-12856.  <ein  bose  getwds,  Vom  gelouben  530;  the  M.Nethl.
+12856.   ein  bose  getwds,  Vom  gelouben  530;  the  M.Nethl.
 ghedwaes,  Hor.  belg.*  6,  249  agrees  with  the  Lith.  dwase,  spectre
 [v.  the  LS.  verb  dwetern  above].    In  Martina  10  we  read  '  daz
 
@@ -4418,7 +4418,7 @@ The  two  interpretations  admit  of  being  harmonized.  Knecht
 Ruprecht  makes  his  appearance  beside  frau  Berhta,  as  her  ser-
 vant and  companion  (p.  514-5),  sometimes  her  substitute,  and  like
 
-from  all  hope  so  in  Swed.  tradition  the  priest  says  to  the  nmsical  <neck  :  '
+from  all  hope  so  in  Swed.  tradition  the  priest  says  to  the  nmsical   neck  :  '
 Af S  156  But  this  myth  of  Tanhauser  accords  with  many  others,  esp_  Celtic
 £ trTll Xt,  it  is  told  in  Sweden  of  the
 
@@ -5178,8 +5178,8 @@ and  deep  be-delve  you.  Much  of  this  language  is  Biblical  (Isa.  2,  19
 Tmke  23  30-  Rev.  6,  15,  16),  but  the  sentiment  of  many  nations  will  run  alike  m
 wrh  matter's  Nib.  867,  2 :  '  mir  troumte,  wie  obe  dir  ze  tal  vielen  zwene  berge,  I
 dreamt  two  mts  fell  on  thee.  That  jumping  out  of  one's  skin,  like  a  snake  casting
-Ss  sTough,  may  also  come  of  joy  and  anger,  O.Fr.  <a  poi  n»  ist  de  sa  pel,'  is  well
-nigh  out  of  his  skin,  Ogier  6688.  Nethl.  <het  is  om  uitzijn  vel  te  spnngen.  So
+Ss  sTough,  may  also  come  of  joy  and  anger,  O.Fr.   a  poi  n»  ist  de  sa  pel,'  is  well
+nigh  out  of  his  skin,  Ogier  6688.  Nethl.   het  is  om  uitzijn  vel  te  spnngen.  So
 tn  our  EHs.  von  Orleans,  ed.  Schiitz  p.  223;  'for  joy,'  Ettn.'s  Unw.  doctor  856.
 Not  unlike  is  that  jumping  into  stone  spoken  of  on  p.  552;  as  early  as  Alb.  von
 Halb  143b  •  '  at  one  leap  he  turned  into  stone.'
@@ -5322,7 +5322,7 @@ fase  t  HalCd  (Ueborg  1818)  2  p.  801:
 
 hum  deVulle  efterkomma  den  gamle  blinde  FfT^X^tJ^^ i  en
 spanna  bfeltet  omkring  en  bjork,  och  bjarken  for  i  luften  och  at  satta  asfam p&^  en
-Lie  (grajye-mound),  oeh  straxt  .idr  Wlm.  <Hman  The
+Lie  (grajye-mound),  oeh  straxt  .idr  Wlm.   Hman  The
 bygd  der  ^len  blinde  mannen  hade  sitt  gethus  har  hen  f&tt  nf™^?'luB°'  g^f
 •  Mind  giint '  banished  to  the  island  is  a  spec  ral  heathen  god  (conf  Orion  p.  a«b
 the '  white  woman  '  a  christian  church  or  an  image  of  Mary  ;  had  they  fastened  the
@@ -5372,7 +5372,7 @@ together,  saying  there  was  no  great  strength  there  (Faye  p.  17).  A  s
 man's  Bahuslan  153-4  has  similar  variations :  A  ship's  crew,  driven  ouf;  of  their
 course  to  an  out-of-the-way  coast,  see  a  fire  burning  at  night,  and  go  on  sfyiore.  By
 the  fire  sits  only  one  old  man,  who  asks  a  sailor  :  '  Whence  be  ye  ? '  Fro;  m  Hisin-
-gen  in  Safve  pastorate.  '  Ken  ye  Thorsby  too  ? '  Ay,  that  I  do.  '  W<ht  ye  the
+gen  in  Safve  pastorate.  '  Ken  ye  Thorsby  too  ? '  Ay,  that  I  do.  '  W ht  ye  the
 whereabout  of  Ulfveberg  ?  '  Ay,  it's  many  a  time  I've  passed  it,  going  froijn  Gothe-
 borg  to  Marstrand  by  way  of  Hisingen.  '  Stand  the  great  stones  and  bar  rows  there
 yet  unremoved  ? '  Ay,  but  one  stone  leans  and  is  like  to  fall.  '  Wot  j  ye  where
@@ -5808,7 +5808,7 @@ A  fisherman  in  the  neighbourhood  of  the  Highwayman's  hill
 near  Feeben  was  throwing  out  his  nets,  when*  he  suddenly  saw
 the  white  woman  stand  on  the  bank  before  him  with  a  bunch  of
 leys.  She  said,  <  thy  wife  at  home  is  just  delivered  a  of  a  boy,  go
-fetch  me  the  babe,  that  I  may  kiss  him«and<be  saved/  The
+fetch  me  the  babe,  that  I  may  kiss  him«and be  saved/  The
 fisherman  drove  home,  and  found  everything  as  she  had  said,  but
 he  durst  not  take  his  child  out  at  once,  the  clergyman  advised
 him  to  have  it  christened  first ;  after  which,  when  he  repaired  to
@@ -7130,7 +7130,7 @@ planation of  '  Muotes  her'  suggested  on  p.  931n.
 One  name,  which  I  have  held  back  till  now,  is  of  frequent
 occurrence  in  MHG.  poets  of  the  12-13th  cent.  :  '  der  volant,'  S.
 Uolrich  54a.  69b.  74a.  Anegeuge  218b.  219a,  220b.  Tundal  56,
-31;  <diu  vdlantinne  Herodia '  (see  p.  283),  Fundgr.  i.  139,  6;
+31;   diu  vdlantinne  Herodia '  (see  p.  283),  Fundgr.  i.  139,  6;
 fder  volant,'  ii.  109,  42.  Eoth.  3106;  '  valandes  man,'  Roth.
 3227.  3366;  volant,  Eol.  289,  7;  1  vdlantes  man'  111,  5.  189,  16;
 '  der  iibel  volant;  Nib.  1334,  1  ;  valandinne  (she-devil)  1686,  4;
@@ -7812,7 +7812,7 @@ MIXED  UP  WITH  OLD  GODS.
 
 188,  { troll  taki  hann  ! '  Orvarrodss.  cap.  9,  '  fara  i  trblla  hendr  ! '
 Laxd.  p.  230,  it  answers  exactly  to  our  Devil,  yet  also  to  the
-older  and  more  pagan  one  :  (  eigi  \'<k  gramir 3  or  '  iotnar  ! '
+older  and  more  pagan  one  :  (  eigi  \' k  gramir 3  or  '  iotnar  ! '
 (p.  990-1).  In  Saem.  39  we  read  :  c  farjm  nu  )?ar  pmyl  hafi  j?ic  ! 3
 It  seems  that  Scandinavian  sorceresses  call  the  Devil  urdar  mdni
 (luna  saxeti,  Biorn  sub  v.) ,  which  I  know  of  nothing  to  compare
@@ -8420,7 +8420,7 @@ dacium)  and  logi  (blaze,  blast)  ?  Wind  means  to  us  a  false
 allegation,  windbag  a  humbug,  liar.  A  Dan.  proverb  says :
 'logn  er  et  skadeligt  uveir '  (mendacium  est  tempestas  nociva),
 Saxo  Gram.,  ed.  Mull.  p.  200.  A  liar  is  also  a  mocker,  hence
-<des  tievels  spot/  Nib.  2182,  2.  f  daz  sinen  spot  der  tuvel  mit
+ des  tievels  spot/  Nib.  2182,  2.  f  daz  sinen  spot  der  tuvel  mit
 den  sinen  habe,'  Gr.  Rud.  1,  9.  In  Mod.  Nethl.  '  de  vyand  heeft
 my  beet  gehad/  hostis  me  ludibrio  habuit  (see  Suppl.) .
 
@@ -9115,7 +9115,7 @@ cated when,  upon  the  introduction  of  Christianity,  all  heathen
 
 dem  wonder,  daz  der  wundSLe  JZl^?«f '  Says"  Ms'  2-  I5*b  :  '  ™>1
 
-Ms.  2,  17lb TrSf  lnmTlt    ^  ,fn  d<VJ  sUezen-'   God  is  the
+Ms.  2,  17lb TrSf  lnmTlt    ^  ,fn  d VJ  sUezen-'   God  is  the
 mirabilis  Deus,  Helbl  7  12    *„♦  ? '  "*?  °f  ^U.w011^rS  hath  control,  Parz.  43,  9  ;
 
 the  name  of  w'unZrll)  in  Etels  tlLhnl  T?  "°dBto  ^  e'g"  Erek-  ea™
@@ -9660,7 +9660,7 @@ in  Harald  Mrf.  saga"  cap.  36,  king  Eirikr  causes  his  brother
 Eoo-nvald  and  80  serSmenn  to  be  burnt.    The  vala  or  volva  is  a
 prophetess,  priestess,  norn,  a  most  holy  being  of  the  olden  time
 (pp  97  408),  and  at  the  same  time  a  sei&kona.    Even  of  the
-Eddie  vala  it  is  said  :  <sei3  hon  kunni/  Sa3m.  4b.    Such  magic
+Eddie  vala  it  is  said  :   sei3  hon  kunni/  Sa3m.  4b.    Such  magic
 women  are  Eei&r,  Eamqlom,  Skuld,  etc.,  all  originally  air-riding
 valkyrs  (p.  421)  ;  in  Seem.  154b  volva,  skass,  valkyrja  stand
 side  by  side.    Weighty  evidence  shall  be  brought  by  and  by  of
@@ -9869,7 +9869,7 @@ se  elementis,  igne  atque  aquis,  concretum.' 2    Burgundians  and
 i  Leo  now  explains  from  the  Celtic,  that  burgius  is  th%tr^^a^^
 attendant,  and  chervio  wise-woman,  from  gear  ?^d>
 
-<sagae  minister.'    Also,  that  strioportius  may  be  the  Welsh  ystryws  wise,  and
+ sagae  minister.'    Also,  that  strioportius  may  be  the  Welsh  ystryws  wise,  and
 
 sam  aciem  Marti  ac  Mercurio  sac£vere :  quo  veto  equi,  vm,  ^«
 
@@ -10262,7 +10262,7 @@ ignibus,  Aegipanum  Satyrorumque  lascivia  impleri,  tibiarum  ac  fistularum 
 tympanorum  et  cymbalorum  sonitu  strepere.'
 
 
-1054  MA<na
+1054  MA na
 
 143",  and  myrk-riffa  77%  by  which  monstrous  mischievous  giant-
 women  are  meant,  wild  women,  waldminnes,  iarnviSjur  (p.  483),
@@ -10457,7 +10457,7 @@ a  goddess  of  magic.
 
 1058  MAGIC.
 
-them  from  earlier  than  the  13th  century,  as  Wh.  1,  82":  <wil
+them  from  earlier  than  the  13th  century,  as  Wh.  1,  82":   wil
 der  (Machmet)  helfe  sparn,  so  helfen  in  die  naht-varn ;  daz  sint
 alter  wlbe  troume/  if  M.  grudge  help,  the  night-farers  help  them.
 Ls  3   10  •  '  ez  konde  niemen  bewarn,  ich  miles  eine  (alone)  uz
@@ -10548,7 +10548,7 @@ h?  SW+\6t  b.reath.'  laid  Mm  in  the  fire  at  ^  to  consume  all  that  w
 Wi  ,  m  +im'  b°?  thf0ve'  tm  his  mother  watched  and  saw  and  burst  into  a
 w  7  I '  •  Gf  ??  ^racle  Was  inter™pted,  Hym.  to  Ceres  236-63.  So  Thetis
 anoints  her  mf  ant  Achilles  and  hides  him  in  the  fire.  Conf.  however  the  vapa^pTv
-ra  pPe<pv  dia  rVs  cpXoyos,  and  ponerejuxta  ignem,  p.  625.
+ra  pPe pv  dia  rVs  cpXoyos,  and  ponerejuxta  ignem,  p.  625.
 
 Guotiu  wihtir,  p.  442  ;  conf.  unrighteous  things,  p.  1031,  sorcery.
 VOL.  III.  J  ^
@@ -11622,7 +11622,7 @@ straw,  p.  273 ;  out  of  the  goddess  was  made  the  hideous  bugbear.
 In  many  villages,  we  are  told,  there  are  wicked  wives  that  have
 a  white  liver,  whose  husbands  waste  away  and  die.  Passages  in
 the  Codes  prove  that  the  same  delusion  prevailed  among  the
-ancient  Germans :  Lex.  Sal.  67,  <si  stria  hominem  comederit/
+ancient  Germans :  Lex.  Sal.  67,   si  stria  hominem  comederit/
 and  what  was  quoted  p.  1068  from  the  Lex  Roth.  379  and  the
 
 1  Pliny  7,  2  notices  a  similar  test  for  magicians  :  « in  altero  oculo  gemmam
@@ -12346,7 +12346,7 @@ find  a  man's  name  Zflfhedinn,  and  OHG.  Wolfhetan,  MB.  28,  nos.
 
 1  Among  the  iEsopian  Fables  is  a  merry  gest  (Cor.  425.  Fur.  423) :  A  thief
 pretends  to  his  host,  that  when  he  has  yawned  three  times,  he  becomes  a  werewolf
-(otclv  odi>  xa<TyU,?7#c3  rpeis  /SoXds,  yivofxcu  Xvkos  eadiwv  avdp&Tovs)  ;  the  timid  host  runs
+(otclv  odi>  xa TyU,?7#c3  rpeis  /SoXds,  yivofxcu  Xvkos  eadiwv  avdp&Tovs)  ;  the  timid  host  runs
 away,  and  the  rogue  gets  possession  of  his  garment.  Petronius  in  Sat.  62  mentions
 a  peculiar  method  of  metamorphosis :  1  i^le  circumminxit  vestimenta  sua,  et  subito
 lupus  factus  est ;  vestimenta  lapidea  fact^  sunt.'  Conf.  cap.  57  :  '  si  circumminxero
@@ -12766,7 +12766,7 @@ no3
 
 
 (Swed.  40) ;  the  Greeks  at  sight  of  a  madman  spat  thrice  into
-their  bosom,  Theocr.  6, 39.  21,  11.    f  <cr  dictis  despue  carminibus/
+their  bosom,  Theocr.  6, 39.  21,  11.    f   cr  dictis  despue  carminibus/
 Tibull.  i.  2,  55.    Home-sprites  cannot  bear  spitting  (p.  514)  ;  conf.
 Sup.  I,  317.  453.    To  the  same  effect,  and  worth  reading,  is  what
 Pliny  28,  4  says  on  despuere,  adspuere,  inspuere,  exspuere. — In
@@ -13687,7 +13687,7 @@ swie  vil  der  musdre  umbe  geflouc  (how  the  m.  flew  round),
 der  ungeioube  in  niht  betrouc  (deluded)  :
 
 1  Conf.  Chrysostom  (b.  354  d.  407)  ad  popul.  Antioch.  homil.  21  (Opp.  Etonae
-1612.  6,  610)  :  IIoAAd/as  e£e\diov  tls  tt]v  oltiav  ry\v  eavrov  eWev  avBpwirov  €rep6<pda\p.ov
+1612.  6,  610)  :  IIoAAd/as  e£e\diov  tls  tt]v  oltiav  ry\v  eavrov  eWev  avBpwirov  €rep6 pda\p.ov
 i)  x^Xe^ra,  Kai  oiuvLtjaro  .  .  .  iav  diravTrjarj  irapdevos,  (prjaiv,  airpaKros  rj  rj/xepa
 yiyverac.    cow  de  diravT-Qay  irbpviq,  detjea  Kai  XPV^tt}  Kai  ttoAAtjs  ifX7ropias  ye/xovaa.
 
@@ -13838,7 +13838,7 @@ pp.  269.  274.
 And  it  becomes  to  my  mind  doubly  clear  by  the  clergyman
 
 1  Not  true  of  Theodora  at  any  rate,  a  bird  who  boded  ill  to  the  Byzantines :
-fp>  yap  rots  6pQ<rt.i>  aXXws  re  /cat  apxo/J-eprjs  i]/xepas  j3\da(p7)pLos  oiuvos,  Procop.  Hist,
+fp>  yap  rots  6pQ rt.i>  aXXws  re  /cat  apxo/J-eprjs  i]/xepas  j3\da(p7)pLos  oiuvos,  Procop.  Hist,
 arc.  9  (ed.  Bonn,  p.  63).
 
 
@@ -15294,8 +15294,8 @@ death  or  destiny  (p.  406),  pestilence  carries  off :  •  suht  farnam/
 
 1154  SICKNESSES.
 
-Hel  125,  20  ;  in  the  Swed.  oath  <tra  mig!'  we  must  supply
-<ta^e'  take:  ita  me  morbus  auferat  !  In  the  Cod.  Yindob.  th.
+Hel  125,  20  ;  in  the  Swed.  oath   tra  mig!'  we  must  supply
+ ta^e'  take:  ita  me  morbus  auferat  !  In  the  Cod.  Yindob.  th.
 49 8° no  94  I  find  the  phrase  'eine  suht  ligen,  zwo  suht  ligen/  to
 lie  one  sickness,  two  s. ;  <  sich  in  die  suht  legen/  lay  oneself  (he
 down)  into,  Reinh.  302.  320.
@@ -15400,14 +15400,14 @@ the  shooting,  twisting  and  tugging  of  pain  in  the  body ;  and  a
 derivative  corresp.  to  the  Goth,  gahts  (innagahts,  Gramm.  3,
 518) .  M.  Nethl.  jicht,  Icel.  %H,  Bw.  gikt,  Dan.  gigt.  The  Gothic
 renders  irapaXvTiKos  by  us-UJ>.a,  as  if  beside  one's  limbs,  having
-no  use  of  them;  an  OHG.  urlido  is  not  found.  <Ein  siechtuom
+no  use  of  them;  an  OHG.  urlido  is  not  found.   Ein  siechtuom
 heizet  pogrdt'  =  leme,  a  lame  palsied  state,  Parz.  501,  26  is  a
 corruption  of  podagra,  which  was  also  twisted  into  podagram.
 More  Teut.  are  fuoz-suht,  AS.  fot-ddl  (podagra);  zipperlein  I
 do  not  find  before  the  16th  cent.  M.  Nethl.  fledersin,  fledercine
-(arthritis),  Leven  van  Jesus  p.  52,  and  <fl.  in  vote  ende  in  lede/
+(arthritis),  Leven  van  Jesus  p.  52,  and   fl.  in  vote  ende  in  lede/
 Doctrinale  3,  1030;  in  D'Arsy's  Woordenboeck,  Amst.  1699,
-<fiedecvjn,flerecijn,  la  goutte  (chiragra)' ;  did  the  word  mean  a
+ fiedecvjn,flerecijn,  la  goutte  (chiragra)' ;  did  the  word  mean  a
 moth  or  butterfly  that  brought  on  the  disease  ?  (see  Suppl.) .
 
 The  flying  gout  that  shifts  from  one  part  to  another  (arthritis
@@ -15452,7 +15452,7 @@ We  apply  the  term  fluss  (rheuma)  to  several  morbid  affections,
 some  slight,  others  dangerous  to  life,  as  stichfluss  catarrh,  schlag-
 fluss  apoplexy.  The  latter  is  said  to  touch,  hit,  strike ;  MHG.
 der  Gotes  slac  (stroke) ;  later,  die  geivalt  (might)  Gottes,  die  hand
-Gottes,  Ettn.  unw.  doct.  224.  <traf  mich  Gottes  gewaW =  1  had  a
+Gottes,  Ettn.  unw.  doct.  224.   traf  mich  Gottes  gewaW =  1  had  a
 stroke,  Brunsw.  anz.  1745.  p.  2022  (from  Life  of  Mat.  Schwarz,
 an.  1547)  ;  conf.  supra  p.  19n.  Yet  the  <  stroke  of  God'1  ex-
 presses also  the  quickness  and  ease  of  this  mode  of  death  (mors
@@ -15464,7 +15464,7 @@ might)  epilepsy,  from  Bozj  ruka  (God's  hand)  apoplexy  (see
 Suppl.).
 
 The  term  falling  sickness  for  epilepsy  occurs  as  early  as  Diut.
-2,  193b,    'valjandia  suht  (caducum  morbum)';   <daz  fallende
+2,  193b,    'valjandia  suht  (caducum  morbum)';    daz  fallende
 ubei;  Fundgr.  325  ;  <  fallender  siechtag/  Hutten  5,  171.  Other-
 wise :  the  sorrow,  the  misery,  the  sore  trouble,  the  evil  being,  the
 scourge,  the  weed  (Jul.  Schmidt  p.  136).    M.  Nethl.  vallende  evel
@@ -15503,7 +15503,7 @@ conjured  into  a  withered  tree.    A  severer,  longer  ailment  than
 hiccough  seems  to  be  meant ;  Mone  connects  nosch  with  nesso
 in  the  OS.  spell,  but  a  LG.  ss  answers  to  a  HG.  hs,  not  to  sk
 sch;  to  me  the  connexion  of  the  word  with  naschen,  explain  it
-how  you  will,  seems  indisputable:  <s6  dich  din  suht  benascbe
+how  you  will,  seems  indisputable:   s6  dich  din  suht  benascbe
 (nibble  at),  daz  dir  hut  und  Mr  abe  ge  !'  skin  and  hair  come  off
 
 (see  Suppl.).  .  .
@@ -15524,7 +15524,7 @@ also  means  colic  acc.  to  Hoffm.  Ruhr  (dysentery),  durchlauj,
 
 darmgicht  (acc.  to  Gloss.  Flor.  984*)  uzsuht,  Gl.  Flor.  984'  zuzsuht;
 further,  in  Staid,  aussncht  (diarrh.).  Bothe  ruhr  (bloody  flux),
-<der  rothe  schaden'  (Aushelm  3,  236).
+ der  rothe  schaden'  (Aushelm  3,  236).
 
 Lungensueht,  AS.  lungenadl  (pneumonia);  ' schwt-nge.  odep
 luno-e-sucht '  in  Schweinichen  2,  256  is  surely  for  schwmde-  ?  in
@@ -16288,7 +16288,7 @@ quadri^eSbus1''  ?5  (C°nf*  220)  dteS  a  ' tractatus  IdParti  fabulosus.' :
 K64  2  'Mlt  ^  belchen  (fulicae  atrae)*  fiiezen  wirt  dem  man  mazleide  buoz,'  Ls.  3,
 
 3  Herodptus  2,  111  speaks  of  a  blind  man  recovering  sight  yvmticbs  otpu
-viyanevos  rovs  o<pda\p.ovs,  jjru  Trapd  rbv  iuvrijs  avbpa  ^ovvov  Tre<poiTVKe,  &pdpu>v
+viyanevos  rovs  o pda\p.ovs,  jjru  Trapd  rbv  iuvrijs  avbpa  ^ovvov  Tre poiTVKe,  &pdpu>v
 eovaa  aireipos.  r
 
 
@@ -17103,7 +17103,7 @@ gravity  of  our  present  students  of  nature,  who  never  waste  a
 glance  on  the  customs  of  their  country,  and  to  whom  all  the  force
 and  grace  of  Teutonic  idiom  is  but  small  beer  (see  SuppL).
 
-<Er4t,  steine  unde  wort  Mnt  an  kreften  gr6zen  hort'  (herb  and
+ Er4t,  steine  unde  wort  Mnt  an  kreften  gr6zen  hort'  (herb  and
 stone  and  wholesome  word  have  of  healing  powers  rich  hoard)  ,
 says  our  Freidank  111,  6 ;  and  as  there  lies  in  dwarfs  a  special
 acquaintance  with  the  healing  virtues  hidden  in  herbs  (pp.
@@ -17127,7 +17127,7 @@ draught,  grew  healing  herbs  that  blessed  the  land  at  large  (Marie
 de  Fr.  1,  268).  Mountains  foster  what  is  rarest  in  the  realm  of
 plants.   Zeus  and  Hera  laid  them  down  on  Ida's  top  (II.  14,  347)  :
 
-T0ldL  8'  V7TO  %0O)V  Sid  <pV€V  V€O07]Xea  TTOlV,
+T0ldL  8'  V7TO  %0O)V  Sid   pV€V  V€O07]Xea  TTOlV,
 
 Xcotov  6'  epcr^evra  ISe  icpoicov  rj$'  vclklvOov,  ^
 TTV/cvbv  koI  jidkaicov,  o?  airb  X0ovb<;  vfoa'  eepye'
@@ -18723,7 +18723,7 @@ from  carmen].
 
 Opposed  to  blessing  is  cursing,  to  the  wholesome  the  hurtful.
 For  the  former  the  Goth  still  nsed  his  native  word  Jnupeins
-€v\o<yia,  from  ]?ru)?jan  evXoyelv;  the  OHG.  segan  dicatio,  dedicatio,
+€v\o yia,  from  ]?ru)?jan  evXoyelv;  the  OHG.  segan  dicatio,  dedicatio,
 benedictio,  comes  from  Lat.  signum,  the  AS.  segen  meant  merely
 signum  in  the  sense  of  flag ;  MHG.  segen,  like  our  own,  stands
 for  magic  as  well.  Ka/coXoyelv  is  in  Ulph.  ubil-qi)?an  maledicere,
@@ -20456,7 +20456,7 @@ barlebaen,  barli-bak,  -break  (devil)  1003,
 barn -building  252  n.
 Barthel  (goblin)  515  n.
 barzdukkai,  berstuhki  (dwarf)  448  n.
-(3a<ricatvoj,  fascino  1100.
+(3a ricatvoj,  fascino  1100.
 Baugi  903.
 Bavo's  pillar  394.
 Bayard  392.  656.

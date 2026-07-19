@@ -2,102 +2,6 @@
 
 INTRODUCTORY REMARKS.
 
-Key to characters used 4
-
-I. CENTRAL DIALECT (GaVd'ci).
-
-Myths.
-
-I. Flint Boy 6
-
-n. The Theft of Fire and the Burning of the World 23
-
-HI. The Visit of the Geese People to Mt. Shasta 35
-
-iv. Bluejay's Journey to the Land of the Moon 50
-
-v. The Creation of the Yana 74
-
-vi. Origin of Sex, Hands, and Death 77
-
-vn. Coyote and His Sister 93
-
-vm. Coyote and His Mother-in-Law 109
-
-IX. The Rolling Skull 115
-
-II. NORTHERN DIALECT (Gon'ei).
-
-Myths.
-
-x. Coyote, Pine-Marten, and Loon 129
-
-XI. The Drowning of Young Buzzard's Wife 137
-
-xil. Coyote, Heron, and Lizard 142
-
-xin. The Finding of Fire (from Curtin's "Creation Myths
-
-of Primitive America") 160
-
-Narratives and Customs.
-
-xiv. Indian Medicine Men 174
-
-xv. Marriage 181
-
-xvi. A Lovers' Quarrel 183
-
-xvii. Childbirth and Death 185
-
-xvni. Death and Burial 188
-
-xix. Betty Brown's Dream 195
-
-xx. Spell said by a Girl desirous of Getting a Husband 197
-
-xxi. Curse on People that wish one 111 198
-
-xxii. Prayer on Sneezing 199
-
-
-Supplementary Texts, collected by Dr. E. B. Dixon.
-
-xxm. The Boiling Skull 200
-
-XXIV. Grizzly Bear and Deer 203
-
-III. SUPPLEMENTARY YANA MYTHS, collected by Dr. E. B. Dixon.
-
-I. The Creation of Man 209
-
-n. The Contest of Fox and Coyote 210
-
-in. The Lost Brother 214
-
-IV. The Flints and Grizzly Bears 216
-
-v. ( rihateaina 221
-
-vi. Fixing the Sun 223
-
-VII. Woodpecker and Woodrat 224
-
-vin. Eabbit Woman and Her Child 225
-
-ix. Coyote and Eabbit Gamble 226
-
-x. Gopher and Eabbit Gamble 227
-
-XI. Coyote and the Stump 227
-
-xil. Loon Woman 228
-
-xiii. Pine Marten's Quest for Moon's Daughter 233
-
-
-INTRODUCTORY REMARKS.
-
 The following myths were obtained in 1907 as part of the
 Ethnological and Archaeological Survey of California conducted
 by the Department of Anthropology of the University of California. Numbers i-ix were obtained in December near Red-
@@ -300,25 +204,6 @@ also between -td- and -t' d-, and correspondingly for other stops. Final consona
 is to be syllabified p'a-da'i-dja.
 
 
-I. CENTRAL DIALECT (GaPa'ty.
-
-
-iia
-
-
-I. FLINT BOY.
-rnaus-i de'tc' iteayauna dji mo'maiyauna
-
-
-Flint people living together.
-
-
-them
-
-
-living together,
-
-
 sa The nine gat's/*! myths here given were obtained in December, 1907,
 just north of and across the Sacramento river from Redding, Shasta
 County. The informant was Sam Bat'wi, one of the four or five Indians
@@ -343,224 +228,12 @@ as due to a too frequent dreaming and thinking about women.
 &*)ma't!adjuwa and I'gunna are gat'a/ei, wa'V guruwa is gari'£i for sweathouse.
 
 
-person
-
-
-Flint (person).
-
-
-* -txi- was, perhaps incorrectly, heard for t'ufc»i-.
-
-
-« In Southern Yana, now extinct, these two words would be: &£"rijt/«e
-
-
-'It is rather doubtful if this word, meaning "if (it is)," properly belongs here.
-
-
-is it?"
-
-
-life. I It was overheard
-
-
-up,"
-
-
-p'ama'nmi da'mts-amaun aits- man^m* maus-i djidja'- l()
-
-
-wo' wo' wo' t'lVtV 'awoVt'e eaigidje' 12
-
-
-hand out for it
-
-
-» Accompanied by gesture indicating length of bow.
-
-
-2 dja'H'1 'e'bat'imam't' buibawa'ldmet' k' aik' la'lla gi
-
-
-ma'nmix mow e'ga'nyau9 gi maneniv mo'djawaldiw't' e
-
-
-ing,
-
-djayau galea'yauna uwar aits- 'i's- 'e 'e atc'I'-
-
-
-8 t'i badja'lmau klaina maun't' bo' ga'nwaldiyauna gi
-
-
-bow,
-
-
-s-auw mini'nt' djae djurwa
-
-
-18 atc'I'h aik t'6' atc'i'h aik t'6 aik tc'u' tclegisk'
-
-
-small
-
-
-a t'etek! a'idje ma' tc lilautc' uit' etc t'u'eaina' atc'I'mah
-
-
-What is
-
-
-perhaps
-
-
-up.
-
-
-stuck them around
-
-
-to look.
-
-
-iof(ete- " grizzly-bear "+ -p.'diwi (compound form of p/u'dturi)
-1 women. ' '
-
-« Probably = fc' their, Witda'una teeth.
-
-
-is it?
-
-
-k'u's- aitc mo'yau 'aha' hagapla t'lVtT ya'iyus-i'-
-
-
-8 nugana' k' u's-k' inik' yaiyu'€ na' k lunmiya'us-iniiga'n
-
-
-about to be
-
-10 nttf o'medjiyauna aitc tVpldiwi hagapla kluni-
-
-
-Flint-boy,
-
-
-now ate it.
-
-
-back home
-
-
-were all sick now
-
-
-In gari'ei this word would be gawl'tc* uiyauna.
-
-
-This word is characteristically gat(a'ei; mo- "eat" is used in gari'ei.
-
-
-flint.
-
-maus-i ma'ls-unduyau 6'leaudueayau yo'gailauplan*!;' gi 4
-
-
-up roots with a stick.
-
-
-pack-basket.
-
-
-'ehe' atc'i' aidji t'6'cantc' dumma'nabaH' ix bodjama- 14
-
-down into it
-
-riwet' aik' e'mans-ugi^ aigi da't'i^ aik' de'waimauha
-
-
-back home !"
-
-
 1° "Vaguely translated as "Indian potatoes."
 
 IT Affirmation is ordinarily expressed by a'ha. In this passage d'ha was
 heard as followed by a glottal stop plus voiceless nasal breath.
 
 is&j'fe/tyo' means literally "navel person" (la'k.'i "navel" -f yd "person"); curiously enough, it means also "rainbow."
-
-
-Grandmother,
-
-
-yagalyauna
-
-
-take him along."
-
-
-"Where is it
-
-
-would be
-
-
-in regard to it!"
-
-
-18 dju t'u'wa yo'gailaup landing aigi i'dja'rmuip!av maus-indj (i'ndayauema dja' duma'lgu ate' I'gadap' a dju
-
-
-i» m+ or om+ indicates warning or displeasure at some action.
-
-
-any way."
-
-
-boy
-
-
-went up on it.
-
-
-n't' aik' waklalplayauna maus-i ba'iruyau tc!upea'ik!uga u
-
-
-dja'urp' aitc a'hae maus-i k'uyau mo"djae gi dja'-
-
-
-gumagat'6 yaebidjaip'622 ai dja' duma'lk' u gaya'wauwn'
-
-
-aigitc' ya'n aigidja gi dja'duma'lgu 'e'tewaldiyauna is
-
-
-20 This element is of doubtful significance.
-
-21 Probably misheard for (it€wa'ldie.
-
-22 Thus heard instead of ya'bidjaip* aue .
-
-
-ba*I'sak!ueiv t'lVt' aigits-' ya' *aigidjax k( gaya'-
-
-
-to her
-
-2 wauyauna wak la'lp layauna wo' wo' k'us-'tlo'k'inig yaeleaving her behind
-
-
-back
-
-
-23 These words were pronounced in a whisper,
-a* Literally, "feet."
-
-
-hateaina 'u'-f- 'u'-f- t'l's-iniguwtT k' bas-a'yauandiv
-
-
-ya't' ilamanet' u'mitcli'mau p!udiwiN 'u'-f- 'u'-f- 'ak!ue 4
 
 
 above
@@ -827,32 +500,6 @@ II. THE THEFT OF FIRE AND THE BURNING
 OF THE WORLD.
 
 
-home
-
-eane aitc ya'na gi da'ci mo's^a gi eauna k'u
-
-
-3* As thunder.
-
-
-them
-
-
-fire perchance
-
-
-down
-
-
-eandinet' gi ya'damtc !iriemauna biri'meah aidj nimi'- 10
-
-
-he arose
-
-
-him
-
-
 se -w. i8 merely a glide between -u- and -a-. The word is to be syllabified
 ni-du-(w)an-an-diuft* ; nidu'eaneandinft* would be normally expected.
 
@@ -861,18 +508,6 @@ asking one for his name.
 
 88 = "Medicine-man water (or stream)" (klu'wi "medicine-man" +
 ha- "water").
-
-
-rock,
-
-
-sons?"
-
-
-far distant
-
-
-Coyote.
 
 
 a» Note fern, vocative in -(y)l, Acorn Mortar being thought of as woman.
@@ -884,43 +519,6 @@ above.
 *! Expressing vexation.
 
 (2 A whispered sound expressing a pant.
-
-
-all being angry.
-
-
-djuwar 6wa'leaduramet' gi ea'una we's-ayauant' l s-ut- 12
-
-
-back north.
-
-
-ya'rik lumuma gi da'lla atc'i'mat' aidji nitp' ama'i'nid j
-
-
-for?
-
-
-away.
-
-
-aitc' 'pad a'idja p' ietc' u'nbal6 aitc kla'ina yabae
-
-
-o da'ha is used only for rather large streams, such as Sacramento and
-Pit rivers. Here Sacramento river is meant.
-
-
-every one all about!"
-
-
-belly
-
-
-them up in air
-
-
-a'idja ' e'baeanbindjae gi 'aps-ax aigidj ya'na 'adja'- 16
 
 
 away to save themselves.
@@ -935,22 +533,6 @@ you a rope?" (fern, form would end in -numd,'). In Curtin, I.e., p. 409,
 Chuhna is spoken of as a woman; see also note 205b. On the other hand,
 the Wintun rope-making spider, Lasaswa, is an old man (Curtin, I.e., pp.
 231-4).
-
-
-nan a gaya'ri* maus-i 'etc!ut!a'ltc!iyaun aigi plu'gi
-
-
-4 niaus-i de'waiyaun ai ea'una yabayauna ei'rik!u t'.im'-
-
-
-back down.
-
-
-16 hauwef dlt' i'ldimauna k' t'cu'na p' it Its-' i Vm' dji« gi
-
-
-*a p' usind'na means properly "relative." There is here no necessary
-implication of kin.
 
 
 THE THEFT OF FIRE AND THE BURNING OF THE WORLD."
@@ -1072,7 +654,7 @@ as far as Bale'ha,60 Coyote said, asking Fox, "Well! Give me
 the fire. I shall carry the fire in my hand, " said Coyote. "Look
 out!" said Fox, "you might drop it down on the ground, you
 might burn your hand. " " What did I go off to the south for ?
-I shall tell the people when I return home, I shall say that I
+
 carried fire. 'I have carried fire !' I shall tell them." They ran
 back home from the south, they ran back as far as Klu'wiha.
 "Give me the fire," said Coyote. Coyote was given the fire
@@ -1170,107 +752,12 @@ Tsore Jowa" (op. cit.), pp. 409-10; also no. x of this paper.
 attempt was made to explain how two eyes could pop off in four directions.
 
 
-people living together !
-
-
-p'a'umagat'6 gi mi'mk layamtc !i wi gi dja'urp'a maus-i
-
-
-Humming-bird.
-
-bas-a/andi6 baV p' ayauna yat' aitc la/lagiyamtc!iwi
-
-
-together
-
-
 54 This word is a good example of a compound, one of the members of
 which is itself a compound; mudja'up.'a "chief" is qualified by haga-
 Tdai(na), itself consisting of lclai(na) "rock" qualified by haga "flint."
 
 55 p*o'elc(ulmi: wild-cat or other white skin put on as ornament when
 traveling on important errand.
-
-
-mauyau gi la'lagi 'a'fi^' aitc ya'na k' mininucan it be
-
-
-djiis-i 8
-
-
-words spoken.
-
-
-of spoken (words).
-
-
-the
-
-
-have been
-
-
-Twulc ai me'tcli gi el'gunna djuk!una'waldie ai 16
-
-
-out to peel bark to make string,
-
-4 yadamtc !ieayauna t'l's- aidjav p!utc!i a' t'i'e aitc
-
-
-you all to start out
-
-
-say that she is
-
-
-porting to them
-
-
-mudjaupla 'adji'lt' ai hagak!a'imudja'up!a ma'kla'msent for,
-
-
-head-bands of white skins,
-
-djaramca dju p' 6/€wimauna 'a'ik!aldieie ya'na 'adji'l- 14
-
-
-selves,
-
-
-south
-
-
-not being
-
-
-plana t'i'ms-iwandja gi itc' i'tehauna metcli t'I'€i
-
-
-ya'h ai metcli
-
-
-dance.
-
-
-Every one had wings
-
-
-people.
-
-
-mini'nt'dja* ai metcli ba'igu* ai metcli djarl'-
-
-
-yauna gi bi'wimadu diba'idi* ai metcli di' dja'mandi6 12
-
-moved north
-
-
-Geese.
-
-
-ai metcli bara'wim'djVa gi ya'na bawi'ls-a6 ai ie
 
 
 SB pf e'lului* a "to wear tule basket cap" is derived from pfileo'lu just as
@@ -1284,15 +771,6 @@ basket-cap" would be a literal, if clumsy, rendering.
 58 This is the sound supposed to be made by geese migrating.
 
 
-Chief
-
-
-with one another,
-
-
-outside I
-
-
 B» Pit Eiver is referred to.
 
 so One would rather expect wa'tduwi or wa'tduw, for which latter wa'tdu
@@ -1300,12 +778,6 @@ was perhaps wrongly heard.
 
 6i ga'tc!anfi is used of the loud, formal speaking of a chief or any one
 addressing an assembled multitude.
-
-
-with their hands
-
-
-perchance, is it not, you
 
 
 Q2bo'pfdiyauna: piece of bone about 1^ inches in length put under
@@ -1321,27 +793,6 @@ was given by both Sam Bat'wi and Betty Brown. It differs somewhat
 from Curtin's definition of Mapchemaina (op. cit., p. 445).
 
 
-maul for chipping flint.
-
-2 badjayauklaina u'mite!i'mauyaN mitc!bo'pediyaiw€f ix bopedidju's-ipla maldama n' mite !I'gumauyax wa'k!balet' gi
-
-
-flint rock [ the
-
-
-every one blind.
-
-'u' bo'pedieie tn'nrf aigidja bo'mamaiyauna gi hagaaway at it,
-
-
-there.
-
-w_)_ fi'waldi6 aitc hagaklaina lai'ewi'ldibilyauwaeav
-
-
-chipped off all about.
-
-
 ei Sam felt it necessary to demonstrate the action described in the
 text by means of knife and ruler which he used respectively for bo'pediyauna and bo'badjayaulc.'aina; a'igidja refers to knife and ruler.
 
@@ -1349,9 +800,6 @@ SB Jia'ga is flint as small piece, arrow-head, reject; hagalda'i(na) is flint
 in mass, as immovable rock.
 
 ce Accompanied by tapping ruler on knife against window.
-
-
-been broken right through,
 
 
 THE VISIT OF THE GEESE PEOPLE TO MOUNT SHASTA."
@@ -1466,11 +914,6 @@ far off in the south, they call me chief far off In the west, they
 call me chief far off in the north. I travel all around in every
 
 
-direction," said Coyote. "I have never before heard people
-calling me Coyote. Today for the first time I heard myself called
-dog, ' ' said Coyote. ' ' Well ! Go ahead, lead us in the dance. ' '
-
-The people started in to dance at Cl'p !a. " ' Im'yaha, ' ' went
 we'yahina' ' im'yahina', ' ' went Coyote's song, while they all
 danced. Now they proceeded north as they danced. Coyote
 danced in company with Meadow-lark Woman. Very pretty was
@@ -1564,87 +1007,12 @@ IV. BLUE JAY'S JOURNEY TO THE LAND
 OF THE MOON.
 
 
-it snowed.
-
-
-house place
-
-
-8 p'6'djanc ai ' itc !i'nmariemir k'1 da't'i nidu'an6 ai
-
-She bathed him I she I Wildcat Woman I her child. I He arrived home I he
-
-
-73 The ending seems abrupt even for an Indian story. Sam said that
-he never heard how the Geese people returned home but thought that the
-myth ended where he stopped.
-
-
-bathing him
-
-
-went off
-
-
-jay,
-
-
-* 4 Presumably this word would normally be iyu'is-ie, j (=j in French
-jeu) being no normal Yana sound (dj, = j in English just, is always felt to
-be one simple sound). Nevertheless, Sam Bat'wi quite frequently pronounced j in just this particular word.
-
-
-up,
-
-
-14 gi k'e'tcliwala a' ts'!u'pes- p'6'djaneayauand ai ma'-
-
-
-16 teliwala ga.ma'6 t'iVt' yaebidja'ie Irani ai k'e'tcli-
-
-
-75 This hardly seems correct; Wyauk*ie ai ma'riemi would be expected.
-
-
-be' eaidji da't'indj aitc wada't' iwa'us-inigu6 tlui's- 6
-
-
-ai k'e'tcliwala gama' aidju da't'1 k'e'tcliwala djiher
-
-
-be'* aidje dji da't'i tc'i'ls-k' aik' tc'u' tc' i'ltc' uis- 14
-
-
-k'etcliwala u ea'i dji da't'indj ai ira'm t'u's- aigitc 18
-
-
-house
-
-
-went off
-
-
-south on side of hill.
-
-
-™ = djuk!unea'maiw. It is often difficult to hear final -w.
-
-77 In gat(a'ei vocatives of ni'na "mother" and tc'-iga'l(la) "father" are
-formed from these stems: nina' and t&iga'lla (see above, 1. 15). In garl'£i
-special vocatives in ga- are employed : ga'nnd ' ' mother ! ' ' and ga'is-ina
-
 78 This place name contains as its first element wl'tc* u ' ' salt. ' ' Near
 Wl'tc* uman£na was a swamp from which salt in the form of a black mud
 was taken and dried in the sun for use. Neighboring tribes (Pit Eivers,
 Hat Creek Indians, and Wintuns) were often wont to come here for their
 supply of salt. The Yanas were called Ti'esaitei "salt people" by the Pit
 River Indians.
-
-
-they
-
-
-over night
 
 
 ™ The fact that the 1st per. obj. is not incorporated in the verb, but is
@@ -1657,78 +1025,7 @@ so = Flowing-off-south.
 si Vocative -no is suffixed to names of objects supernaturally wished for.
 
 
-skin quiver
-
-
-you (pi.)?"
-
-
-father
-
-
-wauyau k'1 da'fi k!u'ndjueasindj k'1 da't'i a'
-
-
-82 da'mhaudjus-i : new moon comes up from west.
-
-83 Sacramento river is meant.
-
-
-into his pipe
-
-
-to
-
-
-through smoke-hole
-
-gildjams-i k' dila'uyauk' iea t'o's- a'igidja dila'umau 8
-
-
-nawet' iwilauna gi ma'tladjuwa wI'dubaK ai k'e'-
-
-
-hair) 1"
-
-
-(your) right side
-
-
-8* This form looks as if it were female interrogative: "Does he fill his
-pipe?" (male inter. demarifas-i'n). This resemblance, however, is merely
-accidental. Final vowels are sometimes lengthened for rhetorical emphasis, and are then also accented. Thus de'marieaS'l'=de'maritas-i; cf. above
-
-85 Lit., "I shall look down from north (-gam-)." Bluejay sits facing
-east, so that his right side is south.
-
-
-magat' digu'lm' d jimagat' e adju ma'kli as-inu djuperson is
-
-
-own pipe with tobacco.
-
-
-87 It is remarkable that -wana- "son-in-law" is incorporated even as
-subject.
-
-
-filling his pipe with tobacco.
-
-
-'6'djarame a'igidja gi dju'ga gi k!uyu'lmaduv '6'djaon north side
-
-
-fat.
-
-
-88 Ya'ewi is the regular Yana term for Wintun Indians.
-8» This word evidently contains -wana- ' ' son-in-law ' ' and hence doubtless refers specifically to making merry on the appearance of the suitor.
-
-
-to him to woo,
-
-
-10 mudjaupla aitc ya'cwi mudjaupla aitc mi'mklamutell them.
+tell them.
 
 
 »o These words are passive in form : "he must have been come to for
@@ -1740,112 +1037,6 @@ wooing. ' '
 along the river shore; Jid'djunna: any sort of rock used as pestle. These
 two words are related to each other very much as da'ha ' ' large body of
 water, river" and ha- "water."
-
-
-rue da's-is-i tc!i"tc!i ma' k !a'ms-i waenuga a' da'mhau-
-
-
-New Moon people living together
-
-djuyamtcliwi t'I/€i 2
-
-they said.
-
-
-moved it across to west side
-
-
-she
-
-
-"Hehe'-f !
-
-
-Bluejay
-
-napla t'i'ei k 'iga'i gama'€ aidji plu'ra94 maus-i djidja'-
-
-
-»* p iu'ra is used for any long pole. It may thus also mean ' ' support for
-pregnant woman" (see p. 186, 1. 18).
-
-
-\
-
-
-wise
-
-
-salmon-spear shaft,
-
-
-seine net.
-
-
-14 tc liwanap !a tl'^et' ai ya'€wi aigitc ha't'ew€n a'igidja
-
-
-18 t' u'eaiguyauna p' u't' p' andie gi ha'madu ha'djanmaun
-
-
-95 p*u'tp'andie is to be expected (see above, 1. 18).
-
-
-pulled down to bottom
-
-
-husband,
-
-mayauenidja (ieu'duwaldis'iwaca gi ha't'enena batci"dec- 8
-
-
-cat
-
-
-back home
-
-
-make
-
-
-placed down
-
-
-coming from south,"
-
-14 djuwa t'i'wau6 aitc da'mhaudjuya gi ya/cwi u'-
-
-
-the
-
-
-means also, in a more general sense, "danger, something
-dangerous" (cf. p. 9, 1. 4).
-
-97 So heard for ne"~k!di£.
-
-
-to
-
-
-him
-
-
-killed
-
-
-east.
-
-
-mer father-place,
-
-madox k'1 m'namadox 16
-
-
-»8 One might expect Tc!a*wl- rather than Tc.'a'djawai-, which is plural in
-form. Presumably Bluejay refers also to his brother Wildcat.
-
-so Eef erence is had also to Wildcat 's wife.
 
 
 BLUE JAY'S JOURNEY TO THE LAND OF THE MOON.IO°
@@ -2084,6 +1275,7 @@ looking in for? Do you think that I am dead?" The Ya^wi
 man hastened back home ; he returned, crossing the river to the
 west. ' ' A suitor has come, ' ' he said to the Ya'ewi people. Many
 were the Ya'*wi people on the west side. "Did you see him?"
+
 "Indeed!" All the Ya'cwi people were angry. Fish Hawk
 Chief, Crane Chief, the Ya'ewi chief, Heron Chief, Salmon Trout,
 the Ya/ewi chief, and Big Acorn Pestle, — that many were chiefs.
@@ -2196,27 +1388,6 @@ to where his father and mother were.
 
 V. THE CREATION OF THE YANA.
 
-
-enigi k'uyau mits- Its-' iga'M k'ii's aidj ya'na 'i'ndano A spot with many high rocks on South Fork of Cow creek, above
-
-
-djuwa k la'ltc lautc' gux 'o'djahau* gi gi'laun* gi ei'na
-
-
-mountains
-
-
-very tall
-
-
-He placed them south
-
-
-them north
-
-djame gi eitc' itedja'nna ma'llapJamau ei'na '6'djawaldihaenigi gi iye'mairiklu k'u'andis aitc ts-Iumemau 18
-
-
 THE CREATION OF THE YANA.111
 
 "Where is your father?" said Lizard to Cottontail Rabbit.
@@ -2269,13 +1440,6 @@ other.113
 
 VI. ORIGIN OF SEX, HANDS, AND DEATH.
 
-
-home
-
-
-diwi k'us- am€djl' ban ai is-iwi^ 'i'ndahacnig 'is-iw 10
-
-
 us The meaning of this is that the Yanas were made of shorter stature
 than the surrounding tribes. Cf. Powers' "Tribes of California," pp. 275,
 276, for a confirmation of this opinion.
@@ -2288,142 +1452,6 @@ us s-dwi- formed from s-au- ' ' acorn bread. ' '
 
 net.e., later husbands, ya'ik.'alp.'ayauna is plural of wa'k !alp Sayauna as
 verb yai- " sit " is plural of wa-.
-
-
-built fire on ground
-
-
-10 gunet' ba'p'at!a'ltc!ie ai klaih aigi a'umadur dja'udirections.
-
-
-14 ma'riemind ai 'i's-ihaN ya'ik!unaandie gi wawiv wa'-
-
-
-117 One would rather have expected p lu'diwi ' ' women, ' ' ma'rifmi being
-singular ; ma'riemi may, however, be taken to denote ' ' female ' ' without reference to number.
-
-
-p' a'dibanauma ' a'np lannais- aitc 'ama'itclg118 aigi 6
-
-
-atc'I'mas- aidji t'u'nig as-inig djidja'6 aigi s-ji'wa
-
-
-as-inik ba'irue as-inik djuwa'tc!irue t'l'w't' ai kla'ltclau- 18
-
-
-us Generally this word appears as *ama'itc!itc!gi.
-
-n» Embracing chiefly rodents, such as jack-rabbits, cottontail rabbits,
-and gray squirrels.
-
-
-they
-
-
-of it
-
-
-ntf ai kla'ltcla'una gayawauyaun aigi me'tcli 'i'nmortar
-
-
-16 djidja'ei as- mitcI'da'H atc'i'mah aidji maunu truione to another
-
-
-120 Imitating the grunts of effort that women are to exercise in pounding with their elbows.
-
-121 Expresses derisive dissent.
-
-122 Should doubtless be tfuidu€nima'mtc!ie.
-
-
-t' u'iducnimamtc !imaea' dji ge"miyauna malla'plas- aitc
-
-
-being one.
-
-
-t'u'andi* aigidja 'I' dlwa'iwi6 dji da'Midja mini'-
-
-
-at them
-
-
-he did not know at all about it.
-
-
-123 Expresses great astonishment.
-!2* Pronounced in a whisper.
-
-
-t'u's-i6 aigidja mini'np' auk' iea 'e'bas-ie aik( mansouth
-
-
-10 wai«i atc'i'mah aidji t'6'eanuk' dju da'Muk' m'
-
-
-i2B Described as black birds with red under their wings and about as
-large as meadow-larks. Probably blackbirds.
-
-12« Expresses emphatic dissent.
-
-
-tc' ya'na k.'unis- badu't!apei 6'ris-eenig as- d!lauei
-
-
-die
-
-2 klunis- ' e' k' u'ldubalbaea k'us-inig 6'yuwaldiea a'sinig
-
-
-back to life again for?"
-
-
-dila'ue aitc ya'na mi's-ienigi (sound of weeping) t'i's-ie aitc
-
-
-16 aitc ba'imauya t' 6'eaiguyauandi kla'ltclauna dila'u6 ai
-
-
-man.
-
-
-127 uma'ya(na) is more common.
-
-
-us bury him."
-
-enigi birieh aidji W6'riemacanigi dats-128 aidj p'a'dja 2
-
-
-wet' aigidja VkVldibilbanet'e aik' 6'baliyauklaina
-
-
-mauyav me'tcli mini'nuwaue aigi ' e' k' u'ldibilbaeak' iear
-
-
-1^8 — datcs-.
-
-
-ahaue aitc 'I'ya a't' inaihaim^' ai 'I'ya gi s-I'winei
-
-
-18 metcli mwa'nandi6 ai umu'imetcli gi batclu'nha di-
-
-
-129 gal€d- (or gafld-) and mi- are really synonymous to all intents and
-purposes; the former is preferred in garl'£i, the latter is characteristic of
-
-
-to death.
-
-
-young Coyote.
-
-metcli metcli t'I'ei na' ma'wagama t'iVf aigitc 10
-
-
-again
 
 
 ORIGIN OF SEX, HANDS, AND DEATH.ISI
@@ -2470,8 +1498,6 @@ rawi (see note 111).
 132 i.e., Cottontail Eabbit.
 
 
-making acorn bread. Now the men went out hunting deer and
-killed many deer. Cottontail Rabbit was standing there and
 looking on while they killed deer. The women made acorn bread
 and pounded acorns. Hehee ! The people did not die, the people
 were very numerous. Coyote said, "I do not wish the people
@@ -2653,154 +1679,12 @@ come back to life." "'M 'm'!" said Cottontail Rabbit. "Cry!
 Cry ! You said that you would cry. Weep ! Weep ! Put white
 clay on your face. You said that you would weep if your brother
 
-
-VII. COYOTE AND HIS SISTER.
-
-
-Coyote.
-
-
-2 aigi metc!i gi yu'tc'aina 'e'k!a'le ai metcli gi
-
-
-acorn mush.
-
-
-emiyauyi aik' git!amcma'u aitc du't'duya a' t'i'wau6
-
-
-130 Observe that ba'lla "cheeks, mouth" becomes -walla in composition.
-!37 Adverbs of simple direction generally begin with djau- without
-prefix I: dja'urp*a.
-
-
-woman.
-
-emi muru'l6 aigidja me'tcli me'tc!ima'riemi dunea' gi
-
-
-sister I"
-
-
-daneana'tdjae ai me'tcli (Coyote yelps with lust, ostensibly
-
-
-Woman,
-
-
-yauna (Coyote yelps as before) mini'np' auk' ie bus-sima'i-
-
-
 138 Expresses groaning pain.
 
 is* These last words are pronounced in a pitiful squeal. It is to be
 noted that dje*t!il€i'wagilwi'dja€, though addressed to one woman is plural
 and male in form. It was not considered proper by the Yana for brother
 and sister to address each other in the singular.
-
-
-2 yauyl' maut' adji'lyau caitc dut'duya'mtcliw; mauf
-
-
-they will be
-
-
-shall
-
-6 t' imp' auya'u metcli t'i'ei aits- tc'uno'ya as- ni'k'i6
-
-
-black
-
-s-abanaumak' tc'u" as-inu de'wai* gi ya'«wi muas- ga'tclan tc' mudja'upla a'uwimagatea klunu dja-
-
-
-paint,
-
-
-seled with white grass,
-
-
-gala refers, properly speaking, to any fish smaller than salmon.
-
-
-home right here.
-
-
-own
-
-
-smeared fat on his face
-
-
-"2 Pronounced in a loud whisper.
-143 Dance burden.
-
-
-copulating with her
-
-12 yauandi djedjabi'lyauant' ! gi ma'riemi badjalmaun
-
-
-14 yauna wak!duba'le ai metc!i k'1 ya'uplabayauna bawoman.
-
-
-18 wule k'1 wawir djo'duwule k'1 k'u'mmuipla ku ba'lla
-
-
-now.
-
-
-she
-
-
-they were ten.
-
-
-came back up hill from south
-
-
-his mouth
-
-
-Now they were floating west
-
-
-west as far as
-
-
-144 Pronounced in a plaintive squeal. These words really mean : " It was
-not I that did it."
-
-!*5 dju'dja : rather large creek that does not dry up in summer ;
-djitc!a'uei: small creek drying up in summer, gully.
-
-
-Coyotes,
-
-
-into water
-
-
-8 t'I'ei wak !tc' ilea'ueie yuwunts- Igina' klunu dju'nmawip lawater,
-
-
-good now,
-
-
-"it is
-
-
-behind
-
-
-to I boys.
-
-
-140 — Kocks-rolling-down-hill-to-north.
-
-
-under his arm,
 
 
 1*7 dd'rik.'u means also ' ' ice. ' ' Cf. da'risi ' ' it freezes. ' '
@@ -2814,22 +1698,6 @@ He desires to be friendly.
 
 
 102 University of California, Publications in Am. Arch, and Ethn. [Vol. 9
-
-
-white feathers
-
-
-Do you keep on going west!"
-
-
-looked about
-
-
-An oath, whose exact meaning is not understood.
-
-
-not being
-
 
 COYOTE AND His SiSTER.152
 
@@ -2966,6 +1834,7 @@ down. The woman was pregnant now. " He !" said the woman,
 answer, ' ' It was not I who did it ! " " Do not bawl ! ' ' said the
 woman. She took a stick and whipped Coyote as he lay on the
 ground. ' ' Get up ! Go and hunt deer, husband ! I am preg-
+
 (whined Coyote). "Yes!" said the woman, "I saw you." Now
 she gave birth to children, gave birth to them outside the house.
 Coyote as usual lay right inside. "Go out!" said the woman,
@@ -3066,74 +1935,12 @@ white feathers did not melt, nor his bow and arrows. Coyote
 now went off home, until he arrived at Ha'udulilmauna.
 
 
-VIII. COYOTE AND HIS MOTHER-IN-LAW,
-
-
-they camped out every one of them
-
-
-out.
-
-
-him
-
-
-wawix t'u'banaumae aits- p!u'diwiN gi luwa'iha 'ibi- 14
-
-
-162 = « ( Many-rocks-water ' ' f
-
-
-found it
-
-
-bamutegiwi k' s-6'mauk' ieaN gi ga'gi
-
-
-camping-out-to-hunt-deer
-
-
 IBS Doubtless contracted from s-d'p!a-wa; s-ap'.a- "deer carcass to be
 found" (ef. s-6- "to find deer carcass") + -wa, compound form of ba-
 "deer."
 
 is* This word, as shown by its -t€- and suffixed -wi is plural in form. No
 singular form is in use.
-
-
-place.
-
-
-muru'ldiemau k' up' ante' k'u s-iteduk' a'ik' waiv 4
-
-
-heads and bodies averted from each other
-
-
-put between
-
-
-mariemi k'1 muru'ldiemauna t'i'waue aitc me'tcli gi
-
-
-i«5 Expresses astonishment : ' ' What f ' '
-
-lee By some strange idiom, perhaps for euphemistic reasons, ktup(antct
-I would not ' ' really means ' ' I wish there might be. ' '
-
-
-finished copulating.
-
-6 yauna t'6'e aigi wa'rakli wf k( u'lbaidiyauwa badu'an*
-
-
-arrived home
-
-
-8 q't' us-andie ai ma'riemi bal'doyauant' ' bai'dueanei waklalto be
-
-
-Woman
 
 
 COYOTE AND His MOTHER-IN-LAW.
@@ -3145,13 +1952,6 @@ Coyote was married to Mountain-Quail Woman, a young woman.
 Coyote said, "I do not want to have you camping out with me.
 It shall be my mother-in-law who will camp out with me. You
 stay home ! ' ' said Coyote. ' ' I do not wish to camp out with my
-
-
-168 Very probably misheard for mauenu "your intending to be";
-mauna is no female form.
-
-i«» An Indian village on Old Cow creek about twenty-five miles east of
-Millville.
 
 
 son-in-law," said old Mountain-Quail Woman. "All the old
@@ -3234,20 +2034,6 @@ not follow his children.171
 An implied reference to the preceding story (no. vn).
 
 
-IX. THE ROLLING SKULL.
-
-
-birth to child j she
-
-
-da't" 6
-
-child."
-
-
-shouted down to her from above
-
-
 172 These forms are passives. Their literal meaning is: "he waa beenpregnant-for, he was borne-ehild-to, being-had-child-f or. "
 
 173 wit. «t0 gg^ pine-nuts" is related, though somewhat irregularly, to
@@ -3256,176 +2042,6 @@ shouted down to her from above
 1T* Names of small animals are apt to be made diminutive in form even
 when no reference is necessarily had to young ones; cf. k.'a'ntdaup.'a for
 k.'a'ltc.'auna "lizard" (p. 81, 1. 13).
-
-
-8 handj dji kJa'dji'nna u'ldjaruhandj dji iwilmikla'-
-
-
-12 aidji p'u't!uk!u ha' da'iwauhandj a mini'nhau/i^' aitc
-
-
-looking at it
-
-
-176 iwilmi- means literally ' ' on one side, half. ' '
-ITT AS sign of frightened amazement.
-
-
-t' p' ayauant' ' ya'wulmiri* gi wama'rawi dje'djafclak!ie
-
-
-tracked them all around
-
-
-yauk'i«a a'm diwais-it !6'woema bandi't' p' ayauanf lu'iklau-
-
-
-179 Threatening, as though to say, " I '11 fix you. ' '
-
-
-ba'ndilorp' ae gi '6'djinimauna '6'maiyau gi ya'na
-
-
-andie k' dju'gutcli gi ira'mi dji k'uya'uwidj
-
-
-came bounding back from south,
-
-
-being heard talking inside
-
-yauna gi ei'gunna ba'ndim'dji6 gi dja'um'dji ban-
-
-
-18 dido'dju6 t' on*!' e aigits- haga k' la'uyauna la'uea
-
-
-iso Threatening.
-
-181 Regularly contracted from ba'ndVdjamf.
-
-182 Lit., "he had (or made) it strong."
-
-183 — d
-
-
-have been sensible,
-
-
-house
-
-
-again,
-
-
-djae gi i't'dja ba'ndidueuldi« bandip' a'dadubale da 6
-
-
-gi bl'wi ba'yauant'1 atc'I'mah aidji mauenitc' bo'-
-
-
-rived rushing back there
-
-
-he met them
-
-
-ya'na k' ba'm' djayauna 'i'ndayau gi djuklalla' k' is
-
-
-ba'm' djayauna bap!memae gi k!a's-ip!u
-
-
-184 == Flowing-south -salt.
-
-
-•
-
-niga'mc aitc me'tcli gi i' da'lmadu185 6'winiwet'
-
-
-on his face.
-
-
-lea ba'ndiwadju'ndi6 p' u't Ink himya mlp'andjana' me'tcli
-
-
-Coyote
-
-
-he
-
-iss — Bone-place.
-
-186 This word would seem to be better omitted.
-
-187 = "Now I'm going to cry."
-
-
-"E-jskull
-
-
-p'u'tluklumya me'tcli gaela)i go's-indj dju mallap layour doing
-
-
-gi p' u't !uk Jumya ba'yauna tc' i'ltc' uimau gi p'u'tluklum-
-
-
-I made
-
-hantc' muklula' ^wa'ihantc' gi ei" djik!ue a'itc
-
-
-iss Imitation of sobbing.
-
-189 Note fern, stem 'a-, for Coyote now speaks and is spoken of as a
-
-
-gi muklula' gi eaV do't«aihantc' gi ei' ya'm'dja-
-
-
-6 gi tc!ale u' klu'nihantc' du'mdjamari6 gi muklula'
-
-
-it blazed.
-
-8 djaeayau
-
-
-on top
-
-10 gi ma'lamemak!ai tc'i'lmau tc' k!ai 'u' kluni s-+
-
-
-t'I'yau ai tc!a'le mate lu'nt! ante! ex k' ya't' p' aueayau
-
-
-12 kluni 'u' wa'kldulau'andex k' ya't' p' aueayauant' ' djl'-
-
-
-shook all over
-
-
-!4 dila'uyauandi mau ba' ma'lbalyauna aha' hehe'-j- metcli
-
-
-away.
-
-18 djabas-ae 6'winit' p' aue wi'tp' ulyauna k'u's-i dji dji'-
-
-
-one who is beaten."
-
-
-He went south,
-
-i»o *i'ndue(i) would be better after Tc .'u'nihantc* .
-
-
-niwa'ldimiri* gi djit'p'ama'uwitc'u ni't' p' ayauanf l mas far as
-
-
-south,
 
 
 THE ROLLING SKULL.191
@@ -3646,26 +2262,6 @@ to the east, going back to the south, going back to the west, going
 back to the north.
 
 
-II. NORTHERN DIALECT
-
-
-X. COYOTE, PINE MARTEN, AND LOON.
-
-dju'dunt' ai mils-!1 gi yu'mimaH' u203 dju'bi'M'
-
-
-he felt about for gopher holes by tapping.
-
-
-off and threw it away
-
-
-ing acorns
-
-
-u eai' yaw aiyex ile6vtp'a de'maNu u'mitsli'mau
-
-
 202 The thirteen gari'£i myths and non-mythical texts here given were
 obtained in July and August, 1907, a few miles to the north of the hamlet
 of Round Mountain (or Buzzard's Boost), Shasta county. The informant
@@ -3681,65 +2277,6 @@ the liberal use in the English translation of parentheses in which the attempt i
 203 = Dark salmon-meat place. 2/wmi = dark meat of salmon found between skin and red part.
 
 
-home
-
-6 ba'i«r ya'iklunawa't'
-
-
-meat),
-
-
-ashamed,
-
-
-(Bones) were thrown out of house one after another,
-
-
-204 After beneV we should have wa'uts- Ula'its-* ite .
-
-
-it seems to be human.
-
-
-seems to be
-
-
-smell it."
-
-
-'
-
-
-not listen.
-
-
-you (two) enter house!
-
-
-roasted (food),
-
-
-might be ashamed
-
-
-Probably heard for li'lema.
-
-
-will not
-
-
-i't'dj Ve maus- waits- lu'tdjayauna V de'djibasinuyou not ?
-
-
-ground.
-
-
-do so."
-
-
-bead necklace."
-
-
 16 aigrtshere."
 
 
@@ -3753,12 +2290,6 @@ would be otherwise expected).
 
 
 19 10 I Sapir: Y ana Texts. 133
-
-
-in that way.
-
-
-chance, did you not?
 
 
 kill me." I Now I it is ended.
@@ -3923,61 +2454,6 @@ put the intestines of people about her neck.
 XI. THE DROWMXO OF YOUNG BUZZARD'S WIFE.
 
 
-maus-i ma'wayauna masi'tdis-i yaba'k' is-ie aidj ya
-
-
-gether
-
-net' aits yav wa'idu mawo'uxaenigix be'yuer wairu 6
-
-
-drink."
-
-
-swim across westwards
-
-
-they cried.
-
-
-nagundj nik'ieiN maus-i 6'maidjaguyaunav
-
-
-8 durunet' wo' t'met' 'anee ami'n t'i'wet' mans- 6'ni-
-
-
-I do not think we shall be
-
-
-"No longer shall I
-
-H dju'nmawip!aear wa'iru k' u'yaueatdind j aidjeeev mi' dji
-
-
-taken water while on your way,
-
-
-They piled (pine-nuts) into fire.
-
-
-back home
-
-
-as- 'a't'uk'i« aidji kluyuMi'dj widja' adji gi'lm'dji- 10
-
-
-tasseled buckskin skirt,
-
-
-siwaxrae gais-max i' tc' a'imagat' tlini'gumau ga(la'magat' 14
-
-
-mauhandj a'uwiyarue
-
-
-2" So heard. Should doubtless be otfc( "her", Tduyu'V "hair."
-
-
 THE DROWNING OF YOUNG BUZZARD'S WiFE.215
 
 (Buzzard's son said to his people,) "Now dig for roots ! They
@@ -4081,209 +2557,11 @@ XII. COYOTE, HERON, AND LIZARD,
 mda'pts !iei'c221 maus-i ya"djabiyau t !u'ihala'ik' ieav
 
 
-2 k lu'tdju' asind j 'adji'lyaxdjabiyaunar wida'pts!ie aits-5
-
-
-They danced.
-
-
-2i» The literal translation is, "Now stay! "
-
-220 i.e., do not look on greedily when others eat.
-
-221 Note that the chief addresses all his people as though they were one
-man; the imperatives and 2nd per. futures are singulars.
-
-
-will dig for 'damna' roots.
-
-
-ai dja'udjabiya^ wairu ya' djami'w€t' babi'lnritsIiM^t' ai 6
-
-
-Lizard.
-
-
-us dance to there I
-
-
-yauna klunintc' be mo"wadjumaeaN ts- !upp la'nnais-i
-
-
-^22 — "Bone place" from Vda'lla "bone."
-223 (adji'lsienum is probably more correct.
-
-
-together
-
-
-10 rivmei k!unmet' djidja'rup'acnum aits-' daxs djamasalmon.
-
-ra'psindj tc' 6'erimauenid j aits-' ma'ls-ut' 224 fu'gummasisiklo hacla'ik'i
-
-to-morrow."
-
-
-east
-
-
 224 Brodiaea grandifiora, if ma'ls-unna cau be identified with *«•' ilmals-unna (lit., "big ma'ls-unna root")-
 
 225 K!a'(d jade'' is the Achomawi (Pit Eiver) name of the place, Cibu'p* .
 Jc.'aimadu ("sandstone place" from cibu'p(~k!aina "sandstone rock") the
 Yana name.
-
-
-aits-' da's dju'/zet' aigi da's djiha'udjut'imamet' k!ushe was
-
-
-sawftf k' bma'yauyau aigits-' da's- mo'€atdwet' ts !op«halili- 4
-
-She put remains away (into basket) and covered it up nice and smooth.
-
-
-ts !o'pexaliliwa'lsawet' e' wairu we^atdm^' ai gi'lm'djidji- 6
-
-
-it I tasseled buckskin skirt.
-
-
-basket-cap.
-
-
-when it was dark
-
-
-ai mi'pkla marixmel tc'6'e aigidja eaidji nitc'i'w*- 14
-
-
-that is eaten?"
-
-
-'_ __ out (of water) for good.
-
-22e(w&a. ('t0 smell" (intrans.); *itlma- "to smell" (trans.).
-
-227 ma'ha, used also as white overlay in basketry, is doubtless Xeropti yll u HI
-tenax.
-
-
-used to dry pounded red flesh of salmon,
-
-
-6 emat' aidji 'a'ik!uya\i xa' da'iwausintc' klunindj 'a'iklumac ate'i'mat' aidji xa' da'ip' auw xa' da'iwaueaiguyaun-
-
-
-thing),"
-
-8 eitc' t'i'wet' aits-' mi'pkla marixmei ma'gadjas dji
-
-
-"Indeed I shall do so.
-
-tc' op' aemim ai maela'mau mo'elaeasintc' ai ma'ls-ut'
-
-
-roots."
-
-
-You should put into water
-
-
-228 Cf . na'yi, ' ' red part of salmon flesh pounded up fine. ' '
-
-
-caused five to come out (of water) for good
-
-
-Not ever perhaps was she
-
-
-aits- yjp bills- basl'yaueatdit' ev k 'adji'lyau ma'us-intc'
-
-
-shall be
-
-
-ing,"
-
-
-off
-
-
-ground
-
-
-xa^a'ibitdjayauk' i badu'tc!6m'djawet' Tduwul't' aik'
-
-
-again.
-
-
-me I
-
-djap' aueartc' ha'tc litsintc' V t'iVt' ai mits!1 s-a'ps-- 18
-
-
-is it not, you
-
-
-being
-
-wak!unea'mau wairu ' adji'lyarut' imaiwet' ai marivmei
-
-
-she coming
-
-
-mitsli k ee'nit^ i" wadja'isiwantc' dji dje'yauenidja
-
-
-being-sensible person,
-
-
-about all over
-
-14 basindj aits-' p' a'dibanauma ' i'diyauenite' aits-' mo'yau
-
-
-16 khinu6 be ' art' gi'm' yaue uenitc' 'u'lts-'diplamanya
-
-
-imva'im€t' dett!a'let' ai kluwil' gi p'imiH6' dima'-
-
-
-home ?"
-
-
-229 Observe that Coyote speaks as woman (verb stem fo- "woman
-goes," ni- "man goes").
-
-230 ' ( Indian hay ' ' was the term Betty Brown used to translate tc( ilha'imadu, a high grass growing along the shores of Pit Eiver.
-
-
-his skin from him
-
-
-yu'p' aumagara6 as- mau waes-i't' p layauna waHMima'-
-
-
-on each cheek."
-
-
-mi'pk!a wairu ' iwa'ibaleatdm*!;' ai mits!1 aik' basl'-
-
-
-flesh
-
-
-feet on top of ladder
-
-
-and he was
-
-
-must be Coyote
 
 
 231 One is almost tempted to believe, though probably incorrectly, that
@@ -4297,31 +2575,6 @@ conveyed is: "You may think that you will live, but I shall treat you like
 the rest of the people (i.e., I shall kill you)."
 
 
-t' u'ma6nindj aidjee asindj mlk!a'iel wairu dit'bi'lp'au*
-
-
-net* t' u'yauhadanuega na k'i'tdi* dji nite' i'tp' auwacma
-
-
-get roots for you
-
-
-gunef ai p'ubi^l wa'irumuinana' ate' I'gadagu235 dji 16
-
-
--34 After k!uninft* we should have tenaeless form daV p* a'lts ! gile .
-235 Doubtless misheard for atcf%'gaddk!u.
-
-
-2 djami el'na'idjatc'itdjami nltc'i'tdjapei maus-i glma-
-
-
-8 warandj aidjeee dji yu'tgunaiyau dji mo'yauna
-
-
-duxanig ai dlri'plox t'i'si6 aits-' yax tlim'gumau
-
-
 230 Contracted from djuhau(na), "dwelling east."
 
 23T Term for Achomawi Indians of Fall Eiver, a northern tributary of
@@ -4329,9 +2582,6 @@ Pit Eiver.
 
 238 — « Digging-stick place ' ' (wa'cu ' ' digging-stick ' ' and pf a'di
 "place")-
-
-
-s-unna dji' dja'ps-i« ai da's-i gala' dji'dja'ps-in
 
 
 COYOTE, HERON, AND LizARD.240
@@ -4420,7 +2670,6 @@ tailed animal, whose bite is not poisonous. The name is given by Curtin
 (op. cit., p. 313) as Gowila.
 
 
-for salmon. All at once a sucker came swimming from the west.
 other sucker came swimming from the west. "I do not like you,"
 (she said,) "your bones might get stuck in my throat. Swim on
 east to Cibu'p'klaimadu." All at once a salmon came swimming
@@ -4454,12 +2703,6 @@ cleaning things up smooth, put the remains away. ' ' Pray do not
 Indian) village on Fall River near its confluence with Pit River, at the
 present Fall City (or Fall River Mills). The name Achoma'wi (Adju'-
 mawi£) refers properly only to the Fall River Indians, known by the Yanas
-
-248 By ' ' raw food ' ' is meant roots and other vegetable food as contrasted
-with more staple food, particularly acorn-mush, deer meat, and salmon.
-Distinct verb stems are used for "eat," according to whether reference is
-had to the former ((cfo-) or the latter sort of food (wi(5-).
-
 
 smell ! ' ' she said, ' ' he might transgress your taboo. ' '249 When it
 was dark, Coyote came back home. "I feel sick," said Heron
@@ -4507,11 +2750,6 @@ The transgression of the taboo would mean the stopping of the salmon run.
 251 She did not wish to have Coyote get up early, for he might then
 observe her coming back from the dance.
 
-
-' ' Pray act as though sick, as I always do ; groan, build a fire when
-it is already daylight," (she said to her acorns). Now she went
-off, and danced with the people while Coyote kept on sleeping.
-"Here comes the fine dancer," (said Lizard,) "Coyote's
 
 When it was just about to dawn, she was wont to run back
 home along the river. She entered her house again, put the
@@ -4667,6 +2905,8 @@ XIII. THE FINDING OF FIRE.
 
 365-70.) 259
 
+aipla' aumudja'upla mits!a'ueniwar I'na'idjas aigidj
+
 
 25c This explains the occurrence of hot sulphur springs iu Big Valley ami
 Big Bend.
@@ -4679,182 +2919,6 @@ opposite its confluence with the latter stream.
 259 Curtin 's version was read to Betty Brown and translated by her
 sentence by sentence. It is of considerable linguistic interest to see how
 a connected English myth appears when translated back into the Indian.
-
-
-a%u' t'o'mau aidji aueni^k opdji'eniwar ba" klunuai aru' ' ariyu'^miwar aits-' yav aigidj itc'i'tedjaxm 4
-
-
-In that I when it was dark I he went to look for it I for it I fire. I He
-
-went up to top of mountain
-
-
-any place.
-
-
-once again,
-
-
-200 Lit., "small Mt. Shasta." Wa'ganu'pla is the regularly formed
-diminutive of Waf galu' "Mt. Shasta."
-
-26i Probably so heard from rapidly pronounced Jc!ununet*.
-
-
-wakluna's- aidja aits-' mmidiwaga'lsamauyar aigits-'
-
-
-'art'eiu'tsa^t' V t' gu'llt' e eaigidj i"ya ai 'aha'limil'
-
-
-they went up to top of mountain
-
-
-202 s.itfi'tfiwi properly means "yellow pines" (sing. s)Vwit€i).
-283 One would rather expect p*a'us.ae.
-
-
-to I fire.
-
-
-k'u'wet' de'wai* aigits-' axu mini'ttc' itedjammet' aik 4
-
-
-wards it.
-
-
-t' app ! a's a'una t' I'gumman't'
-
-
-Fox.
-
-
-aik p' au'rp' ayauna t'i'wet' ai ahalimiT 20
-
-
-ai git la'pduwauyau aigi mudja'upla aigits- ya'miM;'k'u
-
-
-4 wairu de'waimuisk' inig ai ca'una wairu mits!a'uhaedone
-
-
-t'l'w6!' ai 'aha'limir wairu aik' de'waiyaun 'aha'-
-
-
-several-tired-out persons.
-
-
-18 ena'iyuduwaubitdjayau eaigits- darx aik' u'rp'amau
-
-
-aits- axu' buleli'meguwet' aits- yar ai nimatbavlx ai
-
-
-20 'aha'limir ai s-u's- marimel ai mi'ts!1
-
-
-204 Perhaps misheard for aigi.
-
-
-fire.
-
-
-aigits-' p'a'ts/a aigits-' tc'ilware'k!u aigits-'
-
-
-tc'ilda'yau aigits-' sabi'lk!e'yu aigits-' djutc'u'l haute' u 8
-
-
-aigits-' djutc'u'lwatc'u aigits-' djutc' u'lgain aigits-'
-
-
-Strong East Wind.
-
-
-baduwaldi«aiyauk' i aigi wa't' guruwamaf u plutcli'ua- n
-
-
-'aha'limir k' daluw gi ts!avle p' u'llaihainaw^' aik' IG
-
-
-ru?iet' k' s-adi'ps-ik'unuyauk'i aigi wa't'guru^w 20
-
-
-uma'« ai eimarle' i'ts!xayadum'djagiwet' aigi eiedja'i-
-
-
-10 dw^t' ai ahalimil' ya'ik!una?iet' ai mits-!1 aigi
-
-
-d ja'wemats limauk' i m6'duwaiwet' aigi k !unea'marinieip !a
-
-
-Now do you all go !
-
-
-follow them!"
-
-
-ing) on ground
-
-
-every place.
-
-
-limil k' madju'pgirieayaru ai tc'ilware'k!u ai dju-
-
-
-4 wa'tc'u ai p'axtc'a p'6'gidiwet' aigi earu' k!unuwet'
-
-
-cause it to fall.
-
-
-ing out
-
-
-hands first.
-
-
-266 More correctly Vu'yauaWi (male form: fc( u'yauatdi") .
-
-
-hers
-
-
-galamau ha'ts!idiyauv
-
-coldness.
-
-
-ai mi'ts1!1 k' u" damaik luwar we't'uk'i'6 aigi earu'
-
-
-ai n" a'imuisk' i ya«la'ip!as ai wa't' guruwatc' uNl' ai
-
-
-xa'tc litbanaumax ai yar xa'mutdibawef klunun't' 20
-
-
-every one be glad.
-
-
-roast it
-
-
-4 mauya dje'mamef ex ts!upp!a'nnaisi t'lVt' ai waye'-
-
-
-' '
-
-
-fp maus-i ' 6'ninaewaiyauna t'lVt' ai ga'k'1
-
-
-Crow.
-
-
-mattH' aits-' yar raits la'ubanaumaw^t' aidji eit!a'lts!'
 
 
 THE FINDING OF FIRE.
@@ -5062,72 +3126,7 @@ Soon all people had fire; every one had fire in all parts of the
 country.
 
 XIV. INDIAN MEDICINE-MEN.
-
-
-she will not
-
-damaisi 'I'dubal6 klunu ' abi'tduwi«i'e be"damaisiei
-
-
-ever
-
-
-get up again."
-
-
-guramagat* mo'ei mo" dagummagat' halai'k'i«a as- baai ya'k'ga klunu mi'nmumagar aidji k p'usa'yauna
-
-
-209 p'adl'tstgi means literally "small places, things" and is used to
-refer to beads and other trinkets and objects that make up wealth.
-
-
-'u mllabiwin"* badu'k' itdisi ya'mak!alla'uwulwiei«
-
-
-shall do likewise
-
-hainasiklo asindj k'u s-a'ps-i«ir ai ya't'imaina k'u's
-
-
-6 djuea aits-' yax 'e'djawaip!aea mo' k la'pdusik !6ea e'djasinging
-
-
-to-morrow I
-
-
-least one to come along,
-
-garaear nidu'k' imagat' a t Juihala'ik' iea k Ju'td jueasin dji270
-
-
-wandja dji xa'da'iwaumau^nidja ' abi'ltp' ausiei 'atc'i'troots),
-
-
-mauenidja bats!i"dimagarae badji'lmagar ai wawir
-
-
-stop from making sound
-
-
-= Jc !u'tdjue asindj dji.
-
-
-one,
-
-
-she is
-
-
-wairu dlla'usi* aidj yar aik ts!um«ma'una wa'iru 14
-
-
-271 Perhaps Eulophus pringlei.
-
-272 From ba'ts.Wi "medicine-man's ceremonial net-cap with feathers."
-
-
-6 dae ari 'I'ya asindj bagarwa'k!iyauear wa'iru 6'maiya/enidjar t'o'sindj ai da'masi dima'neaigup' and j
+k!uwir 'e'klisi'ndj klunundj daumis iuyo'«asindj
 
 
 INDIAN MEDiciNE-MEN.273
@@ -5251,21 +3250,6 @@ that I might enter the house ! ', that therefore I came. ' '
 
 XV. MARRIAGE,
 
-
-wak!a'lbaMe mausi itda'yau niga) k'u'sinu fwule dji 2
-
-
-the
-
-
-ourselves."
-
-
-law."
-
-auts-! t'Isirndj wak!a'lp!ayaxu i"djasindj dji djun- 8
-
-
 (fetch it home).
 
 283 The medicine-man is disgusted with the scurvy treatment accorded
@@ -5320,25 +3304,6 @@ it will be I who shall die first, perhaps it will be you."
 
 XVI. A LOVERS' QUARREL.
 
-
-*87 gee note 310.
-
-
-me away.
-
-
-doing
-
-
-aidji ^ma'yariwintc' aidji marl'emiyaunitc' aidji dit-
-
-
-280 t* u'haina* ddj would be more correct.
-
-290 This form is very obscure ; perhaps it should be aidju ' ' the your, '
-na "is it not?"
-
-
 A LOVERS' QUARREL.
 
 "S-uwa! May I dream of him ! Would that you might come.
@@ -5367,39 +3332,6 @@ would help me291 if I go anywheres to woo. Many are the
 nephews and nieces, my sister's children."
 
 XVII. CHILDBIRTH AND DEATH.
-
-
-With the payment for a bride.
-
-
-my back."
-
-
-medicine-man.
-
-
-press upon her belly with your hands!
-
-
-gummaeadj ai xav
-
-
-18 am djidja'ma* p!urr klunus wa'k!balc am 'adii'-
-
-
-vice) to yourself.
-
-
-badji'M' aik' wa^w?1 gitla'p'atdis ai 'aha'limir gaya's
-
-
-to supporting sticks.
-
-
-pray, put down
-
-
-denly she was
 
 
 die.
@@ -5451,95 +3383,6 @@ dry." Suddenly she died.
 XVIII. DEATH AND BURIAL.
 
 
-suck it out of him.
-
-
-surely get up and start.
-
-
-292 A woman in confinement did not lie down, but was always seated,
-while one of the women in attendance sat behind her, gently pressing upon
-her belly in order to hasten the delivery.
-
-293 Bound Mountain (Djiga'lmadu) is meant.
-
-
-get up again.
-
-
-white beads."
-
-
-do not hear,
-
-sindja djiru'siwandja ' e'k !itdiwet' k limits' maus- ba- 6
-
-
-causing them to be ignorant."
-
-
-and dig
-
-
-shell beads
-
-
-kets.
-
-
-he was washed,
-
-
-house
-
-
-Liit., "digging-up stones (obal- "to dig up" and Tda'ina "stone").
-
-
-4 yauna k'u'yau mbile aits-' ma't'yauna kluninte' ha'ithey have nearly all come.
-
-
-aits-' civwa aits-' ma'weni aits/ s-e'maubanauma
-
-
-bo'djamaritdmet' 'u'« ga€la'€a tTw6^ aik' umaya'
-
-
--8r) Expressive of anger.
-
-
-sasinigueix
-
-
-place.
-
-
-hantc' mau ba'iwauguyauna k' dja'lmau k' mo'-
-
-
-''
-
-
-after weeping!
-
-rnariweea t' u'gummasi'enigi dji baga'diwauk!iyaueayauenigi 16
-
-
-Soon I I shall eat."
-
-
-what he has been saying.
-
-
-medicine-man.
-
-
-pray kill him."
-
-
-nik'i* yu/eayau aigitc' mart' banui'yaubanauma aigitc'
-
-
 eating.
 
 DEATH AND BURIAL.
@@ -5555,9 +3398,6 @@ him recover. I shall indeed go to see him anyway. The perforated white beads alr
 
 
 296 i.e., they already smell of death.
-
-
-Sapir: Yana Ttxt*.
 
 
 arrived home. He hung up the beads and cried, sitting down on
@@ -5604,7 +3444,6 @@ having magically "poisoned" his son.
 unsuspectingly goes out into the brush for firewood.
 
 300 This man, named Wa'it' awasi, was said to be a brave warrior, a
-
 
 brave warrior that spoke thus. "You will bury him at noon.
 Probably nearly all have come. They say that there are many
@@ -5669,23 +3508,6 @@ grave) .
 XIX. BETTY BROWN'S DREAM.
 
 
-di?iehandj aits-' ima'l*11 4
-
-
-winigu««h aitc' marl'em' lulma'iyaiwilmienex djidja'- 6
-
-
-306 Lit., "sit-on-top."
-
-300 Borrowed, of course, from Eng. bell.
-
-
-all white haired
-
-
-12 diiridjam?iehandj ai tlu'iyau wairu 'aduni'tditdiw^a^ntc'
-
-
 BETTY BROWN'S DREAM.308
 
 I dreamt. I went off towards the east across a dried-up creek ;
@@ -5728,15 +3550,6 @@ XX. SPELL SAID BY A GIRL DESIROUS OF
 GETTING A HUSBAND.
 
 
-that I might
-
-
-so* She was a Wintun woman, named K!ulo't'imateya, whom Betty
-Brown had known in life. The man she had known as Wa'imayasu
-
-810 Spells and more or less formulaic utterances in general are introduced by s-uwa', of unknown, if any, significance.
-
-
 SPELL SAID BY A GIRL DESIROUS OF GETTING A HUSBAND.
 
 S-uwa' ! May you think about me to yourself ! May you turn
@@ -5750,13 +3563,6 @@ they are worn out.
 
 
 XXI. CURSE ON PEOPLE THAT WISH ONE ILL.
-
-
-(pl-)
-
-
-(proh.)
-
 
 311 The implication is not clear. Perhaps it means, "May you love me
 as I love you ! ' '
@@ -5787,41 +3593,6 @@ XXII. PRAYER ON SNEEZING.
 
 (Said by a Woman)
 
-
-speak for my happiness
-
-
-(Said by a Man)
-
-
-my happiness
-
-
-sindjax klunundj 'i'duwul€ dji wawi'ndja klunundj
-
-
-PRAYER ON SNEEZING.
-
-(Said by a Woman)
-
-S-e'galt !imaya ! May I be happy ! Do you people not speak
-about me ! Do you speak for my happiness when speaking about
-
-(Said by a Man)
-
-May I be happy ! May my legs feel light ! May you people
-speak for my happiness ! Would that you would let me alone !
-I bathe, and I go back into my house, and I rejoice in my eating.
-
-
-SUPPLEMENTARY TEXTS314
-
-
-XXIII. THE ROLLING SKULL.315
-
-(Bound Mountain Jack's Version)
-
-
 si* These two supplementary texts of myths were obtained in 1900 by Dr.
 K. B. Dixon from Bound Mountain Jack, who has since died. Bound Mountain Jack, whose Indian name was Bui'yas-i (cf. bul- "to kick"), was
 recognized as the last chief or ' ' captain ' ' of the Northern Yana and was
@@ -5843,40 +3614,6 @@ sis Cf. text ix and footnote 191.
 sis Difficult to understand. We might have either (engatVima'inft'i
 baru'lla " he-broke-off -likewise neck" or (e'f0an£tfi baru'W imaina "hebroke-off neck-likewise." If incorporated, baru'lla could hardly appear
 otherwise than as barul-. Perhaps *e*gatbaru'lt*ima'inet*i was used.
-
-
-They died
-
-
-hastening back from south,
-
-
-tain.
-
-gatpla 6
-
-
-came from north.
-
-
-from north,
-
-
-roasted him in hole.
-
-
-took it up again
-
-
-•;1T 'a-, instead of ni-, shows that Coyote is now a woman. Observe that
-Coyote now uses female forms in conversation. A man would say wna'-
-t/d'nidja for "my brother."
-
-
-stood still.
-
-
-men."
 
 
 THE ROLLING SKULL.
@@ -5903,6 +3640,7 @@ hastening back to this place. He hastened back as far as a hill.
 Coyote was coming from the north, from Montgomery creek.
 The human skull was singing. Coyote heard him, and stood still.
 "Come to me, pack-basket!"318 he said. "Come to me, tasselled
+
 me, salmon ! Come to me, deer-meat ! Enough now ! ' ' Now he
 was carrying a pack-basket on his back. "Come here, staff!"
 
@@ -5933,7 +3671,6 @@ the east.
 
 XXIV. GRIZZLY BEAR AND DEER.319
 
-
 8« Compare Dixon 'a ' ' Maidu Myths, ' ' p. 79, where further parallels are
 given (see also Dixon 's "Northern Maidu," p. 341). The Takelma of
 Oregon have a similar myth.
@@ -5942,36 +3679,12 @@ Oregon have a similar myth.
 "to taste" (cf. djiwa'isi, "it tastes like deer meat").
 
 
-again,
-
-
-died.
-
-
-rock?"
-
-
-321 wu'lwisindja, "I am fanning smoke into house" (from Dr. Dixon's
-notes). The method of smoking here employed seems to have been to fan
-the smoke of the burning pine needles into the temporarily constructed
-sweat-house; cf. DLxon's "Maiilu Myths," p. 79.
-
-
-from them,
-
-
 •w a'sinik* be would be more correct.
 32* Perhaps misheard for cw'rp' a€asi.
 
 325 There is something wrong with this form, -wi- is unexplained and
 -mw- should assimilate to -mm-. Perhaps we should have
 ' ' now she went out soon, immediately. ' '
-
-
-, . .... ground
-
-
-entrails,
 
 
 826 -nau is unexplained, but can hardly have been misunderstood for -nwfc' .
@@ -6021,8 +3734,6 @@ inside. They pulled out (one of Grizzly Bear's children, then)
 they pulled out the other one. Each one carried one in his arms.
 They brought them back into their house, laid them down on the
 ground, and put a deerhide blanket over them. "Now!" they
-Now they came running from the east, from Montgomery creek.
-
 
 "Where is the rock?" (said the younger brother). "Let us
 proceed to the mountain, where there is brush!" (said the older
@@ -6283,7 +3994,6 @@ and made a fire start all around. Coyote came over to this side
 for the people, but that Coyote had spoiled things by setting bad precedents.
 
 
-of Burney Valley. Silver Fox saw Coyote coming; he blew and
 Coyote came along and saw the grasshoppers, plums, and cherries. They looked good, so he stopped to eat them. Silver Fox
 said, "When Coyote sees the food, he will stop and will not be
 angry." Coyote ate the plums and cherries, and said, "I want
@@ -6586,9 +4296,7 @@ with his face to the ground. To his grandmother he said,
 "Throw the hot rocks in and lie down also." She did so. By
 and by they heard shouting, "Here's my bow. Here's my
 place," and so on. All those dead people were alive again. The
-boy got up and said, "You are my brothers. I told my grandmother that I would come back again when I died. I did so. I
-caused you dead people to come to life. ' '
-
+boy got up and said, "You are my brothers. I told my grand-
 
 One day Flint Boy said to Djuwa'lklaina,342 "I have been
 dreaming. I dreamt last night. I dreamt about a woman and
@@ -6669,6 +4377,7 @@ not to have touched it. "
 
 That night it grew cloudy, AA'hile before it had been pleasant.
 Flint Boy Avent out, finally found the dog. He tied him up again,
+
 AATa'lk!aina heard it and said, "I hear Flint Boy's dog in the west
 at Bally mountain." All the people heard it and said, "That
 is Flint Boy's dog. He is married here at Bally mountain."
@@ -7029,8 +4738,6 @@ o had a fire-drill (mi'niyauna) with fire in it.848 She looked
 
 3(« See note 45.
 
-
-about, called into the sweat-house, but there was no answer, there
 looked to the south, there was no one in sight. She looked to
 the east, there was no one. She looked to the west, there was
 no one. She looked to the north, there was no one. "You are

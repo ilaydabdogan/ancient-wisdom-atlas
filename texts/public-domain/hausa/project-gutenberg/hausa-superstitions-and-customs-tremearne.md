@@ -2479,7 +2479,7 @@ than  just.*  His  title  of  Malamin  Daji  is  claimed  also
 by  a  large  species  of  wood-pigeon  which  is  always
 making  itself  heard.
 
-The  leopard  seldom  finds  a  place  in  <the  Hausa  folk-
+The  leopard  seldom  finds  a  place  in   the  Hausa  folk-
 lore ;  if  he  does  appear,  it  is  merely  so  that  he  can  kill
 
 *  In  Northern  India,  too,  the  lion  is  the  King  of  Beasts,  with
@@ -5125,7 +5125,7 @@ of  sterility.  Twins  are  supposed  to  have  a  special  power
 of  picking  up  scorpions  without  injury,  but  I  have
 seen  others  do  it  who  were  not  twins.  Perhaps  a
 malam  had  kindly  provided  them  (on  payment)
-with  a  concoction  w<hich  when  used  both  as  a  potion
+with  a  concoction  w hich  when  used  both  as  a  potion
 and  a  lotion  renders  the  poison  harmless  !  I  have  not
 come  across  any  story  which  mentions  twins,  and  at
 first  I  thought  this  strange,  but,  after  all,  our  own  folk-
@@ -12573,7 +12573,7 @@ name,  O  Boy."  And  he  said  "  Very  well,  go  back
 again,"  and  she  retired  crying.
 
 Next  came  the  Maiden  who  had  made  a  porridge
-of  guinea-corn  flour,  and  said  <c  O  Youth,  come  and
+of  guinea-corn  flour,  and  said   c  O  Youth,  come  and
 open  the  door  for  me  that  I  may  enter."  "  Who  is
 there  that  I  should  open  the  door  for  her  to  enter?  "
 asked  he.  And  she  replied  "  It  is  I,  Porridge-of-Guinea-
@@ -21890,7 +21890,7 @@ thr  ras<-  hrrr  (nor  ha\r  I  h««ard  of  th<*  Hausas  using
 thi^  parti*  ,jlar  !"rm  of  <  rurltvi.  for  ants  naturally  crawl
 upon   an\;!i:n^   « -n    :hr   ground.
 
-<s-'-<-  r«-n  !«-p!ion   1:1  (')iaptrr  V,  and  on
+ s-'-<-  r«-n  !«-p!ion   1:1  (')iaptrr  V,  and  on
 
 sa<  r  ;ti«  «•   ;n   (  '!.a;>'«  r    \  1  .
 
@@ -21916,8 +21916,8 @@ man    -  !    Ifa-j^.i    pa       it.i^'f  h'-'injn*    up   m   an
 
 .il:rn   s:atr.  -  ;«!»-. i  v.  hat   thr  meaning
 
-u.is.  n»r  h.ni  an\«»nr  cN«-  \\h--:n  1  tjurs •  ;•  .n«'<!,  thr  only
-thine  1  <an  su^^i-s1  is  that  '!:»•  U'-r<is  have  Ixvome
+u.is.  n»r  h.ni  an\«»nr  cN«-  \\h--:n  1  tjurs •  ;•  .n«' !,  thr  only
+thine  1   an  su^^i-s1  is  that  '!:»•  U'-r is  have  Ixvome
 t  hancril  in  lh«-  ^«>nt;  and  that  thr  translation  should  be.
 "  Shr  ol)ta:nrd  (  7\;  t*'-l  ht ;,:.<*.,  t«  >u(  hrdt  a  I  la usa  Son  "
 (Kiimbcr:),  !r,i:  I  ha\<-  om:ttrd  *h;s  par;.

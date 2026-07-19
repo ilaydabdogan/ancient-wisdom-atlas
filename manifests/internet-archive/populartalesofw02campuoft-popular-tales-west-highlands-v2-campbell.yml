@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_populartalesofw02campuoft
+  work_id: celtic.popular_tales_west_highlands_v2.campbell_archive
+  title: Popular Tales of the West Highlands, Volume 2
+  source_url: https://archive.org/details/populartalesofw02campuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/populartalesofw02campuoft-popular-tales-west-highlands-v2-campbell.txt
+    checksum:
+      algorithm: sha256
+      value: c6000f7f3885dc8ad949160df8fd11af70658f2bde76607af6ed6e0a09d7cd5a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/populartalesofw02campuoft-popular-tales-west-highlands-v2-campbell.md
+    checksum:
+      algorithm: sha256
+      value: df7c3230554f919cf5333b518af536576d20ca42301266866400bcead0dea6a3
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+    checksum:
+      algorithm: sha256
+      value: a7d32966c7cc58ee29963d894f8d5f92521abc699ef25806914d846fa6b5bd8d
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids celtic.popular_tales_west_highlands_v2.campbell_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: First published 1860-1862, this 1890 reprint is pre-1930 and US public
+      domain; collector J. F. Campbell died 1885. Hosted file is OCR text of a University
+      of Toronto library scan; expect OCR noise and bilingual Gaelic/English facing
+      text.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

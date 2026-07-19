@@ -127,7 +127,7 @@ EESPECTFULLY   DEDICATED
 BY    PERMISSION.
 
 
-ft.    J<ING    AND     pO.,    fl^NTEF^,    ^^BEF^EEN.
+ft.    J ING    AND     pO.,    fl^NTEF^,    ^^BEF^EEN.
 
 
 TEANSLATOR'S    PREFACE.
@@ -552,7 +552,7 @@ advantage  that  might  some  day  accrue  to  history  from  their  longer
 preservation.  Boniface  and  Willibrord,  in  felling  the  sacred  oak,
 in  polluting  the  sacred  spring,  and  the  image-breaking  Calvinists
 long  after  them,  thought  only  of  the  idolatry  that  was  practised  by
-such  means  (see  SuppL).  As  those  pioneers  '  purg<ed  their  floor '  a
+such  means  (see  SuppL).  As  those  pioneers  '  purg ed  their  floor '  a
 first  time,  it  is  not  to  be  denied  that  the  Reformation  eradicated
 aftergrowths  of  heathenism,  and  loosing  the  burden  of  the  Piomish
 ban,  rendered  our  faith  at  once  freer,  more  inward  and  more
@@ -1198,13 +1198,13 @@ so  cursed  does  not  deserve  to  have  the  sun  shine  on  him  kindly.
 
 The  Vandal  Gizericli  steps  into  his  ship,  and  leaves  it  to  the  winds
 where  they  shall  drive  it  to,  or  among  what  people  he  shall  fall
-that  God  is  angry  with,  ej)'  ov<i  6  6eo^  copjiarai.  Procop.  de  hello
+that  God  is  angry  with,  ej)'  ov i  6  6eo^  copjiarai.  Procop.  de  hello
 Vand.  1,  5.
 
 Such  hostile  attitude  breeds  now  and  then  a  rebellious  spirit  in
 men,  which  breaks  out  in  promethean  defiance  and  threats,  or  even
 takes  a  violent  practical  turn  (see  Suppl.).  Herodotus  4,  94  says  of
-the  Thracians  :  ovtoc  oi  avroi  ©pj]iKe<i  koI  Tr/ao?  ^povWjv  re  koI
+the  Thracians  :  ovtoc  oi  avroi  ©pj]iKe i  koI  Tr/ao?  ^povWjv  re  koI
 darpaTrrjv  to^€6ovt€<;  avco  Trpot  tov  ovpavov,  wrreiXevat  tod  deM.  If
 the  god  denied  the  assistance  prayed  for,  his  statue  was  flung  into
 the  river  by  the  people,  immersed  in  water,  or  beaten.  In  the
@@ -1450,7 +1450,7 @@ dethroned.  And  here  the  well-known  statement  of  Suetonius  and
 Hesychius,^  that  the  Etruscans  called  the  gods  assures  or  a:si,  may
 fairly  be  called  to  mind,  without  actually  maintaining  the  affinity
 of  the  Etruscan  or  Tyrrhenian  race  with  the  ancient  German,
-striking  as  is  the  likeness  between  rvpf)T)v6<i,  rvpcnjvo^i  and  the  ON.
+striking  as  is  the  likeness  between  rvpf)T)v6 i,  rvpcnjvo^i  and  the  ON.
 Ipnvs,  OHG.  durs.^
 
 The  significance  of  this  analogy,  however,  is  heightened,  when
@@ -1480,7 +1480,7 @@ Sn.  176.  204),  and  also  the  sing,  hapt  and  hand  for  an  individual  g
 (Sffim.  93'').  Though  hapthandun  in  the  Merseburg  poem  cannot
 with  certainty  be  taken  to  mean  the  same  thing  (the  compound
 seems  here  to  denote  mere  bodily  chains),  it  is  possible  that  dens
-and  82o<i  are  referable  to  Sew  I  bind ;  that  same  '  ans '  a  yoke,  is  the
+and  82o i  are  referable  to  Sew  I  bind ;  that  same  '  ans '  a  yoke,  is  the
 same  thiug  as  the  '  brace  and  band  '  of  all  things  ;  neither  can  we
 disregard  the  fact  that  tivelve  is  likewise  the  number  of  the  Norse
 £esir  ;  conf.  Ssem.  3^ :  '  eesir  or  ]?vi  liSi '  of  the  set,  kindred.
@@ -1927,7 +1927,7 @@ Ka\  dvfiv,  the  Gothic  would  be  inveitan  juh  blutan.
 Lii.  2,  37;  he  construes  it  with  an  ace.  of  the  person:  iDlotan
 fraujan  is  to  him  simply  Deiim  colere,  with  apparently  no  thought
 of  a  bloody  sacrifice.  For  Xarpeia  Eom.  12,  1,  he  puts  Uotinassus,
-and  for  d6o<T€/3/]<;  John  9,  31  gxxWostreis.  The  latter  presupposes  a
+and  for  d6o T€/3/]<;  John  9,  31  gxxWostreis.  The  latter  presupposes  a
 subst,  hlostr  (cultus,  oblatio),  of  which  the  S  is  explained  in
 Gramm.  2,  208.  Ushldteins  {iTapdK\r}cnq)  2  Cor.  8,  4  implies  a  verb
 usblotjan  to  implore.  Ccedmon  uses  the  AS.  Uotan  pret.  bleot,
@@ -2070,7 +2070,7 @@ heida,n]ceU  sacrilegiurn :  gote  ir  gdt  bringent,  Warn.  2906.  offer-
 nncffJielstar,  sacrificium,  Is.  395.  dbiu  blostar  iro  ghelstro,  Is.  382.
 — Peculiar  to  tbe  AS.  dialect  is  the  general  term  Idc,  neut.,  often
 rendered  more  definite  by  verbs  containing  tbe  notion  of  sacrifice :
-onbl^ot  ]78et  lac  gode,  CcX<lm.  177,  26.  drybtne  Idc  brohton,  60,  2.
+onbl^ot  ]78et  lac  gode,  CcX lm.  177,  26.  drybtne  Idc  brohton,  60,  2.
 Idc  bebeodan,  173,  9.  Idc  onsregde,  107,  21.  113,  15.  ongan  Idc,
 90,  19  (see  Suppl.).  Tbe  word  seems  to  be  of  the  same  root  as  the
 Goth.  masc.  laiks  (saltatio),  OHG.  leih  (Indus,  modus),  ON.  leikr,
@@ -2350,16 +2350,16 @@ teAuniFiuE.  45
 
 Trocopius  de  bello  Goth.  2,  15  of  the  Thulites,  i.e.  Scandinavians  :
 6vovai  Se  ivSeXex^cTT^^TO,  lepela  iravra  koI  ivayl^ovai.  rcov  Se
-lepeicov  crcpicrt,  to  KciXkiaTOV  dv6  pcoir  6<i  iariu,  ovrrep  av  So  p  ta-
+lepeicov  crcpicrt,  to  KciXkiaTOV  dv6  pcoir  6 i  iariu,  ovrrep  av  So  p  ta-
 XoiTov  ■7roi7](Tatvro  ir pwrov.  tovtov  yap  ra>  "Apet  Ovovaiv,
 eVel  Oeov  avTov  vo/mi^oucrt  niytarov  elvai.  Ibid.  2,  14,  of  tlie
-Heriili  :  ttoXvv  rwa  voixl^ovTe<i  deojv  ofiiXov,  o&?  Sr]  koX
+Heriili  :  ttoXvv  rwa  voixl^ovTe i  deojv  ofiiXov,  o&?  Sr]  koX
 dvd  p(07r  (ov  6uaiai<;  IXdaKeaOai,  oaiov  avToU  iSoKet  eivat.  Ibid.
 2,  25,  of  the  ah^eady  converted  Franks  at  their  passage  of  the  Po  :
-eirtka^ofjievoi,  he  Tri<i  <ye(pvpa<;  ol  ^pdyyot,  tt  a  1 8  a  9  re  Kau  yvvai-
-Ka<i  Twv  TotOcov,  ov<i7rep  evTavOa  evpov  lepevov  re  /cat  avrcDv
+eirtka^ofjievoi,  he  Tri i   ye(pvpa<;  ol  ^pdyyot,  tt  a  1 8  a  9  re  Kau  yvvai-
+Ka i  Twv  TotOcov,  ov i7rep  evTavOa  evpov  lepevov  re  /cat  avrcDv
 rd  a-cofxara  i^  Tov  irorajxbv  dupoOivia  rov  7ro\e/j,ov  epptir-
-Tovv.  ol  /Sdp^apoi  yap  ovroi,  Xpiariavol  yeyov6Te<i,  rd  iroWd  t^?
+Tovv.  ol  /Sdp^apoi  yap  ovroi,  Xpiariavol  yeyov6Te i,  rd  iroWd  t^?
 'KaXai.d^  ho^T]^  <^v\dcraovaL,  Ovaiaiq  re  XP^I^^^°^  dvdpcoircov
 Kol  dWa  ovx  ocTia  lepevovre'?,  ravrj]  re  ra?  /xavreia'i  irocovfievoi.
 Sidonius  ApoUinaris  8,  6  of  the  Saxons:  mos  est  remeaturis
@@ -2861,8 +2861,8 @@ The  Swedes  were  taunted  by  Olafr  Tryggvason  with  sitting  at  home
 and  licking  their  sacrificial  pots,  '  at  sitja  heima  ok  sleikja  hlot-
 holla  sina,'  Fornm.  sog.  2,  309.  A  cauldron  of  the  Cimbri  is  noticed
 in  Strabo  7,  2  :  e^o?  8e  ri  rwv  Klfi/Spcov  BLrjyovvTaL  tocovtov,  on
-Tal<s  jvvai^lv  avrcjv  avarpaTevovcraLf;  irapriKoXovOovv  7rpo/jidvTet<i
-lepeiai  TroXAor/at^e?,  \ev)(eliJiove<i,  Kapiraalva'^  e^aTrr/Sa?  eViTreTTop-
+Tal s  jvvai^lv  avrcjv  avarpaTevovcraLf;  irapriKoXovOovv  7rpo/jidvTet i
+lepeiai  TroXAor/at^e?,  \ev)(eliJiove i,  Kapiraalva'^  e^aTrr/Sa?  eViTreTTop-
 
 1  Neue  mitth.  des  thiiv.  siiclis.  vereins  V.  2,  131,  conf.  II.  10,  292.  Od.
 3,  382  :
@@ -2886,9 +2886,9 @@ Stem.  114'^  rioiSutiih  bloSinu  hl6ttre,  Fornald.  sog.  1,  512.  the  Grk 
 
 irr^jjiivaL,  ^ojcrfia  ')(CLkKovv  e^ovaat,  'yvfivoTroSe'i  •  Totf  ovv  al)(jiaXu)-
 T0t9  hia  Tov  arparoTTeSov  avv^VTcov  ^t(f>7]peL<; '  Karaare-^aaai  8'
-avroii<i  rjr^ov  eVl  k p  arr) p  a  ')(^a\Kovv,  oaov  d/Kpopecov  e'cKoai,  •  et;^oy
-Se  ava^dOpav,  tjv  dva/3d<Ta  (jj  fidvTt'?)  uTre/OTrerr/?  tov  X  e  y3  t;  t  o  9
-eXaifiOTo/xeL  eKaarov  fierecopiadevra'  etc  he  tov  7rpo-)(^eofievov  aL/u,aTO<i
+avroii i  rjr^ov  eVl  k p  arr) p  a  ')(^a\Kovv,  oaov  d/Kpopecov  e'cKoai,  •  et;^oy
+Se  ava^dOpav,  tjv  dva/3d Ta  (jj  fidvTt'?)  uTre/OTrerr/?  tov  X  e  y3  t;  t  o  9
+eXaifiOTo/xeL  eKaarov  fierecopiadevra'  etc  he  tov  7rpo-)(^eofievov  aL/u,aTO i
 et?  TOV  Kparrjpa,  fxavTe'iav  Tcvd  eiroiovvTo}  Another  cauldron  of
 the  Suevi,  in  the  Life  of  St.  Cohimban :  Sunt  etenim  inibi  vicinae
 nationes  Suevorum ;  quo  cum  moraretur,  et  inter  habitatores  illius
@@ -3347,7 +3347,7 @@ several  such  nouns,  forming  its  gen.  alhs,  dat.  alh,  instead  of  alhai
 alhai.  Once  only,  John  18,  20,  gudhiis  stands  for  lepov  ;  the  simple
 hus  never  has  the  sense  of  domus,  which  is  rendered  razn.  Why
 should  Ulphilas  disdain  to  apply  the  heathen  name  to  the  christian
-thing,  when  the  equally  heathen  templum  and  va6<i  were  found
+thing,  when  the  equally  heathen  templum  and  va6 i  were  found
 quite  inoffensive  for  christian  use  ?
 
 Possibly  the  same  word  appears  even  earlier  ;  namely  in  Tacitus,
@@ -3488,7 +3488,7 @@ herdsmen  his  horses  and  oxen  and  rams.
 
 What  a  writer  of  the  second  century  says  on  the  cultus  of  the
 Celts,  will  hold  good  of  the  Teutonic  and  all  the  kindred  nations :
-KeXroi  cre^ovat  fxev  Ala,  a<ya\ixa  Se  ALo<i  KekrcKov  vy^rfkrj  Spy?,
+KeXroi  cre^ovat  fxev  Ala,  a ya\ixa  Se  ALo i  KekrcKov  vy^rfkrj  Spy?,
 Maximus  Tyrius  (diss.  8,  ed.  Eeiske  1,  142).  Compare  Lasicz.  46  :
 deos  nemora  incolere  persuasum  liabent  (Samogitae).  Habitarunt
 di  quoque  sylvas  (Haupts  zeitschr.  1,  138).
@@ -4390,7 +4390,7 @@ PKIESTS.
 The  most  general  term  for  one  who  is  called  to  the  immediate
 service  of  deity  (minister  deorum,  Tac.  Germ.  10)  is  one  derived
 from  the  name  of  deity  itself.  From  the  Goth.  guS  (deus)  is  formed
-the  adj.  gaguch  (godly,  pius,  eva-e^ij<i),  then  gagudci  (pietas,  euae^eia).
+the  adj.  gaguch  (godly,  pius,  eva-e^ij i),  then  gagudci  (pietas,  euae^eia).
 In  OHG.  and  MHG.,  I  find  pius  translated  erJiafi,  strictly  reverens,
 hut  also  used  for  venerandus  ;  our  froinm  has  only  lately  acquired
 this  meaning,  the  MHG.  vrum  being  simply  able,  excellent.  The
@@ -4458,7 +4458,7 @@ above,  but  may  convey  the  peculiar  sense  in  which  Wolfram  uses
 '  der  guote  man'}  In  the  Eomance  expressions  prudeTis  homo,  bonus
 homo  (prudhomme,  bonhomme)  there  lurks  a  reference  to  the
 ancient  jurisprudence. — Once  Ulphilas  renders  apxiepev^  by  auhu-
-mists  veiha,  John  18,  13,  but  never  Upev<i  by  veiha.
+mists  veiha,  John  18,  13,  but  never  Upev i  by  veiha.
 
 With  Christianity  there  came  in  foreign  words  (see  Suppl.).
 The  Anglo-Saxons  adopted  the  Lat.  sacerdos  in  abbreviated  form  :
@@ -7285,7 +7285,7 @@ head  of  the  wild  host,  who  can  at  once  be  turned  into  a  Gothic
 
 
 ^  Conf.  Tritas  in  the  fountain,  Kulin  in  Hofer  1,  290.  Ace.  to  the
-popiilar  religion,  you  must  not  look  into  running  water,  because  you  look  m<o
+popiilar  religion,  you  must  not  look  into  running  water,  because  you  look  m o
 God's  eye,  Tol)ler's  Appenzel  p.  369''  ;  neither  must  you  point  at  the  stars  with
 your  fingers,  for  fear  of  sticking  them  into  the  angels'  eyes.
 
@@ -7296,7 +7296,7 @@ lock,  Kinderm.  3,  407.
 
 WODAN.  147
 
-Ilahdahairands,  now  that  hakuls  for  (f)e\6vr]<i  is  found  in  2  Tim.
+Ilahdahairands,  now  that  hakuls  for  (f)e\6vr] i  is  found  in  2  Tim.
 iv.  13. — Swedish  folk-tales  picture  Odin  as  bald-headed,  Iduna  10,
 231.  In  the  ancient  poetry  he  is  Harharffr,  Sidgrani,  Sidskcggr,
 all  in  allusion  to  his  thick  growth  of  hair  and  beard.  The  name
@@ -8055,7 +8055,7 @@ that  the  OHG.  %oillo  expresses  not  only  voluntas,  but  votum,
 impetus  and  spiritus,^  and  the  Gothic  viljan,  velle,  is  closely  con-
 nected with  valjan,  eligere;  whence  it  is  easy  to   conceive   and
 
-1  When  OSinn  is  called  Thundr  in  the  songs  of  the  Edda,  S<Tm.  281^  47^
+1  When  OSinn  is  called  Thundr  in  the  songs  of  the  Edda,  S Tm.  281^  47^
 this  may  be  derived  from  a  lost  l^ynja  =  AS.  l)unian,  tonare,  and  so  be  equivalent
 to  Donar  ;  it  is  true,  they  explain  Jmndr  as  loricatus,  from  l^und  lorica.  But
 Wuotan,  as  Voma,  is  the  noise  of  the  rushing  air,  and  we  saw  him  hml  the
@@ -8598,8 +8598,8 @@ pounded with  it.  Lith.,  Perkunas  grauja  (P.  thunders),  Perkunas
 musza  (P.  strikes,  ferit)  ;  Lett.,  Pehrkons  sperr  (the  lightning
 strikes,  see  Suppl.).  The  Slav,  perun  is  now  seldom  applied
 personally,  it  is  used  chiefly  of  the  lightning's  flash.  Procopius  (de
-Bello  Goth.  3,  14)  says  of  the  Sclaveni  and  Antes:  deov  fj,ev  <yaf}
-eva  Tov  ri]^  aa  t  p  airi]  <;  Sr]ixLovp<yov  airdvTWV  Kvpiov  /xovov  avTov
+Bello  Goth.  3,  14)  says  of  the  Sclaveni  and  Antes:  deov  fj,ev   yaf}
+eva  Tov  ri]^  aa  t  p  airi]  <;  Sr]ixLovp yov  airdvTWV  Kvpiov  /xovov  avTov
 
 ^  Kindermann,  abriss  von  Steiermark  pp.  66,  67,  70,  81.
 
@@ -8910,7 +8910,7 @@ The  ancient  languages  distinguish   three  acts  in  the  natural
 178  THUNAR.
 
 phenomenon:  the  i\asli,fulgu7%  aaTpairrj,  the  sound,  tonitnts,  /Spovri],
-and  the  stroke,  fulmen,  Kepavv6<i  (see  SuppL).
+and  the  stroke,  fulmen,  Kepavv6 i  (see  SuppL).
 
 The  lightning's  flash,  which  we  name  blitz,  was  expressed  in  onr
 older  speech  both  by  the  simple  plih,  Graff  3,  244,  MHG.  hlic,  Iw.
@@ -9158,7 +9158,7 @@ a  hostile  and  fiendish  god  of  thunder.
 
 The  large  beetle,  which  we  call  stag-beetle  or  fire-beetle,  lucanus
 cervus,  taurus  (ch.  XXI,  beetles),  is  in  some  districts  of  South  Ger-
-many named  don7ier<jue(j,  donncrgu(/c,  donnerpuiype  (gueg,  guegi,
+many named  don7ier jue(j,  donncrgu(/c,  donnerpuiype  (gueg,  guegi,
 beetle),  perhaps  because  he  likes  to  live  in  oak-trees,  the  tree  sacred
 to  thunder.  For  he  also  bears  the  name  eichochs,  Swed.  ekoxe  (oak-
 ox);  but  then  again  feuerschroter,  iurbuter  (fire-beeter, -z'.e.  kindler),^
@@ -9610,7 +9610,7 @@ to  the  Greek  and  German  gods'  names  Zeu?,  Tins.
 
 Greek.  Gothic.
 
-Zev<i  Tius
+Zev i  Tius
 
 Zev  Tiu
 
@@ -9623,7 +9623,7 @@ AlFi.,  All  Tiva
 To  the  digammated  and  older  form  of  the  Greek  oblique  cases
 there  corresponds  also  the  Latin  Jovcm,  Jovis,  Jovi,  for  which  we
 
-^  It  might  have  been  TeoAV,  from  the  analogy  of  l^eow  to  ]j<!t.  Lye  quotes,
+^  It  might  have  been  TeoAV,  from  the  analogy  of  l^eow  to  ]j !t.  Lye  quotes,
 without  references  :  ?'«>/,  Mars,  Tiiges-  vel  Tiis-daeg,  dies  Martis.  The  Epinal
 glosses  lironght  to  light  l)y  ]\Ione  actually  furnish,  no.  520  (Anzeiger  18.38,  p.
 145),  Tiirj,  Mars  ;  also  Oeliler  p.  351 .  The  change  of  letters  is  like  that  of  briig,
@@ -9667,12 +9667,12 @@ Dium,  divum  is  the  vault  of  heaven,  and  Zeus  is  the  son  of  heaven,
 Ovpavov  vio^,  ovpduio<;,  Zev<;  aWepi  vaiwv  (see  Suppl.).
 
 But  apart  from  'dyaus,  Zeus  and  Jupiter,'  the  three  common  nouns
-devas  (Sansk.),  6e6<i  and  deus  express  the  general  notion  of  a
+devas  (Sansk.),  6e6 i  and  deus  express  the  general  notion  of  a
 divinity  ;  they  are  related  to  the  first  three,  yet  distinct  from  them.
 The  Lat,  deus  might  seem  to  come  nearest  to  our  Tins,  Zio ;  but
 its  u,  like  the  o  in  6e6<;,  belongs  to  the  flexion,  not  to  the  root,  and
 therefore  answers  to  the  a  in  devas.^  Nevertheless  deus  too  must
-have  sprung  from  devus,  and  6e6<i  from  6eF6<i,  because  the  very  6
+have  sprung  from  devus,  and  6e6 i  from  6eF6 i,  because  the  very  6
 instead  of  S  in  the  Greek  word  is  accounted  for  by  the  reaction  of
 the  digamma  on  the  initial.  In  the  shortness  of  their  e  they  both
 differ  from  devas,  whose  e  (=ai)  grew  by  guna  out  of  i,  so  that  the
@@ -9684,7 +9684,7 @@ with  short  i  (see  Suppl.)^,  Still  more  helpful  to  us  is  the  fact  th
 the  Edda  has  a  plur.  tivar  meaning  gods  or  heroes.  Stem.  30^  41^ ;
 rikir  tivar  (conf.  rich  god,  p.  20),  Sam.  72^  Qo'^ ;  valtivar,  52=^ ;
 sigtivar,  189*  248=^ ;  the  sing,  is  not  in  use.  This  tivar,  though  not
-immediately  related  to  Tyr,  yet  seems  related  to  it  as  Sto?,  6e6<i,
+immediately  related  to  Tyr,  yet  seems  related  to  it  as  Sto?,  6e6 i,
 Oelo'i  are  to  Zeu? ;  its  i  is  established  by  the  fact  that  the  ON.
 dialect  contracts  a  short  iv  into  y  ;  thus  we  obtain  by  the  side  of
 tiv  a  tiv,  in  Sanskrit  by  the  side  of  div  a  dev,  and  in  Latin  by  the
@@ -9929,7 +9929,7 @@ in  Swabia,  which  we  may  gather  from  an  old  "Wessobrunn  gloss
 '  Cyuvari  =  Suapa,'  MB.  7,  375  and  Diut.  2,  370 ;  which  I  take  to
 be  not  Teutonoari,  as  Zeuss  does,  pp.  146-9,  but  Zioivari  ]\Iartem
 colentes,  warian  expressing,  like  Lat.  colore,  both  habitare  and
-depairevetv,  so  that  the  Suevi  are  OepdirovTe'i  "Apr]o<i.
+depairevetv,  so  that  the  Suevi  are  OepdirovTe'i  "Apr]o i.
 
 But  that  is  not  all  :  further  and  weighty  disclosures  on  the
 name  and  nature  of  the  war-god  await  us  at  the  hands  of  the  Pauiic
@@ -10013,7 +10013,7 @@ dem  Eresberge,  Aresberge,'^  or  it  may  be  an  imitation  of  the  Latin
 name.  There  was  a  downright  Marsherg  in  another  district  of  West-
 phalia.* This  Eresberc  then  is  a  Ziesherc,  a  Sig-tiwes-berg,  and  yet
 more  closely  an  Areopagus,  Mars'  hill,  Apeioira'yo^,  irerpa  irdyo'i  t'
-'Apeco<i  (Aeschyl.  Eum.  690).
+'Apeco i  (Aeschyl.  Eum.  690).
 
 Still  more  plainly  are  High  German  races,  especially  the
 Bavarian  (jMarcomannic)  pointed  to  by  that  singular  name  for  the
@@ -10058,7 +10058,7 @@ men's  names ;  also,  that  the  Taxandrian  Eersel  was  but  a  little  way
 off  the  Tisberg  or  Fanmars  in  Hainault  (see  Suppl.). — Xow  comes
 something  far  more  important.  As  Zio  is  identical  with  Zeus  as
 director  of  wars,  we  see  at  a  glance  that  Eor,  Er,  Ear,  is  one  with
-"'Apr)<i  the  son  of  Zeus ;  and  as  the  Germans  had  given  the  rank  of
+"'Apr) i  the  son  of  Zeus ;  and  as  the  Germans  had  given  the  rank  of
 Zeus  to  their  Wuotan,  Tyr  and  consequently  Eor  appears  as  the  son
 of  the  highest  god.  Have  we  any  means  now  left  of  getting  at  the
 sense  of  this  obscure  root  Eor  ?
@@ -10115,7 +10115,7 @@ by  the  Frankish  annalists,  we  may  fairly  bring  in  the  Goth,  hairus,
 AS.  heor,  OS.  heru,  ON.  Morr,  ensis,  cardo,  although  the  names  of
 the  rune  and  the  day  of  the  week  always  appear  without  the
 aspirate.  For  in  Greek  we  already  have  the  two  unaspirated  words
-''ApT]<i  and  aop,  sword,  weapon,  to  compare  with  one  another,  and
+''ApT] i  and  aop,  sword,  weapon,  to  compare  with  one  another,  and
 these  point  to  a  god  of  the  sword.  Then  again  the  famous  Abre-
 nuntiatio  names  three  heathen  gods,  Thunar,  Woden,  Saxnot,  of
 whom  the  third  can  have  been  but  little  inferior  to  the  other  two
@@ -10133,7 +10133,7 @@ too,  particularly  Zeus  (8,  .300)  and  Dionysos  or  Bacchus  (6,  l;-i2).
 
 ^  One  might  think  of  Fro,  Freyr  (ch.  X),  but  of  course  glittering  swords
 were  attributed  to  more  than  one  god  ;  thus  Poseidon  (Ke])tune)  wields  a  Sfivov
-aop,  II.  14,  38 j,  and  Apollo  is  called  xpvo-<iopos,  5,  5(J9.   Id,  250.
+aop,  II.  14,  38 j,  and  Apollo  is  called  xpvo- iopos,  5,  5(J9.   Id,  250.
 
 
 204  zio.
@@ -10166,7 +10166,7 @@ Herodotus  4,  62  informs  us,  that  the  Scythians  worshipped
 Ares  under  the  semblance  or  symbol  of  an  ancient  iron  sword
 {aKLvuKT)^),  which  was  elevated  on  an  enormous  stack  of  brushwood
 ['  three  furlongs  in  length  and  breadth,  but  less  in  height '] :  eVl
-TOVTOV  Orj  Tov  ojKOV  u  K  t  V  d  K  r]  <}  (J  ihr)  fjeo<i  I'Bpvrac  dp-)(abo<i
+TOVTOV  Orj  Tov  ojKOV  u  K  t  V  d  K  r]  <}  (J  ihr)  fjeo i  I'Bpvrac  dp-)(abo i
 eKciaTOLao-  Kol  tovt''  earc  tov  "A prjos  to  ajakixa.  Ammianus
 Marcellinus  31,  2  says  of  the  Alani :  Nee  templum  apud  eos  visitur
 aut  delubrura,  ne  tugurium  quidem  culmo  tectum  cerni  usquam
@@ -10218,7 +10218,7 @@ battle  of  Mtihlberg  (Deutsche  heldensage  p.  311).  We  see  through
 what  lengthened  periods  popular  tradition  could  go  on  nourishing
 itself  on  this  world-old  worship  (see  Suppl.).
 
-With  the  word  "ApT)<i  the  Lat.  Mars  appears  to  have  nothing  to
+With  the  word  "ApT) i  the  Lat.  Mars  appears  to  have  nothing  to
 do,  being  a  contraction  of  Mavors,  and  the  indispensable  initial
 being  even  reduplicated  in  Mamers ;  so  the  fancied  connexion
 between  Eresburg  and  Marsberg  will  not  hold.
@@ -10385,7 +10385,7 @@ the  word,  which  made  it  equally  fit  for  the  individuality  of  one
 god,  and  for  the  comprehensive  notion  of  dominion,  whether  sacred
 or  secular  :  to  some  nations  it  signified  the  particular  god,  to  others
 the  soverain  deity  in  general,  pretty  much  as  we  found,  connected
-with  the  proper  names  Zio,  Zeus,  the  more  general  term  deus,  6eo<i.
+with  the  proper  names  Zio,  Zeus,  the  more  general  term  deus,  6eo i.
 While  the  names  of  other  heathen  gods  became  an  abomination  to
 the  christians,  and  a  Gothic  Vodans  or  Thunrs  would  have  grated
 harshly  on  the  ear;  this  one  expression,  like  the  primitive  guj?  itself,
@@ -10443,7 +10443,7 @@ fronisc  seems  not  to  have  been  formed  till  after  the  contraction  fro
 and  frono  had  set  in.
 
 But  even  the  Gothic  frduja  does  not  present  to  us  the  simple
-stem,  I  look  for  it  in  a  lost  adj.  fravis  (like  navis  v€Kp6<i,  Eom.  7,  2),
+stem,  I  look  for  it  in  a  lost  adj.  fravis  (like  navis  v€Kp6 i,  Eom.  7,  2),
 the  same  as  the  OHG. /ro  gen.  frouwes,  OS. /ra  gen.  fralies,  MHG.
 vro,  and  our  froh  [frohlich,  frolic,  &c.],  and  signifying  mitis,  laetus,
 blandus ;  whence  the  same  dialects  derive  frouwi,  gaudium,  frouwan,
@@ -11638,7 +11638,7 @@ Scandinavian  or  High  German,  possess  an  unexplained  term  for
 cerebrum  :  AS.  bregen  (like  regen  pluvia,  therefore  better  written
 so  than  bra^gen),  Engl,  brain,  Fris.  brein.  Low  Sax.  bregen  ;  I  think
 it  answers  to  the  notions  '  understanding,  cleverness,  eloquence,
-imitation,'  and  is  connected  with  (l>pr']v,  (pp€v6<i,  -^pcop,  -(ppovo<;.  Now
+imitation,'  and  is  connected  with  (l>pr']v,  (pp€v6 i,  -^pcop,  -(ppovo<;.  Now
 the  ON.  bragr,  beside  poesis,  means  also  mos,  gestus,  and  '  braga
 eftir  einum '  referre  aliquem  gestu,  imitari.  OIIG.  has  nothing  like
 it,  nor  any  such  proper  name  as  Prako,  Brago,  Briigo.
@@ -11689,7 +11689,7 @@ This  Oegir,  an  older  god  of  the  giant  kind,  not  ranked  among
 the  Ases,  but  holding  peaceable  intercourse  with  them,  bears  the
 name  of  the  terrible,  the  awful.  The  root '  aga  6g '  had  given  birth
 to  plenty  of  derivatives  in  our  ancient  speech:  Goth,  agis  06/3o9,  6g
-<f)o^eo/j,at,  OHG,  akiso,  egiso,  AS.  egesa  horror,  OHG.  aki,  eki,  AS.
+ f)o^eo/j,at,  OHG,  akiso,  egiso,  AS.  egesa  horror,  OHG.  aki,  eki,  AS.
 ege  (ege  ?  awe)  terror,  ON",  oegja  terror!  esse,  which  can  only  be
 spelt  with  oe,  not  te.  To  the  proper  name  Oegir  would  correspond
 a  Goth.  ()geis,  AS.  I^ge,  OHG.  Uogi,  instead  of  which  I  can  only
@@ -11697,7 +11697,7 @@ lay  my  hand  on  the  weak  form  Uorjo,  Oago.  But  oegir  also  signifies
 the  sea  itself :  sol  gengr  i  ceginn,  the  sun  goes  into  the  sea,  sets ;
 cegi-sior  pelagus  is  like  the  Goth,  mari-siiivs ;  the  AS.  eagor  and
 egor  (mare)  is  related  to  ege,  as  sigor  to  sige.  I  attach  weight  to
-tlie  agreement  of  the  Greek  co/ceai/o'?,  'f2Keav6<i  and  'fljijv,  whence
+tlie  agreement  of  the  Greek  co/ceai/o'?,  'f2Keav6 i  and  'fljijv,  whence
 the  Lat.  oceanus,  Oceanus  was  borrowed,  but  aequor  (mare  placi-
 dum)  seems  not  cognate,  being  related  to  aequus,  not  to  aqua  and
 Goth,  ahva  (see  Supi)l.).i
@@ -11717,7 +11717,7 @@ such  a  one  did  HreiCmar  wear,  and  then  Faihir  when  he  lay  on  the
 gold  and  seemed  the  more  terrible  to  all  that  looked  upon  him,
 Seem.  188=^;  vera  (to  be)  undir  Oegishialmi,  bera  Oegishialm  yUr
 
-1  Oe</\v  is  also  called  Gymir,  Spem.  59.  GUmir,  Sn.  125.  183  possilily
+1  Oe /\v  is  also  called  Gymir,  Spem.  59.  GUmir,  Sn.  125.  183  possilily
 epiilator  i  but  I  know  no  other  meaning  of  the  ON.  .yaunir  than  ciira,  attentio,
 thouL^h  the  OHG.  goiinia,  OS.  goma  means  both  ciua  and  cpulae,  the  AS.
 gyniing  both  cura  and  nuptiae.
@@ -13186,7 +13186,7 @@ chronica  1,  IGJ-C  (see  Suppl.),
 
 bed,  and  the  feathers  of  it  fly.^  Slie  stirs  up  snow,  as  Donar  does
 rain :  the  Greeks  ascribed  the  production  of  snow  and  rain  to  their
-Zeus :  Jio?  o/x/3po9,  II.  5,  91.  11,  493  as  well  as  vi.<^dhe<i  Ato'i,  II.  19,
+Zeus :  Jio?  o/x/3po9,  II.  5,  91.  11,  493  as  well  as  vi.<^dhe i  Ato'i,  II.  19,
 357  ;  so  that  Holda  conies  before  us  as  a  goddess  of  no  mean  rank."^
 The  comparison  of  snowflakes  to  feathers  is  very  old ;  the  Scythians
 pronounced  the  regions  north  of  them  inaccessible,  because  they
@@ -13322,7 +13322,7 @@ name,  it  has  remained  in  use  among  the  Swedish  country-folk
 Maridrocli,  Dan.  Mariroch  (Magnusen,  gloss.  361.  376),  the
 christians  having  passed  the  same  old  idea  on  to  Mary  the
 heavenly  mother.  The  Greeks  put  spindle  and  distaff  in  the  hands
-of  several  goddesses,  especially  Aitemis  (')(^pua7j\dKaTo<i,  II.  20,  70)
+of  several  goddesses,  especially  Aitemis  (')(^pua7j\dKaTo i,  II.  20,  70)
 and  her  mother  Leto,  but  also  Athene,  Amphitrite  and  the  Nereids.
 All  this  fits  in  with  Holda,  who  is  a  goddess  of  the  chase  (the  wild
 host),  and  of  water-springs.
@@ -13882,7 +13882,7 @@ was  tacked  on  to  a  previously  existing  Perhta.     Now  it  is  true  we
 
 -  Luke  2,  0.     0.  i.  12,  3.  4.     Hel.  12,  8.     Maria  182.
 
-3  The  OIIG.  'ji/if7-m<rtc  =  parasceve  (Graff  5,  360)  is  Good  Friday,  and
+3  The  OIIG.  'ji/if7-m rtc  =  parasceve  (Graff  5,  360)  is  Good  Friday,  and
 distinct  i'roin  Prehentafj,  Percht(;ntag.
 
 •*  Dec.  28  is  Innocents',  29  St.  Thomas's,  31  St.  Silvester's.
@@ -14871,7 +14871,7 @@ Langob.  Frea  is  =  Frea,  Fria,  Frija,  Frea.     Its  root  is  suggested  
 1  The  AS.  chroniclers  (p.  128)  borrow  Frea  from  Paulus.  With  Frea  we
 must  above  all  connect  the  frea  of  the  Laws  of  Liutpraiid  (5,  40  and  67,  an.l
 tins  means  uxor,  doniina,  not  libera,  iuL^enua.  Paulus  therefore,  in  assigning
-Frea  to  Wodan  as  his  wife,  has  put  lier  in  tlie  place  of  the  Noi-se  Friir<i.     The
+Frea  to  Wodan  as  his  wife,  has  put  lier  in  tlie  place  of  the  Noi-se  Friir i.     The
 
 
 put  lier  in  tlie  pi
@@ -15153,12 +15153,12 @@ amplification  of  '  merigrioton,'  pearls.
 
 But  this  legend  of  the  goddess's  necklace  gains  yet  more  in  im-
 portance, when  we  place  it  by  the  side  of  Greek  myths.  Brisinga
-men  is  no  other  than  Aphrodite's  6piJio<i  (Hymn  to  Venus  88),  and
-the  chain  is  her  girdle,  the  Kearo<i  ifia<i  7rot/c/Xo<f  which  she  wears
+men  is  no  other  than  Aphrodite's  6piJio i  (Hymn  to  Venus  88),  and
+the  chain  is  her  girdle,  the  Kearo i  ifia i  7rot/c/Xo f  which  she  wears
 on  her  bosom,  and  whose  witchery  subdues  all  gods  and  mortals.
 How  she  loosens  it  off  her  neck  {diro  ar7]6ea(piv)  and  lends  it  to
 Hero  to  charm  her  Zeus  with,  is  told  in  a  lay  that  teems  with
-world-old  myths,  II.  14,  214-8.  As  the  ifxd<i  is  worn  in  turn  by
+world-old  myths,  II.  14,  214-8.  As  the  ifxd i  is  worn  in  turn  by
 Here  and  by  Aphrodite,  the  Norse  fable  gives  the  jewel  now  to
 Frigg  and  now  to  Freyja,  for  that  '  gold  of  Frigg '  in  Saxo  is  the
 same  as  Brisinga  men.  Then  there  is  another  similarity  :  the  same
@@ -15182,9 +15182,9 @@ menn,  ef  hurSin  var  Isest,  at  eingi  matti  komast  i  skemmuna  an
 Loki  after  all  got  in,  and  robbed  her  of  the  necklace  ;  ^  Homer  says
 nothing  about  that,  but  (II.  14,  165-8)  he  knows  of  Here's  ^aXa/io?,
 
-TOP  ol  <^t'Xo9  vio<i  eTeu^ev
-" HcjjacaTO'i,  TrvKLva-i  Se  6upa<i  crraO/jLolaiP  eTTrjpcre
-kXtjISi  KpviTTfi,  TT)v  S'  ov  ^£09  aX\.o<i  avtpyev.
+TOP  ol  <^t'Xo9  vio i  eTeu^ev
+" HcjjacaTO'i,  TrvKLva-i  Se  6upa i  crraO/jLolaiP  eTTrjpcre
+kXtjISi  KpviTTfi,  TT)v  S'  ov  ^£09  aX\.o i  avtpyev.
 "What  can   be  more  exactly  in   accordance  with  that  inaccessible
 apartment  of  Freyja,  especially  as  the  t/u.a9  is  spoken  of  directly
 after  ?     Hephaistos  (Vulcan),  who  built  his  mother  the  curiously
@@ -15628,7 +15628,7 @@ only  now  and  then,  particularly  in  the  story  of  Prometheus,  which
 
 In  the  common  way  of  thinking,  the  gods  are  supposed  to  be
 immortal  and  eternal.  They  are  called  Oeol  alev  iovre^,  II.  1,  290.
-494,  aleijeverai  2,  400,  dddvaroi  2,  814,  n6dvaTo<i  Zev^  14,  434 ;
+494,  aleijeverai  2,  400,  dddvaroi  2,  814,  n6dvaTo i  Zev^  14,  434 ;
 and  therefore /Lta/cape?  1,  339.  599  in  contrast  to  mortal  man.  They
 have  a  special  right  to  the  name  cifi^poTot  immortales,  while  men
 are  ^poToi  mortales ;  dix^poTo<;  is  explained  by  the  Sansk.  amrita
@@ -15636,7 +15636,7 @@ immortalis,  the  negative  of  mrita  mortalis  (conf  Pers.  merd,  homo
 mortalis) ;  in  fact  both  amrita  and  d/u,/3p6aco<;,  next  neighbour  to
 dp,^poro^,  contain  a  reference  to  the  food,  by  partaking  of  which
 the  gods  keep  up  their  immortality.  They  taste  not  the  fruits  of
-the  earth,  whereby  the  ^poroi  live,  ot  dpovpr)<i  Kapirov  eSovaiv,  II.  6,
+the  earth,  whereby  the  ^poroi  live,  ot  dpovpr) i  Kapirov  eSovaiv,  II.  6,
 142.  With  ySpoTo?  again  is  connected  ^p6To<;  thick  mortal  blood,
 whereas  in  the  veins  of  the  gods  flows  Ixd^p  (H.  5,  340.  416),  a  light
 thin  liquid,  in  virtue  of  which  they  seem  to  be  called  d^poToi  =
@@ -15661,7 +15661,7 @@ TOVveK  dvalfiove^  elai  Koi  dddvaroc  KaXiovrai.
 —II.  5,  330.
 Theirs  is  no  thick  glutinous  alfia  (conf.  our  seim,  ON",  seimr,  slime),
 nor  according  to  the  Indians  do  they  sweat ;   and  this  dvaifirov
-(bloodless)  agrees  with  the  above   explanation   of  d^poTo<i.     The
+(bloodless)  agrees  with  the  above   explanation   of  d^poTo i.     The
 
 ^  Atfjiie  omncs  pariter  cleos  perdet  mors  aliqiia  et  chaos.  Seneca  in  Here,
 1014.
@@ -15825,7 +15825,7 @@ the  coincidence  of  aKepaeKo/xr]^  with  the  Edda's  '  ne  hofuS  kembr '
 is  not  to  be  disregarded.  Hermes,  born  at  early  morn,  plays  the
 lute  at  mid-day,  and  at  eve  drives  oxen  away  (Hymn,  in  Merc.  17
 seq.).  And  Zeus,  who  is  often  exhibited  as  a  child  among  the
-Kuretes,  grew  up  rapidly  {Kap7ra\.Lix(o<i  fievo<;  Kai  (^aloLfxa  f^vla
+Kuretes,  grew  up  rapidly  {Kap7ra\.Lix(o i  fievo<;  Kai  (^aloLfxa  f^vla
 rjv^ero  toIo  avaKTo^;),  and  in  his  first  years  had  strength  enough  to
 enter  the  lists  with  Kronos  (Hes.  theog.  492).  Tlie  Norse  mytho-
 logy offers  another  example  in  Magni,  Thor's  son  by  the  giantess
@@ -15912,9 +15912,9 @@ ascribed  to  them  for  expressing  favour  or  anger.  They  are  the
 glowering  deities,  who  have  the  avenging  thunder  at  their  command;
 tliis  was  shown  of  Donar,  p.  177,  and  to  Zeus  is  given  the  grim
 louring  look  {Beiva  S'  virohpa  IScov,  11.  15,  13),  he  above  all  is  the
-fj,ey  oxdi]aa<i  (1,  517.  4,  30),  and  next  to  him  Poseidon  of  the
+fj,ey  oxdi]aa i  (1,  517.  4,  30),  and  next  to  him  Poseidon  of  the
 dingy  locks  (8,  208.  15,  184).  Zeus  again  is  distinguished  by
-beaming  eyes  {rpeirev  oaae  <jiaet,voi  13,  3.  7.  14,  236.  IG,  645),
+beaming  eyes  {rpeirev  oaae   jiaet,voi  13,  3.  7.  14,  236.  IG,  645),
 which  belong  to  none  else  save  his  own  great-hearted  daughter  21,
 415 ;  Aphrodite  has  ofijxaTa  fiapfiaipovra,  3,  397,  twinkling,
 shimmering  eyes  (see  Suppl.).
@@ -16029,7 +16029,7 @@ or  Here  comes  al^aGa,  Od.  1,  102.     H.  2,  167.     4,  74.    19,  114
 22,  187 ;  Thetis,  the  dream,  Atliene,  Here,  all  a[)pear   KapTrdXi'p.co'i,
 H.  1,  359.     2,  17.  1G8.     5,  8G8.     19,  115.     Od.  2,  40G ;  Fuseidon
 and  Here  KpatTrvd,  KpaLirvo)<^,  II.  13,  18.     14.  292  ;  even  Zeus,  when
-he  rises  from  his  throne  to  look  on  the    earth,  arrrj  dvai^a<i  15,  6.
+he  rises  from  his  throne  to  look  on  the    earth,  arrrj  dvai^a i  15,  6.
 So  Holda  and  Berhta  suddcnUj  stand  at  the  window  (p.  274).     IMuch
 in  the  same  way  I  understand  the  expression  used  in  Sa3m.  53''^  of
 Thorr  and  Tyr :  foro  driugom  (ibant  tractim,  raptim,  eXfcrjSov),  for
@@ -16179,7 +16179,7 @@ driving  waggons  which  they  get  mended,  the  fairies  in  our  nursery-
 VEHICLES.     iionsES.  329
 
 tales  travel  tlirougli  the  air  in  coaclies,  and  Brynliiklr  drives  in  her
-■wa<T"on  to  the  nether  world,  Sicm.  227.  The  imafre  of  a  Gothic
+■wa T"on  to  the  nether  world,  Sicm.  227.  The  imafre  of  a  Gothic
 deity  in  a  waggon  was  alluded  to  on  p.  107 ;  among  the  gods,
 Freyr  is  expressly  described  as  mounted  on  his  car,  while  Thorr
 has  a  waggon  drawn  by  he-goats  :  on  Woden's  waggon,  conf.  p.
@@ -16237,7 +16237,7 @@ it  occurs  so  often  in  the  Greek  :  that  the  gods,  to  screen  themselv
 from  sight,  shed  a  mist  round  themselves  or  their  favourites  who
 are  to  be  withdrawn  from  the  enemy's  eye,  II.  3,  381.  5,  776.  18,
 205.  21,  549.  597.  It  is  called  rjept,  KaXxrmeiv,  rjepa  xeti',  a-)(\.vv  or
-ve(^o<i  (T-ecpecv,  and  the  contrary  a^Xw  a-Kehd^etv  to  scatter,  chase
+ve(^o i  (T-ecpecv,  and  the  contrary  a^Xw  a-Kehd^etv  to  scatter,  chase
 away,  the  mist.  We  might  indeed  take  this  into  account,  that  the
 same  valkyrs  who,  like  the  Servian  vily,  favour  and  shield  their
 beloved  heroes  in  battle,  were  able  to  produce  clouds  and  hail  in
@@ -16306,7 +16306,7 @@ ov  BpLupeoiv  KokeovcTL  deol,  dvSpe<;  Se  re  Traz^re?
 
 Acyalcou.     II.  1,  403.
 
-rrjp  ^Tot  avSpe<i  Bariecav  KLK\rj(jKovaLv,
+rrjp  ^Tot  avSpe i  Bariecav  KLK\rj(jKovaLv,
 
 ^  De  la  veiine  de  Dieu  i  Arras,  in  Jubinal's  Nouveaii  recueil  de  contcs  2,
 377-8.
@@ -16316,7 +16316,7 @@ rrjp  ^Tot  avSpe<i  Bariecav  KLK\rj(jKovaLv,
 
 aOdvajot  Si  re  arjfjia  7ro\v(7Kup9/jLOio  Mupu'7]<;.      2,  813.
 ^aX/ci'Sa  KiK\y](TKOvai,  6eoi,  civhpe^  he  ku/jllvSlv.     14,  291.
-OP  aavOov  KoXeovai  deoi,  ciphpe<i  Se  ^Kci/jiavSpov.     20,  74.^
+OP  aavOov  KoXeovai  deoi,  ciphpe i  Se  ^Kci/jiavSpov.     20,  74.^
 fjLoiKv  Se  /.itv  Kokiovcrc  OeoL      Ocl.  10,  305.
 A  whole  song  in  the  Edda  is  taken  up  with  comparing  the  languages,
 not  only  of  gods  and  men,  but  of  Vanir,  elves,  dwarfs,  giants  and
@@ -16386,7 +16386,7 @@ word,  but  we  do  not  hear  of  any  other  name  for  the  goddess.  In
 the  same  way  Xanthus  and  Skamander,  Batieia  and  IMyrina  might
 be  the  different  names  of  a  thing  in  different  dialects.  More
 interesting  are  the  doulile  names  for  two  birds,  the  'xjaXid'^  or
-KVfiLvBi<;  (conf.  Plin.  10,  10),  and  the  alero^  and  irepKvo^.  Xa\Ki<i
+KVfiLvBi<;  (conf.  Plin.  10,  10),  and  the  alero^  and  irepKvo^.  Xa\Ki i
 is  supposed  to  signify  some  bird  of  prey,  a  hawk  or  owl,  which  does
 not  answer  to  the  description  6pvi,<;  \iyvpd  (piping),  and  the  myth
 requires  a  bird  that  in  sweet  and  silvery  tones  sings  one  to  sleep,
@@ -16662,7 +16662,7 @@ immortal  deeds,  and  attains  divine  honours.  As  in  the  gradation
 of  ranks  the  noble  stands  between  the  king  and  the  freeman,  so
 does  the  hero  between  God  and  man.  From  nobles  come  forth
 kings,  from  heroes  gods,  r^pw?  earlv  ef  uvOpwirov  rt  kol  deov
-a-vvOerov,  o  fxr)Tid  dvOpcoTro'i  earl,  iii^re  6eo<i,  Koi  avvaix^orepov  earl
+a-vvOerov,  o  fxr)Tid  dvOpcoTro'i  earl,  iii^re  6eo i,  Koi  avvaix^orepov  earl
 (Lucian  in  Dial,  mortuor.  3),  yet  so  that  the  human  predominates :
 '  ita  tamen  ut  plus  ab  liomine  habeat,'  says  Servius  on  Aen.  1,  200.
 The  hero  succumbs  to  pains,  wounds,  death,  from  which  even  the
@@ -16697,7 +16697,7 @@ own  vir  (=Goth.  vair  ON",  ver,^  AS.  OHG.  wer,  Lett,  wihrs,  Lith.
 wyras)  in  the  sense  of  vir  fortis  (Tac.  Germ.  3)  so  nearly  conies  up
 to  the  Sanskr.  vira  heros.  Heros,  ■>/p&)?,  which  originally  means  a
 mere  fighter,  has  been  identified  with  rather  too  many  things:  hcrus,
-"Hpr],  'HpaKXrj<i,  even  "Apr]<;  and  dpert)  =  virtus,  so  that  the  Goth,
+"Hpr],  'HpaKXrj i,  even  "Apr]<;  and  dpert)  =  virtus,  so  that  the  Goth,
 dims,  OX.  ar,  ari— nuntius,  minister,  might  come  in  too,  or  the
 supposed  digamma  make  a  connexion  with  the  aforesaid  vira  look
 plausible.  More  undeniably,  our  held  is  a  prolongation^  of  tlie
@@ -16854,7 +16854,7 @@ of  the  office  that  the  Greeks  assigned  to  Zeus.  Donar  too  was  son
 of  Earth  as  well  as  of  Wuotan,  even  as  Gaia  brought  forth  the  great
 mountain-ranges  (ovpea  /xaKpd,  Hes.  theog.  129  =  Goth,  fairgunja
 mikila),  and  Donar  himself  was  called  mountain  and  fairguneis  (pp.
-169.  172),  so  that  ovpav6<;  sky  stands  connected  w^ith  ovpo<i  6po<i
+169.  172),  so  that  ovpav6<;  sky  stands  connected  w^ith  ovpo i  6po i
 mountain,  the  idea  of  deus  with  that  of  ans  (pp.  25.  188).  Gaia,
 Tellus,  Terra  come  round  again  in  our  goddesses  Fiorgyn,  lorS  and
 Kindr  (p.  251)  ;  so  the  names  of  gods  and  goddesses  here  cross  one
@@ -17673,7 +17673,7 @@ publicly  and  jointly  ;  coi^  supra,  p.  57.
 IKMIX.      IRING.  3G1
 
 habere  dcsideratis,  et  nos  vobis  non  sulUcimus,  Ericum,  quondiuii
-re<Tem  vestvum,  nos  unanirnes  in  collcijium  nostrum  asciscinms}  ut
+re Tem  vestvum,  nos  unanirnes  in  collcijium  nostrum  asciscinms}  ut
 sit  unus  de  nunicro  dcomm.' — I  have  transcribed  the  wliole  passage,
 because  it  aptly  expresses  the  attitude  of  the  pagan  party,  and  the
 liikewarmness  already  prevailing  towards  their  religion :  the
@@ -17891,16 +17891,16 @@ makes  Ulixes  the  founder  of  Asciburg,  nothing  is  simpler  than  to
 suppose  him  to  have  been  Tsco,  Escio,  Asko  (p.  350)  ;  and  if  it  was
 Isco  tliat  set  the  Eomans  thinking  of  Ul-ixes,  how  it  helps  to  esta-
 blish the  sc  in  Iscaevones  !  Maiinus  the  father  of  Isco  may  have
-suggested  Laertes,  inasmuch  as  \a6<i  people,  and  \ao<i  stone,  are
+suggested  Laertes,  inasmuch  as  \a6 i  people,  and  \ao i  stone,  are
 mixed  up  in  the  creation  of  the  first  man  (the  origo  gentis)  out  of
 stone  or  rock  (see  ch.  XIX)  ;  in  the  same  way  Asco  grew  up  out  of
-the  tree  (ash),  and  hpu<i  and  ireTpt)  stand  together  in  the  mytlms,
+the  tree  (ash),  and  hpu i  and  ireTpt)  stand  together  in  the  mytlms,
 
 
 366  HEROES.
 
-not  without  meaning.      As  lint  from   liotan,  \a6<i  seems  to  come
-from  the  same  root  as  Xao<f,  \aa<;}
+not  without  meaning.      As  lint  from   liotan,  \a6 i  seems  to  come
+from  the  same  root  as  Xao f,  \aa<;}
 
 The  interpretatio  Eomana  went  more  upon  analogies  of  sense
 than  of  sound ;  so,  in  dealing  with  Castor  and  Pollux,  I  will  not
@@ -18330,7 +18330,7 @@ m
 and
 
 
-3  Weilekin<rs  Hermann  duke  of  Saxony,  Luneb.  1817,  p.  60.  Conf.  the
+3  Weilekin rs  Hermann  duke  of  Saxony,  Luneb.  1817,  p.  60.  Conf.  the
 iles  IJillinc,  coinca  Billiiigus  in  docs,  of  961-8  in  Hiifei-s  zeitschr.  2,  239.  344,
 id  the  OHG.  form  Billuiigius  in  Zeuss,  Trad,  wizenb.  pp.  274.  287.  305.
 
@@ -18554,7 +18554,7 @@ and  therefore  invents  the  four-horse  chariot,  as  Volundr  does  the
 boat  and  wings.  One  with  Erichthonius  are  the  later  Erechtheus
 and  his  descendant  Daedalus,  who  invented  various  arts,  a  ring-
 dance,  building,  &c.,  and  on  whose  wings  his  son  Icarus  was  soaring
-when  he  fell  from  the  clouds.  But  AaihaXo^i  ^  is  Bal8a\o<i,  BaiSaX-
+when  he  fell  from  the  clouds.  But  AaihaXo^i  ^  is  Bal8a\o i,  BaiSaX-
 eo?,  cunningly  wrought,  SatSaX/ia  (like  dyaXfia)  a  work  of  art,  and
 SacMWeiv  the  same  as  our  lost  wielan.  As  our  list  [like  the  Engl,
 cunning  and  craft]  has  degenerated  from  its  original  sense  of  scientia
@@ -20306,12 +20306,12 @@ aaaa  ol  Alaa
 yeivo/xevq)  iTrevrjcre  Xlvut,  ore  fitv  re/ce  fn]T7]p.      II.  20,  127  ;
 '  what  things  Aisa  span  for  him  at  birth  with  her  thread  '.     But  in
 Od.  7,  197  other  spinners  (two)  are  associated  with  her :
-aaaa  ol  Alaa  KaTaK\co6e<i  re  /3apelac
+aaaa  ol  Alaa  KaTaK\co6e i  re  /3apelac
 
 lyeivo/xevcp  vi]aavTO  Xivco,  ore  jjllv  T€Ke  fJ'^jrrjp  •
 '  M'hat  Aisa  and  the  Kataklothes  unkind  span '.     Hesiod  {dair.  258)
 makes   three    goddesses   stand    beside    the    combatants,   KKwOm,
-Ad-)(eaL<i,  "ATpoTTO'i,  the  last  small  of  stature,  but  eldest  and  most
+Ad-)(eaL i,  "ATpoTTO'i,  the  last  small  of  stature,  but  eldest  and  most
 exalted  of  all.     But  in  Theog.  218  he  names  them  as
 
 KX(o6(ti  re  Adyealv  re  Kal  "ArpoTTov,  a'lre  /Bporotaiv
@@ -20326,7 +20326,7 @@ singing  the  destiny,  Lachesis  ra  rye'yovora,  Klotho  ra  ovra,  Atropos
 ra  fieXKovra  :  just  the  same  relation  to  past,  present  and  future  as
 the  norns  have,  though  the  Greek  proper  names  do  not  themselves
 exj)ress  it.  Kkwddo  (formed  like  Av^m,  GaWco,  Arjro),  Mop/xM,
-Top<y(jii)  spins  (from  Kkwhw  spin,  twine),  Lachesis  allots  (from
+Top y(jii)  spins  (from  Kkwhw  spin,  twine),  Lachesis  allots  (from
 Xa-xelv),  "Arpo7To<;,  the  unturnable,  cuts  the  thread.  It  must  not  be
 overlooked,  that  Hesiod  sets  up  the  last,  Atropos,  as  the  mightiest,
 while  with  us  AVurt  the  eldest  produces  the  most  powerful  impres-
@@ -20913,7 +20913,7 @@ those  nine  in  white  and  nine  in  black,  who  came  riding  up  in  suc-
 cession (p.  421).
 
 I  have  set  norns  and  /xotpai,  side  by  side ;  with  equal  aptness  a
-comparison  can  be  drawn  between  valkyrs  and  Krjpe<i  (without  any
+comparison  can  be  drawn  between  valkyrs  and  Krjpe i  (without  any
 verbal  affinity,  for  no  doubt  the  likeness  is  only  an  apparent  one) :
 the  K7JP  too  might  be  seen  on  the  battlefield  in  bloody  garments,
 tending  the  wounded,  dragging  away  the  dead.  A  Kijp  is  allotted

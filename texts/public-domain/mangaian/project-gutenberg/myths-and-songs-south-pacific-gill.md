@@ -3631,7 +3631,7 @@ Maui  the  Third  told  them  that  he  had  made  a  grand  discovery
 Jo  Myths  and  Soitgs.
 
 "Where  is  it  situated?"  inquired  they.  "Down  t/we"  said
-Maui  the  Younger.  "  Do^vn  7<://^<fr<? .?"  they  demanded.  "Down
+Maui  the  Younger.  "  Do^vn  7<://^ fr<? .?"  they  demanded.  "Down
 there,^^  again  shouted  Maui.  The  fact  was,  they  were  not  aware  of
 the  secret  opening  in  their  house  leading  to  Avaiki.  At  the
 earnest  soHcitation  of  Maui,  they  all  consented  to  follow  him.

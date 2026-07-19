@@ -129,7 +129,7 @@ F.   MAX    MULLER
 VOL.    I
 
 
-<B}:tovt^
+ B}:tovt^
 
 AT      THE      CLARENDON      PRESS
 1879
@@ -2127,7 +2127,7 @@ o
 B
 N
 
-<r^^3a^aj  :  1^-1/ :  :  :  :  :        «2^  :  ^  :
+ r^^3a^aj  :  1^-1/ :  :  :  :  :        «2^  :  ^  :
 
 'u
 
@@ -2166,7 +2166,7 @@ in
 
 •a                                •      •
 
-■    <rt
+■     rt
 
 CONSONANTS.
 
@@ -2259,7 +2259,7 @@ c;  q    .  r  f-    .  »-ij-^
 0
 
 
-p    <J
+p     J
 
 
 Vn
@@ -2424,7 +2424,7 @@ OJ  S
 
 o!  52
 
-c3  <a
+c3   a
 
 
 ;3
@@ -2477,7 +2477,7 @@ e  &
 n
 
 
-e<H
+e H
 
 
 ■3
@@ -2486,7 +2486,7 @@ e<H
 ■]
 
 
-<J
+ J
 
 
 ^Lr
@@ -2663,7 +2663,7 @@ Oh
 •02
 
 
-<o3
+ o3
 >
 
 C
@@ -2687,10 +2687,10 @@ PREFACE   TO    THE
 M
 
 
-o3     <cS     •"     <—
+o3      cS     •"     <—
 
 
-3    <3     oj    <aj    <as
+3    <3     oj     aj     as
 
 
 3
@@ -2754,7 +2754,7 @@ IV /IV
 3
 
 
-O     51)     'O      c3     <rt     •-<
+O     51)     'O      c3      rt     •-<
 
 
 5-
@@ -2770,11 +2770,11 @@ O     51)     'O      c3     <rt     •-<
 03
 
 
-<o
+ o
 
 
 3
-3    ><u
+3    > u
 
 
 3
@@ -2899,7 +2899,7 @@ C
 
 
 3
-i-H(MfCl'^0«Or>.OOC30'-iWC<5Tt<kOCDN.OO
+i-H(MfCl'^0«Or>.OOC30'-iWC<5Tt kOCDN.OO
 
 
 01
@@ -3051,7 +3051,7 @@ J
 
 q
 
-05     O     1— I     <M     CO     Tf<
+05     O     1— I      M     CO     Tf<
 ^     (M     (M     (M     CVJ     (M
 
 
@@ -4225,7 +4225,7 @@ conjecture ;  but  in  that  case  it  seems  to  me  clear  that,  if
 we  adopted  it,  we  should  have  at  the  same  time  to  omit
 the  whole  sentence  which  follows.  6"ahkara  saw  clearly
 that  what  had  to  be  accounted  or  explained  was  why  the
-king  should  address  the  Brahman  first,  samra<r/  eva  purva;/z
+king  should  address  the  Brahman  first,  samra r/  eva  purva;/z
 papraH'/^a ;  whereas  if  Ya^uavalkya  had  come  with  the
 intention  of  having  a  conversation  with  the  king,  he,  the
 Brahman,  should  have  spoken  first.  This  irregularity  is
@@ -5362,7 +5362,7 @@ oi
 ri
 
 
-§"  <j   10.  Fifth  Adhyaya,  Purushe  ha  va,  has  one  Kha«rfa,  24.
+§"   j   10.  Fifth  Adhyaya,  Purushe  ha  va,  has  one  Kha«rfa,  24.
 ^  L  II.  Sixth  Adhyaya,  Ko  'yam  atmeti,  has  one  Kha.nda,  25.
 j3       12.  Seventh  Adhyaya,  Van  me  manasi,  has  one  Kha«c?a,  26.
 
@@ -5467,7 +5467,7 @@ A
 gloss  by  Vi^vej-varatirtha  on  a  commentary  by  Anandatir-
 thabhagavatpada/^arya,  also  called  Pur//apra^ua/^arya,  who
 explained  the  whole  of  the  Mahaitareya-upanishad  from  a
-Vaish;<!ava  point  of  view.
+Vaish; !ava  point  of  view.
 
 IV.
 
@@ -5983,7 +5983,7 @@ meditate  on  the  udgitha  (Om)  as  vyana.
 
 6.  Let  a  man  meditate  on  the  syllables  of  the
 udgitha,  i.  e.  of  the  word  udgitha.  Ut  is  breath
-(pra;<ja),  for  by  means  of  breath  a  man  rises  (ut-
+(pra; ja),  for  by  means  of  breath  a  man  rises  (ut-
 tish//^ati).  Gi  is  speech,  for  speeches  are  called
 gira/^.  Tha  is  food,  for  by  means  of  food  all
 subsists  (sthita).
@@ -7468,7 +7468,7 @@ Ill    PRAPArZfAKA,  4  KUANDA,   I.  39
 Second  Kha^vda.
 
 1.  The  southern  rays  of  the  sun  are  the  honey-
-cells  on  the  rioht.  The  Ya<rus  verses  are  the  bees,
+cells  on  the  rioht.  The  Ya rus  verses  are  the  bees,
 the  Ya^ur-veda  sacrifice  is  the  flower,  the  water  (of
 the  sacrificial  libations)  is  the  nectar  (of  the  flower).
 
@@ -11358,7 +11358,7 @@ tions made  before,  beginning  with  the  declaration  that  names  are
 Brahman,  and  ending  with  the  declaration  that  hope  is  Brahman; —
 one  who  knows  that  pra«a,  spirit,  the  conscious  self,  is  Brahman.
 This  declaration  represents  the  highest  point  reached  by  ordinary
-people,  but  Narada  wishes  to  go  beyond.  In  the  Mu«</Aka,  III,
+people,  but  Narada  wishes  to  go  beyond.  In  the  Mu« /Aka,  III,
 I,  4,  an  ativadin  is  contrasted  with  one  who  really  knows  the
 highest  truth.
 
@@ -14777,7 +14777,7 @@ be  all  Trish/ubhs.    Comm.
 ^  From  the   Sawzhita,   which  consists   of  ten  thousand  verses.
 Comm.
 
-*  Rv.  X,  178.     Tarksha  Garu</a  being  the  deity  of  the  hymn,
+*  Rv.  X,  178.     Tarksha  Garu /a  being  the  deity  of  the  hymn,
 it  is  called  Tarkshya.
 
 '  Cf.  I,  5,  3;  13-
@@ -17272,7 +17272,7 @@ keya ;  their  union  is  the  ether,  thus  did  Makshavya
 teach  it.
 
 3.  That  air  is  not  considered  ^  independent  ^,
-therefore  I  do  not  agree  with  his  (Ma?^<T^uka's)
+therefore  I  do  not  agree  with  his  (Ma?^ T^uka's)
 son,
 
 4.  Verily,  the  two  are  the  same,  therefore  air  is
@@ -17333,7 +17333,7 @@ united  with  offspring,  cattle,  fame,  glory  of  coun-
 tenance, and  the  world  of  Svarga.  He  lives  his
 full  age.
 
-1 1.  Now  all  this  comes  from  the  Ma;^</ukeyas.
+1 1.  Now  all  this  comes  from  the  Ma;^ /ukeyas.
 
 Second  Kha^vda.
 
@@ -19632,7 +19632,7 @@ pra;^a  (breath,  the  living  and  breathing  power)  in-
 deed is  the  self  of  pra^fia  (the  self-conscious  self),
 blessed,  imperishable,  immortal.  He  does  not  in-
 crease by  a  good  action,  nor  decrease  by  a  bad
-action.  For  he  (the  self  of  pra;<ja  and  praf  na)  makes
+action.  For  he  (the  self  of  pra; ja  and  praf  na)  makes
 him,  whom  he  wishes  to  lead  up  from  these  worlds,
 do  a  good  deed  ;  and  the  same  makes  him,  whom
 he  wishes  to  lead  down  from  these  worlds,  do  a  bad
@@ -21029,7 +21029,7 @@ Novum  Testamentum  Graece.    Accedunt  parallela  S.  Scrip-
 
 turae  loca,  necnon  vetus  capitulorum  notatio  et  canones  Eusebii.    Edidit
 Carolus  Lloyd,  S.T.P.R.,  necnon  Episcopus  Oxoniensis.  i8mo.  cloth,  3s.
-T/pe  same  on  <zvriting paper,  luith  large  margin,  cloth,  los.  6d.
+T/pe  same  on   zvriting paper,  luith  large  margin,  cloth,  los.  6d.
 
 Novum  Testamentum  Graece  juxta  Exemplar  Millianum,
 i8mo.  cloth,  2s.  (id.
@@ -21440,7 +21440,7 @@ Jewel's  Works.  Edited  by  R.  W.  Jelf,  D.D,  8  vols.  1847.
 Patrick's  Theological  Works.     9  vols.  1859,  Svo.  cloth,  il.  is.
 
 Pearson's  Exposition  of  the  Creed.  Revised  and  corrected  by
-E.  Burton,  D.D.     Sixth  Edition,  1877.  8vo.  cloth,  I0.<t.  6d.
+E.  Burton,  D.D.     Sixth  Edition,  1877.  8vo.  cloth,  I0. t.  6d.
 
 Pearson's  Minor  Theological  Works.  Now  first  collected,  with
 a  Memoir  of  the  Author,  Notes,  and  Index,  by  Edward  Churton,  M.A.
@@ -21563,7 +21563,7 @@ Freeman's  (E.  A.)  History  of  the  Norman  Conquest  of  England :
 its  Causes  and  Results.     In  Six  Volumes.     Svo.  cloth,  5/.  9s.  6d.
 
 Vols.  I-II  together,  il.  i6s.         Vols.  III-V,  il.  is.  each.
-Vol.  VI.     Index.     Svo.  c/o/^,  lOs.  6</.     Just  Piiblished.
+Vol.  VI.     Index.     Svo.  c/o/^,  lOs.  6 /.     Just  Piiblished.
 
 Lloyd's  Prices  of  Corn  in  Oxford,  1583-1830.  Svo.  sewed,  u.
 

@@ -1397,7 +1397,7 @@ of  Fine  Arts,  Boston.)
 
 group  of  Mithra  Tauroctonos,  to  which  uni
 versal  custom  thenceforward  reserved  the
-place  of  honor  in  the  apse  of  the  spel<za*
+place  of  honor  in  the  apse  of  the  spel za*
 
 But  not  only  did  art  employ  its  powers  to
 soften  the  repulsive  features  which  these  rude
@@ -3055,7 +3055,7 @@ III  il,n  '
 
 M  5  £  e  £
 
-1     <s    ^
+1      s    ^
 
 P-I
 
@@ -6170,7 +6170,7 @@ seven  degrees  of  initiation  through  which  the
 forced  to  traverse  in  order  to  reach  the  abode
 of  the  blessed.*  After  having  been  Raven,
 the  initiates  were  promoted  to  the  rank  of
-Occult  (Kpv(f)io<i).  The  members  of  this  class,
+Occult  (Kpv(f)io i).  The  members  of  this  class,
 hidden  by  some  veil,  probably  remained  in-
 visible  to  the  rest  of  the  congregation.  To
 exhibit  them  (pstendere\  constituted  a  solemn

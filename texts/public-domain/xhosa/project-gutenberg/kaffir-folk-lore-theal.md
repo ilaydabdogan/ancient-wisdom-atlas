@@ -8880,7 +8880,7 @@ she  might  say  from  the  bottom  of  her  heart,  with  Elizabeth  of
 old,  that  "her  reproach  was  taken  away  from  among  men.'*
 Sometimes  she  is  returned  by  her  husband  to  her  parents,  a
 proceeding  commonly  adopted  when  she  has  a  marriageable
-sister  who  ca<i  be  given  to  him  in  exchange.  The  husband  is
+sister  who  ca i  be  given  to  him  in  exchange.  The  husband  is
 required,  however,  before  repudiating  his  wife,  to  go  through  the
 customary  ceremonies,  which  are  described  in  the  following
 

@@ -8129,7 +8129,7 @@ D lA
 
 *5  ?
 
-<xL
+ xL
 
 rt  O >1
 
@@ -8173,7 +8173,7 @@ W
 
 ).r  .
 
-■£  <u  ,3
+■£   u  ,3
 
 !A
 
@@ -8292,7 +8292,7 @@ a
 
 j-T  ^
 
-<D
+ D
 
 -s  §.?
 
@@ -8671,7 +8671,7 @@ S|  a£
 
 sh  ^ tjO
 
-bJO  <U  .rH  |3
+bJO   U  .rH  |3
 
 S 3 ^
 ^ ^ 55
@@ -10990,7 +10990,7 @@ Kuial  ^ men  are  mimerti  to  Murungun  ^ men,  and  vice  versa,
 I call  my  father  naluru.
 
 All  men  whom  my  father  calls  gnauaii  (elder  brothers)
-and  niritja  (younger  brothers)  are  Murungun  <x,  and  they  are
+and  niritja  (younger  brothers)  are  Murungun   x,  and  they  are
 naluru  to  me.
 
 My  nalurus'  sisters  are  Murungun  a,  and  they  are
@@ -11124,7 +11124,7 @@ child on  the  female  side,  just  as  the  term  muri-muri  does  on
 the  male  side.
 
 My  male  muri-muri  s (grandsons’)  children — that  is,  my
-great-grandchildren — are  Murungun  <x,  just  as  my  children
+great-grandchildren — are  Murungun   x,  just  as  my  children
 are,  and  I call  them  gambirti.
 
 My  napitjatjas'  (daughter’s  daughter)  children  are  Mum-
@@ -34507,7 +34507,7 @@ the  head,  and  in  the  more  normal  forms  point  backwards
 and  are  very  numerous.  The  head  is  always  made  of  hard
 wood,  and  is  attached  to  the  shaft  by  means  of  a mass  of
 
-<Qa
+ Qa
 
 FIG.  227. — SPEAR.  DALY  RIVER  NATIVES.
 

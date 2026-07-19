@@ -3381,7 +3381,7 @@ this  they  became  very  much  frightened.  So  Rabbit  went  to  a
 beaver  place,  and  putting  a  stick  in  the  hole,  she  felt  a  beaver  in
 it.  Then  Rabbit  went  home  and  told  Marten,  and  they  both
 were  glad  to  get  a  beaver  and  save  their  lives.  Then  they  both
-went  ba<fk  to  the  hole.  While  Rabbit  was  pulling  the  beaver
+went  ba fk  to  the  hole.  While  Rabbit  was  pulling  the  beaver
 out  of  the  hole  and  had  hold  of  his  hind  quarters,  Lynx  came
 along  and  tickled  Rabbit,  so  that  she  let  go  and  the  beaver
 escaped.  Lynx  was  bent  on  mischief.  He  said,  "If  you  don't

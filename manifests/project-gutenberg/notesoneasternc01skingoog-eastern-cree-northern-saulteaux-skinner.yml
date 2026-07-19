@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_notesoneasternc01skingoog
+  work_id: native_american.eastern_cree.skinner_archive
+  title: Notes on the Eastern Cree and Northern Saulteaux
+  source_url: https://archive.org/details/notesoneasternc01skingoog
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/notesoneasternc01skingoog-eastern-cree-northern-saulteaux-skinner.txt
+    checksum:
+      algorithm: sha256
+      value: a46ab95b5bec8e65d3468fc4392a73c548feb8f2f7ff5f7083e0cc674c240b88
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/notesoneasternc01skingoog-eastern-cree-northern-saulteaux-skinner.md
+    checksum:
+      algorithm: sha256
+      value: 71d68c6c8b45a13613804a2c5eaa620c83f0d0aaaf6ab4fdd25837d6f0161447
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+    checksum:
+      algorithm: sha256
+      value: b7c1e544a7190970d6ebc901e42cf59df47455fa2e578dab59cc908cc779b240
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.eastern_cree.skinner_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1911, US public domain. Mixed verbatim/paraphrase - subarctic
+      ethnography with recorded myths from James Bay Cree and Saulteaux narrators.
+      Google-scanned OCR carries a boilerplate header. Windigo and conjuring material
+      is community-sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

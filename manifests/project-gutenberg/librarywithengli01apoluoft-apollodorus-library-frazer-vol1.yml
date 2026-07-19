@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_librarywithengli01apoluoft
+  work_id: greek.apollodorus.library.frazer_archive_v1
+  title: The Library, Volume I (Apollodorus), with an English Translation by James
+    George Frazer
+  source_url: https://archive.org/details/librarywithengli01apoluoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/librarywithengli01apoluoft-apollodorus-library-frazer-vol1.txt
+    checksum:
+      algorithm: sha256
+      value: cd3819d3886f82c862e769d9e158c2f7badf28bc3f317d4a6325f24eab1ea2eb
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/librarywithengli01apoluoft-apollodorus-library-frazer-vol1.md
+    checksum:
+      algorithm: sha256
+      value: d270a6700fcea7f04bb6a3244423be4d83a64b9f674192be81166ff90a2fa959
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+    checksum:
+      algorithm: sha256
+      value: c9fb108c7964d84aa2be1f43b46f7d4e9cfe125a6fd6d5810d611822eecafece
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids greek.apollodorus.library.frazer_archive_v1
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1921, US public domain. Loeb edition; OCR plain text includes
+      Greek facing pages that render as noise, but the English translation and Frazer's
+      notes extract cleanly. Volume II lacks a plain-text derive on Internet Archive
+      and was omitted.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

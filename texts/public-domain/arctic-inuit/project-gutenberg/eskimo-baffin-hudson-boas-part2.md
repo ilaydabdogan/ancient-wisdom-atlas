@@ -2712,7 +2712,7 @@ same  shape,  characterized
 particularly  by  a  rectangular
 top,  which  is  often  provided
 
-am^pf<in'isiS''i'eStt?®4'4  decorative  designs  con-
+am^pf in'isiS''i'eStt?®4'4  decorative  designs  con-
 
 Length  18  cm.;  c  Netchillik,  length  gigting  of  lines  and  dotS.
 
@@ -3720,7 +3720,7 @@ grooves.  On  the  inside
 
 ^  245.^  Kettles,  a  Gore  Bay  (length
 
-the  joints  are  caulked  wi<Uh  30  cm.,  height,  14  cm.);  h  (^t),
+the  joints  are  caulked  wi Uh  30  cm.,  height,  14  cm.);  h  (^t),
 
 .  .  .  Smith  Sound  (length  25  cm.,  width  13  cm.,  height
 

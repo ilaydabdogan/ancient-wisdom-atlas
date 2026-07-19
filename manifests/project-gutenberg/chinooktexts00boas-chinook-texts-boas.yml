@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_chinooktexts00boas
+  work_id: native_american.chinook_texts.boas_archive
+  title: Chinook Texts
+  source_url: https://archive.org/details/chinooktexts00boas
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/chinooktexts00boas-chinook-texts-boas.txt
+    checksum:
+      algorithm: sha256
+      value: e82ec980b91ea67a515a87fca9c13eb267523977c6c14a8488c9112d37f75a81
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/chinooktexts00boas-chinook-texts-boas.md
+    checksum:
+      algorithm: sha256
+      value: 972e7ed7f1d9376431a3b53dc7bba2d683fc22b94ae960998bdfe1eadce279ea
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+    checksum:
+      algorithm: sha256
+      value: 9fc3106f61861fd9b8d1c5e1883e16511eb32604f2fd9e9d7755871f1bc5fedb
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.chinook_texts.boas_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - gold-standard
+      verbatim; nearly the entire corpus dictated by one named narrator (Charles Cultee),
+      interlinear Chinook with close English translation; the language was nearly
+      extinct at recording time.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

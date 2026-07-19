@@ -4770,7 +4770,7 @@ veda, where poems of different ages, different places, and
 [32] §
 
 
-XCVII1 - -<VWEDIC HYMNS.
+XCVII1 - - VWEDIC HYMNS.
 
 
 different families have been put together, we must be
@@ -7678,7 +7678,7 @@ his commentary (Sama-veda II, 6, 3, 12, 1) has parito:va-
 sthita lokatrayavartinaz pravzinak.
 
 
-Note 3. Rosante rofana. <A similar expression occurs
+Note 3. Rosante rofana.  A similar expression occurs
 III, 61, 5, where it is said of Ushas, the dawn, that she
 
 
@@ -14790,7 +14790,7 @@ on their chariot), their companion for victory (subhé
 nimislam),
 
 Sayava: ‘For the sake of water, or, on the brilliant
-chariot’ “<Ghi, 437, 6; 16504.
+chariot’ “ Ghi, 437, 6; 16504.
 
 VI, 62, 4. sibham p7¢ksham isham trgam vdhanta.
 

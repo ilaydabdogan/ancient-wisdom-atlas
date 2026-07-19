@@ -8721,7 +8721,7 @@ through  the  water  with  great  speed,  but  as  they  have  no  keel
 they  require  careful  ballasting.  Very  small  canoes  are  used
 in  the  narrow  channels  along  the  sides  of  the  rice-fields  to
 convey  the  sheaves  to  the  threshing-floors  on  the  neighbouring
-hi<Th  "rounds.
+hi Th  "rounds.
 
 Few  things  are  more  pjleasant  than  a  canoe  voyage  on
 some  of  the  large  rivers  of  Madagascar,  always  providing
@@ -10034,7 +10034,7 @@ ampitotdam-hiirT/,  i.e.,  "at  the  place  of  pounding  rice,"  when
 the  rays  reach  farther  into  the  building,  and  touch  the  part
 ■where  the  rice-mortar  usually  stands.  Three  o'clock  is
 ainpamatora-janaJi  drnby,  "  at  the  place  of  fastening  the  calf,"
-i.e.,  <when  the  rays  reach  the  middle  post,  where  the  animal
+i.e.,   when  the  rays  reach  the  middle  post,  where  the  animal
 is  tied  up  at  night;  while  at  about  half-past  four  o'clock  is
 called  titfapcika,  "  touched,"  when  the  sun's  rays  reach  the  east
 wall  of  the  house.  So  that  the  arrangement  of  their  houses
@@ -11653,7 +11653,7 @@ might  be  wished),  in  order  that  great  quantities  of  beef  and
 rum  may  be  consumed  by  the  mourners.  This  marks  the
 second  stage  in  the  mourning.  Several  times  every  day  these
 cords  are  drawn  tighter,  and  this  process  is  continued  until
-nothing  but  the  bones  remain.  These  are  then  carefully  lai<l
+nothing  but  the  bones  remain.  These  are  then  carefully  lai l
 in  a  canoe,  with  its  two  ends  cut  square,  and  covered  in.
 When  this  has  been  done,  the  burial  takes  place.  The  coffin
 is  conveyed  amidst  continuous  musket-firing  to  the  family
@@ -13198,7 +13198,7 @@ for  him  and  kill  oxen  to  ward  off  the  impending  death."  ^'"
 
 Then  again,  the  laying  by  a  fowl  of  an  unusually  large
 ^g^  is  regarded  as  ominous  either  of  some  extraordinary
-good  or  evil,  while  an  unusually  small  ^g<g  is  feared  as
+good  or  evil,  while  an  unusually  small  ^g g  is  feared  as
 foreboding  evil.  Something  of  the  same  feeling  comes  up  in
 the  name  given  to  a  small  insect  which  attacks  the  young-
 rice- plants.  It  is  called  Ondrikdin  Andriamcmitra,  "  God's

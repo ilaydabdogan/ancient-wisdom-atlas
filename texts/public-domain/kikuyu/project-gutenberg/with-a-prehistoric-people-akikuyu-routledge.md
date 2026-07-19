@@ -76,7 +76,7 @@ figures:
 
 iMm.
 
-/>  J-x  ;A<vfc
+/>  J-x  ;A vfc
 
 'with  a
 prehistoric  people
@@ -3651,7 +3651,7 @@ O    O  o
 j"  o^oo         0  0
 .   O         OO  01  O
 
-0  0        OO  <to
+0  0        OO   to
 
 OO     qOOOooOii
 ,2?oOOooc,oo
@@ -6971,7 +6971,7 @@ sides  rise  up  considerably  above  their  level.  The  fireclay
 lining  is  brought  well  over  the  edge,  forming  a  wide,  convex,
 everted  border  all  around.     The  interior  of  the  furnace  has
 
-1  The  clan  known  as  the  Mwe-tli(.'--f];<i  or  Ai-ki-u-ru,  and  the  clan  known  as  the
+1  The  clan  known  as  the  Mwe-tli(.'--f]; i  or  Ai-ki-u-ru,  and  the  clan  known  as  the
 A-ga-chi-ku  :   these  last  also  do  not  circumcise.
 -  Cf.  "  Ceremonial  uncleanness,"  p.  258,  No.  24.
 
@@ -7673,7 +7673,7 @@ Thu  Second  Step  in  the  Making  of  Chain
 The  iron  rod,  now  covered  by  its  wire  whipping  and
 with  handle  removed,  is  next  laid  on  a  stone  and  a  cut
 carried  along  its  entire  length,  by  means  of  a  short  chisel
-and  li</ht  wooden  mallet.
+and  li /ht  wooden  mallet.
 
 
 96  b
@@ -11784,7 +11784,7 @@ The  balance  and  feel  of  the  weapon,  when  grasped  in
 the  neighbourhood  of  a,  is  very  similar  to  that  of  the
 fighting  sword  in  everyday  use.  When  picked  up  this
 wooden  sword  automatically  falls  into  position,  with  the
-cutting  edge  (</)  directed  downwards.  It  is  a  cleverly
+cutting  edge  ( /)  directed  downwards.  It  is  a  cleverly
 designed  and  efhcient  weapon.
 
 These  two  articles  are  made  by  an  expert  who  lives
@@ -13022,7 +13022,7 @@ together.
 c.  Wide  strap  passing  up  outer  side  of  thigh  to  carry
 
 the  w^eight  of  the  rattle.
-</  is  stitched  to  the  top  of  c  and  encircles  the  upper
+ /  is  stitched  to  the  top  of  c  and  encircles  the  upper
 
 part  of  the  thigh.
 c  encircles  the  thigh  just  above  the  knee.
@@ -15256,7 +15256,7 @@ i;
 
 4J
 
-</>
+ />
 
 u
 
@@ -15914,7 +15914,7 @@ sidered gracious  to  accompany  it  with  some  Httle  gift.
 The  Akikuyu,  however,  acknowledge  no  moral  or  customary
 obligation  to  befriend  the  poor  or  the  stranger,  or  to  protect
 the  life  and  property  of  the  guest,  except  under  circumstances
-to  which  allusion  has  been  made.  Xapcra<i  is  a  word  the  sig-
+to  which  allusion  has  been  made.  Xapcra i  is  a  word  the  sig-
 nification of  which  is  unknown  to  the  black,  and  too  frequently
 also  to  the  white  in  British  East  Africa.  To  the  M'kikuyu  the
 fact  that  the  stranger  has  eaten  his  food  and  is  sleeping  in  his

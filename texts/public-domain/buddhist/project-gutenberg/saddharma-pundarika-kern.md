@@ -327,7 +327,7 @@ of  the  coin  in  question.
 The  results  arrived  at  by  Burnouf  may  be  right  so  far  as
 any  Mahavaipulya  Sutra,  as  a  whole,  is  concerned  ;  they
 cannot  be  applied  to  all  the  component  parts  of  such  a
-work.  Not  to  go  further  than  the  Saddharma-pu«</arika
+work.  Not  to  go  further  than  the  Saddharma-pu« /arika
 
 1  Introduction  al'histoire  du  Buddhisme  indien,  pp.  103-128.
 1  Burnouf,  Introd.  p.  218  seq.
@@ -665,7 +665,7 @@ dharma-puw^/arika  several  times,  e.g.  in  pa^/agha/z/fasa-
 mirita,  chap.  xxii.  We  may  add  the  Prakritism  ing  in
 samiw^ayati,  Brzhad-ara/zyaka  VI,  4,  23,  the  usual  form
 in  Buddhist  works  in  Sanskrit,  Gathi  dialect,  and  Pali ;
-further  manku,  .Satap.  V,  5,4,  n  ;  ma;/</a  in  the  com-
+further  manku,  .Satap.  V,  5,4,  n  ;  ma;/ /a  in  the  com-
 pound nauma;z^a,  6atap.  II.  3,  3,  15  ;  cf.  bodhi-maw^a.
 An  archaic  trait  in  the  stanzas  is  the  expletive  use  of  the
 particle  u,  e.g.  in  teno,  yeno,  tasyo,  adyo,  for  tena,
@@ -916,7 +916,7 @@ conclude  that  the  more  ancient  text  in  21  chapters,  the
 epilogue  included,  dates  some  centuries  earlier.  Greater
 precision  is  for  the  present  impossible.
 
-We  know  that  a  commentary  on  the  Saddharma-pu«</a-
+We  know  that  a  commentary  on  the  Saddharma-pu« /a-
 rika  was  composed  by  Vasubandhu1.  The  date  of  that
 work,  not  yet  recovered,  it  seems,  must  fall  between  550
 and  600  A.D.,  or  at  least  not  much  earlier,  for  Vasubandhu's
@@ -1204,7 +1204,7 @@ gence of  creatures.  Some  pay  their  worship  by  leading  a
 virtuous  life,  others  by  pious  devotion,  others  by  contem-
 plation, others  by  confessing  a  strictly  monistic  philosophy1,
 others  by  acknowledging  a  personal  god2.  The  Lord  in
-the  Saddharma-pu#</arika  admits  of  being  viewed  in  all
+the  Saddharma-pu# /arika  admits  of  being  viewed  in  all
 these  various  aspects.  Whether  the  Buddha-theory,  such
 as  we  find  it  developed  in  the  Sutra,  not  in  plain  words,
 indeed,  but  by  circumlocutions  and  ambiguities,  should  be
@@ -1750,7 +1750,7 @@ Cambridge  MS.,  which  shows  the  greatest  number  of
 peculiar  readings.  The  text  of  chapter  iv  in  Professor
 Foucaux's  edition  of  the  Parabole  de  1'enfant  e"gare  is
 comparatively  modern  and  bad.  In  general  it  may  be  said
-that  all  the  known  copies  of  the  Saddharma-pu«</arika  are
+that  all  the  known  copies  of  the  Saddharma-pu« /arika  are
 written  with  a  want  of  care  little  in  harmony  with  the  holy
 character  of  the  book.
 
@@ -1846,7 +1846,7 @@ J'examine  murement  une  telle  chose
 Exempte  d'imperfections  et  difficile  a  concevoir
 
 Qui  fait  arriver  la  multitude  a  1'estrade  de  1'Intelligence  (B  drilli-
-ng a»</a)
+ng a» /a)
 
 Moi,  dans  1'origine,  j'&ais  attache*  aux  vues  perverses  (a  1'he're'sie)
 
@@ -2048,7 +2048,7 @@ I  cannot  help  guessing  that  the  name  is  identical  with  S^y,  the
 proper  name  of  Kalanos,  in  Plutarch's  Alexander,  chap.  65 ;  one
 would  expect  Kao-<£t'w7*.
 
-'  The  same  with  Pi»</ola-Bharadva£a,  ^"ullavagga  V,  8.
+'  The  same  with  Pi» /ola-Bharadva£a,  ^"ullavagga  V,  8.
 
 8  In  Pali  Maha-Ko//^ita ;  Mahavagga  X,  5.
 
@@ -2130,7 +2130,7 @@ the  god  Samantagandha  (the  Wind),  the  god  Rat-
 naprabha, the  god  Avabhasaprabha,  and  others;
 further,  the  four  great  rulers  of  the  cardinal  points
 with  thirty  thousand  gods  in  their  train,  viz.  the
-great  ruler  Viru<///aka,  the  great  ruler  Virupaksha,
+great  ruler  Viru ///aka,  the  great  ruler  Virupaksha,
 the  great  ruler  Dlmtarash/ra,  and  the  great  ruler
 Vai^ravawa;  the  god  Lvara  and  the  god  Mahe-
 jvara5,  each  followed  by  thirty  thousand  gods;  further,
@@ -2247,7 +2247,7 @@ other,  tossed,  tossed  along.
 Then  did  those  who  were  assembled  and  sitting
 together  in  that  congregation,  monks,  nuns,  male  and
 female  lay  devotees,  gods,  Nagas,  goblins,  Gan-
-dharvas,  demons,  Garu</as,  Kinnaras,  great  serpents,
+dharvas,  demons,  Garu /as,  Kinnaras,  great  serpents,
 men,  and  beings  not  human,  as  well  as  governors  of
 a  region,  rulers  of  armies  and  rulers  of  four  con-
 tinents, all  of  them  with  their  followers,  gaze  on  the
@@ -4111,8 +4111,8 @@ the  leaders.
 69.  Remove  all  doubt  and  uncertainty ;  and  should
 
 1  Ka/iwzsi  vardhenti.     This  is  a  strangely  altered  ka/asiw
-vardhenti,  Pali  ka/asiw  va</^enti;  see  ^Tullavagga  XII,  i,  3,
-and  cf.  the  expression  ka/asiva</^ano  in  £ataka  (ed.  Fausboll)
+vardhenti,  Pali  ka/asiw  va /^enti;  see  ^Tullavagga  XII,  i,  3,
+and  cf.  the  expression  ka/asiva /^ano  in  £ataka  (ed.  Fausboll)
 I,  p.  146,  and  the  passage  of  Apastamba  II,  9,  23,  4  (in  Biihler's
 transl.  p.  156),  where  cemeteries,  -Sma.ranani,  by  the  commentator
 Haradatta,  are  said  to  denote  '  fresh  births.'
@@ -4504,7 +4504,7 @@ Arhat,  of  Dharma,  and  Sangha.
 1  Properly,  the  most  lofty  place;  the  word  pada  in  the  text
 means  place,  spot,  word,  subject,  &c.
 
-2  A£-?1ata-Kau«<fmya  and  the  four  others  mentioned  in  the  open-
+2  A£-?1ata-Kau« fmya  and  the  four  others  mentioned  in  the  open-
 ing chapter.
 
 3  In  chap.  VII  we  shall  see  that  the  wheel  was  put  in  motion  at
@@ -4646,7 +4646,7 @@ mantra.    In  both  words  secrecy  is  implied,  though  not  expressed.
 If  we  take  the  term  as  synonymous  with  mantra,  the  connection
 between   upayakaujalya,  diplomacy,  skilfulness,  and  sandha-
 bhashita  is  clear.     Cf.  the  Gothic  word  run  a,  both  /SouXij  and
-nvorrfjpiov ;   garuni,   <rvnfiov\iov.     The   theistical   sect   have   taken
+nvorrfjpiov ;   garuni,    rvnfiov\iov.     The   theistical   sect   have   taken
 it  in  the  sense  of  '  God's  counsel,'  but  I  cannot  produce  a  warrant
 for  this  guess.     By  Hiouen  Thsang,  the  term  sandhaya  is  trans-
 lated by  'in  a  hidden  sense/  as  we   know  from  Professor  Max
@@ -6166,16 +6166,16 @@ Sutra.
 sada).     Burnoufs   'cent   batons'  is  evidently  based   upon   the
 reading  sata.
 
-2  Ka«akaku»</aka s £a,  var.  lect.  vftlaka0, with  marginal  correc-
+2  Ka«akaku» /aka s £a,  var.  lect.  vftlaka0, with  marginal  correc-
 tion kanaka0.     The  translation  is  doubtful;    cf.  St.  116  below.
 Kuflfifeka  I  connect  with  ku#/=vikalikara«e  and  the  Greek
 KuAAdr.
 
-3Kro</asa;%krin,var.lect.0sa7»£-mn,with  correction  °sawkkin,
+3Kro /asa;%krin,var.lect.0sa7»£-mn,with  correction  °sawkkin,
 the  reading  I  have  followed,  taking  sawkkin  to  be  identical  with
 sakkin,  a  Prakrit  form  of  Sanskrit  sarpin.
 
-4  Kufl</akalahgaka,  for  which  I  read  °kalahgaka.
+4  Kufl /akalahgaka,  for  which  I  read  °kalahgaka.
 
 
 94
@@ -7670,7 +7670,7 @@ alike;  by  which  plants  and  men(?)   thrive,  endless
 
 1  The  term  used  might  be  rendered  by  '  gospel.'
 
-2  Pratyekabuddha  vanasha#</a£ari#o,  &c.     Burnoufmust
+2  Pratyekabuddha  vanasha# /a£ari#o,  &c.     Burnoufmust
 have  had  quite  a  different  reading.
 
 8  Or  unreality,  junyata.
@@ -7844,7 +7844,7 @@ something  grand  and  imposing,  especially  the  senses  of  a  spiritual
 man,  as  distinguished  from  the  profanum  vulgus.     As  to  the
 Seers,  7?zshis,  here  mentioned,  I  think  that  they  are  the  senses  per-
 sonified, otherwise  called  devas,  gods.    Deva,  to  denote  an  organ
-of  sense,  occurs  frequently,  e.g.  Mu«</aka  Upanishad  III,  i,  8.
+of  sense,  occurs  frequently,  e.g.  Mu« /aka  Upanishad  III,  i,  8.
 
 K  2
 
@@ -8347,7 +8347,7 @@ ments set  off  with  gold  threads.  It  will  be  strewed
 samu££^raya,  which  also  means  western  rise,
 elevation.
 
-2  Apagatasyandanikaguthofiftlla,  var.  lect.°tho</igalla.  My
+2  Apagatasyandanikaguthofiftlla,  var.  lect.°tho /igalla.  My
 rendering  of  the  last  part  of  the  compound  is  conjectural.
 
 
@@ -8905,7 +8905,7 @@ occupied  the  summit  of  the  terrace  of  enlighten-
 ment 1,  he  discomfited  and  defeated  the  whole  host
 of  Mara,  after  which  he  thought :  I  am  to  reach
 
-1  Bodhima«</avaragragata  eva;  var.  lect.  bodhima/zdavaragata  eva,
+1  Bodhima« /avaragragata  eva;  var.  lect.  bodhima/zdavaragata  eva,
 i.e.  just  having  come  to  the  terrace  of  enlightenment.  Var  a  here
 is  vara,  circuit;  it  adds  little  to  the  notion  of  the  simple  bodhi-
 ,  this  also  being  a  round  terrace.
@@ -11800,7 +11800,7 @@ write  or  worship  this  Dharmaparyaya.  So  long  as
 they  do  not  hear  this  Dharmaparyaya,  they  are  not
 yet  proficient  in  the  course  of  a  Bodhisattva.  But
 
-1  Ta</ava/£ara.
+1  Ta /ava/£ara.
 
 
 X.  THE    PREACHER.  221
@@ -12036,7 +12036,7 @@ by  cultivating  his  intimacy  they  shall  behold  Bud-
 dhas  as  numerous  as  the  sands  of  the  Ganges.
 
 
-XL  APPARITION    OF   A    ST<JPA.  227
+XL  APPARITION    OF   A    ST JPA.  227
 
 
 CHAPTER   XI.
@@ -13707,7 +13707,7 @@ female  lay  devotees  as  seek  their  highest  happiness
 nasato)  na  sawtan,  not  non-existent,  not  existent.
 
 1  Burnouf  adds,  'ceux  qui  vendent  des   liqueurs  fermente'es/
-which  is  wanting  in  my  MS.  :  £a«</alair  mush^kai^api  tirthikai^-
+which  is  wanting  in  my  MS.  :  £a« /alair  mush^kai^api  tirthikai^-
 
 
 2  According  to  the  reading,  vin  ay  ed  agamasthita(n).    A  mar-
@@ -13847,7 +13847,7 @@ benevolence,  and  preaches  the  law  to  them  without
 invidiousness3.  He  refrains  from  entering  upon  a
 
 
-1  Kalena  ko  £ittayamatu  (Sansk.  °yamat)  pa«<fita^  pravilayanaw
+1  Kalena  ko  £ittayamatu  (Sansk.  °yamat)  pa« fita^  pravilayanaw
 tatha  gha//ayitva,  vipajyidharmam  imu  sarva  yoniso  utthaya,  &c.
 I  take  gha//ayitva  in  the  sense  of  gha/ayitva=yuktva.
 
@@ -15068,7 +15068,7 @@ the  exception  of  a  tuft  on  the  crown,  the  £ufi?akarmari,  commonly
 follows  the  annapra.rana;  in  the  case  of  Gautama,  however,  it  is
 represented  to  be  subsequent  on  the  kumara  having  left  his  home.
 In  so  far  as  he  cut  off  his  hair  at  the  time  of  his  entering  a  spiritual
-life,  the  act  agrees  with  the  £u</akarman  at  the  upanayana  or
+life,  the  act  agrees  with  the  £u /akarman  at  the  upanayana  or
 initiation  of  boys.
 
 2  Lokadhipatisya  putrsU.
@@ -16555,7 +16555,7 @@ the  >  not  the  1  not  the
 
 100,000)  10  ooo,ooo>  1000,000,000?
 
-ioooxio.000,000)  not  the  ]oo,oool<i6,ooo,ooo>  not  the  100,  ooo  x  10,000  x  10,000,000
+ioooxio.000,000)  not  the  ]oo,oool i6,ooo,ooo>  not  the  100,  ooo  x  10,000  x  10,000,000
 part  ;  it  admits  of  no  calculation,  no  counting,  no
 reckoning,  no  comparison,  no  approximation,  no
 secret  teaching.  So  immense,  incalculable,  A^ita,  is
@@ -16641,7 +16641,7 @@ adopts  it.
 added   by  a  later  hand   in   the  margin,  but  the  characters  are
 indistinct.
 
-2  Pra»itamukhama«</ala;   a  marginal  reading   has   priwa-
+2  Pra»itamukhama« /ala;   a  marginal  reading   has   priwa-
 mukha0.
 
 8  Tathagatari  Mvavadanubhasakaw  pratilabhate.  I  am  not  sure
@@ -18322,7 +18322,7 @@ Thereupon  the  giantesses  called  Lamba,  Vilamva3,
 
 2  The  list  in  Burnouf  differs  but  slightly ;    a.  g.  g.  gandhari
 k&nd&u.  m.  pukkasi  s.  vrulasisi  s.    Vrusali  or  rather  vrusali  must
-be  the  Sanskrit  vrz'shalt.    Gauri,  ^aw<falika,  Matangi  are  known
+be  the  Sanskrit  vrz'shalt.    Gauri,  ^aw falika,  Matangi  are  known
 from  elsewhere  as  epithets  of  Durga ;  Pukkasi  and  Vr/shali  denote
 nearly  the  same  as  .ATam/ali  and  Matangf.
 
@@ -19205,7 +19205,7 @@ the  Bodhisattva  Mahasattva  Gadgadasvara,  without
 leaving  that  Buddha-field  and  without  leaving  his
 
 
-or  gutho</igalla;  according  to  Burnouf  the  word
+or  gutho /igalla;  according  to  Burnouf  the  word
 means  'ordures;'  cf.  above,  p.  142,  and  Pali  oligalla.
 
 2  Spence  Hardy,  Manual  of  Buddhism,  p.  364 :  '  Buddha  is  some-
@@ -19657,7 +19657,7 @@ nounced lose  the  faculty  of  sight  in  their  wicked
 designs5.  If  some  creature,  young  man  of  good
 
 
-1  In  the  Kara«</a-vyuha,  a  work  entirely  devoted  to  the  glorifi-
+1  In  the  Kara« /a-vyuha,  a  work  entirely  devoted  to  the  glorifi-
 cation of  Avalokitesvara  and  his  sublime  achievements,  the   isle
 of  the  Giantesses  is  identified  with  Ceylon ;  see  pp.  45  and  53  of
 that  work  (Calcutta  edition),  and  the  extract  given  by  Burnouf,
@@ -19755,7 +19755,7 @@ lady  will  produce  in  consequence  of  it  ?  So  asked,
 1  We  should  rather  say :  in  whom  a  good  natural  disposition  is
 implanted.
 
-2  In  the  margin  added  paramaya  <rubhavar«apushkalataya',
+2  In  the  margin  added  paramaya   rubhavar«apushkalataya',
 (and)  of  an  egregiously  blooming  complexion.
 
 3  Dvashash/inaw  Gahga0.
@@ -20070,7 +20070,7 @@ Avalokite^vara,  is  worthy  of  adoration.
 
 1  Aparahata  anila^alaprabha  (voc.  case)  prapatento  ^agati  viro-
 £asi.   For  anila^ala  I  read  anala^ala  (Sansk.  anala^vala).  Cf.
-Kara«da-vytiha,  p.  43:   Atharyavalokitejvaro  ^valad  ivagnipi«</am
+Kara«da-vytiha,  p.  43:   Atharyavalokitejvaro  ^valad  ivagnipi« /am
 aka^e  'ntarhita^.
 
 2  Kr/pasawbhfitamaitragar§ita    (voc.)    jubhaguwa    maitrama»a
@@ -20785,7 +20785,7 @@ them.  I  will  protect  them,  take  care  of  their  safety,
 avert  blows2,  and  destroy  poison.  I  will,  besides,
 O  Lord,  give  those  preachers  words  of  talismanic
 spells,  such  as,  Adande  da;^apati,  da^avartani
-daTzdaku.rale  da^</asudhari  dhari  sudharapati,  bud-
+daTzdaku.rale  da^ /asudhari  dhari  sudharapati,  bud-
 dhapasyani  dhara/zi,  avartani  sa^vartani  sangha-
 parlkshite  sahghanirghatani  dharmaparikshite  sarva-
 
@@ -20832,7 +20832,7 @@ Lalita-vistara),  but  in  some  of  the  words  occurring  in  the  spell ;  so
 for  da#^apati  the  Tibetan  text  has  da.nda.va.ti.    As  .Siva  in  Mahd-
 bharata  XII,  10361  is  represented  as  the  personified  Dawda,  we
 may  hold  that  all  the  names  above  belong  to  .Siva's  female  counter-
-part, Durga.     The  epithet  of  Si7whavikri<fita  is  but  a  variation  of
+part, Durga.     The  epithet  of  Si7whavikri fita  is  but  a  variation  of
 Siff/hika,  one  of  the  names  of  Dakshayam  or  Durga  in  her  quality
 of  mother  to  Rahu.    Cf.  the  remarks  on  the  spells  in  chap.  XXI.
 
@@ -21002,7 +21002,7 @@ the  talismanic  spell  Avarta.
 impossible  to  distinguish  between  pa  and  ya  in  the  Nepalese  MSS.
 
 
-44<D  SADDHARMA-PlWDARfKA.  XXVII.
+44 D  SADDHARMA-PlWDARfKA.  XXVII.
 
 
 CHAPTER   XXVII.
@@ -21128,7 +21128,7 @@ A^ita,  18  seq.,  290  seqq.,  311,  316
 
 ^  seq.,  320  seqq.
 A^ivaka,  263.
-A\f»ata-Kau«</inya,   2,  34,  56,  198,
+A\f»ata-Kau« /inya,   2,  34,  56,  198,
 
 202.
 
@@ -21262,7 +21262,7 @@ Bodhapakshika.   SeeBodhipakshika.
 Bodhi  (constituents  of).  See  Bodh-
 yanga.
 
-Bodhima«</a,  155.
+Bodhima« /a,  155.
 
 Bodhipakshika,  420.
 
@@ -21323,7 +21323,7 @@ Cunningham  (A.),  345.
 
 Dakshlyam,  435.
 Dan^a,  435.
-Da»</apati,  435.
+Da» /apati,  435.
 
 
 Daw^avati,  435.
@@ -22284,7 +22284,7 @@ TRANSLITERATION    OF    ORIENTAL   ALPHABETS.
 
 "~"
 
-f-\    n   TS   *^   r>                r-    <x    »—   »•-»   t~
+f-\    n   TS   *^   r>                r-     x    »—   »•-»   t~
 
 '
 
@@ -22321,7 +22321,7 @@ g
 
 <2x       ^J
 
-.    <v,   *i  ^
+.     v,   *i  ^
 
 »  —  ,  —  •   *
 
@@ -22347,7 +22347,7 @@ a             U
 
 >             %
 
-<J      ^S
+ J      ^S
 
 ^a          ^s    ,a
 
@@ -22371,7 +22371,7 @@ s        o
 
 §     :  :  :  :  :
 
-<A
+ A
 
 §  '."is!
 
@@ -22391,7 +22391,7 @@ p                         *d~                   B    Jft    «    J9     v     9
 
 H           S           O        ^        02*
 
-i-i     Cl     CO     •<*!     U3         CO         t*OOO5O'-<CNJ
+i-i     Cl     CO     •<*!     U3         CO         t*OOO5O'- CNJ
 
 o    ^                    .     .
 
@@ -22637,7 +22637,7 @@ Tenuissi
 Nasalis
 Semivoc
 
-S    9          <S
+S    9           S
 
 -H  >
 
@@ -22687,7 +22687,7 @@ IP   |f?     .  iv  ^
 O
 
 
-(M     (M     <M     <M     CM     IM     CM
+(M     (M      M      M     CM     IM     CM
 
 
 January,  1 888.
@@ -22739,7 +22739,7 @@ ENGLISH. — A  New  English  Dictionary,  on  Historical  Prin-
 ciples: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
 Edited  by  James  A.  H.  Murray,  LL.D.,  with  the  assistance  of  many  Scholars
 and  men  of  Science.  Part  I.  A— ANT.  Part  II.  ANT— BATTEN.
-Part  III.  BATTER— BOZ.  Imperial  410.  I2J.  6</.  each.
+Part  III.  BATTER— BOZ.  Imperial  410.  I2J.  6 /.  each.
 
 B
 
@@ -22772,12 +22772,12 @@ the  best  authorities.     1850.    24mo.  3J.
 
 -  A  Practical  Introduction  to  Greek  Accentuation,  by  H .
 
-W.  Chandler,  M.A.    Second  Edition.     1881.   8vo.    ioj.6</.
+W.  Chandler,  M.A.    Second  Edition.     1881.   8vo.    ioj.6 /.
 
 HEBREW. — The  Book  of  Hebrew   Roots,  by  Abu  '1-Walid
 
 Marwan  ibn  Janah,  otherwise  called  Rabbi  Yonah.  Now  first  edited,  with  an
-Appendix,  by  Ad.  Neubauer.  1875.  4to.  2/.  7.?.  6</.
+Appendix,  by  Ad.  Neubauer.  1875.  4to.  2/.  7.?.  6 /.
 
 A   Treatise  on  the  use  of  the  Tenses  in  Hebrew.     By
 
@@ -23006,7 +23006,7 @@ Fridericus  Field,  A.M.  2  vols.  1875.  410.  5/.  &s.
 The   Book  of  Wisdom:    the   Greek  Text,  the   Latin
 
 Vulgate,  and  the  Authorised  English  Version ;  with  an  Introduction,  Critical
-Apparatus,  and  a  Commentary.  By  William  J.  Deane.M.A.  Small4to.  iaj.  6</.
+Apparatus,  and  a  Commentary.  By  William  J.  Deane.M.A.  Small4to.  iaj.  6 /.
 
 Novum  Testamentum  Graece.  Antiquissimorum  Codicum
 
@@ -23035,7 +23035,7 @@ the  Revisers  of  the  Authorised  Version : —
 
 (1)  Pica  type,  with  Marginal  References.    Demy  8vo.  loj.  6d.
 
-(2)  Long  Primer  type.    Fcap.  8vo.   45.  6<f.
+(2)  Long  Primer  type.    Fcap.  8vo.   45.  6 f.
 
 (3)  The  same,  on  writing  paper,  with  wide  margin,  15$.
 
@@ -23163,7 +23163,7 @@ Burton,  with  an  Introduction  by  William  Bright,  D.D.     1881.    Crown  
 Irenaeus:  The  Third  Book  of  St.Irenaeus,  Bishop  of  Lyons,
 
 against  Heresies.    With  short  Notes  and  a  Glossary  by  H.  Deane,  B.D.
-1874.  Crown  8 vo.  5.?.  6</.
+1874.  Crown  8 vo.  5.?.  6 /.
 
 Patrum   Apostolicorum,    S.  dementis    Romani,    S.  Ignatii,
 
@@ -23321,7 +23321,7 @@ Edition,  1846.  8vo.  $s.
 
 Wyclif.    A  Catalogue  of  the  Original  Works  of  John  Wyclif,
 
-by  W.  W.  Shirley,  D.D.     1865.  8vo.  y.  6<t.
+by  W.  W.  Shirley,  D.D.     1865.  8vo.  y.  6 t.
 
 -  Select  English    Works.     By  T.  Arnold,  M.A.   3  vols.
 
@@ -23668,7 +23668,7 @@ Vol.  XX.  Vinaya  Texts.    Translated  from  the  Pali  by  T.  W.
 Rhys  Davids  and  Hermann  Oldenberg.  Part  III.  The  Aullavagga,  IV-XII.
 loj.  6d.
 
-Vol.  XXI.     The  Saddharma-puw<farika ;   or,  the  Lotus  of  the
+Vol.  XXI.     The  Saddharma-puw farika ;   or,  the  Lotus  of  the
 True  Law.    Translated  by  H.  Kern.     I2j.  6d.
 
 Vol.  XXII.    £aina-Sutras.    Translated  from  Prakrit  by  Her-
@@ -23876,7 +23876,7 @@ same  Editor.    New  Edition,  Revised.    Extra  fcap.  8vo.  4*.  6d.
 
 Gamelyn,  The  Tale  of.     Edited  with  Notes,  Glossary,  &c.,  by
 
-W.  W.  Skeat,  Litt.D.    Extra  fcap.  8vo.    Stiff  covers,  is.  6<t.
+W.  W.  Skeat,  Litt.D.    Extra  fcap.  8vo.    Stiff  covers,  is.  6 t.
 
 Minot  (Laurence}.     Poems.      Edited,  with  Introduction  and
 
@@ -25053,7 +25053,7 @@ Fortescue   (Sir  John,  Kt.}.      The   Governance  of  England:
 
 otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Mon-
 archy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
-by  Charles  Plummer,  M.A.  Svo.  half  bound,  I2J.  6</.
+by  Charles  Plummer,  M.A.  Svo.  half  bound,  I2J.  6 /.
 
 Freeman  (E.A.,  D.C.L.}.    A  Short  History  of  the  Norman
 
@@ -25203,7 +25203,7 @@ Lex  Aqidlia.     The  Roman  Law  of  Damage  to   Property :
 
 being  a  Commentary  on  the  Title  of  the  Digest  '  Ad  Legem  Aquiliam  '  (ix.  2).
 With  an  Introduction  to  the  Study  of  the  Corpus  luris  Civilis.  By  Erwin
-Grueber,  Dr.  Jur.,  M.A.  Demy  Svo.  IQJ.  6</.
+Grueber,  Dr.  Jur.,  M.A.  Demy  Svo.  IQJ.  6 /.
 
 
 38  CLARENDON  PRESS,  OXFORD.
@@ -25261,7 +25261,7 @@ the  use  of  Students  in  the  Universities.  Fourth  Edition.  Extra  fcap.  
 (Introductory  Chapters).     Svo.  boards,  y.  6ct.
 
 •  The  Principles  of  Morals.     Part  II.     (Being  the  Body
-of  the  Work.)     Svo.     los.  6</.
+of  the  Work.)     Svo.     los.  6 /.
 
 Edited  by  T.  FOWLER,  D.D.
 

@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_ethnologyofkwaki00boas
+  work_id: native_american.ethnology_kwakiutl_1.boas_hunt_archive
+  title: Ethnology of the Kwakiutl, Part 1
+  source_url: https://archive.org/details/ethnologyofkwaki00boas
+  fetch_date: '2026-07-18'
+  raw:
+    path: imports/raw/project-gutenberg/ethnologyofkwaki00boas-ethnology-kwakiutl-1-boas-hunt.txt
+    checksum:
+      algorithm: sha256
+      value: 0e67332478e4a266f8eb328a1215e54fe5f984afe32923f5c92dcf5172eefa52
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/ethnologyofkwaki00boas-ethnology-kwakiutl-1-boas-hunt.md
+    checksum:
+      algorithm: sha256
+      value: 446f67c371fb53302ef619fbbddc5e9e4680401984dfaae53c4d869db9425586
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+    checksum:
+      algorithm: sha256
+      value: c2e8588af528d211834b9a586189f2f05ac5ac613f45cf37a3a9754b6d7585b9
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids native_american.ethnology_kwakiutl_1.boas_hunt_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: US government publication (BAE), public domain. Recording context - like
+      Tsimshian Mythology, based on texts written in the native language by a native
+      writer (George Hunt) and translated by Boas; substitutes for the 1905 Jesup
+      Kwakiutl Texts, which has no clean digital text on archive.org.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

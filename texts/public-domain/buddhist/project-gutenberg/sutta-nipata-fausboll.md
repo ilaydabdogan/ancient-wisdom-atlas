@@ -6565,7 +6565,7 @@ ghosha’s Parables, pp. 63, 66.
 THE DOWNWARD COURSE. a7
 
 
-ao tO ee a <a
+ao tO ee a  a
 
 
 318. They who see sin where there is no sin, and
@@ -8662,7 +8662,7 @@ ree 7) a eter Ne pai ih oe
 ’ Re — Pi | ‘pa? ¥ oo ;
 we
 a? — noe 4 ‘
-<! wh i mG Ary wT? y a that.
+ ! wh i mG Ary wT? y a that.
 - » an ae “4 a hc
 + 4 ie pid
 fe) _ 4 sale siti eel 9? ,
@@ -16886,7 +16886,7 @@ To the Brahmana Bavart, living on the banks of the Godhavari,
 in Assaka’s territory, comes another Bréhmava and asks for five
 hundred pieces of money, but not getting them he curses Bavari,
 saying, ‘May thy head. on the seventh day hence cleave into
-seven. <A deity comforts Bavari by referring him to Buddha.
+seven.  A deity comforts Bavari by referring him to Buddha.
 Then Bavart sends his sixteen disciples to Buddha, and each of
 them asks Buddha a question.
 
