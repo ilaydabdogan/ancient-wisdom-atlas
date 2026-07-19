@@ -6,6 +6,7 @@ import {
   constellations,
   nullModel,
   isolatedPredictionTest,
+  crownExperiment,
   replicationAgreement,
   sequenceGrammar,
   motifIndex,
@@ -22,6 +23,8 @@ const constDoc = constellations();
 const web = (constDoc.constellations ?? [])[0];
 const nullDoc = nullModel();
 const iso = isolatedPredictionTest();
+const crown = crownExperiment();
+const crownPrimary = (crown.results ?? []).find((r) => r.k === crown.primary_k) ?? (crown.results ?? [])[0];
 const rep = replicationAgreement();
 const seq = sequenceGrammar();
 
@@ -201,6 +204,48 @@ const permTotal = iso.result?.permutations_beaten?.split('/')[1] ?? null;
         <p class="gloss"><strong>{fmtPct(iso.result?.null_mean)}</strong> expected by chance</p>
         <p class="gloss"><strong>{iso.result?.permutations_beaten}</strong> permutations beaten</p>
         <p class="gloss"><strong>×{iso.result?.lift}</strong> lift over the null</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">The capstone · assimilation-immune</p>
+        <h2>Two worlds that never met, one architecture</h2>
+        <p class="dropcap">
+          The isolated-lineage test had one fair objection: to compare the isolated
+          peoples with the connected world, we sorted their motifs into <em>our</em>
+          families — so of course they looked familiar. The crown experiment removes
+          that step entirely. We let the isolated world and the connected world each
+          build their own motif-families from scratch, blind, never seeing each other
+          or our categories — then asked whether the two webs of “which patterns
+          travel together” have the same shape.
+        </p>
+        <p>
+          At {crown.primary_k} families each,
+          {' '}<strong>{fmtPct(crownPrimary?.reproduction)}</strong> of the isolated
+          world's bonds reappear in the connected world's, where chance yields only
+          {' '}<strong>{fmtPct(crownPrimary?.null_mean)}</strong>. The match beat
+          {' '}{crownPrimary?.permutations_beaten} permutations
+          (p = {crownPrimary?.p_value}), and a second, label-free test found the two
+          webs' structures statistically indistinguishable (degree-KS p =
+          {' '}{crownPrimary?.degree_ks_p?.toFixed(2)}). The preregistered verdict:
+          {' '}<span class="verdict">{crown.verdict}</span>.
+        </p>
+        <p>
+          <em>Why it matters:</em> no mapping into shared categories can explain a
+          match between two webs that were never allowed to see one another. It is
+          convergence, not identity — nearly half of each world remains its own — but
+          it is more agreement than chance can reach. The full walkthrough, the
+          numbers, and the honest limits are on <a href="/crown/">the Crown</a>.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{fmtPct(crownPrimary?.reproduction)}</strong> bonds in both worlds</p>
+        <p class="gloss"><strong>{fmtPct(crownPrimary?.null_mean)}</strong> expected by chance</p>
+        <p class="gloss"><strong>{crownPrimary?.permutations_beaten}</strong> permutations beaten</p>
+        <p class="gloss"><strong>{crownPrimary?.degree_ks_p?.toFixed(2)}</strong> topology-KS p (indistinguishable)</p>
       </div>
     </section>
 

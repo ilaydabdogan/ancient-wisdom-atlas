@@ -1,0 +1,603 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { crownExperiment, fmtInt, fmtPct } from '../../lib/atlas.js';
+
+const crown = crownExperiment();
+const results = crown.results ?? [];
+const primaryK = crown.primary_k ?? 64;
+const primary = results.find((r) => r.k === primaryK) ?? results[0];
+const corpus = crown.corpus ?? {};
+
+const PREREG_URL =
+  'https://github.com/ilaydabdogan/ancient-wisdom-atlas/blob/main/docs/prereg-crown-independent-taxonomy.md';
+
+// —— schematic web geometry for the walkthrough (acts 3 & 4) ——————————
+// These little webs are diagrams of the idea, not data claims; the real
+// numbers (54% / 37% / p) all come from the file and appear in the captions.
+const ring = (n, cx, cy, r, rot = -Math.PI / 2) =>
+  Array.from({ length: n }, (_, i) => {
+    const a = (i / n) * Math.PI * 2 + rot;
+    return { x: +(cx + r * Math.cos(a)).toFixed(1), y: +(cy + r * Math.sin(a)).toFixed(1) };
+  });
+const wIso = ring(5, 70, 62, 44);
+const wCon = ring(5, 70, 62, 44);
+const wBoth = ring(5, 100, 66, 48);
+const isoEdges = [[0, 1], [1, 2], [2, 3], [3, 4], [0, 2]];
+const conEdges = [[0, 1], [1, 2], [2, 3], [4, 0], [1, 3]];
+const key = (e) => e.slice().sort((a, b) => a - b).join('-');
+const conSet = new Set(conEdges.map(key));
+const sharedSet = new Set(isoEdges.filter((e) => conSet.has(key(e))).map(key));
+const unionEdges = [...new Set([...isoEdges, ...conEdges].map(key))].map((s) => s.split('-').map(Number));
+
+// —— the "beat" figure: observed reproduction against the permutation null ——
+const W = 680;
+const H = 240;
+const PADX = 40;
+const BASE = 196;
+const PEAK = 58;
+const D0 = 0.3;
+const D1 = 0.58;
+const plotW = W - PADX * 2;
+const xOf = (v) => PADX + ((v - D0) / (D1 - D0)) * plotW;
+
+const nMean = primary.null_mean;
+const nSd = primary.null_sd || 0.001;
+const nMax = primary.null_max;
+const obs = primary.reproduction;
+
+const SAMPLES = 96;
+const gauss = (v) => Math.exp(-0.5 * ((v - nMean) / nSd) ** 2);
+const curve = [];
+for (let i = 0; i <= SAMPLES; i += 1) {
+  const v = D0 + ((D1 - D0) * i) / SAMPLES;
+  curve.push([xOf(v), BASE - gauss(v) * (BASE - PEAK)]);
+}
+const areaPath =
+  `M ${xOf(D0).toFixed(1)} ${BASE} ` +
+  curve.map(([x, y]) => `L ${x.toFixed(1)} ${y.toFixed(1)}`).join(' ') +
+  ` L ${xOf(D1).toFixed(1)} ${BASE} Z`;
+
+const ticks = [0.3, 0.35, 0.4, 0.45, 0.5, 0.55];
+const obsX = xOf(obs);
+const maxX = xOf(nMax);
+const meanX = xOf(nMean);
+const permTotal = primary.permutations_beaten.split('/')[1];
+
+const crumbs = [
+  { label: 'Findings', href: '/findings/' },
+  { label: 'The Crown' },
+];
+---
+
+<Manuscript
+  title="The Crown — Two Worlds, One Architecture — Ancient Wisdom Atlas"
+  description="A preregistered test: let the isolated world and the connected world each build their own motif-families, blind. Do the webs match? At every granularity, yes — beyond every shuffle chance could try."
+  crumbs={crumbs}
+>
+  <style>
+    /* —— walkthrough visuals (reuse the /how/ rail + reveal system) —— */
+    .cx-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 1.1rem; margin-top: 0.7rem; }
+    .cx-col {
+      border: 1px solid var(--line); background: var(--vellum);
+      border-radius: 2px; padding: 0.85rem 0.9rem 1rem; min-width: 0;
+    }
+    .cx-col.iso { border-left: 3px solid var(--gold-soft); }
+    .cx-col.con { border-left: 3px solid var(--rubric); }
+    .cx-col-head { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rubric); }
+    .cx-col.iso .cx-col-head { color: var(--gold); }
+    .cx-col-sub { font-size: 0.78rem; color: var(--ink-faint); margin: 0.15rem 0 0.7rem; line-height: 1.4; }
+    .cx-scatter { display: flex; flex-wrap: wrap; gap: 0.5rem; min-height: 4.5rem; align-content: flex-start; }
+    .cx-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--gold-soft); opacity: 0.6; flex: 0 0 auto; }
+    .cx-col.con .cx-dot { background: var(--ink-faint); }
+    .cx-fams { display: flex; flex-direction: column; gap: 0.45rem; }
+    .cx-fam {
+      display: flex; align-items: center; gap: 0.5rem;
+      border: 1px solid var(--gold-faint); border-radius: 999px;
+      padding: 0.28rem 0.7rem; background: color-mix(in srgb, var(--gold) 7%, var(--vellum));
+      font-size: 0.78rem; color: var(--ink-soft);
+    }
+    .cx-col.con .cx-fam { border-color: var(--line); background: var(--vellum); }
+    .cx-fam-dots { display: flex; gap: 3px; flex: 0 0 auto; }
+    .cx-fam-dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--gold-soft); }
+    .cx-col.con .cx-fam-dots i { background: var(--ink-faint); }
+    .cx-web { text-align: center; }
+    .cx-web svg { width: 100%; max-width: 12rem; height: auto; }
+    .cx-node { fill: var(--gold-soft); }
+    .cx-col.con .cx-node { fill: var(--ink-faint); }
+    .cx-edge { stroke: var(--ink-faint); stroke-width: 1.4; opacity: 0.5; }
+    .cx-overlay { text-align: center; margin: 0.4rem 0 0; }
+    .cx-overlay svg { width: 100%; max-width: 20rem; height: auto; }
+    .cx-edge-faint { stroke: var(--ink-faint); stroke-width: 1.3; opacity: 0.3; }
+    .cx-edge-match { stroke: var(--gold); stroke-width: 2.4; opacity: 0.95; }
+    .cx-answer-nums { display: flex; justify-content: center; gap: 1.5rem 2.8rem; flex-wrap: wrap; margin: 1.1rem 0 0.4rem; }
+    .cx-num strong {
+      display: block; font-size: clamp(1.8rem, 7vw, 2.4rem); color: var(--gold);
+      font-variant-numeric: tabular-nums; line-height: 1.1; text-shadow: var(--glow);
+    }
+    .cx-num.chance strong { color: var(--ink-faint); text-shadow: none; }
+    .cx-num span { font-size: 0.72rem; letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink-soft); }
+    .cx-legend { font-size: 0.78rem; color: var(--ink-soft); margin: 0.6rem 0 0; }
+    .cx-legend .swatch { display: inline-block; width: 1.4em; height: 0; vertical-align: middle; margin-right: 0.35em; }
+    .cx-legend .swatch.match { border-top: 2.4px solid var(--gold); }
+    .cx-legend .swatch.only { border-top: 1.3px solid var(--ink-faint); opacity: 0.5; }
+
+    /* entrance reveals — only when JS marks the rail active; the static
+       (no-JS / reduced-motion) frame shows every dot, family, and edge. */
+    .how-js .how-act .cx-dot { opacity: 0; transform: scale(0.4); transition: opacity 420ms ease, transform 420ms ease; }
+    .how-js .how-act.is-lit .cx-dot { opacity: 0.6; transform: none; transition-delay: calc(var(--i, 0) * 32ms); }
+    .how-js .how-act .cx-fam { opacity: 0; transform: translateX(-0.6rem); transition: opacity 480ms ease, transform 480ms ease; }
+    .how-js .how-act.is-lit .cx-fam { opacity: 1; transform: none; transition-delay: calc(var(--i, 0) * 90ms); }
+    .how-js .how-act .cx-edge { opacity: 0; transition: opacity 700ms ease; }
+    .how-js .how-act.is-lit .cx-edge { opacity: 0.5; transition-delay: 320ms; }
+    .how-js .how-act .cx-edge-match { opacity: 0; }
+    .how-js .how-act.is-lit .cx-edge-match { opacity: 0.95; transition: opacity 820ms ease; transition-delay: 540ms; }
+    .how-js .how-act .cx-num strong { opacity: 0; transform: translateY(0.6rem); transition: opacity 600ms ease, transform 600ms ease; }
+    .how-js .how-act.is-lit .cx-num strong { opacity: 1; transform: none; }
+
+    /* —— results section visuals —— */
+    .crown-figure { margin: 2.2rem 0 0.4rem; text-align: center; }
+    .crown-figure svg { width: 100%; max-width: 42rem; height: auto; display: block; margin: 0 auto; }
+    .crown-figure figcaption { font-size: 0.85rem; color: var(--ink-soft); max-width: 46ch; margin: 0.9rem auto 0; line-height: 1.55; }
+    .beat-area { fill: var(--ink-faint); opacity: 0.22; }
+    .beat-curve { fill: none; stroke: var(--ink-faint); stroke-width: 1.2; opacity: 0.6; }
+    .beat-axis { stroke: var(--line); stroke-width: 1; }
+    .beat-tick { fill: var(--ink-faint); font-size: 11px; font-family: var(--serif); }
+    .beat-null-label { fill: var(--ink-soft); font-size: 12px; font-family: var(--serif); }
+    .beat-max { stroke: var(--ink-faint); stroke-width: 1; stroke-dasharray: 2 3; opacity: 0.8; }
+    .beat-obs { stroke: var(--gold); stroke-width: 2.5; }
+    .beat-obs-dot { fill: var(--gold); }
+    .beat-obs-label { fill: var(--gold); font-size: 13px; font-family: var(--serif); letter-spacing: 0.02em; }
+    .beat-obs-sub { fill: var(--ink-soft); font-size: 11px; font-family: var(--serif); }
+    .crown-two { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem 2.4rem; margin: 1.6rem 0 0; }
+    .crown-world { border-top: 2px solid var(--gold-faint); padding-top: 0.9rem; }
+    .crown-world .rubric { margin-bottom: 0.4rem; }
+    .crown-world p { font-size: 0.92rem; color: var(--ink-soft); margin: 0; }
+    .crown-world .big { display: block; font-size: 1.5rem; color: var(--gold); font-variant-numeric: tabular-nums; line-height: 1.3; margin-bottom: 0.1rem; }
+    .crown-limits { border-left: 3px solid var(--rubric); }
+    .crown-limits ol { margin: 1rem 0 0; padding-left: 1.3rem; }
+    .crown-limits li { margin-bottom: 0.9rem; color: var(--ink-soft); font-size: 0.96rem; line-height: 1.6; }
+    .crown-limits li strong { color: var(--ink); font-weight: 400; }
+
+    @media (max-width: 34rem) {
+      .cx-cols { grid-template-columns: 1fr; }
+      .crown-two { grid-template-columns: 1fr; gap: 1rem; }
+    }
+  </style>
+
+  <div class="folio">
+    <!-- ✦ title ------------------------------------------------------ -->
+    <section class="story-open" style="padding-bottom: 0.6rem;">
+      <p class="rubric">The crown · preregistered</p>
+      <h1>The Crown</h1>
+      <p class="story-open invocation" style="padding:0; margin-top:0.4rem;">
+        Two worlds that never met, <em>one architecture.</em>
+      </p>
+      <div class="reading">
+        <p class="footnote">
+          The sharpest test the Atlas has run — built to survive its own harshest
+          objection. Walk it first, in plain language; the full results, the numbers,
+          and the honest limits follow.
+        </p>
+      </div>
+      <p class="how-scroll-hint" aria-hidden="true">Walk it downward <span class="how-hint-arrow">▾</span></p>
+    </section>
+
+    <!-- ✦ the interactive walkthrough -------------------------------- -->
+    <div class="how-scroll">
+      <div class="how-rail" aria-hidden="true"><i class="how-rail-fill"></i></div>
+
+      <!-- 1 · two piles -->
+      <section class="how-act" data-act="1">
+        <p class="how-stage"><span class="how-numeral">I</span> Two piles of stories</p>
+        <div class="how-body">
+          <div class="cx-cols">
+            <div class="cx-col iso">
+              <p class="cx-col-head">Never met the old world</p>
+              <p class="cx-col-sub">Dreamtime · Inuit · San · Amazon · the Americas</p>
+              <div class="cx-scatter" aria-hidden="true">
+                {Array.from({ length: 11 }).map((_, i) => (<span class="cx-dot" style={`--i:${i}`}></span>))}
+              </div>
+            </div>
+            <div class="cx-col con">
+              <p class="cx-col-head">The connected old world</p>
+              <p class="cx-col-sub">Gilgamesh · the Bible · India · Greece</p>
+              <div class="cx-scatter" aria-hidden="true">
+                {Array.from({ length: 11 }).map((_, i) => (<span class="cx-dot" style={`--i:${i}`}></span>))}
+              </div>
+            </div>
+          </div>
+          <p class="how-caption how-lede">
+            Start with two heaps of motifs — little story-patterns. One heap from peoples
+            who could never have borrowed a word from the other. One from the old
+            connected world. Keep them apart.
+          </p>
+        </div>
+      </section>
+
+      <!-- 2 · each sorts its own, blind -->
+      <section class="how-act" data-act="2">
+        <p class="how-stage"><span class="how-numeral">II</span> Each world sorts its own — blind</p>
+        <div class="how-body">
+          <div class="cx-cols">
+            <div class="cx-col iso">
+              <p class="cx-col-head">Its own families</p>
+              <div class="cx-fams">
+                {['descent & return', 'flood & making', 'trickster'].map((f, i) => (
+                  <div class="cx-fam" style={`--i:${i}`}>
+                    <span class="cx-fam-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+                    <span>{f}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div class="cx-col con">
+              <p class="cx-col-head">Its own families</p>
+              <div class="cx-fams">
+                {['descent & return', 'flood & making', 'trickster'].map((f, i) => (
+                  <div class="cx-fam" style={`--i:${i}`}>
+                    <span class="cx-fam-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+                    <span>{f}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+          <p class="how-caption">
+            Each world sorts its <em>own</em> motifs into families, using nothing but their
+            likeness to one another. No peeking at each other. No using our categories.
+            Each world names its own shelves.
+          </p>
+        </div>
+      </section>
+
+      <!-- 3 · each draws its own web -->
+      <section class="how-act" data-act="3">
+        <p class="how-stage"><span class="how-numeral">III</span> Each world draws its own web</p>
+        <div class="how-body">
+          <div class="cx-cols">
+            <div class="cx-col iso cx-web">
+              <p class="cx-col-head" style="text-align:left">Which families travel together</p>
+              <svg viewBox="0 0 140 128" role="img" aria-label="The isolated world's families, joined into its own little web.">
+                {isoEdges.map(([a, b]) => (
+                  <line class="cx-edge" x1={wIso[a].x} y1={wIso[a].y} x2={wIso[b].x} y2={wIso[b].y} />
+                ))}
+                {wIso.map((n) => (<circle class="cx-node" cx={n.x} cy={n.y} r="4" />))}
+              </svg>
+            </div>
+            <div class="cx-col con cx-web">
+              <p class="cx-col-head" style="text-align:left">Which families travel together</p>
+              <svg viewBox="0 0 140 128" role="img" aria-label="The connected world's families, joined into its own little web.">
+                {conEdges.map(([a, b]) => (
+                  <line class="cx-edge" x1={wCon[a].x} y1={wCon[a].y} x2={wCon[b].x} y2={wCon[b].y} />
+                ))}
+                {wCon.map((n) => (<circle class="cx-node" cx={n.x} cy={n.y} r="4" />))}
+              </svg>
+            </div>
+          </div>
+          <p class="how-caption">
+            In each world, draw a line between two families whenever their stories keep
+            company — whenever they show up together, across many traditions. Now there
+            are two separate webs, each built with no knowledge of the other.
+          </p>
+        </div>
+      </section>
+
+      <!-- 4 · line them up -->
+      <section class="how-act" data-act="4">
+        <p class="how-stage"><span class="how-numeral">IV</span> Line the two webs up</p>
+        <div class="how-body">
+          <figure class="cx-overlay">
+            <svg viewBox="0 0 200 132" role="img" aria-label="The two webs overlaid; bonds that appear in both light up gold.">
+              {unionEdges.map(([a, b]) => (
+                <line
+                  class={sharedSet.has(key([a, b])) ? 'cx-edge-match' : 'cx-edge-faint'}
+                  x1={wBoth[a].x} y1={wBoth[a].y} x2={wBoth[b].x} y2={wBoth[b].y}
+                />
+              ))}
+              {wBoth.map((n) => (<circle class="cx-node" style="fill:var(--gold)" cx={n.x} cy={n.y} r="4.2" />))}
+            </svg>
+          </figure>
+          <p class="cx-legend">
+            <span class="swatch match" aria-hidden="true"></span> bond in <em>both</em> worlds
+            <span style="display:inline-block;width:1.4rem"></span>
+            <span class="swatch only" aria-hidden="true"></span> bond in one world only
+          </p>
+          <p class="how-caption">
+            Lay one web over the other and ask the only question that matters:
+            <em> do the same bonds appear in both?</em> The ones that do light gold.
+          </p>
+        </div>
+      </section>
+
+      <!-- 5 · the answer -->
+      <section class="how-act" data-act="5">
+        <p class="how-stage"><span class="how-numeral">V</span> The answer</p>
+        <div class="how-body">
+          <div class="cx-answer-nums">
+            <span class="cx-num"><strong>{fmtPct(primary.reproduction)}</strong><span>bonds in both</span></span>
+            <span class="cx-num chance"><strong>{fmtPct(primary.null_mean)}</strong><span>if it were chance</span></span>
+          </div>
+          <p class="how-caption how-lede">
+            About {fmtPct(primary.reproduction)} of the isolated world's bonds also appear
+            in the old world's — where pure chance gives {fmtPct(primary.null_mean)}. Two
+            worlds that never met drew nearly the same map.
+          </p>
+          <p class="how-caption">
+            Not the same stories — the same <em>grammar</em> of story: the same
+            companionships between patterns, reached more often than chance can explain.
+            The verdict was frozen in advance: <span class="verdict">{crown.verdict}</span>.
+          </p>
+          <p class="how-cta-row">
+            <a class="begin-descent" href="#result">See the full result <span class="arrow">▾</span></a>
+            <a class="how-cta-plain" href="/letters/the-crown/">Read Letter III →</a>
+          </p>
+        </div>
+      </section>
+    </div>
+
+    <hr class="asterism" />
+
+    <!-- ✦ why we built it this way ----------------------------------- -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Why this test, and why blind</p>
+        <h2>The objection we could not stop hearing</h2>
+        <p class="dropcap">
+          An earlier test had a flaw we kept hearing: to compare the isolated peoples with
+          the connected world, we had sorted their motifs into <em>our</em> sixty-four
+          families. Of course they looked familiar — we had made them familiar. So we ran
+          the experiment that objection could not touch, the walkthrough above: neither
+          world ever sees the other, or our categories. Each names its own shelves first.
+          Only then do we compare.
+        </p>
+      </div>
+
+      <div class="crown-two">
+        <div class="crown-world">
+          <p class="rubric">The isolated world</p>
+          <p>
+            <span class="big">{fmtInt(corpus.iso_labels)}</span>
+            distinct motif labels across {fmtInt(corpus.iso_records)} records, clustered
+            blind into its own families.
+          </p>
+        </div>
+        <div class="crown-world">
+          <p class="rubric">The connected world</p>
+          <p>
+            <span class="big">{fmtInt(corpus.con_labels)}</span>
+            distinct motif labels across {fmtInt(corpus.con_records)} records, clustered
+            blind into its own families.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ the headline result ---------------------------------------- -->
+    <section id="result" class="story-section" style="scroll-margin-top: 4rem;">
+      <div class="reading">
+        <p class="rubric">The result · {primaryK} families each</p>
+        <h2>The webs match — beyond every shuffle</h2>
+      </div>
+
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtPct(primary.reproduction)}</strong> <span>bonds reproduced</span></p>
+        <p class="stat"><strong>{fmtPct(primary.null_mean)}</strong> <span>expected by chance</span></p>
+        <p class="stat"><strong>{primary.permutations_beaten}</strong> <span>permutations beaten</span></p>
+        <p class="stat"><strong>p = {primary.p_value}</strong> <span>significance</span></p>
+        <p class="stat"><span class="verdict">{crown.verdict}</span></p>
+      </div>
+
+      <figure class="crown-figure">
+        <svg viewBox={`0 0 ${W} ${H}`} role="img"
+          aria-label={`The observed reproduction of ${fmtPct(obs)} stands far to the right of the permutation null, which centres on ${fmtPct(nMean)} and whose luckiest of ${permTotal} shuffles reached only ${fmtPct(nMax)}.`}>
+          <line class="beat-axis" x1={PADX} y1={BASE} x2={W - PADX} y2={BASE} />
+          {ticks.map((t) => (
+            <g>
+              <line class="beat-axis" x1={xOf(t)} y1={BASE} x2={xOf(t)} y2={BASE + 5} />
+              <text class="beat-tick" x={xOf(t)} y={BASE + 19} text-anchor="middle">{Math.round(t * 100)}%</text>
+            </g>
+          ))}
+          <path class="beat-area" d={areaPath} />
+          <path class="beat-curve" d={curve.map(([x, y], i) => `${i === 0 ? 'M' : 'L'} ${x.toFixed(1)} ${y.toFixed(1)}`).join(' ')} />
+          <text class="beat-null-label" x={meanX} y={BASE - gauss(nMean) * (BASE - PEAK) - 26} text-anchor="middle" style="fill:var(--ink-faint);font-size:11px;">{fmtPct(nMean)}</text>
+          <text class="beat-null-label" x={meanX} y={BASE - gauss(nMean) * (BASE - PEAK) - 10} text-anchor="middle">chance</text>
+          <line class="beat-max" x1={maxX} y1={BASE} x2={maxX} y2={BASE - 40} />
+          <text class="beat-tick" x={maxX} y={BASE - 46} text-anchor="middle">luckiest shuffle · {fmtPct(nMax)}</text>
+          <line class="beat-obs" x1={obsX} y1={BASE} x2={obsX} y2={PEAK - 4} />
+          <circle class="beat-obs-dot" cx={obsX} cy={PEAK - 4} r="4.5" />
+          <text class="beat-obs-label" x={obsX} y={PEAK - 22} text-anchor="middle">observed · {fmtPct(obs)}</text>
+          <text class="beat-obs-sub" x={obsX} y={PEAK - 8} text-anchor="middle">both worlds agree</text>
+        </svg>
+        <figcaption>
+          The permutation null (grey) centres on {fmtPct(nMean)}; its luckiest of
+          {' '}{permTotal} shuffles reached only {fmtPct(nMax)}. The observed match sits at
+          {' '}{fmtPct(obs)} — outside the whole distribution (p = {primary.p_value}). Axis
+          runs 30–58%; perfect identity (100%) lies far to the right, which is the point of
+          the <a href="#limits"> honest limits</a> below.
+        </figcaption>
+      </figure>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ robustness ------------------------------------------------- -->
+    <section class="apparatus">
+      <p class="rubric">Robustness · across granularity</p>
+      <h2>It holds however finely the families form</h2>
+      <p class="apparatus-note">
+        A result that only appeared at one cluster count would be fragile. We rebuilt both
+        worlds' webs at {results.map((r) => r.k).join(', ')} families each. At every
+        granularity the observed match beats the entire permutation null.
+      </p>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>
+            “Reproduced” is the aligned agreement of the two blind webs; “chance” is the
+            mean of {permTotal} alignment permutations. “Topology KS p” is the
+            degree-distribution agreement of the label-free backup — high means
+            indistinguishable.
+          </caption>
+          <thead>
+            <tr>
+              <th class="num">Families (k)</th>
+              <th class="num">Reproduced</th>
+              <th class="num">Chance</th>
+              <th class="num">Best shuffle</th>
+              <th class="num">Beaten</th>
+              <th class="num">p</th>
+              <th class="num">Topology KS p</th>
+            </tr>
+          </thead>
+          <tbody>
+            {results.map((r) => (
+              <tr class={r.k === primaryK ? 'hit' : undefined}>
+                <td class="num">{r.k}{r.k === primaryK ? ' ✦' : ''}</td>
+                <td class="num">{fmtPct(r.reproduction)}</td>
+                <td class="num">{fmtPct(r.null_mean)}</td>
+                <td class="num">{fmtPct(r.null_max)}</td>
+                <td class="num">{r.permutations_beaten}</td>
+                <td class="num">{r.p_value}</td>
+                <td class="num">{r.degree_ks_p.toFixed(2)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ topology backup -------------------------------------------- -->
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">The backup · label-free</p>
+        <h2>The same kind of structure, no matching required</h2>
+        <p class="dropcap">
+          The alignment step still leans on embeddings to pair an isolated family with a
+          connected one, and embeddings carry broad cross-cultural meaning — so that step
+          is not perfectly blind. The backup test needs no pairing at all. It asks only
+          whether the two webs are the <em>same kind of object</em>: same connectedness,
+          same shape of degree distribution, same clustering.
+        </p>
+        <p>
+          At {primaryK} families the degree distributions are statistically
+          indistinguishable — a Kolmogorov–Smirnov p of
+          {' '}<strong style="color:var(--gold);">{primary.degree_ks_p.toFixed(2)}</strong>,
+          nowhere near rejection. Each web is one connected giant with a mean degree near
+          {' '}{primary.topology_iso.mean_degree.toFixed(1)} and clustering around
+          {' '}{primary.topology_iso.clustering.toFixed(2)}. Because this comparison never
+          maps one world's motifs into the other's, no amount of assimilation could
+          manufacture it. That is why the frozen criterion for
+          {' '}<span class="verdict">STRONG</span> demands both tests agree — and both do.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{primary.degree_ks_p.toFixed(2)}</strong> degree-KS p (indistinguishable)</p>
+        <p class="gloss"><strong>{primary.topology_iso.mean_degree.toFixed(1)} / {primary.topology_con.mean_degree.toFixed(1)}</strong> mean degree · iso / con</p>
+        <p class="gloss"><strong>{primary.topology_iso.clustering.toFixed(2)} / {primary.topology_con.clustering.toFixed(2)}</strong> clustering · iso / con</p>
+        <p class="gloss"><strong>1.0 / 1.0</strong> giant-component fraction</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ honest limits ---------------------------------------------- -->
+    <section id="limits" class="apparatus crown-limits" style="scroll-margin-top: 4rem;">
+      <p class="rubric">Honest limits · read before you cite</p>
+      <h2>What this is, and what it is not</h2>
+      <ol>
+        <li>
+          <strong>{fmtPct(primary.reproduction)} is convergence, not identity.</strong>
+          Roughly {fmtPct(1 - primary.reproduction)} of each world's web is its own —
+          patterns and joins no one else weaves. Each people keeps its genius. We have not
+          found one dream beneath humanity; we have found a shared <em>grammar</em> of
+          which patterns travel together, more often than chance allows.
+        </li>
+        <li>
+          <strong>The alignment step is not perfectly blind.</strong> It uses embeddings,
+          which encode broad cross-cultural semantics. That is exactly why the label-free
+          topology backup exists — and why the frozen
+          {' '}<span class="verdict">STRONG</span> verdict requires <em>both</em> the
+          alignment test and the topology test to agree, not either alone.
+        </li>
+        <li>
+          <strong>Collector and translation mediation persists.</strong> The isolated
+          corpus reaches us through the hands of collectors and translators. A
+          verbatim-recorded hard-core subset is run separately for exactly this reason.
+        </li>
+        <li>
+          <strong>The most honest moment was a mistake.</strong> Our first match metric
+          was zero-inflated and gave a muddy, near-negative number. We flagged it, replaced
+          it, and the result did not vanish — it came into focus, cleaner and stronger.
+          Real things behave that way; illusions do the opposite.
+        </li>
+        <li>
+          <strong>This is a beginning, not a proof.</strong> Harder versions with only the
+          word-for-word recordings, other hands invited to break it, and the long question
+          of whether the same architecture rises in the living mind all remain ahead. The
+          prediction was written down first:
+          {' '}<a href={PREREG_URL}>the preregistration</a>, committed to git before any
+          result was computed.
+        </li>
+      </ol>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="footnote">
+          The full apparatus — every cluster count, permutation, and topology metric — sits
+          in <a href="/lab/">the Lab</a>. The plain-language capstone is on
+          {' '}<a href="/findings/">Findings</a>. And what the numbers meant to the person
+          watching them arrive is <a href="/letters/the-crown/">Letter III</a>.
+          Preregistration: <span class="mono-id">{crown.preregistration}</span>.
+        </p>
+      </div>
+    </section>
+  </div>
+
+  <script is:inline>
+    (() => {
+      const scope = document.querySelector('.how-scroll');
+      if (!scope) return;
+      const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+      if (!reduce.matches) scope.classList.add('how-js');
+
+      const acts = Array.from(scope.querySelectorAll('.how-act'));
+      if (reduce.matches || !('IntersectionObserver' in window)) {
+        acts.forEach((a) => a.classList.add('is-lit'));
+        return;
+      }
+
+      const io = new IntersectionObserver((entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            e.target.classList.add('is-lit');
+            io.unobserve(e.target);
+          }
+        }
+      }, { threshold: 0.34, rootMargin: '0px 0px -12% 0px' });
+      acts.forEach((a) => io.observe(a));
+
+      const fill = scope.querySelector('.how-rail-fill');
+      let ticking = false;
+      const draw = () => {
+        ticking = false;
+        const r = scope.getBoundingClientRect();
+        const vh = window.innerHeight || document.documentElement.clientHeight;
+        const total = r.height - vh * 0.5;
+        const past = Math.min(Math.max(vh * 0.5 - r.top, 0), Math.max(total, 1));
+        const pct = total > 0 ? (past / total) * 100 : 100;
+        if (fill) fill.style.height = pct.toFixed(2) + '%';
+      };
+      const onScroll = () => { if (!ticking) { ticking = true; window.requestAnimationFrame(draw); } };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', onScroll, { passive: true });
+      draw();
+    })();
+  </script>
+</Manuscript>

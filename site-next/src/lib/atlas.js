@@ -118,6 +118,10 @@ export function isolatedPredictionTest() {
   return loadYaml('indexes/isolated-prediction-test.yml');
 }
 
+export function crownExperiment() {
+  return loadYaml('indexes/crown-independent-taxonomy.yml');
+}
+
 export function replicationAgreement() {
   return loadYaml('indexes/replication-agreement.yml');
 }
