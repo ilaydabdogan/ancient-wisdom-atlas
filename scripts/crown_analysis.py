@@ -137,6 +137,38 @@ def run(k):
         r, _, _ = reproduction(amap); null.append(r)
     null = np.array(null)
     beaten = int(np.sum(null < repro)); p = (np.sum(null >= repro) + 1) / (len(null) + 1)
+    # --- concrete named matched bonds (for the site) --------------------
+    matched = None
+    if k == 64:
+        def cluster_labels(pile, lab2cl, cents, cid, topn=6):
+            labs = [l for l in labels_in[pile] if lab2cl[l] == cid]
+            if not labs: return []
+            V = np.vstack([normalize(label2vec[l]) for l in labs])
+            sims = V @ cents[cid]
+            order = np.argsort(-sims)[:topn]
+            return [labs[i] for i in order]
+        def cluster_traditions(pile, lab2cl, cid):
+            ts = set()
+            for trad, ls in records[pile]:
+                if any(lab2cl[l] == cid for l in ls): ts.add(trad)
+            return sorted(ts)
+        iso_names = {c: cluster_labels("iso", iso_lab2cl, iso_cent, c) for c in range(k)}
+        con_names = {c: cluster_labels("con", con_lab2cl, con_cent, c) for c in range(k)}
+        iso_trads = {c: cluster_traditions("iso", iso_lab2cl, c) for c in range(k)}
+        bonds = []
+        for a in range(k):
+            for b in range(a+1, k):
+                if Wi[a, b] > 0 and Wc[align[a], align[b]] > 0:
+                    bonds.append((Wi[a, b] + Wc[align[a], align[b]], a, b))
+        bonds.sort(reverse=True)
+        matched = []
+        for _, a, b in bonds[:24]:
+            matched.append(dict(
+                iso_cluster_a=iso_names[a][:5], iso_cluster_b=iso_names[b][:5],
+                con_cluster_a=con_names[align[a]][:5], con_cluster_b=con_names[align[b]][:5],
+                iso_weight=round(float(Wi[a, b]), 3), con_weight=round(float(Wc[align[a], align[b]]), 3),
+                iso_traditions=(iso_trads[a] + iso_trads[b]),
+            ))
     topo_i, topo_c = topology(Wi), topology(Wc)
     ks = ks_2samp(topo_i.get("degrees", [0]), topo_c.get("degrees", [0]))
     return dict(k=k, alignment_cosine=round(align_quality, 4),
@@ -148,7 +180,8 @@ def run(k):
                 topology_iso={x: topo_i[x] for x in topo_i if x != "degrees"},
                 topology_con={x: topo_c[x] for x in topo_c if x != "degrees"},
                 degree_ks_stat=round(float(ks.statistic), 3),
-                degree_ks_p=round(float(ks.pvalue), 4))
+                degree_ks_p=round(float(ks.pvalue), 4),
+                matched_bonds=matched)
 
 results = [run(k) for k in (40, 64, 90)]
 primary = next(r for r in results if r["k"] == 64)
